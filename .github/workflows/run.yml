@@ -1,0 +1,24 @@
+name: form-and-xg
+on:
+  workflow_dispatch:      # runs only when you press "Run workflow"
+permissions:
+  contents: write
+jobs:
+  run:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Fetch form and xG for the matches in matches.txt
+        env:
+          APISPORTS_KEY: ${{ secrets.APISPORTS_KEY }}
+        run: python run.py --no-matchbook --xg 10
+      - name: Save results into the repository
+        run: |
+          git config user.name "betting-bot"
+          git config user.email "bot@users.noreply.github.com"
+          git add out
+          git commit -m "Form and xG $(date -u +'%Y-%m-%d %H:%M') UTC" || echo "nothing new"
+          git push
