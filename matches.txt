@@ -1,0 +1,2 @@
+# One match per line: Home v Away   (lines starting with # are ignored)
+Barcelona v Getafe
