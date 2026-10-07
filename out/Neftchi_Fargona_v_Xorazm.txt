@@ -1,0 +1,57 @@
+MATCH Neftchi Fargona v Xorazm | fetched 2026-10-07 13:35 local
+
+FORM DATA Neftchi Fargona v Xorazm | source API-Football | 2026-10-07 13:35 UTC
+H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
+
+=== Xorazm (id 16381): last 20 finished games ===
+2026-09-21 H 1-3 v Qizilqum | Super League | Urgench
+2026-09-16 A 1-2 v Olmaliq | Cup | Olmaliq
+2026-09-10 H 0-0 v Sogdiana | Super League | Urgench
+2026-09-03 A 0-1 v Olmaliq | Super League | Olmaliq
+2026-08-25 A 0-1 v Andijan | Super League | Andijan
+2026-08-20 H 1-3 v Lokomotiv | Super League | Urgench
+2026-08-14 A 2-2 v Dinamo Samarqand | Super League | Samarkand
+2026-08-07 H 2-0 v Mash'al | Super League | Urgench
+2026-08-02 A 1-5 v Navbahor | Super League | Namangan
+2026-07-28 H 1-0 v Surkhon | Super League | Urgench
+2026-07-21 A 1-2 v Pakhtakor | Super League | Tashkent
+2026-07-16 A 0-2 v Sogdiana | Super League | Jizzakh
+2026-05-04 H 0-3 v Andijan | Super League | Urgench
+2026-04-29 A 0-0 v Qizilqum | Super League | Navoiy
+2026-04-24 H 0-2 v Neftchi | Super League | Urgench
+2026-04-18 A 1-0 v Mash'al | Super League | Guzar
+2026-04-14 H 2-2 v Kokand-1912 | Super League | Urgench
+2026-04-07 A 1-1 v Lokomotiv | Super League | Tashkent
+2026-04-03 H 2-1 v Dinamo Samarqand | Super League | Urgench
+2026-03-18 H 1-2 v Bunyodkor | Super League | Urgench
+Listed home: 10 games, scored 10 (1.00), conceded 16 (1.60), blanks 3, clean sheets 3
+Listed away: 10 games, scored 7 (0.70), conceded 16 (1.60), blanks 4, clean sheets 2
+All: 20 games, scored 17 (0.85), conceded 32 (1.60), blanks 7, clean sheets 5
+
+!! Neftchi Fargona: No team found for "Neftchi Fargona".
+
+TABLE FOR Xorazm
+LEAGUE TABLE Super League 2026 | 16 teams | 176 games played
+League averages per game: home 1.45, away 1.22, total 2.67
+#   team                   Pts | home P GF-GA  | away P GF-GA  | all P GF-GA
+1   Neftchi                 51 | 11  28-6       | 11  22-11      | 22  50-17
+2   Pakhtakor               49 | 11  21-12      | 11  18-8       | 22  39-20
+3   Navbahor                44 | 11  22-14      | 11  17-7       | 22  39-21
+4   Olmaliq                 35 | 11  13-14      | 11  18-15      | 22  31-29
+5   Lokomotiv               35 | 11  20-11      | 11  16-17      | 22  36-28
+6   Nasaf                   34 | 11  16-9       | 11  17-12      | 22  33-21
+7   Buxoro                  34 | 11  19-10      | 11  13-19      | 22  32-29
+8   Andijan                 30 | 12  16-14      | 10  11-14      | 22  27-28
+9   Dinamo Samarqand        30 | 11  17-14      | 11  16-20      | 22  33-34
+10  Qizilqum                29 | 11  15-14      | 11   8-16      | 22  23-30
+11  Sogdiana                28 | 11  23-23      | 11  15-20      | 22  38-43
+12  Surkhon                 26 | 11   9-13      | 11  10-15      | 22  19-28
+13  Bunyodkor               22 | 11  11-17      | 11  11-19      | 22  22-36
+14  Xorazm                  21 | 11  11-16      | 11   7-16      | 22  18-32
+15  Kokand-1912             20 | 10  10-12      | 12   9-18      | 22  19-30
+16  Mash'al                  4 | 11   4-16      | 11   7-28      | 22  11-44
+
+(14 API-Football requests used)
+
+----------------------------------------------------------------------
+MATCHBOOK: skipped (switched off for this run)

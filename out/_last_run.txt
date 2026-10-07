@@ -1,3 +1,4 @@
-RUN 2026-10-07 13:01 local | 1 match(es)
-Zonguldak v Duzcespor -> out/Zonguldak_v_Duzcespor.txt
-Requests used: API-Football 6, Matchbook 0
+RUN 2026-10-07 13:35 local | 1 match(es)
+Neftchi Fargona v Xorazm -> out/Neftchi_Fargona_v_Xorazm.txt
+    !! Neftchi Fargona: No team found for "Neftchi Fargona".
+Requests used: API-Football 14, Matchbook 0
