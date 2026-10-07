@@ -1,3 +1,18 @@
-RUN 2026-10-07 06:00 local | 1 match(es)
-Barcelona v Getafe -> out/Barcelona_v_Getafe.txt
-Requests used: API-Football 25, Matchbook 0
+RUN 2026-10-07 06:15 local | 16 match(es)
+Real Madrid III v Guadalajara -> out/Real_Madrid_III_v_Guadalajara.txt
+Liechtenstein W v Gibraltar W -> out/Liechtenstein_W_v_Gibraltar_W.txt
+Jordan W v Armenia W -> out/Jordan_W_v_Armenia_W.txt
+RB Bragantino v Mirassol -> out/RB_Bragantino_v_Mirassol.txt
+Internacional v Corinthians -> out/Internacional_v_Corinthians.txt
+Remo v Gremio -> out/Remo_v_Gremio.txt
+Avai v Londrina -> out/Avai_v_Londrina.txt
+Operario-PR v Botafogo SP -> out/Operario_PR_v_Botafogo_SP.txt
+Vitoria v Chapecoense-sc -> out/Vitoria_v_Chapecoense_sc.txt
+Botafogo v Vasco DA Gama -> out/Botafogo_v_Vasco_DA_Gama.txt
+America Mineiro v Fortaleza EC -> out/America_Mineiro_v_Fortaleza_EC.txt
+CRB v Atletico Goianiense -> out/CRB_v_Atletico_Goianiense.txt
+Vila Nova v Cuiaba -> out/Vila_Nova_v_Cuiaba.txt
+Cruzeiro v Sao Paulo -> out/Cruzeiro_v_Sao_Paulo.txt
+Montenegro U19 W v Cyprus U19 W -> out/Montenegro_U19_W_v_Cyprus_U19_W.txt
+India W v Russia W -> out/India_W_v_Russia_W.txt
+Requests used: API-Football 349, Matchbook 0

@@ -1,0 +1,83 @@
+MATCH Vila Nova v Cuiaba | fetched 2026-10-07 06:15 local
+
+FORM DATA Vila Nova v Cuiaba | source API-Football | 2026-10-07 06:16 UTC
+H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
+
+=== Vila Nova (id 142): last 20 finished games ===
+2026-10-03 A 1-0 v Botafogo SP | Serie B | Ribeirao Preto | xG 0.22-1.14
+2026-09-25 H 2-0 v Londrina | Serie B | Goiania | xG 1.36-0.39
+2026-09-18 H 1-0 v America Mineiro | Serie B | Goiania | xG 1.36-1.71
+2026-09-15 A 1-1 v Avai | Serie B | Florianopolis
+2026-09-10 H 2-0 v Goias | Serie B | Goiânia | xG 1.16-0.50
+2026-09-04 A 0-5 v Athletic Club | Serie B | Minas Gerais | xG 0.87-2.91
+2026-08-30 H 2-0 v Ceara | Serie B | Goiânia | xG 1.82-0.39
+2026-08-23 A 0-0 v Operario-PR | Serie B | Ponta Grossa | xG 0.24-0.38
+2026-08-19 H 6-0 v Ponte Preta | Serie B | Goiânia | xG 3.74-0.31
+2026-08-15 A 2-0 v Atletico Goianiense | Serie B | Goiânia | xG 0.30-0.82
+2026-08-08 H 0-1 v Sport Recife | Serie B | Goiânia
+2026-07-27 A 0-2 v CRB | Serie B | Maceio
+2026-07-22 H 2-1 v Fortaleza EC | Serie B | Goiania
+2026-07-18 A 0-2 v Criciuma | Serie B | Criciúma
+2026-07-10 A 0-1 v Juventude | Serie B | Caxias do Sul
+2026-07-06 H 2-1 v São Bernardo | Serie B | Goiânia
+2026-06-26 A 1-2 v Novorizontino | Serie B | Novo Horizonte
+2026-06-20 H 4-3 v Nautico Recife | Serie B | Goiânia
+2026-06-14 A 0-1 v Cuiaba | Serie B | Cuiabá
+2026-06-08 H 1-0 v Botafogo SP | Serie B | Goiânia
+Listed home: 10 games, scored 22 (2.20), conceded 6 (0.60), blanks 1, clean sheets 6
+Listed away: 10 games, scored 5 (0.50), conceded 14 (1.40), blanks 6, clean sheets 3
+All: 20 games, scored 27 (1.35), conceded 20 (1.00), blanks 7, clean sheets 9
+
+=== Cuiaba (id 1193): last 20 finished games ===
+2026-10-03 H 2-0 v Ponte Preta | Serie B | Cuiaba
+2026-09-27 A 0-3 v CRB | Serie B | Maceio | xG 0.56-2.55
+2026-09-22 H 3-0 v Nautico Recife | Serie B | Cuiaba
+2026-09-13 A 1-1 v Novorizontino | Serie B | Novo Horizonte
+2026-09-08 H 3-0 v Athletic Club | Serie B | Cuiabá | xG 1.74-0.35
+2026-09-04 A 0-2 v Criciuma | Serie B | Criciúma | xG 1.08-0.25
+2026-08-29 A 2-1 v Botafogo SP | Serie B | Ribeirao Preto | xG 0.76-0.60
+2026-08-22 H 1-1 v Goias | Serie B | Cuiabá | xG 2.34-0.46
+2026-08-19 H 1-0 v Operario-PR | Serie B | Cuiabá | xG 0.58-1.03
+2026-08-15 A 3-1 v Ceara | Serie B | Fortaleza | xG 2.25-0.33
+2026-08-09 H 1-1 v Fortaleza EC | Serie B | Cuiabá
+2026-07-27 A 1-1 v Sport Recife | Serie B | Recife
+2026-07-23 H 0-1 v Atletico Goianiense | Serie B | Cuiabá
+2026-07-17 A 0-2 v Juventude | Serie B | Caxias do Sul
+2026-07-12 A 2-2 v São Bernardo | Serie B | Sao Bernardo
+2026-07-02 H 1-0 v America Mineiro | Serie B | Cuiabá
+2026-06-25 H 2-2 v Londrina | Serie B | Cuiabá
+2026-06-21 A 0-1 v Avai | Serie B | Florianópolis
+2026-06-14 H 1-0 v Vila Nova | Serie B | Cuiabá
+2026-06-09 A 2-1 v Ponte Preta | Serie B | Campinas
+Listed home: 10 games, scored 15 (1.50), conceded 5 (0.50), blanks 1, clean sheets 6
+Listed away: 10 games, scored 11 (1.10), conceded 15 (1.50), blanks 4, clean sheets 0
+All: 20 games, scored 26 (1.30), conceded 20 (1.00), blanks 5, clean sheets 6
+
+LEAGUE TABLE Serie B 2026 | 20 teams | 313 games played
+League averages per game: home 1.35, away 1.00, total 2.35
+#   team                   Pts | home P GF-GA  | away P GF-GA  | all P GF-GA
+1   Juventude               59 | 16  22-6       | 16  15-13      | 32  37-19
+2   Vila Nova               57 | 15  31-11      | 16  13-20      | 31  44-31
+3   Novorizontino           54 | 16  26-14      | 15  26-13      | 31  52-27
+4   Criciuma                53 | 16  18-10      | 15  15-17      | 31  33-27
+5   Fortaleza EC            53 | 16  25-14      | 15  11-13      | 31  36-27
+6   Atletico Goianiense     52 | 16  26-13      | 15  13-14      | 31  39-27
+7   Sport Recife            50 | 16  28-16      | 16  16-18      | 32  44-34
+8   CRB                     48 | 15  28-17      | 16  18-27      | 31  46-44
+9   Operario-PR             48 | 15  22-18      | 16  21-23      | 31  43-41
+10  Cuiaba                  46 | 16  19-9       | 15  13-16      | 31  32-25
+11  Goias                   45 | 16  16-17      | 16  16-23      | 32  32-40
+12  São Bernardo            45 | 16  19-18      | 16  25-16      | 32  44-34
+13  Nautico Recife          42 | 15  19-13      | 16  20-25      | 31  39-38
+14  Athletic Club           42 | 16  19-16      | 16  19-21      | 32  38-37
+15  Ceara                   39 | 15  19-17      | 16  15-22      | 31  34-39
+16  Botafogo SP             35 | 16  25-22      | 15   9-15      | 31  34-37
+17  Avai                    30 | 15  15-15      | 16  15-27      | 31  30-42
+18  Londrina                28 | 16  23-20      | 15  16-25      | 31  39-45
+19  America Mineiro         17 | 15  12-21      | 16   9-31      | 31  21-52
+20  Ponte Preta             13 | 16  10-25      | 16   7-43      | 32  17-68
+
+(22 API-Football requests used)
+
+----------------------------------------------------------------------
+MATCHBOOK: skipped (switched off for this run)

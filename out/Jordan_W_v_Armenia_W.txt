@@ -1,0 +1,116 @@
+MATCH Jordan W v Armenia W | fetched 2026-10-07 06:15 local
+
+FORM DATA Jordan W v Armenia W | source API-Football | 2026-10-07 06:15 UTC
+H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
+
+=== Jordan W (id 16933): last 20 finished games ===
+2026-06-09 H 1-0 v Palestine W | Friendlies Women | ?
+2026-06-03 H 4-3 v Malaysia W | Friendlies Women | ?
+2025-07-19 A 1-2 v Iran W | Asian Cup Women - Qualification | ʿAmmān (Amman)
+2025-07-16 H 3-0 v Bhutan W | Asian Cup Women - Qualification | ʿAmmān (Amman)
+2025-07-13 H 5-0 v Singapore W | Asian Cup Women - Qualification | ʿAmmān (Amman)
+2025-07-07 A 4-0 v Lebanon W | Asian Cup Women - Qualification | ʿAmmān (Amman)
+2025-06-03 H 2-2 v Bangladesh W | Friendlies Women | Amman
+2025-05-28 H 1-1 v Indonesia W | Friendlies Women | Amman
+2025-04-08 A 1-5 v Egypt W | Friendlies Women | Cairo
+2025-04-04 A 0-3 v Egypt W | Friendlies Women | Cairo
+2025-02-26 A 0-3 v Russia W | Friendlies Women | Sharjah
+2025-02-23 H 0-1 v Uzbekistan W | Friendlies Women | Sharjah
+2025-02-23 A 0-1 v Uzbekistan W | Friendlies Women | Sharjah, Ajman
+2025-02-20 H 0-2 v India W | Friendlies Women | Sharjah
+2024-12-01 H 2-1 v Iran W | Friendlies Women | Amman
+2024-11-28 H 0-0 v Iran W | Friendlies Women | Amman
+2024-10-29 A 1-3 v Chinese Taipei W | Friendlies Women | Side
+2024-10-26 A 0-3 v Philippines W | Friendlies Women | Side
+2024-10-23 H 2-4 v Haiti W | Friendlies Women | Side
+2023-04-11 A 0-7 v Uzbekistan W | Olympics Women - Qualification Asia | Tashkent
+Listed home: 11 games, scored 20 (1.82), conceded 14 (1.27), blanks 3, clean sheets 4
+Listed away: 9 games, scored 7 (0.78), conceded 27 (3.00), blanks 5, clean sheets 1
+All: 20 games, scored 27 (1.35), conceded 41 (2.05), blanks 8, clean sheets 5
+
+=== Armenia W (id 14457): last 20 finished games ===
+2026-06-09 A 0-6 v Belarus W | World Cup - Women - Qualification Europe | Gori
+2026-06-05 H 1-1 v Kazakhstan W | World Cup - Women - Qualification Europe | Yerevan
+2026-04-14 H 0-3 v Belarus W | World Cup - Women - Qualification Europe | Yerevan
+2026-03-03 A 0-3 v Kazakhstan W | World Cup - Women - Qualification Europe | Astana
+2025-06-03 A 2-2 v Liechtenstein W | UEFA Nations League - Women | Eschen
+2025-05-30 A 0-2 v Luxembourg W | UEFA Nations League - Women | Beggen
+2025-04-08 A 2-3 v Kazakhstan W | UEFA Nations League - Women | Astana
+2025-04-04 H 1-3 v Luxembourg W | UEFA Nations League - Women | Yerevan
+2025-02-25 H 2-0 v Kazakhstan W | UEFA Nations League - Women | Armavir
+2025-02-21 H 6-1 v Liechtenstein W | UEFA Nations League - Women | Armavir
+2024-12-01 A 0-2 v Moldova W | Friendlies Women | Vadul lui Vodă
+2024-11-28 A 1-1 v Moldova W | Friendlies Women | Vadul lui Vodă
+2024-07-16 A 1-3 v Romania W | UEFA Championship - Women - Qualification | București
+2024-07-12 H 1-3 v Bulgaria W | UEFA Championship - Women - Qualification | Yerevan
+2024-06-04 A 1-4 v Kazakhstan W | UEFA Championship - Women - Qualification | Almaty
+2024-05-31 H 2-1 v Kazakhstan W | UEFA Championship - Women - Qualification | Armavir
+2024-04-09 A 3-2 v Bulgaria W | UEFA Championship - Women - Qualification | Sofia
+2024-04-05 H 0-5 v Romania W | UEFA Championship - Women - Qualification | Armavir
+2023-12-05 A 1-4 v Kazakhstan W | UEFA Nations League - Women | Astana
+2023-12-02 A 1-6 v Israel W | UEFA Nations League - Women | Yerevan
+Listed home: 8 games, scored 13 (1.62), conceded 17 (2.12), blanks 2, clean sheets 1
+Listed away: 12 games, scored 12 (1.00), conceded 38 (3.17), blanks 4, clean sheets 0
+All: 20 games, scored 25 (1.25), conceded 55 (2.75), blanks 6, clean sheets 1
+
+LEAGUE TABLE World Cup - Women - Qualification Europe 2027 | 53 teams | 150 games played
+League averages per game: home 1.97, away 1.49, total 3.46
+#   team                   Pts | home P GF-GA  | away P GF-GA  | all P GF-GA
+1   Denmark W               14 |  3   5-2       |  3   7-3       |  6  12-5 [League A - Group A]
+2   Italy W                  9 |  3   4-2       |  3   8-2       |  6  12-4 [League A - Group A]
+3   Sweden W                 8 |  3   4-4       |  3   2-2       |  6   6-6 [League A - Group A]
+4   Serbia W                 1 |  3   1-10      |  3   1-7       |  6   2-17 [League A - Group A]
+1   France W                13 |  3   6-2       |  3   5-3       |  6  11-5 [League A - Group B]
+2   Netherlands W           11 |  3   7-3       |  3   5-6       |  6  12-9 [League A - Group B]
+3   Republic of Ireland W    9 |  3   5-4       |  3   4-5       |  6   9-9 [League A - Group B]
+4   Poland W                 1 |  3   4-7       |  3   2-8       |  6   6-15 [League A - Group B]
+1   Spain W                 15 |  3  12-0       |  3   9-3       |  6  21-3 [League A - Group C]
+2   England W               15 |  3   6-0       |  3   7-5       |  6  13-5 [League A - Group C]
+3   Iceland W                6 |  3   2-7       |  3   1-5       |  6   3-12 [League A - Group C]
+4   Ukraine W                0 |  3   2-10      |  3   0-9       |  6   2-19 [League A - Group C]
+1   Germany W               16 |  3  12-1       |  3   6-0       |  6  18-1 [League A - Group D]
+2   Norway W                12 |  3   7-5       |  3   4-4       |  6  11-9 [League A - Group D]
+3   Austria W                4 |  3   1-1       |  3   2-8       |  6   3-9 [League A - Group D]
+4   Slovenia W               3 |  3   3-5       |  3   0-11      |  6   3-16 [League A - Group D]
+1   Wales W                 14 |  3  13-2       |  3   4-3       |  6  17-5 [League B - Group A]
+2   Czechia W               11 |  3   8-3       |  3  10-5       |  6  18-8 [League B - Group A]
+3   Albania W                7 |  3   6-8       |  3   3-6       |  6   9-14 [League B - Group A]
+4   Montenegro W             1 |  3   3-7       |  3   3-16      |  6   6-23 [League B - Group A]
+1   Switzerland W           16 |  3  11-2       |  3   7-3       |  6  18-5 [League B - Group B]
+2   Turkey W                13 |  3   6-2       |  3   5-3       |  6  11-5 [League B - Group B]
+3   Northern Ireland W       6 |  3   5-3       |  3   5-6       |  6  10-9 [League B - Group B]
+4   Malta W                  0 |  3   3-11      |  3   1-13      |  6   4-24 [League B - Group B]
+1   Portugal W              15 |  3  11-0       |  3   6-4       |  6  17-4 [League B - Group C]
+2   Finland W               15 |  3  10-4       |  3   5-2       |  6  15-6 [League B - Group C]
+3   Slovakia W               6 |  3   4-8       |  3   4-9       |  6   8-17 [League B - Group C]
+4   Latvia W                 0 |  3   1-6       |  3   3-11      |  6   4-17 [League B - Group C]
+1   Scotland W              14 |  3  14-1       |  3  10-1       |  6  24-2 [League B - Group D]
+2   Belgium W               14 |  3  11-0       |  3  11-1       |  6  22-1 [League B - Group D]
+3   Israel W                 6 |  3   7-8       |  3   3-12      |  6  10-20 [League B - Group D]
+4   Luxembourg W             0 |  3   1-15      |  3   0-19      |  6   1-34 [League B - Group D]
+1   Lithuania W             11 |  3   4-0       |  3   7-3       |  6  11-3 [League C - Group A]
+2   Bosnia-Herzegovina W    11 |  3  16-2       |  3   7-3       |  6  23-5 [League C - Group A]
+3   Estonia W               11 |  3   5-3       |  3   6-3       |  6  11-6 [League C - Group A]
+4   Liechtenstein W          0 |  3   1-17      |  3   2-17      |  6   3-34 [League C - Group A]
+1   Kosovo W                15 |  3   8-2       |  3  12-1       |  6  20-3 [League C - Group B]
+2   Croatia W               15 |  3  13-1       |  3   3-0       |  6  16-1 [League C - Group B]
+3   Bulgaria W               6 |  3   4-5       |  3   6-6       |  6  10-11 [League C - Group B]
+4   Gibraltar W              0 |  3   0-14      |  3   1-18      |  6   1-32 [League C - Group B]
+1   Hungary W               16 |  3  14-1       |  3   7-1       |  6  21-2 [League C - Group C]
+2   Azerbaijan W            12 |  3   5-2       |  3   6-3       |  6  11-5 [League C - Group C]
+3   North Macedonia W        6 |  3   4-8       |  3   1-9       |  6   5-17 [League C - Group C]
+4   Andorra W                1 |  3   1-4       |  3   1-11      |  6   2-15 [League C - Group C]
+1   Greece W                12 |  2   5-0       |  2   6-4       |  4  11-4 [League C - Group D]
+2   Faroe Islands W          6 |  2   3-3       |  2   3-4       |  4   6-7 [League C - Group D]
+3   Georgia W                0 |  2   4-6       |  2   0-4       |  4   4-10 [League C - Group D]
+1   Romania W               10 |  2   4-0       |  2   4-0       |  4   8-0 [League C - Group E]
+2   Moldova W                5 |  2   0-0       |  2   2-1       |  4   2-1 [League C - Group E]
+3   Cyprus W                 1 |  2   0-6       |  2   0-3       |  4   0-9 [League C - Group E]
+1   Belarus W                9 |  2   6-1       |  2   4-0       |  4  10-1 [League C - Group F]
+2   Kazakhstan W             7 |  2   3-1       |  2   2-1       |  4   5-2 [League C - Group F]
+3   Armenia W                1 |  2   1-4       |  2   0-9       |  4   1-13 [League C - Group F]
+
+(23 API-Football requests used)
+
+----------------------------------------------------------------------
+MATCHBOOK: skipped (switched off for this run)

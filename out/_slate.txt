@@ -1,0 +1,17 @@
+SLATE 2026-10-07 06:15 local | 16 fixtures in the next 30 hours
+Wed 07.10 10:00 | Real Madrid III v Guadalajara | Segunda División RFEF - Group 5 (Spain) | ids 22142 v 9900
+Wed 07.10 12:00 | Liechtenstein W v Gibraltar W | Friendlies Women (World) | ids 16936 v 16929
+Wed 07.10 15:00 | Jordan W v Armenia W | Friendlies Women (World) | ids 16933 v 14457
+Wed 07.10 22:30 | RB Bragantino v Mirassol | Serie A (Brazil) | ids 794 v 7848
+Wed 07.10 22:30 | Internacional v Corinthians | Serie A (Brazil) | ids 119 v 131
+Wed 07.10 22:30 | Remo v Gremio | Serie A (Brazil) | ids 1198 v 130
+Wed 07.10 22:30 | Avai v Londrina | Serie B (Brazil) | ids 145 v 148
+Wed 07.10 22:30 | Operario-PR v Botafogo SP | Serie B (Brazil) | ids 1223 v 2618
+Wed 07.10 23:00 | Vitoria v Chapecoense-sc | Serie A (Brazil) | ids 136 v 132
+Wed 07.10 23:30 | Botafogo v Vasco DA Gama | Serie A (Brazil) | ids 120 v 133
+Wed 07.10 23:30 | America Mineiro v Fortaleza EC | Serie B (Brazil) | ids 125 v 154
+Wed 07.10 23:30 | CRB v Atletico Goianiense | Serie B (Brazil) | ids 146 v 144
+Wed 07.10 23:30 | Vila Nova v Cuiaba | Serie B (Brazil) | ids 142 v 1193
+Thu 08.10 00:30 | Cruzeiro v Sao Paulo | Serie A (Brazil) | ids 135 v 126
+Thu 08.10 09:00 | Montenegro U19 W v Cyprus U19 W | Friendlies Women (World) | ids 27151 v 27091
+Thu 08.10 12:00 | India W v Russia W | Friendlies Women (World) | ids 16931 v 1776

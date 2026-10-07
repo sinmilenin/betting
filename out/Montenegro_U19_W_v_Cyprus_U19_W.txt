@@ -1,0 +1,27 @@
+MATCH Montenegro U19 W v Cyprus U19 W | fetched 2026-10-07 06:15 local
+
+FORM DATA Montenegro U19 W v Cyprus U19 W | source API-Football | 2026-10-07 06:16 UTC
+H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
+
+=== Montenegro U19 W (id 27151): last 3 finished games ===
+2026-10-06 H 4-0 v Cyprus U19 W | Friendlies Women | ?
+2025-10-24 H 1-0 v Kosovo U19 W | Friendlies Women | ?
+2025-10-22 H 1-2 v Kosovo U19 W | Friendlies Women | ?
+Listed home: 3 games, scored 6 (2.00), conceded 2 (0.67), blanks 0, clean sheets 2
+Listed away: no games
+All: 3 games, scored 6 (2.00), conceded 2 (0.67), blanks 0, clean sheets 2
+
+=== Cyprus U19 W (id 27091): last 5 finished games ===
+2026-10-06 A 0-4 v Montenegro U19 W | Friendlies Women | ?
+2025-10-26 A 1-1 v San Marino U19 W | Friendlies Women | ?
+2025-10-24 A 0-2 v San Marino U19 W | Friendlies Women | ?
+2025-02-24 H 0-3 v Hungary U19 W | Friendlies Women | ?
+2025-02-21 H 0-7 v Hungary U19 W | Friendlies Women | ?
+Listed home: 2 games, scored 0 (0.00), conceded 10 (5.00), blanks 2, clean sheets 0
+Listed away: 3 games, scored 1 (0.33), conceded 7 (2.33), blanks 2, clean sheets 0
+All: 5 games, scored 1 (0.20), conceded 17 (3.40), blanks 4, clean sheets 0
+
+(10 API-Football requests used)
+
+----------------------------------------------------------------------
+MATCHBOOK: skipped (switched off for this run)

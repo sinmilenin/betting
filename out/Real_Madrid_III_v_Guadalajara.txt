@@ -1,0 +1,81 @@
+MATCH Real Madrid III v Guadalajara | fetched 2026-10-07 06:15 local
+
+FORM DATA Real Madrid III v Guadalajara | source API-Football | 2026-10-07 06:15 UTC
+H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
+
+=== Real Madrid III (id 22142): last 20 finished games ===
+2026-10-03 A 0-1 v Atlético Paso | Segunda División RFEF - Group 5 | ?
+2026-09-27 A 0-2 v A Madrid III | Segunda División RFEF - Group 5 | ?
+2026-09-13 A 0-0 v CF Talavera | Segunda División RFEF - Group 5 | Talavera de la Reina
+2026-09-06 H 0-0 v Albacete II | Segunda División RFEF - Group 5 | ?
+2026-08-29 A 1-0 v Gimnástica Segoviana | Friendlies Clubs | ?
+2026-08-21 H 0-2 v Atlético Baleares | Friendlies Clubs | ?
+2026-08-08 A 1-0 v Real Valladolid II | Friendlies Clubs | ?
+2026-05-16 A 1-3 v Estepona | Segunda División RFEF - Play-offs | Estepona
+2026-05-10 H 2-2 v Estepona | Segunda División RFEF - Play-offs | ?
+2026-05-03 H 0-1 v Conquense | Segunda División RFEF - Group 5 | Madrid
+2026-04-26 A 3-0 v SS Reyes | Segunda División RFEF - Group 5 | San Sebastián de los Reyes
+2026-04-14 H 1-0 v Colonia Moscardó | Segunda División RFEF - Group 5 | Madrid
+2026-04-11 A 1-0 v Las Palmas II | Segunda División RFEF - Group 5 | Las Palmas de Gran Canaria
+2026-04-05 H 2-3 v CD Coria | Segunda División RFEF - Group 5 | Madrid
+2026-03-28 A 1-1 v Fuenlabrada | Segunda División RFEF - Group 5 | Fuenlabrada
+2026-03-22 H 1-0 v Rayo Vallecano II | Segunda División RFEF - Group 5 | Madrid
+2026-03-15 A 2-1 v Quintanar del Rey | Segunda División RFEF - Group 5 | Quintanar del Rey
+2026-03-08 H 4-0 v Tenerife II | Segunda División RFEF - Group 5 | Madrid
+2026-03-01 A 0-2 v Navalcarnero | Segunda División RFEF - Group 5 | Navalcarnero
+2026-02-22 H 2-2 v RSD Alcalá | Segunda División RFEF - Group 5 | Madrid
+Listed home: 9 games, scored 12 (1.33), conceded 10 (1.11), blanks 3, clean sheets 4
+Listed away: 11 games, scored 10 (0.91), conceded 10 (0.91), blanks 4, clean sheets 5
+All: 20 games, scored 22 (1.10), conceded 20 (1.00), blanks 7, clean sheets 9
+
+=== Guadalajara (id 9900): last 20 finished games ===
+2026-10-03 H 3-3 v Gimnástica Segoviana | Segunda División RFEF - Group 5 | Guadalajara
+2026-09-27 A 0-1 v Numancia | Segunda División RFEF - Group 5 | ?
+2026-09-13 H 2-1 v RSD Alcalá | Segunda División RFEF - Group 5 | Guadalajara
+2026-09-06 H 2-3 v Salamanca UDS | Segunda División RFEF - Group 5 | Guadalajara
+2026-08-18 A 0-1 v Marchamalo | Friendlies Clubs | ?
+2026-05-23 H 2-2 v Real Madrid II | Primera División RFEF - Group 1 | Guadalajara
+2026-05-17 A 1-2 v Athletic Club II | Primera División RFEF - Group 1 | Lezama
+2026-05-09 H 2-0 v Arenteiro | Primera División RFEF - Group 1 | Guadalajara
+2026-05-02 A 2-2 v Real Avilés | Primera División RFEF - Group 1 | Avilés
+2026-04-24 A 1-1 v Cacereño | Primera División RFEF - Group 1 | Cáceres
+2026-04-19 H 1-4 v Pontevedra | Primera División RFEF - Group 1 | Guadalajara
+2026-04-12 A 0-1 v Unionistas de Salamanca | Primera División RFEF - Group 1 | Salamanca
+2026-04-03 H 1-0 v Racing Ferrol | Primera División RFEF - Group 1 | Guadalajara
+2026-03-29 A 3-4 v Osasuna II | Primera División RFEF - Group 1 | Pamplona
+2026-03-22 H 1-1 v CF Talavera | Primera División RFEF - Group 1 | Guadalajara
+2026-03-13 A 4-1 v Mérida AD | Primera División RFEF - Group 1 | Mérida
+2026-03-08 H 3-0 v Celta de Vigo II | Primera División RFEF - Group 1 | Guadalajara
+2026-03-01 A 1-1 v Zamora | Primera División RFEF - Group 1 | Zamora
+2026-02-22 H 1-0 v Ourense CF | Primera División RFEF - Group 1 | Guadalajara
+2026-02-15 A 0-2 v Lugo | Primera División RFEF - Group 1 | Lugo
+Listed home: 10 games, scored 18 (1.80), conceded 14 (1.40), blanks 0, clean sheets 4
+Listed away: 10 games, scored 12 (1.20), conceded 16 (1.60), blanks 4, clean sheets 0
+All: 20 games, scored 30 (1.50), conceded 30 (1.50), blanks 4, clean sheets 4
+
+LEAGUE TABLE Segunda División RFEF - Group 5 2026 | 18 teams | 44 games played
+League averages per game: home 1.64, away 1.07, total 2.70
+#   team                   Pts | home P GF-GA  | away P GF-GA  | all P GF-GA
+1   A Madrid III            12 |  3   7-3       |  2   1-2       |  5   8-5
+2   Numancia                11 |  2   3-0       |  3   2-0       |  5   5-0
+3   SS Reyes                10 |  3   4-0       |  2   3-3       |  5   7-3
+4   Conquense               10 |  2   3-2       |  3   7-5       |  5  10-7
+5   Real Valladolid II       9 |  3  10-1       |  2   1-3       |  5  11-4
+6   Salamanca UDS            9 |  2   4-0       |  3   3-5       |  5   7-5
+7   CF Talavera              8 |  2   2-1       |  3   5-4       |  5   7-5
+8   Gimnástica Segoviana     7 |  2   3-2       |  3   8-8       |  5  11-10
+9   Navalcarnero             7 |  2   3-4       |  3   5-4       |  5   8-8
+10  RSD Alcalá               6 |  3   9-5       |  2   1-5       |  5  10-10
+11  Real Ávila               6 |  2   3-1       |  3   2-7       |  5   5-8
+12  Atlético Paso            5 |  3   1-3       |  2   2-2       |  5   3-5
+13  Albacete II              5 |  3   6-9       |  2   1-6       |  5   7-15
+14  Guadalajara              4 |  3   7-7       |  1   0-1       |  4   7-8
+15  Atlético Tordesillas     4 |  3   5-5       |  2   3-5       |  5   8-10
+16  Calvo Sotelo             4 |  3   1-3       |  2   1-5       |  5   2-8
+17  Getafe II                3 |  2   1-1       |  3   2-4       |  5   3-5
+18  Real Madrid III          2 |  1   0-0       |  3   0-3       |  4   0-3
+
+(23 API-Football requests used)
+
+----------------------------------------------------------------------
+MATCHBOOK: skipped (switched off for this run)
