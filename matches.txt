@@ -1,2 +1,2 @@
-# Premier League, Sat 10 Oct
-Sunderland v Brighton
+# Egypt League Cup, 7 Oct (ZED FC is listed as "Masr" in API-Football)
+Zamalek v Masr
