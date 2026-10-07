@@ -1,8 +1,6 @@
 name: form-and-xg
 on:
-  workflow_dispatch:                 # "Run workflow" button
-  schedule:
-    - cron: "0 7 * * *"              # daily at 07:00 UTC = 09:00 Ljubljana in summer, 08:00 in winter
+  workflow_dispatch:                 # runs only when started by hand ("Run workflow" button, or by Claude on request)
 permissions:
   contents: write
 jobs:
