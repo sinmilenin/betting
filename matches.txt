@@ -1,2 +1,7 @@
-# Turkey, 7 Oct
-Zonguldak v Duzcespor
+# Results check for the Lay Ledger, 7 Oct (short history, no xG)
+Avispa Fukuoka v Yokohama FC | n=3 | xg=0
+Cerezo Osaka v Kagoshima United | n=3 | xg=0
+Sanfrecce Hiroshima v Iwaki | n=3 | xg=0
+Kawasaki Frontale v Tegevajaro Miyazaki | n=3 | xg=0
+Fagiano Okayama v JEF United Chiba | n=3 | xg=0
+Zonguldak v Duzcespor | n=3 | xg=0
