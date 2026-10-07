@@ -1,23 +1,23 @@
-MATCH Zonguldak v Duzcespor | fetched 2026-10-07 12:45 local
+MATCH Zonguldak v Duzcespor | fetched 2026-10-07 13:01 local
 
-FORM DATA Zonguldak v Duzcespor | source API-Football | 2026-10-07 12:45 UTC
+FORM DATA Zonguldak v Duzcespor | source API-Football | 2026-10-07 13:01 UTC
 H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
 
 === Zonguldak Kömürspor (id 3611): last 3 finished games ===
+2026-10-07 H 0-1 v Düzcespor | Türkiye Kupası | ?
 2026-10-03 H 0-0 v Düzcespor | 3. Lig - Group 1 | ?
 2026-09-26 A 1-1 v Küçükçekmece Sinopspor | 3. Lig - Group 1 | ?
-2026-09-19 H 0-2 v Pazarspor | 3. Lig - Group 1 | ?
-Listed home: 2 games, scored 0 (0.00), conceded 2 (1.00), blanks 2, clean sheets 1
+Listed home: 2 games, scored 0 (0.00), conceded 1 (0.50), blanks 2, clean sheets 1
 Listed away: 1 games, scored 1 (1.00), conceded 1 (1.00), blanks 0, clean sheets 0
-All: 3 games, scored 1 (0.33), conceded 3 (1.00), blanks 2, clean sheets 1
+All: 3 games, scored 1 (0.33), conceded 2 (0.67), blanks 2, clean sheets 1
 
 === Düzcespor (id 7399): last 3 finished games ===
+2026-10-07 A 1-0 v Zonguldak Kömürspor | Türkiye Kupası | ?
 2026-10-03 A 0-0 v Zonguldak Kömürspor | 3. Lig - Group 1 | ?
 2026-09-27 H 1-1 v İnkılapspor | 3. Lig - Group 1 | ?
-2026-09-20 A 1-1 v Galata | 3. Lig - Group 1 | ?
 Listed home: 1 games, scored 1 (1.00), conceded 1 (1.00), blanks 0, clean sheets 0
-Listed away: 2 games, scored 1 (0.50), conceded 1 (0.50), blanks 1, clean sheets 1
-All: 3 games, scored 2 (0.67), conceded 2 (0.67), blanks 1, clean sheets 1
+Listed away: 2 games, scored 1 (0.50), conceded 0 (0.00), blanks 1, clean sheets 2
+All: 3 games, scored 2 (0.67), conceded 1 (0.33), blanks 1, clean sheets 2
 
 TABLE FOR Zonguldak Kömürspor
 LEAGUE TABLE 3. Lig - Group 1 2026 | 18 teams | 45 games played
@@ -44,7 +44,7 @@ League averages per game: home 1.13, away 1.24, total 2.38
 
 (Düzcespor: same table as Zonguldak Kömürspor, shown above)
 
-(5 API-Football requests used)
+(6 API-Football requests used)
 
 ----------------------------------------------------------------------
 MATCHBOOK: skipped (switched off for this run)
