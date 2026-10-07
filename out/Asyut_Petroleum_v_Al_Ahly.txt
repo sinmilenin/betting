@@ -1,0 +1,60 @@
+MATCH Asyut Petroleum v Al Ahly | fetched 2026-10-07 06:22 local
+
+FORM DATA Asyut Petroleum v Al Ahly | source API-Football | 2026-10-07 06:23 UTC
+H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
+
+=== Al Ahly (id 1577): last 20 finished games ===
+2026-09-15 H 2-0 v Abu Qair Semad | Premier League | ?
+2026-09-09 A 1-1 v El Mokawloon | Premier League | Cairo | xG 1.29-1.14
+2026-09-03 H 1-0 v Smouha SC | Premier League | Cairo | xG 1.61-0.00
+2026-08-28 A 2-0 v Masr | Premier League | Cairo | xG 1.25-0.95
+2026-08-23 H 3-2 v Enppi | Premier League | Cairo | xG 1.66-0.96
+2026-08-19 A 1-2 v Barcelona | Friendlies Clubs | ?
+2026-05-20 A 2-0 v AL Masry | Premier League | Alexandria | xG 1.10-0.31
+2026-05-05 H 3-0 v Enppi | Premier League | Cairo | xG 1.76-0.37
+2026-05-01 A 3-0 v Zamalek SC | Premier League | Cairo | xG 2.58-1.72
+2026-04-27 A 0-3 v Pyramids FC | Premier League | Cairo | xG 0.86-1.98
+2026-04-11 H 2-1 v Smouha SC | Premier League | Cairo
+2026-04-07 A 1-1 v Ceramica Cleopatra | Premier League | Cairo
+2026-03-21 H 2-3 v ES Tunis | CAF Champions League | Cairo
+2026-03-15 A 0-1 v ES Tunis | CAF Champions League | ?
+2026-03-09 A 1-2 v El Geish | Premier League | Cairo
+2026-03-05 A 3-1 v El Mokawloon | Premier League | Cairo
+2026-02-28 H 1-1 v Masr | Premier League | Cairo
+2026-02-23 A 1-0 v Smouha SC | Premier League | Alexandria
+2026-02-19 H 1-0 v El Gouna FC | Premier League | Cairo
+2026-02-15 H 0-0 v FAR Rabat | CAF Champions League | Cairo
+Listed home: 9 games, scored 15 (1.67), conceded 7 (0.78), blanks 1, clean sheets 5
+Listed away: 11 games, scored 15 (1.36), conceded 11 (1.00), blanks 2, clean sheets 4
+All: 20 games, scored 30 (1.50), conceded 18 (0.90), blanks 3, clean sheets 9
+
+!! Asyut Petroleum: No team found for "Asyut Petroleum".
+
+LEAGUE TABLE Premier League 2026 | 20 teams | 50 games played
+League averages per game: home 0.96, away 1.10, total 2.06
+#   team                   Pts | home P GF-GA  | away P GF-GA  | all P GF-GA
+1   Pyramids FC             15 |  2   3-0       |  3   6-1       |  5   9-1
+2   Zamalek SC              13 |  3   4-1       |  2   4-0       |  5   8-1
+3   Al Ahly                 13 |  3   6-2       |  2   3-1       |  5   9-3
+4   Ceramica Cleopatra      12 |  3   5-2       |  2   5-1       |  5  10-3
+5   Future FC               10 |  2   4-1       |  3   3-3       |  5   7-4
+6   Al Ittihad              10 |  2   2-3       |  3   4-0       |  5   6-3
+7   El Mokawloon             7 |  2   3-4       |  3   3-1       |  5   6-5
+8   Petrojet                 7 |  2   4-4       |  3   4-4       |  5   8-8
+9   El Geish                 7 |  3   1-2       |  2   4-3       |  5   5-5
+10  Masr                     7 |  2   2-3       |  3   2-2       |  5   4-5
+11  Olympic El Qanah         6 |  2   2-2       |  3   3-3       |  5   5-5
+12  AL Masry                 6 |  3   1-3       |  2   4-4       |  5   5-7
+13  National Bank of Egypt   6 |  2   3-4       |  3   1-3       |  5   4-7
+14  Wadi Degla               5 |  3   0-2       |  2   4-3       |  5   4-5
+15  Enppi                    4 |  3   4-6       |  2   2-3       |  5   6-9
+16  Smouha SC                4 |  2   0-2       |  3   1-2       |  5   1-4
+17  Abu Qair Semad           3 |  2   1-2       |  3   0-6       |  5   1-8
+18  El Gouna FC              2 |  3   2-4       |  2   1-2       |  5   3-6
+19  Asyut Petrol             2 |  3   1-4       |  2   0-1       |  5   1-5
+20  Ghazl El Mehalla         1 |  3   0-4       |  2   1-5       |  5   1-9
+
+(13 API-Football requests used)
+
+----------------------------------------------------------------------
+MATCHBOOK: skipped (switched off for this run)
