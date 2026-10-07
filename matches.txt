@@ -1,1 +1,3 @@
-# One match per line: Home v Away. Leave EMPTY (only # lines) to let the run pick the whole day's slate.
+# Egypt, 7 Oct
+Zamalek v ZED FC
+Asyut Petroleum v Al Ahly
