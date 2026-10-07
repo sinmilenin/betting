@@ -1,2 +1,3 @@
-# Zamalek v ZED FC (listed as Masr in API-Football), Egypt, 7 Oct 19:00
-Zamalek SC v Masr | n=20 | xg=10
+# Deportivo Riestra (Res) v Ind Rivadavia (Res), Argentina reserves, 7 Oct 20:00 (spellings tried)
+Deportivo Riestra Res v Independiente Rivadavia Res | n=20 | xg=0
+Riestra Res v Rivadavia Res | n=20 | xg=0
