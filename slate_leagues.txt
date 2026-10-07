@@ -1,5 +1,14 @@
 # Competitions for the automatic daily slate: country | part of the league name (case does not matter)
 # '*' as country = any country. Lines starting with # are ignored. Edit freely.
+# 'exclude | word' skips any competition whose name contains that word.
+exclude | women
+exclude | rfef
+exclude | u19
+exclude | u20
+exclude | u21
+exclude | u23
+exclude | reserve
+exclude | youth
 * | World Cup - Qualification
 * | UEFA Nations League
 * | Euro Championship - Qualification
@@ -9,7 +18,7 @@ World | Africa Cup of Nations
 England | Premier League
 England | Championship
 Spain | La Liga
-Spain | Segunda
+Spain | Segunda División
 Italy | Serie A
 Italy | Serie B
 Germany | Bundesliga

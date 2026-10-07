@@ -88,8 +88,12 @@ KNOWN_NAMES = {}         # team id -> name, filled by the slate so no lookup is 
 NOT_STARTED = {"NS", "TBD"}
 
 
+EXCLUDE = []             # substrings of league names to skip (filled from slate_leagues.txt)
+
+
 def load_slate_leagues(path):
-    """Read 'country | league name' lines; '*' as country means any country."""
+    """Read 'country | league name' lines; '*' as country means any country.
+    A line 'exclude | word' skips every league whose name contains that word."""
     rules = []
     if not os.path.exists(path):
         return rules
@@ -99,7 +103,10 @@ def load_slate_leagues(path):
             if not line or "|" not in line:
                 continue
             country, name = [x.strip().lower() for x in line.split("|", 1)]
-            rules.append((country, name))
+            if country == "exclude":
+                EXCLUDE.append(name)
+            else:
+                rules.append((country, name))
     return rules
 
 
@@ -107,6 +114,8 @@ def league_wanted(fixture, rules):
     lg = fixture["league"]
     country = (lg.get("country") or "").lower()
     name = (lg.get("name") or "").lower()
+    if any(x in name for x in EXCLUDE):
+        return False
     for c, n in rules:
         if (c == "*" or c == country) and n in name:
             return True
