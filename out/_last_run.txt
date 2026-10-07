@@ -1,6 +1,3 @@
-RUN 2026-10-07 06:22 local | 2 match(es)
-Zamalek v ZED FC -> out/Zamalek_v_ZED_FC.txt
-    !! ZED FC: No team found for "ZED FC".
-Asyut Petroleum v Al Ahly -> out/Asyut_Petroleum_v_Al_Ahly.txt
-    !! Asyut Petroleum: No team found for "Asyut Petroleum".
-Requests used: API-Football 27, Matchbook 0
+RUN 2026-10-07 06:27 local | 1 match(es)
+Liverpool v Manchester City -> out/Liverpool_v_Manchester_City.txt
+Requests used: API-Football 25, Matchbook 0

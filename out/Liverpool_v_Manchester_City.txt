@@ -1,0 +1,83 @@
+MATCH Liverpool v Manchester City | fetched 2026-10-07 06:27 local
+
+FORM DATA Liverpool v Manchester City | source API-Football | 2026-10-07 06:27 UTC
+H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
+
+=== Liverpool (id 40): last 20 finished games ===
+2026-09-20 A 1-0 v Bournemouth | Premier League | Bournemouth | xG 1.65-0.79
+2026-09-15 H 3-1 v Tottenham | League Cup | Liverpool
+2026-09-12 H 0-0 v Fulham | Premier League | Liverpool | xG 1.28-0.70
+2026-09-09 H 2-1 v Atletico Madrid | UEFA Champions League | Liverpool | xG 1.62-0.91
+2026-09-04 A 2-0 v Ipswich | Premier League | Ipswich | xG 0.69-0.75
+2026-08-29 H 2-2 v Nottingham Forest | Premier League | Liverpool | xG 1.75-2.30
+2026-08-23 A 2-2 v Newcastle | Premier League | Newcastle | xG 2.98-1.58
+2026-08-16 H 0-0 v Como | Friendlies Clubs | ?
+2026-08-09 H 2-3 v Monaco | Friendlies Clubs | Liverpool
+2026-08-02 H 2-4 v Leeds | Premier League - Summer Series | ?
+2026-07-29 H 1-0 v Wrexham | Premier League - Summer Series | ?
+2026-07-25 H 4-2 v Sunderland | Premier League - Summer Series | Nashville
+2026-05-24 H 1-1 v Brentford | Premier League | Liverpool
+2026-05-15 A 2-4 v Aston Villa | Premier League | Birmingham
+2026-05-09 H 1-1 v Chelsea | Premier League | Liverpool
+2026-05-03 A 2-3 v Manchester United | Premier League | Manchester
+2026-04-25 H 3-1 v Crystal Palace | Premier League | Liverpool
+2026-04-19 A 2-1 v Everton | Premier League | Liverpool
+2026-04-14 H 0-2 v Paris Saint Germain | UEFA Champions League | Liverpool
+2026-04-11 H 2-0 v Fulham | Premier League | Liverpool
+Listed home: 14 games, scored 23 (1.64), conceded 18 (1.29), blanks 3, clean sheets 4
+Listed away: 6 games, scored 11 (1.83), conceded 10 (1.67), blanks 0, clean sheets 2
+All: 20 games, scored 34 (1.70), conceded 28 (1.40), blanks 3, clean sheets 6
+
+=== Manchester City (id 50): last 20 finished games ===
+2026-09-20 H 5-3 v Sunderland | Premier League | Manchester | xG 2.82-3.57
+2026-09-17 H 5-0 v Norwich | League Cup | Manchester
+2026-09-13 A 1-0 v Manchester United | Premier League | Manchester | xG 1.10-1.00
+2026-09-08 A 2-0 v FC Porto | UEFA Champions League | Porto | xG 2.32-0.28
+2026-09-05 H 1-0 v Coventry | Premier League | Manchester | xG 2.12-1.37
+2026-08-28 A 4-1 v Crystal Palace | Premier League | London | xG 2.21-0.66
+2026-08-23 H 2-1 v Bournemouth | Premier League | Manchester | xG 2.25-0.65
+2026-08-16 A 0-3 v Arsenal | Community Shield | Cardiff
+2026-08-09 H 3-1 v Atletico Madrid | Friendlies Clubs | Seoul
+2026-08-05 A 3-1 v K-League Stars | Friendlies Clubs | Seoul
+2026-08-01 H 1-1 v Inter | Friendlies Clubs | Hongkong [PEN, 90-min score shown]
+2026-05-24 H 1-2 v Aston Villa | Premier League | Manchester
+2026-05-19 A 1-1 v Bournemouth | Premier League | Bournemouth
+2026-05-16 A 1-0 v Chelsea | FA Cup | London
+2026-05-13 H 3-0 v Crystal Palace | Premier League | Manchester
+2026-05-09 H 3-0 v Brentford | Premier League | Manchester
+2026-05-04 A 3-3 v Everton | Premier League | Liverpool
+2026-04-25 H 2-1 v Southampton | FA Cup | London
+2026-04-22 A 1-0 v Burnley | Premier League | Burnley
+2026-04-19 H 2-1 v Arsenal | Premier League | Manchester
+Listed home: 11 games, scored 28 (2.55), conceded 10 (0.91), blanks 0, clean sheets 4
+Listed away: 9 games, scored 16 (1.78), conceded 9 (1.00), blanks 1, clean sheets 4
+All: 20 games, scored 44 (2.20), conceded 19 (0.95), blanks 1, clean sheets 8
+
+LEAGUE TABLE Premier League 2026 | 20 teams | 50 games played
+League averages per game: home 1.52, away 1.30, total 2.82
+#   team                   Pts | home P GF-GA  | away P GF-GA  | all P GF-GA
+1   Manchester City         15 |  3   8-4       |  2   5-1       |  5  13-5
+2   Arsenal                 12 |  2   5-1       |  3   3-3       |  5   8-4
+3   Brighton                10 |  3   8-1       |  2   8-4       |  5  16-5
+4   Brentford                9 |  3   7-1       |  2   3-3       |  5  10-4
+5   Leeds                    9 |  3   5-2       |  2   2-1       |  5   7-3
+6   Liverpool                9 |  2   2-2       |  3   5-2       |  5   7-4
+7   Everton                  9 |  3   5-2       |  2   1-1       |  5   6-3
+8   Hull City                8 |  2   2-0       |  3   4-4       |  5   6-4
+9   Newcastle                8 |  3   6-5       |  2   3-4       |  5   9-9
+10  Chelsea                  7 |  2   6-5       |  3   4-7       |  5  10-12
+11  Ipswich                  6 |  2   2-3       |  3   5-8       |  5   7-11
+12  Manchester United        5 |  2   5-3       |  3   3-5       |  5   8-8
+13  Nottingham Forest        5 |  3   0-2       |  2   4-3       |  5   4-5
+14  Sunderland               4 |  2   1-2       |  3   5-8       |  5   6-10
+15  Crystal Palace           4 |  2   3-7       |  3   3-4       |  5   6-11
+16  Aston Villa              4 |  2   1-3       |  3   3-6       |  5   4-9
+17  Bournemouth              3 |  3   3-4       |  2   3-4       |  5   6-8
+18  Coventry                 3 |  2   0-6       |  3   1-4       |  5   1-10
+19  Fulham                   2 |  3   5-7       |  2   0-1       |  5   5-8
+20  Tottenham                2 |  3   2-5       |  2   0-3       |  5   2-8
+
+(25 API-Football requests used)
+
+----------------------------------------------------------------------
+MATCHBOOK: skipped (switched off for this run)
