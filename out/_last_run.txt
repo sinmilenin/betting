@@ -1,7 +1,3 @@
-RUN 2026-10-07 17:58 local | 2 match(es)
+RUN 2026-10-07 17:59 local | 1 match(es)
 Urena v Trujillanos -> out/Urena_v_Trujillanos.txt
-    !! league table: unexpected error
-Ureña v Trujillanos FC -> out/Ure_a_v_Trujillanos_FC.txt
-    !! Ureña: API-Football error: {"search": "The Search field may only contain alpha-numeric characters and spaces."}
-    !! league table: unexpected error
-Requests used: API-Football 30, Matchbook 0
+Requests used: API-Football 26, Matchbook 0
