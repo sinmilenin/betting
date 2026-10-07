@@ -1,6 +1,6 @@
-MATCH Zamalek v ZED FC | fetched 2026-10-07 16:12 local
+MATCH Zamalek SC v Masr | fetched 2026-10-07 16:12 local
 
-FORM DATA Zamalek v ZED FC | source API-Football | 2026-10-07 16:12 UTC
+FORM DATA Zamalek SC v Masr | source API-Football | 2026-10-07 16:12 UTC
 H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
 
 === Zamalek SC (id 1040): last 20 finished games ===
@@ -28,7 +28,30 @@ Listed home: 11 games, scored 13 (1.18), conceded 5 (0.45), blanks 4, clean shee
 Listed away: 9 games, scored 13 (1.44), conceded 5 (0.56), blanks 2, clean sheets 4
 All: 20 games, scored 26 (1.30), conceded 10 (0.50), blanks 6, clean sheets 12
 
-!! ZED FC: No team found for "ZED FC".
+=== Masr (id 7520): last 20 finished games ===
+2026-09-17 H 2-1 v Olympic El Qanah | Premier League | ?
+2026-09-12 A 1-1 v ASAS | CAF Confederation Cup | ?
+2026-09-09 A 1-2 v Enppi | Premier League | Cairo | xG 1.73-2.01
+2026-09-06 H 4-0 v ASAS | CAF Confederation Cup | ?
+2026-09-01 A 1-0 v El Geish | Premier League | Cairo | xG 1.17-0.83
+2026-08-28 H 0-2 v Al Ahly | Premier League | Cairo | xG 0.95-1.25
+2026-08-21 A 0-0 v Wadi Degla | Premier League | Cairo | xG 0.42-0.39
+2026-06-08 H 0-2 v Wadi Degla | League Cup | Suez
+2026-06-01 A 0-1 v AL Masry | League Cup | Suez [PEN, 90-min score shown]
+2026-05-29 H 1-1 v Kahraba Ismailia | Premier League | Cairo | xG 1.17-0.74
+2026-05-25 H 1-0 v AL Masry | League Cup | Suez
+2026-05-21 A 2-2 v Wadi Degla | Premier League | Cairo
+2026-05-17 A 0-0 v Ismaily SC | Premier League | Ismailia
+2026-05-13 H 3-2 v Ghazl El Mehalla | Premier League | Cairo
+2026-05-10 H 1-2 v Pyramids FC | Cup | Cairo
+2026-05-07 A 2-1 v Haras El Hodood | Premier League | Alexandria
+2026-05-03 H 2-2 v El Gouna FC | Premier League | Cairo
+2026-04-28 H 1-0 v Pharco | Premier League | Cairo
+2026-04-24 A 1-2 v National Bank of Egypt | Premier League | Cairo
+2026-04-19 A 3-1 v Future FC | Premier League | Cairo
+Listed home: 10 games, scored 15 (1.50), conceded 12 (1.20), blanks 2, clean sheets 3
+Listed away: 10 games, scored 11 (1.10), conceded 10 (1.00), blanks 3, clean sheets 3
+All: 20 games, scored 26 (1.30), conceded 22 (1.10), blanks 5, clean sheets 6
 
 TABLE FOR Zamalek SC
 LEAGUE TABLE Premier League 2026 | 20 teams | 50 games played
@@ -55,7 +78,9 @@ League averages per game: home 0.96, away 1.10, total 2.06
 19  Asyut Petrol             2 |  3   1-4       |  2   0-1       |  5   1-5
 20  Ghazl El Mehalla         1 |  3   0-4       |  2   1-5       |  5   1-9
 
-(14 API-Football requests used)
+(Masr: same table as Zamalek SC, shown above)
+
+(25 API-Football requests used)
 
 ----------------------------------------------------------------------
 MATCHBOOK: skipped (switched off for this run)
