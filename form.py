@@ -174,9 +174,11 @@ def league_table(league_id, season, name):
     if groups:
         rows = [r for g in groups for r in g]
         LEAGUE_TEAMS[key] = set(r["team"]["id"] for r in rows)
-        hp = sum(r["home"]["played"] for r in rows)
-        hgf = sum(r["home"]["goals"]["for"] for r in rows)
-        hga = sum(r["home"]["goals"]["against"] for r in rows)
+        def z(v):
+            return v or 0          # some tables (cup groups, split seasons) carry empty cells
+        hp = sum(z(r["home"]["played"]) for r in rows)
+        hgf = sum(z(r["home"]["goals"]["for"]) for r in rows)
+        hga = sum(z(r["home"]["goals"]["against"]) for r in rows)
         lines = ["LEAGUE TABLE %s %s | %d teams | %d games played" % (name, season, len(rows), hp)]
         if hp:
             lines.append("League averages per game: home %.2f, away %.2f, total %.2f" % (
@@ -187,10 +189,10 @@ def league_table(league_id, season, name):
             h, a, t = r["home"], r["away"], r["all"]
             grp = (" [%s]" % r["group"]) if len(groups) > 1 and r.get("group") else ""
             lines.append("%-3s %-22s %3s | %2d %3d-%-3d     | %2d %3d-%-3d     | %2d %3d-%d%s" % (
-                r["rank"], r["team"]["name"][:22], r["points"],
-                h["played"], h["goals"]["for"], h["goals"]["against"],
-                a["played"], a["goals"]["for"], a["goals"]["against"],
-                t["played"], t["goals"]["for"], t["goals"]["against"], grp))
+                z(r["rank"]), r["team"]["name"][:22], z(r["points"]),
+                z(h["played"]), z(h["goals"]["for"]), z(h["goals"]["against"]),
+                z(a["played"]), z(a["goals"]["for"]), z(a["goals"]["against"]),
+                z(t["played"]), z(t["goals"]["for"]), z(t["goals"]["against"]), grp))
         text = "\n".join(lines)
     LEAGUE_CACHE[key] = text
     return text
