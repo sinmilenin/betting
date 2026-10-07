@@ -1,5 +1,6 @@
-RUN 2026-10-07 14:18 local | 2 match(es)
-KuPS Akatemia v Inter Turku II -> out/KuPS_Akatemia_v_Inter_Turku_II.txt
-KuPS Akatemia v Inter Turku 2 -> out/KuPS_Akatemia_v_Inter_Turku_2.txt
-    !! Inter Turku 2: No team found for "Inter Turku 2".
-Requests used: API-Football 28, Matchbook 0
+RUN 2026-10-07 16:12 local | 2 match(es)
+Zamalek v ZED FC -> out/Zamalek_v_ZED_FC.txt
+    !! ZED FC: No team found for "ZED FC".
+Zamalek SC v ZED -> out/Zamalek_SC_v_ZED.txt
+    !! ZED: Ambiguous team name "ZED".
+Requests used: API-Football 18, Matchbook 0
