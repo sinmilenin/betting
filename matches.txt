@@ -1,2 +1,1 @@
-# One match per line: Home v Away   (lines starting with # are ignored)
-Barcelona v Getafe
+# One match per line: Home v Away. Leave EMPTY (only # lines) to let the run pick the whole day's slate.

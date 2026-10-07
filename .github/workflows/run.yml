@@ -1,6 +1,8 @@
 name: form-and-xg
 on:
-  workflow_dispatch:      # runs only when you press "Run workflow"
+  workflow_dispatch:                 # "Run workflow" button
+  schedule:
+    - cron: "0 7 * * *"              # daily at 07:00 UTC = 09:00 Ljubljana in summer, 08:00 in winter
 permissions:
   contents: write
 jobs:
@@ -11,14 +13,16 @@ jobs:
       - uses: actions/setup-python@v5
         with:
           python-version: "3.12"
-      - name: Fetch form and xG for the matches in matches.txt
+      - name: Clear yesterday's results
+        run: rm -f out/*.txt
+      - name: Fetch form, xG and tables (matches.txt if it has matches, otherwise the day's slate)
         env:
           APISPORTS_KEY: ${{ secrets.APISPORTS_KEY }}
-        run: python run.py --no-matchbook --xg 10
+        run: python run.py --no-matchbook --xg 10 --slate --slate-hours 30
       - name: Save results into the repository
         run: |
           git config user.name "betting-bot"
           git config user.email "bot@users.noreply.github.com"
-          git add out
+          git add -A out
           git commit -m "Form and xG $(date -u +'%Y-%m-%d %H:%M') UTC" || echo "nothing new"
           git push

@@ -84,6 +84,65 @@ def api(path, **params):
 
 
 LAST_COUNTRY = {}
+KNOWN_NAMES = {}         # team id -> name, filled by the slate so no lookup is needed
+NOT_STARTED = {"NS", "TBD"}
+
+
+def load_slate_leagues(path):
+    """Read 'country | league name' lines; '*' as country means any country."""
+    rules = []
+    if not os.path.exists(path):
+        return rules
+    with open(path, encoding="utf-8-sig") as f:
+        for line in f:
+            line = line.split("#", 1)[0].strip()
+            if not line or "|" not in line:
+                continue
+            country, name = [x.strip().lower() for x in line.split("|", 1)]
+            rules.append((country, name))
+    return rules
+
+
+def league_wanted(fixture, rules):
+    lg = fixture["league"]
+    country = (lg.get("country") or "").lower()
+    name = (lg.get("name") or "").lower()
+    for c, n in rules:
+        if (c == "*" or c == country) and n in name:
+            return True
+    return False
+
+
+def slate(rules, hours=30):
+    """Fixtures not yet started in the wanted competitions, kicking off within `hours`."""
+    now = datetime.datetime.now(datetime.timezone.utc)
+    out, seen = [], set()
+    for d in (0, 1, 2):
+        day = (now + datetime.timedelta(days=d)).strftime("%Y-%m-%d")
+        try:
+            fx = api("/fixtures", date=day)
+        except ApiError as e:
+            print("  (fixtures for %s not available: %s)" % (day, e), file=sys.stderr)
+            continue
+        for f in fx:
+            fid = f["fixture"]["id"]
+            if fid in seen or f["fixture"]["status"]["short"] not in NOT_STARTED:
+                continue
+            seen.add(fid)
+            try:
+                ko = datetime.datetime.fromisoformat(f["fixture"]["date"].replace("Z", "+00:00"))
+            except ValueError:
+                continue
+            if not (now <= ko <= now + datetime.timedelta(hours=hours)):
+                continue
+            if not league_wanted(f, rules):
+                continue
+            h, a = f["teams"]["home"], f["teams"]["away"]
+            KNOWN_NAMES[h["id"]] = h["name"]
+            KNOWN_NAMES[a["id"]] = a["name"]
+            out.append({"kickoff": ko, "home": h, "away": a, "league": f["league"]})
+    out.sort(key=lambda m: m["kickoff"])
+    return out
 LEAGUE_CACHE = {}        # (league id, season) -> text block or None
 LEAGUES_SEEN = []        # (league id, season, name) for the current match, in order found
 SKIP_TABLE = ("friendl",)
@@ -160,6 +219,8 @@ def find_team(query, prefer_country=None):
     """Return (id, name). Accepts 'id:123' or a name of 3+ characters."""
     if query.lower().startswith("id:"):
         tid = int(query[3:])
+        if tid in KNOWN_NAMES:
+            return tid, KNOWN_NAMES[tid]
         res = api("/teams", id=tid)
         name = res[0]["team"]["name"] if res else str(tid)
         LAST_COUNTRY[tid] = res[0]["team"].get("country") if res else None
@@ -292,8 +353,8 @@ def report(query, n, n_xg, prefer_country=None):
 
 def header(home, away):
     now = datetime.datetime.now(datetime.timezone.utc)
-    print("FORM DATA %s v %s | source API-Football | %s UTC" % (
-        home, away, now.strftime("%Y-%m-%d %H:%M")))
+    print("FORM DATA %s | source API-Football | %s UTC" % (
+        ("%s v %s" % (home, away)) if away else home, now.strftime("%Y-%m-%d %H:%M")))
     print("H/A = listed home/away (city shown so neutral venues can be spotted). "
           "Scores are after 90 minutes, team's goals first.")
     print()

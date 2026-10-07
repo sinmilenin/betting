@@ -1,0 +1,34 @@
+# Competitions for the automatic daily slate: country | part of the league name (case does not matter)
+# '*' as country = any country. Lines starting with # are ignored. Edit freely.
+* | World Cup - Qualification
+* | UEFA Nations League
+* | Euro Championship - Qualification
+* | Friendlies  # international friendlies; club friendlies are "Friendlies Clubs" and match too
+World | CONCACAF Nations League
+World | Africa Cup of Nations
+England | Premier League
+England | Championship
+Spain | La Liga
+Spain | Segunda
+Italy | Serie A
+Italy | Serie B
+Germany | Bundesliga
+France | Ligue 1
+Netherlands | Eredivisie
+Portugal | Primeira Liga
+Belgium | Jupiler Pro League
+Turkey | Süper Lig
+Scotland | Premiership
+World | UEFA Champions League
+World | UEFA Europa League
+World | UEFA Europa Conference League
+Brazil | Serie A
+Brazil | Serie B
+Argentina | Liga Profesional
+World | CONMEBOL Libertadores
+World | CONMEBOL Sudamericana
+USA | Major League Soccer
+Mexico | Liga MX
+Japan | J1 League
+South-Korea | K League 1
+Saudi-Arabia | Pro League

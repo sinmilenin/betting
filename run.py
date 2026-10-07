@@ -99,7 +99,7 @@ def form_block(m, n, xg):
     err = Tee(sys.stderr, buf)
     before = form.CALLS
     with contextlib.redirect_stdout(buf), contextlib.redirect_stderr(err):
-        form.header(m["home"], m["away"])
+        form.header(m.get("title") or m["home"], "" if m.get("title") else m["away"])
         countries = {}
         failed = []
 
@@ -177,9 +177,31 @@ def main():
                    help="how far ahead to look for the match on Matchbook (default 96)")
     p.add_argument("--no-matchbook", action="store_true")
     p.add_argument("--no-form", action="store_true")
+    p.add_argument("--slate", action="store_true",
+                   help="when matches.txt has no matches, run every upcoming fixture "
+                        "in the competitions listed in slate_leagues.txt")
+    p.add_argument("--slate-hours", type=int, default=30)
     a = p.parse_args()
 
     matches = read_matches()
+    slate_index = None
+    if not matches and a.slate:
+        form.setup()
+        rules = form.load_slate_leagues(os.path.join(HERE, "slate_leagues.txt"))
+        if not rules:
+            sys.exit("slate_leagues.txt is missing or empty")
+        fx = form.slate(rules, a.slate_hours)
+        slate_index = ["SLATE %s local | %d fixtures in the next %d hours" % (
+            datetime.datetime.now().strftime("%Y-%m-%d %H:%M"), len(fx), a.slate_hours)]
+        for m in fx:
+            local = m["kickoff"].astimezone().strftime("%a %d.%m %H:%M")
+            slate_index.append("%s | %s v %s | %s (%s) | ids %s v %s" % (
+                local, m["home"]["name"], m["away"]["name"], m["league"]["name"],
+                m["league"].get("country"), m["home"]["id"], m["away"]["id"]))
+            matches.append({"home": "id:%s" % m["home"]["id"], "away": "id:%s" % m["away"]["id"],
+                            "title": "%s v %s" % (m["home"]["name"], m["away"]["name"]),
+                            "mb": None, "n": None, "xg": None})
+        print("\n".join(slate_index))
     if not matches and sys.stdin and sys.stdin.isatty():
         matches = ask_match()
     if not matches:
@@ -206,7 +228,7 @@ def main():
             log.append("line skipped: %s" % m["error"])
             print("Skipped: %s" % m["error"])
             continue
-        title = "%s v %s" % (m["home"], m["away"])
+        title = m.get("title") or "%s v %s" % (m["home"], m["away"])
         print("[%d/%d] %s" % (i, len(matches), title))
         blocks = ["MATCH %s | fetched %s local" % (title, stamp), ""]
         if form_ok:
@@ -218,7 +240,7 @@ def main():
         print("    prices from Matchbook ...")
         blocks.append(matchbook_block(m, state))
         text = "\n".join(blocks)
-        name = "%s_v_%s.txt" % (safe_name(m["home"]), safe_name(m["away"]))
+        name = "%s.txt" % safe_name(title)
         with open(os.path.join(out_dir, name), "w", encoding="utf-8") as f:
             f.write(text + "\n")
         problems = [ln for ln in text.splitlines()
@@ -230,6 +252,9 @@ def main():
 
     mb_calls = matchbook.CALLS if matchbook else 0
     log.append("Requests used: API-Football %d, Matchbook %d" % (form.CALLS, mb_calls))
+    if slate_index:
+        with open(os.path.join(out_dir, "_slate.txt"), "w", encoding="utf-8") as f:
+            f.write("\n".join(slate_index) + "\n")
     with open(os.path.join(out_dir, "_last_run.txt"), "w", encoding="utf-8") as f:
         f.write("\n".join(log) + "\n")
     print()
