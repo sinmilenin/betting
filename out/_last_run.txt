@@ -1,3 +1,4 @@
-RUN 2026-10-07 08:35 local | 1 match(es)
-Avispa Fukuoka v Yokohama FC -> out/Avispa_Fukuoka_v_Yokohama_FC.txt
-Requests used: API-Football 26, Matchbook 0
+RUN 2026-10-07 09:26 local | 2 match(es)
+Cerezo Osaka v Kagoshima United -> out/Cerezo_Osaka_v_Kagoshima_United.txt
+Sanfrecce Hiroshima v Iwaki -> out/Sanfrecce_Hiroshima_v_Iwaki.txt
+Requests used: API-Football 50, Matchbook 0
