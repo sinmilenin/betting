@@ -1,4 +1,4 @@
-RUN 2026-10-07 09:26 local | 2 match(es)
-Cerezo Osaka v Kagoshima United -> out/Cerezo_Osaka_v_Kagoshima_United.txt
-Sanfrecce Hiroshima v Iwaki -> out/Sanfrecce_Hiroshima_v_Iwaki.txt
-Requests used: API-Football 50, Matchbook 0
+RUN 2026-10-07 09:42 local | 2 match(es)
+Kawasaki Frontale v Tegevajaro Miyazaki -> out/Kawasaki_Frontale_v_Tegevajaro_Miyazaki.txt
+Fagiano Okayama v JEF United Chiba -> out/Fagiano_Okayama_v_JEF_United_Chiba.txt
+Requests used: API-Football 51, Matchbook 0

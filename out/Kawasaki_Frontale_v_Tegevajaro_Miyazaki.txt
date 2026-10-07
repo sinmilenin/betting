@@ -1,0 +1,109 @@
+MATCH Kawasaki Frontale v Tegevajaro Miyazaki | fetched 2026-10-07 09:42 local
+
+FORM DATA Kawasaki Frontale v Tegevajaro Miyazaki | source API-Football | 2026-10-07 09:42 UTC
+H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
+
+=== Kawasaki Frontale (id 294): last 20 finished games ===
+2026-09-29 A 1-0 v Roasso Kumamoto | J-League Cup | Kumamoto
+2026-09-19 H 3-3 v Kashima | J1 League | Kawasaki | xG 2.78-1.78
+2026-09-12 A 1-0 v Mito Hollyhock | J1 League | Ibaraki | xG 2.98-0.39
+2026-09-06 H 3-1 v Shimizu S-pulse | J1 League | Tokyo | xG 4.48-1.81
+2026-09-02 A 1-2 v Machida Zelvia | J1 League | Tokyo | xG 1.00-1.66
+2026-08-29 H 4-2 v JEF United Chiba | J1 League | Kawasaki | xG 2.52-2.69
+2026-08-26 H 3-1 v Tochigi SC | Emperor Cup | Kawasaki
+2026-08-22 A 1-1 v Sanfrecce Hiroshima | J1 League | Hiroshima
+2026-08-15 H 2-2 v Kyoto Sanga | J1 League | Kawasaki | xG 2.67-1.07
+2026-08-09 A 1-1 v Tokyo Verdy | J1 League | Tokyo
+2026-07-16 H 0-0 v Vanraure Hachinohe | Friendlies Clubs | ?
+2026-06-06 H 0-1 v Sanfrecce Hiroshima | J1 League | Kawasaki
+2026-05-30 A 1-2 v Sanfrecce Hiroshima | J1 League | Hiroshima
+2026-05-24 A 3-1 v Mito Hollyhock | J1 League | Mito
+2026-05-17 H 1-1 v Machida Zelvia | J1 League | Kawasaki [PEN, 90-min score shown]
+2026-05-10 A 0-1 v Kashiwa Reysol | J1 League | Kashiwa
+2026-05-06 H 1-0 v Tokyo Verdy | J1 League | Kawasaki
+2026-05-02 A 0-2 v FC Tokyo | J1 League | Tokyo
+2026-04-29 A 0-2 v Urawa | J1 League | Saitama
+2026-04-25 H 2-1 v JEF United Chiba | J1 League | Kawasaki
+Listed home: 10 games, scored 19 (1.90), conceded 12 (1.20), blanks 2, clean sheets 2
+Listed away: 10 games, scored 9 (0.90), conceded 12 (1.20), blanks 3, clean sheets 2
+All: 20 games, scored 28 (1.40), conceded 24 (1.20), blanks 5, clean sheets 4
+
+=== Tegevajaro Miyazaki (id 10409): last 20 finished games ===
+2026-10-04 H 1-1 v Omiya Ardija | J2 League | Miyazaki
+2026-09-26 H 3-2 v Consadole Sapporo | J2 League | Miyazaki
+2026-09-18 A 3-0 v Vanraure Hachinohe | J2 League | Hachinohe
+2026-09-12 H 3-2 v Fujieda MYFC | J2 League | Miyazaki
+2026-09-05 A 0-2 v Sagan Tosu | J2 League | Tosu
+2026-09-02 H 1-2 v Kataller Toyama | J-League Cup | Miyazaki
+2026-08-29 A 2-4 v Vegalta Sendai | J2 League | Sendai
+2026-08-26 A 0-0 v Jubilo Iwata | Emperor Cup | Iwata [AET, 90-min score shown]
+2026-08-22 H 0-0 v Shonan Bellmare | J2 League | Miyazaki
+2026-08-15 A 1-1 v Ventforet Kofu | J2 League | Kofu
+2026-08-08 H 0-1 v Yokohama FC | J2 League | Miyazaki
+2026-07-15 A 1-1 v Yokohama F. Marinos | Friendlies Clubs | ?
+2026-06-06 H 2-1 v Ventforet Kofu | J2/J3 League | Miyazaki
+2026-05-30 A 0-1 v Kataller Toyama | J2/J3 League | Toyama
+2026-05-24 H 2-2 v Biwako Shiga | J2/J3 League | Miyazaki [PEN, 90-min score shown]
+2026-05-17 A 2-1 v Oita Trinita | J2/J3 League | Oita
+2026-05-09 A 1-0 v Renofa Yamaguchi | J2/J3 League | Yamaguchi
+2026-05-06 H 1-0 v FC Ryukyu | J2/J3 League | Miyazaki
+2026-05-02 A 1-1 v Sagan Tosu | J2/J3 League | Tosu [PEN, 90-min score shown]
+2026-04-29 H 3-0 v Kitakyushu | J2/J3 League | Miyazaki
+Listed home: 10 games, scored 16 (1.60), conceded 11 (1.10), blanks 2, clean sheets 3
+Listed away: 10 games, scored 11 (1.10), conceded 11 (1.10), blanks 3, clean sheets 3
+All: 20 games, scored 27 (1.35), conceded 22 (1.10), blanks 5, clean sheets 6
+
+TABLE FOR Kawasaki Frontale
+LEAGUE TABLE J1 League 2027 | 20 teams | 80 games played
+League averages per game: home 1.59, away 1.38, total 2.96
+#   team                   Pts | home P GF-GA  | away P GF-GA  | all P GF-GA
+1   Vissel Kobe             19 |  4   8-4       |  4   4-1       |  8  12-5
+2   Kashiwa Reysol          18 |  3   6-5       |  5  11-7       |  8  17-12
+3   Sanfrecce Hiroshima     17 |  4  13-2       |  4   7-4       |  8  20-6
+4   Machida Zelvia          17 |  4   8-7       |  4  13-3       |  8  21-10
+5   FC Tokyo                17 |  4   6-5       |  4   8-3       |  8  14-8
+6   Yokohama F. Marinos     14 |  4   7-5       |  4   6-4       |  8  13-9
+7   Kawasaki Frontale       13 |  4  12-8       |  4   4-4       |  8  16-12
+8   Kashima                 13 |  3   5-4       |  5  12-12      |  8  17-16
+9   Fagiano Okayama         13 |  4   5-4       |  4   6-6       |  8  11-10
+10  Urawa                   12 |  4   8-9       |  4   8-9       |  8  16-18
+11  Cerezo Osaka            11 |  4   5-1       |  4   2-11      |  8   7-12
+12  Shimizu S-pulse         10 |  5   4-4       |  3   2-4       |  8   6-8
+13  Mito Hollyhock           9 |  4   6-5       |  4   5-6       |  8  11-11
+14  Kyoto Sanga              8 |  3   5-7       |  5   6-8       |  8  11-15
+15  V-varen Nagasaki         8 |  5   7-7       |  3   3-8       |  8  10-15
+16  Gamba Osaka              6 |  4   4-6       |  4   4-8       |  8   8-14
+17  Nagoya Grampus           6 |  4   6-6       |  4   1-8       |  8   7-14
+18  Avispa Fukuoka           4 |  5   6-6       |  3   3-6       |  8   9-12
+19  Tokyo Verdy              4 |  5   3-9       |  3   1-3       |  8   4-12
+20  JEF United Chiba         4 |  3   3-6       |  5   4-12      |  8   7-18
+
+TABLE FOR Tegevajaro Miyazaki
+LEAGUE TABLE J2 League 2026 | 20 teams | 90 games played
+League averages per game: home 1.48, away 1.18, total 2.66
+#   team                   Pts | home P GF-GA  | away P GF-GA  | all P GF-GA
+1   Vegalta Sendai          20 |  4   7-4       |  5  10-4       |  9  17-8
+2   Albirex Niigata         19 |  5   8-3       |  4   5-10      |  9  13-13
+3   Kataller Toyama         17 |  4   9-6       |  5   9-3       |  9  18-9
+4   Omiya Ardija            17 |  4   8-3       |  5   9-5       |  9  17-8
+5   Yokohama FC             17 |  4  12-4       |  5   6-7       |  9  18-11
+6   Shonan Bellmare         16 |  3   3-4       |  6   7-4       |  9  10-8
+7   Fujieda MYFC            13 |  5   7-3       |  4   6-7       |  9  13-10
+8   Blaublitz Akita         13 |  6  10-7       |  3   2-3       |  9  12-10
+9   Tokushima Vortis        13 |  4   5-0       |  5   4-10      |  9   9-10
+10  Montedio Yamagata       12 |  5   7-4       |  4   4-4       |  9  11-8
+11  Tegevajaro Miyazaki     12 |  5   7-6       |  4   6-7       |  9  13-13
+12  Oita Trinita            11 |  5   8-5       |  4   1-2       |  9   9-7
+13  Tochigi City            10 |  4   8-8       |  5   7-7       |  9  15-15
+14  Jubilo Iwata            10 |  4   4-5       |  5   7-8       |  9  11-13
+15  Vanraure Hachinohe      10 |  6   3-8       |  3   2-6       |  9   5-14
+16  Iwaki                    9 |  4   6-6       |  5   6-11      |  9  12-17
+17  Sagan Tosu               8 |  4   6-6       |  5   2-6       |  9   8-12
+18  Consadole Sapporo        8 |  5   7-10      |  4   5-8       |  9  12-18
+19  Imabari                  7 |  4   4-8       |  5   5-10      |  9   9-18
+20  Ventforet Kofu           7 |  5   4-6       |  4   3-11      |  9   7-17
+
+(27 API-Football requests used)
+
+----------------------------------------------------------------------
+MATCHBOOK: skipped (switched off for this run)
