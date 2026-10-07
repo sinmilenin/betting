@@ -1,3 +1,6 @@
-RUN 2026-10-07 16:12 local | 1 match(es)
-Zamalek SC v Masr -> out/Zamalek_SC_v_Masr.txt
-Requests used: API-Football 25, Matchbook 0
+RUN 2026-10-07 17:48 local | 2 match(es)
+Deportivo Riestra Res v Independiente Rivadavia Res -> out/Deportivo_Riestra_Res_v_Independiente_Ri.txt
+    !! Independiente Rivadavia Res: No team found for "Independiente Rivadavia Res".
+Riestra Res v Rivadavia Res -> out/Riestra_Res_v_Rivadavia_Res.txt
+    !! Rivadavia Res: No team found for "Rivadavia Res".
+Requests used: API-Football 7, Matchbook 0
