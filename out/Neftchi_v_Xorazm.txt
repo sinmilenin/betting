@@ -1,8 +1,12 @@
-MATCH Neftchi Fargona v Xorazm | fetched 2026-10-07 13:35 local
+MATCH Neftchi v Xorazm | fetched 2026-10-07 13:35 local
 
-FORM DATA Neftchi Fargona v Xorazm | source API-Football | 2026-10-07 13:35 UTC
+FORM DATA Neftchi v Xorazm | source API-Football | 2026-10-07 13:35 UTC
 H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
 
+"Neftchi" matches several teams. Use id:<number> instead of the name:
+  id:2270   Neftchi Baku (Azerbaijan)
+  id:4217   Neftchi (Uzbekistan)
+  id:12240  Neftchi (Kyrgyzstan)
 === Xorazm (id 16381): last 20 finished games ===
 2026-09-21 H 1-3 v Qizilqum | Super League | Urgench
 2026-09-16 A 1-2 v Olmaliq | Cup | Olmaliq
@@ -28,7 +32,32 @@ Listed home: 10 games, scored 10 (1.00), conceded 16 (1.60), blanks 3, clean she
 Listed away: 10 games, scored 7 (0.70), conceded 16 (1.60), blanks 4, clean sheets 2
 All: 20 games, scored 17 (0.85), conceded 32 (1.60), blanks 7, clean sheets 5
 
-!! Neftchi Fargona: No team found for "Neftchi Fargona".
+(retrying Neftchi using the opponent's country, Uzbekistan)
+NOTE: "Neftchi" matched 2 teams; picked Neftchi (Uzbekistan) because the opponent is from Uzbekistan. Others: Neftchi (Kyrgyzstan)
+=== Neftchi (id 4217): last 20 finished games ===
+2026-09-20 A 1-0 v Lokomotiv | Super League | Tashkent
+2026-09-14 H 1-0 v Al Quwa Al Jawiya | AFC Champions League Elite | Fergana
+2026-09-09 H 2-1 v Surkhon | Super League | Fergana
+2026-09-04 A 2-6 v Nasaf | Super League | Qarshi
+2026-08-29 H 1-0 v Pakhtakor | Cup | Fergana
+2026-08-23 H 3-0 v Sogdiana | Super League | Fergana
+2026-08-18 A 1-4 v Buxoro | Super League | Bukhara
+2026-08-13 A 3-0 v Andijan | Super League | Andijan
+2026-08-08 H 5-0 v Qizilqum | Super League | Fergana
+2026-08-03 A 0-0 v Dinamo Samarqand | Super League | Samarkand
+2026-07-28 H 1-1 v Navbahor | Super League | Fergana
+2026-07-21 A 5-1 v Sogdiana | Super League | Jizzakh
+2026-07-16 H 2-1 v Buxoro | Super League | Fergana
+2026-07-08 A 1-4 v Zenit | Friendlies Clubs | ?
+2026-05-03 A 0-0 v Olmaliq | Super League | Olmaliq
+2026-04-29 H 4-0 v Kokand-1912 | Super League | Fergana
+2026-04-24 A 2-0 v Xorazm | Super League | Urgench
+2026-04-18 H 2-1 v Nasaf | Super League | Fergana
+2026-04-14 A 1-0 v Bunyodkor | Super League | Tashkent
+2026-04-09 H 0-1 v Pakhtakor | Super League | Fergana
+Listed home: 10 games, scored 21 (2.10), conceded 5 (0.50), blanks 1, clean sheets 5
+Listed away: 10 games, scored 16 (1.60), conceded 15 (1.50), blanks 2, clean sheets 6
+All: 20 games, scored 37 (1.85), conceded 20 (1.00), blanks 3, clean sheets 11
 
 TABLE FOR Xorazm
 LEAGUE TABLE Super League 2026 | 16 teams | 176 games played
@@ -51,7 +80,9 @@ League averages per game: home 1.45, away 1.22, total 2.67
 15  Kokand-1912             20 | 10  10-12      | 12   9-18      | 22  19-30
 16  Mash'al                  4 | 11   4-16      | 11   7-28      | 22  11-44
 
-(14 API-Football requests used)
+(Neftchi: same table as Xorazm, shown above)
+
+(26 API-Football requests used)
 
 ----------------------------------------------------------------------
 MATCHBOOK: skipped (switched off for this run)

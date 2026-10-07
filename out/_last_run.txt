@@ -1,4 +1,3 @@
 RUN 2026-10-07 13:35 local | 1 match(es)
-Neftchi Fargona v Xorazm -> out/Neftchi_Fargona_v_Xorazm.txt
-    !! Neftchi Fargona: No team found for "Neftchi Fargona".
-Requests used: API-Football 14, Matchbook 0
+Neftchi v Xorazm -> out/Neftchi_v_Xorazm.txt
+Requests used: API-Football 26, Matchbook 0
