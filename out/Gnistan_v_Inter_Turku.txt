@@ -1,0 +1,90 @@
+MATCH Gnistan v Inter Turku | fetched 2026-10-07 14:13 local
+
+FORM DATA Gnistan v Inter Turku | source API-Football | 2026-10-07 14:13 UTC
+H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
+
+=== Gnistan (id 2082): last 20 finished games ===
+2026-09-18 H 1-1 v HJK Helsinki | Veikkausliiga | Helsinki
+2026-09-12 A 2-1 v AC Oulu | Veikkausliiga | Oulu
+2026-09-08 H 1-1 v KuPS | Veikkausliiga | Helsinki
+2026-08-31 H 1-1 v Turku PS | Veikkausliiga | Helsinki
+2026-08-23 A 3-2 v HJK Helsinki | Veikkausliiga | Helsinki
+2026-08-17 H 3-2 v Ilves | Veikkausliiga | Helsinki
+2026-08-07 A 2-2 v SJK | Veikkausliiga | Seinajoki
+2026-08-01 H 0-1 v KuPS | Veikkausliiga | Helsinki
+2026-07-26 A 2-1 v Inter Turku | Veikkausliiga | Turku
+2026-07-18 A 2-0 v AC Oulu | Veikkausliiga | Oulu
+2026-07-11 H 4-2 v Mariehamn | Veikkausliiga | Helsinki
+2026-07-04 A 0-1 v Lahti | Veikkausliiga | Lahti
+2026-06-27 H 1-1 v VPS | Veikkausliiga | Helsinki
+2026-06-23 A 1-1 v FF Jaro | Veikkausliiga | Jakobstad
+2026-06-17 H 1-0 v Lahti | Veikkausliiga | Helsinki
+2026-06-13 A 3-0 v Mariehamn | Veikkausliiga | Mariehamn
+2026-05-30 H 3-2 v SJK | Veikkausliiga | Helsinki
+2026-05-23 A 0-2 v Ilves | Veikkausliiga | Tampere
+2026-05-16 H 5-0 v FF Jaro | Veikkausliiga | Helsinki
+2026-05-09 A 1-1 v VPS | Veikkausliiga | Vaasa
+Listed home: 10 games, scored 20 (2.00), conceded 11 (1.10), blanks 1, clean sheets 2
+Listed away: 10 games, scored 16 (1.60), conceded 11 (1.10), blanks 2, clean sheets 2
+All: 20 games, scored 36 (1.80), conceded 22 (1.10), blanks 3, clean sheets 4
+
+=== Inter Turku (id 1164): last 20 finished games ===
+2026-09-18 A 1-0 v AC Oulu | Veikkausliiga | Oulu
+2026-09-14 H 1-0 v VPS | Veikkausliiga | Turku
+2026-09-09 A 1-2 v HJK Helsinki | Veikkausliiga | Helsinki
+2026-09-05 H 1-0 v HJK Helsinki | Suomen Cup | Tampere
+2026-08-31 H 1-0 v KuPS | Veikkausliiga | Turku
+2026-08-27 A 1-4 v FC Copenhagen | UEFA Europa Conference League | Copenhagen
+2026-08-23 A 0-0 v Turku PS | Veikkausliiga | Turku
+2026-08-20 H 0-0 v FC Copenhagen | UEFA Europa Conference League | Turku
+2026-08-16 A 3-2 v AC Oulu | Veikkausliiga | Oulu
+2026-08-13 A 2-2 v FC Vaduz | UEFA Europa Conference League | Vaduz
+2026-08-09 H 0-0 v Lahti | Veikkausliiga | Turku
+2026-08-06 H 2-1 v FC Vaduz | UEFA Europa Conference League | Turku
+2026-08-02 A 1-0 v VPS | Veikkausliiga | Vaasa
+2026-07-30 H 2-0 v Başakşehir | UEFA Europa Conference League | Turku
+2026-07-26 H 1-2 v Gnistan | Veikkausliiga | Turku
+2026-07-22 A 1-1 v Başakşehir | UEFA Europa Conference League | Istanbul
+2026-07-19 A 0-0 v FF Jaro | Veikkausliiga | Jakobstad
+2026-07-16 H 2-1 v FK Sarajevo | UEFA Europa Conference League | Turku
+2026-07-09 A 1-1 v FK Sarajevo | UEFA Europa Conference League | Sarajevo
+2026-06-30 A 3-2 v VPS | Suomen Cup | Vaasa
+Listed home: 9 games, scored 10 (1.11), conceded 4 (0.44), blanks 2, clean sheets 6
+Listed away: 11 games, scored 14 (1.27), conceded 14 (1.27), blanks 2, clean sheets 4
+All: 20 games, scored 24 (1.20), conceded 18 (0.90), blanks 4, clean sheets 10
+
+TABLE FOR Gnistan
+LEAGUE TABLE Veikkausliiga 2026 | 24 teams | 150 games played
+League averages per game: home 1.41, away 1.10, total 2.51
+#   team                   Pts | home P GF-GA  | away P GF-GA  | all P GF-GA
+1   KuPS                    43 | 11  21-14      | 11  17-9       | 22  38-23 [Veikkausliiga]
+2   Inter Turku             42 | 11  11-6       | 11  18-10      | 22  29-16 [Veikkausliiga]
+3   HJK Helsinki            37 | 11  18-14      | 11  18-13      | 22  36-27 [Veikkausliiga]
+4   Gnistan                 36 | 11  21-17      | 11  15-12      | 22  36-29 [Veikkausliiga]
+5   AC Oulu                 34 | 11  12-9       | 11  13-16      | 22  25-25 [Veikkausliiga]
+6   VPS                     33 | 11  18-11      | 11  11-11      | 22  29-22 [Veikkausliiga]
+7   Lahti                   32 | 11  17-10      | 11   9-9       | 22  26-19 [Veikkausliiga]
+8   Turku PS                31 | 11  18-9       | 11  10-14      | 22  28-23 [Veikkausliiga]
+9   Ilves                   25 | 11  17-11      | 11  17-26      | 22  34-37 [Veikkausliiga]
+10  SJK                     19 | 11  16-15      | 11   9-18      | 22  25-33 [Veikkausliiga]
+11  FF Jaro                 15 | 11  14-16      | 11   4-28      | 22  18-44 [Veikkausliiga]
+12  Mariehamn               14 | 11   9-17      | 11   8-26      | 22  17-43 [Veikkausliiga]
+1   KuPS                    48 |  1   0-0       |  2   3-1       | 25  41-24 [Champion Additional]
+2   Inter Turku             48 |  1   1-0       |  2   2-2       | 25  32-18 [Champion Additional]
+3   HJK Helsinki            42 |  1   2-1       |  2   1-1       | 25  39-29 [Champion Additional]
+4   Gnistan                 41 |  2   2-2       |  1   2-1       | 25  40-32 [Champion Additional]
+5   VPS                     36 |  2   1-2       |  1   0-1       | 25  30-25 [Champion Additional]
+6   AC Oulu                 34 |  2   1-3       |  1   0-1       | 25  26-29 [Champion Additional]
+1   Lahti                   36 |  2   3-2       |  1   1-3       | 25  30-24 [Relegation Play-Off]
+2   Ilves                   34 |  2   5-1       |  1   3-0       | 25  42-38 [Relegation Play-Off]
+3   Turku PS                32 |  2   0-3       |  1   0-1       | 25  28-27 [Relegation Play-Off]
+4   SJK                     24 |  1   2-1       |  2   1-1       | 25  28-35 [Relegation Play-Off]
+5   Mariehamn               17 |  1   1-0       |  2   2-4       | 25  20-47 [Relegation Play-Off]
+6   FF Jaro                 17 |  1   1-1       |  2   1-3       | 25  20-48 [Relegation Play-Off]
+
+(Inter Turku: same table as Gnistan, shown above)
+
+(25 API-Football requests used)
+
+----------------------------------------------------------------------
+MATCHBOOK: skipped (switched off for this run)
