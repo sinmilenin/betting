@@ -153,7 +153,8 @@ def slate(rules, hours=30):
     out.sort(key=lambda m: m["kickoff"])
     return out
 LEAGUE_CACHE = {}        # (league id, season) -> text block or None
-LEAGUES_SEEN = []        # (league id, season, name) for the current match, in order found
+LEAGUE_TEAMS = {}        # (league id, season) -> ids of the teams in that table
+LEAGUES_SEEN = {}        # team id -> [team name, [(league id, season, name), ...]] for the current match
 SKIP_TABLE = ("friendl",)
 
 
@@ -172,6 +173,7 @@ def league_table(league_id, season, name):
     groups = res[0]["league"].get("standings") if res else None
     if groups:
         rows = [r for g in groups for r in g]
+        LEAGUE_TEAMS[key] = set(r["team"]["id"] for r in rows)
         hp = sum(r["home"]["played"] for r in rows)
         hgf = sum(r["home"]["goals"]["for"] for r in rows)
         hga = sum(r["home"]["goals"]["against"] for r in rows)
@@ -194,34 +196,47 @@ def league_table(league_id, season, name):
     return text
 
 
-def note_leagues(fixtures):
-    """Remember the competitions of recent fixtures (newest first) for the table lookup."""
+def note_leagues(fixtures, team_id, team_name):
+    """Remember the competitions of a team's recent fixtures (newest first) for the table lookup."""
+    seen = LEAGUES_SEEN.setdefault(team_id, [team_name, []])[1]
     for f in fixtures[:12]:
         lg = f["league"]
         if any(w in (lg.get("name") or "").lower() for w in SKIP_TABLE):
             continue
         key = (lg["id"], lg["season"], lg["name"])
-        if key not in LEAGUES_SEEN:
-            LEAGUES_SEEN.append(key)
+        if key not in seen:
+            seen.append(key)
 
 
-def print_league_tables(max_tables=1):
-    """Print the first competitions with a table among those seen for this match."""
-    shown = 0
-    for lid, season, name in list(LEAGUES_SEEN):
-        text = league_table(lid, season, name)
-        if text:
-            print(text)
-            print()
-            shown += 1
-            if shown >= max_tables:
+def print_league_tables():
+    """Print each team's own league table: the newest competition whose table lists that team.
+
+    Teams from different divisions (cup ties) get one table each, so both sides have
+    league averages; teams in the same table get it once.
+    """
+    printed = {}
+    for tid, (tname, leagues) in list(LEAGUES_SEEN.items()):
+        found = None
+        for lid, season, name in leagues:
+            text = league_table(lid, season, name)
+            if text and tid in LEAGUE_TEAMS.get((lid, season), ()):
+                found = ((lid, season), name, text)
                 break
-    if not shown and LEAGUES_SEEN:
-        print("(no league table available for: %s)" % ", ".join(
-            "%s %s" % (n, s) for _, s, n in LEAGUES_SEEN[:4]))
+        if not found:
+            print("(no league table available for %s: tried %s)" % (tname, ", ".join(
+                "%s %s" % (n, s) for _, s, n in leagues[:4]) or "no competitions"))
+            print()
+            continue
+        key, name, text = found
+        if key in printed:
+            print("(%s: same table as %s, shown above)" % (tname, printed[key]))
+            print()
+            continue
+        printed[key] = tname
+        print("TABLE FOR %s" % tname)
+        print(text)
         print()
-    del LEAGUES_SEEN[:]
-
+    LEAGUES_SEEN.clear()
 
 
 def find_team(query, prefer_country=None):
@@ -343,7 +358,7 @@ def report(query, n, n_xg, prefer_country=None):
     """Print the form block; return the team's country (used to resolve the opponent)."""
     tid, name = find_team(query, prefer_country)
     fixtures = get_fixtures(tid, n)
-    note_leagues(fixtures)
+    note_leagues(fixtures, tid, name)
     lines, home, away = [], [], []
     for i, f in enumerate(fixtures):
         xg = get_xg(f["fixture"]["id"]) if i < n_xg else {}
