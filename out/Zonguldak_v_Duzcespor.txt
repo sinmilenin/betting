@@ -1,6 +1,6 @@
-MATCH Zonguldak v Duzcespor | fetched 2026-10-07 12:09 local
+MATCH Zonguldak v Duzcespor | fetched 2026-10-07 12:44 local
 
-FORM DATA Zonguldak v Duzcespor | source API-Football | 2026-10-07 12:09 UTC
+FORM DATA Zonguldak v Duzcespor | source API-Football | 2026-10-07 12:44 UTC
 H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
 
 === Zonguldak Kömürspor (id 3611): last 3 finished games ===

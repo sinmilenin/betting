@@ -1,8 +1,5 @@
-RUN 2026-10-07 12:09 local | 6 match(es)
-Avispa Fukuoka v Yokohama FC -> out/Avispa_Fukuoka_v_Yokohama_FC.txt
-Cerezo Osaka v Kagoshima United -> out/Cerezo_Osaka_v_Kagoshima_United.txt
-Sanfrecce Hiroshima v Iwaki -> out/Sanfrecce_Hiroshima_v_Iwaki.txt
-Kawasaki Frontale v Tegevajaro Miyazaki -> out/Kawasaki_Frontale_v_Tegevajaro_Miyazaki.txt
-Fagiano Okayama v JEF United Chiba -> out/Fagiano_Okayama_v_JEF_United_Chiba.txt
+RUN 2026-10-07 12:44 local | 2 match(es)
+Asyut v Al Ahly -> out/Asyut_v_Al_Ahly.txt
+    !! Asyut: Ambiguous team name "Asyut".
 Zonguldak v Duzcespor -> out/Zonguldak_v_Duzcespor.txt
-Requests used: API-Football 30, Matchbook 0
+Requests used: API-Football 20, Matchbook 0
