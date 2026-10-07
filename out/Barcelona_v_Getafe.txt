@@ -1,0 +1,83 @@
+MATCH Barcelona v Getafe | fetched 2026-10-07 06:00 local
+
+FORM DATA Barcelona v Getafe | source API-Football | 2026-10-07 06:00 UTC
+H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
+
+=== Barcelona (id 529): last 20 finished games ===
+2026-09-19 A 3-1 v Sevilla | La Liga | Sevilla | xG 3.47-0.40
+2026-09-16 H 7-2 v Racing Santander | La Liga | Barcelona | xG 6.74-1.98
+2026-09-13 A 4-2 v Levante | La Liga | Valencia | xG 2.58-2.42
+2026-09-09 H 5-1 v Feyenoord | UEFA Champions League | Barcelona
+2026-09-06 A 5-0 v Valencia | La Liga | Valencia | xG 4.08-0.66
+2026-08-31 H 5-2 v Rayo Vallecano | La Liga | Barcelona | xG 3.04-1.21
+2026-08-27 H 2-0 v Athletic Club | La Liga | Barcelona | xG 4.23-0.25
+2026-08-23 A 5-0 v Elche | La Liga | Elche | xG 4.38-0.70
+2026-08-19 H 2-1 v Al Ahly | Friendlies Clubs | ?
+2026-08-16 A 5-2 v FC Basel 1893 | Friendlies Clubs | ?
+2026-08-08 A 0-1 v Udinese | Friendlies Clubs | ?
+2026-08-08 H 1-0 v Nottingham Forest | Friendlies Clubs | ?
+2026-07-31 A 2-2 v Birmingham | Friendlies Clubs | Birmingham [PEN, 90-min score shown]
+2026-07-24 H 4-1 v Europa Fc | Friendlies Clubs | ?
+2026-05-23 A 1-3 v Valencia | La Liga | Valencia
+2026-05-17 H 3-1 v Real Betis | La Liga | Barcelona
+2026-05-13 A 0-1 v Alaves | La Liga | Vitoria-Gasteiz
+2026-05-10 H 2-0 v Real Madrid | La Liga | Barcelona
+2026-05-02 A 2-1 v Osasuna | La Liga | Pamplona
+2026-04-25 A 2-0 v Getafe | La Liga | Getafe
+Listed home: 9 games, scored 31 (3.44), conceded 8 (0.89), blanks 0, clean sheets 3
+Listed away: 11 games, scored 29 (2.64), conceded 13 (1.18), blanks 2, clean sheets 3
+All: 20 games, scored 60 (3.00), conceded 21 (1.05), blanks 2, clean sheets 6
+
+=== Getafe (id 546): last 20 finished games ===
+2026-09-20 H 1-0 v Malaga | La Liga | Getafe | xG 0.95-0.52
+2026-09-17 A 0-1 v Real Betis | La Liga | Seville | xG 0.29-1.89
+2026-09-13 H 1-1 v Deportivo La Coruna | La Liga | Getafe | xG 0.78-0.87
+2026-09-07 H 1-1 v Celta Vigo | La Liga | Getafe | xG 0.65-1.03
+2026-08-31 A 0-1 v Osasuna | La Liga | Pamplona | xG 0.68-1.68
+2026-08-27 A 1-2 v FK Partizan | UEFA Europa Conference League | Belgrade
+2026-08-23 H 1-0 v Racing Santander | La Liga | Getafe | xG 1.24-1.31
+2026-08-20 H 3-1 v FK Partizan | UEFA Europa Conference League | Getafe
+2026-08-15 A 0-3 v Alaves | La Liga | Vitoria-Gasteiz | xG 0.24-1.93
+2026-08-08 A 1-1 v Tottenham | Friendlies Clubs | London
+2026-08-06 A 0-1 v Monaco | Friendlies Clubs | ?
+2026-07-29 A 1-4 v Atletico Madrid | Friendlies Clubs | Majadahonda
+2026-07-25 A 0-0 v Valladolid | Friendlies Clubs | ?
+2026-07-22 A 2-1 v Tenerife | Friendlies Clubs | ?
+2026-07-17 H 1-0 v Reading | Friendlies Clubs | ?
+2026-05-23 H 1-0 v Osasuna | La Liga | Getafe
+2026-05-17 A 0-1 v Elche | La Liga | Elche
+2026-05-13 H 3-1 v Mallorca | La Liga | Getafe
+2026-05-10 A 0-0 v Oviedo | La Liga | Oviedo
+2026-05-03 H 0-2 v Rayo Vallecano | La Liga | Getafe
+Listed home: 9 games, scored 12 (1.33), conceded 6 (0.67), blanks 1, clean sheets 4
+Listed away: 11 games, scored 5 (0.45), conceded 15 (1.36), blanks 7, clean sheets 2
+All: 20 games, scored 17 (0.85), conceded 21 (1.05), blanks 8, clean sheets 6
+
+LEAGUE TABLE La Liga 2026 | 20 teams | 69 games played
+League averages per game: home 1.71, away 1.33, total 3.04
+#   team                   Pts | home P GF-GA  | away P GF-GA  | all P GF-GA
+1   Barcelona               21 |  3  14-4       |  4  17-3       |  7  31-7
+2   Atletico Madrid         16 |  4  10-3       |  3   6-4       |  7  16-7
+3   Real Betis              16 |  3   3-0       |  4   6-7       |  7   9-7
+4   Real Madrid             15 |  3  12-2       |  4   6-6       |  7  18-8
+5   Sevilla                 13 |  4   5-7       |  3   5-2       |  7  10-9
+6   Alaves                  11 |  4   9-3       |  3   2-3       |  7  11-6
+7   Deportivo La Coruna     10 |  4   5-4       |  3   5-4       |  7  10-8
+8   Real Sociedad           10 |  3   2-4       |  4   7-9       |  7   9-13
+9   Villarreal               8 |  3   6-6       |  4   7-6       |  7  13-12
+10  Athletic Club            8 |  4   5-4       |  2   2-2       |  6   7-6
+11  Getafe                   8 |  4   4-2       |  3   0-5       |  7   4-7
+12  Rayo Vallecano           8 |  3   6-4       |  4   5-12      |  7  11-16
+13  Osasuna                  8 |  4   2-3       |  3   4-10      |  7   6-13
+14  Celta Vigo               7 |  4   7-5       |  3   1-1       |  7   8-6
+15  Espanyol                 7 |  4   6-6       |  3   4-4       |  7  10-10
+16  Racing Santander         7 |  3   7-5       |  4   4-16      |  7  11-21
+17  Levante                  5 |  2   7-6       |  4   1-6       |  6   8-12
+18  Elche                    5 |  3   4-11      |  4   7-6       |  7  11-17
+19  Valencia                 4 |  4   2-9       |  3   2-4       |  7   4-13
+20  Malaga                   3 |  3   2-4       |  4   1-8       |  7   3-12
+
+(25 API-Football requests used)
+
+----------------------------------------------------------------------
+MATCHBOOK: skipped (switched off for this run)

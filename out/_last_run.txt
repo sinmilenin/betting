@@ -1,0 +1,3 @@
+RUN 2026-10-07 06:00 local | 1 match(es)
+Barcelona v Getafe -> out/Barcelona_v_Getafe.txt
+Requests used: API-Football 25, Matchbook 0
