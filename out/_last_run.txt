@@ -1,3 +1,5 @@
-RUN 2026-10-07 14:13 local | 1 match(es)
-Gnistan v Inter Turku -> out/Gnistan_v_Inter_Turku.txt
-Requests used: API-Football 25, Matchbook 0
+RUN 2026-10-07 14:18 local | 2 match(es)
+KuPS Akatemia v Inter Turku II -> out/KuPS_Akatemia_v_Inter_Turku_II.txt
+KuPS Akatemia v Inter Turku 2 -> out/KuPS_Akatemia_v_Inter_Turku_2.txt
+    !! Inter Turku 2: No team found for "Inter Turku 2".
+Requests used: API-Football 28, Matchbook 0
