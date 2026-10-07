@@ -1,0 +1,83 @@
+MATCH Sunderland v Brighton | fetched 2026-10-07 06:43 local
+
+FORM DATA Sunderland v Brighton | source API-Football | 2026-10-07 06:43 UTC
+H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
+
+=== Sunderland (id 746): last 20 finished games ===
+2026-09-20 A 3-5 v Manchester City | Premier League | Manchester | xG 3.57-2.82
+2026-09-16 H 1-0 v AZ Alkmaar | UEFA Europa League | Sunderland | xG 2.90-1.49
+2026-09-12 H 0-2 v Arsenal | Premier League | Sunderland | xG 1.80-1.88
+2026-09-08 H 1-0 v Hull City | League Cup | Sunderland
+2026-09-05 A 1-1 v Brentford | Premier League | London | xG 1.71-1.21
+2026-08-30 H 1-0 v Fulham | Premier League | Sunderland | xG 2.02-0.95
+2026-08-22 A 1-2 v Ipswich | Premier League | Ipswich | xG 0.66-1.80
+2026-08-15 H 2-1 v Rennes | Friendlies Clubs | ?
+2026-08-08 A 2-0 v Lens | Friendlies Clubs | ?
+2026-08-02 A 1-0 v Wrexham | Premier League - Summer Series | ?
+2026-07-30 H 0-1 v Leeds | Premier League - Summer Series | ?
+2026-07-25 A 2-4 v Liverpool | Premier League - Summer Series | Nashville
+2026-07-18 A 5-1 v York | Friendlies Clubs | ?
+2026-05-24 H 2-1 v Chelsea | Premier League | Sunderland
+2026-05-17 A 3-1 v Everton | Premier League | Liverpool
+2026-05-09 H 0-0 v Manchester United | Premier League | Sunderland
+2026-05-02 A 1-1 v Wolves | Premier League | Wolverhampton
+2026-04-24 H 0-5 v Nottingham Forest | Premier League | Sunderland
+2026-04-19 A 3-4 v Aston Villa | Premier League | Birmingham
+2026-04-12 H 1-0 v Tottenham | Premier League | Sunderland
+Listed home: 10 games, scored 8 (0.80), conceded 10 (1.00), blanks 4, clean sheets 5
+Listed away: 10 games, scored 22 (2.20), conceded 19 (1.90), blanks 0, clean sheets 2
+All: 20 games, scored 30 (1.50), conceded 29 (1.45), blanks 4, clean sheets 7
+
+=== Brighton (id 51): last 20 finished games ===
+2026-09-19 H 3-0 v Arsenal | Premier League | Brighton | xG 1.31-1.63
+2026-09-16 A 3-2 v Manchester United | League Cup | Manchester
+2026-09-13 A 5-0 v Coventry | Premier League | Coventry | xG 2.81-1.33
+2026-09-05 H 1-1 v Leeds | Premier League | Falmer | xG 2.19-2.49
+2026-08-30 A 3-4 v Chelsea | Premier League | London | xG 1.41-2.93
+2026-08-27 H 4-0 v Tromso | UEFA Europa Conference League | Brighton
+2026-08-23 H 4-0 v Aston Villa | Premier League | Falmer | xG 3.77-0.29
+2026-08-20 A 0-0 v Tromso | UEFA Europa Conference League | Tromso
+2026-08-15 H 1-0 v Bologna | Friendlies Clubs | ?
+2026-08-08 H 3-0 v AS Roma | Friendlies Clubs | Brighton
+2026-08-01 H 4-3 v Strasbourg | Friendlies Clubs | ?
+2026-05-24 H 0-3 v Manchester United | Premier League | Brighton
+2026-05-17 A 0-1 v Leeds | Premier League | Leeds
+2026-05-09 H 3-0 v Wolves | Premier League | Brighton
+2026-05-02 A 1-3 v Newcastle | Premier League | Newcastle
+2026-04-21 H 3-0 v Chelsea | Premier League | Brighton
+2026-04-18 A 2-2 v Tottenham | Premier League | London
+2026-04-11 A 2-0 v Burnley | Premier League | Burnley
+2026-03-21 H 2-1 v Liverpool | Premier League | Brighton
+2026-03-14 A 1-0 v Sunderland | Premier League | Sunderland
+Listed home: 11 games, scored 28 (2.55), conceded 8 (0.73), blanks 1, clean sheets 7
+Listed away: 9 games, scored 17 (1.89), conceded 12 (1.33), blanks 2, clean sheets 4
+All: 20 games, scored 45 (2.25), conceded 20 (1.00), blanks 3, clean sheets 11
+
+LEAGUE TABLE Premier League 2026 | 20 teams | 50 games played
+League averages per game: home 1.52, away 1.30, total 2.82
+#   team                   Pts | home P GF-GA  | away P GF-GA  | all P GF-GA
+1   Manchester City         15 |  3   8-4       |  2   5-1       |  5  13-5
+2   Arsenal                 12 |  2   5-1       |  3   3-3       |  5   8-4
+3   Brighton                10 |  3   8-1       |  2   8-4       |  5  16-5
+4   Brentford                9 |  3   7-1       |  2   3-3       |  5  10-4
+5   Leeds                    9 |  3   5-2       |  2   2-1       |  5   7-3
+6   Liverpool                9 |  2   2-2       |  3   5-2       |  5   7-4
+7   Everton                  9 |  3   5-2       |  2   1-1       |  5   6-3
+8   Hull City                8 |  2   2-0       |  3   4-4       |  5   6-4
+9   Newcastle                8 |  3   6-5       |  2   3-4       |  5   9-9
+10  Chelsea                  7 |  2   6-5       |  3   4-7       |  5  10-12
+11  Ipswich                  6 |  2   2-3       |  3   5-8       |  5   7-11
+12  Manchester United        5 |  2   5-3       |  3   3-5       |  5   8-8
+13  Nottingham Forest        5 |  3   0-2       |  2   4-3       |  5   4-5
+14  Sunderland               4 |  2   1-2       |  3   5-8       |  5   6-10
+15  Crystal Palace           4 |  2   3-7       |  3   3-4       |  5   6-11
+16  Aston Villa              4 |  2   1-3       |  3   3-6       |  5   4-9
+17  Bournemouth              3 |  3   3-4       |  2   3-4       |  5   6-8
+18  Coventry                 3 |  2   0-6       |  3   1-4       |  5   1-10
+19  Fulham                   2 |  3   5-7       |  2   0-1       |  5   5-8
+20  Tottenham                2 |  3   2-5       |  2   0-3       |  5   2-8
+
+(25 API-Football requests used)
+
+----------------------------------------------------------------------
+MATCHBOOK: skipped (switched off for this run)

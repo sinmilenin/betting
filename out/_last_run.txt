@@ -1,3 +1,3 @@
-RUN 2026-10-07 06:27 local | 1 match(es)
-Liverpool v Manchester City -> out/Liverpool_v_Manchester_City.txt
+RUN 2026-10-07 06:43 local | 1 match(es)
+Sunderland v Brighton -> out/Sunderland_v_Brighton.txt
 Requests used: API-Football 25, Matchbook 0
