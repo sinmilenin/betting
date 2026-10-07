@@ -1,3 +1,3 @@
-# Egypt, 7 Oct, plus a results check for the Lay Ledger
-Asyut v Al Ahly
+# Egypt, 7 Oct ("Asyut" is ambiguous in API-Football: id 18021 is Asyut Petrol), plus a results check
+id:18021 v Al Ahly
 Zonguldak v Duzcespor | n=3 | xg=0
