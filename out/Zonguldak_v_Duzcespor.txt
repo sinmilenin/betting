@@ -1,0 +1,84 @@
+MATCH Zonguldak v Duzcespor | fetched 2026-10-07 10:45 local
+
+FORM DATA Zonguldak v Duzcespor | source API-Football | 2026-10-07 10:45 UTC
+H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
+
+=== Zonguldak Kömürspor (id 3611): last 20 finished games ===
+2026-10-03 H 0-0 v Düzcespor | 3. Lig - Group 1 | ?
+2026-09-26 A 1-1 v Küçükçekmece Sinopspor | 3. Lig - Group 1 | ?
+2026-09-19 H 0-2 v Pazarspor | 3. Lig - Group 1 | ?
+2026-09-13 H 1-2 v Karabük İdman Yurdu | 3. Lig - Group 1 | ?
+2026-09-06 A 2-3 v İnkılapspor | 3. Lig - Group 1 | ?
+2026-04-18 A 4-3 v Yeni Orduspor | 3. Lig - Group 3 | Ordu
+2026-04-12 H 0-0 v Giresunspor | 3. Lig - Group 3 | Zonguldak
+2026-04-05 A 3-3 v Pazarspor | 3. Lig - Group 3 | Pazar
+2026-03-29 H 2-1 v Fatsa Belediyespor | 3. Lig - Group 3 | Zonguldak
+2026-03-25 A 1-2 v Artvin Hopaspor | 3. Lig - Group 3 | Arhavi
+2026-03-14 H 0-2 v Karadeniz Ereğli BSK | 3. Lig - Group 3 | Zonguldak
+2026-03-08 A 0-1 v Sebat Gençlikspor | 3. Lig - Group 3 | Trabzon
+2026-03-01 H 0-1 v Orduspor 1967 | 3. Lig - Group 3 | Zonguldak
+2026-02-22 A 4-0 v 1926 Bulancak | 3. Lig - Group 3 | ?
+2026-02-15 H 1-2 v Çayelispor | 3. Lig - Group 3 | Zonguldak
+2026-02-09 A 0-1 v Amasyaspor 1968 | 3. Lig - Group 3 | Amasya
+2026-02-04 A 2-1 v Düzcespor | 3. Lig - Group 3 | Düzce
+2026-01-31 H 3-0 v Karabük İdman Yurdu | 3. Lig - Group 3 | Zonguldak
+2026-01-25 A 2-1 v Yozgat Bld Bozokspor | 3. Lig - Group 3 | ?
+2026-01-11 H 2-0 v Tokat Bld Plevnespor | 3. Lig - Group 3 | Zonguldak
+Listed home: 10 games, scored 9 (0.90), conceded 10 (1.00), blanks 5, clean sheets 4
+Listed away: 10 games, scored 19 (1.90), conceded 16 (1.60), blanks 2, clean sheets 1
+All: 20 games, scored 28 (1.40), conceded 26 (1.30), blanks 7, clean sheets 5
+
+=== Düzcespor (id 7399): last 20 finished games ===
+2026-10-03 A 0-0 v Zonguldak Kömürspor | 3. Lig - Group 1 | ?
+2026-09-27 H 1-1 v İnkılapspor | 3. Lig - Group 1 | ?
+2026-09-20 A 1-1 v Galata | 3. Lig - Group 1 | ?
+2026-09-12 H 1-0 v Beykoz Anadolu | 3. Lig - Group 1 | ?
+2026-09-06 A 2-2 v Orduspor 1967 | 3. Lig - Group 1 | ?
+2026-04-18 A 0-2 v Tokat Bld Plevnespor | 3. Lig - Group 3 | Tokat
+2026-04-12 H 2-2 v Yeni Orduspor | 3. Lig - Group 3 | Düzce
+2026-04-05 A 0-2 v Giresunspor | 3. Lig - Group 3 | Giresun
+2026-03-29 H 1-0 v Pazarspor | 3. Lig - Group 3 | Düzce
+2026-03-25 A 2-1 v Fatsa Belediyespor | 3. Lig - Group 3 | Fatsa
+2026-03-15 H 0-0 v Artvin Hopaspor | 3. Lig - Group 3 | Düzce
+2026-03-08 A 0-2 v Karadeniz Ereğli BSK | 3. Lig - Group 3 | Karadeniz Ereğli
+2026-03-01 H 1-0 v Sebat Gençlikspor | 3. Lig - Group 3 | Düzce
+2026-02-22 A 0-2 v Orduspor 1967 | 3. Lig - Group 3 | Ordu
+2026-02-14 H 1-0 v 1926 Bulancak | 3. Lig - Group 3 | Düzce
+2026-02-08 A 0-3 v Çayelispor | 3. Lig - Group 3 | Çayeli
+2026-02-04 H 1-2 v Zonguldak Kömürspor | 3. Lig - Group 3 | Düzce
+2026-01-31 H 2-1 v Amasyaspor 1968 | 3. Lig - Group 3 | Düzce
+2026-01-25 A 0-1 v Karabük İdman Yurdu | 3. Lig - Group 3 | Karabük
+2026-01-11 A 0-1 v Yozgat Bld Bozokspor | 3. Lig - Group 3 | ?
+Listed home: 9 games, scored 10 (1.11), conceded 6 (0.67), blanks 1, clean sheets 5
+Listed away: 11 games, scored 5 (0.45), conceded 17 (1.55), blanks 8, clean sheets 1
+All: 20 games, scored 15 (0.75), conceded 23 (1.15), blanks 9, clean sheets 6
+
+TABLE FOR Zonguldak Kömürspor
+LEAGUE TABLE 3. Lig - Group 1 2026 | 18 teams | 45 games played
+League averages per game: home 1.13, away 1.24, total 2.38
+#   team                   Pts | home P GF-GA  | away P GF-GA  | all P GF-GA
+1   Fatsa Belediyespor      11 |  2   4-1       |  3   6-1       |  5  10-2
+2   Kartal Bulvarspor       10 |  2   1-1       |  3  11-5       |  5  12-6
+3   Pazarspor               10 |  3   7-3       |  2   2-0       |  5   9-3
+4   Galata                   9 |  3   3-1       |  2   4-2       |  5   7-3
+5   Karadeniz Ereğli BSK     9 |  2   2-1       |  3   1-0       |  5   3-1
+6   Tokat Bld Plevnespor     8 |  2   2-4       |  3   6-2       |  5   8-6
+7   Orduspor 1967            8 |  3   5-5       |  2   2-1       |  5   7-6
+8   Amasyaspor 1968          8 |  2   3-2       |  3   3-3       |  5   6-5
+9   Küçükçekmece Sinopspor   8 |  2   2-2       |  3   4-3       |  5   6-5
+10  Düzcespor                7 |  2   2-1       |  3   3-3       |  5   5-4
+11  Karabük İdman Yurdu      7 |  3   2-7       |  2   3-1       |  5   5-8
+12  Beykoz Anadolu           5 |  3   4-3       |  2   0-1       |  5   4-4
+13  Gölcükspor               4 |  2   2-1       |  3   3-6       |  5   5-7
+14  Silivrispor              4 |  3   2-3       |  2   0-3       |  5   2-6
+15  İnkılapspor              4 |  3   3-5       |  2   2-5       |  5   5-10
+16  Yalova Yeşilovaspor      4 |  3   5-10      |  2   2-4       |  5   7-14
+17  Zonguldak Kömürspor      2 |  3   1-4       |  2   3-4       |  5   4-8
+18  Beykoz İshaklıspor       1 |  2   1-2       |  3   1-7       |  5   2-9
+
+(Düzcespor: same table as Zonguldak Kömürspor, shown above)
+
+(25 API-Football requests used)
+
+----------------------------------------------------------------------
+MATCHBOOK: skipped (switched off for this run)
