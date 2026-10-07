@@ -1,0 +1,44 @@
+MATCH KuPS Akatemia v Inter Turku II | fetched 2026-10-07 17:51 local
+
+FORM DATA KuPS Akatemia v Inter Turku II | source API-Football | 2026-10-07 17:51 UTC
+H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
+
+=== KuPS Akatemia (id 18758): last 3 finished games ===
+2026-10-07 H 0-3 v Inter Turku II | Ykkönen | Kuopio
+2026-09-18 A 2-3 v KPV-j | Ykkönen | Kokkola
+2026-09-13 A 2-4 v TPV | Ykkönen | Tampere
+Listed home: 1 games, scored 0 (0.00), conceded 3 (3.00), blanks 1, clean sheets 0
+Listed away: 2 games, scored 4 (2.00), conceded 7 (3.50), blanks 0, clean sheets 0
+All: 3 games, scored 4 (1.33), conceded 10 (3.33), blanks 1, clean sheets 0
+
+=== Inter Turku II (id 18518): last 3 finished games ===
+2026-10-07 A 3-0 v KuPS Akatemia | Ykkönen | Kuopio
+2026-09-20 H 3-0 v TPV | Ykkönen | Turku
+2026-09-12 A 1-2 v VJS | Ykkönen | Vantaa
+Listed home: 1 games, scored 3 (3.00), conceded 0 (0.00), blanks 0, clean sheets 1
+Listed away: 2 games, scored 4 (2.00), conceded 2 (1.00), blanks 0, clean sheets 1
+All: 3 games, scored 7 (2.33), conceded 2 (0.67), blanks 0, clean sheets 2
+
+TABLE FOR KuPS Akatemia
+LEAGUE TABLE Ykkönen 2026 | 12 teams | 149 games played
+League averages per game: home 2.02, away 1.56, total 3.58
+#   team                   Pts | home P GF-GA  | away P GF-GA  | all P GF-GA
+1   Tampere United          50 | 13  32-10      | 12  26-16      | 25  58-26
+2   Rops                    44 | 13  32-14      | 12  20-23      | 25  52-37
+3   SalPa                   42 | 13  37-23      | 12  15-22      | 25  52-45
+4   OLS                     41 | 12  28-15      | 13  22-22      | 25  50-37
+5   VJS                     40 | 13  24-16      | 12  20-16      | 25  44-32
+6   FC jazz                 39 | 13  17-18      | 12  21-14      | 25  38-32
+7   PKKU                    38 | 12  23-18      | 13  22-19      | 25  45-37
+8   JJK                     31 | 12  32-23      | 13  23-30      | 25  55-53
+9   TPV                     27 | 13  22-21      | 12  13-27      | 25  35-48
+10  Inter Turku II          23 | 12  18-21      | 12  18-32      | 24  36-53
+11  KPV-j                   18 | 12  18-32      | 13   9-43      | 25  27-75
+12  KuPS Akatemia           15 | 11  18-21      | 13  23-37      | 24  41-58
+
+(Inter Turku II: same table as KuPS Akatemia, shown above)
+
+(5 API-Football requests used)
+
+----------------------------------------------------------------------
+MATCHBOOK: skipped (switched off for this run)
