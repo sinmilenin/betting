@@ -1,0 +1,70 @@
+MATCH Ureña v Trujillanos FC | fetched 2026-10-07 17:58 local
+
+FORM DATA Ureña v Trujillanos FC | source API-Football | 2026-10-07 17:58 UTC
+H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
+
+=== Trujillanos FC (id 2815): last 20 finished games ===
+2026-09-20 A 1-1 v Estudiantes de Merida FC | Primera División | Mérida
+2026-09-16 H 2-4 v Rayo Zuliano | Primera División | Valera
+2026-09-13 A 2-1 v Zamora FC | Primera División | Barinas
+2026-09-10 A 1-2 v Deportivo Lara | Copa Venezuela | ?
+2026-09-06 H 0-1 v Caracas FC | Primera División | Valera
+2026-09-03 A 1-4 v Metropolitanos FC | Primera División | Caracas
+2026-08-30 H 3-1 v Monagas SC | Primera División | Valera
+2026-08-26 H 0-0 v Deportivo Lara | Copa Venezuela | ?
+2026-08-21 A 0-0 v Anzoátegui FC | Primera División | Puerto La Cruz
+2026-08-18 H 2-2 v Urena SC | Copa Venezuela | ?
+2026-08-15 A 0-1 v Portuguesa FC | Primera División | Araure
+2026-08-09 H 1-3 v Deportivo Tachira FC | Primera División | Valera
+2026-08-04 A 0-2 v Carabobo FC | Primera División | Valencia
+2026-08-01 H 2-0 v UCV | Primera División | Valera
+2026-06-24 A 0-0 v Rayo Zuliano | Copa Venezuela | ?
+2026-04-25 H 0-1 v Deportivo La Guaira | Primera División | Valera
+2026-04-21 A 1-3 v Puerto Cabello | Primera División | Carabobo
+2026-04-12 H 0-2 v Estudiantes de Merida FC | Primera División | Valera
+2026-04-04 A 1-3 v Rayo Zuliano | Primera División | Maracaibo
+2026-03-22 H 0-3 v Zamora FC | Primera División | Valera
+Listed home: 10 games, scored 10 (1.00), conceded 17 (1.70), blanks 5, clean sheets 2
+Listed away: 10 games, scored 7 (0.70), conceded 17 (1.70), blanks 4, clean sheets 2
+All: 20 games, scored 17 (0.85), conceded 34 (1.70), blanks 9, clean sheets 4
+
+!! Ureña: API-Football error: {"search": "The Search field may only contain alpha-numeric characters and spaces."}
+
+TABLE FOR Urena SC
+LEAGUE TABLE Segunda División 2026 | 17 teams | 220 games played
+League averages per game: home 1.44, away 1.17, total 2.61
+#   team                   Pts | home P GF-GA  | away P GF-GA  | all P GF-GA
+1   Deportivo Lara          63 | 14  31-10      | 15  20-12      | 29  51-22 [Segunda División]
+2   Fundación Lara Deporti  53 | 15  32-13      | 14  20-19      | 29  52-32 [Segunda División]
+3   Yaracuyanos FC          46 | 14  21-13      | 15  20-15      | 29  41-28 [Segunda División]
+4   Urena SC                46 | 15  10-14      | 14  31-20      | 29  41-34 [Segunda División]
+5   Zamora FC B             40 | 15  20-22      | 14  26-22      | 29  46-44 [Segunda División]
+6   Atletico el Vigia FC    40 | 15  26-23      | 15  14-27      | 30  40-50 [Segunda División]
+7   Puerto Cabello II       34 | 15  24-20      | 15  14-24      | 30  38-44 [Segunda División]
+8   Club Atletico Barinas   32 | 15  30-27      | 15  20-34      | 30  50-61 [Segunda División]
+9   Real Frontera           12 | 14  15-30      | 15   7-36      | 29  22-66 [Segunda División]
+1   Monagas II              39 | 10  17-11      | 12  18-14      | 22  35-25 [Segunda División]
+2   Petare FC               38 | 12  17-8       | 11  12-13      | 23  29-21 [Segunda División]
+3   Bolívar                 37 | 12  15-11      | 12  13-18      | 24  28-29 [Segunda División]
+4   Aragua FC               36 | 11  14-7       | 12   9-10      | 23  23-17 [Segunda División]
+5   Dinamo de Puerto La Cr  32 | 12  16-11      | 11  10-13      | 23  26-24 [Segunda División]
+6   Mineros de Guyana       21 | 13  16-19      | 11  10-14      | 24  26-33 [Segunda División]
+7   Marítimo                20 |  7   8-6       |  7   8-7       | 14  16-13 [Segunda División]
+8   Atletico Avila FC       13 | 11   5-12      | 12   5-19      | 23  10-31 [Segunda División]
+
+!! league table: unexpected error
+Traceback (most recent call last):
+  File "/home/runner/work/betting/betting/run.py", line 130, in form_block
+    form.print_league_tables()
+  File "/home/runner/work/betting/betting/form.py", line 221, in print_league_tables
+    text = league_table(lid, season, name)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/work/betting/betting/form.py", line 177, in league_table
+    hp = sum(r["home"]["played"] for r in rows)
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+TypeError: unsupported operand type(s) for +: 'int' and 'NoneType'
+
+(4 API-Football requests used)
+
+----------------------------------------------------------------------
+MATCHBOOK: skipped (switched off for this run)

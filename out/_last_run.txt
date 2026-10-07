@@ -1,4 +1,7 @@
-RUN 2026-10-07 17:51 local | 2 match(es)
-Neftchi v Xorazm -> out/Neftchi_v_Xorazm.txt
-KuPS Akatemia v Inter Turku II -> out/KuPS_Akatemia_v_Inter_Turku_II.txt
-Requests used: API-Football 11, Matchbook 0
+RUN 2026-10-07 17:58 local | 2 match(es)
+Urena v Trujillanos -> out/Urena_v_Trujillanos.txt
+    !! league table: unexpected error
+Ureña v Trujillanos FC -> out/Ure_a_v_Trujillanos_FC.txt
+    !! Ureña: API-Football error: {"search": "The Search field may only contain alpha-numeric characters and spaces."}
+    !! league table: unexpected error
+Requests used: API-Football 30, Matchbook 0
