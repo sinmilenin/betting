@@ -1,5 +1,4 @@
-RUN 2026-10-07 12:44 local | 2 match(es)
-Asyut v Al Ahly -> out/Asyut_v_Al_Ahly.txt
-    !! Asyut: Ambiguous team name "Asyut".
+RUN 2026-10-07 12:45 local | 2 match(es)
+id:18021 v Al Ahly -> out/id_18021_v_Al_Ahly.txt
 Zonguldak v Duzcespor -> out/Zonguldak_v_Duzcespor.txt
-Requests used: API-Football 20, Matchbook 0
+Requests used: API-Football 30, Matchbook 0
