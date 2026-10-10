@@ -1,0 +1,84 @@
+MATCH Genk v Kortrijk | fetched 2026-10-10 18:20 local
+
+FORM DATA Genk v Kortrijk | source API-Football | 2026-10-10 18:20 UTC
+H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
+
+=== Genk (id 742): last 20 finished games ===
+2026-10-03 H 1-2 v Fortuna Sittard | Friendlies Clubs | ?
+2026-09-20 A 0-3 v Club Brugge KV | Jupiler Pro League | Brugge | xG 1.96-2.12
+2026-09-13 H 1-1 v Gent | Jupiler Pro League | Genk | xG 0.94-0.89
+2026-09-06 A 0-0 v Anderlecht | Jupiler Pro League | Brussels | xG 0.40-0.70
+2026-08-28 H 4-0 v SK Beveren | Jupiler Pro League | Genk | xG 3.06-0.61
+2026-08-22 A 4-4 v Antwerp | Jupiler Pro League | Deurne | xG 1.30-1.86
+2026-08-15 H 3-2 v KVC Westerlo | Jupiler Pro League | Genk | xG 4.24-0.85
+2026-08-09 A 1-2 v Zulte Waregem | Jupiler Pro League | Waregem | xG 0.54-0.51
+2026-08-02 H 2-1 v Twente | Friendlies Clubs | ?
+2026-08-01 H 3-1 v FC OSS | Friendlies Clubs | ?
+2026-07-29 A 0-4 v Bayer Leverkusen | Friendlies Clubs | ?
+2026-07-22 A 0-4 v AZ Alkmaar | Friendlies Clubs | ?
+2026-07-18 A 0-1 v Falkirk | Friendlies Clubs | ?
+2026-07-17 A 4-3 v Motherwell | Friendlies Clubs | ?
+2026-07-11 A 1-2 v Fortuna Sittard | Friendlies Clubs | ?
+2026-07-08 H 2-1 v SK Beveren | Friendlies Clubs | ?
+2026-07-04 A 5-1 v Eendracht Termien | Friendlies Clubs | ?
+2026-05-31 A 0-0 v Gent | Jupiler Pro League | Gent [PEN, 90-min score shown]
+2026-05-23 A 2-0 v OH Leuven | Jupiler Pro League | Heverlee
+2026-05-19 H 0-0 v Antwerp | Jupiler Pro League | Genk
+Listed home: 8 games, scored 16 (2.00), conceded 8 (1.00), blanks 1, clean sheets 2
+Listed away: 12 games, scored 17 (1.42), conceded 24 (2.00), blanks 6, clean sheets 3
+All: 20 games, scored 33 (1.65), conceded 32 (1.60), blanks 7, clean sheets 5
+
+=== Kortrijk (id 734): last 20 finished games ===
+2026-09-26 A 2-2 v Heist | Cup | Heist-Op-Den-Berg [PEN, 90-min score shown]
+2026-09-20 H 1-0 v SK Beveren | Jupiler Pro League | Kortrijk | xG 2.25-0.42
+2026-09-13 A 0-3 v RAAL La Louvière | Jupiler Pro League | La Louviere | xG 0.81-3.58
+2026-09-06 H 0-2 v Zulte Waregem | Jupiler Pro League | Kortrijk | xG 0.55-1.19
+2026-09-03 A 0-1 v Anderlecht | Jupiler Pro League | Brussels | xG 0.46-1.50
+2026-08-29 H 1-3 v Charleroi | Jupiler Pro League | Kortrijk | xG 1.20-1.69
+2026-08-15 H 0-3 v Antwerp | Jupiler Pro League | Kortrijk | xG 0.77-1.19
+2026-08-08 H 1-1 v Club Brugge II | Friendlies Clubs | ?
+2026-08-07 A 0-3 v Club Brugge KV | Jupiler Pro League | Bruges | xG 1.02-3.49
+2026-08-01 H 1-2 v Reims | Friendlies Clubs | ?
+2026-07-31 H 1-0 v KAA Gent II | Friendlies Clubs | ?
+2026-07-25 H 1-1 v Amiens | Friendlies Clubs | ?
+2026-07-25 H 4-1 v Knokke | Friendlies Clubs | ?
+2026-07-18 A 0-1 v Harelbeke | Friendlies Clubs | ?
+2026-07-18 H 1-1 v Valenciennes | Friendlies Clubs | ?
+2026-07-04 A 2-4 v Club Brugge KV | Friendlies Clubs | ?
+2026-06-27 A 5-1 v Diksmuide | Friendlies Clubs | ?
+2026-06-20 A 6-0 v Lauwe | Friendlies Clubs | ?
+2026-06-17 A 4-1 v Marke | Friendlies Clubs | ?
+2026-04-17 H 3-1 v RWDM | Challenger Pro League | Kortrijk
+Listed home: 11 games, scored 14 (1.27), conceded 15 (1.36), blanks 2, clean sheets 2
+Listed away: 9 games, scored 19 (2.11), conceded 16 (1.78), blanks 4, clean sheets 1
+All: 20 games, scored 33 (1.65), conceded 31 (1.55), blanks 6, clean sheets 3
+
+TABLE FOR Genk
+LEAGUE TABLE Jupiler Pro League 2026 | 18 teams | 65 games played
+League averages per game: home 1.68, away 1.28, total 2.95
+#   team                   Pts | home P GF-GA  | away P GF-GA  | all P GF-GA
+1   Union St. Gilloise      19 |  3   8-0       |  4  13-3       |  7  21-3
+2   Gent                    19 |  4   7-2       |  3   6-2       |  7  13-4
+3   Club Brugge KV          18 |  4  10-1       |  3   5-2       |  7  15-3
+4   Charleroi               18 |  4  10-6       |  3   5-1       |  7  15-7
+5   Anderlecht              16 |  4   6-1       |  4   3-5       |  8   9-6
+6   Zulte Waregem           11 |  3   6-2       |  4   4-5       |  7  10-7
+7   Standard Liege          11 |  3   5-2       |  4   8-10      |  7  13-12
+8   Lommel United           11 |  4   4-2       |  4   5-7       |  8   9-9
+9   KVC Westerlo            10 |  3   7-9       |  4   8-7       |  7  15-16
+10  SK Beveren               9 |  4   7-3       |  4   1-11      |  8   8-14
+11  Genk                     9 |  3   8-3       |  4   5-9       |  7  13-12
+12  St. Truiden              8 |  4   5-6       |  3   7-6       |  7  12-12
+13  Antwerp                  7 |  4   7-11      |  3   4-4       |  7  11-15
+14  RAAL La Louvière         4 |  3   6-4       |  4   1-10      |  7   7-14
+15  OH Leuven                4 |  4   4-6       |  3   1-7       |  7   5-13
+16  Kortrijk                 3 |  4   2-8       |  3   0-7       |  7   2-15
+17  Cercle Brugge            3 |  4   4-9       |  4   5-7       |  8   9-16
+18  KV Mechelen              3 |  3   3-8       |  4   2-6       |  7   5-14
+
+(Kortrijk: same table as Genk, shown above)
+
+(26 API-Football requests used)
+
+----------------------------------------------------------------------
+MATCHBOOK: skipped (switched off for this run)
