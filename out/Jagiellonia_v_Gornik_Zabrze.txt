@@ -1,0 +1,84 @@
+MATCH Jagiellonia v Gornik Zabrze | fetched 2026-10-10 18:06 local
+
+FORM DATA Jagiellonia v Gornik Zabrze | source API-Football | 2026-10-10 18:06 UTC
+H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
+
+=== Jagiellonia (id 336): last 20 finished games ===
+2026-10-03 H 1-2 v Polonia Warszawa | Friendlies Clubs | ?
+2026-09-29 H 5-0 v Suduva Marijampole | Friendlies Clubs | ?
+2026-09-20 H 1-3 v Legia Warszawa | Ekstraklasa | Bialystok | xG 2.30-1.75
+2026-09-16 A 1-2 v Olympiakos Piraeus | UEFA Europa League | Piraeus | xG 0.52-2.53
+2026-09-11 A 0-2 v Wisla Krakow | Ekstraklasa | Kraków | xG 0.24-1.68
+2026-09-06 H 2-1 v Slask Wroclaw | Ekstraklasa | Bialystok | xG 1.39-1.86
+2026-09-03 A 1-2 v Lech Poznan | Ekstraklasa | Poznan | xG 0.48-1.78
+2026-08-30 A 5-2 v Raków Częstochowa | Ekstraklasa | Czestochowa | xG 4.44-1.29
+2026-08-27 A 2-1 v FC Iberia 1999 | UEFA Europa League | Tbilisi
+2026-08-20 H 4-0 v FC Iberia 1999 | UEFA Europa League | Bialystok
+2026-08-13 A 1-1 v Rangers | UEFA Europa League | Glasgow
+2026-08-09 H 0-2 v Widzew Łódź | Ekstraklasa | Bialystok
+2026-08-06 H 2-1 v Rangers | UEFA Europa League | Bialystok
+2026-07-31 A 2-1 v Motor Lublin | Ekstraklasa | Lublin
+2026-07-26 H 1-0 v Łomża | Friendlies Clubs | ?
+2026-07-25 H 1-0 v Korona Kielce | Ekstraklasa | Bialystok
+2026-07-17 A 2-1 v FC Nordsjaelland | Friendlies Clubs | ?
+2026-07-16 H 1-0 v Sparta Praha | Friendlies Clubs | ?
+2026-07-12 H 1-0 v Pafos | Friendlies Clubs | ?
+2026-07-09 A 0-0 v Polessya | Friendlies Clubs | ?
+Listed home: 11 games, scored 19 (1.73), conceded 9 (0.82), blanks 1, clean sheets 6
+Listed away: 9 games, scored 14 (1.56), conceded 12 (1.33), blanks 2, clean sheets 1
+All: 20 games, scored 33 (1.65), conceded 21 (1.05), blanks 3, clean sheets 7
+
+=== Gornik Zabrze (id 340): last 20 finished games ===
+2026-10-02 H 0-2 v Odra Opole | Friendlies Clubs | Zabrze
+2026-09-19 A 0-0 v Motor Lublin | Ekstraklasa | Lublin
+2026-09-15 A 2-0 v Korona Kielce | Ekstraklasa | Kielce
+2026-09-12 H 2-1 v Lech Poznan | Ekstraklasa | Zabrze
+2026-09-06 A 1-0 v Cracovia Krakow | Ekstraklasa | Kraków
+2026-09-03 A 2-1 v Raków Częstochowa | Ekstraklasa | Czestochowa
+2026-08-30 H 2-3 v GKS Katowice | Ekstraklasa | Zabrze
+2026-08-27 A 1-4 v Monaco | UEFA Europa Conference League | Monaco
+2026-08-20 H 2-3 v Monaco | UEFA Europa Conference League | Zabrze
+2026-08-16 H 2-1 v Wisla Krakow | Ekstraklasa | Zabrze
+2026-08-13 H 1-1 v Ferencvarosi TC | UEFA Europa League | Zabrze
+2026-08-08 A 3-1 v Radomiak Radom | Ekstraklasa | Radom
+2026-08-05 A 0-1 v Ferencvarosi TC | UEFA Europa League | Budapest
+2026-07-29 H 1-1 v Fenerbahçe | UEFA Champions League | Zabrze
+2026-07-25 H 2-1 v Slask Wroclaw | Ekstraklasa | Zabrze
+2026-07-21 A 0-1 v Fenerbahçe | UEFA Champions League | Istanbul
+2026-07-16 A 1-3 v Lech Poznan | Super Cup | ?
+2026-07-10 A 2-0 v FC Nordsjaelland | Friendlies Clubs | ?
+2026-07-04 A 0-0 v WSG Wattens | Friendlies Clubs | ?
+2026-07-04 A 1-2 v Red Bull Salzburg | Friendlies Clubs | ?
+Listed home: 8 games, scored 12 (1.50), conceded 13 (1.62), blanks 1, clean sheets 0
+Listed away: 12 games, scored 13 (1.08), conceded 13 (1.08), blanks 4, clean sheets 5
+All: 20 games, scored 25 (1.25), conceded 26 (1.30), blanks 5, clean sheets 5
+
+TABLE FOR Jagiellonia
+LEAGUE TABLE Ekstraklasa 2026 | 18 teams | 81 games played
+League averages per game: home 1.64, away 1.33, total 2.98
+#   team                   Pts | home P GF-GA  | away P GF-GA  | all P GF-GA
+1   Gornik Zabrze           22 |  4   8-6       |  5   8-2       |  9  16-8
+2   Legia Warszawa          19 |  4  10-3       |  5   9-5       |  9  19-8
+3   Lech Poznan             19 |  5  11-2       |  3   6-5       |  8  17-7
+4   Wisla Krakow            17 |  5  10-3       |  4   7-9       |  9  17-12
+5   GKS Katowice            15 |  3  11-3       |  6   9-11      |  9  20-14
+6   Pogon Szczecin          15 |  5   8-5       |  3   4-1       |  8  12-6
+7   Korona Kielce           15 |  5   6-7       |  4   6-3       |  9  12-10
+8   Zaglebie Lubin          15 |  5   6-4       |  5   6-9       | 10  12-13
+9   Piast Gliwice           13 |  5  12-10      |  4   4-5       |  9  16-15
+10  Jagiellonia             12 |  4   4-6       |  4   8-7       |  8  12-13
+11  Cracovia Krakow         11 |  5   8-7       |  5   4-8       | 10  12-15
+12  Wisla Plock             11 |  3   3-3       |  6   6-12      |  9   9-15
+13  Widzew Łódź              9 |  5   7-9       |  4   6-4       |  9  13-13
+14  Wieczysta Kraków         8 |  3   5-3       |  6   9-14      |  9  14-17
+15  Radomiak Radom           8 |  5   5-7       |  4   2-13      |  9   7-20
+16  Slask Wroclaw            6 |  4   6-6       |  5   5-9       |  9  11-15
+17  Motor Lublin             6 |  5   4-7       |  4   5-8       |  9   9-15
+18  Raków Częstochowa        3 |  6   9-17      |  4   4-8       | 10  13-25
+
+(Gornik Zabrze: same table as Jagiellonia, shown above)
+
+(25 API-Football requests used)
+
+----------------------------------------------------------------------
+MATCHBOOK: skipped (switched off for this run)
