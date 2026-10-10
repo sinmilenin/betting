@@ -1,0 +1,84 @@
+MATCH Brest v Angers | fetched 2026-10-10 18:26 local
+
+FORM DATA Brest v Angers | source API-Football | 2026-10-10 18:26 UTC
+H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
+
+"Brest" matches several teams. Use id:<number> instead of the name:
+  id:106    Stade Brestois 29 (France)
+  id:386    Dinamo Brest (Belarus)
+  id:3246   ASPTT Brest (France)
+  id:3391   Ruh Brest (Belarus)
+  id:9958   Brest II (France)
+  id:11645  Dinamo Brest Res. (Belarus)
+  id:11648  FK Ruh Brest Res. (Belarus)
+  id:16628  Brestzhilstroy (Belarus)
+  id:19663  Dinamo Brest II (Belarus)
+  id:22278  Levski Brest (Bulgaria)
+  id:24971  Brest U19 (France)
+=== Angers (id 77): last 20 finished games ===
+2026-09-19 H 2-0 v Estac Troyes | Ligue 1 | Angers | xG 2.25-1.02
+2026-09-12 A 0-0 v Le Havre | Ligue 1 | Le Havre | xG 0.59-1.31
+2026-09-06 H 1-2 v Rennes | Ligue 1 | Angers | xG 1.66-1.54
+2026-08-29 A 3-1 v Auxerre | Ligue 1 | Auxerre | xG 1.55-1.81
+2026-08-23 H 0-2 v Lille | Ligue 1 | Angers | xG 1.99-1.24
+2026-08-15 H 3-2 v Paris FC | Friendlies Clubs | ?
+2026-08-08 H 2-1 v Lorient | Friendlies Clubs | ?
+2026-08-01 H 2-3 v Le Mans | Friendlies Clubs | ?
+2026-07-25 H 2-1 v Creteil | Friendlies Clubs | ?
+2026-07-22 H 3-1 v Les Herbiers | Friendlies Clubs | ?
+2026-05-17 A 1-1 v Stade Brestois 29 | Ligue 1 | Brest
+2026-05-10 H 1-1 v Strasbourg | Ligue 1 | Angers
+2026-05-03 A 1-3 v Auxerre | Ligue 1 | Auxerre
+2026-04-25 H 0-3 v Paris Saint Germain | Ligue 1 | Angers
+2026-04-18 H 1-1 v Le Havre | Ligue 1 | Angers
+2026-04-11 A 1-2 v Rennes | Ligue 1 | Rennes
+2026-04-05 H 0-0 v Lyon | Ligue 1 | Angers
+2026-03-20 A 1-5 v Lens | Ligue 1 | Lens
+2026-03-14 H 0-2 v Nice | Ligue 1 | Angers
+2026-03-07 A 1-0 v Nantes | Ligue 1 | Nantes
+Listed home: 13 games, scored 17 (1.31), conceded 19 (1.46), blanks 4, clean sheets 2
+Listed away: 7 games, scored 8 (1.14), conceded 12 (1.71), blanks 1, clean sheets 2
+All: 20 games, scored 25 (1.25), conceded 31 (1.55), blanks 5, clean sheets 4
+
+(retrying Brest using the opponent's country, France)
+"Brest" matches several teams. Use id:<number> instead of the name:
+  id:106    Stade Brestois 29 (France)
+  id:386    Dinamo Brest (Belarus)
+  id:3246   ASPTT Brest (France)
+  id:3391   Ruh Brest (Belarus)
+  id:9958   Brest II (France)
+  id:11645  Dinamo Brest Res. (Belarus)
+  id:11648  FK Ruh Brest Res. (Belarus)
+  id:16628  Brestzhilstroy (Belarus)
+  id:19663  Dinamo Brest II (Belarus)
+  id:22278  Levski Brest (Bulgaria)
+  id:24971  Brest U19 (France)
+!! Brest: Ambiguous team name "Brest".
+
+TABLE FOR Angers
+LEAGUE TABLE Ligue 1 2026 | 18 teams | 46 games played
+League averages per game: home 1.57, away 1.28, total 2.85
+#   team                   Pts | home P GF-GA  | away P GF-GA  | all P GF-GA
+1   Monaco                  13 |  2   4-1       |  3   4-2       |  5   8-3
+2   Lyon                    11 |  3   8-2       |  3   3-2       |  6  11-4
+3   Paris FC                11 |  3   5-1       |  2   3-2       |  5   8-3
+4   Lille                   10 |  2   4-2       |  3   4-2       |  5   8-4
+5   Rennes                  10 |  3   6-4       |  2   2-5       |  5   8-9
+6   Paris Saint Germain      8 |  1   1-2       |  4   7-5       |  5   8-7
+7   Lens                     7 |  3   7-4       |  3   4-6       |  6  11-10
+8   Angers                   7 |  3   3-4       |  2   3-1       |  5   6-5
+9   Strasbourg               7 |  2   3-2       |  3   7-8       |  5  10-10
+10  Le Mans                  6 |  3   6-5       |  2   3-4       |  5   9-9
+11  Auxerre                  6 |  3   4-4       |  2   3-8       |  5   7-12
+12  Stade Brestois 29        5 |  2   2-3       |  3   5-5       |  5   7-8
+13  Lorient                  5 |  2   3-4       |  3   2-2       |  5   5-6
+14  Toulouse                 5 |  3   3-5       |  2   4-4       |  5   7-9
+15  Nice                     5 |  3   3-2       |  2   0-4       |  5   3-6
+16  Estac Troyes             4 |  2   2-6       |  3   2-5       |  5   4-11
+17  Marseille                3 |  3   7-5       |  2   0-3       |  5   7-8
+18  Le Havre                 2 |  3   1-3       |  2   3-4       |  5   4-7
+
+(15 API-Football requests used)
+
+----------------------------------------------------------------------
+MATCHBOOK: skipped (switched off for this run)

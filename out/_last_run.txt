@@ -1,3 +1,4 @@
-RUN 2026-10-10 18:20 local | 1 match(es)
-Genk v Kortrijk -> out/Genk_v_Kortrijk.txt
-Requests used: API-Football 26, Matchbook 0
+RUN 2026-10-10 18:26 local | 1 match(es)
+Brest v Angers -> out/Brest_v_Angers.txt
+    !! Brest: Ambiguous team name "Brest".
+Requests used: API-Football 15, Matchbook 0
