@@ -1,2 +1,2 @@
-# Brest v Angers, France Ligue 1, 10 Oct 20:45
-Brest v Angers | n=20 | xg=10
+# Brest v Angers, France Ligue 1, 10 Oct 20:45 (Brest is ambiguous in API-Football, so the id is used)
+id:106 v Angers | n=20 | xg=10
