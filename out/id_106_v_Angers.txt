@@ -1,20 +1,33 @@
-MATCH Brest v Angers | fetched 2026-10-10 18:26 local
+MATCH id:106 v Angers | fetched 2026-10-10 18:27 local
 
-FORM DATA Brest v Angers | source API-Football | 2026-10-10 18:26 UTC
+FORM DATA id:106 v Angers | source API-Football | 2026-10-10 18:27 UTC
 H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
 
-"Brest" matches several teams. Use id:<number> instead of the name:
-  id:106    Stade Brestois 29 (France)
-  id:386    Dinamo Brest (Belarus)
-  id:3246   ASPTT Brest (France)
-  id:3391   Ruh Brest (Belarus)
-  id:9958   Brest II (France)
-  id:11645  Dinamo Brest Res. (Belarus)
-  id:11648  FK Ruh Brest Res. (Belarus)
-  id:16628  Brestzhilstroy (Belarus)
-  id:19663  Dinamo Brest II (Belarus)
-  id:22278  Levski Brest (Bulgaria)
-  id:24971  Brest U19 (France)
+=== Stade Brestois 29 (id 106): last 20 finished games ===
+2026-10-03 H 2-2 v Monza | Friendlies Clubs | ?
+2026-09-20 A 1-2 v Auxerre | Ligue 1 | Auxerre | xG 0.34-0.96
+2026-09-13 H 0-1 v Paris Saint Germain | Ligue 1 | Brest | xG 1.24-1.16
+2026-09-05 A 2-1 v Le Havre | Ligue 1 | Le Havre | xG 2.37-2.02
+2026-08-29 H 2-2 v Toulouse | Ligue 1 | Brest | xG 3.04-1.14
+2026-08-22 A 2-2 v Le Mans | Ligue 1 | Le Mans | xG 2.72-0.67
+2026-08-16 A 0-2 v Nottingham Forest | Friendlies Clubs | ?
+2026-08-08 H 2-2 v Venezia | Friendlies Clubs | ?
+2026-08-05 A 2-1 v Stade Briochin | Friendlies Clubs | ?
+2026-08-01 H 3-3 v Guingamp | Friendlies Clubs | ?
+2026-07-22 H 0-2 v Al Wakrah | Friendlies Clubs | ?
+2026-07-18 H 2-2 v Concarneau | Friendlies Clubs | ?
+2026-05-17 H 1-1 v Angers | Ligue 1 | Brest
+2026-05-13 H 1-2 v Strasbourg | Ligue 1 | Brest
+2026-05-10 A 0-1 v Paris Saint Germain | Ligue 1 | Paris
+2026-05-03 A 0-4 v Paris FC | Ligue 1 | Paris
+2026-04-24 H 3-3 v Lens | Ligue 1 | Brest
+2026-04-19 A 1-1 v Nantes | Ligue 1 | Nantes
+2026-04-04 H 3-4 v Rennes | Ligue 1 | Brest
+2026-03-21 A 0-3 v Auxerre | Ligue 1 | Auxerre
+Listed home: 11 games, scored 19 (1.73), conceded 24 (2.18), blanks 2, clean sheets 0
+Listed away: 9 games, scored 8 (0.89), conceded 17 (1.89), blanks 4, clean sheets 0
+All: 20 games, scored 27 (1.35), conceded 41 (2.05), blanks 6, clean sheets 0
+
 === Angers (id 77): last 20 finished games ===
 2026-09-19 H 2-0 v Estac Troyes | Ligue 1 | Angers | xG 2.25-1.02
 2026-09-12 A 0-0 v Le Havre | Ligue 1 | Le Havre | xG 0.59-1.31
@@ -40,22 +53,7 @@ Listed home: 13 games, scored 17 (1.31), conceded 19 (1.46), blanks 4, clean she
 Listed away: 7 games, scored 8 (1.14), conceded 12 (1.71), blanks 1, clean sheets 2
 All: 20 games, scored 25 (1.25), conceded 31 (1.55), blanks 5, clean sheets 4
 
-(retrying Brest using the opponent's country, France)
-"Brest" matches several teams. Use id:<number> instead of the name:
-  id:106    Stade Brestois 29 (France)
-  id:386    Dinamo Brest (Belarus)
-  id:3246   ASPTT Brest (France)
-  id:3391   Ruh Brest (Belarus)
-  id:9958   Brest II (France)
-  id:11645  Dinamo Brest Res. (Belarus)
-  id:11648  FK Ruh Brest Res. (Belarus)
-  id:16628  Brestzhilstroy (Belarus)
-  id:19663  Dinamo Brest II (Belarus)
-  id:22278  Levski Brest (Bulgaria)
-  id:24971  Brest U19 (France)
-!! Brest: Ambiguous team name "Brest".
-
-TABLE FOR Angers
+TABLE FOR Stade Brestois 29
 LEAGUE TABLE Ligue 1 2026 | 18 teams | 46 games played
 League averages per game: home 1.57, away 1.28, total 2.85
 #   team                   Pts | home P GF-GA  | away P GF-GA  | all P GF-GA
@@ -78,7 +76,9 @@ League averages per game: home 1.57, away 1.28, total 2.85
 17  Marseille                3 |  3   7-5       |  2   0-3       |  5   7-8
 18  Le Havre                 2 |  3   1-3       |  2   3-4       |  5   4-7
 
-(15 API-Football requests used)
+(Angers: same table as Stade Brestois 29, shown above)
+
+(25 API-Football requests used)
 
 ----------------------------------------------------------------------
 MATCHBOOK: skipped (switched off for this run)

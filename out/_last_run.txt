@@ -1,4 +1,3 @@
-RUN 2026-10-10 18:26 local | 1 match(es)
-Brest v Angers -> out/Brest_v_Angers.txt
-    !! Brest: Ambiguous team name "Brest".
-Requests used: API-Football 15, Matchbook 0
+RUN 2026-10-10 18:27 local | 1 match(es)
+id:106 v Angers -> out/id_106_v_Angers.txt
+Requests used: API-Football 25, Matchbook 0
