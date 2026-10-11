@@ -1,2 +1,9 @@
-# Brest v Angers, France Ligue 1, 10 Oct 20:45 (Brest is ambiguous in API-Football, so the id is used)
-id:106 v Angers | n=20 | xg=10
+# Sunday 11 Oct 2026 (times Europe/Ljubljana)
+# Lazio v AC Monza, Italy Serie A, 15:00
+Lazio v Monza | n=20 | xg=10
+# Hull v Everton, England Premier League, 15:00
+Hull City v Everton | n=20 | xg=10
+# Liverpool v Man City, England Premier League, 17:30
+Liverpool v Manchester City | n=20 | xg=10
+# Betis v Osasuna, Spain La Liga, 18:30
+Real Betis v Osasuna | n=20 | xg=10
