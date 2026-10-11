@@ -1,7 +1,32 @@
-MATCH Olympiakos Nicosia v Aris | fetched 2026-10-11 16:00 local
+MATCH Olympiakos v Aris | fetched 2026-10-11 16:01 local
 
-FORM DATA Olympiakos Nicosia v Aris | source API-Football | 2026-10-11 16:00 UTC
+FORM DATA Olympiakos v Aris | source API-Football | 2026-10-11 16:01 UTC
 H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
+
+=== Olympiakos (id 3415): last 20 finished games ===
+2026-09-20 A 1-1 v Omonia Aradippou | 1. Division | Larnaca
+2026-09-13 H 3-3 v Omonia 29is Maiou | 1. Division | Nicosia
+2026-09-07 A 0-0 v Pafos | 1. Division | Paphos
+2026-08-28 H 3-3 v Nea Salamis | 1. Division | Nicosia
+2026-05-15 H 1-0 v Anorthosis | 1. Division | Nicosia
+2026-05-09 A 3-1 v AEL | 1. Division | Kolossi | xG 0.97-1.12
+2026-05-01 H 2-1 v Omonia Aradippou | 1. Division | Nicosia
+2026-04-26 A 1-2 v Ethnikos Achna | 1. Division | Achna
+2026-04-19 H 0-1 v Akritas | 1. Division | Nicosia
+2026-04-04 A 3-1 v Enosis | 1. Division | Paralimni | xG 1.52-0.89
+2026-03-21 A 0-1 v Krasava Ypsonas | 1. Division | Larnaca
+2026-03-15 A 0-5 v Omonia Nicosia | 1. Division | Nicosia
+2026-03-07 H 2-1 v Ethnikos Achna | 1. Division | Nicosia
+2026-03-01 A 1-1 v AEK Larnaca | 1. Division | Larnaca
+2026-02-21 H 1-3 v Akritas | 1. Division | Nicosia
+2026-02-15 H 0-0 v Omonia Aradippou | 1. Division | Nicosia
+2026-02-08 A 1-3 v Apollon Limassol | 1. Division | Kolossi
+2026-01-31 H 0-2 v Apoel Nicosia | 1. Division | Nicosia
+2026-01-26 A 2-0 v Enosis | 1. Division | Paralimni
+2026-01-17 H 2-0 v Pafos | 1. Division | Nicosia
+Listed home: 10 games, scored 14 (1.40), conceded 14 (1.40), blanks 3, clean sheets 3
+Listed away: 10 games, scored 12 (1.20), conceded 15 (1.50), blanks 3, clean sheets 2
+All: 20 games, scored 26 (1.30), conceded 29 (1.45), blanks 6, clean sheets 5
 
 === Aris (id 3408): last 20 finished games ===
 2026-10-03 H 1-2 v Riga | Friendlies Clubs | ?
@@ -28,9 +53,7 @@ Listed home: 10 games, scored 18 (1.80), conceded 17 (1.70), blanks 1, clean she
 Listed away: 10 games, scored 8 (0.80), conceded 17 (1.70), blanks 5, clean sheets 2
 All: 20 games, scored 26 (1.30), conceded 34 (1.70), blanks 6, clean sheets 5
 
-!! Olympiakos Nicosia: No team found for "Olympiakos Nicosia".
-
-TABLE FOR Aris
+TABLE FOR Olympiakos
 LEAGUE TABLE 1. Division 2026 | 14 teams | 31 games played
 League averages per game: home 1.52, away 1.52, total 3.03
 #   team                   Pts | home P GF-GA  | away P GF-GA  | all P GF-GA
@@ -49,7 +72,9 @@ League averages per game: home 1.52, away 1.52, total 3.03
 13  Karmiotissa              3 |  3   1-7       |  2   2-2       |  5   3-9
 14  Krasava Ypsonas          0 |  3   1-7       |  2   2-6       |  5   3-13
 
-(14 API-Football requests used)
+(Aris: same table as Olympiakos, shown above)
+
+(25 API-Football requests used)
 
 ----------------------------------------------------------------------
 MATCHBOOK: skipped (switched off for this run)

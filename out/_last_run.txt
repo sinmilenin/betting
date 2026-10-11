@@ -1,4 +1,3 @@
-RUN 2026-10-11 16:00 local | 1 match(es)
-Olympiakos Nicosia v Aris -> out/Olympiakos_Nicosia_v_Aris.txt
-    !! Olympiakos Nicosia: No team found for "Olympiakos Nicosia".
-Requests used: API-Football 14, Matchbook 0
+RUN 2026-10-11 16:01 local | 1 match(es)
+Olympiakos v Aris -> out/Olympiakos_v_Aris.txt
+Requests used: API-Football 25, Matchbook 0
