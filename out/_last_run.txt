@@ -1,3 +1,3 @@
-RUN 2026-10-11 16:08 local | 1 match(es)
-Lillestrom v Molde -> out/Lillestrom_v_Molde.txt
+RUN 2026-10-11 18:25 local | 1 match(es)
+Almirante Brown v San Miguel -> out/Almirante_Brown_v_San_Miguel.txt
 Requests used: API-Football 26, Matchbook 0

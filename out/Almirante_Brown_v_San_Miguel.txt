@@ -1,0 +1,109 @@
+MATCH Almirante Brown v San Miguel | fetched 2026-10-11 18:25 local
+
+FORM DATA Almirante Brown v San Miguel | source API-Football | 2026-10-11 18:25 UTC
+H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
+
+=== Almirante Brown (id 8375): last 20 finished games ===
+2026-10-04 A 2-3 v San Telmo | Primera Nacional | Dock Sud
+2026-09-26 H 0-1 v Acassuso | Primera Nacional | Isidro Casanova
+2026-09-20 A 0-1 v Chaco For Ever | Primera Nacional | Resistencia
+2026-09-13 H 0-0 v Ferro Carril Oeste | Primera Nacional | Isidro Casanova
+2026-09-06 A 0-0 v Central Norte | Primera Nacional | Salta
+2026-08-30 H 1-0 v Deportivo Madryn | Primera Nacional | Isidro Casanova
+2026-08-22 A 2-0 v Defensores De Belgrano | Primera Nacional | Belgrano
+2026-08-16 A 1-3 v Tristan Suarez | Primera Nacional | Tristan Suarez
+2026-08-08 H 2-0 v Ciudad de Bolívar | Primera Nacional | Isidro Casanova
+2026-08-02 H 2-0 v Racing Cordoba | Primera Nacional | Isidro Casanova
+2026-07-26 A 0-0 v Atletico Mitre | Primera Nacional | Santiago del Estero
+2026-07-17 H 0-0 v CA Estudiantes | Primera Nacional | Isidro Casanova
+2026-07-11 A 1-1 v All Boys | Primera Nacional | Floresta
+2026-07-04 H 1-0 v Los Andes | Primera Nacional | Isidro Casanova
+2026-06-21 H 3-1 v Atletico Mitre | Primera Nacional | Isidro Casanova
+2026-06-14 H 1-0 v Godoy Cruz | Primera Nacional | Isidro Casanova
+2026-06-07 A 0-1 v Deportivo Moron | Primera Nacional | Moron
+2026-05-30 H 1-1 v Colon Santa Fe | Primera Nacional | Isidro Casanova
+2026-05-23 A 0-1 v San Miguel | Primera Nacional | Buenos Aires
+2026-05-16 H 0-0 v San Telmo | Primera Nacional | Isidro Casanova
+Listed home: 11 games, scored 11 (1.00), conceded 3 (0.27), blanks 4, clean sheets 8
+Listed away: 9 games, scored 6 (0.67), conceded 10 (1.11), blanks 5, clean sheets 3
+All: 20 games, scored 17 (0.85), conceded 13 (0.65), blanks 9, clean sheets 11
+
+"San Miguel" matches several teams. Use id:<number> instead of the name:
+  id:2889   Sporting San Miguelito (Panama)
+  id:8379   San Miguel (Argentina)
+  id:20312  Cahusiños San Miguel (Peru)
+  id:27623  San Miguel (Spain)
+(retrying San Miguel using the opponent's country, Argentina)
+NOTE: "San Miguel" matched 2 teams; picked San Miguel (Argentina) because the opponent is from Argentina. Others: San Miguel (Spain)
+=== San Miguel (id 8379): last 20 finished games ===
+2026-10-03 H 0-2 v Atletico Mitre | Primera Nacional | Buenos Aires
+2026-09-26 A 1-2 v CA Estudiantes | Primera Nacional | Buenos Aires
+2026-09-19 H 1-1 v All Boys | Primera Nacional | Buenos Aires
+2026-09-13 A 1-1 v Los Andes | Primera Nacional | ?
+2026-09-06 H 1-2 v Godoy Cruz | Primera Nacional | Buenos Aires
+2026-08-30 A 1-2 v Deportivo Moron | Primera Nacional | Moron
+2026-08-26 A 0-3 v Chaco For Ever | Primera Nacional | Resistencia
+2026-08-22 H 1-2 v Colon Santa Fe | Primera Nacional | Buenos Aires
+2026-08-15 H 2-0 v Colegiales | Primera Nacional | Buenos Aires
+2026-08-09 A 0-1 v Racing Cordoba | Primera Nacional | Cordoba
+2026-08-02 A 0-1 v San Telmo | Primera Nacional | Dock Sud
+2026-07-26 H 0-0 v Acassuso | Primera Nacional | Buenos Aires
+2026-07-11 H 0-1 v Ferro Carril Oeste | Primera Nacional | Buenos Aires
+2026-07-05 A 1-1 v Central Norte | Primera Nacional | Salta
+2026-06-20 A 2-0 v Acassuso | Primera Nacional | Boulogne Sur Mer
+2026-06-14 A 2-2 v Deportivo Madryn | Primera Nacional | Puerto Madryn
+2026-06-06 H 0-0 v Defensores De Belgrano | Primera Nacional | Buenos Aires
+2026-05-31 A 1-1 v Ciudad de Bolívar | Primera Nacional | Bolivar
+2026-05-23 H 1-0 v Almirante Brown | Primera Nacional | Buenos Aires
+2026-05-17 A 0-4 v Atletico Mitre | Primera Nacional | Santiago del Estero
+Listed home: 9 games, scored 6 (0.67), conceded 8 (0.89), blanks 4, clean sheets 4
+Listed away: 11 games, scored 9 (0.82), conceded 18 (1.64), blanks 4, clean sheets 1
+All: 20 games, scored 15 (0.75), conceded 26 (1.30), blanks 8, clean sheets 5
+
+TABLE FOR Almirante Brown
+LEAGUE TABLE Primera Nacional 2026 | 36 teams | 580 games played
+League averages per game: home 1.19, away 0.75, total 1.94
+#   team                   Pts | home P GF-GA  | away P GF-GA  | all P GF-GA
+1   Ferro Carril Oeste      61 | 16  17-14      | 16  19-13      | 32  36-27 [Group 1]
+2   Deportivo Moron         58 | 16  31-11      | 16  20-21      | 32  51-32 [Group 1]
+3   Godoy Cruz              56 | 16  28-11      | 16  14-18      | 32  42-29 [Group 1]
+4   Deportivo Madryn        53 | 16  27-11      | 16  19-17      | 32  46-28 [Group 1]
+5   Colon Santa Fe          52 | 16  25-8       | 16  14-17      | 32  39-25 [Group 1]
+6   Almirante Brown         46 | 16  15-7       | 16  10-14      | 32  25-21 [Group 1]
+7   CA Estudiantes          45 | 16  18-13      | 16  11-14      | 32  29-27 [Group 1]
+8   Ciudad de Bolívar       45 | 16  15-15      | 16  12-13      | 32  27-28 [Group 1]
+9   Los Andes               40 | 16  13-8       | 16  12-15      | 32  25-23 [Group 1]
+10  Chaco For Ever          37 | 16  21-14      | 16   9-19      | 32  30-33 [Group 1]
+11  Defensores De Belgrano  37 | 16  13-14      | 16  12-15      | 32  25-29 [Group 1]
+12  San Telmo               37 | 16  17-18      | 16  11-18      | 32  28-36 [Group 1]
+13  Racing Cordoba          37 | 16  21-14      | 16   8-25      | 32  29-39 [Group 1]
+14  Atletico Mitre          35 | 16  17-18      | 16  12-21      | 32  29-39 [Group 1]
+15  Central Norte           33 | 16  11-10      | 16   9-19      | 32  20-29 [Group 1]
+16  All Boys                33 | 16   9-6       | 16   9-22      | 32  18-28 [Group 1]
+17  San Miguel              31 | 16  14-15      | 16  11-23      | 32  25-38 [Group 1]
+18  Acassuso                29 | 16  13-15      | 16   9-20      | 32  22-35 [Group 1]
+1   Tristan Suarez          59 | 16  18-7       | 17  14-8       | 33  32-15 [Group 2]
+2   Temperley               56 | 16  30-18      | 16   8-8       | 32  38-26 [Group 2]
+3   Atlanta                 55 | 16  21-10      | 16  17-20      | 32  38-30 [Group 2]
+4   Gimnasia Jujuy          54 | 16  30-13      | 16  18-27      | 32  48-40 [Group 2]
+5   Midland                 51 | 17  23-7       | 16  15-19      | 33  38-26 [Group 2]
+6   Gimnasia Y Tiro         48 | 16  17-9       | 16  15-19      | 32  32-28 [Group 2]
+7   Deportivo Maipu         47 | 16  19-10      | 16  20-21      | 32  39-31 [Group 2]
+8   Colegiales              47 | 17  26-9       | 16   6-22      | 33  32-31 [Group 2]
+9   San Martin S.J.         45 | 16  21-13      | 16  13-19      | 32  34-32 [Group 2]
+10  San Martin Tucuman      43 | 16  21-11      | 16  14-21      | 32  35-32 [Group 2]
+11  Atletico DE Rafaela     42 | 16  21-12      | 17   6-22      | 33  27-34 [Group 2]
+12  Almagro                 41 | 17  18-15      | 16  12-24      | 33  30-39 [Group 2]
+13  Agropecuario            40 | 16  17-9       | 17  10-26      | 33  27-35 [Group 2]
+14  Quilmes                 39 | 17  19-7       | 16  11-21      | 33  30-28 [Group 2]
+15  Nueva Chicago           36 | 16  16-11      | 16   7-19      | 32  23-30 [Group 2]
+16  Patronato               34 | 16  20-15      | 16   7-17      | 32  27-32 [Group 2]
+17  Chacarita Juniors       33 | 16  17-11      | 17   8-24      | 33  25-35 [Group 2]
+18  Club Atlético Güemes    23 | 16  12-24      | 16  11-30      | 32  23-54 [Group 2]
+
+(San Miguel: same table as Almirante Brown, shown above)
+
+(26 API-Football requests used)
+
+----------------------------------------------------------------------
+MATCHBOOK: skipped (switched off for this run)
