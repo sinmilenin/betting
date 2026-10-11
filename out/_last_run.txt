@@ -1,6 +1,3 @@
-RUN 2026-10-11 06:29 local | 4 match(es)
-Lazio v Monza -> out/Lazio_v_Monza.txt
-Hull City v Everton -> out/Hull_City_v_Everton.txt
-Liverpool v Manchester City -> out/Liverpool_v_Manchester_City.txt
-Real Betis v Osasuna -> out/Real_Betis_v_Osasuna.txt
-Requests used: API-Football 99, Matchbook 0
+RUN 2026-10-11 09:34 local | 1 match(es)
+Como v AS Roma -> out/Como_v_AS_Roma.txt
+Requests used: API-Football 25, Matchbook 0
