@@ -1,6 +1,6 @@
-MATCH Brinje Grosuplje v Maribor | fetched 2026-10-11 15:22 local
+MATCH Brinje-Grosuplje v Maribor | fetched 2026-10-11 15:23 local
 
-FORM DATA Brinje Grosuplje v Maribor | source API-Football | 2026-10-11 15:22 UTC
+FORM DATA Brinje-Grosuplje v Maribor | source API-Football | 2026-10-11 15:23 UTC
 H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
 
 === Maribor (id 552): last 20 finished games ===
@@ -28,7 +28,7 @@ Listed home: 10 games, scored 19 (1.90), conceded 7 (0.70), blanks 0, clean shee
 Listed away: 10 games, scored 14 (1.40), conceded 17 (1.70), blanks 2, clean sheets 2
 All: 20 games, scored 33 (1.65), conceded 24 (1.20), blanks 2, clean sheets 6
 
-!! Brinje Grosuplje: No team found for "Brinje Grosuplje".
+!! Brinje-Grosuplje: API-Football error: {"search": "The Search field may only contain alpha-numeric characters and spaces."}
 
 TABLE FOR Maribor
 LEAGUE TABLE 1. SNL 2026 | 10 teams | 52 games played

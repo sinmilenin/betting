@@ -1,4 +1,4 @@
-RUN 2026-10-11 15:22 local | 1 match(es)
-Brinje Grosuplje v Maribor -> out/Brinje_Grosuplje_v_Maribor.txt
-    !! Brinje Grosuplje: No team found for "Brinje Grosuplje".
+RUN 2026-10-11 15:23 local | 1 match(es)
+Brinje-Grosuplje v Maribor -> out/Brinje_Grosuplje_v_Maribor.txt
+    !! Brinje-Grosuplje: API-Football error: {"search": "The Search field may only contain alpha-numeric characters and spaces."}
 Requests used: API-Football 14, Matchbook 0
