@@ -1,3 +1,3 @@
-RUN 2026-10-11 18:25 local | 1 match(es)
-Almirante Brown v San Miguel -> out/Almirante_Brown_v_San_Miguel.txt
+RUN 2026-10-11 19:34 local | 1 match(es)
+Platense v Argentinos JRS -> out/Platense_v_Argentinos_JRS.txt
 Requests used: API-Football 26, Matchbook 0
