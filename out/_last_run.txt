@@ -1,3 +1,3 @@
-RUN 2026-10-11 09:34 local | 1 match(es)
-Como v AS Roma -> out/Como_v_AS_Roma.txt
+RUN 2026-10-11 11:12 local | 1 match(es)
+Standard Liege v Charleroi -> out/Standard_Liege_v_Charleroi.txt
 Requests used: API-Football 25, Matchbook 0
