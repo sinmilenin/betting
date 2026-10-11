@@ -1,3 +1,6 @@
-RUN 2026-10-10 18:27 local | 1 match(es)
-id:106 v Angers -> out/id_106_v_Angers.txt
-Requests used: API-Football 25, Matchbook 0
+RUN 2026-10-11 06:29 local | 4 match(es)
+Lazio v Monza -> out/Lazio_v_Monza.txt
+Hull City v Everton -> out/Hull_City_v_Everton.txt
+Liverpool v Manchester City -> out/Liverpool_v_Manchester_City.txt
+Real Betis v Osasuna -> out/Real_Betis_v_Osasuna.txt
+Requests used: API-Football 99, Matchbook 0
