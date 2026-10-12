@@ -1,6 +1,2 @@
-# Tuesday 13 Oct 2026 (times Europe/Ljubljana) - scheduled Orbit scan 22:40: All Boys v Godoy Cruz 00:00, Novorizontino v Ponte Preta 00:00, Nacional (Par) v Deportivo Recoleta 00:20, Chapecoense v Athletico-PR 00:30, Criciuma v America MG 00:30
-All Boys v Godoy Cruz | n=20 | xg=10
-Novorizontino v Ponte Preta | n=20 | xg=10
-Nacional Asuncion v Deportivo Recoleta | n=20 | xg=10
-Chapecoense v Atletico Paranaense | n=20 | xg=10
-Criciuma v America Mineiro | n=20 | xg=10
+# Tuesday 13 Oct 2026 (times Europe/Ljubljana) - scheduled Orbit scan 22:40, second run: Chapecoense v Athletico-PR 00:30; "Chapecoense" was ambiguous, retrying with id:132 (Chapecoense-sc)
+id:132 v Atletico Paranaense | n=20 | xg=10
