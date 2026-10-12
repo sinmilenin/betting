@@ -1,0 +1,84 @@
+MATCH id:3588 v id:994 | fetched 2026-10-12 15:25 local
+
+FORM DATA id:3588 v id:994 | source API-Football | 2026-10-12 15:25 UTC
+H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
+
+=== Eyüpspor (id 3588): last 20 finished games ===
+2026-09-20 A 0-8 v Fenerbahçe | Süper Lig | Istanbul | xG 0.72-5.14
+2026-09-12 H 0-2 v Rizespor | Süper Lig | Esenyurt | xG 1.42-2.05
+2026-09-06 A 0-3 v Çorum FK | Süper Lig | Corum | xG 0.73-2.58
+2026-08-30 H 2-1 v Alanyaspor | Süper Lig | Istanbul | xG 1.48-0.66
+2026-08-23 H 0-1 v Gaziantep FK | Süper Lig | Istanbul | xG 0.49-1.16
+2026-08-16 A 0-1 v Beşiktaş | Süper Lig | Istanbul | xG 0.09-1.28
+2026-07-24 H 2-0 v İstanbulspor | Friendlies Clubs | ?
+2026-07-20 H 1-0 v Mardin 1969 | Friendlies Clubs | ?
+2026-05-17 A 3-3 v Fenerbahçe | Süper Lig | Istanbul | xG 0.52-1.33
+2026-05-09 H 4-0 v Rizespor | Süper Lig | Istanbul | xG 1.67-0.75
+2026-05-03 A 1-1 v Kayserispor | Süper Lig | Kayseri
+2026-04-25 H 3-0 v Gaziantep FK | Süper Lig | Istanbul
+2026-04-18 A 2-1 v Fatih Karagümrük | Süper Lig | Istanbul
+2026-04-13 H 1-2 v Samsunspor | Süper Lig | Istanbul
+2026-04-05 A 0-3 v Antalyaspor | Süper Lig | Antalya
+2026-03-18 H 0-1 v Trabzonspor | Süper Lig | Istanbul
+2026-03-15 A 0-1 v Kasımpaşa | Süper Lig | Istanbul
+2026-03-09 H 0-1 v Kocaelispor | Süper Lig | Istanbul
+2026-03-05 H 0-1 v Konyaspor | Türkiye Kupası | Istanbul
+2026-02-28 A 0-0 v Göztepe | Süper Lig | Izmir
+Listed home: 11 games, scored 13 (1.18), conceded 9 (0.82), blanks 5, clean sheets 4
+Listed away: 9 games, scored 6 (0.67), conceded 21 (2.33), blanks 6, clean sheets 1
+All: 20 games, scored 19 (0.95), conceded 30 (1.50), blanks 11, clean sheets 5
+
+=== Göztepe (id 994): last 20 finished games ===
+2026-09-20 H 2-2 v Rizespor | Süper Lig | Izmir | xG 2.78-0.78
+2026-09-12 A 2-2 v Alanyaspor | Süper Lig | Alanya | xG 1.79-1.72
+2026-09-07 H 2-4 v Gaziantep FK | Süper Lig | Izmir | xG 3.26-1.88
+2026-08-29 A 2-3 v Galatasaray | Süper Lig | Istanbul | xG 0.63-2.87
+2026-08-23 H 0-1 v Gençlerbirliği S.K. | Süper Lig | Izmir | xG 1.92-1.56
+2026-08-17 A 3-3 v Samsunspor | Süper Lig | Samsun | xG 1.71-2.80
+2026-08-08 H 2-1 v Trabzonspor | Friendlies Clubs | ?
+2026-07-26 H 1-1 v Rudes | Friendlies Clubs | ?
+2026-07-23 A 2-1 v Zorya Luhansk | Friendlies Clubs | ?
+2026-07-19 H 2-1 v Al-Dhafra | Friendlies Clubs | ?
+2026-07-16 A 2-0 v LNZ Cherkasy | Friendlies Clubs | ?
+2026-07-13 A 2-0 v HNK Gorica | Friendlies Clubs | ?
+2026-05-16 A 0-3 v Samsunspor | Süper Lig | Samsun
+2026-05-09 H 2-1 v Gaziantep FK | Süper Lig | Izmir
+2026-05-02 A 1-1 v Trabzonspor | Süper Lig | Trabzon
+2026-04-25 H 2-0 v Antalyaspor | Süper Lig | Izmir
+2026-04-18 A 1-1 v Kocaelispor | Süper Lig | Izmit
+2026-04-12 H 3-3 v Kasımpaşa | Süper Lig | Izmir
+2026-04-08 H 1-3 v Galatasaray | Süper Lig | Izmir
+2026-04-04 A 2-0 v Gençlerbirliği S.K. | Süper Lig | Ankara
+Listed home: 10 games, scored 17 (1.70), conceded 17 (1.70), blanks 1, clean sheets 1
+Listed away: 10 games, scored 17 (1.70), conceded 14 (1.40), blanks 1, clean sheets 3
+All: 20 games, scored 34 (1.70), conceded 31 (1.55), blanks 2, clean sheets 4
+
+TABLE FOR Eyüpspor
+LEAGUE TABLE Süper Lig 2026 | 18 teams | 62 games played
+League averages per game: home 1.68, away 1.24, total 2.92
+#   team                   Pts | home P GF-GA  | away P GF-GA  | all P GF-GA
+1   Galatasaray             16 |  4   9-5       |  3   7-6       |  7  16-11
+2   Beşiktaş                15 |  4  12-3       |  3   4-5       |  7  16-8
+3   Amed                    14 |  4  13-3       |  3   4-6       |  7  17-9
+4   Fenerbahçe              13 |  3  13-4       |  4   6-2       |  7  19-6
+5   Trabzonspor             13 |  3  11-1       |  4   5-4       |  7  16-5
+6   Alanyaspor              12 |  3   3-2       |  4   5-4       |  7   8-6
+7   Kocaelispor             12 |  3   5-0       |  4   3-6       |  7   8-6
+8   Çorum FK                10 |  3   4-3       |  4  12-9       |  7  16-12
+9   Kasımpaşa               10 |  3   3-3       |  4   5-5       |  7   8-8
+10  Rizespor                10 |  3   0-6       |  4   7-3       |  7   7-9
+11  Başakşehir               8 |  4   9-4       |  3   1-7       |  7  10-11
+12  Gaziantep FK             8 |  4   2-6       |  3   5-4       |  7   7-10
+13  Gençlerbirliği S.K.      8 |  4   6-6       |  3   1-9       |  7   7-15
+14  Erzurumspor FK           8 |  3   2-4       |  4   1-7       |  7   3-11
+15  Konyaspor                5 |  4   2-3       |  3   2-5       |  7   4-8
+16  Samsunspor               4 |  4   4-13      |  3   2-2       |  7   6-15
+17  Göztepe                  3 |  3   4-7       |  3   7-8       |  6  11-15
+18  Eyüpspor                 3 |  3   2-4       |  3   0-12      |  6   2-16
+
+(Göztepe: same table as Eyüpspor, shown above)
+
+(25 API-Football requests used)
+
+----------------------------------------------------------------------
+MATCHBOOK: skipped (switched off for this run)

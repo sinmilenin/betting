@@ -1,6 +1,6 @@
-MATCH Ludogorets v Arda | fetched 2026-10-12 15:22 local
+MATCH Ludogorets v id:1430 | fetched 2026-10-12 15:25 local
 
-FORM DATA Ludogorets v Arda | source API-Football | 2026-10-12 15:23 UTC
+FORM DATA Ludogorets v id:1430 | source API-Football | 2026-10-12 15:25 UTC
 H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
 
 === Ludogorets (id 566): last 20 finished games ===
@@ -28,60 +28,30 @@ Listed home: 14 games, scored 30 (2.14), conceded 11 (0.79), blanks 1, clean she
 Listed away: 6 games, scored 8 (1.33), conceded 7 (1.17), blanks 2, clean sheets 1
 All: 20 games, scored 38 (1.90), conceded 18 (0.90), blanks 3, clean sheets 9
 
-"Arda" matches several teams. Use id:<number> instead of the name:
-  id:574    Vardar Skopje (Macedonia)
-  id:1430   Arda Kardzhali (Bulgaria)
-  id:2112   Fjardabyggd (Iceland)
-  id:2394   Kisvarda FC (Hungary)
-  id:4112   Bahardar (Ethiopia)
-  id:4349   Vardar Negotino (Macedonia)
-  id:5384   Victoria Bardar (Moldova)
-  id:6292   Vardar Forino (Macedonia)
-  id:6716   Vårgårda (Sweden)
-  id:7598   Pontardawe Town (Wales)
-  id:8281   Ardagger (Austria)
-  id:9449   Dro Alto Garda (Italy)
-  id:10384  Sardar Bukan (Iran)
-  id:10395  Miad Moghan Ardabil (Iran)
-  id:11089  Çanakkale Dardanel (Turkey)
-  id:12412  PAO Vardas (Greece)
-  id:13373  Serhat Ardahanspor (Turkey)
-  id:13851  Gardabani (Georgia)
-  id:14122  Kisvárda II (Hungary)
-  id:14401  Dardana (Kosovo)
-  id:14454  Čarda Martjanci (Slovenia)
-  id:15311  Cardassar (Spain)
-  id:16221  Årdal (Norway)
-  id:16469  Shahrdari Bardaskan (Iran)
-  id:17384  Guarda Desportiva (Portugal)
-(retrying Arda using the opponent's country, Bulgaria)
-"Arda" matches several teams. Use id:<number> instead of the name:
-  id:574    Vardar Skopje (Macedonia)
-  id:1430   Arda Kardzhali (Bulgaria)
-  id:2112   Fjardabyggd (Iceland)
-  id:2394   Kisvarda FC (Hungary)
-  id:4112   Bahardar (Ethiopia)
-  id:4349   Vardar Negotino (Macedonia)
-  id:5384   Victoria Bardar (Moldova)
-  id:6292   Vardar Forino (Macedonia)
-  id:6716   Vårgårda (Sweden)
-  id:7598   Pontardawe Town (Wales)
-  id:8281   Ardagger (Austria)
-  id:9449   Dro Alto Garda (Italy)
-  id:10384  Sardar Bukan (Iran)
-  id:10395  Miad Moghan Ardabil (Iran)
-  id:11089  Çanakkale Dardanel (Turkey)
-  id:12412  PAO Vardas (Greece)
-  id:13373  Serhat Ardahanspor (Turkey)
-  id:13851  Gardabani (Georgia)
-  id:14122  Kisvárda II (Hungary)
-  id:14401  Dardana (Kosovo)
-  id:14454  Čarda Martjanci (Slovenia)
-  id:15311  Cardassar (Spain)
-  id:16221  Årdal (Norway)
-  id:16469  Shahrdari Bardaskan (Iran)
-  id:17384  Guarda Desportiva (Portugal)
-!! Arda: Ambiguous team name "Arda".
+=== Arda Kardzhali (id 1430): last 20 finished games ===
+2026-10-02 A 0-2 v Lokomotiv Plovdiv | Friendlies Clubs | ?
+2026-09-19 H 1-1 v Cherno More Varna | First League | Kerdjali
+2026-09-12 A 1-4 v CSKA Sofia | First League | Sofia
+2026-09-04 H 2-3 v Botev Plovdiv | First League | Kardzhali
+2026-08-31 H 2-0 v Botev Vratsa | First League | Kardzhali
+2026-08-24 A 1-0 v Lokomotiv Plovdiv | First League | Plovdiv
+2026-08-17 H 3-1 v Lokomotiv Sofia | First League | Kardzhali
+2026-08-08 A 2-0 v Dunav Ruse | First League | Ruse
+2026-07-31 A 1-2 v CSKA 1948 | First League | Bistritsa
+2026-07-24 H 1-0 v Slavia Sofia | First League | Kardzhali
+2026-07-18 A 1-1 v Septemvri Sofia | First League | Sofia
+2026-07-10 A 0-1 v Botev Vratsa | Friendlies Clubs | ?
+2026-07-07 H 0-0 v Beitar Jerusalem | Friendlies Clubs | ?
+2026-07-04 A 0-2 v Lokomotiv Plovdiv | Friendlies Clubs | ?
+2026-07-01 A 2-0 v Rilski Sportist | Friendlies Clubs | ?
+2026-06-26 A 1-2 v Botev Plovdiv | Friendlies Clubs | ?
+2026-05-25 A 3-2 v Cherno More Varna | First League | Varna
+2026-05-16 H 4-0 v Lokomotiv Plovdiv | First League | Kardzhali
+2026-05-12 A 2-1 v Botev Plovdiv | First League | Plovdiv
+2026-05-08 A 0-2 v Lokomotiv Plovdiv | First League | Plovdiv
+Listed home: 7 games, scored 13 (1.86), conceded 5 (0.71), blanks 1, clean sheets 4
+Listed away: 13 games, scored 14 (1.08), conceded 19 (1.46), blanks 4, clean sheets 3
+All: 20 games, scored 27 (1.35), conceded 24 (1.20), blanks 5, clean sheets 7
 
 TABLE FOR Ludogorets
 LEAGUE TABLE First League 2026 | 14 teams | 75 games played
@@ -102,7 +72,9 @@ League averages per game: home 1.44, away 1.23, total 2.67
 13  Septemvri Sofia          8 |  6   6-13      |  5   4-8       | 11  10-21
 14  Cherno More Varna        6 |  5   7-11      |  6   4-11      | 11  11-22
 
-(15 API-Football requests used)
+(Arda Kardzhali: same table as Ludogorets, shown above)
+
+(25 API-Football requests used)
 
 ----------------------------------------------------------------------
 MATCHBOOK: skipped (switched off for this run)
