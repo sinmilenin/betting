@@ -1,6 +1,6 @@
-MATCH Livyi Bereh v Zorya Luhansk | fetched 2026-10-12 09:17 local
+MATCH Livyi Bereh v Zorya Luhansk | fetched 2026-10-12 10:22 local
 
-FORM DATA Livyi Bereh v Zorya Luhansk | source API-Football | 2026-10-12 09:17 UTC
+FORM DATA Livyi Bereh v Zorya Luhansk | source API-Football | 2026-10-12 10:22 UTC
 H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
 
 === Livyi Bereh (id 17162): last 20 finished games ===
