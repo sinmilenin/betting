@@ -1,0 +1,103 @@
+MATCH Pakhtakor v id:2933 | fetched 2026-10-12 13:34 local
+
+FORM DATA Pakhtakor v id:2933 | source API-Football | 2026-10-12 13:34 UTC
+H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
+
+=== Pakhtakor (id 4220): last 20 finished games ===
+2026-10-09 H 3-1 v Bunyodkor | Super League | Tashkent
+2026-09-19 A 2-1 v Mash'al | Super League | Muborak
+2026-09-14 A 1-1 v Al-Ahli Jeddah | AFC Champions League Elite | Jeddah
+2026-09-09 A 3-1 v Olmaliq | Super League | Olmaliq
+2026-09-04 H 3-0 v Andijan | Super League | Tashkent
+2026-08-29 A 0-1 v Neftchi | Cup | Fergana
+2026-08-25 A 1-1 v Dinamo Samarqand | Super League | Samarkand
+2026-08-21 H 0-0 v Surkhon | Super League | Tashkent
+2026-08-16 A 2-1 v Nasaf | Super League | Qarshi
+2026-08-11 H 3-0 v Al Hussein | AFC Champions League Elite | Tashkent
+2026-08-06 H 2-2 v Buxoro | Super League | Tashkent
+2026-08-01 A 0-0 v Andijan | Super League | Andijan
+2026-07-26 A 1-0 v Bunyodkor | Super League | Tashkent
+2026-07-21 H 2-1 v Xorazm | Super League | Tashkent
+2026-07-17 H 1-1 v Lokomotiv | Super League | Tashkent
+2026-05-03 A 1-1 v Surkhon | Super League | Termez
+2026-04-28 H 2-2 v Nasaf | Super League | Tashkent
+2026-04-22 A 1-0 v Buxoro | Super League | Bukhara
+2026-04-18 H 4-2 v Dinamo Samarqand | Super League | Tashkent
+2026-04-13 H 2-1 v Mash'al | Super League | Tashkent
+Listed home: 10 games, scored 22 (2.20), conceded 10 (1.00), blanks 1, clean sheets 3
+Listed away: 10 games, scored 12 (1.20), conceded 7 (0.70), blanks 2, clean sheets 3
+All: 20 games, scored 34 (1.70), conceded 17 (0.85), blanks 3, clean sheets 6
+
+=== Al-Qadisiyah FC (id 2933): last 20 finished games ===
+2026-10-09 A 5-0 v Al Kholood | Pro League | Ar Rass | xG 5.22-2.54
+2026-09-14 H 2-1 v Al-Wasl FC | AFC Champions League Elite | Daman
+2026-09-11 H 3-3 v Al-Ettifaq | Pro League | Dammam | xG 2.53-0.85
+2026-09-08 H 3-2 v Al-Ahli Jeddah | Pro League | Dammam | xG 2.55-1.26
+2026-09-03 A 2-0 v Al Diriyah | Pro League | Riyadh | xG 1.17-1.01
+2026-08-30 H 3-1 v Al-Faisaly FC | Pro League | Dammam | xG 2.46-0.71
+2026-08-24 A 2-0 v NEOM | Pro League | Tabuk | xG 2.09-1.26
+2026-08-21 H 0-1 v Al-Ittihad FC | Pro League | Dammam | xG 2.61-0.28
+2026-08-17 A 5-0 v Al Taee | King's Cup | ?
+2026-08-13 A 3-1 v Al Shabab | Pro League | Riyadh | xG 2.64-1.27
+2026-07-26 A 0-1 v Levante | Friendlies Clubs | ?
+2026-07-15 A 0-0 v Oviedo | Friendlies Clubs | ?
+2026-05-21 A 5-1 v Al-Ittihad FC | Pro League | Jeddah
+2026-05-14 H 2-0 v Al-Hazm | Pro League | Dammam
+2026-05-09 A 2-1 v Al-Fayha | Pro League | Buraidah
+2026-05-03 H 3-1 v Al-Nassr | Pro League | Dammam
+2026-04-29 A 4-0 v Al Riyadh | Pro League | Riyadh
+2026-04-14 H 2-2 v Al Shabab | Pro League | Dammam
+2026-04-09 A 1-1 v Damac | Pro League | Abha
+2026-04-05 A 2-3 v Al-Ettifaq | Pro League | Dammam
+Listed home: 8 games, scored 18 (2.25), conceded 11 (1.38), blanks 1, clean sheets 1
+Listed away: 12 games, scored 31 (2.58), conceded 8 (0.67), blanks 2, clean sheets 6
+All: 20 games, scored 49 (2.45), conceded 19 (0.95), blanks 3, clean sheets 7
+
+TABLE FOR Pakhtakor
+LEAGUE TABLE Super League 2026 | 16 teams | 184 games played
+League averages per game: home 1.48, away 1.23, total 2.71
+#   team                   Pts | home P GF-GA  | away P GF-GA  | all P GF-GA
+1   Pakhtakor               52 | 12  24-13      | 11  18-8       | 23  42-21
+2   Neftchi                 52 | 12  30-8       | 11  22-11      | 23  52-19
+3   Navbahor                45 | 11  22-14      | 12  19-9       | 23  41-23
+4   Lokomotiv               38 | 11  20-11      | 12  19-19      | 23  39-30
+5   Nasaf                   37 | 12  18-10      | 11  17-12      | 23  35-22
+6   Buxoro                  37 | 12  22-12      | 11  13-19      | 23  35-31
+7   Olmaliq                 36 | 12  15-16      | 11  18-15      | 23  33-31
+8   Dinamo Samarqand        30 | 11  17-14      | 12  17-22      | 23  34-36
+9   Qizilqum                30 | 12  15-14      | 11   8-16      | 23  23-30
+10  Andijan                 30 | 12  16-14      | 11  13-17      | 23  29-31
+11  Sogdiana                28 | 12  25-26      | 11  15-20      | 23  40-46
+12  Surkhon                 27 | 11   9-13      | 12  10-15      | 23  19-28
+13  Kokand-1912             23 | 11  13-12      | 12   9-18      | 23  22-30
+14  Bunyodkor               22 | 11  11-17      | 12  12-22      | 23  23-39
+15  Xorazm                  22 | 11  11-16      | 12   9-18      | 23  20-34
+16  Mash'al                  4 | 11   4-16      | 12   7-31      | 23  11-47
+
+TABLE FOR Al-Qadisiyah FC
+LEAGUE TABLE Pro League 2026 | 18 teams | 71 games played
+League averages per game: home 1.41, away 1.41, total 2.82
+#   team                   Pts | home P GF-GA  | away P GF-GA  | all P GF-GA
+1   Al-Hilal Saudi FC       21 |  4  10-6       |  4  16-1       |  8  26-7
+2   Al-Qadisiyah FC         19 |  4   9-7       |  4  12-1       |  8  21-8
+3   Al-Nassr                19 |  4  10-2       |  4   9-5       |  8  19-7
+4   Al-Ittihad FC           17 |  4   8-5       |  4   6-4       |  8  14-9
+5   NEOM                    16 |  4   9-5       |  4   5-2       |  8  14-7
+6   Al-Ahli Jeddah          15 |  3  12-1       |  5   8-9       |  8  20-10
+7   Al-Ettifaq              12 |  5   7-9       |  3   5-3       |  8  12-12
+8   Al Kholood              12 |  4   8-9       |  4   4-6       |  8  12-15
+9   Al Diriyah              11 |  4   1-4       |  4   6-4       |  8   7-8
+10  Al-Hazm                  9 |  4   3-3       |  4   5-7       |  8   8-10
+11  Al Riyadh                9 |  3   3-4       |  5   6-13      |  8   9-17
+12  Al Shabab                7 |  5   7-8       |  3   2-3       |  8   9-11
+13  Al-Fayha                 7 |  4   6-8       |  4   2-4       |  8   8-12
+14  Al Khaleej Saihat        6 |  4   2-6       |  4   2-5       |  8   4-11
+15  Al-Faisaly FC            3 |  4   2-6       |  3   3-7       |  7   5-13
+16  Al-Fateh                 3 |  4   1-7       |  4   3-8       |  8   4-15
+17  Al Taawon                3 |  4   0-6       |  4   3-9       |  8   3-15
+18  Abha                     2 |  3   2-4       |  4   3-9       |  7   5-13
+
+(26 API-Football requests used)
+
+----------------------------------------------------------------------
+MATCHBOOK: skipped (switched off for this run)
