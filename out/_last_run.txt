@@ -1,4 +1,5 @@
-RUN 2026-10-12 13:20 local | 2 match(es)
-PAOK v Kalamata -> out/PAOK_v_Kalamata.txt
-VPS v Gnistan -> out/VPS_v_Gnistan.txt
-Requests used: API-Football 50, Matchbook 0
+RUN 2026-10-12 13:26 local | 2 match(es)
+Pakhtakor v Al-Qadisiyah -> out/Pakhtakor_v_Al_Qadisiyah.txt
+    !! Al-Qadisiyah: API-Football error: {"search": "The Search field may only contain alpha-numeric characters and spaces."}
+NorthEast United v Mohun Bagan -> out/NorthEast_United_v_Mohun_Bagan.txt
+Requests used: API-Football 41, Matchbook 0
