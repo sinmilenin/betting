@@ -1,3 +1,2 @@
-# Monday 12 Oct 2026 (times Europe/Ljubljana) - scheduled Orbit scan 21:11: Orsomarso v Boca Juniors de Cali 22:30 (Colombian Primera B), Always Ready v Independiente Petrolero 23:15 (Bolivian Liga)
-Orsomarso v Boca Juniors de Cali | n=20 | xg=10
-Always Ready v Independiente Petrolero | n=20 | xg=10
+# Monday 12 Oct 2026 (times Europe/Ljubljana) - scheduled Orbit scan 21:11, second run: Orsomarso v Boca Juniors de Cali 22:30 (Colombian Primera B); "Boca Juniors de Cali" was not found, retrying as "Boca Juniors"
+Orsomarso v Boca Juniors | n=20 | xg=10
