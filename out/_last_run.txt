@@ -1,5 +1,4 @@
-RUN 2026-10-12 19:16 local | 2 match(es)
-Orsomarso v Boca Juniors de Cali -> out/Orsomarso_v_Boca_Juniors_de_Cali.txt
-    !! Boca Juniors de Cali: No team found for "Boca Juniors de Cali".
-Always Ready v Independiente Petrolero -> out/Always_Ready_v_Independiente_Petrolero.txt
-Requests used: API-Football 40, Matchbook 0
+RUN 2026-10-12 19:18 local | 1 match(es)
+Orsomarso v Boca Juniors -> out/Orsomarso_v_Boca_Juniors.txt
+    !! Boca Juniors: Ambiguous team name "Boca Juniors".
+Requests used: API-Football 15, Matchbook 0
