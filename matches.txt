@@ -1,3 +1,2 @@
-# Monday 12 Oct 2026 (times Europe/Ljubljana) - scheduled scan 16:20, second run
-# "CFR Cluj" loaded CFR Cluj II (Liga III, 2023): table name is CFR 1907 Cluj
-Arges Pitesti v CFR 1907 Cluj | n=20 | xg=10
+# Monday 12 Oct 2026 (times Europe/Ljubljana) - scheduled scan 16:42
+Liepaja v Auda | n=20 | xg=10
