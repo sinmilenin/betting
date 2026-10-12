@@ -1,0 +1,43 @@
+MATCH Croatia U19 W v Poland U19 W | fetched 2026-10-12 08:44 local
+
+FORM DATA Croatia U19 W v Poland U19 W | source API-Football | 2026-10-12 08:44 UTC
+H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
+
+=== Croatia U19 W (id 27089): last 6 finished games ===
+2026-10-10 A 3-1 v Serbia U19 W | Friendlies Women | ?
+2026-10-08 A 0-0 v Scotland U19 W | Friendlies Women | ?
+2025-10-23 A 1-2 v Slovenia U19 W | Friendlies Women | ?
+2025-10-21 A 1-0 v Poland U19 W | Friendlies Women | ?
+2025-02-23 H 1-1 v Slovenia U19 W | Friendlies Women | ?
+2025-02-20 H 1-0 v Greece U19 W | Friendlies Women | ?
+Listed home: 2 games, scored 2 (1.00), conceded 1 (0.50), blanks 0, clean sheets 1
+Listed away: 4 games, scored 5 (1.25), conceded 3 (0.75), blanks 1, clean sheets 2
+All: 6 games, scored 7 (1.17), conceded 4 (0.67), blanks 1, clean sheets 3
+
+=== Poland U19 W (id 26028): last 14 finished games ===
+2026-07-03 H 5-1 v Bosnia-Herzegovina U19 | UEFA U19 Championship - Women | Sarajevo
+2026-06-30 H 1-1 v Germany U19 W | UEFA U19 Championship - Women | Sarajevo
+2026-06-27 A 0-1 v Sweden U19 W | UEFA U19 Championship - Women | Sarajevo
+2026-03-07 A 0-0 v Italy U19 W | Friendlies Women | ?
+2026-03-04 A 0-0 v Italy U19 W | Friendlies Women | ?
+2025-10-25 A 2-0 v Slovenia U19 W | Friendlies Women | ?
+2025-10-21 H 0-1 v Croatia U19 W | Friendlies Women | ?
+2025-09-10 H 1-0 v Hungary U19 W | Friendlies Women | ?
+2025-06-21 A 5-0 v Sweden U19 W | UEFA U19 Championship - Women | Tarnobrzeg
+2025-06-18 H 0-6 v France U19 W | UEFA U19 Championship - Women | Mielec
+2025-06-15 H 1-1 v Italy U19 W | UEFA U19 Championship - Women | Stalowa Wola
+2025-05-31 H 5-2 v Ukraine U19 W | Friendlies Women | ?
+2025-02-26 A 0-0 v Portugal U19 W | Friendlies Women | ?
+2025-02-23 A 4-0 v Wales U19 W | Friendlies Women | ?
+Listed home: 7 games, scored 13 (1.86), conceded 12 (1.71), blanks 2, clean sheets 1
+Listed away: 7 games, scored 11 (1.57), conceded 1 (0.14), blanks 4, clean sheets 6
+All: 14 games, scored 24 (1.71), conceded 13 (0.93), blanks 6, clean sheets 7
+
+(no league table available for Croatia U19 W: tried no competitions)
+
+(no league table available for Poland U19 W: tried UEFA U19 Championship - Women 2026, UEFA U19 Championship - Women 2025)
+
+(22 API-Football requests used)
+
+----------------------------------------------------------------------
+MATCHBOOK: skipped (switched off for this run)
