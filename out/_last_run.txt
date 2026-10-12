@@ -1,4 +1,4 @@
-RUN 2026-10-12 13:51 local | 2 match(es)
-Khenchela v CS Constantine -> out/Khenchela_v_CS_Constantine.txt
-NorthEast United v ATK Mohun Bagan -> out/NorthEast_United_v_ATK_Mohun_Bagan.txt
+RUN 2026-10-12 14:28 local | 2 match(es)
+Arges Pitesti v CFR Cluj -> out/Arges_Pitesti_v_CFR_Cluj.txt
+Radomiak Radom v Motor Lublin -> out/Radomiak_Radom_v_Motor_Lublin.txt
 Requests used: API-Football 51, Matchbook 0
