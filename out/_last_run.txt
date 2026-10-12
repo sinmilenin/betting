@@ -1,4 +1,3 @@
-RUN 2026-10-12 17:27 local | 1 match(es)
-Blackburn Rovers U21 v Bolton Wanderers -> out/Blackburn_Rovers_U21_v_Bolton_Wanderers.txt
-    !! Bolton Wanderers: Ambiguous team name "Bolton Wanderers".
-Requests used: API-Football 5, Matchbook 0
+RUN 2026-10-12 17:28 local | 1 match(es)
+Blackburn Rovers U21 v id:19877 -> out/Blackburn_Rovers_U21_v_id_19877.txt
+Requests used: API-Football 26, Matchbook 0
