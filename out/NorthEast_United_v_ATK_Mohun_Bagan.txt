@@ -1,0 +1,80 @@
+MATCH NorthEast United v ATK Mohun Bagan | fetched 2026-10-12 13:51 local
+
+FORM DATA NorthEast United v ATK Mohun Bagan | source API-Football | 2026-10-12 13:51 UTC
+H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
+
+=== NorthEast United (id 3479): last 20 finished games ===
+2026-10-05 A 2-7 v East Bengal II | IFA Shield | New Delhi
+2026-09-29 A 1-1 v ATK Mohun Bagan | IFA Shield | Kolkata
+2026-09-26 A 3-0 v Sreenidi Deccan | IFA Shield | Hyderabad
+2026-05-19 H 2-0 v Mohammedan | Indian Super League | Guwahati
+2026-05-10 H 4-1 v Chennaiyin | Indian Super League | Guwahati
+2026-05-02 H 3-2 v Inter Kashi | Indian Super League | Guwahati
+2026-04-24 H 0-2 v Goa | Indian Super League | Guwahati | xG 0.17-0.58
+2026-04-19 H 0-1 v ATK Mohun Bagan | Indian Super League | Guwahati
+2026-04-15 A 1-1 v Kerala Blasters | Indian Super League | Kochi | xG 1.95-1.41
+2026-04-10 H 0-3 v SC Delhi | Indian Super League | Guwahati | xG 1.52-1.58
+2026-03-20 H 1-4 v Odisha | Indian Super League | Guwahati
+2026-03-15 H 2-1 v Jamshedpur | Indian Super League | Guwahati
+2026-03-09 A 1-1 v Minerva Punjab | Indian Super League | New Delhi
+2026-03-01 A 1-1 v Mumbai City | Indian Super League | Mumbai
+2026-02-22 A 1-1 v Bengaluru | Indian Super League | Bangalore
+2026-02-16 A 0-3 v East Bengal II | Indian Super League | Kolkata
+2025-11-01 A 2-1 v Goa | AIFF Super Cup | Margao
+2025-10-29 A 2-2 v Jamshedpur | AIFF Super Cup | Bambolim
+2025-10-26 H 2-2 v Inter Kashi | AIFF Super Cup | Bambolim
+2025-04-27 H 0-0 v Jamshedpur | AIFF Super Cup | Bhubaneswar [PEN, 90-min score shown]
+Listed home: 10 games, scored 14 (1.40), conceded 16 (1.60), blanks 4, clean sheets 2
+Listed away: 10 games, scored 14 (1.40), conceded 18 (1.80), blanks 1, clean sheets 1
+All: 20 games, scored 28 (1.40), conceded 34 (1.70), blanks 5, clean sheets 3
+
+=== ATK Mohun Bagan (id 15516): last 20 finished games ===
+2026-10-08 H 1-0 v East Bengal II | IFA Shield | Kolkata
+2026-10-04 H 0-0 v Minerva Punjab | IFA Shield | Kolkata [PEN, 90-min score shown]
+2026-09-29 H 1-1 v NorthEast United | IFA Shield | Kolkata
+2026-09-23 H 6-0 v Sreenidi Deccan | IFA Shield | Kolkata
+2026-05-21 H 2-1 v SC Delhi | Indian Super League | Kolkata
+2026-05-17 H 1-1 v East Bengal II | Indian Super League | Kolkata | xG 1.82-1.76
+2026-05-12 H 0-0 v Inter Kashi | Indian Super League | Kolkata | xG 1.11-0.75
+2026-05-09 A 1-1 v Goa | Indian Super League | Margao
+2026-04-19 A 1-0 v NorthEast United | Indian Super League | Guwahati
+2026-04-12 H 3-2 v Minerva Punjab | Indian Super League | Kolkata | xG 0.43-2.23
+2026-04-04 A 1-1 v Jamshedpur | Indian Super League | Jamshedpur
+2026-03-20 H 0-1 v Mumbai City | Indian Super League | Kolkata
+2026-03-14 A 0-0 v Bengaluru | Indian Super League | Bangalore
+2026-03-06 H 5-1 v Odisha | Indian Super League | Kolkata
+2026-02-28 H 5-1 v Mohammedan | Indian Super League | Kolkata
+2026-02-23 H 2-0 v Chennaiyin | Indian Super League | Kolkata
+2026-02-14 H 2-0 v Kerala Blasters | Indian Super League | Kolkata
+2025-10-31 H 0-0 v East Bengal II | AIFF Super Cup | Margao
+2025-10-28 H 0-0 v Dempo | AIFF Super Cup | Kolkata
+2025-10-25 H 2-0 v Chennaiyin | AIFF Super Cup | Margao
+Listed home: 16 games, scored 30 (1.88), conceded 8 (0.50), blanks 5, clean sheets 9
+Listed away: 4 games, scored 3 (0.75), conceded 2 (0.50), blanks 1, clean sheets 2
+All: 20 games, scored 33 (1.65), conceded 10 (0.50), blanks 6, clean sheets 11
+
+TABLE FOR NorthEast United
+LEAGUE TABLE Indian Super League 2025 | 14 teams | 91 games played
+League averages per game: home 1.36, away 1.07, total 2.43
+#   team                   Pts | home P GF-GA  | away P GF-GA  | all P GF-GA
+1   East Bengal II          26 |  9  22-7       |  4   8-4       | 13  30-11
+2   ATK Mohun Bagan         26 |  9  20-7       |  4   3-2       | 13  23-9
+3   Mumbai City             25 |  5   6-5       |  8  11-4       | 13  17-9
+4   Bengaluru               23 |  6   4-5       |  7  14-7       | 13  18-12
+5   Jamshedpur              22 |  9  11-4       |  4   4-6       | 13  15-10
+6   Minerva Punjab          22 |  6   8-5       |  7  10-7       | 13  18-12
+7   Goa                     20 |  6   8-5       |  7   7-6       | 13  15-11
+8   Kerala Blasters         17 |  9  12-11      |  4   3-6       | 13  15-17
+9   NorthEast United        16 |  8  12-14      |  5   4-7       | 13  16-21
+10  Inter Kashi             13 |  4   4-7       |  9   7-10      | 13  11-17
+11  Odisha                  11 |  5   5-6       |  8   9-16      | 13  14-22
+12  SC Delhi                11 |  6   6-5       |  7   7-12      | 13  13-17
+13  Chennaiyin               9 |  6   5-8       |  7   4-13      | 13   9-21
+14  Mohammedan               3 |  3   1-8       | 10   6-24      | 13   7-32
+
+(ATK Mohun Bagan: same table as NorthEast United, shown above)
+
+(26 API-Football requests used)
+
+----------------------------------------------------------------------
+MATCHBOOK: skipped (switched off for this run)

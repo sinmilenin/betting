@@ -1,4 +1,4 @@
-RUN 2026-10-12 13:49 local | 1 match(es)
-USM Khenchela v CS Constantine -> out/USM_Khenchela_v_CS_Constantine.txt
-    !! USM Khenchela: No team found for "USM Khenchela".
-Requests used: API-Football 14, Matchbook 0
+RUN 2026-10-12 13:51 local | 2 match(es)
+Khenchela v CS Constantine -> out/Khenchela_v_CS_Constantine.txt
+NorthEast United v ATK Mohun Bagan -> out/NorthEast_United_v_ATK_Mohun_Bagan.txt
+Requests used: API-Football 51, Matchbook 0
