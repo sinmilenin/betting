@@ -1,4 +1,3 @@
-# Monday 12 Oct 2026 (times Europe/Ljubljana) - scheduled scan 15:12, fifth run
-# Pakhtakor v Al-Quadisiya (KSA), AFC Champions League, 15:45
-# "Qadisiyah" is ambiguous (Saudi Arabia and Libya), so the Saudi club is given by id: Al-Qadisiyah FC = id:2933
-Pakhtakor v id:2933 | n=20 | xg=10
+# Monday 12 Oct 2026 (times Europe/Ljubljana) - scheduled scan 15:41
+# USM Khenchela v CS Constantine, Algerian Ligue 1, 16:00
+USM Khenchela v CS Constantine | n=20 | xg=10
