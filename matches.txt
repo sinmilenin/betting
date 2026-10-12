@@ -1,3 +1,2 @@
-# Monday 12 Oct 2026 (times Europe/Ljubljana) - scheduled scan 18:41: U Cluj v Rapid 20:00, Dijon v Metz 20:45
-Universitatea Cluj v Rapid Bucuresti | n=20 | xg=10
-Dijon v Metz | n=20 | xg=10
+# Monday 12 Oct 2026 (times Europe/Ljubljana) - scheduled scan 18:41, second run (name correction: "Rapid Bucuresti" loaded the women's team)
+id:2599 v Rapid | n=20 | xg=10
