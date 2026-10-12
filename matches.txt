@@ -1,2 +1,7 @@
-# Monday 12 Oct 2026 (times Europe/Ljubljana) - scheduled scan 18:41, second run (name correction: "Rapid Bucuresti" loaded the women's team)
-id:2599 v Rapid | n=20 | xg=10
+# Monday 12 Oct 2026 (times Europe/Ljubljana) - results check for the Lay Ledger (finished 16:00-17:00 fixtures)
+NorthEast United v ATK Mohun Bagan | n=3 | xg=0
+Khenchela v CS Constantine | n=3 | xg=0
+Arges Pitesti v CFR 1907 Cluj | n=3 | xg=0
+id:661 v Auda | n=3 | xg=0
+PAOK v Kalamata | n=3 | xg=0
+VPS v Gnistan | n=3 | xg=0
