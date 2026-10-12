@@ -1,3 +1,4 @@
-RUN 2026-10-12 12:48 local | 1 match(es)
-Burgos v Granada CF -> out/Burgos_v_Granada_CF.txt
-Requests used: API-Football 25, Matchbook 0
+RUN 2026-10-12 13:20 local | 2 match(es)
+PAOK v Kalamata -> out/PAOK_v_Kalamata.txt
+VPS v Gnistan -> out/VPS_v_Gnistan.txt
+Requests used: API-Football 50, Matchbook 0
