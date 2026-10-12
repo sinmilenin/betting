@@ -1,2 +1,4 @@
-# Monday 12 Oct 2026 (times Europe/Ljubljana) - scheduled Orbit scan 21:11, second run: Orsomarso v Boca Juniors de Cali 22:30 (Colombian Primera B); "Boca Juniors de Cali" was not found, retrying as "Boca Juniors"
-Orsomarso v Boca Juniors | n=20 | xg=10
+# Monday 12 Oct 2026 (times Europe/Ljubljana) - scheduled Orbit scan 21:56: Deportes Iquique v Union Espanola 22:30 (Chile Primera B), Orsomarso v Boca Juniors de Cali 22:30 (Colombia Primera B, third try as "Boca Juniors Cali"), Gimnasia Mendoza v Newells 23:30 (Argentina Primera)
+Deportes Iquique v Union Espanola | n=20 | xg=10
+Orsomarso v Boca Juniors Cali | n=20 | xg=10
+Gimnasia Mendoza v Newells Old Boys | n=20 | xg=10
