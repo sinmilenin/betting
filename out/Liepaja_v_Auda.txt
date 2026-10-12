@@ -1,0 +1,66 @@
+MATCH Liepaja v Auda | fetched 2026-10-12 14:48 local
+
+FORM DATA Liepaja v Auda | source API-Football | 2026-10-12 14:48 UTC
+H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
+
+"Liepaja" matches several teams. Use id:<number> instead of the name:
+  id:661    FK Liepaja (Latvia)
+  id:7907   Liepāja U19 (Jamaica)
+  id:11862  1625 Liepāja (Latvia)
+  id:11869  Liepājas Metalurgs II (Latvia)
+  id:11877  Liepājas Metalurgs (Latvia)
+  id:14363  Liepājas FS (Latvia)
+=== Auda (id 4135): last 20 finished games ===
+2026-09-20 H 1-1 v Rīgas FS | Virsliga | Riga
+2026-09-16 H 1-0 v Ogre United | Virsliga | Riga
+2026-09-11 A 2-2 v Riga | Virsliga | Riga
+2026-09-06 H 1-0 v Grobiņa | Virsliga | Riga
+2026-09-02 A 2-2 v BFC Daugavpils | Cup | Daugavpils [PEN, 90-min score shown]
+2026-08-29 H 1-1 v Super Nova | Virsliga | Riga
+2026-08-25 H 1-0 v FK Liepaja | Virsliga | Riga
+2026-08-21 H 3-0 v Tukums | Virsliga | Riga
+2026-08-17 H 2-2 v Grobiņa | Cup | Riga [AET, 90-min score shown]
+2026-08-13 A 0-4 v Dinamo Tirana | UEFA Europa Conference League | Elbasani
+2026-08-09 A 1-0 v FS Jelgava | Virsliga | Jelgava
+2026-08-04 H 1-0 v Dinamo Tirana | UEFA Europa Conference League | Riga
+2026-07-30 H 4-1 v FCSB | UEFA Europa Conference League | Riga
+2026-07-26 H 1-0 v BFC Daugavpils | Virsliga | Riga
+2026-07-23 A 3-2 v FCSB | UEFA Europa Conference League | Bucharest
+2026-07-11 H 1-0 v FK Liepaja | Cup | Riga
+2026-07-04 A 1-1 v Rīgas FS | Virsliga | Riga
+2026-06-29 H 0-2 v Riga | Virsliga | Riga
+2026-06-25 A 0-0 v Grobiņa | Virsliga | Grobina
+2026-06-21 A 2-0 v Super Nova | Virsliga | Riga
+Listed home: 12 games, scored 17 (1.42), conceded 7 (0.58), blanks 1, clean sheets 7
+Listed away: 8 games, scored 11 (1.38), conceded 11 (1.38), blanks 2, clean sheets 3
+All: 20 games, scored 28 (1.40), conceded 18 (0.90), blanks 3, clean sheets 10
+
+(retrying Liepaja using the opponent's country, Latvia)
+"Liepaja" matches several teams. Use id:<number> instead of the name:
+  id:661    FK Liepaja (Latvia)
+  id:7907   Liepāja U19 (Jamaica)
+  id:11862  1625 Liepāja (Latvia)
+  id:11869  Liepājas Metalurgs II (Latvia)
+  id:11877  Liepājas Metalurgs (Latvia)
+  id:14363  Liepājas FS (Latvia)
+!! Liepaja: Ambiguous team name "Liepaja".
+
+TABLE FOR Auda
+LEAGUE TABLE Virsliga 2026 | 10 teams | 158 games played
+League averages per game: home 1.60, away 1.26, total 2.86
+#   team                   Pts | home P GF-GA  | away P GF-GA  | all P GF-GA
+1   Rīgas FS                77 | 15  46-14      | 16  29-10      | 31  75-24
+2   Riga                    76 | 16  46-14      | 16  42-16      | 32  88-30
+3   Auda                    61 | 17  29-16      | 14  20-14      | 31  49-30
+4   FK Liepaja              43 | 14  26-14      | 17  15-29      | 31  41-43
+5   BFC Daugavpils          42 | 16  18-13      | 16  19-23      | 32  37-36
+6   Super Nova              38 | 16  17-26      | 15  14-15      | 31  31-41
+7   FS Jelgava              32 | 16  13-25      | 16  21-28      | 32  34-53
+8   Grobiņa                 26 | 15  12-19      | 17  10-35      | 32  22-54
+9   Tukums                  24 | 17  28-26      | 15  16-37      | 32  44-63
+10  Ogre United             18 | 16  18-32      | 16  13-46      | 32  31-78
+
+(15 API-Football requests used)
+
+----------------------------------------------------------------------
+MATCHBOOK: skipped (switched off for this run)

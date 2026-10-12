@@ -1,3 +1,4 @@
-RUN 2026-10-12 14:33 local | 1 match(es)
-Arges Pitesti v CFR 1907 Cluj -> out/Arges_Pitesti_v_CFR_1907_Cluj.txt
-Requests used: API-Football 25, Matchbook 0
+RUN 2026-10-12 14:48 local | 1 match(es)
+Liepaja v Auda -> out/Liepaja_v_Auda.txt
+    !! Liepaja: Ambiguous team name "Liepaja".
+Requests used: API-Football 15, Matchbook 0
