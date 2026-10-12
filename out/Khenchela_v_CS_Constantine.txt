@@ -1,0 +1,48 @@
+MATCH Khenchela v CS Constantine | fetched 2026-10-12 17:07 local
+
+FORM DATA Khenchela v CS Constantine | source API-Football | 2026-10-12 17:07 UTC
+H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
+
+=== Khenchela (id 10752): last 3 finished games ===
+2026-10-12 H 2-0 v CS Constantine | Ligue 1 | ?
+2026-10-07 A 0-1 v CR Belouizdad | Ligue 1 | ?
+2026-09-18 H 1-1 v Ben Aknoun | Ligue 1 | Khenchela
+Listed home: 2 games, scored 3 (1.50), conceded 1 (0.50), blanks 0, clean sheets 1
+Listed away: 1 games, scored 0 (0.00), conceded 1 (1.00), blanks 1, clean sheets 0
+All: 3 games, scored 3 (1.00), conceded 2 (0.67), blanks 1, clean sheets 1
+
+=== CS Constantine (id 911): last 3 finished games ===
+2026-10-12 A 0-2 v Khenchela | Ligue 1 | ?
+2026-10-07 H 4-0 v US Biskra | Ligue 1 | ?
+2026-09-19 A 1-5 v ES Setif | Ligue 1 | ?
+Listed home: 1 games, scored 4 (4.00), conceded 0 (0.00), blanks 0, clean sheets 1
+Listed away: 2 games, scored 1 (0.50), conceded 7 (3.50), blanks 1, clean sheets 0
+All: 3 games, scored 5 (1.67), conceded 7 (2.33), blanks 1, clean sheets 1
+
+TABLE FOR Khenchela
+LEAGUE TABLE Ligue 1 2026 | 16 teams | 29 games played
+League averages per game: home 1.45, away 0.62, total 2.07
+#   team                   Pts | home P GF-GA  | away P GF-GA  | all P GF-GA
+1   CR Belouizdad           10 |  2   2-0       |  2   4-3       |  4   6-3
+2   CS Constantine           7 |  2   7-0       |  2   2-6       |  4   9-6
+3   MC Oran                  7 |  2   2-0       |  1   1-0       |  3   3-0
+4   USM Alger                7 |  1   2-0       |  3   3-3       |  4   5-3
+5   MC Alger                 6 |  2   3-0       |  0   0-0       |  2   3-0
+6   Ben Aknoun               6 |  2   4-4       |  2   2-1       |  4   6-5
+7   JS Kabylie               6 |  2   2-0       |  1   0-1       |  3   2-1
+8   MB Rouisset              6 |  2   3-0       |  2   0-3       |  4   3-3
+9   ES Setif                 4 |  2   5-2       |  2   0-1       |  4   5-3
+10  JS El Biar               4 |  2   4-2       |  2   2-4       |  4   6-6
+11  Olympique Akbou          4 |  1   2-3       |  3   2-2       |  4   4-5
+12  Témouchent               4 |  2   2-1       |  2   0-3       |  4   2-4
+13  Khenchela                2 |  2   1-1       |  1   0-1       |  3   1-2
+14  JS Saoura                2 |  1   0-0       |  2   0-4       |  3   0-4
+15  US Biskra                2 |  2   0-1       |  2   2-6       |  4   2-7
+16  ASO Chlef                1 |  2   3-4       |  2   0-4       |  4   3-8
+
+(CS Constantine: same table as Khenchela, shown above)
+
+(5 API-Football requests used)
+
+----------------------------------------------------------------------
+MATCHBOOK: skipped (switched off for this run)

@@ -1,3 +1,8 @@
-RUN 2026-10-12 17:04 local | 1 match(es)
-id:2599 v Rapid -> out/id_2599_v_Rapid.txt
-Requests used: API-Football 25, Matchbook 0
+RUN 2026-10-12 17:07 local | 6 match(es)
+NorthEast United v ATK Mohun Bagan -> out/NorthEast_United_v_ATK_Mohun_Bagan.txt
+Khenchela v CS Constantine -> out/Khenchela_v_CS_Constantine.txt
+Arges Pitesti v CFR 1907 Cluj -> out/Arges_Pitesti_v_CFR_1907_Cluj.txt
+id:661 v Auda -> out/id_661_v_Auda.txt
+PAOK v Kalamata -> out/PAOK_v_Kalamata.txt
+VPS v Gnistan -> out/VPS_v_Gnistan.txt
+Requests used: API-Football 30, Matchbook 0

@@ -1,0 +1,46 @@
+MATCH NorthEast United v ATK Mohun Bagan | fetched 2026-10-12 17:07 local
+
+FORM DATA NorthEast United v ATK Mohun Bagan | source API-Football | 2026-10-12 17:07 UTC
+H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
+
+=== NorthEast United (id 3479): last 3 finished games ===
+2026-10-12 H 1-0 v ATK Mohun Bagan | Indian Super League | Guwahati
+2026-10-05 A 2-7 v East Bengal II | IFA Shield | New Delhi
+2026-09-29 A 1-1 v ATK Mohun Bagan | IFA Shield | Kolkata
+Listed home: 1 games, scored 1 (1.00), conceded 0 (0.00), blanks 0, clean sheets 1
+Listed away: 2 games, scored 3 (1.50), conceded 8 (4.00), blanks 0, clean sheets 0
+All: 3 games, scored 4 (1.33), conceded 8 (2.67), blanks 0, clean sheets 1
+
+=== ATK Mohun Bagan (id 15516): last 3 finished games ===
+2026-10-12 A 0-1 v NorthEast United | Indian Super League | Guwahati
+2026-10-08 H 1-0 v East Bengal II | IFA Shield | Kolkata
+2026-10-04 H 0-0 v Minerva Punjab | IFA Shield | Kolkata [PEN, 90-min score shown]
+Listed home: 2 games, scored 1 (0.50), conceded 0 (0.00), blanks 1, clean sheets 2
+Listed away: 1 games, scored 0 (0.00), conceded 1 (1.00), blanks 1, clean sheets 0
+All: 3 games, scored 1 (0.33), conceded 1 (0.33), blanks 2, clean sheets 2
+
+TABLE FOR NorthEast United
+LEAGUE TABLE Indian Super League 2026 | 14 teams | 91 games played
+League averages per game: home 1.36, away 1.07, total 2.43
+#   team                   Pts | home P GF-GA  | away P GF-GA  | all P GF-GA
+1   East Bengal II          26 |  9  22-7       |  4   8-4       | 13  30-11
+2   ATK Mohun Bagan         26 |  9  20-7       |  4   3-2       | 13  23-9
+3   Mumbai City             25 |  5   6-5       |  8  11-4       | 13  17-9
+4   Bengaluru               23 |  6   4-5       |  7  14-7       | 13  18-12
+5   Jamshedpur              22 |  9  11-4       |  4   4-6       | 13  15-10
+6   Minerva Punjab          22 |  6   8-5       |  7  10-7       | 13  18-12
+7   Goa                     20 |  6   8-5       |  7   7-6       | 13  15-11
+8   Kerala Blasters         17 |  9  12-11      |  4   3-6       | 13  15-17
+9   NorthEast United        16 |  8  12-14      |  5   4-7       | 13  16-21
+10  Inter Kashi             13 |  4   4-7       |  9   7-10      | 13  11-17
+11  Odisha                  11 |  5   5-6       |  8   9-16      | 13  14-22
+12  SC Delhi                11 |  6   6-5       |  7   7-12      | 13  13-17
+13  Chennaiyin               9 |  6   5-8       |  7   4-13      | 13   9-21
+14  Mohammedan               3 |  3   1-8       | 10   6-24      | 13   7-32
+
+(ATK Mohun Bagan: same table as NorthEast United, shown above)
+
+(5 API-Football requests used)
+
+----------------------------------------------------------------------
+MATCHBOOK: skipped (switched off for this run)
