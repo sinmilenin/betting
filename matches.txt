@@ -1,9 +1,2 @@
-# Monday 12 Oct 2026 (times Europe/Ljubljana) - scheduled Orbit scan 19:11: Blackburn U21 v Bolton U21 20:00 | Mladost Lucani v OFK Beograd 20:00 | Tenerife v Girona 21:00 | Fortaleza v CRB 21:00 | Coritiba v Botafogo 21:00 | Shamrock Rovers v Bohemians 21:00 | Lanus v Velez 21:00 | Gualberto Villarroel v Guabira 21:00
-Mladost Lucani v OFK Beograd | n=20 | xg=10
-Blackburn U21 v Bolton U21 | n=20 | xg=10
-Tenerife v Girona | n=20 | xg=10
-Fortaleza EC v CRB | n=20 | xg=10
-Coritiba v Botafogo | n=20 | xg=10
-Shamrock Rovers v Bohemians | n=20 | xg=10
-Lanus v Velez Sarsfield | n=20 | xg=10
-Gualberto Villarroel v Guabira | n=20 | xg=10
+# Monday 12 Oct 2026 (times Europe/Ljubljana) - scheduled Orbit scan 19:11: Blackburn U21 v Bolton U21 20:00 (name correction; "Blackburn U21" / "Bolton U21" were not found)
+Blackburn Rovers U21 v Bolton Wanderers U21 | n=20 | xg=10
