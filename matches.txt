@@ -1,5 +1,5 @@
-# Monday 12 Oct 2026 (times Europe/Ljubljana) - scheduled scan 15:12
-# PAOK v Kalamata, Greek Super League, 17:00
-# VPS v Gnistan, Finnish Veikkausliiga, 17:00
-PAOK v Kalamata | n=20 | xg=10
-VPS v Gnistan | n=20 | xg=10
+# Monday 12 Oct 2026 (times Europe/Ljubljana) - scheduled scan 15:12, second run
+# Pakhtakor v Al-Quadisiya (KSA), AFC Champions League, 15:45
+# Northeast United v Mohun Bagan Super Giants, Indian Super League, 16:00
+Pakhtakor v Al-Qadisiyah | n=20 | xg=10
+NorthEast United v Mohun Bagan | n=20 | xg=10
