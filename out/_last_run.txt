@@ -1,4 +1,6 @@
-RUN 2026-10-12 19:18 local | 1 match(es)
-Orsomarso v Boca Juniors -> out/Orsomarso_v_Boca_Juniors.txt
-    !! Boca Juniors: Ambiguous team name "Boca Juniors".
-Requests used: API-Football 15, Matchbook 0
+RUN 2026-10-12 20:02 local | 3 match(es)
+Deportes Iquique v Union Espanola -> out/Deportes_Iquique_v_Union_Espanola.txt
+Orsomarso v Boca Juniors Cali -> out/Orsomarso_v_Boca_Juniors_Cali.txt
+    !! Boca Juniors Cali: No team found for "Boca Juniors Cali".
+Gimnasia Mendoza v Newells Old Boys -> out/Gimnasia_Mendoza_v_Newells_Old_Boys.txt
+Requests used: API-Football 65, Matchbook 0
