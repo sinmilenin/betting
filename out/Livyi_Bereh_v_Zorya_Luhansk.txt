@@ -1,0 +1,82 @@
+MATCH Livyi Bereh v Zorya Luhansk | fetched 2026-10-12 09:17 local
+
+FORM DATA Livyi Bereh v Zorya Luhansk | source API-Football | 2026-10-12 09:17 UTC
+H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
+
+=== Livyi Bereh (id 17162): last 20 finished games ===
+2026-09-19 A 2-0 v Epitsentr Dunayivtsi | Premier League | Ternopil
+2026-09-13 A 0-1 v Polessya | Premier League | Zhytomyr
+2026-09-09 A 1-1 v Ahrobiznes Volochysk | Cup | Volochysk [PEN, 90-min score shown]
+2026-09-04 A 0-0 v Chornomorets | Premier League | Odesa
+2026-08-29 H 1-1 v Karpaty | Premier League | Kyiv
+2026-08-22 A 3-0 v Dnister Zalishchyky | Cup | ?
+2026-08-15 A 1-1 v Kryvbas KR | Premier League | Kryvyi Rih
+2026-08-08 H 0-0 v Kudrivka | Premier League | Kyiv
+2026-08-02 H 2-1 v FC Kharkiv | Friendlies Clubs | ?
+2026-07-21 H 2-2 v Obolon'-Brovar | Friendlies Clubs | ?
+2026-07-18 H 2-1 v Chernihiv | Friendlies Clubs | ?
+2026-07-14 H 1-1 v Viktoriya Mykolaivka | Friendlies Clubs | ?
+2026-07-11 H 4-0 v Kudrivka | Friendlies Clubs | ?
+2026-06-09 H 1-0 v Oleksandria | Premier League | Kyiv
+2026-06-05 A 1-1 v Oleksandria | Premier League | Oleksandria
+2026-06-01 A 3-1 v Inhulets | Persha Liga | Petrove
+2026-05-22 H 4-0 v Metalurh Zaporizhya | Persha Liga | Kyiv
+2026-05-16 A 0-0 v Chornomorets | Persha Liga | Odesa
+2026-05-08 H 3-1 v UCSA | Persha Liga | Kyiv
+2026-05-03 A 1-0 v Vorskla Poltava | Persha Liga | Poltava
+Listed home: 10 games, scored 20 (2.00), conceded 7 (0.70), blanks 1, clean sheets 4
+Listed away: 10 games, scored 12 (1.20), conceded 5 (0.50), blanks 3, clean sheets 5
+All: 20 games, scored 32 (1.60), conceded 12 (0.60), blanks 4, clean sheets 9
+
+=== Zorya Luhansk (id 599): last 20 finished games ===
+2026-10-04 A 2-1 v Kolos Kovalivka | Friendlies Clubs | ?
+2026-09-19 H 0-2 v Dynamo Kyiv | Premier League | Kyiv
+2026-09-13 A 1-1 v Bukovyna | Premier League | Chernivtsi
+2026-09-09 A 2-0 v Yarud Mariupol' | Cup | Kovalivka
+2026-09-06 A 1-1 v Veres Rivne | Premier League | Rivne
+2026-08-31 H 0-3 v FC Kharkiv | Premier League | Kyiv
+2026-08-22 A 6-0 v Skala 1911 Stryi | Cup | ?
+2026-08-17 A 2-1 v Polessya | Premier League | Zhytomyr
+2026-08-09 H 1-3 v Kryvbas KR | Premier League | Kyiv
+2026-07-31 H 2-0 v Kolos Kovalivka | Premier League | Kyiv
+2026-07-23 H 1-2 v Göztepe | Friendlies Clubs | ?
+2026-07-18 H 1-1 v Grimsby | Friendlies Clubs | ?
+2026-07-15 H 1-2 v Konyaspor | Friendlies Clubs | ?
+2026-07-08 A 1-2 v Slovácko | Friendlies Clubs | ?
+2026-07-04 A 1-2 v HNK Gorica | Friendlies Clubs | ?
+2026-06-30 H 2-2 v Shkendija | Friendlies Clubs | ?
+2026-05-23 A 2-1 v Karpaty | Premier League | Lviv
+2026-05-18 H 0-0 v Polessya | Premier League | Kyiv
+2026-05-12 A 2-1 v Oleksandria | Premier League | Oleksandria
+2026-05-09 H 1-1 v FC Kharkiv | Premier League | Kyiv
+Listed home: 10 games, scored 9 (0.90), conceded 16 (1.60), blanks 3, clean sheets 2
+Listed away: 10 games, scored 20 (2.00), conceded 10 (1.00), blanks 0, clean sheets 2
+All: 20 games, scored 29 (1.45), conceded 26 (1.30), blanks 3, clean sheets 4
+
+TABLE FOR Livyi Bereh
+LEAGUE TABLE Premier League 2026 | 16 teams | 59 games played
+League averages per game: home 1.36, away 1.00, total 2.36
+#   team                   Pts | home P GF-GA  | away P GF-GA  | all P GF-GA
+1   Shakhtar Donetsk        21 |  4  10-3       |  4   8-1       |  8  18-4
+2   Polessya                19 |  5  11-4       |  3   6-3       |  8  17-7
+3   Dynamo Kyiv             16 |  4   6-1       |  3   4-4       |  7  10-5
+4   FC Kharkiv              15 |  4   8-1       |  3   6-4       |  7  14-5
+5   Karpaty                 14 |  4   8-3       |  4   7-3       |  8  15-6
+6   LNZ Cherkasy            11 |  4   7-3       |  4   0-6       |  8   7-9
+7   Veres Rivne              9 |  4   4-7       |  4   2-2       |  8   6-9
+8   Zorya Luhansk            8 |  4   3-8       |  3   4-3       |  7   7-11
+9   Kolos Kovalivka          8 |  3   3-3       |  4   6-8       |  7   9-11
+10  Bukovyna                 8 |  5   6-3       |  3   0-5       |  8   6-8
+11  Epitsentr Dunayivtsi     8 |  5   3-4       |  3   4-6       |  8   7-10
+12  Livyi Bereh              7 |  2   1-1       |  4   3-2       |  6   4-3
+13  Chornomorets             5 |  5   4-5       |  2   0-4       |  7   4-9
+14  Kryvbas KR               5 |  3   4-7       |  3   3-3       |  6   7-10
+15  Obolon'-Brovar           4 |  0   0-0       |  7   2-12      |  7   2-12
+16  Kudrivka                 2 |  3   2-6       |  5   4-14      |  8   6-20
+
+(Zorya Luhansk: same table as Livyi Bereh, shown above)
+
+(25 API-Football requests used)
+
+----------------------------------------------------------------------
+MATCHBOOK: skipped (switched off for this run)
