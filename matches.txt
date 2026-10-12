@@ -1,10 +1,5 @@
-# Monday 12 Oct 2026 (times Europe/Ljubljana) - scheduled scan 17:11, kick-offs 18:00 to 19:00
-AEK Larnaca v Omonia Aradippou | n=20 | xg=10
-AC Oulu v HJK Helsinki | n=20 | xg=10
-Aarhus v Sonderjyske | n=20 | xg=10
-Malmo FF v Kalmar FF | n=20 | xg=10
-Eyupspor v Goztepe | n=20 | xg=10
-Ludogorets v Arda | n=20 | xg=10
-Pyramids FC v Ceramica Cleopatra | n=20 | xg=10
-Elfsborg v Halmstad | n=20 | xg=10
-KFUM Oslo v Valerenga | n=20 | xg=10
+# Monday 12 Oct 2026 (times Europe/Ljubljana) - scheduled scan 17:11, second run (name corrections)
+# Eyupspor, Goztepe, Arda and Elfsborg were ambiguous: ids taken from the candidate lists
+id:3588 v id:994 | n=20 | xg=10
+Ludogorets v id:1430 | n=20 | xg=10
+id:372 v Halmstad | n=20 | xg=10
