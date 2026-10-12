@@ -1,3 +1,4 @@
-RUN 2026-10-12 13:30 local | 1 match(es)
-Pakhtakor v Al Qadisiyah -> out/Pakhtakor_v_Al_Qadisiyah.txt
-Requests used: API-Football 26, Matchbook 0
+RUN 2026-10-12 13:33 local | 1 match(es)
+Pakhtakor v Qadisiyah -> out/Pakhtakor_v_Qadisiyah.txt
+    !! Qadisiyah: Ambiguous team name "Qadisiyah".
+Requests used: API-Football 15, Matchbook 0
