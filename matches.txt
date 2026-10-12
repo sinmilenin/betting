@@ -1,4 +1,3 @@
-# Monday 12 Oct 2026 (times Europe/Ljubljana) - scheduled scan 15:41, second run
-# "USM Khenchela" not found: table name is Khenchela. Mohun Bagan loaded the Calcutta league side: ISL club is ATK Mohun Bagan
-Khenchela v CS Constantine | n=20 | xg=10
-NorthEast United v ATK Mohun Bagan | n=20 | xg=10
+# Monday 12 Oct 2026 (times Europe/Ljubljana) - scheduled scan 16:20
+Arges Pitesti v CFR Cluj | n=20 | xg=10
+Radomiak Radom v Motor Lublin | n=20 | xg=10
