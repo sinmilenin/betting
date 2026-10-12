@@ -1,3 +1,4 @@
 # Monday 12 Oct 2026 (times Europe/Ljubljana) - scheduled scan 11:10
 # Livyi Bereg Kyiv v Zorya, Ukrainian Premier League, 12:00
-Livyi Bereg v Zorya Luhansk | n=20 | xg=10
+# retry: "Livyi Bereg" resolved to the reserve side (Livyi Bereg 2); the Premier League table lists the first team as "Livyi Bereh"
+Livyi Bereh v Zorya Luhansk | n=20 | xg=10
