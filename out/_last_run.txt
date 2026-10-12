@@ -1,4 +1,3 @@
-RUN 2026-10-12 20:04 local | 1 match(es)
-Gimnasia M v Newells Old Boys -> out/Gimnasia_M_v_Newells_Old_Boys.txt
-    !! Gimnasia M: Ambiguous team name "Gimnasia M".
-Requests used: API-Football 15, Matchbook 0
+RUN 2026-10-12 20:05 local | 1 match(es)
+id:1066 v Newells Old Boys -> out/id_1066_v_Newells_Old_Boys.txt
+Requests used: API-Football 25, Matchbook 0
