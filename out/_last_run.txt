@@ -1,3 +1,7 @@
-RUN 2026-10-11 19:34 local | 1 match(es)
-Platense v Argentinos JRS -> out/Platense_v_Argentinos_JRS.txt
-Requests used: API-Football 26, Matchbook 0
+RUN 2026-10-12 07:41 local | 5 match(es)
+Atalanta v Venezia -> out/Atalanta_v_Venezia.txt
+Coventry v Newcastle -> out/Coventry_v_Newcastle.txt
+Torino v Udinese -> out/Torino_v_Udinese.txt
+Levante v Sevilla -> out/Levante_v_Sevilla.txt
+Oviedo v Eibar -> out/Oviedo_v_Eibar.txt
+Requests used: API-Football 126, Matchbook 0
