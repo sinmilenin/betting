@@ -1,3 +1,4 @@
 # Monday 12 Oct 2026 (times Europe/Ljubljana) - scheduled scan 14:41
 # Burgos v Granada, Spanish Segunda Division, 16:15
-Burgos v Granada | n=20 | xg=10
+# Second run: "Granada" resolved to the women's team, so the men's side is named "Granada CF"
+Burgos v Granada CF | n=20 | xg=10
