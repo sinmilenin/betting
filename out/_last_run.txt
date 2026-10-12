@@ -1,3 +1,4 @@
-RUN 2026-10-12 10:22 local | 1 match(es)
-Livyi Bereh v Zorya Luhansk -> out/Livyi_Bereh_v_Zorya_Luhansk.txt
-Requests used: API-Football 25, Matchbook 0
+RUN 2026-10-12 10:46 local | 2 match(es)
+Valladolid v Albacete -> out/Valladolid_v_Albacete.txt
+Anagennisi Karditsa v Zakynthos -> out/Anagennisi_Karditsa_v_Zakynthos.txt
+Requests used: API-Football 50, Matchbook 0
