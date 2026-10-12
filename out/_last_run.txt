@@ -1,4 +1,3 @@
-RUN 2026-10-12 14:48 local | 1 match(es)
-Liepaja v Auda -> out/Liepaja_v_Auda.txt
-    !! Liepaja: Ambiguous team name "Liepaja".
-Requests used: API-Football 15, Matchbook 0
+RUN 2026-10-12 14:49 local | 1 match(es)
+id:661 v Auda -> out/id_661_v_Auda.txt
+Requests used: API-Football 25, Matchbook 0
