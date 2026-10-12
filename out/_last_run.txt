@@ -1,4 +1,4 @@
-RUN 2026-10-12 20:03 local | 1 match(es)
-Gimnasia M. v Newells Old Boys -> out/Gimnasia_M_v_Newells_Old_Boys.txt
-    !! Gimnasia M.: API-Football error: {"search": "The Search field may only contain alpha-numeric characters and spaces."}
-Requests used: API-Football 14, Matchbook 0
+RUN 2026-10-12 20:04 local | 1 match(es)
+Gimnasia M v Newells Old Boys -> out/Gimnasia_M_v_Newells_Old_Boys.txt
+    !! Gimnasia M: Ambiguous team name "Gimnasia M".
+Requests used: API-Football 15, Matchbook 0
