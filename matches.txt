@@ -1,5 +1,4 @@
-# Monday 12 Oct 2026 (times Europe/Ljubljana) - scheduled scan 15:12, second run
+# Monday 12 Oct 2026 (times Europe/Ljubljana) - scheduled scan 15:12, third run
 # Pakhtakor v Al-Quadisiya (KSA), AFC Champions League, 15:45
-# Northeast United v Mohun Bagan Super Giants, Indian Super League, 16:00
-Pakhtakor v Al-Qadisiyah | n=20 | xg=10
-NorthEast United v Mohun Bagan | n=20 | xg=10
+# Retry: the hyphen in "Al-Qadisiyah" was rejected by the API search, so the name is written without it
+Pakhtakor v Al Qadisiyah | n=20 | xg=10
