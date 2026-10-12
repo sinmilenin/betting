@@ -1,3 +1,4 @@
-# Monday 12 Oct 2026 (times Europe/Ljubljana) - scheduled scan 15:41
-# USM Khenchela v CS Constantine, Algerian Ligue 1, 16:00
-USM Khenchela v CS Constantine | n=20 | xg=10
+# Monday 12 Oct 2026 (times Europe/Ljubljana) - scheduled scan 15:41, second run
+# "USM Khenchela" not found: table name is Khenchela. Mohun Bagan loaded the Calcutta league side: ISL club is ATK Mohun Bagan
+Khenchela v CS Constantine | n=20 | xg=10
+NorthEast United v ATK Mohun Bagan | n=20 | xg=10
