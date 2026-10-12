@@ -1,12 +1,4 @@
-RUN 2026-10-12 17:21 local | 8 match(es)
-Mladost Lucani v OFK Beograd -> out/Mladost_Lucani_v_OFK_Beograd.txt
-Blackburn U21 v Bolton U21 -> out/Blackburn_U21_v_Bolton_U21.txt
-    !! Blackburn U21: No team found for "Blackburn U21".
-    !! Bolton U21: No team found for "Bolton U21".
-Tenerife v Girona -> out/Tenerife_v_Girona.txt
-Fortaleza EC v CRB -> out/Fortaleza_EC_v_CRB.txt
-Coritiba v Botafogo -> out/Coritiba_v_Botafogo.txt
-Shamrock Rovers v Bohemians -> out/Shamrock_Rovers_v_Bohemians.txt
-Lanus v Velez Sarsfield -> out/Lanus_v_Velez_Sarsfield.txt
-Gualberto Villarroel v Guabira -> out/Gualberto_Villarroel_v_Guabira.txt
-Requests used: API-Football 180, Matchbook 0
+RUN 2026-10-12 17:24 local | 1 match(es)
+Blackburn Rovers U21 v Bolton Wanderers U21 -> out/Blackburn_Rovers_U21_v_Bolton_Wanderers_.txt
+    !! Bolton Wanderers U21: No team found for "Bolton Wanderers U21".
+Requests used: API-Football 14, Matchbook 0
