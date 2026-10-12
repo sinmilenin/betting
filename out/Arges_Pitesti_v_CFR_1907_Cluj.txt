@@ -1,6 +1,6 @@
-MATCH Arges Pitesti v CFR Cluj | fetched 2026-10-12 14:28 local
+MATCH Arges Pitesti v CFR 1907 Cluj | fetched 2026-10-12 14:33 local
 
-FORM DATA Arges Pitesti v CFR Cluj | source API-Football | 2026-10-12 14:28 UTC
+FORM DATA Arges Pitesti v CFR 1907 Cluj | source API-Football | 2026-10-12 14:33 UTC
 H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
 
 === Arges Pitesti (id 2592): last 20 finished games ===
@@ -28,30 +28,30 @@ Listed home: 11 games, scored 14 (1.27), conceded 14 (1.27), blanks 3, clean she
 Listed away: 9 games, scored 10 (1.11), conceded 10 (1.11), blanks 3, clean sheets 3
 All: 20 games, scored 24 (1.20), conceded 24 (1.20), blanks 6, clean sheets 6
 
-=== CFR Cluj II (id 19658): last 20 finished games ===
-2023-05-27 A 1-1 v Minerul Ocna Dej | Liga III - Serie 10 | Jucu de Mijloc
-2023-05-20 H 1-2 v SCM Zalău | Liga III - Serie 10 | Cluj-Napoca
-2023-05-13 A 1-3 v Victoria Carei | Liga III - Serie 10 | Carei
-2023-05-06 H 3-0 v Sportul Şimleu | Liga III - Serie 10 | Iclod
-2023-05-03 H 1-1 v Sighetu Marmaţiei | Liga III - Serie 10 | Iclod
-2023-04-29 H 2-1 v Minerul Ocna Dej | Liga III - Serie 10 | Iclod
-2023-04-22 A 0-2 v SCM Zalău | Liga III - Serie 10 | Zalău
-2023-04-14 H 1-1 v Victoria Carei | Liga III - Serie 10 | Iclod
-2023-04-08 A 2-0 v Sportul Şimleu | Liga III - Serie 10 | Şimleu Silvaniei
-2023-04-01 A 0-1 v Sighetu Marmaţiei | Liga III - Serie 10 | Sighetu Marmaţiei
-2023-03-25 A 3-0 v Minerul Ocna Dej | Liga III - Serie 10 | Jucu de Mijloc
-2023-03-18 H 2-1 v Victoria Carei | Liga III - Serie 10 | Iclod
-2023-03-10 A 2-4 v Sânmartin | Liga III - Serie 10 | Sânmartin
-2022-12-03 H 1-1 v SCM Zalău | Liga III - Serie 10 | Cluj-Napoca
-2022-11-26 A 0-4 v Bihor Oradea | Liga III - Serie 10 | Oradea
-2022-11-19 H 1-2 v CSM Satu Mare | Liga III - Serie 10 | Cluj-Napoca
-2022-11-11 A 0-2 v Gloria Bistriţa | Liga III - Serie 10 | Bistriţa
-2022-11-05 H 0-2 v Sighetu Marmaţiei | Liga III - Serie 10 | Cluj-Napoca
-2022-10-29 H 2-0 v Sportul Şimleu | Liga III - Serie 10 | Cluj-Napoca
-2022-10-22 H 0-1 v Minerul Ocna Dej | Liga III - Serie 10 | Cluj-Napoca
-Listed home: 11 games, scored 14 (1.27), conceded 12 (1.09), blanks 2, clean sheets 2
-Listed away: 9 games, scored 9 (1.00), conceded 17 (1.89), blanks 4, clean sheets 2
-All: 20 games, scored 23 (1.15), conceded 29 (1.45), blanks 6, clean sheets 4
+=== CFR 1907 Cluj (id 2246): last 20 finished games ===
+2026-10-08 H 1-3 v Universitatea Cluj | Liga I | Cluj Napoca
+2026-10-01 H 2-1 v CSM Satu Mare | Friendlies Clubs | ?
+2026-09-19 H 3-1 v FC Botosani | Liga I | Cluj Napoca
+2026-09-12 A 1-3 v Sepsi OSK Sfantu Gheorghe | Liga I | Sfantu Gheorghe
+2026-09-04 H 0-0 v Farul Constanta | Liga I | Cluj Napoca
+2026-09-01 A 3-1 v Sepsi OSK Sfantu Gheorghe | Cupa României | Sfantu Gheorghe
+2026-08-29 A 3-2 v Csikszereda | Liga I | Miercurea Ciuc | xG 2.02-0.96
+2026-08-23 H 1-0 v FCSB | Liga I | Cluj Napoca | xG 1.38-1.82
+2026-08-16 A 0-3 v Corvinul Hunedoara | Liga I | Arad | xG 1.17-3.84
+2026-08-13 A 1-2 v Tromso | UEFA Europa Conference League | Tromso
+2026-08-06 H 0-5 v Tromso | UEFA Europa Conference League | Cluj-Napoca
+2026-08-02 A 1-3 v Rapid | Liga I | Bucharest
+2026-07-30 H 3-0 v Alashkert | UEFA Europa Conference League | Cluj-Napoca
+2026-07-27 H 5-0 v FC Voluntari | Liga I | Cluj Napoca
+2026-07-23 A 1-1 v Alashkert | UEFA Europa Conference League | Yerevan
+2026-07-18 A 1-2 v Oţelul | Liga I | Galati
+2026-07-14 H 0-2 v Gloria Bistriţa | Friendlies Clubs | ?
+2026-07-09 H 1-0 v Karpaty | Friendlies Clubs | ?
+2026-07-07 H 1-1 v FC Noah | Friendlies Clubs | ?
+2026-07-04 A 1-1 v Olimpija Ljubljana | Friendlies Clubs | ?
+Listed home: 11 games, scored 17 (1.55), conceded 13 (1.18), blanks 3, clean sheets 5
+Listed away: 9 games, scored 12 (1.33), conceded 18 (2.00), blanks 1, clean sheets 0
+All: 20 games, scored 29 (1.45), conceded 31 (1.55), blanks 4, clean sheets 5
 
 TABLE FOR Arges Pitesti
 LEAGUE TABLE Liga I 2026 | 16 teams | 86 games played
@@ -74,9 +74,9 @@ League averages per game: home 1.76, away 0.88, total 2.64
 15  FC Voluntari             8 |  6   7-8       |  5   4-17      | 11  11-25
 16  Csikszereda              1 |  5   3-9       |  6   3-15      | 11   6-24
 
-(no league table available for CFR Cluj II: tried Liga III - Serie 10 2022)
+(CFR 1907 Cluj: same table as Arges Pitesti, shown above)
 
-(26 API-Football requests used)
+(25 API-Football requests used)
 
 ----------------------------------------------------------------------
 MATCHBOOK: skipped (switched off for this run)
