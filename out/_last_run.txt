@@ -1,6 +1,4 @@
-RUN 2026-10-12 20:02 local | 3 match(es)
-Deportes Iquique v Union Espanola -> out/Deportes_Iquique_v_Union_Espanola.txt
-Orsomarso v Boca Juniors Cali -> out/Orsomarso_v_Boca_Juniors_Cali.txt
-    !! Boca Juniors Cali: No team found for "Boca Juniors Cali".
-Gimnasia Mendoza v Newells Old Boys -> out/Gimnasia_Mendoza_v_Newells_Old_Boys.txt
-Requests used: API-Football 65, Matchbook 0
+RUN 2026-10-12 20:03 local | 1 match(es)
+Gimnasia M. v Newells Old Boys -> out/Gimnasia_M_v_Newells_Old_Boys.txt
+    !! Gimnasia M.: API-Football error: {"search": "The Search field may only contain alpha-numeric characters and spaces."}
+Requests used: API-Football 14, Matchbook 0
