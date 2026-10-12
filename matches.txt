@@ -1,4 +1,4 @@
-# Monday 12 Oct 2026 (times Europe/Ljubljana) - scheduled scan 15:12, third run
+# Monday 12 Oct 2026 (times Europe/Ljubljana) - scheduled scan 15:12, fourth run
 # Pakhtakor v Al-Quadisiya (KSA), AFC Champions League, 15:45
-# Retry: the hyphen in "Al-Qadisiyah" was rejected by the API search, so the name is written without it
-Pakhtakor v Al Qadisiyah | n=20 | xg=10
+# Retry: "Al Qadisiyah" resolved to a Libyan club (Al Qadisiyah Bani Walid); broader search to list the candidates
+Pakhtakor v Qadisiyah | n=20 | xg=10
