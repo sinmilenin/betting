@@ -1,6 +1,6 @@
-MATCH Universitatea Cluj v Rapid Bucuresti | fetched 2026-10-12 17:03 local
+MATCH id:2599 v Rapid | fetched 2026-10-12 17:04 local
 
-FORM DATA Universitatea Cluj v Rapid Bucuresti | source API-Football | 2026-10-12 17:03 UTC
+FORM DATA id:2599 v Rapid | source API-Football | 2026-10-12 17:04 UTC
 H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
 
 === Universitatea Cluj (id 2599): last 20 finished games ===
@@ -28,17 +28,30 @@ Listed home: 11 games, scored 15 (1.36), conceded 15 (1.36), blanks 3, clean she
 Listed away: 9 games, scored 8 (0.89), conceded 12 (1.33), blanks 4, clean sheets 3
 All: 20 games, scored 23 (1.15), conceded 27 (1.35), blanks 7, clean sheets 6
 
-=== FC Rapid Bucuresti W (id 28170): last 7 finished games ===
-2026-10-04 A 4-0 v Univ. Craiova W | Liga 1 Feminin | Craiova
-2026-09-26 H 1-9 v SSU Poli Timişoara W | Liga 1 Feminin | Bucharest
-2026-09-20 A 2-5 v Gloria Bistrița-Năsăud W | Liga 1 Feminin | ?
-2026-09-13 H 2-4 v Csikszereda MC W | Liga 1 Feminin | Bucharest
-2026-09-06 A 8-0 v Vasas Femina W | Liga 1 Feminin | ?
-2026-08-30 H 1-6 v Olimpia Cluj W | Liga 1 Feminin | Bucharest
-2026-08-22 A 1-7 v Farul Constanţa W | Liga 1 Feminin | ?
-Listed home: 3 games, scored 4 (1.33), conceded 19 (6.33), blanks 0, clean sheets 0
-Listed away: 4 games, scored 15 (3.75), conceded 12 (3.00), blanks 0, clean sheets 2
-All: 7 games, scored 19 (2.71), conceded 31 (4.43), blanks 0, clean sheets 2
+=== Rapid (id 6231): last 20 finished games ===
+2026-10-02 H 2-0 v Genoa | Friendlies Clubs | ?
+2026-09-18 H 3-1 v Arges Pitesti | Liga I | Bucharest
+2026-09-12 H 2-1 v FC Voluntari | Liga I | Bucharest | xG 1.93-1.09
+2026-09-06 A 1-0 v Oţelul | Liga I | Galati | xG 2.97-0.39
+2026-09-03 A 2-0 v FC Politehnica Timisoara | Cupa României | Sibiu
+2026-08-31 H 1-1 v Universitatea Craiova | Liga I | Bucharest | xG 1.39-2.06
+2026-08-21 A 2-0 v Petrolul Ploiesti | Liga I | Ploiesti | xG 1.31-1.21
+2026-08-15 H 0-1 v Dinamo Bucuresti | Liga I | Bucharest | xG 1.70-1.41
+2026-08-07 A 0-0 v Uta Arad | Liga I | Arad
+2026-08-02 H 3-1 v CFR 1907 Cluj | Liga I | Bucharest
+2026-07-27 A 1-1 v FC Botosani | Liga I | Botosani
+2026-07-20 H 1-0 v Sepsi OSK Sfantu Gheorghe | Liga I | Bucharest
+2026-07-09 H 1-2 v Slovan Liberec | Friendlies Clubs | ?
+2026-07-08 H 1-1 v FK Košice | Friendlies Clubs | ?
+2026-07-05 A 0-0 v Rapid Vienna | Friendlies Clubs | ?
+2026-07-02 A 3-1 v Dynamo Kyiv | Friendlies Clubs | ?
+2026-05-25 H 0-0 v Universitatea Craiova | Liga I | Bucharest
+2026-05-15 A 2-2 v Arges Pitesti | Liga I | Mioveni
+2026-05-09 A 0-1 v Universitatea Cluj | Liga I | Cluj-Napoca
+2026-05-04 H 1-2 v CFR 1907 Cluj | Liga I | Bucharest
+Listed home: 11 games, scored 15 (1.36), conceded 10 (0.91), blanks 2, clean sheets 3
+Listed away: 9 games, scored 11 (1.22), conceded 5 (0.56), blanks 3, clean sheets 5
+All: 20 games, scored 26 (1.30), conceded 15 (0.75), blanks 5, clean sheets 8
 
 TABLE FOR Universitatea Cluj
 LEAGUE TABLE Liga I 2026 | 16 teams | 86 games played
@@ -61,20 +74,9 @@ League averages per game: home 1.76, away 0.88, total 2.64
 15  FC Voluntari             8 |  6   7-8       |  5   4-17      | 11  11-25
 16  Csikszereda              1 |  5   3-9       |  6   3-15      | 11   6-24
 
-TABLE FOR FC Rapid Bucuresti W
-LEAGUE TABLE Liga 1 Feminin 2026 | 8 teams | 28 games played
-League averages per game: home 3.43, away 3.64, total 7.07
-#   team                   Pts | home P GF-GA  | away P GF-GA  | all P GF-GA
-1   Gloria Bistrița-Năsăud  18 |  4  21-7       |  3  18-1       |  7  39-8
-2   Csikszereda MC W        18 |  3  17-1       |  4  13-9       |  7  30-10
-3   Farul Constanţa W       15 |  4  43-5       |  3  10-3       |  7  53-8
-4   SSU Poli Timişoara W    12 |  3   2-3       |  4  29-5       |  7  31-8
-5   Olimpia Cluj W          12 |  3   5-12      |  4  14-4       |  7  19-16
-6   FC Rapid Bucuresti W     6 |  3   4-19      |  4  15-12      |  7  19-31
-7   Univ. Craiova W          3 |  4   4-16      |  3   2-36      |  7   6-52
-8   Vasas Femina W           0 |  4   0-39      |  3   1-26      |  7   1-65
+(Rapid: same table as Universitatea Cluj, shown above)
 
-(23 API-Football requests used)
+(25 API-Football requests used)
 
 ----------------------------------------------------------------------
 MATCHBOOK: skipped (switched off for this run)
