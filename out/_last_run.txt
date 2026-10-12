@@ -1,3 +1,8 @@
-RUN 2026-10-12 20:05 local | 1 match(es)
-id:1066 v Newells Old Boys -> out/id_1066_v_Newells_Old_Boys.txt
-Requests used: API-Football 25, Matchbook 0
+RUN 2026-10-12 20:49 local | 5 match(es)
+All Boys v Godoy Cruz -> out/All_Boys_v_Godoy_Cruz.txt
+Novorizontino v Ponte Preta -> out/Novorizontino_v_Ponte_Preta.txt
+Nacional Asuncion v Deportivo Recoleta -> out/Nacional_Asuncion_v_Deportivo_Recoleta.txt
+Chapecoense v Atletico Paranaense -> out/Chapecoense_v_Atletico_Paranaense.txt
+    !! Chapecoense: Ambiguous team name "Chapecoense".
+Criciuma v America Mineiro -> out/Criciuma_v_America_Mineiro.txt
+Requests used: API-Football 114, Matchbook 0
