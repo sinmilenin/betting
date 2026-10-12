@@ -1,0 +1,57 @@
+MATCH USM Khenchela v CS Constantine | fetched 2026-10-12 13:49 local
+
+FORM DATA USM Khenchela v CS Constantine | source API-Football | 2026-10-12 13:49 UTC
+H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
+
+=== CS Constantine (id 911): last 20 finished games ===
+2026-10-07 H 4-0 v US Biskra | Ligue 1 | ?
+2026-09-19 A 1-5 v ES Setif | Ligue 1 | ?
+2026-09-12 H 3-0 v ASO Chlef | Ligue 1 | Constantine
+2026-09-05 A 1-1 v Témouchent | Ligue 1 | ?
+2026-06-05 A 1-3 v JS Saoura | Ligue 1 | Algiers
+2026-05-19 H 2-2 v Khenchela | Ligue 1 | Constantine
+2026-05-07 A 3-5 v Paradou AC | Ligue 1 | Algiers
+2026-04-24 H 2-3 v CR Belouizdad | Coupe Nationale | Constantine
+2026-04-16 H 2-0 v MC Alger | Ligue 1 | Constantine
+2026-04-10 A 2-2 v JS Kabylie | Ligue 1 | Tizi Ouzou
+2026-04-03 H 0-1 v MC Oran | Ligue 1 | Constantine
+2026-03-17 A 0-1 v Olympique Akbou | Ligue 1 | ?
+2026-03-13 H 0-0 v Ben Aknoun | Ligue 1 | Constantine
+2026-03-08 A 0-0 v USM Alger | Ligue 1 | Algiers
+2026-03-03 H 1-0 v JSM Bejaia | Coupe Nationale | Constantine
+2026-02-26 H 0-0 v CR Belouizdad | Ligue 1 | Constantine
+2026-02-20 A 2-0 v ASO Chlef | Ligue 1 | Chlef
+2026-02-13 H 2-0 v ES Setif | Ligue 1 | Constantine
+2026-02-08 A 2-1 v MB Rouisset | Ligue 1 | Ouargla
+2026-02-03 H 2-1 v Mostaganem | Ligue 1 | Constantine
+Listed home: 11 games, scored 18 (1.64), conceded 7 (0.64), blanks 3, clean sheets 7
+Listed away: 9 games, scored 12 (1.33), conceded 18 (2.00), blanks 2, clean sheets 2
+All: 20 games, scored 30 (1.50), conceded 25 (1.25), blanks 5, clean sheets 9
+
+!! USM Khenchela: No team found for "USM Khenchela".
+
+TABLE FOR CS Constantine
+LEAGUE TABLE Ligue 1 2026 | 16 teams | 29 games played
+League averages per game: home 1.45, away 0.62, total 2.07
+#   team                   Pts | home P GF-GA  | away P GF-GA  | all P GF-GA
+1   CR Belouizdad           10 |  2   2-0       |  2   4-3       |  4   6-3
+2   CS Constantine           7 |  2   7-0       |  2   2-6       |  4   9-6
+3   MC Oran                  7 |  2   2-0       |  1   1-0       |  3   3-0
+4   USM Alger                7 |  1   2-0       |  3   3-3       |  4   5-3
+5   MC Alger                 6 |  2   3-0       |  0   0-0       |  2   3-0
+6   Ben Aknoun               6 |  2   4-4       |  2   2-1       |  4   6-5
+7   JS Kabylie               6 |  2   2-0       |  1   0-1       |  3   2-1
+8   MB Rouisset              6 |  2   3-0       |  2   0-3       |  4   3-3
+9   ES Setif                 4 |  2   5-2       |  2   0-1       |  4   5-3
+10  JS El Biar               4 |  2   4-2       |  2   2-4       |  4   6-6
+11  Olympique Akbou          4 |  1   2-3       |  3   2-2       |  4   4-5
+12  Témouchent               4 |  2   2-1       |  2   0-3       |  4   2-4
+13  Khenchela                2 |  2   1-1       |  1   0-1       |  3   1-2
+14  JS Saoura                2 |  1   0-0       |  2   0-4       |  3   0-4
+15  US Biskra                2 |  2   0-1       |  2   2-6       |  4   2-7
+16  ASO Chlef                1 |  2   3-4       |  2   0-4       |  4   3-8
+
+(14 API-Football requests used)
+
+----------------------------------------------------------------------
+MATCHBOOK: skipped (switched off for this run)
