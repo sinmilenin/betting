@@ -1,5 +1,3 @@
-RUN 2026-10-12 18:00 local | 2 match(es)
-GKS Katowice v Wieczysta Krakow -> out/GKS_Katowice_v_Wieczysta_Krakow.txt
-    !! Wieczysta Krakow: Ambiguous team name "Wieczysta Krakow".
-Famalicao v Alverca -> out/Famalicao_v_Alverca.txt
-Requests used: API-Football 40, Matchbook 0
+RUN 2026-10-12 18:04 local | 1 match(es)
+GKS Katowice v id:17115 -> out/GKS_Katowice_v_id_17115.txt
+Requests used: API-Football 25, Matchbook 0
