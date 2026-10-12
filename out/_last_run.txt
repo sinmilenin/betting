@@ -1,3 +1,15 @@
-RUN 2026-10-12 14:49 local | 1 match(es)
-id:661 v Auda -> out/id_661_v_Auda.txt
-Requests used: API-Football 25, Matchbook 0
+RUN 2026-10-12 15:22 local | 9 match(es)
+AEK Larnaca v Omonia Aradippou -> out/AEK_Larnaca_v_Omonia_Aradippou.txt
+AC Oulu v HJK Helsinki -> out/AC_Oulu_v_HJK_Helsinki.txt
+Aarhus v Sonderjyske -> out/Aarhus_v_Sonderjyske.txt
+Malmo FF v Kalmar FF -> out/Malmo_FF_v_Kalmar_FF.txt
+Eyupspor v Goztepe -> out/Eyupspor_v_Goztepe.txt
+    !! Eyupspor: Ambiguous team name "Eyupspor".
+    !! Goztepe: Ambiguous team name "Goztepe".
+Ludogorets v Arda -> out/Ludogorets_v_Arda.txt
+    !! Arda: Ambiguous team name "Arda".
+Pyramids FC v Ceramica Cleopatra -> out/Pyramids_FC_v_Ceramica_Cleopatra.txt
+Elfsborg v Halmstad -> out/Elfsborg_v_Halmstad.txt
+    !! Elfsborg: Ambiguous team name "Elfsborg".
+KFUM Oslo v Valerenga -> out/KFUM_Oslo_v_Valerenga.txt
+Requests used: API-Football 183, Matchbook 0

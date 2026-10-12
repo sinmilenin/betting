@@ -1,0 +1,82 @@
+MATCH KFUM Oslo v Valerenga | fetched 2026-10-12 15:22 local
+
+FORM DATA KFUM Oslo v Valerenga | source API-Football | 2026-10-12 15:23 UTC
+H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
+
+=== KFUM Oslo (id 2143): last 20 finished games ===
+2026-09-30 A 2-0 v Hønefoss | NM Cupen | Honefoss
+2026-09-18 A 3-1 v Sarpsborg 08 FF | Eliteserien | Sarpsberg | xG 0.95-2.56
+2026-09-13 H 2-1 v Aalesund | Eliteserien | Oslo
+2026-09-06 A 0-2 v Molde | Eliteserien | Molde
+2026-08-30 A 1-4 v Start | Eliteserien | Kristiansand | xG 1.65-3.43
+2026-08-22 A 4-0 v IF Ready | NM Cupen | Oslo
+2026-08-15 H 1-1 v Lillestrom | Eliteserien | Oslo | xG 1.50-2.31
+2026-08-07 A 1-0 v Sandefjord | Eliteserien | Sandefjord | xG 1.74-0.93
+2026-08-02 H 2-1 v Kristiansund BK | Eliteserien | Oslo | xG 1.09-1.40
+2026-07-26 H 2-4 v Molde | Eliteserien | Oslo | xG 0.45-4.38
+2026-07-18 A 1-2 v Lillestrom | Eliteserien | Lillestrøm
+2026-07-12 H 0-2 v Bodo/Glimt | Eliteserien | Oslo
+2026-07-04 A 0-2 v Vendsyssel FF | Friendlies Clubs | ?
+2026-06-21 A 1-5 v Molde | Friendlies Clubs | ?
+2026-05-29 H 0-0 v Tromso | Eliteserien | Oslo
+2026-05-25 H 2-0 v Rosenborg | Eliteserien | Oslo
+2026-05-16 A 1-2 v Brann | Eliteserien | Bergen
+2026-05-10 H 0-2 v Viking | Eliteserien | Oslo
+2026-05-03 A 2-2 v Valerenga | Eliteserien | Oslo
+2026-04-26 H 1-0 v Sarpsborg 08 FF | Eliteserien | Oslo
+Listed home: 9 games, scored 10 (1.11), conceded 11 (1.22), blanks 3, clean sheets 3
+Listed away: 11 games, scored 16 (1.45), conceded 20 (1.82), blanks 2, clean sheets 3
+All: 20 games, scored 26 (1.30), conceded 31 (1.55), blanks 5, clean sheets 6
+
+=== Valerenga (id 326): last 20 finished games ===
+2026-09-20 H 1-1 v Fredrikstad | Eliteserien | Oslo | xG 1.55-0.71
+2026-09-17 A 4-1 v Skeid | NM Cupen | ?
+2026-09-12 A 0-2 v Lillestrom | Eliteserien | Lillestrøm | xG 1.57-0.70
+2026-09-06 A 2-2 v Sarpsborg 08 FF | Eliteserien | Sarpsborg | xG 1.29-2.04
+2026-08-30 H 3-4 v Molde | Eliteserien | Oslo | xG 1.82-1.73
+2026-08-23 A 7-2 v Christiania BK | NM Cupen | ?
+2026-08-16 A 5-5 v Aalesund | Eliteserien | Aalesund | xG 3.45-2.60
+2026-08-08 H 1-2 v Bodo/Glimt | Eliteserien | Oslo | xG 1.22-1.90
+2026-07-31 H 0-3 v Ham-Kam | Eliteserien | Oslo | xG 0.64-1.40
+2026-07-26 A 3-2 v Brann | Eliteserien | Bergen | xG 2.91-2.46
+2026-07-16 H 6-1 v Aalesund | Eliteserien | Oslo
+2026-07-11 A 0-4 v Tromso | Eliteserien | Tromso
+2026-07-04 H 3-1 v Fredrikstad | Friendlies Clubs | ?
+2026-06-27 H 1-2 v Gais | Friendlies Clubs | ?
+2026-06-18 A 1-1 v IFK Goteborg | Friendlies Clubs | ?
+2026-05-29 H 3-1 v Kristiansund BK | Eliteserien | Oslo
+2026-05-25 A 0-2 v Start | Eliteserien | Kristiansand
+2026-05-16 H 3-2 v Sarpsborg 08 FF | Eliteserien | Oslo
+2026-05-08 A 0-1 v Ham-Kam | Eliteserien | Hamar
+2026-05-03 H 2-2 v KFUM Oslo | Eliteserien | Oslo
+Listed home: 10 games, scored 23 (2.30), conceded 19 (1.90), blanks 1, clean sheets 0
+Listed away: 10 games, scored 22 (2.20), conceded 22 (2.20), blanks 4, clean sheets 0
+All: 20 games, scored 45 (2.25), conceded 41 (2.05), blanks 5, clean sheets 0
+
+TABLE FOR KFUM Oslo
+LEAGUE TABLE Eliteserien 2026 | 16 teams | 175 games played
+League averages per game: home 1.83, away 1.35, total 3.18
+#   team                   Pts | home P GF-GA  | away P GF-GA  | all P GF-GA
+1   Viking                  53 | 10  38-10      | 12  18-10      | 22  56-20
+2   Bodo/Glimt              53 | 11  34-7       | 11  22-13      | 22  56-20
+3   Tromso                  39 | 11  21-9       | 11  20-21      | 22  41-30
+4   Molde                   37 | 11  24-13      | 11  22-21      | 22  46-34
+5   Rosenborg               34 | 12  28-14      | 10  12-17      | 22  40-31
+6   Lillestrom              33 | 11  19-17      | 11  11-14      | 22  30-31
+7   Brann                   29 | 12  20-18      | 10  19-16      | 22  39-34
+8   Fredrikstad             29 | 11  14-12      | 11  12-21      | 22  26-33
+9   Sarpsborg 08 FF         28 | 10  12-12      | 12  16-19      | 22  28-31
+10  Ham-Kam                 26 | 10  17-19      | 12  16-27      | 22  33-46
+11  KFUM Oslo               25 | 11  13-13      | 10  12-22      | 21  25-35
+12  Sandefjord              24 | 11  10-10      | 11  12-18      | 22  22-28
+13  Valerenga               23 | 11  20-19      | 10  14-24      | 21  34-43
+14  Aalesund                21 | 12  24-30      | 10  11-20      | 22  35-50
+15  Kristiansund BK         19 | 10  13-14      | 12   9-29      | 22  22-43
+16  Start                   16 | 11  14-19      | 11  10-29      | 22  24-48
+
+(Valerenga: same table as KFUM Oslo, shown above)
+
+(26 API-Football requests used)
+
+----------------------------------------------------------------------
+MATCHBOOK: skipped (switched off for this run)

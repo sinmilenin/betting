@@ -1,0 +1,86 @@
+MATCH Pyramids FC v Ceramica Cleopatra | fetched 2026-10-12 15:22 local
+
+FORM DATA Pyramids FC v Ceramica Cleopatra | source API-Football | 2026-10-12 15:23 UTC
+H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
+
+=== Pyramids FC (id 1036): last 20 finished games ===
+2026-10-07 H 3-2 v Olympic El Qanah | League Cup | Cairo
+2026-09-17 A 2-1 v Enppi | Premier League | Cairo
+2026-09-13 H 5-1 v GOR Mahia | CAF Champions League | Cairo
+2026-09-09 H 1-0 v El Gouna FC | Premier League | Cairo | xG 1.96-0.07
+2026-09-06 A 2-0 v GOR Mahia | CAF Champions League | ?
+2026-08-31 A 1-0 v AL Masry | Premier League | Alexandria | xG 0.51-0.54
+2026-08-27 H 2-0 v Abu Qair Semad | Premier League | Cairo | xG 0.62-0.11
+2026-08-22 A 3-0 v Ghazl El Mehalla | Premier League | El Mahalla El Kubra | xG 1.61-0.30
+2026-08-08 A 1-2 v Rizespor | Friendlies Clubs | ?
+2026-05-20 H 2-1 v Smouha SC | Premier League | Cairo | xG 2.52-0.55
+2026-05-10 A 2-1 v Masr | Cup | Cairo
+2026-05-05 A 1-1 v Ceramica Cleopatra | Premier League | Ismailia
+2026-05-01 H 3-2 v Enppi | Premier League | Cairo
+2026-04-27 H 3-0 v Al Ahly | Premier League | Cairo
+2026-04-23 A 0-1 v Zamalek SC | Premier League | Cairo
+2026-04-11 H 1-1 v AL Masry | Premier League | Suez
+2026-04-03 A 4-0 v Enppi | Cup | Cairo
+2026-03-21 H 1-2 v FAR Rabat | CAF Champions League | Cairo
+2026-03-17 A 2-0 v Petrojet | Cup | Cairo
+2026-03-13 A 1-1 v FAR Rabat | CAF Champions League | Rabat
+Listed home: 9 games, scored 21 (2.33), conceded 9 (1.00), blanks 0, clean sheets 3
+Listed away: 11 games, scored 19 (1.73), conceded 7 (0.64), blanks 1, clean sheets 5
+All: 20 games, scored 40 (2.00), conceded 16 (0.80), blanks 1, clean sheets 8
+
+=== Ceramica Cleopatra (id 14651): last 20 finished games ===
+2026-10-07 H 0-1 v AL Masry | League Cup | Cairo
+2026-09-14 H 2-0 v National Bank of Egypt | Premier League | Cairo | xG 0.44-0.70
+2026-09-08 A 2-0 v Smouha SC | Premier League | ? | xG 0.55-0.62
+2026-09-02 H 2-0 v Future FC | Premier League | Cairo | xG 1.62-0.85
+2026-08-28 A 3-1 v Al Ittihad | Premier League | Alexandria | xG 1.14-1.05
+2026-08-23 H 1-2 v Olympic El Qanah | Premier League | Cairo | xG 2.35-1.46
+2026-05-20 A 0-1 v Zamalek SC | Premier League | Cairo | xG 0.99-1.55
+2026-05-05 H 1-1 v Pyramids FC | Premier League | Ismailia | xG 0.66-0.53
+2026-05-01 H 0-1 v AL Masry | Premier League | Alexandria | xG 0.15-0.39
+2026-04-22 A 2-0 v Smouha SC | Premier League | Alexandria | xG 0.73-0.82
+2026-04-11 A 1-1 v Enppi | Premier League | Cairo
+2026-04-07 H 1-1 v Al Ahly | Premier League | Cairo
+2026-03-13 H 0-0 v El Geish | Cup | Cairo [PEN, 90-min score shown]
+2026-03-05 H 2-2 v National Bank of Egypt | Premier League | Ismailia
+2026-02-28 A 1-1 v Wadi Degla | Premier League | Cairo
+2026-02-24 H 1-1 v Ismaily SC | Premier League | Cairo
+2026-02-20 A 0-1 v Pyramids FC | Premier League | Cairo
+2026-02-17 A 2-1 v Zamalek SC | Cup | Ismailia
+2026-02-05 H 3-2 v Ghazl El Mehalla | Premier League | Cairo
+2026-01-28 A 2-3 v AL Masry | Premier League | Alexandria
+Listed home: 11 games, scored 13 (1.18), conceded 11 (1.00), blanks 3, clean sheets 3
+Listed away: 9 games, scored 13 (1.44), conceded 9 (1.00), blanks 2, clean sheets 2
+All: 20 games, scored 26 (1.30), conceded 20 (1.00), blanks 5, clean sheets 5
+
+TABLE FOR Pyramids FC
+LEAGUE TABLE Premier League 2026 | 20 teams | 52 games played
+League averages per game: home 0.94, away 1.12, total 2.06
+#   team                   Pts | home P GF-GA  | away P GF-GA  | all P GF-GA
+1   Al Ahly                 16 |  3   6-2       |  3   5-1       |  6  11-3
+2   Pyramids FC             15 |  2   3-0       |  3   6-1       |  5   9-1
+3   Zamalek SC              13 |  4   4-3       |  2   4-0       |  6   8-3
+4   Ceramica Cleopatra      12 |  3   5-2       |  2   5-1       |  5  10-3
+5   Future FC               10 |  2   4-1       |  3   3-3       |  5   7-4
+6   Al Ittihad              10 |  2   2-3       |  3   4-0       |  5   6-3
+7   El Mokawloon             7 |  2   3-4       |  3   3-1       |  5   6-5
+8   Petrojet                 7 |  2   4-4       |  3   4-4       |  5   8-8
+9   Olympic El Qanah         7 |  3   3-3       |  3   3-3       |  6   6-6
+10  El Geish                 7 |  3   1-2       |  2   4-3       |  5   5-5
+11  Masr                     7 |  2   2-3       |  3   2-2       |  5   4-5
+12  AL Masry                 7 |  3   1-3       |  3   5-5       |  6   6-8
+13  National Bank of Egypt   6 |  2   3-4       |  3   1-3       |  5   4-7
+14  Wadi Degla               5 |  3   0-2       |  2   4-3       |  5   4-5
+15  Enppi                    4 |  3   4-6       |  2   2-3       |  5   6-9
+16  Smouha SC                4 |  2   0-2       |  3   1-2       |  5   1-4
+17  Abu Qair Semad           3 |  2   1-2       |  3   0-6       |  5   1-8
+18  El Gouna FC              2 |  3   2-4       |  2   1-2       |  5   3-6
+19  Asyut Petrol             2 |  3   1-4       |  2   0-1       |  5   1-5
+20  Ghazl El Mehalla         1 |  3   0-4       |  2   1-5       |  5   1-9
+
+(Ceramica Cleopatra: same table as Pyramids FC, shown above)
+
+(26 API-Football requests used)
+
+----------------------------------------------------------------------
+MATCHBOOK: skipped (switched off for this run)
