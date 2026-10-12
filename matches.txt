@@ -1,2 +1,2 @@
-# Monday 12 Oct 2026 (times Europe/Ljubljana) - scheduled Orbit scan 19:41: GKS Katowice v Wieczysta Krakow 20:30, Ekstraklasa (Wieczysta by id: 17115 Wieczysta Krakow, the name was ambiguous)
-GKS Katowice v id:17115 | n=20 | xg=10
+# Monday 12 Oct 2026 (times Europe/Ljubljana) - scheduled Orbit scan 20:25: Universidad de Chile v Nublense 22:00, Chilean Primera Division
+Universidad de Chile v Nublense | n=20 | xg=10
