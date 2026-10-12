@@ -1,7 +1,3 @@
-# Monday 12 Oct 2026 (times Europe/Ljubljana) - top 5 on Orbit by matched amount
-# Atalanta v Venezia 18:30 | Coventry v Newcastle 21:00 | Torino v Udinese 20:45 | Levante v Sevilla 21:00 | Oviedo v Eibar 18:30
-Atalanta v Venezia | n=20 | xg=10
-Coventry v Newcastle | n=20 | xg=10
-Torino v Udinese | n=20 | xg=10
-Levante v Sevilla | n=20 | xg=10
-Oviedo v Eibar | n=20 | xg=10
+# Monday 12 Oct 2026 (times Europe/Ljubljana)
+# Croatia U19 (W) v Poland U19 (W), Women's U19 international friendly, 11:00
+Croatia U19 W v Poland U19 W | n=20 | xg=10
