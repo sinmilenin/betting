@@ -1,5 +1,6 @@
-RUN 2026-10-13 14:42 local | 3 match(es)
-Norway W v Romania W -> out/Norway_W_v_Romania_W.txt
-Simba v Mashujaa -> out/Simba_v_Mashujaa.txt
-Italy W v Belarus W -> out/Italy_W_v_Belarus_W.txt
-Requests used: API-Football 75, Matchbook 0
+RUN 2026-10-13 15:27 local | 2 match(es)
+Sabah v Slavia Prague -> out/Sabah_v_Slavia_Prague.txt
+    !! Sabah: Ambiguous team name "Sabah".
+    !! Slavia Prague: No team found for "Slavia Prague".
+Lens v Sporting CP -> out/Lens_v_Sporting_CP.txt
+Requests used: API-Football 28, Matchbook 0

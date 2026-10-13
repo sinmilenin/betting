@@ -1,0 +1,21 @@
+MATCH Sabah v Slavia Prague | fetched 2026-10-13 15:27 local
+
+FORM DATA Sabah v Slavia Prague | source API-Football | 2026-10-13 15:27 UTC
+H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
+
+"Sabah" matches several teams. Use id:<number> instead of the name:
+  id:2505   Sabah FA (Malaysia)
+  id:5496   Sabah II (Azerbaijan)
+  id:13976  Sabah FA (Azerbaijan)
+  id:24893  Sabah W (Azerbaijan)
+  id:24986  Sabah U19 (Azerbaijan)
+  id:25513  Sabah U23 (Malaysia)
+  id:27454  Assabah SC (Libya)
+!! Sabah: Ambiguous team name "Sabah".
+
+!! Slavia Prague: No team found for "Slavia Prague".
+
+(2 API-Football requests used)
+
+----------------------------------------------------------------------
+MATCHBOOK: skipped (switched off for this run)
