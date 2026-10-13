@@ -1,3 +1,3 @@
-RUN 2026-10-12 20:51 local | 1 match(es)
-id:132 v Atletico Paranaense -> out/id_132_v_Atletico_Paranaense.txt
-Requests used: API-Football 25, Matchbook 0
+RUN 2026-10-13 06:27 local | 1 match(es)
+Newcastle Jets v Gamba Osaka -> out/Newcastle_Jets_v_Gamba_Osaka.txt
+Requests used: API-Football 26, Matchbook 0

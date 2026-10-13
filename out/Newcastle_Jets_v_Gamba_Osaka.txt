@@ -1,0 +1,121 @@
+MATCH Newcastle Jets v Gamba Osaka | fetched 2026-10-13 06:27 local
+
+FORM DATA Newcastle Jets v Gamba Osaka | source API-Football | 2026-10-13 06:27 UTC
+H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
+
+=== Newcastle Jets (id 946): last 20 finished games ===
+2026-09-15 A 1-7 v Kashima | AFC Champions League Elite | Kashima
+2026-07-21 A 2-3 v Preston Lions | Australia Cup | Melbourne
+2026-05-16 H 1-1 v Sydney | A-League | Newcastle | xG 2.10-2.68 [PEN, 90-min score shown]
+2026-05-09 A 1-1 v Sydney | A-League | Sydney | xG 0.41-1.12
+2026-04-25 H 4-0 v Central Coast Mariners | A-League | Newcastle | xG 3.06-0.40
+2026-04-17 A 2-2 v Melbourne Victory | A-League | Melbourne | xG 2.16-2.18
+2026-04-11 H 1-1 v Adelaide United | A-League | Newcastle | xG 1.71-1.31
+2026-04-02 A 2-3 v Macarthur | A-League | Sydney | xG 1.14-1.38
+2026-03-22 A 2-1 v Sydney | A-League | Sydney | xG 2.52-2.01
+2026-03-14 H 1-2 v Auckland | A-League | Newcastle | xG 0.29-2.83
+2026-03-07 H 2-1 v Western Sydney Wanderers | A-League | Newcastle
+2026-02-28 A 0-0 v Central Coast Mariners | A-League | Gosford
+2026-02-22 H 1-0 v Macarthur | A-League | Newcastle
+2026-02-13 A 3-1 v Perth Glory | A-League | Perth
+2026-02-08 A 3-2 v Adelaide United | A-League | Adelaide
+2026-01-31 H 4-1 v Brisbane Roar | A-League | Newcastle
+2026-01-23 H 4-1 v Wellington Phoenix | A-League | Newcastle
+2026-01-17 A 2-1 v Western Sydney Wanderers | A-League | Sydney
+2026-01-11 A 1-0 v Melbourne City | A-League | Melbourne
+2026-01-01 A 3-1 v Auckland | A-League | Auckland
+Listed home: 8 games, scored 18 (2.25), conceded 7 (0.88), blanks 0, clean sheets 2
+Listed away: 12 games, scored 22 (1.83), conceded 22 (1.83), blanks 1, clean sheets 2
+All: 20 games, scored 40 (2.00), conceded 29 (1.45), blanks 1, clean sheets 4
+
+=== Gamba Osaka (id 293): last 20 finished games ===
+2026-10-09 A 0-2 v Kashima | J1 League | Kashima | xG 1.71-1.24
+2026-10-03 A 3-3 v Kashiwa Reysol | J-League Cup | Kashiwa [AET, 90-min score shown]
+2026-09-23 H 5-0 v Tokushima Vortis | Emperor Cup | Suita
+2026-09-20 H 0-1 v Vissel Kobe | J1 League | Suita | xG 2.02-1.33
+2026-09-15 H 4-1 v Công An Nhân Dân | AFC Champions League Elite | Suita
+2026-09-12 H 0-2 v FC Tokyo | J1 League | Suita | xG 1.12-2.94
+2026-09-06 A 0-2 v JEF United Chiba | J1 League | Chiba | xG 1.52-1.57
+2026-09-02 A 2-2 v V-varen Nagasaki | J1 League | Nagasaki | xG 1.66-3.69
+2026-08-29 H 0-0 v Sanfrecce Hiroshima | J1 League | Suita | xG 0.95-2.08
+2026-08-26 H 2-0 v Biwako Shiga | Emperor Cup | Suita
+2026-08-22 A 1-3 v Nagoya Grampus | J1 League | Toyota City
+2026-08-15 A 1-1 v Mito Hollyhock | J1 League | Mito
+2026-08-11 A 0-0 v Gangwon FC | AFC Champions League Elite | Gangneung [AET, 90-min score shown]
+2026-08-07 H 4-3 v Urawa | J1 League | Suita
+2026-07-24 A 6-0 v Kanazawa | Friendlies Clubs | ?
+2026-07-15 A 3-0 v Red Bull Salzburg | Friendlies Clubs | ?
+2026-07-11 A 0-3 v Sparta Praha | Friendlies Clubs | ?
+2026-06-06 A 4-2 v Tokyo Verdy | J1 League | Tokyo
+2026-05-30 H 1-1 v Tokyo Verdy | J1 League | Suita
+2026-05-24 A 2-1 v Shimizu S-pulse | J1 League | Shizuoka
+Listed home: 8 games, scored 16 (2.00), conceded 8 (1.00), blanks 3, clean sheets 3
+Listed away: 12 games, scored 22 (1.83), conceded 19 (1.58), blanks 4, clean sheets 3
+All: 20 games, scored 38 (1.90), conceded 27 (1.35), blanks 7, clean sheets 6
+
+TABLE FOR Newcastle Jets
+LEAGUE TABLE AFC Champions League Elite 2026 | 32 teams | 22 games played
+League averages per game: home 2.05, away 1.27, total 3.32
+#   team                   Pts | home P GF-GA  | away P GF-GA  | all P GF-GA
+1   Al Ain                   6 |  1   4-0       |  1   4-1       |  2   8-1 [West Region]
+2   Esteghlal FC             6 |  1   3-0       |  1   2-1       |  2   5-1 [West Region]
+3   Al-Ahli Jeddah           4 |  1   1-1       |  1   3-1       |  2   4-2 [West Region]
+4   Al-Qadisiyah FC          4 |  1   2-1       |  1   1-1       |  2   3-2 [West Region]
+5   Al-Hilal Saudi FC        3 |  1   2-1       |  0   0-0       |  1   2-1 [West Region]
+6   Shabab Al Ahli Dubai     3 |  1   1-0       |  0   0-0       |  1   1-0 [West Region]
+7   Neftchi                  3 |  1   1-0       |  1   1-3       |  2   2-3 [West Region]
+8   Al-Nassr                 3 |  1   3-1       |  1   0-4       |  2   3-5 [West Region]
+9   Pakhtakor                2 |  1   1-1       |  1   1-1       |  2   2-2 [West Region]
+10  Al Shamal                2 |  1   1-1       |  1   0-0       |  2   1-1 [West Region]
+11  Al-Ittihad FC            1 |  0   0-0       |  1   1-1       |  1   1-1 [West Region]
+12  Tractor Sazi             1 |  1   0-0       |  1   0-1       |  2   0-1 [West Region]
+13  Al-Gharafa               0 |  1   1-2       |  1   1-2       |  2   2-4 [West Region]
+14  Al-Wasl FC               0 |  1   1-3       |  1   1-2       |  2   2-5 [West Region]
+15  Al Sadd                  0 |  0   0-0       |  1   0-3       |  1   0-3 [West Region]
+16  Al Quwa Al Jawiya        0 |  1   1-4       |  1   0-1       |  2   1-5 [West Region]
+1   Kashima                  3 |  1   7-1       |  0   0-0       |  1   7-1 [East Region]
+2   Gamba Osaka              3 |  1   4-1       |  0   0-0       |  1   4-1 [East Region]
+3   SHANGHAI SIPG            3 |  0   0-0       |  1   6-4       |  1   6-4 [East Region]
+4   Beijing Guoan            3 |  1   3-1       |  0   0-0       |  1   3-1 [East Region]
+5   Vissel Kobe              3 |  0   0-0       |  1   2-1       |  1   2-1 [East Region]
+6   Jeonbuk Motors           3 |  1   2-1       |  0   0-0       |  1   2-1 [East Region]
+7   Daejeon Citizen          3 |  1   1-0       |  0   0-0       |  1   1-0 [East Region]
+8   Buriram United           1 |  0   0-0       |  1   1-1       |  1   1-1 [East Region]
+9   Johor Darul Takzim FC    1 |  1   1-1       |  0   0-0       |  1   1-1 [East Region]
+10  Kashiwa Reysol           0 |  0   0-0       |  1   1-2       |  1   1-2 [East Region]
+11  Port FC                  0 |  1   1-2       |  0   0-0       |  1   1-2 [East Region]
+12  Kyoto Sanga              0 |  0   0-0       |  1   0-1       |  1   0-1 [East Region]
+13  Ratchaburi               0 |  1   4-6       |  0   0-0       |  1   4-6 [East Region]
+14  Pohang Steelers          0 |  0   0-0       |  1   1-3       |  1   1-3 [East Region]
+15  Công An Nhân Dân         0 |  0   0-0       |  1   1-4       |  1   1-4 [East Region]
+16  Newcastle Jets           0 |  0   0-0       |  1   1-7       |  1   1-7 [East Region]
+
+TABLE FOR Gamba Osaka
+LEAGUE TABLE J1 League 2027 | 20 teams | 90 games played
+League averages per game: home 1.57, away 1.34, total 2.91
+#   team                   Pts | home P GF-GA  | away P GF-GA  | all P GF-GA
+1   Kashiwa Reysol          21 |  4  10-7       |  5  11-7       |  9  21-14
+2   Sanfrecce Hiroshima     20 |  4  13-2       |  5   9-4       |  9  22-6
+3   Machida Zelvia          20 |  4   8-7       |  5  14-3       |  9  22-10
+4   FC Tokyo                20 |  5   9-5       |  4   8-3       |  9  17-8
+5   Vissel Kobe             19 |  4   8-4       |  5   6-5       |  9  14-9
+6   Kashima                 16 |  4   7-4       |  5  12-12      |  9  19-16
+7   Yokohama F. Marinos     15 |  4   7-5       |  5   6-4       |  9  13-9
+8   Kawasaki Frontale       13 |  5  13-10      |  4   4-4       |  9  17-14
+9   Fagiano Okayama         13 |  4   5-4       |  5   7-8       |  9  12-12
+10  Shimizu S-pulse         13 |  5   4-4       |  4   4-5       |  9   8-9
+11  Urawa                   12 |  4   8-9       |  5   8-12      |  9  16-21
+12  Cerezo Osaka            12 |  5   5-1       |  4   2-11      |  9   7-12
+13  Mito Hollyhock           9 |  5   7-7       |  4   5-6       |  9  12-13
+14  V-varen Nagasaki         9 |  5   7-7       |  4   4-9       |  9  11-16
+15  Nagoya Grampus           9 |  4   6-6       |  5   3-9       |  9   9-15
+16  Kyoto Sanga              8 |  4   5-8       |  5   6-8       |  9  11-16
+17  Avispa Fukuoka           7 |  6   8-7       |  3   3-6       |  9  11-13
+18  Gamba Osaka              6 |  4   4-6       |  5   4-10      |  9   8-16
+19  JEF United Chiba         5 |  4   4-7       |  5   4-12      |  9   8-19
+20  Tokyo Verdy              4 |  6   3-11      |  3   1-3       |  9   4-14
+
+(26 API-Football requests used)
+
+----------------------------------------------------------------------
+MATCHBOOK: skipped (switched off for this run)
