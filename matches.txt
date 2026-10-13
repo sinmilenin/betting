@@ -1,3 +1,2 @@
-# Match list 13 Oct 11:27 (scan): AFC Champions League
-Shanghai Port v Daejeon Citizen | n=20 | xg=10
-Kyoto Sanga v Ratchaburi | n=20 | xg=10
+# Match list 13 Oct 11:30 (scan): retry - first run picked Shanghai Port II (reserves)
+Shanghai SIPG v Daejeon Citizen | n=20 | xg=10
