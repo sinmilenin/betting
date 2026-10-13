@@ -1,3 +1,4 @@
 RUN 2026-10-13 08:42 local | 1 match(es)
-Pohang Steelers v Johor Darul Tazim -> out/Pohang_Steelers_v_Johor_Darul_Tazim.txt
-Requests used: API-Football 26, Matchbook 0
+Pohang Steelers v Johor -> out/Pohang_Steelers_v_Johor.txt
+    !! Johor: Ambiguous team name "Johor".
+Requests used: API-Football 15, Matchbook 0
