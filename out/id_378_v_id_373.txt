@@ -1,20 +1,20 @@
-MATCH id:378 v id:373 | fetched 2026-10-13 18:49 local
+MATCH id:378 v id:373 | fetched 2026-10-13 19:02 local
 
-FORM DATA id:378 v id:373 | source API-Football | 2026-10-13 18:49 UTC
+FORM DATA id:378 v id:373 | source API-Football | 2026-10-13 19:02 UTC
 H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
 
 === IFK Norrkoping (id 378): last 3 finished games ===
+2026-10-13 H 4-0 v GIF Sundsvall | Superettan | Norrköping
 2026-10-06 H 0-0 v Kalmar FF | Friendlies Clubs | ?
 2026-09-19 A 3-1 v Osters IF | Superettan | Växjö
-2026-09-13 H 0-0 v Oddevold | Superettan | Norrkoping
-Listed home: 2 games, scored 0 (0.00), conceded 0 (0.00), blanks 2, clean sheets 2
+Listed home: 2 games, scored 4 (2.00), conceded 0 (0.00), blanks 1, clean sheets 2
 Listed away: 1 games, scored 3 (3.00), conceded 1 (1.00), blanks 0, clean sheets 0
-All: 3 games, scored 3 (1.00), conceded 1 (0.33), blanks 2, clean sheets 2
+All: 3 games, scored 7 (2.33), conceded 1 (0.33), blanks 1, clean sheets 2
 
 === GIF Sundsvall (id 373): last 3 finished games ===
+2026-10-13 A 0-4 v IFK Norrkoping | Superettan | Norrköping
 2026-10-03 A 0-1 v Sandviken | Friendlies Clubs | ?
 2026-09-20 H 3-2 v Ljungskile SK | Superettan | Sundsvall
-2026-09-15 A 0-4 v Landskrona BoIS | Superettan | Landskrona
 Listed home: 1 games, scored 3 (3.00), conceded 2 (2.00), blanks 0, clean sheets 0
 Listed away: 2 games, scored 0 (0.00), conceded 5 (2.50), blanks 2, clean sheets 0
 All: 3 games, scored 3 (1.00), conceded 7 (2.33), blanks 2, clean sheets 0

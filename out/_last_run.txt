@@ -1,7 +1,4 @@
-RUN 2026-10-13 18:49 local | 5 match(es)
-id:6432 v Mashujaa -> out/id_6432_v_Mashujaa.txt
-Lens v Sporting CP -> out/Lens_v_Sporting_CP.txt
-id:13976 v Slavia Praha -> out/id_13976_v_Slavia_Praha.txt
+RUN 2026-10-13 19:02 local | 2 match(es)
 id:378 v id:373 -> out/id_378_v_id_373.txt
 Pendikspor v Vanspor -> out/Pendikspor_v_Vanspor.txt
-Requests used: API-Football 24, Matchbook 0
+Requests used: API-Football 10, Matchbook 0
