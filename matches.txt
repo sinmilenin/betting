@@ -1,2 +1,6 @@
-# Match list 13 Oct 20:01 (results check: Simba v Mashujaa)
-Simba v Mashujaa | n=3 | xg=0
+# 13 Oct results check (Simba, Lens, Sabah, Norrkoping, Pendikspor)
+id:6432 v Mashujaa | n=3 | xg=0
+Lens v Sporting CP | n=3 | xg=0
+id:13976 v Slavia Praha | n=3 | xg=0
+id:378 v id:373 | n=3 | xg=0
+Pendikspor v Vanspor | n=3 | xg=0
