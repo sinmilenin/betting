@@ -1,4 +1,3 @@
-RUN 2026-10-13 09:26 local | 2 match(es)
-Shanghai Port v Daejeon Citizen -> out/Shanghai_Port_v_Daejeon_Citizen.txt
-Kyoto Sanga v Ratchaburi -> out/Kyoto_Sanga_v_Ratchaburi.txt
-Requests used: API-Football 52, Matchbook 0
+RUN 2026-10-13 09:27 local | 1 match(es)
+Shanghai SIPG v Daejeon Citizen -> out/Shanghai_SIPG_v_Daejeon_Citizen.txt
+Requests used: API-Football 26, Matchbook 0
