@@ -1,2 +1,2 @@
-# Tuesday 13 Oct 2026 (times Europe/Ljubljana) - scheduled Orbit scan 10:41: Pohang Steelers v Johor Darul Ta'zim 12:00 (AFC Champions League)
-Pohang Steelers v Johor Darul Tazim | n=20 | xg=10
+# Tuesday 13 Oct 2026 (times Europe/Ljubljana) - scheduled Orbit scan 10:41: Pohang Steelers v Johor Darul Ta'zim 12:00 (AFC Champions League) - retry, first run picked Johor Darul Tazim II
+Pohang Steelers v Johor | n=20 | xg=10
