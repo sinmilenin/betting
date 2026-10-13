@@ -1,19 +1,7 @@
-RUN 2026-10-13 17:43 local | 12 match(es)
-Gillingham v Brighton U21 -> out/Gillingham_v_Brighton_U21.txt
-Reading v Chelsea U21 -> out/Reading_v_Chelsea_U21.txt
-Al-Ittihad v Shabab Al Ahli -> out/Al_Ittihad_v_Shabab_Al_Ahli.txt
-    !! Al-Ittihad: API-Football error: {"search": "The Search field may only contain alpha-numeric characters and spaces."}
-Birmingham v Preston -> out/Birmingham_v_Preston.txt
-Stoke v Middlesbrough -> out/Stoke_v_Middlesbrough.txt
-    !! Stoke: Ambiguous team name "Stoke".
-Villarreal v Napoli -> out/Villarreal_v_Napoli.txt
-RB Leipzig v PSV Eindhoven -> out/RB_Leipzig_v_PSV_Eindhoven.txt
-Inter v Club Brugge -> out/Inter_v_Club_Brugge.txt
-    !! Inter: Ambiguous team name "Inter".
-    !! Club Brugge: Ambiguous team name "Club Brugge".
-Atletico Madrid v Manchester United -> out/Atletico_Madrid_v_Manchester_United.txt
-Galatasaray v Barcelona -> out/Galatasaray_v_Barcelona.txt
-Viking v Bayern Munich -> out/Viking_v_Bayern_Munich.txt
-Arsenal v Lille -> out/Arsenal_v_Lille.txt
-    !! Lille: Ambiguous team name "Lille".
-Requests used: API-Football 251, Matchbook 0
+RUN 2026-10-13 17:45 local | 5 match(es)
+id:75 v Middlesbrough -> out/id_75_v_Middlesbrough.txt
+id:505 v id:569 -> out/id_505_v_id_569.txt
+id:42 v id:79 -> out/id_42_v_id_79.txt
+Viking v id:157 -> out/Viking_v_id_157.txt
+id:2938 v Shabab Al Ahli -> out/id_2938_v_Shabab_Al_Ahli.txt
+Requests used: API-Football 130, Matchbook 0

@@ -1,6 +1,6 @@
-MATCH Viking v Bayern Munich | fetched 2026-10-13 17:43 local
+MATCH Viking v id:157 | fetched 2026-10-13 17:45 local
 
-FORM DATA Viking v Bayern Munich | source API-Football | 2026-10-13 17:44 UTC
+FORM DATA Viking v id:157 | source API-Football | 2026-10-13 17:46 UTC
 H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
 
 === Viking (id 759): last 20 finished games ===
@@ -28,30 +28,30 @@ Listed home: 7 games, scored 26 (3.71), conceded 8 (1.14), blanks 0, clean sheet
 Listed away: 13 games, scored 22 (1.69), conceded 14 (1.08), blanks 1, clean sheets 3
 All: 20 games, scored 48 (2.40), conceded 22 (1.10), blanks 1, clean sheets 4
 
-=== Bayern Munich W (id 1860): last 20 finished games ===
-2026-10-03 A 1-0 v Eintracht Frankfurt W | Frauen Bundesliga | Frankfurt
-2026-09-30 A 3-0 v SL Benfica W | UEFA Champions League Women | Lisbon
-2026-09-27 A 2-1 v Borussia Monchengladbach W | DFB Pokal - Women | ?
-2026-09-22 H 2-2 v Manchester City W | UEFA Champions League Women | Munich
-2026-09-19 H 5-2 v FC Koln W | Frauen Bundesliga | Munich
-2026-09-14 A 3-2 v Bayer Leverkusen W | Frauen Bundesliga | Leverkusen
-2026-09-06 H 4-1 v SC Freiburg W | Frauen Bundesliga | Munich
-2026-08-31 H 2-0 v Mainz 05 W | Frauen Bundesliga | Munich | xG 2.72-0.18
-2026-08-21 A 4-1 v Union Berlin W | Frauen Bundesliga | Berlin | xG 1.04-0.76
-2026-08-15 H 3-0 v VfL Wolfsburg W | Supercup der Frauen | Ingolstadt
-2026-05-17 A 1-0 v Hamburger SV W | Frauen Bundesliga | Hamburg
-2026-05-14 A 4-0 v VfL Wolfsburg W | DFB Pokal - Women | Cologne
-2026-05-09 H 2-0 v Eintracht Frankfurt W | Frauen Bundesliga | Munich
-2026-05-06 H 1-1 v 1899 Hoffenheim W | Frauen Bundesliga | Munich
-2026-05-03 A 2-4 v Barcelona W | UEFA Champions League Women | Barcelona
-2026-04-29 A 2-0 v Werder Bremen W | Frauen Bundesliga | Bremen
-2026-04-25 H 1-1 v Barcelona W | UEFA Champions League Women | Munich
-2026-04-22 A 3-2 v Union Berlin W | Frauen Bundesliga | Berlin
-2026-04-06 H 4-0 v SGS Essen W | DFB Pokal - Women | Munich
-2026-04-01 H 2-1 v Manchester United W | UEFA Champions League Women | Munich
-Listed home: 10 games, scored 26 (2.60), conceded 8 (0.80), blanks 0, clean sheets 4
-Listed away: 10 games, scored 25 (2.50), conceded 10 (1.00), blanks 0, clean sheets 5
-All: 20 games, scored 51 (2.55), conceded 18 (0.90), blanks 0, clean sheets 9
+=== Bayern München (id 157): last 20 finished games ===
+2026-10-10 A 2-2 v FC Augsburg | Bundesliga | Augsburg | xG 4.96-2.37
+2026-09-18 H 7-0 v Union Berlin | Bundesliga | Munich | xG 3.71-0.34
+2026-09-13 A 2-1 v SV Elversberg | Bundesliga | Spiesen-Elversberg | xG 2.83-0.94
+2026-09-10 H 5-0 v Bodo/Glimt | UEFA Champions League | Munich
+2026-09-05 A 0-0 v FC Schalke 04 | Bundesliga | Gelsenkirchen | xG 1.94-0.21
+2026-09-02 A 4-1 v VfL Osnabrück | DFB Pokal | Osnabruck
+2026-08-28 H 5-1 v VfB Stuttgart | Bundesliga | Munich | xG 4.06-0.79
+2026-08-22 A 2-1 v Borussia Dortmund | Super Cup | ?
+2026-08-18 A 4-2 v 1. FC Heidenheim | Friendlies Clubs | Heidenheim
+2026-08-15 H 3-1 v RB Leipzig | Friendlies Clubs | Munich
+2026-08-07 H 2-1 v Aston Villa | Friendlies Clubs | Hongkong
+2026-08-04 A 2-1 v Jeju United FC | Friendlies Clubs | Seogwipo
+2026-07-25 A 1-2 v SV Wehen | Friendlies Clubs | Wiesbaden
+2026-05-23 H 3-0 v VfB Stuttgart | DFB Pokal | Berlin
+2026-05-16 H 5-1 v 1. FC Köln | Bundesliga | Munich
+2026-05-09 A 1-0 v VfL Wolfsburg | Bundesliga | Wolfsburg
+2026-05-06 H 1-1 v Paris Saint Germain | UEFA Champions League | Munich
+2026-05-02 H 3-3 v 1. FC Heidenheim | Bundesliga | Munich
+2026-04-28 A 4-5 v Paris Saint Germain | UEFA Champions League | Paris
+2026-04-25 A 4-3 v FSV Mainz 05 | Bundesliga | Mainz
+Listed home: 9 games, scored 34 (3.78), conceded 8 (0.89), blanks 0, clean sheets 3
+Listed away: 11 games, scored 26 (2.36), conceded 18 (1.64), blanks 1, clean sheets 2
+All: 20 games, scored 60 (3.00), conceded 26 (1.30), blanks 1, clean sheets 5
 
 TABLE FOR Viking
 LEAGUE TABLE Eliteserien 2026 | 16 teams | 176 games played
@@ -74,24 +74,28 @@ League averages per game: home 1.84, away 1.35, total 3.18
 15  Kristiansund BK         19 | 10  13-14      | 12   9-29      | 22  22-43
 16  Start                   16 | 11  14-19      | 11  10-29      | 22  24-48
 
-TABLE FOR Bayern Munich W
-LEAGUE TABLE Frauen Bundesliga 2026 | 14 teams | 42 games played
-League averages per game: home 1.79, away 1.62, total 3.40
+TABLE FOR Bayern München
+LEAGUE TABLE Bundesliga 2026 | 18 teams | 45 games played
+League averages per game: home 2.36, away 1.47, total 3.82
 #   team                   Pts | home P GF-GA  | away P GF-GA  | all P GF-GA
-1   Bayern Munich W         18 |  3  11-3       |  3   8-3       |  6  19-6
-2   VfL Wolfsburg W         15 |  2   5-3       |  4  13-5       |  6  18-8
-3   Eintracht Frankfurt W   13 |  4   7-4       |  2   4-2       |  6  11-6
-4   Bayer Leverkusen W      12 |  3   6-7       |  3   6-2       |  6  12-9
-5   Werder Bremen W         10 |  3   4-1       |  3   6-7       |  6  10-8
-6   SC Freiburg W           10 |  3   5-2       |  3   3-5       |  6   8-7
-7   FC Koln W                9 |  3   4-1       |  3   6-7       |  6  10-8
-8   Stuttgart W              8 |  3   2-7       |  3   6-5       |  6   8-12
-9   RB Leipzig W             7 |  3   7-3       |  3   3-6       |  6  10-9
-10  Union Berlin W           6 |  3   4-7       |  3   4-4       |  6   8-11
-11  1899 Hoffenheim W        6 |  3   4-5       |  3   4-6       |  6   8-11
-12  Hamburger SV W           5 |  3   7-3       |  3   2-5       |  6   9-8
-13  Nürnberg W               2 |  3   6-13      |  3   3-8       |  6   9-21
-14  Mainz 05 W               0 |  3   3-9       |  3   0-10      |  6   3-19
+1   SC Freiburg             13 |  3  11-2       |  2   3-2       |  5  14-4
+2   Borussia Dortmund       13 |  3   7-2       |  2   4-2       |  5  11-4
+3   Bayern München          11 |  2  12-1       |  3   4-3       |  5  16-4
+4   Bayer Leverkusen        10 |  2   6-0       |  3   8-8       |  5  14-8
+5   RB Leipzig               9 |  3  14-0       |  2   1-5       |  5  15-5
+6   FC Augsburg              8 |  3   7-4       |  2   6-4       |  5  13-8
+7   Werder Bremen            8 |  2   6-3       |  3   4-7       |  5  10-10
+8   FSV Mainz 05             7 |  3   4-7       |  2   9-3       |  5  13-10
+9   SV Elversberg            7 |  2   4-4       |  3   4-4       |  5   8-8
+10  1. FC Köln               7 |  3   6-4       |  2   2-6       |  5   8-10
+11  VfB Stuttgart            6 |  2   4-2       |  3   4-7       |  5   8-9
+12  Hamburger SV             6 |  2   2-6       |  3   3-9       |  5   5-15
+13  FC Schalke 04            5 |  2   0-0       |  3   4-6       |  5   4-6
+14  Eintracht Frankfurt      5 |  2   3-6       |  3   6-10      |  5   9-16
+15  SC Paderborn 07          4 |  3   3-4       |  2   0-3       |  5   3-7
+16  Union Berlin             4 |  3   5-6       |  2   0-11      |  5   5-17
+17  1899 Hoffenheim          3 |  3   6-7       |  2   3-6       |  5   9-13
+18  Borussia Mönchengladba   0 |  2   6-8       |  3   1-10      |  5   7-18
 
 (26 API-Football requests used)
 
