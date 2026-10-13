@@ -1,11 +1,3 @@
-RUN 2026-10-13 16:57 local | 8 match(es)
-Notts County v Nottingham Forest U21 -> out/Notts_County_v_Nottingham_Forest_U21.txt
-England W v Greece W -> out/England_W_v_Greece_W.txt
-Wolverhampton v Bolton -> out/Wolverhampton_v_Bolton.txt
-    !! Wolverhampton: Ambiguous team name "Wolverhampton".
-Cardiff v Watford -> out/Cardiff_v_Watford.txt
-Millwall v Swansea -> out/Millwall_v_Swansea.txt
-Wrexham v West Brom -> out/Wrexham_v_West_Brom.txt
-Burnley v Charlton -> out/Burnley_v_Charlton.txt
-Bristol City v Blackburn -> out/Bristol_City_v_Blackburn.txt
-Requests used: API-Football 189, Matchbook 0
+RUN 2026-10-13 16:59 local | 1 match(es)
+id:15433 v Bolton -> out/id_15433_v_Bolton.txt
+Requests used: API-Football 26, Matchbook 0
