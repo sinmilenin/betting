@@ -1,3 +1,3 @@
-RUN 2026-10-13 09:27 local | 1 match(es)
-Shanghai SIPG v Daejeon Citizen -> out/Shanghai_SIPG_v_Daejeon_Citizen.txt
+RUN 2026-10-13 10:58 local | 1 match(es)
+Buriram United v Beijing Guoan -> out/Buriram_United_v_Beijing_Guoan.txt
 Requests used: API-Football 26, Matchbook 0
