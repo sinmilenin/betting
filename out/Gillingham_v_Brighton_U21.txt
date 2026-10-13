@@ -1,0 +1,124 @@
+MATCH Gillingham v Brighton U21 | fetched 2026-10-13 17:43 local
+
+FORM DATA Gillingham v Brighton U21 | source API-Football | 2026-10-13 17:43 UTC
+H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
+
+=== Gillingham (id 1347): last 20 finished games ===
+2026-10-10 A 4-1 v Rotherham | League Two | Rotherham | xG 1.86-1.16
+2026-10-03 H 0-0 v Newport County | League Two | Gillingham | xG 0.31-1.25
+2026-09-26 A 0-3 v York | League Two | York
+2026-09-22 H 1-4 v Cambridge United | EFL Trophy | Gillingham
+2026-09-19 H 3-0 v Bristol Rovers | League Two | Gillingham | xG 2.29-0.88
+2026-09-12 H 2-0 v Tranmere | League Two | Gillingham | xG 1.53-1.24
+2026-09-05 A 4-1 v Rochdale | League Two | Rochdale | xG 1.39-0.76
+2026-09-01 A 1-1 v Chesterfield | League Two | Chesterfield | xG 0.42-2.24
+2026-08-29 H 1-1 v Northampton | League Two | Gillingham | xG 0.64-0.34
+2026-08-22 A 0-0 v Fleetwood Town | League Two | Fleetwood | xG 1.02-1.40
+2026-08-15 H 0-3 v Walsall | League Two | Gillingham
+2026-08-08 H 0-3 v Luton | League Cup | Gillingham
+2026-07-31 A 2-1 v Ebbsfleet United | Friendlies Clubs | ?
+2026-07-21 H 1-0 v Millwall | Friendlies Clubs | ?
+2026-07-18 H 0-1 v Charlton | Friendlies Clubs | ?
+2026-07-14 A 3-0 v Dover | Friendlies Clubs | ?
+2026-05-02 H 1-0 v Shrewsbury | League Two | Gillingham
+2026-04-25 A 2-6 v Barnet | League Two | London
+2026-04-18 H 1-4 v Grimsby | League Two | Gillingham
+2026-04-14 A 1-2 v Cheltenham | League Two | Cheltenham
+Listed home: 11 games, scored 10 (0.91), conceded 16 (1.45), blanks 4, clean sheets 5
+Listed away: 9 games, scored 17 (1.89), conceded 15 (1.67), blanks 2, clean sheets 2
+All: 20 games, scored 27 (1.35), conceded 31 (1.55), blanks 6, clean sheets 7
+
+=== Brighton U21 (id 7191): last 20 finished games ===
+2026-10-09 H 2-1 v Sheffield United U21 | Premier League Cup | Lancing
+2026-09-19 A 1-5 v Liverpool U21 | Premier League 2 Division One | Liverpool
+2026-09-16 H 2-1 v Paris Saint-Germain U21 | Premier League International Cup | Lancing
+2026-09-11 H 3-0 v Leicester City U21 | Premier League 2 Division One | Lancing
+2026-09-04 A 1-1 v West Ham United U21 | Premier League Cup | London
+2026-08-31 H 2-2 v Arsenal U21 | Premier League 2 Division One | Lancing
+2026-08-21 A 1-2 v Aston Villa U21 | Premier League 2 Division One | Birmingham
+2026-08-18 A 3-0 v Northampton | EFL Trophy | Northampton
+2026-08-14 H 2-0 v Millwall U21 | Premier League Cup | Lancing
+2026-07-28 A 1-2 v Worthing | Friendlies Clubs | ?
+2026-05-16 H 1-0 v Manchester United U21 | Premier League 2 Division One | Brighton
+2026-05-08 A 3-1 v Tottenham Hotspur U21 | Premier League 2 Division One | London
+2026-05-04 H 3-0 v West Ham United U21 | Premier League 2 Division One | Lancing
+2026-04-24 A 2-1 v Ipswich Town U21 | Premier League 2 Division One | Ipswich
+2026-04-03 H 0-0 v Aston Villa U21 | Premier League 2 Division One | Lancing
+2026-03-22 H 5-0 v Everton U21 | Premier League 2 Division One | Lancing
+2026-03-16 A 2-0 v Burnley U21 | Premier League 2 Division One | ?
+2026-03-06 H 3-4 v Fulham U21 | Premier League 2 Division One | Lancing
+2026-02-27 A 2-2 v Newcastle United U21 | Premier League 2 Division One | Newcastle
+2026-02-22 H 3-2 v Birmingham City U21 | Premier League 2 Division One | Lancing
+Listed home: 11 games, scored 26 (2.36), conceded 10 (0.91), blanks 1, clean sheets 6
+Listed away: 9 games, scored 16 (1.78), conceded 14 (1.56), blanks 0, clean sheets 2
+All: 20 games, scored 42 (2.10), conceded 24 (1.20), blanks 1, clean sheets 8
+
+TABLE FOR Gillingham
+LEAGUE TABLE League Two 2026 | 24 teams | 114 games played
+League averages per game: home 1.49, away 0.99, total 2.48
+#   team                   Pts | home P GF-GA  | away P GF-GA  | all P GF-GA
+1   Salford City            19 |  5   5-2       |  5  10-8       | 10  15-10
+2   Barnet                  18 |  4  10-5       |  4  10-6       |  8  20-11
+3   Crewe                   18 |  5   8-5       |  5   4-2       | 10  12-7
+4   Gillingham              16 |  5   6-4       |  5   9-6       | 10  15-10
+5   York                    15 |  5  13-4       |  4   4-7       |  9  17-11
+6   Walsall                 15 |  4   5-2       |  5   7-4       |  9  12-6
+7   Chesterfield            15 |  5  10-7       |  5   7-7       | 10  17-14
+8   Cheltenham              15 |  5   9-8       |  5   7-8       | 10  16-16
+9   Bristol Rovers          15 |  5  10-6       |  5   5-11      | 10  15-17
+10  Rochdale                14 |  5   8-6       |  5   3-6       | 10  11-12
+11  Grimsby                 13 |  5   8-4       |  5   5-7       | 10  13-11
+12  Newport County          13 |  5   9-4       |  5   4-8       | 10  13-12
+13  Tranmere                12 |  5   8-4       |  5   5-9       | 10  13-13
+14  Exeter City             12 |  5   4-1       |  5   2-5       | 10   6-6
+15  Accrington ST           11 |  5   9-6       |  5   4-8       | 10  13-14
+16  Fleetwood Town          11 |  5   5-4       |  5   5-7       | 10  10-11
+17  Swindon Town            11 |  5   9-5       |  5   0-9       | 10   9-14
+18  Shrewsbury              11 |  5   6-6       |  5   3-9       | 10   9-15
+19  Colchester              10 |  4   5-3       |  5   5-10      |  9  10-13
+20  Rotherham               10 |  5   8-10      |  5   4-6       | 10  12-16
+21  Oldham                   8 |  5   7-6       |  4   2-7       |  9   9-13
+22  Port Vale                8 |  4   3-1       |  4   1-8       |  8   4-9
+23  Northampton              7 |  4   2-2       |  4   2-5       |  8   4-7
+24  Crawley Town             5 |  4   3-8       |  4   5-7       |  8   8-15
+
+TABLE FOR Brighton U21
+LEAGUE TABLE Premier League 2 Division One 2026 | 31 teams | 58 games played
+League averages per game: home 2.24, away 1.62, total 3.86
+#   team                   Pts | home P GF-GA  | away P GF-GA  | all P GF-GA
+1   Tottenham Hotspur U21   10 |  2   7-5       |  2   6-2       |  4  13-7
+2   Southampton U21         10 |  1   3-1       |  3   4-1       |  4   7-2
+3   Sunderland U21          10 |  3  12-4       |  2   3-7       |  5  15-11
+4   Manchester United U21    9 |  3  12-3       |  0   0-0       |  3  12-3
+5   Chelsea U21              9 |  2   8-5       |  2   5-3       |  4  13-8
+6   AFC Bournemouth U21      9 |  3   7-3       |  1   1-3       |  4   8-6
+7   Nottingham Forest U21    9 |  2   3-1       |  2   4-6       |  4   7-7
+8   Liverpool U21            7 |  2   7-2       |  2   1-2       |  4   8-4
+9   Fulham U21               7 |  2   7-6       |  2   5-3       |  4  12-9
+10  Leeds United U21         7 |  2   6-3       |  2   5-6       |  4  11-9
+11  Reading U21              7 |  2   1-3       |  2   6-3       |  4   7-6
+12  Norwich City U21         7 |  2   4-2       |  2   2-3       |  4   6-5
+13  Brentford U21            6 |  2   5-3       |  2   5-5       |  4  10-8
+14  Everton U21              5 |  2   2-3       |  2   2-0       |  4   4-3
+15  West Ham United U21      5 |  2   1-0       |  2   4-5       |  4   5-5
+16  Aston Villa U21          5 |  3   4-5       |  1   3-3       |  4   7-8
+17  Stoke City U21           4 |  2   6-3       |  2   1-2       |  4   7-5
+18  Crystal Palace U21       4 |  1   0-1       |  2   3-1       |  3   3-2
+19  Brighton U21             4 |  2   5-2       |  2   2-7       |  4   7-9
+20  Derby County U21         4 |  2   5-7       |  2   4-5       |  4   9-12
+21  Arsenal U21              4 |  3   4-7       |  2   2-2       |  5   6-9
+22  Manchester City U21      3 |  1   4-0       |  2   3-6       |  3   7-6
+23  Burnley U21              3 |  2   5-4       |  2   3-5       |  4   8-9
+24  Blackburn Rovers U21     3 |  1   2-3       |  2   2-4       |  3   4-7
+25  Ipswich Town U21         3 |  1   4-1       |  2   2-9       |  3   6-10
+26  Birmingham City U21      2 |  1   0-0       |  2   5-7       |  3   5-7
+27  Middlesbrough U21        2 |  2   4-5       |  2   3-5       |  4   7-10
+28  West Bromwich Albion U   1 |  1   1-3       |  2   7-8       |  3   8-11
+29  Leicester City U21       1 |  1   0-0       |  2   1-7       |  3   1-7
+30  Newcastle United U21     0 |  2   1-7       |  1   0-2       |  3   1-9
+31  Wolves U21               0 |  1   0-2       |  2   0-8       |  3   0-10
+
+(27 API-Football requests used)
+
+----------------------------------------------------------------------
+MATCHBOOK: skipped (switched off for this run)

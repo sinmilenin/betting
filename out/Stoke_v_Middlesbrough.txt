@@ -1,0 +1,84 @@
+MATCH Stoke v Middlesbrough | fetched 2026-10-13 17:43 local
+
+FORM DATA Stoke v Middlesbrough | source API-Football | 2026-10-13 17:43 UTC
+H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
+
+"Stoke" matches several teams. Use id:<number> instead of the name:
+  id:75     Stoke City (England)
+  id:7615   Basingstoke Town (England)
+  id:11911  Stoke City U21 (England)
+  id:11926  Stoke City U23 (England)
+  id:12151  Stokesley SC (England)
+  id:15385  Stoke City U18 (England)
+  id:15455  Stoke City W (England)
+  id:24298  Stokes Valley (New-Zealand)
+=== Middlesbrough (id 70): last 20 finished games ===
+2026-10-10 H 1-0 v Wolves | Championship | Middlesbrough | xG 0.90-0.68
+2026-09-19 A 2-2 v Birmingham | Championship | Birmingham | xG 2.14-1.23
+2026-09-15 H 2-2 v Millwall | Championship | Middlesbrough | xG 1.52-1.69
+2026-09-12 H 4-3 v Norwich | Championship | Middlesbrough | xG 2.38-1.76
+2026-09-08 A 0-3 v Crystal Palace | League Cup | London
+2026-09-05 A 1-0 v QPR | Championship | London | xG 2.53-1.03
+2026-09-02 A 1-1 v Burnley | Championship | Burnley | xG 1.22-0.64
+2026-08-29 H 3-1 v West Brom | Championship | Middlesbrough | xG 2.55-1.32
+2026-08-25 A 3-1 v Doncaster | League Cup | Doncaster
+2026-08-22 A 1-2 v Blackburn | Championship | Blackburn | xG 1.43-0.91
+2026-08-15 H 2-1 v Lincoln | Championship | Middlesbrough
+2026-08-07 H 1-0 v Wrexham | League Cup | Middlesbrough
+2026-08-01 H 3-3 v Espanyol | Friendlies Clubs | ?
+2026-07-25 H 1-3 v Huddersfield | Friendlies Clubs | ?
+2026-07-18 A 1-1 v Celtic | Friendlies Clubs | ?
+2026-05-23 A 0-1 v Hull City | Championship | London
+2026-05-12 A 1-1 v Southampton | Championship | Southampton [AET, 90-min score shown]
+2026-05-09 H 0-0 v Southampton | Championship | Middlesbrough
+2026-05-02 A 2-2 v Wrexham | Championship | Wrexham
+2026-04-25 H 5-1 v Watford | Championship | Middlesbrough
+Listed home: 10 games, scored 22 (2.20), conceded 14 (1.40), blanks 1, clean sheets 3
+Listed away: 10 games, scored 12 (1.20), conceded 14 (1.40), blanks 2, clean sheets 1
+All: 20 games, scored 34 (1.70), conceded 28 (1.40), blanks 3, clean sheets 4
+
+(retrying Stoke using the opponent's country, England)
+"Stoke" matches several teams. Use id:<number> instead of the name:
+  id:75     Stoke City (England)
+  id:7615   Basingstoke Town (England)
+  id:11911  Stoke City U21 (England)
+  id:11926  Stoke City U23 (England)
+  id:12151  Stokesley SC (England)
+  id:15385  Stoke City U18 (England)
+  id:15455  Stoke City W (England)
+  id:24298  Stokes Valley (New-Zealand)
+!! Stoke: Ambiguous team name "Stoke".
+
+TABLE FOR Middlesbrough
+LEAGUE TABLE Championship 2026 | 24 teams | 107 games played
+League averages per game: home 1.58, away 1.25, total 2.83
+#   team                   Pts | home P GF-GA  | away P GF-GA  | all P GF-GA
+1   Swansea                 20 |  5   7-2       |  4   8-5       |  9  15-7
+2   Middlesbrough           18 |  5  12-7       |  4   5-5       |  9  17-12
+3   West Ham                16 |  5  15-5       |  4   8-7       |  9  23-12
+4   Stoke City              16 |  4   8-3       |  5   7-10      |  9  15-13
+5   Wolves                  14 |  3   7-3       |  5   8-8       |  8  15-11
+6   QPR                     14 |  4   4-4       |  5   7-4       |  9  11-8
+7   Birmingham              14 |  4   7-7       |  5   6-4       |  9  13-11
+8   Millwall                14 |  4   9-5       |  5   7-10      |  9  16-15
+9   West Brom               14 |  5   6-4       |  4   4-5       |  9  10-9
+10  Bristol City            14 |  4   3-4       |  5   9-9       |  9  12-13
+11  Southampton             13 |  5  16-4       |  4   4-6       |  9  20-10
+12  Charlton                13 |  5   4-2       |  4   4-9       |  9   8-11
+13  Blackburn               12 |  5   9-7       |  4   5-6       |  9  14-13
+14  Sheffield Utd           12 |  5   7-6       |  4   5-5       |  9  12-11
+15  Wrexham                 11 |  4   5-5       |  5   5-8       |  9  10-13
+16  Lincoln                 11 |  4   3-6       |  5   4-5       |  9   7-11
+17  Bolton                  10 |  5   6-7       |  4   6-10      |  9  12-17
+18  Norwich                  9 |  4  10-8       |  5   7-11      |  9  17-19
+19  Portsmouth               8 |  4   5-7       |  4   4-4       |  8   9-11
+20  Watford                  8 |  5   6-9       |  4   1-5       |  9   7-14
+21  Cardiff                  7 |  4   7-5       |  5   4-9       |  9  11-14
+22  Burnley                  7 |  4   5-6       |  5   8-11      |  9  13-17
+23  Derby                    6 |  5   4-9       |  4   4-6       |  9   8-15
+24  Preston                  4 |  5   4-9       |  4   4-7       |  9   8-16
+
+(14 API-Football requests used)
+
+----------------------------------------------------------------------
+MATCHBOOK: skipped (switched off for this run)
