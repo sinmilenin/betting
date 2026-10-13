@@ -1,2 +1,3 @@
-# Tuesday 13 Oct 2026 (times Europe/Ljubljana) - scheduled Orbit scan 10:41: Pohang Steelers v Johor Darul Ta'zim 12:00 (AFC Champions League) - id 2523 = Johor Darul Takzim FC
-Pohang Steelers v id:2523 | n=20 | xg=10
+# Match list 13 Oct 11:27 (scan): AFC Champions League
+Shanghai Port v Daejeon Citizen | n=20 | xg=10
+Kyoto Sanga v Ratchaburi | n=20 | xg=10
