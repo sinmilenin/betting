@@ -1,3 +1,5 @@
-RUN 2026-10-13 14:22 local | 1 match(es)
-Buriram United v Beijing Guoan -> out/Buriram_United_v_Beijing_Guoan.txt
-Requests used: API-Football 25, Matchbook 0
+RUN 2026-10-13 14:42 local | 3 match(es)
+Norway W v Romania W -> out/Norway_W_v_Romania_W.txt
+Simba v Mashujaa -> out/Simba_v_Mashujaa.txt
+Italy W v Belarus W -> out/Italy_W_v_Belarus_W.txt
+Requests used: API-Football 75, Matchbook 0
