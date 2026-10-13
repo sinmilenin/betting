@@ -1,2 +1,9 @@
-# Match list 13 Oct 18:20 (Orbit scan 18:12, Norrkoping v Sundsvall retry by id)
-id:378 v id:373 | n=20 | xg=10
+# Match list 13 Oct 19:00 (Orbit scan 18:56)
+Notts County v Nottingham Forest U21 | n=20 | xg=10
+England W v Greece W | n=20 | xg=10
+Wolverhampton v Bolton | n=20 | xg=10
+Cardiff v Watford | n=20 | xg=10
+Millwall v Swansea | n=20 | xg=10
+Wrexham v West Brom | n=20 | xg=10
+Burnley v Charlton | n=20 | xg=10
+Bristol City v Blackburn | n=20 | xg=10
