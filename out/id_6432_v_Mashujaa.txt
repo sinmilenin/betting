@@ -1,31 +1,25 @@
-MATCH Simba v Mashujaa | fetched 2026-10-13 17:59 local
+MATCH id:6432 v Mashujaa | fetched 2026-10-13 18:49 local
 
-FORM DATA Simba v Mashujaa | source API-Football | 2026-10-13 17:59 UTC
+FORM DATA id:6432 v Mashujaa | source API-Football | 2026-10-13 18:49 UTC
 H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
 
-"Simba" matches several teams. Use id:<number> instead of the name:
-  id:6432   Simba (Tanzania)
-  id:8572   Simba (Congo-DR)
-  id:21055  Simba Bhora (Zimbabwe)
-=== Mashujaa (id 22176): last 3 finished games ===
-2026-10-08 H 2-1 v Polisi Tanzania | Ligi kuu Bara | Kigoma
-2026-09-09 H 2-1 v Singida Black Stars | Ligi kuu Bara | Kigoma
-2026-09-04 A 0-1 v Dodoma Jiji | Ligi kuu Bara | ?
-Listed home: 2 games, scored 4 (2.00), conceded 2 (1.00), blanks 0, clean sheets 0
-Listed away: 1 games, scored 0 (0.00), conceded 1 (1.00), blanks 1, clean sheets 0
-All: 3 games, scored 4 (1.33), conceded 3 (1.00), blanks 1, clean sheets 0
-
-(retrying Simba using the opponent's country, Tanzania)
-NOTE: "Simba" matched 2 teams; picked Simba (Tanzania) because the opponent is from Tanzania. Others: Simba (Congo-DR)
 === Simba (id 6432): last 3 finished games ===
+2026-10-13 H 6-1 v Mashujaa | Ligi kuu Bara | Dar es Salaam
 2026-10-10 H 2-1 v Young Africans | Ligi kuu Bara | Dar es Salaam
 2026-09-16 A 2-0 v Azam | Ligi kuu Bara | Dar es Salaam
-2026-09-13 H 6-1 v Be Forward Wanderers | CAF Champions League | Dar es Salaam
 Listed home: 2 games, scored 8 (4.00), conceded 2 (1.00), blanks 0, clean sheets 0
 Listed away: 1 games, scored 2 (2.00), conceded 0 (0.00), blanks 0, clean sheets 1
 All: 3 games, scored 10 (3.33), conceded 2 (0.67), blanks 0, clean sheets 1
 
-TABLE FOR Mashujaa
+=== Mashujaa (id 22176): last 3 finished games ===
+2026-10-13 A 1-6 v Simba | Ligi kuu Bara | Dar es Salaam
+2026-10-08 H 2-1 v Polisi Tanzania | Ligi kuu Bara | Kigoma
+2026-09-09 H 2-1 v Singida Black Stars | Ligi kuu Bara | Kigoma
+Listed home: 2 games, scored 4 (2.00), conceded 2 (1.00), blanks 0, clean sheets 0
+Listed away: 1 games, scored 1 (1.00), conceded 6 (6.00), blanks 0, clean sheets 0
+All: 3 games, scored 5 (1.67), conceded 8 (2.67), blanks 0, clean sheets 0
+
+TABLE FOR Simba
 LEAGUE TABLE Ligi kuu Bara 2026 | 16 teams | 58 games played
 League averages per game: home 1.48, away 1.00, total 2.48
 #   team                   Pts | home P GF-GA  | away P GF-GA  | all P GF-GA
@@ -46,9 +40,9 @@ League averages per game: home 1.48, away 1.00, total 2.48
 15  Pamba Jiji               4 |  4   7-6       |  3   1-7       |  7   8-13
 16  Fountain Gate            4 |  4   2-6       |  3   1-5       |  7   3-11
 
-(Simba: same table as Mashujaa, shown above)
+(Mashujaa: same table as Simba, shown above)
 
-(6 API-Football requests used)
+(5 API-Football requests used)
 
 ----------------------------------------------------------------------
 MATCHBOOK: skipped (switched off for this run)

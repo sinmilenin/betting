@@ -1,0 +1,52 @@
+MATCH Pendikspor v Vanspor | fetched 2026-10-13 18:49 local
+
+FORM DATA Pendikspor v Vanspor | source API-Football | 2026-10-13 18:49 UTC
+H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
+
+=== Pendikspor (id 3601): last 3 finished games ===
+2026-10-09 A 1-4 v Sivasspor | 1. Lig | Sivas
+2026-10-02 H 3-3 v Galatasaray | Friendlies Clubs | Istanbul
+2026-09-20 H 1-1 v Bodrum FK | 1. Lig | Istanbul
+Listed home: 2 games, scored 4 (2.00), conceded 4 (2.00), blanks 0, clean sheets 0
+Listed away: 1 games, scored 1 (1.00), conceded 4 (4.00), blanks 0, clean sheets 0
+All: 3 games, scored 5 (1.67), conceded 8 (2.67), blanks 0, clean sheets 0
+
+=== Vanspor FK (id 6342): last 3 finished games ===
+2026-10-09 H 0-2 v Bandırmaspor | 1. Lig | Akhisar
+2026-09-20 A 0-3 v Antalyaspor | 1. Lig | Antalya
+2026-09-12 H 1-1 v Keçiörengücü | 1. Lig | Akhisar
+Listed home: 2 games, scored 1 (0.50), conceded 3 (1.50), blanks 1, clean sheets 0
+Listed away: 1 games, scored 0 (0.00), conceded 3 (3.00), blanks 1, clean sheets 0
+All: 3 games, scored 1 (0.33), conceded 6 (2.00), blanks 2, clean sheets 0
+
+TABLE FOR Pendikspor
+LEAGUE TABLE 1. Lig 2026 | 20 teams | 92 games played
+League averages per game: home 1.42, away 1.18, total 2.61
+#   team                   Pts | home P GF-GA  | away P GF-GA  | all P GF-GA
+1   Kayserispor             22 |  4  10-4       |  5   8-1       |  9  18-5
+2   Bursaspor               19 |  4   8-4       |  5   9-5       |  9  17-9
+3   Iğdır FK                19 |  5   9-4       |  4   5-4       |  9  14-8
+4   Keçiörengücü            16 |  4  10-4       |  5   9-6       |  9  19-10
+5   Batman Petrolspor       16 |  4   9-6       |  5   7-9       |  9  16-15
+6   Mardin 1969             15 |  4   4-2       |  5   7-4       |  9  11-6
+7   Antalyaspor             15 |  5  11-10      |  4   4-3       |  9  15-13
+8   Sarıyer                 15 |  6   9-8       |  4   4-6       | 10  13-14
+9   Bandırmaspor            14 |  6  11-4       |  4   4-2       | 10  15-6
+10  Fatih Karagümrük        13 |  5   7-5       |  4   6-7       |  9  13-12
+11  Sivasspor               12 |  5   9-6       |  5   5-7       | 10  14-13
+12  Muğlaspor               12 |  4   6-4       |  5   3-4       |  9   9-8
+13  Bodrum FK               11 |  5   4-4       |  5   7-5       | 10  11-9
+14  Pendikspor              10 |  4   5-4       |  5   6-13      |  9  11-17
+15  Manisa F.K.              9 |  4   5-4       |  5   9-11      |  9  14-15
+16  Esenler Erokspor         8 |  4   1-7       |  5   4-3       |  9   5-10
+17  Ümraniyespor             7 |  5   3-5       |  4   4-5       |  9   7-10
+18  İstanbulspor             5 |  4   4-6       |  5   3-14      |  9   7-20
+19  Vanspor FK               4 |  5   4-9       |  4   4-10      |  9   8-19
+20  Boluspor                 1 |  5   2-9       |  4   1-12      |  9   3-21
+
+(Vanspor FK: same table as Pendikspor, shown above)
+
+(5 API-Football requests used)
+
+----------------------------------------------------------------------
+MATCHBOOK: skipped (switched off for this run)
