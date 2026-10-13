@@ -1,3 +1,3 @@
-RUN 2026-10-13 16:59 local | 1 match(es)
-id:15433 v Bolton -> out/id_15433_v_Bolton.txt
-Requests used: API-Football 26, Matchbook 0
+RUN 2026-10-13 17:01 local | 1 match(es)
+id:39 v Bolton -> out/id_39_v_Bolton.txt
+Requests used: API-Football 25, Matchbook 0
