@@ -1,3 +1,7 @@
-RUN 2026-10-13 15:28 local | 1 match(es)
-id:13976 v Slavia Praha -> out/id_13976_v_Slavia_Praha.txt
-Requests used: API-Football 26, Matchbook 0
+RUN 2026-10-13 16:13 local | 3 match(es)
+Pendikspor v Vanspor -> out/Pendikspor_v_Vanspor.txt
+Norrkoping v Sundsvall -> out/Norrkoping_v_Sundsvall.txt
+    !! Norrkoping: Ambiguous team name "Norrkoping".
+    !! Sundsvall: Ambiguous team name "Sundsvall".
+Walsall v Fulham U21 -> out/Walsall_v_Fulham_U21.txt
+Requests used: API-Football 55, Matchbook 0
