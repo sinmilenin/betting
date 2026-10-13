@@ -1,3 +1,3 @@
-RUN 2026-10-13 06:27 local | 1 match(es)
-Newcastle Jets v Gamba Osaka -> out/Newcastle_Jets_v_Gamba_Osaka.txt
+RUN 2026-10-13 08:42 local | 1 match(es)
+Pohang Steelers v Johor Darul Tazim -> out/Pohang_Steelers_v_Johor_Darul_Tazim.txt
 Requests used: API-Football 26, Matchbook 0
