@@ -1,4 +1,2 @@
-# Match list 13 Oct 18:15 (Orbit scan 18:12)
-Pendikspor v Vanspor | n=20 | xg=10
-Norrkoping v Sundsvall | n=20 | xg=10
-Walsall v Fulham U21 | n=20 | xg=10
+# Match list 13 Oct 18:20 (Orbit scan 18:12, Norrkoping v Sundsvall retry by id)
+id:378 v id:373 | n=20 | xg=10
