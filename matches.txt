@@ -1,2 +1,4 @@
-# Match list 13 Oct 17:31 (Orbit scan 17:26, Sabah retry by id)
-id:13976 v Slavia Praha | n=20 | xg=10
+# Match list 13 Oct 18:15 (Orbit scan 18:12)
+Pendikspor v Vanspor | n=20 | xg=10
+Norrkoping v Sundsvall | n=20 | xg=10
+Walsall v Fulham U21 | n=20 | xg=10
