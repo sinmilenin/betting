@@ -1,3 +1,4 @@
-RUN 2026-10-13 10:58 local | 1 match(es)
-Buriram United v Beijing Guoan -> out/Buriram_United_v_Beijing_Guoan.txt
-Requests used: API-Football 26, Matchbook 0
+RUN 2026-10-13 12:07 local | 2 match(es)
+Kyoto Sanga v Ratchaburi -> out/Kyoto_Sanga_v_Ratchaburi.txt
+Pohang Steelers v Johor Darul Takzim -> out/Pohang_Steelers_v_Johor_Darul_Takzim.txt
+Requests used: API-Football 49, Matchbook 0
