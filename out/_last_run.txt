@@ -1,7 +1,3 @@
-RUN 2026-10-13 16:13 local | 3 match(es)
-Pendikspor v Vanspor -> out/Pendikspor_v_Vanspor.txt
-Norrkoping v Sundsvall -> out/Norrkoping_v_Sundsvall.txt
-    !! Norrkoping: Ambiguous team name "Norrkoping".
-    !! Sundsvall: Ambiguous team name "Sundsvall".
-Walsall v Fulham U21 -> out/Walsall_v_Fulham_U21.txt
-Requests used: API-Football 55, Matchbook 0
+RUN 2026-10-13 16:14 local | 1 match(es)
+id:378 v id:373 -> out/id_378_v_id_373.txt
+Requests used: API-Football 25, Matchbook 0
