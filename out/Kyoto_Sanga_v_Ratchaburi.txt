@@ -1,0 +1,105 @@
+MATCH Kyoto Sanga v Ratchaburi | fetched 2026-10-13 09:26 local
+
+FORM DATA Kyoto Sanga v Ratchaburi | source API-Football | 2026-10-13 09:26 UTC
+H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
+
+=== Kyoto Sanga (id 302): last 20 finished games ===
+2026-10-10 H 0-1 v Machida Zelvia | J1 League | Kyoto | xG 1.77-1.43
+2026-10-03 A 0-0 v Machida Zelvia | J-League Cup | Machida [PEN, 90-min score shown]
+2026-09-23 H 1-0 v Fujieda MYFC | Emperor Cup | Kameoka
+2026-09-19 A 2-1 v Fagiano Okayama | J1 League | Okayama
+2026-09-15 A 0-1 v Daejeon Citizen | AFC Champions League Elite | Daejeon
+2026-09-11 H 2-3 v Kashiwa Reysol | J1 League | Kameoka | xG 1.84-2.72
+2026-09-06 A 0-2 v FC Tokyo | J1 League | Tokyo | xG 1.37-2.31
+2026-09-02 A 1-1 v Yokohama F. Marinos | J1 League | Yokohama | xG 1.51-2.97
+2026-08-29 H 2-1 v Avispa Fukuoka | J1 League | Kameoka | xG 1.20-2.27
+2026-08-26 H 1-0 v Maruyasu Okazaki | Emperor Cup | Kameoka
+2026-08-22 H 1-3 v Mito Hollyhock | J1 League | Kameoka
+2026-08-15 A 2-2 v Kawasaki Frontale | J1 League | Kawasaki
+2026-08-09 A 1-2 v V-varen Nagasaki | J1 League | Nagasaki
+2026-07-17 H 1-4 v Shonan Bellmare | Friendlies Clubs | ?
+2026-06-06 A 1-0 v Kashiwa Reysol | J1 League | Kashiwa
+2026-05-30 H 2-6 v Kashiwa Reysol | J1 League | Kameoka
+2026-05-23 H 1-0 v V-varen Nagasaki | J1 League | Kameoka
+2026-05-17 H 0-4 v Sanfrecce Hiroshima | J1 League | Kameoka
+2026-05-13 A 0-1 v Vissel Kobe | J1 League | Kobe
+2026-05-10 A 0-3 v Nagoya Grampus | J1 League | Toyota City
+Listed home: 10 games, scored 11 (1.10), conceded 22 (2.20), blanks 2, clean sheets 3
+Listed away: 10 games, scored 7 (0.70), conceded 13 (1.30), blanks 5, clean sheets 2
+All: 20 games, scored 18 (0.90), conceded 35 (1.75), blanks 7, clean sheets 5
+
+=== Ratchaburi (id 2776): last 20 finished games ===
+2026-10-09 H 6-0 v Sukhothai FC | Thai League 1 | Ratchaburi
+2026-10-07 H 1-1 v Ho Chi Minh | ASEAN Club Championship | Ratchaburi
+2026-09-20 A 1-1 v Rayong FC | Thai League 1 | Rayong
+2026-09-15 H 4-6 v SHANGHAI SIPG | AFC Champions League Elite | Ratchaburi
+2026-09-11 H 1-0 v Bangkok United | Thai League 1 | Ratchaburi
+2026-09-06 A 1-2 v Ayutthaya FC | Thai League 1 | Ayutthaya
+2026-05-10 A 1-0 v Kanchanaburi | Thai League 1 | Kanchanaburi
+2026-05-03 H 6-1 v Rayong FC | Thai League 1 | Ratchaburi
+2026-04-29 A 0-1 v Chiangrai United | Thai League 1 | Chiang Rai
+2026-04-24 A 2-1 v Sukhothai FC | Thai League 1 | Sukhothai
+2026-04-18 A 4-1 v Bangkok United | Thai League 1 | Rangsit
+2026-04-11 A 2-1 v Lamphun Warrior | Thai League 1 | Chiang Mai
+2026-04-04 H 2-2 v Buriram United | Thai League 1 | Ratchaburi
+2026-03-22 A 2-2 v BG Pathum United | Thai League 1 | Pathum Thani
+2026-03-15 H 1-2 v Ayutthaya FC | Thai League 1 | Ratchaburi
+2026-03-11 H 1-1 v Gamba Osaka | AFC Champions League Two | Ratchaburi [AET, 90-min score shown]
+2026-03-04 A 1-1 v Gamba Osaka | AFC Champions League Two | Suita
+2026-02-28 H 3-1 v Uthai Thani | Thai League 1 | Ratchaburi
+2026-02-25 A 0-1 v Ayutthaya FC | FA Cup | Ayutthaya
+2026-02-18 A 0-1 v Persib Bandung | AFC Champions League Two | Bandung
+Listed home: 9 games, scored 25 (2.78), conceded 14 (1.56), blanks 0, clean sheets 2
+Listed away: 11 games, scored 14 (1.27), conceded 12 (1.09), blanks 3, clean sheets 1
+All: 20 games, scored 39 (1.95), conceded 26 (1.30), blanks 3, clean sheets 3
+
+TABLE FOR Kyoto Sanga
+LEAGUE TABLE J1 League 2027 | 20 teams | 90 games played
+League averages per game: home 1.57, away 1.34, total 2.91
+#   team                   Pts | home P GF-GA  | away P GF-GA  | all P GF-GA
+1   Kashiwa Reysol          21 |  4  10-7       |  5  11-7       |  9  21-14
+2   Sanfrecce Hiroshima     20 |  4  13-2       |  5   9-4       |  9  22-6
+3   Machida Zelvia          20 |  4   8-7       |  5  14-3       |  9  22-10
+4   FC Tokyo                20 |  5   9-5       |  4   8-3       |  9  17-8
+5   Vissel Kobe             19 |  4   8-4       |  5   6-5       |  9  14-9
+6   Kashima                 16 |  4   7-4       |  5  12-12      |  9  19-16
+7   Yokohama F. Marinos     15 |  4   7-5       |  5   6-4       |  9  13-9
+8   Kawasaki Frontale       13 |  5  13-10      |  4   4-4       |  9  17-14
+9   Fagiano Okayama         13 |  4   5-4       |  5   7-8       |  9  12-12
+10  Shimizu S-pulse         13 |  5   4-4       |  4   4-5       |  9   8-9
+11  Urawa                   12 |  4   8-9       |  5   8-12      |  9  16-21
+12  Cerezo Osaka            12 |  5   5-1       |  4   2-11      |  9   7-12
+13  Mito Hollyhock           9 |  5   7-7       |  4   5-6       |  9  12-13
+14  V-varen Nagasaki         9 |  5   7-7       |  4   4-9       |  9  11-16
+15  Nagoya Grampus           9 |  4   6-6       |  5   3-9       |  9   9-15
+16  Kyoto Sanga              8 |  4   5-8       |  5   6-8       |  9  11-16
+17  Avispa Fukuoka           7 |  6   8-7       |  3   3-6       |  9  11-13
+18  Gamba Osaka              6 |  4   4-6       |  5   4-10      |  9   8-16
+19  JEF United Chiba         5 |  4   4-7       |  5   4-12      |  9   8-19
+20  Tokyo Verdy              4 |  6   3-11      |  3   1-3       |  9   4-14
+
+TABLE FOR Ratchaburi
+LEAGUE TABLE Thai League 1 2026 | 16 teams | 32 games played
+League averages per game: home 1.56, away 1.38, total 2.94
+#   team                   Pts | home P GF-GA  | away P GF-GA  | all P GF-GA
+1   Buriram United          10 |  2   4-3       |  2   4-1       |  4   8-4
+2   Uthai Thani              9 |  2   5-4       |  2   6-2       |  4  11-6
+3   Bangkok United           9 |  2   6-3       |  2   2-1       |  4   8-4
+4   Prachuap                 9 |  2   3-1       |  2   3-1       |  4   6-2
+5   Port FC                  9 |  2   5-3       |  2   3-3       |  4   8-6
+6   Ratchaburi               7 |  2   7-0       |  2   2-3       |  4   9-3
+7   Rayong FC                7 |  2   2-1       |  2   5-5       |  4   7-6
+8   Ayutthaya FC             7 |  2   3-3       |  2   2-1       |  4   5-4
+9   Sisaket United           6 |  2   2-2       |  2   2-3       |  4   4-5
+10  BG Pathum United         5 |  2   4-3       |  2   2-3       |  4   6-6
+11  Chiangrai United         4 |  2   1-1       |  2   2-3       |  4   3-4
+12  Pattani                  4 |  2   0-3       |  2   4-4       |  4   4-7
+13  Sukhothai FC             3 |  2   3-4       |  2   0-7       |  4   3-11
+14  Rasi Salai United        1 |  2   2-3       |  2   4-7       |  4   6-10
+15  Lamphun Warrior          1 |  2   1-6       |  2   2-3       |  4   3-9
+16  Chonburi FC              0 |  2   2-4       |  2   1-3       |  4   3-7
+
+(26 API-Football requests used)
+
+----------------------------------------------------------------------
+MATCHBOOK: skipped (switched off for this run)

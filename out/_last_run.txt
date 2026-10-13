@@ -1,3 +1,4 @@
-RUN 2026-10-13 08:43 local | 1 match(es)
-Pohang Steelers v id:2523 -> out/Pohang_Steelers_v_id_2523.txt
-Requests used: API-Football 28, Matchbook 0
+RUN 2026-10-13 09:26 local | 2 match(es)
+Shanghai Port v Daejeon Citizen -> out/Shanghai_Port_v_Daejeon_Citizen.txt
+Kyoto Sanga v Ratchaburi -> out/Kyoto_Sanga_v_Ratchaburi.txt
+Requests used: API-Football 52, Matchbook 0
