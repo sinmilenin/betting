@@ -1,5 +1,2 @@
-# Orbit scan 2026-10-14 19:41 (Ljubljana), second run: team ids for ambiguous names
-Real Betis v id:212 | n=20 | xg=10
-id:327 v Borussia Dortmund | n=20 | xg=10
-id:66 v id:611 | n=20 | xg=10
-Shakhtar Donetsk v id:575 | n=20 | xg=10
+# Orbit scan 2026-10-14 21:11 (Ljubljana)
+Trujillanos v Rayo Zuliano | n=20 | xg=10
