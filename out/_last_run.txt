@@ -1,3 +1,3 @@
-RUN 2026-10-14 10:12 local | 1 match(es)
-Shakhtar Donetsk U19 v AEK Athens U19 -> out/Shakhtar_Donetsk_U19_v_AEK_Athens_U19.txt
-Requests used: API-Football 24, Matchbook 0
+RUN 2026-10-14 12:28 local | 1 match(es)
+Piestany v Spartak Trnava -> out/Piestany_v_Spartak_Trnava.txt
+Requests used: API-Football 28, Matchbook 0
