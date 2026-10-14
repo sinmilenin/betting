@@ -1,0 +1,82 @@
+MATCH Bohemians 1905 v Mlada Boleslav | fetched 2026-10-14 14:42 local
+
+FORM DATA Bohemians 1905 v Mlada Boleslav | source API-Football | 2026-10-14 14:42 UTC
+H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
+
+=== Bohemians 1905 (id 3714): last 20 finished games ===
+2026-10-10 H 1-0 v Baník Ostrava | Czech Liga | Prague | xG 2.51-0.73
+2026-09-30 A 5-0 v Vsetín | Cup | Vsetin
+2026-09-26 A 0-0 v Bohemians | Friendlies Clubs | Dublin
+2026-09-19 A 1-2 v Pardubice | Czech Liga | Pardubice | xG 1.05-0.94
+2026-09-12 H 2-0 v Slovácko | Czech Liga | Prague | xG 3.70-0.24
+2026-09-05 A 0-3 v Sigma Olomouc | Czech Liga | Olomouc | xG 0.42-1.78
+2026-09-02 H 1-1 v FK Jablonec | Czech Liga | Prague | xG 1.75-1.15
+2026-08-25 A 3-2 v Sokol Zápy | Cup | ?
+2026-08-22 A 2-2 v Slavia Praha | Czech Liga | Prague | xG 0.81-2.74
+2026-08-08 A 2-0 v Zlin | Czech Liga | Zlin | xG 1.94-0.84
+2026-08-02 H 0-0 v Hradec Králové | Czech Liga | Prague
+2026-07-25 A 1-3 v Teplice | Czech Liga | Teplice
+2026-07-17 A 2-0 v Zaglebie Lubin | Friendlies Clubs | ?
+2026-07-14 A 0-2 v Wisla Plock | Friendlies Clubs | ?
+2026-07-11 A 0-4 v Lech Poznan | Friendlies Clubs | ?
+2026-07-04 A 4-2 v Táborsko | Friendlies Clubs | ?
+2026-05-10 A 2-0 v Sigma Olomouc | Czech Liga | Olomouc [AET, 90-min score shown]
+2026-05-02 H 1-3 v Sigma Olomouc | Czech Liga | Prague
+2026-04-25 H 2-0 v Sparta Praha | Czech Liga | Prague
+2026-04-18 A 2-0 v Baník Ostrava | Czech Liga | Ostrava
+Listed home: 6 games, scored 7 (1.17), conceded 4 (0.67), blanks 1, clean sheets 4
+Listed away: 14 games, scored 24 (1.71), conceded 20 (1.43), blanks 4, clean sheets 6
+All: 20 games, scored 31 (1.55), conceded 24 (1.20), blanks 5, clean sheets 10
+
+=== Mlada Boleslav (id 640): last 20 finished games ===
+2026-10-10 A 0-3 v Plzen | Czech Liga | Plzen | xG 1.57-2.75
+2026-10-02 H 3-1 v Příbram | Friendlies Clubs | ?
+2026-09-19 H 2-0 v Zbrojovka Brno | Czech Liga | Mlada Boleslav | xG 1.03-2.49
+2026-09-15 A 3-0 v Třinec | Cup | Trinec
+2026-09-12 A 0-3 v Slovan Liberec | Czech Liga | Liberec | xG 0.74-3.16
+2026-09-06 H 4-0 v Baník Ostrava | Czech Liga | Mlada Boleslav | xG 3.10-2.44
+2026-08-26 A 4-0 v Meteor Praha | Cup | ?
+2026-08-22 H 2-1 v Slovácko | Czech Liga | Mlada Boleslav | xG 1.16-2.18
+2026-08-15 A 1-1 v Pardubice | Czech Liga | Pardubice | xG 0.75-1.37
+2026-08-08 H 2-0 v Sparta Praha | Czech Liga | Mlada Boleslav | xG 1.49-0.74
+2026-08-02 A 2-2 v Sigma Olomouc | Czech Liga | Olomouc
+2026-07-27 A 4-2 v Artis | Czech Liga | Brno
+2026-07-18 H 4-0 v Ried | Friendlies Clubs | ?
+2026-07-15 A 4-2 v Energie Cottbus | Friendlies Clubs | ?
+2026-07-11 H 3-0 v Táborsko | Friendlies Clubs | ?
+2026-07-04 H 3-0 v Viktoria Žižkov | Friendlies Clubs | ?
+2026-06-27 A 0-5 v FK Jablonec | Friendlies Clubs | ?
+2026-06-26 H 2-0 v Dukla Praha | Friendlies Clubs | ?
+2026-05-23 H 0-2 v Teplice | Czech Liga | Mlada Boleslav
+2026-05-16 A 3-0 v Slovácko | Czech Liga | Uherske Hradiste
+Listed home: 10 games, scored 25 (2.50), conceded 4 (0.40), blanks 1, clean sheets 7
+Listed away: 10 games, scored 21 (2.10), conceded 18 (1.80), blanks 3, clean sheets 3
+All: 20 games, scored 46 (2.30), conceded 22 (1.10), blanks 4, clean sheets 10
+
+TABLE FOR Bohemians 1905
+LEAGUE TABLE Czech Liga 2026 | 16 teams | 79 games played
+League averages per game: home 1.48, away 1.29, total 2.77
+#   team                   Pts | home P GF-GA  | away P GF-GA  | all P GF-GA
+1   Slavia Praha            26 |  5  15-5       |  5  11-1       | 10  26-6
+2   Slovan Liberec          20 |  5   6-4       |  5   7-2       | 10  13-6
+3   Sparta Praha            18 |  5  11-5       |  5   9-7       | 10  20-12
+4   Mlada Boleslav          17 |  4  10-1       |  5   7-11      |  9  17-12
+5   Sigma Olomouc           17 |  4   8-6       |  6   9-8       | 10  17-14
+6   FK Jablonec             17 |  5   8-4       |  5   4-5       | 10  12-9
+7   Teplice                 17 |  6  11-11      |  4   7-5       | 10  18-16
+8   Zbrojovka Brno          16 |  6   9-6       |  4   3-7       | 10  12-13
+9   Hradec Králové          14 |  6   8-9       |  4   2-4       | 10  10-13
+10  Plzen                   13 |  6  11-10      |  4   9-7       | 10  20-17
+11  Bohemians 1905          12 |  4   4-1       |  5   6-10      |  9  10-11
+12  Baník Ostrava           10 |  4   3-6       |  6   4-12      | 10   7-18
+13  Artis                    8 |  5   3-13      |  5   8-7       | 10  11-20
+14  Pardubice                8 |  4   4-6       |  6   5-10      | 10   9-16
+15  Slovácko                 7 |  4   4-5       |  6   5-11      | 10   9-16
+16  Zlin                     1 |  6   2-10      |  4   6-10      | 10   8-20
+
+(Mlada Boleslav: same table as Bohemians 1905, shown above)
+
+(25 API-Football requests used)
+
+----------------------------------------------------------------------
+MATCHBOOK: skipped (switched off for this run)
