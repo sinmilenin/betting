@@ -1,5 +1,9 @@
-# Orbit scan 2026-10-14 18:56 (Ljubljana)
-QPR v Derby | n=20 | xg=10
-Norwich v Southampton | n=20 | xg=10
-Portsmouth v Sheffield Utd | n=20 | xg=10
-Crystal Palace U21 v Anderlecht II | n=20 | xg=10
+# Orbit scan 2026-10-14 19:41 (Ljubljana)
+Real Betis v FC Porto | n=20 | xg=10
+Bodo/Glimt v Borussia Dortmund | n=20 | xg=10
+Lincoln v West Ham | n=20 | xg=10
+Aston Villa v Fenerbahce | n=20 | xg=10
+Slovan Bratislava v VfB Stuttgart | n=20 | xg=10
+Shakhtar Donetsk v AEK Athens | n=20 | xg=10
+Manchester City v Paris Saint Germain | n=20 | xg=10
+AS Roma v Real Madrid | n=20 | xg=10
