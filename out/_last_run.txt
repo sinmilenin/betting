@@ -1,3 +1,4 @@
-RUN 2026-10-14 08:43 local | 1 match(es)
-Kashiwa Reysol v Port FC -> out/Kashiwa_Reysol_v_Port_FC.txt
-Requests used: API-Football 26, Matchbook 0
+RUN 2026-10-14 09:27 local | 2 match(es)
+Matsumoto Yamaga v Sanfrecce Hiroshima -> out/Matsumoto_Yamaga_v_Sanfrecce_Hiroshima.txt
+Mito Hollyhock v FC Tokyo -> out/Mito_Hollyhock_v_FC_Tokyo.txt
+Requests used: API-Football 50, Matchbook 0
