@@ -1,0 +1,115 @@
+MATCH Crystal Palace U21 v Anderlecht II | fetched 2026-10-14 16:57 local
+
+FORM DATA Crystal Palace U21 v Anderlecht II | source API-Football | 2026-10-14 16:57 UTC
+H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
+
+=== Crystal Palace U21 (id 17000): last 20 finished games ===
+2026-09-22 A 1-5 v Plymouth | EFL Trophy | Plymouth
+2026-09-19 H 0-1 v Blackburn Rovers U21 | Premier League 2 Division One | ?
+2026-09-15 A 2-1 v Swindon Town | EFL Trophy | Swindon
+2026-09-02 H 2-1 v Paris Saint-Germain U21 | Premier League International Cup | London
+2026-08-28 A 2-0 v Aston Villa U21 | Premier League 2 Division One | Birmingham
+2026-08-22 A 1-1 v Arsenal U21 | Premier League 2 Division One | Borehamwood
+2026-07-21 A 0-5 v Dagenham & Redbridge | Friendlies Clubs | ?
+2026-05-04 H 0-2 v Manchester United U21 | Premier League 2 Division One | London
+2026-04-26 A 2-2 v Liverpool U21 | Premier League 2 Division One | Liverpool [PEN, 90-min score shown]
+2026-04-13 H 2-0 v Arsenal U21 | Premier League 2 Division One | London
+2026-04-03 A 0-2 v Nottingham Forest U21 | Premier League 2 Division One | Leicestershire
+2026-03-22 A 5-1 v Liverpool U21 | Premier League 2 Division One | Liverpool
+2026-03-18 H 0-3 v Real Sociedad II | Premier League International Cup | London
+2026-03-14 H 2-2 v Wolves U21 | Premier League 2 Division One | Beckenham
+2026-03-06 A 2-1 v Blackburn Rovers U21 | Premier League 2 Division One | Brockhall Village
+2026-03-02 H 0-1 v Sunderland U21 | Premier League 2 Division One | London
+2026-02-23 A 0-3 v West Ham United U21 | Premier League 2 Division One | London
+2026-02-18 H 2-0 v Borussia M'gladbach II | Premier League International Cup | ?
+2026-02-13 H 2-1 v Fulham U21 | Premier League 2 Division One | London
+2026-02-09 H 1-1 v Middlesbrough U21 | Premier League 2 Division One | London
+Listed home: 10 games, scored 11 (1.10), conceded 12 (1.20), blanks 4, clean sheets 2
+Listed away: 10 games, scored 15 (1.50), conceded 21 (2.10), blanks 3, clean sheets 1
+All: 20 games, scored 26 (1.30), conceded 33 (1.65), blanks 7, clean sheets 3
+
+=== RSC Anderlecht II (id 19046): last 20 finished games ===
+2026-10-09 H 0-2 v AS Eupen | Challenger Pro League | Brussels | xG 0.45-2.10
+2026-09-18 A 2-3 v Francs Borains | Challenger Pro League | Boussu
+2026-09-12 H 2-6 v Lokeren-Temse | Challenger Pro League | Anderlecht
+2026-09-05 A 2-2 v KAA Gent II | Challenger Pro League | Gent
+2026-08-29 H 0-1 v Beerschot VA | Challenger Pro League | Anderlecht
+2026-08-21 H 0-1 v Excelsior Virton | Challenger Pro League | Anderlecht | xG 0.72-2.00
+2026-08-15 A 1-2 v Patro Eisden | Challenger Pro League | Maasmechelen
+2026-08-01 A 2-0 v Dordrecht | Friendlies Clubs | ?
+2026-04-17 H 5-0 v Olympic Charleroi | Challenger Pro League | Anderlecht
+2026-04-11 A 1-2 v RWDM | Challenger Pro League | Brussels
+2026-04-04 H 0-5 v SK Beveren | Challenger Pro League | Anderlecht
+2026-03-21 A 2-4 v Lokeren-Temse | Challenger Pro League | Lokeren
+2026-03-13 H 0-1 v AS Eupen | Challenger Pro League | Anderlecht
+2026-03-10 A 2-4 v Beerschot VA | Challenger Pro League | Antwerp
+2026-03-07 H 0-0 v Patro Eisden | Challenger Pro League | Anderlecht
+2026-02-28 A 5-0 v Club Brugge II | Challenger Pro League | Roeselare
+2026-02-20 H 2-1 v KRC Genk II | Challenger Pro League | Anderlecht
+2026-02-14 A 0-2 v Lommel United | Challenger Pro League | Lommel
+2026-02-07 A 2-1 v Seraing United | Challenger Pro League | Seraing
+2026-01-31 H 0-0 v Liège | Challenger Pro League | Anderlecht
+Listed home: 10 games, scored 9 (0.90), conceded 17 (1.70), blanks 7, clean sheets 3
+Listed away: 10 games, scored 19 (1.90), conceded 20 (2.00), blanks 1, clean sheets 2
+All: 20 games, scored 28 (1.40), conceded 37 (1.85), blanks 8, clean sheets 5
+
+TABLE FOR Crystal Palace U21
+LEAGUE TABLE Premier League 2 Division One 2026 | 31 teams | 58 games played
+League averages per game: home 2.24, away 1.62, total 3.86
+#   team                   Pts | home P GF-GA  | away P GF-GA  | all P GF-GA
+1   Tottenham Hotspur U21   10 |  2   7-5       |  2   6-2       |  4  13-7
+2   Southampton U21         10 |  1   3-1       |  3   4-1       |  4   7-2
+3   Sunderland U21          10 |  3  12-4       |  2   3-7       |  5  15-11
+4   Manchester United U21    9 |  3  12-3       |  0   0-0       |  3  12-3
+5   Chelsea U21              9 |  2   8-5       |  2   5-3       |  4  13-8
+6   AFC Bournemouth U21      9 |  3   7-3       |  1   1-3       |  4   8-6
+7   Nottingham Forest U21    9 |  2   3-1       |  2   4-6       |  4   7-7
+8   Liverpool U21            7 |  2   7-2       |  2   1-2       |  4   8-4
+9   Fulham U21               7 |  2   7-6       |  2   5-3       |  4  12-9
+10  Leeds United U21         7 |  2   6-3       |  2   5-6       |  4  11-9
+11  Reading U21              7 |  2   1-3       |  2   6-3       |  4   7-6
+12  Norwich City U21         7 |  2   4-2       |  2   2-3       |  4   6-5
+13  Brentford U21            6 |  2   5-3       |  2   5-5       |  4  10-8
+14  Everton U21              5 |  2   2-3       |  2   2-0       |  4   4-3
+15  West Ham United U21      5 |  2   1-0       |  2   4-5       |  4   5-5
+16  Aston Villa U21          5 |  3   4-5       |  1   3-3       |  4   7-8
+17  Stoke City U21           4 |  2   6-3       |  2   1-2       |  4   7-5
+18  Crystal Palace U21       4 |  1   0-1       |  2   3-1       |  3   3-2
+19  Brighton U21             4 |  2   5-2       |  2   2-7       |  4   7-9
+20  Derby County U21         4 |  2   5-7       |  2   4-5       |  4   9-12
+21  Arsenal U21              4 |  3   4-7       |  2   2-2       |  5   6-9
+22  Manchester City U21      3 |  1   4-0       |  2   3-6       |  3   7-6
+23  Burnley U21              3 |  2   5-4       |  2   3-5       |  4   8-9
+24  Blackburn Rovers U21     3 |  1   2-3       |  2   2-4       |  3   4-7
+25  Ipswich Town U21         3 |  1   4-1       |  2   2-9       |  3   6-10
+26  Birmingham City U21      2 |  1   0-0       |  2   5-7       |  3   5-7
+27  Middlesbrough U21        2 |  2   4-5       |  2   3-5       |  4   7-10
+28  West Bromwich Albion U   1 |  1   1-3       |  2   7-8       |  3   8-11
+29  Leicester City U21       1 |  1   0-0       |  2   1-7       |  3   1-7
+30  Newcastle United U21     0 |  2   1-7       |  1   0-2       |  3   1-9
+31  Wolves U21               0 |  1   0-2       |  2   0-8       |  3   0-10
+
+TABLE FOR RSC Anderlecht II
+LEAGUE TABLE Challenger Pro League 2026 | 15 teams | 49 games played
+League averages per game: home 1.82, away 1.37, total 3.18
+#   team                   Pts | home P GF-GA  | away P GF-GA  | all P GF-GA
+1   Beerschot VA            18 |  4  16-4       |  3   2-2       |  7  18-6
+2   Dender                  18 |  4   8-0       |  3   3-2       |  7  11-2
+3   AS Eupen                15 |  2   7-2       |  4   6-3       |  6  13-5
+4   Francs Borains          12 |  3   6-3       |  3   3-4       |  6   9-7
+5   Sporting Hasselt        12 |  3   1-3       |  4   7-7       |  7   8-10
+6   Excelsior Virton        10 |  4   9-5       |  2   2-1       |  6  11-6
+7   Lokeren-Temse           10 |  3   5-6       |  3   8-5       |  6  13-11
+8   K. Lierse S.K.           8 |  3   5-1       |  3   2-7       |  6   7-8
+9   Club Brugge II           8 |  3   5-5       |  3   6-8       |  6  11-13
+10  KAA Gent II              8 |  3   5-5       |  3   4-6       |  6   9-11
+11  KRC Genk II              7 |  3   7-5       |  4   5-10      |  7  12-15
+12  Patro Eisden             6 |  4   5-5       |  3   3-7       |  7   8-12
+13  Liège                    5 |  3   6-8       |  4   5-10      |  7  11-18
+14  Seraing United           2 |  3   2-5       |  4   6-10      |  7   8-15
+15  RSC Anderlecht II        1 |  4   2-10      |  3   5-7       |  7   7-17
+
+(27 API-Football requests used)
+
+----------------------------------------------------------------------
+MATCHBOOK: skipped (switched off for this run)

@@ -1,3 +1,6 @@
-RUN 2026-10-14 15:28 local | 1 match(es)
-id:1026 v Liverpool -> out/id_1026_v_Liverpool.txt
-Requests used: API-Football 26, Matchbook 0
+RUN 2026-10-14 16:57 local | 4 match(es)
+QPR v Derby -> out/QPR_v_Derby.txt
+Norwich v Southampton -> out/Norwich_v_Southampton.txt
+Portsmouth v Sheffield Utd -> out/Portsmouth_v_Sheffield_Utd.txt
+Crystal Palace U21 v Anderlecht II -> out/Crystal_Palace_U21_v_Anderlecht_II.txt
+Requests used: API-Football 100, Matchbook 0
