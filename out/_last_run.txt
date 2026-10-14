@@ -1,5 +1,3 @@
-RUN 2026-10-14 08:42 local | 3 match(es)
-Kashiwa Reysol v Port -> out/Kashiwa_Reysol_v_Port.txt
-Nagoya Grampus v Fagiano Okayama -> out/Nagoya_Grampus_v_Fagiano_Okayama.txt
-Vissel Kobe v Jeonbuk Motors -> out/Vissel_Kobe_v_Jeonbuk_Motors.txt
-Requests used: API-Football 70, Matchbook 0
+RUN 2026-10-14 08:43 local | 1 match(es)
+Kashiwa Reysol v Port FC -> out/Kashiwa_Reysol_v_Port_FC.txt
+Requests used: API-Football 26, Matchbook 0
