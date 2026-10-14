@@ -1,3 +1,4 @@
-RUN 2026-10-14 13:12 local | 1 match(es)
-Nasaf v Al Wahda -> out/Nasaf_v_Al_Wahda.txt
-Requests used: API-Football 26, Matchbook 0
+RUN 2026-10-14 13:13 local | 1 match(es)
+Nasaf v Wahda -> out/Nasaf_v_Wahda.txt
+    !! Wahda: Ambiguous team name "Wahda".
+Requests used: API-Football 15, Matchbook 0
