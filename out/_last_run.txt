@@ -1,6 +1,3 @@
-RUN 2026-10-14 17:44 local | 4 match(es)
-Real Betis v id:212 -> out/Real_Betis_v_id_212.txt
-id:327 v Borussia Dortmund -> out/id_327_v_Borussia_Dortmund.txt
-id:66 v id:611 -> out/id_66_v_id_611.txt
-Shakhtar Donetsk v id:575 -> out/Shakhtar_Donetsk_v_id_575.txt
-Requests used: API-Football 104, Matchbook 0
+RUN 2026-10-14 19:12 local | 1 match(es)
+Trujillanos v Rayo Zuliano -> out/Trujillanos_v_Rayo_Zuliano.txt
+Requests used: API-Football 25, Matchbook 0
