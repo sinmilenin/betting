@@ -1,4 +1,5 @@
-RUN 2026-10-13 19:02 local | 2 match(es)
-id:378 v id:373 -> out/id_378_v_id_373.txt
-Pendikspor v Vanspor -> out/Pendikspor_v_Vanspor.txt
-Requests used: API-Football 10, Matchbook 0
+RUN 2026-10-14 08:42 local | 3 match(es)
+Kashiwa Reysol v Port -> out/Kashiwa_Reysol_v_Port.txt
+Nagoya Grampus v Fagiano Okayama -> out/Nagoya_Grampus_v_Fagiano_Okayama.txt
+Vissel Kobe v Jeonbuk Motors -> out/Vissel_Kobe_v_Jeonbuk_Motors.txt
+Requests used: API-Football 70, Matchbook 0
