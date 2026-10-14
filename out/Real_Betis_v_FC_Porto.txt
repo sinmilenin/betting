@@ -1,0 +1,72 @@
+MATCH Real Betis v FC Porto | fetched 2026-10-14 17:43 local
+
+FORM DATA Real Betis v FC Porto | source API-Football | 2026-10-14 17:43 UTC
+H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
+
+=== Real Betis (id 543): last 20 finished games ===
+2026-10-11 H 5-2 v Osasuna | La Liga | Sevilla | xG 2.89-1.94
+2026-09-20 A 1-1 v Deportivo La Coruna | La Liga | La Coruna | xG 0.80-2.09
+2026-09-17 H 1-0 v Getafe | La Liga | Sevilla | xG 1.89-0.29
+2026-09-14 A 2-1 v Villarreal | La Liga | Villarreal | xG 3.52-1.89
+2026-09-08 A 3-2 v Lille | UEFA Champions League | Lille | xG 1.80-0.83
+2026-09-04 H 1-0 v Real Madrid | La Liga | Sevilla | xG 0.93-3.46
+2026-08-29 A 2-5 v Levante | La Liga | Valencia | xG 1.92-2.76
+2026-08-25 A 1-0 v Valencia | La Liga | Valencia | xG 0.71-1.12
+2026-08-21 H 1-0 v Real Sociedad | La Liga | Sevilla | xG 1.24-1.36
+2026-08-15 A 0-1 v Inter | Friendlies Clubs | ?
+2026-08-08 H 2-2 v Bournemouth | Friendlies Clubs | ?
+2026-08-05 A 3-1 v Arsenal | Friendlies Clubs | Dublin
+2026-08-01 H 1-0 v Almeria | Friendlies Clubs | ?
+2026-07-29 H 4-0 v Lyon | Friendlies Clubs | ?
+2026-07-25 A 0-1 v Granada CF | Friendlies Clubs | ?
+2026-07-22 A 1-0 v Recreativo Huelva | Friendlies Clubs | ?
+2026-07-18 A 3-0 v Sportfreunde Lotte | Friendlies Clubs | ?
+2026-05-23 H 2-1 v Levante | La Liga | Sevilla
+2026-05-17 A 1-3 v Barcelona | La Liga | Barcelona
+2026-05-12 H 2-1 v Elche | La Liga | Sevilla
+Listed home: 9 games, scored 19 (2.11), conceded 6 (0.67), blanks 0, clean sheets 5
+Listed away: 11 games, scored 17 (1.55), conceded 15 (1.36), blanks 2, clean sheets 3
+All: 20 games, scored 36 (1.80), conceded 21 (1.05), blanks 2, clean sheets 8
+
+"FC Porto" matches several teams. Use id:<number> instead of the name:
+  id:212    FC Porto (Portugal)
+  id:243    FC Porto B (Portugal)
+  id:25115  FC Porto (Brazil)
+  id:28185  FC Porto U21 (Portugal)
+(retrying FC Porto using the opponent's country, Spain)
+"FC Porto" matches several teams. Use id:<number> instead of the name:
+  id:212    FC Porto (Portugal)
+  id:243    FC Porto B (Portugal)
+  id:25115  FC Porto (Brazil)
+  id:28185  FC Porto U21 (Portugal)
+!! FC Porto: Ambiguous team name "FC Porto".
+
+TABLE FOR Real Betis
+LEAGUE TABLE La Liga 2026 | 20 teams | 78 games played
+League averages per game: home 1.76, away 1.33, total 3.09
+#   team                   Pts | home P GF-GA  | away P GF-GA  | all P GF-GA
+1   Barcelona               24 |  4  17-4       |  4  17-3       |  8  34-7
+2   Atletico Madrid         19 |  4  10-3       |  4   8-5       |  8  18-8
+3   Real Betis              19 |  4   8-2       |  4   6-7       |  8  14-9
+4   Real Madrid             18 |  4  13-2       |  4   6-6       |  8  19-8
+5   Sevilla                 14 |  4   5-7       |  4   8-5       |  8  13-12
+6   Real Sociedad           13 |  4   5-6       |  4   7-9       |  8  12-15
+7   Alaves                  11 |  5  10-5       |  3   2-3       |  8  12-8
+8   Deportivo La Coruna     10 |  4   5-4       |  4   7-7       |  8  12-11
+9   Celta Vigo               8 |  4   7-5       |  4   1-1       |  8   8-6
+10  Athletic Club            8 |  4   5-4       |  2   2-2       |  6   7-6
+11  Villarreal               8 |  3   6-6       |  5   7-7       |  8  13-13
+12  Espanyol                 8 |  4   6-6       |  4   5-5       |  8  11-11
+13  Rayo Vallecano           8 |  3   6-4       |  4   5-12      |  7  11-16
+14  Getafe                   8 |  4   4-2       |  4   0-8       |  8   4-10
+15  Racing Santander         8 |  4   9-7       |  4   4-16      |  8  13-23
+16  Osasuna                  8 |  4   2-3       |  4   6-15      |  8   8-18
+17  Levante                  6 |  3  10-9       |  4   1-6       |  7  11-15
+18  Elche                    6 |  4   4-11      |  4   7-6       |  8  11-17
+19  Valencia                 5 |  4   2-9       |  4   4-6       |  8   6-15
+20  Malaga                   4 |  4   3-5       |  4   1-8       |  8   4-13
+
+(15 API-Football requests used)
+
+----------------------------------------------------------------------
+MATCHBOOK: skipped (switched off for this run)

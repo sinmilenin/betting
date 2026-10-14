@@ -1,6 +1,15 @@
-RUN 2026-10-14 16:57 local | 4 match(es)
-QPR v Derby -> out/QPR_v_Derby.txt
-Norwich v Southampton -> out/Norwich_v_Southampton.txt
-Portsmouth v Sheffield Utd -> out/Portsmouth_v_Sheffield_Utd.txt
-Crystal Palace U21 v Anderlecht II -> out/Crystal_Palace_U21_v_Anderlecht_II.txt
-Requests used: API-Football 100, Matchbook 0
+RUN 2026-10-14 17:43 local | 8 match(es)
+Real Betis v FC Porto -> out/Real_Betis_v_FC_Porto.txt
+    !! FC Porto: Ambiguous team name "FC Porto".
+Bodo/Glimt v Borussia Dortmund -> out/Bodo_Glimt_v_Borussia_Dortmund.txt
+    !! Bodo/Glimt: API-Football error: {"search": "The Search field may only contain alpha-numeric characters and spaces."}
+Lincoln v West Ham -> out/Lincoln_v_West_Ham.txt
+Aston Villa v Fenerbahce -> out/Aston_Villa_v_Fenerbahce.txt
+    !! Aston Villa: Ambiguous team name "Aston Villa".
+    !! Fenerbahce: Ambiguous team name "Fenerbahce".
+Slovan Bratislava v VfB Stuttgart -> out/Slovan_Bratislava_v_VfB_Stuttgart.txt
+Shakhtar Donetsk v AEK Athens -> out/Shakhtar_Donetsk_v_AEK_Athens.txt
+    !! AEK Athens: Ambiguous team name "AEK Athens".
+Manchester City v Paris Saint Germain -> out/Manchester_City_v_Paris_Saint_Germain.txt
+AS Roma v Real Madrid -> out/AS_Roma_v_Real_Madrid.txt
+Requests used: API-Football 147, Matchbook 0

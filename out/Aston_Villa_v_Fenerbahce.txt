@@ -1,0 +1,25 @@
+MATCH Aston Villa v Fenerbahce | fetched 2026-10-14 17:43 local
+
+FORM DATA Aston Villa v Fenerbahce | source API-Football | 2026-10-14 17:43 UTC
+H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
+
+"Aston Villa" matches several teams. Use id:<number> instead of the name:
+  id:66     Aston Villa (England)
+  id:7190   Aston Villa U21 (England)
+  id:14219  Aston Villa W (England)
+  id:15389  Aston Villa U18 (England)
+  id:15632  Aston Villa U23 (England)
+  id:22805  Aston Villa (Antigua-and-Barbuda)
+  id:24970  Aston Villa U19 (England)
+"Fenerbahce" matches several teams. Use id:<number> instead of the name:
+  id:611    Fenerbahçe (Turkey)
+  id:27868  Fenerbahce W (Turkey)
+  id:28245  Fenerbahce U19 (Turkey)
+!! Aston Villa: Ambiguous team name "Aston Villa".
+
+!! Fenerbahce: Ambiguous team name "Fenerbahce".
+
+(2 API-Football requests used)
+
+----------------------------------------------------------------------
+MATCHBOOK: skipped (switched off for this run)

@@ -1,0 +1,109 @@
+MATCH AS Roma v Real Madrid | fetched 2026-10-14 17:43 local
+
+FORM DATA AS Roma v Real Madrid | source API-Football | 2026-10-14 17:43 UTC
+H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
+
+=== AS Roma (id 497): last 20 finished games ===
+2026-10-11 A 0-0 v Como | Serie A | Como | xG 1.08-1.35
+2026-09-19 H 2-2 v Inter | Serie A | Rome
+2026-09-14 A 2-0 v Torino | Serie A | Turin | xG 1.85-0.86
+2026-09-10 A 1-1 v Fenerbahçe | UEFA Champions League | Istanbul | xG 0.48-1.57
+2026-09-05 H 2-1 v Atalanta | Serie A | Rome | xG 2.97-0.70
+2026-08-31 A 4-0 v Lecce | Serie A | Lecce | xG 3.27-0.80
+2026-08-24 H 4-0 v Fiorentina | Serie A | Rome | xG 3.07-0.35
+2026-08-15 A 2-2 v Borussia Dortmund | Friendlies Clubs | Dortmund
+2026-08-08 A 0-3 v Brighton | Friendlies Clubs | Brighton
+2026-08-04 A 4-1 v Newport County | Friendlies Clubs | Newport
+2026-08-01 A 1-4 v Cardiff | Friendlies Clubs | Cardiff
+2026-07-26 A 3-3 v Cannes | Friendlies Clubs | Cannes
+2026-05-24 A 2-0 v Hellas Verona | Serie A | Verona
+2026-05-17 H 2-0 v Lazio | Serie A | Rome
+2026-05-10 A 3-2 v Parma | Serie A | Parma
+2026-05-04 H 4-0 v Fiorentina | Serie A | Rome
+2026-04-25 A 2-0 v Bologna | Serie A | Bologna
+2026-04-18 H 1-1 v Atalanta | Serie A | Rome
+2026-04-10 H 3-0 v Pisa | Serie A | Rome
+2026-04-05 A 2-5 v Inter | Serie A | Milan
+Listed home: 7 games, scored 18 (2.57), conceded 4 (0.57), blanks 0, clean sheets 4
+Listed away: 13 games, scored 26 (2.00), conceded 21 (1.62), blanks 2, clean sheets 5
+All: 20 games, scored 44 (2.20), conceded 25 (1.25), blanks 2, clean sheets 9
+
+=== Real Madrid (id 541): last 20 finished games ===
+2026-10-10 H 1-0 v Villarreal | La Liga | Madrid | xG 1.43-0.59
+2026-09-20 A 1-2 v Atletico Madrid | La Liga | Madrid | xG 0.30-2.35
+2026-09-15 A 3-2 v Elche | La Liga | Elche | xG 3.61-0.78
+2026-09-12 H 4-1 v Rayo Vallecano | La Liga | Madrid | xG 2.62-1.21
+2026-09-08 H 2-1 v Inter | UEFA Champions League | Madrid | xG 2.91-1.83
+2026-09-04 A 0-1 v Real Betis | La Liga | Sevilla | xG 3.46-0.93
+2026-08-30 H 4-0 v Malaga | La Liga | Madrid | xG 2.62-0.71
+2026-08-26 H 4-1 v Real Sociedad | La Liga | Madrid | xG 3.14-0.57
+2026-08-22 A 2-1 v Espanyol | La Liga | Cornella de Llobregat | xG 2.71-1.05
+2026-08-16 A 3-0 v FC Schalke 04 | Friendlies Clubs | ?
+2026-08-12 A 1-0 v Deportivo La Coruna | Friendlies Clubs | ?
+2026-08-08 A 2-1 v Ferencvarosi TC | Friendlies Clubs | Budapest
+2026-08-01 H 2-2 v Fiorentina | Friendlies Clubs | ?
+2026-07-28 H 4-1 v Leganes | Friendlies Clubs | ?
+2026-05-23 H 4-2 v Athletic Club | La Liga | Madrid
+2026-05-17 A 1-0 v Sevilla | La Liga | Sevilla
+2026-05-14 H 2-0 v Oviedo | La Liga | Madrid
+2026-05-10 A 0-2 v Barcelona | La Liga | Barcelona
+2026-05-03 A 2-0 v Espanyol | La Liga | Cornella de Llobregat
+2026-04-24 A 1-1 v Real Betis | La Liga | Sevilla
+Listed home: 9 games, scored 27 (3.00), conceded 8 (0.89), blanks 0, clean sheets 3
+Listed away: 11 games, scored 16 (1.45), conceded 10 (0.91), blanks 2, clean sheets 4
+All: 20 games, scored 43 (2.15), conceded 18 (0.90), blanks 2, clean sheets 7
+
+TABLE FOR AS Roma
+LEAGUE TABLE Serie A 2026 | 20 teams | 60 games played
+League averages per game: home 1.55, away 1.32, total 2.87
+#   team                   Pts | home P GF-GA  | away P GF-GA  | all P GF-GA
+1   Inter                   16 |  4  15-6       |  2   3-2       |  6  18-8
+2   Lazio                   16 |  3   6-3       |  3   5-1       |  6  11-4
+3   AS Roma                 14 |  3   8-3       |  3   6-0       |  6  14-3
+4   Cagliari                13 |  3   2-2       |  3   4-1       |  6   6-3
+5   AC Milan                12 |  2   5-0       |  4   6-5       |  6  11-5
+6   Juventus                11 |  3   5-1       |  3   4-4       |  6   9-5
+7   Como                    11 |  2   2-1       |  4   7-5       |  6   9-6
+8   Napoli                  10 |  3   5-2       |  3   5-4       |  6  10-6
+9   Frosinone               10 |  3   5-3       |  3   4-4       |  6   9-7
+10  Atalanta                 9 |  4   7-4       |  2   1-4       |  6   8-8
+11  Sassuolo                 8 |  3   6-4       |  3   4-6       |  6  10-10
+12  Torino                   7 |  3   3-5       |  3   4-4       |  6   7-9
+13  Lecce                    6 |  3   4-8       |  3   2-4       |  6   6-12
+14  Bologna                  5 |  3   3-4       |  3   2-3       |  6   5-7
+15  Udinese                  4 |  3   2-4       |  3   7-9       |  6   9-13
+16  Monza                    4 |  2   4-4       |  4   5-11      |  6   9-15
+17  Genoa                    4 |  4   4-8       |  2   1-3       |  6   5-11
+18  Parma                    4 |  3   3-3       |  3   1-7       |  6   4-10
+19  Fiorentina               4 |  3   2-6       |  3   5-8       |  6   7-14
+20  Venezia                  0 |  3   2-8       |  3   3-8       |  6   5-16
+
+TABLE FOR Real Madrid
+LEAGUE TABLE La Liga 2026 | 20 teams | 78 games played
+League averages per game: home 1.76, away 1.33, total 3.09
+#   team                   Pts | home P GF-GA  | away P GF-GA  | all P GF-GA
+1   Barcelona               24 |  4  17-4       |  4  17-3       |  8  34-7
+2   Atletico Madrid         19 |  4  10-3       |  4   8-5       |  8  18-8
+3   Real Betis              19 |  4   8-2       |  4   6-7       |  8  14-9
+4   Real Madrid             18 |  4  13-2       |  4   6-6       |  8  19-8
+5   Sevilla                 14 |  4   5-7       |  4   8-5       |  8  13-12
+6   Real Sociedad           13 |  4   5-6       |  4   7-9       |  8  12-15
+7   Alaves                  11 |  5  10-5       |  3   2-3       |  8  12-8
+8   Deportivo La Coruna     10 |  4   5-4       |  4   7-7       |  8  12-11
+9   Celta Vigo               8 |  4   7-5       |  4   1-1       |  8   8-6
+10  Athletic Club            8 |  4   5-4       |  2   2-2       |  6   7-6
+11  Villarreal               8 |  3   6-6       |  5   7-7       |  8  13-13
+12  Espanyol                 8 |  4   6-6       |  4   5-5       |  8  11-11
+13  Rayo Vallecano           8 |  3   6-4       |  4   5-12      |  7  11-16
+14  Getafe                   8 |  4   4-2       |  4   0-8       |  8   4-10
+15  Racing Santander         8 |  4   9-7       |  4   4-16      |  8  13-23
+16  Osasuna                  8 |  4   2-3       |  4   6-15      |  8   8-18
+17  Levante                  6 |  3  10-9       |  4   1-6       |  7  11-15
+18  Elche                    6 |  4   4-11      |  4   7-6       |  8  11-17
+19  Valencia                 5 |  4   2-9       |  4   4-6       |  8   6-15
+20  Malaga                   4 |  4   3-5       |  4   1-8       |  8   4-13
+
+(25 API-Football requests used)
+
+----------------------------------------------------------------------
+MATCHBOOK: skipped (switched off for this run)

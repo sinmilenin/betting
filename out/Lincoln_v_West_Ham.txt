@@ -1,0 +1,90 @@
+MATCH Lincoln v West Ham | fetched 2026-10-14 17:43 local
+
+FORM DATA Lincoln v West Ham | source API-Football | 2026-10-14 17:43 UTC
+H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
+
+=== Lincoln (id 1379): last 20 finished games ===
+2026-10-10 A 0-3 v Sheffield Utd | Championship | Sheffield | xG 1.39-0.68
+2026-09-19 H 1-2 v Swansea | Championship | Lincoln | xG 2.11-0.92
+2026-09-15 A 1-0 v Bristol City | Championship | Bristol | xG 0.53-1.53
+2026-09-12 A 1-0 v Preston | Championship | Preston | xG 0.66-0.58
+2026-09-08 A 0-4 v Bournemouth | League Cup | Bournemouth
+2026-09-05 H 1-1 v Southampton | Championship | Lincoln | xG 2.27-0.77
+2026-09-01 H 0-0 v Blackburn | Championship | Lincoln | xG 1.46-0.24
+2026-08-29 A 1-0 v Bolton | Championship | Bolton | xG 1.32-1.89
+2026-08-25 A 4-1 v Blackpool | League Cup | Blackpool
+2026-08-22 H 1-3 v Portsmouth | Championship | Lincoln | xG 2.32-1.21
+2026-08-15 A 1-2 v Middlesbrough | Championship | Middlesbrough
+2026-08-08 A 2-1 v Derby | League Cup | Derby
+2026-08-01 A 0-3 v Barnsley | Friendlies Clubs | ?
+2026-08-01 A 1-0 v Doncaster | Friendlies Clubs | ?
+2026-07-28 A 1-5 v Grimsby | Friendlies Clubs | ?
+2026-07-17 H 0-2 v Leyton Orient | Friendlies Clubs | ?
+2026-07-11 A 1-0 v Boston United | Friendlies Clubs | ?
+2026-07-10 A 1-2 v Lincoln United | Friendlies Clubs | ?
+2026-05-02 A 2-0 v Port Vale | League One | Stoke on Trent
+2026-04-25 H 4-3 v Wycombe | League One | Lincoln
+Listed home: 6 games, scored 7 (1.17), conceded 11 (1.83), blanks 2, clean sheets 1
+Listed away: 14 games, scored 16 (1.14), conceded 21 (1.50), blanks 3, clean sheets 6
+All: 20 games, scored 23 (1.15), conceded 32 (1.60), blanks 5, clean sheets 7
+
+=== West Ham (id 48): last 20 finished games ===
+2026-10-09 H 1-1 v QPR | Championship | London | xG 1.44-1.27
+2026-09-19 A 2-2 v Millwall | Championship | London | xG 1.87-2.68
+2026-09-15 H 2-3 v Fulham | League Cup | London
+2026-09-11 H 6-0 v Wrexham | Championship | London | xG 2.96-0.44
+2026-09-08 A 3-2 v Bolton | Championship | Bolton | xG 2.22-1.56
+2026-09-05 H 3-0 v Derby | Championship | London | xG 3.79-0.11
+2026-09-01 H 4-2 v Wolves | Championship | London | xG 2.05-0.94
+2026-08-29 A 1-1 v Watford | Championship | Watford | xG 0.89-1.60
+2026-08-25 A 4-1 v Southampton | League Cup | Southampton
+2026-08-22 H 1-2 v Charlton | Championship | London | xG 2.84-0.62
+2026-08-16 A 2-2 v Burnley | Championship | Burnley
+2026-08-08 H 3-1 v Portsmouth | League Cup | London
+2026-08-01 A 1-1 v 1. FC Magdeburg | Friendlies Clubs | ?
+2026-07-26 A 0-0 v Rangers | Friendlies Clubs | ?
+2026-07-22 A 5-0 v Stevenage | Friendlies Clubs | ?
+2026-07-18 A 1-1 v Southend | Friendlies Clubs | ?
+2026-05-24 H 3-0 v Leeds | Premier League | London
+2026-05-17 A 1-3 v Newcastle | Premier League | Newcastle
+2026-05-10 H 0-1 v Arsenal | Premier League | London
+2026-05-02 A 0-3 v Brentford | Premier League | London
+Listed home: 9 games, scored 23 (2.56), conceded 10 (1.11), blanks 1, clean sheets 3
+Listed away: 11 games, scored 20 (1.82), conceded 16 (1.45), blanks 2, clean sheets 2
+All: 20 games, scored 43 (2.15), conceded 26 (1.30), blanks 3, clean sheets 5
+
+TABLE FOR Lincoln
+LEAGUE TABLE Championship 2026 | 24 teams | 115 games played
+League averages per game: home 1.60, away 1.28, total 2.88
+#   team                   Pts | home P GF-GA  | away P GF-GA  | all P GF-GA
+1   Swansea                 23 |  5   7-2       |  5   9-5       | 10  16-7
+2   Middlesbrough           21 |  5  12-7       |  5   8-7       | 10  20-14
+3   Birmingham              17 |  5  11-7       |  5   6-4       | 10  17-11
+4   West Brom               17 |  5   6-4       |  5   6-6       | 10  12-10
+5   West Ham                16 |  5  15-5       |  4   8-7       |  9  23-12
+6   Stoke City              16 |  5  10-6       |  5   7-10      | 10  17-16
+7   Blackburn               15 |  5   9-7       |  5   6-6       | 10  15-13
+8   QPR                     14 |  4   4-4       |  5   7-4       |  9  11-8
+9   Wolves                  14 |  4   8-6       |  5   8-8       |  9  16-14
+10  Millwall                14 |  5   9-6       |  5   7-10      | 10  16-16
+11  Bristol City            14 |  5   3-5       |  5   9-9       | 10  12-14
+12  Charlton                14 |  5   4-2       |  5   6-11      | 10  10-13
+13  Southampton             13 |  5  16-4       |  4   4-6       |  9  20-10
+14  Bolton                  13 |  5   6-7       |  5   9-11      | 10  15-18
+15  Sheffield Utd           12 |  5   7-6       |  4   5-5       |  9  12-11
+16  Wrexham                 11 |  5   6-7       |  5   5-8       | 10  11-15
+17  Lincoln                 11 |  4   3-6       |  5   4-5       |  9   7-11
+18  Cardiff                 10 |  5  12-6       |  5   4-9       | 10  16-15
+19  Norwich                  9 |  4  10-8       |  5   7-11      |  9  17-19
+20  Portsmouth               8 |  4   5-7       |  4   4-4       |  8   9-11
+21  Burnley                  8 |  5   7-8       |  5   8-11      | 10  15-19
+22  Watford                  8 |  5   6-9       |  5   2-10      | 10   8-19
+23  Derby                    6 |  5   4-9       |  4   4-6       |  9   8-15
+24  Preston                  4 |  5   4-9       |  5   4-11      | 10   8-20
+
+(West Ham: same table as Lincoln, shown above)
+
+(25 API-Football requests used)
+
+----------------------------------------------------------------------
+MATCHBOOK: skipped (switched off for this run)
