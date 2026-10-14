@@ -1,3 +1,2 @@
-# Orbit scan 2026-10-14 17:26 (Ljubljana)
-Feyenoord v Como | n=20 | xg=10
-LASK v Liverpool | n=20 | xg=10
+# Orbit scan 2026-10-14 17:26 (Ljubljana), retry LASK by id
+id:1026 v Liverpool | n=20 | xg=10
