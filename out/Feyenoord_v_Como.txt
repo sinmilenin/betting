@@ -1,0 +1,107 @@
+MATCH Feyenoord v Como | fetched 2026-10-14 15:27 local
+
+FORM DATA Feyenoord v Como | source API-Football | 2026-10-14 15:27 UTC
+H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
+
+=== Feyenoord (id 209): last 20 finished games ===
+2026-10-10 H 2-0 v AZ Alkmaar | Eredivisie | Rotterdam | xG 2.23-1.04
+2026-09-20 H 5-0 v Utrecht | Eredivisie | Rotterdam | xG 3.41-0.58
+2026-09-13 A 7-0 v PEC Zwolle | Eredivisie | Zwolle | xG 3.40-0.19
+2026-09-09 A 1-5 v Barcelona | UEFA Champions League | Barcelona
+2026-09-05 A 3-1 v NEC Nijmegen | Eredivisie | Nijmegen | xG 1.11-0.74
+2026-08-30 H 2-2 v ADO Den Haag | Eredivisie | Rotterdam | xG 2.47-0.24
+2026-08-23 A 5-2 v Cambuur | Eredivisie | Leeuwarden | xG 2.62-0.96
+2026-08-16 H 2-2 v GO Ahead Eagles | Eredivisie | Rotterdam | xG 2.89-1.51
+2026-08-09 A 1-0 v Sparta Rotterdam | Eredivisie | Rotterdam | xG 3.53-1.01
+2026-08-02 H 2-1 v Atalanta | Friendlies Clubs | Rotterdam
+2026-07-26 H 2-1 v Rayo Vallecano | Friendlies Clubs | ?
+2026-07-17 H 3-1 v Charleroi | Friendlies Clubs | Rotterdam
+2026-07-11 H 3-1 v Club Brugge KV | Friendlies Clubs | Rotterdam
+2026-07-04 A 6-0 v Dordrecht | Friendlies Clubs | Dordrecht
+2026-05-17 A 2-0 v PEC Zwolle | Eredivisie | Zwolle
+2026-05-10 H 1-1 v AZ Alkmaar | Eredivisie | Rotterdam
+2026-05-03 A 2-1 v Fortuna Sittard | Eredivisie | Sittard
+2026-04-25 H 3-1 v Groningen | Eredivisie | Rotterdam
+2026-04-12 A 1-1 v NEC Nijmegen | Eredivisie | Nijmegen
+2026-04-05 A 0-0 v FC Volendam | Eredivisie | Volendam
+Listed home: 10 games, scored 25 (2.50), conceded 10 (1.00), blanks 0, clean sheets 2
+Listed away: 10 games, scored 28 (2.80), conceded 10 (1.00), blanks 1, clean sheets 5
+All: 20 games, scored 53 (2.65), conceded 20 (1.00), blanks 1, clean sheets 7
+
+=== Como (id 895): last 20 finished games ===
+2026-10-11 H 0-0 v AS Roma | Serie A | Como | xG 1.35-1.08
+2026-09-20 A 0-2 v Frosinone | Serie A | Frosinone | xG 2.12-2.18
+2026-09-14 H 2-1 v Parma | Serie A | Como | xG 2.98-1.15
+2026-09-10 H 4-1 v RB Leipzig | UEFA Champions League | Como
+2026-09-04 A 4-1 v Genoa | Serie A | Genova | xG 1.78-0.78
+2026-08-30 A 2-1 v Napoli | Serie A | Naples | xG 1.05-1.39
+2026-08-22 A 1-1 v Udinese | Serie A | Udine | xG 1.50-2.14
+2026-08-16 A 0-0 v Liverpool | Friendlies Clubs | ?
+2026-08-12 A 1-1 v Arsenal | Friendlies Clubs | London [PEN, 90-min score shown]
+2026-07-31 A 3-2 v Famalicao | Como Cup | Como
+2026-07-29 A 1-1 v Villarreal | Como Cup | Como [PEN, 90-min score shown]
+2026-07-29 H 3-1 v Al Ula | Como Cup | Como
+2026-07-24 H 2-2 v Paris FC | Friendlies Clubs | ?
+2026-05-24 A 4-1 v Cremonese | Serie A | Cremona
+2026-05-17 H 1-0 v Parma | Serie A | Como
+2026-05-10 A 1-0 v Hellas Verona | Serie A | Verona
+2026-05-02 H 0-0 v Napoli | Serie A | Como
+2026-04-26 A 2-0 v Genoa | Serie A | Genoa
+2026-04-21 A 2-3 v Inter | Coppa Italia | Milan
+2026-04-17 A 1-2 v Sassuolo | Serie A | Reggio Emilia
+Listed home: 7 games, scored 12 (1.71), conceded 5 (0.71), blanks 2, clean sheets 3
+Listed away: 13 games, scored 22 (1.69), conceded 15 (1.15), blanks 2, clean sheets 3
+All: 20 games, scored 34 (1.70), conceded 20 (1.00), blanks 4, clean sheets 6
+
+TABLE FOR Feyenoord
+LEAGUE TABLE Eredivisie 2026 | 18 teams | 72 games played
+League averages per game: home 1.71, away 2.03, total 3.74
+#   team                   Pts | home P GF-GA  | away P GF-GA  | all P GF-GA
+1   Feyenoord               20 |  4  11-4       |  4  16-3       |  8  27-7
+2   PSV Eindhoven           19 |  4  13-4       |  4  13-6       |  8  26-10
+3   AZ Alkmaar              19 |  4   9-3       |  4   9-5       |  8  18-8
+4   Twente                  17 |  4   9-3       |  4   7-5       |  8  16-8
+5   Ajax                    15 |  5  11-9       |  3  11-1       |  8  22-10
+6   Groningen               14 |  4   9-6       |  4  11-8       |  8  20-14
+7   Fortuna Sittard         14 |  4   5-9       |  4   9-6       |  8  14-15
+8   GO Ahead Eagles         11 |  4  11-6       |  4   8-11      |  8  19-17
+9   Excelsior               11 |  4   5-10      |  4  11-4       |  8  16-14
+10  Heerenveen               9 |  4   3-5       |  4   8-6       |  8  11-11
+11  NEC Nijmegen             9 |  4   5-8       |  4   8-6       |  8  13-14
+12  Cambuur                  8 |  4   6-13      |  4   5-6       |  8  11-19
+13  Utrecht                  8 |  4   8-14      |  4   6-11      |  8  14-25
+14  Sparta Rotterdam         6 |  4   5-10      |  4   8-10      |  8  13-20
+15  Telstar                  6 |  4   5-11      |  4   2-3       |  8   7-14
+16  PEC Zwolle               4 |  4   1-13      |  4   5-8       |  8   6-21
+17  ADO Den Haag             3 |  3   4-8       |  5   5-11      |  8   9-19
+18  Willem II                2 |  4   3-10      |  4   4-13      |  8   7-23
+
+TABLE FOR Como
+LEAGUE TABLE Serie A 2026 | 20 teams | 60 games played
+League averages per game: home 1.55, away 1.32, total 2.87
+#   team                   Pts | home P GF-GA  | away P GF-GA  | all P GF-GA
+1   Inter                   16 |  4  15-6       |  2   3-2       |  6  18-8
+2   Lazio                   16 |  3   6-3       |  3   5-1       |  6  11-4
+3   AS Roma                 14 |  3   8-3       |  3   6-0       |  6  14-3
+4   Cagliari                13 |  3   2-2       |  3   4-1       |  6   6-3
+5   AC Milan                12 |  2   5-0       |  4   6-5       |  6  11-5
+6   Juventus                11 |  3   5-1       |  3   4-4       |  6   9-5
+7   Como                    11 |  2   2-1       |  4   7-5       |  6   9-6
+8   Napoli                  10 |  3   5-2       |  3   5-4       |  6  10-6
+9   Frosinone               10 |  3   5-3       |  3   4-4       |  6   9-7
+10  Atalanta                 9 |  4   7-4       |  2   1-4       |  6   8-8
+11  Sassuolo                 8 |  3   6-4       |  3   4-6       |  6  10-10
+12  Torino                   7 |  3   3-5       |  3   4-4       |  6   7-9
+13  Lecce                    6 |  3   4-8       |  3   2-4       |  6   6-12
+14  Bologna                  5 |  3   3-4       |  3   2-3       |  6   5-7
+15  Udinese                  4 |  3   2-4       |  3   7-9       |  6   9-13
+16  Monza                    4 |  2   4-4       |  4   5-11      |  6   9-15
+17  Genoa                    4 |  4   4-8       |  2   1-3       |  6   5-11
+18  Parma                    4 |  3   3-3       |  3   1-7       |  6   4-10
+19  Fiorentina               4 |  3   2-6       |  3   5-8       |  6   7-14
+20  Venezia                  0 |  3   2-8       |  3   3-8       |  6   5-16
+
+(26 API-Football requests used)
+
+----------------------------------------------------------------------
+MATCHBOOK: skipped (switched off for this run)

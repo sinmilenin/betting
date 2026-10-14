@@ -1,3 +1,5 @@
-RUN 2026-10-14 14:42 local | 1 match(es)
-Bohemians 1905 v Mlada Boleslav -> out/Bohemians_1905_v_Mlada_Boleslav.txt
-Requests used: API-Football 25, Matchbook 0
+RUN 2026-10-14 15:27 local | 2 match(es)
+Feyenoord v Como -> out/Feyenoord_v_Como.txt
+LASK v Liverpool -> out/LASK_v_Liverpool.txt
+    !! LASK: Ambiguous team name "LASK".
+Requests used: API-Football 41, Matchbook 0
