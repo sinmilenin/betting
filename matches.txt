@@ -1,4 +1,2 @@
-# Wednesday 14 Oct 2026 (times Europe/Ljubljana) - scheduled Orbit scan 10:41: Kashiwa v Port FC 12:00, Nagoya v Okayama 12:00, Kobe v Jeonbuk 12:00
-Kashiwa Reysol v Port | n=20 | xg=10
-Nagoya Grampus v Fagiano Okayama | n=20 | xg=10
-Vissel Kobe v Jeonbuk Motors | n=20 | xg=10
+# Wednesday 14 Oct 2026 - Orbit scan 10:41, retry: first run picked the wrong Port (African club); Kashiwa v Port FC (Thailand) 12:00
+Kashiwa Reysol v Port FC | n=20 | xg=10
