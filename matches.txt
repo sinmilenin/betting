@@ -1,3 +1,2 @@
-# Orbit scan 2026-10-15 13:41 (Ljubljana)
-Tampines Rovers v Machida Zelvia | n=20 | xg=10
-Kuching City v Kitchee | n=20 | xg=10
+# Orbit scan 2026-10-15 13:41 (Ljubljana), retry: Kuching City resolved to the U23 side
+Kuching FA v Kitchee | n=20 | xg=10
