@@ -1,17 +1,6 @@
-RUN 2026-10-15 17:44 local | 13 match(es)
-Celta Vigo v id:496 -> out/Celta_Vigo_v_id_496.txt
-id:167 v id:549 -> out/id_167_v_id_549.txt
-id:211 v Celtic -> out/id_211_v_Celtic.txt
-Brighton v id:3872 -> out/Brighton_v_id_3872.txt
-id:651 v Plzen -> out/id_651_v_Plzen.txt
-FC Copenhagen v id:217 -> out/FC_Copenhagen_v_id_217.txt
-Twente v id:1012 -> out/Twente_v_id_1012.txt
-Heart Of Midlothian v Nordsjaelland -> out/Heart_Of_Midlothian_v_Nordsjaelland.txt
-id:160 v id:1122 -> out/id_160_v_id_1122.txt
-Brann v id:667 -> out/Brann_v_id_667.txt
-id:1374 v Oxford United -> out/id_1374_v_Oxford_United.txt
-Jagiellonia v Ararat Armenia -> out/Jagiellonia_v_Ararat_Armenia.txt
-    !! Ararat Armenia: No team found for "Ararat Armenia".
-Sint Truiden v id:3502 -> out/Sint_Truiden_v_id_3502.txt
-    !! Sint Truiden: No team found for "Sint Truiden".
-Requests used: API-Football 309, Matchbook 0
+RUN 2026-10-15 17:46 local | 2 match(es)
+Jagiellonia v Ararat -> out/Jagiellonia_v_Ararat.txt
+    !! Ararat: Ambiguous team name "Ararat".
+Truiden v id:3502 -> out/Truiden_v_id_3502.txt
+    !! Truiden: Ambiguous team name "Truiden".
+Requests used: API-Football 30, Matchbook 0

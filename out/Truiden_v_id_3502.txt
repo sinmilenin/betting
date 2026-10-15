@@ -1,8 +1,12 @@
-MATCH Sint Truiden v id:3502 | fetched 2026-10-15 17:44 local
+MATCH Truiden v id:3502 | fetched 2026-10-15 17:46 local
 
-FORM DATA Sint Truiden v id:3502 | source API-Football | 2026-10-15 17:45 UTC
+FORM DATA Truiden v id:3502 | source API-Football | 2026-10-15 17:46 UTC
 H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
 
+"Truiden" matches several teams. Use id:<number> instead of the name:
+  id:735    St. Truiden (Belgium)
+  id:10850  Sint-Truiden U21 (Belgium)
+  id:24388  Sint-Truiden II (Belgium)
 === FC Iberia 1999 (id 3502): last 20 finished games ===
 2026-10-10 A 2-1 v Meshakhte | Erovnuli Liga | Tkibuli
 2026-10-04 H 1-2 v Dinamo Tbilisi | Erovnuli Liga | Tbilisi
@@ -28,7 +32,12 @@ Listed home: 9 games, scored 12 (1.33), conceded 13 (1.44), blanks 1, clean shee
 Listed away: 11 games, scored 14 (1.27), conceded 19 (1.73), blanks 5, clean sheets 2
 All: 20 games, scored 26 (1.30), conceded 32 (1.60), blanks 6, clean sheets 3
 
-!! Sint Truiden: No team found for "Sint Truiden".
+(retrying Truiden using the opponent's country, Georgia)
+"Truiden" matches several teams. Use id:<number> instead of the name:
+  id:735    St. Truiden (Belgium)
+  id:10850  Sint-Truiden U21 (Belgium)
+  id:24388  Sint-Truiden II (Belgium)
+!! Truiden: Ambiguous team name "Truiden".
 
 TABLE FOR FC Iberia 1999
 LEAGUE TABLE Erovnuli Liga 2026 | 10 teams | 140 games played
@@ -45,7 +54,7 @@ League averages per game: home 1.43, away 1.26, total 2.69
 9   Spaeri                  26 | 14  24-26      | 14  13-20      | 28  37-46
 10  Meshakhte               17 | 14   8-25      | 14  13-21      | 28  21-46
 
-(14 API-Football requests used)
+(15 API-Football requests used)
 
 ----------------------------------------------------------------------
 MATCHBOOK: skipped (switched off for this run)
