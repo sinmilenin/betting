@@ -1,3 +1,4 @@
-RUN 2026-10-15 08:43 local | 1 match(es)
-Gangwon v id:5394 -> out/Gangwon_v_id_5394.txt
-Requests used: API-Football 26, Matchbook 0
+RUN 2026-10-15 09:27 local | 1 match(es)
+Energetik Mingechevir v Simal -> out/Energetik_Mingechevir_v_Simal.txt
+    !! Energetik Mingechevir: No team found for "Energetik Mingechevir".
+Requests used: API-Football 14, Matchbook 0
