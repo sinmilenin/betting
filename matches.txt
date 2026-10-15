@@ -1,2 +1,2 @@
-# Orbit scan 2026-10-15 11:26 (Ljubljana) - retry Energetik as Mingecevir
-Mingecevir v id:25273 | n=20 | xg=10
+# Orbit scan 2026-10-15 11:26 (Ljubljana) - retry Energetik as Ming
+Ming v id:25273 | n=20 | xg=10
