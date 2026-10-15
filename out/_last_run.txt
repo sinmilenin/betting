@@ -1,11 +1,5 @@
-RUN 2026-10-15 15:31 local | 7 match(es)
-Union St Gilloise v Real Sociedad -> out/Union_St_Gilloise_v_Real_Sociedad.txt
-    !! Union St Gilloise: No team found for "Union St Gilloise".
-Mjallby v Escaldes -> out/Mjallby_v_Escaldes.txt
-    !! Escaldes: Ambiguous team name "Escaldes".
-Gent v Aarhus -> out/Gent_v_Aarhus.txt
-Egnatia v id:397 -> out/Egnatia_v_id_397.txt
-FC Lugano v id:598 -> out/FC_Lugano_v_id_598.txt
-Riga v Kairat Almaty -> out/Riga_v_Kairat_Almaty.txt
-id:608 v Ajax -> out/id_608_v_Ajax.txt
-Requests used: API-Football 158, Matchbook 0
+RUN 2026-10-15 15:33 local | 2 match(es)
+Mjallby v id:3342 -> out/Mjallby_v_id_3342.txt
+Gilloise v Real Sociedad -> out/Gilloise_v_Real_Sociedad.txt
+    !! Gilloise: Ambiguous team name "Gilloise".
+Requests used: API-Football 41, Matchbook 0
