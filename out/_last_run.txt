@@ -1,4 +1,3 @@
-RUN 2026-10-15 11:42 local | 2 match(es)
-Tampines Rovers v Machida Zelvia -> out/Tampines_Rovers_v_Machida_Zelvia.txt
-Kuching City v Kitchee -> out/Kuching_City_v_Kitchee.txt
-Requests used: API-Football 52, Matchbook 0
+RUN 2026-10-15 11:43 local | 1 match(es)
+Kuching FA v Kitchee -> out/Kuching_FA_v_Kitchee.txt
+Requests used: API-Football 28, Matchbook 0
