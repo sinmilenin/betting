@@ -1,3 +1,4 @@
-RUN 2026-10-14 19:12 local | 1 match(es)
-Trujillanos v Rayo Zuliano -> out/Trujillanos_v_Rayo_Zuliano.txt
-Requests used: API-Football 25, Matchbook 0
+RUN 2026-10-15 08:42 local | 1 match(es)
+Gangwon v Phnom Penh -> out/Gangwon_v_Phnom_Penh.txt
+    !! Phnom Penh: Ambiguous team name "Phnom Penh".
+Requests used: API-Football 15, Matchbook 0
