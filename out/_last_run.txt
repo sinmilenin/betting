@@ -1,3 +1,5 @@
-RUN 2026-10-15 13:57 local | 1 match(es)
-id:4160 v Super Nova -> out/id_4160_v_Super_Nova.txt
-Requests used: API-Football 25, Matchbook 0
+RUN 2026-10-15 14:42 local | 1 match(es)
+Al-Khaleej v Al-Feiha -> out/Al_Khaleej_v_Al_Feiha.txt
+    !! Al-Khaleej: API-Football error: {"search": "The Search field may only contain alpha-numeric characters and spaces."}
+    !! Al-Feiha: API-Football error: {"search": "The Search field may only contain alpha-numeric characters and spaces."}
+Requests used: API-Football 2, Matchbook 0
