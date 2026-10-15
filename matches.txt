@@ -1,2 +1,19 @@
-# 2026-10-15 16:47 scan retry (Al-Fayha name)
-Al Khaleej v Fayha | n=20 | xg=10
+# 2026-10-15 17:29 scan (UEFA EL/UECL 18:45 slate)
+AZ Alkmaar v Hapoel Beer Sheva | n=20 | xg=10
+Celje v Omonia Nicosia | n=20 | xg=10
+Union St. Gilloise v Real Sociedad | n=20 | xg=10
+Mjallby v Inter Club d'Escaldes | n=20 | xg=10
+Gent v AGF | n=20 | xg=10
+Sparta Praha v Lillestrom | n=20 | xg=10
+Egnatia v Midtjylland | n=20 | xg=10
+Lugano v Crvena Zvezda | n=20 | xg=10
+KuPS v Trabzonspor | n=20 | xg=10
+Universitatea Craiova v Getafe | n=20 | xg=10
+Lyon v Crystal Palace | n=20 | xg=10
+Lech Poznan v Bayer Leverkusen | n=20 | xg=10
+FK Riga v Kairat Almaty | n=20 | xg=10
+Hajduk Split v Ajax | n=20 | xg=10
+Torreense v Sunderland | n=20 | xg=10
+CSKA Sofia v Monaco | n=20 | xg=10
+Panathinaikos v Borac Banja Luka | n=20 | xg=10
+Red Bull Salzburg v AC Milan | n=20 | xg=10
