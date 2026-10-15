@@ -1,3 +1,2 @@
-# 2026-10-15 17:48 scan retry 2 (Escaldes id, Union SG name)
-Mjallby v id:3342 | n=20 | xg=10
-Gilloise v Real Sociedad | n=20 | xg=10
+# 2026-10-15 17:34 scan retry 3 (Union SG id)
+id:1393 v Real Sociedad | n=20 | xg=10
