@@ -1,6 +1,6 @@
-MATCH Union St. Gilloise v Real Sociedad | fetched 2026-10-15 15:27 local
+MATCH Union St Gilloise v Real Sociedad | fetched 2026-10-15 15:31 local
 
-FORM DATA Union St. Gilloise v Real Sociedad | source API-Football | 2026-10-15 15:28 UTC
+FORM DATA Union St Gilloise v Real Sociedad | source API-Football | 2026-10-15 15:31 UTC
 H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
 
 === Real Sociedad (id 548): last 20 finished games ===
@@ -28,7 +28,7 @@ Listed home: 9 games, scored 10 (1.11), conceded 15 (1.67), blanks 4, clean shee
 Listed away: 11 games, scored 18 (1.64), conceded 21 (1.91), blanks 1, clean sheets 0
 All: 20 games, scored 28 (1.40), conceded 36 (1.80), blanks 5, clean sheets 1
 
-!! Union St. Gilloise: API-Football error: {"search": "The Search field may only contain alpha-numeric characters and spaces."}
+!! Union St Gilloise: No team found for "Union St Gilloise".
 
 TABLE FOR Real Sociedad
 LEAGUE TABLE La Liga 2026 | 20 teams | 78 games played

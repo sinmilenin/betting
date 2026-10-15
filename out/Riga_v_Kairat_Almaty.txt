@@ -1,18 +1,32 @@
-MATCH FK Riga v Kairat Almaty | fetched 2026-10-15 15:27 local
+MATCH Riga v Kairat Almaty | fetched 2026-10-15 15:31 local
 
-FORM DATA FK Riga v Kairat Almaty | source API-Football | 2026-10-15 15:28 UTC
+FORM DATA Riga v Kairat Almaty | source API-Football | 2026-10-15 15:31 UTC
 H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
 
-=== SFK Rīga W (id 19051): last 6 finished games ===
-2024-09-07 H 0-0 v Flora W | UEFA Champions League Women | Budapest [PEN, 90-min score shown]
-2024-09-04 A 0-5 v Vorskla Poltava W | UEFA Champions League Women | Budapest
-2023-09-09 A 0-4 v SL Benfica W | UEFA Champions League Women | Seixal
-2023-09-06 A 1-0 v BIIK Kazygurt W | UEFA Champions League Women | Seixal
-2022-08-21 A 1-1 v KÍ | UEFA Champions League Women | Lefkosía [AET, 90-min score shown]
-2022-08-18 A 0-3 v Apollon Limassol W | UEFA Champions League Women | Lefkosía
-Listed home: 1 games, scored 0 (0.00), conceded 0 (0.00), blanks 1, clean sheets 1
-Listed away: 5 games, scored 2 (0.40), conceded 13 (2.60), blanks 3, clean sheets 1
-All: 6 games, scored 2 (0.33), conceded 13 (2.17), blanks 4, clean sheets 2
+=== Riga (id 10124): last 20 finished games ===
+2026-10-10 A 2-0 v Tukums | Virsliga | Tukums | xG 2.97-0.79
+2026-10-03 A 2-1 v Aris | Friendlies Clubs | ?
+2026-09-19 A 1-0 v FS Jelgava | Virsliga | Jelgava
+2026-09-15 A 1-0 v Super Nova | Virsliga | Riga
+2026-09-11 H 2-2 v Auda | Virsliga | Riga
+2026-09-07 H 1-1 v BFC Daugavpils | Virsliga | Riga
+2026-09-03 A 3-2 v Rīgas FS | Cup | Riga
+2026-08-31 A 2-3 v FK Liepaja | Virsliga | ?
+2026-08-27 H 2-1 v KI Klaksvik | UEFA Europa Conference League | Riga
+2026-08-23 A 3-3 v Rīgas FS | Virsliga | Riga
+2026-08-20 A 0-0 v KI Klaksvik | UEFA Europa Conference League | Torshavn
+2026-08-16 H 4-1 v Metta / LU | Cup | Riga
+2026-08-13 A 1-1 v Gyori ETO FC | UEFA Europa Conference League | Gyor
+2026-08-09 H 4-1 v Ogre United | Virsliga | Riga
+2026-08-06 H 1-0 v Gyori ETO FC | UEFA Europa Conference League | Riga
+2026-08-02 H 4-0 v Grobiņa | Virsliga | Riga
+2026-07-28 H 1-2 v Vardar Skopje | UEFA Europa Conference League | Riga [AET, 90-min score shown]
+2026-07-22 A 3-2 v Vardar Skopje | UEFA Europa Conference League | Skopje
+2026-07-18 H 3-1 v Tukums | Virsliga | Riga
+2026-07-14 H 3-2 v Ararat-Armenia | UEFA Champions League | Rīga
+Listed home: 10 games, scored 25 (2.50), conceded 11 (1.10), blanks 0, clean sheets 2
+Listed away: 10 games, scored 18 (1.80), conceded 12 (1.20), blanks 1, clean sheets 4
+All: 20 games, scored 43 (2.15), conceded 23 (1.15), blanks 1, clean sheets 6
 
 === Kairat Almaty (id 664): last 20 finished games ===
 2026-10-10 H 1-0 v Zhetysu | Premier League | Almaty
@@ -39,7 +53,20 @@ Listed home: 10 games, scored 18 (1.80), conceded 11 (1.10), blanks 2, clean she
 Listed away: 10 games, scored 17 (1.70), conceded 10 (1.00), blanks 4, clean sheets 3
 All: 20 games, scored 35 (1.75), conceded 21 (1.05), blanks 6, clean sheets 7
 
-(no league table available for SFK Rīga W: tried UEFA Champions League Women 2024, UEFA Champions League Women 2023, UEFA Champions League Women 2022)
+TABLE FOR Riga
+LEAGUE TABLE Virsliga 2026 | 10 teams | 159 games played
+League averages per game: home 1.60, away 1.27, total 2.87
+#   team                   Pts | home P GF-GA  | away P GF-GA  | all P GF-GA
+1   Rīgas FS                77 | 15  46-14      | 16  29-10      | 31  75-24
+2   Riga                    76 | 16  46-14      | 16  42-16      | 32  88-30
+3   Auda                    64 | 17  29-16      | 15  23-16      | 32  52-32
+4   FK Liepaja              43 | 15  28-17      | 17  15-29      | 32  43-46
+5   BFC Daugavpils          42 | 16  18-13      | 16  19-23      | 32  37-36
+6   Super Nova              38 | 16  17-26      | 15  14-15      | 31  31-41
+7   FS Jelgava              32 | 16  13-25      | 16  21-28      | 32  34-53
+8   Grobiņa                 26 | 15  12-19      | 17  10-35      | 32  22-54
+9   Tukums                  24 | 17  28-26      | 15  16-37      | 32  44-63
+10  Ogre United             18 | 16  18-32      | 16  13-46      | 32  31-78
 
 TABLE FOR Kairat Almaty
 LEAGUE TABLE Premier League 2026 | 16 teams | 214 games played
@@ -62,7 +89,7 @@ League averages per game: home 1.44, away 1.07, total 2.50
 15  Altay                   23 | 13  13-16      | 14  13-24      | 27  26-40
 16  Zhetysu                 22 | 12   9-14      | 15  17-31      | 27  26-45
 
-(24 API-Football requests used)
+(26 API-Football requests used)
 
 ----------------------------------------------------------------------
 MATCHBOOK: skipped (switched off for this run)
