@@ -1,4 +1,3 @@
 RUN 2026-10-15 13:57 local | 1 match(es)
-Rigas FS v Super Nova -> out/Rigas_FS_v_Super_Nova.txt
-    !! Rigas FS: Ambiguous team name "Rigas FS".
-Requests used: API-Football 15, Matchbook 0
+id:4160 v Super Nova -> out/id_4160_v_Super_Nova.txt
+Requests used: API-Football 25, Matchbook 0
