@@ -1,6 +1,6 @@
-MATCH Al Khaleej v Al Fayha | fetched 2026-10-15 14:43 local
+MATCH Al Khaleej v Fayha | fetched 2026-10-15 14:44 local
 
-FORM DATA Al Khaleej v Al Fayha | source API-Football | 2026-10-15 14:43 UTC
+FORM DATA Al Khaleej v Fayha | source API-Football | 2026-10-15 14:44 UTC
 H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
 
 === Al Khaleej Saihat (id 2928): last 20 finished games ===
@@ -28,7 +28,30 @@ Listed home: 10 games, scored 9 (0.90), conceded 24 (2.40), blanks 4, clean shee
 Listed away: 10 games, scored 9 (0.90), conceded 15 (1.50), blanks 4, clean sheets 2
 All: 20 games, scored 18 (0.90), conceded 39 (1.95), blanks 8, clean sheets 4
 
-!! Al Fayha: No team found for "Al Fayha".
+=== Al-Fayha (id 2944): last 20 finished games ===
+2026-10-11 H 1-1 v Al Riyadh | Pro League | Madimaa | xG 0.61-1.50
+2026-09-12 A 0-0 v Al Shabab | Pro League | Riyadh | xG 0.54-1.09
+2026-09-08 A 1-2 v Al-Ittihad FC | Pro League | Jeddah | xG 0.62-2.42
+2026-09-03 H 2-2 v Al Kholood | Pro League | Al Majmaah | xG 0.86-2.12
+2026-08-28 H 3-2 v Abha | Pro League | Al Majmaah | xG 1.93-1.49
+2026-08-25 A 0-0 v Al Taawon | Pro League | Buraidah | xG 0.83-2.61
+2026-08-20 H 0-3 v Al-Hilal Saudi FC | Pro League | Al Majmaah | xG 0.32-3.93
+2026-08-17 A 2-0 v Al-Adalah | King's Cup | Al Ahsa
+2026-08-14 A 1-2 v NEOM | Pro League | Tabuk | xG 1.09-1.10
+2026-07-31 A 0-2 v Den Bosch | Friendlies Clubs | ?
+2026-07-22 A 0-0 v KVC Westerlo | Friendlies Clubs | ?
+2026-07-18 A 0-7 v NEC Nijmegen | Friendlies Clubs | ?
+2026-05-21 H 0-1 v Al-Hilal Saudi FC | Pro League | Buraidah
+2026-05-15 A 0-3 v Damac | Pro League | Abha
+2026-05-09 H 1-2 v Al-Qadisiyah FC | Pro League | Buraidah
+2026-05-04 H 4-2 v Al Riyadh | Pro League | Buraidah
+2026-04-30 A 1-1 v Al Kholood | Pro League | Ar Rass
+2026-04-11 A 0-2 v Al-Hazm | Pro League | Ar Rass
+2026-04-08 H 1-1 v Al-Ahli Jeddah | Pro League | Buraidah
+2026-04-04 A 0-1 v NEOM | Pro League | Tabuk
+Listed home: 8 games, scored 12 (1.50), conceded 14 (1.75), blanks 2, clean sheets 0
+Listed away: 12 games, scored 5 (0.42), conceded 20 (1.67), blanks 8, clean sheets 4
+All: 20 games, scored 17 (0.85), conceded 34 (1.70), blanks 10, clean sheets 4
 
 TABLE FOR Al Khaleej Saihat
 LEAGUE TABLE Pro League 2026 | 18 teams | 71 games played
@@ -53,7 +76,9 @@ League averages per game: home 1.41, away 1.41, total 2.82
 17  Al Taawon                3 |  4   0-6       |  4   3-9       |  8   3-15
 18  Abha                     2 |  3   2-4       |  4   3-9       |  7   5-13
 
-(14 API-Football requests used)
+(Al-Fayha: same table as Al Khaleej Saihat, shown above)
+
+(25 API-Football requests used)
 
 ----------------------------------------------------------------------
 MATCHBOOK: skipped (switched off for this run)
