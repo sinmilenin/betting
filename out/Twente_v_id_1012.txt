@@ -1,6 +1,6 @@
-MATCH Twente v Thun | fetched 2026-10-15 17:42 local
+MATCH Twente v id:1012 | fetched 2026-10-15 17:44 local
 
-FORM DATA Twente v Thun | source API-Football | 2026-10-15 17:43 UTC
+FORM DATA Twente v id:1012 | source API-Football | 2026-10-15 17:45 UTC
 H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
 
 === Twente (id 415): last 20 finished games ===
@@ -28,32 +28,30 @@ Listed home: 10 games, scored 28 (2.80), conceded 9 (0.90), blanks 1, clean shee
 Listed away: 10 games, scored 21 (2.10), conceded 15 (1.50), blanks 1, clean sheets 1
 All: 20 games, scored 49 (2.45), conceded 24 (1.20), blanks 2, clean sheets 5
 
-"Thun" matches several teams. Use id:<number> instead of the name:
-  id:1012   FC Thun (Switzerland)
-  id:3801   Dandenong Thunder (Australia)
-  id:4088   Thunder Bay Chill (Canada)
-  id:11196  SWQ Thunder (Australia)
-  id:13176  Binghamton Thunder (USA)
-  id:13593  Béthune (France)
-  id:16348  Thun II (Switzerland)
-  id:18153  Stade Béthunois (France)
-  id:21689  Thun W (Switzerland)
-  id:23810  Minnesota Thunder (USA)
-  id:24010  Sioux Falls Thunder (USA)
-(retrying Thun using the opponent's country, Netherlands)
-"Thun" matches several teams. Use id:<number> instead of the name:
-  id:1012   FC Thun (Switzerland)
-  id:3801   Dandenong Thunder (Australia)
-  id:4088   Thunder Bay Chill (Canada)
-  id:11196  SWQ Thunder (Australia)
-  id:13176  Binghamton Thunder (USA)
-  id:13593  Béthune (France)
-  id:16348  Thun II (Switzerland)
-  id:18153  Stade Béthunois (France)
-  id:21689  Thun W (Switzerland)
-  id:23810  Minnesota Thunder (USA)
-  id:24010  Sioux Falls Thunder (USA)
-!! Thun: Ambiguous team name "Thun".
+=== FC Thun (id 1012): last 20 finished games ===
+2026-10-10 A 2-4 v FC Zurich | Super League | Zurich | xG 1.46-0.94
+2026-10-03 H 2-0 v SC Kriens | Friendlies Clubs | ?
+2026-09-20 A 2-1 v FC Vaduz | Super League | Vaduz | xG 1.70-2.77
+2026-09-16 H 2-4 v Servette FC | Super League | Thun | xG 2.05-1.52
+2026-09-12 H 0-1 v Grasshoppers | Super League | Thun | xG 1.67-2.26
+2026-09-06 A 2-3 v FC Sion | Super League | Sion | xG 2.33-2.78
+2026-09-02 H 0-0 v Lausanne | Super League | Thun | xG 1.58-0.86
+2026-08-30 A 4-3 v FC ST. Gallen | Super League | St. Gallen | xG 1.26-2.88
+2026-08-27 H 2-2 v Lech Poznan | UEFA Europa League | Thun
+2026-08-20 A 0-7 v Lech Poznan | UEFA Europa League | Poznan
+2026-08-16 A 6-0 v Saxon Sports | Schweizer Cup | ?
+2026-08-13 A 2-3 v Vikingur Reykjavik | UEFA Europa League | Reykjavik
+2026-08-09 A 2-4 v FC Basel 1893 | Super League | Basel
+2026-08-06 H 3-0 v Vikingur Reykjavik | UEFA Europa League | Thun
+2026-08-01 H 0-6 v BSC Young Boys | Super League | Thun
+2026-07-28 A 2-2 v Dinamo Zagreb | UEFA Champions League | Zagreb [AET, 90-min score shown]
+2026-07-25 A 3-1 v FC Luzern | Super League | Luzern
+2026-07-21 H 1-1 v Dinamo Zagreb | UEFA Champions League | Thun
+2026-07-11 H 1-2 v Waldhof Mannheim | Friendlies Clubs | ?
+2026-07-11 H 1-1 v SV Elversberg | Friendlies Clubs | ?
+Listed home: 10 games, scored 12 (1.20), conceded 17 (1.70), blanks 3, clean sheets 3
+Listed away: 10 games, scored 25 (2.50), conceded 28 (2.80), blanks 1, clean sheets 1
+All: 20 games, scored 37 (1.85), conceded 45 (2.25), blanks 4, clean sheets 4
 
 TABLE FOR Twente
 LEAGUE TABLE Eredivisie 2026 | 18 teams | 72 games played
@@ -78,7 +76,24 @@ League averages per game: home 1.71, away 2.03, total 3.74
 17  ADO Den Haag             3 |  3   4-8       |  5   5-11      |  8   9-19
 18  Willem II                2 |  4   3-10      |  4   4-13      |  8   7-23
 
-(14 API-Football requests used)
+TABLE FOR FC Thun
+LEAGUE TABLE Super League 2026 | 12 teams | 60 games played
+League averages per game: home 1.95, away 1.85, total 3.80
+#   team                   Pts | home P GF-GA  | away P GF-GA  | all P GF-GA
+1   FC Lugano               28 |  6  18-4       |  4  13-3       | 10  31-7
+2   BSC Young Boys          22 |  5  17-12      |  5  16-6       | 10  33-18
+3   FC Sion                 19 |  5  11-7       |  5  12-10      | 10  23-17
+4   FC ST. Gallen           16 |  5   8-10      |  5   9-9       | 10  17-19
+5   FC Zurich               14 |  5  11-10      |  5   7-12      | 10  18-22
+6   Servette FC             13 |  5   6-5       |  5   8-8       | 10  14-13
+7   FC Basel 1893           13 |  5   7-11      |  5  10-9       | 10  17-20
+8   FC Luzern               12 |  5  11-9       |  5   6-13      | 10  17-22
+9   FC Thun                 10 |  4   2-11      |  6  15-16      | 10  17-27
+10  FC Vaduz                 9 |  5  14-8       |  5   7-13      | 10  21-21
+11  Grasshoppers             8 |  5   7-13      |  5   6-13      | 10  13-26
+12  Lausanne                 6 |  5   5-11      |  5   2-5       | 10   7-16
+
+(26 API-Football requests used)
 
 ----------------------------------------------------------------------
 MATCHBOOK: skipped (switched off for this run)

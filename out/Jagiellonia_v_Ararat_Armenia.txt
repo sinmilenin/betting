@@ -1,6 +1,6 @@
-MATCH Jagiellonia v Ararat-Armenia | fetched 2026-10-15 17:42 local
+MATCH Jagiellonia v Ararat Armenia | fetched 2026-10-15 17:44 local
 
-FORM DATA Jagiellonia v Ararat-Armenia | source API-Football | 2026-10-15 17:43 UTC
+FORM DATA Jagiellonia v Ararat Armenia | source API-Football | 2026-10-15 17:45 UTC
 H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
 
 === Jagiellonia (id 336): last 20 finished games ===
@@ -28,7 +28,7 @@ Listed home: 12 games, scored 20 (1.67), conceded 12 (1.00), blanks 1, clean she
 Listed away: 8 games, scored 14 (1.75), conceded 12 (1.50), blanks 1, clean sheets 0
 All: 20 games, scored 34 (1.70), conceded 24 (1.20), blanks 2, clean sheets 6
 
-!! Ararat-Armenia: API-Football error: {"search": "The Search field may only contain alpha-numeric characters and spaces."}
+!! Ararat Armenia: No team found for "Ararat Armenia".
 
 TABLE FOR Jagiellonia
 LEAGUE TABLE Ekstraklasa 2026 | 18 teams | 88 games played

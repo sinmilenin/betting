@@ -1,13 +1,33 @@
-MATCH Ferencvaros v Plzen | fetched 2026-10-15 17:42 local
+MATCH id:651 v Plzen | fetched 2026-10-15 17:44 local
 
-FORM DATA Ferencvaros v Plzen | source API-Football | 2026-10-15 17:43 UTC
+FORM DATA id:651 v Plzen | source API-Football | 2026-10-15 17:44 UTC
 H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
 
-"Ferencvaros" matches several teams. Use id:<number> instead of the name:
-  id:651    Ferencvarosi TC (Hungary)
-  id:10888  Ferencváros W (Hungary)
-  id:11861  Ferencváros II (Hungary)
-  id:16389  Ferencváros U19 (Hungary)
+=== Ferencvarosi TC (id 651): last 20 finished games ===
+2026-10-10 H 1-1 v Debreceni VSC | NB I | Budapest | xG 1.63-1.58
+2026-09-20 A 1-1 v Nyiregyhaza | NB I | Nyiregyhaza
+2026-09-17 A 3-1 v Celtic | UEFA Europa League | Glasgow
+2026-09-12 A 7-0 v DEAC | Magyar Kupa | Debrecen
+2026-09-06 H 2-2 v Ujpest | NB I | Budapest
+2026-09-03 A 3-0 v Gyori ETO FC | NB I | ?
+2026-08-30 A 2-1 v Puskas Academy | NB I | ?
+2026-08-27 H 4-0 v Trabzonspor | UEFA Europa League | Budapest
+2026-08-20 A 1-0 v Trabzonspor | UEFA Europa League | Trabzon
+2026-08-17 A 1-0 v Zalaegerszegi TE | NB I | Zalaegerszeg
+2026-08-13 A 1-1 v Gornik Zabrze | UEFA Europa League | Zabrze
+2026-08-08 H 1-2 v Real Madrid | Friendlies Clubs | Budapest
+2026-08-05 H 1-0 v Gornik Zabrze | UEFA Europa League | Budapest
+2026-08-02 H 0-0 v Vasas | NB I | Budapest
+2026-07-30 H 2-2 v Twente | UEFA Europa League | Budapest
+2026-07-26 A 2-4 v Paks | NB I | Paks
+2026-07-23 A 2-1 v Twente | UEFA Europa League | Enschede
+2026-07-16 H 3-0 v Vojvodina | UEFA Europa League | Budapest
+2026-07-09 A 2-1 v Vojvodina | UEFA Europa League | Novi Sad
+2026-07-01 H 1-0 v Qarabag | Friendlies Clubs | ?
+Listed home: 9 games, scored 15 (1.67), conceded 7 (0.78), blanks 1, clean sheets 5
+Listed away: 11 games, scored 25 (2.27), conceded 10 (0.91), blanks 0, clean sheets 4
+All: 20 games, scored 40 (2.00), conceded 17 (0.85), blanks 1, clean sheets 9
+
 === Plzen (id 567): last 20 finished games ===
 2026-10-10 H 3-0 v Mlada Boleslav | Czech Liga | Plzen | xG 2.75-1.57
 2026-09-20 A 1-2 v Slavia Praha | Czech Liga | Prague | xG 0.82-1.88
@@ -33,13 +53,22 @@ Listed home: 14 games, scored 31 (2.21), conceded 23 (1.64), blanks 1, clean she
 Listed away: 6 games, scored 9 (1.50), conceded 13 (2.17), blanks 3, clean sheets 2
 All: 20 games, scored 40 (2.00), conceded 36 (1.80), blanks 4, clean sheets 5
 
-(retrying Ferencvaros using the opponent's country, Czech-Republic)
-"Ferencvaros" matches several teams. Use id:<number> instead of the name:
-  id:651    Ferencvarosi TC (Hungary)
-  id:10888  Ferencváros W (Hungary)
-  id:11861  Ferencváros II (Hungary)
-  id:16389  Ferencváros U19 (Hungary)
-!! Ferencvaros: Ambiguous team name "Ferencvaros".
+TABLE FOR Ferencvarosi TC
+LEAGUE TABLE NB I 2026 | 12 teams | 53 games played
+League averages per game: home 1.81, away 1.38, total 3.19
+#   team                   Pts | home P GF-GA  | away P GF-GA  | all P GF-GA
+1   Puskas Academy          18 |  4   7-7       |  5   7-3       |  9  14-10
+2   Vasas                   15 |  5  11-6       |  4   7-6       |  9  18-12
+3   Gyori ETO FC            15 |  5  10-6       |  4   6-5       |  9  16-11
+4   Ujpest                  15 |  4  10-5       |  5   8-9       |  9  18-14
+5   Paks                    14 |  5  13-8       |  4   6-9       |  9  19-17
+6   Ferencvarosi TC         13 |  3   3-3       |  5   9-6       |  8  12-9
+7   Kisvarda FC             10 |  5   4-7       |  4   6-4       |  9  10-11
+8   Debreceni VSC           10 |  5   6-9       |  4   7-7       |  9  13-16
+9   MTK Budapest             9 |  5   9-8       |  4   6-9       |  9  15-17
+10  Zalaegerszegi TE         9 |  4  11-4       |  5   1-14      |  9  12-18
+11  Nyiregyhaza              8 |  4   6-4       |  5   4-15      |  9  10-19
+12  Budapest Honved          7 |  4   6-6       |  4   6-9       |  8  12-15
 
 TABLE FOR Plzen
 LEAGUE TABLE Czech Liga 2026 | 16 teams | 80 games played
@@ -62,7 +91,7 @@ League averages per game: home 1.48, away 1.27, total 2.75
 15  Slovácko                 7 |  4   4-5       |  6   5-11      | 10   9-16
 16  Zlin                     1 |  6   2-10      |  4   6-10      | 10   8-20
 
-(15 API-Football requests used)
+(26 API-Football requests used)
 
 ----------------------------------------------------------------------
 MATCHBOOK: skipped (switched off for this run)

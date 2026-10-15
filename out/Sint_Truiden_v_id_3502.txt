@@ -1,0 +1,51 @@
+MATCH Sint Truiden v id:3502 | fetched 2026-10-15 17:44 local
+
+FORM DATA Sint Truiden v id:3502 | source API-Football | 2026-10-15 17:45 UTC
+H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
+
+=== FC Iberia 1999 (id 3502): last 20 finished games ===
+2026-10-10 A 2-1 v Meshakhte | Erovnuli Liga | Tkibuli
+2026-10-04 H 1-2 v Dinamo Tbilisi | Erovnuli Liga | Tbilisi
+2026-09-21 A 2-0 v Rustavi | Erovnuli Liga | Tbilisi
+2026-09-17 H 2-1 v Dila | Erovnuli Liga | Tbilisi
+2026-09-13 H 1-0 v Spaeri | Erovnuli Liga | Tbilisi
+2026-09-09 A 0-2 v Dinamo Batumi | Erovnuli Liga | Batumi
+2026-09-05 H 2-1 v Samgurali | Erovnuli Liga | Tbilisi
+2026-09-02 A 0-2 v Samtredia | David Kipiani Cup | ?
+2026-08-31 A 0-2 v Gagra | Erovnuli Liga | Tbilisi
+2026-08-27 H 1-2 v Jagiellonia | UEFA Europa League | Tbilisi
+2026-08-20 A 0-4 v Jagiellonia | UEFA Europa League | Bialystok
+2026-08-15 A 3-4 v Torpedo Kutaisi | Erovnuli Liga | Kutaisi
+2026-08-11 H 1-1 v Larne | UEFA Europa League | Tbilisi [AET, 90-min score shown]
+2026-08-04 A 0-0 v Larne | UEFA Europa League | Larne
+2026-07-29 A 1-1 v Slovan Bratislava | UEFA Champions League | Bratislava
+2026-07-24 A 3-1 v Margveti 2006 | David Kipiani Cup | ?
+2026-07-21 H 0-2 v Slovan Bratislava | UEFA Champions League | Tbilisi
+2026-07-14 H 2-2 v Flora Tallinn | UEFA Champions League | Tbilisi
+2026-07-08 A 3-2 v Flora Tallinn | UEFA Champions League | Tallinn
+2026-07-01 H 2-2 v Torpedo Kutaisi | Super Cup | ? [PEN, 90-min score shown]
+Listed home: 9 games, scored 12 (1.33), conceded 13 (1.44), blanks 1, clean sheets 1
+Listed away: 11 games, scored 14 (1.27), conceded 19 (1.73), blanks 5, clean sheets 2
+All: 20 games, scored 26 (1.30), conceded 32 (1.60), blanks 6, clean sheets 3
+
+!! Sint Truiden: No team found for "Sint Truiden".
+
+TABLE FOR FC Iberia 1999
+LEAGUE TABLE Erovnuli Liga 2026 | 10 teams | 140 games played
+League averages per game: home 1.43, away 1.26, total 2.69
+#   team                   Pts | home P GF-GA  | away P GF-GA  | all P GF-GA
+1   Dinamo Batumi           50 | 14  27-18      | 14  20-18      | 28  47-36
+2   Rustavi                 49 | 14  21-11      | 14  14-13      | 28  35-24
+3   FC Iberia 1999          49 | 14  18-12      | 14  22-19      | 28  40-31
+4   Dinamo Tbilisi          48 | 14  21-16      | 14  24-15      | 28  45-31
+5   Dila                    40 | 14  20-14      | 14  19-19      | 28  39-33
+6   Torpedo Kutaisi         37 | 14  25-18      | 14  21-19      | 28  46-37
+7   Samgurali               35 | 14  21-20      | 14  20-32      | 28  41-52
+8   Gagra                   29 | 14  15-16      | 14  10-24      | 28  25-40
+9   Spaeri                  26 | 14  24-26      | 14  13-20      | 28  37-46
+10  Meshakhte               17 | 14   8-25      | 14  13-21      | 28  21-46
+
+(14 API-Football requests used)
+
+----------------------------------------------------------------------
+MATCHBOOK: skipped (switched off for this run)

@@ -1,18 +1,33 @@
-MATCH Hearts v Nordsjaelland | fetched 2026-10-15 17:42 local
+MATCH Heart Of Midlothian v Nordsjaelland | fetched 2026-10-15 17:44 local
 
-FORM DATA Hearts v Nordsjaelland | source API-Football | 2026-10-15 17:43 UTC
+FORM DATA Heart Of Midlothian v Nordsjaelland | source API-Football | 2026-10-15 17:45 UTC
 H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
 
-"Hearts" matches several teams. Use id:<number> instead of the name:
-  id:6771   Hearts U21 (Scotland)
-  id:6773   Kelty Hearts (Scotland)
-  id:12249  Hearts of Oak (Ghana)
-  id:13973  Darwin Hearts (Australia)
-  id:19799  Tower Hearts (Scotland)
-  id:22023  Cupar Hearts (Scotland)
-  id:23295  Hearts W (Scotland)
-  id:24273  Northern Hearts (New-Zealand)
-  id:25486  Portland Hearts of Pine (USA)
+=== Heart Of Midlothian (id 254): last 20 finished games ===
+2026-10-10 H 5-0 v ST Mirren | Premiership | Edinburgh | xG 3.51-0.74
+2026-09-19 A 1-1 v Kilmarnock | Premiership | Kilmarnock | xG 1.78-0.23
+2026-09-15 A 1-2 v Falkirk | Premiership | Falkirk | xG 1.72-2.05
+2026-09-11 A 3-0 v Stenhousemuir | League Cup | Stenhousemuir
+2026-09-06 H 2-1 v Dundee | Premiership | Edinburgh | xG 1.87-0.51
+2026-09-03 A 3-1 v Hibernian | Premiership | Edinburgh | xG 0.82-1.70
+2026-08-29 H 2-1 v ST Johnstone | Premiership | Edinburgh | xG 1.71-1.16
+2026-08-26 A 1-1 v Rapid Vienna | UEFA Europa Conference League | Vienna [PEN, 90-min score shown]
+2026-08-20 H 2-2 v Rapid Vienna | UEFA Europa Conference League | Edinburgh
+2026-08-16 H 6-2 v Inverness CT | League Cup | Edinburgh
+2026-08-13 H 1-1 v Benfica | UEFA Europa League | Edinburgh
+2026-08-09 H 4-0 v Dundee Utd | Premiership | Edinburgh
+2026-08-06 A 1-6 v Benfica | UEFA Europa League | Lisbon
+2026-08-01 A 1-2 v Aberdeen | Premiership | Aberdeen
+2026-07-28 H 0-2 v Sturm Graz | UEFA Champions League | Edinburgh
+2026-07-24 A 1-0 v Raith Rovers | Friendlies Clubs | ?
+2026-07-21 A 0-4 v Sturm Graz | UEFA Champions League | Graz
+2026-07-17 H 2-1 v Rayo Vallecano | Friendlies Clubs | ?
+2026-07-14 A 2-1 v Arbroath | Friendlies Clubs | ?
+2026-07-10 A 1-2 v Livingston | Friendlies Clubs | ?
+Listed home: 9 games, scored 24 (2.67), conceded 10 (1.11), blanks 1, clean sheets 2
+Listed away: 11 games, scored 15 (1.36), conceded 20 (1.82), blanks 1, clean sheets 2
+All: 20 games, scored 39 (1.95), conceded 30 (1.50), blanks 2, clean sheets 4
+
 === FC Nordsjaelland (id 398): last 20 finished games ===
 2026-10-09 H 0-0 v Odense | Superliga | Farum | xG 2.16-0.50
 2026-10-03 A 0-3 v Malmo FF | Friendlies Clubs | ?
@@ -38,18 +53,22 @@ Listed home: 9 games, scored 20 (2.22), conceded 3 (0.33), blanks 1, clean sheet
 Listed away: 11 games, scored 17 (1.55), conceded 17 (1.55), blanks 3, clean sheets 3
 All: 20 games, scored 37 (1.85), conceded 20 (1.00), blanks 4, clean sheets 10
 
-(retrying Hearts using the opponent's country, Denmark)
-"Hearts" matches several teams. Use id:<number> instead of the name:
-  id:6771   Hearts U21 (Scotland)
-  id:6773   Kelty Hearts (Scotland)
-  id:12249  Hearts of Oak (Ghana)
-  id:13973  Darwin Hearts (Australia)
-  id:19799  Tower Hearts (Scotland)
-  id:22023  Cupar Hearts (Scotland)
-  id:23295  Hearts W (Scotland)
-  id:24273  Northern Hearts (New-Zealand)
-  id:25486  Portland Hearts of Pine (USA)
-!! Hearts: Ambiguous team name "Hearts".
+TABLE FOR Heart Of Midlothian
+LEAGUE TABLE Premiership 2026 | 12 teams | 48 games played
+League averages per game: home 1.25, away 1.31, total 2.56
+#   team                   Pts | home P GF-GA  | away P GF-GA  | all P GF-GA
+1   Celtic                  21 |  4   6-2       |  4  10-2       |  8  16-4
+2   Rangers                 19 |  4   6-3       |  4   5-2       |  8  11-5
+3   Heart Of Midlothian     16 |  4  13-2       |  4   6-6       |  8  19-8
+4   Dundee                  13 |  4   6-4       |  4   5-4       |  8  11-8
+5   ST Johnstone            11 |  4   7-6       |  4   3-4       |  8  10-10
+6   Dundee Utd              11 |  4   3-4       |  4   7-7       |  8  10-11
+7   ST Mirren               10 |  4   5-8       |  4   3-6       |  8   8-14
+8   Aberdeen                 8 |  4   2-3       |  4   5-6       |  8   7-9
+9   Motherwell               8 |  4   3-6       |  4   6-7       |  8   9-13
+10  Hibernian                7 |  4   3-7       |  4   5-5       |  8   8-12
+11  Falkirk                  6 |  4   4-7       |  4   3-4       |  8   7-11
+12  Kilmarnock               5 |  4   2-11      |  4   5-7       |  8   7-18
 
 TABLE FOR FC Nordsjaelland
 LEAGUE TABLE Superliga 2026 | 12 teams | 60 games played
@@ -68,7 +87,7 @@ League averages per game: home 1.58, away 1.43, total 3.02
 11  Lyngby                   7 |  5   5-9       |  5   7-12      | 10  12-21
 12  Sonderjyske              5 |  5   8-13      |  5   4-11      | 10  12-24
 
-(14 API-Football requests used)
+(24 API-Football requests used)
 
 ----------------------------------------------------------------------
 MATCHBOOK: skipped (switched off for this run)

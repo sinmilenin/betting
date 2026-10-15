@@ -1,0 +1,99 @@
+MATCH id:211 v Celtic | fetched 2026-10-15 17:44 local
+
+FORM DATA id:211 v Celtic | source API-Football | 2026-10-15 17:44 UTC
+H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
+
+=== Benfica (id 211): last 20 finished games ===
+2026-10-11 H 2-0 v Vitória SC | Primeira Liga | Lisbon | xG 2.76-0.43
+2026-09-20 A 1-3 v FC Porto | Primeira Liga | Porto | xG 0.84-1.30
+2026-09-16 A 2-0 v AC Milan | UEFA Europa League | Milano | xG 0.64-0.96
+2026-09-13 H 3-1 v GIL Vicente | Primeira Liga | Lisbon | xG 2.90-1.11
+2026-09-09 A 4-0 v Moreirense | Primeira Liga | Moreira de Cónegos | xG 2.99-0.39
+2026-09-05 A 3-0 v Maritimo | Primeira Liga | Funchal | xG 1.31-0.12
+2026-08-31 H 2-1 v Estoril | Primeira Liga | Lisbon | xG 2.03-0.36
+2026-08-27 A 3-1 v Aarhus | UEFA Europa League | Randers
+2026-08-20 H 3-1 v Aarhus | UEFA Europa League | Lisbon
+2026-08-17 A 7-0 v Casa Pia | Primeira Liga | Rio Maior | xG 2.84-0.17
+2026-08-13 A 1-1 v Heart Of Midlothian | UEFA Europa League | Edinburgh
+2026-08-09 H 2-2 v Academico Viseu | Primeira Liga | Lisbon
+2026-08-06 H 6-1 v Heart Of Midlothian | UEFA Europa League | Lisbon
+2026-07-30 H 5-0 v FC ST. Gallen | UEFA Europa League | Lisbon
+2026-07-24 H 5-1 v CF Os Belenenses | Friendlies Clubs | ?
+2026-07-23 A 1-2 v FC ST. Gallen | UEFA Europa League | St.Gallen
+2026-07-17 H 2-0 v Villarreal | Friendlies Clubs | ?
+2026-07-11 H 1-2 v Flamengo | Friendlies Clubs | ?
+2026-05-16 A 3-1 v Estoril | Primeira Liga | Estoril
+2026-05-11 H 2-2 v SC Braga | Primeira Liga | Lisbon
+Listed home: 11 games, scored 33 (3.00), conceded 11 (1.00), blanks 0, clean sheets 3
+Listed away: 9 games, scored 25 (2.78), conceded 8 (0.89), blanks 0, clean sheets 4
+All: 20 games, scored 58 (2.90), conceded 19 (0.95), blanks 0, clean sheets 7
+
+=== Celtic (id 247): last 20 finished games ===
+2026-10-11 A 2-0 v Motherwell | Premiership | Motherwell | xG 2.88-1.09
+2026-09-20 H 0-1 v Rangers | Premiership | Glasgow | xG 0.71-1.23
+2026-09-17 H 1-3 v Ferencvarosi TC | UEFA Europa League | Glasgow
+2026-09-13 A 0-3 v Rangers | League Cup | Glasgow
+2026-09-09 A 1-0 v ST Johnstone | Premiership | Perth | xG 2.22-0.77
+2026-09-05 A 2-1 v ST Mirren | Premiership | Paisley | xG 2.93-1.74
+2026-09-02 H 3-0 v Aberdeen | Premiership | Glasgow | xG 2.47-0.66
+2026-08-29 H 2-1 v Falkirk | Premiership | Glasgow | xG 2.87-0.53
+2026-08-25 A 1-4 v Lask Linz | UEFA Champions League | Linz [AET, 90-min score shown]
+2026-08-19 H 3-0 v Lask Linz | UEFA Champions League | Glasgow
+2026-08-15 A 4-0 v Dundee Utd | League Cup | Dundee
+2026-08-09 A 5-1 v Kilmarnock | Premiership | Kilmarnock
+2026-08-03 H 1-0 v Dundee | Premiership | Glasgow
+2026-07-25 H 2-2 v AC Milan | Friendlies Clubs | Glasgow
+2026-07-18 H 1-1 v Middlesbrough | Friendlies Clubs | ?
+2026-07-14 A 1-4 v Sporting CP | Friendlies Clubs | ?
+2026-07-07 A 1-1 v Shelbourne | Friendlies Clubs | ?
+2026-05-23 H 3-1 v Dunfermline | FA Cup | Glasgow
+2026-05-16 H 3-1 v Heart Of Midlothian | Premiership | Glasgow
+2026-05-13 A 3-2 v Motherwell | Premiership | Motherwell
+Listed home: 10 games, scored 19 (1.90), conceded 10 (1.00), blanks 1, clean sheets 3
+Listed away: 10 games, scored 20 (2.00), conceded 16 (1.60), blanks 1, clean sheets 3
+All: 20 games, scored 39 (1.95), conceded 26 (1.30), blanks 2, clean sheets 6
+
+TABLE FOR Benfica
+LEAGUE TABLE Primeira Liga 2026 | 18 teams | 71 games played
+League averages per game: home 1.31, away 1.44, total 2.75
+#   team                   Pts | home P GF-GA  | away P GF-GA  | all P GF-GA
+1   FC Porto                24 |  4   9-2       |  4  11-2       |  8  20-4
+2   Benfica                 19 |  4   9-4       |  4  15-3       |  8  24-7
+3   Sporting CP             18 |  4  10-5       |  4  10-4       |  8  20-9
+4   Santa Clara             18 |  4   7-2       |  4   5-2       |  8  12-4
+5   Arouca                  14 |  4   8-3       |  4   3-4       |  8  11-7
+6   Academico Viseu         14 |  4   4-6       |  4   7-4       |  8  11-10
+7   GIL Vicente             11 |  4   4-2       |  3   2-3       |  7   6-5
+8   Alverca                 11 |  4   5-5       |  4   8-7       |  8  13-12
+9   SC Braga                11 |  3   3-3       |  4   5-5       |  7   8-8
+10  Estrela                 10 |  4   6-7       |  4   8-8       |  8  14-15
+11  Maritimo                 8 |  4   4-7       |  4   5-7       |  8   9-14
+12  Moreirense               8 |  4   5-8       |  4   3-7       |  8   8-15
+13  Famalicao                7 |  4   3-7       |  4   7-4       |  8  10-11
+14  Rio Ave                  7 |  4   6-11      |  4   2-6       |  8   8-17
+15  Vitória SC               5 |  4   2-2       |  4   3-8       |  8   5-10
+16  Nacional                 4 |  4   5-10      |  4   4-8       |  8   9-18
+17  Casa Pia                 4 |  4   1-13      |  4   2-4       |  8   3-17
+18  Estoril                  2 |  4   2-5       |  4   2-7       |  8   4-12
+
+TABLE FOR Celtic
+LEAGUE TABLE Premiership 2026 | 12 teams | 48 games played
+League averages per game: home 1.25, away 1.31, total 2.56
+#   team                   Pts | home P GF-GA  | away P GF-GA  | all P GF-GA
+1   Celtic                  21 |  4   6-2       |  4  10-2       |  8  16-4
+2   Rangers                 19 |  4   6-3       |  4   5-2       |  8  11-5
+3   Heart Of Midlothian     16 |  4  13-2       |  4   6-6       |  8  19-8
+4   Dundee                  13 |  4   6-4       |  4   5-4       |  8  11-8
+5   ST Johnstone            11 |  4   7-6       |  4   3-4       |  8  10-10
+6   Dundee Utd              11 |  4   3-4       |  4   7-7       |  8  10-11
+7   ST Mirren               10 |  4   5-8       |  4   3-6       |  8   8-14
+8   Aberdeen                 8 |  4   2-3       |  4   5-6       |  8   7-9
+9   Motherwell               8 |  4   3-6       |  4   6-7       |  8   9-13
+10  Hibernian                7 |  4   3-7       |  4   5-5       |  8   8-12
+11  Falkirk                  6 |  4   4-7       |  4   3-4       |  8   7-11
+12  Kilmarnock               5 |  4   2-11      |  4   5-7       |  8   7-18
+
+(26 API-Football requests used)
+
+----------------------------------------------------------------------
+MATCHBOOK: skipped (switched off for this run)

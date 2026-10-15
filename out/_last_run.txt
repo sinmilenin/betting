@@ -1,37 +1,17 @@
-RUN 2026-10-15 17:42 local | 19 match(es)
-Celta Vigo v Juventus -> out/Celta_Vigo_v_Juventus.txt
-    !! Juventus: Ambiguous team name "Juventus".
-Hoffenheim v Besiktas -> out/Hoffenheim_v_Besiktas.txt
-    !! Hoffenheim: Ambiguous team name "Hoffenheim".
-    !! Besiktas: Ambiguous team name "Besiktas".
-Bournemouth v Sturm Graz -> out/Bournemouth_v_Sturm_Graz.txt
-Benfica v Celtic -> out/Benfica_v_Celtic.txt
-    !! Benfica: Ambiguous team name "Benfica".
-Brighton v Kauno Zalgiris -> out/Brighton_v_Kauno_Zalgiris.txt
-    !! Kauno Zalgiris: Ambiguous team name "Kauno Zalgiris".
-Atalanta v Pafos -> out/Atalanta_v_Pafos.txt
-Dinamo Zagreb v Anderlecht -> out/Dinamo_Zagreb_v_Anderlecht.txt
-Marseille v Olympiakos Piraeus -> out/Marseille_v_Olympiakos_Piraeus.txt
-NEC Nijmegen v Levski Sofia -> out/NEC_Nijmegen_v_Levski_Sofia.txt
-Rennes v OFI -> out/Rennes_v_OFI.txt
-Ferencvaros v Plzen -> out/Ferencvaros_v_Plzen.txt
-    !! Ferencvaros: Ambiguous team name "Ferencvaros".
-FC Copenhagen v Braga -> out/FC_Copenhagen_v_Braga.txt
-    !! Braga: Ambiguous team name "Braga".
-Twente v Thun -> out/Twente_v_Thun.txt
-    !! Thun: Ambiguous team name "Thun".
-Hearts v Nordsjaelland -> out/Hearts_v_Nordsjaelland.txt
-    !! Hearts: Ambiguous team name "Hearts".
-Freiburg v Jablonec -> out/Freiburg_v_Jablonec.txt
-    !! Freiburg: Ambiguous team name "Freiburg".
-    !! Jablonec: Ambiguous team name "Jablonec".
-Brann v Lincoln Red Imps -> out/Brann_v_Lincoln_Red_Imps.txt
-    !! Lincoln Red Imps: Ambiguous team name "Lincoln Red Imps".
-Mansfield v Oxford United -> out/Mansfield_v_Oxford_United.txt
-    !! Mansfield: Ambiguous team name "Mansfield".
-Jagiellonia v Ararat-Armenia -> out/Jagiellonia_v_Ararat_Armenia.txt
-    !! Ararat-Armenia: API-Football error: {"search": "The Search field may only contain alpha-numeric characters and spaces."}
-Sint-Truiden v Iberia 1999 -> out/Sint_Truiden_v_Iberia_1999.txt
-    !! Sint-Truiden: API-Football error: {"search": "The Search field may only contain alpha-numeric characters and spaces."}
-    !! Iberia 1999: Ambiguous team name "Iberia 1999".
-Requests used: API-Football 306, Matchbook 0
+RUN 2026-10-15 17:44 local | 13 match(es)
+Celta Vigo v id:496 -> out/Celta_Vigo_v_id_496.txt
+id:167 v id:549 -> out/id_167_v_id_549.txt
+id:211 v Celtic -> out/id_211_v_Celtic.txt
+Brighton v id:3872 -> out/Brighton_v_id_3872.txt
+id:651 v Plzen -> out/id_651_v_Plzen.txt
+FC Copenhagen v id:217 -> out/FC_Copenhagen_v_id_217.txt
+Twente v id:1012 -> out/Twente_v_id_1012.txt
+Heart Of Midlothian v Nordsjaelland -> out/Heart_Of_Midlothian_v_Nordsjaelland.txt
+id:160 v id:1122 -> out/id_160_v_id_1122.txt
+Brann v id:667 -> out/Brann_v_id_667.txt
+id:1374 v Oxford United -> out/id_1374_v_Oxford_United.txt
+Jagiellonia v Ararat Armenia -> out/Jagiellonia_v_Ararat_Armenia.txt
+    !! Ararat Armenia: No team found for "Ararat Armenia".
+Sint Truiden v id:3502 -> out/Sint_Truiden_v_id_3502.txt
+    !! Sint Truiden: No team found for "Sint Truiden".
+Requests used: API-Football 309, Matchbook 0

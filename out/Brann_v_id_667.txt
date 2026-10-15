@@ -1,6 +1,6 @@
-MATCH Brann v Lincoln Red Imps | fetched 2026-10-15 17:42 local
+MATCH Brann v id:667 | fetched 2026-10-15 17:44 local
 
-FORM DATA Brann v Lincoln Red Imps | source API-Football | 2026-10-15 17:43 UTC
+FORM DATA Brann v id:667 | source API-Football | 2026-10-15 17:45 UTC
 H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
 
 === Brann (id 319): last 20 finished games ===
@@ -28,14 +28,30 @@ Listed home: 11 games, scored 20 (1.82), conceded 17 (1.55), blanks 2, clean she
 Listed away: 9 games, scored 14 (1.56), conceded 10 (1.11), blanks 2, clean sheets 2
 All: 20 games, scored 34 (1.70), conceded 27 (1.35), blanks 4, clean sheets 3
 
-"Lincoln Red Imps" matches several teams. Use id:<number> instead of the name:
-  id:667    Lincoln Red Imps FC (Gibraltar)
-  id:24983  Lincoln Red Imps U19 (Gibraltar)
-(retrying Lincoln Red Imps using the opponent's country, Norway)
-"Lincoln Red Imps" matches several teams. Use id:<number> instead of the name:
-  id:667    Lincoln Red Imps FC (Gibraltar)
-  id:24983  Lincoln Red Imps U19 (Gibraltar)
-!! Lincoln Red Imps: Ambiguous team name "Lincoln Red Imps".
+=== Lincoln Red Imps FC (id 667): last 20 finished games ===
+2026-10-10 H 2-0 v Europa | Premier Division | Gibraltar
+2026-09-13 A 1-1 v Mons Calpe | Premier Division | ?
+2026-09-04 H 4-0 v Europa Point | Premier Division | Gibraltar
+2026-08-30 A 2-0 v Glacis United | Premier Division | ?
+2026-08-27 A 2-0 v Larne | UEFA Europa Conference League | Larne [AET, 90-min score shown]
+2026-08-23 H 3-1 v St Joseph S Fc | Super Cup | ?
+2026-08-20 H 0-2 v Larne | UEFA Europa Conference League | Gibraltar
+2026-08-13 A 0-1 v Omonia Nicosia | UEFA Europa League | Nicosia
+2026-08-06 H 1-1 v Omonia Nicosia | UEFA Europa League | Gibraltar
+2026-07-28 H 0-0 v Mjallby AIF | UEFA Champions League | Gibraltar
+2026-07-21 A 0-3 v Mjallby AIF | UEFA Champions League | Hallevik
+2026-07-14 A 1-1 v Inter Club d'Escaldes | UEFA Champions League | Sant Julia de Loria
+2026-07-07 H 3-1 v Inter Club d'Escaldes | UEFA Champions League | Gibraltar
+2026-04-25 H 4-1 v Lynx | Premier Division | Gibraltar
+2026-04-18 H 2-0 v Europa | Premier Division | Gibraltar
+2026-04-11 A 1-1 v Lions Gibraltar | Premier Division | ?
+2026-04-05 H 2-1 v Mons Calpe | Premier Division | Gibraltar
+2026-03-21 H 1-0 v St Joseph S Fc | Premier Division | Gibraltar
+2026-03-14 A 5-0 v Mons Calpe | Rock Cup | Gibraltar
+2026-03-05 A 2-1 v Magpies | Premier Division | Gibraltar
+Listed home: 11 games, scored 22 (2.00), conceded 7 (0.64), blanks 2, clean sheets 5
+Listed away: 9 games, scored 14 (1.56), conceded 8 (0.89), blanks 2, clean sheets 3
+All: 20 games, scored 36 (1.80), conceded 15 (0.75), blanks 4, clean sheets 8
 
 TABLE FOR Brann
 LEAGUE TABLE Eliteserien 2026 | 16 teams | 176 games played
@@ -58,7 +74,23 @@ League averages per game: home 1.84, away 1.35, total 3.18
 15  Kristiansund BK         19 | 10  13-14      | 12   9-29      | 22  22-43
 16  Start                   16 | 11  14-19      | 11  10-29      | 22  24-48
 
-(15 API-Football requests used)
+TABLE FOR Lincoln Red Imps FC
+LEAGUE TABLE Premier Division 2026 | 11 teams | 29 games played
+League averages per game: home 2.00, away 1.34, total 3.34
+#   team                   Pts | home P GF-GA  | away P GF-GA  | all P GF-GA
+1   St Joseph S Fc          12 |  3   7-1       |  1   6-0       |  4  13-1
+2   Magpies                 11 |  2   6-0       |  3   5-4       |  5  11-4
+3   Lincoln Red Imps FC     10 |  2   6-0       |  2   3-1       |  4   9-1
+4   Glacis United           10 |  3   5-2       |  3   6-4       |  6  11-6
+5   Europa Point            10 |  3  11-4       |  3   4-7       |  6  15-11
+6   Mons Calpe              10 |  3   6-3       |  2   3-3       |  5   9-6
+7   Lions Gibraltar          7 |  3   6-6       |  3   4-7       |  6  10-13
+8   Europa                   5 |  3   4-5       |  3   2-5       |  6   6-10
+9   College 1975             4 |  2   3-5       |  3   3-8       |  5   6-13
+10  Lynx                     1 |  3   2-10      |  3   2-6       |  6   4-16
+11  Hound Dogs               1 |  2   2-3       |  3   1-13      |  5   3-16
+
+(26 API-Football requests used)
 
 ----------------------------------------------------------------------
 MATCHBOOK: skipped (switched off for this run)
