@@ -1,5 +1,4 @@
-RUN 2026-10-15 14:42 local | 1 match(es)
-Al-Khaleej v Al-Feiha -> out/Al_Khaleej_v_Al_Feiha.txt
-    !! Al-Khaleej: API-Football error: {"search": "The Search field may only contain alpha-numeric characters and spaces."}
-    !! Al-Feiha: API-Football error: {"search": "The Search field may only contain alpha-numeric characters and spaces."}
-Requests used: API-Football 2, Matchbook 0
+RUN 2026-10-15 14:43 local | 1 match(es)
+Al Khaleej v Al Fayha -> out/Al_Khaleej_v_Al_Fayha.txt
+    !! Al Fayha: No team found for "Al Fayha".
+Requests used: API-Football 14, Matchbook 0
