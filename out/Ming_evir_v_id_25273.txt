@@ -1,6 +1,6 @@
-MATCH Energetik Mingechevir v Simal | fetched 2026-10-15 09:27 local
+MATCH Mingəçevir v id:25273 | fetched 2026-10-15 09:28 local
 
-FORM DATA Energetik Mingechevir v Simal | source API-Football | 2026-10-15 09:27 UTC
+FORM DATA Mingəçevir v id:25273 | source API-Football | 2026-10-15 09:28 UTC
 H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
 
 === Şimal (id 25273): last 20 finished games ===
@@ -28,7 +28,7 @@ Listed home: 13 games, scored 10 (0.77), conceded 21 (1.62), blanks 6, clean she
 Listed away: 7 games, scored 9 (1.29), conceded 14 (2.00), blanks 3, clean sheets 1
 All: 20 games, scored 19 (0.95), conceded 35 (1.75), blanks 9, clean sheets 3
 
-!! Energetik Mingechevir: No team found for "Energetik Mingechevir".
+!! Mingəçevir: API-Football error: {"search": "The Search field may only contain alpha-numeric characters and spaces."}
 
 TABLE FOR Şimal
 LEAGUE TABLE Birinci Dasta 2026 | 10 teams | 20 games played

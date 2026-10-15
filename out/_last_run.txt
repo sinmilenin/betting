@@ -1,4 +1,4 @@
-RUN 2026-10-15 09:27 local | 1 match(es)
-Energetik Mingechevir v Simal -> out/Energetik_Mingechevir_v_Simal.txt
-    !! Energetik Mingechevir: No team found for "Energetik Mingechevir".
+RUN 2026-10-15 09:28 local | 1 match(es)
+Mingəçevir v id:25273 -> out/Ming_evir_v_id_25273.txt
+    !! Mingəçevir: API-Football error: {"search": "The Search field may only contain alpha-numeric characters and spaces."}
 Requests used: API-Football 14, Matchbook 0
