@@ -1,7 +1,32 @@
-MATCH Mingəçevir v id:25273 | fetched 2026-10-15 09:28 local
+MATCH Energetik v id:25273 | fetched 2026-10-15 09:29 local
 
-FORM DATA Mingəçevir v id:25273 | source API-Football | 2026-10-15 09:28 UTC
+FORM DATA Energetik v id:25273 | source API-Football | 2026-10-15 09:29 UTC
 H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
+
+=== Energetik (id 13156): last 20 finished games ===
+2024-05-25 A 1-0 v Nebitci | Ýokary Liga | Balkanabat
+2024-05-22 H 0-6 v Altyn Asyr | Ýokary Liga | Mary
+2024-05-18 A 0-6 v Arkadag | Ýokary Liga | Arkadag şäheri
+2024-05-15 H 1-3 v Şagadam | Ýokary Liga | Mary
+2024-05-11 A 0-1 v Merw | Ýokary Liga | Mary
+2024-05-04 H 1-1 v Köpetdag Aşgabat | Ýokary Liga | Mary
+2024-04-30 A 1-2 v Aşgabat | Ýokary Liga | Ashgabat
+2024-04-24 H 0-1 v Ahal | Ýokary Liga | Mary
+2024-04-20 H 2-3 v Nebitci | Ýokary Liga | Mary
+2024-04-17 A 2-4 v Altyn Asyr | Ýokary Liga | Ashgabat
+2024-04-13 H 0-7 v Arkadag | Ýokary Liga | Mary
+2024-04-06 A 0-2 v Şagadam | Ýokary Liga | Türkmenbaşy
+2024-04-03 H 0-1 v Merw | Ýokary Liga | Mary
+2024-03-10 A 1-1 v Köpetdag Aşgabat | Ýokary Liga | Ashgabat
+2024-03-07 H 0-3 v Aşgabat | Ýokary Liga | Mary
+2024-03-04 A 0-5 v Ahal | Ýokary Liga | Abadan
+2023-12-24 A 0-2 v Nebitci | Ýokary Liga | Balkanabat
+2023-12-14 A 1-2 v Köpetdag Aşgabat | Ýokary Liga | Ashgabat
+2023-12-07 H 0-0 v Şagadam | Ýokary Liga | Mary
+2023-12-02 A 1-3 v Ahal | Ýokary Liga | Ashgabat
+Listed home: 9 games, scored 4 (0.44), conceded 25 (2.78), blanks 6, clean sheets 1
+Listed away: 11 games, scored 7 (0.64), conceded 28 (2.55), blanks 5, clean sheets 1
+All: 20 games, scored 11 (0.55), conceded 53 (2.65), blanks 11, clean sheets 2
 
 === Şimal (id 25273): last 20 finished games ===
 2026-10-09 H 1-1 v Xankəndi FK | Birinci Dasta | ?
@@ -28,7 +53,19 @@ Listed home: 13 games, scored 10 (0.77), conceded 21 (1.62), blanks 6, clean she
 Listed away: 7 games, scored 9 (1.29), conceded 14 (2.00), blanks 3, clean sheets 1
 All: 20 games, scored 19 (0.95), conceded 35 (1.75), blanks 9, clean sheets 3
 
-!! Mingəçevir: API-Football error: {"search": "The Search field may only contain alpha-numeric characters and spaces."}
+TABLE FOR Energetik
+LEAGUE TABLE Ýokary Liga 2024 | 9 teams | 128 games played
+League averages per game: home 1.89, away 1.46, total 3.35
+#   team                   Pts | home P GF-GA  | away P GF-GA  | all P GF-GA
+1   Arkadag                 90 | 16  81-10      | 14  66-10      | 30 147-20
+2   Ahal                    67 | 15  42-10      | 15  26-19      | 30  68-29
+3   Altyn Asyr              65 | 15  39-18      | 15  33-15      | 30  72-33
+4   Şagadam                 40 | 15  24-23      | 15  16-28      | 30  40-51
+5   Merw                    35 | 15  14-17      | 15   7-43      | 30  21-60
+6   Aşgabat                 28 | 15  15-26      | 15  12-32      | 30  27-58
+7   Balkan                  27 | 14  11-21      | 16  17-43      | 30  28-64
+8   Köpetdag Aşgabat        17 | 15  13-38      | 15   5-31      | 30  18-69
+9   Energetik                5 |  8   3-24      |  8   5-21      | 16   8-45
 
 TABLE FOR Şimal
 LEAGUE TABLE Birinci Dasta 2026 | 10 teams | 20 games played
@@ -45,7 +82,7 @@ League averages per game: home 1.55, away 1.20, total 2.75
 9   Mingəçevir               1 |  2   2-5       |  2   1-5       |  4   3-10
 10  Baku Sportinq            0 |  2   0-4       |  2   0-5       |  4   0-9
 
-(14 API-Football requests used)
+(26 API-Football requests used)
 
 ----------------------------------------------------------------------
 MATCHBOOK: skipped (switched off for this run)
