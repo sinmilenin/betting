@@ -1,6 +1,4 @@
 RUN 2026-10-15 17:46 local | 2 match(es)
-Jagiellonia v Ararat -> out/Jagiellonia_v_Ararat.txt
-    !! Ararat: Ambiguous team name "Ararat".
-Truiden v id:3502 -> out/Truiden_v_id_3502.txt
-    !! Truiden: Ambiguous team name "Truiden".
-Requests used: API-Football 30, Matchbook 0
+Jagiellonia v id:3683 -> out/Jagiellonia_v_id_3683.txt
+id:735 v id:3502 -> out/id_735_v_id_3502.txt
+Requests used: API-Football 52, Matchbook 0
