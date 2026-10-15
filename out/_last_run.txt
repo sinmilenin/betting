@@ -1,3 +1,4 @@
-RUN 2026-10-15 10:57 local | 1 match(es)
-Svay Rieng v Shanghai Shenhua -> out/Svay_Rieng_v_Shanghai_Shenhua.txt
-Requests used: API-Football 27, Matchbook 0
+RUN 2026-10-15 11:42 local | 2 match(es)
+Tampines Rovers v Machida Zelvia -> out/Tampines_Rovers_v_Machida_Zelvia.txt
+Kuching City v Kitchee -> out/Kuching_City_v_Kitchee.txt
+Requests used: API-Football 52, Matchbook 0
