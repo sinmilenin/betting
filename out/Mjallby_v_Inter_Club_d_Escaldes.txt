@@ -1,0 +1,57 @@
+MATCH Mjallby v Inter Club d'Escaldes | fetched 2026-10-15 15:27 local
+
+FORM DATA Mjallby v Inter Club d'Escaldes | source API-Football | 2026-10-15 15:28 UTC
+H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
+
+=== Mjallby AIF (id 2240): last 20 finished games ===
+2026-10-10 H 1-1 v Degerfors IF | Allsvenskan | Hallevik | xG 2.31-0.75
+2026-10-06 A 0-1 v Trollhättan | Svenska Cupen | ?
+2026-09-20 H 0-3 v Gais | Allsvenskan | Hallevik | xG 1.02-1.34
+2026-09-16 A 1-1 v AIK Stockholm | Allsvenskan | Solna | xG 1.84-3.18
+2026-09-11 A 1-1 v BK Hacken | Allsvenskan | Gothenburg | xG 1.02-1.71
+2026-09-07 H 1-4 v IFK Goteborg | Allsvenskan | Hallevik | xG 0.92-1.94
+2026-09-03 H 0-2 v Djurgardens IF | Allsvenskan | Hallevik
+2026-08-31 A 0-4 v Djurgardens IF | Allsvenskan | Stockholm | xG 0.05-3.00
+2026-08-27 A 0-3 v Red Bull Salzburg | UEFA Europa League | Salzburg
+2026-08-20 H 0-1 v Red Bull Salzburg | UEFA Europa League | Hallevik
+2026-08-15 H 4-3 v Sirius | Allsvenskan | Hallevik
+2026-08-11 A 0-2 v Slovan Bratislava | UEFA Champions League | Bratislava
+2026-08-08 H 0-1 v IF Elfsborg | Allsvenskan | Hallevik
+2026-08-04 H 1-2 v Slovan Bratislava | UEFA Champions League | Hallevik
+2026-07-28 A 0-0 v Lincoln Red Imps FC | UEFA Champions League | Gibraltar
+2026-07-25 A 1-2 v Kalmar FF | Allsvenskan | Kalmar
+2026-07-21 H 3-0 v Lincoln Red Imps FC | UEFA Champions League | Hallevik
+2026-07-17 H 0-0 v Vasteras SK FK | Allsvenskan | Hallevik
+2026-07-11 H 1-2 v AIK Stockholm | Allsvenskan | Hallevik
+2026-07-03 A 4-4 v Sirius | Allsvenskan | Uppsala
+Listed home: 11 games, scored 11 (1.00), conceded 19 (1.73), blanks 5, clean sheets 2
+Listed away: 9 games, scored 7 (0.78), conceded 18 (2.00), blanks 5, clean sheets 1
+All: 20 games, scored 18 (0.90), conceded 37 (1.85), blanks 10, clean sheets 3
+
+!! Inter Club d'Escaldes: API-Football error: {"search": "The Search field may only contain alpha-numeric characters and spaces."}
+
+TABLE FOR Mjallby AIF
+LEAGUE TABLE Allsvenskan 2026 | 16 teams | 184 games played
+League averages per game: home 1.63, away 1.31, total 2.94
+#   team                   Pts | home P GF-GA  | away P GF-GA  | all P GF-GA
+1   Sirius                  54 | 11  25-15      | 12  28-13      | 23  53-28
+2   Djurgardens IF          44 | 12  30-14      | 11  18-7       | 23  48-21
+3   Hammarby FF             43 | 12  34-7       | 11  15-14      | 23  49-21
+4   IF Elfsborg             40 | 12  21-9       | 11  14-13      | 23  35-22
+5   BK Hacken               39 | 12  21-18      | 11  21-12      | 23  42-30
+6   Malmo FF                36 | 12  25-20      | 11  13-13      | 23  38-33
+7   Vasteras SK FK          35 | 11  17-13      | 12  17-23      | 23  34-36
+8   IFK Goteborg            35 | 12  16-13      | 11  16-28      | 23  32-41
+9   AIK Stockholm           33 | 11  17-25      | 12  19-15      | 23  36-40
+10  Gais                    30 | 12  16-5       | 11  12-16      | 23  28-21
+11  IF Brommapojkarna       30 | 11  15-13      | 12  21-28      | 23  36-41
+12  Mjallby AIF             23 | 12  12-19      | 11  16-20      | 23  28-39
+13  Degerfors IF            20 | 11  11-15      | 12   9-20      | 23  20-35
+14  Kalmar FF               19 | 11  14-17      | 12   7-20      | 23  21-37
+15  Orgryte IS              15 | 11  17-20      | 12   8-32      | 23  25-52
+16  Halmstad                14 | 11   9-18      | 12   7-26      | 23  16-44
+
+(14 API-Football requests used)
+
+----------------------------------------------------------------------
+MATCHBOOK: skipped (switched off for this run)

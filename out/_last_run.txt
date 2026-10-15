@@ -1,3 +1,25 @@
-RUN 2026-10-15 14:44 local | 1 match(es)
-Al Khaleej v Fayha -> out/Al_Khaleej_v_Fayha.txt
-Requests used: API-Football 25, Matchbook 0
+RUN 2026-10-15 15:27 local | 18 match(es)
+AZ Alkmaar v Hapoel Beer Sheva -> out/AZ_Alkmaar_v_Hapoel_Beer_Sheva.txt
+Celje v Omonia Nicosia -> out/Celje_v_Omonia_Nicosia.txt
+Union St. Gilloise v Real Sociedad -> out/Union_St_Gilloise_v_Real_Sociedad.txt
+    !! Union St. Gilloise: API-Football error: {"search": "The Search field may only contain alpha-numeric characters and spaces."}
+Mjallby v Inter Club d'Escaldes -> out/Mjallby_v_Inter_Club_d_Escaldes.txt
+    !! Inter Club d'Escaldes: API-Football error: {"search": "The Search field may only contain alpha-numeric characters and spaces."}
+Gent v AGF -> out/Gent_v_AGF.txt
+Sparta Praha v Lillestrom -> out/Sparta_Praha_v_Lillestrom.txt
+Egnatia v Midtjylland -> out/Egnatia_v_Midtjylland.txt
+    !! Midtjylland: Ambiguous team name "Midtjylland".
+Lugano v Crvena Zvezda -> out/Lugano_v_Crvena_Zvezda.txt
+    !! Crvena Zvezda: Ambiguous team name "Crvena Zvezda".
+KuPS v Trabzonspor -> out/KuPS_v_Trabzonspor.txt
+Universitatea Craiova v Getafe -> out/Universitatea_Craiova_v_Getafe.txt
+Lyon v Crystal Palace -> out/Lyon_v_Crystal_Palace.txt
+Lech Poznan v Bayer Leverkusen -> out/Lech_Poznan_v_Bayer_Leverkusen.txt
+FK Riga v Kairat Almaty -> out/FK_Riga_v_Kairat_Almaty.txt
+Hajduk Split v Ajax -> out/Hajduk_Split_v_Ajax.txt
+    !! Hajduk Split: Ambiguous team name "Hajduk Split".
+Torreense v Sunderland -> out/Torreense_v_Sunderland.txt
+CSKA Sofia v Monaco -> out/CSKA_Sofia_v_Monaco.txt
+Panathinaikos v Borac Banja Luka -> out/Panathinaikos_v_Borac_Banja_Luka.txt
+Red Bull Salzburg v AC Milan -> out/Red_Bull_Salzburg_v_AC_Milan.txt
+Requests used: API-Football 405, Matchbook 0

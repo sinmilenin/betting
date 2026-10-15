@@ -1,0 +1,68 @@
+MATCH FK Riga v Kairat Almaty | fetched 2026-10-15 15:27 local
+
+FORM DATA FK Riga v Kairat Almaty | source API-Football | 2026-10-15 15:28 UTC
+H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
+
+=== SFK Rīga W (id 19051): last 6 finished games ===
+2024-09-07 H 0-0 v Flora W | UEFA Champions League Women | Budapest [PEN, 90-min score shown]
+2024-09-04 A 0-5 v Vorskla Poltava W | UEFA Champions League Women | Budapest
+2023-09-09 A 0-4 v SL Benfica W | UEFA Champions League Women | Seixal
+2023-09-06 A 1-0 v BIIK Kazygurt W | UEFA Champions League Women | Seixal
+2022-08-21 A 1-1 v KÍ | UEFA Champions League Women | Lefkosía [AET, 90-min score shown]
+2022-08-18 A 0-3 v Apollon Limassol W | UEFA Champions League Women | Lefkosía
+Listed home: 1 games, scored 0 (0.00), conceded 0 (0.00), blanks 1, clean sheets 1
+Listed away: 5 games, scored 2 (0.40), conceded 13 (2.60), blanks 3, clean sheets 1
+All: 6 games, scored 2 (0.33), conceded 13 (2.17), blanks 4, clean sheets 2
+
+=== Kairat Almaty (id 664): last 20 finished games ===
+2026-10-10 H 1-0 v Zhetysu | Premier League | Almaty
+2026-09-17 A 0-1 v FC Astana | Premier League | Astana
+2026-09-13 H 1-4 v FK Tobol Kostanay | Premier League | Almaty
+2026-09-09 H 3-0 v Zhenys | Premier League | Almaty
+2026-09-05 A 3-0 v Kaspiy | Premier League | Aktau
+2026-08-31 A 2-0 v Yelimay Semey | Premier League | Semey
+2026-08-27 A 0-3 v Anderlecht | UEFA Europa League | Brussels
+2026-08-20 H 0-3 v Anderlecht | UEFA Europa League | Almaty
+2026-08-15 H 3-1 v Ulytau | Premier League | Almaty
+2026-08-11 H 0-1 v Levski Sofia | UEFA Champions League | Turkistan
+2026-08-04 A 0-1 v Levski Sofia | UEFA Champions League | Sofia
+2026-07-29 H 1-0 v Omonia Nicosia | UEFA Champions League | Almaty [PEN, 90-min score shown]
+2026-07-26 H 2-1 v Ordabasy | Premier League | Almaty
+2026-07-22 A 0-1 v Omonia Nicosia | UEFA Champions League | Nicosia
+2026-07-18 A 3-1 v Atyrau | Premier League | Turkestan
+2026-07-15 A 2-0 v Sutjeska | UEFA Champions League | Niksic
+2026-07-08 H 2-1 v Sutjeska | UEFA Champions League | Almaty
+2026-07-02 H 5-0 v Okzhetpes | Premier League | Almaty
+2026-06-27 A 3-1 v Okzhetpes | Premier League | Kokshetau
+2026-06-21 A 4-2 v Kyzyl-Zhar | Premier League | Petropavl
+Listed home: 10 games, scored 18 (1.80), conceded 11 (1.10), blanks 2, clean sheets 4
+Listed away: 10 games, scored 17 (1.70), conceded 10 (1.00), blanks 4, clean sheets 3
+All: 20 games, scored 35 (1.75), conceded 21 (1.05), blanks 6, clean sheets 7
+
+(no league table available for SFK Rīga W: tried UEFA Champions League Women 2024, UEFA Champions League Women 2023, UEFA Champions League Women 2022)
+
+TABLE FOR Kairat Almaty
+LEAGUE TABLE Premier League 2026 | 16 teams | 214 games played
+League averages per game: home 1.44, away 1.07, total 2.50
+#   team                   Pts | home P GF-GA  | away P GF-GA  | all P GF-GA
+1   Ordabasy                61 | 14  28-8       | 12  24-11      | 26  52-19
+2   Kairat Almaty           60 | 14  31-10      | 12  21-9       | 26  52-19
+3   FC Astana               48 | 12  30-8       | 14  13-19      | 26  43-27
+4   Aktobe                  45 | 13  22-10      | 14  19-22      | 27  41-32
+5   Okzhetpes               45 | 12  22-10      | 15  19-27      | 27  41-37
+6   Yelimay Semey           41 | 13  17-18      | 14  21-19      | 27  38-37
+7   FK Tobol Kostanay       37 | 13  23-15      | 14  12-21      | 27  35-36
+8   Ulytau                  35 | 14  16-12      | 13  10-20      | 27  26-32
+9   Zhenys                  32 | 14  17-12      | 13  10-22      | 27  27-34
+10  Kaspiy                  32 | 14  20-21      | 13   9-16      | 27  29-37
+11  Kyzyl-Zhar              28 | 14  21-20      | 13   9-19      | 27  30-39
+12  Atyrau                  26 | 13  11-16      | 13  10-12      | 26  21-28
+13  Irtysh                  26 | 14  14-19      | 13  12-18      | 27  26-37
+14  Kaisar                  24 | 15  14-19      | 12   9-18      | 27  23-37
+15  Altay                   23 | 13  13-16      | 14  13-24      | 27  26-40
+16  Zhetysu                 22 | 12   9-14      | 15  17-31      | 27  26-45
+
+(24 API-Football requests used)
+
+----------------------------------------------------------------------
+MATCHBOOK: skipped (switched off for this run)

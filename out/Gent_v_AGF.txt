@@ -1,0 +1,97 @@
+MATCH Gent v AGF | fetched 2026-10-15 15:27 local
+
+FORM DATA Gent v AGF | source API-Football | 2026-10-15 15:28 UTC
+H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
+
+=== Gent (id 631): last 20 finished games ===
+2026-10-10 A 2-0 v Zulte Waregem | Jupiler Pro League | Waregem | xG 1.50-0.75
+2026-09-18 H 2-1 v Standard Liege | Jupiler Pro League | Gent | xG 1.30-1.11
+2026-09-13 A 1-1 v Genk | Jupiler Pro League | Genk | xG 0.89-0.94
+2026-09-06 A 3-0 v Cercle Brugge | Jupiler Pro League | Brugge | xG 1.22-0.49
+2026-09-03 H 1-0 v OH Leuven | Jupiler Pro League | Gent | xG 0.98-0.52
+2026-08-30 H 2-1 v Club Brugge KV | Jupiler Pro League | Gent | xG 1.38-0.65
+2026-08-27 A 3-2 v Hibernian | UEFA Europa Conference League | Edinburgh
+2026-08-20 H 0-0 v Hibernian | UEFA Europa Conference League | Gent
+2026-08-16 A 2-1 v RAAL La Louvière | Jupiler Pro League | La Louviere | xG 1.18-0.54
+2026-08-13 H 1-1 v IFK Goteborg | UEFA Europa Conference League | Gent
+2026-08-09 H 2-0 v KV Mechelen | Jupiler Pro League | Gent
+2026-08-06 A 1-0 v IFK Goteborg | UEFA Europa Conference League | Gothenburg
+2026-07-30 H 0-0 v LNZ Cherkasy | UEFA Europa Conference League | Gent [PEN, 90-min score shown]
+2026-07-23 A 0-0 v LNZ Cherkasy | UEFA Europa Conference League | Cherkasy
+2026-07-18 A 2-2 v Twente | Friendlies Clubs | ?
+2026-07-14 A 1-2 v Kryvbas KR | Friendlies Clubs | ?
+2026-07-11 H 4-0 v SK Beveren | Friendlies Clubs | ?
+2026-07-04 A 3-3 v AZ Alkmaar | Friendlies Clubs | ?
+2026-06-27 A 6-1 v Merelbeke | Friendlies Clubs | ?
+2026-05-31 H 0-0 v Genk | Jupiler Pro League | Gent [PEN, 90-min score shown]
+Listed home: 9 games, scored 12 (1.33), conceded 3 (0.33), blanks 3, clean sheets 6
+Listed away: 11 games, scored 24 (2.18), conceded 12 (1.09), blanks 1, clean sheets 4
+All: 20 games, scored 36 (1.80), conceded 15 (0.75), blanks 4, clean sheets 10
+
+=== AGF W (id 14243): last 20 finished games ===
+2026-10-03 A 1-2 v KoldingQ W | Kvindeliga | ?
+2026-09-29 A 0-1 v Odense Q W | Kvindeliga | ?
+2026-09-22 H 0-2 v Nordsjælland W | Kvindeliga | Aarhus
+2026-09-12 H 4-2 v FC Copenhagen W | Kvindeliga | ?
+2026-09-05 A 1-2 v Midtjylland W | Kvindeliga | ?
+2026-08-29 H 0-2 v Køge W | Kvindeliga | ?
+2026-08-19 A 0-3 v Fortuna Hjørring W | Kvindeliga | ?
+2026-08-16 H 0-3 v Brøndby W | Kvindeliga | ?
+2026-08-02 H 0-4 v KoldingQ W | Kvindeliga | ?
+2026-07-25 A 1-3 v ASA Aarhus W | Kvindeliga | ?
+2026-06-13 A 0-3 v Brøndby W | Kvindeliga | ?
+2026-05-31 H 0-3 v Køge W | Kvindeliga | ?
+2026-05-24 H 0-0 v Nordsjælland W | Kvindeliga | ?
+2026-05-09 A 1-2 v Fortuna Hjørring W | Kvindeliga | ?
+2026-05-05 H 1-2 v KoldingQ W | Kvindeliga | ?
+2026-04-28 H 0-1 v Brøndby W | Kvindeliga | ?
+2026-04-05 A 0-2 v Køge W | Kvindeliga | ?
+2026-03-28 A 1-3 v Nordsjælland W | Kvindeliga | ?
+2026-03-24 H 1-2 v Fortuna Hjørring W | Kvindeliga | ?
+2026-03-17 A 0-0 v KoldingQ W | Kvindeliga | ?
+Listed home: 10 games, scored 6 (0.60), conceded 21 (2.10), blanks 7, clean sheets 1
+Listed away: 10 games, scored 5 (0.50), conceded 21 (2.10), blanks 5, clean sheets 1
+All: 20 games, scored 11 (0.55), conceded 42 (2.10), blanks 12, clean sheets 2
+
+TABLE FOR Gent
+LEAGUE TABLE Jupiler Pro League 2026 | 18 teams | 72 games played
+League averages per game: home 1.71, away 1.32, total 3.03
+#   team                   Pts | home P GF-GA  | away P GF-GA  | all P GF-GA
+1   Gent                    22 |  4   7-2       |  4   8-2       |  8  15-4
+2   Club Brugge KV          21 |  4  10-1       |  4   9-3       |  8  19-4
+3   Charleroi               21 |  4  10-6       |  4   6-1       |  8  16-7
+4   Union St. Gilloise      20 |  4   9-1       |  4  13-3       |  8  22-4
+5   Anderlecht              16 |  4   6-1       |  4   3-5       |  8   9-6
+6   KVC Westerlo            13 |  4  12-10      |  4   8-7       |  8  20-17
+7   Genk                    12 |  4  11-3       |  4   5-9       |  8  16-12
+8   Zulte Waregem           11 |  4   6-4       |  4   4-5       |  8  10-9
+9   Standard Liege          11 |  4   5-3       |  4   8-10      |  8  13-13
+10  Lommel United           11 |  4   4-2       |  4   5-7       |  8   9-9
+11  SK Beveren               9 |  4   7-3       |  4   1-11      |  8   8-14
+12  St. Truiden              8 |  4   5-6       |  4  10-10      |  8  15-16
+13  Antwerp                  7 |  4   7-11      |  4   5-9       |  8  12-20
+14  KV Mechelen              6 |  4   7-11      |  4   2-6       |  8   9-17
+15  OH Leuven                5 |  4   4-6       |  4   2-8       |  8   6-14
+16  RAAL La Louvière         4 |  4   7-8       |  4   1-10      |  8   8-18
+17  Kortrijk                 3 |  4   2-8       |  4   0-10      |  8   2-18
+18  Cercle Brugge            3 |  4   4-9       |  4   5-7       |  8   9-16
+
+TABLE FOR AGF W
+LEAGUE TABLE Kvindeliga 2026 | 10 teams | 50 games played
+League averages per game: home 1.94, away 1.70, total 3.64
+#   team                   Pts | home P GF-GA  | away P GF-GA  | all P GF-GA
+1   Køge W                  25 |  5  19-7       |  5  11-4       | 10  30-11
+2   Nordsjælland W          21 |  5  19-5       |  5  13-7       | 10  32-12
+3   Brøndby W               20 |  5  10-6       |  5  15-2       | 10  25-8
+4   Fortuna Hjørring W      17 |  5   9-3       |  5  14-9       | 10  23-12
+5   Midtjylland W           17 |  5  12-4       |  5   3-9       | 10  15-13
+6   ASA Aarhus W            13 |  5   8-6       |  5   4-13      | 10  12-19
+7   KoldingQ W              12 |  5   8-16      |  5  12-13      | 10  20-29
+8   Odense Q W              10 |  5   3-10      |  5   3-11      | 10   6-21
+9   FC Copenhagen W          6 |  5   5-15      |  5   7-18      | 10  12-33
+10  AGF W                    3 |  5   4-13      |  5   3-11      | 10   7-24
+
+(26 API-Football requests used)
+
+----------------------------------------------------------------------
+MATCHBOOK: skipped (switched off for this run)

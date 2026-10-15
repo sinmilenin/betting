@@ -1,0 +1,60 @@
+MATCH Egnatia v Midtjylland | fetched 2026-10-15 15:27 local
+
+FORM DATA Egnatia v Midtjylland | source API-Football | 2026-10-15 15:28 UTC
+H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
+
+=== Egnatia Rrogozhinë (id 3327): last 20 finished games ===
+2026-10-11 A 2-0 v Laci | Superliga | ?
+2026-09-20 H 2-1 v Partizani | Superliga | ?
+2026-09-13 A 1-2 v AF Elbasani | Superliga | Elbasani
+2026-09-04 H 2-1 v Skenderbeu Korce | Superliga | ?
+2026-08-31 A 3-1 v Vora | Superliga | Vora
+2026-08-27 A 1-1 v Lillestrom | UEFA Europa League | Lillestrøm [AET, 90-min score shown]
+2026-08-23 H 3-0 v Tirana | Superliga | ?
+2026-08-20 H 0-0 v Lillestrom | UEFA Europa League | Rrogozhine
+2026-08-13 H 5-1 v Shamrock Rovers | UEFA Europa League | Rrogozhine
+2026-08-04 A 1-3 v Shamrock Rovers | UEFA Europa League | Dublin
+2026-07-28 A 1-1 v Celje | UEFA Champions League | Celje [PEN, 90-min score shown]
+2026-07-22 H 3-3 v Celje | UEFA Champions League | Rrogozhine
+2026-07-15 H 6-1 v Petrocub | UEFA Champions League | Rrogozhine
+2026-07-08 A 1-1 v Petrocub | UEFA Champions League | Chisinau
+2026-06-27 A 3-1 v FC Botosani | Friendlies Clubs | ?
+2026-05-31 H 2-0 v Dinamo Tirana | Superliga | Tirana
+2026-05-23 A 2-1 v Vllaznia Shkodër | Superliga | Tirana
+2026-05-17 A 4-0 v AF Elbasani | Superliga | Tirana
+2026-05-13 A 2-3 v Dinamo Tirana | Cup | Tirana
+2026-05-10 A 2-3 v Teuta Durrës | Superliga | ?
+Listed home: 8 games, scored 23 (2.88), conceded 7 (0.88), blanks 1, clean sheets 3
+Listed away: 12 games, scored 23 (1.92), conceded 17 (1.42), blanks 0, clean sheets 2
+All: 20 games, scored 46 (2.30), conceded 24 (1.20), blanks 1, clean sheets 5
+
+"Midtjylland" matches several teams. Use id:<number> instead of the name:
+  id:397    FC Midtjylland (Denmark)
+  id:7915   Midtjylland U19 (Spain)
+  id:26101  Midtjylland W (Denmark)
+(retrying Midtjylland using the opponent's country, Albania)
+"Midtjylland" matches several teams. Use id:<number> instead of the name:
+  id:397    FC Midtjylland (Denmark)
+  id:7915   Midtjylland U19 (Spain)
+  id:26101  Midtjylland W (Denmark)
+!! Midtjylland: Ambiguous team name "Midtjylland".
+
+TABLE FOR Egnatia Rrogozhinë
+LEAGUE TABLE Superliga 2026 | 10 teams | 30 games played
+League averages per game: home 1.50, away 1.30, total 2.80
+#   team                   Pts | home P GF-GA  | away P GF-GA  | all P GF-GA
+1   Teuta Durrës            16 |  3   7-1       |  3   5-1       |  6  12-2
+2   Egnatia Rrogozhinë      15 |  3   7-2       |  3   6-3       |  6  13-5
+3   Dinamo Tirana           12 |  3   5-3       |  3   5-3       |  6  10-6
+4   Tirana                   8 |  2   6-2       |  4   5-8       |  6  11-10
+5   AF Elbasani              7 |  3   4-3       |  3   4-5       |  6   8-8
+6   Laci                     7 |  4   4-6       |  2   3-4       |  6   7-10
+7   Vllaznia Shkodër         5 |  4   5-7       |  2   1-3       |  6   6-10
+8   Vora                     5 |  2   2-4       |  4   2-7       |  6   4-11
+9   Partizani                4 |  4   4-9       |  2   4-4       |  6   8-13
+10  Skenderbeu Korce         3 |  2   1-2       |  4   4-7       |  6   5-9
+
+(15 API-Football requests used)
+
+----------------------------------------------------------------------
+MATCHBOOK: skipped (switched off for this run)

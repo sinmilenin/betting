@@ -1,0 +1,101 @@
+MATCH AZ Alkmaar v Hapoel Beer Sheva | fetched 2026-10-15 15:27 local
+
+FORM DATA AZ Alkmaar v Hapoel Beer Sheva | source API-Football | 2026-10-15 15:27 UTC
+H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
+
+=== AZ Alkmaar (id 201): last 20 finished games ===
+2026-10-10 A 0-2 v Feyenoord | Eredivisie | Rotterdam | xG 1.04-2.23
+2026-09-20 H 1-0 v Telstar | Eredivisie | Alkmaar | xG 2.35-0.10
+2026-09-16 A 0-1 v Sunderland | UEFA Europa League | Sunderland | xG 1.49-2.90
+2026-09-11 H 1-1 v Willem II | Eredivisie | Alkmaar | xG 2.48-0.93
+2026-09-06 A 3-2 v Heerenveen | Eredivisie | Heerenveen | xG 1.04-1.48
+2026-08-29 H 5-2 v GO Ahead Eagles | Eredivisie | Alkmaar | xG 2.37-1.66
+2026-08-22 A 2-0 v Fortuna Sittard | Eredivisie | Sittard | xG 4.35-0.44
+2026-08-15 A 4-1 v Utrecht | Eredivisie | Utrecht | xG 2.10-0.91
+2026-08-08 H 2-0 v ADO Den Haag | Eredivisie | Alkmaar | xG 2.67-0.95
+2026-08-02 A 4-0 v PSV Eindhoven | Super Cup | Eindhoven
+2026-07-25 H 3-2 v Olympiakos Piraeus | Friendlies Clubs | ?
+2026-07-22 H 4-0 v Genk | Friendlies Clubs | ?
+2026-07-18 A 1-1 v Zulte Waregem | Friendlies Clubs | ?
+2026-07-15 H 0-1 v Anderlecht | Friendlies Clubs | ?
+2026-07-11 H 2-1 v Almere City FC | Friendlies Clubs | ?
+2026-07-04 H 3-3 v Gent | Friendlies Clubs | ?
+2026-05-17 H 3-3 v NAC Breda | Eredivisie | Alkmaar
+2026-05-10 A 1-1 v Feyenoord | Eredivisie | Rotterdam
+2026-05-03 H 2-2 v Twente | Eredivisie | Alkmaar
+2026-04-23 A 0-0 v GO Ahead Eagles | Eredivisie | Deventer
+Listed home: 11 games, scored 26 (2.36), conceded 15 (1.36), blanks 1, clean sheets 3
+Listed away: 9 games, scored 15 (1.67), conceded 8 (0.89), blanks 3, clean sheets 3
+All: 20 games, scored 41 (2.05), conceded 23 (1.15), blanks 4, clean sheets 6
+
+=== Hapoel Beer Sheva (id 563): last 20 finished games ===
+2026-10-10 A 2-0 v Ironi Tiberias | Ligat Ha'al | Tiberias | xG 1.86-1.85
+2026-09-19 H 1-0 v Ironi Kiryat Shmona | Ligat Ha'al | Beersheba
+2026-09-16 H 0-0 v Dinamo Zagreb | UEFA Europa League | Bucharest
+2026-09-13 A 2-0 v Hapoel Petah Tikva | Ligat Ha'al | Petah Tikva
+2026-09-07 H 1-4 v Maccabi Tel Aviv | Ligat Ha'al | ?
+2026-09-02 H 2-2 v Hapoel Haifa | Ligat Ha'al | ?
+2026-08-29 A 2-1 v Hapoel Ramat Gan | Ligat Ha'al | Rehovot
+2026-08-25 A 2-3 v Sabah FA | UEFA Champions League | Baku [AET, 90-min score shown]
+2026-08-19 H 2-1 v Sabah FA | UEFA Champions League | Bucharest
+2026-08-15 A 0-4 v Hapoel Haifa | Toto Cup Ligat Al | Haifa
+2026-08-11 A 2-0 v FK Crvena Zvezda | UEFA Champions League | Belgrade
+2026-08-04 H 1-0 v FK Crvena Zvezda | UEFA Champions League | Szombathely
+2026-07-29 H 2-0 v Vikingur Reykjavik | UEFA Champions League | Szombathely
+2026-07-21 A 1-2 v Vikingur Reykjavik | UEFA Champions League | Reykjavik
+2026-07-16 H 1-3 v Maccabi Tel Aviv | Super Cup | ?
+2026-07-07 A 1-3 v Legia Warszawa | Friendlies Clubs | ?
+2026-07-05 A 2-2 v Omonia Nicosia | Friendlies Clubs | ?
+2026-07-01 A 3-2 v Radomiak Radom | Friendlies Clubs | ?
+2026-05-26 H 1-2 v Maccabi Tel Aviv | State Cup | Jerusalem
+2026-05-23 H 2-5 v Maccabi Haifa | Ligat Ha'al | ?
+Listed home: 10 games, scored 13 (1.30), conceded 17 (1.70), blanks 1, clean sheets 4
+Listed away: 10 games, scored 17 (1.70), conceded 17 (1.70), blanks 1, clean sheets 3
+All: 20 games, scored 30 (1.50), conceded 34 (1.70), blanks 2, clean sheets 7
+
+TABLE FOR AZ Alkmaar
+LEAGUE TABLE Eredivisie 2026 | 18 teams | 72 games played
+League averages per game: home 1.71, away 2.03, total 3.74
+#   team                   Pts | home P GF-GA  | away P GF-GA  | all P GF-GA
+1   Feyenoord               20 |  4  11-4       |  4  16-3       |  8  27-7
+2   PSV Eindhoven           19 |  4  13-4       |  4  13-6       |  8  26-10
+3   AZ Alkmaar              19 |  4   9-3       |  4   9-5       |  8  18-8
+4   Twente                  17 |  4   9-3       |  4   7-5       |  8  16-8
+5   Ajax                    15 |  5  11-9       |  3  11-1       |  8  22-10
+6   Groningen               14 |  4   9-6       |  4  11-8       |  8  20-14
+7   Fortuna Sittard         14 |  4   5-9       |  4   9-6       |  8  14-15
+8   GO Ahead Eagles         11 |  4  11-6       |  4   8-11      |  8  19-17
+9   Excelsior               11 |  4   5-10      |  4  11-4       |  8  16-14
+10  Heerenveen               9 |  4   3-5       |  4   8-6       |  8  11-11
+11  NEC Nijmegen             9 |  4   5-8       |  4   8-6       |  8  13-14
+12  Cambuur                  8 |  4   6-13      |  4   5-6       |  8  11-19
+13  Utrecht                  8 |  4   8-14      |  4   6-11      |  8  14-25
+14  Sparta Rotterdam         6 |  4   5-10      |  4   8-10      |  8  13-20
+15  Telstar                  6 |  4   5-11      |  4   2-3       |  8   7-14
+16  PEC Zwolle               4 |  4   1-13      |  4   5-8       |  8   6-21
+17  ADO Den Haag             3 |  3   4-8       |  5   5-11      |  8   9-19
+18  Willem II                2 |  4   3-10      |  4   4-13      |  8   7-23
+
+TABLE FOR Hapoel Beer Sheva
+LEAGUE TABLE Ligat Ha'al 2026 | 14 teams | 42 games played
+League averages per game: home 1.57, away 1.52, total 3.10
+#   team                   Pts | home P GF-GA  | away P GF-GA  | all P GF-GA
+1   Maccabi Tel Aviv        16 |  3   7-2       |  3  11-4       |  6  18-6
+2   Maccabi Haifa           15 |  3   7-4       |  3   9-4       |  6  16-8
+3   Hapoel Tel Aviv         13 |  3  10-0       |  3   4-5       |  6  14-5
+4   Hapoel Beer Sheva       13 |  3   4-6       |  3   6-1       |  6  10-7
+5   Beitar Jerusalem        12 |  3   6-6       |  3   5-3       |  6  11-9
+6   Hapoel Haifa             9 |  3   5-2       |  3   4-5       |  6   9-7
+7   Hapoel Katamon           7 |  3   7-11      |  3   6-5       |  6  13-16
+8   Maccabi Netanya          6 |  3   2-3       |  3   5-4       |  6   7-7
+9   Maccabi Petah Tikva      6 |  3   5-7       |  3   4-6       |  6   9-13
+10  Bnei Sakhnin             5 |  3   2-3       |  3   1-3       |  6   3-6
+11  Hapoel Petah Tikva       4 |  3   2-3       |  3   1-6       |  6   3-9
+12  Ironi Kiryat Shmona      3 |  3   3-7       |  3   3-7       |  6   6-14
+13  Hapoel Ramat Gan         3 |  3   3-6       |  3   1-7       |  6   4-13
+14  Ironi Tiberias           1 |  3   3-4       |  3   4-6       |  6   7-10
+
+(26 API-Football requests used)
+
+----------------------------------------------------------------------
+MATCHBOOK: skipped (switched off for this run)

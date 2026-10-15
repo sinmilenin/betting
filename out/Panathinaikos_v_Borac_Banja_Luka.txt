@@ -1,0 +1,93 @@
+MATCH Panathinaikos v Borac Banja Luka | fetched 2026-10-15 15:27 local
+
+FORM DATA Panathinaikos v Borac Banja Luka | source API-Football | 2026-10-15 15:29 UTC
+H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
+
+=== Panathinaikos (id 617): last 20 finished games ===
+2026-10-11 A 0-1 v Olympiakos Piraeus | Super League 1 | Piraeus | xG 0.47-0.73
+2026-09-20 A 1-0 v Kalamata | Super League 1 | Kalamata | xG 1.72-1.16
+2026-09-16 A 2-0 v Kifisia | Cup | Athens
+2026-09-13 H 3-0 v Panetolikos | Super League 1 | Athens
+2026-09-10 H 3-1 v Kifisia | Super League 1 | Athens
+2026-09-06 H 3-1 v PAOK | Super League 1 | Athens | xG 2.72-1.02
+2026-09-03 H 1-0 v Niki Volos | Cup | Athens
+2026-08-31 A 2-0 v Levadiakos | Super League 1 | Levadia | xG 1.09-0.96
+2026-08-27 A 1-1 v Hradec Králové | UEFA Europa Conference League | Hradec Kralove [AET, 90-min score shown]
+2026-08-20 H 2-2 v Hradec Králové | UEFA Europa Conference League | Athens
+2026-08-11 A 1-1 v CSKA 1948 | UEFA Europa Conference League | Sofia [AET, 90-min score shown]
+2026-08-05 H 1-1 v CSKA 1948 | UEFA Europa Conference League | Athens
+2026-07-30 H 2-2 v Paks | UEFA Europa Conference League | Athens
+2026-07-23 A 2-1 v Paks | UEFA Europa Conference League | Paks
+2026-07-15 A 1-4 v Rapid Vienna | Friendlies Clubs | ?
+2026-07-11 H 3-0 v Grasshoppers | Friendlies Clubs | ?
+2026-07-04 A 3-1 v Ajax | Friendlies Clubs | Ermelo
+2026-07-01 A 4-0 v Helmond Sport | Friendlies Clubs | ?
+2026-05-17 H 2-2 v PAOK | Super League 1 | Athens
+2026-05-13 A 0-1 v Olympiakos Piraeus | Super League 1 | Piraeus
+Listed home: 9 games, scored 20 (2.22), conceded 9 (1.00), blanks 0, clean sheets 3
+Listed away: 11 games, scored 17 (1.55), conceded 10 (0.91), blanks 2, clean sheets 4
+All: 20 games, scored 37 (1.85), conceded 19 (0.95), blanks 2, clean sheets 7
+
+=== Borac Banja Luka (id 3364): last 20 finished games ===
+2026-10-10 H 2-0 v BSK Banja Luka | Premijer Liga | Banja Luka
+2026-09-27 H 1-1 v Vojvodina | Friendlies Clubs | ? [PEN, 90-min score shown]
+2026-09-26 H 4-3 v Radnik Bijeljina | Friendlies Clubs | ?
+2026-09-20 A 3-2 v Siroki Brijeg | Premijer Liga | ?
+2026-09-16 A 2-1 v Sloga Doboj | Premijer Liga | Doboj
+2026-09-12 H 1-0 v Zrinjski | Premijer Liga | Banja Luka
+2026-09-06 A 0-1 v FK Sarajevo | Premijer Liga | Sarajevo
+2026-09-02 H 2-0 v Zeljeznicar Sarajevo | Premijer Liga | Banja Luka
+2026-08-30 A 2-2 v Radnik Bijeljina | Premijer Liga | Bijeljina
+2026-08-27 H 3-1 v Vikingur Reykjavik | UEFA Europa Conference League | Banja Luka
+2026-08-23 H 2-0 v Čelik | Premijer Liga | Banja Luka
+2026-08-20 A 3-1 v Vikingur Reykjavik | UEFA Europa Conference League | Reykjavik
+2026-08-13 A 0-1 v ML Vitebsk | UEFA Europa Conference League | Mezokovesd [PEN, 90-min score shown]
+2026-08-09 H 3-1 v Velež | Premijer Liga | Banja Luka
+2026-08-06 H 1-0 v ML Vitebsk | UEFA Europa Conference League | Banja Luka
+2026-07-30 A 3-3 v Petrocub | UEFA Europa Conference League | Chisinau
+2026-07-23 H 3-0 v Petrocub | UEFA Europa Conference League | Banja Luka
+2026-07-14 A 0-4 v Levski Sofia | UEFA Champions League | Sofia
+2026-07-07 H 1-1 v Levski Sofia | UEFA Champions League | Banja Luka
+2026-06-29 A 1-3 v Akhmat | Friendlies Clubs | ?
+Listed home: 11 games, scored 23 (2.09), conceded 7 (0.64), blanks 0, clean sheets 6
+Listed away: 9 games, scored 14 (1.56), conceded 18 (2.00), blanks 3, clean sheets 0
+All: 20 games, scored 37 (1.85), conceded 25 (1.25), blanks 3, clean sheets 6
+
+TABLE FOR Panathinaikos
+LEAGUE TABLE Super League 1 2026 | 14 teams | 42 games played
+League averages per game: home 1.60, away 0.98, total 2.57
+#   team                   Pts | home P GF-GA  | away P GF-GA  | all P GF-GA
+1   Panathinaikos           15 |  3   9-2       |  3   3-1       |  6  12-3
+2   AEK Athens FC           14 |  3  12-0       |  3   4-3       |  6  16-3
+3   Olympiakos Piraeus      13 |  3   2-1       |  3   3-1       |  6   5-2
+4   PAOK                    12 |  3   7-3       |  3   6-5       |  6  13-8
+5   Aris Thessalonikis      10 |  3   5-3       |  3   3-9       |  6   8-12
+6   OFI                     10 |  3   6-2       |  3   2-5       |  6   8-7
+7   Iraklis 1908             9 |  2   3-1       |  4   3-5       |  6   6-6
+8   Panetolikos              9 |  3   6-4       |  3   2-5       |  6   8-9
+9   Kifisia                  8 |  3   3-1       |  3   3-6       |  6   6-7
+10  Kalamata                 7 |  3   5-5       |  3   4-4       |  6   9-9
+11  Asteras Tripolis         5 |  4   3-5       |  2   3-5       |  6   6-10
+12  Atromitos                2 |  3   3-5       |  3   2-4       |  6   5-9
+13  Levadiakos               1 |  3   0-5       |  3   0-6       |  6   0-11
+14  Volos NFC                0 |  3   3-4       |  3   3-8       |  6   6-12
+
+TABLE FOR Borac Banja Luka
+LEAGUE TABLE Premijer Liga 2026 | 10 teams | 45 games played
+League averages per game: home 1.58, away 1.04, total 2.62
+#   team                   Pts | home P GF-GA  | away P GF-GA  | all P GF-GA
+1   Zrinjski                24 |  5  11-3       |  4  12-4       |  9  23-7
+2   Borac Banja Luka        22 |  5  10-1       |  4   7-6       |  9  17-7
+3   FK Sarajevo             14 |  5   4-1       |  4   2-4       |  9   6-5
+4   Zeljeznicar Sarajevo    12 |  5   9-4       |  4   2-8       |  9  11-12
+5   Siroki Brijeg           10 |  5   6-7       |  4   4-4       |  9  10-11
+6   Čelik                    9 |  4   7-4       |  5   4-8       |  9  11-12
+7   Sloga Doboj              9 |  4   4-9       |  5   3-5       |  9   7-14
+8   BSK Banja Luka           8 |  4   9-7       |  5   3-9       |  9  12-16
+9   Velež                    8 |  4   4-1       |  5   2-13      |  9   6-14
+10  Radnik Bijeljina         7 |  4   7-10      |  5   8-10      |  9  15-20
+
+(26 API-Football requests used)
+
+----------------------------------------------------------------------
+MATCHBOOK: skipped (switched off for this run)
