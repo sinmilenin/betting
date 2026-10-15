@@ -1,14 +1,3 @@
-# 2026-10-15 19:47 scan retry: team ids for ambiguous names
-Celta Vigo v id:496 | n=20 | xg=10
-id:167 v id:549 | n=20 | xg=10
-id:211 v Celtic | n=20 | xg=10
-Brighton v id:3872 | n=20 | xg=10
-id:651 v Plzen | n=20 | xg=10
-FC Copenhagen v id:217 | n=20 | xg=10
-Twente v id:1012 | n=20 | xg=10
-Heart Of Midlothian v Nordsjaelland | n=20 | xg=10
-id:160 v id:1122 | n=20 | xg=10
-Brann v id:667 | n=20 | xg=10
-id:1374 v Oxford United | n=20 | xg=10
-Jagiellonia v Ararat Armenia | n=20 | xg=10
-Sint Truiden v id:3502 | n=20 | xg=10
+# 2026-10-15 19:48 scan retry 2: Ararat-Armenia, Sint-Truiden
+Jagiellonia v Ararat | n=20 | xg=10
+Truiden v id:3502 | n=20 | xg=10
