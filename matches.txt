@@ -1,2 +1,20 @@
-# 2026-10-15 17:34 scan retry 3 (Union SG id)
-id:1393 v Real Sociedad | n=20 | xg=10
+# 2026-10-15 19:42 scan: 21:00 UEFA/League 1 fixtures
+Celta Vigo v Juventus | n=20 | xg=10
+Hoffenheim v Besiktas | n=20 | xg=10
+Bournemouth v Sturm Graz | n=20 | xg=10
+Benfica v Celtic | n=20 | xg=10
+Brighton v Kauno Zalgiris | n=20 | xg=10
+Atalanta v Pafos | n=20 | xg=10
+Dinamo Zagreb v Anderlecht | n=20 | xg=10
+Marseille v Olympiakos Piraeus | n=20 | xg=10
+NEC Nijmegen v Levski Sofia | n=20 | xg=10
+Rennes v OFI | n=20 | xg=10
+Ferencvaros v Plzen | n=20 | xg=10
+FC Copenhagen v Braga | n=20 | xg=10
+Twente v Thun | n=20 | xg=10
+Hearts v Nordsjaelland | n=20 | xg=10
+Freiburg v Jablonec | n=20 | xg=10
+Brann v Lincoln Red Imps | n=20 | xg=10
+Mansfield v Oxford United | n=20 | xg=10
+Jagiellonia v Ararat-Armenia | n=20 | xg=10
+Sint-Truiden v Iberia 1999 | n=20 | xg=10
