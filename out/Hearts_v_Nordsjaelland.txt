@@ -1,0 +1,74 @@
+MATCH Hearts v Nordsjaelland | fetched 2026-10-15 17:42 local
+
+FORM DATA Hearts v Nordsjaelland | source API-Football | 2026-10-15 17:43 UTC
+H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
+
+"Hearts" matches several teams. Use id:<number> instead of the name:
+  id:6771   Hearts U21 (Scotland)
+  id:6773   Kelty Hearts (Scotland)
+  id:12249  Hearts of Oak (Ghana)
+  id:13973  Darwin Hearts (Australia)
+  id:19799  Tower Hearts (Scotland)
+  id:22023  Cupar Hearts (Scotland)
+  id:23295  Hearts W (Scotland)
+  id:24273  Northern Hearts (New-Zealand)
+  id:25486  Portland Hearts of Pine (USA)
+=== FC Nordsjaelland (id 398): last 20 finished games ===
+2026-10-09 H 0-0 v Odense | Superliga | Farum | xG 2.16-0.50
+2026-10-03 A 0-3 v Malmo FF | Friendlies Clubs | ?
+2026-09-20 A 1-4 v Viborg | Superliga | Viborg | xG 1.32-2.60
+2026-09-16 A 3-0 v Vatanspor | DBU Pokalen | ?
+2026-09-13 H 2-0 v Aarhus | Superliga | Farum | xG 2.79-1.26
+2026-09-07 A 2-2 v FC Midtjylland | Superliga | Herning | xG 2.10-1.88
+2026-09-03 A 0-2 v FC Copenhagen | Superliga | Copenhagen | xG 0.63-1.62
+2026-08-30 H 3-1 v Brondby | Superliga | Farum | xG 3.32-1.76
+2026-08-27 A 3-2 v FC ST. Gallen | UEFA Europa Conference League | St. Gallen
+2026-08-23 A 3-0 v Sonderjyske | Superliga | Haderslev | xG 1.97-1.28
+2026-08-20 H 1-0 v FC ST. Gallen | UEFA Europa Conference League | Farum
+2026-08-16 H 1-0 v Silkeborg | Superliga | Farum
+2026-08-13 H 5-0 v Valur Reykjavik | UEFA Europa Conference League | Farum
+2026-08-06 A 2-0 v Valur Reykjavik | UEFA Europa Conference League | Reykjavik
+2026-08-02 H 1-0 v Randers FC | Superliga | Farum
+2026-07-30 H 6-0 v Gais | UEFA Europa Conference League | Farum
+2026-07-26 A 1-1 v AC Horsens | Superliga | Horsens
+2026-07-23 A 0-1 v Gais | UEFA Europa Conference League | Gothenburg
+2026-07-21 A 2-2 v Hørsholm-Usserød | Friendlies Clubs | ?
+2026-07-17 H 1-2 v Jagiellonia | Friendlies Clubs | ?
+Listed home: 9 games, scored 20 (2.22), conceded 3 (0.33), blanks 1, clean sheets 7
+Listed away: 11 games, scored 17 (1.55), conceded 17 (1.55), blanks 3, clean sheets 3
+All: 20 games, scored 37 (1.85), conceded 20 (1.00), blanks 4, clean sheets 10
+
+(retrying Hearts using the opponent's country, Denmark)
+"Hearts" matches several teams. Use id:<number> instead of the name:
+  id:6771   Hearts U21 (Scotland)
+  id:6773   Kelty Hearts (Scotland)
+  id:12249  Hearts of Oak (Ghana)
+  id:13973  Darwin Hearts (Australia)
+  id:19799  Tower Hearts (Scotland)
+  id:22023  Cupar Hearts (Scotland)
+  id:23295  Hearts W (Scotland)
+  id:24273  Northern Hearts (New-Zealand)
+  id:25486  Portland Hearts of Pine (USA)
+!! Hearts: Ambiguous team name "Hearts".
+
+TABLE FOR FC Nordsjaelland
+LEAGUE TABLE Superliga 2026 | 12 teams | 60 games played
+League averages per game: home 1.58, away 1.43, total 3.02
+#   team                   Pts | home P GF-GA  | away P GF-GA  | all P GF-GA
+1   FC Copenhagen           24 |  4  10-3       |  6  14-7       | 10  24-10
+2   FC Midtjylland          22 |  5  11-5       |  5   8-5       | 10  19-10
+3   Viborg                  20 |  5  11-4       |  5   6-4       | 10  17-8
+4   FC Nordsjaelland        18 |  5   7-1       |  5   7-9       | 10  14-10
+5   Brondby                 16 |  6  12-9       |  4   5-8       | 10  17-17
+6   AC Horsens              12 |  5   7-9       |  5  11-10      | 10  18-19
+7   Silkeborg               11 |  5   7-8       |  5   8-7       | 10  15-15
+8   Randers FC              10 |  6   6-10      |  4   5-6       | 10  11-16
+9   Odense                  10 |  4   3-8       |  6   5-6       | 10   8-14
+10  Aarhus                   8 |  5   8-7       |  5   6-10      | 10  14-17
+11  Lyngby                   7 |  5   5-9       |  5   7-12      | 10  12-21
+12  Sonderjyske              5 |  5   8-13      |  5   4-11      | 10  12-24
+
+(14 API-Football requests used)
+
+----------------------------------------------------------------------
+MATCHBOOK: skipped (switched off for this run)

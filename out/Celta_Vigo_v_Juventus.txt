@@ -1,0 +1,110 @@
+MATCH Celta Vigo v Juventus | fetched 2026-10-15 17:42 local
+
+FORM DATA Celta Vigo v Juventus | source API-Football | 2026-10-15 17:42 UTC
+H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
+
+=== Celta Vigo (id 538): last 20 finished games ===
+2026-10-11 A 0-0 v Elche | La Liga | Elche | xG 0.47-0.78
+2026-09-19 H 5-0 v Racing Santander | La Liga | Vigo | xG 2.14-0.75
+2026-09-16 A 0-1 v Omonia Nicosia | UEFA Europa League | Nicosia | xG 1.17-0.32
+2026-09-13 H 1-1 v Malaga | La Liga | Vigo | xG 1.90-0.43
+2026-09-07 A 1-1 v Getafe | La Liga | Getafe | xG 1.03-0.65
+2026-09-03 A 0-0 v Real Sociedad | La Liga | San Sebastian | xG 0.43-1.05
+2026-08-30 H 0-2 v Athletic Club | La Liga | Vigo | xG 0.75-2.78
+2026-08-27 H 1-2 v Osasuna | La Liga | Vigo | xG 0.14-2.60
+2026-08-22 A 0-0 v Valencia | La Liga | Valencia | xG 0.66-0.58
+2026-08-08 A 1-1 v Napoli | Friendlies Clubs | ?
+2026-08-05 A 4-1 v Sassuolo | Friendlies Clubs | ?
+2026-07-29 H 2-2 v Academico Viseu | Friendlies Clubs | ?
+2026-07-25 H 1-0 v Sporting Gijon | Friendlies Clubs | ?
+2026-07-18 A 2-2 v SC Braga | Friendlies Clubs | Braga
+2026-05-23 H 1-0 v Sevilla | La Liga | Vigo
+2026-05-17 A 1-1 v Athletic Club | La Liga | Bilbao
+2026-05-12 H 2-3 v Levante | La Liga | Vigo
+2026-05-09 A 1-0 v Atletico Madrid | La Liga | Madrid
+2026-05-03 H 3-1 v Elche | La Liga | Vigo
+2026-04-26 A 1-2 v Villarreal | La Liga | Villarreal
+Listed home: 9 games, scored 16 (1.78), conceded 11 (1.22), blanks 1, clean sheets 3
+Listed away: 11 games, scored 11 (1.00), conceded 9 (0.82), blanks 4, clean sheets 4
+All: 20 games, scored 27 (1.35), conceded 20 (1.00), blanks 5, clean sheets 7
+
+"Juventus" matches several teams. Use id:<number> instead of the name:
+  id:496    Juventus (Italy)
+  id:1715   Juventus U23 (Italy)
+  id:1886   Juventus W (Italy)
+  id:2587   Juventus Bucuresti (Romania)
+  id:4406   Juventus Sainte-Anne (Guadeloupe)
+  id:4446   Juventus (Haiti)
+  id:4643   Juventus Managua (Nicaragua)
+  id:6652   YF Juventus (Switzerland)
+  id:7904   Juventus U19 (Italy)
+  id:8520   Juventus Malchika (Bulgaria)
+  id:10019  Juventus (Brazil)
+  id:12168  Juventus Managua U20 (Nicaragua)
+  id:12912  Juventus SC (Brazil)
+  id:13021  Juventus U20 (Brazil)
+  id:13688  Juventus Papus (France)
+  id:23517  Canberra Juventus (Australia)
+  id:23732  Juventus CE U20 (Brazil)
+  id:24744  Juventus U20 (Italy)
+  id:25251  Juventus Huamachuco (Peru)
+  id:25964  Juventus RJ (Brazil)
+  id:26488  Juventus FC Minas Novas (Brazil)
+  id:26593  Juventus U21 (Italy)
+  id:27510  Brunswick Juventus FC (Australia)
+(retrying Juventus using the opponent's country, Spain)
+"Juventus" matches several teams. Use id:<number> instead of the name:
+  id:496    Juventus (Italy)
+  id:1715   Juventus U23 (Italy)
+  id:1886   Juventus W (Italy)
+  id:2587   Juventus Bucuresti (Romania)
+  id:4406   Juventus Sainte-Anne (Guadeloupe)
+  id:4446   Juventus (Haiti)
+  id:4643   Juventus Managua (Nicaragua)
+  id:6652   YF Juventus (Switzerland)
+  id:7904   Juventus U19 (Italy)
+  id:8520   Juventus Malchika (Bulgaria)
+  id:10019  Juventus (Brazil)
+  id:12168  Juventus Managua U20 (Nicaragua)
+  id:12912  Juventus SC (Brazil)
+  id:13021  Juventus U20 (Brazil)
+  id:13688  Juventus Papus (France)
+  id:23517  Canberra Juventus (Australia)
+  id:23732  Juventus CE U20 (Brazil)
+  id:24744  Juventus U20 (Italy)
+  id:25251  Juventus Huamachuco (Peru)
+  id:25964  Juventus RJ (Brazil)
+  id:26488  Juventus FC Minas Novas (Brazil)
+  id:26593  Juventus U21 (Italy)
+  id:27510  Brunswick Juventus FC (Australia)
+!! Juventus: Ambiguous team name "Juventus".
+
+TABLE FOR Celta Vigo
+LEAGUE TABLE La Liga 2026 | 20 teams | 78 games played
+League averages per game: home 1.76, away 1.33, total 3.09
+#   team                   Pts | home P GF-GA  | away P GF-GA  | all P GF-GA
+1   Barcelona               24 |  4  17-4       |  4  17-3       |  8  34-7
+2   Atletico Madrid         19 |  4  10-3       |  4   8-5       |  8  18-8
+3   Real Betis              19 |  4   8-2       |  4   6-7       |  8  14-9
+4   Real Madrid             18 |  4  13-2       |  4   6-6       |  8  19-8
+5   Sevilla                 14 |  4   5-7       |  4   8-5       |  8  13-12
+6   Real Sociedad           13 |  4   5-6       |  4   7-9       |  8  12-15
+7   Alaves                  11 |  5  10-5       |  3   2-3       |  8  12-8
+8   Deportivo La Coruna     10 |  4   5-4       |  4   7-7       |  8  12-11
+9   Celta Vigo               8 |  4   7-5       |  4   1-1       |  8   8-6
+10  Athletic Club            8 |  4   5-4       |  2   2-2       |  6   7-6
+11  Villarreal               8 |  3   6-6       |  5   7-7       |  8  13-13
+12  Espanyol                 8 |  4   6-6       |  4   5-5       |  8  11-11
+13  Rayo Vallecano           8 |  3   6-4       |  4   5-12      |  7  11-16
+14  Getafe                   8 |  4   4-2       |  4   0-8       |  8   4-10
+15  Racing Santander         8 |  4   9-7       |  4   4-16      |  8  13-23
+16  Osasuna                  8 |  4   2-3       |  4   6-15      |  8   8-18
+17  Levante                  6 |  3  10-9       |  4   1-6       |  7  11-15
+18  Elche                    6 |  4   4-11      |  4   7-6       |  8  11-17
+19  Valencia                 5 |  4   2-9       |  4   4-6       |  8   6-15
+20  Malaga                   4 |  4   3-5       |  4   1-8       |  8   4-13
+
+(15 API-Football requests used)
+
+----------------------------------------------------------------------
+MATCHBOOK: skipped (switched off for this run)

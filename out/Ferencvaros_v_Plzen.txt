@@ -1,0 +1,68 @@
+MATCH Ferencvaros v Plzen | fetched 2026-10-15 17:42 local
+
+FORM DATA Ferencvaros v Plzen | source API-Football | 2026-10-15 17:43 UTC
+H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
+
+"Ferencvaros" matches several teams. Use id:<number> instead of the name:
+  id:651    Ferencvarosi TC (Hungary)
+  id:10888  Ferencváros W (Hungary)
+  id:11861  Ferencváros II (Hungary)
+  id:16389  Ferencváros U19 (Hungary)
+=== Plzen (id 567): last 20 finished games ===
+2026-10-10 H 3-0 v Mlada Boleslav | Czech Liga | Plzen | xG 2.75-1.57
+2026-09-20 A 1-2 v Slavia Praha | Czech Liga | Prague | xG 0.82-1.88
+2026-09-17 H 0-3 v Union St. Gilloise | UEFA Europa League | Pilsner
+2026-09-13 H 2-3 v Sigma Olomouc | Czech Liga | Plzen | xG 2.25-0.60
+2026-09-09 A 0-0 v Hradec Králové | Czech Liga | Hradec Kralove | xG 0.21-0.92
+2026-09-05 A 3-0 v Artis | Czech Liga | Brno | xG 1.70-0.44
+2026-08-30 H 1-1 v Slovácko | Czech Liga | Plzen | xG 1.28-0.41
+2026-08-27 H 4-1 v FK Crvena Zvezda | UEFA Europa League | Plzen [AET, 90-min score shown]
+2026-08-20 A 0-3 v FK Crvena Zvezda | UEFA Europa League | Belgrade
+2026-08-15 H 3-2 v Zlin | Czech Liga | Plzen | xG 2.22-1.06
+2026-08-08 A 5-5 v Teplice | Czech Liga | Teplice
+2026-08-01 H 1-1 v Zbrojovka Brno | Czech Liga | Plzen
+2026-07-25 H 1-3 v Slovan Liberec | Czech Liga | Plzen
+2026-07-14 H 2-0 v Polessya | Friendlies Clubs | ?
+2026-07-10 H 3-5 v BSC Young Boys | Friendlies Clubs | ?
+2026-07-07 H 1-1 v FC Copenhagen | Friendlies Clubs | ?
+2026-07-01 H 1-1 v Spartak Trnava | Friendlies Clubs | ?
+2026-06-27 H 4-2 v Artis | Friendlies Clubs | ?
+2026-05-24 A 0-3 v Slavia Praha | Czech Liga | Prague
+2026-05-17 H 5-0 v FK Jablonec | Czech Liga | Plzen
+Listed home: 14 games, scored 31 (2.21), conceded 23 (1.64), blanks 1, clean sheets 3
+Listed away: 6 games, scored 9 (1.50), conceded 13 (2.17), blanks 3, clean sheets 2
+All: 20 games, scored 40 (2.00), conceded 36 (1.80), blanks 4, clean sheets 5
+
+(retrying Ferencvaros using the opponent's country, Czech-Republic)
+"Ferencvaros" matches several teams. Use id:<number> instead of the name:
+  id:651    Ferencvarosi TC (Hungary)
+  id:10888  Ferencváros W (Hungary)
+  id:11861  Ferencváros II (Hungary)
+  id:16389  Ferencváros U19 (Hungary)
+!! Ferencvaros: Ambiguous team name "Ferencvaros".
+
+TABLE FOR Plzen
+LEAGUE TABLE Czech Liga 2026 | 16 teams | 80 games played
+League averages per game: home 1.48, away 1.27, total 2.75
+#   team                   Pts | home P GF-GA  | away P GF-GA  | all P GF-GA
+1   Slavia Praha            26 |  5  15-5       |  5  11-1       | 10  26-6
+2   Slovan Liberec          20 |  5   6-4       |  5   7-2       | 10  13-6
+3   Sparta Praha            18 |  5  11-5       |  5   9-7       | 10  20-12
+4   Mlada Boleslav          17 |  4  10-1       |  6   7-12      | 10  17-13
+5   Sigma Olomouc           17 |  4   8-6       |  6   9-8       | 10  17-14
+6   FK Jablonec             17 |  5   8-4       |  5   4-5       | 10  12-9
+7   Teplice                 17 |  6  11-11      |  4   7-5       | 10  18-16
+8   Zbrojovka Brno          16 |  6   9-6       |  4   3-7       | 10  12-13
+9   Bohemians 1905          15 |  5   5-1       |  5   6-10      | 10  11-11
+10  Hradec Králové          14 |  6   8-9       |  4   2-4       | 10  10-13
+11  Plzen                   13 |  6  11-10      |  4   9-7       | 10  20-17
+12  Baník Ostrava           10 |  4   3-6       |  6   4-12      | 10   7-18
+13  Artis                    8 |  5   3-13      |  5   8-7       | 10  11-20
+14  Pardubice                8 |  4   4-6       |  6   5-10      | 10   9-16
+15  Slovácko                 7 |  4   4-5       |  6   5-11      | 10   9-16
+16  Zlin                     1 |  6   2-10      |  4   6-10      | 10   8-20
+
+(15 API-Football requests used)
+
+----------------------------------------------------------------------
+MATCHBOOK: skipped (switched off for this run)

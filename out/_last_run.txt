@@ -1,3 +1,37 @@
-RUN 2026-10-15 15:33 local | 1 match(es)
-id:1393 v Real Sociedad -> out/id_1393_v_Real_Sociedad.txt
-Requests used: API-Football 26, Matchbook 0
+RUN 2026-10-15 17:42 local | 19 match(es)
+Celta Vigo v Juventus -> out/Celta_Vigo_v_Juventus.txt
+    !! Juventus: Ambiguous team name "Juventus".
+Hoffenheim v Besiktas -> out/Hoffenheim_v_Besiktas.txt
+    !! Hoffenheim: Ambiguous team name "Hoffenheim".
+    !! Besiktas: Ambiguous team name "Besiktas".
+Bournemouth v Sturm Graz -> out/Bournemouth_v_Sturm_Graz.txt
+Benfica v Celtic -> out/Benfica_v_Celtic.txt
+    !! Benfica: Ambiguous team name "Benfica".
+Brighton v Kauno Zalgiris -> out/Brighton_v_Kauno_Zalgiris.txt
+    !! Kauno Zalgiris: Ambiguous team name "Kauno Zalgiris".
+Atalanta v Pafos -> out/Atalanta_v_Pafos.txt
+Dinamo Zagreb v Anderlecht -> out/Dinamo_Zagreb_v_Anderlecht.txt
+Marseille v Olympiakos Piraeus -> out/Marseille_v_Olympiakos_Piraeus.txt
+NEC Nijmegen v Levski Sofia -> out/NEC_Nijmegen_v_Levski_Sofia.txt
+Rennes v OFI -> out/Rennes_v_OFI.txt
+Ferencvaros v Plzen -> out/Ferencvaros_v_Plzen.txt
+    !! Ferencvaros: Ambiguous team name "Ferencvaros".
+FC Copenhagen v Braga -> out/FC_Copenhagen_v_Braga.txt
+    !! Braga: Ambiguous team name "Braga".
+Twente v Thun -> out/Twente_v_Thun.txt
+    !! Thun: Ambiguous team name "Thun".
+Hearts v Nordsjaelland -> out/Hearts_v_Nordsjaelland.txt
+    !! Hearts: Ambiguous team name "Hearts".
+Freiburg v Jablonec -> out/Freiburg_v_Jablonec.txt
+    !! Freiburg: Ambiguous team name "Freiburg".
+    !! Jablonec: Ambiguous team name "Jablonec".
+Brann v Lincoln Red Imps -> out/Brann_v_Lincoln_Red_Imps.txt
+    !! Lincoln Red Imps: Ambiguous team name "Lincoln Red Imps".
+Mansfield v Oxford United -> out/Mansfield_v_Oxford_United.txt
+    !! Mansfield: Ambiguous team name "Mansfield".
+Jagiellonia v Ararat-Armenia -> out/Jagiellonia_v_Ararat_Armenia.txt
+    !! Ararat-Armenia: API-Football error: {"search": "The Search field may only contain alpha-numeric characters and spaces."}
+Sint-Truiden v Iberia 1999 -> out/Sint_Truiden_v_Iberia_1999.txt
+    !! Sint-Truiden: API-Football error: {"search": "The Search field may only contain alpha-numeric characters and spaces."}
+    !! Iberia 1999: Ambiguous team name "Iberia 1999".
+Requests used: API-Football 306, Matchbook 0

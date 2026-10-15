@@ -1,0 +1,86 @@
+MATCH FC Copenhagen v Braga | fetched 2026-10-15 17:42 local
+
+FORM DATA FC Copenhagen v Braga | source API-Football | 2026-10-15 17:43 UTC
+H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
+
+=== FC Copenhagen (id 400): last 20 finished games ===
+2026-10-11 A 1-2 v FC Midtjylland | Superliga | Herning | xG 1.67-1.62
+2026-10-04 A 0-2 v Hamburger SV | Friendlies Clubs | ?
+2026-09-20 A 1-0 v Brondby | Superliga | Brondby | xG 2.27-0.71
+2026-09-15 A 3-0 v Skovshoved | DBU Pokalen | ?
+2026-09-11 H 2-0 v AC Horsens | Superliga | Copenhagen
+2026-09-06 A 5-0 v Odense | Superliga | Odense | xG 2.84-2.18
+2026-09-03 H 2-0 v FC Nordsjaelland | Superliga | Copenhagen | xG 1.62-0.63
+2026-08-31 H 3-1 v Sonderjyske | Superliga | Copenhagen | xG 2.43-0.78
+2026-08-27 H 4-1 v Inter Turku | UEFA Europa Conference League | Copenhagen
+2026-08-23 A 0-4 v Viborg | Superliga | Viborg | xG 0.34-1.19
+2026-08-20 A 0-0 v Inter Turku | UEFA Europa Conference League | Turku
+2026-08-16 A 4-0 v Randers FC | Superliga | Randers
+2026-08-12 H 5-1 v Debreceni VSC | UEFA Europa Conference League | Copenhagen
+2026-08-06 A 3-0 v Debreceni VSC | UEFA Europa Conference League | Debrecen
+2026-08-02 A 3-1 v Silkeborg | Superliga | Silkeborg
+2026-07-29 H 2-1 v Polessya | UEFA Europa Conference League | Copenhagen
+2026-07-26 H 3-2 v Lyngby | Superliga | Copenhagen
+2026-07-23 A 3-3 v Polessya | UEFA Europa Conference League | Kosice
+2026-07-16 H 2-1 v Viborg | Friendlies Clubs | ?
+2026-07-11 H 3-2 v AC Horsens | Friendlies Clubs | ?
+Listed home: 9 games, scored 26 (2.89), conceded 9 (1.00), blanks 0, clean sheets 2
+Listed away: 11 games, scored 23 (2.09), conceded 12 (1.09), blanks 3, clean sheets 6
+All: 20 games, scored 49 (2.45), conceded 21 (1.05), blanks 3, clean sheets 8
+
+"Braga" matches several teams. Use id:<number> instead of the name:
+  id:217    SC Braga (Portugal)
+  id:246    SC Braga B (Portugal)
+  id:794    RB Bragantino (Brazil)
+  id:2207   Bragantino PA (Brazil)
+  id:4827   Bragança (Portugal)
+  id:6849   Bragadiru (Romania)
+  id:10905  Sporting Braga W (Portugal)
+  id:12955  Bragantino PA U20 (Brazil)
+  id:15469  Sporting Braga U23 (Portugal)
+  id:16053  RB Bragantino U23 (Brazil)
+  id:18345  RB Bragantino U20 (Brazil)
+  id:18728  RB Bragantino W (Brazil)
+  id:22211  RB Bragantino B (Brazil)
+  id:22375  Sporting Braga U19 (Portugal)
+  id:24485  RB Bragantino U17 (Brazil)
+(retrying Braga using the opponent's country, Denmark)
+"Braga" matches several teams. Use id:<number> instead of the name:
+  id:217    SC Braga (Portugal)
+  id:246    SC Braga B (Portugal)
+  id:794    RB Bragantino (Brazil)
+  id:2207   Bragantino PA (Brazil)
+  id:4827   Bragança (Portugal)
+  id:6849   Bragadiru (Romania)
+  id:10905  Sporting Braga W (Portugal)
+  id:12955  Bragantino PA U20 (Brazil)
+  id:15469  Sporting Braga U23 (Portugal)
+  id:16053  RB Bragantino U23 (Brazil)
+  id:18345  RB Bragantino U20 (Brazil)
+  id:18728  RB Bragantino W (Brazil)
+  id:22211  RB Bragantino B (Brazil)
+  id:22375  Sporting Braga U19 (Portugal)
+  id:24485  RB Bragantino U17 (Brazil)
+!! Braga: Ambiguous team name "Braga".
+
+TABLE FOR FC Copenhagen
+LEAGUE TABLE Superliga 2026 | 12 teams | 60 games played
+League averages per game: home 1.58, away 1.43, total 3.02
+#   team                   Pts | home P GF-GA  | away P GF-GA  | all P GF-GA
+1   FC Copenhagen           24 |  4  10-3       |  6  14-7       | 10  24-10
+2   FC Midtjylland          22 |  5  11-5       |  5   8-5       | 10  19-10
+3   Viborg                  20 |  5  11-4       |  5   6-4       | 10  17-8
+4   FC Nordsjaelland        18 |  5   7-1       |  5   7-9       | 10  14-10
+5   Brondby                 16 |  6  12-9       |  4   5-8       | 10  17-17
+6   AC Horsens              12 |  5   7-9       |  5  11-10      | 10  18-19
+7   Silkeborg               11 |  5   7-8       |  5   8-7       | 10  15-15
+8   Randers FC              10 |  6   6-10      |  4   5-6       | 10  11-16
+9   Odense                  10 |  4   3-8       |  6   5-6       | 10   8-14
+10  Aarhus                   8 |  5   8-7       |  5   6-10      | 10  14-17
+11  Lyngby                   7 |  5   5-9       |  5   7-12      | 10  12-21
+12  Sonderjyske              5 |  5   8-13      |  5   4-11      | 10  12-24
+
+(15 API-Football requests used)
+
+----------------------------------------------------------------------
+MATCHBOOK: skipped (switched off for this run)
