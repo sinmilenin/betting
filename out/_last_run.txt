@@ -1,5 +1,3 @@
-RUN 2026-10-15 15:33 local | 2 match(es)
-Mjallby v id:3342 -> out/Mjallby_v_id_3342.txt
-Gilloise v Real Sociedad -> out/Gilloise_v_Real_Sociedad.txt
-    !! Gilloise: Ambiguous team name "Gilloise".
-Requests used: API-Football 41, Matchbook 0
+RUN 2026-10-15 15:33 local | 1 match(es)
+id:1393 v Real Sociedad -> out/id_1393_v_Real_Sociedad.txt
+Requests used: API-Football 26, Matchbook 0
