@@ -1,0 +1,104 @@
+MATCH Ming v id:25273 | fetched 2026-10-15 09:30 local
+
+FORM DATA Ming v id:25273 | source API-Football | 2026-10-15 09:30 UTC
+H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
+
+"Ming" matches several teams. Use id:<number> instead of the name:
+  id:54     Birmingham (England)
+  id:1845   Birmingham City W (England)
+  id:3701   Blooming (Bolivia)
+  id:3989   Birmingham Legion (USA)
+  id:4030   Wilmington Hammerheads (USA)
+  id:5573   Mingəçevir (Azerbaijan)
+  id:6995   Heming (Norway)
+  id:8305   Weißkirchen / Allhaming (Austria)
+  id:8656   Leamington (England)
+  id:8867   Lymington Town (England)
+  id:9331   Memmingen (Germany)
+  id:11518  Bramming (Denmark)
+  id:11980  Godalming Town (England)
+  id:12540  Ming Chuan University (Chinese-Taipei)
+  id:13166  Santo Domingo (Paraguay)
+  id:14018  Centro Dominguito (Curacao)
+  id:14701  Hemmingen-Westerfeld (Germany)
+  id:15640  Birmingham City U23 (England)
+  id:15690  Blooming Guayaramerín (Bolivia)
+  id:17425  Birmingham City U18 (England)
+  id:18122  Sua Flamingoes (Botswana)
+  id:18367  Blooming U20 (Bolivia)
+  id:18749  Sable Farming (Malawi)
+  id:19252  Mingolsheim (Germany)
+  id:19414  Santo Domingo (Ecuador)
+=== Şimal (id 25273): last 20 finished games ===
+2026-10-09 H 1-1 v Xankəndi FK | Birinci Dasta | ?
+2026-09-17 H 1-4 v Şahdağ | Birinci Dasta | ?
+2026-09-11 A 1-1 v MOIK | Birinci Dasta | ?
+2026-09-04 H 1-2 v Cəbrayıl | Birinci Dasta | ?
+2026-05-27 H 2-1 v Qaradağ Lökbatan | Birinci Dasta | ?
+2026-05-21 A 3-2 v Cəbrayıl | Birinci Dasta | ?
+2026-05-14 H 0-1 v Difai Ağsu | Birinci Dasta | ?
+2026-05-06 H 1-1 v MOIK | Birinci Dasta | ?
+2026-04-29 A 0-0 v Safa Baku | Birinci Dasta | ?
+2026-04-23 H 1-0 v Baku Sportinq | Birinci Dasta | ?
+2026-04-16 A 0-4 v Səbail | Birinci Dasta | Baku
+2026-04-09 H 0-3 v Mingəçevir | Birinci Dasta | ?
+2026-04-03 A 0-1 v Şahdağ | Birinci Dasta | ?
+2026-03-19 H 0-0 v Zaqatala | Birinci Dasta | ?
+2026-03-11 H 0-2 v Safa Baku | Birinci Dasta | ?
+2026-03-05 A 4-3 v Zaqatala | Birinci Dasta | ?
+2026-02-24 H 3-2 v Cəbrayıl | Birinci Dasta | ?
+2026-02-19 H 0-1 v Şahdağ | Birinci Dasta | ?
+2026-02-13 A 1-3 v Difai Ağsu | Birinci Dasta | ?
+2026-02-07 H 0-3 v Mingəçevir | Birinci Dasta | ?
+Listed home: 13 games, scored 10 (0.77), conceded 21 (1.62), blanks 6, clean sheets 2
+Listed away: 7 games, scored 9 (1.29), conceded 14 (2.00), blanks 3, clean sheets 1
+All: 20 games, scored 19 (0.95), conceded 35 (1.75), blanks 9, clean sheets 3
+
+(retrying Ming using the opponent's country, Azerbaijan)
+NOTE: "Ming" matched 42 teams; picked Mingəçevir (Azerbaijan) because the opponent is from Azerbaijan. Others: Birmingham (England), Birmingham City W (England), Blooming (Bolivia), Birmingham Legion (USA), Wilmington Hammerheads (USA), Heming (Norway), Weißkirchen / Allhaming (Austria), Leamington (England), Lymington Town (England), Memmingen (Germany), Bramming (Denmark), Godalming Town (England), Ming Chuan University (Chinese-Taipei), Santo Domingo (Paraguay), Centro Dominguito (Curacao), Hemmingen-Westerfeld (Germany), Birmingham City U23 (England), Blooming Guayaramerín (Bolivia), Birmingham City U18 (England), Sua Flamingoes (Botswana), Blooming U20 (Bolivia), Sable Farming (Malawi), Mingolsheim (Germany), Santo Domingo (Ecuador), Birmingham City U21 (England), Unión Santo Domingo (Peru), Flamingo United (Finland), Schladming (Austria), Leamington Lions W (England), Birmingham Legion II (USA), Sao Domingos U20 (Brazil), FC Birmingham (USA), Birmingham Legion W (USA), Lemming (Denmark), Sao Domingos AL (Brazil), Juventud Santo Domingo (Peru), Freyming (France), Flamingo United II (Finland), Guangdong Mingtu (China), Minga Guazu (Paraguay), Hemmingen (Germany)
+=== Mingəçevir (id 5573): last 20 finished games ===
+2026-10-09 A 0-3 v MOIK | Birinci Dasta | ?
+2026-09-17 H 0-3 v Cəbrayıl | Birinci Dasta | ?
+2026-09-10 A 1-2 v Səbail | Birinci Dasta | Baku
+2026-09-04 H 2-2 v Zaqatala | Birinci Dasta | ?
+2026-05-28 A 0-2 v Qabala | Premyer Liqa | Sumqayit
+2026-05-22 H 4-1 v Səbail | Birinci Dasta | ?
+2026-05-15 H 3-1 v MOIK | Birinci Dasta | ?
+2026-05-05 A 0-2 v Şahdağ | Birinci Dasta | ?
+2026-04-29 H 7-1 v Zaqatala | Birinci Dasta | ?
+2026-04-22 A 1-2 v Cəbrayıl | Birinci Dasta | ?
+2026-04-16 H 2-1 v Difai Ağsu | Birinci Dasta | ?
+2026-04-09 A 3-0 v Şimal | Birinci Dasta | ?
+2026-04-03 H 5-2 v Safa Baku | Birinci Dasta | ?
+2026-03-18 A 1-1 v Baku Sportinq | Birinci Dasta | ?
+2026-03-12 H 0-1 v Səbail | Birinci Dasta | ?
+2026-03-05 A 1-0 v Baku Sportinq | Birinci Dasta | ?
+2026-02-25 H 2-0 v MOIK | Birinci Dasta | ?
+2026-02-19 A 2-2 v Safa Baku | Birinci Dasta | ?
+2026-02-13 H 0-0 v Zaqatala | Birinci Dasta | ?
+2026-02-07 A 3-0 v Şimal | Birinci Dasta | ?
+Listed home: 10 games, scored 25 (2.50), conceded 12 (1.20), blanks 3, clean sheets 2
+Listed away: 10 games, scored 12 (1.20), conceded 14 (1.40), blanks 3, clean sheets 3
+All: 20 games, scored 37 (1.85), conceded 26 (1.30), blanks 6, clean sheets 5
+
+TABLE FOR Şimal
+LEAGUE TABLE Birinci Dasta 2026 | 10 teams | 20 games played
+League averages per game: home 1.55, away 1.20, total 2.75
+#   team                   Pts | home P GF-GA  | away P GF-GA  | all P GF-GA
+1   Şahdağ                  12 |  2   8-0       |  2   5-1       |  4  13-1
+2   Cəbrayıl                12 |  2   4-1       |  2   5-1       |  4   9-2
+3   Səbail                   8 |  2   3-2       |  2   2-1       |  4   5-3
+4   Karvan                   7 |  1   3-0       |  3   4-3       |  4   7-3
+5   MOIK                     7 |  3   4-2       |  1   2-0       |  4   6-2
+6   Zaqatala                 4 |  1   3-0       |  3   2-11      |  4   5-11
+7   Xankəndi FK              2 |  2   1-3       |  2   2-3       |  4   3-6
+8   Şimal                    2 |  3   3-7       |  1   1-1       |  4   4-8
+9   Mingəçevir               1 |  2   2-5       |  2   1-5       |  4   3-10
+10  Baku Sportinq            0 |  2   0-4       |  2   0-5       |  4   0-9
+
+(Mingəçevir: same table as Şimal, shown above)
+
+(26 API-Football requests used)
+
+----------------------------------------------------------------------
+MATCHBOOK: skipped (switched off for this run)

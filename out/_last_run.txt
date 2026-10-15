@@ -1,4 +1,3 @@
 RUN 2026-10-15 09:30 local | 1 match(es)
-Mingecevir v id:25273 -> out/Mingecevir_v_id_25273.txt
-    !! Mingecevir: No team found for "Mingecevir".
-Requests used: API-Football 14, Matchbook 0
+Ming v id:25273 -> out/Ming_v_id_25273.txt
+Requests used: API-Football 26, Matchbook 0
