@@ -1,2 +1,2 @@
-# 2026-10-15 16:45 scan retry (no hyphens)
-Al Khaleej v Al Fayha | n=20 | xg=10
+# 2026-10-15 16:47 scan retry (Al-Fayha name)
+Al Khaleej v Fayha | n=20 | xg=10
