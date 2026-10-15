@@ -1,2 +1,2 @@
-# Orbit scan 2026-10-15 15:57 (Ljubljana)
-Rigas FS v Super Nova | n=20 | xg=10
+# Orbit scan 2026-10-15 15:59 (Ljubljana), retry: Rigas FS ambiguous, using id:4160
+id:4160 v Super Nova | n=20 | xg=10
