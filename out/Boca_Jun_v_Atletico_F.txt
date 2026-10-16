@@ -1,0 +1,25 @@
+MATCH Boca Jun v Atletico F | fetched 2026-10-16 20:45 local
+
+FORM DATA Boca Jun v Atletico F | source API-Football | 2026-10-16 20:45 UTC
+H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
+
+"Boca Jun" matches several teams. Use id:<number> instead of the name:
+  id:451    Boca Juniors (Argentina)
+  id:13121  Boca Júnior (Brazil)
+  id:16129  Boca Juniors (Gibraltar)
+  id:18681  Boca Juniors Res. (Argentina)
+  id:20524  Boca Juniors W (Argentina)
+  id:21410  Boca Juniors U20 (Argentina)
+  id:22463  Boca Junior de La Choza (Peru)
+  id:24672  Boca Juniors Melo (Uruguay)
+"Atletico F" matches several teams. Use id:<number> instead of the name:
+  id:24670  Atlético Florida (Uruguay)
+  id:27548  Atletico FC (Ecuador)
+!! Boca Jun: Ambiguous team name "Boca Jun".
+
+!! Atletico F: Ambiguous team name "Atletico F".
+
+(2 API-Football requests used)
+
+----------------------------------------------------------------------
+MATCHBOOK: skipped (switched off for this run)
