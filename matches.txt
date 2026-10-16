@@ -1,8 +1,6 @@
-# 2026-10-16 17:28 scan: new fixtures in the 2-hour window
-Bani Yas v Al Wasl | n=20 | xg=10
-APR v Zamalek | n=20 | xg=10
-Rudes v Rijeka | n=20 | xg=10
-AC Horsens v Randers | n=20 | xg=10
-Naestved v B93 | n=20 | xg=10
-Brommapojkarna v Djurgarden | n=20 | xg=10
-Corum v Rizespor | n=20 | xg=10
+# 2026-10-16 17:36 scan retry: ids for ambiguous names, B 93
+Rudes v id:561 | n=20 | xg=10
+AC Horsens v id:401 | n=20 | xg=10
+Naestved v B 93 | n=20 | xg=10
+id:371 v id:364 | n=20 | xg=10
+id:6343 v Rizespor | n=20 | xg=10
