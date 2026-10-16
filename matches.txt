@@ -1,11 +1,4 @@
-# 2026-10-16 18:57 scan: first analyses
-Ayr United v Partick Thistle | n=20 | xg=10
-Leganes v Cordoba | n=20 | xg=10
-Livorno v Grosseto | n=20 | xg=10
-Eintracht Frankfurt v FC Koln | n=20 | xg=10
-Bohemians v Waterford | n=20 | xg=10
-Kerry v Cork City | n=20 | xg=10
-Treaty United v Cobh Ramblers | n=20 | xg=10
-Frosinone v Sassuolo | n=20 | xg=10
-Le Mans v Toulouse | n=20 | xg=10
-Galway United v Shamrock Rovers | n=20 | xg=10
+# 2026-10-16 19:08 scan retry: name fixes (Koln by id, Cobh, Ayr/Partick men's teams)
+Eintracht Frankfurt v id:192 | n=20 | xg=10
+Treaty United v Cobh | n=20 | xg=10
+Ayr v Partick | n=20 | xg=10
