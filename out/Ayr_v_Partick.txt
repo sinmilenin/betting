@@ -1,0 +1,76 @@
+MATCH Ayr v Partick | fetched 2026-10-16 17:01 local
+
+FORM DATA Ayr v Partick | source API-Football | 2026-10-16 17:01 UTC
+H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
+
+"Ayr" matches several teams. Use id:<number> instead of the name:
+  id:1387   Ayr Utd (Scotland)
+  id:2966   Al Bukayriyah (Saudi-Arabia)
+  id:3585   Bayrampaşaspor (Turkey)
+  id:8418   Dayrell's Road (Armenia)
+  id:9325   Bayreuth (Germany)
+  id:12273  Xayr (Tajikistan)
+  id:17649  Ogosta Hayredin (Bulgaria)
+  id:18022  Dayrout (Egypt)
+  id:19307  Mayrhofen (Austria)
+  id:23329  Ayr United W (Scotland)
+  id:23534  Ayrfield United (Ireland)
+=== Partick (id 901): last 20 finished games ===
+2026-10-10 A 2-1 v Livingston | Championship | Livingston
+2026-10-03 H 3-0 v Arbroath | Championship | Glasgow
+2026-09-19 H 0-0 v Raith Rovers | Championship | Glasgow
+2026-09-15 A 0-1 v Stenhousemuir | Championship | Stenhousemuir
+2026-09-05 H 1-0 v Ayr Utd | Championship | Glasgow
+2026-08-29 H 0-0 v Queen's Park | Championship | Glasgow
+2026-08-21 A 1-1 v Inverness CT | Championship | Inverness
+2026-08-16 A 0-1 v Hibernian | League Cup | Edinburgh
+2026-08-07 H 2-0 v Livingston | Championship | Glasgow
+2026-08-01 A 1-0 v Morton | Championship | Greenock
+2026-07-26 A 2-2 v Clydebank | Friendlies Clubs | ?
+2026-07-21 H 2-2 v Stenhousemuir | League Cup | Glasgow [PEN, 90-min score shown]
+2026-07-18 A 1-1 v Livingston | League Cup | Livingston [PEN, 90-min score shown]
+2026-07-14 A 4-0 v Forfar Athletic | League Cup | Forfar
+2026-07-11 H 6-0 v Brechin | League Cup | Glasgow
+2026-06-27 A 0-0 v Pollok | Friendlies Clubs | ?
+2026-05-25 A 0-1 v ST Mirren | Premiership | Paisley
+2026-05-21 H 1-1 v ST Mirren | Premiership | Glasgow
+2026-05-15 H 2-1 v Dunfermline | Premiership | Glasgow
+2026-05-12 A 1-1 v Dunfermline | Premiership | Dunfermline
+Listed home: 9 games, scored 17 (1.89), conceded 4 (0.44), blanks 2, clean sheets 6
+Listed away: 11 games, scored 12 (1.09), conceded 9 (0.82), blanks 4, clean sheets 3
+All: 20 games, scored 29 (1.45), conceded 13 (0.65), blanks 6, clean sheets 9
+
+(retrying Ayr using the opponent's country, Scotland)
+"Ayr" matches several teams. Use id:<number> instead of the name:
+  id:1387   Ayr Utd (Scotland)
+  id:2966   Al Bukayriyah (Saudi-Arabia)
+  id:3585   Bayrampaşaspor (Turkey)
+  id:8418   Dayrell's Road (Armenia)
+  id:9325   Bayreuth (Germany)
+  id:12273  Xayr (Tajikistan)
+  id:17649  Ogosta Hayredin (Bulgaria)
+  id:18022  Dayrout (Egypt)
+  id:19307  Mayrhofen (Austria)
+  id:23329  Ayr United W (Scotland)
+  id:23534  Ayrfield United (Ireland)
+!! Ayr: Ambiguous team name "Ayr".
+
+TABLE FOR Partick
+LEAGUE TABLE Championship 2026 | 10 teams | 48 games played
+League averages per game: home 1.19, away 0.90, total 2.08
+#   team                   Pts | home P GF-GA  | away P GF-GA  | all P GF-GA
+1   Stenhousemuir           22 |  4   7-1       |  5   5-3       |  9  12-4
+2   Raith Rovers            20 |  5   9-3       |  5   6-3       | 10  15-6
+3   Partick                 18 |  5   6-0       |  4   4-3       |  9  10-3
+4   Livingston              13 |  6   8-7       |  4   6-4       | 10  14-11
+5   Dunfermline             13 |  3   4-1       |  5   3-4       |  8   7-5
+6   Inverness CT            13 |  5   5-3       |  5   7-8       | 10  12-11
+7   Ayr Utd                 12 |  5   5-6       |  5   5-5       | 10  10-11
+8   Arbroath                11 |  5   5-4       |  5   2-11      | 10   7-15
+9   Queen's Park             7 |  5   5-8       |  5   1-8       | 10   6-16
+10  Morton                   4 |  5   3-10      |  5   4-8       | 10   7-18
+
+(15 API-Football requests used)
+
+----------------------------------------------------------------------
+MATCHBOOK: skipped (switched off for this run)
