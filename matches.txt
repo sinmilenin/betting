@@ -1,2 +1,4 @@
-# 2026-10-16 16:03 scan retry 2: Otelul = id:6886 (Oţelul, Romania)
-id:6886 v Csikszereda | n=20 | xg=10
+# 2026-10-16 16:45 scan: Wieczysta = id:17115 (ambiguous name, 12.10)
+id:17115 v Rakow | n=20 | xg=10
+Holstein Kiel v Hertha Berlin | n=20 | xg=10
+Cottbus v Nurnberg | n=20 | xg=10
