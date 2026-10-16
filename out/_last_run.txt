@@ -1,3 +1,14 @@
-RUN 2026-10-16 16:18 local | 1 match(es)
-id:781 v TSV Hartberg -> out/id_781_v_TSV_Hartberg.txt
-Requests used: API-Football 25, Matchbook 0
+RUN 2026-10-16 16:58 local | 10 match(es)
+Ayr United v Partick Thistle -> out/Ayr_United_v_Partick_Thistle.txt
+Leganes v Cordoba -> out/Leganes_v_Cordoba.txt
+Livorno v Grosseto -> out/Livorno_v_Grosseto.txt
+Eintracht Frankfurt v FC Koln -> out/Eintracht_Frankfurt_v_FC_Koln.txt
+    !! FC Koln: Ambiguous team name "FC Koln".
+Bohemians v Waterford -> out/Bohemians_v_Waterford.txt
+Kerry v Cork City -> out/Kerry_v_Cork_City.txt
+Treaty United v Cobh Ramblers -> out/Treaty_United_v_Cobh_Ramblers.txt
+    !! Cobh Ramblers: Ambiguous team name "Cobh Ramblers".
+Frosinone v Sassuolo -> out/Frosinone_v_Sassuolo.txt
+Le Mans v Toulouse -> out/Le_Mans_v_Toulouse.txt
+Galway United v Shamrock Rovers -> out/Galway_United_v_Shamrock_Rovers.txt
+Requests used: API-Football 222, Matchbook 0

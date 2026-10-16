@@ -1,0 +1,34 @@
+MATCH Ayr United v Partick Thistle | fetched 2026-10-16 16:58 local
+
+FORM DATA Ayr United v Partick Thistle | source API-Football | 2026-10-16 16:58 UTC
+H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
+
+=== Ayr United W (id 23329): last 2 finished games ===
+2024-01-07 H 0-7 v Celtic W | SWF Scottish Cup | Cumnock
+2023-11-05 A 4-2 v Inverurie Loco Works W | SWF Scottish Cup | Inverurie
+Listed home: 1 games, scored 0 (0.00), conceded 7 (7.00), blanks 1, clean sheets 0
+Listed away: 1 games, scored 4 (4.00), conceded 2 (2.00), blanks 0, clean sheets 0
+All: 2 games, scored 4 (2.00), conceded 9 (4.50), blanks 1, clean sheets 0
+
+=== Partick Thistle W (id 23296): last 9 finished games ===
+2025-11-09 A 0-3 v Rangers W | SWPL Cup | ?
+2025-10-05 H 7-0 v Livingston W | SWPL Cup | ?
+2024-03-24 A 1-4 v Rangers W | SWPL Cup | Edinburgh
+2024-03-10 H 0-1 v Hearts W | SWF Scottish Cup | Glasgow
+2024-02-04 H 3-1 v Queen's Park W | SWF Scottish Cup | Glasgow
+2024-01-21 H 2-0 v Hibernian W | SWPL Cup | Glasgow
+2024-01-07 H 4-2 v Motherwell W | SWF Scottish Cup | Glasgow
+2023-11-12 H 2-1 v Montrose W | SWPL Cup | Glasgow
+2023-10-01 H 2-0 v Spartans W | SWPL Cup | Glasgow
+Listed home: 7 games, scored 20 (2.86), conceded 5 (0.71), blanks 1, clean sheets 3
+Listed away: 2 games, scored 1 (0.50), conceded 7 (3.50), blanks 1, clean sheets 0
+All: 9 games, scored 21 (2.33), conceded 12 (1.33), blanks 2, clean sheets 3
+
+(no league table available for Ayr United W: tried SWF Scottish Cup 2023)
+
+(no league table available for Partick Thistle W: tried SWPL Cup 2025, SWPL Cup 2023, SWF Scottish Cup 2023)
+
+(18 API-Football requests used)
+
+----------------------------------------------------------------------
+MATCHBOOK: skipped (switched off for this run)

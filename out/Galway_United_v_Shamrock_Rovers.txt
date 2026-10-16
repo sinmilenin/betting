@@ -1,0 +1,76 @@
+MATCH Galway United v Shamrock Rovers | fetched 2026-10-16 16:58 local
+
+FORM DATA Galway United v Shamrock Rovers | source API-Football | 2026-10-16 16:59 UTC
+H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
+
+=== Galway United (id 3851): last 20 finished games ===
+2026-10-10 H 0-2 v Derry City | FAI Cup | Galway
+2026-09-25 H 1-1 v Shelbourne | Premier Division | Galway
+2026-09-18 A 0-1 v Derry City | Premier Division | Derry
+2026-09-14 A 3-1 v Sligo Rovers | Premier Division | Sligo
+2026-09-11 H 2-3 v Bohemians | Premier Division | Galway
+2026-09-04 A 2-1 v Drogheda United | FAI Cup | Drogheda
+2026-08-28 H 1-1 v Shelbourne | Premier Division | Galway
+2026-08-21 A 2-1 v Dundalk | Premier Division | Dundalk
+2026-08-14 H 1-1 v Bray Wanderers | FAI Cup | Galway [PEN, 90-min score shown]
+2026-08-07 H 0-0 v Drogheda United | Premier Division | Galway
+2026-08-02 A 1-1 v Bohemians | Premier Division | Dublin
+2026-07-25 H 0-0 v Waterford | Premier Division | Galway
+2026-07-17 H 4-0 v Crumlin United | FAI Cup | Galway
+2026-07-11 H 3-2 v Sligo Rovers | Premier Division | Galway
+2026-07-03 A 0-3 v St Patrick's Athl. | Premier Division | Dublin
+2026-06-26 A 1-3 v Shamrock Rovers | Premier Division | Dublin
+2026-06-19 H 2-1 v Derry City | Premier Division | Galway
+2026-06-12 H 0-1 v Dundalk | Premier Division | Galway
+2026-05-29 A 1-1 v Shelbourne | Premier Division | Dublin
+2026-05-22 H 2-4 v Bohemians | Premier Division | Galway
+Listed home: 12 games, scored 16 (1.33), conceded 16 (1.33), blanks 4, clean sheets 3
+Listed away: 8 games, scored 10 (1.25), conceded 12 (1.50), blanks 2, clean sheets 0
+All: 20 games, scored 26 (1.30), conceded 28 (1.40), blanks 6, clean sheets 3
+
+=== Shamrock Rovers (id 652): last 20 finished games ===
+2026-10-12 H 2-1 v Bohemians | Premier Division | Dublin | xG 1.24-1.23
+2026-10-08 H 3-1 v Drogheda United | Premier Division | Dublin
+2026-09-18 H 3-2 v Waterford | Premier Division | Dublin | xG 2.05-1.01
+2026-09-11 A 0-2 v St Patrick's Athl. | Premier Division | Dublin | xG 0.89-1.03
+2026-09-04 H 0-0 v Shelbourne | Premier Division | Dublin
+2026-08-30 A 3-3 v Derry City | Premier Division | Derry | xG 0.89-1.20
+2026-08-27 A 0-1 v KuPS | UEFA Europa Conference League | Kuopio
+2026-08-20 H 1-1 v KuPS | UEFA Europa Conference League | Dublin
+2026-08-16 A 2-2 v St Patrick's Athl. | FAI Cup | Dublin [AET, 90-min score shown]
+2026-08-13 A 1-5 v Egnatia Rrogozhinë | UEFA Europa League | Rrogozhine
+2026-08-07 H 3-2 v Dundalk | Premier Division | Dublin
+2026-08-04 H 3-1 v Egnatia Rrogozhinë | UEFA Europa League | Dublin
+2026-07-31 A 0-0 v Drogheda United | Premier Division | Drogheda
+2026-07-28 H 2-1 v Ararat-Armenia | UEFA Champions League | Dublin
+2026-07-21 A 0-2 v Ararat-Armenia | UEFA Champions League | Yerevan
+2026-07-17 H 1-1 v Cork City | FAI Cup | Dublin [AET, 90-min score shown]
+2026-07-14 H 5-1 v Floriana | UEFA Champions League | Dublin
+2026-07-07 A 0-2 v Floriana | UEFA Champions League | Marsa
+2026-07-03 A 2-1 v Sligo Rovers | Premier Division | Sligo
+2026-06-30 H 1-0 v Hibernian | Friendlies Clubs | ?
+Listed home: 11 games, scored 24 (2.18), conceded 11 (1.00), blanks 1, clean sheets 2
+Listed away: 9 games, scored 8 (0.89), conceded 18 (2.00), blanks 5, clean sheets 1
+All: 20 games, scored 32 (1.60), conceded 29 (1.45), blanks 6, clean sheets 3
+
+TABLE FOR Galway United
+LEAGUE TABLE Premier Division 2026 | 10 teams | 163 games played
+League averages per game: home 1.52, away 1.28, total 2.80
+#   team                   Pts | home P GF-GA  | away P GF-GA  | all P GF-GA
+1   Shamrock Rovers         65 | 17  33-15      | 16  21-18      | 33  54-33
+2   St Patrick's Athl.      59 | 16  31-10      | 16  21-15      | 32  52-25
+3   Bohemians               59 | 16  27-19      | 17  31-21      | 33  58-40
+4   Shelbourne              43 | 17  25-28      | 16  22-18      | 33  47-46
+5   Derry City              41 | 16  27-19      | 16  18-23      | 32  45-42
+6   Dundalk                 41 | 17  26-27      | 16  24-28      | 33  50-55
+7   Galway United           38 | 16  23-25      | 16  19-23      | 32  42-48
+8   Waterford               34 | 16  22-19      | 16  22-35      | 32  44-54
+9   Drogheda United         34 | 16  18-21      | 17  21-33      | 33  39-54
+10  Sligo Rovers            23 | 16  15-26      | 17  10-33      | 33  25-59
+
+(Shamrock Rovers: same table as Galway United, shown above)
+
+(24 API-Football requests used)
+
+----------------------------------------------------------------------
+MATCHBOOK: skipped (switched off for this run)
