@@ -1,0 +1,58 @@
+MATCH Rudes v Rijeka | fetched 2026-10-16 15:28 local
+
+FORM DATA Rudes v Rijeka | source API-Football | 2026-10-16 15:28 UTC
+H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
+
+=== Rudes (id 1019): last 20 finished games ===
+2026-10-09 A 2-1 v HNK Gorica | HNL | Veliky Gorica | xG 1.61-1.25
+2026-09-18 H 2-2 v NK Slaven Belupo | HNL | Velika Gorica | xG 0.48-1.99
+2026-09-13 A 2-3 v Istra 1961 | HNL | Pula | xG 0.84-1.87
+2026-09-09 A 3-2 v Koprivnica | Cup | ?
+2026-09-06 H 0-4 v HNK Hajduk Split | HNL | Velika Gorica | xG 0.12-2.32
+2026-08-29 A 0-2 v NK Varazdin | HNL | Varaždin | xG 0.36-1.93
+2026-08-21 H 4-1 v NK Lokomotiva Zagreb | HNL | Velika Gorica | xG 1.69-1.03
+2026-08-14 A 0-4 v Dinamo Zagreb | HNL | Zagreb | xG 0.39-3.40
+2026-08-08 H 1-6 v NK Osijek | HNL | Velika Gorica | xG 0.60-2.69
+2026-08-02 A 1-2 v HNK Rijeka | HNL | Rijeka | xG 0.38-2.49
+2026-07-26 A 1-1 v Göztepe | Friendlies Clubs | ?
+2026-07-19 H 0-5 v Shakhtar Donetsk | Friendlies Clubs | ?
+2026-07-05 A 3-1 v Olimpija Ljubljana | Friendlies Clubs | ?
+2026-07-01 H 3-4 v Cukaricki | Friendlies Clubs | ?
+2026-05-29 H 3-1 v Sesvete | First NL | Zagreb
+2026-05-23 A 3-0 v Dugopolje | First NL | Dugopolje
+2026-05-15 H 2-3 v HNK Cibalia | First NL | Zagreb
+2026-05-08 A 3-0 v Karlovac 1919 | First NL | Karlovac
+2026-05-02 H 1-1 v Dubrava Zagreb | First NL | Zagreb
+2026-04-26 A 2-0 v Croatia Zmijavci | First NL | Zmijavci
+Listed home: 9 games, scored 16 (1.78), conceded 27 (3.00), blanks 2, clean sheets 0
+Listed away: 11 games, scored 20 (1.82), conceded 16 (1.45), blanks 2, clean sheets 3
+All: 20 games, scored 36 (1.80), conceded 43 (2.15), blanks 4, clean sheets 3
+
+"Rijeka" matches several teams. Use id:<number> instead of the name:
+  id:561    HNK Rijeka (Croatia)
+  id:27594  HNK Rijeka U18 (Croatia)
+(retrying Rijeka using the opponent's country, Croatia)
+"Rijeka" matches several teams. Use id:<number> instead of the name:
+  id:561    HNK Rijeka (Croatia)
+  id:27594  HNK Rijeka U18 (Croatia)
+!! Rijeka: Ambiguous team name "Rijeka".
+
+TABLE FOR Rudes
+LEAGUE TABLE HNL 2026 | 10 teams | 44 games played
+League averages per game: home 1.93, away 1.23, total 3.16
+#   team                   Pts | home P GF-GA  | away P GF-GA  | all P GF-GA
+1   HNK Hajduk Split        19 |  5  11-3       |  4   7-6       |  9  18-9
+2   NK Varazdin             18 |  5   6-1       |  4   8-6       |  9  14-7
+3   Dinamo Zagreb           16 |  5  13-3       |  3   5-8       |  8  18-11
+4   NK Osijek               16 |  4   9-5       |  5   9-9       |  9  18-14
+5   HNK Rijeka              14 |  4  12-4       |  4   2-7       |  8  14-11
+6   Istra 1961              12 |  5  10-8       |  4   7-6       |  9  17-14
+7   NK Slaven Belupo        10 |  4   9-6       |  5   2-11      |  9  11-17
+8   NK Lokomotiva Zagreb     7 |  3   4-3       |  6   7-14      |  9  11-17
+9   Rudes                    7 |  4   7-13      |  5   5-12      |  9  12-25
+10  HNK Gorica               5 |  5   4-8       |  4   2-6       |  9   6-14
+
+(15 API-Football requests used)
+
+----------------------------------------------------------------------
+MATCHBOOK: skipped (switched off for this run)

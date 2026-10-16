@@ -1,4 +1,15 @@
-RUN 2026-10-16 14:44 local | 2 match(es)
-id:17115 v id:3491 -> out/id_17115_v_id_3491.txt
-Holstein Kiel v Hertha BSC -> out/Holstein_Kiel_v_Hertha_BSC.txt
-Requests used: API-Football 50, Matchbook 0
+RUN 2026-10-16 15:28 local | 7 match(es)
+Bani Yas v Al Wasl -> out/Bani_Yas_v_Al_Wasl.txt
+APR v Zamalek -> out/APR_v_Zamalek.txt
+Rudes v Rijeka -> out/Rudes_v_Rijeka.txt
+    !! Rijeka: Ambiguous team name "Rijeka".
+AC Horsens v Randers -> out/AC_Horsens_v_Randers.txt
+    !! Randers: Ambiguous team name "Randers".
+Naestved v B93 -> out/Naestved_v_B93.txt
+    !! B93: No team found for "B93".
+Brommapojkarna v Djurgarden -> out/Brommapojkarna_v_Djurgarden.txt
+    !! Brommapojkarna: Ambiguous team name "Brommapojkarna".
+    !! Djurgarden: Ambiguous team name "Djurgarden".
+Corum v Rizespor -> out/Corum_v_Rizespor.txt
+    !! Corum: Ambiguous team name "Corum".
+Requests used: API-Football 112, Matchbook 0

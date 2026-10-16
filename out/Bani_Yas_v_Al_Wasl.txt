@@ -1,0 +1,80 @@
+MATCH Bani Yas v Al Wasl | fetched 2026-10-16 15:28 local
+
+FORM DATA Bani Yas v Al Wasl | source API-Football | 2026-10-16 15:28 UTC
+H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
+
+=== Bani Yas U23 (id 27493): last 20 finished games ===
+2026-09-12 H 1-2 v Khorfakkan U23 | Pro League U23 | ?
+2026-09-06 A 0-2 v Hatta U23 | Pro League U23 | ?
+2026-08-31 H 2-3 v Al Wahda U23 | Pro League U23 | ?
+2026-08-24 A 2-4 v United FC U23 | Pro League U23 | ?
+2026-08-17 A 1-3 v Al Ain U23 | Pro League U23 | ?
+2026-05-17 H 3-1 v Al Jazira U23 | Pro League U23 | ?
+2026-05-11 A 1-2 v Shabab Al-Ahli Dubai U23 | Pro League U23 | ?
+2026-05-06 A 2-0 v Al Dhafra U23 | Pro League U23 | ?
+2026-04-24 H 4-3 v Ittihad Kalba U23 | Pro League U23 | ?
+2026-04-11 A 1-1 v Al Sharjah U23 | Pro League U23 | ?
+2026-04-06 H 5-0 v Khorfakkan U23 | Pro League U23 | ?
+2026-03-22 H 2-0 v Ajman U23 | Pro League U23 | ?
+2026-03-13 A 0-0 v Al Wahda U23 | Pro League U23 | ?
+2026-02-28 H 3-0 v Al Bataeh U23 | Pro League U23 | ?
+2026-02-23 A 0-2 v Al Ain U23 | Pro League U23 | ?
+2026-02-14 A 1-1 v Al Wasl U23 | Pro League U23 | ?
+2026-02-08 H 1-2 v Dibba Al Fujairah U23 | Pro League U23 | ?
+2026-01-30 H 3-1 v Al Nasr U23 | Pro League U23 | ?
+2026-01-19 A 1-1 v Al Bataeh U23 | Pro League U23 | ?
+2026-01-07 H 1-2 v Al Wahda U23 | Pro League U23 | ?
+Listed home: 10 games, scored 25 (2.50), conceded 14 (1.40), blanks 0, clean sheets 3
+Listed away: 10 games, scored 9 (0.90), conceded 16 (1.60), blanks 3, clean sheets 2
+All: 20 games, scored 34 (1.70), conceded 30 (1.50), blanks 3, clean sheets 5
+
+=== Al Wasl U23 (id 27492): last 20 finished games ===
+2026-09-11 H 0-1 v Al Ain U23 | Pro League U23 | ?
+2026-09-05 A 1-0 v Khorfakkan U23 | Pro League U23 | ?
+2026-08-29 A 4-4 v Shabab Al-Ahli Dubai U23 | Pro League U23 | ?
+2026-08-22 H 1-1 v Ittihad Kalba U23 | Pro League U23 | ?
+2026-08-16 A 0-1 v United FC U23 | Pro League U23 | ?
+2026-05-16 A 5-3 v Ittihad Kalba U23 | Pro League U23 | ?
+2026-05-12 H 2-2 v Al Jazira U23 | Pro League U23 | ?
+2026-05-07 H 1-0 v Al Wahda U23 | Pro League U23 | ?
+2026-04-25 A 1-1 v Dibba Al Fujairah U23 | Pro League U23 | ?
+2026-04-12 H 0-1 v Ajman U23 | Pro League U23 | ?
+2026-04-06 H 1-2 v Al Sharjah U23 | Pro League U23 | ?
+2026-03-22 A 1-0 v Al Dhafra U23 | Pro League U23 | ?
+2026-03-13 H 0-2 v Al Ain U23 | Pro League U23 | ?
+2026-02-26 A 2-1 v Shabab Al-Ahli Dubai U23 | Pro League U23 | ?
+2026-02-22 A 2-4 v Al Bataeh U23 | Pro League U23 | ?
+2026-02-14 H 1-1 v Bani Yas U23 | Pro League U23 | ?
+2026-02-06 H 2-0 v Al Nasr U23 | Pro League U23 | ?
+2026-01-29 A 3-0 v Khorfakkan U23 | Pro League U23 | ?
+2026-01-18 A 1-2 v Al Jazira U23 | Pro League U23 | ?
+2026-01-12 H 1-1 v Shabab Al-Ahli Dubai U23 | Pro League U23 | ?
+Listed home: 10 games, scored 9 (0.90), conceded 11 (1.10), blanks 3, clean sheets 2
+Listed away: 10 games, scored 20 (2.00), conceded 16 (1.60), blanks 1, clean sheets 3
+All: 20 games, scored 29 (1.45), conceded 27 (1.35), blanks 4, clean sheets 5
+
+TABLE FOR Bani Yas U23
+LEAGUE TABLE Pro League U23 2026 | 14 teams | 35 games played
+League averages per game: home 1.74, away 1.40, total 3.14
+#   team                   Pts | home P GF-GA  | away P GF-GA  | all P GF-GA
+1   Al Ain U23              15 |  2   5-1       |  3   8-1       |  5  13-2
+2   Ajman U23               13 |  3   3-1       |  2   3-1       |  5   6-2
+3   Al Sharjah U23          11 |  3   8-3       |  2   2-0       |  5  10-3
+4   Al Wahda U23            10 |  2   6-3       |  3   5-5       |  5  11-8
+5   Shabab Al-Ahli Dubai U  10 |  3   7-5       |  2   2-2       |  5   9-7
+6   Ittihad Kalba U23        7 |  3   7-5       |  2   1-3       |  5   8-8
+7   Al Jazira U23            6 |  3   3-2       |  2   3-4       |  5   6-6
+8   United FC U23            6 |  3   5-4       |  2   2-5       |  5   7-9
+9   Al Wasl U23              5 |  2   1-2       |  3   5-5       |  5   6-7
+10  Hatta U23                4 |  2   3-2       |  3   5-7       |  5   8-9
+11  Al Dhafra U23            4 |  3   6-6       |  2   3-8       |  5   9-14
+12  Khorfakkan U23           4 |  2   0-5       |  3   3-3       |  5   3-8
+13  Al Nasr U23              3 |  2   4-5       |  3   4-8       |  5   8-13
+14  Bani Yas U23             0 |  2   3-5       |  3   3-9       |  5   6-14
+
+(Al Wasl U23: same table as Bani Yas U23, shown above)
+
+(25 API-Football requests used)
+
+----------------------------------------------------------------------
+MATCHBOOK: skipped (switched off for this run)
