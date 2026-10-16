@@ -1,0 +1,26 @@
+MATCH Boca Juniors v Talleres | fetched 2026-10-16 20:46 local
+
+FORM DATA Boca Juniors v Talleres | source API-Football | 2026-10-16 20:46 UTC
+H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
+
+"Boca Juniors" matches several teams. Use id:<number> instead of the name:
+  id:451    Boca Juniors (Argentina)
+  id:16129  Boca Juniors (Gibraltar)
+  id:18681  Boca Juniors Res. (Argentina)
+  id:20524  Boca Juniors W (Argentina)
+  id:21410  Boca Juniors U20 (Argentina)
+  id:24672  Boca Juniors Melo (Uruguay)
+"Talleres" matches several teams. Use id:<number> instead of the name:
+  id:456    Talleres Cordoba (Argentina)
+  id:1927   Talleres Remedios (Argentina)
+  id:3977   Talleres de Perico (Argentina)
+  id:18699  Talleres Córdoba Res. (Argentina)
+  id:27507  Talleres Jr (El-Salvador)
+!! Boca Juniors: Ambiguous team name "Boca Juniors".
+
+!! Talleres: Ambiguous team name "Talleres".
+
+(2 API-Football requests used)
+
+----------------------------------------------------------------------
+MATCHBOOK: skipped (switched off for this run)

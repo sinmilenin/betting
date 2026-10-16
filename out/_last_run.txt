@@ -1,6 +1,12 @@
-RUN 2026-10-16 20:45 local | 2 match(es)
-Defensa y Justicia v id:478 -> out/Defensa_y_Justicia_v_id_478.txt
-Boca Jun v Atletico F -> out/Boca_Jun_v_Atletico_F.txt
-    !! Boca Jun: Ambiguous team name "Boca Jun".
-    !! Atletico F: Ambiguous team name "Atletico F".
-Requests used: API-Football 27, Matchbook 0
+RUN 2026-10-16 20:46 local | 6 match(es)
+Mirassol v Internacional -> out/Mirassol_v_Internacional.txt
+Sport Recife v Fortaleza -> out/Sport_Recife_v_Fortaleza.txt
+    !! Fortaleza: Ambiguous team name "Fortaleza".
+Boca Juniors v Talleres -> out/Boca_Juniors_v_Talleres.txt
+    !! Boca Juniors: Ambiguous team name "Boca Juniors".
+    !! Talleres: Ambiguous team name "Talleres".
+Necaxa v Atlas -> out/Necaxa_v_Atlas.txt
+Tijuana v Puebla -> out/Tijuana_v_Puebla.txt
+    !! Tijuana: Ambiguous team name "Tijuana".
+Auckland FC v Melbourne City -> out/Auckland_FC_v_Melbourne_City.txt
+Requests used: API-Football 110, Matchbook 0
