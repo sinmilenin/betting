@@ -1,6 +1,6 @@
-MATCH Rudes v Rijeka | fetched 2026-10-16 15:28 local
+MATCH Rudes v id:561 | fetched 2026-10-16 15:30 local
 
-FORM DATA Rudes v Rijeka | source API-Football | 2026-10-16 15:28 UTC
+FORM DATA Rudes v id:561 | source API-Football | 2026-10-16 15:30 UTC
 H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
 
 === Rudes (id 1019): last 20 finished games ===
@@ -28,14 +28,30 @@ Listed home: 9 games, scored 16 (1.78), conceded 27 (3.00), blanks 2, clean shee
 Listed away: 11 games, scored 20 (1.82), conceded 16 (1.45), blanks 2, clean sheets 3
 All: 20 games, scored 36 (1.80), conceded 43 (2.15), blanks 4, clean sheets 3
 
-"Rijeka" matches several teams. Use id:<number> instead of the name:
-  id:561    HNK Rijeka (Croatia)
-  id:27594  HNK Rijeka U18 (Croatia)
-(retrying Rijeka using the opponent's country, Croatia)
-"Rijeka" matches several teams. Use id:<number> instead of the name:
-  id:561    HNK Rijeka (Croatia)
-  id:27594  HNK Rijeka U18 (Croatia)
-!! Rijeka: Ambiguous team name "Rijeka".
+=== HNK Rijeka (id 561): last 20 finished games ===
+2026-10-11 A 1-4 v NK Slaven Belupo | HNL | Koprivnica | xG 2.12-1.81
+2026-09-26 H 0-1 v Union Berlin | Friendlies Clubs | ?
+2026-09-20 H 3-0 v HNK Hajduk Split | HNL | Rijeka | xG 1.46-1.28
+2026-09-16 A 6-0 v Vrbovec | Cup | ?
+2026-09-12 A 1-1 v NK Lokomotiva Zagreb | HNL | Zagreb | xG 2.01-0.39
+2026-09-05 H 4-1 v NK Osijek | HNL | Rijeka | xG 2.66-0.35
+2026-08-31 A 0-0 v HNK Gorica | HNL | Velika Gorica | xG 0.62-0.24
+2026-08-27 H 1-4 v FC Midtjylland | UEFA Europa Conference League | Rijeka
+2026-08-23 H 3-2 v Istra 1961 | HNL | Rijeka | xG 2.01-1.23
+2026-08-20 A 0-2 v FC Midtjylland | UEFA Europa Conference League | Herning
+2026-08-16 A 0-2 v NK Varazdin | HNL | Varaždin
+2026-08-13 A 1-1 v Ilves | UEFA Europa Conference League | Tampere
+2026-08-06 H 1-0 v Ilves | UEFA Europa Conference League | Rijeka
+2026-08-02 H 2-1 v Rudes | HNL | Rijeka
+2026-07-30 A 1-0 v Derry City | UEFA Europa Conference League | Derry
+2026-07-23 H 1-0 v Derry City | UEFA Europa Conference League | Rijeka
+2026-07-16 H 2-0 v Dekani | Friendlies Clubs | ?
+2026-07-03 A 2-0 v Radomlje | Friendlies Clubs | ?
+2026-06-30 A 3-0 v Brinje-Grosuplje | Friendlies Clubs | ?
+2026-06-27 A 2-1 v Bravo | Friendlies Clubs | ?
+Listed home: 9 games, scored 17 (1.89), conceded 9 (1.00), blanks 1, clean sheets 4
+Listed away: 11 games, scored 17 (1.55), conceded 11 (1.00), blanks 3, clean sheets 5
+All: 20 games, scored 34 (1.70), conceded 20 (1.00), blanks 4, clean sheets 9
 
 TABLE FOR Rudes
 LEAGUE TABLE HNL 2026 | 10 teams | 44 games played
@@ -52,7 +68,9 @@ League averages per game: home 1.93, away 1.23, total 3.16
 9   Rudes                    7 |  4   7-13      |  5   5-12      |  9  12-25
 10  HNK Gorica               5 |  5   4-8       |  4   2-6       |  9   6-14
 
-(15 API-Football requests used)
+(HNK Rijeka: same table as Rudes, shown above)
+
+(25 API-Football requests used)
 
 ----------------------------------------------------------------------
 MATCHBOOK: skipped (switched off for this run)

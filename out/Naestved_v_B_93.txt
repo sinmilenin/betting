@@ -1,6 +1,6 @@
-MATCH Naestved v B93 | fetched 2026-10-16 15:28 local
+MATCH Naestved v B 93 | fetched 2026-10-16 15:30 local
 
-FORM DATA Naestved v B93 | source API-Football | 2026-10-16 15:28 UTC
+FORM DATA Naestved v B 93 | source API-Football | 2026-10-16 15:30 UTC
 H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
 
 === Naestved (id 2066): last 20 finished games ===
@@ -28,7 +28,30 @@ Listed home: 11 games, scored 17 (1.55), conceded 13 (1.18), blanks 2, clean she
 Listed away: 9 games, scored 13 (1.44), conceded 11 (1.22), blanks 0, clean sheets 2
 All: 20 games, scored 30 (1.50), conceded 24 (1.20), blanks 2, clean sheets 4
 
-!! B93: No team found for "B93".
+=== B 93 (id 6009): last 20 finished games ===
+2026-10-10 H 3-1 v Middelfart | 2. Division | ?
+2026-10-02 A 3-0 v Fremad Amager | 2. Division | ?
+2026-09-26 H 1-0 v Thisted FC | 2. Division | ?
+2026-09-18 A 1-2 v Skive | 2. Division | ?
+2026-09-13 A 2-2 v VSK Århus | 2. Division | ?
+2026-09-04 H 1-1 v Naestved | 2. Division | ?
+2026-08-29 A 1-1 v Brabrand | 2. Division | ?
+2026-08-21 H 3-0 v HIK | 2. Division | ?
+2026-08-14 A 0-4 v Nykobing FC | 2. Division | ?
+2026-08-07 H 1-2 v Roskilde | 2. Division | ?
+2026-08-04 A 0-2 v Nykobing FC | DBU Pokalen | Nykobing Falster
+2026-07-31 A 3-1 v FA 2000 | 2. Division | ?
+2026-07-25 A 1-1 v Naestved | Friendlies Clubs | ?
+2026-07-18 A 3-3 v AB Copenhagen | Friendlies Clubs | ?
+2026-07-14 H 3-1 v Holbæk B&I | Friendlies Clubs | ?
+2026-07-04 A 3-6 v Lyngby | Friendlies Clubs | ?
+2026-05-30 H 2-2 v Aarhus Fremad | 1. Division | Copenhagen
+2026-05-23 A 4-2 v Middelfart | 1. Division | Middelfart
+2026-05-15 H 1-1 v Aalborg | 1. Division | Copenhagen
+2026-05-08 A 3-3 v Hobro | 1. Division | Hobro
+Listed home: 8 games, scored 15 (1.88), conceded 8 (1.00), blanks 0, clean sheets 2
+Listed away: 12 games, scored 24 (2.00), conceded 27 (2.25), blanks 2, clean sheets 1
+All: 20 games, scored 39 (1.95), conceded 35 (1.75), blanks 2, clean sheets 3
 
 TABLE FOR Naestved
 LEAGUE TABLE 2. Division 2026 | 12 teams | 66 games played
@@ -47,7 +70,9 @@ League averages per game: home 1.55, away 1.26, total 2.80
 11  FA 2000                  6 |  5   7-12      |  6   4-11      | 11  11-23
 12  Thisted FC               5 |  5   3-8       |  6   6-14      | 11   9-22
 
-(14 API-Football requests used)
+(B 93: same table as Naestved, shown above)
+
+(25 API-Football requests used)
 
 ----------------------------------------------------------------------
 MATCHBOOK: skipped (switched off for this run)

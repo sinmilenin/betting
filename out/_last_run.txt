@@ -1,15 +1,7 @@
-RUN 2026-10-16 15:28 local | 7 match(es)
-Bani Yas v Al Wasl -> out/Bani_Yas_v_Al_Wasl.txt
-APR v Zamalek -> out/APR_v_Zamalek.txt
-Rudes v Rijeka -> out/Rudes_v_Rijeka.txt
-    !! Rijeka: Ambiguous team name "Rijeka".
-AC Horsens v Randers -> out/AC_Horsens_v_Randers.txt
-    !! Randers: Ambiguous team name "Randers".
-Naestved v B93 -> out/Naestved_v_B93.txt
-    !! B93: No team found for "B93".
-Brommapojkarna v Djurgarden -> out/Brommapojkarna_v_Djurgarden.txt
-    !! Brommapojkarna: Ambiguous team name "Brommapojkarna".
-    !! Djurgarden: Ambiguous team name "Djurgarden".
-Corum v Rizespor -> out/Corum_v_Rizespor.txt
-    !! Corum: Ambiguous team name "Corum".
-Requests used: API-Football 112, Matchbook 0
+RUN 2026-10-16 15:30 local | 5 match(es)
+Rudes v id:561 -> out/Rudes_v_id_561.txt
+AC Horsens v id:401 -> out/AC_Horsens_v_id_401.txt
+Naestved v B 93 -> out/Naestved_v_B_93.txt
+id:371 v id:364 -> out/id_371_v_id_364.txt
+id:6343 v Rizespor -> out/id_6343_v_Rizespor.txt
+Requests used: API-Football 125, Matchbook 0

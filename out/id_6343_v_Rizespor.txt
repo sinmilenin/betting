@@ -1,13 +1,33 @@
-MATCH Corum v Rizespor | fetched 2026-10-16 15:28 local
+MATCH id:6343 v Rizespor | fetched 2026-10-16 15:30 local
 
-FORM DATA Corum v Rizespor | source API-Football | 2026-10-16 15:28 UTC
+FORM DATA id:6343 v Rizespor | source API-Football | 2026-10-16 15:31 UTC
 H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
 
-"Corum" matches several teams. Use id:<number> instead of the name:
-  id:1206   Corumbaense (Brazil)
-  id:6343   Çorum FK (Turkey)
-  id:13391  Çorumspor (Turkey)
-  id:28242  Corum U19 (Turkey)
+=== Çorum FK (id 6343): last 20 finished games ===
+2026-10-11 A 3-0 v Gaziantep FK | Süper Lig | Gaziantep | xG 2.67-0.99
+2026-09-19 H 1-2 v Alanyaspor | Süper Lig | Corum | xG 1.11-1.18
+2026-09-12 A 5-1 v Samsunspor | Süper Lig | Samsun | xG 1.73-1.23
+2026-09-06 H 3-0 v Eyüpspor | Süper Lig | Corum | xG 2.58-0.73
+2026-08-31 A 2-6 v Beşiktaş | Süper Lig | Istanbul | xG 0.67-2.97
+2026-08-22 H 0-1 v Kasımpaşa | Süper Lig | Corum | xG 1.11-0.32
+2026-08-14 A 2-2 v Galatasaray | Süper Lig | Istanbul | xG 0.61-2.90
+2026-05-24 A 2-0 v Esenler Erokspor | 1. Lig | Konya
+2026-05-15 H 2-0 v Bodrum FK | 1. Lig | Corum | xG 2.73-0.30 [AET, 90-min score shown]
+2026-05-11 A 0-1 v Bodrum FK | 1. Lig | Bodrum
+2026-05-07 H 1-0 v Keçiörengücü | 1. Lig | Corum
+2026-05-02 H 1-1 v Erzurumspor FK | 1. Lig | Corum
+2026-04-26 A 4-0 v Sakaryaspor | 1. Lig | Adapazari
+2026-04-19 H 3-1 v Sivasspor | 1. Lig | Corum
+2026-04-11 A 1-1 v Pendikspor | 1. Lig | Istanbul
+2026-04-07 H 1-1 v Bodrum FK | 1. Lig | Corum
+2026-04-03 H 0-1 v Bandırmaspor | 1. Lig | Corum
+2026-03-22 A 2-0 v Iğdır FK | 1. Lig | Iğdır
+2026-03-16 H 2-1 v Esenler Erokspor | 1. Lig | Corum
+2026-03-12 A 2-1 v Boluspor | 1. Lig | Bolu
+Listed home: 10 games, scored 14 (1.40), conceded 8 (0.80), blanks 2, clean sheets 3
+Listed away: 10 games, scored 23 (2.30), conceded 12 (1.20), blanks 1, clean sheets 4
+All: 20 games, scored 37 (1.85), conceded 20 (1.00), blanks 3, clean sheets 7
+
 === Rizespor (id 1007): last 20 finished games ===
 2026-10-10 H 0-3 v Fenerbahçe | Süper Lig | Rize | xG 1.52-0.96
 2026-10-03 H 3-0 v Boluspor | Friendlies Clubs | ?
@@ -33,15 +53,7 @@ Listed home: 11 games, scored 16 (1.45), conceded 14 (1.27), blanks 4, clean she
 Listed away: 9 games, scored 12 (1.33), conceded 12 (1.33), blanks 3, clean sheets 3
 All: 20 games, scored 28 (1.40), conceded 26 (1.30), blanks 7, clean sheets 6
 
-(retrying Corum using the opponent's country, Turkey)
-"Corum" matches several teams. Use id:<number> instead of the name:
-  id:1206   Corumbaense (Brazil)
-  id:6343   Çorum FK (Turkey)
-  id:13391  Çorumspor (Turkey)
-  id:28242  Corum U19 (Turkey)
-!! Corum: Ambiguous team name "Corum".
-
-TABLE FOR Rizespor
+TABLE FOR Çorum FK
 LEAGUE TABLE Süper Lig 2026 | 18 teams | 63 games played
 League averages per game: home 1.65, away 1.29, total 2.94
 #   team                   Pts | home P GF-GA  | away P GF-GA  | all P GF-GA
@@ -64,7 +76,9 @@ League averages per game: home 1.65, away 1.29, total 2.94
 17  Samsunspor               4 |  4   4-13      |  3   2-2       |  7   6-15
 18  Eyüpspor                 3 |  4   2-8       |  3   0-12      |  7   2-20
 
-(15 API-Football requests used)
+(Rizespor: same table as Çorum FK, shown above)
+
+(25 API-Football requests used)
 
 ----------------------------------------------------------------------
 MATCHBOOK: skipped (switched off for this run)

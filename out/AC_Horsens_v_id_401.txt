@@ -1,6 +1,6 @@
-MATCH AC Horsens v Randers | fetched 2026-10-16 15:28 local
+MATCH AC Horsens v id:401 | fetched 2026-10-16 15:30 local
 
-FORM DATA AC Horsens v Randers | source API-Football | 2026-10-16 15:28 UTC
+FORM DATA AC Horsens v id:401 | source API-Football | 2026-10-16 15:30 UTC
 H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
 
 === AC Horsens (id 404): last 20 finished games ===
@@ -28,14 +28,30 @@ Listed home: 8 games, scored 12 (1.50), conceded 10 (1.25), blanks 1, clean shee
 Listed away: 12 games, scored 23 (1.92), conceded 19 (1.58), blanks 3, clean sheets 2
 All: 20 games, scored 35 (1.75), conceded 29 (1.45), blanks 4, clean sheets 4
 
-"Randers" matches several teams. Use id:<number> instead of the name:
-  id:401    Randers FC (Denmark)
-  id:11636  Randers Freja (Denmark)
-(retrying Randers using the opponent's country, Denmark)
-"Randers" matches several teams. Use id:<number> instead of the name:
-  id:401    Randers FC (Denmark)
-  id:11636  Randers Freja (Denmark)
-!! Randers: Ambiguous team name "Randers".
+=== Randers FC (id 401): last 20 finished games ===
+2026-10-11 H 0-2 v Viborg | Superliga | Landers | xG 1.02-2.18
+2026-10-02 H 0-1 v Aalborg | Friendlies Clubs | ?
+2026-09-20 A 2-4 v Sonderjyske | Superliga | Haderslev | xG 1.57-1.36
+2026-09-16 A 3-1 v Vendsyssel FF | DBU Pokalen | ?
+2026-09-13 H 1-2 v Odense | Superliga | Randers | xG 1.68-1.14
+2026-09-06 A 3-0 v Brondby | Superliga | Brondby | xG 0.85-1.19
+2026-08-30 H 2-1 v Aarhus | Superliga | Randers | xG 1.10-1.97
+2026-08-23 A 0-1 v FC Midtjylland | Superliga | Herning | xG 1.03-1.28
+2026-08-19 A 4-0 v ASA Aarhus | DBU Pokalen | ?
+2026-08-16 H 0-4 v FC Copenhagen | Superliga | Randers | xG 0.46-1.30
+2026-08-09 H 2-0 v Lyngby | Superliga | Randers
+2026-08-02 A 0-1 v FC Nordsjaelland | Superliga | Farum
+2026-07-27 H 1-1 v Silkeborg | Superliga | Randers
+2026-07-18 A 2-2 v Lechia Gdansk | Friendlies Clubs | ?
+2026-07-14 H 3-1 v Notts County | Friendlies Clubs | ?
+2026-07-08 A 2-2 v Aalborg | Friendlies Clubs | ?
+2026-07-03 A 2-2 v Vejle | Friendlies Clubs | ?
+2026-06-26 H 2-4 v Sonderjyske | Friendlies Clubs | ?
+2026-05-17 A 0-5 v FC Copenhagen | Superliga | Copenhagen
+2026-05-11 H 2-2 v Odense | Superliga | Randers
+Listed home: 10 games, scored 13 (1.30), conceded 18 (1.80), blanks 3, clean sheets 1
+Listed away: 10 games, scored 18 (1.80), conceded 18 (1.80), blanks 3, clean sheets 2
+All: 20 games, scored 31 (1.55), conceded 36 (1.80), blanks 6, clean sheets 3
 
 TABLE FOR AC Horsens
 LEAGUE TABLE Superliga 2026 | 12 teams | 60 games played
@@ -54,7 +70,9 @@ League averages per game: home 1.58, away 1.43, total 3.02
 11  Lyngby                   7 |  5   5-9       |  5   7-12      | 10  12-21
 12  Sonderjyske              5 |  5   8-13      |  5   4-11      | 10  12-24
 
-(15 API-Football requests used)
+(Randers FC: same table as AC Horsens, shown above)
+
+(25 API-Football requests used)
 
 ----------------------------------------------------------------------
 MATCHBOOK: skipped (switched off for this run)
