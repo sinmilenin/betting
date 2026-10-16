@@ -1,5 +1,4 @@
-RUN 2026-10-16 10:57 local | 1 match(es)
-Henan Songshan Longmen v Tianjin Jinmen Tiger -> out/Henan_Songshan_Longmen_v_Tianjin_Jinmen_.txt
-    !! Henan Songshan Longmen: No team found for "Henan Songshan Longmen".
+RUN 2026-10-16 10:59 local | 1 match(es)
+Henan v Tianjin Jinmen Tiger -> out/Henan_v_Tianjin_Jinmen_Tiger.txt
     !! Tianjin Jinmen Tiger: No team found for "Tianjin Jinmen Tiger".
-Requests used: API-Football 2, Matchbook 0
+Requests used: API-Football 14, Matchbook 0
