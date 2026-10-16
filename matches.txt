@@ -1,13 +1,5 @@
-# 2026-10-16 18:15 scan: 12 new fixtures
-St Polten v Rapid Wien II | n=20 | xg=10
-Rapid Wien v Hartberg | n=20 | xg=10
-Helmond v NAC Breda | n=20 | xg=10
-Norwich U21 v West Ham U21 | n=20 | xg=10
-Annecy v Nancy | n=20 | xg=10
-Guingamp v Pau | n=20 | xg=10
-Grenoble v Boulogne | n=20 | xg=10
-Den Bosch v Oss | n=20 | xg=10
-Dinamo Bucuresti v Botosani | n=20 | xg=10
-VVV Venlo v Jong AZ | n=20 | xg=10
-Heerenveen v Excelsior | n=20 | xg=10
-Reims v Dijon | n=20 | xg=10
+# 2026-10-16 18:25 scan retry: names for not-found/ambiguous teams
+SK Rapid v TSV Hartberg | n=20 | xg=10
+Norwich City U21 v West Ham United U21 | n=20 | xg=10
+Den Bosch v FC Oss | n=20 | xg=10
+Dinamo Bucuresti v FC Botosani | n=20 | xg=10
