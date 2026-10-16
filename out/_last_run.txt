@@ -1,21 +1,6 @@
-RUN 2026-10-16 16:13 local | 12 match(es)
-St Polten v Rapid Wien II -> out/St_Polten_v_Rapid_Wien_II.txt
-    !! St Polten: No team found for "St Polten".
-Rapid Wien v Hartberg -> out/Rapid_Wien_v_Hartberg.txt
-    !! Rapid Wien: Ambiguous team name "Rapid Wien".
-    !! Hartberg: Ambiguous team name "Hartberg".
-Helmond v NAC Breda -> out/Helmond_v_NAC_Breda.txt
-Norwich U21 v West Ham U21 -> out/Norwich_U21_v_West_Ham_U21.txt
-    !! Norwich U21: No team found for "Norwich U21".
-    !! West Ham U21: No team found for "West Ham U21".
-Annecy v Nancy -> out/Annecy_v_Nancy.txt
-Guingamp v Pau -> out/Guingamp_v_Pau.txt
-Grenoble v Boulogne -> out/Grenoble_v_Boulogne.txt
-Den Bosch v Oss -> out/Den_Bosch_v_Oss.txt
-    !! Oss: Ambiguous team name "Oss".
-Dinamo Bucuresti v Botosani -> out/Dinamo_Bucuresti_v_Botosani.txt
-    !! Botosani: Ambiguous team name "Botosani".
-VVV Venlo v Jong AZ -> out/VVV_Venlo_v_Jong_AZ.txt
-Heerenveen v Excelsior -> out/Heerenveen_v_Excelsior.txt
-Reims v Dijon -> out/Reims_v_Dijon.txt
-Requests used: API-Football 218, Matchbook 0
+RUN 2026-10-16 16:16 local | 4 match(es)
+SK Rapid v TSV Hartberg -> out/SK_Rapid_v_TSV_Hartberg.txt
+Norwich City U21 v West Ham United U21 -> out/Norwich_City_U21_v_West_Ham_United_U21.txt
+Den Bosch v FC Oss -> out/Den_Bosch_v_FC_Oss.txt
+Dinamo Bucuresti v FC Botosani -> out/Dinamo_Bucuresti_v_FC_Botosani.txt
+Requests used: API-Football 102, Matchbook 0

@@ -1,59 +1,59 @@
-MATCH VVV Venlo v Jong AZ | fetched 2026-10-16 16:13 local
+MATCH Den Bosch v FC Oss | fetched 2026-10-16 16:16 local
 
-FORM DATA VVV Venlo v Jong AZ | source API-Football | 2026-10-16 16:13 UTC
+FORM DATA Den Bosch v FC Oss | source API-Football | 2026-10-16 16:16 UTC
 H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
 
-=== VVV Venlo (id 204): last 20 finished games ===
-2026-10-09 A 3-0 v Jong Ajax | Eerste Divisie | Amsterdam | xG 2.39-1.40
-2026-10-04 H 2-0 v Roda | Eerste Divisie | Venlo
-2026-09-26 A 2-3 v FC Volendam | Eerste Divisie | Volendam | xG 2.32-1.03
-2026-09-18 A 3-1 v Jong Utrecht | Eerste Divisie | Utrecht | xG 1.55-1.48
-2026-09-11 H 3-1 v FC OSS | Eerste Divisie | Venlo | xG 1.61-1.52
-2026-09-04 A 2-4 v Helmond Sport | Eerste Divisie | Helmond | xG 2.52-3.53
-2026-08-30 H 4-0 v Emmen | Eerste Divisie | Venlo | xG 2.51-2.42
-2026-08-23 H 2-1 v De Graafschap | Eerste Divisie | Venlo | xG 1.26-0.84
-2026-08-14 A 2-0 v NAC Breda | Eerste Divisie | Breda | xG 1.06-1.73
-2026-08-07 H 3-4 v Heracles | Eerste Divisie | Venlo | xG 0.88-3.92
-2026-08-01 H 2-3 v AS Eupen | Friendlies Clubs | ?
-2026-07-25 H 0-1 v Fortuna Köln | Friendlies Clubs | ?
-2026-07-21 A 3-5 v FC Viktoria Köln | Friendlies Clubs | ?
-2026-07-18 H 2-1 v Oud-Heverlee Leuven II | Friendlies Clubs | ?
-2026-07-11 A 2-2 v De Treffers | Friendlies Clubs | ?
-2026-07-07 H 2-1 v Bochum II | Friendlies Clubs | ?
-2026-07-04 H 3-2 v Borussia M'gladbach II | Friendlies Clubs | ?
-2026-04-24 H 3-1 v Almere City FC | Eerste Divisie | Venlo
-2026-04-17 A 0-2 v Helmond Sport | Eerste Divisie | Helmond
-2026-04-11 H 3-3 v De Graafschap | Eerste Divisie | Venlo
-Listed home: 12 games, scored 29 (2.42), conceded 18 (1.50), blanks 1, clean sheets 2
-Listed away: 8 games, scored 17 (2.12), conceded 17 (2.12), blanks 1, clean sheets 2
-All: 20 games, scored 46 (2.30), conceded 35 (1.75), blanks 2, clean sheets 4
+=== Den Bosch (id 421): last 20 finished games ===
+2026-10-09 A 1-0 v Jong AZ | Eerste Divisie | Alkmaar | xG 0.94-0.85
+2026-10-03 H 1-1 v Dordrecht | Eerste Divisie | 'S-Hertogenbosch | xG 1.68-0.84
+2026-09-27 A 0-1 v De Graafschap | Eerste Divisie | Dutinghem
+2026-09-18 H 2-1 v Helmond Sport | Eerste Divisie | 'S-Hertogenbosch | xG 1.65-0.95
+2026-09-13 A 0-2 v FC Volendam | Eerste Divisie | Volendam | xG 0.79-2.50
+2026-09-07 A 1-3 v Jong PSV U21 | Eerste Divisie | Eindhoven | xG 1.07-0.92
+2026-08-28 H 1-4 v Vitesse | Eerste Divisie | ? | xG 3.01-1.68
+2026-08-21 H 5-2 v FC Eindhoven | Eerste Divisie | ? | xG 2.75-0.74
+2026-08-14 A 2-3 v Heracles | Eerste Divisie | Almelo | xG 2.51-2.31
+2026-08-08 H 1-1 v Almere City FC | Eerste Divisie | ? | xG 1.32-2.24
+2026-07-31 H 2-0 v Al-Fayha | Friendlies Clubs | ?
+2026-07-24 H 2-1 v Lusail City | Friendlies Clubs | ?
+2026-07-18 A 0-0 v FC Eindhoven | Friendlies Clubs | ?
+2026-07-11 H 3-1 v Quick Boys | Friendlies Clubs | ?
+2026-05-02 A 0-3 v Almere City FC | Eerste Divisie | Almere
+2026-04-29 H 2-3 v Almere City FC | Eerste Divisie | ?
+2026-04-24 H 1-3 v ADO Den Haag | Eerste Divisie | ?
+2026-04-20 H 1-1 v Jong Utrecht | Eerste Divisie | ?
+2026-04-17 A 2-4 v FC OSS | Eerste Divisie | Oss
+2026-04-10 H 1-1 v Cambuur | Eerste Divisie | ?
+Listed home: 12 games, scored 22 (1.83), conceded 19 (1.58), blanks 0, clean sheets 1
+Listed away: 8 games, scored 6 (0.75), conceded 16 (2.00), blanks 4, clean sheets 2
+All: 20 games, scored 28 (1.40), conceded 35 (1.75), blanks 4, clean sheets 3
 
-=== Jong AZ (id 418): last 20 finished games ===
-2026-10-09 H 0-1 v Den Bosch | Eerste Divisie | Alkmaar | xG 0.85-0.94
-2026-09-18 H 4-1 v FC Volendam | Eerste Divisie | Alkmaar | xG 2.82-1.05
-2026-09-14 A 1-1 v Jong PSV U21 | Eerste Divisie | Eindhoven | xG 0.94-1.93
-2026-09-11 A 2-3 v Heracles | Eerste Divisie | Almelo
-2026-09-05 A 6-3 v Dordrecht | Eerste Divisie | Dordrecht | xG 2.41-0.90
-2026-08-31 H 2-1 v Jong Utrecht | Eerste Divisie | Wijdewormer | xG 1.93-1.02
-2026-08-28 H 1-2 v MVV | Eerste Divisie | Wijdewormer | xG 0.30-0.27
-2026-08-21 A 1-3 v Emmen | Eerste Divisie | Emmen | xG 0.96-1.58
-2026-08-17 A 5-2 v De Graafschap | Eerste Divisie | Doetinchem | xG 2.86-1.68
-2026-08-10 H 0-1 v FC Eindhoven | Eerste Divisie | Wijdewormer | xG 0.83-1.24
-2026-08-01 A 7-1 v Ijsselmeervogels | Friendlies Clubs | ?
-2026-07-28 A 4-1 v Quick Boys | Friendlies Clubs | ?
-2026-07-25 A 3-2 v Sparta Rotterdam II | Friendlies Clubs | ?
-2026-07-17 H 3-0 v Jong Ajax | Friendlies Clubs | ?
-2026-07-11 H 3-1 v FC Volendam | Friendlies Clubs | ?
-2026-07-04 A 1-1 v Waalwijk | Friendlies Clubs | ?
-2026-04-24 H 2-0 v Roda | Eerste Divisie | Wijdewormer
-2026-04-17 A 0-3 v Willem II | Eerste Divisie | Tilburg
-2026-04-13 H 0-2 v Jong PSV U21 | Eerste Divisie | Wijdewormer
-2026-04-06 A 0-5 v De Graafschap | Eerste Divisie | Doetinchem
-Listed home: 9 games, scored 15 (1.67), conceded 9 (1.00), blanks 3, clean sheets 2
-Listed away: 11 games, scored 30 (2.73), conceded 25 (2.27), blanks 2, clean sheets 0
-All: 20 games, scored 45 (2.25), conceded 34 (1.70), blanks 5, clean sheets 2
+=== FC OSS (id 423): last 20 finished games ===
+2026-10-09 H 3-1 v Helmond Sport | Eerste Divisie | Os | xG 2.78-1.48
+2026-10-03 H 4-1 v MVV | Eerste Divisie | Os
+2026-09-26 A 0-1 v Emmen | Eerste Divisie | Emmen | xG 0.81-1.86
+2026-09-18 H 3-0 v Dordrecht | Eerste Divisie | Os | xG 1.38-0.95
+2026-09-11 A 1-3 v VVV Venlo | Eerste Divisie | Venlo | xG 1.52-1.61
+2026-09-04 A 1-2 v Vitesse | Eerste Divisie | Arnhem | xG 0.24-1.56
+2026-08-28 H 2-1 v Jong Utrecht | Eerste Divisie | Oss | xG 1.30-1.24
+2026-08-24 A 0-1 v Jong PSV U21 | Eerste Divisie | Eindhoven | xG 1.14-1.31
+2026-08-15 A 0-3 v FC Volendam | Eerste Divisie | Volendam | xG 0.77-2.27
+2026-08-07 H 1-2 v NAC Breda | Eerste Divisie | Oss | xG 2.09-2.44
+2026-08-01 A 1-3 v Genk | Friendlies Clubs | ?
+2026-07-25 A 4-8 v Almere City FC | Friendlies Clubs | ?
+2026-07-18 H 3-1 v SG Wattenscheid 09 | Friendlies Clubs | ?
+2026-07-12 H 0-1 v MSV Duisburg | Friendlies Clubs | ?
+2026-07-04 A 1-4 v GO Ahead Eagles | Friendlies Clubs | ?
+2026-04-24 A 2-0 v MVV | Eerste Divisie | Maastricht
+2026-04-17 H 4-2 v Den Bosch | Eerste Divisie | Oss
+2026-04-13 A 2-1 v Jong Ajax | Eerste Divisie | Ouder-Amstel
+2026-04-06 H 3-1 v Jong Utrecht | Eerste Divisie | Oss
+2026-04-03 A 2-3 v Almere City FC | Eerste Divisie | Almere
+Listed home: 9 games, scored 23 (2.56), conceded 10 (1.11), blanks 1, clean sheets 1
+Listed away: 11 games, scored 14 (1.27), conceded 29 (2.64), blanks 3, clean sheets 1
+All: 20 games, scored 37 (1.85), conceded 39 (1.95), blanks 4, clean sheets 2
 
-TABLE FOR VVV Venlo
+TABLE FOR Den Bosch
 LEAGUE TABLE Eerste Divisie 2026 | 100 teams | 200 games played
 League averages per game: home 2.03, away 1.49, total 3.52
 #   team                   Pts | home P GF-GA  | away P GF-GA  | all P GF-GA
@@ -158,9 +158,9 @@ League averages per game: home 2.03, away 1.49, total 3.52
 19  Jong AZ                  0 |  0   0-0       |  0   0-0       |  0   0-0 [Eerste Divisie: Period 4]
 20  Jong Utrecht             0 |  0   0-0       |  0   0-0       |  0   0-0 [Eerste Divisie: Period 4]
 
-(Jong AZ: same table as VVV Venlo, shown above)
+(FC OSS: same table as Den Bosch, shown above)
 
-(24 API-Football requests used)
+(25 API-Football requests used)
 
 ----------------------------------------------------------------------
 MATCHBOOK: skipped (switched off for this run)
