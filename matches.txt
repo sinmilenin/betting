@@ -1,2 +1,2 @@
-# 2026-10-16 16:01 scan retry: Otelul name fix (16:00 fixtures now in play, not re-run)
-Otelul v Csikszereda | n=20 | xg=10
+# 2026-10-16 16:03 scan retry 2: Otelul = id:6886 (Oţelul, Romania)
+id:6886 v Csikszereda | n=20 | xg=10
