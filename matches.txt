@@ -1,2 +1,2 @@
-# 2026-10-16 12:58 scan: Henan v Tianjin
-Henan Songshan Longmen v Tianjin Jinmen Tiger | n=20 | xg=10
+# 2026-10-16 13:00 scan retry: Henan v Tianjin short names
+Henan v Tianjin Jinmen Tiger | n=20 | xg=10
