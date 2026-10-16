@@ -1,3 +1,3 @@
-RUN 2026-10-16 11:43 local | 1 match(es)
-Al Qadisiyah v Abha -> out/Al_Qadisiyah_v_Abha.txt
-Requests used: API-Football 26, Matchbook 0
+RUN 2026-10-16 11:44 local | 1 match(es)
+Qadisiyah v Abha -> out/Qadisiyah_v_Abha.txt
+Requests used: API-Football 27, Matchbook 0
