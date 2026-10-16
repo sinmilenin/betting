@@ -1,5 +1,2 @@
-# 2026-10-16 18:25 scan retry: names for not-found/ambiguous teams
-SK Rapid v TSV Hartberg | n=20 | xg=10
-Norwich City U21 v West Ham United U21 | n=20 | xg=10
-Den Bosch v FC Oss | n=20 | xg=10
-Dinamo Bucuresti v FC Botosani | n=20 | xg=10
+# 2026-10-16 18:36 scan retry 2: men's Rapid by id
+id:781 v TSV Hartberg | n=20 | xg=10
