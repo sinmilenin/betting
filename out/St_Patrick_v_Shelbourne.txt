@@ -1,8 +1,12 @@
-MATCH St Patricks v Shelbourne | fetched 2026-10-16 17:43 local
+MATCH St Patrick v Shelbourne | fetched 2026-10-16 17:46 local
 
-FORM DATA St Patricks v Shelbourne | source API-Football | 2026-10-16 17:44 UTC
+FORM DATA St Patrick v Shelbourne | source API-Football | 2026-10-16 17:46 UTC
 H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
 
+"St Patrick" matches several teams. Use id:<number> instead of the name:
+  id:3843   St Patrick's Athl. (Ireland)
+  id:17700  St Patrick's U19 (None)
+  id:21407  St Patrick's CY (Ireland)
 === Shelbourne (id 3854): last 20 finished games ===
 2026-10-09 H 5-1 v Sligo Rovers | Premier Division | Dublin | xG 2.60-0.50
 2026-09-25 A 1-1 v Galway United | Premier Division | Galway
@@ -28,7 +32,12 @@ Listed home: 10 games, scored 19 (1.90), conceded 16 (1.60), blanks 2, clean she
 Listed away: 10 games, scored 13 (1.30), conceded 16 (1.60), blanks 2, clean sheets 1
 All: 20 games, scored 32 (1.60), conceded 32 (1.60), blanks 4, clean sheets 1
 
-!! St Patricks: No team found for "St Patricks".
+(retrying St Patrick using the opponent's country, Ireland)
+"St Patrick" matches several teams. Use id:<number> instead of the name:
+  id:3843   St Patrick's Athl. (Ireland)
+  id:17700  St Patrick's U19 (None)
+  id:21407  St Patrick's CY (Ireland)
+!! St Patrick: Ambiguous team name "St Patrick".
 
 TABLE FOR Shelbourne
 LEAGUE TABLE Premier Division 2026 | 10 teams | 163 games played
@@ -45,7 +54,7 @@ League averages per game: home 1.52, away 1.28, total 2.80
 9   Drogheda United         34 | 16  18-21      | 17  21-33      | 33  39-54
 10  Sligo Rovers            23 | 16  15-26      | 17  10-33      | 33  25-59
 
-(13 API-Football requests used)
+(15 API-Football requests used)
 
 ----------------------------------------------------------------------
 MATCHBOOK: skipped (switched off for this run)

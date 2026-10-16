@@ -1,6 +1,6 @@
-MATCH Laval v Clermont | fetched 2026-10-16 17:43 local
+MATCH Laval v id:99 | fetched 2026-10-16 17:46 local
 
-FORM DATA Laval v Clermont | source API-Football | 2026-10-16 17:43 UTC
+FORM DATA Laval v id:99 | source API-Football | 2026-10-16 17:46 UTC
 H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
 
 === Laval (id 433): last 20 finished games ===
@@ -28,20 +28,30 @@ Listed home: 11 games, scored 19 (1.73), conceded 12 (1.09), blanks 1, clean she
 Listed away: 9 games, scored 12 (1.33), conceded 19 (2.11), blanks 0, clean sheets 0
 All: 20 games, scored 31 (1.55), conceded 31 (1.55), blanks 1, clean sheets 3
 
-"Clermont" matches several teams. Use id:<number> instead of the name:
-  id:99     Clermont Foot (France)
-  id:9970   Clermont II (France)
-  id:13664  Racing Clermontois (France)
-  id:20575  Liancourt Clermont (France)
-  id:28402  Clermont U19 (France)
-(retrying Clermont using the opponent's country, France)
-"Clermont" matches several teams. Use id:<number> instead of the name:
-  id:99     Clermont Foot (France)
-  id:9970   Clermont II (France)
-  id:13664  Racing Clermontois (France)
-  id:20575  Liancourt Clermont (France)
-  id:28402  Clermont U19 (France)
-!! Clermont: Ambiguous team name "Clermont".
+=== Clermont Foot (id 99): last 20 finished games ===
+2026-10-10 H 2-3 v RED Star FC 93 | Ligue 2 | Clermont-Ferrand
+2026-10-02 A 3-4 v Auxerre | Friendlies Clubs | ?
+2026-09-18 A 1-1 v Grenoble | Ligue 2 | Grenoble
+2026-09-11 H 0-0 v Boulogne | Ligue 2 | Clermont-Ferrand
+2026-09-04 A 1-1 v Dunkerque | Ligue 2 | Dunkerque
+2026-08-28 H 0-0 v Sochaux | Ligue 2 | Clermont-Ferrand
+2026-08-21 H 1-1 v Dijon | Ligue 2 | Clermont-Ferrand
+2026-08-14 A 1-3 v Saint Etienne | Ligue 2 | Saint Etienne
+2026-08-08 H 0-0 v Reims | Ligue 2 | Clermont-Ferrand
+2026-08-01 H 1-1 v Grenoble | Friendlies Clubs | ?
+2026-07-25 H 0-1 v Montpellier | Friendlies Clubs | ?
+2026-07-22 H 1-1 v Quevilly | Friendlies Clubs | ?
+2026-07-18 H 4-1 v Andrézieux | Friendlies Clubs | ?
+2026-07-15 H 0-0 v Bourges Foot 18 | Friendlies Clubs | ?
+2026-07-11 H 1-0 v Orleans | Friendlies Clubs | ?
+2026-05-09 H 1-0 v Guingamp | Ligue 2 | Clermont-Ferrand
+2026-05-02 A 2-1 v Montpellier | Ligue 2 | Montpellier
+2026-04-24 H 1-1 v Bastia | Ligue 2 | Clermont-Ferrand
+2026-04-17 A 0-1 v Le Mans | Ligue 2 | Le Mans
+2026-04-10 H 2-2 v Nancy | Ligue 2 | Clermont-Ferrand
+Listed home: 14 games, scored 14 (1.00), conceded 11 (0.79), blanks 5, clean sheets 6
+Listed away: 6 games, scored 8 (1.33), conceded 11 (1.83), blanks 1, clean sheets 0
+All: 20 games, scored 22 (1.10), conceded 22 (1.10), blanks 6, clean sheets 6
 
 TABLE FOR Laval
 LEAGUE TABLE Ligue 2 2026 | 18 teams | 72 games played
@@ -66,7 +76,9 @@ League averages per game: home 1.38, away 1.21, total 2.58
 17  Clermont Foot            6 |  5   3-4       |  3   3-5       |  8   6-9
 18  Laval                    5 |  4   4-7       |  4   6-10      |  8  10-17
 
-(15 API-Football requests used)
+(Clermont Foot: same table as Laval, shown above)
+
+(25 API-Football requests used)
 
 ----------------------------------------------------------------------
 MATCHBOOK: skipped (switched off for this run)
