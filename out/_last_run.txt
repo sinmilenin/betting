@@ -1,3 +1,7 @@
-RUN 2026-10-16 19:13 local | 1 match(es)
-Los Chankas v ADT -> out/Los_Chankas_v_ADT.txt
-Requests used: API-Football 25, Matchbook 0
+RUN 2026-10-16 20:43 local | 3 match(es)
+Defensa y Justicia v Instituto -> out/Defensa_y_Justicia_v_Instituto.txt
+    !! Instituto: Ambiguous team name "Instituto".
+Boca Juniors de Cali v Atletico FC -> out/Boca_Juniors_de_Cali_v_Atletico_FC.txt
+    !! Boca Juniors de Cali: No team found for "Boca Juniors de Cali".
+Ponte Preta v Atletico Goianiense -> out/Ponte_Preta_v_Atletico_Goianiense.txt
+Requests used: API-Football 54, Matchbook 0

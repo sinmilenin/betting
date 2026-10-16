@@ -1,0 +1,110 @@
+MATCH Defensa y Justicia v Instituto | fetched 2026-10-16 20:43 local
+
+FORM DATA Defensa y Justicia v Instituto | source API-Football | 2026-10-16 20:43 UTC
+H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
+
+=== Defensa Y Justicia (id 442): last 20 finished games ===
+2026-10-10 A 2-0 v Union Santa Fe | Liga Profesional Argentina | Santa Fe | xG 2.09-2.38
+2026-10-03 H 3-0 v San Lorenzo | Liga Profesional Argentina | Gobernador Julio A. Costa | xG 2.79-0.64
+2026-09-18 A 2-2 v Central Cordoba de Santiago | Liga Profesional Argentina | Santiago del Estero | xG 1.99-1.61
+2026-09-11 H 2-0 v Gimnasia M. | Liga Profesional Argentina | Gobernador Julio A. Costa | xG 1.06-0.73
+2026-09-06 A 0-1 v Lanus | Liga Profesional Argentina | Buenos Aires | xG 0.74-1.14
+2026-08-31 H 1-0 v Platense | Liga Profesional Argentina | Gobernador Julio A. Costa | xG 1.22-0.74
+2026-08-23 A 2-1 v Belgrano Cordoba | Liga Profesional Argentina | Cordoba | xG 1.25-1.26
+2026-08-17 A 1-1 v Velez Sarsfield | Liga Profesional Argentina | Buenos Aires | xG 1.29-0.85
+2026-08-09 H 2-1 v Newells Old Boys | Liga Profesional Argentina | Gobernador Julio A. Costa | xG 1.65-0.62
+2026-08-01 A 0-3 v Estudiantes L.P. | Liga Profesional Argentina | La Plata | xG 1.54-1.99
+2026-07-29 H 2-1 v Deportivo Riestra | Liga Profesional Argentina | Gobernador Julio A. Costa
+2026-07-24 H 1-1 v Aldosivi | Liga Profesional Argentina | Gobernador Julio A. Costa
+2026-07-16 A 1-4 v Racing Club | Copa Argentina | Jujuy
+2026-05-04 A 1-2 v Gimnasia M. | Liga Profesional Argentina | Mendoza
+2026-04-23 H 0-4 v Boca Juniors | Liga Profesional Argentina | Gobernador Julio A. Costa
+2026-04-18 A 1-3 v Independiente | Liga Profesional Argentina | Avellaneda
+2026-04-13 H 1-2 v Talleres Cordoba | Liga Profesional Argentina | Gobernador Julio A. Costa
+2026-04-07 A 0-2 v Instituto Cordoba | Liga Profesional Argentina | Cordoba
+2026-04-01 H 2-1 v Chaco For Ever | Copa Argentina | ?
+2026-03-21 H 2-0 v Union Santa Fe | Liga Profesional Argentina | Gobernador Julio A. Costa
+Listed home: 10 games, scored 16 (1.60), conceded 10 (1.00), blanks 1, clean sheets 4
+Listed away: 10 games, scored 10 (1.00), conceded 19 (1.90), blanks 3, clean sheets 1
+All: 20 games, scored 26 (1.30), conceded 29 (1.45), blanks 4, clean sheets 5
+
+"Instituto" matches several teams. Use id:<number> instead of the name:
+  id:478    Instituto Cordoba (Argentina)
+  id:20818  Instituto Res. (Argentina)
+  id:26959  Instituto Apurímac FC (Peru)
+(retrying Instituto using the opponent's country, Argentina)
+"Instituto" matches several teams. Use id:<number> instead of the name:
+  id:478    Instituto Cordoba (Argentina)
+  id:20818  Instituto Res. (Argentina)
+  id:26959  Instituto Apurímac FC (Peru)
+!! Instituto: Ambiguous team name "Instituto".
+
+TABLE FOR Defensa Y Justicia
+LEAGUE TABLE Liga Profesional Argentina 2026 | 60 teams | 421 games played
+League averages per game: home 1.21, away 0.94, total 2.14
+#   team                   Pts | home P GF-GA  | away P GF-GA  | all P GF-GA
+1   Estudiantes L.P.        31 |  8  11-4       |  8   8-3       | 16  19-7 [Apertura - Group A]
+2   Boca Juniors            30 |  8   8-3       |  8  14-6       | 16  22-9 [Apertura - Group A]
+3   Velez Sarsfield         28 |  8   9-6       |  8   9-6       | 16  18-12 [Apertura - Group A]
+4   Talleres Cordoba        26 |  7   9-5       |  9   8-8       | 16  17-13 [Apertura - Group A]
+5   Independiente           24 |  8  15-9       |  8   9-11      | 16  24-20 [Apertura - Group A]
+6   Lanus                   24 |  8   9-5       |  8   9-10      | 16  18-15 [Apertura - Group A]
+7   San Lorenzo             22 |  8  10-11      |  8   4-3       | 16  14-14 [Apertura - Group A]
+8   Union Santa Fe          21 |  8  11-5       |  8  13-15      | 16  24-20 [Apertura - Group A]
+9   Instituto Cordoba       21 |  8  11-8       |  8   6-9       | 16  17-17 [Apertura - Group A]
+10  Defensa Y Justicia      19 |  8   7-10      |  8  11-11      | 16  18-21 [Apertura - Group A]
+11  Gimnasia M.             19 |  8   9-8       |  8   5-14      | 16  14-22 [Apertura - Group A]
+12  Platense                16 |  8   4-8       |  8   6-7       | 16  10-15 [Apertura - Group A]
+13  Central Cordoba de San  16 |  8  10-9       |  8   1-12      | 16  11-21 [Apertura - Group A]
+14  Newells Old Boys        15 |  8   6-10      |  8   9-17      | 16  15-27 [Apertura - Group A]
+15  Deportivo Riestra       11 |  8   4-4       |  8   1-8       | 16   5-12 [Apertura - Group A]
+1   Independ. Rivadavia     34 |  9  19-10      |  7  10-5       | 16  29-15 [Apertura - Group B]
+2   River Plate             29 |  8  14-8       |  8   8-4       | 16  22-12 [Apertura - Group B]
+3   Argentinos JRS          29 |  9  10-4       |  7   7-9       | 16  17-13 [Apertura - Group B]
+4   Rosario Central         28 |  8  10-7       |  8  10-9       | 16  20-16 [Apertura - Group B]
+5   Belgrano Cordoba        26 |  8  11-5       |  8   6-8       | 16  17-13 [Apertura - Group B]
+6   Gimnasia L.P.           26 |  8  11-10      |  8   8-9       | 16  19-19 [Apertura - Group B]
+7   Huracan                 22 |  8  11-8       |  8   6-5       | 16  17-13 [Apertura - Group B]
+8   Racing Club             21 |  7   7-7       |  9  10-8       | 16  17-15 [Apertura - Group B]
+9   Barracas Central        21 |  8   9-8       |  8   6-7       | 16  15-15 [Apertura - Group B]
+10  Tigre                   20 |  8  11-8       |  8   7-7       | 16  18-15 [Apertura - Group B]
+11  Sarmiento Junin         19 |  8   9-6       |  8   4-14      | 16  13-20 [Apertura - Group B]
+12  Banfield                18 |  8  10-6       |  8   7-13      | 16  17-19 [Apertura - Group B]
+13  Atletico Tucuman        14 |  8   8-6       |  8   7-14      | 16  15-20 [Apertura - Group B]
+14  Aldosivi                 8 |  8   3-5       |  8   3-14      | 16   6-19 [Apertura - Group B]
+15  Estudiantes de Rio Cua   5 |  8   4-10      |  8   1-14      | 16   5-24 [Apertura - Group B]
+1   Instituto Cordoba       26 |  6  11-5       |  6   8-5       | 12  19-10 [Clausura - Group A]
+2   Defensa Y Justicia      24 |  6  11-3       |  6   7-8       | 12  18-11 [Clausura - Group A]
+3   Boca Juniors            21 |  5   9-2       |  7  10-11      | 12  19-13 [Clausura - Group A]
+4   Velez Sarsfield         21 |  6   9-5       |  6   8-8       | 12  17-13 [Clausura - Group A]
+5   Lanus                   20 |  7   8-6       |  5   7-3       | 12  15-9 [Clausura - Group A]
+6   Gimnasia M.             20 |  6   9-3       |  6   6-9       | 12  15-12 [Clausura - Group A]
+7   Independiente           18 |  6   3-9       |  6   8-3       | 12  11-12 [Clausura - Group A]
+8   Newells Old Boys        17 |  6   8-4       |  6   3-5       | 12  11-9 [Clausura - Group A]
+9   Estudiantes L.P.        14 |  6  12-3       |  6   3-10      | 12  15-13 [Clausura - Group A]
+10  San Lorenzo             14 |  6   4-4       |  6   1-7       | 12   5-11 [Clausura - Group A]
+11  Union Santa Fe          13 |  6  11-10      |  6   6-11      | 12  17-21 [Clausura - Group A]
+12  Deportivo Riestra       11 |  6   7-6       |  6   2-6       | 12   9-12 [Clausura - Group A]
+13  Platense                11 |  6   5-10      |  6   7-8       | 12  12-18 [Clausura - Group A]
+14  Central Cordoba de San  10 |  6   5-8       |  6   5-8       | 12  10-16 [Clausura - Group A]
+15  Talleres Cordoba         9 |  7   5-10      |  5   6-8       | 12  11-18 [Clausura - Group A]
+1   Rosario Central         22 |  6  10-4       |  6   7-5       | 12  17-9 [Clausura - Group B]
+2   Belgrano Cordoba        22 |  6   8-6       |  6   6-1       | 12  14-7 [Clausura - Group B]
+3   Argentinos JRS          22 |  5  10-4       |  7   6-7       | 12  16-11 [Clausura - Group B]
+4   Gimnasia L.P.           22 |  6  10-7       |  7   9-11      | 13  19-18 [Clausura - Group B]
+5   Sarmiento Junin         20 |  6  10-6       |  6  11-12      | 12  21-18 [Clausura - Group B]
+6   Huracan                 19 |  7   6-4       |  6   6-8       | 13  12-12 [Clausura - Group B]
+7   Barracas Central        18 |  6   4-4       |  6   6-5       | 12  10-9 [Clausura - Group B]
+8   Independ. Rivadavia     18 |  5  12-7       |  7   3-12      | 12  15-19 [Clausura - Group B]
+9   River Plate             17 |  7   9-7       |  5   6-6       | 12  15-13 [Clausura - Group B]
+10  Atletico Tucuman        14 |  6   4-7       |  6   6-3       | 12  10-10 [Clausura - Group B]
+11  Banfield                13 |  5   7-9       |  7   7-9       | 12  14-18 [Clausura - Group B]
+12  Tigre                   12 |  6   4-4       |  6   7-9       | 12  11-13 [Clausura - Group B]
+13  Racing Club             11 |  7   8-11      |  5   5-8       | 12  13-19 [Clausura - Group B]
+14  Aldosivi                 8 |  6   7-9       |  6   6-11      | 12  13-20 [Clausura - Group B]
+15  Estudiantes de Rio Cua   6 |  6   2-5       |  6   4-11      | 12   6-16 [Clausura - Group B]
+
+(15 API-Football requests used)
+
+----------------------------------------------------------------------
+MATCHBOOK: skipped (switched off for this run)
