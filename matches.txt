@@ -1,4 +1,3 @@
-# 2026-10-16 19:08 scan retry: name fixes (Koln by id, Cobh, Ayr/Partick men's teams)
-Eintracht Frankfurt v id:192 | n=20 | xg=10
-Treaty United v Cobh | n=20 | xg=10
-Ayr v Partick | n=20 | xg=10
+# 2026-10-16 19:13 scan retry 2: Ayr Utd and Cobh Ramblers by id
+id:1387 v id:901 | n=20 | xg=10
+Treaty United v id:3849 | n=20 | xg=10
