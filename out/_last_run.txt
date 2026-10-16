@@ -1,5 +1,4 @@
-RUN 2026-10-16 14:43 local | 2 match(es)
-id:17115 v Rakow Czestochowa -> out/id_17115_v_Rakow_Czestochowa.txt
-    !! Rakow Czestochowa: Ambiguous team name "Rakow Czestochowa".
-Energie Cottbus v FC Nurnberg -> out/Energie_Cottbus_v_FC_Nurnberg.txt
-Requests used: API-Football 40, Matchbook 0
+RUN 2026-10-16 14:44 local | 2 match(es)
+id:17115 v id:3491 -> out/id_17115_v_id_3491.txt
+Holstein Kiel v Hertha BSC -> out/Holstein_Kiel_v_Hertha_BSC.txt
+Requests used: API-Football 50, Matchbook 0
