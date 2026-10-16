@@ -1,3 +1,15 @@
-# 2026-10-16 19:13 scan retry 2: Ayr Utd and Cobh Ramblers by id
-id:1387 v id:901 | n=20 | xg=10
-Treaty United v id:3849 | n=20 | xg=10
+# 2026-10-16 19:43 scan: first analyses
+Everton U21 v Middlesbrough U21 | n=20 | xg=10
+Stoke City U21 v Chelsea U21 | n=20 | xg=10
+Sport Huancayo v Cusco | n=20 | xg=10
+Rapperswil-Jona v St Gallen | n=20 | xg=10
+FC Eindhoven v Vitesse | n=20 | xg=10
+Laval v Clermont | n=20 | xg=10
+Stade Nyonnais v Basel | n=20 | xg=10
+Verona v Catanzaro | n=20 | xg=10
+Widzew Lodz v Wisla Krakow | n=20 | xg=10
+Finn Harps v Bray Wanderers | n=20 | xg=10
+Drogheda v Derry City | n=20 | xg=10
+Burnley v Wolves | n=20 | xg=10
+Deportivo La Coruna v Levante | n=20 | xg=10
+St Patricks v Shelbourne | n=20 | xg=10
