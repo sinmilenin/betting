@@ -1,5 +1,4 @@
-RUN 2026-10-16 17:49 local | 3 match(es)
-id:6962 v Wisla Krakow -> out/id_6962_v_Wisla_Krakow.txt
-id:3843 v Shelbourne -> out/id_3843_v_Shelbourne.txt
-Rapperswil v id:1011 -> out/Rapperswil_v_id_1011.txt
-Requests used: API-Football 76, Matchbook 0
+RUN 2026-10-16 18:27 local | 2 match(es)
+Standard Liege v Dender -> out/Standard_Liege_v_Dender.txt
+Alcorcon v Huesca -> out/Alcorcon_v_Huesca.txt
+Requests used: API-Football 51, Matchbook 0
