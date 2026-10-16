@@ -1,2 +1,2 @@
-# 2026-10-16 09:17 scan retry: Sydney FC as "Sydney"
-Sydney v Western Sydney Wanderers | n=20 | xg=10
+# 2026-10-16 12:58 scan: Henan v Tianjin
+Henan Songshan Longmen v Tianjin Jinmen Tiger | n=20 | xg=10
