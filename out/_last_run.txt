@@ -1,3 +1,4 @@
-RUN 2026-10-16 11:00 local | 1 match(es)
-Henan v Tianjin Teda -> out/Henan_v_Tianjin_Teda.txt
-Requests used: API-Football 25, Matchbook 0
+RUN 2026-10-16 11:42 local | 1 match(es)
+Al-Qadisiyah v Abha -> out/Al_Qadisiyah_v_Abha.txt
+    !! Al-Qadisiyah: API-Football error: {"search": "The Search field may only contain alpha-numeric characters and spaces."}
+Requests used: API-Football 14, Matchbook 0
