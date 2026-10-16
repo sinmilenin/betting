@@ -1,4 +1,3 @@
-RUN 2026-10-16 07:14 local | 1 match(es)
-Sydney FC v Western Sydney Wanderers -> out/Sydney_FC_v_Western_Sydney_Wanderers.txt
-    !! Sydney FC: Ambiguous team name "Sydney FC".
-Requests used: API-Football 16, Matchbook 0
+RUN 2026-10-16 07:15 local | 1 match(es)
+Sydney v Western Sydney Wanderers -> out/Sydney_v_Western_Sydney_Wanderers.txt
+Requests used: API-Football 26, Matchbook 0
