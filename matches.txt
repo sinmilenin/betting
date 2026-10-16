@@ -1,3 +1,2 @@
-# 2026-10-16 20:28 scan: first analyses
-Standard Liege v Dender | n=20 | xg=10
-Alcorcon v Huesca | n=20 | xg=10
+# 2026-10-16 21:13 scan: first analysis
+Los Chankas v ADT | n=20 | xg=10
