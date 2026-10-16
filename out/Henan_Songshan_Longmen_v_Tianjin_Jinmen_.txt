@@ -1,0 +1,13 @@
+MATCH Henan Songshan Longmen v Tianjin Jinmen Tiger | fetched 2026-10-16 10:57 local
+
+FORM DATA Henan Songshan Longmen v Tianjin Jinmen Tiger | source API-Football | 2026-10-16 10:57 UTC
+H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
+
+!! Henan Songshan Longmen: No team found for "Henan Songshan Longmen".
+
+!! Tianjin Jinmen Tiger: No team found for "Tianjin Jinmen Tiger".
+
+(2 API-Football requests used)
+
+----------------------------------------------------------------------
+MATCHBOOK: skipped (switched off for this run)
