@@ -1,2 +1,2 @@
-# 2026-10-16 13:48 scan retry: hyphen not allowed in API-Football search
-Al Qadisiyah v Abha | n=20 | xg=10
+# 2026-10-16 13:50 scan retry 2: list Qadisiyah candidates (previous name picked a Libyan club)
+Qadisiyah v Abha | n=20 | xg=10
