@@ -1,11 +1,5 @@
-RUN 2026-10-16 17:46 local | 6 match(es)
-Laval v id:99 -> out/Laval_v_id_99.txt
-Stade Nyonnais v id:551 -> out/Stade_Nyonnais_v_id_551.txt
-id:504 v Catanzaro -> out/id_504_v_Catanzaro.txt
-Widzew v Wisla Krakow -> out/Widzew_v_Wisla_Krakow.txt
-    !! Widzew: Ambiguous team name "Widzew".
-St Patrick v Shelbourne -> out/St_Patrick_v_Shelbourne.txt
-    !! St Patrick: Ambiguous team name "St Patrick".
-Rapperswil v Gallen -> out/Rapperswil_v_Gallen.txt
-    !! Gallen: Ambiguous team name "Gallen".
-Requests used: API-Football 120, Matchbook 0
+RUN 2026-10-16 17:49 local | 3 match(es)
+id:6962 v Wisla Krakow -> out/id_6962_v_Wisla_Krakow.txt
+id:3843 v Shelbourne -> out/id_3843_v_Shelbourne.txt
+Rapperswil v id:1011 -> out/Rapperswil_v_id_1011.txt
+Requests used: API-Football 76, Matchbook 0
