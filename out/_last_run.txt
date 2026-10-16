@@ -1,4 +1,23 @@
-RUN 2026-10-16 17:02 local | 2 match(es)
-id:1387 v id:901 -> out/id_1387_v_id_901.txt
-Treaty United v id:3849 -> out/Treaty_United_v_id_3849.txt
-Requests used: API-Football 50, Matchbook 0
+RUN 2026-10-16 17:43 local | 14 match(es)
+Everton U21 v Middlesbrough U21 -> out/Everton_U21_v_Middlesbrough_U21.txt
+Stoke City U21 v Chelsea U21 -> out/Stoke_City_U21_v_Chelsea_U21.txt
+Sport Huancayo v Cusco -> out/Sport_Huancayo_v_Cusco.txt
+Rapperswil-Jona v St Gallen -> out/Rapperswil_Jona_v_St_Gallen.txt
+    !! Rapperswil-Jona: API-Football error: {"search": "The Search field may only contain alpha-numeric characters and spaces."}
+    !! St Gallen: No team found for "St Gallen".
+FC Eindhoven v Vitesse -> out/FC_Eindhoven_v_Vitesse.txt
+Laval v Clermont -> out/Laval_v_Clermont.txt
+    !! Clermont: Ambiguous team name "Clermont".
+Stade Nyonnais v Basel -> out/Stade_Nyonnais_v_Basel.txt
+    !! Basel: Ambiguous team name "Basel".
+Verona v Catanzaro -> out/Verona_v_Catanzaro.txt
+    !! Verona: Ambiguous team name "Verona".
+Widzew Lodz v Wisla Krakow -> out/Widzew_Lodz_v_Wisla_Krakow.txt
+    !! Widzew Lodz: No team found for "Widzew Lodz".
+Finn Harps v Bray Wanderers -> out/Finn_Harps_v_Bray_Wanderers.txt
+Drogheda v Derry City -> out/Drogheda_v_Derry_City.txt
+Burnley v Wolves -> out/Burnley_v_Wolves.txt
+Deportivo La Coruna v Levante -> out/Deportivo_La_Coruna_v_Levante.txt
+St Patricks v Shelbourne -> out/St_Patricks_v_Shelbourne.txt
+    !! St Patricks: No team found for "St Patricks".
+Requests used: API-Football 281, Matchbook 0

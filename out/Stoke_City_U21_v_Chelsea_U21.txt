@@ -1,0 +1,97 @@
+MATCH Stoke City U21 v Chelsea U21 | fetched 2026-10-16 17:43 local
+
+FORM DATA Stoke City U21 v Chelsea U21 | source API-Football | 2026-10-16 17:43 UTC
+H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
+
+=== Stoke City U21 (id 11911): last 20 finished games ===
+2026-10-13 A 2-4 v FC Halifax Town | National League Cup | Halifax
+2026-10-09 H 2-2 v Charlton Athletic U21 | Premier League Cup | Stoke on Trent
+2026-09-21 A 1-2 v AFC Bournemouth U21 | Premier League 2 Division One | Dorset
+2026-09-16 H 0-2 v Borussia M'gladbach II | Premier League International Cup | Stoke on Trent
+2026-09-11 H 4-0 v Wolves U21 | Premier League 2 Division One | Stoke on Trent
+2026-09-08 A 0-6 v Wealdstone | National League Cup | London
+2026-09-04 A 0-4 v Stockport County U21 | Premier League Cup | ?
+2026-08-28 A 0-0 v Norwich City U21 | Premier League 2 Division One | Norwich
+2026-08-21 H 2-3 v Brentford U21 | Premier League 2 Division One | Stoke on Trent
+2026-08-18 A 0-4 v Scunthorpe | National League Cup | Scunthorpe
+2026-08-14 H 0-0 v Leeds United U21 | Premier League Cup | Stoke on Trent
+2026-07-21 A 1-0 v Chester | Friendlies Clubs | ?
+2026-07-18 A 1-3 v Tamworth | Friendlies Clubs | ?
+2026-04-27 H 1-3 v Peterborough United U21 | Professional Development League | Stoke on Trent
+2026-04-17 H 0-1 v Aston Villa U21 | Premier League 2 Division One | Stoke on Trent
+2026-04-12 H 1-0 v Southampton U21 | Premier League 2 Division One | Stoke on Trent
+2026-03-23 H 3-2 v Fulham U21 | Premier League 2 Division One | Crewe
+2026-03-13 A 1-6 v Middlesbrough U21 | Premier League 2 Division One | Bishop Auckland
+2026-03-09 H 1-3 v Burnley U21 | Premier League 2 Division One | Crewe
+2026-02-27 A 2-4 v Norwich City U21 | Premier League 2 Division One | Norwich
+Listed home: 10 games, scored 14 (1.40), conceded 16 (1.60), blanks 3, clean sheets 3
+Listed away: 10 games, scored 8 (0.80), conceded 33 (3.30), blanks 4, clean sheets 2
+All: 20 games, scored 22 (1.10), conceded 49 (2.45), blanks 7, clean sheets 5
+
+=== Chelsea U21 (id 7192): last 20 finished games ===
+2026-10-13 A 2-0 v Reading | EFL Trophy | Reading
+2026-09-19 H 3-1 v Fulham U21 | Premier League 2 Division One | Cobham
+2026-09-15 A 1-2 v Wycombe | EFL Trophy | High Wycombe
+2026-09-12 A 4-1 v Arsenal U21 | Premier League 2 Division One | Borehamwood
+2026-08-31 H 5-4 v West Ham United U21 | Premier League 2 Division One | London
+2026-08-25 A 2-2 v Bristol Rovers | EFL Trophy | Bristol [PEN, 90-min score shown]
+2026-08-21 A 1-2 v AFC Bournemouth U21 | Premier League 2 Division One | Dorset
+2026-07-21 H 0-0 v Cardiff City U21 | Friendlies Clubs | ?
+2026-05-01 H 1-3 v Tottenham Hotspur U21 | Premier League 2 Division One | London
+2026-04-25 H 1-0 v Middlesbrough U21 | Premier League 2 Division One | London
+2026-04-10 A 1-2 v Fulham U21 | Premier League 2 Division One | London
+2026-03-20 A 4-0 v Wolves U21 | Premier League 2 Division One | Kidderminster
+2026-03-14 H 4-0 v Sunderland U21 | Premier League 2 Division One | London
+2026-03-09 A 4-1 v Birmingham City U21 | Premier League 2 Division One | Stratford upon Avon
+2026-03-02 A 2-0 v Manchester United U21 | Premier League 2 Division One | Manchester
+2026-02-20 H 2-2 v Leeds United U21 | Premier League 2 Division One | London
+2026-02-07 H 5-0 v Blackburn Rovers U21 | Premier League 2 Division One | London
+2026-01-30 H 4-2 v Southampton U21 | Premier League 2 Division One | London
+2026-01-26 A 2-1 v Leicester City U21 | Premier League 2 Division One | Seagrave
+2026-01-21 H 2-3 v Real Sociedad II | Premier League International Cup | ?
+Listed home: 10 games, scored 27 (2.70), conceded 15 (1.50), blanks 1, clean sheets 4
+Listed away: 10 games, scored 23 (2.30), conceded 11 (1.10), blanks 0, clean sheets 3
+All: 20 games, scored 50 (2.50), conceded 26 (1.30), blanks 1, clean sheets 7
+
+TABLE FOR Stoke City U21
+LEAGUE TABLE Premier League 2 Division One 2026 | 31 teams | 58 games played
+League averages per game: home 2.24, away 1.62, total 3.86
+#   team                   Pts | home P GF-GA  | away P GF-GA  | all P GF-GA
+1   Tottenham Hotspur U21   10 |  2   7-5       |  2   6-2       |  4  13-7
+2   Southampton U21         10 |  1   3-1       |  3   4-1       |  4   7-2
+3   Sunderland U21          10 |  3  12-4       |  2   3-7       |  5  15-11
+4   Manchester United U21    9 |  3  12-3       |  0   0-0       |  3  12-3
+5   Chelsea U21              9 |  2   8-5       |  2   5-3       |  4  13-8
+6   AFC Bournemouth U21      9 |  3   7-3       |  1   1-3       |  4   8-6
+7   Nottingham Forest U21    9 |  2   3-1       |  2   4-6       |  4   7-7
+8   Liverpool U21            7 |  2   7-2       |  2   1-2       |  4   8-4
+9   Fulham U21               7 |  2   7-6       |  2   5-3       |  4  12-9
+10  Leeds United U21         7 |  2   6-3       |  2   5-6       |  4  11-9
+11  Reading U21              7 |  2   1-3       |  2   6-3       |  4   7-6
+12  Norwich City U21         7 |  2   4-2       |  2   2-3       |  4   6-5
+13  Brentford U21            6 |  2   5-3       |  2   5-5       |  4  10-8
+14  Everton U21              5 |  2   2-3       |  2   2-0       |  4   4-3
+15  West Ham United U21      5 |  2   1-0       |  2   4-5       |  4   5-5
+16  Aston Villa U21          5 |  3   4-5       |  1   3-3       |  4   7-8
+17  Stoke City U21           4 |  2   6-3       |  2   1-2       |  4   7-5
+18  Crystal Palace U21       4 |  1   0-1       |  2   3-1       |  3   3-2
+19  Brighton U21             4 |  2   5-2       |  2   2-7       |  4   7-9
+20  Derby County U21         4 |  2   5-7       |  2   4-5       |  4   9-12
+21  Arsenal U21              4 |  3   4-7       |  2   2-2       |  5   6-9
+22  Manchester City U21      3 |  1   4-0       |  2   3-6       |  3   7-6
+23  Burnley U21              3 |  2   5-4       |  2   3-5       |  4   8-9
+24  Blackburn Rovers U21     3 |  1   2-3       |  2   2-4       |  3   4-7
+25  Ipswich Town U21         3 |  1   4-1       |  2   2-9       |  3   6-10
+26  Birmingham City U21      2 |  1   0-0       |  2   5-7       |  3   5-7
+27  Middlesbrough U21        2 |  2   4-5       |  2   3-5       |  4   7-10
+28  West Bromwich Albion U   1 |  1   1-3       |  2   7-8       |  3   8-11
+29  Leicester City U21       1 |  1   0-0       |  2   1-7       |  3   1-7
+30  Newcastle United U21     0 |  2   1-7       |  1   0-2       |  3   1-9
+31  Wolves U21               0 |  1   0-2       |  2   0-8       |  3   0-10
+
+(Chelsea U21: same table as Stoke City U21, shown above)
+
+(26 API-Football requests used)
+
+----------------------------------------------------------------------
+MATCHBOOK: skipped (switched off for this run)

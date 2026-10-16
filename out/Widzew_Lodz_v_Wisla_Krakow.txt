@@ -1,0 +1,59 @@
+MATCH Widzew Lodz v Wisla Krakow | fetched 2026-10-16 17:43 local
+
+FORM DATA Widzew Lodz v Wisla Krakow | source API-Football | 2026-10-16 17:43 UTC
+H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
+
+=== Wisla Krakow (id 338): last 20 finished games ===
+2026-10-11 A 0-2 v Legia Warszawa | Ekstraklasa | Warsaw | xG 0.83-1.32
+2026-10-02 A 4-3 v Piast Gliwice | Friendlies Clubs | ?
+2026-09-18 H 2-1 v Slask Wroclaw | Ekstraklasa | Krakow | xG 2.51-0.75
+2026-09-11 H 2-0 v Jagiellonia | Ekstraklasa | Kraków | xG 1.68-0.24
+2026-09-05 A 1-1 v Korona Kielce | Ekstraklasa | Kielce | xG 1.35-1.14
+2026-09-01 A 1-2 v Odra Opole | Cup | Opole
+2026-08-29 H 2-0 v Wieczysta Kraków | Ekstraklasa | Kraków | xG 1.64-1.38
+2026-08-23 A 2-2 v Pogon Szczecin | Ekstraklasa | Szczecin | xG 0.86-1.32
+2026-08-16 A 1-2 v Gornik Zabrze | Ekstraklasa | Zabrze | xG 1.69-0.60
+2026-08-07 H 2-1 v Wisla Plock | Ekstraklasa | Kraków | xG 1.78-1.51
+2026-08-01 A 3-4 v Piast Gliwice | Ekstraklasa | Gliwice
+2026-07-26 H 2-1 v GKS Katowice | Ekstraklasa | Kraków
+2026-07-18 H 2-2 v Artis | Friendlies Clubs | ?
+2026-07-12 H 0-1 v Podbeskidzie | Friendlies Clubs | ?
+2026-07-11 H 0-0 v Wrexham | Friendlies Clubs | ?
+2026-07-04 H 2-0 v Karviná | Friendlies Clubs | ?
+2026-07-01 H 4-0 v Puszcza Niepołomice | Friendlies Clubs | ?
+2026-06-27 H 3-4 v Nieciecza | Friendlies Clubs | ?
+2026-05-24 H 2-0 v Pogoń Siedlce | I Liga | ?
+2026-05-15 A 1-0 v Polonia Warszawa | I Liga | Warsaw
+Listed home: 12 games, scored 23 (1.92), conceded 10 (0.83), blanks 2, clean sheets 6
+Listed away: 8 games, scored 13 (1.62), conceded 16 (2.00), blanks 1, clean sheets 1
+All: 20 games, scored 36 (1.80), conceded 26 (1.30), blanks 3, clean sheets 7
+
+!! Widzew Lodz: No team found for "Widzew Lodz".
+
+TABLE FOR Wisla Krakow
+LEAGUE TABLE Ekstraklasa 2026 | 18 teams | 88 games played
+League averages per game: home 1.65, away 1.36, total 3.01
+#   team                   Pts | home P GF-GA  | away P GF-GA  | all P GF-GA
+1   Gornik Zabrze           25 |  4   8-6       |  6  11-3       | 10  19-9
+2   Lech Poznan             22 |  5  11-2       |  4  10-6       |  9  21-8
+3   Legia Warszawa          22 |  5  12-3       |  5   9-5       | 10  21-8
+4   Pogon Szczecin          18 |  6  10-5       |  3   4-1       |  9  14-6
+5   GKS Katowice            18 |  4  13-4       |  6   9-11      | 10  22-15
+6   Wisla Krakow            17 |  5  10-3       |  5   7-11      | 10  17-14
+7   Piast Gliwice           16 |  6  14-11      |  4   4-5       | 10  18-16
+8   Korona Kielce           15 |  5   6-7       |  5   6-5       | 10  12-12
+9   Zaglebie Lubin          15 |  5   6-4       |  5   6-9       | 10  12-13
+10  Jagiellonia             12 |  5   5-9       |  4   8-7       |  9  13-16
+11  Cracovia Krakow         11 |  5   8-7       |  5   4-8       | 10  12-15
+12  Wisla Plock             11 |  3   3-3       |  6   6-12      |  9   9-15
+13  Widzew Łódź              9 |  5   7-9       |  5   7-6       | 10  14-15
+14  Motor Lublin             9 |  5   4-7       |  5   8-10      | 10  12-17
+15  Wieczysta Kraków         8 |  3   5-3       |  7  10-16      | 10  15-19
+16  Radomiak Radom           8 |  6   7-10      |  4   2-13      | 10   9-23
+17  Slask Wroclaw            6 |  5   7-10      |  5   5-9       | 10  12-19
+18  Raków Częstochowa        3 |  6   9-17      |  4   4-8       | 10  13-25
+
+(14 API-Football requests used)
+
+----------------------------------------------------------------------
+MATCHBOOK: skipped (switched off for this run)

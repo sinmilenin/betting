@@ -1,0 +1,96 @@
+MATCH Deportivo La Coruna v Levante | fetched 2026-10-16 17:43 local
+
+FORM DATA Deportivo La Coruna v Levante | source API-Football | 2026-10-16 17:44 UTC
+H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
+
+=== Deportivo La Coruna (id 544): last 20 finished games ===
+2026-10-11 A 2-3 v Real Sociedad | La Liga | San Sebastian | xG 2.13-1.44
+2026-10-02 H 1-3 v FC Porto | Friendlies Clubs | ?
+2026-09-25 A 2-2 v Penafiel | Friendlies Clubs | ?
+2026-09-20 H 1-1 v Real Betis | La Liga | La Coruna | xG 2.09-0.80
+2026-09-16 H 0-1 v Sevilla | La Liga | La Coruna | xG 0.14-0.73
+2026-09-13 A 1-1 v Getafe | La Liga | Getafe | xG 0.87-0.78
+2026-09-05 A 3-2 v Villarreal | La Liga | Villarreal | xG 0.79-1.14
+2026-08-30 H 3-1 v Valencia | La Liga | La Coruna | xG 1.42-1.40
+2026-08-24 A 1-1 v Malaga | La Liga | Malaga | xG 1.12-1.95
+2026-08-17 H 1-1 v Elche | La Liga | La Coruna | xG 0.34-1.23
+2026-08-12 H 0-1 v Real Madrid | Friendlies Clubs | ?
+2026-08-08 A 1-0 v Genoa | Friendlies Clubs | ?
+2026-08-06 A 1-1 v Fiorentina | Friendlies Clubs | ?
+2026-08-01 A 2-2 v FC St. Pauli | Friendlies Clubs | ?
+2026-07-29 H 1-0 v Lugo | Friendlies Clubs | ?
+2026-07-25 A 0-0 v Oviedo | Friendlies Clubs | ?
+2026-07-18 A 4-0 v Compostela | Friendlies Clubs | ?
+2026-05-31 H 1-2 v Las Palmas | Segunda División | La Coruna
+2026-05-24 A 2-0 v Valladolid | Segunda División | Valladolid
+2026-05-17 H 2-1 v FC Andorra | Segunda División | La Coruna
+Listed home: 9 games, scored 10 (1.11), conceded 11 (1.22), blanks 2, clean sheets 1
+Listed away: 11 games, scored 19 (1.73), conceded 12 (1.09), blanks 1, clean sheets 4
+All: 20 games, scored 29 (1.45), conceded 23 (1.15), blanks 3, clean sheets 5
+
+"Levante" matches several teams. Use id:<number> instead of the name:
+  id:539    Levante (Spain)
+  id:1911   Levante W (Spain)
+  id:9591   Levante II (Spain)
+  id:17815  Sestri Levante (Italy)
+  id:19896  FC Levante Badalona W (Spain)
+  id:19924  Levante U20 (Spain)
+  id:28408  Levante (Greece)
+(retrying Levante using the opponent's country, Spain)
+NOTE: "Levante" matched 2 teams; picked Levante (Spain) because the opponent is from Spain. Others: Levante (Greece)
+=== Levante (id 539): last 20 finished games ===
+2026-10-12 H 3-3 v Sevilla | La Liga | Valencia | xG 1.87-2.22
+2026-09-20 A 1-3 v Villarreal | La Liga | Villarreal | xG 0.45-4.27
+2026-09-13 H 2-4 v Barcelona | La Liga | Valencia | xG 2.42-2.58
+2026-09-06 A 0-0 v Malaga | La Liga | Malaga | xG 0.81-1.46
+2026-08-29 H 5-2 v Real Betis | La Liga | Valencia | xG 2.76-1.92
+2026-08-24 A 0-0 v Osasuna | La Liga | Pamplona | xG 1.28-0.70
+2026-08-16 A 0-3 v Espanyol | La Liga | Cornella de Llobregat | xG 0.28-1.55
+2026-08-08 A 3-1 v Castellón | Friendlies Clubs | ?
+2026-08-05 A 0-1 v Villarreal | Friendlies Clubs | ?
+2026-08-01 H 2-1 v Albacete | Friendlies Clubs | ?
+2026-07-26 H 1-0 v Al-Qadisiyah FC | Friendlies Clubs | ?
+2026-07-17 H 1-2 v Sheffield Utd | Friendlies Clubs | ?
+2026-07-11 H 2-1 v Leganes | Friendlies Clubs | ?
+2026-05-23 A 1-2 v Real Betis | La Liga | Sevilla
+2026-05-17 H 2-0 v Mallorca | La Liga | Valencia
+2026-05-12 A 3-2 v Celta Vigo | La Liga | Vigo
+2026-05-08 H 3-2 v Osasuna | La Liga | Valencia
+2026-05-02 A 1-5 v Villarreal | La Liga | Villarreal
+2026-04-27 A 0-0 v Espanyol | La Liga | Cornella de Llobregat
+2026-04-23 H 2-0 v Sevilla | La Liga | Valencia
+Listed home: 10 games, scored 23 (2.30), conceded 15 (1.50), blanks 0, clean sheets 3
+Listed away: 10 games, scored 9 (0.90), conceded 17 (1.70), blanks 5, clean sheets 3
+All: 20 games, scored 32 (1.60), conceded 32 (1.60), blanks 5, clean sheets 6
+
+TABLE FOR Deportivo La Coruna
+LEAGUE TABLE La Liga 2026 | 20 teams | 78 games played
+League averages per game: home 1.76, away 1.33, total 3.09
+#   team                   Pts | home P GF-GA  | away P GF-GA  | all P GF-GA
+1   Barcelona               24 |  4  17-4       |  4  17-3       |  8  34-7
+2   Atletico Madrid         19 |  4  10-3       |  4   8-5       |  8  18-8
+3   Real Betis              19 |  4   8-2       |  4   6-7       |  8  14-9
+4   Real Madrid             18 |  4  13-2       |  4   6-6       |  8  19-8
+5   Sevilla                 14 |  4   5-7       |  4   8-5       |  8  13-12
+6   Real Sociedad           13 |  4   5-6       |  4   7-9       |  8  12-15
+7   Alaves                  11 |  5  10-5       |  3   2-3       |  8  12-8
+8   Deportivo La Coruna     10 |  4   5-4       |  4   7-7       |  8  12-11
+9   Celta Vigo               8 |  4   7-5       |  4   1-1       |  8   8-6
+10  Athletic Club            8 |  4   5-4       |  2   2-2       |  6   7-6
+11  Villarreal               8 |  3   6-6       |  5   7-7       |  8  13-13
+12  Espanyol                 8 |  4   6-6       |  4   5-5       |  8  11-11
+13  Rayo Vallecano           8 |  3   6-4       |  4   5-12      |  7  11-16
+14  Getafe                   8 |  4   4-2       |  4   0-8       |  8   4-10
+15  Racing Santander         8 |  4   9-7       |  4   4-16      |  8  13-23
+16  Osasuna                  8 |  4   2-3       |  4   6-15      |  8   8-18
+17  Levante                  6 |  3  10-9       |  4   1-6       |  7  11-15
+18  Elche                    6 |  4   4-11      |  4   7-6       |  8  11-17
+19  Valencia                 5 |  4   2-9       |  4   4-6       |  8   6-15
+20  Malaga                   4 |  4   3-5       |  4   1-8       |  8   4-13
+
+(Levante: same table as Deportivo La Coruna, shown above)
+
+(26 API-Football requests used)
+
+----------------------------------------------------------------------
+MATCHBOOK: skipped (switched off for this run)
