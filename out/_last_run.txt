@@ -1,4 +1,3 @@
-RUN 2026-10-16 13:58 local | 1 match(es)
-Otelul v Csikszereda -> out/Otelul_v_Csikszereda.txt
-    !! Otelul: Ambiguous team name "Otelul".
-Requests used: API-Football 15, Matchbook 0
+RUN 2026-10-16 13:59 local | 1 match(es)
+id:6886 v Csikszereda -> out/id_6886_v_Csikszereda.txt
+Requests used: API-Football 25, Matchbook 0
