@@ -1,7 +1,4 @@
-# 2026-10-16 19:47 scan retry: ids and corrected names
-Laval v id:99 | n=20 | xg=10
-Stade Nyonnais v id:551 | n=20 | xg=10
-id:504 v Catanzaro | n=20 | xg=10
-Widzew v Wisla Krakow | n=20 | xg=10
-St Patrick v Shelbourne | n=20 | xg=10
-Rapperswil v Gallen | n=20 | xg=10
+# 2026-10-16 19:50 scan retry 2: Widzew, St Patrick's and St Gallen by id
+id:6962 v Wisla Krakow | n=20 | xg=10
+id:3843 v Shelbourne | n=20 | xg=10
+Rapperswil v id:1011 | n=20 | xg=10
