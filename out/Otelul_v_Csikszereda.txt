@@ -1,8 +1,11 @@
-MATCH Otelul Galati v Csikszereda | fetched 2026-10-16 13:57 local
+MATCH Otelul v Csikszereda | fetched 2026-10-16 13:58 local
 
-FORM DATA Otelul Galati v Csikszereda | source API-Football | 2026-10-16 13:57 UTC
+FORM DATA Otelul v Csikszereda | source API-Football | 2026-10-16 13:58 UTC
 H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
 
+"Otelul" matches several teams. Use id:<number> instead of the name:
+  id:6886   Oţelul (Romania)
+  id:26676  FC Oţelul II (Romania)
 === Csikszereda (id 6230): last 20 finished games ===
 2026-10-11 H 0-1 v Universitatea Craiova | Liga I | Sfântu Gheorghe | xG 0.50-2.44
 2026-09-21 A 0-2 v Petrolul Ploiesti | Liga I | Ploiesti | xG 0.57-2.24
@@ -28,7 +31,11 @@ Listed home: 7 games, scored 6 (0.86), conceded 9 (1.29), blanks 3, clean sheets
 Listed away: 13 games, scored 10 (0.77), conceded 24 (1.85), blanks 6, clean sheets 2
 All: 20 games, scored 16 (0.80), conceded 33 (1.65), blanks 9, clean sheets 5
 
-!! Otelul Galati: No team found for "Otelul Galati".
+(retrying Otelul using the opponent's country, Romania)
+"Otelul" matches several teams. Use id:<number> instead of the name:
+  id:6886   Oţelul (Romania)
+  id:26676  FC Oţelul II (Romania)
+!! Otelul: Ambiguous team name "Otelul".
 
 TABLE FOR Csikszereda
 LEAGUE TABLE Liga I 2026 | 16 teams | 88 games played
@@ -51,7 +58,7 @@ League averages per game: home 1.75, away 0.92, total 2.67
 15  FC Voluntari             8 |  6   7-8       |  5   4-17      | 11  11-25
 16  Csikszereda              1 |  5   3-9       |  6   3-15      | 11   6-24
 
-(14 API-Football requests used)
+(15 API-Football requests used)
 
 ----------------------------------------------------------------------
 MATCHBOOK: skipped (switched off for this run)
