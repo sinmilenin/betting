@@ -1,3 +1,7 @@
-# 2026-10-16 22:50 scan: first analysis, team name retry
-Defensa y Justicia v id:478 | n=20 | xg=10
-Boca Jun v Atletico F | n=20 | xg=10
+# 2026-10-16 22:55 manual 8-hour scan (Valentino)
+Mirassol v Internacional | n=20 | xg=10
+Sport Recife v Fortaleza | n=20 | xg=10
+Boca Juniors v Talleres | n=20 | xg=10
+Necaxa v Atlas | n=20 | xg=10
+Tijuana v Puebla | n=20 | xg=10
+Auckland FC v Melbourne City | n=20 | xg=10
