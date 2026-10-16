@@ -1,3 +1,8 @@
-# 2026-10-16 16:53 scan retry 2: Rakow = id:3491; Hertha BSC (first run loaded Hertha women)
-id:17115 v id:3491 | n=20 | xg=10
-Holstein Kiel v Hertha BSC | n=20 | xg=10
+# 2026-10-16 17:28 scan: new fixtures in the 2-hour window
+Bani Yas v Al Wasl | n=20 | xg=10
+APR v Zamalek | n=20 | xg=10
+Rudes v Rijeka | n=20 | xg=10
+AC Horsens v Randers | n=20 | xg=10
+Naestved v B93 | n=20 | xg=10
+Brommapojkarna v Djurgarden | n=20 | xg=10
+Corum v Rizespor | n=20 | xg=10
