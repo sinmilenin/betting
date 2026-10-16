@@ -1,2 +1,2 @@
-# 2026-10-16 13:45 scan: Saudi Pro League 15:15
-Al-Qadisiyah v Abha | n=20 | xg=10
+# 2026-10-16 13:48 scan retry: hyphen not allowed in API-Football search
+Al Qadisiyah v Abha | n=20 | xg=10
