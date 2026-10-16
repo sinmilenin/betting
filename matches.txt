@@ -1,6 +1,2 @@
-# 2026-10-16 15:58 scan: Uzbek SL x2, ISL, Slovak 2 Liga, Romanian Liga I
-Bunyodkor v Sogdiana | n=20 | xg=10
-Kokand 1912 v Neftchi Fargona | n=20 | xg=10
-Sporting Club Delhi v Mohun Bagan | n=20 | xg=10
-Pohronie v Malzenice | n=20 | xg=10
-Otelul Galati v Csikszereda | n=20 | xg=10
+# 2026-10-16 16:01 scan retry: Otelul name fix (16:00 fixtures now in play, not re-run)
+Otelul v Csikszereda | n=20 | xg=10
