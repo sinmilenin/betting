@@ -1,3 +1,11 @@
-RUN 2026-10-16 11:45 local | 1 match(es)
-id:2933 v Abha -> out/id_2933_v_Abha.txt
-Requests used: API-Football 26, Matchbook 0
+RUN 2026-10-16 13:57 local | 5 match(es)
+Bunyodkor v Sogdiana -> out/Bunyodkor_v_Sogdiana.txt
+Kokand 1912 v Neftchi Fargona -> out/Kokand_1912_v_Neftchi_Fargona.txt
+    !! Kokand 1912: No team found for "Kokand 1912".
+    !! Neftchi Fargona: No team found for "Neftchi Fargona".
+Sporting Club Delhi v Mohun Bagan -> out/Sporting_Club_Delhi_v_Mohun_Bagan.txt
+    !! Sporting Club Delhi: No team found for "Sporting Club Delhi".
+Pohronie v Malzenice -> out/Pohronie_v_Malzenice.txt
+Otelul Galati v Csikszereda -> out/Otelul_Galati_v_Csikszereda.txt
+    !! Otelul Galati: No team found for "Otelul Galati".
+Requests used: API-Football 80, Matchbook 0

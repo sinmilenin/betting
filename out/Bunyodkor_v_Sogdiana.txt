@@ -1,0 +1,82 @@
+MATCH Bunyodkor v Sogdiana | fetched 2026-10-16 13:57 local
+
+FORM DATA Bunyodkor v Sogdiana | source API-Football | 2026-10-16 13:57 UTC
+H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
+
+=== Bunyodkor (id 4210): last 20 finished games ===
+2026-10-09 A 1-3 v Pakhtakor | Super League | Tashkent
+2026-09-19 H 2-1 v Buxoro | Super League | Tashkent
+2026-09-15 H 0-1 v Lokomotiv | Cup | Tashkent
+2026-09-09 A 0-3 v Nasaf | Super League | Qarshi
+2026-09-04 H 0-1 v Surkhon | Super League | Tashkent
+2026-08-26 A 1-4 v Lokomotiv | Super League | Tashkent
+2026-08-20 H 0-1 v Kokand-1912 | Super League | Tashkent
+2026-08-14 A 3-4 v Navbahor | Super League | Namangan
+2026-08-08 H 2-3 v Olmaliq | Super League | Tashkent
+2026-07-26 H 0-1 v Pakhtakor | Super League | Tashkent
+2026-07-21 A 0-1 v Buxoro | Super League | Bukhara
+2026-07-16 H 1-3 v Nasaf | Super League | Tashkent
+2026-05-03 A 0-1 v Kokand-1912 | Super League | Kokand
+2026-04-29 H 2-1 v Navbahor | Super League | Tashkent
+2026-04-24 H 1-3 v Andijan | Super League | Tashkent
+2026-04-19 A 3-2 v Sogdiana | Super League | Jizzakh
+2026-04-14 H 0-1 v Neftchi | Super League | Tashkent
+2026-04-07 A 1-0 v Mash'al | Super League | Guzar
+2026-04-02 H 2-0 v Lokomotiv | Super League | Tashkent
+2026-03-18 A 2-1 v Xorazm | Super League | Urgench
+Listed home: 11 games, scored 10 (0.91), conceded 16 (1.45), blanks 5, clean sheets 1
+Listed away: 9 games, scored 11 (1.22), conceded 19 (2.11), blanks 3, clean sheets 1
+All: 20 games, scored 21 (1.05), conceded 35 (1.75), blanks 8, clean sheets 2
+
+=== Sogdiana (id 4223): last 20 finished games ===
+2026-10-11 H 2-3 v Lokomotiv | Super League | Jizzakh
+2026-09-20 H 1-2 v Olmaliq | Super League | Jizzakh
+2026-09-10 A 0-0 v Xorazm | Super League | Urgench
+2026-09-05 H 5-2 v Mash'al | Super League | Jizzakh
+2026-08-30 H 2-0 v Jayxun | Cup | Jizzakh
+2026-08-23 A 0-3 v Neftchi | Super League | Fergana
+2026-08-18 H 2-1 v Qizilqum | Super League | Jizzakh
+2026-08-13 A 3-1 v Surkhon | Super League | Termez
+2026-08-06 H 1-0 v Andijan | Super League | Jizzakh
+2026-08-02 A 3-1 v Mash'al | Super League | Guzar
+2026-07-27 A 1-3 v Lokomotiv | Super League | Tashkent
+2026-07-21 H 1-5 v Neftchi | Super League | Jizzakh
+2026-07-16 H 2-0 v Xorazm | Super League | Jizzakh
+2026-05-02 A 1-2 v Buxoro | Super League | Bukhara
+2026-04-28 H 5-2 v Surkhon | Super League | Jizzakh
+2026-04-23 A 1-1 v Navbahor | Super League | Namangan
+2026-04-19 H 2-3 v Bunyodkor | Super League | Jizzakh
+2026-04-13 A 3-1 v Qizilqum | Super League | Navoiy
+2026-04-08 A 1-2 v Dinamo Samarqand | Super League | Samarkand
+2026-04-02 H 2-2 v Kokand-1912 | Super League | Jizzakh
+Listed home: 11 games, scored 25 (2.27), conceded 20 (1.82), blanks 0, clean sheets 3
+Listed away: 9 games, scored 13 (1.44), conceded 14 (1.56), blanks 2, clean sheets 1
+All: 20 games, scored 38 (1.90), conceded 34 (1.70), blanks 2, clean sheets 4
+
+TABLE FOR Bunyodkor
+LEAGUE TABLE Super League 2026 | 16 teams | 186 games played
+League averages per game: home 1.46, away 1.23, total 2.69
+#   team                   Pts | home P GF-GA  | away P GF-GA  | all P GF-GA
+1   Pakhtakor               52 | 12  24-13      | 11  18-8       | 23  42-21
+2   Neftchi                 52 | 12  30-8       | 11  22-11      | 23  52-19
+3   Navbahor                45 | 11  22-14      | 12  19-9       | 23  41-23
+4   Olmaliq                 39 | 12  15-16      | 12  19-15      | 24  34-31
+5   Lokomotiv               38 | 11  20-11      | 12  19-19      | 23  39-30
+6   Nasaf                   37 | 12  18-10      | 11  17-12      | 23  35-22
+7   Buxoro                  37 | 12  22-12      | 11  13-19      | 23  35-31
+8   Qizilqum                33 | 12  15-14      | 12   9-16      | 24  24-30
+9   Andijan                 30 | 13  16-15      | 11  13-17      | 24  29-32
+10  Dinamo Samarqand        30 | 11  17-14      | 12  17-22      | 23  34-36
+11  Sogdiana                28 | 12  25-26      | 11  15-20      | 23  40-46
+12  Surkhon                 27 | 11   9-13      | 12  10-15      | 23  19-28
+13  Kokand-1912             23 | 11  13-12      | 12   9-18      | 23  22-30
+14  Bunyodkor               22 | 11  11-17      | 12  12-22      | 23  23-39
+15  Xorazm                  22 | 11  11-16      | 12   9-18      | 23  20-34
+16  Mash'al                  4 | 12   4-17      | 12   7-31      | 24  11-48
+
+(Sogdiana: same table as Bunyodkor, shown above)
+
+(25 API-Football requests used)
+
+----------------------------------------------------------------------
+MATCHBOOK: skipped (switched off for this run)

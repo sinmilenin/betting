@@ -1,0 +1,57 @@
+MATCH Otelul Galati v Csikszereda | fetched 2026-10-16 13:57 local
+
+FORM DATA Otelul Galati v Csikszereda | source API-Football | 2026-10-16 13:57 UTC
+H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
+
+=== Csikszereda (id 6230): last 20 finished games ===
+2026-10-11 H 0-1 v Universitatea Craiova | Liga I | Sfântu Gheorghe | xG 0.50-2.44
+2026-09-21 A 0-2 v Petrolul Ploiesti | Liga I | Ploiesti | xG 0.57-2.24
+2026-09-11 H 1-3 v Dinamo Bucuresti | Liga I | Miercurea Ciuc | xG 0.77-2.16
+2026-09-05 A 1-5 v Uta Arad | Liga I | Arad | xG 1.37-2.92
+2026-09-02 A 2-0 v Gloria Bistriţa | Cupa României | ?
+2026-08-29 H 2-3 v CFR 1907 Cluj | Liga I | Miercurea Ciuc | xG 0.96-2.02
+2026-08-24 A 0-1 v FC Botosani | Liga I | Botosani | xG 1.03-1.95
+2026-08-20 A 1-1 v CSA Steaua Bucureşti | Cupa României | ? [AET, 90-min score shown]
+2026-08-15 H 0-0 v Sepsi OSK Sfantu Gheorghe | Liga I | Miercurea Ciuc | xG 1.34-1.31
+2026-08-08 A 2-3 v Farul Constanta | Liga I | Ovidiu
+2026-07-31 A 0-1 v Arges Pitesti | Liga I | Mioveni
+2026-07-26 H 0-2 v FCSB | Liga I | Miercurea Ciuc
+2026-07-20 A 0-3 v Corvinul Hunedoara | Liga I | Arad
+2026-07-08 A 1-3 v NK Slaven Belupo | Friendlies Clubs | ?
+2026-07-04 A 1-2 v Zbrojovka Brno | Friendlies Clubs | ?
+2026-07-01 A 2-0 v Radnicki NIS | Friendlies Clubs | ?
+2026-06-20 A 0-2 v Sepsi OSK Sfantu Gheorghe | Friendlies Clubs | ?
+2026-05-16 H 2-0 v FC Botosani | Liga I | Miercurea Ciuc
+2026-05-08 A 0-1 v Uta Arad | Liga I | Arad
+2026-05-01 H 1-0 v FCSB | Liga I | Miercurea Ciuc
+Listed home: 7 games, scored 6 (0.86), conceded 9 (1.29), blanks 3, clean sheets 3
+Listed away: 13 games, scored 10 (0.77), conceded 24 (1.85), blanks 6, clean sheets 2
+All: 20 games, scored 16 (0.80), conceded 33 (1.65), blanks 9, clean sheets 5
+
+!! Otelul Galati: No team found for "Otelul Galati".
+
+TABLE FOR Csikszereda
+LEAGUE TABLE Liga I 2026 | 16 teams | 88 games played
+League averages per game: home 1.75, away 0.92, total 2.67
+#   team                   Pts | home P GF-GA  | away P GF-GA  | all P GF-GA
+1   Dinamo Bucuresti        26 |  5  17-3       |  6   8-4       | 11  25-7
+2   Rapid                   24 |  6  10-5       |  5   8-4       | 11  18-9
+3   Universitatea Craiova   23 |  6  20-2       |  5   5-7       | 11  25-9
+4   Petrolul Ploiesti       19 |  5   6-2       |  6   8-13      | 11  14-15
+5   Universitatea Cluj      18 |  6  14-10      |  5   6-8       | 11  20-18
+6   Farul Constanta         17 |  5  12-5       |  6   5-10      | 11  17-15
+7   Corvinul Hunedoara      16 |  6  11-5       |  5   3-6       | 11  14-11
+8   CFR 1907 Cluj           16 |  5  10-4       |  6   7-13      | 11  17-17
+9   FCSB                    15 |  6  11-9       |  5   3-8       | 11  14-17
+10  FC Botosani             14 |  5   9-1       |  6   7-11      | 11  16-12
+11  Sepsi OSK Sfantu Gheor  13 |  5   5-4       |  6   2-8       | 11   7-12
+12  Uta Arad                12 |  5   8-3       |  6   6-14      | 11  14-17
+13  Arges Pitesti           11 |  6   4-4       |  5   2-7       | 11   6-11
+14  Oţelul                  10 |  6   7-7       |  5   4-9       | 11  11-16
+15  FC Voluntari             8 |  6   7-8       |  5   4-17      | 11  11-25
+16  Csikszereda              1 |  5   3-9       |  6   3-15      | 11   6-24
+
+(14 API-Football requests used)
+
+----------------------------------------------------------------------
+MATCHBOOK: skipped (switched off for this run)
