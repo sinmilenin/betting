@@ -1,0 +1,57 @@
+MATCH St Polten v Rapid Wien II | fetched 2026-10-16 16:13 local
+
+FORM DATA St Polten v Rapid Wien II | source API-Football | 2026-10-16 16:13 UTC
+H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
+
+=== Rapid Wien II (id 8247): last 20 finished games ===
+2026-10-10 H 1-2 v Wacker Innsbruck | 2. Liga | Vienna
+2026-09-20 A 1-4 v Austria Vienna (Am) | 2. Liga | Vienna
+2026-09-11 H 0-2 v First Vienna | 2. Liga | Vienna
+2026-08-30 A 2-5 v Sturm Graz II | 2. Liga | Gleisdorf
+2026-08-22 H 0-2 v Floridsdorfer AC | 2. Liga | Vienna
+2026-08-14 A 2-1 v WSPG Wels | 2. Liga | Wels
+2026-08-08 H 1-3 v Voitsberg | 2. Liga | Vienna
+2026-07-31 A 1-0 v Admira Wacker | 2. Liga | Maria Enzersdorf
+2026-07-24 A 3-1 v Gloggnitz | Friendlies Clubs | ?
+2026-07-14 A 6-1 v Fach-Donaufeld | Friendlies Clubs | ?
+2026-07-10 A 2-2 v Mannsdorf-Großenzersdorf | Friendlies Clubs | ?
+2026-06-26 H 6-1 v Donau | Friendlies Clubs | ?
+2026-06-19 H 3-2 v Oberwart | Friendlies Clubs | ?
+2026-05-14 A 2-1 v Sturm Graz II | 2. Liga | Gleisdorf
+2026-05-08 H 1-0 v First Vienna | 2. Liga | Vienna
+2026-05-03 A 1-2 v Austria Klagenfurt | 2. Liga | Klagenfurt
+2026-04-23 H 2-0 v Leobendorf | Friendlies Clubs | ?
+2026-04-17 A 0-3 v Austria Lustenau | 2. Liga | Lustenau
+2026-04-10 H 1-4 v WSPG Wels | 2. Liga | Vienna
+2026-04-06 A 2-0 v SV Kapfenberg | 2. Liga | Kapfenberg
+Listed home: 9 games, scored 15 (1.67), conceded 16 (1.78), blanks 2, clean sheets 2
+Listed away: 11 games, scored 22 (2.00), conceded 20 (1.82), blanks 1, clean sheets 2
+All: 20 games, scored 37 (1.85), conceded 36 (1.80), blanks 3, clean sheets 4
+
+!! St Polten: No team found for "St Polten".
+
+TABLE FOR Rapid Wien II
+LEAGUE TABLE 2. Liga 2026 | 16 teams | 64 games played
+League averages per game: home 1.91, away 1.34, total 3.25
+#   team                   Pts | home P GF-GA  | away P GF-GA  | all P GF-GA
+1   FC BW Linz              19 |  4  15-2       |  4   6-3       |  8  21-5
+2   First Vienna            19 |  4  10-3       |  4   7-5       |  8  17-8
+3   Austria Vienna (Am)     15 |  4   9-5       |  4   5-6       |  8  14-11
+4   Wacker Innsbruck        14 |  3   7-1       |  5   5-8       |  8  12-9
+5   Floridsdorfer AC        13 |  4   9-2       |  4   5-10      |  8  14-12
+6   Austria Salzburg        13 |  4  12-7       |  4   4-6       |  8  16-13
+7   SKU Amstetten           13 |  4   8-5       |  4   7-7       |  8  15-12
+8   FC Liefering            13 |  4   8-8       |  4   9-8       |  8  17-16
+9   Admira Wacker           12 |  4   4-4       |  4   6-6       |  8  10-10
+10  Schwarz-Weiß Bregenz    10 |  3  10-3       |  5   1-10      |  8  11-13
+11  SKN ST. Polten           9 |  4   3-3       |  4   4-6       |  8   7-9
+12  Voitsberg                9 |  4   5-5       |  4   7-10      |  8  12-15
+13  Sturm Graz II            8 |  4  11-8       |  4   5-13      |  8  16-21
+14  WSPG Wels                7 |  5   4-10      |  3   5-7       |  8   9-17
+15  Rapid Wien II            6 |  4   2-9       |  4   6-10      |  8   8-19
+16  SV Kapfenberg            3 |  5   5-11      |  3   4-7       |  8   9-18
+
+(14 API-Football requests used)
+
+----------------------------------------------------------------------
+MATCHBOOK: skipped (switched off for this run)

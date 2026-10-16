@@ -1,0 +1,64 @@
+MATCH Dinamo Bucuresti v Botosani | fetched 2026-10-16 16:13 local
+
+FORM DATA Dinamo Bucuresti v Botosani | source API-Football | 2026-10-16 16:13 UTC
+H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
+
+=== Dinamo Bucuresti (id 635): last 20 finished games ===
+2026-10-09 A 2-0 v Sepsi OSK Sfantu Gheorghe | Liga I | Sfântu Gheorghe | xG 2.58-0.90
+2026-09-20 H 4-0 v Farul Constanta | Liga I | Bucharest | xG 2.73-1.36
+2026-09-11 A 3-1 v Csikszereda | Liga I | Miercurea Ciuc | xG 2.16-0.77
+2026-09-05 H 2-1 v FCSB | Liga I | Bucharest | xG 3.26-0.68
+2026-09-02 A 4-1 v Sporting Lieşti | Cupa României | Galati
+2026-08-29 A 1-1 v Corvinul Hunedoara | Liga I | Arad | xG 1.97-0.87
+2026-08-22 H 2-1 v Universitatea Cluj | Liga I | Bucharest
+2026-08-15 A 1-0 v Rapid | Liga I | Bucharest | xG 1.41-1.70
+2026-08-08 H 4-0 v FC Voluntari | Liga I | Bucharest
+2026-07-31 A 1-1 v Oţelul | Liga I | Galati
+2026-07-25 H 5-1 v Universitatea Craiova | Liga I | Bucharest
+2026-07-19 A 0-1 v Petrolul Ploiesti | Liga I | Ploiesti
+2026-07-11 H 1-3 v Farul Constanta | Friendlies Clubs | ?
+2026-07-01 A 1-2 v Omonia Nicosia | Friendlies Clubs | ?
+2026-07-01 A 4-0 v ŁKS Łódź | Friendlies Clubs | ?
+2026-06-27 A 1-3 v Motor Lublin | Friendlies Clubs | ?
+2026-06-20 A 2-1 v Górnik Łęczna | Friendlies Clubs | ?
+2026-05-29 H 1-1 v FCSB | Liga I | Bucharest [AET, 90-min score shown]
+2026-05-23 A 1-1 v Universitatea Cluj | Liga I | Cluj-Napoca
+2026-05-16 H 0-0 v CFR 1907 Cluj | Liga I | Bucharest
+Listed home: 8 games, scored 19 (2.38), conceded 7 (0.88), blanks 1, clean sheets 3
+Listed away: 12 games, scored 21 (1.75), conceded 12 (1.00), blanks 1, clean sheets 3
+All: 20 games, scored 40 (2.00), conceded 19 (0.95), blanks 2, clean sheets 6
+
+"Botosani" matches several teams. Use id:<number> instead of the name:
+  id:2581   FC Botosani (Romania)
+  id:14581  Dante Botoşani (Romania)
+(retrying Botosani using the opponent's country, Romania)
+"Botosani" matches several teams. Use id:<number> instead of the name:
+  id:2581   FC Botosani (Romania)
+  id:14581  Dante Botoşani (Romania)
+!! Botosani: Ambiguous team name "Botosani".
+
+TABLE FOR Dinamo Bucuresti
+LEAGUE TABLE Liga I 2026 | 16 teams | 88 games played
+League averages per game: home 1.75, away 0.92, total 2.67
+#   team                   Pts | home P GF-GA  | away P GF-GA  | all P GF-GA
+1   Dinamo Bucuresti        26 |  5  17-3       |  6   8-4       | 11  25-7
+2   Rapid                   24 |  6  10-5       |  5   8-4       | 11  18-9
+3   Universitatea Craiova   23 |  6  20-2       |  5   5-7       | 11  25-9
+4   Petrolul Ploiesti       19 |  5   6-2       |  6   8-13      | 11  14-15
+5   Universitatea Cluj      18 |  6  14-10      |  5   6-8       | 11  20-18
+6   Farul Constanta         17 |  5  12-5       |  6   5-10      | 11  17-15
+7   Corvinul Hunedoara      16 |  6  11-5       |  5   3-6       | 11  14-11
+8   CFR 1907 Cluj           16 |  5  10-4       |  6   7-13      | 11  17-17
+9   FCSB                    15 |  6  11-9       |  5   3-8       | 11  14-17
+10  FC Botosani             14 |  5   9-1       |  6   7-11      | 11  16-12
+11  Sepsi OSK Sfantu Gheor  13 |  5   5-4       |  6   2-8       | 11   7-12
+12  Uta Arad                12 |  5   8-3       |  6   6-14      | 11  14-17
+13  Arges Pitesti           11 |  6   4-4       |  5   2-7       | 11   6-11
+14  Oţelul                  10 |  6   7-7       |  5   4-9       | 11  11-16
+15  FC Voluntari             8 |  6   7-8       |  5   4-17      | 11  11-25
+16  Csikszereda              1 |  5   3-9       |  6   3-15      | 11   6-24
+
+(15 API-Football requests used)
+
+----------------------------------------------------------------------
+MATCHBOOK: skipped (switched off for this run)

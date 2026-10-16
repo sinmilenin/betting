@@ -1,0 +1,84 @@
+MATCH Grenoble v Boulogne | fetched 2026-10-16 16:13 local
+
+FORM DATA Grenoble v Boulogne | source API-Football | 2026-10-16 16:13 UTC
+H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
+
+=== Grenoble (id 101): last 20 finished games ===
+2026-10-09 A 0-2 v Montpellier | Ligue 2 | Montpellier
+2026-10-02 H 0-0 v Stade Lausanne-Ouchy | Friendlies Clubs | ?
+2026-09-18 H 1-1 v Clermont Foot | Ligue 2 | Grenoble
+2026-09-11 A 1-0 v Rodez | Ligue 2 | Rodez
+2026-09-04 H 1-2 v Annecy | Ligue 2 | Grenoble
+2026-08-28 A 3-0 v Laval | Ligue 2 | Laval
+2026-08-22 A 0-4 v Saint Etienne | Ligue 2 | Saint Etienne
+2026-08-14 H 0-0 v Metz | Ligue 2 | Grenoble
+2026-08-08 A 2-4 v Dunkerque | Ligue 2 | Dunkerque
+2026-08-01 A 2-3 v Andrézieux | Friendlies Clubs | ?
+2026-08-01 A 1-1 v Clermont Foot | Friendlies Clubs | ?
+2026-07-25 H 0-3 v Estac Troyes | Friendlies Clubs | ?
+2026-07-18 A 0-1 v Sochaux | Friendlies Clubs | ?
+2026-07-15 H 5-2 v Villefranche | Friendlies Clubs | ?
+2026-07-11 H 0-0 v Bourg-en-bresse 01 | Friendlies Clubs | ?
+2026-05-09 H 1-0 v Estac Troyes | Ligue 2 | Grenoble
+2026-05-02 A 1-0 v Dunkerque | Ligue 2 | Dunkerque
+2026-04-25 H 1-1 v Le Mans | Ligue 2 | Grenoble
+2026-04-17 A 1-2 v Montpellier | Ligue 2 | Montpellier
+2026-04-10 A 1-1 v Guingamp | Ligue 2 | Guingamp
+Listed home: 9 games, scored 9 (1.00), conceded 9 (1.00), blanks 4, clean sheets 4
+Listed away: 11 games, scored 12 (1.09), conceded 18 (1.64), blanks 3, clean sheets 3
+All: 20 games, scored 21 (1.05), conceded 27 (1.35), blanks 7, clean sheets 7
+
+=== Boulogne (id 1299): last 20 finished games ===
+2026-10-09 A 1-1 v Sochaux | Ligue 2 | Montbeliard
+2026-10-02 A 1-6 v Le Havre | Friendlies Clubs | ?
+2026-09-19 H 1-2 v Nantes | Ligue 2 | Boulogne-Sur-Mer
+2026-09-11 A 0-0 v Clermont Foot | Ligue 2 | Clermont-Ferrand
+2026-09-04 H 1-1 v Dijon | Ligue 2 | Boulogne-sur-Mer
+2026-08-28 A 0-0 v Montpellier | Ligue 2 | Montpellier
+2026-08-21 H 1-1 v RED Star FC 93 | Ligue 2 | Boulogne-sur-Mer
+2026-08-14 A 0-1 v Guingamp | Ligue 2 | Guingamp
+2026-08-08 H 0-0 v Nancy | Ligue 2 | Boulogne-sur-Mer
+2026-07-31 A 1-1 v Valenciennes | Friendlies Clubs | ?
+2026-07-25 H 0-1 v Rouen | Friendlies Clubs | ?
+2026-07-24 A 1-0 v Amiens | Friendlies Clubs | ?
+2026-07-18 A 1-4 v Lens | Friendlies Clubs | ?
+2026-07-15 A 2-0 v Fleury 91 | Friendlies Clubs | ?
+2026-07-08 H 0-1 v Versailles | Friendlies Clubs | ?
+2026-07-04 A 0-0 v Anderlecht | Friendlies Clubs | ?
+2026-05-09 A 1-2 v Laval | Ligue 2 | Laval
+2026-05-02 H 1-2 v Annecy | Ligue 2 | Boulogne-sur-Mer
+2026-04-27 H 2-6 v Dunkerque | Ligue 2 | Boulogne-sur-Mer
+2026-04-18 A 0-1 v Estac Troyes | Ligue 2 | Troyes
+Listed home: 8 games, scored 6 (0.75), conceded 14 (1.75), blanks 3, clean sheets 1
+Listed away: 12 games, scored 8 (0.67), conceded 16 (1.33), blanks 5, clean sheets 5
+All: 20 games, scored 14 (0.70), conceded 30 (1.50), blanks 8, clean sheets 6
+
+TABLE FOR Grenoble
+LEAGUE TABLE Ligue 2 2026 | 18 teams | 72 games played
+League averages per game: home 1.38, away 1.21, total 2.58
+#   team                   Pts | home P GF-GA  | away P GF-GA  | all P GF-GA
+1   Saint Etienne           19 |  4  12-2       |  4   9-6       |  8  21-8
+2   RED Star FC 93          17 |  3   2-4       |  5  10-5       |  8  12-9
+3   Montpellier             15 |  4   4-1       |  4   4-4       |  8   8-5
+4   Reims                   14 |  4   9-7       |  4   6-2       |  8  15-9
+5   Nancy                   13 |  4   4-3       |  4   5-4       |  8   9-7
+6   Annecy                  13 |  3   4-3       |  5   6-6       |  8  10-9
+7   Dijon                   12 |  4   9-8       |  4   5-4       |  8  14-12
+8   PAU                     11 |  5   6-5       |  3   3-3       |  8   9-8
+9   Sochaux                 11 |  4   3-4       |  4   2-2       |  8   5-6
+10  Metz                    10 |  4   9-5       |  4   3-6       |  8  12-11
+11  Guingamp                 8 |  4   7-7       |  4   3-6       |  8  10-13
+12  Dunkerque                8 |  5   7-6       |  3   3-7       |  8  10-13
+13  Nantes                   8 |  4   3-6       |  4   6-7       |  8   9-13
+14  Grenoble                 8 |  3   2-3       |  5   6-10      |  8   8-13
+15  Rodez                    7 |  4   8-8       |  4   6-10      |  8  14-18
+16  Boulogne                 6 |  4   3-4       |  4   1-2       |  8   4-6
+17  Clermont Foot            6 |  5   3-4       |  3   3-5       |  8   6-9
+18  Laval                    5 |  4   4-7       |  4   6-10      |  8  10-17
+
+(Boulogne: same table as Grenoble, shown above)
+
+(24 API-Football requests used)
+
+----------------------------------------------------------------------
+MATCHBOOK: skipped (switched off for this run)

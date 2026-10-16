@@ -1,7 +1,21 @@
-RUN 2026-10-16 15:30 local | 5 match(es)
-Rudes v id:561 -> out/Rudes_v_id_561.txt
-AC Horsens v id:401 -> out/AC_Horsens_v_id_401.txt
-Naestved v B 93 -> out/Naestved_v_B_93.txt
-id:371 v id:364 -> out/id_371_v_id_364.txt
-id:6343 v Rizespor -> out/id_6343_v_Rizespor.txt
-Requests used: API-Football 125, Matchbook 0
+RUN 2026-10-16 16:13 local | 12 match(es)
+St Polten v Rapid Wien II -> out/St_Polten_v_Rapid_Wien_II.txt
+    !! St Polten: No team found for "St Polten".
+Rapid Wien v Hartberg -> out/Rapid_Wien_v_Hartberg.txt
+    !! Rapid Wien: Ambiguous team name "Rapid Wien".
+    !! Hartberg: Ambiguous team name "Hartberg".
+Helmond v NAC Breda -> out/Helmond_v_NAC_Breda.txt
+Norwich U21 v West Ham U21 -> out/Norwich_U21_v_West_Ham_U21.txt
+    !! Norwich U21: No team found for "Norwich U21".
+    !! West Ham U21: No team found for "West Ham U21".
+Annecy v Nancy -> out/Annecy_v_Nancy.txt
+Guingamp v Pau -> out/Guingamp_v_Pau.txt
+Grenoble v Boulogne -> out/Grenoble_v_Boulogne.txt
+Den Bosch v Oss -> out/Den_Bosch_v_Oss.txt
+    !! Oss: Ambiguous team name "Oss".
+Dinamo Bucuresti v Botosani -> out/Dinamo_Bucuresti_v_Botosani.txt
+    !! Botosani: Ambiguous team name "Botosani".
+VVV Venlo v Jong AZ -> out/VVV_Venlo_v_Jong_AZ.txt
+Heerenveen v Excelsior -> out/Heerenveen_v_Excelsior.txt
+Reims v Dijon -> out/Reims_v_Dijon.txt
+Requests used: API-Football 218, Matchbook 0
