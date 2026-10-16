@@ -1,2 +1,4 @@
-# 2026-10-16 21:13 scan: first analysis
-Los Chankas v ADT | n=20 | xg=10
+# 2026-10-16 22:45 scan: first analysis
+Defensa y Justicia v Instituto | n=20 | xg=10
+Boca Juniors de Cali v Atletico FC | n=20 | xg=10
+Ponte Preta v Atletico Goianiense | n=20 | xg=10
