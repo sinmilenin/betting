@@ -1,3 +1,7 @@
-RUN 2026-10-17 07:12 local | 1 match(es)
-Central Coast Mariners v Newcastle Jets -> out/Central_Coast_Mariners_v_Newcastle_Jets.txt
-Requests used: API-Football 27, Matchbook 0
+RUN 2026-10-17 08:42 local | 3 match(es)
+Tegevajaro Miyazaki v Jubilo Iwata -> out/Tegevajaro_Miyazaki_v_Jubilo_Iwata.txt
+Kashiwa Reysol v Nagoya Grampus -> out/Kashiwa_Reysol_v_Nagoya_Grampus.txt
+Erzurumspor v Eyupspor -> out/Erzurumspor_v_Eyupspor.txt
+    !! Erzurumspor: Ambiguous team name "Erzurumspor".
+    !! Eyupspor: Ambiguous team name "Eyupspor".
+Requests used: API-Football 54, Matchbook 0

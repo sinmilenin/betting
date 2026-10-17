@@ -1,0 +1,19 @@
+MATCH Erzurumspor v Eyupspor | fetched 2026-10-17 08:42 local
+
+FORM DATA Erzurumspor v Eyupspor | source API-Football | 2026-10-17 08:42 UTC
+H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
+
+"Erzurumspor" matches several teams. Use id:<number> instead of the name:
+  id:1009   Erzurumspor FK (Turkey)
+  id:28243  Erzurumspor U19 (Turkey)
+"Eyupspor" matches several teams. Use id:<number> instead of the name:
+  id:3588   Eyüpspor (Turkey)
+  id:28244  Eyupspor U19 (Turkey)
+!! Erzurumspor: Ambiguous team name "Erzurumspor".
+
+!! Eyupspor: Ambiguous team name "Eyupspor".
+
+(2 API-Football requests used)
+
+----------------------------------------------------------------------
+MATCHBOOK: skipped (switched off for this run)
