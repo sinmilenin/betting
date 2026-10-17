@@ -1,28 +1,32 @@
-MATCH Boyaca Chico v Atletico Nacional | fetched 2026-10-17 18:27 local
+MATCH Chico v Atletico Nacional | fetched 2026-10-17 18:29 local
 
-FORM DATA Boyaca Chico v Atletico Nacional | source API-Football | 2026-10-17 18:27 UTC
+FORM DATA Chico v Atletico Nacional | source API-Football | 2026-10-17 18:29 UTC
 H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
 
-=== Boyacá Chicó W (id 20878): last 16 finished games ===
-2023-05-23 H 1-1 v Junior W | Liga Femenina | Yopal
-2023-05-18 A 0-0 v Deportivo Cali W | Liga Femenina | Palmira
-2023-05-13 H 2-1 v Millonarios W | Liga Femenina | Yopal
-2023-05-07 A 1-1 v Deportivo Pasto W | Liga Femenina | San Juan de Pasto
-2023-04-30 H 0-0 v Real San Andrés W | Liga Femenina | Yopal
-2023-04-25 A 3-1 v Deportes Tolima W | Liga Femenina | Ibagué
-2023-04-16 H 2-0 v Independiente Medellín W | Liga Femenina | Yopal
-2023-04-03 A 1-1 v Atlético Huila W | Liga Femenina | Neiva
-2023-03-26 H 0-3 v América de Cali W | Liga Femenina | Yopal
-2023-03-18 A 0-0 v Atlético Bucaramanga W | Liga Femenina | Floridablanca
-2023-03-11 H 0-2 v Santa Fe W | Liga Femenina | Yopal
-2023-03-06 A 0-2 v Llaneros W | Liga Femenina | Villavicencio
-2023-03-02 H 1-1 v Cortuluá W | Liga Femenina | Yopal
-2023-02-26 A 1-0 v La Equidad W | Liga Femenina | Bogotá, D.C.
-2023-02-12 H 1-2 v Deportivo Pereira W | Liga Femenina | Yopal
-2023-02-07 A 0-0 v Atlético Nacional W | Liga Femenina | Medellín
-Listed home: 8 games, scored 7 (0.88), conceded 10 (1.25), blanks 3, clean sheets 2
-Listed away: 8 games, scored 6 (0.75), conceded 5 (0.62), blanks 4, clean sheets 4
-All: 16 games, scored 13 (0.81), conceded 15 (0.94), blanks 7, clean sheets 6
+=== Chico (id 1132): last 20 finished games ===
+2026-10-11 H 0-1 v Cucuta | Primera A | Tunja | xG 0.50-0.87
+2026-10-03 A 0-0 v Deportes Tolima | Primera A | Iwag
+2026-09-25 H 3-0 v Deportivo Pasto | Primera A | Tunja | xG 0.73-1.31
+2026-09-19 A 0-3 v Millonarios | Primera A | Bogota | xG 0.49-2.09
+2026-09-16 H 1-2 v Alianza Valledupar | Primera A | Tunja
+2026-09-12 H 2-1 v Independiente Medellin | Primera A | Tunja | xG 1.51-0.95
+2026-09-05 H 2-0 v Once Caldas | Primera A | Tunja | xG 0.36-0.77
+2026-08-30 A 2-2 v Águilas Doradas | Primera A | Medellin | xG 1.29-1.40
+2026-08-26 H 0-0 v Fortaleza FC | Primera A | Tunja | xG 1.04-0.15
+2026-08-21 A 0-1 v Jaguares | Primera A | Monteria | xG 1.23-0.78
+2026-08-08 A 0-2 v Santa Fe | Primera A | Bogota
+2026-08-02 A 0-7 v America de Cali | Primera A | Santiago de Cali
+2026-05-27 H 0-1 v Llaneros | Copa Colombia | Tunja
+2026-05-23 A 2-2 v Millonarios | Copa Colombia | Bogota
+2026-05-16 H 4-0 v Depor FC | Copa Colombia | Tunja
+2026-05-07 A 0-0 v Patriotas | Copa Colombia | Tunja
+2026-05-02 H 3-0 v Llaneros | Primera A | Tunja
+2026-04-27 A 0-4 v Internacional de Bogota | Primera A | Bogota
+2026-04-22 A 0-2 v Independiente Medellin | Primera A | Medellin
+2026-04-17 H 1-0 v Deportivo Cali | Primera A | Tunja
+Listed home: 10 games, scored 16 (1.60), conceded 5 (0.50), blanks 3, clean sheets 6
+Listed away: 10 games, scored 4 (0.40), conceded 23 (2.30), blanks 8, clean sheets 2
+All: 20 games, scored 20 (1.00), conceded 28 (1.40), blanks 11, clean sheets 8
 
 === Atletico Nacional (id 1137): last 20 finished games ===
 2026-10-15 H 3-2 v Independiente Medellin | Copa Colombia | ?
@@ -49,9 +53,7 @@ Listed home: 12 games, scored 22 (1.83), conceded 9 (0.75), blanks 1, clean shee
 Listed away: 8 games, scored 15 (1.88), conceded 10 (1.25), blanks 3, clean sheets 2
 All: 20 games, scored 37 (1.85), conceded 19 (0.95), blanks 4, clean sheets 7
 
-(no league table available for Boyacá Chicó W: tried Liga Femenina 2023)
-
-TABLE FOR Atletico Nacional
+TABLE FOR Chico
 LEAGUE TABLE Primera A 2026 | 40 teams | 318 games played
 League averages per game: home 1.50, away 1.05, total 2.55
 #   team                   Pts | home P GF-GA  | away P GF-GA  | all P GF-GA
@@ -96,7 +98,9 @@ League averages per game: home 1.50, away 1.05, total 2.55
 19  Deportivo Pereira       10 |  6   3-9       |  7   5-9       | 13   8-18 [Clausura]
 20  Deportivo Pasto          9 |  6   3-7       |  6   6-11      | 12   9-18 [Clausura]
 
-(27 API-Football requests used)
+(Atletico Nacional: same table as Chico, shown above)
+
+(26 API-Football requests used)
 
 ----------------------------------------------------------------------
 MATCHBOOK: skipped (switched off for this run)
