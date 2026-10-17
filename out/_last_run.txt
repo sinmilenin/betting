@@ -1,6 +1,6 @@
-RUN 2026-10-17 10:17 local | 2 match(es)
-Qingdao Jonoon v Shenyang Urban -> out/Qingdao_Jonoon_v_Shenyang_Urban.txt
-Hamarkameratene v Glimt -> out/Hamarkameratene_v_Glimt.txt
-    !! Hamarkameratene: No team found for "Hamarkameratene".
-    !! Glimt: Ambiguous team name "Glimt".
+RUN 2026-10-17 10:18 local | 2 match(es)
+Ham Kam v id:327 -> out/Ham_Kam_v_id_327.txt
+    !! Ham Kam: No team found for "Ham Kam".
+HamKam Fotball v id:327 -> out/HamKam_Fotball_v_id_327.txt
+    !! HamKam Fotball: No team found for "HamKam Fotball".
 Requests used: API-Football 27, Matchbook 0
