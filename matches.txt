@@ -1,4 +1,2 @@
-# 2026-10-17 13:56 scheduled scan: team name retries 2
-KTP Kotka v id:2085 | n=20 | xg=10
-Lamelas v Vitoria SC | n=20 | xg=10
-EIF v id:9187 | n=20 | xg=10
+# 2026-10-17 13:58 scheduled scan: KTP by API name
+Kooteepee v id:2085 | n=20 | xg=10
