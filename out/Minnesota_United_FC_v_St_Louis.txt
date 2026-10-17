@@ -1,6 +1,6 @@
-MATCH Minnesota United FC v St Louis City | fetched 2026-10-17 19:13 local
+MATCH Minnesota United FC v St Louis | fetched 2026-10-17 19:15 local
 
-FORM DATA Minnesota United FC v St Louis City | source API-Football | 2026-10-17 19:13 UTC
+FORM DATA Minnesota United FC v St Louis | source API-Football | 2026-10-17 19:15 UTC
 H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
 
 === Minnesota United FC (id 1612): last 20 finished games ===
@@ -28,7 +28,14 @@ Listed home: 11 games, scored 15 (1.36), conceded 18 (1.64), blanks 2, clean she
 Listed away: 9 games, scored 17 (1.89), conceded 20 (2.22), blanks 1, clean sheets 1
 All: 20 games, scored 32 (1.60), conceded 38 (1.90), blanks 3, clean sheets 2
 
-!! St Louis City: No team found for "St Louis City".
+=== St Louis Suns United (id 8073): last 4 finished games ===
+2024-08-24 A 0-3 v Sagrada Esperança | CAF Champions League | Luanda
+2024-08-17 H 0-1 v Sagrada Esperança | CAF Champions League | Saint Pierre
+2019-08-25 H 0-1 v TS Galaxy | CAF Confederation Cup | Mahé
+2019-08-11 A 0-1 v TS Galaxy | CAF Confederation Cup | Nelspruit
+Listed home: 2 games, scored 0 (0.00), conceded 2 (1.00), blanks 2, clean sheets 0
+Listed away: 2 games, scored 0 (0.00), conceded 4 (2.00), blanks 2, clean sheets 0
+All: 4 games, scored 0 (0.00), conceded 6 (1.50), blanks 4, clean sheets 0
 
 TABLE FOR Minnesota United FC
 LEAGUE TABLE Major League Soccer 2026 | 30 teams | 435 games played
@@ -65,7 +72,9 @@ League averages per game: home 1.86, away 1.40, total 3.26
 14  Atlanta United FC       30 | 14  20-26      | 15  16-22      | 29  36-48 [Eastern Conference]
 15  CF Montreal             24 | 15  19-21      | 14  16-38      | 29  35-59 [Eastern Conference]
 
-(14 API-Football requests used)
+(no league table available for St Louis Suns United: tried CAF Champions League 2024, CAF Confederation Cup 2019)
+
+(21 API-Football requests used)
 
 ----------------------------------------------------------------------
 MATCHBOOK: skipped (switched off for this run)

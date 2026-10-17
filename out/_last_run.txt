@@ -1,8 +1,5 @@
-RUN 2026-10-17 19:13 local | 4 match(es)
-Rivadavia v Tigre -> out/Rivadavia_v_Tigre.txt
-    !! Rivadavia: Ambiguous team name "Rivadavia".
-Minnesota United FC v St Louis City -> out/Minnesota_United_FC_v_St_Louis_City.txt
-    !! St Louis City: No team found for "St Louis City".
-id:448 v Almirante Brown -> out/id_448_v_Almirante_Brown.txt
-id:120 v id:132 -> out/id_120_v_id_132.txt
-Requests used: API-Football 79, Matchbook 0
+RUN 2026-10-17 19:15 local | 3 match(es)
+id:473 v Tigre -> out/id_473_v_Tigre.txt
+Minnesota United FC v St Louis -> out/Minnesota_United_FC_v_St_Louis.txt
+Cavalry v id:2622 -> out/Cavalry_v_id_2622.txt
+Requests used: API-Football 71, Matchbook 0
