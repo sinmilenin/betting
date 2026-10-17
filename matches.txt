@@ -1,2 +1,36 @@
-# 2026-10-17 13:58 scheduled scan: KTP by API name
-Kooteepee v id:2085 | n=20 | xg=10
+# 2026-10-17 14:33 scheduled scan: Saturday 15:00-16:15 slate, first analyses
+Sandvikens IF v Ostersunds FK | n=20 | xg=10
+PK 35 Vantaa v SJK Akatemia | n=20 | xg=10
+Slavia Praha v Hradec Kralove | n=20 | xg=10
+St Johnstone v Dundee United | n=20 | xg=10
+Kilmarnock v Motherwell | n=20 | xg=10
+Leicester v Doncaster | n=20 | xg=10
+Newport County v York City | n=20 | xg=10
+Oldham v Cheltenham | n=20 | xg=10
+Southampton v Bolton | n=20 | xg=10
+West Brom v Blackburn | n=20 | xg=10
+Wrexham v Preston | n=20 | xg=10
+Bristol City v Sheffield Utd | n=20 | xg=10
+Derby v Stoke | n=20 | xg=10
+Accrington v Gillingham | n=20 | xg=10
+Leyton Orient v Blackpool | n=20 | xg=10
+Crewe v Rochdale | n=20 | xg=10
+Stockport County v Bromley | n=20 | xg=10
+Colchester v Exeter | n=20 | xg=10
+Port Vale v Chesterfield | n=20 | xg=10
+Grimsby v Northampton | n=20 | xg=10
+Salford City v Crawley Town | n=20 | xg=10
+Wigan v Reading | n=20 | xg=10
+Sheffield Wednesday v AFC Wimbledon | n=20 | xg=10
+Manchester City v Ipswich | n=20 | xg=10
+Barnsley v Cambridge United | n=20 | xg=10
+Swindon v Walsall | n=20 | xg=10
+Brentford v Liverpool | n=20 | xg=10
+Fulham v Hull City | n=20 | xg=10
+Birmingham v QPR | n=20 | xg=10
+Norwich v Portsmouth | n=20 | xg=10
+Swansea v West Ham | n=20 | xg=10
+Hibernian v Falkirk | n=20 | xg=10
+Aberdeen v St Mirren | n=20 | xg=10
+Eibar v Mallorca | n=20 | xg=10
+Villarreal v Elche | n=20 | xg=10
