@@ -1,12 +1,3 @@
-RUN 2026-10-17 12:33 local | 9 match(es)
-Sandviken v id:376 -> out/Sandviken_v_id_376.txt
-Vantaa v id:9198 -> out/Vantaa_v_id_9198.txt
-    !! Vantaa: Ambiguous team name "Vantaa".
-id:560 v id:3723 -> out/id_560_v_id_3723.txt
-id:258 v Dundee Utd -> out/id_258_v_Dundee_Utd.txt
-id:1367 v York -> out/id_1367_v_York.txt
-id:69 v id:75 -> out/id_69_v_id_75.txt
-id:1360 v id:1347 -> out/id_1360_v_id_1347.txt
-id:1361 v id:1364 -> out/id_1361_v_id_1364.txt
-id:1353 v id:1342 -> out/id_1353_v_id_1342.txt
-Requests used: API-Football 215, Matchbook 0
+RUN 2026-10-17 12:35 local | 1 match(es)
+id:1173 v id:9198 -> out/id_1173_v_id_9198.txt
+Requests used: API-Football 26, Matchbook 0
