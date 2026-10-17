@@ -1,7 +1,3 @@
-RUN 2026-10-17 08:42 local | 3 match(es)
-Tegevajaro Miyazaki v Jubilo Iwata -> out/Tegevajaro_Miyazaki_v_Jubilo_Iwata.txt
-Kashiwa Reysol v Nagoya Grampus -> out/Kashiwa_Reysol_v_Nagoya_Grampus.txt
-Erzurumspor v Eyupspor -> out/Erzurumspor_v_Eyupspor.txt
-    !! Erzurumspor: Ambiguous team name "Erzurumspor".
-    !! Eyupspor: Ambiguous team name "Eyupspor".
-Requests used: API-Football 54, Matchbook 0
+RUN 2026-10-17 08:43 local | 1 match(es)
+id:1009 v id:3588 -> out/id_1009_v_id_3588.txt
+Requests used: API-Football 25, Matchbook 0
