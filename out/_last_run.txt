@@ -1,6 +1,3 @@
-RUN 2026-10-17 10:58 local | 3 match(es)
-Inter Kashi v Odisha -> out/Inter_Kashi_v_Odisha.txt
-Qabala v Sabah -> out/Qabala_v_Sabah.txt
-    !! Sabah: Ambiguous team name "Sabah".
-Motor Lublin v Slask Wroclaw -> out/Motor_Lublin_v_Slask_Wroclaw.txt
-Requests used: API-Football 65, Matchbook 0
+RUN 2026-10-17 11:00 local | 1 match(es)
+Qabala v id:13976 -> out/Qabala_v_id_13976.txt
+Requests used: API-Football 26, Matchbook 0
