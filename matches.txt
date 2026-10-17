@@ -1,2 +1,2 @@
-# 2026-10-17 21:20 Ljubljana: scheduled Orbit scan, run 4 (St Louis)
-Minnesota United FC v Louis City | n=20 | xg=10
+# 2026-10-17 21:23 Ljubljana: scheduled Orbit scan, run 5 (St Louis id)
+Minnesota United FC v id:20787 | n=20 | xg=10
