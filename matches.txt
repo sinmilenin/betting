@@ -1,8 +1,3 @@
-# 2026-10-17 12:15 scheduled scan: team name retry
-Lahti v Turku PS | n=20 | xg=10
-Lahti v TPS Turku | n=20 | xg=10
-Milton Keynes Dons v Luton | n=20 | xg=10
-Qingdao Jonoon v Liaoning | n=20 | xg=10
-Qingdao v Liaoning Tieren FC | n=20 | xg=10
-Arsenal W v Birmingham City W | n=20 | xg=10
-HamKam v Bodo Glimt | n=20 | xg=10
+# 2026-10-17 12:15 scheduled scan: team name retry 2 (Liaoning Tieren, HamKam, Bodo/Glimt)
+Qingdao Jonoon v Shenyang Urban | n=20 | xg=10
+Hamarkameratene v Glimt | n=20 | xg=10
