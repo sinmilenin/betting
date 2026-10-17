@@ -1,4 +1,3 @@
-RUN 2026-10-17 16:59 local | 2 match(es)
-Hannover 96 v id:186 -> out/Hannover_96_v_id_186.txt
-id:110 v Lens -> out/id_110_v_Lens.txt
-Requests used: API-Football 51, Matchbook 0
+RUN 2026-10-17 17:01 local | 1 match(es)
+Rapid v Corvinul Hunedoara -> out/Rapid_v_Corvinul_Hunedoara.txt
+Requests used: API-Football 25, Matchbook 0
