@@ -1,16 +1,6 @@
-RUN 2026-10-17 11:49 local | 11 match(es)
-Ekenas v id:9187 -> out/Ekenas_v_id_9187.txt
-Kotkan v Klubi -> out/Kotkan_v_Klubi.txt
-    !! Kotkan: No team found for "Kotkan".
-    !! Klubi: Ambiguous team name "Klubi".
-id:649 v Gnistan -> out/id_649_v_Gnistan.txt
-Padova v id:527 -> out/Padova_v_id_527.txt
-Benevento v id:1584 -> out/Benevento_v_id_1584.txt
-id:997 v Galatasaray -> out/id_997_v_Galatasaray.txt
-Lamelas v Guimaraes -> out/Lamelas_v_Guimaraes.txt
-    !! Guimaraes: Ambiguous team name "Guimaraes".
-Werder Bremen v id:185 -> out/Werder_Bremen_v_id_185.txt
-id:1660 v id:170 -> out/id_1660_v_id_170.txt
-id:174 v id:164 -> out/id_174_v_id_164.txt
-Hamburger SV v id:172 -> out/Hamburger_SV_v_id_172.txt
-Requests used: API-Football 241, Matchbook 0
+RUN 2026-10-17 11:53 local | 3 match(es)
+KTP Kotka v id:2085 -> out/KTP_Kotka_v_id_2085.txt
+    !! KTP Kotka: No team found for "KTP Kotka".
+Lamelas v Vitoria SC -> out/Lamelas_v_Vitoria_SC.txt
+EIF v id:9187 -> out/EIF_v_id_9187.txt
+Requests used: API-Football 65, Matchbook 0
