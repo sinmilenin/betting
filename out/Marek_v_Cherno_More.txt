@@ -1,0 +1,66 @@
+MATCH Marek v Cherno More | fetched 2026-10-17 11:45 local
+
+FORM DATA Marek v Cherno More | source API-Football | 2026-10-17 11:46 UTC
+H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
+
+=== Marek (id 8543): last 20 finished games ===
+2026-10-10 H 3-2 v Beroe | Second League | Dupnitsa
+2026-10-04 A 4-0 v Chavdar Troyan | Cup | ?
+2026-09-26 A 0-0 v Lokomotiv G. Oryahovitsa | Second League | Gorna Orjahovica
+2026-09-20 H 1-3 v Rilski Sportist | Second League | Dupnitsa
+2026-09-13 H 3-0 v Pirin Blagoevgrad | Second League | Dupnitsa
+2026-09-06 A 0-3 v Yantra 2019 | Second League | Gabrovo
+2026-09-02 H 1-0 v Nesebar | Second League | Dupnitsa
+2026-08-29 A 0-0 v Sportist Svoge | Second League | Svoge
+2026-08-23 H 4-2 v Dobrudzha | Second League | Dupnitsa
+2026-08-16 A 0-1 v Montana | Second League | Montana
+2026-08-07 A 0-1 v Etar Veliko Tarnovo | Second League | Veliko Tarnovo
+2026-08-01 A 1-2 v Spartak Pleven | Second League | Pleven
+2026-07-25 A 1-0 v Fratria | Second League | Dupnitsa
+2026-07-18 A 0-1 v Vihren | Friendlies Clubs | ?
+2026-07-11 A 2-0 v Pirin Blagoevgrad | Friendlies Clubs | ?
+2026-07-03 A 0-3 v CSKA Sofia | Friendlies Clubs | ?
+2026-06-27 A 0-3 v Septemvri Sofia | Friendlies Clubs | ?
+2026-05-23 H 1-0 v Etar Veliko Tarnovo | Second League | Dupnitsa
+2026-05-15 A 1-1 v Hebar 1918 | Second League | Pazardzhik
+2026-05-11 H 3-0 v Chernomorets 1919 Burgas | Second League | Dupnitsa
+Listed home: 7 games, scored 16 (2.29), conceded 7 (1.00), blanks 0, clean sheets 4
+Listed away: 13 games, scored 9 (0.69), conceded 15 (1.15), blanks 8, clean sheets 5
+All: 20 games, scored 25 (1.25), conceded 22 (1.10), blanks 8, clean sheets 9
+
+"Cherno More" matches several teams. Use id:<number> instead of the name:
+  id:851    Cherno More Varna (Bulgaria)
+  id:19891  Cherno more II (Bulgaria)
+(retrying Cherno More using the opponent's country, Bulgaria)
+"Cherno More" matches several teams. Use id:<number> instead of the name:
+  id:851    Cherno More Varna (Bulgaria)
+  id:19891  Cherno more II (Bulgaria)
+!! Cherno More: Ambiguous team name "Cherno More".
+
+TABLE FOR Marek
+LEAGUE TABLE Second League 2026 | 18 teams | 107 games played
+League averages per game: home 1.54, away 1.11, total 2.65
+#   team                   Pts | home P GF-GA  | away P GF-GA  | all P GF-GA
+1   CSKA Sofia II           24 |  5  15-5       |  7   8-4       | 12  23-9
+2   Vihren                  24 |  6  12-5       |  6  13-7       | 12  25-12
+3   Chernomorets 1919 Burg  24 |  5   7-1       |  7  14-7       | 12  21-8
+4   Fratria                 22 |  6   9-3       |  6   8-7       | 12  17-10
+5   Rilski Sportist         19 |  7   9-5       |  5   5-5       | 12  14-10
+6   Yantra 2019             19 |  7  10-5       |  5   3-6       | 12  13-11
+7   Nesebar                 18 |  7  17-10      |  5   3-7       | 12  20-17
+8   Beroe                   18 |  6   9-1       |  6   9-14      | 12  18-15
+9   Lokomotiv G. Oryahovit  17 |  6   6-5       |  6   3-5       | 12   9-10
+10  Hebar 1918              17 |  5   9-7       |  7  18-13      | 12  27-20
+11  Etar Veliko Tarnovo     17 |  7  11-8       |  4   8-11      | 11  19-19
+12  Marek                   17 |  5  12-7       |  7   2-7       | 12  14-14
+13  Ludogorets II           15 |  4   4-5       |  7   8-7       | 11  12-12
+14  Spartak Pleven          14 |  5   6-6       |  7   6-17      | 12  12-23
+15  Montana                 11 |  6  10-13      |  6   5-13      | 12  15-26
+16  Sportist Svoge          10 |  7   7-8       |  5   1-5       | 12   8-13
+17  Dobrudzha                9 |  7   8-10      |  5   4-11      | 12  12-21
+18  Pirin Blagoevgrad        1 |  6   4-15      |  6   1-19      | 12   5-34
+
+(15 API-Football requests used)
+
+----------------------------------------------------------------------
+MATCHBOOK: skipped (switched off for this run)

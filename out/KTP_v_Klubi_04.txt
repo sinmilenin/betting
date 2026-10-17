@@ -1,0 +1,18 @@
+MATCH KTP v Klubi 04 | fetched 2026-10-17 11:45 local
+
+FORM DATA KTP v Klubi 04 | source API-Football | 2026-10-17 11:46 UTC
+H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
+
+=== KTP W (id 27396): last 0 finished games ===
+Listed home: no games
+Listed away: no games
+All: no games
+
+!! Klubi 04: No team found for "Klubi 04".
+
+(no league table available for KTP W: tried no competitions)
+
+(3 API-Football requests used)
+
+----------------------------------------------------------------------
+MATCHBOOK: skipped (switched off for this run)

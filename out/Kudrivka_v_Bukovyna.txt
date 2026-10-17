@@ -1,0 +1,82 @@
+MATCH Kudrivka v Bukovyna | fetched 2026-10-17 11:45 local
+
+FORM DATA Kudrivka v Bukovyna | source API-Football | 2026-10-17 11:46 UTC
+H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
+
+=== Kudrivka (id 21953): last 20 finished games ===
+2026-10-11 A 1-2 v LNZ Cherkasy | Premier League | Cherkasy
+2026-10-03 A 1-2 v Veres Rivne | Premier League | Rivne
+2026-09-20 H 2-3 v Kolos Kovalivka | Premier League | Rivne
+2026-09-09 A 0-2 v Polessya | Cup | Zhytomyr
+2026-09-04 A 1-5 v Polessya | Premier League | Zhytomyr
+2026-08-29 H 0-3 v Epitsentr Dunayivtsi | Premier League | Rivne
+2026-08-22 A 6-1 v Lozova | Cup | ?
+2026-08-15 H 0-0 v Obolon'-Brovar | Premier League | Rivne
+2026-08-08 A 0-0 v Livyi Bereh | Premier League | Kyiv
+2026-08-03 A 1-5 v Shakhtar Donetsk | Premier League | Lviv
+2026-07-24 A 1-0 v Obolon'-Brovar | Friendlies Clubs | ?
+2026-07-17 A 0-2 v Kolos Kovalivka | Friendlies Clubs | ?
+2026-07-15 H 2-0 v Kolos Kovalivka II | Friendlies Clubs | ?
+2026-07-11 A 0-4 v Livyi Bereh | Friendlies Clubs | ?
+2026-07-10 H 2-1 v Rebel | Friendlies Clubs | ?
+2026-06-09 A 2-2 v Ahrobiznes Volochysk | Premier League | Volochysk [PEN, 90-min score shown]
+2026-06-05 H 0-0 v Ahrobiznes Volochysk | Premier League | Rivne
+2026-05-24 A 2-3 v Dynamo Kyiv | Premier League | Kyiv
+2026-05-18 H 1-0 v LNZ Cherkasy | Premier League | Kyiv
+2026-05-14 H 2-1 v Ruh Lviv | Premier League | Kyiv
+Listed home: 8 games, scored 9 (1.12), conceded 8 (1.00), blanks 3, clean sheets 4
+Listed away: 12 games, scored 15 (1.25), conceded 28 (2.33), blanks 4, clean sheets 2
+All: 20 games, scored 24 (1.20), conceded 36 (1.80), blanks 7, clean sheets 6
+
+=== Bukovyna (id 6486): last 20 finished games ===
+2026-10-11 H 2-2 v Polessya | Premier League | Chernivtsi
+2026-10-03 H 0-0 v Epitsentr Dunayivtsi | Friendlies Clubs | ?
+2026-09-27 A 3-0 v Zimbru | Friendlies Clubs | ?
+2026-09-19 A 0-2 v FC Kharkiv | Premier League | Kyiv
+2026-09-16 H 0-0 v LNZ Cherkasy | Cup | Chernivtsi [PEN, 90-min score shown]
+2026-09-13 H 1-1 v Zorya Luhansk | Premier League | Chernivtsi
+2026-09-06 A 0-0 v Epitsentr Dunayivtsi | Premier League | Kamianets-Podilskyi
+2026-08-31 H 3-0 v Dynamo Kyiv | Premier League | Chernivtsi
+2026-08-22 A 4-0 v Nyva Ternopil | Cup | Ternopil
+2026-08-15 A 0-3 v Karpaty | Premier League | Lviv
+2026-08-08 H 0-0 v Obolon'-Brovar | Premier League | Chernivtsi
+2026-08-03 H 0-0 v LNZ Cherkasy | Premier League | Chernivtsi
+2026-07-22 H 2-1 v Ruh Lviv | Friendlies Clubs | ?
+2026-07-18 A 2-2 v Nyiregyhaza | Friendlies Clubs | ?
+2026-07-15 A 1-0 v Kisvarda FC | Friendlies Clubs | ?
+2026-07-14 H 1-1 v Metal Kharkiv | Friendlies Clubs | ?
+2026-07-11 A 1-1 v Zemplín Michalovce | Friendlies Clubs | ?
+2026-07-04 A 0-4 v Epitsentr Dunayivtsi | Friendlies Clubs | ?
+2026-07-01 A 3-2 v Veres Rivne | Friendlies Clubs | ?
+2026-06-02 A 4-0 v Metalurh Zaporizhya | Persha Liga | Zaporizhia
+Listed home: 9 games, scored 9 (1.00), conceded 5 (0.56), blanks 4, clean sheets 5
+Listed away: 11 games, scored 18 (1.64), conceded 14 (1.27), blanks 4, clean sheets 5
+All: 20 games, scored 27 (1.35), conceded 19 (0.95), blanks 8, clean sheets 10
+
+TABLE FOR Kudrivka
+LEAGUE TABLE Premier League 2026 | 16 teams | 61 games played
+League averages per game: home 1.36, away 1.02, total 2.38
+#   team                   Pts | home P GF-GA  | away P GF-GA  | all P GF-GA
+1   Shakhtar Donetsk        21 |  4  10-3       |  4   8-1       |  8  18-4
+2   Polessya                19 |  5  11-4       |  3   6-3       |  8  17-7
+3   Dynamo Kyiv             16 |  4   6-1       |  3   4-4       |  7  10-5
+4   FC Kharkiv              15 |  4   8-1       |  3   6-4       |  7  14-5
+5   Karpaty                 14 |  4   8-3       |  4   7-3       |  8  15-6
+6   Zorya Luhansk           11 |  4   3-8       |  4   7-4       |  8  10-12
+7   LNZ Cherkasy            11 |  4   7-3       |  4   0-6       |  8   7-9
+8   Veres Rivne              9 |  4   4-7       |  5   2-4       |  9   6-11
+9   Kolos Kovalivka          8 |  3   3-3       |  4   6-8       |  7   9-11
+10  Bukovyna                 8 |  5   6-3       |  3   0-5       |  8   6-8
+11  Epitsentr Dunayivtsi     8 |  5   3-4       |  3   4-6       |  8   7-10
+12  Livyi Bereh              7 |  3   2-4       |  4   3-2       |  7   5-6
+13  Obolon'-Brovar           7 |  1   2-0       |  7   2-12      |  8   4-12
+14  Chornomorets             5 |  5   4-5       |  2   0-4       |  7   4-9
+15  Kryvbas KR               5 |  3   4-7       |  3   3-3       |  6   7-10
+16  Kudrivka                 2 |  3   2-6       |  5   4-14      |  8   6-20
+
+(Bukovyna: same table as Kudrivka, shown above)
+
+(25 API-Football requests used)
+
+----------------------------------------------------------------------
+MATCHBOOK: skipped (switched off for this run)

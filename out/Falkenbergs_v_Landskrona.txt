@@ -1,0 +1,82 @@
+MATCH Falkenbergs v Landskrona | fetched 2026-10-17 11:45 local
+
+FORM DATA Falkenbergs v Landskrona | source API-Football | 2026-10-17 11:46 UTC
+H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
+
+=== Falkenbergs FF (id 812): last 20 finished games ===
+2026-10-11 A 2-1 v IFK Varnamo | Superettan | Venamu
+2026-09-18 H 0-0 v Ostersunds FK | Superettan | Falkenberg
+2026-09-13 A 2-0 v Ljungskile SK | Superettan | Ljungskile
+2026-09-10 H 2-1 v Osters IF | Superettan | Falkenberg
+2026-09-05 A 1-2 v Oddevold | Superettan | Uddevalla
+2026-08-29 H 4-1 v IK brage | Superettan | Falkenberg
+2026-08-24 A 1-2 v IFK Norrkoping | Superettan | ?
+2026-08-18 A 1-1 v IFK Skövde | Svenska Cupen | ? [PEN, 90-min score shown]
+2026-08-15 H 2-0 v Norrby IF | Superettan | Falkenberg
+2026-08-08 H 1-1 v United Nordic | Superettan | Falkenberg
+2026-08-01 A 1-2 v Varbergs BoIS FC | Superettan | Varberg
+2026-07-26 A 2-1 v GIF Sundsvall | Superettan | Sundsvall
+2026-07-21 H 2-3 v Helsingborg | Superettan | Falkenberg
+2026-07-17 H 6-0 v Laholm | Friendlies Clubs | ?
+2026-07-11 H 1-2 v Landskrona BoIS | Friendlies Clubs | ?
+2026-06-26 A 4-2 v IK brage | Superettan | Borlange
+2026-06-21 A 3-1 v Osters IF | Superettan | Vaxjo
+2026-06-14 H 1-1 v Orebro SK | Superettan | Falkenberg
+2026-06-09 A 2-4 v Sandviken | Superettan | Sandviken
+2026-05-30 H 2-1 v Oddevold | Superettan | Falkenberg
+Listed home: 10 games, scored 21 (2.10), conceded 10 (1.00), blanks 1, clean sheets 3
+Listed away: 10 games, scored 19 (1.90), conceded 16 (1.60), blanks 0, clean sheets 1
+All: 20 games, scored 40 (2.00), conceded 26 (1.30), blanks 1, clean sheets 4
+
+=== Landskrona BoIS (id 2176): last 20 finished games ===
+2026-10-10 H 3-2 v Sandviken | Superettan | Landskrona
+2026-09-19 A 4-1 v United Nordic | Superettan | Sodertalje
+2026-09-15 H 4-0 v GIF Sundsvall | Superettan | Landskrona
+2026-09-09 H 1-2 v Helsingborg | Superettan | Landskrona
+2026-09-05 A 3-1 v Norrby IF | Superettan | Boras
+2026-08-29 H 1-1 v Ostersunds FK | Superettan | Landskrona
+2026-08-24 A 1-1 v IFK Varnamo | Superettan | Varnamo
+2026-08-20 A 0-0 v Hässleholms IF | Svenska Cupen | ? [AET, 90-min score shown]
+2026-08-14 H 1-1 v Oddevold | Superettan | Landskrona
+2026-08-08 A 1-0 v Osters IF | Superettan | Vaxjo
+2026-08-01 A 1-2 v IK brage | Superettan | Borlange
+2026-07-28 H 0-1 v IFK Norrkoping | Superettan | Landskrona
+2026-07-18 A 0-2 v Ostersunds FK | Superettan | Ostersund
+2026-07-11 A 2-1 v Falkenbergs FF | Friendlies Clubs | ?
+2026-06-28 H 1-0 v IFK Varnamo | Superettan | Landskrona
+2026-06-22 A 3-2 v Varbergs BoIS FC | Superettan | Varberg
+2026-06-16 H 2-0 v United Nordic | Superettan | Landskrona
+2026-06-11 A 3-0 v Helsingborg | Superettan | Helsingborg
+2026-05-30 H 2-2 v IK brage | Superettan | Landskrona
+2026-05-24 A 1-0 v Sandviken | Superettan | Sandviken
+Listed home: 9 games, scored 15 (1.67), conceded 9 (1.00), blanks 1, clean sheets 3
+Listed away: 11 games, scored 19 (1.73), conceded 10 (0.91), blanks 2, clean sheets 4
+All: 20 games, scored 34 (1.70), conceded 19 (0.95), blanks 3, clean sheets 7
+
+TABLE FOR Falkenbergs FF
+LEAGUE TABLE Superettan 2026 | 16 teams | 208 games played
+League averages per game: home 1.52, away 1.37, total 2.89
+#   team                   Pts | home P GF-GA  | away P GF-GA  | all P GF-GA
+1   IFK Norrkoping          58 | 13  28-8       | 13  24-8       | 26  52-16
+2   Falkenbergs FF          48 | 13  20-13      | 13  28-21      | 26  48-34
+3   Varbergs BoIS FC        45 | 13  23-16      | 13  22-18      | 26  45-34
+4   Ostersunds FK           44 | 13  18-12      | 13  16-13      | 26  34-25
+5   Landskrona BoIS         43 | 13  20-14      | 13  22-14      | 26  42-28
+6   Oddevold                39 | 13  20-16      | 13  20-18      | 26  40-34
+7   Osters IF               36 | 13  18-16      | 13  20-24      | 26  38-40
+8   United Nordic           36 | 13  23-25      | 13  15-17      | 26  38-42
+9   Sandviken               34 | 13  27-20      | 13  16-18      | 26  43-38
+10  Helsingborg             30 | 13  19-20      | 13  17-27      | 26  36-47
+11  Ljungskile SK           29 | 13  16-19      | 13  18-18      | 26  34-37
+12  IFK Varnamo             29 | 13  15-18      | 13  19-29      | 26  34-47
+13  Norrby IF               27 | 13  20-19      | 13  10-16      | 26  30-35
+14  IK brage                26 | 13  25-25      | 13  16-23      | 26  41-48
+15  Orebro SK               25 | 13  11-16      | 13  17-24      | 26  28-40
+16  GIF Sundsvall           19 | 13  14-28      | 13   5-29      | 26  19-57
+
+(Landskrona BoIS: same table as Falkenbergs FF, shown above)
+
+(25 API-Football requests used)
+
+----------------------------------------------------------------------
+MATCHBOOK: skipped (switched off for this run)
