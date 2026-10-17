@@ -1,4 +1,2 @@
-# 2026-10-17 21:18 Ljubljana: scheduled Orbit scan, run 3 (team ids)
-id:473 v Tigre | n=20 | xg=10
-Minnesota United FC v St Louis | n=20 | xg=10
-Cavalry v id:2622 | n=20 | xg=10
+# 2026-10-17 21:20 Ljubljana: scheduled Orbit scan, run 4 (St Louis)
+Minnesota United FC v Louis City | n=20 | xg=10
