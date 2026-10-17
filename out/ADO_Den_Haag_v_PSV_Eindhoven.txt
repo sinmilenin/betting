@@ -1,0 +1,123 @@
+MATCH ADO Den Haag v PSV Eindhoven | fetched 2026-10-17 13:14 local
+
+FORM DATA ADO Den Haag v PSV Eindhoven | source API-Football | 2026-10-17 13:14 UTC
+H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
+
+=== ADO Den Haag (id 198): last 20 finished games ===
+2026-10-11 A 2-2 v Telstar | Eredivisie | Felsen | xG 1.38-2.86
+2026-09-19 H 1-1 v Cambuur | Eredivisie | The Hague
+2026-09-12 A 0-2 v Twente | Eredivisie | Enschede | xG 0.54-2.81
+2026-09-06 H 2-3 v Fortuna Sittard | Eredivisie | Den Haag | xG 0.48-0.55
+2026-08-30 A 2-2 v Feyenoord | Eredivisie | Rotterdam | xG 0.24-2.47
+2026-08-23 A 1-3 v GO Ahead Eagles | Eredivisie | Deventer | xG 0.83-0.85
+2026-08-16 H 1-4 v Groningen | Eredivisie | Den Haag | xG 1.01-3.20
+2026-08-08 A 0-2 v AZ Alkmaar | Eredivisie | Alkmaar | xG 0.95-2.67
+2026-07-31 H 0-0 v Asteras Tripolis | Friendlies Clubs | ?
+2026-07-24 A 4-0 v Lommel United | Friendlies Clubs | ?
+2026-07-18 A 3-2 v KV Mechelen | Friendlies Clubs | ?
+2026-07-04 A 5-1 v Laakkwartier | Friendlies Clubs | ?
+2026-04-24 A 3-1 v Den Bosch | Eerste Divisie | ?
+2026-04-17 H 5-1 v Waalwijk | Eerste Divisie | Den Haag
+2026-04-12 A 0-1 v Dordrecht | Eerste Divisie | Dordrecht
+2026-04-06 H 4-0 v FC Eindhoven | Eerste Divisie | Den Haag
+2026-04-03 H 4-2 v Jong Ajax | Eerste Divisie | Den Haag
+2026-03-22 A 2-1 v De Graafschap | Eerste Divisie | Doetinchem
+2026-03-17 H 1-0 v Jong Utrecht | Eerste Divisie | Den Haag
+2026-03-13 A 1-0 v Emmen | Eerste Divisie | Emmen
+Listed home: 8 games, scored 18 (2.25), conceded 11 (1.38), blanks 1, clean sheets 3
+Listed away: 12 games, scored 23 (1.92), conceded 17 (1.42), blanks 3, clean sheets 2
+All: 20 games, scored 41 (2.05), conceded 28 (1.40), blanks 4, clean sheets 5
+
+=== PSV Eindhoven (id 197): last 20 finished games ===
+2026-10-13 A 0-1 v RB Leipzig | UEFA Champions League | Leipzig | xG 1.40-2.10
+2026-10-09 H 2-0 v Heerenveen | Eredivisie | Eindhoven | xG 2.38-1.57
+2026-09-20 A 2-3 v Twente | Eredivisie | Enschede | xG 1.02-2.40
+2026-09-13 H 4-1 v Sparta Rotterdam | Eredivisie | Eindhoven | xG 3.75-2.29
+2026-09-10 H 1-1 v Shakhtar Donetsk | UEFA Champions League | Eindhoven | xG 0.44-0.62
+2026-09-05 A 3-1 v Ajax | Eredivisie | Amsterdam | xG 2.55-1.99
+2026-08-30 A 6-1 v Utrecht | Eredivisie | Utrecht | xG 3.58-0.30
+2026-08-23 H 5-1 v Groningen | Eredivisie | Eindhoven | xG 4.40-1.09
+2026-08-15 A 2-1 v Excelsior | Eredivisie | Rotterdam | xG 2.24-0.51
+2026-08-08 H 2-2 v Fortuna Sittard | Eredivisie | Eindhoven | xG 2.31-1.01
+2026-08-02 H 0-4 v AZ Alkmaar | Super Cup | Eindhoven
+2026-07-28 H 3-0 v FC Eindhoven | Friendlies Clubs | Eindhoven
+2026-07-25 H 1-3 v Villarreal | Friendlies Clubs | Eindhoven
+2026-07-18 H 7-3 v Union St. Gilloise | Friendlies Clubs | Eindhoven
+2026-07-11 H 3-2 v Raków Częstochowa | Friendlies Clubs | Eindhoven
+2026-07-04 H 1-1 v Antwerp | Friendlies Clubs | ?
+2026-05-17 H 5-1 v Twente | Eredivisie | Eindhoven
+2026-05-10 A 4-1 v GO Ahead Eagles | Eredivisie | Deventer
+2026-05-02 A 2-2 v Ajax | Eredivisie | Amsterdam
+2026-04-23 H 6-1 v PEC Zwolle | Eredivisie | Eindhoven
+Listed home: 13 games, scored 40 (3.08), conceded 20 (1.54), blanks 1, clean sheets 2
+Listed away: 7 games, scored 19 (2.71), conceded 10 (1.43), blanks 1, clean sheets 0
+All: 20 games, scored 59 (2.95), conceded 30 (1.50), blanks 2, clean sheets 2
+
+TABLE FOR ADO Den Haag
+LEAGUE TABLE Eredivisie 2026 | 18 teams | 73 games played
+League averages per game: home 1.74, away 2.00, total 3.74
+#   team                   Pts | home P GF-GA  | away P GF-GA  | all P GF-GA
+1   Feyenoord               20 |  4  11-4       |  4  16-3       |  8  27-7
+2   PSV Eindhoven           19 |  4  13-4       |  4  13-6       |  8  26-10
+3   AZ Alkmaar              19 |  4   9-3       |  4   9-5       |  8  18-8
+4   Twente                  17 |  4   9-3       |  4   7-5       |  8  16-8
+5   Ajax                    15 |  5  11-9       |  3  11-1       |  8  22-10
+6   Groningen               14 |  4   9-6       |  4  11-8       |  8  20-14
+7   Fortuna Sittard         14 |  4   5-9       |  4   9-6       |  8  14-15
+8   Heerenveen              12 |  5   7-5       |  4   8-6       |  9  15-11
+9   GO Ahead Eagles         11 |  4  11-6       |  4   8-11      |  8  19-17
+10  Excelsior               11 |  4   5-10      |  5  11-8       |  9  16-18
+11  NEC Nijmegen             9 |  4   5-8       |  4   8-6       |  8  13-14
+12  Cambuur                  8 |  4   6-13      |  4   5-6       |  8  11-19
+13  Utrecht                  8 |  4   8-14      |  4   6-11      |  8  14-25
+14  Sparta Rotterdam         6 |  4   5-10      |  4   8-10      |  8  13-20
+15  Telstar                  6 |  4   5-11      |  4   2-3       |  8   7-14
+16  PEC Zwolle               4 |  4   1-13      |  4   5-8       |  8   6-21
+17  ADO Den Haag             3 |  3   4-8       |  5   5-11      |  8   9-19
+18  Willem II                2 |  4   3-10      |  4   4-13      |  8   7-23
+
+TABLE FOR PSV Eindhoven
+LEAGUE TABLE UEFA Champions League 2026 | 36 teams | 36 games played
+League averages per game: home 2.44, away 1.64, total 4.08
+#   team                   Pts | home P GF-GA  | away P GF-GA  | all P GF-GA
+1   Paris Saint Germain      6 |  1   6-1       |  1   4-2       |  2  10-3
+2   Barcelona                6 |  1   5-1       |  1   4-1       |  2   9-2
+3   Aston Villa              6 |  1   6-0       |  1   3-2       |  2   9-2
+4   VfB Stuttgart            6 |  1   3-1       |  1   3-0       |  2   6-1
+5   Liverpool                6 |  1   2-1       |  1   6-3       |  2   8-4
+6   Sporting CP              6 |  1   3-1       |  1   2-0       |  2   5-1
+7   Arsenal                  6 |  1   3-0       |  1   1-0       |  2   4-0
+8   Real Madrid              6 |  1   2-1       |  1   4-3       |  2   6-4
+9   Real Betis               6 |  1   3-2       |  1   3-2       |  2   6-4
+10  Bayern München           4 |  1   5-0       |  1   3-3       |  2   8-3
+11  Shakhtar Donetsk         4 |  1   3-1       |  1   1-1       |  2   4-2
+12  Como                     3 |  1   4-1       |  1   2-3       |  2   6-4
+13  Manchester United        3 |  1   4-0       |  1   0-2       |  2   4-2
+14  Villarreal               3 |  1   3-1       |  1   2-3       |  2   5-4
+15  Atletico Madrid          3 |  1   2-0       |  1   1-2       |  2   3-2
+16  Club Brugge KV           3 |  1   2-3       |  1   4-3       |  2   6-6
+17  Manchester City          3 |  1   2-4       |  1   2-0       |  2   4-4
+18  Borussia Dortmund        3 |  1   3-2       |  1   0-1       |  2   3-3
+19  Lens                     3 |  1   0-2       |  1   3-2       |  2   3-4
+20  AEK Athens FC            3 |  1   1-0       |  1   1-3       |  2   2-3
+21  RB Leipzig               3 |  1   1-0       |  1   1-4       |  2   2-4
+22  Sabah FA                 3 |  1   2-0       |  1   0-4       |  2   2-4
+23  Feyenoord                3 |  1   3-2       |  1   1-5       |  2   4-7
+24  Bodo/Glimt               3 |  1   1-0       |  1   0-5       |  2   1-5
+25  AS Roma                  1 |  1   3-4       |  1   1-1       |  2   4-5
+26  PSV Eindhoven            1 |  1   1-1       |  1   0-1       |  2   1-2
+27  Viking                   1 |  1   3-3       |  1   1-3       |  2   4-6
+28  Fenerbahçe               1 |  1   1-1       |  1   0-6       |  2   1-7
+29  Inter                    0 |  1   3-4       |  1   1-2       |  2   4-6
+30  FC Porto                 0 |  1   0-2       |  1   2-3       |  2   2-5
+31  Slavia Praha             0 |  1   2-3       |  1   0-2       |  2   2-5
+32  Napoli                   0 |  1   0-1       |  1   1-3       |  2   1-4
+33  Lask Linz                0 |  1   3-6       |  1   0-1       |  2   3-7
+34  Lille                    0 |  1   2-3       |  1   0-3       |  2   2-6
+35  Galatasaray              0 |  1   1-4       |  1   1-3       |  2   2-7
+36  Slovan Bratislava        0 |  1   0-3       |  1   1-6       |  2   1-9
+
+(26 API-Football requests used)
+
+----------------------------------------------------------------------
+MATCHBOOK: skipped (switched off for this run)

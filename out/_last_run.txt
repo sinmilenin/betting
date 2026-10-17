@@ -1,3 +1,9 @@
-RUN 2026-10-17 12:35 local | 1 match(es)
-id:1173 v id:9198 -> out/id_1173_v_id_9198.txt
-Requests used: API-Football 26, Matchbook 0
+RUN 2026-10-17 13:14 local | 6 match(es)
+Bregenz v Amstetten -> out/Bregenz_v_Amstetten.txt
+Plymouth v Huddersfield -> out/Plymouth_v_Huddersfield.txt
+Bradford v Stevenage -> out/Bradford_v_Stevenage.txt
+Wycombe v Notts County -> out/Wycombe_v_Notts_County.txt
+ADO Den Haag v PSV Eindhoven -> out/ADO_Den_Haag_v_PSV_Eindhoven.txt
+Austria Lustenau v LASK -> out/Austria_Lustenau_v_LASK.txt
+    !! LASK: Ambiguous team name "LASK".
+Requests used: API-Football 140, Matchbook 0

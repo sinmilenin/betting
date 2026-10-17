@@ -1,0 +1,88 @@
+MATCH Austria Lustenau v LASK | fetched 2026-10-17 13:14 local
+
+FORM DATA Austria Lustenau v LASK | source API-Football | 2026-10-17 13:14 UTC
+H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
+
+=== Austria Lustenau (id 1399): last 20 finished games ===
+2026-10-11 A 3-4 v TSV Hartberg | Bundesliga | Hartberg | xG 1.45-4.01
+2026-10-03 H 0-1 v FC Schalke 04 | Friendlies Clubs | ?
+2026-09-24 H 3-1 v Schwarz-Weiß Bregenz | Friendlies Clubs | ?
+2026-09-19 H 2-0 v SCR Altach | Bundesliga | Lustenau | xG 0.81-1.07
+2026-09-13 A 1-2 v Austria Vienna | Bundesliga | Vienna | xG 1.43-1.82
+2026-09-05 A 6-2 v SV Lafnitz | Cup | Lafnitz
+2026-08-28 H 0-4 v WSG Wattens | Bundesliga | Lustenau | xG 1.04-2.43
+2026-08-22 A 1-1 v Sturm Graz | Bundesliga | Graz | xG 0.91-2.07
+2026-08-15 H 2-1 v Wolfsberger AC | Bundesliga | Lustenau | xG 3.13-1.33
+2026-08-08 A 1-2 v Grazer AK | Bundesliga | Graz | xG 0.53-1.45
+2026-08-02 H 1-1 v Ried | Bundesliga | Lustenau
+2026-07-25 A 1-0 v Krems / Rehberg | Cup | ?
+2026-07-16 A 0-1 v Nürnberg II | Friendlies Clubs | ?
+2026-07-15 A 1-1 v Schwarz-Weiß Bregenz | Friendlies Clubs | ?
+2026-07-10 H 1-0 v FC Aarau | Friendlies Clubs | ?
+2026-07-04 A 0-1 v FC Vaduz | Friendlies Clubs | ?
+2026-07-01 H 0-0 v BSC Young Boys | Friendlies Clubs | ?
+2026-06-26 H 2-0 v FC WIL 1900 | Friendlies Clubs | ?
+2026-05-14 H 2-1 v SKU Amstetten | 2. Liga | Lustenau
+2026-05-08 A 2-2 v Austria Salzburg | 2. Liga | Salzburg
+Listed home: 10 games, scored 13 (1.30), conceded 9 (0.90), blanks 3, clean sheets 4
+Listed away: 10 games, scored 16 (1.60), conceded 16 (1.60), blanks 2, clean sheets 1
+All: 20 games, scored 29 (1.45), conceded 25 (1.25), blanks 5, clean sheets 5
+
+"LASK" matches several teams. Use id:<number> instead of the name:
+  id:337    Slask Wroclaw (Poland)
+  id:1026   Lask Linz (Austria)
+  id:1403   Lask Juniors Linz (Austria)
+  id:11225  LASK Juniors (Austria)
+  id:12900  Śląsk Wrocław II (Poland)
+  id:14144  Orlęta Radzyń Podlaski (Poland)
+  id:14267  Pawłowice Śląskie (Poland)
+  id:14925  Śląsk Wrocław U18 (Poland)
+  id:16269  Podlasie Biała Podlaska (Poland)
+  id:17118  Śląsk Świętochłowice (Poland)
+  id:20159  Laško (Slovenia)
+  id:20596  Śląsk Wrocław U19 (Poland)
+  id:21659  Unia Turza Śląska (Poland)
+  id:22262  Slask Wroclaw W (Poland)
+  id:24440  LASK W (Austria)
+  id:28370  LASK U19 (Austria)
+(retrying LASK using the opponent's country, Austria)
+"LASK" matches several teams. Use id:<number> instead of the name:
+  id:337    Slask Wroclaw (Poland)
+  id:1026   Lask Linz (Austria)
+  id:1403   Lask Juniors Linz (Austria)
+  id:11225  LASK Juniors (Austria)
+  id:12900  Śląsk Wrocław II (Poland)
+  id:14144  Orlęta Radzyń Podlaski (Poland)
+  id:14267  Pawłowice Śląskie (Poland)
+  id:14925  Śląsk Wrocław U18 (Poland)
+  id:16269  Podlasie Biała Podlaska (Poland)
+  id:17118  Śląsk Świętochłowice (Poland)
+  id:20159  Laško (Slovenia)
+  id:20596  Śląsk Wrocław U19 (Poland)
+  id:21659  Unia Turza Śląska (Poland)
+  id:22262  Slask Wroclaw W (Poland)
+  id:24440  LASK W (Austria)
+  id:28370  LASK U19 (Austria)
+!! LASK: Ambiguous team name "LASK".
+
+TABLE FOR Austria Lustenau
+LEAGUE TABLE Bundesliga 2026 | 12 teams | 49 games played
+League averages per game: home 1.84, away 1.22, total 3.06
+#   team                   Pts | home P GF-GA  | away P GF-GA  | all P GF-GA
+1   Rapid Vienna            24 |  5  18-2       |  4   8-6       |  9  26-8
+2   Red Bull Salzburg       18 |  4  13-2       |  4   5-2       |  8  18-4
+3   Lask Linz               16 |  4  10-3       |  4   9-6       |  8  19-9
+4   Sturm Graz              14 |  3   4-2       |  5   6-7       |  8  10-9
+5   Ried                    11 |  4   7-4       |  4   6-9       |  8  13-13
+6   TSV Hartberg            11 |  5  10-12      |  4   5-7       |  9  15-19
+7   Grazer AK                9 |  4   4-3       |  4   2-13      |  8   6-16
+8   Austria Lustenau         8 |  4   5-6       |  4   6-9       |  8  11-15
+9   WSG Wattens              8 |  4   4-8       |  4   6-6       |  8  10-14
+10  Austria Vienna           7 |  4   2-6       |  4   5-9       |  8   7-15
+11  SCR Altach               6 |  4   8-5       |  4   0-7       |  8   8-12
+12  Wolfsberger AC           5 |  4   5-7       |  4   2-9       |  8   7-16
+
+(15 API-Football requests used)
+
+----------------------------------------------------------------------
+MATCHBOOK: skipped (switched off for this run)
