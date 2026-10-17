@@ -1,7 +1,2 @@
-# 2026-10-17 15:16 Ljubljana scheduled scan: first analyses
-Bregenz v Amstetten | n=20 | xg=10
-Plymouth v Huddersfield | n=20 | xg=10
-Bradford v Stevenage | n=20 | xg=10
-Wycombe v Notts County | n=20 | xg=10
-ADO Den Haag v PSV Eindhoven | n=20 | xg=10
-Austria Lustenau v LASK | n=20 | xg=10
+# 2026-10-17 15:20 Ljubljana scheduled scan: LASK retry (ambiguous name)
+Austria Lustenau v Lask Linz | n=20 | xg=10
