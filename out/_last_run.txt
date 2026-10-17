@@ -1,4 +1,3 @@
-RUN 2026-10-17 19:16 local | 1 match(es)
-Minnesota United FC v Louis City -> out/Minnesota_United_FC_v_Louis_City.txt
-    !! Louis City: Ambiguous team name "Louis City".
-Requests used: API-Football 15, Matchbook 0
+RUN 2026-10-17 19:17 local | 1 match(es)
+Minnesota United FC v id:20787 -> out/Minnesota_United_FC_v_id_20787.txt
+Requests used: API-Football 25, Matchbook 0
