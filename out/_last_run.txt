@@ -1,14 +1,6 @@
-RUN 2026-10-17 10:16 local | 7 match(es)
-Lahti v Turku PS -> out/Lahti_v_Turku_PS.txt
-Lahti v TPS Turku -> out/Lahti_v_TPS_Turku.txt
-    !! TPS Turku: No team found for "TPS Turku".
-Milton Keynes Dons v Luton -> out/Milton_Keynes_Dons_v_Luton.txt
-Qingdao Jonoon v Liaoning -> out/Qingdao_Jonoon_v_Liaoning.txt
-Qingdao v Liaoning Tieren FC -> out/Qingdao_v_Liaoning_Tieren_FC.txt
-    !! Qingdao: Ambiguous team name "Qingdao".
-    !! Liaoning Tieren FC: No team found for "Liaoning Tieren FC".
-Arsenal W v Birmingham City W -> out/Arsenal_W_v_Birmingham_City_W.txt
-HamKam v Bodo Glimt -> out/HamKam_v_Bodo_Glimt.txt
-    !! HamKam: Ambiguous team name "HamKam".
-    !! Bodo Glimt: No team found for "Bodo Glimt".
-Requests used: API-Football 118, Matchbook 0
+RUN 2026-10-17 10:17 local | 2 match(es)
+Qingdao Jonoon v Shenyang Urban -> out/Qingdao_Jonoon_v_Shenyang_Urban.txt
+Hamarkameratene v Glimt -> out/Hamarkameratene_v_Glimt.txt
+    !! Hamarkameratene: No team found for "Hamarkameratene".
+    !! Glimt: Ambiguous team name "Glimt".
+Requests used: API-Football 27, Matchbook 0

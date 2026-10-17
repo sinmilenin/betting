@@ -1,6 +1,6 @@
-MATCH Qingdao Jonoon v Liaoning | fetched 2026-10-17 10:16 local
+MATCH Qingdao Jonoon v Shenyang Urban | fetched 2026-10-17 10:17 local
 
-FORM DATA Qingdao Jonoon v Liaoning | source API-Football | 2026-10-17 10:16 UTC
+FORM DATA Qingdao Jonoon v Shenyang Urban | source API-Football | 2026-10-17 10:17 UTC
 H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
 
 === Qingdao Jonoon (id 1431): last 20 finished games ===
@@ -28,30 +28,30 @@ Listed home: 8 games, scored 9 (1.12), conceded 16 (2.00), blanks 4, clean sheet
 Listed away: 12 games, scored 17 (1.42), conceded 33 (2.75), blanks 1, clean sheets 0
 All: 20 games, scored 26 (1.30), conceded 49 (2.45), blanks 5, clean sheets 0
 
-=== liaoning hongyun FC (id 846): last 20 finished games ===
-2019-11-02 A 0-1 v Nei Mongol Zhongyou | League One | ?
-2019-10-26 H 2-3 v Meizhou Kejia | League One | Shenyang
-2019-10-19 H 1-3 v Meizhou Meixian Techand | League One | Shenyang
-2019-09-28 A 1-3 v Qingdao Huanghai | League One | Qingdao
-2019-09-22 H 2-4 v Heilongjiang Lava Spring | League One | Shenyang
-2019-09-14 H 1-2 v Changchun Yatai | League One | Shenyang
-2019-08-31 A 4-1 v Shanghai Shenxin | League One | Shanghai
-2019-08-24 H 0-2 v Shijiazhuang Y. J. | League One | Shenyang
-2019-08-18 A 2-3 v Sichuan Longfor | League One | Dujiangyan
-2019-08-11 A 1-4 v Hangzhou Greentown | League One | Hangzhou
-2019-08-04 H 1-1 v Xinjiang Tianshan | League One | Shenyang
-2019-07-27 A 1-3 v Beijing Baxy | League One | Beijing
-2019-07-20 A 0-3 v Shaanxi Changan Athletic | League One | Weinan
-2019-07-14 H 3-2 v Nantong Zhiyun | League One | Shenyang
-2019-07-07 H 1-1 v Guizhou Zhicheng | League One | Shenyang
-2019-06-30 H 0-1 v Nei Mongol Zhongyou | League One | Shenyang
-2019-06-22 A 0-2 v Meizhou Kejia | League One | Wuhua
-2019-06-16 A 1-1 v Meizhou Meixian Techand | League One | Meixian
-2019-06-01 H 2-3 v Qingdao Huanghai | League One | Shenyang
-2019-05-25 A 0-2 v Heilongjiang Lava Spring | League One | Harbin
-Listed home: 10 games, scored 13 (1.30), conceded 22 (2.20), blanks 2, clean sheets 0
-Listed away: 10 games, scored 10 (1.00), conceded 23 (2.30), blanks 4, clean sheets 0
-All: 20 games, scored 23 (1.15), conceded 45 (2.25), blanks 6, clean sheets 0
+=== Shenyang Urban (id 5684): last 20 finished games ===
+2026-10-11 H 1-1 v Wuhan Three Towns | Super League | Shenyang | xG 2.17-0.78
+2026-09-12 A 0-1 v Tianjin Teda | Super League | Tianjin | xG 1.17-1.17
+2026-09-06 A 0-5 v Yunnan Yukun | Super League | Yuxi | xG 1.14-2.30
+2026-08-29 A 1-2 v Chengdu Better City | Super League | Chengdu | xG 0.69-3.09
+2026-08-23 H 4-4 v Henan Jianye | Super League | Shenyang | xG 1.75-1.92
+2026-08-15 H 1-2 v Sichuan Jiuniu | Super League | Shenyang
+2026-08-08 A 0-1 v Dalian Zhixing | Super League | Dalian
+2026-08-02 H 3-1 v Shanghai Shenhua | Super League | Shenyang
+2026-07-25 H 0-1 v Qingdao Youth Island | Super League | Shenyang
+2026-07-17 A 1-1 v Beijing Guoan | Super League | Beijing | xG 1.73-2.05
+2026-07-04 H 3-1 v Chongqing Tongliang Long | Super League | Shenyang
+2026-06-27 H 1-5 v Shandong Luneng | Super League | Shenyang
+2026-06-19 A 0-1 v Dalian Kewei | FA Cup | ?
+2026-05-29 H 3-2 v SHANGHAI SIPG | Super League | Shenyang
+2026-05-24 A 5-0 v Hangzhou Greentown | Super League | Hangzhou
+2026-05-20 H 2-1 v Qingdao Jonoon | Super League | Shenyang
+2026-05-16 A 2-2 v Wuhan Three Towns | Super League | Wuhan
+2026-05-10 H 1-2 v Yunnan Yukun | Super League | Shenyang
+2026-05-05 H 0-1 v Chengdu Better City | Super League | Shenzhen
+2026-05-01 A 0-4 v Henan Jianye | Super League | Zhengzhou
+Listed home: 11 games, scored 19 (1.73), conceded 21 (1.91), blanks 2, clean sheets 0
+Listed away: 9 games, scored 9 (1.00), conceded 17 (1.89), blanks 5, clean sheets 1
+All: 20 games, scored 28 (1.40), conceded 38 (1.90), blanks 7, clean sheets 1
 
 TABLE FOR Qingdao Jonoon
 LEAGUE TABLE Super League 2026 | 16 teams | 217 games played
@@ -74,28 +74,9 @@ League averages per game: home 1.76, away 1.34, total 3.11
 15  Wuhan Three Towns       22 | 13  18-16      | 14  22-31      | 27  40-47
 16  Qingdao Jonoon          14 | 13  18-22      | 14  16-34      | 27  34-56
 
-TABLE FOR liaoning hongyun FC
-LEAGUE TABLE League One 2019 | 16 teams | 240 games played
-League averages per game: home 1.63, away 1.26, total 2.89
-#   team                   Pts | home P GF-GA  | away P GF-GA  | all P GF-GA
-1   Qingdao Huanghai        57 | 15  35-14      | 15  24-22      | 30  59-36
-2   Shijiazhuang Y. J.      56 | 15  34-15      | 15  25-27      | 30  59-42
-3   Guizhou Zhicheng        54 | 15  29-11      | 15  17-17      | 30  46-28
-4   Heilongjiang Lava Spri  54 | 15  27-13      | 15  19-21      | 30  46-34
-5   Changchun Yatai         53 | 15  24-19      | 15  28-23      | 30  52-42
-6   Hangzhou Greentown      51 | 15  27-18      | 15  22-22      | 30  49-40
-7   Nei Mongol Zhongyou     51 | 15  20-12      | 15  15-18      | 30  35-30
-8   Beijing Baxy            46 | 15  35-15      | 15  16-15      | 30  51-30
-9   Shaanxi Changan Athlet  44 | 15  26-18      | 15  13-19      | 30  39-37
-10  Meizhou Kejia           39 | 15  22-17      | 15  22-24      | 30  44-41
-11  Meizhou Meixian Techan  36 | 15  20-22      | 15  21-28      | 30  41-50
-12  Nantong Zhiyun          33 | 15  16-18      | 15  19-20      | 30  35-38
-13  Xinjiang Tianshan       33 | 15  28-23      | 15  11-32      | 30  39-55
-14  Sichuan Longfor         31 | 15  20-20      | 15  16-32      | 30  36-52
-15  liaoning hongyun FC     21 | 15  18-30      | 15  15-27      | 30  33-57
-16  Shanghai Shenxin        12 | 15  11-37      | 15  19-45      | 30  30-82
+(Shenyang Urban: same table as Qingdao Jonoon, shown above)
 
-(26 API-Football requests used)
+(25 API-Football requests used)
 
 ----------------------------------------------------------------------
 MATCHBOOK: skipped (switched off for this run)
