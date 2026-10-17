@@ -1,10 +1,2 @@
-# 2026-10-17 14:42 scheduled scan: team name retries
-Sandviken v id:376 | n=20 | xg=10
-Vantaa v id:9198 | n=20 | xg=10
-id:560 v id:3723 | n=20 | xg=10
-id:258 v Dundee Utd | n=20 | xg=10
-id:1367 v York | n=20 | xg=10
-id:69 v id:75 | n=20 | xg=10
-id:1360 v id:1347 | n=20 | xg=10
-id:1361 v id:1364 | n=20 | xg=10
-id:1353 v id:1342 | n=20 | xg=10
+# 2026-10-17 14:37 scheduled scan: PK-35 by id
+id:1173 v id:9198 | n=20 | xg=10
