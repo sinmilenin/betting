@@ -1,8 +1,34 @@
-MATCH HamKam Fotball v id:327 | fetched 2026-10-17 10:18 local
+MATCH Ham v id:327 | fetched 2026-10-17 10:19 local
 
-FORM DATA HamKam Fotball v id:327 | source API-Football | 2026-10-17 10:18 UTC
+FORM DATA Ham v id:327 | source API-Football | 2026-10-17 10:19 UTC
 H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
 
+"Ham" matches several teams. Use id:<number> instead of the name:
+  id:36     Fulham (England)
+  id:41     Southampton (England)
+  id:47     Tottenham (England)
+  id:48     West Ham (England)
+  id:54     Birmingham (England)
+  id:65     Nottingham Forest (England)
+  id:73     Rotherham (England)
+  id:175    Hamburger SV (Germany)
+  id:248    Hamilton Academical (Scotland)
+  id:296    Yokohama F. Marinos (Japan)
+  id:307    Yokohama FC (Japan)
+  id:363    Hammarby FF (Sweden)
+  id:587    Mariehamn (Finland)
+  id:652    Shamrock Rovers (Ireland)
+  id:1191   CS Hammam-Lif (Tunisia)
+  id:1199   Novo Hamburgo (Brazil)
+  id:1291   Chambly Thelle FC (France)
+  id:1337   Northampton (England)
+  id:1347   Gillingham (England)
+  id:1349   Oldham (England)
+  id:1372   Cheltenham (England)
+  id:1821   Dagenham & Redbridge (England)
+  id:1830   Boreham Wood (England)
+  id:1837   Wrexham (Wales)
+  id:1845   Birmingham City W (England)
 === Bodo/Glimt (id 327): last 20 finished games ===
 2026-10-14 H 1-0 v Borussia Dortmund | UEFA Champions League | Hakata | xG 1.20-0.85
 2026-10-10 H 3-1 v Kristiansund BK | Eliteserien | Hakata | xG 3.96-0.20
@@ -28,7 +54,34 @@ Listed home: 10 games, scored 28 (2.80), conceded 7 (0.70), blanks 0, clean shee
 Listed away: 10 games, scored 27 (2.70), conceded 15 (1.50), blanks 1, clean sheets 3
 All: 20 games, scored 55 (2.75), conceded 22 (1.10), blanks 1, clean sheets 9
 
-!! HamKam Fotball: No team found for "HamKam Fotball".
+(retrying Ham using the opponent's country, Norway)
+"Ham" matches several teams. Use id:<number> instead of the name:
+  id:36     Fulham (England)
+  id:41     Southampton (England)
+  id:47     Tottenham (England)
+  id:48     West Ham (England)
+  id:54     Birmingham (England)
+  id:65     Nottingham Forest (England)
+  id:73     Rotherham (England)
+  id:175    Hamburger SV (Germany)
+  id:248    Hamilton Academical (Scotland)
+  id:296    Yokohama F. Marinos (Japan)
+  id:307    Yokohama FC (Japan)
+  id:363    Hammarby FF (Sweden)
+  id:587    Mariehamn (Finland)
+  id:652    Shamrock Rovers (Ireland)
+  id:1191   CS Hammam-Lif (Tunisia)
+  id:1199   Novo Hamburgo (Brazil)
+  id:1291   Chambly Thelle FC (France)
+  id:1337   Northampton (England)
+  id:1347   Gillingham (England)
+  id:1349   Oldham (England)
+  id:1372   Cheltenham (England)
+  id:1821   Dagenham & Redbridge (England)
+  id:1830   Boreham Wood (England)
+  id:1837   Wrexham (Wales)
+  id:1845   Birmingham City W (England)
+!! Ham: Ambiguous team name "Ham".
 
 TABLE FOR Bodo/Glimt
 LEAGUE TABLE UEFA Champions League 2026 | 36 teams | 36 games played
@@ -71,7 +124,7 @@ League averages per game: home 2.44, away 1.64, total 4.08
 35  Galatasaray              0 |  1   1-4       |  1   1-3       |  2   2-7
 36  Slovan Bratislava        0 |  1   0-3       |  1   1-6       |  2   1-9
 
-(13 API-Football requests used)
+(15 API-Football requests used)
 
 ----------------------------------------------------------------------
 MATCHBOOK: skipped (switched off for this run)

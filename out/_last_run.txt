@@ -1,6 +1,4 @@
-RUN 2026-10-17 10:18 local | 2 match(es)
-Ham Kam v id:327 -> out/Ham_Kam_v_id_327.txt
-    !! Ham Kam: No team found for "Ham Kam".
-HamKam Fotball v id:327 -> out/HamKam_Fotball_v_id_327.txt
-    !! HamKam Fotball: No team found for "HamKam Fotball".
-Requests used: API-Football 27, Matchbook 0
+RUN 2026-10-17 10:19 local | 1 match(es)
+Ham v id:327 -> out/Ham_v_id_327.txt
+    !! Ham: Ambiguous team name "Ham".
+Requests used: API-Football 15, Matchbook 0
