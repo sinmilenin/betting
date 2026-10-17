@@ -1,4 +1,6 @@
-RUN 2026-10-17 10:19 local | 1 match(es)
-Ham v id:327 -> out/Ham_v_id_327.txt
-    !! Ham: Ambiguous team name "Ham".
-Requests used: API-Football 15, Matchbook 0
+RUN 2026-10-17 10:58 local | 3 match(es)
+Inter Kashi v Odisha -> out/Inter_Kashi_v_Odisha.txt
+Qabala v Sabah -> out/Qabala_v_Sabah.txt
+    !! Sabah: Ambiguous team name "Sabah".
+Motor Lublin v Slask Wroclaw -> out/Motor_Lublin_v_Slask_Wroclaw.txt
+Requests used: API-Football 65, Matchbook 0

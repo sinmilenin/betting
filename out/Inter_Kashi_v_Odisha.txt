@@ -1,0 +1,79 @@
+MATCH Inter Kashi v Odisha | fetched 2026-10-17 10:58 local
+
+FORM DATA Inter Kashi v Odisha | source API-Football | 2026-10-17 10:58 UTC
+H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
+
+=== Inter Kashi (id 22595): last 20 finished games ===
+2026-10-11 H 0-2 v Kerala Blasters | Indian Super League | Kalyani
+2026-05-21 H 1-2 v East Bengal II | Indian Super League | Kalyani
+2026-05-17 A 0-0 v SC Delhi | Indian Super League | New Delhi | xG 2.18-0.63
+2026-05-12 A 0-0 v ATK Mohun Bagan | Indian Super League | Kolkata | xG 0.75-1.11
+2026-05-02 A 2-3 v NorthEast United | Indian Super League | Guwahati
+2026-04-20 A 0-3 v Minerva Punjab | Indian Super League | New Delhi | xG 0.32-1.77
+2026-04-12 H 1-0 v Mohammedan | Indian Super League | Kalyani | xG 0.67-0.71
+2026-04-07 A 2-1 v Chennaiyin | Indian Super League | Chennai | xG 1.07-0.71
+2026-03-22 H 1-3 v Bengaluru | Indian Super League | Kalyani | xG 0.60-1.53
+2026-03-15 H 1-2 v Mumbai City | Indian Super League | Kalyani | xG 1.44-2.05
+2026-03-06 A 0-1 v Jamshedpur | Indian Super League | Jamshedpur
+2026-02-28 A 2-1 v Kerala Blasters | Indian Super League | Kochi
+2026-02-24 A 0-0 v Odisha | Indian Super League | Bhubaneswar
+2026-02-14 A 1-1 v Goa | Indian Super League | Margao
+2025-11-01 H 0-2 v Jamshedpur | AIFF Super Cup | Bambolim
+2025-10-29 A 0-3 v Goa | AIFF Super Cup | Margao
+2025-10-26 A 2-2 v NorthEast United | AIFF Super Cup | Bambolim
+2025-04-27 H 0-1 v Mumbai City | AIFF Super Cup | Bhubaneswar
+2025-04-23 A 1-1 v Bengaluru | AIFF Super Cup | Bhubaneswar [PEN, 90-min score shown]
+2025-04-06 H 3-1 v Rajasthan United | I-League | Kalyani
+Listed home: 8 games, scored 7 (0.88), conceded 13 (1.62), blanks 3, clean sheets 1
+Listed away: 12 games, scored 10 (0.83), conceded 16 (1.33), blanks 6, clean sheets 3
+All: 20 games, scored 17 (0.85), conceded 29 (1.45), blanks 9, clean sheets 4
+
+=== Odisha (id 7177): last 20 finished games ===
+2026-10-14 A 1-2 v Minerva Punjab | Indian Super League | New Delhi
+2026-05-21 A 0-0 v Jamshedpur | Indian Super League | Jamshedpur
+2026-05-16 H 2-3 v Minerva Punjab | Indian Super League | Bhubaneswar
+2026-05-08 A 2-1 v SC Delhi | Indian Super League | New Delhi
+2026-05-04 H 1-1 v Bengaluru | Indian Super League | Bhubaneswar | xG 1.36-2.98
+2026-04-28 A 0-3 v East Bengal II | Indian Super League | Kolkata | xG 0.63-2.21
+2026-04-23 A 1-2 v Kerala Blasters | Indian Super League | Kochi | xG 0.67-1.40
+2026-04-17 H 1-1 v Mohammedan | Indian Super League | Bhubaneswar | xG 1.50-1.92
+2026-04-10 A 1-3 v Goa | Indian Super League | Margao | xG 0.70-1.78
+2026-04-05 A 0-1 v Mumbai City | Indian Super League | Mumbai | xG 0.57-2.31
+2026-03-20 A 4-1 v NorthEast United | Indian Super League | Guwahati
+2026-03-06 A 1-5 v ATK Mohun Bagan | Indian Super League | Kolkata
+2026-03-01 H 1-1 v Chennaiyin | Indian Super League | Bhubaneswar
+2026-02-24 H 0-0 v Inter Kashi | Indian Super League | Bhubaneswar
+2026-01-31 A 2-5 v Punjab | Santosh Trophy | ?
+2026-01-29 H 1-1 v Railways | Santosh Trophy | ?
+2026-01-27 A 0-1 v Kerala | Santosh Trophy | ?
+2026-01-24 A 0-0 v Services | Santosh Trophy | ?
+2026-01-22 H 0-1 v Meghalaya | Santosh Trophy | ?
+2025-12-26 A 3-1 v Chhattisgarh | Santosh Trophy | ?
+Listed home: 7 games, scored 6 (0.86), conceded 8 (1.14), blanks 2, clean sheets 1
+Listed away: 13 games, scored 15 (1.15), conceded 25 (1.92), blanks 5, clean sheets 2
+All: 20 games, scored 21 (1.05), conceded 33 (1.65), blanks 7, clean sheets 3
+
+TABLE FOR Inter Kashi
+LEAGUE TABLE Indian Super League 2026 | 13 teams | 7 games played
+League averages per game: home 1.43, away 1.29, total 2.71
+#   team                   Pts | home P GF-GA  | away P GF-GA  | all P GF-GA
+1   Kerala Blasters          3 |  0   0-0       |  1   2-0       |  1   2-0
+2   Bengaluru                3 |  1   3-2       |  0   0-0       |  1   3-2
+3   Churchill Brothers       3 |  1   2-1       |  0   0-0       |  1   2-1
+4   Minerva Punjab           3 |  1   2-1       |  0   0-0       |  1   2-1
+5   NorthEast United         3 |  1   1-0       |  0   0-0       |  1   1-0
+6   ATK Mohun Bagan          3 |  0   0-0       |  2   2-2       |  2   2-2
+7   Chennaiyin               1 |  0   0-0       |  1   1-1       |  1   1-1
+8   Goa                      1 |  1   1-1       |  0   0-0       |  1   1-1
+9   East Bengal II           0 |  0   0-0       |  0   0-0       |  0   0-0
+10  Odisha                   0 |  0   0-0       |  1   1-2       |  1   1-2
+11  Mumbai City              0 |  0   0-0       |  1   1-2       |  1   1-2
+12  SC Delhi                 0 |  1   1-2       |  1   2-3       |  2   3-5
+13  Inter Kashi              0 |  1   0-2       |  0   0-0       |  1   0-2
+
+(Odisha: same table as Inter Kashi, shown above)
+
+(25 API-Football requests used)
+
+----------------------------------------------------------------------
+MATCHBOOK: skipped (switched off for this run)
