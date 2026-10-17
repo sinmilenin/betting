@@ -1,0 +1,102 @@
+MATCH Boyaca Chico v Atletico Nacional | fetched 2026-10-17 18:27 local
+
+FORM DATA Boyaca Chico v Atletico Nacional | source API-Football | 2026-10-17 18:27 UTC
+H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
+
+=== Boyacá Chicó W (id 20878): last 16 finished games ===
+2023-05-23 H 1-1 v Junior W | Liga Femenina | Yopal
+2023-05-18 A 0-0 v Deportivo Cali W | Liga Femenina | Palmira
+2023-05-13 H 2-1 v Millonarios W | Liga Femenina | Yopal
+2023-05-07 A 1-1 v Deportivo Pasto W | Liga Femenina | San Juan de Pasto
+2023-04-30 H 0-0 v Real San Andrés W | Liga Femenina | Yopal
+2023-04-25 A 3-1 v Deportes Tolima W | Liga Femenina | Ibagué
+2023-04-16 H 2-0 v Independiente Medellín W | Liga Femenina | Yopal
+2023-04-03 A 1-1 v Atlético Huila W | Liga Femenina | Neiva
+2023-03-26 H 0-3 v América de Cali W | Liga Femenina | Yopal
+2023-03-18 A 0-0 v Atlético Bucaramanga W | Liga Femenina | Floridablanca
+2023-03-11 H 0-2 v Santa Fe W | Liga Femenina | Yopal
+2023-03-06 A 0-2 v Llaneros W | Liga Femenina | Villavicencio
+2023-03-02 H 1-1 v Cortuluá W | Liga Femenina | Yopal
+2023-02-26 A 1-0 v La Equidad W | Liga Femenina | Bogotá, D.C.
+2023-02-12 H 1-2 v Deportivo Pereira W | Liga Femenina | Yopal
+2023-02-07 A 0-0 v Atlético Nacional W | Liga Femenina | Medellín
+Listed home: 8 games, scored 7 (0.88), conceded 10 (1.25), blanks 3, clean sheets 2
+Listed away: 8 games, scored 6 (0.75), conceded 5 (0.62), blanks 4, clean sheets 4
+All: 16 games, scored 13 (0.81), conceded 15 (0.94), blanks 7, clean sheets 6
+
+=== Atletico Nacional (id 1137): last 20 finished games ===
+2026-10-15 H 3-2 v Independiente Medellin | Copa Colombia | ?
+2026-10-08 H 0-0 v Deportes Tolima | Primera A | Itagui
+2026-10-01 H 3-1 v Junior | Primera A | Medellin
+2026-09-26 H 1-1 v Chapecoense-sc | Friendlies Clubs | ?
+2026-09-25 H 1-1 v Millonarios | Primera A | Medellin
+2026-09-21 A 0-2 v Llaneros | Primera A | Villavicencio | xG 1.18-0.83
+2026-09-17 A 3-2 v Internacional de Bogota | Primera A | ? | xG 1.48-0.53
+2026-09-13 H 2-0 v Águilas Doradas | Primera A | Medellin | xG 1.37-0.73
+2026-09-08 H 3-0 v Deportivo Cali | Copa Colombia | Medellin
+2026-08-30 A 5-1 v Alianza Valledupar | Primera A | Valledupar | xG 2.31-1.09
+2026-08-27 H 2-1 v Deportivo Cali | Primera A | Medellin
+2026-08-23 A 2-1 v Fortaleza FC | Primera A | Bogota
+2026-08-10 A 0-1 v America de Cali | Primera A | Santiago de Cali
+2026-08-02 A 3-0 v Jaguares | Primera A | Monteria
+2026-07-29 A 2-0 v Tigres FC | Copa Colombia | Soacha
+2026-07-21 H 2-0 v Tigres FC | Copa Colombia | Medellin
+2026-07-18 H 1-2 v Deportivo Tachira FC | Friendlies Clubs | ?
+2026-06-08 H 1-0 v Junior | Primera A | Medellin
+2026-06-03 A 0-3 v Junior | Primera A | Barranquilla
+2026-05-23 H 3-1 v Deportes Tolima | Primera A | Medellin
+Listed home: 12 games, scored 22 (1.83), conceded 9 (0.75), blanks 1, clean sheets 5
+Listed away: 8 games, scored 15 (1.88), conceded 10 (1.25), blanks 3, clean sheets 2
+All: 20 games, scored 37 (1.85), conceded 19 (0.95), blanks 4, clean sheets 7
+
+(no league table available for Boyacá Chicó W: tried Liga Femenina 2023)
+
+TABLE FOR Atletico Nacional
+LEAGUE TABLE Primera A 2026 | 40 teams | 318 games played
+League averages per game: home 1.50, away 1.05, total 2.55
+#   team                   Pts | home P GF-GA  | away P GF-GA  | all P GF-GA
+1   Atletico Nacional       40 |  9  22-3       | 10  13-12      | 19  35-15 [Apertura]
+2   Junior                  35 | 10  17-14      |  9  14-10      | 19  31-24 [Apertura]
+3   Deportivo Pasto         34 | 10  14-8       |  9  15-17      | 19  29-25 [Apertura]
+4   America de Cali         33 |  9  15-3       | 10  10-12      | 19  25-15 [Apertura]
+5   Once Caldas             33 | 10  20-13      |  9  11-9       | 19  31-22 [Apertura]
+6   Deportes Tolima         31 | 10  19-7       |  9   8-10      | 19  27-17 [Apertura]
+7   Santa Fe                29 |  9  17-10      | 10  12-12      | 19  29-22 [Apertura]
+8   Internacional de Bogot  28 |  9  16-9       | 10  10-17      | 19  26-26 [Apertura]
+9   Deportivo Cali          27 | 10  12-6       |  9   8-10      | 19  20-16 [Apertura]
+10  Millonarios             26 | 10  19-7       |  9  12-16      | 19  31-23 [Apertura]
+11  Independiente Medellin  26 | 10  15-13      |  9  11-11      | 19  26-24 [Apertura]
+12  Águilas Doradas         26 | 10  12-14      |  9   8-11      | 19  20-25 [Apertura]
+13  Bucaramanga             23 |  9  19-6       | 10   7-14      | 19  26-20 [Apertura]
+14  Llaneros                22 |  9  10-9       | 10   7-11      | 19  17-20 [Apertura]
+15  Fortaleza FC            22 | 10  14-10      |  9   8-17      | 19  22-27 [Apertura]
+16  Jaguares                18 | 10  14-12      |  9   6-21      | 19  20-33 [Apertura]
+17  Alianza Valledupar      17 |  9   7-9       | 10   6-18      | 19  13-27 [Apertura]
+18  Chico                   17 |  9  13-5       | 10   2-27      | 19  15-32 [Apertura]
+19  Cucuta                  16 |  9  12-13      | 10  10-22      | 19  22-35 [Apertura]
+20  Deportivo Pereira       10 |  9   9-13      | 10   6-19      | 19  15-32 [Apertura]
+1   America de Cali         27 |  7  17-5       |  6   8-4       | 13  25-9 [Clausura]
+2   Deportivo Cali          25 |  6  13-4       |  7   7-5       | 13  20-9 [Clausura]
+3   Bucaramanga             24 |  6  10-6       |  6  11-5       | 12  21-11 [Clausura]
+4   Atletico Nacional       23 |  5   8-3       |  6  13-7       | 11  21-10 [Clausura]
+5   Independiente Medellin  23 |  7  10-8       |  6  11-9       | 13  21-17 [Clausura]
+6   Santa Fe                22 |  7  10-7       |  5   9-5       | 12  19-12 [Clausura]
+7   Millonarios             22 |  5   6-2       |  9  13-10      | 14  19-12 [Clausura]
+8   Deportes Tolima         20 |  7   9-7       |  7   8-9       | 14  17-16 [Clausura]
+9   Cucuta                  18 |  6  11-6       |  7   5-13      | 13  16-19 [Clausura]
+10  Once Caldas             16 |  6   9-7       |  7   7-9       | 13  16-16 [Clausura]
+11  Águilas Doradas         16 |  6  10-7       |  7   7-11      | 13  17-18 [Clausura]
+12  Llaneros                14 |  6   8-7       |  7   7-10      | 13  15-17 [Clausura]
+13  Internacional de Bogot  14 |  7  10-11      |  7   6-9       | 14  16-20 [Clausura]
+14  Chico                   12 |  6   8-4       |  6   2-15      | 12  10-19 [Clausura]
+15  Alianza Valledupar      12 |  8   9-17      |  5   5-9       | 13  14-26 [Clausura]
+16  Junior                  11 |  7  10-9       |  6   9-14      | 13  19-23 [Clausura]
+17  Fortaleza FC            11 |  7   8-11      |  6   6-8       | 13  14-19 [Clausura]
+18  Jaguares                10 |  7  10-12      |  5   4-10      | 12  14-22 [Clausura]
+19  Deportivo Pereira       10 |  6   3-9       |  7   5-9       | 13   8-18 [Clausura]
+20  Deportivo Pasto          9 |  6   3-7       |  6   6-11      | 12   9-18 [Clausura]
+
+(27 API-Football requests used)
+
+----------------------------------------------------------------------
+MATCHBOOK: skipped (switched off for this run)

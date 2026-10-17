@@ -1,4 +1,8 @@
-RUN 2026-10-17 17:45 local | 2 match(es)
-id:532 v id:531 -> out/id_532_v_id_531.txt
-id:534 v id:5254 -> out/id_534_v_id_5254.txt
-Requests used: API-Football 50, Matchbook 0
+RUN 2026-10-17 18:27 local | 5 match(es)
+Dundee v Rangers -> out/Dundee_v_Rangers.txt
+Macara v Independiente del Valle -> out/Macara_v_Independiente_del_Valle.txt
+Zamora v Academia Anzoategui -> out/Zamora_v_Academia_Anzoategui.txt
+    !! Academia Anzoategui: No team found for "Academia Anzoategui".
+Boyaca Chico v Atletico Nacional -> out/Boyaca_Chico_v_Atletico_Nacional.txt
+Cavalry v Pacific -> out/Cavalry_v_Pacific.txt
+Requests used: API-Football 118, Matchbook 0
