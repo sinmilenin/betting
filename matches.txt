@@ -1,3 +1,2 @@
-# 2026-10-17 11:30 scheduled scan (Dalian Yingbo / Shenzhen Peng City by id)
-id:21263 v id:5685 | n=20 | xg=10
-id:21263 v id:27757 | n=20 | xg=10
+# 2026-10-17 11:30 scheduled scan (Shenzhen Peng City = Sichuan Jiuniu in API-Football)
+id:21263 v Sichuan Jiuniu | n=20 | xg=10
