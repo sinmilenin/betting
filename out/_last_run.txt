@@ -1,4 +1,3 @@
-RUN 2026-10-17 06:27 local | 2 match(es)
-Mito v Urawa -> out/Mito_v_Urawa.txt
-Ulsan Hyundai v Bucheon -> out/Ulsan_Hyundai_v_Bucheon.txt
-Requests used: API-Football 52, Matchbook 0
+RUN 2026-10-17 07:12 local | 1 match(es)
+Central Coast Mariners v Newcastle Jets -> out/Central_Coast_Mariners_v_Newcastle_Jets.txt
+Requests used: API-Football 27, Matchbook 0
