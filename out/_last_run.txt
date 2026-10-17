@@ -1,12 +1,4 @@
-RUN 2026-10-17 17:42 local | 6 match(es)
-Al Diriyah v Al Taawon -> out/Al_Diriyah_v_Al_Taawon.txt
-Red Star FC 93 v Saint Etienne -> out/Red_Star_FC_93_v_Saint_Etienne.txt
-Sparta Rotterdam v Willem II -> out/Sparta_Rotterdam_v_Willem_II.txt
-Valencia v Athletic Club -> out/Valencia_v_Athletic_Club.txt
-    !! Valencia: Ambiguous team name "Valencia".
-    !! Athletic Club: Ambiguous team name "Athletic Club".
-Las Palmas v Castellon -> out/Las_Palmas_v_Castellon.txt
-    !! Las Palmas: Ambiguous team name "Las Palmas".
-    !! Castellon: Ambiguous team name "Castellon".
-Ceara v Juventude -> out/Ceara_v_Juventude.txt
-Requests used: API-Football 106, Matchbook 0
+RUN 2026-10-17 17:45 local | 2 match(es)
+id:532 v id:531 -> out/id_532_v_id_531.txt
+id:534 v id:5254 -> out/id_534_v_id_5254.txt
+Requests used: API-Football 50, Matchbook 0
