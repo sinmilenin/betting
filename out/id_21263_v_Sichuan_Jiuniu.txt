@@ -1,6 +1,6 @@
-MATCH id:21263 v id:27757 | fetched 2026-10-17 09:29 local
+MATCH id:21263 v Sichuan Jiuniu | fetched 2026-10-17 09:30 local
 
-FORM DATA id:21263 v id:27757 | source API-Football | 2026-10-17 09:29 UTC
+FORM DATA id:21263 v Sichuan Jiuniu | source API-Football | 2026-10-17 09:30 UTC
 H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
 
 === Dalian Zhixing (id 21263): last 20 finished games ===
@@ -28,10 +28,30 @@ Listed home: 9 games, scored 16 (1.78), conceded 12 (1.33), blanks 0, clean shee
 Listed away: 11 games, scored 14 (1.27), conceded 15 (1.36), blanks 1, clean sheets 2
 All: 20 games, scored 30 (1.50), conceded 27 (1.35), blanks 1, clean sheets 5
 
-=== Shenzhen Peng (id 27757): last 0 finished games ===
-Listed home: no games
-Listed away: no games
-All: no games
+=== Sichuan Jiuniu (id 5686): last 20 finished games ===
+2026-10-09 H 2-2 v Henan Jianye | Super League | Shenzhen
+2026-09-05 A 1-1 v Shandong Luneng | Super League | Jinan
+2026-08-28 H 0-1 v SHANGHAI SIPG | Super League | Chengdu | xG 0.89-0.97
+2026-08-22 H 1-1 v Hangzhou Greentown | Super League | Chengdu | xG 1.76-1.26
+2026-08-15 A 2-1 v Shenyang Urban | Super League | Shenyang
+2026-08-07 A 0-4 v Beijing Guoan | Super League | Beijing
+2026-08-02 H 2-0 v Chongqing Tongliang Long | Super League | Shenzhen
+2026-07-26 A 3-4 v Yunnan Yukun | Super League | Yuxi | xG 1.74-1.34
+2026-07-21 A 1-1 v SHANGHAI SIPG | FA Cup | Shanghai [PEN, 90-min score shown]
+2026-07-18 A 0-2 v Wuhan Three Towns | Super League | Wuhan | xG 0.76-3.87
+2026-07-11 H 3-0 v Qingdao Youth Island | Super League | Shenzhen
+2026-07-04 A 0-3 v Tianjin Teda | Super League | Tianjin
+2026-06-27 H 2-3 v Chengdu Better City | Super League | Shenzhen
+2026-06-19 A 3-1 v Shenzhen Juniors | FA Cup | Shenzhen
+2026-05-30 H 3-2 v Qingdao Jonoon | Super League | Shenzhen
+2026-05-24 A 2-1 v Shanghai Shenhua | Super League | Shanghai
+2026-05-19 H 1-1 v Dalian Zhixing | Super League | Shenzhen
+2026-05-15 A 0-1 v Henan Jianye | Super League | Zhengzhou
+2026-05-10 H 1-2 v Shandong Luneng | Super League | Shenzhen
+2026-05-06 A 1-1 v SHANGHAI SIPG | Super League | Shanghai
+Listed home: 9 games, scored 15 (1.67), conceded 12 (1.33), blanks 1, clean sheets 2
+Listed away: 11 games, scored 13 (1.18), conceded 20 (1.82), blanks 4, clean sheets 0
+All: 20 games, scored 28 (1.40), conceded 32 (1.60), blanks 5, clean sheets 2
 
 TABLE FOR Dalian Zhixing
 LEAGUE TABLE Super League 2026 | 16 teams | 217 games played
@@ -54,9 +74,9 @@ League averages per game: home 1.76, away 1.34, total 3.11
 15  Wuhan Three Towns       22 | 13  18-16      | 14  22-31      | 27  40-47
 16  Qingdao Jonoon          14 | 13  18-22      | 14  16-34      | 27  34-56
 
-(no league table available for Shenzhen Peng: tried no competitions)
+(Sichuan Jiuniu: same table as Dalian Zhixing, shown above)
 
-(14 API-Football requests used)
+(25 API-Football requests used)
 
 ----------------------------------------------------------------------
 MATCHBOOK: skipped (switched off for this run)
