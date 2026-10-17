@@ -1,0 +1,29 @@
+MATCH Dalian v Shenzhen | fetched 2026-10-17 09:28 local
+
+FORM DATA Dalian v Shenzhen | source API-Football | 2026-10-17 09:29 UTC
+H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
+
+"Dalian" matches several teams. Use id:<number> instead of the name:
+  id:831    Dalian Aerbin (China)
+  id:1437   Dalian Transcendence (China)
+  id:5651   Dalian Chanjoy (China)
+  id:5652   Dalian Huayi (China)
+  id:5653   Dalian Tongshun (China)
+  id:21263  Dalian Zhixing (China)
+  id:27620  Dalian Kewei (China)
+  id:27621  Dalian Yingbo B (China)
+"Shenzhen" matches several teams. Use id:<number> instead of the name:
+  id:1433   Shenzhen Ruby FC (China)
+  id:5685   Shenzhen Pengcheng (China)
+  id:23150  Shenzhen Jixiang (China)
+  id:23265  Shenzhen Juniors (China)
+  id:25779  Shenzhen 2028 (China)
+  id:27757  Shenzhen Peng (China)
+!! Dalian: Ambiguous team name "Dalian".
+
+!! Shenzhen: Ambiguous team name "Shenzhen".
+
+(2 API-Football requests used)
+
+----------------------------------------------------------------------
+MATCHBOOK: skipped (switched off for this run)

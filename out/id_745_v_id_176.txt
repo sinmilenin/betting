@@ -1,0 +1,84 @@
+MATCH id:745 v id:176 | fetched 2026-10-17 09:28 local
+
+FORM DATA id:745 v id:176 | source API-Football | 2026-10-17 09:28 UTC
+H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
+
+=== 1. FC Kaiserslautern (id 745): last 20 finished games ===
+2026-10-09 A 0-0 v 1. FC Heidenheim | 2. Bundesliga | Heidenheim | xG 1.32-0.78
+2026-10-02 H 1-1 v SG Sonnenhof Grossaspach | Friendlies Clubs | ?
+2026-09-19 H 1-0 v Eintracht Braunschweig | 2. Bundesliga | Kaiserslautern | xG 1.88-1.17
+2026-09-12 A 0-3 v 1. FC Magdeburg | 2. Bundesliga | Magdeburg | xG 1.08-1.12
+2026-09-05 H 3-0 v SV Darmstadt 98 | 2. Bundesliga | Kaiserslautern | xG 2.63-1.04
+2026-08-30 A 2-1 v FC St. Pauli | 2. Bundesliga | Hamburg | xG 0.71-1.34
+2026-08-21 A 0-0 v Waldhof Mannheim | DFB Pokal | Mannheim [AET, 90-min score shown]
+2026-08-15 H 0-0 v Karlsruher SC | 2. Bundesliga | Kaiserslautern | xG 1.05-0.75
+2026-08-08 A 0-0 v VfL Wolfsburg | 2. Bundesliga | Wolfsburg | xG 0.86-1.26
+2026-08-01 A 3-1 v Metz | Friendlies Clubs | ?
+2026-07-25 A 0-0 v Sudtirol | Friendlies Clubs | ?
+2026-07-17 A 1-4 v FSV Mainz 05 | Friendlies Clubs | ?
+2026-07-10 A 5-3 v SV Sandhausen | Friendlies Clubs | ?
+2026-05-17 A 1-0 v 1. FC Magdeburg | 2. Bundesliga | Magdeburg
+2026-05-08 H 2-0 v Arminia Bielefeld | 2. Bundesliga | Kaiserslautern
+2026-05-02 A 0-1 v Dynamo Dresden | 2. Bundesliga | Dresden
+2026-04-24 H 0-2 v Eintracht Braunschweig | 2. Bundesliga | Kaiserslautern
+2026-04-17 A 0-3 v Holstein Kiel | 2. Bundesliga | Kiel
+2026-04-11 A 1-0 v Hertha BSC | 2. Bundesliga | Berlin
+2026-04-04 H 3-0 v Fortuna Düsseldorf | 2. Bundesliga | Kaiserslautern
+Listed home: 7 games, scored 10 (1.43), conceded 3 (0.43), blanks 2, clean sheets 5
+Listed away: 13 games, scored 13 (1.00), conceded 16 (1.23), blanks 7, clean sheets 6
+All: 20 games, scored 23 (1.15), conceded 19 (0.95), blanks 9, clean sheets 11
+
+=== VfL Bochum (id 176): last 20 finished games ===
+2026-10-11 H 0-1 v Arminia Bielefeld | 2. Bundesliga | Bochum | xG 0.53-1.52
+2026-10-02 H 4-1 v VfL Osnabrück | Friendlies Clubs | ?
+2026-09-20 A 1-2 v Hannover 96 | 2. Bundesliga | Hannover | xG 1.73-1.77
+2026-09-12 H 1-1 v SpVgg Greuther Fürth | 2. Bundesliga | Bochum | xG 1.53-1.64
+2026-09-05 A 2-1 v Dynamo Dresden | 2. Bundesliga | Dresden
+2026-08-28 H 0-1 v VfL Osnabrück | 2. Bundesliga | Bochum | xG 1.37-0.52
+2026-08-23 A 2-1 v SpVgg Greuther Fürth | DFB Pokal | Fürth
+2026-08-14 A 1-0 v Eintracht Braunschweig | 2. Bundesliga | Braunschweig | xG 1.23-1.51
+2026-08-07 H 0-1 v Hertha BSC | 2. Bundesliga | Bochum | xG 1.04-0.64
+2026-08-01 H 0-0 v Sheffield Utd | Friendlies Clubs | ?
+2026-07-25 A 0-2 v Werder Bremen | Friendlies Clubs | ?
+2026-07-21 A 2-0 v Swansea | Friendlies Clubs | ?
+2026-07-15 A 1-1 v Ajax | Friendlies Clubs | Ouder-Amstel
+2026-07-11 H 1-0 v Antwerp | Friendlies Clubs | ?
+2026-07-04 A 3-2 v Rot-weiss Oberhausen | Friendlies Clubs | ?
+2026-05-17 A 2-1 v Karlsruher SC | 2. Bundesliga | Karlsruhe
+2026-05-09 H 1-1 v Hannover 96 | 2. Bundesliga | Bochum
+2026-05-02 A 1-1 v Arminia Bielefeld | 2. Bundesliga | Bielefeld
+2026-04-26 H 2-1 v SpVgg Greuther Fürth | 2. Bundesliga | Bochum
+2026-04-18 A 0-2 v Dynamo Dresden | 2. Bundesliga | Dresden
+Listed home: 9 games, scored 9 (1.00), conceded 7 (0.78), blanks 4, clean sheets 2
+Listed away: 11 games, scored 15 (1.36), conceded 13 (1.18), blanks 2, clean sheets 2
+All: 20 games, scored 24 (1.20), conceded 20 (1.00), blanks 6, clean sheets 4
+
+TABLE FOR 1. FC Kaiserslautern
+LEAGUE TABLE 2. Bundesliga 2026 | 18 teams | 65 games played
+League averages per game: home 1.71, away 1.45, total 3.15
+#   team                   Pts | home P GF-GA  | away P GF-GA  | all P GF-GA
+1   Hertha BSC              22 |  3   8-3       |  5  11-5       |  8  19-8
+2   1. FC Nürnberg          18 |  4  13-6       |  4   8-5       |  8  21-11
+3   1. FC Heidenheim        14 |  4  10-6       |  3   4-6       |  7  14-12
+4   1. FC Magdeburg         13 |  4   9-6       |  3   5-3       |  7  14-9
+5   VfL Wolfsburg           12 |  3   9-5       |  4  10-7       |  7  19-12
+6   1. FC Kaiserslautern    12 |  3   4-0       |  4   2-4       |  7   6-4
+7   FC St. Pauli            10 |  4   5-3       |  3   5-5       |  7  10-8
+8   Energie Cottbus          9 |  4   8-7       |  4   8-10      |  8  16-17
+9   Arminia Bielefeld        8 |  3   7-4       |  4   4-8       |  7  11-12
+10  VfL Osnabrück            8 |  4   5-8       |  3   5-5       |  7  10-13
+11  Eintracht Braunschweig   7 |  4   6-8       |  3   7-5       |  7  13-13
+12  VfL Bochum               7 |  4   1-4       |  3   4-3       |  7   5-7
+13  Hannover 96              7 |  3   4-4       |  4   3-8       |  7   7-12
+14  SV Darmstadt 98          7 |  4   7-5       |  3   1-9       |  7   8-14
+15  SpVgg Greuther Fürth     6 |  3   3-6       |  4   7-7       |  7  10-13
+16  Holstein Kiel            5 |  4   5-5       |  4   2-6       |  8   7-11
+17  Dynamo Dresden           5 |  3   3-4       |  4   6-11      |  7   9-15
+18  Karlsruher SC            5 |  4   4-10      |  3   2-4       |  7   6-14
+
+(VfL Bochum: same table as 1. FC Kaiserslautern, shown above)
+
+(25 API-Football requests used)
+
+----------------------------------------------------------------------
+MATCHBOOK: skipped (switched off for this run)

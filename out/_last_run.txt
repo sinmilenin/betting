@@ -1,14 +1,8 @@
-RUN 2026-10-17 09:27 local | 6 match(es)
-Hong Linh Ha Tinh v Song Lam Nghe An -> out/Hong_Linh_Ha_Tinh_v_Song_Lam_Nghe_An.txt
-Kaiserslautern v Bochum -> out/Kaiserslautern_v_Bochum.txt
-    !! Kaiserslautern: Ambiguous team name "Kaiserslautern".
-    !! Bochum: Ambiguous team name "Bochum".
-Ilves v SJK -> out/Ilves_v_SJK.txt
-Wolfsburg v Heidenheim -> out/Wolfsburg_v_Heidenheim.txt
-    !! Wolfsburg: Ambiguous team name "Wolfsburg".
-    !! Heidenheim: Ambiguous team name "Heidenheim".
-Greuther Furth v Eintracht Braunschweig -> out/Greuther_Furth_v_Eintracht_Braunschweig.txt
-    !! Greuther Furth: Ambiguous team name "Greuther Furth".
-Dalian Yingbo v Shenzhen Peng City -> out/Dalian_Yingbo_v_Shenzhen_Peng_City.txt
-    !! Shenzhen Peng City: No team found for "Shenzhen Peng City".
-Requests used: API-Football 83, Matchbook 0
+RUN 2026-10-17 09:28 local | 4 match(es)
+id:745 v id:176 -> out/id_745_v_id_176.txt
+id:161 v id:180 -> out/id_161_v_id_180.txt
+id:178 v id:744 -> out/id_178_v_id_744.txt
+Dalian v Shenzhen -> out/Dalian_v_Shenzhen.txt
+    !! Dalian: Ambiguous team name "Dalian".
+    !! Shenzhen: Ambiguous team name "Shenzhen".
+Requests used: API-Football 75, Matchbook 0
