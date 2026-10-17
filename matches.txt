@@ -1,3 +1,2 @@
-# 2026-10-17 12:15 scheduled scan: team name retry 3 (Ham-Kam, Bodo/Glimt id:327)
-Ham Kam v id:327 | n=20 | xg=10
-HamKam Fotball v id:327 | n=20 | xg=10
+# 2026-10-17 12:15 scheduled scan: Ham-Kam id lookup
+Ham v id:327 | n=20 | xg=10
