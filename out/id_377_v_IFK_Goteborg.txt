@@ -1,34 +1,33 @@
-MATCH AIK v IFK Goteborg | fetched 2026-10-17 14:42 local
+MATCH id:377 v IFK Goteborg | fetched 2026-10-17 14:45 local
 
-FORM DATA AIK v IFK Goteborg | source API-Football | 2026-10-17 14:43 UTC
+FORM DATA id:377 v IFK Goteborg | source API-Football | 2026-10-17 14:46 UTC
 H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
 
-"AIK" matches several teams. Use id:<number> instead of the name:
-  id:377    AIK Stockholm (Sweden)
-  id:617    Panathinaikos (Greece)
-  id:2086   Acharnaikos (Greece)
-  id:2099   Panserraikos (Greece)
-  id:2106   Panachaiki FC (Greece)
-  id:6301   Edessaikos (Greece)
-  id:6316   Pandramaikos (Greece)
-  id:6318   Panthiraikos (Greece)
-  id:6323   Thermaikos Thermis (Greece)
-  id:6692   Oskarshamns AIK (Sweden)
-  id:6698   Skövde AIK (Sweden)
-  id:6704   Tågarps AIK (Sweden)
-  id:8138   Puaikura (Iran)
-  id:15265  Molaikos (Greece)
-  id:15364  Achaiki (Greece)
-  id:15479  Eordaikos (Greece)
-  id:15629  AIK W (Sweden)
-  id:16010  Älvsjö AIK W (Sweden)
-  id:16599  Sandvikens AIK (Sweden)
-  id:18019  Panathinaikos II (Greece)
-  id:20227  AIK U19 (Sweden)
-  id:20236  Panathinaikos U19 (None)
-  id:22249  Peramaikos (Greece)
-  id:22986  KaIK (Finland)
-  id:23014  Raiku (Finland)
+=== AIK Stockholm (id 377): last 20 finished games ===
+2026-10-10 H 5-6 v IF Brommapojkarna | Allsvenskan | Solna | xG 2.45-2.85
+2026-09-20 A 1-2 v Halmstad | Allsvenskan | Halmstad | xG 2.36-1.85
+2026-09-16 H 1-1 v Mjallby AIF | Allsvenskan | Solna | xG 3.18-1.84
+2026-09-12 H 1-4 v Vasteras SK FK | Allsvenskan | Solna | xG 3.23-3.67
+2026-09-07 A 0-0 v Malmo FF | Allsvenskan | Malmö | xG 0.61-1.32
+2026-08-30 H 3-2 v Hammarby FF | Allsvenskan | Solna | xG 1.91-4.26
+2026-08-20 A 3-0 v Piteå | Svenska Cupen | ?
+2026-08-16 A 3-1 v Djurgardens IF | Allsvenskan | Stockholm | xG 1.49-2.26
+2026-08-08 A 4-3 v Orgryte IS | Allsvenskan | Gothenburg
+2026-08-02 H 0-3 v Orgryte IS | Allsvenskan | Solna
+2026-07-27 A 0-0 v BK Hacken | Allsvenskan | Gothenburg
+2026-07-18 H 2-0 v Gais | Allsvenskan | Solna
+2026-07-11 A 2-1 v Mjallby AIF | Allsvenskan | Hallevik
+2026-07-05 A 2-1 v IFK Goteborg | Allsvenskan | Gothenburg
+2026-06-28 H 3-2 v Vasteras SK FK | Friendlies Clubs | ?
+2026-06-22 H 0-2 v Kalmar FF | Friendlies Clubs | ?
+2026-05-30 H 0-3 v Sirius | Allsvenskan | Solna
+2026-05-24 A 2-1 v Hammarby FF | Allsvenskan | Stockholm
+2026-05-17 A 1-1 v Vasteras SK FK | Allsvenskan | Vasteras
+2026-05-10 H 2-4 v Djurgardens IF | Allsvenskan | Solna
+Listed home: 10 games, scored 17 (1.70), conceded 27 (2.70), blanks 3, clean sheets 1
+Listed away: 10 games, scored 18 (1.80), conceded 10 (1.00), blanks 2, clean sheets 3
+All: 20 games, scored 35 (1.75), conceded 37 (1.85), blanks 5, clean sheets 4
+
 === IFK Goteborg (id 366): last 20 finished games ===
 2026-10-09 H 1-0 v Vasteras SK FK | Allsvenskan | Gothenburg | xG 0.92-0.89
 2026-10-03 A 2-3 v Arka Gdynia | Friendlies Clubs | ?
@@ -54,36 +53,7 @@ Listed home: 11 games, scored 15 (1.36), conceded 12 (1.09), blanks 1, clean she
 Listed away: 9 games, scored 15 (1.67), conceded 16 (1.78), blanks 2, clean sheets 3
 All: 20 games, scored 30 (1.50), conceded 28 (1.40), blanks 3, clean sheets 6
 
-(retrying AIK using the opponent's country, Sweden)
-"AIK" matches several teams. Use id:<number> instead of the name:
-  id:377    AIK Stockholm (Sweden)
-  id:617    Panathinaikos (Greece)
-  id:2086   Acharnaikos (Greece)
-  id:2099   Panserraikos (Greece)
-  id:2106   Panachaiki FC (Greece)
-  id:6301   Edessaikos (Greece)
-  id:6316   Pandramaikos (Greece)
-  id:6318   Panthiraikos (Greece)
-  id:6323   Thermaikos Thermis (Greece)
-  id:6692   Oskarshamns AIK (Sweden)
-  id:6698   Skövde AIK (Sweden)
-  id:6704   Tågarps AIK (Sweden)
-  id:8138   Puaikura (Iran)
-  id:15265  Molaikos (Greece)
-  id:15364  Achaiki (Greece)
-  id:15479  Eordaikos (Greece)
-  id:15629  AIK W (Sweden)
-  id:16010  Älvsjö AIK W (Sweden)
-  id:16599  Sandvikens AIK (Sweden)
-  id:18019  Panathinaikos II (Greece)
-  id:20227  AIK U19 (Sweden)
-  id:20236  Panathinaikos U19 (None)
-  id:22249  Peramaikos (Greece)
-  id:22986  KaIK (Finland)
-  id:23014  Raiku (Finland)
-!! AIK: Ambiguous team name "AIK".
-
-TABLE FOR IFK Goteborg
+TABLE FOR AIK Stockholm
 LEAGUE TABLE Allsvenskan 2026 | 16 teams | 185 games played
 League averages per game: home 1.62, away 1.31, total 2.94
 #   team                   Pts | home P GF-GA  | away P GF-GA  | all P GF-GA
@@ -104,7 +74,9 @@ League averages per game: home 1.62, away 1.31, total 2.94
 15  Orgryte IS              15 | 11  17-20      | 12   8-32      | 23  25-52
 16  Halmstad                14 | 11   9-18      | 12   7-26      | 23  16-44
 
-(15 API-Football requests used)
+(IFK Goteborg: same table as AIK Stockholm, shown above)
+
+(25 API-Football requests used)
 
 ----------------------------------------------------------------------
 MATCHBOOK: skipped (switched off for this run)

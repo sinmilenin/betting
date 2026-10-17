@@ -1,11 +1,33 @@
-MATCH Fredericia v Hobro | fetched 2026-10-17 14:42 local
+MATCH id:2061 v Hobro | fetched 2026-10-17 14:45 local
 
-FORM DATA Fredericia v Hobro | source API-Football | 2026-10-17 14:44 UTC
+FORM DATA id:2061 v Hobro | source API-Football | 2026-10-17 14:47 UTC
 H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
 
-"Fredericia" matches several teams. Use id:<number> instead of the name:
-  id:2061   FC Fredericia (Denmark)
-  id:11633  Fredericia FF (Denmark)
+=== FC Fredericia (id 2061): last 20 finished games ===
+2026-10-10 A 2-0 v Hillerød | 1. Division | Helsingor
+2026-09-20 H 2-2 v Vejle | 1. Division | Fredericia
+2026-09-12 A 0-0 v Kolding IF | 1. Division | Kolding
+2026-09-05 H 1-0 v Esbjerg | 1. Division | Fredericia
+2026-08-30 A 1-2 v Hvidovre | 1. Division | Hvidovre
+2026-08-26 H 1-2 v Odense | DBU Pokalen | ?
+2026-08-21 H 0-0 v Aarhus Fremad | 1. Division | Fredericia
+2026-08-14 A 3-0 v Aalborg | 1. Division | Aalborg
+2026-08-09 H 1-1 v Vendsyssel FF | 1. Division | Fredericia
+2026-08-04 A 6-0 v SfB-Oure | DBU Pokalen | Svendborg
+2026-07-31 A 1-1 v AB Copenhagen | 1. Division | Copenhagen
+2026-07-25 H 3-0 v HB Koge | 1. Division | Fredericia
+2026-07-18 A 1-0 v Esbjerg | Friendlies Clubs | ?
+2026-07-15 H 3-2 v Mafra | Friendlies Clubs | ?
+2026-07-04 A 3-1 v Holstein Kiel | Friendlies Clubs | ?
+2026-06-27 A 2-1 v Silkeborg | Friendlies Clubs | ?
+2026-05-17 H 4-1 v Silkeborg | Superliga | Fredericia
+2026-05-10 A 0-2 v Vejle | Superliga | Vejle
+2026-05-03 H 3-3 v FC Copenhagen | Superliga | Fredericia
+2026-04-26 H 0-2 v Odense | Superliga | Fredericia
+Listed home: 10 games, scored 18 (1.80), conceded 13 (1.30), blanks 2, clean sheets 3
+Listed away: 10 games, scored 19 (1.90), conceded 7 (0.70), blanks 2, clean sheets 5
+All: 20 games, scored 37 (1.85), conceded 20 (1.00), blanks 4, clean sheets 8
+
 === Hobro (id 408): last 20 finished games ===
 2026-10-10 H 1-1 v Kolding IF | 1. Division | Hobro
 2026-09-21 A 2-5 v HB Koge | 1. Division | Koge
@@ -31,13 +53,7 @@ Listed home: 11 games, scored 16 (1.45), conceded 19 (1.73), blanks 3, clean she
 Listed away: 9 games, scored 12 (1.33), conceded 14 (1.56), blanks 1, clean sheets 2
 All: 20 games, scored 28 (1.40), conceded 33 (1.65), blanks 4, clean sheets 5
 
-(retrying Fredericia using the opponent's country, Denmark)
-"Fredericia" matches several teams. Use id:<number> instead of the name:
-  id:2061   FC Fredericia (Denmark)
-  id:11633  Fredericia FF (Denmark)
-!! Fredericia: Ambiguous team name "Fredericia".
-
-TABLE FOR Hobro
+TABLE FOR FC Fredericia
 LEAGUE TABLE 1. Division 2026 | 12 teams | 64 games played
 League averages per game: home 1.38, away 1.38, total 2.75
 #   team                   Pts | home P GF-GA  | away P GF-GA  | all P GF-GA
@@ -54,7 +70,9 @@ League averages per game: home 1.38, away 1.38, total 2.75
 11  Hillerød                 9 |  5   7-7       |  5   6-9       | 10  13-16
 12  Esbjerg                  7 |  5   7-10      |  6   6-12      | 11  13-22
 
-(15 API-Football requests used)
+(Hobro: same table as FC Fredericia, shown above)
+
+(25 API-Football requests used)
 
 ----------------------------------------------------------------------
 MATCHBOOK: skipped (switched off for this run)

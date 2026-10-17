@@ -1,8 +1,12 @@
-MATCH Digenis Ypsona v Karmiotissa | fetched 2026-10-17 14:42 local
+MATCH Digenis v Karmiotissa | fetched 2026-10-17 14:45 local
 
-FORM DATA Digenis Ypsona v Karmiotissa | source API-Football | 2026-10-17 14:42 UTC
+FORM DATA Digenis v Karmiotissa | source API-Football | 2026-10-17 14:45 UTC
 H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
 
+"Digenis" matches several teams. Use id:<number> instead of the name:
+  id:3410   Digenis Voroklinis (Cyprus)
+  id:3423   Digenis Morphou (Cyprus)
+  id:12382  Digenis Neochori (Greece)
 === Karmiotissa (id 3413): last 20 finished games ===
 2026-10-09 H 0-3 v Omonia Nicosia | 1. Division | Paphos
 2026-09-20 A 0-0 v Aris | 1. Division | Kolossi
@@ -28,7 +32,12 @@ Listed home: 10 games, scored 16 (1.60), conceded 11 (1.10), blanks 2, clean she
 Listed away: 10 games, scored 20 (2.00), conceded 12 (1.20), blanks 3, clean sheets 3
 All: 20 games, scored 36 (1.80), conceded 23 (1.15), blanks 5, clean sheets 7
 
-!! Digenis Ypsona: No team found for "Digenis Ypsona".
+(retrying Digenis using the opponent's country, Cyprus)
+"Digenis" matches several teams. Use id:<number> instead of the name:
+  id:3410   Digenis Voroklinis (Cyprus)
+  id:3423   Digenis Morphou (Cyprus)
+  id:12382  Digenis Neochori (Greece)
+!! Digenis: Ambiguous team name "Digenis".
 
 TABLE FOR Karmiotissa
 LEAGUE TABLE 1. Division 2026 | 14 teams | 35 games played
@@ -49,7 +58,7 @@ League averages per game: home 1.49, away 1.51, total 3.00
 13  Anorthosis               3 |  2   3-4       |  3   1-8       |  5   4-12
 14  Krasava Ypsonas          0 |  3   1-7       |  2   2-6       |  5   3-13
 
-(14 API-Football requests used)
+(15 API-Football requests used)
 
 ----------------------------------------------------------------------
 MATCHBOOK: skipped (switched off for this run)

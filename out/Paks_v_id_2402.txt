@@ -1,6 +1,6 @@
-MATCH Paks v Gyor | fetched 2026-10-17 14:42 local
+MATCH Paks v id:2402 | fetched 2026-10-17 14:45 local
 
-FORM DATA Paks v Gyor | source API-Football | 2026-10-17 14:42 UTC
+FORM DATA Paks v id:2402 | source API-Football | 2026-10-17 14:45 UTC
 H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
 
 === Paks (id 2390): last 20 finished games ===
@@ -28,32 +28,30 @@ Listed home: 10 games, scored 24 (2.40), conceded 19 (1.90), blanks 1, clean she
 Listed away: 10 games, scored 22 (2.20), conceded 19 (1.90), blanks 0, clean sheets 3
 All: 20 games, scored 46 (2.30), conceded 38 (1.90), blanks 1, clean sheets 5
 
-"Gyor" matches several teams. Use id:<number> instead of the name:
-  id:2393   Diosgyori VTK (Hungary)
-  id:2402   Gyori ETO FC (Hungary)
-  id:5131   Pénzügyőr (Hungary)
-  id:11753  DAC Gyor (Hungary)
-  id:11774  Győrszemere (Hungary)
-  id:11775  Győrsövényház (Hungary)
-  id:11851  Gyori ETO II (Hungary)
-  id:13154  Diósgyőr II (Hungary)
-  id:16390  Győri ETO U19 (Hungary)
-  id:17284  Győrújbarát (Hungary)
-  id:24496  Győrszentiván (Hungary)
-(retrying Gyor using the opponent's country, Hungary)
-"Gyor" matches several teams. Use id:<number> instead of the name:
-  id:2393   Diosgyori VTK (Hungary)
-  id:2402   Gyori ETO FC (Hungary)
-  id:5131   Pénzügyőr (Hungary)
-  id:11753  DAC Gyor (Hungary)
-  id:11774  Győrszemere (Hungary)
-  id:11775  Győrsövényház (Hungary)
-  id:11851  Gyori ETO II (Hungary)
-  id:13154  Diósgyőr II (Hungary)
-  id:16390  Győri ETO U19 (Hungary)
-  id:17284  Győrújbarát (Hungary)
-  id:24496  Győrszentiván (Hungary)
-!! Gyor: Ambiguous team name "Gyor".
+=== Gyori ETO FC (id 2402): last 20 finished games ===
+2026-10-11 H 0-1 v Puskas Academy | NB I | Gyor | xG 1.51-2.02
+2026-09-20 A 2-1 v MTK Budapest | NB I | Budapest
+2026-09-13 A 5-1 v Karcag SE | Magyar Kupa | Karcag
+2026-09-06 H 3-2 v Budapest Honved | NB I | ?
+2026-09-03 H 0-3 v Ferencvarosi TC | NB I | ?
+2026-08-30 A 1-1 v Kisvarda FC | NB I | Kisvarda
+2026-08-23 H 3-0 v Zalaegerszegi TE | NB I | ?
+2026-08-16 A 1-1 v Debreceni VSC | NB I | Debrecen
+2026-08-13 H 1-1 v Riga | UEFA Europa Conference League | Gyor
+2026-08-06 A 0-1 v Riga | UEFA Europa Conference League | Rīga
+2026-08-02 H 4-0 v Nyiregyhaza | NB I | ?
+2026-07-30 H 1-1 v Atert Bissen | UEFA Europa Conference League | Gyor
+2026-07-26 A 2-2 v Vasas | NB I | Budapest
+2026-07-21 A 6-2 v Atert Bissen | UEFA Europa Conference League | Biisen
+2026-07-14 H 2-2 v Vikingur Reykjavik | UEFA Champions League | Gyor
+2026-07-07 A 0-1 v Vikingur Reykjavik | UEFA Champions League | Reykjavik
+2026-06-24 A 2-1 v Vojvodina | Friendlies Clubs | ?
+2026-06-19 A 2-2 v Grazer AK | Friendlies Clubs | ?
+2026-05-16 A 1-0 v Kisvarda FC | NB I | Kisvarda
+2026-05-02 H 4-0 v Diosgyori VTK | NB I | ?
+Listed home: 9 games, scored 18 (2.00), conceded 10 (1.11), blanks 2, clean sheets 3
+Listed away: 11 games, scored 22 (2.00), conceded 13 (1.18), blanks 2, clean sheets 1
+All: 20 games, scored 40 (2.00), conceded 23 (1.15), blanks 4, clean sheets 4
 
 TABLE FOR Paks
 LEAGUE TABLE NB I 2026 | 12 teams | 54 games played
@@ -72,7 +70,9 @@ League averages per game: home 1.80, away 1.35, total 3.15
 11  Nyiregyhaza              8 |  4   6-4       |  5   4-15      |  9  10-19
 12  Budapest Honved          7 |  4   6-6       |  4   6-9       |  8  12-15
 
-(15 API-Football requests used)
+(Gyori ETO FC: same table as Paks, shown above)
+
+(25 API-Football requests used)
 
 ----------------------------------------------------------------------
 MATCHBOOK: skipped (switched off for this run)

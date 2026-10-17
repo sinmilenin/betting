@@ -1,6 +1,6 @@
-MATCH NEOM v Al-Ettifaq | fetched 2026-10-17 14:42 local
+MATCH NEOM v Al Ettifaq | fetched 2026-10-17 14:45 local
 
-FORM DATA NEOM v Al-Ettifaq | source API-Football | 2026-10-17 14:43 UTC
+FORM DATA NEOM v Al Ettifaq | source API-Football | 2026-10-17 14:46 UTC
 H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
 
 === NEOM (id 10513): last 20 finished games ===
@@ -28,7 +28,13 @@ Listed home: 9 games, scored 21 (2.33), conceded 9 (1.00), blanks 1, clean sheet
 Listed away: 11 games, scored 12 (1.09), conceded 9 (0.82), blanks 4, clean sheets 5
 All: 20 games, scored 33 (1.65), conceded 18 (0.90), blanks 5, clean sheets 7
 
-!! Al-Ettifaq: API-Football error: {"search": "The Search field may only contain alpha-numeric characters and spaces."}
+=== Al Ettifaq (id 15959): last 3 finished games ===
+2022-10-16 A 0-1 v Al Musannah | Sultan Cup | Rustaq
+2021-11-19 H 0-1 v Al Musannah | Sultan Cup | Nizwa
+2021-01-02 A 2-5 v Al Ittehad | Sultan Cup | Salalah
+Listed home: 1 games, scored 0 (0.00), conceded 1 (1.00), blanks 1, clean sheets 0
+Listed away: 2 games, scored 2 (1.00), conceded 6 (3.00), blanks 1, clean sheets 0
+All: 3 games, scored 2 (0.67), conceded 7 (2.33), blanks 2, clean sheets 0
 
 TABLE FOR NEOM
 LEAGUE TABLE Pro League 2026 | 18 teams | 75 games played
@@ -53,7 +59,9 @@ League averages per game: home 1.45, away 1.41, total 2.87
 17  Al Taawon                3 |  4   0-6       |  4   3-9       |  8   3-15
 18  Abha                     2 |  3   2-4       |  5   4-11      |  8   6-15
 
-(15 API-Football requests used)
+(no league table available for Al Ettifaq: tried Sultan Cup 2022, Sultan Cup 2021, Sultan Cup 2020)
+
+(22 API-Football requests used)
 
 ----------------------------------------------------------------------
 MATCHBOOK: skipped (switched off for this run)
