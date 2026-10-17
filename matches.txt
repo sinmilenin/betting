@@ -1,2 +1,7 @@
-# 2026-10-17 19:06 Ljubljana: scheduled Orbit scan, run 3 (Rapid name fix)
-Rapid v Corvinul Hunedoara | n=20 | xg=10
+# 2026-10-17 19:44 Ljubljana: scheduled Orbit scan, run 1
+Al Diriyah v Al Taawon | n=20 | xg=10
+Red Star FC 93 v Saint Etienne | n=20 | xg=10
+Sparta Rotterdam v Willem II | n=20 | xg=10
+Valencia v Athletic Club | n=20 | xg=10
+Las Palmas v Castellon | n=20 | xg=10
+Ceara v Juventude | n=20 | xg=10
