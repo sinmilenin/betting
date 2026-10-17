@@ -1,2 +1,3 @@
-# 2026-10-17 17:32 Ljubljana scheduled scan: Osijek id retry
-id:616 v HNK Gorica | n=20 | xg=10
+# 2026-10-17 18:12 Ljubljana scheduled scan
+Pisa v Cremonese | n=20 | xg=10
+Telstar v Feyenoord | n=20 | xg=10
