@@ -1,5 +1,4 @@
-RUN 2026-10-17 19:15 local | 3 match(es)
-id:473 v Tigre -> out/id_473_v_Tigre.txt
-Minnesota United FC v St Louis -> out/Minnesota_United_FC_v_St_Louis.txt
-Cavalry v id:2622 -> out/Cavalry_v_id_2622.txt
-Requests used: API-Football 71, Matchbook 0
+RUN 2026-10-17 19:16 local | 1 match(es)
+Minnesota United FC v Louis City -> out/Minnesota_United_FC_v_Louis_City.txt
+    !! Louis City: Ambiguous team name "Louis City".
+Requests used: API-Football 15, Matchbook 0
