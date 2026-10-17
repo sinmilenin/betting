@@ -1,6 +1,3 @@
-RUN 2026-10-17 11:53 local | 3 match(es)
-KTP Kotka v id:2085 -> out/KTP_Kotka_v_id_2085.txt
-    !! KTP Kotka: No team found for "KTP Kotka".
-Lamelas v Vitoria SC -> out/Lamelas_v_Vitoria_SC.txt
-EIF v id:9187 -> out/EIF_v_id_9187.txt
-Requests used: API-Football 65, Matchbook 0
+RUN 2026-10-17 11:56 local | 1 match(es)
+Kooteepee v id:2085 -> out/Kooteepee_v_id_2085.txt
+Requests used: API-Football 25, Matchbook 0
