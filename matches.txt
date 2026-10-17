@@ -1,2 +1,3 @@
-# 2026-10-16 23:02 manual 8-hour scan: Auckland retry
-Auckland v id:945 | n=20 | xg=10
+# 2026-10-17 08:27 scheduled scan
+Mito v Urawa | n=20 | xg=10
+Ulsan Hyundai v Bucheon | n=20 | xg=10
