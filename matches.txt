@@ -1,2 +1,16 @@
-# 2026-10-17 11:30 scheduled scan (Shenzhen Peng City = Sichuan Jiuniu in API-Football)
-id:21263 v Sichuan Jiuniu | n=20 | xg=10
+# 2026-10-17 12:15 scheduled scan: first analyses
+Lahti v TPS | n=20 | xg=10
+Shrewsbury v Bristol Rovers | n=20 | xg=10
+Fleetwood Town v Rotherham | n=20 | xg=10
+Peterborough v Burton Albion | n=20 | xg=10
+Everton v Chelsea | n=20 | xg=10
+Millwall v Lincoln | n=20 | xg=10
+Middlesbrough v Cardiff | n=20 | xg=10
+Watford v Charlton | n=20 | xg=10
+MK Dons v Luton | n=20 | xg=10
+Qingdao Hainiu v Liaoning Tieren | n=20 | xg=10
+Arsenal W v Birmingham W | n=20 | xg=10
+Espanyol v Atletico Madrid | n=20 | xg=10
+Nantes v Dunkerque | n=20 | xg=10
+Ham-Kam v Bodo/Glimt | n=20 | xg=10
+Real Sociedad II v Almeria | n=20 | xg=10
