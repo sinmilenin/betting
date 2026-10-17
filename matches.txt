@@ -1,2 +1,2 @@
-# 2026-10-17 17:28 Ljubljana scheduled scan
-Osijek v HNK Gorica | n=20 | xg=10
+# 2026-10-17 17:32 Ljubljana scheduled scan: Osijek id retry
+id:616 v HNK Gorica | n=20 | xg=10
