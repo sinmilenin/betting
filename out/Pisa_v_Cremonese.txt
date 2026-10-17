@@ -1,0 +1,94 @@
+MATCH Pisa v Cremonese | fetched 2026-10-17 16:12 local
+
+FORM DATA Pisa v Cremonese | source API-Football | 2026-10-17 16:12 UTC
+H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
+
+"Pisa" matches several teams. Use id:<number> instead of the name:
+  id:801    Pisa (Italy)
+  id:884    Feralpisalo (Italy)
+  id:13550  Pisa (Finland)
+  id:15674  Pisa U19 (Italy)
+  id:19853  FeralpiSalò U19 (Italy)
+=== Cremonese (id 520): last 20 finished games ===
+2026-10-10 A 0-0 v Arezzo | Serie B | Arezzo | xG 0.21-1.01
+2026-10-02 A 1-0 v Juventus | Friendlies Clubs | Turin
+2026-09-26 A 3-2 v Monza | Friendlies Clubs | ?
+2026-09-19 H 0-0 v Virtus Entella | Serie B | Cremona | xG 1.01-1.02
+2026-09-12 A 2-2 v Cesena | Serie B | Cesena | xG 1.23-1.15
+2026-09-06 H 3-1 v Padova | Serie B | Cremona | xG 2.46-1.30
+2026-09-01 A 2-0 v Parma | Coppa Italia | Parma
+2026-08-28 H 0-3 v Modena | Serie B | Cremona | xG 0.39-0.68
+2026-08-22 A 0-1 v Empoli | Serie B | Empoli | xG 0.82-1.04
+2026-08-17 H 2-0 v Sampdoria | Coppa Italia | Bolzano
+2026-08-01 H 0-0 v Lumezzane | Friendlies Clubs | ?
+2026-07-29 H 1-1 v Cittadella | Friendlies Clubs | ?
+2026-07-24 H 4-0 v Giana Erminio | Friendlies Clubs | ?
+2026-05-24 H 1-4 v Como | Serie A | Cremona
+2026-05-17 A 1-0 v Udinese | Serie A | Udine
+2026-05-10 H 3-0 v Pisa | Serie A | Cremona
+2026-05-04 H 1-2 v Lazio | Serie A | Cremona
+2026-04-24 A 0-4 v Napoli | Serie A | Naples
+2026-04-19 H 0-0 v Torino | Serie A | Cremona
+2026-04-11 A 0-1 v Cagliari | Serie A | Cagliari
+Listed home: 11 games, scored 15 (1.36), conceded 11 (1.00), blanks 4, clean sheets 6
+Listed away: 9 games, scored 9 (1.00), conceded 10 (1.11), blanks 4, clean sheets 4
+All: 20 games, scored 24 (1.20), conceded 21 (1.05), blanks 8, clean sheets 10
+
+(retrying Pisa using the opponent's country, Italy)
+NOTE: "Pisa" matched 2 teams; picked Pisa (Italy) because the opponent is from Italy. Others: Pisa (Finland)
+=== Pisa (id 801): last 20 finished games ===
+2026-10-10 A 3-0 v Vicenza Virtus | Serie B | Vicenza | xG 2.74-0.61
+2026-10-03 A 0-2 v Monaco | Friendlies Clubs | ?
+2026-09-20 A 2-2 v Mantova | Serie B | Mantova | xG 2.18-1.98
+2026-09-15 A 0-3 v Fiorentina | Coppa Italia | Florence
+2026-09-11 H 1-4 v Virtus Entella | Serie B | Pisa | xG 1.08-1.71
+2026-09-06 A 3-0 v Juve Stabia | Serie B | Castellammare di Stabia
+2026-08-30 H 2-1 v Catanzaro | Serie B | Pisa | xG 2.04-1.11
+2026-08-23 H 0-1 v Padova | Serie B | Pisa | xG 1.63-1.23
+2026-08-17 H 1-1 v Empoli | Coppa Italia | Pisa [PEN, 90-min score shown]
+2026-08-08 A 4-1 v Bologna | Friendlies Clubs | ?
+2026-07-26 H 0-1 v PRO Vercelli | Friendlies Clubs | ?
+2026-07-25 H 1-1 v Juventus U23 | Friendlies Clubs | ?
+2026-07-19 H 6-1 v Pavia | Friendlies Clubs | ?
+2026-05-23 A 1-2 v Lazio | Serie A | Rome
+2026-05-17 H 0-3 v Napoli | Serie A | Pisa
+2026-05-10 A 0-3 v Cremonese | Serie A | Cremona
+2026-05-01 H 1-2 v Lecce | Serie A | Pisa
+2026-04-25 A 0-1 v Parma | Serie A | Parma
+2026-04-19 H 1-2 v Genoa | Serie A | Pisa
+2026-04-10 A 0-3 v AS Roma | Serie A | Rome
+Listed home: 10 games, scored 13 (1.30), conceded 17 (1.70), blanks 3, clean sheets 0
+Listed away: 10 games, scored 13 (1.30), conceded 17 (1.70), blanks 5, clean sheets 2
+All: 20 games, scored 26 (1.30), conceded 34 (1.70), blanks 8, clean sheets 2
+
+TABLE FOR Cremonese
+LEAGUE TABLE Serie B 2026 | 20 teams | 61 games played
+League averages per game: home 1.41, away 1.30, total 2.70
+#   team                   Pts | home P GF-GA  | away P GF-GA  | all P GF-GA
+1   Palermo                 16 |  3   6-2       |  3   8-5       |  6  14-7
+2   Mantova                 14 |  3   7-3       |  3   6-3       |  6  13-6
+3   Modena                  13 |  3   5-4       |  3   6-2       |  6  11-6
+4   Sudtirol                12 |  4   4-1       |  2   5-2       |  6   9-3
+5   Ascoli                  11 |  3   5-2       |  3   2-2       |  6   7-4
+6   Avellino                10 |  4   9-4       |  2   2-3       |  6  11-7
+7   Pisa                    10 |  3   3-6       |  3   8-2       |  6  11-8
+8   Benevento               10 |  4   7-4       |  2   1-1       |  6   8-5
+9   Hellas Verona            8 |  4  10-5       |  3   4-7       |  7  14-12
+10  Cesena                   7 |  3   4-4       |  3   3-4       |  6   7-8
+11  Padova                   7 |  3   2-3       |  3   3-5       |  6   5-8
+12  Arezzo                   7 |  3   3-7       |  3   3-6       |  6   6-13
+13  Empoli                   6 |  3   3-5       |  3   3-5       |  6   6-10
+14  Virtus Entella           6 |  3   4-5       |  3   4-2       |  6   8-7
+15  Cremonese                6 |  3   3-4       |  3   2-3       |  6   5-7
+16  Vicenza Virtus           5 |  3   4-6       |  3   3-7       |  6   7-13
+17  Sampdoria                4 |  2   3-3       |  4   3-10      |  6   6-13
+18  Catanzaro                4 |  2   2-3       |  5   6-11      |  7   8-14
+19  Carrarese                4 |  3   1-4       |  3   3-2       |  6   4-6
+20  Juve Stabia              2 |  2   1-4       |  4   4-4       |  6   5-8
+
+(Pisa: same table as Cremonese, shown above)
+
+(26 API-Football requests used)
+
+----------------------------------------------------------------------
+MATCHBOOK: skipped (switched off for this run)

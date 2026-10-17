@@ -1,3 +1,4 @@
-RUN 2026-10-17 15:28 local | 1 match(es)
-id:616 v HNK Gorica -> out/id_616_v_HNK_Gorica.txt
-Requests used: API-Football 25, Matchbook 0
+RUN 2026-10-17 16:12 local | 2 match(es)
+Pisa v Cremonese -> out/Pisa_v_Cremonese.txt
+Telstar v Feyenoord -> out/Telstar_v_Feyenoord.txt
+Requests used: API-Football 52, Matchbook 0
