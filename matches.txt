@@ -1,7 +1,5 @@
-# 2026-10-17 11:30 scheduled scan
-Hong Linh Ha Tinh v Song Lam Nghe An | n=20 | xg=10
-Kaiserslautern v Bochum | n=20 | xg=10
-Ilves v SJK | n=20 | xg=10
-Wolfsburg v Heidenheim | n=20 | xg=10
-Greuther Furth v Eintracht Braunschweig | n=20 | xg=10
-Dalian Yingbo v Shenzhen Peng City | n=20 | xg=10
+# 2026-10-17 11:30 scheduled scan (retry with ids, Dalian/Shenzhen lookup)
+id:745 v id:176 | n=20 | xg=10
+id:161 v id:180 | n=20 | xg=10
+id:178 v id:744 | n=20 | xg=10
+Dalian v Shenzhen | n=20 | xg=10
