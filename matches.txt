@@ -1,2 +1,5 @@
-# 2026-10-17 20:40 Ljubljana: scheduled Orbit scan, run 4 (Anzoategui)
-Zamora FC v Anzoategui FC | n=20 | xg=10
+# 2026-10-17 21:12 Ljubljana: scheduled Orbit scan, run 1
+Independiente Rivadavia v Tigre | n=20 | xg=10
+Minnesota United v St. Louis City | n=20 | xg=10
+Colon v Almirante Brown | n=20 | xg=10
+Botafogo v Chapecoense | n=20 | xg=10
