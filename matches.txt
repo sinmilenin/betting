@@ -1,6 +1,3 @@
-# 2026-10-17 20:28 Ljubljana: scheduled Orbit scan, run 1
-Dundee v Rangers | n=20 | xg=10
-Macara v Independiente del Valle | n=20 | xg=10
-Zamora v Academia Anzoategui | n=20 | xg=10
-Boyaca Chico v Atletico Nacional | n=20 | xg=10
-Cavalry v Pacific | n=20 | xg=10
+# 2026-10-17 20:31 Ljubljana: scheduled Orbit scan, run 2 (names)
+Zamora FC v Anzoategui | n=20 | xg=10
+Chico v Atletico Nacional | n=20 | xg=10
