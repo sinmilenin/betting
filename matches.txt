@@ -1,4 +1,2 @@
-# 2026-10-17 10:45 scheduled scan
-Tegevajaro Miyazaki v Jubilo Iwata | n=20 | xg=10
-Kashiwa Reysol v Nagoya Grampus | n=20 | xg=10
-Erzurumspor v Eyupspor | n=20 | xg=10
+# 2026-10-17 10:45 scheduled scan (retry with ids)
+id:1009 v id:3588 | n=20 | xg=10
