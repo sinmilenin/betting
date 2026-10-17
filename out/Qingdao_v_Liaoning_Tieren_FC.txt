@@ -1,0 +1,22 @@
+MATCH Qingdao v Liaoning Tieren FC | fetched 2026-10-17 10:16 local
+
+FORM DATA Qingdao v Liaoning Tieren FC | source API-Football | 2026-10-17 10:16 UTC
+H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
+
+"Qingdao" matches several teams. Use id:<number> instead of the name:
+  id:1431   Qingdao Jonoon (China)
+  id:1441   Qingdao Huanghai (China)
+  id:5677   Qingdao Elite United (China)
+  id:5678   Qingdao Kunpeng (China)
+  id:5679   Qingdao Red Lions (China)
+  id:17265  Qingdao Youth Island (China)
+  id:21326  Qingdao May Wind (China)
+  id:27683  Qingdao Fuli (China)
+!! Qingdao: Ambiguous team name "Qingdao".
+
+!! Liaoning Tieren FC: No team found for "Liaoning Tieren FC".
+
+(2 API-Football requests used)
+
+----------------------------------------------------------------------
+MATCHBOOK: skipped (switched off for this run)
