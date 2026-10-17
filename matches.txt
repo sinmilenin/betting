@@ -1,2 +1,7 @@
-# 2026-10-17 10:45 scheduled scan (retry with ids)
-id:1009 v id:3588 | n=20 | xg=10
+# 2026-10-17 11:30 scheduled scan
+Hong Linh Ha Tinh v Song Lam Nghe An | n=20 | xg=10
+Kaiserslautern v Bochum | n=20 | xg=10
+Ilves v SJK | n=20 | xg=10
+Wolfsburg v Heidenheim | n=20 | xg=10
+Greuther Furth v Eintracht Braunschweig | n=20 | xg=10
+Dalian Yingbo v Shenzhen Peng City | n=20 | xg=10
