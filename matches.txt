@@ -1,5 +1,7 @@
-# 2026-10-17 18:24 Ljubljana: result check for ledger settlement
-Aberdeen v St Mirren | n=3 | xg=0
-id:1360 v id:1347 | n=3 | xg=0
-Eibar v Mallorca | n=3 | xg=0
-Villarreal v Elche | n=3 | xg=0
+# 2026-10-17 18:58 Ljubljana: scheduled Orbit scan (19:00-21:00 window)
+Hannover 96 v St Pauli | n=20 | xg=10
+Philadelphia Union v Charlotte | n=20 | xg=10
+Lille v Stade Brestois 29 | n=20 | xg=10
+Troyes v Lens | n=20 | xg=10
+AS Roma v Genoa | n=20 | xg=10
+Rapid Bucuresti v Corvinul Hunedoara | n=20 | xg=10
