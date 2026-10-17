@@ -1,2 +1,2 @@
-# 2026-10-17 16:49 Ljubljana scheduled scan: Bayern id retry
-id:157 v RB Leipzig | n=20 | xg=10
+# 2026-10-17 17:28 Ljubljana scheduled scan
+Osijek v HNK Gorica | n=20 | xg=10
