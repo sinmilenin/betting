@@ -1,3 +1,5 @@
-# 2026-10-17 18:12 Ljubljana scheduled scan
-Pisa v Cremonese | n=20 | xg=10
-Telstar v Feyenoord | n=20 | xg=10
+# 2026-10-17 18:24 Ljubljana: result check for ledger settlement
+Aberdeen v St Mirren | n=3 | xg=0
+id:1360 v id:1347 | n=3 | xg=0
+Eibar v Mallorca | n=3 | xg=0
+Villarreal v Elche | n=3 | xg=0
