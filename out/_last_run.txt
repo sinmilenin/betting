@@ -1,5 +1,4 @@
-RUN 2026-10-17 18:29 local | 2 match(es)
-Zamora FC v Anzoategui -> out/Zamora_FC_v_Anzoategui.txt
-    !! Anzoategui: Ambiguous team name "Anzoategui".
-Chico v Atletico Nacional -> out/Chico_v_Atletico_Nacional.txt
-Requests used: API-Football 41, Matchbook 0
+RUN 2026-10-17 18:31 local | 1 match(es)
+Zamora FC v Anzoátegui FC -> out/Zamora_FC_v_Anzo_tegui_FC.txt
+    !! Anzoátegui FC: API-Football error: {"search": "The Search field may only contain alpha-numeric characters and spaces."}
+Requests used: API-Football 14, Matchbook 0

@@ -1,6 +1,6 @@
-MATCH Zamora FC v Anzoategui | fetched 2026-10-17 18:29 local
+MATCH Zamora FC v Anzoátegui FC | fetched 2026-10-17 18:31 local
 
-FORM DATA Zamora FC v Anzoategui | source API-Football | 2026-10-17 18:29 UTC
+FORM DATA Zamora FC v Anzoátegui FC | source API-Football | 2026-10-17 18:31 UTC
 H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
 
 === Zamora FC (id 2806): last 20 finished games ===
@@ -28,20 +28,7 @@ Listed home: 10 games, scored 20 (2.00), conceded 14 (1.40), blanks 2, clean she
 Listed away: 10 games, scored 10 (1.00), conceded 18 (1.80), blanks 3, clean sheets 2
 All: 20 games, scored 30 (1.50), conceded 32 (1.60), blanks 5, clean sheets 5
 
-"Anzoategui" matches several teams. Use id:<number> instead of the name:
-  id:2819   Deportivo Anzoategui (Venezuela)
-  id:2830   Petrolero de Anzoategui (Venezuela)
-  id:11362  Deportivo Anzoátegui II (Venezuela)
-  id:11369  Real Anzoátegui (Venezuela)
-  id:18806  Anzoátegui FC (Venezuela)
-(retrying Anzoategui using the opponent's country, Venezuela)
-"Anzoategui" matches several teams. Use id:<number> instead of the name:
-  id:2819   Deportivo Anzoategui (Venezuela)
-  id:2830   Petrolero de Anzoategui (Venezuela)
-  id:11362  Deportivo Anzoátegui II (Venezuela)
-  id:11369  Real Anzoátegui (Venezuela)
-  id:18806  Anzoátegui FC (Venezuela)
-!! Anzoategui: Ambiguous team name "Anzoategui".
+!! Anzoátegui FC: API-Football error: {"search": "The Search field may only contain alpha-numeric characters and spaces."}
 
 TABLE FOR Zamora FC
 LEAGUE TABLE Copa Venezuela 2026 | 20 teams | 0 games played
@@ -67,7 +54,7 @@ LEAGUE TABLE Copa Venezuela 2026 | 20 teams | 0 games played
 3   Bolívar                  7 |  0   0-0       |  0   0-0       |  6   7-11 [Round 1 - Group E]
 4   Dinamo de Puerto La Cr   3 |  0   0-0       |  0   0-0       |  6   3-20 [Round 1 - Group E]
 
-(15 API-Football requests used)
+(14 API-Football requests used)
 
 ----------------------------------------------------------------------
 MATCHBOOK: skipped (switched off for this run)
