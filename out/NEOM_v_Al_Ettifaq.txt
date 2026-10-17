@@ -1,0 +1,59 @@
+MATCH NEOM v Al-Ettifaq | fetched 2026-10-17 14:42 local
+
+FORM DATA NEOM v Al-Ettifaq | source API-Football | 2026-10-17 14:43 UTC
+H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
+
+=== NEOM (id 10513): last 20 finished games ===
+2026-10-13 H 4-0 v Al Sha'ab Hadhramaut | AGCFF Gulf Champions League | Tabuk
+2026-10-10 A 1-1 v Al-Hazm | Pro League | Ar Rass | xG 1.87-0.66
+2026-09-13 H 4-2 v Al-Fateh | Pro League | Tabuk | xG 2.32-1.26
+2026-09-07 A 2-0 v Al-Hilal Saudi FC | Pro League | Riyadh | xG 1.35-1.81
+2026-09-03 H 3-0 v Al Khaleej Saihat | Pro League | Tabuk | xG 1.33-0.22
+2026-08-28 A 0-1 v Al Riyadh | Pro League | Riyadh | xG 0.88-0.81
+2026-08-24 H 0-2 v Al-Qadisiyah FC | Pro League | Tabuk | xG 1.26-2.09
+2026-08-21 A 2-0 v Al-Faisaly FC | Pro League | Al Majmaah | xG 1.30-0.60
+2026-08-18 A 3-1 v Al-Faisaly FC | King's Cup | ?
+2026-08-14 H 2-1 v Al-Fayha | Pro League | Tabuk | xG 1.10-1.09
+2026-07-31 A 1-0 v Las Palmas | Friendlies Clubs | ?
+2026-07-27 H 4-1 v Al-Arabi SC | Friendlies Clubs | ?
+2026-07-24 A 1-0 v Orlando Pirates | Friendlies Clubs | ?
+2026-07-22 A 0-2 v Granada CF | Friendlies Clubs | ?
+2026-07-17 A 0-0 v Peterborough | Friendlies Clubs | ?
+2026-05-21 H 1-1 v Al-Ettifaq | Pro League | Tabuk
+2026-05-16 A 0-2 v Al-Hilal Saudi FC | Pro League | Riyadh
+2026-05-11 H 2-1 v Al Shabab | Pro League | Tabuk
+2026-05-02 A 2-2 v Al-Fateh | Pro League | Al-Hofuf
+2026-04-28 H 1-1 v Al-Hazm | Pro League | Tabuk
+Listed home: 9 games, scored 21 (2.33), conceded 9 (1.00), blanks 1, clean sheets 2
+Listed away: 11 games, scored 12 (1.09), conceded 9 (0.82), blanks 4, clean sheets 5
+All: 20 games, scored 33 (1.65), conceded 18 (0.90), blanks 5, clean sheets 7
+
+!! Al-Ettifaq: API-Football error: {"search": "The Search field may only contain alpha-numeric characters and spaces."}
+
+TABLE FOR NEOM
+LEAGUE TABLE Pro League 2026 | 18 teams | 75 games played
+League averages per game: home 1.45, away 1.41, total 2.87
+#   team                   Pts | home P GF-GA  | away P GF-GA  | all P GF-GA
+1   Al-Qadisiyah FC         22 |  5  11-8       |  4  12-1       |  9  23-9
+2   Al-Hilal Saudi FC       21 |  4  10-6       |  4  16-1       |  8  26-7
+3   Al-Nassr                19 |  4  10-2       |  4   9-5       |  8  19-7
+4   Al-Ittihad FC           17 |  4   8-5       |  4   6-4       |  8  14-9
+5   NEOM                    16 |  4   9-5       |  4   5-2       |  8  14-7
+6   Al-Ahli Jeddah          15 |  3  12-1       |  5   8-9       |  8  20-10
+7   Al-Ettifaq              12 |  5   7-9       |  3   5-3       |  8  12-12
+8   Al Kholood              12 |  4   8-9       |  5   6-9       |  9  14-18
+9   Al Diriyah              11 |  4   1-4       |  4   6-4       |  8   7-8
+10  Al-Hazm                  9 |  5   5-6       |  4   5-7       |  9  10-13
+11  Al Khaleej Saihat        9 |  5   4-6       |  4   2-5       |  9   6-11
+12  Al Riyadh                9 |  3   3-4       |  5   6-13      |  8   9-17
+13  Al Shabab                7 |  5   7-8       |  3   2-3       |  8   9-11
+14  Al-Fayha                 7 |  4   6-8       |  5   2-6       |  9   8-14
+15  Al-Faisaly FC            6 |  5   5-8       |  3   3-7       |  8   8-15
+16  Al-Fateh                 6 |  4   1-7       |  5   6-10      |  9   7-17
+17  Al Taawon                3 |  4   0-6       |  4   3-9       |  8   3-15
+18  Abha                     2 |  3   2-4       |  5   4-11      |  8   6-15
+
+(15 API-Football requests used)
+
+----------------------------------------------------------------------
+MATCHBOOK: skipped (switched off for this run)

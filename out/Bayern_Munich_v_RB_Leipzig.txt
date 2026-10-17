@@ -1,0 +1,119 @@
+MATCH Bayern Munich v RB Leipzig | fetched 2026-10-17 14:42 local
+
+FORM DATA Bayern Munich v RB Leipzig | source API-Football | 2026-10-17 14:44 UTC
+H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
+
+=== Bayern Munich W (id 1860): last 20 finished games ===
+2026-10-03 A 1-0 v Eintracht Frankfurt W | Frauen Bundesliga | Frankfurt
+2026-09-30 A 3-0 v SL Benfica W | UEFA Champions League Women | Lisbon
+2026-09-27 A 2-1 v Borussia Monchengladbach W | DFB Pokal - Women | ?
+2026-09-22 H 2-2 v Manchester City W | UEFA Champions League Women | Munich
+2026-09-19 H 5-2 v FC Koln W | Frauen Bundesliga | Munich
+2026-09-14 A 3-2 v Bayer Leverkusen W | Frauen Bundesliga | Leverkusen
+2026-09-06 H 4-1 v SC Freiburg W | Frauen Bundesliga | Munich
+2026-08-31 H 2-0 v Mainz 05 W | Frauen Bundesliga | Munich | xG 2.72-0.18
+2026-08-21 A 4-1 v Union Berlin W | Frauen Bundesliga | Berlin | xG 1.04-0.76
+2026-08-15 H 3-0 v VfL Wolfsburg W | Supercup der Frauen | Ingolstadt
+2026-05-17 A 1-0 v Hamburger SV W | Frauen Bundesliga | Hamburg
+2026-05-14 A 4-0 v VfL Wolfsburg W | DFB Pokal - Women | Cologne
+2026-05-09 H 2-0 v Eintracht Frankfurt W | Frauen Bundesliga | Munich
+2026-05-06 H 1-1 v 1899 Hoffenheim W | Frauen Bundesliga | Munich
+2026-05-03 A 2-4 v Barcelona W | UEFA Champions League Women | Barcelona
+2026-04-29 A 2-0 v Werder Bremen W | Frauen Bundesliga | Bremen
+2026-04-25 H 1-1 v Barcelona W | UEFA Champions League Women | Munich
+2026-04-22 A 3-2 v Union Berlin W | Frauen Bundesliga | Berlin
+2026-04-06 H 4-0 v SGS Essen W | DFB Pokal - Women | Munich
+2026-04-01 H 2-1 v Manchester United W | UEFA Champions League Women | Munich
+Listed home: 10 games, scored 26 (2.60), conceded 8 (0.80), blanks 0, clean sheets 4
+Listed away: 10 games, scored 25 (2.50), conceded 10 (1.00), blanks 0, clean sheets 5
+All: 20 games, scored 51 (2.55), conceded 18 (0.90), blanks 0, clean sheets 9
+
+=== RB Leipzig (id 173): last 20 finished games ===
+2026-10-13 H 1-0 v PSV Eindhoven | UEFA Champions League | Leipzig | xG 2.10-1.40
+2026-10-10 H 6-0 v Eintracht Frankfurt | Bundesliga | Leipzig | xG 4.03-1.46
+2026-09-20 A 0-2 v Bayer Leverkusen | Bundesliga | Leverkusen | xG 0.97-2.27
+2026-09-13 H 5-0 v Hamburger SV | Bundesliga | Leipzig | xG 2.43-1.10
+2026-09-10 A 1-4 v Como | UEFA Champions League | Como | xG 1.36-2.98
+2026-09-05 A 1-3 v Werder Bremen | Bundesliga | Bremen | xG 1.50-0.95
+2026-08-29 H 3-0 v Borussia Mönchengladbach | Bundesliga | Leipzig | xG 3.96-1.09
+2026-08-22 A 6-0 v Eintracht Trier | DFB Pokal | Trier
+2026-08-15 A 1-3 v Bayern München | Friendlies Clubs | Munich
+2026-08-08 A 0-2 v Leeds | Friendlies Clubs | ?
+2026-08-01 H 4-0 v Verl | Friendlies Clubs | ?
+2026-07-25 H 1-0 v FC Ingolstadt 04 | Friendlies Clubs | ?
+2026-07-18 A 2-1 v Altglienicke | Friendlies Clubs | ?
+2026-05-29 A 1-3 v Mamelodi Sundowns | Friendlies Clubs | Pretoria
+2026-05-16 A 1-4 v SC Freiburg | Bundesliga | Freiburg im Breisgau
+2026-05-09 H 2-1 v FC St. Pauli | Bundesliga | Leipzig
+2026-05-02 A 1-4 v Bayer Leverkusen | Bundesliga | Leverkusen
+2026-04-24 H 3-1 v Union Berlin | Bundesliga | Leipzig
+2026-04-18 A 3-1 v Eintracht Frankfurt | Bundesliga | Frankfurt
+2026-04-11 H 1-0 v Borussia Mönchengladbach | Bundesliga | Leipzig
+Listed home: 9 games, scored 26 (2.89), conceded 2 (0.22), blanks 0, clean sheets 7
+Listed away: 11 games, scored 17 (1.55), conceded 27 (2.45), blanks 2, clean sheets 1
+All: 20 games, scored 43 (2.15), conceded 29 (1.45), blanks 2, clean sheets 8
+
+TABLE FOR Bayern Munich W
+LEAGUE TABLE Frauen Bundesliga 2026 | 14 teams | 44 games played
+League averages per game: home 1.77, away 1.64, total 3.41
+#   team                   Pts | home P GF-GA  | away P GF-GA  | all P GF-GA
+1   Bayern Munich W         18 |  3  11-3       |  3   8-3       |  6  19-6
+2   VfL Wolfsburg W         15 |  2   5-3       |  4  13-5       |  6  18-8
+3   Eintracht Frankfurt W   13 |  4   7-4       |  2   4-2       |  6  11-6
+4   FC Koln W               12 |  4   7-2       |  3   6-7       |  7  13-9
+5   Bayer Leverkusen W      12 |  3   6-7       |  3   6-2       |  6  12-9
+6   RB Leipzig W            10 |  3   7-3       |  4   6-6       |  7  13-9
+7   Werder Bremen W         10 |  3   4-1       |  3   6-7       |  6  10-8
+8   SC Freiburg W           10 |  4   5-5       |  3   3-5       |  7   8-10
+9   Stuttgart W              8 |  3   2-7       |  3   6-5       |  6   8-12
+10  Union Berlin W           6 |  3   4-7       |  3   4-4       |  6   8-11
+11  1899 Hoffenheim W        6 |  3   4-5       |  3   4-6       |  6   8-11
+12  Hamburger SV W           5 |  3   7-3       |  4   3-8       |  7  10-11
+13  Nürnberg W               2 |  3   6-13      |  3   3-8       |  6   9-21
+14  Mainz 05 W               0 |  3   3-9       |  3   0-10      |  6   3-19
+
+TABLE FOR RB Leipzig
+LEAGUE TABLE UEFA Champions League 2026 | 36 teams | 36 games played
+League averages per game: home 2.44, away 1.64, total 4.08
+#   team                   Pts | home P GF-GA  | away P GF-GA  | all P GF-GA
+1   Paris Saint Germain      6 |  1   6-1       |  1   4-2       |  2  10-3
+2   Barcelona                6 |  1   5-1       |  1   4-1       |  2   9-2
+3   Aston Villa              6 |  1   6-0       |  1   3-2       |  2   9-2
+4   VfB Stuttgart            6 |  1   3-1       |  1   3-0       |  2   6-1
+5   Liverpool                6 |  1   2-1       |  1   6-3       |  2   8-4
+6   Sporting CP              6 |  1   3-1       |  1   2-0       |  2   5-1
+7   Arsenal                  6 |  1   3-0       |  1   1-0       |  2   4-0
+8   Real Madrid              6 |  1   2-1       |  1   4-3       |  2   6-4
+9   Real Betis               6 |  1   3-2       |  1   3-2       |  2   6-4
+10  Bayern München           4 |  1   5-0       |  1   3-3       |  2   8-3
+11  Shakhtar Donetsk         4 |  1   3-1       |  1   1-1       |  2   4-2
+12  Como                     3 |  1   4-1       |  1   2-3       |  2   6-4
+13  Manchester United        3 |  1   4-0       |  1   0-2       |  2   4-2
+14  Villarreal               3 |  1   3-1       |  1   2-3       |  2   5-4
+15  Atletico Madrid          3 |  1   2-0       |  1   1-2       |  2   3-2
+16  Club Brugge KV           3 |  1   2-3       |  1   4-3       |  2   6-6
+17  Manchester City          3 |  1   2-4       |  1   2-0       |  2   4-4
+18  Borussia Dortmund        3 |  1   3-2       |  1   0-1       |  2   3-3
+19  Lens                     3 |  1   0-2       |  1   3-2       |  2   3-4
+20  AEK Athens FC            3 |  1   1-0       |  1   1-3       |  2   2-3
+21  RB Leipzig               3 |  1   1-0       |  1   1-4       |  2   2-4
+22  Sabah FA                 3 |  1   2-0       |  1   0-4       |  2   2-4
+23  Feyenoord                3 |  1   3-2       |  1   1-5       |  2   4-7
+24  Bodo/Glimt               3 |  1   1-0       |  1   0-5       |  2   1-5
+25  AS Roma                  1 |  1   3-4       |  1   1-1       |  2   4-5
+26  PSV Eindhoven            1 |  1   1-1       |  1   0-1       |  2   1-2
+27  Viking                   1 |  1   3-3       |  1   1-3       |  2   4-6
+28  Fenerbahçe               1 |  1   1-1       |  1   0-6       |  2   1-7
+29  Inter                    0 |  1   3-4       |  1   1-2       |  2   4-6
+30  FC Porto                 0 |  1   0-2       |  1   2-3       |  2   2-5
+31  Slavia Praha             0 |  1   2-3       |  1   0-2       |  2   2-5
+32  Napoli                   0 |  1   0-1       |  1   1-3       |  2   1-4
+33  Lask Linz                0 |  1   3-6       |  1   0-1       |  2   3-7
+34  Lille                    0 |  1   2-3       |  1   0-3       |  2   2-6
+35  Galatasaray              0 |  1   1-4       |  1   1-3       |  2   2-7
+36  Slovan Bratislava        0 |  1   0-3       |  1   1-6       |  2   1-9
+
+(25 API-Football requests used)
+
+----------------------------------------------------------------------
+MATCHBOOK: skipped (switched off for this run)

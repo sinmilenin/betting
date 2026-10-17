@@ -1,3 +1,27 @@
-RUN 2026-10-17 13:16 local | 1 match(es)
-Austria Lustenau v Lask Linz -> out/Austria_Lustenau_v_Lask_Linz.txt
-Requests used: API-Football 26, Matchbook 0
+RUN 2026-10-17 14:42 local | 17 match(es)
+Digenis Ypsona v Karmiotissa -> out/Digenis_Ypsona_v_Karmiotissa.txt
+    !! Digenis Ypsona: No team found for "Digenis Ypsona".
+Inter Turku v AC Oulu -> out/Inter_Turku_v_AC_Oulu.txt
+Paks v Gyor -> out/Paks_v_Gyor.txt
+    !! Gyor: Ambiguous team name "Gyor".
+Shakhtar Donetsk v Kolos Kovalivka -> out/Shakhtar_Donetsk_v_Kolos_Kovalivka.txt
+Strasbourg v Paris Saint Germain -> out/Strasbourg_v_Paris_Saint_Germain.txt
+Mantova v Palermo -> out/Mantova_v_Palermo.txt
+AIK v IFK Goteborg -> out/AIK_v_IFK_Goteborg.txt
+    !! AIK: Ambiguous team name "AIK".
+NEOM v Al-Ettifaq -> out/NEOM_v_Al_Ettifaq.txt
+    !! Al-Ettifaq: API-Football error: {"search": "The Search field may only contain alpha-numeric characters and spaces."}
+Viking v Fredrikstad -> out/Viking_v_Fredrikstad.txt
+Sigma Olomouc v Slovan Liberec -> out/Sigma_Olomouc_v_Slovan_Liberec.txt
+Fenerbahce v Alanyaspor -> out/Fenerbahce_v_Alanyaspor.txt
+    !! Fenerbahce: Ambiguous team name "Fenerbahce".
+Bologna v Inter -> out/Bologna_v_Inter.txt
+Real Betis v Barcelona -> out/Real_Betis_v_Barcelona.txt
+Bayern Munich v RB Leipzig -> out/Bayern_Munich_v_RB_Leipzig.txt
+Fredericia v Hobro -> out/Fredericia_v_Hobro.txt
+    !! Fredericia: Ambiguous team name "Fredericia".
+Sporting Gijon v Albacete -> out/Sporting_Gijon_v_Albacete.txt
+Newcastle v Aston Villa -> out/Newcastle_v_Aston_Villa.txt
+    !! Newcastle: Ambiguous team name "Newcastle".
+    !! Aston Villa: Ambiguous team name "Aston Villa".
+Requests used: API-Football 342, Matchbook 0
