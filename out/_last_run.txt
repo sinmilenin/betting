@@ -1,3 +1,12 @@
-RUN 2026-10-17 18:32 local | 1 match(es)
-Zamora FC v Anzoategui FC -> out/Zamora_FC_v_Anzoategui_FC.txt
-Requests used: API-Football 25, Matchbook 0
+RUN 2026-10-17 19:12 local | 4 match(es)
+Independiente Rivadavia v Tigre -> out/Independiente_Rivadavia_v_Tigre.txt
+    !! Independiente Rivadavia: No team found for "Independiente Rivadavia".
+Minnesota United v St. Louis City -> out/Minnesota_United_v_St_Louis_City.txt
+    !! Minnesota United: Ambiguous team name "Minnesota United".
+    !! St. Louis City: API-Football error: {"search": "The Search field may only contain alpha-numeric characters and spaces."}
+Colon v Almirante Brown -> out/Colon_v_Almirante_Brown.txt
+    !! Colon: Ambiguous team name "Colon".
+Botafogo v Chapecoense -> out/Botafogo_v_Chapecoense.txt
+    !! Botafogo: Ambiguous team name "Botafogo".
+    !! Chapecoense: Ambiguous team name "Chapecoense".
+Requests used: API-Football 33, Matchbook 0
