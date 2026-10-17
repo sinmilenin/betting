@@ -1,18 +1,8 @@
-# 2026-10-17 16:45 Ljubljana scheduled scan: first-analysis fixtures
-Digenis Ypsona v Karmiotissa | n=20 | xg=10
-Inter Turku v AC Oulu | n=20 | xg=10
-Paks v Gyor | n=20 | xg=10
-Shakhtar Donetsk v Kolos Kovalivka | n=20 | xg=10
-Strasbourg v Paris Saint Germain | n=20 | xg=10
-Mantova v Palermo | n=20 | xg=10
-AIK v IFK Goteborg | n=20 | xg=10
-NEOM v Al-Ettifaq | n=20 | xg=10
-Viking v Fredrikstad | n=20 | xg=10
-Sigma Olomouc v Slovan Liberec | n=20 | xg=10
-Fenerbahce v Alanyaspor | n=20 | xg=10
-Bologna v Inter | n=20 | xg=10
-Real Betis v Barcelona | n=20 | xg=10
-Bayern Munich v RB Leipzig | n=20 | xg=10
-Fredericia v Hobro | n=20 | xg=10
-Sporting Gijon v Albacete | n=20 | xg=10
-Newcastle v Aston Villa | n=20 | xg=10
+# 2026-10-17 16:48 Ljubljana scheduled scan: team name retries
+Digenis v Karmiotissa | n=20 | xg=10
+Paks v id:2402 | n=20 | xg=10
+id:377 v IFK Goteborg | n=20 | xg=10
+NEOM v Al Ettifaq | n=20 | xg=10
+id:611 v Alanyaspor | n=20 | xg=10
+id:2061 v Hobro | n=20 | xg=10
+id:34 v id:66 | n=20 | xg=10
