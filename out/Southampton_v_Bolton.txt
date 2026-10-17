@@ -1,0 +1,90 @@
+MATCH Southampton v Bolton | fetched 2026-10-17 12:29 local
+
+FORM DATA Southampton v Bolton | source API-Football | 2026-10-17 12:29 UTC
+H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
+
+=== Southampton (id 41): last 20 finished games ===
+2026-10-14 A 1-0 v Norwich | Championship | Norwich | xG 2.16-1.26
+2026-10-11 H 1-0 v Portsmouth | Championship | Southampton | xG 1.28-1.18
+2026-09-19 A 1-2 v Wrexham | Championship | Wrexham | xG 2.08-0.54
+2026-09-12 H 4-1 v Bristol City | Championship | Southampton | xG 1.71-2.24
+2026-09-08 H 3-1 v Swansea | Championship | Southampton | xG 1.44-1.22
+2026-09-05 A 1-1 v Lincoln | Championship | Lincoln | xG 0.77-2.27
+2026-09-01 A 1-1 v Birmingham | Championship | Birmingham | xG 1.02-1.55
+2026-08-29 H 5-1 v Millwall | Championship | Southampton | xG 3.62-1.35
+2026-08-25 H 1-4 v West Ham | League Cup | Southampton
+2026-08-22 H 3-1 v Stoke City | Championship | Southampton | xG 2.32-0.93
+2026-08-16 A 1-2 v Watford | Championship | Watford
+2026-08-08 A 2-0 v Colchester | League Cup | Colchester
+2026-08-01 A 2-1 v Preußen Münster | Friendlies Clubs | ?
+2026-07-24 A 1-0 v Eintracht Braunschweig | Friendlies Clubs | ?
+2026-07-18 A 3-1 v Eastleigh | Friendlies Clubs | ?
+2026-05-12 H 1-1 v Middlesbrough | Championship | Southampton [AET, 90-min score shown]
+2026-05-09 A 0-0 v Middlesbrough | Championship | Middlesbrough
+2026-05-02 A 3-1 v Preston | Championship | Preston
+2026-04-28 H 2-2 v Ipswich | Championship | Southampton
+2026-04-25 A 1-2 v Manchester City | FA Cup | London
+Listed home: 8 games, scored 20 (2.50), conceded 11 (1.38), blanks 0, clean sheets 1
+Listed away: 12 games, scored 17 (1.42), conceded 11 (0.92), blanks 1, clean sheets 4
+All: 20 games, scored 37 (1.85), conceded 22 (1.10), blanks 1, clean sheets 5
+
+=== Bolton (id 68): last 20 finished games ===
+2026-10-13 A 3-1 v Wolves | Championship | Wolverhampton | xG 1.62-2.23
+2026-10-10 H 1-2 v Stoke City | Championship | Horwich | xG 3.13-0.74
+2026-09-20 A 4-3 v Norwich | Championship | Norwich | xG 1.10-0.69
+2026-09-12 H 1-0 v Cardiff | Championship | Bolton | xG 0.48-1.79
+2026-09-08 H 2-3 v West Ham | Championship | Bolton | xG 1.56-2.22
+2026-09-05 A 0-4 v Millwall | Championship | London | xG 0.95-2.65
+2026-09-01 A 2-3 v Sheffield Utd | Championship | Sheffield | xG 1.91-2.21
+2026-08-29 H 0-1 v Lincoln | Championship | Bolton | xG 1.89-1.32
+2026-08-22 A 0-0 v QPR | Championship | London | xG 0.19-1.82
+2026-08-15 H 2-1 v Preston | Championship | Bolton | xG 1.10-1.12
+2026-08-08 A 0-1 v Sheffield Wednesday | League Cup | Sheffield
+2026-08-01 H 1-0 v NAC Breda | Friendlies Clubs | ?
+2026-07-28 A 1-1 v Fleetwood Town | Friendlies Clubs | ?
+2026-07-25 H 0-0 v Everton | Friendlies Clubs | ?
+2026-07-21 A 3-1 v Oldham | Friendlies Clubs | ?
+2026-07-17 A 1-2 v Dunajska Streda | Friendlies Clubs | ?
+2026-05-24 H 4-1 v Stockport County | League One | London
+2026-05-14 A 1-0 v Bradford | League One | Bradford
+2026-05-09 H 1-0 v Bradford | League One | Bolton
+2026-05-02 H 2-3 v Luton | League One | Bolton
+Listed home: 10 games, scored 14 (1.40), conceded 11 (1.10), blanks 2, clean sheets 4
+Listed away: 10 games, scored 15 (1.50), conceded 16 (1.60), blanks 3, clean sheets 2
+All: 20 games, scored 29 (1.45), conceded 27 (1.35), blanks 5, clean sheets 6
+
+TABLE FOR Southampton
+LEAGUE TABLE Championship 2026 | 24 teams | 120 games played
+League averages per game: home 1.60, away 1.32, total 2.92
+#   team                   Pts | home P GF-GA  | away P GF-GA  | all P GF-GA
+1   Swansea                 23 |  5   7-2       |  5   9-5       | 10  16-7
+2   Middlesbrough           21 |  5  12-7       |  5   8-7       | 10  20-14
+3   West Ham                19 |  5  15-5       |  5  14-7       | 10  29-12
+4   Birmingham              17 |  5  11-7       |  5   6-4       | 10  17-11
+5   QPR                     17 |  5   8-5       |  5   7-4       | 10  15-9
+6   Wolves                  17 |  4   8-6       |  6  10-9       | 10  18-15
+7   West Brom               17 |  5   6-4       |  5   6-6       | 10  12-10
+8   Southampton             16 |  5  16-4       |  5   5-6       | 10  21-10
+9   Stoke City              16 |  5  10-6       |  5   7-10      | 10  17-16
+10  Blackburn               15 |  5   9-7       |  5   6-6       | 10  15-13
+11  Millwall                14 |  5   9-6       |  5   7-10      | 10  16-16
+12  Bristol City            14 |  5   3-5       |  5   9-9       | 10  12-14
+13  Charlton                14 |  5   4-2       |  5   6-11      | 10  10-13
+14  Bolton                  13 |  5   6-7       |  5   9-11      | 10  15-18
+15  Sheffield Utd           12 |  5   7-6       |  5   7-8       | 10  14-14
+16  Portsmouth              11 |  5   8-9       |  4   4-4       |  9  12-13
+17  Wrexham                 11 |  5   6-7       |  5   5-8       | 10  11-15
+18  Lincoln                 11 |  5   3-12      |  5   4-5       | 10   7-17
+19  Cardiff                 10 |  5  12-6       |  5   4-9       | 10  16-15
+20  Norwich                  9 |  5  10-9       |  5   7-11      | 10  17-20
+21  Burnley                  8 |  6   8-10      |  5   8-11      | 11  16-21
+22  Watford                  8 |  5   6-9       |  5   2-10      | 10   8-19
+23  Derby                    6 |  5   4-9       |  5   5-10      | 10   9-19
+24  Preston                  4 |  5   4-9       |  5   4-11      | 10   8-20
+
+(Bolton: same table as Southampton, shown above)
+
+(25 API-Football requests used)
+
+----------------------------------------------------------------------
+MATCHBOOK: skipped (switched off for this run)

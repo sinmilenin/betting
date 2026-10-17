@@ -1,0 +1,90 @@
+MATCH Stockport County v Bromley | fetched 2026-10-17 12:29 local
+
+FORM DATA Stockport County v Bromley | source API-Football | 2026-10-17 12:30 UTC
+H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
+
+=== Stockport County (id 4686): last 20 finished games ===
+2026-10-10 H 3-1 v Barnsley | League One | Stockport | xG 1.93-1.43
+2026-10-06 A 2-0 v Shrewsbury | EFL Trophy | Shrewsbury
+2026-09-26 H 1-0 v Peterborough | League One | Stockport | xG 1.78-1.43
+2026-09-19 A 0-0 v Sheffield Wednesday | League One | Sheffield
+2026-09-12 H 3-4 v Leicester | League One | Stockport | xG 2.08-1.08
+2026-09-05 A 4-0 v Wigan | League One | Wigan | xG 2.15-0.73
+2026-09-02 A 0-2 v Luton | League One | Luton | xG 0.84-1.40
+2026-08-29 H 5-1 v Wycombe | League One | Stockport | xG 1.34-0.94
+2026-08-22 H 1-2 v Blackpool | League One | Stockport | xG 2.91-1.68
+2026-08-18 H 6-3 v Everton U21 | EFL Trophy | Stockport
+2026-08-15 A 3-1 v Plymouth | League One | Plymouth
+2026-08-08 H 1-1 v Doncaster | League Cup | Stockport [PEN, 90-min score shown]
+2026-08-01 H 1-0 v Preston | Friendlies Clubs | ?
+2026-07-28 A 1-0 v Oldham | Friendlies Clubs | ?
+2026-07-17 H 2-0 v Bristol City | Friendlies Clubs | Murcia
+2026-05-24 A 1-4 v Bolton | League One | London
+2026-05-13 H 2-0 v Stevenage | League One | Stockport
+2026-05-09 A 1-0 v Stevenage | League One | Stevenage
+2026-05-02 A 3-1 v Barnsley | League One | Barnsley
+2026-04-28 H 1-2 v Port Vale | League One | Stockport
+Listed home: 11 games, scored 26 (2.36), conceded 14 (1.27), blanks 0, clean sheets 4
+Listed away: 9 games, scored 15 (1.67), conceded 8 (0.89), blanks 2, clean sheets 5
+All: 20 games, scored 41 (2.05), conceded 22 (1.10), blanks 2, clean sheets 9
+
+=== Bromley (id 1832): last 20 finished games ===
+2026-10-10 A 1-2 v Mansfield Town | League One | Mansfield | xG 0.95-2.42
+2026-10-06 A 0-4 v Crawley Town | EFL Trophy | Crawley
+2026-09-22 H 0-1 v Brentford U21 | EFL Trophy | London
+2026-09-19 H 2-1 v Huddersfield | League One | London | xG 0.38-2.67
+2026-09-12 A 2-2 v Blackpool | League One | Blackpool | xG 1.14-1.12
+2026-09-07 H 0-2 v AFC Wimbledon | League One | London | xG 0.61-1.10
+2026-09-01 H 0-5 v Leyton Orient | League One | London | xG 0.63-1.67
+2026-08-29 A 2-7 v Sheffield Wednesday | League One | Sheffield | xG 1.50-4.52
+2026-08-22 H 1-1 v Cambridge United | League One | London | xG 0.61-0.76
+2026-08-15 A 1-0 v Barnsley | League One | Barnsley | xG 1.04-1.18
+2026-08-08 H 1-1 v Reading | League Cup | London [PEN, 90-min score shown]
+2026-08-01 A 1-1 v Barnet | Friendlies Clubs | ?
+2026-07-31 H 0-7 v QPR | Friendlies Clubs | ?
+2026-07-28 H 1-1 v Millwall | Friendlies Clubs | ?
+2026-07-25 H 3-0 v Crystal Palace | Friendlies Clubs | London
+2026-07-17 A 1-4 v West Brom | Friendlies Clubs | Albufeira
+2026-07-04 A 0-4 v Carshalton Athletic | Friendlies Clubs | ?
+2026-05-02 H 3-1 v Walsall | League Two | London
+2026-04-23 A 0-2 v Salford City | League Two | Salford
+2026-04-16 H 0-0 v Cambridge United | League Two | London
+Listed home: 11 games, scored 11 (1.00), conceded 20 (1.82), blanks 5, clean sheets 2
+Listed away: 9 games, scored 8 (0.89), conceded 26 (2.89), blanks 3, clean sheets 1
+All: 20 games, scored 19 (0.95), conceded 46 (2.30), blanks 8, clean sheets 3
+
+TABLE FOR Stockport County
+LEAGUE TABLE League One 2026 | 24 teams | 103 games played
+League averages per game: home 1.48, away 1.40, total 2.87
+#   team                   Pts | home P GF-GA  | away P GF-GA  | all P GF-GA
+1   Plymouth                19 |  5   8-5       |  5  10-7       | 10  18-12
+2   Bradford                17 |  4   4-2       |  5   4-3       |  9   8-5
+3   Stockport County        16 |  5  13-8       |  4   7-3       |  9  20-11
+4   Huddersfield            16 |  4   9-4       |  5   7-5       |  9  16-9
+5   Cambridge United        16 |  5   8-6       |  4   6-5       |  9  14-11
+6   Reading                 15 |  5  14-6       |  4   8-5       |  9  22-11
+7   Oxford United           15 |  3   6-3       |  5  10-6       |  8  16-9
+8   Sheffield Wednesday     15 |  4   7-3       |  4   8-5       |  8  15-8
+9   Stevenage               12 |  4   6-5       |  4   6-3       |  8  12-8
+10  Burton Albion           12 |  5  10-9       |  5   4-7       | 10  14-16
+11  Mansfield Town          12 |  5  10-5       |  4   3-10      |  9  13-15
+12  AFC Wimbledon           12 |  4   2-0       |  5   5-10      |  9   7-10
+13  Leyton Orient           11 |  5   5-10      |  4   8-1       |  9  13-11
+14  Luton                   11 |  4   5-4       |  4  11-11      |  8  16-15
+15  Wycombe                 10 |  5   8-12      |  4   6-8       |  9  14-20
+16  Doncaster                9 |  4   4-4       |  4   5-5       |  8   9-9
+17  Leicester                9 |  4   4-9       |  4   6-5       |  8  10-14
+18  Blackpool                8 |  4   9-7       |  4   4-7       |  8  13-14
+19  Barnsley                 8 |  4   4-8       |  4   4-7       |  8   8-15
+20  Peterborough             8 |  4   3-5       |  5   4-9       |  9   7-14
+21  Bromley                  8 |  4   3-9       |  4   6-11      |  8   9-20
+22  Notts County             7 |  4   4-5       |  4   4-6       |  8   8-11
+23  Milton Keynes Dons       6 |  4   3-7       |  4   6-8       |  8   9-15
+24  Wigan                    4 |  4   3-8       |  4   2-5       |  8   5-13
+
+(Bromley: same table as Stockport County, shown above)
+
+(24 API-Football requests used)
+
+----------------------------------------------------------------------
+MATCHBOOK: skipped (switched off for this run)

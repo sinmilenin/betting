@@ -1,0 +1,57 @@
+MATCH Sandvikens IF v Ostersunds FK | fetched 2026-10-17 12:29 local
+
+FORM DATA Sandvikens IF v Ostersunds FK | source API-Football | 2026-10-17 12:29 UTC
+H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
+
+=== Ostersunds FK (id 376): last 20 finished games ===
+2026-10-10 H 1-1 v Varbergs BoIS FC | Superettan | Ostersund
+2026-10-03 A 0-2 v Rosenborg | Friendlies Clubs | ?
+2026-09-18 A 0-0 v Falkenbergs FF | Superettan | Falkenberg
+2026-09-14 H 1-0 v Helsingborg | Superettan | Ostersund
+2026-09-10 H 1-1 v IK brage | Superettan | Ostersund
+2026-09-07 A 1-0 v Orebro SK | Superettan | Orebro
+2026-08-29 A 1-1 v Landskrona BoIS | Superettan | Landskrona
+2026-08-24 H 0-0 v Ljungskile SK | Superettan | Ostersund
+2026-08-20 A 2-1 v Arlanda | Svenska Cupen | ?
+2026-08-16 A 1-1 v IFK Varnamo | Superettan | Varnamo
+2026-08-07 H 1-0 v GIF Sundsvall | Superettan | Ostersund
+2026-08-01 H 1-0 v Osters IF | Superettan | Ostersund
+2026-07-26 A 2-2 v Norrby IF | Superettan | Boras
+2026-07-18 H 2-0 v Landskrona BoIS | Superettan | Ostersund
+2026-07-11 H 2-4 v Orebro SK | Friendlies Clubs | ?
+2026-06-27 A 2-0 v GIF Sundsvall | Superettan | Sundsvall
+2026-06-21 H 0-2 v IFK Norrkoping | Superettan | Ostersund
+2026-06-14 A 1-1 v Ljungskile SK | Superettan | Uddevalla
+2026-06-09 A 1-1 v United Nordic | Superettan | Sodertalje
+2026-05-31 H 3-2 v Orebro SK | Superettan | Ostersund
+Listed home: 10 games, scored 12 (1.20), conceded 10 (1.00), blanks 2, clean sheets 5
+Listed away: 10 games, scored 11 (1.10), conceded 9 (0.90), blanks 2, clean sheets 3
+All: 20 games, scored 23 (1.15), conceded 19 (0.95), blanks 4, clean sheets 8
+
+!! Sandvikens IF: No team found for "Sandvikens IF".
+
+TABLE FOR Ostersunds FK
+LEAGUE TABLE Superettan 2026 | 16 teams | 208 games played
+League averages per game: home 1.52, away 1.37, total 2.89
+#   team                   Pts | home P GF-GA  | away P GF-GA  | all P GF-GA
+1   IFK Norrkoping          58 | 13  28-8       | 13  24-8       | 26  52-16
+2   Falkenbergs FF          48 | 13  20-13      | 13  28-21      | 26  48-34
+3   Varbergs BoIS FC        45 | 13  23-16      | 13  22-18      | 26  45-34
+4   Ostersunds FK           44 | 13  18-12      | 13  16-13      | 26  34-25
+5   Landskrona BoIS         43 | 13  20-14      | 13  22-14      | 26  42-28
+6   Oddevold                39 | 13  20-16      | 13  20-18      | 26  40-34
+7   Osters IF               36 | 13  18-16      | 13  20-24      | 26  38-40
+8   United Nordic           36 | 13  23-25      | 13  15-17      | 26  38-42
+9   Sandviken               34 | 13  27-20      | 13  16-18      | 26  43-38
+10  Helsingborg             30 | 13  19-20      | 13  17-27      | 26  36-47
+11  Ljungskile SK           29 | 13  16-19      | 13  18-18      | 26  34-37
+12  IFK Varnamo             29 | 13  15-18      | 13  19-29      | 26  34-47
+13  Norrby IF               27 | 13  20-19      | 13  10-16      | 26  30-35
+14  IK brage                26 | 13  25-25      | 13  16-23      | 26  41-48
+15  Orebro SK               25 | 13  11-16      | 13  17-24      | 26  28-40
+16  GIF Sundsvall           19 | 13  14-28      | 13   5-29      | 26  19-57
+
+(14 API-Football requests used)
+
+----------------------------------------------------------------------
+MATCHBOOK: skipped (switched off for this run)

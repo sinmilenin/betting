@@ -1,0 +1,78 @@
+MATCH Hibernian v Falkirk | fetched 2026-10-17 12:29 local
+
+FORM DATA Hibernian v Falkirk | source API-Football | 2026-10-17 12:31 UTC
+H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
+
+=== Hibernian (id 249): last 20 finished games ===
+2026-10-10 A 0-1 v Dundee Utd | Premiership | Dundee | xG 0.77-1.68
+2026-09-19 H 1-1 v Aberdeen | Premiership | Edinburgh | xG 1.43-0.77
+2026-09-15 H 0-1 v Kilmarnock | Premiership | Edinburgh | xG 1.31-1.95
+2026-09-12 A 3-0 v Ross County | League Cup | Dingwall
+2026-09-06 A 1-2 v ST Johnstone | Premiership | Perth | xG 1.72-2.49
+2026-09-03 H 1-3 v Heart Of Midlothian | Premiership | Edinburgh | xG 1.70-0.82
+2026-08-30 A 2-1 v Dundee | Premiership | Dundee | xG 2.42-0.78
+2026-08-27 H 2-3 v Gent | UEFA Europa Conference League | Edinburgh
+2026-08-20 A 0-0 v Gent | UEFA Europa Conference League | Gent
+2026-08-16 H 1-0 v Partick | League Cup | Edinburgh
+2026-08-13 A 0-0 v Shkendija | UEFA Europa Conference League | Skopje
+2026-08-09 A 2-1 v Rangers | Premiership | Glasgow
+2026-08-06 H 2-1 v Shkendija | UEFA Europa Conference League | Edinburgh
+2026-08-02 H 1-2 v Motherwell | Premiership | Edinburgh
+2026-07-30 H 4-1 v Malisheva | UEFA Europa Conference League | Edinburgh
+2026-07-23 A 0-2 v Malisheva | UEFA Europa Conference League | Prishtinë
+2026-07-18 H 2-1 v Brondby | Friendlies Clubs | ?
+2026-07-04 A 5-1 v Cliftonville FC | Friendlies Clubs | ?
+2026-06-30 A 0-1 v Shamrock Rovers | Friendlies Clubs | ?
+2026-05-16 H 0-1 v Motherwell | Premiership | Edinburgh
+Listed home: 10 games, scored 14 (1.40), conceded 14 (1.40), blanks 2, clean sheets 1
+Listed away: 10 games, scored 13 (1.30), conceded 9 (0.90), blanks 5, clean sheets 3
+All: 20 games, scored 27 (1.35), conceded 23 (1.15), blanks 7, clean sheets 4
+
+=== Falkirk (id 1389): last 20 finished games ===
+2026-10-10 H 1-2 v Dundee | Premiership | Falkirk | xG 1.92-1.43
+2026-09-19 A 1-1 v ST Johnstone | Premiership | Perth | xG 0.90-0.68
+2026-09-15 H 2-1 v Heart Of Midlothian | Premiership | Falkirk | xG 2.05-1.72
+2026-09-05 A 1-1 v Dundee Utd | Premiership | Dundee | xG 0.85-2.27
+2026-09-02 H 1-2 v Rangers | Premiership | Falkirk | xG 0.85-1.57
+2026-08-29 A 1-2 v Celtic | Premiership | Glasgow | xG 0.53-2.87
+2026-08-09 A 0-0 v Motherwell | Premiership | Motherwell | xG 0.44-0.89
+2026-08-01 H 0-2 v ST Mirren | Premiership | Falkirk | xG 0.71-1.64
+2026-07-25 H 3-0 v Stranraer | League Cup | Falkirk
+2026-07-21 A 1-1 v Alloa Athletic | League Cup | Alloa [PEN, 90-min score shown]
+2026-07-18 H 1-0 v Genk | Friendlies Clubs | ?
+2026-07-14 H 0-1 v Ayr Utd | League Cup | Falkirk
+2026-07-11 A 5-0 v Edinburgh City | League Cup | Edinburgh
+2026-07-07 A 2-1 v Airdrie United | Friendlies Clubs | ?
+2026-05-16 H 2-5 v Rangers | Premiership | Falkirk
+2026-05-13 A 0-3 v Heart Of Midlothian | Premiership | Edinburgh
+2026-05-09 H 1-3 v Hibernian | Premiership | Falkirk
+2026-05-02 H 1-0 v Motherwell | Premiership | Falkirk
+2026-04-25 A 1-3 v Celtic | Premiership | Glasgow
+2026-04-18 A 0-0 v Dunfermline | FA Cup | Glasgow [PEN, 90-min score shown]
+Listed home: 10 games, scored 12 (1.20), conceded 16 (1.60), blanks 2, clean sheets 3
+Listed away: 10 games, scored 12 (1.20), conceded 12 (1.20), blanks 3, clean sheets 3
+All: 20 games, scored 24 (1.20), conceded 28 (1.40), blanks 5, clean sheets 6
+
+TABLE FOR Hibernian
+LEAGUE TABLE Premiership 2026 | 12 teams | 48 games played
+League averages per game: home 1.25, away 1.31, total 2.56
+#   team                   Pts | home P GF-GA  | away P GF-GA  | all P GF-GA
+1   Celtic                  21 |  4   6-2       |  4  10-2       |  8  16-4
+2   Rangers                 19 |  4   6-3       |  4   5-2       |  8  11-5
+3   Heart Of Midlothian     16 |  4  13-2       |  4   6-6       |  8  19-8
+4   Dundee                  13 |  4   6-4       |  4   5-4       |  8  11-8
+5   ST Johnstone            11 |  4   7-6       |  4   3-4       |  8  10-10
+6   Dundee Utd              11 |  4   3-4       |  4   7-7       |  8  10-11
+7   ST Mirren               10 |  4   5-8       |  4   3-6       |  8   8-14
+8   Aberdeen                 8 |  4   2-3       |  4   5-6       |  8   7-9
+9   Motherwell               8 |  4   3-6       |  4   6-7       |  8   9-13
+10  Hibernian                7 |  4   3-7       |  4   5-5       |  8   8-12
+11  Falkirk                  6 |  4   4-7       |  4   3-4       |  8   7-11
+12  Kilmarnock               5 |  4   2-11      |  4   5-7       |  8   7-18
+
+(Falkirk: same table as Hibernian, shown above)
+
+(24 API-Football requests used)
+
+----------------------------------------------------------------------
+MATCHBOOK: skipped (switched off for this run)

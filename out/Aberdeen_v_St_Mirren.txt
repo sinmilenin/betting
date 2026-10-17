@@ -1,0 +1,78 @@
+MATCH Aberdeen v St Mirren | fetched 2026-10-17 12:29 local
+
+FORM DATA Aberdeen v St Mirren | source API-Football | 2026-10-17 12:32 UTC
+H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
+
+=== Aberdeen (id 252): last 20 finished games ===
+2026-10-11 H 0-1 v ST Johnstone | Premiership | Aberdeen | xG 1.23-1.10
+2026-10-03 A 4-1 v Dunfermline | Friendlies Clubs | ?
+2026-09-19 A 1-1 v Hibernian | Premiership | Edinburgh | xG 0.77-1.43
+2026-09-15 A 4-0 v Motherwell | Premiership | Motherwell | xG 0.91-0.77
+2026-09-12 A 1-1 v Kilmarnock | League Cup | Kilmarnock [PEN, 90-min score shown]
+2026-09-05 H 0-0 v Kilmarnock | Premiership | Aberdeen | xG 0.85-0.93
+2026-09-02 A 0-3 v Celtic | Premiership | Glasgow | xG 0.66-2.47
+2026-08-30 H 0-1 v Rangers | Premiership | Aberdeen | xG 0.45-1.84
+2026-08-15 H 3-0 v Dundee | League Cup | Aberdeen
+2026-08-08 A 0-2 v Dundee | Premiership | Dundee | xG 0.70-2.22
+2026-08-01 H 2-1 v Heart Of Midlothian | Premiership | Aberdeen
+2026-07-25 H 3-0 v Kelty Hearts | League Cup | Aberdeen
+2026-07-22 A 4-1 v Queen of the South | League Cup | Dumfries
+2026-07-18 H 2-1 v Queen's Park | League Cup | Aberdeen
+2026-07-14 A 2-0 v Brora Rangers | League Cup | ?
+2026-07-11 A 2-0 v Linfield | Friendlies Clubs | ?
+2026-07-07 H 3-6 v Ross County | Friendlies Clubs | ?
+2026-07-04 A 0-1 v Twente | Friendlies Clubs | ?
+2026-06-27 A 1-0 v Cove Rangers | Friendlies Clubs | ?
+2026-05-17 A 2-3 v Dundee | Premiership | Dundee
+Listed home: 8 games, scored 13 (1.62), conceded 10 (1.25), blanks 3, clean sheets 3
+Listed away: 12 games, scored 21 (1.75), conceded 13 (1.08), blanks 3, clean sheets 4
+All: 20 games, scored 34 (1.70), conceded 23 (1.15), blanks 6, clean sheets 7
+
+=== ST Mirren (id 251): last 20 finished games ===
+2026-10-10 A 0-5 v Heart Of Midlothian | Premiership | Edinburgh | xG 0.74-3.51
+2026-09-19 H 0-3 v Dundee Utd | Premiership | Paisley | xG 0.85-1.52
+2026-09-09 A 0-1 v Rangers | Premiership | Glasgow | xG 1.10-2.13
+2026-09-05 H 1-2 v Celtic | Premiership | Paisley | xG 1.74-2.93
+2026-09-02 A 1-0 v Kilmarnock | Premiership | Kilmarnock | xG 1.09-0.43
+2026-08-30 H 3-3 v Motherwell | Premiership | Paisley | xG 2.32-2.11
+2026-08-16 A 1-5 v Rangers | League Cup | Glasgow
+2026-08-08 H 1-0 v ST Johnstone | Premiership | Paisley | xG 1.36-1.13
+2026-08-01 A 2-0 v Falkirk | Premiership | Falkirk | xG 1.64-0.71
+2026-07-26 H 0-1 v Dunfermline | League Cup | Paisley
+2026-07-21 H 4-3 v East Kilbride | League Cup | Paisley
+2026-07-18 A 4-0 v Cove Rangers | League Cup | Aberdeen
+2026-07-11 A 4-0 v Dumbarton | League Cup | Dumbarton
+2026-06-27 A 4-2 v Arbroath | Friendlies Clubs | ?
+2026-05-25 H 1-0 v Partick | Premiership | Paisley
+2026-05-21 A 1-1 v Partick | Premiership | Glasgow
+2026-05-17 H 1-1 v Dundee Utd | Premiership | Paisley
+2026-05-12 A 2-0 v Aberdeen | Premiership | Aberdeen
+2026-05-09 H 0-3 v Kilmarnock | Premiership | Paisley
+2026-05-02 A 0-1 v Dundee | Premiership | Dundee
+Listed home: 9 games, scored 11 (1.22), conceded 16 (1.78), blanks 3, clean sheets 2
+Listed away: 11 games, scored 19 (1.73), conceded 15 (1.36), blanks 3, clean sheets 5
+All: 20 games, scored 30 (1.50), conceded 31 (1.55), blanks 6, clean sheets 7
+
+TABLE FOR Aberdeen
+LEAGUE TABLE Premiership 2026 | 12 teams | 48 games played
+League averages per game: home 1.25, away 1.31, total 2.56
+#   team                   Pts | home P GF-GA  | away P GF-GA  | all P GF-GA
+1   Celtic                  21 |  4   6-2       |  4  10-2       |  8  16-4
+2   Rangers                 19 |  4   6-3       |  4   5-2       |  8  11-5
+3   Heart Of Midlothian     16 |  4  13-2       |  4   6-6       |  8  19-8
+4   Dundee                  13 |  4   6-4       |  4   5-4       |  8  11-8
+5   ST Johnstone            11 |  4   7-6       |  4   3-4       |  8  10-10
+6   Dundee Utd              11 |  4   3-4       |  4   7-7       |  8  10-11
+7   ST Mirren               10 |  4   5-8       |  4   3-6       |  8   8-14
+8   Aberdeen                 8 |  4   2-3       |  4   5-6       |  8   7-9
+9   Motherwell               8 |  4   3-6       |  4   6-7       |  8   9-13
+10  Hibernian                7 |  4   3-7       |  4   5-5       |  8   8-12
+11  Falkirk                  6 |  4   4-7       |  4   3-4       |  8   7-11
+12  Kilmarnock               5 |  4   2-11      |  4   5-7       |  8   7-18
+
+(ST Mirren: same table as Aberdeen, shown above)
+
+(24 API-Football requests used)
+
+----------------------------------------------------------------------
+MATCHBOOK: skipped (switched off for this run)

@@ -1,0 +1,74 @@
+MATCH Newport County v York City | fetched 2026-10-17 12:29 local
+
+FORM DATA Newport County v York City | source API-Football | 2026-10-17 12:29 UTC
+H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
+
+=== Newport County (id 1367): last 20 finished games ===
+2026-10-10 H 1-0 v Colchester | League Two | Newport | xG 1.64-0.73
+2026-10-06 H 2-2 v Plymouth | EFL Trophy | Newport [PEN, 90-min score shown]
+2026-10-03 A 0-0 v Gillingham | League Two | Gillingham | xG 1.25-0.31
+2026-09-26 H 2-1 v Grimsby | League Two | Newport
+2026-09-22 A 2-0 v Swindon Town | EFL Trophy | Swindon
+2026-09-19 A 0-0 v Accrington ST | League Two | Accrington | xG 1.09-0.87
+2026-09-12 H 1-1 v Fleetwood Town | League Two | Newport | xG 2.04-1.13
+2026-09-05 A 0-1 v Northampton | League Two | Northampton | xG 0.51-0.63
+2026-09-01 A 1-2 v Salford City | League Two | Salford | xG 0.21-3.33
+2026-08-29 H 2-2 v Tranmere | League Two | Newport | xG 0.94-1.50
+2026-08-22 A 3-5 v Bristol Rovers | League Two | Bristol
+2026-08-15 H 3-0 v Rochdale | League Two | Newport
+2026-08-08 A 1-1 v AFC Wimbledon | League Cup | London [PEN, 90-min score shown]
+2026-08-04 H 1-4 v AS Roma | Friendlies Clubs | Newport
+2026-08-01 A 2-1 v Yeovil Town | Friendlies Clubs | ?
+2026-07-28 H 0-4 v Reading | Friendlies Clubs | ?
+2026-07-25 A 2-2 v Bath City | Friendlies Clubs | ?
+2026-07-21 A 0-0 v Bristol City | Friendlies Clubs | ?
+2026-07-11 A 1-2 v Gloucester City | Friendlies Clubs | ?
+2026-07-08 A 5-0 v Newport City | Friendlies Clubs | ?
+Listed home: 8 games, scored 12 (1.50), conceded 14 (1.75), blanks 1, clean sheets 2
+Listed away: 12 games, scored 17 (1.42), conceded 14 (1.17), blanks 4, clean sheets 5
+All: 20 games, scored 29 (1.45), conceded 28 (1.40), blanks 5, clean sheets 7
+
+"York City" matches several teams. Use id:<number> instead of the name:
+  id:1604   New York City FC (USA)
+  id:18815  New York City II (USA)
+  id:20615  York City W (England)
+(retrying York City using the opponent's country, Wales)
+"York City" matches several teams. Use id:<number> instead of the name:
+  id:1604   New York City FC (USA)
+  id:18815  New York City II (USA)
+  id:20615  York City W (England)
+!! York City: Ambiguous team name "York City".
+
+TABLE FOR Newport County
+LEAGUE TABLE League Two 2026 | 24 teams | 114 games played
+League averages per game: home 1.49, away 0.99, total 2.48
+#   team                   Pts | home P GF-GA  | away P GF-GA  | all P GF-GA
+1   Salford City            19 |  5   5-2       |  5  10-8       | 10  15-10
+2   Barnet                  18 |  4  10-5       |  4  10-6       |  8  20-11
+3   Crewe                   18 |  5   8-5       |  5   4-2       | 10  12-7
+4   Gillingham              16 |  5   6-4       |  5   9-6       | 10  15-10
+5   York                    15 |  5  13-4       |  4   4-7       |  9  17-11
+6   Walsall                 15 |  4   5-2       |  5   7-4       |  9  12-6
+7   Chesterfield            15 |  5  10-7       |  5   7-7       | 10  17-14
+8   Cheltenham              15 |  5   9-8       |  5   7-8       | 10  16-16
+9   Bristol Rovers          15 |  5  10-6       |  5   5-11      | 10  15-17
+10  Rochdale                14 |  5   8-6       |  5   3-6       | 10  11-12
+11  Grimsby                 13 |  5   8-4       |  5   5-7       | 10  13-11
+12  Newport County          13 |  5   9-4       |  5   4-8       | 10  13-12
+13  Tranmere                12 |  5   8-4       |  5   5-9       | 10  13-13
+14  Exeter City             12 |  5   4-1       |  5   2-5       | 10   6-6
+15  Accrington ST           11 |  5   9-6       |  5   4-8       | 10  13-14
+16  Fleetwood Town          11 |  5   5-4       |  5   5-7       | 10  10-11
+17  Swindon Town            11 |  5   9-5       |  5   0-9       | 10   9-14
+18  Shrewsbury              11 |  5   6-6       |  5   3-9       | 10   9-15
+19  Colchester              10 |  4   5-3       |  5   5-10      |  9  10-13
+20  Rotherham               10 |  5   8-10      |  5   4-6       | 10  12-16
+21  Oldham                   8 |  5   7-6       |  4   2-7       |  9   9-13
+22  Port Vale                8 |  4   3-1       |  4   1-8       |  8   4-9
+23  Northampton              7 |  4   2-2       |  4   2-5       |  8   4-7
+24  Crawley Town             5 |  4   3-8       |  4   5-7       |  8   8-15
+
+(15 API-Football requests used)
+
+----------------------------------------------------------------------
+MATCHBOOK: skipped (switched off for this run)
