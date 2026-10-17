@@ -1,8 +1,13 @@
-MATCH PK 35 Vantaa v SJK Akatemia | fetched 2026-10-17 12:29 local
+MATCH Vantaa v id:9198 | fetched 2026-10-17 12:33 local
 
-FORM DATA PK 35 Vantaa v SJK Akatemia | source API-Football | 2026-10-17 12:29 UTC
+FORM DATA Vantaa v id:9198 | source API-Football | 2026-10-17 12:33 UTC
 H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
 
+"Vantaa" matches several teams. Use id:<number> instead of the name:
+  id:1173   PK-35 Vantaa (Finland)
+  id:10920  PK-35 Vantaa W (Finland)
+  id:13515  Allianssi Vantaa (Finland)
+  id:18581  PK-35 Vantaa II (Finland)
 === SJK Akatemia (id 9198): last 20 finished games ===
 2026-10-11 H 4-3 v Kooteepee | Ykkösliiga | Seinajoki
 2026-09-26 A 1-1 v EIF | Ykkösliiga | Raseborg
@@ -28,7 +33,13 @@ Listed home: 11 games, scored 11 (1.00), conceded 27 (2.45), blanks 6, clean she
 Listed away: 9 games, scored 6 (0.67), conceded 12 (1.33), blanks 4, clean sheets 1
 All: 20 games, scored 17 (0.85), conceded 39 (1.95), blanks 10, clean sheets 3
 
-!! PK 35 Vantaa: No team found for "PK 35 Vantaa".
+(retrying Vantaa using the opponent's country, Finland)
+"Vantaa" matches several teams. Use id:<number> instead of the name:
+  id:1173   PK-35 Vantaa (Finland)
+  id:10920  PK-35 Vantaa W (Finland)
+  id:13515  Allianssi Vantaa (Finland)
+  id:18581  PK-35 Vantaa II (Finland)
+!! Vantaa: Ambiguous team name "Vantaa".
 
 TABLE FOR SJK Akatemia
 LEAGUE TABLE Ykkösliiga 2026 | 10 teams | 130 games played
@@ -45,7 +56,7 @@ League averages per game: home 1.39, away 1.25, total 2.65
 9   KäPa                    25 | 13  16-23      | 13  15-23      | 26  31-46
 10  SJK Akatemia            17 | 13  12-25      | 13   9-19      | 26  21-44
 
-(14 API-Football requests used)
+(15 API-Football requests used)
 
 ----------------------------------------------------------------------
 MATCHBOOK: skipped (switched off for this run)

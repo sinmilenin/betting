@@ -1,8 +1,13 @@
-MATCH Sandvikens IF v Ostersunds FK | fetched 2026-10-17 12:29 local
+MATCH Sandviken v id:376 | fetched 2026-10-17 12:33 local
 
-FORM DATA Sandvikens IF v Ostersunds FK | source API-Football | 2026-10-17 12:29 UTC
+FORM DATA Sandviken v id:376 | source API-Football | 2026-10-17 12:33 UTC
 H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
 
+"Sandviken" matches several teams. Use id:<number> instead of the name:
+  id:6697   Sandviken (Sweden)
+  id:14545  Sandviken (Norway)
+  id:15957  Sandviken W (Sweden)
+  id:16599  Sandvikens AIK (Sweden)
 === Ostersunds FK (id 376): last 20 finished games ===
 2026-10-10 H 1-1 v Varbergs BoIS FC | Superettan | Ostersund
 2026-10-03 A 0-2 v Rosenborg | Friendlies Clubs | ?
@@ -28,7 +33,32 @@ Listed home: 10 games, scored 12 (1.20), conceded 10 (1.00), blanks 2, clean she
 Listed away: 10 games, scored 11 (1.10), conceded 9 (0.90), blanks 2, clean sheets 3
 All: 20 games, scored 23 (1.15), conceded 19 (0.95), blanks 4, clean sheets 8
 
-!! Sandvikens IF: No team found for "Sandvikens IF".
+(retrying Sandviken using the opponent's country, Sweden)
+NOTE: "Sandviken" matched 2 teams; picked Sandviken (Sweden) because the opponent is from Sweden. Others: Sandviken (Norway)
+=== Sandviken (id 6697): last 20 finished games ===
+2026-10-10 A 2-3 v Landskrona BoIS | Superettan | Landskrona
+2026-10-03 H 1-0 v GIF Sundsvall | Friendlies Clubs | ?
+2026-09-19 H 4-2 v Orebro SK | Superettan | Sandviken
+2026-09-15 A 1-1 v IK brage | Superettan | Borlange
+2026-09-09 H 0-1 v Oddevold | Superettan | Sandviken
+2026-09-05 A 2-0 v Helsingborg | Superettan | Helsingborg
+2026-08-30 H 1-1 v Osters IF | Superettan | Sandviken
+2026-08-23 A 1-1 v Norrby IF | Superettan | ?
+2026-08-18 A 2-0 v IF Karlstad | Svenska Cupen | ?
+2026-08-15 H 1-4 v IFK Norrkoping | Superettan | Sandviken
+2026-08-09 A 1-0 v Varbergs BoIS FC | Superettan | Varberg
+2026-08-01 H 5-0 v GIF Sundsvall | Superettan | Sandviken
+2026-07-26 A 1-2 v Ljungskile SK | Superettan | Ljungskile
+2026-07-19 A 0-3 v IFK Norrkoping | Superettan | ?
+2026-06-28 H 4-2 v Helsingborg | Superettan | Sandviken
+2026-06-22 A 1-1 v Orebro SK | Superettan | Orebro
+2026-06-14 H 3-2 v IK brage | Superettan | Sandviken
+2026-06-09 H 4-2 v Falkenbergs FF | Superettan | Sandviken
+2026-05-30 A 3-0 v GIF Sundsvall | Superettan | Sundsvall
+2026-05-24 H 0-1 v Landskrona BoIS | Superettan | Sandviken
+Listed home: 10 games, scored 23 (2.30), conceded 15 (1.50), blanks 2, clean sheets 2
+Listed away: 10 games, scored 14 (1.40), conceded 11 (1.10), blanks 1, clean sheets 4
+All: 20 games, scored 37 (1.85), conceded 26 (1.30), blanks 3, clean sheets 6
 
 TABLE FOR Ostersunds FK
 LEAGUE TABLE Superettan 2026 | 16 teams | 208 games played
@@ -51,7 +81,9 @@ League averages per game: home 1.52, away 1.37, total 2.89
 15  Orebro SK               25 | 13  11-16      | 13  17-24      | 26  28-40
 16  GIF Sundsvall           19 | 13  14-28      | 13   5-29      | 26  19-57
 
-(14 API-Football requests used)
+(Sandviken: same table as Ostersunds FK, shown above)
+
+(26 API-Football requests used)
 
 ----------------------------------------------------------------------
 MATCHBOOK: skipped (switched off for this run)

@@ -1,13 +1,33 @@
-MATCH Accrington v Gillingham | fetched 2026-10-17 12:29 local
+MATCH id:1360 v id:1347 | fetched 2026-10-17 12:33 local
 
-FORM DATA Accrington v Gillingham | source API-Football | 2026-10-17 12:29 UTC
+FORM DATA id:1360 v id:1347 | source API-Football | 2026-10-17 12:33 UTC
 H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
 
-"Accrington" matches several teams. Use id:<number> instead of the name:
-  id:1360   Accrington ST (England)
-  id:19875  Accrington Stanley Res. (England)
-  id:25134  Accrington Stanley (England)
-  id:25423  Accrington Stanley U18 (England)
+=== Accrington ST (id 1360): last 20 finished games ===
+2026-10-10 A 0-0 v Oldham | League Two | Oldham | xG 1.12-0.40
+2026-10-06 H 1-1 v Salford City | EFL Trophy | Accrington [PEN, 90-min score shown]
+2026-10-03 H 2-0 v Cheltenham | League Two | Accrington | xG 3.60-0.19
+2026-09-26 A 1-1 v Swindon Town | League Two | Swindon
+2026-09-22 H 3-3 v Sunderland U21 | EFL Trophy | Accrington [PEN, 90-min score shown]
+2026-09-19 H 0-0 v Newport County | League Two | Accrington | xG 0.87-1.09
+2026-09-12 A 1-2 v Barnet | League Two | London | xG 0.85-1.79
+2026-09-05 H 3-2 v Crawley Town | League Two | Accrington | xG 2.01-1.86
+2026-09-01 H 2-2 v Grimsby | League Two | Accrington | xG 2.34-1.97
+2026-08-29 A 2-3 v Walsall | League Two | Walsall | xG 2.69-3.23
+2026-08-22 A 0-2 v Exeter City | League Two | Exeter
+2026-08-15 H 2-2 v Colchester | League Two | Accrington
+2026-08-08 A 1-2 v Crewe | League Cup | Crewe
+2026-08-01 H 0-0 v Sheffield Wednesday | Friendlies Clubs | ?
+2026-07-28 H 1-0 v Bury | Friendlies Clubs | ?
+2026-07-25 A 3-0 v Chorley | Friendlies Clubs | ?
+2026-07-17 H 1-0 v Bradford | Friendlies Clubs | ?
+2026-07-11 H 0-0 v Blackburn | Friendlies Clubs | ?
+2026-05-02 A 0-3 v Oldham | League Two | Oldham
+2026-04-25 H 3-3 v Crawley Town | League Two | Accrington
+Listed home: 12 games, scored 18 (1.50), conceded 13 (1.08), blanks 3, clean sheets 6
+Listed away: 8 games, scored 8 (1.00), conceded 13 (1.62), blanks 3, clean sheets 2
+All: 20 games, scored 26 (1.30), conceded 26 (1.30), blanks 6, clean sheets 8
+
 === Gillingham (id 1347): last 20 finished games ===
 2026-10-13 H 4-3 v Brighton U21 | EFL Trophy | Gillingham
 2026-10-10 A 4-1 v Rotherham | League Two | Rotherham | xG 1.86-1.16
@@ -33,15 +53,7 @@ Listed home: 12 games, scored 14 (1.17), conceded 19 (1.58), blanks 4, clean she
 Listed away: 8 games, scored 16 (2.00), conceded 13 (1.62), blanks 2, clean sheets 2
 All: 20 games, scored 30 (1.50), conceded 32 (1.60), blanks 6, clean sheets 7
 
-(retrying Accrington using the opponent's country, England)
-"Accrington" matches several teams. Use id:<number> instead of the name:
-  id:1360   Accrington ST (England)
-  id:19875  Accrington Stanley Res. (England)
-  id:25134  Accrington Stanley (England)
-  id:25423  Accrington Stanley U18 (England)
-!! Accrington: Ambiguous team name "Accrington".
-
-TABLE FOR Gillingham
+TABLE FOR Accrington ST
 LEAGUE TABLE League Two 2026 | 24 teams | 114 games played
 League averages per game: home 1.49, away 0.99, total 2.48
 #   team                   Pts | home P GF-GA  | away P GF-GA  | all P GF-GA
@@ -70,7 +82,9 @@ League averages per game: home 1.49, away 0.99, total 2.48
 23  Northampton              7 |  4   2-2       |  4   2-5       |  8   4-7
 24  Crawley Town             5 |  4   3-8       |  4   5-7       |  8   8-15
 
-(14 API-Football requests used)
+(Gillingham: same table as Accrington ST, shown above)
+
+(25 API-Football requests used)
 
 ----------------------------------------------------------------------
 MATCHBOOK: skipped (switched off for this run)

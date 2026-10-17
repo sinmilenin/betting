@@ -1,46 +1,12 @@
-RUN 2026-10-17 12:29 local | 35 match(es)
-Sandvikens IF v Ostersunds FK -> out/Sandvikens_IF_v_Ostersunds_FK.txt
-    !! Sandvikens IF: No team found for "Sandvikens IF".
-PK 35 Vantaa v SJK Akatemia -> out/PK_35_Vantaa_v_SJK_Akatemia.txt
-    !! PK 35 Vantaa: No team found for "PK 35 Vantaa".
-Slavia Praha v Hradec Kralove -> out/Slavia_Praha_v_Hradec_Kralove.txt
-    !! Hradec Kralove: Ambiguous team name "Hradec Kralove".
-St Johnstone v Dundee United -> out/St_Johnstone_v_Dundee_United.txt
-    !! Dundee United: Ambiguous team name "Dundee United".
-Kilmarnock v Motherwell -> out/Kilmarnock_v_Motherwell.txt
-Leicester v Doncaster -> out/Leicester_v_Doncaster.txt
-Newport County v York City -> out/Newport_County_v_York_City.txt
-    !! York City: Ambiguous team name "York City".
-Oldham v Cheltenham -> out/Oldham_v_Cheltenham.txt
-Southampton v Bolton -> out/Southampton_v_Bolton.txt
-West Brom v Blackburn -> out/West_Brom_v_Blackburn.txt
-Wrexham v Preston -> out/Wrexham_v_Preston.txt
-Bristol City v Sheffield Utd -> out/Bristol_City_v_Sheffield_Utd.txt
-Derby v Stoke -> out/Derby_v_Stoke.txt
-    !! Stoke: Ambiguous team name "Stoke".
-Accrington v Gillingham -> out/Accrington_v_Gillingham.txt
-    !! Accrington: Ambiguous team name "Accrington".
-Leyton Orient v Blackpool -> out/Leyton_Orient_v_Blackpool.txt
-Crewe v Rochdale -> out/Crewe_v_Rochdale.txt
-Stockport County v Bromley -> out/Stockport_County_v_Bromley.txt
-Colchester v Exeter -> out/Colchester_v_Exeter.txt
-    !! Exeter: Ambiguous team name "Exeter".
-Port Vale v Chesterfield -> out/Port_Vale_v_Chesterfield.txt
-Grimsby v Northampton -> out/Grimsby_v_Northampton.txt
-Salford City v Crawley Town -> out/Salford_City_v_Crawley_Town.txt
-Wigan v Reading -> out/Wigan_v_Reading.txt
-Sheffield Wednesday v AFC Wimbledon -> out/Sheffield_Wednesday_v_AFC_Wimbledon.txt
-Manchester City v Ipswich -> out/Manchester_City_v_Ipswich.txt
-Barnsley v Cambridge United -> out/Barnsley_v_Cambridge_United.txt
-Swindon v Walsall -> out/Swindon_v_Walsall.txt
-    !! Swindon: Ambiguous team name "Swindon".
-Brentford v Liverpool -> out/Brentford_v_Liverpool.txt
-Fulham v Hull City -> out/Fulham_v_Hull_City.txt
-Birmingham v QPR -> out/Birmingham_v_QPR.txt
-Norwich v Portsmouth -> out/Norwich_v_Portsmouth.txt
-Swansea v West Ham -> out/Swansea_v_West_Ham.txt
-Hibernian v Falkirk -> out/Hibernian_v_Falkirk.txt
-Aberdeen v St Mirren -> out/Aberdeen_v_St_Mirren.txt
-Eibar v Mallorca -> out/Eibar_v_Mallorca.txt
-Villarreal v Elche -> out/Villarreal_v_Elche.txt
-Requests used: API-Football 760, Matchbook 0
+RUN 2026-10-17 12:33 local | 9 match(es)
+Sandviken v id:376 -> out/Sandviken_v_id_376.txt
+Vantaa v id:9198 -> out/Vantaa_v_id_9198.txt
+    !! Vantaa: Ambiguous team name "Vantaa".
+id:560 v id:3723 -> out/id_560_v_id_3723.txt
+id:258 v Dundee Utd -> out/id_258_v_Dundee_Utd.txt
+id:1367 v York -> out/id_1367_v_York.txt
+id:69 v id:75 -> out/id_69_v_id_75.txt
+id:1360 v id:1347 -> out/id_1360_v_id_1347.txt
+id:1361 v id:1364 -> out/id_1361_v_id_1364.txt
+id:1353 v id:1342 -> out/id_1353_v_id_1342.txt
+Requests used: API-Football 215, Matchbook 0

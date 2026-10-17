@@ -1,6 +1,6 @@
-MATCH Newport County v York City | fetched 2026-10-17 12:29 local
+MATCH id:1367 v York | fetched 2026-10-17 12:33 local
 
-FORM DATA Newport County v York City | source API-Football | 2026-10-17 12:29 UTC
+FORM DATA id:1367 v York | source API-Football | 2026-10-17 12:33 UTC
 H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
 
 === Newport County (id 1367): last 20 finished games ===
@@ -28,16 +28,30 @@ Listed home: 8 games, scored 12 (1.50), conceded 14 (1.75), blanks 1, clean shee
 Listed away: 12 games, scored 17 (1.42), conceded 14 (1.17), blanks 4, clean sheets 5
 All: 20 games, scored 29 (1.45), conceded 28 (1.40), blanks 5, clean sheets 7
 
-"York City" matches several teams. Use id:<number> instead of the name:
-  id:1604   New York City FC (USA)
-  id:18815  New York City II (USA)
-  id:20615  York City W (England)
-(retrying York City using the opponent's country, Wales)
-"York City" matches several teams. Use id:<number> instead of the name:
-  id:1604   New York City FC (USA)
-  id:18815  New York City II (USA)
-  id:20615  York City W (England)
-!! York City: Ambiguous team name "York City".
+=== York (id 1828): last 20 finished games ===
+2026-10-10 H 1-1 v Northampton | League Two | York | xG 2.32-1.03
+2026-09-26 H 3-0 v Gillingham | League Two | York
+2026-09-22 H 1-1 v Rotherham | EFL Trophy | York [PEN, 90-min score shown]
+2026-09-19 A 0-2 v Chesterfield | League Two | Chesterfield | xG 0.51-3.33
+2026-09-15 H 1-3 v Newcastle United U21 | EFL Trophy | York
+2026-09-12 H 4-0 v Swindon Town | League Two | York | xG 3.08-1.01
+2026-09-05 A 1-1 v Crewe | League Two | Crewe | xG 3.39-1.89
+2026-09-01 A 2-3 v Cheltenham | League Two | Cheltenham | xG 2.89-1.93
+2026-08-29 H 2-1 v Exeter City | League Two | York | xG 0.97-1.22
+2026-08-22 A 1-1 v Rotherham | League Two | Rotherham | xG 2.23-0.83
+2026-08-15 H 3-2 v Bristol Rovers | League Two | York
+2026-08-03 H 0-2 v Crawley Town | League Cup | York
+2026-07-28 H 1-2 v Peterborough | Friendlies Clubs | ?
+2026-07-24 H 2-2 v Al-Ettifaq | Friendlies Clubs | ?
+2026-07-18 H 1-5 v Sunderland | Friendlies Clubs | ?
+2026-07-14 A 2-4 v Pickering Town | Friendlies Clubs | ?
+2026-07-11 H 2-1 v Barnsley | Friendlies Clubs | ?
+2026-04-25 A 1-1 v Rochdale | National League | Rochdale
+2026-04-18 H 3-0 v Yeovil Town | National League | York
+2026-04-11 A 1-0 v Tamworth | National League | Tamworth
+Listed home: 13 games, scored 24 (1.85), conceded 20 (1.54), blanks 1, clean sheets 3
+Listed away: 7 games, scored 8 (1.14), conceded 12 (1.71), blanks 1, clean sheets 1
+All: 20 games, scored 32 (1.60), conceded 32 (1.60), blanks 2, clean sheets 4
 
 TABLE FOR Newport County
 LEAGUE TABLE League Two 2026 | 24 teams | 114 games played
@@ -68,7 +82,9 @@ League averages per game: home 1.49, away 0.99, total 2.48
 23  Northampton              7 |  4   2-2       |  4   2-5       |  8   4-7
 24  Crawley Town             5 |  4   3-8       |  4   5-7       |  8   8-15
 
-(15 API-Football requests used)
+(York: same table as Newport County, shown above)
+
+(25 API-Football requests used)
 
 ----------------------------------------------------------------------
 MATCHBOOK: skipped (switched off for this run)

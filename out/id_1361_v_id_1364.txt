@@ -1,6 +1,6 @@
-MATCH Colchester v Exeter | fetched 2026-10-17 12:29 local
+MATCH id:1361 v id:1364 | fetched 2026-10-17 12:33 local
 
-FORM DATA Colchester v Exeter | source API-Football | 2026-10-17 12:30 UTC
+FORM DATA id:1361 v id:1364 | source API-Football | 2026-10-17 12:34 UTC
 H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
 
 === Colchester (id 1361): last 20 finished games ===
@@ -28,20 +28,30 @@ Listed home: 9 games, scored 10 (1.11), conceded 13 (1.44), blanks 2, clean shee
 Listed away: 11 games, scored 19 (1.73), conceded 15 (1.36), blanks 4, clean sheets 3
 All: 20 games, scored 29 (1.45), conceded 28 (1.40), blanks 6, clean sheets 4
 
-"Exeter" matches several teams. Use id:<number> instead of the name:
-  id:1364   Exeter City (England)
-  id:15530  Exeter City W (England)
-  id:17795  Exeter City U23 (England)
-  id:24847  Exeter U21 (England)
-  id:25409  Exeter City U18 (England)
-(retrying Exeter using the opponent's country, England)
-"Exeter" matches several teams. Use id:<number> instead of the name:
-  id:1364   Exeter City (England)
-  id:15530  Exeter City W (England)
-  id:17795  Exeter City U23 (England)
-  id:24847  Exeter U21 (England)
-  id:25409  Exeter City U18 (England)
-!! Exeter: Ambiguous team name "Exeter".
+=== Exeter City (id 1364): last 20 finished games ===
+2026-10-10 A 1-0 v Shrewsbury | League Two | Shrewsbury | xG 1.01-1.96
+2026-10-06 H 2-2 v Oxford United | EFL Trophy | Exeter [PEN, 90-min score shown]
+2026-10-03 H 1-0 v Rotherham | League Two | Exeter | xG 2.15-0.37
+2026-09-26 A 0-1 v Bristol Rovers | League Two | Bristol
+2026-09-22 A 2-2 v Cheltenham | EFL Trophy | Cheltenham [PEN, 90-min score shown]
+2026-09-19 H 0-0 v Tranmere | League Two | Exeter | xG 1.00-0.77
+2026-09-12 A 0-1 v Port Vale | League Two | Stoke-On-Trent | xG 0.32-2.47
+2026-09-08 H 2-0 v Tottenham Hotspur U21 | EFL Trophy | Exeter
+2026-09-05 H 0-0 v Walsall | League Two | Exeter | xG 1.94-0.74
+2026-09-01 H 1-1 v Barnet | League Two | Exeter | xG 1.51-1.12
+2026-08-29 A 1-2 v York | League Two | York
+2026-08-22 H 2-0 v Accrington ST | League Two | Exeter
+2026-08-15 A 0-1 v Grimsby | League Two | Grimsby
+2026-08-10 A 0-2 v Plymouth | League Cup | Plymouth
+2026-08-01 H 1-1 v Bristol City | Friendlies Clubs | ?
+2026-07-31 A 1-2 v Torquay | Friendlies Clubs | ?
+2026-07-25 A 2-0 v Weston-super-Mare | Friendlies Clubs | ?
+2026-07-18 A 0-1 v Truro City | Friendlies Clubs | ?
+2026-05-02 H 1-2 v Bradford | League One | Exeter
+2026-04-25 A 1-1 v Burton Albion | League One | Burton upon Trent
+Listed home: 9 games, scored 10 (1.11), conceded 6 (0.67), blanks 2, clean sheets 5
+Listed away: 11 games, scored 8 (0.73), conceded 13 (1.18), blanks 5, clean sheets 2
+All: 20 games, scored 18 (0.90), conceded 19 (0.95), blanks 7, clean sheets 7
 
 TABLE FOR Colchester
 LEAGUE TABLE League Two 2026 | 24 teams | 114 games played
@@ -72,7 +82,9 @@ League averages per game: home 1.49, away 0.99, total 2.48
 23  Northampton              7 |  4   2-2       |  4   2-5       |  8   4-7
 24  Crawley Town             5 |  4   3-8       |  4   5-7       |  8   8-15
 
-(14 API-Football requests used)
+(Exeter City: same table as Colchester, shown above)
+
+(24 API-Football requests used)
 
 ----------------------------------------------------------------------
 MATCHBOOK: skipped (switched off for this run)
