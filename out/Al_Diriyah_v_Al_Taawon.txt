@@ -1,0 +1,124 @@
+MATCH Al Diriyah v Al Taawon | fetched 2026-10-17 17:42 local
+
+FORM DATA Al Diriyah v Al Taawon | source API-Football | 2026-10-17 17:42 UTC
+H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
+
+=== Al Diriyah (id 26738): last 20 finished games ===
+2026-10-09 A 0-3 v Al-Nassr | Pro League | Riyadh | xG 0.77-3.26
+2026-09-13 H 0-0 v Abha | Pro League | Riyadh | xG 1.35-0.68
+2026-09-09 A 2-1 v Al-Fateh | Pro League | Al-Hasa | xG 2.53-1.28
+2026-09-03 H 0-2 v Al-Qadisiyah FC | Pro League | Riyadh | xG 1.01-1.17
+2026-08-29 A 3-0 v Al-Ettifaq | Pro League | Dammam | xG 2.33-1.35
+2026-08-26 H 1-1 v Al Kholood | Pro League | Riyadh | xG 0.56-1.41
+2026-08-21 A 1-0 v Al-Hazm | Pro League | Ar Rass | xG 1.35-0.26
+2026-08-18 H 1-4 v Al-Nassr | King's Cup | Riyadh
+2026-08-13 H 0-1 v Al-Ahli Jeddah | Pro League | Riyadh
+2026-07-23 H 2-0 v FA 2000 | Friendlies Clubs | ?
+2026-07-18 A 4-1 v Trelleborg | Friendlies Clubs | ?
+2026-05-23 H 1-1 v Al Ula | Division 1 | Riyadh [AET, 90-min score shown]
+2026-05-18 H 3-0 v Al Jabalain | Division 1 | Riyadh
+2026-05-14 H 3-2 v Al Bukayriyah | Division 1 | Riyadh
+2026-05-09 A 2-4 v Al Anwar | Division 1 | Hotat Bani Tamim
+2026-05-01 H 2-0 v Abha | Division 1 | Riyadh
+2026-04-26 A 2-1 v Al Jubail | Division 1 | Qatif
+2026-04-21 H 1-3 v Al-Raed | Division 1 | Riyadh
+2026-04-13 A 1-1 v Al Zulfi | Division 1 | ?
+2026-04-08 H 3-0 v Al Jabalain | Division 1 | Riyadh
+Listed home: 12 games, scored 17 (1.42), conceded 14 (1.17), blanks 3, clean sheets 5
+Listed away: 8 games, scored 15 (1.88), conceded 11 (1.38), blanks 1, clean sheets 2
+All: 20 games, scored 32 (1.60), conceded 25 (1.25), blanks 4, clean sheets 7
+
+"Al Taawon" matches several teams. Use id:<number> instead of the name:
+  id:2936   Al Taawon (Saudi-Arabia)
+  id:13264  Al Taawon (United-Arab-Emirates)
+(retrying Al Taawon using the opponent's country, Saudi-Arabia)
+NOTE: "Al Taawon" matched 2 teams; picked Al Taawon (Saudi-Arabia) because the opponent is from Saudi-Arabia. Others: Al Taawon (United-Arab-Emirates)
+=== Al Taawon (id 2936): last 20 finished games ===
+2026-10-14 H 2-1 v Al-Rayyan SC | AFC Champions League Two | Buraydah | xG 0.64-1.65
+2026-10-11 A 0-3 v Al Shabab | Pro League | Riyadh | xG 0.90-2.34
+2026-09-16 A 1-1 v Al-Nahda | AFC Champions League Two | Muscat
+2026-09-12 H 0-6 v Al-Hilal Saudi FC | Pro League | Buraidah | xG 1.32-5.41
+2026-09-08 A 0-1 v Al-Hazm | Pro League | Ar Rass | xG 0.77-0.98
+2026-09-05 H 0-0 v Al-Fateh | Pro League | Buraidah | xG 1.33-0.97
+2026-08-28 A 1-2 v Al-Nassr | Pro League | Riyadh | xG 0.80-2.00
+2026-08-25 H 0-0 v Al-Fayha | Pro League | Buraidah | xG 2.61-0.83
+2026-08-22 A 2-3 v Al Kholood | Pro League | Ar Rass | xG 1.54-1.84
+2026-08-19 A 3-0 v Damac | King's Cup | Abha
+2026-08-15 H 0-0 v Al Khaleej Saihat | Pro League | Buraidah
+2026-07-21 A 2-2 v AS Eupen | Friendlies Clubs | ?
+2026-07-17 A 2-0 v Helmond Sport | Friendlies Clubs | ?
+2026-05-21 A 0-2 v Al-Hazm | Pro League | Ar Rass
+2026-05-15 H 1-1 v Al Riyadh | Pro League | Buraidah
+2026-05-11 H 1-2 v Al-Ahli Jeddah | Pro League | Buraidah
+2026-05-03 A 5-1 v Al Shabab | Pro League | Riyadh
+2026-04-29 H 0-2 v Al-Ittihad FC | Pro League | Buraidah
+2026-04-23 A 2-1 v Al Najma | Pro League | Buraidah
+2026-04-11 H 1-2 v Al Kholood | Pro League | Buraidah
+Listed home: 9 games, scored 5 (0.56), conceded 14 (1.56), blanks 5, clean sheets 3
+Listed away: 11 games, scored 18 (1.64), conceded 16 (1.45), blanks 3, clean sheets 2
+All: 20 games, scored 23 (1.15), conceded 30 (1.50), blanks 8, clean sheets 5
+
+TABLE FOR Al Diriyah
+LEAGUE TABLE Pro League 2026 | 18 teams | 75 games played
+League averages per game: home 1.45, away 1.41, total 2.87
+#   team                   Pts | home P GF-GA  | away P GF-GA  | all P GF-GA
+1   Al-Qadisiyah FC         22 |  5  11-8       |  4  12-1       |  9  23-9
+2   Al-Hilal Saudi FC       21 |  4  10-6       |  4  16-1       |  8  26-7
+3   Al-Nassr                19 |  4  10-2       |  4   9-5       |  8  19-7
+4   Al-Ittihad FC           17 |  4   8-5       |  4   6-4       |  8  14-9
+5   NEOM                    16 |  4   9-5       |  4   5-2       |  8  14-7
+6   Al-Ahli Jeddah          15 |  3  12-1       |  5   8-9       |  8  20-10
+7   Al-Ettifaq              12 |  5   7-9       |  3   5-3       |  8  12-12
+8   Al Kholood              12 |  4   8-9       |  5   6-9       |  9  14-18
+9   Al Diriyah              11 |  4   1-4       |  4   6-4       |  8   7-8
+10  Al-Hazm                  9 |  5   5-6       |  4   5-7       |  9  10-13
+11  Al Khaleej Saihat        9 |  5   4-6       |  4   2-5       |  9   6-11
+12  Al Riyadh                9 |  3   3-4       |  5   6-13      |  8   9-17
+13  Al Shabab                7 |  5   7-8       |  3   2-3       |  8   9-11
+14  Al-Fayha                 7 |  4   6-8       |  5   2-6       |  9   8-14
+15  Al-Faisaly FC            6 |  5   5-8       |  3   3-7       |  8   8-15
+16  Al-Fateh                 6 |  4   1-7       |  5   6-10      |  9   7-17
+17  Al Taawon                3 |  4   0-6       |  4   3-9       |  8   3-15
+18  Abha                     2 |  3   2-4       |  5   4-11      |  8   6-15
+
+TABLE FOR Al Taawon
+LEAGUE TABLE AFC Champions League Two 2026 | 32 teams | 32 games played
+League averages per game: home 1.38, away 0.97, total 2.34
+#   team                   Pts | home P GF-GA  | away P GF-GA  | all P GF-GA
+1   Al Wahda FC              6 |  1   3-2       |  1   2-1       |  2   5-3 [Group A]
+2   Al Kuwait                3 |  1   3-1       |  1   2-3       |  2   5-4 [Group A]
+3   Nasaf                    1 |  1   1-2       |  1   0-0       |  2   1-2 [Group A]
+4   Khalidiya                1 |  1   0-0       |  1   1-3       |  2   1-3 [Group A]
+1   Al-Jazira                4 |  1   2-1       |  1   0-0       |  2   2-1 [Group B]
+2   Arkadag                  3 |  1   1-0       |  1   1-2       |  2   2-2 [Group B]
+3   Muharraq                 3 |  1   2-0       |  1   0-1       |  2   2-1 [Group B]
+4   Gol Gohar                1 |  1   0-0       |  1   0-2       |  2   0-2 [Group B]
+1   Al Taawon                4 |  1   2-1       |  1   1-1       |  2   3-2 [Group C]
+2   Al-Rayyan SC             3 |  1   4-3       |  1   1-2       |  2   5-5 [Group C]
+3   Al Faisaly               3 |  1   2-0       |  1   3-4       |  2   5-4 [Group C]
+4   Al-Nahda                 1 |  1   1-1       |  1   0-2       |  2   1-3 [Group C]
+1   Al Shorta                6 |  1   1-0       |  1   3-2       |  2   4-2 [Group D]
+2   Al Hussein               4 |  1   2-2       |  1   3-0       |  2   5-2 [Group D]
+3   East Bengal              1 |  1   2-3       |  1   2-2       |  2   4-5 [Group D]
+4   Al Seeb                  0 |  1   0-3       |  1   0-1       |  2   0-4 [Group D]
+1   Persib Bandung           6 |  1   1-0       |  1   1-0       |  2   2-0 [Group E]
+2   Melbourne Victory        4 |  1   3-0       |  1   1-1       |  2   4-1 [Group E]
+3   Viettel                  1 |  1   1-1       |  1   0-1       |  2   1-2 [Group E]
+4   FC Seoul                 0 |  1   0-1       |  1   0-3       |  2   0-4 [Group E]
+1   Adelaide United          6 |  1   3-0       |  1   2-1       |  2   5-1 [Group F]
+2   Home United              4 |  1   1-1       |  1   1-0       |  2   2-1 [Group F]
+3   BG Pathum United         1 |  1   1-2       |  1   1-1       |  2   2-3 [Group F]
+4   Wofoo Tai Po             0 |  1   0-1       |  1   0-3       |  2   0-4 [Group F]
+1   Machida Zelvia           6 |  1   2-0       |  1   1-0       |  2   3-0 [Group G]
+2   Shanghai Shenhua         4 |  1   2-1       |  1   0-0       |  2   2-1 [Group G]
+3   Svay Rieng               1 |  1   0-0       |  1   0-2       |  2   0-2 [Group G]
+4   Tampines Rovers          0 |  1   0-1       |  1   1-2       |  2   1-3 [Group G]
+1   Phnom Penh Crown         6 |  1   2-1       |  1   2-1       |  2   4-2 [Group H]
+2   Kitchee                  2 |  1   0-0       |  1   1-1       |  2   1-1 [Group H]
+3   Kuching FA               1 |  1   1-1       |  1   1-2       |  2   2-3 [Group H]
+4   Gangwon FC               1 |  1   1-2       |  1   0-0       |  2   1-2 [Group H]
+
+(27 API-Football requests used)
+
+----------------------------------------------------------------------
+MATCHBOOK: skipped (switched off for this run)
