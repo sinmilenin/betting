@@ -1,8 +1,4 @@
-RUN 2026-10-17 09:28 local | 4 match(es)
-id:745 v id:176 -> out/id_745_v_id_176.txt
-id:161 v id:180 -> out/id_161_v_id_180.txt
-id:178 v id:744 -> out/id_178_v_id_744.txt
-Dalian v Shenzhen -> out/Dalian_v_Shenzhen.txt
-    !! Dalian: Ambiguous team name "Dalian".
-    !! Shenzhen: Ambiguous team name "Shenzhen".
-Requests used: API-Football 75, Matchbook 0
+RUN 2026-10-17 09:29 local | 2 match(es)
+id:21263 v id:5685 -> out/id_21263_v_id_5685.txt
+id:21263 v id:27757 -> out/id_21263_v_id_27757.txt
+Requests used: API-Football 33, Matchbook 0
