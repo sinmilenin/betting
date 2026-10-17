@@ -1,6 +1,10 @@
-RUN 2026-10-17 16:22 local | 4 match(es)
-Aberdeen v St Mirren -> out/Aberdeen_v_St_Mirren.txt
-id:1360 v id:1347 -> out/id_1360_v_id_1347.txt
-Eibar v Mallorca -> out/Eibar_v_Mallorca.txt
-Villarreal v Elche -> out/Villarreal_v_Elche.txt
-Requests used: API-Football 20, Matchbook 0
+RUN 2026-10-17 16:58 local | 6 match(es)
+Hannover 96 v St Pauli -> out/Hannover_96_v_St_Pauli.txt
+    !! St Pauli: No team found for "St Pauli".
+Philadelphia Union v Charlotte -> out/Philadelphia_Union_v_Charlotte.txt
+Lille v Stade Brestois 29 -> out/Lille_v_Stade_Brestois_29.txt
+Troyes v Lens -> out/Troyes_v_Lens.txt
+    !! Troyes: Ambiguous team name "Troyes".
+AS Roma v Genoa -> out/AS_Roma_v_Genoa.txt
+Rapid Bucuresti v Corvinul Hunedoara -> out/Rapid_Bucuresti_v_Corvinul_Hunedoara.txt
+Requests used: API-Football 128, Matchbook 0
