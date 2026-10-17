@@ -1,3 +1,24 @@
-RUN 2026-10-17 09:30 local | 1 match(es)
-id:21263 v Sichuan Jiuniu -> out/id_21263_v_Sichuan_Jiuniu.txt
-Requests used: API-Football 25, Matchbook 0
+RUN 2026-10-17 10:13 local | 15 match(es)
+Lahti v TPS -> out/Lahti_v_TPS.txt
+    !! TPS: Ambiguous team name "TPS".
+Shrewsbury v Bristol Rovers -> out/Shrewsbury_v_Bristol_Rovers.txt
+Fleetwood Town v Rotherham -> out/Fleetwood_Town_v_Rotherham.txt
+Peterborough v Burton Albion -> out/Peterborough_v_Burton_Albion.txt
+Everton v Chelsea -> out/Everton_v_Chelsea.txt
+Millwall v Lincoln -> out/Millwall_v_Lincoln.txt
+Middlesbrough v Cardiff -> out/Middlesbrough_v_Cardiff.txt
+Watford v Charlton -> out/Watford_v_Charlton.txt
+MK Dons v Luton -> out/MK_Dons_v_Luton.txt
+    !! MK Dons: No team found for "MK Dons".
+Qingdao Hainiu v Liaoning Tieren -> out/Qingdao_Hainiu_v_Liaoning_Tieren.txt
+    !! Qingdao Hainiu: No team found for "Qingdao Hainiu".
+    !! Liaoning Tieren: No team found for "Liaoning Tieren".
+Arsenal W v Birmingham W -> out/Arsenal_W_v_Birmingham_W.txt
+    !! Birmingham W: No team found for "Birmingham W".
+Espanyol v Atletico Madrid -> out/Espanyol_v_Atletico_Madrid.txt
+Nantes v Dunkerque -> out/Nantes_v_Dunkerque.txt
+Ham-Kam v Bodo/Glimt -> out/Ham_Kam_v_Bodo_Glimt.txt
+    !! Ham-Kam: API-Football error: {"search": "The Search field may only contain alpha-numeric characters and spaces."}
+    !! Bodo/Glimt: API-Football error: {"search": "The Search field may only contain alpha-numeric characters and spaces."}
+Real Sociedad II v Almeria -> out/Real_Sociedad_II_v_Almeria.txt
+Requests used: API-Football 294, Matchbook 0
