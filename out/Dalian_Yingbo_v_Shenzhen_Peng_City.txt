@@ -1,0 +1,38 @@
+MATCH Dalian Yingbo v Shenzhen Peng City | fetched 2026-10-17 09:27 local
+
+FORM DATA Dalian Yingbo v Shenzhen Peng City | source API-Football | 2026-10-17 09:27 UTC
+H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
+
+=== Dalian Yingbo B (id 27621): last 20 finished games ===
+2026-10-11 H 1-1 v Hubei Chufeng Heli | League Two | Dalian
+2026-10-06 A 1-1 v Guangdong Mingtu | League Two | Guangzhou
+2026-09-19 H 1-0 v Guangzhou Dandelion | League Two | Dalian
+2026-09-13 A 0-1 v Yichun Grand Tiger | League Two | Wenzhou
+2026-08-22 H 3-4 v BIT | League Two | Dalian
+2026-08-15 A 1-0 v Shandong Taishan II | League Two | Zoucheng
+2026-08-08 A 0-0 v Tai'an Tiankuang | League Two | Tchaj-an
+2026-08-05 A 1-0 v Changchun Xidu | League Two | Changchun
+2026-08-01 H 1-2 v Shanghai Port II | League Two | Dalian
+2026-07-25 A 0-2 v Dalian Kewei | League Two | Dalian
+2026-07-19 H 1-2 v Xi'an Ronghai | League Two | Dalian
+2026-07-05 H 0-0 v Qingdao Red Lions | League Two | Dalian
+2026-06-27 A 0-0 v Rizhao Yuqi | League Two | Lanzhou
+2026-06-23 A 2-1 v Shanghai Second | League Two | Shanghai
+2026-06-19 H 2-1 v Nantong Haimen Codion | League Two | Dalian
+2026-06-13 A 1-1 v BIT | League Two | Beijing
+2026-05-27 H 2-0 v Shandong Taishan II | League Two | Dalian
+2026-05-22 H 0-1 v Tai'an Tiankuang | League Two | Dalian
+2026-05-10 A 0-0 v Shanghai Port II | League Two | Shanghai
+2026-05-05 H 0-0 v Dalian Kewei | League Two | Dalian
+Listed home: 10 games, scored 11 (1.10), conceded 11 (1.10), blanks 3, clean sheets 4
+Listed away: 10 games, scored 6 (0.60), conceded 6 (0.60), blanks 5, clean sheets 5
+All: 20 games, scored 17 (0.85), conceded 17 (0.85), blanks 8, clean sheets 9
+
+!! Shenzhen Peng City: No team found for "Shenzhen Peng City".
+
+(no league table available for Dalian Yingbo B: tried League Two 2026)
+
+(14 API-Football requests used)
+
+----------------------------------------------------------------------
+MATCHBOOK: skipped (switched off for this run)
