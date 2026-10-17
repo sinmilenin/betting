@@ -1,2 +1,24 @@
-# 2026-10-17 12:56 scheduled scan: Sabah (Azerbaijan) by id
-Qabala v id:13976 | n=20 | xg=10
+# 2026-10-17 13:45 scheduled scan: first analyses
+Persita v Persija Jakarta | n=20 | xg=10
+Keflavik v KR Reykjavik | n=20 | xg=10
+Marek v Cherno More | n=20 | xg=10
+Tobol v Zhenis | n=20 | xg=10
+Ham-Kam v Bodo/Glimt | n=20 | xg=10
+Kudrivka v Bukovyna | n=20 | xg=10
+Ekenas IF v KaPa | n=20 | xg=10
+KTP v Klubi 04 | n=20 | xg=10
+HJK v Gnistan | n=20 | xg=10
+Padova v Entella | n=20 | xg=10
+Benevento v Vicenza | n=20 | xg=10
+Genclerbirligi v Galatasaray | n=20 | xg=10
+Falkenbergs v Landskrona | n=20 | xg=10
+Venezia v Napoli | n=20 | xg=10
+Lamelas v Vitoria Guimaraes | n=20 | xg=10
+Ascoli v Empoli | n=20 | xg=10
+Amed v Konyaspor | n=20 | xg=10
+Carrarese v Modena | n=20 | xg=10
+Union Berlin v Borussia Dortmund | n=20 | xg=10
+Werder Bremen v Paderborn | n=20 | xg=10
+Elversberg v Augsburg | n=20 | xg=10
+Schalke 04 v Mainz | n=20 | xg=10
+Hamburger SV v Stuttgart | n=20 | xg=10
