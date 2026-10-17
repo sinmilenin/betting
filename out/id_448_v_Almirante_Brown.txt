@@ -1,24 +1,33 @@
-MATCH Colon v Almirante Brown | fetched 2026-10-17 19:12 local
+MATCH id:448 v Almirante Brown | fetched 2026-10-17 19:13 local
 
-FORM DATA Colon v Almirante Brown | source API-Football | 2026-10-17 19:12 UTC
+FORM DATA id:448 v Almirante Brown | source API-Football | 2026-10-17 19:13 UTC
 H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
 
-"Colon" matches several teams. Use id:<number> instead of the name:
-  id:448    Colon Santa Fe (Argentina)
-  id:1981   Deportivo Colon (Ecuador)
-  id:2132   Cristobal Colon (Paraguay)
-  id:2355   Plaza Colonia (Uruguay)
-  id:2849   Redi Colon (Venezuela)
-  id:3167   Club Colonial (France)
-  id:3964   Atlético Colón Junior (Argentina)
-  id:3976   Sportivo Barracas Colón (Argentina)
-  id:7493   Vediţa Coloneşti (Romania)
-  id:10475  Cristóbal Colón JAS (Paraguay)
-  id:10485  Sport Colonial (Paraguay)
-  id:15628  Colón (Uruguay)
-  id:17589  Colonia Moscardó (Spain)
-  id:18683  Colón Res. (Argentina)
-  id:20003  Juventud de Colonia (Uruguay)
+=== Colon Santa Fe (id 448): last 20 finished games ===
+2026-10-11 A 0-0 v Atletico Mitre | Primera Nacional | Santiago del Estero
+2026-10-03 H 1-0 v CA Estudiantes | Primera Nacional | Santa Fe
+2026-09-26 A 0-0 v All Boys | Primera Nacional | Floresta
+2026-09-20 H 3-0 v Los Andes | Primera Nacional | Santa Fe
+2026-09-13 A 0-2 v Godoy Cruz | Primera Nacional | Mendoza
+2026-09-05 H 1-2 v Deportivo Moron | Primera Nacional | Santa Fe
+2026-08-30 A 0-1 v Racing Cordoba | Primera Nacional | Cordoba
+2026-08-22 A 2-1 v San Miguel | Primera Nacional | Buenos Aires
+2026-08-15 H 3-0 v Patronato | Primera Nacional | Santa Fe
+2026-08-09 H 1-0 v San Telmo | Primera Nacional | Santa Fe
+2026-08-01 A 1-1 v Acassuso | Primera Nacional | Boulogne Sur Mer
+2026-07-26 H 0-1 v Chaco For Ever | Primera Nacional | Santa Fe
+2026-07-17 A 0-2 v Ferro Carril Oeste | Primera Nacional | Buenos Aires
+2026-07-12 H 4-0 v Central Norte | Primera Nacional | Santa Fe
+2026-07-05 A 2-1 v Deportivo Madryn | Primera Nacional | Puerto Madryn
+2026-06-20 A 0-1 v Chaco For Ever | Primera Nacional | Resistencia
+2026-06-13 A 3-0 v Defensores De Belgrano | Primera Nacional | Belgrano
+2026-06-07 H 0-0 v Ciudad de Bolívar | Primera Nacional | Santa Fe
+2026-05-30 A 1-1 v Almirante Brown | Primera Nacional | Isidro Casanova
+2026-05-24 H 1-1 v Atletico Mitre | Primera Nacional | Santa Fe
+Listed home: 9 games, scored 14 (1.56), conceded 4 (0.44), blanks 2, clean sheets 6
+Listed away: 11 games, scored 9 (0.82), conceded 10 (0.91), blanks 6, clean sheets 3
+All: 20 games, scored 23 (1.15), conceded 14 (0.70), blanks 8, clean sheets 9
+
 === Almirante Brown (id 8375): last 20 finished games ===
 2026-10-11 H 1-1 v San Miguel | Primera Nacional | Isidro Casanova
 2026-10-04 A 2-3 v San Telmo | Primera Nacional | Dock Sud
@@ -44,26 +53,7 @@ Listed home: 11 games, scored 12 (1.09), conceded 4 (0.36), blanks 3, clean shee
 Listed away: 9 games, scored 6 (0.67), conceded 10 (1.11), blanks 5, clean sheets 3
 All: 20 games, scored 18 (0.90), conceded 14 (0.70), blanks 8, clean sheets 10
 
-(retrying Colon using the opponent's country, Argentina)
-"Colon" matches several teams. Use id:<number> instead of the name:
-  id:448    Colon Santa Fe (Argentina)
-  id:1981   Deportivo Colon (Ecuador)
-  id:2132   Cristobal Colon (Paraguay)
-  id:2355   Plaza Colonia (Uruguay)
-  id:2849   Redi Colon (Venezuela)
-  id:3167   Club Colonial (France)
-  id:3964   Atlético Colón Junior (Argentina)
-  id:3976   Sportivo Barracas Colón (Argentina)
-  id:7493   Vediţa Coloneşti (Romania)
-  id:10475  Cristóbal Colón JAS (Paraguay)
-  id:10485  Sport Colonial (Paraguay)
-  id:15628  Colón (Uruguay)
-  id:17589  Colonia Moscardó (Spain)
-  id:18683  Colón Res. (Argentina)
-  id:20003  Juventud de Colonia (Uruguay)
-!! Colon: Ambiguous team name "Colon".
-
-TABLE FOR Almirante Brown
+TABLE FOR Colon Santa Fe
 LEAGUE TABLE Primera Nacional 2026 | 36 teams | 596 games played
 League averages per game: home 1.19, away 0.75, total 1.94
 #   team                   Pts | home P GF-GA  | away P GF-GA  | all P GF-GA
@@ -104,7 +94,9 @@ League averages per game: home 1.19, away 0.75, total 1.94
 17  Chacarita Juniors       33 | 16  17-11      | 17   8-24      | 33  25-35 [Group 2]
 18  Club Atlético Güemes    23 | 16  12-24      | 17  11-32      | 33  23-56 [Group 2]
 
-(15 API-Football requests used)
+(Almirante Brown: same table as Colon Santa Fe, shown above)
+
+(25 API-Football requests used)
 
 ----------------------------------------------------------------------
 MATCHBOOK: skipped (switched off for this run)
