@@ -1,4 +1,6 @@
-RUN 2026-10-17 16:12 local | 2 match(es)
-Pisa v Cremonese -> out/Pisa_v_Cremonese.txt
-Telstar v Feyenoord -> out/Telstar_v_Feyenoord.txt
-Requests used: API-Football 52, Matchbook 0
+RUN 2026-10-17 16:22 local | 4 match(es)
+Aberdeen v St Mirren -> out/Aberdeen_v_St_Mirren.txt
+id:1360 v id:1347 -> out/id_1360_v_id_1347.txt
+Eibar v Mallorca -> out/Eibar_v_Mallorca.txt
+Villarreal v Elche -> out/Villarreal_v_Elche.txt
+Requests used: API-Football 20, Matchbook 0

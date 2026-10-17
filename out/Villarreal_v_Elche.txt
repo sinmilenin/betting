@@ -1,0 +1,52 @@
+MATCH Villarreal v Elche | fetched 2026-10-17 16:22 local
+
+FORM DATA Villarreal v Elche | source API-Football | 2026-10-17 16:22 UTC
+H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
+
+=== Villarreal (id 533): last 3 finished games ===
+2026-10-17 H 0-0 v Elche | La Liga | Villarreal
+2026-10-13 H 3-1 v Napoli | UEFA Champions League | Villarreal
+2026-10-10 A 0-1 v Real Madrid | La Liga | Madrid
+Listed home: 2 games, scored 3 (1.50), conceded 1 (0.50), blanks 1, clean sheets 1
+Listed away: 1 games, scored 0 (0.00), conceded 1 (1.00), blanks 1, clean sheets 0
+All: 3 games, scored 3 (1.00), conceded 2 (0.67), blanks 2, clean sheets 1
+
+=== Elche (id 797): last 3 finished games ===
+2026-10-17 A 0-0 v Villarreal | La Liga | Villarreal
+2026-10-11 H 0-0 v Celta Vigo | La Liga | Elche
+2026-09-18 A 3-1 v Espanyol | La Liga | Cornella de Llobregat
+Listed home: 1 games, scored 0 (0.00), conceded 0 (0.00), blanks 1, clean sheets 1
+Listed away: 2 games, scored 3 (1.50), conceded 1 (0.50), blanks 1, clean sheets 1
+All: 3 games, scored 3 (1.00), conceded 1 (0.33), blanks 2, clean sheets 2
+
+TABLE FOR Villarreal
+LEAGUE TABLE La Liga 2026 | 20 teams | 80 games played
+League averages per game: home 1.73, away 1.32, total 3.05
+#   team                   Pts | home P GF-GA  | away P GF-GA  | all P GF-GA
+1   Barcelona               24 |  4  17-4       |  4  17-3       |  8  34-7
+2   Atletico Madrid         22 |  4  10-3       |  5   9-5       |  9  19-8
+3   Real Betis              19 |  4   8-2       |  4   6-7       |  8  14-9
+4   Real Madrid             18 |  4  13-2       |  4   6-6       |  8  19-8
+5   Sevilla                 14 |  4   5-7       |  4   8-5       |  8  13-12
+6   Real Sociedad           13 |  4   5-6       |  4   7-9       |  8  12-15
+7   Alaves                  11 |  5  10-5       |  3   2-3       |  8  12-8
+8   Deportivo La Coruna     11 |  5   6-5       |  4   7-7       |  9  13-12
+9   Celta Vigo               8 |  4   7-5       |  4   1-1       |  8   8-6
+10  Athletic Club            8 |  4   5-4       |  2   2-2       |  6   7-6
+11  Villarreal               8 |  3   6-6       |  5   7-7       |  8  13-13
+12  Espanyol                 8 |  5   6-7       |  4   5-5       |  9  11-12
+13  Rayo Vallecano           8 |  3   6-4       |  4   5-12      |  7  11-16
+14  Getafe                   8 |  4   4-2       |  4   0-8       |  8   4-10
+15  Racing Santander         8 |  4   9-7       |  4   4-16      |  8  13-23
+16  Osasuna                  8 |  4   2-3       |  4   6-15      |  8   8-18
+17  Levante                  7 |  3  10-9       |  5   2-7       |  8  12-16
+18  Elche                    6 |  4   4-11      |  4   7-6       |  8  11-17
+19  Valencia                 5 |  4   2-9       |  4   4-6       |  8   6-15
+20  Malaga                   4 |  4   3-5       |  4   1-8       |  8   4-13
+
+(Elche: same table as Villarreal, shown above)
+
+(5 API-Football requests used)
+
+----------------------------------------------------------------------
+MATCHBOOK: skipped (switched off for this run)
