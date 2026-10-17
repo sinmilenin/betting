@@ -1,3 +1,4 @@
-RUN 2026-10-16 20:47 local | 1 match(es)
-Auckland v id:945 -> out/Auckland_v_id_945.txt
-Requests used: API-Football 27, Matchbook 0
+RUN 2026-10-17 06:27 local | 2 match(es)
+Mito v Urawa -> out/Mito_v_Urawa.txt
+Ulsan Hyundai v Bucheon -> out/Ulsan_Hyundai_v_Bucheon.txt
+Requests used: API-Football 52, Matchbook 0
