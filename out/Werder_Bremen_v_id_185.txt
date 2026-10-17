@@ -1,6 +1,6 @@
-MATCH Werder Bremen v Paderborn | fetched 2026-10-17 11:45 local
+MATCH Werder Bremen v id:185 | fetched 2026-10-17 11:49 local
 
-FORM DATA Werder Bremen v Paderborn | source API-Football | 2026-10-17 11:47 UTC
+FORM DATA Werder Bremen v id:185 | source API-Football | 2026-10-17 11:49 UTC
 H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
 
 === Werder Bremen (id 162): last 20 finished games ===
@@ -28,16 +28,30 @@ Listed home: 10 games, scored 17 (1.70), conceded 14 (1.40), blanks 2, clean she
 Listed away: 10 games, scored 19 (1.90), conceded 23 (2.30), blanks 2, clean sheets 1
 All: 20 games, scored 36 (1.80), conceded 37 (1.85), blanks 4, clean sheets 3
 
-"Paderborn" matches several teams. Use id:<number> instead of the name:
-  id:185    SC Paderborn 07 (Germany)
-  id:12827  Paderborn II (Germany)
-  id:13956  Paderborn U19 (Germany)
-(retrying Paderborn using the opponent's country, Germany)
-"Paderborn" matches several teams. Use id:<number> instead of the name:
-  id:185    SC Paderborn 07 (Germany)
-  id:12827  Paderborn II (Germany)
-  id:13956  Paderborn U19 (Germany)
-!! Paderborn: Ambiguous team name "Paderborn".
+=== SC Paderborn 07 (id 185): last 20 finished games ===
+2026-10-10 H 0-2 v VfB Stuttgart | Bundesliga | Paderborn | xG 1.96-2.47
+2026-09-30 A 1-0 v DC United | Friendlies Clubs | ?
+2026-09-20 H 3-1 v 1899 Hoffenheim | Bundesliga | Paderborn | xG 0.68-1.50
+2026-09-12 A 0-3 v Borussia Dortmund | Bundesliga | Dortmund | xG 0.49-1.76
+2026-09-05 H 0-1 v SC Freiburg | Bundesliga | Paderborn | xG 0.77-1.24
+2026-08-29 A 0-0 v FSV Mainz 05 | Bundesliga | Mainz | xG 0.73-1.23
+2026-08-23 A 4-2 v Phönix Lübeck | DFB Pokal | Lubeck
+2026-08-08 A 2-2 v Werder Bremen | Friendlies Clubs | ?
+2026-08-01 A 2-0 v VfL Osnabrück | Friendlies Clubs | ?
+2026-07-17 H 3-1 v Fagiano Okayama | Friendlies Clubs | ?
+2026-05-25 H 1-1 v VfL Wolfsburg | Bundesliga | Paderborn [AET, 90-min score shown]
+2026-05-21 A 0-0 v VfL Wolfsburg | Bundesliga | Wolfsburg
+2026-05-17 A 2-0 v SV Darmstadt 98 | 2. Bundesliga | Darmstadt
+2026-05-08 H 2-2 v Karlsruher SC | 2. Bundesliga | Paderborn
+2026-05-03 A 1-5 v SV Elversberg | 2. Bundesliga | Spiesen-Elversberg
+2026-04-26 H 2-3 v FC Schalke 04 | 2. Bundesliga | Paderborn
+2026-04-18 A 1-1 v Hannover 96 | 2. Bundesliga | Hannover
+2026-04-12 H 4-3 v 1. FC Magdeburg | 2. Bundesliga | Paderborn
+2026-04-05 A 2-0 v SpVgg Greuther Fürth | 2. Bundesliga | Furth
+2026-03-21 H 2-1 v Dynamo Dresden | 2. Bundesliga | Paderborn
+Listed home: 9 games, scored 17 (1.89), conceded 15 (1.67), blanks 2, clean sheets 0
+Listed away: 11 games, scored 15 (1.36), conceded 13 (1.18), blanks 3, clean sheets 6
+All: 20 games, scored 32 (1.60), conceded 28 (1.40), blanks 5, clean sheets 6
 
 TABLE FOR Werder Bremen
 LEAGUE TABLE Bundesliga 2026 | 18 teams | 46 games played
@@ -62,7 +76,9 @@ League averages per game: home 2.33, away 1.43, total 3.76
 17  1899 Hoffenheim          3 |  3   6-7       |  2   3-6       |  5   9-13
 18  Borussia Mönchengladba   0 |  2   6-8       |  3   1-10      |  5   7-18
 
-(14 API-Football requests used)
+(SC Paderborn 07: same table as Werder Bremen, shown above)
+
+(25 API-Football requests used)
 
 ----------------------------------------------------------------------
 MATCHBOOK: skipped (switched off for this run)

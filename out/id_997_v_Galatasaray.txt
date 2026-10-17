@@ -1,16 +1,33 @@
-MATCH Genclerbirligi v Galatasaray | fetched 2026-10-17 11:45 local
+MATCH id:997 v Galatasaray | fetched 2026-10-17 11:49 local
 
-FORM DATA Genclerbirligi v Galatasaray | source API-Football | 2026-10-17 11:46 UTC
+FORM DATA id:997 v Galatasaray | source API-Football | 2026-10-17 11:49 UTC
 H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
 
-"Genclerbirligi" matches several teams. Use id:<number> instead of the name:
-  id:997    Gençlerbirliği S.K. (Turkey)
-  id:3586   Darıca Gençlerbirliği (Turkey)
-  id:13372  Sarıkamış Gençlerbirliği (Turkey)
-  id:13395  Tatvan Gençlerbirliği (Turkey)
-  id:13408  Ağrı Gençlerbirliği (Turkey)
-  id:13436  Iğdır Gençlerbirliğispor (Turkey)
-  id:28247  Genclerbirligi U19 (Turkey)
+=== Gençlerbirliği S.K. (id 997): last 20 finished games ===
+2026-10-10 H 2-2 v Amed | Süper Lig | Ankara | xG 0.50-2.16
+2026-10-03 H 0-1 v Keçiörengücü | Friendlies Clubs | ?
+2026-09-19 A 0-4 v Başakşehir | Süper Lig | Istanbul | xG 0.52-2.74
+2026-09-13 H 1-2 v Kasımpaşa | Süper Lig | Ankara | xG 1.16-1.32
+2026-09-06 A 0-5 v Trabzonspor | Süper Lig | Trabzon | xG 0.86-3.21
+2026-08-28 H 1-1 v Erzurumspor FK | Süper Lig | Ankara | xG 0.75-0.86
+2026-08-23 A 1-0 v Göztepe | Süper Lig | Izmir | xG 1.56-1.92
+2026-08-15 H 2-1 v Fenerbahçe | Süper Lig | Ankara | xG 1.19-2.90
+2026-07-24 A 0-3 v Kasımpaşa | Friendlies Clubs | ?
+2026-05-17 A 3-0 v Trabzonspor | Süper Lig | Trabzon | xG 1.58-0.57
+2026-05-13 H 1-2 v Trabzonspor | Türkiye Kupası | Ankara
+2026-05-09 H 3-2 v Kasımpaşa | Süper Lig | Ankara
+2026-05-03 A 0-1 v Fatih Karagümrük | Süper Lig | Istanbul
+2026-04-26 H 1-0 v Kocaelispor | Süper Lig | Ankara
+2026-04-22 A 2-0 v Galatasaray | Türkiye Kupası | Istanbul
+2026-04-18 H 1-2 v Galatasaray | Süper Lig | Ankara
+2026-04-11 A 0-3 v Başakşehir | Süper Lig | Istanbul
+2026-04-04 H 0-2 v Göztepe | Süper Lig | Ankara
+2026-03-19 A 0-1 v Konyaspor | Süper Lig | Konya
+2026-03-15 H 0-2 v Beşiktaş | Süper Lig | Ankara
+Listed home: 11 games, scored 12 (1.09), conceded 17 (1.55), blanks 3, clean sheets 1
+Listed away: 9 games, scored 6 (0.67), conceded 17 (1.89), blanks 6, clean sheets 3
+All: 20 games, scored 18 (0.90), conceded 34 (1.70), blanks 9, clean sheets 4
+
 === Galatasaray (id 645): last 20 finished games ===
 2026-10-13 H 1-4 v Barcelona | UEFA Champions League | Istanbul | xG 0.42-2.86
 2026-10-09 H 3-1 v Kasımpaşa | Süper Lig | Istanbul | xG 2.52-0.49
@@ -36,16 +53,28 @@ Listed home: 12 games, scored 21 (1.75), conceded 23 (1.92), blanks 3, clean she
 Listed away: 8 games, scored 17 (2.12), conceded 18 (2.25), blanks 2, clean sheets 1
 All: 20 games, scored 38 (1.90), conceded 41 (2.05), blanks 5, clean sheets 3
 
-(retrying Genclerbirligi using the opponent's country, Turkey)
-"Genclerbirligi" matches several teams. Use id:<number> instead of the name:
-  id:997    Gençlerbirliği S.K. (Turkey)
-  id:3586   Darıca Gençlerbirliği (Turkey)
-  id:13372  Sarıkamış Gençlerbirliği (Turkey)
-  id:13395  Tatvan Gençlerbirliği (Turkey)
-  id:13408  Ağrı Gençlerbirliği (Turkey)
-  id:13436  Iğdır Gençlerbirliğispor (Turkey)
-  id:28247  Genclerbirligi U19 (Turkey)
-!! Genclerbirligi: Ambiguous team name "Genclerbirligi".
+TABLE FOR Gençlerbirliği S.K.
+LEAGUE TABLE Süper Lig 2026 | 18 teams | 64 games played
+League averages per game: home 1.66, away 1.28, total 2.94
+#   team                   Pts | home P GF-GA  | away P GF-GA  | all P GF-GA
+1   Galatasaray             16 |  4   9-5       |  3   7-6       |  7  16-11
+2   Beşiktaş                15 |  4  12-3       |  3   4-5       |  7  16-8
+3   Amed                    14 |  4  13-3       |  3   4-6       |  7  17-9
+4   Fenerbahçe              13 |  3  13-4       |  4   6-2       |  7  19-6
+5   Trabzonspor             13 |  3  11-1       |  4   5-4       |  7  16-5
+6   Çorum FK                13 |  4   6-4       |  4  12-9       |  8  18-13
+7   Alanyaspor              12 |  3   3-2       |  4   5-4       |  7   8-6
+8   Kocaelispor             12 |  3   5-0       |  4   3-6       |  7   8-6
+9   Kasımpaşa               10 |  3   3-3       |  4   5-5       |  7   8-8
+10  Rizespor                10 |  3   0-6       |  5   8-5       |  8   8-11
+11  Başakşehir               8 |  4   9-4       |  3   1-7       |  7  10-11
+12  Gaziantep FK             8 |  4   2-6       |  3   5-4       |  7   7-10
+13  Gençlerbirliği S.K.      8 |  4   6-6       |  3   1-9       |  7   7-15
+14  Erzurumspor FK           8 |  3   2-4       |  4   1-7       |  7   3-11
+15  Göztepe                  6 |  3   4-7       |  4  11-8       |  7  15-15
+16  Konyaspor                5 |  4   2-3       |  3   2-5       |  7   4-8
+17  Samsunspor               4 |  4   4-13      |  3   2-2       |  7   6-15
+18  Eyüpspor                 3 |  4   2-8       |  3   0-12      |  7   2-20
 
 TABLE FOR Galatasaray
 LEAGUE TABLE UEFA Champions League 2026 | 36 teams | 36 games played
@@ -88,7 +117,7 @@ League averages per game: home 2.44, away 1.64, total 4.08
 35  Galatasaray              0 |  1   1-4       |  1   1-3       |  2   2-7
 36  Slovan Bratislava        0 |  1   0-3       |  1   1-6       |  2   1-9
 
-(15 API-Football requests used)
+(26 API-Football requests used)
 
 ----------------------------------------------------------------------
 MATCHBOOK: skipped (switched off for this run)

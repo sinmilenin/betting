@@ -1,6 +1,6 @@
-MATCH Lamelas v Vitoria Guimaraes | fetched 2026-10-17 11:45 local
+MATCH Lamelas v Guimaraes | fetched 2026-10-17 11:49 local
 
-FORM DATA Lamelas v Vitoria Guimaraes | source API-Football | 2026-10-17 11:46 UTC
+FORM DATA Lamelas v Guimaraes | source API-Football | 2026-10-17 11:49 UTC
 H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
 
 === Recreativa de Lamelas (id 20353): last 20 finished games ===
@@ -28,16 +28,18 @@ Listed home: 11 games, scored 17 (1.55), conceded 11 (1.00), blanks 2, clean she
 Listed away: 9 games, scored 4 (0.44), conceded 13 (1.44), blanks 6, clean sheets 1
 All: 20 games, scored 21 (1.05), conceded 24 (1.20), blanks 8, clean sheets 4
 
-"Vitoria Guimaraes" matches several teams. Use id:<number> instead of the name:
+"Guimaraes" matches several teams. Use id:<number> instead of the name:
+  id:232    Guimaraes B (Portugal)
   id:15471  Vitória Guimarães U23 (Portugal)
   id:22520  Vitoria Guimaraes U19 (Portugal)
   id:26784  Vitoria Guimaraes W (Portugal)
-(retrying Vitoria Guimaraes using the opponent's country, Portugal)
-"Vitoria Guimaraes" matches several teams. Use id:<number> instead of the name:
+(retrying Guimaraes using the opponent's country, Portugal)
+"Guimaraes" matches several teams. Use id:<number> instead of the name:
+  id:232    Guimaraes B (Portugal)
   id:15471  Vitória Guimarães U23 (Portugal)
   id:22520  Vitoria Guimaraes U19 (Portugal)
   id:26784  Vitoria Guimaraes W (Portugal)
-!! Vitoria Guimaraes: Ambiguous team name "Vitoria Guimaraes".
+!! Guimaraes: Ambiguous team name "Guimaraes".
 
 TABLE FOR Recreativa de Lamelas
 LEAGUE TABLE Campeonato de Portugal Prio - Group B 2023 | 14 teams | 182 games played

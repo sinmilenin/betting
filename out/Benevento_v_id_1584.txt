@@ -1,6 +1,6 @@
-MATCH Benevento v Vicenza | fetched 2026-10-17 11:45 local
+MATCH Benevento v id:1584 | fetched 2026-10-17 11:49 local
 
-FORM DATA Benevento v Vicenza | source API-Football | 2026-10-17 11:46 UTC
+FORM DATA Benevento v id:1584 | source API-Football | 2026-10-17 11:49 UTC
 H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
 
 === Benevento (id 506): last 20 finished games ===
@@ -28,18 +28,30 @@ Listed home: 9 games, scored 16 (1.78), conceded 11 (1.22), blanks 1, clean shee
 Listed away: 11 games, scored 16 (1.45), conceded 14 (1.27), blanks 1, clean sheets 3
 All: 20 games, scored 32 (1.60), conceded 25 (1.25), blanks 2, clean sheets 5
 
-"Vicenza" matches several teams. Use id:<number> instead of the name:
-  id:1584   Vicenza Virtus (Italy)
-  id:15687  Vicenza U19 (Italy)
-  id:19264  Real Vicenza (Italy)
-  id:26854  Vicenza Calcio Femminile (Italy)
-(retrying Vicenza using the opponent's country, Italy)
-"Vicenza" matches several teams. Use id:<number> instead of the name:
-  id:1584   Vicenza Virtus (Italy)
-  id:15687  Vicenza U19 (Italy)
-  id:19264  Real Vicenza (Italy)
-  id:26854  Vicenza Calcio Femminile (Italy)
-!! Vicenza: Ambiguous team name "Vicenza".
+=== Vicenza Virtus (id 1584): last 20 finished games ===
+2026-10-10 H 0-3 v Pisa | Serie B | Vicenza | xG 0.61-2.74
+2026-10-03 A 1-2 v Koper | Friendlies Clubs | ?
+2026-09-20 A 1-2 v Hellas Verona | Serie B | Verona | xG 0.90-0.97
+2026-09-12 H 1-1 v Juve Stabia | Serie B | Vicenza | xG 0.57-1.50
+2026-09-06 A 2-2 v Virtus Entella | Serie B | Chiavari | xG 1.50-0.94
+2026-08-29 A 0-3 v Avellino | Serie B | Avellino | xG 1.33-1.56
+2026-08-21 H 3-2 v Catanzaro | Serie B | Vicenza | xG 1.77-1.74
+2026-08-08 H 1-1 v Catania | Coppa Italia | Vicenza [PEN, 90-min score shown]
+2026-07-25 A 2-2 v Genoa | Friendlies Clubs | ?
+2026-05-16 H 1-4 v Benevento | Serie C - Supercoppa Lega Finals | ?
+2026-05-02 A 5-2 v Arezzo | Serie C - Supercoppa Lega Finals | ?
+2026-04-25 A 6-1 v Triestina | Serie C - Girone A | Trieste
+2026-04-19 H 0-0 v Pergolettese | Serie C - Girone A | Vicenza
+2026-04-11 H 3-1 v Novara | Serie C - Girone A | Vicenza
+2026-04-03 A 0-2 v Lecco | Serie C - Girone A | Lecco
+2026-03-29 H 1-1 v Union Brescia | Serie C - Girone A | Vicenza
+2026-03-21 A 3-1 v Renate | Serie C - Girone A | Meda
+2026-03-16 H 2-1 v Inter U23 | Serie C - Girone A | Vicenza
+2026-03-07 A 3-1 v Giana Erminio | Serie C - Girone A | Gorgonzola
+2026-03-03 H 2-3 v Trento | Serie C - Girone A | Vicenza
+Listed home: 10 games, scored 14 (1.40), conceded 17 (1.70), blanks 2, clean sheets 1
+Listed away: 10 games, scored 23 (2.30), conceded 18 (1.80), blanks 2, clean sheets 0
+All: 20 games, scored 37 (1.85), conceded 35 (1.75), blanks 4, clean sheets 1
 
 TABLE FOR Benevento
 LEAGUE TABLE Serie B 2026 | 20 teams | 61 games played
@@ -66,7 +78,9 @@ League averages per game: home 1.41, away 1.30, total 2.70
 19  Carrarese                4 |  3   1-4       |  3   3-2       |  6   4-6
 20  Juve Stabia              2 |  2   1-4       |  4   4-4       |  6   5-8
 
-(14 API-Football requests used)
+(Vicenza Virtus: same table as Benevento, shown above)
+
+(24 API-Football requests used)
 
 ----------------------------------------------------------------------
 MATCHBOOK: skipped (switched off for this run)

@@ -1,44 +1,16 @@
-RUN 2026-10-17 11:45 local | 23 match(es)
-Persita v Persija Jakarta -> out/Persita_v_Persija_Jakarta.txt
-Keflavik v KR Reykjavik -> out/Keflavik_v_KR_Reykjavik.txt
-Marek v Cherno More -> out/Marek_v_Cherno_More.txt
-    !! Cherno More: Ambiguous team name "Cherno More".
-Tobol v Zhenis -> out/Tobol_v_Zhenis.txt
-    !! Tobol: Ambiguous team name "Tobol".
-    !! Zhenis: No team found for "Zhenis".
-Ham-Kam v Bodo/Glimt -> out/Ham_Kam_v_Bodo_Glimt.txt
-    !! Ham-Kam: API-Football error: {"search": "The Search field may only contain alpha-numeric characters and spaces."}
-    !! Bodo/Glimt: API-Football error: {"search": "The Search field may only contain alpha-numeric characters and spaces."}
-Kudrivka v Bukovyna -> out/Kudrivka_v_Bukovyna.txt
-Ekenas IF v KaPa -> out/Ekenas_IF_v_KaPa.txt
-    !! Ekenas IF: No team found for "Ekenas IF".
-    !! KaPa: Ambiguous team name "KaPa".
-KTP v Klubi 04 -> out/KTP_v_Klubi_04.txt
-    !! Klubi 04: No team found for "Klubi 04".
-HJK v Gnistan -> out/HJK_v_Gnistan.txt
-    !! HJK: Ambiguous team name "HJK".
-Padova v Entella -> out/Padova_v_Entella.txt
-    !! Entella: Ambiguous team name "Entella".
-Benevento v Vicenza -> out/Benevento_v_Vicenza.txt
-    !! Vicenza: Ambiguous team name "Vicenza".
-Genclerbirligi v Galatasaray -> out/Genclerbirligi_v_Galatasaray.txt
-    !! Genclerbirligi: Ambiguous team name "Genclerbirligi".
-Falkenbergs v Landskrona -> out/Falkenbergs_v_Landskrona.txt
-Venezia v Napoli -> out/Venezia_v_Napoli.txt
-Lamelas v Vitoria Guimaraes -> out/Lamelas_v_Vitoria_Guimaraes.txt
-    !! Vitoria Guimaraes: Ambiguous team name "Vitoria Guimaraes".
-Ascoli v Empoli -> out/Ascoli_v_Empoli.txt
-Amed v Konyaspor -> out/Amed_v_Konyaspor.txt
-Carrarese v Modena -> out/Carrarese_v_Modena.txt
-Union Berlin v Borussia Dortmund -> out/Union_Berlin_v_Borussia_Dortmund.txt
-Werder Bremen v Paderborn -> out/Werder_Bremen_v_Paderborn.txt
-    !! Paderborn: Ambiguous team name "Paderborn".
-Elversberg v Augsburg -> out/Elversberg_v_Augsburg.txt
-    !! Elversberg: Ambiguous team name "Elversberg".
-    !! Augsburg: Ambiguous team name "Augsburg".
-Schalke 04 v Mainz -> out/Schalke_04_v_Mainz.txt
-    !! Schalke 04: Ambiguous team name "Schalke 04".
-    !! Mainz: Ambiguous team name "Mainz".
-Hamburger SV v Stuttgart -> out/Hamburger_SV_v_Stuttgart.txt
-    !! Stuttgart: Ambiguous team name "Stuttgart".
-Requests used: API-Football 357, Matchbook 0
+RUN 2026-10-17 11:49 local | 11 match(es)
+Ekenas v id:9187 -> out/Ekenas_v_id_9187.txt
+Kotkan v Klubi -> out/Kotkan_v_Klubi.txt
+    !! Kotkan: No team found for "Kotkan".
+    !! Klubi: Ambiguous team name "Klubi".
+id:649 v Gnistan -> out/id_649_v_Gnistan.txt
+Padova v id:527 -> out/Padova_v_id_527.txt
+Benevento v id:1584 -> out/Benevento_v_id_1584.txt
+id:997 v Galatasaray -> out/id_997_v_Galatasaray.txt
+Lamelas v Guimaraes -> out/Lamelas_v_Guimaraes.txt
+    !! Guimaraes: Ambiguous team name "Guimaraes".
+Werder Bremen v id:185 -> out/Werder_Bremen_v_id_185.txt
+id:1660 v id:170 -> out/id_1660_v_id_170.txt
+id:174 v id:164 -> out/id_174_v_id_164.txt
+Hamburger SV v id:172 -> out/Hamburger_SV_v_id_172.txt
+Requests used: API-Football 241, Matchbook 0

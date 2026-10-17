@@ -1,59 +1,59 @@
-MATCH Union Berlin v Borussia Dortmund | fetched 2026-10-17 11:45 local
+MATCH Hamburger SV v id:172 | fetched 2026-10-17 11:49 local
 
-FORM DATA Union Berlin v Borussia Dortmund | source API-Football | 2026-10-17 11:47 UTC
+FORM DATA Hamburger SV v id:172 | source API-Football | 2026-10-17 11:49 UTC
 H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
 
-=== Union Berlin (id 182): last 20 finished games ===
-2026-10-10 H 1-0 v SV Elversberg | Bundesliga | Berlin | xG 1.13-0.24
-2026-09-26 A 1-0 v HNK Rijeka | Friendlies Clubs | ?
-2026-09-18 A 0-7 v Bayern München | Bundesliga | Munich | xG 0.34-3.71
-2026-09-11 H 1-3 v FC Schalke 04 | Bundesliga | Berlin | xG 1.95-2.52
-2026-09-05 A 0-4 v Bayer Leverkusen | Bundesliga | Leverkusen | xG 0.39-3.11
-2026-08-29 H 3-3 v Eintracht Frankfurt | Bundesliga | Berlin | xG 1.84-1.47
-2026-08-23 A 4-2 v Eintracht Braunschweig | DFB Pokal | Braunschweig
-2026-08-15 H 2-4 v Ipswich | Friendlies Clubs | ?
-2026-08-09 H 3-2 v Aris | Friendlies Clubs | ?
-2026-08-02 H 2-2 v Cagliari | Friendlies Clubs | ?
-2026-08-01 A 1-2 v Dynamo Dresden | Friendlies Clubs | ?
-2026-07-18 A 1-2 v FC Aarau | Friendlies Clubs | ?
-2026-07-17 A 1-1 v FC Winterthur | Friendlies Clubs | ?
-2026-07-12 A 0-2 v FC Carl Zeiss Jena | Friendlies Clubs | ?
-2026-07-09 A 1-1 v Chemnitzer FC | Friendlies Clubs | ?
-2026-07-04 A 12-2 v Optik Rathenow | Friendlies Clubs | ?
-2026-05-16 H 4-0 v FC Augsburg | Bundesliga | Berlin
-2026-05-10 A 3-1 v FSV Mainz 05 | Bundesliga | Mainz
-2026-05-02 H 2-2 v 1. FC Köln | Bundesliga | Berlin
-2026-04-24 A 1-3 v RB Leipzig | Bundesliga | Leipzig
-Listed home: 8 games, scored 18 (2.25), conceded 16 (2.00), blanks 0, clean sheets 2
-Listed away: 12 games, scored 25 (2.08), conceded 27 (2.25), blanks 3, clean sheets 1
-All: 20 games, scored 43 (2.15), conceded 43 (2.15), blanks 3, clean sheets 3
+=== Hamburger SV (id 175): last 20 finished games ===
+2026-10-10 A 3-2 v 1899 Hoffenheim | Bundesliga | Sinsheim | xG 1.28-0.93
+2026-10-04 H 2-0 v FC Copenhagen | Friendlies Clubs | ?
+2026-09-19 H 2-1 v 1. FC Köln | Bundesliga | Hamburg
+2026-09-13 A 0-5 v RB Leipzig | Bundesliga | Leipzig | xG 1.10-2.43
+2026-09-06 H 0-5 v FSV Mainz 05 | Bundesliga | Hamburg | xG 0.19-2.77
+2026-08-29 A 0-2 v Borussia Dortmund | Bundesliga | Dortmund | xG 0.91-1.53
+2026-08-24 A 3-0 v Verl | DFB Pokal | Verl
+2026-08-15 A 2-1 v Toulouse | Friendlies Clubs | ?
+2026-08-08 H 2-2 v Lille | Friendlies Clubs | ?
+2026-08-01 H 1-2 v Everton | Friendlies Clubs | ?
+2026-07-25 A 3-1 v 1. FC Heidenheim | Friendlies Clubs | ?
+2026-07-18 A 2-3 v Rapid Vienna | Friendlies Clubs | ?
+2026-05-16 A 1-1 v Bayer Leverkusen | Bundesliga | Leverkusen
+2026-05-10 H 3-2 v SC Freiburg | Bundesliga | Hamburg
+2026-05-02 A 2-1 v Eintracht Frankfurt | Bundesliga | Frankfurt
+2026-04-25 H 1-2 v 1899 Hoffenheim | Bundesliga | Hamburg
+2026-04-18 A 1-3 v Werder Bremen | Bundesliga | Bremen
+2026-04-12 A 0-4 v VfB Stuttgart | Bundesliga | Stuttgart
+2026-04-04 H 1-1 v FC Augsburg | Bundesliga | Hamburg
+2026-03-21 A 2-3 v Borussia Dortmund | Bundesliga | Dortmund
+Listed home: 8 games, scored 12 (1.50), conceded 15 (1.88), blanks 1, clean sheets 1
+Listed away: 12 games, scored 19 (1.58), conceded 26 (2.17), blanks 3, clean sheets 1
+All: 20 games, scored 31 (1.55), conceded 41 (2.05), blanks 4, clean sheets 2
 
-=== Borussia Dortmund (id 165): last 20 finished games ===
-2026-10-14 A 0-1 v Bodo/Glimt | UEFA Champions League | Hakata | xG 0.85-1.20
-2026-10-09 H 2-2 v Werder Bremen | Bundesliga | Dortmund | xG 2.42-1.13
-2026-09-19 A 1-0 v VfB Stuttgart | Bundesliga | Stuttgart | xG 1.34-0.87
-2026-09-12 H 3-0 v SC Paderborn 07 | Bundesliga | Dortmund | xG 1.76-0.49
-2026-09-08 H 3-2 v Villarreal | UEFA Champions League | Dortmund | xG 2.83-1.34
-2026-09-05 A 3-2 v 1899 Hoffenheim | Bundesliga | Sinsheim | xG 2.02-1.17
-2026-09-01 A 5-0 v HEBC | DFB Pokal | Hamburg
-2026-08-29 H 2-0 v Hamburger SV | Bundesliga | Dortmund | xG 1.53-0.91
-2026-08-22 H 1-2 v Bayern München | Super Cup | ?
-2026-08-15 H 2-2 v AS Roma | Friendlies Clubs | Dortmund
-2026-08-09 A 3-2 v Arsenal | Emirates Cup | London
-2026-08-01 A 1-0 v FC Tokyo | Friendlies Clubs | Tokyo
-2026-07-29 A 0-1 v Cerezo Osaka | Friendlies Clubs | Osaka
-2026-07-25 A 1-2 v Fortuna Düsseldorf | Friendlies Clubs | ?
-2026-07-18 A 3-1 v Rot-weiss Oberhausen | Friendlies Clubs | Oberhausen
-2026-05-16 A 2-0 v Werder Bremen | Bundesliga | Bremen
-2026-05-08 H 3-2 v Eintracht Frankfurt | Bundesliga | Dortmund
-2026-05-03 A 0-1 v Borussia Mönchengladbach | Bundesliga | Monchengladbach
-2026-04-26 H 4-0 v SC Freiburg | Bundesliga | Dortmund
-2026-04-18 A 1-2 v 1899 Hoffenheim | Bundesliga | Sinsheim
-Listed home: 8 games, scored 20 (2.50), conceded 10 (1.25), blanks 0, clean sheets 3
-Listed away: 12 games, scored 20 (1.67), conceded 12 (1.00), blanks 3, clean sheets 4
-All: 20 games, scored 40 (2.00), conceded 22 (1.10), blanks 3, clean sheets 7
+=== VfB Stuttgart (id 172): last 20 finished games ===
+2026-10-14 A 3-0 v Slovan Bratislava | UEFA Champions League | Bratislava | xG 2.21-0.82
+2026-10-10 A 2-0 v SC Paderborn 07 | Bundesliga | Paderborn | xG 2.47-1.96
+2026-10-01 H 5-0 v SpVgg Greuther Fürth | Friendlies Clubs | ?
+2026-09-25 H 3-0 v 1. FC Heidenheim | Friendlies Clubs | Stuttgart
+2026-09-19 H 0-1 v Borussia Dortmund | Bundesliga | Stuttgart | xG 0.87-1.34
+2026-09-12 A 1-2 v 1899 Hoffenheim | Bundesliga | Sinsheim | xG 2.16-2.76
+2026-09-09 H 3-1 v Viking | UEFA Champions League | Stuttgart | xG 2.18-0.63
+2026-09-04 H 4-1 v 1. FC Köln | Bundesliga | Stuttgart | xG 3.47-2.86
+2026-08-28 A 1-5 v Bayern München | Bundesliga | Munich | xG 0.79-4.06
+2026-08-21 A 4-0 v Hansa Rostock | DFB Pokal | Rostock
+2026-08-15 A 0-1 v Fulham | Friendlies Clubs | ?
+2026-08-08 H 3-1 v Everton | Friendlies Clubs | ?
+2026-08-01 H 2-2 v Paris FC | Friendlies Clubs | ?
+2026-07-29 A 8-1 v Kickers Offenbach | Friendlies Clubs | ?
+2026-07-25 A 5-0 v Hollenbach | Friendlies Clubs | ?
+2026-07-19 A 7-0 v Balingen | Friendlies Clubs | ?
+2026-05-23 A 0-3 v Bayern München | DFB Pokal | Berlin
+2026-05-16 A 2-2 v Eintracht Frankfurt | Bundesliga | Frankfurt
+2026-05-09 H 3-1 v Bayer Leverkusen | Bundesliga | Stuttgart
+2026-05-02 A 3-3 v 1899 Hoffenheim | Bundesliga | Sinsheim
+Listed home: 8 games, scored 23 (2.88), conceded 7 (0.88), blanks 1, clean sheets 2
+Listed away: 12 games, scored 36 (3.00), conceded 17 (1.42), blanks 2, clean sheets 5
+All: 20 games, scored 59 (2.95), conceded 24 (1.20), blanks 3, clean sheets 7
 
-TABLE FOR Union Berlin
+TABLE FOR Hamburger SV
 LEAGUE TABLE Bundesliga 2026 | 18 teams | 46 games played
 League averages per game: home 2.33, away 1.43, total 3.76
 #   team                   Pts | home P GF-GA  | away P GF-GA  | all P GF-GA
@@ -76,7 +76,7 @@ League averages per game: home 2.33, away 1.43, total 3.76
 17  1899 Hoffenheim          3 |  3   6-7       |  2   3-6       |  5   9-13
 18  Borussia Mönchengladba   0 |  2   6-8       |  3   1-10      |  5   7-18
 
-TABLE FOR Borussia Dortmund
+TABLE FOR VfB Stuttgart
 LEAGUE TABLE UEFA Champions League 2026 | 36 teams | 36 games played
 League averages per game: home 2.44, away 1.64, total 4.08
 #   team                   Pts | home P GF-GA  | away P GF-GA  | all P GF-GA
@@ -117,7 +117,7 @@ League averages per game: home 2.44, away 1.64, total 4.08
 35  Galatasaray              0 |  1   1-4       |  1   1-3       |  2   2-7
 36  Slovan Bratislava        0 |  1   0-3       |  1   1-6       |  2   1-9
 
-(25 API-Football requests used)
+(24 API-Football requests used)
 
 ----------------------------------------------------------------------
 MATCHBOOK: skipped (switched off for this run)
