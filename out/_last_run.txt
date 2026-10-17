@@ -1,3 +1,4 @@
-RUN 2026-10-17 14:48 local | 1 match(es)
-id:157 v RB Leipzig -> out/id_157_v_RB_Leipzig.txt
-Requests used: API-Football 25, Matchbook 0
+RUN 2026-10-17 15:27 local | 1 match(es)
+Osijek v HNK Gorica -> out/Osijek_v_HNK_Gorica.txt
+    !! Osijek: Ambiguous team name "Osijek".
+Requests used: API-Football 15, Matchbook 0

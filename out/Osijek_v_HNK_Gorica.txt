@@ -1,0 +1,60 @@
+MATCH Osijek v HNK Gorica | fetched 2026-10-17 15:27 local
+
+FORM DATA Osijek v HNK Gorica | source API-Football | 2026-10-17 15:27 UTC
+H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
+
+"Osijek" matches several teams. Use id:<number> instead of the name:
+  id:616    NK Osijek (Croatia)
+  id:1486   NK Osijek II (Croatia)
+  id:16842  Osijek W (Croatia)
+=== HNK Gorica (id 1068): last 20 finished games ===
+2026-10-09 H 1-2 v Rudes | HNL | Veliky Gorica | xG 1.25-1.61
+2026-10-02 H 3-3 v Bravo | Friendlies Clubs | ?
+2026-09-28 A 1-1 v Maribor | Friendlies Clubs | ?
+2026-09-19 A 1-0 v Istra 1961 | HNL | Pula | xG 0.61-1.21
+2026-09-14 H 2-2 v NK Varazdin | HNL | Velika Gorica | xG 0.85-1.55
+2026-09-09 A 1-1 v Uskok Klis | Cup | ? [AET, 90-min score shown]
+2026-09-05 A 0-1 v Dinamo Zagreb | HNL | Zagreb | xG 0.79-1.70
+2026-08-31 H 0-0 v HNK Rijeka | HNL | Velika Gorica | xG 0.24-0.62
+2026-08-22 A 0-2 v NK Slaven Belupo | HNL | Koprivnica | xG 0.93-1.07
+2026-08-16 H 1-2 v HNK Hajduk Split | HNL | Velika Gorica | xG 1.27-1.20
+2026-08-08 A 1-3 v NK Lokomotiva Zagreb | HNL | Zagreb
+2026-08-01 H 0-2 v NK Osijek | HNL | Velika Gorica
+2026-07-23 H 0-2 v Shakhtar Donetsk | Friendlies Clubs | ?
+2026-07-19 A 1-2 v FC St. Pauli | Friendlies Clubs | ?
+2026-07-16 H 1-0 v Epitsentr Dunayivtsi | Friendlies Clubs | ?
+2026-07-13 H 0-2 v Göztepe | Friendlies Clubs | ?
+2026-07-09 A 5-1 v Brežice | Friendlies Clubs | ?
+2026-07-04 H 2-1 v Zorya Luhansk | Friendlies Clubs | ?
+2026-05-23 A 0-2 v HNK Rijeka | HNL | Rijeka
+2026-05-16 H 2-0 v NK Osijek | HNL | Velika Gorica
+Listed home: 11 games, scored 12 (1.09), conceded 16 (1.45), blanks 4, clean sheets 3
+Listed away: 9 games, scored 10 (1.11), conceded 13 (1.44), blanks 3, clean sheets 1
+All: 20 games, scored 22 (1.10), conceded 29 (1.45), blanks 7, clean sheets 4
+
+(retrying Osijek using the opponent's country, Croatia)
+"Osijek" matches several teams. Use id:<number> instead of the name:
+  id:616    NK Osijek (Croatia)
+  id:1486   NK Osijek II (Croatia)
+  id:16842  Osijek W (Croatia)
+!! Osijek: Ambiguous team name "Osijek".
+
+TABLE FOR HNK Gorica
+LEAGUE TABLE HNL 2026 | 10 teams | 45 games played
+League averages per game: home 1.91, away 1.24, total 3.16
+#   team                   Pts | home P GF-GA  | away P GF-GA  | all P GF-GA
+1   HNK Hajduk Split        19 |  5  11-3       |  4   7-6       |  9  18-9
+2   NK Varazdin             18 |  5   6-1       |  4   8-6       |  9  14-7
+3   HNK Rijeka              17 |  4  12-4       |  5   4-8       |  9  16-12
+4   Dinamo Zagreb           16 |  5  13-3       |  3   5-8       |  8  18-11
+5   NK Osijek               16 |  4   9-5       |  5   9-9       |  9  18-14
+6   Istra 1961              12 |  5  10-8       |  4   7-6       |  9  17-14
+7   NK Slaven Belupo        10 |  4   9-6       |  5   2-11      |  9  11-17
+8   NK Lokomotiva Zagreb     7 |  3   4-3       |  6   7-14      |  9  11-17
+9   Rudes                    7 |  5   8-15      |  5   5-12      | 10  13-27
+10  HNK Gorica               5 |  5   4-8       |  4   2-6       |  9   6-14
+
+(15 API-Football requests used)
+
+----------------------------------------------------------------------
+MATCHBOOK: skipped (switched off for this run)
