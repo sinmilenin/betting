@@ -1,3 +1,2 @@
-# 2026-10-17 20:31 Ljubljana: scheduled Orbit scan, run 2 (names)
-Zamora FC v Anzoategui | n=20 | xg=10
-Chico v Atletico Nacional | n=20 | xg=10
+# 2026-10-17 20:35 Ljubljana: scheduled Orbit scan, run 3 (Anzoategui)
+Zamora FC v Anzoátegui FC | n=20 | xg=10
