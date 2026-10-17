@@ -1,10 +1,3 @@
-RUN 2026-10-17 14:45 local | 7 match(es)
-Digenis v Karmiotissa -> out/Digenis_v_Karmiotissa.txt
-    !! Digenis: Ambiguous team name "Digenis".
-Paks v id:2402 -> out/Paks_v_id_2402.txt
-id:377 v IFK Goteborg -> out/id_377_v_IFK_Goteborg.txt
-NEOM v Al Ettifaq -> out/NEOM_v_Al_Ettifaq.txt
-id:611 v Alanyaspor -> out/id_611_v_Alanyaspor.txt
-id:2061 v Hobro -> out/id_2061_v_Hobro.txt
-id:34 v id:66 -> out/id_34_v_id_66.txt
-Requests used: API-Football 162, Matchbook 0
+RUN 2026-10-17 14:48 local | 1 match(es)
+id:157 v RB Leipzig -> out/id_157_v_RB_Leipzig.txt
+Requests used: API-Football 25, Matchbook 0
