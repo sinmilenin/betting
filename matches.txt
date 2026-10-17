@@ -1,12 +1,4 @@
-# 2026-10-17 13:52 scheduled scan: team id retries
-Ekenas v id:9187 | n=20 | xg=10
-Kotkan v Klubi | n=20 | xg=10
-id:649 v Gnistan | n=20 | xg=10
-Padova v id:527 | n=20 | xg=10
-Benevento v id:1584 | n=20 | xg=10
-id:997 v Galatasaray | n=20 | xg=10
-Lamelas v Guimaraes | n=20 | xg=10
-Werder Bremen v id:185 | n=20 | xg=10
-id:1660 v id:170 | n=20 | xg=10
-id:174 v id:164 | n=20 | xg=10
-Hamburger SV v id:172 | n=20 | xg=10
+# 2026-10-17 13:56 scheduled scan: team name retries 2
+KTP Kotka v id:2085 | n=20 | xg=10
+Lamelas v Vitoria SC | n=20 | xg=10
+EIF v id:9187 | n=20 | xg=10
