@@ -1,4 +1,2 @@
-# 2026-10-17 12:56 scheduled scan: first analyses
-Inter Kashi v Odisha | n=20 | xg=10
-Qabala v Sabah | n=20 | xg=10
-Motor Lublin v Slask Wroclaw | n=20 | xg=10
+# 2026-10-17 12:56 scheduled scan: Sabah (Azerbaijan) by id
+Qabala v id:13976 | n=20 | xg=10
