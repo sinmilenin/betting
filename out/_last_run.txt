@@ -1,4 +1,4 @@
-RUN 2026-10-18 09:29 local | 1 match(es)
-Iğdır FK v Boluspor -> out/I_d_r_FK_v_Boluspor.txt
-    !! Iğdır FK: API-Football error: {"search": "The Search field may only contain alpha-numeric characters and spaces."}
-Requests used: API-Football 14, Matchbook 0
+RUN 2026-10-18 09:30 local | 1 match(es)
+Belediyespor v Boluspor -> out/Belediyespor_v_Boluspor.txt
+    !! Belediyespor: Ambiguous team name "Belediyespor".
+Requests used: API-Football 15, Matchbook 0

@@ -1,8 +1,34 @@
-MATCH Iğdır FK v Boluspor | fetched 2026-10-18 09:29 local
+MATCH Belediyespor v Boluspor | fetched 2026-10-18 09:30 local
 
-FORM DATA Iğdır FK v Boluspor | source API-Football | 2026-10-18 09:29 UTC
+FORM DATA Belediyespor v Boluspor | source API-Football | 2026-10-18 09:30 UTC
 H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
 
+"Belediyespor" matches several teams. Use id:<number> instead of the name:
+  id:3604   Sancaktepe Belediyespor (Turkey)
+  id:3606   Sivas Belediyespor (Turkey)
+  id:6341   Kırşehir Belediyespor (Turkey)
+  id:6506   1954 Kelkit Belediyespor (Turkey)
+  id:6507   68 Aksaray Belediyespor (Turkey)
+  id:6530   Kilis Belediyespor (Turkey)
+  id:6541   Yeşilyurt Belediyespor (Turkey)
+  id:6543   Yüksekova Belediyespor (Turkey)
+  id:7400   Elazığ Belediyespor FK (Turkey)
+  id:7404   Fatsa Belediyespor (Turkey)
+  id:7407   Karacabey Belediyespor (Turkey)
+  id:7408   Karaköprü Belediyespor (Turkey)
+  id:7416   Nevşehir Belediyespor (Turkey)
+  id:7423   Sultanbeyli Belediyespor (Turkey)
+  id:13364  1955 Batman Belediyespor (Turkey)
+  id:13365  Altınova Belediyespor (Turkey)
+  id:13368  Kale Belediyespor (Turkey)
+  id:13397  Ayancık Belediyespor (Turkey)
+  id:13401  Sarayönü Belediyespor (Turkey)
+  id:13402  Sarıkamış Belediyespor (Turkey)
+  id:13404  Yapraklı Belediyespor (Turkey)
+  id:13414  Zara Belediyespor (Turkey)
+  id:13419  Beyköy Belediyespor (Turkey)
+  id:13425  Sorgun Belediyespor (Turkey)
+  id:13429  Armutlu Belediyespor (Turkey)
 === Boluspor (id 3569): last 20 finished games ===
 2026-10-10 H 0-1 v Antalyaspor | 1. Lig | Boru | xG 0.57-1.12
 2026-10-03 A 0-3 v Rizespor | Friendlies Clubs | ?
@@ -28,7 +54,34 @@ Listed home: 11 games, scored 15 (1.36), conceded 14 (1.27), blanks 4, clean she
 Listed away: 9 games, scored 2 (0.22), conceded 27 (3.00), blanks 7, clean sheets 0
 All: 20 games, scored 17 (0.85), conceded 41 (2.05), blanks 11, clean sheets 3
 
-!! Iğdır FK: API-Football error: {"search": "The Search field may only contain alpha-numeric characters and spaces."}
+(retrying Belediyespor using the opponent's country, Turkey)
+"Belediyespor" matches several teams. Use id:<number> instead of the name:
+  id:3604   Sancaktepe Belediyespor (Turkey)
+  id:3606   Sivas Belediyespor (Turkey)
+  id:6341   Kırşehir Belediyespor (Turkey)
+  id:6506   1954 Kelkit Belediyespor (Turkey)
+  id:6507   68 Aksaray Belediyespor (Turkey)
+  id:6530   Kilis Belediyespor (Turkey)
+  id:6541   Yeşilyurt Belediyespor (Turkey)
+  id:6543   Yüksekova Belediyespor (Turkey)
+  id:7400   Elazığ Belediyespor FK (Turkey)
+  id:7404   Fatsa Belediyespor (Turkey)
+  id:7407   Karacabey Belediyespor (Turkey)
+  id:7408   Karaköprü Belediyespor (Turkey)
+  id:7416   Nevşehir Belediyespor (Turkey)
+  id:7423   Sultanbeyli Belediyespor (Turkey)
+  id:13364  1955 Batman Belediyespor (Turkey)
+  id:13365  Altınova Belediyespor (Turkey)
+  id:13368  Kale Belediyespor (Turkey)
+  id:13397  Ayancık Belediyespor (Turkey)
+  id:13401  Sarayönü Belediyespor (Turkey)
+  id:13402  Sarıkamış Belediyespor (Turkey)
+  id:13404  Yapraklı Belediyespor (Turkey)
+  id:13414  Zara Belediyespor (Turkey)
+  id:13419  Beyköy Belediyespor (Turkey)
+  id:13425  Sorgun Belediyespor (Turkey)
+  id:13429  Armutlu Belediyespor (Turkey)
+!! Belediyespor: Ambiguous team name "Belediyespor".
 
 TABLE FOR Boluspor
 LEAGUE TABLE 1. Lig 2026 | 20 teams | 101 games played
@@ -55,7 +108,7 @@ League averages per game: home 1.40, away 1.22, total 2.61
 19  İstanbulspor             5 |  4   4-6       |  6   5-18      | 10   9-24
 20  Boluspor                 1 |  5   2-9       |  4   1-12      |  9   3-21
 
-(14 API-Football requests used)
+(15 API-Football requests used)
 
 ----------------------------------------------------------------------
 MATCHBOOK: skipped (switched off for this run)
