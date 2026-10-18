@@ -1,0 +1,62 @@
+MATCH FK Riga v Super Nova | fetched 2026-10-18 12:28 local
+
+FORM DATA FK Riga v Super Nova | source API-Football | 2026-10-18 12:28 UTC
+H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
+
+=== SFK Rīga W (id 19051): last 6 finished games ===
+2024-09-07 H 0-0 v Flora W | UEFA Champions League Women | Budapest [PEN, 90-min score shown]
+2024-09-04 A 0-5 v Vorskla Poltava W | UEFA Champions League Women | Budapest
+2023-09-09 A 0-4 v SL Benfica W | UEFA Champions League Women | Seixal
+2023-09-06 A 1-0 v BIIK Kazygurt W | UEFA Champions League Women | Seixal
+2022-08-21 A 1-1 v KÍ | UEFA Champions League Women | Lefkosía [AET, 90-min score shown]
+2022-08-18 A 0-3 v Apollon Limassol W | UEFA Champions League Women | Lefkosía
+Listed home: 1 games, scored 0 (0.00), conceded 0 (0.00), blanks 1, clean sheets 1
+Listed away: 5 games, scored 2 (0.40), conceded 13 (2.60), blanks 3, clean sheets 1
+All: 6 games, scored 2 (0.33), conceded 13 (2.17), blanks 4, clean sheets 2
+
+=== Super Nova (id 4143): last 20 finished games ===
+2026-10-15 A 0-4 v Rīgas FS | Virsliga | Riga
+2026-10-10 H 2-1 v Grobiņa | Virsliga | Riga | xG 1.57-2.45
+2026-09-20 A 0-1 v Ogre United | Virsliga | Ogre
+2026-09-15 H 0-1 v Riga | Virsliga | Riga
+2026-09-10 H 1-0 v Tukums | Virsliga | Riga
+2026-09-05 A 1-0 v FS Jelgava | Virsliga | Jelgava
+2026-08-29 A 1-1 v Auda | Virsliga | Riga
+2026-08-22 H 0-0 v BFC Daugavpils | Virsliga | Riga
+2026-08-16 H 0-1 v Rīgas FS | Cup | Riga
+2026-08-09 H 1-2 v FK Liepaja | Virsliga | Riga
+2026-07-20 H 2-0 v Grobiņa | Virsliga | Riga
+2026-07-11 A 2-1 v Tukums | Cup | Tukums
+2026-07-06 H 1-2 v Ogre United | Virsliga | Riga
+2026-07-01 A 2-1 v Tukums | Virsliga | Tukums
+2026-06-25 H 1-5 v FS Jelgava | Virsliga | Riga
+2026-06-21 H 0-2 v Auda | Virsliga | Riga
+2026-06-16 A 0-0 v BFC Daugavpils | Virsliga | Daugavpils
+2026-06-12 A 1-2 v FK Liepaja | Virsliga | ?
+2026-05-29 H 1-2 v Rīgas FS | Virsliga | Riga
+2026-05-24 A 0-3 v Riga | Virsliga | Riga
+Listed home: 11 games, scored 9 (0.82), conceded 16 (1.45), blanks 4, clean sheets 3
+Listed away: 9 games, scored 7 (0.78), conceded 13 (1.44), blanks 4, clean sheets 2
+All: 20 games, scored 16 (0.80), conceded 29 (1.45), blanks 8, clean sheets 5
+
+(no league table available for SFK Rīga W: tried UEFA Champions League Women 2024, UEFA Champions League Women 2023, UEFA Champions League Women 2022)
+
+TABLE FOR Super Nova
+LEAGUE TABLE Virsliga 2026 | 10 teams | 161 games played
+League averages per game: home 1.63, away 1.27, total 2.89
+#   team                   Pts | home P GF-GA  | away P GF-GA  | all P GF-GA
+1   Rīgas FS                80 | 16  50-14      | 16  29-10      | 32  79-24
+2   Riga                    76 | 16  46-14      | 16  42-16      | 32  88-30
+3   Auda                    64 | 17  29-16      | 15  23-16      | 32  52-32
+4   FK Liepaja              43 | 15  28-17      | 17  15-29      | 32  43-46
+5   BFC Daugavpils          42 | 16  18-13      | 16  19-23      | 32  37-36
+6   Super Nova              38 | 16  17-26      | 16  14-19      | 32  31-45
+7   FS Jelgava              32 | 16  13-25      | 16  21-28      | 32  34-53
+8   Grobiņa                 29 | 16  15-21      | 17  10-35      | 33  25-56
+9   Tukums                  24 | 17  28-26      | 15  16-37      | 32  44-63
+10  Ogre United             18 | 16  18-32      | 17  15-49      | 33  33-81
+
+(24 API-Football requests used)
+
+----------------------------------------------------------------------
+MATCHBOOK: skipped (switched off for this run)

@@ -1,0 +1,98 @@
+MATCH Celtic v Hearts | fetched 2026-10-18 12:28 local
+
+FORM DATA Celtic v Hearts | source API-Football | 2026-10-18 12:28 UTC
+H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
+
+=== Celtic (id 247): last 20 finished games ===
+2026-10-15 A 1-4 v Benfica | UEFA Europa League | Lisbon | xG 1.38-3.22
+2026-10-11 A 2-0 v Motherwell | Premiership | Motherwell | xG 2.88-1.09
+2026-09-20 H 0-1 v Rangers | Premiership | Glasgow | xG 0.71-1.23
+2026-09-17 H 1-3 v Ferencvarosi TC | UEFA Europa League | Glasgow
+2026-09-13 A 0-3 v Rangers | League Cup | Glasgow
+2026-09-09 A 1-0 v ST Johnstone | Premiership | Perth | xG 2.22-0.77
+2026-09-05 A 2-1 v ST Mirren | Premiership | Paisley | xG 2.93-1.74
+2026-09-02 H 3-0 v Aberdeen | Premiership | Glasgow | xG 2.47-0.66
+2026-08-29 H 2-1 v Falkirk | Premiership | Glasgow | xG 2.87-0.53
+2026-08-25 A 1-4 v Lask Linz | UEFA Champions League | Linz [AET, 90-min score shown]
+2026-08-19 H 3-0 v Lask Linz | UEFA Champions League | Glasgow
+2026-08-15 A 4-0 v Dundee Utd | League Cup | Dundee
+2026-08-09 A 5-1 v Kilmarnock | Premiership | Kilmarnock
+2026-08-03 H 1-0 v Dundee | Premiership | Glasgow
+2026-07-25 H 2-2 v AC Milan | Friendlies Clubs | Glasgow
+2026-07-18 H 1-1 v Middlesbrough | Friendlies Clubs | ?
+2026-07-14 A 1-4 v Sporting CP | Friendlies Clubs | ?
+2026-07-07 A 1-1 v Shelbourne | Friendlies Clubs | ?
+2026-05-23 H 3-1 v Dunfermline | FA Cup | Glasgow
+2026-05-16 H 3-1 v Heart Of Midlothian | Premiership | Glasgow
+Listed home: 10 games, scored 19 (1.90), conceded 10 (1.00), blanks 1, clean sheets 3
+Listed away: 10 games, scored 18 (1.80), conceded 18 (1.80), blanks 1, clean sheets 3
+All: 20 games, scored 37 (1.85), conceded 28 (1.40), blanks 2, clean sheets 6
+
+"Hearts" matches several teams. Use id:<number> instead of the name:
+  id:6771   Hearts U21 (Scotland)
+  id:6773   Kelty Hearts (Scotland)
+  id:12249  Hearts of Oak (Ghana)
+  id:13973  Darwin Hearts (Australia)
+  id:19799  Tower Hearts (Scotland)
+  id:22023  Cupar Hearts (Scotland)
+  id:23295  Hearts W (Scotland)
+  id:24273  Northern Hearts (New-Zealand)
+  id:25486  Portland Hearts of Pine (USA)
+(retrying Hearts using the opponent's country, Scotland)
+"Hearts" matches several teams. Use id:<number> instead of the name:
+  id:6771   Hearts U21 (Scotland)
+  id:6773   Kelty Hearts (Scotland)
+  id:12249  Hearts of Oak (Ghana)
+  id:13973  Darwin Hearts (Australia)
+  id:19799  Tower Hearts (Scotland)
+  id:22023  Cupar Hearts (Scotland)
+  id:23295  Hearts W (Scotland)
+  id:24273  Northern Hearts (New-Zealand)
+  id:25486  Portland Hearts of Pine (USA)
+!! Hearts: Ambiguous team name "Hearts".
+
+TABLE FOR Celtic
+LEAGUE TABLE UEFA Europa League 2026 | 36 teams | 36 games played
+League averages per game: home 1.47, away 1.39, total 2.86
+#   team                   Pts | home P GF-GA  | away P GF-GA  | all P GF-GA
+1   Juventus                 6 |  1   5-0       |  1   2-1       |  2   7-1
+2   Bayer Leverkusen         6 |  1   2-0       |  1   4-0       |  2   6-0
+3   Benfica                  6 |  1   4-1       |  1   2-0       |  2   6-1
+4   Beşiktaş                 6 |  1   4-1       |  1   3-2       |  2   7-3
+5   Bournemouth              6 |  1   3-0       |  1   2-1       |  2   5-1
+6   Omonia Nicosia           6 |  1   1-0       |  1   3-0       |  2   4-0
+7   Ferencvarosi TC          6 |  1   2-1       |  1   3-1       |  2   5-2
+8   Lyon                     6 |  1   3-2       |  1   2-1       |  2   5-3
+9   Sunderland               6 |  1   1-0       |  1   2-1       |  2   3-1
+10  Olympiakos Piraeus       6 |  1   2-1       |  1   1-0       |  2   3-1
+11  Sparta Praha             4 |  1   1-1       |  1   4-1       |  2   5-2
+12  Union St. Gilloise       4 |  1   1-1       |  1   3-0       |  2   4-1
+13  Rennes                   4 |  1   2-1       |  1   0-0       |  2   2-1
+14  Dinamo Zagreb            4 |  1   1-0       |  1   0-0       |  2   1-0
+15  Crystal Palace           3 |  1   4-0       |  1   2-3       |  2   6-3
+16  AC Milan                 3 |  1   0-2       |  1   4-0       |  2   4-2
+17  Jagiellonia              3 |  1   3-1       |  1   1-2       |  2   4-3
+18  OFI                      3 |  1   2-0       |  1   1-2       |  2   3-2
+19  Torreense                3 |  1   1-2       |  1   2-1       |  2   3-3
+20  AZ Alkmaar               3 |  1   2-1       |  1   0-1       |  2   2-2
+21  Red Bull Salzburg        3 |  1   0-4       |  1   1-0       |  2   1-4
+22  Real Sociedad            1 |  1   1-2       |  1   1-1       |  2   2-3
+23  Lillestrom               1 |  1   1-2       |  1   1-1       |  2   2-3
+24  Levski Sofia             1 |  1   0-1       |  1   1-1       |  2   1-2
+25  Hapoel Beer Sheva        1 |  1   0-0       |  1   1-2       |  2   1-2
+26  Sturm Graz               1 |  1   0-0       |  1   0-3       |  2   0-3
+27  NEC Nijmegen             1 |  1   1-1       |  1   0-5       |  2   1-6
+28  Celta Vigo               0 |  1   1-2       |  1   0-1       |  2   1-3
+29  Anderlecht               0 |  1   1-2       |  1   0-1       |  2   1-3
+30  1899 Hoffenheim          0 |  1   2-3       |  1   0-2       |  2   2-5
+31  Plzen                    0 |  1   0-3       |  1   1-2       |  2   1-5
+32  Marseille                0 |  1   0-1       |  1   1-4       |  2   1-5
+33  Celtic                   0 |  1   1-3       |  1   1-4       |  2   2-7
+34  Ararat-Armenia           0 |  1   1-4       |  1   1-3       |  2   2-7
+35  Celje                    0 |  1   0-3       |  1   0-2       |  2   0-5
+36  Lech Poznan              0 |  1   0-4       |  1   0-4       |  2   0-8
+
+(14 API-Football requests used)
+
+----------------------------------------------------------------------
+MATCHBOOK: skipped (switched off for this run)

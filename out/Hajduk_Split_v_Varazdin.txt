@@ -1,0 +1,21 @@
+MATCH Hajduk Split v Varazdin | fetched 2026-10-18 12:28 local
+
+FORM DATA Hajduk Split v Varazdin | source API-Football | 2026-10-18 12:28 UTC
+H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
+
+"Hajduk Split" matches several teams. Use id:<number> instead of the name:
+  id:608    HNK Hajduk Split (Croatia)
+  id:1482   HNK Hajduk Split II (Croatia)
+  id:17697  Hajduk Split U19 (Croatia)
+  id:27869  Hajduk Split W (Croatia)
+"Varazdin" matches several teams. Use id:<number> instead of the name:
+  id:1483   NK Varazdin (Croatia)
+  id:8599   Varteks Varaždin (Croatia)
+!! Hajduk Split: Ambiguous team name "Hajduk Split".
+
+!! Varazdin: Ambiguous team name "Varazdin".
+
+(2 API-Football requests used)
+
+----------------------------------------------------------------------
+MATCHBOOK: skipped (switched off for this run)

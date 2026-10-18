@@ -1,5 +1,21 @@
-RUN 2026-10-18 11:45 local | 3 match(es)
-id:2177 v FC Zurich -> out/id_2177_v_FC_Zurich.txt
-Kocaelispor v id:994 -> out/Kocaelispor_v_id_994.txt
-Bayer Leverkusen v id:160 -> out/Bayer_Leverkusen_v_id_160.txt
-Requests used: API-Football 77, Matchbook 0
+RUN 2026-10-18 12:28 local | 11 match(es)
+Kuressaare v FCI Levadia -> out/Kuressaare_v_FCI_Levadia.txt
+Newcastle W v Sunderland W -> out/Newcastle_W_v_Sunderland_W.txt
+    !! Newcastle W: No team found for "Newcastle W".
+Hajduk Split v Varazdin -> out/Hajduk_Split_v_Varazdin.txt
+    !! Hajduk Split: Ambiguous team name "Hajduk Split".
+    !! Varazdin: Ambiguous team name "Varazdin".
+Albion v Montevideo City Torque -> out/Albion_v_Montevideo_City_Torque.txt
+    !! Albion: Ambiguous team name "Albion".
+    !! Montevideo City Torque: No team found for "Montevideo City Torque".
+Banik Ostrava v Sparta Praha -> out/Banik_Ostrava_v_Sparta_Praha.txt
+    !! Banik Ostrava: Ambiguous team name "Banik Ostrava".
+FK Riga v Super Nova -> out/FK_Riga_v_Super_Nova.txt
+Fatima v Academico Viseu -> out/Fatima_v_Academico_Viseu.txt
+Crvena Zvezda v Mladost Lucani -> out/Crvena_Zvezda_v_Mladost_Lucani.txt
+    !! Crvena Zvezda: Ambiguous team name "Crvena Zvezda".
+Panetolikos v Olympiakos Piraeus -> out/Panetolikos_v_Olympiakos_Piraeus.txt
+Celtic v Hearts -> out/Celtic_v_Hearts.txt
+    !! Hearts: Ambiguous team name "Hearts".
+Celta Vigo v Alaves -> out/Celta_Vigo_v_Alaves.txt
+Requests used: API-Football 188, Matchbook 0

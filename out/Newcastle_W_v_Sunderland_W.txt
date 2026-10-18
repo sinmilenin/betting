@@ -1,0 +1,53 @@
+MATCH Newcastle W v Sunderland W | fetched 2026-10-18 12:28 local
+
+FORM DATA Newcastle W v Sunderland W | source API-Football | 2026-10-18 12:28 UTC
+H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
+
+=== Sunderland W (id 1848): last 20 finished games ===
+2026-10-04 H 3-1 v Leicester City FC W | Women's Championship | Sunderland
+2026-09-27 A 2-1 v Watford W | Women's Championship | Watford
+2026-09-23 A 2-4 v Liverpool W | WSL Cup | St Helens
+2026-09-20 H 0-0 v Southampton W | Women's Championship | Sunderland
+2026-09-13 A 2-1 v Burnley W | Women's Championship | Burnley
+2026-09-06 H 4-1 v Bristol City W | Women's Championship | Sunderland
+2026-05-02 A 1-2 v Ipswich Town W | Women's Championship | Colchester
+2026-04-26 H 1-2 v Crystal Palace W | Women's Championship | Sunderland
+2026-04-01 A 0-1 v Birmingham City W | Women's Championship | Birmingham
+2026-03-29 H 1-1 v Newcastle United W | Women's Championship | Sunderland
+2026-03-22 A 1-0 v Portsmouth W | Women's Championship | Portsmouth
+2026-03-18 H 2-2 v Sheffield United W | Women's Championship | Sunderland
+2026-03-15 A 0-1 v Charlton Athletic W | Women's Championship | London
+2026-03-11 H 1-1 v Nottingham Forest W | Women's Championship | Sunderland
+2026-02-20 A 3-2 v Durham W | Women's Championship | Durham
+2026-01-31 A 0-3 v Bristol City W | Women's Championship | Bristol
+2026-01-25 H 1-0 v Southampton W | Women's Championship | Sunderland
+2026-01-17 H 0-1 v London City Lionesses W | FA Women's Cup | Sunderland
+2025-12-21 H 2-1 v Ipswich Town W | Women's Championship | Sunderland
+2025-12-14 A 5-1 v Derby County W | FA Women's Cup | Derby
+Listed home: 10 games, scored 15 (1.50), conceded 10 (1.00), blanks 2, clean sheets 2
+Listed away: 10 games, scored 16 (1.60), conceded 16 (1.60), blanks 3, clean sheets 1
+All: 20 games, scored 31 (1.55), conceded 26 (1.30), blanks 5, clean sheets 3
+
+!! Newcastle W: No team found for "Newcastle W".
+
+TABLE FOR Sunderland W
+LEAGUE TABLE Women's Championship 2026 | 12 teams | 30 games played
+League averages per game: home 1.67, away 1.23, total 2.90
+#   team                   Pts | home P GF-GA  | away P GF-GA  | all P GF-GA
+1   Newcastle United W      15 |  3  10-1       |  2   4-0       |  5  14-1
+2   Sunderland W            13 |  3   7-2       |  2   4-2       |  5  11-4
+3   Ipswich Town W          11 |  2   4-2       |  3   3-1       |  5   7-3
+4   Nottingham Forest W      9 |  2   4-2       |  3   4-3       |  5   8-5
+5   Wolverhampton W          7 |  3   8-3       |  2   1-5       |  5   9-8
+6   Bristol City W           7 |  2   2-2       |  3   6-5       |  5   8-7
+7   Southampton W            6 |  2   1-1       |  3   4-3       |  5   5-4
+8   Leicester City FC W      6 |  2   4-3       |  3   2-7       |  5   6-10
+9   Sheffield United W       3 |  3   5-4       |  2   2-7       |  5   7-11
+10  Watford W                3 |  3   2-7       |  2   4-4       |  5   6-11
+11  Burnley W                2 |  2   1-2       |  3   0-5       |  5   1-7
+12  Durham W                 0 |  3   2-8       |  2   3-8       |  5   5-16
+
+(14 API-Football requests used)
+
+----------------------------------------------------------------------
+MATCHBOOK: skipped (switched off for this run)
