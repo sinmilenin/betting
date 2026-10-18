@@ -1,4 +1,12 @@
-# Scan 18.10 13:41: run 2 (ids for ambiguous names)
-id:2177 v FC Zurich | n=20 | xg=10
-Kocaelispor v id:994 | n=20 | xg=10
-Bayer Leverkusen v id:160 | n=20 | xg=10
+# Scan 18.10 14:26: run 1 (new fixtures)
+Kuressaare v FCI Levadia | n=20 | xg=10
+Newcastle W v Sunderland W | n=20 | xg=10
+Hajduk Split v Varazdin | n=20 | xg=10
+Albion v Montevideo City Torque | n=20 | xg=10
+Banik Ostrava v Sparta Praha | n=20 | xg=10
+FK Riga v Super Nova | n=20 | xg=10
+Fatima v Academico Viseu | n=20 | xg=10
+Crvena Zvezda v Mladost Lucani | n=20 | xg=10
+Panetolikos v Olympiakos Piraeus | n=20 | xg=10
+Celtic v Hearts | n=20 | xg=10
+Celta Vigo v Alaves | n=20 | xg=10
