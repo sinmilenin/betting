@@ -1,3 +1,3 @@
-RUN 2026-10-18 06:30 local | 1 match(es)
-Shaanxi Union v id:23269 -> out/Shaanxi_Union_v_id_23269.txt
-Requests used: API-Football 25, Matchbook 0
+RUN 2026-10-18 07:12 local | 1 match(es)
+FC Seoul v Gimcheon Sangmu -> out/FC_Seoul_v_Gimcheon_Sangmu.txt
+Requests used: API-Football 26, Matchbook 0
