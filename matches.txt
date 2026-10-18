@@ -1,2 +1,8 @@
-# Scan 18.10 17:27: run 3 (Flora Tallinn)
-Flora Tallinn v Tammeka | n=20 | xg=10
+# Scan 18.10 18:12: run 1
+Sint Truiden v Lommel | n=20 | xg=10
+Hapoel Beer Sheva v Hapoel Jerusalem | n=20 | xg=10
+Sampdoria v Arezzo | n=20 | xg=10
+Twente v Utrecht | n=20 | xg=10
+Universitatea Craiova v Farul Constanta | n=20 | xg=10
+PAOK v Iraklis | n=20 | xg=10
+NEC Nijmegen v Fortuna Sittard | n=20 | xg=10
