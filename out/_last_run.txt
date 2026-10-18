@@ -1,9 +1,5 @@
-RUN 2026-10-18 06:27 local | 4 match(es)
-FC Machida v Fukuoka -> out/FC_Machida_v_Fukuoka.txt
-    !! FC Machida: No team found for "FC Machida".
-    !! Fukuoka: Ambiguous team name "Fukuoka".
-Pohang Steelers v FC Anyang -> out/Pohang_Steelers_v_FC_Anyang.txt
-Gangwon v Incheon United -> out/Gangwon_v_Incheon_United.txt
-Shaanxi Union v Guangdong GZ-Power -> out/Shaanxi_Union_v_Guangdong_GZ_Power.txt
-    !! Guangdong GZ-Power: API-Football error: {"search": "The Search field may only contain alpha-numeric characters and spaces."}
-Requests used: API-Football 67, Matchbook 0
+RUN 2026-10-18 06:28 local | 2 match(es)
+Machida Zelvia v id:316 -> out/Machida_Zelvia_v_id_316.txt
+Shaanxi Union v Guangzhou E-Power -> out/Shaanxi_Union_v_Guangzhou_E_Power.txt
+    !! Guangzhou E-Power: API-Football error: {"search": "The Search field may only contain alpha-numeric characters and spaces."}
+Requests used: API-Football 41, Matchbook 0
