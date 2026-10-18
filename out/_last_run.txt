@@ -1,22 +1,5 @@
-RUN 2026-10-18 11:43 local | 17 match(es)
-Nesebar v CSKA Sofia -> out/Nesebar_v_CSKA_Sofia.txt
-SonderjyskE v Silkeborg -> out/SonderjyskE_v_Silkeborg.txt
-Brentford U21 v Fulham U21 -> out/Brentford_U21_v_Fulham_U21.txt
-Lyngby v FC Nordsjaelland -> out/Lyngby_v_FC_Nordsjaelland.txt
-Persib Bandung v Persik Kediri -> out/Persib_Bandung_v_Persik_Kediri.txt
-Egersund v Sogndal -> out/Egersund_v_Sogndal.txt
-Kalamata v OFI -> out/Kalamata_v_OFI.txt
-Aarau v FC Zurich -> out/Aarau_v_FC_Zurich.txt
-    !! Aarau: Ambiguous team name "Aarau".
-Juve Stabia v Sudtirol -> out/Juve_Stabia_v_Sudtirol.txt
-Fiorentina v Como -> out/Fiorentina_v_Como.txt
-Angers v Marseille -> out/Angers_v_Marseille.txt
-Brighton v Crystal Palace -> out/Brighton_v_Crystal_Palace.txt
-Leeds v Manchester United -> out/Leeds_v_Manchester_United.txt
-Bournemouth v Sunderland -> out/Bournemouth_v_Sunderland.txt
-Kocaelispor v Goztepe -> out/Kocaelispor_v_Goztepe.txt
-    !! Goztepe: Ambiguous team name "Goztepe".
-Manchester City W v Brighton W -> out/Manchester_City_W_v_Brighton_W.txt
-Bayer Leverkusen v Freiburg -> out/Bayer_Leverkusen_v_Freiburg.txt
-    !! Freiburg: Ambiguous team name "Freiburg".
-Requests used: API-Football 399, Matchbook 0
+RUN 2026-10-18 11:45 local | 3 match(es)
+id:2177 v FC Zurich -> out/id_2177_v_FC_Zurich.txt
+Kocaelispor v id:994 -> out/Kocaelispor_v_id_994.txt
+Bayer Leverkusen v id:160 -> out/Bayer_Leverkusen_v_id_160.txt
+Requests used: API-Football 77, Matchbook 0

@@ -1,11 +1,33 @@
-MATCH Aarau v FC Zurich | fetched 2026-10-18 11:43 local
+MATCH id:2177 v FC Zurich | fetched 2026-10-18 11:45 local
 
-FORM DATA Aarau v FC Zurich | source API-Football | 2026-10-18 11:44 UTC
+FORM DATA id:2177 v FC Zurich | source API-Football | 2026-10-18 11:45 UTC
 H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
 
-"Aarau" matches several teams. Use id:<number> instead of the name:
-  id:2177   FC Aarau (Switzerland)
-  id:17365  Aarau W (Switzerland)
+=== FC Aarau (id 2177): last 20 finished games ===
+2026-10-09 A 1-2 v Stade Nyonnais | Challenge League | Nyon
+2026-10-02 H 1-2 v BSC Young Boys | Friendlies Clubs | ?
+2026-09-24 A 1-4 v Grasshoppers | Friendlies Clubs | ?
+2026-09-18 A 1-2 v FC Winterthur | Challenge League | Winterthur
+2026-09-12 H 2-2 v SC Kriens | Challenge League | Aarau
+2026-09-04 H 3-2 v Rapperswil | Challenge League | Aarau
+2026-08-31 A 2-2 v FC WIL 1900 | Challenge League | Wil
+2026-08-28 H 2-1 v Neuchatel Xamax FC | Challenge League | Aarau
+2026-08-23 A 1-2 v Yverdon Sport | Challenge League | Yverdon-les-Bains
+2026-08-16 A 2-2 v Biel-Bienne | Schweizer Cup | ? [PEN, 90-min score shown]
+2026-08-07 H 2-1 v Stade Nyonnais | Challenge League | Aarau
+2026-08-01 H 1-1 v Stade Lausanne-Ouchy | Challenge League | Aarau
+2026-07-24 A 0-3 v Étoile Carouge | Challenge League | Carouge
+2026-07-18 H 2-1 v Union Berlin | Friendlies Clubs | ?
+2026-07-10 A 0-1 v Austria Lustenau | Friendlies Clubs | ?
+2026-06-30 H 1-3 v St. Gallen II | Friendlies Clubs | ?
+2026-05-21 A 1-1 v Grasshoppers | Super League | Zurich [AET, 90-min score shown]
+2026-05-18 H 0-0 v Grasshoppers | Super League | Aarau
+2026-05-15 H 2-2 v Yverdon Sport | Challenge League | Aarau
+2026-05-11 A 2-1 v FC Vaduz | Challenge League | Vaduz
+Listed home: 10 games, scored 16 (1.60), conceded 15 (1.50), blanks 1, clean sheets 1
+Listed away: 10 games, scored 11 (1.10), conceded 20 (2.00), blanks 2, clean sheets 0
+All: 20 games, scored 27 (1.35), conceded 35 (1.75), blanks 3, clean sheets 1
+
 === FC Zurich (id 783): last 20 finished games ===
 2026-10-10 H 4-2 v FC Thun | Super League | Zurich | xG 0.94-1.46
 2026-09-25 H 3-1 v Neuchatel Xamax FC | Friendlies Clubs | ?
@@ -31,11 +53,20 @@ Listed home: 12 games, scored 23 (1.92), conceded 25 (2.08), blanks 1, clean she
 Listed away: 8 games, scored 15 (1.88), conceded 18 (2.25), blanks 2, clean sheets 0
 All: 20 games, scored 38 (1.90), conceded 43 (2.15), blanks 3, clean sheets 0
 
-(retrying Aarau using the opponent's country, Switzerland)
-"Aarau" matches several teams. Use id:<number> instead of the name:
-  id:2177   FC Aarau (Switzerland)
-  id:17365  Aarau W (Switzerland)
-!! Aarau: Ambiguous team name "Aarau".
+TABLE FOR FC Aarau
+LEAGUE TABLE Challenge League 2026 | 10 teams | 50 games played
+League averages per game: home 1.76, away 1.22, total 2.98
+#   team                   Pts | home P GF-GA  | away P GF-GA  | all P GF-GA
+1   Stade Lausanne-Ouchy    24 |  4  11-0       |  6   9-3       | 10  20-3
+2   Yverdon Sport           19 |  5   8-4       |  5   8-5       | 10  16-9
+3   FC Winterthur           18 |  5  14-4       |  5   5-7       | 10  19-11
+4   SC Kriens               15 |  6  10-6       |  4   7-6       | 10  17-12
+5   Neuchatel Xamax FC      15 |  5   8-9       |  5   7-8       | 10  15-17
+6   FC Aarau                12 |  5  10-7       |  5   5-11      | 10  15-18
+7   Rapperswil              10 |  5   7-11      |  5   8-8       | 10  15-19
+8   FC WIL 1900             10 |  4   8-6       |  6   8-16      | 10  16-22
+9   Étoile Carouge           9 |  6   6-6       |  4   2-8       | 10   8-14
+10  Stade Nyonnais           5 |  5   6-8       |  5   2-16      | 10   8-24
 
 TABLE FOR FC Zurich
 LEAGUE TABLE Super League 2026 | 12 teams | 60 games played
@@ -54,7 +85,7 @@ League averages per game: home 1.95, away 1.85, total 3.80
 11  Grasshoppers             8 |  5   7-13      |  5   6-13      | 10  13-26
 12  Lausanne                 6 |  5   5-11      |  5   2-5       | 10   7-16
 
-(15 API-Football requests used)
+(26 API-Football requests used)
 
 ----------------------------------------------------------------------
 MATCHBOOK: skipped (switched off for this run)
