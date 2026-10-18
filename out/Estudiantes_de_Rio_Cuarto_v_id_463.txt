@@ -1,36 +1,59 @@
-MATCH Estudiantes L.P. v San Lorenzo | fetched 2026-10-18 19:13 local
+MATCH Estudiantes de Rio Cuarto v id:463 | fetched 2026-10-18 19:15 local
 
-FORM DATA Estudiantes L.P. v San Lorenzo | source API-Football | 2026-10-18 19:13 UTC
+FORM DATA Estudiantes de Rio Cuarto v id:463 | source API-Football | 2026-10-18 19:15 UTC
 H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
 
-=== San Lorenzo (id 460): last 20 finished games ===
-2026-10-11 H 1-0 v Deportivo Riestra | Liga Profesional Argentina | Buenos Aires | xG 1.43-1.40
-2026-10-03 A 0-3 v Defensa Y Justicia | Liga Profesional Argentina | Gobernador Julio A. Costa | xG 0.64-2.79
-2026-09-20 H 0-2 v Boca Juniors | Liga Profesional Argentina | Buenos Aires | xG 0.21-2.15
-2026-09-13 A 1-1 v Independiente | Liga Profesional Argentina | Avellaneda | xG 0.43-0.95
-2026-09-05 H 1-0 v Talleres Cordoba | Liga Profesional Argentina | Buenos Aires | xG 1.75-1.14
-2026-09-01 A 0-1 v Instituto Cordoba | Liga Profesional Argentina | Cordoba | xG 0.28-1.59
-2026-08-21 A 0-0 v Estudiantes de Rio Cuarto | Liga Profesional Argentina | Cordoba | xG 0.51-0.46
-2026-08-15 H 1-0 v Union Santa Fe | Liga Profesional Argentina | Buenos Aires | xG 1.08-0.19
-2026-08-09 H 0-2 v Huracan | Liga Profesional Argentina | Buenos Aires | xG 0.67-1.22
-2026-08-04 A 0-1 v Central Cordoba de Santiago | Liga Profesional Argentina | Santiago del Estero | xG 0.72-0.82
-2026-07-28 H 1-0 v Gimnasia M. | Liga Profesional Argentina | Buenos Aires
-2026-07-26 A 0-1 v Lanus | Liga Profesional Argentina | Buenos Aires
-2026-07-17 H 1-1 v Deportivo Riestra | Copa Argentina | Moron [PEN, 90-min score shown]
-2026-05-27 H 0-1 v Deportivo Recoleta | CONMEBOL Sudamericana | Buenos Aires
-2026-05-20 A 2-2 v Santos | CONMEBOL Sudamericana | Santos
-2026-05-10 A 1-1 v River Plate | Liga Profesional Argentina | Buenos Aires [PEN, 90-min score shown]
-2026-05-06 A 0-0 v Deportivo Cuenca | CONMEBOL Sudamericana | Cuenca
-2026-05-02 H 1-2 v Independiente | Liga Profesional Argentina | Buenos Aires
-2026-04-28 H 1-1 v Santos | CONMEBOL Sudamericana | Buenos Aires
-2026-04-25 A 1-0 v Platense | Liga Profesional Argentina | Buenos Aires
-Listed home: 10 games, scored 7 (0.70), conceded 9 (0.90), blanks 3, clean sheets 4
-Listed away: 10 games, scored 5 (0.50), conceded 10 (1.00), blanks 6, clean sheets 3
-All: 20 games, scored 12 (0.60), conceded 19 (0.95), blanks 9, clean sheets 7
+=== Estudiantes de Rio Cuarto (id 2424): last 20 finished games ===
+2026-10-11 A 0-1 v River Plate | Liga Profesional Argentina | Buenos Aires | xG 0.06-1.83
+2026-10-05 H 1-2 v Racing Club | Liga Profesional Argentina | Cordoba
+2026-09-20 A 1-2 v Belgrano Cordoba | Liga Profesional Argentina | Cordoba | xG 1.17-1.01
+2026-09-15 A 1-2 v Instituto Cordoba | Liga Profesional Argentina | Cordoba | xG 0.94-0.67
+2026-09-04 H 0-2 v Sarmiento Junin | Liga Profesional Argentina | Cordoba | xG 0.89-1.36
+2026-08-29 A 1-1 v Huracan | Liga Profesional Argentina | Buenos Aires | xG 0.95-1.58
+2026-08-21 H 0-0 v San Lorenzo | Liga Profesional Argentina | Cordoba | xG 0.46-0.51
+2026-08-17 H 0-1 v Atletico Tucuman | Liga Profesional Argentina | Cordoba | xG 0.31-0.34
+2026-08-08 A 1-2 v Independ. Rivadavia | Liga Profesional Argentina | Mendoza | xG 0.53-2.42
+2026-08-01 H 0-0 v Banfield | Liga Profesional Argentina | Cordoba | xG 0.45-1.12
+2026-07-29 A 0-3 v Argentinos JRS | Liga Profesional Argentina | Buenos Aires
+2026-07-25 H 1-0 v Tigre | Liga Profesional Argentina | Cordoba
+2026-05-05 H 0-2 v Instituto Cordoba | Liga Profesional Argentina | Cordoba
+2026-04-24 H 1-2 v Rosario Central | Liga Profesional Argentina | Cordoba
+2026-04-18 A 0-1 v Gimnasia L.P. | Liga Profesional Argentina | La Plata
+2026-04-12 H 1-2 v Barracas Central | Liga Profesional Argentina | Cordoba
+2026-04-07 H 0-0 v San Martin Tucuman | Copa Argentina | ? [PEN, 90-min score shown]
+2026-04-04 A 0-0 v Aldosivi | Liga Profesional Argentina | Mar del Plata
+2026-03-22 H 0-2 v River Plate | Liga Profesional Argentina | Cordoba
+2026-03-16 A 0-2 v Racing Club | Liga Profesional Argentina | Avellaneda
+Listed home: 11 games, scored 4 (0.36), conceded 13 (1.18), blanks 7, clean sheets 4
+Listed away: 9 games, scored 4 (0.44), conceded 14 (1.56), blanks 5, clean sheets 1
+All: 20 games, scored 8 (0.40), conceded 27 (1.35), blanks 12, clean sheets 5
 
-!! Estudiantes L.P.: API-Football error: {"search": "The Search field may only contain alpha-numeric characters and spaces."}
+=== Aldosivi (id 463): last 20 finished games ===
+2026-10-09 H 1-3 v Sarmiento Junin | Liga Profesional Argentina | Mar del Plata | xG 0.79-1.71
+2026-10-04 A 0-1 v Huracan | Liga Profesional Argentina | Buenos Aires | xG 0.81-1.51
+2026-09-21 H 1-0 v Atletico Tucuman | Liga Profesional Argentina | Mar del Plata | xG 1.04-0.67
+2026-09-12 A 3-4 v Independ. Rivadavia | Liga Profesional Argentina | Mendoza | xG 2.16-2.58
+2026-09-05 H 3-1 v Banfield | Liga Profesional Argentina | Mar del Plata | xG 0.93-1.72
+2026-08-30 A 1-2 v Argentinos JRS | Liga Profesional Argentina | Buenos Aires | xG 0.89-2.00
+2026-08-26 H 0-2 v Independ. Rivadavia | Copa Argentina | Buenos Aires
+2026-08-21 H 1-3 v Union Santa Fe | Liga Profesional Argentina | Mar del Plata | xG 0.36-1.54
+2026-08-15 H 0-0 v Tigre | Liga Profesional Argentina | Mar del Plata | xG 1.03-1.02
+2026-08-07 A 1-2 v Rosario Central | Liga Profesional Argentina | Rosario | xG 0.74-2.32
+2026-08-02 H 1-2 v Gimnasia L.P. | Liga Profesional Argentina | Mar del Plata
+2026-07-29 A 0-1 v Barracas Central | Liga Profesional Argentina | Barracas
+2026-07-24 A 1-1 v Defensa Y Justicia | Liga Profesional Argentina | Gobernador Julio A. Costa
+2026-07-18 A 3-1 v River Plate | Copa Argentina | Salta
+2026-05-03 H 1-1 v Independ. Rivadavia | Liga Profesional Argentina | Mar del Plata
+2026-04-26 A 1-3 v River Plate | Liga Profesional Argentina | Buenos Aires
+2026-04-19 H 1-1 v Racing Club | Liga Profesional Argentina | Mar del Plata
+2026-04-11 A 0-1 v Belgrano Cordoba | Liga Profesional Argentina | Cordoba
+2026-04-04 H 0-0 v Estudiantes de Rio Cuarto | Liga Profesional Argentina | Mar del Plata
+2026-03-31 H 0-2 v Argentinos JRS | Liga Profesional Argentina | Mar del Plata
+Listed home: 11 games, scored 9 (0.82), conceded 15 (1.36), blanks 4, clean sheets 3
+Listed away: 9 games, scored 10 (1.11), conceded 16 (1.78), blanks 3, clean sheets 0
+All: 20 games, scored 19 (0.95), conceded 31 (1.55), blanks 7, clean sheets 3
 
-TABLE FOR San Lorenzo
+TABLE FOR Estudiantes de Rio Cuarto
 LEAGUE TABLE Liga Profesional Argentina 2026 | 60 teams | 428 games played
 League averages per game: home 1.20, away 0.94, total 2.15
 #   team                   Pts | home P GF-GA  | away P GF-GA  | all P GF-GA
@@ -95,7 +118,9 @@ League averages per game: home 1.20, away 0.94, total 2.15
 14  Aldosivi                 8 |  6   7-9       |  6   6-11      | 12  13-20 [Clausura - Group B]
 15  Estudiantes de Rio Cua   6 |  6   2-5       |  6   4-11      | 12   6-16 [Clausura - Group B]
 
-(13 API-Football requests used)
+(Aldosivi: same table as Estudiantes de Rio Cuarto, shown above)
+
+(25 API-Football requests used)
 
 ----------------------------------------------------------------------
 MATCHBOOK: skipped (switched off for this run)

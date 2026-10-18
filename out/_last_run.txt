@@ -1,6 +1,4 @@
-RUN 2026-10-18 19:13 local | 3 match(es)
-Estudiantes Rio Cuarto v Aldosivi -> out/Estudiantes_Rio_Cuarto_v_Aldosivi.txt
-Estudiantes L.P. v San Lorenzo -> out/Estudiantes_L_P_v_San_Lorenzo.txt
-    !! Estudiantes L.P.: API-Football error: {"search": "The Search field may only contain alpha-numeric characters and spaces."}
-FC Cincinnati v Columbus Crew -> out/FC_Cincinnati_v_Columbus_Crew.txt
-Requests used: API-Football 64, Matchbook 0
+RUN 2026-10-18 19:15 local | 2 match(es)
+Estudiantes de Rio Cuarto v id:463 -> out/Estudiantes_de_Rio_Cuarto_v_id_463.txt
+id:450 v id:460 -> out/id_450_v_id_460.txt
+Requests used: API-Football 50, Matchbook 0
