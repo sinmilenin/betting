@@ -1,6 +1,10 @@
-# Scan 18.10 15:11: run 2 (ids for Orgryte, Hacken, Hammarby, Granada; Groningen name)
-id:2166 v GAIS | n=20 | xg=10
-Malmo FF v id:367 | n=20 | xg=10
-Halmstad v id:363 | n=20 | xg=10
-Groningen v Ajax | n=20 | xg=10
-id:715 v Cadiz | n=20 | xg=10
+# Scan 18.10 15:56: run 1
+Sandefjord v Lillestrom | n=20 | xg=10
+UTA Arad v CFR Cluj | n=20 | xg=10
+Cesena v Avellino | n=20 | xg=10
+Paris FC v Rennes | n=20 | xg=10
+Le Havre v Auxerre | n=20 | xg=10
+Lorient v Monaco | n=20 | xg=10
+Lech Poznan v Korona Kielce | n=20 | xg=10
+Nottingham Forest v Arsenal | n=20 | xg=10
+Borussia Monchengladbach v Hoffenheim | n=20 | xg=10
