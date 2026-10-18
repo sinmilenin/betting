@@ -1,5 +1,6 @@
-RUN 2026-10-18 18:28 local | 3 match(es)
-id:7865 v Criciuma -> out/id_7865_v_Criciuma.txt
-Nacional Potosi v id:3702 -> out/Nacional_Potosi_v_id_3702.txt
-id:3969 v id:482 -> out/id_3969_v_id_482.txt
-Requests used: API-Football 75, Matchbook 0
+RUN 2026-10-18 19:13 local | 3 match(es)
+Estudiantes Rio Cuarto v Aldosivi -> out/Estudiantes_Rio_Cuarto_v_Aldosivi.txt
+Estudiantes L.P. v San Lorenzo -> out/Estudiantes_L_P_v_San_Lorenzo.txt
+    !! Estudiantes L.P.: API-Football error: {"search": "The Search field may only contain alpha-numeric characters and spaces."}
+FC Cincinnati v Columbus Crew -> out/FC_Cincinnati_v_Columbus_Crew.txt
+Requests used: API-Football 64, Matchbook 0
