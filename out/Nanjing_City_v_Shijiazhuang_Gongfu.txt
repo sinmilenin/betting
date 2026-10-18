@@ -1,0 +1,57 @@
+MATCH Nanjing City v Shijiazhuang Gongfu | fetched 2026-10-18 10:57 local
+
+FORM DATA Nanjing City v Shijiazhuang Gongfu | source API-Football | 2026-10-18 10:57 UTC
+H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
+
+=== Nanjing City (id 16619): last 20 finished games ===
+2026-10-11 A 0-0 v Ningbo Professional | League One | Ningbo
+2026-10-07 H 1-4 v Shaanxi Union | League One | Nanjing
+2026-09-19 H 0-3 v Wuxi Wugou | League One | Nanjing
+2026-09-13 A 1-2 v Meizhou Kejia | League One | Meizhou
+2026-09-06 A 0-2 v Suzhou Dongwu | League One | Suzhou
+2026-08-29 H 0-2 v Guangxi Hengchen | League One | Nanjing
+2026-08-23 A 1-3 v Shenzhen Juniors | League One | Shenzhen
+2026-08-16 H 1-1 v Heilongjiang Lava Spring | League One | Nanjing
+2026-08-08 H 1-1 v Nantong Zhiyun | League One | Nanjing
+2026-08-01 A 1-1 v Yanbian Longding | League One | Yanji
+2026-07-25 A 1-2 v Changchun Yatai | League One | Changchun
+2026-07-18 H 0-1 v Guangzhou E-Power | League One | Nanjing
+2026-07-11 A 0-2 v Dalian Huayi | League One | Dalian
+2026-07-05 H 3-1 v Dongguan United | League One | Nanjing
+2026-06-27 A 1-2 v Hebei Kungfu | League One | Shijiazhuang
+2026-06-13 H 1-2 v Ningbo Professional | League One | Nanjing
+2026-05-29 A 1-0 v Shaanxi Union | League One | Weinan
+2026-05-23 A 1-1 v Wuxi Wugou | League One | Wuxi
+2026-05-15 A 0-1 v Qingdao Red Lions | FA Cup | Qingdao
+2026-05-09 H 2-0 v Meizhou Kejia | League One | Nanjing
+Listed home: 9 games, scored 9 (1.00), conceded 15 (1.67), blanks 3, clean sheets 1
+Listed away: 11 games, scored 7 (0.64), conceded 16 (1.45), blanks 4, clean sheets 2
+All: 20 games, scored 16 (0.80), conceded 31 (1.55), blanks 7, clean sheets 3
+
+!! Shijiazhuang Gongfu: No team found for "Shijiazhuang Gongfu".
+
+TABLE FOR Nanjing City
+LEAGUE TABLE League One 2026 | 16 teams | 214 games played
+League averages per game: home 1.43, away 1.25, total 2.68
+#   team                   Pts | home P GF-GA  | away P GF-GA  | all P GF-GA
+1   Guangzhou E-Power       60 | 13  26-9       | 14  29-17      | 27  55-26
+2   Nantong Zhiyun          48 | 13  22-8       | 13  13-12      | 26  35-20
+3   Guangxi Hengchen        47 | 14  26-17      | 13  17-13      | 27  43-30
+4   Shenzhen Juniors        46 | 14  20-15      | 13  22-16      | 27  42-31
+5   Shaanxi Union           45 | 14  32-9       | 13  19-19      | 27  51-28
+6   Yanbian Longding        39 | 14  22-12      | 13  17-17      | 27  39-29
+7   Hebei Kungfu            37 | 13  11-11      | 13  15-14      | 26  26-25
+8   Wuxi Wugou              36 | 13  16-16      | 14  25-17      | 27  41-33
+9   Changchun Yatai         32 | 13  22-19      | 14  19-25      | 27  41-44
+10  Ningbo Professional     31 | 14  18-20      | 13  10-12      | 27  28-32
+11  Dalian Huayi            31 | 13  21-16      | 14  11-23      | 27  32-39
+12  Suzhou Dongwu           28 | 14  14-19      | 13  17-20      | 27  31-39
+13  Heilongjiang Lava Spri  27 | 13  18-22      | 14  20-27      | 27  38-49
+14  Nanjing City            22 | 13  13-19      | 13   8-18      | 26  21-37
+15  Meizhou Kejia           16 | 13  16-32      | 13   9-21      | 26  25-53
+16  Dongguan United         16 | 13   9-24      | 14  17-35      | 27  26-59
+
+(14 API-Football requests used)
+
+----------------------------------------------------------------------
+MATCHBOOK: skipped (switched off for this run)

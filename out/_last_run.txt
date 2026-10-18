@@ -1,5 +1,12 @@
-RUN 2026-10-18 10:15 local | 3 match(es)
-Chelsea W v Tottenham Hotspur W -> out/Chelsea_W_v_Tottenham_Hotspur_W.txt
-United Nordic v Norrby -> out/United_Nordic_v_Norrby.txt
-Sirius v id:372 -> out/Sirius_v_id_372.txt
-Requests used: API-Football 75, Matchbook 0
+RUN 2026-10-18 10:57 local | 6 match(es)
+Nanjing City v Shijiazhuang Gongfu -> out/Nanjing_City_v_Shijiazhuang_Gongfu.txt
+    !! Shijiazhuang Gongfu: No team found for "Shijiazhuang Gongfu".
+Shanghai Port v Chengdu Rongcheng -> out/Shanghai_Port_v_Chengdu_Rongcheng.txt
+Sarpsborg 08 v Rosenborg -> out/Sarpsborg_08_v_Rosenborg.txt
+    !! Sarpsborg 08: Ambiguous team name "Sarpsborg 08".
+Red Bull Salzburg v Altach -> out/Red_Bull_Salzburg_v_Altach.txt
+    !! Altach: Ambiguous team name "Altach".
+Wolfsberger AC v WSG Tirol -> out/Wolfsberger_AC_v_WSG_Tirol.txt
+    !! WSG Tirol: No team found for "WSG Tirol".
+Cambuur v AZ Alkmaar -> out/Cambuur_v_AZ_Alkmaar.txt
+Requests used: API-Football 108, Matchbook 0
