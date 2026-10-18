@@ -1,0 +1,78 @@
+MATCH Odense v Brondby | fetched 2026-10-18 13:12 local
+
+FORM DATA Odense v Brondby | source API-Football | 2026-10-18 13:12 UTC
+H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
+
+=== Odense (id 405): last 20 finished games ===
+2026-10-09 A 0-0 v FC Nordsjaelland | Superliga | Farum | xG 0.50-2.16
+2026-10-02 A 4-5 v Kolding IF | Friendlies Clubs | ?
+2026-09-19 H 1-1 v FC Midtjylland | Superliga | Odense
+2026-09-13 A 2-1 v Randers FC | Superliga | Randers | xG 1.14-1.68
+2026-09-09 A 2-1 v Kolding IF | DBU Pokalen | Kolding
+2026-09-06 H 0-5 v FC Copenhagen | Superliga | Odense | xG 2.18-2.84
+2026-08-30 A 1-1 v Lyngby | Superliga | Kongens Lyngby | xG 1.88-1.97
+2026-08-26 A 2-1 v FC Fredericia | DBU Pokalen | ?
+2026-08-23 A 2-2 v Aarhus | Superliga | Aarhus | xG 0.81-1.88
+2026-08-16 H 1-2 v AC Horsens | Superliga | Odense | xG 1.37-1.58
+2026-08-10 A 0-1 v Silkeborg | Superliga | Silkeborg
+2026-08-03 H 1-0 v Sonderjyske | Superliga | Odense
+2026-07-24 A 0-1 v Viborg | Superliga | Viborg
+2026-07-17 A 1-4 v FC Midtjylland | Friendlies Clubs | ?
+2026-07-11 A 0-4 v Brondby | Friendlies Clubs | ?
+2026-07-04 H 2-0 v Hillerød | Friendlies Clubs | ?
+2026-06-29 H 2-1 v Kolding IF | Friendlies Clubs | ?
+2026-05-17 H 0-1 v Vejle | Superliga | Odense
+2026-05-11 A 2-2 v Randers FC | Superliga | Randers
+2026-05-03 H 2-3 v Silkeborg | Superliga | Odense
+Listed home: 8 games, scored 9 (1.12), conceded 13 (1.62), blanks 2, clean sheets 2
+Listed away: 12 games, scored 16 (1.33), conceded 23 (1.92), blanks 4, clean sheets 1
+All: 20 games, scored 25 (1.25), conceded 36 (1.80), blanks 6, clean sheets 3
+
+=== Brondby (id 407): last 20 finished games ===
+2026-10-11 H 5-2 v Lyngby | Superliga | Copenhagen | xG 2.38-0.77
+2026-10-02 H 1-1 v Sirius | Friendlies Clubs | ?
+2026-09-20 H 0-1 v FC Copenhagen | Superliga | Brondby | xG 0.71-2.27
+2026-09-17 A 2-1 v Vejle | DBU Pokalen | Vejle
+2026-09-14 A 1-4 v FC Midtjylland | Superliga | Herning | xG 0.80-1.16
+2026-09-06 H 0-3 v Randers FC | Superliga | Brondby | xG 1.19-0.85
+2026-08-30 A 1-3 v FC Nordsjaelland | Superliga | Farum | xG 1.76-3.32
+2026-08-24 H 3-1 v Silkeborg | Superliga | Brondby | xG 2.14-0.99
+2026-08-17 H 3-2 v Sonderjyske | Superliga | Brondby | xG 1.63-0.92
+2026-08-09 A 2-0 v AC Horsens | Superliga | Horsens | xG 0.54-0.45
+2026-08-02 H 1-0 v Viborg | Superliga | Brondby
+2026-07-25 A 1-1 v Aarhus | Superliga | Aarhus
+2026-07-18 A 1-2 v Hibernian | Friendlies Clubs | ?
+2026-07-11 H 4-0 v Odense | Friendlies Clubs | ?
+2026-07-04 H 3-3 v FC Nordsjaelland | Friendlies Clubs | ?
+2026-06-28 H 8-1 v Hvidovre | Friendlies Clubs | ?
+2026-05-21 H 1-1 v FC Copenhagen | Superliga | Brondby [AET, 90-min score shown]
+2026-05-17 A 3-2 v FC Midtjylland | Superliga | Herning
+2026-05-10 H 0-2 v Aarhus | Superliga | Brondby
+2026-05-01 H 1-1 v FC Nordsjaelland | Superliga | Brondby
+Listed home: 13 games, scored 30 (2.31), conceded 18 (1.38), blanks 3, clean sheets 2
+Listed away: 7 games, scored 11 (1.57), conceded 13 (1.86), blanks 0, clean sheets 1
+All: 20 games, scored 41 (2.05), conceded 31 (1.55), blanks 3, clean sheets 3
+
+TABLE FOR Odense
+LEAGUE TABLE Superliga 2026 | 12 teams | 61 games played
+League averages per game: home 1.56, away 1.41, total 2.97
+#   team                   Pts | home P GF-GA  | away P GF-GA  | all P GF-GA
+1   FC Copenhagen           24 |  4  10-3       |  6  14-7       | 10  24-10
+2   FC Midtjylland          22 |  5  11-5       |  5   8-5       | 10  19-10
+3   Viborg                  20 |  5  11-4       |  5   6-4       | 10  17-8
+4   FC Nordsjaelland        18 |  5   7-1       |  5   7-9       | 10  14-10
+5   Brondby                 16 |  6  12-9       |  4   5-8       | 10  17-17
+6   AC Horsens              13 |  6   7-9       |  5  11-10      | 11  18-19
+7   Silkeborg               11 |  5   7-8       |  5   8-7       | 10  15-15
+8   Randers FC              11 |  6   6-10      |  5   5-6       | 11  11-16
+9   Odense                  10 |  4   3-8       |  6   5-6       | 10   8-14
+10  Aarhus                   8 |  5   8-7       |  5   6-10      | 10  14-17
+11  Lyngby                   7 |  5   5-9       |  5   7-12      | 10  12-21
+12  Sonderjyske              5 |  5   8-13      |  5   4-11      | 10  12-24
+
+(Brondby: same table as Odense, shown above)
+
+(25 API-Football requests used)
+
+----------------------------------------------------------------------
+MATCHBOOK: skipped (switched off for this run)

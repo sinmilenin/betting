@@ -1,3 +1,16 @@
-RUN 2026-10-18 12:32 local | 1 match(es)
-id:2378 v id:2365 -> out/id_2378_v_id_2365.txt
-Requests used: API-Football 27, Matchbook 0
+RUN 2026-10-18 13:12 local | 10 match(es)
+Odense v Brondby -> out/Odense_v_Brondby.txt
+Granada v Cadiz -> out/Granada_v_Cadiz.txt
+Orgryte v GAIS -> out/Orgryte_v_GAIS.txt
+    !! Orgryte: Ambiguous team name "Orgryte".
+Panathinaikos v Asteras Tripolis -> out/Panathinaikos_v_Asteras_Tripolis.txt
+Malmo FF v Hacken -> out/Malmo_FF_v_Hacken.txt
+    !! Hacken: Ambiguous team name "Hacken".
+Halmstad v Hammarby -> out/Halmstad_v_Hammarby.txt
+    !! Hammarby: Ambiguous team name "Hammarby".
+FC Groningen v Ajax -> out/FC_Groningen_v_Ajax.txt
+    !! FC Groningen: No team found for "FC Groningen".
+MVV v Heracles -> out/MVV_v_Heracles.txt
+Molde v Start -> out/Molde_v_Start.txt
+Valerenga v Brann -> out/Valerenga_v_Brann.txt
+Requests used: API-Football 207, Matchbook 0
