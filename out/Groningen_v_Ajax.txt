@@ -1,7 +1,32 @@
-MATCH FC Groningen v Ajax | fetched 2026-10-18 13:12 local
+MATCH Groningen v Ajax | fetched 2026-10-18 13:14 local
 
-FORM DATA FC Groningen v Ajax | source API-Football | 2026-10-18 13:13 UTC
+FORM DATA Groningen v Ajax | source API-Football | 2026-10-18 13:14 UTC
 H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
+
+=== Groningen (id 202): last 20 finished games ===
+2026-10-11 A 5-1 v Excelsior | Eredivisie | Rotterdam | xG 2.75-1.77
+2026-09-18 H 3-0 v PEC Zwolle | Eredivisie | Groningen | xG 1.39-0.43
+2026-09-12 A 1-1 v GO Ahead Eagles | Eredivisie | Deventer | xG 0.16-2.23
+2026-09-06 H 2-2 v Twente | Eredivisie | Groningen | xG 1.48-2.30
+2026-08-28 H 2-3 v Fortuna Sittard | Eredivisie | Groningen | xG 1.60-0.88
+2026-08-23 A 1-5 v PSV Eindhoven | Eredivisie | Eindhoven | xG 1.09-4.40
+2026-08-16 A 4-1 v ADO Den Haag | Eredivisie | Den Haag | xG 3.20-1.01
+2026-08-09 H 2-1 v Utrecht | Eredivisie | Groningen | xG 1.55-2.27
+2026-08-01 H 1-0 v Valladolid | Friendlies Clubs | ?
+2026-07-25 H 0-0 v Volos NFC | Friendlies Clubs | ?
+2026-07-24 H 0-4 v FC Volendam | Friendlies Clubs | ?
+2026-07-18 H 1-2 v AEK Athens FC | Friendlies Clubs | ?
+2026-07-11 H 3-2 v Emmen | Friendlies Clubs | ?
+2026-07-08 A 1-2 v Heracles | Friendlies Clubs | ?
+2026-05-21 A 0-2 v Ajax | Eredivisie | Volendam
+2026-05-17 A 2-1 v Heracles | Eredivisie | Almelo
+2026-05-10 H 2-1 v NEC Nijmegen | Eredivisie | Groningen
+2026-05-02 H 2-3 v Excelsior | Eredivisie | Groningen
+2026-04-25 A 1-3 v Feyenoord | Eredivisie | Rotterdam
+2026-04-11 H 0-0 v GO Ahead Eagles | Eredivisie | Groningen
+Listed home: 12 games, scored 18 (1.50), conceded 18 (1.50), blanks 3, clean sheets 4
+Listed away: 8 games, scored 15 (1.88), conceded 16 (2.00), blanks 1, clean sheets 0
+All: 20 games, scored 33 (1.65), conceded 34 (1.70), blanks 4, clean sheets 4
 
 === Ajax (id 194): last 20 finished games ===
 2026-10-15 A 1-2 v HNK Hajduk Split | UEFA Europa Conference League | Split | xG 1.15-1.99
@@ -28,7 +53,28 @@ Listed home: 12 games, scored 28 (2.33), conceded 16 (1.33), blanks 0, clean she
 Listed away: 8 games, scored 25 (3.12), conceded 9 (1.12), blanks 0, clean sheets 2
 All: 20 games, scored 53 (2.65), conceded 25 (1.25), blanks 0, clean sheets 4
 
-!! FC Groningen: No team found for "FC Groningen".
+TABLE FOR Groningen
+LEAGUE TABLE Eredivisie 2026 | 18 teams | 76 games played
+League averages per game: home 1.78, away 2.01, total 3.79
+#   team                   Pts | home P GF-GA  | away P GF-GA  | all P GF-GA
+1   Feyenoord               23 |  4  11-4       |  5  20-6       |  9  31-10
+2   AZ Alkmaar              19 |  4   9-3       |  4   9-5       |  8  18-8
+3   PSV Eindhoven           19 |  4  13-4       |  5  14-8       |  9  27-12
+4   Twente                  17 |  4   9-3       |  4   7-5       |  8  16-8
+5   Ajax                    15 |  5  11-9       |  3  11-1       |  8  22-10
+6   Groningen               14 |  4   9-6       |  4  11-8       |  8  20-14
+7   Fortuna Sittard         14 |  4   5-9       |  4   9-6       |  8  14-15
+8   Heerenveen              12 |  5   7-5       |  4   8-6       |  9  15-11
+9   GO Ahead Eagles         11 |  4  11-6       |  4   8-11      |  8  19-17
+10  Excelsior               11 |  4   5-10      |  5  11-8       |  9  16-18
+11  NEC Nijmegen             9 |  4   5-8       |  4   8-6       |  8  13-14
+12  Sparta Rotterdam         9 |  5   8-12      |  4   8-10      |  9  16-22
+13  Cambuur                  8 |  4   6-13      |  4   5-6       |  8  11-19
+14  Utrecht                  8 |  4   8-14      |  4   6-11      |  8  14-25
+15  Telstar                  6 |  5   8-15      |  4   2-3       |  9  10-18
+16  ADO Den Haag             6 |  4   6-9       |  5   5-11      |  9  11-20
+17  PEC Zwolle               4 |  4   1-13      |  4   5-8       |  8   6-21
+18  Willem II                2 |  4   3-10      |  5   6-16      |  9   9-26
 
 TABLE FOR Ajax
 LEAGUE TABLE UEFA Europa Conference League 2026 | 36 teams | 18 games played
@@ -71,7 +117,7 @@ League averages per game: home 1.94, away 1.00, total 2.94
 35  SC Braga                 0 |  0   0-0       |  1   0-3       |  1   0-3
 36  Kauno Žalgiris           0 |  0   0-0       |  1   0-4       |  1   0-4
 
-(13 API-Football requests used)
+(26 API-Football requests used)
 
 ----------------------------------------------------------------------
 MATCHBOOK: skipped (switched off for this run)
