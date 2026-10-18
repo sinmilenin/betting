@@ -1,0 +1,97 @@
+MATCH Nottingham Forest v Arsenal | fetched 2026-10-18 13:58 local
+
+FORM DATA Nottingham Forest v Arsenal | source API-Football | 2026-10-18 13:58 UTC
+H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
+
+=== Nottingham Forest (id 65): last 20 finished games ===
+2026-10-11 A 1-3 v Crystal Palace | Premier League | London | xG 3.34-2.41
+2026-09-19 H 0-1 v Coventry | Premier League | Nottingham | xG 1.10-0.67
+2026-09-12 A 2-1 v Aston Villa | Premier League | Birmingham | xG 2.28-0.82
+2026-09-05 H 0-0 v Tottenham | Premier League | Nottingham | xG 0.92-1.06
+2026-08-29 A 2-2 v Liverpool | Premier League | Liverpool | xG 2.30-1.75
+2026-08-25 H 0-2 v Leeds | League Cup | Nottingham | xG 1.18-2.72
+2026-08-22 H 0-1 v Leeds | Premier League | Nottingham | xG 0.66-0.47
+2026-08-16 H 2-0 v Stade Brestois 29 | Friendlies Clubs | ?
+2026-08-12 H 2-1 v Bayer Leverkusen | Friendlies Clubs | ?
+2026-08-08 A 0-1 v Barcelona | Friendlies Clubs | ?
+2026-08-08 A 0-1 v Udinese | Friendlies Clubs | ?
+2026-07-31 A 1-4 v Sporting CP | Friendlies Clubs | ?
+2026-07-31 A 2-1 v Portimonense | Friendlies Clubs | ?
+2026-07-26 A 1-1 v Vitória SC | Friendlies Clubs | ?
+2026-07-22 H 3-0 v Blackburn | Friendlies Clubs | Albufeira
+2026-07-18 A 2-0 v Notts County | Friendlies Clubs | ?
+2026-05-24 H 1-1 v Bournemouth | Premier League | Nottingham
+2026-05-17 A 2-3 v Manchester United | Premier League | Manchester
+2026-05-10 H 1-1 v Newcastle | Premier League | Nottingham
+2026-05-07 A 0-4 v Aston Villa | UEFA Europa League | Birmingham
+Listed home: 9 games, scored 9 (1.00), conceded 7 (0.78), blanks 4, clean sheets 3
+Listed away: 11 games, scored 13 (1.18), conceded 21 (1.91), blanks 3, clean sheets 1
+All: 20 games, scored 22 (1.10), conceded 28 (1.40), blanks 7, clean sheets 4
+
+=== Arsenal (id 4403): last 18 finished games ===
+2022-05-21 A 1-2 v Red Star | Division d'Honneur | Morne-à-l'Eau
+2022-05-14 H 0-1 v Juventus Sainte-Anne | Division d'Honneur | Petit-Bourg
+2022-04-30 A 0-2 v La Gauloise | Division d'Honneur | Vieux Habitants
+2022-04-23 A 0-1 v Phare du Canal | Division d'Honneur | Petit-Canal
+2022-04-15 H 0-0 v Etoile de Morne-à-l'Eau | Division d'Honneur | Baie-Mahault
+2022-04-10 H 0-0 v Amical Club | Division d'Honneur | Petit-Bourg
+2022-04-07 H 2-3 v Stade Lamentinois | Division d'Honneur | Baie-Mahault
+2022-04-02 A 2-4 v Etoile de Morne-à-l'Eau | Division d'Honneur | Morne-à-l'Eau
+2022-03-26 H 4-2 v Sporting Baie-Mahault | Division d'Honneur | Petit-Bourg
+2022-03-19 A 0-1 v Stade Lamentinois | Division d'Honneur | Lamentin
+2022-03-12 H 0-4 v Jeunesse Evolution | Division d'Honneur | Petit-Bourg
+2022-03-05 H 1-1 v Red Star | Division d'Honneur | Les Abymes
+2022-02-26 A 2-0 v Juventus Sainte-Anne | Division d'Honneur | Saint-Anne
+2022-02-23 A 2-3 v Sporting Baie-Mahault | Division d'Honneur | Baie-Mahault
+2022-02-18 H 0-2 v La Gauloise | Division d'Honneur | Baie-Mahault
+2022-02-12 H 0-0 v Phare du Canal | Division d'Honneur | Sainte-Rose
+2022-02-05 A 0-0 v Amical Club | Division d'Honneur | Capesterre-de-Marie-Galante
+2022-01-08 A 1-2 v Jeunesse Evolution | Division d'Honneur | Les Abymes
+Listed home: 9 games, scored 7 (0.78), conceded 13 (1.44), blanks 6, clean sheets 3
+Listed away: 9 games, scored 8 (0.89), conceded 15 (1.67), blanks 4, clean sheets 2
+All: 18 games, scored 15 (0.83), conceded 28 (1.56), blanks 10, clean sheets 5
+
+TABLE FOR Nottingham Forest
+LEAGUE TABLE Premier League 2026 | 20 teams | 65 games played
+League averages per game: home 1.57, away 1.34, total 2.91
+#   team                   Pts | home P GF-GA  | away P GF-GA  | all P GF-GA
+1   Manchester City         21 |  4  11-6       |  3   8-1       |  7  19-7
+2   Arsenal                 15 |  3   7-2       |  3   3-3       |  6  10-5
+3   Brighton                13 |  3   8-1       |  3  10-4       |  6  18-5
+4   Chelsea                 13 |  3  11-6       |  4   6-7       |  7  17-13
+5   Liverpool               12 |  3   2-5       |  4   7-3       |  7   9-8
+6   Brentford               10 |  4   8-3       |  3   5-5       |  7  13-8
+7   Everton                 10 |  4   5-4       |  3   3-3       |  7   8-7
+8   Leeds                    9 |  3   5-2       |  3   3-3       |  6   8-5
+9   Hull City                9 |  3   4-2       |  4   4-5       |  7   8-7
+10  Ipswich                  9 |  3   4-4       |  4   7-11      |  7  11-15
+11  Newcastle                8 |  4   6-6       |  3   4-8       |  7  10-14
+12  Aston Villa              8 |  3   3-5       |  4   4-6       |  7   7-11
+13  Crystal Palace           7 |  3   6-8       |  3   3-4       |  6   9-12
+14  Manchester United        6 |  3   6-4       |  3   3-5       |  6   9-9
+15  Coventry                 6 |  3   4-7       |  3   1-4       |  6   5-11
+16  Fulham                   5 |  4   6-7       |  3   1-3       |  7   7-10
+17  Nottingham Forest        5 |  3   0-2       |  3   5-6       |  6   5-8
+18  Sunderland               4 |  3   1-4       |  3   5-8       |  6   6-12
+19  Bournemouth              3 |  3   3-4       |  3   4-9       |  6   7-13
+20  Tottenham                3 |  3   2-5       |  3   1-4       |  6   3-9
+
+TABLE FOR Arsenal
+LEAGUE TABLE Division d'Honneur 2021 | 10 teams | 5 games played
+League averages per game: home 2.20, away 1.20, total 3.40
+#   team                   Pts | home P GF-GA  | away P GF-GA  | all P GF-GA
+1   La Gauloise             29 |  1   4-3       |  0   0-0       |  9  15-6
+2   Arsenal                 25 |  1   0-0       |  0   0-0       |  9  16-7
+3   Dynamo Le Moule         22 |  0   0-0       |  1   3-3       |  9  18-16
+4   USBM                    21 |  0   0-0       |  1   3-4       |  9  23-17
+5   Vieux-Habitants         21 |  0   0-0       |  1   0-0       |  9  17-15
+6   Racing Club             21 |  1   0-0       |  0   0-0       |  9  13-14
+7   Stade Lamentinois       20 |  1   3-3       |  0   0-0       |  9  15-22
+8   CERFA                   18 |  1   4-0       |  0   0-0       |  9  14-20
+9   Club Amical             17 |  0   0-0       |  1   0-0       |  9   4-7
+10  Sport St. François      14 |  0   0-0       |  1   0-4       |  9   7-18
+
+(26 API-Football requests used)
+
+----------------------------------------------------------------------
+MATCHBOOK: skipped (switched off for this run)
