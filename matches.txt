@@ -1,9 +1,4 @@
-# Scan 18.10 19:41: run 1 (new fixtures)
-Al-Fateh v Al-Khaleej | n=20 | xg=10
-Fluminense v Santos | n=20 | xg=10
-Gremio v Cruzeiro | n=20 | xg=10
-CRB v Botafogo SP | n=20 | xg=10
-Real Madrid v Sevilla | n=20 | xg=10
-Burgos v Sabadell | n=20 | xg=10
-Puerto Cabello v Monagas | n=20 | xg=10
-Estudiantes de Merida v Metropolitanos | n=20 | xg=10
+# Scan 18.10 19:41: run 2 (name fixes)
+Al Fateh v Al Khaleej | n=20 | xg=10
+Puerto Cabello v id:2811 | n=20 | xg=10
+id:2818 v id:2825 | n=20 | xg=10
