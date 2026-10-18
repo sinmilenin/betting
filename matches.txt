@@ -1,4 +1,2 @@
-# Scan 18.10 19:41: run 2 (name fixes)
-Al Fateh v Al Khaleej | n=20 | xg=10
-Puerto Cabello v id:2811 | n=20 | xg=10
-id:2818 v id:2825 | n=20 | xg=10
+# Scan 18.10 19:41: run 3 (Al-Fateh name)
+Fateh v id:2928 | n=20 | xg=10
