@@ -1,0 +1,66 @@
+MATCH Sirius v Elfsborg | fetched 2026-10-18 10:12 local
+
+FORM DATA Sirius v Elfsborg | source API-Football | 2026-10-18 10:13 UTC
+H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
+
+=== Sirius (id 370): last 20 finished games ===
+2026-10-10 A 1-0 v Gais | Allsvenskan | Gothenburg | xG 1.56-1.70
+2026-10-02 A 1-1 v Brondby | Friendlies Clubs | ?
+2026-09-19 A 2-1 v Orgryte IS | Allsvenskan | Gothenburg | xG 1.16-1.18
+2026-09-14 H 2-0 v Degerfors IF | Allsvenskan | Uppsala | xG 1.86-1.71
+2026-09-05 A 1-0 v Vasteras SK FK | Allsvenskan | Vasteras | xG 0.95-1.34
+2026-08-31 H 0-1 v Malmo FF | Allsvenskan | Uppsala | xG 1.51-1.67
+2026-08-26 A 2-0 v Friska Viljor | Svenska Cupen | ?
+2026-08-21 H 0-3 v BK Hacken | Allsvenskan | Uppsala | xG 0.64-1.54
+2026-08-15 A 3-4 v Mjallby AIF | Allsvenskan | Hallevik | xG 2.41-1.36
+2026-08-10 H 2-2 v IF Brommapojkarna | Allsvenskan | Uppsala
+2026-08-03 A 2-0 v Halmstad | Allsvenskan | Halmstad
+2026-07-26 H 4-1 v IFK Goteborg | Allsvenskan | Uppsala
+2026-07-19 A 3-1 v IF Elfsborg | Allsvenskan | Boras
+2026-07-12 A 2-1 v IF Brommapojkarna | Allsvenskan | Stockholm
+2026-07-03 H 4-4 v Mjallby AIF | Allsvenskan | Uppsala
+2026-06-26 H 1-1 v Djurgardens IF | Friendlies Clubs | ?
+2026-05-30 A 3-0 v AIK Stockholm | Allsvenskan | Solna
+2026-05-24 H 2-1 v Gais | Allsvenskan | Uppsala
+2026-05-18 A 3-2 v Djurgardens IF | Allsvenskan | Stockholm
+2026-05-11 H 2-0 v Orgryte IS | Allsvenskan | Uppsala
+Listed home: 9 games, scored 17 (1.89), conceded 13 (1.44), blanks 2, clean sheets 2
+Listed away: 11 games, scored 23 (2.09), conceded 10 (0.91), blanks 0, clean sheets 5
+All: 20 games, scored 40 (2.00), conceded 23 (1.15), blanks 2, clean sheets 7
+
+"Elfsborg" matches several teams. Use id:<number> instead of the name:
+  id:372    IF Elfsborg (Sweden)
+  id:7899   Elfsborg U19 (Spain)
+  id:21693  Elfsborg W (Sweden)
+(retrying Elfsborg using the opponent's country, Sweden)
+"Elfsborg" matches several teams. Use id:<number> instead of the name:
+  id:372    IF Elfsborg (Sweden)
+  id:7899   Elfsborg U19 (Spain)
+  id:21693  Elfsborg W (Sweden)
+!! Elfsborg: Ambiguous team name "Elfsborg".
+
+TABLE FOR Sirius
+LEAGUE TABLE Allsvenskan 2026 | 16 teams | 186 games played
+League averages per game: home 1.62, away 1.32, total 2.94
+#   team                   Pts | home P GF-GA  | away P GF-GA  | all P GF-GA
+1   Sirius                  54 | 11  25-15      | 12  28-13      | 23  53-28
+2   Djurgardens IF          47 | 12  30-14      | 12  20-7       | 24  50-21
+3   Hammarby FF             43 | 12  34-7       | 11  15-14      | 23  49-21
+4   IF Elfsborg             40 | 12  21-9       | 11  14-13      | 23  35-22
+5   BK Hacken               39 | 12  21-18      | 11  21-12      | 23  42-30
+6   Malmo FF                36 | 12  25-20      | 11  13-13      | 23  38-33
+7   IFK Goteborg            36 | 12  16-13      | 12  18-30      | 24  34-43
+8   Vasteras SK FK          35 | 11  17-13      | 12  17-23      | 23  34-36
+9   AIK Stockholm           34 | 12  19-27      | 12  19-15      | 24  38-42
+10  Gais                    30 | 12  16-5       | 11  12-16      | 23  28-21
+11  IF Brommapojkarna       30 | 12  15-15      | 12  21-28      | 24  36-43
+12  Mjallby AIF             23 | 12  12-19      | 11  16-20      | 23  28-39
+13  Degerfors IF            20 | 11  11-15      | 12   9-20      | 23  20-35
+14  Kalmar FF               19 | 11  14-17      | 12   7-20      | 23  21-37
+15  Orgryte IS              15 | 11  17-20      | 12   8-32      | 23  25-52
+16  Halmstad                14 | 11   9-18      | 12   7-26      | 23  16-44
+
+(15 API-Football requests used)
+
+----------------------------------------------------------------------
+MATCHBOOK: skipped (switched off for this run)

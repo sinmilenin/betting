@@ -1,4 +1,15 @@
-RUN 2026-10-18 09:30 local | 1 match(es)
-Belediyespor v Boluspor -> out/Belediyespor_v_Boluspor.txt
-    !! Belediyespor: Ambiguous team name "Belediyespor".
-Requests used: API-Football 15, Matchbook 0
+RUN 2026-10-18 10:12 local | 10 match(es)
+Chelsea W v Tottenham W -> out/Chelsea_W_v_Tottenham_W.txt
+    !! Tottenham W: No team found for "Tottenham W".
+United IK Nordic v Norrby -> out/United_IK_Nordic_v_Norrby.txt
+    !! United IK Nordic: No team found for "United IK Nordic".
+Arminia Bielefeld v VfL Osnabruck -> out/Arminia_Bielefeld_v_VfL_Osnabruck.txt
+Karlsruher SC v SV Darmstadt 98 -> out/Karlsruher_SC_v_SV_Darmstadt_98.txt
+Dynamo Dresden v FC Magdeburg -> out/Dynamo_Dresden_v_FC_Magdeburg.txt
+KuPS v VPS -> out/KuPS_v_VPS.txt
+Sirius v Elfsborg -> out/Sirius_v_Elfsborg.txt
+    !! Elfsborg: Ambiguous team name "Elfsborg".
+Vasteras SK v Mjallby -> out/Vasteras_SK_v_Mjallby.txt
+Osasuna v Racing Santander -> out/Osasuna_v_Racing_Santander.txt
+Tampere United v RoPS -> out/Tampere_United_v_RoPS.txt
+Requests used: API-Football 216, Matchbook 0

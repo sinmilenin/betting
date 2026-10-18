@@ -1,0 +1,84 @@
+MATCH Karlsruher SC v SV Darmstadt 98 | fetched 2026-10-18 10:12 local
+
+FORM DATA Karlsruher SC v SV Darmstadt 98 | source API-Football | 2026-10-18 10:13 UTC
+H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
+
+=== Karlsruher SC (id 785): last 20 finished games ===
+2026-10-11 A 0-2 v FC St. Pauli | 2. Bundesliga | St. Pauli Burger | xG 1.16-0.80
+2026-10-02 A 2-1 v SV Wehen | Friendlies Clubs | ?
+2026-09-19 H 0-1 v 1. FC Nürnberg | 2. Bundesliga | Karlsruhe | xG 0.43-0.81
+2026-09-13 H 0-3 v Energie Cottbus | 2. Bundesliga | Karlsruhe | xG 1.73-1.93
+2026-09-04 A 2-2 v Hannover 96 | 2. Bundesliga | Hannover | xG 1.78-1.61
+2026-08-29 H 2-5 v VfL Wolfsburg | 2. Bundesliga | Karlsruhe | xG 1.59-3.03
+2026-08-21 A 2-1 v Preußen Münster | DFB Pokal | Munster
+2026-08-15 A 0-0 v 1. FC Kaiserslautern | 2. Bundesliga | Kaiserslautern | xG 0.75-1.05
+2026-08-08 H 2-1 v Arminia Bielefeld | 2. Bundesliga | Karlsruhe | xG 1.42-1.17
+2026-08-01 A 0-3 v 1899 Hoffenheim | Friendlies Clubs | ?
+2026-07-26 H 1-2 v Inter | Friendlies Clubs | Karlsruhe
+2026-07-18 H 1-3 v Shimizu S-pulse | Friendlies Clubs | ?
+2026-07-09 H 4-4 v SGV Freiberg | Friendlies Clubs | ?
+2026-05-17 H 1-2 v VfL Bochum | 2. Bundesliga | Karlsruhe
+2026-05-08 A 2-2 v SC Paderborn 07 | 2. Bundesliga | Paderborn
+2026-05-03 H 2-1 v SV Darmstadt 98 | 2. Bundesliga | Karlsruhe
+2026-04-25 H 1-3 v Hannover 96 | 2. Bundesliga | Karlsruhe
+2026-04-17 A 0-3 v SV Elversberg | 2. Bundesliga | Spiesen-Elversberg
+2026-04-10 H 4-1 v Arminia Bielefeld | 2. Bundesliga | Karlsruhe
+2026-04-05 A 0-1 v FC Schalke 04 | 2. Bundesliga | Gelsenkirchen
+Listed home: 11 games, scored 18 (1.64), conceded 26 (2.36), blanks 2, clean sheets 0
+Listed away: 9 games, scored 8 (0.89), conceded 15 (1.67), blanks 5, clean sheets 1
+All: 20 games, scored 26 (1.30), conceded 41 (2.05), blanks 7, clean sheets 1
+
+=== SV Darmstadt 98 (id 181): last 20 finished games ===
+2026-10-10 H 3-1 v Energie Cottbus | 2. Bundesliga | Darmstadt | xG 1.42-1.49
+2026-09-30 A 7-0 v San Antonio | Friendlies Clubs | ?
+2026-09-18 A 1-5 v VfL Wolfsburg | 2. Bundesliga | Wolfsburg | xG 1.23-1.72
+2026-09-11 H 2-1 v Arminia Bielefeld | 2. Bundesliga | Darmstadt | xG 1.86-1.24
+2026-09-05 A 0-3 v 1. FC Kaiserslautern | 2. Bundesliga | Kaiserslautern | xG 1.04-2.63
+2026-08-30 H 0-1 v Hannover 96 | 2. Bundesliga | Darmstadt | xG 0.91-2.31
+2026-08-23 A 2-1 v FC Carl Zeiss Jena | DFB Pokal | Jena
+2026-08-16 A 0-1 v Dynamo Dresden | 2. Bundesliga | Dresden | xG 0.38-0.64
+2026-08-08 H 2-2 v Holstein Kiel | 2. Bundesliga | Darmstadt | xG 0.71-1.38
+2026-08-01 H 0-0 v Portsmouth | Friendlies Clubs | ?
+2026-07-25 A 7-2 v SG Sonnenhof Grossaspach | Friendlies Clubs | ?
+2026-07-17 A 4-1 v FC Astoria Walldorf | Friendlies Clubs | ?
+2026-07-14 H 5-1 v FC 08 Homburg | Friendlies Clubs | ?
+2026-05-17 H 0-2 v SC Paderborn 07 | 2. Bundesliga | Darmstadt
+2026-05-10 A 1-1 v Preußen Münster | 2. Bundesliga | Munster
+2026-05-03 A 1-2 v Karlsruher SC | 2. Bundesliga | Karlsruhe
+2026-04-25 H 3-3 v SV Elversberg | 2. Bundesliga | Darmstadt
+2026-04-19 A 2-3 v SpVgg Greuther Fürth | 2. Bundesliga | Furth
+2026-04-11 H 0-2 v Hannover 96 | 2. Bundesliga | Darmstadt
+2026-04-04 A 1-2 v Arminia Bielefeld | 2. Bundesliga | Bielefeld
+Listed home: 9 games, scored 15 (1.67), conceded 13 (1.44), blanks 4, clean sheets 1
+Listed away: 11 games, scored 26 (2.36), conceded 21 (1.91), blanks 2, clean sheets 1
+All: 20 games, scored 41 (2.05), conceded 34 (1.70), blanks 6, clean sheets 2
+
+TABLE FOR Karlsruher SC
+LEAGUE TABLE 2. Bundesliga 2026 | 18 teams | 69 games played
+League averages per game: home 1.72, away 1.39, total 3.12
+#   team                   Pts | home P GF-GA  | away P GF-GA  | all P GF-GA
+1   Hertha BSC              22 |  3   8-3       |  5  11-5       |  8  19-8
+2   1. FC Nürnberg          18 |  4  13-6       |  4   8-5       |  8  21-11
+3   VfL Wolfsburg           15 |  4  12-6       |  4  10-7       |  8  22-13
+4   1. FC Kaiserslautern    15 |  4   6-0       |  4   2-4       |  8   8-4
+5   1. FC Heidenheim        14 |  4  10-6       |  4   5-9       |  8  15-15
+6   1. FC Magdeburg         13 |  4   9-6       |  3   5-3       |  7  14-9
+7   FC St. Pauli            11 |  4   5-3       |  4   6-6       |  8  11-9
+8   Energie Cottbus          9 |  4   8-7       |  4   8-10      |  8  16-17
+9   SpVgg Greuther Fürth     9 |  4   5-6       |  4   7-7       |  8  12-13
+10  Arminia Bielefeld        8 |  3   7-4       |  4   4-8       |  7  11-12
+11  VfL Osnabrück            8 |  4   5-8       |  3   5-5       |  7  10-13
+12  Hannover 96              8 |  4   5-5       |  4   3-8       |  8   8-13
+13  Eintracht Braunschweig   7 |  4   6-8       |  4   7-7       |  8  13-15
+14  VfL Bochum               7 |  4   1-4       |  4   4-5       |  8   5-9
+15  SV Darmstadt 98          7 |  4   7-5       |  3   1-9       |  7   8-14
+16  Holstein Kiel            5 |  4   5-5       |  4   2-6       |  8   7-11
+17  Dynamo Dresden           5 |  3   3-4       |  4   6-11      |  7   9-15
+18  Karlsruher SC            5 |  4   4-10      |  3   2-4       |  7   6-14
+
+(SV Darmstadt 98: same table as Karlsruher SC, shown above)
+
+(24 API-Football requests used)
+
+----------------------------------------------------------------------
+MATCHBOOK: skipped (switched off for this run)
