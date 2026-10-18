@@ -1,2 +1,2 @@
-# 2026-10-18 11:35 Ljubljana: scheduled Orbit scan (Igdir re-run with Turkish spelling)
-Iğdır FK v Boluspor | n=20 | xg=10
+# 2026-10-18 11:40 Ljubljana: scheduled Orbit scan (Igdir lookup via candidate list)
+Belediyespor v Boluspor | n=20 | xg=10
