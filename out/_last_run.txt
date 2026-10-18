@@ -1,8 +1,4 @@
-RUN 2026-10-18 15:27 local | 4 match(es)
-Jablonec v Plzen -> out/Jablonec_v_Plzen.txt
-    !! Jablonec: Ambiguous team name "Jablonec".
-Tromso v KFUM Oslo -> out/Tromso_v_KFUM_Oslo.txt
-Flora v Tammeka -> out/Flora_v_Tammeka.txt
-Ajman v Sharjah -> out/Ajman_v_Sharjah.txt
-    !! Sharjah: Ambiguous team name "Sharjah".
-Requests used: API-Football 84, Matchbook 0
+RUN 2026-10-18 15:29 local | 2 match(es)
+id:1122 v Plzen -> out/id_1122_v_Plzen.txt
+Ajman v id:2874 -> out/Ajman_v_id_2874.txt
+Requests used: API-Football 53, Matchbook 0

@@ -1,6 +1,6 @@
-MATCH Ajman v Sharjah | fetched 2026-10-18 15:27 local
+MATCH Ajman v id:2874 | fetched 2026-10-18 15:29 local
 
-FORM DATA Ajman v Sharjah | source API-Football | 2026-10-18 15:28 UTC
+FORM DATA Ajman v id:2874 | source API-Football | 2026-10-18 15:29 UTC
 H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
 
 === Ajman (id 2879): last 20 finished games ===
@@ -28,16 +28,30 @@ Listed home: 9 games, scored 20 (2.22), conceded 19 (2.11), blanks 0, clean shee
 Listed away: 11 games, scored 15 (1.36), conceded 15 (1.36), blanks 5, clean sheets 2
 All: 20 games, scored 35 (1.75), conceded 34 (1.70), blanks 5, clean sheets 3
 
-"Sharjah" matches several teams. Use id:<number> instead of the name:
-  id:2874   Sharjah FC (United-Arab-Emirates)
-  id:20773  Sharjah Brasil U20 (Brazil)
-  id:27490  Al Sharjah U23 (United-Arab-Emirates)
-(retrying Sharjah using the opponent's country, United-Arab-Emirates)
-"Sharjah" matches several teams. Use id:<number> instead of the name:
-  id:2874   Sharjah FC (United-Arab-Emirates)
-  id:20773  Sharjah Brasil U20 (Brazil)
-  id:27490  Al Sharjah U23 (United-Arab-Emirates)
-!! Sharjah: Ambiguous team name "Sharjah".
+=== Sharjah FC (id 2874): last 20 finished games ===
+2026-10-09 H 0-0 v Al-Jazira | League Cup | Sharjah
+2026-10-01 H 2-1 v Al-Dhafra | League Cup | Sharjah
+2026-09-19 A 2-3 v Ajman | League Cup | Ajman
+2026-09-11 A 0-1 v Al Wahda FC | Pro League | Abu Dhabi
+2026-09-05 H 4-3 v Dubai United | Pro League | Sharjah
+2026-08-30 A 3-0 v Hatta SC | Pro League | Hatta
+2026-08-23 H 0-2 v Al-Jazira | Pro League | Sharjah
+2026-08-15 A 3-1 v Al-Dhafra | Pro League | Madinat Zayed
+2026-07-27 A 2-1 v Al-Sailiya | Friendlies Clubs | ?
+2026-07-22 A 4-0 v Beltinci | Friendlies Clubs | ?
+2026-07-19 H 2-1 v Abha | Friendlies Clubs | ?
+2026-05-15 H 3-1 v Khorfakkan | Pro League | Sharjah
+2026-05-10 A 0-0 v Al Bataeh | Pro League | Sharjah
+2026-05-06 H 0-5 v Al Ain | Pro League | Sharjah
+2026-04-23 H 0-2 v Al Wahda FC | Pro League | Sharjah
+2026-04-10 A 1-1 v Baniyas SC | Pro League | Abu Dhabi
+2026-04-05 H 2-1 v Al-Wasl FC | Pro League | Sharjah
+2026-03-17 A 2-2 v Al-Ittihad Kalba | Pro League | Kalba
+2026-03-11 H 1-2 v Al Nasr | Pro League | Sharjah
+2026-03-07 H 4-1 v Dibba Al-Fujairah | Pro League | Sharjah
+Listed home: 11 games, scored 18 (1.64), conceded 19 (1.73), blanks 4, clean sheets 1
+Listed away: 9 games, scored 17 (1.89), conceded 9 (1.00), blanks 2, clean sheets 3
+All: 20 games, scored 35 (1.75), conceded 28 (1.40), blanks 6, clean sheets 4
 
 TABLE FOR Ajman
 LEAGUE TABLE Pro League 2026 | 14 teams | 39 games played
@@ -58,7 +72,9 @@ League averages per game: home 1.67, away 1.64, total 3.31
 13  Hatta SC                 3 |  3   1-7       |  3   4-6       |  6   5-13
 14  Baniyas SC               1 |  4   4-10      |  2   1-2       |  6   5-12
 
-(17 API-Football requests used)
+(Sharjah FC: same table as Ajman, shown above)
+
+(27 API-Football requests used)
 
 ----------------------------------------------------------------------
 MATCHBOOK: skipped (switched off for this run)
