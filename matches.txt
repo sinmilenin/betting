@@ -1,2 +1,3 @@
-# Scan 18.10 14:26: run 3 (Torque name)
-id:2378 v Torque | n=20 | xg=10
+# Scan 18.10 14:26: run 4 (Levadia, Riga senior teams)
+Kuressaare v FC Levadia Tallinn | n=20 | xg=10
+Riga v Super Nova | n=20 | xg=10
