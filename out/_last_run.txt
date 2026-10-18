@@ -1,4 +1,3 @@
-RUN 2026-10-18 12:31 local | 2 match(es)
-Kuressaare v FC Levadia Tallinn -> out/Kuressaare_v_FC_Levadia_Tallinn.txt
-Riga v Super Nova -> out/Riga_v_Super_Nova.txt
-Requests used: API-Football 51, Matchbook 0
+RUN 2026-10-18 12:32 local | 1 match(es)
+id:2378 v id:2365 -> out/id_2378_v_id_2365.txt
+Requests used: API-Football 27, Matchbook 0
