@@ -1,4 +1,12 @@
-# Scan 18.10 15:56: run 2 (ids for Gladbach, Hoffenheim, Arsenal; CFR Cluj name)
-id:163 v id:167 | n=20 | xg=10
-Nottingham Forest v id:42 | n=20 | xg=10
-UTA Arad v CFR 1907 Cluj | n=20 | xg=10
+# Scan 18.10 16:41: run 1 (first analyses)
+Karpaty v Epicentr | n=20 | xg=10
+Kongsvinger v Sandnes Ulf | n=20 | xg=10
+Sturm Graz v Grazer AK | n=20 | xg=10
+Sporting Cristal v Comerciantes Unidos | n=20 | xg=10
+Omonia 29 Maiou v Anorthosis | n=20 | xg=10
+FC Copenhagen v AGF | n=20 | xg=10
+Basaksehir v Gaziantep | n=20 | xg=10
+AC Milan v Atalanta | n=20 | xg=10
+Valladolid v Eldense | n=20 | xg=10
+Girona v Andorra | n=20 | xg=10
+Malaga v Real Sociedad | n=20 | xg=10
