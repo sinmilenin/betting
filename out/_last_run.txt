@@ -1,6 +1,3 @@
-RUN 2026-10-18 11:00 local | 4 match(es)
-Nanjing City v Hebei Kungfu -> out/Nanjing_City_v_Hebei_Kungfu.txt
-id:333 v Rosenborg -> out/id_333_v_Rosenborg.txt
-Red Bull Salzburg v id:618 -> out/Red_Bull_Salzburg_v_id_618.txt
-Wolfsberger AC v WSG Wattens -> out/Wolfsberger_AC_v_WSG_Wattens.txt
-Requests used: API-Football 100, Matchbook 0
+RUN 2026-10-18 11:02 local | 1 match(es)
+id:836 v Chengdu Better City -> out/id_836_v_Chengdu_Better_City.txt
+Requests used: API-Football 26, Matchbook 0
