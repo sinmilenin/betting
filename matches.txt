@@ -1,4 +1,2 @@
-# 2026-10-18 11:30 Ljubljana: scheduled Orbit scan (first analyses)
-Altay v Atyrau | n=20 | xg=10
-Igdir v Boluspor | n=20 | xg=10
-Queens Park Rangers U21 v Bristol City U21 | n=20 | xg=10
+# 2026-10-18 11:35 Ljubljana: scheduled Orbit scan (Igdir re-run with Turkish spelling)
+Iğdır FK v Boluspor | n=20 | xg=10
