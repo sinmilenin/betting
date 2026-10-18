@@ -1,0 +1,19 @@
+MATCH Estudiantes de Merida v Metropolitanos | fetched 2026-10-18 17:43 local
+
+FORM DATA Estudiantes de Merida v Metropolitanos | source API-Football | 2026-10-18 17:43 UTC
+H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
+
+"Estudiantes de Merida" matches several teams. Use id:<number> instead of the name:
+  id:2818   Estudiantes de Merida FC (Venezuela)
+  id:27567  Estudiantes de Mérida U20 (Venezuela)
+"Metropolitanos" matches several teams. Use id:<number> instead of the name:
+  id:2825   Metropolitanos FC (Venezuela)
+  id:25698  Metropolitanos U20 (Venezuela)
+!! Estudiantes de Merida: Ambiguous team name "Estudiantes de Merida".
+
+!! Metropolitanos: Ambiguous team name "Metropolitanos".
+
+(2 API-Football requests used)
+
+----------------------------------------------------------------------
+MATCHBOOK: skipped (switched off for this run)

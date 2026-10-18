@@ -1,6 +1,15 @@
-RUN 2026-10-18 16:57 local | 4 match(es)
-Cartagines v Saprissa -> out/Cartagines_v_Saprissa.txt
-Kifisia v Aris -> out/Kifisia_v_Aris.txt
-Lyon v Nice -> out/Lyon_v_Nice.txt
-Juventus v Lazio -> out/Juventus_v_Lazio.txt
-Requests used: API-Football 104, Matchbook 0
+RUN 2026-10-18 17:43 local | 8 match(es)
+Al-Fateh v Al-Khaleej -> out/Al_Fateh_v_Al_Khaleej.txt
+    !! Al-Fateh: API-Football error: {"search": "The Search field may only contain alpha-numeric characters and spaces."}
+    !! Al-Khaleej: API-Football error: {"search": "The Search field may only contain alpha-numeric characters and spaces."}
+Fluminense v Santos -> out/Fluminense_v_Santos.txt
+Gremio v Cruzeiro -> out/Gremio_v_Cruzeiro.txt
+CRB v Botafogo SP -> out/CRB_v_Botafogo_SP.txt
+Real Madrid v Sevilla -> out/Real_Madrid_v_Sevilla.txt
+Burgos v Sabadell -> out/Burgos_v_Sabadell.txt
+Puerto Cabello v Monagas -> out/Puerto_Cabello_v_Monagas.txt
+    !! Monagas: Ambiguous team name "Monagas".
+Estudiantes de Merida v Metropolitanos -> out/Estudiantes_de_Merida_v_Metropolitanos.txt
+    !! Estudiantes de Merida: Ambiguous team name "Estudiantes de Merida".
+    !! Metropolitanos: Ambiguous team name "Metropolitanos".
+Requests used: API-Football 146, Matchbook 0
