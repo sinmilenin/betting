@@ -1,3 +1,6 @@
-RUN 2026-10-18 16:17 local | 1 match(es)
-PAOK v Iraklis 1908 -> out/PAOK_v_Iraklis_1908.txt
-Requests used: API-Football 25, Matchbook 0
+RUN 2026-10-18 16:57 local | 4 match(es)
+Cartagines v Saprissa -> out/Cartagines_v_Saprissa.txt
+Kifisia v Aris -> out/Kifisia_v_Aris.txt
+Lyon v Nice -> out/Lyon_v_Nice.txt
+Juventus v Lazio -> out/Juventus_v_Lazio.txt
+Requests used: API-Football 104, Matchbook 0
