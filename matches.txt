@@ -1,5 +1,3 @@
-# Scan 18.10 17:27: run 1
-Jablonec v Plzen | n=20 | xg=10
-Tromso v KFUM Oslo | n=20 | xg=10
-Flora v Tammeka | n=20 | xg=10
-Ajman v Sharjah | n=20 | xg=10
+# Scan 18.10 17:27: run 2 (Jablonec, Sharjah ids)
+id:1122 v Plzen | n=20 | xg=10
+Ajman v id:2874 | n=20 | xg=10
