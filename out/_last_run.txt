@@ -1,6 +1,3 @@
-RUN 2026-10-18 17:45 local | 3 match(es)
-Al Fateh v Al Khaleej -> out/Al_Fateh_v_Al_Khaleej.txt
-    !! Al Fateh: No team found for "Al Fateh".
-Puerto Cabello v id:2811 -> out/Puerto_Cabello_v_id_2811.txt
-id:2818 v id:2825 -> out/id_2818_v_id_2825.txt
-Requests used: API-Football 64, Matchbook 0
+RUN 2026-10-18 17:48 local | 1 match(es)
+Fateh v id:2928 -> out/Fateh_v_id_2928.txt
+Requests used: API-Football 25, Matchbook 0

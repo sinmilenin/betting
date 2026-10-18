@@ -1,7 +1,32 @@
-MATCH Al Fateh v Al Khaleej | fetched 2026-10-18 17:45 local
+MATCH Fateh v id:2928 | fetched 2026-10-18 17:48 local
 
-FORM DATA Al Fateh v Al Khaleej | source API-Football | 2026-10-18 17:45 UTC
+FORM DATA Fateh v id:2928 | source API-Football | 2026-10-18 17:48 UTC
 H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
+
+=== Al-Fateh (id 2931): last 20 finished games ===
+2026-10-15 A 3-2 v Al-Hazm | Pro League | Ar Rass | xG 2.66-2.25
+2026-10-09 H 0-4 v Al-Ahli Jeddah | Pro League | Al-Hasa | xG 0.45-2.54
+2026-09-13 A 2-4 v NEOM | Pro League | Tabuk | xG 1.26-2.32
+2026-09-09 H 1-2 v Al Diriyah | Pro League | Al-Hasa | xG 1.28-2.53
+2026-09-05 A 0-0 v Al Taawon | Pro League | Buraidah | xG 0.97-1.33
+2026-08-29 H 0-0 v Al-Ittihad FC | Pro League | Al-Hofuf | xG 0.99-2.10
+2026-08-26 A 1-1 v Al-Faisaly FC | Pro League | Al Majmaah | xG 1.72-1.39
+2026-08-22 H 0-1 v Al-Ettifaq | Pro League | Al-Hofuf | xG 1.07-1.99
+2026-08-19 A 0-3 v Al Ula | King's Cup | Medina
+2026-08-15 A 0-3 v Al-Nassr | Pro League | Riyadh | xG 1.06-1.63
+2026-07-25 A 0-3 v Mallorca | Friendlies Clubs | ?
+2026-05-21 A 0-0 v Al Kholood | Pro League | Ar Rass
+2026-05-14 H 2-0 v Al Najma | Pro League | Al-Hofuf
+2026-05-10 A 0-1 v Al Riyadh | Pro League | Riyadh
+2026-05-06 A 1-3 v Al-Ahli Jeddah | Pro League | Jeddah
+2026-05-02 H 2-2 v NEOM | Pro League | Al-Hofuf
+2026-04-28 A 1-1 v Al Shabab | Pro League | Riyadh
+2026-04-24 H 1-0 v Al Khaleej Saihat | Pro League | Al-Hofuf
+2026-04-05 A 0-1 v Al Okhdood | Pro League | Najran
+2026-03-14 H 0-1 v Al-Hilal Saudi FC | Pro League | Al-Hofuf
+Listed home: 8 games, scored 6 (0.75), conceded 10 (1.25), blanks 4, clean sheets 3
+Listed away: 12 games, scored 8 (0.67), conceded 22 (1.83), blanks 7, clean sheets 2
+All: 20 games, scored 14 (0.70), conceded 32 (1.60), blanks 11, clean sheets 5
 
 === Al Khaleej Saihat (id 2928): last 20 finished games ===
 2026-10-15 H 2-0 v Al-Fayha | Pro League | Daman | xG 1.74-0.87
@@ -28,9 +53,7 @@ Listed home: 10 games, scored 9 (0.90), conceded 23 (2.30), blanks 4, clean shee
 Listed away: 10 games, scored 9 (0.90), conceded 15 (1.50), blanks 4, clean sheets 2
 All: 20 games, scored 18 (0.90), conceded 38 (1.90), blanks 8, clean sheets 5
 
-!! Al Fateh: No team found for "Al Fateh".
-
-TABLE FOR Al Khaleej Saihat
+TABLE FOR Al-Fateh
 LEAGUE TABLE Pro League 2026 | 18 teams | 77 games played
 League averages per game: home 1.43, away 1.40, total 2.83
 #   team                   Pts | home P GF-GA  | away P GF-GA  | all P GF-GA
@@ -53,7 +76,9 @@ League averages per game: home 1.43, away 1.40, total 2.83
 17  Al Taawon                4 |  4   0-6       |  5   4-10      |  9   4-16
 18  Abha                     2 |  3   2-4       |  5   4-11      |  8   6-15
 
-(14 API-Football requests used)
+(Al Khaleej Saihat: same table as Al-Fateh, shown above)
+
+(25 API-Football requests used)
 
 ----------------------------------------------------------------------
 MATCHBOOK: skipped (switched off for this run)
