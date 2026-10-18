@@ -1,3 +1,7 @@
-RUN 2026-10-18 07:12 local | 1 match(es)
-FC Seoul v Gimcheon Sangmu -> out/FC_Seoul_v_Gimcheon_Sangmu.txt
-Requests used: API-Football 26, Matchbook 0
+RUN 2026-10-18 08:42 local | 5 match(es)
+Gzira United v Hamrun Spartans -> out/Gzira_United_v_Hamrun_Spartans.txt
+Wuhan Three Towns v Shanghai Shenhua -> out/Wuhan_Three_Towns_v_Shanghai_Shenhua.txt
+PEC Zwolle v Go Ahead Eagles -> out/PEC_Zwolle_v_Go_Ahead_Eagles.txt
+Kasimpasa v Samsunspor -> out/Kasimpasa_v_Samsunspor.txt
+Udinese v Lecce -> out/Udinese_v_Lecce.txt
+Requests used: API-Football 124, Matchbook 0
