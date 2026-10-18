@@ -1,19 +1,7 @@
-MATCH Kasimpasa v Samsunspor | fetched 2026-10-18 08:42 local
+MATCH Kasımpaşa v Samsunspor | fetched 2026-10-18 08:47 local
 
-FORM DATA Kasimpasa v Samsunspor | source API-Football | 2026-10-18 08:42 UTC
+FORM DATA Kasımpaşa v Samsunspor | source API-Football | 2026-10-18 08:47 UTC
 H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
-
-=== Kasimpasa U19 (id 28249): last 7 finished games ===
-2026-10-09 A 0-3 v Galatasaray U19 | U19 league | ?
-2026-09-18 H 0-1 v Konyaspor U19 | U19 league | ?
-2026-09-13 A 0-4 v Genclerbirligi U19 | U19 league | ?
-2026-09-06 H 0-1 v Amedspor U19 | U19 league | ?
-2026-08-30 A 0-3 v İstanbul Başakşehir U19 | U19 league | ?
-2026-08-22 A 4-1 v Corum U19 | U19 league | Corum
-2026-08-15 H 1-2 v Trabzonspor U19 | U19 league | ?
-Listed home: 3 games, scored 1 (0.33), conceded 4 (1.33), blanks 2, clean sheets 0
-Listed away: 4 games, scored 4 (1.00), conceded 11 (2.75), blanks 3, clean sheets 0
-All: 7 games, scored 5 (0.71), conceded 15 (2.14), blanks 5, clean sheets 0
 
 === Samsunspor (id 3603): last 20 finished games ===
 2026-10-10 H 0-3 v Trabzonspor | Süper Lig | Samsun | xG 1.66-2.02
@@ -40,28 +28,7 @@ Listed home: 8 games, scored 13 (1.62), conceded 15 (1.88), blanks 3, clean shee
 Listed away: 12 games, scored 13 (1.08), conceded 19 (1.58), blanks 5, clean sheets 2
 All: 20 games, scored 26 (1.30), conceded 34 (1.70), blanks 8, clean sheets 4
 
-TABLE FOR Kasimpasa U19
-LEAGUE TABLE U19 league 2026 | 18 teams | 67 games played
-League averages per game: home 1.94, away 1.40, total 3.34
-#   team                   Pts | home P GF-GA  | away P GF-GA  | all P GF-GA
-1   Beşiktaş U19            21 |  4  13-5       |  3   6-1       |  7  19-6
-2   Trabzonspor U19         19 |  3  10-2       |  4   9-4       |  7  19-6
-3   Galatasaray U19         16 |  4  19-1       |  4   7-10      |  8  26-11
-4   Fenerbahce U19          13 |  4  11-5       |  4  10-6       |  8  21-11
-5   İstanbul Başakşehir U1  13 |  4  11-5       |  3   1-6       |  7  12-11
-6   Amedspor U19            13 |  5   5-7       |  3   2-2       |  8   7-9
-7   Goztepe U19             12 |  3   7-2       |  4   3-7       |  7  10-9
-8   Gaziantep U19           11 |  4   6-4       |  3   3-8       |  7   9-12
-9   Samsunspor U19          10 |  4   9-6       |  3   5-3       |  7  14-9
-10  Genclerbirligi U19      10 |  5  10-7       |  3   5-5       |  8  15-12
-11  Alanyaspor U19          10 |  3   4-3       |  5   6-4       |  8  10-7
-12  Kocaelispor U19         10 |  3   5-4       |  4   7-10      |  7  12-14
-13  Konyaspor U19           10 |  4   6-8       |  4   6-7       |  8  12-15
-14  Eyupspor U19             7 |  4   5-4       |  4   7-12      |  8  12-16
-15  Rizespor U19             5 |  3   0-6       |  4   5-11      |  7   5-17
-16  Erzurumspor U19          4 |  4   6-12      |  4   4-12      |  8  10-24
-17  Corum U19                4 |  3   2-9       |  4   4-11      |  7   6-20
-18  Kasimpasa U19            3 |  3   1-4       |  4   4-11      |  7   5-15
+!! Kasımpaşa: API-Football error: {"search": "The Search field may only contain alpha-numeric characters and spaces."}
 
 TABLE FOR Samsunspor
 LEAGUE TABLE Süper Lig 2026 | 18 teams | 68 games played
@@ -86,7 +53,7 @@ League averages per game: home 1.65, away 1.22, total 2.87
 17  Samsunspor               4 |  4   4-13      |  3   2-2       |  7   6-15
 18  Eyüpspor                 3 |  4   2-8       |  4   0-14      |  8   2-22
 
-(23 API-Football requests used)
+(14 API-Football requests used)
 
 ----------------------------------------------------------------------
 MATCHBOOK: skipped (switched off for this run)
