@@ -1,11 +1,6 @@
-# Scan 18.10 15:11: run 1
-Odense v Brondby | n=20 | xg=10
-Granada v Cadiz | n=20 | xg=10
-Orgryte v GAIS | n=20 | xg=10
-Panathinaikos v Asteras Tripolis | n=20 | xg=10
-Malmo FF v Hacken | n=20 | xg=10
-Halmstad v Hammarby | n=20 | xg=10
-FC Groningen v Ajax | n=20 | xg=10
-MVV v Heracles | n=20 | xg=10
-Molde v Start | n=20 | xg=10
-Valerenga v Brann | n=20 | xg=10
+# Scan 18.10 15:11: run 2 (ids for Orgryte, Hacken, Hammarby, Granada; Groningen name)
+id:2166 v GAIS | n=20 | xg=10
+Malmo FF v id:367 | n=20 | xg=10
+Halmstad v id:363 | n=20 | xg=10
+Groningen v Ajax | n=20 | xg=10
+id:715 v Cadiz | n=20 | xg=10
