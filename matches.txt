@@ -1,18 +1,4 @@
-# Scan 18.10 13:41: run 1 (new fixtures)
-Nesebar v CSKA Sofia | n=20 | xg=10
-SonderjyskE v Silkeborg | n=20 | xg=10
-Brentford U21 v Fulham U21 | n=20 | xg=10
-Lyngby v FC Nordsjaelland | n=20 | xg=10
-Persib Bandung v Persik Kediri | n=20 | xg=10
-Egersund v Sogndal | n=20 | xg=10
-Kalamata v OFI | n=20 | xg=10
-Aarau v FC Zurich | n=20 | xg=10
-Juve Stabia v Sudtirol | n=20 | xg=10
-Fiorentina v Como | n=20 | xg=10
-Angers v Marseille | n=20 | xg=10
-Brighton v Crystal Palace | n=20 | xg=10
-Leeds v Manchester United | n=20 | xg=10
-Bournemouth v Sunderland | n=20 | xg=10
-Kocaelispor v Goztepe | n=20 | xg=10
-Manchester City W v Brighton W | n=20 | xg=10
-Bayer Leverkusen v Freiburg | n=20 | xg=10
+# Scan 18.10 13:41: run 2 (ids for ambiguous names)
+id:2177 v FC Zurich | n=20 | xg=10
+Kocaelispor v id:994 | n=20 | xg=10
+Bayer Leverkusen v id:160 | n=20 | xg=10
