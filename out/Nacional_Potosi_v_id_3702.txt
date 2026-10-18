@@ -1,6 +1,6 @@
-MATCH Nacional Potosi v Bolivar | fetched 2026-10-18 18:27 local
+MATCH Nacional Potosi v id:3702 | fetched 2026-10-18 18:28 local
 
-FORM DATA Nacional Potosi v Bolivar | source API-Football | 2026-10-18 18:27 UTC
+FORM DATA Nacional Potosi v id:3702 | source API-Football | 2026-10-18 18:28 UTC
 H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
 
 === Nacional Potosí (id 3706): last 20 finished games ===
@@ -28,24 +28,30 @@ Listed home: 11 games, scored 30 (2.73), conceded 15 (1.36), blanks 2, clean she
 Listed away: 9 games, scored 14 (1.56), conceded 12 (1.33), blanks 2, clean sheets 2
 All: 20 games, scored 44 (2.20), conceded 27 (1.35), blanks 4, clean sheets 6
 
-"Bolivar" matches several teams. Use id:<number> instead of the name:
-  id:3702   Bolívar (Bolivia)
-  id:11376  Real Bolívar FC (Venezuela)
-  id:16612  Ciudad de Bolívar (Argentina)
-  id:19041  Unibolívar (Ecuador)
-  id:21231  Bolívar (Venezuela)
-  id:27566  Club Bolivar U20 (Bolivia)
-  id:28425  Bolivar W (Bolivia)
-(retrying Bolivar using the opponent's country, Bolivia)
-"Bolivar" matches several teams. Use id:<number> instead of the name:
-  id:3702   Bolívar (Bolivia)
-  id:11376  Real Bolívar FC (Venezuela)
-  id:16612  Ciudad de Bolívar (Argentina)
-  id:19041  Unibolívar (Ecuador)
-  id:21231  Bolívar (Venezuela)
-  id:27566  Club Bolivar U20 (Bolivia)
-  id:28425  Bolivar W (Bolivia)
-!! Bolivar: Ambiguous team name "Bolivar".
+=== Bolívar (id 3702): last 20 finished games ===
+2026-10-11 H 1-0 v Blooming | Primera División | La Paz
+2026-10-09 A 1-1 v Blooming | Copa de la División Profesional | Santa Cruz
+2026-10-04 A 3-0 v Independiente Petrolero | Copa de la División Profesional | Sucre
+2026-10-01 H 3-2 v Gualberto Villarroel SJ | Copa de la División Profesional | La Paz
+2026-09-27 H 3-0 v Blooming | Copa de la División Profesional | La Paz
+2026-09-20 A 1-1 v The Strongest | Copa de la División Profesional | La Paz
+2026-09-18 H 4-2 v Gualberto Villarroel SJ | Primera División | La Paz
+2026-09-14 A 2-1 v Real Tomayapo | Primera División | Tarija
+2026-09-11 H 1-1 v Independiente Petrolero | Copa de la División Profesional | La Paz
+2026-09-06 A 4-0 v Independiente Petrolero | Primera División | Sucre
+2026-09-02 A 1-0 v Gualberto Villarroel SJ | Copa de la División Profesional | Oruro
+2026-08-30 H 4-2 v The Strongest | Copa de la División Profesional | La Paz
+2026-08-28 H 4-1 v ABB | Primera División | La Paz
+2026-08-23 A 4-2 v Real Oruro | Primera División | Oruro
+2026-08-19 A 1-3 v Sao Paulo | CONMEBOL Sudamericana | Sao Paulo
+2026-08-15 H 4-1 v San Antonio Bulo Bulo | Primera División | La Paz
+2026-08-12 H 1-1 v Sao Paulo | CONMEBOL Sudamericana | La Paz
+2026-08-08 A 4-2 v Aurora | Primera División | Cochabamba
+2026-08-06 H 2-1 v Oriente Petrolero | Primera División | La Paz
+2026-08-02 A 0-1 v Always Ready | Primera División | El Alto
+Listed home: 10 games, scored 27 (2.70), conceded 11 (1.10), blanks 0, clean sheets 2
+Listed away: 10 games, scored 21 (2.10), conceded 11 (1.10), blanks 1, clean sheets 3
+All: 20 games, scored 48 (2.40), conceded 22 (1.10), blanks 1, clean sheets 5
 
 TABLE FOR Nacional Potosí
 LEAGUE TABLE Primera División 2026 | 16 teams | 173 games played
@@ -68,7 +74,9 @@ League averages per game: home 1.82, away 1.20, total 3.02
 15  Real Tomayapo           20 | 11   9-12      | 11   7-27      | 22  16-39
 16  Gualberto Villarroel S  17 | 11  17-18      | 11   8-21      | 22  25-39
 
-(15 API-Football requests used)
+(Bolívar: same table as Nacional Potosí, shown above)
+
+(25 API-Football requests used)
 
 ----------------------------------------------------------------------
 MATCHBOOK: skipped (switched off for this run)

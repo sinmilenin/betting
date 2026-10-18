@@ -1,11 +1,5 @@
-RUN 2026-10-18 18:27 local | 5 match(es)
-Lechia Gdansk v Arka Gdynia -> out/Lechia_Gdansk_v_Arka_Gdynia.txt
-Sao Bernardo v Criciuma -> out/Sao_Bernardo_v_Criciuma.txt
-    !! Sao Bernardo: Ambiguous team name "Sao Bernardo".
-Avai v Athletic Club -> out/Avai_v_Athletic_Club.txt
-Nacional Potosi v Bolivar -> out/Nacional_Potosi_v_Bolivar.txt
-    !! Bolivar: Ambiguous team name "Bolivar".
-Guemes v Almagro -> out/Guemes_v_Almagro.txt
-    !! Guemes: Ambiguous team name "Guemes".
-    !! Almagro: Ambiguous team name "Almagro".
-Requests used: API-Football 82, Matchbook 0
+RUN 2026-10-18 18:28 local | 3 match(es)
+id:7865 v Criciuma -> out/id_7865_v_Criciuma.txt
+Nacional Potosi v id:3702 -> out/Nacional_Potosi_v_id_3702.txt
+id:3969 v id:482 -> out/id_3969_v_id_482.txt
+Requests used: API-Football 75, Matchbook 0

@@ -1,13 +1,33 @@
-MATCH Sao Bernardo v Criciuma | fetched 2026-10-18 18:27 local
+MATCH id:7865 v Criciuma | fetched 2026-10-18 18:28 local
 
-FORM DATA Sao Bernardo v Criciuma | source API-Football | 2026-10-18 18:27 UTC
+FORM DATA id:7865 v Criciuma | source API-Football | 2026-10-18 18:28 UTC
 H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
 
-"Sao Bernardo" matches several teams. Use id:<number> instead of the name:
-  id:7865   São Bernardo (Brazil)
-  id:10033  EC São Bernardo (Brazil)
-  id:13005  EC São Bernardo U20 (Brazil)
-  id:13060  São Bernardo FC U20 (Brazil)
+=== São Bernardo (id 7865): last 20 finished games ===
+2026-10-11 A 2-2 v Juventude | Serie B | Caxias do Sul | xG 1.35-1.86
+2026-10-06 A 1-2 v Sport Recife | Serie B | Recife | xG 1.99-1.63
+2026-10-02 H 3-1 v CRB | Serie B | Sao Bernardo | xG 0.56-1.93
+2026-09-25 A 0-0 v Novorizontino | Serie B | Novo Horizonte | xG 0.27-0.56
+2026-09-19 H 1-0 v Atletico Goianiense | Serie B | Sao Bernardo
+2026-09-14 A 2-0 v America Mineiro | Serie B | Belo Horizonte | xG 0.75-1.45
+2026-09-10 H 1-2 v Londrina | Serie B | Sao Bernardo do Campo | xG 0.90-2.16
+2026-09-06 A 2-0 v Ponte Preta | Serie B | Campinas | xG 1.21-0.64
+2026-08-28 A 1-2 v Goias | Serie B | Goiânia | xG 1.11-1.10
+2026-08-23 H 1-1 v Nautico Recife | Serie B | Sao Bernardo do Campo | xG 1.13-1.17
+2026-08-19 A 1-1 v Fortaleza EC | Serie B | Fortaleza
+2026-08-14 H 0-1 v Botafogo SP | Serie B | Sao Bernardo do Campo
+2026-08-07 A 3-1 v Operario-PR | Serie B | Ponta Grossa
+2026-07-26 H 3-4 v Ceara | Serie B | Sao Bernardo do Campo
+2026-07-23 A 1-2 v Athletic Club | Serie B | São João del Rei
+2026-07-17 H 1-1 v Avai | Serie B | Sao Bernardo do Campo
+2026-07-12 H 2-2 v Cuiaba | Serie B | Sao Bernardo do Campo
+2026-07-06 A 1-2 v Vila Nova | Serie B | Goiânia
+2026-06-27 A 0-1 v Criciuma | Serie B | Criciúma
+2026-06-21 H 0-1 v Juventude | Serie B | Sao Bernardo do Campo
+Listed home: 9 games, scored 12 (1.33), conceded 13 (1.44), blanks 2, clean sheets 1
+Listed away: 11 games, scored 14 (1.27), conceded 13 (1.18), blanks 2, clean sheets 3
+All: 20 games, scored 26 (1.30), conceded 26 (1.30), blanks 4, clean sheets 4
+
 === Criciuma (id 140): last 20 finished games ===
 2026-10-12 H 1-0 v America Mineiro | Serie B | Chrissyuma | xG 1.47-0.15
 2026-10-08 A 0-1 v Ceara | Serie B | Fortaleza | xG 0.56-0.77
@@ -33,15 +53,7 @@ Listed home: 11 games, scored 11 (1.00), conceded 6 (0.55), blanks 4, clean shee
 Listed away: 9 games, scored 8 (0.89), conceded 11 (1.22), blanks 3, clean sheets 3
 All: 20 games, scored 19 (0.95), conceded 17 (0.85), blanks 7, clean sheets 11
 
-(retrying Sao Bernardo using the opponent's country, Brazil)
-"Sao Bernardo" matches several teams. Use id:<number> instead of the name:
-  id:7865   São Bernardo (Brazil)
-  id:10033  EC São Bernardo (Brazil)
-  id:13005  EC São Bernardo U20 (Brazil)
-  id:13060  São Bernardo FC U20 (Brazil)
-!! Sao Bernardo: Ambiguous team name "Sao Bernardo".
-
-TABLE FOR Criciuma
+TABLE FOR São Bernardo
 LEAGUE TABLE Serie B 2026 | 20 teams | 334 games played
 League averages per game: home 1.34, away 1.01, total 2.35
 #   team                   Pts | home P GF-GA  | away P GF-GA  | all P GF-GA
@@ -66,7 +78,9 @@ League averages per game: home 1.34, away 1.01, total 2.35
 19  America Mineiro         20 | 17  13-22      | 17   9-32      | 34  22-54
 20  Ponte Preta             14 | 17  11-26      | 17   8-48      | 34  19-74
 
-(15 API-Football requests used)
+(Criciuma: same table as São Bernardo, shown above)
+
+(25 API-Football requests used)
 
 ----------------------------------------------------------------------
 MATCHBOOK: skipped (switched off for this run)
