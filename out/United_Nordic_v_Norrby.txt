@@ -1,7 +1,32 @@
-MATCH United IK Nordic v Norrby | fetched 2026-10-18 10:12 local
+MATCH United Nordic v Norrby | fetched 2026-10-18 10:15 local
 
-FORM DATA United IK Nordic v Norrby | source API-Football | 2026-10-18 10:12 UTC
+FORM DATA United Nordic v Norrby | source API-Football | 2026-10-18 10:16 UTC
 H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
+
+=== United Nordic (id 16601): last 20 finished games ===
+2026-10-10 A 0-2 v Oddevold | Superettan | Uddevalla
+2026-10-03 A 1-1 v Orebro SK | Friendlies Clubs | ?
+2026-09-19 H 1-4 v Landskrona BoIS | Superettan | Sodertalje
+2026-09-14 A 1-1 v Orebro SK | Superettan | ?
+2026-09-09 H 2-4 v IFK Varnamo | Superettan | Sodertalje
+2026-09-04 A 2-1 v Osters IF | Superettan | Vaxjo
+2026-08-29 H 1-3 v IFK Norrkoping | Superettan | Sodertalje
+2026-08-26 A 2-0 v Bollstanäs | Svenska Cupen | ?
+2026-08-23 A 2-1 v IK brage | Superettan | Borlange
+2026-08-15 H 0-0 v Varbergs BoIS FC | Superettan | Sodertalje
+2026-08-08 A 1-1 v Falkenbergs FF | Superettan | Falkenberg
+2026-08-02 H 2-2 v Ljungskile SK | Superettan | Sodertalje
+2026-07-28 A 1-1 v Helsingborg | Superettan | Helsingborg
+2026-07-19 H 2-0 v Orebro SK | Superettan | ?
+2026-06-27 H 3-3 v Oddevold | Superettan | ?
+2026-06-21 A 0-0 v Norrby IF | Superettan | Boras
+2026-06-16 A 0-2 v Landskrona BoIS | Superettan | Landskrona
+2026-06-09 H 1-1 v Ostersunds FK | Superettan | Sodertalje
+2026-05-31 A 2-0 v IFK Varnamo | Superettan | Varnamo
+2026-05-23 H 1-0 v IK brage | Superettan | Sodertalje
+Listed home: 9 games, scored 13 (1.44), conceded 17 (1.89), blanks 1, clean sheets 3
+Listed away: 11 games, scored 12 (1.09), conceded 10 (0.91), blanks 3, clean sheets 3
+All: 20 games, scored 25 (1.25), conceded 27 (1.35), blanks 4, clean sheets 6
 
 === Norrby IF (id 2173): last 20 finished games ===
 2026-10-10 H 2-0 v Osters IF | Superettan | Boras
@@ -28,9 +53,7 @@ Listed home: 10 games, scored 15 (1.50), conceded 13 (1.30), blanks 2, clean she
 Listed away: 10 games, scored 7 (0.70), conceded 13 (1.30), blanks 5, clean sheets 4
 All: 20 games, scored 22 (1.10), conceded 26 (1.30), blanks 7, clean sheets 6
 
-!! United IK Nordic: No team found for "United IK Nordic".
-
-TABLE FOR Norrby IF
+TABLE FOR United Nordic
 LEAGUE TABLE Superettan 2026 | 16 teams | 212 games played
 League averages per game: home 1.54, away 1.36, total 2.90
 #   team                   Pts | home P GF-GA  | away P GF-GA  | all P GF-GA
@@ -51,7 +74,9 @@ League averages per game: home 1.54, away 1.36, total 2.90
 15  Orebro SK               25 | 13  11-16      | 13  17-24      | 26  28-40
 16  GIF Sundsvall           19 | 13  14-28      | 13   5-29      | 26  19-57
 
-(14 API-Football requests used)
+(Norrby IF: same table as United Nordic, shown above)
+
+(25 API-Football requests used)
 
 ----------------------------------------------------------------------
 MATCHBOOK: skipped (switched off for this run)
