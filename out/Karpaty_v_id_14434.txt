@@ -1,6 +1,6 @@
-MATCH Karpaty v Epitsentr | fetched 2026-10-18 14:44 local
+MATCH Karpaty v id:14434 | fetched 2026-10-18 14:45 local
 
-FORM DATA Karpaty v Epitsentr | source API-Football | 2026-10-18 14:44 UTC
+FORM DATA Karpaty v id:14434 | source API-Football | 2026-10-18 14:45 UTC
 H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
 
 === Karpaty (id 3617): last 20 finished games ===
@@ -28,14 +28,30 @@ Listed home: 11 games, scored 25 (2.27), conceded 8 (0.73), blanks 0, clean shee
 Listed away: 9 games, scored 14 (1.56), conceded 8 (0.89), blanks 3, clean sheets 3
 All: 20 games, scored 39 (1.95), conceded 16 (0.80), blanks 3, clean sheets 8
 
-"Epitsentr" matches several teams. Use id:<number> instead of the name:
-  id:14434  Epitsentr Dunayivtsi (Ukraine)
-  id:26235  Epitsentr U19 (Ukraine)
-(retrying Epitsentr using the opponent's country, Ukraine)
-"Epitsentr" matches several teams. Use id:<number> instead of the name:
-  id:14434  Epitsentr Dunayivtsi (Ukraine)
-  id:26235  Epitsentr U19 (Ukraine)
-!! Epitsentr: Ambiguous team name "Epitsentr".
+=== Epitsentr Dunayivtsi (id 14434): last 20 finished games ===
+2026-10-10 A 1-3 v Kolos Kovalivka | Premier League | Kovalivka
+2026-10-03 A 0-0 v Bukovyna | Friendlies Clubs | ?
+2026-09-19 H 0-2 v Livyi Bereh | Premier League | Ternopil
+2026-09-14 A 0-3 v Dynamo Kyiv | Premier League | Kyiv
+2026-09-09 A 3-0 v Karbon Cherkasy | Cup | ?
+2026-09-06 H 0-0 v Bukovyna | Premier League | Kamianets-Podilskyi
+2026-08-29 A 3-0 v Kudrivka | Premier League | Rivne
+2026-08-22 A 2-1 v To4ka Odessa | Cup | Kamianets-Podilskyi
+2026-08-14 H 0-0 v Veres Rivne | Premier League | Ternopil
+2026-08-09 H 0-2 v Shakhtar Donetsk | Premier League | Ternopil
+2026-08-02 H 3-0 v Obolon'-Brovar | Premier League | Ternopil
+2026-07-21 A 3-2 v Brinje-Grosuplje | Friendlies Clubs | ?
+2026-07-20 H 0-0 v Al Ula | Friendlies Clubs | ?
+2026-07-17 A 0-1 v Zalaegerszegi TE | Friendlies Clubs | ?
+2026-07-16 A 0-1 v HNK Gorica | Friendlies Clubs | ?
+2026-07-13 A 1-3 v NK Lokomotiva Zagreb | Friendlies Clubs | ?
+2026-07-04 H 4-0 v Bukovyna | Friendlies Clubs | ?
+2026-07-01 H 3-1 v Ahrobiznes Volochysk | Friendlies Clubs | ?
+2026-06-28 A 4-1 v Nyva Vinnytsya | Friendlies Clubs | ?
+2026-05-23 H 0-0 v SK Poltava | Premier League | Ternopil
+Listed home: 9 games, scored 10 (1.11), conceded 5 (0.56), blanks 6, clean sheets 6
+Listed away: 11 games, scored 17 (1.55), conceded 15 (1.36), blanks 4, clean sheets 3
+All: 20 games, scored 27 (1.35), conceded 20 (1.00), blanks 10, clean sheets 9
 
 TABLE FOR Karpaty
 LEAGUE TABLE Premier League 2026 | 16 teams | 64 games played
@@ -58,7 +74,9 @@ League averages per game: home 1.42, away 1.02, total 2.44
 15  Kudrivka                 5 |  4   6-7       |  5   4-14      |  9  10-21
 16  Kryvbas KR               5 |  3   4-7       |  3   3-3       |  6   7-10
 
-(15 API-Football requests used)
+(Epitsentr Dunayivtsi: same table as Karpaty, shown above)
+
+(25 API-Football requests used)
 
 ----------------------------------------------------------------------
 MATCHBOOK: skipped (switched off for this run)

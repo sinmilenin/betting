@@ -1,8 +1,3 @@
-RUN 2026-10-18 14:44 local | 5 match(es)
-Karpaty v Epitsentr -> out/Karpaty_v_Epitsentr.txt
-    !! Epitsentr: Ambiguous team name "Epitsentr".
-Maiou v Anorthosis -> out/Maiou_v_Anorthosis.txt
-id:564 v Gaziantep FK -> out/id_564_v_Gaziantep_FK.txt
-FC Copenhagen v Aarhus -> out/FC_Copenhagen_v_Aarhus.txt
-Girona v FC Andorra -> out/Girona_v_FC_Andorra.txt
-Requests used: API-Football 115, Matchbook 0
+RUN 2026-10-18 14:45 local | 1 match(es)
+Karpaty v id:14434 -> out/Karpaty_v_id_14434.txt
+Requests used: API-Football 25, Matchbook 0
