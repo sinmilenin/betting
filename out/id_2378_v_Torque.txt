@@ -1,6 +1,6 @@
-MATCH id:2378 v Montevideo City | fetched 2026-10-18 12:29 local
+MATCH id:2378 v Torque | fetched 2026-10-18 12:30 local
 
-FORM DATA id:2378 v Montevideo City | source API-Football | 2026-10-18 12:29 UTC
+FORM DATA id:2378 v Torque | source API-Football | 2026-10-18 12:30 UTC
 H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
 
 === Albion FC (id 2378): last 20 finished games ===
@@ -28,7 +28,14 @@ Listed home: 9 games, scored 11 (1.22), conceded 15 (1.67), blanks 3, clean shee
 Listed away: 11 games, scored 8 (0.73), conceded 16 (1.45), blanks 4, clean sheets 2
 All: 20 games, scored 19 (0.95), conceded 31 (1.55), blanks 7, clean sheets 3
 
-!! Montevideo City: No team found for "Montevideo City".
+"Torque" matches several teams. Use id:<number> instead of the name:
+  id:2365   Atletico Torque (Uruguay)
+  id:23068  City Torque U20 (Uruguay)
+(retrying Torque using the opponent's country, Uruguay)
+"Torque" matches several teams. Use id:<number> instead of the name:
+  id:2365   Atletico Torque (Uruguay)
+  id:23068  City Torque U20 (Uruguay)
+!! Torque: Ambiguous team name "Torque".
 
 TABLE FOR Albion FC
 LEAGUE TABLE Primera División 2026 | 80 teams | 204 games played
@@ -115,7 +122,7 @@ League averages per game: home 1.33, away 1.09, total 2.43
 15  Albion FC                6 |  4   6-9       |  6   4-9       | 10  10-18 [Primera: Clausura]
 16  Central Espanol          5 |  6   4-9       |  4   1-8       | 10   5-17 [Primera: Clausura]
 
-(15 API-Football requests used)
+(16 API-Football requests used)
 
 ----------------------------------------------------------------------
 MATCHBOOK: skipped (switched off for this run)

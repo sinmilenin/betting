@@ -1,9 +1,4 @@
-RUN 2026-10-18 12:29 local | 6 match(es)
-Newcastle United W v Sunderland W -> out/Newcastle_United_W_v_Sunderland_W.txt
-id:608 v id:1483 -> out/id_608_v_id_1483.txt
-id:2378 v Montevideo City -> out/id_2378_v_Montevideo_City.txt
-    !! Montevideo City: No team found for "Montevideo City".
-id:3713 v Sparta Praha -> out/id_3713_v_Sparta_Praha.txt
-id:598 v Mladost Lucani -> out/id_598_v_Mladost_Lucani.txt
-Celtic v Heart Of Midlothian -> out/Celtic_v_Heart_Of_Midlothian.txt
-Requests used: API-Football 141, Matchbook 0
+RUN 2026-10-18 12:30 local | 1 match(es)
+id:2378 v Torque -> out/id_2378_v_Torque.txt
+    !! Torque: Ambiguous team name "Torque".
+Requests used: API-Football 16, Matchbook 0
