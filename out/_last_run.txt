@@ -1,13 +1,5 @@
-RUN 2026-10-18 13:58 local | 9 match(es)
-Sandefjord v Lillestrom -> out/Sandefjord_v_Lillestrom.txt
-UTA Arad v CFR Cluj -> out/UTA_Arad_v_CFR_Cluj.txt
-Cesena v Avellino -> out/Cesena_v_Avellino.txt
-Paris FC v Rennes -> out/Paris_FC_v_Rennes.txt
-Le Havre v Auxerre -> out/Le_Havre_v_Auxerre.txt
-Lorient v Monaco -> out/Lorient_v_Monaco.txt
-Lech Poznan v Korona Kielce -> out/Lech_Poznan_v_Korona_Kielce.txt
-Nottingham Forest v Arsenal -> out/Nottingham_Forest_v_Arsenal.txt
-Borussia Monchengladbach v Hoffenheim -> out/Borussia_Monchengladbach_v_Hoffenheim.txt
-    !! Borussia Monchengladbach: Ambiguous team name "Borussia Monchengladbach".
-    !! Hoffenheim: Ambiguous team name "Hoffenheim".
-Requests used: API-Football 204, Matchbook 0
+RUN 2026-10-18 13:59 local | 3 match(es)
+id:163 v id:167 -> out/id_163_v_id_167.txt
+Nottingham Forest v id:42 -> out/Nottingham_Forest_v_id_42.txt
+UTA Arad v CFR 1907 Cluj -> out/UTA_Arad_v_CFR_1907_Cluj.txt
+Requests used: API-Football 77, Matchbook 0
