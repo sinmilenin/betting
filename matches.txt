@@ -1,2 +1,2 @@
-# 2026-10-18 08:38 Ljubljana: scheduled Orbit scan, run 5 (Guangzhou E-Power id)
-Shaanxi Union v id:23269 | n=20 | xg=10
+# 2026-10-18 09:12 Ljubljana: scheduled Orbit scan (FC Seoul v Gimcheon first analysis)
+FC Seoul v Gimcheon Sangmu | n=20 | xg=10
