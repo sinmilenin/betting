@@ -1,11 +1,3 @@
-RUN 2026-10-18 16:12 local | 7 match(es)
-Sint Truiden v Lommel -> out/Sint_Truiden_v_Lommel.txt
-    !! Sint Truiden: No team found for "Sint Truiden".
-    !! Lommel: Ambiguous team name "Lommel".
-Hapoel Beer Sheva v Hapoel Jerusalem -> out/Hapoel_Beer_Sheva_v_Hapoel_Jerusalem.txt
-Sampdoria v Arezzo -> out/Sampdoria_v_Arezzo.txt
-Twente v Utrecht -> out/Twente_v_Utrecht.txt
-Universitatea Craiova v Farul Constanta -> out/Universitatea_Craiova_v_Farul_Constanta.txt
-PAOK v Iraklis -> out/PAOK_v_Iraklis.txt
-NEC Nijmegen v Fortuna Sittard -> out/NEC_Nijmegen_v_Fortuna_Sittard.txt
-Requests used: API-Football 154, Matchbook 0
+RUN 2026-10-18 16:14 local | 1 match(es)
+id:735 v id:259 -> out/id_735_v_id_259.txt
+Requests used: API-Football 26, Matchbook 0

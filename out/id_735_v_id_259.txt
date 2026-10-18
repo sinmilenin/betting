@@ -1,0 +1,123 @@
+MATCH id:735 v id:259 | fetched 2026-10-18 16:14 local
+
+FORM DATA id:735 v id:259 | source API-Football | 2026-10-18 16:14 UTC
+H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
+
+=== St. Truiden (id 735): last 20 finished games ===
+2026-10-15 H 2-0 v FC Iberia 1999 | UEFA Europa Conference League | Sint-Truiden | xG 1.73-0.15
+2026-10-11 A 3-4 v KV Mechelen | Jupiler Pro League | Mechelen | xG 1.45-0.74
+2026-09-20 H 0-2 v KVC Westerlo | Jupiler Pro League | Sint-Truiden | xG 2.00-1.87
+2026-09-12 A 0-2 v SK Beveren | Jupiler Pro League | Beveren | xG 0.72-1.69
+2026-09-05 H 4-0 v RAAL La Louvière | Jupiler Pro League | Sint-Truiden | xG 2.40-0.44
+2026-09-02 H 0-3 v Union St. Gilloise | Jupiler Pro League | Sint-Truiden | xG 0.85-2.49
+2026-08-30 A 4-1 v Antwerp | Jupiler Pro League | Deurne | xG 3.38-0.77
+2026-08-27 A 2-4 v Omonia Nicosia | UEFA Europa League | Nicosia
+2026-08-20 H 1-0 v Omonia Nicosia | UEFA Europa League | Sint- Truiden
+2026-08-14 A 3-3 v Cercle Brugge | Jupiler Pro League | Brugge | xG 2.04-4.15
+2026-08-08 H 1-1 v Lommel United | Jupiler Pro League | Sint-Truiden
+2026-08-02 A 0-3 v AEK Athens FC | Friendlies Clubs | ?
+2026-08-01 A 0-1 v Helmond Sport | Friendlies Clubs | ?
+2026-07-25 A 0-0 v Al-Jazira | Friendlies Clubs | ?
+2026-07-22 A 1-0 v Liège | Friendlies Clubs | ?
+2026-07-18 A 2-1 v FC Luzern | Friendlies Clubs | ?
+2026-07-15 A 4-0 v Patro Eisden | Friendlies Clubs | ?
+2026-07-04 A 6-0 v Zepperen-Brustem | Friendlies Clubs | ?
+2026-07-01 A 2-1 v Thes Sport | Friendlies Clubs | ?
+2026-05-24 H 3-0 v KV Mechelen | Jupiler Pro League | Sint-Truiden
+Listed home: 7 games, scored 11 (1.57), conceded 6 (0.86), blanks 2, clean sheets 4
+Listed away: 13 games, scored 27 (2.08), conceded 20 (1.54), blanks 4, clean sheets 4
+All: 20 games, scored 38 (1.90), conceded 26 (1.30), blanks 6, clean sheets 8
+
+=== Lommel United (id 259): last 20 finished games ===
+2026-10-09 A 3-1 v SK Beveren | Jupiler Pro League | Beveren | xG 1.50-0.73
+2026-09-26 A 2-0 v Diksmuide | Cup | ?
+2026-09-19 H 0-0 v KV Mechelen | Jupiler Pro League | Lommel | xG 0.48-1.31
+2026-09-12 A 0-5 v Union St. Gilloise | Jupiler Pro League | Brussels | xG 0.65-3.27
+2026-09-04 H 0-1 v Club Brugge KV | Jupiler Pro League | Lommel | xG 0.65-0.80
+2026-08-29 A 1-0 v Cercle Brugge | Jupiler Pro League | Brugge | xG 1.63-1.25
+2026-08-23 H 4-0 v KVC Westerlo | Jupiler Pro League | Lommel | xG 1.17-0.65
+2026-08-16 H 0-1 v Charleroi | Jupiler Pro League | Lommel | xG 0.34-1.25
+2026-08-08 A 1-1 v St. Truiden | Jupiler Pro League | Sint-Truiden | xG 1.49-1.98
+2026-07-24 H 0-4 v ADO Den Haag | Friendlies Clubs | ?
+2026-07-18 H 2-1 v GO Ahead Eagles | Friendlies Clubs | ?
+2026-07-15 A 1-5 v OH Leuven | Friendlies Clubs | ?
+2026-07-11 A 1-1 v Cercle Brugge | Friendlies Clubs | ?
+2026-07-07 A 4-2 v Kryvbas KR | Friendlies Clubs | ?
+2026-05-23 A 0-0 v Dender | Jupiler Pro League | Denderleeuw
+2026-05-17 H 3-2 v Dender | Jupiler Pro League | Lommel
+2026-05-09 A 3-1 v Beerschot VA | Jupiler Pro League | Antwerp
+2026-05-02 H 3-1 v Beerschot VA | Jupiler Pro League | Lommel
+2026-04-27 A 2-1 v Liège | Jupiler Pro League | Rocourt
+2026-04-23 H 3-0 v Liège | Jupiler Pro League | Lommel
+Listed home: 9 games, scored 15 (1.67), conceded 10 (1.11), blanks 4, clean sheets 3
+Listed away: 11 games, scored 18 (1.64), conceded 17 (1.55), blanks 2, clean sheets 3
+All: 20 games, scored 33 (1.65), conceded 27 (1.35), blanks 6, clean sheets 6
+
+TABLE FOR St. Truiden
+LEAGUE TABLE UEFA Europa Conference League 2026 | 36 teams | 18 games played
+League averages per game: home 1.94, away 1.00, total 2.94
+#   team                   Pts | home P GF-GA  | away P GF-GA  | all P GF-GA
+1   Brighton                 3 |  1   4-0       |  0   0-0       |  1   4-0
+2   FC Copenhagen            3 |  1   3-0       |  0   0-0       |  1   3-0
+3   Trabzonspor              3 |  0   0-0       |  1   4-2       |  1   4-2
+4   Atalanta                 3 |  1   3-1       |  0   0-0       |  1   3-1
+5   Mjallby AIF              3 |  1   2-0       |  0   0-0       |  1   2-0
+6   St. Truiden              3 |  1   2-0       |  0   0-0       |  1   2-0
+7   SC Freiburg              3 |  1   3-2       |  0   0-0       |  1   3-2
+8   FC Lugano                3 |  1   3-2       |  0   0-0       |  1   3-2
+9   Monaco                   3 |  0   0-0       |  1   2-1       |  1   2-1
+10  HNK Hajduk Split         3 |  1   2-1       |  0   0-0       |  1   2-1
+11  Panathinaikos            3 |  1   2-1       |  0   0-0       |  1   2-1
+12  Brann                    3 |  1   2-1       |  0   0-0       |  1   2-1
+13  Gent                     3 |  1   1-0       |  0   0-0       |  1   1-0
+14  Twente                   3 |  1   1-0       |  0   0-0       |  1   1-0
+15  Getafe                   1 |  0   0-0       |  1   1-1       |  1   1-1
+16  FC Midtjylland           1 |  0   0-0       |  1   1-1       |  1   1-1
+17  FC Nordsjaelland         1 |  0   0-0       |  1   1-1       |  1   1-1
+18  Kairat Almaty            1 |  0   0-0       |  1   1-1       |  1   1-1
+19  Heart Of Midlothian      1 |  1   1-1       |  0   0-0       |  1   1-1
+20  Egnatia Rrogozhinë       1 |  1   1-1       |  0   0-0       |  1   1-1
+21  Universitatea Craiova    1 |  1   1-1       |  0   0-0       |  1   1-1
+22  Riga                     1 |  1   1-1       |  0   0-0       |  1   1-1
+23  FK Jablonec              0 |  0   0-0       |  1   2-3       |  1   2-3
+24  FK Crvena Zvezda         0 |  0   0-0       |  1   2-3       |  1   2-3
+25  Ajax                     0 |  0   0-0       |  1   1-2       |  1   1-2
+26  Borac Banja Luka         0 |  0   0-0       |  1   1-2       |  1   1-2
+27  Lincoln Red Imps FC      0 |  0   0-0       |  1   1-2       |  1   1-2
+28  CSKA Sofia               0 |  1   1-2       |  0   0-0       |  1   1-2
+29  Aarhus                   0 |  0   0-0       |  1   0-1       |  1   0-1
+30  FC Thun                  0 |  0   0-0       |  1   0-1       |  1   0-1
+31  KuPS                     0 |  1   2-4       |  0   0-0       |  1   2-4
+32  Pafos                    0 |  0   0-0       |  1   1-3       |  1   1-3
+33  Inter Club d'Escaldes    0 |  0   0-0       |  1   0-2       |  1   0-2
+34  FC Iberia 1999           0 |  0   0-0       |  1   0-2       |  1   0-2
+35  SC Braga                 0 |  0   0-0       |  1   0-3       |  1   0-3
+36  Kauno Žalgiris           0 |  0   0-0       |  1   0-4       |  1   0-4
+
+TABLE FOR Lommel United
+LEAGUE TABLE Jupiler Pro League 2026 | 18 teams | 72 games played
+League averages per game: home 1.71, away 1.32, total 3.03
+#   team                   Pts | home P GF-GA  | away P GF-GA  | all P GF-GA
+1   Gent                    22 |  4   7-2       |  4   8-2       |  8  15-4
+2   Club Brugge KV          21 |  4  10-1       |  4   9-3       |  8  19-4
+3   Charleroi               21 |  4  10-6       |  4   6-1       |  8  16-7
+4   Union St. Gilloise      20 |  4   9-1       |  4  13-3       |  8  22-4
+5   Anderlecht              16 |  4   6-1       |  4   3-5       |  8   9-6
+6   KVC Westerlo            13 |  4  12-10      |  4   8-7       |  8  20-17
+7   Genk                    12 |  4  11-3       |  4   5-9       |  8  16-12
+8   Zulte Waregem           11 |  4   6-4       |  4   4-5       |  8  10-9
+9   Standard Liege          11 |  4   5-3       |  4   8-10      |  8  13-13
+10  Lommel United           11 |  4   4-2       |  4   5-7       |  8   9-9
+11  SK Beveren               9 |  4   7-3       |  4   1-11      |  8   8-14
+12  St. Truiden              8 |  4   5-6       |  4  10-10      |  8  15-16
+13  Antwerp                  7 |  4   7-11      |  4   5-9       |  8  12-20
+14  KV Mechelen              6 |  4   7-11      |  4   2-6       |  8   9-17
+15  OH Leuven                5 |  4   4-6       |  4   2-8       |  8   6-14
+16  RAAL La Louvière         4 |  4   7-8       |  4   1-10      |  8   8-18
+17  Kortrijk                 3 |  4   2-8       |  4   0-10      |  8   2-18
+18  Cercle Brugge            3 |  4   4-9       |  4   5-7       |  8   9-16
+
+(26 API-Football requests used)
+
+----------------------------------------------------------------------
+MATCHBOOK: skipped (switched off for this run)
