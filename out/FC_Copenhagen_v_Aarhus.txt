@@ -1,6 +1,6 @@
-MATCH FC Copenhagen v AGF | fetched 2026-10-18 14:42 local
+MATCH FC Copenhagen v Aarhus | fetched 2026-10-18 14:44 local
 
-FORM DATA FC Copenhagen v AGF | source API-Football | 2026-10-18 14:42 UTC
+FORM DATA FC Copenhagen v Aarhus | source API-Football | 2026-10-18 14:44 UTC
 H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
 
 === FC Copenhagen (id 400): last 20 finished games ===
@@ -28,30 +28,30 @@ Listed home: 9 games, scored 26 (2.89), conceded 7 (0.78), blanks 0, clean sheet
 Listed away: 11 games, scored 23 (2.09), conceded 12 (1.09), blanks 3, clean sheets 6
 All: 20 games, scored 49 (2.45), conceded 19 (0.95), blanks 3, clean sheets 9
 
-=== AGF W (id 14243): last 20 finished games ===
-2026-10-17 H 1-3 v ASA Aarhus W | Kvindeliga | ?
-2026-10-03 A 1-2 v KoldingQ W | Kvindeliga | ?
-2026-09-29 A 0-1 v Odense Q W | Kvindeliga | ?
-2026-09-22 H 0-2 v Nordsjælland W | Kvindeliga | Aarhus
-2026-09-12 H 4-2 v FC Copenhagen W | Kvindeliga | ?
-2026-09-05 A 1-2 v Midtjylland W | Kvindeliga | ?
-2026-08-29 H 0-2 v Køge W | Kvindeliga | ?
-2026-08-19 A 0-3 v Fortuna Hjørring W | Kvindeliga | ?
-2026-08-16 H 0-3 v Brøndby W | Kvindeliga | ?
-2026-08-02 H 0-4 v KoldingQ W | Kvindeliga | ?
-2026-07-25 A 1-3 v ASA Aarhus W | Kvindeliga | ?
-2026-06-13 A 0-3 v Brøndby W | Kvindeliga | ?
-2026-05-31 H 0-3 v Køge W | Kvindeliga | ?
-2026-05-24 H 0-0 v Nordsjælland W | Kvindeliga | ?
-2026-05-09 A 1-2 v Fortuna Hjørring W | Kvindeliga | ?
-2026-05-05 H 1-2 v KoldingQ W | Kvindeliga | ?
-2026-04-28 H 0-1 v Brøndby W | Kvindeliga | ?
-2026-04-05 A 0-2 v Køge W | Kvindeliga | ?
-2026-03-28 A 1-3 v Nordsjælland W | Kvindeliga | ?
-2026-03-24 H 1-2 v Fortuna Hjørring W | Kvindeliga | ?
-Listed home: 11 games, scored 7 (0.64), conceded 24 (2.18), blanks 7, clean sheets 1
-Listed away: 9 games, scored 5 (0.56), conceded 21 (2.33), blanks 4, clean sheets 0
-All: 20 games, scored 12 (0.60), conceded 45 (2.25), blanks 11, clean sheets 1
+=== Aarhus (id 406): last 20 finished games ===
+2026-10-15 A 0-1 v Gent | UEFA Europa Conference League | Gent | xG 0.23-2.24
+2026-10-12 H 3-0 v Sonderjyske | Superliga | Aarhus | xG 1.47-1.56
+2026-10-02 H 2-1 v Vendsyssel FF | Friendlies Clubs | ?
+2026-09-20 A 2-2 v AC Horsens | Superliga | Horsens | xG 1.01-1.19
+2026-09-16 A 6-1 v Skjold Sæby | DBU Pokalen | Copenhagen
+2026-09-13 A 0-2 v FC Nordsjaelland | Superliga | Farum | xG 1.26-2.79
+2026-09-05 H 2-2 v Silkeborg | Superliga | Aarhus | xG 1.92-1.23
+2026-09-02 H 0-2 v FC Midtjylland | Superliga | Aarhus | xG 1.21-1.71
+2026-08-30 A 1-2 v Randers FC | Superliga | Randers | xG 1.97-1.10
+2026-08-27 H 1-3 v Benfica | UEFA Europa League | Randers
+2026-08-23 H 2-2 v Odense | Superliga | Aarhus
+2026-08-20 A 1-3 v Benfica | UEFA Europa League | Lisbon
+2026-08-14 A 1-2 v Viborg | Superliga | Viborg
+2026-08-11 A 0-4 v Sabah FA | UEFA Champions League | Absheron
+2026-08-05 H 2-1 v Sabah FA | UEFA Champions League | Randers
+2026-08-01 A 2-2 v Lyngby | Superliga | Kongens Lyngby
+2026-07-29 A 3-0 v Lech Poznan | UEFA Champions League | Poznan [PEN, 90-min score shown]
+2026-07-25 H 1-1 v Brondby | Superliga | Aarhus
+2026-07-21 H 1-4 v Lech Poznan | UEFA Champions League | Randers
+2026-07-15 H 2-0 v AC Horsens | Friendlies Clubs | ?
+Listed home: 10 games, scored 16 (1.60), conceded 16 (1.60), blanks 1, clean sheets 2
+Listed away: 10 games, scored 16 (1.60), conceded 19 (1.90), blanks 3, clean sheets 1
+All: 20 games, scored 32 (1.60), conceded 35 (1.75), blanks 4, clean sheets 3
 
 TABLE FOR FC Copenhagen
 LEAGUE TABLE UEFA Europa Conference League 2026 | 36 teams | 18 games played
@@ -94,22 +94,9 @@ League averages per game: home 1.94, away 1.00, total 2.94
 35  SC Braga                 0 |  0   0-0       |  1   0-3       |  1   0-3
 36  Kauno Žalgiris           0 |  0   0-0       |  1   0-4       |  1   0-4
 
-TABLE FOR AGF W
-LEAGUE TABLE Kvindeliga 2026 | 10 teams | 54 games played
-League averages per game: home 1.83, away 1.67, total 3.50
-#   team                   Pts | home P GF-GA  | away P GF-GA  | all P GF-GA
-1   Køge W                  25 |  5  19-7       |  5  11-4       | 10  30-11
-2   Nordsjælland W          22 |  5  19-5       |  6  13-7       | 11  32-12
-3   Brøndby W               20 |  5  10-6       |  5  15-2       | 10  25-8
-4   Fortuna Hjørring W      18 |  6   9-3       |  5  14-9       | 11  23-12
-5   Midtjylland W           18 |  6  12-4       |  5   3-9       | 11  15-13
-6   ASA Aarhus W            16 |  5   8-6       |  6   7-14      | 11  15-20
-7   KoldingQ W              13 |  5   8-16      |  6  12-13      | 11  20-29
-8   Odense Q W              13 |  5   3-10      |  6   5-12      | 11   8-22
-9   FC Copenhagen W          6 |  6   6-17      |  5   7-18      | 11  13-35
-10  AGF W                    3 |  6   5-16      |  5   3-11      | 11   8-27
+(Aarhus: same table as FC Copenhagen, shown above)
 
-(26 API-Football requests used)
+(25 API-Football requests used)
 
 ----------------------------------------------------------------------
 MATCHBOOK: skipped (switched off for this run)
