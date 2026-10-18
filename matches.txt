@@ -1,2 +1,2 @@
-# 2026-10-18 08:36 Ljubljana: scheduled Orbit scan, run 4 (find GZ-Power id)
-Shaanxi Union v Guangzhou | n=20 | xg=10
+# 2026-10-18 08:38 Ljubljana: scheduled Orbit scan, run 5 (Guangzhou E-Power id)
+Shaanxi Union v id:23269 | n=20 | xg=10
