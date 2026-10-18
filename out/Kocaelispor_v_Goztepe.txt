@@ -1,0 +1,66 @@
+MATCH Kocaelispor v Goztepe | fetched 2026-10-18 11:43 local
+
+FORM DATA Kocaelispor v Goztepe | source API-Football | 2026-10-18 11:44 UTC
+H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
+
+=== Kocaelispor (id 7411): last 20 finished games ===
+2026-10-11 A 1-2 v Beşiktaş | Süper Lig | Istanbul | xG 1.65-2.21
+2026-09-19 H 2-0 v Gaziantep FK | Süper Lig | Kocaeli | xG 1.30-1.03
+2026-09-13 A 0-1 v Galatasaray | Süper Lig | Istanbul | xG 0.82-2.26
+2026-09-06 H 1-0 v Samsunspor | Süper Lig | Kocaeli | xG 1.59-1.74
+2026-08-29 A 2-1 v Konyaspor | Süper Lig | Konya | xG 0.76-0.85
+2026-08-24 H 2-0 v Amed | Süper Lig | Kocaeli | xG 1.31-0.60
+2026-08-16 A 0-2 v Başakşehir | Süper Lig | Istanbul | xG 0.43-1.96
+2026-05-17 A 0-1 v Antalyaspor | Süper Lig | Antalya | xG 0.33-1.35
+2026-05-09 H 0-1 v Fatih Karagümrük | Süper Lig | Izmit | xG 0.34-0.31
+2026-05-03 A 1-1 v Kasımpaşa | Süper Lig | Istanbul | xG 0.64-0.85
+2026-04-26 A 0-1 v Gençlerbirliği S.K. | Süper Lig | Ankara
+2026-04-18 H 1-1 v Göztepe | Süper Lig | Izmit
+2026-04-12 A 1-1 v Galatasaray | Süper Lig | Istanbul
+2026-04-06 H 0-0 v Başakşehir | Süper Lig | Izmit
+2026-03-18 A 0-5 v Alanyaspor | Süper Lig | Alanya
+2026-03-14 H 1-2 v Konyaspor | Süper Lig | Izmit
+2026-03-09 A 1-0 v Eyüpspor | Süper Lig | Istanbul
+2026-03-04 A 0-1 v Beyoğlu Yeni Çarşı | Türkiye Kupası | Istanbul
+2026-02-28 H 0-1 v Beşiktaş | Süper Lig | Izmit
+2026-02-20 A 0-2 v Rizespor | Süper Lig | Rize
+Listed home: 8 games, scored 7 (0.88), conceded 5 (0.62), blanks 3, clean sheets 4
+Listed away: 12 games, scored 6 (0.50), conceded 18 (1.50), blanks 7, clean sheets 1
+All: 20 games, scored 13 (0.65), conceded 23 (1.15), blanks 10, clean sheets 5
+
+"Goztepe" matches several teams. Use id:<number> instead of the name:
+  id:994    Göztepe (Turkey)
+  id:28248  Goztepe U19 (Turkey)
+(retrying Goztepe using the opponent's country, Turkey)
+"Goztepe" matches several teams. Use id:<number> instead of the name:
+  id:994    Göztepe (Turkey)
+  id:28248  Goztepe U19 (Turkey)
+!! Goztepe: Ambiguous team name "Goztepe".
+
+TABLE FOR Kocaelispor
+LEAGUE TABLE Süper Lig 2026 | 18 teams | 68 games played
+League averages per game: home 1.65, away 1.22, total 2.87
+#   team                   Pts | home P GF-GA  | away P GF-GA  | all P GF-GA
+1   Galatasaray             19 |  4   9-5       |  4   8-6       |  8  17-11
+2   Amed                    17 |  5  14-3       |  3   4-6       |  8  18-9
+3   Fenerbahçe              16 |  4  16-4       |  4   6-2       |  8  22-6
+4   Beşiktaş                15 |  4  12-3       |  3   4-5       |  7  16-8
+5   Trabzonspor             13 |  3  11-1       |  4   5-4       |  7  16-5
+6   Çorum FK                13 |  4   6-4       |  4  12-9       |  8  18-13
+7   Kocaelispor             12 |  3   5-0       |  4   3-6       |  7   8-6
+8   Alanyaspor              12 |  3   3-2       |  5   5-7       |  8   8-9
+9   Erzurumspor FK          11 |  4   4-4       |  4   1-7       |  8   5-11
+10  Kasımpaşa               10 |  3   3-3       |  4   5-5       |  7   8-8
+11  Rizespor                10 |  3   0-6       |  5   8-5       |  8   8-11
+12  Başakşehir               8 |  4   9-4       |  3   1-7       |  7  10-11
+13  Gaziantep FK             8 |  4   2-6       |  3   5-4       |  7   7-10
+14  Gençlerbirliği S.K.      8 |  5   6-7       |  3   1-9       |  8   7-16
+15  Göztepe                  6 |  3   4-7       |  4  11-8       |  7  15-15
+16  Konyaspor                5 |  4   2-3       |  4   2-6       |  8   4-9
+17  Samsunspor               4 |  4   4-13      |  3   2-2       |  7   6-15
+18  Eyüpspor                 3 |  4   2-8       |  4   0-14      |  8   2-22
+
+(15 API-Football requests used)
+
+----------------------------------------------------------------------
+MATCHBOOK: skipped (switched off for this run)

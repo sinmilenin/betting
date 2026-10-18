@@ -1,0 +1,123 @@
+MATCH Angers v Marseille | fetched 2026-10-18 11:43 local
+
+FORM DATA Angers v Marseille | source API-Football | 2026-10-18 11:44 UTC
+H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
+
+=== Angers (id 77): last 20 finished games ===
+2026-10-10 A 1-5 v Stade Brestois 29 | Ligue 1 | Brest | xG 1.39-3.82
+2026-09-19 H 2-0 v Estac Troyes | Ligue 1 | Angers | xG 2.25-1.02
+2026-09-12 A 0-0 v Le Havre | Ligue 1 | Le Havre | xG 0.59-1.31
+2026-09-06 H 1-2 v Rennes | Ligue 1 | Angers | xG 1.66-1.54
+2026-08-29 A 3-1 v Auxerre | Ligue 1 | Auxerre | xG 1.55-1.81
+2026-08-23 H 0-2 v Lille | Ligue 1 | Angers | xG 1.99-1.24
+2026-08-15 H 3-2 v Paris FC | Friendlies Clubs | ?
+2026-08-08 H 2-1 v Lorient | Friendlies Clubs | ?
+2026-08-01 H 2-3 v Le Mans | Friendlies Clubs | ?
+2026-07-25 H 2-1 v Creteil | Friendlies Clubs | ?
+2026-07-22 H 3-1 v Les Herbiers | Friendlies Clubs | ?
+2026-05-17 A 1-1 v Stade Brestois 29 | Ligue 1 | Brest
+2026-05-10 H 1-1 v Strasbourg | Ligue 1 | Angers
+2026-05-03 A 1-3 v Auxerre | Ligue 1 | Auxerre
+2026-04-25 H 0-3 v Paris Saint Germain | Ligue 1 | Angers
+2026-04-18 H 1-1 v Le Havre | Ligue 1 | Angers
+2026-04-11 A 1-2 v Rennes | Ligue 1 | Rennes
+2026-04-05 H 0-0 v Lyon | Ligue 1 | Angers
+2026-03-20 A 1-5 v Lens | Ligue 1 | Lens
+2026-03-14 H 0-2 v Nice | Ligue 1 | Angers
+Listed home: 13 games, scored 17 (1.31), conceded 19 (1.46), blanks 4, clean sheets 2
+Listed away: 7 games, scored 8 (1.14), conceded 17 (2.43), blanks 1, clean sheets 1
+All: 20 games, scored 25 (1.25), conceded 36 (1.80), blanks 5, clean sheets 3
+
+=== Marseille (id 81): last 20 finished games ===
+2026-10-15 H 0-1 v Olympiakos Piraeus | UEFA Europa League | Marseille | xG 0.90-0.63
+2026-10-11 A 2-0 v Estac Troyes | Ligue 1 | Troyes | xG 1.30-1.06
+2026-09-20 H 1-2 v Paris Saint Germain | Ligue 1 | Marseille | xG 1.80-4.33
+2026-09-17 A 1-4 v Beşiktaş | UEFA Europa League | Istanbul
+2026-09-11 A 0-1 v Rennes | Ligue 1 | Rennes | xG 1.34-1.88
+2026-09-06 H 2-3 v Paris FC | Ligue 1 | Marseille | xG 1.42-3.29
+2026-08-30 A 0-2 v Monaco | Ligue 1 | Monaco | xG 1.40-1.72
+2026-08-21 H 4-0 v Strasbourg | Ligue 1 | Marseille | xG 1.86-0.18
+2026-08-14 H 1-2 v Atletico Madrid | Friendlies Clubs | ?
+2026-08-09 H 3-1 v Athletic Club | Friendlies Clubs | ?
+2026-07-30 H 2-1 v Nimes | Friendlies Clubs | ?
+2026-07-25 H 0-3 v Nice | Friendlies Clubs | ?
+2026-05-17 H 3-1 v Rennes | Ligue 1 | Marseille
+2026-05-10 A 1-0 v Le Havre | Ligue 1 | Le Havre
+2026-05-02 A 0-3 v Nantes | Ligue 1 | Nantes
+2026-04-26 H 1-1 v Nice | Ligue 1 | Marseille
+2026-04-18 A 0-2 v Lorient | Ligue 1 | Lorient
+2026-04-10 H 3-1 v Metz | Ligue 1 | Marseille
+2026-04-05 A 1-2 v Monaco | Ligue 1 | Monaco
+2026-03-22 H 1-2 v Lille | Ligue 1 | Marseille
+Listed home: 12 games, scored 21 (1.75), conceded 18 (1.50), blanks 2, clean sheets 1
+Listed away: 8 games, scored 5 (0.62), conceded 14 (1.75), blanks 4, clean sheets 2
+All: 20 games, scored 26 (1.30), conceded 32 (1.60), blanks 6, clean sheets 3
+
+TABLE FOR Angers
+LEAGUE TABLE Ligue 1 2026 | 18 teams | 58 games played
+League averages per game: home 1.60, away 1.33, total 2.93
+#   team                   Pts | home P GF-GA  | away P GF-GA  | all P GF-GA
+1   Paris Saint Germain     14 |  2   4-3       |  5  10-6       |  7  14-9
+2   Lille                   14 |  4   6-3       |  3   4-2       |  7  10-5
+3   Monaco                  14 |  3   6-3       |  3   4-2       |  6  10-5
+4   Rennes                  13 |  4  10-5       |  2   2-5       |  6  12-10
+5   Lyon                    11 |  3   8-2       |  3   3-2       |  6  11-4
+6   Paris FC                11 |  3   5-1       |  3   3-3       |  6   8-4
+7   Lens                    10 |  3   7-4       |  4   7-7       |  7  14-11
+8   Stade Brestois 29        9 |  3   7-4       |  4   6-6       |  7  13-10
+9   Toulouse                 9 |  3   3-5       |  4   9-6       |  7  12-11
+10  Lorient                  8 |  3   4-4       |  3   2-2       |  6   6-6
+11  Nice                     8 |  4   5-3       |  2   0-4       |  6   5-7
+12  Strasbourg               7 |  3   4-5       |  4   8-10      |  7  12-15
+13  Angers                   7 |  3   3-4       |  3   4-6       |  6   7-10
+14  Marseille                6 |  3   7-5       |  3   2-3       |  6   9-8
+15  Le Mans                  6 |  4   6-8       |  3   4-7       |  7  10-15
+16  Auxerre                  6 |  3   4-4       |  3   4-12      |  6   8-16
+17  Estac Troyes             4 |  4   3-11      |  3   2-5       |  7   5-16
+18  Le Havre                 2 |  3   1-3       |  3   3-5       |  6   4-8
+
+TABLE FOR Marseille
+LEAGUE TABLE UEFA Europa League 2026 | 36 teams | 36 games played
+League averages per game: home 1.47, away 1.39, total 2.86
+#   team                   Pts | home P GF-GA  | away P GF-GA  | all P GF-GA
+1   Juventus                 6 |  1   5-0       |  1   2-1       |  2   7-1
+2   Bayer Leverkusen         6 |  1   2-0       |  1   4-0       |  2   6-0
+3   Benfica                  6 |  1   4-1       |  1   2-0       |  2   6-1
+4   Beşiktaş                 6 |  1   4-1       |  1   3-2       |  2   7-3
+5   Bournemouth              6 |  1   3-0       |  1   2-1       |  2   5-1
+6   Omonia Nicosia           6 |  1   1-0       |  1   3-0       |  2   4-0
+7   Ferencvarosi TC          6 |  1   2-1       |  1   3-1       |  2   5-2
+8   Lyon                     6 |  1   3-2       |  1   2-1       |  2   5-3
+9   Sunderland               6 |  1   1-0       |  1   2-1       |  2   3-1
+10  Olympiakos Piraeus       6 |  1   2-1       |  1   1-0       |  2   3-1
+11  Sparta Praha             4 |  1   1-1       |  1   4-1       |  2   5-2
+12  Union St. Gilloise       4 |  1   1-1       |  1   3-0       |  2   4-1
+13  Rennes                   4 |  1   2-1       |  1   0-0       |  2   2-1
+14  Dinamo Zagreb            4 |  1   1-0       |  1   0-0       |  2   1-0
+15  Crystal Palace           3 |  1   4-0       |  1   2-3       |  2   6-3
+16  AC Milan                 3 |  1   0-2       |  1   4-0       |  2   4-2
+17  Jagiellonia              3 |  1   3-1       |  1   1-2       |  2   4-3
+18  OFI                      3 |  1   2-0       |  1   1-2       |  2   3-2
+19  Torreense                3 |  1   1-2       |  1   2-1       |  2   3-3
+20  AZ Alkmaar               3 |  1   2-1       |  1   0-1       |  2   2-2
+21  Red Bull Salzburg        3 |  1   0-4       |  1   1-0       |  2   1-4
+22  Real Sociedad            1 |  1   1-2       |  1   1-1       |  2   2-3
+23  Lillestrom               1 |  1   1-2       |  1   1-1       |  2   2-3
+24  Levski Sofia             1 |  1   0-1       |  1   1-1       |  2   1-2
+25  Hapoel Beer Sheva        1 |  1   0-0       |  1   1-2       |  2   1-2
+26  Sturm Graz               1 |  1   0-0       |  1   0-3       |  2   0-3
+27  NEC Nijmegen             1 |  1   1-1       |  1   0-5       |  2   1-6
+28  Celta Vigo               0 |  1   1-2       |  1   0-1       |  2   1-3
+29  Anderlecht               0 |  1   1-2       |  1   0-1       |  2   1-3
+30  1899 Hoffenheim          0 |  1   2-3       |  1   0-2       |  2   2-5
+31  Plzen                    0 |  1   0-3       |  1   1-2       |  2   1-5
+32  Marseille                0 |  1   0-1       |  1   1-4       |  2   1-5
+33  Celtic                   0 |  1   1-3       |  1   1-4       |  2   2-7
+34  Ararat-Armenia           0 |  1   1-4       |  1   1-3       |  2   2-7
+35  Celje                    0 |  1   0-3       |  1   0-2       |  2   0-5
+36  Lech Poznan              0 |  1   0-4       |  1   0-4       |  2   0-8
+
+(25 API-Football requests used)
+
+----------------------------------------------------------------------
+MATCHBOOK: skipped (switched off for this run)
