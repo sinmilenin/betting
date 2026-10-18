@@ -1,6 +1,6 @@
-MATCH Puerto Cabello v Monagas | fetched 2026-10-18 17:43 local
+MATCH Puerto Cabello v id:2811 | fetched 2026-10-18 17:45 local
 
-FORM DATA Puerto Cabello v Monagas | source API-Football | 2026-10-18 17:43 UTC
+FORM DATA Puerto Cabello v id:2811 | source API-Football | 2026-10-18 17:45 UTC
 H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
 
 === Puerto Cabello (id 2827): last 20 finished games ===
@@ -28,14 +28,30 @@ Listed home: 9 games, scored 16 (1.78), conceded 8 (0.89), blanks 1, clean sheet
 Listed away: 11 games, scored 9 (0.82), conceded 11 (1.00), blanks 3, clean sheets 4
 All: 20 games, scored 25 (1.25), conceded 19 (0.95), blanks 4, clean sheets 6
 
-"Monagas" matches several teams. Use id:<number> instead of the name:
-  id:2811   Monagas SC (Venezuela)
-  id:11371  Monagas II (Venezuela)
-(retrying Monagas using the opponent's country, Venezuela)
-"Monagas" matches several teams. Use id:<number> instead of the name:
-  id:2811   Monagas SC (Venezuela)
-  id:11371  Monagas II (Venezuela)
-!! Monagas: Ambiguous team name "Monagas".
+=== Monagas SC (id 2811): last 20 finished games ===
+2026-10-14 H 2-1 v Dinamo de Puerto La Cruz | Copa Venezuela | ?
+2026-10-11 H 2-1 v Estudiantes de Merida FC | Primera División | ?
+2026-10-07 A 0-1 v Mineros de Guyana | Copa Venezuela | ?
+2026-09-19 A 1-1 v Rayo Zuliano | Primera División | Maracaibo
+2026-09-16 H 1-0 v Zamora FC | Primera División | Maturin
+2026-09-13 A 1-0 v Caracas FC | Primera División | Caracas
+2026-09-09 H 5-1 v Bolívar | Copa Venezuela | ?
+2026-09-06 H 0-1 v Metropolitanos FC | Primera División | Maturin
+2026-09-03 A 3-1 v Anzoátegui FC | Primera División | Puerto La Cruz
+2026-08-30 A 1-3 v Trujillanos FC | Primera División | Valera
+2026-08-26 A 3-1 v Bolívar | Copa Venezuela | ?
+2026-08-23 H 0-0 v Portuguesa FC | Primera División | Maturin
+2026-08-19 H 1-0 v Mineros de Guyana | Copa Venezuela | ?
+2026-08-16 A 2-3 v Deportivo Tachira FC | Primera División | San Cristobal
+2026-08-08 H 1-0 v Carabobo FC | Primera División | Maturin
+2026-08-04 A 1-2 v UCV | Primera División | Caracas
+2026-08-01 H 1-2 v Deportivo La Guaira | Primera División | Maturin
+2026-06-24 A 4-0 v Dinamo de Puerto La Cruz | Copa Venezuela | ?
+2026-04-25 H 1-1 v Puerto Cabello | Primera División | Maturin
+2026-04-19 A 2-3 v Estudiantes de Merida FC | Primera División | Mérida
+Listed home: 10 games, scored 14 (1.40), conceded 7 (0.70), blanks 2, clean sheets 4
+Listed away: 10 games, scored 18 (1.80), conceded 15 (1.50), blanks 1, clean sheets 2
+All: 20 games, scored 32 (1.60), conceded 22 (1.10), blanks 3, clean sheets 6
 
 TABLE FOR Puerto Cabello
 LEAGUE TABLE Primera División 2026 | 50 teams | 201 games played
@@ -92,7 +108,31 @@ League averages per game: home 1.41, away 1.13, total 2.54
 13  Anzoátegui FC            8 |  7   5-14      |  6   3-8       | 13   8-22 [Primera Division: Clausura]
 14  Zamora FC                8 |  7   9-14      |  6   3-13      | 13  12-27 [Primera Division: Clausura]
 
-(15 API-Football requests used)
+TABLE FOR Monagas SC
+LEAGUE TABLE Copa Venezuela 2026 | 20 teams | 0 games played
+#   team                   Pts | home P GF-GA  | away P GF-GA  | all P GF-GA
+1   Anzoátegui FC           10 |  0   0-0       |  0   0-0       |  4   9-5 [Round 1 - Group A]
+2   Atletico Avila FC        4 |  0   0-0       |  0   0-0       |  4   3-5 [Round 1 - Group A]
+3   Petare FC                2 |  0   0-0       |  0   0-0       |  4   3-5 [Round 1 - Group A]
+4   Marítimo                 0 |  0   0-0       |  0   0-0       |  0   0-0 [Round 1 - Group A]
+1   Zamora FC               13 |  0   0-0       |  0   0-0       |  6  17-5 [Round 1 - Group B]
+2   Club Atletico Barinas   13 |  0   0-0       |  0   0-0       |  6  12-5 [Round 1 - Group B]
+3   Atletico el Vigia FC     7 |  0   0-0       |  0   0-0       |  6  11-16 [Round 1 - Group B]
+4   Real Frontera            1 |  0   0-0       |  0   0-0       |  6   2-16 [Round 1 - Group B]
+1   Caracas FC              13 |  0   0-0       |  0   0-0       |  6  14-7 [Round 1 - Group C]
+2   Aragua FC               10 |  0   0-0       |  0   0-0       |  6  14-8 [Round 1 - Group C]
+3   Yaracuyanos FC           7 |  0   0-0       |  0   0-0       |  6  11-11 [Round 1 - Group C]
+4   Fundación Lara Deporti   4 |  0   0-0       |  0   0-0       |  6   4-17 [Round 1 - Group C]
+1   Rayo Zuliano            12 |  0   0-0       |  0   0-0       |  6   9-3 [Round 1 - Group D]
+2   Deportivo Lara           7 |  0   0-0       |  0   0-0       |  6   9-9 [Round 1 - Group D]
+3   Urena SC                 6 |  0   0-0       |  0   0-0       |  6   6-11 [Round 1 - Group D]
+4   Trujillanos FC           5 |  0   0-0       |  0   0-0       |  6   5-6 [Round 1 - Group D]
+1   Monagas SC              15 |  0   0-0       |  0   0-0       |  6  15-4 [Round 1 - Group E]
+2   Mineros de Guyana       10 |  0   0-0       |  0   0-0       |  6  13-3 [Round 1 - Group E]
+3   Bolívar                  7 |  0   0-0       |  0   0-0       |  6   7-11 [Round 1 - Group E]
+4   Dinamo de Puerto La Cr   3 |  0   0-0       |  0   0-0       |  6   3-20 [Round 1 - Group E]
+
+(26 API-Football requests used)
 
 ----------------------------------------------------------------------
 MATCHBOOK: skipped (switched off for this run)
