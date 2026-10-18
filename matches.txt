@@ -1,10 +1,4 @@
-# Scan 18.10 15:56: run 1
-Sandefjord v Lillestrom | n=20 | xg=10
-UTA Arad v CFR Cluj | n=20 | xg=10
-Cesena v Avellino | n=20 | xg=10
-Paris FC v Rennes | n=20 | xg=10
-Le Havre v Auxerre | n=20 | xg=10
-Lorient v Monaco | n=20 | xg=10
-Lech Poznan v Korona Kielce | n=20 | xg=10
-Nottingham Forest v Arsenal | n=20 | xg=10
-Borussia Monchengladbach v Hoffenheim | n=20 | xg=10
+# Scan 18.10 15:56: run 2 (ids for Gladbach, Hoffenheim, Arsenal; CFR Cluj name)
+id:163 v id:167 | n=20 | xg=10
+Nottingham Forest v id:42 | n=20 | xg=10
+UTA Arad v CFR 1907 Cluj | n=20 | xg=10
