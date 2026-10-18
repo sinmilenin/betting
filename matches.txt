@@ -1,2 +1,5 @@
-# Scan 18.10 18:12: run 3 (Iraklis 1908)
-PAOK v Iraklis 1908 | n=20 | xg=10
+# Scan 18.10 18:56: run 1 (new fixtures)
+Cartagines v Saprissa | n=20 | xg=10
+Kifisia v Aris | n=20 | xg=10
+Lyon v Nice | n=20 | xg=10
+Juventus v Lazio | n=20 | xg=10
