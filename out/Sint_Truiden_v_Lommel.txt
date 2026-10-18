@@ -1,0 +1,19 @@
+MATCH Sint Truiden v Lommel | fetched 2026-10-18 16:12 local
+
+FORM DATA Sint Truiden v Lommel | source API-Football | 2026-10-18 16:12 UTC
+H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
+
+"Lommel" matches several teams. Use id:<number> instead of the name:
+  id:259    Lommel United (Belgium)
+  id:14211  Verbroedering Lommel (Belgium)
+  id:19514  Lutlommel (Belgium)
+  id:19585  Lommel U21 (Belgium)
+  id:24389  Lommel II (Belgium)
+!! Sint Truiden: No team found for "Sint Truiden".
+
+!! Lommel: Ambiguous team name "Lommel".
+
+(2 API-Football requests used)
+
+----------------------------------------------------------------------
+MATCHBOOK: skipped (switched off for this run)
