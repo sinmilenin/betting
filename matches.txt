@@ -1,2 +1,2 @@
-# 2026-10-18 10:52 Ljubljana: scheduled Orbit scan (Kasimpasa re-run, first run picked Kasimpasa U19)
-Kasımpaşa v Samsunspor | n=20 | xg=10
+# 2026-10-18 10:55 Ljubljana: scheduled Orbit scan (Kasimpasa re-run by id; name search returned U19 / failed on Turkish characters)
+id:1004 v Samsunspor | n=20 | xg=10
