@@ -1,0 +1,76 @@
+MATCH Flora Tallinn v Tammeka | fetched 2026-10-18 15:30 local
+
+FORM DATA Flora Tallinn v Tammeka | source API-Football | 2026-10-18 15:30 UTC
+H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
+
+=== Flora Tallinn (id 687): last 20 finished games ===
+2026-10-15 H 1-3 v FC Levadia Tallinn | Meistriliiga | Tallinn
+2026-10-11 A 0-2 v Kuressaare | Meistriliiga | Kuressaare
+2026-09-20 H 3-2 v Vaprus | Meistriliiga | Tallinn
+2026-09-12 A 3-2 v Nõmme United | Meistriliiga | Tallinn
+2026-09-08 A 2-2 v Trans Narva | Meistriliiga | Narva
+2026-09-05 H 2-1 v Kalju Nomme | Meistriliiga | Tallinn
+2026-09-02 H 3-2 v Tammeka | Meistriliiga | Tallinn
+2026-08-30 H 1-2 v Paide | Meistriliiga | Tallinn
+2026-08-26 A 1-3 v Tammeka | Meistriliiga | Tartu
+2026-08-23 A 2-1 v Vaprus | Meistriliiga | Parnu
+2026-08-16 H 2-3 v Kuressaare | Meistriliiga | Tallinn
+2026-08-13 H 0-4 v Inter Club d'Escaldes | UEFA Europa Conference League | Tallinn
+2026-08-06 A 0-2 v Inter Club d'Escaldes | UEFA Europa Conference League | Encamp
+2026-08-02 H 1-0 v Laagri | Meistriliiga | Tallinn
+2026-07-30 A 0-1 v The New Saints | UEFA Europa Conference League | Oswestry [PEN, 90-min score shown]
+2026-07-23 H 1-0 v The New Saints | UEFA Europa Conference League | Tallinn
+2026-07-17 H 1-2 v Nõmme United | Meistriliiga | Tallinn
+2026-07-14 A 2-2 v FC Iberia 1999 | UEFA Champions League | Tbilisi
+2026-07-08 H 2-3 v FC Iberia 1999 | UEFA Champions League | Tallinn
+2026-07-02 A 3-0 v Kuressaare | Meistriliiga | Kuressaare
+Listed home: 11 games, scored 17 (1.55), conceded 22 (2.00), blanks 1, clean sheets 2
+Listed away: 9 games, scored 13 (1.44), conceded 15 (1.67), blanks 3, clean sheets 1
+All: 20 games, scored 30 (1.50), conceded 37 (1.85), blanks 4, clean sheets 3
+
+=== Tammeka (id 3530): last 20 finished games ===
+2026-10-14 A 1-2 v Paide | Meistriliiga | Paide
+2026-10-10 H 4-0 v Nõmme United | Meistriliiga | Tartu
+2026-10-02 H 4-1 v Viimsi | Cup | Tartu
+2026-09-20 H 1-3 v Kalju Nomme | Meistriliiga | Tartu
+2026-09-17 A 0-6 v FC Levadia Tallinn | Meistriliiga | Tallinn
+2026-09-13 A 3-1 v Kuressaare | Meistriliiga | Kuressaare
+2026-09-09 H 0-2 v Paide | Meistriliiga | Tartu
+2026-09-06 A 2-0 v Laagri | Meistriliiga | Laagri
+2026-09-02 A 2-3 v Flora Tallinn | Meistriliiga | Tallinn
+2026-08-30 A 2-0 v Trans Narva | Meistriliiga | Narva
+2026-08-26 H 3-1 v Flora Tallinn | Meistriliiga | Tartu
+2026-08-22 H 1-0 v Kuressaare | Meistriliiga | Tartu
+2026-08-14 A 1-0 v Nõmme United | Meistriliiga | Tallinn
+2026-08-05 A 1-0 v Rumori Calcio | Cup | ?
+2026-08-02 A 1-5 v Kalju Nomme | Meistriliiga | Tallinn
+2026-07-24 H 19-0 v Zealot Sporting | Cup | Tartu
+2026-07-11 A 1-5 v Vaprus | Meistriliiga | Parnu
+2026-07-05 H 2-1 v Laagri | Meistriliiga | Tartu
+2026-06-21 H 1-0 v Trans Narva | Meistriliiga | Tartu
+2026-06-17 A 2-1 v Kalju Nomme | Meistriliiga | Tallinn
+Listed home: 9 games, scored 35 (3.89), conceded 8 (0.89), blanks 1, clean sheets 4
+Listed away: 11 games, scored 16 (1.45), conceded 23 (2.09), blanks 1, clean sheets 4
+All: 20 games, scored 51 (2.55), conceded 31 (1.55), blanks 2, clean sheets 8
+
+TABLE FOR Flora Tallinn
+LEAGUE TABLE Meistriliiga 2026 | 10 teams | 158 games played
+League averages per game: home 1.77, away 1.32, total 3.09
+#   team                   Pts | home P GF-GA  | away P GF-GA  | all P GF-GA
+1   FC Levadia Tallinn      81 | 15  47-7       | 17  40-15      | 32  87-22
+2   Flora Tallinn           55 | 16  34-22      | 15  26-22      | 31  60-44
+3   Paide                   54 | 15  22-15      | 16  28-23      | 31  50-38
+4   Kalju Nomme             51 | 16  32-18      | 16  22-15      | 32  54-33
+5   Tammeka                 47 | 15  21-17      | 16  21-32      | 31  42-49
+6   Laagri                  44 | 17  27-21      | 15  18-26      | 32  45-47
+7   Vaprus                  36 | 16  28-26      | 16  15-37      | 32  43-63
+8   Kuressaare              35 | 16  20-24      | 16  14-27      | 32  34-51
+9   Nõmme United            31 | 16  32-33      | 16  18-41      | 32  50-74
+10  Trans Narva             20 | 16  17-26      | 15   7-42      | 31  24-68
+
+(Tammeka: same table as Flora Tallinn, shown above)
+
+(25 API-Football requests used)
+
+----------------------------------------------------------------------
+MATCHBOOK: skipped (switched off for this run)
