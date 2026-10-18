@@ -1,2 +1,11 @@
-# Scan 18.10 14:26: run 5 (Atletico Torque id)
-id:2378 v id:2365 | n=20 | xg=10
+# Scan 18.10 15:11: run 1
+Odense v Brondby | n=20 | xg=10
+Granada v Cadiz | n=20 | xg=10
+Orgryte v GAIS | n=20 | xg=10
+Panathinaikos v Asteras Tripolis | n=20 | xg=10
+Malmo FF v Hacken | n=20 | xg=10
+Halmstad v Hammarby | n=20 | xg=10
+FC Groningen v Ajax | n=20 | xg=10
+MVV v Heracles | n=20 | xg=10
+Molde v Start | n=20 | xg=10
+Valerenga v Brann | n=20 | xg=10
