@@ -1,21 +1,9 @@
-RUN 2026-10-18 12:28 local | 11 match(es)
-Kuressaare v FCI Levadia -> out/Kuressaare_v_FCI_Levadia.txt
-Newcastle W v Sunderland W -> out/Newcastle_W_v_Sunderland_W.txt
-    !! Newcastle W: No team found for "Newcastle W".
-Hajduk Split v Varazdin -> out/Hajduk_Split_v_Varazdin.txt
-    !! Hajduk Split: Ambiguous team name "Hajduk Split".
-    !! Varazdin: Ambiguous team name "Varazdin".
-Albion v Montevideo City Torque -> out/Albion_v_Montevideo_City_Torque.txt
-    !! Albion: Ambiguous team name "Albion".
-    !! Montevideo City Torque: No team found for "Montevideo City Torque".
-Banik Ostrava v Sparta Praha -> out/Banik_Ostrava_v_Sparta_Praha.txt
-    !! Banik Ostrava: Ambiguous team name "Banik Ostrava".
-FK Riga v Super Nova -> out/FK_Riga_v_Super_Nova.txt
-Fatima v Academico Viseu -> out/Fatima_v_Academico_Viseu.txt
-Crvena Zvezda v Mladost Lucani -> out/Crvena_Zvezda_v_Mladost_Lucani.txt
-    !! Crvena Zvezda: Ambiguous team name "Crvena Zvezda".
-Panetolikos v Olympiakos Piraeus -> out/Panetolikos_v_Olympiakos_Piraeus.txt
-Celtic v Hearts -> out/Celtic_v_Hearts.txt
-    !! Hearts: Ambiguous team name "Hearts".
-Celta Vigo v Alaves -> out/Celta_Vigo_v_Alaves.txt
-Requests used: API-Football 188, Matchbook 0
+RUN 2026-10-18 12:29 local | 6 match(es)
+Newcastle United W v Sunderland W -> out/Newcastle_United_W_v_Sunderland_W.txt
+id:608 v id:1483 -> out/id_608_v_id_1483.txt
+id:2378 v Montevideo City -> out/id_2378_v_Montevideo_City.txt
+    !! Montevideo City: No team found for "Montevideo City".
+id:3713 v Sparta Praha -> out/id_3713_v_Sparta_Praha.txt
+id:598 v Mladost Lucani -> out/id_598_v_Mladost_Lucani.txt
+Celtic v Heart Of Midlothian -> out/Celtic_v_Heart_Of_Midlothian.txt
+Requests used: API-Football 141, Matchbook 0
