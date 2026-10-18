@@ -1,3 +1,8 @@
-RUN 2026-10-18 14:45 local | 1 match(es)
-Karpaty v id:14434 -> out/Karpaty_v_id_14434.txt
-Requests used: API-Football 25, Matchbook 0
+RUN 2026-10-18 15:27 local | 4 match(es)
+Jablonec v Plzen -> out/Jablonec_v_Plzen.txt
+    !! Jablonec: Ambiguous team name "Jablonec".
+Tromso v KFUM Oslo -> out/Tromso_v_KFUM_Oslo.txt
+Flora v Tammeka -> out/Flora_v_Tammeka.txt
+Ajman v Sharjah -> out/Ajman_v_Sharjah.txt
+    !! Sharjah: Ambiguous team name "Sharjah".
+Requests used: API-Football 84, Matchbook 0
