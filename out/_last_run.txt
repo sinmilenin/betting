@@ -1,5 +1,17 @@
-RUN 2026-10-18 13:59 local | 3 match(es)
-id:163 v id:167 -> out/id_163_v_id_167.txt
-Nottingham Forest v id:42 -> out/Nottingham_Forest_v_id_42.txt
-UTA Arad v CFR 1907 Cluj -> out/UTA_Arad_v_CFR_1907_Cluj.txt
-Requests used: API-Football 77, Matchbook 0
+RUN 2026-10-18 14:42 local | 11 match(es)
+Karpaty v Epicentr -> out/Karpaty_v_Epicentr.txt
+    !! Epicentr: No team found for "Epicentr".
+Kongsvinger v Sandnes Ulf -> out/Kongsvinger_v_Sandnes_Ulf.txt
+Sturm Graz v Grazer AK -> out/Sturm_Graz_v_Grazer_AK.txt
+Sporting Cristal v Comerciantes Unidos -> out/Sporting_Cristal_v_Comerciantes_Unidos.txt
+Omonia 29 Maiou v Anorthosis -> out/Omonia_29_Maiou_v_Anorthosis.txt
+    !! Omonia 29 Maiou: No team found for "Omonia 29 Maiou".
+FC Copenhagen v AGF -> out/FC_Copenhagen_v_AGF.txt
+Basaksehir v Gaziantep -> out/Basaksehir_v_Gaziantep.txt
+    !! Basaksehir: Ambiguous team name "Basaksehir".
+    !! Gaziantep: Ambiguous team name "Gaziantep".
+AC Milan v Atalanta -> out/AC_Milan_v_Atalanta.txt
+Valladolid v Eldense -> out/Valladolid_v_Eldense.txt
+Girona v Andorra -> out/Girona_v_Andorra.txt
+Malaga v Real Sociedad -> out/Malaga_v_Real_Sociedad.txt
+Requests used: API-Football 231, Matchbook 0
