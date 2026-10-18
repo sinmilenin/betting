@@ -1,4 +1,4 @@
-RUN 2026-10-18 19:15 local | 2 match(es)
-Estudiantes de Rio Cuarto v id:463 -> out/Estudiantes_de_Rio_Cuarto_v_id_463.txt
-id:450 v id:460 -> out/id_450_v_id_460.txt
-Requests used: API-Football 50, Matchbook 0
+RUN 2026-10-18 19:57 local | 2 match(es)
+Envigado v Barranquilla -> out/Envigado_v_Barranquilla.txt
+Bahia v Flamengo -> out/Bahia_v_Flamengo.txt
+Requests used: API-Football 51, Matchbook 0

@@ -1,0 +1,121 @@
+MATCH Bahia v Flamengo | fetched 2026-10-18 19:57 local
+
+FORM DATA Bahia v Flamengo | source API-Football | 2026-10-18 19:57 UTC
+H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
+
+=== Bahia (id 118): last 20 finished games ===
+2026-10-11 H 1-0 v Mirassol | Serie A | El Salvador | xG 3.15-1.82
+2026-10-09 A 0-1 v Palmeiras | Serie A | Sao Paulo | xG 0.52-1.79
+2026-09-20 A 1-2 v Atletico Paranaense | Serie A | Curitiba | xG 1.19-0.64
+2026-09-14 H 2-1 v Remo | Serie A | Salvador | xG 2.20-1.35
+2026-09-05 A 3-2 v RB Bragantino | Serie A | Bragança Paulista | xG 2.36-1.65
+2026-08-30 H 3-2 v Internacional | Serie A | Salvador | xG 2.39-1.69
+2026-08-23 A 2-0 v Vitoria | Serie A | Salvador | xG 4.32-0.52
+2026-08-16 A 3-3 v Chapecoense-sc | Serie A | Chapecó | xG 2.43-1.25
+2026-08-09 H 0-0 v Vasco DA Gama | Serie A | Salvador | xG 0.53-0.65
+2026-07-30 A 0-0 v Fluminense | Serie A | Rio de Janeiro | xG 0.43-2.25
+2026-07-26 H 1-1 v Corinthians | Serie A | Salvador
+2026-07-21 A 1-1 v Atletico-MG | Serie A | Belo Horizonte
+2026-07-17 H 2-0 v Chapecoense-sc | Serie A | Salvador
+2026-07-12 A 0-2 v Fluminense | Friendlies Clubs | Rio de Janeiro
+2026-07-04 H 4-1 v Atletico Torque | Friendlies Clubs | ?
+2026-05-30 H 2-1 v Botafogo | Serie A | Salvador
+2026-05-25 A 2-3 v Coritiba | Serie A | Curitiba
+2026-05-17 H 1-1 v Gremio | Serie A | Salvador
+2026-05-14 A 1-2 v Remo | Copa Do Brasil | Belem
+2026-05-10 H 1-2 v Cruzeiro | Serie A | Salvador
+Listed home: 10 games, scored 17 (1.70), conceded 9 (0.90), blanks 1, clean sheets 3
+Listed away: 10 games, scored 13 (1.30), conceded 16 (1.60), blanks 3, clean sheets 2
+All: 20 games, scored 30 (1.50), conceded 25 (1.25), blanks 4, clean sheets 5
+
+=== Flamengo (id 127): last 20 finished games ===
+2026-10-16 A 0-0 v Estudiantes L.P. | CONMEBOL Libertadores | La Plata | xG 0.18-1.13
+2026-10-11 H 1-0 v Fluminense | Serie A | Rio de Janeiro | xG 1.65-0.65
+2026-10-08 A 2-2 v Santos | Serie A | Santos | xG 1.15-2.42
+2026-09-20 H 2-1 v RB Bragantino | Serie A | Rio de Janeiro | xG 2.94-0.76
+2026-09-18 H 1-1 v Independiente del Valle | CONMEBOL Libertadores | Rio de Janeiro
+2026-09-13 H 2-1 v Corinthians | Serie A | Rio de Janeiro | xG 2.62-0.30
+2026-09-11 A 2-0 v Independiente del Valle | CONMEBOL Libertadores | Quito
+2026-09-06 A 1-0 v Remo | Serie A | Belem | xG 2.10-0.44
+2026-09-02 H 2-0 v Mirassol | Serie A | Rio de Janeiro | xG 1.75-0.49
+2026-08-30 H 3-0 v Botafogo | Serie A | Rio de Janeiro | xG 1.70-0.79
+2026-08-22 A 1-2 v Cruzeiro | Serie A | Belo Horizonte
+2026-08-20 H 2-1 v Cruzeiro | CONMEBOL Libertadores | Rio de Janeiro
+2026-08-16 A 5-1 v Mirassol | Serie A | Mirassol
+2026-08-13 A 1-1 v Cruzeiro | CONMEBOL Libertadores | Belo Horizonte
+2026-08-09 H 2-0 v Vitoria | Serie A | Rio de Janeiro
+2026-07-29 A 1-1 v Internacional | Serie A | Porto Alegre
+2026-07-26 H 1-1 v Sao Paulo | Serie A | Rio de Janeiro
+2026-07-23 A 4-0 v Chapecoense-sc | Serie A | Chapeco
+2026-07-17 H 4-2 v Olimpia | Friendlies Clubs | ?
+2026-07-11 A 2-1 v Benfica | Friendlies Clubs | ?
+Listed home: 10 games, scored 20 (2.00), conceded 7 (0.70), blanks 0, clean sheets 4
+Listed away: 10 games, scored 19 (1.90), conceded 8 (0.80), blanks 1, clean sheets 4
+All: 20 games, scored 39 (1.95), conceded 15 (0.75), blanks 1, clean sheets 8
+
+TABLE FOR Bahia
+LEAGUE TABLE Serie A 2026 | 20 teams | 304 games played
+League averages per game: home 1.53, away 1.12, total 2.65
+#   team                   Pts | home P GF-GA  | away P GF-GA  | all P GF-GA
+1   Palmeiras               66 | 15  28-10      | 16  26-12      | 31  54-22
+2   Flamengo                64 | 15  29-10      | 15  29-15      | 30  58-25
+3   Atletico Paranaense     53 | 16  27-15      | 15  22-22      | 31  49-37
+4   Fluminense              51 | 15  28-14      | 15  20-23      | 30  48-37
+5   Atletico-MG             50 | 16  27-17      | 15  15-18      | 31  42-35
+6   Bahia                   49 | 15  23-14      | 15  21-22      | 30  44-36
+7   Cruzeiro                48 | 15  26-16      | 15  20-28      | 30  46-44
+8   Sao Paulo               42 | 16  25-13      | 15  11-22      | 31  36-35
+9   Santos                  42 | 15  22-20      | 15  24-25      | 30  46-45
+10  RB Bragantino           40 | 15  24-17      | 15  14-18      | 30  38-35
+11  Botafogo                39 | 16  26-22      | 15  18-26      | 31  44-48
+12  Coritiba                39 | 15  20-20      | 16  18-29      | 31  38-49
+13  Vitoria                 36 | 15  22-12      | 15  11-32      | 30  33-44
+14  Mirassol                36 | 16  23-21      | 15  13-23      | 31  36-44
+15  Vasco DA Gama           35 | 15  21-18      | 15  15-25      | 30  36-43
+16  Corinthians             32 | 15  15-16      | 15  16-22      | 30  31-38
+17  Internacional           32 | 15  18-17      | 16  15-23      | 31  33-40
+18  Gremio                  31 | 15  23-17      | 15   9-23      | 30  32-40
+19  Remo                    25 | 15  19-20      | 15  14-28      | 30  33-48
+20  Chapecoense-sc          18 | 14  19-33      | 16  11-29      | 30  30-62
+
+TABLE FOR Flamengo
+LEAGUE TABLE CONMEBOL Libertadores 2026 | 32 teams | 96 games played
+League averages per game: home 1.47, away 0.86, total 2.33
+#   team                   Pts | home P GF-GA  | away P GF-GA  | all P GF-GA
+1   Flamengo                16 |  3   8-1       |  3   6-1       |  6  14-2 [Group A]
+2   Estudiantes L.P.         9 |  3   4-2       |  3   2-3       |  6   6-5 [Group A]
+3   Independiente Medellin   7 |  3   2-4       |  3   4-7       |  6   6-11 [Group A]
+4   Cusco                    1 |  3   3-6       |  3   1-6       |  6   4-12 [Group A]
+1   Coquimbo Unido          10 |  3   6-2       |  3   2-4       |  6   8-6 [Group B]
+2   Deportes Tolima          8 |  3   6-0       |  3   1-6       |  6   7-6 [Group B]
+3   Club Nacional            8 |  3   4-1       |  3   3-8       |  6   7-9 [Group B]
+4   Universitario            6 |  3   4-4       |  3   1-2       |  6   5-6 [Group B]
+1   Independ. Rivadavia     16 |  3   6-2       |  3   9-4       |  6  15-6 [Group C]
+2   Fluminense               8 |  3   6-4       |  3   1-3       |  6   7-7 [Group C]
+3   Bolívar                  5 |  3   4-4       |  3   2-4       |  6   6-8 [Group C]
+4   Deportivo La Guaira      3 |  3   3-5       |  3   3-8       |  6   6-13 [Group C]
+1   U. Catolica             13 |  3   3-2       |  3   5-2       |  6   8-4 [Group D]
+2   Cruzeiro                11 |  3   6-2       |  3   2-1       |  6   8-3 [Group D]
+3   Boca Juniors             7 |  3   4-2       |  3   2-3       |  6   6-5 [Group D]
+4   Barcelona SC             3 |  3   2-3       |  3   0-9       |  6   2-12 [Group D]
+1   Corinthians             11 |  3   4-2       |  3   4-2       |  6   8-4 [Group E]
+2   Platense                10 |  3   3-4       |  3   5-3       |  6   8-7 [Group E]
+3   Santa Fe                 8 |  3   4-3       |  3   2-4       |  6   6-7 [Group E]
+4   Penarol                  3 |  3   2-4       |  3   2-4       |  6   4-8 [Group E]
+1   Cerro Porteno           13 |  3   4-1       |  3   2-1       |  6   6-2 [Group F]
+2   Palmeiras               11 |  3   6-3       |  3   4-2       |  6  10-5 [Group F]
+3   Sporting Cristal         6 |  3   3-2       |  3   3-7       |  6   6-9 [Group F]
+4   Junior                   4 |  3   4-4       |  3   1-7       |  6   5-11 [Group F]
+1   LDU de Quito            12 |  3   7-2       |  3   1-3       |  6   8-5 [Group G]
+2   Mirassol                12 |  3   5-0       |  3   2-4       |  6   7-4 [Group G]
+3   Lanus                    9 |  3   3-0       |  3   0-7       |  6   3-7 [Group G]
+4   Always Ready             3 |  3   5-3       |  3   2-6       |  6   7-9 [Group G]
+1   Independiente del Vall  13 |  3   8-2       |  3   3-4       |  6  11-6 [Group H]
+2   Rosario Central         13 |  3   5-0       |  3   4-1       |  6   9-1 [Group H]
+3   UCV                      9 |  3   5-4       |  3   2-7       |  6   7-11 [Group H]
+4   Libertad Asuncion        0 |  3   2-5       |  3   2-8       |  6   4-13 [Group H]
+
+(26 API-Football requests used)
+
+----------------------------------------------------------------------
+MATCHBOOK: skipped (switched off for this run)
