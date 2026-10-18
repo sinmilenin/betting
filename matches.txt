@@ -1,2 +1,6 @@
-# Scan 18.10 19:41: run 3 (Al-Fateh name)
-Fateh v id:2928 | n=20 | xg=10
+# Scan 18.10 20:26: run 1 (new fixtures)
+Lechia Gdansk v Arka Gdynia | n=20 | xg=10
+Sao Bernardo v Criciuma | n=20 | xg=10
+Avai v Athletic Club | n=20 | xg=10
+Nacional Potosi v Bolivar | n=20 | xg=10
+Guemes v Almagro | n=20 | xg=10
