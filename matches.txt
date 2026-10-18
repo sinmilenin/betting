@@ -1,2 +1,11 @@
-# 2026-10-18 11:40 Ljubljana: scheduled Orbit scan (Igdir lookup via candidate list)
-Belediyespor v Boluspor | n=20 | xg=10
+# 2026-10-18 12:14 Ljubljana: scheduled Orbit scan (first analyses, KO 13:00-14:00)
+Chelsea W v Tottenham W | n=20 | xg=10
+United IK Nordic v Norrby | n=20 | xg=10
+Arminia Bielefeld v VfL Osnabruck | n=20 | xg=10
+Karlsruher SC v SV Darmstadt 98 | n=20 | xg=10
+Dynamo Dresden v FC Magdeburg | n=20 | xg=10
+KuPS v VPS | n=20 | xg=10
+Sirius v Elfsborg | n=20 | xg=10
+Vasteras SK v Mjallby | n=20 | xg=10
+Osasuna v Racing Santander | n=20 | xg=10
+Tampere United v RoPS | n=20 | xg=10
