@@ -1,2 +1,6 @@
-# 2026-10-18 09:12 Ljubljana: scheduled Orbit scan (FC Seoul v Gimcheon first analysis)
-FC Seoul v Gimcheon Sangmu | n=20 | xg=10
+# 2026-10-18 10:43 Ljubljana: scheduled Orbit scan (5 first analyses)
+Gzira United v Hamrun Spartans | n=20 | xg=10
+Wuhan Three Towns v Shanghai Shenhua | n=20 | xg=10
+PEC Zwolle v Go Ahead Eagles | n=20 | xg=10
+Kasimpasa v Samsunspor | n=20 | xg=10
+Udinese v Lecce | n=20 | xg=10
