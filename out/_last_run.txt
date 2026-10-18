@@ -1,5 +1,4 @@
-RUN 2026-10-18 06:28 local | 2 match(es)
-Machida Zelvia v id:316 -> out/Machida_Zelvia_v_id_316.txt
-Shaanxi Union v Guangzhou E-Power -> out/Shaanxi_Union_v_Guangzhou_E_Power.txt
-    !! Guangzhou E-Power: API-Football error: {"search": "The Search field may only contain alpha-numeric characters and spaces."}
-Requests used: API-Football 41, Matchbook 0
+RUN 2026-10-18 06:28 local | 1 match(es)
+Shaanxi Union v Guangzhou E Power -> out/Shaanxi_Union_v_Guangzhou_E_Power.txt
+    !! Guangzhou E Power: No team found for "Guangzhou E Power".
+Requests used: API-Football 14, Matchbook 0
