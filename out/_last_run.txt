@@ -1,4 +1,4 @@
-RUN 2026-10-18 06:28 local | 1 match(es)
-Shaanxi Union v Guangzhou E Power -> out/Shaanxi_Union_v_Guangzhou_E_Power.txt
-    !! Guangzhou E Power: No team found for "Guangzhou E Power".
-Requests used: API-Football 14, Matchbook 0
+RUN 2026-10-18 06:29 local | 1 match(es)
+Shaanxi Union v Guangzhou -> out/Shaanxi_Union_v_Guangzhou.txt
+    !! Guangzhou: Ambiguous team name "Guangzhou".
+Requests used: API-Football 15, Matchbook 0

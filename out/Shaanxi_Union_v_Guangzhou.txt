@@ -1,6 +1,6 @@
-MATCH Shaanxi Union v Guangzhou E Power | fetched 2026-10-18 06:28 local
+MATCH Shaanxi Union v Guangzhou | fetched 2026-10-18 06:29 local
 
-FORM DATA Shaanxi Union v Guangzhou E Power | source API-Football | 2026-10-18 06:28 UTC
+FORM DATA Shaanxi Union v Guangzhou | source API-Football | 2026-10-18 06:29 UTC
 H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
 
 === Shaanxi Union (id 23286): last 20 finished games ===
@@ -28,7 +28,18 @@ Listed home: 11 games, scored 27 (2.45), conceded 9 (0.82), blanks 1, clean shee
 Listed away: 9 games, scored 14 (1.56), conceded 17 (1.89), blanks 3, clean sheets 1
 All: 20 games, scored 41 (2.05), conceded 26 (1.30), blanks 4, clean sheets 4
 
-!! Guangzhou E Power: No team found for "Guangzhou E Power".
+"Guangzhou" matches several teams. Use id:<number> instead of the name:
+  id:832    Guangzhou Evergrande FC (China)
+  id:838    Guangzhou R&F (China)
+  id:23269  Guangzhou E-Power (China)
+  id:25774  Guangzhou Dandelion (China)
+(retrying Guangzhou using the opponent's country, China)
+"Guangzhou" matches several teams. Use id:<number> instead of the name:
+  id:832    Guangzhou Evergrande FC (China)
+  id:838    Guangzhou R&F (China)
+  id:23269  Guangzhou E-Power (China)
+  id:25774  Guangzhou Dandelion (China)
+!! Guangzhou: Ambiguous team name "Guangzhou".
 
 TABLE FOR Shaanxi Union
 LEAGUE TABLE League One 2026 | 16 teams | 213 games played
@@ -51,7 +62,7 @@ League averages per game: home 1.42, away 1.26, total 2.68
 15  Meizhou Kejia           16 | 13  16-32      | 13   9-21      | 26  25-53
 16  Dongguan United         16 | 13   9-24      | 14  17-35      | 27  26-59
 
-(14 API-Football requests used)
+(15 API-Football requests used)
 
 ----------------------------------------------------------------------
 MATCHBOOK: skipped (switched off for this run)
