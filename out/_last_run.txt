@@ -1,3 +1,6 @@
-RUN 2026-10-18 08:48 local | 1 match(es)
-id:1004 v Samsunspor -> out/id_1004_v_Samsunspor.txt
-Requests used: API-Football 25, Matchbook 0
+RUN 2026-10-18 09:27 local | 3 match(es)
+Altay v Atyrau -> out/Altay_v_Atyrau.txt
+Igdir v Boluspor -> out/Igdir_v_Boluspor.txt
+    !! Igdir: No team found for "Igdir".
+Queens Park Rangers U21 v Bristol City U21 -> out/Queens_Park_Rangers_U21_v_Bristol_City_U.txt
+Requests used: API-Football 66, Matchbook 0
