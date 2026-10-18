@@ -1,4 +1,7 @@
-# 2026-10-18 12:24 Ljubljana: scheduled Orbit scan, run 2 (team names / ids)
-Chelsea W v Tottenham Hotspur W | n=20 | xg=10
-United Nordic v Norrby | n=20 | xg=10
-Sirius v id:372 | n=20 | xg=10
+# Scan 18.10 12:56: first analyses (13:30-14:30 KO)
+Nanjing City v Shijiazhuang Gongfu | n=20 | xg=10
+Shanghai Port v Chengdu Rongcheng | n=20 | xg=10
+Sarpsborg 08 v Rosenborg | n=20 | xg=10
+Red Bull Salzburg v Altach | n=20 | xg=10
+Wolfsberger AC v WSG Tirol | n=20 | xg=10
+Cambuur v AZ Alkmaar | n=20 | xg=10
