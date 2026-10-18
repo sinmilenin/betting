@@ -1,0 +1,19 @@
+MATCH Guemes v Almagro | fetched 2026-10-18 18:27 local
+
+FORM DATA Guemes v Almagro | source API-Football | 2026-10-18 18:27 UTC
+H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
+
+"Guemes" matches several teams. Use id:<number> instead of the name:
+  id:1939   Atletico Guemes (Argentina)
+  id:3969   Club Atlético Güemes (Argentina)
+"Almagro" matches several teams. Use id:<number> instead of the name:
+  id:482    Almagro (Argentina)
+  id:9894   Almagro (Spain)
+!! Guemes: Ambiguous team name "Guemes".
+
+!! Almagro: Ambiguous team name "Almagro".
+
+(2 API-Football requests used)
+
+----------------------------------------------------------------------
+MATCHBOOK: skipped (switched off for this run)
