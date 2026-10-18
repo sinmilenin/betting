@@ -1,12 +1,6 @@
-RUN 2026-10-18 10:57 local | 6 match(es)
-Nanjing City v Shijiazhuang Gongfu -> out/Nanjing_City_v_Shijiazhuang_Gongfu.txt
-    !! Shijiazhuang Gongfu: No team found for "Shijiazhuang Gongfu".
-Shanghai Port v Chengdu Rongcheng -> out/Shanghai_Port_v_Chengdu_Rongcheng.txt
-Sarpsborg 08 v Rosenborg -> out/Sarpsborg_08_v_Rosenborg.txt
-    !! Sarpsborg 08: Ambiguous team name "Sarpsborg 08".
-Red Bull Salzburg v Altach -> out/Red_Bull_Salzburg_v_Altach.txt
-    !! Altach: Ambiguous team name "Altach".
-Wolfsberger AC v WSG Tirol -> out/Wolfsberger_AC_v_WSG_Tirol.txt
-    !! WSG Tirol: No team found for "WSG Tirol".
-Cambuur v AZ Alkmaar -> out/Cambuur_v_AZ_Alkmaar.txt
-Requests used: API-Football 108, Matchbook 0
+RUN 2026-10-18 11:00 local | 4 match(es)
+Nanjing City v Hebei Kungfu -> out/Nanjing_City_v_Hebei_Kungfu.txt
+id:333 v Rosenborg -> out/id_333_v_Rosenborg.txt
+Red Bull Salzburg v id:618 -> out/Red_Bull_Salzburg_v_id_618.txt
+Wolfsberger AC v WSG Wattens -> out/Wolfsberger_AC_v_WSG_Wattens.txt
+Requests used: API-Football 100, Matchbook 0

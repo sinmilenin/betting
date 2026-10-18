@@ -1,6 +1,6 @@
-MATCH Nanjing City v Shijiazhuang Gongfu | fetched 2026-10-18 10:57 local
+MATCH Nanjing City v Hebei Kungfu | fetched 2026-10-18 11:00 local
 
-FORM DATA Nanjing City v Shijiazhuang Gongfu | source API-Football | 2026-10-18 10:57 UTC
+FORM DATA Nanjing City v Hebei Kungfu | source API-Football | 2026-10-18 11:00 UTC
 H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
 
 === Nanjing City (id 16619): last 20 finished games ===
@@ -28,7 +28,30 @@ Listed home: 9 games, scored 9 (1.00), conceded 15 (1.67), blanks 3, clean sheet
 Listed away: 11 games, scored 7 (0.64), conceded 16 (1.45), blanks 4, clean sheets 2
 All: 20 games, scored 16 (0.80), conceded 31 (1.55), blanks 7, clean sheets 3
 
-!! Shijiazhuang Gongfu: No team found for "Shijiazhuang Gongfu".
+=== Hebei Kungfu (id 17264): last 20 finished games ===
+2026-10-10 A 0-0 v Suzhou Dongwu | League One | Suzhou
+2026-10-06 H 1-0 v Dalian Huayi | League One | Shijiazhuang
+2026-09-19 A 3-1 v Meizhou Kejia | League One | Meizhou
+2026-09-13 H 0-0 v Shenzhen Juniors | League One | Shijiazhuang
+2026-09-06 A 1-0 v Guangxi Hengchen | League One | Nanning
+2026-08-29 H 2-0 v Wuxi Wugou | League One | Shijiazhuang
+2026-08-22 A 2-1 v Heilongjiang Lava Spring | League One | Dingnan
+2026-08-16 A 2-1 v Dongguan United | League One | Foshan
+2026-08-08 H 2-1 v Shaanxi Union | League One | Shijiazhuang
+2026-08-02 A 2-2 v Changchun Yatai | League One | Changchun
+2026-07-25 H 1-1 v Nantong Zhiyun | League One | Shijiazhuang
+2026-07-17 H 0-0 v Yanbian Longding | League One | Shijiazhuang
+2026-07-11 A 0-2 v Guangzhou E-Power | League One | Guangzhou
+2026-07-04 A 1-2 v Ningbo Professional | League One | Ningbo
+2026-06-27 H 2-1 v Nanjing City | League One | Shijiazhuang
+2026-06-20 H 0-2 v Shanghai Shenhua | FA Cup | Shijiazhuang
+2026-06-14 H 1-1 v Suzhou Dongwu | League One | Shijiazhuang
+2026-05-30 A 0-0 v Dalian Huayi | League One | Dalian
+2026-05-24 H 0-1 v Meizhou Kejia | League One | Shijiazhuang
+2026-05-17 A 0-0 v Guizhou Xufengtang | FA Cup | ? [PEN, 90-min score shown]
+Listed home: 10 games, scored 9 (0.90), conceded 7 (0.70), blanks 4, clean sheets 4
+Listed away: 10 games, scored 11 (1.10), conceded 9 (0.90), blanks 4, clean sheets 4
+All: 20 games, scored 20 (1.00), conceded 16 (0.80), blanks 8, clean sheets 8
 
 TABLE FOR Nanjing City
 LEAGUE TABLE League One 2026 | 16 teams | 214 games played
@@ -51,7 +74,9 @@ League averages per game: home 1.43, away 1.25, total 2.68
 15  Meizhou Kejia           16 | 13  16-32      | 13   9-21      | 26  25-53
 16  Dongguan United         16 | 13   9-24      | 14  17-35      | 27  26-59
 
-(14 API-Football requests used)
+(Hebei Kungfu: same table as Nanjing City, shown above)
+
+(25 API-Football requests used)
 
 ----------------------------------------------------------------------
 MATCHBOOK: skipped (switched off for this run)
