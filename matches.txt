@@ -1,12 +1,7 @@
-# Scan 18.10 14:26: run 1 (new fixtures)
-Kuressaare v FCI Levadia | n=20 | xg=10
-Newcastle W v Sunderland W | n=20 | xg=10
-Hajduk Split v Varazdin | n=20 | xg=10
-Albion v Montevideo City Torque | n=20 | xg=10
-Banik Ostrava v Sparta Praha | n=20 | xg=10
-FK Riga v Super Nova | n=20 | xg=10
-Fatima v Academico Viseu | n=20 | xg=10
-Crvena Zvezda v Mladost Lucani | n=20 | xg=10
-Panetolikos v Olympiakos Piraeus | n=20 | xg=10
-Celtic v Hearts | n=20 | xg=10
-Celta Vigo v Alaves | n=20 | xg=10
+# Scan 18.10 14:26: run 2 (ids for ambiguous names)
+Newcastle United W v Sunderland W | n=20 | xg=10
+id:608 v id:1483 | n=20 | xg=10
+id:2378 v Montevideo City | n=20 | xg=10
+id:3713 v Sparta Praha | n=20 | xg=10
+id:598 v Mladost Lucani | n=20 | xg=10
+Celtic v Heart Of Midlothian | n=20 | xg=10
