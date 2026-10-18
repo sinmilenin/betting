@@ -1,2 +1,5 @@
-# 2026-10-17 21:23 Ljubljana: scheduled Orbit scan, run 5 (St Louis id)
-Minnesota United FC v id:20787 | n=20 | xg=10
+# 2026-10-18 08:27 Ljubljana: scheduled Orbit scan, run 1
+FC Machida v Fukuoka | n=20 | xg=10
+Pohang Steelers v FC Anyang | n=20 | xg=10
+Gangwon v Incheon United | n=20 | xg=10
+Shaanxi Union v Guangdong GZ-Power | n=20 | xg=10
