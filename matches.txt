@@ -1,3 +1,2 @@
-# Scan 19.10 16:42: run 3 (Rigas FS ambiguous, APOEL returned no games; retrying)
-RFS v Tukums | n=20 | xg=10
-Pafos v Apoel Nicosia | n=20 | xg=10
+# Scan 19.10 16:42: run 4 (RFS ambiguous as "Rigas FS" and "RFS"; trying the table spelling)
+Rīgas FS v Tukums | n=20 | xg=10
