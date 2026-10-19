@@ -1,38 +1,5 @@
 [
   {
-    "id": "2026-10-19_fc-kharkiv-livyi-bereg-kyiv_2-1",
-    "date": "2026-10-19",
-    "ko": "12:00",
-    "match": "FC Kharkiv v Livyi Bereg Kyiv",
-    "comp": "Ukraine, Ukrainian Premier League",
-    "cell": "2-1",
-    "lay": 10,
-    "stake": 3,
-    "created": "2026-10-19T10:45:50+02:00"
-  },
-  {
-    "id": "2026-10-19_fc-kharkiv-livyi-bereg-kyiv_3-0",
-    "date": "2026-10-19",
-    "ko": "12:00",
-    "match": "FC Kharkiv v Livyi Bereg Kyiv",
-    "comp": "Ukraine, Ukrainian Premier League",
-    "cell": "3-0",
-    "lay": 15.5,
-    "stake": 3,
-    "created": "2026-10-19T10:45:50+02:00"
-  },
-  {
-    "id": "2026-10-19_fc-kharkiv-livyi-bereg-kyiv_3-1",
-    "date": "2026-10-19",
-    "ko": "12:00",
-    "match": "FC Kharkiv v Livyi Bereg Kyiv",
-    "comp": "Ukraine, Ukrainian Premier League",
-    "cell": "3-1",
-    "lay": 17.5,
-    "stake": 3,
-    "created": "2026-10-19T10:45:50+02:00"
-  },
-  {
     "id": "2026-10-19_lee-man-warriors-kitchee-sc_0-1",
     "date": "2026-10-19",
     "ko": "12:30",
@@ -262,5 +229,104 @@
     "lay": 13,
     "stake": 3,
     "created": "2026-10-19T17:39:48+02:00"
+  },
+  {
+    "id": "2026-10-19_bursaspor-pendikspor_2-0",
+    "date": "2026-10-19",
+    "ko": "19:00",
+    "match": "Bursaspor v Pendikspor",
+    "comp": "Turkey, Turkish 1 Lig",
+    "cell": "2-0",
+    "lay": 8.6,
+    "stake": 3,
+    "created": "2026-10-19T18:19:07+02:00"
+  },
+  {
+    "id": "2026-10-19_wisla-plock-radomiak-radom_1-2",
+    "date": "2026-10-19",
+    "ko": "19:00",
+    "match": "Wisla Plock v Radomiak Radom",
+    "comp": "Poland, Polish Ekstraklasa",
+    "cell": "1-2",
+    "lay": 17,
+    "stake": 3,
+    "created": "2026-10-19T18:19:07+02:00"
+  },
+  {
+    "id": "2026-10-19_wisla-plock-radomiak-radom_2-2",
+    "date": "2026-10-19",
+    "ko": "19:00",
+    "match": "Wisla Plock v Radomiak Radom",
+    "comp": "Poland, Polish Ekstraklasa",
+    "cell": "2-2",
+    "lay": 17,
+    "stake": 3,
+    "created": "2026-10-19T18:19:07+02:00"
+  },
+  {
+    "id": "2026-10-19_jong-psv-eindhoven-fc-dordrecht_2-2",
+    "date": "2026-10-19",
+    "ko": "20:00",
+    "match": "Jong PSV Eindhoven v FC Dordrecht",
+    "comp": "Netherlands, Dutch Eerste Divisie",
+    "cell": "2-2",
+    "lay": 14,
+    "stake": 3,
+    "created": "2026-10-19T18:19:07+02:00"
+  },
+  {
+    "id": "2026-10-19_jong-psv-eindhoven-fc-dordrecht_aoaw",
+    "date": "2026-10-19",
+    "ko": "20:00",
+    "match": "Jong PSV Eindhoven v FC Dordrecht",
+    "comp": "Netherlands, Dutch Eerste Divisie",
+    "cell": "AOAW",
+    "lay": 15.5,
+    "stake": 3,
+    "created": "2026-10-19T18:19:07+02:00"
+  },
+  {
+    "id": "2026-10-19_fc-voluntari-fcsb_0-2",
+    "date": "2026-10-19",
+    "ko": "20:00",
+    "match": "FC Voluntari v FCSB",
+    "comp": "Romania, Romanian Liga I",
+    "cell": "0-2",
+    "lay": 11,
+    "stake": 3,
+    "created": "2026-10-19T18:19:07+02:00"
+  },
+  {
+    "id": "2026-10-19_fc-voluntari-fcsb_0-3",
+    "date": "2026-10-19",
+    "ko": "20:00",
+    "match": "FC Voluntari v FCSB",
+    "comp": "Romania, Romanian Liga I",
+    "cell": "0-3",
+    "lay": 15.5,
+    "stake": 3,
+    "created": "2026-10-19T18:19:07+02:00"
+  },
+  {
+    "id": "2026-10-19_fc-voluntari-fcsb_1-2",
+    "date": "2026-10-19",
+    "ko": "20:00",
+    "match": "FC Voluntari v FCSB",
+    "comp": "Romania, Romanian Liga I",
+    "cell": "1-2",
+    "lay": 9.8,
+    "stake": 3,
+    "created": "2026-10-19T18:19:07+02:00"
+  },
+  {
+    "id": "2026-10-19_fc-voluntari-fcsb_1-3",
+    "date": "2026-10-19",
+    "ko": "20:00",
+    "match": "FC Voluntari v FCSB",
+    "comp": "Romania, Romanian Liga I",
+    "cell": "1-3",
+    "lay": 15,
+    "stake": 3,
+    "created": "2026-10-19T18:19:07+02:00"
   }
 ]
