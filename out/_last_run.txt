@@ -1,5 +1,5 @@
-RUN 2026-10-19 14:44 local | 2 match(es)
-BFC Daugavpils v Auda -> out/BFC_Daugavpils_v_Auda.txt
-Rigas FS v Tukums -> out/Rigas_FS_v_Tukums.txt
-    !! Rigas FS: Ambiguous team name "Rigas FS".
-Requests used: API-Football 39, Matchbook 0
+RUN 2026-10-19 14:45 local | 2 match(es)
+RFS v Tukums -> out/RFS_v_Tukums.txt
+    !! RFS: Ambiguous team name "RFS".
+Pafos v Apoel Nicosia -> out/Pafos_v_Apoel_Nicosia.txt
+Requests used: API-Football 41, Matchbook 0

@@ -1,12 +1,13 @@
-MATCH Rigas FS v Tukums | fetched 2026-10-19 14:44 local
+MATCH RFS v Tukums | fetched 2026-10-19 14:45 local
 
-FORM DATA Rigas FS v Tukums | source API-Football | 2026-10-19 14:44 UTC
+FORM DATA RFS v Tukums | source API-Football | 2026-10-19 14:45 UTC
 H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
 
-"Rigas FS" matches several teams. Use id:<number> instead of the name:
-  id:4160   Rīgas FS (Latvia)
-  id:10922  Rīgas FS W (None)
-  id:18836  Rīgas FS II (Latvia)
+"RFS" matches several teams. Use id:<number> instead of the name:
+  id:12245  Ebusua Dwarfs (Ghana)
+  id:21382  RFS akadēmija (Latvia)
+  id:22291  Tregaron Turfs (Wales)
+  id:27769  RFK/RFS (Latvia)
 === Tukums (id 4144): last 20 finished games ===
 2026-10-10 H 0-2 v Riga | Virsliga | Tukums | xG 0.79-2.97
 2026-09-20 H 1-1 v Grobiņa | Virsliga | Tukums
@@ -32,12 +33,13 @@ Listed home: 11 games, scored 12 (1.09), conceded 19 (1.73), blanks 2, clean she
 Listed away: 9 games, scored 6 (0.67), conceded 25 (2.78), blanks 4, clean sheets 0
 All: 20 games, scored 18 (0.90), conceded 44 (2.20), blanks 6, clean sheets 0
 
-(retrying Rigas FS using the opponent's country, Latvia)
-"Rigas FS" matches several teams. Use id:<number> instead of the name:
-  id:4160   Rīgas FS (Latvia)
-  id:10922  Rīgas FS W (None)
-  id:18836  Rīgas FS II (Latvia)
-!! Rigas FS: Ambiguous team name "Rigas FS".
+(retrying RFS using the opponent's country, Latvia)
+"RFS" matches several teams. Use id:<number> instead of the name:
+  id:12245  Ebusua Dwarfs (Ghana)
+  id:21382  RFS akadēmija (Latvia)
+  id:22291  Tregaron Turfs (Wales)
+  id:27769  RFK/RFS (Latvia)
+!! RFS: Ambiguous team name "RFS".
 
 TABLE FOR Tukums
 LEAGUE TABLE Virsliga 2026 | 10 teams | 163 games played
@@ -54,7 +56,7 @@ League averages per game: home 1.64, away 1.26, total 2.90
 9   Tukums                  24 | 17  28-26      | 15  16-37      | 32  44-63
 10  Ogre United             18 | 16  18-32      | 17  15-49      | 33  33-81
 
-(14 API-Football requests used)
+(15 API-Football requests used)
 
 ----------------------------------------------------------------------
 MATCHBOOK: skipped (switched off for this run)
