@@ -1,3 +1,3 @@
-RUN 2026-10-19 08:42 local | 1 match(es)
-FC Kharkiv v Livyi Bereg -> out/FC_Kharkiv_v_Livyi_Bereg.txt
-Requests used: API-Football 26, Matchbook 0
+RUN 2026-10-19 08:43 local | 1 match(es)
+FC Kharkiv v Livyi Bereh -> out/FC_Kharkiv_v_Livyi_Bereh.txt
+Requests used: API-Football 25, Matchbook 0
