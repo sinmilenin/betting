@@ -1,5 +1,4 @@
-RUN 2026-10-19 14:45 local | 2 match(es)
-RFS v Tukums -> out/RFS_v_Tukums.txt
-    !! RFS: Ambiguous team name "RFS".
-Pafos v Apoel Nicosia -> out/Pafos_v_Apoel_Nicosia.txt
-Requests used: API-Football 41, Matchbook 0
+RUN 2026-10-19 14:47 local | 1 match(es)
+Rīgas FS v Tukums -> out/R_gas_FS_v_Tukums.txt
+    !! Rīgas FS: API-Football error: {"search": "The Search field may only contain alpha-numeric characters and spaces."}
+Requests used: API-Football 14, Matchbook 0
