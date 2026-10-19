@@ -1,3 +1,2 @@
-# Scan 18.10 21:56: run 1 (new fixtures)
-Envigado v Barranquilla | n=20 | xg=10
-Bahia v Flamengo | n=20 | xg=10
+# Scan 19.10 09:57: run 1
+Tai Po v Southern District | n=20 | xg=10
