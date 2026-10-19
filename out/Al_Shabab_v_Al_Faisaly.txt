@@ -1,0 +1,66 @@
+MATCH Al Shabab v Al Faisaly | fetched 2026-10-19 17:42 local
+
+FORM DATA Al Shabab v Al Faisaly | source API-Football | 2026-10-19 17:43 UTC
+H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
+
+"Al Shabab" matches several teams. Use id:<number> instead of the name:
+  id:2940   Al Shabab (Saudi-Arabia)
+  id:3541   Al Shabab (Kuwait)
+  id:4580   Al Shabab Al Arabi (Lebanon)
+  id:5480   Al Shabab (Bahrain)
+  id:10693  Al Shabab Dubai (United-Arab-Emirates)
+  id:13267  Al Shabab (United-Arab-Emirates)
+=== Al Faisaly (id 4531): last 20 finished games ===
+2026-10-17 H 4-1 v Al Ramtha | League | ?
+2026-10-14 H 2-0 v Al-Nahda | AFC Champions League Two | Amman | xG 1.62-1.50
+2026-10-10 A 1-0 v Al Salt | League | ?
+2026-09-20 A 4-0 v Al Buqa'a | League | ?
+2026-09-16 A 3-4 v Al-Rayyan SC | AFC Champions League Two | Doha
+2026-09-11 H 2-0 v Doqarah | League | ?
+2026-09-04 A 0-0 v Al Wihdat | League | Amman
+2026-08-28 H 2-1 v Al Hussein | Super Cup | Amman
+2026-08-21 H 2-1 v Al Wihdat | Super Cup | Amman
+2026-05-12 H 1-1 v Al Ramtha | Cup | Amman [PEN, 90-min score shown]
+2026-05-08 A 0-1 v Al Hussein | League | ?
+2026-05-03 H 3-2 v Al Ramtha | League | Amman
+2026-04-24 A 2-2 v Al Ahli | League | ?
+2026-04-17 A 1-0 v Al Salt | League | Amman
+2026-04-12 H 1-0 v Al Hussein | League | Amman
+2026-04-08 H 3-0 v Al Jazeera | League | Amman
+2026-04-04 A 0-1 v Al Wihdat | League | Amman
+2026-03-18 H 2-1 v Al Buqa'a | League | Amman
+2026-03-12 H 0-1 v Shabab Al Ordon | League | Amman
+2026-03-06 A 0-0 v Sama Al Sarhan | League | ?
+Listed home: 11 games, scored 22 (2.00), conceded 8 (0.73), blanks 1, clean sheets 4
+Listed away: 9 games, scored 11 (1.22), conceded 8 (0.89), blanks 4, clean sheets 5
+All: 20 games, scored 33 (1.65), conceded 16 (0.80), blanks 5, clean sheets 9
+
+(retrying Al Shabab using the opponent's country, Jordan)
+"Al Shabab" matches several teams. Use id:<number> instead of the name:
+  id:2940   Al Shabab (Saudi-Arabia)
+  id:3541   Al Shabab (Kuwait)
+  id:4580   Al Shabab Al Arabi (Lebanon)
+  id:5480   Al Shabab (Bahrain)
+  id:10693  Al Shabab Dubai (United-Arab-Emirates)
+  id:13267  Al Shabab (United-Arab-Emirates)
+!! Al Shabab: Ambiguous team name "Al Shabab".
+
+TABLE FOR Al Faisaly
+LEAGUE TABLE League 2026 | 10 teams | 25 games played
+League averages per game: home 0.92, away 1.20, total 2.12
+#   team                   Pts | home P GF-GA  | away P GF-GA  | all P GF-GA
+1   Al Faisaly              13 |  2   6-1       |  3   5-0       |  5  11-1
+2   Al Jazeera               8 |  2   1-2       |  3  10-1       |  5  11-3
+3   Al Wihdat                8 |  3   1-1       |  2   1-0       |  5   2-1
+4   Al Buqa'a                8 |  3   1-4       |  2   3-0       |  5   4-4
+5   Al Ramtha                8 |  2   1-0       |  3   3-5       |  5   4-5
+6   Al Salt                  5 |  2   0-1       |  3   3-3       |  5   3-4
+7   Al Hussein               5 |  3   4-6       |  2   3-4       |  5   7-10
+8   Al Arabi                 4 |  3   2-3       |  2   1-5       |  5   3-8
+9   Doqarah                  4 |  2   3-5       |  3   0-3       |  5   3-8
+10  Shabab Al Ordon          3 |  3   4-7       |  2   1-2       |  5   5-9
+
+(15 API-Football requests used)
+
+----------------------------------------------------------------------
+MATCHBOOK: skipped (switched off for this run)

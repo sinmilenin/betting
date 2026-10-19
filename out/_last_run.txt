@@ -1,5 +1,13 @@
-RUN 2026-10-19 16:59 local | 3 match(es)
-Celta de Vigo II v Tenerife -> out/Celta_de_Vigo_II_v_Tenerife.txt
-Waterford v id:3851 -> out/Waterford_v_id_3851.txt
-id:2932 v Hazm -> out/id_2932_v_Hazm.txt
-Requests used: API-Football 76, Matchbook 0
+RUN 2026-10-19 17:42 local | 7 match(es)
+Jong Utrecht v Roda JC -> out/Jong_Utrecht_v_Roda_JC.txt
+    !! Roda JC: No team found for "Roda JC".
+Jong Ajax v De Graafschap -> out/Jong_Ajax_v_De_Graafschap.txt
+Wolves U21 v West Brom U21 -> out/Wolves_U21_v_West_Brom_U21.txt
+    !! West Brom U21: No team found for "West Brom U21".
+Getafe v Rayo Vallecano -> out/Getafe_v_Rayo_Vallecano.txt
+Tottenham v Coventry -> out/Tottenham_v_Coventry.txt
+Braga v Gil Vicente -> out/Braga_v_Gil_Vicente.txt
+    !! Braga: Ambiguous team name "Braga".
+Al Shabab v Al Faisaly -> out/Al_Shabab_v_Al_Faisaly.txt
+    !! Al Shabab: Ambiguous team name "Al Shabab".
+Requests used: API-Football 136, Matchbook 0
