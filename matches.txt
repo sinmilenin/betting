@@ -1,3 +1,2 @@
-# Scan 19.10 20:26 run 4 (run 3: Patrick ambiguous -> id:3843; Fram still resolved to Norway)
-Derry City v id:3843 | n=20 | xg=10
-Fram Reykjavik v Akranes | n=20 | xg=10
+# Scan 19.10 21:12 run 1
+Mushuc Runa v Orense | n=20 | xg=10
