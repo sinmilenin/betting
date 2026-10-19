@@ -1,0 +1,78 @@
+MATCH Fram Reykjavik v Akranes | fetched 2026-10-19 18:31 local
+
+FORM DATA Fram Reykjavik v Akranes | source API-Football | 2026-10-19 18:31 UTC
+H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
+
+=== Fram Reykjavik (id 2117): last 20 finished games ===
+2026-10-10 H 1-2 v KR Reykjavik | Úrvalsdeild | ?
+2026-09-20 A 2-2 v Keflavik | Úrvalsdeild | ?
+2026-09-15 H 1-3 v Breidablik | Úrvalsdeild | ?
+2026-09-06 A 2-2 v Vikingur Reykjavik | Úrvalsdeild | ?
+2026-08-30 H 2-2 v KA Akureyri | Úrvalsdeild | ?
+2026-08-24 A 4-3 v Breidablik | Úrvalsdeild | ?
+2026-08-17 H 3-1 v Stjarnan | Úrvalsdeild | ?
+2026-08-10 H 2-5 v KR Reykjavik | Úrvalsdeild | ?
+2026-08-01 A 2-1 v IBV Vestmannaeyjar | Úrvalsdeild | Vestmannaeyjar
+2026-07-26 H 0-0 v FH hafnarfjordur | Úrvalsdeild | ?
+2026-07-18 A 3-2 v Valur Reykjavik | Úrvalsdeild | ?
+2026-07-12 H 6-1 v Thor Akureyri | Úrvalsdeild | ?
+2026-07-06 A 1-1 v Keflavik | Úrvalsdeild | ?
+2026-06-29 A 2-0 v IA Akranes | Úrvalsdeild | Akranes
+2026-06-21 H 0-5 v Vikingur Reykjavik | Úrvalsdeild | ?
+2026-06-15 A 4-3 v KA Akureyri | Úrvalsdeild | Akureyri
+2026-05-29 H 4-3 v Breidablik | Úrvalsdeild | ?
+2026-05-22 A 1-0 v Stjarnan | Úrvalsdeild | Gardabaer
+2026-05-17 A 2-2 v KR Reykjavik | Úrvalsdeild | ?
+2026-05-08 H 3-2 v Valur Reykjavik | Úrvalsdeild | ?
+Listed home: 10 games, scored 22 (2.20), conceded 24 (2.40), blanks 2, clean sheets 1
+Listed away: 10 games, scored 23 (2.30), conceded 16 (1.60), blanks 0, clean sheets 2
+All: 20 games, scored 45 (2.25), conceded 40 (2.00), blanks 2, clean sheets 3
+
+=== IA Akranes (id 827): last 20 finished games ===
+2026-10-11 A 2-2 v Vikingur Reykjavik | Úrvalsdeild | ?
+2026-09-20 H 4-1 v Breidablik | Úrvalsdeild | Akranes
+2026-09-13 A 1-5 v KR Reykjavik | Úrvalsdeild | ?
+2026-09-06 H 3-1 v KR Reykjavik | Úrvalsdeild | Akranes
+2026-08-30 A 2-2 v Valur Reykjavik | Úrvalsdeild | ?
+2026-08-23 H 1-1 v FH hafnarfjordur | Úrvalsdeild | Akranes
+2026-08-16 A 3-1 v IBV Vestmannaeyjar | Úrvalsdeild | Vestmannaeyjar
+2026-08-09 H 2-0 v Thor Akureyri | Úrvalsdeild | Akranes
+2026-08-02 H 2-2 v Vikingur Reykjavik | Úrvalsdeild | Akranes
+2026-07-26 H 5-1 v Stjarnan | Úrvalsdeild | Akranes
+2026-07-20 A 2-5 v Keflavik | Úrvalsdeild | ?
+2026-07-12 A 2-3 v KA Akureyri | Úrvalsdeild | Akureyri
+2026-07-04 H 1-2 v Breidablik | Úrvalsdeild | Akranes
+2026-06-29 H 0-2 v Fram Reykjavik | Úrvalsdeild | Akranes
+2026-06-22 A 3-5 v KR Reykjavik | Úrvalsdeild | ?
+2026-06-16 H 1-0 v Valur Reykjavik | Úrvalsdeild | Akranes
+2026-06-12 H 1-2 v Vikingur Reykjavik | Cup | Akranes
+2026-05-29 A 1-0 v FH hafnarfjordur | Úrvalsdeild | ?
+2026-05-21 H 2-2 v IBV Vestmannaeyjar | Úrvalsdeild | Akranes
+2026-05-17 A 2-1 v Thor Akureyri | Úrvalsdeild | Akureyri
+Listed home: 11 games, scored 22 (2.00), conceded 14 (1.27), blanks 1, clean sheets 2
+Listed away: 9 games, scored 18 (2.00), conceded 24 (2.67), blanks 0, clean sheets 1
+All: 20 games, scored 40 (2.00), conceded 38 (1.90), blanks 1, clean sheets 3
+
+TABLE FOR Fram Reykjavik
+LEAGUE TABLE Úrvalsdeild 2026 | 12 teams | 132 games played
+League averages per game: home 2.08, away 1.77, total 3.86
+#   team                   Pts | home P GF-GA  | away P GF-GA  | all P GF-GA
+1   Vikingur Reykjavik      53 | 11  35-10      | 11  32-11      | 22  67-21
+2   Fram Reykjavik          45 | 11  31-24      | 11  25-18      | 22  56-42
+3   KR Reykjavik            44 | 11  41-21      | 11  33-28      | 22  74-49
+4   Breidablik              30 | 11  25-21      | 11  18-20      | 22  43-41
+5   IA Akranes              30 | 11  19-15      | 11  20-26      | 22  39-41
+6   Keflavik                28 | 11  18-13      | 11  15-25      | 22  33-38
+7   Stjarnan                28 | 11  23-24      | 11  19-26      | 22  42-50
+8   Valur Reykjavik         27 | 11  22-27      | 11  17-18      | 22  39-45
+9   FH hafnarfjordur        21 | 11  15-17      | 11  12-22      | 22  27-39
+10  Thor Akureyri           21 | 11  13-20      | 11   9-30      | 22  22-50
+11  KA Akureyri             20 | 11  16-21      | 11  19-27      | 22  35-48
+12  IBV Vestmannaeyjar      18 | 11  17-21      | 11  15-24      | 22  32-45
+
+(IA Akranes: same table as Fram Reykjavik, shown above)
+
+(25 API-Football requests used)
+
+----------------------------------------------------------------------
+MATCHBOOK: skipped (switched off for this run)
