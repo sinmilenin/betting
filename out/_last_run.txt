@@ -1,8 +1,4 @@
-RUN 2026-10-19 16:13 local | 4 match(es)
-Wisla Plock v Radomiak Radom -> out/Wisla_Plock_v_Radomiak_Radom.txt
-Jong PSV v Dordrecht -> out/Jong_PSV_v_Dordrecht.txt
-FC Voluntari v FCSB -> out/FC_Voluntari_v_FCSB.txt
-Al-Hilal v Al-Hazm -> out/Al_Hilal_v_Al_Hazm.txt
-    !! Al-Hilal: API-Football error: {"search": "The Search field may only contain alpha-numeric characters and spaces."}
-    !! Al-Hazm: API-Football error: {"search": "The Search field may only contain alpha-numeric characters and spaces."}
-Requests used: API-Football 77, Matchbook 0
+RUN 2026-10-19 16:16 local | 1 match(es)
+Al Hilal v Al Hazm -> out/Al_Hilal_v_Al_Hazm.txt
+    !! Al Hazm: No team found for "Al Hazm".
+Requests used: API-Football 14, Matchbook 0
