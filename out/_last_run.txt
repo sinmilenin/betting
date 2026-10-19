@@ -1,7 +1,8 @@
-RUN 2026-10-19 15:31 local | 5 match(es)
-id:612 v id:3872 -> out/id_612_v_id_3872.txt
-id:855 v Spartak Varna -> out/id_855_v_Spartak_Varna.txt
-Viborg v id:397 -> out/Viborg_v_id_397.txt
-Trabzonspor v id:549 -> out/Trabzonspor_v_id_549.txt
-id:4160 v Tukums -> out/id_4160_v_Tukums.txt
-Requests used: API-Football 127, Matchbook 0
+RUN 2026-10-19 16:13 local | 4 match(es)
+Wisla Plock v Radomiak Radom -> out/Wisla_Plock_v_Radomiak_Radom.txt
+Jong PSV v Dordrecht -> out/Jong_PSV_v_Dordrecht.txt
+FC Voluntari v FCSB -> out/FC_Voluntari_v_FCSB.txt
+Al-Hilal v Al-Hazm -> out/Al_Hilal_v_Al_Hazm.txt
+    !! Al-Hilal: API-Football error: {"search": "The Search field may only contain alpha-numeric characters and spaces."}
+    !! Al-Hazm: API-Football error: {"search": "The Search field may only contain alpha-numeric characters and spaces."}
+Requests used: API-Football 77, Matchbook 0
