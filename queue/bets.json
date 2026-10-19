@@ -1,38 +1,5 @@
 [
   {
-    "id": "2026-10-19_lee-man-warriors-kitchee-sc_0-1",
-    "date": "2026-10-19",
-    "ko": "12:30",
-    "match": "Lee Man Warriors v Kitchee SC",
-    "comp": "Hong Kong, Hong Kong Premier League",
-    "cell": "0-1",
-    "lay": 17,
-    "stake": 3,
-    "created": "2026-10-19T12:15:51+02:00"
-  },
-  {
-    "id": "2026-10-19_lee-man-warriors-kitchee-sc_1-2",
-    "date": "2026-10-19",
-    "ko": "12:30",
-    "match": "Lee Man Warriors v Kitchee SC",
-    "comp": "Hong Kong, Hong Kong Premier League",
-    "cell": "1-2",
-    "lay": 12.5,
-    "stake": 3,
-    "created": "2026-10-19T12:15:51+02:00"
-  },
-  {
-    "id": "2026-10-19_lee-man-warriors-kitchee-sc_2-2",
-    "date": "2026-10-19",
-    "ko": "12:30",
-    "match": "Lee Man Warriors v Kitchee SC",
-    "comp": "Hong Kong, Hong Kong Premier League",
-    "cell": "2-2",
-    "lay": 14,
-    "stake": 3,
-    "created": "2026-10-19T12:15:51+02:00"
-  },
-  {
     "id": "2026-10-19_fatih-karagumruk-istanbul-keciorengucu_2-2",
     "date": "2026-10-19",
     "ko": "16:00",
@@ -328,5 +295,93 @@
     "lay": 15,
     "stake": 3,
     "created": "2026-10-19T18:19:07+02:00"
+  },
+  {
+    "id": "2026-10-19_jong-psv-eindhoven-fc-dordrecht_1-2",
+    "date": "2026-10-19",
+    "ko": "20:00",
+    "match": "Jong PSV Eindhoven v FC Dordrecht",
+    "comp": "Netherlands, Dutch Eerste Divisie",
+    "cell": "1-2",
+    "lay": 13.5,
+    "stake": 3,
+    "created": "2026-10-19T19:02:01+02:00"
+  },
+  {
+    "id": "2026-10-19_al-hilal-al-hazm-ksa_2-0",
+    "date": "2026-10-19",
+    "ko": "20:00",
+    "match": "Al-Hilal v Al-Hazm (KSA)",
+    "comp": "Saudi Arabia, Saudi Professional League",
+    "cell": "2-0",
+    "lay": 9.8,
+    "stake": 3,
+    "created": "2026-10-19T19:02:01+02:00"
+  },
+  {
+    "id": "2026-10-19_al-hilal-al-hazm-ksa_3-0",
+    "date": "2026-10-19",
+    "ko": "20:00",
+    "match": "Al-Hilal v Al-Hazm (KSA)",
+    "comp": "Saudi Arabia, Saudi Professional League",
+    "cell": "3-0",
+    "lay": 8.0,
+    "stake": 3,
+    "created": "2026-10-19T19:02:01+02:00"
+  },
+  {
+    "id": "2026-10-19_waterford-galway-utd_2-2",
+    "date": "2026-10-19",
+    "ko": "20:45",
+    "match": "Waterford v Galway Utd",
+    "comp": "Ireland, Irish Premier Division",
+    "cell": "2-2",
+    "lay": 17.0,
+    "stake": 3,
+    "created": "2026-10-19T19:02:01+02:00"
+  },
+  {
+    "id": "2026-10-19_celta-vigo-b-tenerife_0-0",
+    "date": "2026-10-19",
+    "ko": "20:30",
+    "match": "Celta Vigo B v Tenerife",
+    "comp": "Spain, Spanish Segunda Division",
+    "cell": "0-0",
+    "lay": 12.0,
+    "stake": 3,
+    "created": "2026-10-19T19:02:01+02:00"
+  },
+  {
+    "id": "2026-10-19_celta-vigo-b-tenerife_0-1",
+    "date": "2026-10-19",
+    "ko": "20:30",
+    "match": "Celta Vigo B v Tenerife",
+    "comp": "Spain, Spanish Segunda Division",
+    "cell": "0-1",
+    "lay": 10.5,
+    "stake": 3,
+    "created": "2026-10-19T19:02:01+02:00"
+  },
+  {
+    "id": "2026-10-19_celta-vigo-b-tenerife_0-2",
+    "date": "2026-10-19",
+    "ko": "20:30",
+    "match": "Celta Vigo B v Tenerife",
+    "comp": "Spain, Spanish Segunda Division",
+    "cell": "0-2",
+    "lay": 17.0,
+    "stake": 3,
+    "created": "2026-10-19T19:02:01+02:00"
+  },
+  {
+    "id": "2026-10-19_celta-vigo-b-tenerife_1-0",
+    "date": "2026-10-19",
+    "ko": "20:30",
+    "match": "Celta Vigo B v Tenerife",
+    "comp": "Spain, Spanish Segunda Division",
+    "cell": "1-0",
+    "lay": 11.0,
+    "stake": 3,
+    "created": "2026-10-19T19:02:01+02:00"
   }
 ]
