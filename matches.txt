@@ -1,5 +1,2 @@
-# Scan 19.10 18:13: Wisla Plock, Jong PSV, Voluntari, Al-Hilal
-Wisla Plock v Radomiak Radom | n=20 | xg=10
-Jong PSV v Dordrecht | n=20 | xg=10
-FC Voluntari v FCSB | n=20 | xg=10
-Al-Hilal v Al-Hazm | n=20 | xg=10
+# Scan 19.10 18:13: run 2 (Al-Hilal hyphen rejected by API-Football)
+Al Hilal v Al Hazm | n=20 | xg=10
