@@ -1,59 +1,74 @@
-MATCH Jong Ajax v De Graafschap | fetched 2026-10-19 17:42 local
+MATCH Jong Utrecht v Roda | fetched 2026-10-19 17:44 local
 
-FORM DATA Jong Ajax v De Graafschap | source API-Football | 2026-10-19 17:42 UTC
+FORM DATA Jong Utrecht v Roda | source API-Football | 2026-10-19 17:44 UTC
 H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
 
-=== Jong Ajax (id 425): last 20 finished games ===
-2026-10-09 H 0-3 v VVV Venlo | Eerste Divisie | Amsterdam | xG 1.40-2.39
-2026-09-18 H 0-0 v Roda | Eerste Divisie | Amsterdam | xG 1.13-0.52
-2026-09-14 A 1-6 v Jong Utrecht | Eerste Divisie | Utrecht | xG 1.68-1.94
-2026-09-11 H 0-2 v Waalwijk | Eerste Divisie | Ouder-Amstel
-2026-09-04 A 1-0 v Almere City FC | Eerste Divisie | Almere | xG 1.18-3.19
-2026-08-31 A 1-1 v Jong PSV U21 | Eerste Divisie | Eindhoven | xG 2.18-2.04
-2026-08-28 H 3-2 v Helmond Sport | Eerste Divisie | Ouder-Amstel | xG 1.11-0.70
-2026-08-22 A 2-3 v NAC Breda | Eerste Divisie | Breda | xG 1.46-2.29
-2026-08-17 H 4-6 v Emmen | Eerste Divisie | Ouder-Amstel | xG 1.45-3.79
-2026-08-07 A 1-2 v Dordrecht | Eerste Divisie | Dordrecht | xG 2.30-1.60
-2026-07-17 A 0-3 v Jong AZ | Friendlies Clubs | ?
-2026-04-24 H 0-2 v Jong Utrecht | Eerste Divisie | Ouder-Amstel
-2026-04-17 A 1-0 v Jong PSV U21 | Eerste Divisie | Eindhoven
-2026-04-13 H 1-2 v FC OSS | Eerste Divisie | Ouder-Amstel
-2026-04-06 A 1-6 v Vitesse | Eerste Divisie | Arnhem
-2026-04-03 A 2-4 v ADO Den Haag | Eerste Divisie | Den Haag
-2026-03-20 H 0-2 v Almere City FC | Eerste Divisie | Ouder-Amstel
-2026-03-17 A 1-0 v VVV Venlo | Eerste Divisie | Venlo
-2026-03-13 H 3-2 v Den Bosch | Eerste Divisie | Ouder-Amstel
-2026-03-06 A 1-2 v FC Eindhoven | Eerste Divisie | Eindhoven
-Listed home: 9 games, scored 11 (1.22), conceded 21 (2.33), blanks 5, clean sheets 1
-Listed away: 11 games, scored 12 (1.09), conceded 27 (2.45), blanks 1, clean sheets 3
-All: 20 games, scored 23 (1.15), conceded 48 (2.40), blanks 6, clean sheets 4
+=== Jong Utrecht (id 428): last 20 finished games ===
+2026-10-09 A 1-2 v De Graafschap | Eerste Divisie | Dutinghem | xG 1.61-1.59
+2026-09-18 H 1-3 v VVV Venlo | Eerste Divisie | Utrecht | xG 1.48-1.55
+2026-09-14 H 6-1 v Jong Ajax | Eerste Divisie | Utrecht | xG 1.94-1.68
+2026-09-11 A 3-2 v NAC Breda | Eerste Divisie | Breda | xG 0.67-1.91
+2026-09-07 H 0-0 v FC Eindhoven | Eerste Divisie | Utrecht | xG 1.09-1.15
+2026-08-31 A 1-2 v Jong AZ | Eerste Divisie | Wijdewormer | xG 1.02-1.93
+2026-08-28 A 1-2 v FC OSS | Eerste Divisie | Oss | xG 1.24-1.30
+2026-08-24 H 1-6 v Heracles | Eerste Divisie | Utrecht | xG 1.89-2.15
+2026-08-17 H 1-3 v Vitesse | Eerste Divisie | Utrecht | xG 0.45-2.98
+2026-08-09 A 1-2 v MVV | Eerste Divisie | Maastricht | xG 0.81-1.27
+2026-07-26 A 1-5 v Borussia Dortmund II | Friendlies Clubs | ?
+2026-07-03 H 1-2 v Werder Bremen II | Friendlies Clubs | ?
+2026-04-24 A 2-0 v Jong Ajax | Eerste Divisie | Ouder-Amstel
+2026-04-20 A 1-1 v Den Bosch | Eerste Divisie | ?
+2026-04-17 H 3-0 v FC Eindhoven | Eerste Divisie | Utrecht
+2026-04-13 H 0-3 v Vitesse | Eerste Divisie | Utrecht
+2026-04-06 A 1-3 v FC OSS | Eerste Divisie | Oss
+2026-03-24 A 4-4 v Quick Boys | Friendlies Clubs | ?
+2026-03-20 H 3-1 v Dordrecht | Eerste Divisie | Utrecht
+2026-03-17 A 0-1 v ADO Den Haag | Eerste Divisie | Den Haag
+Listed home: 9 games, scored 16 (1.78), conceded 19 (2.11), blanks 2, clean sheets 2
+Listed away: 11 games, scored 16 (1.45), conceded 24 (2.18), blanks 1, clean sheets 1
+All: 20 games, scored 32 (1.60), conceded 43 (2.15), blanks 3, clean sheets 3
 
-=== De Graafschap (id 199): last 20 finished games ===
-2026-10-09 H 2-1 v Jong Utrecht | Eerste Divisie | Dutinghem | xG 1.59-1.61
-2026-10-03 A 2-2 v FC Eindhoven | Eerste Divisie | Eindhoven
-2026-09-27 H 1-0 v Den Bosch | Eerste Divisie | Dutinghem
-2026-09-20 H 1-2 v NAC Breda | Eerste Divisie | Dutinghem | xG 1.19-2.07
-2026-09-11 A 2-1 v Emmen | Eerste Divisie | Emmen | xG 1.50-3.31
-2026-09-04 A 0-5 v Heracles | Eerste Divisie | Almelo | xG 0.64-2.77
-2026-08-29 H 1-4 v Almere City FC | Eerste Divisie | Doetinchem | xG 1.24-2.60
-2026-08-23 A 1-2 v VVV Venlo | Eerste Divisie | Venlo | xG 0.84-1.26
-2026-08-17 H 2-5 v Jong AZ | Eerste Divisie | Doetinchem | xG 1.68-2.86
-2026-08-09 A 1-1 v Helmond Sport | Eerste Divisie | Helmond | xG 1.57-0.95
-2026-08-01 H 1-5 v Excelsior | Friendlies Clubs | ?
-2026-07-25 H 4-2 v Kifisia | Friendlies Clubs | ?
-2026-07-17 H 3-6 v Telstar | Friendlies Clubs | ?
-2026-07-12 H 1-2 v AEK Athens FC | Friendlies Clubs | ?
-2026-07-03 A 2-7 v Heerenveen | Friendlies Clubs | ?
-2026-06-27 A 2-1 v Utrecht | Friendlies Clubs | ?
-2026-05-09 H 2-2 v Almere City FC | Eerste Divisie | Doetinchem
-2026-05-06 A 1-3 v Almere City FC | Eerste Divisie | Almere
-2026-04-24 A 0-1 v Emmen | Eerste Divisie | Emmen
-2026-04-17 H 3-1 v Cambuur | Eerste Divisie | Doetinchem
-Listed home: 11 games, scored 21 (1.91), conceded 30 (2.73), blanks 0, clean sheets 1
-Listed away: 9 games, scored 11 (1.22), conceded 23 (2.56), blanks 2, clean sheets 0
-All: 20 games, scored 32 (1.60), conceded 53 (2.65), blanks 2, clean sheets 1
+"Roda" matches several teams. Use id:<number> instead of the name:
+  id:414    Roda (Netherlands)
+  id:2039   Rodange 91 (Luxembourg)
+  id:6374   Vila Velha de Ródão (Portugal)
+  id:6865   Ghiroda şi Giarmata Vii (Romania)
+  id:6948   Polonia Środa (Poland)
+  id:7891   Brodarac U19 (Jamaica)
+  id:9684   Roda (Spain)
+  id:9902   La Roda (Spain)
+  id:12306  Brodarac (Serbia)
+  id:12813  Martinroda (Germany)
+  id:12857  Sokół Ostróda (Poland)
+  id:14431  Roda '46 (Zat) (Netherlands)
+(retrying Roda using the opponent's country, Netherlands)
+NOTE: "Roda" matched 2 teams; picked Roda (Netherlands) because the opponent is from Netherlands. Others: Roda (Spain)
+=== Roda (id 414): last 20 finished games ===
+2026-10-09 H 1-1 v Jong PSV U21 | Eerste Divisie | Kerkrade | xG 1.60-1.33
+2026-10-04 A 0-2 v VVV Venlo | Eerste Divisie | Venlo
+2026-09-26 H 2-0 v Waalwijk | Eerste Divisie | Kerkrade | xG 0.49-0.78
+2026-09-18 A 0-0 v Jong Ajax | Eerste Divisie | Amsterdam | xG 0.52-1.13
+2026-09-12 H 1-0 v Vitesse | Eerste Divisie | Kerkrade | xG 1.04-0.73
+2026-09-06 A 1-1 v MVV | Eerste Divisie | Maastricht | xG 0.92-1.39
+2026-08-28 H 2-2 v NAC Breda | Eerste Divisie | Kerkrade | xG 2.25-3.31
+2026-08-21 A 1-0 v Dordrecht | Eerste Divisie | Dordrecht | xG 1.03-1.15
+2026-08-14 H 2-1 v Helmond Sport | Eerste Divisie | Kerkrade | xG 2.76-0.23
+2026-08-07 A 0-1 v Emmen | Eerste Divisie | Emmen | xG 1.24-1.07
+2026-08-01 H 2-4 v Alemannia Aachen | Friendlies Clubs | ?
+2026-07-17 H 1-0 v Beerschot VA | Friendlies Clubs | ?
+2026-07-10 A 1-2 v Cambuur | Friendlies Clubs | ?
+2026-07-03 A 1-1 v Vitesse | Friendlies Clubs | ?
+2026-06-30 A 10-0 v Chevremont | Friendlies Clubs | ?
+2026-05-01 A 1-1 v Waalwijk | Eerste Divisie | Waalwijk [PEN, 90-min score shown]
+2026-04-28 H 1-1 v Waalwijk | Eerste Divisie | Kerkrade
+2026-04-24 A 0-2 v Jong AZ | Eerste Divisie | Wijdewormer
+2026-04-17 H 2-2 v Emmen | Eerste Divisie | Kerkrade
+2026-04-10 A 3-1 v FC Eindhoven | Eerste Divisie | Eindhoven
+Listed home: 9 games, scored 14 (1.56), conceded 11 (1.22), blanks 0, clean sheets 3
+Listed away: 11 games, scored 18 (1.64), conceded 11 (1.00), blanks 4, clean sheets 3
+All: 20 games, scored 32 (1.60), conceded 22 (1.10), blanks 4, clean sheets 6
 
-TABLE FOR Jong Ajax
+TABLE FOR Jong Utrecht
 LEAGUE TABLE Eerste Divisie 2026 | 100 teams | 214 games played
 League averages per game: home 1.99, away 1.53, total 3.52
 #   team                   Pts | home P GF-GA  | away P GF-GA  | all P GF-GA
@@ -158,9 +173,9 @@ League averages per game: home 1.99, away 1.53, total 3.52
 19  Jong AZ                  0 |  0   0-0       |  0   0-0       |  0   0-0 [Eerste Divisie: Period 4]
 20  Jong Utrecht             0 |  0   0-0       |  0   0-0       |  0   0-0 [Eerste Divisie: Period 4]
 
-(De Graafschap: same table as Jong Ajax, shown above)
+(Roda: same table as Jong Utrecht, shown above)
 
-(24 API-Football requests used)
+(26 API-Football requests used)
 
 ----------------------------------------------------------------------
 MATCHBOOK: skipped (switched off for this run)

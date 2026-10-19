@@ -1,0 +1,89 @@
+MATCH id:2940 v Faisaly | fetched 2026-10-19 17:44 local
+
+FORM DATA id:2940 v Faisaly | source API-Football | 2026-10-19 17:45 UTC
+H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
+
+=== Al Shabab (id 2940): last 20 finished games ===
+2026-10-11 H 3-0 v Al Taawon | Pro League | Riyadh | xG 2.34-0.90
+2026-09-12 H 0-0 v Al-Fayha | Pro League | Riyadh | xG 1.09-0.54
+2026-09-09 A 1-2 v Al Kholood | Pro League | Ar Rass | xG 0.62-2.19
+2026-09-04 H 0-2 v Al-Hilal Saudi FC | Pro League | Riyadh | xG 0.77-4.04
+2026-08-30 A 1-1 v Al-Hazm | Pro League | Ar Rass | xG 1.54-1.02
+2026-08-25 H 3-3 v Al Riyadh | Pro League | Riyadh | xG 2.87-1.21
+2026-08-22 A 0-0 v Al Khaleej Saihat | Pro League | Dammam | xG 1.14-0.55
+2026-08-16 A 1-1 v Al Wehda Club | King's Cup | Mecca [AET, 90-min score shown]
+2026-08-13 H 1-3 v Al-Qadisiyah FC | Pro League | Riyadh | xG 1.27-2.64
+2026-08-03 H 3-1 v MC Alger | Friendlies Clubs | ?
+2026-07-30 H 3-0 v Al Ahli Doha | Friendlies Clubs | ?
+2026-07-26 H 1-0 v Al Nasr | Friendlies Clubs | ?
+2026-05-20 A 0-1 v Al Najma | Pro League | Buraidah
+2026-05-17 H 3-2 v Al-Ittihad FC | Pro League | Riyadh
+2026-05-11 A 1-2 v NEOM | Pro League | Tabuk
+2026-05-07 H 2-4 v Al-Nassr | Pro League | Riyadh
+2026-05-03 H 1-5 v Al Taawon | Pro League | Riyadh
+2026-04-28 H 1-1 v Al-Fateh | Pro League | Riyadh
+2026-04-23 H 0-3 v Al-Rayyan SC | AGCFF Gulf Champions League | Al Rayyan
+2026-04-19 A 1-1 v Zakho | AGCFF Gulf Champions League | Al Rayyan [PEN, 90-min score shown]
+Listed home: 13 games, scored 21 (1.62), conceded 24 (1.85), blanks 3, clean sheets 4
+Listed away: 7 games, scored 5 (0.71), conceded 8 (1.14), blanks 2, clean sheets 1
+All: 20 games, scored 26 (1.30), conceded 32 (1.60), blanks 5, clean sheets 5
+
+"Faisaly" matches several teams. Use id:<number> instead of the name:
+  id:2930   Al-Faisaly FC (Saudi-Arabia)
+  id:4531   Al Faisaly (Jordan)
+(retrying Faisaly using the opponent's country, Saudi-Arabia)
+NOTE: "Faisaly" matched 2 teams; picked Al-Faisaly FC (Saudi-Arabia) because the opponent is from Saudi-Arabia. Others: Al Faisaly (Jordan)
+=== Al-Faisaly FC (id 2930): last 20 finished games ===
+2026-10-15 H 3-2 v Al Kholood | Pro League | Madimaa | xG 1.87-2.80
+2026-09-11 H 1-3 v Al-Ittihad FC | Pro League | Al Majmaah | xG 1.11-1.29
+2026-09-08 A 0-0 v Al-Ettifaq | Pro League | Dammam | xG 0.11-0.72
+2026-09-05 H 0-0 v Al-Hazm | Pro League | Al Majmaah | xG 0.87-1.10
+2026-08-30 A 1-3 v Al-Qadisiyah FC | Pro League | Dammam | xG 0.71-2.46
+2026-08-26 H 1-1 v Al-Fateh | Pro League | Al Majmaah | xG 1.39-1.72
+2026-08-21 H 0-2 v NEOM | Pro League | Al Majmaah | xG 0.60-1.30
+2026-08-18 H 1-3 v NEOM | King's Cup | ?
+2026-08-14 A 2-4 v Al-Hilal Saudi FC | Pro League | Riyadh | xG 1.82-4.50
+2026-08-01 A 3-1 v Beltinci | Friendlies Clubs | ?
+2026-05-14 H 4-0 v Al Baten | Division 1 | ?
+2026-05-09 A 2-0 v Al Bukayriyah | Division 1 | ?
+2026-05-02 H 2-0 v Al Jabalain | Division 1 | ?
+2026-04-27 A 2-1 v Al-Raed | Division 1 | Buraidah
+2026-04-22 A 4-0 v Jeddah Club | Division 1 | Jeddah
+2026-04-15 H 3-0 v Al Taee | Division 1 | ?
+2026-04-10 A 1-0 v Al Orubah | Division 1 | Sakakah
+2026-04-02 H 2-1 v Al Jubail | Division 1 | ?
+2026-03-07 H 2-2 v Al Diriyah | Division 1 | ?
+2026-03-02 A 6-1 v Al-Adalah | Division 1 | Al Ahsa
+Listed home: 11 games, scored 19 (1.73), conceded 14 (1.27), blanks 2, clean sheets 4
+Listed away: 9 games, scored 21 (2.33), conceded 10 (1.11), blanks 1, clean sheets 4
+All: 20 games, scored 40 (2.00), conceded 24 (1.20), blanks 3, clean sheets 8
+
+TABLE FOR Al Shabab
+LEAGUE TABLE Pro League 2026 | 18 teams | 78 games played
+League averages per game: home 1.44, away 1.42, total 2.86
+#   team                   Pts | home P GF-GA  | away P GF-GA  | all P GF-GA
+1   Al-Qadisiyah FC         22 |  5  11-8       |  4  12-1       |  9  23-9
+2   Al-Hilal Saudi FC       21 |  4  10-6       |  4  16-1       |  8  26-7
+3   Al-Nassr                19 |  4  10-2       |  4   9-5       |  8  19-7
+4   Al-Ittihad FC           17 |  4   8-5       |  4   6-4       |  8  14-9
+5   NEOM                    16 |  5   9-6       |  4   5-2       |  9  14-8
+6   Al-Ahli Jeddah          15 |  3  12-1       |  5   8-9       |  8  20-10
+7   Al-Ettifaq              15 |  5   7-9       |  4   6-3       |  9  13-12
+8   Al Diriyah              12 |  5   2-5       |  4   6-4       |  9   8-9
+9   Al Kholood              12 |  4   8-9       |  5   6-9       |  9  14-18
+10  Al Khaleej Saihat       12 |  5   4-6       |  5   5-7       | 10   9-13
+11  Al-Hazm                  9 |  5   5-6       |  4   5-7       |  9  10-13
+12  Al Riyadh                9 |  3   3-4       |  5   6-13      |  8   9-17
+13  Al Shabab                7 |  5   7-8       |  3   2-3       |  8   9-11
+14  Al-Fayha                 7 |  4   6-8       |  5   2-6       |  9   8-14
+15  Al-Faisaly FC            6 |  5   5-8       |  3   3-7       |  8   8-15
+16  Al-Fateh                 6 |  5   3-10      |  5   6-10      | 10   9-20
+17  Al Taawon                4 |  4   0-6       |  5   4-10      |  9   4-16
+18  Abha                     2 |  3   2-4       |  5   4-11      |  8   6-15
+
+(Al-Faisaly FC: same table as Al Shabab, shown above)
+
+(26 API-Football requests used)
+
+----------------------------------------------------------------------
+MATCHBOOK: skipped (switched off for this run)

@@ -1,6 +1,6 @@
-MATCH Wolves U21 v West Brom U21 | fetched 2026-10-19 17:42 local
+MATCH Wolves U21 v West Bromwich Albion U21 | fetched 2026-10-19 17:44 local
 
-FORM DATA Wolves U21 v West Brom U21 | source API-Football | 2026-10-19 17:42 UTC
+FORM DATA Wolves U21 v West Bromwich Albion U21 | source API-Football | 2026-10-19 17:44 UTC
 H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
 
 === Wolves U21 (id 7204): last 20 finished games ===
@@ -28,7 +28,30 @@ Listed home: 7 games, scored 9 (1.29), conceded 11 (1.57), blanks 2, clean sheet
 Listed away: 13 games, scored 8 (0.62), conceded 30 (2.31), blanks 8, clean sheets 2
 All: 20 games, scored 17 (0.85), conceded 41 (2.05), blanks 10, clean sheets 3
 
-!! West Brom U21: No team found for "West Brom U21".
+=== West Bromwich Albion U21 (id 11913): last 20 finished games ===
+2026-10-13 A 2-3 v Sutton Utd | National League Cup | London
+2026-10-09 A 2-2 v Ipswich Town U21 | Premier League Cup | ?
+2026-09-18 H 1-3 v Nottingham Forest U21 | Premier League 2 Division One | Birmingham
+2026-09-08 A 1-0 v Boston United | National League Cup | Boston
+2026-09-04 A 3-0 v Coventry City U21 | Premier League Cup | ?
+2026-08-31 A 4-4 v Derby County U21 | Premier League 2 Division One | Long Eaton
+2026-08-26 A 0-3 v Bromley U21 | Premier League Cup | London
+2026-08-23 A 3-4 v Leeds United U21 | Premier League 2 Division One | Leeds
+2026-08-18 A 0-0 v Woking | National League Cup | Woking [PEN, 90-min score shown]
+2026-04-13 A 1-2 v Burnley U21 | Premier League Cup | ?
+2026-04-04 A 0-1 v Arsenal U21 | Premier League 2 Division One | Borehamwood
+2026-03-27 A 5-4 v AFC Bournemouth U21 | Premier League Cup | ?
+2026-03-20 A 1-4 v Norwich City U21 | Premier League 2 Division One | Norwich
+2026-03-13 H 4-0 v Birmingham City U21 | Premier League 2 Division One | Solihull
+2026-03-06 A 3-0 v Ipswich Town U21 | Premier League 2 Division One | Colchester
+2026-03-02 H 4-2 v Derby County U21 | Premier League 2 Division One | Solihull
+2026-02-23 H 3-2 v Blackburn Rovers U21 | Premier League 2 Division One | Solihull
+2026-02-15 A 3-4 v Liverpool U21 | Premier League 2 Division One | Liverpool
+2026-02-11 H 1-0 v Queens Park Rangers U21 | Premier League Cup | ?
+2026-02-07 A 0-1 v Nottingham Forest U21 | Premier League 2 Division One | Leicestershire
+Listed home: 5 games, scored 13 (2.60), conceded 7 (1.40), blanks 0, clean sheets 2
+Listed away: 15 games, scored 28 (1.87), conceded 32 (2.13), blanks 4, clean sheets 4
+All: 20 games, scored 41 (2.05), conceded 39 (1.95), blanks 4, clean sheets 6
 
 TABLE FOR Wolves U21
 LEAGUE TABLE Premier League 2 Division One 2026 | 31 teams | 68 games played
@@ -66,7 +89,9 @@ League averages per game: home 2.18, away 1.63, total 3.81
 30  Newcastle United U21     0 |  2   1-7       |  1   0-2       |  3   1-9
 31  Wolves U21               0 |  1   0-2       |  2   0-8       |  3   0-10
 
-(16 API-Football requests used)
+(West Bromwich Albion U21: same table as Wolves U21, shown above)
+
+(27 API-Football requests used)
 
 ----------------------------------------------------------------------
 MATCHBOOK: skipped (switched off for this run)
