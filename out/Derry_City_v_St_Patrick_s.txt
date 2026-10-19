@@ -1,6 +1,6 @@
-MATCH Derry City v St Patricks | fetched 2026-10-19 18:27 local
+MATCH Derry City v St. Patrick's | fetched 2026-10-19 18:28 local
 
-FORM DATA Derry City v St Patricks | source API-Football | 2026-10-19 18:27 UTC
+FORM DATA Derry City v St. Patrick's | source API-Football | 2026-10-19 18:28 UTC
 H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
 
 === Derry City (id 670): last 20 finished games ===
@@ -28,7 +28,7 @@ Listed home: 9 games, scored 18 (2.00), conceded 12 (1.33), blanks 1, clean shee
 Listed away: 11 games, scored 15 (1.36), conceded 18 (1.64), blanks 2, clean sheets 2
 All: 20 games, scored 33 (1.65), conceded 30 (1.50), blanks 3, clean sheets 6
 
-!! St Patricks: No team found for "St Patricks".
+!! St. Patrick's: API-Football error: {"search": "The Search field may only contain alpha-numeric characters and spaces."}
 
 TABLE FOR Derry City
 LEAGUE TABLE Premier Division 2026 | 10 teams | 168 games played

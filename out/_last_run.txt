@@ -1,6 +1,5 @@
-RUN 2026-10-19 18:27 local | 2 match(es)
-Derry City v St Patricks -> out/Derry_City_v_St_Patricks.txt
-    !! St Patricks: No team found for "St Patricks".
-Fram v IA -> out/Fram_v_IA.txt
-    !! IA: API-Football error: {"search": "The Search field must be at least 3 characters in length."}
-Requests used: API-Football 28, Matchbook 0
+RUN 2026-10-19 18:28 local | 2 match(es)
+Derry City v St. Patrick's -> out/Derry_City_v_St_Patrick_s.txt
+    !! St. Patrick's: API-Football error: {"search": "The Search field may only contain alpha-numeric characters and spaces."}
+Fram v Akranes -> out/Fram_v_Akranes.txt
+Requests used: API-Football 40, Matchbook 0
