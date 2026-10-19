@@ -1,0 +1,55 @@
+MATCH Fram v IA | fetched 2026-10-19 18:27 local
+
+FORM DATA Fram v IA | source API-Football | 2026-10-19 18:27 UTC
+H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
+
+=== Fram (id 6986): last 20 finished games ===
+2026-10-17 A 0-4 v Raelingen | 3. Division - Girone 6 | ?
+2026-10-10 H 4-0 v Brumunddal | 3. Division - Girone 6 | ?
+2026-10-03 H 1-1 v Sandefjord II | 3. Division - Girone 6 | ?
+2026-09-26 A 2-4 v Ørn Horten | 3. Division - Girone 6 | ?
+2026-09-19 H 1-1 v Råde | 3. Division - Girone 6 | ?
+2026-09-12 A 3-6 v Oppsal | 3. Division - Girone 6 | ?
+2026-09-05 H 4-0 v Bjørkelangen | 3. Division - Girone 6 | ?
+2026-08-30 A 4-3 v Drøbak / Frogn | 3. Division - Girone 6 | ?
+2026-08-22 H 1-2 v jerv | NM Cupen | Larvik
+2026-08-17 H 3-0 v Sarpsborg 08 II | 3. Division - Girone 6 | ?
+2026-08-10 A 3-4 v Lyn II | 3. Division - Girone 6 | ?
+2026-08-01 H 1-3 v Elverum | 3. Division - Girone 6 | ?
+2026-07-25 A 2-0 v Bjørkelangen | 3. Division - Girone 6 | ?
+2026-06-27 H 1-1 v Drøbak / Frogn | 3. Division - Girone 6 | ?
+2026-06-20 A 1-2 v Sarpsborg 08 II | 3. Division - Girone 6 | ?
+2026-06-15 H 0-1 v Lyn II | 3. Division - Girone 6 | ?
+2026-05-31 A 0-4 v Sandefjord II | 3. Division - Girone 6 | ?
+2026-05-25 H 5-1 v Raelingen | 3. Division - Girone 6 | ?
+2026-05-14 A 2-3 v Elverum | 3. Division - Girone 6 | ?
+2026-05-10 H 1-1 v Ørn Horten | 3. Division - Girone 6 | ?
+Listed home: 11 games, scored 22 (2.00), conceded 11 (1.00), blanks 1, clean sheets 3
+Listed away: 9 games, scored 17 (1.89), conceded 30 (3.33), blanks 2, clean sheets 1
+All: 20 games, scored 39 (1.95), conceded 41 (2.05), blanks 3, clean sheets 4
+
+!! IA: API-Football error: {"search": "The Search field must be at least 3 characters in length."}
+
+TABLE FOR Fram
+LEAGUE TABLE 3. Division - Girone 6 2026 | 14 teams | 167 games played
+League averages per game: home 2.49, away 1.78, total 4.26
+#   team                   Pts | home P GF-GA  | away P GF-GA  | all P GF-GA
+1   Lillehammer             59 | 12  51-12      | 12  38-20      | 24  89-32
+2   Elverum                 50 | 12  39-21      | 12  29-19      | 24  68-40
+3   Råde                    46 | 12  57-20      | 12  29-20      | 24  86-40
+4   Gjøvik-Lyn              44 | 12  22-5       | 12  22-16      | 24  44-21
+5   Drøbak / Frogn          38 | 12  33-20      | 12  20-15      | 24  53-35
+6   Ørn Horten              35 | 12  25-22      | 12  20-17      | 24  45-39
+7   Raelingen               35 | 12  25-14      | 12  19-41      | 24  44-55
+8   Lyn II                  34 | 12  27-21      | 12  26-31      | 24  53-52
+9   Oppsal                  33 | 12  23-22      | 12  17-16      | 24  40-38
+10  Sandefjord II           33 | 12  32-21      | 12  22-32      | 24  54-53
+11  Sarpsborg 08 II         29 | 11  34-18      | 12  17-36      | 23  51-54
+12  Fram                    26 | 12  23-13      | 12  20-40      | 24  43-53
+13  Brumunddal              12 | 12  14-42      | 12  11-64      | 24  25-106
+14  Bjørkelangen             3 | 12  10-46      | 11   7-48      | 23  17-94
+
+(14 API-Football requests used)
+
+----------------------------------------------------------------------
+MATCHBOOK: skipped (switched off for this run)

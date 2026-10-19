@@ -1,6 +1,6 @@
-RUN 2026-10-19 17:44 local | 4 match(es)
-Jong Utrecht v Roda -> out/Jong_Utrecht_v_Roda.txt
-Wolves U21 v West Bromwich Albion U21 -> out/Wolves_U21_v_West_Bromwich_Albion_U21.txt
-id:217 v Gil Vicente -> out/id_217_v_Gil_Vicente.txt
-id:2940 v Faisaly -> out/id_2940_v_Faisaly.txt
-Requests used: API-Football 106, Matchbook 0
+RUN 2026-10-19 18:27 local | 2 match(es)
+Derry City v St Patricks -> out/Derry_City_v_St_Patricks.txt
+    !! St Patricks: No team found for "St Patricks".
+Fram v IA -> out/Fram_v_IA.txt
+    !! IA: API-Football error: {"search": "The Search field must be at least 3 characters in length."}
+Requests used: API-Football 28, Matchbook 0

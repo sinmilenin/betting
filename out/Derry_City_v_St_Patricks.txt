@@ -1,0 +1,51 @@
+MATCH Derry City v St Patricks | fetched 2026-10-19 18:27 local
+
+FORM DATA Derry City v St Patricks | source API-Football | 2026-10-19 18:27 UTC
+H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
+
+=== Derry City (id 670): last 20 finished games ===
+2026-10-16 A 0-2 v Drogheda United | Premier Division | Drogheda | xG 1.35-0.92
+2026-10-10 A 2-0 v Galway United | FAI Cup | Galway
+2026-09-18 H 1-0 v Galway United | Premier Division | Derry
+2026-09-14 A 2-2 v Waterford | Premier Division | Waterford
+2026-09-11 A 1-0 v Shelbourne | Premier Division | Dublin | xG 1.05-0.82
+2026-09-06 H 4-2 v Dundalk | FAI Cup | Derry
+2026-08-30 H 3-3 v Shamrock Rovers | Premier Division | Derry | xG 1.20-0.89
+2026-08-21 A 3-5 v Bohemians | Premier Division | Dublin | xG 1.39-2.32
+2026-08-14 A 2-1 v UCD | FAI Cup | Dublin
+2026-08-07 H 2-0 v Sligo Rovers | Premier Division | Derry | xG 1.68-0.23
+2026-08-02 A 1-1 v St Patrick's Athl. | Premier Division | Dublin
+2026-07-30 H 0-1 v HNK Rijeka | UEFA Europa Conference League | Derry
+2026-07-23 A 0-1 v HNK Rijeka | UEFA Europa Conference League | Rijeka
+2026-07-19 H 3-0 v Tolka Rovers | FAI Cup | Derry
+2026-07-16 H 1-2 v CSKA Sofia | UEFA Europa League | Derry
+2026-07-09 A 2-3 v CSKA Sofia | UEFA Europa League | Sofia
+2026-07-03 H 2-4 v Waterford | Premier Division | Derry
+2026-06-26 H 2-0 v Drogheda United | Premier Division | Derry
+2026-06-22 A 1-1 v Shamrock Rovers | Premier Division | Dublin
+2026-06-19 A 1-2 v Galway United | Premier Division | Galway
+Listed home: 9 games, scored 18 (2.00), conceded 12 (1.33), blanks 1, clean sheets 4
+Listed away: 11 games, scored 15 (1.36), conceded 18 (1.64), blanks 2, clean sheets 2
+All: 20 games, scored 33 (1.65), conceded 30 (1.50), blanks 3, clean sheets 6
+
+!! St Patricks: No team found for "St Patricks".
+
+TABLE FOR Derry City
+LEAGUE TABLE Premier Division 2026 | 10 teams | 168 games played
+League averages per game: home 1.52, away 1.27, total 2.79
+#   team                   Pts | home P GF-GA  | away P GF-GA  | all P GF-GA
+1   Shamrock Rovers         65 | 17  33-15      | 17  21-20      | 34  54-35
+2   Bohemians               62 | 17  29-20      | 17  31-21      | 34  60-41
+3   St Patrick's Athl.      59 | 17  32-12      | 16  21-15      | 33  53-27
+4   Shelbourne              46 | 17  25-28      | 17  24-19      | 34  49-47
+5   Dundalk                 42 | 17  26-27      | 17  25-29      | 34  51-56
+6   Derry City              41 | 16  27-19      | 17  18-25      | 33  45-44
+7   Galway United           41 | 17  25-25      | 16  19-23      | 33  44-48
+8   Drogheda United         37 | 17  20-21      | 17  21-33      | 34  41-54
+9   Waterford               34 | 16  22-19      | 17  23-37      | 33  45-56
+10  Sligo Rovers            24 | 17  16-27      | 17  10-33      | 34  26-60
+
+(14 API-Football requests used)
+
+----------------------------------------------------------------------
+MATCHBOOK: skipped (switched off for this run)
