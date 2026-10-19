@@ -1,8 +1,4 @@
-RUN 2026-10-19 13:13 local | 4 match(es)
-Fatih Karagumruk v Keciorengucu -> out/Fatih_Karagumruk_v_Keciorengucu.txt
-RC Arba v WA Mostaganem -> out/RC_Arba_v_WA_Mostaganem.txt
-Universitatea Cluj v Arges Pitesti -> out/Universitatea_Cluj_v_Arges_Pitesti.txt
-Al-Feiha v Al Ahli Jeddah -> out/Al_Feiha_v_Al_Ahli_Jeddah.txt
-    !! Al-Feiha: API-Football error: {"search": "The Search field may only contain alpha-numeric characters and spaces."}
-    !! Al Ahli Jeddah: No team found for "Al Ahli Jeddah".
-Requests used: API-Football 77, Matchbook 0
+RUN 2026-10-19 13:14 local | 1 match(es)
+Fayha v Al Ahli -> out/Fayha_v_Al_Ahli.txt
+    !! Al Ahli: Ambiguous team name "Al Ahli".
+Requests used: API-Football 15, Matchbook 0
