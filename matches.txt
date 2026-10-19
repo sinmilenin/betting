@@ -1,5 +1,3 @@
-# Scan 19.10 16:42: run 1
-BFC Daugavpils v FK Auda | n=20 | xg=10
-Pafos v APOEL | n=20 | xg=10
-Rigas Futbola Skola v Tukums 2000 | n=20 | xg=10
-Monza v Cagliari | n=20 | xg=10
+# Scan 19.10 16:42: run 2 (FK Auda, Rigas Futbola Skola, Tukums 2000 not found in run 1; retrying with the league-table names)
+BFC Daugavpils v Auda | n=20 | xg=10
+Rigas FS v Tukums | n=20 | xg=10
