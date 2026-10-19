@@ -1,8 +1,28 @@
-MATCH Lee Man v Kitchee | fetched 2026-10-19 10:13 local
+MATCH Warriors v Kitchee | fetched 2026-10-19 10:14 local
 
-FORM DATA Lee Man v Kitchee | source API-Football | 2026-10-19 10:13 UTC
+FORM DATA Warriors v Kitchee | source API-Football | 2026-10-19 10:14 UTC
 H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
 
+"Warriors" matches several teams. Use id:<number> instead of the name:
+  id:4207   Warriors (Hong-Kong)
+  id:5171   Abia Warriors (Nigeria)
+  id:5175   El Kanemi Warriors (Nigeria)
+  id:5201   Kabwe Warriors (Zambia)
+  id:5450   X-Roads Warriors (Bermuda)
+  id:8128   Solomon Warriors (Solomon-Islands)
+  id:10426  Delima Warriors (Malaysia)
+  id:10531  Warriors (Singapore)
+  id:14104  Olympia Warriors (Australia)
+  id:16787  North Geelong Warriors (Australia)
+  id:17267  Shaanxi Warriors (China)
+  id:18739  Tok Janggut Warriors (Malaysia)
+  id:21152  Nkoranza Warriors U19 (None)
+  id:21339  Upesciema Warriors (Latvia)
+  id:22781  Victory Club Warriors (Ghana)
+  id:24942  Cardiff Bay Warriors (Wales)
+  id:26797  Golden Warriors (Ghana)
+  id:26808  VC Warriors (Ghana)
+  id:27836  Kada Warriors (Nigeria)
 === Kitchee (id 4453): last 20 finished games ===
 2026-10-15 A 1-1 v Kuching FA | AFC Champions League Two | Kuching | xG 0.93-1.03
 2026-10-10 H 4-0 v Hong Kong FC | Premier League | Hongkong
@@ -28,7 +48,32 @@ Listed home: 11 games, scored 28 (2.55), conceded 14 (1.27), blanks 1, clean she
 Listed away: 9 games, scored 15 (1.67), conceded 13 (1.44), blanks 2, clean sheets 2
 All: 20 games, scored 43 (2.15), conceded 27 (1.35), blanks 3, clean sheets 7
 
-!! Lee Man: No team found for "Lee Man".
+(retrying Warriors using the opponent's country, Hong-Kong)
+NOTE: "Warriors" matched 2 teams; picked Warriors (Hong-Kong) because the opponent is from Hong-Kong. Others: Warriors (Singapore)
+=== Warriors (id 4207): last 20 finished games ===
+2026-10-11 A 2-0 v BC Rangers | Premier League | Hongkong
+2026-09-19 A 1-0 v Shatin | Senior Shield | ?
+2026-09-11 H 2-1 v Eastern District | Premier League | Hongkong
+2026-09-06 A 3-0 v Hong Kong FC | Premier League | Hongkong
+2026-08-28 H 3-0 v Shatin | Premier League | Hongkong
+2026-08-23 H 3-0 v Kowloon City | Premier League | Hongkong
+2026-05-17 H 2-3 v Wofoo Tai Po | Premier League | Hongkong
+2026-05-10 A 4-2 v North District | Premier League | Hongkong
+2026-04-26 H 0-1 v Eastern | Premier League | Hongkong
+2026-04-18 A 4-1 v Kitchee | Premier League | Hongkong
+2026-04-12 A 3-3 v North District | Premier League | Hongkong
+2026-04-07 A 2-1 v Kitchee | League Cup | Hongkong
+2026-04-03 A 0-0 v Eastern District | Premier League | Hongkong
+2026-03-21 H 0-0 v Kowloon City | Premier League | Hongkong
+2026-03-15 A 4-0 v Hong Kong FC | Premier League | Hongkong
+2026-03-11 H 1-0 v Wofoo Tai Po | League Cup | Hongkong
+2026-03-08 A 3-3 v BC Rangers | FA Cup | Hongkong [PEN, 90-min score shown]
+2026-03-04 H 2-0 v BC Rangers | Premier League | Hongkong
+2026-02-28 A 1-1 v Eastern | Premier League | Hongkong
+2026-02-15 A 0-1 v Kitchee | Premier League | Hongkong
+Listed home: 8 games, scored 13 (1.62), conceded 5 (0.62), blanks 2, clean sheets 5
+Listed away: 12 games, scored 27 (2.25), conceded 12 (1.00), blanks 2, clean sheets 5
+All: 20 games, scored 40 (2.00), conceded 17 (0.85), blanks 4, clean sheets 10
 
 TABLE FOR Kitchee
 LEAGUE TABLE AFC Champions League Two 2026 | 32 teams | 32 games played
@@ -67,7 +112,22 @@ League averages per game: home 1.38, away 0.97, total 2.34
 3   Kuching FA               1 |  1   1-1       |  1   1-2       |  2   2-3 [Group H]
 4   Gangwon FC               1 |  1   1-2       |  1   0-0       |  2   1-2 [Group H]
 
-(14 API-Football requests used)
+TABLE FOR Warriors
+LEAGUE TABLE Premier League 2026 | 11 teams | 0 games played
+#   team                   Pts | home P GF-GA  | away P GF-GA  | all P GF-GA
+1   Kitchee                  0 |  0   0-0       |  0   0-0       |  0   0-0
+2   Warriors                 0 |  0   0-0       |  0   0-0       |  0   0-0
+3   North District           0 |  0   0-0       |  0   0-0       |  0   0-0
+4   Wofoo Tai Po             0 |  0   0-0       |  0   0-0       |  0   0-0
+5   Eastern                  0 |  0   0-0       |  0   0-0       |  0   0-0
+6   Kowloon City             0 |  0   0-0       |  0   0-0       |  0   0-0
+7   Eastern District         0 |  0   0-0       |  0   0-0       |  0   0-0
+8   Southern District        0 |  0   0-0       |  0   0-0       |  0   0-0
+9   BC Rangers               0 |  0   0-0       |  0   0-0       |  0   0-0
+10  Hong Kong FC             0 |  0   0-0       |  0   0-0       |  0   0-0
+11  Shatin                   0 |  0   0-0       |  0   0-0       |  0   0-0
+
+(27 API-Football requests used)
 
 ----------------------------------------------------------------------
 MATCHBOOK: skipped (switched off for this run)

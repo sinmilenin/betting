@@ -1,4 +1,3 @@
-RUN 2026-10-19 10:13 local | 1 match(es)
-Lee Man v Kitchee -> out/Lee_Man_v_Kitchee.txt
-    !! Lee Man: No team found for "Lee Man".
-Requests used: API-Football 14, Matchbook 0
+RUN 2026-10-19 10:14 local | 1 match(es)
+Warriors v Kitchee -> out/Warriors_v_Kitchee.txt
+Requests used: API-Football 27, Matchbook 0
