@@ -1,12 +1,7 @@
-RUN 2026-10-19 15:27 local | 5 match(es)
-Suduva v Zalgiris -> out/Suduva_v_Zalgiris.txt
-    !! Suduva: Ambiguous team name "Suduva".
-    !! Zalgiris: Ambiguous team name "Zalgiris".
-Etar v Spartak Varna -> out/Etar_v_Spartak_Varna.txt
-    !! Etar: Ambiguous team name "Etar".
-Bursaspor v Pendikspor -> out/Bursaspor_v_Pendikspor.txt
-Viborg v Midtjylland -> out/Viborg_v_Midtjylland.txt
-    !! Midtjylland: Ambiguous team name "Midtjylland".
-Trabzonspor v Besiktas -> out/Trabzonspor_v_Besiktas.txt
-    !! Besiktas: Ambiguous team name "Besiktas".
-Requests used: API-Football 72, Matchbook 0
+RUN 2026-10-19 15:31 local | 5 match(es)
+id:612 v id:3872 -> out/id_612_v_id_3872.txt
+id:855 v Spartak Varna -> out/id_855_v_Spartak_Varna.txt
+Viborg v id:397 -> out/Viborg_v_id_397.txt
+Trabzonspor v id:549 -> out/Trabzonspor_v_id_549.txt
+id:4160 v Tukums -> out/id_4160_v_Tukums.txt
+Requests used: API-Football 127, Matchbook 0
