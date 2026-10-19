@@ -1,2 +1,7 @@
-# Scan 19.10 18:13: run 3 (run 2 matched Libyan Al Hilal and found no Al Hazm; Saudi Al-Hilal by id)
-id:2932 v Al Hazem | n=20 | xg=10
+# Scan 19.10 18:56 match list
+Celta Vigo B v Tenerife | n=20 | xg=10
+San Telmo v Defensores de Belgrano | n=20 | xg=10
+Rodez v Montpellier | n=20 | xg=10
+Parma v Torino | n=20 | xg=10
+Waterford v Galway | n=20 | xg=10
+id:2932 v Hazem | n=20 | xg=10
