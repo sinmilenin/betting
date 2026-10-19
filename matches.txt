@@ -1,2 +1,2 @@
-# Scan 19.10 16:42: run 4 (RFS ambiguous as "Rigas FS" and "RFS"; trying the table spelling)
-Rīgas FS v Tukums | n=20 | xg=10
+# Scan 19.10 16:42: run 5 (Rigas FS ambiguous; listing Tukums first so the Latvian country preference resolves RFS. Real fixture: Rigas Futbola Skola v FK Tukums 2000, RFS at home)
+Tukums v Rigas FS | n=20 | xg=10
