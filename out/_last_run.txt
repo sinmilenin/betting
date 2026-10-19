@@ -1,4 +1,3 @@
-RUN 2026-10-18 19:57 local | 2 match(es)
-Envigado v Barranquilla -> out/Envigado_v_Barranquilla.txt
-Bahia v Flamengo -> out/Bahia_v_Flamengo.txt
-Requests used: API-Football 51, Matchbook 0
+RUN 2026-10-19 07:57 local | 1 match(es)
+Tai Po v Southern District -> out/Tai_Po_v_Southern_District.txt
+Requests used: API-Football 26, Matchbook 0
