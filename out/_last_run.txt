@@ -1,4 +1,12 @@
-RUN 2026-10-19 14:48 local | 1 match(es)
-Tukums v Rigas FS -> out/Tukums_v_Rigas_FS.txt
-    !! Rigas FS: Ambiguous team name "Rigas FS".
-Requests used: API-Football 15, Matchbook 0
+RUN 2026-10-19 15:27 local | 5 match(es)
+Suduva v Zalgiris -> out/Suduva_v_Zalgiris.txt
+    !! Suduva: Ambiguous team name "Suduva".
+    !! Zalgiris: Ambiguous team name "Zalgiris".
+Etar v Spartak Varna -> out/Etar_v_Spartak_Varna.txt
+    !! Etar: Ambiguous team name "Etar".
+Bursaspor v Pendikspor -> out/Bursaspor_v_Pendikspor.txt
+Viborg v Midtjylland -> out/Viborg_v_Midtjylland.txt
+    !! Midtjylland: Ambiguous team name "Midtjylland".
+Trabzonspor v Besiktas -> out/Trabzonspor_v_Besiktas.txt
+    !! Besiktas: Ambiguous team name "Besiktas".
+Requests used: API-Football 72, Matchbook 0

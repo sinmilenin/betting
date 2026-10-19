@@ -1,0 +1,90 @@
+MATCH Etar v Spartak Varna | fetched 2026-10-19 15:27 local
+
+FORM DATA Etar v Spartak Varna | source API-Football | 2026-10-19 15:27 UTC
+H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
+
+"Etar" matches several teams. Use id:<number> instead of the name:
+  id:855    Etar Veliko Tarnovo (Bulgaria)
+  id:2261   Luftetari Gjirokaster (Albania)
+  id:2290   Club Queretaro (Mexico)
+  id:2821   Deportivo Petare (Venezuela)
+  id:2853   Petare FC (Venezuela)
+  id:3834   Naftëtari Kuçovë (Albania)
+  id:10474  Atlético Tembetary (Paraguay)
+  id:13699  Metare St-Etienne (France)
+  id:14871  Querétaro W (Mexico)
+  id:15141  Etar VT II (Bulgaria)
+  id:17338  Querétaro U20 (Mexico)
+  id:17740  Luftëtari (Albania)
+  id:17785  Inter de Querétaro (Mexico)
+  id:21554  Queretaro U23 (Mexico)
+  id:22889  Setaregan Javan Tehran (Iran)
+  id:26840  Queretaro U21 (Mexico)
+=== Spartak Varna (id 4660): last 20 finished games ===
+2026-10-10 A 1-0 v Botev Vratsa | First League | Vratsa
+2026-09-20 H 0-1 v Lokomotiv Sofia | First League | Varna
+2026-09-13 A 0-0 v Slavia Sofia | First League | Sofia
+2026-09-05 H 1-1 v CSKA Sofia | First League | Varna
+2026-08-30 H 1-1 v Ludogorets | First League | Varna
+2026-08-22 A 0-6 v Levski Sofia | First League | Sofia
+2026-08-17 H 0-1 v Septemvri Sofia | First League | Varna
+2026-08-10 A 2-3 v Botev Plovdiv | First League | Plovdiv
+2026-08-03 H 1-0 v Lokomotiv Plovdiv | First League | Varna
+2026-07-26 A 3-0 v Cherno More Varna | First League | Varna
+2026-07-17 H 2-2 v CSKA 1948 | First League | Varna
+2026-07-11 H 7-3 v Dobrudzha | Friendlies Clubs | ?
+2026-07-08 H 1-1 v Nesebar | Friendlies Clubs | ?
+2026-07-04 A 0-1 v Botev Plovdiv | Friendlies Clubs | ?
+2026-06-27 H 0-0 v Dunav Ruse | Friendlies Clubs | ?
+2026-05-22 H 3-0 v Lokomotiv Sofia | First League | Varna
+2026-05-18 A 2-0 v Montana | First League | Montana
+2026-05-14 A 0-1 v Septemvri Sofia | First League | Sofia
+2026-05-10 H 2-1 v Slavia Sofia | First League | Varna
+2026-05-06 H 1-1 v Dobrudzha | First League | Varna
+Listed home: 12 games, scored 19 (1.58), conceded 12 (1.00), blanks 3, clean sheets 3
+Listed away: 8 games, scored 8 (1.00), conceded 11 (1.38), blanks 4, clean sheets 4
+All: 20 games, scored 27 (1.35), conceded 23 (1.15), blanks 7, clean sheets 7
+
+(retrying Etar using the opponent's country, Bulgaria)
+"Etar" matches several teams. Use id:<number> instead of the name:
+  id:855    Etar Veliko Tarnovo (Bulgaria)
+  id:2261   Luftetari Gjirokaster (Albania)
+  id:2290   Club Queretaro (Mexico)
+  id:2821   Deportivo Petare (Venezuela)
+  id:2853   Petare FC (Venezuela)
+  id:3834   Naftëtari Kuçovë (Albania)
+  id:10474  Atlético Tembetary (Paraguay)
+  id:13699  Metare St-Etienne (France)
+  id:14871  Querétaro W (Mexico)
+  id:15141  Etar VT II (Bulgaria)
+  id:17338  Querétaro U20 (Mexico)
+  id:17740  Luftëtari (Albania)
+  id:17785  Inter de Querétaro (Mexico)
+  id:21554  Queretaro U23 (Mexico)
+  id:22889  Setaregan Javan Tehran (Iran)
+  id:26840  Queretaro U21 (Mexico)
+!! Etar: Ambiguous team name "Etar".
+
+TABLE FOR Spartak Varna
+LEAGUE TABLE First League 2026 | 14 teams | 76 games played
+League averages per game: home 1.49, away 1.21, total 2.70
+#   team                   Pts | home P GF-GA  | away P GF-GA  | all P GF-GA
+1   Levski Sofia            28 |  5  14-1       |  5   9-3       | 10  23-4
+2   CSKA Sofia              27 |  5  17-5       |  6  10-4       | 11  27-9
+3   Ludogorets              26 |  6  13-3       |  4   8-4       | 10  21-7
+4   CSKA 1948               22 |  6  14-7       |  5   7-6       | 11  21-13
+5   Botev Plovdiv           19 |  6   9-6       |  5   8-8       | 11  17-14
+6   Arda Kardzhali          17 |  5   9-5       |  6   6-12      | 11  15-17
+7   Spartak Varna           13 |  6   5-6       |  5   6-9       | 11  11-15
+8   Slavia Sofia            11 |  6   4-6       |  5   5-3       | 11   9-9
+9   Botev Vratsa             9 |  5   2-5       |  6   7-15      | 11   9-20
+10  Dunav Ruse               8 |  5   4-9       |  6   9-12      | 11  13-21
+11  Lokomotiv Plovdiv        8 |  5   5-5       |  6   1-9       | 11   6-14
+12  Lokomotiv Sofia          8 |  5   4-10      |  6   8-9       | 11  12-19
+13  Septemvri Sofia          8 |  6   6-13      |  5   4-8       | 11  10-21
+14  Cherno More Varna        6 |  5   7-11      |  6   4-11      | 11  11-22
+
+(15 API-Football requests used)
+
+----------------------------------------------------------------------
+MATCHBOOK: skipped (switched off for this run)
