@@ -1,2 +1,2 @@
-# Scan 19.10 12:12
-Lee Man v Kitchee | n=20 | xg=10
+# Scan 19.10 12:12: run 2 (Lee Man listed as Warriors in API-Football)
+Warriors v Kitchee | n=20 | xg=10
