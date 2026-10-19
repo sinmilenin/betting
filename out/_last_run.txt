@@ -1,4 +1,11 @@
-RUN 2026-10-19 16:17 local | 1 match(es)
-id:2932 v Al Hazem -> out/id_2932_v_Al_Hazem.txt
-    !! Al Hazem: No team found for "Al Hazem".
-Requests used: API-Football 14, Matchbook 0
+RUN 2026-10-19 16:57 local | 6 match(es)
+Celta Vigo B v Tenerife -> out/Celta_Vigo_B_v_Tenerife.txt
+    !! Celta Vigo B: No team found for "Celta Vigo B".
+San Telmo v Defensores de Belgrano -> out/San_Telmo_v_Defensores_de_Belgrano.txt
+Rodez v Montpellier -> out/Rodez_v_Montpellier.txt
+Parma v Torino -> out/Parma_v_Torino.txt
+Waterford v Galway -> out/Waterford_v_Galway.txt
+    !! Galway: Ambiguous team name "Galway".
+id:2932 v Hazem -> out/id_2932_v_Hazem.txt
+    !! Hazem: No team found for "Hazem".
+Requests used: API-Football 118, Matchbook 0

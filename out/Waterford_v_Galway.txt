@@ -1,0 +1,58 @@
+MATCH Waterford v Galway | fetched 2026-10-19 16:57 local
+
+FORM DATA Waterford v Galway | source API-Football | 2026-10-19 16:58 UTC
+H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
+
+=== Waterford (id 3845): last 20 finished games ===
+2026-10-16 A 1-2 v Bohemians | Premier Division | Dublin | xG 1.28-0.56
+2026-10-09 A 2-0 v Bohemians | FAI Cup | Dublin
+2026-09-18 A 2-3 v Shamrock Rovers | Premier Division | Dublin | xG 1.01-2.05
+2026-09-14 H 2-2 v Derry City | Premier Division | Waterford
+2026-09-11 H 1-1 v Dundalk | Premier Division | Waterford | xG 2.04-0.55
+2026-09-04 H 3-0 v Sligo Rovers | FAI Cup | Waterford
+2026-08-28 A 2-0 v St Patrick's Athl. | Premier Division | Dublin | xG 2.27-1.42
+2026-08-21 A 0-0 v Sligo Rovers | Premier Division | Sligo | xG 1.59-0.66
+2026-08-14 H 2-1 v Athlone Town | FAI Cup | Waterford
+2026-08-09 H 3-1 v Bohemians | Premier Division | Waterford | xG 1.66-1.25
+2026-08-02 H 1-0 v Shelbourne | Premier Division | Waterford
+2026-07-25 A 0-0 v Galway United | Premier Division | Galway
+2026-07-17 H 2-1 v Cobh Ramblers | FAI Cup | Waterford
+2026-07-10 H 1-1 v St Patrick's Athl. | Premier Division | Waterford
+2026-07-03 A 4-2 v Derry City | Premier Division | Derry
+2026-06-26 A 3-2 v Dundalk | Premier Division | Dundalk
+2026-06-19 H 0-2 v Shamrock Rovers | Premier Division | Waterford
+2026-06-12 H 4-0 v Sligo Rovers | Premier Division | Waterford
+2026-05-29 A 3-3 v Drogheda United | Premier Division | Drogheda
+2026-05-22 A 1-2 v Shelbourne | Premier Division | Dublin
+Listed home: 10 games, scored 19 (1.90), conceded 9 (0.90), blanks 1, clean sheets 3
+Listed away: 10 games, scored 18 (1.80), conceded 14 (1.40), blanks 2, clean sheets 4
+All: 20 games, scored 37 (1.85), conceded 23 (1.15), blanks 3, clean sheets 7
+
+"Galway" matches several teams. Use id:<number> instead of the name:
+  id:3851   Galway United (Ireland)
+  id:21491  Galway United W (Ireland)
+(retrying Galway using the opponent's country, Ireland)
+"Galway" matches several teams. Use id:<number> instead of the name:
+  id:3851   Galway United (Ireland)
+  id:21491  Galway United W (Ireland)
+!! Galway: Ambiguous team name "Galway".
+
+TABLE FOR Waterford
+LEAGUE TABLE Premier Division 2026 | 10 teams | 168 games played
+League averages per game: home 1.52, away 1.27, total 2.79
+#   team                   Pts | home P GF-GA  | away P GF-GA  | all P GF-GA
+1   Shamrock Rovers         65 | 17  33-15      | 17  21-20      | 34  54-35
+2   Bohemians               62 | 17  29-20      | 17  31-21      | 34  60-41
+3   St Patrick's Athl.      59 | 17  32-12      | 16  21-15      | 33  53-27
+4   Shelbourne              46 | 17  25-28      | 17  24-19      | 34  49-47
+5   Dundalk                 42 | 17  26-27      | 17  25-29      | 34  51-56
+6   Derry City              41 | 16  27-19      | 17  18-25      | 33  45-44
+7   Galway United           41 | 17  25-25      | 16  19-23      | 33  44-48
+8   Drogheda United         37 | 17  20-21      | 17  21-33      | 34  41-54
+9   Waterford               34 | 16  22-19      | 17  23-37      | 33  45-56
+10  Sligo Rovers            24 | 17  16-27      | 17  10-33      | 34  26-60
+
+(15 API-Football requests used)
+
+----------------------------------------------------------------------
+MATCHBOOK: skipped (switched off for this run)

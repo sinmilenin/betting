@@ -1,6 +1,6 @@
-MATCH id:2932 v Al Hazem | fetched 2026-10-19 16:17 local
+MATCH id:2932 v Hazem | fetched 2026-10-19 16:57 local
 
-FORM DATA id:2932 v Al Hazem | source API-Football | 2026-10-19 16:17 UTC
+FORM DATA id:2932 v Hazem | source API-Football | 2026-10-19 16:58 UTC
 H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
 
 === Al-Hilal Saudi FC (id 2932): last 20 finished games ===
@@ -28,7 +28,7 @@ Listed home: 9 games, scored 19 (2.11), conceded 12 (1.33), blanks 2, clean shee
 Listed away: 11 games, scored 28 (2.55), conceded 5 (0.45), blanks 0, clean sheets 6
 All: 20 games, scored 47 (2.35), conceded 17 (0.85), blanks 2, clean sheets 9
 
-!! Al Hazem: No team found for "Al Hazem".
+!! Hazem: No team found for "Hazem".
 
 TABLE FOR Al-Hilal Saudi FC
 LEAGUE TABLE AFC Champions League Elite 2026 | 32 teams | 32 games played
