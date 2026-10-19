@@ -1,4 +1,3 @@
 RUN 2026-10-19 13:14 local | 1 match(es)
-Fayha v Al Ahli -> out/Fayha_v_Al_Ahli.txt
-    !! Al Ahli: Ambiguous team name "Al Ahli".
-Requests used: API-Football 15, Matchbook 0
+id:2944 v id:2929 -> out/id_2944_v_id_2929.txt
+Requests used: API-Football 26, Matchbook 0
