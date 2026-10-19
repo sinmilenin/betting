@@ -1,3 +1,4 @@
-RUN 2026-10-19 08:43 local | 1 match(es)
-FC Kharkiv v Livyi Bereh -> out/FC_Kharkiv_v_Livyi_Bereh.txt
-Requests used: API-Football 25, Matchbook 0
+RUN 2026-10-19 10:13 local | 1 match(es)
+Lee Man v Kitchee -> out/Lee_Man_v_Kitchee.txt
+    !! Lee Man: No team found for "Lee Man".
+Requests used: API-Football 14, Matchbook 0
