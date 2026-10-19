@@ -1,6 +1,6 @@
-MATCH Derry City v St. Patrick's | fetched 2026-10-19 18:28 local
+MATCH Derry City v Patrick | fetched 2026-10-19 18:30 local
 
-FORM DATA Derry City v St. Patrick's | source API-Football | 2026-10-19 18:28 UTC
+FORM DATA Derry City v Patrick | source API-Football | 2026-10-19 18:30 UTC
 H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
 
 === Derry City (id 670): last 20 finished games ===
@@ -28,7 +28,20 @@ Listed home: 9 games, scored 18 (2.00), conceded 12 (1.33), blanks 1, clean shee
 Listed away: 11 games, scored 15 (1.36), conceded 18 (1.64), blanks 2, clean sheets 2
 All: 20 games, scored 33 (1.65), conceded 30 (1.50), blanks 3, clean sheets 6
 
-!! St. Patrick's: API-Football error: {"search": "The Search field may only contain alpha-numeric characters and spaces."}
+"Patrick" matches several teams. Use id:<number> instead of the name:
+  id:3843   St Patrick's Athl. (Ireland)
+  id:4622   Zabbar St. Patrick (Malta)
+  id:17700  St Patrick's U19 (None)
+  id:21407  St Patrick's CY (Ireland)
+  id:22540  Seapatrick (Northern-Ireland)
+(retrying Patrick using the opponent's country, Ireland)
+"Patrick" matches several teams. Use id:<number> instead of the name:
+  id:3843   St Patrick's Athl. (Ireland)
+  id:4622   Zabbar St. Patrick (Malta)
+  id:17700  St Patrick's U19 (None)
+  id:21407  St Patrick's CY (Ireland)
+  id:22540  Seapatrick (Northern-Ireland)
+!! Patrick: Ambiguous team name "Patrick".
 
 TABLE FOR Derry City
 LEAGUE TABLE Premier Division 2026 | 10 teams | 168 games played
@@ -45,7 +58,7 @@ League averages per game: home 1.52, away 1.27, total 2.79
 9   Waterford               34 | 16  22-19      | 17  23-37      | 33  45-56
 10  Sligo Rovers            24 | 17  16-27      | 17  10-33      | 34  26-60
 
-(14 API-Football requests used)
+(15 API-Football requests used)
 
 ----------------------------------------------------------------------
 MATCHBOOK: skipped (switched off for this run)

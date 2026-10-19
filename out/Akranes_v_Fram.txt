@@ -1,32 +1,7 @@
-MATCH Fram v Akranes | fetched 2026-10-19 18:28 local
+MATCH Akranes v Fram | fetched 2026-10-19 18:30 local
 
-FORM DATA Fram v Akranes | source API-Football | 2026-10-19 18:28 UTC
+FORM DATA Akranes v Fram | source API-Football | 2026-10-19 18:30 UTC
 H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
-
-=== Fram (id 6986): last 20 finished games ===
-2026-10-17 A 0-4 v Raelingen | 3. Division - Girone 6 | ?
-2026-10-10 H 4-0 v Brumunddal | 3. Division - Girone 6 | ?
-2026-10-03 H 1-1 v Sandefjord II | 3. Division - Girone 6 | ?
-2026-09-26 A 2-4 v Ørn Horten | 3. Division - Girone 6 | ?
-2026-09-19 H 1-1 v Råde | 3. Division - Girone 6 | ?
-2026-09-12 A 3-6 v Oppsal | 3. Division - Girone 6 | ?
-2026-09-05 H 4-0 v Bjørkelangen | 3. Division - Girone 6 | ?
-2026-08-30 A 4-3 v Drøbak / Frogn | 3. Division - Girone 6 | ?
-2026-08-22 H 1-2 v jerv | NM Cupen | Larvik
-2026-08-17 H 3-0 v Sarpsborg 08 II | 3. Division - Girone 6 | ?
-2026-08-10 A 3-4 v Lyn II | 3. Division - Girone 6 | ?
-2026-08-01 H 1-3 v Elverum | 3. Division - Girone 6 | ?
-2026-07-25 A 2-0 v Bjørkelangen | 3. Division - Girone 6 | ?
-2026-06-27 H 1-1 v Drøbak / Frogn | 3. Division - Girone 6 | ?
-2026-06-20 A 1-2 v Sarpsborg 08 II | 3. Division - Girone 6 | ?
-2026-06-15 H 0-1 v Lyn II | 3. Division - Girone 6 | ?
-2026-05-31 A 0-4 v Sandefjord II | 3. Division - Girone 6 | ?
-2026-05-25 H 5-1 v Raelingen | 3. Division - Girone 6 | ?
-2026-05-14 A 2-3 v Elverum | 3. Division - Girone 6 | ?
-2026-05-10 H 1-1 v Ørn Horten | 3. Division - Girone 6 | ?
-Listed home: 11 games, scored 22 (2.00), conceded 11 (1.00), blanks 1, clean sheets 3
-Listed away: 9 games, scored 17 (1.89), conceded 30 (3.33), blanks 2, clean sheets 1
-All: 20 games, scored 39 (1.95), conceded 41 (2.05), blanks 3, clean sheets 4
 
 === IA Akranes (id 827): last 20 finished games ===
 2026-10-11 A 2-2 v Vikingur Reykjavik | Úrvalsdeild | ?
@@ -53,6 +28,48 @@ Listed home: 11 games, scored 22 (2.00), conceded 14 (1.27), blanks 1, clean she
 Listed away: 9 games, scored 18 (2.00), conceded 24 (2.67), blanks 0, clean sheets 1
 All: 20 games, scored 40 (2.00), conceded 38 (1.90), blanks 1, clean sheets 3
 
+=== Fram (id 6986): last 20 finished games ===
+2026-10-17 A 0-4 v Raelingen | 3. Division - Girone 6 | ?
+2026-10-10 H 4-0 v Brumunddal | 3. Division - Girone 6 | ?
+2026-10-03 H 1-1 v Sandefjord II | 3. Division - Girone 6 | ?
+2026-09-26 A 2-4 v Ørn Horten | 3. Division - Girone 6 | ?
+2026-09-19 H 1-1 v Råde | 3. Division - Girone 6 | ?
+2026-09-12 A 3-6 v Oppsal | 3. Division - Girone 6 | ?
+2026-09-05 H 4-0 v Bjørkelangen | 3. Division - Girone 6 | ?
+2026-08-30 A 4-3 v Drøbak / Frogn | 3. Division - Girone 6 | ?
+2026-08-22 H 1-2 v jerv | NM Cupen | Larvik
+2026-08-17 H 3-0 v Sarpsborg 08 II | 3. Division - Girone 6 | ?
+2026-08-10 A 3-4 v Lyn II | 3. Division - Girone 6 | ?
+2026-08-01 H 1-3 v Elverum | 3. Division - Girone 6 | ?
+2026-07-25 A 2-0 v Bjørkelangen | 3. Division - Girone 6 | ?
+2026-06-27 H 1-1 v Drøbak / Frogn | 3. Division - Girone 6 | ?
+2026-06-20 A 1-2 v Sarpsborg 08 II | 3. Division - Girone 6 | ?
+2026-06-15 H 0-1 v Lyn II | 3. Division - Girone 6 | ?
+2026-05-31 A 0-4 v Sandefjord II | 3. Division - Girone 6 | ?
+2026-05-25 H 5-1 v Raelingen | 3. Division - Girone 6 | ?
+2026-05-14 A 2-3 v Elverum | 3. Division - Girone 6 | ?
+2026-05-10 H 1-1 v Ørn Horten | 3. Division - Girone 6 | ?
+Listed home: 11 games, scored 22 (2.00), conceded 11 (1.00), blanks 1, clean sheets 3
+Listed away: 9 games, scored 17 (1.89), conceded 30 (3.33), blanks 2, clean sheets 1
+All: 20 games, scored 39 (1.95), conceded 41 (2.05), blanks 3, clean sheets 4
+
+TABLE FOR IA Akranes
+LEAGUE TABLE Úrvalsdeild 2026 | 12 teams | 132 games played
+League averages per game: home 2.08, away 1.77, total 3.86
+#   team                   Pts | home P GF-GA  | away P GF-GA  | all P GF-GA
+1   Vikingur Reykjavik      53 | 11  35-10      | 11  32-11      | 22  67-21
+2   Fram Reykjavik          45 | 11  31-24      | 11  25-18      | 22  56-42
+3   KR Reykjavik            44 | 11  41-21      | 11  33-28      | 22  74-49
+4   Breidablik              30 | 11  25-21      | 11  18-20      | 22  43-41
+5   IA Akranes              30 | 11  19-15      | 11  20-26      | 22  39-41
+6   Keflavik                28 | 11  18-13      | 11  15-25      | 22  33-38
+7   Stjarnan                28 | 11  23-24      | 11  19-26      | 22  42-50
+8   Valur Reykjavik         27 | 11  22-27      | 11  17-18      | 22  39-45
+9   FH hafnarfjordur        21 | 11  15-17      | 11  12-22      | 22  27-39
+10  Thor Akureyri           21 | 11  13-20      | 11   9-30      | 22  22-50
+11  KA Akureyri             20 | 11  16-21      | 11  19-27      | 22  35-48
+12  IBV Vestmannaeyjar      18 | 11  17-21      | 11  15-24      | 22  32-45
+
 TABLE FOR Fram
 LEAGUE TABLE 3. Division - Girone 6 2026 | 14 teams | 167 games played
 League averages per game: home 2.49, away 1.78, total 4.26
@@ -71,23 +88,6 @@ League averages per game: home 2.49, away 1.78, total 4.26
 12  Fram                    26 | 12  23-13      | 12  20-40      | 24  43-53
 13  Brumunddal              12 | 12  14-42      | 12  11-64      | 24  25-106
 14  Bjørkelangen             3 | 12  10-46      | 11   7-48      | 23  17-94
-
-TABLE FOR IA Akranes
-LEAGUE TABLE Úrvalsdeild 2026 | 12 teams | 132 games played
-League averages per game: home 2.08, away 1.77, total 3.86
-#   team                   Pts | home P GF-GA  | away P GF-GA  | all P GF-GA
-1   Vikingur Reykjavik      53 | 11  35-10      | 11  32-11      | 22  67-21
-2   Fram Reykjavik          45 | 11  31-24      | 11  25-18      | 22  56-42
-3   KR Reykjavik            44 | 11  41-21      | 11  33-28      | 22  74-49
-4   Breidablik              30 | 11  25-21      | 11  18-20      | 22  43-41
-5   IA Akranes              30 | 11  19-15      | 11  20-26      | 22  39-41
-6   Keflavik                28 | 11  18-13      | 11  15-25      | 22  33-38
-7   Stjarnan                28 | 11  23-24      | 11  19-26      | 22  42-50
-8   Valur Reykjavik         27 | 11  22-27      | 11  17-18      | 22  39-45
-9   FH hafnarfjordur        21 | 11  15-17      | 11  12-22      | 22  27-39
-10  Thor Akureyri           21 | 11  13-20      | 11   9-30      | 22  22-50
-11  KA Akureyri             20 | 11  16-21      | 11  19-27      | 22  35-48
-12  IBV Vestmannaeyjar      18 | 11  17-21      | 11  15-24      | 22  32-45
 
 (26 API-Football requests used)
 
