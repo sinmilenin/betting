@@ -174,5 +174,93 @@
     "lay": 12.5,
     "stake": 3,
     "created": "2026-10-19T17:37:07+02:00"
+  },
+  {
+    "id": "2026-10-19_etar-spartak-varna_1-2",
+    "date": "2026-10-19",
+    "ko": "18:00",
+    "match": "Etar v Spartak Varna",
+    "comp": "Bulgaria, Bulgarian Cup",
+    "cell": "1-2",
+    "lay": 11.5,
+    "stake": 3,
+    "created": "2026-10-19T17:39:48+02:00"
+  },
+  {
+    "id": "2026-10-19_etar-spartak-varna_aoaw",
+    "date": "2026-10-19",
+    "ko": "18:00",
+    "match": "Etar v Spartak Varna",
+    "comp": "Bulgaria, Bulgarian Cup",
+    "cell": "AOAW",
+    "lay": 15.5,
+    "stake": 3,
+    "created": "2026-10-19T17:39:48+02:00"
+  },
+  {
+    "id": "2026-10-19_rigas-futbola-skola-fk-tukums-2000_1-0",
+    "date": "2026-10-19",
+    "ko": "18:00",
+    "match": "Rigas Futbola Skola v FK Tukums 2000",
+    "comp": "Latvia, Latvian Virsliga",
+    "cell": "1-0",
+    "lay": 17.5,
+    "stake": 3,
+    "created": "2026-10-19T17:39:48+02:00"
+  },
+  {
+    "id": "2026-10-19_rigas-futbola-skola-fk-tukums-2000_2-0",
+    "date": "2026-10-19",
+    "ko": "18:00",
+    "match": "Rigas Futbola Skola v FK Tukums 2000",
+    "comp": "Latvia, Latvian Virsliga",
+    "cell": "2-0",
+    "lay": 9.8,
+    "stake": 3,
+    "created": "2026-10-19T17:39:48+02:00"
+  },
+  {
+    "id": "2026-10-19_rigas-futbola-skola-fk-tukums-2000_3-0",
+    "date": "2026-10-19",
+    "ko": "18:00",
+    "match": "Rigas Futbola Skola v FK Tukums 2000",
+    "comp": "Latvia, Latvian Virsliga",
+    "cell": "3-0",
+    "lay": 8.6,
+    "stake": 3,
+    "created": "2026-10-19T17:39:48+02:00"
+  },
+  {
+    "id": "2026-10-19_bursaspor-pendikspor_1-0",
+    "date": "2026-10-19",
+    "ko": "19:00",
+    "match": "Bursaspor v Pendikspor",
+    "comp": "Turkey, Turkish 1 Lig",
+    "cell": "1-0",
+    "lay": 10.5,
+    "stake": 3,
+    "created": "2026-10-19T17:39:48+02:00"
+  },
+  {
+    "id": "2026-10-19_viborg-midtjylland_2-2",
+    "date": "2026-10-19",
+    "ko": "19:00",
+    "match": "Viborg v Midtjylland",
+    "comp": "Denmark, Danish Superliga",
+    "cell": "2-2",
+    "lay": 13.5,
+    "stake": 3,
+    "created": "2026-10-19T17:39:48+02:00"
+  },
+  {
+    "id": "2026-10-19_trabzonspor-besiktas_2-2",
+    "date": "2026-10-19",
+    "ko": "19:00",
+    "match": "Trabzonspor v Besiktas",
+    "comp": "Turkey, Turkish Super League",
+    "cell": "2-2",
+    "lay": 13,
+    "stake": 3,
+    "created": "2026-10-19T17:39:48+02:00"
   }
 ]
