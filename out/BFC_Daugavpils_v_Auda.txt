@@ -1,6 +1,6 @@
-MATCH BFC Daugavpils v FK Auda | fetched 2026-10-19 14:42 local
+MATCH BFC Daugavpils v Auda | fetched 2026-10-19 14:44 local
 
-FORM DATA BFC Daugavpils v FK Auda | source API-Football | 2026-10-19 14:42 UTC
+FORM DATA BFC Daugavpils v Auda | source API-Football | 2026-10-19 14:44 UTC
 H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
 
 === BFC Daugavpils (id 4149): last 20 finished games ===
@@ -28,7 +28,30 @@ Listed home: 9 games, scored 14 (1.56), conceded 7 (0.78), blanks 2, clean sheet
 Listed away: 11 games, scored 13 (1.18), conceded 12 (1.09), blanks 4, clean sheets 3
 All: 20 games, scored 27 (1.35), conceded 19 (0.95), blanks 6, clean sheets 7
 
-!! FK Auda: No team found for "FK Auda".
+=== Auda (id 4135): last 20 finished games ===
+2026-10-12 A 3-2 v FK Liepaja | Virsliga | ? | xG 1.90-1.19
+2026-09-20 H 1-1 v Rīgas FS | Virsliga | Riga
+2026-09-16 H 1-0 v Ogre United | Virsliga | Riga
+2026-09-11 A 2-2 v Riga | Virsliga | Riga
+2026-09-06 H 1-0 v Grobiņa | Virsliga | Riga
+2026-09-02 A 2-2 v BFC Daugavpils | Cup | Daugavpils [PEN, 90-min score shown]
+2026-08-29 H 1-1 v Super Nova | Virsliga | Riga
+2026-08-25 H 1-0 v FK Liepaja | Virsliga | Riga
+2026-08-21 H 3-0 v Tukums | Virsliga | Riga
+2026-08-17 H 2-2 v Grobiņa | Cup | Riga [AET, 90-min score shown]
+2026-08-13 A 0-4 v Dinamo Tirana | UEFA Europa Conference League | Elbasani
+2026-08-09 A 1-0 v FS Jelgava | Virsliga | Jelgava
+2026-08-04 H 1-0 v Dinamo Tirana | UEFA Europa Conference League | Riga
+2026-07-30 H 4-1 v FCSB | UEFA Europa Conference League | Riga
+2026-07-26 H 1-0 v BFC Daugavpils | Virsliga | Riga
+2026-07-23 A 3-2 v FCSB | UEFA Europa Conference League | Bucharest
+2026-07-11 H 1-0 v FK Liepaja | Cup | Riga
+2026-07-04 A 1-1 v Rīgas FS | Virsliga | Riga
+2026-06-29 H 0-2 v Riga | Virsliga | Riga
+2026-06-25 A 0-0 v Grobiņa | Virsliga | Grobina
+Listed home: 12 games, scored 17 (1.42), conceded 7 (0.58), blanks 1, clean sheets 7
+Listed away: 8 games, scored 12 (1.50), conceded 13 (1.62), blanks 2, clean sheets 2
+All: 20 games, scored 29 (1.45), conceded 20 (1.00), blanks 3, clean sheets 9
 
 TABLE FOR BFC Daugavpils
 LEAGUE TABLE Virsliga 2026 | 10 teams | 163 games played
@@ -45,7 +68,9 @@ League averages per game: home 1.64, away 1.26, total 2.90
 9   Tukums                  24 | 17  28-26      | 15  16-37      | 32  44-63
 10  Ogre United             18 | 16  18-32      | 17  15-49      | 33  33-81
 
-(14 API-Football requests used)
+(Auda: same table as BFC Daugavpils, shown above)
+
+(25 API-Football requests used)
 
 ----------------------------------------------------------------------
 MATCHBOOK: skipped (switched off for this run)
