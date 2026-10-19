@@ -1,2 +1,5 @@
-# Scan 19.10 12:56: run 2 (II names not found, trying U21)
-Odense U21 v Sonderjyske U21 | n=20 | xg=10
+# Scan 19.10 15:12: run 1
+Fatih Karagumruk v Keciorengucu | n=20 | xg=10
+RC Arba v WA Mostaganem | n=20 | xg=10
+Universitatea Cluj v Arges Pitesti | n=20 | xg=10
+Al-Feiha v Al Ahli Jeddah | n=20 | xg=10
