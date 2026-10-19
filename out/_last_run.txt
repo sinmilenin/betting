@@ -1,5 +1,5 @@
-RUN 2026-10-19 10:57 local | 1 match(es)
-Odense II v SonderjyskE II -> out/Odense_II_v_SonderjyskE_II.txt
-    !! Odense II: No team found for "Odense II".
-    !! SonderjyskE II: No team found for "SonderjyskE II".
+RUN 2026-10-19 10:58 local | 1 match(es)
+Odense U21 v Sonderjyske U21 -> out/Odense_U21_v_Sonderjyske_U21.txt
+    !! Odense U21: No team found for "Odense U21".
+    !! Sonderjyske U21: No team found for "Sonderjyske U21".
 Requests used: API-Football 2, Matchbook 0
