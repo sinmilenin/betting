@@ -1,4 +1,3 @@
-RUN 2026-10-19 18:31 local | 2 match(es)
-Derry City v id:3843 -> out/Derry_City_v_id_3843.txt
-Fram Reykjavik v Akranes -> out/Fram_Reykjavik_v_Akranes.txt
-Requests used: API-Football 50, Matchbook 0
+RUN 2026-10-19 19:12 local | 1 match(es)
+Mushuc Runa v Orense -> out/Mushuc_Runa_v_Orense.txt
+Requests used: API-Football 26, Matchbook 0
