@@ -383,5 +383,93 @@
     "lay": 11.0,
     "stake": 3,
     "created": "2026-10-19T19:02:01+02:00"
+  },
+  {
+    "id": "2026-10-19_jong-fc-utrecht-roda-jc_1-2",
+    "date": "2026-10-19",
+    "ko": "20:00",
+    "match": "Jong FC Utrecht v Roda JC",
+    "comp": "Netherlands, Dutch Eerste Divisie",
+    "cell": "1-2",
+    "lay": 10.5,
+    "stake": 3,
+    "created": "2026-10-19T17:48:42Z"
+  },
+  {
+    "id": "2026-10-19_jong-fc-utrecht-roda-jc_aoaw",
+    "date": "2026-10-19",
+    "ko": "20:00",
+    "match": "Jong FC Utrecht v Roda JC",
+    "comp": "Netherlands, Dutch Eerste Divisie",
+    "cell": "AOAW",
+    "lay": 15,
+    "stake": 3,
+    "created": "2026-10-19T17:48:42Z"
+  },
+  {
+    "id": "2026-10-19_braga-gil-vicente_2-1",
+    "date": "2026-10-19",
+    "ko": "21:15",
+    "match": "Braga v Gil Vicente",
+    "comp": "Portugal, Portuguese Primeira Liga",
+    "cell": "2-1",
+    "lay": 9.6,
+    "stake": 3,
+    "created": "2026-10-19T17:48:42Z"
+  },
+  {
+    "id": "2026-10-19_tottenham-coventry_2-1",
+    "date": "2026-10-19",
+    "ko": "21:00",
+    "match": "Tottenham v Coventry",
+    "comp": "United Kingdom, English Premier League",
+    "cell": "2-1",
+    "lay": 9.8,
+    "stake": 3,
+    "created": "2026-10-19T17:48:42Z"
+  },
+  {
+    "id": "2026-10-19_tottenham-coventry_2-2",
+    "date": "2026-10-19",
+    "ko": "21:00",
+    "match": "Tottenham v Coventry",
+    "comp": "United Kingdom, English Premier League",
+    "cell": "2-2",
+    "lay": 18.5,
+    "stake": 3,
+    "created": "2026-10-19T17:48:42Z"
+  },
+  {
+    "id": "2026-10-19_tottenham-coventry_3-1",
+    "date": "2026-10-19",
+    "ko": "21:00",
+    "match": "Tottenham v Coventry",
+    "comp": "United Kingdom, English Premier League",
+    "cell": "3-1",
+    "lay": 14.5,
+    "stake": 3,
+    "created": "2026-10-19T17:48:42Z"
+  },
+  {
+    "id": "2026-10-19_getafe-rayo-vallecano_0-1",
+    "date": "2026-10-19",
+    "ko": "21:00",
+    "match": "Getafe v Rayo Vallecano",
+    "comp": "Spain, Spanish La Liga",
+    "cell": "0-1",
+    "lay": 7.4,
+    "stake": 3,
+    "created": "2026-10-19T17:48:42Z"
+  },
+  {
+    "id": "2026-10-19_getafe-rayo-vallecano_1-2",
+    "date": "2026-10-19",
+    "ko": "21:00",
+    "match": "Getafe v Rayo Vallecano",
+    "comp": "Spain, Spanish La Liga",
+    "cell": "1-2",
+    "lay": 14,
+    "stake": 3,
+    "created": "2026-10-19T17:48:42Z"
   }
 ]
