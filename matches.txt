@@ -1,2 +1,2 @@
-# Scan 19.10 15:12: run 2 (Al-Feiha / Al Ahli names failed, retrying)
-Fayha v Al Ahli | n=20 | xg=10
+# Scan 19.10 15:12: run 3 (Al Ahli ambiguous, trying id:2929 for Al-Ahli Jeddah)
+id:2944 v id:2929 | n=20 | xg=10
