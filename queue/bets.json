@@ -515,5 +515,27 @@
     "lay": 13,
     "stake": 3,
     "created": "2026-10-19T18:33:50Z"
+  },
+  {
+    "id": "2026-10-19_mushuc-runa-orense-sporting-club_3-1",
+    "date": "2026-10-19",
+    "ko": "22:30",
+    "match": "Mushuc Runa v Orense Sporting Club",
+    "comp": "Ecuador, Ecuadorian Serie A",
+    "cell": "3-1",
+    "lay": 19.5,
+    "stake": 3,
+    "created": "2026-10-19T21:14:22+02:00"
+  },
+  {
+    "id": "2026-10-19_mushuc-runa-orense-sporting-club_aohw",
+    "date": "2026-10-19",
+    "ko": "22:30",
+    "match": "Mushuc Runa v Orense Sporting Club",
+    "comp": "Ecuador, Ecuadorian Serie A",
+    "cell": "AOHW",
+    "lay": 12.5,
+    "stake": 3,
+    "created": "2026-10-19T21:14:22+02:00"
   }
 ]
