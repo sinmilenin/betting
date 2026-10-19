@@ -471,5 +471,49 @@
     "lay": 14,
     "stake": 3,
     "created": "2026-10-19T17:48:42Z"
+  },
+  {
+    "id": "2026-10-19_getafe-rayo-vallecano_0-2",
+    "date": "2026-10-19",
+    "ko": "21:00",
+    "match": "Getafe v Rayo Vallecano",
+    "comp": "Spain, Spanish La Liga",
+    "cell": "0-2",
+    "lay": 15.5,
+    "stake": 3,
+    "created": "2026-10-19T18:33:50Z"
+  },
+  {
+    "id": "2026-10-19_derry-city-st-patricks_1-2",
+    "date": "2026-10-19",
+    "ko": "21:00",
+    "match": "Derry City v St Patricks",
+    "comp": "Ireland, Irish Premier Division",
+    "cell": "1-2",
+    "lay": 10,
+    "stake": 3,
+    "created": "2026-10-19T18:33:50Z"
+  },
+  {
+    "id": "2026-10-19_fram-ia-akranes_1-2",
+    "date": "2026-10-19",
+    "ko": "21:15",
+    "match": "Fram v IA Akranes",
+    "comp": "Iceland, Icelandic Urvalsdeild",
+    "cell": "1-2",
+    "lay": 18,
+    "stake": 3,
+    "created": "2026-10-19T18:33:50Z"
+  },
+  {
+    "id": "2026-10-19_fram-ia-akranes_2-1",
+    "date": "2026-10-19",
+    "ko": "21:15",
+    "match": "Fram v IA Akranes",
+    "comp": "Iceland, Icelandic Urvalsdeild",
+    "cell": "2-1",
+    "lay": 13,
+    "stake": 3,
+    "created": "2026-10-19T18:33:50Z"
   }
 ]
