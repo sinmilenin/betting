@@ -130,5 +130,27 @@
     "lay": 9.6,
     "stake": 3,
     "created": "2026-10-19T15:16:59+02:00"
+  },
+  {
+    "id": "2026-10-19_bfc-daugavpils-fk-auda_2-2",
+    "date": "2026-10-19",
+    "ko": "17:00",
+    "match": "BFC Daugavpils v FK Auda",
+    "comp": "Latvia, Latvian Virsliga",
+    "cell": "2-2",
+    "lay": 15.5,
+    "stake": 3,
+    "created": "2026-10-19T16:46:45+02:00"
+  },
+  {
+    "id": "2026-10-19_pafos-fc-apoel_2-1",
+    "date": "2026-10-19",
+    "ko": "17:00",
+    "match": "Pafos FC v APOEL",
+    "comp": "Cyprus, Cypriot 1st Division",
+    "cell": "2-1",
+    "lay": 10,
+    "stake": 3,
+    "created": "2026-10-19T16:46:45+02:00"
   }
 ]
