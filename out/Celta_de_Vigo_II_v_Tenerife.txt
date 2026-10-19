@@ -1,7 +1,32 @@
-MATCH Celta Vigo B v Tenerife | fetched 2026-10-19 16:57 local
+MATCH Celta de Vigo II v Tenerife | fetched 2026-10-19 16:59 local
 
-FORM DATA Celta Vigo B v Tenerife | source API-Football | 2026-10-19 16:57 UTC
+FORM DATA Celta de Vigo II v Tenerife | source API-Football | 2026-10-19 16:59 UTC
 H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
+
+=== Celta de Vigo II (id 9571): last 20 finished games ===
+2026-10-10 H 4-1 v Real Sociedad II | Segunda División | Vigo | xG 2.45-2.11
+2026-10-04 A 2-3 v Sporting Gijon | Segunda División | Gijon
+2026-09-26 H 1-1 v Sabadell | Segunda División | Vigo | xG 0.51-0.38
+2026-09-20 A 0-2 v Almeria | Segunda División | Almeria | xG 0.65-2.40
+2026-09-14 H 0-4 v Eibar | Segunda División | Vigo
+2026-09-05 A 2-0 v AD Ceuta FC | Segunda División | Ceuta
+2026-08-31 H 1-2 v Castellón | Segunda División | Vigo | xG 0.92-1.97
+2026-08-24 H 4-2 v FC Andorra | Segunda División | Vigo | xG 2.53-3.72
+2026-08-15 A 0-0 v Cadiz | Segunda División | Cadiz | xG 0.63-1.61
+2026-08-01 A 1-0 v Vizela | Friendlies Clubs | ?
+2026-07-25 A 1-1 v Lugo | Friendlies Clubs | ?
+2026-06-20 H 4-1 v Ponferradina | Primera División RFEF - Play Offs | Vigo
+2026-06-13 A 0-0 v Ponferradina | Primera División RFEF - Play Offs | Ponferrada
+2026-06-07 H 2-2 v Europa Fc | Primera División RFEF - Play Offs | Vigo [AET, 90-min score shown]
+2026-05-31 A 1-1 v Europa Fc | Primera División RFEF - Play Offs | Barcelona
+2026-05-23 A 1-1 v Barakaldo | Primera División RFEF - Group 1 | Barakaldo
+2026-05-17 H 0-1 v Lugo | Primera División RFEF - Group 1 | Vigo
+2026-05-10 A 4-2 v Ourense CF | Primera División RFEF - Group 1 | Ourense
+2026-05-01 H 0-1 v Osasuna II | Primera División RFEF - Group 1 | Vigo
+2026-04-25 A 1-1 v Pontevedra | Primera División RFEF - Group 1 | Pontevedra
+Listed home: 9 games, scored 16 (1.78), conceded 15 (1.67), blanks 3, clean sheets 0
+Listed away: 11 games, scored 13 (1.18), conceded 11 (1.00), blanks 3, clean sheets 4
+All: 20 games, scored 29 (1.45), conceded 26 (1.30), blanks 6, clean sheets 4
 
 === Tenerife (id 719): last 20 finished games ===
 2026-10-12 H 1-1 v Girona | Segunda División | Santa Cruz de Tenerife | xG 0.76-1.13
@@ -28,9 +53,7 @@ Listed home: 11 games, scored 19 (1.73), conceded 9 (0.82), blanks 1, clean shee
 Listed away: 9 games, scored 15 (1.67), conceded 15 (1.67), blanks 2, clean sheets 2
 All: 20 games, scored 34 (1.70), conceded 24 (1.20), blanks 3, clean sheets 7
 
-!! Celta Vigo B: No team found for "Celta Vigo B".
-
-TABLE FOR Tenerife
+TABLE FOR Celta de Vigo II
 LEAGUE TABLE Segunda División 2026 | 22 teams | 109 games played
 League averages per game: home 1.50, away 1.16, total 2.66
 #   team                   Pts | home P GF-GA  | away P GF-GA  | all P GF-GA
@@ -57,7 +80,9 @@ League averages per game: home 1.50, away 1.16, total 2.66
 21  AD Ceuta FC              5 |  6   6-10      |  4   3-12      | 10   9-22
 22  Albacete                 1 |  4   3-8       |  6   3-14      | 10   6-22
 
-(14 API-Football requests used)
+(Tenerife: same table as Celta de Vigo II, shown above)
+
+(25 API-Football requests used)
 
 ----------------------------------------------------------------------
 MATCHBOOK: skipped (switched off for this run)
