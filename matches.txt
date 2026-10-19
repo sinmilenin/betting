@@ -1,2 +1,6 @@
-# Scan 19.10 16:42: run 5 (Rigas FS ambiguous; listing Tukums first so the Latvian country preference resolves RFS. Real fixture: Rigas Futbola Skola v FK Tukums 2000, RFS at home)
-Tukums v Rigas FS | n=20 | xg=10
+# Scan 19.10 17:26: run 1
+Suduva v Zalgiris | n=20 | xg=10
+Etar v Spartak Varna | n=20 | xg=10
+Bursaspor v Pendikspor | n=20 | xg=10
+Viborg v Midtjylland | n=20 | xg=10
+Trabzonspor v Besiktas | n=20 | xg=10
