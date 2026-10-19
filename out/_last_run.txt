@@ -1,4 +1,4 @@
-RUN 2026-10-19 14:47 local | 1 match(es)
-Rīgas FS v Tukums -> out/R_gas_FS_v_Tukums.txt
-    !! Rīgas FS: API-Football error: {"search": "The Search field may only contain alpha-numeric characters and spaces."}
-Requests used: API-Football 14, Matchbook 0
+RUN 2026-10-19 14:48 local | 1 match(es)
+Tukums v Rigas FS -> out/Tukums_v_Rigas_FS.txt
+    !! Rigas FS: Ambiguous team name "Rigas FS".
+Requests used: API-Football 15, Matchbook 0
