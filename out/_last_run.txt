@@ -1,3 +1,9 @@
-RUN 2026-10-19 13:14 local | 1 match(es)
-id:2944 v id:2929 -> out/id_2944_v_id_2929.txt
-Requests used: API-Football 26, Matchbook 0
+RUN 2026-10-19 14:42 local | 4 match(es)
+BFC Daugavpils v FK Auda -> out/BFC_Daugavpils_v_FK_Auda.txt
+    !! FK Auda: No team found for "FK Auda".
+Pafos v APOEL -> out/Pafos_v_APOEL.txt
+Rigas Futbola Skola v Tukums 2000 -> out/Rigas_Futbola_Skola_v_Tukums_2000.txt
+    !! Rigas Futbola Skola: No team found for "Rigas Futbola Skola".
+    !! Tukums 2000: No team found for "Tukums 2000".
+Monza v Cagliari -> out/Monza_v_Cagliari.txt
+Requests used: API-Football 56, Matchbook 0

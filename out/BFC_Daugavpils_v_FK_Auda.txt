@@ -1,0 +1,51 @@
+MATCH BFC Daugavpils v FK Auda | fetched 2026-10-19 14:42 local
+
+FORM DATA BFC Daugavpils v FK Auda | source API-Football | 2026-10-19 14:42 UTC
+H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
+
+=== BFC Daugavpils (id 4149): last 20 finished games ===
+2026-10-11 A 2-1 v Ogre United | Virsliga | Ogre | xG 1.55-1.78
+2026-09-19 A 0-0 v FK Liepaja | Virsliga | ?
+2026-09-13 H 1-2 v Rīgas FS | Virsliga | Daugavpils
+2026-09-07 A 1-1 v Riga | Virsliga | Riga
+2026-09-02 H 2-2 v Auda | Cup | Daugavpils [PEN, 90-min score shown]
+2026-08-29 A 0-1 v Grobiņa | Virsliga | Grobina
+2026-08-22 A 0-0 v Super Nova | Virsliga | Riga
+2026-08-14 H 3-1 v Ogre United | Cup | Daugavpils
+2026-08-08 H 2-0 v Tukums | Virsliga | Daugavpils
+2026-08-01 H 2-1 v FS Jelgava | Virsliga | Daugavpils
+2026-07-26 A 0-1 v Auda | Virsliga | Riga
+2026-07-19 A 4-0 v Ogre United | Virsliga | Ogre
+2026-07-11 A 3-3 v Riga Mariners | Cup | Riga [PEN, 90-min score shown]
+2026-07-04 H 3-1 v FK Liepaja | Virsliga | Daugavpils
+2026-06-30 A 1-3 v Rīgas FS | Virsliga | Riga
+2026-06-25 H 0-0 v Riga | Virsliga | Daugavpils
+2026-06-20 H 1-0 v Grobiņa | Virsliga | Daugavpils
+2026-06-16 H 0-0 v Super Nova | Virsliga | Daugavpils
+2026-06-12 A 1-1 v Tukums | Virsliga | Tukums
+2026-05-31 A 1-1 v FS Jelgava | Virsliga | Jelgava
+Listed home: 9 games, scored 14 (1.56), conceded 7 (0.78), blanks 2, clean sheets 4
+Listed away: 11 games, scored 13 (1.18), conceded 12 (1.09), blanks 4, clean sheets 3
+All: 20 games, scored 27 (1.35), conceded 19 (0.95), blanks 6, clean sheets 7
+
+!! FK Auda: No team found for "FK Auda".
+
+TABLE FOR BFC Daugavpils
+LEAGUE TABLE Virsliga 2026 | 10 teams | 163 games played
+League averages per game: home 1.64, away 1.26, total 2.90
+#   team                   Pts | home P GF-GA  | away P GF-GA  | all P GF-GA
+1   Rīgas FS                80 | 16  50-14      | 16  29-10      | 32  79-24
+2   Riga                    79 | 17  48-15      | 16  42-16      | 33  90-31
+3   Auda                    64 | 17  29-16      | 15  23-16      | 32  52-32
+4   FK Liepaja              46 | 16  31-17      | 17  15-29      | 33  46-46
+5   BFC Daugavpils          42 | 16  18-13      | 16  19-23      | 32  37-36
+6   Super Nova              38 | 16  17-26      | 17  15-21      | 33  32-47
+7   FS Jelgava              32 | 16  13-25      | 17  21-31      | 33  34-56
+8   Grobiņa                 29 | 16  15-21      | 17  10-35      | 33  25-56
+9   Tukums                  24 | 17  28-26      | 15  16-37      | 32  44-63
+10  Ogre United             18 | 16  18-32      | 17  15-49      | 33  33-81
+
+(14 API-Football requests used)
+
+----------------------------------------------------------------------
+MATCHBOOK: skipped (switched off for this run)
