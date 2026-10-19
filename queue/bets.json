@@ -152,5 +152,27 @@
     "lay": 10,
     "stake": 3,
     "created": "2026-10-19T16:46:45+02:00"
+  },
+  {
+    "id": "2026-10-19_fk-suduva-fk-kauno-zalgiris_1-2",
+    "date": "2026-10-19",
+    "ko": "17:45",
+    "match": "FK Suduva v FK Kauno Zalgiris",
+    "comp": "Lithuania, Lithuanian A Lyga",
+    "cell": "1-2",
+    "lay": 11,
+    "stake": 3,
+    "created": "2026-10-19T17:37:07+02:00"
+  },
+  {
+    "id": "2026-10-19_fk-suduva-fk-kauno-zalgiris_0-2",
+    "date": "2026-10-19",
+    "ko": "17:45",
+    "match": "FK Suduva v FK Kauno Zalgiris",
+    "comp": "Lithuania, Lithuanian A Lyga",
+    "cell": "0-2",
+    "lay": 12.5,
+    "stake": 3,
+    "created": "2026-10-19T17:37:07+02:00"
   }
 ]
