@@ -1,3 +1,5 @@
-RUN 2026-10-19 10:14 local | 1 match(es)
-Warriors v Kitchee -> out/Warriors_v_Kitchee.txt
-Requests used: API-Football 27, Matchbook 0
+RUN 2026-10-19 10:57 local | 1 match(es)
+Odense II v SonderjyskE II -> out/Odense_II_v_SonderjyskE_II.txt
+    !! Odense II: No team found for "Odense II".
+    !! SonderjyskE II: No team found for "SonderjyskE II".
+Requests used: API-Football 2, Matchbook 0

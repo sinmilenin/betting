@@ -1,0 +1,13 @@
+MATCH Odense II v SonderjyskE II | fetched 2026-10-19 10:57 local
+
+FORM DATA Odense II v SonderjyskE II | source API-Football | 2026-10-19 10:57 UTC
+H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
+
+!! Odense II: No team found for "Odense II".
+
+!! SonderjyskE II: No team found for "SonderjyskE II".
+
+(2 API-Football requests used)
+
+----------------------------------------------------------------------
+MATCHBOOK: skipped (switched off for this run)
