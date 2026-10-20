@@ -1,6 +1,5 @@
-RUN 2026-10-20 17:44 local | 2 match(es)
-Al-Ettifaq v Al-Ittihad FC -> out/Al_Ettifaq_v_Al_Ittihad_FC.txt
-    !! Al-Ettifaq: API-Football error: {"search": "The Search field may only contain alpha-numeric characters and spaces."}
-    !! Al-Ittihad FC: API-Football error: {"search": "The Search field may only contain alpha-numeric characters and spaces."}
-Ipswich Town U21 v Anderlecht -> out/Ipswich_Town_U21_v_Anderlecht.txt
-Requests used: API-Football 32, Matchbook 0
+RUN 2026-10-20 18:28 local | 3 match(es)
+Dunfermline v Partick -> out/Dunfermline_v_Partick.txt
+Walsall v Oldham -> out/Walsall_v_Oldham.txt
+Northampton v Tranmere -> out/Northampton_v_Tranmere.txt
+Requests used: API-Football 74, Matchbook 0

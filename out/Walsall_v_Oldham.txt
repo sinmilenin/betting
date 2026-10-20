@@ -1,0 +1,90 @@
+MATCH Walsall v Oldham | fetched 2026-10-20 18:28 local
+
+FORM DATA Walsall v Oldham | source API-Football | 2026-10-20 18:28 UTC
+H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
+
+=== Walsall (id 1342): last 20 finished games ===
+2026-10-17 A 1-1 v Swindon Town | League Two | Swindon | xG 1.95-2.12
+2026-10-13 H 3-2 v Fulham U21 | EFL Trophy | Walsall
+2026-10-10 A 1-1 v Fleetwood Town | League Two | Fleetwood | xG 1.25-3.17
+2026-09-26 A 1-1 v Tranmere | League Two | Wirral
+2026-09-22 H 1-6 v Stevenage | EFL Trophy | Walsall
+2026-09-19 H 2-0 v Port Vale | League Two | Walsall | xG 1.95-0.94
+2026-09-12 H 0-0 v Rochdale | League Two | Walsall | xG 3.03-0.62
+2026-09-05 A 0-0 v Exeter City | League Two | Exeter | xG 0.74-1.94
+2026-09-01 A 2-2 v Crewe | League Two | Crewe | xG 2.13-2.33
+2026-08-29 H 3-2 v Accrington ST | League Two | Walsall | xG 3.23-2.69
+2026-08-25 H 0-0 v Leyton Orient | League Cup | Walsall [PEN, 90-min score shown]
+2026-08-22 H 0-0 v Grimsby | League Two | Walsall
+2026-08-15 A 3-0 v Gillingham | League Two | Gillingham
+2026-08-06 A 1-0 v Bristol City | League Cup | Bristol
+2026-08-01 H 0-0 v Notts County | Friendlies Clubs | ?
+2026-07-25 A 0-1 v AFC Telford United | Friendlies Clubs | ?
+2026-07-21 H 0-5 v Aston Villa | Friendlies Clubs | ?
+2026-07-11 A 0-0 v Leamington | Friendlies Clubs | ?
+2026-05-02 A 1-3 v Bromley | League Two | London
+2026-04-25 H 0-2 v Harrogate Town | League Two | Walsall
+Listed home: 10 games, scored 9 (0.90), conceded 17 (1.70), blanks 6, clean sheets 5
+Listed away: 10 games, scored 10 (1.00), conceded 9 (0.90), blanks 3, clean sheets 4
+All: 20 games, scored 19 (0.95), conceded 26 (1.30), blanks 9, clean sheets 9
+
+=== Oldham (id 1349): last 20 finished games ===
+2026-10-17 H 4-1 v Cheltenham | League Two | Oldham | xG 2.16-1.83
+2026-10-13 H 4-2 v Leeds United U21 | EFL Trophy | Oldham | xG 2.72-1.75
+2026-10-10 H 0-0 v Accrington ST | League Two | Oldham | xG 0.40-1.12
+2026-09-26 H 1-4 v Salford City | League Two | Oldham
+2026-09-22 H 1-0 v Fleetwood Town | EFL Trophy | Oldham
+2026-09-19 A 0-2 v Rochdale | League Two | Rochdale | xG 3.18-0.82
+2026-09-12 H 1-2 v Chesterfield | League Two | Oldham | xG 1.58-3.02
+2026-09-05 A 0-2 v Tranmere | League Two | Wirral | xG 3.48-1.83
+2026-09-01 A 1-1 v Fleetwood Town | League Two | Fleetwood | xG 0.83-1.94
+2026-08-29 H 3-0 v Swindon Town | League Two | Oldham | xG 2.90-0.22
+2026-08-22 A 1-2 v Colchester | League Two | Colchester
+2026-08-15 H 2-0 v Port Vale | League Two | Oldham
+2026-08-08 A 0-2 v Stoke City | League Cup | Stoke on Trent
+2026-08-01 H 4-0 v Sheffield Wednesday | Friendlies Clubs | ?
+2026-07-28 H 0-1 v Stockport County | Friendlies Clubs | ?
+2026-07-24 A 1-3 v Huddersfield | Friendlies Clubs | ?
+2026-07-21 H 1-3 v Bolton | Friendlies Clubs | ?
+2026-05-02 H 3-0 v Accrington ST | League Two | Oldham
+2026-04-25 A 2-3 v Newport County | League Two | Newport
+2026-04-18 H 1-2 v Salford City | League Two | Oldham
+Listed home: 13 games, scored 25 (1.92), conceded 15 (1.15), blanks 2, clean sheets 6
+Listed away: 7 games, scored 5 (0.71), conceded 15 (2.14), blanks 3, clean sheets 0
+All: 20 games, scored 30 (1.50), conceded 30 (1.50), blanks 5, clean sheets 6
+
+TABLE FOR Walsall
+LEAGUE TABLE League Two 2026 | 24 teams | 126 games played
+League averages per game: home 1.50, away 0.98, total 2.48
+#   team                   Pts | home P GF-GA  | away P GF-GA  | all P GF-GA
+1   Salford City            22 |  6   7-3       |  5  10-8       | 11  17-11
+2   Barnet                  21 |  4  10-5       |  5  12-7       |  9  22-12
+3   Crewe                   21 |  6  11-7       |  5   4-2       | 11  15-9
+4   York                    16 |  5  13-4       |  5   5-8       | 10  18-12
+5   Walsall                 16 |  4   5-2       |  6   8-5       | 10  13-7
+6   Gillingham              16 |  5   6-4       |  6  10-9       | 11  16-13
+7   Chesterfield            15 |  5  10-7       |  6   7-8       | 11  17-15
+8   Cheltenham              15 |  5   9-8       |  6   8-12      | 11  17-20
+9   Bristol Rovers          15 |  5  10-6       |  6   5-12      | 11  15-18
+10  Accrington ST           14 |  6  12-7       |  5   4-8       | 11  16-15
+11  Newport County          14 |  6  10-5       |  5   4-8       | 11  14-13
+12  Fleetwood Town          14 |  6   7-4       |  5   5-7       | 11  12-11
+13  Rochdale                14 |  5   8-6       |  6   5-9       | 11  13-15
+14  Shrewsbury              14 |  6   7-6       |  5   3-9       | 11  10-15
+15  Grimsby                 13 |  6   8-6       |  5   5-7       | 11  13-13
+16  Exeter City             13 |  5   4-1       |  6   2-5       | 11   6-6
+17  Tranmere                12 |  6   9-6       |  5   5-9       | 11  14-15
+18  Swindon Town            12 |  6  10-6       |  5   0-9       | 11  10-15
+19  Oldham                  11 |  6  11-7       |  4   2-7       | 10  13-14
+20  Colchester              11 |  5   5-3       |  5   5-10      | 10  10-13
+21  Port Vale               11 |  5   4-1       |  4   1-8       |  9   5-9
+22  Northampton             10 |  4   2-2       |  5   4-5       |  9   6-7
+23  Rotherham               10 |  5   8-10      |  6   4-8       | 11  12-18
+24  Crawley Town             5 |  4   3-8       |  5   6-9       |  9   9-17
+
+(Oldham: same table as Walsall, shown above)
+
+(25 API-Football requests used)
+
+----------------------------------------------------------------------
+MATCHBOOK: skipped (switched off for this run)
