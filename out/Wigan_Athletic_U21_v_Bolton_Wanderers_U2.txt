@@ -1,6 +1,6 @@
-MATCH Wigan Athletic U21 v Bolton U21 | fetched 2026-10-20 11:42 local
+MATCH Wigan Athletic U21 v Bolton Wanderers U21 | fetched 2026-10-20 11:43 local
 
-FORM DATA Wigan Athletic U21 v Bolton U21 | source API-Football | 2026-10-20 11:42 UTC
+FORM DATA Wigan Athletic U21 v Bolton Wanderers U21 | source API-Football | 2026-10-20 11:43 UTC
 H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
 
 === Wigan Athletic U21 (id 20097): last 20 finished games ===
@@ -28,7 +28,7 @@ Listed home: 11 games, scored 32 (2.91), conceded 24 (2.18), blanks 1, clean she
 Listed away: 9 games, scored 17 (1.89), conceded 24 (2.67), blanks 1, clean sheets 0
 All: 20 games, scored 49 (2.45), conceded 48 (2.40), blanks 2, clean sheets 1
 
-!! Bolton U21: No team found for "Bolton U21".
+!! Bolton Wanderers U21: No team found for "Bolton Wanderers U21".
 
 TABLE FOR Wigan Athletic U21
 LEAGUE TABLE Professional Development League 2026 | 17 teams | 56 games played
@@ -52,7 +52,7 @@ League averages per game: home 2.09, away 1.77, total 3.86
 16  Hull City U21            5 |  3   3-6       |  3   6-7       |  6   9-13
 17  Millwall U21             0 |  2   2-7       |  2   0-2       |  4   2-9
 
-(13 API-Football requests used)
+(14 API-Football requests used)
 
 ----------------------------------------------------------------------
 MATCHBOOK: skipped (switched off for this run)

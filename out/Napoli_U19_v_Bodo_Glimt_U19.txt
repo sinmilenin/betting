@@ -1,6 +1,6 @@
-MATCH Napoli U19 v Bodo/Glimt U19 | fetched 2026-10-20 11:42 local
+MATCH Napoli U19 v Bodo Glimt U19 | fetched 2026-10-20 11:43 local
 
-FORM DATA Napoli U19 v Bodo/Glimt U19 | source API-Football | 2026-10-20 11:42 UTC
+FORM DATA Napoli U19 v Bodo Glimt U19 | source API-Football | 2026-10-20 11:43 UTC
 H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
 
 === Napoli U19 (id 7917): last 20 finished games ===
@@ -28,7 +28,7 @@ Listed home: 10 games, scored 13 (1.30), conceded 8 (0.80), blanks 1, clean shee
 Listed away: 10 games, scored 12 (1.20), conceded 19 (1.90), blanks 4, clean sheets 2
 All: 20 games, scored 25 (1.25), conceded 27 (1.35), blanks 5, clean sheets 7
 
-!! Bodo/Glimt U19: API-Football error: {"search": "The Search field may only contain alpha-numeric characters and spaces."}
+!! Bodo Glimt U19: No team found for "Bodo Glimt U19".
 
 TABLE FOR Napoli U19
 LEAGUE TABLE Campionato Primavera - 2 2026 | 32 teams | 80 games played
