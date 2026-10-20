@@ -1,4 +1,4 @@
-# Scan 2026-10-20 15:16 (Ljubljana)
-Asyut Petroleum v Zamalek | n=20 | xg=10
-ZED FC v Modern Sport | n=20 | xg=10
-Al-Taawoun v Al-Qadsiah | n=20 | xg=10
+# Scan 2026-10-20 15:16 (Ljubljana), retry names
+Asyut Petrol v Zamalek | n=20 | xg=10
+ZED v Future FC | n=20 | xg=10
+Al Taawoun v Al Qadisiyah | n=20 | xg=10
