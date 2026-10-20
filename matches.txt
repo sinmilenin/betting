@@ -1,3 +1,2 @@
-# Scan 2026-10-20 18:12 (Ljubljana)
-Southampton U21 v Juventus U21 | n=20 | xg=10
-Al Nassr v NEOM | n=20 | xg=10
+# Scan 2026-10-20 18:12 (Ljubljana) retry: Al Nassr men's id
+id:2939 v NEOM | n=20 | xg=10
