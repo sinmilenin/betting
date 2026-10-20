@@ -1,0 +1,109 @@
+MATCH Liverpool v Villarreal | fetched 2026-10-20 06:22 local
+
+FORM DATA Liverpool v Villarreal | source API-Football | 2026-10-20 06:22 UTC
+H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
+
+=== Liverpool (id 40): last 20 finished games ===
+2026-10-17 A 2-1 v Brentford | Premier League | London | xG 1.64-0.88
+2026-10-14 A 6-3 v Lask Linz | UEFA Champions League | Linz | xG 3.26-2.08
+2026-10-11 H 0-3 v Manchester City | Premier League | Liverpool | xG 0.94-1.28
+2026-09-20 A 1-0 v Bournemouth | Premier League | Bournemouth | xG 1.65-0.79
+2026-09-15 H 3-1 v Tottenham | League Cup | Liverpool
+2026-09-12 H 0-0 v Fulham | Premier League | Liverpool | xG 1.28-0.70
+2026-09-09 H 2-1 v Atletico Madrid | UEFA Champions League | Liverpool | xG 1.62-0.91
+2026-09-04 A 2-0 v Ipswich | Premier League | Ipswich | xG 0.69-0.75
+2026-08-29 H 2-2 v Nottingham Forest | Premier League | Liverpool | xG 1.75-2.30
+2026-08-23 A 2-2 v Newcastle | Premier League | Newcastle | xG 2.98-1.58
+2026-08-16 H 0-0 v Como | Friendlies Clubs | ?
+2026-08-09 H 2-3 v Monaco | Friendlies Clubs | Liverpool
+2026-08-02 H 2-4 v Leeds | Premier League - Summer Series | ?
+2026-07-29 H 1-0 v Wrexham | Premier League - Summer Series | ?
+2026-07-25 H 4-2 v Sunderland | Premier League - Summer Series | Nashville
+2026-05-24 H 1-1 v Brentford | Premier League | Liverpool
+2026-05-15 A 2-4 v Aston Villa | Premier League | Birmingham
+2026-05-09 H 1-1 v Chelsea | Premier League | Liverpool
+2026-05-03 A 2-3 v Manchester United | Premier League | Manchester
+2026-04-25 H 3-1 v Crystal Palace | Premier League | Liverpool
+Listed home: 13 games, scored 21 (1.62), conceded 19 (1.46), blanks 3, clean sheets 3
+Listed away: 7 games, scored 17 (2.43), conceded 13 (1.86), blanks 0, clean sheets 2
+All: 20 games, scored 38 (1.90), conceded 32 (1.60), blanks 3, clean sheets 5
+
+=== Villarreal (id 533): last 20 finished games ===
+2026-10-17 H 0-0 v Elche | La Liga | Villarreal | xG 2.38-0.30
+2026-10-13 H 3-1 v Napoli | UEFA Champions League | Villarreal | xG 1.24-1.70
+2026-10-10 A 0-1 v Real Madrid | La Liga | Madrid | xG 0.59-1.43
+2026-09-20 H 3-1 v Levante | La Liga | Villarreal | xG 4.27-0.45
+2026-09-17 A 3-1 v Malaga | La Liga | Malaga | xG 3.33-0.63
+2026-09-14 H 1-2 v Real Betis | La Liga | Villarreal | xG 1.89-3.52
+2026-09-08 A 2-3 v Borussia Dortmund | UEFA Champions League | Dortmund | xG 1.34-2.83
+2026-09-05 H 2-3 v Deportivo La Coruna | La Liga | Villarreal | xG 1.14-0.79
+2026-08-28 A 0-1 v Alaves | La Liga | Vitoria-Gasteiz | xG 1.40-0.81
+2026-08-23 A 2-2 v Atletico Madrid | La Liga | Madrid | xG 3.60-0.78
+2026-08-16 A 2-2 v Racing Santander | La Liga | Santander
+2026-08-08 A 2-1 v Galatasaray | Friendlies Clubs | Istanbul
+2026-08-05 H 1-0 v Levante | Friendlies Clubs | ?
+2026-08-01 A 1-3 v Lens | Como Cup | Como
+2026-07-29 H 1-1 v Como | Como Cup | Como [PEN, 90-min score shown]
+2026-07-29 A 3-0 v Al Ula | Como Cup | Como
+2026-07-25 A 3-1 v PSV Eindhoven | Friendlies Clubs | Eindhoven
+2026-07-17 A 0-2 v Benfica | Friendlies Clubs | ?
+2026-05-24 H 5-1 v Atletico Madrid | La Liga | Villarreal
+2026-05-17 A 0-2 v Rayo Vallecano | La Liga | Madrid
+Listed home: 8 games, scored 16 (2.00), conceded 9 (1.12), blanks 1, clean sheets 2
+Listed away: 12 games, scored 18 (1.50), conceded 19 (1.58), blanks 4, clean sheets 1
+All: 20 games, scored 34 (1.70), conceded 28 (1.40), blanks 5, clean sheets 3
+
+TABLE FOR Liverpool
+LEAGUE TABLE Premier League 2026 | 20 teams | 70 games played
+League averages per game: home 1.61, away 1.29, total 2.90
+#   team                   Pts | home P GF-GA  | away P GF-GA  | all P GF-GA
+1   Manchester City         21 |  4  11-6       |  3   8-1       |  7  19-7
+2   Arsenal                 18 |  3   7-2       |  4   4-3       |  7  11-5
+3   Brighton                16 |  4  13-1       |  3  10-4       |  7  23-5
+4   Chelsea                 13 |  3  11-6       |  4   6-7       |  7  17-13
+5   Liverpool               12 |  3   2-5       |  4   7-3       |  7   9-8
+6   Brentford               10 |  4   8-3       |  3   5-5       |  7  13-8
+7   Leeds                   10 |  4   6-3       |  3   3-3       |  7   9-6
+8   Everton                 10 |  4   5-4       |  3   3-3       |  7   8-7
+9   Hull City                9 |  3   4-2       |  4   4-5       |  7   8-7
+10  Ipswich                  9 |  3   4-4       |  4   7-11      |  7  11-15
+11  Newcastle                8 |  4   6-6       |  3   4-8       |  7  10-14
+12  Aston Villa              8 |  3   3-5       |  4   4-6       |  7   7-11
+13  Manchester United        7 |  3   6-4       |  4   4-6       |  7  10-10
+14  Crystal Palace           7 |  3   6-8       |  4   3-9       |  7   9-17
+15  Bournemouth              6 |  4   5-4       |  3   4-9       |  7   9-13
+16  Tottenham                6 |  4   5-6       |  3   1-4       |  7   6-10
+17  Coventry                 6 |  3   4-7       |  4   2-7       |  7   6-14
+18  Fulham                   5 |  4   6-7       |  3   1-3       |  7   7-10
+19  Nottingham Forest        5 |  4   0-3       |  3   5-6       |  7   5-9
+20  Sunderland               4 |  3   1-4       |  4   5-10      |  7   6-14
+
+TABLE FOR Villarreal
+LEAGUE TABLE La Liga 2026 | 20 teams | 88 games played
+League averages per game: home 1.72, away 1.35, total 3.07
+#   team                   Pts | home P GF-GA  | away P GF-GA  | all P GF-GA
+1   Barcelona               27 |  4  17-4       |  5  22-5       |  9  39-9
+2   Atletico Madrid         22 |  4  10-3       |  5   9-5       |  9  19-8
+3   Real Madrid             21 |  5  17-3       |  4   6-6       |  9  23-9
+4   Real Betis              19 |  5  10-7       |  4   6-7       |  9  16-14
+5   Real Sociedad           16 |  4   5-6       |  5  12-11      |  9  17-17
+6   Sevilla                 14 |  4   5-7       |  5   9-9       |  9  14-16
+7   Alaves                  11 |  5  10-5       |  4   3-5       |  9  13-10
+8   Celta Vigo              11 |  5   9-6       |  4   1-1       |  9  10-7
+9   Deportivo La Coruna     11 |  5   6-5       |  4   7-7       |  9  13-12
+10  Osasuna                 11 |  5   4-3       |  4   6-15      |  9  10-18
+11  Athletic Club            9 |  4   5-4       |  3   2-2       |  7   7-6
+12  Villarreal               9 |  4   6-6       |  5   7-7       |  9  13-13
+13  Rayo Vallecano           9 |  3   6-4       |  5   6-13      |  8  12-17
+14  Getafe                   9 |  5   5-3       |  4   0-8       |  9   5-11
+15  Espanyol                 8 |  5   6-7       |  4   5-5       |  9  11-12
+16  Racing Santander         8 |  4   9-7       |  5   4-18      |  9  13-25
+17  Levante                  7 |  3  10-9       |  5   2-7       |  8  12-16
+18  Elche                    7 |  4   4-11      |  5   7-6       |  9  11-17
+19  Valencia                 6 |  5   2-9       |  4   4-6       |  9   6-15
+20  Malaga                   4 |  5   5-10      |  4   1-8       |  9   6-18
+
+(25 API-Football requests used)
+
+----------------------------------------------------------------------
+MATCHBOOK: skipped (switched off for this run)

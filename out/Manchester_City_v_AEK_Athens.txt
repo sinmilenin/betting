@@ -1,0 +1,72 @@
+MATCH Manchester City v AEK Athens | fetched 2026-10-20 06:22 local
+
+FORM DATA Manchester City v AEK Athens | source API-Football | 2026-10-20 06:22 UTC
+H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
+
+=== Manchester City (id 50): last 20 finished games ===
+2026-10-17 H 3-2 v Ipswich | Premier League | Manchester | xG 3.53-1.66
+2026-10-14 H 2-4 v Paris Saint Germain | UEFA Champions League | Manchester | xG 2.67-1.85
+2026-10-11 A 3-0 v Liverpool | Premier League | Liverpool | xG 1.28-0.94
+2026-09-20 H 5-3 v Sunderland | Premier League | Manchester | xG 2.82-3.57
+2026-09-17 H 5-0 v Norwich | League Cup | Manchester
+2026-09-13 A 1-0 v Manchester United | Premier League | Manchester | xG 1.10-1.00
+2026-09-08 A 2-0 v FC Porto | UEFA Champions League | Porto | xG 2.32-0.28
+2026-09-05 H 1-0 v Coventry | Premier League | Manchester | xG 2.12-1.37
+2026-08-28 A 4-1 v Crystal Palace | Premier League | London | xG 2.21-0.66
+2026-08-23 H 2-1 v Bournemouth | Premier League | Manchester | xG 2.25-0.65
+2026-08-16 A 0-3 v Arsenal | Community Shield | Cardiff
+2026-08-09 H 3-1 v Atletico Madrid | Friendlies Clubs | Seoul
+2026-08-05 A 3-1 v K-League Stars | Friendlies Clubs | Seoul
+2026-08-01 H 1-1 v Inter | Friendlies Clubs | Hongkong [PEN, 90-min score shown]
+2026-05-24 H 1-2 v Aston Villa | Premier League | Manchester
+2026-05-19 A 1-1 v Bournemouth | Premier League | Bournemouth
+2026-05-16 A 1-0 v Chelsea | FA Cup | London
+2026-05-13 H 3-0 v Crystal Palace | Premier League | Manchester
+2026-05-09 H 3-0 v Brentford | Premier League | Manchester
+2026-05-04 A 3-3 v Everton | Premier League | Liverpool
+Listed home: 11 games, scored 29 (2.64), conceded 14 (1.27), blanks 0, clean sheets 4
+Listed away: 9 games, scored 18 (2.00), conceded 9 (1.00), blanks 1, clean sheets 4
+All: 20 games, scored 47 (2.35), conceded 23 (1.15), blanks 1, clean sheets 8
+
+"AEK Athens" matches several teams. Use id:<number> instead of the name:
+  id:575    AEK Athens FC (Greece)
+  id:7944   AEK Athens U19 (Greece)
+  id:18016  AEK Athens II (Greece)
+  id:26158  AEK Athens W (Greece)
+(retrying AEK Athens using the opponent's country, England)
+"AEK Athens" matches several teams. Use id:<number> instead of the name:
+  id:575    AEK Athens FC (Greece)
+  id:7944   AEK Athens U19 (Greece)
+  id:18016  AEK Athens II (Greece)
+  id:26158  AEK Athens W (Greece)
+!! AEK Athens: Ambiguous team name "AEK Athens".
+
+TABLE FOR Manchester City
+LEAGUE TABLE Premier League 2026 | 20 teams | 70 games played
+League averages per game: home 1.61, away 1.29, total 2.90
+#   team                   Pts | home P GF-GA  | away P GF-GA  | all P GF-GA
+1   Manchester City         21 |  4  11-6       |  3   8-1       |  7  19-7
+2   Arsenal                 18 |  3   7-2       |  4   4-3       |  7  11-5
+3   Brighton                16 |  4  13-1       |  3  10-4       |  7  23-5
+4   Chelsea                 13 |  3  11-6       |  4   6-7       |  7  17-13
+5   Liverpool               12 |  3   2-5       |  4   7-3       |  7   9-8
+6   Brentford               10 |  4   8-3       |  3   5-5       |  7  13-8
+7   Leeds                   10 |  4   6-3       |  3   3-3       |  7   9-6
+8   Everton                 10 |  4   5-4       |  3   3-3       |  7   8-7
+9   Hull City                9 |  3   4-2       |  4   4-5       |  7   8-7
+10  Ipswich                  9 |  3   4-4       |  4   7-11      |  7  11-15
+11  Newcastle                8 |  4   6-6       |  3   4-8       |  7  10-14
+12  Aston Villa              8 |  3   3-5       |  4   4-6       |  7   7-11
+13  Manchester United        7 |  3   6-4       |  4   4-6       |  7  10-10
+14  Crystal Palace           7 |  3   6-8       |  4   3-9       |  7   9-17
+15  Bournemouth              6 |  4   5-4       |  3   4-9       |  7   9-13
+16  Tottenham                6 |  4   5-6       |  3   1-4       |  7   6-10
+17  Coventry                 6 |  3   4-7       |  4   2-7       |  7   6-14
+18  Fulham                   5 |  4   6-7       |  3   1-3       |  7   7-10
+19  Nottingham Forest        5 |  4   0-3       |  3   5-6       |  7   5-9
+20  Sunderland               4 |  3   1-4       |  4   5-10      |  7   6-14
+
+(15 API-Football requests used)
+
+----------------------------------------------------------------------
+MATCHBOOK: skipped (switched off for this run)
