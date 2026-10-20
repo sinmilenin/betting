@@ -1,10 +1,7 @@
-RUN 2026-10-20 13:17 local | 3 match(es)
-Asyut Petroleum v Zamalek -> out/Asyut_Petroleum_v_Zamalek.txt
-    !! Asyut Petroleum: No team found for "Asyut Petroleum".
-ZED FC v Modern Sport -> out/ZED_FC_v_Modern_Sport.txt
-    !! ZED FC: No team found for "ZED FC".
-    !! Modern Sport: No team found for "Modern Sport".
-Al-Taawoun v Al-Qadsiah -> out/Al_Taawoun_v_Al_Qadsiah.txt
-    !! Al-Taawoun: API-Football error: {"search": "The Search field may only contain alpha-numeric characters and spaces."}
-    !! Al-Qadsiah: API-Football error: {"search": "The Search field may only contain alpha-numeric characters and spaces."}
-Requests used: API-Football 19, Matchbook 0
+RUN 2026-10-20 13:18 local | 3 match(es)
+Asyut Petrol v Zamalek -> out/Asyut_Petrol_v_Zamalek.txt
+ZED v Future FC -> out/ZED_v_Future_FC.txt
+    !! ZED: Ambiguous team name "ZED".
+Al Taawoun v Al Qadisiyah -> out/Al_Taawoun_v_Al_Qadisiyah.txt
+    !! Al Taawoun: No team found for "Al Taawoun".
+Requests used: API-Football 54, Matchbook 0
