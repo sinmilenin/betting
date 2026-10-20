@@ -1,11 +1,6 @@
-# Top-10 liquidity run 20.10 08:25
-Manchester City v AEK Athens | n=20 | xg=10
-Liverpool v Villarreal | n=20 | xg=10
-Paris Saint Germain v Barcelona | n=20 | xg=10
-FC Porto v PSV Eindhoven | n=20 | xg=10
-Sabah v Borussia Dortmund | n=20 | xg=10
-VfB Stuttgart v Atletico Madrid | n=20 | xg=10
-AS Roma v Slovan Bratislava | n=20 | xg=10
-Napoli v Bodo/Glimt | n=20 | xg=10
-Fenerbahce v Slavia Praha | n=20 | xg=10
-Sabah U19 v Borussia Dortmund U19 | n=20 | xg=10
+# Top-10 liquidity run 20.10 08:28 run 2 (id fixes)
+Manchester City v id:575 | n=20 | xg=10
+id:212 v PSV Eindhoven | n=20 | xg=10
+id:13976 v Borussia Dortmund | n=20 | xg=10
+Napoli v Bodo Glimt | n=20 | xg=10
+id:611 v Slavia Praha | n=20 | xg=10
