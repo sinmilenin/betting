@@ -1,7 +1,4 @@
-# Scan 2026-10-20 18:56 (Ljubljana) run 2: rate-limited and unresolved teams
-Regar TadAZ v Al Qadsia | n=20 | xg=10
-Blackpool v Milton Keynes Dons | n=20 | xg=10
-York City v Accrington | n=20 | xg=10
-Wolves v Portsmouth | n=20 | xg=10
-AFC Wimbledon v Mansfield | n=20 | xg=10
-Huddersfield v Peterborough | n=20 | xg=10
+# Scan 2026-10-20 18:56 (Ljubljana) run 3: ids for ambiguous names
+York v id:1360 | n=20 | xg=10
+AFC Wimbledon v id:1374 | n=20 | xg=10
+Regar v Al Qadsia | n=20 | xg=10
