@@ -1,8 +1,3 @@
-RUN 2026-10-20 06:23 local | 5 match(es)
-Manchester City v id:575 -> out/Manchester_City_v_id_575.txt
-id:212 v PSV Eindhoven -> out/id_212_v_PSV_Eindhoven.txt
-id:13976 v Borussia Dortmund -> out/id_13976_v_Borussia_Dortmund.txt
-Napoli v Bodo Glimt -> out/Napoli_v_Bodo_Glimt.txt
-    !! Bodo Glimt: No team found for "Bodo Glimt".
-id:611 v Slavia Praha -> out/id_611_v_Slavia_Praha.txt
-Requests used: API-Football 117, Matchbook 0
+RUN 2026-10-20 06:24 local | 1 match(es)
+Napoli v Bodo -> out/Napoli_v_Bodo.txt
+Requests used: API-Football 26, Matchbook 0
