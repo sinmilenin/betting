@@ -1,2 +1,2 @@
-# Scan 2026-10-20 15:16 (Ljubljana), retry Al Taawon by id
-id:2936 v Al Qadisiya | n=20 | xg=10
+# Scan 2026-10-20 15:16 (Ljubljana), retry Al Qadisiyah (KSA men)
+id:2936 v Qadisiyah | n=20 | xg=10
