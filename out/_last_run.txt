@@ -1,4 +1,3 @@
-RUN 2026-10-20 16:13 local | 2 match(es)
-Southampton U21 v Juventus U21 -> out/Southampton_U21_v_Juventus_U21.txt
-Al Nassr v NEOM -> out/Al_Nassr_v_NEOM.txt
-Requests used: API-Football 50, Matchbook 0
+RUN 2026-10-20 16:14 local | 1 match(es)
+id:2939 v NEOM -> out/id_2939_v_NEOM.txt
+Requests used: API-Football 26, Matchbook 0
