@@ -1,3 +1,3 @@
-RUN 2026-10-20 13:20 local | 1 match(es)
-id:2936 v Qadisiyah -> out/id_2936_v_Qadisiyah.txt
-Requests used: API-Football 26, Matchbook 0
+RUN 2026-10-20 13:57 local | 1 match(es)
+ASA Targu Mures v Chindia Targoviste -> out/ASA_Targu_Mures_v_Chindia_Targoviste.txt
+Requests used: API-Football 25, Matchbook 0
