@@ -1,12 +1,6 @@
-RUN 2026-10-20 17:00 local | 6 match(es)
-Regar TadAZ v Al Qadsia -> out/Regar_TadAZ_v_Al_Qadsia.txt
-    !! Regar TadAZ: No team found for "Regar TadAZ".
-Blackpool v Milton Keynes Dons -> out/Blackpool_v_Milton_Keynes_Dons.txt
-York City v Accrington -> out/York_City_v_Accrington.txt
-    !! York City: Ambiguous team name "York City".
-    !! Accrington: Ambiguous team name "Accrington".
-Wolves v Portsmouth -> out/Wolves_v_Portsmouth.txt
-AFC Wimbledon v Mansfield -> out/AFC_Wimbledon_v_Mansfield.txt
-    !! Mansfield: Ambiguous team name "Mansfield".
-Huddersfield v Peterborough -> out/Huddersfield_v_Peterborough.txt
-Requests used: API-Football 106, Matchbook 0
+RUN 2026-10-20 17:02 local | 3 match(es)
+York v id:1360 -> out/York_v_id_1360.txt
+AFC Wimbledon v id:1374 -> out/AFC_Wimbledon_v_id_1374.txt
+Regar v Al Qadsia -> out/Regar_v_Al_Qadsia.txt
+    !! Regar: Ambiguous team name "Regar".
+Requests used: API-Football 66, Matchbook 0

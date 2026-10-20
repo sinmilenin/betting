@@ -1,8 +1,12 @@
-MATCH Regar TadAZ v Al Qadsia | fetched 2026-10-20 17:00 local
+MATCH Regar v Al Qadsia | fetched 2026-10-20 17:02 local
 
-FORM DATA Regar TadAZ v Al Qadsia | source API-Football | 2026-10-20 17:00 UTC
+FORM DATA Regar v Al Qadsia | source API-Football | 2026-10-20 17:02 UTC
 H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
 
+"Regar" matches several teams. Use id:<number> instead of the name:
+  id:8299   Pregarten (Austria)
+  id:12268  Regar-TadAZ (Tajikistan)
+  id:22291  Tregaron Turfs (Wales)
 === Al Qadsia (id 3537): last 20 finished games ===
 2026-10-17 H 3-0 v Fortis | AFC Challenge League | Kuwait
 2026-10-10 A 2-0 v Al Tadhamon | Premier League | ?
@@ -28,7 +32,12 @@ Listed home: 11 games, scored 19 (1.73), conceded 8 (0.73), blanks 2, clean shee
 Listed away: 9 games, scored 10 (1.11), conceded 9 (1.00), blanks 3, clean sheets 5
 All: 20 games, scored 29 (1.45), conceded 17 (0.85), blanks 5, clean sheets 11
 
-!! Regar TadAZ: No team found for "Regar TadAZ".
+(retrying Regar using the opponent's country, Kuwait)
+"Regar" matches several teams. Use id:<number> instead of the name:
+  id:8299   Pregarten (Austria)
+  id:12268  Regar-TadAZ (Tajikistan)
+  id:22291  Tregaron Turfs (Wales)
+!! Regar: Ambiguous team name "Regar".
 
 TABLE FOR Al Qadsia
 LEAGUE TABLE Premier League 2026 | 12 teams | 28 games played
@@ -47,7 +56,7 @@ League averages per game: home 1.54, away 1.57, total 3.11
 11  Al Sulaibikhat           3 |  2   2-2       |  3   3-11      |  5   5-13
 12  Al Tadhamon              0 |  3   1-7       |  2   2-6       |  5   3-13
 
-(15 API-Football requests used)
+(16 API-Football requests used)
 
 ----------------------------------------------------------------------
 MATCHBOOK: skipped (switched off for this run)
