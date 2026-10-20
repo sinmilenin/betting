@@ -1,2 +1,23 @@
-# Scan 2026-10-20 18:12 (Ljubljana) retry: Al Nassr men's id
-id:2939 v NEOM | n=20 | xg=10
+# Scan 2026-10-20 18:56 (Ljubljana): kick-offs 19:30-20:45
+Regar-TadAZ v Al Qadsia | n=20 | xg=10
+Burton Albion v Bradford | n=20 | xg=10
+Rotherham v Newport County | n=20 | xg=10
+Doncaster v Stockport County | n=20 | xg=10
+Barnet v Swindon Town | n=20 | xg=10
+Blackpool v MK Dons | n=20 | xg=10
+Bromley v Leicester | n=20 | xg=10
+Luton v Barnsley | n=20 | xg=10
+Oxford United v Wigan | n=20 | xg=10
+Stevenage v Plymouth | n=20 | xg=10
+Notts County v Sheffield Wednesday | n=20 | xg=10
+Cambridge United v Wycombe | n=20 | xg=10
+Bristol Rovers v Salford City | n=20 | xg=10
+Cheltenham v Fleetwood Town | n=20 | xg=10
+Chesterfield v Colchester | n=20 | xg=10
+Exeter City v Crewe | n=20 | xg=10
+Crawley Town v Shrewsbury | n=20 | xg=10
+Rochdale v Grimsby | n=20 | xg=10
+York City v Accrington | n=20 | xg=10
+Wolves v Portsmouth | n=20 | xg=10
+AFC Wimbledon v Mansfield | n=20 | xg=10
+Huddersfield v Peterborough | n=20 | xg=10
