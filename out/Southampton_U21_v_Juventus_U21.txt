@@ -1,0 +1,82 @@
+MATCH Southampton U21 v Juventus U21 | fetched 2026-10-20 16:13 local
+
+FORM DATA Southampton U21 v Juventus U21 | source API-Football | 2026-10-20 16:13 UTC
+H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
+
+=== Southampton U21 (id 7201): last 20 finished games ===
+2026-10-13 A 6-5 v Boston United | National League Cup | Boston
+2026-10-09 H 5-1 v Queens Park Rangers U21 | Premier League Cup | Southampton
+2026-09-18 A 2-0 v Wolves U21 | Premier League 2 Division One | Kidderminster
+2026-09-12 H 3-1 v AFC Bournemouth U21 | Premier League 2 Division One | Southampton
+2026-09-08 A 1-4 v Woking | National League Cup | Woking
+2026-09-04 A 1-1 v Bolton Wanderers Res. | Premier League Cup | ?
+2026-08-28 A 2-1 v Everton U21 | Premier League 2 Division One | Liverpool
+2026-08-21 A 0-0 v West Ham United U21 | Premier League 2 Division One | London
+2026-08-18 A 1-2 v Truro City | National League Cup | ?
+2026-08-14 H 4-0 v Blackburn Rovers U21 | Premier League Cup | Southampton
+2026-08-01 A 2-3 v Sutton Utd | Friendlies Clubs | ?
+2026-07-18 A 3-1 v Maidenhead | Friendlies Clubs | ?
+2026-04-24 H 3-3 v Aston Villa U21 | Premier League 2 Division One | Southampton [PEN, 90-min score shown]
+2026-04-12 A 0-1 v Stoke City U21 | Premier League 2 Division One | Stoke on Trent
+2026-03-20 H 2-1 v Leeds United U21 | Premier League 2 Division One | Southampton
+2026-03-13 A 1-2 v Manchester United U21 | Premier League 2 Division One | ?
+2026-03-06 A 2-1 v Nottingham Forest U21 | Premier League 2 Division One | Leicestershire
+2026-02-27 H 2-2 v Everton U21 | Premier League 2 Division One | Southampton
+2026-02-20 H 2-1 v Middlesbrough U21 | Premier League 2 Division One | Southampton
+2026-02-13 A 1-1 v Norwich City U21 | Premier League 2 Division One | Norwich
+Listed home: 7 games, scored 21 (3.00), conceded 9 (1.29), blanks 0, clean sheets 1
+Listed away: 13 games, scored 22 (1.69), conceded 22 (1.69), blanks 2, clean sheets 2
+All: 20 games, scored 43 (2.15), conceded 31 (1.55), blanks 2, clean sheets 3
+
+=== Juventus U21 (id 26593): last 5 finished games ===
+2026-09-30 A 0-1 v Middlesbrough U21 | Premier League International Cup | Middlesbrough
+2025-11-15 A 0-3 v Fulham U21 | Premier League International Cup | ?
+2025-11-12 A 1-3 v Crystal Palace U21 | Premier League International Cup | ?
+2025-10-08 A 2-4 v West Bromwich Albion U21 | Premier League International Cup | ?
+2025-09-10 A 2-1 v Leicester City U21 | Premier League International Cup | ?
+Listed home: no games
+Listed away: 5 games, scored 5 (1.00), conceded 12 (2.40), blanks 2, clean sheets 0
+All: 5 games, scored 5 (1.00), conceded 12 (2.40), blanks 2, clean sheets 0
+
+TABLE FOR Southampton U21
+LEAGUE TABLE Premier League 2 Division One 2026 | 31 teams | 70 games played
+League averages per game: home 2.14, away 1.66, total 3.80
+#   team                   Pts | home P GF-GA  | away P GF-GA  | all P GF-GA
+1   Tottenham Hotspur U21   13 |  3   9-5       |  2   6-2       |  5  15-7
+2   Chelsea U21             12 |  2   8-5       |  3   7-4       |  5  15-9
+3   Nottingham Forest U21   12 |  3   6-3       |  2   4-6       |  5  10-9
+4   Liverpool U21           10 |  3   8-2       |  2   1-2       |  5   9-4
+5   Southampton U21         10 |  1   3-1       |  3   4-1       |  4   7-2
+6   Sunderland U21          10 |  3  12-4       |  2   3-7       |  5  15-11
+7   Fulham U21              10 |  2   7-6       |  3   7-4       |  5  14-10
+8   Norwich City U21        10 |  3   8-4       |  2   2-3       |  5  10-7
+9   AFC Bournemouth U21     10 |  3   7-3       |  2   4-6       |  5  11-9
+10  Manchester United U21    9 |  3  12-3       |  1   2-3       |  4  14-6
+11  Everton U21              8 |  3   4-4       |  2   2-0       |  5   6-4
+12  Aston Villa U21          8 |  3   4-5       |  2   4-3       |  5   8-8
+13  Crystal Palace U21       7 |  1   0-1       |  3   7-2       |  4   7-3
+14  Derby County U21         7 |  2   5-7       |  3   8-5       |  5  13-12
+15  Reading U21              7 |  2   1-3       |  3   6-4       |  5   7-7
+16  Leeds United U21         7 |  3   7-7       |  2   5-6       |  5  12-13
+17  Brentford U21            6 |  3   6-5       |  2   5-5       |  5  11-10
+18  Brighton U21             5 |  3   8-5       |  2   2-7       |  5  10-12
+19  West Ham United U21      5 |  2   1-0       |  3   6-9       |  5   7-9
+20  Stoke City U21           4 |  3   7-5       |  2   1-2       |  5   8-7
+21  Arsenal U21              4 |  3   4-7       |  2   2-2       |  5   6-9
+22  Manchester City U21      3 |  1   4-0       |  2   3-6       |  3   7-6
+23  Burnley U21              3 |  3   5-5       |  2   3-5       |  5   8-10
+24  Blackburn Rovers U21     3 |  1   2-3       |  2   2-4       |  3   4-7
+25  Ipswich Town U21         3 |  1   4-1       |  2   2-9       |  3   6-10
+26  Wolves U21               3 |  2   2-3       |  2   0-8       |  4   2-11
+27  Middlesbrough U21        2 |  2   4-5       |  3   4-7       |  5   8-12
+28  Birmingham City U21      2 |  2   0-4       |  2   5-7       |  4   5-11
+29  West Bromwich Albion U   1 |  1   1-3       |  3   8-10      |  4   9-13
+30  Leicester City U21       1 |  1   0-0       |  3   1-9       |  4   1-9
+31  Newcastle United U21     0 |  2   1-7       |  1   0-2       |  3   1-9
+
+(no league table available for Juventus U21: tried Premier League International Cup 2026, Premier League International Cup 2025)
+
+(24 API-Football requests used)
+
+----------------------------------------------------------------------
+MATCHBOOK: skipped (switched off for this run)

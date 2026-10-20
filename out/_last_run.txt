@@ -1,5 +1,4 @@
-RUN 2026-10-20 15:27 local | 3 match(es)
-Karlovac 1919 v id:561 -> out/Karlovac_1919_v_id_561.txt
-id:378 v id:365 -> out/id_378_v_id_365.txt
-El Geish v Pyramids -> out/El_Geish_v_Pyramids.txt
-Requests used: API-Football 77, Matchbook 0
+RUN 2026-10-20 16:13 local | 2 match(es)
+Southampton U21 v Juventus U21 -> out/Southampton_U21_v_Juventus_U21.txt
+Al Nassr v NEOM -> out/Al_Nassr_v_NEOM.txt
+Requests used: API-Football 50, Matchbook 0
