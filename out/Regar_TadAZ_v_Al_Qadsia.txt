@@ -1,6 +1,6 @@
-MATCH Regar-TadAZ v Al Qadsia | fetched 2026-10-20 16:57 local
+MATCH Regar TadAZ v Al Qadsia | fetched 2026-10-20 17:00 local
 
-FORM DATA Regar-TadAZ v Al Qadsia | source API-Football | 2026-10-20 16:57 UTC
+FORM DATA Regar TadAZ v Al Qadsia | source API-Football | 2026-10-20 17:00 UTC
 H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
 
 === Al Qadsia (id 3537): last 20 finished games ===
@@ -28,7 +28,7 @@ Listed home: 11 games, scored 19 (1.73), conceded 8 (0.73), blanks 2, clean shee
 Listed away: 9 games, scored 10 (1.11), conceded 9 (1.00), blanks 3, clean sheets 5
 All: 20 games, scored 29 (1.45), conceded 17 (0.85), blanks 5, clean sheets 11
 
-!! Regar-TadAZ: API-Football error: {"search": "The Search field may only contain alpha-numeric characters and spaces."}
+!! Regar TadAZ: No team found for "Regar TadAZ".
 
 TABLE FOR Al Qadsia
 LEAGUE TABLE Premier League 2026 | 12 teams | 28 games played

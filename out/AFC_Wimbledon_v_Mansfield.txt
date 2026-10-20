@@ -1,13 +1,78 @@
-MATCH AFC Wimbledon v Mansfield | fetched 2026-10-20 16:57 local
+MATCH AFC Wimbledon v Mansfield | fetched 2026-10-20 17:00 local
 
-FORM DATA AFC Wimbledon v Mansfield | source API-Football | 2026-10-20 16:58 UTC
+FORM DATA AFC Wimbledon v Mansfield | source API-Football | 2026-10-20 17:00 UTC
 H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
 
-!! AFC Wimbledon: API-Football error: HTTP 429 from API-Football
+=== AFC Wimbledon (id 1333): last 20 finished games ===
+2026-10-17 A 0-5 v Sheffield Wednesday | League One | Sheffield | xG 0.37-2.60
+2026-10-10 A 1-2 v Plymouth | League One | Plymouth | xG 0.98-1.72
+2026-10-06 H 0-0 v Barnet | EFL Trophy | Wimbledon [PEN, 90-min score shown]
+2026-09-26 A 1-1 v Cambridge United | League One | Cambridge | xG 0.86-1.27
+2026-09-17 H 0-0 v Milton Keynes Dons | League One | London | xG 1.28-1.02
+2026-09-12 H 1-0 v Doncaster | League One | London | xG 0.80-1.82
+2026-09-07 A 2-0 v Bromley | League One | London | xG 1.10-0.61
+2026-09-02 A 1-4 v Burton Albion | League One | Burton upon Trent | xG 1.43-0.93
+2026-08-30 H 1-0 v Wigan | League One | London | xG 0.72-2.99
+2026-08-27 A 0-3 v Fulham | League Cup | London | xG 0.38-4.21
+2026-08-22 H 0-0 v Reading | League One | London
+2026-08-18 A 1-1 v Leyton Orient | EFL Trophy | London [PEN, 90-min score shown]
+2026-08-15 A 0-3 v Huddersfield | League One | Huddersfield
+2026-08-08 H 1-1 v Newport County | League Cup | London [PEN, 90-min score shown]
+2026-08-01 H 2-3 v QPR | Friendlies Clubs | ?
+2026-07-28 A 0-1 v Wealdstone | Friendlies Clubs | ?
+2026-07-25 H 2-0 v Charlton | Friendlies Clubs | ?
+2026-07-22 H 0-0 v Norwich | Friendlies Clubs | ?
+2026-07-18 A 2-1 v Sutton Utd | Friendlies Clubs | ?
+2026-05-02 H 0-4 v Huddersfield | League One | London
+Listed home: 10 games, scored 7 (0.70), conceded 8 (0.80), blanks 5, clean sheets 7
+Listed away: 10 games, scored 8 (0.80), conceded 21 (2.10), blanks 4, clean sheets 1
+All: 20 games, scored 15 (0.75), conceded 29 (1.45), blanks 9, clean sheets 8
 
-!! Mansfield: API-Football error: HTTP 429 from API-Football
+"Mansfield" matches several teams. Use id:<number> instead of the name:
+  id:1374   Mansfield Town (England)
+  id:8670   AFC Mansfield (England)
+  id:17797  Mansfield Town U23 (England)
+  id:22071  Mansfield Town Res. (England)
+  id:22682  Mansfield Town W (England)
+(retrying Mansfield using the opponent's country, England)
+"Mansfield" matches several teams. Use id:<number> instead of the name:
+  id:1374   Mansfield Town (England)
+  id:8670   AFC Mansfield (England)
+  id:17797  Mansfield Town U23 (England)
+  id:22071  Mansfield Town Res. (England)
+  id:22682  Mansfield Town W (England)
+!! Mansfield: Ambiguous team name "Mansfield".
 
-(0 API-Football requests used)
+TABLE FOR AFC Wimbledon
+LEAGUE TABLE League One 2026 | 24 teams | 114 games played
+League averages per game: home 1.51, away 1.33, total 2.84
+#   team                   Pts | home P GF-GA  | away P GF-GA  | all P GF-GA
+1   Bradford                20 |  5   6-2       |  5   4-3       | 10  10-5
+2   Stockport County        19 |  6  14-8       |  4   7-3       | 10  21-11
+3   Huddersfield            19 |  4   9-4       |  6   9-5       | 10  18-9
+4   Plymouth                19 |  6   8-7       |  5  10-7       | 11  18-14
+5   Cambridge United        19 |  5   8-6       |  5   8-6       | 10  16-12
+6   Sheffield Wednesday     18 |  5  12-3       |  4   8-5       |  9  20-8
+7   Reading                 15 |  5  14-6       |  5   8-6       | 10  22-12
+8   Oxford United           15 |  3   6-3       |  5  10-6       |  8  16-9
+9   Leyton Orient           14 |  6   7-10      |  4   8-1       | 10  15-11
+10  Burton Albion           13 |  5  10-9       |  6   6-9       | 11  16-18
+11  Wycombe                 13 |  6  10-12      |  4   6-8       | 10  16-20
+12  Stevenage               12 |  4   6-5       |  5   6-5       |  9  12-10
+13  Mansfield Town          12 |  5  10-5       |  4   3-10      |  9  13-15
+14  Leicester               12 |  5   6-10      |  4   6-5       |  9  12-15
+15  AFC Wimbledon           12 |  4   2-0       |  6   5-15      | 10   7-15
+16  Luton                   11 |  4   5-4       |  5  12-13      |  9  17-17
+17  Doncaster                9 |  4   4-4       |  5   6-7       |  9  10-11
+18  Milton Keynes Dons       9 |  5   5-8       |  4   6-8       |  9  11-16
+19  Peterborough             9 |  5   5-7       |  5   4-9       | 10   9-16
+20  Blackpool                8 |  4   9-7       |  5   4-9       |  9  13-16
+21  Barnsley                 8 |  5   5-10      |  4   4-7       |  9   9-17
+22  Bromley                  8 |  4   3-9       |  5   6-12      |  9   9-21
+23  Notts County             7 |  4   4-5       |  5   4-8       |  9   8-13
+24  Wigan                    7 |  5   4-8       |  4   2-5       |  9   6-13
+
+(14 API-Football requests used)
 
 ----------------------------------------------------------------------
 MATCHBOOK: skipped (switched off for this run)

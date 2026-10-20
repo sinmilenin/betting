@@ -1,6 +1,6 @@
-MATCH Blackpool v MK Dons | fetched 2026-10-20 16:57 local
+MATCH Blackpool v Milton Keynes Dons | fetched 2026-10-20 17:00 local
 
-FORM DATA Blackpool v MK Dons | source API-Football | 2026-10-20 16:58 UTC
+FORM DATA Blackpool v Milton Keynes Dons | source API-Football | 2026-10-20 17:00 UTC
 H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
 
 === Blackpool (id 1356): last 20 finished games ===
@@ -28,7 +28,30 @@ Listed home: 8 games, scored 13 (1.62), conceded 14 (1.75), blanks 1, clean shee
 Listed away: 12 games, scored 14 (1.17), conceded 19 (1.58), blanks 4, clean sheets 2
 All: 20 games, scored 27 (1.35), conceded 33 (1.65), blanks 5, clean sheets 4
 
-!! MK Dons: No team found for "MK Dons".
+=== Milton Keynes Dons (id 1348): last 20 finished games ===
+2026-10-17 H 2-1 v Luton | League One | Milton Keynes | xG 1.45-1.54
+2026-10-10 H 1-5 v Reading | League One | Milton Keynes | xG 0.44-3.64
+2026-10-06 H 7-1 v Brentford U21 | EFL Trophy | Milton Keynes
+2026-09-22 H 4-1 v Crawley Town | EFL Trophy | Milton Keynes
+2026-09-17 A 0-0 v AFC Wimbledon | League One | London | xG 1.02-1.28
+2026-09-12 H 1-1 v Peterborough | League One | Milton Keynes | xG 1.15-1.29
+2026-09-05 A 3-3 v Wycombe | League One | High Wycombe | xG 1.65-0.89
+2026-09-02 A 1-3 v Wigan | League One | Wigan | xG 2.81-2.35
+2026-08-29 H 0-0 v Leicester | League One | Milton Keynes | xG 0.57-1.53
+2026-08-22 H 1-1 v Huddersfield | League One | Milton Keynes | xG 1.33-2.57
+2026-08-15 A 2-2 v Oxford United | League One | Oxford
+2026-08-08 A 1-4 v Norwich | League Cup | Norwich
+2026-08-01 A 2-0 v Cheltenham | Friendlies Clubs | ?
+2026-07-28 A 0-0 v Barnet | Friendlies Clubs | ?
+2026-07-25 A 0-2 v Wealdstone | Friendlies Clubs | ?
+2026-07-22 A 0-1 v Tottenham | Friendlies Clubs | London
+2026-07-17 A 1-2 v Istra 1961 | Friendlies Clubs | ?
+2026-07-10 A 4-1 v Maidenhead | Friendlies Clubs | ?
+2026-05-02 A 1-1 v Fleetwood Town | League Two | Fleetwood
+2026-04-25 H 3-0 v Tranmere | League Two | Milton Keynes
+Listed home: 8 games, scored 19 (2.38), conceded 10 (1.25), blanks 1, clean sheets 2
+Listed away: 12 games, scored 15 (1.25), conceded 19 (1.58), blanks 4, clean sheets 3
+All: 20 games, scored 34 (1.70), conceded 29 (1.45), blanks 5, clean sheets 5
 
 TABLE FOR Blackpool
 LEAGUE TABLE League One 2026 | 24 teams | 114 games played
@@ -59,7 +82,9 @@ League averages per game: home 1.51, away 1.33, total 2.84
 23  Notts County             7 |  4   4-5       |  5   4-8       |  9   8-13
 24  Wigan                    7 |  5   4-8       |  4   2-5       |  9   6-13
 
-(13 API-Football requests used)
+(Milton Keynes Dons: same table as Blackpool, shown above)
+
+(25 API-Football requests used)
 
 ----------------------------------------------------------------------
 MATCHBOOK: skipped (switched off for this run)
