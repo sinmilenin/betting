@@ -1,4 +1,3 @@
-# Scan 2026-10-20 13:41 (Ljubljana), retry 3 team names
-Napoli U19 v Bodo Glimt U19 | n=20 | xg=10
-Wigan Athletic U21 v Bolton Wanderers U21 | n=20 | xg=10
-Dewa United v Persijap | n=20 | xg=10
+# Scan 2026-10-20 14:27 (Ljubljana)
+Liverpool U19 v Villarreal U19 | n=20 | xg=10
+Istiqlol v Al Arabi | n=20 | xg=10
