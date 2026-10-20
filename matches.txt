@@ -1,3 +1,4 @@
-# Scan 2026-10-20 19:41 (Ljubljana) run 2: retry names
-Al-Ettifaq v Al-Ittihad FC | n=20 | xg=10
-Ipswich Town U21 v Anderlecht | n=20 | xg=10
+# Scan 2026-10-20 20:27 (Ljubljana)
+Dunfermline v Partick | n=20 | xg=10
+Walsall v Oldham | n=20 | xg=10
+Northampton v Tranmere | n=20 | xg=10
