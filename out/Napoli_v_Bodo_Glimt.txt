@@ -1,6 +1,6 @@
-MATCH Napoli v Bodo/Glimt | fetched 2026-10-20 06:22 local
+MATCH Napoli v Bodo Glimt | fetched 2026-10-20 06:23 local
 
-FORM DATA Napoli v Bodo/Glimt | source API-Football | 2026-10-20 06:22 UTC
+FORM DATA Napoli v Bodo Glimt | source API-Football | 2026-10-20 06:23 UTC
 H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
 
 === Napoli (id 492): last 20 finished games ===
@@ -28,7 +28,7 @@ Listed home: 13 games, scored 24 (1.85), conceded 15 (1.15), blanks 2, clean she
 Listed away: 7 games, scored 9 (1.29), conceded 8 (1.14), blanks 2, clean sheets 3
 All: 20 games, scored 33 (1.65), conceded 23 (1.15), blanks 4, clean sheets 8
 
-!! Bodo/Glimt: API-Football error: {"search": "The Search field may only contain alpha-numeric characters and spaces."}
+!! Bodo Glimt: No team found for "Bodo Glimt".
 
 TABLE FOR Napoli
 LEAGUE TABLE Serie A 2026 | 20 teams | 70 games played
@@ -55,7 +55,7 @@ League averages per game: home 1.56, away 1.40, total 2.96
 19  Parma                    4 |  4   3-6       |  3   1-7       |  7   4-13
 20  Venezia                  3 |  4   3-8       |  3   3-8       |  7   6-16
 
-(13 API-Football requests used)
+(14 API-Football requests used)
 
 ----------------------------------------------------------------------
 MATCHBOOK: skipped (switched off for this run)

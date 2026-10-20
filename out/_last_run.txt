@@ -1,17 +1,8 @@
-RUN 2026-10-20 06:22 local | 10 match(es)
-Manchester City v AEK Athens -> out/Manchester_City_v_AEK_Athens.txt
-    !! AEK Athens: Ambiguous team name "AEK Athens".
-Liverpool v Villarreal -> out/Liverpool_v_Villarreal.txt
-Paris Saint Germain v Barcelona -> out/Paris_Saint_Germain_v_Barcelona.txt
-FC Porto v PSV Eindhoven -> out/FC_Porto_v_PSV_Eindhoven.txt
-    !! FC Porto: Ambiguous team name "FC Porto".
-Sabah v Borussia Dortmund -> out/Sabah_v_Borussia_Dortmund.txt
-    !! Sabah: Ambiguous team name "Sabah".
-VfB Stuttgart v Atletico Madrid -> out/VfB_Stuttgart_v_Atletico_Madrid.txt
-AS Roma v Slovan Bratislava -> out/AS_Roma_v_Slovan_Bratislava.txt
-Napoli v Bodo/Glimt -> out/Napoli_v_Bodo_Glimt.txt
-    !! Bodo/Glimt: API-Football error: {"search": "The Search field may only contain alpha-numeric characters and spaces."}
-Fenerbahce v Slavia Praha -> out/Fenerbahce_v_Slavia_Praha.txt
-    !! Fenerbahce: Ambiguous team name "Fenerbahce".
-Sabah U19 v Borussia Dortmund U19 -> out/Sabah_U19_v_Borussia_Dortmund_U19.txt
-Requests used: API-Football 199, Matchbook 0
+RUN 2026-10-20 06:23 local | 5 match(es)
+Manchester City v id:575 -> out/Manchester_City_v_id_575.txt
+id:212 v PSV Eindhoven -> out/id_212_v_PSV_Eindhoven.txt
+id:13976 v Borussia Dortmund -> out/id_13976_v_Borussia_Dortmund.txt
+Napoli v Bodo Glimt -> out/Napoli_v_Bodo_Glimt.txt
+    !! Bodo Glimt: No team found for "Bodo Glimt".
+id:611 v Slavia Praha -> out/id_611_v_Slavia_Praha.txt
+Requests used: API-Football 117, Matchbook 0

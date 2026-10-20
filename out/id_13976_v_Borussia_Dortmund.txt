@@ -1,16 +1,33 @@
-MATCH Sabah v Borussia Dortmund | fetched 2026-10-20 06:22 local
+MATCH id:13976 v Borussia Dortmund | fetched 2026-10-20 06:23 local
 
-FORM DATA Sabah v Borussia Dortmund | source API-Football | 2026-10-20 06:22 UTC
+FORM DATA id:13976 v Borussia Dortmund | source API-Football | 2026-10-20 06:23 UTC
 H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
 
-"Sabah" matches several teams. Use id:<number> instead of the name:
-  id:2505   Sabah FA (Malaysia)
-  id:5496   Sabah II (Azerbaijan)
-  id:13976  Sabah FA (Azerbaijan)
-  id:24893  Sabah W (Azerbaijan)
-  id:24986  Sabah U19 (Azerbaijan)
-  id:25513  Sabah U23 (Malaysia)
-  id:27454  Assabah SC (Libya)
+=== Sabah FA (id 13976): last 20 finished games ===
+2026-10-17 A 4-0 v Qabala | Premyer Liqa | Gabala
+2026-10-13 H 2-0 v Slavia Praha | UEFA Champions League | Baku | xG 1.35-2.14
+2026-10-09 A 0-0 v Neftchi Baku | Premyer Liqa | Baku
+2026-09-19 H 3-1 v Imisli FK | Premyer Liqa | ?
+2026-09-14 A 3-0 v Safa Baku | Premyer Liqa | Baku
+2026-09-10 A 0-4 v Manchester United | UEFA Champions League | Manchester | xG 0.84-3.54
+2026-09-05 H 5-0 v Zira | Premyer Liqa | ?
+2026-08-31 A 1-0 v Araz | Premyer Liqa | Gabala
+2026-08-25 H 3-2 v Hapoel Beer Sheva | UEFA Champions League | Baku [AET, 90-min score shown]
+2026-08-19 A 1-2 v Hapoel Beer Sheva | UEFA Champions League | Bucharest
+2026-08-15 H 2-0 v Kapaz | Premyer Liqa | Tovuz
+2026-08-11 H 4-0 v Aarhus | UEFA Champions League | Absheron
+2026-08-05 A 1-2 v Aarhus | UEFA Champions League | Randers
+2026-07-28 A 2-0 v KuPS | UEFA Champions League | Kuopio
+2026-07-21 H 1-0 v KuPS | UEFA Champions League | Absheron
+2026-07-14 A 2-1 v The New Saints | UEFA Champions League | Oswestry
+2026-07-07 H 2-0 v The New Saints | UEFA Champions League | Absheron
+2026-07-02 A 1-4 v Polessya | Friendlies Clubs | ?
+2026-06-28 A 1-1 v Ferencvarosi TC | Friendlies Clubs | ?
+2026-06-24 A 1-1 v Universitatea Craiova | Friendlies Clubs | ?
+Listed home: 8 games, scored 22 (2.75), conceded 3 (0.38), blanks 0, clean sheets 6
+Listed away: 12 games, scored 17 (1.42), conceded 15 (1.25), blanks 2, clean sheets 5
+All: 20 games, scored 39 (1.95), conceded 18 (0.90), blanks 2, clean sheets 11
+
 === Borussia Dortmund (id 165): last 20 finished games ===
 2026-10-17 A 0-0 v Union Berlin | Bundesliga | Berlin | xG 1.09-0.80
 2026-10-14 A 0-1 v Bodo/Glimt | UEFA Champions League | Hakata | xG 0.85-1.20
@@ -36,16 +53,22 @@ Listed home: 8 games, scored 20 (2.50), conceded 10 (1.25), blanks 0, clean shee
 Listed away: 12 games, scored 19 (1.58), conceded 10 (0.83), blanks 4, clean sheets 5
 All: 20 games, scored 39 (1.95), conceded 20 (1.00), blanks 4, clean sheets 8
 
-(retrying Sabah using the opponent's country, Germany)
-"Sabah" matches several teams. Use id:<number> instead of the name:
-  id:2505   Sabah FA (Malaysia)
-  id:5496   Sabah II (Azerbaijan)
-  id:13976  Sabah FA (Azerbaijan)
-  id:24893  Sabah W (Azerbaijan)
-  id:24986  Sabah U19 (Azerbaijan)
-  id:25513  Sabah U23 (Malaysia)
-  id:27454  Assabah SC (Libya)
-!! Sabah: Ambiguous team name "Sabah".
+TABLE FOR Sabah FA
+LEAGUE TABLE Premyer Liqa 2026 | 12 teams | 46 games played
+League averages per game: home 1.43, away 1.13, total 2.57
+#   team                   Pts | home P GF-GA  | away P GF-GA  | all P GF-GA
+1   Sabah FA                19 |  3  10-1       |  4   8-0       |  7  18-1
+2   Neftchi Baku            17 |  3   9-1       |  5  12-7       |  8  21-8
+3   Qarabag                 17 |  4  10-6       |  3   4-1       |  7  14-7
+4   Turan                   14 |  4   4-1       |  4   3-4       |  8   7-5
+5   Şamaxı FK               13 |  2   5-3       |  6   7-6       |  8  12-9
+6   Zira                    12 |  5   8-3       |  3   1-7       |  8   9-10
+7   Kapaz                   11 |  5   5-6       |  2   2-2       |  7   7-8
+8   Sumqayıt                 8 |  5   8-7       |  2   2-3       |  7  10-10
+9   Imisli FK                7 |  3   3-5       |  5   4-8       |  8   7-13
+10  Qabala                   4 |  5   2-9       |  3   1-6       |  8   3-15
+11  Safa Baku                3 |  3   0-5       |  5   4-10      |  8   4-15
+12  Araz                     2 |  4   2-5       |  4   4-12      |  8   6-17
 
 TABLE FOR Borussia Dortmund
 LEAGUE TABLE Bundesliga 2026 | 18 teams | 54 games played
@@ -70,7 +93,7 @@ League averages per game: home 2.28, away 1.41, total 3.69
 17  Union Berlin             5 |  4   5-6       |  2   0-11      |  6   5-17
 18  Borussia Mönchengladba   0 |  3   7-10      |  3   1-10      |  6   8-20
 
-(15 API-Football requests used)
+(26 API-Football requests used)
 
 ----------------------------------------------------------------------
 MATCHBOOK: skipped (switched off for this run)
