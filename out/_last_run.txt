@@ -1,5 +1,9 @@
-RUN 2026-10-20 14:44 local | 2 match(es)
-Al Diriyah v Al Riyadh -> out/Al_Diriyah_v_Al_Riyadh.txt
-Ittihad Aleppo v Ahal -> out/Ittihad_Aleppo_v_Ahal.txt
-    !! Ittihad Aleppo: No team found for "Ittihad Aleppo".
-Requests used: API-Football 40, Matchbook 0
+RUN 2026-10-20 15:27 local | 3 match(es)
+Karlovac v Rijeka -> out/Karlovac_v_Rijeka.txt
+    !! Rijeka: Ambiguous team name "Rijeka".
+Norrkoping v Orebro -> out/Norrkoping_v_Orebro.txt
+    !! Norrkoping: Ambiguous team name "Norrkoping".
+    !! Orebro: Ambiguous team name "Orebro".
+El Gaish v Pyramids -> out/El_Gaish_v_Pyramids.txt
+    !! El Gaish: No team found for "El Gaish".
+Requests used: API-Football 32, Matchbook 0

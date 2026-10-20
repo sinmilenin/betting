@@ -1,0 +1,45 @@
+MATCH Karlovac v Rijeka | fetched 2026-10-20 15:27 local
+
+FORM DATA Karlovac v Rijeka | source API-Football | 2026-10-20 15:27 UTC
+H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
+
+=== Karlovac (id 5709): last 20 finished games ===
+2023-02-05 A 0-0 v Rudar Velenje | Friendlies Clubs | ?
+2023-02-02 A 3-1 v Prva Iskra | Friendlies Clubs | ?
+2023-01-30 A 0-1 v Rudar Prijedor | Friendlies Clubs | ?
+2021-08-07 H 4-2 v Segesta Sisak | Friendlies Clubs | ?
+2021-07-31 A 1-2 v Lucko | Friendlies Clubs | ?
+2021-07-24 A 1-2 v Jarun | Friendlies Clubs | ?
+2021-07-21 H 1-1 v Dinamo Zagreb II | Friendlies Clubs | ?
+2021-03-24 A 1-0 v Mladost Petrinja | Third NL - Sredite | Petrinja
+2021-03-14 A 2-2 v Bistra | Third NL - Sredite | Donja Bistra
+2020-11-21 H 0-2 v Špansko Zagreb | Third NL - Sredite | Karlovac
+2020-11-14 A 2-2 v Zagorec | Third NL - Sredite | Krapina
+2020-11-07 H 0-0 v Vrbovec | Third NL - Sredite | Karlovac
+2020-10-31 A 3-1 v Maksimir Zagreb | Third NL - Sredite | Zagreb
+2020-10-24 H 2-0 v HAŠK | Third NL - Sredite | Karlovac
+2020-10-10 H 1-3 v Jarun | Third NL - Sredite | Karlovac
+2020-10-07 A 0-2 v Vrapče Zagreb | Third NL - Sredite | Zagreb
+2020-10-03 H 0-2 v Trnje | Third NL - Sredite | Karlovac
+2020-09-26 H 1-0 v Gaj | Third NL - Sredite | Karlovac
+2020-09-19 A 1-3 v Kurilovec | Third NL - Sredite | Velika Gorica
+2020-09-16 A 0-1 v Lucko | Third NL - Sredite | Zagreb
+Listed home: 8 games, scored 9 (1.12), conceded 10 (1.25), blanks 3, clean sheets 3
+Listed away: 12 games, scored 14 (1.17), conceded 17 (1.42), blanks 4, clean sheets 2
+All: 20 games, scored 23 (1.15), conceded 27 (1.35), blanks 7, clean sheets 5
+
+"Rijeka" matches several teams. Use id:<number> instead of the name:
+  id:561    HNK Rijeka (Croatia)
+  id:27594  HNK Rijeka U18 (Croatia)
+(retrying Rijeka using the opponent's country, Croatia)
+"Rijeka" matches several teams. Use id:<number> instead of the name:
+  id:561    HNK Rijeka (Croatia)
+  id:27594  HNK Rijeka U18 (Croatia)
+!! Rijeka: Ambiguous team name "Rijeka".
+
+(no league table available for Karlovac: tried Third NL - Sredite 2020)
+
+(15 API-Football requests used)
+
+----------------------------------------------------------------------
+MATCHBOOK: skipped (switched off for this run)
