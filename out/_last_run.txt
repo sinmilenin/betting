@@ -1,6 +1,3 @@
-RUN 2026-10-20 13:19 local | 2 match(es)
-Masr v Future FC -> out/Masr_v_Future_FC.txt
-Al Taawon v Al Qadsiah -> out/Al_Taawon_v_Al_Qadsiah.txt
-    !! Al Taawon: Ambiguous team name "Al Taawon".
-    !! Al Qadsiah: No team found for "Al Qadsiah".
-Requests used: API-Football 28, Matchbook 0
+RUN 2026-10-20 13:20 local | 1 match(es)
+id:2936 v Al Qadisiya -> out/id_2936_v_Al_Qadisiya.txt
+Requests used: API-Football 27, Matchbook 0
