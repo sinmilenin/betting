@@ -1,5 +1,5 @@
-RUN 2026-10-20 14:43 local | 2 match(es)
-Al Draih v Al Riyadh -> out/Al_Draih_v_Al_Riyadh.txt
-Al Ittihad Aleppo v Ahal -> out/Al_Ittihad_Aleppo_v_Ahal.txt
-    !! Al Ittihad Aleppo: No team found for "Al Ittihad Aleppo".
-Requests used: API-Football 41, Matchbook 0
+RUN 2026-10-20 14:44 local | 2 match(es)
+Al Diriyah v Al Riyadh -> out/Al_Diriyah_v_Al_Riyadh.txt
+Ittihad Aleppo v Ahal -> out/Ittihad_Aleppo_v_Ahal.txt
+    !! Ittihad Aleppo: No team found for "Ittihad Aleppo".
+Requests used: API-Football 40, Matchbook 0

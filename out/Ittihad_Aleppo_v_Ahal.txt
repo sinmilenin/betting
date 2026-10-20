@@ -1,6 +1,6 @@
-MATCH Al Ittihad Aleppo v Ahal | fetched 2026-10-20 14:43 local
+MATCH Ittihad Aleppo v Ahal | fetched 2026-10-20 14:44 local
 
-FORM DATA Al Ittihad Aleppo v Ahal | source API-Football | 2026-10-20 14:43 UTC
+FORM DATA Ittihad Aleppo v Ahal | source API-Football | 2026-10-20 14:44 UTC
 H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
 
 === Ahal (id 8020): last 20 finished games ===
@@ -28,7 +28,7 @@ Listed home: 11 games, scored 18 (1.64), conceded 15 (1.36), blanks 4, clean she
 Listed away: 9 games, scored 25 (2.78), conceded 12 (1.33), blanks 0, clean sheets 3
 All: 20 games, scored 43 (2.15), conceded 27 (1.35), blanks 4, clean sheets 9
 
-!! Al Ittihad Aleppo: No team found for "Al Ittihad Aleppo".
+!! Ittihad Aleppo: No team found for "Ittihad Aleppo".
 
 TABLE FOR Ahal
 LEAGUE TABLE Ýokary Liga 2026 | 8 teams | 91 games played
