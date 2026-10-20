@@ -1,2 +1,2 @@
-# Scan 2026-10-20 15:16 (Ljubljana), retry Al Qadisiyah (KSA men)
-id:2936 v Qadisiyah | n=20 | xg=10
+# Scan 2026-10-20 15:56 (Ljubljana)
+ASA Targu Mures v Chindia Targoviste | n=20 | xg=10
