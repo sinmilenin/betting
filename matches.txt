@@ -1,2 +1,5 @@
-# Scan 2026-10-20 12:12 (Ljubljana), retry PSV name
-Porto U19 v PSV U19 | n=20 | xg=10
+# Scan 2026-10-20 13:41 (Ljubljana)
+Napoli U19 v Bodo/Glimt U19 | n=20 | xg=10
+Fleetwood Town U21 v Barnsley U21 | n=20 | xg=10
+Wigan Athletic U21 v Bolton U21 | n=20 | xg=10
+Dewa United v Persijap Jepara | n=20 | xg=10
