@@ -1,7 +1,6 @@
-RUN 2026-10-20 13:18 local | 3 match(es)
-Asyut Petrol v Zamalek -> out/Asyut_Petrol_v_Zamalek.txt
-ZED v Future FC -> out/ZED_v_Future_FC.txt
-    !! ZED: Ambiguous team name "ZED".
-Al Taawoun v Al Qadisiyah -> out/Al_Taawoun_v_Al_Qadisiyah.txt
-    !! Al Taawoun: No team found for "Al Taawoun".
-Requests used: API-Football 54, Matchbook 0
+RUN 2026-10-20 13:19 local | 2 match(es)
+Masr v Future FC -> out/Masr_v_Future_FC.txt
+Al Taawon v Al Qadsiah -> out/Al_Taawon_v_Al_Qadsiah.txt
+    !! Al Taawon: Ambiguous team name "Al Taawon".
+    !! Al Qadsiah: No team found for "Al Qadsiah".
+Requests used: API-Football 28, Matchbook 0
