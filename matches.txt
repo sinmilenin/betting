@@ -1,3 +1,2 @@
-# Scan 2026-10-20 12:12 (Ljubljana)
-Porto U19 v PSV Eindhoven U19 | n=20 | xg=10
-Bhayangkara v PSIM Yogyakarta | n=20 | xg=10
+# Scan 2026-10-20 12:12 (Ljubljana), retry PSV name
+Porto U19 v PSV U19 | n=20 | xg=10
