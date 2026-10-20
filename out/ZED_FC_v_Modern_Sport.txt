@@ -1,0 +1,13 @@
+MATCH ZED FC v Modern Sport | fetched 2026-10-20 13:17 local
+
+FORM DATA ZED FC v Modern Sport | source API-Football | 2026-10-20 13:17 UTC
+H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
+
+!! ZED FC: No team found for "ZED FC".
+
+!! Modern Sport: No team found for "Modern Sport".
+
+(2 API-Football requests used)
+
+----------------------------------------------------------------------
+MATCHBOOK: skipped (switched off for this run)
