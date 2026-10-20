@@ -1,2 +1,4 @@
-# Scan 2026-10-20 14:27 (Ljubljana), retry Al Arabi Kuwait by id
-Istiqlol v id:3532 | n=20 | xg=10
+# Scan 2026-10-20 15:16 (Ljubljana)
+Asyut Petroleum v Zamalek | n=20 | xg=10
+ZED FC v Modern Sport | n=20 | xg=10
+Al-Taawoun v Al-Qadsiah | n=20 | xg=10
