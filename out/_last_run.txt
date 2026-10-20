@@ -1,9 +1,5 @@
 RUN 2026-10-20 15:27 local | 3 match(es)
-Karlovac v Rijeka -> out/Karlovac_v_Rijeka.txt
-    !! Rijeka: Ambiguous team name "Rijeka".
-Norrkoping v Orebro -> out/Norrkoping_v_Orebro.txt
-    !! Norrkoping: Ambiguous team name "Norrkoping".
-    !! Orebro: Ambiguous team name "Orebro".
-El Gaish v Pyramids -> out/El_Gaish_v_Pyramids.txt
-    !! El Gaish: No team found for "El Gaish".
-Requests used: API-Football 32, Matchbook 0
+Karlovac 1919 v id:561 -> out/Karlovac_1919_v_id_561.txt
+id:378 v id:365 -> out/id_378_v_id_365.txt
+El Geish v Pyramids -> out/El_Geish_v_Pyramids.txt
+Requests used: API-Football 77, Matchbook 0
