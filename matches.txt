@@ -1,6 +1,2 @@
-# Top-10 liquidity run 20.10 08:28 run 2 (id fixes)
-Manchester City v id:575 | n=20 | xg=10
-id:212 v PSV Eindhoven | n=20 | xg=10
-id:13976 v Borussia Dortmund | n=20 | xg=10
-Napoli v Bodo Glimt | n=20 | xg=10
-id:611 v Slavia Praha | n=20 | xg=10
+# Top-10 run 3 (Bodo)
+Napoli v Bodo | n=20 | xg=10
