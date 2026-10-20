@@ -1,5 +1,3 @@
-RUN 2026-10-20 10:13 local | 2 match(es)
-Porto U19 v PSV Eindhoven U19 -> out/Porto_U19_v_PSV_Eindhoven_U19.txt
-    !! PSV Eindhoven U19: No team found for "PSV Eindhoven U19".
-Bhayangkara v PSIM Yogyakarta -> out/Bhayangkara_v_PSIM_Yogyakarta.txt
-Requests used: API-Football 39, Matchbook 0
+RUN 2026-10-20 10:14 local | 1 match(es)
+Porto U19 v PSV U19 -> out/Porto_U19_v_PSV_U19.txt
+Requests used: API-Football 27, Matchbook 0
