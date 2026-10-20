@@ -130,5 +130,16 @@
     "lay": 14,
     "stake": 3,
     "created": "2026-10-20T15:21:57+02:00"
+  },
+  {
+    "id": "2026-10-20_asa-targu-mures-chindia-targoviste_1-0",
+    "date": "2026-10-20",
+    "ko": "16:30",
+    "match": "ASA Targu Mures v Chindia Targoviste",
+    "comp": "Romania, Romanian Liga II",
+    "cell": "1-0",
+    "lay": 13.5,
+    "stake": 3,
+    "created": "2026-10-20T13:58:40Z"
   }
 ]
