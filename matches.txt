@@ -1,3 +1,2 @@
-# Scan 2026-10-20 14:27 (Ljubljana)
-Liverpool U19 v Villarreal U19 | n=20 | xg=10
-Istiqlol v Al Arabi | n=20 | xg=10
+# Scan 2026-10-20 14:27 (Ljubljana), retry Al Arabi Kuwait by id
+Istiqlol v id:3532 | n=20 | xg=10
