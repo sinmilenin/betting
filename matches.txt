@@ -1,2 +1,11 @@
-# Scan 19.10 21:12 run 1
-Mushuc Runa v Orense | n=20 | xg=10
+# Top-10 liquidity run 20.10 08:25
+Manchester City v AEK Athens | n=20 | xg=10
+Liverpool v Villarreal | n=20 | xg=10
+Paris Saint Germain v Barcelona | n=20 | xg=10
+FC Porto v PSV Eindhoven | n=20 | xg=10
+Sabah v Borussia Dortmund | n=20 | xg=10
+VfB Stuttgart v Atletico Madrid | n=20 | xg=10
+AS Roma v Slovan Bratislava | n=20 | xg=10
+Napoli v Bodo/Glimt | n=20 | xg=10
+Fenerbahce v Slavia Praha | n=20 | xg=10
+Sabah U19 v Borussia Dortmund U19 | n=20 | xg=10
