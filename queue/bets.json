@@ -1,60 +1,5 @@
 [
   {
-    "id": "2026-10-20_bhayangkara-fc-psim-yogyakarta_2-2",
-    "date": "2026-10-20",
-    "ko": "14:00",
-    "match": "Bhayangkara FC v Psim Yogyakarta",
-    "comp": "Indonesia, Indonesian Super League",
-    "cell": "2-2",
-    "lay": 17,
-    "stake": 3,
-    "created": "2026-10-20T12:15:26+02:00"
-  },
-  {
-    "id": "2026-10-20_fleetwood-town-u21-barnsley-u21_0-1",
-    "date": "2026-10-20",
-    "ko": "14:00",
-    "match": "Fleetwood Town U21 v Barnsley U21",
-    "comp": "United Kingdom, English U21 Pro Development League",
-    "cell": "0-1",
-    "lay": 19,
-    "stake": 3,
-    "created": "2026-10-20T13:44:49+02:00"
-  },
-  {
-    "id": "2026-10-20_fleetwood-town-u21-barnsley-u21_0-2",
-    "date": "2026-10-20",
-    "ko": "14:00",
-    "match": "Fleetwood Town U21 v Barnsley U21",
-    "comp": "United Kingdom, English U21 Pro Development League",
-    "cell": "0-2",
-    "lay": 17.5,
-    "stake": 3,
-    "created": "2026-10-20T13:44:49+02:00"
-  },
-  {
-    "id": "2026-10-20_dewa-united-fc-persijap-jepara_2-0",
-    "date": "2026-10-20",
-    "ko": "14:00",
-    "match": "Dewa United FC v Persijap Jepara",
-    "comp": "Indonesia, Indonesian Super League",
-    "cell": "2-0",
-    "lay": 8,
-    "stake": 3,
-    "created": "2026-10-20T13:44:49+02:00"
-  },
-  {
-    "id": "2026-10-20_dewa-united-fc-persijap-jepara_3-0",
-    "date": "2026-10-20",
-    "ko": "14:00",
-    "match": "Dewa United FC v Persijap Jepara",
-    "comp": "Indonesia, Indonesian Super League",
-    "cell": "3-0",
-    "lay": 8.6,
-    "stake": 3,
-    "created": "2026-10-20T13:44:49+02:00"
-  },
-  {
     "id": "2026-10-20_istiqlol-al-arabi-kuwait_0-1",
     "date": "2026-10-20",
     "ko": "16:00",
@@ -702,5 +647,137 @@
     "lay": 12.5,
     "stake": 3,
     "created": "2026-10-20T19:47:14+02:00"
+  },
+  {
+    "id": "2026-10-20_york-city-accrington_2-2",
+    "date": "2026-10-20",
+    "ko": "20:45",
+    "match": "York City v Accrington",
+    "comp": "England, League Two",
+    "cell": "2-2",
+    "lay": 19.5,
+    "stake": 3,
+    "created": "2026-10-20T18:30:46+00:00"
+  },
+  {
+    "id": "2026-10-20_cambridge-utd-wycombe_1-2",
+    "date": "2026-10-20",
+    "ko": "20:45",
+    "match": "Cambridge Utd v Wycombe",
+    "comp": "England, League One",
+    "cell": "1-2",
+    "lay": 12.5,
+    "stake": 3,
+    "created": "2026-10-20T18:30:46+00:00"
+  },
+  {
+    "id": "2026-10-20_rochdale-grimsby_1-3",
+    "date": "2026-10-20",
+    "ko": "20:45",
+    "match": "Rochdale v Grimsby",
+    "comp": "England, League Two",
+    "cell": "1-3",
+    "lay": 19.5,
+    "stake": 3,
+    "created": "2026-10-20T18:30:46+00:00"
+  },
+  {
+    "id": "2026-10-20_rochdale-grimsby_aoaw",
+    "date": "2026-10-20",
+    "ko": "20:45",
+    "match": "Rochdale v Grimsby",
+    "comp": "England, League Two",
+    "cell": "AOAW",
+    "lay": 12.0,
+    "stake": 3,
+    "created": "2026-10-20T18:30:46+00:00"
+  },
+  {
+    "id": "2026-10-20_bristol-rovers-salford-city_1-2",
+    "date": "2026-10-20",
+    "ko": "20:45",
+    "match": "Bristol Rovers v Salford City",
+    "comp": "England, League Two",
+    "cell": "1-2",
+    "lay": 11.5,
+    "stake": 3,
+    "created": "2026-10-20T18:30:46+00:00"
+  },
+  {
+    "id": "2026-10-20_dunfermline-partick_1-2",
+    "date": "2026-10-20",
+    "ko": "20:45",
+    "match": "Dunfermline v Partick",
+    "comp": "Scotland, Championship",
+    "cell": "1-2",
+    "lay": 12.5,
+    "stake": 3,
+    "created": "2026-10-20T18:30:46+00:00"
+  },
+  {
+    "id": "2026-10-20_dunfermline-partick_2-2",
+    "date": "2026-10-20",
+    "ko": "20:45",
+    "match": "Dunfermline v Partick",
+    "comp": "Scotland, Championship",
+    "cell": "2-2",
+    "lay": 16.0,
+    "stake": 3,
+    "created": "2026-10-20T18:30:46+00:00"
+  },
+  {
+    "id": "2026-10-20_walsall-oldham_0-2",
+    "date": "2026-10-20",
+    "ko": "20:45",
+    "match": "Walsall v Oldham",
+    "comp": "England, League Two",
+    "cell": "0-2",
+    "lay": 19.5,
+    "stake": 3,
+    "created": "2026-10-20T18:30:46+00:00"
+  },
+  {
+    "id": "2026-10-20_walsall-oldham_1-2",
+    "date": "2026-10-20",
+    "ko": "20:45",
+    "match": "Walsall v Oldham",
+    "comp": "England, League Two",
+    "cell": "1-2",
+    "lay": 12.0,
+    "stake": 3,
+    "created": "2026-10-20T18:30:46+00:00"
+  },
+  {
+    "id": "2026-10-20_walsall-oldham_2-2",
+    "date": "2026-10-20",
+    "ko": "20:45",
+    "match": "Walsall v Oldham",
+    "comp": "England, League Two",
+    "cell": "2-2",
+    "lay": 15.5,
+    "stake": 3,
+    "created": "2026-10-20T18:30:46+00:00"
+  },
+  {
+    "id": "2026-10-20_northampton-tranmere_2-1",
+    "date": "2026-10-20",
+    "ko": "20:45",
+    "match": "Northampton v Tranmere",
+    "comp": "England, League Two",
+    "cell": "2-1",
+    "lay": 11.0,
+    "stake": 3,
+    "created": "2026-10-20T18:30:46+00:00"
+  },
+  {
+    "id": "2026-10-20_napoli-bodo-glimt_2-2",
+    "date": "2026-10-20",
+    "ko": "21:00",
+    "match": "Napoli v Bodo Glimt",
+    "comp": "Europe, UEFA Champions League",
+    "cell": "2-2",
+    "lay": 15.0,
+    "stake": 3,
+    "created": "2026-10-20T18:30:46+00:00"
   }
 ]
