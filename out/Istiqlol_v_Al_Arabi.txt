@@ -1,0 +1,68 @@
+MATCH Istiqlol v Al Arabi | fetched 2026-10-20 12:27 local
+
+FORM DATA Istiqlol v Al Arabi | source API-Football | 2026-10-20 12:27 UTC
+H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
+
+=== Istiqlol (id 8012): last 20 finished games ===
+2026-10-17 A 0-1 v Al Nejmeh | AFC Challenge League | Hisor
+2026-09-15 A 0-1 v Khujand | Vysshaya Liga | ?
+2026-09-05 H 1-0 v Khosilot Farkhor | Vysshaya Liga | ?
+2026-08-30 A 4-0 v Parvoz | Vysshaya Liga | ?
+2026-08-15 A 1-0 v Ravshan | Vysshaya Liga | ?
+2026-08-02 A 0-1 v Regar-TadAZ | Vysshaya Liga | ?
+2026-06-28 A 1-0 v Sardor Tursunzoda | Vysshaya Liga | ?
+2026-06-14 A 2-1 v Istaravshan | Vysshaya Liga | ?
+2026-05-16 A 0-0 v Eskhata | Vysshaya Liga | ?
+2026-05-09 H 2-0 v Barki Tajik | Vysshaya Liga | ?
+2026-05-03 A 2-0 v Khatlon | Vysshaya Liga | ?
+2026-04-24 H 2-1 v Khujand | Vysshaya Liga | ?
+2026-04-19 A 1-1 v Khosilot Farkhor | Vysshaya Liga | ?
+2026-04-12 H 3-0 v Parvoz | Vysshaya Liga | ?
+2026-04-05 H 0-0 v Ravshan | Vysshaya Liga | ?
+2026-03-14 H 1-0 v Regar-TadAZ | Vysshaya Liga | ?
+2026-03-07 H 0-0 v Sardor Tursunzoda | Vysshaya Liga | ?
+2025-12-24 A 2-1 v Goa | AFC Champions League Two | Margao
+2025-12-12 A 4-1 v Istaravshan | Vysshaya Liga | Istaravshan
+2025-12-08 A 1-1 v Khatlon | Vysshaya Liga | Kurgan-Tyube
+Listed home: 7 games, scored 9 (1.29), conceded 1 (0.14), blanks 2, clean sheets 6
+Listed away: 13 games, scored 18 (1.38), conceded 8 (0.62), blanks 4, clean sheets 5
+All: 20 games, scored 27 (1.35), conceded 9 (0.45), blanks 6, clean sheets 11
+
+"Al Arabi" matches several teams. Use id:<number> instead of the name:
+  id:2914   Al Arabi SC B (Qatar)
+  id:2971   Al Arabi SC (Saudi-Arabia)
+  id:3532   Al Arabi (Kuwait)
+  id:4580   Al Shabab Al Arabi (Lebanon)
+  id:9135   Al Arabi (United-Arab-Emirates)
+  id:17472  Al Arabi (Jordan)
+(retrying Al Arabi using the opponent's country, Tajikistan)
+"Al Arabi" matches several teams. Use id:<number> instead of the name:
+  id:2914   Al Arabi SC B (Qatar)
+  id:2971   Al Arabi SC (Saudi-Arabia)
+  id:3532   Al Arabi (Kuwait)
+  id:4580   Al Shabab Al Arabi (Lebanon)
+  id:9135   Al Arabi (United-Arab-Emirates)
+  id:17472  Al Arabi (Jordan)
+!! Al Arabi: Ambiguous team name "Al Arabi".
+
+TABLE FOR Istiqlol
+LEAGUE TABLE Vysshaya Liga 2026 | 12 teams | 106 games played
+League averages per game: home 1.36, away 1.20, total 2.56
+#   team                   Pts | home P GF-GA  | away P GF-GA  | all P GF-GA
+1   Regar-TadAZ             40 |  9  15-5       |  9  10-4       | 18  25-9
+2   Istiqlol                37 |  8  12-2       |  9  11-4       | 17  23-6
+3   Khosilot Farkhor        35 |  9  20-6       |  9  15-12      | 18  35-18
+4   CSKA Pomir              27 |  9  10-13      |  8   9-7       | 17  19-20
+5   Khujand                 27 |  8   9-4       |  9   7-7       | 17  16-11
+6   Barki Tajik             24 |  8  12-10      |  9  12-15      | 17  24-25
+7   Ravshan                 23 |  9  15-13      |  9   9-7       | 18  24-20
+8   Khatlon                 23 | 10  15-13      |  8  12-12      | 18  27-25
+9   Eskhata                 20 |  9  12-18      |  9  11-15      | 18  23-33
+10  Parvoz                  15 |  9   7-16      | 10   9-20      | 19  16-36
+11  Sardor Tursunzoda       12 |  9  12-14      |  8  12-18      | 17  24-32
+12  Istaravshan              6 |  9   5-13      |  9  10-23      | 18  15-36
+
+(16 API-Football requests used)
+
+----------------------------------------------------------------------
+MATCHBOOK: skipped (switched off for this run)

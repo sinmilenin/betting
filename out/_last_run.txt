@@ -1,7 +1,5 @@
-RUN 2026-10-20 11:43 local | 3 match(es)
-Napoli U19 v Bodo Glimt U19 -> out/Napoli_U19_v_Bodo_Glimt_U19.txt
-    !! Bodo Glimt U19: No team found for "Bodo Glimt U19".
-Wigan Athletic U21 v Bolton Wanderers U21 -> out/Wigan_Athletic_U21_v_Bolton_Wanderers_U2.txt
-    !! Bolton Wanderers U21: No team found for "Bolton Wanderers U21".
-Dewa United v Persijap -> out/Dewa_United_v_Persijap.txt
-Requests used: API-Football 53, Matchbook 0
+RUN 2026-10-20 12:27 local | 2 match(es)
+Liverpool U19 v Villarreal U19 -> out/Liverpool_U19_v_Villarreal_U19.txt
+Istiqlol v Al Arabi -> out/Istiqlol_v_Al_Arabi.txt
+    !! Al Arabi: Ambiguous team name "Al Arabi".
+Requests used: API-Football 42, Matchbook 0
