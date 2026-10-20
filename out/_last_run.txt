@@ -1,5 +1,3 @@
-RUN 2026-10-20 12:27 local | 2 match(es)
-Liverpool U19 v Villarreal U19 -> out/Liverpool_U19_v_Villarreal_U19.txt
-Istiqlol v Al Arabi -> out/Istiqlol_v_Al_Arabi.txt
-    !! Al Arabi: Ambiguous team name "Al Arabi".
-Requests used: API-Football 42, Matchbook 0
+RUN 2026-10-20 12:28 local | 1 match(es)
+Istiqlol v id:3532 -> out/Istiqlol_v_id_3532.txt
+Requests used: API-Football 27, Matchbook 0
