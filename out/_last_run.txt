@@ -1,3 +1,9 @@
-RUN 2026-10-20 10:14 local | 1 match(es)
-Porto U19 v PSV U19 -> out/Porto_U19_v_PSV_U19.txt
-Requests used: API-Football 27, Matchbook 0
+RUN 2026-10-20 11:42 local | 4 match(es)
+Napoli U19 v Bodo/Glimt U19 -> out/Napoli_U19_v_Bodo_Glimt_U19.txt
+    !! Bodo/Glimt U19: API-Football error: {"search": "The Search field may only contain alpha-numeric characters and spaces."}
+Fleetwood Town U21 v Barnsley U21 -> out/Fleetwood_Town_U21_v_Barnsley_U21.txt
+Wigan Athletic U21 v Bolton U21 -> out/Wigan_Athletic_U21_v_Bolton_U21.txt
+    !! Bolton U21: No team found for "Bolton U21".
+Dewa United v Persijap Jepara -> out/Dewa_United_v_Persijap_Jepara.txt
+    !! Persijap Jepara: No team found for "Persijap Jepara".
+Requests used: API-Football 67, Matchbook 0
