@@ -1,6 +1,3 @@
-RUN 2026-10-20 17:02 local | 3 match(es)
-York v id:1360 -> out/York_v_id_1360.txt
-AFC Wimbledon v id:1374 -> out/AFC_Wimbledon_v_id_1374.txt
-Regar v Al Qadsia -> out/Regar_v_Al_Qadsia.txt
-    !! Regar: Ambiguous team name "Regar".
-Requests used: API-Football 66, Matchbook 0
+RUN 2026-10-20 17:03 local | 1 match(es)
+id:12268 v Al Qadsia -> out/id_12268_v_Al_Qadsia.txt
+Requests used: API-Football 27, Matchbook 0
