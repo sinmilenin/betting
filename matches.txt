@@ -1,4 +1,4 @@
-# Scan 2026-10-20 17:26 (Ljubljana)
-Karlovac v Rijeka | n=20 | xg=10
-Norrkoping v Orebro | n=20 | xg=10
-El Gaish v Pyramids | n=20 | xg=10
+# Scan 2026-10-20 17:26 (Ljubljana), retry with ids/corrected names
+Karlovac 1919 v id:561 | n=20 | xg=10
+id:378 v id:365 | n=20 | xg=10
+El Geish v Pyramids | n=20 | xg=10
