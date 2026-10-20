@@ -185,5 +185,27 @@
     "lay": 18.5,
     "stake": 3,
     "created": "2026-10-20T17:30:55+02:00"
+  },
+  {
+    "id": "2026-10-20_fenerbahce-slavia-prague_3-1",
+    "date": "2026-10-20",
+    "ko": "18:45",
+    "match": "Fenerbahce v Slavia Prague",
+    "comp": "International, UEFA Champions League",
+    "cell": "3-1",
+    "lay": 12.5,
+    "stake": 3,
+    "created": "2026-10-20T18:16:48+02:00"
+  },
+  {
+    "id": "2026-10-20_al-nassr-neom-sports-club_3-1",
+    "date": "2026-10-20",
+    "ko": "20:00",
+    "match": "Al Nassr v NEOM Sports Club",
+    "comp": "Saudi Arabia, Saudi Professional League",
+    "cell": "3-1",
+    "lay": 14,
+    "stake": 3,
+    "created": "2026-10-20T18:16:48+02:00"
   }
 ]
