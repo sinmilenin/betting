@@ -1,2 +1,5 @@
-# Scan 2026-10-20 18:56 (Ljubljana) run 4: Regar-TadAZ id
-id:12268 v Al Qadsia | n=20 | xg=10
+# Scan 2026-10-20 19:41 (Ljubljana) run 1: new fixtures
+Millwall U21 v Sheffield United U21 | n=20 | xg=10
+Al Ettifaq v Al Ittihad | n=20 | xg=10
+Gillingham v Port Vale | n=20 | xg=10
+Ipswich U21 v Anderlecht | n=20 | xg=10
