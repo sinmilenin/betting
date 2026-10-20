@@ -1,0 +1,90 @@
+MATCH Exeter City v Crewe | fetched 2026-10-20 16:57 local
+
+FORM DATA Exeter City v Crewe | source API-Football | 2026-10-20 16:58 UTC
+H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
+
+=== Exeter City (id 1364): last 20 finished games ===
+2026-10-17 A 0-0 v Colchester | League Two | Colchester | xG 0.30-1.22
+2026-10-10 A 1-0 v Shrewsbury | League Two | Shrewsbury | xG 1.01-1.96
+2026-10-06 H 2-2 v Oxford United | EFL Trophy | Exeter [PEN, 90-min score shown]
+2026-10-03 H 1-0 v Rotherham | League Two | Exeter | xG 2.15-0.37
+2026-09-26 A 0-1 v Bristol Rovers | League Two | Bristol
+2026-09-22 A 2-2 v Cheltenham | EFL Trophy | Cheltenham [PEN, 90-min score shown]
+2026-09-19 H 0-0 v Tranmere | League Two | Exeter | xG 1.00-0.77
+2026-09-12 A 0-1 v Port Vale | League Two | Stoke-On-Trent | xG 0.32-2.47
+2026-09-08 H 2-0 v Tottenham Hotspur U21 | EFL Trophy | Exeter
+2026-09-05 H 0-0 v Walsall | League Two | Exeter | xG 1.94-0.74
+2026-09-01 H 1-1 v Barnet | League Two | Exeter
+2026-08-29 A 1-2 v York | League Two | York
+2026-08-22 H 2-0 v Accrington ST | League Two | Exeter
+2026-08-15 A 0-1 v Grimsby | League Two | Grimsby
+2026-08-10 A 0-2 v Plymouth | League Cup | Plymouth
+2026-08-01 H 1-1 v Bristol City | Friendlies Clubs | ?
+2026-07-31 A 1-2 v Torquay | Friendlies Clubs | ?
+2026-07-25 A 2-0 v Weston-super-Mare | Friendlies Clubs | ?
+2026-07-18 A 0-1 v Truro City | Friendlies Clubs | ?
+2026-05-02 H 1-2 v Bradford | League One | Exeter
+Listed home: 9 games, scored 10 (1.11), conceded 6 (0.67), blanks 2, clean sheets 5
+Listed away: 11 games, scored 7 (0.64), conceded 12 (1.09), blanks 6, clean sheets 3
+All: 20 games, scored 17 (0.85), conceded 18 (0.90), blanks 8, clean sheets 8
+
+=== Crewe (id 1363): last 20 finished games ===
+2026-10-17 H 3-2 v Rochdale | League Two | Crewe | xG 2.00-1.67
+2026-10-10 A 1-0 v Swindon Town | League Two | Swindon | xG 2.00-1.08
+2026-10-06 A 2-2 v Blackpool | EFL Trophy | Blackpool [PEN, 90-min score shown]
+2026-10-03 H 3-1 v Bristol Rovers | League Two | Crewe | xG 1.31-1.93
+2026-09-26 A 1-1 v Rotherham | League Two | Rotherham
+2026-09-22 H 4-1 v Aston Villa U21 | EFL Trophy | Crewe
+2026-09-19 H 1-1 v Shrewsbury | League Two | Crewe | xG 1.61-3.10
+2026-09-12 A 1-1 v Colchester | League Two | Colchester | xG 0.99-2.10
+2026-09-05 H 1-1 v York | League Two | Crewe | xG 1.89-3.39
+2026-09-01 H 2-2 v Walsall | League Two | Crewe | xG 2.33-2.13
+2026-08-29 A 0-0 v Port Vale | League Two | Stoke-On-Trent
+2026-08-25 A 2-3 v Barnsley | League Cup | Barnsley
+2026-08-22 H 1-0 v Northampton | League Two | Crewe
+2026-08-15 A 1-0 v Crawley Town | League Two | Crawley
+2026-08-08 H 2-1 v Accrington ST | League Cup | Crewe
+2026-08-01 A 0-0 v Chester | Friendlies Clubs | ?
+2026-07-25 H 1-2 v Birmingham | Friendlies Clubs | ?
+2026-07-21 A 3-0 v AFC Telford United | Friendlies Clubs | ?
+2026-07-18 H 1-1 v Stoke City | Friendlies Clubs | ?
+2026-07-11 A 3-2 v Witton Albion | Friendlies Clubs | ?
+Listed home: 10 games, scored 19 (1.90), conceded 12 (1.20), blanks 0, clean sheets 1
+Listed away: 10 games, scored 14 (1.40), conceded 9 (0.90), blanks 2, clean sheets 5
+All: 20 games, scored 33 (1.65), conceded 21 (1.05), blanks 2, clean sheets 6
+
+TABLE FOR Exeter City
+LEAGUE TABLE League Two 2026 | 24 teams | 126 games played
+League averages per game: home 1.50, away 0.98, total 2.48
+#   team                   Pts | home P GF-GA  | away P GF-GA  | all P GF-GA
+1   Salford City            22 |  6   7-3       |  5  10-8       | 11  17-11
+2   Barnet                  21 |  4  10-5       |  5  12-7       |  9  22-12
+3   Crewe                   21 |  6  11-7       |  5   4-2       | 11  15-9
+4   York                    16 |  5  13-4       |  5   5-8       | 10  18-12
+5   Walsall                 16 |  4   5-2       |  6   8-5       | 10  13-7
+6   Gillingham              16 |  5   6-4       |  6  10-9       | 11  16-13
+7   Chesterfield            15 |  5  10-7       |  6   7-8       | 11  17-15
+8   Cheltenham              15 |  5   9-8       |  6   8-12      | 11  17-20
+9   Bristol Rovers          15 |  5  10-6       |  6   5-12      | 11  15-18
+10  Accrington ST           14 |  6  12-7       |  5   4-8       | 11  16-15
+11  Newport County          14 |  6  10-5       |  5   4-8       | 11  14-13
+12  Fleetwood Town          14 |  6   7-4       |  5   5-7       | 11  12-11
+13  Rochdale                14 |  5   8-6       |  6   5-9       | 11  13-15
+14  Shrewsbury              14 |  6   7-6       |  5   3-9       | 11  10-15
+15  Grimsby                 13 |  6   8-6       |  5   5-7       | 11  13-13
+16  Exeter City             13 |  5   4-1       |  6   2-5       | 11   6-6
+17  Tranmere                12 |  6   9-6       |  5   5-9       | 11  14-15
+18  Swindon Town            12 |  6  10-6       |  5   0-9       | 11  10-15
+19  Oldham                  11 |  6  11-7       |  4   2-7       | 10  13-14
+20  Colchester              11 |  5   5-3       |  5   5-10      | 10  10-13
+21  Port Vale               11 |  5   4-1       |  4   1-8       |  9   5-9
+22  Northampton             10 |  4   2-2       |  5   4-5       |  9   6-7
+23  Rotherham               10 |  5   8-10      |  6   4-8       | 11  12-18
+24  Crawley Town             5 |  4   3-8       |  5   6-9       |  9   9-17
+
+(Crewe: same table as Exeter City, shown above)
+
+(24 API-Football requests used)
+
+----------------------------------------------------------------------
+MATCHBOOK: skipped (switched off for this run)

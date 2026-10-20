@@ -1,0 +1,13 @@
+MATCH Wolves v Portsmouth | fetched 2026-10-20 16:57 local
+
+FORM DATA Wolves v Portsmouth | source API-Football | 2026-10-20 16:58 UTC
+H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
+
+!! Wolves: API-Football error: HTTP 429 from API-Football
+
+!! Portsmouth: API-Football error: HTTP 429 from API-Football
+
+(0 API-Football requests used)
+
+----------------------------------------------------------------------
+MATCHBOOK: skipped (switched off for this run)

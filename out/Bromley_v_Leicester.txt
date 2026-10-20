@@ -1,0 +1,90 @@
+MATCH Bromley v Leicester | fetched 2026-10-20 16:57 local
+
+FORM DATA Bromley v Leicester | source API-Football | 2026-10-20 16:58 UTC
+H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
+
+=== Bromley (id 1832): last 20 finished games ===
+2026-10-17 A 0-1 v Stockport County | League One | Stockport | xG 0.28-1.49
+2026-10-10 A 1-2 v Mansfield Town | League One | Mansfield | xG 0.89-2.45
+2026-10-06 A 0-4 v Crawley Town | EFL Trophy | Crawley
+2026-09-22 H 0-1 v Brentford U21 | EFL Trophy | London
+2026-09-19 H 2-1 v Huddersfield | League One | London | xG 0.38-2.67
+2026-09-12 A 2-2 v Blackpool | League One | Blackpool | xG 1.14-1.12
+2026-09-07 H 0-2 v AFC Wimbledon | League One | London | xG 0.61-1.10
+2026-09-01 H 0-5 v Leyton Orient | League One | London | xG 0.63-1.67
+2026-08-29 A 2-7 v Sheffield Wednesday | League One | Sheffield | xG 1.50-4.52
+2026-08-22 H 1-1 v Cambridge United | League One | London | xG 0.61-0.76
+2026-08-15 A 1-0 v Barnsley | League One | Barnsley
+2026-08-08 H 1-1 v Reading | League Cup | London [PEN, 90-min score shown]
+2026-08-01 A 1-1 v Barnet | Friendlies Clubs | ?
+2026-07-31 H 0-7 v QPR | Friendlies Clubs | ?
+2026-07-28 H 1-1 v Millwall | Friendlies Clubs | ?
+2026-07-25 H 3-0 v Crystal Palace | Friendlies Clubs | London
+2026-07-17 A 1-4 v West Brom | Friendlies Clubs | Albufeira
+2026-07-04 A 0-4 v Carshalton Athletic | Friendlies Clubs | ?
+2026-05-02 H 3-1 v Walsall | League Two | London
+2026-04-23 A 0-2 v Salford City | League Two | Salford
+Listed home: 10 games, scored 11 (1.10), conceded 20 (2.00), blanks 4, clean sheets 1
+Listed away: 10 games, scored 8 (0.80), conceded 27 (2.70), blanks 4, clean sheets 1
+All: 20 games, scored 19 (0.95), conceded 47 (2.35), blanks 8, clean sheets 2
+
+=== Leicester (id 46): last 20 finished games ===
+2026-10-17 H 2-1 v Doncaster | League One | Leicester | xG 1.76-0.60
+2026-10-10 H 1-3 v Peterborough | League One | Leicester | xG 2.60-1.70
+2026-10-06 A 1-2 v Stevenage | EFL Trophy | Stevenage
+2026-09-22 H 6-1 v Fulham U21 | EFL Trophy | Leicester
+2026-09-19 A 1-1 v Barnsley | League One | Barnsley | xG 2.40-1.18
+2026-09-12 A 4-3 v Stockport County | League One | Stockport | xG 1.08-2.08
+2026-09-05 H 0-4 v Oxford United | League One | Leicester | xG 1.03-2.31
+2026-09-01 H 2-0 v Plymouth | League One | Leicester | xG 1.49-1.15
+2026-08-29 A 0-0 v Milton Keynes Dons | League One | Milton Keynes | xG 1.53-0.57
+2026-08-25 A 1-3 v Ipswich | League Cup | Ipswich
+2026-08-22 H 1-2 v Burton Albion | League One | Leicester
+2026-08-15 A 1-1 v Notts County | League One | Nottingham
+2026-08-08 H 1-0 v Northampton | League Cup | Leicester
+2026-08-01 H 0-1 v Genoa | Friendlies Clubs | ?
+2026-07-25 A 3-3 v Malaga | Friendlies Clubs | Algeciras
+2026-07-22 A 1-0 v Cadiz | Friendlies Clubs | Algeciras
+2026-07-18 A 3-0 v Burton Albion | Friendlies Clubs | ?
+2026-07-14 A 2-1 v Bristol Rovers | Friendlies Clubs | ?
+2026-07-11 H 3-0 v Northampton | Friendlies Clubs | ?
+2026-05-02 A 1-0 v Blackburn | Championship | Blackburn
+Listed home: 9 games, scored 16 (1.78), conceded 12 (1.33), blanks 2, clean sheets 3
+Listed away: 11 games, scored 18 (1.64), conceded 14 (1.27), blanks 1, clean sheets 4
+All: 20 games, scored 34 (1.70), conceded 26 (1.30), blanks 3, clean sheets 7
+
+TABLE FOR Bromley
+LEAGUE TABLE League One 2026 | 24 teams | 114 games played
+League averages per game: home 1.51, away 1.33, total 2.84
+#   team                   Pts | home P GF-GA  | away P GF-GA  | all P GF-GA
+1   Bradford                20 |  5   6-2       |  5   4-3       | 10  10-5
+2   Stockport County        19 |  6  14-8       |  4   7-3       | 10  21-11
+3   Huddersfield            19 |  4   9-4       |  6   9-5       | 10  18-9
+4   Plymouth                19 |  6   8-7       |  5  10-7       | 11  18-14
+5   Cambridge United        19 |  5   8-6       |  5   8-6       | 10  16-12
+6   Sheffield Wednesday     18 |  5  12-3       |  4   8-5       |  9  20-8
+7   Reading                 15 |  5  14-6       |  5   8-6       | 10  22-12
+8   Oxford United           15 |  3   6-3       |  5  10-6       |  8  16-9
+9   Leyton Orient           14 |  6   7-10      |  4   8-1       | 10  15-11
+10  Burton Albion           13 |  5  10-9       |  6   6-9       | 11  16-18
+11  Wycombe                 13 |  6  10-12      |  4   6-8       | 10  16-20
+12  Stevenage               12 |  4   6-5       |  5   6-5       |  9  12-10
+13  Mansfield Town          12 |  5  10-5       |  4   3-10      |  9  13-15
+14  Leicester               12 |  5   6-10      |  4   6-5       |  9  12-15
+15  AFC Wimbledon           12 |  4   2-0       |  6   5-15      | 10   7-15
+16  Luton                   11 |  4   5-4       |  5  12-13      |  9  17-17
+17  Doncaster                9 |  4   4-4       |  5   6-7       |  9  10-11
+18  Milton Keynes Dons       9 |  5   5-8       |  4   6-8       |  9  11-16
+19  Peterborough             9 |  5   5-7       |  5   4-9       | 10   9-16
+20  Blackpool                8 |  4   9-7       |  5   4-9       |  9  13-16
+21  Barnsley                 8 |  5   5-10      |  4   4-7       |  9   9-17
+22  Bromley                  8 |  4   3-9       |  5   6-12      |  9   9-21
+23  Notts County             7 |  4   4-5       |  5   4-8       |  9   8-13
+24  Wigan                    7 |  5   4-8       |  4   2-5       |  9   6-13
+
+(Leicester: same table as Bromley, shown above)
+
+(24 API-Football requests used)
+
+----------------------------------------------------------------------
+MATCHBOOK: skipped (switched off for this run)

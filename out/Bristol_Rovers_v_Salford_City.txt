@@ -1,0 +1,90 @@
+MATCH Bristol Rovers v Salford City | fetched 2026-10-20 16:57 local
+
+FORM DATA Bristol Rovers v Salford City | source API-Football | 2026-10-20 16:58 UTC
+H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
+
+=== Bristol Rovers (id 1334): last 20 finished games ===
+2026-10-17 A 0-1 v Shrewsbury | League Two | Shrewsbury | xG 0.53-1.66
+2026-10-10 H 1-3 v Barnet | League Two | Bristol | xG 2.39-2.65
+2026-10-06 A 1-4 v Wycombe | EFL Trophy | High Wycombe
+2026-10-03 A 1-3 v Crewe | League Two | Crewe | xG 1.93-1.31
+2026-09-26 H 1-0 v Exeter City | League Two | Bristol
+2026-09-19 A 0-3 v Gillingham | League Two | Gillingham | xG 0.88-2.29
+2026-09-12 A 0-2 v Grimsby | League Two | Grimsby | xG 0.12-1.19
+2026-09-05 H 1-0 v Rotherham | League Two | Bristol | xG 1.35-1.39
+2026-09-01 H 2-0 v Colchester | League Two | Bristol | xG 3.03-0.79
+2026-08-29 A 2-0 v Crawley Town | League Two | Crawley | xG 4.36-0.85
+2026-08-25 H 2-2 v Chelsea U21 | EFL Trophy | Bristol [PEN, 90-min score shown]
+2026-08-22 H 5-3 v Newport County | League Two | Bristol
+2026-08-15 A 2-3 v York | League Two | York
+2026-08-08 H 0-1 v Peterborough | League Cup | Bristol
+2026-07-21 A 2-2 v Forest Green | Friendlies Clubs | ?
+2026-07-18 H 1-1 v Portsmouth | Friendlies Clubs | ?
+2026-07-14 H 1-2 v Leicester | Friendlies Clubs | ?
+2026-07-11 A 3-2 v Salisbury | Friendlies Clubs | ?
+2026-07-07 A 3-0 v Weston-super-Mare | Friendlies Clubs | ?
+2026-05-02 A 1-1 v Notts County | League Two | Nottingham
+Listed home: 9 games, scored 14 (1.56), conceded 12 (1.33), blanks 1, clean sheets 3
+Listed away: 11 games, scored 15 (1.36), conceded 21 (1.91), blanks 3, clean sheets 2
+All: 20 games, scored 29 (1.45), conceded 33 (1.65), blanks 4, clean sheets 5
+
+=== Salford City (id 1844): last 20 finished games ===
+2026-10-17 H 2-1 v Crawley Town | League Two | Salford | xG 2.72-0.58
+2026-10-10 A 2-0 v Cheltenham | League Two | Cheltenham | xG 1.54-0.16
+2026-10-06 A 1-1 v Accrington ST | EFL Trophy | Accrington [PEN, 90-min score shown]
+2026-10-03 H 1-0 v Fleetwood Town | League Two | Salford
+2026-09-26 A 4-1 v Oldham | League Two | Oldham
+2026-09-22 H 1-2 v Sheffield Wednesday | EFL Trophy | Salford
+2026-09-19 H 1-0 v Swindon Town | League Two | Salford | xG 2.11-1.13
+2026-09-12 A 3-3 v Rotherham | League Two | Rotherham | xG 1.78-3.60
+2026-09-05 H 1-0 v Port Vale | League Two | Salford | xG 0.39-0.64
+2026-09-01 H 2-1 v Newport County | League Two | Salford | xG 3.33-0.21
+2026-08-29 A 0-1 v Shrewsbury | League Two | Shrewsbury
+2026-08-22 H 0-1 v Chesterfield | League Two | Salford
+2026-08-15 A 1-3 v Barnet | League Two | London
+2026-08-08 H 1-1 v Shrewsbury | League Cup | Salford [PEN, 90-min score shown]
+2026-08-01 H 2-2 v Bradford | Friendlies Clubs | ?
+2026-07-28 A 2-0 v Carlisle | Friendlies Clubs | ?
+2026-07-25 H 3-2 v Dundee Utd | Friendlies Clubs | ?
+2026-07-18 A 4-1 v United of Manchester | Friendlies Clubs | ?
+2026-05-25 A 0-3 v Notts County | League Two | London
+2026-05-15 H 1-2 v Grimsby | League Two | Salford [AET, 90-min score shown]
+Listed home: 11 games, scored 15 (1.36), conceded 12 (1.09), blanks 1, clean sheets 3
+Listed away: 9 games, scored 17 (1.89), conceded 13 (1.44), blanks 2, clean sheets 2
+All: 20 games, scored 32 (1.60), conceded 25 (1.25), blanks 3, clean sheets 5
+
+TABLE FOR Bristol Rovers
+LEAGUE TABLE League Two 2026 | 24 teams | 126 games played
+League averages per game: home 1.50, away 0.98, total 2.48
+#   team                   Pts | home P GF-GA  | away P GF-GA  | all P GF-GA
+1   Salford City            22 |  6   7-3       |  5  10-8       | 11  17-11
+2   Barnet                  21 |  4  10-5       |  5  12-7       |  9  22-12
+3   Crewe                   21 |  6  11-7       |  5   4-2       | 11  15-9
+4   York                    16 |  5  13-4       |  5   5-8       | 10  18-12
+5   Walsall                 16 |  4   5-2       |  6   8-5       | 10  13-7
+6   Gillingham              16 |  5   6-4       |  6  10-9       | 11  16-13
+7   Chesterfield            15 |  5  10-7       |  6   7-8       | 11  17-15
+8   Cheltenham              15 |  5   9-8       |  6   8-12      | 11  17-20
+9   Bristol Rovers          15 |  5  10-6       |  6   5-12      | 11  15-18
+10  Accrington ST           14 |  6  12-7       |  5   4-8       | 11  16-15
+11  Newport County          14 |  6  10-5       |  5   4-8       | 11  14-13
+12  Fleetwood Town          14 |  6   7-4       |  5   5-7       | 11  12-11
+13  Rochdale                14 |  5   8-6       |  6   5-9       | 11  13-15
+14  Shrewsbury              14 |  6   7-6       |  5   3-9       | 11  10-15
+15  Grimsby                 13 |  6   8-6       |  5   5-7       | 11  13-13
+16  Exeter City             13 |  5   4-1       |  6   2-5       | 11   6-6
+17  Tranmere                12 |  6   9-6       |  5   5-9       | 11  14-15
+18  Swindon Town            12 |  6  10-6       |  5   0-9       | 11  10-15
+19  Oldham                  11 |  6  11-7       |  4   2-7       | 10  13-14
+20  Colchester              11 |  5   5-3       |  5   5-10      | 10  10-13
+21  Port Vale               11 |  5   4-1       |  4   1-8       |  9   5-9
+22  Northampton             10 |  4   2-2       |  5   4-5       |  9   6-7
+23  Rotherham               10 |  5   8-10      |  6   4-8       | 11  12-18
+24  Crawley Town             5 |  4   3-8       |  5   6-9       |  9   9-17
+
+(Salford City: same table as Bristol Rovers, shown above)
+
+(24 API-Football requests used)
+
+----------------------------------------------------------------------
+MATCHBOOK: skipped (switched off for this run)

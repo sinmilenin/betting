@@ -1,3 +1,34 @@
-RUN 2026-10-20 16:14 local | 1 match(es)
-id:2939 v NEOM -> out/id_2939_v_NEOM.txt
-Requests used: API-Football 26, Matchbook 0
+RUN 2026-10-20 16:57 local | 22 match(es)
+Regar-TadAZ v Al Qadsia -> out/Regar_TadAZ_v_Al_Qadsia.txt
+    !! Regar-TadAZ: API-Football error: {"search": "The Search field may only contain alpha-numeric characters and spaces."}
+Burton Albion v Bradford -> out/Burton_Albion_v_Bradford.txt
+Rotherham v Newport County -> out/Rotherham_v_Newport_County.txt
+Doncaster v Stockport County -> out/Doncaster_v_Stockport_County.txt
+Barnet v Swindon Town -> out/Barnet_v_Swindon_Town.txt
+Blackpool v MK Dons -> out/Blackpool_v_MK_Dons.txt
+    !! MK Dons: No team found for "MK Dons".
+Bromley v Leicester -> out/Bromley_v_Leicester.txt
+Luton v Barnsley -> out/Luton_v_Barnsley.txt
+Oxford United v Wigan -> out/Oxford_United_v_Wigan.txt
+Stevenage v Plymouth -> out/Stevenage_v_Plymouth.txt
+Notts County v Sheffield Wednesday -> out/Notts_County_v_Sheffield_Wednesday.txt
+Cambridge United v Wycombe -> out/Cambridge_United_v_Wycombe.txt
+Bristol Rovers v Salford City -> out/Bristol_Rovers_v_Salford_City.txt
+Cheltenham v Fleetwood Town -> out/Cheltenham_v_Fleetwood_Town.txt
+Chesterfield v Colchester -> out/Chesterfield_v_Colchester.txt
+Exeter City v Crewe -> out/Exeter_City_v_Crewe.txt
+Crawley Town v Shrewsbury -> out/Crawley_Town_v_Shrewsbury.txt
+Rochdale v Grimsby -> out/Rochdale_v_Grimsby.txt
+York City v Accrington -> out/York_City_v_Accrington.txt
+    !! York City: API-Football error: HTTP 429 from API-Football
+    !! Accrington: API-Football error: HTTP 429 from API-Football
+Wolves v Portsmouth -> out/Wolves_v_Portsmouth.txt
+    !! Wolves: API-Football error: HTTP 429 from API-Football
+    !! Portsmouth: API-Football error: HTTP 429 from API-Football
+AFC Wimbledon v Mansfield -> out/AFC_Wimbledon_v_Mansfield.txt
+    !! AFC Wimbledon: API-Football error: HTTP 429 from API-Football
+    !! Mansfield: API-Football error: HTTP 429 from API-Football
+Huddersfield v Peterborough -> out/Huddersfield_v_Peterborough.txt
+    !! Huddersfield: API-Football error: HTTP 429 from API-Football
+    !! Peterborough: API-Football error: HTTP 429 from API-Football
+Requests used: API-Football 412, Matchbook 0

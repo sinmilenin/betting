@@ -1,0 +1,90 @@
+MATCH Luton v Barnsley | fetched 2026-10-20 16:57 local
+
+FORM DATA Luton v Barnsley | source API-Football | 2026-10-20 16:58 UTC
+H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
+
+=== Luton (id 1359): last 20 finished games ===
+2026-10-17 A 1-2 v Milton Keynes Dons | League One | Milton Keynes | xG 1.54-1.45
+2026-10-10 A 4-1 v Wycombe | League One | High Wycombe | xG 2.93-1.96
+2026-10-03 A 1-1 v Colchester | EFL Trophy | Colchester [PEN, 90-min score shown]
+2026-09-22 H 6-0 v Ipswich Town U21 | EFL Trophy | Luton
+2026-09-19 H 0-1 v Bradford | League One | Luton | xG 0.83-0.29
+2026-09-10 A 1-2 v Stevenage | League One | Stevenage | xG 0.83-1.28
+2026-09-05 H 1-1 v Leyton Orient | League One | Luton | xG 2.21-0.56
+2026-09-02 H 2-0 v Stockport County | League One | Luton | xG 1.40-0.84
+2026-08-30 A 2-5 v Mansfield Town | League One | Mansfield | xG 1.35-1.37
+2026-08-27 A 0-2 v Chelsea | League Cup | London | xG 0.50-3.19
+2026-08-22 H 2-2 v Notts County | League One | Luton
+2026-08-15 A 4-3 v Reading | League One | Reading
+2026-08-08 A 3-0 v Gillingham | League Cup | Gillingham
+2026-08-02 H 0-1 v GO Ahead Eagles | Friendlies Clubs | ?
+2026-07-25 H 2-0 v Al Kholood | Friendlies Clubs | ?
+2026-07-18 A 2-2 v Barnet | Friendlies Clubs | ?
+2026-07-11 A 5-0 v Hitchin Town | Friendlies Clubs | ?
+2026-05-02 A 3-2 v Bolton | League One | Bolton
+2026-04-25 H 2-1 v Barnsley | League One | Luton
+2026-04-21 A 2-0 v Rotherham | League One | Rotherham
+Listed home: 8 games, scored 15 (1.88), conceded 6 (0.75), blanks 2, clean sheets 3
+Listed away: 12 games, scored 28 (2.33), conceded 20 (1.67), blanks 1, clean sheets 3
+All: 20 games, scored 43 (2.15), conceded 26 (1.30), blanks 3, clean sheets 6
+
+=== Barnsley (id 747): last 20 finished games ===
+2026-10-17 H 1-2 v Cambridge United | League One | Barnsley | xG 2.25-2.19
+2026-10-10 A 1-3 v Stockport County | League One | Stockport | xG 1.58-1.91
+2026-10-06 A 1-4 v Fleetwood Town | EFL Trophy | Fleetwood
+2026-09-22 H 3-4 v Leeds United U21 | EFL Trophy | Barnsley
+2026-09-19 H 1-1 v Leicester | League One | Barnsley | xG 1.18-2.40
+2026-09-15 A 3-3 v Peterborough | League Cup | Peterborough [PEN, 90-min score shown]
+2026-09-12 A 0-3 v Plymouth | League One | Plymouth | xG 0.79-0.51
+2026-09-05 H 1-5 v Stevenage | League One | Barnsley | xG 1.83-1.93
+2026-09-02 H 2-1 v Blackpool | League One | Barnsley | xG 1.97-2.32
+2026-08-29 A 3-1 v Leyton Orient | League One | London | xG 1.99-0.73
+2026-08-25 H 3-2 v Crewe | League Cup | Barnsley
+2026-08-22 A 0-0 v Doncaster | League One | Doncaster
+2026-08-15 H 0-1 v Bromley | League One | Barnsley
+2026-08-08 H 1-1 v Wigan | League Cup | Barnsley [PEN, 90-min score shown]
+2026-08-02 A 1-1 v Guiseley AFC | Friendlies Clubs | ?
+2026-08-01 H 3-0 v Lincoln | Friendlies Clubs | ?
+2026-07-25 A 2-0 v Scarborough Athletic | Friendlies Clubs | ?
+2026-07-18 A 0-3 v Blackburn | Friendlies Clubs | ?
+2026-07-11 A 1-2 v York | Friendlies Clubs | ?
+2026-07-04 A 2-0 v Matlock Town | Friendlies Clubs | ?
+Listed home: 9 games, scored 15 (1.67), conceded 17 (1.89), blanks 1, clean sheets 1
+Listed away: 11 games, scored 14 (1.27), conceded 20 (1.82), blanks 3, clean sheets 3
+All: 20 games, scored 29 (1.45), conceded 37 (1.85), blanks 4, clean sheets 4
+
+TABLE FOR Luton
+LEAGUE TABLE League One 2026 | 24 teams | 114 games played
+League averages per game: home 1.51, away 1.33, total 2.84
+#   team                   Pts | home P GF-GA  | away P GF-GA  | all P GF-GA
+1   Bradford                20 |  5   6-2       |  5   4-3       | 10  10-5
+2   Stockport County        19 |  6  14-8       |  4   7-3       | 10  21-11
+3   Huddersfield            19 |  4   9-4       |  6   9-5       | 10  18-9
+4   Plymouth                19 |  6   8-7       |  5  10-7       | 11  18-14
+5   Cambridge United        19 |  5   8-6       |  5   8-6       | 10  16-12
+6   Sheffield Wednesday     18 |  5  12-3       |  4   8-5       |  9  20-8
+7   Reading                 15 |  5  14-6       |  5   8-6       | 10  22-12
+8   Oxford United           15 |  3   6-3       |  5  10-6       |  8  16-9
+9   Leyton Orient           14 |  6   7-10      |  4   8-1       | 10  15-11
+10  Burton Albion           13 |  5  10-9       |  6   6-9       | 11  16-18
+11  Wycombe                 13 |  6  10-12      |  4   6-8       | 10  16-20
+12  Stevenage               12 |  4   6-5       |  5   6-5       |  9  12-10
+13  Mansfield Town          12 |  5  10-5       |  4   3-10      |  9  13-15
+14  Leicester               12 |  5   6-10      |  4   6-5       |  9  12-15
+15  AFC Wimbledon           12 |  4   2-0       |  6   5-15      | 10   7-15
+16  Luton                   11 |  4   5-4       |  5  12-13      |  9  17-17
+17  Doncaster                9 |  4   4-4       |  5   6-7       |  9  10-11
+18  Milton Keynes Dons       9 |  5   5-8       |  4   6-8       |  9  11-16
+19  Peterborough             9 |  5   5-7       |  5   4-9       | 10   9-16
+20  Blackpool                8 |  4   9-7       |  5   4-9       |  9  13-16
+21  Barnsley                 8 |  5   5-10      |  4   4-7       |  9   9-17
+22  Bromley                  8 |  4   3-9       |  5   6-12      |  9   9-21
+23  Notts County             7 |  4   4-5       |  5   4-8       |  9   8-13
+24  Wigan                    7 |  5   4-8       |  4   2-5       |  9   6-13
+
+(Barnsley: same table as Luton, shown above)
+
+(24 API-Football requests used)
+
+----------------------------------------------------------------------
+MATCHBOOK: skipped (switched off for this run)

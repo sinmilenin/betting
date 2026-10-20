@@ -1,0 +1,13 @@
+MATCH AFC Wimbledon v Mansfield | fetched 2026-10-20 16:57 local
+
+FORM DATA AFC Wimbledon v Mansfield | source API-Football | 2026-10-20 16:58 UTC
+H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
+
+!! AFC Wimbledon: API-Football error: HTTP 429 from API-Football
+
+!! Mansfield: API-Football error: HTTP 429 from API-Football
+
+(0 API-Football requests used)
+
+----------------------------------------------------------------------
+MATCHBOOK: skipped (switched off for this run)

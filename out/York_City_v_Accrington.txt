@@ -1,0 +1,13 @@
+MATCH York City v Accrington | fetched 2026-10-20 16:57 local
+
+FORM DATA York City v Accrington | source API-Football | 2026-10-20 16:58 UTC
+H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
+
+!! York City: API-Football error: HTTP 429 from API-Football
+
+!! Accrington: API-Football error: HTTP 429 from API-Football
+
+(0 API-Football requests used)
+
+----------------------------------------------------------------------
+MATCHBOOK: skipped (switched off for this run)
