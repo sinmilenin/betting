@@ -1,3 +1,5 @@
-RUN 2026-10-20 13:57 local | 1 match(es)
-ASA Targu Mures v Chindia Targoviste -> out/ASA_Targu_Mures_v_Chindia_Targoviste.txt
-Requests used: API-Football 25, Matchbook 0
+RUN 2026-10-20 14:43 local | 2 match(es)
+Al Draih v Al Riyadh -> out/Al_Draih_v_Al_Riyadh.txt
+Al Ittihad Aleppo v Ahal -> out/Al_Ittihad_Aleppo_v_Ahal.txt
+    !! Al Ittihad Aleppo: No team found for "Al Ittihad Aleppo".
+Requests used: API-Football 41, Matchbook 0
