@@ -22,17 +22,6 @@
     "created": "2026-10-21T10:17:41+00:00"
   },
   {
-    "id": "2026-10-21_police-tero-surin-city-fc_3-1",
-    "date": "2026-10-21",
-    "ko": "13:30",
-    "match": "Police Tero v Surin City FC",
-    "comp": "Thailand, Thai Cup",
-    "cell": "3-1",
-    "lay": 14.5,
-    "stake": 3,
-    "created": "2026-10-21T11:01:30+00:00"
-  },
-  {
     "id": "2026-10-21_osc-lille-u19-galatasaray-u19_3-2",
     "date": "2026-10-21",
     "ko": "14:00",
@@ -361,5 +350,38 @@
     "lay": 18,
     "stake": 3,
     "created": "2026-10-21T17:01:28Z"
+  },
+  {
+    "id": "2026-10-21_everton-w-newcastle-utd-w_3-0",
+    "date": "2026-10-21",
+    "ko": "20:00",
+    "match": "Everton (W) v Newcastle Utd (W)",
+    "comp": "United Kingdom, English Ladies League Cup",
+    "cell": "3-0",
+    "lay": 15,
+    "stake": 3,
+    "created": "2026-10-21T17:47:52Z"
+  },
+  {
+    "id": "2026-10-21_everton-w-newcastle-utd-w_3-1",
+    "date": "2026-10-21",
+    "ko": "20:00",
+    "match": "Everton (W) v Newcastle Utd (W)",
+    "comp": "United Kingdom, English Ladies League Cup",
+    "cell": "3-1",
+    "lay": 15.5,
+    "stake": 3,
+    "created": "2026-10-21T17:47:52Z"
+  },
+  {
+    "id": "2026-10-21_sporting-lisbon-lask-linz_3-1",
+    "date": "2026-10-21",
+    "ko": "21:00",
+    "match": "Sporting Lisbon v Lask Linz",
+    "comp": "International, UEFA Champions League",
+    "cell": "3-1",
+    "lay": 11.5,
+    "stake": 3,
+    "created": "2026-10-21T17:47:52Z"
   }
 ]
