@@ -1,0 +1,61 @@
+MATCH Kamatamare Sanuki v Zweigen Kanazawa | fetched 2026-10-21 08:42 local
+
+FORM DATA Kamatamare Sanuki v Zweigen Kanazawa | source API-Football | 2026-10-21 08:43 UTC
+H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
+
+=== Kamatamare Sanuki (id 317): last 20 finished games ===
+2026-10-18 H 0-3 v Roasso Kumamoto | J3 League | Marugame
+2026-10-09 A 2-3 v Sagamihara | J3 League | Sagamihara
+2026-10-04 H 0-0 v Tochigi SC | J3 League | Marugame
+2026-09-26 H 3-4 v FC Gifu | J3 League | Marugame
+2026-09-19 A 1-2 v Ehime FC | J3 League | Matsuyama
+2026-09-13 A 0-1 v FC Ryukyu | J3 League | Okinawa
+2026-09-09 H 0-2 v JEF United Chiba | J-League Cup | Marugame
+2026-09-05 H 0-3 v Biwako Shiga | J3 League | Marugame
+2026-08-29 H 3-4 v Kagoshima United | J3 League | Marugame
+2026-08-23 A 1-2 v Kochi United | J3 League | Kochi
+2026-08-19 A 1-1 v Veroskronos Tsuno | Emperor Cup | ? [AET, 90-min score shown]
+2026-08-15 A 0-0 v Kitakyushu | J3 League | Kitakyushu
+2026-08-09 A 2-1 v Fukushima United | J3 League | Fukushima
+2026-06-05 H 0-0 v Parceiro Nagano | J2/J3 League | Marugame [PEN, 90-min score shown]
+2026-05-31 H 3-1 v Kitakyushu | J2/J3 League | Marugame
+2026-05-24 H 2-2 v Osaka | J2/J3 League | Marugame [PEN, 90-min score shown]
+2026-05-17 A 2-1 v Imabari | J2/J3 League | Imabari
+2026-05-10 H 0-3 v Kochi United | J2/J3 League | Marugame
+2026-05-06 A 1-1 v Kataller Toyama | J2/J3 League | Toyama [PEN, 90-min score shown]
+2026-05-03 A 1-2 v Albirex Niigata | J2/J3 League | Niigata
+Listed home: 10 games, scored 11 (1.10), conceded 22 (2.20), blanks 6, clean sheets 2
+Listed away: 10 games, scored 11 (1.10), conceded 14 (1.40), blanks 2, clean sheets 1
+All: 20 games, scored 22 (1.10), conceded 36 (1.80), blanks 8, clean sheets 3
+
+!! Zweigen Kanazawa: No team found for "Zweigen Kanazawa".
+
+TABLE FOR Kamatamare Sanuki
+LEAGUE TABLE J3 League 2026 | 20 teams | 113 games played
+League averages per game: home 1.50, away 1.32, total 2.82
+#   team                   Pts | home P GF-GA  | away P GF-GA  | all P GF-GA
+1   Kagoshima United        26 |  6  13-6       |  5  10-7       | 11  23-13
+2   Ehime FC                23 |  5  17-5       |  6   9-9       | 11  26-14
+3   Renofa Yamaguchi        23 |  5   7-2       |  6   9-5       | 11  16-7
+4   Nara Club               23 |  5  12-6       |  6  10-10      | 11  22-16
+5   Sagamihara              21 |  6   8-6       |  5  12-6       | 11  20-12
+6   FC Gifu                 19 |  5  12-4       |  6   9-6       | 11  21-10
+7   Osaka                   17 |  5  13-7       |  6   6-5       | 11  19-12
+8   Roasso Kumamoto         17 |  5   2-5       |  6   8-1       | 11  10-6
+9   Parceiro Nagano         17 |  7   6-6       |  5  10-10      | 12  16-16
+10  FC Ryukyu               17 |  6   8-4       |  6   5-10      | 12  13-14
+11  Kanazawa                14 |  5   9-8       |  6   8-7       | 11  17-15
+12  Biwako Shiga            14 |  6   4-8       |  6  12-11      | 12  16-19
+13  Gainare Tottori         14 |  6   6-10      |  5   7-10      | 11  13-20
+14  Tochigi SC              13 |  6   9-7       |  6   3-9       | 12  12-16
+15  Kitakyushu              13 |  6   9-7       |  6   7-14      | 12  16-21
+16  Matsumoto Yamaga        11 |  6   6-9       |  5   4-4       | 11  10-13
+17  Fukushima United        11 |  6  12-12      |  6  10-15      | 12  22-27
+18  Thespakusatsu Gunma     10 |  6   7-12      |  5   4-8       | 11  11-20
+19  Kamatamare Sanuki        5 |  5   6-14      |  6   6-9       | 11  12-23
+20  Kochi United             5 |  6   4-11      |  5   0-14      | 11   4-25
+
+(13 API-Football requests used)
+
+----------------------------------------------------------------------
+MATCHBOOK: skipped (switched off for this run)
