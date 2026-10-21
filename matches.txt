@@ -1,3 +1,2 @@
-# Scan 2026-10-21 11:26 (Ljubljana), run 2: corrected names
-Vegalta Sendai v Imabari | n=20 | xg=10
-Shimizu S pulse v Machida Zelvia | n=20 | xg=10
+# Scan 2026-10-21 11:26 (Ljubljana), run 3: Shimizu
+Shimizu v Machida Zelvia | n=20 | xg=10
