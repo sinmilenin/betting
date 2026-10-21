@@ -1,6 +1,6 @@
-MATCH Deportivo La Guaira v Aragua | fetched 2026-10-21 20:23 local
+MATCH Deportivo La Guaira v Aragua FC | fetched 2026-10-21 20:26 local
 
-FORM DATA Deportivo La Guaira v Aragua | source API-Football | 2026-10-21 20:23 UTC
+FORM DATA Deportivo La Guaira v Aragua FC | source API-Football | 2026-10-21 20:26 UTC
 H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
 
 === Deportivo La Guaira (id 2813): last 20 finished games ===
@@ -28,60 +28,30 @@ Listed home: 11 games, scored 16 (1.45), conceded 20 (1.82), blanks 3, clean she
 Listed away: 9 games, scored 13 (1.44), conceded 9 (1.00), blanks 2, clean sheets 2
 All: 20 games, scored 29 (1.45), conceded 29 (1.45), blanks 5, clean sheets 4
 
-"Aragua" matches several teams. Use id:<number> instead of the name:
-  id:1174   Club Guarani (Paraguay)
-  id:1175   Nacional Asuncion (Paraguay)
-  id:1176   Cerro Porteno (Paraguay)
-  id:1177   SOL DE America (Paraguay)
-  id:1178   General Diaz (Paraguay)
-  id:1179   Libertad Asuncion (Paraguay)
-  id:1180   Deportivo Capiata (Paraguay)
-  id:1181   General Caballero (Paraguay)
-  id:1182   Olimpia (Paraguay)
-  id:1183   Sportivo Luqueno (Paraguay)
-  id:1184   Club River Plate (Paraguay)
-  id:1185   Rubio NU (Paraguay)
-  id:1186   Independiente F.b.c. (Paraguay)
-  id:1187   Sportivo Trinidense (Paraguay)
-  id:1188   3 de Febrero (Paraguay)
-  id:1189   Deportivo Santani (Paraguay)
-  id:2125   Club Sp. San Lorenzo (Paraguay)
-  id:2126   Deportivo Caaguazu (Paraguay)
-  id:2127   Olimpia De Ita (Paraguay)
-  id:2128   Ovetense FC (Paraguay)
-  id:2129   Sport Colombia (Paraguay)
-  id:2130   Fernando De La Mora (Paraguay)
-  id:2131   Caacupe FBC (Paraguay)
-  id:2132   Cristobal Colon (Paraguay)
-  id:2133   Deportivo Liberacion (Paraguay)
-(retrying Aragua using the opponent's country, Venezuela)
-"Aragua" matches several teams. Use id:<number> instead of the name:
-  id:1174   Club Guarani (Paraguay)
-  id:1175   Nacional Asuncion (Paraguay)
-  id:1176   Cerro Porteno (Paraguay)
-  id:1177   SOL DE America (Paraguay)
-  id:1178   General Diaz (Paraguay)
-  id:1179   Libertad Asuncion (Paraguay)
-  id:1180   Deportivo Capiata (Paraguay)
-  id:1181   General Caballero (Paraguay)
-  id:1182   Olimpia (Paraguay)
-  id:1183   Sportivo Luqueno (Paraguay)
-  id:1184   Club River Plate (Paraguay)
-  id:1185   Rubio NU (Paraguay)
-  id:1186   Independiente F.b.c. (Paraguay)
-  id:1187   Sportivo Trinidense (Paraguay)
-  id:1188   3 de Febrero (Paraguay)
-  id:1189   Deportivo Santani (Paraguay)
-  id:2125   Club Sp. San Lorenzo (Paraguay)
-  id:2126   Deportivo Caaguazu (Paraguay)
-  id:2127   Olimpia De Ita (Paraguay)
-  id:2128   Ovetense FC (Paraguay)
-  id:2129   Sport Colombia (Paraguay)
-  id:2130   Fernando De La Mora (Paraguay)
-  id:2131   Caacupe FBC (Paraguay)
-  id:2132   Cristobal Colon (Paraguay)
-  id:2133   Deportivo Liberacion (Paraguay)
-!! Aragua: Ambiguous team name "Aragua".
+=== Aragua FC (id 2817): last 20 finished games ===
+2026-10-18 A 2-2 v Dinamo de Puerto La Cruz | Segunda División | ?
+2026-10-14 H 3-1 v Caracas FC | Copa Venezuela | ?
+2026-10-11 H 3-0 v Mineros de Guyana | Segunda División | Maracay
+2026-10-07 A 4-1 v Fundación Lara Deportiva | Copa Venezuela | ?
+2026-09-27 H 1-0 v Atletico Avila FC | Segunda División | Maracay
+2026-09-20 A 1-1 v Bolívar | Segunda División | ?
+2026-09-13 H 2-1 v Petare FC | Segunda División | Maracay
+2026-09-09 A 5-2 v Yaracuyanos FC | Copa Venezuela | ?
+2026-09-05 A 2-2 v Monagas II | Segunda División | ?
+2026-08-29 H 2-0 v Dinamo de Puerto La Cruz | Segunda División | Maracay
+2026-08-26 H 1-2 v Yaracuyanos FC | Copa Venezuela | ?
+2026-08-23 A 1-1 v Mineros de Guyana | Segunda División | Ciudad Guayana
+2026-08-19 H 0-1 v Fundación Lara Deportiva | Copa Venezuela | ?
+2026-08-09 A 0-0 v Atletico Avila FC | Segunda División | ?
+2026-08-01 H 1-0 v Bolívar | Segunda División | Maracay
+2026-07-26 A 1-2 v Petare FC | Segunda División | ?
+2026-06-24 A 1-1 v Caracas FC | Copa Venezuela | ?
+2026-06-06 H 1-2 v Monagas II | Segunda División | Maracay
+2026-05-31 A 2-1 v Dinamo de Puerto La Cruz | Segunda División | ?
+2026-05-23 H 2-0 v Mineros de Guyana | Segunda División | Maracay
+Listed home: 10 games, scored 16 (1.60), conceded 7 (0.70), blanks 1, clean sheets 5
+Listed away: 10 games, scored 19 (1.90), conceded 13 (1.30), blanks 1, clean sheets 1
+All: 20 games, scored 35 (1.75), conceded 20 (1.00), blanks 2, clean sheets 6
 
 TABLE FOR Deportivo La Guaira
 LEAGUE TABLE Primera División 2026 | 66 teams | 206 games played
@@ -154,7 +124,29 @@ League averages per game: home 1.41, away 1.15, total 2.56
 3   Monagas SC               0 |  0   0-0       |  0   0-0       |  0   0-0 [Primera Division: Clausura - Quadrangular]
 4   Puerto Cabello           0 |  0   0-0       |  0   0-0       |  0   0-0 [Primera Division: Clausura - Quadrangular]
 
-(15 API-Football requests used)
+TABLE FOR Aragua FC
+LEAGUE TABLE Segunda División 2026 | 17 teams | 234 games played
+League averages per game: home 1.47, away 1.18, total 2.66
+#   team                   Pts | home P GF-GA  | away P GF-GA  | all P GF-GA
+1   Deportivo Lara          69 | 15  33-10      | 16  21-12      | 31  54-22 [Segunda División]
+2   Fundación Lara Deporti  53 | 16  32-14      | 15  22-22      | 31  54-36 [Segunda División]
+3   Yaracuyanos FC          52 | 15  24-15      | 16  25-16      | 31  49-31 [Segunda División]
+4   Urena SC                47 | 16  11-19      | 15  33-22      | 31  44-41 [Segunda División]
+5   Atletico el Vigia FC    44 | 16  28-25      | 16  15-27      | 32  43-52 [Segunda División]
+6   Zamora FC B             40 | 15  20-22      | 15  26-24      | 30  46-46 [Segunda División]
+7   Club Atletico Barinas   35 | 16  34-29      | 15  20-34      | 31  54-63 [Segunda División]
+8   Puerto Cabello II       34 | 16  24-21      | 16  14-27      | 32  38-48 [Segunda División]
+9   Real Frontera           15 | 15  18-30      | 16   9-40      | 31  27-70 [Segunda División]
+1   Monagas II              45 | 12  19-11      | 12  18-14      | 24  37-25 [Segunda División]
+2   Petare FC               41 | 13  21-10      | 12  12-14      | 25  33-24 [Segunda División]
+3   Aragua FC               40 | 12  17-7       | 13  11-12      | 25  28-19 [Segunda División]
+4   Bolívar                 40 | 12  15-11      | 13  16-20      | 25  31-31 [Segunda División]
+5   Dinamo de Puerto La Cr  33 | 13  18-13      | 12  12-17      | 25  30-30 [Segunda División]
+6   Mineros de Guyana       21 | 13  16-19      | 12  10-17      | 25  26-36 [Segunda División]
+7   Marítimo                20 |  7   8-6       |  7   8-7       | 14  16-13 [Segunda División]
+8   Atletico Avila FC       13 | 12   7-15      | 13   5-20      | 25  12-35 [Segunda División]
+
+(25 API-Football requests used)
 
 ----------------------------------------------------------------------
 MATCHBOOK: skipped (switched off for this run)

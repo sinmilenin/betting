@@ -1,59 +1,59 @@
-MATCH Portuguesa FC v Zamora | fetched 2026-10-21 20:23 local
+MATCH id:2807 v id:2811 | fetched 2026-10-21 20:26 local
 
-FORM DATA Portuguesa FC v Zamora | source API-Football | 2026-10-21 20:23 UTC
+FORM DATA id:2807 v id:2811 | source API-Football | 2026-10-21 20:26 UTC
 H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
 
-=== Portuguesa FC (id 2814): last 20 finished games ===
-2026-10-18 A 0-0 v UCV | Primera División | Caracas
-2026-10-10 H 0-0 v Deportivo La Guaira | Primera División | Araure
-2026-09-19 A 1-2 v Puerto Cabello | Primera División | Carabobo
-2026-09-16 H 2-1 v Estudiantes de Merida FC | Primera División | Araure
-2026-09-13 A 1-1 v Rayo Zuliano | Primera División | Maracaibo
-2026-09-05 H 1-1 v Zamora FC | Primera División | Araure
-2026-09-02 A 1-1 v Caracas FC | Primera División | Caracas
-2026-08-30 H 2-2 v Metropolitanos FC | Primera División | Araure
-2026-08-23 A 0-0 v Monagas SC | Primera División | Maturin
-2026-08-15 H 1-0 v Trujillanos FC | Primera División | Araure
-2026-08-09 A 4-3 v Anzoátegui FC | Primera División | Puerto La Cruz
-2026-08-04 A 0-1 v Deportivo Tachira FC | Primera División | San Cristobal
-2026-07-31 H 1-0 v Carabobo FC | Primera División | Araure
-2026-05-30 A 3-2 v UCV | Primera División | Caracas
-2026-05-23 H 0-2 v Deportivo La Guaira | Primera División | Araure
-2026-05-17 H 1-0 v Puerto Cabello | Primera División | Araure
-2026-05-13 A 1-2 v Puerto Cabello | Primera División | Carabobo
-2026-05-09 A 1-1 v Deportivo La Guaira | Primera División | Caracas
-2026-05-02 H 1-1 v UCV | Primera División | Araure
-2026-04-25 H 3-0 v UCV | Primera División | Araure
-Listed home: 10 games, scored 12 (1.20), conceded 7 (0.70), blanks 2, clean sheets 5
-Listed away: 10 games, scored 12 (1.20), conceded 13 (1.30), blanks 3, clean sheets 2
-All: 20 games, scored 24 (1.20), conceded 20 (1.00), blanks 5, clean sheets 7
+=== Deportivo Tachira FC (id 2807): last 20 finished games ===
+2026-10-17 A 2-2 v Carabobo FC | Primera División | Valencia
+2026-10-10 H 4-1 v UCV | Primera División | ?
+2026-09-20 A 4-2 v Deportivo La Guaira | Primera División | Caracas
+2026-09-15 H 1-1 v Puerto Cabello | Primera División | San Cristobal
+2026-09-12 A 0-2 v Estudiantes de Merida FC | Primera División | Mérida
+2026-09-06 H 3-1 v Rayo Zuliano | Primera División | San Cristobal
+2026-09-02 A 5-2 v Zamora FC | Primera División | Barinas
+2026-08-30 H 0-0 v Caracas FC | Primera División | San Cristobal
+2026-08-22 A 1-3 v Metropolitanos FC | Primera División | Caracas
+2026-08-16 H 3-2 v Monagas SC | Primera División | San Cristobal
+2026-08-09 A 3-1 v Trujillanos FC | Primera División | Valera
+2026-08-04 H 1-0 v Portuguesa FC | Primera División | San Cristobal
+2026-07-18 A 2-1 v Atletico Nacional | Friendlies Clubs | ?
+2026-05-31 H 1-0 v Estudiantes de Merida FC | Primera División | San Cristobal
+2026-05-24 A 1-1 v Carabobo FC | Primera División | Valencia
+2026-05-17 A 1-0 v Metropolitanos FC | Primera División | Caracas
+2026-05-12 H 1-1 v Metropolitanos FC | Primera División | San Cristobal
+2026-05-10 H 3-1 v Carabobo FC | Primera División | San Cristobal
+2026-05-02 A 1-2 v Estudiantes de Merida FC | Primera División | Mérida
+2026-04-25 H 2-1 v Carabobo FC | Primera División | San Cristobal
+Listed home: 10 games, scored 19 (1.90), conceded 8 (0.80), blanks 1, clean sheets 3
+Listed away: 10 games, scored 20 (2.00), conceded 16 (1.60), blanks 1, clean sheets 1
+All: 20 games, scored 39 (1.95), conceded 24 (1.20), blanks 2, clean sheets 4
 
-=== Zamora (id 9418): last 20 finished games ===
-2026-10-17 H 1-1 v Ponferradina | Primera División RFEF - Group 1 | Zamora
-2026-10-10 A 1-1 v Mirandes | Primera División RFEF - Group 1 | Miranda de Ebro
-2026-10-04 H 2-0 v CD Coria | Primera División RFEF - Group 1 | Zamora
-2026-09-26 A 1-0 v Extremadura 1924 | Primera División RFEF - Group 1 | Almendralejo
-2026-09-20 H 1-2 v Lugo | Primera División RFEF - Group 1 | Zamora
-2026-09-13 A 2-1 v Arenas Getxo | Primera División RFEF - Group 1 | Getxo
-2026-09-06 H 1-2 v UD Logroñés | Primera División RFEF - Group 1 | Zamora
-2026-08-29 H 1-1 v Athletic Club II | Primera División RFEF - Group 1 | Zamora
-2026-08-20 A 1-0 v Real Madrid II | Friendlies Clubs | ?
-2026-06-19 A 0-4 v Sabadell | Primera División RFEF - Play Offs | Sabadell
-2026-06-13 H 1-0 v Sabadell | Primera División RFEF - Play Offs | Zamora
-2026-06-07 H 2-0 v Villarreal II | Primera División RFEF - Play Offs | Zamora [AET, 90-min score shown]
-2026-05-31 A 0-2 v Villarreal B | Primera División RFEF - Play Offs | Villarreal
-2026-05-23 A 0-1 v Arenas Getxo | Primera División RFEF - Group 1 | Getxo
-2026-05-17 H 1-2 v Cacereño | Primera División RFEF - Group 1 | Zamora
-2026-05-10 A 3-1 v Lugo | Primera División RFEF - Group 1 | Lugo
-2026-05-02 H 3-0 v Ponferradina | Primera División RFEF - Group 1 | Zamora
-2026-04-26 A 2-1 v Ourense CF | Primera División RFEF - Group 1 | Ourense
-2026-04-19 H 1-0 v Osasuna II | Primera División RFEF - Group 1 | Zamora
-2026-04-12 A 1-0 v CF Talavera | Primera División RFEF - Group 1 | Talavera de la Reina
-Listed home: 10 games, scored 14 (1.40), conceded 8 (0.80), blanks 0, clean sheets 5
-Listed away: 10 games, scored 11 (1.10), conceded 11 (1.10), blanks 3, clean sheets 3
-All: 20 games, scored 25 (1.25), conceded 19 (0.95), blanks 3, clean sheets 8
+=== Monagas SC (id 2811): last 20 finished games ===
+2026-10-18 A 3-3 v Puerto Cabello | Primera División | Carabobo
+2026-10-14 H 2-1 v Dinamo de Puerto La Cruz | Copa Venezuela | ?
+2026-10-11 H 2-1 v Estudiantes de Merida FC | Primera División | ?
+2026-10-07 A 0-1 v Mineros de Guyana | Copa Venezuela | ?
+2026-09-19 A 1-1 v Rayo Zuliano | Primera División | Maracaibo
+2026-09-16 H 1-0 v Zamora FC | Primera División | Maturin
+2026-09-13 A 1-0 v Caracas FC | Primera División | Caracas
+2026-09-09 H 5-1 v Bolívar | Copa Venezuela | ?
+2026-09-06 H 0-1 v Metropolitanos FC | Primera División | Maturin
+2026-09-03 A 3-1 v Anzoátegui FC | Primera División | Puerto La Cruz
+2026-08-30 A 1-3 v Trujillanos FC | Primera División | Valera
+2026-08-26 A 3-1 v Bolívar | Copa Venezuela | ?
+2026-08-23 H 0-0 v Portuguesa FC | Primera División | Maturin
+2026-08-19 H 1-0 v Mineros de Guyana | Copa Venezuela | ?
+2026-08-16 A 2-3 v Deportivo Tachira FC | Primera División | San Cristobal
+2026-08-08 H 1-0 v Carabobo FC | Primera División | Maturin
+2026-08-04 A 1-2 v UCV | Primera División | Caracas
+2026-08-01 H 1-2 v Deportivo La Guaira | Primera División | Maturin
+2026-06-24 A 4-0 v Dinamo de Puerto La Cruz | Copa Venezuela | ?
+2026-04-25 H 1-1 v Puerto Cabello | Primera División | Maturin
+Listed home: 10 games, scored 14 (1.40), conceded 7 (0.70), blanks 2, clean sheets 4
+Listed away: 10 games, scored 19 (1.90), conceded 15 (1.50), blanks 1, clean sheets 2
+All: 20 games, scored 33 (1.65), conceded 22 (1.10), blanks 3, clean sheets 6
 
-TABLE FOR Portuguesa FC
+TABLE FOR Deportivo Tachira FC
 LEAGUE TABLE Primera División 2026 | 66 teams | 206 games played
 League averages per game: home 1.41, away 1.15, total 2.56
 #   team                   Pts | home P GF-GA  | away P GF-GA  | all P GF-GA
@@ -124,30 +124,7 @@ League averages per game: home 1.41, away 1.15, total 2.56
 3   Monagas SC               0 |  0   0-0       |  0   0-0       |  0   0-0 [Primera Division: Clausura - Quadrangular]
 4   Puerto Cabello           0 |  0   0-0       |  0   0-0       |  0   0-0 [Primera Division: Clausura - Quadrangular]
 
-TABLE FOR Zamora
-LEAGUE TABLE Primera División RFEF - Group 1 2026 | 20 teams | 80 games played
-League averages per game: home 1.46, away 1.12, total 2.59
-#   team                   Pts | home P GF-GA  | away P GF-GA  | all P GF-GA
-1   Lugo                    22 |  4   8-1       |  4   7-3       |  8  15-4
-2   UD Logroñés             17 |  4   6-4       |  4  11-7       |  8  17-11
-3   Racing Ferrol           16 |  4   7-2       |  4   2-3       |  8   9-5
-4   Mérida AD               12 |  4   9-9       |  4   6-3       |  8  15-12
-5   Athletic Club II        12 |  4   5-6       |  4   8-4       |  8  13-10
-6   Zamora                  12 |  5   6-6       |  3   4-2       |  8  10-8
-7   Cultural Leonesa        12 |  3   7-3       |  5   2-4       |  8   9-7
-8   Cacereño                12 |  4   6-1       |  4   1-4       |  8   7-5
-9   Ponferradina            12 |  4   2-2       |  4   4-4       |  8   6-6
-10  Real Avilés             11 |  4   7-4       |  4   7-6       |  8  14-10
-11  Pontevedra              11 |  5   8-7       |  3   2-3       |  8  10-10
-12  Mirandes                11 |  3   4-1       |  5   6-9       |  8  10-10
-13  Real Unión              10 |  3   7-4       |  5   8-9       |  8  15-13
-14  Extremadura 1924        10 |  4   3-4       |  4   8-6       |  8  11-10
-15  Barakaldo                9 |  5   7-4       |  3   1-6       |  8   8-10
-16  Deportivo La Coruña II   8 |  4   5-3       |  4   3-8       |  8   8-11
-17  CD Coria                 8 |  4   9-7       |  4   3-9       |  8  12-16
-18  Unionistas de Salamanc   7 |  4   8-8       |  4   2-6       |  8  10-14
-19  UD Ourense               5 |  4   1-4       |  4   2-9       |  8   3-13
-20  Arenas Getxo             2 |  4   2-10      |  4   3-12      |  8   5-22
+(Monagas SC: same table as Deportivo Tachira FC, shown above)
 
 (25 API-Football requests used)
 
