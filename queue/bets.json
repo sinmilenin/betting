@@ -240,5 +240,159 @@
     "lay": 9.4,
     "stake": 3,
     "created": "2026-10-21T08:49:29+00:00"
+  },
+  {
+    "id": "2026-10-21_fc-gifu-sagamihara_0-1",
+    "date": "2026-10-21",
+    "ko": "12:00",
+    "match": "FC Gifu v Sagamihara",
+    "comp": "Japan, Japanese J League 3",
+    "cell": "0-1",
+    "lay": 17,
+    "stake": 3,
+    "created": "2026-10-21T09:32:18+00:00"
+  },
+  {
+    "id": "2026-10-21_okayama-mito_3-1",
+    "date": "2026-10-21",
+    "ko": "12:00",
+    "match": "Okayama v Mito",
+    "comp": "Japan, Japanese J League",
+    "cell": "3-1",
+    "lay": 20,
+    "stake": 3,
+    "created": "2026-10-21T09:32:18+00:00"
+  },
+  {
+    "id": "2026-10-21_urawa-jef-utd-chiba_3-0",
+    "date": "2026-10-21",
+    "ko": "12:30",
+    "match": "Urawa v Jef Utd Chiba",
+    "comp": "Japan, Japanese J League",
+    "cell": "3-0",
+    "lay": 15,
+    "stake": 3,
+    "created": "2026-10-21T09:32:18+00:00"
+  },
+  {
+    "id": "2026-10-21_iwata-oita_1-2",
+    "date": "2026-10-21",
+    "ko": "12:00",
+    "match": "Iwata v Oita",
+    "comp": "Japan, Japanese J League 2",
+    "cell": "1-2",
+    "lay": 14.5,
+    "stake": 3,
+    "created": "2026-10-21T09:32:18+00:00"
+  },
+  {
+    "id": "2026-10-21_iwata-oita_2-1",
+    "date": "2026-10-21",
+    "ko": "12:00",
+    "match": "Iwata v Oita",
+    "comp": "Japan, Japanese J League 2",
+    "cell": "2-1",
+    "lay": 11,
+    "stake": 3,
+    "created": "2026-10-21T09:32:18+00:00"
+  },
+  {
+    "id": "2026-10-21_iwata-oita_2-2",
+    "date": "2026-10-21",
+    "ko": "12:00",
+    "match": "Iwata v Oita",
+    "comp": "Japan, Japanese J League 2",
+    "cell": "2-2",
+    "lay": 20,
+    "stake": 3,
+    "created": "2026-10-21T09:32:18+00:00"
+  },
+  {
+    "id": "2026-10-21_omiya-toyama_2-2",
+    "date": "2026-10-21",
+    "ko": "12:00",
+    "match": "Omiya v Toyama",
+    "comp": "Japan, Japanese J League 2",
+    "cell": "2-2",
+    "lay": 13.5,
+    "stake": 3,
+    "created": "2026-10-21T09:32:18+00:00"
+  },
+  {
+    "id": "2026-10-21_ehime-renofa-yamaguchi_0-1",
+    "date": "2026-10-21",
+    "ko": "12:00",
+    "match": "Ehime v Renofa Yamaguchi",
+    "comp": "Japan, Japanese J League 3",
+    "cell": "0-1",
+    "lay": 14,
+    "stake": 3,
+    "created": "2026-10-21T09:32:18+00:00"
+  },
+  {
+    "id": "2026-10-21_ehime-renofa-yamaguchi_0-2",
+    "date": "2026-10-21",
+    "ko": "12:00",
+    "match": "Ehime v Renofa Yamaguchi",
+    "comp": "Japan, Japanese J League 3",
+    "cell": "0-2",
+    "lay": 20,
+    "stake": 3,
+    "created": "2026-10-21T09:32:18+00:00"
+  },
+  {
+    "id": "2026-10-21_ehime-renofa-yamaguchi_1-2",
+    "date": "2026-10-21",
+    "ko": "12:00",
+    "match": "Ehime v Renofa Yamaguchi",
+    "comp": "Japan, Japanese J League 3",
+    "cell": "1-2",
+    "lay": 12.5,
+    "stake": 3,
+    "created": "2026-10-21T09:32:18+00:00"
+  },
+  {
+    "id": "2026-10-21_tochigi-uva-fc-fujieda-myfc_0-1",
+    "date": "2026-10-21",
+    "ko": "12:00",
+    "match": "Tochigi Uva FC v Fujieda Myfc",
+    "comp": "Japan, Japanese J League 2",
+    "cell": "0-1",
+    "lay": 14.5,
+    "stake": 3,
+    "created": "2026-10-21T09:32:18+00:00"
+  },
+  {
+    "id": "2026-10-21_tochigi-uva-fc-fujieda-myfc_0-2",
+    "date": "2026-10-21",
+    "ko": "12:00",
+    "match": "Tochigi Uva FC v Fujieda Myfc",
+    "comp": "Japan, Japanese J League 2",
+    "cell": "0-2",
+    "lay": 18.5,
+    "stake": 3,
+    "created": "2026-10-21T09:32:18+00:00"
+  },
+  {
+    "id": "2026-10-21_shimizu-fc-machida_1-0",
+    "date": "2026-10-21",
+    "ko": "12:00",
+    "match": "Shimizu v FC Machida",
+    "comp": "Japan, Japanese J League",
+    "cell": "1-0",
+    "lay": 11.5,
+    "stake": 3,
+    "created": "2026-10-21T09:32:18+00:00"
+  },
+  {
+    "id": "2026-10-21_sendai-fc-imabari_3-1",
+    "date": "2026-10-21",
+    "ko": "12:00",
+    "match": "Sendai v FC Imabari",
+    "comp": "Japan, Japanese J League 2",
+    "cell": "3-1",
+    "lay": 15,
+    "stake": 3,
+    "created": "2026-10-21T09:32:18+00:00"
   }
 ]
