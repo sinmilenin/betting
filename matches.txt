@@ -1,9 +1,3 @@
-# Scan 2026-10-21 11:26 (Ljubljana)
-Vegalta Sendai v FC Imabari | n=20 | xg=10
-Jubilo Iwata v Oita Trinita | n=20 | xg=10
-Omiya Ardija v Kataller Toyama | n=20 | xg=10
-Ehime FC v Renofa Yamaguchi | n=20 | xg=10
-Shimizu S-Pulse v Machida Zelvia | n=20 | xg=10
-Tochigi City v Fujieda MYFC | n=20 | xg=10
-Burapha United v Chiangrai United | n=20 | xg=10
-Como U19 v Manchester United U19 | n=20 | xg=10
+# Scan 2026-10-21 11:26 (Ljubljana), run 2: corrected names
+Vegalta Sendai v Imabari | n=20 | xg=10
+Shimizu S pulse v Machida Zelvia | n=20 | xg=10
