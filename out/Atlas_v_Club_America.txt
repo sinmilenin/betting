@@ -1,0 +1,84 @@
+MATCH Atlas v Club America | fetched 2026-10-21 20:23 local
+
+FORM DATA Atlas v Club America | source API-Football | 2026-10-21 20:23 UTC
+H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
+
+=== Atlas (id 2283): last 20 finished games ===
+2026-10-17 A 2-0 v Necaxa | Liga MX | Aguascalientes | xG 2.18-1.81
+2026-10-11 H 1-1 v Guadalajara Chivas | Liga MX | Guadalajara | xG 0.99-1.97
+2026-09-26 A 3-2 v Club Tijuana | Liga MX | Tijuana
+2026-09-19 H 1-1 v U.N.A.M. - Pumas | Liga MX | Guadalajara | xG 2.47-0.64
+2026-09-12 A 2-5 v Toluca | Liga MX | Toluca | xG 0.94-2.12
+2026-09-06 H 1-1 v Atlante FC | Liga MX | Guadalajara
+2026-08-29 H 1-3 v Club Queretaro | Liga MX | Guadalajara | xG 1.11-1.50
+2026-08-23 A 2-0 v Cruz Azul | Liga MX | Mexico City | xG 1.79-1.21
+2026-08-16 H 2-1 v Tigres UANL | Liga MX | Guadalajara | xG 0.66-2.70
+2026-08-12 A 2-1 v FC Cincinnati | Leagues Cup | Cincinnati
+2026-08-07 A 0-2 v Charlotte | Leagues Cup | Charlotte
+2026-08-04 A 1-3 v Columbus Crew | Leagues Cup | Columbus
+2026-08-02 H 0-2 v Monterrey | Liga MX | Guadalajara
+2026-07-26 A 1-0 v Santos Laguna | Liga MX | Torreon
+2026-07-18 A 3-2 v Leon | Liga MX | Leon
+2026-07-10 H 3-4 v Puebla | Friendlies Clubs | ?
+2026-07-04 H 0-0 v Necaxa | Friendlies Clubs | ?
+2026-07-01 H 0-1 v Atletico San Luis | Friendlies Clubs | ?
+2026-05-10 A 0-1 v Cruz Azul | Liga MX | Puebla
+2026-05-03 H 2-3 v Cruz Azul | Liga MX | Guadalajara
+Listed home: 10 games, scored 11 (1.10), conceded 17 (1.70), blanks 3, clean sheets 1
+Listed away: 10 games, scored 16 (1.60), conceded 16 (1.60), blanks 2, clean sheets 3
+All: 20 games, scored 27 (1.35), conceded 33 (1.65), blanks 5, clean sheets 4
+
+=== Club America (id 2287): last 20 finished games ===
+2026-10-18 A 5-3 v Leon | Liga MX | Leon | xG 2.13-1.56
+2026-10-11 H 1-1 v Monterrey | Liga MX | Mexico City | xG 1.25-0.38
+2026-10-05 A 0-2 v Guadalajara Chivas | Friendlies Clubs | ?
+2026-10-02 H 0-0 v Cruz Azul | Friendlies Clubs | ?
+2026-09-28 A 4-2 v Necaxa | Liga MX | Aguascalientes | xG 3.40-2.49
+2026-09-20 H 2-2 v Guadalajara Chivas | Liga MX | Mexico City | xG 0.99-0.81
+2026-09-13 A 3-4 v Cruz Azul | Liga MX | Mexico City | xG 2.01-2.17
+2026-09-06 A 0-1 v Leon | Leagues Cup | ?
+2026-09-03 H 2-2 v Monterrey | Leagues Cup | Carson | xG 0.81-1.22 [PEN, 90-min score shown]
+2026-08-30 H 2-0 v Puebla | Liga MX | Mexico City | xG 0.81-0.80
+2026-08-27 H 2-0 v Columbus Crew | Leagues Cup | Carson
+2026-08-22 A 2-1 v FC Juarez | Liga MX | Ciudad Juarez
+2026-08-16 H 3-0 v Atletico San Luis | Liga MX | Mexico City
+2026-08-14 H 1-1 v Austin | Leagues Cup | Austin [PEN, 90-min score shown]
+2026-08-10 H 3-1 v Portland Timbers | Leagues Cup | Portland
+2026-08-07 H 3-1 v San Diego | Leagues Cup | Mexico City
+2026-08-02 H 3-0 v Santos Laguna | Liga MX | Mexico City
+2026-07-25 A 1-1 v Atlante FC | Liga MX | Mexico City
+2026-07-19 A 1-0 v Club Queretaro | Liga MX | Santiago de Queretaro
+2026-07-12 A 0-1 v Los Angeles Galaxy | Friendlies Clubs | ?
+Listed home: 11 games, scored 22 (2.00), conceded 8 (0.73), blanks 1, clean sheets 5
+Listed away: 9 games, scored 16 (1.78), conceded 15 (1.67), blanks 3, clean sheets 1
+All: 20 games, scored 38 (1.90), conceded 23 (1.15), blanks 4, clean sheets 6
+
+TABLE FOR Atlas
+LEAGUE TABLE Liga MX 2026 | 18 teams | 110 games played
+League averages per game: home 1.57, away 1.38, total 2.95
+#   team                   Pts | home P GF-GA  | away P GF-GA  | all P GF-GA
+1   Club America            24 |  5  11-3       |  6  16-11      | 11  27-14
+2   Guadalajara Chivas      23 |  7  11-7       |  6   9-5       | 13  20-12
+3   Toluca                  21 |  6  16-9       |  6  10-7       | 12  26-16
+4   Leon                    21 |  6  12-9       |  7   8-8       | 13  20-17
+5   Atlas                   21 |  6   6-9       |  6  13-9       | 12  19-18
+6   Cruz Azul               20 |  7  17-12      |  5  10-9       | 12  27-21
+7   Club Queretaro          20 |  5   7-6       |  7   9-9       | 12  16-15
+8   Monterrey               17 |  6  13-7       |  5   6-9       | 11  19-16
+9   Santos Laguna           16 |  6   8-3       |  6   9-13      | 12  17-16
+10  Club Tijuana            16 |  7  10-6       |  4   5-8       | 11  15-14
+11  U.N.A.M. - Pumas        16 |  6   9-11      |  6  10-9       | 12  19-20
+12  Puebla                  16 |  5   6-6       |  7   6-7       | 12  12-13
+13  Atletico San Luis       16 |  7   9-11      |  6   9-11      | 13  18-22
+14  Tigres UANL             14 |  6   9-7       |  7   5-11      | 13  14-18
+15  Atlante FC              14 |  6   7-9       |  7   7-10      | 13  14-19
+16  CF Pachuca              13 |  5   9-11      |  7  10-5       | 12  19-16
+17  Necaxa                   9 |  7   8-14      |  6   7-12      | 13  15-26
+18  FC Juarez                4 |  7   5-12      |  6   3-20      | 13   8-32
+
+(Club America: same table as Atlas, shown above)
+
+(24 API-Football requests used)
+
+----------------------------------------------------------------------
+MATCHBOOK: skipped (switched off for this run)

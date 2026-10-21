@@ -1,0 +1,155 @@
+MATCH Portuguesa FC v Zamora | fetched 2026-10-21 20:23 local
+
+FORM DATA Portuguesa FC v Zamora | source API-Football | 2026-10-21 20:23 UTC
+H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
+
+=== Portuguesa FC (id 2814): last 20 finished games ===
+2026-10-18 A 0-0 v UCV | Primera División | Caracas
+2026-10-10 H 0-0 v Deportivo La Guaira | Primera División | Araure
+2026-09-19 A 1-2 v Puerto Cabello | Primera División | Carabobo
+2026-09-16 H 2-1 v Estudiantes de Merida FC | Primera División | Araure
+2026-09-13 A 1-1 v Rayo Zuliano | Primera División | Maracaibo
+2026-09-05 H 1-1 v Zamora FC | Primera División | Araure
+2026-09-02 A 1-1 v Caracas FC | Primera División | Caracas
+2026-08-30 H 2-2 v Metropolitanos FC | Primera División | Araure
+2026-08-23 A 0-0 v Monagas SC | Primera División | Maturin
+2026-08-15 H 1-0 v Trujillanos FC | Primera División | Araure
+2026-08-09 A 4-3 v Anzoátegui FC | Primera División | Puerto La Cruz
+2026-08-04 A 0-1 v Deportivo Tachira FC | Primera División | San Cristobal
+2026-07-31 H 1-0 v Carabobo FC | Primera División | Araure
+2026-05-30 A 3-2 v UCV | Primera División | Caracas
+2026-05-23 H 0-2 v Deportivo La Guaira | Primera División | Araure
+2026-05-17 H 1-0 v Puerto Cabello | Primera División | Araure
+2026-05-13 A 1-2 v Puerto Cabello | Primera División | Carabobo
+2026-05-09 A 1-1 v Deportivo La Guaira | Primera División | Caracas
+2026-05-02 H 1-1 v UCV | Primera División | Araure
+2026-04-25 H 3-0 v UCV | Primera División | Araure
+Listed home: 10 games, scored 12 (1.20), conceded 7 (0.70), blanks 2, clean sheets 5
+Listed away: 10 games, scored 12 (1.20), conceded 13 (1.30), blanks 3, clean sheets 2
+All: 20 games, scored 24 (1.20), conceded 20 (1.00), blanks 5, clean sheets 7
+
+=== Zamora (id 9418): last 20 finished games ===
+2026-10-17 H 1-1 v Ponferradina | Primera División RFEF - Group 1 | Zamora
+2026-10-10 A 1-1 v Mirandes | Primera División RFEF - Group 1 | Miranda de Ebro
+2026-10-04 H 2-0 v CD Coria | Primera División RFEF - Group 1 | Zamora
+2026-09-26 A 1-0 v Extremadura 1924 | Primera División RFEF - Group 1 | Almendralejo
+2026-09-20 H 1-2 v Lugo | Primera División RFEF - Group 1 | Zamora
+2026-09-13 A 2-1 v Arenas Getxo | Primera División RFEF - Group 1 | Getxo
+2026-09-06 H 1-2 v UD Logroñés | Primera División RFEF - Group 1 | Zamora
+2026-08-29 H 1-1 v Athletic Club II | Primera División RFEF - Group 1 | Zamora
+2026-08-20 A 1-0 v Real Madrid II | Friendlies Clubs | ?
+2026-06-19 A 0-4 v Sabadell | Primera División RFEF - Play Offs | Sabadell
+2026-06-13 H 1-0 v Sabadell | Primera División RFEF - Play Offs | Zamora
+2026-06-07 H 2-0 v Villarreal II | Primera División RFEF - Play Offs | Zamora [AET, 90-min score shown]
+2026-05-31 A 0-2 v Villarreal B | Primera División RFEF - Play Offs | Villarreal
+2026-05-23 A 0-1 v Arenas Getxo | Primera División RFEF - Group 1 | Getxo
+2026-05-17 H 1-2 v Cacereño | Primera División RFEF - Group 1 | Zamora
+2026-05-10 A 3-1 v Lugo | Primera División RFEF - Group 1 | Lugo
+2026-05-02 H 3-0 v Ponferradina | Primera División RFEF - Group 1 | Zamora
+2026-04-26 A 2-1 v Ourense CF | Primera División RFEF - Group 1 | Ourense
+2026-04-19 H 1-0 v Osasuna II | Primera División RFEF - Group 1 | Zamora
+2026-04-12 A 1-0 v CF Talavera | Primera División RFEF - Group 1 | Talavera de la Reina
+Listed home: 10 games, scored 14 (1.40), conceded 8 (0.80), blanks 0, clean sheets 5
+Listed away: 10 games, scored 11 (1.10), conceded 11 (1.10), blanks 3, clean sheets 3
+All: 20 games, scored 25 (1.25), conceded 19 (0.95), blanks 3, clean sheets 8
+
+TABLE FOR Portuguesa FC
+LEAGUE TABLE Primera División 2026 | 66 teams | 206 games played
+League averages per game: home 1.41, away 1.15, total 2.56
+#   team                   Pts | home P GF-GA  | away P GF-GA  | all P GF-GA
+1   Metropolitanos FC       57 |  0   0-0       |  0   0-0       | 26  47-21 [Primera Division: Tabla Anual]
+2   Deportivo Tachira FC    51 |  0   0-0       |  0   0-0       | 26  47-29 [Primera Division: Tabla Anual]
+3   Deportivo La Guaira     44 |  0   0-0       |  0   0-0       | 26  37-24 [Primera Division: Tabla Anual]
+4   Carabobo FC             41 |  0   0-0       |  0   0-0       | 26  38-24 [Primera Division: Tabla Anual]
+5   Puerto Cabello          40 |  0   0-0       |  0   0-0       | 26  35-26 [Primera Division: Tabla Anual]
+6   Portuguesa FC           39 |  0   0-0       |  0   0-0       | 26  34-24 [Primera Division: Tabla Anual]
+7   UCV                     39 |  0   0-0       |  0   0-0       | 26  37-35 [Primera Division: Tabla Anual]
+8   Estudiantes de Merida   37 |  0   0-0       |  0   0-0       | 26  36-34 [Primera Division: Tabla Anual]
+9   Caracas FC              32 |  0   0-0       |  0   0-0       | 26  30-33 [Primera Division: Tabla Anual]
+10  Monagas SC              29 |  0   0-0       |  0   0-0       | 26  31-39 [Primera Division: Tabla Anual]
+11  Zamora FC               25 |  0   0-0       |  0   0-0       | 26  26-41 [Primera Division: Tabla Anual]
+12  Rayo Zuliano            25 |  0   0-0       |  0   0-0       | 26  31-52 [Primera Division: Tabla Anual]
+13  Trujillanos FC          18 |  0   0-0       |  0   0-0       | 26  23-46 [Primera Division: Tabla Anual]
+14  Anzoátegui FC           17 |  0   0-0       |  0   0-0       | 26  23-47 [Primera Division: Tabla Anual]
+1   Deportivo La Guaira     27 |  6   6-1       |  7   9-5       | 13  15-6 [Primera Division: Apertura]
+2   Metropolitanos FC       25 |  7  11-5       |  6   6-5       | 13  17-10 [Primera Division: Apertura]
+3   Deportivo Tachira FC    24 |  7  10-7       |  6   7-5       | 13  17-12 [Primera Division: Apertura]
+4   UCV                     23 |  6   9-6       |  7  15-14      | 13  24-20 [Primera Division: Apertura]
+5   Portuguesa FC           20 |  7  13-5       |  6   7-7       | 13  20-12 [Primera Division: Apertura]
+6   Estudiantes de Merida   20 |  6  11-10      |  7  10-8       | 13  21-18 [Primera Division: Apertura]
+7   Carabobo FC             19 |  7  17-6       |  6   6-8       | 13  23-14 [Primera Division: Apertura]
+8   Puerto Cabello          17 |  6  11-6       |  7   5-8       | 13  16-14 [Primera Division: Apertura]
+9   Zamora FC               17 |  6   7-7       |  7   7-7       | 13  14-14 [Primera Division: Apertura]
+10  Caracas FC              15 |  7  10-10      |  6   5-7       | 13  15-17 [Primera Division: Apertura]
+11  Rayo Zuliano            14 |  6   6-9       |  7   7-14      | 13  13-23 [Primera Division: Apertura]
+12  Monagas SC              11 |  7  11-9       |  6   3-13      | 13  14-22 [Primera Division: Apertura]
+13  Anzoátegui FC            9 |  6   4-11      |  7  11-14      | 13  15-25 [Primera Division: Apertura]
+14  Trujillanos FC           4 |  7   4-11      |  6   5-15      | 13   9-26 [Primera Division: Apertura]
+1   Puerto Cabello          10 |  3   5-3       |  3   3-4       |  6   8-7 [Primera Division: Apertura - Quadrangular]
+2   Portuguesa FC            8 |  3   2-3       |  3   5-5       |  6   7-8 [Primera Division: Apertura - Quadrangular]
+3   Deportivo La Guaira      7 |  3   1-3       |  3   4-2       |  6   5-5 [Primera Division: Apertura - Quadrangular]
+4   UCV                      6 |  3   6-5       |  3   2-3       |  6   8-8 [Primera Division: Apertura - Quadrangular]
+1   Carabobo FC             11 |  3   2-1       |  3   8-4       |  6  10-5 [Primera Division: Apertura - Quadrangular]
+2   Deportivo Tachira FC    11 |  3   5-2       |  3   3-3       |  6   8-5 [Primera Division: Apertura - Quadrangular]
+3   Metropolitanos FC        8 |  3   3-6       |  3   2-1       |  6   5-7 [Primera Division: Apertura - Quadrangular]
+4   Estudiantes de Merida    3 |  3   2-4       |  3   0-4       |  6   2-8 [Primera Division: Apertura - Quadrangular]
+1   Metropolitanos FC       32 |  6  18-4       |  7  12-7       | 13  30-11 [Primera Division: Clausura]
+2   Deportivo Tachira FC    27 |  6  12-5       |  7  18-12      | 13  30-17 [Primera Division: Clausura]
+3   Puerto Cabello          23 |  7  14-8       |  6   5-4       | 13  19-12 [Primera Division: Clausura]
+4   Carabobo FC             22 |  6   7-2       |  7   8-8       | 13  15-10 [Primera Division: Clausura]
+5   Portuguesa FC           19 |  6   7-4       |  7   7-8       | 13  14-12 [Primera Division: Clausura]
+6   Monagas SC              18 |  6   5-4       |  7  12-13      | 13  17-17 [Primera Division: Clausura]
+7   Deportivo La Guaira     17 |  7  13-13      |  6   9-5       | 13  22-18 [Primera Division: Clausura]
+8   Caracas FC              17 |  6   9-8       |  7   6-8       | 13  15-16 [Primera Division: Clausura]
+9   Estudiantes de Merida   17 |  7   9-5       |  6   6-11      | 13  15-16 [Primera Division: Clausura]
+10  UCV                     16 |  7   8-4       |  6   5-11      | 13  13-15 [Primera Division: Clausura]
+11  Trujillanos FC          14 |  6   8-10      |  7   6-10      | 13  14-20 [Primera Division: Clausura]
+12  Rayo Zuliano            11 |  7  11-12      |  6   7-17      | 13  18-29 [Primera Division: Clausura]
+13  Anzoátegui FC            8 |  7   5-14      |  6   3-8       | 13   8-22 [Primera Division: Clausura]
+14  Zamora FC                8 |  7   9-14      |  6   3-13      | 13  12-27 [Primera Division: Clausura]
+1   Carabobo FC              0 |  0   0-0       |  0   0-0       |  0   0-0 [Primera Division: Clausura - Quadrangular]
+2   Caracas FC               0 |  0   0-0       |  0   0-0       |  0   0-0 [Primera Division: Clausura - Quadrangular]
+3   Deportivo Tachira FC     0 |  0   0-0       |  0   0-0       |  0   0-0 [Primera Division: Clausura - Quadrangular]
+4   Monagas SC               0 |  0   0-0       |  0   0-0       |  0   0-0 [Primera Division: Clausura - Quadrangular]
+5   Portuguesa FC            0 |  0   0-0       |  0   0-0       |  0   0-0 [Primera Division: Clausura - Quadrangular]
+6   Deportivo La Guaira      0 |  0   0-0       |  0   0-0       |  0   0-0 [Primera Division: Clausura - Quadrangular]
+7   Metropolitanos FC        0 |  0   0-0       |  0   0-0       |  0   0-0 [Primera Division: Clausura - Quadrangular]
+8   Puerto Cabello           0 |  0   0-0       |  0   0-0       |  0   0-0 [Primera Division: Clausura - Quadrangular]
+1   Carabobo FC              0 |  0   0-0       |  0   0-0       |  0   0-0 [Primera Division: Clausura - Quadrangular]
+2   Portuguesa FC            0 |  0   0-0       |  0   0-0       |  0   0-0 [Primera Division: Clausura - Quadrangular]
+3   Deportivo La Guaira      0 |  0   0-0       |  0   0-0       |  0   0-0 [Primera Division: Clausura - Quadrangular]
+4   Metropolitanos FC        0 |  0   0-0       |  0   0-0       |  0   0-0 [Primera Division: Clausura - Quadrangular]
+1   Caracas FC               0 |  0   0-0       |  0   0-0       |  0   0-0 [Primera Division: Clausura - Quadrangular]
+2   Deportivo Tachira FC     0 |  0   0-0       |  0   0-0       |  0   0-0 [Primera Division: Clausura - Quadrangular]
+3   Monagas SC               0 |  0   0-0       |  0   0-0       |  0   0-0 [Primera Division: Clausura - Quadrangular]
+4   Puerto Cabello           0 |  0   0-0       |  0   0-0       |  0   0-0 [Primera Division: Clausura - Quadrangular]
+
+TABLE FOR Zamora
+LEAGUE TABLE Primera División RFEF - Group 1 2026 | 20 teams | 80 games played
+League averages per game: home 1.46, away 1.12, total 2.59
+#   team                   Pts | home P GF-GA  | away P GF-GA  | all P GF-GA
+1   Lugo                    22 |  4   8-1       |  4   7-3       |  8  15-4
+2   UD Logroñés             17 |  4   6-4       |  4  11-7       |  8  17-11
+3   Racing Ferrol           16 |  4   7-2       |  4   2-3       |  8   9-5
+4   Mérida AD               12 |  4   9-9       |  4   6-3       |  8  15-12
+5   Athletic Club II        12 |  4   5-6       |  4   8-4       |  8  13-10
+6   Zamora                  12 |  5   6-6       |  3   4-2       |  8  10-8
+7   Cultural Leonesa        12 |  3   7-3       |  5   2-4       |  8   9-7
+8   Cacereño                12 |  4   6-1       |  4   1-4       |  8   7-5
+9   Ponferradina            12 |  4   2-2       |  4   4-4       |  8   6-6
+10  Real Avilés             11 |  4   7-4       |  4   7-6       |  8  14-10
+11  Pontevedra              11 |  5   8-7       |  3   2-3       |  8  10-10
+12  Mirandes                11 |  3   4-1       |  5   6-9       |  8  10-10
+13  Real Unión              10 |  3   7-4       |  5   8-9       |  8  15-13
+14  Extremadura 1924        10 |  4   3-4       |  4   8-6       |  8  11-10
+15  Barakaldo                9 |  5   7-4       |  3   1-6       |  8   8-10
+16  Deportivo La Coruña II   8 |  4   5-3       |  4   3-8       |  8   8-11
+17  CD Coria                 8 |  4   9-7       |  4   3-9       |  8  12-16
+18  Unionistas de Salamanc   7 |  4   8-8       |  4   2-6       |  8  10-14
+19  UD Ourense               5 |  4   1-4       |  4   2-9       |  8   3-13
+20  Arenas Getxo             2 |  4   2-10      |  4   3-12      |  8   5-22
+
+(25 API-Football requests used)
+
+----------------------------------------------------------------------
+MATCHBOOK: skipped (switched off for this run)

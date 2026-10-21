@@ -1,3 +1,16 @@
-RUN 2026-10-21 17:44 local | 1 match(es)
-Everton W v Newcastle United W -> out/Everton_W_v_Newcastle_United_W.txt
-Requests used: API-Football 27, Matchbook 0
+RUN 2026-10-21 20:23 local | 9 match(es)
+Deportivo La Guaira v Aragua -> out/Deportivo_La_Guaira_v_Aragua.txt
+    !! Aragua: Ambiguous team name "Aragua".
+Deportivo Tachira v Monagas -> out/Deportivo_Tachira_v_Monagas.txt
+    !! Deportivo Tachira: Ambiguous team name "Deportivo Tachira".
+    !! Monagas: Ambiguous team name "Monagas".
+FC Cincinnati v DC United -> out/FC_Cincinnati_v_DC_United.txt
+Portuguesa FC v Zamora -> out/Portuguesa_FC_v_Zamora.txt
+Palmeiras v Fluminense -> out/Palmeiras_v_Fluminense.txt
+Puebla v Monterrey -> out/Puebla_v_Monterrey.txt
+Atlas v Club America -> out/Atlas_v_Club_America.txt
+Toluca v Tijuana -> out/Toluca_v_Tijuana.txt
+    !! Tijuana: Ambiguous team name "Tijuana".
+Santos Laguna v Pumas UNAM -> out/Santos_Laguna_v_Pumas_UNAM.txt
+    !! Pumas UNAM: Ambiguous team name "Pumas UNAM".
+Requests used: API-Football 169, Matchbook 0
