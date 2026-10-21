@@ -471,5 +471,16 @@
     "lay": 6.8,
     "stake": 3,
     "created": "2026-10-21T14:45:00Z"
+  },
+  {
+    "id": "2026-10-21_levante-athletic-bilbao_0-1",
+    "date": "2026-10-21",
+    "ko": "20:00",
+    "match": "Levante v Athletic Bilbao",
+    "comp": "Spain, Spanish La Liga",
+    "cell": "0-1",
+    "lay": 8.8,
+    "stake": 3,
+    "created": "2026-10-21T15:31:00Z"
   }
 ]
