@@ -1,6 +1,6 @@
-MATCH Sporting CP v LASK | fetched 2026-10-21 16:14 local
+MATCH Sporting CP v id:1026 | fetched 2026-10-21 16:16 local
 
-FORM DATA Sporting CP v LASK | source API-Football | 2026-10-21 16:14 UTC
+FORM DATA Sporting CP v id:1026 | source API-Football | 2026-10-21 16:16 UTC
 H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
 
 === Sporting CP (id 228): last 20 finished games ===
@@ -28,42 +28,30 @@ Listed home: 13 games, scored 41 (3.15), conceded 12 (0.92), blanks 0, clean she
 Listed away: 7 games, scored 17 (2.43), conceded 6 (0.86), blanks 0, clean sheets 2
 All: 20 games, scored 58 (2.90), conceded 18 (0.90), blanks 0, clean sheets 6
 
-"LASK" matches several teams. Use id:<number> instead of the name:
-  id:337    Slask Wroclaw (Poland)
-  id:1026   Lask Linz (Austria)
-  id:1403   Lask Juniors Linz (Austria)
-  id:11225  LASK Juniors (Austria)
-  id:12900  Śląsk Wrocław II (Poland)
-  id:14144  Orlęta Radzyń Podlaski (Poland)
-  id:14267  Pawłowice Śląskie (Poland)
-  id:14925  Śląsk Wrocław U18 (Poland)
-  id:16269  Podlasie Biała Podlaska (Poland)
-  id:17118  Śląsk Świętochłowice (Poland)
-  id:20159  Laško (Slovenia)
-  id:20596  Śląsk Wrocław U19 (Poland)
-  id:21659  Unia Turza Śląska (Poland)
-  id:22262  Slask Wroclaw W (Poland)
-  id:24440  LASK W (Austria)
-  id:28370  LASK U19 (Austria)
-(retrying LASK using the opponent's country, Portugal)
-"LASK" matches several teams. Use id:<number> instead of the name:
-  id:337    Slask Wroclaw (Poland)
-  id:1026   Lask Linz (Austria)
-  id:1403   Lask Juniors Linz (Austria)
-  id:11225  LASK Juniors (Austria)
-  id:12900  Śląsk Wrocław II (Poland)
-  id:14144  Orlęta Radzyń Podlaski (Poland)
-  id:14267  Pawłowice Śląskie (Poland)
-  id:14925  Śląsk Wrocław U18 (Poland)
-  id:16269  Podlasie Biała Podlaska (Poland)
-  id:17118  Śląsk Świętochłowice (Poland)
-  id:20159  Laško (Slovenia)
-  id:20596  Śląsk Wrocław U19 (Poland)
-  id:21659  Unia Turza Śląska (Poland)
-  id:22262  Slask Wroclaw W (Poland)
-  id:24440  LASK W (Austria)
-  id:28370  LASK U19 (Austria)
-!! LASK: Ambiguous team name "LASK".
+=== Lask Linz (id 1026): last 20 finished games ===
+2026-10-17 A 4-0 v Austria Lustenau | Bundesliga | Lustenau | xG 3.85-0.45
+2026-10-14 H 3-6 v Liverpool | UEFA Champions League | Linz | xG 2.08-3.26
+2026-10-11 H 0-2 v Rapid Vienna | Bundesliga | Linz | xG 1.11-2.33
+2026-10-02 H 2-1 v First Vienna | Friendlies Clubs | ?
+2026-09-20 A 3-3 v TSV Hartberg | Bundesliga | Hartberg | xG 1.90-0.66
+2026-09-13 A 1-2 v Sturm Graz | Bundesliga | Graz | xG 1.90-3.51
+2026-09-08 A 0-1 v AEK Athens FC | UEFA Champions League | Athens | xG 0.72-1.71
+2026-09-05 A 6-1 v Deutschlandsberger SC | Cup | ?
+2026-09-01 A 3-1 v Wolfsberger AC | Bundesliga | Wolfsberg | xG 3.19-0.34
+2026-08-29 H 3-0 v SCR Altach | Bundesliga | Linz | xG 3.06-0.31
+2026-08-25 H 4-1 v Celtic | UEFA Champions League | Linz [AET, 90-min score shown]
+2026-08-19 A 0-3 v Celtic | UEFA Champions League | Glasgow
+2026-08-14 H 4-1 v Ried | Bundesliga | Linz
+2026-08-09 A 2-0 v Austria Vienna | Bundesliga | Vienna
+2026-07-31 H 3-0 v Grazer AK | Bundesliga | Linz
+2026-07-25 A 7-0 v Kalsdorf | Cup | ?
+2026-07-18 H 2-0 v Fortuna Düsseldorf | Friendlies Clubs | ?
+2026-07-14 H 1-2 v Fenerbahçe | Friendlies Clubs | Linz
+2026-07-09 A 0-2 v FC Ingolstadt 04 | Friendlies Clubs | ?
+2026-07-03 A 0-2 v Dynamo Kyiv | Friendlies Clubs | ?
+Listed home: 9 games, scored 22 (2.44), conceded 13 (1.44), blanks 1, clean sheets 3
+Listed away: 11 games, scored 26 (2.36), conceded 15 (1.36), blanks 4, clean sheets 3
+All: 20 games, scored 48 (2.40), conceded 28 (1.40), blanks 5, clean sheets 6
 
 TABLE FOR Sporting CP
 LEAGUE TABLE UEFA Champions League 2026 | 36 teams | 45 games played
@@ -106,7 +94,24 @@ League averages per game: home 2.51, away 1.64, total 4.16
 35  Galatasaray              0 |  1   1-4       |  1   1-3       |  2   2-7
 36  Slovan Bratislava        0 |  1   0-3       |  2   1-10      |  3   1-13
 
-(15 API-Football requests used)
+TABLE FOR Lask Linz
+LEAGUE TABLE Bundesliga 2026 | 12 teams | 54 games played
+League averages per game: home 1.89, away 1.28, total 3.17
+#   team                   Pts | home P GF-GA  | away P GF-GA  | all P GF-GA
+1   Rapid Vienna            24 |  5  18-2       |  4   8-6       |  9  26-8
+2   Red Bull Salzburg       21 |  5  16-2       |  4   5-2       |  9  21-4
+3   Lask Linz               19 |  4  10-3       |  5  13-6       |  9  23-9
+4   Sturm Graz              17 |  4  10-3       |  5   6-7       |  9  16-10
+5   Ried                    14 |  5  10-6       |  4   6-9       |  9  16-15
+6   WSG Wattens             11 |  4   4-8       |  5   8-6       |  9  12-14
+7   TSV Hartberg            11 |  5  10-12      |  4   5-7       |  9  15-19
+8   Grazer AK                9 |  4   4-3       |  5   3-19      |  9   7-22
+9   Austria Lustenau         8 |  5   5-10      |  4   6-9       |  9  11-19
+10  Austria Vienna           7 |  4   2-6       |  5   7-12      |  9   9-18
+11  SCR Altach               6 |  4   8-5       |  5   0-10      |  9   8-15
+12  Wolfsberger AC           5 |  5   5-9       |  4   2-9       |  9   7-18
+
+(25 API-Football requests used)
 
 ----------------------------------------------------------------------
 MATCHBOOK: skipped (switched off for this run)
