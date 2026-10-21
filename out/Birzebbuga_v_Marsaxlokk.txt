@@ -1,7 +1,32 @@
-MATCH Birzebbuga St Peters v Marsaxlokk | fetched 2026-10-21 15:27 local
+MATCH Birzebbuga v Marsaxlokk | fetched 2026-10-21 15:28 local
 
-FORM DATA Birzebbuga St Peters v Marsaxlokk | source API-Football | 2026-10-21 15:27 UTC
+FORM DATA Birzebbuga v Marsaxlokk | source API-Football | 2026-10-21 15:28 UTC
 H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
+
+=== Birzebbuga (id 16533): last 20 finished games ===
+2026-10-18 A 0-1 v Hibernians | Premier League | Paola
+2026-10-09 A 2-2 v Mosta | Premier League | Hamrun
+2026-09-19 H 0-3 v Valletta FC | Premier League | Paola
+2026-09-11 H 0-2 v Hamrun Spartans | Premier League | Hamrun
+2026-09-05 A 0-3 v Balzan FC | Premier League | ?
+2026-08-30 H 1-2 v Sliema Wanderers | Premier League | ?
+2026-08-22 A 0-1 v Zabbar St. Patrick | Premier League | Paola
+2026-08-14 H 0-3 v Floriana | Premier League | ?
+2026-07-24 H 0-0 v Balzan FC | Friendlies Clubs | ?
+2026-07-17 A 4-0 v Mosta | Friendlies Clubs | ?
+2026-05-03 A 3-0 v Melita | Challenge Cup | ?
+2026-04-26 H 2-1 v Victoria Wanderers | Challenge Cup | ? [AET, 90-min score shown]
+2026-04-23 A 1-1 v Swieqi United | Challenge League | ? [PEN, 90-min score shown]
+2026-04-19 H 3-2 v Sirens | Challenge League | Pembroke
+2026-04-12 A 3-3 v Balzan FC | Challenge League | Hamrun
+2026-04-04 A 3-1 v St. Andrews | Challenge League | ?
+2026-03-18 H 1-0 v Kercem Ajax | Challenge Cup | ?
+2026-03-14 H 2-2 v Pietà Hotspurs | Challenge League | Hamrun
+2026-03-08 A 2-2 v Swieqi United | Challenge League | ?
+2026-03-05 A 3-0 v Marsa | Challenge Cup | ?
+Listed home: 9 games, scored 9 (1.00), conceded 15 (1.67), blanks 4, clean sheets 2
+Listed away: 11 games, scored 21 (1.91), conceded 14 (1.27), blanks 3, clean sheets 3
+All: 20 games, scored 30 (1.50), conceded 29 (1.45), blanks 7, clean sheets 5
 
 === Marsaxlokk (id 14507): last 20 finished games ===
 2026-10-16 H 2-0 v Birkirkara | Premier League | Hamrun
@@ -28,9 +53,7 @@ Listed home: 14 games, scored 18 (1.29), conceded 16 (1.14), blanks 3, clean she
 Listed away: 6 games, scored 10 (1.67), conceded 11 (1.83), blanks 1, clean sheets 0
 All: 20 games, scored 28 (1.40), conceded 27 (1.35), blanks 4, clean sheets 4
 
-!! Birzebbuga St Peters: No team found for "Birzebbuga St Peters".
-
-TABLE FOR Marsaxlokk
+TABLE FOR Birzebbuga
 LEAGUE TABLE Premier League 2026 | 12 teams | 48 games played
 League averages per game: home 1.33, away 1.44, total 2.77
 #   team                   Pts | home P GF-GA  | away P GF-GA  | all P GF-GA
@@ -47,7 +70,9 @@ League averages per game: home 1.33, away 1.44, total 2.77
 11  Gzira United             4 |  4   3-6       |  4   3-11      |  8   6-17
 12  Birzebbuga               1 |  4   1-10      |  4   2-7       |  8   3-17
 
-(14 API-Football requests used)
+(Marsaxlokk: same table as Birzebbuga, shown above)
+
+(25 API-Football requests used)
 
 ----------------------------------------------------------------------
 MATCHBOOK: skipped (switched off for this run)
