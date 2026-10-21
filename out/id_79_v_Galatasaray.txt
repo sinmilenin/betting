@@ -1,22 +1,33 @@
-MATCH Lille v Galatasaray | fetched 2026-10-21 13:57 local
+MATCH id:79 v Galatasaray | fetched 2026-10-21 13:58 local
 
-FORM DATA Lille v Galatasaray | source API-Football | 2026-10-21 13:57 UTC
+FORM DATA id:79 v Galatasaray | source API-Football | 2026-10-21 13:58 UTC
 H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
 
-"Lille" matches several teams. Use id:<number> instead of the name:
-  id:79     Lille (France)
-  id:321    Lillestrom (Norway)
-  id:1678   Lille W (France)
-  id:5734   Lille (Belgium)
-  id:7908   Lille U19 (France)
-  id:9234   Lille II (France)
-  id:13652  Lille Sud (France)
-  id:13653  Lillebonne (France)
-  id:14306  Lilleküla Retro (Estonia)
-  id:16207  Lillestrøm II (Norway)
-  id:16559  Lillestrøm U19 (Norway)
-  id:18437  Lillehammer (Norway)
-  id:19535  Sparta Lille (Belgium)
+=== Lille (id 79): last 20 finished games ===
+2026-10-17 H 1-1 v Stade Brestois 29 | Ligue 1 | Lille | xG 2.17-0.78
+2026-10-13 A 0-3 v Arsenal | UEFA Champions League | London | xG 0.30-1.70
+2026-10-10 H 1-0 v Le Havre | Ligue 1 | Lille | xG 1.26-1.28
+2026-10-02 H 2-1 v Zulte Waregem | Friendlies Clubs | ?
+2026-09-20 A 1-2 v Nice | Ligue 1 | Nice | xG 1.58-1.50
+2026-09-13 H 2-0 v Estac Troyes | Ligue 1 | Lille | xG 1.65-0.38
+2026-09-08 H 2-3 v Real Betis | UEFA Champions League | Lille | xG 0.83-1.80
+2026-09-03 A 1-0 v Toulouse | Ligue 1 | Toulouse | xG 1.21-3.46
+2026-08-28 H 2-2 v Paris Saint Germain | Ligue 1 | Lille | xG 1.27-1.44
+2026-08-23 A 2-0 v Angers | Ligue 1 | Angers | xG 1.24-1.99
+2026-08-15 A 1-1 v Everton | Friendlies Clubs | Liverpool
+2026-08-08 A 2-2 v Hamburger SV | Friendlies Clubs | ?
+2026-08-01 A 6-3 v OH Leuven | Friendlies Clubs | ?
+2026-07-25 A 1-2 v Union St. Gilloise | Friendlies Clubs | ?
+2026-07-18 H 3-0 v RAAL La Louvière | Friendlies Clubs | ?
+2026-05-17 H 0-2 v Auxerre | Ligue 1 | Lille
+2026-05-10 A 1-0 v Monaco | Ligue 1 | Monaco
+2026-05-03 H 1-1 v Le Havre | Ligue 1 | Lille
+2026-04-26 A 1-0 v Paris FC | Ligue 1 | Paris
+2026-04-18 H 0-0 v Nice | Ligue 1 | Lille
+Listed home: 10 games, scored 14 (1.40), conceded 10 (1.00), blanks 2, clean sheets 4
+Listed away: 10 games, scored 16 (1.60), conceded 13 (1.30), blanks 1, clean sheets 4
+All: 20 games, scored 30 (1.50), conceded 23 (1.15), blanks 3, clean sheets 8
+
 === Galatasaray (id 645): last 20 finished games ===
 2026-10-17 A 1-0 v Gençlerbirliği S.K. | Süper Lig | Ankara | xG 1.92-1.74
 2026-10-13 H 1-4 v Barcelona | UEFA Champions League | Istanbul | xG 0.42-2.86
@@ -42,22 +53,28 @@ Listed home: 11 games, scored 21 (1.91), conceded 21 (1.91), blanks 2, clean she
 Listed away: 9 games, scored 18 (2.00), conceded 18 (2.00), blanks 2, clean sheets 2
 All: 20 games, scored 39 (1.95), conceded 39 (1.95), blanks 4, clean sheets 4
 
-(retrying Lille using the opponent's country, Turkey)
-"Lille" matches several teams. Use id:<number> instead of the name:
-  id:79     Lille (France)
-  id:321    Lillestrom (Norway)
-  id:1678   Lille W (France)
-  id:5734   Lille (Belgium)
-  id:7908   Lille U19 (France)
-  id:9234   Lille II (France)
-  id:13652  Lille Sud (France)
-  id:13653  Lillebonne (France)
-  id:14306  Lilleküla Retro (Estonia)
-  id:16207  Lillestrøm II (Norway)
-  id:16559  Lillestrøm U19 (Norway)
-  id:18437  Lillehammer (Norway)
-  id:19535  Sparta Lille (Belgium)
-!! Lille: Ambiguous team name "Lille".
+TABLE FOR Lille
+LEAGUE TABLE Ligue 1 2026 | 18 teams | 63 games played
+League averages per game: home 1.63, away 1.41, total 3.05
+#   team                   Pts | home P GF-GA  | away P GF-GA  | all P GF-GA
+1   Lyon                    14 |  4  10-3       |  3   3-2       |  7  13-5
+2   Paris Saint Germain     14 |  2   4-3       |  5  10-6       |  7  14-9
+3   Paris FC                14 |  4   9-4       |  3   3-3       |  7  12-7
+4   Lille                   14 |  4   6-3       |  3   4-2       |  7  10-5
+5   Monaco                  14 |  3   6-3       |  4   4-3       |  7  10-6
+6   Rennes                  13 |  4  10-5       |  3   5-9       |  7  15-14
+7   Lorient                 11 |  4   5-4       |  3   2-2       |  7   7-6
+8   Lens                    10 |  3   7-4       |  4   7-7       |  7  14-11
+9   Marseille                9 |  3   7-5       |  4   7-5       |  7  14-10
+10  Stade Brestois 29        9 |  3   7-4       |  4   6-6       |  7  13-10
+11  Toulouse                 9 |  3   3-5       |  4   9-6       |  7  12-11
+12  Auxerre                  9 |  3   4-4       |  4   7-13      |  7  11-17
+13  Nice                     8 |  4   5-3       |  3   1-6       |  7   6-9
+14  Strasbourg               7 |  3   4-5       |  4   8-10      |  7  12-15
+15  Angers                   7 |  4   5-9       |  3   4-6       |  7   9-15
+16  Le Mans                  6 |  4   6-8       |  3   4-7       |  7  10-15
+17  Estac Troyes             4 |  4   3-11      |  3   2-5       |  7   5-16
+18  Le Havre                 2 |  4   2-6       |  3   3-5       |  7   5-11
 
 TABLE FOR Galatasaray
 LEAGUE TABLE Süper Lig 2026 | 18 teams | 72 games played
@@ -82,7 +99,7 @@ League averages per game: home 1.68, away 1.21, total 2.89
 17  Samsunspor               4 |  4   4-13      |  4   3-6       |  8   7-19
 18  Eyüpspor                 3 |  4   2-8       |  4   0-14      |  8   2-22
 
-(15 API-Football requests used)
+(26 API-Football requests used)
 
 ----------------------------------------------------------------------
 MATCHBOOK: skipped (switched off for this run)
