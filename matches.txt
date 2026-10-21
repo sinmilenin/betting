@@ -1,3 +1,2 @@
-# Scan 2026-10-21 19:41 (Ljubljana)
-Everton W v Newcastle W | n=20 | xg=10
-Southampton W v Crystal Palace W | n=20 | xg=10
+# Scan 2026-10-21 19:41 (Ljubljana), retry Newcastle W
+Everton W v Newcastle United W | n=20 | xg=10
