@@ -1,2 +1,10 @@
-# Scan 2026-10-21 19:41 (Ljubljana), retry Newcastle W
-Everton W v Newcastle United W | n=20 | xg=10
+# Night scan 2026-10-21 (Ljubljana)
+Deportivo La Guaira v Aragua | n=20 | xg=10
+Deportivo Tachira v Monagas | n=20 | xg=10
+FC Cincinnati v DC United | n=20 | xg=10
+Portuguesa FC v Zamora | n=20 | xg=10
+Palmeiras v Fluminense | n=20 | xg=10
+Puebla v Monterrey | n=20 | xg=10
+Atlas v Club America | n=20 | xg=10
+Toluca v Tijuana | n=20 | xg=10
+Santos Laguna v Pumas UNAM | n=20 | xg=10
