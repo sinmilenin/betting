@@ -1,7 +1,5 @@
-RUN 2026-10-21 16:16 local | 5 match(es)
-id:66 v Viking -> out/id_66_v_Viking.txt
-id:569 v Lens -> out/id_569_v_Lens.txt
-id:157 v id:42 -> out/id_157_v_id_42.txt
-id:505 v Shakhtar Donetsk -> out/id_505_v_Shakhtar_Donetsk.txt
-Sporting CP v id:1026 -> out/Sporting_CP_v_id_1026.txt
-Requests used: API-Football 129, Matchbook 0
+RUN 2026-10-21 17:42 local | 2 match(es)
+Everton W v Newcastle W -> out/Everton_W_v_Newcastle_W.txt
+    !! Newcastle W: No team found for "Newcastle W".
+Southampton W v Crystal Palace W -> out/Southampton_W_v_Crystal_Palace_W.txt
+Requests used: API-Football 40, Matchbook 0
