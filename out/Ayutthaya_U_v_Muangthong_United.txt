@@ -1,32 +1,7 @@
-MATCH Ayutthaya v Muangthong United | fetched 2026-10-21 10:15 local
+MATCH Ayutthaya U v Muangthong United | fetched 2026-10-21 10:16 local
 
-FORM DATA Ayutthaya v Muangthong United | source API-Football | 2026-10-21 10:15 UTC
+FORM DATA Ayutthaya U v Muangthong United | source API-Football | 2026-10-21 10:16 UTC
 H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
-
-=== Ayutthaya (id 13276): last 20 finished games ===
-2015-12-12 H 3-1 v Samut Songkhram | Thai League 2 | Ayutthaya
-2015-12-09 H 1-0 v TTM Customs FC | Thai League 2 | Ayutthaya
-2015-12-05 A 1-0 v Bangkok | Thai League 2 | Thonburi
-2015-11-29 H 1-1 v Krabi FC | Thai League 2 | Ayutthaya
-2015-11-25 A 2-2 v Prachuap | Thai League 2 | Prachuap Khiri Khan
-2015-11-22 H 0-2 v Chiangmai FC | Thai League 2 | Ayutthaya
-2015-11-01 A 1-2 v Phuket | Thai League 2 | Phuket
-2015-10-28 H 0-2 v Air Force Central FC | Thai League 2 | Ayutthaya
-2015-10-25 A 1-4 v Pattaya United | Thai League 2 | Pattaya
-2015-10-18 H 3-1 v Thai Honda FC | Thai League 2 | Ayutthaya
-2015-09-26 H 2-1 v PTT Rayong | Thai League 2 | Ayutthaya
-2015-09-19 H 2-6 v Sukhothai FC | Thai League 2 | Ayutthaya
-2015-09-13 A 0-1 v Bbcu | Thai League 2 | Nonthaburi
-2015-08-23 H 3-0 v Trat FC | Thai League 2 | Ayutthaya
-2015-08-19 H 0-0 v Songkhla United | Thai League 2 | Ayutthaya
-2015-08-15 H 0-0 v Nakhon Pathom | Thai League 2 | Ayutthaya
-2015-08-08 A 1-4 v Ang Thong FC | Thai League 2 | Ang Thong
-2015-08-01 H 1-2 v Phichit | Thai League 2 | Ayutthaya
-2015-07-25 A 0-4 v Police United | Thai League 2 | Bangkok
-2015-07-18 A 1-0 v TTM Customs FC | Thai League 2 | Bangkok
-Listed home: 12 games, scored 16 (1.33), conceded 16 (1.33), blanks 4, clean sheets 4
-Listed away: 8 games, scored 7 (0.88), conceded 17 (2.12), blanks 2, clean sheets 2
-All: 20 games, scored 23 (1.15), conceded 33 (1.65), blanks 6, clean sheets 6
 
 === Muangthong United (id 2786): last 20 finished games ===
 2026-10-18 A 0-0 v Mahasarakham United | Thai League 2 | ?
@@ -53,7 +28,7 @@ Listed home: 10 games, scored 11 (1.10), conceded 9 (0.90), blanks 2, clean shee
 Listed away: 10 games, scored 4 (0.40), conceded 16 (1.60), blanks 7, clean sheets 3
 All: 20 games, scored 15 (0.75), conceded 25 (1.25), blanks 9, clean sheets 6
 
-(no league table available for Ayutthaya: tried Thai League 2 2015)
+!! Ayutthaya U: No team found for "Ayutthaya U".
 
 TABLE FOR Muangthong United
 LEAGUE TABLE Thai League 2 2026 | 18 teams | 63 games played
@@ -78,7 +53,7 @@ League averages per game: home 1.51, away 1.13, total 2.63
 17  Mahasarakham United      4 |  4   4-5       |  3   2-7       |  7   6-12
 18  Kasetsart FC             4 |  3   3-3       |  4   3-11      |  7   6-14
 
-(26 API-Football requests used)
+(14 API-Football requests used)
 
 ----------------------------------------------------------------------
 MATCHBOOK: skipped (switched off for this run)
