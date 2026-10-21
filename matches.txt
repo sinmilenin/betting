@@ -1,3 +1,2 @@
-# Scan 2026-10-21 16:41 (Ljubljana)
-Zlate Moravce v Komarno | n=20 | xg=10
-Al Ahly v El Qanah | n=20 | xg=10
+# Scan 2026-10-21 16:41 (Ljubljana), retry Komarno id
+Zlate Moravce v id:10535 | n=20 | xg=10
