@@ -1,20 +1,7 @@
-RUN 2026-10-21 08:42 local | 15 match(es)
-Avispa Fukuoka v Gamba Osaka -> out/Avispa_Fukuoka_v_Gamba_Osaka.txt
-Kawasaki Frontale v Vissel Kobe -> out/Kawasaki_Frontale_v_Vissel_Kobe.txt
-V-Varen Nagasaki v Sanfrecce Hiroshima -> out/V_Varen_Nagasaki_v_Sanfrecce_Hiroshima.txt
-    !! V-Varen Nagasaki: API-Football error: {"search": "The Search field may only contain alpha-numeric characters and spaces."}
-Nagoya Grampus v Cerezo Osaka -> out/Nagoya_Grampus_v_Cerezo_Osaka.txt
-Fagiano Okayama v Mito Hollyhock -> out/Fagiano_Okayama_v_Mito_Hollyhock.txt
-FC Tokyo v Kashiwa Reysol -> out/FC_Tokyo_v_Kashiwa_Reysol.txt
-Yokohama F. Marinos v Tokyo Verdy -> out/Yokohama_F_Marinos_v_Tokyo_Verdy.txt
-    !! Yokohama F. Marinos: API-Football error: {"search": "The Search field may only contain alpha-numeric characters and spaces."}
-Albirex Niigata v Sagan Tosu -> out/Albirex_Niigata_v_Sagan_Tosu.txt
-Shonan Bellmare v Iwaki -> out/Shonan_Bellmare_v_Iwaki.txt
-Tegevajaro Miyazaki v Blaublitz Akita -> out/Tegevajaro_Miyazaki_v_Blaublitz_Akita.txt
-Kagoshima United v Kochi United -> out/Kagoshima_United_v_Kochi_United.txt
-FC Gifu v Sagamihara -> out/FC_Gifu_v_Sagamihara.txt
-Kamatamare Sanuki v Zweigen Kanazawa -> out/Kamatamare_Sanuki_v_Zweigen_Kanazawa.txt
-    !! Zweigen Kanazawa: No team found for "Zweigen Kanazawa".
-Urawa v JEF United Chiba -> out/Urawa_v_JEF_United_Chiba.txt
-Ventforet Kofu v Yokohama FC -> out/Ventforet_Kofu_v_Yokohama_FC.txt
-Requests used: API-Football 325, Matchbook 0
+RUN 2026-10-21 08:44 local | 3 match(es)
+V varen Nagasaki v Sanfrecce Hiroshima -> out/V_varen_Nagasaki_v_Sanfrecce_Hiroshima.txt
+    !! V varen Nagasaki: No team found for "V varen Nagasaki".
+Yokohama F Marinos v Tokyo Verdy -> out/Yokohama_F_Marinos_v_Tokyo_Verdy.txt
+    !! Yokohama F Marinos: No team found for "Yokohama F Marinos".
+Kamatamare Sanuki v Kanazawa -> out/Kamatamare_Sanuki_v_Kanazawa.txt
+Requests used: API-Football 52, Matchbook 0

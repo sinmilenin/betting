@@ -1,6 +1,6 @@
-MATCH Kamatamare Sanuki v Zweigen Kanazawa | fetched 2026-10-21 08:42 local
+MATCH Kamatamare Sanuki v Kanazawa | fetched 2026-10-21 08:44 local
 
-FORM DATA Kamatamare Sanuki v Zweigen Kanazawa | source API-Football | 2026-10-21 08:43 UTC
+FORM DATA Kamatamare Sanuki v Kanazawa | source API-Football | 2026-10-21 08:44 UTC
 H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
 
 === Kamatamare Sanuki (id 317): last 20 finished games ===
@@ -28,7 +28,30 @@ Listed home: 10 games, scored 11 (1.10), conceded 22 (2.20), blanks 6, clean she
 Listed away: 10 games, scored 11 (1.10), conceded 14 (1.40), blanks 2, clean sheets 1
 All: 20 games, scored 22 (1.10), conceded 36 (1.80), blanks 8, clean sheets 3
 
-!! Zweigen Kanazawa: No team found for "Zweigen Kanazawa".
+=== Kanazawa (id 300): last 20 finished games ===
+2026-10-17 H 0-1 v Nara Club | J3 League | Kanazawa
+2026-10-09 A 1-1 v Osaka | J3 League | Higashiosaka
+2026-10-03 A 2-0 v FC Ryukyu | J3 League | Okinawa
+2026-09-29 H 0-2 v Shimizu S-pulse | J-League Cup | Kanazawa
+2026-09-26 H 4-1 v Gainare Tottori | J3 League | Kanazawa
+2026-09-20 H 1-2 v Renofa Yamaguchi | J3 League | Kanazawa
+2026-09-13 A 1-1 v Kochi United | J3 League | Kochi
+2026-09-05 A 1-0 v FC Gifu | J3 League | Gifu
+2026-09-02 H 2-1 v Imabari | J-League Cup | Kanazawa
+2026-08-30 H 0-1 v Ehime FC | J3 League | Kanazawa
+2026-08-23 A 1-2 v Sagamihara | J3 League | Sagamihara
+2026-08-19 H 1-4 v Kyoto Sangyo University | Emperor Cup | Kanazawa
+2026-08-15 H 4-3 v Fukushima United | J3 League | Kanazawa
+2026-08-09 A 2-3 v Tochigi SC | J3 League | Utsunomiya
+2026-07-24 H 0-6 v Gamba Osaka | Friendlies Clubs | ?
+2026-06-07 H 4-1 v Thespakusatsu Gunma | J2/J3 League | Kanazawa
+2026-05-31 H 1-3 v Gainare Tottori | J2/J3 League | Kanazawa
+2026-05-24 H 2-0 v Kochi United | J2/J3 League | Kanazawa
+2026-05-17 A 1-1 v Osaka | J2/J3 League | Higashiosaka [PEN, 90-min score shown]
+2026-05-10 H 1-1 v Albirex Niigata | J2/J3 League | Kanazawa [PEN, 90-min score shown]
+Listed home: 13 games, scored 20 (1.54), conceded 26 (2.00), blanks 4, clean sheets 1
+Listed away: 7 games, scored 9 (1.29), conceded 8 (1.14), blanks 0, clean sheets 2
+All: 20 games, scored 29 (1.45), conceded 34 (1.70), blanks 4, clean sheets 3
 
 TABLE FOR Kamatamare Sanuki
 LEAGUE TABLE J3 League 2026 | 20 teams | 113 games played
@@ -55,7 +78,9 @@ League averages per game: home 1.50, away 1.32, total 2.82
 19  Kamatamare Sanuki        5 |  5   6-14      |  6   6-9       | 11  12-23
 20  Kochi United             5 |  6   4-11      |  5   0-14      | 11   4-25
 
-(13 API-Football requests used)
+(Kanazawa: same table as Kamatamare Sanuki, shown above)
+
+(25 API-Football requests used)
 
 ----------------------------------------------------------------------
 MATCHBOOK: skipped (switched off for this run)

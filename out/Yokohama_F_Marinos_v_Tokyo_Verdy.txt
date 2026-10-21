@@ -1,6 +1,6 @@
-MATCH Yokohama F. Marinos v Tokyo Verdy | fetched 2026-10-21 08:42 local
+MATCH Yokohama F Marinos v Tokyo Verdy | fetched 2026-10-21 08:44 local
 
-FORM DATA Yokohama F. Marinos v Tokyo Verdy | source API-Football | 2026-10-21 08:43 UTC
+FORM DATA Yokohama F Marinos v Tokyo Verdy | source API-Football | 2026-10-21 08:44 UTC
 H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
 
 === Tokyo Verdy (id 306): last 20 finished games ===
@@ -28,7 +28,7 @@ Listed home: 10 games, scored 9 (0.90), conceded 26 (2.60), blanks 5, clean shee
 Listed away: 10 games, scored 6 (0.60), conceded 7 (0.70), blanks 4, clean sheets 6
 All: 20 games, scored 15 (0.75), conceded 33 (1.65), blanks 9, clean sheets 6
 
-!! Yokohama F. Marinos: API-Football error: {"search": "The Search field may only contain alpha-numeric characters and spaces."}
+!! Yokohama F Marinos: No team found for "Yokohama F Marinos".
 
 TABLE FOR Tokyo Verdy
 LEAGUE TABLE J1 League 2027 | 20 teams | 100 games played
