@@ -1,0 +1,21 @@
+MATCH Levante v Athletic Bilbao | fetched 2026-10-21 15:27 local
+
+FORM DATA Levante v Athletic Bilbao | source API-Football | 2026-10-21 15:27 UTC
+H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
+
+"Levante" matches several teams. Use id:<number> instead of the name:
+  id:539    Levante (Spain)
+  id:1911   Levante W (Spain)
+  id:9591   Levante II (Spain)
+  id:17815  Sestri Levante (Italy)
+  id:19896  FC Levante Badalona W (Spain)
+  id:19924  Levante U20 (Spain)
+  id:28408  Levante (Greece)
+!! Levante: Ambiguous team name "Levante".
+
+!! Athletic Bilbao: No team found for "Athletic Bilbao".
+
+(2 API-Football requests used)
+
+----------------------------------------------------------------------
+MATCHBOOK: skipped (switched off for this run)

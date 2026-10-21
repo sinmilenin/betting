@@ -1,3 +1,7 @@
-RUN 2026-10-21 14:43 local | 1 match(es)
-Zlate Moravce v id:10535 -> out/Zlate_Moravce_v_id_10535.txt
-Requests used: API-Football 26, Matchbook 0
+RUN 2026-10-21 15:27 local | 2 match(es)
+Levante v Athletic Bilbao -> out/Levante_v_Athletic_Bilbao.txt
+    !! Levante: Ambiguous team name "Levante".
+    !! Athletic Bilbao: No team found for "Athletic Bilbao".
+Birzebbuga St Peters v Marsaxlokk -> out/Birzebbuga_St_Peters_v_Marsaxlokk.txt
+    !! Birzebbuga St Peters: No team found for "Birzebbuga St Peters".
+Requests used: API-Football 16, Matchbook 0
