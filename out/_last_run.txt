@@ -1,5 +1,3 @@
-RUN 2026-10-21 13:22 local | 1 match(es)
-Ghazl El Mahallah v Al Ittihad -> out/Ghazl_El_Mahallah_v_Al_Ittihad.txt
-    !! Ghazl El Mahallah: No team found for "Ghazl El Mahallah".
-    !! Al Ittihad: Ambiguous team name "Al Ittihad".
-Requests used: API-Football 2, Matchbook 0
+RUN 2026-10-21 13:23 local | 1 match(es)
+Ghazl El Mehalla v id:1572 -> out/Ghazl_El_Mehalla_v_id_1572.txt
+Requests used: API-Football 25, Matchbook 0
