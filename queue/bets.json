@@ -1,60 +1,5 @@
 [
   {
-    "id": "2026-10-21_urawa-jef-utd-chiba_0-0",
-    "date": "2026-10-21",
-    "ko": "12:30",
-    "match": "Urawa v Jef Utd Chiba",
-    "comp": "Japan, Japanese J League",
-    "cell": "0-0",
-    "lay": 17.5,
-    "stake": 3,
-    "created": "2026-10-21T08:49:29+00:00"
-  },
-  {
-    "id": "2026-10-21_urawa-jef-utd-chiba_1-0",
-    "date": "2026-10-21",
-    "ko": "12:30",
-    "match": "Urawa v Jef Utd Chiba",
-    "comp": "Japan, Japanese J League",
-    "cell": "1-0",
-    "lay": 8.8,
-    "stake": 3,
-    "created": "2026-10-21T08:49:29+00:00"
-  },
-  {
-    "id": "2026-10-21_urawa-jef-utd-chiba_2-0",
-    "date": "2026-10-21",
-    "ko": "12:30",
-    "match": "Urawa v Jef Utd Chiba",
-    "comp": "Japan, Japanese J League",
-    "cell": "2-0",
-    "lay": 9.8,
-    "stake": 3,
-    "created": "2026-10-21T08:49:29+00:00"
-  },
-  {
-    "id": "2026-10-21_urawa-jef-utd-chiba_2-1",
-    "date": "2026-10-21",
-    "ko": "12:30",
-    "match": "Urawa v Jef Utd Chiba",
-    "comp": "Japan, Japanese J League",
-    "cell": "2-1",
-    "lay": 9.6,
-    "stake": 3,
-    "created": "2026-10-21T08:49:29+00:00"
-  },
-  {
-    "id": "2026-10-21_urawa-jef-utd-chiba_3-0",
-    "date": "2026-10-21",
-    "ko": "12:30",
-    "match": "Urawa v Jef Utd Chiba",
-    "comp": "Japan, Japanese J League",
-    "cell": "3-0",
-    "lay": 15,
-    "stake": 3,
-    "created": "2026-10-21T09:32:18+00:00"
-  },
-  {
     "id": "2026-10-21_osc-lille-u19-galatasaray-u19_3-1",
     "date": "2026-10-21",
     "ko": "14:00",
@@ -383,5 +328,38 @@
     "lay": 10.5,
     "stake": 3,
     "created": "2026-10-21T16:21:03Z"
+  },
+  {
+    "id": "2026-10-21_levante-athletic-bilbao_1-0",
+    "date": "2026-10-21",
+    "ko": "20:00",
+    "match": "Levante v Athletic Bilbao",
+    "comp": "Spain, Spanish La Liga",
+    "cell": "1-0",
+    "lay": 12.5,
+    "stake": 3,
+    "created": "2026-10-21T17:01:28Z"
+  },
+  {
+    "id": "2026-10-21_liverpool-montevideo-cerro-largo-fc_2-1",
+    "date": "2026-10-21",
+    "ko": "21:00",
+    "match": "Liverpool Montevideo v Cerro Largo FC",
+    "comp": "Uruguay, Uruguayan Cup",
+    "cell": "2-1",
+    "lay": 11,
+    "stake": 3,
+    "created": "2026-10-21T17:01:28Z"
+  },
+  {
+    "id": "2026-10-21_liverpool-montevideo-cerro-largo-fc_1-2",
+    "date": "2026-10-21",
+    "ko": "21:00",
+    "match": "Liverpool Montevideo v Cerro Largo FC",
+    "comp": "Uruguay, Uruguayan Cup",
+    "cell": "1-2",
+    "lay": 18,
+    "stake": 3,
+    "created": "2026-10-21T17:01:28Z"
   }
 ]
