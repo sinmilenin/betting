@@ -1,5 +1,3 @@
-RUN 2026-10-21 17:42 local | 2 match(es)
-Everton W v Newcastle W -> out/Everton_W_v_Newcastle_W.txt
-    !! Newcastle W: No team found for "Newcastle W".
-Southampton W v Crystal Palace W -> out/Southampton_W_v_Crystal_Palace_W.txt
-Requests used: API-Football 40, Matchbook 0
+RUN 2026-10-21 17:44 local | 1 match(es)
+Everton W v Newcastle United W -> out/Everton_W_v_Newcastle_United_W.txt
+Requests used: API-Football 27, Matchbook 0
