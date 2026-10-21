@@ -1,0 +1,98 @@
+MATCH Como U19 v Manchester United U19 | fetched 2026-10-21 09:27 local
+
+FORM DATA Como U19 v Manchester United U19 | source API-Football | 2026-10-21 09:27 UTC
+H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
+
+=== Como U19 (id 17728): last 20 finished games ===
+2026-10-14 A 0-1 v Feyenoord U19 | UEFA Youth League | Rotterdam
+2026-09-10 H 1-1 v RB Leipzig U19 | UEFA Youth League | Rovello Porro
+2026-05-18 A 1-4 v Empoli U19 | Campionato Primavera - 2 | ?
+2026-05-09 A 2-2 v Virtus Entella U19 | Campionato Primavera - 2 | ?
+2026-05-02 H 1-3 v Modena U19 | Campionato Primavera - 2 | ?
+2026-04-25 A 0-1 v Brescia U19 | Campionato Primavera - 2 | ?
+2026-04-18 H 2-0 v Venezia U19 | Campionato Primavera - 2 | ?
+2026-04-11 A 3-2 v Vicenza U19 | Campionato Primavera - 2 | ?
+2026-04-04 H 2-2 v Lecco U19 | Campionato Primavera - 2 | ?
+2026-03-21 A 2-1 v Sampdoria U19 | Campionato Primavera - 2 | ?
+2026-03-14 H 1-0 v Sudtirol U19 | Campionato Primavera - 2 | ?
+2026-03-07 H 1-2 v Reggiana U19 | Campionato Primavera - 2 | ?
+2026-02-28 A 2-0 v Renate U19 | Campionato Primavera - 2 | ?
+2026-02-22 H 3-1 v Padova U19 | Campionato Primavera - 2 | ?
+2026-02-14 A 1-0 v Pro Vercelli U19 | Campionato Primavera - 2 | ?
+2026-02-07 H 2-2 v Udinese U19 | Campionato Primavera - 2 | ?
+2026-01-31 A 4-3 v AlbinoLeffe U19 | Campionato Primavera - 2 | ?
+2026-01-24 A 4-1 v Cittadella U19 | Campionato Primavera - 2 | ?
+2026-01-17 H 1-0 v Vicenza U19 | Campionato Primavera - 2 | ?
+2026-01-10 A 1-1 v Reggiana U19 | Campionato Primavera - 2 | ?
+Listed home: 9 games, scored 14 (1.56), conceded 11 (1.22), blanks 0, clean sheets 3
+Listed away: 11 games, scored 20 (1.82), conceded 16 (1.45), blanks 2, clean sheets 2
+All: 20 games, scored 34 (1.70), conceded 27 (1.35), blanks 2, clean sheets 5
+
+=== Manchester United U19 (id 7960): last 20 finished games ===
+2026-10-13 A 0-3 v Atlético Madrid U19 | UEFA Youth League | Madrid
+2026-09-10 H 5-0 v Sabah U19 | UEFA Youth League | Leigh
+2024-12-10 H 0-0 v AZ U19 | UEFA Youth League | Manchester
+2024-11-26 A 1-2 v AZ U19 | UEFA Youth League | Wijdewormer
+2024-11-06 H 6-0 v Žalgiris U19 | UEFA Youth League | Leigh, Greater Manchester
+2024-10-23 A 5-2 v Žalgiris U19 | UEFA Youth League | Vilnius
+2023-12-12 H 0-2 v Bayern München U19 | UEFA Youth League | Leigh, Greater Manchester
+2023-11-29 A 0-1 v Galatasaray U19 | UEFA Youth League | İstanbul
+2023-11-08 A 2-2 v København U19 | UEFA Youth League | Brønshøj
+2023-10-24 H 0-1 v København U19 | UEFA Youth League | Leigh, Greater Manchester
+2023-10-03 H 3-0 v Galatasaray U19 | UEFA Youth League | Leigh, Greater Manchester
+2023-09-20 A 0-2 v Bayern München U19 | UEFA Youth League | München
+2023-08-05 A 5-4 v Dinamo Zagreb U19 | Friendlies Clubs | ?
+2023-08-04 A 1-1 v Udinese U19 | Friendlies Clubs | ?
+2023-08-03 H 3-2 v Monaco  U19 | Friendlies Clubs | ?
+2022-03-01 H 2-2 v Borussia Dortmund U19 | UEFA Youth League | Leigh, Greater Manchester [PEN, 90-min score shown]
+2021-12-08 H 2-1 v Young Boys U19 | UEFA Youth League | Leigh, Greater Manchester
+2021-11-23 A 2-1 v Villarreal U19 | UEFA Youth League | Villarreal
+2021-11-02 A 2-1 v Atalanta U19 | UEFA Youth League | Zingonia Ciserano
+2021-10-20 H 4-2 v Atalanta U19 | UEFA Youth League | Leigh, Greater Manchester
+Listed home: 10 games, scored 25 (2.50), conceded 10 (1.00), blanks 3, clean sheets 4
+Listed away: 10 games, scored 18 (1.80), conceded 19 (1.90), blanks 3, clean sheets 0
+All: 20 games, scored 43 (2.15), conceded 29 (1.45), blanks 6, clean sheets 4
+
+TABLE FOR Como U19
+LEAGUE TABLE Campionato Primavera - 2 2025 | 32 teams | 480 games played
+League averages per game: home 1.63, away 1.40, total 3.03
+#   team                   Pts | home P GF-GA  | away P GF-GA  | all P GF-GA
+1   Como U19                61 | 15  24-19      | 15  34-12      | 30  58-31 [Primavera 2 , Girone A]
+2   Lecco U19               60 | 15  36-25      | 15  29-25      | 30  65-50 [Primavera 2 , Girone A]
+3   Modena U19              55 | 15  33-17      | 15  22-21      | 30  55-38 [Primavera 2 , Girone A]
+4   AlbinoLeffe U19         47 | 15  32-28      | 15  25-30      | 30  57-58 [Primavera 2 , Girone A]
+5   Reggiana U19            46 | 15  28-21      | 15  30-23      | 30  58-44 [Primavera 2 , Girone A]
+6   Pro Vercelli U19        46 | 15  27-24      | 15  17-22      | 30  44-46 [Primavera 2 , Girone A]
+7   Virtus Entella U19      43 | 15  25-15      | 15  22-23      | 30  47-38 [Primavera 2 , Girone A]
+8   Sampdoria U19           41 | 15  31-27      | 15  26-21      | 30  57-48 [Primavera 2 , Girone A]
+9   Vicenza U19             38 | 15  20-27      | 15  25-26      | 30  45-53 [Primavera 2 , Girone A]
+10  Sudtirol U19            37 | 15  16-11      | 15  19-24      | 30  35-35 [Primavera 2 , Girone A]
+11  Udinese U20             36 | 15  34-23      | 15  18-27      | 30  52-50 [Primavera 2 , Girone A]
+12  Cittadella U19          36 | 15  20-29      | 15  22-20      | 30  42-49 [Primavera 2 , Girone A]
+13  Renate U19              33 | 15  18-23      | 15  16-21      | 30  34-44 [Primavera 2 , Girone A]
+14  FeralpiSalò U19         30 | 15  10-22      | 15  21-24      | 30  31-46 [Primavera 2 , Girone A]
+15  Venezia U19             26 | 15  17-27      | 15  15-36      | 30  32-63 [Primavera 2 , Girone A]
+16  Padova U19              25 | 15  14-23      | 15  20-30      | 30  34-53 [Primavera 2 , Girone A]
+1   Empoli U19              74 | 15  40-10      | 15  34-9       | 30  74-19 [Primavera 2 , Girone B]
+2   Perugia U19             55 | 15  29-12      | 15  17-15      | 30  47-27 [Primavera 2 , Girone B]
+3   Avellino U19            53 | 15  32-17      | 15  22-19      | 30  54-36 [Primavera 2 , Girone B]
+4   Pescara U19             52 | 15  24-12      | 15  27-25      | 30  51-37 [Primavera 2 , Girone B]
+5   Pisa U19                48 | 15  35-17      | 15  19-24      | 30  54-41 [Primavera 2 , Girone B]
+6   Catanzaro U19           48 | 15  24-15      | 15  18-20      | 30  42-35 [Primavera 2 , Girone B]
+7   Spezia U19              48 | 15  40-20      | 15  15-23      | 30  55-43 [Primavera 2 , Girone B]
+8   Benevento U19           44 | 15  24-21      | 15  18-28      | 30  42-50 [Primavera 2 , Girone B]
+9   Ternana U19             42 | 15  35-26      | 15  15-27      | 30  51-54 [Primavera 2 , Girone B]
+10  Monopoli U19            37 | 15  12-19      | 15  27-31      | 30  39-50 [Primavera 2 , Girone B]
+11  Bari U19                35 | 15  20-23      | 15  22-19      | 30  42-42 [Primavera 2 , Girone B]
+12  Ascoli U19              33 | 15  23-24      | 15  24-26      | 30  47-50 [Primavera 2 , Girone B]
+13  Palermo U19             27 | 15  17-16      | 15  17-26      | 30  34-43 [Primavera 2 , Girone B]
+14  Cosenza U19             27 | 15  16-20      | 15  14-40      | 30  32-62 [Primavera 2 , Girone B]
+15  Salernitana U19         24 | 15  16-28      | 15  12-33      | 30  28-61 [Primavera 2 , Girone B]
+16  Crotone U19             13 | 15  11-30      | 15   9-32      | 30  20-62 [Primavera 2 , Girone B]
+
+(no league table available for Manchester United U19: tried UEFA Youth League 2026, UEFA Youth League 2024, UEFA Youth League 2023)
+
+(28 API-Football requests used)
+
+----------------------------------------------------------------------
+MATCHBOOK: skipped (switched off for this run)

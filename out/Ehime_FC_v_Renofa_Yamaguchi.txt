@@ -1,0 +1,86 @@
+MATCH Ehime FC v Renofa Yamaguchi | fetched 2026-10-21 09:27 local
+
+FORM DATA Ehime FC v Renofa Yamaguchi | source API-Football | 2026-10-21 09:27 UTC
+H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
+
+=== Ehime FC (id 318): last 20 finished games ===
+2026-10-17 A 2-4 v Kagoshima United | J3 League | Kagoshima
+2026-10-11 A 2-0 v Roasso Kumamoto | J3 League | Kumamoto
+2026-10-03 H 3-1 v Thespakusatsu Gunma | J3 League | Matsuyama
+2026-09-29 H 0-2 v FC Tokyo | J-League Cup | Matsuyama
+2026-09-26 A 1-1 v FC Ryukyu | J3 League | Okinawa
+2026-09-19 H 2-1 v Kamatamare Sanuki | J3 League | Matsuyama
+2026-09-14 A 1-2 v Osaka | J3 League | Higashiosaka
+2026-09-05 H 4-2 v Kitakyushu | J3 League | Matsuyama
+2026-09-02 H 1-0 v Blaublitz Akita | J-League Cup | Matsuyama
+2026-08-30 A 1-0 v Kanazawa | J3 League | Kanazawa
+2026-08-26 A 2-3 v V-varen Nagasaki | Emperor Cup | Nagasaki
+2026-08-22 A 2-2 v Matsumoto Yamaga | J3 League | Matsumoto
+2026-08-19 H 2-1 v Pacific University | Emperor Cup | Matsuyama
+2026-08-16 H 4-0 v Gainare Tottori | J3 League | Matsuyama
+2026-08-09 H 4-1 v Nara Club | J3 League | Matsuyama
+2026-06-06 A 0-1 v Fujieda MYFC | J2/J3 League | Fujieda
+2026-05-30 H 0-1 v Roasso Kumamoto | J2/J3 League | Matsuyama
+2026-05-23 A 1-2 v Albirex Niigata | J2/J3 League | Niigata
+2026-05-17 A 1-0 v Kochi United | J2/J3 League | Kochi
+2026-05-10 H 0-2 v Kataller Toyama | J2/J3 League | Matsuyama
+Listed home: 10 games, scored 20 (2.00), conceded 11 (1.10), blanks 3, clean sheets 2
+Listed away: 10 games, scored 13 (1.30), conceded 15 (1.50), blanks 1, clean sheets 3
+All: 20 games, scored 33 (1.65), conceded 26 (1.30), blanks 4, clean sheets 5
+
+=== Renofa Yamaguchi (id 309): last 20 finished games ===
+2026-10-18 H 2-0 v Kochi United | J3 League | Yamaguchi
+2026-10-11 A 1-0 v Tochigi SC | J3 League | Utsunomiya
+2026-10-03 A 2-0 v FC Gifu | J3 League | Gifu
+2026-09-26 H 2-2 v Sagamihara | J3 League | Yamaguchi
+2026-09-20 A 2-1 v Kanazawa | J3 League | Kanazawa
+2026-09-12 H 2-0 v Thespakusatsu Gunma | J3 League | Yamaguchi
+2026-09-05 A 3-0 v Gainare Tottori | J3 League | Tottori
+2026-09-02 H 0-2 v Fujieda MYFC | J-League Cup | Yamaguchi
+2026-08-30 H 0-0 v Osaka | J3 League | Yamaguchi
+2026-08-22 A 1-3 v Nara Club | J3 League | Nara
+2026-08-19 A 1-2 v Kagoshima United | Emperor Cup | Kagoshima
+2026-08-15 H 1-0 v FC Ryukyu | J3 League | Yamaguchi
+2026-08-08 A 0-1 v Parceiro Nagano | J3 League | Nagano
+2026-06-06 A 1-2 v Yokohama FC | J2/J3 League | Yokohama
+2026-05-30 A 2-2 v Kochi United | J2/J3 League | Kochi [AET, 90-min score shown]
+2026-05-23 H 1-1 v Roasso Kumamoto | J2/J3 League | Yamaguchi [PEN, 90-min score shown]
+2026-05-16 A 1-1 v Sagan Tosu | J2/J3 League | Tosu [PEN, 90-min score shown]
+2026-05-09 H 0-1 v Tegevajaro Miyazaki | J2/J3 League | Yamaguchi
+2026-05-06 A 4-1 v Biwako Shiga | J2/J3 League | Hikone
+2026-05-02 A 1-4 v Gainare Tottori | J2/J3 League | Tottori
+Listed home: 8 games, scored 8 (1.00), conceded 6 (0.75), blanks 3, clean sheets 4
+Listed away: 12 games, scored 19 (1.58), conceded 17 (1.42), blanks 1, clean sheets 3
+All: 20 games, scored 27 (1.35), conceded 23 (1.15), blanks 4, clean sheets 7
+
+TABLE FOR Ehime FC
+LEAGUE TABLE J3 League 2026 | 20 teams | 113 games played
+League averages per game: home 1.50, away 1.32, total 2.82
+#   team                   Pts | home P GF-GA  | away P GF-GA  | all P GF-GA
+1   Kagoshima United        26 |  6  13-6       |  5  10-7       | 11  23-13
+2   Ehime FC                23 |  5  17-5       |  6   9-9       | 11  26-14
+3   Renofa Yamaguchi        23 |  5   7-2       |  6   9-5       | 11  16-7
+4   Nara Club               23 |  5  12-6       |  6  10-10      | 11  22-16
+5   Sagamihara              21 |  6   8-6       |  5  12-6       | 11  20-12
+6   FC Gifu                 19 |  5  12-4       |  6   9-6       | 11  21-10
+7   Osaka                   17 |  5  13-7       |  6   6-5       | 11  19-12
+8   Roasso Kumamoto         17 |  5   2-5       |  6   8-1       | 11  10-6
+9   Parceiro Nagano         17 |  7   6-6       |  5  10-10      | 12  16-16
+10  FC Ryukyu               17 |  6   8-4       |  6   5-10      | 12  13-14
+11  Kanazawa                14 |  5   9-8       |  6   8-7       | 11  17-15
+12  Biwako Shiga            14 |  6   4-8       |  6  12-11      | 12  16-19
+13  Gainare Tottori         14 |  6   6-10      |  5   7-10      | 11  13-20
+14  Tochigi SC              13 |  6   9-7       |  6   3-9       | 12  12-16
+15  Kitakyushu              13 |  6   9-7       |  6   7-14      | 12  16-21
+16  Matsumoto Yamaga        11 |  6   6-9       |  5   4-4       | 11  10-13
+17  Fukushima United        11 |  6  12-12      |  6  10-15      | 12  22-27
+18  Thespakusatsu Gunma     10 |  6   7-12      |  5   4-8       | 11  11-20
+19  Kamatamare Sanuki        5 |  5   6-14      |  6   6-9       | 11  12-23
+20  Kochi United             5 |  6   4-11      |  5   0-14      | 11   4-25
+
+(Renofa Yamaguchi: same table as Ehime FC, shown above)
+
+(25 API-Football requests used)
+
+----------------------------------------------------------------------
+MATCHBOOK: skipped (switched off for this run)

@@ -1,0 +1,86 @@
+MATCH Jubilo Iwata v Oita Trinita | fetched 2026-10-21 09:27 local
+
+FORM DATA Jubilo Iwata v Oita Trinita | source API-Football | 2026-10-21 09:27 UTC
+H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
+
+=== Jubilo Iwata (id 280): last 20 finished games ===
+2026-10-17 A 1-1 v Tegevajaro Miyazaki | J2 League | Miyazaki
+2026-10-14 H 0-4 v Kawasaki Frontale | J-League Cup | Iwata
+2026-10-10 H 1-0 v Consadole Sapporo | J2 League | Iwata
+2026-10-04 A 1-2 v Vegalta Sendai | J2 League | Sendai
+2026-09-29 H 4-2 v JEF United Chiba | J-League Cup | Iwata
+2026-09-26 H 1-2 v Vanraure Hachinohe | J2 League | Iwata
+2026-09-19 A 1-2 v Albirex Niigata | J2 League | Niigata
+2026-09-12 A 1-0 v Ventforet Kofu | J2 League | Kofu
+2026-09-06 H 0-1 v Kataller Toyama | J2 League | Iwata
+2026-09-02 A 3-0 v Sagamihara | J-League Cup | Sagamihara
+2026-08-29 A 3-1 v Tochigi City | J2 League | Tochigi
+2026-08-26 H 0-0 v Tegevajaro Miyazaki | Emperor Cup | Iwata [AET, 90-min score shown]
+2026-08-22 H 2-1 v Tokushima Vortis | J2 League | Iwata
+2026-08-16 A 1-3 v Yokohama FC | J2 League | Tokyo
+2026-08-08 H 1-1 v Blaublitz Akita | J2 League | Iwata
+2026-06-06 H 1-1 v Osaka | J2/J3 League | Iwata [PEN, 90-min score shown]
+2026-05-30 A 2-2 v Tochigi City | J2/J3 League | Tochigi [PEN, 90-min score shown]
+2026-05-23 A 1-0 v Consadole Sapporo | J2/J3 League | Sapporo
+2026-05-16 H 0-3 v Fujieda MYFC | J2/J3 League | Iwata
+2026-05-10 A 2-4 v Fukushima United | J2/J3 League | Fukushima
+Listed home: 10 games, scored 10 (1.00), conceded 15 (1.50), blanks 4, clean sheets 2
+Listed away: 10 games, scored 16 (1.60), conceded 15 (1.50), blanks 0, clean sheets 3
+All: 20 games, scored 26 (1.30), conceded 30 (1.50), blanks 4, clean sheets 5
+
+=== Oita Trinita (id 298): last 20 finished games ===
+2026-10-17 H 5-1 v Albirex Niigata | J2 League | Oita
+2026-10-10 A 2-1 v Yokohama FC | J2 League | Yokohama
+2026-10-03 H 2-1 v Montedio Yamagata | J2 League | Oita
+2026-09-26 H 1-1 v Fujieda MYFC | J2 League | Oita
+2026-09-19 A 1-1 v Consadole Sapporo | J2 League | Sapporo
+2026-09-12 A 0-0 v Omiya Ardija | J2 League | Saitama
+2026-09-06 H 1-1 v Imabari | J2 League | Oita
+2026-09-02 A 0-2 v Roasso Kumamoto | J-League Cup | Kumamoto
+2026-08-29 A 0-1 v Tokushima Vortis | J2 League | Naruto
+2026-08-26 A 0-0 v Iwaki | Emperor Cup | Iwaki [AET, 90-min score shown]
+2026-08-22 H 4-1 v Iwaki | J2 League | Oita
+2026-08-15 A 0-0 v Vegalta Sendai | J2 League | Sendai
+2026-08-08 H 0-1 v Shonan Bellmare | J2 League | Oita
+2026-06-07 H 1-0 v Montedio Yamagata | J2/J3 League | Oita
+2026-05-30 A 3-3 v Nara Club | J2/J3 League | Nara [AET, 90-min score shown]
+2026-05-24 A 0-0 v Gainare Tottori | J2/J3 League | Tottori [PEN, 90-min score shown]
+2026-05-17 H 1-2 v Tegevajaro Miyazaki | J2/J3 League | Oita
+2026-05-10 H 0-1 v Sagan Tosu | J2/J3 League | Oita
+2026-05-06 A 1-0 v Kagoshima United | J2/J3 League | Kagoshima
+2026-05-03 A 1-2 v Kitakyushu | J2/J3 League | Kitakyushu
+Listed home: 9 games, scored 15 (1.67), conceded 9 (1.00), blanks 2, clean sheets 1
+Listed away: 11 games, scored 8 (0.73), conceded 10 (0.91), blanks 6, clean sheets 5
+All: 20 games, scored 23 (1.15), conceded 19 (0.95), blanks 8, clean sheets 6
+
+TABLE FOR Jubilo Iwata
+LEAGUE TABLE J2 League 2026 | 20 teams | 111 games played
+League averages per game: home 1.48, away 1.13, total 2.60
+#   team                   Pts | home P GF-GA  | away P GF-GA  | all P GF-GA
+1   Vegalta Sendai          24 |  5   7-4       |  6  11-4       | 11  18-8
+2   Omiya Ardija            20 |  5  11-4       |  6  10-7       | 11  21-11
+3   Albirex Niigata         20 |  5   8-3       |  6   7-16      | 11  15-19
+4   Kataller Toyama         19 |  6  11-8       |  5   9-3       | 11  20-11
+5   Yokohama FC             18 |  5  13-6       |  6   7-8       | 11  20-14
+6   Shonan Bellmare         18 |  4   4-5       |  7   8-5       | 11  12-10
+7   Oita Trinita            17 |  6  13-6       |  5   3-3       | 11  16-9
+8   Iwaki                   15 |  6  12-6       |  5   6-11      | 11  18-17
+9   Fujieda MYFC            14 |  6   7-3       |  5   6-8       | 11  13-11
+10  Tegevajaro Miyazaki     14 |  6   8-7       |  5   7-8       | 11  15-15
+11  Jubilo Iwata            14 |  5   5-5       |  6   8-9       | 11  13-14
+12  Sagan Tosu              14 |  6   9-7       |  5   2-6       | 11  11-13
+13  Tokushima Vortis        14 |  5   6-2       |  6   4-10      | 11  10-12
+14  Consadole Sapporo       14 |  6   8-10      |  6   7-9       | 12  15-19
+15  Blaublitz Akita         13 |  6  10-7       |  5   2-5       | 11  12-12
+16  Montedio Yamagata       13 |  7   7-7       |  5   4-4       | 12  11-11
+17  Tochigi City            11 |  5   9-9       |  6   8-9       | 11  17-18
+18  Imabari                 11 |  5   7-11      |  6   7-11      | 11  14-22
+19  Vanraure Hachinohe      11 |  6   3-8       |  5   6-12      | 11   9-20
+20  Ventforet Kofu          10 |  6   6-7       |  5   3-16      | 11   9-23
+
+(Oita Trinita: same table as Jubilo Iwata, shown above)
+
+(24 API-Football requests used)
+
+----------------------------------------------------------------------
+MATCHBOOK: skipped (switched off for this run)

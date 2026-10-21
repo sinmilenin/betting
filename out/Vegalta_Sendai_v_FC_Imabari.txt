@@ -1,0 +1,61 @@
+MATCH Vegalta Sendai v FC Imabari | fetched 2026-10-21 09:27 local
+
+FORM DATA Vegalta Sendai v FC Imabari | source API-Football | 2026-10-21 09:27 UTC
+H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
+
+=== Vegalta Sendai (id 286): last 20 finished games ===
+2026-10-17 H 0-0 v Tokushima Vortis | J2 League | Sendai
+2026-10-11 A 1-0 v Montedio Yamagata | J2 League | Tendo
+2026-10-04 H 2-1 v Jubilo Iwata | J2 League | Sendai
+2026-09-26 A 2-0 v Iwaki | J2 League | Iwaki
+2026-09-20 A 3-1 v Tochigi City | J2 League | Tochigi
+2026-09-13 H 1-1 v Consadole Sapporo | J2 League | Sendai
+2026-09-09 A 3-4 v Fukushima United | J-League Cup | Fukushima
+2026-09-05 A 3-1 v Shonan Bellmare | J2 League | Hiratsuka
+2026-08-29 H 4-2 v Tegevajaro Miyazaki | J2 League | Sendai
+2026-08-26 H 1-2 v Tochigi City | Emperor Cup | Sendai
+2026-08-22 A 2-0 v Vanraure Hachinohe | J2 League | Hachinohe
+2026-08-15 H 0-0 v Oita Trinita | J2 League | Sendai
+2026-08-08 A 0-2 v Fujieda MYFC | J2 League | Fujieda
+2026-07-15 A 0-5 v Kashima | Friendlies Clubs | ?
+2026-06-06 H 1-1 v Kataller Toyama | J2/J3 League | Sendai [PEN, 90-min score shown]
+2026-05-30 H 1-0 v Ventforet Kofu | J2/J3 League | Sendai
+2026-05-23 H 0-3 v Yokohama FC | J2/J3 League | Sendai
+2026-05-16 A 2-0 v Shonan Bellmare | J2/J3 League | Hiratsuka
+2026-05-10 A 1-1 v Vanraure Hachinohe | J2/J3 League | Hachinohe [PEN, 90-min score shown]
+2026-05-06 H 2-1 v Tochigi SC | J2/J3 League | Sendai
+Listed home: 10 games, scored 12 (1.20), conceded 11 (1.10), blanks 3, clean sheets 3
+Listed away: 10 games, scored 17 (1.70), conceded 14 (1.40), blanks 2, clean sheets 4
+All: 20 games, scored 29 (1.45), conceded 25 (1.25), blanks 5, clean sheets 7
+
+!! FC Imabari: No team found for "FC Imabari".
+
+TABLE FOR Vegalta Sendai
+LEAGUE TABLE J2 League 2026 | 20 teams | 111 games played
+League averages per game: home 1.48, away 1.13, total 2.60
+#   team                   Pts | home P GF-GA  | away P GF-GA  | all P GF-GA
+1   Vegalta Sendai          24 |  5   7-4       |  6  11-4       | 11  18-8
+2   Omiya Ardija            20 |  5  11-4       |  6  10-7       | 11  21-11
+3   Albirex Niigata         20 |  5   8-3       |  6   7-16      | 11  15-19
+4   Kataller Toyama         19 |  6  11-8       |  5   9-3       | 11  20-11
+5   Yokohama FC             18 |  5  13-6       |  6   7-8       | 11  20-14
+6   Shonan Bellmare         18 |  4   4-5       |  7   8-5       | 11  12-10
+7   Oita Trinita            17 |  6  13-6       |  5   3-3       | 11  16-9
+8   Iwaki                   15 |  6  12-6       |  5   6-11      | 11  18-17
+9   Fujieda MYFC            14 |  6   7-3       |  5   6-8       | 11  13-11
+10  Tegevajaro Miyazaki     14 |  6   8-7       |  5   7-8       | 11  15-15
+11  Jubilo Iwata            14 |  5   5-5       |  6   8-9       | 11  13-14
+12  Sagan Tosu              14 |  6   9-7       |  5   2-6       | 11  11-13
+13  Tokushima Vortis        14 |  5   6-2       |  6   4-10      | 11  10-12
+14  Consadole Sapporo       14 |  6   8-10      |  6   7-9       | 12  15-19
+15  Blaublitz Akita         13 |  6  10-7       |  5   2-5       | 11  12-12
+16  Montedio Yamagata       13 |  7   7-7       |  5   4-4       | 12  11-11
+17  Tochigi City            11 |  5   9-9       |  6   8-9       | 11  17-18
+18  Imabari                 11 |  5   7-11      |  6   7-11      | 11  14-22
+19  Vanraure Hachinohe      11 |  6   3-8       |  5   6-12      | 11   9-20
+20  Ventforet Kofu          10 |  6   6-7       |  5   3-16      | 11   9-23
+
+(14 API-Football requests used)
+
+----------------------------------------------------------------------
+MATCHBOOK: skipped (switched off for this run)
