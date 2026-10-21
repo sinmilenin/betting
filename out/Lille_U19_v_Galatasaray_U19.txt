@@ -1,0 +1,119 @@
+MATCH Lille U19 v Galatasaray U19 | fetched 2026-10-21 10:13 local
+
+FORM DATA Lille U19 v Galatasaray U19 | source API-Football | 2026-10-21 10:13 UTC
+H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
+
+=== Lille U19 (id 7908): last 20 finished games ===
+2026-10-13 A 3-2 v Arsenal U19 | UEFA Youth League | Borehamwood
+2026-09-08 H 0-0 v Real Betis U19 | UEFA Youth League | Lille
+2025-02-11 A 1-3 v Internazionale U19 | UEFA Youth League | Milano
+2024-12-11 H 1-1 v Sturm Graz U19 | UEFA Youth League | Camphin-en-Pévèle
+2024-11-27 A 2-2 v Bologna U19 | UEFA Youth League | Crespellano
+2024-11-05 H 0-0 v Juventus U19 | UEFA Youth League | Camphin-en-Pévèle
+2024-10-23 A 1-1 v Atlético Madrid U19 | UEFA Youth League | Alcalá de Henares
+2024-10-02 H 2-1 v Real Madrid U19 | UEFA Youth League | Camphin-en-Pévèle
+2024-09-17 A 2-2 v Sporting CP U19 | UEFA Youth League | Alcochete
+2021-12-08 A 3-0 v Wolfsburg U19 | UEFA Youth League | Wolfsburg
+2021-11-23 H 1-0 v Salzburg U19 | UEFA Youth League | Camphin-en-Pévèle
+2021-11-02 A 0-0 v Sevilla U19 | UEFA Youth League | Sevilla
+2021-10-20 H 0-3 v Sevilla U19 | UEFA Youth League | Camphin-en-Pévèle
+2021-09-29 A 1-3 v Salzburg U19 | UEFA Youth League | Grödig
+2021-09-14 H 2-0 v Wolfsburg U19 | UEFA Youth League | Camphin-en-Pévèle
+2020-02-12 A 1-1 v Midtjylland U19 | UEFA Youth League | Ikast [PEN, 90-min score shown]
+2019-12-10 A 1-1 v Chelsea U19 | UEFA Youth League | Stoke d'Abernon, Surrey
+2019-11-27 H 1-2 v Ajax U19 | UEFA Youth League | Camphin-en-Pévèle
+2019-11-05 A 2-1 v Valencia U19 | UEFA Youth League | Paterna
+2019-10-23 H 1-0 v Valencia U19 | UEFA Youth League | Camphin-en-Pévèle
+Listed home: 9 games, scored 8 (0.89), conceded 7 (0.78), blanks 3, clean sheets 5
+Listed away: 11 games, scored 17 (1.55), conceded 16 (1.45), blanks 1, clean sheets 2
+All: 20 games, scored 25 (1.25), conceded 23 (1.15), blanks 4, clean sheets 7
+
+=== Galatasaray U19 (id 7900): last 20 finished games ===
+2026-10-17 A 2-2 v Genclerbirligi U19 | U19 league | ?
+2026-10-13 H 0-1 v Barcelona U19 | UEFA Youth League | Istanbul
+2026-10-09 H 3-0 v Kasimpasa U19 | U19 league | ?
+2026-09-19 A 1-3 v Trabzonspor U19 | U19 league | ?
+2026-09-13 H 5-0 v Kocaelispor U19 | U19 league | ?
+2026-09-09 A 2-2 v Sporting CP U19 | UEFA Youth League | Alcochete
+2026-09-04 A 1-3 v İstanbul Başakşehir U19 | U19 league | ?
+2026-08-29 H 2-0 v Goztepe U19 | U19 league | ?
+2026-08-21 A 3-2 v Erzurumspor U19 | U19 league | ?
+2026-08-14 H 9-1 v Corum U19 | U19 league | ?
+2023-12-12 A 0-6 v København U19 | UEFA Youth League | København
+2023-11-29 H 1-0 v Manchester United U19 | UEFA Youth League | İstanbul
+2023-11-08 A 1-2 v Bayern München U19 | UEFA Youth League | München
+2023-10-24 H 2-1 v Bayern München U19 | UEFA Youth League | İstanbul
+2023-10-03 A 0-3 v Manchester United U19 | UEFA Youth League | Leigh, Greater Manchester
+2023-09-20 H 1-5 v København U19 | UEFA Youth League | İstanbul
+2022-11-02 A 1-3 v Rukh Vynnyky U19 | UEFA Youth League | Stalowa Wola
+2022-10-26 H 1-3 v Rukh Vynnyky U19 | UEFA Youth League | İstanbul
+2022-10-05 H 4-0 v Csikszereda U19 | UEFA Youth League | İstanbul
+2022-09-14 A 1-1 v Csikszereda U19 | UEFA Youth League | Miercurea Ciuc
+Listed home: 10 games, scored 28 (2.80), conceded 11 (1.10), blanks 1, clean sheets 5
+Listed away: 10 games, scored 12 (1.20), conceded 27 (2.70), blanks 2, clean sheets 0
+All: 20 games, scored 40 (2.00), conceded 38 (1.90), blanks 3, clean sheets 5
+
+TABLE FOR Lille U19
+LEAGUE TABLE UEFA Youth League 2021 | 32 teams | 108 games played
+League averages per game: home 1.75, away 1.62, total 3.37
+#   team                   Pts | home P GF-GA  | away P GF-GA  | all P GF-GA
+1   PSG U19                 14 |  5  10-6       |  3   9-4       |  6  16-7 [Group A]
+2   Club Brugge U19         11 |  3   7-4       |  4  13-10      |  6  18-11 [Group A]
+3   Manchester City U19      8 |  3   9-9       |  3   3-2       |  6  12-11 [Group A]
+4   RB Leipzig U19           0 |  3   2-9       |  3   2-12      |  6   4-21 [Group A]
+1   Liverpool U19           11 |  4   8-1       |  4   2-6       |  6   9-4 [Group B]
+2   Atlético Madrid U19     10 |  4   6-7       |  6   7-6       |  6   9-6 [Group B]
+3   Porto U19               10 |  3   5-4       |  3   3-5       |  6   8-9 [Group B]
+4   Milan U19                2 |  3   2-3       |  3   1-7       |  6   3-10 [Group B]
+1   Sporting CP U19         11 |  4   5-9       |  4   8-4       |  6  11-8 [Group C]
+2   Borussia Dortmund U19   10 |  4   6-4       |  5  17-11      |  6  16-9 [Group C]
+3   Ajax U19                10 |  3   6-9       |  3   3-1       |  6   9-10 [Group C]
+4   Beşiktaş U19             3 |  3   3-7       |  3   5-10      |  6   8-17 [Group C]
+1   Real Madrid U19         13 |  4   9-5       |  3   4-4       |  6  11-6 [Group D]
+2   Internazionale U19      13 |  3   4-2       |  4   7-7       |  6  10-6 [Group D]
+3   Shakhtar Donetsk U19     9 |  3   9-3       |  3   5-2       |  6  14-5 [Group D]
+4   Sheriff U19              0 |  3   2-10      |  3   2-12      |  6   4-22 [Group D]
+1   Benfica U19             15 |  3   9-0       |  7  20-8       |  6  14-4 [Group E]
+2   Dynamo Kyiv U19         13 |  4  11-4       |  4   6-3       |  6  14-3 [Group E]
+3   Barcelona U19            4 |  3   2-3       |  3   3-11      |  6   5-14 [Group E]
+4   Bayern München U19       3 |  3   3-8       |  3   1-8       |  6   4-16 [Group E]
+1   Manchester United U19   15 |  4   9-9       |  3   5-2       |  6  12-9 [Group F]
+2   Villarreal U19          11 |  3   6-5       |  4  12-7       |  6  15-9 [Group F]
+3   Atalanta U19             7 |  3   6-4       |  3   5-8       |  6  11-12 [Group F]
+4   Young Boys U19           1 |  3   3-7       |  3   4-8       |  6   7-15 [Group F]
+1   Salzburg U19            12 |  4   8-7       |  6  11-6       |  6  10-5 [Group G]
+2   Sevilla U19             11 |  3   4-0       |  5   5-5       |  6   8-3 [Group G]
+3   Lille U19               10 |  3   3-3       |  3   4-3       |  6   7-6 [Group G]
+4   Wolfsburg U19            1 |  3   2-6       |  3   0-7       |  6   2-13 [Group G]
+1   Juventus U19            16 |  5  15-6       |  4   7-3       |  6  18-7 [Group H]
+2   Chelsea U19             10 |  3   8-6       |  4   8-9       |  6  15-10 [Group H]
+3   Zenit U19                7 |  3   4-5       |  3   6-8       |  6  10-13 [Group H]
+4   Malmö FF U19             1 |  3   3-10      |  3   5-11      |  6   8-21 [Group H]
+
+TABLE FOR Galatasaray U19
+LEAGUE TABLE U19 league 2026 | 18 teams | 72 games played
+League averages per game: home 1.90, away 1.42, total 3.32
+#   team                   Pts | home P GF-GA  | away P GF-GA  | all P GF-GA
+1   Beşiktaş U19            24 |  4  13-5       |  4  10-2       |  8  23-7
+2   Trabzonspor U19         19 |  4  11-6       |  4   9-4       |  8  20-10
+3   Galatasaray U19         16 |  4  19-1       |  4   7-10      |  8  26-11
+4   İstanbul Başakşehir U1  16 |  5  12-5       |  3   1-6       |  8  13-11
+5   Fenerbahce U19          13 |  4  11-5       |  4  10-6       |  8  21-11
+6   Kocaelispor U19         13 |  4   6-4       |  4   7-10      |  8  13-14
+7   Amedspor U19            13 |  5   5-7       |  3   2-2       |  8   7-9
+8   Goztepe U19             12 |  3   7-2       |  5   3-8       |  8  10-10
+9   Samsunspor U19          11 |  4   9-6       |  4   7-5       |  8  16-11
+10  Gaziantep U19           11 |  4   6-4       |  4   3-9       |  8   9-13
+11  Genclerbirligi U19      10 |  5  10-7       |  3   5-5       |  8  15-12
+12  Alanyaspor U19          10 |  3   4-3       |  5   6-4       |  8  10-7
+13  Konyaspor U19           10 |  4   6-8       |  4   6-7       |  8  12-15
+14  Eyupspor U19             7 |  4   5-4       |  4   7-12      |  8  12-16
+15  Rizespor U19             6 |  3   0-6       |  5   7-13      |  8   7-19
+16  Corum U19                5 |  4   4-11      |  4   4-11      |  8   8-22
+17  Kasimpasa U19            4 |  4   3-6       |  4   4-11      |  8   7-17
+18  Erzurumspor U19          4 |  4   6-12      |  4   4-12      |  8  10-24
+
+(28 API-Football requests used)
+
+----------------------------------------------------------------------
+MATCHBOOK: skipped (switched off for this run)
