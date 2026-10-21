@@ -1,2 +1,3 @@
-# Scan 2026-10-21 15:21 (Ljubljana), retry names
-Ghazl El Mehalla v id:1572 | n=20 | xg=10
+# Scan 2026-10-21 15:57 (Ljubljana)
+Como v Manchester United | n=20 | xg=10
+Lille v Galatasaray | n=20 | xg=10
