@@ -1,3 +1,5 @@
-RUN 2026-10-21 11:42 local | 1 match(es)
-Persija Jakarta v Arema -> out/Persija_Jakarta_v_Arema.txt
-Requests used: API-Football 27, Matchbook 0
+RUN 2026-10-21 13:22 local | 1 match(es)
+Ghazl El Mahallah v Al Ittihad -> out/Ghazl_El_Mahallah_v_Al_Ittihad.txt
+    !! Ghazl El Mahallah: No team found for "Ghazl El Mahallah".
+    !! Al Ittihad: Ambiguous team name "Al Ittihad".
+Requests used: API-Football 2, Matchbook 0

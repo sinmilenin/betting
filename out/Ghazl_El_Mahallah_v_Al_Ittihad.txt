@@ -1,0 +1,19 @@
+MATCH Ghazl El Mahallah v Al Ittihad | fetched 2026-10-21 13:22 local
+
+FORM DATA Ghazl El Mahallah v Al Ittihad | source API-Football | 2026-10-21 13:22 UTC
+H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
+
+"Al Ittihad" matches several teams. Use id:<number> instead of the name:
+  id:1572   Al Ittihad (Egypt)
+  id:5581   Al Ittihad (Bahrain)
+  id:8019   Al Ittihad (Syria)
+  id:23354  Al Ittihad Ibb (Yemen)
+  id:27714  Al Ittihad W (Saudi-Arabia)
+!! Ghazl El Mahallah: No team found for "Ghazl El Mahallah".
+
+!! Al Ittihad: Ambiguous team name "Al Ittihad".
+
+(2 API-Football requests used)
+
+----------------------------------------------------------------------
+MATCHBOOK: skipped (switched off for this run)
