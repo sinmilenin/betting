@@ -1,4 +1,3 @@
-# Scan 2026-10-21 12:12 (Ljubljana), run 2: corrected names
-Xankendi v Energetik | n=20 | xg=10
-Ayutthaya v Muangthong United | n=20 | xg=10
-Police Tero v Surin | n=20 | xg=10
+# Scan 2026-10-21 12:12 (Ljubljana), run 3: corrected names
+Khankendi v Mingachevir | n=20 | xg=10
+Ayutthaya U v Muangthong United | n=20 | xg=10
