@@ -1,3 +1,5 @@
-RUN 2026-10-21 13:23 local | 1 match(es)
-Ghazl El Mehalla v id:1572 -> out/Ghazl_El_Mehalla_v_id_1572.txt
-Requests used: API-Football 25, Matchbook 0
+RUN 2026-10-21 13:57 local | 2 match(es)
+Como v Manchester United -> out/Como_v_Manchester_United.txt
+Lille v Galatasaray -> out/Lille_v_Galatasaray.txt
+    !! Lille: Ambiguous team name "Lille".
+Requests used: API-Football 41, Matchbook 0
