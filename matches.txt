@@ -1,4 +1,3 @@
-# Scan 2026-10-21 10:42 (Ljubljana), run 2: corrected team names
-V varen Nagasaki v Sanfrecce Hiroshima | n=20 | xg=10
-Yokohama F Marinos v Tokyo Verdy | n=20 | xg=10
-Kamatamare Sanuki v Kanazawa | n=20 | xg=10
+# Scan 2026-10-21 10:42 (Ljubljana), run 3: corrected team names
+Nagasaki v Sanfrecce Hiroshima | n=20 | xg=10
+Marinos v Tokyo Verdy | n=20 | xg=10
