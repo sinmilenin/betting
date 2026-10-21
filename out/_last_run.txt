@@ -1,7 +1,5 @@
-RUN 2026-10-21 08:44 local | 3 match(es)
-V varen Nagasaki v Sanfrecce Hiroshima -> out/V_varen_Nagasaki_v_Sanfrecce_Hiroshima.txt
-    !! V varen Nagasaki: No team found for "V varen Nagasaki".
-Yokohama F Marinos v Tokyo Verdy -> out/Yokohama_F_Marinos_v_Tokyo_Verdy.txt
-    !! Yokohama F Marinos: No team found for "Yokohama F Marinos".
-Kamatamare Sanuki v Kanazawa -> out/Kamatamare_Sanuki_v_Kanazawa.txt
-Requests used: API-Football 52, Matchbook 0
+RUN 2026-10-21 08:46 local | 2 match(es)
+Nagasaki v Sanfrecce Hiroshima -> out/Nagasaki_v_Sanfrecce_Hiroshima.txt
+    !! Nagasaki: Ambiguous team name "Nagasaki".
+Marinos v Tokyo Verdy -> out/Marinos_v_Tokyo_Verdy.txt
+Requests used: API-Football 39, Matchbook 0

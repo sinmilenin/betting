@@ -1,8 +1,14 @@
-MATCH V varen Nagasaki v Sanfrecce Hiroshima | fetched 2026-10-21 08:44 local
+MATCH Nagasaki v Sanfrecce Hiroshima | fetched 2026-10-21 08:46 local
 
-FORM DATA V varen Nagasaki v Sanfrecce Hiroshima | source API-Football | 2026-10-21 08:44 UTC
+FORM DATA Nagasaki v Sanfrecce Hiroshima | source API-Football | 2026-10-21 08:46 UTC
 H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
 
+"Nagasaki" matches several teams. Use id:<number> instead of the name:
+  id:285    V-varen Nagasaki (Japan)
+  id:7131   MD Nagasaki (Japan)
+  id:11404  Nagasaki Institute (Japan)
+  id:21346  Mitsubishi Nagasaki (Japan)
+  id:28188  Nagasaki Intl University (Japan)
 === Sanfrecce Hiroshima (id 282): last 20 finished games ===
 2026-10-17 H 3-0 v Kyoto Sanga | J1 League | Hiroshima | xG 2.33-0.89
 2026-10-14 A 1-0 v Matsumoto Yamaga | J-League Cup | Matsumoto
@@ -28,7 +34,14 @@ Listed home: 10 games, scored 34 (3.40), conceded 6 (0.60), blanks 0, clean shee
 Listed away: 10 games, scored 17 (1.70), conceded 10 (1.00), blanks 1, clean sheets 6
 All: 20 games, scored 51 (2.55), conceded 16 (0.80), blanks 1, clean sheets 11
 
-!! V varen Nagasaki: No team found for "V varen Nagasaki".
+(retrying Nagasaki using the opponent's country, Japan)
+"Nagasaki" matches several teams. Use id:<number> instead of the name:
+  id:285    V-varen Nagasaki (Japan)
+  id:7131   MD Nagasaki (Japan)
+  id:11404  Nagasaki Institute (Japan)
+  id:21346  Mitsubishi Nagasaki (Japan)
+  id:28188  Nagasaki Intl University (Japan)
+!! Nagasaki: Ambiguous team name "Nagasaki".
 
 TABLE FOR Sanfrecce Hiroshima
 LEAGUE TABLE J1 League 2027 | 20 teams | 100 games played
@@ -55,7 +68,7 @@ League averages per game: home 1.54, away 1.38, total 2.92
 19  JEF United Chiba         6 |  5   4-7       |  5   4-12      | 10   8-19
 20  Tokyo Verdy              4 |  7   3-15      |  3   1-3       | 10   4-18
 
-(14 API-Football requests used)
+(15 API-Football requests used)
 
 ----------------------------------------------------------------------
 MATCHBOOK: skipped (switched off for this run)
