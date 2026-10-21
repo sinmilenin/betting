@@ -427,5 +427,16 @@
     "lay": 14.5,
     "stake": 3,
     "created": "2026-10-21T11:01:30+00:00"
+  },
+  {
+    "id": "2026-10-21_osc-lille-u19-galatasaray-u19_3-2",
+    "date": "2026-10-21",
+    "ko": "14:00",
+    "match": "OSC Lille U19 v Galatasaray U19",
+    "comp": "International, UEFA Youth League",
+    "cell": "3-2",
+    "lay": 20,
+    "stake": 3,
+    "created": "2026-10-21T11:43:28+00:00"
   }
 ]
