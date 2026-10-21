@@ -1,6 +1,6 @@
-MATCH Ayutthaya U v Muangthong United | fetched 2026-10-21 10:16 local
+MATCH Ayutthaya Utd v Muangthong United | fetched 2026-10-21 10:58 local
 
-FORM DATA Ayutthaya U v Muangthong United | source API-Football | 2026-10-21 10:16 UTC
+FORM DATA Ayutthaya Utd v Muangthong United | source API-Football | 2026-10-21 10:58 UTC
 H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
 
 === Muangthong United (id 2786): last 20 finished games ===
@@ -28,7 +28,7 @@ Listed home: 10 games, scored 11 (1.10), conceded 9 (0.90), blanks 2, clean shee
 Listed away: 10 games, scored 4 (0.40), conceded 16 (1.60), blanks 7, clean sheets 3
 All: 20 games, scored 15 (0.75), conceded 25 (1.25), blanks 9, clean sheets 6
 
-!! Ayutthaya U: No team found for "Ayutthaya U".
+!! Ayutthaya Utd: No team found for "Ayutthaya Utd".
 
 TABLE FOR Muangthong United
 LEAGUE TABLE Thai League 2 2026 | 18 teams | 63 games played

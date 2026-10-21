@@ -1,7 +1,4 @@
-RUN 2026-10-21 10:16 local | 2 match(es)
-Khankendi v Mingachevir -> out/Khankendi_v_Mingachevir.txt
-    !! Khankendi: No team found for "Khankendi".
-    !! Mingachevir: No team found for "Mingachevir".
-Ayutthaya U v Muangthong United -> out/Ayutthaya_U_v_Muangthong_United.txt
-    !! Ayutthaya U: No team found for "Ayutthaya U".
-Requests used: API-Football 16, Matchbook 0
+RUN 2026-10-21 10:58 local | 1 match(es)
+Ayutthaya Utd v Muangthong United -> out/Ayutthaya_Utd_v_Muangthong_United.txt
+    !! Ayutthaya Utd: No team found for "Ayutthaya Utd".
+Requests used: API-Football 14, Matchbook 0
