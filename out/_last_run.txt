@@ -1,4 +1,17 @@
-RUN 2026-10-21 15:28 local | 2 match(es)
-id:539 v Athletic Club -> out/id_539_v_Athletic_Club.txt
-Birzebbuga v Marsaxlokk -> out/Birzebbuga_v_Marsaxlokk.txt
-Requests used: API-Football 51, Matchbook 0
+RUN 2026-10-21 16:14 local | 11 match(es)
+Ceramica Cleopatra v Petrojet -> out/Ceramica_Cleopatra_v_Petrojet.txt
+Sogndal v Raufoss -> out/Sogndal_v_Raufoss.txt
+Liverpool Montevideo v Cerro Largo -> out/Liverpool_Montevideo_v_Cerro_Largo.txt
+Reading v Leyton Orient -> out/Reading_v_Leyton_Orient.txt
+Aston Villa v Viking -> out/Aston_Villa_v_Viking.txt
+    !! Aston Villa: Ambiguous team name "Aston Villa".
+Club Brugge v Lens -> out/Club_Brugge_v_Lens.txt
+    !! Club Brugge: Ambiguous team name "Club Brugge".
+Bayern Munich v Arsenal -> out/Bayern_Munich_v_Arsenal.txt
+Real Betis v Feyenoord -> out/Real_Betis_v_Feyenoord.txt
+Inter v Shakhtar Donetsk -> out/Inter_v_Shakhtar_Donetsk.txt
+    !! Inter: Ambiguous team name "Inter".
+Real Madrid v RB Leipzig -> out/Real_Madrid_v_RB_Leipzig.txt
+Sporting CP v LASK -> out/Sporting_CP_v_LASK.txt
+    !! LASK: Ambiguous team name "LASK".
+Requests used: API-Football 237, Matchbook 0

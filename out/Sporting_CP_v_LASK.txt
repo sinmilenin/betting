@@ -1,0 +1,112 @@
+MATCH Sporting CP v LASK | fetched 2026-10-21 16:14 local
+
+FORM DATA Sporting CP v LASK | source API-Football | 2026-10-21 16:14 UTC
+H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
+
+=== Sporting CP (id 228): last 20 finished games ===
+2026-10-13 A 2-0 v Lens | UEFA Champions League | Lens | xG 1.67-1.72
+2026-10-09 A 3-1 v SC Braga | Primeira Liga | Braga | xG 0.95-1.50
+2026-09-19 H 2-2 v Arouca | Primeira Liga | Lisbon | xG 1.28-2.08
+2026-09-13 A 1-1 v Famalicao | Primeira Liga | Vila Nova de Famalicao | xG 2.28-0.35
+2026-09-09 H 3-1 v Galatasaray | UEFA Champions League | Lisbon | xG 1.75-1.23
+2026-09-05 H 2-0 v Nacional | Primeira Liga | Lisbon | xG 3.00-0.08
+2026-08-28 A 4-0 v Rio Ave | Primeira Liga | Vila do Conde | xG 1.66-0.47
+2026-08-22 H 3-1 v Alverca | Primeira Liga | Lisbon | xG 2.12-0.41
+2026-08-14 H 3-2 v Vitória SC | Primeira Liga | Lisbon | xG 1.14-1.24
+2026-08-08 A 2-2 v Estrela | Primeira Liga | Amadora | xG 2.63-1.10
+2026-07-31 H 4-1 v Nottingham Forest | Friendlies Clubs | ?
+2026-07-25 H 2-0 v Monaco | Friendlies Clubs | ?
+2026-07-20 H 7-0 v Strasbourg | Friendlies Clubs | ?
+2026-07-14 H 4-1 v Celtic | Friendlies Clubs | ?
+2026-05-24 H 1-1 v Torreense | Taça de Portugal | Lisbon - Oeiras [AET, 90-min score shown]
+2026-05-16 H 3-0 v GIL Vicente | Primeira Liga | Lisbon
+2026-05-11 A 4-1 v Rio Ave | Primeira Liga | Vila do Conde
+2026-05-04 H 5-1 v Vitória SC | Primeira Liga | Lisbon
+2026-04-29 H 2-2 v Tondela | Primeira Liga | Lisbon
+2026-04-26 A 1-1 v AVS | Primeira Liga | Vila das Aves
+Listed home: 13 games, scored 41 (3.15), conceded 12 (0.92), blanks 0, clean sheets 4
+Listed away: 7 games, scored 17 (2.43), conceded 6 (0.86), blanks 0, clean sheets 2
+All: 20 games, scored 58 (2.90), conceded 18 (0.90), blanks 0, clean sheets 6
+
+"LASK" matches several teams. Use id:<number> instead of the name:
+  id:337    Slask Wroclaw (Poland)
+  id:1026   Lask Linz (Austria)
+  id:1403   Lask Juniors Linz (Austria)
+  id:11225  LASK Juniors (Austria)
+  id:12900  Śląsk Wrocław II (Poland)
+  id:14144  Orlęta Radzyń Podlaski (Poland)
+  id:14267  Pawłowice Śląskie (Poland)
+  id:14925  Śląsk Wrocław U18 (Poland)
+  id:16269  Podlasie Biała Podlaska (Poland)
+  id:17118  Śląsk Świętochłowice (Poland)
+  id:20159  Laško (Slovenia)
+  id:20596  Śląsk Wrocław U19 (Poland)
+  id:21659  Unia Turza Śląska (Poland)
+  id:22262  Slask Wroclaw W (Poland)
+  id:24440  LASK W (Austria)
+  id:28370  LASK U19 (Austria)
+(retrying LASK using the opponent's country, Portugal)
+"LASK" matches several teams. Use id:<number> instead of the name:
+  id:337    Slask Wroclaw (Poland)
+  id:1026   Lask Linz (Austria)
+  id:1403   Lask Juniors Linz (Austria)
+  id:11225  LASK Juniors (Austria)
+  id:12900  Śląsk Wrocław II (Poland)
+  id:14144  Orlęta Radzyń Podlaski (Poland)
+  id:14267  Pawłowice Śląskie (Poland)
+  id:14925  Śląsk Wrocław U18 (Poland)
+  id:16269  Podlasie Biała Podlaska (Poland)
+  id:17118  Śląsk Świętochłowice (Poland)
+  id:20159  Laško (Slovenia)
+  id:20596  Śląsk Wrocław U19 (Poland)
+  id:21659  Unia Turza Śląska (Poland)
+  id:22262  Slask Wroclaw W (Poland)
+  id:24440  LASK W (Austria)
+  id:28370  LASK U19 (Austria)
+!! LASK: Ambiguous team name "LASK".
+
+TABLE FOR Sporting CP
+LEAGUE TABLE UEFA Champions League 2026 | 36 teams | 45 games played
+League averages per game: home 2.51, away 1.64, total 4.16
+#   team                   Pts | home P GF-GA  | away P GF-GA  | all P GF-GA
+1   Paris Saint Germain      9 |  2  10-3       |  1   4-2       |  3  14-5
+2   Liverpool                9 |  2   6-4       |  1   6-3       |  3  12-7
+3   VfB Stuttgart            7 |  2   4-2       |  1   3-0       |  3   7-2
+4   Aston Villa              6 |  1   6-0       |  1   3-2       |  2   9-2
+5   Barcelona                6 |  1   5-1       |  2   6-5       |  3  11-6
+6   Manchester City          6 |  2   7-5       |  1   2-0       |  3   9-5
+7   Sporting CP              6 |  1   3-1       |  1   2-0       |  2   5-1
+8   Arsenal                  6 |  1   3-0       |  1   1-0       |  2   4-0
+9   Real Madrid              6 |  1   2-1       |  1   4-3       |  2   6-4
+10  Real Betis               6 |  1   3-2       |  1   3-2       |  2   6-4
+11  Borussia Dortmund        6 |  1   3-2       |  2   2-2       |  3   5-4
+12  Bayern München           4 |  1   5-0       |  1   3-3       |  2   8-3
+13  AS Roma                  4 |  2   7-4       |  1   1-1       |  3   8-5
+14  Shakhtar Donetsk         4 |  1   3-1       |  1   1-1       |  2   4-2
+15  Atletico Madrid          4 |  1   2-0       |  2   2-3       |  3   4-3
+16  PSV Eindhoven            4 |  1   1-1       |  2   1-1       |  3   2-2
+17  Como                     3 |  1   4-1       |  1   2-3       |  2   6-4
+18  Manchester United        3 |  1   4-0       |  1   0-2       |  2   4-2
+19  Villarreal               3 |  1   3-1       |  2   5-7       |  3   8-8
+20  Club Brugge KV           3 |  1   2-3       |  1   4-3       |  2   6-6
+21  Lens                     3 |  1   0-2       |  1   3-2       |  2   3-4
+22  Napoli                   3 |  2   4-4       |  1   1-3       |  3   5-7
+23  RB Leipzig               3 |  1   1-0       |  1   1-4       |  2   2-4
+24  Feyenoord                3 |  1   3-2       |  1   1-5       |  2   4-7
+25  Sabah FA                 3 |  2   3-2       |  1   0-4       |  3   3-6
+26  Bodo/Glimt               3 |  1   1-0       |  2   3-9       |  3   4-9
+27  AEK Athens FC            3 |  1   1-0       |  2   2-8       |  3   3-8
+28  Fenerbahçe               2 |  2   3-3       |  1   0-6       |  3   3-9
+29  Viking                   1 |  1   3-3       |  1   1-3       |  2   4-6
+30  Slavia Praha             1 |  1   2-3       |  2   2-4       |  3   4-7
+31  Inter                    0 |  1   3-4       |  1   1-2       |  2   4-6
+32  Lask Linz                0 |  1   3-6       |  1   0-1       |  2   3-7
+33  FC Porto                 0 |  2   0-3       |  1   2-3       |  3   2-6
+34  Lille                    0 |  1   2-3       |  1   0-3       |  2   2-6
+35  Galatasaray              0 |  1   1-4       |  1   1-3       |  2   2-7
+36  Slovan Bratislava        0 |  1   0-3       |  2   1-10      |  3   1-13
+
+(15 API-Football requests used)
+
+----------------------------------------------------------------------
+MATCHBOOK: skipped (switched off for this run)
