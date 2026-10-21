@@ -1,5 +1,3 @@
-RUN 2026-10-21 08:46 local | 2 match(es)
-Nagasaki v Sanfrecce Hiroshima -> out/Nagasaki_v_Sanfrecce_Hiroshima.txt
-    !! Nagasaki: Ambiguous team name "Nagasaki".
-Marinos v Tokyo Verdy -> out/Marinos_v_Tokyo_Verdy.txt
-Requests used: API-Football 39, Matchbook 0
+RUN 2026-10-21 08:47 local | 1 match(es)
+id:285 v Sanfrecce Hiroshima -> out/id_285_v_Sanfrecce_Hiroshima.txt
+Requests used: API-Football 25, Matchbook 0
