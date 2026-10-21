@@ -262,5 +262,126 @@
     "lay": 18.5,
     "stake": 3,
     "created": "2026-10-21T16:18:46Z"
+  },
+  {
+    "id": "2026-10-21_aston-villa-viking_2-0",
+    "date": "2026-10-21",
+    "ko": "21:00",
+    "match": "Aston Villa v Viking",
+    "comp": "International, UEFA Champions League",
+    "cell": "2-0",
+    "lay": 11.5,
+    "stake": 3,
+    "created": "2026-10-21T16:21:03Z"
+  },
+  {
+    "id": "2026-10-21_aston-villa-viking_3-0",
+    "date": "2026-10-21",
+    "ko": "21:00",
+    "match": "Aston Villa v Viking",
+    "comp": "International, UEFA Champions League",
+    "cell": "3-0",
+    "lay": 12,
+    "stake": 3,
+    "created": "2026-10-21T16:21:03Z"
+  },
+  {
+    "id": "2026-10-21_aston-villa-viking_3-1",
+    "date": "2026-10-21",
+    "ko": "21:00",
+    "match": "Aston Villa v Viking",
+    "comp": "International, UEFA Champions League",
+    "cell": "3-1",
+    "lay": 12,
+    "stake": 3,
+    "created": "2026-10-21T16:21:03Z"
+  },
+  {
+    "id": "2026-10-21_bayern-munich-arsenal_1-2",
+    "date": "2026-10-21",
+    "ko": "21:00",
+    "match": "Bayern Munich v Arsenal",
+    "comp": "International, UEFA Champions League",
+    "cell": "1-2",
+    "lay": 13.5,
+    "stake": 3,
+    "created": "2026-10-21T16:21:03Z"
+  },
+  {
+    "id": "2026-10-21_bayern-munich-arsenal_2-2",
+    "date": "2026-10-21",
+    "ko": "21:00",
+    "match": "Bayern Munich v Arsenal",
+    "comp": "International, UEFA Champions League",
+    "cell": "2-2",
+    "lay": 13.5,
+    "stake": 3,
+    "created": "2026-10-21T16:21:03Z"
+  },
+  {
+    "id": "2026-10-21_inter-shakhtar_1-0",
+    "date": "2026-10-21",
+    "ko": "21:00",
+    "match": "Inter v Shakhtar",
+    "comp": "International, UEFA Champions League",
+    "cell": "1-0",
+    "lay": 14.5,
+    "stake": 3,
+    "created": "2026-10-21T16:21:03Z"
+  },
+  {
+    "id": "2026-10-21_inter-shakhtar_2-0",
+    "date": "2026-10-21",
+    "ko": "21:00",
+    "match": "Inter v Shakhtar",
+    "comp": "International, UEFA Champions League",
+    "cell": "2-0",
+    "lay": 9.8,
+    "stake": 3,
+    "created": "2026-10-21T16:21:03Z"
+  },
+  {
+    "id": "2026-10-21_inter-shakhtar_3-0",
+    "date": "2026-10-21",
+    "ko": "21:00",
+    "match": "Inter v Shakhtar",
+    "comp": "International, UEFA Champions League",
+    "cell": "3-0",
+    "lay": 11,
+    "stake": 3,
+    "created": "2026-10-21T16:21:03Z"
+  },
+  {
+    "id": "2026-10-21_inter-shakhtar_3-1",
+    "date": "2026-10-21",
+    "ko": "21:00",
+    "match": "Inter v Shakhtar",
+    "comp": "International, UEFA Champions League",
+    "cell": "3-1",
+    "lay": 12,
+    "stake": 3,
+    "created": "2026-10-21T16:21:03Z"
+  },
+  {
+    "id": "2026-10-21_sporting-lisbon-lask-linz_2-0",
+    "date": "2026-10-21",
+    "ko": "21:00",
+    "match": "Sporting Lisbon v Lask Linz",
+    "comp": "International, UEFA Champions League",
+    "cell": "2-0",
+    "lay": 11.5,
+    "stake": 3,
+    "created": "2026-10-21T16:21:03Z"
+  },
+  {
+    "id": "2026-10-21_sporting-lisbon-lask-linz_2-1",
+    "date": "2026-10-21",
+    "ko": "21:00",
+    "match": "Sporting Lisbon v Lask Linz",
+    "comp": "International, UEFA Champions League",
+    "cell": "2-1",
+    "lay": 10.5,
+    "stake": 3,
+    "created": "2026-10-21T16:21:03Z"
   }
 ]
