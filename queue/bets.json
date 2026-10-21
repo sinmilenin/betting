@@ -438,5 +438,27 @@
     "lay": 20,
     "stake": 3,
     "created": "2026-10-21T11:43:28+00:00"
+  },
+  {
+    "id": "2026-10-21_como-man-utd_2-2",
+    "date": "2026-10-21",
+    "ko": "18:45",
+    "match": "Como v Man Utd",
+    "comp": "International, UEFA Champions League",
+    "cell": "2-2",
+    "lay": 13,
+    "stake": 3,
+    "created": "2026-10-21T14:00:11Z"
+  },
+  {
+    "id": "2026-10-21_como-man-utd_1-2",
+    "date": "2026-10-21",
+    "ko": "18:45",
+    "match": "Como v Man Utd",
+    "comp": "International, UEFA Champions League",
+    "cell": "1-2",
+    "lay": 12.5,
+    "stake": 3,
+    "created": "2026-10-21T14:00:11Z"
   }
 ]
