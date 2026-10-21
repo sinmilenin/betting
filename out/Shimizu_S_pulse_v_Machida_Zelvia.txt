@@ -1,6 +1,6 @@
-MATCH Shimizu S-Pulse v Machida Zelvia | fetched 2026-10-21 09:27 local
+MATCH Shimizu S pulse v Machida Zelvia | fetched 2026-10-21 09:28 local
 
-FORM DATA Shimizu S-Pulse v Machida Zelvia | source API-Football | 2026-10-21 09:27 UTC
+FORM DATA Shimizu S pulse v Machida Zelvia | source API-Football | 2026-10-21 09:28 UTC
 H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
 
 === Machida Zelvia (id 303): last 20 finished games ===
@@ -28,7 +28,7 @@ Listed home: 12 games, scored 21 (1.75), conceded 9 (0.75), blanks 2, clean shee
 Listed away: 8 games, scored 18 (2.25), conceded 6 (0.75), blanks 0, clean sheets 3
 All: 20 games, scored 39 (1.95), conceded 15 (0.75), blanks 2, clean sheets 9
 
-!! Shimizu S-Pulse: API-Football error: {"search": "The Search field may only contain alpha-numeric characters and spaces."}
+!! Shimizu S pulse: No team found for "Shimizu S pulse".
 
 TABLE FOR Machida Zelvia
 LEAGUE TABLE J1 League 2027 | 20 teams | 100 games played
