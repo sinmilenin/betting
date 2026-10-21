@@ -1,3 +1,12 @@
-# Scan 2026-10-21 17:26 (Ljubljana), retry with ids/plain names
-id:539 v Athletic Club | n=20 | xg=10
-Birzebbuga v Marsaxlokk | n=20 | xg=10
+# Scan 2026-10-21 18:12 (Ljubljana), first analyses
+Ceramica Cleopatra v Petrojet | n=20 | xg=10
+Sogndal v Raufoss | n=20 | xg=10
+Liverpool Montevideo v Cerro Largo | n=20 | xg=10
+Reading v Leyton Orient | n=20 | xg=10
+Aston Villa v Viking | n=20 | xg=10
+Club Brugge v Lens | n=20 | xg=10
+Bayern Munich v Arsenal | n=20 | xg=10
+Real Betis v Feyenoord | n=20 | xg=10
+Inter v Shakhtar Donetsk | n=20 | xg=10
+Real Madrid v RB Leipzig | n=20 | xg=10
+Sporting CP v LASK | n=20 | xg=10
