@@ -1,3 +1,5 @@
-RUN 2026-10-21 13:58 local | 1 match(es)
-id:79 v Galatasaray -> out/id_79_v_Galatasaray.txt
-Requests used: API-Football 26, Matchbook 0
+RUN 2026-10-21 14:42 local | 2 match(es)
+Zlate Moravce v Komarno -> out/Zlate_Moravce_v_Komarno.txt
+    !! Komarno: Ambiguous team name "Komarno".
+Al Ahly v El Qanah -> out/Al_Ahly_v_El_Qanah.txt
+Requests used: API-Football 41, Matchbook 0
