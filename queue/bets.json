@@ -1,38 +1,5 @@
 [
   {
-    "id": "2026-10-21_osc-lille-u19-galatasaray-u19_3-1",
-    "date": "2026-10-21",
-    "ko": "14:00",
-    "match": "OSC Lille U19 v Galatasaray U19",
-    "comp": "International, UEFA Youth League",
-    "cell": "3-1",
-    "lay": 15,
-    "stake": 3,
-    "created": "2026-10-21T10:17:41+00:00"
-  },
-  {
-    "id": "2026-10-21_osc-lille-u19-galatasaray-u19_aohw",
-    "date": "2026-10-21",
-    "ko": "14:00",
-    "match": "OSC Lille U19 v Galatasaray U19",
-    "comp": "International, UEFA Youth League",
-    "cell": "AOHW",
-    "lay": 5.5,
-    "stake": 3,
-    "created": "2026-10-21T10:17:41+00:00"
-  },
-  {
-    "id": "2026-10-21_osc-lille-u19-galatasaray-u19_3-2",
-    "date": "2026-10-21",
-    "ko": "14:00",
-    "match": "OSC Lille U19 v Galatasaray U19",
-    "comp": "International, UEFA Youth League",
-    "cell": "3-2",
-    "lay": 20,
-    "stake": 3,
-    "created": "2026-10-21T11:43:28+00:00"
-  },
-  {
     "id": "2026-10-21_como-man-utd_2-2",
     "date": "2026-10-21",
     "ko": "18:45",
@@ -383,5 +350,27 @@
     "lay": 11.5,
     "stake": 3,
     "created": "2026-10-21T17:47:52Z"
+  },
+  {
+    "id": "2026-10-21_inter-shakhtar_2-1",
+    "date": "2026-10-21",
+    "ko": "21:00",
+    "match": "Inter v Shakhtar",
+    "comp": "International, UEFA Champions League",
+    "cell": "2-1",
+    "lay": 11,
+    "stake": 3,
+    "created": "2026-10-21T18:29:18Z"
+  },
+  {
+    "id": "2026-10-21_real-madrid-rb-leipzig_3-2",
+    "date": "2026-10-21",
+    "ko": "21:00",
+    "match": "Real Madrid v RB Leipzig",
+    "comp": "International, UEFA Champions League",
+    "cell": "3-2",
+    "lay": 20,
+    "stake": 3,
+    "created": "2026-10-21T18:29:18Z"
   }
 ]
