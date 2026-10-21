@@ -1,16 +1,4 @@
-# Scan 2026-10-21 10:42 (Ljubljana)
-Avispa Fukuoka v Gamba Osaka | n=20 | xg=10
-Kawasaki Frontale v Vissel Kobe | n=20 | xg=10
-V-Varen Nagasaki v Sanfrecce Hiroshima | n=20 | xg=10
-Nagoya Grampus v Cerezo Osaka | n=20 | xg=10
-Fagiano Okayama v Mito Hollyhock | n=20 | xg=10
-FC Tokyo v Kashiwa Reysol | n=20 | xg=10
-Yokohama F. Marinos v Tokyo Verdy | n=20 | xg=10
-Albirex Niigata v Sagan Tosu | n=20 | xg=10
-Shonan Bellmare v Iwaki | n=20 | xg=10
-Tegevajaro Miyazaki v Blaublitz Akita | n=20 | xg=10
-Kagoshima United v Kochi United | n=20 | xg=10
-FC Gifu v Sagamihara | n=20 | xg=10
-Kamatamare Sanuki v Zweigen Kanazawa | n=20 | xg=10
-Urawa v JEF United Chiba | n=20 | xg=10
-Ventforet Kofu v Yokohama FC | n=20 | xg=10
+# Scan 2026-10-21 10:42 (Ljubljana), run 2: corrected team names
+V varen Nagasaki v Sanfrecce Hiroshima | n=20 | xg=10
+Yokohama F Marinos v Tokyo Verdy | n=20 | xg=10
+Kamatamare Sanuki v Kanazawa | n=20 | xg=10
