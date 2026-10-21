@@ -1,10 +1,5 @@
-# Night scan 2026-10-21 (Ljubljana)
-Deportivo La Guaira v Aragua | n=20 | xg=10
-Deportivo Tachira v Monagas | n=20 | xg=10
-FC Cincinnati v DC United | n=20 | xg=10
-Portuguesa FC v Zamora | n=20 | xg=10
-Palmeiras v Fluminense | n=20 | xg=10
-Puebla v Monterrey | n=20 | xg=10
-Atlas v Club America | n=20 | xg=10
-Toluca v Tijuana | n=20 | xg=10
-Santos Laguna v Pumas UNAM | n=20 | xg=10
+# Night scan 2026-10-21 retry with ids
+id:2807 v id:2811 | n=20 | xg=10
+Toluca v id:2280 | n=20 | xg=10
+Santos Laguna v id:2286 | n=20 | xg=10
+Deportivo La Guaira v Aragua FC | n=20 | xg=10
