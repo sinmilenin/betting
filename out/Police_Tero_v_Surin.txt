@@ -1,6 +1,6 @@
-MATCH Police Tero v Surin City | fetched 2026-10-21 10:13 local
+MATCH Police Tero v Surin | fetched 2026-10-21 10:15 local
 
-FORM DATA Police Tero v Surin City | source API-Football | 2026-10-21 10:13 UTC
+FORM DATA Police Tero v Surin | source API-Football | 2026-10-21 10:15 UTC
 H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
 
 === Police Tero (id 2775): last 20 finished games ===
@@ -28,7 +28,26 @@ Listed home: 10 games, scored 16 (1.60), conceded 14 (1.40), blanks 2, clean she
 Listed away: 10 games, scored 10 (1.00), conceded 19 (1.90), blanks 4, clean sheets 1
 All: 20 games, scored 26 (1.30), conceded 33 (1.65), blanks 6, clean sheets 3
 
-!! Surin City: No team found for "Surin City".
+=== Surin (id 6607): last 16 finished games ===
+2025-04-09 H 1-4 v BG Pathum United | FA Cup | Surin, Muang Surin
+2025-01-29 A 1-0 v Huasamrong Gateway | FA Cup | Chachoengsao
+2024-11-20 H 2-0 v Ubonkids City | FA Cup | Surin, Muang Surin
+2024-02-28 A 1-1 v Udon United | FA Cup | Udon Thani [AET, 90-min score shown]
+2023-12-20 H 2-0 v Chiangrai United | FA Cup | Surin, Muang Surin
+2023-11-01 H 6-1 v Nonkhae Police | FA Cup | Surin, Muang Surin
+2022-10-05 A 0-2 v Phitsanulok | FA Cup | Phitsanulok
+2022-09-28 H 5-0 v Thonburi Forest | FA Cup | Ranong
+2021-09-29 A 0-5 v Bangkok | FA Cup | Thonburi
+2020-11-07 A 1-9 v Sukhothai FC | FA Cup | ?
+2020-09-30 H 2-2 v Techno Sawang | FA Cup | ? [PEN, 90-min score shown]
+2019-03-27 A 0-3 v Kranuan | FA Cup | ?
+2018-04-04 H 1-2 v Nakhon Mae Sot United | FA Cup | ?
+2017-06-21 H 1-2 v Lampang FC | FA Cup | ?
+2017-04-05 H 1-0 v Sing Ubon | FA Cup | ?
+2016-06-15 A 0-2 v Samut Sakhon FC | FA Cup | ?
+Listed home: 9 games, scored 21 (2.33), conceded 11 (1.22), blanks 0, clean sheets 4
+Listed away: 7 games, scored 3 (0.43), conceded 22 (3.14), blanks 4, clean sheets 1
+All: 16 games, scored 24 (1.50), conceded 33 (2.06), blanks 4, clean sheets 5
 
 TABLE FOR Police Tero
 LEAGUE TABLE Thai League 2 2026 | 18 teams | 63 games played
@@ -53,7 +72,9 @@ League averages per game: home 1.51, away 1.13, total 2.63
 17  Mahasarakham United      4 |  4   4-5       |  3   2-7       |  7   6-12
 18  Kasetsart FC             4 |  3   3-3       |  4   3-11      |  7   6-14
 
-(13 API-Football requests used)
+(no league table available for Surin: tried FA Cup 2024, FA Cup 2023, FA Cup 2022, FA Cup 2021)
+
+(30 API-Football requests used)
 
 ----------------------------------------------------------------------
 MATCHBOOK: skipped (switched off for this run)
