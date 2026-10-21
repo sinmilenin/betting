@@ -1,3 +1,2 @@
-# Scan 2026-10-21 12:12 (Ljubljana), run 3: corrected names
-Khankendi v Mingachevir | n=20 | xg=10
-Ayutthaya U v Muangthong United | n=20 | xg=10
+# Scan 2026-10-21 12:57 (Ljubljana): retry Ayutthaya name
+Ayutthaya Utd v Muangthong United | n=20 | xg=10
