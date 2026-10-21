@@ -1,7 +1,32 @@
-MATCH Shimizu S pulse v Machida Zelvia | fetched 2026-10-21 09:28 local
+MATCH Shimizu v Machida Zelvia | fetched 2026-10-21 09:29 local
 
-FORM DATA Shimizu S pulse v Machida Zelvia | source API-Football | 2026-10-21 09:28 UTC
+FORM DATA Shimizu v Machida Zelvia | source API-Football | 2026-10-21 09:29 UTC
 H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
+
+=== Shimizu S-pulse (id 283): last 20 finished games ===
+2026-10-17 H 2-2 v Gamba Osaka | J1 League | Shizuoka | xG 1.00-1.48
+2026-10-14 A 1-2 v Yokohama F. Marinos | J-League Cup | Yokohama
+2026-10-11 A 2-1 v Mito Hollyhock | J1 League | Mito | xG 0.91-0.87
+2026-10-07 H 1-1 v V-varen Nagasaki | Emperor Cup | Shizuoka [AET, 90-min score shown]
+2026-09-29 A 2-0 v Kanazawa | J-League Cup | Kanazawa
+2026-09-19 H 2-1 v JEF United Chiba | J1 League | Shizuoka | xG 1.28-1.15
+2026-09-12 H 1-0 v Avispa Fukuoka | J1 League | Shizuoka | xG 1.89-0.68
+2026-09-06 A 1-3 v Kawasaki Frontale | J1 League | Tokyo | xG 1.81-4.48
+2026-09-02 H 1-1 v FC Tokyo | J1 League | Shizuoka | xG 1.71-2.97
+2026-08-29 H 0-1 v Kashiwa Reysol | J1 League | Shizuoka | xG 0.53-2.05
+2026-08-26 H 1-1 v Osaka | Emperor Cup | Shizuoka [AET, 90-min score shown]
+2026-08-22 A 0-1 v Cerezo Osaka | J1 League | Osaka
+2026-08-15 H 0-1 v Yokohama F. Marinos | J1 League | Shizuoka
+2026-08-08 A 1-0 v Nagoya Grampus | J1 League | Toyota City
+2026-07-18 A 3-1 v Karlsruher SC | Friendlies Clubs | ?
+2026-07-14 A 3-1 v Polessya | Friendlies Clubs | ?
+2026-06-06 A 0-3 v Yokohama F. Marinos | J1 League | Yokohama
+2026-05-31 H 1-1 v Yokohama F. Marinos | J1 League | Shizuoka
+2026-05-24 H 1-2 v Gamba Osaka | J1 League | Shizuoka
+2026-05-17 A 0-2 v Fagiano Okayama | J1 League | Okayama
+Listed home: 10 games, scored 10 (1.00), conceded 11 (1.10), blanks 2, clean sheets 1
+Listed away: 10 games, scored 13 (1.30), conceded 14 (1.40), blanks 3, clean sheets 2
+All: 20 games, scored 23 (1.15), conceded 25 (1.25), blanks 5, clean sheets 3
 
 === Machida Zelvia (id 303): last 20 finished games ===
 2026-10-18 H 3-0 v Avispa Fukuoka | J1 League | Tokyo | xG 2.02-1.37
@@ -28,9 +53,7 @@ Listed home: 12 games, scored 21 (1.75), conceded 9 (0.75), blanks 2, clean shee
 Listed away: 8 games, scored 18 (2.25), conceded 6 (0.75), blanks 0, clean sheets 3
 All: 20 games, scored 39 (1.95), conceded 15 (0.75), blanks 2, clean sheets 9
 
-!! Shimizu S pulse: No team found for "Shimizu S pulse".
-
-TABLE FOR Machida Zelvia
+TABLE FOR Shimizu S-pulse
 LEAGUE TABLE J1 League 2027 | 20 teams | 100 games played
 League averages per game: home 1.54, away 1.38, total 2.92
 #   team                   Pts | home P GF-GA  | away P GF-GA  | all P GF-GA
@@ -55,7 +78,9 @@ League averages per game: home 1.54, away 1.38, total 2.92
 19  JEF United Chiba         6 |  5   4-7       |  5   4-12      | 10   8-19
 20  Tokyo Verdy              4 |  7   3-15      |  3   1-3       | 10   4-18
 
-(14 API-Football requests used)
+(Machida Zelvia: same table as Shimizu S-pulse, shown above)
+
+(25 API-Football requests used)
 
 ----------------------------------------------------------------------
 MATCHBOOK: skipped (switched off for this run)
