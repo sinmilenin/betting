@@ -460,5 +460,16 @@
     "lay": 12.5,
     "stake": 3,
     "created": "2026-10-21T14:00:11Z"
+  },
+  {
+    "id": "2026-10-21_al-ahly-cairo-olympic-el-qanal_2-0",
+    "date": "2026-10-21",
+    "ko": "19:00",
+    "match": "Al Ahly Cairo v Olympic El Qanal",
+    "comp": "Egypt, Egyptian Premier",
+    "cell": "2-0",
+    "lay": 6.8,
+    "stake": 3,
+    "created": "2026-10-21T14:45:00Z"
   }
 ]
