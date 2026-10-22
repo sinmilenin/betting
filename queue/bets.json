@@ -438,5 +438,16 @@
     "lay": 9.8,
     "stake": 3,
     "created": "2026-10-22T17:00:30Z"
+  },
+  {
+    "id": "2026-10-22_celtic-celta-vigo_2-2",
+    "date": "2026-10-22",
+    "ko": "21:00",
+    "match": "Celtic v Celta Vigo",
+    "comp": "International, UEFA Europa League",
+    "cell": "2-2",
+    "lay": 14,
+    "stake": 3,
+    "created": "2026-10-22T17:46:12Z"
   }
 ]
