@@ -1,5 +1,4 @@
-RUN 2026-10-22 16:16 local | 3 match(es)
-Monaco v id:160 -> out/Monaco_v_id_160.txt
-id:397 v id:735 -> out/id_397_v_id_735.txt
-FC Thun v id:561 -> out/FC_Thun_v_id_561.txt
-Requests used: API-Football 80, Matchbook 0
+RUN 2026-10-22 16:18 local | 2 match(es)
+Aarhus v Egnatia -> out/Aarhus_v_Egnatia.txt
+FC Thun v HNK Hajduk Split -> out/FC_Thun_v_HNK_Hajduk_Split.txt
+Requests used: API-Football 53, Matchbook 0

@@ -1,6 +1,6 @@
-MATCH FC Thun v id:561 | fetched 2026-10-22 16:16 local
+MATCH FC Thun v HNK Hajduk Split | fetched 2026-10-22 16:18 local
 
-FORM DATA FC Thun v id:561 | source API-Football | 2026-10-22 16:17 UTC
+FORM DATA FC Thun v HNK Hajduk Split | source API-Football | 2026-10-22 16:18 UTC
 H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
 
 === FC Thun (id 1012): last 20 finished games ===
@@ -28,30 +28,30 @@ Listed home: 8 games, scored 10 (1.25), conceded 14 (1.75), blanks 3, clean shee
 Listed away: 12 games, scored 26 (2.17), conceded 30 (2.50), blanks 2, clean sheets 1
 All: 20 games, scored 36 (1.80), conceded 44 (2.20), blanks 5, clean sheets 4
 
-=== HNK Rijeka (id 561): last 20 finished games ===
-2026-10-20 A 4-1 v Karlovac 1919 | Cup | Karlovac
-2026-10-16 A 2-1 v Rudes | HNL | Veliky Gorica | xG 1.10-0.71
-2026-10-11 A 1-4 v NK Slaven Belupo | HNL | Koprivnica | xG 2.12-1.81
-2026-09-26 H 0-1 v Union Berlin | Friendlies Clubs | ?
-2026-09-20 H 3-0 v HNK Hajduk Split | HNL | Rijeka | xG 1.46-1.28
-2026-09-16 A 6-0 v Vrbovec | Cup | ?
-2026-09-12 A 1-1 v NK Lokomotiva Zagreb | HNL | Zagreb | xG 2.01-0.39
-2026-09-05 H 4-1 v NK Osijek | HNL | Rijeka | xG 2.66-0.35
-2026-08-31 A 0-0 v HNK Gorica | HNL | Velika Gorica | xG 0.62-0.24
-2026-08-27 H 1-4 v FC Midtjylland | UEFA Europa Conference League | Rijeka
-2026-08-23 H 3-2 v Istra 1961 | HNL | Rijeka
-2026-08-20 A 0-2 v FC Midtjylland | UEFA Europa Conference League | Herning
-2026-08-16 A 0-2 v NK Varazdin | HNL | Varaždin
-2026-08-13 A 1-1 v Ilves | UEFA Europa Conference League | Tampere
-2026-08-06 H 1-0 v Ilves | UEFA Europa Conference League | Rijeka
-2026-08-02 H 2-1 v Rudes | HNL | Rijeka
-2026-07-30 A 1-0 v Derry City | UEFA Europa Conference League | Derry
-2026-07-23 H 1-0 v Derry City | UEFA Europa Conference League | Rijeka
-2026-07-16 H 2-0 v Dekani | Friendlies Clubs | ?
-2026-07-03 A 2-0 v Radomlje | Friendlies Clubs | ?
-Listed home: 9 games, scored 17 (1.89), conceded 9 (1.00), blanks 1, clean sheets 4
-Listed away: 11 games, scored 18 (1.64), conceded 12 (1.09), blanks 3, clean sheets 4
-All: 20 games, scored 35 (1.75), conceded 21 (1.05), blanks 4, clean sheets 8
+=== HNK Hajduk Split (id 608): last 20 finished games ===
+2026-10-18 H 1-0 v NK Varazdin | HNL | Split | xG 1.43-1.25
+2026-10-15 H 2-1 v Ajax | UEFA Europa Conference League | Split | xG 1.99-1.15
+2026-10-10 H 2-1 v Dinamo Zagreb | HNL | Split | xG 1.05-1.39
+2026-09-20 A 0-3 v HNK Rijeka | HNL | Rijeka | xG 1.28-1.46
+2026-09-13 H 1-0 v NK Slaven Belupo | HNL | Split | xG 0.68-0.36
+2026-09-08 A 2-0 v Vardarac | Cup | ?
+2026-09-06 A 4-0 v Rudes | HNL | Velika Gorica | xG 2.32-0.12
+2026-08-31 H 2-0 v NK Lokomotiva Zagreb | HNL | Split | xG 2.57-0.42
+2026-08-27 A 2-2 v Raków Częstochowa | UEFA Europa Conference League | Czestochowa [AET, 90-min score shown]
+2026-08-23 H 4-0 v NK Osijek | HNL | Split | xG 1.66-0.50
+2026-08-20 H 2-2 v Raków Częstochowa | UEFA Europa Conference League | Split
+2026-08-16 A 2-1 v HNK Gorica | HNL | Velika Gorica
+2026-08-13 H 4-0 v FK Zalgiris Vilnius | UEFA Europa Conference League | Split
+2026-08-09 H 2-2 v Istra 1961 | HNL | Split
+2026-08-06 A 5-2 v FK Zalgiris Vilnius | UEFA Europa Conference League | Vilnius
+2026-08-02 A 1-2 v NK Varazdin | HNL | Varaždin
+2026-07-30 A 0-4 v Pafos | UEFA Europa League | Limassol [AET, 90-min score shown]
+2026-07-23 H 2-0 v Pafos | UEFA Europa League | Split
+2026-07-16 A 1-2 v Žilina | UEFA Europa League | Zilina
+2026-07-09 H 2-0 v Žilina | UEFA Europa League | Split
+Listed home: 11 games, scored 24 (2.18), conceded 6 (0.55), blanks 0, clean sheets 7
+Listed away: 9 games, scored 17 (1.89), conceded 16 (1.78), blanks 2, clean sheets 2
+All: 20 games, scored 41 (2.05), conceded 22 (1.10), blanks 2, clean sheets 9
 
 TABLE FOR FC Thun
 LEAGUE TABLE UEFA Europa Conference League 2026 | 36 teams | 18 games played
@@ -94,7 +94,7 @@ League averages per game: home 1.94, away 1.00, total 2.94
 35  SC Braga                 0 |  0   0-0       |  1   0-3       |  1   0-3
 36  Kauno Žalgiris           0 |  0   0-0       |  1   0-4       |  1   0-4
 
-TABLE FOR HNK Rijeka
+TABLE FOR HNK Hajduk Split
 LEAGUE TABLE HNL 2026 | 10 teams | 49 games played
 League averages per game: home 1.86, away 1.27, total 3.12
 #   team                   Pts | home P GF-GA  | away P GF-GA  | all P GF-GA
