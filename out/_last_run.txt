@@ -1,3 +1,16 @@
-RUN 2026-10-22 15:29 local | 1 match(es)
-id:2870 v Al Ain -> out/id_2870_v_Al_Ain.txt
-Requests used: API-Football 25, Matchbook 0
+RUN 2026-10-22 16:15 local | 8 match(es)
+Monaco v Freiburg -> out/Monaco_v_Freiburg.txt
+    !! Freiburg: Ambiguous team name "Freiburg".
+Midtjylland v Sint Truiden -> out/Midtjylland_v_Sint_Truiden.txt
+    !! Midtjylland: Ambiguous team name "Midtjylland".
+    !! Sint Truiden: No team found for "Sint Truiden".
+Thun v Hajduk Split -> out/Thun_v_Hajduk_Split.txt
+    !! Thun: Ambiguous team name "Thun".
+    !! Hajduk Split: Ambiguous team name "Hajduk Split".
+AGF v Egnatia -> out/AGF_v_Egnatia.txt
+Borac Banja Luka v KuPS -> out/Borac_Banja_Luka_v_KuPS.txt
+Plzen v Levski Sofia -> out/Plzen_v_Levski_Sofia.txt
+Jagiellonia v Anderlecht -> out/Jagiellonia_v_Anderlecht.txt
+Inter d Escaldes v Universitatea Craiova -> out/Inter_d_Escaldes_v_Universitatea_Craiova.txt
+    !! Inter d Escaldes: No team found for "Inter d Escaldes".
+Requests used: API-Football 138, Matchbook 0
