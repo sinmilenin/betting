@@ -1,0 +1,149 @@
+MATCH Flamengo v id:450 | fetched 2026-10-22 19:00 local
+
+FORM DATA Flamengo v id:450 | source API-Football | 2026-10-22 19:00 UTC
+H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
+
+=== Flamengo (id 127): last 20 finished games ===
+2026-10-18 A 3-0 v Bahia | Serie A | El Salvador | xG 2.89-0.99
+2026-10-16 A 0-0 v Estudiantes L.P. | CONMEBOL Libertadores | La Plata | xG 0.18-1.13
+2026-10-11 H 1-0 v Fluminense | Serie A | Rio de Janeiro | xG 1.65-0.65
+2026-10-08 A 2-2 v Santos | Serie A | Santos | xG 1.15-2.42
+2026-09-20 H 2-1 v RB Bragantino | Serie A | Rio de Janeiro | xG 2.94-0.76
+2026-09-18 H 1-1 v Independiente del Valle | CONMEBOL Libertadores | Rio de Janeiro
+2026-09-13 H 2-1 v Corinthians | Serie A | Rio de Janeiro | xG 2.62-0.30
+2026-09-11 A 2-0 v Independiente del Valle | CONMEBOL Libertadores | Quito
+2026-09-06 A 1-0 v Remo | Serie A | Belem | xG 2.10-0.44
+2026-09-02 H 2-0 v Mirassol | Serie A | Rio de Janeiro | xG 1.75-0.49
+2026-08-30 H 3-0 v Botafogo | Serie A | Rio de Janeiro
+2026-08-22 A 1-2 v Cruzeiro | Serie A | Belo Horizonte
+2026-08-20 H 2-1 v Cruzeiro | CONMEBOL Libertadores | Rio de Janeiro
+2026-08-16 A 5-1 v Mirassol | Serie A | Mirassol
+2026-08-13 A 1-1 v Cruzeiro | CONMEBOL Libertadores | Belo Horizonte
+2026-08-09 H 2-0 v Vitoria | Serie A | Rio de Janeiro
+2026-07-29 A 1-1 v Internacional | Serie A | Porto Alegre
+2026-07-26 H 1-1 v Sao Paulo | Serie A | Rio de Janeiro
+2026-07-23 A 4-0 v Chapecoense-sc | Serie A | Chapeco
+2026-07-17 H 4-2 v Olimpia | Friendlies Clubs | ?
+Listed home: 10 games, scored 20 (2.00), conceded 7 (0.70), blanks 0, clean sheets 4
+Listed away: 10 games, scored 20 (2.00), conceded 7 (0.70), blanks 1, clean sheets 5
+All: 20 games, scored 40 (2.00), conceded 14 (0.70), blanks 1, clean sheets 9
+
+=== Estudiantes L.P. (id 450): last 20 finished games ===
+2026-10-18 H 1-2 v San Lorenzo | Liga Profesional Argentina | La Plata | xG 0.97-0.92
+2026-10-16 H 0-0 v Flamengo | CONMEBOL Libertadores | La Plata | xG 1.13-0.18
+2026-10-10 A 2-2 v Central Cordoba de Santiago | Liga Profesional Argentina | Santiago del Estero | xG 2.94-3.12
+2026-10-05 H 3-0 v Gimnasia M. | Liga Profesional Argentina | La Plata | xG 2.82-1.05
+2026-10-02 A 0-1 v Platense | Copa Argentina | Gobernador Julio A. Costa
+2026-09-26 H 1-3 v Rosario Central | Super Copa International | La Plata
+2026-09-22 A 1-2 v Lanus | Liga Profesional Argentina | Buenos Aires | xG 1.49-1.21
+2026-09-17 A 1-0 v Corinthians | CONMEBOL Libertadores | Sao Paulo
+2026-09-12 H 2-1 v Platense | Liga Profesional Argentina | La Plata | xG 1.08-0.78
+2026-09-10 H 1-1 v Corinthians | CONMEBOL Libertadores | La Plata
+2026-09-06 A 0-1 v Velez Sarsfield | Liga Profesional Argentina | Buenos Aires
+2026-08-31 H 0-0 v Newells Old Boys | Liga Profesional Argentina | La Plata
+2026-08-27 H 3-1 v Barracas Central | Copa Argentina | Gobernador Julio A. Costa
+2026-08-23 A 0-2 v Sarmiento Junin | Liga Profesional Argentina | Junin
+2026-08-19 A 3-0 v U. Catolica | CONMEBOL Libertadores | Santiago de Chile
+2026-08-15 H 4-0 v Gimnasia L.P. | Liga Profesional Argentina | La Plata
+2026-08-12 H 1-1 v U. Catolica | CONMEBOL Libertadores | La Plata
+2026-08-08 A 0-2 v Deportivo Riestra | Liga Profesional Argentina | Buenos Aires
+2026-08-05 A 0-1 v Boca Juniors | Liga Profesional Argentina | Buenos Aires
+2026-08-01 H 3-0 v Defensa Y Justicia | Liga Profesional Argentina | La Plata
+Listed home: 11 games, scored 19 (1.73), conceded 9 (0.82), blanks 2, clean sheets 5
+Listed away: 9 games, scored 7 (0.78), conceded 11 (1.22), blanks 5, clean sheets 2
+All: 20 games, scored 26 (1.30), conceded 20 (1.00), blanks 7, clean sheets 7
+
+TABLE FOR Flamengo
+LEAGUE TABLE Serie A 2026 | 20 teams | 309 games played
+League averages per game: home 1.52, away 1.14, total 2.66
+#   team                   Pts | home P GF-GA  | away P GF-GA  | all P GF-GA
+1   Flamengo                67 | 15  29-10      | 16  32-15      | 31  61-25
+2   Palmeiras               66 | 15  28-10      | 16  26-12      | 31  54-22
+3   Atletico Paranaense     53 | 16  27-15      | 15  22-22      | 31  49-37
+4   Cruzeiro                51 | 15  26-16      | 16  24-30      | 31  50-46
+5   Fluminense              51 | 16  29-16      | 15  20-23      | 31  49-39
+6   Atletico-MG             50 | 16  27-17      | 15  15-18      | 31  42-35
+7   Bahia                   49 | 16  23-17      | 15  21-22      | 31  44-39
+8   Santos                  45 | 15  22-20      | 16  26-26      | 31  48-46
+9   Sao Paulo               42 | 16  25-13      | 15  11-22      | 31  36-35
+10  RB Bragantino           41 | 15  24-17      | 16  15-19      | 31  39-36
+11  Botafogo                39 | 16  26-22      | 15  18-26      | 31  44-48
+12  Coritiba                39 | 15  20-20      | 16  18-29      | 31  38-49
+13  Vitoria                 37 | 15  22-12      | 16  12-33      | 31  34-45
+14  Mirassol                36 | 16  23-21      | 15  13-23      | 31  36-44
+15  Vasco DA Gama           35 | 15  21-18      | 15  15-25      | 30  36-43
+16  Corinthians             33 | 16  16-17      | 15  16-22      | 31  32-39
+17  Internacional           32 | 15  18-17      | 16  15-23      | 31  33-40
+18  Gremio                  31 | 16  25-21      | 15   9-23      | 31  34-44
+19  Remo                    26 | 16  20-21      | 15  14-28      | 31  34-49
+20  Chapecoense-sc          18 | 14  19-33      | 16  11-29      | 30  30-62
+
+TABLE FOR Estudiantes L.P.
+LEAGUE TABLE Liga Profesional Argentina 2026 | 60 teams | 435 games played
+League averages per game: home 1.20, away 0.95, total 2.15
+#   team                   Pts | home P GF-GA  | away P GF-GA  | all P GF-GA
+1   Estudiantes L.P.        31 |  8  11-4       |  8   8-3       | 16  19-7 [Apertura - Group A]
+2   Boca Juniors            30 |  8   8-3       |  8  14-6       | 16  22-9 [Apertura - Group A]
+3   Velez Sarsfield         28 |  8   9-6       |  8   9-6       | 16  18-12 [Apertura - Group A]
+4   Talleres Cordoba        26 |  7   9-5       |  9   8-8       | 16  17-13 [Apertura - Group A]
+5   Independiente           24 |  8  15-9       |  8   9-11      | 16  24-20 [Apertura - Group A]
+6   Lanus                   24 |  8   9-5       |  8   9-10      | 16  18-15 [Apertura - Group A]
+7   San Lorenzo             22 |  8  10-11      |  8   4-3       | 16  14-14 [Apertura - Group A]
+8   Union Santa Fe          21 |  8  11-5       |  8  13-15      | 16  24-20 [Apertura - Group A]
+9   Instituto Cordoba       21 |  8  11-8       |  8   6-9       | 16  17-17 [Apertura - Group A]
+10  Defensa Y Justicia      19 |  8   7-10      |  8  11-11      | 16  18-21 [Apertura - Group A]
+11  Gimnasia M.             19 |  8   9-8       |  8   5-14      | 16  14-22 [Apertura - Group A]
+12  Platense                16 |  8   4-8       |  8   6-7       | 16  10-15 [Apertura - Group A]
+13  Central Cordoba de San  16 |  8  10-9       |  8   1-12      | 16  11-21 [Apertura - Group A]
+14  Newells Old Boys        15 |  8   6-10      |  8   9-17      | 16  15-27 [Apertura - Group A]
+15  Deportivo Riestra       11 |  8   4-4       |  8   1-8       | 16   5-12 [Apertura - Group A]
+1   Independ. Rivadavia     34 |  9  19-10      |  7  10-5       | 16  29-15 [Apertura - Group B]
+2   River Plate             29 |  8  14-8       |  8   8-4       | 16  22-12 [Apertura - Group B]
+3   Argentinos JRS          29 |  9  10-4       |  7   7-9       | 16  17-13 [Apertura - Group B]
+4   Rosario Central         28 |  8  10-7       |  8  10-9       | 16  20-16 [Apertura - Group B]
+5   Belgrano Cordoba        26 |  8  11-5       |  8   6-8       | 16  17-13 [Apertura - Group B]
+6   Gimnasia L.P.           26 |  8  11-10      |  8   8-9       | 16  19-19 [Apertura - Group B]
+7   Huracan                 22 |  8  11-8       |  8   6-5       | 16  17-13 [Apertura - Group B]
+8   Racing Club             21 |  7   7-7       |  9  10-8       | 16  17-15 [Apertura - Group B]
+9   Barracas Central        21 |  8   9-8       |  8   6-7       | 16  15-15 [Apertura - Group B]
+10  Tigre                   20 |  8  11-8       |  8   7-7       | 16  18-15 [Apertura - Group B]
+11  Sarmiento Junin         19 |  8   9-6       |  8   4-14      | 16  13-20 [Apertura - Group B]
+12  Banfield                18 |  8  10-6       |  8   7-13      | 16  17-19 [Apertura - Group B]
+13  Atletico Tucuman        14 |  8   8-6       |  8   7-14      | 16  15-20 [Apertura - Group B]
+14  Aldosivi                 8 |  8   3-5       |  8   3-14      | 16   6-19 [Apertura - Group B]
+15  Estudiantes de Rio Cua   5 |  8   4-10      |  8   1-14      | 16   5-24 [Apertura - Group B]
+1   Instituto Cordoba       29 |  6  11-5       |  7   9-5       | 13  20-10 [Clausura - Group A]
+2   Boca Juniors            24 |  6  11-3       |  7  10-11      | 13  21-14 [Clausura - Group A]
+3   Defensa Y Justicia      24 |  7  11-4       |  6   7-8       | 13  18-12 [Clausura - Group A]
+4   Velez Sarsfield         24 |  7  10-5       |  6   8-8       | 13  18-13 [Clausura - Group A]
+5   Lanus                   23 |  7   8-6       |  6   8-3       | 13  16-9 [Clausura - Group A]
+6   Newells Old Boys        20 |  7  10-5       |  6   3-5       | 13  13-10 [Clausura - Group A]
+7   Gimnasia M.             20 |  6   9-3       |  7   6-10      | 13  15-13 [Clausura - Group A]
+8   Independiente           19 |  6   3-9       |  7   9-4       | 13  12-13 [Clausura - Group A]
+9   San Lorenzo             17 |  6   4-4       |  7   3-8       | 13   7-12 [Clausura - Group A]
+10  Estudiantes L.P.        14 |  7  13-5       |  6   3-10      | 13  16-15 [Clausura - Group A]
+11  Union Santa Fe          14 |  6  11-10      |  7   7-12      | 13  18-22 [Clausura - Group A]
+12  Deportivo Riestra       12 |  7   8-7       |  6   2-6       | 13  10-13 [Clausura - Group A]
+13  Platense                11 |  7   5-11      |  6   7-8       | 13  12-19 [Clausura - Group A]
+14  Central Cordoba de San  10 |  6   5-8       |  7   6-10      | 13  11-18 [Clausura - Group A]
+15  Talleres Cordoba         9 |  7   5-10      |  6   7-10      | 13  12-20 [Clausura - Group A]
+1   Rosario Central         25 |  6  10-4       |  7  10-7       | 13  20-11 [Clausura - Group B]
+2   Argentinos JRS          25 |  5  10-4       |  8   7-7       | 13  17-11 [Clausura - Group B]
+3   Belgrano Cordoba        22 |  7   8-9       |  6   6-1       | 13  14-10 [Clausura - Group B]
+4   Gimnasia L.P.           22 |  6  10-7       |  7   9-11      | 13  19-18 [Clausura - Group B]
+5   Sarmiento Junin         21 |  7  11-7       |  6  11-12      | 13  22-19 [Clausura - Group B]
+6   River Plate             20 |  7   9-7       |  6   9-6       | 13  18-13 [Clausura - Group B]
+7   Barracas Central        19 |  6   4-4       |  7   7-6       | 13  11-10 [Clausura - Group B]
+8   Huracan                 19 |  7   6-4       |  6   6-8       | 13  12-12 [Clausura - Group B]
+9   Independ. Rivadavia     19 |  6  14-9       |  7   3-12      | 13  17-21 [Clausura - Group B]
+10  Atletico Tucuman        14 |  7   6-10      |  6   6-3       | 13  12-13 [Clausura - Group B]
+11  Tigre                   13 |  6   4-4       |  7   9-11      | 13  13-15 [Clausura - Group B]
+12  Banfield                13 |  6   7-10      |  7   7-9       | 13  14-19 [Clausura - Group B]
+13  Racing Club             12 |  8   9-12      |  5   5-8       | 13  14-20 [Clausura - Group B]
+14  Estudiantes de Rio Cua   9 |  7   4-6       |  6   4-11      | 13   8-17 [Clausura - Group B]
+15  Aldosivi                 8 |  6   7-9       |  7   7-13      | 13  14-22 [Clausura - Group B]
+
+(26 API-Football requests used)
+
+----------------------------------------------------------------------
+MATCHBOOK: skipped (switched off for this run)
