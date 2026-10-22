@@ -251,5 +251,104 @@
     "lay": 11.0,
     "stake": 3,
     "created": "2026-10-22T11:51:10Z"
+  },
+  {
+    "id": "2026-10-22_al-fateh-al-shabab_2-2",
+    "date": "2026-10-22",
+    "ko": "16:45",
+    "match": "Al-Fateh v Al-Shabab",
+    "comp": "Saudi Arabia, Saudi Professional League",
+    "cell": "2-2",
+    "lay": 14.5,
+    "stake": 3,
+    "created": "2026-10-22T14:04:00Z"
+  },
+  {
+    "id": "2026-10-22_fk-jablonec-brighton_0-3",
+    "date": "2026-10-22",
+    "ko": "18:45",
+    "match": "FK Jablonec v Brighton",
+    "comp": "International, UEFA Conference League",
+    "cell": "0-3",
+    "lay": 8.4,
+    "stake": 3,
+    "created": "2026-10-22T14:04:00Z"
+  },
+  {
+    "id": "2026-10-22_fk-kauno-zalgiris-brann_0-1",
+    "date": "2026-10-22",
+    "ko": "18:45",
+    "match": "FK Kauno Zalgiris v Brann",
+    "comp": "International, UEFA Conference League",
+    "cell": "0-1",
+    "lay": 11.0,
+    "stake": 3,
+    "created": "2026-10-22T14:04:00Z"
+  },
+  {
+    "id": "2026-10-22_fk-kauno-zalgiris-brann_1-2",
+    "date": "2026-10-22",
+    "ko": "18:45",
+    "match": "FK Kauno Zalgiris v Brann",
+    "comp": "International, UEFA Conference League",
+    "cell": "1-2",
+    "lay": 9.8,
+    "stake": 3,
+    "created": "2026-10-22T14:04:00Z"
+  },
+  {
+    "id": "2026-10-22_getafe-lugano_2-0",
+    "date": "2026-10-22",
+    "ko": "18:45",
+    "match": "Getafe v Lugano",
+    "comp": "International, UEFA Conference League",
+    "cell": "2-0",
+    "lay": 11.5,
+    "stake": 3,
+    "created": "2026-10-22T14:04:00Z"
+  },
+  {
+    "id": "2026-10-22_fc-iberia-1999-mjallby_0-1",
+    "date": "2026-10-22",
+    "ko": "18:45",
+    "match": "FC Iberia 1999 v Mjallby",
+    "comp": "International, UEFA Conference League",
+    "cell": "0-1",
+    "lay": 11.0,
+    "stake": 3,
+    "created": "2026-10-22T14:04:00Z"
+  },
+  {
+    "id": "2026-10-22_fc-iberia-1999-mjallby_2-2",
+    "date": "2026-10-22",
+    "ko": "18:45",
+    "match": "FC Iberia 1999 v Mjallby",
+    "comp": "International, UEFA Conference League",
+    "cell": "2-2",
+    "lay": 16.5,
+    "stake": 3,
+    "created": "2026-10-22T14:04:00Z"
+  },
+  {
+    "id": "2026-10-22_pafos-fc-fk-riga_1-0",
+    "date": "2026-10-22",
+    "ko": "18:45",
+    "match": "Pafos FC v FK Riga",
+    "comp": "International, UEFA Conference League",
+    "cell": "1-0",
+    "lay": 9.4,
+    "stake": 3,
+    "created": "2026-10-22T14:04:00Z"
+  },
+  {
+    "id": "2026-10-22_pafos-fc-fk-riga_2-1",
+    "date": "2026-10-22",
+    "ko": "18:45",
+    "match": "Pafos FC v FK Riga",
+    "comp": "International, UEFA Conference League",
+    "cell": "2-1",
+    "lay": 9.8,
+    "stake": 3,
+    "created": "2026-10-22T14:04:00Z"
   }
 ]
