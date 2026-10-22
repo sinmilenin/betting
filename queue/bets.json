@@ -163,5 +163,93 @@
     "lay": 7.8,
     "stake": 3,
     "created": "2026-10-22T05:48:57Z"
+  },
+  {
+    "id": "2026-10-22_ararat-armenia-az-alkmaar_0-3",
+    "date": "2026-10-22",
+    "ko": "18:45",
+    "match": "Ararat Armenia v AZ Alkmaar",
+    "comp": "International, UEFA Europa League",
+    "cell": "0-3",
+    "lay": 12.5,
+    "stake": 3,
+    "created": "2026-10-22T11:51:10Z"
+  },
+  {
+    "id": "2026-10-22_nk-celje-red-bull-salzburg_1-2",
+    "date": "2026-10-22",
+    "ko": "21:00",
+    "match": "NK Celje v Red Bull Salzburg",
+    "comp": "International, UEFA Europa League",
+    "cell": "1-2",
+    "lay": 9.8,
+    "stake": 3,
+    "created": "2026-10-22T11:51:10Z"
+  },
+  {
+    "id": "2026-10-22_ofi-leverkusen_0-1",
+    "date": "2026-10-22",
+    "ko": "18:45",
+    "match": "OFI v Leverkusen",
+    "comp": "International, UEFA Europa League",
+    "cell": "0-1",
+    "lay": 14.5,
+    "stake": 3,
+    "created": "2026-10-22T11:51:10Z"
+  },
+  {
+    "id": "2026-10-22_ofi-leverkusen_0-2",
+    "date": "2026-10-22",
+    "ko": "18:45",
+    "match": "OFI v Leverkusen",
+    "comp": "International, UEFA Europa League",
+    "cell": "0-2",
+    "lay": 10.0,
+    "stake": 3,
+    "created": "2026-10-22T11:51:10Z"
+  },
+  {
+    "id": "2026-10-22_ofi-leverkusen_1-3",
+    "date": "2026-10-22",
+    "ko": "18:45",
+    "match": "OFI v Leverkusen",
+    "comp": "International, UEFA Europa League",
+    "cell": "1-3",
+    "lay": 12.5,
+    "stake": 3,
+    "created": "2026-10-22T11:51:10Z"
+  },
+  {
+    "id": "2026-10-22_olympiakos-sparta-prague_3-0",
+    "date": "2026-10-22",
+    "ko": "21:00",
+    "match": "Olympiakos v Sparta Prague",
+    "comp": "International, UEFA Europa League",
+    "cell": "3-0",
+    "lay": 13.5,
+    "stake": 3,
+    "created": "2026-10-22T11:51:10Z"
+  },
+  {
+    "id": "2026-10-22_olympiakos-sparta-prague_3-1",
+    "date": "2026-10-22",
+    "ko": "21:00",
+    "match": "Olympiakos v Sparta Prague",
+    "comp": "International, UEFA Europa League",
+    "cell": "3-1",
+    "lay": 15.5,
+    "stake": 3,
+    "created": "2026-10-22T11:51:10Z"
+  },
+  {
+    "id": "2026-10-22_omonia-benfica_0-3",
+    "date": "2026-10-22",
+    "ko": "21:00",
+    "match": "Omonia v Benfica",
+    "comp": "International, UEFA Europa League",
+    "cell": "0-3",
+    "lay": 11.0,
+    "stake": 3,
+    "created": "2026-10-22T11:51:10Z"
   }
 ]
