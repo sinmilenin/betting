@@ -1,7 +1,4 @@
-# Scan 2026-10-22 15:56 (regular scan), retry with ids and fixed names
-Al Fateh v Al Shabab | n=20 | xg=10
-id:1122 v Brighton | n=20 | xg=10
-id:3872 v Brann | n=20 | xg=10
-Inter Escaldes v Universitatea Craiova | n=20 | xg=10
-id:3502 v Mjallby | n=20 | xg=10
-id:651 v Torreense | n=20 | xg=10
+# Scan 2026-10-22 15:56 (regular scan), retry 2: Al-Fateh/Al-Shabab, Swiss Lugano, Inter Club d'Escaldes
+Fateh v id:2940 | n=20 | xg=10
+Getafe v FC Lugano | n=20 | xg=10
+Inter Club d Escaldes v Universitatea Craiova | n=20 | xg=10
