@@ -1,3 +1,4 @@
-# Scan 2026-10-22 16:42 (regular scan): Jordan fixtures
-Al Hussein v Doqarah | n=20 | xg=10
-Al Sareeh v Jerash | n=20 | xg=10
+# Scan 2026-10-22 17:26 (regular scan): new fixtures UAE, Bahrain, Malta
+Al Ahli v Al Ain | n=20 | xg=10
+Sitra v Al Riffa | n=20 | xg=10
+Birkirkara v Floriana | n=20 | xg=10
