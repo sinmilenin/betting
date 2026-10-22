@@ -1,4 +1,4 @@
 RUN 2026-10-22 12:29 local | 1 match(es)
-Al-Jazira v Ajman -> out/Al_Jazira_v_Ajman.txt
-    !! Al-Jazira: API-Football error: {"search": "The Search field may only contain alpha-numeric characters and spaces."}
-Requests used: API-Football 14, Matchbook 0
+Jazira v Ajman -> out/Jazira_v_Ajman.txt
+    !! Jazira: Ambiguous team name "Jazira".
+Requests used: API-Football 15, Matchbook 0
