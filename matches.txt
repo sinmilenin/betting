@@ -1,21 +1,11 @@
-# Top-20 run 2026-10-22 07:40 (Europa / Conference League)
-Kairat Almaty v Panathinaikos | n=20 | xg=10
-Lech Poznan v Sunderland | n=20 | xg=10
-Union St. Gilloise v Hapoel Beer Sheva | n=20 | xg=10
-Juventus v Rennes | n=20 | xg=10
-Dinamo Zagreb v NEC Nijmegen | n=20 | xg=10
-Crvena Zvezda v FC Copenhagen | n=20 | xg=10
-Sturm Graz v Marseille | n=20 | xg=10
-OFI v Bayer Leverkusen | n=20 | xg=10
-Trabzonspor v Hearts | n=20 | xg=10
-Lincoln Red Imps v Twente | n=20 | xg=10
-Celtic v Celta Vigo | n=20 | xg=10
-Bournemouth v AC Milan | n=20 | xg=10
-Hoffenheim v Lyon | n=20 | xg=10
-Celje v Red Bull Salzburg | n=20 | xg=10
-Ajax v Atalanta | n=20 | xg=10
-Omonia Nicosia v Benfica | n=20 | xg=10
-Olympiakos Piraeus v Sparta Praha | n=20 | xg=10
-Besiktas v Crystal Palace | n=20 | xg=10
-Lillestrom v Real Sociedad | n=20 | xg=10
-Braga v Gent | n=20 | xg=10
+# Top-20 run 2026-10-22 07:40, retry with ids (ambiguous names / rate limit)
+id:496 v Rennes | n=20 | xg=10
+id:598 v FC Copenhagen | n=20 | xg=10
+Trabzonspor v id:254 | n=20 | xg=10
+Lincoln Red Imps FC v Twente | n=20 | xg=10
+id:167 v Lyon | n=20 | xg=10
+Omonia Nicosia v id:211 | n=20 | xg=10
+id:549 v Crystal Palace | n=20 | xg=10
+id:1393 v Hapoel Beer Sheva | n=20 | xg=10
+Lillestrom v id:548 | n=20 | xg=10
+id:217 v id:631 | n=20 | xg=10
