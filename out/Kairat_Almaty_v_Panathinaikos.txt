@@ -1,0 +1,99 @@
+MATCH Kairat Almaty v Panathinaikos | fetched 2026-10-22 05:42 local
+
+FORM DATA Kairat Almaty v Panathinaikos | source API-Football | 2026-10-22 05:42 UTC
+H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
+
+=== Kairat Almaty (id 664): last 20 finished games ===
+2026-10-18 H 5-0 v Irtysh | Premier League | Almaty
+2026-10-15 A 1-1 v Riga | UEFA Europa Conference League | Riga | xG 1.15-2.31
+2026-10-10 H 1-0 v Zhetysu | Premier League | Almaty
+2026-09-17 A 0-1 v FC Astana | Premier League | Astana
+2026-09-13 H 1-4 v FK Tobol Kostanay | Premier League | Almaty
+2026-09-09 H 3-0 v Zhenys | Premier League | Almaty
+2026-09-05 A 3-0 v Kaspiy | Premier League | Aktau
+2026-08-31 A 2-0 v Yelimay Semey | Premier League | Semey
+2026-08-27 A 0-3 v Anderlecht | UEFA Europa League | Brussels
+2026-08-20 H 0-3 v Anderlecht | UEFA Europa League | Almaty
+2026-08-15 H 3-1 v Ulytau | Premier League | Almaty
+2026-08-11 H 0-1 v Levski Sofia | UEFA Champions League | Turkistan
+2026-08-04 A 0-1 v Levski Sofia | UEFA Champions League | Sofia
+2026-07-29 H 1-0 v Omonia Nicosia | UEFA Champions League | Almaty [PEN, 90-min score shown]
+2026-07-26 H 2-1 v Ordabasy | Premier League | Almaty
+2026-07-22 A 0-1 v Omonia Nicosia | UEFA Champions League | Nicosia
+2026-07-18 A 3-1 v Atyrau | Premier League | Turkestan
+2026-07-15 A 2-0 v Sutjeska | UEFA Champions League | Niksic
+2026-07-08 H 2-1 v Sutjeska | UEFA Champions League | Almaty
+2026-07-02 H 5-0 v Okzhetpes | Premier League | Almaty
+Listed home: 11 games, scored 23 (2.09), conceded 11 (1.00), blanks 2, clean sheets 5
+Listed away: 9 games, scored 11 (1.22), conceded 8 (0.89), blanks 4, clean sheets 3
+All: 20 games, scored 34 (1.70), conceded 19 (0.95), blanks 6, clean sheets 8
+
+=== Panathinaikos (id 617): last 20 finished games ===
+2026-10-18 H 5-1 v Asteras Tripolis | Super League 1 | Athens | xG 5.80-0.91
+2026-10-15 H 2-1 v Borac Banja Luka | UEFA Europa Conference League | Athens | xG 3.80-0.23
+2026-10-11 A 0-1 v Olympiakos Piraeus | Super League 1 | Piraeus | xG 0.47-0.73
+2026-09-20 A 1-0 v Kalamata | Super League 1 | Kalamata | xG 1.72-1.16
+2026-09-16 A 2-0 v Kifisia | Cup | Athens
+2026-09-13 H 3-0 v Panetolikos | Super League 1 | Athens
+2026-09-10 H 3-1 v Kifisia | Super League 1 | Athens
+2026-09-06 H 3-1 v PAOK | Super League 1 | Athens | xG 2.72-1.02
+2026-09-03 H 1-0 v Niki Volos | Cup | Athens
+2026-08-31 A 2-0 v Levadiakos | Super League 1 | Levadia | xG 1.09-0.96
+2026-08-27 A 1-1 v Hradec Králové | UEFA Europa Conference League | Hradec Kralove [AET, 90-min score shown]
+2026-08-20 H 2-2 v Hradec Králové | UEFA Europa Conference League | Athens
+2026-08-11 A 1-1 v CSKA 1948 | UEFA Europa Conference League | Sofia [AET, 90-min score shown]
+2026-08-05 H 1-1 v CSKA 1948 | UEFA Europa Conference League | Athens
+2026-07-30 H 2-2 v Paks | UEFA Europa Conference League | Athens
+2026-07-23 A 2-1 v Paks | UEFA Europa Conference League | Paks
+2026-07-15 A 1-4 v Rapid Vienna | Friendlies Clubs | ?
+2026-07-11 H 3-0 v Grasshoppers | Friendlies Clubs | ?
+2026-07-04 A 3-1 v Ajax | Friendlies Clubs | Ermelo
+2026-07-01 A 4-0 v Helmond Sport | Friendlies Clubs | ?
+Listed home: 10 games, scored 25 (2.50), conceded 9 (0.90), blanks 0, clean sheets 3
+Listed away: 10 games, scored 17 (1.70), conceded 9 (0.90), blanks 1, clean sheets 4
+All: 20 games, scored 42 (2.10), conceded 18 (0.90), blanks 1, clean sheets 7
+
+TABLE FOR Kairat Almaty
+LEAGUE TABLE Premier League 2026 | 16 teams | 222 games played
+League averages per game: home 1.47, away 1.07, total 2.54
+#   team                   Pts | home P GF-GA  | away P GF-GA  | all P GF-GA
+1   Ordabasy                64 | 14  28-8       | 13  27-12      | 27  55-20
+2   Kairat Almaty           63 | 15  36-10      | 12  21-9       | 27  57-19
+3   FC Astana               49 | 13  32-10      | 14  13-19      | 27  45-29
+4   Okzhetpes               48 | 13  23-10      | 15  19-27      | 28  42-37
+5   Aktobe                  45 | 14  23-13      | 14  19-22      | 28  42-35
+6   Yelimay Semey           44 | 14  19-19      | 14  21-19      | 28  40-38
+7   FK Tobol Kostanay       40 | 14  27-17      | 14  12-21      | 28  39-38
+8   Ulytau                  35 | 14  16-12      | 14  11-22      | 28  27-34
+9   Kaspiy                  33 | 14  20-21      | 14  11-18      | 28  31-39
+10  Zhenys                  32 | 14  17-12      | 14  12-26      | 28  29-38
+11  Kyzyl-Zhar              28 | 14  21-20      | 14   9-20      | 28  30-40
+12  Atyrau                  27 | 13  11-16      | 14  11-13      | 27  22-29
+13  Irtysh                  26 | 14  14-19      | 14  12-23      | 28  26-42
+14  Zhetysu                 25 | 13  11-15      | 15  17-31      | 28  28-46
+15  Altay                   24 | 14  14-17      | 14  13-24      | 28  27-41
+16  Kaisar                  24 | 15  14-19      | 13  10-20      | 28  24-39
+
+TABLE FOR Panathinaikos
+LEAGUE TABLE Super League 1 2026 | 14 teams | 48 games played
+League averages per game: home 1.65, away 1.04, total 2.69
+#   team                   Pts | home P GF-GA  | away P GF-GA  | all P GF-GA
+1   Panathinaikos           18 |  4  14-3       |  3   3-1       |  7  17-4
+2   Olympiakos Piraeus      16 |  3   2-1       |  4   5-1       |  7   7-2
+3   PAOK                    15 |  4   9-4       |  3   6-5       |  7  15-9
+4   AEK Athens FC           14 |  3  12-0       |  3   4-3       |  6  16-3
+5   Aris Thessalonikis      13 |  3   5-3       |  4   5-10      |  7  10-13
+6   Kalamata                10 |  4   9-8       |  3   4-4       |  7  13-12
+7   OFI                     10 |  3   6-2       |  4   5-9       |  7  11-11
+8   Iraklis 1908             9 |  2   3-1       |  5   4-7       |  7   7-8
+9   Panetolikos              9 |  4   6-6       |  3   2-5       |  7   8-11
+10  Kifisia                  8 |  4   4-3       |  3   3-6       |  7   7-9
+11  Asteras Tripolis         5 |  4   3-5       |  3   4-10      |  7   7-15
+12  Atromitos                2 |  3   3-5       |  3   2-4       |  6   5-9
+13  Levadiakos               2 |  4   0-5       |  3   0-6       |  7   0-11
+14  Volos NFC                0 |  3   3-4       |  4   3-8       |  7   6-12
+
+(26 API-Football requests used)
+
+----------------------------------------------------------------------
+MATCHBOOK: skipped (switched off for this run)

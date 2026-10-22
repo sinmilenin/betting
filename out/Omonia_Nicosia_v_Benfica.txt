@@ -1,0 +1,90 @@
+MATCH Omonia Nicosia v Benfica | fetched 2026-10-22 05:42 local
+
+FORM DATA Omonia Nicosia v Benfica | source API-Football | 2026-10-22 05:43 UTC
+H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
+
+=== Omonia Nicosia (id 3402): last 20 finished games ===
+2026-10-19 H 2-2 v Olympiakos | 1. Division | Nicosia
+2026-10-15 A 3-0 v Celje | UEFA Europa League | Celje | xG 2.12-0.97
+2026-10-09 A 3-0 v Karmiotissa | 1. Division | Paphos
+2026-09-20 H 4-1 v Krasava Ypsonas | 1. Division | Nicosia
+2026-09-16 H 1-0 v Celta Vigo | UEFA Europa League | Nicosia | xG 0.32-1.17
+2026-09-12 H 0-0 v Apollon Limassol | 1. Division | Nicosia
+2026-09-07 A 4-1 v Aris | 1. Division | Kolossi
+2026-09-03 H 0-1 v Pafos | Super Cup | Limassol
+2026-08-31 H 0-0 v Omonia Aradippou | 1. Division | Nicosia
+2026-08-27 H 4-2 v St. Truiden | UEFA Europa League | Nicosia
+2026-08-20 A 0-1 v St. Truiden | UEFA Europa League | Sint- Truiden
+2026-08-13 H 1-0 v Lincoln Red Imps FC | UEFA Europa League | Nicosia
+2026-08-06 A 1-1 v Lincoln Red Imps FC | UEFA Europa League | Gibraltar
+2026-07-29 A 0-1 v Kairat Almaty | UEFA Champions League | Almaty [PEN, 90-min score shown]
+2026-07-22 H 1-0 v Kairat Almaty | UEFA Champions League | Nicosia
+2026-07-16 H 2-1 v Panetolikos | Friendlies Clubs | ?
+2026-07-09 A 0-0 v Korona Kielce | Friendlies Clubs | ?
+2026-07-05 H 2-2 v Hapoel Beer Sheva | Friendlies Clubs | ?
+2026-07-01 H 2-1 v Dinamo Bucuresti | Friendlies Clubs | ?
+2026-05-22 H 5-2 v Apollon Limassol | 1. Division | Nicosia
+Listed home: 13 games, scored 24 (1.85), conceded 12 (0.92), blanks 3, clean sheets 5
+Listed away: 7 games, scored 11 (1.57), conceded 4 (0.57), blanks 3, clean sheets 3
+All: 20 games, scored 35 (1.75), conceded 16 (0.80), blanks 6, clean sheets 8
+
+"Benfica" matches several teams. Use id:<number> instead of the name:
+  id:211    Benfica (Portugal)
+  id:229    Benfica B (Portugal)
+  id:2031   RM Hamm Benfica (Luxembourg)
+  id:4731   Benfica Castelo Branco (Portugal)
+  id:4916   Benfica Lubango (Angola)
+  id:7888   Benfica U19 (Portugal)
+  id:11141  Casa Estrella de Benfica (Andorra)
+  id:11149  Benfica Luanda (Angola)
+  id:15460  Benfica U23 (Portugal)
+  id:15495  SL Benfica W (Portugal)
+  id:17378  Abrantes e Benfica (Portugal)
+  id:17379  Arronches e Benfica (Portugal)
+  id:21201  Benfica (Macao)
+  id:22415  Benfica U21 (Portugal)
+  id:22646  Sport London e Benfica (England)
+  id:24637  CF Benfica (Portugal)
+(retrying Benfica using the opponent's country, Cyprus)
+"Benfica" matches several teams. Use id:<number> instead of the name:
+  id:211    Benfica (Portugal)
+  id:229    Benfica B (Portugal)
+  id:2031   RM Hamm Benfica (Luxembourg)
+  id:4731   Benfica Castelo Branco (Portugal)
+  id:4916   Benfica Lubango (Angola)
+  id:7888   Benfica U19 (Portugal)
+  id:11141  Casa Estrella de Benfica (Andorra)
+  id:11149  Benfica Luanda (Angola)
+  id:15460  Benfica U23 (Portugal)
+  id:15495  SL Benfica W (Portugal)
+  id:17378  Abrantes e Benfica (Portugal)
+  id:17379  Arronches e Benfica (Portugal)
+  id:21201  Benfica (Macao)
+  id:22415  Benfica U21 (Portugal)
+  id:22646  Sport London e Benfica (England)
+  id:24637  CF Benfica (Portugal)
+!! Benfica: Ambiguous team name "Benfica".
+
+TABLE FOR Omonia Nicosia
+LEAGUE TABLE 1. Division 2026 | 14 teams | 42 games played
+League averages per game: home 1.48, away 1.45, total 2.93
+#   team                   Pts | home P GF-GA  | away P GF-GA  | all P GF-GA
+1   AEL                     15 |  3   6-2       |  3   4-6       |  6  10-8
+2   AEK Larnaca             13 |  3   4-2       |  3   7-3       |  6  11-5
+3   Omonia Nicosia          12 |  4   6-3       |  2   7-1       |  6  13-4
+4   Apollon Limassol        12 |  3   9-5       |  3   5-3       |  6  14-8
+5   Pafos                   11 |  3   0-2       |  3   7-1       |  6   7-3
+6   Aris                     9 |  4   4-7       |  2   3-1       |  6   7-8
+7   Apoel Nicosia            8 |  2   8-1       |  4   4-7       |  6  12-8
+8   Omonia 29is Maiou        8 |  3   4-4       |  3   7-5       |  6  11-9
+9   Omonia Aradippou         6 |  3   3-4       |  3   1-2       |  6   4-6
+10  Olympiakos               5 |  3   7-8       |  3   3-3       |  6  10-11
+11  Nea Salamis              4 |  2   4-4       |  4   7-11      |  6  11-15
+12  Krasava Ypsonas          3 |  4   3-8       |  2   2-6       |  6   5-14
+13  Anorthosis               3 |  2   3-4       |  4   1-9       |  6   4-13
+14  Karmiotissa              3 |  3   1-7       |  3   3-4       |  6   4-11
+
+(15 API-Football requests used)
+
+----------------------------------------------------------------------
+MATCHBOOK: skipped (switched off for this run)

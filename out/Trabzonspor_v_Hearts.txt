@@ -1,0 +1,80 @@
+MATCH Trabzonspor v Hearts | fetched 2026-10-22 05:42 local
+
+FORM DATA Trabzonspor v Hearts | source API-Football | 2026-10-22 05:43 UTC
+H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
+
+=== Trabzonspor (id 998): last 20 finished games ===
+2026-10-19 H 2-0 v Beşiktaş | Süper Lig | Trabzon | xG 2.41-1.32
+2026-10-15 A 4-2 v KuPS | UEFA Europa Conference League | Tampere | xG 3.61-2.07
+2026-10-10 A 3-0 v Samsunspor | Süper Lig | Samsun | xG 2.02-1.66
+2026-10-01 H 0-1 v Drogheda United | Friendlies Clubs | Trabzon
+2026-09-19 H 4-0 v Galatasaray | Süper Lig | Trabzon | xG 2.20-0.96
+2026-09-12 A 0-1 v Konyaspor | Süper Lig | Konya | xG 0.83-1.01
+2026-09-06 H 5-0 v Gençlerbirliği S.K. | Süper Lig | Trabzon | xG 3.21-0.86
+2026-08-31 A 1-2 v Amed | Süper Lig | Diyarbakır | xG 0.93-2.69
+2026-08-27 A 0-4 v Ferencvarosi TC | UEFA Europa League | Budapest
+2026-08-23 H 2-1 v Başakşehir | Süper Lig | Trabzon | xG 2.27-1.95
+2026-08-20 H 0-1 v Ferencvarosi TC | UEFA Europa League | Trabzon
+2026-08-15 A 1-1 v Kasımpaşa | Süper Lig | Istanbul
+2026-08-08 A 1-2 v Göztepe | Friendlies Clubs | ?
+2026-08-02 H 1-0 v Udinese | Friendlies Clubs | Landskrona
+2026-07-30 H 0-1 v Al Sadd | Friendlies Clubs | Anif
+2026-07-26 H 0-3 v Eintracht Frankfurt | Friendlies Clubs | Salzburg
+2026-05-22 H 2-1 v Konyaspor | Türkiye Kupası | Antalya
+2026-05-17 H 0-3 v Gençlerbirliği S.K. | Süper Lig | Trabzon
+2026-05-13 A 2-1 v Gençlerbirliği S.K. | Türkiye Kupası | Ankara
+2026-05-09 A 2-1 v Beşiktaş | Süper Lig | Istanbul
+Listed home: 11 games, scored 16 (1.45), conceded 11 (1.00), blanks 5, clean sheets 4
+Listed away: 9 games, scored 14 (1.56), conceded 14 (1.56), blanks 2, clean sheets 1
+All: 20 games, scored 30 (1.50), conceded 25 (1.25), blanks 7, clean sheets 5
+
+"Hearts" matches several teams. Use id:<number> instead of the name:
+  id:6771   Hearts U21 (Scotland)
+  id:6773   Kelty Hearts (Scotland)
+  id:12249  Hearts of Oak (Ghana)
+  id:13973  Darwin Hearts (Australia)
+  id:19799  Tower Hearts (Scotland)
+  id:22023  Cupar Hearts (Scotland)
+  id:23295  Hearts W (Scotland)
+  id:24273  Northern Hearts (New-Zealand)
+  id:25486  Portland Hearts of Pine (USA)
+(retrying Hearts using the opponent's country, Turkey)
+"Hearts" matches several teams. Use id:<number> instead of the name:
+  id:6771   Hearts U21 (Scotland)
+  id:6773   Kelty Hearts (Scotland)
+  id:12249  Hearts of Oak (Ghana)
+  id:13973  Darwin Hearts (Australia)
+  id:19799  Tower Hearts (Scotland)
+  id:22023  Cupar Hearts (Scotland)
+  id:23295  Hearts W (Scotland)
+  id:24273  Northern Hearts (New-Zealand)
+  id:25486  Portland Hearts of Pine (USA)
+!! Hearts: Ambiguous team name "Hearts".
+
+TABLE FOR Trabzonspor
+LEAGUE TABLE Süper Lig 2026 | 18 teams | 72 games played
+League averages per game: home 1.68, away 1.21, total 2.89
+#   team                   Pts | home P GF-GA  | away P GF-GA  | all P GF-GA
+1   Galatasaray             19 |  4   9-5       |  4   8-6       |  8  17-11
+2   Amed                    17 |  5  14-3       |  3   4-6       |  8  18-9
+3   Fenerbahçe              16 |  4  16-4       |  4   6-2       |  8  22-6
+4   Trabzonspor             16 |  4  13-1       |  4   5-4       |  8  18-5
+5   Beşiktaş                15 |  4  12-3       |  4   4-7       |  8  16-10
+6   Çorum FK                13 |  4   6-4       |  4  12-9       |  8  18-13
+7   Kasımpaşa               13 |  4   7-4       |  4   5-5       |  8  12-9
+8   Kocaelispor             12 |  4   6-2       |  4   3-6       |  8   9-8
+9   Alanyaspor              12 |  3   3-2       |  5   5-7       |  8   8-9
+10  Başakşehir              11 |  5  11-5       |  3   1-7       |  8  12-12
+11  Erzurumspor FK          11 |  4   4-4       |  4   1-7       |  8   5-11
+12  Rizespor                10 |  3   0-6       |  5   8-5       |  8   8-11
+13  Göztepe                  9 |  3   4-7       |  5  13-9       |  8  17-16
+14  Gaziantep FK             8 |  4   2-6       |  4   6-6       |  8   8-12
+15  Gençlerbirliği S.K.      8 |  5   6-7       |  3   1-9       |  8   7-16
+16  Konyaspor                5 |  4   2-3       |  4   2-6       |  8   4-9
+17  Samsunspor               4 |  4   4-13      |  4   3-6       |  8   7-19
+18  Eyüpspor                 3 |  4   2-8       |  4   0-14      |  8   2-22
+
+(15 API-Football requests used)
+
+----------------------------------------------------------------------
+MATCHBOOK: skipped (switched off for this run)

@@ -1,0 +1,99 @@
+MATCH Sturm Graz v Marseille | fetched 2026-10-22 05:42 local
+
+FORM DATA Sturm Graz v Marseille | source API-Football | 2026-10-22 05:43 UTC
+H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
+
+=== Sturm Graz (id 637): last 20 finished games ===
+2026-10-18 H 6-1 v Grazer AK | Bundesliga | Graz | xG 3.58-0.64
+2026-10-15 A 0-3 v Bournemouth | UEFA Europa League | Bournemouth | xG 0.37-2.88
+2026-10-10 A 2-0 v Austria Vienna | Bundesliga | Vienna | xG 2.67-2.31
+2026-10-02 H 3-1 v Floridsdorfer AC | Friendlies Clubs | ?
+2026-09-20 A 0-3 v Red Bull Salzburg | Bundesliga | Salzburg | xG 0.49-1.61
+2026-09-16 H 0-0 v Rennes | UEFA Europa League | Graz
+2026-09-13 H 2-1 v Lask Linz | Bundesliga | Graz | xG 3.51-1.90
+2026-09-05 A 4-1 v Voitsberg | Cup | Voitsberg
+2026-08-30 A 1-3 v Rapid Vienna | Bundesliga | Vienna | xG 0.76-2.37
+2026-08-22 H 1-1 v Austria Lustenau | Bundesliga | Graz | xG 2.07-0.91
+2026-08-15 H 1-0 v SCR Altach | Bundesliga | Graz
+2026-08-11 H 0-1 v Fenerbahçe | UEFA Champions League | Graz
+2026-08-08 A 2-0 v TSV Hartberg | Bundesliga | Hartberg
+2026-08-05 A 0-2 v Fenerbahçe | UEFA Champions League | Istanbul
+2026-08-01 A 1-1 v WSG Wattens | Bundesliga | Innsbruck
+2026-07-28 A 2-0 v Heart Of Midlothian | UEFA Champions League | Edinburgh
+2026-07-24 A 3-0 v Seekirchen | Cup | Seekirchen
+2026-07-21 H 4-0 v Heart Of Midlothian | UEFA Champions League | Graz
+2026-07-15 H 1-0 v Pogon Szczecin | Friendlies Clubs | ?
+2026-07-11 H 5-1 v Sanfrecce Hiroshima | Friendlies Clubs | ?
+Listed home: 10 games, scored 23 (2.30), conceded 6 (0.60), blanks 2, clean sheets 4
+Listed away: 10 games, scored 15 (1.50), conceded 13 (1.30), blanks 3, clean sheets 4
+All: 20 games, scored 38 (1.90), conceded 19 (0.95), blanks 5, clean sheets 8
+
+=== Marseille (id 81): last 20 finished games ===
+2026-10-18 A 5-2 v Angers | Ligue 1 | Angers | xG 2.71-2.21
+2026-10-15 H 0-1 v Olympiakos Piraeus | UEFA Europa League | Marseille | xG 0.90-0.63
+2026-10-11 A 2-0 v Estac Troyes | Ligue 1 | Troyes | xG 1.30-1.06
+2026-09-20 H 1-2 v Paris Saint Germain | Ligue 1 | Marseille | xG 1.80-4.33
+2026-09-17 A 1-4 v Beşiktaş | UEFA Europa League | Istanbul
+2026-09-11 A 0-1 v Rennes | Ligue 1 | Rennes | xG 1.34-1.88
+2026-09-06 H 2-3 v Paris FC | Ligue 1 | Marseille | xG 1.42-3.29
+2026-08-30 A 0-2 v Monaco | Ligue 1 | Monaco | xG 1.40-1.72
+2026-08-21 H 4-0 v Strasbourg | Ligue 1 | Marseille | xG 1.86-0.18
+2026-08-14 H 1-2 v Atletico Madrid | Friendlies Clubs | ?
+2026-08-09 H 3-1 v Athletic Club | Friendlies Clubs | ?
+2026-07-30 H 2-1 v Nimes | Friendlies Clubs | ?
+2026-07-25 H 0-3 v Nice | Friendlies Clubs | ?
+2026-05-17 H 3-1 v Rennes | Ligue 1 | Marseille
+2026-05-10 A 1-0 v Le Havre | Ligue 1 | Le Havre
+2026-05-02 A 0-3 v Nantes | Ligue 1 | Nantes
+2026-04-26 H 1-1 v Nice | Ligue 1 | Marseille
+2026-04-18 A 0-2 v Lorient | Ligue 1 | Lorient
+2026-04-10 H 3-1 v Metz | Ligue 1 | Marseille
+2026-04-05 A 1-2 v Monaco | Ligue 1 | Monaco
+Listed home: 11 games, scored 20 (1.82), conceded 16 (1.45), blanks 2, clean sheets 1
+Listed away: 9 games, scored 10 (1.11), conceded 16 (1.78), blanks 4, clean sheets 2
+All: 20 games, scored 30 (1.50), conceded 32 (1.60), blanks 6, clean sheets 3
+
+TABLE FOR Sturm Graz
+LEAGUE TABLE Bundesliga 2026 | 12 teams | 54 games played
+League averages per game: home 1.89, away 1.28, total 3.17
+#   team                   Pts | home P GF-GA  | away P GF-GA  | all P GF-GA
+1   Rapid Vienna            24 |  5  18-2       |  4   8-6       |  9  26-8
+2   Red Bull Salzburg       21 |  5  16-2       |  4   5-2       |  9  21-4
+3   Lask Linz               19 |  4  10-3       |  5  13-6       |  9  23-9
+4   Sturm Graz              17 |  4  10-3       |  5   6-7       |  9  16-10
+5   Ried                    14 |  5  10-6       |  4   6-9       |  9  16-15
+6   WSG Wattens             11 |  4   4-8       |  5   8-6       |  9  12-14
+7   TSV Hartberg            11 |  5  10-12      |  4   5-7       |  9  15-19
+8   Grazer AK                9 |  4   4-3       |  5   3-19      |  9   7-22
+9   Austria Lustenau         8 |  5   5-10      |  4   6-9       |  9  11-19
+10  Austria Vienna           7 |  4   2-6       |  5   7-12      |  9   9-18
+11  SCR Altach               6 |  4   8-5       |  5   0-10      |  9   8-15
+12  Wolfsberger AC           5 |  5   5-9       |  4   2-9       |  9   7-18
+
+TABLE FOR Marseille
+LEAGUE TABLE Ligue 1 2026 | 18 teams | 63 games played
+League averages per game: home 1.63, away 1.41, total 3.05
+#   team                   Pts | home P GF-GA  | away P GF-GA  | all P GF-GA
+1   Lyon                    14 |  4  10-3       |  3   3-2       |  7  13-5
+2   Paris Saint Germain     14 |  2   4-3       |  5  10-6       |  7  14-9
+3   Paris FC                14 |  4   9-4       |  3   3-3       |  7  12-7
+4   Lille                   14 |  4   6-3       |  3   4-2       |  7  10-5
+5   Monaco                  14 |  3   6-3       |  4   4-3       |  7  10-6
+6   Rennes                  13 |  4  10-5       |  3   5-9       |  7  15-14
+7   Lorient                 11 |  4   5-4       |  3   2-2       |  7   7-6
+8   Lens                    10 |  3   7-4       |  4   7-7       |  7  14-11
+9   Marseille                9 |  3   7-5       |  4   7-5       |  7  14-10
+10  Stade Brestois 29        9 |  3   7-4       |  4   6-6       |  7  13-10
+11  Toulouse                 9 |  3   3-5       |  4   9-6       |  7  12-11
+12  Auxerre                  9 |  3   4-4       |  4   7-13      |  7  11-17
+13  Nice                     8 |  4   5-3       |  3   1-6       |  7   6-9
+14  Strasbourg               7 |  3   4-5       |  4   8-10      |  7  12-15
+15  Angers                   7 |  4   5-9       |  3   4-6       |  7   9-15
+16  Le Mans                  6 |  4   6-8       |  3   4-7       |  7  10-15
+17  Estac Troyes             4 |  4   3-11      |  3   2-5       |  7   5-16
+18  Le Havre                 2 |  4   2-6       |  3   3-5       |  7   5-11
+
+(25 API-Football requests used)
+
+----------------------------------------------------------------------
+MATCHBOOK: skipped (switched off for this run)
