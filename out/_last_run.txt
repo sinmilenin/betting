@@ -1,33 +1,12 @@
-RUN 2026-10-22 05:42 local | 20 match(es)
-Kairat Almaty v Panathinaikos -> out/Kairat_Almaty_v_Panathinaikos.txt
-Lech Poznan v Sunderland -> out/Lech_Poznan_v_Sunderland.txt
-Union St. Gilloise v Hapoel Beer Sheva -> out/Union_St_Gilloise_v_Hapoel_Beer_Sheva.txt
-    !! Union St. Gilloise: API-Football error: {"search": "The Search field may only contain alpha-numeric characters and spaces."}
-Juventus v Rennes -> out/Juventus_v_Rennes.txt
-    !! Juventus: Ambiguous team name "Juventus".
-Dinamo Zagreb v NEC Nijmegen -> out/Dinamo_Zagreb_v_NEC_Nijmegen.txt
-Crvena Zvezda v FC Copenhagen -> out/Crvena_Zvezda_v_FC_Copenhagen.txt
-    !! Crvena Zvezda: Ambiguous team name "Crvena Zvezda".
-Sturm Graz v Marseille -> out/Sturm_Graz_v_Marseille.txt
-OFI v Bayer Leverkusen -> out/OFI_v_Bayer_Leverkusen.txt
-Trabzonspor v Hearts -> out/Trabzonspor_v_Hearts.txt
-    !! Hearts: Ambiguous team name "Hearts".
-Lincoln Red Imps v Twente -> out/Lincoln_Red_Imps_v_Twente.txt
-    !! Lincoln Red Imps: Ambiguous team name "Lincoln Red Imps".
-Celtic v Celta Vigo -> out/Celtic_v_Celta_Vigo.txt
-Bournemouth v AC Milan -> out/Bournemouth_v_AC_Milan.txt
-Hoffenheim v Lyon -> out/Hoffenheim_v_Lyon.txt
-    !! Hoffenheim: Ambiguous team name "Hoffenheim".
-Celje v Red Bull Salzburg -> out/Celje_v_Red_Bull_Salzburg.txt
-Ajax v Atalanta -> out/Ajax_v_Atalanta.txt
-Omonia Nicosia v Benfica -> out/Omonia_Nicosia_v_Benfica.txt
-    !! Benfica: Ambiguous team name "Benfica".
-Olympiakos Piraeus v Sparta Praha -> out/Olympiakos_Piraeus_v_Sparta_Praha.txt
-Besiktas v Crystal Palace -> out/Besiktas_v_Crystal_Palace.txt
-    !! Besiktas: Ambiguous team name "Besiktas".
-Lillestrom v Real Sociedad -> out/Lillestrom_v_Real_Sociedad.txt
-    !! Real Sociedad: API-Football error: HTTP 429 from API-Football
-Braga v Gent -> out/Braga_v_Gent.txt
-    !! Braga: API-Football error: HTTP 429 from API-Football
-    !! Gent: API-Football error: HTTP 429 from API-Football
-Requests used: API-Football 373, Matchbook 0
+RUN 2026-10-22 05:45 local | 10 match(es)
+id:496 v Rennes -> out/id_496_v_Rennes.txt
+id:598 v FC Copenhagen -> out/id_598_v_FC_Copenhagen.txt
+Trabzonspor v id:254 -> out/Trabzonspor_v_id_254.txt
+Lincoln Red Imps FC v Twente -> out/Lincoln_Red_Imps_FC_v_Twente.txt
+id:167 v Lyon -> out/id_167_v_Lyon.txt
+Omonia Nicosia v id:211 -> out/Omonia_Nicosia_v_id_211.txt
+id:549 v Crystal Palace -> out/id_549_v_Crystal_Palace.txt
+id:1393 v Hapoel Beer Sheva -> out/id_1393_v_Hapoel_Beer_Sheva.txt
+Lillestrom v id:548 -> out/Lillestrom_v_id_548.txt
+id:217 v id:631 -> out/id_217_v_id_631.txt
+Requests used: API-Football 258, Matchbook 0

@@ -1,6 +1,6 @@
-MATCH Trabzonspor v Hearts | fetched 2026-10-22 05:42 local
+MATCH Trabzonspor v id:254 | fetched 2026-10-22 05:45 local
 
-FORM DATA Trabzonspor v Hearts | source API-Football | 2026-10-22 05:43 UTC
+FORM DATA Trabzonspor v id:254 | source API-Football | 2026-10-22 05:45 UTC
 H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
 
 === Trabzonspor (id 998): last 20 finished games ===
@@ -28,28 +28,30 @@ Listed home: 11 games, scored 16 (1.45), conceded 11 (1.00), blanks 5, clean she
 Listed away: 9 games, scored 14 (1.56), conceded 14 (1.56), blanks 2, clean sheets 1
 All: 20 games, scored 30 (1.50), conceded 25 (1.25), blanks 7, clean sheets 5
 
-"Hearts" matches several teams. Use id:<number> instead of the name:
-  id:6771   Hearts U21 (Scotland)
-  id:6773   Kelty Hearts (Scotland)
-  id:12249  Hearts of Oak (Ghana)
-  id:13973  Darwin Hearts (Australia)
-  id:19799  Tower Hearts (Scotland)
-  id:22023  Cupar Hearts (Scotland)
-  id:23295  Hearts W (Scotland)
-  id:24273  Northern Hearts (New-Zealand)
-  id:25486  Portland Hearts of Pine (USA)
-(retrying Hearts using the opponent's country, Turkey)
-"Hearts" matches several teams. Use id:<number> instead of the name:
-  id:6771   Hearts U21 (Scotland)
-  id:6773   Kelty Hearts (Scotland)
-  id:12249  Hearts of Oak (Ghana)
-  id:13973  Darwin Hearts (Australia)
-  id:19799  Tower Hearts (Scotland)
-  id:22023  Cupar Hearts (Scotland)
-  id:23295  Hearts W (Scotland)
-  id:24273  Northern Hearts (New-Zealand)
-  id:25486  Portland Hearts of Pine (USA)
-!! Hearts: Ambiguous team name "Hearts".
+=== Heart Of Midlothian (id 254): last 20 finished games ===
+2026-10-18 A 1-7 v Celtic | Premiership | Glasgow | xG 1.20-4.16
+2026-10-15 H 1-1 v FC Nordsjaelland | UEFA Europa Conference League | Edinburgh | xG 1.81-0.64
+2026-10-10 H 5-0 v ST Mirren | Premiership | Edinburgh | xG 3.90-0.90
+2026-09-19 A 1-1 v Kilmarnock | Premiership | Kilmarnock | xG 1.78-0.23
+2026-09-15 A 1-2 v Falkirk | Premiership | Falkirk | xG 1.72-2.05
+2026-09-11 A 3-0 v Stenhousemuir | League Cup | Stenhousemuir
+2026-09-06 H 2-1 v Dundee | Premiership | Edinburgh | xG 1.87-0.51
+2026-09-03 A 3-1 v Hibernian | Premiership | Edinburgh | xG 0.82-1.70
+2026-08-29 H 2-1 v ST Johnstone | Premiership | Edinburgh | xG 1.71-1.16
+2026-08-26 A 1-1 v Rapid Vienna | UEFA Europa Conference League | Vienna [PEN, 90-min score shown]
+2026-08-20 H 2-2 v Rapid Vienna | UEFA Europa Conference League | Edinburgh
+2026-08-16 H 6-2 v Inverness CT | League Cup | Edinburgh
+2026-08-13 H 1-1 v Benfica | UEFA Europa League | Edinburgh
+2026-08-09 H 4-0 v Dundee Utd | Premiership | Edinburgh
+2026-08-06 A 1-6 v Benfica | UEFA Europa League | Lisbon
+2026-08-01 A 1-2 v Aberdeen | Premiership | Aberdeen
+2026-07-28 H 0-2 v Sturm Graz | UEFA Champions League | Edinburgh
+2026-07-24 A 1-0 v Raith Rovers | Friendlies Clubs | ?
+2026-07-21 A 0-4 v Sturm Graz | UEFA Champions League | Graz
+2026-07-17 H 2-1 v Rayo Vallecano | Friendlies Clubs | ?
+Listed home: 10 games, scored 25 (2.50), conceded 11 (1.10), blanks 1, clean sheets 2
+Listed away: 10 games, scored 13 (1.30), conceded 24 (2.40), blanks 1, clean sheets 2
+All: 20 games, scored 38 (1.90), conceded 35 (1.75), blanks 2, clean sheets 4
 
 TABLE FOR Trabzonspor
 LEAGUE TABLE Süper Lig 2026 | 18 teams | 72 games played
@@ -74,7 +76,24 @@ League averages per game: home 1.68, away 1.21, total 2.89
 17  Samsunspor               4 |  4   4-13      |  4   3-6       |  8   7-19
 18  Eyüpspor                 3 |  4   2-8       |  4   0-14      |  8   2-22
 
-(15 API-Football requests used)
+TABLE FOR Heart Of Midlothian
+LEAGUE TABLE Premiership 2026 | 12 teams | 54 games played
+League averages per game: home 1.43, away 1.33, total 2.76
+#   team                   Pts | home P GF-GA  | away P GF-GA  | all P GF-GA
+1   Celtic                  24 |  5  13-3       |  4  10-2       |  9  23-5
+2   Rangers                 20 |  4   6-3       |  5   7-4       |  9  13-7
+3   Heart Of Midlothian     16 |  4  13-2       |  5   7-13      |  9  20-15
+4   Dundee                  14 |  5   8-6       |  4   5-4       |  9  13-10
+5   ST Johnstone            12 |  5   8-7       |  4   3-4       |  9  11-11
+6   Dundee Utd              12 |  4   3-4       |  5   8-8       |  9  11-12
+7   Aberdeen                11 |  5   5-4       |  4   5-6       |  9  10-10
+8   ST Mirren               10 |  4   5-8       |  5   4-9       |  9   9-17
+9   Falkirk                  9 |  4   4-7       |  5   5-5       |  9   9-12
+10  Motherwell               8 |  4   3-6       |  5   8-10      |  9  11-16
+11  Kilmarnock               8 |  5   5-13      |  4   5-7       |  9  10-20
+12  Hibernian                7 |  5   4-9       |  4   5-5       |  9   9-14
+
+(26 API-Football requests used)
 
 ----------------------------------------------------------------------
 MATCHBOOK: skipped (switched off for this run)

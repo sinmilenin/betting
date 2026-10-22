@@ -1,12 +1,33 @@
-MATCH Besiktas v Crystal Palace | fetched 2026-10-22 05:42 local
+MATCH id:549 v Crystal Palace | fetched 2026-10-22 05:45 local
 
-FORM DATA Besiktas v Crystal Palace | source API-Football | 2026-10-22 05:43 UTC
+FORM DATA id:549 v Crystal Palace | source API-Football | 2026-10-22 05:46 UTC
 H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
 
-"Besiktas" matches several teams. Use id:<number> instead of the name:
-  id:549    Beşiktaş (Turkey)
-  id:7973   Beşiktaş U19 (Turkey)
-  id:10912  Beşiktaş W (Turkey)
+=== Beşiktaş (id 549): last 20 finished games ===
+2026-10-19 A 0-2 v Trabzonspor | Süper Lig | Trabzon | xG 1.32-2.41
+2026-10-15 A 3-2 v 1899 Hoffenheim | UEFA Europa League | Sinsheim | xG 3.39-1.23
+2026-10-11 H 2-1 v Kocaelispor | Süper Lig | Istanbul | xG 2.21-1.65
+2026-09-20 A 2-3 v Amed | Süper Lig | Diyarbakır | xG 2.04-1.54
+2026-09-17 H 4-1 v Marseille | UEFA Europa League | Istanbul
+2026-09-11 H 3-0 v Erzurumspor FK | Süper Lig | Istanbul | xG 2.29-0.50
+2026-09-05 A 2-1 v Fenerbahçe | Süper Lig | Istanbul | xG 1.75-0.59
+2026-08-31 H 6-2 v Çorum FK | Süper Lig | Istanbul | xG 2.97-0.67
+2026-08-27 A 0-1 v Kauno Žalgiris | UEFA Europa League | Kaunas
+2026-08-23 A 0-1 v Alanyaspor | Süper Lig | Alanya | xG 0.74-0.54
+2026-08-20 H 3-0 v Kauno Žalgiris | UEFA Europa League | Istanbul
+2026-08-16 H 1-0 v Eyüpspor | Süper Lig | Istanbul
+2026-08-13 H 1-0 v Hradec Králové | UEFA Europa League | Istanbul
+2026-08-06 A 1-0 v Hradec Králové | UEFA Europa League | Hradec Kralove
+2026-07-30 A 2-0 v FC Midtjylland | UEFA Europa League | Herning
+2026-07-23 H 1-0 v FC Midtjylland | UEFA Europa League | Istanbul
+2026-07-14 A 2-3 v Spartak Trnava | Friendlies Clubs | Trnava
+2026-07-14 A 1-1 v Malženice | Friendlies Clubs | Samorin
+2026-07-10 A 0-2 v Widzew Łódź | Friendlies Clubs | ?
+2026-07-05 A 0-0 v MTE 1904 | Friendlies Clubs | ?
+Listed home: 8 games, scored 21 (2.62), conceded 4 (0.50), blanks 0, clean sheets 5
+Listed away: 12 games, scored 13 (1.08), conceded 16 (1.33), blanks 5, clean sheets 3
+All: 20 games, scored 34 (1.70), conceded 20 (1.00), blanks 5, clean sheets 8
+
 === Crystal Palace (id 52): last 20 finished games ===
 2026-10-18 A 0-5 v Brighton | Premier League | Falmer | xG 0.77-2.00
 2026-10-15 A 2-3 v Lyon | UEFA Europa League | Lyon | xG 1.55-2.05
@@ -32,12 +53,28 @@ Listed home: 11 games, scored 23 (2.09), conceded 17 (1.55), blanks 2, clean she
 Listed away: 9 games, scored 7 (0.78), conceded 19 (2.11), blanks 6, clean sheets 2
 All: 20 games, scored 30 (1.50), conceded 36 (1.80), blanks 8, clean sheets 5
 
-(retrying Besiktas using the opponent's country, England)
-"Besiktas" matches several teams. Use id:<number> instead of the name:
-  id:549    Beşiktaş (Turkey)
-  id:7973   Beşiktaş U19 (Turkey)
-  id:10912  Beşiktaş W (Turkey)
-!! Besiktas: Ambiguous team name "Besiktas".
+TABLE FOR Beşiktaş
+LEAGUE TABLE Süper Lig 2026 | 18 teams | 72 games played
+League averages per game: home 1.68, away 1.21, total 2.89
+#   team                   Pts | home P GF-GA  | away P GF-GA  | all P GF-GA
+1   Galatasaray             19 |  4   9-5       |  4   8-6       |  8  17-11
+2   Amed                    17 |  5  14-3       |  3   4-6       |  8  18-9
+3   Fenerbahçe              16 |  4  16-4       |  4   6-2       |  8  22-6
+4   Trabzonspor             16 |  4  13-1       |  4   5-4       |  8  18-5
+5   Beşiktaş                15 |  4  12-3       |  4   4-7       |  8  16-10
+6   Çorum FK                13 |  4   6-4       |  4  12-9       |  8  18-13
+7   Kasımpaşa               13 |  4   7-4       |  4   5-5       |  8  12-9
+8   Kocaelispor             12 |  4   6-2       |  4   3-6       |  8   9-8
+9   Alanyaspor              12 |  3   3-2       |  5   5-7       |  8   8-9
+10  Başakşehir              11 |  5  11-5       |  3   1-7       |  8  12-12
+11  Erzurumspor FK          11 |  4   4-4       |  4   1-7       |  8   5-11
+12  Rizespor                10 |  3   0-6       |  5   8-5       |  8   8-11
+13  Göztepe                  9 |  3   4-7       |  5  13-9       |  8  17-16
+14  Gaziantep FK             8 |  4   2-6       |  4   6-6       |  8   8-12
+15  Gençlerbirliği S.K.      8 |  5   6-7       |  3   1-9       |  8   7-16
+16  Konyaspor                5 |  4   2-3       |  4   2-6       |  8   4-9
+17  Samsunspor               4 |  4   4-13      |  4   3-6       |  8   7-19
+18  Eyüpspor                 3 |  4   2-8       |  4   0-14      |  8   2-22
 
 TABLE FOR Crystal Palace
 LEAGUE TABLE Premier League 2026 | 20 teams | 70 games played
@@ -64,7 +101,7 @@ League averages per game: home 1.61, away 1.29, total 2.90
 19  Nottingham Forest        5 |  4   0-3       |  3   5-6       |  7   5-9
 20  Sunderland               4 |  3   1-4       |  4   5-10      |  7   6-14
 
-(14 API-Football requests used)
+(25 API-Football requests used)
 
 ----------------------------------------------------------------------
 MATCHBOOK: skipped (switched off for this run)
