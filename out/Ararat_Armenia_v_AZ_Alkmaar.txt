@@ -1,6 +1,6 @@
-MATCH Ararat-Armenia v AZ Alkmaar | fetched 2026-10-22 11:46 local
+MATCH Ararat Armenia v AZ Alkmaar | fetched 2026-10-22 11:47 local
 
-FORM DATA Ararat-Armenia v AZ Alkmaar | source API-Football | 2026-10-22 11:46 UTC
+FORM DATA Ararat Armenia v AZ Alkmaar | source API-Football | 2026-10-22 11:47 UTC
 H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
 
 === AZ Alkmaar (id 201): last 20 finished games ===
@@ -28,7 +28,7 @@ Listed home: 11 games, scored 26 (2.36), conceded 14 (1.27), blanks 1, clean she
 Listed away: 9 games, scored 17 (1.89), conceded 10 (1.11), blanks 2, clean sheets 2
 All: 20 games, scored 43 (2.15), conceded 24 (1.20), blanks 3, clean sheets 5
 
-!! Ararat-Armenia: API-Football error: {"search": "The Search field may only contain alpha-numeric characters and spaces."}
+!! Ararat Armenia: No team found for "Ararat Armenia".
 
 TABLE FOR AZ Alkmaar
 LEAGUE TABLE Eredivisie 2026 | 18 teams | 81 games played

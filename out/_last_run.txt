@@ -1,4 +1,4 @@
-RUN 2026-10-22 11:46 local | 1 match(es)
-Ararat-Armenia v AZ Alkmaar -> out/Ararat_Armenia_v_AZ_Alkmaar.txt
-    !! Ararat-Armenia: API-Football error: {"search": "The Search field may only contain alpha-numeric characters and spaces."}
+RUN 2026-10-22 11:47 local | 1 match(es)
+Ararat Armenia v AZ Alkmaar -> out/Ararat_Armenia_v_AZ_Alkmaar.txt
+    !! Ararat Armenia: No team found for "Ararat Armenia".
 Requests used: API-Football 14, Matchbook 0
