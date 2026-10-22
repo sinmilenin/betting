@@ -1,4 +1,3 @@
-RUN 2026-10-22 11:47 local | 1 match(es)
-Ararat v AZ Alkmaar -> out/Ararat_v_AZ_Alkmaar.txt
-    !! Ararat: Ambiguous team name "Ararat".
-Requests used: API-Football 15, Matchbook 0
+RUN 2026-10-22 11:48 local | 1 match(es)
+id:3683 v AZ Alkmaar -> out/id_3683_v_AZ_Alkmaar.txt
+Requests used: API-Football 26, Matchbook 0
