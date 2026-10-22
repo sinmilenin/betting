@@ -1,9 +1,4 @@
-# Scan 2026-10-22 18:13 (regular scan): first analyses for 21:00 European fixtures + Inter Escaldes retry
-Monaco v Freiburg | n=20 | xg=10
-Midtjylland v Sint Truiden | n=20 | xg=10
-Thun v Hajduk Split | n=20 | xg=10
-AGF v Egnatia | n=20 | xg=10
-Borac Banja Luka v KuPS | n=20 | xg=10
-Plzen v Levski Sofia | n=20 | xg=10
-Jagiellonia v Anderlecht | n=20 | xg=10
-Inter d Escaldes v Universitatea Craiova | n=20 | xg=10
+# Scan 2026-10-22 18:13 (regular scan), run 2: ambiguous names by id
+Monaco v id:160 | n=20 | xg=10
+id:397 v id:735 | n=20 | xg=10
+FC Thun v id:561 | n=20 | xg=10
