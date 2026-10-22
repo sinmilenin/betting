@@ -1,6 +1,4 @@
-RUN 2026-10-22 14:02 local | 3 match(es)
-Fateh v id:2940 -> out/Fateh_v_id_2940.txt
-Getafe v FC Lugano -> out/Getafe_v_FC_Lugano.txt
-Inter Club d Escaldes v Universitatea Craiova -> out/Inter_Club_d_Escaldes_v_Universitatea_Cr.txt
-    !! Inter Club d Escaldes: No team found for "Inter Club d Escaldes".
-Requests used: API-Football 66, Matchbook 0
+RUN 2026-10-22 14:43 local | 2 match(es)
+Al Hussein v Doqarah -> out/Al_Hussein_v_Doqarah.txt
+Al Sareeh v Jerash -> out/Al_Sareeh_v_Jerash.txt
+Requests used: API-Football 51, Matchbook 0

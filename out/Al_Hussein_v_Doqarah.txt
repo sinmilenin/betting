@@ -1,0 +1,64 @@
+MATCH Al Hussein v Doqarah | fetched 2026-10-22 14:43 local
+
+FORM DATA Al Hussein v Doqarah | source API-Football | 2026-10-22 14:43 UTC
+H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
+
+=== Al Hussein (id 4532): last 20 finished games ===
+2026-10-17 A 0-1 v Al Wihdat | League | ?
+2026-10-13 A 3-0 v Al Seeb | AFC Champions League Two | Seeb | xG 1.44-2.27
+2026-10-09 H 4-1 v Al Arabi | League | ?
+2026-09-19 A 3-3 v Shabab Al Ordon | League | ?
+2026-09-16 H 2-2 v East Bengal II | AFC Champions League Two | Amman
+2026-09-11 H 0-0 v Al Buqa'a | League | ?
+2026-09-05 H 0-5 v Al Jazeera | League | ?
+2026-08-28 A 1-2 v Al Faisaly | Super Cup | Amman
+2026-08-22 A 5-0 v Al Ramtha | Super Cup | Amman
+2026-08-11 A 0-3 v Pakhtakor | AFC Champions League Elite | Tashkent
+2026-05-16 A 3-0 v Al Ramtha | Cup | Amman
+2026-05-12 H 3-1 v Al Wihdat | Cup | ?
+2026-05-08 H 1-0 v Al Faisaly | League | ?
+2026-05-03 A 2-0 v Sama Al Sarhan | League | ?
+2026-04-30 H 3-1 v Al Jazeera | Cup | ?
+2026-04-26 A 1-1 v Shabab Al Ordon | League | ?
+2026-04-23 A 4-0 v Sama Al Sarhan | League | ?
+2026-04-19 A 1-3 v Al Ahli Doha | AFC Champions League Two | Dubai
+2026-04-15 H 3-0 v Al Ramtha | League | ?
+2026-04-12 A 0-1 v Al Faisaly | League | Amman
+Listed home: 8 games, scored 16 (2.00), conceded 10 (1.25), blanks 2, clean sheets 3
+Listed away: 12 games, scored 23 (1.92), conceded 14 (1.17), blanks 3, clean sheets 5
+All: 20 games, scored 39 (1.95), conceded 24 (1.20), blanks 5, clean sheets 8
+
+=== Doqarah (id 22188): last 8 finished games ===
+2026-10-16 H 1-5 v Al Jazeera | League | ?
+2026-10-10 A 0-0 v Al Ramtha | League | ?
+2026-09-17 H 2-0 v Al Salt | League | ?
+2026-09-11 A 0-2 v Al Faisaly | League | ?
+2026-09-03 A 0-1 v Al Buqa'a | League | ?
+2025-10-19 A 0-1 v Al Sareeh | Cup | ?
+2023-09-28 A 2-2 v Al Jalil | Cup | Irbid [PEN, 90-min score shown]
+2023-08-23 A 4-1 v Blama | Cup | Jarash
+Listed home: 2 games, scored 3 (1.50), conceded 5 (2.50), blanks 0, clean sheets 1
+Listed away: 6 games, scored 6 (1.00), conceded 7 (1.17), blanks 4, clean sheets 1
+All: 8 games, scored 9 (1.12), conceded 12 (1.50), blanks 4, clean sheets 2
+
+TABLE FOR Al Hussein
+LEAGUE TABLE League 2026 | 10 teams | 25 games played
+League averages per game: home 0.92, away 1.20, total 2.12
+#   team                   Pts | home P GF-GA  | away P GF-GA  | all P GF-GA
+1   Al Faisaly              13 |  2   6-1       |  3   5-0       |  5  11-1
+2   Al Jazeera               8 |  2   1-2       |  3  10-1       |  5  11-3
+3   Al Wihdat                8 |  3   1-1       |  2   1-0       |  5   2-1
+4   Al Buqa'a                8 |  3   1-4       |  2   3-0       |  5   4-4
+5   Al Ramtha                8 |  2   1-0       |  3   3-5       |  5   4-5
+6   Al Salt                  5 |  2   0-1       |  3   3-3       |  5   3-4
+7   Al Hussein               5 |  3   4-6       |  2   3-4       |  5   7-10
+8   Al Arabi                 4 |  3   2-3       |  2   1-5       |  5   3-8
+9   Doqarah                  4 |  2   3-5       |  3   0-3       |  5   3-8
+10  Shabab Al Ordon          3 |  3   4-7       |  2   1-2       |  5   5-9
+
+(Doqarah: same table as Al Hussein, shown above)
+
+(23 API-Football requests used)
+
+----------------------------------------------------------------------
+MATCHBOOK: skipped (switched off for this run)
