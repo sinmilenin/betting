@@ -1,2 +1,2 @@
-# Scan 2026-10-22 20:26 (Ljubljana) run 2: Metropolitanos id:2825 (ambiguous), Academia Anzoategui not found -> Anzoategui
-id:2825 v Anzoategui | n=20 | xg=10
+# Night scan 2026-10-22 20:56 (Ljubljana)
+Flamengo v Estudiantes | n=20 | xg=10
