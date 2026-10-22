@@ -1,0 +1,120 @@
+MATCH id:2825 v Anzoategui | fetched 2026-10-22 18:30 local
+
+FORM DATA id:2825 v Anzoategui | source API-Football | 2026-10-22 18:30 UTC
+H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
+
+=== Metropolitanos FC (id 2825): last 20 finished games ===
+2026-10-18 A 2-2 v Estudiantes de Merida FC | Primera División | ?
+2026-10-10 H 4-0 v Rayo Zuliano | Primera División | Caracas
+2026-09-20 A 3-1 v Zamora FC | Primera División | Barinas
+2026-09-16 H 3-0 v Caracas FC | Primera División | Caracas
+2026-09-12 A 2-0 v Anzoátegui FC | Primera División | Puerto La Cruz
+2026-09-06 A 1-0 v Monagas SC | Primera División | Maturin
+2026-09-03 H 4-1 v Trujillanos FC | Primera División | Caracas
+2026-08-30 A 2-2 v Portuguesa FC | Primera División | Araure
+2026-08-22 H 3-1 v Deportivo Tachira FC | Primera División | Caracas
+2026-08-16 A 0-1 v Carabobo FC | Primera División | Valencia
+2026-08-09 H 2-1 v UCV | Primera División | Caracas
+2026-08-05 A 2-1 v Deportivo La Guaira | Primera División | Caracas
+2026-08-02 H 2-1 v Puerto Cabello | Primera División | Caracas
+2026-05-31 H 1-5 v Carabobo FC | Primera División | Caracas
+2026-05-24 A 1-0 v Estudiantes de Merida FC | Primera División | Mérida
+2026-05-17 H 0-1 v Deportivo Tachira FC | Primera División | Caracas
+2026-05-12 A 1-1 v Deportivo Tachira FC | Primera División | San Cristobal
+2026-05-08 H 2-0 v Estudiantes de Merida FC | Primera División | Caracas
+2026-05-03 A 0-0 v Carabobo FC | Primera División | Valencia
+2026-04-26 H 2-0 v Estudiantes de Merida FC | Primera División | Caracas
+Listed home: 10 games, scored 23 (2.30), conceded 10 (1.00), blanks 1, clean sheets 4
+Listed away: 10 games, scored 14 (1.40), conceded 8 (0.80), blanks 2, clean sheets 4
+All: 20 games, scored 37 (1.85), conceded 18 (0.90), blanks 3, clean sheets 8
+
+"Anzoategui" matches several teams. Use id:<number> instead of the name:
+  id:2819   Deportivo Anzoategui (Venezuela)
+  id:2830   Petrolero de Anzoategui (Venezuela)
+  id:11362  Deportivo Anzoátegui II (Venezuela)
+  id:11369  Real Anzoátegui (Venezuela)
+  id:18806  Anzoátegui FC (Venezuela)
+(retrying Anzoategui using the opponent's country, Venezuela)
+"Anzoategui" matches several teams. Use id:<number> instead of the name:
+  id:2819   Deportivo Anzoategui (Venezuela)
+  id:2830   Petrolero de Anzoategui (Venezuela)
+  id:11362  Deportivo Anzoátegui II (Venezuela)
+  id:11369  Real Anzoátegui (Venezuela)
+  id:18806  Anzoátegui FC (Venezuela)
+!! Anzoategui: Ambiguous team name "Anzoategui".
+
+TABLE FOR Metropolitanos FC
+LEAGUE TABLE Primera División 2026 | 66 teams | 206 games played
+League averages per game: home 1.41, away 1.15, total 2.56
+#   team                   Pts | home P GF-GA  | away P GF-GA  | all P GF-GA
+1   Metropolitanos FC       57 |  0   0-0       |  0   0-0       | 26  47-21 [Primera Division: Tabla Anual]
+2   Deportivo Tachira FC    51 |  0   0-0       |  0   0-0       | 26  47-29 [Primera Division: Tabla Anual]
+3   Deportivo La Guaira     44 |  0   0-0       |  0   0-0       | 26  37-24 [Primera Division: Tabla Anual]
+4   Carabobo FC             41 |  0   0-0       |  0   0-0       | 26  38-24 [Primera Division: Tabla Anual]
+5   Puerto Cabello          40 |  0   0-0       |  0   0-0       | 26  35-26 [Primera Division: Tabla Anual]
+6   Portuguesa FC           39 |  0   0-0       |  0   0-0       | 26  34-24 [Primera Division: Tabla Anual]
+7   UCV                     39 |  0   0-0       |  0   0-0       | 26  37-35 [Primera Division: Tabla Anual]
+8   Estudiantes de Merida   37 |  0   0-0       |  0   0-0       | 26  36-34 [Primera Division: Tabla Anual]
+9   Caracas FC              32 |  0   0-0       |  0   0-0       | 26  30-33 [Primera Division: Tabla Anual]
+10  Monagas SC              29 |  0   0-0       |  0   0-0       | 26  31-39 [Primera Division: Tabla Anual]
+11  Zamora FC               25 |  0   0-0       |  0   0-0       | 26  26-41 [Primera Division: Tabla Anual]
+12  Rayo Zuliano            25 |  0   0-0       |  0   0-0       | 26  31-52 [Primera Division: Tabla Anual]
+13  Trujillanos FC          18 |  0   0-0       |  0   0-0       | 26  23-46 [Primera Division: Tabla Anual]
+14  Anzoátegui FC           17 |  0   0-0       |  0   0-0       | 26  23-47 [Primera Division: Tabla Anual]
+1   Deportivo La Guaira     27 |  6   6-1       |  7   9-5       | 13  15-6 [Primera Division: Apertura]
+2   Metropolitanos FC       25 |  7  11-5       |  6   6-5       | 13  17-10 [Primera Division: Apertura]
+3   Deportivo Tachira FC    24 |  7  10-7       |  6   7-5       | 13  17-12 [Primera Division: Apertura]
+4   UCV                     23 |  6   9-6       |  7  15-14      | 13  24-20 [Primera Division: Apertura]
+5   Portuguesa FC           20 |  7  13-5       |  6   7-7       | 13  20-12 [Primera Division: Apertura]
+6   Estudiantes de Merida   20 |  6  11-10      |  7  10-8       | 13  21-18 [Primera Division: Apertura]
+7   Carabobo FC             19 |  7  17-6       |  6   6-8       | 13  23-14 [Primera Division: Apertura]
+8   Puerto Cabello          17 |  6  11-6       |  7   5-8       | 13  16-14 [Primera Division: Apertura]
+9   Zamora FC               17 |  6   7-7       |  7   7-7       | 13  14-14 [Primera Division: Apertura]
+10  Caracas FC              15 |  7  10-10      |  6   5-7       | 13  15-17 [Primera Division: Apertura]
+11  Rayo Zuliano            14 |  6   6-9       |  7   7-14      | 13  13-23 [Primera Division: Apertura]
+12  Monagas SC              11 |  7  11-9       |  6   3-13      | 13  14-22 [Primera Division: Apertura]
+13  Anzoátegui FC            9 |  6   4-11      |  7  11-14      | 13  15-25 [Primera Division: Apertura]
+14  Trujillanos FC           4 |  7   4-11      |  6   5-15      | 13   9-26 [Primera Division: Apertura]
+1   Puerto Cabello          10 |  3   5-3       |  3   3-4       |  6   8-7 [Primera Division: Apertura - Quadrangular]
+2   Portuguesa FC            8 |  3   2-3       |  3   5-5       |  6   7-8 [Primera Division: Apertura - Quadrangular]
+3   Deportivo La Guaira      7 |  3   1-3       |  3   4-2       |  6   5-5 [Primera Division: Apertura - Quadrangular]
+4   UCV                      6 |  3   6-5       |  3   2-3       |  6   8-8 [Primera Division: Apertura - Quadrangular]
+1   Carabobo FC             11 |  3   2-1       |  3   8-4       |  6  10-5 [Primera Division: Apertura - Quadrangular]
+2   Deportivo Tachira FC    11 |  3   5-2       |  3   3-3       |  6   8-5 [Primera Division: Apertura - Quadrangular]
+3   Metropolitanos FC        8 |  3   3-6       |  3   2-1       |  6   5-7 [Primera Division: Apertura - Quadrangular]
+4   Estudiantes de Merida    3 |  3   2-4       |  3   0-4       |  6   2-8 [Primera Division: Apertura - Quadrangular]
+1   Metropolitanos FC       32 |  6  18-4       |  7  12-7       | 13  30-11 [Primera Division: Clausura]
+2   Deportivo Tachira FC    27 |  6  12-5       |  7  18-12      | 13  30-17 [Primera Division: Clausura]
+3   Puerto Cabello          23 |  7  14-8       |  6   5-4       | 13  19-12 [Primera Division: Clausura]
+4   Carabobo FC             22 |  6   7-2       |  7   8-8       | 13  15-10 [Primera Division: Clausura]
+5   Portuguesa FC           19 |  6   7-4       |  7   7-8       | 13  14-12 [Primera Division: Clausura]
+6   Monagas SC              18 |  6   5-4       |  7  12-13      | 13  17-17 [Primera Division: Clausura]
+7   Deportivo La Guaira     17 |  7  13-13      |  6   9-5       | 13  22-18 [Primera Division: Clausura]
+8   Caracas FC              17 |  6   9-8       |  7   6-8       | 13  15-16 [Primera Division: Clausura]
+9   Estudiantes de Merida   17 |  7   9-5       |  6   6-11      | 13  15-16 [Primera Division: Clausura]
+10  UCV                     16 |  7   8-4       |  6   5-11      | 13  13-15 [Primera Division: Clausura]
+11  Trujillanos FC          14 |  6   8-10      |  7   6-10      | 13  14-20 [Primera Division: Clausura]
+12  Rayo Zuliano            11 |  7  11-12      |  6   7-17      | 13  18-29 [Primera Division: Clausura]
+13  Anzoátegui FC            8 |  7   5-14      |  6   3-8       | 13   8-22 [Primera Division: Clausura]
+14  Zamora FC                8 |  7   9-14      |  6   3-13      | 13  12-27 [Primera Division: Clausura]
+1   Carabobo FC              0 |  0   0-0       |  0   0-0       |  0   0-0 [Primera Division: Clausura - Quadrangular]
+2   Caracas FC               0 |  0   0-0       |  0   0-0       |  0   0-0 [Primera Division: Clausura - Quadrangular]
+3   Deportivo Tachira FC     0 |  0   0-0       |  0   0-0       |  0   0-0 [Primera Division: Clausura - Quadrangular]
+4   Monagas SC               0 |  0   0-0       |  0   0-0       |  0   0-0 [Primera Division: Clausura - Quadrangular]
+5   Portuguesa FC            0 |  0   0-0       |  0   0-0       |  0   0-0 [Primera Division: Clausura - Quadrangular]
+6   Deportivo La Guaira      0 |  0   0-0       |  0   0-0       |  0   0-0 [Primera Division: Clausura - Quadrangular]
+7   Metropolitanos FC        0 |  0   0-0       |  0   0-0       |  0   0-0 [Primera Division: Clausura - Quadrangular]
+8   Puerto Cabello           0 |  0   0-0       |  0   0-0       |  0   0-0 [Primera Division: Clausura - Quadrangular]
+1   Carabobo FC              0 |  0   0-0       |  0   0-0       |  0   0-0 [Primera Division: Clausura - Quadrangular]
+2   Portuguesa FC            0 |  0   0-0       |  0   0-0       |  0   0-0 [Primera Division: Clausura - Quadrangular]
+3   Deportivo La Guaira      0 |  0   0-0       |  0   0-0       |  0   0-0 [Primera Division: Clausura - Quadrangular]
+4   Metropolitanos FC        0 |  0   0-0       |  0   0-0       |  0   0-0 [Primera Division: Clausura - Quadrangular]
+1   Caracas FC               0 |  0   0-0       |  0   0-0       |  0   0-0 [Primera Division: Clausura - Quadrangular]
+2   Deportivo Tachira FC     0 |  0   0-0       |  0   0-0       |  0   0-0 [Primera Division: Clausura - Quadrangular]
+3   Monagas SC               0 |  0   0-0       |  0   0-0       |  0   0-0 [Primera Division: Clausura - Quadrangular]
+4   Puerto Cabello           0 |  0   0-0       |  0   0-0       |  0   0-0 [Primera Division: Clausura - Quadrangular]
+
+(15 API-Football requests used)
+
+----------------------------------------------------------------------
+MATCHBOOK: skipped (switched off for this run)

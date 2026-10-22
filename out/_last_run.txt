@@ -1,5 +1,4 @@
-RUN 2026-10-22 18:27 local | 1 match(es)
-Metropolitanos v Academia Anzoategui -> out/Metropolitanos_v_Academia_Anzoategui.txt
-    !! Metropolitanos: Ambiguous team name "Metropolitanos".
-    !! Academia Anzoategui: No team found for "Academia Anzoategui".
-Requests used: API-Football 2, Matchbook 0
+RUN 2026-10-22 18:30 local | 1 match(es)
+id:2825 v Anzoategui -> out/id_2825_v_Anzoategui.txt
+    !! Anzoategui: Ambiguous team name "Anzoategui".
+Requests used: API-Football 15, Matchbook 0
