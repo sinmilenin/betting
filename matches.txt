@@ -1,2 +1,2 @@
-# Top-20 run 2026-10-22 13:40, retry with id
-id:3683 v AZ Alkmaar | n=20 | xg=10
+# Scan 2026-10-22 14:28
+Al Jazira v Ajman | n=20 | xg=10
