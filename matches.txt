@@ -1,3 +1,2 @@
-# Scan 2026-10-22 18:13 (regular scan), run 3: AGF (run 1 matched AGF W) and Hajduk Split (id 561 was Rijeka)
-Aarhus v Egnatia | n=20 | xg=10
-FC Thun v HNK Hajduk Split | n=20 | xg=10
+# Scan 2026-10-22 20:26 (Ljubljana): Venezuelan Cup
+Metropolitanos v Academia Anzoategui | n=20 | xg=10
