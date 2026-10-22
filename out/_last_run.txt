@@ -1,10 +1,6 @@
-RUN 2026-10-22 14:01 local | 6 match(es)
-Al Fateh v Al Shabab -> out/Al_Fateh_v_Al_Shabab.txt
-    !! Al Fateh: No team found for "Al Fateh".
-    !! Al Shabab: Ambiguous team name "Al Shabab".
-id:1122 v Brighton -> out/id_1122_v_Brighton.txt
-id:3872 v Brann -> out/id_3872_v_Brann.txt
-Inter Escaldes v Universitatea Craiova -> out/Inter_Escaldes_v_Universitatea_Craiova.txt
-id:3502 v Mjallby -> out/id_3502_v_Mjallby.txt
-id:651 v Torreense -> out/id_651_v_Torreense.txt
-Requests used: API-Football 124, Matchbook 0
+RUN 2026-10-22 14:02 local | 3 match(es)
+Fateh v id:2940 -> out/Fateh_v_id_2940.txt
+Getafe v FC Lugano -> out/Getafe_v_FC_Lugano.txt
+Inter Club d Escaldes v Universitatea Craiova -> out/Inter_Club_d_Escaldes_v_Universitatea_Cr.txt
+    !! Inter Club d Escaldes: No team found for "Inter Club d Escaldes".
+Requests used: API-Football 66, Matchbook 0
