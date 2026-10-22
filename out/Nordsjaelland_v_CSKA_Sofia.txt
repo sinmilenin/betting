@@ -1,0 +1,117 @@
+MATCH Nordsjaelland v CSKA Sofia | fetched 2026-10-22 13:58 local
+
+FORM DATA Nordsjaelland v CSKA Sofia | source API-Football | 2026-10-22 13:58 UTC
+H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
+
+=== FC Nordsjaelland (id 398): last 20 finished games ===
+2026-10-18 A 3-3 v Lyngby | Superliga | Lingbi | xG 2.53-2.18
+2026-10-15 A 1-1 v Heart Of Midlothian | UEFA Europa Conference League | Edinburgh | xG 0.64-1.81
+2026-10-09 H 0-0 v Odense | Superliga | Farum | xG 2.16-0.50
+2026-10-03 A 0-3 v Malmo FF | Friendlies Clubs | ?
+2026-09-20 A 1-4 v Viborg | Superliga | Viborg | xG 1.32-2.60
+2026-09-16 A 3-0 v Vatanspor | DBU Pokalen | ?
+2026-09-13 H 2-0 v Aarhus | Superliga | Farum | xG 2.79-1.26
+2026-09-07 A 2-2 v FC Midtjylland | Superliga | Herning | xG 2.10-1.88
+2026-09-03 A 0-2 v FC Copenhagen | Superliga | Copenhagen | xG 0.63-1.62
+2026-08-30 H 3-1 v Brondby | Superliga | Farum | xG 3.32-1.76
+2026-08-27 A 3-2 v FC ST. Gallen | UEFA Europa Conference League | St. Gallen
+2026-08-23 A 3-0 v Sonderjyske | Superliga | Haderslev
+2026-08-20 H 1-0 v FC ST. Gallen | UEFA Europa Conference League | Farum
+2026-08-16 H 1-0 v Silkeborg | Superliga | Farum
+2026-08-13 H 5-0 v Valur Reykjavik | UEFA Europa Conference League | Farum
+2026-08-06 A 2-0 v Valur Reykjavik | UEFA Europa Conference League | Reykjavik
+2026-08-02 H 1-0 v Randers FC | Superliga | Farum
+2026-07-30 H 6-0 v Gais | UEFA Europa Conference League | Farum
+2026-07-26 A 1-1 v AC Horsens | Superliga | Horsens
+2026-07-23 A 0-1 v Gais | UEFA Europa Conference League | Gothenburg
+Listed home: 8 games, scored 19 (2.38), conceded 1 (0.12), blanks 1, clean sheets 7
+Listed away: 12 games, scored 19 (1.58), conceded 19 (1.58), blanks 3, clean sheets 3
+All: 20 games, scored 38 (1.90), conceded 20 (1.00), blanks 4, clean sheets 10
+
+=== CSKA Sofia (id 853): last 20 finished games ===
+2026-10-18 A 2-0 v Nesebar | Cup | ?
+2026-10-15 H 1-2 v Monaco | UEFA Europa Conference League | Sofia | xG 1.28-1.32
+2026-10-11 A 3-2 v CSKA 1948 | First League | Bistritsa
+2026-09-20 A 1-1 v Lokomotiv Plovdiv | First League | Plovdiv
+2026-09-16 A 2-0 v Lokomotiv Sofia | First League | Sofia
+2026-09-12 H 4-1 v Arda Kardzhali | First League | Sofia
+2026-09-09 A 4-2 v Levski Sofia | Super Cup | Sofia
+2026-09-05 A 1-1 v Spartak Varna | First League | Varna
+2026-08-30 H 3-1 v Cherno More Varna | First League | Sofia
+2026-08-27 H 0-2 v OFI | UEFA Europa League | Sofia
+2026-08-20 A 0-3 v OFI | UEFA Europa League | Heraklion
+2026-08-16 H 5-0 v Botev Vratsa | First League | Sofia
+2026-08-13 H 1-3 v Maccabi Tel Aviv | UEFA Europa League | Sofia
+2026-08-09 A 3-0 v Septemvri Sofia | First League | Sofia
+2026-08-06 A 3-0 v Maccabi Tel Aviv | UEFA Europa League | Batumi
+2026-08-02 H 2-1 v Dunav Ruse | First League | Sofia
+2026-07-30 H 0-0 v Qarabag | UEFA Europa League | Sofia [PEN, 90-min score shown]
+2026-07-27 H 3-2 v Botev Plovdiv | First League | Sofia
+2026-07-23 A 0-0 v Qarabag | UEFA Europa League | Baku
+2026-07-20 A 0-0 v Slavia Sofia | First League | Sofia
+Listed home: 9 games, scored 19 (2.11), conceded 12 (1.33), blanks 2, clean sheets 2
+Listed away: 11 games, scored 19 (1.73), conceded 9 (0.82), blanks 3, clean sheets 6
+All: 20 games, scored 38 (1.90), conceded 21 (1.05), blanks 5, clean sheets 8
+
+TABLE FOR FC Nordsjaelland
+LEAGUE TABLE Superliga 2026 | 12 teams | 66 games played
+League averages per game: home 1.61, away 1.41, total 3.02
+#   team                   Pts | home P GF-GA  | away P GF-GA  | all P GF-GA
+1   FC Copenhagen           25 |  5  11-4       |  6  14-7       | 11  25-11
+2   FC Midtjylland          25 |  5  11-5       |  6  10-6       | 11  21-11
+3   Viborg                  20 |  6  12-6       |  5   6-4       | 11  18-10
+4   FC Nordsjaelland        19 |  5   7-1       |  6  10-12      | 11  17-13
+5   Brondby                 16 |  6  12-9       |  5   6-10      | 11  18-19
+6   AC Horsens              13 |  6   7-9       |  5  11-10      | 11  18-19
+7   Odense                  13 |  5   5-9       |  6   5-6       | 11  10-15
+8   Silkeborg               11 |  5   7-8       |  6   8-11      | 11  15-19
+9   Randers FC              11 |  6   6-10      |  5   5-6       | 11  11-16
+10  Aarhus                   9 |  5   8-7       |  6   7-11      | 11  15-18
+11  Sonderjyske              8 |  6  12-13      |  5   4-11      | 11  16-24
+12  Lyngby                   8 |  6   8-12      |  5   7-12      | 11  15-24
+
+TABLE FOR CSKA Sofia
+LEAGUE TABLE UEFA Europa Conference League 2026 | 36 teams | 18 games played
+League averages per game: home 1.94, away 1.00, total 2.94
+#   team                   Pts | home P GF-GA  | away P GF-GA  | all P GF-GA
+1   Brighton                 3 |  1   4-0       |  0   0-0       |  1   4-0
+2   FC Copenhagen            3 |  1   3-0       |  0   0-0       |  1   3-0
+3   Trabzonspor              3 |  0   0-0       |  1   4-2       |  1   4-2
+4   Atalanta                 3 |  1   3-1       |  0   0-0       |  1   3-1
+5   Mjallby AIF              3 |  1   2-0       |  0   0-0       |  1   2-0
+6   St. Truiden              3 |  1   2-0       |  0   0-0       |  1   2-0
+7   SC Freiburg              3 |  1   3-2       |  0   0-0       |  1   3-2
+8   FC Lugano                3 |  1   3-2       |  0   0-0       |  1   3-2
+9   Monaco                   3 |  0   0-0       |  1   2-1       |  1   2-1
+10  HNK Hajduk Split         3 |  1   2-1       |  0   0-0       |  1   2-1
+11  Panathinaikos            3 |  1   2-1       |  0   0-0       |  1   2-1
+12  Brann                    3 |  1   2-1       |  0   0-0       |  1   2-1
+13  Gent                     3 |  1   1-0       |  0   0-0       |  1   1-0
+14  Twente                   3 |  1   1-0       |  0   0-0       |  1   1-0
+15  Getafe                   1 |  0   0-0       |  1   1-1       |  1   1-1
+16  FC Midtjylland           1 |  0   0-0       |  1   1-1       |  1   1-1
+17  FC Nordsjaelland         1 |  0   0-0       |  1   1-1       |  1   1-1
+18  Kairat Almaty            1 |  0   0-0       |  1   1-1       |  1   1-1
+19  Heart Of Midlothian      1 |  1   1-1       |  0   0-0       |  1   1-1
+20  Egnatia Rrogozhinë       1 |  1   1-1       |  0   0-0       |  1   1-1
+21  Universitatea Craiova    1 |  1   1-1       |  0   0-0       |  1   1-1
+22  Riga                     1 |  1   1-1       |  0   0-0       |  1   1-1
+23  FK Jablonec              0 |  0   0-0       |  1   2-3       |  1   2-3
+24  FK Crvena Zvezda         0 |  0   0-0       |  1   2-3       |  1   2-3
+25  Ajax                     0 |  0   0-0       |  1   1-2       |  1   1-2
+26  Borac Banja Luka         0 |  0   0-0       |  1   1-2       |  1   1-2
+27  Lincoln Red Imps FC      0 |  0   0-0       |  1   1-2       |  1   1-2
+28  CSKA Sofia               0 |  1   1-2       |  0   0-0       |  1   1-2
+29  Aarhus                   0 |  0   0-0       |  1   0-1       |  1   0-1
+30  FC Thun                  0 |  0   0-0       |  1   0-1       |  1   0-1
+31  KuPS                     0 |  1   2-4       |  0   0-0       |  1   2-4
+32  Pafos                    0 |  0   0-0       |  1   1-3       |  1   1-3
+33  Inter Club d'Escaldes    0 |  0   0-0       |  1   0-2       |  1   0-2
+34  FC Iberia 1999           0 |  0   0-0       |  1   0-2       |  1   0-2
+35  SC Braga                 0 |  0   0-0       |  1   0-3       |  1   0-3
+36  Kauno Žalgiris           0 |  0   0-0       |  1   0-4       |  1   0-4
+
+(27 API-Football requests used)
+
+----------------------------------------------------------------------
+MATCHBOOK: skipped (switched off for this run)

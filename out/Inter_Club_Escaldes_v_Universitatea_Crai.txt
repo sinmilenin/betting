@@ -1,0 +1,57 @@
+MATCH Inter Club Escaldes v Universitatea Craiova | fetched 2026-10-22 13:58 local
+
+FORM DATA Inter Club Escaldes v Universitatea Craiova | source API-Football | 2026-10-22 13:58 UTC
+H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
+
+=== Universitatea Craiova (id 632): last 20 finished games ===
+2026-10-18 H 2-0 v Farul Constanta | Liga I | Craiova | xG 1.74-0.61
+2026-10-15 H 1-1 v Getafe | UEFA Europa Conference League | Craiova | xG 0.60-1.45
+2026-10-11 A 1-0 v Csikszereda | Liga I | Sfântu Gheorghe | xG 2.44-0.50
+2026-10-04 A 4-0 v Slatina | Friendlies Clubs | ?
+2026-09-19 H 5-0 v FCSB | Liga I | Craiova | xG 3.14-0.61
+2026-09-13 A 1-0 v Corvinul Hunedoara | Liga I | Arad | xG 1.07-0.60
+2026-09-07 H 4-0 v Universitatea Cluj | Liga I | Craiova | xG 2.05-0.66
+2026-09-03 A 2-1 v FC Bacau | Cupa României | ?
+2026-08-31 A 1-1 v Rapid | Liga I | Bucharest | xG 2.06-1.39
+2026-08-27 A 0-1 v Ararat-Armenia | UEFA Europa League | Yerevan
+2026-08-23 H 3-1 v FC Voluntari | Liga I | Craiova
+2026-08-20 H 1-1 v Ararat-Armenia | UEFA Europa League | Craiova
+2026-08-16 A 1-1 v Oţelul | Liga I | Galati
+2026-08-13 H 2-1 v KuPS | UEFA Europa League | Craiova
+2026-08-09 H 0-1 v Arges Pitesti | Liga I | Craiova
+2026-08-06 A 1-1 v KuPS | UEFA Europa League | Kuopio
+2026-08-01 H 4-0 v Petrolul Ploiesti | Liga I | Craiova
+2026-07-29 H 2-2 v Levski Sofia | UEFA Champions League | Craiova
+2026-07-25 A 1-5 v Dinamo Bucuresti | Liga I | Bucharest
+2026-07-22 A 0-1 v Levski Sofia | UEFA Champions League | Sofia
+Listed home: 10 games, scored 24 (2.40), conceded 7 (0.70), blanks 1, clean sheets 4
+Listed away: 10 games, scored 12 (1.20), conceded 11 (1.10), blanks 2, clean sheets 3
+All: 20 games, scored 36 (1.80), conceded 18 (0.90), blanks 3, clean sheets 7
+
+!! Inter Club Escaldes: No team found for "Inter Club Escaldes".
+
+TABLE FOR Universitatea Craiova
+LEAGUE TABLE Liga I 2026 | 16 teams | 96 games played
+League averages per game: home 1.73, away 0.91, total 2.64
+#   team                   Pts | home P GF-GA  | away P GF-GA  | all P GF-GA
+1   Dinamo Bucuresti        29 |  6  19-3       |  6   8-4       | 12  27-7
+2   Rapid                   27 |  7  12-5       |  5   8-4       | 12  20-9
+3   Universitatea Craiova   26 |  7  22-2       |  5   5-7       | 12  27-9
+4   Petrolul Ploiesti       20 |  6   7-3       |  6   8-13      | 12  15-16
+5   Universitatea Cluj      19 |  7  16-12      |  5   6-8       | 12  22-20
+6   FCSB                    18 |  6  11-9       |  6   5-9       | 12  16-18
+7   Farul Constanta         17 |  5  12-5       |  7   5-12      | 12  17-17
+8   Corvinul Hunedoara      16 |  6  11-5       |  6   3-8       | 12  14-13
+9   CFR 1907 Cluj           16 |  5  10-4       |  7   7-14      | 12  17-18
+10  Uta Arad                15 |  6   9-3       |  6   6-14      | 12  15-17
+11  FC Botosani             14 |  5   9-1       |  7   7-13      | 12  16-14
+12  Sepsi OSK Sfantu Gheor  14 |  5   5-4       |  7   3-9       | 12   8-13
+13  Arges Pitesti           12 |  6   4-4       |  6   4-9       | 12   8-13
+14  Oţelul                  11 |  7   8-8       |  5   4-9       | 12  12-17
+15  FC Voluntari             8 |  7   8-10      |  5   4-17      | 12  12-27
+16  Csikszereda              2 |  5   3-9       |  7   4-16      | 12   7-25
+
+(14 API-Football requests used)
+
+----------------------------------------------------------------------
+MATCHBOOK: skipped (switched off for this run)

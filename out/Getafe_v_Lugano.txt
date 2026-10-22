@@ -1,0 +1,117 @@
+MATCH Getafe v Lugano | fetched 2026-10-22 13:58 local
+
+FORM DATA Getafe v Lugano | source API-Football | 2026-10-22 13:58 UTC
+H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
+
+=== Getafe (id 546): last 20 finished games ===
+2026-10-19 H 1-1 v Rayo Vallecano | La Liga | Getafe | xG 0.61-2.26
+2026-10-15 A 1-1 v Universitatea Craiova | UEFA Europa Conference League | Craiova | xG 1.45-0.60
+2026-10-10 A 0-3 v Barcelona | La Liga | Barcelona | xG 0.14-1.93
+2026-09-20 H 1-0 v Malaga | La Liga | Getafe | xG 0.95-0.52
+2026-09-17 A 0-1 v Real Betis | La Liga | Seville | xG 0.29-1.89
+2026-09-13 H 1-1 v Deportivo La Coruna | La Liga | Getafe | xG 0.78-0.87
+2026-09-07 H 1-1 v Celta Vigo | La Liga | Getafe | xG 0.65-1.03
+2026-08-31 A 0-1 v Osasuna | La Liga | Pamplona | xG 0.68-1.68
+2026-08-27 A 1-2 v FK Partizan | UEFA Europa Conference League | Belgrade
+2026-08-23 H 1-0 v Racing Santander | La Liga | Getafe | xG 1.24-1.31
+2026-08-20 H 3-1 v FK Partizan | UEFA Europa Conference League | Getafe
+2026-08-15 A 0-3 v Alaves | La Liga | Vitoria-Gasteiz
+2026-08-08 A 1-1 v Tottenham | Friendlies Clubs | London
+2026-08-06 A 0-1 v Monaco | Friendlies Clubs | ?
+2026-07-29 A 1-4 v Atletico Madrid | Friendlies Clubs | Majadahonda
+2026-07-25 A 0-0 v Valladolid | Friendlies Clubs | ?
+2026-07-22 A 2-1 v Tenerife | Friendlies Clubs | ?
+2026-07-17 H 1-0 v Reading | Friendlies Clubs | ?
+2026-05-23 H 1-0 v Osasuna | La Liga | Getafe
+2026-05-17 A 0-1 v Elche | La Liga | Elche
+Listed home: 8 games, scored 10 (1.25), conceded 4 (0.50), blanks 0, clean sheets 4
+Listed away: 12 games, scored 6 (0.50), conceded 19 (1.58), blanks 7, clean sheets 1
+All: 20 games, scored 16 (0.80), conceded 23 (1.15), blanks 7, clean sheets 5
+
+=== Lugano (id 8396): last 20 finished games ===
+2026-10-19 H 0-1 v Canuelas | Primera C | ?
+2026-10-12 A 0-1 v Mercedes | Primera C | ?
+2026-10-04 H 2-3 v Argentino Rosario | Primera C | ?
+2026-09-26 A 1-1 v Deportivo Paraguayo | Primera C | ?
+2026-09-20 H 1-1 v Estrella Del Sur | Primera C | ?
+2026-09-12 H 0-0 v Leones de Rosario | Primera C | ?
+2026-09-06 A 1-0 v Puerto Nuevo | Primera C | ?
+2026-08-31 H 1-1 v Berazategui | Primera C | ?
+2026-08-22 A 1-0 v Leandro N. Alem | Primera C | ?
+2026-08-16 H 1-2 v Lujan | Primera C | ?
+2026-08-09 H 0-0 v Victoriano Arenas | Primera C | ?
+2026-07-31 A 2-1 v Defensores de Cambaceres | Primera C | ?
+2026-07-25 H 1-0 v Centro Español | Primera C | ?
+2026-07-17 H 3-2 v Sportivo Barracas | Primera C | ?
+2026-07-12 A 0-0 v Juventud Unida | Primera C | ?
+2026-07-04 H 0-0 v JJ Urquiza | Primera C | ?
+2026-06-27 A 1-0 v Sacachispas | Primera C | Villa Soldati
+2026-06-14 H 1-0 v Mercedes | Primera C | ?
+2026-06-06 A 1-2 v Argentino Rosario | Primera C | Rosario
+2026-05-30 H 0-0 v Deportivo Paraguayo | Primera C | ?
+Listed home: 12 games, scored 10 (0.83), conceded 10 (0.83), blanks 5, clean sheets 6
+Listed away: 8 games, scored 7 (0.88), conceded 5 (0.62), blanks 2, clean sheets 4
+All: 20 games, scored 17 (0.85), conceded 15 (0.75), blanks 7, clean sheets 10
+
+TABLE FOR Getafe
+LEAGUE TABLE La Liga 2026 | 20 teams | 89 games played
+League averages per game: home 1.73, away 1.35, total 3.08
+#   team                   Pts | home P GF-GA  | away P GF-GA  | all P GF-GA
+1   Barcelona               27 |  4  17-4       |  5  22-5       |  9  39-9
+2   Atletico Madrid         22 |  4  10-3       |  5   9-5       |  9  19-8
+3   Real Madrid             21 |  5  17-3       |  4   6-6       |  9  23-9
+4   Real Betis              19 |  5  10-7       |  4   6-7       |  9  16-14
+5   Real Sociedad           16 |  4   5-6       |  5  12-11      |  9  17-17
+6   Sevilla                 14 |  4   5-7       |  5   9-9       |  9  14-16
+7   Alaves                  11 |  5  10-5       |  4   3-5       |  9  13-10
+8   Celta Vigo              11 |  5   9-6       |  4   1-1       |  9  10-7
+9   Deportivo La Coruna     11 |  5   6-5       |  4   7-7       |  9  13-12
+10  Osasuna                 11 |  5   4-3       |  4   6-15      |  9  10-18
+11  Levante                 10 |  4  13-10      |  5   2-7       |  9  15-17
+12  Villarreal               9 |  4   6-6       |  5   7-7       |  9  13-13
+13  Athletic Club            9 |  4   5-4       |  4   3-5       |  8   8-9
+14  Rayo Vallecano           9 |  3   6-4       |  5   6-13      |  8  12-17
+15  Getafe                   9 |  5   5-3       |  4   0-8       |  9   5-11
+16  Espanyol                 8 |  5   6-7       |  4   5-5       |  9  11-12
+17  Racing Santander         8 |  4   9-7       |  5   4-18      |  9  13-25
+18  Elche                    7 |  4   4-11      |  5   7-6       |  9  11-17
+19  Valencia                 6 |  5   2-9       |  4   4-6       |  9   6-15
+20  Malaga                   4 |  5   5-10      |  4   1-8       |  9   6-18
+
+TABLE FOR Lugano
+LEAGUE TABLE Primera C 2026 | 28 teams | 448 games played
+League averages per game: home 1.05, away 0.87, total 1.92
+#   team                   Pts | home P GF-GA  | away P GF-GA  | all P GF-GA
+1   Berazategui             51 | 16  27-14      | 16  13-10      | 32  40-24 [Group A]
+2   Sacachispas             50 | 16  20-11      | 16  13-15      | 32  33-26 [Group A]
+3   Estrella Del Sur        48 | 16  18-11      | 16  15-19      | 32  33-30 [Group A]
+4   Centro Español          47 | 16  24-19      | 16  19-11      | 32  43-30 [Group A]
+5   Mercedes                47 | 16  19-9       | 16  12-15      | 32  31-24 [Group A]
+6   Victoriano Arenas       47 | 16  13-6       | 16  13-13      | 32  26-19 [Group A]
+7   Lugano                  46 | 16  19-13      | 16  16-16      | 32  35-29 [Group A]
+8   Juventud Unida          45 | 16  22-14      | 16  17-19      | 32  39-33 [Group A]
+9   Puerto Nuevo            41 | 16  15-26      | 16  15-10      | 32  30-36 [Group A]
+10  Defensores de Cambacer  36 | 16  12-15      | 16  13-19      | 32  25-34 [Group A]
+11  JJ Urquiza              35 | 16  12-11      | 16   9-15      | 32  21-26 [Group A]
+12  Deportivo Paraguayo     32 | 16  13-18      | 16  10-23      | 32  23-41 [Group A]
+13  Leandro N. Alem         31 | 16  16-26      | 16  14-32      | 32  30-58 [Group A]
+14  Argentino Rosario       27 | 16  15-13      | 16  15-29      | 32  30-42 [Group A]
+1   Lujan                   64 | 16  23-10      | 16  23-12      | 32  46-22 [Group B]
+2   Canuelas                61 | 16  21-10      | 16  22-12      | 32  43-22 [Group B]
+3   Deportivo Español       52 | 16  10-4       | 16  16-12      | 32  26-16 [Group B]
+4   Leones de Rosario       51 | 16  17-15      | 16  14-10      | 32  31-25 [Group B]
+5   Central Cordoba         49 | 16  19-11      | 16  13-12      | 32  32-23 [Group B]
+6   General Lamadrid        41 | 16  14-8       | 16   9-19      | 32  23-27 [Group B]
+7   Sportivo Barracas       40 | 16  18-15      | 16  14-17      | 32  32-32 [Group B]
+8   El Porvenir             40 | 16  12-15      | 16  16-17      | 32  28-32 [Group B]
+9   Central Ballester       38 | 16  18-13      | 16  11-21      | 32  29-34 [Group B]
+10  Atletico Atlas          37 | 16  15-16      | 16   9-13      | 32  24-29 [Group B]
+11  Claypole                36 | 16  16-18      | 16  11-22      | 32  27-40 [Group B]
+12  Yupanqui                35 | 16  14-16      | 16  19-20      | 32  33-36 [Group B]
+13  Fénix                   34 | 16  14-13      | 16  10-19      | 32  24-32 [Group B]
+14  Deportivo Muñiz         29 | 16  14-20      | 16   9-18      | 32  23-38 [Group B]
+
+(26 API-Football requests used)
+
+----------------------------------------------------------------------
+MATCHBOOK: skipped (switched off for this run)

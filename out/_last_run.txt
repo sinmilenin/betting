@@ -1,3 +1,18 @@
-RUN 2026-10-22 12:30 local | 1 match(es)
-id:2871 v Ajman -> out/id_2871_v_Ajman.txt
-Requests used: API-Football 25, Matchbook 0
+RUN 2026-10-22 13:58 local | 9 match(es)
+Al-Fateh v Al-Shabab -> out/Al_Fateh_v_Al_Shabab.txt
+    !! Al-Fateh: API-Football error: {"search": "The Search field may only contain alpha-numeric characters and spaces."}
+    !! Al-Shabab: API-Football error: {"search": "The Search field may only contain alpha-numeric characters and spaces."}
+Jablonec v Brighton -> out/Jablonec_v_Brighton.txt
+    !! Jablonec: Ambiguous team name "Jablonec".
+Kauno Zalgiris v Brann -> out/Kauno_Zalgiris_v_Brann.txt
+    !! Kauno Zalgiris: Ambiguous team name "Kauno Zalgiris".
+Getafe v Lugano -> out/Getafe_v_Lugano.txt
+Inter Club Escaldes v Universitatea Craiova -> out/Inter_Club_Escaldes_v_Universitatea_Crai.txt
+    !! Inter Club Escaldes: No team found for "Inter Club Escaldes".
+Iberia 1999 v Mjallby -> out/Iberia_1999_v_Mjallby.txt
+    !! Iberia 1999: Ambiguous team name "Iberia 1999".
+Nordsjaelland v CSKA Sofia -> out/Nordsjaelland_v_CSKA_Sofia.txt
+Pafos v Riga -> out/Pafos_v_Riga.txt
+Ferencvaros v Torreense -> out/Ferencvaros_v_Torreense.txt
+    !! Ferencvaros: Ambiguous team name "Ferencvaros".
+Requests used: API-Football 155, Matchbook 0
