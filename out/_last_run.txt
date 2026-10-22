@@ -1,4 +1,3 @@
-RUN 2026-10-22 18:30 local | 1 match(es)
-id:2825 v Anzoategui -> out/id_2825_v_Anzoategui.txt
-    !! Anzoategui: Ambiguous team name "Anzoategui".
-Requests used: API-Football 15, Matchbook 0
+RUN 2026-10-22 18:58 local | 1 match(es)
+Flamengo v Estudiantes -> out/Flamengo_v_Estudiantes.txt
+Requests used: API-Football 26, Matchbook 0
