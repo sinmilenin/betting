@@ -1,4 +1,4 @@
 RUN 2026-10-22 11:47 local | 1 match(es)
-Ararat Armenia v AZ Alkmaar -> out/Ararat_Armenia_v_AZ_Alkmaar.txt
-    !! Ararat Armenia: No team found for "Ararat Armenia".
-Requests used: API-Football 14, Matchbook 0
+Ararat v AZ Alkmaar -> out/Ararat_v_AZ_Alkmaar.txt
+    !! Ararat: Ambiguous team name "Ararat".
+Requests used: API-Football 15, Matchbook 0
