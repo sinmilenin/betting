@@ -1,4 +1,6 @@
-RUN 2026-10-22 14:43 local | 2 match(es)
-Al Hussein v Doqarah -> out/Al_Hussein_v_Doqarah.txt
-Al Sareeh v Jerash -> out/Al_Sareeh_v_Jerash.txt
-Requests used: API-Football 51, Matchbook 0
+RUN 2026-10-22 15:27 local | 3 match(es)
+Al Ahli v Al Ain -> out/Al_Ahli_v_Al_Ain.txt
+    !! Al Ahli: Ambiguous team name "Al Ahli".
+Sitra v Al Riffa -> out/Sitra_v_Al_Riffa.txt
+Birkirkara v Floriana -> out/Birkirkara_v_Floriana.txt
+Requests used: API-Football 65, Matchbook 0
