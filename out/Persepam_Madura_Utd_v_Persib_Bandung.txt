@@ -1,7 +1,32 @@
-MATCH Madura United v Persib Bandung | fetched 2026-10-22 11:43 local
+MATCH Persepam Madura Utd v Persib Bandung | fetched 2026-10-22 11:44 local
 
-FORM DATA Madura United v Persib Bandung | source API-Football | 2026-10-22 11:43 UTC
+FORM DATA Persepam Madura Utd v Persib Bandung | source API-Football | 2026-10-22 11:44 UTC
 H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
+
+=== Persepam Madura Utd (id 2444): last 20 finished games ===
+2026-10-16 H 3-3 v Bhayangkara FC | Liga 1 | Pamekasan
+2026-10-09 A 0-2 v Persik Kediri | Liga 1 | Kediri
+2026-09-18 H 2-1 v PSIM Yogyakarta | Liga 1 | Pamekasan
+2026-09-12 A 3-1 v PSS Sleman | Liga 1 | Yogyakarta
+2026-09-06 H 2-0 v Persijap | Liga 1 | Pamekasan
+2026-05-23 H 2-0 v PSM Makassar | Liga 1 | Pamekasan
+2026-05-17 A 1-2 v PSIM Yogyakarta | Liga 1 | Yogyakarta
+2026-05-11 A 1-3 v Bhayangkara FC | Liga 1 | Bandar Lampung
+2026-05-05 H 2-0 v Bali United | Liga 1 | Pamekasan
+2026-04-29 A 1-0 v Semen Padang | Liga 1 | Padang
+2026-04-25 H 1-2 v Dewa United | Liga 1 | Pamekasan
+2026-04-17 A 2-1 v Persebaya Surabaya | Liga 1 | Surabaya
+2026-04-11 H 2-1 v Persik Kediri | Liga 1 | Pamekasan
+2026-04-05 H 1-3 v Pusamania Borneo | Liga 1 | Pamekasan
+2026-03-07 A 1-4 v Persita | Liga 1 | Tangerang
+2026-03-03 H 1-2 v Java United | Liga 1 | Pamekasan
+2026-02-26 A 0-5 v Persib Bandung | Liga 1 | Bandung
+2026-02-21 H 2-2 v Arema FC | Liga 1 | Pamekasan
+2026-02-13 A 2-2 v Persis Solo | Liga 1 | Surakarta
+2026-02-07 A 0-1 v Persijap | Liga 1 | Jepara
+Listed home: 10 games, scored 18 (1.80), conceded 14 (1.40), blanks 0, clean sheets 3
+Listed away: 10 games, scored 11 (1.10), conceded 21 (2.10), blanks 3, clean sheets 1
+All: 20 games, scored 29 (1.45), conceded 35 (1.75), blanks 3, clean sheets 4
 
 === Persib Bandung (id 2445): last 20 finished games ===
 2026-10-18 H 1-0 v Persik Kediri | Liga 1 | Bandung
@@ -28,9 +53,7 @@ Listed home: 12 games, scored 17 (1.42), conceded 7 (0.58), blanks 1, clean shee
 Listed away: 8 games, scored 15 (1.88), conceded 6 (0.75), blanks 0, clean sheets 3
 All: 20 games, scored 32 (1.60), conceded 13 (0.65), blanks 1, clean sheets 10
 
-!! Madura United: No team found for "Madura United".
-
-TABLE FOR Persib Bandung
+TABLE FOR Persepam Madura Utd
 LEAGUE TABLE Liga 1 2026 | 18 teams | 52 games played
 League averages per game: home 1.85, away 1.17, total 3.02
 #   team                   Pts | home P GF-GA  | away P GF-GA  | all P GF-GA
@@ -53,7 +76,9 @@ League averages per game: home 1.85, away 1.17, total 3.02
 17  PSIM Yogyakarta          1 |  3   2-7       |  3   1-4       |  6   3-11
 18  Persijap                 0 |  3   1-4       |  3   1-10      |  6   2-14
 
-(14 API-Football requests used)
+(Persib Bandung: same table as Persepam Madura Utd, shown above)
+
+(25 API-Football requests used)
 
 ----------------------------------------------------------------------
 MATCHBOOK: skipped (switched off for this run)
