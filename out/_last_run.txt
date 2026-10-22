@@ -1,4 +1,5 @@
-RUN 2026-10-22 16:18 local | 2 match(es)
-Aarhus v Egnatia -> out/Aarhus_v_Egnatia.txt
-FC Thun v HNK Hajduk Split -> out/FC_Thun_v_HNK_Hajduk_Split.txt
-Requests used: API-Football 53, Matchbook 0
+RUN 2026-10-22 18:27 local | 1 match(es)
+Metropolitanos v Academia Anzoategui -> out/Metropolitanos_v_Academia_Anzoategui.txt
+    !! Metropolitanos: Ambiguous team name "Metropolitanos".
+    !! Academia Anzoategui: No team found for "Academia Anzoategui".
+Requests used: API-Football 2, Matchbook 0
