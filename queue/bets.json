@@ -350,5 +350,16 @@
     "lay": 9.8,
     "stake": 3,
     "created": "2026-10-22T14:04:00Z"
+  },
+  {
+    "id": "2026-10-22_fk-kauno-zalgiris-brann_0-3",
+    "date": "2026-10-22",
+    "ko": "18:45",
+    "match": "FK Kauno Zalgiris v Brann",
+    "comp": "International, UEFA Conference League",
+    "cell": "0-3",
+    "lay": 18.5,
+    "stake": 3,
+    "created": "2026-10-22T15:34:30Z"
   }
 ]
