@@ -1,0 +1,59 @@
+MATCH Ararat-Armenia v AZ Alkmaar | fetched 2026-10-22 11:46 local
+
+FORM DATA Ararat-Armenia v AZ Alkmaar | source API-Football | 2026-10-22 11:46 UTC
+H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
+
+=== AZ Alkmaar (id 201): last 20 finished games ===
+2026-10-18 A 2-2 v Cambuur | Eredivisie | Leeuwarden | xG 1.56-1.53
+2026-10-15 H 2-1 v Hapoel Beer Sheva | UEFA Europa League | Alkmaar | xG 2.75-1.09
+2026-10-10 A 0-2 v Feyenoord | Eredivisie | Rotterdam | xG 1.04-2.23
+2026-09-20 H 1-0 v Telstar | Eredivisie | Alkmaar | xG 2.35-0.10
+2026-09-16 A 0-1 v Sunderland | UEFA Europa League | Sunderland | xG 1.49-2.90
+2026-09-11 H 1-1 v Willem II | Eredivisie | Alkmaar | xG 2.48-0.93
+2026-09-06 A 3-2 v Heerenveen | Eredivisie | Heerenveen | xG 1.04-1.48
+2026-08-29 H 5-2 v GO Ahead Eagles | Eredivisie | Alkmaar | xG 2.37-1.66
+2026-08-22 A 2-0 v Fortuna Sittard | Eredivisie | Sittard | xG 4.35-0.44
+2026-08-15 A 4-1 v Utrecht | Eredivisie | Utrecht | xG 2.10-0.91
+2026-08-08 H 2-0 v ADO Den Haag | Eredivisie | Alkmaar
+2026-08-02 A 4-0 v PSV Eindhoven | Super Cup | Eindhoven
+2026-07-25 H 3-2 v Olympiakos Piraeus | Friendlies Clubs | ?
+2026-07-22 H 4-0 v Genk | Friendlies Clubs | ?
+2026-07-18 A 1-1 v Zulte Waregem | Friendlies Clubs | ?
+2026-07-15 H 0-1 v Anderlecht | Friendlies Clubs | ?
+2026-07-11 H 2-1 v Almere City FC | Friendlies Clubs | ?
+2026-07-04 H 3-3 v Gent | Friendlies Clubs | ?
+2026-05-17 H 3-3 v NAC Breda | Eredivisie | Alkmaar
+2026-05-10 A 1-1 v Feyenoord | Eredivisie | Rotterdam
+Listed home: 11 games, scored 26 (2.36), conceded 14 (1.27), blanks 1, clean sheets 3
+Listed away: 9 games, scored 17 (1.89), conceded 10 (1.11), blanks 2, clean sheets 2
+All: 20 games, scored 43 (2.15), conceded 24 (1.20), blanks 3, clean sheets 5
+
+!! Ararat-Armenia: API-Football error: {"search": "The Search field may only contain alpha-numeric characters and spaces."}
+
+TABLE FOR AZ Alkmaar
+LEAGUE TABLE Eredivisie 2026 | 18 teams | 81 games played
+League averages per game: home 1.80, away 2.04, total 3.84
+#   team                   Pts | home P GF-GA  | away P GF-GA  | all P GF-GA
+1   Feyenoord               23 |  4  11-4       |  5  20-6       |  9  31-10
+2   AZ Alkmaar              20 |  4   9-3       |  5  11-7       |  9  20-10
+3   PSV Eindhoven           19 |  4  13-4       |  5  14-8       |  9  27-12
+4   Ajax                    18 |  5  11-9       |  4  16-3       |  9  27-12
+5   Twente                  17 |  5  10-5       |  4   7-5       |  9  17-10
+6   Fortuna Sittard         15 |  4   5-9       |  5  11-8       |  9  16-17
+7   Groningen               14 |  5  11-11      |  4  11-8       |  9  22-19
+8   Heerenveen              12 |  5   7-5       |  4   8-6       |  9  15-11
+9   GO Ahead Eagles         11 |  4  11-6       |  5   9-15      |  9  20-21
+10  Excelsior               11 |  4   5-10      |  5  11-8       |  9  16-18
+11  Utrecht                 11 |  4   8-14      |  5   8-12      |  9  16-26
+12  NEC Nijmegen            10 |  5   7-10      |  4   8-6       |  9  15-16
+13  Sparta Rotterdam         9 |  5   8-12      |  4   8-10      |  9  16-22
+14  Cambuur                  9 |  5   8-15      |  4   5-6       |  9  13-21
+15  PEC Zwolle               7 |  5   5-14      |  4   5-8       |  9  10-22
+16  Telstar                  6 |  5   8-15      |  4   2-3       |  9  10-18
+17  ADO Den Haag             6 |  4   6-9       |  5   5-11      |  9  11-20
+18  Willem II                2 |  4   3-10      |  5   6-16      |  9   9-26
+
+(14 API-Football requests used)
+
+----------------------------------------------------------------------
+MATCHBOOK: skipped (switched off for this run)

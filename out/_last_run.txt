@@ -1,3 +1,4 @@
-RUN 2026-10-22 11:44 local | 1 match(es)
-Persepam Madura Utd v Persib Bandung -> out/Persepam_Madura_Utd_v_Persib_Bandung.txt
-Requests used: API-Football 25, Matchbook 0
+RUN 2026-10-22 11:46 local | 1 match(es)
+Ararat-Armenia v AZ Alkmaar -> out/Ararat_Armenia_v_AZ_Alkmaar.txt
+    !! Ararat-Armenia: API-Football error: {"search": "The Search field may only contain alpha-numeric characters and spaces."}
+Requests used: API-Football 14, Matchbook 0
