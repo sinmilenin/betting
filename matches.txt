@@ -1,4 +1,2 @@
-# Scan 2026-10-22 17:26 (regular scan): new fixtures UAE, Bahrain, Malta
-Al Ahli v Al Ain | n=20 | xg=10
-Sitra v Al Riffa | n=20 | xg=10
-Birkirkara v Floriana | n=20 | xg=10
+# Scan 2026-10-22 17:26 (regular scan), run 2: Al Ahli (UAE) = Shabab Al Ahli Dubai id 2870
+id:2870 v Al Ain | n=20 | xg=10
