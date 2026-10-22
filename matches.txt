@@ -1,5 +1,21 @@
-# Night scan 2026-10-21 retry with ids
-id:2807 v id:2811 | n=20 | xg=10
-Toluca v id:2280 | n=20 | xg=10
-Santos Laguna v id:2286 | n=20 | xg=10
-Deportivo La Guaira v Aragua FC | n=20 | xg=10
+# Top-20 run 2026-10-22 07:40 (Europa / Conference League)
+Kairat Almaty v Panathinaikos | n=20 | xg=10
+Lech Poznan v Sunderland | n=20 | xg=10
+Union St. Gilloise v Hapoel Beer Sheva | n=20 | xg=10
+Juventus v Rennes | n=20 | xg=10
+Dinamo Zagreb v NEC Nijmegen | n=20 | xg=10
+Crvena Zvezda v FC Copenhagen | n=20 | xg=10
+Sturm Graz v Marseille | n=20 | xg=10
+OFI v Bayer Leverkusen | n=20 | xg=10
+Trabzonspor v Hearts | n=20 | xg=10
+Lincoln Red Imps v Twente | n=20 | xg=10
+Celtic v Celta Vigo | n=20 | xg=10
+Bournemouth v AC Milan | n=20 | xg=10
+Hoffenheim v Lyon | n=20 | xg=10
+Celje v Red Bull Salzburg | n=20 | xg=10
+Ajax v Atalanta | n=20 | xg=10
+Omonia Nicosia v Benfica | n=20 | xg=10
+Olympiakos Piraeus v Sparta Praha | n=20 | xg=10
+Besiktas v Crystal Palace | n=20 | xg=10
+Lillestrom v Real Sociedad | n=20 | xg=10
+Braga v Gent | n=20 | xg=10
