@@ -1,3 +1,21 @@
-RUN 2026-10-22 19:00 local | 1 match(es)
-Flamengo v id:450 -> out/Flamengo_v_id_450.txt
-Requests used: API-Football 26, Matchbook 0
+RUN 2026-10-22 20:58 local | 19 match(es)
+Kairat Almaty v Panathinaikos -> out/Kairat_Almaty_v_Panathinaikos.txt
+Fateh v id:2940 -> out/Fateh_v_id_2940.txt
+id:3683 v AZ Alkmaar -> out/id_3683_v_AZ_Alkmaar.txt
+id:3502 v Mjallby -> out/id_3502_v_Mjallby.txt
+id:1122 v Brighton -> out/id_1122_v_Brighton.txt
+id:3872 v Brann -> out/id_3872_v_Brann.txt
+Getafe v FC Lugano -> out/Getafe_v_FC_Lugano.txt
+Lech Poznan v Sunderland -> out/Lech_Poznan_v_Sunderland.txt
+OFI v Bayer Leverkusen -> out/OFI_v_Bayer_Leverkusen.txt
+Pafos v Riga -> out/Pafos_v_Riga.txt
+Sturm Graz v Marseille -> out/Sturm_Graz_v_Marseille.txt
+Aarhus v Egnatia -> out/Aarhus_v_Egnatia.txt
+id:217 v id:631 -> out/id_217_v_id_631.txt
+Lillestrom v id:548 -> out/Lillestrom_v_id_548.txt
+Lincoln Red Imps FC v Twente -> out/Lincoln_Red_Imps_FC_v_Twente.txt
+Celje v Red Bull Salzburg -> out/Celje_v_Red_Bull_Salzburg.txt
+Olympiakos Piraeus v Sparta Praha -> out/Olympiakos_Piraeus_v_Sparta_Praha.txt
+Omonia Nicosia v id:211 -> out/Omonia_Nicosia_v_id_211.txt
+Plzen v Levski Sofia -> out/Plzen_v_Levski_Sofia.txt
+Requests used: API-Football 79, Matchbook 0
