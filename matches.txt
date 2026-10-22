@@ -1,2 +1,2 @@
-# Scan 2026-10-22 14:32, retry with hyphenated name
-Al-Jazira v Ajman | n=20 | xg=10
+# Scan 2026-10-22 14:34, retry
+Jazira v Ajman | n=20 | xg=10
