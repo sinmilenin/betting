@@ -1,2 +1,2 @@
-# Scan 2026-10-22 14:34, retry
-Jazira v Ajman | n=20 | xg=10
+# Scan 2026-10-22 14:36, Al-Jazira by id
+id:2871 v Ajman | n=20 | xg=10
