@@ -1,6 +1,3 @@
-RUN 2026-10-22 15:27 local | 3 match(es)
-Al Ahli v Al Ain -> out/Al_Ahli_v_Al_Ain.txt
-    !! Al Ahli: Ambiguous team name "Al Ahli".
-Sitra v Al Riffa -> out/Sitra_v_Al_Riffa.txt
-Birkirkara v Floriana -> out/Birkirkara_v_Floriana.txt
-Requests used: API-Football 65, Matchbook 0
+RUN 2026-10-22 15:29 local | 1 match(es)
+id:2870 v Al Ain -> out/id_2870_v_Al_Ain.txt
+Requests used: API-Football 25, Matchbook 0
