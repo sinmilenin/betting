@@ -1,2 +1,2 @@
-# Scan 2026-10-22 13:40 (regular part), retry with league-table name
-Persepam Madura Utd v Persib Bandung | n=20 | xg=10
+# Scan 2026-10-22 13:40 (top-20 run)
+Ararat-Armenia v AZ Alkmaar | n=20 | xg=10
