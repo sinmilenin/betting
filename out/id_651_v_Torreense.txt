@@ -1,13 +1,33 @@
-MATCH Ferencvaros v Torreense | fetched 2026-10-22 13:58 local
+MATCH id:651 v Torreense | fetched 2026-10-22 14:01 local
 
-FORM DATA Ferencvaros v Torreense | source API-Football | 2026-10-22 13:58 UTC
+FORM DATA id:651 v Torreense | source API-Football | 2026-10-22 14:01 UTC
 H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
 
-"Ferencvaros" matches several teams. Use id:<number> instead of the name:
-  id:651    Ferencvarosi TC (Hungary)
-  id:10888  Ferencváros W (Hungary)
-  id:11861  Ferencváros II (Hungary)
-  id:16389  Ferencváros U19 (Hungary)
+=== Ferencvarosi TC (id 651): last 20 finished games ===
+2026-10-18 A 1-1 v Kisvarda FC | NB I | Kisvarda | xG 2.74-0.94
+2026-10-15 H 2-1 v Plzen | UEFA Europa League | Budapest | xG 2.38-1.99
+2026-10-10 H 1-1 v Debreceni VSC | NB I | Budapest | xG 1.63-1.58
+2026-09-20 A 1-1 v Nyiregyhaza | NB I | Nyiregyhaza
+2026-09-17 A 3-1 v Celtic | UEFA Europa League | Glasgow
+2026-09-12 A 7-0 v DEAC | Magyar Kupa | Debrecen
+2026-09-06 H 2-2 v Ujpest | NB I | Budapest
+2026-09-03 A 3-0 v Gyori ETO FC | NB I | ?
+2026-08-30 A 2-1 v Puskas Academy | NB I | ?
+2026-08-27 H 4-0 v Trabzonspor | UEFA Europa League | Budapest
+2026-08-20 A 1-0 v Trabzonspor | UEFA Europa League | Trabzon
+2026-08-17 A 1-0 v Zalaegerszegi TE | NB I | Zalaegerszeg
+2026-08-13 A 1-1 v Gornik Zabrze | UEFA Europa League | Zabrze
+2026-08-08 H 1-2 v Real Madrid | Friendlies Clubs | Budapest
+2026-08-05 H 1-0 v Gornik Zabrze | UEFA Europa League | Budapest
+2026-08-02 H 0-0 v Vasas | NB I | Budapest
+2026-07-30 H 2-2 v Twente | UEFA Europa League | Budapest
+2026-07-26 A 2-4 v Paks | NB I | Paks
+2026-07-23 A 2-1 v Twente | UEFA Europa League | Enschede
+2026-07-16 H 3-0 v Vojvodina | UEFA Europa League | Budapest
+Listed home: 9 games, scored 16 (1.78), conceded 8 (0.89), blanks 1, clean sheets 4
+Listed away: 11 games, scored 24 (2.18), conceded 10 (0.91), blanks 0, clean sheets 4
+All: 20 games, scored 40 (2.00), conceded 18 (0.90), blanks 1, clean sheets 8
+
 === Torreense (id 4799): last 20 finished games ===
 2026-10-15 H 1-2 v Sunderland | UEFA Europa League | Leiria | xG 0.08-1.82
 2026-10-10 A 0-1 v Tondela | Segunda Liga | Tondela
@@ -33,13 +53,22 @@ Listed home: 8 games, scored 15 (1.88), conceded 9 (1.12), blanks 3, clean sheet
 Listed away: 12 games, scored 11 (0.92), conceded 12 (1.00), blanks 5, clean sheets 3
 All: 20 games, scored 26 (1.30), conceded 21 (1.05), blanks 8, clean sheets 7
 
-(retrying Ferencvaros using the opponent's country, Portugal)
-"Ferencvaros" matches several teams. Use id:<number> instead of the name:
-  id:651    Ferencvarosi TC (Hungary)
-  id:10888  Ferencváros W (Hungary)
-  id:11861  Ferencváros II (Hungary)
-  id:16389  Ferencváros U19 (Hungary)
-!! Ferencvaros: Ambiguous team name "Ferencvaros".
+TABLE FOR Ferencvarosi TC
+LEAGUE TABLE NB I 2026 | 12 teams | 59 games played
+League averages per game: home 1.73, away 1.32, total 3.05
+#   team                   Pts | home P GF-GA  | away P GF-GA  | all P GF-GA
+1   Puskas Academy          21 |  4   7-7       |  6   8-3       | 10  15-10
+2   Gyori ETO FC            18 |  5  10-6       |  5   8-6       | 10  18-12
+3   Vasas                   15 |  5  11-6       |  5   7-7       | 10  18-13
+4   Ujpest                  15 |  5  10-6       |  5   8-9       | 10  18-15
+5   Ferencvarosi TC         14 |  3   3-3       |  6  10-7       |  9  13-10
+6   Paks                    14 |  6  14-10      |  4   6-9       | 10  20-19
+7   Debreceni VSC           13 |  6   9-9       |  4   7-7       | 10  16-16
+8   MTK Budapest            12 |  6  10-8       |  4   6-9       | 10  16-17
+9   Kisvarda FC             11 |  6   5-8       |  4   6-4       | 10  11-12
+10  Budapest Honved         10 |  4   6-6       |  5   7-9       |  9  13-15
+11  Zalaegerszegi TE         9 |  4  11-4       |  6   1-17      | 10  12-21
+12  Nyiregyhaza              8 |  5   6-5       |  5   4-15      | 10  10-20
 
 TABLE FOR Torreense
 LEAGUE TABLE UEFA Europa League 2026 | 36 teams | 36 games played
@@ -82,7 +111,7 @@ League averages per game: home 1.47, away 1.39, total 2.86
 35  Celje                    0 |  1   0-3       |  1   0-2       |  2   0-5
 36  Lech Poznan              0 |  1   0-4       |  1   0-4       |  2   0-8
 
-(15 API-Football requests used)
+(26 API-Football requests used)
 
 ----------------------------------------------------------------------
 MATCHBOOK: skipped (switched off for this run)

@@ -1,12 +1,33 @@
-MATCH Jablonec v Brighton | fetched 2026-10-22 13:58 local
+MATCH id:1122 v Brighton | fetched 2026-10-22 14:01 local
 
-FORM DATA Jablonec v Brighton | source API-Football | 2026-10-22 13:58 UTC
+FORM DATA id:1122 v Brighton | source API-Football | 2026-10-22 14:01 UTC
 H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
 
-"Jablonec" matches several teams. Use id:<number> instead of the name:
-  id:1122   FK Jablonec (Czech-Republic)
-  id:12797  Jablonec II (Czech-Republic)
-  id:24187  Jablonec U19 (Czech-Republic)
+=== FK Jablonec (id 1122): last 20 finished games ===
+2026-10-18 H 2-3 v Plzen | Czech Liga | Jablonec | xG 3.16-1.11
+2026-10-15 A 2-3 v SC Freiburg | UEFA Europa Conference League | Freiburg | xG 1.18-1.87
+2026-10-10 A 1-0 v Zbrojovka Brno | Czech Liga | Brno | xG 1.26-0.56
+2026-10-02 A 1-0 v Dukla Praha | Cup | Prague
+2026-09-20 H 1-1 v Zlin | Czech Liga | Jablonec nad Nisou | xG 1.16-0.39
+2026-09-12 A 0-2 v Sparta Praha | Czech Liga | Prague | xG 0.79-1.32
+2026-09-09 H 3-0 v Baník Ostrava | Czech Liga | Jablonec nad Nisou | xG 2.87-0.85
+2026-09-06 H 1-2 v Slovan Liberec | Czech Liga | Jablonec nad Nisou | xG 2.47-0.32
+2026-09-02 A 1-1 v Bohemians 1905 | Czech Liga | Prague | xG 1.15-1.75
+2026-08-30 A 0-2 v Teplice | Czech Liga | Teplice | xG 1.15-0.79
+2026-08-27 H 1-0 v Rangers | UEFA Europa Conference League | Jablonec nad Nisou [PEN, 90-min score shown]
+2026-08-20 A 0-1 v Rangers | UEFA Europa Conference League | Glasgow
+2026-08-13 A 2-1 v Rīgas FS | UEFA Europa Conference League | Riga
+2026-08-09 H 1-0 v Slovácko | Czech Liga | Jablonec nad Nisou
+2026-08-06 H 2-0 v Rīgas FS | UEFA Europa Conference League | Jablonec nad Nisou
+2026-08-02 A 2-0 v Pardubice | Czech Liga | Pardubice
+2026-07-30 H 2-0 v NK Varazdin | UEFA Europa Conference League | Jablonec nad Nisou
+2026-07-26 H 2-1 v Sigma Olomouc | Czech Liga | Jablonec nad Nisou
+2026-07-23 A 2-3 v NK Varazdin | UEFA Europa Conference League | Varaždin
+2026-07-15 H 1-0 v FC Kharkiv | Friendlies Clubs | ?
+Listed home: 10 games, scored 16 (1.60), conceded 7 (0.70), blanks 0, clean sheets 6
+Listed away: 10 games, scored 11 (1.10), conceded 13 (1.30), blanks 3, clean sheets 3
+All: 20 games, scored 27 (1.35), conceded 20 (1.00), blanks 3, clean sheets 9
+
 === Brighton (id 51): last 20 finished games ===
 2026-10-18 H 5-0 v Crystal Palace | Premier League | Falmer | xG 2.00-0.77
 2026-10-15 H 4-0 v Kauno Žalgiris | UEFA Europa Conference League | Brighton | xG 4.02-0.04
@@ -32,12 +53,26 @@ Listed home: 12 games, scored 35 (2.92), conceded 7 (0.58), blanks 1, clean shee
 Listed away: 8 games, scored 16 (2.00), conceded 12 (1.50), blanks 2, clean sheets 3
 All: 20 games, scored 51 (2.55), conceded 19 (0.95), blanks 3, clean sheets 12
 
-(retrying Jablonec using the opponent's country, England)
-"Jablonec" matches several teams. Use id:<number> instead of the name:
-  id:1122   FK Jablonec (Czech-Republic)
-  id:12797  Jablonec II (Czech-Republic)
-  id:24187  Jablonec U19 (Czech-Republic)
-!! Jablonec: Ambiguous team name "Jablonec".
+TABLE FOR FK Jablonec
+LEAGUE TABLE Czech Liga 2026 | 16 teams | 87 games played
+League averages per game: home 1.45, away 1.23, total 2.68
+#   team                   Pts | home P GF-GA  | away P GF-GA  | all P GF-GA
+1   Slavia Praha            27 |  6  15-5       |  5  11-1       | 11  26-6
+2   Sigma Olomouc           20 |  5   9-6       |  6   9-8       | 11  18-14
+3   Slovan Liberec          20 |  5   6-4       |  6   7-3       | 11  13-7
+4   Mlada Boleslav          20 |  5  11-1       |  6   7-12      | 11  18-13
+5   Zbrojovka Brno          19 |  6   9-6       |  5   5-8       | 11  14-14
+6   Sparta Praha            19 |  5  11-5       |  6   9-7       | 11  20-12
+7   Teplice                 17 |  6  11-11      |  5   7-6       | 11  18-17
+8   FK Jablonec             17 |  6  10-7       |  5   4-5       | 11  14-12
+9   Plzen                   16 |  6  11-10      |  5  12-9       | 11  23-19
+10  Bohemians 1905          15 |  5   5-1       |  5   6-10      | 10  11-11
+11  Hradec Králové          15 |  6   8-9       |  5   2-4       | 11  10-13
+12  Pardubice               11 |  5   7-6       |  6   5-10      | 11  12-16
+13  Baník Ostrava           11 |  5   3-6       |  6   4-12      | 11   7-18
+14  Artis                    8 |  5   3-13      |  5   8-7       | 10  11-20
+15  Slovácko                 7 |  5   5-7       |  6   5-11      | 11  10-18
+16  Zlin                     1 |  6   2-10      |  5   6-13      | 11   8-23
 
 TABLE FOR Brighton
 LEAGUE TABLE Premier League 2026 | 20 teams | 70 games played
@@ -64,7 +99,7 @@ League averages per game: home 1.61, away 1.29, total 2.90
 19  Nottingham Forest        5 |  4   0-3       |  3   5-6       |  7   5-9
 20  Sunderland               4 |  3   1-4       |  4   5-10      |  7   6-14
 
-(15 API-Football requests used)
+(26 API-Football requests used)
 
 ----------------------------------------------------------------------
 MATCHBOOK: skipped (switched off for this run)

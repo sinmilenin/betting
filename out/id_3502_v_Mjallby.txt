@@ -1,11 +1,33 @@
-MATCH Iberia 1999 v Mjallby | fetched 2026-10-22 13:58 local
+MATCH id:3502 v Mjallby | fetched 2026-10-22 14:01 local
 
-FORM DATA Iberia 1999 v Mjallby | source API-Football | 2026-10-22 13:58 UTC
+FORM DATA id:3502 v Mjallby | source API-Football | 2026-10-22 14:01 UTC
 H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
 
-"Iberia 1999" matches several teams. Use id:<number> instead of the name:
-  id:3502   FC Iberia 1999 (Georgia)
-  id:14863  FC Iberia 1999 II (Georgia)
+=== FC Iberia 1999 (id 3502): last 20 finished games ===
+2026-10-19 A 2-0 v Dila | Erovnuli Liga | Gori
+2026-10-15 A 0-2 v St. Truiden | UEFA Europa Conference League | Sint-Truiden | xG 0.15-1.73
+2026-10-10 A 2-1 v Meshakhte | Erovnuli Liga | Tkibuli
+2026-10-04 H 1-2 v Dinamo Tbilisi | Erovnuli Liga | Tbilisi
+2026-09-21 A 2-0 v Rustavi | Erovnuli Liga | Tbilisi
+2026-09-17 H 2-1 v Dila | Erovnuli Liga | Tbilisi
+2026-09-13 H 1-0 v Spaeri | Erovnuli Liga | Tbilisi
+2026-09-09 A 0-2 v Dinamo Batumi | Erovnuli Liga | Batumi
+2026-09-05 H 2-1 v Samgurali | Erovnuli Liga | Tbilisi
+2026-09-02 A 0-2 v Samtredia | David Kipiani Cup | ?
+2026-08-31 A 0-2 v Gagra | Erovnuli Liga | Tbilisi
+2026-08-27 H 1-2 v Jagiellonia | UEFA Europa League | Tbilisi
+2026-08-20 A 0-4 v Jagiellonia | UEFA Europa League | Bialystok
+2026-08-15 A 3-4 v Torpedo Kutaisi | Erovnuli Liga | Kutaisi
+2026-08-11 H 1-1 v Larne | UEFA Europa League | Tbilisi [AET, 90-min score shown]
+2026-08-04 A 0-0 v Larne | UEFA Europa League | Larne
+2026-07-29 A 1-1 v Slovan Bratislava | UEFA Champions League | Bratislava
+2026-07-24 A 3-1 v Margveti 2006 | David Kipiani Cup | ?
+2026-07-21 H 0-2 v Slovan Bratislava | UEFA Champions League | Tbilisi
+2026-07-14 H 2-2 v Flora Tallinn | UEFA Champions League | Tbilisi
+Listed home: 8 games, scored 10 (1.25), conceded 11 (1.38), blanks 1, clean sheets 1
+Listed away: 12 games, scored 13 (1.08), conceded 19 (1.58), blanks 6, clean sheets 3
+All: 20 games, scored 23 (1.15), conceded 30 (1.50), blanks 7, clean sheets 4
+
 === Mjallby AIF (id 2240): last 20 finished games ===
 2026-10-18 A 0-1 v Vasteras SK FK | Allsvenskan | Westeros | xG 0.88-1.51
 2026-10-15 H 2-0 v Inter Club d'Escaldes | UEFA Europa Conference League | Helsingborg | xG 1.45-0.46
@@ -31,11 +53,20 @@ Listed home: 11 games, scored 12 (1.09), conceded 17 (1.55), blanks 5, clean she
 Listed away: 9 games, scored 3 (0.33), conceded 15 (1.67), blanks 6, clean sheets 1
 All: 20 games, scored 15 (0.75), conceded 32 (1.60), blanks 11, clean sheets 4
 
-(retrying Iberia 1999 using the opponent's country, Sweden)
-"Iberia 1999" matches several teams. Use id:<number> instead of the name:
-  id:3502   FC Iberia 1999 (Georgia)
-  id:14863  FC Iberia 1999 II (Georgia)
-!! Iberia 1999: Ambiguous team name "Iberia 1999".
+TABLE FOR FC Iberia 1999
+LEAGUE TABLE Erovnuli Liga 2026 | 10 teams | 145 games played
+League averages per game: home 1.42, away 1.26, total 2.68
+#   team                   Pts | home P GF-GA  | away P GF-GA  | all P GF-GA
+1   Dinamo Batumi           53 | 14  27-18      | 15  23-19      | 29  50-37
+2   Rustavi                 52 | 14  21-11      | 15  15-13      | 29  36-24
+3   FC Iberia 1999          52 | 14  18-12      | 15  24-19      | 29  42-31
+4   Dinamo Tbilisi          51 | 15  24-17      | 14  24-15      | 29  48-32
+5   Dila                    40 | 15  20-16      | 14  19-19      | 29  39-35
+6   Samgurali               38 | 15  23-20      | 14  20-32      | 29  43-52
+7   Torpedo Kutaisi         37 | 15  25-19      | 14  21-19      | 29  46-38
+8   Gagra                   29 | 15  16-19      | 14  10-24      | 29  26-43
+9   Spaeri                  26 | 14  24-26      | 15  14-23      | 29  38-49
+10  Meshakhte               17 | 14   8-25      | 15  13-23      | 29  21-48
 
 TABLE FOR Mjallby AIF
 LEAGUE TABLE Allsvenskan 2026 | 16 teams | 192 games played
@@ -58,7 +89,7 @@ League averages per game: home 1.61, away 1.32, total 2.93
 15  Orgryte IS              18 | 12  21-22      | 12   8-32      | 24  29-54
 16  Halmstad                14 | 12   9-19      | 12   7-26      | 24  16-45
 
-(15 API-Football requests used)
+(26 API-Football requests used)
 
 ----------------------------------------------------------------------
 MATCHBOOK: skipped (switched off for this run)

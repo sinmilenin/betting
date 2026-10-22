@@ -1,7 +1,14 @@
-MATCH Inter Club Escaldes v Universitatea Craiova | fetched 2026-10-22 13:58 local
+MATCH Inter Escaldes v Universitatea Craiova | fetched 2026-10-22 14:01 local
 
-FORM DATA Inter Club Escaldes v Universitatea Craiova | source API-Football | 2026-10-22 13:58 UTC
+FORM DATA Inter Escaldes v Universitatea Craiova | source API-Football | 2026-10-22 14:01 UTC
 H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
+
+=== Inter Escaldes U19 (id 26814): last 2 finished games ===
+2025-10-01 A 0-5 v Skënderbeu U19 | UEFA Youth League | ?
+2025-09-17 H 0-10 v Skënderbeu U19 | UEFA Youth League | Andorra la Vella
+Listed home: 1 games, scored 0 (0.00), conceded 10 (10.00), blanks 1, clean sheets 0
+Listed away: 1 games, scored 0 (0.00), conceded 5 (5.00), blanks 1, clean sheets 0
+All: 2 games, scored 0 (0.00), conceded 15 (7.50), blanks 2, clean sheets 0
 
 === Universitatea Craiova (id 632): last 20 finished games ===
 2026-10-18 H 2-0 v Farul Constanta | Liga I | Craiova | xG 1.74-0.61
@@ -28,7 +35,7 @@ Listed home: 10 games, scored 24 (2.40), conceded 7 (0.70), blanks 1, clean shee
 Listed away: 10 games, scored 12 (1.20), conceded 11 (1.10), blanks 2, clean sheets 3
 All: 20 games, scored 36 (1.80), conceded 18 (0.90), blanks 3, clean sheets 7
 
-!! Inter Club Escaldes: No team found for "Inter Club Escaldes".
+(no league table available for Inter Escaldes U19: tried UEFA Youth League 2025)
 
 TABLE FOR Universitatea Craiova
 LEAGUE TABLE Liga I 2026 | 16 teams | 96 games played
@@ -51,7 +58,7 @@ League averages per game: home 1.73, away 0.91, total 2.64
 15  FC Voluntari             8 |  7   8-10      |  5   4-17      | 12  12-27
 16  Csikszereda              2 |  5   3-9       |  7   4-16      | 12   7-25
 
-(14 API-Football requests used)
+(18 API-Football requests used)
 
 ----------------------------------------------------------------------
 MATCHBOOK: skipped (switched off for this run)
