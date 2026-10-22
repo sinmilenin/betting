@@ -1,2 +1,2 @@
-# Night scan 2026-10-22 20:56 (Ljubljana)
-Flamengo v Estudiantes | n=20 | xg=10
+# Night scan 2026-10-22 20:56 (Ljubljana) run 2: Estudiantes matched Aruba club, retry Estudiantes L.P. id:450
+Flamengo v id:450 | n=20 | xg=10
