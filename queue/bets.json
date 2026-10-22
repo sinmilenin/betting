@@ -449,5 +449,38 @@
     "lay": 14,
     "stake": 3,
     "created": "2026-10-22T17:46:12Z"
+  },
+  {
+    "id": "2026-10-22_besiktas-crystal-palace_0-2",
+    "date": "2026-10-22",
+    "ko": "21:00",
+    "match": "Besiktas v Crystal Palace",
+    "comp": "International, UEFA Europa League",
+    "cell": "0-2",
+    "lay": 18,
+    "stake": 3,
+    "created": "2026-10-22T18:32:12Z"
+  },
+  {
+    "id": "2026-10-22_besiktas-crystal-palace_1-2",
+    "date": "2026-10-22",
+    "ko": "21:00",
+    "match": "Besiktas v Crystal Palace",
+    "comp": "International, UEFA Europa League",
+    "cell": "1-2",
+    "lay": 11.5,
+    "stake": 3,
+    "created": "2026-10-22T18:32:12Z"
+  },
+  {
+    "id": "2026-10-22_agf-egnatia-rrogozhine_3-0",
+    "date": "2026-10-22",
+    "ko": "21:00",
+    "match": "AGF v Egnatia Rrogozhine",
+    "comp": "International, UEFA Conference League",
+    "cell": "3-0",
+    "lay": 13,
+    "stake": 3,
+    "created": "2026-10-22T18:32:12Z"
   }
 ]
