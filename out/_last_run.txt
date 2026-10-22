@@ -1,12 +1,4 @@
-RUN 2026-10-22 05:45 local | 10 match(es)
-id:496 v Rennes -> out/id_496_v_Rennes.txt
-id:598 v FC Copenhagen -> out/id_598_v_FC_Copenhagen.txt
-Trabzonspor v id:254 -> out/Trabzonspor_v_id_254.txt
-Lincoln Red Imps FC v Twente -> out/Lincoln_Red_Imps_FC_v_Twente.txt
-id:167 v Lyon -> out/id_167_v_Lyon.txt
-Omonia Nicosia v id:211 -> out/Omonia_Nicosia_v_id_211.txt
-id:549 v Crystal Palace -> out/id_549_v_Crystal_Palace.txt
-id:1393 v Hapoel Beer Sheva -> out/id_1393_v_Hapoel_Beer_Sheva.txt
-Lillestrom v id:548 -> out/Lillestrom_v_id_548.txt
-id:217 v id:631 -> out/id_217_v_id_631.txt
-Requests used: API-Football 258, Matchbook 0
+RUN 2026-10-22 11:43 local | 1 match(es)
+Madura United v Persib Bandung -> out/Madura_United_v_Persib_Bandung.txt
+    !! Madura United: No team found for "Madura United".
+Requests used: API-Football 14, Matchbook 0
