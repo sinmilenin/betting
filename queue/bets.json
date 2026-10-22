@@ -361,5 +361,71 @@
     "lay": 18.5,
     "stake": 3,
     "created": "2026-10-22T15:34:30Z"
+  },
+  {
+    "id": "2026-10-22_agf-egnatia-rrogozhine_1-0",
+    "date": "2026-10-22",
+    "ko": "21:00",
+    "match": "AGF v Egnatia Rrogozhine",
+    "comp": "International, UEFA Conference League",
+    "cell": "1-0",
+    "lay": 9.4,
+    "stake": 3,
+    "created": "2026-10-22T16:21:11Z"
+  },
+  {
+    "id": "2026-10-22_agf-egnatia-rrogozhine_2-0",
+    "date": "2026-10-22",
+    "ko": "21:00",
+    "match": "AGF v Egnatia Rrogozhine",
+    "comp": "International, UEFA Conference League",
+    "cell": "2-0",
+    "lay": 9.2,
+    "stake": 3,
+    "created": "2026-10-22T16:21:11Z"
+  },
+  {
+    "id": "2026-10-22_ararat-armenia-az-alkmaar_0-2",
+    "date": "2026-10-22",
+    "ko": "18:45",
+    "match": "Ararat Armenia v Az Alkmaar",
+    "comp": "International, UEFA Europa League",
+    "cell": "0-2",
+    "lay": 8.6,
+    "stake": 3,
+    "created": "2026-10-22T16:21:11Z"
+  },
+  {
+    "id": "2026-10-22_plzen-pfc-levski-sofia_1-0",
+    "date": "2026-10-22",
+    "ko": "21:00",
+    "match": "Plzen v PFC Levski Sofia",
+    "comp": "International, UEFA Europa League",
+    "cell": "1-0",
+    "lay": 9.0,
+    "stake": 3,
+    "created": "2026-10-22T16:21:11Z"
+  },
+  {
+    "id": "2026-10-22_plzen-pfc-levski-sofia_2-0",
+    "date": "2026-10-22",
+    "ko": "21:00",
+    "match": "Plzen v PFC Levski Sofia",
+    "comp": "International, UEFA Europa League",
+    "cell": "2-0",
+    "lay": 11.0,
+    "stake": 3,
+    "created": "2026-10-22T16:21:11Z"
+  },
+  {
+    "id": "2026-10-22_plzen-pfc-levski-sofia_3-0",
+    "date": "2026-10-22",
+    "ko": "21:00",
+    "match": "Plzen v PFC Levski Sofia",
+    "comp": "International, UEFA Europa League",
+    "cell": "3-0",
+    "lay": 18.5,
+    "stake": 3,
+    "created": "2026-10-22T16:21:11Z"
   }
 ]
