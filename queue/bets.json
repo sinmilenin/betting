@@ -22,17 +22,6 @@
     "created": "2026-10-23T05:51:30Z"
   },
   {
-    "id": "2026-10-23_al-arabi-kuwait-nejmeh_0-1",
-    "date": "2026-10-23",
-    "ko": "13:00",
-    "match": "Al Arabi Kuwait v Nejmeh",
-    "comp": "International, AFC Challenge League",
-    "cell": "0-1",
-    "lay": 9,
-    "stake": 3,
-    "created": "2026-10-23T10:17:25Z"
-  },
-  {
     "id": "2026-10-23_nk-slovenska-bistrica-nk-bilje_0-1",
     "date": "2026-10-23",
     "ko": "15:00",
@@ -108,5 +97,27 @@
     "lay": 11.5,
     "stake": 3,
     "created": "2026-10-23T16:23:30Z"
+  },
+  {
+    "id": "2026-10-23_fc-hunedoara-universitatea-cluj_2-2",
+    "date": "2026-10-23",
+    "ko": "20:00",
+    "match": "FC Hunedoara v Universitatea Cluj",
+    "comp": "Romania, Romanian Liga I",
+    "cell": "2-2",
+    "lay": 16,
+    "stake": 3,
+    "created": "2026-10-23T17:01:52+00:00"
+  },
+  {
+    "id": "2026-10-23_waterford-drogheda_2-1",
+    "date": "2026-10-23",
+    "ko": "20:45",
+    "match": "Waterford v Drogheda",
+    "comp": "Ireland, Irish Premier Division",
+    "cell": "2-1",
+    "lay": 9.4,
+    "stake": 3,
+    "created": "2026-10-23T17:01:52+00:00"
   }
 ]
