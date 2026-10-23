@@ -1,3 +1,13 @@
-# Results check 2026-10-22 23:06 (Ljubljana): settling remaining ledger rows
-id:549 v Crystal Palace | n=2 | xg=0
-Celtic v Celta Vigo | n=2 | xg=0
+# Scan 2026-10-23 07:45 (Ljubljana): top-20 run
+Brisbane Roar v Perth Glory | n=20 | xg=10
+Al Faisaly v Al Nassr | n=20 | xg=10
+Al Ittihad Aleppo v Paro | n=20 | xg=10
+Bochum v Wolfsburg | n=20 | xg=10
+Hvidovre v HB Koge | n=20 | xg=10
+Go Ahead Eagles v Telstar | n=20 | xg=10
+Stuttgart v Borussia Monchengladbach | n=20 | xg=10
+Brest v Nice | n=20 | xg=10
+Torino v Monza | n=20 | xg=10
+Bolton v Middlesbrough | n=20 | xg=10
+Ipswich v Nottingham Forest | n=20 | xg=10
+Alaves v Malaga | n=20 | xg=10
