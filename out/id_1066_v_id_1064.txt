@@ -1,11 +1,33 @@
-MATCH Gimnasia M v id:1064 | fetched 2026-10-23 19:01 local
+MATCH id:1066 v id:1064 | fetched 2026-10-23 19:02 local
 
-FORM DATA Gimnasia M v id:1064 | source API-Football | 2026-10-23 19:01 UTC
+FORM DATA id:1066 v id:1064 | source API-Football | 2026-10-23 19:02 UTC
 H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
 
-"Gimnasia M" matches several teams. Use id:<number> instead of the name:
-  id:1066   Gimnasia M. (Argentina)
-  id:27272  Gimnasia Mendoza 2 (Argentina)
+=== Gimnasia M. (id 1066): last 20 finished games ===
+2026-10-17 A 0-1 v Velez Sarsfield | Liga Profesional Argentina | Buenos Aires | xG 0.73-1.50
+2026-10-12 H 1-0 v Newells Old Boys | Liga Profesional Argentina | Mendoza | xG 0.29-2.24
+2026-10-05 A 0-3 v Estudiantes L.P. | Liga Profesional Argentina | La Plata | xG 1.05-2.82
+2026-09-19 H 0-0 v Deportivo Riestra | Liga Profesional Argentina | Mendoza | xG 0.79-0.38
+2026-09-11 A 0-2 v Defensa Y Justicia | Liga Profesional Argentina | Gobernador Julio A. Costa | xG 0.73-1.06
+2026-09-05 H 2-2 v Boca Juniors | Liga Profesional Argentina | Mendoza | xG 1.80-1.78
+2026-08-30 A 3-0 v Independiente | Liga Profesional Argentina | Avellaneda | xG 0.65-0.89
+2026-08-22 A 3-2 v Gimnasia L.P. | Liga Profesional Argentina | La Plata | xG 1.98-1.48
+2026-08-18 H 3-1 v Talleres Cordoba | Liga Profesional Argentina | Mendoza | xG 2.46-1.47
+2026-08-09 A 0-1 v Instituto Cordoba | Liga Profesional Argentina | Cordoba | xG 0.30-2.28
+2026-08-01 H 2-0 v Union Santa Fe | Liga Profesional Argentina | Mendoza
+2026-07-28 A 0-1 v San Lorenzo | Liga Profesional Argentina | Buenos Aires
+2026-07-24 H 1-0 v Central Cordoba de Santiago | Liga Profesional Argentina | Mendoza
+2026-05-04 H 2-1 v Defensa Y Justicia | Liga Profesional Argentina | Mendoza
+2026-04-26 A 1-5 v Independ. Rivadavia | Liga Profesional Argentina | Mendoza
+2026-04-21 H 1-0 v Lanus | Liga Profesional Argentina | Mendoza
+2026-04-15 H 0-0 v Gimnasia Y Tiro | Copa Argentina | ? [PEN, 90-min score shown]
+2026-04-12 A 1-1 v Platense | Liga Profesional Argentina | Buenos Aires
+2026-04-03 H 3-2 v Velez Sarsfield | Liga Profesional Argentina | Mendoza
+2026-03-21 A 0-1 v Newells Old Boys | Liga Profesional Argentina | Rosario
+Listed home: 10 games, scored 15 (1.50), conceded 6 (0.60), blanks 2, clean sheets 6
+Listed away: 10 games, scored 8 (0.80), conceded 17 (1.70), blanks 6, clean sheets 1
+All: 20 games, scored 23 (1.15), conceded 23 (1.15), blanks 8, clean sheets 7
+
 === Platense (id 1064): last 20 finished games ===
 2026-10-17 H 0-1 v Lanus | Liga Profesional Argentina | Buenos Aires | xG 1.29-1.08
 2026-10-11 H 1-1 v Argentinos JRS | Liga Profesional Argentina | Buenos Aires | xG 1.59-0.41
@@ -31,13 +53,7 @@ Listed home: 11 games, scored 10 (0.91), conceded 14 (1.27), blanks 3, clean she
 Listed away: 9 games, scored 9 (1.00), conceded 10 (1.11), blanks 3, clean sheets 3
 All: 20 games, scored 19 (0.95), conceded 24 (1.20), blanks 6, clean sheets 4
 
-(retrying Gimnasia M using the opponent's country, Argentina)
-"Gimnasia M" matches several teams. Use id:<number> instead of the name:
-  id:1066   Gimnasia M. (Argentina)
-  id:27272  Gimnasia Mendoza 2 (Argentina)
-!! Gimnasia M: Ambiguous team name "Gimnasia M".
-
-TABLE FOR Platense
+TABLE FOR Gimnasia M.
 LEAGUE TABLE Liga Profesional Argentina 2026 | 60 teams | 435 games played
 League averages per game: home 1.20, away 0.95, total 2.15
 #   team                   Pts | home P GF-GA  | away P GF-GA  | all P GF-GA
@@ -102,7 +118,9 @@ League averages per game: home 1.20, away 0.95, total 2.15
 14  Estudiantes de Rio Cua   9 |  7   4-6       |  6   4-11      | 13   8-17 [Clausura - Group B]
 15  Aldosivi                 8 |  6   7-9       |  7   7-13      | 13  14-22 [Clausura - Group B]
 
-(15 API-Football requests used)
+(Platense: same table as Gimnasia M., shown above)
+
+(25 API-Football requests used)
 
 ----------------------------------------------------------------------
 MATCHBOOK: skipped (switched off for this run)
