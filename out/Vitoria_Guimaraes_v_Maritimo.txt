@@ -1,10 +1,9 @@
-MATCH Guimaraes v Maritimo | fetched 2026-10-23 11:42 local
+MATCH Vitoria Guimaraes v Maritimo | fetched 2026-10-23 11:44 local
 
-FORM DATA Guimaraes v Maritimo | source API-Football | 2026-10-23 11:43 UTC
+FORM DATA Vitoria Guimaraes v Maritimo | source API-Football | 2026-10-23 11:44 UTC
 H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
 
-"Guimaraes" matches several teams. Use id:<number> instead of the name:
-  id:232    Guimaraes B (Portugal)
+"Vitoria Guimaraes" matches several teams. Use id:<number> instead of the name:
   id:15471  Vitória Guimarães U23 (Portugal)
   id:22520  Vitoria Guimaraes U19 (Portugal)
   id:26784  Vitoria Guimaraes W (Portugal)
@@ -33,13 +32,12 @@ Listed home: 12 games, scored 14 (1.17), conceded 19 (1.58), blanks 3, clean she
 Listed away: 8 games, scored 9 (1.12), conceded 11 (1.38), blanks 2, clean sheets 0
 All: 20 games, scored 23 (1.15), conceded 30 (1.50), blanks 5, clean sheets 4
 
-(retrying Guimaraes using the opponent's country, Portugal)
-"Guimaraes" matches several teams. Use id:<number> instead of the name:
-  id:232    Guimaraes B (Portugal)
+(retrying Vitoria Guimaraes using the opponent's country, Portugal)
+"Vitoria Guimaraes" matches several teams. Use id:<number> instead of the name:
   id:15471  Vitória Guimarães U23 (Portugal)
   id:22520  Vitoria Guimaraes U19 (Portugal)
   id:26784  Vitoria Guimaraes W (Portugal)
-!! Guimaraes: Ambiguous team name "Guimaraes".
+!! Vitoria Guimaraes: Ambiguous team name "Vitoria Guimaraes".
 
 TABLE FOR Maritimo
 LEAGUE TABLE Primeira Liga 2026 | 18 teams | 72 games played
