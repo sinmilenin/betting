@@ -1,3 +1,2 @@
-# Scan 2026-10-23 10:00 (Ljubljana): regular scan, team-name retry
-Veres Rivne v Kolos Kovalivka | n=20 | xg=10
-Polessya v id:3630 | n=20 | xg=10
+# Scan 2026-10-23 10:42 (Ljubljana): regular scan
+Dynamo Kyiv v Kudrivka | n=20 | xg=10
