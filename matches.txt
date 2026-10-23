@@ -1,3 +1,13 @@
-# Scan 2026-10-23 18:56 (Ljubljana) run 1: first analyses
-FC Volendam v Jong Utrecht | n=20 | xg=10
-Corvinul Hunedoara v Universitatea Cluj | n=20 | xg=10
+# Scan 2026-10-23 19:41 (Ljubljana) run 1: first analyses
+Clermont v Guingamp | n=20 | xg=10
+Dunkerque v Metz | n=20 | xg=10
+Pau v Grenoble | n=20 | xg=10
+Jong AZ v Helmond Sport | n=20 | xg=10
+De Graafschap v RKC Waalwijk | n=20 | xg=10
+FC Oss v Jong Ajax | n=20 | xg=10
+FC Eindhoven v Jong PSV | n=20 | xg=10
+UTC Cajamarca v Melgar | n=20 | xg=10
+NAC Breda v Heracles | n=20 | xg=10
+FC Den Bosch v MVV | n=20 | xg=10
+Sochaux v Annecy | n=20 | xg=10
+Atletico Grau v ADT | n=20 | xg=10
