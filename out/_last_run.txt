@@ -1,15 +1,7 @@
-RUN 2026-10-23 16:16 local | 7 match(es)
-Kapfenberg v St. Polten -> out/Kapfenberg_v_St_Polten.txt
-    !! Kapfenberg: Ambiguous team name "Kapfenberg".
-    !! St. Polten: API-Football error: {"search": "The Search field may only contain alpha-numeric characters and spaces."}
-Amstetten v Rapid Wien II -> out/Amstetten_v_Rapid_Wien_II.txt
-Randers v Brondby -> out/Randers_v_Brondby.txt
-    !! Randers: Ambiguous team name "Randers".
-Altach v Austria Wien -> out/Altach_v_Austria_Wien.txt
-    !! Altach: Ambiguous team name "Altach".
-    !! Austria Wien: Ambiguous team name "Austria Wien".
-Galway United v St Patrick's Athletic -> out/Galway_United_v_St_Patrick_s_Athletic.txt
-    !! St Patrick's Athletic: API-Football error: {"search": "The Search field may only contain alpha-numeric characters and spaces."}
-Derry City v Dundalk -> out/Derry_City_v_Dundalk.txt
-Waterford v Drogheda United -> out/Waterford_v_Drogheda_United.txt
-Requests used: API-Football 106, Matchbook 0
+RUN 2026-10-23 16:20 local | 4 match(es)
+Kapfenberger SV v SKN St Polten -> out/Kapfenberger_SV_v_SKN_St_Polten.txt
+    !! SKN St Polten: No team found for "SKN St Polten".
+id:401 v Brondby -> out/id_401_v_Brondby.txt
+SCR Altach v Austria Vienna -> out/SCR_Altach_v_Austria_Vienna.txt
+Galway United v id:3843 -> out/Galway_United_v_id_3843.txt
+Requests used: API-Football 89, Matchbook 0

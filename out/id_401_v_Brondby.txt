@@ -1,11 +1,33 @@
-MATCH Randers v Brondby | fetched 2026-10-23 16:16 local
+MATCH id:401 v Brondby | fetched 2026-10-23 16:20 local
 
-FORM DATA Randers v Brondby | source API-Football | 2026-10-23 16:16 UTC
+FORM DATA id:401 v Brondby | source API-Football | 2026-10-23 16:20 UTC
 H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
 
-"Randers" matches several teams. Use id:<number> instead of the name:
-  id:401    Randers FC (Denmark)
-  id:11636  Randers Freja (Denmark)
+=== Randers FC (id 401): last 20 finished games ===
+2026-10-16 A 0-0 v AC Horsens | Superliga | Horsens | xG 1.82-0.76
+2026-10-11 H 0-2 v Viborg | Superliga | Landers | xG 1.02-2.18
+2026-10-02 H 0-1 v Aalborg | Friendlies Clubs | ?
+2026-09-20 A 2-4 v Sonderjyske | Superliga | Haderslev | xG 1.57-1.36
+2026-09-16 A 3-1 v Vendsyssel FF | DBU Pokalen | ?
+2026-09-13 H 1-2 v Odense | Superliga | Randers | xG 1.68-1.14
+2026-09-06 A 3-0 v Brondby | Superliga | Brondby | xG 0.85-1.19
+2026-08-30 H 2-1 v Aarhus | Superliga | Randers | xG 1.10-1.97
+2026-08-23 A 0-1 v FC Midtjylland | Superliga | Herning | xG 1.03-1.28
+2026-08-19 A 4-0 v ASA Aarhus | DBU Pokalen | ?
+2026-08-16 H 0-4 v FC Copenhagen | Superliga | Randers
+2026-08-09 H 2-0 v Lyngby | Superliga | Randers
+2026-08-02 A 0-1 v FC Nordsjaelland | Superliga | Farum
+2026-07-27 H 1-1 v Silkeborg | Superliga | Randers
+2026-07-18 A 2-2 v Lechia Gdansk | Friendlies Clubs | ?
+2026-07-14 H 3-1 v Notts County | Friendlies Clubs | ?
+2026-07-08 A 2-2 v Aalborg | Friendlies Clubs | ?
+2026-07-03 A 2-2 v Vejle | Friendlies Clubs | ?
+2026-06-26 H 2-4 v Sonderjyske | Friendlies Clubs | ?
+2026-05-17 A 0-5 v FC Copenhagen | Superliga | Copenhagen
+Listed home: 9 games, scored 11 (1.22), conceded 16 (1.78), blanks 3, clean sheets 1
+Listed away: 11 games, scored 18 (1.64), conceded 18 (1.64), blanks 4, clean sheets 3
+All: 20 games, scored 29 (1.45), conceded 34 (1.70), blanks 7, clean sheets 4
+
 === Brondby (id 407): last 20 finished games ===
 2026-10-18 A 1-2 v Odense | Superliga | Odense | xG 2.58-0.78
 2026-10-11 H 5-2 v Lyngby | Superliga | Copenhagen | xG 2.38-0.77
@@ -31,13 +53,7 @@ Listed home: 12 games, scored 29 (2.42), conceded 17 (1.42), blanks 3, clean she
 Listed away: 8 games, scored 12 (1.50), conceded 15 (1.88), blanks 0, clean sheets 1
 All: 20 games, scored 41 (2.05), conceded 32 (1.60), blanks 3, clean sheets 3
 
-(retrying Randers using the opponent's country, Denmark)
-"Randers" matches several teams. Use id:<number> instead of the name:
-  id:401    Randers FC (Denmark)
-  id:11636  Randers Freja (Denmark)
-!! Randers: Ambiguous team name "Randers".
-
-TABLE FOR Brondby
+TABLE FOR Randers FC
 LEAGUE TABLE Superliga 2026 | 12 teams | 66 games played
 League averages per game: home 1.61, away 1.41, total 3.02
 #   team                   Pts | home P GF-GA  | away P GF-GA  | all P GF-GA
@@ -54,7 +70,9 @@ League averages per game: home 1.61, away 1.41, total 3.02
 11  Sonderjyske              8 |  6  12-13      |  5   4-11      | 11  16-24
 12  Lyngby                   8 |  6   8-12      |  5   7-12      | 11  15-24
 
-(15 API-Football requests used)
+(Brondby: same table as Randers FC, shown above)
+
+(25 API-Football requests used)
 
 ----------------------------------------------------------------------
 MATCHBOOK: skipped (switched off for this run)
