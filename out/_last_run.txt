@@ -1,4 +1,6 @@
-RUN 2026-10-23 12:29 local | 2 match(es)
-East Riffa v Muharraq -> out/East_Riffa_v_Muharraq.txt
-id:2581 v id:2598 -> out/id_2581_v_id_2598.txt
-Requests used: API-Football 50, Matchbook 0
+RUN 2026-10-23 13:15 local | 3 match(es)
+Ben Guerdane v Stade Tunisien -> out/Ben_Guerdane_v_Stade_Tunisien.txt
+Al Salt v Al Ramtha -> out/Al_Salt_v_Al_Ramtha.txt
+Al Ittihad v Al Diriyah -> out/Al_Ittihad_v_Al_Diriyah.txt
+    !! Al Ittihad: Ambiguous team name "Al Ittihad".
+Requests used: API-Football 65, Matchbook 0

@@ -1,0 +1,76 @@
+MATCH Al Salt v Al Ramtha | fetched 2026-10-23 13:15 local
+
+FORM DATA Al Salt v Al Ramtha | source API-Football | 2026-10-23 13:15 UTC
+H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
+
+=== Al Salt (id 4535): last 20 finished games ===
+2026-10-16 A 0-0 v Al Buqa'a | League | ?
+2026-10-10 H 0-1 v Al Faisaly | League | ?
+2026-09-17 A 0-2 v Doqarah | League | ?
+2026-09-12 H 0-0 v Al Wihdat | League | ?
+2026-09-05 A 3-1 v Al Arabi | League | ?
+2026-05-07 A 1-1 v Al Jazeera | League | ?
+2026-05-03 H 1-1 v Al Wihdat | League | ?
+2026-04-26 A 3-1 v Al Buqa'a | League | ?
+2026-04-21 H 0-3 v Al Wihdat | Cup | ?
+2026-04-17 H 0-1 v Al Faisaly | League | Amman
+2026-04-09 H 1-0 v Sama Al Sarhan | League | ?
+2026-04-04 A 0-5 v Al Hussein | League | ?
+2026-03-17 H 2-3 v Al Ramtha | League | ?
+2026-03-12 A 1-1 v Al Ahli | League | ?
+2026-03-07 A 3-0 v Shabab Al Ordon | League | ?
+2026-03-03 A 1-0 v Al Ramtha | League | ?
+2026-02-26 A 1-2 v Al Wihdat | League | Amman
+2026-02-19 H 0-4 v Al Jazeera | League | ?
+2026-02-12 A 1-1 v Al Ahli | League | ?
+2026-02-08 H 2-1 v Sama Al Sarhan | League | ?
+Listed home: 9 games, scored 6 (0.67), conceded 14 (1.56), blanks 5, clean sheets 2
+Listed away: 11 games, scored 14 (1.27), conceded 14 (1.27), blanks 3, clean sheets 3
+All: 20 games, scored 20 (1.00), conceded 28 (1.40), blanks 8, clean sheets 5
+
+=== Al Ramtha (id 4534): last 20 finished games ===
+2026-10-17 A 1-4 v Al Faisaly | League | ?
+2026-10-10 H 0-0 v Doqarah | League | ?
+2026-09-18 A 1-0 v Al Wihdat | League | ?
+2026-09-12 H 1-0 v Al Arabi | League | ?
+2026-09-04 A 1-1 v Shabab Al Ordon | League | ?
+2026-08-22 H 0-5 v Al Hussein | Super Cup | Amman
+2026-05-16 H 0-3 v Al Hussein | Cup | Amman
+2026-05-12 A 1-1 v Al Faisaly | Cup | Amman [PEN, 90-min score shown]
+2026-05-07 H 5-2 v Al Buqa'a | League | ?
+2026-05-03 A 2-3 v Al Faisaly | League | Amman
+2026-04-27 H 2-0 v Sama Al Sarhan | League | ?
+2026-04-15 A 0-3 v Al Hussein | League | ?
+2026-04-07 A 1-0 v Shabab Al Ordon | League | ?
+2026-04-03 H 1-1 v Al Ahli | League | ?
+2026-03-17 A 3-2 v Al Salt | League | ?
+2026-03-13 H 1-2 v Al Jazeera | League | ?
+2026-03-08 H 1-1 v Al Wihdat | League | ?
+2026-03-03 H 0-1 v Al Salt | League | ?
+2026-02-25 A 0-1 v Al Jazeera | League | ?
+2026-02-19 H 2-2 v Al Ahli | League | ?
+Listed home: 11 games, scored 13 (1.18), conceded 17 (1.55), blanks 4, clean sheets 3
+Listed away: 9 games, scored 10 (1.11), conceded 15 (1.67), blanks 2, clean sheets 2
+All: 20 games, scored 23 (1.15), conceded 32 (1.60), blanks 6, clean sheets 5
+
+TABLE FOR Al Salt
+LEAGUE TABLE League 2026 | 10 teams | 26 games played
+League averages per game: home 0.92, away 1.15, total 2.08
+#   team                   Pts | home P GF-GA  | away P GF-GA  | all P GF-GA
+1   Al Faisaly              13 |  2   6-1       |  3   5-0       |  5  11-1
+2   Al Jazeera               8 |  2   1-2       |  3  10-1       |  5  11-3
+3   Al Wihdat                8 |  3   1-1       |  2   1-0       |  5   2-1
+4   Al Buqa'a                8 |  3   1-4       |  2   3-0       |  5   4-4
+5   Al Ramtha                8 |  2   1-0       |  3   3-5       |  5   4-5
+6   Al Hussein               8 |  4   5-6       |  2   3-4       |  6   8-10
+7   Al Salt                  5 |  2   0-1       |  3   3-3       |  5   3-4
+8   Al Arabi                 4 |  3   2-3       |  2   1-5       |  5   3-8
+9   Doqarah                  4 |  2   3-5       |  4   0-4       |  6   3-9
+10  Shabab Al Ordon          3 |  3   4-7       |  2   1-2       |  5   5-9
+
+(Al Ramtha: same table as Al Salt, shown above)
+
+(25 API-Football requests used)
+
+----------------------------------------------------------------------
+MATCHBOOK: skipped (switched off for this run)

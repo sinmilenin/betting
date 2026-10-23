@@ -1,0 +1,72 @@
+MATCH Al Ittihad v Al Diriyah | fetched 2026-10-23 13:15 local
+
+FORM DATA Al Ittihad v Al Diriyah | source API-Football | 2026-10-23 13:16 UTC
+H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
+
+"Al Ittihad" matches several teams. Use id:<number> instead of the name:
+  id:1572   Al Ittihad (Egypt)
+  id:5581   Al Ittihad (Bahrain)
+  id:8019   Al Ittihad (Syria)
+  id:23354  Al Ittihad Ibb (Yemen)
+  id:27714  Al Ittihad W (Saudi-Arabia)
+=== Al Diriyah (id 26738): last 20 finished games ===
+2026-10-20 H 1-0 v Al Riyadh | Pro League | Riyadh | xG 1.41-0.90
+2026-10-17 H 1-1 v Al Taawon | Pro League | Riyadh | xG 2.04-1.02
+2026-10-09 A 0-3 v Al-Nassr | Pro League | Riyadh | xG 0.77-3.26
+2026-09-13 H 0-0 v Abha | Pro League | Riyadh | xG 1.35-0.68
+2026-09-09 A 2-1 v Al-Fateh | Pro League | Al-Hofuf | xG 2.53-1.28
+2026-09-03 H 0-2 v Al-Qadisiyah FC | Pro League | Riyadh | xG 1.01-1.17
+2026-08-29 A 3-0 v Al-Ettifaq | Pro League | Dammam | xG 2.33-1.35
+2026-08-26 H 1-1 v Al Kholood | Pro League | Riyadh | xG 0.56-1.41
+2026-08-21 A 1-0 v Al-Hazm | Pro League | Ar Rass | xG 1.35-0.26
+2026-08-18 H 1-4 v Al-Nassr | King's Cup | Riyadh
+2026-08-13 H 0-1 v Al-Ahli Jeddah | Pro League | Riyadh
+2026-07-23 H 2-0 v FA 2000 | Friendlies Clubs | ?
+2026-07-18 A 4-1 v Trelleborg | Friendlies Clubs | ?
+2026-05-23 H 1-1 v Al Ula | Division 1 | Riyadh [AET, 90-min score shown]
+2026-05-18 H 3-0 v Al Jabalain | Division 1 | Riyadh
+2026-05-14 H 3-2 v Al Bukayriyah | Division 1 | Riyadh
+2026-05-09 A 2-4 v Al Anwar | Division 1 | Hotat Bani Tamim
+2026-05-01 H 2-0 v Abha | Division 1 | Riyadh
+2026-04-26 A 2-1 v Al Jubail | Division 1 | Qatif
+2026-04-21 H 1-3 v Al-Raed | Division 1 | Riyadh
+Listed home: 13 games, scored 16 (1.23), conceded 15 (1.15), blanks 3, clean sheets 5
+Listed away: 7 games, scored 14 (2.00), conceded 10 (1.43), blanks 1, clean sheets 2
+All: 20 games, scored 30 (1.50), conceded 25 (1.25), blanks 4, clean sheets 7
+
+(retrying Al Ittihad using the opponent's country, Saudi-Arabia)
+"Al Ittihad" matches several teams. Use id:<number> instead of the name:
+  id:1572   Al Ittihad (Egypt)
+  id:5581   Al Ittihad (Bahrain)
+  id:8019   Al Ittihad (Syria)
+  id:23354  Al Ittihad Ibb (Yemen)
+  id:27714  Al Ittihad W (Saudi-Arabia)
+!! Al Ittihad: Ambiguous team name "Al Ittihad".
+
+TABLE FOR Al Diriyah
+LEAGUE TABLE Pro League 2026 | 18 teams | 87 games played
+League averages per game: home 1.41, away 1.45, total 2.86
+#   team                   Pts | home P GF-GA  | away P GF-GA  | all P GF-GA
+1   Al-Qadisiyah FC         25 |  5  11-8       |  5  13-1       | 10  24-9
+2   Al-Hilal Saudi FC       24 |  5  11-6       |  4  16-1       |  9  27-7
+3   Al-Nassr                22 |  5  11-2       |  4   9-5       |  9  20-7
+4   Al-Ittihad FC           20 |  4   8-5       |  5  10-5       |  9  18-10
+5   Al-Ahli Jeddah          18 |  3  12-1       |  6  11-11      |  9  23-12
+6   NEOM                    16 |  5   9-6       |  5   5-3       | 10  14-9
+7   Al Diriyah              15 |  6   3-5       |  4   6-4       | 10   9-9
+8   Al-Ettifaq              15 |  6   8-13      |  4   6-3       | 10  14-16
+9   Al Kholood              12 |  4   8-9       |  5   6-9       |  9  14-18
+10  Al Khaleej Saihat       12 |  5   4-6       |  5   5-7       | 10   9-13
+11  Al Shabab               11 |  6   9-10      |  4   5-4       | 10  14-14
+12  Al-Hazm                 10 |  6   7-8       |  5   5-8       | 11  12-16
+13  Al Riyadh                9 |  3   3-4       |  6   6-14      |  9   9-18
+14  Al-Fayha                 8 |  5   8-11      |  6   4-8       | 11  12-19
+15  Al-Faisaly FC            7 |  5   5-8       |  4   5-9       |  9  10-17
+16  Al-Fateh                 6 |  6   4-13      |  5   6-10      | 11  10-23
+17  Al Taawon                4 |  5   0-7       |  5   4-10      | 10   4-17
+18  Abha                     2 |  3   2-4       |  5   4-11      |  8   6-15
+
+(15 API-Football requests used)
+
+----------------------------------------------------------------------
+MATCHBOOK: skipped (switched off for this run)
