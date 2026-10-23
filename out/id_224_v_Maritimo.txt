@@ -1,12 +1,33 @@
-MATCH Vitoria Guimaraes v Maritimo | fetched 2026-10-23 11:44 local
+MATCH id:224 v Maritimo | fetched 2026-10-23 11:45 local
 
-FORM DATA Vitoria Guimaraes v Maritimo | source API-Football | 2026-10-23 11:44 UTC
+FORM DATA id:224 v Maritimo | source API-Football | 2026-10-23 11:45 UTC
 H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
 
-"Vitoria Guimaraes" matches several teams. Use id:<number> instead of the name:
-  id:15471  Vitória Guimarães U23 (Portugal)
-  id:22520  Vitoria Guimaraes U19 (Portugal)
-  id:26784  Vitoria Guimaraes W (Portugal)
+=== Vitória SC (id 224): last 20 finished games ===
+2026-10-17 A 1-0 v Recreativa de Lamelas | Taça de Portugal | ?
+2026-10-11 A 0-2 v Benfica | Primeira Liga | Lisbon | xG 0.43-2.76
+2026-09-25 A 1-0 v Chaves | Friendlies Clubs | ?
+2026-09-20 H 1-1 v Moreirense | Primeira Liga | Guimarães | xG 1.07-0.52
+2026-09-12 A 1-2 v Academico Viseu | Primeira Liga | Viseu | xG 2.10-1.83
+2026-09-06 H 0-0 v Casa Pia | Primeira Liga | Guimaraes | xG 2.48-0.21
+2026-08-31 A 0-1 v SC Braga | Primeira Liga | Braga | xG 0.47-0.93
+2026-08-23 H 1-0 v Nacional | Primeira Liga | Guimaraes | xG 3.14-0.42
+2026-08-14 A 2-3 v Sporting CP | Primeira Liga | Lisbon | xG 1.24-1.14
+2026-08-08 H 0-1 v Arouca | Primeira Liga | Guimaraes | xG 2.28-0.43
+2026-08-01 H 2-0 v Chaves | Friendlies Clubs | ?
+2026-07-26 H 1-1 v Nottingham Forest | Friendlies Clubs | ?
+2026-07-24 A 3-1 v Al-Ahli Jeddah | Friendlies Clubs | ?
+2026-07-18 H 2-0 v Academica | Friendlies Clubs | ?
+2026-07-18 H 5-0 v Penafiel | Friendlies Clubs | ?
+2026-07-11 H 3-1 v Felgueiras 1932 | Friendlies Clubs | ?
+2026-05-16 A 0-2 v Nacional | Primeira Liga | Funchal
+2026-05-11 H 0-1 v Casa Pia | Primeira Liga | Guimarães
+2026-05-04 A 1-5 v Sporting CP | Primeira Liga | Lisbon
+2026-04-25 H 2-0 v Rio Ave | Primeira Liga | Guimarães
+Listed home: 11 games, scored 17 (1.55), conceded 5 (0.45), blanks 3, clean sheets 6
+Listed away: 9 games, scored 9 (1.00), conceded 16 (1.78), blanks 3, clean sheets 2
+All: 20 games, scored 26 (1.30), conceded 21 (1.05), blanks 6, clean sheets 8
+
 === Maritimo (id 214): last 20 finished games ===
 2026-10-18 A 2-1 v Alcochetense | Taça de Portugal | ?
 2026-10-10 H 1-2 v FC Porto | Primeira Liga | Funchal | xG 0.19-2.13
@@ -32,14 +53,7 @@ Listed home: 12 games, scored 14 (1.17), conceded 19 (1.58), blanks 3, clean she
 Listed away: 8 games, scored 9 (1.12), conceded 11 (1.38), blanks 2, clean sheets 0
 All: 20 games, scored 23 (1.15), conceded 30 (1.50), blanks 5, clean sheets 4
 
-(retrying Vitoria Guimaraes using the opponent's country, Portugal)
-"Vitoria Guimaraes" matches several teams. Use id:<number> instead of the name:
-  id:15471  Vitória Guimarães U23 (Portugal)
-  id:22520  Vitoria Guimaraes U19 (Portugal)
-  id:26784  Vitoria Guimaraes W (Portugal)
-!! Vitoria Guimaraes: Ambiguous team name "Vitoria Guimaraes".
-
-TABLE FOR Maritimo
+TABLE FOR Vitória SC
 LEAGUE TABLE Primeira Liga 2026 | 18 teams | 72 games played
 League averages per game: home 1.31, away 1.44, total 2.75
 #   team                   Pts | home P GF-GA  | away P GF-GA  | all P GF-GA
@@ -62,7 +76,9 @@ League averages per game: home 1.31, away 1.44, total 2.75
 17  Casa Pia                 4 |  4   1-13      |  4   2-4       |  8   3-17
 18  Estoril                  2 |  4   2-5       |  4   2-7       |  8   4-12
 
-(16 API-Football requests used)
+(Maritimo: same table as Vitória SC, shown above)
+
+(26 API-Football requests used)
 
 ----------------------------------------------------------------------
 MATCHBOOK: skipped (switched off for this run)

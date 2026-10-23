@@ -1,7 +1,5 @@
-RUN 2026-10-23 11:44 local | 3 match(es)
-id:181 v St Pauli -> out/id_181_v_St_Pauli.txt
-    !! St Pauli: No team found for "St Pauli".
-Vitoria Guimaraes v Maritimo -> out/Vitoria_Guimaraes_v_Maritimo.txt
-    !! Vitoria Guimaraes: Ambiguous team name "Vitoria Guimaraes".
-Empoli v id:1584 -> out/Empoli_v_id_1584.txt
-Requests used: API-Football 55, Matchbook 0
+RUN 2026-10-23 11:45 local | 3 match(es)
+id:181 v id:186 -> out/id_181_v_id_186.txt
+id:224 v Maritimo -> out/id_224_v_Maritimo.txt
+id:715 v Valladolid -> out/id_715_v_Valladolid.txt
+Requests used: API-Football 76, Matchbook 0
