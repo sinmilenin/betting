@@ -119,5 +119,181 @@
     "lay": 9.4,
     "stake": 3,
     "created": "2026-10-23T17:01:52+00:00"
+  },
+  {
+    "id": "2026-10-23_dunkerque-metz_0-2",
+    "date": "2026-10-23",
+    "ko": "20:00",
+    "match": "Dunkerque v Metz",
+    "comp": "France, French Ligue 2",
+    "cell": "0-2",
+    "lay": 17.5,
+    "stake": 3,
+    "created": "2026-10-23T19:47:36+02:00"
+  },
+  {
+    "id": "2026-10-23_dunkerque-metz_1-2",
+    "date": "2026-10-23",
+    "ko": "20:00",
+    "match": "Dunkerque v Metz",
+    "comp": "France, French Ligue 2",
+    "cell": "1-2",
+    "lay": 11.5,
+    "stake": 3,
+    "created": "2026-10-23T19:47:36+02:00"
+  },
+  {
+    "id": "2026-10-23_dunkerque-metz_2-2",
+    "date": "2026-10-23",
+    "ko": "20:00",
+    "match": "Dunkerque v Metz",
+    "comp": "France, French Ligue 2",
+    "cell": "2-2",
+    "lay": 15.0,
+    "stake": 3,
+    "created": "2026-10-23T19:47:36+02:00"
+  },
+  {
+    "id": "2026-10-23_pau-grenoble_1-0",
+    "date": "2026-10-23",
+    "ko": "20:00",
+    "match": "Pau v Grenoble",
+    "comp": "France, French Ligue 2",
+    "cell": "1-0",
+    "lay": 7.8,
+    "stake": 3,
+    "created": "2026-10-23T19:47:36+02:00"
+  },
+  {
+    "id": "2026-10-23_jong-az-alkmaar-helmond-sport_2-2",
+    "date": "2026-10-23",
+    "ko": "20:00",
+    "match": "Jong AZ Alkmaar v Helmond Sport",
+    "comp": "Netherlands, Dutch Eerste Divisie",
+    "cell": "2-2",
+    "lay": 14,
+    "stake": 3,
+    "created": "2026-10-23T19:47:36+02:00"
+  },
+  {
+    "id": "2026-10-23_nancy-laval_1-0",
+    "date": "2026-10-23",
+    "ko": "20:00",
+    "match": "Nancy v Laval",
+    "comp": "France, French Ligue 2",
+    "cell": "1-0",
+    "lay": 9.6,
+    "stake": 3,
+    "created": "2026-10-23T19:47:36+02:00"
+  },
+  {
+    "id": "2026-10-23_nancy-laval_2-1",
+    "date": "2026-10-23",
+    "ko": "20:00",
+    "match": "Nancy v Laval",
+    "comp": "France, French Ligue 2",
+    "cell": "2-1",
+    "lay": 9.4,
+    "stake": 3,
+    "created": "2026-10-23T19:47:36+02:00"
+  },
+  {
+    "id": "2026-10-23_fc-hunedoara-universitatea-cluj_0-1",
+    "date": "2026-10-23",
+    "ko": "20:00",
+    "match": "FC Hunedoara v Universitatea Cluj",
+    "comp": "Romania, Romanian Liga I",
+    "cell": "0-1",
+    "lay": 12.5,
+    "stake": 3,
+    "created": "2026-10-23T19:47:36+02:00"
+  },
+  {
+    "id": "2026-10-23_fc-hunedoara-universitatea-cluj_1-2",
+    "date": "2026-10-23",
+    "ko": "20:00",
+    "match": "FC Hunedoara v Universitatea Cluj",
+    "comp": "Romania, Romanian Liga I",
+    "cell": "1-2",
+    "lay": 12,
+    "stake": 3,
+    "created": "2026-10-23T19:47:36+02:00"
+  },
+  {
+    "id": "2026-10-23_fc-oss-jong-ajax-amsterdam_2-2",
+    "date": "2026-10-23",
+    "ko": "20:00",
+    "match": "FC Oss v Jong Ajax Amsterdam",
+    "comp": "Netherlands, Dutch Eerste Divisie",
+    "cell": "2-2",
+    "lay": 14,
+    "stake": 3,
+    "created": "2026-10-23T19:47:36+02:00"
+  },
+  {
+    "id": "2026-10-23_fc-eindhoven-jong-psv-eindhoven_2-2",
+    "date": "2026-10-23",
+    "ko": "20:00",
+    "match": "FC Eindhoven v Jong PSV Eindhoven",
+    "comp": "Netherlands, Dutch Eerste Divisie",
+    "cell": "2-2",
+    "lay": 14,
+    "stake": 3,
+    "created": "2026-10-23T19:47:36+02:00"
+  },
+  {
+    "id": "2026-10-23_sochaux-annecy_2-2",
+    "date": "2026-10-23",
+    "ko": "20:00",
+    "match": "Sochaux v Annecy",
+    "comp": "France, French Ligue 2",
+    "cell": "2-2",
+    "lay": 18.5,
+    "stake": 3,
+    "created": "2026-10-23T19:47:36+02:00"
+  },
+  {
+    "id": "2026-10-23_clermont-guingamp_0-2",
+    "date": "2026-10-23",
+    "ko": "20:00",
+    "match": "Clermont v Guingamp",
+    "comp": "France, French Ligue 2",
+    "cell": "0-2",
+    "lay": 14.5,
+    "stake": 3,
+    "created": "2026-10-23T19:47:36+02:00"
+  },
+  {
+    "id": "2026-10-23_clermont-guingamp_1-2",
+    "date": "2026-10-23",
+    "ko": "20:00",
+    "match": "Clermont v Guingamp",
+    "comp": "France, French Ligue 2",
+    "cell": "1-2",
+    "lay": 11,
+    "stake": 3,
+    "created": "2026-10-23T19:47:36+02:00"
+  },
+  {
+    "id": "2026-10-23_clermont-guingamp_2-2",
+    "date": "2026-10-23",
+    "ko": "20:00",
+    "match": "Clermont v Guingamp",
+    "comp": "France, French Ligue 2",
+    "cell": "2-2",
+    "lay": 17.5,
+    "stake": 3,
+    "created": "2026-10-23T19:47:36+02:00"
+  },
+  {
+    "id": "2026-10-23_clermont-guingamp_aoaw",
+    "date": "2026-10-23",
+    "ko": "20:00",
+    "match": "Clermont v Guingamp",
+    "comp": "France, French Ligue 2",
+    "cell": "AOAW",
+    "lay": 19,
+    "stake": 3,
+    "created": "2026-10-23T19:47:36+02:00"
   }
 ]
