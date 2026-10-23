@@ -1,6 +1,6 @@
-MATCH Veres Rivne v Kolos Kovalyovka | fetched 2026-10-23 07:58 local
+MATCH Veres Rivne v Kolos Kovalivka | fetched 2026-10-23 07:59 local
 
-FORM DATA Veres Rivne v Kolos Kovalyovka | source API-Football | 2026-10-23 07:58 UTC
+FORM DATA Veres Rivne v Kolos Kovalivka | source API-Football | 2026-10-23 07:59 UTC
 H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
 
 === Veres Rivne (id 6501): last 20 finished games ===
@@ -28,7 +28,30 @@ Listed home: 11 games, scored 14 (1.27), conceded 17 (1.55), blanks 2, clean she
 Listed away: 9 games, scored 8 (0.89), conceded 12 (1.33), blanks 4, clean sheets 3
 All: 20 games, scored 22 (1.10), conceded 29 (1.45), blanks 6, clean sheets 4
 
-!! Kolos Kovalyovka: No team found for "Kolos Kovalyovka".
+=== Kolos Kovalivka (id 3627): last 20 finished games ===
+2026-10-17 A 1-2 v Shakhtar Donetsk | Premier League | Lviv
+2026-10-10 H 3-1 v Epitsentr Dunayivtsi | Premier League | Kovalivka | xG 1.33-1.45
+2026-10-04 H 1-2 v Zorya Luhansk | Friendlies Clubs | ?
+2026-09-20 A 3-2 v Kudrivka | Premier League | Rivne
+2026-09-16 H 2-3 v Karpaty | Cup | Kovalivka
+2026-09-11 H 0-2 v Karpaty | Premier League | Kovalivka | xG 1.13-2.39
+2026-09-05 A 2-2 v Kryvbas KR | Premier League | Kryvyi Rih
+2026-08-28 H 0-0 v Obolon'-Brovar | Premier League | Kovalivka
+2026-08-22 A 3-0 v UCSA | Cup | Kovalivka
+2026-08-16 A 1-2 v Dynamo Kyiv | Premier League | Kyiv
+2026-07-31 A 0-2 v Zorya Luhansk | Premier League | Kyiv
+2026-07-25 H 2-1 v Chornomorets | Friendlies Clubs | ?
+2026-07-18 H 2-1 v Oleksandria | Friendlies Clubs | ?
+2026-07-17 H 2-0 v Kudrivka | Friendlies Clubs | ?
+2026-07-10 A 3-2 v Veres Rivne | Friendlies Clubs | ?
+2026-07-04 H 4-0 v Kolos Kovalivka II | Friendlies Clubs | ?
+2026-05-21 A 1-0 v Shakhtar Donetsk | Premier League | Lviv
+2026-05-17 H 0-2 v Obolon'-Brovar | Premier League | Kovalivka
+2026-05-13 A 1-2 v Dynamo Kyiv | Premier League | Kyiv
+2026-05-08 H 1-0 v Kudrivka | Premier League | Kovalivka
+Listed home: 11 games, scored 17 (1.55), conceded 12 (1.09), blanks 3, clean sheets 4
+Listed away: 9 games, scored 15 (1.67), conceded 14 (1.56), blanks 1, clean sheets 2
+All: 20 games, scored 32 (1.60), conceded 26 (1.30), blanks 4, clean sheets 6
 
 TABLE FOR Veres Rivne
 LEAGUE TABLE Premier League 2026 | 16 teams | 68 games played
@@ -51,7 +74,9 @@ League averages per game: home 1.44, away 1.06, total 2.50
 15  Kudrivka                 5 |  4   6-7       |  5   4-14      |  9  10-21
 16  Kryvbas KR               5 |  4   4-10      |  3   3-3       |  7   7-13
 
-(14 API-Football requests used)
+(Kolos Kovalivka: same table as Veres Rivne, shown above)
+
+(25 API-Football requests used)
 
 ----------------------------------------------------------------------
 MATCHBOOK: skipped (switched off for this run)
