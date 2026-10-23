@@ -1,0 +1,78 @@
+MATCH DPMM v Johor Darul Takzim | fetched 2026-10-23 10:59 local
+
+FORM DATA DPMM v Johor Darul Takzim | source API-Football | 2026-10-23 10:59 UTC
+H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
+
+=== DPMM FC Brunei (id 4202): last 20 finished games ===
+2026-10-18 H 3-2 v Kuching FA | Super League | B. S. Begawan
+2026-10-11 A 1-0 v Kuala Lumpur FA | FA Cup | Kuala Lumpur
+2026-09-20 H 3-3 v Kuala Lumpur FA | FA Cup | B. S. Begawan
+2026-09-16 A 3-1 v Terengganu | FA Cup | Terengganu
+2026-09-13 A 2-1 v Sabah FA | Super League | Kota Kinabalu
+2026-09-09 H 2-3 v Terengganu | FA Cup | B. S. Begawan
+2026-09-04 A 0-3 v Johor Darul Takzim FC | Super League | Johor Bahru
+2026-08-29 A 0-1 v Kuala Lumpur FA | Super League | Kuala Lumpur
+2026-08-23 A 1-0 v Penang | Super League | Pulau Pinang
+2026-07-31 A 0-2 v Arema FC | Piala Presiden | Malang
+2026-07-28 H 0-1 v Persib Bandung | Piala Presiden | B. S. Begawan
+2026-07-25 H 2-2 v Tampines Rovers | Piala Presiden | B. S. Begawan
+2026-05-15 A 1-2 v Penang | Super League | Pulau Pinang
+2026-05-09 H 0-1 v Sabah FA | Super League | B. S. Begawan
+2026-05-03 A 1-3 v Imigresen | Super League | Kangar
+2026-04-25 H 2-2 v Kuching FA | Super League | B. S. Begawan
+2026-04-12 A 2-2 v Negeri Sembilan | Super League | Paroi
+2026-03-15 H 0-3 v Johor Darul Takzim FC | Super League | B. S. Begawan
+2026-02-27 A 3-0 v Kelantan United | Super League | Kota Bharu
+2026-02-22 A 0-4 v Kuala Lumpur FA | Super League | Kuala Lumpur
+Listed home: 8 games, scored 12 (1.50), conceded 17 (2.12), blanks 3, clean sheets 0
+Listed away: 12 games, scored 14 (1.17), conceded 19 (1.58), blanks 4, clean sheets 3
+All: 20 games, scored 26 (1.30), conceded 36 (1.80), blanks 7, clean sheets 3
+
+=== Johor Darul Takzim FC (id 2523): last 20 finished games ===
+2026-10-18 A 3-0 v Terengganu | Super League | Terengganu
+2026-10-13 A 2-0 v Pohang Steelers | AFC Champions League Elite | Pohang | xG 2.46-0.35
+2026-10-09 H 4-1 v Penang | FA Cup | Johor Bahru
+2026-10-08 H 6-0 v Svay Rieng | ASEAN Club Championship | Johor Bahru
+2026-09-20 A 7-2 v Penang | FA Cup | Pulau Pinang
+2026-09-15 H 1-1 v Buriram United | AFC Champions League Elite | Iskandar Puteri | xG 1.91-0.49
+2026-09-11 H 3-0 v Negeri Sembilan | Super League | Johor Bahru
+2026-09-08 H 10-0 v Damansara | FA Cup | Johor Bahru
+2026-09-04 H 3-0 v DPMM FC Brunei | Super League | Johor Bahru
+2026-09-01 A 4-1 v Damansara | FA Cup | Kuala Lumpur
+2026-08-29 H 7-0 v Imigresen | Super League | Johor Bahru
+2026-08-26 H 9-0 v Kelantan Red Warrior FC | Super League | Johor Bahru
+2026-08-21 H 3-0 v Kuching FA | Super League | Johor Bahru
+2026-08-09 H 3-3 v Chelsea | Friendlies Clubs | Johor Bahru
+2026-07-31 H 2-0 v FC Cartagena | Friendlies Clubs | ?
+2026-07-24 A 0-0 v Elche | Friendlies Clubs | ?
+2026-07-19 A 2-3 v Al-Ettifaq | Friendlies Clubs | ?
+2026-05-23 H 2-0 v Kuching FA | Malaysia Cup | Kuala Lumpur
+2026-05-13 A 2-0 v Buriram United | ASEAN Club Championship | Buriram [AET, 90-min score shown]
+2026-05-10 A 14-1 v Kelantan United | Super League | Kota Bharu
+Listed home: 12 games, scored 53 (4.42), conceded 5 (0.42), blanks 0, clean sheets 9
+Listed away: 8 games, scored 34 (4.25), conceded 7 (0.88), blanks 1, clean sheets 4
+All: 20 games, scored 87 (4.35), conceded 12 (0.60), blanks 1, clean sheets 13
+
+TABLE FOR DPMM FC Brunei
+LEAGUE TABLE Super League 2026 | 12 teams | 32 games played
+League averages per game: home 2.09, away 1.59, total 3.69
+#   team                   Pts | home P GF-GA  | away P GF-GA  | all P GF-GA
+1   Johor Darul Takzim FC   18 |  5  25-0       |  1   3-0       |  6  28-0
+2   Selangor                15 |  3   9-3       |  2   7-1       |  5  16-4
+3   Kuching FA              12 |  0   0-0       |  6  17-7       |  6  17-7
+4   DPMM FC Brunei           9 |  1   3-2       |  4   3-5       |  5   6-7
+5   Sabah FA                 7 |  4   6-5       |  1   1-1       |  5   7-6
+6   Melaka                   6 |  3   6-5       |  2   2-6       |  5   8-11
+7   Kuala Lumpur FA          6 |  2   1-6       |  4   5-10      |  6   6-16
+8   Negeri Sembilan          5 |  3   6-3       |  2   1-5       |  5   7-8
+9   Terengganu               5 |  4   3-6       |  1   1-1       |  5   4-7
+10  Imigresen                5 |  1   1-1       |  4   8-14      |  5   9-15
+11  Penang                   4 |  2   3-3       |  3   1-5       |  5   4-8
+12  Kelantan Red Warrior F   0 |  4   4-17      |  2   2-12      |  6   6-29
+
+(Johor Darul Takzim FC: same table as DPMM FC Brunei, shown above)
+
+(25 API-Football requests used)
+
+----------------------------------------------------------------------
+MATCHBOOK: skipped (switched off for this run)
