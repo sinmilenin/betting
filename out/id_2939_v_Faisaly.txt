@@ -1,6 +1,6 @@
-MATCH id:2939 v Al Faisaly FC | fetched 2026-10-23 05:48 local
+MATCH id:2939 v Faisaly | fetched 2026-10-23 05:49 local
 
-FORM DATA id:2939 v Al Faisaly FC | source API-Football | 2026-10-23 05:48 UTC
+FORM DATA id:2939 v Faisaly | source API-Football | 2026-10-23 05:49 UTC
 H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
 
 === Al-Nassr (id 2939): last 20 finished games ===
@@ -28,7 +28,35 @@ Listed home: 10 games, scored 19 (1.90), conceded 8 (0.80), blanks 2, clean shee
 Listed away: 10 games, scored 22 (2.20), conceded 18 (1.80), blanks 1, clean sheets 2
 All: 20 games, scored 41 (2.05), conceded 26 (1.30), blanks 3, clean sheets 5
 
-!! Al Faisaly FC: No team found for "Al Faisaly FC".
+"Faisaly" matches several teams. Use id:<number> instead of the name:
+  id:2930   Al-Faisaly FC (Saudi-Arabia)
+  id:4531   Al Faisaly (Jordan)
+(retrying Faisaly using the opponent's country, Saudi-Arabia)
+NOTE: "Faisaly" matched 2 teams; picked Al-Faisaly FC (Saudi-Arabia) because the opponent is from Saudi-Arabia. Others: Al Faisaly (Jordan)
+=== Al-Faisaly FC (id 2930): last 20 finished games ===
+2026-10-19 A 2-2 v Al Shabab | Pro League | Riyadh | xG 1.56-1.31
+2026-10-15 H 3-2 v Al Kholood | Pro League | Madimaa | xG 1.87-2.80
+2026-09-11 H 1-3 v Al-Ittihad FC | Pro League | Al Majmaah | xG 1.11-1.29
+2026-09-08 A 0-0 v Al-Ettifaq | Pro League | Dammam | xG 0.11-0.72
+2026-09-05 H 0-0 v Al-Hazm | Pro League | Al Majmaah | xG 0.87-1.10
+2026-08-30 A 1-3 v Al-Qadisiyah FC | Pro League | Dammam | xG 0.71-2.46
+2026-08-26 H 1-1 v Al-Fateh | Pro League | Al Majmaah | xG 1.39-1.72
+2026-08-21 H 0-2 v NEOM | Pro League | Al Majmaah | xG 0.60-1.30
+2026-08-18 H 1-3 v NEOM | King's Cup | ?
+2026-08-14 A 2-4 v Al-Hilal Saudi FC | Pro League | Riyadh | xG 1.82-4.50
+2026-08-01 A 3-1 v Beltinci | Friendlies Clubs | ?
+2026-05-14 H 4-0 v Al Baten | Division 1 | ?
+2026-05-09 A 2-0 v Al Bukayriyah | Division 1 | ?
+2026-05-02 H 2-0 v Al Jabalain | Division 1 | ?
+2026-04-27 A 2-1 v Al-Raed | Division 1 | Buraidah
+2026-04-22 A 4-0 v Jeddah Club | Division 1 | Jeddah
+2026-04-15 H 3-0 v Al Taee | Division 1 | ?
+2026-04-10 A 1-0 v Al Orubah | Division 1 | Sakakah
+2026-04-02 H 2-1 v Al Jubail | Division 1 | ?
+2026-03-07 H 2-2 v Al Diriyah | Division 1 | ?
+Listed home: 11 games, scored 19 (1.73), conceded 14 (1.27), blanks 2, clean sheets 4
+Listed away: 9 games, scored 17 (1.89), conceded 11 (1.22), blanks 1, clean sheets 4
+All: 20 games, scored 36 (1.80), conceded 25 (1.25), blanks 3, clean sheets 8
 
 TABLE FOR Al-Nassr
 LEAGUE TABLE Pro League 2026 | 18 teams | 87 games played
@@ -53,7 +81,9 @@ League averages per game: home 1.41, away 1.45, total 2.86
 17  Al Taawon                4 |  5   0-7       |  5   4-10      | 10   4-17
 18  Abha                     2 |  3   2-4       |  5   4-11      |  8   6-15
 
-(14 API-Football requests used)
+(Al-Faisaly FC: same table as Al-Nassr, shown above)
+
+(26 API-Football requests used)
 
 ----------------------------------------------------------------------
 MATCHBOOK: skipped (switched off for this run)

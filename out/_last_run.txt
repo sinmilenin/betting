@@ -1,6 +1,4 @@
-RUN 2026-10-23 05:48 local | 2 match(es)
-id:2939 v Al Faisaly FC -> out/id_2939_v_Al_Faisaly_FC.txt
-    !! Al Faisaly FC: No team found for "Al Faisaly FC".
-Al Ittihad v Paro -> out/Al_Ittihad_v_Paro.txt
-    !! Al Ittihad: Ambiguous team name "Al Ittihad".
-Requests used: API-Football 30, Matchbook 0
+RUN 2026-10-23 05:49 local | 2 match(es)
+id:2939 v Faisaly -> out/id_2939_v_Faisaly.txt
+id:8019 v Paro -> out/id_8019_v_Paro.txt
+Requests used: API-Football 53, Matchbook 0
