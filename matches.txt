@@ -1,4 +1,2 @@
-# Scan 2026-10-23 15:14 (Ljubljana): new analyses
-Ben Guerdane v Stade Tunisien | n=20 | xg=10
-Al Salt v Al Ramtha | n=20 | xg=10
-Al Ittihad v Al Diriyah | n=20 | xg=10
+# Scan 2026-10-23 15:14 (Ljubljana): retry Al-Ittihad (Jeddah) by id
+id:2938 v Al Diriyah | n=20 | xg=10
