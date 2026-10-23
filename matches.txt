@@ -1,2 +1,2 @@
-# Night scan 2026-10-23 20:57 (Ljubljana) run 3: Gimnasia Mendoza first team lookup (run 2 rejected "Gimnasia M.")
-Gimnasia M v id:1064 | n=20 | xg=10
+# Night scan 2026-10-23 20:57 (Ljubljana) run 4: Gimnasia Mendoza by id (id:1066, first team)
+id:1066 v id:1064 | n=20 | xg=10
