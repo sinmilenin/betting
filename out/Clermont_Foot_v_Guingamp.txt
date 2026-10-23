@@ -1,14 +1,33 @@
-MATCH Clermont v Guingamp | fetched 2026-10-23 17:43 local
+MATCH Clermont Foot v Guingamp | fetched 2026-10-23 17:44 local
 
-FORM DATA Clermont v Guingamp | source API-Football | 2026-10-23 17:43 UTC
+FORM DATA Clermont Foot v Guingamp | source API-Football | 2026-10-23 17:44 UTC
 H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
 
-"Clermont" matches several teams. Use id:<number> instead of the name:
-  id:99     Clermont Foot (France)
-  id:9970   Clermont II (France)
-  id:13664  Racing Clermontois (France)
-  id:20575  Liancourt Clermont (France)
-  id:28402  Clermont U19 (France)
+=== Clermont Foot (id 99): last 20 finished games ===
+2026-10-16 A 3-3 v Laval | Ligue 2 | Laval
+2026-10-10 H 2-3 v RED Star FC 93 | Ligue 2 | Clermont-Ferrand
+2026-10-02 A 3-4 v Auxerre | Friendlies Clubs | ?
+2026-09-18 A 1-1 v Grenoble | Ligue 2 | Grenoble
+2026-09-11 H 0-0 v Boulogne | Ligue 2 | Clermont-Ferrand
+2026-09-04 A 1-1 v Dunkerque | Ligue 2 | Dunkerque
+2026-08-28 H 0-0 v Sochaux | Ligue 2 | Clermont-Ferrand
+2026-08-21 H 1-1 v Dijon | Ligue 2 | Clermont-Ferrand
+2026-08-14 A 1-3 v Saint Etienne | Ligue 2 | Saint Etienne
+2026-08-08 H 0-0 v Reims | Ligue 2 | Clermont-Ferrand
+2026-08-01 H 1-1 v Grenoble | Friendlies Clubs | ?
+2026-07-25 H 0-1 v Montpellier | Friendlies Clubs | ?
+2026-07-22 H 1-1 v Quevilly | Friendlies Clubs | ?
+2026-07-18 H 4-1 v Andrézieux | Friendlies Clubs | ?
+2026-07-15 H 0-0 v Bourges Foot 18 | Friendlies Clubs | ?
+2026-07-11 H 1-0 v Orleans | Friendlies Clubs | ?
+2026-05-09 H 1-0 v Guingamp | Ligue 2 | Clermont-Ferrand
+2026-05-02 A 2-1 v Montpellier | Ligue 2 | Montpellier
+2026-04-24 H 1-1 v Bastia | Ligue 2 | Clermont-Ferrand
+2026-04-17 A 0-1 v Le Mans | Ligue 2 | Le Mans
+Listed home: 13 games, scored 12 (0.92), conceded 9 (0.69), blanks 5, clean sheets 6
+Listed away: 7 games, scored 11 (1.57), conceded 14 (2.00), blanks 1, clean sheets 0
+All: 20 games, scored 23 (1.15), conceded 23 (1.15), blanks 6, clean sheets 6
+
 === Guingamp (id 90): last 20 finished games ===
 2026-10-16 H 1-2 v PAU | Ligue 2 | Guingamp
 2026-10-09 A 0-1 v Nancy | Ligue 2 | Nancy
@@ -34,16 +53,7 @@ Listed home: 11 games, scored 12 (1.09), conceded 15 (1.36), blanks 3, clean she
 Listed away: 9 games, scored 10 (1.11), conceded 18 (2.00), blanks 3, clean sheets 0
 All: 20 games, scored 22 (1.10), conceded 33 (1.65), blanks 6, clean sheets 2
 
-(retrying Clermont using the opponent's country, France)
-"Clermont" matches several teams. Use id:<number> instead of the name:
-  id:99     Clermont Foot (France)
-  id:9970   Clermont II (France)
-  id:13664  Racing Clermontois (France)
-  id:20575  Liancourt Clermont (France)
-  id:28402  Clermont U19 (France)
-!! Clermont: Ambiguous team name "Clermont".
-
-TABLE FOR Guingamp
+TABLE FOR Clermont Foot
 LEAGUE TABLE Ligue 2 2026 | 18 teams | 81 games played
 League averages per game: home 1.40, away 1.32, total 2.72
 #   team                   Pts | home P GF-GA  | away P GF-GA  | all P GF-GA
@@ -66,7 +76,9 @@ League averages per game: home 1.40, away 1.32, total 2.72
 17  Rodez                    7 |  5   8-11      |  4   6-10      |  9  14-21
 18  Laval                    6 |  5   7-10      |  4   6-10      |  9  13-20
 
-(15 API-Football requests used)
+(Guingamp: same table as Clermont Foot, shown above)
+
+(25 API-Football requests used)
 
 ----------------------------------------------------------------------
 MATCHBOOK: skipped (switched off for this run)
