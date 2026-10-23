@@ -1,7 +1,4 @@
-RUN 2026-10-23 19:00 local | 3 match(es)
-Gimnasia M. v Platense -> out/Gimnasia_M_v_Platense.txt
-    !! Gimnasia M.: API-Football error: {"search": "The Search field may only contain alpha-numeric characters and spaces."}
-    !! Platense: Ambiguous team name "Platense".
-id:1179 v Sportivo Luqueno -> out/id_1179_v_Sportivo_Luqueno.txt
-id:2312 v Atletico San Luis -> out/id_2312_v_Atletico_San_Luis.txt
-Requests used: API-Football 51, Matchbook 0
+RUN 2026-10-23 19:01 local | 1 match(es)
+Gimnasia M v id:1064 -> out/Gimnasia_M_v_id_1064.txt
+    !! Gimnasia M: Ambiguous team name "Gimnasia M".
+Requests used: API-Football 15, Matchbook 0
