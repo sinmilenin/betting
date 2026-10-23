@@ -1,2 +1,8 @@
-# Scan 2026-10-23 17:27 (Ljubljana), retry Qadisiyah v Hilal
-Al Qadisiyah FC v id:2932 | n=20 | xg=10
+# Scan 2026-10-23 18:14 (Ljubljana), new fixtures
+Kapfenberg v St. Polten | n=20 | xg=10
+Amstetten v Rapid Wien II | n=20 | xg=10
+Randers v Brondby | n=20 | xg=10
+Altach v Austria Wien | n=20 | xg=10
+Galway United v St Patrick's Athletic | n=20 | xg=10
+Derry City v Dundalk | n=20 | xg=10
+Waterford v Drogheda United | n=20 | xg=10
