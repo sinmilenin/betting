@@ -1,0 +1,84 @@
+MATCH Dunkerque v Metz | fetched 2026-10-23 17:43 local
+
+FORM DATA Dunkerque v Metz | source API-Football | 2026-10-23 17:43 UTC
+H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
+
+=== Dunkerque (id 1304): last 20 finished games ===
+2026-10-17 A 3-2 v Nantes | Ligue 2 | Nantes
+2026-10-09 H 0-1 v Annecy | Ligue 2 | Dunkirk
+2026-10-02 H 0-4 v RAAL La Louvière | Friendlies Clubs | ?
+2026-09-18 A 0-2 v PAU | Ligue 2 | Pau
+2026-09-12 H 2-1 v Saint Etienne | Ligue 2 | Dunkerque
+2026-09-04 H 1-1 v Clermont Foot | Ligue 2 | Dunkerque
+2026-08-28 A 0-2 v Nancy | Ligue 2 | Nancy
+2026-08-21 H 0-1 v Montpellier | Ligue 2 | Dunkerque
+2026-08-14 A 3-3 v Reims | Ligue 2 | Reims
+2026-08-08 H 4-2 v Grenoble | Ligue 2 | Dunkerque
+2026-08-01 A 0-0 v KV Mechelen | Friendlies Clubs | ?
+2026-07-25 H 3-1 v KVC Westerlo | Friendlies Clubs | ?
+2026-07-22 H 2-1 v Samsunspor | Friendlies Clubs | ?
+2026-07-18 H 2-0 v Standard Liege | Friendlies Clubs | ?
+2026-07-10 A 1-2 v Anderlecht | Friendlies Clubs | ?
+2026-07-04 H 0-2 v Valenciennes | Friendlies Clubs | ?
+2026-05-09 A 2-3 v Nancy | Ligue 2 | Nancy
+2026-05-02 H 0-1 v Grenoble | Ligue 2 | Dunkerque
+2026-04-27 A 6-2 v Boulogne | Ligue 2 | Boulogne-sur-Mer
+2026-04-20 H 0-2 v Laval | Ligue 2 | Dunkerque
+Listed home: 12 games, scored 14 (1.17), conceded 17 (1.42), blanks 6, clean sheets 1
+Listed away: 8 games, scored 15 (1.88), conceded 16 (2.00), blanks 3, clean sheets 1
+All: 20 games, scored 29 (1.45), conceded 33 (1.65), blanks 9, clean sheets 2
+
+=== Metz (id 112): last 20 finished games ===
+2026-10-17 H 3-2 v Sochaux | Ligue 2 | Metz | xG 1.72-1.85
+2026-10-12 A 2-4 v Dijon | Ligue 2 | Dijon
+2026-09-19 H 2-2 v Saint Etienne | Ligue 2 | Metz
+2026-09-14 A 0-1 v RED Star FC 93 | Ligue 2 | Saint-Ouen
+2026-09-05 H 4-1 v Rodez | Ligue 2 | Metz
+2026-08-29 A 1-1 v Annecy | Ligue 2 | Annecy
+2026-08-22 H 1-1 v Laval | Ligue 2 | Metz
+2026-08-14 A 0-0 v Grenoble | Ligue 2 | Grenoble
+2026-08-08 H 2-1 v Guingamp | Ligue 2 | Metz
+2026-08-01 H 1-3 v 1. FC Kaiserslautern | Friendlies Clubs | ?
+2026-07-25 H 3-1 v Fortuna Sittard | Friendlies Clubs | ?
+2026-07-22 H 4-1 v Sochaux | Friendlies Clubs | ?
+2026-07-17 H 6-0 v Seraing United | Friendlies Clubs | ?
+2026-07-11 H 2-1 v Racing FC Union Luxembourg | Friendlies Clubs | ?
+2026-07-11 H 1-1 v Versailles | Friendlies Clubs | ?
+2026-07-04 H 1-2 v FC Differdange 03 | Friendlies Clubs | ?
+2026-07-03 H 5-2 v US Mondorf-les-bains | Friendlies Clubs | ?
+2026-05-17 A 0-0 v Nice | Ligue 1 | Nice
+2026-05-10 H 0-4 v Lorient | Ligue 1 | Metz
+2026-05-02 H 1-2 v Monaco | Ligue 1 | Metz
+Listed home: 15 games, scored 36 (2.40), conceded 24 (1.60), blanks 1, clean sheets 1
+Listed away: 5 games, scored 3 (0.60), conceded 6 (1.20), blanks 3, clean sheets 2
+All: 20 games, scored 39 (1.95), conceded 30 (1.50), blanks 4, clean sheets 3
+
+TABLE FOR Dunkerque
+LEAGUE TABLE Ligue 2 2026 | 18 teams | 81 games played
+League averages per game: home 1.40, away 1.32, total 2.72
+#   team                   Pts | home P GF-GA  | away P GF-GA  | all P GF-GA
+1   Saint Etienne           22 |  4  12-2       |  5  10-6       |  9  22-8
+2   Montpellier             18 |  4   4-1       |  5   7-4       |  9  11-5
+3   Reims                   17 |  5  13-9       |  4   6-2       |  9  19-11
+4   RED Star FC 93          17 |  4   2-5       |  5  10-5       |  9  12-10
+5   Nancy                   16 |  4   4-3       |  5   7-5       |  9  11-8
+6   PAU                     14 |  5   6-5       |  4   5-4       |  9  11-9
+7   Metz                    13 |  5  12-7       |  4   3-6       |  9  15-13
+8   Annecy                  13 |  4   5-5       |  5   6-6       |  9  11-11
+9   Dijon                   12 |  4   9-8       |  5   7-8       |  9  16-16
+10  Dunkerque               11 |  5   7-6       |  4   6-9       |  9  13-15
+11  Sochaux                 11 |  4   3-4       |  5   4-5       |  9   7-9
+12  Boulogne                 9 |  4   3-4       |  5   3-2       |  9   6-6
+13  Guingamp                 8 |  5   8-9       |  4   3-6       |  9  11-15
+14  Nantes                   8 |  5   5-9       |  4   6-7       |  9  11-16
+15  Grenoble                 8 |  4   2-5       |  5   6-10      |  9   8-15
+16  Clermont Foot            7 |  5   3-4       |  4   6-8       |  9   9-12
+17  Rodez                    7 |  5   8-11      |  4   6-10      |  9  14-21
+18  Laval                    6 |  5   7-10      |  4   6-10      |  9  13-20
+
+(Metz: same table as Dunkerque, shown above)
+
+(24 API-Football requests used)
+
+----------------------------------------------------------------------
+MATCHBOOK: skipped (switched off for this run)

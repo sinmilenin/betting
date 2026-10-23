@@ -1,0 +1,84 @@
+MATCH Pau v Grenoble | fetched 2026-10-23 17:43 local
+
+FORM DATA Pau v Grenoble | source API-Football | 2026-10-23 17:43 UTC
+H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
+
+=== PAU (id 1297): last 20 finished games ===
+2026-10-16 A 2-1 v Guingamp | Ligue 2 | Guingamp
+2026-10-09 H 3-2 v Laval | Ligue 2 | Pau
+2026-10-03 A 3-2 v Toulouse | Friendlies Clubs | ?
+2026-09-18 H 2-0 v Dunkerque | Ligue 2 | Pau
+2026-09-11 A 0-1 v Montpellier | Ligue 2 | Montpellier
+2026-09-04 H 1-1 v Sochaux | Ligue 2 | Bizanos
+2026-08-28 A 2-2 v Rodez | Ligue 2 | Rodez
+2026-08-21 H 0-1 v Nancy | Ligue 2 | Bizanos
+2026-08-14 A 1-0 v Dijon | Ligue 2 | Dijon
+2026-08-08 H 0-1 v Annecy | Ligue 2 | Bizanos
+2026-08-01 H 1-2 v Real Unión | Friendlies Clubs | ?
+2026-07-25 A 0-4 v Real Sociedad II | Friendlies Clubs | ?
+2026-07-21 A 0-4 v Espanyol | Friendlies Clubs | ?
+2026-07-17 H 3-0 v Tarbes | Friendlies Clubs | ?
+2026-07-11 A 1-0 v Real Sociedad | Friendlies Clubs | ?
+2026-05-09 A 3-5 v Reims | Ligue 2 | Reims
+2026-05-02 H 1-3 v Nancy | Ligue 2 | Pau
+2026-04-24 A 1-5 v Annecy | Ligue 2 | Annecy
+2026-04-17 H 2-1 v Guingamp | Ligue 2 | Pau
+2026-04-10 A 1-0 v Amiens | Ligue 2 | Amiens
+Listed home: 9 games, scored 13 (1.44), conceded 11 (1.22), blanks 2, clean sheets 2
+Listed away: 11 games, scored 14 (1.27), conceded 24 (2.18), blanks 3, clean sheets 3
+All: 20 games, scored 27 (1.35), conceded 35 (1.75), blanks 5, clean sheets 5
+
+=== Grenoble (id 101): last 20 finished games ===
+2026-10-16 H 0-2 v Boulogne | Ligue 2 | Grenoble
+2026-10-09 A 0-2 v Montpellier | Ligue 2 | Montpellier
+2026-10-02 H 0-0 v Stade Lausanne-Ouchy | Friendlies Clubs | ?
+2026-09-18 H 1-1 v Clermont Foot | Ligue 2 | Grenoble
+2026-09-11 A 1-0 v Rodez | Ligue 2 | Rodez
+2026-09-04 H 1-2 v Annecy | Ligue 2 | Grenoble
+2026-08-28 A 3-0 v Laval | Ligue 2 | Laval
+2026-08-22 A 0-4 v Saint Etienne | Ligue 2 | Saint Etienne
+2026-08-14 H 0-0 v Metz | Ligue 2 | Grenoble
+2026-08-08 A 2-4 v Dunkerque | Ligue 2 | Dunkerque
+2026-08-01 A 2-3 v Andrézieux | Friendlies Clubs | ?
+2026-08-01 A 1-1 v Clermont Foot | Friendlies Clubs | ?
+2026-07-25 H 0-3 v Estac Troyes | Friendlies Clubs | ?
+2026-07-18 A 0-1 v Sochaux | Friendlies Clubs | ?
+2026-07-15 H 5-2 v Villefranche | Friendlies Clubs | ?
+2026-07-11 H 0-0 v Bourg-en-bresse 01 | Friendlies Clubs | ?
+2026-05-09 H 1-0 v Estac Troyes | Ligue 2 | Grenoble
+2026-05-02 A 1-0 v Dunkerque | Ligue 2 | Dunkerque
+2026-04-25 H 1-1 v Le Mans | Ligue 2 | Grenoble
+2026-04-17 A 1-2 v Montpellier | Ligue 2 | Montpellier
+Listed home: 10 games, scored 9 (0.90), conceded 11 (1.10), blanks 5, clean sheets 4
+Listed away: 10 games, scored 11 (1.10), conceded 17 (1.70), blanks 3, clean sheets 3
+All: 20 games, scored 20 (1.00), conceded 28 (1.40), blanks 8, clean sheets 7
+
+TABLE FOR PAU
+LEAGUE TABLE Ligue 2 2026 | 18 teams | 81 games played
+League averages per game: home 1.40, away 1.32, total 2.72
+#   team                   Pts | home P GF-GA  | away P GF-GA  | all P GF-GA
+1   Saint Etienne           22 |  4  12-2       |  5  10-6       |  9  22-8
+2   Montpellier             18 |  4   4-1       |  5   7-4       |  9  11-5
+3   Reims                   17 |  5  13-9       |  4   6-2       |  9  19-11
+4   RED Star FC 93          17 |  4   2-5       |  5  10-5       |  9  12-10
+5   Nancy                   16 |  4   4-3       |  5   7-5       |  9  11-8
+6   PAU                     14 |  5   6-5       |  4   5-4       |  9  11-9
+7   Metz                    13 |  5  12-7       |  4   3-6       |  9  15-13
+8   Annecy                  13 |  4   5-5       |  5   6-6       |  9  11-11
+9   Dijon                   12 |  4   9-8       |  5   7-8       |  9  16-16
+10  Dunkerque               11 |  5   7-6       |  4   6-9       |  9  13-15
+11  Sochaux                 11 |  4   3-4       |  5   4-5       |  9   7-9
+12  Boulogne                 9 |  4   3-4       |  5   3-2       |  9   6-6
+13  Guingamp                 8 |  5   8-9       |  4   3-6       |  9  11-15
+14  Nantes                   8 |  5   5-9       |  4   6-7       |  9  11-16
+15  Grenoble                 8 |  4   2-5       |  5   6-10      |  9   8-15
+16  Clermont Foot            7 |  5   3-4       |  4   6-8       |  9   9-12
+17  Rodez                    7 |  5   8-11      |  4   6-10      |  9  14-21
+18  Laval                    6 |  5   7-10      |  4   6-10      |  9  13-20
+
+(Grenoble: same table as PAU, shown above)
+
+(24 API-Football requests used)
+
+----------------------------------------------------------------------
+MATCHBOOK: skipped (switched off for this run)

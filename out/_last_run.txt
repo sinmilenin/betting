@@ -1,4 +1,17 @@
-RUN 2026-10-23 16:58 local | 2 match(es)
-FC Volendam v Jong Utrecht -> out/FC_Volendam_v_Jong_Utrecht.txt
-Corvinul Hunedoara v Universitatea Cluj -> out/Corvinul_Hunedoara_v_Universitatea_Cluj.txt
-Requests used: API-Football 50, Matchbook 0
+RUN 2026-10-23 17:43 local | 12 match(es)
+Clermont v Guingamp -> out/Clermont_v_Guingamp.txt
+    !! Clermont: Ambiguous team name "Clermont".
+Dunkerque v Metz -> out/Dunkerque_v_Metz.txt
+Pau v Grenoble -> out/Pau_v_Grenoble.txt
+Jong AZ v Helmond Sport -> out/Jong_AZ_v_Helmond_Sport.txt
+De Graafschap v RKC Waalwijk -> out/De_Graafschap_v_RKC_Waalwijk.txt
+FC Oss v Jong Ajax -> out/FC_Oss_v_Jong_Ajax.txt
+FC Eindhoven v Jong PSV -> out/FC_Eindhoven_v_Jong_PSV.txt
+UTC Cajamarca v Melgar -> out/UTC_Cajamarca_v_Melgar.txt
+    !! Melgar: Ambiguous team name "Melgar".
+NAC Breda v Heracles -> out/NAC_Breda_v_Heracles.txt
+FC Den Bosch v MVV -> out/FC_Den_Bosch_v_MVV.txt
+    !! FC Den Bosch: No team found for "FC Den Bosch".
+Sochaux v Annecy -> out/Sochaux_v_Annecy.txt
+Atletico Grau v ADT -> out/Atletico_Grau_v_ADT.txt
+Requests used: API-Football 252, Matchbook 0
