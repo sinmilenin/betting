@@ -1,8 +1,14 @@
-MATCH Al-Ittihad v Paro | fetched 2026-10-23 05:47 local
+MATCH Al Ittihad v Paro | fetched 2026-10-23 05:48 local
 
-FORM DATA Al-Ittihad v Paro | source API-Football | 2026-10-23 05:47 UTC
+FORM DATA Al Ittihad v Paro | source API-Football | 2026-10-23 05:48 UTC
 H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
 
+"Al Ittihad" matches several teams. Use id:<number> instead of the name:
+  id:1572   Al Ittihad (Egypt)
+  id:5581   Al Ittihad (Bahrain)
+  id:8019   Al Ittihad (Syria)
+  id:23354  Al Ittihad Ibb (Yemen)
+  id:27714  Al Ittihad W (Saudi-Arabia)
 === Paro (id 9426): last 20 finished games ===
 2026-10-20 H 1-2 v Al Ansar | AFC Challenge League | Thimphu
 2026-10-17 A 2-2 v Ahal | AFC Challenge League | Thimphu
@@ -28,7 +34,14 @@ Listed home: 10 games, scored 37 (3.70), conceded 4 (0.40), blanks 1, clean shee
 Listed away: 10 games, scored 40 (4.00), conceded 8 (0.80), blanks 0, clean sheets 4
 All: 20 games, scored 77 (3.85), conceded 12 (0.60), blanks 1, clean sheets 12
 
-!! Al-Ittihad: API-Football error: {"search": "The Search field may only contain alpha-numeric characters and spaces."}
+(retrying Al Ittihad using the opponent's country, Bhutan)
+"Al Ittihad" matches several teams. Use id:<number> instead of the name:
+  id:1572   Al Ittihad (Egypt)
+  id:5581   Al Ittihad (Bahrain)
+  id:8019   Al Ittihad (Syria)
+  id:23354  Al Ittihad Ibb (Yemen)
+  id:27714  Al Ittihad W (Saudi-Arabia)
+!! Al Ittihad: Ambiguous team name "Al Ittihad".
 
 TABLE FOR Paro
 LEAGUE TABLE Premier League 2026 | 10 teams | 90 games played
@@ -45,7 +58,7 @@ League averages per game: home 1.78, away 1.87, total 3.64
 9   Tensung                  8 |  9   6-23      |  9   8-30      | 18  14-53
 10  Ugyen Academy            7 |  9   9-34      |  9   6-27      | 18  15-61
 
-(15 API-Football requests used)
+(16 API-Football requests used)
 
 ----------------------------------------------------------------------
 MATCHBOOK: skipped (switched off for this run)

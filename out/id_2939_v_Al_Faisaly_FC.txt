@@ -1,6 +1,6 @@
-MATCH id:2939 v Al-Faisaly | fetched 2026-10-23 05:47 local
+MATCH id:2939 v Al Faisaly FC | fetched 2026-10-23 05:48 local
 
-FORM DATA id:2939 v Al-Faisaly | source API-Football | 2026-10-23 05:47 UTC
+FORM DATA id:2939 v Al Faisaly FC | source API-Football | 2026-10-23 05:48 UTC
 H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
 
 === Al-Nassr (id 2939): last 20 finished games ===
@@ -28,7 +28,7 @@ Listed home: 10 games, scored 19 (1.90), conceded 8 (0.80), blanks 2, clean shee
 Listed away: 10 games, scored 22 (2.20), conceded 18 (1.80), blanks 1, clean sheets 2
 All: 20 games, scored 41 (2.05), conceded 26 (1.30), blanks 3, clean sheets 5
 
-!! Al-Faisaly: API-Football error: {"search": "The Search field may only contain alpha-numeric characters and spaces."}
+!! Al Faisaly FC: No team found for "Al Faisaly FC".
 
 TABLE FOR Al-Nassr
 LEAGUE TABLE Pro League 2026 | 18 teams | 87 games played
