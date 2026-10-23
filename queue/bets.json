@@ -108,5 +108,27 @@
     "lay": 18,
     "stake": 3,
     "created": "2026-10-23T11:48:12Z"
+  },
+  {
+    "id": "2026-10-23_botosani-acs-petrolul-52_0-1",
+    "date": "2026-10-23",
+    "ko": "17:00",
+    "match": "Botosani v ACS Petrolul 52",
+    "comp": "Romania, Romanian Liga I",
+    "cell": "0-1",
+    "lay": 17,
+    "stake": 3,
+    "created": "2026-10-23T12:32:30Z"
+  },
+  {
+    "id": "2026-10-23_botosani-acs-petrolul-52_2-2",
+    "date": "2026-10-23",
+    "ko": "17:00",
+    "match": "Botosani v ACS Petrolul 52",
+    "comp": "Romania, Romanian Liga I",
+    "cell": "2-2",
+    "lay": 16,
+    "stake": 3,
+    "created": "2026-10-23T12:32:30Z"
   }
 ]
