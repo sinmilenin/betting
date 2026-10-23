@@ -1,4 +1,2 @@
-# Scan 2026-10-23 19:41 (Ljubljana) run 2: retry ambiguous names
-Clermont Foot v Guingamp | n=20 | xg=10
-UTC Cajamarca v FBC Melgar | n=20 | xg=10
-Den Bosch v MVV | n=20 | xg=10
+# Scan 2026-10-23 20:26 (Ljubljana) run 1: Gimnasia invariant candidate
+Gimnasia La Plata v Sarmiento | n=20 | xg=10
