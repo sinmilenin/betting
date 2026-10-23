@@ -1,14 +1,33 @@
-MATCH Al Ittihad v Al Diriyah | fetched 2026-10-23 13:15 local
+MATCH id:2938 v Al Diriyah | fetched 2026-10-23 13:16 local
 
-FORM DATA Al Ittihad v Al Diriyah | source API-Football | 2026-10-23 13:16 UTC
+FORM DATA id:2938 v Al Diriyah | source API-Football | 2026-10-23 13:16 UTC
 H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
 
-"Al Ittihad" matches several teams. Use id:<number> instead of the name:
-  id:1572   Al Ittihad (Egypt)
-  id:5581   Al Ittihad (Bahrain)
-  id:8019   Al Ittihad (Syria)
-  id:23354  Al Ittihad Ibb (Yemen)
-  id:27714  Al Ittihad W (Saudi-Arabia)
+=== Al-Ittihad FC (id 2938): last 20 finished games ===
+2026-10-20 A 4-1 v Al-Ettifaq | Pro League | Dammam | xG 2.98-1.83
+2026-10-13 H 1-2 v Shabab Al Ahli Dubai | AFC Champions League Elite | Jeddah | xG 1.54-1.33
+2026-10-10 A 2-3 v Al-Hilal Saudi FC | Pro League | Riyadh | xG 1.14-2.26
+2026-09-14 A 1-1 v Al Shamal | AFC Champions League Elite | Al Khor
+2026-09-11 A 3-1 v Al-Faisaly FC | Pro League | Al Majmaah | xG 1.29-1.11
+2026-09-08 H 2-1 v Al-Fayha | Pro League | Jeddah | xG 2.42-0.62
+2026-09-05 H 2-1 v Al-Nassr | Pro League | Jeddah | xG 1.84-1.65
+2026-08-29 A 0-0 v Al-Fateh | Pro League | Al-Hofuf | xG 2.10-0.99
+2026-08-24 H 3-2 v Al-Hazm | Pro League | Jeddah | xG 3.90-0.79
+2026-08-21 A 1-0 v Al-Qadisiyah FC | Pro League | Dammam | xG 0.28-2.61
+2026-08-18 A 3-0 v Al Najma | King's Cup | Buraidah
+2026-08-15 H 1-1 v Al Kholood | Pro League | Jeddah
+2026-08-11 A 4-1 v Al-Jazira | AFC Champions League Elite | Abu Dhabi
+2026-07-30 A 2-2 v Malaga | Friendlies Clubs | ?
+2026-07-30 A 2-4 v Mallorca | Friendlies Clubs | ?
+2026-07-25 A 2-1 v Las Palmas | Friendlies Clubs | ?
+2026-07-21 A 3-2 v Orlando Pirates | Friendlies Clubs | ?
+2026-05-21 H 1-5 v Al-Qadisiyah FC | Pro League | Jeddah
+2026-05-17 A 2-3 v Al Shabab | Pro League | Riyadh
+2026-05-14 A 3-1 v Al-Ettifaq | Pro League | Dammam
+Listed home: 6 games, scored 10 (1.67), conceded 12 (2.00), blanks 0, clean sheets 0
+Listed away: 14 games, scored 32 (2.29), conceded 20 (1.43), blanks 1, clean sheets 3
+All: 20 games, scored 42 (2.10), conceded 32 (1.60), blanks 1, clean sheets 3
+
 === Al Diriyah (id 26738): last 20 finished games ===
 2026-10-20 H 1-0 v Al Riyadh | Pro League | Riyadh | xG 1.41-0.90
 2026-10-17 H 1-1 v Al Taawon | Pro League | Riyadh | xG 2.04-1.02
@@ -34,16 +53,7 @@ Listed home: 13 games, scored 16 (1.23), conceded 15 (1.15), blanks 3, clean she
 Listed away: 7 games, scored 14 (2.00), conceded 10 (1.43), blanks 1, clean sheets 2
 All: 20 games, scored 30 (1.50), conceded 25 (1.25), blanks 4, clean sheets 7
 
-(retrying Al Ittihad using the opponent's country, Saudi-Arabia)
-"Al Ittihad" matches several teams. Use id:<number> instead of the name:
-  id:1572   Al Ittihad (Egypt)
-  id:5581   Al Ittihad (Bahrain)
-  id:8019   Al Ittihad (Syria)
-  id:23354  Al Ittihad Ibb (Yemen)
-  id:27714  Al Ittihad W (Saudi-Arabia)
-!! Al Ittihad: Ambiguous team name "Al Ittihad".
-
-TABLE FOR Al Diriyah
+TABLE FOR Al-Ittihad FC
 LEAGUE TABLE Pro League 2026 | 18 teams | 87 games played
 League averages per game: home 1.41, away 1.45, total 2.86
 #   team                   Pts | home P GF-GA  | away P GF-GA  | all P GF-GA
@@ -66,7 +76,9 @@ League averages per game: home 1.41, away 1.45, total 2.86
 17  Al Taawon                4 |  5   0-7       |  5   4-10      | 10   4-17
 18  Abha                     2 |  3   2-4       |  5   4-11      |  8   6-15
 
-(15 API-Football requests used)
+(Al Diriyah: same table as Al-Ittihad FC, shown above)
+
+(25 API-Football requests used)
 
 ----------------------------------------------------------------------
 MATCHBOOK: skipped (switched off for this run)

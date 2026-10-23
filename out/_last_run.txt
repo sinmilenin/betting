@@ -1,6 +1,3 @@
-RUN 2026-10-23 13:15 local | 3 match(es)
-Ben Guerdane v Stade Tunisien -> out/Ben_Guerdane_v_Stade_Tunisien.txt
-Al Salt v Al Ramtha -> out/Al_Salt_v_Al_Ramtha.txt
-Al Ittihad v Al Diriyah -> out/Al_Ittihad_v_Al_Diriyah.txt
-    !! Al Ittihad: Ambiguous team name "Al Ittihad".
-Requests used: API-Football 65, Matchbook 0
+RUN 2026-10-23 13:16 local | 1 match(es)
+id:2938 v Al Diriyah -> out/id_2938_v_Al_Diriyah.txt
+Requests used: API-Football 25, Matchbook 0
