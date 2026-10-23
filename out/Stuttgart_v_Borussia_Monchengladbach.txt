@@ -1,0 +1,23 @@
+MATCH Stuttgart v Borussia Monchengladbach | fetched 2026-10-23 05:43 local
+
+FORM DATA Stuttgart v Borussia Monchengladbach | source API-Football | 2026-10-23 05:43 UTC
+H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
+
+"Stuttgart" matches several teams. Use id:<number> instead of the name:
+  id:172    VfB Stuttgart (Germany)
+  id:10273  Stuttgart U19 (Germany)
+  id:12867  Stuttgart II (Germany)
+  id:12868  Stuttgarter Kickers (Germany)
+  id:13959  Stuttgarter K'rs U19 (Germany)
+  id:24130  Stuttgart W (Germany)
+"Borussia Monchengladbach" matches several teams. Use id:<number> instead of the name:
+  id:163    Borussia Mönchengladbach (Germany)
+  id:1864   Borussia Monchengladbach W (Germany)
+!! Stuttgart: Ambiguous team name "Stuttgart".
+
+!! Borussia Monchengladbach: Ambiguous team name "Borussia Monchengladbach".
+
+(2 API-Football requests used)
+
+----------------------------------------------------------------------
+MATCHBOOK: skipped (switched off for this run)

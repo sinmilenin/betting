@@ -1,4 +1,20 @@
-RUN 2026-10-22 21:07 local | 2 match(es)
-id:549 v Crystal Palace -> out/id_549_v_Crystal_Palace.txt
-Celtic v Celta Vigo -> out/Celtic_v_Celta_Vigo.txt
-Requests used: API-Football 9, Matchbook 0
+RUN 2026-10-23 05:43 local | 12 match(es)
+Brisbane Roar v Perth Glory -> out/Brisbane_Roar_v_Perth_Glory.txt
+Al Faisaly v Al Nassr -> out/Al_Faisaly_v_Al_Nassr.txt
+Al Ittihad Aleppo v Paro -> out/Al_Ittihad_Aleppo_v_Paro.txt
+    !! Al Ittihad Aleppo: No team found for "Al Ittihad Aleppo".
+Bochum v Wolfsburg -> out/Bochum_v_Wolfsburg.txt
+    !! Bochum: Ambiguous team name "Bochum".
+    !! Wolfsburg: Ambiguous team name "Wolfsburg".
+Hvidovre v HB Koge -> out/Hvidovre_v_HB_Koge.txt
+Go Ahead Eagles v Telstar -> out/Go_Ahead_Eagles_v_Telstar.txt
+Stuttgart v Borussia Monchengladbach -> out/Stuttgart_v_Borussia_Monchengladbach.txt
+    !! Stuttgart: Ambiguous team name "Stuttgart".
+    !! Borussia Monchengladbach: Ambiguous team name "Borussia Monchengladbach".
+Brest v Nice -> out/Brest_v_Nice.txt
+    !! Brest: Ambiguous team name "Brest".
+Torino v Monza -> out/Torino_v_Monza.txt
+Bolton v Middlesbrough -> out/Bolton_v_Middlesbrough.txt
+Ipswich v Nottingham Forest -> out/Ipswich_v_Nottingham_Forest.txt
+Alaves v Malaga -> out/Alaves_v_Malaga.txt
+Requests used: API-Football 238, Matchbook 0

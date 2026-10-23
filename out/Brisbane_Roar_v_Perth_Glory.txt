@@ -1,0 +1,93 @@
+MATCH Brisbane Roar v Perth Glory | fetched 2026-10-23 05:43 local
+
+FORM DATA Brisbane Roar v Perth Glory | source API-Football | 2026-10-23 05:43 UTC
+H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
+
+=== Brisbane Roar (id 947): last 20 finished games ===
+2026-09-04 A 4-3 v Olympic | Friendlies Clubs | ?
+2026-08-09 H 2-4 v Sydney | Australia Cup | Brisbane
+2026-07-30 A 3-0 v Sydney Olympic | Australia Cup | ?
+2026-07-22 A 5-0 v Ipswich | Friendlies Clubs | ?
+2026-07-15 A 3-0 v Caboolture | Friendlies Clubs | ?
+2026-04-25 A 1-2 v Perth Glory | A-League | Perth | xG 1.52-1.93
+2026-04-18 H 2-3 v Melbourne City | A-League | Brisbane | xG 1.09-2.28
+2026-04-10 A 2-2 v Central Coast Mariners | A-League | Gosford | xG 1.50-0.36
+2026-04-02 H 0-0 v Sydney | A-League | Brisbane | xG 1.67-0.02
+2026-03-21 H 1-2 v Wellington Phoenix | A-League | Brisbane | xG 1.13-1.77
+2026-03-13 H 2-2 v Western Sydney Wanderers | A-League | Brisbane
+2026-02-28 H 1-1 v Perth Glory | A-League | Brisbane
+2026-02-21 A 0-1 v Sydney | A-League | Sydney
+2026-02-14 A 1-1 v Melbourne Victory | A-League | Melbourne
+2026-02-07 H 1-2 v Central Coast Mariners | A-League | Brisbane
+2026-01-31 A 1-4 v Newcastle Jets | A-League | Newcastle
+2026-01-24 H 2-3 v Adelaide United | A-League | Brisbane
+2026-01-16 A 2-1 v Perth Glory | A-League | Perth
+2026-01-09 H 0-2 v Auckland | A-League | Brisbane
+2026-01-06 A 0-1 v Melbourne City | A-League | Melbourne
+Listed home: 9 games, scored 11 (1.22), conceded 19 (2.11), blanks 2, clean sheets 1
+Listed away: 11 games, scored 22 (2.00), conceded 15 (1.36), blanks 2, clean sheets 3
+All: 20 games, scored 33 (1.65), conceded 34 (1.70), blanks 4, clean sheets 4
+
+=== Perth Glory (id 940): last 20 finished games ===
+2026-10-17 A 1-2 v Macarthur | A-League | Sydney
+2026-10-03 H 1-3 v Adelaide United | Friendlies Clubs | ?
+2026-09-27 H 2-0 v Adelaide United | Friendlies Clubs | ?
+2026-07-21 A 0-0 v Lions | Australia Cup | Brisbane [PEN, 90-min score shown]
+2026-04-25 H 2-1 v Brisbane Roar | A-League | Perth | xG 1.93-1.52
+2026-04-18 A 0-0 v Sydney | A-League | Sydney | xG 0.75-2.01
+2026-04-12 H 3-1 v Macarthur | A-League | Perth | xG 1.63-1.37
+2026-04-04 A 2-2 v Central Coast Mariners | A-League | Gosford | xG 1.85-1.53
+2026-03-22 H 1-1 v Melbourne City | A-League | Perth | xG 2.28-2.06
+2026-03-14 A 0-2 v Wellington Phoenix | A-League | Wellington | xG 0.39-1.82
+2026-03-08 A 2-2 v Auckland | A-League | Auckland
+2026-02-28 A 1-1 v Brisbane Roar | A-League | Brisbane
+2026-02-20 A 0-4 v Adelaide United | A-League | Adelaide
+2026-02-13 H 1-3 v Newcastle Jets | A-League | Perth
+2026-02-06 A 2-2 v Macarthur | A-League | Sydney
+2026-01-31 H 2-1 v Auckland | A-League | Perth
+2026-01-25 A 0-1 v Western Sydney Wanderers | A-League | Sydney
+2026-01-16 H 1-2 v Brisbane Roar | A-League | Perth
+2026-01-10 H 3-0 v Central Coast Mariners | A-League | Perth
+2026-01-02 A 2-3 v Melbourne Victory | A-League | Melbourne
+Listed home: 9 games, scored 16 (1.78), conceded 12 (1.33), blanks 0, clean sheets 2
+Listed away: 11 games, scored 10 (0.91), conceded 19 (1.73), blanks 5, clean sheets 2
+All: 20 games, scored 26 (1.30), conceded 31 (1.55), blanks 5, clean sheets 4
+
+TABLE FOR Brisbane Roar
+LEAGUE TABLE A-League 2025 | 12 teams | 156 games played
+League averages per game: home 1.53, away 1.34, total 2.87
+#   team                   Pts | home P GF-GA  | away P GF-GA  | all P GF-GA
+1   Newcastle Jets          48 | 13  30-20      | 13  25-19      | 26  55-39
+2   Adelaide United         43 | 13  25-17      | 13  21-19      | 26  46-36
+3   Auckland                42 | 13  20-17      | 13  22-12      | 26  42-29
+4   Melbourne Victory       40 | 13  26-14      | 13  18-19      | 26  44-33
+5   Sydney                  39 | 13  19-13      | 13  14-12      | 26  33-25
+6   Melbourne City          38 | 13  18-13      | 13  15-20      | 26  33-33
+7   Macarthur               34 | 13  22-22      | 13  15-22      | 26  37-44
+8   Wellington Phoenix      33 | 13  19-23      | 13  17-25      | 26  36-48
+9   Central Coast Mariners  32 | 13  17-17      | 13  18-25      | 26  35-42
+10  Perth Glory             31 | 13  16-16      | 13  16-23      | 26  32-39
+11  Brisbane Roar           26 | 13  14-18      | 13  13-18      | 26  27-36
+12  Western Sydney Wandere  21 | 13  12-19      | 13  15-24      | 26  27-43
+
+TABLE FOR Perth Glory
+LEAGUE TABLE A-League 2026 | 12 teams | 5 games played
+League averages per game: home 1.80, away 1.00, total 2.80
+#   team                   Pts | home P GF-GA  | away P GF-GA  | all P GF-GA
+1   Auckland                 3 |  1   3-1       |  0   0-0       |  1   3-1
+2   Wellington Phoenix       3 |  1   2-1       |  0   0-0       |  1   2-1
+3   Macarthur                3 |  1   2-1       |  0   0-0       |  1   2-1
+4   Central Coast Mariners   1 |  1   2-2       |  0   0-0       |  1   2-2
+5   Newcastle Jets           1 |  0   0-0       |  1   2-2       |  1   2-2
+6   Sydney                   1 |  1   0-0       |  0   0-0       |  1   0-0
+7   Western Sydney Wandere   1 |  0   0-0       |  1   0-0       |  1   0-0
+8   Adelaide United          0 |  0   0-0       |  0   0-0       |  0   0-0
+9   Brisbane Roar            0 |  0   0-0       |  0   0-0       |  0   0-0
+10  Perth Glory              0 |  0   0-0       |  1   1-2       |  1   1-2
+11  Melbourne Victory        0 |  0   0-0       |  1   1-2       |  1   1-2
+12  Melbourne City           0 |  0   0-0       |  1   1-3       |  1   1-3
+
+(27 API-Football requests used)
+
+----------------------------------------------------------------------
+MATCHBOOK: skipped (switched off for this run)
