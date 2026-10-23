@@ -1,6 +1,4 @@
-RUN 2026-10-23 15:30 local | 2 match(es)
-Tartu Welco v Tallinna Kalev -> out/Tartu_Welco_v_Tallinna_Kalev.txt
-Al-Qadisiyah FC v Al-Hilal Saudi FC -> out/Al_Qadisiyah_FC_v_Al_Hilal_Saudi_FC.txt
-    !! Al-Qadisiyah FC: API-Football error: {"search": "The Search field may only contain alpha-numeric characters and spaces."}
-    !! Al-Hilal Saudi FC: API-Football error: {"search": "The Search field may only contain alpha-numeric characters and spaces."}
-Requests used: API-Football 27, Matchbook 0
+RUN 2026-10-23 15:32 local | 1 match(es)
+Al Qadisiyah FC v id:2932 -> out/Al_Qadisiyah_FC_v_id_2932.txt
+    !! Al Qadisiyah FC: No team found for "Al Qadisiyah FC".
+Requests used: API-Football 14, Matchbook 0
