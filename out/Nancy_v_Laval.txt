@@ -1,0 +1,84 @@
+MATCH Nancy v Laval | fetched 2026-10-23 15:29 local
+
+FORM DATA Nancy v Laval | source API-Football | 2026-10-23 15:29 UTC
+H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
+
+=== Nancy (id 102): last 20 finished games ===
+2026-10-16 A 2-1 v Annecy | Ligue 2 | Avignon
+2026-10-09 H 1-0 v Guingamp | Ligue 2 | Nancy
+2026-10-02 A 1-2 v FC Saarbrücken | Friendlies Clubs | ?
+2026-09-18 A 4-3 v Rodez | Ligue 2 | Rodez
+2026-09-11 H 1-2 v Reims | Ligue 2 | Nancy
+2026-09-07 A 0-1 v Nantes | Ligue 2 | Nantes
+2026-08-28 H 2-0 v Dunkerque | Ligue 2 | Nancy
+2026-08-21 A 1-0 v PAU | Ligue 2 | Bizanos
+2026-08-14 H 0-1 v Montpellier | Ligue 2 | Nancy
+2026-08-08 A 0-0 v Boulogne | Ligue 2 | Boulogne-sur-Mer
+2026-08-01 H 2-2 v Dijon | Friendlies Clubs | ?
+2026-08-01 A 0-0 v Epinal | Friendlies Clubs | ?
+2026-07-28 H 1-1 v Annecy | Friendlies Clubs | ?
+2026-07-24 H 5-0 v Haguenau | Friendlies Clubs | ?
+2026-07-18 A 2-2 v Thionville Lusitanos | Friendlies Clubs | ?
+2026-07-11 H 1-3 v Estac Troyes | Friendlies Clubs | ?
+2026-07-04 H 8-0 v Mamer | Friendlies Clubs | ?
+2026-05-09 H 3-2 v Dunkerque | Ligue 2 | Nancy
+2026-05-02 A 3-1 v PAU | Ligue 2 | Pau
+2026-04-25 A 1-1 v Reims | Ligue 2 | Reims
+Listed home: 10 games, scored 24 (2.40), conceded 11 (1.10), blanks 1, clean sheets 4
+Listed away: 10 games, scored 14 (1.40), conceded 11 (1.10), blanks 3, clean sheets 3
+All: 20 games, scored 38 (1.90), conceded 22 (1.10), blanks 4, clean sheets 7
+
+=== Laval (id 433): last 20 finished games ===
+2026-10-16 H 3-3 v Clermont Foot | Ligue 2 | Laval
+2026-10-09 A 2-3 v PAU | Ligue 2 | Pau
+2026-10-02 H 1-0 v Rennes | Friendlies Clubs | ?
+2026-09-18 H 1-1 v Sochaux | Ligue 2 | Laval
+2026-09-11 A 2-3 v Dijon | Ligue 2 | Dijon
+2026-09-04 H 1-2 v RED Star FC 93 | Ligue 2 | Laval
+2026-08-28 H 0-3 v Grenoble | Ligue 2 | Laval
+2026-08-22 A 1-1 v Metz | Ligue 2 | Metz
+2026-08-14 H 2-1 v Nantes | Ligue 2 | Laval
+2026-08-08 A 1-3 v Rodez | Ligue 2 | Rodez
+2026-07-31 A 1-1 v Le Havre | Friendlies Clubs | ?
+2026-07-30 H 3-1 v Granville | Friendlies Clubs | ?
+2026-07-25 H 1-2 v Concarneau | Friendlies Clubs | ?
+2026-07-22 H 2-1 v Avranches | Friendlies Clubs | ?
+2026-07-18 A 2-4 v Caen | Friendlies Clubs | ?
+2026-07-15 H 5-0 v Quevilly | Friendlies Clubs | ?
+2026-07-10 A 1-1 v Guingamp | Friendlies Clubs | ?
+2026-07-10 A 1-2 v RED Star FC 93 | Friendlies Clubs | ?
+2026-05-24 H 1-0 v Rouen | Ligue 2 | Laval
+2026-05-19 A 1-1 v Rouen | Ligue 2 | Rouen
+Listed home: 11 games, scored 20 (1.82), conceded 14 (1.27), blanks 1, clean sheets 3
+Listed away: 9 games, scored 12 (1.33), conceded 19 (2.11), blanks 0, clean sheets 0
+All: 20 games, scored 32 (1.60), conceded 33 (1.65), blanks 1, clean sheets 3
+
+TABLE FOR Nancy
+LEAGUE TABLE Ligue 2 2026 | 18 teams | 81 games played
+League averages per game: home 1.40, away 1.32, total 2.72
+#   team                   Pts | home P GF-GA  | away P GF-GA  | all P GF-GA
+1   Saint Etienne           22 |  4  12-2       |  5  10-6       |  9  22-8
+2   Montpellier             18 |  4   4-1       |  5   7-4       |  9  11-5
+3   Reims                   17 |  5  13-9       |  4   6-2       |  9  19-11
+4   RED Star FC 93          17 |  4   2-5       |  5  10-5       |  9  12-10
+5   Nancy                   16 |  4   4-3       |  5   7-5       |  9  11-8
+6   PAU                     14 |  5   6-5       |  4   5-4       |  9  11-9
+7   Metz                    13 |  5  12-7       |  4   3-6       |  9  15-13
+8   Annecy                  13 |  4   5-5       |  5   6-6       |  9  11-11
+9   Dijon                   12 |  4   9-8       |  5   7-8       |  9  16-16
+10  Dunkerque               11 |  5   7-6       |  4   6-9       |  9  13-15
+11  Sochaux                 11 |  4   3-4       |  5   4-5       |  9   7-9
+12  Boulogne                 9 |  4   3-4       |  5   3-2       |  9   6-6
+13  Guingamp                 8 |  5   8-9       |  4   3-6       |  9  11-15
+14  Nantes                   8 |  5   5-9       |  4   6-7       |  9  11-16
+15  Grenoble                 8 |  4   2-5       |  5   6-10      |  9   8-15
+16  Clermont Foot            7 |  5   3-4       |  4   6-8       |  9   9-12
+17  Rodez                    7 |  5   8-11      |  4   6-10      |  9  14-21
+18  Laval                    6 |  5   7-10      |  4   6-10      |  9  13-20
+
+(Laval: same table as Nancy, shown above)
+
+(25 API-Football requests used)
+
+----------------------------------------------------------------------
+MATCHBOOK: skipped (switched off for this run)

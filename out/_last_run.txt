@@ -1,3 +1,6 @@
-RUN 2026-10-23 14:46 local | 1 match(es)
-Essen v id:177 -> out/Essen_v_id_177.txt
-Requests used: API-Football 16, Matchbook 0
+RUN 2026-10-23 15:29 local | 3 match(es)
+Welco Elekter v Tallinna Kalev -> out/Welco_Elekter_v_Tallinna_Kalev.txt
+    !! Welco Elekter: No team found for "Welco Elekter".
+Al Qadisiyah v Al Hilal -> out/Al_Qadisiyah_v_Al_Hilal.txt
+Nancy v Laval -> out/Nancy_v_Laval.txt
+Requests used: API-Football 64, Matchbook 0
