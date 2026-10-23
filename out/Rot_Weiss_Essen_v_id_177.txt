@@ -1,0 +1,61 @@
+MATCH Rot Weiss Essen v id:177 | fetched 2026-10-23 14:45 local
+
+FORM DATA Rot Weiss Essen v id:177 | source API-Football | 2026-10-23 14:45 UTC
+H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
+
+=== SSV Jahn Regensburg (id 177): last 20 finished games ===
+2026-10-17 H 0-0 v SV Wehen | 3. Liga | Regensburg
+2026-10-14 A 2-2 v Verl | 3. Liga | Verl | xG 1.66-1.05
+2026-10-10 H 5-0 v Havelse | 3. Liga | Regensburg | xG 4.34-0.48
+2026-10-01 H 0-6 v WSG Wattens | Friendlies Clubs | Regensburg
+2026-09-19 A 3-3 v Stuttgart II | 3. Liga | Aspach
+2026-09-15 H 1-2 v Fortuna Düsseldorf | 3. Liga | Regensburg
+2026-09-12 A 2-2 v Alemannia Aachen | 3. Liga | Aachen
+2026-09-05 H 1-2 v MSV Duisburg | 3. Liga | Regensburg
+2026-08-29 A 1-5 v Hoffenheim II | 3. Liga | Sinsheim
+2026-08-16 H 0-1 v FC Saarbrücken | 3. Liga | Regensburg
+2026-08-08 A 5-2 v FC Viktoria Köln | 3. Liga | Cologne
+2026-08-01 H 1-0 v SSV Ulm 1846 | Friendlies Clubs | ?
+2026-07-25 A 2-1 v Stuttgarter Kickers | Friendlies Clubs | ?
+2026-07-15 H 2-3 v Vilzing | Friendlies Clubs | ?
+2026-07-09 A 2-0 v SpVgg Unterhaching | Friendlies Clubs | ?
+2026-07-06 A 2-2 v Sportfreunde Schwaig | Friendlies Clubs | ?
+2026-07-03 A 4-2 v Ried | Friendlies Clubs | ?
+2026-05-16 H 0-1 v Energie Cottbus | 3. Liga | Regensburg
+2026-05-09 A 0-1 v Waldhof Mannheim | 3. Liga | Mannheim
+2026-05-02 H 2-1 v Hoffenheim II | 3. Liga | Regensburg
+Listed home: 10 games, scored 12 (1.20), conceded 16 (1.60), blanks 4, clean sheets 3
+Listed away: 10 games, scored 23 (2.30), conceded 20 (2.00), blanks 1, clean sheets 1
+All: 20 games, scored 35 (1.75), conceded 36 (1.80), blanks 5, clean sheets 4
+
+!! Rot Weiss Essen: No team found for "Rot Weiss Essen".
+
+TABLE FOR SSV Jahn Regensburg
+LEAGUE TABLE 3. Liga 2026 | 20 teams | 100 games played
+League averages per game: home 1.67, away 1.63, total 3.30
+#   team                   Pts | home P GF-GA  | away P GF-GA  | all P GF-GA
+1   MSV Duisburg            25 |  5  12-4       |  5  15-8       | 10  27-12
+2   FC Viktoria Köln        20 |  5  15-8       |  5  12-6       | 10  27-14
+3   Rot-Weiß Essen          18 |  5  11-3       |  5   7-10      | 10  18-13
+4   FC Saarbrücken          17 |  5  11-12      |  5  13-5       | 10  24-17
+5   Hoffenheim II           16 |  5  12-7       |  5   8-8       | 10  20-15
+6   Hansa Rostock           15 |  4   7-8       |  6  10-11      | 10  17-19
+7   Stuttgart II            14 |  4   8-10      |  6   9-8       | 10  17-18
+8   Alemannia Aachen        14 |  6  11-11      |  4   4-5       | 10  15-16
+9   FC Ingolstadt 04        14 |  5   6-11      |  5   7-4       | 10  13-15
+10  Fortuna Düsseldorf      14 |  5   6-8       |  5   5-5       | 10  11-13
+11  Waldhof Mannheim        13 |  5   5-7       |  5  11-9       | 10  16-16
+12  Preußen Münster         12 |  5  10-10      |  5   8-11      | 10  18-21
+13  SV Wehen                12 |  5   5-8       |  5   7-7       | 10  12-15
+14  Verl                    12 |  5   9-10      |  5   6-9       | 10  15-19
+15  SG Sonnenhof Grossaspa  12 |  6   7-10      |  4   5-8       | 10  12-18
+16  Würzburger Kickers      11 |  5   8-4       |  5   7-15      | 10  15-19
+17  SV Meppen               11 |  5   6-11      |  5   6-6       | 10  12-17
+18  SSV Jahn Regensburg     10 |  5   7-5       |  5  13-14      | 10  20-19
+19  Fortuna Köln            10 |  5   1-4       |  5   7-7       | 10   8-11
+20  Havelse                  6 |  5  10-12      |  5   3-11      | 10  13-23
+
+(14 API-Football requests used)
+
+----------------------------------------------------------------------
+MATCHBOOK: skipped (switched off for this run)
