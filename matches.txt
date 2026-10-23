@@ -1,2 +1,2 @@
-# Scan 2026-10-23 15:14 (Ljubljana): retry Al-Ittihad (Jeddah) by id
-id:2938 v Al Diriyah | n=20 | xg=10
+# Scan 2026-10-23 15:57 (Ljubljana)
+Al Shamal v Qatar SC | n=20 | xg=10
