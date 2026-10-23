@@ -1,2 +1,9 @@
-# Scan 2026-10-23 12:56 (Ljubljana): retry with corrected names
-DPMM v Johor Darul Takzim | n=20 | xg=10
+# Scan 2026-10-23 13:40 (Ljubljana): regular scan + top-20 run, first analyses
+Sileks v Shkendija | n=20 | xg=10
+Granada v Valladolid | n=20 | xg=10
+First Vienna v Floridsdorfer AC | n=20 | xg=10
+Guimaraes v Maritimo | n=20 | xg=10
+Darmstadt v St. Pauli | n=20 | xg=10
+Empoli v Vicenza | n=20 | xg=10
+Shamrock Rovers v Sligo Rovers | n=20 | xg=10
+Bohemians v Shelbourne | n=20 | xg=10
