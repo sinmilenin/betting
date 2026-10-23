@@ -1,7 +1,4 @@
 RUN 2026-10-23 12:29 local | 2 match(es)
-East Riffa v Al-Muharraq -> out/East_Riffa_v_Al_Muharraq.txt
-    !! Al-Muharraq: API-Football error: {"search": "The Search field may only contain alpha-numeric characters and spaces."}
-Botosani v Petrolul -> out/Botosani_v_Petrolul.txt
-    !! Botosani: Ambiguous team name "Botosani".
-    !! Petrolul: Ambiguous team name "Petrolul".
-Requests used: API-Football 16, Matchbook 0
+East Riffa v Muharraq -> out/East_Riffa_v_Muharraq.txt
+id:2581 v id:2598 -> out/id_2581_v_id_2598.txt
+Requests used: API-Football 50, Matchbook 0
