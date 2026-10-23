@@ -1,4 +1,7 @@
-RUN 2026-10-23 05:49 local | 2 match(es)
-id:2939 v Faisaly -> out/id_2939_v_Faisaly.txt
-id:8019 v Paro -> out/id_8019_v_Paro.txt
-Requests used: API-Football 53, Matchbook 0
+RUN 2026-10-23 07:58 local | 2 match(es)
+Veres Rivne v Kolos Kovalyovka -> out/Veres_Rivne_v_Kolos_Kovalyovka.txt
+    !! Kolos Kovalyovka: No team found for "Kolos Kovalyovka".
+Polissya Zhytomyr v Obolon -> out/Polissya_Zhytomyr_v_Obolon.txt
+    !! Polissya Zhytomyr: No team found for "Polissya Zhytomyr".
+    !! Obolon: Ambiguous team name "Obolon".
+Requests used: API-Football 16, Matchbook 0
