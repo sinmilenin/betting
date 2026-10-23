@@ -75,5 +75,38 @@
     "lay": 17,
     "stake": 3,
     "created": "2026-10-23T10:17:25Z"
+  },
+  {
+    "id": "2026-10-23_sv-darmstadt-st-pauli_2-2",
+    "date": "2026-10-23",
+    "ko": "18:30",
+    "match": "SV Darmstadt v St Pauli",
+    "comp": "Germany, German Bundesliga 2",
+    "cell": "2-2",
+    "lay": 16,
+    "stake": 3,
+    "created": "2026-10-23T11:48:12Z"
+  },
+  {
+    "id": "2026-10-23_empoli-lr-vicenza-virtus_2-2",
+    "date": "2026-10-23",
+    "ko": "20:30",
+    "match": "Empoli v LR Vicenza Virtus",
+    "comp": "Italy, Italian Serie B",
+    "cell": "2-2",
+    "lay": 16,
+    "stake": 3,
+    "created": "2026-10-23T11:48:12Z"
+  },
+  {
+    "id": "2026-10-23_bohemians-shelbourne_2-2",
+    "date": "2026-10-23",
+    "ko": "20:45",
+    "match": "Bohemians v Shelbourne",
+    "comp": "Ireland, Irish Premier Division",
+    "cell": "2-2",
+    "lay": 18,
+    "stake": 3,
+    "created": "2026-10-23T11:48:12Z"
   }
 ]
