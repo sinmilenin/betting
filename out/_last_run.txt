@@ -1,3 +1,10 @@
-RUN 2026-10-23 13:58 local | 1 match(es)
-Al Shamal v Qatar SC -> out/Al_Shamal_v_Qatar_SC.txt
-Requests used: API-Football 25, Matchbook 0
+RUN 2026-10-23 14:42 local | 4 match(es)
+Rot-Weiss Essen v Jahn Regensburg -> out/Rot_Weiss_Essen_v_Jahn_Regensburg.txt
+    !! Rot-Weiss Essen: API-Football error: {"search": "The Search field may only contain alpha-numeric characters and spaces."}
+    !! Jahn Regensburg: Ambiguous team name "Jahn Regensburg".
+Vasteras SK v Halmstads -> out/Vasteras_SK_v_Halmstads.txt
+    !! Halmstads: No team found for "Halmstads".
+Alanyaspor v Kocaelispor -> out/Alanyaspor_v_Kocaelispor.txt
+Elfsborg v Malmo FF -> out/Elfsborg_v_Malmo_FF.txt
+    !! Elfsborg: Ambiguous team name "Elfsborg".
+Requests used: API-Football 55, Matchbook 0

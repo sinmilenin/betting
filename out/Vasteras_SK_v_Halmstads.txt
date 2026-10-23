@@ -1,0 +1,57 @@
+MATCH Vasteras SK v Halmstads | fetched 2026-10-23 14:42 local
+
+FORM DATA Vasteras SK v Halmstads | source API-Football | 2026-10-23 14:42 UTC
+H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
+
+=== Vasteras SK FK (id 2241): last 20 finished games ===
+2026-10-18 H 1-0 v Mjallby AIF | Allsvenskan | Westeros | xG 1.51-0.88
+2026-10-09 A 0-1 v IFK Goteborg | Allsvenskan | Gothenburg | xG 0.89-0.92
+2026-10-03 A 0-1 v Hammarby FF | Friendlies Clubs | ?
+2026-09-19 H 2-0 v Malmo FF | Allsvenskan | Westeros | xG 0.71-2.82
+2026-09-12 A 4-1 v AIK Stockholm | Allsvenskan | Solna | xG 3.67-3.23
+2026-09-05 H 0-1 v Sirius | Allsvenskan | Vasteras | xG 1.34-0.95
+2026-08-29 A 3-1 v BK Hacken | Allsvenskan | Gothenburg | xG 2.27-2.16
+2026-08-23 H 0-0 v Kalmar FF | Allsvenskan | Vasteras | xG 0.98-1.11
+2026-08-19 A 2-1 v Enköping | Svenska Cupen | ?
+2026-08-14 A 0-3 v IF Elfsborg | Allsvenskan | Boras
+2026-08-10 H 1-0 v Djurgardens IF | Allsvenskan | Vasteras
+2026-08-03 A 0-6 v Djurgardens IF | Allsvenskan | Stockholm
+2026-07-24 H 2-0 v Orgryte IS | Allsvenskan | Vasteras
+2026-07-17 A 0-0 v Mjallby AIF | Allsvenskan | Hallevik
+2026-07-12 H 2-0 v Degerfors IF | Allsvenskan | Vasteras
+2026-07-04 A 3-1 v Halmstad | Allsvenskan | Halmstad
+2026-06-28 A 2-3 v AIK Stockholm | Friendlies Clubs | ?
+2026-05-31 H 4-5 v IFK Goteborg | Allsvenskan | Vasteras
+2026-05-24 A 3-2 v Malmo FF | Allsvenskan | Malmö
+2026-05-17 H 1-1 v AIK Stockholm | Allsvenskan | Vasteras
+Listed home: 9 games, scored 13 (1.44), conceded 7 (0.78), blanks 2, clean sheets 6
+Listed away: 11 games, scored 17 (1.55), conceded 20 (1.82), blanks 5, clean sheets 1
+All: 20 games, scored 30 (1.50), conceded 27 (1.35), blanks 7, clean sheets 7
+
+!! Halmstads: No team found for "Halmstads".
+
+TABLE FOR Vasteras SK FK
+LEAGUE TABLE Allsvenskan 2026 | 16 teams | 192 games played
+League averages per game: home 1.61, away 1.32, total 2.93
+#   team                   Pts | home P GF-GA  | away P GF-GA  | all P GF-GA
+1   Sirius                  55 | 12  27-17      | 12  28-13      | 24  55-30
+2   Djurgardens IF          47 | 12  30-14      | 12  20-7       | 24  50-21
+3   Hammarby FF             46 | 12  34-7       | 12  16-14      | 24  50-21
+4   BK Hacken               42 | 12  21-18      | 12  22-12      | 24  43-30
+5   IF Elfsborg             41 | 12  21-9       | 12  16-15      | 24  37-24
+6   Vasteras SK FK          38 | 12  18-13      | 12  17-23      | 24  35-36
+7   Malmo FF                36 | 13  25-21      | 11  13-13      | 24  38-34
+8   IFK Goteborg            36 | 12  16-13      | 12  18-30      | 24  34-43
+9   AIK Stockholm           34 | 12  19-27      | 12  19-15      | 24  38-42
+10  Gais                    30 | 12  16-5       | 12  14-20      | 24  30-25
+11  IF Brommapojkarna       30 | 12  15-15      | 12  21-28      | 24  36-43
+12  Mjallby AIF             23 | 12  12-19      | 12  16-21      | 24  28-40
+13  Kalmar FF               22 | 11  14-17      | 13   9-21      | 24  23-38
+14  Degerfors IF            20 | 12  12-17      | 12   9-20      | 24  21-37
+15  Orgryte IS              18 | 12  21-22      | 12   8-32      | 24  29-54
+16  Halmstad                14 | 12   9-19      | 12   7-26      | 24  16-45
+
+(14 API-Football requests used)
+
+----------------------------------------------------------------------
+MATCHBOOK: skipped (switched off for this run)
