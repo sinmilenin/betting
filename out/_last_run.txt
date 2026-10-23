@@ -1,3 +1,3 @@
-RUN 2026-10-23 13:16 local | 1 match(es)
-id:2938 v Al Diriyah -> out/id_2938_v_Al_Diriyah.txt
+RUN 2026-10-23 13:58 local | 1 match(es)
+Al Shamal v Qatar SC -> out/Al_Shamal_v_Qatar_SC.txt
 Requests used: API-Football 25, Matchbook 0
