@@ -1,0 +1,13 @@
+MATCH Al-Qadisiyah FC v Al-Hilal Saudi FC | fetched 2026-10-23 15:30 local
+
+FORM DATA Al-Qadisiyah FC v Al-Hilal Saudi FC | source API-Football | 2026-10-23 15:30 UTC
+H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
+
+!! Al-Qadisiyah FC: API-Football error: {"search": "The Search field may only contain alpha-numeric characters and spaces."}
+
+!! Al-Hilal Saudi FC: API-Football error: {"search": "The Search field may only contain alpha-numeric characters and spaces."}
+
+(2 API-Football requests used)
+
+----------------------------------------------------------------------
+MATCHBOOK: skipped (switched off for this run)

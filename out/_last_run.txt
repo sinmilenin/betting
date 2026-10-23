@@ -1,6 +1,6 @@
-RUN 2026-10-23 15:29 local | 3 match(es)
-Welco Elekter v Tallinna Kalev -> out/Welco_Elekter_v_Tallinna_Kalev.txt
-    !! Welco Elekter: No team found for "Welco Elekter".
-Al Qadisiyah v Al Hilal -> out/Al_Qadisiyah_v_Al_Hilal.txt
-Nancy v Laval -> out/Nancy_v_Laval.txt
-Requests used: API-Football 64, Matchbook 0
+RUN 2026-10-23 15:30 local | 2 match(es)
+Tartu Welco v Tallinna Kalev -> out/Tartu_Welco_v_Tallinna_Kalev.txt
+Al-Qadisiyah FC v Al-Hilal Saudi FC -> out/Al_Qadisiyah_FC_v_Al_Hilal_Saudi_FC.txt
+    !! Al-Qadisiyah FC: API-Football error: {"search": "The Search field may only contain alpha-numeric characters and spaces."}
+    !! Al-Hilal Saudi FC: API-Football error: {"search": "The Search field may only contain alpha-numeric characters and spaces."}
+Requests used: API-Football 27, Matchbook 0
