@@ -1,4 +1,3 @@
-RUN 2026-10-23 18:28 local | 1 match(es)
-Gimnasia La Plata v Sarmiento -> out/Gimnasia_La_Plata_v_Sarmiento.txt
-    !! Sarmiento: Ambiguous team name "Sarmiento".
-Requests used: API-Football 15, Matchbook 0
+RUN 2026-10-23 18:29 local | 1 match(es)
+id:434 v id:474 -> out/id_434_v_id_474.txt
+Requests used: API-Football 25, Matchbook 0
