@@ -1,7 +1,13 @@
-MATCH Rot Weiss Essen v id:177 | fetched 2026-10-23 14:45 local
+MATCH Essen v id:177 | fetched 2026-10-23 14:46 local
 
-FORM DATA Rot Weiss Essen v id:177 | source API-Football | 2026-10-23 14:45 UTC
+FORM DATA Essen v id:177 | source API-Football | 2026-10-23 14:46 UTC
 H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
+
+=== Essen (id 14668): last 1 finished games ===
+2020-08-02 H 1-3 v VfB Oldenburg | Friendlies Clubs | Oldenburg
+Listed home: 1 games, scored 1 (1.00), conceded 3 (3.00), blanks 0, clean sheets 0
+Listed away: no games
+All: 1 games, scored 1 (1.00), conceded 3 (3.00), blanks 0, clean sheets 0
 
 === SSV Jahn Regensburg (id 177): last 20 finished games ===
 2026-10-17 H 0-0 v SV Wehen | 3. Liga | Regensburg
@@ -28,7 +34,7 @@ Listed home: 10 games, scored 12 (1.20), conceded 16 (1.60), blanks 4, clean she
 Listed away: 10 games, scored 23 (2.30), conceded 20 (2.00), blanks 1, clean sheets 1
 All: 20 games, scored 35 (1.75), conceded 36 (1.80), blanks 5, clean sheets 4
 
-!! Rot Weiss Essen: No team found for "Rot Weiss Essen".
+(no league table available for Essen: tried no competitions)
 
 TABLE FOR SSV Jahn Regensburg
 LEAGUE TABLE 3. Liga 2026 | 20 teams | 100 games played
@@ -55,7 +61,7 @@ League averages per game: home 1.67, away 1.63, total 3.30
 19  Fortuna Köln            10 |  5   1-4       |  5   7-7       | 10   8-11
 20  Havelse                  6 |  5  10-12      |  5   3-11      | 10  13-23
 
-(14 API-Football requests used)
+(16 API-Football requests used)
 
 ----------------------------------------------------------------------
 MATCHBOOK: skipped (switched off for this run)

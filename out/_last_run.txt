@@ -1,6 +1,3 @@
-RUN 2026-10-23 14:45 local | 3 match(es)
-Rot Weiss Essen v id:177 -> out/Rot_Weiss_Essen_v_id_177.txt
-    !! Rot Weiss Essen: No team found for "Rot Weiss Essen".
-Vasteras SK v Halmstad -> out/Vasteras_SK_v_Halmstad.txt
-id:372 v Malmo FF -> out/id_372_v_Malmo_FF.txt
-Requests used: API-Football 63, Matchbook 0
+RUN 2026-10-23 14:46 local | 1 match(es)
+Essen v id:177 -> out/Essen_v_id_177.txt
+Requests used: API-Football 16, Matchbook 0
