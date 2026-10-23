@@ -1,3 +1,2 @@
-# Scan 2026-10-23 17:27 (Ljubljana), retry Welco and Qadisiyah names
-Tartu Welco v Tallinna Kalev | n=20 | xg=10
-Al-Qadisiyah FC v Al-Hilal Saudi FC | n=20 | xg=10
+# Scan 2026-10-23 17:27 (Ljubljana), retry Qadisiyah v Hilal
+Al Qadisiyah FC v id:2932 | n=20 | xg=10
