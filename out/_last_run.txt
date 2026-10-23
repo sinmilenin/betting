@@ -1,5 +1,4 @@
-RUN 2026-10-23 17:44 local | 3 match(es)
-Clermont Foot v Guingamp -> out/Clermont_Foot_v_Guingamp.txt
-UTC Cajamarca v FBC Melgar -> out/UTC_Cajamarca_v_FBC_Melgar.txt
-Den Bosch v MVV -> out/Den_Bosch_v_MVV.txt
-Requests used: API-Football 75, Matchbook 0
+RUN 2026-10-23 18:28 local | 1 match(es)
+Gimnasia La Plata v Sarmiento -> out/Gimnasia_La_Plata_v_Sarmiento.txt
+    !! Sarmiento: Ambiguous team name "Sarmiento".
+Requests used: API-Football 15, Matchbook 0

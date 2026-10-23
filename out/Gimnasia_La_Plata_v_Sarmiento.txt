@@ -1,0 +1,126 @@
+MATCH Gimnasia La Plata v Sarmiento | fetched 2026-10-23 18:28 local
+
+FORM DATA Gimnasia La Plata v Sarmiento | source API-Football | 2026-10-23 18:28 UTC
+H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
+
+=== Gimnasia La Plata Res. (id 18686): last 20 finished games ===
+2026-10-21 H 0-1 v Talleres Córdoba Res. | Reserve League | ?
+2026-10-13 A 0-1 v Banfield Res. | Reserve League | ?
+2026-10-06 H 2-2 v Rosario Central Res. | Reserve League | ?
+2026-09-29 A 1-2 v Tigre Res. | Reserve League | ?
+2026-09-23 H 2-0 v Estudiantes La Plata Res | Reserve League | ?
+2026-09-16 H 2-0 v San Lorenzo Res. | Reserve League | ?
+2026-09-08 A 0-0 v Vélez Sársfield Res. | Reserve League | ?
+2026-09-01 H 0-1 v River Plate Res. | Reserve League | ?
+2026-08-25 A 4-1 v Racing Club Res. | Reserve League | ?
+2026-08-19 H 0-2 v Sarmiento Res. | Reserve League | ?
+2026-08-13 A 0-0 v Argentinos Juniors Res. | Reserve League | ?
+2026-08-04 H 2-0 v Aldosivi Res. | Reserve League | ?
+2026-07-23 A 0-0 v Instituto Res. | Reserve League | ?
+2026-07-14 A 0-0 v Unión Santa Fe Res. | Reserve League | ?
+2026-06-17 A 1-2 v Atlético Tucumán Res. | Reserve League | ?
+2026-06-08 H 0-2 v Godoy Cruz Res. | Reserve League | ?
+2026-06-03 A 0-0 v Gimnasia Mendoza 2 | Reserve League | Mendoza
+2026-05-28 H 0-0 v Barracas Central Res. | Reserve League | ?
+2026-05-21 A 2-1 v Talleres Córdoba Res. | Reserve League | ?
+2026-05-12 H 2-0 v Banfield Res. | Reserve League | ?
+Listed home: 10 games, scored 10 (1.00), conceded 8 (0.80), blanks 5, clean sheets 5
+Listed away: 10 games, scored 8 (0.80), conceded 7 (0.70), blanks 6, clean sheets 5
+All: 20 games, scored 18 (0.90), conceded 15 (0.75), blanks 11, clean sheets 10
+
+"Sarmiento" matches several teams. Use id:<number> instead of the name:
+  id:474    Sarmiento Junin (Argentina)
+  id:1953   Sarmiento Resistencia (Argentina)
+  id:3958   Sarmiento Leones (Argentina)
+  id:18698  Sarmiento Res. (Argentina)
+  id:23255  Sarmiento de La Banda (Argentina)
+(retrying Sarmiento using the opponent's country, Argentina)
+"Sarmiento" matches several teams. Use id:<number> instead of the name:
+  id:474    Sarmiento Junin (Argentina)
+  id:1953   Sarmiento Resistencia (Argentina)
+  id:3958   Sarmiento Leones (Argentina)
+  id:18698  Sarmiento Res. (Argentina)
+  id:23255  Sarmiento de La Banda (Argentina)
+!! Sarmiento: Ambiguous team name "Sarmiento".
+
+TABLE FOR Gimnasia La Plata Res.
+LEAGUE TABLE Reserve League 2026 | 72 teams | 583 games played
+League averages per game: home 1.40, away 1.05, total 2.45
+#   team                   Pts | home P GF-GA  | away P GF-GA  | all P GF-GA
+1   Vélez Sársfield Res.    47 | 11  27-7       |  9  15-6       | 20  42-13 [Apertura]
+2   Boca Juniors Res.       39 | 11  22-5       |  9  14-7       | 20  36-12 [Apertura]
+3   Racing Club Res.        39 |  9  13-8       | 12  20-18      | 21  33-26 [Apertura]
+4   River Plate Res.        37 | 11  18-11      | 10  11-9       | 21  29-20 [Apertura]
+5   Independiente Res.      36 | 10  24-10      |  9  14-9       | 19  38-19 [Apertura]
+6   Lanús Res.              35 |  9  19-15      | 10  21-12      | 19  40-27 [Apertura]
+7   Newell's Old Boys Res.  34 |  9  16-5       | 10  11-13      | 19  27-18 [Apertura]
+8   Quilmes 2               33 |  9  14-5       |  9   6-7       | 18  20-12 [Apertura]
+9   Defensa y Justicia Res  32 |  9  23-8       |  9  15-16      | 18  38-24 [Apertura]
+10  Atlético Tucumán Res.   30 |  9  14-12      | 10  12-16      | 19  26-28 [Apertura]
+11  Unión Santa Fe Res.     29 |  9  16-10      |  9   7-9       | 18  23-19 [Apertura]
+12  Estudiantes La Plata R  28 |  9  11-7       |  9  14-9       | 18  25-16 [Apertura]
+13  Argentinos Juniors Res  28 |  9  15-8       |  9   9-10      | 18  24-18 [Apertura]
+14  Belgrano Córdoba Res.   27 |  9  16-12      |  9  11-17      | 18  27-29 [Apertura]
+15  Talleres Córdoba Res.   26 |  9  15-13      |  9  12-8       | 18  27-21 [Apertura]
+16  Huracán Res.            26 |  9  12-5       |  9  11-12      | 18  23-17 [Apertura]
+17  Rosario Central Res.    26 |  9  12-12      |  9  13-10      | 18  25-22 [Apertura]
+18  Platense Res.           26 |  9  12-8       |  9   5-12      | 18  17-20 [Apertura]
+19  Deportivo Riestra Res.  25 |  9  18-6       |  9   7-12      | 18  25-18 [Apertura]
+20  Independiente Riva. Re  24 |  9  16-12      |  9   7-11      | 18  23-23 [Apertura]
+21  Instituto Res.          24 |  9   8-9       |  9  12-12      | 18  20-21 [Apertura]
+22  San Lorenzo Res.        24 |  9  10-16      |  9  12-8       | 18  22-24 [Apertura]
+23  Gimnasia La Plata Res.  23 |  9   8-10      |  9  11-7       | 18  19-17 [Apertura]
+24  Gimnasia Mendoza 2      23 |  9   9-8       |  9   7-11      | 18  16-19 [Apertura]
+25  Banfield Res.           23 |  9   7-6       |  9   7-12      | 18  14-18 [Apertura]
+26  Ferro 2                 22 |  9  15-9       |  9   5-14      | 18  20-23 [Apertura]
+27  Central Córdoba SdE Re  19 |  9  12-15      |  9   9-18      | 18  21-33 [Apertura]
+28  Colón Res.              18 |  9   8-9       |  9   7-14      | 18  15-23 [Apertura]
+29  Aldosivi Res.           18 |  9  10-13      |  9   7-15      | 18  17-28 [Apertura]
+30  Barracas Central Res.   17 |  9   4-9       |  9   7-15      | 18  11-24 [Apertura]
+31  Sarmiento Res.          16 |  9   8-13      |  9   8-13      | 18  16-26 [Apertura]
+32  Tigre Res.              16 |  9   9-10      |  9   6-15      | 18  15-25 [Apertura]
+33  Godoy Cruz Res.         15 |  9  11-12      |  9   9-18      | 18  20-30 [Apertura]
+34  Atl. Rafaela 2          12 |  9  11-17      |  9  10-19      | 18  21-36 [Apertura]
+35  Estudiantes Rio Cuarto  11 |  9   4-10      |  9   5-22      | 18   9-32 [Apertura]
+36  San Martín San Juan Re   8 |  9   9-19      |  9   7-40      | 18  16-59 [Apertura]
+1   Independiente Res.      33 |  7  19-4       |  7  11-6       | 14  30-10 [Clausura]
+2   Lanús Res.              30 |  7  19-7       |  7  12-11      | 14  31-18 [Clausura]
+3   Deportivo Riestra Res.  26 |  7  18-7       |  7   7-7       | 14  25-14 [Clausura]
+4   Estudiantes La Plata R  25 |  7  17-10      |  7   8-5       | 14  25-15 [Clausura]
+5   Boca Juniors Res.       25 |  7   8-1       |  7   9-8       | 14  17-9 [Clausura]
+6   Belgrano Córdoba Res.   25 |  7  10-7       |  7  11-13      | 14  21-20 [Clausura]
+7   Vélez Sársfield Res.    24 |  7  13-2       |  7   4-3       | 14  17-5 [Clausura]
+8   Estudiantes Rio Cuarto  24 |  7   7-4       |  7   8-6       | 14  15-10 [Clausura]
+9   Rosario Central Res.    24 |  7   8-8       |  7  12-10      | 14  20-18 [Clausura]
+10  River Plate Res.        23 |  7  12-7       |  7  11-7       | 14  23-14 [Clausura]
+11  Talleres Córdoba Res.   23 |  7  11-6       |  7   5-5       | 14  16-11 [Clausura]
+12  Gimnasia Mendoza 2      22 |  7   5-6       |  7   9-6       | 14  14-12 [Clausura]
+13  San Lorenzo Res.        21 |  7  11-6       |  7   6-8       | 14  17-14 [Clausura]
+14  Atl. Rafaela 2          21 |  7  12-7       |  7   4-9       | 14  16-16 [Clausura]
+15  Huracán Res.            20 |  7  11-3       |  7   4-10      | 14  15-13 [Clausura]
+16  Sarmiento Res.          19 |  7   6-5       |  7   7-5       | 14  13-10 [Clausura]
+17  Godoy Cruz Res.         19 |  7   9-5       |  7   6-8       | 14  15-13 [Clausura]
+18  Instituto Res.          19 |  7  10-9       |  7   9-10      | 14  19-19 [Clausura]
+19  Newell's Old Boys Res.  18 |  7  12-7       |  7   5-7       | 14  17-14 [Clausura]
+20  Unión Santa Fe Res.     17 |  7  14-5       |  7   4-9       | 14  18-14 [Clausura]
+21  Gimnasia La Plata Res.  17 |  7   8-6       |  7   5-4       | 14  13-10 [Clausura]
+22  Quilmes 2               17 |  7   8-6       |  7   4-9       | 14  12-15 [Clausura]
+23  Atlético Tucumán Res.   17 |  7   7-7       |  7   3-7       | 14  10-14 [Clausura]
+24  Defensa y Justicia Res  16 |  7  12-8       |  7   8-12      | 14  20-20 [Clausura]
+25  Aldosivi Res.           15 |  7   6-5       |  7   7-11      | 14  13-16 [Clausura]
+26  Independiente Riva. Re  15 |  7  11-10      |  7   9-16      | 14  20-26 [Clausura]
+27  Tigre Res.              15 |  7   7-9       |  7   9-13      | 14  16-22 [Clausura]
+28  Argentinos Juniors Res  14 |  7   5-4       |  7   4-10      | 14   9-14 [Clausura]
+29  Racing Club Res.        13 |  7  12-15      |  7   9-12      | 14  21-27 [Clausura]
+30  San Martín San Juan Re  13 |  7   4-4       |  7   9-20      | 14  13-24 [Clausura]
+31  Banfield Res.           12 |  7   8-8       |  7   4-16      | 14  12-24 [Clausura]
+32  Central Córdoba SdE Re  12 |  7   5-9       |  7   7-15      | 14  12-24 [Clausura]
+33  Colón Res.              11 |  7   6-14      |  7   4-7       | 14  10-21 [Clausura]
+34  Barracas Central Res.   10 |  7   6-8       |  7   4-13      | 14  10-21 [Clausura]
+35  Platense Res.            7 |  7   2-9       |  7   5-9       | 14   7-18 [Clausura]
+36  Ferro 2                  6 |  7   3-11      |  7   6-15      | 14   9-26 [Clausura]
+
+(15 API-Football requests used)
+
+----------------------------------------------------------------------
+MATCHBOOK: skipped (switched off for this run)
