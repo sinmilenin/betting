@@ -1,3 +1,4 @@
-# Scan 2026-10-23 14:28 (Ljubljana): retry Muharraq name, Botosani/Petrolul by id
-East Riffa v Muharraq | n=20 | xg=10
-id:2581 v id:2598 | n=20 | xg=10
+# Scan 2026-10-23 15:14 (Ljubljana): new analyses
+Ben Guerdane v Stade Tunisien | n=20 | xg=10
+Al Salt v Al Ramtha | n=20 | xg=10
+Al Ittihad v Al Diriyah | n=20 | xg=10
