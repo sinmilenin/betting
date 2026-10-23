@@ -1,4 +1,4 @@
-# Scan 2026-10-23 13:40 (Ljubljana): retry with corrected names
-id:181 v St Pauli | n=20 | xg=10
-Vitoria Guimaraes v Maritimo | n=20 | xg=10
-Empoli v id:1584 | n=20 | xg=10
+# Scan 2026-10-23 13:40 (Ljubljana): second retry with API-Football ids
+id:181 v id:186 | n=20 | xg=10
+id:224 v Maritimo | n=20 | xg=10
+id:715 v Valladolid | n=20 | xg=10
