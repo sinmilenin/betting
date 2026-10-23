@@ -1,3 +1,2 @@
-# Scan 2026-10-23 12:14 (Ljubljana): regular scan, retry with corrected names
-id:3532 v Nejmeh | n=20 | xg=10
-Bistrica v Bilje | n=20 | xg=10
+# Scan 2026-10-23 12:56 (Ljubljana): regular scan
+Brunei DPMM v Johor Darul Tazim | n=20 | xg=10
