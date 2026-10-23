@@ -1,3 +1,14 @@
-RUN 2026-10-23 10:59 local | 1 match(es)
-DPMM v Johor Darul Takzim -> out/DPMM_v_Johor_Darul_Takzim.txt
-Requests used: API-Football 25, Matchbook 0
+RUN 2026-10-23 11:42 local | 8 match(es)
+Sileks v Shkendija -> out/Sileks_v_Shkendija.txt
+Granada v Valladolid -> out/Granada_v_Valladolid.txt
+First Vienna v Floridsdorfer AC -> out/First_Vienna_v_Floridsdorfer_AC.txt
+Guimaraes v Maritimo -> out/Guimaraes_v_Maritimo.txt
+    !! Guimaraes: Ambiguous team name "Guimaraes".
+Darmstadt v St. Pauli -> out/Darmstadt_v_St_Pauli.txt
+    !! Darmstadt: Ambiguous team name "Darmstadt".
+    !! St. Pauli: API-Football error: {"search": "The Search field may only contain alpha-numeric characters and spaces."}
+Empoli v Vicenza -> out/Empoli_v_Vicenza.txt
+    !! Vicenza: Ambiguous team name "Vicenza".
+Shamrock Rovers v Sligo Rovers -> out/Shamrock_Rovers_v_Sligo_Rovers.txt
+Bohemians v Shelbourne -> out/Bohemians_v_Shelbourne.txt
+Requests used: API-Football 158, Matchbook 0
