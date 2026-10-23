@@ -1,3 +1,6 @@
-RUN 2026-10-23 08:43 local | 1 match(es)
-Dynamo Kyiv v Kudrivka -> out/Dynamo_Kyiv_v_Kudrivka.txt
-Requests used: API-Football 25, Matchbook 0
+RUN 2026-10-23 10:15 local | 2 match(es)
+Al Arabi v Nejmeh -> out/Al_Arabi_v_Nejmeh.txt
+    !! Al Arabi: Ambiguous team name "Al Arabi".
+Slovenska Bistrica v Bilje -> out/Slovenska_Bistrica_v_Bilje.txt
+    !! Slovenska Bistrica: No team found for "Slovenska Bistrica".
+Requests used: API-Football 30, Matchbook 0
