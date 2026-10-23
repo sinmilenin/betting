@@ -1,2 +1,4 @@
-# Scan 2026-10-23 16:41 (Ljubljana), Essen retry
-Essen v id:177 | n=20 | xg=10
+# Scan 2026-10-23 17:27 (Ljubljana)
+Welco Elekter v Tallinna Kalev | n=20 | xg=10
+Al Qadisiyah v Al Hilal | n=20 | xg=10
+Nancy v Laval | n=20 | xg=10
