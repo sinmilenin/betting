@@ -1,0 +1,68 @@
+MATCH Atlante v Atletico San Luis | fetched 2026-10-23 18:58 local
+
+FORM DATA Atlante v Atletico San Luis | source API-Football | 2026-10-23 18:58 UTC
+H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
+
+"Atlante" matches several teams. Use id:<number> instead of the name:
+  id:2312   Atlante FC (Mexico)
+  id:28004  Atlante U21 (Mexico)
+  id:28036  Atlante W (Mexico)
+=== Atletico San Luis (id 2314): last 20 finished games ===
+2026-10-21 H 2-1 v Club Queretaro | Liga MX | San Luis de Potosi | xG 1.45-1.07
+2026-10-18 A 1-1 v Toluca | Liga MX | Toluca | xG 1.40-2.60
+2026-10-11 H 1-2 v Santos Laguna | Liga MX | San Luis de Potosi | xG 0.70-2.47
+2026-09-27 A 3-2 v U.N.A.M. - Pumas | Liga MX | Mexico City | xG 2.35-1.40
+2026-09-19 H 3-1 v Necaxa | Liga MX | San Luis de Potosi | xG 1.72-0.64
+2026-09-15 A 0-2 v Leon | Liga MX | Leon | xG 1.42-1.53
+2026-09-05 H 0-3 v Guadalajara Chivas | Liga MX | San Luis de Potosi | xG 0.72-0.62
+2026-08-31 A 3-1 v Monterrey | Liga MX | Monterrey | xG 1.19-2.00
+2026-08-23 H 1-1 v CF Pachuca | Liga MX | San Luis de Potosi | xG 2.71-0.99
+2026-08-16 A 0-3 v Club America | Liga MX | Mexico City | xG 0.69-1.97
+2026-08-12 A 2-2 v Orlando City SC | Leagues Cup | Orlando [PEN, 90-min score shown]
+2026-08-10 A 1-4 v Nashville SC | Leagues Cup | Nashville
+2026-08-05 A 2-4 v Inter Miami | Leagues Cup | Miami
+2026-08-01 H 0-0 v Club Tijuana | Liga MX | San Luis de Potosi
+2026-07-26 A 2-2 v Tigres UANL | Liga MX | San Nicolas de los Garza
+2026-07-18 H 2-3 v Cruz Azul | Liga MX | San Luis de Potosi
+2026-07-10 H 4-0 v Mineros de Zacatecas | Friendlies Clubs | ?
+2026-07-07 H 4-0 v Sporting San Jose | Friendlies Clubs | ?
+2026-07-01 A 1-0 v Atlas | Friendlies Clubs | ?
+2026-06-26 A 2-2 v Club Queretaro | Friendlies Clubs | ?
+Listed home: 9 games, scored 17 (1.89), conceded 11 (1.22), blanks 2, clean sheets 3
+Listed away: 11 games, scored 17 (1.55), conceded 23 (2.09), blanks 2, clean sheets 1
+All: 20 games, scored 34 (1.70), conceded 34 (1.70), blanks 4, clean sheets 4
+
+(retrying Atlante using the opponent's country, Mexico)
+"Atlante" matches several teams. Use id:<number> instead of the name:
+  id:2312   Atlante FC (Mexico)
+  id:28004  Atlante U21 (Mexico)
+  id:28036  Atlante W (Mexico)
+!! Atlante: Ambiguous team name "Atlante".
+
+TABLE FOR Atletico San Luis
+LEAGUE TABLE Liga MX 2026 | 18 teams | 115 games played
+League averages per game: home 1.57, away 1.43, total 3.01
+#   team                   Pts | home P GF-GA  | away P GF-GA  | all P GF-GA
+1   Club America            27 |  5  11-3       |  7  21-13      | 12  32-16
+2   Guadalajara Chivas      23 |  7  11-7       |  6   9-5       | 13  20-12
+3   Cruz Azul               23 |  7  17-12      |  6  12-10      | 13  29-22
+4   Toluca                  22 |  7  18-11      |  6  10-7       | 13  28-18
+5   Leon                    21 |  6  12-9       |  7   8-8       | 13  20-17
+6   Atlas                   21 |  7   8-14      |  6  13-9       | 13  21-23
+7   Monterrey               20 |  6  13-7       |  6  10-10      | 12  23-17
+8   Club Queretaro          20 |  5   7-6       |  7   9-9       | 12  16-15
+9   Santos Laguna           19 |  7  10-3       |  6   9-13      | 13  19-16
+10  Club Tijuana            17 |  7  10-6       |  5   7-10      | 12  17-16
+11  U.N.A.M. - Pumas        16 |  6   9-11      |  7  10-11      | 13  19-22
+12  Atletico San Luis       16 |  7   9-11      |  6   9-11      | 13  18-22
+13  Puebla                  16 |  6   7-10      |  7   6-7       | 13  13-17
+14  Tigres UANL             14 |  6   9-7       |  7   5-11      | 13  14-18
+15  Atlante FC              14 |  6   7-9       |  7   7-10      | 13  14-19
+16  CF Pachuca              13 |  6  10-13      |  7  10-5       | 13  20-18
+17  Necaxa                   9 |  7   8-14      |  6   7-12      | 13  15-26
+18  FC Juarez                4 |  7   5-12      |  6   3-20      | 13   8-32
+
+(14 API-Football requests used)
+
+----------------------------------------------------------------------
+MATCHBOOK: skipped (switched off for this run)

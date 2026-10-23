@@ -1,3 +1,10 @@
-RUN 2026-10-23 18:29 local | 1 match(es)
-id:434 v id:474 -> out/id_434_v_id_474.txt
-Requests used: API-Football 25, Matchbook 0
+RUN 2026-10-23 18:58 local | 6 match(es)
+Gimnasia Mendoza v Platense -> out/Gimnasia_Mendoza_v_Platense.txt
+Libertad v Sportivo Luqueno -> out/Libertad_v_Sportivo_Luqueno.txt
+    !! Libertad: Ambiguous team name "Libertad".
+Cruzeiro v Remo -> out/Cruzeiro_v_Remo.txt
+Tigre v Atletico Tucuman -> out/Tigre_v_Atletico_Tucuman.txt
+Necaxa v FC Juarez -> out/Necaxa_v_FC_Juarez.txt
+Atlante v Atletico San Luis -> out/Atlante_v_Atletico_San_Luis.txt
+    !! Atlante: Ambiguous team name "Atlante".
+Requests used: API-Football 131, Matchbook 0
