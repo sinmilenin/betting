@@ -1,6 +1,6 @@
-MATCH Al Ittihad Aleppo v Paro | fetched 2026-10-23 05:43 local
+MATCH Ittihad Aleppo v Paro | fetched 2026-10-23 05:45 local
 
-FORM DATA Al Ittihad Aleppo v Paro | source API-Football | 2026-10-23 05:43 UTC
+FORM DATA Ittihad Aleppo v Paro | source API-Football | 2026-10-23 05:45 UTC
 H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
 
 === Paro (id 9426): last 20 finished games ===
@@ -28,7 +28,7 @@ Listed home: 10 games, scored 37 (3.70), conceded 4 (0.40), blanks 1, clean shee
 Listed away: 10 games, scored 40 (4.00), conceded 8 (0.80), blanks 0, clean sheets 4
 All: 20 games, scored 77 (3.85), conceded 12 (0.60), blanks 1, clean sheets 12
 
-!! Al Ittihad Aleppo: No team found for "Al Ittihad Aleppo".
+!! Ittihad Aleppo: No team found for "Ittihad Aleppo".
 
 TABLE FOR Paro
 LEAGUE TABLE Premier League 2026 | 10 teams | 90 games played
