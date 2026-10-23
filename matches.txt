@@ -1,7 +1,4 @@
-# Night scan 2026-10-23 20:57 (Ljubljana) run 1: new fixtures
-Gimnasia Mendoza v Platense | n=20 | xg=10
-Libertad v Sportivo Luqueno | n=20 | xg=10
-Cruzeiro v Remo | n=20 | xg=10
-Tigre v Atletico Tucuman | n=20 | xg=10
-Necaxa v FC Juarez | n=20 | xg=10
-Atlante v Atletico San Luis | n=20 | xg=10
+# Night scan 2026-10-23 20:57 (Ljubljana) run 2: corrected names (run 1 picked Gimnasia Mendoza reserves; Libertad and Atlante ambiguous)
+Gimnasia M. v Platense | n=20 | xg=10
+id:1179 v Sportivo Luqueno | n=20 | xg=10
+id:2312 v Atletico San Luis | n=20 | xg=10
