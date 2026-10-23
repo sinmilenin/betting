@@ -1,2 +1,7 @@
-# Scan 2026-10-23 20:26 (Ljubljana) run 2: Gimnasia/Sarmiento by id (run 1 picked reserves, Sarmiento ambiguous)
-id:434 v id:474 | n=20 | xg=10
+# Night scan 2026-10-23 20:57 (Ljubljana) run 1: new fixtures
+Gimnasia Mendoza v Platense | n=20 | xg=10
+Libertad v Sportivo Luqueno | n=20 | xg=10
+Cruzeiro v Remo | n=20 | xg=10
+Tigre v Atletico Tucuman | n=20 | xg=10
+Necaxa v FC Juarez | n=20 | xg=10
+Atlante v Atletico San Luis | n=20 | xg=10
