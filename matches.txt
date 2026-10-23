@@ -1,2 +1,2 @@
-# Scan 2026-10-23 12:56 (Ljubljana): regular scan
-Brunei DPMM v Johor Darul Tazim | n=20 | xg=10
+# Scan 2026-10-23 12:56 (Ljubljana): retry with corrected names
+DPMM v Johor Darul Takzim | n=20 | xg=10
