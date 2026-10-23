@@ -20,5 +20,27 @@
     "lay": 15,
     "stake": 3,
     "created": "2026-10-23T05:51:30Z"
+  },
+  {
+    "id": "2026-10-23_veres-rivne-kolos-kovalyovka_0-1",
+    "date": "2026-10-23",
+    "ko": "12:00",
+    "match": "Veres Rivne v Kolos Kovalyovka",
+    "comp": "Ukraine, Ukrainian Premier League",
+    "cell": "0-1",
+    "lay": 9.2,
+    "stake": 3,
+    "created": "2026-10-23T08:01:12+00:00"
+  },
+  {
+    "id": "2026-10-23_veres-rivne-kolos-kovalyovka_1-0",
+    "date": "2026-10-23",
+    "ko": "12:00",
+    "match": "Veres Rivne v Kolos Kovalyovka",
+    "comp": "Ukraine, Ukrainian Premier League",
+    "cell": "1-0",
+    "lay": 10.5,
+    "stake": 3,
+    "created": "2026-10-23T08:01:12+00:00"
   }
 ]
