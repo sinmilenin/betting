@@ -1,7 +1,4 @@
-RUN 2026-10-23 16:20 local | 4 match(es)
-Kapfenberger SV v SKN St Polten -> out/Kapfenberger_SV_v_SKN_St_Polten.txt
-    !! SKN St Polten: No team found for "SKN St Polten".
-id:401 v Brondby -> out/id_401_v_Brondby.txt
-SCR Altach v Austria Vienna -> out/SCR_Altach_v_Austria_Vienna.txt
-Galway United v id:3843 -> out/Galway_United_v_id_3843.txt
-Requests used: API-Football 89, Matchbook 0
+RUN 2026-10-23 16:58 local | 2 match(es)
+FC Volendam v Jong Utrecht -> out/FC_Volendam_v_Jong_Utrecht.txt
+Corvinul Hunedoara v Universitatea Cluj -> out/Corvinul_Hunedoara_v_Universitatea_Cluj.txt
+Requests used: API-Football 50, Matchbook 0
