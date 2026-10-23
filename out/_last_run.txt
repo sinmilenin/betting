@@ -1,5 +1,7 @@
-RUN 2026-10-23 11:45 local | 3 match(es)
-id:181 v id:186 -> out/id_181_v_id_186.txt
-id:224 v Maritimo -> out/id_224_v_Maritimo.txt
-id:715 v Valladolid -> out/id_715_v_Valladolid.txt
-Requests used: API-Football 76, Matchbook 0
+RUN 2026-10-23 12:29 local | 2 match(es)
+East Riffa v Al-Muharraq -> out/East_Riffa_v_Al_Muharraq.txt
+    !! Al-Muharraq: API-Football error: {"search": "The Search field may only contain alpha-numeric characters and spaces."}
+Botosani v Petrolul -> out/Botosani_v_Petrolul.txt
+    !! Botosani: Ambiguous team name "Botosani".
+    !! Petrolul: Ambiguous team name "Petrolul".
+Requests used: API-Football 16, Matchbook 0
