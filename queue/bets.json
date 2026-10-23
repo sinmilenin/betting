@@ -22,17 +22,6 @@
     "created": "2026-10-23T05:51:30Z"
   },
   {
-    "id": "2026-10-23_nk-slovenska-bistrica-nk-bilje_0-1",
-    "date": "2026-10-23",
-    "ko": "15:00",
-    "match": "NK Slovenska Bistrica v NK Bilje",
-    "comp": "Slovenia, Slovenian Cup",
-    "cell": "0-1",
-    "lay": 17,
-    "stake": 3,
-    "created": "2026-10-23T10:17:25Z"
-  },
-  {
     "id": "2026-10-23_sv-darmstadt-st-pauli_2-2",
     "date": "2026-10-23",
     "ko": "18:30",
@@ -295,5 +284,27 @@
     "lay": 19,
     "stake": 3,
     "created": "2026-10-23T19:47:36+02:00"
+  },
+  {
+    "id": "2026-10-23_atletico-grau-asociacion-deportiva-tarma_2-2",
+    "date": "2026-10-23",
+    "ko": "22:15",
+    "match": "Atletico Grau v Asociacion Deportiva Tarma",
+    "comp": "Peru, Peruvian Primera Division",
+    "cell": "2-2",
+    "lay": 19.5,
+    "stake": 3,
+    "created": "2026-10-23T19:04:07Z"
+  },
+  {
+    "id": "2026-10-24_tigre-atl-tucuman_2-1",
+    "date": "2026-10-24",
+    "ko": "02:15",
+    "match": "Tigre v Atl Tucuman",
+    "comp": "Argentina, Argentinian Primera Division",
+    "cell": "2-1",
+    "lay": 11,
+    "stake": 3,
+    "created": "2026-10-23T19:04:07Z"
   }
 ]
