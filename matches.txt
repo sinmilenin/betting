@@ -1,2 +1,2 @@
-# Scan 2026-10-23 20:26 (Ljubljana) run 1: Gimnasia invariant candidate
-Gimnasia La Plata v Sarmiento | n=20 | xg=10
+# Scan 2026-10-23 20:26 (Ljubljana) run 2: Gimnasia/Sarmiento by id (run 1 picked reserves, Sarmiento ambiguous)
+id:434 v id:474 | n=20 | xg=10
