@@ -1,5 +1,22 @@
-# Scan 2026-10-24 07:41 (Ljubljana) run 1: regular 3-hour window, 4 fixtures
-Vissel Kobe v Machida Zelvia | n=20 | xg=10
-Kashima Antlers v Kashiwa Reysol | n=20 | xg=10
-Gamba Osaka v Kyoto Sanga | n=20 | xg=10
-Melbourne Victory v Melbourne City | n=20 | xg=10
+# Scan 2026-10-24 07:41 (Ljubljana) run 2: Kashima retry + top-20 run (20 fixtures)
+Kashima v Kashiwa Reysol | n=20 | xg=10
+Arsenal v Everton | n=20 | xg=10
+Aston Villa v Manchester City | n=20 | xg=10
+Chelsea v Tottenham | n=20 | xg=10
+Atletico Madrid v Deportivo La Coruna | n=20 | xg=10
+Como v Sassuolo | n=20 | xg=10
+Napoli v AS Roma | n=20 | xg=10
+Lazio v Parma | n=20 | xg=10
+Paderborn v Hamburger SV | n=20 | xg=10
+Cagliari v Bologna | n=20 | xg=10
+Coventry v Fulham | n=20 | xg=10
+FC Augsburg v Union Berlin | n=20 | xg=10
+RB Leipzig v Elversberg | n=20 | xg=10
+Racing Santander v Espanyol | n=20 | xg=10
+Gaziantep FK v Erzurumspor | n=20 | xg=10
+Charlton v Norwich | n=20 | xg=10
+Sheffield Utd v Derby | n=20 | xg=10
+Eyupspor v Kasimpasa | n=20 | xg=10
+Gualberto Villarroel v Blooming | n=20 | xg=10
+Samsunspor v Amed | n=20 | xg=10
+FC Koln v Schalke 04 | n=20 | xg=10
