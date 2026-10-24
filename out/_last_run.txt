@@ -1,3 +1,11 @@
-RUN 2026-10-23 19:02 local | 1 match(es)
-id:1066 v id:1064 -> out/id_1066_v_id_1064.txt
-Requests used: API-Football 25, Matchbook 0
+RUN 2026-10-24 04:12 local | 7 match(es)
+FC Seoul v Gangwon -> out/FC_Seoul_v_Gangwon.txt
+Gimcheon Sangmu v Daejeon Citizen -> out/Gimcheon_Sangmu_v_Daejeon_Citizen.txt
+Omiya Ardija v Yokohama FC -> out/Omiya_Ardija_v_Yokohama_FC.txt
+Sanfrecce Hiroshima v Shimizu S-pulse -> out/Sanfrecce_Hiroshima_v_Shimizu_S_pulse.txt
+    !! Shimizu S-pulse: API-Football error: {"search": "The Search field may only contain alpha-numeric characters and spaces."}
+FC Osaka v Kagoshima United -> out/FC_Osaka_v_Kagoshima_United.txt
+    !! FC Osaka: No team found for "FC Osaka".
+Western Sydney Wanderers v Auckland FC -> out/Western_Sydney_Wanderers_v_Auckland_FC.txt
+Tokyo Verdy v Avispa Fukuoka -> out/Tokyo_Verdy_v_Avispa_Fukuoka.txt
+Requests used: API-Football 152, Matchbook 0

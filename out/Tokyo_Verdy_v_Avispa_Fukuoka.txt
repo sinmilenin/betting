@@ -1,0 +1,86 @@
+MATCH Tokyo Verdy v Avispa Fukuoka | fetched 2026-10-24 04:12 local
+
+FORM DATA Tokyo Verdy v Avispa Fukuoka | source API-Football | 2026-10-24 04:12 UTC
+H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
+
+=== Tokyo Verdy (id 306): last 20 finished games ===
+2026-10-21 A 2-2 v Yokohama F. Marinos | J1 League | Tokyo | xG 1.65-1.97
+2026-10-17 H 0-4 v FC Tokyo | J1 League | Chofu | xG 0.09-2.51
+2026-10-11 H 0-2 v Sanfrecce Hiroshima | J1 League | Chofu | xG 0.49-1.39
+2026-10-07 A 0-0 v Gainare Tottori | Emperor Cup | Tottori [PEN, 90-min score shown]
+2026-09-29 A 1-1 v Sagan Tosu | J-League Cup | Tosu [AET, 90-min score shown]
+2026-09-19 A 1-3 v Urawa | J1 League | Saitama | xG 0.34-1.21
+2026-09-13 H 1-1 v JEF United Chiba | J1 League | Tokyo | xG 2.35-1.51
+2026-09-09 A 1-0 v Biwako Shiga | J-League Cup | Hikone
+2026-09-06 A 0-0 v Cerezo Osaka | J1 League | Osaka | xG 0.86-1.43
+2026-09-02 H 0-2 v Vissel Kobe | J1 League | Tokyo | xG 0.90-2.26
+2026-08-29 H 0-2 v Kashima | J1 League | Tokyo
+2026-08-26 H 4-1 v Thespakusatsu Gunma | Emperor Cup | Tokyo
+2026-08-22 A 0-0 v Fagiano Okayama | J1 League | Okayama
+2026-08-14 H 1-3 v Kashiwa Reysol | J1 League | Tokyo
+2026-08-09 H 1-1 v Kawasaki Frontale | J1 League | Tokyo
+2026-06-06 H 2-4 v Gamba Osaka | J1 League | Tokyo
+2026-05-30 A 1-1 v Gamba Osaka | J1 League | Suita
+2026-05-24 H 0-6 v Yokohama F. Marinos | J1 League | Tokyo
+2026-05-16 A 1-0 v Mito Hollyhock | J1 League | Mito
+2026-05-13 A 0-0 v Machida Zelvia | J1 League | Machida [PEN, 90-min score shown]
+Listed home: 10 games, scored 9 (0.90), conceded 26 (2.60), blanks 5, clean sheets 0
+Listed away: 10 games, scored 7 (0.70), conceded 7 (0.70), blanks 4, clean sheets 6
+All: 20 games, scored 16 (0.80), conceded 33 (1.65), blanks 9, clean sheets 6
+
+=== Avispa Fukuoka (id 316): last 20 finished games ===
+2026-10-21 H 1-2 v Gamba Osaka | J1 League | Fukuoka | xG 0.76-0.60
+2026-10-18 A 0-3 v Machida Zelvia | J1 League | Tokyo | xG 1.37-2.02
+2026-10-14 A 1-2 v Sagan Tosu | J-League Cup | Tosu
+2026-10-10 H 2-1 v Fagiano Okayama | J1 League | Fukuoka | xG 1.34-1.21
+2026-10-07 H 0-1 v Yokohama FC | Emperor Cup | Fukuoka
+2026-09-29 A 1-1 v Osaka | J-League Cup | Higashiosaka [AET, 90-min score shown]
+2026-09-19 H 0-1 v Sanfrecce Hiroshima | J1 League | Fukuoka | xG 0.45-4.99
+2026-09-12 A 0-1 v Shimizu S-pulse | J1 League | Shizuoka | xG 0.68-1.89
+2026-09-05 H 1-1 v Mito Hollyhock | J1 League | Fukuoka | xG 1.63-1.32
+2026-09-02 H 2-3 v Urawa | J1 League | Fukuoka | xG 1.37-1.90
+2026-08-29 A 1-2 v Kyoto Sanga | J1 League | Kameoka
+2026-08-26 H 0-0 v Verspah Oita | Emperor Cup | Fukuoka [PEN, 90-min score shown]
+2026-08-22 A 2-3 v Kashima | J1 League | Kashima
+2026-08-15 H 3-0 v Cerezo Osaka | J1 League | Fukuoka
+2026-08-08 H 0-1 v Vissel Kobe | J1 League | Fukuoka
+2026-07-19 H 3-2 v Osaka | Friendlies Clubs | ?
+2026-07-11 H 1-2 v Kitakyushu | Friendlies Clubs | ?
+2026-06-06 A 2-1 v JEF United Chiba | J1 League | Chiba
+2026-05-30 H 2-2 v JEF United Chiba | J1 League | Fukuoka
+2026-05-23 H 0-1 v Vissel Kobe | J1 League | Fukuoka
+Listed home: 13 games, scored 15 (1.15), conceded 17 (1.31), blanks 5, clean sheets 2
+Listed away: 7 games, scored 7 (1.00), conceded 13 (1.86), blanks 2, clean sheets 0
+All: 20 games, scored 22 (1.10), conceded 30 (1.50), blanks 7, clean sheets 2
+
+TABLE FOR Tokyo Verdy
+LEAGUE TABLE J1 League 2027 | 20 teams | 110 games played
+League averages per game: home 1.55, away 1.39, total 2.95
+#   team                   Pts | home P GF-GA  | away P GF-GA  | all P GF-GA
+1   Machida Zelvia          26 |  5  11-7       |  6  19-3       | 11  30-10
+2   FC Tokyo                24 |  6   9-5       |  5  12-3       | 11  21-8
+3   Sanfrecce Hiroshima     23 |  5  16-2       |  6   9-8       | 11  25-10
+4   Vissel Kobe             22 |  4   8-4       |  7  10-7       | 11  18-11
+5   Kashiwa Reysol          22 |  5  11-10      |  6  11-7       | 11  22-17
+6   Kashima                 20 |  5   9-4       |  6  14-14      | 11  23-18
+7   Kawasaki Frontale       19 |  6  15-11      |  5   8-6       | 11  23-17
+8   Urawa                   18 |  5  11-11      |  6   9-12      | 11  20-23
+9   Yokohama F. Marinos     17 |  5   9-7       |  6   6-4       | 11  15-11
+10  Fagiano Okayama         16 |  6   7-7       |  5   7-8       | 11  14-15
+11  Shimizu S-pulse         14 |  7   6-11      |  4   4-5       | 11  10-16
+12  Nagoya Grampus          13 |  5   7-7       |  6   6-10      | 11  13-17
+13  Cerezo Osaka            13 |  6   7-5       |  5   3-12      | 11  10-17
+14  V-varen Nagasaki        12 |  6  11-7       |  5   4-11      | 11  15-18
+15  Gamba Osaka             10 |  4   4-6       |  7   8-13      | 11  12-19
+16  Mito Hollyhock           9 |  6   7-8       |  5   5-8       | 11  12-16
+17  Kyoto Sanga              9 |  5   7-10      |  6   6-11      | 11  13-21
+18  Avispa Fukuoka           7 |  7   9-9       |  4   3-9       | 11  12-18
+19  JEF United Chiba         6 |  5   4-7       |  6   6-15      | 11  10-22
+20  Tokyo Verdy              5 |  7   3-15      |  4   3-5       | 11   6-20
+
+(Avispa Fukuoka: same table as Tokyo Verdy, shown above)
+
+(24 API-Football requests used)
+
+----------------------------------------------------------------------
+MATCHBOOK: skipped (switched off for this run)

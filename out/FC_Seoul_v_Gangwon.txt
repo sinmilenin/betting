@@ -1,0 +1,78 @@
+MATCH FC Seoul v Gangwon | fetched 2026-10-24 04:12 local
+
+FORM DATA FC Seoul v Gangwon | source API-Football | 2026-10-24 04:12 UTC
+H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
+
+=== FC Seoul (id 2766): last 20 finished games ===
+2026-10-18 H 2-2 v Gimcheon Sangmu FC | K League 1 | Seoul
+2026-10-14 A 0-3 v Melbourne Victory | AFC Champions League Two | Melbourne | xG 0.85-1.43
+2026-10-10 H 2-1 v Jeju United FC | K League 1 | Seoul
+2026-09-20 A 1-2 v Pohang Steelers | K League 1 | Sangju
+2026-09-16 H 0-1 v Persib Bandung | AFC Champions League Two | Seoul
+2026-09-12 A 2-1 v Jeonbuk Motors | K League 1 | Jeonju
+2026-09-08 A 0-1 v Ulsan Hyundai FC | K League 1 | Ulsan
+2026-09-05 H 1-0 v Incheon United | K League 1 | Seoul
+2026-08-30 A 5-2 v Gwangju FC | K League 1 | Gwangju
+2026-08-25 H 1-0 v Bucheon FC 1995 | K League 1 | Seoul
+2026-08-22 A 7-0 v FC Anyang | K League 1 | Anyang
+2026-08-15 H 4-2 v Daejeon Citizen | K League 1 | Seoul
+2026-08-08 A 0-0 v Gimcheon Sangmu FC | K League 1 | Gimcheon
+2026-08-01 A 0-0 v Jeonbuk Motors | K League 1 | Jeonju
+2026-07-29 A 0-2 v Busan I Park | FA Cup | Busan
+2026-07-26 H 1-3 v Ulsan Hyundai FC | K League 1 | Seoul
+2026-07-22 H 3-1 v Pohang Steelers | K League 1 | Seoul
+2026-07-19 A 3-1 v Bucheon FC 1995 | K League 1 | Bucheon
+2026-07-12 H 0-0 v Gangwon FC | K League 1 | Seoul
+2026-07-05 H 1-0 v Incheon United | K League 1 | Seoul
+Listed home: 10 games, scored 15 (1.50), conceded 10 (1.00), blanks 2, clean sheets 4
+Listed away: 10 games, scored 18 (1.80), conceded 12 (1.20), blanks 5, clean sheets 3
+All: 20 games, scored 33 (1.65), conceded 22 (1.10), blanks 7, clean sheets 7
+
+=== Gangwon FC (id 2746): last 20 finished games ===
+2026-10-18 H 1-1 v Incheon United | K League 1 | Chuncheon
+2026-10-15 H 1-2 v Phnom Penh Crown | AFC Champions League Two | Gangneung | xG 2.30-0.89
+2026-10-09 H 2-0 v Bucheon FC 1995 | K League 1 | Gangneung | xG 1.74-0.79
+2026-09-27 H 0-0 v Incheon United | K League 1 | Chuncheon
+2026-09-20 H 0-1 v Jeju United FC | K League 1 | Gangneung
+2026-09-17 A 0-0 v Kitchee | AFC Champions League Two | Hongkong
+2026-09-13 A 2-2 v Gimcheon Sangmu FC | K League 1 | Gimcheon
+2026-09-09 H 1-1 v Jeonbuk Motors | K League 1 | Chuncheon
+2026-09-06 A 3-0 v FC Anyang | K League 1 | Anyang
+2026-08-30 H 0-0 v Pohang Steelers | K League 1 | Chuncheon
+2026-08-26 H 2-2 v Gwangju FC | K League 1 | Chuncheon
+2026-08-23 A 0-3 v Daejeon Citizen | K League 1 | Daejeon
+2026-08-19 H 0-0 v Seongnam FC | FA Cup | Chuncheon [PEN, 90-min score shown]
+2026-08-16 A 3-2 v Ulsan Hyundai FC | K League 1 | Ulsan
+2026-08-11 H 0-0 v Gamba Osaka | AFC Champions League Elite | Gangneung [AET, 90-min score shown]
+2026-08-01 H 0-3 v Bucheon FC 1995 | K League 1 | Chuncheon
+2026-07-26 A 1-2 v FC Anyang | K League 1 | Anyang
+2026-07-21 A 1-1 v Jeju United FC | K League 1 | Seogwipo
+2026-07-18 H 2-0 v Gimcheon Sangmu FC | K League 1 | Chuncheon
+2026-07-13 A 1-2 v Vietnam | Friendlies | ?
+Listed home: 12 games, scored 9 (0.75), conceded 10 (0.83), blanks 6, clean sheets 6
+Listed away: 8 games, scored 11 (1.38), conceded 12 (1.50), blanks 2, clean sheets 2
+All: 20 games, scored 20 (1.00), conceded 22 (1.10), blanks 8, clean sheets 8
+
+TABLE FOR FC Seoul
+LEAGUE TABLE K League 1 2026 | 12 teams | 192 games played
+League averages per game: home 1.21, away 1.28, total 2.49
+#   team                   Pts | home P GF-GA  | away P GF-GA  | all P GF-GA
+1   FC Seoul                66 | 15  26-13      | 17  34-15      | 32  60-28
+2   Ulsan Hyundai FC        50 | 16  28-24      | 16  22-21      | 32  50-45
+3   Jeonbuk Motors          47 | 16  26-19      | 16  16-13      | 32  42-32
+4   Gangwon FC              47 | 17  20-14      | 15  19-15      | 32  39-29
+5   Daejeon Citizen         46 | 17  24-22      | 15  27-18      | 32  51-40
+6   Jeju United FC          46 | 17  18-18      | 15  20-16      | 32  38-34
+7   Incheon United          43 | 16  20-16      | 16  20-18      | 32  40-34
+8   FC Anyang               42 | 15  17-27      | 17  22-20      | 32  39-47
+9   Pohang Steelers         41 | 14   6-11      | 18  22-26      | 32  28-37
+10  Gimcheon Sangmu FC      34 | 15  14-21      | 17  18-18      | 32  32-39
+11  Bucheon FC 1995         32 | 17  18-26      | 15  14-18      | 32  32-44
+12  Gwangju FC              18 | 17  16-34      | 15  11-35      | 32  27-69
+
+(Gangwon FC: same table as FC Seoul, shown above)
+
+(25 API-Football requests used)
+
+----------------------------------------------------------------------
+MATCHBOOK: skipped (switched off for this run)

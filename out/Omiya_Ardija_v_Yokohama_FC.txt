@@ -1,0 +1,86 @@
+MATCH Omiya Ardija v Yokohama FC | fetched 2026-10-24 04:12 local
+
+FORM DATA Omiya Ardija v Yokohama FC | source API-Football | 2026-10-24 04:12 UTC
+H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
+
+=== Omiya Ardija (id 313): last 20 finished games ===
+2026-10-21 H 0-3 v Kataller Toyama | J2 League | Saitama
+2026-10-17 A 1-2 v Sagan Tosu | J2 League | Tosu
+2026-10-10 H 3-1 v Vanraure Hachinohe | J2 League | Saitama
+2026-10-07 A 2-3 v Urawa | Emperor Cup | Saitama
+2026-10-04 A 1-1 v Tegevajaro Miyazaki | J2 League | Miyazaki
+2026-09-26 H 5-1 v Ventforet Kofu | J2 League | Saitama
+2026-09-19 A 1-1 v Fujieda MYFC | J2 League | Fujieda
+2026-09-12 H 0-0 v Oita Trinita | J2 League | Saitama
+2026-09-06 A 0-0 v Blaublitz Akita | J2 League | Akita
+2026-09-02 A 1-3 v Gainare Tottori | J-League Cup | Tottori
+2026-08-29 H 2-2 v Shonan Bellmare | J2 League | Saitama
+2026-08-26 H 2-0 v Vanraure Hachinohe | Emperor Cup | Saitama
+2026-08-22 A 4-1 v Consadole Sapporo | J2 League | Sapporo
+2026-08-15 A 3-2 v Imabari | J2 League | Imabari
+2026-08-08 H 1-0 v Albirex Niigata | J2 League | Saitama
+2026-08-01 A 2-2 v Urawa | Friendlies Clubs | ?
+2026-06-06 H 2-1 v Kochi United | J2/J3 League | Saitama
+2026-05-30 A 1-2 v Yokohama FC | J2/J3 League | Yokohama
+2026-05-23 A 2-0 v FC Gifu | J2/J3 League | Gifu
+2026-05-17 H 1-2 v Parceiro Nagano | J2/J3 League | Saitama
+Listed home: 9 games, scored 16 (1.78), conceded 10 (1.11), blanks 2, clean sheets 3
+Listed away: 11 games, scored 18 (1.64), conceded 17 (1.55), blanks 1, clean sheets 2
+All: 20 games, scored 34 (1.70), conceded 27 (1.35), blanks 3, clean sheets 5
+
+=== Yokohama FC (id 307): last 20 finished games ===
+2026-10-21 A 3-0 v Ventforet Kofu | J2 League | Kofu
+2026-10-17 A 1-1 v Tochigi City | J2 League | Tochigi
+2026-10-14 H 0-4 v Urawa | J-League Cup | Yokohama
+2026-10-10 H 1-2 v Oita Trinita | J2 League | Yokohama
+2026-10-07 A 1-0 v Avispa Fukuoka | Emperor Cup | Fukuoka
+2026-10-04 A 2-0 v Vanraure Hachinohe | J2 League | Hachinohe
+2026-09-29 A 2-1 v FC Gifu | J-League Cup | Gifu
+2026-09-26 A 3-3 v Kataller Toyama | J2 League | Toyama
+2026-09-19 H 2-1 v Imabari | J2 League | Yokohama
+2026-09-12 A 0-2 v Iwaki | J2 League | Iwaki
+2026-09-06 H 5-0 v Albirex Niigata | J2 League | Yokohama
+2026-09-02 A 3-2 v FC Ryukyu | J-League Cup | Okinawa
+2026-08-29 H 2-2 v Sagan Tosu | J2 League | Yokohama
+2026-08-26 H 3-1 v Criacao Shinjuku | Emperor Cup | Yokohama
+2026-08-22 A 0-2 v Montedio Yamagata | J2 League | Tendo
+2026-08-16 H 3-1 v Jubilo Iwata | J2 League | Tokyo
+2026-08-08 A 1-0 v Tegevajaro Miyazaki | J2 League | Miyazaki
+2026-07-18 H 3-2 v Kitakyushu | Friendlies Clubs | ?
+2026-06-06 H 2-1 v Renofa Yamaguchi | J2/J3 League | Yokohama
+2026-05-30 H 2-1 v Omiya Ardija | J2/J3 League | Yokohama
+Listed home: 10 games, scored 23 (2.30), conceded 15 (1.50), blanks 1, clean sheets 1
+Listed away: 10 games, scored 16 (1.60), conceded 11 (1.10), blanks 2, clean sheets 4
+All: 20 games, scored 39 (1.95), conceded 26 (1.30), blanks 3, clean sheets 5
+
+TABLE FOR Omiya Ardija
+LEAGUE TABLE J2 League 2026 | 20 teams | 120 games played
+League averages per game: home 1.45, away 1.15, total 2.60
+#   team                   Pts | home P GF-GA  | away P GF-GA  | all P GF-GA
+1   Vegalta Sendai          27 |  6  10-5       |  6  11-4       | 12  21-9
+2   Albirex Niigata         23 |  6  10-4       |  6   7-16      | 12  17-20
+3   Kataller Toyama         22 |  6  11-8       |  6  12-3       | 12  23-11
+4   Yokohama FC             21 |  5  13-6       |  7  10-8       | 12  23-14
+5   Omiya Ardija            20 |  6  11-7       |  6  10-7       | 12  21-14
+6   Shonan Bellmare         19 |  5   5-6       |  7   8-5       | 12  13-11
+7   Oita Trinita            18 |  6  13-6       |  6   3-3       | 12  16-9
+8   Tegevajaro Miyazaki     17 |  7  10-8       |  5   7-8       | 12  17-16
+9   Iwaki                   16 |  6  12-6       |  6   7-12      | 12  19-18
+10  Fujieda MYFC            15 |  6   7-3       |  6   8-10      | 12  15-13
+11  Jubilo Iwata            15 |  6   5-5       |  6   8-9       | 12  13-14
+12  Sagan Tosu              14 |  6   9-7       |  6   3-8       | 12  12-15
+13  Tokushima Vortis        14 |  6   6-3       |  6   4-10      | 12  10-13
+14  Consadole Sapporo       14 |  6   8-10      |  6   7-9       | 12  15-19
+15  Vanraure Hachinohe      14 |  6   3-8       |  6   7-12      | 12  10-20
+16  Montedio Yamagata       13 |  7   7-7       |  5   4-4       | 12  11-11
+17  Blaublitz Akita         13 |  6  10-7       |  6   3-7       | 12  13-14
+18  Tochigi City            12 |  6  11-11      |  6   8-9       | 12  19-20
+19  Imabari                 11 |  5   7-11      |  7   8-14      | 12  15-25
+20  Ventforet Kofu          10 |  7   6-10      |  5   3-16      | 12   9-26
+
+(Yokohama FC: same table as Omiya Ardija, shown above)
+
+(25 API-Football requests used)
+
+----------------------------------------------------------------------
+MATCHBOOK: skipped (switched off for this run)
