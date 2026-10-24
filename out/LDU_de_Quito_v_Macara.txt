@@ -1,7 +1,32 @@
-MATCH Liga de Quito v Macara | fetched 2026-10-24 19:03 local
+MATCH LDU de Quito v Macara | fetched 2026-10-24 19:04 local
 
-FORM DATA Liga de Quito v Macara | source API-Football | 2026-10-24 19:03 UTC
+FORM DATA LDU de Quito v Macara | source API-Football | 2026-10-24 19:04 UTC
 H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
+
+=== LDU de Quito (id 1158): last 20 finished games ===
+2026-10-17 A 1-1 v Aucas | Liga Pro | Quito | xG 1.95-1.06
+2026-10-11 H 2-1 v Barcelona SC | Liga Pro | Quito | xG 0.00-0.00
+2026-09-20 H 2-1 v Universidad Catolica | Liga Pro | Quito
+2026-09-16 H 3-2 v Palmeiras | CONMEBOL Libertadores | Quito [PEN, 90-min score shown]
+2026-09-13 H 1-1 v Deportivo Cuenca | Liga Pro | Quito
+2026-09-09 A 0-1 v Palmeiras | CONMEBOL Libertadores | Sao Paulo
+2026-09-05 A 3-1 v Tecnico Universitario | Liga Pro | Ambato | xG 1.72-0.45
+2026-09-02 H 0-0 v Mushuc Runa SC | Liga Pro | Quito
+2026-08-29 A 1-2 v Guayaquil City FC | Liga Pro | Guayaquil
+2026-08-26 H 1-0 v Aucas | Copa Ecuador | Quito
+2026-08-24 H 2-0 v Emelec | Liga Pro | Quito
+2026-08-20 H 0-0 v Mirassol | CONMEBOL Libertadores | Quito [PEN, 90-min score shown]
+2026-08-17 A 1-0 v Aucas | Liga Pro | Quito
+2026-08-13 A 1-1 v Mirassol | CONMEBOL Libertadores | Mirassol
+2026-08-08 H 0-2 v Independiente del Valle | Liga Pro | Quito
+2026-08-04 H 2-1 v Delfin SC | Liga Pro | Quito
+2026-07-30 H 6-0 v Leones del Norte | Copa Ecuador | Quito
+2026-07-27 A 1-0 v Barcelona SC | Liga Pro | Guayaquil
+2026-07-23 A 1-1 v Manta FC | Liga Pro | Manta
+2026-07-18 H 0-1 v Leones del Norte | Liga Pro | Quito
+Listed home: 12 games, scored 19 (1.58), conceded 9 (0.75), blanks 4, clean sheets 5
+Listed away: 8 games, scored 9 (1.12), conceded 7 (0.88), blanks 1, clean sheets 2
+All: 20 games, scored 28 (1.40), conceded 16 (0.80), blanks 5, clean sheets 7
 
 === Macara (id 1155): last 20 finished games ===
 2026-10-17 H 1-0 v Independiente del Valle | Liga Pro | Ambato | xG 0.98-1.76
@@ -28,9 +53,7 @@ Listed home: 9 games, scored 15 (1.67), conceded 6 (0.67), blanks 1, clean sheet
 Listed away: 11 games, scored 17 (1.55), conceded 13 (1.18), blanks 1, clean sheets 2
 All: 20 games, scored 32 (1.60), conceded 19 (0.95), blanks 2, clean sheets 7
 
-!! Liga de Quito: No team found for "Liga de Quito".
-
-TABLE FOR Macara
+TABLE FOR LDU de Quito
 LEAGUE TABLE Liga Pro 2026 | 32 teams | 504 games played
 League averages per game: home 1.31, away 0.97, total 2.28
 #   team                   Pts | home P GF-GA  | away P GF-GA  | all P GF-GA
@@ -67,7 +90,9 @@ League averages per game: home 1.31, away 0.97, total 2.28
 15  Tecnico Universitario   33 | 16  19-22      | 17  11-24      | 33  30-46 [Liga Pro: Relegation Group]
 16  Manta FC                27 | 17  10-15      | 16  12-32      | 33  22-47 [Liga Pro: Relegation Group]
 
-(14 API-Football requests used)
+(Macara: same table as LDU de Quito, shown above)
+
+(25 API-Football requests used)
 
 ----------------------------------------------------------------------
 MATCHBOOK: skipped (switched off for this run)

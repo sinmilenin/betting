@@ -1,21 +1,32 @@
-MATCH Sao Bernardo FC v Vila Nova | fetched 2026-10-24 19:03 local
+MATCH id:7865 v Vila Nova | fetched 2026-10-24 19:04 local
 
-FORM DATA Sao Bernardo FC v Vila Nova | source API-Football | 2026-10-24 19:03 UTC
+FORM DATA id:7865 v Vila Nova | source API-Football | 2026-10-24 19:04 UTC
 H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
 
-=== São Bernardo FC U20 (id 13060): last 9 finished games ===
-2022-01-13 H 0-2 v IAPE U20 | São Paulo Youth Cup | Jundiaí, São Paulo
-2022-01-11 A 2-0 v Bragantino PA U20 | São Paulo Youth Cup | Jundiaí, São Paulo
-2022-01-08 H 1-1 v Ceará U20 | São Paulo Youth Cup | Jundiaí, São Paulo
-2022-01-05 A 1-0 v Paulista U20 | São Paulo Youth Cup | Jundiaí, São Paulo
-2020-01-14 A 1-4 v Atlético Mineiro U20 | São Paulo Youth Cup | São Paulo, São Paulo
-2020-01-12 H 3-1 v Ríver U20 | São Paulo Youth Cup | Guaratinguetá, São Paulo
-2020-01-09 A 3-2 v Resende FC U20 | São Paulo Youth Cup | Guaratinguetá, São Paulo
-2020-01-06 H 2-2 v ABC U20 | São Paulo Youth Cup | Guaratinguetá, São Paulo
-2020-01-03 A 4-0 v Manthiqueira U20 | São Paulo Youth Cup | Guaratinguetá, São Paulo
-Listed home: 4 games, scored 6 (1.50), conceded 6 (1.50), blanks 1, clean sheets 0
-Listed away: 5 games, scored 11 (2.20), conceded 6 (1.20), blanks 0, clean sheets 3
-All: 9 games, scored 17 (1.89), conceded 12 (1.33), blanks 1, clean sheets 3
+=== São Bernardo (id 7865): last 20 finished games ===
+2026-10-18 H 0-1 v Criciuma | Serie B | San Bernado do Campo | xG 0.42-0.78
+2026-10-11 A 2-2 v Juventude | Serie B | Caxias do Sul | xG 1.35-1.86
+2026-10-06 A 1-2 v Sport Recife | Serie B | Recife | xG 1.99-1.63
+2026-10-02 H 3-1 v CRB | Serie B | Sao Bernardo | xG 0.56-1.93
+2026-09-25 A 0-0 v Novorizontino | Serie B | Novo Horizonte | xG 0.27-0.56
+2026-09-19 H 1-0 v Atletico Goianiense | Serie B | Sao Bernardo
+2026-09-14 A 2-0 v America Mineiro | Serie B | Belo Horizonte | xG 0.75-1.45
+2026-09-10 H 1-2 v Londrina | Serie B | Sao Bernardo do Campo | xG 0.90-2.16
+2026-09-06 A 2-0 v Ponte Preta | Serie B | Campinas | xG 1.21-0.64
+2026-08-28 A 1-2 v Goias | Serie B | Goiânia | xG 1.11-1.10
+2026-08-23 H 1-1 v Nautico Recife | Serie B | Sao Bernardo do Campo
+2026-08-19 A 1-1 v Fortaleza EC | Serie B | Fortaleza
+2026-08-14 H 0-1 v Botafogo SP | Serie B | Sao Bernardo do Campo
+2026-08-07 A 3-1 v Operario-PR | Serie B | Ponta Grossa
+2026-07-26 H 3-4 v Ceara | Serie B | Sao Bernardo do Campo
+2026-07-23 A 1-2 v Athletic Club | Serie B | São João del Rei
+2026-07-17 H 1-1 v Avai | Serie B | Sao Bernardo do Campo
+2026-07-12 H 2-2 v Cuiaba | Serie B | Sao Bernardo do Campo
+2026-07-06 A 1-2 v Vila Nova | Serie B | Goiânia
+2026-06-27 A 0-1 v Criciuma | Serie B | Criciúma
+Listed home: 9 games, scored 12 (1.33), conceded 13 (1.44), blanks 2, clean sheets 1
+Listed away: 11 games, scored 14 (1.27), conceded 13 (1.18), blanks 2, clean sheets 3
+All: 20 games, scored 26 (1.30), conceded 26 (1.30), blanks 4, clean sheets 4
 
 === Vila Nova (id 142): last 20 finished games ===
 2026-10-18 H 2-2 v Novorizontino | Serie B | Goiania | xG 1.08-0.48
@@ -42,9 +53,7 @@ Listed home: 10 games, scored 19 (1.90), conceded 5 (0.50), blanks 2, clean shee
 Listed away: 10 games, scored 7 (0.70), conceded 13 (1.30), blanks 5, clean sheets 4
 All: 20 games, scored 26 (1.30), conceded 18 (0.90), blanks 7, clean sheets 10
 
-(no league table available for São Bernardo FC U20: tried São Paulo Youth Cup 2022, São Paulo Youth Cup 2020)
-
-TABLE FOR Vila Nova
+TABLE FOR São Bernardo
 LEAGUE TABLE Serie B 2026 | 20 teams | 342 games played
 League averages per game: home 1.32, away 1.00, total 2.32
 #   team                   Pts | home P GF-GA  | away P GF-GA  | all P GF-GA
@@ -69,7 +78,9 @@ League averages per game: home 1.32, away 1.00, total 2.32
 19  America Mineiro         20 | 17  13-22      | 17   9-32      | 34  22-54
 20  Ponte Preta             14 | 17  11-26      | 17   8-48      | 34  19-74
 
-(26 API-Football requests used)
+(Vila Nova: same table as São Bernardo, shown above)
+
+(25 API-Football requests used)
 
 ----------------------------------------------------------------------
 MATCHBOOK: skipped (switched off for this run)

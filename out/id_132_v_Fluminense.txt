@@ -1,7 +1,32 @@
-MATCH Chapecoense-sc v Fluminense | fetched 2026-10-24 19:03 local
+MATCH id:132 v Fluminense | fetched 2026-10-24 19:04 local
 
-FORM DATA Chapecoense-sc v Fluminense | source API-Football | 2026-10-24 19:03 UTC
+FORM DATA id:132 v Fluminense | source API-Football | 2026-10-24 19:04 UTC
 H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
+
+=== Chapecoense-sc (id 132): last 20 finished games ===
+2026-10-17 A 0-1 v Botafogo | Serie A | Rio de Janeiro | xG 0.24-2.41
+2026-10-12 H 1-4 v Atletico Paranaense | Serie A | Chapeco | xG 1.75-1.39
+2026-10-07 A 0-4 v Vitoria | Serie A | El Salvador | xG 0.38-2.67
+2026-09-26 A 1-1 v Atletico Nacional | Friendlies Clubs | ?
+2026-09-19 A 1-1 v Atletico-MG | Serie A | Belo Horizonte | xG 1.13-2.20
+2026-09-12 H 1-2 v Internacional | Serie A | Chapecó | xG 0.70-0.34
+2026-09-06 A 2-1 v Corinthians | Serie A | Sao Paulo | xG 0.95-2.12
+2026-08-30 A 1-3 v Gremio | Serie A | Porto Alegre | xG 2.81-0.67
+2026-08-23 H 1-0 v Sao Paulo | Serie A | Chapecó | xG 0.64-1.81
+2026-08-16 H 3-3 v Bahia | Serie A | Chapecó | xG 1.25-2.43
+2026-08-08 A 1-2 v Coritiba | Serie A | Curitiba
+2026-08-05 A 0-2 v Cruzeiro | Copa Do Brasil | Belo Horizonte
+2026-08-02 H 0-0 v Cruzeiro | Copa Do Brasil | ?
+2026-07-25 A 2-2 v Santos | Serie A | Santos
+2026-07-23 H 0-4 v Flamengo | Serie A | Chapeco
+2026-07-17 A 0-2 v Bahia | Serie A | Salvador
+2026-07-04 A 2-1 v Gremio | Friendlies Clubs | ?
+2026-06-07 H 3-0 v Avai | Copa Sul-Sudeste | ? [PEN, 90-min score shown]
+2026-06-03 A 0-3 v Avai | Copa Sul-Sudeste | ?
+2026-05-31 A 0-1 v Palmeiras | Serie A | Sao Paulo
+Listed home: 7 games, scored 9 (1.29), conceded 13 (1.86), blanks 2, clean sheets 3
+Listed away: 13 games, scored 10 (0.77), conceded 24 (1.85), blanks 6, clean sheets 0
+All: 20 games, scored 19 (0.95), conceded 37 (1.85), blanks 8, clean sheets 3
 
 === Fluminense (id 124): last 20 finished games ===
 2026-10-22 A 1-0 v Palmeiras | CONMEBOL Libertadores | Sao Paulo | xG 0.32-0.67 [PEN, 90-min score shown]
@@ -28,7 +53,30 @@ Listed home: 10 games, scored 15 (1.50), conceded 10 (1.00), blanks 2, clean she
 Listed away: 10 games, scored 12 (1.20), conceded 13 (1.30), blanks 2, clean sheets 2
 All: 20 games, scored 27 (1.35), conceded 23 (1.15), blanks 4, clean sheets 7
 
-!! Chapecoense-sc: API-Football error: {"search": "The Search field may only contain alpha-numeric characters and spaces."}
+TABLE FOR Chapecoense-sc
+LEAGUE TABLE Serie A 2026 | 20 teams | 310 games played
+League averages per game: home 1.52, away 1.14, total 2.66
+#   team                   Pts | home P GF-GA  | away P GF-GA  | all P GF-GA
+1   Flamengo                67 | 15  29-10      | 16  32-15      | 31  61-25
+2   Palmeiras               66 | 15  28-10      | 16  26-12      | 31  54-22
+3   Cruzeiro                54 | 16  27-16      | 16  24-30      | 32  51-46
+4   Atletico Paranaense     53 | 16  27-15      | 15  22-22      | 31  49-37
+5   Fluminense              51 | 16  29-16      | 15  20-23      | 31  49-39
+6   Atletico-MG             50 | 16  27-17      | 15  15-18      | 31  42-35
+7   Bahia                   49 | 16  23-17      | 15  21-22      | 31  44-39
+8   Santos                  45 | 15  22-20      | 16  26-26      | 31  48-46
+9   Sao Paulo               42 | 16  25-13      | 15  11-22      | 31  36-35
+10  RB Bragantino           41 | 15  24-17      | 16  15-19      | 31  39-36
+11  Botafogo                39 | 16  26-22      | 15  18-26      | 31  44-48
+12  Coritiba                39 | 15  20-20      | 16  18-29      | 31  38-49
+13  Vitoria                 37 | 15  22-12      | 16  12-33      | 31  34-45
+14  Mirassol                36 | 16  23-21      | 15  13-23      | 31  36-44
+15  Vasco DA Gama           35 | 15  21-18      | 15  15-25      | 30  36-43
+16  Corinthians             33 | 16  16-17      | 15  16-22      | 31  32-39
+17  Internacional           32 | 15  18-17      | 16  15-23      | 31  33-40
+18  Gremio                  31 | 16  25-21      | 15   9-23      | 31  34-44
+19  Remo                    26 | 16  20-21      | 16  14-29      | 32  34-50
+20  Chapecoense-sc          18 | 14  19-33      | 16  11-29      | 30  30-62
 
 TABLE FOR Fluminense
 LEAGUE TABLE CONMEBOL Libertadores 2026 | 32 teams | 96 games played
@@ -67,7 +115,7 @@ League averages per game: home 1.47, away 0.86, total 2.33
 3   UCV                      9 |  3   5-4       |  3   2-7       |  6   7-11 [Group H]
 4   Libertad Asuncion        0 |  3   2-5       |  3   2-8       |  6   4-13 [Group H]
 
-(14 API-Football requests used)
+(26 API-Football requests used)
 
 ----------------------------------------------------------------------
 MATCHBOOK: skipped (switched off for this run)

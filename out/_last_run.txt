@@ -1,8 +1,5 @@
-RUN 2026-10-24 19:03 local | 4 match(es)
-Sao Bernardo FC v Vila Nova -> out/Sao_Bernardo_FC_v_Vila_Nova.txt
-Liga de Quito v Macara -> out/Liga_de_Quito_v_Macara.txt
-    !! Liga de Quito: No team found for "Liga de Quito".
-Chapecoense-sc v Fluminense -> out/Chapecoense_sc_v_Fluminense.txt
-    !! Chapecoense-sc: API-Football error: {"search": "The Search field may only contain alpha-numeric characters and spaces."}
-Orlando City SC v New York City FC -> out/Orlando_City_SC_v_New_York_City_FC.txt
-Requests used: API-Football 79, Matchbook 0
+RUN 2026-10-24 19:04 local | 3 match(es)
+id:7865 v Vila Nova -> out/id_7865_v_Vila_Nova.txt
+id:132 v Fluminense -> out/id_132_v_Fluminense.txt
+LDU de Quito v Macara -> out/LDU_de_Quito_v_Macara.txt
+Requests used: API-Football 76, Matchbook 0
