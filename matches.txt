@@ -1,5 +1,11 @@
-# Scan 2026-10-24 09:11 (Ljubljana) run 2: corrected names (Henan = Henan Jianye, Shandong Taishan = Shandong Luneng, Chengdu Rongcheng = Chengdu Better City, Dalian Yingbo = Dalian Zhixing, Tobol = id:2259)
-Henan Jianye v Beijing Guoan | n=20 | xg=10
-Wuhan Three Towns v Shandong Luneng | n=20 | xg=10
-Chengdu Better City v Dalian Zhixing | n=20 | xg=10
-Zhetysu v id:2259 | n=20 | xg=10
+# Scan 2026-10-24 10:42 (Ljubljana) run 1
+Heidenheim v Energie Cottbus | n=20 | xg=10
+Hertha Berlin v Arminia Bielefeld | n=20 | xg=10
+Magdeburg v Karlsruher SC | n=20 | xg=10
+Kyzyl-Zhar v Ulytau | n=20 | xg=10
+Northampton v Colchester | n=20 | xg=10
+Portsmouth v Millwall | n=20 | xg=10
+Huddersfield v Wigan | n=20 | xg=10
+Luton v Leicester | n=20 | xg=10
+Bristol Rovers v Swindon | n=20 | xg=10
+Harrogate Town v Sutton | n=20 | xg=10
