@@ -1,6 +1,6 @@
-MATCH FCSB v Rapid 1923 | fetched 2026-10-24 15:33 local
+MATCH FCSB v Rapid | fetched 2026-10-24 15:34 local
 
-FORM DATA FCSB v Rapid 1923 | source API-Football | 2026-10-24 15:33 UTC
+FORM DATA FCSB v Rapid | source API-Football | 2026-10-24 15:34 UTC
 H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
 
 === FCSB (id 559): last 20 finished games ===
@@ -28,7 +28,30 @@ Listed home: 9 games, scored 16 (1.78), conceded 15 (1.67), blanks 1, clean shee
 Listed away: 11 games, scored 12 (1.09), conceded 20 (1.82), blanks 5, clean sheets 3
 All: 20 games, scored 28 (1.40), conceded 35 (1.75), blanks 6, clean sheets 6
 
-!! Rapid 1923: No team found for "Rapid 1923".
+=== Rapid (id 6231): last 20 finished games ===
+2026-10-17 H 2-0 v Corvinul Hunedoara | Liga I | Bucharest | xG 1.36-0.83
+2026-10-12 A 4-3 v Universitatea Cluj | Liga I | Cluj Napoca | xG 1.83-1.76
+2026-10-02 H 2-0 v Genoa | Friendlies Clubs | ?
+2026-09-18 H 3-1 v Arges Pitesti | Liga I | Bucharest
+2026-09-12 H 2-1 v FC Voluntari | Liga I | Bucharest | xG 1.93-1.09
+2026-09-06 A 1-0 v Oţelul | Liga I | Galati | xG 2.97-0.39
+2026-09-03 A 2-0 v FC Politehnica Timisoara | Cupa României | Sibiu
+2026-08-31 H 1-1 v Universitatea Craiova | Liga I | Bucharest | xG 1.39-2.06
+2026-08-21 A 2-0 v Petrolul Ploiesti | Liga I | Ploiesti | xG 1.31-1.21
+2026-08-15 H 0-1 v Dinamo Bucuresti | Liga I | Bucharest | xG 1.70-1.41
+2026-08-07 A 0-0 v Uta Arad | Liga I | Arad
+2026-08-02 H 3-1 v CFR 1907 Cluj | Liga I | Bucharest
+2026-07-27 A 1-1 v FC Botosani | Liga I | Botosani
+2026-07-20 H 1-0 v Sepsi OSK Sfantu Gheorghe | Liga I | Bucharest
+2026-07-09 H 1-2 v Slovan Liberec | Friendlies Clubs | ?
+2026-07-08 H 1-1 v FK Košice | Friendlies Clubs | ?
+2026-07-05 A 0-0 v Rapid Vienna | Friendlies Clubs | ?
+2026-07-02 A 3-1 v Dynamo Kyiv | Friendlies Clubs | ?
+2026-05-25 H 0-0 v Universitatea Craiova | Liga I | Bucharest
+2026-05-15 A 2-2 v Arges Pitesti | Liga I | Mioveni
+Listed home: 11 games, scored 16 (1.45), conceded 8 (0.73), blanks 2, clean sheets 4
+Listed away: 9 games, scored 15 (1.67), conceded 7 (0.78), blanks 2, clean sheets 5
+All: 20 games, scored 31 (1.55), conceded 15 (0.75), blanks 4, clean sheets 9
 
 TABLE FOR FCSB
 LEAGUE TABLE Liga I 2026 | 16 teams | 99 games played
@@ -51,7 +74,9 @@ League averages per game: home 1.71, away 0.95, total 2.66
 15  FC Voluntari             8 |  7   8-10      |  6   5-19      | 13  13-29
 16  Csikszereda              5 |  6   5-10      |  7   4-16      | 13   9-26
 
-(14 API-Football requests used)
+(Rapid: same table as FCSB, shown above)
+
+(25 API-Football requests used)
 
 ----------------------------------------------------------------------
 MATCHBOOK: skipped (switched off for this run)

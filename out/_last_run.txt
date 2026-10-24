@@ -1,6 +1,4 @@
-RUN 2026-10-24 15:33 local | 2 match(es)
-Girona v Celta Vigo II -> out/Girona_v_Celta_Vigo_II.txt
-    !! Celta Vigo II: No team found for "Celta Vigo II".
-FCSB v Rapid 1923 -> out/FCSB_v_Rapid_1923.txt
-    !! Rapid 1923: No team found for "Rapid 1923".
-Requests used: API-Football 28, Matchbook 0
+RUN 2026-10-24 15:34 local | 2 match(es)
+Girona v Celta de Vigo II -> out/Girona_v_Celta_de_Vigo_II.txt
+FCSB v Rapid -> out/FCSB_v_Rapid.txt
+Requests used: API-Football 50, Matchbook 0
