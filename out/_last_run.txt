@@ -1,21 +1,8 @@
-RUN 2026-10-24 19:00 local | 14 match(es)
-Sao Bernardo v Vila Nova -> out/Sao_Bernardo_v_Vila_Nova.txt
-    !! Sao Bernardo: Ambiguous team name "Sao Bernardo".
-Atletico Goianiense v Novorizontino -> out/Atletico_Goianiense_v_Novorizontino.txt
-LDU Quito v Macara -> out/LDU_Quito_v_Macara.txt
-    !! LDU Quito: Ambiguous team name "LDU Quito".
-Palmeiras v RB Bragantino -> out/Palmeiras_v_RB_Bragantino.txt
-Vasco da Gama v Corinthians -> out/Vasco_da_Gama_v_Corinthians.txt
-Chapecoense v Fluminense -> out/Chapecoense_v_Fluminense.txt
-    !! Chapecoense: Ambiguous team name "Chapecoense".
-Philadelphia Union v New England Revolution -> out/Philadelphia_Union_v_New_England_Revolut.txt
-Orlando City v New York City -> out/Orlando_City_v_New_York_City.txt
-    !! Orlando City: Ambiguous team name "Orlando City".
-    !! New York City: Ambiguous team name "New York City".
-Santos v Bahia -> out/Santos_v_Bahia.txt
-FC Dallas v San Jose Earthquakes -> out/FC_Dallas_v_San_Jose_Earthquakes.txt
-Herediano v Cartagines -> out/Herediano_v_Cartagines.txt
-Wellington Phoenix v Central Coast Mariners -> out/Wellington_Phoenix_v_Central_Coast_Marin.txt
-San Diego v Seattle Sounders -> out/San_Diego_v_Seattle_Sounders.txt
-Portland Timbers v Charlotte -> out/Portland_Timbers_v_Charlotte.txt
-Requests used: API-Football 295, Matchbook 0
+RUN 2026-10-24 19:03 local | 4 match(es)
+Sao Bernardo FC v Vila Nova -> out/Sao_Bernardo_FC_v_Vila_Nova.txt
+Liga de Quito v Macara -> out/Liga_de_Quito_v_Macara.txt
+    !! Liga de Quito: No team found for "Liga de Quito".
+Chapecoense-sc v Fluminense -> out/Chapecoense_sc_v_Fluminense.txt
+    !! Chapecoense-sc: API-Football error: {"search": "The Search field may only contain alpha-numeric characters and spaces."}
+Orlando City SC v New York City FC -> out/Orlando_City_SC_v_New_York_City_FC.txt
+Requests used: API-Football 79, Matchbook 0

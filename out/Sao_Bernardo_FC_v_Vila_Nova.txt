@@ -1,13 +1,22 @@
-MATCH Sao Bernardo v Vila Nova | fetched 2026-10-24 19:00 local
+MATCH Sao Bernardo FC v Vila Nova | fetched 2026-10-24 19:03 local
 
-FORM DATA Sao Bernardo v Vila Nova | source API-Football | 2026-10-24 19:00 UTC
+FORM DATA Sao Bernardo FC v Vila Nova | source API-Football | 2026-10-24 19:03 UTC
 H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
 
-"Sao Bernardo" matches several teams. Use id:<number> instead of the name:
-  id:7865   São Bernardo (Brazil)
-  id:10033  EC São Bernardo (Brazil)
-  id:13005  EC São Bernardo U20 (Brazil)
-  id:13060  São Bernardo FC U20 (Brazil)
+=== São Bernardo FC U20 (id 13060): last 9 finished games ===
+2022-01-13 H 0-2 v IAPE U20 | São Paulo Youth Cup | Jundiaí, São Paulo
+2022-01-11 A 2-0 v Bragantino PA U20 | São Paulo Youth Cup | Jundiaí, São Paulo
+2022-01-08 H 1-1 v Ceará U20 | São Paulo Youth Cup | Jundiaí, São Paulo
+2022-01-05 A 1-0 v Paulista U20 | São Paulo Youth Cup | Jundiaí, São Paulo
+2020-01-14 A 1-4 v Atlético Mineiro U20 | São Paulo Youth Cup | São Paulo, São Paulo
+2020-01-12 H 3-1 v Ríver U20 | São Paulo Youth Cup | Guaratinguetá, São Paulo
+2020-01-09 A 3-2 v Resende FC U20 | São Paulo Youth Cup | Guaratinguetá, São Paulo
+2020-01-06 H 2-2 v ABC U20 | São Paulo Youth Cup | Guaratinguetá, São Paulo
+2020-01-03 A 4-0 v Manthiqueira U20 | São Paulo Youth Cup | Guaratinguetá, São Paulo
+Listed home: 4 games, scored 6 (1.50), conceded 6 (1.50), blanks 1, clean sheets 0
+Listed away: 5 games, scored 11 (2.20), conceded 6 (1.20), blanks 0, clean sheets 3
+All: 9 games, scored 17 (1.89), conceded 12 (1.33), blanks 1, clean sheets 3
+
 === Vila Nova (id 142): last 20 finished games ===
 2026-10-18 H 2-2 v Novorizontino | Serie B | Goiania | xG 1.08-0.48
 2026-10-11 A 2-0 v Nautico Recife | Serie B | Recife | xG 0.70-0.60
@@ -33,13 +42,7 @@ Listed home: 10 games, scored 19 (1.90), conceded 5 (0.50), blanks 2, clean shee
 Listed away: 10 games, scored 7 (0.70), conceded 13 (1.30), blanks 5, clean sheets 4
 All: 20 games, scored 26 (1.30), conceded 18 (0.90), blanks 7, clean sheets 10
 
-(retrying Sao Bernardo using the opponent's country, Brazil)
-"Sao Bernardo" matches several teams. Use id:<number> instead of the name:
-  id:7865   São Bernardo (Brazil)
-  id:10033  EC São Bernardo (Brazil)
-  id:13005  EC São Bernardo U20 (Brazil)
-  id:13060  São Bernardo FC U20 (Brazil)
-!! Sao Bernardo: Ambiguous team name "Sao Bernardo".
+(no league table available for São Bernardo FC U20: tried São Paulo Youth Cup 2022, São Paulo Youth Cup 2020)
 
 TABLE FOR Vila Nova
 LEAGUE TABLE Serie B 2026 | 20 teams | 342 games played
@@ -66,7 +69,7 @@ League averages per game: home 1.32, away 1.00, total 2.32
 19  America Mineiro         20 | 17  13-22      | 17   9-32      | 34  22-54
 20  Ponte Preta             14 | 17  11-26      | 17   8-48      | 34  19-74
 
-(15 API-Football requests used)
+(26 API-Football requests used)
 
 ----------------------------------------------------------------------
 MATCHBOOK: skipped (switched off for this run)
