@@ -1,0 +1,57 @@
+MATCH Bodo/Glimt v Valerenga | fetched 2026-10-24 13:16 local
+
+FORM DATA Bodo/Glimt v Valerenga | source API-Football | 2026-10-24 13:16 UTC
+H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
+
+=== Valerenga (id 326): last 20 finished games ===
+2026-10-18 H 3-1 v Brann | Eliteserien | Oslo | xG 2.76-2.93
+2026-10-12 A 1-2 v KFUM Oslo | Eliteserien | Oslo | xG 1.70-2.04
+2026-09-20 H 1-1 v Fredrikstad | Eliteserien | Oslo | xG 1.55-0.71
+2026-09-17 A 4-1 v Skeid | NM Cupen | ?
+2026-09-12 A 0-2 v Lillestrom | Eliteserien | Lillestrøm | xG 1.57-0.70
+2026-09-06 A 2-2 v Sarpsborg 08 FF | Eliteserien | Sarpsborg | xG 1.29-2.04
+2026-08-30 H 3-4 v Molde | Eliteserien | Oslo | xG 1.82-1.73
+2026-08-23 A 7-2 v Christiania BK | NM Cupen | ?
+2026-08-16 A 5-5 v Aalesund | Eliteserien | Aalesund | xG 3.45-2.60
+2026-08-08 H 1-2 v Bodo/Glimt | Eliteserien | Oslo | xG 1.22-1.90
+2026-07-31 H 0-3 v Ham-Kam | Eliteserien | Oslo
+2026-07-26 A 3-2 v Brann | Eliteserien | Bergen
+2026-07-16 H 6-1 v Aalesund | Eliteserien | Oslo
+2026-07-11 A 0-4 v Tromso | Eliteserien | Tromso
+2026-07-04 H 3-1 v Fredrikstad | Friendlies Clubs | ?
+2026-06-27 H 1-2 v Gais | Friendlies Clubs | ?
+2026-06-18 A 1-1 v IFK Goteborg | Friendlies Clubs | ?
+2026-05-29 H 3-1 v Kristiansund BK | Eliteserien | Oslo
+2026-05-25 A 0-2 v Start | Eliteserien | Kristiansand
+2026-05-16 H 3-2 v Sarpsborg 08 FF | Eliteserien | Oslo
+Listed home: 10 games, scored 24 (2.40), conceded 18 (1.80), blanks 1, clean sheets 0
+Listed away: 10 games, scored 23 (2.30), conceded 23 (2.30), blanks 3, clean sheets 0
+All: 20 games, scored 47 (2.35), conceded 41 (2.05), blanks 4, clean sheets 0
+
+!! Bodo/Glimt: API-Football error: {"search": "The Search field may only contain alpha-numeric characters and spaces."}
+
+TABLE FOR Valerenga
+LEAGUE TABLE Eliteserien 2026 | 16 teams | 184 games played
+League averages per game: home 1.83, away 1.38, total 3.21
+#   team                   Pts | home P GF-GA  | away P GF-GA  | all P GF-GA
+1   Bodo/Glimt              56 | 11  34-7       | 12  24-13      | 23  58-20
+2   Viking                  56 | 11  41-12      | 12  18-10      | 23  59-22
+3   Molde                   40 | 12  30-14      | 11  22-21      | 23  52-35
+4   Tromso                  40 | 12  22-10      | 11  20-21      | 23  42-31
+5   Rosenborg               37 | 12  28-14      | 11  15-17      | 23  43-31
+6   Lillestrom              36 | 11  19-17      | 12  13-14      | 23  32-31
+7   Brann                   29 | 12  20-18      | 11  20-19      | 23  40-37
+8   Fredrikstad             29 | 11  14-12      | 12  14-24      | 23  28-36
+9   KFUM Oslo               29 | 12  15-14      | 11  13-23      | 23  28-37
+10  Sarpsborg 08 FF         28 | 11  12-15      | 12  16-19      | 23  28-34
+11  Valerenga               26 | 12  23-20      | 11  15-26      | 23  38-46
+12  Ham-Kam                 26 | 11  17-21      | 12  16-27      | 23  33-48
+13  Sandefjord              24 | 12  10-12      | 11  12-18      | 23  22-30
+14  Aalesund                24 | 12  24-30      | 11  15-21      | 23  39-51
+15  Kristiansund BK         19 | 11  14-18      | 12   9-29      | 23  23-47
+16  Start                   16 | 11  14-19      | 12  11-35      | 23  25-54
+
+(14 API-Football requests used)
+
+----------------------------------------------------------------------
+MATCHBOOK: skipped (switched off for this run)

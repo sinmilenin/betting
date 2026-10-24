@@ -1,7 +1,4 @@
-RUN 2026-10-24 12:33 local | 5 match(es)
-Sirius v id:377 -> out/Sirius_v_id_377.txt
-Teplice v id:3733 -> out/Teplice_v_id_3733.txt
-id:2874 v Al Urooba -> out/id_2874_v_Al_Urooba.txt
-Ordabasy v Zhenys -> out/Ordabasy_v_Zhenys.txt
-id:1072 v Wolfsberger AC -> out/id_1072_v_Wolfsberger_AC.txt
-Requests used: API-Football 127, Matchbook 0
+RUN 2026-10-24 13:16 local | 1 match(es)
+Bodo/Glimt v Valerenga -> out/Bodo_Glimt_v_Valerenga.txt
+    !! Bodo/Glimt: API-Football error: {"search": "The Search field may only contain alpha-numeric characters and spaces."}
+Requests used: API-Football 14, Matchbook 0
