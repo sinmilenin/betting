@@ -1,2 +1,2 @@
-# Scan 2026-10-24 15:13 (Ljubljana) run 2: team-name fix
-Bodo Glimt v Valerenga | n=20 | xg=10
+# Scan 2026-10-24 15:13 (Ljubljana) run 3: Bodo/Glimt by team id
+id:327 v Valerenga | n=20 | xg=10
