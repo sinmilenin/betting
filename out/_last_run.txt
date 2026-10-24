@@ -1,3 +1,8 @@
-RUN 2026-10-24 16:18 local | 1 match(es)
-Duhail v Lusail -> out/Duhail_v_Lusail.txt
-Requests used: API-Football 25, Matchbook 0
+RUN 2026-10-24 16:59 local | 3 match(es)
+Arezzo v Benevento -> out/Arezzo_v_Benevento.txt
+Al Riyadh v Al Taawoun -> out/Al_Riyadh_v_Al_Taawoun.txt
+    !! Al Taawoun: No team found for "Al Taawoun".
+Internacional v Botafogo -> out/Internacional_v_Botafogo.txt
+    !! Internacional: Ambiguous team name "Internacional".
+    !! Botafogo: Ambiguous team name "Botafogo".
+Requests used: API-Football 41, Matchbook 0
