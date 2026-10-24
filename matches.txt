@@ -1,2 +1,5 @@
-# Scan 2026-10-24 16:42 (Ljubljana) run 2: AEK by id
-id:575 v Panetolikos | n=20 | xg=10
+# Scan 2026-10-24 17:27 (Ljubljana)
+Malkiya v Al Ahli | n=20 | xg=10
+Girona v Celta Vigo B | n=20 | xg=10
+Sport Huancayo v Alianza Atletico | n=20 | xg=10
+FCSB v Rapid Bucuresti | n=20 | xg=10
