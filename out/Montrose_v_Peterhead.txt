@@ -1,0 +1,76 @@
+MATCH Montrose v Peterhead | fetched 2026-10-24 11:47 local
+
+FORM DATA Montrose v Peterhead | source API-Football | 2026-10-24 11:48 UTC
+H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
+
+=== Montrose (id 4251): last 20 finished games ===
+2026-10-17 A 1-1 v East Kilbride | League One | East Kilbride
+2026-10-13 H 2-1 v Dundee United II | Challenge Cup | Montrose
+2026-10-10 H 0-5 v Ross County | League One | Montrose
+2026-10-03 A 0-1 v Airdrie United | League One | Airdrie
+2026-09-26 A 1-2 v Kelty Hearts | Challenge Cup | Kelty
+2026-09-22 A 2-3 v Formartine United | Challenge Cup | ?
+2026-09-19 A 2-1 v East Fife | League One | Methil
+2026-09-12 H 2-1 v Cove Rangers | League One | Montrose
+2026-09-08 H 3-2 v Dundee II | Challenge Cup | Montrose
+2026-09-05 A 3-0 v Peterhead | League One | Peterhead
+2026-08-29 H 2-1 v Queen of the South | League One | Montrose
+2026-08-25 H 3-0 v Clyde | Challenge Cup | Montrose
+2026-08-22 H 3-0 v East Kilbride | League One | Montrose
+2026-08-15 A 0-3 v Alloa Athletic | League One | Alloa
+2026-08-11 H 2-0 v Fraserburgh | Challenge Cup | Montrose
+2026-08-08 A 1-2 v Ross County | League One | Dingwall
+2026-08-01 H 0-5 v Hamilton Academical | League One | Montrose
+2026-07-25 H 0-2 v Spartans | League Cup | Montrose
+2026-07-21 A 2-0 v Arbroath | League Cup | Arbroath
+2026-07-18 A 2-0 v Stirling Albion | League Cup | Stirling
+Listed home: 10 games, scored 17 (1.70), conceded 17 (1.70), blanks 3, clean sheets 3
+Listed away: 10 games, scored 14 (1.40), conceded 13 (1.30), blanks 2, clean sheets 3
+All: 20 games, scored 31 (1.55), conceded 30 (1.50), blanks 5, clean sheets 6
+
+=== Peterhead (id 6777): last 20 finished games ===
+2026-10-17 H 2-0 v Cove Rangers | League One | Peterhead
+2026-10-13 H 1-0 v Rangers U21 | Challenge Cup | Peterhead
+2026-10-10 H 0-1 v Queen of the South | League One | Peterhead
+2026-10-03 A 1-2 v Hamilton Academical | League One | Hamilton
+2026-09-26 H 0-1 v Elgin City | Challenge Cup | Peterhead
+2026-09-22 A 2-0 v Forfar Athletic | Challenge Cup | Forfar
+2026-09-19 H 1-2 v Airdrie United | League One | Peterhead
+2026-09-12 A 1-3 v East Kilbride | League One | East Kilbride
+2026-09-08 H 2-1 v Clachnacuddin | Challenge Cup | Peterhead
+2026-09-05 H 0-3 v Montrose | League One | Peterhead
+2026-08-29 A 1-1 v Alloa Athletic | League One | Alloa
+2026-08-25 H 2-1 v Dundee II | Challenge Cup | Peterhead
+2026-08-22 A 0-3 v Cove Rangers | League One | Aberdeen
+2026-08-15 H 2-1 v East Fife | League One | Peterhead
+2026-08-11 A 5-1 v Banks O' Dee | Challenge Cup | ?
+2026-08-08 A 1-0 v Queen of the South | League One | Dumfries
+2026-08-01 H 0-1 v Ross County | League One | Peterhead
+2026-07-25 H 0-0 v Kilmarnock | League Cup | Peterhead [PEN, 90-min score shown]
+2026-07-21 A 0-1 v Raith Rovers | League Cup | Kirkcaldy
+2026-07-14 A 3-1 v Elgin City | League Cup | Elgin
+Listed home: 11 games, scored 10 (0.91), conceded 11 (1.00), blanks 5, clean sheets 3
+Listed away: 9 games, scored 14 (1.56), conceded 12 (1.33), blanks 2, clean sheets 2
+All: 20 games, scored 24 (1.20), conceded 23 (1.15), blanks 7, clean sheets 5
+
+TABLE FOR Montrose
+LEAGUE TABLE League One 2026 | 10 teams | 54 games played
+League averages per game: home 1.56, away 1.31, total 2.87
+#   team                   Pts | home P GF-GA  | away P GF-GA  | all P GF-GA
+1   Ross County             28 |  4  18-2       |  6  20-4       | 10  38-6
+2   Hamilton Academical     28 |  5  12-2       |  5  11-1       | 10  23-3
+3   East Kilbride           18 |  6  14-6       |  5   6-9       | 11  20-15
+4   Montrose                16 |  5   7-12      |  6   7-8       | 11  14-20
+5   Airdrie United          13 |  6   5-6       |  5   5-9       | 11  10-15
+6   Alloa Athletic          12 |  5   5-6       |  6   7-7       | 11  12-13
+7   Peterhead               10 |  6   5-8       |  5   4-9       | 11   9-17
+8   Queen of the South      10 |  6   8-15      |  5   4-19      | 11  12-34
+9   East Fife                9 |  6   5-10      |  5   3-4       | 11   8-14
+10  Cove Rangers             6 |  5   5-4       |  6   4-14      | 11   9-18
+
+(Peterhead: same table as Montrose, shown above)
+
+(25 API-Football requests used)
+
+----------------------------------------------------------------------
+MATCHBOOK: skipped (switched off for this run)

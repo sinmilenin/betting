@@ -1,0 +1,90 @@
+MATCH Rotherham v Shrewsbury | fetched 2026-10-24 11:47 local
+
+FORM DATA Rotherham v Shrewsbury | source API-Football | 2026-10-24 11:48 UTC
+H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
+
+=== Rotherham (id 73): last 20 finished games ===
+2026-10-20 H 2-2 v Newport County | League Two | Rotherham | xG 1.44-1.92
+2026-10-17 A 0-2 v Fleetwood Town | League Two | Fleetwood | xG 0.77-2.24
+2026-10-10 H 1-4 v Gillingham | League Two | Rotherham | xG 1.52-2.05
+2026-10-06 H 0-4 v Bradford | EFL Trophy | Rotherham
+2026-10-03 A 0-1 v Exeter City | League Two | Exeter | xG 0.37-2.15
+2026-09-26 H 1-1 v Crewe | League Two | Rotherham
+2026-09-22 A 1-1 v York | EFL Trophy | York [PEN, 90-min score shown]
+2026-09-19 A 1-0 v Northampton | League Two | Northampton | xG 1.63-1.33
+2026-09-12 H 3-3 v Salford City | League Two | Rotherham | xG 3.60-1.78
+2026-09-05 A 0-1 v Bristol Rovers | League Two | Bristol | xG 1.39-1.35
+2026-09-01 A 2-2 v Tranmere | League Two | Wirral
+2026-08-29 H 2-1 v Chesterfield | League Two | Rotherham
+2026-08-22 H 1-1 v York | League Two | Rotherham
+2026-08-15 A 1-2 v Cheltenham | League Two | Cheltenham
+2026-08-08 H 1-4 v West Brom | League Cup | Rotherham
+2026-08-04 H 1-1 v Derby | Friendlies Clubs | ?
+2026-07-28 A 2-0 v Darlington 1883 | Friendlies Clubs | ?
+2026-07-25 H 0-2 v Sheffield Utd | Friendlies Clubs | ?
+2026-07-21 A 1-0 v Alfreton Town | Friendlies Clubs | ?
+2026-07-18 A 1-1 v Matlock Town | Friendlies Clubs | ?
+Listed home: 10 games, scored 12 (1.20), conceded 23 (2.30), blanks 2, clean sheets 0
+Listed away: 10 games, scored 9 (0.90), conceded 10 (1.00), blanks 3, clean sheets 3
+All: 20 games, scored 21 (1.05), conceded 33 (1.65), blanks 5, clean sheets 3
+
+=== Shrewsbury (id 1352): last 20 finished games ===
+2026-10-20 A 3-2 v Crawley Town | League Two | Crawley | xG 1.78-1.42
+2026-10-17 H 1-0 v Bristol Rovers | League Two | Shrewsbury | xG 1.66-0.53
+2026-10-10 H 0-1 v Exeter City | League Two | Shrewsbury | xG 1.96-1.01
+2026-10-06 H 0-2 v Stockport County | EFL Trophy | Shrewsbury
+2026-10-03 A 2-1 v Grimsby | League Two | Grimsby | xG 1.18-2.05
+2026-09-26 H 2-2 v Colchester | League Two | Shrewsbury
+2026-09-22 A 0-1 v Tranmere | EFL Trophy | Birkenhead
+2026-09-19 A 1-1 v Crewe | League Two | Crewe | xG 3.10-1.61
+2026-09-12 H 2-0 v Northampton | League Two | Shrewsbury | xG 1.27-0.52
+2026-09-05 A 0-2 v Fleetwood Town | League Two | Fleetwood | xG 0.86-1.00
+2026-09-01 A 0-3 v Rochdale | League Two | Rochdale
+2026-08-29 H 1-0 v Salford City | League Two | Shrewsbury
+2026-08-25 A 0-4 v Fleetwood Town | League Cup | Fleetwood
+2026-08-22 H 1-3 v Barnet | League Two | Shrewsbury
+2026-08-15 A 0-2 v Tranmere | League Two | Wirral
+2026-08-08 A 1-1 v Salford City | League Cup | Salford [PEN, 90-min score shown]
+2026-07-28 A 1-1 v Hereford | Friendlies Clubs | ?
+2026-07-25 H 1-4 v West Brom | Friendlies Clubs | ?
+2026-07-21 H 1-0 v Everton U21 | Friendlies Clubs | ?
+2026-07-19 H 4-0 v Isle of Man | Friendlies Clubs | ?
+Listed home: 10 games, scored 13 (1.30), conceded 12 (1.20), blanks 2, clean sheets 5
+Listed away: 10 games, scored 8 (0.80), conceded 18 (1.80), blanks 5, clean sheets 0
+All: 20 games, scored 21 (1.05), conceded 30 (1.50), blanks 7, clean sheets 5
+
+TABLE FOR Rotherham
+LEAGUE TABLE League Two 2026 | 24 teams | 138 games played
+League averages per game: home 1.51, away 1.03, total 2.54
+#   team                   Pts | home P GF-GA  | away P GF-GA  | all P GF-GA
+1   Salford City            25 |  6   7-3       |  6  12-9       | 12  19-12
+2   Barnet                  21 |  5  11-8       |  5  12-7       | 10  23-15
+3   Crewe                   21 |  6  11-7       |  6   4-4       | 12  15-11
+4   Walsall                 19 |  5   8-2       |  6   8-5       | 11  16-7
+5   Cheltenham              18 |  6  13-10      |  6   8-12      | 12  21-22
+6   York                    17 |  6  14-5       |  5   5-8       | 11  19-13
+7   Gillingham              17 |  6   7-5       |  6  10-9       | 12  17-14
+8   Shrewsbury              17 |  6   7-6       |  6   6-11      | 12  13-17
+9   Chesterfield            16 |  6  11-8       |  6   7-8       | 12  18-16
+10  Exeter City             16 |  6   6-1       |  6   2-5       | 12   8-6
+11  Accrington ST           15 |  6  12-7       |  6   5-9       | 12  17-16
+12  Newport County          15 |  6  10-5       |  6   6-10      | 12  16-15
+13  Tranmere                15 |  6   9-6       |  6   6-9       | 12  15-15
+14  Rochdale                15 |  6  10-8       |  6   5-9       | 12  15-17
+15  Swindon Town            15 |  6  10-6       |  6   3-10      | 12  13-16
+16  Bristol Rovers          15 |  6  11-8       |  6   5-12      | 12  16-20
+17  Grimsby                 14 |  6   8-6       |  6   7-9       | 12  15-15
+18  Fleetwood Town          14 |  6   7-4       |  6   7-11      | 12  14-15
+19  Colchester              12 |  5   5-3       |  6   6-11      | 11  11-14
+20  Port Vale               12 |  5   4-1       |  5   2-9       | 10   6-10
+21  Oldham                  11 |  6  11-7       |  5   2-10      | 11  13-17
+22  Rotherham               11 |  6  10-12      |  6   4-8       | 12  14-20
+23  Northampton             10 |  5   2-3       |  5   4-5       | 10   6-8
+24  Crawley Town             5 |  5   5-11      |  5   6-9       | 10  11-20
+
+(Shrewsbury: same table as Rotherham, shown above)
+
+(24 API-Football requests used)
+
+----------------------------------------------------------------------
+MATCHBOOK: skipped (switched off for this run)

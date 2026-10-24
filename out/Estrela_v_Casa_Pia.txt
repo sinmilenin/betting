@@ -1,0 +1,40 @@
+MATCH Estrela v Casa Pia | fetched 2026-10-24 11:47 local
+
+FORM DATA Estrela v Casa Pia | source API-Football | 2026-10-24 11:48 UTC
+H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
+
+=== Estrela (id 15130): last 20 finished games ===
+2026-10-17 A 2-1 v Fazendense | Taça de Portugal | ?
+2026-10-11 A 0-1 v Arouca | Primeira Liga | Aruca | xG 1.45-0.74
+2026-09-20 H 0-2 v Academico Viseu | Primeira Liga | Amadora | xG 0.84-2.54
+2026-09-14 A 3-3 v Rio Ave | Primeira Liga | Vila do Conde | xG 1.87-1.23
+2026-09-10 H 2-1 v SC Braga | Primeira Liga | Alverca do Ribatejo | xG 0.57-0.61
+2026-09-05 H 2-2 v Famalicao | Primeira Liga | Amadora | xG 0.94-1.80
+2026-08-30 A 3-2 v Nacional | Primeira Liga | Funchal | xG 2.10-0.83
+2026-08-15 A 2-2 v Alverca | Primeira Liga | Alverca do Ribatejo | xG 1.36-1.94
+2026-08-08 H 2-2 v Sporting CP | Primeira Liga | Amadora | xG 1.10-2.63
+2026-08-01 H 4-2 v Al-Nassr | Friendlies Clubs | Amadora
+2026-07-29 H 1-0 v Lusitano Évora 1911 | Friendlies Clubs | ?
+2026-07-29 H 1-1 v Portimonense | Friendlies Clubs | ?
+2026-07-23 H 2-0 v Nacional | Friendlies Clubs | ?
+2026-07-18 H 1-2 v Casa Pia | Friendlies Clubs | ?
+2026-07-15 H 2-0 v Naval 1893 | Friendlies Clubs | ?
+2026-05-16 A 2-2 v SC Braga | Primeira Liga | Braga
+2026-05-11 H 0-0 v Famalicao | Primeira Liga | Amadora
+2026-05-02 A 2-3 v Moreirense | Primeira Liga | Moreira de Conegos
+2026-04-26 H 1-2 v FC Porto | Primeira Liga | Amadora
+2026-04-19 A 0-1 v Arouca | Primeira Liga | Arouca
+Listed home: 12 games, scored 18 (1.50), conceded 14 (1.17), blanks 2, clean sheets 4
+Listed away: 8 games, scored 14 (1.75), conceded 15 (1.88), blanks 2, clean sheets 0
+All: 20 games, scored 32 (1.60), conceded 29 (1.45), blanks 4, clean sheets 4
+
+!! Casa Pia: API-Football error: HTTP 429 from API-Football
+
+  (standings for Taça de Portugal 2026 not available: HTTP 429 from API-Football)
+  (standings for Primeira Liga 2026 not available: HTTP 429 from API-Football)
+(no league table available for Estrela: tried Taça de Portugal 2026, Primeira Liga 2026)
+
+(12 API-Football requests used)
+
+----------------------------------------------------------------------
+MATCHBOOK: skipped (switched off for this run)

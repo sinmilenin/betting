@@ -1,0 +1,13 @@
+MATCH NEOM v Abha | fetched 2026-10-24 11:47 local
+
+FORM DATA NEOM v Abha | source API-Football | 2026-10-24 11:48 UTC
+H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
+
+!! NEOM: API-Football error: HTTP 429 from API-Football
+
+!! Abha: API-Football error: HTTP 429 from API-Football
+
+(0 API-Football requests used)
+
+----------------------------------------------------------------------
+MATCHBOOK: skipped (switched off for this run)
