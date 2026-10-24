@@ -22,17 +22,6 @@
     "created": "2026-10-24T05:52:51Z"
   },
   {
-    "id": "2026-10-24_harrogate-town-sutton-utd_2-1",
-    "date": "2026-10-24",
-    "ko": "13:30",
-    "match": "Harrogate Town v Sutton Utd",
-    "comp": "United Kingdom, English National League",
-    "cell": "2-1",
-    "lay": 9.4,
-    "stake": 3,
-    "created": "2026-10-24T10:52:05+02:00"
-  },
-  {
     "id": "2026-10-24_apollon-kalamarias-niki-volou_0-2",
     "date": "2026-10-24",
     "ko": "14:00",
@@ -132,17 +121,6 @@
     "created": "2026-10-24T12:23:40+02:00"
   },
   {
-    "id": "2026-10-24_harrogate-town-sutton-utd_1-0",
-    "date": "2026-10-24",
-    "ko": "13:30",
-    "match": "Harrogate Town v Sutton Utd",
-    "comp": "United Kingdom, English National League",
-    "cell": "1-0",
-    "lay": 8.8,
-    "stake": 3,
-    "created": "2026-10-24T12:23:40+02:00"
-  },
-  {
     "id": "2026-10-24_sudtirol-sampdoria_2-2",
     "date": "2026-10-24",
     "ko": "15:00",
@@ -152,17 +130,6 @@
     "lay": 17,
     "stake": 3,
     "created": "2026-10-24T12:23:40+02:00"
-  },
-  {
-    "id": "2026-10-24_aston-villa-man-city_2-3",
-    "date": "2026-10-24",
-    "ko": "13:30",
-    "match": "Aston Villa v Man City",
-    "comp": "United Kingdom, English Premier League",
-    "cell": "2-3",
-    "lay": 19,
-    "stake": 3,
-    "created": "2026-10-24T13:07:31+02:00"
   },
   {
     "id": "2026-10-24_hansa-rostock-fortuna-dusseldorf_2-2",
@@ -581,5 +548,82 @@
     "lay": 16.5,
     "stake": 3,
     "created": "2026-10-24T19:05:39+02:00"
+  },
+  {
+    "id": "2026-10-24_al-riyadh-sc-al-taawoun-buraidah_2-2",
+    "date": "2026-10-24",
+    "ko": "20:00",
+    "match": "Al Riyadh SC v Al-Taawoun Buraidah",
+    "comp": "Saudi Arabia, Saudi Professional League",
+    "cell": "2-2",
+    "lay": 16.5,
+    "stake": 3,
+    "created": "2026-10-24T19:50:34+02:00"
+  },
+  {
+    "id": "2026-10-24_al-riyadh-sc-al-taawoun-buraidah_0-1",
+    "date": "2026-10-24",
+    "ko": "20:00",
+    "match": "Al Riyadh SC v Al-Taawoun Buraidah",
+    "comp": "Saudi Arabia, Saudi Professional League",
+    "cell": "0-1",
+    "lay": 10,
+    "stake": 3,
+    "created": "2026-10-24T19:50:34+02:00"
+  },
+  {
+    "id": "2026-10-24_st-etienne-nantes_0-1",
+    "date": "2026-10-24",
+    "ko": "20:45",
+    "match": "St Etienne v Nantes",
+    "comp": "France, French Ligue 2",
+    "cell": "0-1",
+    "lay": 20,
+    "stake": 3,
+    "created": "2026-10-24T19:50:34+02:00"
+  },
+  {
+    "id": "2026-10-24_mirassol-sao-paulo_2-2",
+    "date": "2026-10-24",
+    "ko": "21:30",
+    "match": "Mirassol v Sao Paulo",
+    "comp": "Brazil, Brazilian Serie A",
+    "cell": "2-2",
+    "lay": 18,
+    "stake": 3,
+    "created": "2026-10-24T19:50:34+02:00"
+  },
+  {
+    "id": "2026-10-24_barranquilla-real-cartagena_0-1",
+    "date": "2026-10-24",
+    "ko": "22:30",
+    "match": "Barranquilla v Real Cartagena",
+    "comp": "Colombia, Colombian Primera B",
+    "cell": "0-1",
+    "lay": 10.5,
+    "stake": 3,
+    "created": "2026-10-24T19:50:34+02:00"
+  },
+  {
+    "id": "2026-10-24_quindio-tigres-fc-zipaquira_2-1",
+    "date": "2026-10-24",
+    "ko": "22:30",
+    "match": "Quindio v Tigres FC Zipaquira",
+    "comp": "Colombia, Colombian Primera B",
+    "cell": "2-1",
+    "lay": 11,
+    "stake": 3,
+    "created": "2026-10-24T19:50:34+02:00"
+  },
+  {
+    "id": "2026-10-24_quindio-tigres-fc-zipaquira_1-0",
+    "date": "2026-10-24",
+    "ko": "22:30",
+    "match": "Quindio v Tigres FC Zipaquira",
+    "comp": "Colombia, Colombian Primera B",
+    "cell": "1-0",
+    "lay": 6.4,
+    "stake": 3,
+    "created": "2026-10-24T19:50:34+02:00"
   }
 ]
