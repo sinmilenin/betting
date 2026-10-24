@@ -1,5 +1,5 @@
-# Scan 2026-10-24 09:11 (Ljubljana): new fixtures
-Henan Songshan Longmen v Beijing Guoan | n=20 | xg=10
-Wuhan Three Towns v Shandong Taishan | n=20 | xg=10
-Chengdu Rongcheng v Dalian Yingbo | n=20 | xg=10
-Zhetysu v Tobol | n=20 | xg=10
+# Scan 2026-10-24 09:11 (Ljubljana) run 2: corrected names (Henan = Henan Jianye, Shandong Taishan = Shandong Luneng, Chengdu Rongcheng = Chengdu Better City, Dalian Yingbo = Dalian Zhixing, Tobol = id:2259)
+Henan Jianye v Beijing Guoan | n=20 | xg=10
+Wuhan Three Towns v Shandong Luneng | n=20 | xg=10
+Chengdu Better City v Dalian Zhixing | n=20 | xg=10
+Zhetysu v id:2259 | n=20 | xg=10
