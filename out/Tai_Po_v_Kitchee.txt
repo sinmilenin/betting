@@ -1,0 +1,76 @@
+MATCH Tai Po v Kitchee | fetched 2026-10-24 10:18 local
+
+FORM DATA Tai Po v Kitchee | source API-Football | 2026-10-24 10:18 UTC
+H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
+
+=== Wofoo Tai Po (id 4457): last 20 finished games ===
+2026-10-19 H 4-2 v Southern District | Premier League | Hong Kong
+2026-10-15 H 0-1 v Home United | AFC Champions League Two | Hong Kong | xG 0.47-1.46
+2026-10-10 H 1-1 v Kowloon City | Premier League | Hongkong
+2026-10-04 A 3-1 v BC Rangers | League Cup | Hongkong
+2026-09-17 A 0-3 v Adelaide United | AFC Champions League Two | Adelaide
+2026-09-12 H 1-2 v Hong Kong FC | Premier League | Hongkong
+2026-09-05 H 3-2 v BC Rangers | Premier League | Hongkong
+2026-08-30 H 4-1 v Eastern | Premier League | Hongkong
+2026-08-23 A 0-2 v North District | Premier League | Hongkong
+2026-05-30 H 2-1 v Eastern District | FA Cup | Hongkong
+2026-05-23 H 2-0 v BC Rangers | FA Cup | Hongkong
+2026-05-17 A 3-2 v Warriors | Premier League | Hongkong
+2026-05-09 A 4-2 v Eastern | Premier League | Hongkong
+2026-05-02 H 3-0 v Kitchee | Premier League | Hongkong
+2026-04-18 H 3-2 v North District | Premier League | Hongkong
+2026-04-11 A 3-1 v Eastern District | Premier League | Hongkong
+2026-03-22 A 2-0 v BC Rangers | Premier League | Hongkong
+2026-03-15 H 1-0 v Southern District | Premier League | Hongkong
+2026-03-11 A 0-1 v Warriors | League Cup | Hongkong
+2026-03-07 H 1-1 v Kitchee | FA Cup | Hongkong [PEN, 90-min score shown]
+Listed home: 12 games, scored 25 (2.08), conceded 13 (1.08), blanks 1, clean sheets 3
+Listed away: 8 games, scored 15 (1.88), conceded 12 (1.50), blanks 3, clean sheets 1
+All: 20 games, scored 40 (2.00), conceded 25 (1.25), blanks 4, clean sheets 4
+
+=== Kitchee (id 4453): last 20 finished games ===
+2026-10-19 A 5-1 v Warriors | Premier League | Hongkong
+2026-10-15 A 1-1 v Kuching FA | AFC Champions League Two | Kuching | xG 0.93-1.03
+2026-10-10 H 4-0 v Hong Kong FC | Premier League | Hongkong
+2026-09-26 A 1-3 v Eastern | League Cup | Hongkong
+2026-09-17 H 0-0 v Gangwon FC | AFC Champions League Two | Hongkong
+2026-09-12 A 3-1 v Southern District | Premier League | Hongkong
+2026-09-06 H 4-1 v Eastern District | Premier League | Hongkong
+2026-08-29 A 0-0 v North District | Premier League | Hongkong
+2026-08-22 A 3-2 v BC Rangers | Premier League | Hongkong
+2026-07-29 A 4-0 v Prime Bangkok | Friendlies Clubs | ?
+2026-05-17 H 4-4 v Eastern | Premier League | Hongkong
+2026-05-02 A 0-3 v Wofoo Tai Po | Premier League | Hongkong
+2026-04-25 A 2-2 v North District | Premier League | Hongkong
+2026-04-18 H 1-4 v Warriors | Premier League | Hongkong
+2026-04-12 H 2-0 v BC Rangers | Premier League | Hongkong
+2026-04-07 H 1-2 v Warriors | League Cup | Hongkong
+2026-03-21 H 2-1 v Eastern | Premier League | Hongkong
+2026-03-18 H 1-0 v Kowloon City | League Cup | Hongkong
+2026-03-14 H 4-0 v Kowloon City | Premier League | Hongkong
+2026-03-07 A 1-1 v Wofoo Tai Po | FA Cup | Hongkong [PEN, 90-min score shown]
+Listed home: 10 games, scored 23 (2.30), conceded 12 (1.20), blanks 1, clean sheets 5
+Listed away: 10 games, scored 20 (2.00), conceded 14 (1.40), blanks 2, clean sheets 2
+All: 20 games, scored 43 (2.15), conceded 26 (1.30), blanks 3, clean sheets 7
+
+TABLE FOR Wofoo Tai Po
+LEAGUE TABLE Premier League 2026 | 11 teams | 0 games played
+#   team                   Pts | home P GF-GA  | away P GF-GA  | all P GF-GA
+1   Kitchee                  0 |  0   0-0       |  0   0-0       |  0   0-0
+2   Warriors                 0 |  0   0-0       |  0   0-0       |  0   0-0
+3   North District           0 |  0   0-0       |  0   0-0       |  0   0-0
+4   Wofoo Tai Po             0 |  0   0-0       |  0   0-0       |  0   0-0
+5   Eastern                  0 |  0   0-0       |  0   0-0       |  0   0-0
+6   Kowloon City             0 |  0   0-0       |  0   0-0       |  0   0-0
+7   Eastern District         0 |  0   0-0       |  0   0-0       |  0   0-0
+8   Southern District        0 |  0   0-0       |  0   0-0       |  0   0-0
+9   BC Rangers               0 |  0   0-0       |  0   0-0       |  0   0-0
+10  Hong Kong FC             0 |  0   0-0       |  0   0-0       |  0   0-0
+11  Shatin                   0 |  0   0-0       |  0   0-0       |  0   0-0
+
+(Kitchee: same table as Wofoo Tai Po, shown above)
+
+(25 API-Football requests used)
+
+----------------------------------------------------------------------
+MATCHBOOK: skipped (switched off for this run)

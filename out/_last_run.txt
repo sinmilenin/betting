@@ -1,3 +1,13 @@
-RUN 2026-10-24 09:33 local | 1 match(es)
-Apollon Pontou v Niki Volos -> out/Apollon_Pontou_v_Niki_Volos.txt
-Requests used: API-Football 25, Matchbook 0
+RUN 2026-10-24 10:18 local | 8 match(es)
+VPS v Inter Turku -> out/VPS_v_Inter_Turku.txt
+Ostersunds FK v United IK Nordic -> out/Ostersunds_FK_v_United_IK_Nordic.txt
+    !! United IK Nordic: No team found for "United IK Nordic".
+Tai Po v Kitchee -> out/Tai_Po_v_Kitchee.txt
+Hansa Rostock v Fortuna Dusseldorf -> out/Hansa_Rostock_v_Fortuna_Dusseldorf.txt
+    !! Fortuna Dusseldorf: Ambiguous team name "Fortuna Dusseldorf".
+Entella v Mantova -> out/Entella_v_Mantova.txt
+    !! Entella: Ambiguous team name "Entella".
+Avellino v Padova -> out/Avellino_v_Padova.txt
+Sudtirol v Sampdoria -> out/Sudtirol_v_Sampdoria.txt
+Modena v Cesena -> out/Modena_v_Cesena.txt
+Requests used: API-Football 166, Matchbook 0
