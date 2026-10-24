@@ -1,2 +1,4 @@
-# Scan 2026-10-24 18:13 (Ljubljana) run 3: Duhail
-Duhail v Lusail | n=20 | xg=10
+# Scan 2026-10-24 18:56 (Ljubljana) run 1
+Arezzo v Benevento | n=20 | xg=10
+Al Riyadh v Al Taawoun | n=20 | xg=10
+Internacional v Botafogo | n=20 | xg=10
