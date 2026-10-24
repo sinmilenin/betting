@@ -1,3 +1,2 @@
-# Scan 2026-10-24 11:27 (Ljubljana) run 2: Apollon Kalamarias v Niki Volou name variants
-Kalamaria v Niki Volos | n=20 | xg=10
-Apollon Smyrnis v Volos | n=20 | xg=10
+# Scan 2026-10-24 11:27 (Ljubljana) run 3: Apollon Kalamarias = Apollon Pontou
+Apollon Pontou v Niki Volos | n=20 | xg=10
