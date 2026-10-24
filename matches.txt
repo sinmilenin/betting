@@ -1,2 +1,9 @@
-# Scan 2026-10-24 11:27 (Ljubljana) run 3: Apollon Kalamarias = Apollon Pontou
-Apollon Pontou v Niki Volos | n=20 | xg=10
+# Scan 2026-10-24 12:14 (Ljubljana) run 1: new fixtures
+VPS v Inter Turku | n=20 | xg=10
+Ostersunds FK v United IK Nordic | n=20 | xg=10
+Tai Po v Kitchee | n=20 | xg=10
+Hansa Rostock v Fortuna Dusseldorf | n=20 | xg=10
+Entella v Mantova | n=20 | xg=10
+Avellino v Padova | n=20 | xg=10
+Sudtirol v Sampdoria | n=20 | xg=10
+Modena v Cesena | n=20 | xg=10
