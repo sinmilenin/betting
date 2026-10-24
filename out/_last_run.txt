@@ -1,29 +1,9 @@
-RUN 2026-10-24 05:44 local | 21 match(es)
-Kashima v Kashiwa Reysol -> out/Kashima_v_Kashiwa_Reysol.txt
-Arsenal v Everton -> out/Arsenal_v_Everton.txt
-Aston Villa v Manchester City -> out/Aston_Villa_v_Manchester_City.txt
-Chelsea v Tottenham -> out/Chelsea_v_Tottenham.txt
-Atletico Madrid v Deportivo La Coruna -> out/Atletico_Madrid_v_Deportivo_La_Coruna.txt
-Como v Sassuolo -> out/Como_v_Sassuolo.txt
-Napoli v AS Roma -> out/Napoli_v_AS_Roma.txt
-Lazio v Parma -> out/Lazio_v_Parma.txt
-Paderborn v Hamburger SV -> out/Paderborn_v_Hamburger_SV.txt
-    !! Paderborn: Ambiguous team name "Paderborn".
-Cagliari v Bologna -> out/Cagliari_v_Bologna.txt
-Coventry v Fulham -> out/Coventry_v_Fulham.txt
-FC Augsburg v Union Berlin -> out/FC_Augsburg_v_Union_Berlin.txt
-RB Leipzig v Elversberg -> out/RB_Leipzig_v_Elversberg.txt
-    !! Elversberg: Ambiguous team name "Elversberg".
-Racing Santander v Espanyol -> out/Racing_Santander_v_Espanyol.txt
-Gaziantep FK v Erzurumspor -> out/Gaziantep_FK_v_Erzurumspor.txt
-    !! Erzurumspor: Ambiguous team name "Erzurumspor".
-Charlton v Norwich -> out/Charlton_v_Norwich.txt
-Sheffield Utd v Derby -> out/Sheffield_Utd_v_Derby.txt
-Eyupspor v Kasimpasa -> out/Eyupspor_v_Kasimpasa.txt
-    !! Eyupspor: Ambiguous team name "Eyupspor".
-Gualberto Villarroel v Blooming -> out/Gualberto_Villarroel_v_Blooming.txt
-Samsunspor v Amed -> out/Samsunspor_v_Amed.txt
-FC Koln v Schalke 04 -> out/FC_Koln_v_Schalke_04.txt
-    !! FC Koln: Ambiguous team name "FC Koln".
-    !! Schalke 04: Ambiguous team name "Schalke 04".
-Requests used: API-Football 452, Matchbook 0
+RUN 2026-10-24 05:48 local | 6 match(es)
+id:42 v Everton -> out/id_42_v_Everton.txt
+id:185 v Hamburger SV -> out/id_185_v_Hamburger_SV.txt
+RB Leipzig v id:1660 -> out/RB_Leipzig_v_id_1660.txt
+Gaziantep FK v id:1009 -> out/Gaziantep_FK_v_id_1009.txt
+id:3588 v Kasımpaşa -> out/id_3588_v_Kas_mpa_a.txt
+    !! Kasımpaşa: API-Football error: {"search": "The Search field may only contain alpha-numeric characters and spaces."}
+id:192 v id:174 -> out/id_192_v_id_174.txt
+Requests used: API-Football 137, Matchbook 0
