@@ -1,4 +1,3 @@
-RUN 2026-10-24 13:19 local | 1 match(es)
-Bodo Glimt v Valerenga -> out/Bodo_Glimt_v_Valerenga.txt
-    !! Bodo Glimt: No team found for "Bodo Glimt".
-Requests used: API-Football 14, Matchbook 0
+RUN 2026-10-24 13:20 local | 1 match(es)
+id:327 v Valerenga -> out/id_327_v_Valerenga.txt
+Requests used: API-Football 26, Matchbook 0
