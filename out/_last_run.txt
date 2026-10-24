@@ -1,7 +1,4 @@
-RUN 2026-10-24 06:30 local | 4 match(es)
-id:837 v id:836 -> out/id_837_v_id_836.txt
-id:834 v id:1439 -> out/id_834_v_id_1439.txt
-Tieren v Greentown -> out/Tieren_v_Greentown.txt
-    !! Tieren: No team found for "Tieren".
-id:21262 v id:1441 -> out/id_21262_v_id_1441.txt
-Requests used: API-Football 88, Matchbook 0
+RUN 2026-10-24 06:31 local | 2 match(es)
+Shenyang Urban v id:848 -> out/Shenyang_Urban_v_id_848.txt
+id:21262 v id:1431 -> out/id_21262_v_id_1431.txt
+Requests used: API-Football 49, Matchbook 0
