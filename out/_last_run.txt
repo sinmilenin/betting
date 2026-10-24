@@ -1,4 +1,7 @@
-RUN 2026-10-24 14:04 local | 1 match(es)
-Hamarkameratene v Rosenborg -> out/Hamarkameratene_v_Rosenborg.txt
-    !! Hamarkameratene: No team found for "Hamarkameratene".
-Requests used: API-Football 14, Matchbook 0
+RUN 2026-10-24 14:47 local | 3 match(es)
+Pogon Szczecin v Radomiak Radom -> out/Pogon_Szczecin_v_Radomiak_Radom.txt
+AEK Athens v Panaitolikos -> out/AEK_Athens_v_Panaitolikos.txt
+    !! AEK Athens: Ambiguous team name "AEK Athens".
+    !! Panaitolikos: No team found for "Panaitolikos".
+CF Montreal v Nashville SC -> out/CF_Montreal_v_Nashville_SC.txt
+Requests used: API-Football 53, Matchbook 0
