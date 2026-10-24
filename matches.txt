@@ -1,4 +1,2 @@
-# Scan 2026-10-24 16:42 (Ljubljana)
-Pogon Szczecin v Radomiak Radom | n=20 | xg=10
-AEK Athens v Panaitolikos | n=20 | xg=10
-CF Montreal v Nashville SC | n=20 | xg=10
+# Scan 2026-10-24 16:42 (Ljubljana) run 2: AEK by id
+id:575 v Panetolikos | n=20 | xg=10
