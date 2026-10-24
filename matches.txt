@@ -1,2 +1,2 @@
-# Scan 2026-10-24 07:41 (Ljubljana) run 4: Eyupspor v Kasimpasa by id
-id:3588 v id:1001 | n=20 | xg=10
+# Scan 2026-10-24 07:41 (Ljubljana) run 5: Kasimpasa id lookup
+id:3588 v Kas | n=20 | xg=10
