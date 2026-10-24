@@ -42,5 +42,27 @@
     "lay": 8.6,
     "stake": 3,
     "created": "2026-10-24T04:59:30Z"
+  },
+  {
+    "id": "2026-10-24_fc-koln-schalke-04_0-1",
+    "date": "2026-10-24",
+    "ko": "15:30",
+    "match": "FC Koln v Schalke 04",
+    "comp": "Germany, German Bundesliga",
+    "cell": "0-1",
+    "lay": 16.5,
+    "stake": 3,
+    "created": "2026-10-24T05:52:51Z"
+  },
+  {
+    "id": "2026-10-24_fc-koln-schalke-04_1-0",
+    "date": "2026-10-24",
+    "ko": "15:30",
+    "match": "FC Koln v Schalke 04",
+    "comp": "Germany, German Bundesliga",
+    "cell": "1-0",
+    "lay": 12.5,
+    "stake": 3,
+    "created": "2026-10-24T05:52:51Z"
   }
 ]
