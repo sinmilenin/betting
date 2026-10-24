@@ -1,0 +1,78 @@
+MATCH Rapid Vienna v Austria Lustenau | fetched 2026-10-24 16:15 local
+
+FORM DATA Rapid Vienna v Austria Lustenau | source API-Football | 2026-10-24 16:16 UTC
+H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
+
+=== Rapid Vienna (id 781): last 20 finished games ===
+2026-10-16 H 3-1 v TSV Hartberg | Bundesliga | Vienna | xG 1.81-1.03
+2026-10-11 A 2-0 v Lask Linz | Bundesliga | Linz | xG 2.33-1.11
+2026-09-18 H 3-0 v WSG Wattens | Bundesliga | Vienna | xG 2.85-0.36
+2026-09-12 A 3-0 v Wolfsberger AC | Bundesliga | Wolfsberg | xG 1.05-0.86
+2026-09-05 A 5-2 v Austria Klagenfurt | Cup | Klagenfurt
+2026-09-02 A 1-5 v Red Bull Salzburg | Bundesliga | Salzburg | xG 1.02-2.75
+2026-08-30 H 3-1 v Sturm Graz | Bundesliga | Vienna | xG 2.37-0.76
+2026-08-26 H 1-1 v Heart Of Midlothian | UEFA Europa Conference League | Vienna [PEN, 90-min score shown]
+2026-08-20 A 2-2 v Heart Of Midlothian | UEFA Europa Conference League | Edinburgh
+2026-08-16 H 8-0 v Grazer AK | Bundesliga | Vienna | xG 5.04-0.62
+2026-08-12 H 2-0 v Paide | UEFA Europa Conference League | Vienna
+2026-08-09 A 2-1 v Ried | Bundesliga | Ried im Innkreis
+2026-08-06 A 4-1 v Paide | UEFA Europa Conference League | Tallinn
+2026-08-02 H 1-0 v SCR Altach | Bundesliga | Vienna
+2026-07-29 H 6-2 v FC Santa Coloma | UEFA Europa Conference League | Vienna
+2026-07-26 A 3-0 v Wienerberg | Cup | ?
+2026-07-23 A 3-1 v FC Santa Coloma | UEFA Europa Conference League | Andorra la Vella
+2026-07-18 H 3-2 v Hamburger SV | Friendlies Clubs | ?
+2026-07-15 H 4-1 v Panathinaikos | Friendlies Clubs | ?
+2026-07-12 A 2-1 v WSPG Wels | Friendlies Clubs | ?
+Listed home: 10 games, scored 34 (3.40), conceded 8 (0.80), blanks 0, clean sheets 4
+Listed away: 10 games, scored 27 (2.70), conceded 13 (1.30), blanks 0, clean sheets 3
+All: 20 games, scored 61 (3.05), conceded 21 (1.05), blanks 0, clean sheets 7
+
+=== Austria Lustenau (id 1399): last 20 finished games ===
+2026-10-17 H 0-4 v Lask Linz | Bundesliga | Lustenau | xG 0.45-3.85
+2026-10-11 A 3-4 v TSV Hartberg | Bundesliga | Hartberg | xG 1.45-4.01
+2026-10-03 H 0-1 v FC Schalke 04 | Friendlies Clubs | ?
+2026-09-24 H 3-1 v Schwarz-Weiß Bregenz | Friendlies Clubs | ?
+2026-09-19 H 2-0 v SCR Altach | Bundesliga | Lustenau | xG 0.81-1.07
+2026-09-13 A 1-2 v Austria Vienna | Bundesliga | Vienna | xG 1.43-1.82
+2026-09-05 A 6-2 v SV Lafnitz | Cup | Lafnitz
+2026-08-28 H 0-4 v WSG Wattens | Bundesliga | Lustenau | xG 1.04-2.43
+2026-08-22 A 1-1 v Sturm Graz | Bundesliga | Graz | xG 0.91-2.07
+2026-08-15 H 2-1 v Wolfsberger AC | Bundesliga | Lustenau | xG 3.13-1.33
+2026-08-08 A 1-2 v Grazer AK | Bundesliga | Graz
+2026-08-02 H 1-1 v Ried | Bundesliga | Lustenau
+2026-07-25 A 1-0 v Krems / Rehberg | Cup | ?
+2026-07-16 A 0-1 v Nürnberg II | Friendlies Clubs | ?
+2026-07-15 A 1-1 v Schwarz-Weiß Bregenz | Friendlies Clubs | ?
+2026-07-10 H 1-0 v FC Aarau | Friendlies Clubs | ?
+2026-07-04 A 0-1 v FC Vaduz | Friendlies Clubs | ?
+2026-07-01 H 0-0 v BSC Young Boys | Friendlies Clubs | ?
+2026-06-26 H 2-0 v FC WIL 1900 | Friendlies Clubs | ?
+2026-05-14 H 2-1 v SKU Amstetten | 2. Liga | Lustenau
+Listed home: 11 games, scored 13 (1.18), conceded 13 (1.18), blanks 4, clean sheets 4
+Listed away: 9 games, scored 14 (1.56), conceded 14 (1.56), blanks 2, clean sheets 1
+All: 20 games, scored 27 (1.35), conceded 27 (1.35), blanks 6, clean sheets 5
+
+TABLE FOR Rapid Vienna
+LEAGUE TABLE Bundesliga 2026 | 12 teams | 55 games played
+League averages per game: home 1.89, away 1.27, total 3.16
+#   team                   Pts | home P GF-GA  | away P GF-GA  | all P GF-GA
+1   Rapid Vienna            24 |  5  18-2       |  4   8-6       |  9  26-8
+2   Red Bull Salzburg       21 |  5  16-2       |  4   5-2       |  9  21-4
+3   Lask Linz               19 |  4  10-3       |  5  13-6       |  9  23-9
+4   Sturm Graz              17 |  4  10-3       |  5   6-7       |  9  16-10
+5   Ried                    14 |  5  10-6       |  4   6-9       |  9  16-15
+6   WSG Wattens             11 |  4   4-8       |  5   8-6       |  9  12-14
+7   TSV Hartberg            11 |  5  10-12      |  4   5-7       |  9  15-19
+8   SCR Altach               9 |  5  10-6       |  5   0-10      | 10  10-16
+9   Grazer AK                9 |  4   4-3       |  5   3-19      |  9   7-22
+10  Austria Lustenau         8 |  5   5-10      |  4   6-9       |  9  11-19
+11  Austria Vienna           7 |  4   2-6       |  6   8-14      | 10  10-20
+12  Wolfsberger AC           5 |  5   5-9       |  4   2-9       |  9   7-18
+
+(Austria Lustenau: same table as Rapid Vienna, shown above)
+
+(25 API-Football requests used)
+
+----------------------------------------------------------------------
+MATCHBOOK: skipped (switched off for this run)

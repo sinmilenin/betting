@@ -1,0 +1,53 @@
+MATCH Al-Duhail v Lusail | fetched 2026-10-24 16:15 local
+
+FORM DATA Al-Duhail v Lusail | source API-Football | 2026-10-24 16:15 UTC
+H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
+
+=== Lusail City (id 7527): last 20 finished games ===
+2026-10-17 H 0-0 v Al Shamal | Stars League | Lusail | xG 0.80-0.63
+2026-10-10 A 0-1 v Al Shahaniya | Stars League | Lai Yang | xG 1.04-0.94
+2026-09-29 A 1-1 v Al Waab | QSL Cup | Doha
+2026-09-21 H 1-0 v Al-Markhiya | QSL Cup | Doha
+2026-09-11 A 0-0 v Al-Gharafa | Stars League | Doha
+2026-09-04 H 4-0 v Al Wakrah | Stars League | Lusail
+2026-08-28 A 3-3 v Al Ahli Doha | Stars League | Doha
+2026-08-20 A 0-1 v Al-Rayyan SC | Stars League | Lai Yang
+2026-07-24 A 1-2 v Den Bosch | Friendlies Clubs | ?
+2026-07-18 A 0-5 v Dordrecht | Friendlies Clubs | ?
+2026-04-30 H 1-2 v Al Bidda SC | Second Division | ?
+2026-04-25 A 2-0 v Al-Markhiya | Second Division | Doha
+2026-04-12 H 3-0 v Al Mesaimeer | Second Division | ?
+2026-04-05 H 1-1 v Al Kharaitiyat | Second Division | ?
+2026-03-14 A 2-2 v Muaither SC | Second Division | Doha
+2026-02-08 A 5-1 v Al-Khor | Second Division | Al Khor
+2026-02-03 H 1-2 v Al Waab | Second Division | ?
+2026-01-21 H 0-1 v Al Bidda SC | QSL Cup | ?
+2026-01-10 A 0-2 v Al Waab | Emir Cup | ?
+2025-12-30 A 2-0 v Al Bidda SC | Second Division | ?
+Listed home: 8 games, scored 11 (1.38), conceded 6 (0.75), blanks 2, clean sheets 4
+Listed away: 12 games, scored 16 (1.33), conceded 18 (1.50), blanks 5, clean sheets 3
+All: 20 games, scored 27 (1.35), conceded 24 (1.20), blanks 7, clean sheets 7
+
+!! Al-Duhail: API-Football error: {"search": "The Search field may only contain alpha-numeric characters and spaces."}
+
+TABLE FOR Lusail City
+LEAGUE TABLE Stars League 2026 | 12 teams | 40 games played
+League averages per game: home 1.62, away 1.95, total 3.58
+#   team                   Pts | home P GF-GA  | away P GF-GA  | all P GF-GA
+1   Al-Rayyan SC            17 |  3   5-1       |  4  11-2       |  7  16-3
+2   Al Sadd                 15 |  4  11-8       |  3  16-5       |  7  27-13
+3   Al-Arabi SC             12 |  2   2-2       |  4  12-3       |  6  14-5
+4   Al-Duhail SC            12 |  3   4-2       |  3   8-3       |  6  12-5
+5   Al Shamal                9 |  4   7-10      |  3   5-3       |  7  12-13
+6   Al Wakrah                8 |  3   6-6       |  3   4-5       |  6  10-11
+7   Al Ahli Doha             8 |  4   9-6       |  3   3-8       |  7  12-14
+8   Al Shahaniya             7 |  4   4-12      |  3   4-7       |  7   8-19
+9   Lusail City              6 |  2   4-0       |  4   3-5       |  6   7-5
+10  Al-Gharafa               6 |  5   5-6       |  2   3-7       |  7   8-13
+11  Qatar SC                 6 |  2   2-9       |  5   7-7       |  7   9-16
+12  Al-Sailiya               1 |  4   6-16      |  3   2-10      |  7   8-26
+
+(14 API-Football requests used)
+
+----------------------------------------------------------------------
+MATCHBOOK: skipped (switched off for this run)

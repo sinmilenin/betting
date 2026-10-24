@@ -1,0 +1,88 @@
+MATCH Almeria v Oviedo | fetched 2026-10-24 16:15 local
+
+FORM DATA Almeria v Oviedo | source API-Football | 2026-10-24 16:16 UTC
+H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
+
+=== Almeria (id 723): last 20 finished games ===
+2026-10-17 A 4-2 v Real Sociedad II | Segunda División | San Sebastian | xG 1.47-2.53
+2026-10-11 H 3-0 v Leganes | Segunda División | Almeria | xG 1.34-0.87
+2026-10-03 H 2-1 v Burgos | Segunda División | Almeria | xG 2.19-1.14
+2026-09-27 A 1-0 v Mallorca | Segunda División | Palma de Mallorca | xG 2.25-2.81
+2026-09-20 H 2-0 v Celta de Vigo II | Segunda División | Almeria | xG 2.40-0.65
+2026-09-12 A 2-0 v Cordoba | Segunda División | Cordoba | xG 0.52-1.38
+2026-09-06 H 3-2 v Cadiz | Segunda División | Almeria | xG 1.40-0.91
+2026-08-29 A 0-1 v Sabadell | Segunda División | Sabadell | xG 0.79-1.89
+2026-08-23 A 0-1 v Tenerife | Segunda División | Santa Cruz de Tenerife | xG 0.97-1.19
+2026-08-17 H 3-0 v Eldense | Segunda División | Almeria
+2026-08-07 A 4-0 v Cordoba | Friendlies Clubs | ?
+2026-08-04 A 2-0 v Al-Nassr | Friendlies Clubs | Lisbon - Oeiras
+2026-08-01 A 0-1 v Real Betis | Friendlies Clubs | ?
+2026-07-29 A 0-2 v Granada CF | Friendlies Clubs | ?
+2026-07-25 A 1-0 v Águilas | Friendlies Clubs | ?
+2026-06-20 H 1-2 v Malaga | Segunda División | Almeria
+2026-06-14 A 0-0 v Malaga | Segunda División | Malaga
+2026-06-09 H 3-2 v Castellón | Segunda División | Almeria
+2026-06-06 A 1-1 v Castellón | Segunda División | Castellon
+2026-05-31 H 1-0 v Valladolid | Segunda División | Almeria
+Listed home: 8 games, scored 18 (2.25), conceded 7 (0.88), blanks 0, clean sheets 4
+Listed away: 12 games, scored 15 (1.25), conceded 8 (0.67), blanks 5, clean sheets 6
+All: 20 games, scored 33 (1.65), conceded 15 (0.75), blanks 5, clean sheets 10
+
+=== Oviedo (id 718): last 20 finished games ===
+2026-10-18 A 2-1 v AD Ceuta FC | Segunda División | Ceuta | xG 3.00-3.45
+2026-10-12 H 3-1 v Eibar | Segunda División | Oviedo | xG 1.97-2.52
+2026-10-02 A 1-4 v Eldense | Segunda División | Elda | xG 1.88-2.87
+2026-09-27 H 2-0 v Sporting Gijon | Segunda División | Oviedo | xG 1.63-0.71
+2026-09-20 A 1-3 v Sabadell | Segunda División | Sabadell | xG 1.10-1.33
+2026-09-13 A 3-0 v Valladolid | Segunda División | Valladolid | xG 1.77-1.15
+2026-09-06 H 0-0 v Burgos | Segunda División | Oviedo | xG 1.94-1.81
+2026-08-29 A 1-0 v Albacete | Segunda División | Albacete | xG 1.36-0.96
+2026-08-22 H 0-1 v Leganes | Segunda División | Oviedo | xG 2.85-0.24
+2026-08-15 H 0-0 v Granada CF | Segunda División | Oviedo | xG 0.73-0.65
+2026-08-08 H 3-2 v Le Havre | Friendlies Clubs | ?
+2026-08-01 A 1-2 v 1. FC Nürnberg | Friendlies Clubs | ?
+2026-07-29 H 4-0 v Ponferradina | Friendlies Clubs | ?
+2026-07-25 H 0-0 v Deportivo La Coruna | Friendlies Clubs | ?
+2026-07-15 H 0-0 v Al-Qadisiyah FC | Friendlies Clubs | ?
+2026-05-23 A 0-3 v Mallorca | La Liga | Palma de Mallorca
+2026-05-17 H 0-1 v Alaves | La Liga | Oviedo
+2026-05-14 A 0-2 v Real Madrid | La Liga | Madrid
+2026-05-10 H 0-0 v Getafe | La Liga | Oviedo
+2026-05-03 A 0-3 v Real Betis | La Liga | Sevilla
+Listed home: 11 games, scored 12 (1.09), conceded 5 (0.45), blanks 7, clean sheets 7
+Listed away: 9 games, scored 9 (1.00), conceded 18 (2.00), blanks 3, clean sheets 2
+All: 20 games, scored 21 (1.05), conceded 23 (1.15), blanks 10, clean sheets 9
+
+TABLE FOR Almeria
+LEAGUE TABLE Segunda División 2026 | 22 teams | 111 games played
+League averages per game: home 1.50, away 1.15, total 2.66
+#   team                   Pts | home P GF-GA  | away P GF-GA  | all P GF-GA
+1   Almeria                 24 |  5  13-3       |  5   7-4       | 10  20-7
+2   Castellón               23 |  4   8-1       |  6  10-3       | 10  18-4
+3   Eibar                   22 |  5   9-6       |  5  11-5       | 10  20-11
+4   Granada CF              20 |  5   9-5       |  6   9-9       | 11  18-14
+5   Sporting Gijon          19 |  6   6-6       |  4   5-3       | 10  11-9
+6   Girona                  18 |  6  11-5       |  4   6-4       | 10  17-9
+7   Mallorca                18 |  5  10-2       |  5   2-3       | 10  12-5
+8   Burgos                  17 |  6  10-6       |  4   3-4       | 10  13-10
+9   Oviedo                  17 |  5   5-2       |  5   8-8       | 10  13-10
+10  Sabadell                16 |  4   7-3       |  6   3-5       | 10  10-8
+11  Eldense                 14 |  5   9-6       |  5   4-7       | 10  13-13
+12  Tenerife                13 |  5   5-3       |  5   7-11      | 10  12-14
+13  Valladolid              12 |  5  11-7       |  6   5-9       | 11  16-16
+14  Celta de Vigo II        12 |  6  11-11      |  4   4-5       | 10  15-16
+15  Cordoba                 12 |  4   6-8       |  6   9-12      | 10  15-20
+16  Las Palmas              11 |  5   5-8       |  5   8-11      | 10  13-19
+17  Leganes                 11 |  4   4-5       |  6   2-10      | 10   6-15
+18  FC Andorra              10 |  5   8-8       |  5   5-9       | 10  13-17
+19  Real Sociedad II         8 |  5   5-10      |  5   9-11      | 10  14-21
+20  Cadiz                    7 |  6   6-5       |  4   5-8       | 10  11-13
+21  AD Ceuta FC              5 |  6   6-10      |  4   3-12      | 10   9-22
+22  Albacete                 1 |  4   3-8       |  6   3-14      | 10   6-22
+
+(Oviedo: same table as Almeria, shown above)
+
+(25 API-Football requests used)
+
+----------------------------------------------------------------------
+MATCHBOOK: skipped (switched off for this run)

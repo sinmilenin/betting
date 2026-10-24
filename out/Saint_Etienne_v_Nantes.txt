@@ -1,0 +1,84 @@
+MATCH Saint Etienne v Nantes | fetched 2026-10-24 16:15 local
+
+FORM DATA Saint Etienne v Nantes | source API-Football | 2026-10-24 16:16 UTC
+H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
+
+=== Saint Etienne (id 1063): last 20 finished games ===
+2026-10-17 A 1-0 v RED Star FC 93 | Ligue 2 | Saint-Ouen | xG 0.96-0.32
+2026-10-10 H 2-0 v Rodez | Ligue 2 | Saint Etienne
+2026-10-02 H 5-1 v FC Sion | Friendlies Clubs | ?
+2026-09-19 A 2-2 v Metz | Ligue 2 | Metz
+2026-09-12 A 1-2 v Dunkerque | Ligue 2 | Dunkerque
+2026-09-05 H 3-1 v Montpellier | Ligue 2 | Saint Etienne
+2026-08-31 A 3-2 v Dijon | Ligue 2 | Dijon
+2026-08-22 H 4-0 v Grenoble | Ligue 2 | Saint Etienne
+2026-08-14 H 3-1 v Clermont Foot | Ligue 2 | Saint Etienne
+2026-08-08 A 3-0 v Sochaux | Ligue 2 | Montbeliard
+2026-08-01 H 4-3 v Venezia | Friendlies Clubs | ?
+2026-07-29 H 4-0 v Lausanne | Friendlies Clubs | ?
+2026-07-22 A 1-2 v Rangers | Friendlies Clubs | ?
+2026-07-18 A 0-1 v Servette FC | Friendlies Clubs | ?
+2026-07-11 H 2-2 v Biel-Bienne | Friendlies Clubs | ?
+2026-05-29 A 1-4 v Nice | Ligue 1 | Nice
+2026-05-26 H 0-0 v Nice | Ligue 1 | Saint Etienne
+2026-05-15 H 0-0 v Rodez | Ligue 2 | Saint Etienne [PEN, 90-min score shown]
+2026-05-09 H 5-0 v Amiens | Ligue 2 | Saint Etienne
+2026-05-02 A 1-2 v Rodez | Ligue 2 | Rodez
+Listed home: 11 games, scored 32 (2.91), conceded 8 (0.73), blanks 2, clean sheets 6
+Listed away: 9 games, scored 13 (1.44), conceded 15 (1.67), blanks 1, clean sheets 2
+All: 20 games, scored 45 (2.25), conceded 23 (1.15), blanks 3, clean sheets 8
+
+=== Nantes (id 83): last 20 finished games ===
+2026-10-17 H 2-3 v Dunkerque | Ligue 2 | Nantes
+2026-10-10 H 0-0 v Reims | Ligue 2 | Nantes
+2026-09-19 A 2-1 v Boulogne | Ligue 2 | Boulogne-Sur-Mer
+2026-09-12 A 0-1 v Sochaux | Ligue 2 | Montbeliard
+2026-09-07 H 1-0 v Nancy | Ligue 2 | Nantes
+2026-08-29 A 3-3 v Guingamp | Ligue 2 | Guingamp
+2026-08-22 H 2-5 v Rodez | Ligue 2 | Nantes
+2026-08-14 A 1-2 v Laval | Ligue 2 | Laval
+2026-08-08 H 0-1 v RED Star FC 93 | Ligue 2 | Nantes
+2026-07-31 H 5-1 v Al Wakrah | Friendlies Clubs | ?
+2026-07-25 A 0-1 v Le Mans | Friendlies Clubs | ?
+2026-07-22 H 1-1 v La Roche VF | Friendlies Clubs | ?
+2026-07-18 A 0-1 v Lorient | Friendlies Clubs | ?
+2026-07-11 A 5-0 v Fleury 91 | Friendlies Clubs | ?
+2026-05-08 A 0-1 v Lens | Ligue 1 | Lens
+2026-05-02 H 3-0 v Marseille | Ligue 1 | Nantes
+2026-04-26 A 1-2 v Rennes | Ligue 1 | Rennes
+2026-04-22 A 0-3 v Paris Saint Germain | Ligue 1 | Paris
+2026-04-19 H 1-1 v Stade Brestois 29 | Ligue 1 | Nantes
+2026-04-11 A 0-0 v Auxerre | Ligue 1 | Auxerre
+Listed home: 9 games, scored 15 (1.67), conceded 12 (1.33), blanks 2, clean sheets 3
+Listed away: 11 games, scored 12 (1.09), conceded 15 (1.36), blanks 6, clean sheets 2
+All: 20 games, scored 27 (1.35), conceded 27 (1.35), blanks 8, clean sheets 5
+
+TABLE FOR Saint Etienne
+LEAGUE TABLE Ligue 2 2026 | 18 teams | 87 games played
+League averages per game: home 1.37, away 1.33, total 2.70
+#   team                   Pts | home P GF-GA  | away P GF-GA  | all P GF-GA
+1   Saint Etienne           22 |  4  12-2       |  5  10-6       |  9  22-8
+2   Nancy                   19 |  5   5-3       |  5   7-5       | 10  12-8
+3   Montpellier             18 |  4   4-1       |  5   7-4       |  9  11-5
+4   Reims                   17 |  5  13-9       |  4   6-2       |  9  19-11
+5   PAU                     17 |  6   8-6       |  4   5-4       | 10  13-10
+6   RED Star FC 93          17 |  4   2-5       |  5  10-5       |  9  12-10
+7   Annecy                  16 |  4   5-5       |  6   9-7       | 10  14-12
+8   Metz                    14 |  5  12-7       |  5   4-7       | 10  16-14
+9   Dijon                   12 |  5  10-10      |  5   7-8       | 10  17-18
+10  Dunkerque               12 |  6   8-7       |  4   6-9       | 10  14-16
+11  Guingamp                11 |  5   8-9       |  5   5-6       | 10  13-15
+12  Sochaux                 11 |  5   4-7       |  5   4-5       | 10   8-12
+13  Rodez                   10 |  5   8-11      |  5   8-11      | 10  16-22
+14  Boulogne                 9 |  4   3-4       |  5   3-2       |  9   6-6
+15  Nantes                   8 |  5   5-9       |  4   6-7       |  9  11-16
+16  Grenoble                 8 |  4   2-5       |  6   7-12      | 10   9-17
+17  Clermont Foot            7 |  6   3-6       |  4   6-8       | 10   9-14
+18  Laval                    6 |  5   7-10      |  5   6-11      | 10  13-21
+
+(Nantes: same table as Saint Etienne, shown above)
+
+(25 API-Football requests used)
+
+----------------------------------------------------------------------
+MATCHBOOK: skipped (switched off for this run)
