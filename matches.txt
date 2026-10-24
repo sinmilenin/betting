@@ -1,3 +1,2 @@
-# Scan 2026-10-24 19:42 (Ljubljana) run 2: Rakow, Tigres FC
-Wisla Krakow v Rakow | n=20 | xg=10
-Quindio v Tigres FC | n=20 | xg=10
+# Scan 2026-10-24 19:42 (Ljubljana) run 3: Rakow id 3491
+Wisla Krakow v id:3491 | n=20 | xg=10
