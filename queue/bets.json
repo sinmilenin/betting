@@ -64,5 +64,27 @@
     "lay": 13,
     "stake": 3,
     "created": "2026-10-24T06:33:00Z"
+  },
+  {
+    "id": "2026-10-24_chongqing-tonglianglong-qingdao-hainiu_aohw",
+    "date": "2026-10-24",
+    "ko": "09:30",
+    "match": "Chongqing Tonglianglong v Qingdao Hainiu",
+    "comp": "China, Chinese Super League",
+    "cell": "AOHW",
+    "lay": 3.55,
+    "stake": 3,
+    "created": "2026-10-24T07:16:43Z"
+  },
+  {
+    "id": "2026-10-24_chongqing-tonglianglong-qingdao-hainiu_3-0",
+    "date": "2026-10-24",
+    "ko": "09:30",
+    "match": "Chongqing Tonglianglong v Qingdao Hainiu",
+    "comp": "China, Chinese Super League",
+    "cell": "3-0",
+    "lay": 9.6,
+    "stake": 3,
+    "created": "2026-10-24T07:16:43Z"
   }
 ]
