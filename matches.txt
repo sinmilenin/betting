@@ -1,5 +1,2 @@
-# Scan 2026-10-24 15:57 (Ljubljana) run 2: team ids / names for failed teams
-HamKam v Rosenborg | n=20 | xg=10
-id:2184 v FC Vaduz | n=20 | xg=10
-FC Zurich v id:644 | n=20 | xg=10
-id:534 v Real Sociedad II | n=20 | xg=10
+# Scan 2026-10-24 15:57 (Ljubljana) run 3: Ham-Kam by full club name
+Hamarkameratene v Rosenborg | n=20 | xg=10
