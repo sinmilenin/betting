@@ -1,7 +1,6 @@
-RUN 2026-10-24 15:31 local | 4 match(es)
-Malkiya v Al Ahli -> out/Malkiya_v_Al_Ahli.txt
-Girona v Celta Vigo B -> out/Girona_v_Celta_Vigo_B.txt
-    !! Celta Vigo B: No team found for "Celta Vigo B".
-Sport Huancayo v Alianza Atletico -> out/Sport_Huancayo_v_Alianza_Atletico.txt
-FCSB v Rapid Bucuresti -> out/FCSB_v_Rapid_Bucuresti.txt
-Requests used: API-Football 89, Matchbook 0
+RUN 2026-10-24 15:33 local | 2 match(es)
+Girona v Celta Vigo II -> out/Girona_v_Celta_Vigo_II.txt
+    !! Celta Vigo II: No team found for "Celta Vigo II".
+FCSB v Rapid 1923 -> out/FCSB_v_Rapid_1923.txt
+    !! Rapid 1923: No team found for "Rapid 1923".
+Requests used: API-Football 28, Matchbook 0

@@ -1,6 +1,6 @@
-MATCH Girona v Celta Vigo B | fetched 2026-10-24 15:31 local
+MATCH Girona v Celta Vigo II | fetched 2026-10-24 15:33 local
 
-FORM DATA Girona v Celta Vigo B | source API-Football | 2026-10-24 15:31 UTC
+FORM DATA Girona v Celta Vigo II | source API-Football | 2026-10-24 15:33 UTC
 H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
 
 === Girona (id 547): last 20 finished games ===
@@ -28,7 +28,7 @@ Listed home: 12 games, scored 19 (1.58), conceded 17 (1.42), blanks 2, clean she
 Listed away: 8 games, scored 11 (1.38), conceded 8 (1.00), blanks 1, clean sheets 1
 All: 20 games, scored 30 (1.50), conceded 25 (1.25), blanks 3, clean sheets 4
 
-!! Celta Vigo B: No team found for "Celta Vigo B".
+!! Celta Vigo II: No team found for "Celta Vigo II".
 
 TABLE FOR Girona
 LEAGUE TABLE Segunda División 2026 | 22 teams | 111 games played

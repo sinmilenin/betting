@@ -1,6 +1,6 @@
-MATCH FCSB v Rapid Bucuresti | fetched 2026-10-24 15:31 local
+MATCH FCSB v Rapid 1923 | fetched 2026-10-24 15:33 local
 
-FORM DATA FCSB v Rapid Bucuresti | source API-Football | 2026-10-24 15:31 UTC
+FORM DATA FCSB v Rapid 1923 | source API-Football | 2026-10-24 15:33 UTC
 H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
 
 === FCSB (id 559): last 20 finished games ===
@@ -28,18 +28,7 @@ Listed home: 9 games, scored 16 (1.78), conceded 15 (1.67), blanks 1, clean shee
 Listed away: 11 games, scored 12 (1.09), conceded 20 (1.82), blanks 5, clean sheets 3
 All: 20 games, scored 28 (1.40), conceded 35 (1.75), blanks 6, clean sheets 6
 
-=== FC Rapid Bucuresti W (id 28170): last 8 finished games ===
-2026-10-21 H 1-3 v Farul Constanţa W | Liga 1 Feminin | Bucharest
-2026-10-04 A 4-0 v Univ. Craiova W | Liga 1 Feminin | Craiova
-2026-09-26 H 1-9 v SSU Poli Timişoara W | Liga 1 Feminin | Bucharest
-2026-09-20 A 2-5 v Gloria Bistrița-Năsăud W | Liga 1 Feminin | ?
-2026-09-13 H 2-4 v Csikszereda MC W | Liga 1 Feminin | Bucharest
-2026-09-06 A 8-0 v Vasas Femina W | Liga 1 Feminin | ?
-2026-08-30 H 1-6 v Olimpia Cluj W | Liga 1 Feminin | Bucharest
-2026-08-22 A 1-7 v Farul Constanţa W | Liga 1 Feminin | ?
-Listed home: 4 games, scored 5 (1.25), conceded 22 (5.50), blanks 0, clean sheets 0
-Listed away: 4 games, scored 15 (3.75), conceded 12 (3.00), blanks 0, clean sheets 2
-All: 8 games, scored 20 (2.50), conceded 34 (4.25), blanks 0, clean sheets 2
+!! Rapid 1923: No team found for "Rapid 1923".
 
 TABLE FOR FCSB
 LEAGUE TABLE Liga I 2026 | 16 teams | 99 games played
@@ -62,20 +51,7 @@ League averages per game: home 1.71, away 0.95, total 2.66
 15  FC Voluntari             8 |  7   8-10      |  6   5-19      | 13  13-29
 16  Csikszereda              5 |  6   5-10      |  7   4-16      | 13   9-26
 
-TABLE FOR FC Rapid Bucuresti W
-LEAGUE TABLE Liga 1 Feminin 2026 | 8 teams | 32 games played
-League averages per game: home 3.31, away 3.34, total 6.66
-#   team                   Pts | home P GF-GA  | away P GF-GA  | all P GF-GA
-1   Csikszereda MC W        21 |  4  19-2       |  4  13-9       |  8  32-11
-2   Farul Constanţa W       18 |  4  43-5       |  4  13-4       |  8  56-9
-3   Gloria Bistrița-Năsăud  18 |  4  21-7       |  4  19-3       |  8  40-10
-4   SSU Poli Timişoara W    15 |  4   6-4       |  4  29-5       |  8  35-9
-5   Olimpia Cluj W          15 |  4   8-12      |  4  14-4       |  8  22-16
-6   FC Rapid Bucuresti W     6 |  4   5-22      |  4  15-12      |  8  20-34
-7   Univ. Craiova W          3 |  4   4-16      |  4   2-39      |  8   6-55
-8   Vasas Femina W           0 |  4   0-39      |  4   2-30      |  8   2-69
-
-(24 API-Football requests used)
+(14 API-Football requests used)
 
 ----------------------------------------------------------------------
 MATCHBOOK: skipped (switched off for this run)
