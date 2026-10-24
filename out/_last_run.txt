@@ -1,6 +1,21 @@
-RUN 2026-10-24 18:31 local | 3 match(es)
-id:136 v id:134 -> out/id_136_v_id_134.txt
-Defensor Sporting v Racing Montevideo -> out/Defensor_Sporting_v_Racing_Montevideo.txt
-Coronado v Guadalupe -> out/Coronado_v_Guadalupe.txt
-    !! Coronado: No team found for "Coronado".
-Requests used: API-Football 60, Matchbook 0
+RUN 2026-10-24 19:00 local | 14 match(es)
+Sao Bernardo v Vila Nova -> out/Sao_Bernardo_v_Vila_Nova.txt
+    !! Sao Bernardo: Ambiguous team name "Sao Bernardo".
+Atletico Goianiense v Novorizontino -> out/Atletico_Goianiense_v_Novorizontino.txt
+LDU Quito v Macara -> out/LDU_Quito_v_Macara.txt
+    !! LDU Quito: Ambiguous team name "LDU Quito".
+Palmeiras v RB Bragantino -> out/Palmeiras_v_RB_Bragantino.txt
+Vasco da Gama v Corinthians -> out/Vasco_da_Gama_v_Corinthians.txt
+Chapecoense v Fluminense -> out/Chapecoense_v_Fluminense.txt
+    !! Chapecoense: Ambiguous team name "Chapecoense".
+Philadelphia Union v New England Revolution -> out/Philadelphia_Union_v_New_England_Revolut.txt
+Orlando City v New York City -> out/Orlando_City_v_New_York_City.txt
+    !! Orlando City: Ambiguous team name "Orlando City".
+    !! New York City: Ambiguous team name "New York City".
+Santos v Bahia -> out/Santos_v_Bahia.txt
+FC Dallas v San Jose Earthquakes -> out/FC_Dallas_v_San_Jose_Earthquakes.txt
+Herediano v Cartagines -> out/Herediano_v_Cartagines.txt
+Wellington Phoenix v Central Coast Mariners -> out/Wellington_Phoenix_v_Central_Coast_Marin.txt
+San Diego v Seattle Sounders -> out/San_Diego_v_Seattle_Sounders.txt
+Portland Timbers v Charlotte -> out/Portland_Timbers_v_Charlotte.txt
+Requests used: API-Football 295, Matchbook 0
