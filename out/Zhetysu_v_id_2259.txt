@@ -1,6 +1,6 @@
-MATCH Zhetysu v Tobol | fetched 2026-10-24 07:13 local
+MATCH Zhetysu v id:2259 | fetched 2026-10-24 07:14 local
 
-FORM DATA Zhetysu v Tobol | source API-Football | 2026-10-24 07:13 UTC
+FORM DATA Zhetysu v id:2259 | source API-Football | 2026-10-24 07:14 UTC
 H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
 
 === Zhetysu (id 4560): last 20 finished games ===
@@ -28,14 +28,30 @@ Listed home: 9 games, scored 7 (0.78), conceded 11 (1.22), blanks 4, clean sheet
 Listed away: 11 games, scored 10 (0.91), conceded 24 (2.18), blanks 4, clean sheets 0
 All: 20 games, scored 17 (0.85), conceded 35 (1.75), blanks 8, clean sheets 3
 
-"Tobol" matches several teams. Use id:<number> instead of the name:
-  id:2259   FK Tobol Kostanay (Kazakhstan)
-  id:27634  Tobol 2 (Kazakhstan)
-(retrying Tobol using the opponent's country, Kazakhstan)
-"Tobol" matches several teams. Use id:<number> instead of the name:
-  id:2259   FK Tobol Kostanay (Kazakhstan)
-  id:27634  Tobol 2 (Kazakhstan)
-!! Tobol: Ambiguous team name "Tobol".
+=== FK Tobol Kostanay (id 2259): last 20 finished games ===
+2026-10-17 H 4-2 v Zhenys | Premier League | Kostanay
+2026-10-10 H 2-1 v FC Astana | Premier League | Kostanay
+2026-09-17 H 0-2 v Yelimay Semey | Premier League | Kostanay
+2026-09-13 A 4-1 v Kairat Almaty | Premier League | Almaty
+2026-09-06 H 3-1 v Ulytau | Premier League | Kostanay
+2026-08-30 A 0-1 v Kaspiy | Premier League | Aktau
+2026-08-25 H 3-2 v Kaisar | Premier League | Kostanay
+2026-08-16 A 2-0 v Irtysh | Premier League | Pavlodar
+2026-08-13 H 1-2 v FK Partizan | UEFA Europa Conference League | Kostanay
+2026-08-06 A 0-3 v FK Partizan | UEFA Europa Conference League | Belgrade
+2026-08-02 A 0-2 v Ordabasy | Premier League | ?
+2026-07-30 H 1-1 v Panevėžys | UEFA Europa Conference League | Kostanay [PEN, 90-min score shown]
+2026-07-26 H 1-0 v Atyrau | Premier League | Kostanay
+2026-07-23 A 1-1 v Panevėžys | UEFA Europa Conference League | Panevezys
+2026-07-18 A 1-1 v Kyzyl-Zhar | Premier League | Petropavl
+2026-07-12 H 3-1 v Okzhetpes | Premier League | Kostanay
+2026-07-04 A 0-1 v Altay | Premier League | Oskemen
+2026-06-28 H 3-1 v Altay | Premier League | Kostanay
+2026-06-21 A 1-2 v Okzhetpes | Premier League | Kokshetau
+2026-06-13 H 2-0 v Kyzyl-Zhar | Premier League | Kostanay
+Listed home: 11 games, scored 23 (2.09), conceded 13 (1.18), blanks 1, clean sheets 2
+Listed away: 9 games, scored 9 (1.00), conceded 12 (1.33), blanks 4, clean sheets 1
+All: 20 games, scored 32 (1.60), conceded 25 (1.25), blanks 5, clean sheets 3
 
 TABLE FOR Zhetysu
 LEAGUE TABLE Premier League 2026 | 16 teams | 224 games played
@@ -58,7 +74,9 @@ League averages per game: home 1.46, away 1.07, total 2.53
 15  Zhetysu                 25 | 13  11-15      | 15  17-31      | 28  28-46
 16  Kaisar                  24 | 15  14-19      | 13  10-20      | 28  24-39
 
-(15 API-Football requests used)
+(FK Tobol Kostanay: same table as Zhetysu, shown above)
+
+(25 API-Football requests used)
 
 ----------------------------------------------------------------------
 MATCHBOOK: skipped (switched off for this run)

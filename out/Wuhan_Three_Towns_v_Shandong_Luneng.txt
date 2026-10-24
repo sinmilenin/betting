@@ -1,6 +1,6 @@
-MATCH Wuhan Three Towns v Shandong Taishan | fetched 2026-10-24 07:13 local
+MATCH Wuhan Three Towns v Shandong Luneng | fetched 2026-10-24 07:14 local
 
-FORM DATA Wuhan Three Towns v Shandong Taishan | source API-Football | 2026-10-24 07:13 UTC
+FORM DATA Wuhan Three Towns v Shandong Luneng | source API-Football | 2026-10-24 07:14 UTC
 H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
 
 === Wuhan Three Towns (id 5695): last 20 finished games ===
@@ -28,30 +28,30 @@ Listed home: 10 games, scored 13 (1.30), conceded 13 (1.30), blanks 1, clean she
 Listed away: 10 games, scored 16 (1.60), conceded 17 (1.70), blanks 2, clean sheets 1
 All: 20 games, scored 29 (1.45), conceded 30 (1.50), blanks 3, clean sheets 4
 
-=== Shandong Taishan II (id 23288): last 20 finished games ===
-2026-10-17 A 0-0 v Langfang Glory City | League Two | Hangzhou
-2026-10-11 H 1-1 v Guizhou Zhucheng | League Two | Zoucheng
-2026-10-06 A 2-0 v Shenzhen 2028 | League Two | Shenzhen
-2026-09-18 A 1-2 v Jiangxi Liansheng | League Two | Jiujiang
-2026-09-13 H 0-0 v Langfang Glory City | League Two | Zoucheng
-2026-08-22 A 2-2 v Nantong Haimen Codion | League Two | Nantong
-2026-08-15 H 0-1 v Dalian Yingbo B | League Two | Zoucheng
-2026-08-08 A 3-1 v Shanghai Port II | League Two | Shanghai
-2026-08-02 H 2-2 v Dalian Kewei | League Two | Zoucheng
-2026-07-25 H 1-1 v Changchun Xidu | League Two | Zoucheng
-2026-07-18 A 2-1 v Shanghai Second | League Two | Shanghai
-2026-07-12 A 1-0 v Qingdao Red Lions | League Two | Qingdao
-2026-07-04 H 3-1 v Rizhao Yuqi | League Two | Zoucheng
-2026-06-28 H 1-0 v Xi'an Ronghai | League Two | Zoucheng
-2026-06-24 A 3-1 v BIT | League Two | Beijing
-2026-06-20 A 1-0 v Tai'an Tiankuang | League Two | Tchaj-an
-2026-06-13 H 0-0 v Nantong Haimen Codion | League Two | Zoucheng
-2026-05-27 A 0-2 v Dalian Yingbo B | League Two | Dalian
-2026-05-22 H 0-1 v Shanghai Port II | League Two | Zoucheng
-2026-05-09 A 1-2 v Dalian Kewei | League Two | Dalian
-Listed home: 9 games, scored 8 (0.89), conceded 7 (0.78), blanks 4, clean sheets 3
-Listed away: 11 games, scored 16 (1.45), conceded 11 (1.00), blanks 2, clean sheets 4
-All: 20 games, scored 24 (1.20), conceded 18 (0.90), blanks 6, clean sheets 7
+=== Shandong Luneng (id 844): last 20 finished games ===
+2026-10-17 H 5-0 v Hangzhou Greentown | Super League | Jinan
+2026-10-11 A 1-1 v Chongqing Tongliang Long | Super League | Chongqing | xG 0.72-0.09
+2026-09-05 H 1-1 v Sichuan Jiuniu | Super League | Jinan
+2026-09-01 H 0-3 v SHANGHAI SIPG | FA Cup | Jinan
+2026-08-28 A 3-2 v Shanghai Shenhua | Super League | Shanghai | xG 2.28-1.65
+2026-08-22 A 0-2 v Qingdao Youth Island | Super League | Qingdao | xG 1.40-0.70
+2026-08-14 H 3-1 v Qingdao Jonoon | Super League | Jinan
+2026-08-09 H 2-1 v Tianjin Teda | Super League | Jinan
+2026-08-01 A 1-0 v SHANGHAI SIPG | Super League | Shanghai
+2026-07-26 H 1-2 v Henan Jianye | Super League | Jinan | xG 1.92-0.98
+2026-07-21 A 1-1 v Wuhan Three Towns | FA Cup | Wuhan [PEN, 90-min score shown]
+2026-07-18 A 1-3 v Dalian Zhixing | Super League | Dalian
+2026-07-10 H 4-3 v Yunnan Yukun | Super League | Jinan
+2026-07-04 A 0-2 v Beijing Guoan | Super League | Beijing
+2026-06-27 A 5-1 v Shenyang Urban | Super League | Shenyang
+2026-06-20 A 5-0 v Guangxi Hengchen | FA Cup | Nanning
+2026-05-30 A 0-1 v Chengdu Better City | Super League | Chengdu
+2026-05-24 H 3-3 v Wuhan Three Towns | Super League | Jinan
+2026-05-20 A 1-4 v Hangzhou Greentown | Super League | Hangzhou
+2026-05-16 H 3-1 v Chongqing Tongliang Long | Super League | Jinan
+Listed home: 9 games, scored 22 (2.44), conceded 15 (1.67), blanks 1, clean sheets 1
+Listed away: 11 games, scored 18 (1.64), conceded 17 (1.55), blanks 3, clean sheets 2
+All: 20 games, scored 40 (2.00), conceded 32 (1.60), blanks 4, clean sheets 3
 
 TABLE FOR Wuhan Three Towns
 LEAGUE TABLE Super League 2026 | 16 teams | 224 games played
@@ -74,9 +74,9 @@ League averages per game: home 1.77, away 1.34, total 3.11
 15  Wuhan Three Towns       22 | 14  19-19      | 14  22-31      | 28  41-50
 16  Qingdao Jonoon          14 | 14  18-26      | 14  16-34      | 28  34-60
 
-(no league table available for Shandong Taishan II: tried League Two 2026)
+(Shandong Luneng: same table as Wuhan Three Towns, shown above)
 
-(25 API-Football requests used)
+(24 API-Football requests used)
 
 ----------------------------------------------------------------------
 MATCHBOOK: skipped (switched off for this run)
