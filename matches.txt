@@ -1,6 +1,2 @@
-# Scan 2026-10-24 14:27 (Ljubljana) run 2: ids for ambiguous names
-Sirius v id:377 | n=20 | xg=10
-Teplice v id:3733 | n=20 | xg=10
-id:2874 v Al Urooba | n=20 | xg=10
-Ordabasy v Zhenys | n=20 | xg=10
-id:1072 v Wolfsberger AC | n=20 | xg=10
+# Scan 2026-10-24 15:13 (Ljubljana) run 1: fixture passing the market pre-check
+Bodo/Glimt v Valerenga | n=20 | xg=10
