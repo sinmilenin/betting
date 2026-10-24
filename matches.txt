@@ -1,2 +1,4 @@
-# Scan 2026-10-24 19:42 (Ljubljana) run 3: Rakow id 3491
-Wisla Krakow v id:3491 | n=20 | xg=10
+# Scan 2026-10-24 20:26 (Ljubljana) run 1
+EC Vitoria v Athletico Paranaense | n=20 | xg=10
+Defensor Sporting v Racing Club Montevideo | n=20 | xg=10
+Uruguay de Coronado v Guadalupe | n=20 | xg=10
