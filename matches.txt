@@ -1,4 +1,2 @@
-# Scan 2026-10-24 12:58 (Ljubljana): first analyses
-Cheltenham v Newport County | n=20 | xg=10
-Zlin v Sigma Olomouc | n=20 | xg=10
-Mainz v Werder Bremen | n=20 | xg=10
+# Scan 2026-10-24 12:58 (Ljubljana) run 2: Mainz id fix
+id:164 v Werder Bremen | n=20 | xg=10
