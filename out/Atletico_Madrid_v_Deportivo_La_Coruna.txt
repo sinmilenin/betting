@@ -1,0 +1,125 @@
+MATCH Atletico Madrid v Deportivo La Coruna | fetched 2026-10-24 05:44 local
+
+FORM DATA Atletico Madrid v Deportivo La Coruna | source API-Football | 2026-10-24 05:45 UTC
+H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
+
+=== Atletico Madrid (id 530): last 20 finished games ===
+2026-10-20 A 1-1 v VfB Stuttgart | UEFA Champions League | Stuttgart | xG 0.91-1.63
+2026-10-17 A 1-0 v Espanyol | La Liga | Cornella | xG 1.47-0.51
+2026-10-13 H 2-0 v Manchester United | UEFA Champions League | Madrid | xG 1.47-0.98
+2026-10-10 A 2-1 v Alaves | La Liga | Vitoria-Gasteiz | xG 2.05-1.30
+2026-09-20 H 2-1 v Real Madrid | La Liga | Madrid | xG 2.35-0.30
+2026-09-16 H 4-0 v Osasuna | La Liga | Madrid | xG 3.99-0.48
+2026-09-13 A 3-0 v Real Sociedad | La Liga | San Sebastian | xG 2.05-0.27
+2026-09-09 A 1-2 v Liverpool | UEFA Champions League | Liverpool | xG 0.91-1.62
+2026-09-05 A 0-3 v Athletic Club | La Liga | Bilbao | xG 1.02-1.41
+2026-08-29 A 3-1 v Sevilla | La Liga | Sevilla | xG 0.93-0.90
+2026-08-23 H 2-2 v Villarreal | La Liga | Madrid
+2026-08-19 H 2-0 v Malaga | La Liga | Madrid
+2026-08-14 A 2-1 v Marseille | Friendlies Clubs | ?
+2026-08-09 A 1-3 v Manchester City | Friendlies Clubs | Seoul
+2026-08-01 A 1-2 v Manchester United | Friendlies Clubs | Solna
+2026-07-29 H 4-1 v Getafe | Friendlies Clubs | Majadahonda
+2026-05-24 A 1-5 v Villarreal | La Liga | Villarreal
+2026-05-17 H 1-0 v Girona | La Liga | Madrid
+2026-05-12 A 2-1 v Osasuna | La Liga | Pamplona
+2026-05-09 H 0-1 v Celta Vigo | La Liga | Madrid
+Listed home: 8 games, scored 17 (2.12), conceded 5 (0.62), blanks 1, clean sheets 4
+Listed away: 12 games, scored 18 (1.50), conceded 20 (1.67), blanks 1, clean sheets 2
+All: 20 games, scored 35 (1.75), conceded 25 (1.25), blanks 2, clean sheets 6
+
+=== Deportivo La Coruna (id 544): last 20 finished games ===
+2026-10-16 H 1-1 v Levante | La Liga | La Coruna | xG 1.11-0.83
+2026-10-11 A 2-3 v Real Sociedad | La Liga | San Sebastian | xG 2.13-1.44
+2026-10-02 H 1-3 v FC Porto | Friendlies Clubs | ?
+2026-09-25 A 2-2 v Penafiel | Friendlies Clubs | ?
+2026-09-20 H 1-1 v Real Betis | La Liga | La Coruna | xG 2.09-0.80
+2026-09-16 H 0-1 v Sevilla | La Liga | La Coruna | xG 0.14-0.73
+2026-09-13 A 1-1 v Getafe | La Liga | Getafe | xG 0.87-0.78
+2026-09-05 A 3-2 v Villarreal | La Liga | Villarreal | xG 0.79-1.14
+2026-08-30 H 3-1 v Valencia | La Liga | La Coruna | xG 1.42-1.40
+2026-08-24 A 1-1 v Malaga | La Liga | Malaga | xG 1.12-1.95
+2026-08-17 H 1-1 v Elche | La Liga | La Coruna
+2026-08-12 H 0-1 v Real Madrid | Friendlies Clubs | ?
+2026-08-08 A 1-0 v Genoa | Friendlies Clubs | ?
+2026-08-06 A 1-1 v Fiorentina | Friendlies Clubs | ?
+2026-08-01 A 2-2 v FC St. Pauli | Friendlies Clubs | ?
+2026-07-29 H 1-0 v Lugo | Friendlies Clubs | ?
+2026-07-25 A 0-0 v Oviedo | Friendlies Clubs | ?
+2026-07-18 A 4-0 v Compostela | Friendlies Clubs | ?
+2026-05-31 H 1-2 v Las Palmas | Segunda División | La Coruna
+2026-05-24 A 2-0 v Valladolid | Segunda División | Valladolid
+Listed home: 9 games, scored 9 (1.00), conceded 11 (1.22), blanks 2, clean sheets 1
+Listed away: 11 games, scored 19 (1.73), conceded 12 (1.09), blanks 1, clean sheets 4
+All: 20 games, scored 28 (1.40), conceded 23 (1.15), blanks 3, clean sheets 5
+
+TABLE FOR Atletico Madrid
+LEAGUE TABLE UEFA Champions League 2026 | 36 teams | 54 games played
+League averages per game: home 2.50, away 1.59, total 4.09
+#   team                   Pts | home P GF-GA  | away P GF-GA  | all P GF-GA
+1   Paris Saint Germain      9 |  2  10-3       |  1   4-2       |  3  14-5
+2   Aston Villa              9 |  2   9-1       |  1   3-2       |  3  12-3
+3   Liverpool                9 |  2   6-4       |  1   6-3       |  3  12-7
+4   Real Madrid              9 |  2   6-2       |  1   4-3       |  3  10-5
+5   Real Betis               9 |  2   4-2       |  1   3-2       |  3   7-4
+6   VfB Stuttgart            7 |  2   4-2       |  1   3-0       |  3   7-2
+7   Arsenal                  7 |  1   3-0       |  2   3-2       |  3   6-2
+8   Barcelona                6 |  1   5-1       |  2   6-5       |  3  11-6
+9   Como                     6 |  2   8-2       |  1   2-3       |  3  10-5
+10  Manchester City          6 |  2   7-5       |  1   2-0       |  3   9-5
+11  Club Brugge KV           6 |  2   5-3       |  1   4-3       |  3   9-6
+12  Sporting CP              6 |  2   5-4       |  1   2-0       |  3   7-4
+13  Borussia Dortmund        6 |  1   3-2       |  2   2-2       |  3   5-4
+14  Bayern München           5 |  2   7-2       |  1   3-3       |  3  10-5
+15  AS Roma                  4 |  2   7-4       |  1   1-1       |  3   8-5
+16  Atletico Madrid          4 |  1   2-0       |  2   2-3       |  3   4-3
+17  Shakhtar Donetsk         4 |  1   3-1       |  2   1-2       |  3   4-3
+18  PSV Eindhoven            4 |  1   1-1       |  2   1-1       |  3   2-2
+19  Villarreal               3 |  1   3-1       |  2   5-7       |  3   8-8
+20  Manchester United        3 |  1   4-0       |  2   1-6       |  3   5-6
+21  Inter                    3 |  2   4-4       |  1   1-2       |  3   5-6
+22  Napoli                   3 |  2   4-4       |  1   1-3       |  3   5-7
+23  Galatasaray              3 |  1   1-4       |  2   5-5       |  3   6-9
+24  Lask Linz                3 |  1   3-6       |  2   3-3       |  3   6-9
+25  Sabah FC                 3 |  2   3-2       |  1   0-4       |  3   3-6
+26  Feyenoord                3 |  1   3-2       |  2   1-6       |  3   4-8
+27  Lens                     3 |  1   0-2       |  2   3-5       |  3   3-7
+28  Bodo/Glimt               3 |  1   1-0       |  2   3-9       |  3   4-9
+29  AEK Athens FC            3 |  1   1-0       |  2   2-8       |  3   3-8
+30  RB Leipzig               3 |  1   1-0       |  2   2-8       |  3   3-8
+31  Fenerbahçe               2 |  2   3-3       |  1   0-6       |  3   3-9
+32  Slavia Praha             1 |  1   2-3       |  2   2-4       |  3   4-7
+33  Viking                   1 |  1   3-3       |  2   2-6       |  3   5-9
+34  FC Porto                 0 |  2   0-3       |  1   2-3       |  3   2-6
+35  Lille                    0 |  2   4-7       |  1   0-3       |  3   4-10
+36  Slovan Bratislava        0 |  1   0-3       |  2   1-10      |  3   1-13
+
+TABLE FOR Deportivo La Coruna
+LEAGUE TABLE La Liga 2026 | 20 teams | 90 games played
+League averages per game: home 1.72, away 1.34, total 3.07
+#   team                   Pts | home P GF-GA  | away P GF-GA  | all P GF-GA
+1   Barcelona               27 |  4  17-4       |  5  22-5       |  9  39-9
+2   Atletico Madrid         22 |  4  10-3       |  5   9-5       |  9  19-8
+3   Real Madrid             21 |  5  17-3       |  4   6-6       |  9  23-9
+4   Real Betis              19 |  5  10-7       |  4   6-7       |  9  16-14
+5   Real Sociedad           16 |  4   5-6       |  5  12-11      |  9  17-17
+6   Sevilla                 14 |  4   5-7       |  5   9-9       |  9  14-16
+7   Alaves                  12 |  6  11-6       |  4   3-5       | 10  14-11
+8   Celta Vigo              11 |  5   9-6       |  4   1-1       |  9  10-7
+9   Deportivo La Coruna     11 |  5   6-5       |  4   7-7       |  9  13-12
+10  Osasuna                 11 |  5   4-3       |  4   6-15      |  9  10-18
+11  Levante                 10 |  4  13-10      |  5   2-7       |  9  15-17
+12  Villarreal               9 |  4   6-6       |  5   7-7       |  9  13-13
+13  Athletic Club            9 |  4   5-4       |  4   3-5       |  8   8-9
+14  Rayo Vallecano           9 |  3   6-4       |  5   6-13      |  8  12-17
+15  Getafe                   9 |  5   5-3       |  4   0-8       |  9   5-11
+16  Espanyol                 8 |  5   6-7       |  4   5-5       |  9  11-12
+17  Racing Santander         8 |  4   9-7       |  5   4-18      |  9  13-25
+18  Elche                    7 |  4   4-11      |  5   7-6       |  9  11-17
+19  Valencia                 6 |  5   2-9       |  4   4-6       |  9   6-15
+20  Malaga                   5 |  5   5-10      |  5   2-9       | 10   7-19
+
+(25 API-Football requests used)
+
+----------------------------------------------------------------------
+MATCHBOOK: skipped (switched off for this run)

@@ -1,0 +1,84 @@
+MATCH Samsunspor v Amed | fetched 2026-10-24 05:44 local
+
+FORM DATA Samsunspor v Amed | source API-Football | 2026-10-24 05:46 UTC
+H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
+
+=== Samsunspor (id 3603): last 20 finished games ===
+2026-10-18 A 1-4 v Kasımpaşa | Süper Lig | Istanbul | xG 1.07-2.41
+2026-10-10 H 0-3 v Trabzonspor | Süper Lig | Samsun | xG 1.66-2.02
+2026-09-20 A 0-1 v Erzurumspor FK | Süper Lig | Erzurum | xG 0.36-0.72
+2026-09-12 H 1-5 v Çorum FK | Süper Lig | Samsun | xG 1.23-1.73
+2026-09-06 A 0-1 v Kocaelispor | Süper Lig | Kocaeli | xG 1.74-1.59
+2026-08-30 H 0-2 v Fenerbahçe | Süper Lig | Samsun | xG 0.46-1.56
+2026-08-22 A 2-0 v Rizespor | Süper Lig | Rize | xG 0.33-1.85
+2026-08-17 H 3-3 v Göztepe | Süper Lig | Samsun | xG 2.80-1.71
+2026-08-08 A 0-3 v Kasımpaşa | Friendlies Clubs | ?
+2026-08-01 A 2-1 v KVC Westerlo | Friendlies Clubs | ?
+2026-07-29 A 2-1 v AEK Athens FC | Friendlies Clubs | ?
+2026-07-25 A 0-0 v RAAL La Louvière | Friendlies Clubs | ?
+2026-07-22 A 1-2 v Dunkerque | Friendlies Clubs | ?
+2026-05-16 H 3-0 v Göztepe | Süper Lig | Samsun
+2026-05-09 A 0-3 v Başakşehir | Süper Lig | Istanbul
+2026-05-02 H 4-1 v Galatasaray | Süper Lig | Samsun
+2026-04-27 A 3-2 v Alanyaspor | Süper Lig | Alanya
+2026-04-23 H 0-0 v Trabzonspor | Türkiye Kupası | Samsun [PEN, 90-min score shown]
+2026-04-19 H 2-1 v Beşiktaş | Süper Lig | Samsun
+2026-04-13 A 2-1 v Eyüpspor | Süper Lig | Istanbul
+Listed home: 8 games, scored 13 (1.62), conceded 15 (1.88), blanks 3, clean sheets 2
+Listed away: 12 games, scored 13 (1.08), conceded 19 (1.58), blanks 5, clean sheets 2
+All: 20 games, scored 26 (1.30), conceded 34 (1.70), blanks 8, clean sheets 4
+
+=== Amed (id 3579): last 20 finished games ===
+2026-10-17 H 1-0 v Konyaspor | Süper Lig | Diyarbakır | xG 1.65-0.25
+2026-10-10 A 2-2 v Gençlerbirliği S.K. | Süper Lig | Ankara | xG 2.16-0.50
+2026-09-20 H 3-2 v Beşiktaş | Süper Lig | Diyarbakır | xG 1.54-2.04
+2026-09-13 H 5-0 v Başakşehir | Süper Lig | Diyarbakır | xG 4.25-0.39
+2026-09-06 A 2-2 v Kasımpaşa | Süper Lig | Istanbul | xG 1.11-1.04
+2026-08-31 H 2-1 v Trabzonspor | Süper Lig | Diyarbakır | xG 2.69-0.93
+2026-08-24 A 0-2 v Kocaelispor | Süper Lig | Kocaeli | xG 0.60-1.31
+2026-08-16 H 3-0 v Erzurumspor FK | Süper Lig | Diyarbakır | xG 1.50-0.23
+2026-07-16 H 2-0 v Dinamo Batumi | Friendlies Clubs | ?
+2026-05-02 A 3-3 v Iğdır FK | 1. Lig | Iğdır
+2026-04-26 H 1-1 v Bodrum FK | 1. Lig | Diyarbakir
+2026-04-19 A 0-2 v Bandırmaspor | 1. Lig | Balıkesir
+2026-04-13 H 2-2 v Ümraniyespor | 1. Lig | Diyarbakir
+2026-04-09 A 1-1 v Esenler Erokspor | 1. Lig | Istanbul
+2026-04-05 H 6-1 v Boluspor | 1. Lig | Diyarbakir
+2026-03-22 A 3-0 v Hatayspor | 1. Lig | Mersin
+2026-03-15 H 2-0 v Manisa F.K. | 1. Lig | Diyarbakir
+2026-03-11 A 4-0 v İstanbulspor | 1. Lig | Istanbul
+2026-03-07 H 1-0 v Serik Spor | 1. Lig | Diyarbakir
+2026-02-28 A 2-2 v Keçiörengücü | 1. Lig | Ankara
+Listed home: 11 games, scored 28 (2.55), conceded 7 (0.64), blanks 0, clean sheets 6
+Listed away: 9 games, scored 17 (1.89), conceded 14 (1.56), blanks 2, clean sheets 2
+All: 20 games, scored 45 (2.25), conceded 21 (1.05), blanks 2, clean sheets 8
+
+TABLE FOR Samsunspor
+LEAGUE TABLE Süper Lig 2026 | 18 teams | 73 games played
+League averages per game: home 1.67, away 1.22, total 2.89
+#   team                   Pts | home P GF-GA  | away P GF-GA  | all P GF-GA
+1   Galatasaray             19 |  4   9-5       |  4   8-6       |  8  17-11
+2   Amed                    17 |  5  14-3       |  3   4-6       |  8  18-9
+3   Fenerbahçe              16 |  4  16-4       |  4   6-2       |  8  22-6
+4   Trabzonspor             16 |  4  13-1       |  4   5-4       |  8  18-5
+5   Beşiktaş                15 |  4  12-3       |  4   4-7       |  8  16-10
+6   Kocaelispor             15 |  4   6-2       |  5   5-7       |  9  11-9
+7   Çorum FK                13 |  4   6-4       |  4  12-9       |  8  18-13
+8   Kasımpaşa               13 |  4   7-4       |  4   5-5       |  8  12-9
+9   Alanyaspor              12 |  4   4-4       |  5   5-7       |  9   9-11
+10  Başakşehir              11 |  5  11-5       |  3   1-7       |  8  12-12
+11  Erzurumspor FK          11 |  4   4-4       |  4   1-7       |  8   5-11
+12  Rizespor                10 |  3   0-6       |  5   8-5       |  8   8-11
+13  Göztepe                  9 |  3   4-7       |  5  13-9       |  8  17-16
+14  Gaziantep FK             8 |  4   2-6       |  4   6-6       |  8   8-12
+15  Gençlerbirliği S.K.      8 |  5   6-7       |  3   1-9       |  8   7-16
+16  Konyaspor                5 |  4   2-3       |  4   2-6       |  8   4-9
+17  Samsunspor               4 |  4   4-13      |  4   3-6       |  8   7-19
+18  Eyüpspor                 3 |  4   2-8       |  4   0-14      |  8   2-22
+
+(Amed: same table as Samsunspor, shown above)
+
+(24 API-Football requests used)
+
+----------------------------------------------------------------------
+MATCHBOOK: skipped (switched off for this run)
