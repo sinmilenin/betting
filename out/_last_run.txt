@@ -1,6 +1,10 @@
-RUN 2026-10-24 08:46 local | 3 match(es)
-id:180 v Energie Cottbus -> out/id_180_v_Energie_Cottbus.txt
-Kyzyl v Ulytau -> out/Kyzyl_v_Ulytau.txt
-    !! Kyzyl: Ambiguous team name "Kyzyl".
-Harrogate Town v Sutton Utd -> out/Harrogate_Town_v_Sutton_Utd.txt
-Requests used: API-Football 67, Matchbook 0
+RUN 2026-10-24 09:29 local | 6 match(es)
+Okzhetpes v Kaspiy -> out/Okzhetpes_v_Kaspiy.txt
+Sporting CP B v Portimonense -> out/Sporting_CP_B_v_Portimonense.txt
+Cordoba v Eibar -> out/Cordoba_v_Eibar.txt
+Rayo Vallecano v Elche -> out/Rayo_Vallecano_v_Elche.txt
+Apollon Kalamarias v Niki Volou -> out/Apollon_Kalamarias_v_Niki_Volou.txt
+    !! Apollon Kalamarias: No team found for "Apollon Kalamarias".
+    !! Niki Volou: No team found for "Niki Volou".
+id:4554 v Ulytau -> out/id_4554_v_Ulytau.txt
+Requests used: API-Football 127, Matchbook 0

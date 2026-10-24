@@ -1,0 +1,13 @@
+MATCH Apollon Kalamarias v Niki Volou | fetched 2026-10-24 09:29 local
+
+FORM DATA Apollon Kalamarias v Niki Volou | source API-Football | 2026-10-24 09:29 UTC
+H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
+
+!! Apollon Kalamarias: No team found for "Apollon Kalamarias".
+
+!! Niki Volou: No team found for "Niki Volou".
+
+(2 API-Football requests used)
+
+----------------------------------------------------------------------
+MATCHBOOK: skipped (switched off for this run)
