@@ -1,7 +1,6 @@
-RUN 2026-10-24 18:29 local | 3 match(es)
-EC Vitoria v Athletico Paranaense -> out/EC_Vitoria_v_Athletico_Paranaense.txt
-Defensor Sporting v Racing Club Montevideo -> out/Defensor_Sporting_v_Racing_Club_Montevid.txt
-    !! Racing Club Montevideo: No team found for "Racing Club Montevideo".
-Uruguay de Coronado v Guadalupe -> out/Uruguay_de_Coronado_v_Guadalupe.txt
-    !! Uruguay de Coronado: No team found for "Uruguay de Coronado".
-Requests used: API-Football 50, Matchbook 0
+RUN 2026-10-24 18:31 local | 3 match(es)
+id:136 v id:134 -> out/id_136_v_id_134.txt
+Defensor Sporting v Racing Montevideo -> out/Defensor_Sporting_v_Racing_Montevideo.txt
+Coronado v Guadalupe -> out/Coronado_v_Guadalupe.txt
+    !! Coronado: No team found for "Coronado".
+Requests used: API-Football 60, Matchbook 0

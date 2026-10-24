@@ -1,6 +1,6 @@
-MATCH Defensor Sporting v Racing Club Montevideo | fetched 2026-10-24 18:29 local
+MATCH Defensor Sporting v Racing Montevideo | fetched 2026-10-24 18:31 local
 
-FORM DATA Defensor Sporting v Racing Club Montevideo | source API-Football | 2026-10-24 18:29 UTC
+FORM DATA Defensor Sporting v Racing Montevideo | source API-Football | 2026-10-24 18:31 UTC
 H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
 
 === Defensor Sporting (id 2350): last 20 finished games ===
@@ -28,7 +28,30 @@ Listed home: 11 games, scored 9 (0.82), conceded 16 (1.45), blanks 4, clean shee
 Listed away: 9 games, scored 8 (0.89), conceded 13 (1.44), blanks 3, clean sheets 1
 All: 20 games, scored 17 (0.85), conceded 29 (1.45), blanks 7, clean sheets 4
 
-!! Racing Club Montevideo: No team found for "Racing Club Montevideo".
+=== Racing Montevideo (id 2359): last 20 finished games ===
+2026-10-17 H 3-0 v Wanderers | Primera División | Montevideo
+2026-10-11 A 0-2 v Juventud | Primera División | Las Piedras
+2026-10-04 H 0-1 v Penarol | Primera División | Montevideo
+2026-09-26 A 1-2 v Progreso | Primera División | Montevideo
+2026-09-20 A 0-0 v Liverpool Montevideo | Primera División | Montevideo
+2026-09-17 A 0-3 v Juventud | Copa Uruguay | ?
+2026-09-12 H 3-2 v Boston River | Primera División | Montevideo
+2026-09-09 H 2-4 v Central Espanol | Copa Uruguay | Montevideo
+2026-09-06 A 0-1 v Cerro | Primera División | Montevideo
+2026-09-03 A 2-1 v Oriental | Copa Uruguay | ?
+2026-08-31 H 1-0 v Albion FC | Primera División | Montevideo
+2026-08-23 A 0-0 v Danubio | Primera División | Montevideo
+2026-08-15 H 2-0 v Club Nacional | Primera División | Montevideo
+2026-08-10 A 2-2 v Deportivo Maldonado | Primera División | Maldonado
+2026-08-02 H 1-0 v Boston River | Primera División | Montevideo
+2026-07-26 A 0-1 v Cerro | Primera División | Montevideo
+2026-07-12 H 1-1 v Penarol | Primera División | Montevideo
+2026-06-06 A 1-1 v Central Espanol | Primera División | Montevideo
+2026-05-30 H 0-0 v Defensor Sporting | Primera División | Montevideo
+2026-05-22 A 0-0 v Liverpool Montevideo | Primera División | Montevideo
+Listed home: 9 games, scored 13 (1.44), conceded 8 (0.89), blanks 2, clean sheets 5
+Listed away: 11 games, scored 6 (0.55), conceded 13 (1.18), blanks 7, clean sheets 3
+All: 20 games, scored 19 (0.95), conceded 21 (1.05), blanks 9, clean sheets 8
 
 TABLE FOR Defensor Sporting
 LEAGUE TABLE Primera División 2026 | 80 teams | 210 games played
@@ -115,7 +138,9 @@ League averages per game: home 1.33, away 1.09, total 2.42
 15  Cerro Largo              6 |  6   3-6       |  5   4-8       | 11   7-14 [Primera: Clausura]
 16  Central Espanol          5 |  7   5-12      |  5   1-9       | 12   6-21 [Primera: Clausura]
 
-(14 API-Football requests used)
+(Racing Montevideo: same table as Defensor Sporting, shown above)
+
+(25 API-Football requests used)
 
 ----------------------------------------------------------------------
 MATCHBOOK: skipped (switched off for this run)

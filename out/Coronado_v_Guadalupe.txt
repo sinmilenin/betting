@@ -1,6 +1,6 @@
-MATCH Uruguay de Coronado v Guadalupe | fetched 2026-10-24 18:29 local
+MATCH Coronado v Guadalupe | fetched 2026-10-24 18:31 local
 
-FORM DATA Uruguay de Coronado v Guadalupe | source API-Football | 2026-10-24 18:29 UTC
+FORM DATA Coronado v Guadalupe | source API-Football | 2026-10-24 18:31 UTC
 H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
 
 === Guadalupe (id 4842): last 4 finished games ===
@@ -12,7 +12,7 @@ Listed home: 2 games, scored 2 (1.00), conceded 4 (2.00), blanks 1, clean sheets
 Listed away: 2 games, scored 4 (2.00), conceded 4 (2.00), blanks 1, clean sheets 0
 All: 4 games, scored 6 (1.50), conceded 8 (2.00), blanks 2, clean sheets 0
 
-!! Uruguay de Coronado: No team found for "Uruguay de Coronado".
+!! Coronado: No team found for "Coronado".
 
 (no league table available for Guadalupe: tried Taça de Portugal 2023, Taça de Portugal 2020, Taça de Portugal 2017)
 
