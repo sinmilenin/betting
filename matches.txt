@@ -1,5 +1,3 @@
-# Scan 2026-10-24 19:42 (Ljubljana): 4 new fixtures
-Wisla Krakow v Rakow Czestochowa | n=20 | xg=10
-Mirassol v Sao Paulo | n=20 | xg=10
-Barranquilla v Real Cartagena | n=20 | xg=10
-Quindio v Tigres Zipaquira | n=20 | xg=10
+# Scan 2026-10-24 19:42 (Ljubljana) run 2: Rakow, Tigres FC
+Wisla Krakow v Rakow | n=20 | xg=10
+Quindio v Tigres FC | n=20 | xg=10
