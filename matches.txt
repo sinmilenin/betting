@@ -1,2 +1,5 @@
-# Scan 2026-10-24 18:56 (Ljubljana) run 3: Al Taawon
-Al Riyadh v Al Taawon | n=20 | xg=10
+# Scan 2026-10-24 19:42 (Ljubljana): 4 new fixtures
+Wisla Krakow v Rakow Czestochowa | n=20 | xg=10
+Mirassol v Sao Paulo | n=20 | xg=10
+Barranquilla v Real Cartagena | n=20 | xg=10
+Quindio v Tigres Zipaquira | n=20 | xg=10
