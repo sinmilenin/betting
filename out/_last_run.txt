@@ -1,3 +1,8 @@
-RUN 2026-10-24 17:02 local | 1 match(es)
-Al Riyadh v Al Taawon -> out/Al_Riyadh_v_Al_Taawon.txt
-Requests used: API-Football 26, Matchbook 0
+RUN 2026-10-24 17:46 local | 4 match(es)
+Wisla Krakow v Rakow Czestochowa -> out/Wisla_Krakow_v_Rakow_Czestochowa.txt
+    !! Rakow Czestochowa: Ambiguous team name "Rakow Czestochowa".
+Mirassol v Sao Paulo -> out/Mirassol_v_Sao_Paulo.txt
+Barranquilla v Real Cartagena -> out/Barranquilla_v_Real_Cartagena.txt
+Quindio v Tigres Zipaquira -> out/Quindio_v_Tigres_Zipaquira.txt
+    !! Tigres Zipaquira: No team found for "Tigres Zipaquira".
+Requests used: API-Football 79, Matchbook 0
