@@ -1,3 +1,11 @@
-RUN 2026-10-24 05:51 local | 1 match(es)
-id:3588 v id:1004 -> out/id_3588_v_id_1004.txt
-Requests used: API-Football 25, Matchbook 0
+RUN 2026-10-24 06:27 local | 4 match(es)
+Tianjin Jinmen Tiger v Shanghai Port -> out/Tianjin_Jinmen_Tiger_v_Shanghai_Port.txt
+    !! Tianjin Jinmen Tiger: No team found for "Tianjin Jinmen Tiger".
+Changchun Yatai v Meizhou Hakka -> out/Changchun_Yatai_v_Meizhou_Hakka.txt
+    !! Meizhou Hakka: No team found for "Meizhou Hakka".
+Liaoning Tieren v Zhejiang -> out/Liaoning_Tieren_v_Zhejiang.txt
+    !! Liaoning Tieren: No team found for "Liaoning Tieren".
+Chongqing Tonglianglong v Qingdao Hainiu -> out/Chongqing_Tonglianglong_v_Qingdao_Hainiu.txt
+    !! Chongqing Tonglianglong: No team found for "Chongqing Tonglianglong".
+    !! Qingdao Hainiu: No team found for "Qingdao Hainiu".
+Requests used: API-Football 46, Matchbook 0

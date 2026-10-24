@@ -1,0 +1,13 @@
+MATCH Chongqing Tonglianglong v Qingdao Hainiu | fetched 2026-10-24 06:27 local
+
+FORM DATA Chongqing Tonglianglong v Qingdao Hainiu | source API-Football | 2026-10-24 06:28 UTC
+H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
+
+!! Chongqing Tonglianglong: No team found for "Chongqing Tonglianglong".
+
+!! Qingdao Hainiu: No team found for "Qingdao Hainiu".
+
+(2 API-Football requests used)
+
+----------------------------------------------------------------------
+MATCHBOOK: skipped (switched off for this run)
