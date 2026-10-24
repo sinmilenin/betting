@@ -1,13 +1,7 @@
-RUN 2026-10-24 14:00 local | 6 match(es)
-Stuttgart II v Alemannia Aachen -> out/Stuttgart_II_v_Alemannia_Aachen.txt
-Ham-Kam v Rosenborg -> out/Ham_Kam_v_Rosenborg.txt
-    !! Ham-Kam: API-Football error: {"search": "The Search field may only contain alpha-numeric characters and spaces."}
-Servette v FC Vaduz -> out/Servette_v_FC_Vaduz.txt
-    !! Servette: Ambiguous team name "Servette".
-FC Zurich v Luzern -> out/FC_Zurich_v_Luzern.txt
-    !! Luzern: Ambiguous team name "Luzern".
-Las Palmas v Real Sociedad B -> out/Las_Palmas_v_Real_Sociedad_B.txt
-    !! Las Palmas: Ambiguous team name "Las Palmas".
-    !! Real Sociedad B: No team found for "Real Sociedad B".
-Willem II v Cambuur -> out/Willem_II_v_Cambuur.txt
-Requests used: API-Football 95, Matchbook 0
+RUN 2026-10-24 14:02 local | 4 match(es)
+HamKam v Rosenborg -> out/HamKam_v_Rosenborg.txt
+    !! HamKam: Ambiguous team name "HamKam".
+id:2184 v FC Vaduz -> out/id_2184_v_FC_Vaduz.txt
+FC Zurich v id:644 -> out/FC_Zurich_v_id_644.txt
+id:534 v Real Sociedad II -> out/id_534_v_Real_Sociedad_II.txt
+Requests used: API-Football 90, Matchbook 0

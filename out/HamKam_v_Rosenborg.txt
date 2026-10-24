@@ -1,8 +1,12 @@
-MATCH Ham-Kam v Rosenborg | fetched 2026-10-24 14:00 local
+MATCH HamKam v Rosenborg | fetched 2026-10-24 14:02 local
 
-FORM DATA Ham-Kam v Rosenborg | source API-Football | 2026-10-24 14:01 UTC
+FORM DATA HamKam v Rosenborg | source API-Football | 2026-10-24 14:02 UTC
 H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
 
+"HamKam" matches several teams. Use id:<number> instead of the name:
+  id:20812  HamKam U19 (Norway)
+  id:21417  HamKam II (Norway)
+  id:25759  HamKam W (Norway)
 === Rosenborg (id 331): last 20 finished games ===
 2026-10-18 A 3-0 v Sarpsborg 08 FF | Eliteserien | Sarpsberg | xG 1.85-0.91
 2026-10-10 H 1-1 v Sandefjord | Eliteserien | Trondheim | xG 2.70-0.38
@@ -28,7 +32,12 @@ Listed home: 11 games, scored 27 (2.45), conceded 16 (1.45), blanks 1, clean she
 Listed away: 9 games, scored 28 (3.11), conceded 11 (1.22), blanks 1, clean sheets 4
 All: 20 games, scored 55 (2.75), conceded 27 (1.35), blanks 2, clean sheets 8
 
-!! Ham-Kam: API-Football error: {"search": "The Search field may only contain alpha-numeric characters and spaces."}
+(retrying HamKam using the opponent's country, Norway)
+"HamKam" matches several teams. Use id:<number> instead of the name:
+  id:20812  HamKam U19 (Norway)
+  id:21417  HamKam II (Norway)
+  id:25759  HamKam W (Norway)
+!! HamKam: Ambiguous team name "HamKam".
 
 TABLE FOR Rosenborg
 LEAGUE TABLE Eliteserien 2026 | 16 teams | 184 games played
@@ -51,7 +60,7 @@ League averages per game: home 1.83, away 1.38, total 3.21
 15  Kristiansund BK         19 | 11  14-18      | 12   9-29      | 23  23-47
 16  Start                   16 | 11  14-19      | 12  11-35      | 23  25-54
 
-(14 API-Football requests used)
+(15 API-Football requests used)
 
 ----------------------------------------------------------------------
 MATCHBOOK: skipped (switched off for this run)
