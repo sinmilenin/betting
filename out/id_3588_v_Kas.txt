@@ -1,0 +1,112 @@
+MATCH id:3588 v Kas | fetched 2026-10-24 05:50 local
+
+FORM DATA id:3588 v Kas | source API-Football | 2026-10-24 05:50 UTC
+H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
+
+=== Eyüpspor (id 3588): last 20 finished games ===
+2026-10-17 A 0-2 v Erzurumspor FK | Süper Lig | Erzurum | xG 0.43-1.29
+2026-10-12 H 0-4 v Göztepe | Süper Lig | Esenyurt | xG 1.33-3.15
+2026-09-20 A 0-8 v Fenerbahçe | Süper Lig | Istanbul | xG 0.72-5.14
+2026-09-12 H 0-2 v Rizespor | Süper Lig | Esenyurt | xG 1.42-2.05
+2026-09-06 A 0-3 v Çorum FK | Süper Lig | Corum | xG 0.73-2.58
+2026-08-30 H 2-1 v Alanyaspor | Süper Lig | Istanbul | xG 1.48-0.66
+2026-08-23 H 0-1 v Gaziantep FK | Süper Lig | Istanbul | xG 0.49-1.16
+2026-08-16 A 0-1 v Beşiktaş | Süper Lig | Istanbul | xG 0.09-1.28
+2026-07-24 H 2-0 v İstanbulspor | Friendlies Clubs | ?
+2026-07-20 H 1-0 v Mardin 1969 | Friendlies Clubs | ?
+2026-05-17 A 3-3 v Fenerbahçe | Süper Lig | Istanbul
+2026-05-09 H 4-0 v Rizespor | Süper Lig | Istanbul
+2026-05-03 A 1-1 v Kayserispor | Süper Lig | Kayseri
+2026-04-25 H 3-0 v Gaziantep FK | Süper Lig | Istanbul
+2026-04-18 A 2-1 v Fatih Karagümrük | Süper Lig | Istanbul
+2026-04-13 H 1-2 v Samsunspor | Süper Lig | Istanbul
+2026-04-05 A 0-3 v Antalyaspor | Süper Lig | Antalya
+2026-03-18 H 0-1 v Trabzonspor | Süper Lig | Istanbul
+2026-03-15 A 0-1 v Kasımpaşa | Süper Lig | Istanbul
+2026-03-09 H 0-1 v Kocaelispor | Süper Lig | Istanbul
+Listed home: 11 games, scored 13 (1.18), conceded 12 (1.09), blanks 5, clean sheets 4
+Listed away: 9 games, scored 6 (0.67), conceded 23 (2.56), blanks 6, clean sheets 0
+All: 20 games, scored 19 (0.95), conceded 35 (1.75), blanks 11, clean sheets 4
+
+"Kas" matches several teams. Use id:<number> instead of the name:
+  id:281    Kashiwa Reysol (Japan)
+  id:290    Kashima (Japan)
+  id:793    Granit Mikashevichy (Belarus)
+  id:978    Kasba Tadla (Morocco)
+  id:1004   Kasımpaşa (Turkey)
+  id:1038   Misr EL Makasa (Egypt)
+  id:2261   Luftetari Gjirokaster (Albania)
+  id:2391   Puskas Academy (Hungary)
+  id:2441   PSM Makassar (Indonesia)
+  id:2572   Club Deportivo Los Chankas (Peru)
+  id:2800   Kasetsart FC (Thailand)
+  id:3319   Kastrioti Krujë (Albania)
+  id:3469   Real Kashmir (India)
+  id:3594   Kastamonuspor (Turkey)
+  id:4552   Kaspiy (Kazakhstan)
+  id:4656   Cherkashchyna-Akademiya (Ukraine)
+  id:6528   Kastamonu Özel İdare KHS (Turkey)
+  id:7341   Skaštice (Czech-Republic)
+  id:7554   Olajmunkás (Hungary)
+  id:9154   Cherkaskyi Dnipro (Ukraine)
+  id:9156   Cherkaskyi Dnipro II (Ukraine)
+  id:10576  Tjakastad Junior Shepard (South-Africa)
+  id:10615  AS Kasserine (Tunisia)
+  id:11133  Bekasi City (Indonesia)
+  id:11464  Kashiwa Reysol U18 (Japan)
+(retrying Kas using the opponent's country, Turkey)
+"Kas" matches several teams. Use id:<number> instead of the name:
+  id:281    Kashiwa Reysol (Japan)
+  id:290    Kashima (Japan)
+  id:793    Granit Mikashevichy (Belarus)
+  id:978    Kasba Tadla (Morocco)
+  id:1004   Kasımpaşa (Turkey)
+  id:1038   Misr EL Makasa (Egypt)
+  id:2261   Luftetari Gjirokaster (Albania)
+  id:2391   Puskas Academy (Hungary)
+  id:2441   PSM Makassar (Indonesia)
+  id:2572   Club Deportivo Los Chankas (Peru)
+  id:2800   Kasetsart FC (Thailand)
+  id:3319   Kastrioti Krujë (Albania)
+  id:3469   Real Kashmir (India)
+  id:3594   Kastamonuspor (Turkey)
+  id:4552   Kaspiy (Kazakhstan)
+  id:4656   Cherkashchyna-Akademiya (Ukraine)
+  id:6528   Kastamonu Özel İdare KHS (Turkey)
+  id:7341   Skaštice (Czech-Republic)
+  id:7554   Olajmunkás (Hungary)
+  id:9154   Cherkaskyi Dnipro (Ukraine)
+  id:9156   Cherkaskyi Dnipro II (Ukraine)
+  id:10576  Tjakastad Junior Shepard (South-Africa)
+  id:10615  AS Kasserine (Tunisia)
+  id:11133  Bekasi City (Indonesia)
+  id:11464  Kashiwa Reysol U18 (Japan)
+!! Kas: Ambiguous team name "Kas".
+
+TABLE FOR Eyüpspor
+LEAGUE TABLE Süper Lig 2026 | 18 teams | 73 games played
+League averages per game: home 1.67, away 1.22, total 2.89
+#   team                   Pts | home P GF-GA  | away P GF-GA  | all P GF-GA
+1   Galatasaray             19 |  4   9-5       |  4   8-6       |  8  17-11
+2   Amed                    17 |  5  14-3       |  3   4-6       |  8  18-9
+3   Fenerbahçe              16 |  4  16-4       |  4   6-2       |  8  22-6
+4   Trabzonspor             16 |  4  13-1       |  4   5-4       |  8  18-5
+5   Beşiktaş                15 |  4  12-3       |  4   4-7       |  8  16-10
+6   Kocaelispor             15 |  4   6-2       |  5   5-7       |  9  11-9
+7   Çorum FK                13 |  4   6-4       |  4  12-9       |  8  18-13
+8   Kasımpaşa               13 |  4   7-4       |  4   5-5       |  8  12-9
+9   Alanyaspor              12 |  4   4-4       |  5   5-7       |  9   9-11
+10  Başakşehir              11 |  5  11-5       |  3   1-7       |  8  12-12
+11  Erzurumspor FK          11 |  4   4-4       |  4   1-7       |  8   5-11
+12  Rizespor                10 |  3   0-6       |  5   8-5       |  8   8-11
+13  Göztepe                  9 |  3   4-7       |  5  13-9       |  8  17-16
+14  Gaziantep FK             8 |  4   2-6       |  4   6-6       |  8   8-12
+15  Gençlerbirliği S.K.      8 |  5   6-7       |  3   1-9       |  8   7-16
+16  Konyaspor                5 |  4   2-3       |  4   2-6       |  8   4-9
+17  Samsunspor               4 |  4   4-13      |  4   3-6       |  8   7-19
+18  Eyüpspor                 3 |  4   2-8       |  4   0-14      |  8   2-22
+
+(15 API-Football requests used)
+
+----------------------------------------------------------------------
+MATCHBOOK: skipped (switched off for this run)

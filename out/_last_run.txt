@@ -1,3 +1,4 @@
-RUN 2026-10-24 05:49 local | 1 match(es)
-id:3588 v id:1001 -> out/id_3588_v_id_1001.txt
-Requests used: API-Football 26, Matchbook 0
+RUN 2026-10-24 05:50 local | 1 match(es)
+id:3588 v Kas -> out/id_3588_v_Kas.txt
+    !! Kas: Ambiguous team name "Kas".
+Requests used: API-Football 15, Matchbook 0
