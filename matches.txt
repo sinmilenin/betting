@@ -1,8 +1,8 @@
-# Scan 2026-10-24 13:42 (Ljubljana) run 2: ids for ambiguous names, MK Dons, Dundee Utd, rate-limited fixtures
-id:367 v id:2172 | n=20 | xg=10
-id:1364 v id:1336 | n=20 | xg=10
-Rochdale v id:1360 | n=20 | xg=10
-Stevenage v Milton Keynes Dons | n=20 | xg=10
-Dundee Utd v Aberdeen | n=20 | xg=10
-Estrela v Casa Pia | n=20 | xg=10
-NEOM v Abha | n=20 | xg=10
+# Scan 2026-10-24 14:27 (Ljubljana) run 1: new fixtures passing the market pre-check
+Sirius v AIK | n=20 | xg=10
+Cremonese v Juve Stabia | n=20 | xg=10
+Teplice v Brno | n=20 | xg=10
+Sharjah v Al Orooba | n=20 | xg=10
+Ordabasy v Zhenis | n=20 | xg=10
+Hartberg v Wolfsberger AC | n=20 | xg=10
+Catanzaro v Ascoli | n=20 | xg=10
