@@ -1,7 +1,4 @@
-RUN 2026-10-24 14:02 local | 4 match(es)
-HamKam v Rosenborg -> out/HamKam_v_Rosenborg.txt
-    !! HamKam: Ambiguous team name "HamKam".
-id:2184 v FC Vaduz -> out/id_2184_v_FC_Vaduz.txt
-FC Zurich v id:644 -> out/FC_Zurich_v_id_644.txt
-id:534 v Real Sociedad II -> out/id_534_v_Real_Sociedad_II.txt
-Requests used: API-Football 90, Matchbook 0
+RUN 2026-10-24 14:04 local | 1 match(es)
+Hamarkameratene v Rosenborg -> out/Hamarkameratene_v_Rosenborg.txt
+    !! Hamarkameratene: No team found for "Hamarkameratene".
+Requests used: API-Football 14, Matchbook 0
