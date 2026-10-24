@@ -1,0 +1,110 @@
+MATCH Sirius v AIK | fetched 2026-10-24 12:31 local
+
+FORM DATA Sirius v AIK | source API-Football | 2026-10-24 12:31 UTC
+H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
+
+=== Sirius (id 370): last 20 finished games ===
+2026-10-18 H 2-2 v IF Elfsborg | Allsvenskan | Uppsala | xG 0.96-1.24
+2026-10-10 A 1-0 v Gais | Allsvenskan | Gothenburg | xG 1.56-1.70
+2026-10-02 A 1-1 v Brondby | Friendlies Clubs | ?
+2026-09-19 A 2-1 v Orgryte IS | Allsvenskan | Gothenburg | xG 1.16-1.18
+2026-09-14 H 2-0 v Degerfors IF | Allsvenskan | Uppsala | xG 1.86-1.71
+2026-09-05 A 1-0 v Vasteras SK FK | Allsvenskan | Vasteras | xG 0.95-1.34
+2026-08-31 H 0-1 v Malmo FF | Allsvenskan | Uppsala | xG 1.51-1.67
+2026-08-26 A 2-0 v Friska Viljor | Svenska Cupen | ?
+2026-08-21 H 0-3 v BK Hacken | Allsvenskan | Uppsala | xG 0.64-1.54
+2026-08-15 A 3-4 v Mjallby AIF | Allsvenskan | Hallevik | xG 2.41-1.36
+2026-08-10 H 2-2 v IF Brommapojkarna | Allsvenskan | Uppsala
+2026-08-03 A 2-0 v Halmstad | Allsvenskan | Halmstad
+2026-07-26 H 4-1 v IFK Goteborg | Allsvenskan | Uppsala
+2026-07-19 A 3-1 v IF Elfsborg | Allsvenskan | Boras
+2026-07-12 A 2-1 v IF Brommapojkarna | Allsvenskan | Stockholm
+2026-07-03 H 4-4 v Mjallby AIF | Allsvenskan | Uppsala
+2026-06-26 H 1-1 v Djurgardens IF | Friendlies Clubs | ?
+2026-05-30 A 3-0 v AIK Stockholm | Allsvenskan | Solna
+2026-05-24 H 2-1 v Gais | Allsvenskan | Uppsala
+2026-05-18 A 3-2 v Djurgardens IF | Allsvenskan | Stockholm
+Listed home: 9 games, scored 17 (1.89), conceded 15 (1.67), blanks 2, clean sheets 1
+Listed away: 11 games, scored 23 (2.09), conceded 10 (0.91), blanks 0, clean sheets 5
+All: 20 games, scored 40 (2.00), conceded 25 (1.25), blanks 2, clean sheets 6
+
+"AIK" matches several teams. Use id:<number> instead of the name:
+  id:377    AIK Stockholm (Sweden)
+  id:617    Panathinaikos (Greece)
+  id:2086   Acharnaikos (Greece)
+  id:2099   Panserraikos (Greece)
+  id:2106   Panachaiki FC (Greece)
+  id:6301   Edessaikos (Greece)
+  id:6316   Pandramaikos (Greece)
+  id:6318   Panthiraikos (Greece)
+  id:6323   Thermaikos Thermis (Greece)
+  id:6692   Oskarshamns AIK (Sweden)
+  id:6698   Skövde AIK (Sweden)
+  id:6704   Tågarps AIK (Sweden)
+  id:8138   Puaikura (Iran)
+  id:15265  Molaikos (Greece)
+  id:15364  Achaiki (Greece)
+  id:15479  Eordaikos (Greece)
+  id:15629  AIK W (Sweden)
+  id:16010  Älvsjö AIK W (Sweden)
+  id:16599  Sandvikens AIK (Sweden)
+  id:18019  Panathinaikos II (Greece)
+  id:20227  AIK U19 (Sweden)
+  id:20236  Panathinaikos U19 (None)
+  id:22249  Peramaikos (Greece)
+  id:22986  KaIK (Finland)
+  id:23014  Raiku (Finland)
+(retrying AIK using the opponent's country, Sweden)
+"AIK" matches several teams. Use id:<number> instead of the name:
+  id:377    AIK Stockholm (Sweden)
+  id:617    Panathinaikos (Greece)
+  id:2086   Acharnaikos (Greece)
+  id:2099   Panserraikos (Greece)
+  id:2106   Panachaiki FC (Greece)
+  id:6301   Edessaikos (Greece)
+  id:6316   Pandramaikos (Greece)
+  id:6318   Panthiraikos (Greece)
+  id:6323   Thermaikos Thermis (Greece)
+  id:6692   Oskarshamns AIK (Sweden)
+  id:6698   Skövde AIK (Sweden)
+  id:6704   Tågarps AIK (Sweden)
+  id:8138   Puaikura (Iran)
+  id:15265  Molaikos (Greece)
+  id:15364  Achaiki (Greece)
+  id:15479  Eordaikos (Greece)
+  id:15629  AIK W (Sweden)
+  id:16010  Älvsjö AIK W (Sweden)
+  id:16599  Sandvikens AIK (Sweden)
+  id:18019  Panathinaikos II (Greece)
+  id:20227  AIK U19 (Sweden)
+  id:20236  Panathinaikos U19 (None)
+  id:22249  Peramaikos (Greece)
+  id:22986  KaIK (Finland)
+  id:23014  Raiku (Finland)
+!! AIK: Ambiguous team name "AIK".
+
+TABLE FOR Sirius
+LEAGUE TABLE Allsvenskan 2026 | 16 teams | 194 games played
+League averages per game: home 1.60, away 1.31, total 2.92
+#   team                   Pts | home P GF-GA  | away P GF-GA  | all P GF-GA
+1   Sirius                  55 | 12  27-17      | 12  28-13      | 24  55-30
+2   Djurgardens IF          47 | 12  30-14      | 12  20-7       | 24  50-21
+3   Hammarby FF             46 | 12  34-7       | 12  16-14      | 24  50-21
+4   BK Hacken               42 | 12  21-18      | 12  22-12      | 24  43-30
+5   IF Elfsborg             42 | 13  21-9       | 12  16-15      | 25  37-24
+6   Vasteras SK FK          38 | 13  19-15      | 12  17-23      | 25  36-38
+7   Malmo FF                37 | 13  25-21      | 12  13-13      | 25  38-34
+8   IFK Goteborg            36 | 12  16-13      | 12  18-30      | 24  34-43
+9   AIK Stockholm           34 | 12  19-27      | 12  19-15      | 24  38-42
+10  Gais                    30 | 12  16-5       | 12  14-20      | 24  30-25
+11  IF Brommapojkarna       30 | 12  15-15      | 12  21-28      | 24  36-43
+12  Mjallby AIF             23 | 12  12-19      | 12  16-21      | 24  28-40
+13  Kalmar FF               22 | 11  14-17      | 13   9-21      | 24  23-38
+14  Degerfors IF            20 | 12  12-17      | 12   9-20      | 24  21-37
+15  Orgryte IS              18 | 12  21-22      | 12   8-32      | 24  29-54
+16  Halmstad                17 | 12   9-19      | 13   9-27      | 25  18-46
+
+(15 API-Football requests used)
+
+----------------------------------------------------------------------
+MATCHBOOK: skipped (switched off for this run)

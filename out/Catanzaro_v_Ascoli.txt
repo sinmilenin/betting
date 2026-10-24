@@ -1,0 +1,86 @@
+MATCH Catanzaro v Ascoli | fetched 2026-10-24 12:31 local
+
+FORM DATA Catanzaro v Ascoli | source API-Football | 2026-10-24 12:32 UTC
+H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
+
+=== Catanzaro (id 1687): last 20 finished games ===
+2026-10-16 A 2-2 v Hellas Verona | Serie B | Verona | xG 1.18-1.89
+2026-10-11 H 1-3 v Mantova | Serie B | Catanzaro | xG 1.15-2.94
+2026-09-19 A 1-2 v Sampdoria | Serie B | Genoa | xG 1.43-2.83
+2026-09-12 H 1-0 v Carrarese | Serie B | Catanzaro | xG 2.44-0.57
+2026-09-05 A 0-2 v Sudtirol | Serie B | Bozen | xG 0.61-0.41
+2026-08-30 A 1-2 v Pisa | Serie B | Pisa | xG 1.11-2.04
+2026-08-21 A 2-3 v Vicenza Virtus | Serie B | Vicenza | xG 1.74-1.77
+2026-08-15 H 2-2 v Sudtirol | Coppa Italia | Catanzaro [PEN, 90-min score shown]
+2026-08-05 H 3-0 v Giugliano | Friendlies Clubs | ?
+2026-07-29 H 3-1 v Paradiso | Friendlies Clubs | ?
+2026-05-29 A 2-0 v Monza | Serie B | Monza
+2026-05-24 H 0-2 v Monza | Serie B | Catanzaro
+2026-05-20 A 0-2 v Palermo | Serie B | Palermo
+2026-05-17 H 3-0 v Palermo | Serie B | Catanzaro
+2026-05-12 H 3-0 v Avellino | Serie B | Catanzaro
+2026-05-08 H 2-3 v Bari | Serie B | Catanzaro
+2026-05-01 A 2-3 v Palermo | Serie B | Palermo
+2026-04-25 H 4-2 v Spezia | Serie B | Catanzaro
+2026-04-18 A 1-1 v Juve Stabia | Serie B | Castellammare di Stabia
+2026-04-14 H 2-2 v Modena | Serie B | Catanzaro
+Listed home: 11 games, scored 24 (2.18), conceded 15 (1.36), blanks 1, clean sheets 4
+Listed away: 9 games, scored 11 (1.22), conceded 17 (1.89), blanks 2, clean sheets 1
+All: 20 games, scored 35 (1.75), conceded 32 (1.60), blanks 3, clean sheets 5
+
+=== Ascoli (id 507): last 20 finished games ===
+2026-10-17 H 1-1 v Empoli | Serie B | Ascoli Piceno | xG 1.55-0.80
+2026-10-10 A 0-0 v Sudtirol | Serie B | Bozen | xG 0.58-1.02
+2026-09-19 H 3-1 v Avellino | Serie B | Ascoli Piceno | xG 1.06-0.85
+2026-09-12 A 0-1 v Padova | Serie B | Padova | xG 2.04-0.98
+2026-09-05 H 1-0 v Benevento | Serie B | Ascoli Piceno | xG 2.37-0.07
+2026-08-29 H 1-1 v Carrarese | Serie B | Ascoli Piceno | xG 1.70-1.81
+2026-08-23 A 2-1 v Hellas Verona | Serie B | Verona | xG 1.17-3.00
+2026-08-16 A 1-4 v Genoa | Coppa Italia | Genoa
+2026-08-08 H 3-1 v Potenza | Coppa Italia | Ascoli Piceno
+2026-08-02 H 1-2 v Lazio | Friendlies Clubs | ?
+2026-07-26 A 0-1 v Frosinone | Friendlies Clubs | ?
+2026-06-07 H 3-0 v Union Brescia | Serie C - Promotion - Play-offs | Ascoli Piceno
+2026-06-03 A 1-1 v Union Brescia | Serie C - Promotion - Play-offs | Brescia
+2026-05-27 A 1-2 v Catania | Serie C - Promotion - Play-offs | Lecco
+2026-05-24 H 4-0 v Catania | Serie C - Promotion - Play-offs | Ascoli Piceno
+2026-05-20 H 1-0 v Potenza | Serie C - Promotion - Play-offs | Ascoli Piceno
+2026-05-17 A 0-0 v Potenza | Serie C - Promotion - Play-offs | Potenza
+2026-04-26 A 0-1 v Campobasso FC | Serie C - Girone B | Campobasso
+2026-04-18 H 1-0 v Guidonia Montecelio 1937 | Serie C - Girone B | Ascoli Piceno
+2026-04-11 A 3-0 v Forli | Serie C - Girone B | Forli
+Listed home: 10 games, scored 19 (1.90), conceded 6 (0.60), blanks 0, clean sheets 5
+Listed away: 10 games, scored 8 (0.80), conceded 11 (1.10), blanks 5, clean sheets 3
+All: 20 games, scored 27 (1.35), conceded 17 (0.85), blanks 5, clean sheets 8
+
+TABLE FOR Catanzaro
+LEAGUE TABLE Serie B 2026 | 20 teams | 71 games played
+League averages per game: home 1.41, away 1.31, total 2.72
+#   team                   Pts | home P GF-GA  | away P GF-GA  | all P GF-GA
+1   Palermo                 19 |  3   6-2       |  4  10-5       |  7  16-7
+2   Mantova                 14 |  4   7-5       |  3   6-3       |  7  13-8
+3   Pisa                    13 |  4   6-7       |  3   8-2       |  7  14-9
+4   Modena                  13 |  3   5-4       |  4   7-4       |  7  12-8
+5   Sudtirol                12 |  4   4-1       |  3   5-5       |  7   9-6
+6   Ascoli                  12 |  4   6-3       |  3   2-2       |  7   8-5
+7   Avellino                11 |  4   9-4       |  3   3-4       |  7  12-8
+8   Benevento               11 |  5   9-6       |  2   1-1       |  7  10-7
+9   Arezzo                  10 |  3   3-7       |  4   5-7       |  7   8-14
+10  Virtus Entella           9 |  3   4-5       |  4   6-3       |  7  10-8
+11  Vicenza Virtus           9 |  3   4-6       |  5   7-9       |  8  11-15
+12  Hellas Verona            8 |  4  10-5       |  3   4-7       |  7  14-12
+13  Cesena                   8 |  4   5-5       |  3   3-4       |  7   8-9
+14  Carrarese                7 |  4   3-5       |  3   3-2       |  7   6-7
+15  Empoli                   7 |  4   3-7       |  4   4-6       |  8   7-13
+16  Padova                   7 |  4   3-5       |  3   3-5       |  7   6-10
+17  Cremonese                6 |  3   3-4       |  4   3-6       |  7   6-10
+18  Juve Stabia              5 |  3   4-4       |  4   4-4       |  7   8-8
+19  Sampdoria                4 |  3   4-5       |  4   3-10      |  7   7-15
+20  Catanzaro                4 |  2   2-3       |  5   6-11      |  7   8-14
+
+(Ascoli: same table as Catanzaro, shown above)
+
+(24 API-Football requests used)
+
+----------------------------------------------------------------------
+MATCHBOOK: skipped (switched off for this run)
