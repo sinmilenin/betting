@@ -1,6 +1,6 @@
-MATCH Changchun Yatai v Meizhou Hakka | fetched 2026-10-24 06:27 local
+MATCH Changchun Yatai v Meizhou | fetched 2026-10-24 06:29 local
 
-FORM DATA Changchun Yatai v Meizhou Hakka | source API-Football | 2026-10-24 06:28 UTC
+FORM DATA Changchun Yatai v Meizhou | source API-Football | 2026-10-24 06:29 UTC
 H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
 
 === Changchun Yatai (id 834): last 20 finished games ===
@@ -28,7 +28,14 @@ Listed home: 10 games, scored 18 (1.80), conceded 16 (1.60), blanks 1, clean she
 Listed away: 10 games, scored 12 (1.20), conceded 17 (1.70), blanks 2, clean sheets 0
 All: 20 games, scored 30 (1.50), conceded 33 (1.65), blanks 3, clean sheets 3
 
-!! Meizhou Hakka: No team found for "Meizhou Hakka".
+"Meizhou" matches several teams. Use id:<number> instead of the name:
+  id:1439   Meizhou Kejia (China)
+  id:1446   Meizhou Meixian Techand (China)
+(retrying Meizhou using the opponent's country, China)
+"Meizhou" matches several teams. Use id:<number> instead of the name:
+  id:1439   Meizhou Kejia (China)
+  id:1446   Meizhou Meixian Techand (China)
+!! Meizhou: Ambiguous team name "Meizhou".
 
 TABLE FOR Changchun Yatai
 LEAGUE TABLE League One 2026 | 16 teams | 216 games played
@@ -51,7 +58,7 @@ League averages per game: home 1.42, away 1.25, total 2.67
 15  Meizhou Kejia           16 | 14  16-33      | 13   9-21      | 27  25-54
 16  Dongguan United         16 | 13   9-24      | 14  17-35      | 27  26-59
 
-(14 API-Football requests used)
+(15 API-Football requests used)
 
 ----------------------------------------------------------------------
 MATCHBOOK: skipped (switched off for this run)
