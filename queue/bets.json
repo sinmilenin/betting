@@ -196,5 +196,93 @@
     "lay": 18.5,
     "stake": 3,
     "created": "2026-10-24T11:37:57+02:00"
+  },
+  {
+    "id": "2026-10-24_calcio-avellino-ssd-padova_2-2",
+    "date": "2026-10-24",
+    "ko": "15:00",
+    "match": "Calcio Avellino SSD v Padova",
+    "comp": "Italy, Italian Serie B",
+    "cell": "2-2",
+    "lay": 18,
+    "stake": 3,
+    "created": "2026-10-24T12:23:40+02:00"
+  },
+  {
+    "id": "2026-10-24_entella-mantova_2-2",
+    "date": "2026-10-24",
+    "ko": "15:00",
+    "match": "Entella v Mantova",
+    "comp": "Italy, Italian Serie B",
+    "cell": "2-2",
+    "lay": 17.5,
+    "stake": 3,
+    "created": "2026-10-24T12:23:40+02:00"
+  },
+  {
+    "id": "2026-10-24_gaziantep-fk-erzurum-bb_2-2",
+    "date": "2026-10-24",
+    "ko": "15:00",
+    "match": "Gaziantep FK v Erzurum BB",
+    "comp": "Turkey, Turkish Super League",
+    "cell": "2-2",
+    "lay": 18,
+    "stake": 3,
+    "created": "2026-10-24T12:23:40+02:00"
+  },
+  {
+    "id": "2026-10-24_harrogate-town-sutton-utd_1-0",
+    "date": "2026-10-24",
+    "ko": "13:30",
+    "match": "Harrogate Town v Sutton Utd",
+    "comp": "United Kingdom, English National League",
+    "cell": "1-0",
+    "lay": 8.8,
+    "stake": 3,
+    "created": "2026-10-24T12:23:40+02:00"
+  },
+  {
+    "id": "2026-10-24_ostersunds-fk-united-ik-nordic_3-1",
+    "date": "2026-10-24",
+    "ko": "13:00",
+    "match": "Ostersunds FK v United IK Nordic",
+    "comp": "Sweden, Swedish Superettan",
+    "cell": "3-1",
+    "lay": 14,
+    "stake": 3,
+    "created": "2026-10-24T12:23:40+02:00"
+  },
+  {
+    "id": "2026-10-24_sudtirol-sampdoria_2-2",
+    "date": "2026-10-24",
+    "ko": "15:00",
+    "match": "Sudtirol v Sampdoria",
+    "comp": "Italy, Italian Serie B",
+    "cell": "2-2",
+    "lay": 17,
+    "stake": 3,
+    "created": "2026-10-24T12:23:40+02:00"
+  },
+  {
+    "id": "2026-10-24_vps-fc-inter-turku_1-2",
+    "date": "2026-10-24",
+    "ko": "13:00",
+    "match": "VPS v FC Inter Turku",
+    "comp": "Finland, Finnish Veikkausliiga",
+    "cell": "1-2",
+    "lay": 10,
+    "stake": 3,
+    "created": "2026-10-24T12:23:40+02:00"
+  },
+  {
+    "id": "2026-10-24_vps-fc-inter-turku_2-2",
+    "date": "2026-10-24",
+    "ko": "13:00",
+    "match": "VPS v FC Inter Turku",
+    "comp": "Finland, Finnish Veikkausliiga",
+    "cell": "2-2",
+    "lay": 20,
+    "stake": 3,
+    "created": "2026-10-24T12:23:40+02:00"
   }
 ]
