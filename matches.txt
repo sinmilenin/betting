@@ -1,2 +1,2 @@
-# Scan 2026-10-24 18:13 (Ljubljana) run 2: Al-Duhail name
-Al Duhail v Lusail | n=20 | xg=10
+# Scan 2026-10-24 18:13 (Ljubljana) run 3: Duhail
+Duhail v Lusail | n=20 | xg=10
