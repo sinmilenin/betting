@@ -537,5 +537,16 @@
     "lay": 17.5,
     "stake": 3,
     "created": "2026-10-24T14:36:22+02:00"
+  },
+  {
+    "id": "2026-10-24_neom-sports-club-abha_2-1",
+    "date": "2026-10-24",
+    "ko": "16:00",
+    "match": "NEOM Sports Club v Abha",
+    "comp": "Saudi Arabia, Saudi Professional League",
+    "cell": "2-1",
+    "lay": 9.6,
+    "stake": 3,
+    "created": "2026-10-24T13:27:00Z"
   }
 ]
