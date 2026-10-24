@@ -22,17 +22,6 @@
     "created": "2026-10-24T05:52:51Z"
   },
   {
-    "id": "2026-10-24_fc-magdeburg-karlsruhe_2-2",
-    "date": "2026-10-24",
-    "ko": "13:00",
-    "match": "FC Magdeburg v Karlsruhe",
-    "comp": "Germany, German Bundesliga 2",
-    "cell": "2-2",
-    "lay": 15,
-    "stake": 3,
-    "created": "2026-10-24T10:52:05+02:00"
-  },
-  {
     "id": "2026-10-24_harrogate-town-sutton-utd_2-1",
     "date": "2026-10-24",
     "ko": "13:30",
@@ -154,17 +143,6 @@
     "created": "2026-10-24T12:23:40+02:00"
   },
   {
-    "id": "2026-10-24_ostersunds-fk-united-ik-nordic_3-1",
-    "date": "2026-10-24",
-    "ko": "13:00",
-    "match": "Ostersunds FK v United IK Nordic",
-    "comp": "Sweden, Swedish Superettan",
-    "cell": "3-1",
-    "lay": 14,
-    "stake": 3,
-    "created": "2026-10-24T12:23:40+02:00"
-  },
-  {
     "id": "2026-10-24_sudtirol-sampdoria_2-2",
     "date": "2026-10-24",
     "ko": "15:00",
@@ -172,28 +150,6 @@
     "comp": "Italy, Italian Serie B",
     "cell": "2-2",
     "lay": 17,
-    "stake": 3,
-    "created": "2026-10-24T12:23:40+02:00"
-  },
-  {
-    "id": "2026-10-24_vps-fc-inter-turku_1-2",
-    "date": "2026-10-24",
-    "ko": "13:00",
-    "match": "VPS v FC Inter Turku",
-    "comp": "Finland, Finnish Veikkausliiga",
-    "cell": "1-2",
-    "lay": 10,
-    "stake": 3,
-    "created": "2026-10-24T12:23:40+02:00"
-  },
-  {
-    "id": "2026-10-24_vps-fc-inter-turku_2-2",
-    "date": "2026-10-24",
-    "ko": "13:00",
-    "match": "VPS v FC Inter Turku",
-    "comp": "Finland, Finnish Veikkausliiga",
-    "cell": "2-2",
-    "lay": 20,
     "stake": 3,
     "created": "2026-10-24T12:23:40+02:00"
   },
@@ -603,5 +559,27 @@
     "lay": 8.8,
     "stake": 3,
     "created": "2026-10-24T18:20:27+02:00"
+  },
+  {
+    "id": "2026-10-24_st-etienne-nantes_2-1",
+    "date": "2026-10-24",
+    "ko": "20:45",
+    "match": "St Etienne v Nantes",
+    "comp": "France, French Ligue 2",
+    "cell": "2-1",
+    "lay": 9.4,
+    "stake": 3,
+    "created": "2026-10-24T19:05:39+02:00"
+  },
+  {
+    "id": "2026-10-24_internacional-botafogo-fr_2-2",
+    "date": "2026-10-24",
+    "ko": "21:30",
+    "match": "Internacional v Botafogo FR",
+    "comp": "Brazil, Brazilian Serie A",
+    "cell": "2-2",
+    "lay": 16.5,
+    "stake": 3,
+    "created": "2026-10-24T19:05:39+02:00"
   }
 ]
