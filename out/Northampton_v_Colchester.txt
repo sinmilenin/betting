@@ -1,0 +1,90 @@
+MATCH Northampton v Colchester | fetched 2026-10-24 08:43 local
+
+FORM DATA Northampton v Colchester | source API-Football | 2026-10-24 08:43 UTC
+H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
+
+=== Northampton (id 1337): last 20 finished games ===
+2026-10-20 H 0-1 v Tranmere | League Two | Northampton | xG 1.48-0.84
+2026-10-17 A 2-0 v Grimsby | League Two | Grimsby | xG 2.28-2.24
+2026-10-10 A 1-1 v York | League Two | York | xG 1.71-1.91
+2026-10-06 A 1-2 v Cambridge United | EFL Trophy | Cambridge
+2026-09-19 H 0-1 v Rotherham | League Two | Northampton | xG 1.33-1.63
+2026-09-12 A 0-2 v Shrewsbury | League Two | Shrewsbury | xG 0.52-1.27
+2026-09-05 H 1-0 v Newport County | League Two | Northampton | xG 0.63-0.51
+2026-09-01 H 1-1 v Crawley Town | League Two | Northampton | xG 0.73-3.05
+2026-08-29 A 1-1 v Gillingham | League Two | Gillingham | xG 0.34-0.64
+2026-08-22 A 0-1 v Crewe | League Two | Crewe | xG 0.83-1.04
+2026-08-18 H 0-3 v Brighton U21 | EFL Trophy | Northampton
+2026-08-15 H 0-0 v Swindon Town | League Two | Northampton
+2026-08-08 A 0-1 v Leicester | League Cup | Leicester
+2026-08-01 A 4-2 v Solihull Moors | Friendlies Clubs | ?
+2026-07-28 A 0-0 v Cambridge United | Friendlies Clubs | ?
+2026-07-22 A 3-1 v Southend | Friendlies Clubs | ?
+2026-07-18 H 0-0 v Coventry | Friendlies Clubs | ?
+2026-07-11 A 0-3 v Leicester | Friendlies Clubs | ?
+2026-05-02 H 2-3 v Plymouth | League One | Northampton
+2026-04-28 H 0-1 v Barnsley | League One | Northampton
+Listed home: 9 games, scored 4 (0.44), conceded 10 (1.11), blanks 6, clean sheets 3
+Listed away: 11 games, scored 12 (1.09), conceded 14 (1.27), blanks 5, clean sheets 2
+All: 20 games, scored 16 (0.80), conceded 24 (1.20), blanks 11, clean sheets 5
+
+=== Colchester (id 1361): last 20 finished games ===
+2026-10-20 A 1-1 v Chesterfield | League Two | Chesterfield | xG 0.72-2.23
+2026-10-17 H 0-0 v Exeter City | League Two | Colchester | xG 1.22-0.30
+2026-10-10 A 0-1 v Newport County | League Two | Newport | xG 0.70-1.49
+2026-10-03 H 1-1 v Luton | EFL Trophy | Colchester [PEN, 90-min score shown]
+2026-09-26 A 2-2 v Shrewsbury | League Two | Shrewsbury
+2026-09-22 A 1-3 v Peterborough | EFL Trophy | Peterborough
+2026-09-19 H 1-1 v Cheltenham | League Two | Colchester | xG 0.52-1.81
+2026-09-12 H 1-1 v Crewe | League Two | Colchester | xG 2.10-0.99
+2026-09-05 A 1-3 v Swindon Town | League Two | Swindon | xG 2.27-2.34
+2026-09-01 A 0-2 v Bristol Rovers | League Two | Bristol | xG 0.79-3.03
+2026-08-29 H 1-0 v Rochdale | League Two | Colchester
+2026-08-22 H 2-1 v Oldham | League Two | Colchester
+2026-08-15 A 2-2 v Accrington ST | League Two | Accrington
+2026-08-08 H 0-2 v Southampton | League Cup | Colchester
+2026-08-01 A 0-1 v Stevenage | Friendlies Clubs | ?
+2026-07-28 H 0-2 v Charlton | Friendlies Clubs | ?
+2026-07-24 H 2-2 v West Ham United U21 | Friendlies Clubs | ?
+2026-07-21 H 2-3 v Peterborough | Friendlies Clubs | ?
+2026-07-18 A 5-0 v Harlow Town | Friendlies Clubs | ?
+2026-07-17 A 4-0 v Heybridge Swifts | Friendlies Clubs | ?
+Listed home: 10 games, scored 10 (1.00), conceded 13 (1.30), blanks 3, clean sheets 2
+Listed away: 10 games, scored 16 (1.60), conceded 15 (1.50), blanks 3, clean sheets 2
+All: 20 games, scored 26 (1.30), conceded 28 (1.40), blanks 6, clean sheets 4
+
+TABLE FOR Northampton
+LEAGUE TABLE League Two 2026 | 24 teams | 138 games played
+League averages per game: home 1.51, away 1.03, total 2.54
+#   team                   Pts | home P GF-GA  | away P GF-GA  | all P GF-GA
+1   Salford City            25 |  6   7-3       |  6  12-9       | 12  19-12
+2   Barnet                  21 |  5  11-8       |  5  12-7       | 10  23-15
+3   Crewe                   21 |  6  11-7       |  6   4-4       | 12  15-11
+4   Walsall                 19 |  5   8-2       |  6   8-5       | 11  16-7
+5   Cheltenham              18 |  6  13-10      |  6   8-12      | 12  21-22
+6   York                    17 |  6  14-5       |  5   5-8       | 11  19-13
+7   Gillingham              17 |  6   7-5       |  6  10-9       | 12  17-14
+8   Shrewsbury              17 |  6   7-6       |  6   6-11      | 12  13-17
+9   Chesterfield            16 |  6  11-8       |  6   7-8       | 12  18-16
+10  Exeter City             16 |  6   6-1       |  6   2-5       | 12   8-6
+11  Accrington ST           15 |  6  12-7       |  6   5-9       | 12  17-16
+12  Newport County          15 |  6  10-5       |  6   6-10      | 12  16-15
+13  Tranmere                15 |  6   9-6       |  6   6-9       | 12  15-15
+14  Rochdale                15 |  6  10-8       |  6   5-9       | 12  15-17
+15  Swindon Town            15 |  6  10-6       |  6   3-10      | 12  13-16
+16  Bristol Rovers          15 |  6  11-8       |  6   5-12      | 12  16-20
+17  Grimsby                 14 |  6   8-6       |  6   7-9       | 12  15-15
+18  Fleetwood Town          14 |  6   7-4       |  6   7-11      | 12  14-15
+19  Colchester              12 |  5   5-3       |  6   6-11      | 11  11-14
+20  Port Vale               12 |  5   4-1       |  5   2-9       | 10   6-10
+21  Oldham                  11 |  6  11-7       |  5   2-10      | 11  13-17
+22  Rotherham               11 |  6  10-12      |  6   4-8       | 12  14-20
+23  Northampton             10 |  5   2-3       |  5   4-5       | 10   6-8
+24  Crawley Town             5 |  5   5-11      |  5   6-9       | 10  11-20
+
+(Colchester: same table as Northampton, shown above)
+
+(25 API-Football requests used)
+
+----------------------------------------------------------------------
+MATCHBOOK: skipped (switched off for this run)

@@ -1,6 +1,17 @@
-RUN 2026-10-24 07:14 local | 4 match(es)
-Henan Jianye v Beijing Guoan -> out/Henan_Jianye_v_Beijing_Guoan.txt
-Wuhan Three Towns v Shandong Luneng -> out/Wuhan_Three_Towns_v_Shandong_Luneng.txt
-Chengdu Better City v Dalian Zhixing -> out/Chengdu_Better_City_v_Dalian_Zhixing.txt
-Zhetysu v id:2259 -> out/Zhetysu_v_id_2259.txt
-Requests used: API-Football 98, Matchbook 0
+RUN 2026-10-24 08:43 local | 10 match(es)
+Heidenheim v Energie Cottbus -> out/Heidenheim_v_Energie_Cottbus.txt
+    !! Heidenheim: Ambiguous team name "Heidenheim".
+Hertha Berlin v Arminia Bielefeld -> out/Hertha_Berlin_v_Arminia_Bielefeld.txt
+Magdeburg v Karlsruher SC -> out/Magdeburg_v_Karlsruher_SC.txt
+    !! Magdeburg: Ambiguous team name "Magdeburg".
+Kyzyl-Zhar v Ulytau -> out/Kyzyl_Zhar_v_Ulytau.txt
+    !! Kyzyl-Zhar: API-Football error: {"search": "The Search field may only contain alpha-numeric characters and spaces."}
+Northampton v Colchester -> out/Northampton_v_Colchester.txt
+Portsmouth v Millwall -> out/Portsmouth_v_Millwall.txt
+Huddersfield v Wigan -> out/Huddersfield_v_Wigan.txt
+Luton v Leicester -> out/Luton_v_Leicester.txt
+Bristol Rovers v Swindon -> out/Bristol_Rovers_v_Swindon.txt
+    !! Swindon: Ambiguous team name "Swindon".
+Harrogate Town v Sutton -> out/Harrogate_Town_v_Sutton.txt
+    !! Sutton: Ambiguous team name "Sutton".
+Requests used: API-Football 197, Matchbook 0
