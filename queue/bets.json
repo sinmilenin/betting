@@ -110,28 +110,6 @@
     "created": "2026-10-24T11:37:57+02:00"
   },
   {
-    "id": "2026-10-24_okzhetpes-fk-kaspyi-aktau_3-1",
-    "date": "2026-10-24",
-    "ko": "12:00",
-    "match": "Okzhetpes v FK Kaspyi Aktau",
-    "comp": "Kazakhstan, Kazakhstan Premier League",
-    "cell": "3-1",
-    "lay": 14.0,
-    "stake": 3,
-    "created": "2026-10-24T11:37:57+02:00"
-  },
-  {
-    "id": "2026-10-24_sporting-lisbon-b-portimonense_2-2",
-    "date": "2026-10-24",
-    "ko": "12:00",
-    "match": "Sporting Lisbon B v Portimonense",
-    "comp": "Portugal, Portuguese Segunda Liga",
-    "cell": "2-2",
-    "lay": 18.5,
-    "stake": 3,
-    "created": "2026-10-24T11:37:57+02:00"
-  },
-  {
     "id": "2026-10-24_calcio-avellino-ssd-padova_2-2",
     "date": "2026-10-24",
     "ko": "15:00",
@@ -592,5 +570,38 @@
     "lay": 11.5,
     "stake": 3,
     "created": "2026-10-24T17:36:02+02:00"
+  },
+  {
+    "id": "2026-10-24_rapid-vienna-sc-austria-lustenau_1-0",
+    "date": "2026-10-24",
+    "ko": "19:30",
+    "match": "Rapid Vienna v SC Austria Lustenau",
+    "comp": "Austria, Austrian Bundesliga",
+    "cell": "1-0",
+    "lay": 14,
+    "stake": 3,
+    "created": "2026-10-24T18:20:27+02:00"
+  },
+  {
+    "id": "2026-10-24_almagro-ba-tristan-suarez_1-2",
+    "date": "2026-10-24",
+    "ko": "20:30",
+    "match": "Almagro BA v Tristan Suarez",
+    "comp": "Argentina, Argentinian Primera Nacional",
+    "cell": "1-2",
+    "lay": 12.5,
+    "stake": 3,
+    "created": "2026-10-24T18:20:27+02:00"
+  },
+  {
+    "id": "2026-10-24_almeria-oviedo_1-0",
+    "date": "2026-10-24",
+    "ko": "21:00",
+    "match": "Almeria v Oviedo",
+    "comp": "Spain, Spanish Segunda Division",
+    "cell": "1-0",
+    "lay": 8.8,
+    "stake": 3,
+    "created": "2026-10-24T18:20:27+02:00"
   }
 ]
