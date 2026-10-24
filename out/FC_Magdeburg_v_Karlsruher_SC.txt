@@ -1,15 +1,33 @@
-MATCH Magdeburg v Karlsruher SC | fetched 2026-10-24 08:43 local
+MATCH FC Magdeburg v Karlsruher SC | fetched 2026-10-24 08:45 local
 
-FORM DATA Magdeburg v Karlsruher SC | source API-Football | 2026-10-24 08:43 UTC
+FORM DATA FC Magdeburg v Karlsruher SC | source API-Football | 2026-10-24 08:45 UTC
 H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
 
-"Magdeburg" matches several teams. Use id:<number> instead of the name:
-  id:179    1. FC Magdeburg (Germany)
-  id:10267  Magdeburg U19 (Germany)
-  id:20486  Magdeburger FFC W (Germany)
-  id:21525  Magdeburg II (Germany)
-  id:24127  Magdeburg W (Germany)
-  id:27939  Arminia Magdeburg U19 (Germany)
+=== 1. FC Magdeburg (id 179): last 20 finished games ===
+2026-10-18 A 0-2 v Dynamo Dresden | 2. Bundesliga | Dresden | xG 0.87-2.05
+2026-10-10 H 3-0 v Hannover 96 | 2. Bundesliga | Magdeburg | xG 1.16-1.00
+2026-09-18 A 1-1 v SpVgg Greuther Fürth | 2. Bundesliga | Fürth | xG 0.90-0.70
+2026-09-12 H 3-0 v 1. FC Kaiserslautern | 2. Bundesliga | Magdeburg | xG 1.12-1.08
+2026-09-06 A 1-2 v Hertha BSC | 2. Bundesliga | Berlin | xG 0.91-1.38
+2026-08-30 H 2-0 v Holstein Kiel | 2. Bundesliga | Magdeburg | xG 0.83-2.11
+2026-08-23 A 4-0 v Bahlinger SC | DFB Pokal | Kaiserstuhl
+2026-08-15 A 3-0 v VfL Osnabrück | 2. Bundesliga | Osnabruck | xG 1.72-0.97
+2026-08-08 H 1-6 v Eintracht Braunschweig | 2. Bundesliga | Magdeburg | xG 1.24-3.43
+2026-08-01 H 1-1 v West Ham | Friendlies Clubs | ?
+2026-07-18 A 4-0 v Schöningen | Friendlies Clubs | ?
+2026-07-12 A 4-1 v BSG Chemie Leipzig | Friendlies Clubs | ?
+2026-05-17 H 0-1 v 1. FC Kaiserslautern | 2. Bundesliga | Magdeburg
+2026-05-09 A 3-1 v Holstein Kiel | 2. Bundesliga | Kiel
+2026-05-03 H 1-0 v Hertha BSC | 2. Bundesliga | Magdeburg
+2026-04-26 A 0-1 v 1. FC Nürnberg | 2. Bundesliga | Nuremberg
+2026-04-18 H 2-0 v Fortuna Düsseldorf | 2. Bundesliga | Magdeburg
+2026-04-12 A 3-4 v SC Paderborn 07 | 2. Bundesliga | Paderborn
+2026-04-04 H 4-1 v VfL Bochum | 2. Bundesliga | Magdeburg
+2026-03-22 A 3-1 v Preußen Münster | 2. Bundesliga | Munster
+Listed home: 9 games, scored 17 (1.89), conceded 9 (1.00), blanks 1, clean sheets 5
+Listed away: 11 games, scored 26 (2.36), conceded 13 (1.18), blanks 2, clean sheets 3
+All: 20 games, scored 43 (2.15), conceded 22 (1.10), blanks 3, clean sheets 8
+
 === Karlsruher SC (id 785): last 20 finished games ===
 2026-10-18 H 4-0 v SV Darmstadt 98 | 2. Bundesliga | Karlsruhe | xG 1.20-0.50
 2026-10-11 A 0-2 v FC St. Pauli | 2. Bundesliga | St. Pauli Burger | xG 1.33-0.89
@@ -35,17 +53,7 @@ Listed home: 12 games, scored 22 (1.83), conceded 26 (2.17), blanks 2, clean she
 Listed away: 8 games, scored 8 (1.00), conceded 14 (1.75), blanks 4, clean sheets 1
 All: 20 games, scored 30 (1.50), conceded 40 (2.00), blanks 6, clean sheets 2
 
-(retrying Magdeburg using the opponent's country, Germany)
-"Magdeburg" matches several teams. Use id:<number> instead of the name:
-  id:179    1. FC Magdeburg (Germany)
-  id:10267  Magdeburg U19 (Germany)
-  id:20486  Magdeburger FFC W (Germany)
-  id:21525  Magdeburg II (Germany)
-  id:24127  Magdeburg W (Germany)
-  id:27939  Arminia Magdeburg U19 (Germany)
-!! Magdeburg: Ambiguous team name "Magdeburg".
-
-TABLE FOR Karlsruher SC
+TABLE FOR 1. FC Magdeburg
 LEAGUE TABLE 2. Bundesliga 2026 | 18 teams | 74 games played
 League averages per game: home 1.73, away 1.32, total 3.05
 #   team                   Pts | home P GF-GA  | away P GF-GA  | all P GF-GA
@@ -68,7 +76,9 @@ League averages per game: home 1.73, away 1.32, total 3.05
 17  Eintracht Braunschweig   7 |  4   6-8       |  4   7-7       |  8  13-15
 18  Holstein Kiel            5 |  4   5-5       |  4   2-6       |  8   7-11
 
-(14 API-Football requests used)
+(Karlsruher SC: same table as 1. FC Magdeburg, shown above)
+
+(24 API-Football requests used)
 
 ----------------------------------------------------------------------
 MATCHBOOK: skipped (switched off for this run)

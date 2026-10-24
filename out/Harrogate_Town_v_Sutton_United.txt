@@ -1,6 +1,6 @@
-MATCH Harrogate Town v Sutton | fetched 2026-10-24 08:43 local
+MATCH Harrogate Town v Sutton United | fetched 2026-10-24 08:45 local
 
-FORM DATA Harrogate Town v Sutton | source API-Football | 2026-10-24 08:44 UTC
+FORM DATA Harrogate Town v Sutton United | source API-Football | 2026-10-24 08:45 UTC
 H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
 
 === Harrogate Town (id 1842): last 20 finished games ===
@@ -28,24 +28,17 @@ Listed home: 10 games, scored 27 (2.70), conceded 13 (1.30), blanks 0, clean she
 Listed away: 10 games, scored 15 (1.50), conceded 11 (1.10), blanks 0, clean sheets 4
 All: 20 games, scored 42 (2.10), conceded 24 (1.20), blanks 0, clean sheets 5
 
-"Sutton" matches several teams. Use id:<number> instead of the name:
-  id:1835   Sutton Utd (England)
-  id:7253   Sutton Coldfield Town (England)
-  id:8961   Sutton Athletic (England)
-  id:8962   Sutton Common Rovers (England)
-  id:11951  Bishop Sutton (England)
-  id:18219  Sutton United W (England)
-  id:18252  Sutton Coldfield Town W (England)
-(retrying Sutton using the opponent's country, England)
-"Sutton" matches several teams. Use id:<number> instead of the name:
-  id:1835   Sutton Utd (England)
-  id:7253   Sutton Coldfield Town (England)
-  id:8961   Sutton Athletic (England)
-  id:8962   Sutton Common Rovers (England)
-  id:11951  Bishop Sutton (England)
-  id:18219  Sutton United W (England)
-  id:18252  Sutton Coldfield Town W (England)
-!! Sutton: Ambiguous team name "Sutton".
+=== Sutton United W (id 18219): last 7 finished games ===
+2025-12-14 H 0-3 v Chatham Town W | FA Women's Cup | London
+2025-11-23 A 3-2 v Bowers & Pitsea W | FA Women's Cup | ?
+2025-10-26 A 1-1 v Brentford W | FA Women's Cup | London [PEN, 90-min score shown]
+2023-11-12 H 3-4 v Maidenhead United W | FA Women's Cup | Sutton, Surrey [AET, 90-min score shown]
+2023-10-22 H 3-3 v Sport London e Benfica | FA Women's Cup | Sutton, Surrey [PEN, 90-min score shown]
+2022-11-13 A 0-8 v Worthing W | FA Women's Cup | Worthing, West Sussex
+2021-11-14 H 0-6 v Ashford Town (Middlesex) W | FA Women's Cup | Sutton, Surrey
+Listed home: 4 games, scored 6 (1.50), conceded 16 (4.00), blanks 2, clean sheets 0
+Listed away: 3 games, scored 4 (1.33), conceded 11 (3.67), blanks 1, clean sheets 0
+All: 7 games, scored 10 (1.43), conceded 27 (3.86), blanks 3, clean sheets 0
 
 TABLE FOR Harrogate Town
 LEAGUE TABLE National League 2026 | 24 teams | 155 games played
@@ -76,7 +69,9 @@ League averages per game: home 1.68, away 1.42, total 3.10
 23  Solihull Moors           7 |  7   4-15      |  6   9-20      | 13  13-35
 24  Gateshead                4 |  6   5-11      |  7   3-20      | 13   8-31
 
-(16 API-Football requests used)
+(no league table available for Sutton United W: tried FA Women's Cup 2025, FA Women's Cup 2023, FA Women's Cup 2022, FA Women's Cup 2021)
+
+(27 API-Football requests used)
 
 ----------------------------------------------------------------------
 MATCHBOOK: skipped (switched off for this run)

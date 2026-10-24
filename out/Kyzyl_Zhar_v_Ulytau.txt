@@ -1,6 +1,6 @@
-MATCH Kyzyl-Zhar v Ulytau | fetched 2026-10-24 08:43 local
+MATCH Kyzyl Zhar v Ulytau | fetched 2026-10-24 08:45 local
 
-FORM DATA Kyzyl-Zhar v Ulytau | source API-Football | 2026-10-24 08:43 UTC
+FORM DATA Kyzyl Zhar v Ulytau | source API-Football | 2026-10-24 08:45 UTC
 H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
 
 === Ulytau (id 21010): last 20 finished games ===
@@ -28,7 +28,7 @@ Listed home: 10 games, scored 11 (1.10), conceded 10 (1.00), blanks 3, clean she
 Listed away: 10 games, scored 8 (0.80), conceded 17 (1.70), blanks 3, clean sheets 1
 All: 20 games, scored 19 (0.95), conceded 27 (1.35), blanks 6, clean sheets 5
 
-!! Kyzyl-Zhar: API-Football error: {"search": "The Search field may only contain alpha-numeric characters and spaces."}
+!! Kyzyl Zhar: No team found for "Kyzyl Zhar".
 
 TABLE FOR Ulytau
 LEAGUE TABLE Premier League 2026 | 16 teams | 224 games played

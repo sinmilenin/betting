@@ -1,24 +1,32 @@
-MATCH Hertha Berlin v Arminia Bielefeld | fetched 2026-10-24 08:43 local
+MATCH Hertha BSC v Arminia Bielefeld | fetched 2026-10-24 08:45 local
 
-FORM DATA Hertha Berlin v Arminia Bielefeld | source API-Football | 2026-10-24 08:43 UTC
+FORM DATA Hertha BSC v Arminia Bielefeld | source API-Football | 2026-10-24 08:45 UTC
 H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
 
-=== Hertha Berlin W (id 27444): last 12 finished games ===
-2026-10-18 A 2-2 v SC Sand W | 2. Frauen Bundesliga | Willstatt
-2026-10-04 H 3-1 v Hoffenheim II W | 2. Frauen Bundesliga | ?
-2026-09-26 H 1-2 v FC Koln W | DFB Pokal - Women | ?
-2026-09-20 A 2-1 v Eintracht Frankfurt II W | 2. Frauen Bundesliga | ?
-2026-09-13 H 2-0 v Meppen W | 2. Frauen Bundesliga | ?
-2026-09-06 A 3-2 v Borussia Monchengladbach W | 2. Frauen Bundesliga | ?
-2026-08-30 H 2-1 v Ingolstadt W | 2. Frauen Bundesliga | ?
-2026-08-23 A 2-1 v Turbine Potsdam W | 2. Frauen Bundesliga | Potsdam-Babelsberg
-2026-08-15 A 5-0 v Jesteburg W | DFB Pokal - Women | ?
-2026-08-09 H 2-0 v FC Koln II W | 2. Frauen Bundesliga | ?
-2026-08-02 A 0-3 v Bochum W | 2. Frauen Bundesliga | Bochum
-2026-02-02 A 0-1 v India W | Friendlies Women | ?
-Listed home: 5 games, scored 10 (2.00), conceded 4 (0.80), blanks 0, clean sheets 2
-Listed away: 7 games, scored 14 (2.00), conceded 10 (1.43), blanks 2, clean sheets 1
-All: 12 games, scored 24 (2.00), conceded 14 (1.17), blanks 2, clean sheets 3
+=== Hertha BSC (id 159): last 20 finished games ===
+2026-10-16 A 0-0 v Holstein Kiel | 2. Bundesliga | Kiel | xG 1.66-0.51
+2026-10-11 H 2-1 v SpVgg Greuther Fürth | 2. Bundesliga | Berlin | xG 1.76-1.00
+2026-10-02 A 2-2 v FC Augsburg | Friendlies Clubs | Augsburg
+2026-09-29 A 3-1 v Hertha Zehlendorf | Friendlies Clubs | ?
+2026-09-19 A 2-1 v Dynamo Dresden | 2. Bundesliga | Dresden | xG 2.58-0.83
+2026-09-13 A 3-1 v VfL Osnabrück | 2. Bundesliga | Osnabruck | xG 2.14-1.73
+2026-09-06 H 2-1 v 1. FC Magdeburg | 2. Bundesliga | Berlin | xG 1.38-0.91
+2026-08-28 A 5-3 v Eintracht Braunschweig | 2. Bundesliga | Braunschweig | xG 3.60-2.60
+2026-08-22 A 1-1 v FC Saarbrücken | DFB Pokal | Saarbrücken [PEN, 90-min score shown]
+2026-08-15 H 4-1 v 1. FC Heidenheim | 2. Bundesliga | Berlin | xG 2.04-1.24
+2026-08-07 A 1-0 v VfL Bochum | 2. Bundesliga | Bochum
+2026-07-31 A 2-2 v 1. FC Köln | Friendlies Clubs | ?
+2026-07-21 H 1-1 v Mamelodi Sundowns | Friendlies Clubs | ?
+2026-07-17 H 3-2 v WSG Wattens | Friendlies Clubs | ?
+2026-07-11 A 3-1 v Lokomotive Leipzig | Friendlies Clubs | ?
+2026-07-08 A 9-0 v Lichtenberg | Friendlies Clubs | ?
+2026-07-04 A 15-0 v Frohnauer | Friendlies Clubs | ?
+2026-05-17 A 1-6 v Arminia Bielefeld | 2. Bundesliga | Bielefeld
+2026-05-10 H 2-1 v SpVgg Greuther Fürth | 2. Bundesliga | Berlin
+2026-05-03 A 0-1 v 1. FC Magdeburg | 2. Bundesliga | Magdeburg
+Listed home: 6 games, scored 14 (2.33), conceded 7 (1.17), blanks 0, clean sheets 0
+Listed away: 14 games, scored 47 (3.36), conceded 19 (1.36), blanks 2, clean sheets 4
+All: 20 games, scored 61 (3.05), conceded 26 (1.30), blanks 2, clean sheets 4
 
 === Arminia Bielefeld (id 188): last 20 finished games ===
 2026-10-18 H 2-1 v VfL Osnabrück | 2. Bundesliga | Bielefeld | xG 1.04-1.41
@@ -45,26 +53,7 @@ Listed home: 9 games, scored 20 (2.22), conceded 11 (1.22), blanks 0, clean shee
 Listed away: 11 games, scored 33 (3.00), conceded 17 (1.55), blanks 1, clean sheets 4
 All: 20 games, scored 53 (2.65), conceded 28 (1.40), blanks 1, clean sheets 5
 
-TABLE FOR Hertha Berlin W
-LEAGUE TABLE 2. Frauen Bundesliga 2026 | 14 teams | 63 games played
-League averages per game: home 1.60, away 1.43, total 3.03
-#   team                   Pts | home P GF-GA  | away P GF-GA  | all P GF-GA
-1   Viktoria Berlin W       24 |  5   6-3       |  4   9-2       |  9  15-5
-2   Hertha Berlin W         22 |  4   9-2       |  5   9-9       |  9  18-11
-3   Bochum W                20 |  5  17-0       |  4   9-6       |  9  26-6
-4   SGS Essen W             20 |  4  10-4       |  5  13-4       |  9  23-8
-5   Meppen W                15 |  4   9-3       |  5   6-5       |  9  15-8
-6   Carl Zeiss Jena  W      13 |  4   8-5       |  5   8-8       |  9  16-13
-7   Ingolstadt W            12 |  5   9-7       |  4   3-4       |  9  12-11
-8   SC Sand W               12 |  4   4-9       |  5   8-4       |  9  12-13
-9   Andernach W             12 |  5   6-11      |  4   6-10      |  9  12-21
-10  Borussia Monchengladba  10 |  5   6-10      |  4   8-7       |  9  14-17
-11  Eintracht Frankfurt II   7 |  4   3-6       |  5   2-12      |  9   5-18
-12  Hoffenheim II W          5 |  5   9-10      |  4   4-11      |  9  13-21
-13  Turbine Potsdam W        4 |  4   2-7       |  5   3-13      |  9   5-20
-14  FC Koln II W             2 |  5   3-13      |  4   2-6       |  9   5-19
-
-TABLE FOR Arminia Bielefeld
+TABLE FOR Hertha BSC
 LEAGUE TABLE 2. Bundesliga 2026 | 18 teams | 74 games played
 League averages per game: home 1.73, away 1.32, total 3.05
 #   team                   Pts | home P GF-GA  | away P GF-GA  | all P GF-GA
@@ -87,7 +76,9 @@ League averages per game: home 1.73, away 1.32, total 3.05
 17  Eintracht Braunschweig   7 |  4   6-8       |  4   7-7       |  8  13-15
 18  Holstein Kiel            5 |  4   5-5       |  4   2-6       |  8   7-11
 
-(25 API-Football requests used)
+(Arminia Bielefeld: same table as Hertha BSC, shown above)
+
+(24 API-Football requests used)
 
 ----------------------------------------------------------------------
 MATCHBOOK: skipped (switched off for this run)

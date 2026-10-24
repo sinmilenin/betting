@@ -1,17 +1,10 @@
-RUN 2026-10-24 08:43 local | 10 match(es)
-Heidenheim v Energie Cottbus -> out/Heidenheim_v_Energie_Cottbus.txt
-    !! Heidenheim: Ambiguous team name "Heidenheim".
-Hertha Berlin v Arminia Bielefeld -> out/Hertha_Berlin_v_Arminia_Bielefeld.txt
-Magdeburg v Karlsruher SC -> out/Magdeburg_v_Karlsruher_SC.txt
-    !! Magdeburg: Ambiguous team name "Magdeburg".
-Kyzyl-Zhar v Ulytau -> out/Kyzyl_Zhar_v_Ulytau.txt
-    !! Kyzyl-Zhar: API-Football error: {"search": "The Search field may only contain alpha-numeric characters and spaces."}
-Northampton v Colchester -> out/Northampton_v_Colchester.txt
-Portsmouth v Millwall -> out/Portsmouth_v_Millwall.txt
-Huddersfield v Wigan -> out/Huddersfield_v_Wigan.txt
-Luton v Leicester -> out/Luton_v_Leicester.txt
-Bristol Rovers v Swindon -> out/Bristol_Rovers_v_Swindon.txt
-    !! Swindon: Ambiguous team name "Swindon".
-Harrogate Town v Sutton -> out/Harrogate_Town_v_Sutton.txt
-    !! Sutton: Ambiguous team name "Sutton".
-Requests used: API-Football 197, Matchbook 0
+RUN 2026-10-24 08:45 local | 6 match(es)
+1. FC Heidenheim v Energie Cottbus -> out/1_FC_Heidenheim_v_Energie_Cottbus.txt
+    !! 1. FC Heidenheim: API-Football error: {"search": "The Search field may only contain alpha-numeric characters and spaces."}
+FC Magdeburg v Karlsruher SC -> out/FC_Magdeburg_v_Karlsruher_SC.txt
+Hertha BSC v Arminia Bielefeld -> out/Hertha_BSC_v_Arminia_Bielefeld.txt
+Kyzyl Zhar v Ulytau -> out/Kyzyl_Zhar_v_Ulytau.txt
+    !! Kyzyl Zhar: No team found for "Kyzyl Zhar".
+Bristol Rovers v Swindon Town -> out/Bristol_Rovers_v_Swindon_Town.txt
+Harrogate Town v Sutton United -> out/Harrogate_Town_v_Sutton_United.txt
+Requests used: API-Football 128, Matchbook 0
