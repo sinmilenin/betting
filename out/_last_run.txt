@@ -1,5 +1,4 @@
 RUN 2026-10-24 04:14 local | 2 match(es)
-Sanfrecce Hiroshima v Shimizu S Pulse -> out/Sanfrecce_Hiroshima_v_Shimizu_S_Pulse.txt
-    !! Shimizu S Pulse: No team found for "Shimizu S Pulse".
-Osaka v Kagoshima United -> out/Osaka_v_Kagoshima_United.txt
-Requests used: API-Football 39, Matchbook 0
+Sanfrecce Hiroshima v Shimizu -> out/Sanfrecce_Hiroshima_v_Shimizu.txt
+Western Sydney Wanderers v Auckland -> out/Western_Sydney_Wanderers_v_Auckland.txt
+Requests used: API-Football 50, Matchbook 0
