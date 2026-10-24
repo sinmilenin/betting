@@ -1,2 +1,8 @@
-# Night scan 2026-10-23 20:57 (Ljubljana) run 4: Gimnasia Mendoza by id (id:1066, first team)
-id:1066 v id:1064 | n=20 | xg=10
+# Scan 2026-10-24 06:11 (Ljubljana) run 1: K League, J League, A-League fixtures 07:00-08:00
+FC Seoul v Gangwon | n=20 | xg=10
+Gimcheon Sangmu v Daejeon Citizen | n=20 | xg=10
+Omiya Ardija v Yokohama FC | n=20 | xg=10
+Sanfrecce Hiroshima v Shimizu S-pulse | n=20 | xg=10
+FC Osaka v Kagoshima United | n=20 | xg=10
+Western Sydney Wanderers v Auckland FC | n=20 | xg=10
+Tokyo Verdy v Avispa Fukuoka | n=20 | xg=10
