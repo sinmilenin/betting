@@ -1,3 +1,7 @@
-RUN 2026-10-24 17:48 local | 1 match(es)
-Wisla Krakow v id:3491 -> out/Wisla_Krakow_v_id_3491.txt
-Requests used: API-Football 25, Matchbook 0
+RUN 2026-10-24 18:29 local | 3 match(es)
+EC Vitoria v Athletico Paranaense -> out/EC_Vitoria_v_Athletico_Paranaense.txt
+Defensor Sporting v Racing Club Montevideo -> out/Defensor_Sporting_v_Racing_Club_Montevid.txt
+    !! Racing Club Montevideo: No team found for "Racing Club Montevideo".
+Uruguay de Coronado v Guadalupe -> out/Uruguay_de_Coronado_v_Guadalupe.txt
+    !! Uruguay de Coronado: No team found for "Uruguay de Coronado".
+Requests used: API-Football 50, Matchbook 0
