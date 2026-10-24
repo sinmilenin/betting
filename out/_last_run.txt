@@ -1,6 +1,3 @@
-RUN 2026-10-24 11:01 local | 3 match(es)
-Cheltenham v Newport County -> out/Cheltenham_v_Newport_County.txt
-Zlin v Sigma Olomouc -> out/Zlin_v_Sigma_Olomouc.txt
-Mainz v Werder Bremen -> out/Mainz_v_Werder_Bremen.txt
-    !! Mainz: Ambiguous team name "Mainz".
-Requests used: API-Football 65, Matchbook 0
+RUN 2026-10-24 11:02 local | 1 match(es)
+id:164 v Werder Bremen -> out/id_164_v_Werder_Bremen.txt
+Requests used: API-Football 25, Matchbook 0
