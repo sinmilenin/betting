@@ -570,5 +570,27 @@
     "lay": 19.5,
     "stake": 3,
     "created": "2026-10-24T16:52:45+02:00"
+  },
+  {
+    "id": "2026-10-24_sport-huancayo-alianza-atletico_1-0",
+    "date": "2026-10-24",
+    "ko": "19:45",
+    "match": "Sport Huancayo v Alianza Atletico",
+    "comp": "Peru, Peruvian Primera Division",
+    "cell": "1-0",
+    "lay": 11.5,
+    "stake": 3,
+    "created": "2026-10-24T17:36:02+02:00"
+  },
+  {
+    "id": "2026-10-24_fcsb-rapid-bucharest_1-0",
+    "date": "2026-10-24",
+    "ko": "20:00",
+    "match": "FCSB v Rapid Bucharest",
+    "comp": "Romania, Romanian Liga I",
+    "cell": "1-0",
+    "lay": 11.5,
+    "stake": 3,
+    "created": "2026-10-24T17:36:02+02:00"
   }
 ]
