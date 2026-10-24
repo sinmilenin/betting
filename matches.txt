@@ -1,2 +1,7 @@
-# Scan 2026-10-24 15:13 (Ljubljana) run 3: Bodo/Glimt by team id
-id:327 v Valerenga | n=20 | xg=10
+# Scan 2026-10-24 15:57 (Ljubljana) run 1: thin-book fixtures
+Stuttgart II v Alemannia Aachen | n=20 | xg=10
+Ham-Kam v Rosenborg | n=20 | xg=10
+Servette v FC Vaduz | n=20 | xg=10
+FC Zurich v Luzern | n=20 | xg=10
+Las Palmas v Real Sociedad B | n=20 | xg=10
+Willem II v Cambuur | n=20 | xg=10
