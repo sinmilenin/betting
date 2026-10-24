@@ -1,15 +1,5 @@
-# Night scan 2026-10-24 20:57 (Ljubljana)
-Sao Bernardo v Vila Nova | n=20 | xg=10
-Atletico Goianiense v Novorizontino | n=20 | xg=10
-LDU Quito v Macara | n=20 | xg=10
-Palmeiras v RB Bragantino | n=20 | xg=10
-Vasco da Gama v Corinthians | n=20 | xg=10
-Chapecoense v Fluminense | n=20 | xg=10
-Philadelphia Union v New England Revolution | n=20 | xg=10
-Orlando City v New York City | n=20 | xg=10
-Santos v Bahia | n=20 | xg=10
-FC Dallas v San Jose Earthquakes | n=20 | xg=10
-Herediano v Cartagines | n=20 | xg=10
-Wellington Phoenix v Central Coast Mariners | n=20 | xg=10
-San Diego v Seattle Sounders | n=20 | xg=10
-Portland Timbers v Charlotte | n=20 | xg=10
+# Night scan 2026-10-24 20:57 (Ljubljana) run 2: corrected names
+Sao Bernardo FC v Vila Nova | n=20 | xg=10
+Liga de Quito v Macara | n=20 | xg=10
+Chapecoense-sc v Fluminense | n=20 | xg=10
+Orlando City SC v New York City FC | n=20 | xg=10
