@@ -31,5 +31,16 @@
     "lay": 16,
     "stake": 3,
     "created": "2026-10-24T04:17:17Z"
+  },
+  {
+    "id": "2026-10-24_tokyo-v-fukuoka_1-0",
+    "date": "2026-10-24",
+    "ko": "08:00",
+    "match": "Tokyo-V v Fukuoka",
+    "comp": "Japan, Japanese J League",
+    "cell": "1-0",
+    "lay": 8.6,
+    "stake": 3,
+    "created": "2026-10-24T04:59:30Z"
   }
 ]
