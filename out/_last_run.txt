@@ -1,4 +1,8 @@
-RUN 2026-10-24 06:31 local | 2 match(es)
-Shenyang Urban v id:848 -> out/Shenyang_Urban_v_id_848.txt
-id:21262 v id:1431 -> out/id_21262_v_id_1431.txt
-Requests used: API-Football 49, Matchbook 0
+RUN 2026-10-24 07:13 local | 4 match(es)
+Henan Songshan Longmen v Beijing Guoan -> out/Henan_Songshan_Longmen_v_Beijing_Guoan.txt
+    !! Henan Songshan Longmen: No team found for "Henan Songshan Longmen".
+Wuhan Three Towns v Shandong Taishan -> out/Wuhan_Three_Towns_v_Shandong_Taishan.txt
+Chengdu Rongcheng v Dalian Yingbo -> out/Chengdu_Rongcheng_v_Dalian_Yingbo.txt
+Zhetysu v Tobol -> out/Zhetysu_v_Tobol.txt
+    !! Tobol: Ambiguous team name "Tobol".
+Requests used: API-Football 78, Matchbook 0
