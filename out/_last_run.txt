@@ -1,4 +1,4 @@
-RUN 2026-10-24 13:16 local | 1 match(es)
-Bodo/Glimt v Valerenga -> out/Bodo_Glimt_v_Valerenga.txt
-    !! Bodo/Glimt: API-Football error: {"search": "The Search field may only contain alpha-numeric characters and spaces."}
+RUN 2026-10-24 13:19 local | 1 match(es)
+Bodo Glimt v Valerenga -> out/Bodo_Glimt_v_Valerenga.txt
+    !! Bodo Glimt: No team found for "Bodo Glimt".
 Requests used: API-Football 14, Matchbook 0
