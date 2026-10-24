@@ -1,5 +1,3 @@
-RUN 2026-10-24 17:01 local | 2 match(es)
-Al Riyadh v Al-Taawoun -> out/Al_Riyadh_v_Al_Taawoun.txt
-    !! Al-Taawoun: API-Football error: {"search": "The Search field may only contain alpha-numeric characters and spaces."}
-id:119 v id:120 -> out/id_119_v_id_120.txt
-Requests used: API-Football 39, Matchbook 0
+RUN 2026-10-24 17:02 local | 1 match(es)
+Al Riyadh v Al Taawon -> out/Al_Riyadh_v_Al_Taawon.txt
+Requests used: API-Football 26, Matchbook 0
