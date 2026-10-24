@@ -1,7 +1,4 @@
-# Scan 2026-10-24 10:42 (Ljubljana) run 2: corrected names (Heidenheim, Magdeburg, Hertha BSC, Swindon Town, Sutton United, Kyzyl Zhar)
-1. FC Heidenheim v Energie Cottbus | n=20 | xg=10
-FC Magdeburg v Karlsruher SC | n=20 | xg=10
-Hertha BSC v Arminia Bielefeld | n=20 | xg=10
-Kyzyl Zhar v Ulytau | n=20 | xg=10
-Bristol Rovers v Swindon Town | n=20 | xg=10
-Harrogate Town v Sutton United | n=20 | xg=10
+# Scan 2026-10-24 10:42 (Ljubljana) run 3: Heidenheim by id, Kyzyl-Zhar and Sutton name variants
+id:180 v Energie Cottbus | n=20 | xg=10
+Kyzyl v Ulytau | n=20 | xg=10
+Harrogate Town v Sutton Utd | n=20 | xg=10
