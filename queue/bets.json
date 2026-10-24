@@ -548,5 +548,27 @@
     "lay": 15.5,
     "stake": 3,
     "created": "2026-10-24T16:06:54+02:00"
+  },
+  {
+    "id": "2026-10-24_fc-zurich-luzern_2-2",
+    "date": "2026-10-24",
+    "ko": "18:00",
+    "match": "FC Zurich v Luzern",
+    "comp": "Switzerland, Swiss Super League",
+    "cell": "2-2",
+    "lay": 13,
+    "stake": 3,
+    "created": "2026-10-24T16:52:45+02:00"
+  },
+  {
+    "id": "2026-10-24_cf-montreal-nashville-sc_2-2",
+    "date": "2026-10-24",
+    "ko": "19:30",
+    "match": "CF Montreal v Nashville SC",
+    "comp": "United States, US MLS",
+    "cell": "2-2",
+    "lay": 19.5,
+    "stake": 3,
+    "created": "2026-10-24T16:52:45+02:00"
   }
 ]
