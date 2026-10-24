@@ -1,4 +1,3 @@
-RUN 2026-10-24 16:17 local | 1 match(es)
-Al Duhail v Lusail -> out/Al_Duhail_v_Lusail.txt
-    !! Al Duhail: No team found for "Al Duhail".
-Requests used: API-Football 14, Matchbook 0
+RUN 2026-10-24 16:18 local | 1 match(es)
+Duhail v Lusail -> out/Duhail_v_Lusail.txt
+Requests used: API-Football 25, Matchbook 0
