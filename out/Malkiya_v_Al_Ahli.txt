@@ -1,0 +1,93 @@
+MATCH Malkiya v Al Ahli | fetched 2026-10-24 15:31 local
+
+FORM DATA Malkiya v Al Ahli | source API-Football | 2026-10-24 15:31 UTC
+H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
+
+=== Malkiya (id 5486): last 20 finished games ===
+2026-10-18 A 0-3 v Muharraq | Premier League | ?
+2026-10-09 H 1-1 v Al Riffa | Premier League | ?
+2026-09-11 A 0-1 v A'Ali | Premier League | ?
+2026-09-02 H 0-1 v Al Najma | Premier League | ?
+2026-08-27 A 0-3 v Sitra | Premier League | ?
+2026-05-16 A 0-1 v Sitra | Premier League | ?
+2026-05-11 H 0-2 v Al Riffa | Premier League | ?
+2026-05-03 A 4-0 v Bahrain SC | Premier League | ?
+2026-04-28 H 3-0 v Al Najma | Premier League | ?
+2026-04-18 H 1-0 v Al Shabab | Premier League | ?
+2026-04-04 A 0-0 v Al Ahli | Premier League | ?
+2026-03-14 H 0-1 v A'Ali | Premier League | ?
+2026-02-21 H 1-2 v Khalidiya | Premier League | ?
+2026-02-07 H 0-1 v Muharraq | Premier League | ?
+2026-02-01 A 1-2 v Al Shabab | King's Cup | ?
+2026-01-26 A 1-0 v Budaiya | Premier League | ?
+2026-01-14 H 0-0 v Al-Hidd | Premier League | ?
+2026-01-10 H 0-0 v Sitra | Premier League | ?
+2026-01-03 A 0-2 v Al Riffa | Premier League | ?
+2025-12-26 H 2-0 v Bahrain SC | Premier League | ?
+Listed home: 11 games, scored 8 (0.73), conceded 8 (0.73), blanks 6, clean sheets 5
+Listed away: 9 games, scored 6 (0.67), conceded 12 (1.33), blanks 6, clean sheets 3
+All: 20 games, scored 14 (0.70), conceded 20 (1.00), blanks 12, clean sheets 8
+
+"Al Ahli" matches several teams. Use id:<number> instead of the name:
+  id:2870   Shabab Al Ahli Dubai (United-Arab-Emirates)
+  id:2896   Al Ahli Doha (Qatar)
+  id:4529   Al Ahli (Jordan)
+  id:4568   Al Akhaa Al Ahli (Lebanon)
+  id:5234   Al Ahli Khartoum (Sudan)
+  id:5543   Al Ahli Wad Medani (Sudan)
+  id:5580   Al Ahli (Bahrain)
+  id:12423  Al Ahli Benghazi (Libya)
+  id:12424  Al Ahli Tripoli (Libya)
+  id:21186  Al Ahli Nabatiya (Lebanon)
+  id:23352  Al Ahli San'a (Yemen)
+  id:27712  Al Ahli SC W (Saudi-Arabia)
+(retrying Al Ahli using the opponent's country, Bahrain)
+NOTE: "Al Ahli" matched 2 teams; picked Al Ahli (Bahrain) because the opponent is from Bahrain. Others: Al Ahli (Jordan)
+=== Al Ahli (id 5580): last 20 finished games ===
+2026-10-18 H 1-2 v Khalidiya | Premier League | ?
+2026-10-10 A 3-1 v Manama | Premier League | ?
+2026-09-12 H 0-2 v Al Ittifaq Maqaba | Premier League | ?
+2026-09-05 A 1-0 v Al-Hidd | Premier League | ?
+2026-08-28 A 1-1 v Muharraq | Premier League | ?
+2026-05-15 A 2-2 v Budaiya | Premier League | ?
+2026-05-11 H 0-1 v Al-Hidd | Premier League | ?
+2026-05-05 A 2-0 v Sitra | Premier League | ?
+2026-04-29 H 2-3 v Al Riffa | Premier League | ?
+2026-04-17 A 2-1 v Bahrain SC | Premier League | ?
+2026-04-11 A 1-2 v Muharraq | King's Cup | ?
+2026-04-04 H 0-0 v Malkiya | Premier League | ?
+2026-03-14 A 0-0 v Al Shabab | Premier League | ?
+2026-03-07 H 2-2 v Al Ittifaq Maqaba | King's Cup | ? [PEN, 90-min score shown]
+2026-02-20 H 1-0 v Al Najma | Premier League | ?
+2026-02-12 H 1-2 v A'Ali | Premier League | ?
+2026-02-05 A 0-0 v Budaiya | King's Cup | ? [PEN, 90-min score shown]
+2026-01-26 A 1-0 v Khalidiya | Premier League | ?
+2026-01-15 H 0-1 v Muharraq | Premier League | ?
+2026-01-08 H 2-3 v Budaiya | Premier League | ?
+Listed home: 10 games, scored 9 (0.90), conceded 16 (1.60), blanks 4, clean sheets 2
+Listed away: 10 games, scored 13 (1.30), conceded 7 (0.70), blanks 2, clean sheets 5
+All: 20 games, scored 22 (1.10), conceded 23 (1.15), blanks 6, clean sheets 7
+
+TABLE FOR Malkiya
+LEAGUE TABLE Premier League 2026 | 12 teams | 34 games played
+League averages per game: home 1.26, away 1.50, total 2.76
+#   team                   Pts | home P GF-GA  | away P GF-GA  | all P GF-GA
+1   Al Riffa                14 |  3   6-0       |  3   9-4       |  6  15-4
+2   Khalidiya               12 |  3   7-5       |  3   9-3       |  6  16-8
+3   Al Ittifaq Maqaba       11 |  2   3-2       |  4   5-4       |  6   8-6
+4   Muharraq                11 |  3   7-2       |  3   3-3       |  6  10-5
+5   Sitra                    8 |  4   5-5       |  2   2-0       |  6   7-5
+6   Al Ahli                  7 |  2   1-4       |  3   5-2       |  5   6-6
+7   A'Ali                    7 |  3   2-3       |  3   4-6       |  6   6-9
+8   Al Najma                 7 |  4   7-14      |  2   3-0       |  6  10-14
+9   East Riffa               7 |  4   2-4       |  2   3-6       |  6   5-10
+10  Al-Hidd                  5 |  2   0-2       |  3   4-2       |  5   4-4
+11  Manama                   2 |  2   2-8       |  3   4-6       |  5   6-14
+12  Malkiya                  1 |  2   1-2       |  3   0-7       |  5   1-9
+
+(Al Ahli: same table as Malkiya, shown above)
+
+(26 API-Football requests used)
+
+----------------------------------------------------------------------
+MATCHBOOK: skipped (switched off for this run)

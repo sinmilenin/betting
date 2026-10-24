@@ -1,3 +1,7 @@
-RUN 2026-10-24 14:49 local | 1 match(es)
-id:575 v Panetolikos -> out/id_575_v_Panetolikos.txt
-Requests used: API-Football 26, Matchbook 0
+RUN 2026-10-24 15:31 local | 4 match(es)
+Malkiya v Al Ahli -> out/Malkiya_v_Al_Ahli.txt
+Girona v Celta Vigo B -> out/Girona_v_Celta_Vigo_B.txt
+    !! Celta Vigo B: No team found for "Celta Vigo B".
+Sport Huancayo v Alianza Atletico -> out/Sport_Huancayo_v_Alianza_Atletico.txt
+FCSB v Rapid Bucuresti -> out/FCSB_v_Rapid_Bucuresti.txt
+Requests used: API-Football 89, Matchbook 0
