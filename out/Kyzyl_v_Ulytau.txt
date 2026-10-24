@@ -1,8 +1,13 @@
-MATCH Kyzyl Zhar v Ulytau | fetched 2026-10-24 08:45 local
+MATCH Kyzyl v Ulytau | fetched 2026-10-24 08:46 local
 
-FORM DATA Kyzyl Zhar v Ulytau | source API-Football | 2026-10-24 08:45 UTC
+FORM DATA Kyzyl v Ulytau | source API-Football | 2026-10-24 08:46 UTC
 H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
 
+"Kyzyl" matches several teams. Use id:<number> instead of the name:
+  id:4554   Kyzyl-Zhar (Kazakhstan)
+  id:11484  Kyzylzhar (Kazakhstan)
+  id:16613  Kyzyl-Zhar II (Kazakhstan)
+  id:17680  Kyzyltash (Ukraine)
 === Ulytau (id 21010): last 20 finished games ===
 2026-10-18 A 1-2 v Yelimay Semey | Premier League | Semey
 2026-10-11 H 2-0 v Okzhetpes | Premier League | Zhezqazghan
@@ -28,7 +33,13 @@ Listed home: 10 games, scored 11 (1.10), conceded 10 (1.00), blanks 3, clean she
 Listed away: 10 games, scored 8 (0.80), conceded 17 (1.70), blanks 3, clean sheets 1
 All: 20 games, scored 19 (0.95), conceded 27 (1.35), blanks 6, clean sheets 5
 
-!! Kyzyl Zhar: No team found for "Kyzyl Zhar".
+(retrying Kyzyl using the opponent's country, Kazakhstan)
+"Kyzyl" matches several teams. Use id:<number> instead of the name:
+  id:4554   Kyzyl-Zhar (Kazakhstan)
+  id:11484  Kyzylzhar (Kazakhstan)
+  id:16613  Kyzyl-Zhar II (Kazakhstan)
+  id:17680  Kyzyltash (Ukraine)
+!! Kyzyl: Ambiguous team name "Kyzyl".
 
 TABLE FOR Ulytau
 LEAGUE TABLE Premier League 2026 | 16 teams | 224 games played
@@ -51,7 +62,7 @@ League averages per game: home 1.46, away 1.07, total 2.53
 15  Zhetysu                 25 | 13  11-15      | 15  17-31      | 28  28-46
 16  Kaisar                  24 | 15  14-19      | 13  10-20      | 28  24-39
 
-(14 API-Football requests used)
+(15 API-Football requests used)
 
 ----------------------------------------------------------------------
 MATCHBOOK: skipped (switched off for this run)
