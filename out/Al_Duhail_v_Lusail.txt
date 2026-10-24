@@ -1,6 +1,6 @@
-MATCH Al-Duhail v Lusail | fetched 2026-10-24 16:15 local
+MATCH Al Duhail v Lusail | fetched 2026-10-24 16:17 local
 
-FORM DATA Al-Duhail v Lusail | source API-Football | 2026-10-24 16:15 UTC
+FORM DATA Al Duhail v Lusail | source API-Football | 2026-10-24 16:17 UTC
 H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
 
 === Lusail City (id 7527): last 20 finished games ===
@@ -28,7 +28,7 @@ Listed home: 8 games, scored 11 (1.38), conceded 6 (0.75), blanks 2, clean sheet
 Listed away: 12 games, scored 16 (1.33), conceded 18 (1.50), blanks 5, clean sheets 3
 All: 20 games, scored 27 (1.35), conceded 24 (1.20), blanks 7, clean sheets 7
 
-!! Al-Duhail: API-Football error: {"search": "The Search field may only contain alpha-numeric characters and spaces."}
+!! Al Duhail: No team found for "Al Duhail".
 
 TABLE FOR Lusail City
 LEAGUE TABLE Stars League 2026 | 12 teams | 40 games played

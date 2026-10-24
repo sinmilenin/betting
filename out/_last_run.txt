@@ -1,10 +1,4 @@
-RUN 2026-10-24 16:15 local | 7 match(es)
-Asteras Tripolis v Levadiakos -> out/Asteras_Tripolis_v_Levadiakos.txt
-Manta v Deportivo Cuenca -> out/Manta_v_Deportivo_Cuenca.txt
-Al-Duhail v Lusail -> out/Al_Duhail_v_Lusail.txt
-    !! Al-Duhail: API-Football error: {"search": "The Search field may only contain alpha-numeric characters and spaces."}
-Rapid Vienna v Austria Lustenau -> out/Rapid_Vienna_v_Austria_Lustenau.txt
-Almagro v Tristan Suarez -> out/Almagro_v_Tristan_Suarez.txt
-Almeria v Oviedo -> out/Almeria_v_Oviedo.txt
-Saint Etienne v Nantes -> out/Saint_Etienne_v_Nantes.txt
-Requests used: API-Football 166, Matchbook 0
+RUN 2026-10-24 16:17 local | 1 match(es)
+Al Duhail v Lusail -> out/Al_Duhail_v_Lusail.txt
+    !! Al Duhail: No team found for "Al Duhail".
+Requests used: API-Football 14, Matchbook 0
