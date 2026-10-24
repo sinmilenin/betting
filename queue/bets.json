@@ -22,39 +22,6 @@
     "created": "2026-10-24T05:52:51Z"
   },
   {
-    "id": "2026-10-24_tianjin-jinmen-tiger-fc-shanghai-port-fc_0-1",
-    "date": "2026-10-24",
-    "ko": "09:30",
-    "match": "Tianjin Jinmen Tiger FC v Shanghai Port FC",
-    "comp": "China, Chinese Super League",
-    "cell": "0-1",
-    "lay": 13,
-    "stake": 3,
-    "created": "2026-10-24T06:33:00Z"
-  },
-  {
-    "id": "2026-10-24_chongqing-tonglianglong-qingdao-hainiu_aohw",
-    "date": "2026-10-24",
-    "ko": "09:30",
-    "match": "Chongqing Tonglianglong v Qingdao Hainiu",
-    "comp": "China, Chinese Super League",
-    "cell": "AOHW",
-    "lay": 3.55,
-    "stake": 3,
-    "created": "2026-10-24T07:16:43Z"
-  },
-  {
-    "id": "2026-10-24_chongqing-tonglianglong-qingdao-hainiu_3-0",
-    "date": "2026-10-24",
-    "ko": "09:30",
-    "match": "Chongqing Tonglianglong v Qingdao Hainiu",
-    "comp": "China, Chinese Super League",
-    "cell": "3-0",
-    "lay": 9.6,
-    "stake": 3,
-    "created": "2026-10-24T07:16:43Z"
-  },
-  {
     "id": "2026-10-24_fc-magdeburg-karlsruhe_2-2",
     "date": "2026-10-24",
     "ko": "13:00",
@@ -548,5 +515,38 @@
     "lay": 9.6,
     "stake": 3,
     "created": "2026-10-24T13:27:00Z"
+  },
+  {
+    "id": "2026-10-24_servette-fc-vaduz_2-2",
+    "date": "2026-10-24",
+    "ko": "18:00",
+    "match": "Servette v FC Vaduz",
+    "comp": "Switzerland, Swiss Super League",
+    "cell": "2-2",
+    "lay": 14,
+    "stake": 3,
+    "created": "2026-10-24T16:06:54+02:00"
+  },
+  {
+    "id": "2026-10-24_las-palmas-sociedad-b_1-0",
+    "date": "2026-10-24",
+    "ko": "18:30",
+    "match": "Las Palmas v Sociedad B",
+    "comp": "Spain, Spanish Segunda Division",
+    "cell": "1-0",
+    "lay": 12,
+    "stake": 3,
+    "created": "2026-10-24T16:06:54+02:00"
+  },
+  {
+    "id": "2026-10-24_las-palmas-sociedad-b_2-2",
+    "date": "2026-10-24",
+    "ko": "18:30",
+    "match": "Las Palmas v Sociedad B",
+    "comp": "Spain, Spanish Segunda Division",
+    "cell": "2-2",
+    "lay": 15.5,
+    "stake": 3,
+    "created": "2026-10-24T16:06:54+02:00"
   }
 ]
