@@ -1,5 +1,4 @@
-# Night scan 2026-10-24 20:57 (Ljubljana) run 2: corrected names
-Sao Bernardo FC v Vila Nova | n=20 | xg=10
-Liga de Quito v Macara | n=20 | xg=10
-Chapecoense-sc v Fluminense | n=20 | xg=10
-Orlando City SC v New York City FC | n=20 | xg=10
+# Night scan 2026-10-24 20:57 (Ljubljana) run 3: ids
+id:7865 v Vila Nova | n=20 | xg=10
+id:132 v Fluminense | n=20 | xg=10
+LDU de Quito v Macara | n=20 | xg=10
