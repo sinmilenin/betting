@@ -1,6 +1,6 @@
-MATCH Rochdale v Accrington | fetched 2026-10-24 11:47 local
+MATCH Rochdale v id:1360 | fetched 2026-10-24 11:49 local
 
-FORM DATA Rochdale v Accrington | source API-Football | 2026-10-24 11:48 UTC
+FORM DATA Rochdale v id:1360 | source API-Football | 2026-10-24 11:49 UTC
 H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
 
 === Rochdale (id 1339): last 20 finished games ===
@@ -28,18 +28,30 @@ Listed home: 10 games, scored 20 (2.00), conceded 19 (1.90), blanks 0, clean she
 Listed away: 10 games, scored 7 (0.70), conceded 20 (2.00), blanks 6, clean sheets 1
 All: 20 games, scored 27 (1.35), conceded 39 (1.95), blanks 6, clean sheets 4
 
-"Accrington" matches several teams. Use id:<number> instead of the name:
-  id:1360   Accrington ST (England)
-  id:19875  Accrington Stanley Res. (England)
-  id:25134  Accrington Stanley (England)
-  id:25423  Accrington Stanley U18 (England)
-(retrying Accrington using the opponent's country, England)
-"Accrington" matches several teams. Use id:<number> instead of the name:
-  id:1360   Accrington ST (England)
-  id:19875  Accrington Stanley Res. (England)
-  id:25134  Accrington Stanley (England)
-  id:25423  Accrington Stanley U18 (England)
-!! Accrington: Ambiguous team name "Accrington".
+=== Accrington ST (id 1360): last 20 finished games ===
+2026-10-20 A 1-1 v York | League Two | York | xG 1.05-1.87
+2026-10-17 H 3-1 v Gillingham | League Two | Accrington | xG 2.71-0.31
+2026-10-10 A 0-0 v Oldham | League Two | Oldham | xG 1.12-0.40
+2026-10-06 H 1-1 v Salford City | EFL Trophy | Accrington [PEN, 90-min score shown]
+2026-10-03 H 2-0 v Cheltenham | League Two | Accrington | xG 3.60-0.19
+2026-09-26 A 1-1 v Swindon Town | League Two | Swindon
+2026-09-22 H 3-3 v Sunderland U21 | EFL Trophy | Accrington [PEN, 90-min score shown]
+2026-09-19 H 0-0 v Newport County | League Two | Accrington | xG 0.87-1.09
+2026-09-12 A 1-2 v Barnet | League Two | London | xG 0.85-1.79
+2026-09-05 H 3-2 v Crawley Town | League Two | Accrington | xG 2.01-1.86
+2026-09-01 H 2-2 v Grimsby | League Two | Accrington
+2026-08-29 A 2-3 v Walsall | League Two | Walsall
+2026-08-22 A 0-2 v Exeter City | League Two | Exeter
+2026-08-15 H 2-2 v Colchester | League Two | Accrington
+2026-08-08 A 1-2 v Crewe | League Cup | Crewe
+2026-08-01 H 0-0 v Sheffield Wednesday | Friendlies Clubs | ?
+2026-07-28 H 1-0 v Bury | Friendlies Clubs | ?
+2026-07-25 A 3-0 v Chorley | Friendlies Clubs | ?
+2026-07-17 H 1-0 v Bradford | Friendlies Clubs | ?
+2026-07-11 H 0-0 v Blackburn | Friendlies Clubs | ?
+Listed home: 12 games, scored 18 (1.50), conceded 11 (0.92), blanks 3, clean sheets 6
+Listed away: 8 games, scored 9 (1.12), conceded 11 (1.38), blanks 2, clean sheets 2
+All: 20 games, scored 27 (1.35), conceded 22 (1.10), blanks 5, clean sheets 8
 
 TABLE FOR Rochdale
 LEAGUE TABLE League Two 2026 | 24 teams | 138 games played
@@ -70,7 +82,9 @@ League averages per game: home 1.51, away 1.03, total 2.54
 23  Northampton             10 |  5   2-3       |  5   4-5       | 10   6-8
 24  Crawley Town             5 |  5   5-11      |  5   6-9       | 10  11-20
 
-(14 API-Football requests used)
+(Accrington ST: same table as Rochdale, shown above)
+
+(24 API-Football requests used)
 
 ----------------------------------------------------------------------
 MATCHBOOK: skipped (switched off for this run)

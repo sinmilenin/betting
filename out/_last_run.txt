@@ -1,29 +1,9 @@
-RUN 2026-10-24 11:47 local | 17 match(es)
-Hacken v Degerfors -> out/Hacken_v_Degerfors.txt
-    !! Hacken: Ambiguous team name "Hacken".
-    !! Degerfors: Ambiguous team name "Degerfors".
-AFC Wimbledon v Wycombe -> out/AFC_Wimbledon_v_Wycombe.txt
-Chesterfield v Crewe -> out/Chesterfield_v_Crewe.txt
-Exeter v Fleetwood -> out/Exeter_v_Fleetwood.txt
-    !! Exeter: Ambiguous team name "Exeter".
-    !! Fleetwood: Ambiguous team name "Fleetwood".
-Barnet v Oldham -> out/Barnet_v_Oldham.txt
-York v Port Vale -> out/York_v_Port_Vale.txt
-Boreham Wood v AFC Fylde -> out/Boreham_Wood_v_AFC_Fylde.txt
-Montrose v Peterhead -> out/Montrose_v_Peterhead.txt
-Rochdale v Accrington -> out/Rochdale_v_Accrington.txt
-    !! Accrington: Ambiguous team name "Accrington".
-Stevenage v MK Dons -> out/Stevenage_v_MK_Dons.txt
-    !! MK Dons: No team found for "MK Dons".
-Cambridge United v Plymouth -> out/Cambridge_United_v_Plymouth.txt
-Dundee United v Aberdeen -> out/Dundee_United_v_Aberdeen.txt
-    !! Dundee United: Ambiguous team name "Dundee United".
-St Mirren v Dundee -> out/St_Mirren_v_Dundee.txt
-Rotherham v Shrewsbury -> out/Rotherham_v_Shrewsbury.txt
-Leganes v Mallorca -> out/Leganes_v_Mallorca.txt
+RUN 2026-10-24 11:49 local | 7 match(es)
+id:367 v id:2172 -> out/id_367_v_id_2172.txt
+id:1364 v id:1336 -> out/id_1364_v_id_1336.txt
+Rochdale v id:1360 -> out/Rochdale_v_id_1360.txt
+Stevenage v Milton Keynes Dons -> out/Stevenage_v_Milton_Keynes_Dons.txt
+Dundee Utd v Aberdeen -> out/Dundee_Utd_v_Aberdeen.txt
 Estrela v Casa Pia -> out/Estrela_v_Casa_Pia.txt
-    !! Casa Pia: API-Football error: HTTP 429 from API-Football
 NEOM v Abha -> out/NEOM_v_Abha.txt
-    !! NEOM: API-Football error: HTTP 429 from API-Football
-    !! Abha: API-Football error: HTTP 429 from API-Football
-Requests used: API-Football 305, Matchbook 0
+Requests used: API-Football 175, Matchbook 0

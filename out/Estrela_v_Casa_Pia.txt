@@ -1,6 +1,6 @@
-MATCH Estrela v Casa Pia | fetched 2026-10-24 11:47 local
+MATCH Estrela v Casa Pia | fetched 2026-10-24 11:49 local
 
-FORM DATA Estrela v Casa Pia | source API-Football | 2026-10-24 11:48 UTC
+FORM DATA Estrela v Casa Pia | source API-Football | 2026-10-24 11:50 UTC
 H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
 
 === Estrela (id 15130): last 20 finished games ===
@@ -28,13 +28,57 @@ Listed home: 12 games, scored 18 (1.50), conceded 14 (1.17), blanks 2, clean she
 Listed away: 8 games, scored 14 (1.75), conceded 15 (1.88), blanks 2, clean sheets 0
 All: 20 games, scored 32 (1.60), conceded 29 (1.45), blanks 4, clean sheets 4
 
-!! Casa Pia: API-Football error: HTTP 429 from API-Football
+=== Casa Pia (id 4716): last 20 finished games ===
+2026-10-18 A 1-0 v Alpendorada | Taça de Portugal | Alpendorada
+2026-10-10 H 0-1 v Santa Clara | Primeira Liga | Rio Maior | xG 0.43-0.61
+2026-09-20 A 2-1 v Estoril | Primeira Liga | Cascais | xG 2.17-0.95
+2026-09-12 H 1-4 v FC Porto | Primeira Liga | Rio Maior | xG 1.59-2.60
+2026-09-06 A 0-0 v Vitória SC | Primeira Liga | Guimaraes | xG 0.21-2.48
+2026-08-30 H 0-1 v Moreirense | Primeira Liga | Rio Maior | xG 0.77-0.28
+2026-08-24 A 0-2 v GIL Vicente | Primeira Liga | Barcelos | xG 0.76-1.74
+2026-08-17 H 0-7 v Benfica | Primeira Liga | Rio Maior | xG 0.17-2.84
+2026-08-08 A 0-1 v Maritimo | Primeira Liga | Funchal | xG 0.67-1.39
+2026-08-01 A 2-6 v Leixoes | Friendlies Clubs | ?
+2026-07-25 A 0-1 v Benfica B | Friendlies Clubs | ?
+2026-07-18 A 2-1 v Estrela | Friendlies Clubs | ?
+2026-05-28 H 2-0 v Torreense | Primeira Liga | Rio Maior
+2026-05-20 A 0-0 v Torreense | Primeira Liga | Torres Vedras
+2026-05-16 H 1-1 v Rio Ave | Primeira Liga | Rio Maior
+2026-05-11 A 1-0 v Vitória SC | Primeira Liga | Guimarães
+2026-05-03 H 0-1 v Tondela | Primeira Liga | Rio Maior
+2026-04-27 A 1-2 v GIL Vicente | Primeira Liga | Barcelos
+2026-04-23 H 0-1 v SC Braga | Primeira Liga | Rio Maior
+2026-04-18 H 0-0 v Santa Clara | Primeira Liga | Rio Maior
+Listed home: 9 games, scored 4 (0.44), conceded 16 (1.78), blanks 6, clean sheets 2
+Listed away: 11 games, scored 9 (0.82), conceded 14 (1.27), blanks 5, clean sheets 4
+All: 20 games, scored 13 (0.65), conceded 30 (1.50), blanks 11, clean sheets 6
 
-  (standings for Taça de Portugal 2026 not available: HTTP 429 from API-Football)
-  (standings for Primeira Liga 2026 not available: HTTP 429 from API-Football)
-(no league table available for Estrela: tried Taça de Portugal 2026, Primeira Liga 2026)
+TABLE FOR Estrela
+LEAGUE TABLE Primeira Liga 2026 | 18 teams | 73 games played
+League averages per game: home 1.36, away 1.42, total 2.78
+#   team                   Pts | home P GF-GA  | away P GF-GA  | all P GF-GA
+1   FC Porto                24 |  4   9-2       |  4  11-2       |  8  20-4
+2   Benfica                 19 |  4   9-4       |  4  15-3       |  8  24-7
+3   Sporting CP             18 |  4  10-5       |  4  10-4       |  8  20-9
+4   Santa Clara             18 |  4   7-2       |  4   5-2       |  8  12-4
+5   Arouca                  14 |  4   8-3       |  4   3-4       |  8  11-7
+6   GIL Vicente             14 |  4   4-2       |  4   4-4       |  8   8-6
+7   Academico Viseu         14 |  4   4-6       |  4   7-4       |  8  11-10
+8   Alverca                 11 |  4   5-5       |  4   8-7       |  8  13-12
+9   SC Braga                11 |  4   4-5       |  4   5-5       |  8   9-10
+10  Estrela                 10 |  4   6-7       |  4   8-8       |  8  14-15
+11  Vitória SC               8 |  5   7-2       |  4   3-8       |  9  10-10
+12  Moreirense               8 |  4   5-8       |  4   3-7       |  8   8-15
+13  Maritimo                 8 |  4   4-7       |  5   5-12      |  9   9-19
+14  Famalicao                7 |  4   3-7       |  4   7-4       |  8  10-11
+15  Rio Ave                  7 |  4   6-11      |  4   2-6       |  8   8-17
+16  Nacional                 4 |  4   5-10      |  4   4-8       |  8   9-18
+17  Casa Pia                 4 |  4   1-13      |  4   2-4       |  8   3-17
+18  Estoril                  2 |  4   2-5       |  4   2-7       |  8   4-12
 
-(12 API-Football requests used)
+(Casa Pia: same table as Estrela, shown above)
+
+(26 API-Football requests used)
 
 ----------------------------------------------------------------------
 MATCHBOOK: skipped (switched off for this run)

@@ -1,6 +1,6 @@
-MATCH Stevenage v MK Dons | fetched 2026-10-24 11:47 local
+MATCH Stevenage v Milton Keynes Dons | fetched 2026-10-24 11:49 local
 
-FORM DATA Stevenage v MK Dons | source API-Football | 2026-10-24 11:48 UTC
+FORM DATA Stevenage v Milton Keynes Dons | source API-Football | 2026-10-24 11:49 UTC
 H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
 
 === Stevenage (id 1368): last 20 finished games ===
@@ -28,7 +28,30 @@ Listed home: 11 games, scored 13 (1.18), conceded 15 (1.36), blanks 3, clean she
 Listed away: 9 games, scored 14 (1.56), conceded 9 (1.00), blanks 5, clean sheets 2
 All: 20 games, scored 27 (1.35), conceded 24 (1.20), blanks 8, clean sheets 6
 
-!! MK Dons: No team found for "MK Dons".
+=== Milton Keynes Dons (id 1348): last 20 finished games ===
+2026-10-20 A 0-2 v Blackpool | League One | Blackpool | xG 0.96-0.75
+2026-10-17 H 2-1 v Luton | League One | Milton Keynes | xG 1.45-1.54
+2026-10-10 H 1-5 v Reading | League One | Milton Keynes | xG 0.44-3.64
+2026-10-06 H 7-1 v Brentford U21 | EFL Trophy | Milton Keynes
+2026-09-22 H 4-1 v Crawley Town | EFL Trophy | Milton Keynes
+2026-09-17 A 0-0 v AFC Wimbledon | League One | London | xG 1.02-1.28
+2026-09-12 H 1-1 v Peterborough | League One | Milton Keynes | xG 1.15-1.29
+2026-09-05 A 3-3 v Wycombe | League One | High Wycombe | xG 1.65-0.89
+2026-09-02 A 1-3 v Wigan | League One | Wigan | xG 2.81-2.35
+2026-08-29 H 0-0 v Leicester | League One | Milton Keynes | xG 0.57-1.53
+2026-08-22 H 1-1 v Huddersfield | League One | Milton Keynes
+2026-08-15 A 2-2 v Oxford United | League One | Oxford
+2026-08-08 A 1-4 v Norwich | League Cup | Norwich
+2026-08-01 A 2-0 v Cheltenham | Friendlies Clubs | ?
+2026-07-28 A 0-0 v Barnet | Friendlies Clubs | ?
+2026-07-25 A 0-2 v Wealdstone | Friendlies Clubs | ?
+2026-07-22 A 0-1 v Tottenham | Friendlies Clubs | London
+2026-07-17 A 1-2 v Istra 1961 | Friendlies Clubs | ?
+2026-07-10 A 4-1 v Maidenhead | Friendlies Clubs | ?
+2026-05-02 A 1-1 v Fleetwood Town | League Two | Fleetwood
+Listed home: 7 games, scored 16 (2.29), conceded 10 (1.43), blanks 1, clean sheets 1
+Listed away: 13 games, scored 15 (1.15), conceded 21 (1.62), blanks 5, clean sheets 3
+All: 20 games, scored 31 (1.55), conceded 31 (1.55), blanks 6, clean sheets 4
 
 TABLE FOR Stevenage
 LEAGUE TABLE League One 2026 | 24 teams | 126 games played
@@ -59,7 +82,9 @@ League averages per game: home 1.51, away 1.32, total 2.83
 23  Bromley                  8 |  5   3-13      |  5   6-12      | 10   9-25
 24  Wigan                    7 |  5   4-8       |  5   3-7       | 10   7-15
 
-(13 API-Football requests used)
+(Milton Keynes Dons: same table as Stevenage, shown above)
+
+(25 API-Football requests used)
 
 ----------------------------------------------------------------------
 MATCHBOOK: skipped (switched off for this run)
