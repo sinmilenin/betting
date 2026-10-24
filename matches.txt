@@ -1,2 +1,18 @@
-# Scan 2026-10-24 12:58 (Ljubljana) run 2: Mainz id fix
-id:164 v Werder Bremen | n=20 | xg=10
+# Scan 2026-10-24 13:42 (Ljubljana) run 1: 17 new fixtures
+Hacken v Degerfors | n=20 | xg=10
+AFC Wimbledon v Wycombe | n=20 | xg=10
+Chesterfield v Crewe | n=20 | xg=10
+Exeter v Fleetwood | n=20 | xg=10
+Barnet v Oldham | n=20 | xg=10
+York v Port Vale | n=20 | xg=10
+Boreham Wood v AFC Fylde | n=20 | xg=10
+Montrose v Peterhead | n=20 | xg=10
+Rochdale v Accrington | n=20 | xg=10
+Stevenage v MK Dons | n=20 | xg=10
+Cambridge United v Plymouth | n=20 | xg=10
+Dundee United v Aberdeen | n=20 | xg=10
+St Mirren v Dundee | n=20 | xg=10
+Rotherham v Shrewsbury | n=20 | xg=10
+Leganes v Mallorca | n=20 | xg=10
+Estrela v Casa Pia | n=20 | xg=10
+NEOM v Abha | n=20 | xg=10
