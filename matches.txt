@@ -1,3 +1,5 @@
-# Scan 2026-10-24 06:11 (Ljubljana) run 3: retry Shimizu and Auckland FC (run 1 picked the reserve side)
-Sanfrecce Hiroshima v Shimizu | n=20 | xg=10
-Western Sydney Wanderers v Auckland | n=20 | xg=10
+# Scan 2026-10-24 07:41 (Ljubljana) run 1: regular 3-hour window, 4 fixtures
+Vissel Kobe v Machida Zelvia | n=20 | xg=10
+Kashima Antlers v Kashiwa Reysol | n=20 | xg=10
+Gamba Osaka v Kyoto Sanga | n=20 | xg=10
+Melbourne Victory v Melbourne City | n=20 | xg=10
