@@ -1,0 +1,86 @@
+MATCH Vissel Kobe v Machida Zelvia | fetched 2026-10-24 05:43 local
+
+FORM DATA Vissel Kobe v Machida Zelvia | source API-Football | 2026-10-24 05:43 UTC
+H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
+
+=== Vissel Kobe (id 289): last 20 finished games ===
+2026-10-21 A 1-2 v Kawasaki Frontale | J1 League | Kawasaki | xG 1.38-2.09
+2026-10-18 A 3-0 v Fagiano Okayama | J1 League | Okayama | xG 2.57-0.99
+2026-10-14 H 2-0 v Jeonbuk Motors | AFC Champions League Elite | Kobe | xG 1.26-1.77
+2026-10-09 A 2-4 v Kashiwa Reysol | J1 League | Kashiwa City | xG 1.29-1.78
+2026-09-23 H 1-0 v Sagan Tosu | Emperor Cup | Kobe
+2026-09-20 A 1-0 v Gamba Osaka | J1 League | Suita | xG 1.33-2.02
+2026-09-16 A 2-1 v Port FC | AFC Champions League Elite | Bangkok | xG 2.51-0.13
+2026-09-11 H 2-1 v Kashima | J1 League | Kobe | xG 1.69-1.77
+2026-09-06 H 3-1 v V-varen Nagasaki | J1 League | Kobe | xG 1.72-0.77
+2026-09-02 A 2-0 v Tokyo Verdy | J1 League | Tokyo | xG 2.26-0.90
+2026-08-29 H 1-0 v Cerezo Osaka | J1 League | Kobe
+2026-08-26 H 2-1 v Veroskronos Tsuno | Emperor Cup | Kobe
+2026-08-22 A 0-1 v Yokohama F. Marinos | J1 League | Yokohama
+2026-08-15 H 2-2 v FC Tokyo | J1 League | Kobe
+2026-08-08 A 1-0 v Avispa Fukuoka | J1 League | Fukuoka
+2026-07-22 H 2-1 v Imabari | Friendlies Clubs | ?
+2026-07-18 H 1-1 v Consadole Sapporo | Friendlies Clubs | ?
+2026-06-06 A 0-2 v Kashima | J1 League | Kashima
+2026-05-30 H 5-0 v Kashima | J1 League | Kobe
+2026-05-23 A 1-0 v Avispa Fukuoka | J1 League | Fukuoka
+Listed home: 10 games, scored 21 (2.10), conceded 7 (0.70), blanks 0, clean sheets 4
+Listed away: 10 games, scored 13 (1.30), conceded 10 (1.00), blanks 2, clean sheets 5
+All: 20 games, scored 34 (1.70), conceded 17 (0.85), blanks 2, clean sheets 9
+
+=== Machida Zelvia (id 303): last 20 finished games ===
+2026-10-21 A 5-0 v Shimizu S-pulse | J1 League | Shizuoka | xG 3.87-0.21
+2026-10-18 H 3-0 v Avispa Fukuoka | J1 League | Tokyo | xG 2.02-1.37
+2026-10-15 A 1-0 v Tampines Rovers | AFC Champions League Two | Kallang | xG 2.70-0.14
+2026-10-10 A 1-0 v Kyoto Sanga | J1 League | Kyoto | xG 1.43-1.77
+2026-10-03 H 0-0 v Kyoto Sanga | J-League Cup | Machida [PEN, 90-min score shown]
+2026-09-23 H 2-1 v Tochigi City | Emperor Cup | Machida
+2026-09-20 H 2-4 v Kashiwa Reysol | J1 League | Tokyo | xG 1.49-2.34
+2026-09-17 H 2-0 v Svay Rieng | AFC Champions League Two | Machida
+2026-09-12 H 1-1 v Yokohama F. Marinos | J1 League | Tokyo | xG 1.91-1.19
+2026-09-06 A 3-1 v Nagoya Grampus | J1 League | Toyota | xG 3.14-0.94
+2026-09-02 H 2-1 v Kawasaki Frontale | J1 League | Tokyo
+2026-08-29 A 1-1 v Mito Hollyhock | J1 League | Ibaraki
+2026-08-26 H 3-0 v Grulla Morioka | Emperor Cup | Machida
+2026-08-23 H 3-1 v Urawa | J1 League | Machida
+2026-08-15 A 4-0 v JEF United Chiba | J1 League | Chiba
+2026-08-08 A 5-1 v FC Tokyo | J1 League | Tokyo
+2026-07-18 H 2-1 v Fujieda MYFC | Friendlies Clubs | ?
+2026-06-06 H 0-0 v Nagoya Grampus | J1 League | Machida [AET, 90-min score shown]
+2026-05-30 A 2-2 v Nagoya Grampus | J1 League | Toyota City
+2026-05-22 H 1-0 v Urawa | J1 League | Tokyo
+Listed home: 12 games, scored 21 (1.75), conceded 9 (0.75), blanks 2, clean sheets 6
+Listed away: 8 games, scored 22 (2.75), conceded 5 (0.62), blanks 0, clean sheets 4
+All: 20 games, scored 43 (2.15), conceded 14 (0.70), blanks 2, clean sheets 10
+
+TABLE FOR Vissel Kobe
+LEAGUE TABLE J1 League 2027 | 20 teams | 110 games played
+League averages per game: home 1.55, away 1.39, total 2.95
+#   team                   Pts | home P GF-GA  | away P GF-GA  | all P GF-GA
+1   Machida Zelvia          26 |  5  11-7       |  6  19-3       | 11  30-10
+2   FC Tokyo                24 |  6   9-5       |  5  12-3       | 11  21-8
+3   Sanfrecce Hiroshima     23 |  5  16-2       |  6   9-8       | 11  25-10
+4   Vissel Kobe             22 |  4   8-4       |  7  10-7       | 11  18-11
+5   Kashiwa Reysol          22 |  5  11-10      |  6  11-7       | 11  22-17
+6   Kashima                 20 |  5   9-4       |  6  14-14      | 11  23-18
+7   Kawasaki Frontale       19 |  6  15-11      |  5   8-6       | 11  23-17
+8   Urawa                   18 |  5  11-11      |  6   9-12      | 11  20-23
+9   Yokohama F. Marinos     17 |  5   9-7       |  6   6-4       | 11  15-11
+10  Fagiano Okayama         16 |  6   7-7       |  5   7-8       | 11  14-15
+11  Shimizu S-pulse         14 |  7   6-11      |  4   4-5       | 11  10-16
+12  Nagoya Grampus          13 |  5   7-7       |  6   6-10      | 11  13-17
+13  Cerezo Osaka            13 |  6   7-5       |  5   3-12      | 11  10-17
+14  V-varen Nagasaki        12 |  6  11-7       |  5   4-11      | 11  15-18
+15  Gamba Osaka             10 |  4   4-6       |  7   8-13      | 11  12-19
+16  Mito Hollyhock           9 |  6   7-8       |  5   5-8       | 11  12-16
+17  Kyoto Sanga              9 |  5   7-10      |  6   6-11      | 11  13-21
+18  Avispa Fukuoka           7 |  7   9-9       |  4   3-9       | 11  12-18
+19  JEF United Chiba         6 |  5   4-7       |  6   6-15      | 11  10-22
+20  Tokyo Verdy              5 |  7   3-15      |  4   3-5       | 11   6-20
+
+(Machida Zelvia: same table as Vissel Kobe, shown above)
+
+(25 API-Football requests used)
+
+----------------------------------------------------------------------
+MATCHBOOK: skipped (switched off for this run)

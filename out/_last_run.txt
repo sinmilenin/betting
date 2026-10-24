@@ -1,4 +1,7 @@
-RUN 2026-10-24 04:14 local | 2 match(es)
-Sanfrecce Hiroshima v Shimizu -> out/Sanfrecce_Hiroshima_v_Shimizu.txt
-Western Sydney Wanderers v Auckland -> out/Western_Sydney_Wanderers_v_Auckland.txt
-Requests used: API-Football 50, Matchbook 0
+RUN 2026-10-24 05:43 local | 4 match(es)
+Vissel Kobe v Machida Zelvia -> out/Vissel_Kobe_v_Machida_Zelvia.txt
+Kashima Antlers v Kashiwa Reysol -> out/Kashima_Antlers_v_Kashiwa_Reysol.txt
+    !! Kashima Antlers: No team found for "Kashima Antlers".
+Gamba Osaka v Kyoto Sanga -> out/Gamba_Osaka_v_Kyoto_Sanga.txt
+Melbourne Victory v Melbourne City -> out/Melbourne_Victory_v_Melbourne_City.txt
+Requests used: API-Football 87, Matchbook 0
