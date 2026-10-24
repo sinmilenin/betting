@@ -108,5 +108,93 @@
     "lay": 9.4,
     "stake": 3,
     "created": "2026-10-24T10:52:05+02:00"
+  },
+  {
+    "id": "2026-10-24_apollon-kalamarias-niki-volou_0-2",
+    "date": "2026-10-24",
+    "ko": "14:00",
+    "match": "Apollon Kalamarias v Niki Volou",
+    "comp": "Greece, Greek Super League 2",
+    "cell": "0-2",
+    "lay": 7.2,
+    "stake": 3,
+    "created": "2026-10-24T11:37:57+02:00"
+  },
+  {
+    "id": "2026-10-24_apollon-kalamarias-niki-volou_0-3",
+    "date": "2026-10-24",
+    "ko": "14:00",
+    "match": "Apollon Kalamarias v Niki Volou",
+    "comp": "Greece, Greek Super League 2",
+    "cell": "0-3",
+    "lay": 10.5,
+    "stake": 3,
+    "created": "2026-10-24T11:37:57+02:00"
+  },
+  {
+    "id": "2026-10-24_apollon-kalamarias-niki-volou_1-2",
+    "date": "2026-10-24",
+    "ko": "14:00",
+    "match": "Apollon Kalamarias v Niki Volou",
+    "comp": "Greece, Greek Super League 2",
+    "cell": "1-2",
+    "lay": 11.5,
+    "stake": 3,
+    "created": "2026-10-24T11:37:57+02:00"
+  },
+  {
+    "id": "2026-10-24_apollon-kalamarias-niki-volou_1-3",
+    "date": "2026-10-24",
+    "ko": "14:00",
+    "match": "Apollon Kalamarias v Niki Volou",
+    "comp": "Greece, Greek Super League 2",
+    "cell": "1-3",
+    "lay": 17.5,
+    "stake": 3,
+    "created": "2026-10-24T11:37:57+02:00"
+  },
+  {
+    "id": "2026-10-24_apollon-kalamarias-niki-volou_aoaw",
+    "date": "2026-10-24",
+    "ko": "14:00",
+    "match": "Apollon Kalamarias v Niki Volou",
+    "comp": "Greece, Greek Super League 2",
+    "cell": "AOAW",
+    "lay": 6.6,
+    "stake": 3,
+    "created": "2026-10-24T11:37:57+02:00"
+  },
+  {
+    "id": "2026-10-24_cordoba-eibar_2-2",
+    "date": "2026-10-24",
+    "ko": "14:00",
+    "match": "Cordoba v Eibar",
+    "comp": "Spain, Spanish Segunda Division",
+    "cell": "2-2",
+    "lay": 15.0,
+    "stake": 3,
+    "created": "2026-10-24T11:37:57+02:00"
+  },
+  {
+    "id": "2026-10-24_okzhetpes-fk-kaspyi-aktau_3-1",
+    "date": "2026-10-24",
+    "ko": "12:00",
+    "match": "Okzhetpes v FK Kaspyi Aktau",
+    "comp": "Kazakhstan, Kazakhstan Premier League",
+    "cell": "3-1",
+    "lay": 14.0,
+    "stake": 3,
+    "created": "2026-10-24T11:37:57+02:00"
+  },
+  {
+    "id": "2026-10-24_sporting-lisbon-b-portimonense_2-2",
+    "date": "2026-10-24",
+    "ko": "12:00",
+    "match": "Sporting Lisbon B v Portimonense",
+    "comp": "Portugal, Portuguese Segunda Liga",
+    "cell": "2-2",
+    "lay": 18.5,
+    "stake": 3,
+    "created": "2026-10-24T11:37:57+02:00"
   }
 ]
