@@ -1,0 +1,17 @@
+MATCH Apollon Smyrnis v Volos | fetched 2026-10-24 09:32 local
+
+FORM DATA Apollon Smyrnis v Volos | source API-Football | 2026-10-24 09:32 UTC
+H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
+
+"Volos" matches several teams. Use id:<number> instead of the name:
+  id:2110   Volos NFC (Greece)
+  id:5056   Niki Volos (Greece)
+  id:7519   Olympiakos Volos (Greece)
+!! Apollon Smyrnis: No team found for "Apollon Smyrnis".
+
+!! Volos: Ambiguous team name "Volos".
+
+(2 API-Football requests used)
+
+----------------------------------------------------------------------
+MATCHBOOK: skipped (switched off for this run)
