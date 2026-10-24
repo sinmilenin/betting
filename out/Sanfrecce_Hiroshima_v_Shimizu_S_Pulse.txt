@@ -1,6 +1,6 @@
-MATCH Sanfrecce Hiroshima v Shimizu S-pulse | fetched 2026-10-24 04:12 local
+MATCH Sanfrecce Hiroshima v Shimizu S Pulse | fetched 2026-10-24 04:14 local
 
-FORM DATA Sanfrecce Hiroshima v Shimizu S-pulse | source API-Football | 2026-10-24 04:12 UTC
+FORM DATA Sanfrecce Hiroshima v Shimizu S Pulse | source API-Football | 2026-10-24 04:14 UTC
 H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
 
 === Sanfrecce Hiroshima (id 282): last 20 finished games ===
@@ -28,7 +28,7 @@ Listed home: 9 games, scored 30 (3.33), conceded 4 (0.44), blanks 0, clean sheet
 Listed away: 11 games, scored 17 (1.55), conceded 14 (1.27), blanks 2, clean sheets 6
 All: 20 games, scored 47 (2.35), conceded 18 (0.90), blanks 2, clean sheets 11
 
-!! Shimizu S-pulse: API-Football error: {"search": "The Search field may only contain alpha-numeric characters and spaces."}
+!! Shimizu S Pulse: No team found for "Shimizu S Pulse".
 
 TABLE FOR Sanfrecce Hiroshima
 LEAGUE TABLE J1 League 2027 | 20 teams | 110 games played
