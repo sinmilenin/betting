@@ -1,6 +1,6 @@
-MATCH Wisla Krakow v Rakow Czestochowa | fetched 2026-10-24 17:46 local
+MATCH Wisla Krakow v Rakow | fetched 2026-10-24 17:48 local
 
-FORM DATA Wisla Krakow v Rakow Czestochowa | source API-Football | 2026-10-24 17:46 UTC
+FORM DATA Wisla Krakow v Rakow | source API-Football | 2026-10-24 17:48 UTC
 H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
 
 === Wisla Krakow (id 338): last 20 finished games ===
@@ -28,18 +28,44 @@ Listed home: 12 games, scored 23 (1.92), conceded 10 (0.83), blanks 2, clean she
 Listed away: 8 games, scored 12 (1.50), conceded 16 (2.00), blanks 2, clean sheets 1
 All: 20 games, scored 35 (1.75), conceded 26 (1.30), blanks 4, clean sheets 7
 
-"Rakow Czestochowa" matches several teams. Use id:<number> instead of the name:
+"Rakow" matches several teams. Use id:<number> instead of the name:
+  id:338    Wisla Krakow (Poland)
+  id:350    Cracovia Krakow (Poland)
+  id:3485   Garbarnia Kraków (Poland)
   id:3491   Raków Częstochowa (Poland)
+  id:6942   Hutnik Kraków (Poland)
+  id:14915  Hutnik Kraków U18 (Poland)
+  id:14923  Wisła Kraków U18 (Poland)
+  id:16265  Cracovia Kraków II (Poland)
+  id:17115  Wieczysta Kraków (Poland)
   id:17362  Raków Częstochowa U18 (Poland)
   id:19622  Raków Częstochowa II (Poland)
   id:20594  Raków Częstochowa U19 (Poland)
-(retrying Rakow Czestochowa using the opponent's country, Poland)
-"Rakow Czestochowa" matches several teams. Use id:<number> instead of the name:
+  id:20595  Wisła Kraków U19 (Poland)
+  id:22264  UJ Krakow W (Poland)
+  id:24324  Wisła Kraków II (Poland)
+  id:27306  Rakow II (Poland)
+  id:27334  KS Wieczysta Krakow II (Poland)
+(retrying Rakow using the opponent's country, Poland)
+"Rakow" matches several teams. Use id:<number> instead of the name:
+  id:338    Wisla Krakow (Poland)
+  id:350    Cracovia Krakow (Poland)
+  id:3485   Garbarnia Kraków (Poland)
   id:3491   Raków Częstochowa (Poland)
+  id:6942   Hutnik Kraków (Poland)
+  id:14915  Hutnik Kraków U18 (Poland)
+  id:14923  Wisła Kraków U18 (Poland)
+  id:16265  Cracovia Kraków II (Poland)
+  id:17115  Wieczysta Kraków (Poland)
   id:17362  Raków Częstochowa U18 (Poland)
   id:19622  Raków Częstochowa II (Poland)
   id:20594  Raków Częstochowa U19 (Poland)
-!! Rakow Czestochowa: Ambiguous team name "Rakow Czestochowa".
+  id:20595  Wisła Kraków U19 (Poland)
+  id:22264  UJ Krakow W (Poland)
+  id:24324  Wisła Kraków II (Poland)
+  id:27306  Rakow II (Poland)
+  id:27334  KS Wieczysta Krakow II (Poland)
+!! Rakow: Ambiguous team name "Rakow".
 
 TABLE FOR Wisla Krakow
 LEAGUE TABLE Ekstraklasa 2026 | 18 teams | 101 games played
