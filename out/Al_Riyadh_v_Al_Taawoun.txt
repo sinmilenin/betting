@@ -1,6 +1,6 @@
-MATCH Al Riyadh v Al Taawoun | fetched 2026-10-24 16:59 local
+MATCH Al Riyadh v Al-Taawoun | fetched 2026-10-24 17:01 local
 
-FORM DATA Al Riyadh v Al Taawoun | source API-Football | 2026-10-24 16:59 UTC
+FORM DATA Al Riyadh v Al-Taawoun | source API-Football | 2026-10-24 17:01 UTC
 H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
 
 === Al Riyadh (id 10511): last 20 finished games ===
@@ -28,7 +28,7 @@ Listed home: 9 games, scored 11 (1.22), conceded 12 (1.33), blanks 2, clean shee
 Listed away: 11 games, scored 15 (1.36), conceded 23 (2.09), blanks 3, clean sheets 2
 All: 20 games, scored 26 (1.30), conceded 35 (1.75), blanks 5, clean sheets 6
 
-!! Al Taawoun: No team found for "Al Taawoun".
+!! Al-Taawoun: API-Football error: {"search": "The Search field may only contain alpha-numeric characters and spaces."}
 
 TABLE FOR Al Riyadh
 LEAGUE TABLE Pro League 2026 | 18 teams | 91 games played

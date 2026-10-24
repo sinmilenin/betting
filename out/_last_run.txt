@@ -1,8 +1,5 @@
-RUN 2026-10-24 16:59 local | 3 match(es)
-Arezzo v Benevento -> out/Arezzo_v_Benevento.txt
-Al Riyadh v Al Taawoun -> out/Al_Riyadh_v_Al_Taawoun.txt
-    !! Al Taawoun: No team found for "Al Taawoun".
-Internacional v Botafogo -> out/Internacional_v_Botafogo.txt
-    !! Internacional: Ambiguous team name "Internacional".
-    !! Botafogo: Ambiguous team name "Botafogo".
-Requests used: API-Football 41, Matchbook 0
+RUN 2026-10-24 17:01 local | 2 match(es)
+Al Riyadh v Al-Taawoun -> out/Al_Riyadh_v_Al_Taawoun.txt
+    !! Al-Taawoun: API-Football error: {"search": "The Search field may only contain alpha-numeric characters and spaces."}
+id:119 v id:120 -> out/id_119_v_id_120.txt
+Requests used: API-Football 39, Matchbook 0
