@@ -1,5 +1,5 @@
-# Scan 2026-10-24 08:26 (Ljubljana) run 1: Chinese Super League / League 1
-Tianjin Jinmen Tiger v Shanghai Port | n=20 | xg=10
-Changchun Yatai v Meizhou Hakka | n=20 | xg=10
-Liaoning Tieren v Zhejiang | n=20 | xg=10
-Chongqing Tonglianglong v Qingdao Hainiu | n=20 | xg=10
+# Scan 2026-10-24 08:26 (Ljubljana) run 2: Chinese team-name lookup
+Tianjin v Shanghai | n=20 | xg=10
+Changchun Yatai v Meizhou | n=20 | xg=10
+Liaoning v Zhejiang | n=20 | xg=10
+Chongqing v Qingdao | n=20 | xg=10
