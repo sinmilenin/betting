@@ -1,5 +1,6 @@
-RUN 2026-10-24 10:20 local | 3 match(es)
-Ostersunds FK v United Nordic -> out/Ostersunds_FK_v_United_Nordic.txt
-Hansa Rostock v id:158 -> out/Hansa_Rostock_v_id_158.txt
-id:527 v Mantova -> out/id_527_v_Mantova.txt
-Requests used: API-Football 75, Matchbook 0
+RUN 2026-10-24 11:01 local | 3 match(es)
+Cheltenham v Newport County -> out/Cheltenham_v_Newport_County.txt
+Zlin v Sigma Olomouc -> out/Zlin_v_Sigma_Olomouc.txt
+Mainz v Werder Bremen -> out/Mainz_v_Werder_Bremen.txt
+    !! Mainz: Ambiguous team name "Mainz".
+Requests used: API-Football 65, Matchbook 0
