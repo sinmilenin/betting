@@ -1,3 +1,2 @@
-# Scan 2026-10-24 18:56 (Ljubljana) run 2: corrected names
-Al Riyadh v Al-Taawoun | n=20 | xg=10
-id:119 v id:120 | n=20 | xg=10
+# Scan 2026-10-24 18:56 (Ljubljana) run 3: Al Taawon
+Al Riyadh v Al Taawon | n=20 | xg=10
