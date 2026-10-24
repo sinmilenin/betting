@@ -1,0 +1,18 @@
+MATCH Las Palmas v Real Sociedad B | fetched 2026-10-24 14:00 local
+
+FORM DATA Las Palmas v Real Sociedad B | source API-Football | 2026-10-24 14:01 UTC
+H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
+
+"Las Palmas" matches several teams. Use id:<number> instead of the name:
+  id:534    Las Palmas (Spain)
+  id:9574   Las Palmas II (Spain)
+  id:9798   Las Palmas III (Spain)
+  id:12258  Las Palmas (Peru)
+!! Las Palmas: Ambiguous team name "Las Palmas".
+
+!! Real Sociedad B: No team found for "Real Sociedad B".
+
+(2 API-Football requests used)
+
+----------------------------------------------------------------------
+MATCHBOOK: skipped (switched off for this run)
