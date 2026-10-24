@@ -1,6 +1,6 @@
-MATCH Wisla Krakow v Rakow | fetched 2026-10-24 17:48 local
+MATCH Wisla Krakow v id:3491 | fetched 2026-10-24 17:48 local
 
-FORM DATA Wisla Krakow v Rakow | source API-Football | 2026-10-24 17:48 UTC
+FORM DATA Wisla Krakow v id:3491 | source API-Football | 2026-10-24 17:48 UTC
 H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
 
 === Wisla Krakow (id 338): last 20 finished games ===
@@ -28,44 +28,30 @@ Listed home: 12 games, scored 23 (1.92), conceded 10 (0.83), blanks 2, clean she
 Listed away: 8 games, scored 12 (1.50), conceded 16 (2.00), blanks 2, clean sheets 1
 All: 20 games, scored 35 (1.75), conceded 26 (1.30), blanks 4, clean sheets 7
 
-"Rakow" matches several teams. Use id:<number> instead of the name:
-  id:338    Wisla Krakow (Poland)
-  id:350    Cracovia Krakow (Poland)
-  id:3485   Garbarnia Kraków (Poland)
-  id:3491   Raków Częstochowa (Poland)
-  id:6942   Hutnik Kraków (Poland)
-  id:14915  Hutnik Kraków U18 (Poland)
-  id:14923  Wisła Kraków U18 (Poland)
-  id:16265  Cracovia Kraków II (Poland)
-  id:17115  Wieczysta Kraków (Poland)
-  id:17362  Raków Częstochowa U18 (Poland)
-  id:19622  Raków Częstochowa II (Poland)
-  id:20594  Raków Częstochowa U19 (Poland)
-  id:20595  Wisła Kraków U19 (Poland)
-  id:22264  UJ Krakow W (Poland)
-  id:24324  Wisła Kraków II (Poland)
-  id:27306  Rakow II (Poland)
-  id:27334  KS Wieczysta Krakow II (Poland)
-(retrying Rakow using the opponent's country, Poland)
-"Rakow" matches several teams. Use id:<number> instead of the name:
-  id:338    Wisla Krakow (Poland)
-  id:350    Cracovia Krakow (Poland)
-  id:3485   Garbarnia Kraków (Poland)
-  id:3491   Raków Częstochowa (Poland)
-  id:6942   Hutnik Kraków (Poland)
-  id:14915  Hutnik Kraków U18 (Poland)
-  id:14923  Wisła Kraków U18 (Poland)
-  id:16265  Cracovia Kraków II (Poland)
-  id:17115  Wieczysta Kraków (Poland)
-  id:17362  Raków Częstochowa U18 (Poland)
-  id:19622  Raków Częstochowa II (Poland)
-  id:20594  Raków Częstochowa U19 (Poland)
-  id:20595  Wisła Kraków U19 (Poland)
-  id:22264  UJ Krakow W (Poland)
-  id:24324  Wisła Kraków II (Poland)
-  id:27306  Rakow II (Poland)
-  id:27334  KS Wieczysta Krakow II (Poland)
-!! Rakow: Ambiguous team name "Rakow".
+=== Raków Częstochowa (id 3491): last 20 finished games ===
+2026-10-16 A 2-1 v Wieczysta Kraków | Ekstraklasa | ? | xG 2.68-1.57
+2026-10-09 H 1-4 v GKS Katowice | Ekstraklasa | Czestochowa | xG 1.20-2.57
+2026-10-02 H 4-1 v Polonia Bytom | Friendlies Clubs | ?
+2026-09-19 A 2-3 v Korona Kielce | Ekstraklasa | Kielce | xG 1.79-3.46
+2026-09-15 H 2-3 v Zaglebie Lubin | Ekstraklasa | Czestochowa | xG 2.17-1.38
+2026-09-11 H 2-1 v Motor Lublin | Ekstraklasa | Czestochowa | xG 1.02-1.79
+2026-09-06 A 0-1 v Lech Poznan | Ekstraklasa | Poznan | xG 0.40-2.84
+2026-09-03 H 1-2 v Gornik Zabrze | Ekstraklasa | Czestochowa | xG 0.84-2.22
+2026-08-30 H 2-5 v Jagiellonia | Ekstraklasa | Czestochowa | xG 1.29-4.44
+2026-08-27 H 2-2 v HNK Hajduk Split | UEFA Europa Conference League | Czestochowa [AET, 90-min score shown]
+2026-08-20 A 2-2 v HNK Hajduk Split | UEFA Europa Conference League | Split
+2026-08-16 A 1-2 v Cracovia Krakow | Ekstraklasa | Kraków
+2026-08-13 A 1-0 v Hammarby FF | UEFA Europa Conference League | Stockholm
+2026-08-06 H 0-0 v Hammarby FF | UEFA Europa Conference League | Czestochowa
+2026-08-02 A 1-2 v Slask Wroclaw | Ekstraklasa | Wroclaw
+2026-07-30 A 4-0 v Valletta FC | UEFA Europa Conference League | Ta' Qali
+2026-07-26 H 1-2 v Wisla Plock | Ekstraklasa | Czestochowa
+2026-07-23 H 3-1 v Valletta FC | UEFA Europa Conference League | Czestochowa
+2026-07-16 A 1-1 v GKS Katowice | Friendlies Clubs | ?
+2026-07-11 A 2-3 v PSV Eindhoven | Friendlies Clubs | Eindhoven
+Listed home: 10 games, scored 18 (1.80), conceded 21 (2.10), blanks 1, clean sheets 1
+Listed away: 10 games, scored 16 (1.60), conceded 15 (1.50), blanks 1, clean sheets 2
+All: 20 games, scored 34 (1.70), conceded 36 (1.80), blanks 2, clean sheets 3
 
 TABLE FOR Wisla Krakow
 LEAGUE TABLE Ekstraklasa 2026 | 18 teams | 101 games played
@@ -90,7 +76,9 @@ League averages per game: home 1.64, away 1.31, total 2.95
 17  Slask Wroclaw            6 |  5   7-10      |  6   7-12      | 11  14-22
 18  Raków Częstochowa        6 |  6   9-17      |  5   6-9       | 11  15-26
 
-(15 API-Football requests used)
+(Raków Częstochowa: same table as Wisla Krakow, shown above)
+
+(25 API-Football requests used)
 
 ----------------------------------------------------------------------
 MATCHBOOK: skipped (switched off for this run)
