@@ -1,6 +1,6 @@
-MATCH Ostersunds FK v United IK Nordic | fetched 2026-10-24 10:18 local
+MATCH Ostersunds FK v United Nordic | fetched 2026-10-24 10:20 local
 
-FORM DATA Ostersunds FK v United IK Nordic | source API-Football | 2026-10-24 10:18 UTC
+FORM DATA Ostersunds FK v United Nordic | source API-Football | 2026-10-24 10:20 UTC
 H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
 
 === Ostersunds FK (id 376): last 20 finished games ===
@@ -28,7 +28,30 @@ Listed home: 9 games, scored 9 (1.00), conceded 8 (0.89), blanks 2, clean sheets
 Listed away: 11 games, scored 11 (1.00), conceded 9 (0.82), blanks 3, clean sheets 4
 All: 20 games, scored 20 (1.00), conceded 17 (0.85), blanks 5, clean sheets 9
 
-!! United IK Nordic: No team found for "United IK Nordic".
+=== United Nordic (id 16601): last 20 finished games ===
+2026-10-18 H 2-1 v Norrby IF | Superettan | Sodertalje
+2026-10-10 A 0-2 v Oddevold | Superettan | Uddevalla | xG 0.45-2.98
+2026-10-03 A 1-1 v Orebro SK | Friendlies Clubs | ?
+2026-09-19 H 1-4 v Landskrona BoIS | Superettan | Sodertalje
+2026-09-14 A 1-1 v Orebro SK | Superettan | ?
+2026-09-09 H 2-4 v IFK Varnamo | Superettan | Sodertalje
+2026-09-04 A 2-1 v Osters IF | Superettan | Vaxjo
+2026-08-29 H 1-3 v IFK Norrkoping | Superettan | Sodertalje
+2026-08-26 A 2-0 v Bollstanäs | Svenska Cupen | ?
+2026-08-23 A 2-1 v IK brage | Superettan | Borlange
+2026-08-15 H 0-0 v Varbergs BoIS FC | Superettan | Sodertalje
+2026-08-08 A 1-1 v Falkenbergs FF | Superettan | Falkenberg
+2026-08-02 H 2-2 v Ljungskile SK | Superettan | Sodertalje
+2026-07-28 A 1-1 v Helsingborg | Superettan | Helsingborg
+2026-07-19 H 2-0 v Orebro SK | Superettan | ?
+2026-06-27 H 3-3 v Oddevold | Superettan | ?
+2026-06-21 A 0-0 v Norrby IF | Superettan | Boras
+2026-06-16 A 0-2 v Landskrona BoIS | Superettan | Landskrona
+2026-06-09 H 1-1 v Ostersunds FK | Superettan | Sodertalje
+2026-05-31 A 2-0 v IFK Varnamo | Superettan | Varnamo
+Listed home: 9 games, scored 14 (1.56), conceded 18 (2.00), blanks 1, clean sheets 2
+Listed away: 11 games, scored 12 (1.09), conceded 10 (0.91), blanks 3, clean sheets 3
+All: 20 games, scored 26 (1.30), conceded 28 (1.40), blanks 4, clean sheets 5
 
 TABLE FOR Ostersunds FK
 LEAGUE TABLE Superettan 2026 | 16 teams | 217 games played
@@ -51,7 +74,9 @@ League averages per game: home 1.55, away 1.35, total 2.90
 15  Orebro SK               26 | 13  11-16      | 14  19-26      | 27  30-42
 16  GIF Sundsvall           19 | 14  14-29      | 14   5-36      | 28  19-65
 
-(14 API-Football requests used)
+(United Nordic: same table as Ostersunds FK, shown above)
+
+(25 API-Football requests used)
 
 ----------------------------------------------------------------------
 MATCHBOOK: skipped (switched off for this run)
