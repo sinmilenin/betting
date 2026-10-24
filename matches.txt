@@ -1,2 +1,4 @@
-# Scan 2026-10-24 15:57 (Ljubljana) run 3: Ham-Kam by full club name
-Hamarkameratene v Rosenborg | n=20 | xg=10
+# Scan 2026-10-24 16:42 (Ljubljana)
+Pogon Szczecin v Radomiak Radom | n=20 | xg=10
+AEK Athens v Panaitolikos | n=20 | xg=10
+CF Montreal v Nashville SC | n=20 | xg=10
