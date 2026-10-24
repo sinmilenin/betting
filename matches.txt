@@ -1,4 +1,7 @@
-# Scan 2026-10-24 10:42 (Ljubljana) run 3: Heidenheim by id, Kyzyl-Zhar and Sutton name variants
-id:180 v Energie Cottbus | n=20 | xg=10
-Kyzyl v Ulytau | n=20 | xg=10
-Harrogate Town v Sutton Utd | n=20 | xg=10
+# Scan 2026-10-24 11:27 (Ljubljana) run 1: first analyses + Kyzyl-Zhar by id
+Okzhetpes v Kaspiy | n=20 | xg=10
+Sporting CP B v Portimonense | n=20 | xg=10
+Cordoba v Eibar | n=20 | xg=10
+Rayo Vallecano v Elche | n=20 | xg=10
+Apollon Kalamarias v Niki Volou | n=20 | xg=10
+id:4554 v Ulytau | n=20 | xg=10
