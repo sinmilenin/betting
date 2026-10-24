@@ -1,6 +1,6 @@
-MATCH Teplice v Brno | fetched 2026-10-24 12:31 local
+MATCH Teplice v id:3733 | fetched 2026-10-24 12:33 local
 
-FORM DATA Teplice v Brno | source API-Football | 2026-10-24 12:31 UTC
+FORM DATA Teplice v id:3733 | source API-Football | 2026-10-24 12:33 UTC
 H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
 
 === Teplice (id 3720): last 20 finished games ===
@@ -28,20 +28,30 @@ Listed home: 10 games, scored 18 (1.80), conceded 11 (1.10), blanks 3, clean she
 Listed away: 10 games, scored 22 (2.20), conceded 7 (0.70), blanks 1, clean sheets 6
 All: 20 games, scored 40 (2.00), conceded 18 (0.90), blanks 4, clean sheets 11
 
-"Brno" matches several teams. Use id:<number> instead of the name:
-  id:3733   Zbrojovka Brno (Czech-Republic)
-  id:7361   Start Brno (Czech-Republic)
-  id:8633   Zbrojovka Brno II (Czech-Republic)
-  id:14839  Zbrojovka Brno U19 (Czech-Republic)
-  id:20825  Sparta Brno (Czech-Republic)
-(retrying Brno using the opponent's country, Czech-Republic)
-"Brno" matches several teams. Use id:<number> instead of the name:
-  id:3733   Zbrojovka Brno (Czech-Republic)
-  id:7361   Start Brno (Czech-Republic)
-  id:8633   Zbrojovka Brno II (Czech-Republic)
-  id:14839  Zbrojovka Brno U19 (Czech-Republic)
-  id:20825  Sparta Brno (Czech-Republic)
-!! Brno: Ambiguous team name "Brno".
+=== Zbrojovka Brno (id 3733): last 20 finished games ===
+2026-10-18 A 2-1 v Slovácko | Czech Liga | Uherske Hradiste | xG 2.87-0.65
+2026-10-10 H 0-1 v FK Jablonec | Czech Liga | Brno | xG 0.56-1.26
+2026-10-02 H 5-1 v Skalica | Friendlies Clubs | ?
+2026-09-19 A 0-2 v Mlada Boleslav | Czech Liga | Mlada Boleslav | xG 2.49-1.03
+2026-09-16 A 3-0 v Králův Dvůr | Cup | Kraluv Dvur
+2026-09-12 H 2-1 v Artis | Czech Liga | Brno | xG 1.29-1.04
+2026-09-05 A 0-4 v Slavia Praha | Czech Liga | Prague | xG 0.79-4.33
+2026-09-02 H 1-0 v Hradec Králové | Czech Liga | Brno | xG 1.48-0.53
+2026-08-29 H 3-2 v Zlin | Czech Liga | Brno | xG 1.02-0.90
+2026-08-26 A 10-0 v Frýdlant | Cup | ?
+2026-08-23 A 2-0 v Teplice | Czech Liga | Teplice
+2026-08-07 H 0-1 v Slovan Liberec | Czech Liga | Brno
+2026-08-01 A 1-1 v Plzen | Czech Liga | Plzen
+2026-07-25 H 3-1 v Sparta Praha | Czech Liga | Brno
+2026-07-17 H 2-0 v Podbrezová | Friendlies Clubs | ?
+2026-07-08 A 0-2 v TSV Hartberg | Friendlies Clubs | ?
+2026-07-04 H 2-1 v Csikszereda | Friendlies Clubs | ?
+2026-07-01 A 4-2 v Tiszakecske FC | Friendlies Clubs | ?
+2026-06-30 A 3-0 v Nyiregyhaza | Friendlies Clubs | ?
+2026-06-23 H 4-1 v Prostějov | Friendlies Clubs | ?
+Listed home: 10 games, scored 22 (2.20), conceded 9 (0.90), blanks 2, clean sheets 2
+Listed away: 10 games, scored 25 (2.50), conceded 12 (1.20), blanks 3, clean sheets 4
+All: 20 games, scored 47 (2.35), conceded 21 (1.05), blanks 5, clean sheets 6
 
 TABLE FOR Teplice
 LEAGUE TABLE Czech Liga 2026 | 16 teams | 87 games played
@@ -64,7 +74,9 @@ League averages per game: home 1.45, away 1.23, total 2.68
 15  Slovácko                 7 |  5   5-7       |  6   5-11      | 11  10-18
 16  Zlin                     1 |  6   2-10      |  5   6-13      | 11   8-23
 
-(15 API-Football requests used)
+(Zbrojovka Brno: same table as Teplice, shown above)
+
+(25 API-Football requests used)
 
 ----------------------------------------------------------------------
 MATCHBOOK: skipped (switched off for this run)

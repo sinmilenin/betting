@@ -1,15 +1,7 @@
-RUN 2026-10-24 12:31 local | 7 match(es)
-Sirius v AIK -> out/Sirius_v_AIK.txt
-    !! AIK: Ambiguous team name "AIK".
-Cremonese v Juve Stabia -> out/Cremonese_v_Juve_Stabia.txt
-Teplice v Brno -> out/Teplice_v_Brno.txt
-    !! Brno: Ambiguous team name "Brno".
-Sharjah v Al Orooba -> out/Sharjah_v_Al_Orooba.txt
-    !! Sharjah: Ambiguous team name "Sharjah".
-    !! Al Orooba: No team found for "Al Orooba".
-Ordabasy v Zhenis -> out/Ordabasy_v_Zhenis.txt
-    !! Zhenis: No team found for "Zhenis".
-Hartberg v Wolfsberger AC -> out/Hartberg_v_Wolfsberger_AC.txt
-    !! Hartberg: Ambiguous team name "Hartberg".
-Catanzaro v Ascoli -> out/Catanzaro_v_Ascoli.txt
-Requests used: API-Football 110, Matchbook 0
+RUN 2026-10-24 12:33 local | 5 match(es)
+Sirius v id:377 -> out/Sirius_v_id_377.txt
+Teplice v id:3733 -> out/Teplice_v_id_3733.txt
+id:2874 v Al Urooba -> out/id_2874_v_Al_Urooba.txt
+Ordabasy v Zhenys -> out/Ordabasy_v_Zhenys.txt
+id:1072 v Wolfsberger AC -> out/id_1072_v_Wolfsberger_AC.txt
+Requests used: API-Football 127, Matchbook 0

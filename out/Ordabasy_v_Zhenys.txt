@@ -1,6 +1,6 @@
-MATCH Ordabasy v Zhenis | fetched 2026-10-24 12:31 local
+MATCH Ordabasy v Zhenys | fetched 2026-10-24 12:33 local
 
-FORM DATA Ordabasy v Zhenis | source API-Football | 2026-10-24 12:32 UTC
+FORM DATA Ordabasy v Zhenys | source API-Football | 2026-10-24 12:33 UTC
 H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
 
 === Ordabasy (id 692): last 20 finished games ===
@@ -28,7 +28,30 @@ Listed home: 9 games, scored 20 (2.22), conceded 4 (0.44), blanks 0, clean sheet
 Listed away: 11 games, scored 27 (2.45), conceded 11 (1.00), blanks 0, clean sheets 4
 All: 20 games, scored 47 (2.35), conceded 15 (0.75), blanks 0, clean sheets 9
 
-!! Zhenis: No team found for "Zhenis".
+=== Zhenys (id 16611): last 20 finished games ===
+2026-10-17 A 2-4 v FK Tobol Kostanay | Premier League | Kostanay
+2026-10-10 H 1-2 v Atyrau | Premier League | Astana
+2026-09-18 A 1-3 v Okzhetpes | Premier League | Kokshetau
+2026-09-12 H 3-1 v Kyzyl-Zhar | Premier League | Astana
+2026-09-09 A 0-3 v Kairat Almaty | Premier League | Almaty
+2026-09-05 A 0-1 v Aktobe | Premier League | Aktobe
+2026-08-29 H 1-0 v Altay | Premier League | Astana
+2026-08-19 H 3-2 v Kaisar | Cup | Astana
+2026-08-15 H 4-1 v Zhetysu | Premier League | Astana
+2026-08-02 H 0-0 v Yelimay Semey | Premier League | Astana
+2026-07-29 A 1-3 v Kaisar | Cup | Kyzylorda
+2026-07-26 A 2-3 v Kaspiy | Premier League | Aktau
+2026-07-18 H 1-1 v Ulytau | Premier League | Astana
+2026-07-11 A 1-0 v Irtysh | Premier League | Pavlodar
+2026-07-03 A 0-1 v FC Astana | Premier League | Astana
+2026-06-28 H 2-2 v FC Astana | Premier League | Astana
+2026-06-20 H 0-0 v Irtysh | Premier League | Astana
+2026-06-14 A 1-2 v Ulytau | Premier League | Zhezqazghan
+2026-05-28 H 1-0 v Kaspiy | Premier League | Astana
+2026-05-23 A 1-2 v Yelimay Semey | Premier League | Semey
+Listed home: 10 games, scored 16 (1.60), conceded 9 (0.90), blanks 2, clean sheets 4
+Listed away: 10 games, scored 9 (0.90), conceded 22 (2.20), blanks 3, clean sheets 1
+All: 20 games, scored 25 (1.25), conceded 31 (1.55), blanks 5, clean sheets 5
 
 TABLE FOR Ordabasy
 LEAGUE TABLE Premier League 2026 | 16 teams | 224 games played
@@ -51,7 +74,9 @@ League averages per game: home 1.46, away 1.07, total 2.53
 15  Zhetysu                 25 | 13  11-15      | 15  17-31      | 28  28-46
 16  Kaisar                  24 | 15  14-19      | 13  10-20      | 28  24-39
 
-(14 API-Football requests used)
+(Zhenys: same table as Ordabasy, shown above)
+
+(25 API-Football requests used)
 
 ----------------------------------------------------------------------
 MATCHBOOK: skipped (switched off for this run)

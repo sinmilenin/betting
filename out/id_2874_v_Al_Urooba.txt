@@ -1,0 +1,103 @@
+MATCH id:2874 v Al Urooba | fetched 2026-10-24 12:33 local
+
+FORM DATA id:2874 v Al Urooba | source API-Football | 2026-10-24 12:33 UTC
+H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
+
+=== Sharjah FC (id 2874): last 20 finished games ===
+2026-10-18 A 3-1 v Ajman | Pro League | Ajman | xG 0.90-1.17
+2026-10-09 H 0-0 v Al-Jazira | League Cup | Sharjah
+2026-10-01 H 2-1 v Al-Dhafra | League Cup | Sharjah
+2026-09-19 A 2-3 v Ajman | League Cup | Ajman
+2026-09-11 A 0-1 v Al Wahda FC | Pro League | Abu Dhabi
+2026-09-05 H 4-3 v Dubai United | Pro League | Sharjah
+2026-08-30 A 3-0 v Hatta SC | Pro League | Hatta
+2026-08-23 H 0-2 v Al-Jazira | Pro League | Sharjah
+2026-08-15 A 3-1 v Al-Dhafra | Pro League | Madinat Zayed
+2026-07-27 A 2-1 v Al-Sailiya | Friendlies Clubs | ?
+2026-07-22 A 4-0 v Beltinci | Friendlies Clubs | ?
+2026-07-19 H 2-1 v Abha | Friendlies Clubs | ?
+2026-05-15 H 3-1 v Khorfakkan | Pro League | Sharjah
+2026-05-10 A 0-0 v Al Bataeh | Pro League | Sharjah
+2026-05-06 H 0-5 v Al Ain | Pro League | Sharjah
+2026-04-23 H 0-2 v Al Wahda FC | Pro League | Sharjah
+2026-04-10 A 1-1 v Baniyas SC | Pro League | Abu Dhabi
+2026-04-05 H 2-1 v Al-Wasl FC | Pro League | Sharjah
+2026-03-17 A 2-2 v Al-Ittihad Kalba | Pro League | Kalba
+2026-03-11 H 1-2 v Al Nasr | Pro League | Sharjah
+Listed home: 10 games, scored 14 (1.40), conceded 18 (1.80), blanks 4, clean sheets 1
+Listed away: 10 games, scored 20 (2.00), conceded 10 (1.00), blanks 2, clean sheets 3
+All: 20 games, scored 34 (1.70), conceded 28 (1.40), blanks 6, clean sheets 4
+
+"Al Urooba" matches several teams. Use id:<number> instead of the name:
+  id:9139   Al Urooba (United-Arab-Emirates)
+  id:23364  Al Urooba (Yemen)
+(retrying Al Urooba using the opponent's country, United-Arab-Emirates)
+NOTE: "Al Urooba" matched 2 teams; picked Al Urooba (United-Arab-Emirates) because the opponent is from United-Arab-Emirates. Others: Al Urooba (Yemen)
+=== Al Urooba (id 9139): last 20 finished games ===
+2026-10-16 H 1-1 v Dibba Al Hisn | Division 1 | ?
+2026-10-11 A 3-0 v Al Hamriyah | Division 1 | ?
+2026-10-04 A 2-0 v Al Arabi | Presidents Cup | Umm al-Quwain
+2026-09-28 A 2-1 v Ittifaq | Presidents Cup | ?
+2026-09-22 H 1-0 v Dubai City | Presidents Cup | Sur
+2026-09-18 H 1-3 v Emirates Club | Division 1 | Fujairah
+2026-09-11 A 1-1 v Al Arabi | Division 1 | ?
+2026-09-04 H 2-0 v Al Jazira Al Hamra | Division 1 | Fujairah
+2026-08-28 A 1-1 v Ittifaq | Division 1 | ?
+2026-08-21 H 1-1 v Al Thaid | Division 1 | Fujairah
+2026-05-29 H 2-1 v Masfut | Division 1 | Fujairah
+2026-05-23 A 1-0 v Gulf United | Division 1 | ?
+2026-05-15 H 0-0 v Dubai United | Division 1 | Fujairah
+2026-05-10 A 2-0 v Emirates Club | Division 1 | Ras al Khaimah
+2026-05-03 H 1-0 v Dibba Al Hisn | Division 1 | Fujairah
+2026-04-29 A 1-1 v Hatta SC | Division 1 | Hatta
+2026-04-19 H 1-0 v Al Fujairah SC | Division 1 | Fujairah
+2026-04-12 A 2-0 v Al Jazira Al Hamra | Division 1 | Al Jazirah Al Hamra
+2026-04-05 H 4-2 v Majd | Division 1 | Fujairah
+2026-03-22 A 0-1 v Dubai City | Division 1 | Rās al-Khaymah (Ras al-Khaimah)
+Listed home: 10 games, scored 14 (1.40), conceded 8 (0.80), blanks 1, clean sheets 5
+Listed away: 10 games, scored 15 (1.50), conceded 5 (0.50), blanks 1, clean sheets 5
+All: 20 games, scored 29 (1.45), conceded 13 (0.65), blanks 2, clean sheets 10
+
+TABLE FOR Sharjah FC
+LEAGUE TABLE Pro League 2026 | 14 teams | 42 games played
+League averages per game: home 1.67, away 1.71, total 3.38
+#   team                   Pts | home P GF-GA  | away P GF-GA  | all P GF-GA
+1   Al-Jazira               14 |  2   4-1       |  4   9-3       |  6  13-4
+2   Shabab Al Ahli Dubai    13 |  3   5-3       |  3   7-2       |  6  12-5
+3   Al-Wasl FC              13 |  3  10-4       |  3   7-2       |  6  17-6
+4   Al Ain                  13 |  3   6-3       |  3   6-4       |  6  12-7
+5   Al Wahda FC             12 |  3   5-4       |  3   4-3       |  6   9-7
+6   Sharjah FC              12 |  2   4-5       |  4   9-3       |  6  13-8
+7   Ajman                    9 |  3   7-9       |  3   5-6       |  6  12-15
+8   Al Nasr                  8 |  4   6-4       |  2   2-3       |  6   8-7
+9   Dubai United             7 |  2   5-2       |  4   8-16      |  6  13-18
+10  Al-Dhafra                6 |  3   6-5       |  3   2-5       |  6   8-10
+11  Al-Ittihad Kalba         5 |  3   2-7       |  3   6-8       |  6   8-15
+12  Khorfakkan               4 |  4   5-8       |  2   2-7       |  6   7-15
+13  Hatta SC                 3 |  3   1-7       |  3   4-6       |  6   5-13
+14  Baniyas SC               1 |  4   4-10      |  2   1-2       |  6   5-12
+
+TABLE FOR Al Urooba
+LEAGUE TABLE Division 1 2026 | 15 teams | 49 games played
+League averages per game: home 1.82, away 1.55, total 3.37
+#   team                   Pts | home P GF-GA  | away P GF-GA  | all P GF-GA
+1   Al Arabi                16 |  3   7-3       |  4  10-7       |  7  17-10
+2   Dibba Al-Fujairah       13 |  3  10-4       |  3   5-5       |  6  15-9
+3   Emirates Club           12 |  3   6-2       |  4  11-5       |  7  17-7
+4   Forte Virtus            12 |  3   5-4       |  3   6-5       |  6  11-9
+5   Al Hamriyah             12 |  3   3-3       |  4   6-7       |  7   9-10
+6   Al Thaid                10 |  3   8-3       |  3   4-4       |  6  12-7
+7   Al Urooba               10 |  4   5-5       |  3   5-2       |  7  10-7
+8   Al Fujairah SC           9 |  4  10-6       |  3   4-8       |  7  14-14
+9   Palm City                9 |  3   6-9       |  3   8-7       |  6  14-16
+10  Dibba Al Hisn            8 |  3   8-5       |  3   3-3       |  6  11-8
+11  Al Bataeh                8 |  4   5-8       |  3   3-2       |  7   8-10
+12  Gulf United              6 |  3   5-10      |  3   5-6       |  6  10-16
+13  Al Jazira Al Hamra       6 |  3   4-4       |  4   2-11      |  7   6-15
+14  Ittifaq                  4 |  3   2-2       |  3   1-7       |  6   3-9
+15  Dubai City               4 |  4   5-8       |  3   3-10      |  7   8-18
+
+(27 API-Football requests used)
+
+----------------------------------------------------------------------
+MATCHBOOK: skipped (switched off for this run)
