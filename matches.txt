@@ -1,3 +1,8 @@
-# Scan 2026-10-24 17:27 (Ljubljana) run 3: table names
-Girona v Celta de Vigo II | n=20 | xg=10
-FCSB v Rapid | n=20 | xg=10
+# Scan 2026-10-24 18:13 (Ljubljana)
+Asteras Tripolis v Levadiakos | n=20 | xg=10
+Manta v Deportivo Cuenca | n=20 | xg=10
+Al-Duhail v Lusail | n=20 | xg=10
+Rapid Vienna v Austria Lustenau | n=20 | xg=10
+Almagro v Tristan Suarez | n=20 | xg=10
+Almeria v Oviedo | n=20 | xg=10
+Saint Etienne v Nantes | n=20 | xg=10
