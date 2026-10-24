@@ -1,7 +1,32 @@
-MATCH Kalamaria v Niki Volos | fetched 2026-10-24 09:32 local
+MATCH Apollon Pontou v Niki Volos | fetched 2026-10-24 09:33 local
 
-FORM DATA Kalamaria v Niki Volos | source API-Football | 2026-10-24 09:32 UTC
+FORM DATA Apollon Pontou v Niki Volos | source API-Football | 2026-10-24 09:33 UTC
 H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
+
+=== Apollon Pontou (id 2102): last 20 finished games ===
+2026-10-19 A 1-2 v PAOK II | Super League 2 | ?
+2026-10-11 H 1-0 v Pyrgos 1968 | Super League 2 | ?
+2026-10-05 A 1-1 v Zakynthos | Super League 2 | Zakynthos
+2026-09-27 H 1-0 v Anagennisi Karditsas | Super League 2 | ?
+2026-09-20 A 0-1 v Asteras Tripolis II | Super League 2 | ?
+2026-09-14 A 0-1 v Panionios | Super League 2 | ?
+2026-09-07 A 2-2 v Ellas Syros | Super League 2 | ?
+2026-08-19 A 0-1 v Nestos Chrisoupolis | Cup | ?
+2026-05-17 H 2-0 v Panthrakikos | Gamma Ethniki - Promotion Group | ?
+2026-05-13 A 0-0 v Elassona | Gamma Ethniki - Promotion Group | ?
+2026-05-10 H 3-2 v Ethnikos Neou Keramidiou | Gamma Ethniki - Promotion Group | ?
+2026-05-03 A 0-2 v Panthrakikos | Gamma Ethniki - Promotion Group | ?
+2026-04-29 H 2-1 v Elassona | Gamma Ethniki - Promotion Group | ?
+2026-04-26 A 3-2 v Ethnikos Neou Keramidiou | Gamma Ethniki - Promotion Group | ?
+2026-04-08 A 0-1 v Ethnikos Neou Keramidiou | Gamma Ethniki - Group 2 | ?
+2026-04-05 H 2-0 v Ermis Exochi | Gamma Ethniki - Group 2 | ?
+2026-04-01 A 3-0 v Alexandreia | Gamma Ethniki - Group 2 | ?
+2026-03-28 H 1-0 v Veria | Gamma Ethniki - Group 2 | ?
+2026-03-22 A 1-0 v Pierikos | Gamma Ethniki - Group 2 | ?
+2026-03-01 A 3-0 v Veria | Gamma Ethniki - Group 2 | Veria
+Listed home: 7 games, scored 12 (1.71), conceded 3 (0.43), blanks 0, clean sheets 5
+Listed away: 13 games, scored 14 (1.08), conceded 13 (1.00), blanks 6, clean sheets 4
+All: 20 games, scored 26 (1.30), conceded 16 (0.80), blanks 6, clean sheets 9
 
 === Niki Volos (id 5056): last 20 finished games ===
 2026-10-19 H 1-1 v Panionios | Super League 2 | ?
@@ -28,9 +53,7 @@ Listed home: 11 games, scored 13 (1.18), conceded 10 (0.91), blanks 3, clean she
 Listed away: 9 games, scored 6 (0.67), conceded 7 (0.78), blanks 4, clean sheets 4
 All: 20 games, scored 19 (0.95), conceded 17 (0.85), blanks 7, clean sheets 9
 
-!! Kalamaria: No team found for "Kalamaria".
-
-TABLE FOR Niki Volos
+TABLE FOR Apollon Pontou
 LEAGUE TABLE Super League 2 2026 | 16 teams | 56 games played
 League averages per game: home 1.27, away 0.73, total 2.00
 #   team                   Pts | home P GF-GA  | away P GF-GA  | all P GF-GA
@@ -51,7 +74,9 @@ League averages per game: home 1.27, away 0.73, total 2.00
 15  Pyrgos 1968              5 |  3   2-5       |  4   0-2       |  7   2-7
 16  Zakynthos                3 |  2   2-5       |  5   2-7       |  7   4-12
 
-(14 API-Football requests used)
+(Niki Volos: same table as Apollon Pontou, shown above)
+
+(25 API-Football requests used)
 
 ----------------------------------------------------------------------
 MATCHBOOK: skipped (switched off for this run)
