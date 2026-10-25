@@ -1,2 +1,3 @@
-# Scan 2026-10-25 16:42 (Ljubljana) run 4: RFS id
-id:4143 v id:4160 | n=20 | xg=10
+# Scan 2026-10-25 17:26 (Ljubljana)
+Ferencvaros v MTK Budapest | n=20 | xg=10
+Patronato v Agropecuario | n=20 | xg=10
