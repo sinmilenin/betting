@@ -163,5 +163,82 @@
     "lay": 9.6,
     "stake": 3,
     "created": "2026-10-25T12:21:11+01:00"
+  },
+  {
+    "id": "2026-10-25_tsv-havelse-saarbrucken_0-1",
+    "date": "2026-10-25",
+    "ko": "13:30",
+    "match": "TSV Havelse v Saarbrucken",
+    "comp": "Germany, German 3 Liga",
+    "cell": "0-1",
+    "lay": 15.5,
+    "stake": 3,
+    "created": "2026-10-25T13:06:50+01:00"
+  },
+  {
+    "id": "2026-10-25_holstein-kiel-dynamo-dresden_0-1",
+    "date": "2026-10-25",
+    "ko": "13:30",
+    "match": "Holstein Kiel v Dynamo Dresden",
+    "comp": "Germany, German Bundesliga 2",
+    "cell": "0-1",
+    "lay": 17.0,
+    "stake": 3,
+    "created": "2026-10-25T13:06:50+01:00"
+  },
+  {
+    "id": "2026-10-25_holstein-kiel-dynamo-dresden_1-0",
+    "date": "2026-10-25",
+    "ko": "13:30",
+    "match": "Holstein Kiel v Dynamo Dresden",
+    "comp": "Germany, German Bundesliga 2",
+    "cell": "1-0",
+    "lay": 15.0,
+    "stake": 3,
+    "created": "2026-10-25T13:06:50+01:00"
+  },
+  {
+    "id": "2026-10-25_silkeborg-fc-nordsjaelland_0-1",
+    "date": "2026-10-25",
+    "ko": "14:00",
+    "match": "Silkeborg v FC Nordsjaelland",
+    "comp": "Denmark, Danish Superliga",
+    "cell": "0-1",
+    "lay": 15.5,
+    "stake": 3,
+    "created": "2026-10-25T13:06:50+01:00"
+  },
+  {
+    "id": "2026-10-25_konyaspor-genclerbirligi_2-2",
+    "date": "2026-10-25",
+    "ko": "14:00",
+    "match": "Konyaspor v Genclerbirligi",
+    "comp": "Turkey, Turkish Super League",
+    "cell": "2-2",
+    "lay": 20.0,
+    "stake": 3,
+    "created": "2026-10-25T13:06:50+01:00"
+  },
+  {
+    "id": "2026-10-25_sabadell-tenerife_1-0",
+    "date": "2026-10-25",
+    "ko": "14:00",
+    "match": "Sabadell v Tenerife",
+    "comp": "Spain, Spanish Segunda Division",
+    "cell": "1-0",
+    "lay": 6.2,
+    "stake": 3,
+    "created": "2026-10-25T13:06:50+01:00"
+  },
+  {
+    "id": "2026-10-25_sabadell-tenerife_0-1",
+    "date": "2026-10-25",
+    "ko": "14:00",
+    "match": "Sabadell v Tenerife",
+    "comp": "Spain, Spanish Segunda Division",
+    "cell": "0-1",
+    "lay": 12.0,
+    "stake": 3,
+    "created": "2026-10-25T13:06:50+01:00"
   }
 ]
