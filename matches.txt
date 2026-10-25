@@ -1,3 +1,3 @@
-# Scan 2026-10-25 17:26 (Ljubljana)
-Ferencvaros v MTK Budapest | n=20 | xg=10
-Patronato v Agropecuario | n=20 | xg=10
+# Scan 2026-10-25 17:26 (Ljubljana) run 2: Ferencvaros id, Aris Thessaloniki
+id:651 v MTK Budapest | n=20 | xg=10
+Aris Thessalonikis v Atromitos | n=20 | xg=10
