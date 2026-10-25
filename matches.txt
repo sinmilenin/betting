@@ -1,2 +1,2 @@
-# Scan 2026-10-25 13:41 (Ljubljana) run 4: team name fix
-id:569 v Truiden | n=20 | xg=10
+# Scan 2026-10-25 13:41 (Ljubljana) run 5: team id fix
+id:569 v id:735 | n=20 | xg=10
