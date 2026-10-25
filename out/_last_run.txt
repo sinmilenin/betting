@@ -1,5 +1,4 @@
-RUN 2026-10-25 16:29 local | 2 match(es)
-Ferencvaros v MTK Budapest -> out/Ferencvaros_v_MTK_Budapest.txt
-    !! Ferencvaros: Ambiguous team name "Ferencvaros".
-Patronato v Agropecuario -> out/Patronato_v_Agropecuario.txt
-Requests used: API-Football 40, Matchbook 0
+RUN 2026-10-25 16:30 local | 2 match(es)
+id:651 v MTK Budapest -> out/id_651_v_MTK_Budapest.txt
+Aris Thessalonikis v Atromitos -> out/Aris_Thessalonikis_v_Atromitos.txt
+Requests used: API-Football 53, Matchbook 0

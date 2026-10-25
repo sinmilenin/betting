@@ -1,0 +1,80 @@
+MATCH Aris Thessalonikis v Atromitos | fetched 2026-10-25 16:30 local
+
+FORM DATA Aris Thessalonikis v Atromitos | source API-Football | 2026-10-25 16:30 UTC
+H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
+
+=== Aris Thessalonikis (id 1123): last 20 finished games ===
+2026-10-18 A 2-1 v Kifisia | Super League 1 | Athens | xG 0.00-0.00
+2026-10-11 H 3-2 v Volos NFC | Super League 1 | Thessaloniki | xG 3.15-1.18
+2026-09-19 H 0-0 v Iraklis 1908 | Super League 1 | Thessaloniki | xG 1.54-0.37
+2026-09-16 H 1-0 v Marko | Cup | Thessaloniki
+2026-09-13 A 0-2 v PAOK | Super League 1 | Thessaloniki | xG 1.24-2.39
+2026-09-10 A 1-1 v Asteras Tripolis | Cup | Tripoli
+2026-09-05 A 0-5 v AEK Athens FC | Super League 1 | Athens | xG 0.40-3.53
+2026-08-30 H 2-1 v OFI | Super League 1 | Thessaloniki | xG 1.75-1.34
+2026-08-22 A 3-2 v Kalamata | Super League 1 | Tripoli | xG 2.69-1.41
+2026-08-17 A 2-0 v Anagennisi Karditsas | Cup | ?
+2026-08-12 A 2-6 v Napoli | Friendlies Clubs | ?
+2026-07-30 A 3-1 v Monza | Friendlies Clubs | ?
+2026-05-17 H 3-0 v Levadiakos | Super League 1 | Thessaloniki
+2026-05-13 A 2-1 v Volos NFC | Super League 1 | Volos
+2026-05-10 H 3-1 v OFI | Super League 1 | Thessaloniki
+2026-05-03 A 2-0 v OFI | Super League 1 | Heraklion
+2026-04-18 H 3-2 v Volos NFC | Super League 1 | Thessaloniki
+2026-04-05 A 1-1 v Levadiakos | Super League 1 | Levadia
+2026-03-22 H 0-2 v OFI | Super League 1 | Thessaloniki
+2026-03-14 A 0-0 v Panserraikos | Super League 1 | Serres
+Listed home: 8 games, scored 15 (1.88), conceded 8 (1.00), blanks 2, clean sheets 3
+Listed away: 12 games, scored 18 (1.50), conceded 20 (1.67), blanks 3, clean sheets 3
+All: 20 games, scored 33 (1.65), conceded 28 (1.40), blanks 5, clean sheets 6
+
+=== Atromitos (id 12260): last 20 finished games ===
+2026-10-10 A 1-2 v Asteras Tripolis | Super League 1 | Tripolis | xG 0.49-1.17
+2026-09-19 H 1-2 v Kifisia | Super League 1 | Athens | xG 1.19-1.72
+2026-09-16 H 0-1 v PAOK | Cup | Athens
+2026-09-12 A 1-1 v Iraklis 1908 | Super League 1 | Volos
+2026-09-06 H 1-1 v Kalamata | Super League 1 | Peristeri | xG 0.24-0.46
+2026-09-02 A 1-0 v Panserraikos | Cup | Serres
+2026-08-30 H 1-2 v PAOK | Super League 1 | Peristeri | xG 1.33-1.61
+2026-08-22 A 0-1 v Olympiakos Piraeus | Super League 1 | Piraeus | xG 0.30-3.17
+2026-08-18 H 3-1 v Pyrgos 1968 | Cup | Athens
+2026-07-30 H 1-0 v Aris | Friendlies Clubs | ?
+2026-05-21 H 6-0 v Panserraikos | Super League 1 | Athens
+2026-05-16 A 1-2 v Larisa | Super League 1 | Larissa
+2026-05-12 A 3-0 v Kifisia | Super League 1 | Athens
+2026-05-09 H 1-2 v Panetolikos | Super League 1 | Athens
+2026-05-02 A 2-4 v Asteras Tripolis | Super League 1 | Tripoli
+2026-04-26 H 2-1 v Asteras Tripolis | Super League 1 | Athens
+2026-04-22 A 4-0 v Panserraikos | Super League 1 | Serres
+2026-04-18 H 3-2 v Larisa | Super League 1 | Athens
+2026-04-08 H 0-0 v Kifisia | Super League 1 | Athens
+2026-04-04 A 1-1 v Panetolikos | Super League 1 | Agrinio
+Listed home: 11 games, scored 19 (1.73), conceded 12 (1.09), blanks 2, clean sheets 3
+Listed away: 9 games, scored 14 (1.56), conceded 11 (1.22), blanks 1, clean sheets 3
+All: 20 games, scored 33 (1.65), conceded 23 (1.15), blanks 3, clean sheets 6
+
+TABLE FOR Aris Thessalonikis
+LEAGUE TABLE Super League 1 2026 | 14 teams | 51 games played
+League averages per game: home 1.69, away 1.04, total 2.73
+#   team                   Pts | home P GF-GA  | away P GF-GA  | all P GF-GA
+1   Panathinaikos           18 |  4  14-3       |  3   3-1       |  7  17-4
+2   AEK Athens FC           17 |  4  17-0       |  3   4-3       |  7  21-3
+3   Olympiakos Piraeus      16 |  3   2-1       |  4   5-1       |  7   7-2
+4   PAOK                    15 |  4   9-4       |  3   6-5       |  7  15-9
+5   Aris Thessalonikis      13 |  3   5-3       |  4   5-10      |  7  10-13
+6   Kifisia                 11 |  4   4-3       |  4   6-8       |  8  10-11
+7   Kalamata                10 |  4   9-8       |  3   4-4       |  7  13-12
+8   OFI                     10 |  3   6-2       |  4   5-9       |  7  11-11
+9   Iraklis 1908             9 |  3   5-4       |  5   4-7       |  8   9-11
+10  Panetolikos              9 |  4   6-6       |  4   2-10      |  8   8-16
+11  Asteras Tripolis         6 |  5   3-5       |  3   4-10      |  8   7-15
+12  Levadiakos               3 |  4   0-5       |  4   0-6       |  8   0-11
+13  Atromitos                2 |  3   3-5       |  3   2-4       |  6   5-9
+14  Volos NFC                0 |  3   3-4       |  4   3-8       |  7   6-12
+
+(Atromitos: same table as Aris Thessalonikis, shown above)
+
+(25 API-Football requests used)
+
+----------------------------------------------------------------------
+MATCHBOOK: skipped (switched off for this run)
