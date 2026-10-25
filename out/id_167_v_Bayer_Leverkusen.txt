@@ -1,14 +1,33 @@
-MATCH Hoffenheim v Bayer Leverkusen | fetched 2026-10-25 06:42 local
+MATCH id:167 v Bayer Leverkusen | fetched 2026-10-25 06:44 local
 
-FORM DATA Hoffenheim v Bayer Leverkusen | source API-Football | 2026-10-25 06:43 UTC
+FORM DATA id:167 v Bayer Leverkusen | source API-Football | 2026-10-25 06:44 UTC
 H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
 
-"Hoffenheim" matches several teams. Use id:<number> instead of the name:
-  id:167    1899 Hoffenheim (Germany)
-  id:1858   1899 Hoffenheim W (Germany)
-  id:7955   Hoffenheim U19 (Germany)
-  id:9364   Hoffenheim II (Germany)
-  id:22296  Hoffenheim II W (Germany)
+=== 1899 Hoffenheim (id 167): last 20 finished games ===
+2026-10-22 H 3-0 v Lyon | UEFA Europa League | Sinsheim | xG 2.13-0.89
+2026-10-18 A 2-1 v Borussia Mönchengladbach | Bundesliga | Monchengladbach | xG 1.80-0.47
+2026-10-15 H 2-3 v Beşiktaş | UEFA Europa League | Sinsheim | xG 1.23-3.39
+2026-10-10 H 2-3 v Hamburger SV | Bundesliga | Sinsheim | xG 0.93-1.28
+2026-09-20 A 1-3 v SC Paderborn 07 | Bundesliga | Paderborn | xG 1.50-0.68
+2026-09-17 A 0-2 v OFI | UEFA Europa League | Heraklion
+2026-09-12 H 2-1 v VfB Stuttgart | Bundesliga | Sinsheim | xG 2.76-2.16
+2026-09-05 H 2-3 v Borussia Dortmund | Bundesliga | Sinsheim | xG 1.17-2.02
+2026-08-29 A 2-3 v 1. FC Köln | Bundesliga | Cologne | xG 1.88-1.95
+2026-08-22 A 4-0 v Erzgebirge Aue | DFB Pokal | Aue
+2026-08-16 A 2-2 v Tottenham | Friendlies Clubs | London
+2026-08-15 A 0-3 v Tottenham | Friendlies Clubs | London
+2026-08-01 H 3-0 v Karlsruher SC | Friendlies Clubs | ?
+2026-07-29 H 3-1 v Holstein Kiel | Friendlies Clubs | ?
+2026-07-18 A 3-0 v SGV Freiberg | Friendlies Clubs | ?
+2026-05-16 A 0-4 v Borussia Mönchengladbach | Bundesliga | Monchengladbach
+2026-05-09 H 1-0 v Werder Bremen | Bundesliga | Sinsheim
+2026-05-02 H 3-3 v VfB Stuttgart | Bundesliga | Sinsheim
+2026-04-25 A 2-1 v Hamburger SV | Bundesliga | Hamburg
+2026-04-18 H 2-1 v Borussia Dortmund | Bundesliga | Sinsheim
+Listed home: 10 games, scored 23 (2.30), conceded 15 (1.50), blanks 0, clean sheets 3
+Listed away: 10 games, scored 16 (1.60), conceded 19 (1.90), blanks 3, clean sheets 2
+All: 20 games, scored 39 (1.95), conceded 34 (1.70), blanks 3, clean sheets 5
+
 === Bayer Leverkusen (id 168): last 20 finished games ===
 2026-10-22 A 2-0 v OFI | UEFA Europa League | Heraklion | xG 3.42-0.28
 2026-10-18 H 2-1 v SC Freiburg | Bundesliga | Bayer Leverkusen | xG 1.64-1.21
@@ -34,16 +53,7 @@ Listed home: 9 games, scored 24 (2.67), conceded 4 (0.44), blanks 0, clean sheet
 Listed away: 11 games, scored 32 (2.91), conceded 15 (1.36), blanks 0, clean sheets 4
 All: 20 games, scored 56 (2.80), conceded 19 (0.95), blanks 0, clean sheets 9
 
-(retrying Hoffenheim using the opponent's country, Germany)
-"Hoffenheim" matches several teams. Use id:<number> instead of the name:
-  id:167    1899 Hoffenheim (Germany)
-  id:1858   1899 Hoffenheim W (Germany)
-  id:7955   Hoffenheim U19 (Germany)
-  id:9364   Hoffenheim II (Germany)
-  id:22296  Hoffenheim II W (Germany)
-!! Hoffenheim: Ambiguous team name "Hoffenheim".
-
-TABLE FOR Bayer Leverkusen
+TABLE FOR 1899 Hoffenheim
 LEAGUE TABLE UEFA Europa League 2026 | 36 teams | 54 games played
 League averages per game: home 1.50, away 1.57, total 3.07
 #   team                   Pts | home P GF-GA  | away P GF-GA  | all P GF-GA
@@ -84,7 +94,9 @@ League averages per game: home 1.50, away 1.57, total 3.07
 35  Celtic                   0 |  2   2-5       |  1   1-4       |  3   3-9
 36  Ararat-Armenia           0 |  2   1-8       |  1   1-3       |  3   2-11
 
-(14 API-Football requests used)
+(Bayer Leverkusen: same table as 1899 Hoffenheim, shown above)
+
+(25 API-Football requests used)
 
 ----------------------------------------------------------------------
 MATCHBOOK: skipped (switched off for this run)

@@ -1,0 +1,119 @@
+MATCH id:160 v Bayern Munich | fetched 2026-10-25 06:44 local
+
+FORM DATA id:160 v Bayern Munich | source API-Football | 2026-10-25 06:44 UTC
+H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
+
+=== SC Freiburg (id 160): last 20 finished games ===
+2026-10-22 A 0-3 v Monaco | UEFA Europa Conference League | Fontvieille | xG 0.83-1.25
+2026-10-18 A 1-2 v Bayer Leverkusen | Bundesliga | Bayer Leverkusen | xG 1.21-1.64
+2026-10-15 H 3-2 v FK Jablonec | UEFA Europa Conference League | Freiburg | xG 1.87-1.18
+2026-10-11 H 2-1 v FC Schalke 04 | Bundesliga | Freiburg | xG 1.15-0.32
+2026-10-03 H 4-2 v FC Luzern | Friendlies Clubs | ?
+2026-09-19 A 2-2 v Eintracht Frankfurt | Bundesliga | Frankfurt | xG 3.09-2.18
+2026-09-12 H 5-0 v Borussia Mönchengladbach | Bundesliga | Freiburg | xG 2.60-0.19
+2026-09-05 A 1-0 v SC Paderborn 07 | Bundesliga | Paderborn | xG 1.24-0.77
+2026-08-30 H 4-1 v Werder Bremen | Bundesliga | Freiburg | xG 2.37-0.54
+2026-08-27 H 4-1 v Motherwell | UEFA Europa Conference League | Freiburg
+2026-08-23 A 5-1 v Fortuna Düsseldorf | DFB Pokal | Dusseldorf
+2026-08-20 A 3-1 v Motherwell | UEFA Europa Conference League | Motherwell
+2026-08-15 H 3-0 v Crystal Palace | Friendlies Clubs | ?
+2026-08-08 H 2-0 v Strasbourg | Friendlies Clubs | ?
+2026-07-24 H 3-1 v Derby | Friendlies Clubs | ?
+2026-05-20 H 0-3 v Aston Villa | UEFA Europa League | Istanbul
+2026-05-16 H 4-1 v RB Leipzig | Bundesliga | Freiburg im Breisgau
+2026-05-10 A 2-3 v Hamburger SV | Bundesliga | Hamburg
+2026-05-07 H 3-1 v SC Braga | UEFA Europa League | Freiburg im Breisgau
+2026-05-03 H 1-1 v VfL Wolfsburg | Bundesliga | Freiburg im Breisgau
+Listed home: 13 games, scored 38 (2.92), conceded 14 (1.08), blanks 1, clean sheets 3
+Listed away: 7 games, scored 14 (2.00), conceded 12 (1.71), blanks 1, clean sheets 1
+All: 20 games, scored 52 (2.60), conceded 26 (1.30), blanks 2, clean sheets 4
+
+=== Bayern Munich W (id 1860): last 20 finished games ===
+2026-10-23 A 5-1 v RB Leipzig W | Frauen Bundesliga | Leipzig | xG 1.88-1.24
+2026-10-19 H 5-0 v Stuttgart W | Frauen Bundesliga | Munich | xG 4.81-0.55
+2026-10-03 A 1-0 v Eintracht Frankfurt W | Frauen Bundesliga | Frankfurt
+2026-09-30 A 3-0 v SL Benfica W | UEFA Champions League Women | Lisbon
+2026-09-27 A 2-1 v Borussia Monchengladbach W | DFB Pokal - Women | ?
+2026-09-22 H 2-2 v Manchester City W | UEFA Champions League Women | Munich
+2026-09-19 H 5-2 v FC Koln W | Frauen Bundesliga | Munich
+2026-09-14 A 3-2 v Bayer Leverkusen W | Frauen Bundesliga | Leverkusen
+2026-09-06 H 4-1 v SC Freiburg W | Frauen Bundesliga | Munich
+2026-08-31 H 2-0 v Mainz 05 W | Frauen Bundesliga | Munich | xG 2.72-0.18
+2026-08-21 A 4-1 v Union Berlin W | Frauen Bundesliga | Berlin
+2026-08-15 H 3-0 v VfL Wolfsburg W | Supercup der Frauen | Ingolstadt
+2026-05-17 A 1-0 v Hamburger SV W | Frauen Bundesliga | Hamburg
+2026-05-14 A 4-0 v VfL Wolfsburg W | DFB Pokal - Women | Cologne
+2026-05-09 H 2-0 v Eintracht Frankfurt W | Frauen Bundesliga | Munich
+2026-05-06 H 1-1 v 1899 Hoffenheim W | Frauen Bundesliga | Munich
+2026-05-03 A 2-4 v Barcelona W | UEFA Champions League Women | Barcelona
+2026-04-29 A 2-0 v Werder Bremen W | Frauen Bundesliga | Bremen
+2026-04-25 H 1-1 v Barcelona W | UEFA Champions League Women | Munich
+2026-04-22 A 3-2 v Union Berlin W | Frauen Bundesliga | Berlin
+Listed home: 9 games, scored 25 (2.78), conceded 7 (0.78), blanks 0, clean sheets 4
+Listed away: 11 games, scored 30 (2.73), conceded 11 (1.00), blanks 0, clean sheets 5
+All: 20 games, scored 55 (2.75), conceded 18 (0.90), blanks 0, clean sheets 9
+
+TABLE FOR SC Freiburg
+LEAGUE TABLE UEFA Europa Conference League 2026 | 36 teams | 36 games played
+League averages per game: home 1.64, away 1.33, total 2.97
+#   team                   Pts | home P GF-GA  | away P GF-GA  | all P GF-GA
+1   Panathinaikos            6 |  1   2-1       |  1   5-1       |  2   7-2
+2   FC Lugano                6 |  1   3-2       |  1   5-2       |  2   8-4
+3   Brann                    6 |  1   2-1       |  1   4-1       |  2   6-2
+4   Trabzonspor              6 |  1   2-0       |  1   4-2       |  2   6-2
+5   Twente                   6 |  1   1-0       |  1   4-1       |  2   5-1
+6   Monaco                   6 |  1   3-0       |  1   2-1       |  2   5-1
+7   St. Truiden              6 |  1   2-0       |  1   1-0       |  2   3-0
+8   HNK Hajduk Split         6 |  1   2-1       |  1   1-0       |  2   3-1
+9   Brighton                 4 |  1   4-0       |  1   0-0       |  2   4-0
+10  FC Copenhagen            4 |  1   3-0       |  1   2-2       |  2   5-2
+11  Universitatea Craiova    4 |  1   1-1       |  1   3-1       |  2   4-2
+12  Mjallby AIF              4 |  1   2-0       |  1   1-1       |  2   3-1
+13  Ajax                     3 |  1   2-0       |  1   1-2       |  2   3-2
+14  Borac Banja Luka         3 |  1   2-0       |  1   1-2       |  2   3-2
+15  Atalanta                 3 |  1   3-1       |  1   0-2       |  2   3-3
+16  SC Braga                 3 |  1   2-0       |  1   0-3       |  2   2-3
+17  Gent                     3 |  1   1-0       |  1   0-2       |  2   1-2
+18  SC Freiburg              3 |  1   3-2       |  1   0-3       |  2   3-5
+19  FC Nordsjaelland         2 |  1   2-2       |  1   1-1       |  2   3-3
+20  Egnatia Rrogozhinë       2 |  1   1-1       |  1   1-1       |  2   2-2
+21  Riga                     2 |  1   1-1       |  1   1-1       |  2   2-2
+22  FK Crvena Zvezda         1 |  1   2-2       |  1   2-3       |  2   4-5
+23  CSKA Sofia               1 |  1   1-2       |  1   2-2       |  2   3-4
+24  FK Jablonec              1 |  1   0-0       |  1   2-3       |  2   2-3
+25  FC Midtjylland           1 |  1   0-1       |  1   1-1       |  2   1-2
+26  Aarhus                   1 |  1   1-1       |  1   0-1       |  2   1-2
+27  Pafos                    1 |  1   1-1       |  1   1-3       |  2   2-4
+28  Heart Of Midlothian      1 |  1   1-1       |  1   0-2       |  2   1-3
+29  FC Iberia 1999           1 |  1   1-1       |  1   0-2       |  2   1-3
+30  Getafe                   1 |  1   2-5       |  1   1-1       |  2   3-6
+31  Kairat Almaty            1 |  1   1-5       |  1   1-1       |  2   2-6
+32  FC Thun                  0 |  1   0-1       |  1   0-1       |  2   0-2
+33  Lincoln Red Imps FC      0 |  1   1-4       |  1   1-2       |  2   2-6
+34  KuPS                     0 |  1   2-4       |  1   0-2       |  2   2-6
+35  Inter Club d'Escaldes    0 |  1   1-3       |  1   0-2       |  2   1-5
+36  Kauno Žalgiris           0 |  1   1-4       |  1   0-4       |  2   1-8
+
+TABLE FOR Bayern Munich W
+LEAGUE TABLE Frauen Bundesliga 2026 | 14 teams | 51 games played
+League averages per game: home 1.76, away 1.71, total 3.47
+#   team                   Pts | home P GF-GA  | away P GF-GA  | all P GF-GA
+1   Bayern Munich W         24 |  4  16-3       |  4  13-4       |  8  29-7
+2   VfL Wolfsburg W         21 |  3   8-3       |  5  18-5       |  8  26-8
+3   Eintracht Frankfurt W   17 |  4   7-4       |  4   8-3       |  8  15-7
+4   Bayer Leverkusen W      13 |  4   7-8       |  3   6-2       |  7  13-10
+5   FC Koln W               12 |  4   7-2       |  4   6-10      |  8  13-12
+6   Werder Bremen W         10 |  3   4-1       |  3   6-7       |  6  10-8
+7   RB Leipzig W            10 |  4   8-8       |  4   6-6       |  8  14-14
+8   SC Freiburg W           10 |  4   5-5       |  3   3-5       |  7   8-10
+9   Union Berlin W           9 |  4   6-8       |  3   4-4       |  7  10-12
+10  Stuttgart W              8 |  4   2-10      |  4   6-10      |  8   8-20
+11  1899 Hoffenheim W        6 |  3   4-5       |  3   4-6       |  6   8-11
+12  Hamburger SV W           5 |  3   7-3       |  4   3-8       |  7  10-11
+13  Nürnberg W               2 |  3   6-13      |  4   4-10      |  7  10-23
+14  Mainz 05 W               0 |  4   3-14      |  3   0-10      |  7   3-24
+
+(26 API-Football requests used)
+
+----------------------------------------------------------------------
+MATCHBOOK: skipped (switched off for this run)

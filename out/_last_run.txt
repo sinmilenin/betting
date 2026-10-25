@@ -1,26 +1,5 @@
-RUN 2026-10-25 06:42 local | 21 match(es)
-Ehime v Fukushima United -> out/Ehime_v_Fukushima_United.txt
-Barcelona v Real Madrid -> out/Barcelona_v_Real_Madrid.txt
-Hull City v Brentford -> out/Hull_City_v_Brentford.txt
-Manchester United v Bournemouth -> out/Manchester_United_v_Bournemouth.txt
-Udinese v AC Milan -> out/Udinese_v_AC_Milan.txt
-Liverpool v Brighton -> out/Liverpool_v_Brighton.txt
-Celta Vigo v Real Betis -> out/Celta_Vigo_v_Real_Betis.txt
-Sunderland v Leeds -> out/Sunderland_v_Leeds.txt
-Atalanta v Frosinone -> out/Atalanta_v_Frosinone.txt
-Freiburg v Bayern Munich -> out/Freiburg_v_Bayern_Munich.txt
-    !! Freiburg: Ambiguous team name "Freiburg".
-Inter v Fiorentina -> out/Inter_v_Fiorentina.txt
-Crystal Palace v Newcastle -> out/Crystal_Palace_v_Newcastle.txt
-Lecce v Juventus -> out/Lecce_v_Juventus.txt
-Athletic Club v Getafe -> out/Athletic_Club_v_Getafe.txt
-Genoa v Venezia -> out/Genoa_v_Venezia.txt
-Marseille v Le Havre -> out/Marseille_v_Le_Havre.txt
-Real Sociedad v Levante -> out/Real_Sociedad_v_Levante.txt
-Monaco v Lille -> out/Monaco_v_Lille.txt
-Hoffenheim v Bayer Leverkusen -> out/Hoffenheim_v_Bayer_Leverkusen.txt
-    !! Hoffenheim: Ambiguous team name "Hoffenheim".
-Hibernian v Celtic -> out/Hibernian_v_Celtic.txt
-Toulouse v Troyes -> out/Toulouse_v_Troyes.txt
-    !! Troyes: Ambiguous team name "Troyes".
-Requests used: API-Football 491, Matchbook 0
+RUN 2026-10-25 06:44 local | 3 match(es)
+id:160 v Bayern Munich -> out/id_160_v_Bayern_Munich.txt
+id:167 v Bayer Leverkusen -> out/id_167_v_Bayer_Leverkusen.txt
+Toulouse v id:110 -> out/Toulouse_v_id_110.txt
+Requests used: API-Football 76, Matchbook 0
