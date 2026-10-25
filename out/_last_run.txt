@@ -1,5 +1,5 @@
-RUN 2026-10-25 07:27 local | 2 match(es)
-Paju Citizen v Hwaseong FC -> out/Paju_Citizen_v_Hwaseong_FC.txt
-    !! Hwaseong FC: No team found for "Hwaseong FC".
-Shonan Bellmare v Tochigi City -> out/Shonan_Bellmare_v_Tochigi_City.txt
+RUN 2026-10-25 08:58 local | 2 match(es)
+Chernomorets Odesa v Karpaty -> out/Chernomorets_Odesa_v_Karpaty.txt
+    !! Chernomorets Odesa: No team found for "Chernomorets Odesa".
+Fortuna Sittard v Excelsior -> out/Fortuna_Sittard_v_Excelsior.txt
 Requests used: API-Football 39, Matchbook 0
