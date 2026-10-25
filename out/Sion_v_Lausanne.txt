@@ -1,0 +1,48 @@
+MATCH Sion v Lausanne | fetched 2026-10-25 14:16 local
+
+FORM DATA Sion v Lausanne | source API-Football | 2026-10-25 14:17 UTC
+H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
+
+"Sion" matches several teams. Use id:<number> instead of the name:
+  id:630    FC Sion (Switzerland)
+  id:3428   Ethnikos Latsion (Cyprus)
+  id:3503   Sioni (Georgia)
+  id:4066   North Carolina Fusion (USA)
+  id:4093   Ventura County Fusion (USA)
+  id:5420   Extension Gunners (Botswana)
+  id:5673   Nanjing 1Fusion (China)
+  id:8385   Excursionistas (Argentina)
+  id:9042   Dakota Fusion (USA)
+  id:9102   Miami Fusion (USA)
+  id:10565  Passion (South-Africa)
+  id:10590  Sion II (Switzerland)
+  id:12254  Liberty Professionals (Ghana)
+  id:13179  Golden State Misioneros (USA)
+  id:18916  Fusion (Canada)
+  id:21490  Sion Swifts W (None)
+  id:22250  Natsional Sofia (Bulgaria)
+  id:22553  Pasión Celeste (Bolivia)
+  id:22782  Vision (Ghana)
+  id:23672  Sion W (Switzerland)
+  id:23822  North Port Fusion (USA)
+  id:23827  Penn Fusion SA (USA)
+  id:23878  Dakota Fusion W (USA)
+  id:23954  North Carolina Fusion W (USA)
+  id:24755  Royal Vision (Burundi)
+"Lausanne" matches several teams. Use id:<number> instead of the name:
+  id:1014   Lausanne (Switzerland)
+  id:4269   Stade Lausanne-Ouchy (Switzerland)
+  id:12693  Lausanne Sport II (Switzerland)
+  id:17414  Dardania Lausanne (Switzerland)
+  id:17488  Concordia Lausanne (Switzerland)
+  id:18797  Lausanne (Cameroon)
+  id:24231  Stade-Lausanne-Ouchy II (Switzerland)
+  id:24233  Stade-Lausanne-Ouchy III (Switzerland)
+!! Sion: Ambiguous team name "Sion".
+
+!! Lausanne: Ambiguous team name "Lausanne".
+
+(2 API-Football requests used)
+
+----------------------------------------------------------------------
+MATCHBOOK: skipped (switched off for this run)
