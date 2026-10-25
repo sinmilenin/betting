@@ -1,2 +1,9 @@
-# Scan 2026-10-25 09:57 (Ljubljana) run 2 (team name fix)
-Chornomorets v Karpaty | n=20 | xg=10
+# Scan 2026-10-25 10:41 (Ljubljana)
+Altay v Elimai | n=20 | xg=10
+Crystal Palace W v Chelsea W | n=20 | xg=10
+Norrby v Norrkoping | n=20 | xg=10
+Jaro v PK-35 | n=20 | xg=10
+Jelgava v Daugavpils | n=20 | xg=10
+Braunschweig v Hannover | n=20 | xg=10
+Osnabruck v Greuther Furth | n=20 | xg=10
+Genk v Standard Liege | n=20 | xg=10
