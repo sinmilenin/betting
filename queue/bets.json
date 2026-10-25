@@ -1,49 +1,5 @@
 [
   {
-    "id": "2026-10-25_cs-herediano-cs-cartagines_1-0",
-    "date": "2026-10-25",
-    "ko": "03:00",
-    "match": "CS Herediano v CS Cartagines",
-    "comp": "Costa Rica, Costa Rican Primera Division",
-    "cell": "1-0",
-    "lay": 7.8,
-    "stake": 3,
-    "created": "2026-10-24T19:06:55Z"
-  },
-  {
-    "id": "2026-10-25_fc-dallas-san-jose-earthquakes_2-2",
-    "date": "2026-10-25",
-    "ko": "02:30",
-    "match": "FC Dallas v San Jose Earthquakes",
-    "comp": "United States, US MLS",
-    "cell": "2-2",
-    "lay": 14.5,
-    "stake": 3,
-    "created": "2026-10-24T19:06:55Z"
-  },
-  {
-    "id": "2026-10-25_portland-timbers-charlotte-fc_1-0",
-    "date": "2026-10-25",
-    "ko": "03:30",
-    "match": "Portland Timbers v Charlotte FC",
-    "comp": "United States, US MLS",
-    "cell": "1-0",
-    "lay": 20,
-    "stake": 3,
-    "created": "2026-10-24T19:06:55Z"
-  },
-  {
-    "id": "2026-10-25_wellington-phoenix-central-coast-mariners_1-0",
-    "date": "2026-10-25",
-    "ko": "03:00",
-    "match": "Wellington Phoenix v Central Coast Mariners",
-    "comp": "Australia, Australian A-League Men",
-    "cell": "1-0",
-    "lay": 11,
-    "stake": 3,
-    "created": "2026-10-24T19:06:55Z"
-  },
-  {
     "id": "2026-10-25_inter-fiorentina_3-0",
     "date": "2026-10-25",
     "ko": "12:30",
@@ -75,5 +31,16 @@
     "lay": 15.0,
     "stake": 3,
     "created": "2026-10-25T07:49:45+01:00"
+  },
+  {
+    "id": "2026-10-25_fortuna-sittard-excelsior_1-0",
+    "date": "2026-10-25",
+    "ko": "12:15",
+    "match": "Fortuna Sittard v Excelsior",
+    "comp": "Netherlands, Dutch Eredivisie",
+    "cell": "1-0",
+    "lay": 14,
+    "stake": 3,
+    "created": "2026-10-25T10:01:16+01:00"
   }
 ]
