@@ -1,2 +1,3 @@
-# Scan 2026-10-25 07:41 (Ljubljana) run 3: Bayern id
-id:160 v id:157 | n=20 | xg=10
+# Scan 2026-10-25 08:26 (Ljubljana) run 1
+Paju Citizen v Hwaseong FC | n=20 | xg=10
+Shonan Bellmare v Tochigi City | n=20 | xg=10
