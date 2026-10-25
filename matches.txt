@@ -1,5 +1,3 @@
-# Scan 2026-10-25 06:11 (Ljubljana) run 1: J League
-Urawa v Nagasaki | n=20 | xg=10
-Cerezo Osaka v JEF United Chiba | n=20 | xg=10
-FC Tokyo v Mito | n=20 | xg=10
-Kawasaki Frontale v Okayama | n=20 | xg=10
+# Scan 2026-10-25 06:11 (Ljubljana) run 2: ids
+Urawa v id:285 | n=20 | xg=10
+Kawasaki Frontale v id:310 | n=20 | xg=10
