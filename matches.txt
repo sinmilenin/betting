@@ -1,4 +1,3 @@
-# Settle 25.10.2026 run 2: ids
-id:994 v Corum | n=3 | xg=0
-id:504 v id:801 | n=3 | xg=0
-id:160 v id:157 | n=3 | xg=0
+# Scan 25.10.2026 20:26
+Independiente v Boca Juniors | n=20 | xg=10
+River Plate v Racing Club | n=20 | xg=10
