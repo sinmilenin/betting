@@ -1,2 +1,10 @@
-# Scan 18:11 25.10.2026 run 3: Fortaleza FC id
-id:1147 v Deportivo Cali | n=20 | xg=10
+# Scan 18:55 25.10.2026 run 1
+Molde v Fredrikstad | n=20 | xg=10
+Cesar Vallejo v Alianza Lima | n=20 | xg=10
+RFC Liege v Patro Eisden | n=20 | xg=10
+AZ Alkmaar v Twente | n=20 | xg=10
+Mitre v Godoy Cruz | n=20 | xg=10
+Midland v Gimnasia y Tiro | n=20 | xg=10
+Sporting CP v Academico Viseu | n=20 | xg=10
+Palestino v Colo Colo | n=20 | xg=10
+FAR Rabat v Korhogo | n=20 | xg=10
