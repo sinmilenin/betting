@@ -1,0 +1,58 @@
+MATCH Paju Citizen v Hwaseong FC | fetched 2026-10-25 07:27 local
+
+FORM DATA Paju Citizen v Hwaseong FC | source API-Football | 2026-10-25 07:27 UTC
+H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
+
+=== Paju Citizen (id 7098): last 20 finished games ===
+2026-10-17 A 1-4 v Gimpo Citizen | K League 2 | Gimpo
+2026-10-10 H 1-1 v Busan I Park | K League 2 | Paju
+2026-09-20 A 2-0 v Gimhae City | K League 2 | Gimhae
+2026-09-04 H 0-0 v Daegu FC | K League 2 | Paju
+2026-08-29 A 0-1 v Gyeongnam FC | K League 2 | Changwon
+2026-08-23 A 1-1 v Seoul E-Land FC | K League 2 | Seoul
+2026-08-16 H 2-1 v Seongnam FC | K League 2 | Paju
+2026-08-08 H 0-1 v Suwon City FC | K League 2 | Paju
+2026-08-02 A 2-1 v Jeonnam Dragons | K League 2 | Gwangyang
+2026-07-29 A 0-3 v Bucheon FC 1995 | FA Cup | Bucheon
+2026-07-26 H 0-1 v Ansan Greeners | K League 2 | Paju
+2026-07-19 A 0-0 v Suwon Bluewings | K League 2 | Suwon
+2026-07-15 H 3-2 v Gangneung City | FA Cup | ?
+2026-07-11 A 2-1 v Hwaseong | K League 2 | Hwaseong
+2026-07-04 H 0-1 v Yongin City | K League 2 | Paju
+2026-06-05 A 0-1 v Daegu FC | K League 2 | Daegu
+2026-05-30 A 1-4 v Busan I Park | K League 2 | Busan
+2026-05-25 H 0-1 v Gimpo Citizen | K League 2 | Paju
+2026-05-16 A 0-0 v Cheonan City | K League 2 | Cheonan
+2026-05-03 H 0-0 v Cheongju | K League 2 | Paju
+Listed home: 9 games, scored 6 (0.67), conceded 8 (0.89), blanks 6, clean sheets 2
+Listed away: 11 games, scored 9 (0.82), conceded 16 (1.45), blanks 5, clean sheets 3
+All: 20 games, scored 15 (0.75), conceded 24 (1.20), blanks 11, clean sheets 5
+
+!! Hwaseong FC: No team found for "Hwaseong FC".
+
+TABLE FOR Paju Citizen
+LEAGUE TABLE K League 2 2026 | 17 teams | 234 games played
+League averages per game: home 1.41, away 1.31, total 2.73
+#   team                   Pts | home P GF-GA  | away P GF-GA  | all P GF-GA
+1   Suwon Bluewings         59 | 14  23-11      | 13  23-12      | 27  46-23
+2   Suwon City FC           54 | 12  24-10      | 15  29-20      | 27  53-30
+3   Seoul E-Land FC         54 | 14  31-20      | 14  21-12      | 28  52-32
+4   Daegu FC                52 | 14  29-17      | 14  26-21      | 28  55-38
+5   Busan I Park            45 | 14  23-14      | 14  21-22      | 28  44-36
+6   Hwaseong                44 | 16  28-18      | 12  15-13      | 28  43-31
+7   Gimpo Citizen           38 | 13  17-18      | 15  19-16      | 28  36-34
+8   Asan Mugunghwa          36 | 14  24-17      | 13  11-15      | 27  35-32
+9   Gyeongnam FC            35 | 14  21-16      | 13  10-15      | 27  31-31
+10  Cheongju                32 | 14  17-24      | 14  18-21      | 28  35-45
+11  Seongnam FC             31 | 13  14-14      | 14  16-21      | 27  30-35
+12  Paju Citizen            30 | 13  11-14      | 14  15-19      | 27  26-33
+13  Yongin City             27 | 14  15-21      | 13  17-20      | 27  32-41
+14  Cheonan City            26 | 13  11-11      | 14  20-26      | 27  31-37
+15  Ansan Greeners          25 | 16  17-33      | 12  15-20      | 28  32-53
+16  Jeonnam Dragons         24 | 13  16-20      | 15  17-30      | 28  33-50
+17  Gimhae City             17 | 13  10-29      | 15  14-28      | 28  24-57
+
+(14 API-Football requests used)
+
+----------------------------------------------------------------------
+MATCHBOOK: skipped (switched off for this run)

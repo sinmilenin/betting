@@ -1,3 +1,5 @@
-RUN 2026-10-25 06:46 local | 1 match(es)
-id:160 v id:157 -> out/id_160_v_id_157.txt
-Requests used: API-Football 26, Matchbook 0
+RUN 2026-10-25 07:27 local | 2 match(es)
+Paju Citizen v Hwaseong FC -> out/Paju_Citizen_v_Hwaseong_FC.txt
+    !! Hwaseong FC: No team found for "Hwaseong FC".
+Shonan Bellmare v Tochigi City -> out/Shonan_Bellmare_v_Tochigi_City.txt
+Requests used: API-Football 39, Matchbook 0
