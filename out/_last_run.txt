@@ -1,3 +1,4 @@
-RUN 2026-10-25 18:02 local | 1 match(es)
-id:6220 v Patro Eisden -> out/id_6220_v_Patro_Eisden.txt
-Requests used: API-Football 26, Matchbook 0
+RUN 2026-10-25 18:44 local | 2 match(es)
+Always Ready v Real Oruro -> out/Always_Ready_v_Real_Oruro.txt
+Temperley v Chacarita Juniors -> out/Temperley_v_Chacarita_Juniors.txt
+Requests used: API-Football 51, Matchbook 0
