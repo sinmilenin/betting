@@ -1,8 +1,4 @@
-RUN 2026-10-25 19:27 local | 2 match(es)
-Independiente v Boca Juniors -> out/Independiente_v_Boca_Juniors.txt
-    !! Independiente: Ambiguous team name "Independiente".
-    !! Boca Juniors: Ambiguous team name "Boca Juniors".
-River Plate v Racing Club -> out/River_Plate_v_Racing_Club.txt
-    !! River Plate: Ambiguous team name "River Plate".
-    !! Racing Club: Ambiguous team name "Racing Club".
-Requests used: API-Football 4, Matchbook 0
+RUN 2026-10-25 19:29 local | 2 match(es)
+id:453 v id:451 -> out/id_453_v_id_451.txt
+id:435 v id:436 -> out/id_435_v_id_436.txt
+Requests used: API-Football 50, Matchbook 0
