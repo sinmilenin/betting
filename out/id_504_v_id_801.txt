@@ -1,0 +1,86 @@
+MATCH id:504 v id:801 | fetched 2026-10-25 13:30 local
+
+FORM DATA id:504 v id:801 | source API-Football | 2026-10-25 13:31 UTC
+H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
+
+=== Hellas Verona (id 504): last 20 finished games ===
+2026-10-16 H 2-2 v Catanzaro | Serie B | Verona | xG 1.89-1.18
+2026-10-11 A 2-3 v Modena | Serie B | Modena | xG 1.83-2.58
+2026-10-02 A 3-1 v FC Lugano | Friendlies Clubs | Lugano
+2026-09-20 H 2-1 v Vicenza Virtus | Serie B | Verona | xG 0.97-0.90
+2026-09-11 A 1-3 v Benevento | Serie B | Benevento | xG 1.44-1.13
+2026-09-06 H 5-0 v Arezzo | Serie B | Verona | xG 3.15-0.12
+2026-09-03 A 2-1 v Cagliari | Coppa Italia | Cagliari
+2026-08-29 A 1-1 v Padova | Serie B | Padova | xG 1.62-0.94
+2026-08-23 H 1-2 v Ascoli | Serie B | Verona | xG 3.00-1.17
+2026-08-16 H 2-2 v Virtus Entella | Coppa Italia | Verona [PEN, 90-min score shown]
+2026-08-02 H 3-0 v Lecco | Friendlies Clubs | ?
+2026-07-25 H 1-0 v Dolomiti Bellunesi | Friendlies Clubs | ?
+2026-07-22 H 2-1 v Virtus Verona | Friendlies Clubs | ?
+2026-07-19 H 8-1 v Rovereto | Friendlies Clubs | ?
+2026-05-24 H 0-2 v AS Roma | Serie A | Verona
+2026-05-17 A 1-1 v Inter | Serie A | Milan
+2026-05-10 H 0-1 v Como | Serie A | Verona
+2026-05-03 A 1-1 v Juventus | Serie A | Turin
+2026-04-25 H 0-0 v Lecce | Serie A | Verona
+2026-04-19 H 0-1 v AC Milan | Serie A | Verona
+Listed home: 13 games, scored 26 (2.00), conceded 13 (1.00), blanks 4, clean sheets 4
+Listed away: 7 games, scored 11 (1.57), conceded 11 (1.57), blanks 0, clean sheets 0
+All: 20 games, scored 37 (1.85), conceded 24 (1.20), blanks 4, clean sheets 4
+
+=== Pisa (id 801): last 20 finished games ===
+2026-10-17 H 3-1 v Cremonese | Serie B | Pizza | xG 2.31-0.44
+2026-10-10 A 3-0 v Vicenza Virtus | Serie B | Vicenza | xG 2.74-0.61
+2026-10-03 A 0-2 v Monaco | Friendlies Clubs | ?
+2026-09-20 A 2-2 v Mantova | Serie B | Mantova | xG 2.18-1.98
+2026-09-15 A 0-3 v Fiorentina | Coppa Italia | Florence
+2026-09-11 H 1-4 v Virtus Entella | Serie B | Pisa | xG 1.08-1.71
+2026-09-06 A 3-0 v Juve Stabia | Serie B | Castellammare di Stabia | xG 1.69-0.96
+2026-08-30 H 2-1 v Catanzaro | Serie B | Pisa | xG 2.04-1.11
+2026-08-23 H 0-1 v Padova | Serie B | Pisa | xG 1.63-1.23
+2026-08-17 H 1-1 v Empoli | Coppa Italia | Pisa [PEN, 90-min score shown]
+2026-08-08 A 4-1 v Bologna | Friendlies Clubs | ?
+2026-07-26 H 0-1 v PRO Vercelli | Friendlies Clubs | ?
+2026-07-25 H 1-1 v Juventus U23 | Friendlies Clubs | ?
+2026-07-19 H 6-1 v Pavia | Friendlies Clubs | ?
+2026-05-23 A 1-2 v Lazio | Serie A | Rome
+2026-05-17 H 0-3 v Napoli | Serie A | Pisa
+2026-05-10 A 0-3 v Cremonese | Serie A | Cremona
+2026-05-01 H 1-2 v Lecce | Serie A | Pisa
+2026-04-25 A 0-1 v Parma | Serie A | Parma
+2026-04-19 H 1-2 v Genoa | Serie A | Pisa
+Listed home: 11 games, scored 16 (1.45), conceded 18 (1.64), blanks 3, clean sheets 0
+Listed away: 9 games, scored 13 (1.44), conceded 14 (1.56), blanks 4, clean sheets 2
+All: 20 games, scored 29 (1.45), conceded 32 (1.60), blanks 7, clean sheets 2
+
+TABLE FOR Hellas Verona
+LEAGUE TABLE Serie B 2026 | 20 teams | 78 games played
+League averages per game: home 1.35, away 1.36, total 2.71
+#   team                   Pts | home P GF-GA  | away P GF-GA  | all P GF-GA
+1   Palermo                 19 |  3   6-2       |  4  10-5       |  7  16-7
+2   Mantova                 17 |  4   7-5       |  4   7-3       |  8  14-8
+3   Modena                  16 |  4   8-4       |  4   7-4       |  8  15-8
+4   Ascoli                  15 |  4   6-3       |  4   8-3       |  8  14-6
+5   Benevento               14 |  5   9-6       |  3   4-1       |  8  13-7
+6   Pisa                    13 |  4   6-7       |  3   8-2       |  7  14-9
+7   Sudtirol                13 |  5   5-2       |  3   5-5       |  8  10-7
+8   Avellino                11 |  5   9-5       |  3   3-4       |  8  12-9
+9   Padova                  10 |  4   3-5       |  4   4-5       |  8   7-10
+10  Arezzo                  10 |  4   3-10      |  4   5-7       |  8   8-17
+11  Virtus Entella           9 |  4   4-6       |  4   6-3       |  8  10-9
+12  Vicenza Virtus           9 |  3   4-6       |  5   7-9       |  8  11-15
+13  Hellas Verona            8 |  4  10-5       |  3   4-7       |  7  14-12
+14  Juve Stabia              8 |  3   4-4       |  5   5-4       |  8   9-8
+15  Cesena                   8 |  4   5-5       |  4   3-7       |  8   8-12
+16  Empoli                   7 |  4   3-7       |  4   4-6       |  8   7-13
+17  Carrarese                7 |  4   3-5       |  3   3-2       |  7   6-7
+18  Cremonese                6 |  4   3-5       |  4   3-6       |  8   6-11
+19  Sampdoria                5 |  3   4-5       |  5   4-11      |  8   8-16
+20  Catanzaro                4 |  3   3-9       |  5   6-11      |  8   9-20
+
+(Pisa: same table as Hellas Verona, shown above)
+
+(25 API-Football requests used)
+
+----------------------------------------------------------------------
+MATCHBOOK: skipped (switched off for this run)

@@ -1,13 +1,6 @@
-RUN 2026-10-25 13:29 local | 6 match(es)
-Jagiellonia v Wisla Plock -> out/Jagiellonia_v_Wisla_Plock.txt
-Farul Constanta v Otelul -> out/Farul_Constanta_v_Otelul.txt
-    !! Otelul: Ambiguous team name "Otelul".
-Sabah FC v Qarabag -> out/Sabah_FC_v_Qarabag.txt
-    !! Sabah FC: No team found for "Sabah FC".
-Yverdon v Kriens -> out/Yverdon_v_Kriens.txt
-    !! Yverdon: Ambiguous team name "Yverdon".
-Lillestrom v Brann -> out/Lillestrom_v_Brann.txt
-Verona v Pisa -> out/Verona_v_Pisa.txt
-    !! Verona: Ambiguous team name "Verona".
-    !! Pisa: Ambiguous team name "Pisa".
-Requests used: API-Football 97, Matchbook 0
+RUN 2026-10-25 13:30 local | 4 match(es)
+Farul Constanta v id:6886 -> out/Farul_Constanta_v_id_6886.txt
+Sabah FA v Qarabag -> out/Sabah_FA_v_Qarabag.txt
+id:6653 v Kriens -> out/id_6653_v_Kriens.txt
+id:504 v id:801 -> out/id_504_v_id_801.txt
+Requests used: API-Football 103, Matchbook 0
