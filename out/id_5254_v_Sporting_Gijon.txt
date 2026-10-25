@@ -1,13 +1,33 @@
-MATCH Castellon v Sporting Gijon | fetched 2026-10-25 14:59 local
+MATCH id:5254 v Sporting Gijon | fetched 2026-10-25 15:01 local
 
-FORM DATA Castellon v Sporting Gijon | source API-Football | 2026-10-25 14:59 UTC
+FORM DATA id:5254 v Sporting Gijon | source API-Football | 2026-10-25 15:01 UTC
 H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
 
-"Castellon" matches several teams. Use id:<number> instead of the name:
-  id:5254   Castellón (Spain)
-  id:17588  Castellón II (Spain)
-  id:22138  Castellonense (Spain)
-  id:28020  CD Castellon U19 (Spain)
+=== Castellón (id 5254): last 20 finished games ===
+2026-10-17 A 3-0 v Las Palmas | Segunda División | Las Palmas | xG 2.70-0.23
+2026-10-11 A 0-1 v FC Andorra | Segunda División | Encamp | xG 0.95-3.12
+2026-10-04 H 1-1 v AD Ceuta FC | Segunda División | Castellon | xG 0.83-2.47
+2026-09-28 A 2-0 v Leganes | Segunda División | Leganes
+2026-09-19 H 5-0 v Tenerife | Segunda División | Castellon | xG 2.35-1.35
+2026-09-12 A 2-1 v Girona | Segunda División | Girona | xG 3.71-1.14
+2026-09-06 H 2-0 v Albacete | Segunda División | Castellon | xG 4.09-0.30
+2026-08-31 A 2-1 v Celta de Vigo II | Segunda División | Vigo | xG 1.97-0.92
+2026-08-23 H 0-0 v Sabadell | Segunda División | Castellon | xG 0.65-1.83
+2026-08-14 A 1-0 v Real Sociedad II | Segunda División | San Sebastian | xG 1.93-0.36
+2026-08-08 H 1-3 v Levante | Friendlies Clubs | ?
+2026-08-07 A 0-0 v Hércules | Friendlies Clubs | ? [PEN, 90-min score shown]
+2026-07-31 A 0-3 v Alaves | Friendlies Clubs | Olot
+2026-07-29 A 3-3 v Girona | Friendlies Clubs | ?
+2026-07-25 A 2-1 v Valencia | Friendlies Clubs | ?
+2026-07-18 H 2-0 v Sabadell | Friendlies Clubs | ?
+2026-06-09 A 2-3 v Almeria | Segunda División | Almeria
+2026-06-06 H 1-1 v Almeria | Segunda División | Castellon
+2026-05-31 H 2-1 v Eibar | Segunda División | Castellon
+2026-05-24 A 1-0 v Huesca | Segunda División | Huesca
+Listed home: 8 games, scored 14 (1.75), conceded 6 (0.75), blanks 1, clean sheets 4
+Listed away: 12 games, scored 18 (1.50), conceded 13 (1.08), blanks 3, clean sheets 5
+All: 20 games, scored 32 (1.60), conceded 19 (0.95), blanks 4, clean sheets 9
+
 === Sporting Gijon (id 731): last 20 finished games ===
 2026-10-17 H 2-1 v Albacete | Segunda División | Gijon | xG 0.55-0.60
 2026-10-11 A 1-0 v Cadiz | Segunda División | Cadiz | xG 0.80-0.55
@@ -33,15 +53,7 @@ Listed home: 10 games, scored 17 (1.70), conceded 13 (1.30), blanks 3, clean she
 Listed away: 10 games, scored 14 (1.40), conceded 13 (1.30), blanks 2, clean sheets 2
 All: 20 games, scored 31 (1.55), conceded 26 (1.30), blanks 5, clean sheets 5
 
-(retrying Castellon using the opponent's country, Spain)
-"Castellon" matches several teams. Use id:<number> instead of the name:
-  id:5254   Castellón (Spain)
-  id:17588  Castellón II (Spain)
-  id:22138  Castellonense (Spain)
-  id:28020  CD Castellon U19 (Spain)
-!! Castellon: Ambiguous team name "Castellon".
-
-TABLE FOR Sporting Gijon
+TABLE FOR Castellón
 LEAGUE TABLE Segunda División 2026 | 22 teams | 116 games played
 League averages per game: home 1.53, away 1.14, total 2.67
 #   team                   Pts | home P GF-GA  | away P GF-GA  | all P GF-GA
@@ -68,7 +80,9 @@ League averages per game: home 1.53, away 1.14, total 2.67
 21  AD Ceuta FC              5 |  6   6-10      |  4   3-12      | 10   9-22
 22  Albacete                 1 |  4   3-8       |  6   3-14      | 10   6-22
 
-(15 API-Football requests used)
+(Sporting Gijon: same table as Castellón, shown above)
+
+(25 API-Football requests used)
 
 ----------------------------------------------------------------------
 MATCHBOOK: skipped (switched off for this run)

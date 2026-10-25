@@ -1,18 +1,40 @@
-MATCH Goztepe v Corum FK | fetched 2026-10-25 14:59 local
+MATCH id:994 v Corum FK | fetched 2026-10-25 15:01 local
 
-FORM DATA Goztepe v Corum FK | source API-Football | 2026-10-25 14:59 UTC
+FORM DATA id:994 v Corum FK | source API-Football | 2026-10-25 15:01 UTC
 H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
 
-"Goztepe" matches several teams. Use id:<number> instead of the name:
-  id:994    Göztepe (Turkey)
-  id:28248  Goztepe U19 (Turkey)
+=== Göztepe (id 994): last 20 finished games ===
+2026-10-18 A 2-1 v Kocaelispor | Süper Lig | Kocaeli | xG 0.83-1.61
+2026-10-12 A 4-0 v Eyüpspor | Süper Lig | Esenyurt | xG 3.15-1.33
+2026-09-20 H 2-2 v Rizespor | Süper Lig | Izmir | xG 2.78-0.78
+2026-09-12 A 2-2 v Alanyaspor | Süper Lig | Alanya | xG 1.79-1.72
+2026-09-07 H 2-4 v Gaziantep FK | Süper Lig | Izmir | xG 3.26-1.88
+2026-08-29 A 2-3 v Galatasaray | Süper Lig | Istanbul | xG 0.63-2.87
+2026-08-23 H 0-1 v Gençlerbirliği S.K. | Süper Lig | Izmir | xG 1.92-1.56
+2026-08-17 A 3-3 v Samsunspor | Süper Lig | Samsun | xG 1.71-2.80
+2026-08-08 H 2-1 v Trabzonspor | Friendlies Clubs | ?
+2026-07-26 H 1-1 v Rudes | Friendlies Clubs | ?
+2026-07-23 A 2-1 v Zorya Luhansk | Friendlies Clubs | ?
+2026-07-19 H 2-1 v Al-Dhafra | Friendlies Clubs | ?
+2026-07-16 A 2-0 v LNZ Cherkasy | Friendlies Clubs | ?
+2026-07-13 A 2-0 v HNK Gorica | Friendlies Clubs | ?
+2026-05-16 A 0-3 v Samsunspor | Süper Lig | Samsun
+2026-05-09 H 2-1 v Gaziantep FK | Süper Lig | Izmir
+2026-05-02 A 1-1 v Trabzonspor | Süper Lig | Trabzon
+2026-04-25 H 2-0 v Antalyaspor | Süper Lig | Izmir
+2026-04-18 A 1-1 v Kocaelispor | Süper Lig | Izmit
+2026-04-12 H 3-3 v Kasımpaşa | Süper Lig | Izmir
+Listed home: 9 games, scored 16 (1.78), conceded 14 (1.56), blanks 1, clean sheets 1
+Listed away: 11 games, scored 21 (1.91), conceded 15 (1.36), blanks 1, clean sheets 3
+All: 20 games, scored 37 (1.85), conceded 29 (1.45), blanks 2, clean sheets 4
+
 === Çorum FK (id 6343): last 20 finished games ===
 2026-10-16 H 2-1 v Rizespor | Süper Lig | Corum | xG 0.71-0.84
 2026-10-11 A 3-0 v Gaziantep FK | Süper Lig | Gaziantep | xG 2.67-0.99
 2026-09-19 H 1-2 v Alanyaspor | Süper Lig | Corum | xG 1.11-1.18
 2026-09-12 A 5-1 v Samsunspor | Süper Lig | Samsun | xG 1.73-1.23
 2026-09-06 H 3-0 v Eyüpspor | Süper Lig | Corum | xG 2.58-0.73
-2026-08-31 A 2-6 v Beşiktaş | Süper Lig | Istanbul | xG 0.67-2.97
+2026-08-31 A 2-6 v Beşiktaş | Süper Lig | Istanbul
 2026-08-22 H 0-1 v Kasımpaşa | Süper Lig | Corum | xG 1.11-0.32
 2026-08-14 A 2-2 v Galatasaray | Süper Lig | Istanbul | xG 0.61-2.90
 2026-05-24 A 2-0 v Esenler Erokspor | 1. Lig | Konya
@@ -31,13 +53,7 @@ Listed home: 11 games, scored 16 (1.45), conceded 9 (0.82), blanks 2, clean shee
 Listed away: 9 games, scored 21 (2.33), conceded 11 (1.22), blanks 1, clean sheets 4
 All: 20 games, scored 37 (1.85), conceded 20 (1.00), blanks 3, clean sheets 7
 
-(retrying Goztepe using the opponent's country, Turkey)
-"Goztepe" matches several teams. Use id:<number> instead of the name:
-  id:994    Göztepe (Turkey)
-  id:28248  Goztepe U19 (Turkey)
-!! Goztepe: Ambiguous team name "Goztepe".
-
-TABLE FOR Çorum FK
+TABLE FOR Göztepe
 LEAGUE TABLE Süper Lig 2026 | 18 teams | 76 games played
 League averages per game: home 1.63, away 1.25, total 2.88
 #   team                   Pts | home P GF-GA  | away P GF-GA  | all P GF-GA
@@ -60,7 +76,9 @@ League averages per game: home 1.63, away 1.25, total 2.88
 17  Samsunspor               4 |  5   5-15      |  4   3-6       |  9   8-21
 18  Eyüpspor                 3 |  5   2-9       |  4   0-14      |  9   2-23
 
-(15 API-Football requests used)
+(Çorum FK: same table as Göztepe, shown above)
+
+(24 API-Football requests used)
 
 ----------------------------------------------------------------------
 MATCHBOOK: skipped (switched off for this run)

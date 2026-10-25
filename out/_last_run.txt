@@ -1,10 +1,5 @@
-RUN 2026-10-25 14:59 local | 5 match(es)
-Goztepe v Corum FK -> out/Goztepe_v_Corum_FK.txt
-    !! Goztepe: Ambiguous team name "Goztepe".
-Plzen v Pardubice -> out/Plzen_v_Pardubice.txt
-Gent v Anderlecht -> out/Gent_v_Anderlecht.txt
-Osijek v Rudes -> out/Osijek_v_Rudes.txt
-    !! Osijek: Ambiguous team name "Osijek".
-Castellon v Sporting Gijon -> out/Castellon_v_Sporting_Gijon.txt
-    !! Castellon: Ambiguous team name "Castellon".
-Requests used: API-Football 96, Matchbook 0
+RUN 2026-10-25 15:01 local | 3 match(es)
+id:994 v Corum FK -> out/id_994_v_Corum_FK.txt
+id:616 v Rudes -> out/id_616_v_Rudes.txt
+id:5254 v Sporting Gijon -> out/id_5254_v_Sporting_Gijon.txt
+Requests used: API-Football 74, Matchbook 0
