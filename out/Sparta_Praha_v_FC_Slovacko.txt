@@ -1,6 +1,6 @@
-MATCH Sparta Praha v Slovacko | fetched 2026-10-25 11:15 local
+MATCH Sparta Praha v FC Slovacko | fetched 2026-10-25 11:17 local
 
-FORM DATA Sparta Praha v Slovacko | source API-Football | 2026-10-25 11:15 UTC
+FORM DATA Sparta Praha v FC Slovacko | source API-Football | 2026-10-25 11:17 UTC
 H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
 
 === Sparta Praha (id 628): last 20 finished games ===
@@ -28,18 +28,7 @@ Listed home: 8 games, scored 19 (2.38), conceded 10 (1.25), blanks 1, clean shee
 Listed away: 12 games, scored 19 (1.58), conceded 18 (1.50), blanks 5, clean sheets 4
 All: 20 games, scored 38 (1.90), conceded 28 (1.40), blanks 6, clean sheets 6
 
-"Slovacko" matches several teams. Use id:<number> instead of the name:
-  id:3719   Slovácko (Czech-Republic)
-  id:8623   Slovácko II (Czech-Republic)
-  id:14838  Slovácko U19 (Czech-Republic)
-  id:14847  Slovácko W (Czech-Republic)
-(retrying Slovacko using the opponent's country, Czech-Republic)
-"Slovacko" matches several teams. Use id:<number> instead of the name:
-  id:3719   Slovácko (Czech-Republic)
-  id:8623   Slovácko II (Czech-Republic)
-  id:14838  Slovácko U19 (Czech-Republic)
-  id:14847  Slovácko W (Czech-Republic)
-!! Slovacko: Ambiguous team name "Slovacko".
+!! FC Slovacko: No team found for "FC Slovacko".
 
 TABLE FOR Sparta Praha
 LEAGUE TABLE UEFA Europa League 2026 | 36 teams | 54 games played

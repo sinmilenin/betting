@@ -1,13 +1,8 @@
-RUN 2026-10-25 11:15 local | 9 match(es)
-Viking v Tromso -> out/Viking_v_Tromso.txt
-PSV Eindhoven v Feyenoord -> out/PSV_Eindhoven_v_Feyenoord.txt
-NEC Nijmegen v Groningen -> out/NEC_Nijmegen_v_Groningen.txt
-Sparta Praha v Slovacko -> out/Sparta_Praha_v_Slovacko.txt
-    !! Slovacko: Ambiguous team name "Slovacko".
-Motherwell v Hearts -> out/Motherwell_v_Hearts.txt
-    !! Hearts: Ambiguous team name "Hearts".
-Helsingborg v Ljungskile -> out/Helsingborg_v_Ljungskile.txt
-Olympiakos Piraeus v Kalamata -> out/Olympiakos_Piraeus_v_Kalamata.txt
-Garudayaksa v Persib Bandung -> out/Garudayaksa_v_Persib_Bandung.txt
-Palermo v Carrarese -> out/Palermo_v_Carrarese.txt
-Requests used: API-Football 205, Matchbook 0
+RUN 2026-10-25 11:17 local | 3 match(es)
+Sparta Praha v FC Slovacko -> out/Sparta_Praha_v_FC_Slovacko.txt
+    !! FC Slovacko: No team found for "FC Slovacko".
+Motherwell v Heart Of Midlothian -> out/Motherwell_v_Heart_Of_Midlothian.txt
+Hradec Kralove v Jablonec -> out/Hradec_Kralove_v_Jablonec.txt
+    !! Hradec Kralove: Ambiguous team name "Hradec Kralove".
+    !! Jablonec: Ambiguous team name "Jablonec".
+Requests used: API-Football 42, Matchbook 0
