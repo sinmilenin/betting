@@ -1,0 +1,89 @@
+MATCH Fortaleza CEIF v Deportivo Cali | fetched 2026-10-25 17:16 local
+
+FORM DATA Fortaleza CEIF v Deportivo Cali | source API-Football | 2026-10-25 17:16 UTC
+H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
+
+=== Fortaleza CEIF U20 (id 25697): last 3 finished games ===
+2025-03-08 A 0-1 v Universitario U20 | CONMEBOL Libertadores U20 | Ypané
+2025-03-05 H 0-0 v Belgrano U20 | CONMEBOL Libertadores U20 | Ypané
+2025-03-02 A 3-0 v Metropolitanos U20 | CONMEBOL Libertadores U20 | Ypané
+Listed home: 1 games, scored 0 (0.00), conceded 0 (0.00), blanks 1, clean sheets 1
+Listed away: 2 games, scored 3 (1.50), conceded 1 (0.50), blanks 1, clean sheets 1
+All: 3 games, scored 3 (1.00), conceded 1 (0.33), blanks 2, clean sheets 2
+
+=== Deportivo Cali (id 1127): last 20 finished games ===
+2026-10-21 A 3-0 v Llaneros | Primera A | Villavicencio | xG 0.45-0.62
+2026-10-19 H 0-0 v Junior | Primera A | Palmira | xG 1.42-0.43
+2026-10-10 A 0-0 v Deportivo Pereira | Primera A | Yopal | xG 0.78-0.48
+2026-10-03 H 3-1 v Alianza Valledupar | Primera A | Palmira
+2026-09-28 H 2-0 v Águilas Doradas | Primera A | Palmira | xG 0.74-0.76
+2026-09-23 A 1-0 v Santa Fe | Primera A | Bogota | xG 0.41-1.19
+2026-09-19 H 3-0 v Cucuta | Primera A | Palmira | xG 2.19-0.29
+2026-09-13 A 2-1 v Once Caldas | Primera A | Manizales | xG 0.34-0.39
+2026-09-11 A 1-1 v Millonarios | Primera A | Bogota
+2026-09-08 A 0-3 v Atletico Nacional | Copa Colombia | Medellin
+2026-08-31 H 1-1 v Bucaramanga | Primera A | Palmira
+2026-08-27 A 1-2 v Atletico Nacional | Primera A | Medellin
+2026-08-23 H 2-2 v Internacional de Bogota | Primera A | Palmira
+2026-08-09 A 2-0 v Deportivo Pasto | Primera A | Pasto
+2026-08-01 A 0-1 v Independiente Medellin | Primera A | Medellin
+2026-07-25 H 2-0 v Jaguares | Primera A | Palmira
+2026-07-12 A 2-0 v Alianza Lima | Friendlies Clubs | ?
+2026-05-24 A 2-1 v Real Santander | Copa Colombia | Piedecuesta
+2026-05-21 H 1-0 v Alianza Valledupar | Copa Colombia | Palmira
+2026-05-15 A 5-1 v Popayan | Copa Colombia | Cali
+Listed home: 8 games, scored 14 (1.75), conceded 4 (0.50), blanks 1, clean sheets 5
+Listed away: 12 games, scored 19 (1.58), conceded 10 (0.83), blanks 3, clean sheets 5
+All: 20 games, scored 33 (1.65), conceded 14 (0.70), blanks 4, clean sheets 10
+
+(no league table available for Fortaleza CEIF U20: tried CONMEBOL Libertadores U20 2025)
+
+TABLE FOR Deportivo Cali
+LEAGUE TABLE Primera A 2026 | 40 teams | 337 games played
+League averages per game: home 1.50, away 1.04, total 2.54
+#   team                   Pts | home P GF-GA  | away P GF-GA  | all P GF-GA
+1   Atletico Nacional       40 |  9  22-3       | 10  13-12      | 19  35-15 [Apertura]
+2   Junior                  35 | 10  17-14      |  9  14-10      | 19  31-24 [Apertura]
+3   Deportivo Pasto         34 | 10  14-8       |  9  15-17      | 19  29-25 [Apertura]
+4   America de Cali         33 |  9  15-3       | 10  10-12      | 19  25-15 [Apertura]
+5   Once Caldas             33 | 10  20-13      |  9  11-9       | 19  31-22 [Apertura]
+6   Deportes Tolima         31 | 10  19-7       |  9   8-10      | 19  27-17 [Apertura]
+7   Santa Fe                29 |  9  17-10      | 10  12-12      | 19  29-22 [Apertura]
+8   Internacional de Bogot  28 |  9  16-9       | 10  10-17      | 19  26-26 [Apertura]
+9   Deportivo Cali          27 | 10  12-6       |  9   8-10      | 19  20-16 [Apertura]
+10  Millonarios             26 | 10  19-7       |  9  12-16      | 19  31-23 [Apertura]
+11  Independiente Medellin  26 | 10  15-13      |  9  11-11      | 19  26-24 [Apertura]
+12  Águilas Doradas         26 | 10  12-14      |  9   8-11      | 19  20-25 [Apertura]
+13  Bucaramanga             23 |  9  19-6       | 10   7-14      | 19  26-20 [Apertura]
+14  Llaneros                22 |  9  10-9       | 10   7-11      | 19  17-20 [Apertura]
+15  Fortaleza FC            22 | 10  14-10      |  9   8-17      | 19  22-27 [Apertura]
+16  Jaguares                18 | 10  14-12      |  9   6-21      | 19  20-33 [Apertura]
+17  Alianza Valledupar      17 |  9   7-9       | 10   6-18      | 19  13-27 [Apertura]
+18  Chico                   17 |  9  13-5       | 10   2-27      | 19  15-32 [Apertura]
+19  Cucuta                  16 |  9  12-13      | 10  10-22      | 19  22-35 [Apertura]
+20  Deportivo Pereira       10 |  9   9-13      | 10   6-19      | 19  15-32 [Apertura]
+1   America de Cali         31 |  8  20-6       |  7   9-5       | 15  29-11 [Clausura]
+2   Atletico Nacional       29 |  6  11-3       |  8  17-9       | 14  28-12 [Clausura]
+3   Deportivo Cali          29 |  7  13-4       |  8  10-5       | 15  23-9 [Clausura]
+4   Millonarios             26 |  7  11-4       |  9  13-10      | 16  24-14 [Clausura]
+5   Bucaramanga             25 |  7  11-7       |  7  11-6       | 14  22-13 [Clausura]
+6   Santa Fe                25 |  8  12-8       |  6   9-6       | 14  21-14 [Clausura]
+7   Independiente Medellin  23 |  8  10-10      |  6  11-9       | 14  21-19 [Clausura]
+8   Once Caldas             21 |  7  10-8       |  9  10-10      | 16  20-18 [Clausura]
+9   Cucuta                  21 |  7  12-6       |  8   6-16      | 15  18-22 [Clausura]
+10  Deportes Tolima         20 |  7   9-7       |  8   9-11      | 15  18-18 [Clausura]
+11  Águilas Doradas         19 |  7  12-8       |  8   7-12      | 15  19-20 [Clausura]
+12  Internacional de Bogot  17 |  8  12-12      |  7   6-9       | 15  18-21 [Clausura]
+13  Llaneros                17 |  8   9-10      |  7   7-10      | 15  16-20 [Clausura]
+14  Junior                  15 |  8  11-9       |  7   9-14      | 15  20-23 [Clausura]
+15  Alianza Valledupar      15 |  8   9-17      |  6   6-9       | 14  15-26 [Clausura]
+16  Chico                   15 |  8  10-8       |  7   2-17      | 15  12-25 [Clausura]
+17  Deportivo Pereira       14 |  7   5-9       |  8   6-10      | 15  11-19 [Clausura]
+18  Fortaleza FC            11 |  7   8-11      |  7   7-10      | 14  15-21 [Clausura]
+19  Jaguares                10 |  7  10-12      |  7   6-16      | 14  16-28 [Clausura]
+20  Deportivo Pasto          9 |  7   3-8       |  7   6-14      | 14   9-22 [Clausura]
+
+(19 API-Football requests used)
+
+----------------------------------------------------------------------
+MATCHBOOK: skipped (switched off for this run)

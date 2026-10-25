@@ -1,4 +1,4 @@
-RUN 2026-10-25 16:30 local | 2 match(es)
-id:651 v MTK Budapest -> out/id_651_v_MTK_Budapest.txt
-Aris Thessalonikis v Atromitos -> out/Aris_Thessalonikis_v_Atromitos.txt
-Requests used: API-Football 53, Matchbook 0
+RUN 2026-10-25 17:16 local | 2 match(es)
+Dinamo Tirana v Egnatia -> out/Dinamo_Tirana_v_Egnatia.txt
+Fortaleza CEIF v Deportivo Cali -> out/Fortaleza_CEIF_v_Deportivo_Cali.txt
+Requests used: API-Football 45, Matchbook 0
