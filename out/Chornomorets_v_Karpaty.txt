@@ -1,7 +1,32 @@
-MATCH Chernomorets Odesa v Karpaty | fetched 2026-10-25 08:58 local
+MATCH Chornomorets v Karpaty | fetched 2026-10-25 08:59 local
 
-FORM DATA Chernomorets Odesa v Karpaty | source API-Football | 2026-10-25 08:58 UTC
+FORM DATA Chornomorets v Karpaty | source API-Football | 2026-10-25 08:59 UTC
 H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
+
+=== Chornomorets (id 3615): last 20 finished games ===
+2026-10-17 A 1-2 v Zorya Luhansk | Premier League | Zaporizhzhia
+2026-10-10 H 1-2 v FC Kharkiv | Premier League | Odessa | xG 0.32-2.28
+2026-09-18 H 1-1 v Obolon'-Brovar | Premier League | Odesa
+2026-09-14 A 0-2 v Shakhtar Donetsk | Premier League | Lviv
+2026-09-04 H 0-0 v Livyi Bereh | Premier League | Odesa
+2026-08-30 H 1-0 v Kryvbas KR | Premier League | Odesa
+2026-08-23 A 0-1 v Vilkhivtsi | Cup | ?
+2026-08-16 A 0-2 v LNZ Cherkasy | Premier League | Cherkasy
+2026-08-02 H 1-2 v Polessya | Premier League | Odesa
+2026-07-25 A 1-2 v Kolos Kovalivka | Friendlies Clubs | ?
+2026-07-18 H 2-1 v Nyva Vinnytsya | Friendlies Clubs | ?
+2026-07-10 H 1-0 v Inhulets | Friendlies Clubs | ?
+2026-07-04 A 0-2 v Oleksandria | Friendlies Clubs | ?
+2026-07-01 H 2-1 v Kryvbas KR | Friendlies Clubs | ?
+2026-06-01 H 1-0 v Metal Kharkiv | Persha Liga | Odesa
+2026-05-23 A 3-1 v Bukovyna | Persha Liga | Chernivtsi
+2026-05-16 H 0-0 v Livyi Bereh | Persha Liga | Odesa
+2026-05-09 A 2-2 v Chernihiv | Persha Liga | ?
+2026-05-03 H 3-0 v Prykarpattia | Persha Liga | Odesa
+2026-04-26 A 0-4 v Viktoriya Mykolaivka | Persha Liga | Sumy
+Listed home: 11 games, scored 13 (1.18), conceded 7 (0.64), blanks 2, clean sheets 6
+Listed away: 9 games, scored 7 (0.78), conceded 18 (2.00), blanks 5, clean sheets 0
+All: 20 games, scored 20 (1.00), conceded 25 (1.25), blanks 7, clean sheets 6
 
 === Karpaty (id 3617): last 20 finished games ===
 2026-10-18 H 2-2 v Epitsentr Dunayivtsi | Premier League | Lviv
@@ -28,9 +53,7 @@ Listed home: 11 games, scored 25 (2.27), conceded 10 (0.91), blanks 0, clean she
 Listed away: 9 games, scored 14 (1.56), conceded 8 (0.89), blanks 3, clean sheets 3
 All: 20 games, scored 39 (1.95), conceded 18 (0.90), blanks 3, clean sheets 7
 
-!! Chernomorets Odesa: No team found for "Chernomorets Odesa".
-
-TABLE FOR Karpaty
+TABLE FOR Chornomorets
 LEAGUE TABLE Premier League 2026 | 16 teams | 74 games played
 League averages per game: home 1.42, away 1.04, total 2.46
 #   team                   Pts | home P GF-GA  | away P GF-GA  | all P GF-GA
@@ -51,7 +74,9 @@ League averages per game: home 1.42, away 1.04, total 2.46
 15  Kudrivka                 5 |  4   6-7       |  6   5-17      | 10  11-24
 16  Kryvbas KR               5 |  4   4-10      |  3   3-3       |  7   7-13
 
-(14 API-Football requests used)
+(Karpaty: same table as Chornomorets, shown above)
+
+(25 API-Football requests used)
 
 ----------------------------------------------------------------------
 MATCHBOOK: skipped (switched off for this run)

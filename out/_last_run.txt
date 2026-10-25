@@ -1,5 +1,3 @@
-RUN 2026-10-25 08:58 local | 2 match(es)
-Chernomorets Odesa v Karpaty -> out/Chernomorets_Odesa_v_Karpaty.txt
-    !! Chernomorets Odesa: No team found for "Chernomorets Odesa".
-Fortuna Sittard v Excelsior -> out/Fortuna_Sittard_v_Excelsior.txt
-Requests used: API-Football 39, Matchbook 0
+RUN 2026-10-25 08:59 local | 1 match(es)
+Chornomorets v Karpaty -> out/Chornomorets_v_Karpaty.txt
+Requests used: API-Football 25, Matchbook 0
