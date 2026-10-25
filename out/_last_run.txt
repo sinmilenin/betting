@@ -1,20 +1,10 @@
-RUN 2026-10-25 09:42 local | 8 match(es)
-Altay v Elimai -> out/Altay_v_Elimai.txt
-    !! Altay: Ambiguous team name "Altay".
-    !! Elimai: No team found for "Elimai".
-Crystal Palace W v Chelsea W -> out/Crystal_Palace_W_v_Chelsea_W.txt
-Norrby v Norrkoping -> out/Norrby_v_Norrkoping.txt
-    !! Norrkoping: Ambiguous team name "Norrkoping".
-Jaro v PK-35 -> out/Jaro_v_PK_35.txt
-    !! Jaro: Ambiguous team name "Jaro".
-    !! PK-35: API-Football error: {"search": "The Search field may only contain alpha-numeric characters and spaces."}
-Jelgava v Daugavpils -> out/Jelgava_v_Daugavpils.txt
-    !! Daugavpils: Ambiguous team name "Daugavpils".
-Braunschweig v Hannover -> out/Braunschweig_v_Hannover.txt
-    !! Braunschweig: Ambiguous team name "Braunschweig".
-    !! Hannover: Ambiguous team name "Hannover".
-Osnabruck v Greuther Furth -> out/Osnabruck_v_Greuther_Furth.txt
-    !! Osnabruck: Ambiguous team name "Osnabruck".
-    !! Greuther Furth: Ambiguous team name "Greuther Furth".
-Genk v Standard Liege -> out/Genk_v_Standard_Liege.txt
-Requests used: API-Football 90, Matchbook 0
+RUN 2026-10-25 09:44 local | 6 match(es)
+id:4544 v Elimay -> out/id_4544_v_Elimay.txt
+    !! Elimay: Ambiguous team name "Elimay".
+Norrby v id:378 -> out/Norrby_v_id_378.txt
+FK Jelgava v id:4149 -> out/FK_Jelgava_v_id_4149.txt
+id:744 v id:166 -> out/id_744_v_id_166.txt
+id:1324 v id:178 -> out/id_1324_v_id_178.txt
+id:2075 v PK 35 -> out/id_2075_v_PK_35.txt
+    !! PK 35: No team found for "PK 35".
+Requests used: API-Football 118, Matchbook 0

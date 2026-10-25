@@ -1,0 +1,65 @@
+MATCH id:2075 v PK 35 | fetched 2026-10-25 09:44 local
+
+FORM DATA id:2075 v PK 35 | source API-Football | 2026-10-25 09:44 UTC
+H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
+
+=== FF Jaro (id 2075): last 20 finished games ===
+2026-10-21 A 1-1 v PK-35 | Veikkausliiga | Helsinki | xG 1.31-0.68
+2026-10-17 H 1-1 v Mariehamn | Veikkausliiga | Pietarsaari | xG 1.30-1.03
+2026-10-10 A 1-0 v Turku PS | Veikkausliiga | Turku | xG 2.35-3.07
+2026-09-18 A 1-1 v Lahti | Veikkausliiga | Lahti
+2026-09-12 H 1-1 v SJK | Veikkausliiga | Jakobstad
+2026-09-08 A 0-2 v Ilves | Veikkausliiga | Tampere
+2026-08-31 A 0-2 v Mariehamn | Veikkausliiga | Mariehamn
+2026-08-22 H 0-1 v AC Oulu | Veikkausliiga | Pietarsaari
+2026-08-16 A 0-3 v HJK Helsinki | Veikkausliiga | Helsinki
+2026-08-08 H 1-3 v VPS | Veikkausliiga | Jakobstad
+2026-08-01 A 0-2 v Lahti | Veikkausliiga | Lahti
+2026-07-24 H 2-1 v SJK | Veikkausliiga | Jakobstad
+2026-07-19 H 0-0 v Inter Turku | Veikkausliiga | Jakobstad
+2026-07-04 H 2-1 v Ilves | Veikkausliiga | Pietarsaari
+2026-06-27 A 2-3 v Turku PS | Veikkausliiga | Turku
+2026-06-23 H 1-1 v Gnistan | Veikkausliiga | Pietarsaari
+2026-06-17 A 0-5 v Ilves | Veikkausliiga | Tampere
+2026-06-13 H 2-5 v HJK Helsinki | Veikkausliiga | Jakobstad
+2026-05-31 A 1-2 v AC Oulu | Veikkausliiga | Oulu
+2026-05-23 H 3-0 v Mariehamn | Veikkausliiga | Jakobstad
+Listed home: 10 games, scored 13 (1.30), conceded 14 (1.40), blanks 2, clean sheets 2
+Listed away: 10 games, scored 6 (0.60), conceded 21 (2.10), blanks 5, clean sheets 1
+All: 20 games, scored 19 (0.95), conceded 35 (1.75), blanks 7, clean sheets 3
+
+!! PK 35: No team found for "PK 35".
+
+TABLE FOR FF Jaro
+LEAGUE TABLE Veikkausliiga 2026 | 24 teams | 167 games played
+League averages per game: home 1.45, away 1.08, total 2.53
+#   team                   Pts | home P GF-GA  | away P GF-GA  | all P GF-GA
+1   KuPS                    43 | 11  21-14      | 11  17-9       | 22  38-23 [Veikkausliiga]
+2   Inter Turku             42 | 11  11-6       | 11  18-10      | 22  29-16 [Veikkausliiga]
+3   HJK Helsinki            37 | 11  18-14      | 11  18-13      | 22  36-27 [Veikkausliiga]
+4   Gnistan                 36 | 11  21-17      | 11  15-12      | 22  36-29 [Veikkausliiga]
+5   AC Oulu                 34 | 11  12-9       | 11  13-16      | 22  25-25 [Veikkausliiga]
+6   VPS                     33 | 11  18-11      | 11  11-11      | 22  29-22 [Veikkausliiga]
+7   Lahti                   32 | 11  17-10      | 11   9-9       | 22  26-19 [Veikkausliiga]
+8   Turku PS                31 | 11  18-9       | 11  10-14      | 22  28-23 [Veikkausliiga]
+9   Ilves                   25 | 11  17-11      | 11  17-26      | 22  34-37 [Veikkausliiga]
+10  SJK                     19 | 11  16-15      | 11   9-18      | 22  25-33 [Veikkausliiga]
+11  FF Jaro                 15 | 11  14-16      | 11   4-28      | 22  18-44 [Veikkausliiga]
+12  Mariehamn               14 | 11   9-17      | 11   8-26      | 22  17-43 [Veikkausliiga]
+1   Inter Turku             55 |  3   3-2       |  4   3-2       | 29  35-20 [Champion Group]
+2   HJK Helsinki            51 |  3  12-1       |  3   5-4       | 28  53-32 [Champion Group]
+3   KuPS                    51 |  3   2-1       |  3   3-2       | 28  43-26 [Champion Group]
+4   AC Oulu                 43 |  3   4-7       |  4   7-5       | 29  36-37 [Champion Group]
+5   Gnistan                 42 |  4   5-6       |  3   2-6       | 29  43-41 [Champion Group]
+6   VPS                     39 |  4   2-3       |  3   0-9       | 29  31-34 [Champion Group]
+1   Lahti                   39 |  3   8-3       |  2   1-4       | 27  35-26 [Relegration Group]
+2   Ilves                   38 |  3   7-1       |  2   4-1       | 27  45-39 [Relegration Group]
+3   Turku PS                32 |  3   0-4       |  2   1-6       | 27  29-33 [Relegration Group]
+4   SJK                     27 |  2   3-1       |  3   1-3       | 27  29-37 [Relegration Group]
+5   FF Jaro                 21 |  2   2-2       |  3   2-3       | 27  22-49 [Relegration Group]
+6   Mariehamn               19 |  2   2-1       |  3   3-5       | 27  22-49 [Relegration Group]
+
+(14 API-Football requests used)
+
+----------------------------------------------------------------------
+MATCHBOOK: skipped (switched off for this run)
