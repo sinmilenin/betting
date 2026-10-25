@@ -1,9 +1,4 @@
-# Scan 2026-10-25 15:11 (Ljubljana) run 1
-AC Horsens v SonderjyskE | n=20 | xg=10
-Cadiz v AD Ceuta | n=20 | xg=10
-Sion v Lausanne | n=20 | xg=10
-Sarpsborg v Aalesund | n=20 | xg=10
-Comerciantes Unidos v Cienciano | n=20 | xg=10
-Leones del Norte v Libertad | n=20 | xg=10
-Lecco v Caratese | n=20 | xg=10
-CFR Cluj v Dinamo Bucuresti | n=20 | xg=10
+# Scan 2026-10-25 15:11 (Ljubljana) run 2: team name/id fix
+id:630 v id:1014 | n=20 | xg=10
+Sarpsborg 08 FF v Aalesund | n=20 | xg=10
+CFR 1907 Cluj v Dinamo Bucuresti | n=20 | xg=10
