@@ -1,0 +1,57 @@
+MATCH Guangdong GZ-Power v Suzhou Dongwu | fetched 2026-10-25 10:28 local
+
+FORM DATA Guangdong GZ-Power v Suzhou Dongwu | source API-Football | 2026-10-25 10:28 UTC
+H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
+
+=== Suzhou Dongwu (id 5688): last 20 finished games ===
+2026-10-17 A 1-1 v Ningbo Professional | League One | Ningbo
+2026-10-10 H 0-0 v Hebei Kungfu | League One | Suzhou
+2026-10-06 A 2-2 v Wuxi Wugou | League One | Wuxi
+2026-09-19 A 2-2 v Shaanxi Union | League One | Weinan
+2026-09-12 H 3-2 v Dongguan United | League One | Suzhou
+2026-09-06 H 2-0 v Nanjing City | League One | Suzhou
+2026-08-29 A 4-3 v Heilongjiang Lava Spring | League One | Dingnan
+2026-08-22 A 3-3 v Guangxi Hengchen | League One | Nanning
+2026-08-16 H 0-0 v Nantong Zhiyun | League One | Suzhou
+2026-08-08 H 2-1 v Changchun Yatai | League One | Suzhou
+2026-08-02 H 1-0 v Meizhou Kejia | League One | Suzhou
+2026-07-26 A 0-0 v Dalian Huayi | League One | Dalian
+2026-07-17 H 0-0 v Shenzhen Juniors | League One | Suzhou
+2026-07-11 A 1-3 v Yanbian Longding | League One | Yanji
+2026-07-04 H 2-2 v Guangzhou E-Power | League One | Suzhou
+2026-06-28 H 1-2 v Ningbo Professional | League One | Suzhou
+2026-06-21 H 2-4 v Yunnan Yukun | FA Cup | Suzhou
+2026-06-14 A 1-1 v Hebei Kungfu | League One | Shijiazhuang
+2026-05-30 H 1-3 v Wuxi Wugou | League One | Suzhou
+2026-05-24 H 0-3 v Shaanxi Union | League One | Suzhou
+Listed home: 12 games, scored 14 (1.17), conceded 17 (1.42), blanks 4, clean sheets 5
+Listed away: 8 games, scored 14 (1.75), conceded 15 (1.88), blanks 1, clean sheets 1
+All: 20 games, scored 28 (1.40), conceded 32 (1.60), blanks 5, clean sheets 6
+
+!! Guangdong GZ-Power: API-Football error: {"search": "The Search field may only contain alpha-numeric characters and spaces."}
+
+TABLE FOR Suzhou Dongwu
+LEAGUE TABLE League One 2026 | 16 teams | 221 games played
+League averages per game: home 1.45, away 1.26, total 2.71
+#   team                   Pts | home P GF-GA  | away P GF-GA  | all P GF-GA
+1   Guangzhou E-Power       60 | 13  26-9       | 14  29-17      | 27  55-26
+2   Nantong Zhiyun          54 | 14  23-8       | 14  14-12      | 28  37-20
+3   Guangxi Hengchen        47 | 14  26-17      | 14  19-16      | 28  45-33
+4   Shenzhen Juniors        46 | 14  20-15      | 14  22-17      | 28  42-32
+5   Shaanxi Union           45 | 14  32-9       | 13  19-19      | 27  51-28
+6   Hebei Kungfu            40 | 14  14-13      | 14  15-15      | 28  29-28
+7   Yanbian Longding        39 | 14  22-12      | 13  17-17      | 27  39-29
+8   Wuxi Wugou              36 | 13  16-16      | 14  25-17      | 27  41-33
+9   Changchun Yatai         35 | 14  26-20      | 14  19-25      | 28  45-45
+10  Dalian Huayi            34 | 14  24-18      | 14  11-23      | 28  35-41
+11  Ningbo Professional     31 | 14  18-20      | 14  12-15      | 28  30-35
+12  Suzhou Dongwu           28 | 14  14-19      | 13  17-20      | 27  31-39
+13  Nanjing City            28 | 14  14-19      | 14  13-20      | 28  27-39
+14  Heilongjiang Lava Spri  27 | 13  18-22      | 14  20-27      | 27  38-49
+15  Meizhou Kejia           16 | 14  16-33      | 14  10-25      | 28  26-58
+16  Dongguan United         16 | 14  11-29      | 14  17-35      | 28  28-64
+
+(14 API-Football requests used)
+
+----------------------------------------------------------------------
+MATCHBOOK: skipped (switched off for this run)

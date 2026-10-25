@@ -1,6 +1,13 @@
-RUN 2026-10-25 09:45 local | 3 match(es)
-id:4544 v id:21011 -> out/id_4544_v_id_21011.txt
-FS Jelgava v id:4149 -> out/FS_Jelgava_v_id_4149.txt
-id:2075 v PK35 -> out/id_2075_v_PK35.txt
-    !! PK35: No team found for "PK35".
-Requests used: API-Football 64, Matchbook 0
+RUN 2026-10-25 10:28 local | 7 match(es)
+AVS v Tondela -> out/AVS_v_Tondela.txt
+Bukovyna v Kryvbas -> out/Bukovyna_v_Kryvbas.txt
+Guangdong GZ-Power v Suzhou Dongwu -> out/Guangdong_GZ_Power_v_Suzhou_Dongwu.txt
+    !! Guangdong GZ-Power: API-Football error: {"search": "The Search field may only contain alpha-numeric characters and spaces."}
+Thun v Lugano -> out/Thun_v_Lugano.txt
+    !! Thun: Ambiguous team name "Thun".
+GAIS v IFK Goteborg -> out/GAIS_v_IFK_Goteborg.txt
+Midtjylland v Lyngby -> out/Midtjylland_v_Lyngby.txt
+    !! Midtjylland: Ambiguous team name "Midtjylland".
+HJK v KuPS -> out/HJK_v_KuPS.txt
+    !! HJK: Ambiguous team name "HJK".
+Requests used: API-Football 136, Matchbook 0
