@@ -1,6 +1,6 @@
-MATCH Los Angeles FC v LA Galaxy | fetched 2026-10-25 19:58 local
+MATCH Los Angeles FC v Los Angeles Galaxy | fetched 2026-10-25 19:59 local
 
-FORM DATA Los Angeles FC v LA Galaxy | source API-Football | 2026-10-25 19:58 UTC
+FORM DATA Los Angeles FC v Los Angeles Galaxy | source API-Football | 2026-10-25 19:59 UTC
 H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
 
 === Los Angeles FC (id 1616): last 20 finished games ===
@@ -28,7 +28,30 @@ Listed home: 10 games, scored 19 (1.90), conceded 7 (0.70), blanks 1, clean shee
 Listed away: 10 games, scored 11 (1.10), conceded 11 (1.10), blanks 3, clean sheets 3
 All: 20 games, scored 30 (1.50), conceded 18 (0.90), blanks 4, clean sheets 6
 
-!! LA Galaxy: No team found for "LA Galaxy".
+=== Los Angeles Galaxy (id 1605): last 20 finished games ===
+2026-10-18 H 2-2 v San Diego | Major League Soccer | Los Angeles | xG 0.55-2.07
+2026-10-15 H 2-0 v Portland Timbers | Major League Soccer | Los Angeles | xG 1.77-0.70
+2026-10-11 A 2-6 v St. Louis City | Major League Soccer | Saint Louis | xG 1.96-2.61
+2026-09-27 H 3-2 v Colorado Rapids | Major League Soccer | Los Angeles
+2026-09-20 A 3-2 v Minnesota United FC | Major League Soccer | Saint Paul | xG 1.59-1.88
+2026-09-13 H 1-1 v Seattle Sounders | Major League Soccer | Carson | xG 2.48-2.20
+2026-09-10 A 0-3 v Vancouver Whitecaps | Major League Soccer | Vancouver | xG 0.66-2.37
+2026-09-06 H 2-1 v New England Revolution | Major League Soccer | Carson | xG 1.47-2.64
+2026-08-30 A 1-3 v San Diego | Major League Soccer | San Diego | xG 0.84-2.76
+2026-08-22 A 2-2 v CF Montreal | Major League Soccer | Montréal | xG 1.22-1.81
+2026-08-20 H 1-0 v San Jose Earthquakes | Major League Soccer | Carson
+2026-08-16 A 0-1 v Houston Dynamo | Major League Soccer | Houston
+2026-08-02 H 0-0 v FC Dallas | Major League Soccer | Carson
+2026-07-26 A 1-1 v San Jose Earthquakes | Major League Soccer | Stanford
+2026-07-23 H 1-3 v St. Louis City | Major League Soccer | Carson
+2026-07-18 H 0-3 v Los Angeles FC | Major League Soccer | Carson
+2026-07-12 H 1-0 v Club America | Friendlies Clubs | ?
+2026-07-03 H 0-3 v El Salvador | Friendlies | ?
+2026-05-24 H 1-1 v Houston Dynamo | Major League Soccer | Los Angeles
+2026-05-17 A 2-0 v Seattle Sounders | Major League Soccer | Seattle
+Listed home: 12 games, scored 14 (1.17), conceded 16 (1.33), blanks 3, clean sheets 4
+Listed away: 8 games, scored 11 (1.38), conceded 18 (2.25), blanks 2, clean sheets 1
+All: 20 games, scored 25 (1.25), conceded 34 (1.70), blanks 5, clean sheets 5
 
 TABLE FOR Los Angeles FC
 LEAGUE TABLE Major League Soccer 2026 | 30 teams | 465 games played
@@ -65,7 +88,9 @@ League averages per game: home 1.83, away 1.41, total 3.24
 14  Atlanta United FC       30 | 16  23-32      | 15  16-22      | 31  39-54 [Eastern Conference]
 15  CF Montreal             25 | 16  19-23      | 15  17-39      | 31  36-62 [Eastern Conference]
 
-(14 API-Football requests used)
+(Los Angeles Galaxy: same table as Los Angeles FC, shown above)
+
+(25 API-Football requests used)
 
 ----------------------------------------------------------------------
 MATCHBOOK: skipped (switched off for this run)
