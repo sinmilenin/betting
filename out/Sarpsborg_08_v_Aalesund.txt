@@ -1,0 +1,49 @@
+MATCH Sarpsborg 08 v Aalesund | fetched 2026-10-25 19:06 local
+
+FORM DATA Sarpsborg 08 v Aalesund | source API-Football | 2026-10-25 19:06 UTC
+H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
+
+"Sarpsborg 08" matches several teams. Use id:<number> instead of the name:
+  id:333    Sarpsborg 08 FF (Norway)
+  id:16215  Sarpsborg 08 II (Norway)
+  id:27419  Sarpsborg 08 U19 (Norway)
+=== Aalesund (id 757): last 3 finished games ===
+2026-10-25 A 1-2 v Sarpsborg 08 FF | Eliteserien | Sarpsberg
+2026-10-17 A 4-1 v Kristiansund BK | Eliteserien | Kristiansand
+2026-10-11 H 2-4 v Sarpsborg 08 FF | Eliteserien | Ålesund
+Listed home: 1 games, scored 2 (2.00), conceded 4 (4.00), blanks 0, clean sheets 0
+Listed away: 2 games, scored 5 (2.50), conceded 3 (1.50), blanks 0, clean sheets 0
+All: 3 games, scored 7 (2.33), conceded 7 (2.33), blanks 0, clean sheets 0
+
+(retrying Sarpsborg 08 using the opponent's country, Norway)
+"Sarpsborg 08" matches several teams. Use id:<number> instead of the name:
+  id:333    Sarpsborg 08 FF (Norway)
+  id:16215  Sarpsborg 08 II (Norway)
+  id:27419  Sarpsborg 08 U19 (Norway)
+!! Sarpsborg 08: Ambiguous team name "Sarpsborg 08".
+
+TABLE FOR Aalesund
+LEAGUE TABLE Eliteserien 2026 | 16 teams | 191 games played
+League averages per game: home 1.82, away 1.38, total 3.20
+#   team                   Pts | home P GF-GA  | away P GF-GA  | all P GF-GA
+1   Viking                  59 | 12  44-13      | 12  18-10      | 24  62-23
+2   Bodo/Glimt              56 | 12  34-8       | 12  24-13      | 24  58-21
+3   Molde                   40 | 12  30-14      | 11  22-21      | 23  52-35
+4   Rosenborg               40 | 12  28-14      | 12  18-17      | 24  46-31
+5   Tromso                  40 | 12  22-10      | 12  21-24      | 24  43-34
+6   Lillestrom              39 | 12  22-19      | 12  13-14      | 24  35-33
+7   Sarpsborg 08 FF         31 | 12  14-16      | 12  16-19      | 24  30-35
+8   KFUM Oslo               30 | 12  15-14      | 12  15-25      | 24  30-39
+9   Brann                   29 | 12  20-18      | 12  22-22      | 24  42-40
+10  Valerenga               29 | 12  23-20      | 12  16-26      | 24  39-46
+11  Fredrikstad             29 | 11  14-12      | 12  14-24      | 23  28-36
+12  Ham-Kam                 26 | 12  17-24      | 12  16-27      | 24  33-51
+13  Sandefjord              24 | 12  10-12      | 12  12-19      | 24  22-31
+14  Aalesund                24 | 12  24-30      | 12  16-23      | 24  40-53
+15  Kristiansund BK         20 | 12  16-20      | 12   9-29      | 24  25-49
+16  Start                   19 | 12  15-19      | 12  11-35      | 24  26-54
+
+(4 API-Football requests used)
+
+----------------------------------------------------------------------
+MATCHBOOK: skipped (switched off for this run)
