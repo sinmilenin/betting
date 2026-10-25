@@ -1,6 +1,6 @@
-MATCH id:569 v St. Truiden | fetched 2026-10-25 12:48 local
+MATCH id:569 v St Truiden | fetched 2026-10-25 12:49 local
 
-FORM DATA id:569 v St. Truiden | source API-Football | 2026-10-25 12:48 UTC
+FORM DATA id:569 v St Truiden | source API-Football | 2026-10-25 12:49 UTC
 H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
 
 === Club Brugge KV (id 569): last 20 finished games ===
@@ -28,7 +28,7 @@ Listed home: 12 games, scored 33 (2.75), conceded 10 (0.83), blanks 0, clean she
 Listed away: 8 games, scored 17 (2.12), conceded 13 (1.62), blanks 0, clean sheets 2
 All: 20 games, scored 50 (2.50), conceded 23 (1.15), blanks 0, clean sheets 9
 
-!! St. Truiden: API-Football error: {"search": "The Search field may only contain alpha-numeric characters and spaces."}
+!! St Truiden: No team found for "St Truiden".
 
 TABLE FOR Club Brugge KV
 LEAGUE TABLE UEFA Champions League 2026 | 36 teams | 54 games played

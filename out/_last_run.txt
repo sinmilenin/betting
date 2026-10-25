@@ -1,6 +1,4 @@
-RUN 2026-10-25 12:48 local | 3 match(es)
-Sturm Graz v Ried -> out/Sturm_Graz_v_Ried.txt
-id:569 v St. Truiden -> out/id_569_v_St_Truiden.txt
-    !! St. Truiden: API-Football error: {"search": "The Search field may only contain alpha-numeric characters and spaces."}
-Mjallby v id:363 -> out/Mjallby_v_id_363.txt
-Requests used: API-Football 66, Matchbook 0
+RUN 2026-10-25 12:49 local | 1 match(es)
+id:569 v St Truiden -> out/id_569_v_St_Truiden.txt
+    !! St Truiden: No team found for "St Truiden".
+Requests used: API-Football 14, Matchbook 0
