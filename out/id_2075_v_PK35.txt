@@ -1,6 +1,6 @@
-MATCH id:2075 v PK 35 | fetched 2026-10-25 09:44 local
+MATCH id:2075 v PK35 | fetched 2026-10-25 09:45 local
 
-FORM DATA id:2075 v PK 35 | source API-Football | 2026-10-25 09:44 UTC
+FORM DATA id:2075 v PK35 | source API-Football | 2026-10-25 09:45 UTC
 H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
 
 === FF Jaro (id 2075): last 20 finished games ===
@@ -28,7 +28,7 @@ Listed home: 10 games, scored 13 (1.30), conceded 14 (1.40), blanks 2, clean she
 Listed away: 10 games, scored 6 (0.60), conceded 21 (2.10), blanks 5, clean sheets 1
 All: 20 games, scored 19 (0.95), conceded 35 (1.75), blanks 7, clean sheets 3
 
-!! PK 35: No team found for "PK 35".
+!! PK35: No team found for "PK35".
 
 TABLE FOR FF Jaro
 LEAGUE TABLE Veikkausliiga 2026 | 24 teams | 167 games played

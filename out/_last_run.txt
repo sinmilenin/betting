@@ -1,10 +1,6 @@
-RUN 2026-10-25 09:44 local | 6 match(es)
-id:4544 v Elimay -> out/id_4544_v_Elimay.txt
-    !! Elimay: Ambiguous team name "Elimay".
-Norrby v id:378 -> out/Norrby_v_id_378.txt
-FK Jelgava v id:4149 -> out/FK_Jelgava_v_id_4149.txt
-id:744 v id:166 -> out/id_744_v_id_166.txt
-id:1324 v id:178 -> out/id_1324_v_id_178.txt
-id:2075 v PK 35 -> out/id_2075_v_PK_35.txt
-    !! PK 35: No team found for "PK 35".
-Requests used: API-Football 118, Matchbook 0
+RUN 2026-10-25 09:45 local | 3 match(es)
+id:4544 v id:21011 -> out/id_4544_v_id_21011.txt
+FS Jelgava v id:4149 -> out/FS_Jelgava_v_id_4149.txt
+id:2075 v PK35 -> out/id_2075_v_PK35.txt
+    !! PK35: No team found for "PK35".
+Requests used: API-Football 64, Matchbook 0

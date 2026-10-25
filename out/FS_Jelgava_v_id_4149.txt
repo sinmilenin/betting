@@ -1,12 +1,32 @@
-MATCH FK Jelgava v id:4149 | fetched 2026-10-25 09:44 local
+MATCH FS Jelgava v id:4149 | fetched 2026-10-25 09:45 local
 
-FORM DATA FK Jelgava v id:4149 | source API-Football | 2026-10-25 09:44 UTC
+FORM DATA FS Jelgava v id:4149 | source API-Football | 2026-10-25 09:45 UTC
 H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
 
-=== FK jelgava (id 690): last 0 finished games ===
-Listed home: no games
-Listed away: no games
-All: no games
+=== FS Jelgava (id 18834): last 20 finished games ===
+2026-10-18 A 0-3 v FK Liepaja | Virsliga | Liepaja
+2026-10-11 A 2-4 v Rīgas FS | Virsliga | Oslo
+2026-09-19 H 0-1 v Riga | Virsliga | Jelgava
+2026-09-12 A 0-0 v Grobiņa | Virsliga | Grobina
+2026-09-05 H 0-1 v Super Nova | Virsliga | Jelgava
+2026-08-29 A 4-1 v Tukums | Virsliga | Tukums
+2026-08-22 A 3-2 v Ogre United | Virsliga | Ogre
+2026-08-09 H 0-1 v Auda | Virsliga | Jelgava
+2026-08-01 A 1-2 v BFC Daugavpils | Virsliga | Daugavpils
+2026-07-26 H 0-2 v FK Liepaja | Virsliga | Jelgava
+2026-07-20 H 0-1 v Rīgas FS | Virsliga | Jelgava
+2026-07-12 A 0-2 v Rīgas FS | Cup | Riga
+2026-07-03 A 0-3 v Riga | Virsliga | Riga
+2026-06-29 H 2-0 v Grobiņa | Virsliga | Jelgava
+2026-06-25 A 5-1 v Super Nova | Virsliga | Riga
+2026-06-21 H 4-1 v Tukums | Virsliga | Jelgava
+2026-06-17 H 0-2 v Ogre United | Virsliga | Jelgava
+2026-06-13 A 1-1 v Auda | Virsliga | Riga
+2026-05-31 H 1-1 v BFC Daugavpils | Virsliga | Jelgava
+2026-05-26 H 1-1 v FK Liepaja | Virsliga | Jelgava
+Listed home: 10 games, scored 8 (0.80), conceded 11 (1.10), blanks 6, clean sheets 1
+Listed away: 10 games, scored 16 (1.60), conceded 19 (1.90), blanks 4, clean sheets 1
+All: 20 games, scored 24 (1.20), conceded 30 (1.50), blanks 10, clean sheets 2
 
 === BFC Daugavpils (id 4149): last 20 finished games ===
 2026-10-19 H 2-1 v Auda | Virsliga | Daugavpils | xG 1.08-2.53
@@ -33,9 +53,7 @@ Listed home: 10 games, scored 16 (1.60), conceded 8 (0.80), blanks 2, clean shee
 Listed away: 10 games, scored 12 (1.20), conceded 11 (1.10), blanks 4, clean sheets 3
 All: 20 games, scored 28 (1.40), conceded 19 (0.95), blanks 6, clean sheets 7
 
-(no league table available for FK jelgava: tried no competitions)
-
-TABLE FOR BFC Daugavpils
+TABLE FOR FS Jelgava
 LEAGUE TABLE Virsliga 2026 | 10 teams | 166 games played
 League averages per game: home 1.63, away 1.24, total 2.87
 #   team                   Pts | home P GF-GA  | away P GF-GA  | all P GF-GA
@@ -50,7 +68,9 @@ League averages per game: home 1.63, away 1.24, total 2.87
 9   Tukums                  25 | 17  28-26      | 17  16-39      | 34  44-65
 10  Ogre United             18 | 16  18-32      | 17  15-49      | 33  33-81
 
-(15 API-Football requests used)
+(BFC Daugavpils: same table as FS Jelgava, shown above)
+
+(25 API-Football requests used)
 
 ----------------------------------------------------------------------
 MATCHBOOK: skipped (switched off for this run)
