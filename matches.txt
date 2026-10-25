@@ -1,10 +1,4 @@
-# Scan 2026-10-25 12:12 (Ljubljana) run 1
-Viking v Tromso | n=20 | xg=10
-PSV Eindhoven v Feyenoord | n=20 | xg=10
-NEC Nijmegen v Groningen | n=20 | xg=10
-Sparta Praha v Slovacko | n=20 | xg=10
-Motherwell v Hearts | n=20 | xg=10
-Helsingborg v Ljungskile | n=20 | xg=10
-Olympiakos Piraeus v Kalamata | n=20 | xg=10
-Garudayaksa v Persib Bandung | n=20 | xg=10
-Palermo v Carrarese | n=20 | xg=10
+# Scan 2026-10-25 12:12 (Ljubljana) run 2 (team name fixes + Hradec/Jablonec)
+Sparta Praha v FC Slovacko | n=20 | xg=10
+Motherwell v Heart Of Midlothian | n=20 | xg=10
+Hradec Kralove v Jablonec | n=20 | xg=10
