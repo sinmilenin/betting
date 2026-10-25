@@ -1,16 +1,5 @@
 [
   {
-    "id": "2026-10-25_inter-fiorentina_3-0",
-    "date": "2026-10-25",
-    "ko": "12:30",
-    "match": "Inter v Fiorentina",
-    "comp": "Italy, Italian Serie A",
-    "cell": "3-0",
-    "lay": 12.5,
-    "stake": 3,
-    "created": "2026-10-25T07:49:45+01:00"
-  },
-  {
     "id": "2026-10-25_genoa-venezia_1-0",
     "date": "2026-10-25",
     "ko": "15:00",
@@ -75,17 +64,6 @@
     "lay": 16.0,
     "stake": 3,
     "created": "2026-10-25T11:34:31+01:00"
-  },
-  {
-    "id": "2026-10-25_hradec-kralove-fk-jablonec_2-2",
-    "date": "2026-10-25",
-    "ko": "13:00",
-    "match": "Hradec Kralove v FK Jablonec",
-    "comp": "Czech Republic, Czech 1 Liga",
-    "cell": "2-2",
-    "lay": 17,
-    "stake": 3,
-    "created": "2026-10-25T12:21:11+01:00"
   },
   {
     "id": "2026-10-25_helsingborgs-ljungskile_2-2",
@@ -471,5 +449,16 @@
     "lay": 20,
     "stake": 3,
     "created": "2026-10-25T18:21:01+01:00"
+  },
+  {
+    "id": "2026-10-25_palestino-colo-colo_0-3",
+    "date": "2026-10-25",
+    "ko": "21:30",
+    "match": "Palestino v Colo Colo",
+    "comp": "Chile, Chilean Primera Division",
+    "cell": "0-3",
+    "lay": 20,
+    "stake": 3,
+    "created": "2026-10-25T19:04:10+01:00"
   }
 ]
