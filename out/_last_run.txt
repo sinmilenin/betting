@@ -1,13 +1,6 @@
-RUN 2026-10-25 12:45 local | 7 match(es)
-Haugesund v Hodd -> out/Haugesund_v_Hodd.txt
-Sturm Graz v SV Ried -> out/Sturm_Graz_v_SV_Ried.txt
-    !! SV Ried: No team found for "SV Ried".
-Club Brugge v Sint Truiden -> out/Club_Brugge_v_Sint_Truiden.txt
-    !! Club Brugge: Ambiguous team name "Club Brugge".
-    !! Sint Truiden: No team found for "Sint Truiden".
-Albacete v Eldense -> out/Albacete_v_Eldense.txt
-Estoril v Moreirense -> out/Estoril_v_Moreirense.txt
-Mjallby v Hammarby -> out/Mjallby_v_Hammarby.txt
-    !! Hammarby: Ambiguous team name "Hammarby".
-FC Basel v Grasshoppers -> out/FC_Basel_v_Grasshoppers.txt
-Requests used: API-Football 133, Matchbook 0
+RUN 2026-10-25 12:48 local | 3 match(es)
+Sturm Graz v Ried -> out/Sturm_Graz_v_Ried.txt
+id:569 v St. Truiden -> out/id_569_v_St_Truiden.txt
+    !! St. Truiden: API-Football error: {"search": "The Search field may only contain alpha-numeric characters and spaces."}
+Mjallby v id:363 -> out/Mjallby_v_id_363.txt
+Requests used: API-Football 66, Matchbook 0
