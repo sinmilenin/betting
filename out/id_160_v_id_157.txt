@@ -1,0 +1,50 @@
+MATCH id:160 v id:157 | fetched 2026-10-25 19:08 local
+
+FORM DATA id:160 v id:157 | source API-Football | 2026-10-25 19:08 UTC
+H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
+
+=== SC Freiburg (id 160): last 3 finished games ===
+2026-10-25 H 1-3 v Bayern München | Bundesliga | Freiburg
+2026-10-22 A 0-3 v Monaco | UEFA Europa Conference League | Fontvieille
+2026-10-18 A 1-2 v Bayer Leverkusen | Bundesliga | Bayer Leverkusen
+Listed home: 1 games, scored 1 (1.00), conceded 3 (3.00), blanks 0, clean sheets 0
+Listed away: 2 games, scored 1 (0.50), conceded 5 (2.50), blanks 1, clean sheets 0
+All: 3 games, scored 2 (0.67), conceded 8 (2.67), blanks 1, clean sheets 0
+
+=== Bayern München (id 157): last 3 finished games ===
+2026-10-25 A 3-1 v SC Freiburg | Bundesliga | Freiburg
+2026-10-21 H 2-2 v Arsenal | UEFA Champions League | Munich
+2026-10-17 H 6-1 v RB Leipzig | Bundesliga | Munich
+Listed home: 2 games, scored 8 (4.00), conceded 3 (1.50), blanks 0, clean sheets 0
+Listed away: 1 games, scored 3 (3.00), conceded 1 (1.00), blanks 0, clean sheets 0
+All: 3 games, scored 11 (3.67), conceded 4 (1.33), blanks 0, clean sheets 0
+
+TABLE FOR SC Freiburg
+LEAGUE TABLE Bundesliga 2026 | 18 teams | 62 games played
+League averages per game: home 2.21, away 1.34, total 3.55
+#   team                   Pts | home P GF-GA  | away P GF-GA  | all P GF-GA
+1   Borussia Dortmund       17 |  4   8-2       |  3   4-2       |  7  12-4
+2   Bayern München          14 |  3  18-2       |  3   4-3       |  6  22-5
+3   SC Freiburg             13 |  3  11-2       |  3   4-4       |  6  15-6
+4   Bayer Leverkusen        13 |  3   8-1       |  4   8-11      |  7  16-12
+5   RB Leipzig              12 |  4  18-0       |  3   2-11      |  7  20-11
+6   Werder Bremen           12 |  3   8-5       |  4   7-9       |  7  15-14
+7   FSV Mainz 05            10 |  4   6-10      |  3  10-3       |  7  16-13
+8   SV Elversberg           10 |  3   8-7       |  4   4-8       |  7  12-15
+9   FC Augsburg              9 |  4   8-5       |  3   9-8       |  7  17-13
+10  1899 Hoffenheim          9 |  4   9-7       |  3   5-7       |  7  14-14
+11  Hamburger SV             9 |  3   3-6       |  4   3-10      |  7   6-16
+12  1. FC Köln               8 |  4   6-4       |  3   2-7       |  7   8-11
+13  SC Paderborn 07          8 |  4   4-4       |  3   2-5       |  7   6-9
+14  Eintracht Frankfurt      8 |  3   4-6       |  4   6-11      |  7  10-17
+15  VfB Stuttgart            6 |  3   6-5       |  4   4-8       |  7  10-13
+16  FC Schalke 04            6 |  3   0-1       |  4   4-6       |  7   4-7
+17  Union Berlin             6 |  4   5-6       |  3   1-12      |  7   6-18
+18  Borussia Mönchengladba   3 |  3   7-10      |  4   4-12      |  7  11-22
+
+(Bayern München: same table as SC Freiburg, shown above)
+
+(5 API-Football requests used)
+
+----------------------------------------------------------------------
+MATCHBOOK: skipped (switched off for this run)

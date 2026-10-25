@@ -1,20 +1,6 @@
-RUN 2026-10-25 19:06 local | 11 match(es)
-Goztepe v Corum Belediyespor -> out/Goztepe_v_Corum_Belediyespor.txt
-    !! Goztepe: Ambiguous team name "Goztepe".
-    !! Corum Belediyespor: No team found for "Corum Belediyespor".
-LASK Linz v Red Bull Salzburg -> out/LASK_Linz_v_Red_Bull_Salzburg.txt
-Lillestrom v Brann -> out/Lillestrom_v_Brann.txt
-Sarpsborg 08 v Aalesund -> out/Sarpsborg_08_v_Aalesund.txt
-    !! Sarpsborg 08: Ambiguous team name "Sarpsborg 08".
-Marseille v Le Havre -> out/Marseille_v_Le_Havre.txt
-Verona v Pisa -> out/Verona_v_Pisa.txt
-    !! Verona: Ambiguous team name "Verona".
-    !! Pisa: Ambiguous team name "Pisa".
-Leones del Norte v Libertad -> out/Leones_del_Norte_v_Libertad.txt
-Freiburg v Bayern Munich -> out/Freiburg_v_Bayern_Munich.txt
-    !! Freiburg: Ambiguous team name "Freiburg".
-Lecco v Caratese -> out/Lecco_v_Caratese.txt
-Osijek v Rudes -> out/Osijek_v_Rudes.txt
-    !! Osijek: Ambiguous team name "Osijek".
-Plzen v Pardubice -> out/Plzen_v_Pardubice.txt
-Requests used: API-Football 49, Matchbook 0
+RUN 2026-10-25 19:08 local | 3 match(es)
+id:994 v Corum -> out/id_994_v_Corum.txt
+    !! Corum: Ambiguous team name "Corum".
+id:504 v id:801 -> out/id_504_v_id_801.txt
+id:160 v id:157 -> out/id_160_v_id_157.txt
+Requests used: API-Football 15, Matchbook 0

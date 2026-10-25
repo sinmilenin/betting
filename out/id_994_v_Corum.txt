@@ -1,0 +1,53 @@
+MATCH id:994 v Corum | fetched 2026-10-25 19:08 local
+
+FORM DATA id:994 v Corum | source API-Football | 2026-10-25 19:08 UTC
+H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
+
+=== Göztepe (id 994): last 3 finished games ===
+2026-10-25 H 2-0 v Çorum FK | Süper Lig | Izmir
+2026-10-18 A 2-1 v Kocaelispor | Süper Lig | Kocaeli
+2026-10-12 A 4-0 v Eyüpspor | Süper Lig | Esenyurt
+Listed home: 1 games, scored 2 (2.00), conceded 0 (0.00), blanks 0, clean sheets 1
+Listed away: 2 games, scored 6 (3.00), conceded 1 (0.50), blanks 0, clean sheets 1
+All: 3 games, scored 8 (2.67), conceded 1 (0.33), blanks 0, clean sheets 2
+
+"Corum" matches several teams. Use id:<number> instead of the name:
+  id:1206   Corumbaense (Brazil)
+  id:6343   Çorum FK (Turkey)
+  id:13391  Çorumspor (Turkey)
+  id:28242  Corum U19 (Turkey)
+(retrying Corum using the opponent's country, Turkey)
+"Corum" matches several teams. Use id:<number> instead of the name:
+  id:1206   Corumbaense (Brazil)
+  id:6343   Çorum FK (Turkey)
+  id:13391  Çorumspor (Turkey)
+  id:28242  Corum U19 (Turkey)
+!! Corum: Ambiguous team name "Corum".
+
+TABLE FOR Göztepe
+LEAGUE TABLE Süper Lig 2026 | 18 teams | 77 games played
+League averages per game: home 1.64, away 1.23, total 2.87
+#   team                   Pts | home P GF-GA  | away P GF-GA  | all P GF-GA
+1   Amed                    20 |  5  14-3       |  4   6-7       |  9  20-10
+2   Galatasaray             19 |  4   9-5       |  4   8-6       |  8  17-11
+3   Fenerbahçe              16 |  4  16-4       |  4   6-2       |  8  22-6
+4   Trabzonspor             16 |  4  13-1       |  4   5-4       |  8  18-5
+5   Kasımpaşa               16 |  4   7-4       |  5   6-5       |  9  13-9
+6   Beşiktaş                15 |  4  12-3       |  4   4-7       |  8  16-10
+7   Kocaelispor             15 |  4   6-2       |  5   5-7       |  9  11-9
+8   Erzurumspor FK          14 |  4   4-4       |  5   4-8       |  9   8-12
+9   Çorum FK                13 |  4   6-4       |  4  12-9       |  8  18-13
+10  Alanyaspor              12 |  4   4-4       |  5   5-7       |  9   9-11
+11  Başakşehir              11 |  5  11-5       |  3   1-7       |  8  12-12
+12  Rizespor                10 |  3   0-6       |  5   8-5       |  8   8-11
+13  Göztepe                  9 |  3   4-7       |  5  13-9       |  8  17-16
+14  Konyaspor                8 |  5   4-3       |  4   2-6       |  9   6-9
+15  Gaziantep FK             8 |  5   3-9       |  4   6-6       |  9   9-15
+16  Gençlerbirliği S.K.      8 |  5   6-7       |  4   1-11      |  9   7-18
+17  Samsunspor               4 |  5   5-15      |  4   3-6       |  9   8-21
+18  Eyüpspor                 3 |  5   2-9       |  4   0-14      |  9   2-23
+
+(5 API-Football requests used)
+
+----------------------------------------------------------------------
+MATCHBOOK: skipped (switched off for this run)
