@@ -1,2 +1,3 @@
-# Scan 18:55 25.10.2026 run 3: Liege id
-id:6220 v Patro Eisden | n=20 | xg=10
+# Scan 19:40 2026-10-25
+Always Ready v Real Oruro | n=20 | xg=10
+Temperley v Chacarita Juniors | n=20 | xg=10
