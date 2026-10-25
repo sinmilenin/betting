@@ -1,0 +1,84 @@
+MATCH Estoril v Moreirense | fetched 2026-10-25 12:45 local
+
+FORM DATA Estoril v Moreirense | source API-Football | 2026-10-25 12:45 UTC
+H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
+
+=== Estoril (id 230): last 20 finished games ===
+2026-10-18 A 1-1 v Salgueiros | Taça de Portugal | Fiaes [PEN, 90-min score shown]
+2026-10-10 A 1-2 v Academico Viseu | Primeira Liga | Viseu | xG 1.36-0.73
+2026-09-20 H 1-2 v Casa Pia | Primeira Liga | Cascais | xG 0.95-2.17
+2026-09-14 A 0-1 v SC Braga | Primeira Liga | Braga | xG 0.75-1.79
+2026-09-07 H 0-0 v Arouca | Primeira Liga | Estoril | xG 0.86-1.07
+2026-08-31 A 1-2 v Benfica | Primeira Liga | Lisbon | xG 0.36-2.03
+2026-08-22 H 0-2 v Rio Ave | Primeira Liga | Estoril | xG 1.16-0.70
+2026-08-16 A 0-2 v Nacional | Primeira Liga | Funchal | xG 0.86-2.03
+2026-08-07 H 1-1 v Famalicao | Primeira Liga | Estoril | xG 1.06-1.47
+2026-07-31 A 1-1 v CF Os Belenenses | Friendlies Clubs | ?
+2026-07-25 H 0-0 v Torreense | Friendlies Clubs | ?
+2026-07-22 A 0-2 v Alverca | Friendlies Clubs | ?
+2026-07-11 H 3-0 v Atlético CP | Friendlies Clubs | ?
+2026-05-16 H 1-3 v Benfica | Primeira Liga | Estoril
+2026-05-10 A 1-1 v Alverca | Primeira Liga | Alverca do Ribatejo
+2026-05-03 A 1-1 v SC Braga | Primeira Liga | Braga
+2026-04-26 H 0-1 v Famalicao | Primeira Liga | Estoril
+2026-04-20 A 0-1 v Moreirense | Primeira Liga | Moreira de Conegos
+2026-04-12 H 1-3 v FC Porto | Primeira Liga | Estoril
+2026-04-06 A 2-3 v Arouca | Primeira Liga | Arouca
+Listed home: 9 games, scored 7 (0.78), conceded 12 (1.33), blanks 4, clean sheets 3
+Listed away: 11 games, scored 8 (0.73), conceded 17 (1.55), blanks 4, clean sheets 0
+All: 20 games, scored 15 (0.75), conceded 29 (1.45), blanks 8, clean sheets 3
+
+=== Moreirense (id 215): last 20 finished games ===
+2026-10-17 A 0-1 v AVS | Taça de Portugal | Vila das Aves
+2026-10-09 H 0-1 v GIL Vicente | Primeira Liga | Guimarães | xG 1.09-1.49
+2026-09-20 A 1-1 v Vitória SC | Primeira Liga | Guimarães | xG 0.52-1.07
+2026-09-14 H 3-1 v Maritimo | Primeira Liga | Moreira de Cónegos | xG 2.00-0.76
+2026-09-09 H 0-4 v Benfica | Primeira Liga | Moreira de Cónegos | xG 0.39-2.99
+2026-09-04 A 1-2 v FC Porto | Primeira Liga | Porto | xG 0.85-2.90
+2026-08-30 A 1-0 v Casa Pia | Primeira Liga | Rio Maior | xG 0.28-0.77
+2026-08-16 A 0-4 v Arouca | Primeira Liga | Arouca | xG 0.50-2.24
+2026-08-09 H 2-2 v SC Braga | Primeira Liga | Moreira de Cónegos | xG 0.22-1.32
+2026-08-01 A 1-2 v Felgueiras 1932 | Friendlies Clubs | ?
+2026-08-01 H 2-0 v Amarante | Friendlies Clubs | ?
+2026-07-25 A 2-2 v GIL Vicente | Friendlies Clubs | ?
+2026-07-22 A 1-2 v Santa Clara | Friendlies Clubs | ?
+2026-07-18 H 2-2 v AVS | Friendlies Clubs | ?
+2026-05-16 H 0-0 v AVS | Primeira Liga | Moreira de Conegos
+2026-05-11 A 0-2 v Tondela | Primeira Liga | Tondela
+2026-05-02 H 3-2 v Estrela | Primeira Liga | Moreira de Conegos
+2026-04-25 A 1-4 v Benfica | Primeira Liga | Lisbon
+2026-04-20 H 1-0 v Estoril | Primeira Liga | Moreira de Conegos
+2026-04-10 A 1-1 v Famalicao | Primeira Liga | Vila Nova de Famalicao
+Listed home: 9 games, scored 13 (1.44), conceded 12 (1.33), blanks 3, clean sheets 3
+Listed away: 11 games, scored 9 (0.82), conceded 21 (1.91), blanks 3, clean sheets 1
+All: 20 games, scored 22 (1.10), conceded 33 (1.65), blanks 6, clean sheets 4
+
+TABLE FOR Estoril
+LEAGUE TABLE Primeira Liga 2026 | 18 teams | 76 games played
+League averages per game: home 1.30, away 1.42, total 2.72
+#   team                   Pts | home P GF-GA  | away P GF-GA  | all P GF-GA
+1   FC Porto                27 |  4   9-2       |  5  12-2       |  9  21-4
+2   Benfica                 19 |  4   9-4       |  4  15-3       |  8  24-7
+3   Sporting CP             18 |  4  10-5       |  4  10-4       |  8  20-9
+4   Santa Clara             18 |  4   7-2       |  4   5-2       |  8  12-4
+5   Arouca                  17 |  4   8-3       |  5   4-4       |  9  12-7
+6   Academico Viseu         14 |  4   4-6       |  4   7-4       |  8  11-10
+7   GIL Vicente             14 |  5   4-3       |  4   4-4       |  9   8-7
+8   Alverca                 11 |  5   5-6       |  4   8-7       |  9  13-13
+9   SC Braga                11 |  4   4-5       |  4   5-5       |  8   9-10
+10  Estrela                 10 |  5   6-9       |  4   8-8       |  9  14-17
+11  Vitória SC               8 |  5   7-2       |  4   3-8       |  9  10-10
+12  Moreirense               8 |  4   5-8       |  4   3-7       |  8   8-15
+13  Maritimo                 8 |  4   4-7       |  5   5-12      |  9   9-19
+14  Famalicao                7 |  4   3-7       |  4   7-4       |  8  10-11
+15  Rio Ave                  7 |  4   6-11      |  4   2-6       |  8   8-17
+16  Casa Pia                 7 |  4   1-13      |  5   4-4       |  9   5-17
+17  Nacional                 4 |  4   5-10      |  4   4-8       |  8   9-18
+18  Estoril                  2 |  4   2-5       |  4   2-7       |  8   4-12
+
+(Moreirense: same table as Estoril, shown above)
+
+(26 API-Football requests used)
+
+----------------------------------------------------------------------
+MATCHBOOK: skipped (switched off for this run)

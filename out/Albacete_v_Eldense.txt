@@ -1,0 +1,88 @@
+MATCH Albacete v Eldense | fetched 2026-10-25 12:45 local
+
+FORM DATA Albacete v Eldense | source API-Football | 2026-10-25 12:45 UTC
+H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
+
+=== Albacete (id 722): last 20 finished games ===
+2026-10-17 A 1-2 v Sporting Gijon | Segunda División | Gijon | xG 0.60-0.55
+2026-10-12 A 0-5 v Valladolid | Segunda División | Valladolid | xG 1.24-3.54
+2026-10-03 H 1-3 v Eibar | Segunda División | Albacete | xG 2.00-1.07
+2026-09-25 A 0-2 v Girona | Segunda División | Girona
+2026-09-18 H 1-2 v Cordoba | Segunda División | Albacete
+2026-09-12 A 1-1 v Granada CF | Segunda División | Granada | xG 1.21-0.95
+2026-09-06 A 0-2 v Castellón | Segunda División | Castellon | xG 0.30-4.09
+2026-08-29 H 0-1 v Oviedo | Segunda División | Albacete | xG 0.96-1.36
+2026-08-22 H 1-2 v Real Sociedad II | Segunda División | Albacete | xG 2.36-1.92
+2026-08-16 A 1-2 v Las Palmas | Segunda División | Las Palmas | xG 1.53-1.18
+2026-08-08 H 1-1 v Real Murcia | Friendlies Clubs | ?
+2026-08-07 H 1-0 v Eldense | Friendlies Clubs | ?
+2026-08-01 A 1-2 v Levante | Friendlies Clubs | ?
+2026-07-31 H 1-2 v Real Madrid II | Friendlies Clubs | ?
+2026-07-21 H 2-1 v Al Kholood | Friendlies Clubs | ?
+2026-07-17 A 0-0 v Leganes | Friendlies Clubs | ?
+2026-05-30 A 0-1 v AD Ceuta FC | Segunda División | Ceuta
+2026-05-24 H 3-1 v Real Sociedad II | Segunda División | Albacete
+2026-05-15 A 2-1 v Cordoba | Segunda División | Cordoba
+2026-05-09 H 2-1 v Cultural Leonesa | Segunda División | Albacete
+Listed home: 10 games, scored 13 (1.30), conceded 14 (1.40), blanks 1, clean sheets 1
+Listed away: 10 games, scored 6 (0.60), conceded 18 (1.80), blanks 5, clean sheets 1
+All: 20 games, scored 19 (0.95), conceded 32 (1.60), blanks 6, clean sheets 2
+
+=== Eldense (id 9692): last 20 finished games ===
+2026-10-18 A 3-2 v Valladolid | Segunda División | Valladolid
+2026-10-10 H 2-1 v Cordoba | Segunda División | Elda | xG 2.85-1.35
+2026-10-02 H 4-1 v Oviedo | Segunda División | Elda | xG 2.87-1.88
+2026-09-27 A 0-1 v Burgos | Segunda División | Burgos | xG 0.53-0.80
+2026-09-19 H 1-2 v Eibar | Segunda División | Elda | xG 1.69-0.87
+2026-09-13 A 1-0 v Sporting Gijon | Segunda División | Gijon | xG 0.26-0.71
+2026-09-05 H 0-0 v Mallorca | Segunda División | Elda
+2026-08-29 A 0-1 v Leganes | Segunda División | Leganes | xG 1.01-1.63
+2026-08-22 H 2-2 v Cadiz | Segunda División | Elda | xG 0.45-1.74
+2026-08-17 A 0-3 v Almeria | Segunda División | Almeria
+2026-08-07 A 0-1 v Albacete | Friendlies Clubs | ?
+2026-08-04 H 1-3 v Villarreal II | Friendlies Clubs | ?
+2026-08-01 A 1-2 v Real Murcia | Friendlies Clubs | Murcia
+2026-07-25 H 3-1 v Al-Ettifaq | Friendlies Clubs | ?
+2026-07-22 A 0-3 v Valencia | Friendlies Clubs | ?
+2026-07-17 H 1-2 v Millwall | Friendlies Clubs | ?
+2026-05-24 A 0-3 v Real Murcia | Primera División RFEF - Group 2 | Murcia
+2026-05-16 H 2-1 v Atlético Madrid II | Primera División RFEF - Group 2 | Elda
+2026-05-10 A 2-2 v Sevilla Atletico | Primera División RFEF - Group 2 | Sevilla
+2026-05-03 H 3-1 v Marbella | Primera División RFEF - Group 2 | Elda
+Listed home: 10 games, scored 19 (1.90), conceded 14 (1.40), blanks 1, clean sheets 1
+Listed away: 10 games, scored 7 (0.70), conceded 18 (1.80), blanks 6, clean sheets 1
+All: 20 games, scored 26 (1.30), conceded 32 (1.60), blanks 7, clean sheets 2
+
+TABLE FOR Albacete
+LEAGUE TABLE Segunda División 2026 | 22 teams | 116 games played
+League averages per game: home 1.53, away 1.14, total 2.67
+#   team                   Pts | home P GF-GA  | away P GF-GA  | all P GF-GA
+1   Almeria                 25 |  6  15-5       |  5   7-4       | 11  22-9
+2   Castellón               23 |  4   8-1       |  6  10-3       | 10  18-4
+3   Eibar                   22 |  5   9-6       |  6  11-7       | 11  20-13
+4   Girona                  21 |  7  16-6       |  4   6-4       | 11  22-10
+5   Granada CF              20 |  5   9-5       |  6   9-9       | 11  18-14
+6   Mallorca                19 |  5  10-2       |  6   3-4       | 11  13-6
+7   Sporting Gijon          19 |  6   6-6       |  4   5-3       | 10  11-9
+8   Oviedo                  18 |  5   5-2       |  6  10-10      | 11  15-12
+9   Burgos                  17 |  6  10-6       |  4   3-4       | 10  13-10
+10  Sabadell                16 |  4   7-3       |  6   3-5       | 10  10-8
+11  Cordoba                 15 |  5   8-8       |  6   9-12      | 11  17-20
+12  Eldense                 14 |  5   9-6       |  5   4-7       | 10  13-13
+13  Las Palmas              14 |  6   6-8       |  5   8-11      | 11  14-19
+14  Tenerife                13 |  5   5-3       |  5   7-11      | 10  12-14
+15  Valladolid              12 |  5  11-7       |  6   5-9       | 11  16-16
+16  Celta de Vigo II        12 |  6  11-11      |  5   5-10      | 11  16-21
+17  Leganes                 12 |  5   5-6       |  6   2-10      | 11   7-16
+18  FC Andorra              10 |  5   8-8       |  5   5-9       | 10  13-17
+19  Real Sociedad II         8 |  5   5-10      |  6   9-12      | 11  14-22
+20  Cadiz                    7 |  6   6-5       |  4   5-8       | 10  11-13
+21  AD Ceuta FC              5 |  6   6-10      |  4   3-12      | 10   9-22
+22  Albacete                 1 |  4   3-8       |  6   3-14      | 10   6-22
+
+(Eldense: same table as Albacete, shown above)
+
+(25 API-Football requests used)
+
+----------------------------------------------------------------------
+MATCHBOOK: skipped (switched off for this run)

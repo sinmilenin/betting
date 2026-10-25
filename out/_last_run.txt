@@ -1,4 +1,13 @@
-RUN 2026-10-25 12:02 local | 2 match(es)
-Havelse v id:1639 -> out/Havelse_v_id_1639.txt
-id:607 v id:997 -> out/id_607_v_id_997.txt
-Requests used: API-Football 50, Matchbook 0
+RUN 2026-10-25 12:45 local | 7 match(es)
+Haugesund v Hodd -> out/Haugesund_v_Hodd.txt
+Sturm Graz v SV Ried -> out/Sturm_Graz_v_SV_Ried.txt
+    !! SV Ried: No team found for "SV Ried".
+Club Brugge v Sint Truiden -> out/Club_Brugge_v_Sint_Truiden.txt
+    !! Club Brugge: Ambiguous team name "Club Brugge".
+    !! Sint Truiden: No team found for "Sint Truiden".
+Albacete v Eldense -> out/Albacete_v_Eldense.txt
+Estoril v Moreirense -> out/Estoril_v_Moreirense.txt
+Mjallby v Hammarby -> out/Mjallby_v_Hammarby.txt
+    !! Hammarby: Ambiguous team name "Hammarby".
+FC Basel v Grasshoppers -> out/FC_Basel_v_Grasshoppers.txt
+Requests used: API-Football 133, Matchbook 0
