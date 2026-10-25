@@ -1,8 +1,4 @@
-# Scan 2026-10-25 13:41 (Ljubljana) run 1: first analyses
-Haugesund v Hodd | n=20 | xg=10
-Sturm Graz v SV Ried | n=20 | xg=10
-Club Brugge v Sint Truiden | n=20 | xg=10
-Albacete v Eldense | n=20 | xg=10
-Estoril v Moreirense | n=20 | xg=10
-Mjallby v Hammarby | n=20 | xg=10
-FC Basel v Grasshoppers | n=20 | xg=10
+# Scan 2026-10-25 13:41 (Ljubljana) run 2: team id fixes
+Sturm Graz v Ried | n=20 | xg=10
+id:569 v St. Truiden | n=20 | xg=10
+Mjallby v id:363 | n=20 | xg=10
