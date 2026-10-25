@@ -1,16 +1,5 @@
 [
   {
-    "id": "2026-10-25_genoa-venezia_1-0",
-    "date": "2026-10-25",
-    "ko": "15:00",
-    "match": "Genoa v Venezia",
-    "comp": "Italy, Italian Serie A",
-    "cell": "1-0",
-    "lay": 9.2,
-    "stake": 3,
-    "created": "2026-10-25T07:49:45+01:00"
-  },
-  {
     "id": "2026-10-25_freiburg-bayern-munich_0-3",
     "date": "2026-10-25",
     "ko": "17:30",
@@ -20,72 +9,6 @@
     "lay": 15.0,
     "stake": 3,
     "created": "2026-10-25T07:49:45+01:00"
-  },
-  {
-    "id": "2026-10-25_helsingborgs-ljungskile_2-2",
-    "date": "2026-10-25",
-    "ko": "15:00",
-    "match": "Helsingborgs v Ljungskile",
-    "comp": "Sweden, Swedish Superettan",
-    "cell": "2-2",
-    "lay": 15.5,
-    "stake": 3,
-    "created": "2026-10-25T12:21:11+01:00"
-  },
-  {
-    "id": "2026-10-25_olympiakos-kalamata_3-1",
-    "date": "2026-10-25",
-    "ko": "15:00",
-    "match": "Olympiakos v Kalamata",
-    "comp": "Greece, Greek Super League",
-    "cell": "3-1",
-    "lay": 15,
-    "stake": 3,
-    "created": "2026-10-25T12:21:11+01:00"
-  },
-  {
-    "id": "2026-10-25_palermo-carrarese_2-1",
-    "date": "2026-10-25",
-    "ko": "15:00",
-    "match": "Palermo v Carrarese",
-    "comp": "Italy, Italian Serie B",
-    "cell": "2-1",
-    "lay": 9.6,
-    "stake": 3,
-    "created": "2026-10-25T12:21:11+01:00"
-  },
-  {
-    "id": "2026-10-25_olympiakos-kalamata_3-0",
-    "date": "2026-10-25",
-    "ko": "15:00",
-    "match": "Olympiakos v Kalamata",
-    "comp": "Greece, Greek Super League",
-    "cell": "3-0",
-    "lay": 8,
-    "stake": 3,
-    "created": "2026-10-25T13:50:00+01:00"
-  },
-  {
-    "id": "2026-10-25_jagiellonia-bialystock-wisla-plock_1-0",
-    "date": "2026-10-25",
-    "ko": "14:45",
-    "match": "Jagiellonia Bialystock v Wisla Plock",
-    "comp": "Poland, Polish Ekstraklasa",
-    "cell": "1-0",
-    "lay": 11.5,
-    "stake": 3,
-    "created": "2026-10-25T14:35:01+01:00"
-  },
-  {
-    "id": "2026-10-25_farul-constanta-otelul-galati_0-1",
-    "date": "2026-10-25",
-    "ko": "15:00",
-    "match": "Farul Constanta v Otelul Galati",
-    "comp": "Romania, Romanian Liga I",
-    "cell": "0-1",
-    "lay": 15.5,
-    "stake": 3,
-    "created": "2026-10-25T14:35:01+01:00"
   },
   {
     "id": "2026-10-25_lillestrom-brann_2-2",
@@ -383,5 +306,16 @@
     "lay": 9.8,
     "stake": 3,
     "created": "2026-10-25T20:31:45+01:00"
+  },
+  {
+    "id": "2026-10-26_atlas-puebla_2-1",
+    "date": "2026-10-26",
+    "ko": "00:00",
+    "match": "Atlas v Puebla",
+    "comp": "Mexico, Liga MX",
+    "cell": "2-1",
+    "lay": 9.6,
+    "stake": 3,
+    "created": "2026-10-25T21:01:29+01:00"
   }
 ]
