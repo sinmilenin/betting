@@ -1,6 +1,6 @@
-MATCH Guangdong GZ-Power v Suzhou Dongwu | fetched 2026-10-25 10:28 local
+MATCH Guangzhou E-Power v Suzhou Dongwu | fetched 2026-10-25 10:29 local
 
-FORM DATA Guangdong GZ-Power v Suzhou Dongwu | source API-Football | 2026-10-25 10:28 UTC
+FORM DATA Guangzhou E-Power v Suzhou Dongwu | source API-Football | 2026-10-25 10:29 UTC
 H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
 
 === Suzhou Dongwu (id 5688): last 20 finished games ===
@@ -28,7 +28,7 @@ Listed home: 12 games, scored 14 (1.17), conceded 17 (1.42), blanks 4, clean she
 Listed away: 8 games, scored 14 (1.75), conceded 15 (1.88), blanks 1, clean sheets 1
 All: 20 games, scored 28 (1.40), conceded 32 (1.60), blanks 5, clean sheets 6
 
-!! Guangdong GZ-Power: API-Football error: {"search": "The Search field may only contain alpha-numeric characters and spaces."}
+!! Guangzhou E-Power: API-Football error: {"search": "The Search field may only contain alpha-numeric characters and spaces."}
 
 TABLE FOR Suzhou Dongwu
 LEAGUE TABLE League One 2026 | 16 teams | 221 games played

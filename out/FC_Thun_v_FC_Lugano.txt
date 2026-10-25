@@ -1,0 +1,102 @@
+MATCH FC Thun v FC Lugano | fetched 2026-10-25 10:29 local
+
+FORM DATA FC Thun v FC Lugano | source API-Football | 2026-10-25 10:29 UTC
+H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
+
+=== FC Thun (id 1012): last 20 finished games ===
+2026-10-22 H 0-1 v HNK Hajduk Split | UEFA Europa Conference League | Thun | xG 1.29-1.30
+2026-10-18 A 1-1 v FC Schaffhausen | Schweizer Cup | ? [PEN, 90-min score shown]
+2026-10-15 A 0-1 v Twente | UEFA Europa Conference League | Enschede | xG 0.20-2.32
+2026-10-10 A 2-4 v FC Zurich | Super League | Zurich | xG 1.46-0.94
+2026-10-03 H 2-0 v SC Kriens | Friendlies Clubs | ?
+2026-09-20 A 2-1 v FC Vaduz | Super League | Vaduz | xG 1.70-2.77
+2026-09-16 H 2-4 v Servette FC | Super League | Thun | xG 2.05-1.52
+2026-09-12 H 0-1 v Grasshoppers | Super League | Thun | xG 1.67-2.26
+2026-09-06 A 2-3 v FC Sion | Super League | Sion | xG 2.33-2.78
+2026-09-02 H 0-0 v Lausanne | Super League | Thun | xG 1.58-0.86
+2026-08-30 A 4-3 v FC ST. Gallen | Super League | St. Gallen
+2026-08-27 H 2-2 v Lech Poznan | UEFA Europa League | Thun
+2026-08-20 A 0-7 v Lech Poznan | UEFA Europa League | Poznan
+2026-08-16 A 6-0 v Saxon Sports | Schweizer Cup | ?
+2026-08-13 A 2-3 v Vikingur Reykjavik | UEFA Europa League | Reykjavik
+2026-08-09 A 2-4 v FC Basel 1893 | Super League | Basel
+2026-08-06 H 3-0 v Vikingur Reykjavik | UEFA Europa League | Thun
+2026-08-01 H 0-6 v BSC Young Boys | Super League | Thun
+2026-07-28 A 2-2 v Dinamo Zagreb | UEFA Champions League | Zagreb [AET, 90-min score shown]
+2026-07-25 A 3-1 v FC Luzern | Super League | Luzern
+Listed home: 8 games, scored 9 (1.12), conceded 14 (1.75), blanks 4, clean sheets 3
+Listed away: 12 games, scored 26 (2.17), conceded 30 (2.50), blanks 2, clean sheets 1
+All: 20 games, scored 35 (1.75), conceded 44 (2.20), blanks 6, clean sheets 4
+
+=== FC Lugano (id 606): last 20 finished games ===
+2026-10-22 A 5-2 v Getafe | UEFA Europa Conference League | Getafe | xG 1.94-2.48
+2026-10-18 A 4-0 v Pully Football | Schweizer Cup | ?
+2026-10-15 H 3-2 v FK Crvena Zvezda | UEFA Europa Conference League | Lugano | xG 2.29-1.23
+2026-10-10 H 4-0 v FC Luzern | Super League | Lugano | xG 2.56-0.89
+2026-10-02 H 1-3 v Hellas Verona | Friendlies Clubs | Lugano
+2026-09-20 A 4-0 v Lausanne | Super League | Lausanne | xG 2.09-0.50
+2026-09-16 H 4-1 v FC ST. Gallen | Super League | Lugano | xG 1.41-1.14
+2026-09-12 H 2-2 v BSC Young Boys | Super League | Lugano | xG 1.51-2.32
+2026-09-06 A 3-1 v FC Basel 1893 | Super League | Basel | xG 1.67-0.31
+2026-09-03 H 1-0 v Servette FC | Super League | Lugano | xG 1.29-1.81
+2026-08-30 A 2-1 v FC Sion | Super League | Sion
+2026-08-27 A 1-1 v Maccabi Tel Aviv | UEFA Europa Conference League | Batumi
+2026-08-20 H 2-1 v Maccabi Tel Aviv | UEFA Europa Conference League | Lugano
+2026-08-16 A 10-1 v Vedeggio | Schweizer Cup | ?
+2026-08-13 A 2-2 v NSI Runavik | UEFA Europa Conference League | Klaksvík
+2026-08-09 H 5-0 v FC Zurich | Super League | Lugano
+2026-08-06 H 2-0 v NSI Runavik | UEFA Europa Conference League | Lugano
+2026-08-02 A 4-1 v Grasshoppers | Super League | Zurich
+2026-07-29 A 5-1 v Dukagjini | UEFA Europa Conference League | Pristina
+2026-07-26 H 2-1 v FC Vaduz | Super League | Lugano
+Listed home: 10 games, scored 26 (2.60), conceded 10 (1.00), blanks 0, clean sheets 4
+Listed away: 10 games, scored 40 (4.00), conceded 10 (1.00), blanks 0, clean sheets 2
+All: 20 games, scored 66 (3.30), conceded 20 (1.00), blanks 0, clean sheets 6
+
+TABLE FOR FC Thun
+LEAGUE TABLE UEFA Europa Conference League 2026 | 36 teams | 36 games played
+League averages per game: home 1.64, away 1.33, total 2.97
+#   team                   Pts | home P GF-GA  | away P GF-GA  | all P GF-GA
+1   Panathinaikos            6 |  1   2-1       |  1   5-1       |  2   7-2
+2   FC Lugano                6 |  1   3-2       |  1   5-2       |  2   8-4
+3   Brann                    6 |  1   2-1       |  1   4-1       |  2   6-2
+4   Trabzonspor              6 |  1   2-0       |  1   4-2       |  2   6-2
+5   Twente                   6 |  1   1-0       |  1   4-1       |  2   5-1
+6   Monaco                   6 |  1   3-0       |  1   2-1       |  2   5-1
+7   St. Truiden              6 |  1   2-0       |  1   1-0       |  2   3-0
+8   HNK Hajduk Split         6 |  1   2-1       |  1   1-0       |  2   3-1
+9   Brighton                 4 |  1   4-0       |  1   0-0       |  2   4-0
+10  FC Copenhagen            4 |  1   3-0       |  1   2-2       |  2   5-2
+11  Universitatea Craiova    4 |  1   1-1       |  1   3-1       |  2   4-2
+12  Mjallby AIF              4 |  1   2-0       |  1   1-1       |  2   3-1
+13  Ajax                     3 |  1   2-0       |  1   1-2       |  2   3-2
+14  Borac Banja Luka         3 |  1   2-0       |  1   1-2       |  2   3-2
+15  Atalanta                 3 |  1   3-1       |  1   0-2       |  2   3-3
+16  SC Braga                 3 |  1   2-0       |  1   0-3       |  2   2-3
+17  Gent                     3 |  1   1-0       |  1   0-2       |  2   1-2
+18  SC Freiburg              3 |  1   3-2       |  1   0-3       |  2   3-5
+19  FC Nordsjaelland         2 |  1   2-2       |  1   1-1       |  2   3-3
+20  Egnatia Rrogozhinë       2 |  1   1-1       |  1   1-1       |  2   2-2
+21  Riga                     2 |  1   1-1       |  1   1-1       |  2   2-2
+22  FK Crvena Zvezda         1 |  1   2-2       |  1   2-3       |  2   4-5
+23  CSKA Sofia               1 |  1   1-2       |  1   2-2       |  2   3-4
+24  FK Jablonec              1 |  1   0-0       |  1   2-3       |  2   2-3
+25  FC Midtjylland           1 |  1   0-1       |  1   1-1       |  2   1-2
+26  Aarhus                   1 |  1   1-1       |  1   0-1       |  2   1-2
+27  Pafos                    1 |  1   1-1       |  1   1-3       |  2   2-4
+28  Heart Of Midlothian      1 |  1   1-1       |  1   0-2       |  2   1-3
+29  FC Iberia 1999           1 |  1   1-1       |  1   0-2       |  2   1-3
+30  Getafe                   1 |  1   2-5       |  1   1-1       |  2   3-6
+31  Kairat Almaty            1 |  1   1-5       |  1   1-1       |  2   2-6
+32  FC Thun                  0 |  1   0-1       |  1   0-1       |  2   0-2
+33  Lincoln Red Imps FC      0 |  1   1-4       |  1   1-2       |  2   2-6
+34  KuPS                     0 |  1   2-4       |  1   0-2       |  2   2-6
+35  Inter Club d'Escaldes    0 |  1   1-3       |  1   0-2       |  2   1-5
+36  Kauno Žalgiris           0 |  1   1-4       |  1   0-4       |  2   1-8
+
+(FC Lugano: same table as FC Thun, shown above)
+
+(25 API-Football requests used)
+
+----------------------------------------------------------------------
+MATCHBOOK: skipped (switched off for this run)
