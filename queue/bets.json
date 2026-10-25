@@ -482,5 +482,16 @@
     "lay": 14.0,
     "stake": 3,
     "created": "2026-10-25T16:53:43+01:00"
+  },
+  {
+    "id": "2026-10-25_ofi-paok_2-2",
+    "date": "2026-10-25",
+    "ko": "19:00",
+    "match": "OFI v PAOK",
+    "comp": "Greece, Greek Super League",
+    "cell": "2-2",
+    "lay": 18,
+    "stake": 3,
+    "created": "2026-10-25T17:32:51+01:00"
   }
 ]
