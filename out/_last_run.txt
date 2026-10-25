@@ -1,4 +1,7 @@
-RUN 2026-10-25 19:29 local | 2 match(es)
-id:453 v id:451 -> out/id_453_v_id_451.txt
-id:435 v id:436 -> out/id_435_v_id_436.txt
-Requests used: API-Football 50, Matchbook 0
+RUN 2026-10-25 19:58 local | 4 match(es)
+Central Cordoba de Santiago v Velez Sarsfield -> out/Central_Cordoba_de_Santiago_v_Velez_Sars.txt
+Barracas Central v Estudiantes Rio Cuarto -> out/Barracas_Central_v_Estudiantes_Rio_Cuart.txt
+Los Angeles FC v LA Galaxy -> out/Los_Angeles_FC_v_LA_Galaxy.txt
+    !! LA Galaxy: No team found for "LA Galaxy".
+Atlas v Puebla -> out/Atlas_v_Puebla.txt
+Requests used: API-Football 89, Matchbook 0
