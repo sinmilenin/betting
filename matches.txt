@@ -1,5 +1,9 @@
-# Scan 2026-10-25 14:26 (Ljubljana) run 2: team name/id fix
-Farul Constanta v id:6886 | n=20 | xg=10
-Sabah FA v Qarabag | n=20 | xg=10
-id:6653 v Kriens | n=20 | xg=10
-id:504 v id:801 | n=20 | xg=10
+# Scan 2026-10-25 15:11 (Ljubljana) run 1
+AC Horsens v SonderjyskE | n=20 | xg=10
+Cadiz v AD Ceuta | n=20 | xg=10
+Sion v Lausanne | n=20 | xg=10
+Sarpsborg v Aalesund | n=20 | xg=10
+Comerciantes Unidos v Cienciano | n=20 | xg=10
+Leones del Norte v Libertad | n=20 | xg=10
+Lecco v Caratese | n=20 | xg=10
+CFR Cluj v Dinamo Bucuresti | n=20 | xg=10
