@@ -1,2 +1,2 @@
-# Scan 18:11 25.10.2026 run 2: Fortaleza name fix
-Fortaleza v Deportivo Cali | n=20 | xg=10
+# Scan 18:11 25.10.2026 run 3: Fortaleza FC id
+id:1147 v Deportivo Cali | n=20 | xg=10
