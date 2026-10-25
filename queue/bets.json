@@ -251,5 +251,60 @@
     "lay": 8,
     "stake": 3,
     "created": "2026-10-25T13:50:00+01:00"
+  },
+  {
+    "id": "2026-10-25_jagiellonia-bialystock-wisla-plock_1-0",
+    "date": "2026-10-25",
+    "ko": "14:45",
+    "match": "Jagiellonia Bialystock v Wisla Plock",
+    "comp": "Poland, Polish Ekstraklasa",
+    "cell": "1-0",
+    "lay": 11.5,
+    "stake": 3,
+    "created": "2026-10-25T14:35:01+01:00"
+  },
+  {
+    "id": "2026-10-25_farul-constanta-otelul-galati_0-1",
+    "date": "2026-10-25",
+    "ko": "15:00",
+    "match": "Farul Constanta v Otelul Galati",
+    "comp": "Romania, Romanian Liga I",
+    "cell": "0-1",
+    "lay": 15.5,
+    "stake": 3,
+    "created": "2026-10-25T14:35:01+01:00"
+  },
+  {
+    "id": "2026-10-25_lillestrom-brann_2-2",
+    "date": "2026-10-25",
+    "ko": "17:00",
+    "match": "Lillestrom v Brann",
+    "comp": "Norway, Norwegian Eliteserien",
+    "cell": "2-2",
+    "lay": 13.0,
+    "stake": 3,
+    "created": "2026-10-25T14:35:01+01:00"
+  },
+  {
+    "id": "2026-10-25_verona-pisa_0-1",
+    "date": "2026-10-25",
+    "ko": "17:15",
+    "match": "Verona v Pisa",
+    "comp": "Italy, Italian Serie B",
+    "cell": "0-1",
+    "lay": 13.5,
+    "stake": 3,
+    "created": "2026-10-25T14:35:01+01:00"
+  },
+  {
+    "id": "2026-10-25_verona-pisa_2-2",
+    "date": "2026-10-25",
+    "ko": "17:15",
+    "match": "Verona v Pisa",
+    "comp": "Italy, Italian Serie B",
+    "cell": "2-2",
+    "lay": 16.0,
+    "stake": 3,
+    "created": "2026-10-25T14:35:01+01:00"
   }
 ]
