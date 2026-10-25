@@ -1,5 +1,3 @@
-RUN 2026-10-25 06:44 local | 3 match(es)
-id:160 v Bayern Munich -> out/id_160_v_Bayern_Munich.txt
-id:167 v Bayer Leverkusen -> out/id_167_v_Bayer_Leverkusen.txt
-Toulouse v id:110 -> out/Toulouse_v_id_110.txt
-Requests used: API-Football 76, Matchbook 0
+RUN 2026-10-25 06:46 local | 1 match(es)
+id:160 v id:157 -> out/id_160_v_id_157.txt
+Requests used: API-Football 26, Matchbook 0

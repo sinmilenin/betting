@@ -1,6 +1,6 @@
-MATCH id:160 v Bayern Munich | fetched 2026-10-25 06:44 local
+MATCH id:160 v id:157 | fetched 2026-10-25 06:46 local
 
-FORM DATA id:160 v Bayern Munich | source API-Football | 2026-10-25 06:44 UTC
+FORM DATA id:160 v id:157 | source API-Football | 2026-10-25 06:46 UTC
 H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
 
 === SC Freiburg (id 160): last 20 finished games ===
@@ -28,30 +28,30 @@ Listed home: 13 games, scored 38 (2.92), conceded 14 (1.08), blanks 1, clean she
 Listed away: 7 games, scored 14 (2.00), conceded 12 (1.71), blanks 1, clean sheets 1
 All: 20 games, scored 52 (2.60), conceded 26 (1.30), blanks 2, clean sheets 4
 
-=== Bayern Munich W (id 1860): last 20 finished games ===
-2026-10-23 A 5-1 v RB Leipzig W | Frauen Bundesliga | Leipzig | xG 1.88-1.24
-2026-10-19 H 5-0 v Stuttgart W | Frauen Bundesliga | Munich | xG 4.81-0.55
-2026-10-03 A 1-0 v Eintracht Frankfurt W | Frauen Bundesliga | Frankfurt
-2026-09-30 A 3-0 v SL Benfica W | UEFA Champions League Women | Lisbon
-2026-09-27 A 2-1 v Borussia Monchengladbach W | DFB Pokal - Women | ?
-2026-09-22 H 2-2 v Manchester City W | UEFA Champions League Women | Munich
-2026-09-19 H 5-2 v FC Koln W | Frauen Bundesliga | Munich
-2026-09-14 A 3-2 v Bayer Leverkusen W | Frauen Bundesliga | Leverkusen
-2026-09-06 H 4-1 v SC Freiburg W | Frauen Bundesliga | Munich
-2026-08-31 H 2-0 v Mainz 05 W | Frauen Bundesliga | Munich | xG 2.72-0.18
-2026-08-21 A 4-1 v Union Berlin W | Frauen Bundesliga | Berlin
-2026-08-15 H 3-0 v VfL Wolfsburg W | Supercup der Frauen | Ingolstadt
-2026-05-17 A 1-0 v Hamburger SV W | Frauen Bundesliga | Hamburg
-2026-05-14 A 4-0 v VfL Wolfsburg W | DFB Pokal - Women | Cologne
-2026-05-09 H 2-0 v Eintracht Frankfurt W | Frauen Bundesliga | Munich
-2026-05-06 H 1-1 v 1899 Hoffenheim W | Frauen Bundesliga | Munich
-2026-05-03 A 2-4 v Barcelona W | UEFA Champions League Women | Barcelona
-2026-04-29 A 2-0 v Werder Bremen W | Frauen Bundesliga | Bremen
-2026-04-25 H 1-1 v Barcelona W | UEFA Champions League Women | Munich
-2026-04-22 A 3-2 v Union Berlin W | Frauen Bundesliga | Berlin
-Listed home: 9 games, scored 25 (2.78), conceded 7 (0.78), blanks 0, clean sheets 4
-Listed away: 11 games, scored 30 (2.73), conceded 11 (1.00), blanks 0, clean sheets 5
-All: 20 games, scored 55 (2.75), conceded 18 (0.90), blanks 0, clean sheets 9
+=== Bayern München (id 157): last 20 finished games ===
+2026-10-21 H 2-2 v Arsenal | UEFA Champions League | Munich | xG 2.50-1.71
+2026-10-17 H 6-1 v RB Leipzig | Bundesliga | Munich | xG 3.40-0.84
+2026-10-13 A 3-3 v Viking | UEFA Champions League | Stavanger | xG 3.51-0.56
+2026-10-10 A 2-2 v FC Augsburg | Bundesliga | Augsburg | xG 4.96-2.37
+2026-09-18 H 7-0 v Union Berlin | Bundesliga | Munich | xG 3.71-0.34
+2026-09-13 A 2-1 v SV Elversberg | Bundesliga | Spiesen-Elversberg | xG 2.83-0.94
+2026-09-10 H 5-0 v Bodo/Glimt | UEFA Champions League | Munich | xG 2.61-0.30
+2026-09-05 A 0-0 v FC Schalke 04 | Bundesliga | Gelsenkirchen | xG 1.94-0.21
+2026-09-02 A 4-1 v VfL Osnabrück | DFB Pokal | Osnabruck
+2026-08-28 H 5-1 v VfB Stuttgart | Bundesliga | Munich | xG 4.06-0.79
+2026-08-22 A 2-1 v Borussia Dortmund | Super Cup | ?
+2026-08-18 A 4-2 v 1. FC Heidenheim | Friendlies Clubs | Heidenheim
+2026-08-15 H 3-1 v RB Leipzig | Friendlies Clubs | Munich
+2026-08-07 H 2-1 v Aston Villa | Friendlies Clubs | Hongkong
+2026-08-04 A 2-1 v Jeju United FC | Friendlies Clubs | Seogwipo
+2026-07-25 A 1-2 v SV Wehen | Friendlies Clubs | Wiesbaden
+2026-05-23 H 3-0 v VfB Stuttgart | DFB Pokal | Berlin
+2026-05-16 H 5-1 v 1. FC Köln | Bundesliga | Munich
+2026-05-09 A 1-0 v VfL Wolfsburg | Bundesliga | Wolfsburg
+2026-05-06 H 1-1 v Paris Saint Germain | UEFA Champions League | Munich
+Listed home: 10 games, scored 39 (3.90), conceded 8 (0.80), blanks 0, clean sheets 3
+Listed away: 10 games, scored 21 (2.10), conceded 13 (1.30), blanks 1, clean sheets 2
+All: 20 games, scored 60 (3.00), conceded 21 (1.05), blanks 1, clean sheets 5
 
 TABLE FOR SC Freiburg
 LEAGUE TABLE UEFA Europa Conference League 2026 | 36 teams | 36 games played
@@ -94,24 +94,46 @@ League averages per game: home 1.64, away 1.33, total 2.97
 35  Inter Club d'Escaldes    0 |  1   1-3       |  1   0-2       |  2   1-5
 36  Kauno Žalgiris           0 |  1   1-4       |  1   0-4       |  2   1-8
 
-TABLE FOR Bayern Munich W
-LEAGUE TABLE Frauen Bundesliga 2026 | 14 teams | 51 games played
-League averages per game: home 1.76, away 1.71, total 3.47
+TABLE FOR Bayern München
+LEAGUE TABLE UEFA Champions League 2026 | 36 teams | 54 games played
+League averages per game: home 2.50, away 1.59, total 4.09
 #   team                   Pts | home P GF-GA  | away P GF-GA  | all P GF-GA
-1   Bayern Munich W         24 |  4  16-3       |  4  13-4       |  8  29-7
-2   VfL Wolfsburg W         21 |  3   8-3       |  5  18-5       |  8  26-8
-3   Eintracht Frankfurt W   17 |  4   7-4       |  4   8-3       |  8  15-7
-4   Bayer Leverkusen W      13 |  4   7-8       |  3   6-2       |  7  13-10
-5   FC Koln W               12 |  4   7-2       |  4   6-10      |  8  13-12
-6   Werder Bremen W         10 |  3   4-1       |  3   6-7       |  6  10-8
-7   RB Leipzig W            10 |  4   8-8       |  4   6-6       |  8  14-14
-8   SC Freiburg W           10 |  4   5-5       |  3   3-5       |  7   8-10
-9   Union Berlin W           9 |  4   6-8       |  3   4-4       |  7  10-12
-10  Stuttgart W              8 |  4   2-10      |  4   6-10      |  8   8-20
-11  1899 Hoffenheim W        6 |  3   4-5       |  3   4-6       |  6   8-11
-12  Hamburger SV W           5 |  3   7-3       |  4   3-8       |  7  10-11
-13  Nürnberg W               2 |  3   6-13      |  4   4-10      |  7  10-23
-14  Mainz 05 W               0 |  4   3-14      |  3   0-10      |  7   3-24
+1   Paris Saint Germain      9 |  2  10-3       |  1   4-2       |  3  14-5
+2   Aston Villa              9 |  2   9-1       |  1   3-2       |  3  12-3
+3   Liverpool                9 |  2   6-4       |  1   6-3       |  3  12-7
+4   Real Madrid              9 |  2   6-2       |  1   4-3       |  3  10-5
+5   Real Betis               9 |  2   4-2       |  1   3-2       |  3   7-4
+6   VfB Stuttgart            7 |  2   4-2       |  1   3-0       |  3   7-2
+7   Arsenal                  7 |  1   3-0       |  2   3-2       |  3   6-2
+8   Barcelona                6 |  1   5-1       |  2   6-5       |  3  11-6
+9   Como                     6 |  2   8-2       |  1   2-3       |  3  10-5
+10  Manchester City          6 |  2   7-5       |  1   2-0       |  3   9-5
+11  Club Brugge KV           6 |  2   5-3       |  1   4-3       |  3   9-6
+12  Sporting CP              6 |  2   5-4       |  1   2-0       |  3   7-4
+13  Borussia Dortmund        6 |  1   3-2       |  2   2-2       |  3   5-4
+14  Bayern München           5 |  2   7-2       |  1   3-3       |  3  10-5
+15  AS Roma                  4 |  2   7-4       |  1   1-1       |  3   8-5
+16  Atletico Madrid          4 |  1   2-0       |  2   2-3       |  3   4-3
+17  Shakhtar Donetsk         4 |  1   3-1       |  2   1-2       |  3   4-3
+18  PSV Eindhoven            4 |  1   1-1       |  2   1-1       |  3   2-2
+19  Villarreal               3 |  1   3-1       |  2   5-7       |  3   8-8
+20  Manchester United        3 |  1   4-0       |  2   1-6       |  3   5-6
+21  Inter                    3 |  2   4-4       |  1   1-2       |  3   5-6
+22  Napoli                   3 |  2   4-4       |  1   1-3       |  3   5-7
+23  Galatasaray              3 |  1   1-4       |  2   5-5       |  3   6-9
+24  Lask Linz                3 |  1   3-6       |  2   3-3       |  3   6-9
+25  Sabah FC                 3 |  2   3-2       |  1   0-4       |  3   3-6
+26  Feyenoord                3 |  1   3-2       |  2   1-6       |  3   4-8
+27  Lens                     3 |  1   0-2       |  2   3-5       |  3   3-7
+28  Bodo/Glimt               3 |  1   1-0       |  2   3-9       |  3   4-9
+29  AEK Athens FC            3 |  1   1-0       |  2   2-8       |  3   3-8
+30  RB Leipzig               3 |  1   1-0       |  2   2-8       |  3   3-8
+31  Fenerbahçe               2 |  2   3-3       |  1   0-6       |  3   3-9
+32  Slavia Praha             1 |  1   2-3       |  2   2-4       |  3   4-7
+33  Viking                   1 |  1   3-3       |  2   2-6       |  3   5-9
+34  FC Porto                 0 |  2   0-3       |  1   2-3       |  3   2-6
+35  Lille                    0 |  2   4-7       |  1   0-3       |  3   4-10
+36  Slovan Bratislava        0 |  1   0-3       |  2   1-10      |  3   1-13
 
 (26 API-Football requests used)
 
