@@ -1,5 +1,10 @@
-RUN 2026-10-25 14:18 local | 3 match(es)
-id:630 v id:1014 -> out/id_630_v_id_1014.txt
-Sarpsborg 08 FF v Aalesund -> out/Sarpsborg_08_FF_v_Aalesund.txt
-CFR 1907 Cluj v Dinamo Bucuresti -> out/CFR_1907_Cluj_v_Dinamo_Bucuresti.txt
-Requests used: API-Football 76, Matchbook 0
+RUN 2026-10-25 14:59 local | 5 match(es)
+Goztepe v Corum FK -> out/Goztepe_v_Corum_FK.txt
+    !! Goztepe: Ambiguous team name "Goztepe".
+Plzen v Pardubice -> out/Plzen_v_Pardubice.txt
+Gent v Anderlecht -> out/Gent_v_Anderlecht.txt
+Osijek v Rudes -> out/Osijek_v_Rudes.txt
+    !! Osijek: Ambiguous team name "Osijek".
+Castellon v Sporting Gijon -> out/Castellon_v_Sporting_Gijon.txt
+    !! Castellon: Ambiguous team name "Castellon".
+Requests used: API-Football 96, Matchbook 0

@@ -1,0 +1,74 @@
+MATCH Castellon v Sporting Gijon | fetched 2026-10-25 14:59 local
+
+FORM DATA Castellon v Sporting Gijon | source API-Football | 2026-10-25 14:59 UTC
+H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
+
+"Castellon" matches several teams. Use id:<number> instead of the name:
+  id:5254   Castellón (Spain)
+  id:17588  Castellón II (Spain)
+  id:22138  Castellonense (Spain)
+  id:28020  CD Castellon U19 (Spain)
+=== Sporting Gijon (id 731): last 20 finished games ===
+2026-10-17 H 2-1 v Albacete | Segunda División | Gijon | xG 0.55-0.60
+2026-10-11 A 1-0 v Cadiz | Segunda División | Cadiz | xG 0.80-0.55
+2026-10-04 H 3-2 v Celta de Vigo II | Segunda División | Gijon | xG 1.91-1.57
+2026-09-27 A 0-2 v Oviedo | Segunda División | Oviedo | xG 0.71-1.63
+2026-09-19 A 3-1 v FC Andorra | Segunda División | Encamp | xG 0.52-1.46
+2026-09-13 H 0-1 v Eldense | Segunda División | Gijon | xG 0.71-0.26
+2026-09-05 H 0-2 v Girona | Segunda División | Gijon | xG 2.52-0.91
+2026-08-28 A 1-0 v Tenerife | Segunda División | Santa Cruz de Tenerife
+2026-08-23 H 1-0 v Burgos | Segunda División | Gijon | xG 0.83-0.67
+2026-08-17 H 0-0 v Sabadell | Segunda División | Gijon | xG 0.82-2.01
+2026-08-08 H 2-4 v Valladolid | Friendlies Clubs | ?
+2026-08-07 A 1-4 v Racing Santander | Friendlies Clubs | ?
+2026-08-01 H 5-0 v Gimnástica Torrelavega | Friendlies Clubs | ?
+2026-07-25 A 0-1 v Celta Vigo | Friendlies Clubs | ?
+2026-07-18 A 2-1 v Marino de Luanco | Friendlies Clubs | ?
+2026-05-30 A 2-1 v Granada CF | Segunda División | Granada
+2026-05-24 H 3-1 v Almeria | Segunda División | Gijon
+2026-05-17 A 3-1 v Zaragoza | Segunda División | Zaragoza
+2026-05-09 A 1-2 v Malaga | Segunda División | Malaga
+2026-05-03 H 1-2 v AD Ceuta FC | Segunda División | Gijon
+Listed home: 10 games, scored 17 (1.70), conceded 13 (1.30), blanks 3, clean sheets 3
+Listed away: 10 games, scored 14 (1.40), conceded 13 (1.30), blanks 2, clean sheets 2
+All: 20 games, scored 31 (1.55), conceded 26 (1.30), blanks 5, clean sheets 5
+
+(retrying Castellon using the opponent's country, Spain)
+"Castellon" matches several teams. Use id:<number> instead of the name:
+  id:5254   Castellón (Spain)
+  id:17588  Castellón II (Spain)
+  id:22138  Castellonense (Spain)
+  id:28020  CD Castellon U19 (Spain)
+!! Castellon: Ambiguous team name "Castellon".
+
+TABLE FOR Sporting Gijon
+LEAGUE TABLE Segunda División 2026 | 22 teams | 116 games played
+League averages per game: home 1.53, away 1.14, total 2.67
+#   team                   Pts | home P GF-GA  | away P GF-GA  | all P GF-GA
+1   Almeria                 25 |  6  15-5       |  5   7-4       | 11  22-9
+2   Castellón               23 |  4   8-1       |  6  10-3       | 10  18-4
+3   Eibar                   22 |  5   9-6       |  6  11-7       | 11  20-13
+4   Girona                  21 |  7  16-6       |  4   6-4       | 11  22-10
+5   Granada CF              20 |  5   9-5       |  6   9-9       | 11  18-14
+6   Mallorca                19 |  5  10-2       |  6   3-4       | 11  13-6
+7   Sporting Gijon          19 |  6   6-6       |  4   5-3       | 10  11-9
+8   Oviedo                  18 |  5   5-2       |  6  10-10      | 11  15-12
+9   Burgos                  17 |  6  10-6       |  4   3-4       | 10  13-10
+10  Sabadell                16 |  4   7-3       |  6   3-5       | 10  10-8
+11  Cordoba                 15 |  5   8-8       |  6   9-12      | 11  17-20
+12  Eldense                 14 |  5   9-6       |  5   4-7       | 10  13-13
+13  Las Palmas              14 |  6   6-8       |  5   8-11      | 11  14-19
+14  Tenerife                13 |  5   5-3       |  5   7-11      | 10  12-14
+15  Valladolid              12 |  5  11-7       |  6   5-9       | 11  16-16
+16  Celta de Vigo II        12 |  6  11-11      |  5   5-10      | 11  16-21
+17  Leganes                 12 |  5   5-6       |  6   2-10      | 11   7-16
+18  FC Andorra              10 |  5   8-8       |  5   5-9       | 10  13-17
+19  Real Sociedad II         8 |  5   5-10      |  6   9-12      | 11  14-22
+20  Cadiz                    7 |  6   6-5       |  4   5-8       | 10  11-13
+21  AD Ceuta FC              5 |  6   6-10      |  4   3-12      | 10   9-22
+22  Albacete                 1 |  4   3-8       |  6   3-14      | 10   6-22
+
+(15 API-Football requests used)
+
+----------------------------------------------------------------------
+MATCHBOOK: skipped (switched off for this run)
