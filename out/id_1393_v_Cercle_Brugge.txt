@@ -1,0 +1,123 @@
+MATCH id:1393 v Cercle Brugge | fetched 2026-10-25 15:50 local
+
+FORM DATA id:1393 v Cercle Brugge | source API-Football | 2026-10-25 15:50 UTC
+H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
+
+=== Union St. Gilloise (id 1393): last 20 finished games ===
+2026-10-22 H 4-0 v Hapoel Beer Sheva | UEFA Europa League | Dusseldorf | xG 2.74-0.65
+2026-10-18 H 3-0 v Nijlen | Cup | ?
+2026-10-15 H 1-1 v Real Sociedad | UEFA Europa League | Heverley | xG 1.92-0.76
+2026-10-11 H 1-1 v OH Leuven | Jupiler Pro League | Brussels | xG 1.14-1.46
+2026-09-20 A 2-0 v Antwerp | Jupiler Pro League | Deurne | xG 3.34-0.41
+2026-09-17 A 3-0 v Plzen | UEFA Europa League | Pilsner
+2026-09-12 H 5-0 v Lommel United | Jupiler Pro League | Brussels | xG 3.27-0.65
+2026-09-05 A 3-2 v Charleroi | Jupiler Pro League | Charleroi | xG 1.24-2.18
+2026-09-02 A 3-0 v St. Truiden | Jupiler Pro League | Sint- Truiden | xG 2.49-0.85
+2026-08-30 H 3-0 v Anderlecht | Jupiler Pro League | Brussels | xG 1.60-1.34
+2026-08-15 H 0-0 v Zulte Waregem | Jupiler Pro League | Brussels
+2026-08-11 A 2-2 v Bodo/Glimt | UEFA Champions League | Bodø [AET, 90-min score shown]
+2026-08-08 A 5-1 v KVC Westerlo | Jupiler Pro League | Westerlo
+2026-08-04 H 3-3 v Bodo/Glimt | UEFA Champions League | Ostend
+2026-07-31 A 1-1 v Club Brugge KV | Super Cup | ? [PEN, 90-min score shown]
+2026-07-25 H 2-1 v Lille | Friendlies Clubs | ?
+2026-07-24 H 4-0 v Patro Eisden | Friendlies Clubs | ?
+2026-07-18 A 3-7 v PSV Eindhoven | Friendlies Clubs | Eindhoven
+2026-07-11 H 2-1 v Aarhus | Friendlies Clubs | ?
+2026-07-05 H 4-0 v FCSB | Friendlies Clubs | ?
+Listed home: 12 games, scored 32 (2.67), conceded 7 (0.58), blanks 1, clean sheets 7
+Listed away: 8 games, scored 22 (2.75), conceded 13 (1.62), blanks 0, clean sheets 3
+All: 20 games, scored 54 (2.70), conceded 20 (1.00), blanks 1, clean sheets 10
+
+=== Cercle Brugge (id 741): last 20 finished games ===
+2026-10-16 A 2-1 v Sporting Hasselt | Cup | ?
+2026-10-10 H 1-2 v Anderlecht | Jupiler Pro League | Bruges | xG 1.02-1.06
+2026-09-19 A 2-3 v Charleroi | Jupiler Pro League | Charleroi | xG 2.08-2.04
+2026-09-12 A 1-1 v OH Leuven | Jupiler Pro League | Heverlee | xG 1.60-0.92
+2026-09-06 H 0-3 v Gent | Jupiler Pro League | Bruges | xG 0.49-1.22
+2026-08-29 H 0-1 v Lommel United | Jupiler Pro League | Bruges | xG 1.25-1.63
+2026-08-23 A 0-1 v Club Brugge KV | Jupiler Pro League | Bruges | xG 1.00-1.76
+2026-08-14 H 3-3 v St. Truiden | Jupiler Pro League | Bruges | xG 4.15-2.04
+2026-08-08 A 2-2 v Standard Liege | Jupiler Pro League | Liege | xG 1.47-2.60
+2026-07-31 A 2-2 v Monaco | Friendlies Clubs | ?
+2026-07-25 A 0-3 v Reims | Friendlies Clubs | ?
+2026-07-18 A 2-3 v PEC Zwolle | Friendlies Clubs | ?
+2026-07-11 H 1-1 v Lommel United | Friendlies Clubs | ?
+2026-05-09 A 1-4 v RAAL La Louvière | Jupiler Pro League | La Louviere
+2026-05-01 H 2-3 v Zulte Waregem | Jupiler Pro League | Brugge
+2026-04-24 H 2-1 v Dender | Jupiler Pro League | Brugge
+2026-04-19 A 4-1 v Dender | Jupiler Pro League | Denderleeuw
+2026-04-11 H 3-0 v RAAL La Louvière | Jupiler Pro League | Brugge
+2026-04-04 A 2-2 v Zulte Waregem | Jupiler Pro League | Waregem
+2026-03-22 A 3-2 v Anderlecht | Jupiler Pro League | Anderlecht
+Listed home: 8 games, scored 12 (1.50), conceded 14 (1.75), blanks 2, clean sheets 1
+Listed away: 12 games, scored 21 (1.75), conceded 25 (2.08), blanks 2, clean sheets 0
+All: 20 games, scored 33 (1.65), conceded 39 (1.95), blanks 4, clean sheets 1
+
+TABLE FOR Union St. Gilloise
+LEAGUE TABLE UEFA Europa League 2026 | 36 teams | 54 games played
+League averages per game: home 1.50, away 1.57, total 3.07
+#   team                   Pts | home P GF-GA  | away P GF-GA  | all P GF-GA
+1   Benfica                  9 |  1   4-1       |  2   6-1       |  3  10-2
+2   Bayer Leverkusen         9 |  1   2-0       |  2   6-0       |  3   8-0
+3   Bournemouth              9 |  2   6-0       |  1   2-1       |  3   8-1
+4   Ferencvarosi TC          9 |  2   6-2       |  1   3-1       |  3   9-3
+5   Olympiakos Piraeus       9 |  2   3-1       |  1   1-0       |  3   4-1
+6   Union St. Gilloise       7 |  2   5-1       |  1   3-0       |  3   8-1
+7   Juventus                 7 |  2   7-2       |  1   2-1       |  3   9-3
+8   Beşiktaş                 7 |  2   6-3       |  1   3-2       |  3   9-5
+9   Sunderland               7 |  1   1-0       |  2   3-2       |  3   4-2
+10  AZ Alkmaar               6 |  1   2-1       |  2   4-1       |  3   6-2
+11  Omonia Nicosia           6 |  2   2-4       |  1   3-0       |  3   5-4
+12  Lyon                     6 |  1   3-2       |  2   2-4       |  3   5-6
+13  Rennes                   5 |  1   2-1       |  2   2-2       |  3   4-3
+14  Real Sociedad            4 |  1   1-2       |  2   7-1       |  3   8-3
+15  Crystal Palace           4 |  1   4-0       |  2   4-5       |  3   8-5
+16  Sparta Praha             4 |  1   1-1       |  2   4-2       |  3   5-3
+17  Levski Sofia             4 |  1   0-1       |  2   3-2       |  3   3-3
+18  Dinamo Zagreb            4 |  2   3-4       |  1   0-0       |  3   3-4
+19  Sturm Graz               4 |  2   1-0       |  1   0-3       |  3   1-3
+20  NEC Nijmegen             4 |  1   1-1       |  2   4-7       |  3   5-8
+21  Red Bull Salzburg        4 |  1   0-4       |  2   3-2       |  3   3-6
+22  Anderlecht               3 |  1   1-2       |  2   3-1       |  3   4-3
+23  1899 Hoffenheim          3 |  2   5-3       |  1   0-2       |  3   5-5
+24  AC Milan                 3 |  1   0-2       |  2   4-3       |  3   4-5
+25  Celta Vigo               3 |  1   1-2       |  2   2-2       |  3   3-4
+26  OFI                      3 |  2   2-2       |  1   1-2       |  3   3-4
+27  Jagiellonia              3 |  2   3-4       |  1   1-2       |  3   4-6
+28  Torreense                3 |  1   1-2       |  2   3-5       |  3   4-7
+29  Celje                    1 |  2   2-5       |  1   0-2       |  3   2-7
+30  Hapoel Beer Sheva        1 |  1   0-0       |  2   1-6       |  3   1-6
+31  Lillestrom               1 |  2   1-8       |  1   1-1       |  3   2-9
+32  Lech Poznan              1 |  2   1-5       |  1   0-4       |  3   1-9
+33  Plzen                    0 |  2   1-5       |  1   1-2       |  3   2-7
+34  Marseille                0 |  1   0-1       |  2   1-5       |  3   1-6
+35  Celtic                   0 |  2   2-5       |  1   1-4       |  3   3-9
+36  Ararat-Armenia           0 |  2   1-8       |  1   1-3       |  3   2-11
+
+TABLE FOR Cercle Brugge
+LEAGUE TABLE Jupiler Pro League 2026 | 18 teams | 76 games played
+League averages per game: home 1.78, away 1.33, total 3.11
+#   team                   Pts | home P GF-GA  | away P GF-GA  | all P GF-GA
+1   Gent                    22 |  4   7-2       |  4   8-2       |  8  15-4
+2   Club Brugge KV          21 |  4  10-1       |  4   9-3       |  8  19-4
+3   Charleroi               21 |  4  10-6       |  5   6-4       |  9  16-10
+4   Union St. Gilloise      20 |  4   9-1       |  4  13-3       |  8  22-4
+5   Anderlecht              16 |  4   6-1       |  4   3-5       |  8   9-6
+6   KVC Westerlo            14 |  5  16-14      |  4   8-7       |  9  24-21
+7   Genk                    12 |  4  11-3       |  4   5-9       |  8  16-12
+8   Lommel United           12 |  4   4-2       |  5   7-9       |  9  11-11
+9   Standard Liege          11 |  4   5-3       |  4   8-10      |  8  13-13
+10  Zulte Waregem           11 |  4   6-4       |  5   4-8       |  9  10-12
+11  Antwerp                 10 |  5  10-11      |  4   5-9       |  9  15-20
+12  SK Beveren              10 |  4   7-3       |  5   5-15      |  9  12-18
+13  St. Truiden              8 |  4   5-6       |  4  10-10      |  8  15-16
+14  RAAL La Louvière         7 |  5  10-8       |  4   1-10      |  9  11-18
+15  KV Mechelen              6 |  4   7-11      |  4   2-6       |  8   9-17
+16  OH Leuven                6 |  5   6-8       |  4   2-8       |  9   8-16
+17  Kortrijk                 3 |  4   2-8       |  4   0-10      |  8   2-18
+18  Cercle Brugge            3 |  4   4-9       |  4   5-7       |  8   9-16
+
+(27 API-Football requests used)
+
+----------------------------------------------------------------------
+MATCHBOOK: skipped (switched off for this run)

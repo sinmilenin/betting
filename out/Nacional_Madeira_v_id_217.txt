@@ -1,6 +1,6 @@
-MATCH CD Nacional v id:217 | fetched 2026-10-25 15:48 local
+MATCH Nacional Madeira v id:217 | fetched 2026-10-25 15:50 local
 
-FORM DATA CD Nacional v id:217 | source API-Football | 2026-10-25 15:48 UTC
+FORM DATA Nacional Madeira v id:217 | source API-Football | 2026-10-25 15:50 UTC
 H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
 
 === SC Braga (id 217): last 20 finished games ===
@@ -28,7 +28,7 @@ Listed home: 9 games, scored 15 (1.67), conceded 7 (0.78), blanks 0, clean sheet
 Listed away: 11 games, scored 15 (1.36), conceded 9 (0.82), blanks 4, clean sheets 6
 All: 20 games, scored 30 (1.50), conceded 16 (0.80), blanks 4, clean sheets 12
 
-!! CD Nacional: No team found for "CD Nacional".
+!! Nacional Madeira: No team found for "Nacional Madeira".
 
 TABLE FOR SC Braga
 LEAGUE TABLE UEFA Europa Conference League 2026 | 36 teams | 36 games played

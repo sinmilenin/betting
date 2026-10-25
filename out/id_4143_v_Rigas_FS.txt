@@ -1,6 +1,6 @@
-MATCH Super Nova v Rigas Futbola Skola | fetched 2026-10-25 15:48 local
+MATCH id:4143 v Rigas FS | fetched 2026-10-25 15:50 local
 
-FORM DATA Super Nova v Rigas Futbola Skola | source API-Football | 2026-10-25 15:48 UTC
+FORM DATA id:4143 v Rigas FS | source API-Football | 2026-10-25 15:50 UTC
 H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
 
 === Super Nova (id 4143): last 20 finished games ===
@@ -28,7 +28,16 @@ Listed home: 11 games, scored 9 (0.82), conceded 16 (1.45), blanks 4, clean shee
 Listed away: 9 games, scored 8 (0.89), conceded 12 (1.33), blanks 3, clean sheets 2
 All: 20 games, scored 17 (0.85), conceded 28 (1.40), blanks 7, clean sheets 5
 
-!! Rigas Futbola Skola: No team found for "Rigas Futbola Skola".
+"Rigas FS" matches several teams. Use id:<number> instead of the name:
+  id:4160   Rīgas FS (Latvia)
+  id:10922  Rīgas FS W (None)
+  id:18836  Rīgas FS II (Latvia)
+(retrying Rigas FS using the opponent's country, Latvia)
+"Rigas FS" matches several teams. Use id:<number> instead of the name:
+  id:4160   Rīgas FS (Latvia)
+  id:10922  Rīgas FS W (None)
+  id:18836  Rīgas FS II (Latvia)
+!! Rigas FS: Ambiguous team name "Rigas FS".
 
 TABLE FOR Super Nova
 LEAGUE TABLE Virsliga 2026 | 10 teams | 168 games played
@@ -45,7 +54,7 @@ League averages per game: home 1.62, away 1.26, total 2.88
 9   Tukums                  25 | 17  28-26      | 17  16-39      | 34  44-65
 10  Ogre United             18 | 17  19-36      | 17  15-49      | 34  34-85
 
-(14 API-Football requests used)
+(15 API-Football requests used)
 
 ----------------------------------------------------------------------
 MATCHBOOK: skipped (switched off for this run)

@@ -1,12 +1,10 @@
-RUN 2026-10-25 15:48 local | 6 match(es)
-Super Nova v Rigas Futbola Skola -> out/Super_Nova_v_Rigas_Futbola_Skola.txt
-    !! Rigas Futbola Skola: No team found for "Rigas Futbola Skola".
-id:1026 v Red Bull Salzburg -> out/id_1026_v_Red_Bull_Salzburg.txt
-id:320 v KFUM Oslo -> out/id_320_v_KFUM_Oslo.txt
-CD Nacional v id:217 -> out/CD_Nacional_v_id_217.txt
-    !! CD Nacional: No team found for "CD Nacional".
-Gilloise v Cercle Brugge -> out/Gilloise_v_Cercle_Brugge.txt
-    !! Gilloise: Ambiguous team name "Gilloise".
-Volos v Panathinaikos -> out/Volos_v_Panathinaikos.txt
-    !! Volos: Ambiguous team name "Volos".
-Requests used: API-Football 109, Matchbook 0
+RUN 2026-10-25 15:50 local | 5 match(es)
+id:4143 v Rigas FS -> out/id_4143_v_Rigas_FS.txt
+    !! Rigas FS: Ambiguous team name "Rigas FS".
+Nacional Madeira v id:217 -> out/Nacional_Madeira_v_id_217.txt
+    !! Nacional Madeira: No team found for "Nacional Madeira".
+Nacional Funchal v id:217 -> out/Nacional_Funchal_v_id_217.txt
+    !! Nacional Funchal: No team found for "Nacional Funchal".
+id:1393 v Cercle Brugge -> out/id_1393_v_Cercle_Brugge.txt
+id:2110 v Panathinaikos -> out/id_2110_v_Panathinaikos.txt
+Requests used: API-Football 94, Matchbook 0
