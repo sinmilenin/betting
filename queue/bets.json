@@ -460,5 +460,16 @@
     "lay": 8.8,
     "stake": 3,
     "created": "2026-10-25T18:19:07+01:00"
+  },
+  {
+    "id": "2026-10-25_fortaleza-fc-deportivo-cali_2-2",
+    "date": "2026-10-25",
+    "ko": "20:00",
+    "match": "Fortaleza FC v Deportivo Cali",
+    "comp": "Colombia, Colombian Primera A",
+    "cell": "2-2",
+    "lay": 20,
+    "stake": 3,
+    "created": "2026-10-25T18:21:01+01:00"
   }
 ]
