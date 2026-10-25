@@ -1,7 +1,6 @@
-# Scan 2026-10-25 16:42 (Ljubljana) run 2: team name fixes
-Super Nova v Rigas Futbola Skola | n=20 | xg=10
-id:1026 v Red Bull Salzburg | n=20 | xg=10
-id:320 v KFUM Oslo | n=20 | xg=10
-CD Nacional v id:217 | n=20 | xg=10
-Gilloise v Cercle Brugge | n=20 | xg=10
-Volos v Panathinaikos | n=20 | xg=10
+# Scan 2026-10-25 16:42 (Ljubljana) run 3: team id fixes
+id:4143 v Rigas FS | n=20 | xg=10
+Nacional Madeira v id:217 | n=20 | xg=10
+Nacional Funchal v id:217 | n=20 | xg=10
+id:1393 v Cercle Brugge | n=20 | xg=10
+id:2110 v Panathinaikos | n=20 | xg=10
