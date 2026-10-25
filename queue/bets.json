@@ -350,5 +350,60 @@
     "lay": 10.5,
     "stake": 3,
     "created": "2026-10-25T14:20:31Z"
+  },
+  {
+    "id": "2026-10-25_goztepe-corum-belediyespor_0-1",
+    "date": "2026-10-25",
+    "ko": "17:00",
+    "match": "Goztepe v Corum Belediyespor",
+    "comp": "Turkey, Turkish Super League",
+    "cell": "0-1",
+    "lay": 16,
+    "stake": 3,
+    "created": "2026-10-25T16:05:03+01:00"
+  },
+  {
+    "id": "2026-10-25_goztepe-corum-belediyespor_1-0",
+    "date": "2026-10-25",
+    "ko": "17:00",
+    "match": "Goztepe v Corum Belediyespor",
+    "comp": "Turkey, Turkish Super League",
+    "cell": "1-0",
+    "lay": 12,
+    "stake": 3,
+    "created": "2026-10-25T16:05:03+01:00"
+  },
+  {
+    "id": "2026-10-25_osijek-rudes_2-1",
+    "date": "2026-10-25",
+    "ko": "18:00",
+    "match": "Osijek v Rudes",
+    "comp": "Croatia, Croatian HNL",
+    "cell": "2-1",
+    "lay": 9.6,
+    "stake": 3,
+    "created": "2026-10-25T16:05:03+01:00"
+  },
+  {
+    "id": "2026-10-25_cd-castellon-sporting-gijon_2-1",
+    "date": "2026-10-25",
+    "ko": "18:30",
+    "match": "CD Castellon v Sporting Gijon",
+    "comp": "Spain, Spanish Segunda Division",
+    "cell": "2-1",
+    "lay": 9.4,
+    "stake": 3,
+    "created": "2026-10-25T16:05:03+01:00"
+  },
+  {
+    "id": "2026-10-25_gent-anderlecht_2-2",
+    "date": "2026-10-25",
+    "ko": "18:30",
+    "match": "Gent v Anderlecht",
+    "comp": "Belgium, Belgian Pro League",
+    "cell": "2-2",
+    "lay": 18,
+    "stake": 3,
+    "created": "2026-10-25T16:05:03+01:00"
   }
 ]
