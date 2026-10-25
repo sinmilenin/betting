@@ -1,7 +1,13 @@
-RUN 2026-10-25 10:29 local | 4 match(es)
-Guangzhou E-Power v Suzhou Dongwu -> out/Guangzhou_E_Power_v_Suzhou_Dongwu.txt
-    !! Guangzhou E-Power: API-Football error: {"search": "The Search field may only contain alpha-numeric characters and spaces."}
-FC Thun v FC Lugano -> out/FC_Thun_v_FC_Lugano.txt
-FC Midtjylland v Lyngby -> out/FC_Midtjylland_v_Lyngby.txt
-HJK Helsinki v KuPS -> out/HJK_Helsinki_v_KuPS.txt
-Requests used: API-Football 89, Matchbook 0
+RUN 2026-10-25 11:15 local | 9 match(es)
+Viking v Tromso -> out/Viking_v_Tromso.txt
+PSV Eindhoven v Feyenoord -> out/PSV_Eindhoven_v_Feyenoord.txt
+NEC Nijmegen v Groningen -> out/NEC_Nijmegen_v_Groningen.txt
+Sparta Praha v Slovacko -> out/Sparta_Praha_v_Slovacko.txt
+    !! Slovacko: Ambiguous team name "Slovacko".
+Motherwell v Hearts -> out/Motherwell_v_Hearts.txt
+    !! Hearts: Ambiguous team name "Hearts".
+Helsingborg v Ljungskile -> out/Helsingborg_v_Ljungskile.txt
+Olympiakos Piraeus v Kalamata -> out/Olympiakos_Piraeus_v_Kalamata.txt
+Garudayaksa v Persib Bandung -> out/Garudayaksa_v_Persib_Bandung.txt
+Palermo v Carrarese -> out/Palermo_v_Carrarese.txt
+Requests used: API-Football 205, Matchbook 0

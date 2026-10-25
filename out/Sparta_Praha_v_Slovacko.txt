@@ -1,0 +1,88 @@
+MATCH Sparta Praha v Slovacko | fetched 2026-10-25 11:15 local
+
+FORM DATA Sparta Praha v Slovacko | source API-Football | 2026-10-25 11:15 UTC
+H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
+
+=== Sparta Praha (id 628): last 20 finished games ===
+2026-10-22 A 0-1 v Olympiakos Piraeus | UEFA Europa League | Piraeus | xG 0.73-2.17
+2026-10-18 A 0-0 v Baník Ostrava | Czech Liga | Ostrava | xG 1.64-0.99
+2026-10-15 H 1-1 v Lillestrom | UEFA Europa League | Prague | xG 1.12-0.84
+2026-10-11 H 2-0 v Pardubice | Czech Liga | Prague | xG 2.36-1.06
+2026-10-02 H 5-3 v Vysočina Jihlava | Friendlies Clubs | Prague
+2026-09-20 A 3-0 v Sigma Olomouc | Czech Liga | Olomouc | xG 1.88-0.86
+2026-09-16 A 4-1 v Ararat-Armenia | UEFA Europa League | Yerevan
+2026-09-12 H 2-0 v FK Jablonec | Czech Liga | Prague | xG 1.32-0.79
+2026-09-09 A 5-0 v Viktoria Žižkov | Cup | Prague
+2026-09-06 A 1-2 v Hradec Králové | Czech Liga | Hradec Kralove | xG 1.18-1.14
+2026-08-30 H 0-3 v Slavia Praha | Czech Liga | Prague
+2026-08-22 A 4-0 v Artis | Czech Liga | Brno
+2026-08-15 H 4-1 v Teplice | Czech Liga | Prague
+2026-08-11 A 0-3 v Lyon | UEFA Champions League | Lyon
+2026-08-08 A 0-2 v Mlada Boleslav | Czech Liga | Mlada Boleslav
+2026-08-04 H 2-1 v Lyon | UEFA Champions League | Prague
+2026-07-31 H 3-1 v Zlin | Czech Liga | Prague
+2026-07-25 A 1-3 v Zbrojovka Brno | Czech Liga | Brno
+2026-07-17 A 1-5 v FC Nordsjaelland | Friendlies Clubs | ?
+2026-07-16 A 0-1 v Jagiellonia | Friendlies Clubs | ?
+Listed home: 8 games, scored 19 (2.38), conceded 10 (1.25), blanks 1, clean sheets 2
+Listed away: 12 games, scored 19 (1.58), conceded 18 (1.50), blanks 5, clean sheets 4
+All: 20 games, scored 38 (1.90), conceded 28 (1.40), blanks 6, clean sheets 6
+
+"Slovacko" matches several teams. Use id:<number> instead of the name:
+  id:3719   Slovácko (Czech-Republic)
+  id:8623   Slovácko II (Czech-Republic)
+  id:14838  Slovácko U19 (Czech-Republic)
+  id:14847  Slovácko W (Czech-Republic)
+(retrying Slovacko using the opponent's country, Czech-Republic)
+"Slovacko" matches several teams. Use id:<number> instead of the name:
+  id:3719   Slovácko (Czech-Republic)
+  id:8623   Slovácko II (Czech-Republic)
+  id:14838  Slovácko U19 (Czech-Republic)
+  id:14847  Slovácko W (Czech-Republic)
+!! Slovacko: Ambiguous team name "Slovacko".
+
+TABLE FOR Sparta Praha
+LEAGUE TABLE UEFA Europa League 2026 | 36 teams | 54 games played
+League averages per game: home 1.50, away 1.57, total 3.07
+#   team                   Pts | home P GF-GA  | away P GF-GA  | all P GF-GA
+1   Benfica                  9 |  1   4-1       |  2   6-1       |  3  10-2
+2   Bayer Leverkusen         9 |  1   2-0       |  2   6-0       |  3   8-0
+3   Bournemouth              9 |  2   6-0       |  1   2-1       |  3   8-1
+4   Ferencvarosi TC          9 |  2   6-2       |  1   3-1       |  3   9-3
+5   Olympiakos Piraeus       9 |  2   3-1       |  1   1-0       |  3   4-1
+6   Union St. Gilloise       7 |  2   5-1       |  1   3-0       |  3   8-1
+7   Juventus                 7 |  2   7-2       |  1   2-1       |  3   9-3
+8   Beşiktaş                 7 |  2   6-3       |  1   3-2       |  3   9-5
+9   Sunderland               7 |  1   1-0       |  2   3-2       |  3   4-2
+10  AZ Alkmaar               6 |  1   2-1       |  2   4-1       |  3   6-2
+11  Omonia Nicosia           6 |  2   2-4       |  1   3-0       |  3   5-4
+12  Lyon                     6 |  1   3-2       |  2   2-4       |  3   5-6
+13  Rennes                   5 |  1   2-1       |  2   2-2       |  3   4-3
+14  Real Sociedad            4 |  1   1-2       |  2   7-1       |  3   8-3
+15  Crystal Palace           4 |  1   4-0       |  2   4-5       |  3   8-5
+16  Sparta Praha             4 |  1   1-1       |  2   4-2       |  3   5-3
+17  Levski Sofia             4 |  1   0-1       |  2   3-2       |  3   3-3
+18  Dinamo Zagreb            4 |  2   3-4       |  1   0-0       |  3   3-4
+19  Sturm Graz               4 |  2   1-0       |  1   0-3       |  3   1-3
+20  NEC Nijmegen             4 |  1   1-1       |  2   4-7       |  3   5-8
+21  Red Bull Salzburg        4 |  1   0-4       |  2   3-2       |  3   3-6
+22  Anderlecht               3 |  1   1-2       |  2   3-1       |  3   4-3
+23  1899 Hoffenheim          3 |  2   5-3       |  1   0-2       |  3   5-5
+24  AC Milan                 3 |  1   0-2       |  2   4-3       |  3   4-5
+25  Celta Vigo               3 |  1   1-2       |  2   2-2       |  3   3-4
+26  OFI                      3 |  2   2-2       |  1   1-2       |  3   3-4
+27  Jagiellonia              3 |  2   3-4       |  1   1-2       |  3   4-6
+28  Torreense                3 |  1   1-2       |  2   3-5       |  3   4-7
+29  Celje                    1 |  2   2-5       |  1   0-2       |  3   2-7
+30  Hapoel Beer Sheva        1 |  1   0-0       |  2   1-6       |  3   1-6
+31  Lillestrom               1 |  2   1-8       |  1   1-1       |  3   2-9
+32  Lech Poznan              1 |  2   1-5       |  1   0-4       |  3   1-9
+33  Plzen                    0 |  2   1-5       |  1   1-2       |  3   2-7
+34  Marseille                0 |  1   0-1       |  2   1-5       |  3   1-6
+35  Celtic                   0 |  2   2-5       |  1   1-4       |  3   3-9
+36  Ararat-Armenia           0 |  2   1-8       |  1   1-3       |  3   2-11
+
+(14 API-Football requests used)
+
+----------------------------------------------------------------------
+MATCHBOOK: skipped (switched off for this run)
