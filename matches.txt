@@ -1,6 +1,4 @@
-# Scan 2026-10-25 15:57 (Ljubljana) run 1
-Goztepe v Corum FK | n=20 | xg=10
-Plzen v Pardubice | n=20 | xg=10
-Gent v Anderlecht | n=20 | xg=10
-Osijek v Rudes | n=20 | xg=10
-Castellon v Sporting Gijon | n=20 | xg=10
+# Scan 2026-10-25 15:57 (Ljubljana) run 2: team id fix
+id:994 v Corum FK | n=20 | xg=10
+id:616 v Rudes | n=20 | xg=10
+id:5254 v Sporting Gijon | n=20 | xg=10
