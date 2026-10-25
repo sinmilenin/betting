@@ -1,0 +1,68 @@
+MATCH Kawasaki Frontale v Okayama | fetched 2026-10-25 05:12 local
+
+FORM DATA Kawasaki Frontale v Okayama | source API-Football | 2026-10-25 05:12 UTC
+H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
+
+=== Kawasaki Frontale (id 294): last 20 finished games ===
+2026-10-21 H 2-1 v Vissel Kobe | J1 League | Kawasaki | xG 2.09-1.38
+2026-10-17 A 4-2 v Cerezo Osaka | J1 League | Osaka | xG 1.06-1.53
+2026-10-14 A 4-0 v Jubilo Iwata | J-League Cup | Iwata
+2026-10-11 H 1-2 v Nagoya Grampus | J1 League | Kawasaki | xG 1.33-1.12
+2026-10-07 H 2-0 v Tegevajaro Miyazaki | Emperor Cup | Kawasaki
+2026-09-29 A 1-0 v Roasso Kumamoto | J-League Cup | Kumamoto
+2026-09-19 H 3-3 v Kashima | J1 League | Kawasaki | xG 2.78-1.78
+2026-09-12 A 1-0 v Mito Hollyhock | J1 League | Ibaraki | xG 2.98-0.39
+2026-09-06 H 3-1 v Shimizu S-pulse | J1 League | Tokyo | xG 4.48-1.81
+2026-09-02 A 1-2 v Machida Zelvia | J1 League | Tokyo | xG 1.00-1.66
+2026-08-29 H 4-2 v JEF United Chiba | J1 League | Kawasaki
+2026-08-26 H 3-1 v Tochigi SC | Emperor Cup | Kawasaki
+2026-08-22 A 1-1 v Sanfrecce Hiroshima | J1 League | Hiroshima
+2026-08-15 H 2-2 v Kyoto Sanga | J1 League | Kawasaki
+2026-08-09 A 1-1 v Tokyo Verdy | J1 League | Tokyo
+2026-07-16 H 0-0 v Vanraure Hachinohe | Friendlies Clubs | ?
+2026-06-06 H 0-1 v Sanfrecce Hiroshima | J1 League | Kawasaki
+2026-05-30 A 1-2 v Sanfrecce Hiroshima | J1 League | Hiroshima
+2026-05-24 A 3-1 v Mito Hollyhock | J1 League | Mito
+2026-05-17 H 1-1 v Machida Zelvia | J1 League | Kawasaki [PEN, 90-min score shown]
+Listed home: 11 games, scored 21 (1.91), conceded 14 (1.27), blanks 2, clean sheets 2
+Listed away: 9 games, scored 17 (1.89), conceded 9 (1.00), blanks 0, clean sheets 3
+All: 20 games, scored 38 (1.90), conceded 23 (1.15), blanks 2, clean sheets 5
+
+"Okayama" matches several teams. Use id:<number> instead of the name:
+  id:310    Fagiano Okayama (Japan)
+  id:11425  Fagiano Okayama II (Japan)
+(retrying Okayama using the opponent's country, Japan)
+"Okayama" matches several teams. Use id:<number> instead of the name:
+  id:310    Fagiano Okayama (Japan)
+  id:11425  Fagiano Okayama II (Japan)
+!! Okayama: Ambiguous team name "Okayama".
+
+TABLE FOR Kawasaki Frontale
+LEAGUE TABLE J1 League 2027 | 20 teams | 115 games played
+League averages per game: home 1.58, away 1.38, total 2.97
+#   team                   Pts | home P GF-GA  | away P GF-GA  | all P GF-GA
+1   Machida Zelvia          27 |  5  11-7       |  7  19-3       | 12  30-10
+2   Sanfrecce Hiroshima     26 |  6  20-2       |  6   9-8       | 12  29-10
+3   Kashiwa Reysol          25 |  5  11-10      |  7  14-9       | 12  25-19
+4   FC Tokyo                24 |  6   9-5       |  5  12-3       | 11  21-8
+5   Vissel Kobe             23 |  5   8-4       |  7  10-7       | 12  18-11
+6   Kashima                 20 |  6  11-7       |  6  14-14      | 12  25-21
+7   Kawasaki Frontale       19 |  6  15-11      |  5   8-6       | 11  23-17
+8   Urawa                   18 |  5  11-11      |  6   9-12      | 11  20-23
+9   Yokohama F. Marinos     17 |  5   9-7       |  6   6-4       | 11  15-11
+10  Fagiano Okayama         16 |  6   7-7       |  5   7-8       | 11  14-15
+11  Shimizu S-pulse         14 |  7   6-11      |  5   4-9       | 12  10-20
+12  Nagoya Grampus          13 |  5   7-7       |  6   6-10      | 11  13-17
+13  Cerezo Osaka            13 |  6   7-5       |  5   3-12      | 11  10-17
+14  V-varen Nagasaki        12 |  6  11-7       |  5   4-11      | 11  15-18
+15  Gamba Osaka             11 |  5   6-8       |  7   8-13      | 12  14-21
+16  Kyoto Sanga             10 |  5   7-10      |  7   8-13      | 12  15-23
+17  Mito Hollyhock           9 |  6   7-8       |  5   5-8       | 11  12-16
+18  Tokyo Verdy              8 |  8   6-16      |  4   3-5       | 12   9-21
+19  Avispa Fukuoka           7 |  7   9-9       |  5   4-12      | 12  13-21
+20  JEF United Chiba         6 |  5   4-7       |  6   6-15      | 11  10-22
+
+(14 API-Football requests used)
+
+----------------------------------------------------------------------
+MATCHBOOK: skipped (switched off for this run)

@@ -1,5 +1,8 @@
-RUN 2026-10-24 19:04 local | 3 match(es)
-id:7865 v Vila Nova -> out/id_7865_v_Vila_Nova.txt
-id:132 v Fluminense -> out/id_132_v_Fluminense.txt
-LDU de Quito v Macara -> out/LDU_de_Quito_v_Macara.txt
-Requests used: API-Football 76, Matchbook 0
+RUN 2026-10-25 05:12 local | 4 match(es)
+Urawa v Nagasaki -> out/Urawa_v_Nagasaki.txt
+    !! Nagasaki: Ambiguous team name "Nagasaki".
+Cerezo Osaka v JEF United Chiba -> out/Cerezo_Osaka_v_JEF_United_Chiba.txt
+FC Tokyo v Mito -> out/FC_Tokyo_v_Mito.txt
+Kawasaki Frontale v Okayama -> out/Kawasaki_Frontale_v_Okayama.txt
+    !! Okayama: Ambiguous team name "Okayama".
+Requests used: API-Football 78, Matchbook 0
