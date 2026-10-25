@@ -1,21 +1,12 @@
-RUN 2026-10-25 15:46 local | 13 match(es)
-Start v Sandefjord -> out/Start_v_Sandefjord.txt
-Super Nova v RFS -> out/Super_Nova_v_RFS.txt
-    !! RFS: Ambiguous team name "RFS".
-LASK v Red Bull Salzburg -> out/LASK_v_Red_Bull_Salzburg.txt
-    !! LASK: Ambiguous team name "LASK".
-Kristiansund v KFUM Oslo -> out/Kristiansund_v_KFUM_Oslo.txt
-    !! Kristiansund: Ambiguous team name "Kristiansund".
-Aris v Atromitos -> out/Aris_v_Atromitos.txt
-Nacional v Braga -> out/Nacional_v_Braga.txt
-    !! Braga: Ambiguous team name "Braga".
-OFI v PAOK -> out/OFI_v_PAOK.txt
-Rio Ave v Famalicao -> out/Rio_Ave_v_Famalicao.txt
-Union St. Gilloise v Cercle Brugge -> out/Union_St_Gilloise_v_Cercle_Brugge.txt
-    !! Union St. Gilloise: API-Football error: {"search": "The Search field may only contain alpha-numeric characters and spaces."}
-NFC Volos v Panathinaikos -> out/NFC_Volos_v_Panathinaikos.txt
-    !! NFC Volos: No team found for "NFC Volos".
-Rennes v Strasbourg -> out/Rennes_v_Strasbourg.txt
-Auxerre v Le Mans -> out/Auxerre_v_Le_Mans.txt
-Angers v Lorient -> out/Angers_v_Lorient.txt
-Requests used: API-Football 262, Matchbook 0
+RUN 2026-10-25 15:48 local | 6 match(es)
+Super Nova v Rigas Futbola Skola -> out/Super_Nova_v_Rigas_Futbola_Skola.txt
+    !! Rigas Futbola Skola: No team found for "Rigas Futbola Skola".
+id:1026 v Red Bull Salzburg -> out/id_1026_v_Red_Bull_Salzburg.txt
+id:320 v KFUM Oslo -> out/id_320_v_KFUM_Oslo.txt
+CD Nacional v id:217 -> out/CD_Nacional_v_id_217.txt
+    !! CD Nacional: No team found for "CD Nacional".
+Gilloise v Cercle Brugge -> out/Gilloise_v_Cercle_Brugge.txt
+    !! Gilloise: Ambiguous team name "Gilloise".
+Volos v Panathinaikos -> out/Volos_v_Panathinaikos.txt
+    !! Volos: Ambiguous team name "Volos".
+Requests used: API-Football 109, Matchbook 0

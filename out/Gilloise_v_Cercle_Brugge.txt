@@ -1,8 +1,13 @@
-MATCH Union St. Gilloise v Cercle Brugge | fetched 2026-10-25 15:46 local
+MATCH Gilloise v Cercle Brugge | fetched 2026-10-25 15:48 local
 
-FORM DATA Union St. Gilloise v Cercle Brugge | source API-Football | 2026-10-25 15:47 UTC
+FORM DATA Gilloise v Cercle Brugge | source API-Football | 2026-10-25 15:48 UTC
 H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
 
+"Gilloise" matches several teams. Use id:<number> instead of the name:
+  id:265    Union S.gilloise (None)
+  id:1393   Union St. Gilloise (Belgium)
+  id:19902  Union Saint-Gilloise II (Belgium)
+  id:24651  Union St-Gilloise U21 (Belgium)
 === Cercle Brugge (id 741): last 20 finished games ===
 2026-10-16 A 2-1 v Sporting Hasselt | Cup | ?
 2026-10-10 H 1-2 v Anderlecht | Jupiler Pro League | Bruges | xG 1.02-1.06
@@ -28,7 +33,13 @@ Listed home: 8 games, scored 12 (1.50), conceded 14 (1.75), blanks 2, clean shee
 Listed away: 12 games, scored 21 (1.75), conceded 25 (2.08), blanks 2, clean sheets 0
 All: 20 games, scored 33 (1.65), conceded 39 (1.95), blanks 4, clean sheets 1
 
-!! Union St. Gilloise: API-Football error: {"search": "The Search field may only contain alpha-numeric characters and spaces."}
+(retrying Gilloise using the opponent's country, Belgium)
+"Gilloise" matches several teams. Use id:<number> instead of the name:
+  id:265    Union S.gilloise (None)
+  id:1393   Union St. Gilloise (Belgium)
+  id:19902  Union Saint-Gilloise II (Belgium)
+  id:24651  Union St-Gilloise U21 (Belgium)
+!! Gilloise: Ambiguous team name "Gilloise".
 
 TABLE FOR Cercle Brugge
 LEAGUE TABLE Jupiler Pro League 2026 | 18 teams | 76 games played
@@ -53,7 +64,7 @@ League averages per game: home 1.78, away 1.33, total 3.11
 17  Kortrijk                 3 |  4   2-8       |  4   0-10      |  8   2-18
 18  Cercle Brugge            3 |  4   4-9       |  4   5-7       |  8   9-16
 
-(15 API-Football requests used)
+(16 API-Football requests used)
 
 ----------------------------------------------------------------------
 MATCHBOOK: skipped (switched off for this run)

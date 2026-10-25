@@ -1,8 +1,12 @@
-MATCH NFC Volos v Panathinaikos | fetched 2026-10-25 15:46 local
+MATCH Volos v Panathinaikos | fetched 2026-10-25 15:48 local
 
-FORM DATA NFC Volos v Panathinaikos | source API-Football | 2026-10-25 15:47 UTC
+FORM DATA Volos v Panathinaikos | source API-Football | 2026-10-25 15:48 UTC
 H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
 
+"Volos" matches several teams. Use id:<number> instead of the name:
+  id:2110   Volos NFC (Greece)
+  id:5056   Niki Volos (Greece)
+  id:7519   Olympiakos Volos (Greece)
 === Panathinaikos (id 617): last 20 finished games ===
 2026-10-22 A 5-1 v Kairat Almaty | UEFA Europa Conference League | Almaty | xG 2.55-0.83
 2026-10-18 H 5-1 v Asteras Tripolis | Super League 1 | Athens | xG 5.80-0.91
@@ -28,7 +32,12 @@ Listed home: 10 games, scored 25 (2.50), conceded 9 (0.90), blanks 0, clean shee
 Listed away: 10 games, scored 18 (1.80), conceded 10 (1.00), blanks 1, clean sheets 3
 All: 20 games, scored 43 (2.15), conceded 19 (0.95), blanks 1, clean sheets 6
 
-!! NFC Volos: No team found for "NFC Volos".
+(retrying Volos using the opponent's country, Greece)
+"Volos" matches several teams. Use id:<number> instead of the name:
+  id:2110   Volos NFC (Greece)
+  id:5056   Niki Volos (Greece)
+  id:7519   Olympiakos Volos (Greece)
+!! Volos: Ambiguous team name "Volos".
 
 TABLE FOR Panathinaikos
 LEAGUE TABLE UEFA Europa Conference League 2026 | 36 teams | 36 games played
