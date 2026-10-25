@@ -1,32 +1,32 @@
-MATCH Cesar Vallejo v Alianza Lima | fetched 2026-10-25 17:58 local
+MATCH UCV Moquegua v Alianza Lima | fetched 2026-10-25 18:00 local
 
-FORM DATA Cesar Vallejo v Alianza Lima | source API-Football | 2026-10-25 17:58 UTC
+FORM DATA UCV Moquegua v Alianza Lima | source API-Football | 2026-10-25 18:00 UTC
 H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
 
-=== Cesar Vallejo (id 2541): last 20 finished games ===
-2026-10-17 H 2-1 v Estudiantil CNI | Segunda División | Trujillo
-2026-10-07 A 3-3 v Estudiantil CNI | Segunda División | Iquitos
-2026-09-05 H 0-1 v Deportiva Agropecuaria | Segunda División | Trujillo
-2026-08-29 A 0-2 v U. San Martin | Segunda División | Lima
-2026-08-23 H 2-0 v Deportivo Llacuabamba | Segunda División | Trujillo
-2026-08-16 A 1-0 v Carlos A. Mannucci | Segunda División | Trujillo
-2026-08-09 H 1-1 v Molinos El Pirata | Segunda División | Trujillo
-2026-08-01 A 1-1 v Academia Cantolao | Segunda División | ?
-2026-07-25 H 0-0 v Union Comercio | Segunda División | Trujillo
-2026-06-28 H 2-3 v Carlos A. Mannucci | Copa De La Liga | Trujillo
-2026-06-19 A 0-2 v Alianza Atletico | Copa De La Liga | Sullana
-2026-06-14 H 0-0 v Alianza Lima | Copa De La Liga | Trujillo
-2026-05-25 A 1-1 v Deportiva Agropecuaria | Segunda División | Jaen
-2026-05-17 H 0-1 v U. San Martin | Segunda División | ?
-2026-05-09 A 0-2 v Deportivo Llacuabamba | Segunda División | ?
-2026-05-02 H 2-0 v Carlos A. Mannucci | Segunda División | ?
-2026-04-27 A 1-2 v Molinos El Pirata | Segunda División | ?
-2026-04-19 H 2-1 v Academia Cantolao | Segunda División | ?
-2026-04-05 A 0-1 v Union Comercio | Segunda División | Tarapoto
-2025-11-16 A 2-3 v UCV Moquegua | Segunda División | Moquegua
-Listed home: 10 games, scored 11 (1.10), conceded 8 (0.80), blanks 4, clean sheets 4
-Listed away: 10 games, scored 9 (0.90), conceded 17 (1.70), blanks 4, clean sheets 1
-All: 20 games, scored 20 (1.00), conceded 25 (1.25), blanks 8, clean sheets 5
+=== UCV Moquegua (id 22489): last 20 finished games ===
+2026-10-18 A 1-0 v FC Cajamarca | Primera División | Cajamarca | xG 0.51-0.74
+2026-10-08 H 0-2 v Cienciano | Primera División | Moquegua
+2026-09-20 A 0-4 v Juan Pablo II College | Primera División | Chongoyape
+2026-09-13 H 1-2 v Sporting Cristal | Primera División | Moquegua
+2026-09-05 A 0-2 v Cusco | Primera División | Cusco | xG 0.17-3.78
+2026-08-30 H 1-4 v Alianza Atletico | Primera División | Moquegua
+2026-08-27 A 0-2 v ADT | Copa De La Liga | Tarma
+2026-08-22 A 2-0 v Sport Huancayo | Primera División | Huancayo
+2026-08-16 H 1-1 v Sport Boys | Primera División | Moquegua | xG 0.84-1.65
+2026-08-09 A 0-2 v Deportivo Garcilaso | Primera División | Cusco
+2026-08-02 H 0-0 v FBC Melgar | Primera División | Moquegua
+2026-07-26 A 0-0 v UTC Cajamarca | Primera División | Cajamarca
+2026-07-18 H 2-2 v Comerciantes Unidos | Primera División | Moquegua
+2026-07-12 H 0-0 v Deportivo Garcilaso | Copa De La Liga | Moquegua [PEN, 90-min score shown]
+2026-06-29 A 0-0 v FBC Melgar | Copa De La Liga | Arequipa
+2026-06-21 H 3-2 v Bentín Tacna Heroica | Copa De La Liga | Moquegua
+2026-05-29 A 0-1 v Atletico Grau | Primera División | Sullana
+2026-05-23 H 0-0 v Universitario | Primera División | Moquegua
+2026-05-17 A 0-1 v Club Deportivo Los Chankas | Primera División | Andahuaylas
+2026-05-09 H 2-2 v ADT | Primera División | Moquegua
+Listed home: 10 games, scored 10 (1.00), conceded 15 (1.50), blanks 4, clean sheets 3
+Listed away: 10 games, scored 3 (0.30), conceded 12 (1.20), blanks 8, clean sheets 4
+All: 20 games, scored 13 (0.65), conceded 27 (1.35), blanks 12, clean sheets 7
 
 === Alianza Lima (id 2553): last 20 finished games ===
 2026-10-18 H 3-1 v Atletico Grau | Primera División | Lima | xG 1.64-0.57
@@ -53,30 +53,7 @@ Listed home: 11 games, scored 17 (1.55), conceded 12 (1.09), blanks 2, clean she
 Listed away: 9 games, scored 10 (1.11), conceded 10 (1.11), blanks 1, clean sheets 2
 All: 20 games, scored 27 (1.35), conceded 22 (1.10), blanks 3, clean sheets 5
 
-TABLE FOR Cesar Vallejo
-LEAGUE TABLE Segunda División 2026 | 18 teams | 142 games played
-League averages per game: home 1.52, away 0.92, total 2.44
-#   team                   Pts | home P GF-GA  | away P GF-GA  | all P GF-GA
-1   Union Comercio          32 |  8  11-2       |  8   8-3       | 16  19-5 [Segunda División]
-2   Carlos A. Mannucci      30 |  8  11-2       |  8  11-10      | 16  22-12 [Segunda División]
-3   Deportivo Llacuabamba   28 |  8  16-1       |  8   7-9       | 16  23-10 [Segunda División]
-4   Molinos El Pirata       25 |  8  16-12      |  8   9-8       | 16  25-20 [Segunda División]
-5   U. San Martin           24 |  8  13-6       |  8  13-11      | 16  26-17 [Segunda División]
-6   Deportiva Agropecuaria  21 |  7   8-5       |  8   6-7       | 15  14-12 [Segunda División]
-7   Cesar Vallejo           19 |  8  10-4       |  7   4-9       | 15  14-13 [Segunda División]
-8   Academia Cantolao       14 |  8  11-14      |  8   8-16      | 16  19-30 [Segunda División]
-9   San Marcos               0 |  7   0-21      |  7   1-23      | 14   1-44 [Segunda División]
-1   Bentín Tacna Heroica    29 |  8  14-5       |  8   8-8       | 16  22-13 [Segunda División]
-2   Comerciantes            26 |  8  18-8       |  8   6-7       | 16  24-15 [Segunda División]
-3   Minas                   25 |  8  10-3       |  8  15-9       | 16  25-12 [Segunda División]
-4   Sport Huancayo 2        25 |  8  15-2       |  8   7-11      | 16  22-13 [Segunda División]
-5   Alianza Universidad     21 |  8  11-10      |  8   7-8       | 16  18-18 [Segunda División]
-6   Santos                  21 |  8  15-7       |  8   4-15      | 16  19-22 [Segunda División]
-7   Ayacucho FC             19 |  8  12-8       |  8   7-13      | 16  19-21 [Segunda División]
-8   Estudiantil CNI         17 |  8  20-4       |  8   5-17      | 16  25-21 [Segunda División]
-9   Deportivo Binacional    10 |  8   5-17      |  8   5-32      | 16  10-49 [Segunda División]
-
-TABLE FOR Alianza Lima
+TABLE FOR UCV Moquegua
 LEAGUE TABLE Primera División 2026 | 54 teams | 266 games played
 League averages per game: home 1.70, away 1.09, total 2.79
 #   team                   Pts | home P GF-GA  | away P GF-GA  | all P GF-GA
@@ -135,7 +112,9 @@ League averages per game: home 1.70, away 1.09, total 2.79
 17  ADT                      7 |  6   5-8       |  7   4-16      | 13   9-24 [Primera Division: Clausura]
 18  UTC Cajamarca            2 |  7   6-13      |  6   6-15      | 13  12-28 [Primera Division: Clausura]
 
-(26 API-Football requests used)
+(Alianza Lima: same table as UCV Moquegua, shown above)
+
+(24 API-Football requests used)
 
 ----------------------------------------------------------------------
 MATCHBOOK: skipped (switched off for this run)

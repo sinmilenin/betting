@@ -1,8 +1,17 @@
-MATCH RFC Liege v Patro Eisden | fetched 2026-10-25 17:58 local
+MATCH Liege v Patro Eisden | fetched 2026-10-25 18:00 local
 
-FORM DATA RFC Liege v Patro Eisden | source API-Football | 2026-10-25 17:58 UTC
+FORM DATA Liege v Patro Eisden | source API-Football | 2026-10-25 18:00 UTC
 H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
 
+"Liege" matches several teams. Use id:<number> instead of the name:
+  id:733    Standard Liege (Belgium)
+  id:1791   Standard Liege W (Belgium)
+  id:5929   Sport Liège (Belgium)
+  id:5960   UCE Liège (Belgium)
+  id:6220   Liège (Belgium)
+  id:10851  Standard Liège U21 (Belgium)
+  id:19047  Standard Liège II (Belgium)
+  id:22200  RFC de Liege U21 (Belgium)
 === Patro Eisden (id 6222): last 20 finished games ===
 2026-10-16 A 0-2 v KVC Westerlo | Cup | ?
 2026-10-11 H 1-0 v KRC Genk II | Challenger Pro League | Maasmechelen | xG 2.09-1.32
@@ -28,7 +37,17 @@ Listed home: 8 games, scored 10 (1.25), conceded 10 (1.25), blanks 2, clean shee
 Listed away: 12 games, scored 15 (1.25), conceded 22 (1.83), blanks 4, clean sheets 1
 All: 20 games, scored 25 (1.25), conceded 32 (1.60), blanks 6, clean sheets 4
 
-!! RFC Liege: No team found for "RFC Liege".
+(retrying Liege using the opponent's country, Belgium)
+"Liege" matches several teams. Use id:<number> instead of the name:
+  id:733    Standard Liege (Belgium)
+  id:1791   Standard Liege W (Belgium)
+  id:5929   Sport Liège (Belgium)
+  id:5960   UCE Liège (Belgium)
+  id:6220   Liège (Belgium)
+  id:10851  Standard Liège U21 (Belgium)
+  id:19047  Standard Liège II (Belgium)
+  id:22200  RFC de Liege U21 (Belgium)
+!! Liege: Ambiguous team name "Liege".
 
 TABLE FOR Patro Eisden
 LEAGUE TABLE Challenger Pro League 2026 | 15 teams | 52 games played
@@ -50,7 +69,7 @@ League averages per game: home 1.81, away 1.31, total 3.12
 14  Liège                    5 |  3   6-8       |  4   5-10      |  7  11-18
 15  RSC Anderlecht II        1 |  4   2-10      |  3   5-7       |  7   7-17
 
-(15 API-Football requests used)
+(16 API-Football requests used)
 
 ----------------------------------------------------------------------
 MATCHBOOK: skipped (switched off for this run)
