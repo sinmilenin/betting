@@ -1,7 +1,5 @@
-# Scan 2026-10-25 14:26 (Ljubljana) run 1
-Jagiellonia v Wisla Plock | n=20 | xg=10
-Farul Constanta v Otelul | n=20 | xg=10
-Sabah FC v Qarabag | n=20 | xg=10
-Yverdon v Kriens | n=20 | xg=10
-Lillestrom v Brann | n=20 | xg=10
-Verona v Pisa | n=20 | xg=10
+# Scan 2026-10-25 14:26 (Ljubljana) run 2: team name/id fix
+Farul Constanta v id:6886 | n=20 | xg=10
+Sabah FA v Qarabag | n=20 | xg=10
+id:6653 v Kriens | n=20 | xg=10
+id:504 v id:801 | n=20 | xg=10
