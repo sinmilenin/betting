@@ -1,5 +1,21 @@
-RUN 2026-10-25 15:01 local | 3 match(es)
-id:994 v Corum FK -> out/id_994_v_Corum_FK.txt
-id:616 v Rudes -> out/id_616_v_Rudes.txt
-id:5254 v Sporting Gijon -> out/id_5254_v_Sporting_Gijon.txt
-Requests used: API-Football 74, Matchbook 0
+RUN 2026-10-25 15:46 local | 13 match(es)
+Start v Sandefjord -> out/Start_v_Sandefjord.txt
+Super Nova v RFS -> out/Super_Nova_v_RFS.txt
+    !! RFS: Ambiguous team name "RFS".
+LASK v Red Bull Salzburg -> out/LASK_v_Red_Bull_Salzburg.txt
+    !! LASK: Ambiguous team name "LASK".
+Kristiansund v KFUM Oslo -> out/Kristiansund_v_KFUM_Oslo.txt
+    !! Kristiansund: Ambiguous team name "Kristiansund".
+Aris v Atromitos -> out/Aris_v_Atromitos.txt
+Nacional v Braga -> out/Nacional_v_Braga.txt
+    !! Braga: Ambiguous team name "Braga".
+OFI v PAOK -> out/OFI_v_PAOK.txt
+Rio Ave v Famalicao -> out/Rio_Ave_v_Famalicao.txt
+Union St. Gilloise v Cercle Brugge -> out/Union_St_Gilloise_v_Cercle_Brugge.txt
+    !! Union St. Gilloise: API-Football error: {"search": "The Search field may only contain alpha-numeric characters and spaces."}
+NFC Volos v Panathinaikos -> out/NFC_Volos_v_Panathinaikos.txt
+    !! NFC Volos: No team found for "NFC Volos".
+Rennes v Strasbourg -> out/Rennes_v_Strasbourg.txt
+Auxerre v Le Mans -> out/Auxerre_v_Le_Mans.txt
+Angers v Lorient -> out/Angers_v_Lorient.txt
+Requests used: API-Football 262, Matchbook 0

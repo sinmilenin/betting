@@ -1,0 +1,119 @@
+MATCH OFI v PAOK | fetched 2026-10-25 15:46 local
+
+FORM DATA OFI v PAOK | source API-Football | 2026-10-25 15:46 UTC
+H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
+
+=== OFI (id 1124): last 20 finished games ===
+2026-10-22 H 0-2 v Bayer Leverkusen | UEFA Europa League | Heraklion | xG 0.28-3.42
+2026-10-18 A 3-4 v Kalamata | Super League 1 | Kalamata | xG 1.98-1.79
+2026-10-15 A 1-2 v Rennes | UEFA Europa League | Rennes | xG 0.12-1.54
+2026-10-10 A 0-3 v AEK Athens FC | Super League 1 | Nea Filadelfeia | xG 0.21-1.66
+2026-09-20 H 2-2 v Asteras Tripolis | Super League 1 | Heraklion | xG 0.91-0.74
+2026-09-17 H 2-0 v 1899 Hoffenheim | UEFA Europa League | Heraklion
+2026-09-12 A 1-0 v Olympiakos Piraeus | Super League 1 | Piraeus | xG 0.87-1.39
+2026-09-09 H 3-0 v Nestos Chrisoupolis | Cup | Heraklion
+2026-09-06 H 2-0 v Kifisia | Super League 1 | Heraklion | xG 0.67-1.10
+2026-09-02 A 0-0 v PAOK | Cup | Thessaloniki
+2026-08-30 A 1-2 v Aris Thessalonikis | Super League 1 | Thessaloniki
+2026-08-27 A 2-0 v CSKA Sofia | UEFA Europa League | Sofia
+2026-08-23 H 2-0 v Volos NFC | Super League 1 | Heraklion
+2026-08-20 H 3-0 v CSKA Sofia | UEFA Europa League | Heraklion
+2026-08-12 A 2-2 v AEK Athens FC | Super Cup | Heraklion [PEN, 90-min score shown]
+2026-08-01 A 1-2 v Willem II | Friendlies Clubs | ?
+2026-07-28 A 2-3 v NAC Breda | Friendlies Clubs | ?
+2026-07-25 A 0-4 v GO Ahead Eagles | Friendlies Clubs | ?
+2026-05-17 H 3-1 v Volos NFC | Super League 1 | Heraklion
+2026-05-13 A 2-3 v Levadiakos | Super League 1 | Levadia
+Listed home: 8 games, scored 17 (2.12), conceded 5 (0.62), blanks 1, clean sheets 5
+Listed away: 12 games, scored 15 (1.25), conceded 25 (2.08), blanks 3, clean sheets 3
+All: 20 games, scored 32 (1.60), conceded 30 (1.50), blanks 4, clean sheets 8
+
+=== PAOK (id 619): last 20 finished games ===
+2026-10-18 H 2-1 v Iraklis 1908 | Super League 1 | Thessaloniki | xG 2.10-0.84
+2026-10-12 H 1-3 v Kalamata | Super League 1 | Thessaloniki | xG 1.29-2.37
+2026-09-20 A 3-1 v Panetolikos | Super League 1 | Agrinio | xG 2.08-0.12
+2026-09-16 A 1-0 v Atromitos | Cup | Athens
+2026-09-13 H 2-0 v Aris Thessalonikis | Super League 1 | Thessaloniki | xG 2.39-1.24
+2026-09-06 A 1-3 v Panathinaikos | Super League 1 | Athens | xG 1.02-2.72
+2026-09-02 H 0-0 v OFI | Cup | Thessaloniki
+2026-08-30 A 2-1 v Atromitos | Super League 1 | Peristeri | xG 1.61-1.33
+2026-08-27 A 2-3 v Brann | UEFA Europa Conference League | Bergen
+2026-08-23 H 4-0 v Levadiakos | Super League 1 | Thessaloniki | xG 2.15-0.57
+2026-08-20 H 1-1 v Brann | UEFA Europa Conference League | Thessaloniki
+2026-08-13 A 2-3 v Anderlecht | UEFA Europa League | Anderlecht
+2026-08-06 H 0-1 v Anderlecht | UEFA Europa League | Thessaloniki
+2026-07-30 H 2-0 v Dynamo Kyiv | UEFA Europa League | Thessaloniki
+2026-07-23 A 3-2 v Dynamo Kyiv | UEFA Europa League | Kyiv
+2026-07-11 H 2-3 v Twente | Friendlies Clubs | ?
+2026-07-07 H 3-2 v AEK Larnaca | Friendlies Clubs | ?
+2026-07-04 H 4-0 v KVC Westerlo | Friendlies Clubs | ?
+2026-07-01 H 4-1 v SK Beveren | Friendlies Clubs | ?
+2026-05-17 A 2-2 v Panathinaikos | Super League 1 | Athens
+Listed home: 12 games, scored 25 (2.08), conceded 12 (1.00), blanks 2, clean sheets 5
+Listed away: 8 games, scored 16 (2.00), conceded 15 (1.88), blanks 0, clean sheets 1
+All: 20 games, scored 41 (2.05), conceded 27 (1.35), blanks 2, clean sheets 6
+
+TABLE FOR OFI
+LEAGUE TABLE UEFA Europa League 2026 | 36 teams | 54 games played
+League averages per game: home 1.50, away 1.57, total 3.07
+#   team                   Pts | home P GF-GA  | away P GF-GA  | all P GF-GA
+1   Benfica                  9 |  1   4-1       |  2   6-1       |  3  10-2
+2   Bayer Leverkusen         9 |  1   2-0       |  2   6-0       |  3   8-0
+3   Bournemouth              9 |  2   6-0       |  1   2-1       |  3   8-1
+4   Ferencvarosi TC          9 |  2   6-2       |  1   3-1       |  3   9-3
+5   Olympiakos Piraeus       9 |  2   3-1       |  1   1-0       |  3   4-1
+6   Union St. Gilloise       7 |  2   5-1       |  1   3-0       |  3   8-1
+7   Juventus                 7 |  2   7-2       |  1   2-1       |  3   9-3
+8   Beşiktaş                 7 |  2   6-3       |  1   3-2       |  3   9-5
+9   Sunderland               7 |  1   1-0       |  2   3-2       |  3   4-2
+10  AZ Alkmaar               6 |  1   2-1       |  2   4-1       |  3   6-2
+11  Omonia Nicosia           6 |  2   2-4       |  1   3-0       |  3   5-4
+12  Lyon                     6 |  1   3-2       |  2   2-4       |  3   5-6
+13  Rennes                   5 |  1   2-1       |  2   2-2       |  3   4-3
+14  Real Sociedad            4 |  1   1-2       |  2   7-1       |  3   8-3
+15  Crystal Palace           4 |  1   4-0       |  2   4-5       |  3   8-5
+16  Sparta Praha             4 |  1   1-1       |  2   4-2       |  3   5-3
+17  Levski Sofia             4 |  1   0-1       |  2   3-2       |  3   3-3
+18  Dinamo Zagreb            4 |  2   3-4       |  1   0-0       |  3   3-4
+19  Sturm Graz               4 |  2   1-0       |  1   0-3       |  3   1-3
+20  NEC Nijmegen             4 |  1   1-1       |  2   4-7       |  3   5-8
+21  Red Bull Salzburg        4 |  1   0-4       |  2   3-2       |  3   3-6
+22  Anderlecht               3 |  1   1-2       |  2   3-1       |  3   4-3
+23  1899 Hoffenheim          3 |  2   5-3       |  1   0-2       |  3   5-5
+24  AC Milan                 3 |  1   0-2       |  2   4-3       |  3   4-5
+25  Celta Vigo               3 |  1   1-2       |  2   2-2       |  3   3-4
+26  OFI                      3 |  2   2-2       |  1   1-2       |  3   3-4
+27  Jagiellonia              3 |  2   3-4       |  1   1-2       |  3   4-6
+28  Torreense                3 |  1   1-2       |  2   3-5       |  3   4-7
+29  Celje                    1 |  2   2-5       |  1   0-2       |  3   2-7
+30  Hapoel Beer Sheva        1 |  1   0-0       |  2   1-6       |  3   1-6
+31  Lillestrom               1 |  2   1-8       |  1   1-1       |  3   2-9
+32  Lech Poznan              1 |  2   1-5       |  1   0-4       |  3   1-9
+33  Plzen                    0 |  2   1-5       |  1   1-2       |  3   2-7
+34  Marseille                0 |  1   0-1       |  2   1-5       |  3   1-6
+35  Celtic                   0 |  2   2-5       |  1   1-4       |  3   3-9
+36  Ararat-Armenia           0 |  2   1-8       |  1   1-3       |  3   2-11
+
+TABLE FOR PAOK
+LEAGUE TABLE Super League 1 2026 | 14 teams | 51 games played
+League averages per game: home 1.69, away 1.04, total 2.73
+#   team                   Pts | home P GF-GA  | away P GF-GA  | all P GF-GA
+1   Panathinaikos           18 |  4  14-3       |  3   3-1       |  7  17-4
+2   AEK Athens FC           17 |  4  17-0       |  3   4-3       |  7  21-3
+3   Olympiakos Piraeus      16 |  3   2-1       |  4   5-1       |  7   7-2
+4   PAOK                    15 |  4   9-4       |  3   6-5       |  7  15-9
+5   Aris Thessalonikis      13 |  3   5-3       |  4   5-10      |  7  10-13
+6   Kifisia                 11 |  4   4-3       |  4   6-8       |  8  10-11
+7   Kalamata                10 |  4   9-8       |  3   4-4       |  7  13-12
+8   OFI                     10 |  3   6-2       |  4   5-9       |  7  11-11
+9   Iraklis 1908             9 |  3   5-4       |  5   4-7       |  8   9-11
+10  Panetolikos              9 |  4   6-6       |  4   2-10      |  8   8-16
+11  Asteras Tripolis         6 |  5   3-5       |  3   4-10      |  8   7-15
+12  Levadiakos               3 |  4   0-5       |  4   0-6       |  8   0-11
+13  Atromitos                2 |  3   3-5       |  3   2-4       |  6   5-9
+14  Volos NFC                0 |  3   3-4       |  4   3-8       |  7   6-12
+
+(24 API-Football requests used)
+
+----------------------------------------------------------------------
+MATCHBOOK: skipped (switched off for this run)

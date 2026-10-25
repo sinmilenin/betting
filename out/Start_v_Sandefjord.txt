@@ -1,0 +1,82 @@
+MATCH Start v Sandefjord | fetched 2026-10-25 15:46 local
+
+FORM DATA Start v Sandefjord | source API-Football | 2026-10-25 15:46 UTC
+H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
+
+=== Start (id 334): last 20 finished games ===
+2026-10-18 A 1-6 v Molde | Eliteserien | Molde | xG 1.74-3.67
+2026-10-11 H 2-4 v Ham-Kam | Eliteserien | Kristiansand | xG 2.00-2.88
+2026-10-06 A 5-1 v Raufoss | NM Cupen | Raufoss
+2026-10-02 H 2-1 v Brann | Friendlies Clubs | ?
+2026-09-20 A 0-3 v Sandefjord | Eliteserien | Sandefjord | xG 0.23-2.24
+2026-09-16 A 3-2 v Vindbjart | NM Cupen | ?
+2026-09-13 H 2-0 v Brann | Eliteserien | Kristiansand | xG 2.22-1.15
+2026-09-04 A 0-2 v Aalesund | Eliteserien | Aalesund | xG 1.67-2.42
+2026-08-30 H 4-1 v KFUM Oslo | Eliteserien | Kristiansand | xG 3.43-1.65
+2026-08-22 A 2-1 v Flekkefjord | NM Cupen | ?
+2026-08-08 H 0-1 v Fredrikstad | Eliteserien | Kristiansand
+2026-08-01 H 0-3 v Viking | Eliteserien | Kristiansand
+2026-07-25 A 2-1 v Kristiansund BK | Eliteserien | Kristiansund
+2026-07-18 H 0-3 v Rosenborg | Eliteserien | Kristiansand
+2026-07-12 A 1-2 v Brann | Eliteserien | Bergen
+2026-07-04 A 0-4 v Bodo/Glimt | Friendlies Clubs | ?
+2026-05-29 A 1-2 v Fredrikstad | Eliteserien | Fredrikstad
+2026-05-25 H 2-0 v Valerenga | Eliteserien | Kristiansand
+2026-05-20 H 1-4 v Bodo/Glimt | Eliteserien | Kristiansand
+2026-05-16 A 3-6 v Viking | Eliteserien | Stavanger
+Listed home: 9 games, scored 13 (1.44), conceded 17 (1.89), blanks 3, clean sheets 2
+Listed away: 11 games, scored 18 (1.64), conceded 30 (2.73), blanks 3, clean sheets 0
+All: 20 games, scored 31 (1.55), conceded 47 (2.35), blanks 6, clean sheets 2
+
+=== Sandefjord (id 332): last 20 finished games ===
+2026-10-18 H 0-2 v Lillestrom | Eliteserien | Sandefjord | xG 1.35-0.51
+2026-10-10 A 1-1 v Rosenborg | Eliteserien | Trondheim | xG 0.38-2.70
+2026-09-30 A 1-0 v Flint | NM Cupen | Tonsberg
+2026-09-20 H 3-0 v Start | Eliteserien | Sandefjord | xG 2.24-0.23
+2026-09-14 A 2-3 v Bodo/Glimt | Eliteserien | Bodø | xG 1.01-3.16
+2026-09-04 H 1-1 v Viking | Eliteserien | Sandefjord | xG 0.62-2.16
+2026-08-30 H 0-0 v Brann | Eliteserien | Sandefjord | xG 0.97-0.74
+2026-08-23 A 15-0 v Eidanger | NM Cupen | ?
+2026-08-16 A 2-1 v Sarpsborg 08 FF | Eliteserien | Sarpsborg | xG 2.20-2.97
+2026-08-07 H 0-1 v KFUM Oslo | Eliteserien | Sandefjord | xG 0.93-1.74
+2026-08-01 A 0-1 v Fredrikstad | Eliteserien | Fredrikstad
+2026-07-26 H 0-3 v Bodo/Glimt | Eliteserien | Sandefjord
+2026-07-18 A 1-2 v Viking | Eliteserien | Stavanger
+2026-07-12 H 2-2 v Ham-Kam | Eliteserien | Sandefjord
+2026-05-30 A 1-2 v Molde | Eliteserien | Molde
+2026-05-25 H 1-1 v Fredrikstad | Eliteserien | Sandefjord
+2026-05-16 A 1-3 v Lillestrom | Eliteserien | Lillestrøm
+2026-05-10 H 2-0 v Kristiansund BK | Eliteserien | Sandefjord
+2026-05-03 H 1-0 v Aalesund | Eliteserien | Sandefjord
+2026-04-26 A 1-3 v Tromso | Eliteserien | Tromso
+Listed home: 10 games, scored 10 (1.00), conceded 10 (1.00), blanks 4, clean sheets 4
+Listed away: 10 games, scored 25 (2.50), conceded 16 (1.60), blanks 1, clean sheets 2
+All: 20 games, scored 35 (1.75), conceded 26 (1.30), blanks 5, clean sheets 6
+
+TABLE FOR Start
+LEAGUE TABLE Eliteserien 2026 | 16 teams | 186 games played
+League averages per game: home 1.81, away 1.38, total 3.19
+#   team                   Pts | home P GF-GA  | away P GF-GA  | all P GF-GA
+1   Viking                  56 | 11  41-12      | 12  18-10      | 23  59-22
+2   Bodo/Glimt              56 | 12  34-8       | 12  24-13      | 24  58-21
+3   Molde                   40 | 12  30-14      | 11  22-21      | 23  52-35
+4   Rosenborg               40 | 12  28-14      | 12  18-17      | 24  46-31
+5   Tromso                  40 | 12  22-10      | 11  20-21      | 23  42-31
+6   Lillestrom              36 | 11  19-17      | 12  13-14      | 23  32-31
+7   Brann                   29 | 12  20-18      | 11  20-19      | 23  40-37
+8   Valerenga               29 | 12  23-20      | 12  16-26      | 24  39-46
+9   Fredrikstad             29 | 11  14-12      | 12  14-24      | 23  28-36
+10  KFUM Oslo               29 | 12  15-14      | 11  13-23      | 23  28-37
+11  Sarpsborg 08 FF         28 | 11  12-15      | 12  16-19      | 23  28-34
+12  Ham-Kam                 26 | 12  17-24      | 12  16-27      | 24  33-51
+13  Sandefjord              24 | 12  10-12      | 11  12-18      | 23  22-30
+14  Aalesund                24 | 12  24-30      | 11  15-21      | 23  39-51
+15  Kristiansund BK         19 | 11  14-18      | 12   9-29      | 23  23-47
+16  Start                   16 | 11  14-19      | 12  11-35      | 23  25-54
+
+(Sandefjord: same table as Start, shown above)
+
+(25 API-Football requests used)
+
+----------------------------------------------------------------------
+MATCHBOOK: skipped (switched off for this run)
