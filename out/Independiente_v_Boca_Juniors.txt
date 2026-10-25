@@ -1,0 +1,46 @@
+MATCH Independiente v Boca Juniors | fetched 2026-10-25 19:27 local
+
+FORM DATA Independiente v Boca Juniors | source API-Football | 2026-10-25 19:27 UTC
+H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
+
+"Independiente" matches several teams. Use id:<number> instead of the name:
+  id:453    Independiente (Argentina)
+  id:1128   Independiente Medellin (Colombia)
+  id:1153   Independiente del Valle (Ecuador)
+  id:1186   Independiente F.b.c. (Paraguay)
+  id:1960   Independiente De Chivilcoy (Argentina)
+  id:2890   Independiente de La Chorrera (Panama)
+  id:3946   Independiente Neuquén (Argentina)
+  id:4313   Juventud Independiente (El-Salvador)
+  id:10135  Independiente (El-Salvador)
+  id:10147  Independiente (Chile)
+  id:10479  Independiente Nanawa (Paraguay)
+  id:11055  Independiente U20 (Ecuador)
+  id:12941  Independiente FSJ (Brazil)
+  id:15702  Independiente Petrolero (Bolivia)
+  id:15725  Independiente Medellín W (Colombia)
+  id:18689  Independiente Res. (Argentina)
+  id:19032  Independiente Azogues (Ecuador)
+  id:20325  Independiente San Felipe (Peru)
+  id:22477  Independiente Huachog (Peru)
+  id:22938  Independiente Riva. Res. (Argentina)
+  id:25259  Real Independiente (Peru)
+  id:26686  Independiente de J. A. Saldivar (Paraguay)
+  id:26927  Real Independiente Áncash (Peru)
+  id:26958  Independiente Zorritos (Peru)
+  id:27568  Independiente Medellín U20 (Colombia)
+"Boca Juniors" matches several teams. Use id:<number> instead of the name:
+  id:451    Boca Juniors (Argentina)
+  id:16129  Boca Juniors (Gibraltar)
+  id:18681  Boca Juniors Res. (Argentina)
+  id:20524  Boca Juniors W (Argentina)
+  id:21410  Boca Juniors U20 (Argentina)
+  id:24672  Boca Juniors Melo (Uruguay)
+!! Independiente: Ambiguous team name "Independiente".
+
+!! Boca Juniors: Ambiguous team name "Boca Juniors".
+
+(2 API-Football requests used)
+
+----------------------------------------------------------------------
+MATCHBOOK: skipped (switched off for this run)
