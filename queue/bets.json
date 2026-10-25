@@ -33,17 +33,6 @@
     "created": "2026-10-25T07:49:45+01:00"
   },
   {
-    "id": "2026-10-25_fortuna-sittard-excelsior_1-0",
-    "date": "2026-10-25",
-    "ko": "12:15",
-    "match": "Fortuna Sittard v Excelsior",
-    "comp": "Netherlands, Dutch Eredivisie",
-    "cell": "1-0",
-    "lay": 14,
-    "stake": 3,
-    "created": "2026-10-25T10:01:16+01:00"
-  },
-  {
     "id": "2026-10-25_vfl-osnabruck-greuther-furth_1-0",
     "date": "2026-10-25",
     "ko": "13:30",
@@ -64,39 +53,6 @@
     "lay": 14.5,
     "stake": 3,
     "created": "2026-10-25T10:48:28+01:00"
-  },
-  {
-    "id": "2026-10-25_avs-futebol-sad-tondela_2-2",
-    "date": "2026-10-25",
-    "ko": "12:00",
-    "match": "AVS Futebol SAD v Tondela",
-    "comp": "Portugal, Portuguese Segunda Liga",
-    "cell": "2-2",
-    "lay": 20.0,
-    "stake": 3,
-    "created": "2026-10-25T11:34:31+01:00"
-  },
-  {
-    "id": "2026-10-25_avs-futebol-sad-tondela_0-1",
-    "date": "2026-10-25",
-    "ko": "12:00",
-    "match": "AVS Futebol SAD v Tondela",
-    "comp": "Portugal, Portuguese Segunda Liga",
-    "cell": "0-1",
-    "lay": 8.4,
-    "stake": 3,
-    "created": "2026-10-25T11:34:31+01:00"
-  },
-  {
-    "id": "2026-10-25_avs-futebol-sad-tondela_1-2",
-    "date": "2026-10-25",
-    "ko": "12:00",
-    "match": "AVS Futebol SAD v Tondela",
-    "comp": "Portugal, Portuguese Segunda Liga",
-    "cell": "1-2",
-    "lay": 10.5,
-    "stake": 3,
-    "created": "2026-10-25T11:34:31+01:00"
   },
   {
     "id": "2026-10-25_gais-ifk-goteborg_2-2",
@@ -493,5 +449,16 @@
     "lay": 18,
     "stake": 3,
     "created": "2026-10-25T17:32:51+01:00"
+  },
+  {
+    "id": "2026-10-25_dinamo-tirana-egnatia-rrogozhine_1-0",
+    "date": "2026-10-25",
+    "ko": "18:30",
+    "match": "Dinamo Tirana v Egnatia Rrogozhine",
+    "comp": "Albania, Albanian Superliga",
+    "cell": "1-0",
+    "lay": 8.8,
+    "stake": 3,
+    "created": "2026-10-25T18:19:07+01:00"
   }
 ]
