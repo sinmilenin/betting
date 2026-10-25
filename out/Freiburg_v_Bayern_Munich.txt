@@ -1,0 +1,76 @@
+MATCH Freiburg v Bayern Munich | fetched 2026-10-25 06:42 local
+
+FORM DATA Freiburg v Bayern Munich | source API-Football | 2026-10-25 06:43 UTC
+H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
+
+"Freiburg" matches several teams. Use id:<number> instead of the name:
+  id:160    SC Freiburg (Germany)
+  id:1867   SC Freiburg W (Germany)
+  id:9363   Freiburg II (Germany)
+  id:10255  Freiburg U19 (Germany)
+  id:16115  Freiburger FC (Germany)
+  id:20479  Freiburg-Zähringen W (Germany)
+  id:24534  Freiburg II W (Germany)
+  id:26712  Freiburg-St. Georgen W (Germany)
+  id:27942  Freiburger U19 (Germany)
+=== Bayern Munich W (id 1860): last 20 finished games ===
+2026-10-23 A 5-1 v RB Leipzig W | Frauen Bundesliga | Leipzig | xG 1.88-1.24
+2026-10-19 H 5-0 v Stuttgart W | Frauen Bundesliga | Munich | xG 4.81-0.55
+2026-10-03 A 1-0 v Eintracht Frankfurt W | Frauen Bundesliga | Frankfurt
+2026-09-30 A 3-0 v SL Benfica W | UEFA Champions League Women | Lisbon
+2026-09-27 A 2-1 v Borussia Monchengladbach W | DFB Pokal - Women | ?
+2026-09-22 H 2-2 v Manchester City W | UEFA Champions League Women | Munich
+2026-09-19 H 5-2 v FC Koln W | Frauen Bundesliga | Munich
+2026-09-14 A 3-2 v Bayer Leverkusen W | Frauen Bundesliga | Leverkusen
+2026-09-06 H 4-1 v SC Freiburg W | Frauen Bundesliga | Munich
+2026-08-31 H 2-0 v Mainz 05 W | Frauen Bundesliga | Munich | xG 2.72-0.18
+2026-08-21 A 4-1 v Union Berlin W | Frauen Bundesliga | Berlin
+2026-08-15 H 3-0 v VfL Wolfsburg W | Supercup der Frauen | Ingolstadt
+2026-05-17 A 1-0 v Hamburger SV W | Frauen Bundesliga | Hamburg
+2026-05-14 A 4-0 v VfL Wolfsburg W | DFB Pokal - Women | Cologne
+2026-05-09 H 2-0 v Eintracht Frankfurt W | Frauen Bundesliga | Munich
+2026-05-06 H 1-1 v 1899 Hoffenheim W | Frauen Bundesliga | Munich
+2026-05-03 A 2-4 v Barcelona W | UEFA Champions League Women | Barcelona
+2026-04-29 A 2-0 v Werder Bremen W | Frauen Bundesliga | Bremen
+2026-04-25 H 1-1 v Barcelona W | UEFA Champions League Women | Munich
+2026-04-22 A 3-2 v Union Berlin W | Frauen Bundesliga | Berlin
+Listed home: 9 games, scored 25 (2.78), conceded 7 (0.78), blanks 0, clean sheets 4
+Listed away: 11 games, scored 30 (2.73), conceded 11 (1.00), blanks 0, clean sheets 5
+All: 20 games, scored 55 (2.75), conceded 18 (0.90), blanks 0, clean sheets 9
+
+(retrying Freiburg using the opponent's country, Germany)
+"Freiburg" matches several teams. Use id:<number> instead of the name:
+  id:160    SC Freiburg (Germany)
+  id:1867   SC Freiburg W (Germany)
+  id:9363   Freiburg II (Germany)
+  id:10255  Freiburg U19 (Germany)
+  id:16115  Freiburger FC (Germany)
+  id:20479  Freiburg-Zähringen W (Germany)
+  id:24534  Freiburg II W (Germany)
+  id:26712  Freiburg-St. Georgen W (Germany)
+  id:27942  Freiburger U19 (Germany)
+!! Freiburg: Ambiguous team name "Freiburg".
+
+TABLE FOR Bayern Munich W
+LEAGUE TABLE Frauen Bundesliga 2026 | 14 teams | 51 games played
+League averages per game: home 1.76, away 1.71, total 3.47
+#   team                   Pts | home P GF-GA  | away P GF-GA  | all P GF-GA
+1   Bayern Munich W         24 |  4  16-3       |  4  13-4       |  8  29-7
+2   VfL Wolfsburg W         21 |  3   8-3       |  5  18-5       |  8  26-8
+3   Eintracht Frankfurt W   17 |  4   7-4       |  4   8-3       |  8  15-7
+4   Bayer Leverkusen W      13 |  4   7-8       |  3   6-2       |  7  13-10
+5   FC Koln W               12 |  4   7-2       |  4   6-10      |  8  13-12
+6   Werder Bremen W         10 |  3   4-1       |  3   6-7       |  6  10-8
+7   RB Leipzig W            10 |  4   8-8       |  4   6-6       |  8  14-14
+8   SC Freiburg W           10 |  4   5-5       |  3   3-5       |  7   8-10
+9   Union Berlin W           9 |  4   6-8       |  3   4-4       |  7  10-12
+10  Stuttgart W              8 |  4   2-10      |  4   6-10      |  8   8-20
+11  1899 Hoffenheim W        6 |  3   4-5       |  3   4-6       |  6   8-11
+12  Hamburger SV W           5 |  3   7-3       |  4   3-8       |  7  10-11
+13  Nürnberg W               2 |  3   6-13      |  4   4-10      |  7  10-23
+14  Mainz 05 W               0 |  4   3-14      |  3   0-10      |  7   3-24
+
+(15 API-Football requests used)
+
+----------------------------------------------------------------------
+MATCHBOOK: skipped (switched off for this run)

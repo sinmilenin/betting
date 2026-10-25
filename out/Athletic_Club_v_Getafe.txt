@@ -1,0 +1,135 @@
+MATCH Athletic Club v Getafe | fetched 2026-10-25 06:42 local
+
+FORM DATA Athletic Club v Getafe | source API-Football | 2026-10-25 06:43 UTC
+H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
+
+"Athletic Club" matches several teams. Use id:<number> instead of the name:
+  id:531    Athletic Club (Spain)
+  id:1905   Athletic Club W (Spain)
+  id:9579   Athletic Club II (Spain)
+  id:12257  Athletic Club (Paraguay)
+  id:13975  Athletic Club (Brazil)
+  id:22414  Athletic Club U21 (Spain)
+  id:23643  Athletic Club MG U20 (Brazil)
+=== Getafe (id 546): last 20 finished games ===
+2026-10-22 H 2-5 v FC Lugano | UEFA Europa Conference League | Getafe | xG 2.48-1.94
+2026-10-19 H 1-1 v Rayo Vallecano | La Liga | Getafe | xG 0.61-2.26
+2026-10-15 A 1-1 v Universitatea Craiova | UEFA Europa Conference League | Craiova | xG 1.45-0.60
+2026-10-10 A 0-3 v Barcelona | La Liga | Barcelona | xG 0.14-1.93
+2026-09-20 H 1-0 v Malaga | La Liga | Getafe | xG 0.95-0.52
+2026-09-17 A 0-1 v Real Betis | La Liga | Seville | xG 0.29-1.89
+2026-09-13 H 1-1 v Deportivo La Coruna | La Liga | Getafe | xG 0.78-0.87
+2026-09-07 H 1-1 v Celta Vigo | La Liga | Getafe | xG 0.65-1.03
+2026-08-31 A 0-1 v Osasuna | La Liga | Pamplona | xG 0.68-1.68
+2026-08-27 A 1-2 v FK Partizan | UEFA Europa Conference League | Belgrade
+2026-08-23 H 1-0 v Racing Santander | La Liga | Getafe
+2026-08-20 H 3-1 v FK Partizan | UEFA Europa Conference League | Getafe
+2026-08-15 A 0-3 v Alaves | La Liga | Vitoria-Gasteiz
+2026-08-08 A 1-1 v Tottenham | Friendlies Clubs | London
+2026-08-06 A 0-1 v Monaco | Friendlies Clubs | ?
+2026-07-29 A 1-4 v Atletico Madrid | Friendlies Clubs | Majadahonda
+2026-07-25 A 0-0 v Valladolid | Friendlies Clubs | ?
+2026-07-22 A 2-1 v Tenerife | Friendlies Clubs | ?
+2026-07-17 H 1-0 v Reading | Friendlies Clubs | ?
+2026-05-23 H 1-0 v Osasuna | La Liga | Getafe
+Listed home: 9 games, scored 12 (1.33), conceded 9 (1.00), blanks 0, clean sheets 4
+Listed away: 11 games, scored 6 (0.55), conceded 18 (1.64), blanks 6, clean sheets 1
+All: 20 games, scored 18 (0.90), conceded 27 (1.35), blanks 6, clean sheets 5
+
+(retrying Athletic Club using the opponent's country, Spain)
+NOTE: "Athletic Club" matched 3 teams; picked Athletic Club (Spain) because the opponent is from Spain. Others: Athletic Club (Paraguay), Athletic Club (Brazil)
+=== Athletic Club (id 531): last 20 finished games ===
+2026-10-21 A 1-3 v Levante | La Liga | Valencia | xG 1.95-2.04
+2026-10-17 A 0-0 v Valencia | La Liga | Valdivia | xG 0.59-1.41
+2026-10-02 A 1-0 v Real Sociedad | Friendlies Clubs | ?
+2026-09-19 H 0-0 v Alaves | La Liga | Bilbao | xG 1.62-0.05
+2026-09-12 H 1-1 v Elche | La Liga | Bilbao | xG 2.39-0.84
+2026-09-05 H 3-0 v Atletico Madrid | La Liga | Bilbao | xG 1.41-1.02
+2026-08-30 A 2-0 v Celta Vigo | La Liga | Vigo | xG 2.78-0.75
+2026-08-27 A 0-2 v Barcelona | La Liga | Barcelona | xG 0.25-4.23
+2026-08-22 H 1-3 v Sevilla | La Liga | Bilbao | xG 1.25-0.41
+2026-08-21 A 1-3 v Zaragoza | Friendlies Clubs | ?
+2026-08-14 A 0-1 v Atalanta | Friendlies Clubs | ?
+2026-08-09 A 1-3 v Marseille | Friendlies Clubs | ?
+2026-08-01 A 3-0 v Burgos | Friendlies Clubs | ?
+2026-07-29 A 3-0 v Racing Santander | Friendlies Clubs | ?
+2026-07-25 H 2-2 v Eibar | Friendlies Clubs | ?
+2026-07-22 A 2-0 v Sestao River | Friendlies Clubs | ?
+2026-07-18 A 11-0 v Leioa | Friendlies Clubs | ?
+2026-07-15 A 3-0 v Derio | Friendlies Clubs | ?
+2026-05-23 A 2-4 v Real Madrid | La Liga | Madrid
+2026-05-17 H 1-1 v Celta Vigo | La Liga | Bilbao
+Listed home: 6 games, scored 8 (1.33), conceded 7 (1.17), blanks 1, clean sheets 2
+Listed away: 14 games, scored 30 (2.14), conceded 16 (1.14), blanks 3, clean sheets 8
+All: 20 games, scored 38 (1.90), conceded 23 (1.15), blanks 4, clean sheets 10
+
+TABLE FOR Getafe
+LEAGUE TABLE UEFA Europa Conference League 2026 | 36 teams | 36 games played
+League averages per game: home 1.64, away 1.33, total 2.97
+#   team                   Pts | home P GF-GA  | away P GF-GA  | all P GF-GA
+1   Panathinaikos            6 |  1   2-1       |  1   5-1       |  2   7-2
+2   FC Lugano                6 |  1   3-2       |  1   5-2       |  2   8-4
+3   Brann                    6 |  1   2-1       |  1   4-1       |  2   6-2
+4   Trabzonspor              6 |  1   2-0       |  1   4-2       |  2   6-2
+5   Twente                   6 |  1   1-0       |  1   4-1       |  2   5-1
+6   Monaco                   6 |  1   3-0       |  1   2-1       |  2   5-1
+7   St. Truiden              6 |  1   2-0       |  1   1-0       |  2   3-0
+8   HNK Hajduk Split         6 |  1   2-1       |  1   1-0       |  2   3-1
+9   Brighton                 4 |  1   4-0       |  1   0-0       |  2   4-0
+10  FC Copenhagen            4 |  1   3-0       |  1   2-2       |  2   5-2
+11  Universitatea Craiova    4 |  1   1-1       |  1   3-1       |  2   4-2
+12  Mjallby AIF              4 |  1   2-0       |  1   1-1       |  2   3-1
+13  Ajax                     3 |  1   2-0       |  1   1-2       |  2   3-2
+14  Borac Banja Luka         3 |  1   2-0       |  1   1-2       |  2   3-2
+15  Atalanta                 3 |  1   3-1       |  1   0-2       |  2   3-3
+16  SC Braga                 3 |  1   2-0       |  1   0-3       |  2   2-3
+17  Gent                     3 |  1   1-0       |  1   0-2       |  2   1-2
+18  SC Freiburg              3 |  1   3-2       |  1   0-3       |  2   3-5
+19  FC Nordsjaelland         2 |  1   2-2       |  1   1-1       |  2   3-3
+20  Egnatia Rrogozhinë       2 |  1   1-1       |  1   1-1       |  2   2-2
+21  Riga                     2 |  1   1-1       |  1   1-1       |  2   2-2
+22  FK Crvena Zvezda         1 |  1   2-2       |  1   2-3       |  2   4-5
+23  CSKA Sofia               1 |  1   1-2       |  1   2-2       |  2   3-4
+24  FK Jablonec              1 |  1   0-0       |  1   2-3       |  2   2-3
+25  FC Midtjylland           1 |  1   0-1       |  1   1-1       |  2   1-2
+26  Aarhus                   1 |  1   1-1       |  1   0-1       |  2   1-2
+27  Pafos                    1 |  1   1-1       |  1   1-3       |  2   2-4
+28  Heart Of Midlothian      1 |  1   1-1       |  1   0-2       |  2   1-3
+29  FC Iberia 1999           1 |  1   1-1       |  1   0-2       |  2   1-3
+30  Getafe                   1 |  1   2-5       |  1   1-1       |  2   3-6
+31  Kairat Almaty            1 |  1   1-5       |  1   1-1       |  2   2-6
+32  FC Thun                  0 |  1   0-1       |  1   0-1       |  2   0-2
+33  Lincoln Red Imps FC      0 |  1   1-4       |  1   1-2       |  2   2-6
+34  KuPS                     0 |  1   2-4       |  1   0-2       |  2   2-6
+35  Inter Club d'Escaldes    0 |  1   1-3       |  1   0-2       |  2   1-5
+36  Kauno Žalgiris           0 |  1   1-4       |  1   0-4       |  2   1-8
+
+TABLE FOR Athletic Club
+LEAGUE TABLE La Liga 2026 | 20 teams | 94 games played
+League averages per game: home 1.69, away 1.35, total 3.04
+#   team                   Pts | home P GF-GA  | away P GF-GA  | all P GF-GA
+1   Barcelona               27 |  4  17-4       |  5  22-5       |  9  39-9
+2   Atletico Madrid         25 |  5  11-3       |  5   9-5       | 10  20-8
+3   Real Madrid             21 |  5  17-3       |  4   6-6       |  9  23-9
+4   Real Betis              19 |  5  10-7       |  4   6-7       |  9  16-14
+5   Real Sociedad           16 |  4   5-6       |  5  12-11      |  9  17-17
+6   Sevilla                 14 |  4   5-7       |  5   9-9       |  9  14-16
+7   Alaves                  12 |  6  11-6       |  4   3-5       | 10  14-11
+8   Villarreal              12 |  4   6-6       |  6   9-8       | 10  15-14
+9   Celta Vigo              11 |  5   9-6       |  4   1-1       |  9  10-7
+10  Deportivo La Coruna     11 |  5   6-5       |  5   7-8       | 10  13-13
+11  Osasuna                 11 |  5   4-3       |  4   6-15      |  9  10-18
+12  Racing Santander        11 |  5  11-8       |  5   4-18      | 10  15-26
+13  Levante                 10 |  4  13-10      |  5   2-7       |  9  15-17
+14  Elche                   10 |  4   4-11      |  6  10-6       | 10  14-17
+15  Athletic Club            9 |  4   5-4       |  4   3-5       |  8   8-9
+16  Getafe                   9 |  5   5-3       |  4   0-8       |  9   5-11
+17  Rayo Vallecano           9 |  4   6-7       |  5   6-13      |  9  12-20
+18  Espanyol                 8 |  5   6-7       |  5   6-7       | 10  12-14
+19  Valencia                 6 |  6   3-11      |  4   4-6       | 10   7-17
+20  Malaga                   5 |  5   5-10      |  5   2-9       | 10   7-19
+
+(26 API-Football requests used)
+
+----------------------------------------------------------------------
+MATCHBOOK: skipped (switched off for this run)
