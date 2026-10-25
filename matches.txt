@@ -1,3 +1,6 @@
-# Scan 2026-10-25 12:12 (Ljubljana) run 3 (team id fixes)
-Sparta Praha v id:3719 | n=20 | xg=10
-id:3723 v id:1122 | n=20 | xg=10
+# Scan 2026-10-25 12:56 (Ljubljana) run 1 (first analyses)
+Havelse v Saarbrucken | n=20 | xg=10
+Holstein Kiel v Dynamo Dresden | n=20 | xg=10
+Silkeborg v Nordsjaelland | n=20 | xg=10
+Konyaspor v Genclerbirligi | n=20 | xg=10
+Sabadell v Tenerife | n=20 | xg=10
