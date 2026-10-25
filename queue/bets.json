@@ -306,5 +306,49 @@
     "lay": 16.0,
     "stake": 3,
     "created": "2026-10-25T14:35:01+01:00"
+  },
+  {
+    "id": "2026-10-25_ac-horsens-sonderjyske_2-2",
+    "date": "2026-10-25",
+    "ko": "16:00",
+    "match": "AC Horsens v SonderjyskE",
+    "comp": "Denmark, Danish Superliga",
+    "cell": "2-2",
+    "lay": 14,
+    "stake": 3,
+    "created": "2026-10-25T14:20:31Z"
+  },
+  {
+    "id": "2026-10-25_sarpsborg-aalesunds_2-2",
+    "date": "2026-10-25",
+    "ko": "17:00",
+    "match": "Sarpsborg v Aalesunds",
+    "comp": "Norway, Norwegian Eliteserien",
+    "cell": "2-2",
+    "lay": 14,
+    "stake": 3,
+    "created": "2026-10-25T14:20:31Z"
+  },
+  {
+    "id": "2026-10-25_cd-leones-del-norte-libertad-fc_2-2",
+    "date": "2026-10-25",
+    "ko": "17:30",
+    "match": "CD Leones del Norte v Libertad FC",
+    "comp": "Ecuador, Ecuadorian Serie A",
+    "cell": "2-2",
+    "lay": 19.5,
+    "stake": 3,
+    "created": "2026-10-25T14:20:31Z"
+  },
+  {
+    "id": "2026-10-25_lecco-caratese_2-1",
+    "date": "2026-10-25",
+    "ko": "17:30",
+    "match": "Lecco v Caratese",
+    "comp": "Italy, Italian Serie C",
+    "cell": "2-1",
+    "lay": 10.5,
+    "stake": 3,
+    "created": "2026-10-25T14:20:31Z"
   }
 ]
