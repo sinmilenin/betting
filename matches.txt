@@ -1,4 +1,8 @@
-# Scan 2026-10-25 10:41 (Ljubljana) run 3 (team id fixes)
-id:4544 v id:21011 | n=20 | xg=10
-FS Jelgava v id:4149 | n=20 | xg=10
-id:2075 v PK35 | n=20 | xg=10
+# Scan 2026-10-25 11:26 (Ljubljana) run 1
+AVS v Tondela | n=20 | xg=10
+Bukovyna v Kryvbas | n=20 | xg=10
+Guangdong GZ-Power v Suzhou Dongwu | n=20 | xg=10
+Thun v Lugano | n=20 | xg=10
+GAIS v IFK Goteborg | n=20 | xg=10
+Midtjylland v Lyngby | n=20 | xg=10
+HJK v KuPS | n=20 | xg=10
