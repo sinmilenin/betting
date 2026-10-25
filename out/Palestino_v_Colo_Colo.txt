@@ -1,0 +1,87 @@
+MATCH Palestino v Colo Colo | fetched 2026-10-25 17:58 local
+
+FORM DATA Palestino v Colo Colo | source API-Football | 2026-10-25 17:58 UTC
+H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
+
+=== Palestino (id 2318): last 20 finished games ===
+2026-10-11 A 2-2 v Deportes Limache | Primera División | Limache | xG 1.29-1.62
+2026-10-01 A 2-1 v Alianza Lima | Friendlies Clubs | ?
+2026-09-12 H 2-3 v U. Catolica | Primera División | Santiago de Chile
+2026-09-06 H 2-1 v Universidad de Concepcion | Primera División | Santiago de Chile
+2026-08-28 A 0-2 v Cobresal | Primera División | El Salvador
+2026-08-23 A 1-0 v O'Higgins | Primera División | Rancagua | xG 1.90-1.07
+2026-08-18 H 5-1 v Huachipato | Primera División | Santiago de Chile
+2026-08-10 A 1-2 v Universidad de Chile | Primera División | Santiago de Chile | xG 1.27-2.50
+2026-08-01 H 2-1 v Coquimbo Unido | Primera División | Santiago de Chile
+2026-07-26 A 0-2 v Nublense | Primera División | La Cisterna | xG 1.72-1.29
+2026-07-11 H 3-2 v Deportes Santa Cruz | Copa Chile | Santiago de Chile
+2026-07-04 A 2-1 v Magallanes | Copa Chile | Santiago de Chile
+2026-06-30 A 2-3 v A. Italiano | Copa Chile | Santiago de Chile
+2026-06-27 A 0-0 v Deportes Santa Cruz | Copa Chile | Santa Cruz
+2026-06-24 H 1-2 v A. Italiano | Copa Chile | Santiago de Chile
+2026-06-20 H 4-1 v Magallanes | Copa Chile | Santiago de Chile
+2026-06-13 A 2-1 v Everton de Vina | Primera División | Vina del Mar
+2026-06-07 A 1-2 v O'Higgins | Copa De La Liga | Rancagua
+2026-06-01 H 0-0 v A. Italiano | Primera División | Santiago de Chile
+2026-05-26 H 1-1 v Deportivo Riestra | CONMEBOL Sudamericana | Santiago de Chile
+Listed home: 9 games, scored 20 (2.22), conceded 12 (1.33), blanks 1, clean sheets 1
+Listed away: 11 games, scored 13 (1.18), conceded 16 (1.45), blanks 3, clean sheets 2
+All: 20 games, scored 33 (1.65), conceded 28 (1.40), blanks 4, clean sheets 3
+
+"Colo Colo" matches several teams. Use id:<number> instead of the name:
+  id:2315   Colo Colo (Chile)
+  id:15106  Colo Colo (Brazil)
+(retrying Colo Colo using the opponent's country, Chile)
+NOTE: "Colo Colo" matched 2 teams; picked Colo Colo (Chile) because the opponent is from Chile. Others: Colo Colo (Brazil)
+=== Colo Colo (id 2315): last 20 finished games ===
+2026-10-11 A 2-5 v Coquimbo Unido | Primera División | Coquimbo
+2026-09-29 A 1-0 v D. Puerto Montt | Copa Chile | Puerto Montt
+2026-09-25 H 1-0 v A. Italiano | Copa Chile | Santiago de Chile
+2026-09-22 A 0-0 v A. Italiano | Copa Chile | Santiago de Chile
+2026-09-13 H 1-1 v Concepción | Primera División | Santiago de Chile
+2026-09-06 A 0-0 v Huachipato | Primera División | Talcahuano
+2026-08-30 H 5-1 v A. Italiano | Primera División | Santiago de Chile
+2026-08-27 H 3-0 v Union Espanola | Copa Chile | Santiago de Chile
+2026-08-23 A 2-1 v Universidad de Chile | Primera División | Santiago de Chile
+2026-08-16 H 2-2 v O'Higgins | Primera División | Santiago de Chile
+2026-08-09 A 2-1 v Union La Calera | Primera División | La Calera
+2026-08-01 A 4-3 v Everton de Vina | Primera División | Vina del Mar
+2026-07-25 H 3-1 v Deportes Limache | Primera División | Santiago de Chile
+2026-07-18 A 1-0 v Millonarios | Friendlies Clubs | ?
+2026-07-06 H 2-2 v Recoleta | Copa Chile | Santiago de Chile
+2026-07-03 A 1-4 v O'Higgins | Copa Chile | Rancagua
+2026-06-29 A 3-0 v Union Espanola | Copa Chile | Santiago de Chile
+2026-06-25 H 3-2 v O'Higgins | Copa Chile | Santiago de Chile
+2026-06-20 A 3-0 v Recoleta | Copa Chile | Recoleta
+2026-06-13 H 3-0 v Cobresal | Primera División | Santiago de Chile
+Listed home: 9 games, scored 23 (2.56), conceded 9 (1.00), blanks 0, clean sheets 3
+Listed away: 11 games, scored 19 (1.73), conceded 14 (1.27), blanks 2, clean sheets 6
+All: 20 games, scored 42 (2.10), conceded 23 (1.15), blanks 2, clean sheets 9
+
+TABLE FOR Palestino
+LEAGUE TABLE Primera División 2026 | 16 teams | 193 games played
+League averages per game: home 1.67, away 1.22, total 2.89
+#   team                   Pts | home P GF-GA  | away P GF-GA  | all P GF-GA
+1   Colo Colo               54 | 12  28-10      | 12  22-17      | 24  50-27
+2   Universidad de Chile    45 | 12  27-9       | 12  14-10      | 24  41-19
+3   U. Catolica             42 | 11  29-16      | 12  21-17      | 23  50-33
+4   Everton de Vina         39 | 13  19-16      | 11  21-11      | 24  40-27
+5   Palestino               37 | 12  26-13      | 12  12-22      | 24  38-35
+6   Deportes Limache        34 | 12  25-15      | 12  20-22      | 24  45-37
+7   D. La Serena            33 | 13  22-19      | 12  17-23      | 25  39-42
+8   Coquimbo Unido          32 | 11  18-11      | 12  18-22      | 23  36-33
+9   Concepción              32 | 13  17-14      | 12  10-16      | 25  27-30
+10  Huachipato              32 | 12  23-22      | 12  11-18      | 24  34-40
+11  Nublense                32 | 12  15-16      | 12  13-21      | 24  28-37
+12  A. Italiano             29 | 13  20-14      | 11   7-18      | 24  27-32
+13  O'Higgins               28 | 12  12-15      | 13  17-24      | 25  29-39
+14  Cobresal                26 | 12  19-17      | 13  17-29      | 25  36-46
+15  Universidad de Concepc  23 | 11   8-12      | 13  10-28      | 24  18-40
+16  Union La Calera         18 | 12  14-17      | 12   6-24      | 24  20-41
+
+(Colo Colo: same table as Palestino, shown above)
+
+(26 API-Football requests used)
+
+----------------------------------------------------------------------
+MATCHBOOK: skipped (switched off for this run)

@@ -1,0 +1,56 @@
+MATCH RFC Liege v Patro Eisden | fetched 2026-10-25 17:58 local
+
+FORM DATA RFC Liege v Patro Eisden | source API-Football | 2026-10-25 17:58 UTC
+H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
+
+=== Patro Eisden (id 6222): last 20 finished games ===
+2026-10-16 A 0-2 v KVC Westerlo | Cup | ?
+2026-10-11 H 1-0 v KRC Genk II | Challenger Pro League | Maasmechelen | xG 2.09-1.32
+2026-09-26 A 2-1 v Roeselare Daisel | Cup | ?
+2026-09-20 A 0-1 v Dender | Challenger Pro League | Denderleeuw
+2026-09-13 H 1-2 v AS Eupen | Challenger Pro League | Maasmechelen
+2026-09-04 A 2-4 v Beerschot VA | Challenger Pro League | Antwerp | xG 0.49-3.65
+2026-08-29 H 1-2 v Club Brugge II | Challenger Pro League | Maasmechelen
+2026-08-22 A 1-2 v K. Lierse S.K. | Challenger Pro League | Lier
+2026-08-15 H 2-1 v RSC Anderlecht II | Challenger Pro League | Maasmechelen
+2026-08-08 H 0-0 v Liège | Friendlies Clubs | ?
+2026-08-01 A 1-1 v MVV | Friendlies Clubs | ? [PEN, 90-min score shown]
+2026-07-29 A 2-1 v Waalwijk | Friendlies Clubs | ?
+2026-07-24 A 0-4 v Union St. Gilloise | Friendlies Clubs | ?
+2026-07-22 A 0-0 v Heist | Friendlies Clubs | ?
+2026-07-15 H 0-4 v St. Truiden | Friendlies Clubs | ?
+2026-06-27 A 3-3 v Rochefort | Friendlies Clubs | ?
+2026-06-20 A 2-1 v Schoonbeek-Beverst | Friendlies Clubs | ?
+2026-04-27 A 2-2 v Beerschot VA | Jupiler Pro League | Antwerp [AET, 90-min score shown]
+2026-04-23 H 1-1 v Beerschot VA | Jupiler Pro League | Maasmechelen
+2026-04-17 H 4-0 v Francs Borains | Challenger Pro League | Maasmechelen
+Listed home: 8 games, scored 10 (1.25), conceded 10 (1.25), blanks 2, clean sheets 3
+Listed away: 12 games, scored 15 (1.25), conceded 22 (1.83), blanks 4, clean sheets 1
+All: 20 games, scored 25 (1.25), conceded 32 (1.60), blanks 6, clean sheets 4
+
+!! RFC Liege: No team found for "RFC Liege".
+
+TABLE FOR Patro Eisden
+LEAGUE TABLE Challenger Pro League 2026 | 15 teams | 52 games played
+League averages per game: home 1.81, away 1.31, total 3.12
+#   team                   Pts | home P GF-GA  | away P GF-GA  | all P GF-GA
+1   Beerschot VA            18 |  4  16-4       |  3   2-2       |  7  18-6
+2   Dender                  18 |  4   8-0       |  3   3-2       |  7  11-2
+3   AS Eupen                15 |  2   7-2       |  4   6-3       |  6  13-5
+4   Lokeren-Temse           13 |  4   7-6       |  3   8-5       |  7  15-11
+5   Francs Borains          12 |  3   6-3       |  3   3-4       |  6   9-7
+6   Sporting Hasselt        12 |  3   1-3       |  4   7-7       |  7   8-10
+7   Excelsior Virton        10 |  4   9-5       |  3   3-4       |  7  12-9
+8   Club Brugge II           9 |  3   5-5       |  4   6-8       |  7  11-13
+9   K. Lierse S.K.           8 |  3   5-1       |  3   2-7       |  6   7-8
+10  KRC Genk II              8 |  4   7-5       |  4   5-10      |  8  12-15
+11  KAA Gent II              8 |  3   5-5       |  4   4-8       |  7   9-13
+12  Patro Eisden             6 |  4   5-5       |  3   3-7       |  7   8-12
+13  Seraing United           5 |  4   5-6       |  4   6-10      |  8  11-16
+14  Liège                    5 |  3   6-8       |  4   5-10      |  7  11-18
+15  RSC Anderlecht II        1 |  4   2-10      |  3   5-7       |  7   7-17
+
+(15 API-Football requests used)
+
+----------------------------------------------------------------------
+MATCHBOOK: skipped (switched off for this run)

@@ -1,3 +1,13 @@
-RUN 2026-10-25 17:19 local | 1 match(es)
-id:1147 v Deportivo Cali -> out/id_1147_v_Deportivo_Cali.txt
-Requests used: API-Football 25, Matchbook 0
+RUN 2026-10-25 17:58 local | 9 match(es)
+Molde v Fredrikstad -> out/Molde_v_Fredrikstad.txt
+Cesar Vallejo v Alianza Lima -> out/Cesar_Vallejo_v_Alianza_Lima.txt
+RFC Liege v Patro Eisden -> out/RFC_Liege_v_Patro_Eisden.txt
+    !! RFC Liege: No team found for "RFC Liege".
+AZ Alkmaar v Twente -> out/AZ_Alkmaar_v_Twente.txt
+Mitre v Godoy Cruz -> out/Mitre_v_Godoy_Cruz.txt
+    !! Mitre: Ambiguous team name "Mitre".
+Midland v Gimnasia y Tiro -> out/Midland_v_Gimnasia_y_Tiro.txt
+Sporting CP v Academico Viseu -> out/Sporting_CP_v_Academico_Viseu.txt
+Palestino v Colo Colo -> out/Palestino_v_Colo_Colo.txt
+FAR Rabat v Korhogo -> out/FAR_Rabat_v_Korhogo.txt
+Requests used: API-Football 211, Matchbook 0
