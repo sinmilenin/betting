@@ -1,4 +1,3 @@
-RUN 2026-10-25 17:17 local | 1 match(es)
-Fortaleza v Deportivo Cali -> out/Fortaleza_v_Deportivo_Cali.txt
-    !! Fortaleza: Ambiguous team name "Fortaleza".
-Requests used: API-Football 15, Matchbook 0
+RUN 2026-10-25 17:19 local | 1 match(es)
+id:1147 v Deportivo Cali -> out/id_1147_v_Deportivo_Cali.txt
+Requests used: API-Football 25, Matchbook 0
