@@ -1,0 +1,141 @@
+MATCH Lillestrom v Brann | fetched 2026-10-25 13:29 local
+
+FORM DATA Lillestrom v Brann | source API-Football | 2026-10-25 13:29 UTC
+H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
+
+=== Lillestrom (id 321): last 20 finished games ===
+2026-10-22 H 0-6 v Real Sociedad | UEFA Europa League | Lillestrom | xG 2.29-2.46
+2026-10-18 A 2-0 v Sandefjord | Eliteserien | Sandefjord | xG 0.51-1.35
+2026-10-15 A 1-1 v Sparta Praha | UEFA Europa League | Prague | xG 0.84-1.12
+2026-10-11 H 2-2 v Molde | Eliteserien | Lillestrom | xG 1.63-2.95
+2026-10-01 A 5-1 v Bærum | NM Cupen | ?
+2026-09-20 A 0-3 v Viking | Eliteserien | Stavanger | xG 1.77-2.98
+2026-09-17 H 1-2 v Torreense | UEFA Europa League | Lillestrom
+2026-09-12 H 2-0 v Valerenga | Eliteserien | Lillestrøm | xG 0.70-1.57
+2026-09-05 A 2-1 v Brann | Eliteserien | Bergen | xG 1.33-1.97
+2026-09-02 A 3-0 v Aurskog Finstadbru | NM Cupen | ?
+2026-08-30 H 1-4 v Fredrikstad | Eliteserien | Lillestrøm
+2026-08-27 H 1-1 v Egnatia Rrogozhinë | UEFA Europa League | Lillestrøm [AET, 90-min score shown]
+2026-08-20 A 0-0 v Egnatia Rrogozhinë | UEFA Europa League | Rrogozhine
+2026-08-15 A 1-1 v KFUM Oslo | Eliteserien | Oslo
+2026-08-09 H 0-2 v Rosenborg | Eliteserien | Lillestrøm
+2026-07-31 A 0-4 v Bodo/Glimt | Eliteserien | Bodø
+2026-07-22 H 1-2 v Viking | Eliteserien | Lillestrøm
+2026-07-18 H 2-1 v KFUM Oslo | Eliteserien | Lillestrøm
+2026-07-11 A 2-0 v Fredrikstad | Eliteserien | Fredrikstad
+2026-07-03 H 3-1 v Sarpsborg 08 FF | Friendlies Clubs | ?
+Listed home: 10 games, scored 13 (1.30), conceded 21 (2.10), blanks 2, clean sheets 1
+Listed away: 10 games, scored 16 (1.60), conceded 11 (1.10), blanks 3, clean sheets 4
+All: 20 games, scored 29 (1.45), conceded 32 (1.60), blanks 5, clean sheets 5
+
+=== Brann (id 319): last 20 finished games ===
+2026-10-22 A 4-1 v Kauno Žalgiris | UEFA Europa Conference League | Kaunas | xG 3.37-1.56
+2026-10-18 A 1-3 v Valerenga | Eliteserien | Oslo | xG 2.93-2.76
+2026-10-15 H 2-1 v Lincoln Red Imps FC | UEFA Europa Conference League | Bergen | xG 2.30-0.64
+2026-10-09 H 0-2 v Viking | Eliteserien | Bergen | xG 2.57-1.25
+2026-10-02 A 1-2 v Start | Friendlies Clubs | ?
+2026-09-20 H 2-1 v Bodo/Glimt | Eliteserien | Bergen | xG 0.76-1.34
+2026-09-16 A 2-1 v Os | NM Cupen | ?
+2026-09-13 A 0-2 v Start | Eliteserien | Kristiansand | xG 1.15-2.22
+2026-09-05 H 1-2 v Lillestrom | Eliteserien | Bergen | xG 1.97-1.33
+2026-08-30 A 0-0 v Sandefjord | Eliteserien | Sandefjord | xG 0.74-0.97
+2026-08-27 H 3-2 v PAOK | UEFA Europa Conference League | Bergen
+2026-08-23 A 4-0 v Fyllingen | NM Cupen | ?
+2026-08-20 A 1-1 v PAOK | UEFA Europa Conference League | Thessaloniki
+2026-08-16 H 3-0 v Ham-Kam | Eliteserien | Bergen
+2026-08-11 A 2-1 v Apollon Limassol | UEFA Europa Conference League | Limassol [AET, 90-min score shown]
+2026-08-05 H 0-1 v Apollon Limassol | UEFA Europa Conference League | Bergen
+2026-08-02 H 3-2 v Rosenborg | Eliteserien | Bergen
+2026-07-30 H 3-1 v Universitatea Cluj | UEFA Europa Conference League | Bergen
+2026-07-26 H 2-3 v Valerenga | Eliteserien | Bergen
+2026-07-23 A 2-2 v Universitatea Cluj | UEFA Europa Conference League | Cluj Napoca
+Listed home: 10 games, scored 19 (1.90), conceded 15 (1.50), blanks 2, clean sheets 1
+Listed away: 10 games, scored 17 (1.70), conceded 13 (1.30), blanks 2, clean sheets 2
+All: 20 games, scored 36 (1.80), conceded 28 (1.40), blanks 4, clean sheets 3
+
+TABLE FOR Lillestrom
+LEAGUE TABLE UEFA Europa League 2026 | 36 teams | 54 games played
+League averages per game: home 1.50, away 1.57, total 3.07
+#   team                   Pts | home P GF-GA  | away P GF-GA  | all P GF-GA
+1   Benfica                  9 |  1   4-1       |  2   6-1       |  3  10-2
+2   Bayer Leverkusen         9 |  1   2-0       |  2   6-0       |  3   8-0
+3   Bournemouth              9 |  2   6-0       |  1   2-1       |  3   8-1
+4   Ferencvarosi TC          9 |  2   6-2       |  1   3-1       |  3   9-3
+5   Olympiakos Piraeus       9 |  2   3-1       |  1   1-0       |  3   4-1
+6   Union St. Gilloise       7 |  2   5-1       |  1   3-0       |  3   8-1
+7   Juventus                 7 |  2   7-2       |  1   2-1       |  3   9-3
+8   Beşiktaş                 7 |  2   6-3       |  1   3-2       |  3   9-5
+9   Sunderland               7 |  1   1-0       |  2   3-2       |  3   4-2
+10  AZ Alkmaar               6 |  1   2-1       |  2   4-1       |  3   6-2
+11  Omonia Nicosia           6 |  2   2-4       |  1   3-0       |  3   5-4
+12  Lyon                     6 |  1   3-2       |  2   2-4       |  3   5-6
+13  Rennes                   5 |  1   2-1       |  2   2-2       |  3   4-3
+14  Real Sociedad            4 |  1   1-2       |  2   7-1       |  3   8-3
+15  Crystal Palace           4 |  1   4-0       |  2   4-5       |  3   8-5
+16  Sparta Praha             4 |  1   1-1       |  2   4-2       |  3   5-3
+17  Levski Sofia             4 |  1   0-1       |  2   3-2       |  3   3-3
+18  Dinamo Zagreb            4 |  2   3-4       |  1   0-0       |  3   3-4
+19  Sturm Graz               4 |  2   1-0       |  1   0-3       |  3   1-3
+20  NEC Nijmegen             4 |  1   1-1       |  2   4-7       |  3   5-8
+21  Red Bull Salzburg        4 |  1   0-4       |  2   3-2       |  3   3-6
+22  Anderlecht               3 |  1   1-2       |  2   3-1       |  3   4-3
+23  1899 Hoffenheim          3 |  2   5-3       |  1   0-2       |  3   5-5
+24  AC Milan                 3 |  1   0-2       |  2   4-3       |  3   4-5
+25  Celta Vigo               3 |  1   1-2       |  2   2-2       |  3   3-4
+26  OFI                      3 |  2   2-2       |  1   1-2       |  3   3-4
+27  Jagiellonia              3 |  2   3-4       |  1   1-2       |  3   4-6
+28  Torreense                3 |  1   1-2       |  2   3-5       |  3   4-7
+29  Celje                    1 |  2   2-5       |  1   0-2       |  3   2-7
+30  Hapoel Beer Sheva        1 |  1   0-0       |  2   1-6       |  3   1-6
+31  Lillestrom               1 |  2   1-8       |  1   1-1       |  3   2-9
+32  Lech Poznan              1 |  2   1-5       |  1   0-4       |  3   1-9
+33  Plzen                    0 |  2   1-5       |  1   1-2       |  3   2-7
+34  Marseille                0 |  1   0-1       |  2   1-5       |  3   1-6
+35  Celtic                   0 |  2   2-5       |  1   1-4       |  3   3-9
+36  Ararat-Armenia           0 |  2   1-8       |  1   1-3       |  3   2-11
+
+TABLE FOR Brann
+LEAGUE TABLE UEFA Europa Conference League 2026 | 36 teams | 36 games played
+League averages per game: home 1.64, away 1.33, total 2.97
+#   team                   Pts | home P GF-GA  | away P GF-GA  | all P GF-GA
+1   Panathinaikos            6 |  1   2-1       |  1   5-1       |  2   7-2
+2   FC Lugano                6 |  1   3-2       |  1   5-2       |  2   8-4
+3   Brann                    6 |  1   2-1       |  1   4-1       |  2   6-2
+4   Trabzonspor              6 |  1   2-0       |  1   4-2       |  2   6-2
+5   Twente                   6 |  1   1-0       |  1   4-1       |  2   5-1
+6   Monaco                   6 |  1   3-0       |  1   2-1       |  2   5-1
+7   St. Truiden              6 |  1   2-0       |  1   1-0       |  2   3-0
+8   HNK Hajduk Split         6 |  1   2-1       |  1   1-0       |  2   3-1
+9   Brighton                 4 |  1   4-0       |  1   0-0       |  2   4-0
+10  FC Copenhagen            4 |  1   3-0       |  1   2-2       |  2   5-2
+11  Universitatea Craiova    4 |  1   1-1       |  1   3-1       |  2   4-2
+12  Mjallby AIF              4 |  1   2-0       |  1   1-1       |  2   3-1
+13  Ajax                     3 |  1   2-0       |  1   1-2       |  2   3-2
+14  Borac Banja Luka         3 |  1   2-0       |  1   1-2       |  2   3-2
+15  Atalanta                 3 |  1   3-1       |  1   0-2       |  2   3-3
+16  SC Braga                 3 |  1   2-0       |  1   0-3       |  2   2-3
+17  Gent                     3 |  1   1-0       |  1   0-2       |  2   1-2
+18  SC Freiburg              3 |  1   3-2       |  1   0-3       |  2   3-5
+19  FC Nordsjaelland         2 |  1   2-2       |  1   1-1       |  2   3-3
+20  Egnatia Rrogozhinë       2 |  1   1-1       |  1   1-1       |  2   2-2
+21  Riga                     2 |  1   1-1       |  1   1-1       |  2   2-2
+22  FK Crvena Zvezda         1 |  1   2-2       |  1   2-3       |  2   4-5
+23  CSKA Sofia               1 |  1   1-2       |  1   2-2       |  2   3-4
+24  FK Jablonec              1 |  1   0-0       |  1   2-3       |  2   2-3
+25  FC Midtjylland           1 |  1   0-1       |  1   1-1       |  2   1-2
+26  Aarhus                   1 |  1   1-1       |  1   0-1       |  2   1-2
+27  Pafos                    1 |  1   1-1       |  1   1-3       |  2   2-4
+28  Heart Of Midlothian      1 |  1   1-1       |  1   0-2       |  2   1-3
+29  FC Iberia 1999           1 |  1   1-1       |  1   0-2       |  2   1-3
+30  Getafe                   1 |  1   2-5       |  1   1-1       |  2   3-6
+31  Kairat Almaty            1 |  1   1-5       |  1   1-1       |  2   2-6
+32  FC Thun                  0 |  1   0-1       |  1   0-1       |  2   0-2
+33  Lincoln Red Imps FC      0 |  1   1-4       |  1   1-2       |  2   2-6
+34  KuPS                     0 |  1   2-4       |  1   0-2       |  2   2-6
+35  Inter Club d'Escaldes    0 |  1   1-3       |  1   0-2       |  2   1-5
+36  Kauno Žalgiris           0 |  1   1-4       |  1   0-4       |  2   1-8
+
+(25 API-Football requests used)
+
+----------------------------------------------------------------------
+MATCHBOOK: skipped (switched off for this run)

@@ -1,0 +1,27 @@
+MATCH Verona v Pisa | fetched 2026-10-25 13:29 local
+
+FORM DATA Verona v Pisa | source API-Football | 2026-10-25 13:29 UTC
+H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
+
+"Verona" matches several teams. Use id:<number> instead of the name:
+  id:504    Hellas Verona (Italy)
+  id:1707   Virtus Verona (Italy)
+  id:1883   Verona W (Italy)
+  id:1887   Chievo Verona W (Italy)
+  id:15659  Chievo Verona U19 (Italy)
+  id:15686  Verona U19 (Italy)
+  id:24733  Hellas Verona U20 (Italy)
+"Pisa" matches several teams. Use id:<number> instead of the name:
+  id:801    Pisa (Italy)
+  id:884    Feralpisalo (Italy)
+  id:13550  Pisa (Finland)
+  id:15674  Pisa U19 (Italy)
+  id:19853  FeralpiSalò U19 (Italy)
+!! Verona: Ambiguous team name "Verona".
+
+!! Pisa: Ambiguous team name "Pisa".
+
+(2 API-Football requests used)
+
+----------------------------------------------------------------------
+MATCHBOOK: skipped (switched off for this run)
