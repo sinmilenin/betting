@@ -1,12 +1,4 @@
-# Settle 25.10.2026 20:07 (17:00-18:00 KOs)
-Goztepe v Corum Belediyespor | n=3 | xg=0
-LASK Linz v Red Bull Salzburg | n=3 | xg=0
-Lillestrom v Brann | n=3 | xg=0
-Sarpsborg 08 v Aalesund | n=3 | xg=0
-Marseille v Le Havre | n=3 | xg=0
-Verona v Pisa | n=3 | xg=0
-Leones del Norte v Libertad | n=3 | xg=0
-Freiburg v Bayern Munich | n=3 | xg=0
-Lecco v Caratese | n=3 | xg=0
-Osijek v Rudes | n=3 | xg=0
-Plzen v Pardubice | n=3 | xg=0
+# Settle 25.10.2026 run 2: ids
+id:994 v Corum | n=3 | xg=0
+id:504 v id:801 | n=3 | xg=0
+id:160 v id:157 | n=3 | xg=0
