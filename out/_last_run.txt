@@ -1,4 +1,4 @@
-RUN 2026-10-25 12:49 local | 1 match(es)
-id:569 v St Truiden -> out/id_569_v_St_Truiden.txt
-    !! St Truiden: No team found for "St Truiden".
-Requests used: API-Football 14, Matchbook 0
+RUN 2026-10-25 12:50 local | 1 match(es)
+id:569 v Truiden -> out/id_569_v_Truiden.txt
+    !! Truiden: Ambiguous team name "Truiden".
+Requests used: API-Football 15, Matchbook 0
