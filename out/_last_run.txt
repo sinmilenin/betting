@@ -1,12 +1,5 @@
-RUN 2026-10-25 14:16 local | 8 match(es)
-AC Horsens v SonderjyskE -> out/AC_Horsens_v_SonderjyskE.txt
-Cadiz v AD Ceuta -> out/Cadiz_v_AD_Ceuta.txt
-Sion v Lausanne -> out/Sion_v_Lausanne.txt
-    !! Sion: Ambiguous team name "Sion".
-    !! Lausanne: Ambiguous team name "Lausanne".
-Sarpsborg v Aalesund -> out/Sarpsborg_v_Aalesund.txt
-Comerciantes Unidos v Cienciano -> out/Comerciantes_Unidos_v_Cienciano.txt
-Leones del Norte v Libertad -> out/Leones_del_Norte_v_Libertad.txt
-Lecco v Caratese -> out/Lecco_v_Caratese.txt
-CFR Cluj v Dinamo Bucuresti -> out/CFR_Cluj_v_Dinamo_Bucuresti.txt
-Requests used: API-Football 173, Matchbook 0
+RUN 2026-10-25 14:18 local | 3 match(es)
+id:630 v id:1014 -> out/id_630_v_id_1014.txt
+Sarpsborg 08 FF v Aalesund -> out/Sarpsborg_08_FF_v_Aalesund.txt
+CFR 1907 Cluj v Dinamo Bucuresti -> out/CFR_1907_Cluj_v_Dinamo_Bucuresti.txt
+Requests used: API-Football 76, Matchbook 0
