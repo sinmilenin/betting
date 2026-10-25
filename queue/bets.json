@@ -405,5 +405,82 @@
     "lay": 18,
     "stake": 3,
     "created": "2026-10-25T16:05:03+01:00"
+  },
+  {
+    "id": "2026-10-25_lask-linz-red-bull-salzburg_1-0",
+    "date": "2026-10-25",
+    "ko": "17:00",
+    "match": "LASK Linz v Red Bull Salzburg",
+    "comp": "Austria, Austrian Bundesliga",
+    "cell": "1-0",
+    "lay": 19.5,
+    "stake": 3,
+    "created": "2026-10-25T16:53:43+01:00"
+  },
+  {
+    "id": "2026-10-25_marseille-le-havre_3-0",
+    "date": "2026-10-25",
+    "ko": "17:15",
+    "match": "Marseille v Le Havre",
+    "comp": "France, French Ligue 1",
+    "cell": "3-0",
+    "lay": 13.5,
+    "stake": 3,
+    "created": "2026-10-25T16:53:43+01:00"
+  },
+  {
+    "id": "2026-10-25_plzen-pardubice_1-0",
+    "date": "2026-10-25",
+    "ko": "18:00",
+    "match": "Plzen v Pardubice",
+    "comp": "Czech Republic, Czech 1 Liga",
+    "cell": "1-0",
+    "lay": 11.0,
+    "stake": 3,
+    "created": "2026-10-25T16:53:43+01:00"
+  },
+  {
+    "id": "2026-10-25_aris-atromitos_1-0",
+    "date": "2026-10-25",
+    "ko": "18:30",
+    "match": "Aris v Atromitos",
+    "comp": "Greece, Greek Super League",
+    "cell": "1-0",
+    "lay": 7.8,
+    "stake": 3,
+    "created": "2026-10-25T16:53:43+01:00"
+  },
+  {
+    "id": "2026-10-25_ofi-paok_1-2",
+    "date": "2026-10-25",
+    "ko": "19:00",
+    "match": "OFI v PAOK",
+    "comp": "Greece, Greek Super League",
+    "cell": "1-2",
+    "lay": 9.8,
+    "stake": 3,
+    "created": "2026-10-25T16:53:43+01:00"
+  },
+  {
+    "id": "2026-10-25_rio-ave-famalicao_2-2",
+    "date": "2026-10-25",
+    "ko": "19:00",
+    "match": "Rio Ave v Famalicao",
+    "comp": "Portugal, Portuguese Primeira Liga",
+    "cell": "2-2",
+    "lay": 17.5,
+    "stake": 3,
+    "created": "2026-10-25T16:53:43+01:00"
+  },
+  {
+    "id": "2026-10-25_rio-ave-famalicao_1-0",
+    "date": "2026-10-25",
+    "ko": "19:00",
+    "match": "Rio Ave v Famalicao",
+    "comp": "Portugal, Portuguese Primeira Liga",
+    "cell": "1-0",
+    "lay": 14.0,
+    "stake": 3,
+    "created": "2026-10-25T16:53:43+01:00"
   }
 ]
