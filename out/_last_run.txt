@@ -1,3 +1,20 @@
-RUN 2026-10-25 08:59 local | 1 match(es)
-Chornomorets v Karpaty -> out/Chornomorets_v_Karpaty.txt
-Requests used: API-Football 25, Matchbook 0
+RUN 2026-10-25 09:42 local | 8 match(es)
+Altay v Elimai -> out/Altay_v_Elimai.txt
+    !! Altay: Ambiguous team name "Altay".
+    !! Elimai: No team found for "Elimai".
+Crystal Palace W v Chelsea W -> out/Crystal_Palace_W_v_Chelsea_W.txt
+Norrby v Norrkoping -> out/Norrby_v_Norrkoping.txt
+    !! Norrkoping: Ambiguous team name "Norrkoping".
+Jaro v PK-35 -> out/Jaro_v_PK_35.txt
+    !! Jaro: Ambiguous team name "Jaro".
+    !! PK-35: API-Football error: {"search": "The Search field may only contain alpha-numeric characters and spaces."}
+Jelgava v Daugavpils -> out/Jelgava_v_Daugavpils.txt
+    !! Daugavpils: Ambiguous team name "Daugavpils".
+Braunschweig v Hannover -> out/Braunschweig_v_Hannover.txt
+    !! Braunschweig: Ambiguous team name "Braunschweig".
+    !! Hannover: Ambiguous team name "Hannover".
+Osnabruck v Greuther Furth -> out/Osnabruck_v_Greuther_Furth.txt
+    !! Osnabruck: Ambiguous team name "Osnabruck".
+    !! Greuther Furth: Ambiguous team name "Greuther Furth".
+Genk v Standard Liege -> out/Genk_v_Standard_Liege.txt
+Requests used: API-Football 90, Matchbook 0
