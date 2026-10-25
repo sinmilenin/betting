@@ -1,5 +1,10 @@
-# Scan 2026-10-25 11:26 (Ljubljana) run 2 (team name fixes)
-Guangzhou E-Power v Suzhou Dongwu | n=20 | xg=10
-FC Thun v FC Lugano | n=20 | xg=10
-FC Midtjylland v Lyngby | n=20 | xg=10
-HJK Helsinki v KuPS | n=20 | xg=10
+# Scan 2026-10-25 12:12 (Ljubljana) run 1
+Viking v Tromso | n=20 | xg=10
+PSV Eindhoven v Feyenoord | n=20 | xg=10
+NEC Nijmegen v Groningen | n=20 | xg=10
+Sparta Praha v Slovacko | n=20 | xg=10
+Motherwell v Hearts | n=20 | xg=10
+Helsingborg v Ljungskile | n=20 | xg=10
+Olympiakos Piraeus v Kalamata | n=20 | xg=10
+Garudayaksa v Persib Bandung | n=20 | xg=10
+Palermo v Carrarese | n=20 | xg=10
