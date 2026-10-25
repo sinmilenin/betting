@@ -1,7 +1,4 @@
-# Scan 2026-10-25 10:41 (Ljubljana) run 2 (team id fixes)
-id:4544 v Elimay | n=20 | xg=10
-Norrby v id:378 | n=20 | xg=10
-FK Jelgava v id:4149 | n=20 | xg=10
-id:744 v id:166 | n=20 | xg=10
-id:1324 v id:178 | n=20 | xg=10
-id:2075 v PK 35 | n=20 | xg=10
+# Scan 2026-10-25 10:41 (Ljubljana) run 3 (team id fixes)
+id:4544 v id:21011 | n=20 | xg=10
+FS Jelgava v id:4149 | n=20 | xg=10
+id:2075 v PK35 | n=20 | xg=10
