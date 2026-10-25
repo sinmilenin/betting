@@ -42,5 +42,27 @@
     "lay": 14,
     "stake": 3,
     "created": "2026-10-25T10:01:16+01:00"
+  },
+  {
+    "id": "2026-10-25_vfl-osnabruck-greuther-furth_1-0",
+    "date": "2026-10-25",
+    "ko": "13:30",
+    "match": "VfL Osnabruck v Greuther Furth",
+    "comp": "Germany, German Bundesliga 2",
+    "cell": "1-0",
+    "lay": 13.5,
+    "stake": 3,
+    "created": "2026-10-25T10:48:28+01:00"
+  },
+  {
+    "id": "2026-10-25_braunschweig-hannover_2-2",
+    "date": "2026-10-25",
+    "ko": "13:30",
+    "match": "Braunschweig v Hannover",
+    "comp": "Germany, German Bundesliga 2",
+    "cell": "2-2",
+    "lay": 14.5,
+    "stake": 3,
+    "created": "2026-10-25T10:48:28+01:00"
   }
 ]
