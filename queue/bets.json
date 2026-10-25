@@ -64,5 +64,60 @@
     "lay": 14.5,
     "stake": 3,
     "created": "2026-10-25T10:48:28+01:00"
+  },
+  {
+    "id": "2026-10-25_avs-futebol-sad-tondela_2-2",
+    "date": "2026-10-25",
+    "ko": "12:00",
+    "match": "AVS Futebol SAD v Tondela",
+    "comp": "Portugal, Portuguese Segunda Liga",
+    "cell": "2-2",
+    "lay": 20.0,
+    "stake": 3,
+    "created": "2026-10-25T11:34:31+01:00"
+  },
+  {
+    "id": "2026-10-25_avs-futebol-sad-tondela_0-1",
+    "date": "2026-10-25",
+    "ko": "12:00",
+    "match": "AVS Futebol SAD v Tondela",
+    "comp": "Portugal, Portuguese Segunda Liga",
+    "cell": "0-1",
+    "lay": 8.4,
+    "stake": 3,
+    "created": "2026-10-25T11:34:31+01:00"
+  },
+  {
+    "id": "2026-10-25_avs-futebol-sad-tondela_1-2",
+    "date": "2026-10-25",
+    "ko": "12:00",
+    "match": "AVS Futebol SAD v Tondela",
+    "comp": "Portugal, Portuguese Segunda Liga",
+    "cell": "1-2",
+    "lay": 10.5,
+    "stake": 3,
+    "created": "2026-10-25T11:34:31+01:00"
+  },
+  {
+    "id": "2026-10-25_gais-ifk-goteborg_2-2",
+    "date": "2026-10-25",
+    "ko": "14:00",
+    "match": "GAIS v IFK Goteborg",
+    "comp": "Sweden, Swedish Allsvenskan",
+    "cell": "2-2",
+    "lay": 15.5,
+    "stake": 3,
+    "created": "2026-10-25T11:34:31+01:00"
+  },
+  {
+    "id": "2026-10-25_hjk-helsinki-kups_2-2",
+    "date": "2026-10-25",
+    "ko": "14:00",
+    "match": "HJK Helsinki v KuPS",
+    "comp": "Finland, Finnish Veikkausliiga",
+    "cell": "2-2",
+    "lay": 16.0,
+    "stake": 3,
+    "created": "2026-10-25T11:34:31+01:00"
   }
 ]
