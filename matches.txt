@@ -1,3 +1,22 @@
-# Scan 2026-10-25 06:11 (Ljubljana) run 2: ids
-Urawa v id:285 | n=20 | xg=10
-Kawasaki Frontale v id:310 | n=20 | xg=10
+# Scan 2026-10-25 07:41 (Ljubljana) regular + top-20
+Ehime v Fukushima United | n=20 | xg=10
+Barcelona v Real Madrid | n=20 | xg=10
+Hull City v Brentford | n=20 | xg=10
+Manchester United v Bournemouth | n=20 | xg=10
+Udinese v AC Milan | n=20 | xg=10
+Liverpool v Brighton | n=20 | xg=10
+Celta Vigo v Real Betis | n=20 | xg=10
+Sunderland v Leeds | n=20 | xg=10
+Atalanta v Frosinone | n=20 | xg=10
+Freiburg v Bayern Munich | n=20 | xg=10
+Inter v Fiorentina | n=20 | xg=10
+Crystal Palace v Newcastle | n=20 | xg=10
+Lecce v Juventus | n=20 | xg=10
+Athletic Club v Getafe | n=20 | xg=10
+Genoa v Venezia | n=20 | xg=10
+Marseille v Le Havre | n=20 | xg=10
+Real Sociedad v Levante | n=20 | xg=10
+Monaco v Lille | n=20 | xg=10
+Hoffenheim v Bayer Leverkusen | n=20 | xg=10
+Hibernian v Celtic | n=20 | xg=10
+Toulouse v Troyes | n=20 | xg=10
