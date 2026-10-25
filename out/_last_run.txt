@@ -1,9 +1,4 @@
-RUN 2026-10-25 11:58 local | 5 match(es)
-Havelse v Saarbrucken -> out/Havelse_v_Saarbrucken.txt
-    !! Saarbrucken: Ambiguous team name "Saarbrucken".
-Holstein Kiel v Dynamo Dresden -> out/Holstein_Kiel_v_Dynamo_Dresden.txt
-Silkeborg v Nordsjaelland -> out/Silkeborg_v_Nordsjaelland.txt
-Konyaspor v Genclerbirligi -> out/Konyaspor_v_Genclerbirligi.txt
-    !! Genclerbirligi: Ambiguous team name "Genclerbirligi".
-Sabadell v Tenerife -> out/Sabadell_v_Tenerife.txt
-Requests used: API-Football 107, Matchbook 0
+RUN 2026-10-25 12:02 local | 2 match(es)
+Havelse v id:1639 -> out/Havelse_v_id_1639.txt
+id:607 v id:997 -> out/id_607_v_id_997.txt
+Requests used: API-Football 50, Matchbook 0

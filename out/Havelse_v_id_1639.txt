@@ -1,6 +1,6 @@
-MATCH Havelse v Saarbrucken | fetched 2026-10-25 11:58 local
+MATCH Havelse v id:1639 | fetched 2026-10-25 12:02 local
 
-FORM DATA Havelse v Saarbrucken | source API-Football | 2026-10-25 11:58 UTC
+FORM DATA Havelse v id:1639 | source API-Football | 2026-10-25 12:02 UTC
 H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
 
 === Havelse (id 9342): last 20 finished games ===
@@ -28,16 +28,30 @@ Listed home: 7 games, scored 16 (2.29), conceded 16 (2.29), blanks 0, clean shee
 Listed away: 13 games, scored 11 (0.85), conceded 33 (2.54), blanks 4, clean sheets 1
 All: 20 games, scored 27 (1.35), conceded 49 (2.45), blanks 4, clean sheets 1
 
-"Saarbrucken" matches several teams. Use id:<number> instead of the name:
-  id:1639   FC Saarbrücken (Germany)
-  id:14031  Saarbrücken U19 (Germany)
-  id:20490  Saarbrücken W (Germany)
-(retrying Saarbrucken using the opponent's country, Germany)
-"Saarbrucken" matches several teams. Use id:<number> instead of the name:
-  id:1639   FC Saarbrücken (Germany)
-  id:14031  Saarbrücken U19 (Germany)
-  id:20490  Saarbrücken W (Germany)
-!! Saarbrucken: Ambiguous team name "Saarbrucken".
+=== FC Saarbrücken (id 1639): last 20 finished games ===
+2026-10-17 A 3-1 v Fortuna Düsseldorf | 3. Liga | Dusseldorf
+2026-10-13 H 2-4 v MSV Duisburg | 3. Liga | Saarbrücken | xG 1.87-5.03
+2026-10-10 A 0-0 v Fortuna Köln | 3. Liga | Cologne | xG 1.32-1.27
+2026-10-02 H 2-1 v Nancy | Friendlies Clubs | ?
+2026-09-19 H 2-1 v SG Sonnenhof Grossaspach | 3. Liga | Saarbrücken
+2026-09-16 A 3-3 v Preußen Münster | 3. Liga | Munster
+2026-09-12 H 0-1 v FC Ingolstadt 04 | 3. Liga | ?
+2026-09-05 A 6-1 v SV Meppen | 3. Liga | Meppen
+2026-08-30 H 2-4 v Hansa Rostock | 3. Liga | ?
+2026-08-22 H 1-1 v Hertha BSC | DFB Pokal | Saarbrücken [PEN, 90-min score shown]
+2026-08-16 A 1-0 v SSV Jahn Regensburg | 3. Liga | Regensburg
+2026-08-09 H 5-2 v Rot-Weiß Essen | 3. Liga | Saarbrücken
+2026-07-26 A 1-1 v VfR Aalen | Friendlies Clubs | ?
+2026-07-25 A 1-1 v FC Augsburg | Friendlies Clubs | ?
+2026-07-18 A 0-0 v SV Sandhausen | Friendlies Clubs | ?
+2026-07-04 A 2-0 v Quierschied | Friendlies Clubs | ?
+2026-05-16 H 3-4 v Hansa Rostock | 3. Liga | Saarbrücken
+2026-05-10 A 2-3 v Hoffenheim II | 3. Liga | Sinsheim
+2026-05-02 H 2-0 v Waldhof Mannheim | 3. Liga | Saarbrücken
+2026-04-26 A 2-1 v Rot-Weiß Essen | 3. Liga | Essen
+Listed home: 9 games, scored 19 (2.11), conceded 18 (2.00), blanks 1, clean sheets 1
+Listed away: 11 games, scored 21 (1.91), conceded 11 (1.00), blanks 2, clean sheets 4
+All: 20 games, scored 40 (2.00), conceded 29 (1.45), blanks 3, clean sheets 5
 
 TABLE FOR Havelse
 LEAGUE TABLE 3. Liga 2026 | 20 teams | 107 games played
@@ -64,7 +78,9 @@ League averages per game: home 1.74, away 1.58, total 3.32
 19  Fortuna Köln            10 |  5   1-4       |  5   7-7       | 10   8-11
 20  Havelse                  6 |  5  10-12      |  5   3-11      | 10  13-23
 
-(15 API-Football requests used)
+(FC Saarbrücken: same table as Havelse, shown above)
+
+(25 API-Football requests used)
 
 ----------------------------------------------------------------------
 MATCHBOOK: skipped (switched off for this run)
