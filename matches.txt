@@ -1,4 +1,2 @@
-# Scan 2026-10-25 13:41 (Ljubljana) run 2: team id fixes
-Sturm Graz v Ried | n=20 | xg=10
-id:569 v St. Truiden | n=20 | xg=10
-Mjallby v id:363 | n=20 | xg=10
+# Scan 2026-10-25 13:41 (Ljubljana) run 3: team name fix
+id:569 v St Truiden | n=20 | xg=10
