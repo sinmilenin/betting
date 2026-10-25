@@ -1,14 +1,7 @@
-# Scan 2026-10-25 16:42 (Ljubljana) run 1
-Start v Sandefjord | n=20 | xg=10
-Super Nova v RFS | n=20 | xg=10
-LASK v Red Bull Salzburg | n=20 | xg=10
-Kristiansund v KFUM Oslo | n=20 | xg=10
-Aris v Atromitos | n=20 | xg=10
-Nacional v Braga | n=20 | xg=10
-OFI v PAOK | n=20 | xg=10
-Rio Ave v Famalicao | n=20 | xg=10
-Union St. Gilloise v Cercle Brugge | n=20 | xg=10
-NFC Volos v Panathinaikos | n=20 | xg=10
-Rennes v Strasbourg | n=20 | xg=10
-Auxerre v Le Mans | n=20 | xg=10
-Angers v Lorient | n=20 | xg=10
+# Scan 2026-10-25 16:42 (Ljubljana) run 2: team name fixes
+Super Nova v Rigas Futbola Skola | n=20 | xg=10
+id:1026 v Red Bull Salzburg | n=20 | xg=10
+id:320 v KFUM Oslo | n=20 | xg=10
+CD Nacional v id:217 | n=20 | xg=10
+Gilloise v Cercle Brugge | n=20 | xg=10
+Volos v Panathinaikos | n=20 | xg=10
