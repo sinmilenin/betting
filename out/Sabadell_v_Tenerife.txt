@@ -1,0 +1,88 @@
+MATCH Sabadell v Tenerife | fetched 2026-10-25 11:58 local
+
+FORM DATA Sabadell v Tenerife | source API-Football | 2026-10-25 11:59 UTC
+H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
+
+=== Sabadell (id 9593): last 20 finished games ===
+2026-10-18 A 0-1 v Burgos | Segunda División | Burgos
+2026-10-10 A 2-1 v AD Ceuta FC | Segunda División | Ceuta | xG 0.91-1.71
+2026-10-04 H 0-0 v FC Andorra | Segunda División | Sabadell
+2026-09-26 A 1-1 v Celta de Vigo II | Segunda División | Vigo | xG 0.38-0.51
+2026-09-20 H 3-1 v Oviedo | Segunda División | Sabadell | xG 1.33-1.10
+2026-09-13 A 0-2 v Mallorca | Segunda División | Palma de Mallorca
+2026-09-07 H 3-2 v Cordoba | Segunda División | Sabadell
+2026-08-29 H 1-0 v Almeria | Segunda División | Sabadell | xG 1.89-0.79
+2026-08-23 A 0-0 v Castellón | Segunda División | Castellon | xG 1.83-0.65
+2026-08-17 A 0-0 v Sporting Gijon | Segunda División | Gijon | xG 2.01-0.82
+2026-08-09 A 3-0 v Olot | Friendlies Clubs | ?
+2026-08-07 A 2-2 v Girona | Friendlies Clubs | ?
+2026-08-01 A 0-0 v FC Andorra | Friendlies Clubs | ?
+2026-07-29 H 2-1 v Manresa | Friendlies Clubs | ?
+2026-07-25 A 1-1 v Espanyol | Friendlies Clubs | ?
+2026-07-18 A 0-2 v Castellón | Friendlies Clubs | ?
+2026-06-19 H 4-0 v Zamora | Primera División RFEF - Play Offs | Sabadell
+2026-06-13 A 0-1 v Zamora | Primera División RFEF - Play Offs | Zamora
+2026-06-05 H 3-0 v Real Madrid II | Primera División RFEF - Play Offs | Sabadell
+2026-05-29 A 0-2 v Real Madrid II | Primera División RFEF - Play Offs | Madrid
+Listed home: 7 games, scored 16 (2.29), conceded 4 (0.57), blanks 1, clean sheets 4
+Listed away: 13 games, scored 9 (0.69), conceded 13 (1.00), blanks 8, clean sheets 4
+All: 20 games, scored 25 (1.25), conceded 17 (0.85), blanks 9, clean sheets 8
+
+=== Tenerife (id 719): last 20 finished games ===
+2026-10-19 A 1-1 v Celta de Vigo II | Segunda División | Vigo | xG 0.43-1.01
+2026-10-12 H 1-1 v Girona | Segunda División | Santa Cruz de Tenerife | xG 0.75-1.56
+2026-10-05 A 2-3 v Cordoba | Segunda División | Cordoba
+2026-09-26 H 1-1 v Cadiz | Segunda División | Santa Cruz de Tenerife | xG 1.11-1.24
+2026-09-19 A 0-5 v Castellón | Segunda División | Castellon | xG 1.35-2.35
+2026-09-13 H 2-0 v Leganes | Segunda División | Santa Cruz de Tenerife | xG 1.57-0.72
+2026-09-05 A 1-1 v Real Sociedad II | Segunda División | San Sebastian | xG 0.55-0.53
+2026-08-28 H 0-1 v Sporting Gijon | Segunda División | Santa Cruz de Tenerife
+2026-08-23 H 1-0 v Almeria | Segunda División | Santa Cruz de Tenerife | xG 1.19-0.97
+2026-08-16 A 3-1 v Eibar | Segunda División | Eibar | xG 0.67-1.64
+2026-08-08 A 0-0 v Leganes | Friendlies Clubs | ? [PEN, 90-min score shown]
+2026-08-04 H 3-2 v Tamaraceite | Friendlies Clubs | ?
+2026-08-01 H 2-2 v Cadiz | Friendlies Clubs | ? [PEN, 90-min score shown]
+2026-07-26 A 6-0 v Marino | Friendlies Clubs | ?
+2026-07-22 H 1-2 v Getafe | Friendlies Clubs | ?
+2026-07-18 H 3-0 v Tenerife II | Friendlies Clubs | ?
+2026-05-23 A 1-2 v Ourense CF | Primera División RFEF - Group 1 | Ourense
+2026-05-17 H 3-0 v Pontevedra | Primera División RFEF - Group 1 | Santa Cruz de Tenerife
+2026-05-09 A 1-2 v Unionistas de Salamanca | Primera División RFEF - Group 1 | Salamanca
+2026-05-01 H 2-0 v Barakaldo | Primera División RFEF - Group 1 | Santa Cruz de Tenerife
+Listed home: 11 games, scored 19 (1.73), conceded 9 (0.82), blanks 1, clean sheets 5
+Listed away: 9 games, scored 15 (1.67), conceded 15 (1.67), blanks 2, clean sheets 2
+All: 20 games, scored 34 (1.70), conceded 24 (1.20), blanks 3, clean sheets 7
+
+TABLE FOR Sabadell
+LEAGUE TABLE Segunda División 2026 | 22 teams | 116 games played
+League averages per game: home 1.53, away 1.14, total 2.67
+#   team                   Pts | home P GF-GA  | away P GF-GA  | all P GF-GA
+1   Almeria                 25 |  6  15-5       |  5   7-4       | 11  22-9
+2   Castellón               23 |  4   8-1       |  6  10-3       | 10  18-4
+3   Eibar                   22 |  5   9-6       |  6  11-7       | 11  20-13
+4   Girona                  21 |  7  16-6       |  4   6-4       | 11  22-10
+5   Granada CF              20 |  5   9-5       |  6   9-9       | 11  18-14
+6   Mallorca                19 |  5  10-2       |  6   3-4       | 11  13-6
+7   Sporting Gijon          19 |  6   6-6       |  4   5-3       | 10  11-9
+8   Oviedo                  18 |  5   5-2       |  6  10-10      | 11  15-12
+9   Burgos                  17 |  6  10-6       |  4   3-4       | 10  13-10
+10  Sabadell                16 |  4   7-3       |  6   3-5       | 10  10-8
+11  Cordoba                 15 |  5   8-8       |  6   9-12      | 11  17-20
+12  Eldense                 14 |  5   9-6       |  5   4-7       | 10  13-13
+13  Las Palmas              14 |  6   6-8       |  5   8-11      | 11  14-19
+14  Tenerife                13 |  5   5-3       |  5   7-11      | 10  12-14
+15  Valladolid              12 |  5  11-7       |  6   5-9       | 11  16-16
+16  Celta de Vigo II        12 |  6  11-11      |  5   5-10      | 11  16-21
+17  Leganes                 12 |  5   5-6       |  6   2-10      | 11   7-16
+18  FC Andorra              10 |  5   8-8       |  5   5-9       | 10  13-17
+19  Real Sociedad II         8 |  5   5-10      |  6   9-12      | 11  14-22
+20  Cadiz                    7 |  6   6-5       |  4   5-8       | 10  11-13
+21  AD Ceuta FC              5 |  6   6-10      |  4   3-12      | 10   9-22
+22  Albacete                 1 |  4   3-8       |  6   3-14      | 10   6-22
+
+(Tenerife: same table as Sabadell, shown above)
+
+(25 API-Football requests used)
+
+----------------------------------------------------------------------
+MATCHBOOK: skipped (switched off for this run)
