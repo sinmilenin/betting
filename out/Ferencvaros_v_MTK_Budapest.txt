@@ -1,0 +1,64 @@
+MATCH Ferencvaros v MTK Budapest | fetched 2026-10-25 16:29 local
+
+FORM DATA Ferencvaros v MTK Budapest | source API-Football | 2026-10-25 16:29 UTC
+H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
+
+"Ferencvaros" matches several teams. Use id:<number> instead of the name:
+  id:651    Ferencvarosi TC (Hungary)
+  id:10888  Ferencváros W (Hungary)
+  id:11861  Ferencváros II (Hungary)
+  id:16389  Ferencváros U19 (Hungary)
+=== MTK Budapest (id 2396): last 20 finished games ===
+2026-10-16 H 1-0 v Vasas | NB I | Budapest | xG 1.13-1.75
+2026-10-10 A 0-3 v Paks | NB I | Paks | xG 0.51-2.38
+2026-09-20 H 1-2 v Gyori ETO FC | NB I | Budapest
+2026-09-12 A 2-0 v Mezokovesd-zsory | Magyar Kupa | ?
+2026-09-05 H 1-2 v Kisvarda FC | NB I | Budapest
+2026-08-28 A 2-2 v Debreceni VSC | NB I | Debrecen
+2026-08-22 H 2-1 v Nyiregyhaza | NB I | Budapest
+2026-08-15 A 1-1 v Ujpest | NB I | Budapest
+2026-08-07 H 2-3 v Puskas Academy | NB I | Budapest
+2026-08-01 A 3-3 v Budapest Honved | NB I | Budapest
+2026-07-27 H 3-0 v Zalaegerszegi TE | NB I | Budapest
+2026-07-18 H 1-1 v Komárno | Friendlies Clubs | ?
+2026-07-18 H 3-0 v Kozarmisleny FC | Friendlies Clubs | ?
+2026-07-11 H 1-3 v Koper | Friendlies Clubs | ?
+2026-07-11 H 0-4 v LNZ Cherkasy | Friendlies Clubs | ?
+2026-07-08 A 3-4 v Celje | Friendlies Clubs | ?
+2026-07-04 H 2-3 v Kecskeméti TE | Friendlies Clubs | ?
+2026-07-01 H 3-1 v Vasas | Friendlies Clubs | ?
+2026-06-26 H 4-2 v Kazincbarcikai | Friendlies Clubs | ?
+2026-05-15 A 2-2 v Puskas Academy | NB I | ?
+Listed home: 13 games, scored 24 (1.85), conceded 22 (1.69), blanks 1, clean sheets 3
+Listed away: 7 games, scored 13 (1.86), conceded 15 (2.14), blanks 1, clean sheets 1
+All: 20 games, scored 37 (1.85), conceded 37 (1.85), blanks 2, clean sheets 4
+
+(retrying Ferencvaros using the opponent's country, Hungary)
+"Ferencvaros" matches several teams. Use id:<number> instead of the name:
+  id:651    Ferencvarosi TC (Hungary)
+  id:10888  Ferencváros W (Hungary)
+  id:11861  Ferencváros II (Hungary)
+  id:16389  Ferencváros U19 (Hungary)
+!! Ferencvaros: Ambiguous team name "Ferencvaros".
+
+TABLE FOR MTK Budapest
+LEAGUE TABLE NB I 2026 | 12 teams | 63 games played
+League averages per game: home 1.65, away 1.32, total 2.97
+#   team                   Pts | home P GF-GA  | away P GF-GA  | all P GF-GA
+1   Gyori ETO FC            21 |  6  11-6       |  5   8-6       | 11  19-12
+2   Puskas Academy          21 |  4   7-7       |  6   8-3       | 10  15-10
+3   Paks                    17 |  6  14-10      |  5   8-9       | 11  22-19
+4   Debreceni VSC           16 |  6   9-9       |  5   9-7       | 11  18-16
+5   Vasas                   15 |  6  11-8       |  5   7-7       | 11  18-15
+6   Ujpest                  15 |  5  10-6       |  6   8-10      | 11  18-16
+7   Ferencvarosi TC         14 |  3   3-3       |  6  10-7       |  9  13-10
+8   MTK Budapest            12 |  6  10-8       |  4   6-9       | 10  16-17
+9   Kisvarda FC             12 |  6   5-8       |  5   7-5       | 11  12-13
+10  Budapest Honved         10 |  5   6-8       |  5   7-9       | 10  13-17
+11  Zalaegerszegi TE        10 |  5  12-5       |  6   1-17      | 11  13-22
+12  Nyiregyhaza              8 |  5   6-5       |  5   4-15      | 10  10-20
+
+(15 API-Football requests used)
+
+----------------------------------------------------------------------
+MATCHBOOK: skipped (switched off for this run)
