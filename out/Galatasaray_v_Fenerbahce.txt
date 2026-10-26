@@ -1,0 +1,86 @@
+MATCH Galatasaray v Fenerbahce | fetched 2026-10-26 06:42 local
+
+FORM DATA Galatasaray v Fenerbahce | source API-Football | 2026-10-26 06:42 UTC
+H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
+
+=== Galatasaray (id 645): last 20 finished games ===
+2026-10-21 A 4-2 v Lille | UEFA Champions League | Lille | xG 1.66-2.11
+2026-10-17 A 1-0 v Gençlerbirliği S.K. | Süper Lig | Ankara | xG 1.92-1.74
+2026-10-13 H 1-4 v Barcelona | UEFA Champions League | Istanbul | xG 0.42-2.86
+2026-10-09 H 3-1 v Kasımpaşa | Süper Lig | Istanbul | xG 2.52-0.49
+2026-10-02 A 3-3 v Pendikspor | Friendlies Clubs | Istanbul
+2026-09-19 A 0-4 v Trabzonspor | Süper Lig | Trabzon | xG 0.96-2.20
+2026-09-13 H 1-0 v Kocaelispor | Süper Lig | Istanbul | xG 2.26-0.82
+2026-09-09 A 1-3 v Sporting CP | UEFA Champions League | Lisbon | xG 1.23-1.75
+2026-09-04 A 3-2 v Başakşehir | Süper Lig | Istanbul | xG 2.12-1.99
+2026-08-29 H 3-2 v Göztepe | Süper Lig | Istanbul | xG 2.87-0.63
+2026-08-21 A 4-0 v Erzurumspor FK | Süper Lig | Erzurum
+2026-08-14 H 2-2 v Çorum FK | Süper Lig | Istanbul
+2026-08-08 H 1-2 v Villarreal | Friendlies Clubs | Istanbul
+2026-08-02 H 3-3 v Rennes | Friendlies Clubs | Istanbul
+2026-07-27 H 0-3 v Venezia | Friendlies Clubs | Linz
+2026-07-24 H 0-2 v Monza | Friendlies Clubs | Linz
+2026-07-17 A 5-1 v Ümraniyespor | Friendlies Clubs | Istanbul
+2026-05-17 A 0-1 v Kasımpaşa | Süper Lig | Istanbul
+2026-05-09 H 4-2 v Antalyaspor | Süper Lig | Istanbul
+2026-05-02 A 1-4 v Samsunspor | Süper Lig | Samsun
+Listed home: 10 games, scored 18 (1.80), conceded 21 (2.10), blanks 2, clean sheets 1
+Listed away: 10 games, scored 22 (2.20), conceded 20 (2.00), blanks 2, clean sheets 2
+All: 20 games, scored 40 (2.00), conceded 41 (2.05), blanks 4, clean sheets 3
+
+"Fenerbahce" matches several teams. Use id:<number> instead of the name:
+  id:611    Fenerbahçe (Turkey)
+  id:27868  Fenerbahce W (Turkey)
+  id:28245  Fenerbahce U19 (Turkey)
+(retrying Fenerbahce using the opponent's country, Turkey)
+"Fenerbahce" matches several teams. Use id:<number> instead of the name:
+  id:611    Fenerbahçe (Turkey)
+  id:27868  Fenerbahce W (Turkey)
+  id:28245  Fenerbahce U19 (Turkey)
+!! Fenerbahce: Ambiguous team name "Fenerbahce".
+
+TABLE FOR Galatasaray
+LEAGUE TABLE UEFA Champions League 2026 | 36 teams | 54 games played
+League averages per game: home 2.50, away 1.59, total 4.09
+#   team                   Pts | home P GF-GA  | away P GF-GA  | all P GF-GA
+1   Paris Saint Germain      9 |  2  10-3       |  1   4-2       |  3  14-5
+2   Aston Villa              9 |  2   9-1       |  1   3-2       |  3  12-3
+3   Liverpool                9 |  2   6-4       |  1   6-3       |  3  12-7
+4   Real Madrid              9 |  2   6-2       |  1   4-3       |  3  10-5
+5   Real Betis               9 |  2   4-2       |  1   3-2       |  3   7-4
+6   VfB Stuttgart            7 |  2   4-2       |  1   3-0       |  3   7-2
+7   Arsenal                  7 |  1   3-0       |  2   3-2       |  3   6-2
+8   Barcelona                6 |  1   5-1       |  2   6-5       |  3  11-6
+9   Como                     6 |  2   8-2       |  1   2-3       |  3  10-5
+10  Manchester City          6 |  2   7-5       |  1   2-0       |  3   9-5
+11  Club Brugge KV           6 |  2   5-3       |  1   4-3       |  3   9-6
+12  Sporting CP              6 |  2   5-4       |  1   2-0       |  3   7-4
+13  Borussia Dortmund        6 |  1   3-2       |  2   2-2       |  3   5-4
+14  Bayern München           5 |  2   7-2       |  1   3-3       |  3  10-5
+15  AS Roma                  4 |  2   7-4       |  1   1-1       |  3   8-5
+16  Atletico Madrid          4 |  1   2-0       |  2   2-3       |  3   4-3
+17  Shakhtar Donetsk         4 |  1   3-1       |  2   1-2       |  3   4-3
+18  PSV Eindhoven            4 |  1   1-1       |  2   1-1       |  3   2-2
+19  Villarreal               3 |  1   3-1       |  2   5-7       |  3   8-8
+20  Manchester United        3 |  1   4-0       |  2   1-6       |  3   5-6
+21  Inter                    3 |  2   4-4       |  1   1-2       |  3   5-6
+22  Napoli                   3 |  2   4-4       |  1   1-3       |  3   5-7
+23  Galatasaray              3 |  1   1-4       |  2   5-5       |  3   6-9
+24  Lask Linz                3 |  1   3-6       |  2   3-3       |  3   6-9
+25  Sabah FC                 3 |  2   3-2       |  1   0-4       |  3   3-6
+26  Feyenoord                3 |  1   3-2       |  2   1-6       |  3   4-8
+27  Lens                     3 |  1   0-2       |  2   3-5       |  3   3-7
+28  Bodo/Glimt               3 |  1   1-0       |  2   3-9       |  3   4-9
+29  AEK Athens FC            3 |  1   1-0       |  2   2-8       |  3   3-8
+30  RB Leipzig               3 |  1   1-0       |  2   2-8       |  3   3-8
+31  Fenerbahçe               2 |  2   3-3       |  1   0-6       |  3   3-9
+32  Slavia Praha             1 |  1   2-3       |  2   2-4       |  3   4-7
+33  Viking                   1 |  1   3-3       |  2   2-6       |  3   5-9
+34  FC Porto                 0 |  2   0-3       |  1   2-3       |  3   2-6
+35  Lille                    0 |  2   4-7       |  1   0-3       |  3   4-10
+36  Slovan Bratislava        0 |  1   0-3       |  2   1-10      |  3   1-13
+
+(15 API-Football requests used)
+
+----------------------------------------------------------------------
+MATCHBOOK: skipped (switched off for this run)

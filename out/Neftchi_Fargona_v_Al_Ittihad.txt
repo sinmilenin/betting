@@ -1,0 +1,13 @@
+MATCH Neftchi Fargona v Al-Ittihad | fetched 2026-10-26 06:42 local
+
+FORM DATA Neftchi Fargona v Al-Ittihad | source API-Football | 2026-10-26 06:43 UTC
+H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
+
+!! Neftchi Fargona: No team found for "Neftchi Fargona".
+
+!! Al-Ittihad: API-Football error: {"search": "The Search field may only contain alpha-numeric characters and spaces."}
+
+(2 API-Football requests used)
+
+----------------------------------------------------------------------
+MATCHBOOK: skipped (switched off for this run)
