@@ -1,3 +1,4 @@
-# Scan 26.10.2026 19:41 run 2: name fixes
-Resistencia v Benjamin Aceval | n=20 | xg=10
-Blackburn Rovers U21 v West Bromwich Albion U21 | n=20 | xg=10
+# Night scan 26.10.2026 20:55
+Flamengo v Atletico Mineiro | n=20 | xg=10
+Juventude v Nautico | n=20 | xg=10
+Instituto v Deportivo Riestra | n=20 | xg=10
