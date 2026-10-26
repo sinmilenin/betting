@@ -1,2 +1,6 @@
-# Scan 26.10.2026 15:57 run 2: SC Grobina v FK Riga (Grobina by id)
-id:4138 v Riga | n=20 | xg=10
+# Scan 26.10.2026 16:41: Istra, Viimsi, Kvik, Sepsi, Al-Qadisiyah
+Istra 1961 v Hajduk Split | n=20 | xg=10
+Viimsi v Flora II | n=20 | xg=10
+Kvik v Rosenborg II | n=20 | xg=10
+Sepsi OSK v Universitatea Craiova | n=20 | xg=10
+Al-Qadisiyah v Al Sadd | n=20 | xg=10
