@@ -1,2 +1,3 @@
-# Scan 26.10.2026 16:41 run 4: Al-Qadisiyah by id
-id:2933 v Al Sadd | n=20 | xg=10
+# Scan 26.10.2026 17:26 run 1: new fixtures
+Al-Ula v Al-Orobah | n=20 | xg=10
+Maccabi Haifa v Hapoel Beer Sheva | n=20 | xg=10
