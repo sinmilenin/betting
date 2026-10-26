@@ -75,5 +75,16 @@
     "lay": 20,
     "stake": 3,
     "created": "2026-10-26T13:51:43+01:00"
+  },
+  {
+    "id": "2026-10-26_al-ahli-al-gharafa_1-0",
+    "date": "2026-10-26",
+    "ko": "17:00",
+    "match": "Al Ahli v Al Gharafa",
+    "comp": "International, AFC Champions League",
+    "cell": "1-0",
+    "lay": 16.5,
+    "stake": 3,
+    "created": "2026-10-26T15:23:26+01:00"
   }
 ]
