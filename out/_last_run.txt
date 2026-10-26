@@ -1,5 +1,8 @@
-RUN 2026-10-26 18:07 local | 3 match(es)
-id:2929 v id:2903 -> out/id_2929_v_id_2903.txt
-Bhayangkara FC v PSM Makassar -> out/Bhayangkara_FC_v_PSM_Makassar.txt
-id:4217 v id:2938 -> out/id_4217_v_id_2938.txt
-Requests used: API-Football 14, Matchbook 0
+RUN 2026-10-26 18:42 local | 3 match(es)
+Resistencia SC v Benjamin Aceval -> out/Resistencia_SC_v_Benjamin_Aceval.txt
+    !! Resistencia SC: No team found for "Resistencia SC".
+Blackburn U21 v West Brom U21 -> out/Blackburn_U21_v_West_Brom_U21.txt
+    !! Blackburn U21: No team found for "Blackburn U21".
+    !! West Brom U21: No team found for "West Brom U21".
+Bournemouth U21 v Brentford U21 -> out/Bournemouth_U21_v_Brentford_U21.txt
+Requests used: API-Football 41, Matchbook 0
