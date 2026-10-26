@@ -1,16 +1,5 @@
 [
   {
-    "id": "2026-10-26_neftchi-fargona-al-ittihad_0-1",
-    "date": "2026-10-26",
-    "ko": "14:45",
-    "match": "Neftchi Fargona v Al-Ittihad",
-    "comp": "International, AFC Champions League",
-    "cell": "0-1",
-    "lay": 11.5,
-    "stake": 3,
-    "created": "2026-10-26T07:49:02+01:00"
-  },
-  {
     "id": "2026-10-26_santa-clara-benfica_0-3",
     "date": "2026-10-26",
     "ko": "19:45",
@@ -152,5 +141,16 @@
     "lay": 16.5,
     "stake": 3,
     "created": "2026-10-26T19:00:56+01:00"
+  },
+  {
+    "id": "2026-10-27_juventude-nautico-pe_2-1",
+    "date": "2026-10-27",
+    "ko": "00:30",
+    "match": "Juventude v Nautico PE",
+    "comp": "Brazil, Brazilian Serie B",
+    "cell": "2-1",
+    "lay": 10,
+    "stake": 3,
+    "created": "2026-10-26T21:03:28+01:00"
   }
 ]
