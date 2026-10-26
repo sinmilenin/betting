@@ -86,5 +86,49 @@
     "lay": 16.5,
     "stake": 3,
     "created": "2026-10-26T15:23:26+01:00"
+  },
+  {
+    "id": "2026-10-26_nk-istra-hajduk-split_1-2",
+    "date": "2026-10-26",
+    "ko": "18:00",
+    "match": "NK Istra v Hajduk Split",
+    "comp": "Croatia, Croatian HNL",
+    "cell": "1-2",
+    "lay": 9.6,
+    "stake": 3,
+    "created": "2026-10-26T16:49:33+01:00"
+  },
+  {
+    "id": "2026-10-26_viimsi-jk-flora-tallinn-ii_1-0",
+    "date": "2026-10-26",
+    "ko": "18:00",
+    "match": "Viimsi JK v Flora Tallinn II",
+    "comp": "Estonia, Estonian Esiliiga",
+    "cell": "1-0",
+    "lay": 18,
+    "stake": 3,
+    "created": "2026-10-26T16:49:33+01:00"
+  },
+  {
+    "id": "2026-10-26_acs-sepsi-osk-universitatea-craiova_1-2",
+    "date": "2026-10-26",
+    "ko": "19:00",
+    "match": "ACS Sepsi OSK v Universitatea Craiova",
+    "comp": "Romania, Romanian Liga I",
+    "cell": "1-2",
+    "lay": 9.6,
+    "stake": 3,
+    "created": "2026-10-26T16:49:33+01:00"
+  },
+  {
+    "id": "2026-10-26_kvik-rosenborg-ii_aohw",
+    "date": "2026-10-26",
+    "ko": "19:00",
+    "match": "Kvik v Rosenborg II",
+    "comp": "Norway, Norwegian 3rd Division",
+    "cell": "AOHW",
+    "lay": 4.4,
+    "stake": 3,
+    "created": "2026-10-26T16:49:33+01:00"
   }
 ]
