@@ -1,12 +1,4 @@
-RUN 2026-10-26 06:44 local | 6 match(es)
-Paris Saint Germain v Lyon -> out/Paris_Saint_Germain_v_Lyon.txt
-Galatasaray v id:611 -> out/Galatasaray_v_id_611.txt
-Neftchi v Al Ittihad -> out/Neftchi_v_Al_Ittihad.txt
-    !! Neftchi: Ambiguous team name "Neftchi".
-    !! Al Ittihad: Ambiguous team name "Al Ittihad".
-id:549 v id:564 -> out/id_549_v_id_564.txt
-Al Ahli Saudi v Gharafa -> out/Al_Ahli_Saudi_v_Gharafa.txt
-    !! Al Ahli Saudi: No team found for "Al Ahli Saudi".
-    !! Gharafa: Ambiguous team name "Gharafa".
-FC Copenhagen v Odense -> out/FC_Copenhagen_v_Odense.txt
-Requests used: API-Football 105, Matchbook 0
+RUN 2026-10-26 06:45 local | 2 match(es)
+id:4217 v id:2638 -> out/id_4217_v_id_2638.txt
+id:2929 v id:2903 -> out/id_2929_v_id_2903.txt
+Requests used: API-Football 52, Matchbook 0
