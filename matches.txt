@@ -1,11 +1,7 @@
-# Scan 26.10.2026 07:42 top-20 run
-Paris St-G v Lyon | n=20 | xg=10
-Sevilla v Osasuna | n=20 | xg=10
-Santa Clara v Benfica | n=20 | xg=10
-Rizespor v Trabzonspor | n=20 | xg=10
-Galatasaray v Fenerbahce | n=20 | xg=10
-Neftchi Fargona v Al-Ittihad | n=20 | xg=10
-Besiktas v Basaksehir | n=20 | xg=10
-Coritiba v Gremio | n=20 | xg=10
-Al Ahli v Al Gharafa | n=20 | xg=10
-FC Copenhagen v OB | n=20 | xg=10
+# Scan 26.10.2026 07:42 top-20 run 2: corrected names
+Paris Saint Germain v Lyon | n=20 | xg=10
+Galatasaray v id:611 | n=20 | xg=10
+Neftchi v Al Ittihad | n=20 | xg=10
+id:549 v id:564 | n=20 | xg=10
+Al Ahli Saudi v Gharafa | n=20 | xg=10
+FC Copenhagen v Odense | n=20 | xg=10
