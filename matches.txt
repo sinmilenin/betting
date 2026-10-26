@@ -1,4 +1,4 @@
-# Night scan 26.10.2026 20:55
-Flamengo v Atletico Mineiro | n=20 | xg=10
-Juventude v Nautico | n=20 | xg=10
-Instituto v Deportivo Riestra | n=20 | xg=10
+# Night scan 26.10.2026 20:55 run 2: ids + Coritiba
+Juventude v id:755 | n=20 | xg=10
+id:478 v Deportivo Riestra | n=20 | xg=10
+Coritiba v Gremio | n=20 | xg=10
