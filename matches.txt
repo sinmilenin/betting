@@ -1,2 +1,2 @@
-# Scan 26.10.2026 15:57 run 1: SC Grobina v FK Riga
-Grobina v Riga | n=20 | xg=10
+# Scan 26.10.2026 15:57 run 2: SC Grobina v FK Riga (Grobina by id)
+id:4138 v Riga | n=20 | xg=10
