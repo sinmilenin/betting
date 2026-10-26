@@ -1,0 +1,64 @@
+MATCH id:2929 v id:2903 | fetched 2026-10-26 18:07 local
+
+FORM DATA id:2929 v id:2903 | source API-Football | 2026-10-26 18:07 UTC
+H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
+
+=== Al-Ahli Jeddah (id 2929): last 3 finished games ===
+2026-10-26 H 2-1 v Al-Gharafa | AFC Champions League Elite | Jeddah
+2026-10-23 H 4-1 v Al Khaleej Saihat | Pro League | Jeddah
+2026-10-19 A 3-2 v Al-Fayha | Pro League | Buraidah
+Listed home: 2 games, scored 6 (3.00), conceded 2 (1.00), blanks 0, clean sheets 0
+Listed away: 1 games, scored 3 (3.00), conceded 2 (2.00), blanks 0, clean sheets 0
+All: 3 games, scored 9 (3.00), conceded 4 (1.33), blanks 0, clean sheets 0
+
+=== Al-Gharafa (id 2903): last 3 finished games ===
+2026-10-26 A 1-2 v Al-Ahli Jeddah | AFC Champions League Elite | Jeddah
+2026-10-22 H 2-2 v Al Ahli Doha | Stars League | Doha
+2026-10-18 H 0-0 v Al-Rayyan SC | Stars League | Doha
+Listed home: 2 games, scored 2 (1.00), conceded 2 (1.00), blanks 1, clean sheets 1
+Listed away: 1 games, scored 1 (1.00), conceded 2 (2.00), blanks 0, clean sheets 0
+All: 3 games, scored 3 (1.00), conceded 4 (1.33), blanks 1, clean sheets 1
+
+TABLE FOR Al-Ahli Jeddah
+LEAGUE TABLE AFC Champions League Elite 2026 | 32 teams | 33 games played
+League averages per game: home 1.73, away 1.30, total 3.03
+#   team                   Pts | home P GF-GA  | away P GF-GA  | all P GF-GA
+1   Al Ain                   6 |  1   4-0       |  1   4-1       |  2   8-1 [West Region]
+2   Esteghlal FC             6 |  1   3-0       |  1   2-1       |  2   5-1 [West Region]
+3   Al-Hilal Saudi FC        6 |  1   2-1       |  1   2-0       |  2   4-1 [West Region]
+4   Shabab Al Ahli Dubai     6 |  1   1-0       |  1   2-1       |  2   3-1 [West Region]
+5   Al-Ahli Jeddah           4 |  1   1-1       |  1   3-1       |  2   4-2 [West Region]
+6   Al-Qadisiyah FC          4 |  1   2-1       |  1   1-1       |  2   3-2 [West Region]
+7   Al-Ittihad FC            4 |  1   1-2       |  2   3-2       |  3   4-4 [West Region]
+8   Al-Nassr                 3 |  1   3-1       |  1   0-4       |  2   3-5 [West Region]
+9   Neftchi                  3 |  2   2-2       |  1   1-3       |  3   3-5 [West Region]
+10  Pakhtakor                2 |  1   1-1       |  1   1-1       |  2   2-2 [West Region]
+11  Al Shamal                2 |  1   1-1       |  1   0-0       |  2   1-1 [West Region]
+12  Tractor Sazi             1 |  1   0-0       |  1   0-1       |  2   0-1 [West Region]
+13  Al-Gharafa               0 |  1   1-2       |  1   1-2       |  2   2-4 [West Region]
+14  Al-Wasl FC               0 |  1   1-3       |  1   1-2       |  2   2-5 [West Region]
+15  Al Quwa Al Jawiya        0 |  1   1-4       |  1   0-1       |  2   1-5 [West Region]
+16  Al Sadd                  0 |  1   0-2       |  1   0-3       |  2   0-5 [West Region]
+1   Kashima                  6 |  1   7-1       |  1   1-0       |  2   8-1 [East Region]
+2   Gamba Osaka              6 |  1   4-1       |  1   3-1       |  2   7-2 [East Region]
+3   Vissel Kobe              6 |  1   2-0       |  1   2-1       |  2   4-1 [East Region]
+4   Beijing Guoan            6 |  1   3-1       |  1   1-0       |  2   4-1 [East Region]
+5   SHANGHAI SIPG            4 |  1   1-1       |  1   6-4       |  2   7-5 [East Region]
+6   Johor Darul Takzim FC    4 |  1   1-1       |  1   2-0       |  2   3-1 [East Region]
+7   Daejeon Citizen          4 |  1   1-0       |  1   1-1       |  2   2-1 [East Region]
+8   Kashiwa Reysol           3 |  1   5-1       |  1   1-2       |  2   6-3 [East Region]
+9   Kyoto Sanga              3 |  1   1-0       |  1   0-1       |  2   1-1 [East Region]
+10  Jeonbuk Motors           3 |  1   2-1       |  1   0-2       |  2   2-3 [East Region]
+11  Buriram United           1 |  1   0-1       |  1   1-1       |  2   1-2 [East Region]
+12  Ratchaburi               0 |  1   4-6       |  1   0-1       |  2   4-7 [East Region]
+13  Công An Nhân Dân         0 |  1   0-1       |  1   1-4       |  2   1-5 [East Region]
+14  Pohang Steelers          0 |  1   0-2       |  1   1-3       |  2   1-5 [East Region]
+15  Port FC                  0 |  1   1-2       |  1   1-5       |  2   2-7 [East Region]
+16  Newcastle Jets           0 |  1   1-3       |  1   1-7       |  2   2-10 [East Region]
+
+(Al-Gharafa: same table as Al-Ahli Jeddah, shown above)
+
+(5 API-Football requests used)
+
+----------------------------------------------------------------------
+MATCHBOOK: skipped (switched off for this run)

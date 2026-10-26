@@ -1,3 +1,5 @@
-RUN 2026-10-26 17:58 local | 1 match(es)
-Montpellier v Red Star -> out/Montpellier_v_Red_Star.txt
-Requests used: API-Football 26, Matchbook 0
+RUN 2026-10-26 18:07 local | 3 match(es)
+id:2929 v id:2903 -> out/id_2929_v_id_2903.txt
+Bhayangkara FC v PSM Makassar -> out/Bhayangkara_FC_v_PSM_Makassar.txt
+id:4217 v id:2938 -> out/id_4217_v_id_2938.txt
+Requests used: API-Football 14, Matchbook 0
