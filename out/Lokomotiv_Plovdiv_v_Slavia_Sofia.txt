@@ -1,0 +1,80 @@
+MATCH Lokomotiv Plovdiv v Slavia Sofia | fetched 2026-10-26 14:20 local
+
+FORM DATA Lokomotiv Plovdiv v Slavia Sofia | source API-Football | 2026-10-26 14:20 UTC
+H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
+
+=== Lokomotiv Plovdiv (id 858): last 20 finished games ===
+2026-10-21 A 1-0 v Cherno More Varna | Pro Cup | Varna
+2026-10-16 A 2-0 v Yantra 2019 | Cup | ?
+2026-10-10 A 1-1 v Lokomotiv Sofia | First League | Sofia
+2026-10-02 H 2-0 v Arda Kardzhali | Friendlies Clubs | ?
+2026-09-20 H 1-1 v CSKA Sofia | First League | Plovdiv
+2026-09-13 A 0-2 v Botev Plovdiv | First League | Plovdiv
+2026-09-06 H 1-0 v Cherno More Varna | First League | Plovdiv
+2026-08-28 A 0-2 v CSKA 1948 | First League | Bistritsa
+2026-08-24 H 0-1 v Arda Kardzhali | First League | Plovdiv
+2026-08-16 H 1-2 v Dunav Ruse | First League | Plovdiv
+2026-08-07 A 0-2 v Levski Sofia | First League | Sofia
+2026-08-03 A 0-1 v Spartak Varna | First League | Varna
+2026-07-26 H 2-1 v Septemvri Sofia | First League | Plovdiv
+2026-07-18 A 0-1 v Ludogorets | First League | Razgrad
+2026-07-08 A 2-0 v Rilski Sportist | Friendlies Clubs | ?
+2026-07-04 H 2-0 v Arda Kardzhali | Friendlies Clubs | ?
+2026-05-29 A 0-0 v Ludogorets | First League | Razgrad [PEN, 90-min score shown]
+2026-05-25 H 2-1 v Botev Plovdiv | First League | Plovdiv
+2026-05-20 H 1-1 v CSKA Sofia | Cup | Sofia [PEN, 90-min score shown]
+2026-05-16 A 0-4 v Arda Kardzhali | First League | Kardzhali
+Listed home: 9 games, scored 12 (1.33), conceded 7 (0.78), blanks 1, clean sheets 3
+Listed away: 11 games, scored 6 (0.55), conceded 13 (1.18), blanks 7, clean sheets 4
+All: 20 games, scored 18 (0.90), conceded 20 (1.00), blanks 8, clean sheets 7
+
+=== Slavia Sofia (id 854): last 20 finished games ===
+2026-10-17 A 3-0 v Akademik Svishtov | Cup | ?
+2026-10-10 A 0-1 v Botev Plovdiv | First League | Plovdiv
+2026-10-03 H 2-1 v Botev Vratsa | Friendlies Clubs | ?
+2026-09-18 H 1-2 v CSKA 1948 | First League | Sofia
+2026-09-13 H 0-0 v Spartak Varna | First League | Sofia
+2026-09-07 A 1-0 v Dunav Ruse | First League | Ruse
+2026-09-02 H 1-2 v Levski Sofia | First League | Sofia
+2026-08-28 H 1-1 v Septemvri Sofia | First League | Sofia
+2026-08-22 A 1-1 v Ludogorets | First League | Razgrad
+2026-08-10 A 3-0 v Botev Vratsa | First League | Vratsa
+2026-07-31 H 1-1 v Lokomotiv Sofia | First League | Sofia
+2026-07-24 A 0-1 v Arda Kardzhali | First League | Kardzhali
+2026-07-20 H 0-0 v CSKA Sofia | First League | Sofia
+2026-07-11 H 7-2 v Montana | Friendlies Clubs | ?
+2026-07-08 H 3-2 v Slatina | Friendlies Clubs | ?
+2026-07-04 A 3-2 v Septemvri Sofia | Friendlies Clubs | ?
+2026-07-01 H 4-0 v FC Botosani | Friendlies Clubs | ?
+2026-05-22 H 2-0 v Montana | First League | Sofia
+2026-05-18 A 0-2 v Lokomotiv Sofia | First League | Sofia
+2026-05-13 H 0-2 v Dobrudzha | First League | Sofia
+Listed home: 12 games, scored 22 (1.83), conceded 13 (1.08), blanks 3, clean sheets 4
+Listed away: 8 games, scored 11 (1.38), conceded 7 (0.88), blanks 3, clean sheets 3
+All: 20 games, scored 33 (1.65), conceded 20 (1.00), blanks 6, clean sheets 7
+
+TABLE FOR Lokomotiv Plovdiv
+LEAGUE TABLE First League 2026 | 14 teams | 79 games played
+League averages per game: home 1.52, away 1.18, total 2.70
+#   team                   Pts | home P GF-GA  | away P GF-GA  | all P GF-GA
+1   Levski Sofia            28 |  5  14-1       |  5   9-3       | 10  23-4
+2   CSKA Sofia              27 |  5  17-5       |  6  10-4       | 11  27-9
+3   Ludogorets              26 |  6  13-3       |  4   8-4       | 10  21-7
+4   CSKA 1948               25 |  7  18-7       |  5   7-6       | 12  25-13
+5   Botev Plovdiv           19 |  6   9-6       |  6   8-12      | 12  17-18
+6   Arda Kardzhali          17 |  5   9-5       |  6   6-12      | 11  15-17
+7   Spartak Varna           13 |  6   5-6       |  6   6-11      | 12  11-17
+8   Slavia Sofia            11 |  6   4-6       |  5   5-3       | 11   9-9
+9   Dunav Ruse              11 |  6   6-9       |  6   9-12      | 12  15-21
+10  Botev Vratsa            10 |  5   2-5       |  7   8-16      | 12  10-21
+11  Lokomotiv Sofia          9 |  6   5-11      |  6   8-9       | 12  13-20
+12  Lokomotiv Plovdiv        8 |  5   5-5       |  6   1-9       | 11   6-14
+13  Septemvri Sofia          8 |  6   6-13      |  5   4-8       | 11  10-21
+14  Cherno More Varna        6 |  5   7-11      |  6   4-11      | 11  11-22
+
+(Slavia Sofia: same table as Lokomotiv Plovdiv, shown above)
+
+(27 API-Football requests used)
+
+----------------------------------------------------------------------
+MATCHBOOK: skipped (switched off for this run)

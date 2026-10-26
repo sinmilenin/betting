@@ -1,4 +1,3 @@
-RUN 2026-10-26 12:48 local | 1 match(es)
-Nueva Chicago v San Martin SJ -> out/Nueva_Chicago_v_San_Martin_SJ.txt
-    !! San Martin SJ: No team found for "San Martin SJ".
-Requests used: API-Football 14, Matchbook 0
+RUN 2026-10-26 14:20 local | 1 match(es)
+Lokomotiv Plovdiv v Slavia Sofia -> out/Lokomotiv_Plovdiv_v_Slavia_Sofia.txt
+Requests used: API-Football 27, Matchbook 0
