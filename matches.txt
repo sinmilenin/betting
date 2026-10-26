@@ -1,4 +1,3 @@
-# Scan 26.10.2026 19:41: new fixtures
-Resistencia SC v Benjamin Aceval | n=20 | xg=10
-Blackburn U21 v West Brom U21 | n=20 | xg=10
-Bournemouth U21 v Brentford U21 | n=20 | xg=10
+# Scan 26.10.2026 19:41 run 2: name fixes
+Resistencia v Benjamin Aceval | n=20 | xg=10
+Blackburn Rovers U21 v West Bromwich Albion U21 | n=20 | xg=10
