@@ -1,3 +1,6 @@
-RUN 2026-10-26 16:03 local | 1 match(es)
-id:2933 v Al Sadd -> out/id_2933_v_Al_Sadd.txt
-Requests used: API-Football 26, Matchbook 0
+RUN 2026-10-26 16:27 local | 2 match(es)
+Al-Ula v Al-Orobah -> out/Al_Ula_v_Al_Orobah.txt
+    !! Al-Ula: API-Football error: {"search": "The Search field may only contain alpha-numeric characters and spaces."}
+    !! Al-Orobah: API-Football error: {"search": "The Search field may only contain alpha-numeric characters and spaces."}
+Maccabi Haifa v Hapoel Beer Sheva -> out/Maccabi_Haifa_v_Hapoel_Beer_Sheva.txt
+Requests used: API-Football 28, Matchbook 0

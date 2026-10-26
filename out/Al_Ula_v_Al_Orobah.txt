@@ -1,0 +1,13 @@
+MATCH Al-Ula v Al-Orobah | fetched 2026-10-26 16:27 local
+
+FORM DATA Al-Ula v Al-Orobah | source API-Football | 2026-10-26 16:27 UTC
+H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
+
+!! Al-Ula: API-Football error: {"search": "The Search field may only contain alpha-numeric characters and spaces."}
+
+!! Al-Orobah: API-Football error: {"search": "The Search field may only contain alpha-numeric characters and spaces."}
+
+(2 API-Football requests used)
+
+----------------------------------------------------------------------
+MATCHBOOK: skipped (switched off for this run)
