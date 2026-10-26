@@ -1,21 +1,12 @@
-RUN 2026-10-26 06:42 local | 10 match(es)
-Paris St-G v Lyon -> out/Paris_St_G_v_Lyon.txt
-    !! Paris St-G: API-Football error: {"search": "The Search field may only contain alpha-numeric characters and spaces."}
-Sevilla v Osasuna -> out/Sevilla_v_Osasuna.txt
-Santa Clara v Benfica -> out/Santa_Clara_v_Benfica.txt
-Rizespor v Trabzonspor -> out/Rizespor_v_Trabzonspor.txt
-Galatasaray v Fenerbahce -> out/Galatasaray_v_Fenerbahce.txt
-    !! Fenerbahce: Ambiguous team name "Fenerbahce".
-Neftchi Fargona v Al-Ittihad -> out/Neftchi_Fargona_v_Al_Ittihad.txt
-    !! Neftchi Fargona: No team found for "Neftchi Fargona".
-    !! Al-Ittihad: API-Football error: {"search": "The Search field may only contain alpha-numeric characters and spaces."}
-Besiktas v Basaksehir -> out/Besiktas_v_Basaksehir.txt
-    !! Besiktas: Ambiguous team name "Besiktas".
-    !! Basaksehir: Ambiguous team name "Basaksehir".
-Coritiba v Gremio -> out/Coritiba_v_Gremio.txt
-Al Ahli v Al Gharafa -> out/Al_Ahli_v_Al_Gharafa.txt
-    !! Al Ahli: Ambiguous team name "Al Ahli".
-    !! Al Gharafa: No team found for "Al Gharafa".
-FC Copenhagen v OB -> out/FC_Copenhagen_v_OB.txt
-    !! OB: API-Football error: {"search": "The Search field must be at least 3 characters in length."}
-Requests used: API-Football 151, Matchbook 0
+RUN 2026-10-26 06:44 local | 6 match(es)
+Paris Saint Germain v Lyon -> out/Paris_Saint_Germain_v_Lyon.txt
+Galatasaray v id:611 -> out/Galatasaray_v_id_611.txt
+Neftchi v Al Ittihad -> out/Neftchi_v_Al_Ittihad.txt
+    !! Neftchi: Ambiguous team name "Neftchi".
+    !! Al Ittihad: Ambiguous team name "Al Ittihad".
+id:549 v id:564 -> out/id_549_v_id_564.txt
+Al Ahli Saudi v Gharafa -> out/Al_Ahli_Saudi_v_Gharafa.txt
+    !! Al Ahli Saudi: No team found for "Al Ahli Saudi".
+    !! Gharafa: Ambiguous team name "Gharafa".
+FC Copenhagen v Odense -> out/FC_Copenhagen_v_Odense.txt
+Requests used: API-Football 105, Matchbook 0

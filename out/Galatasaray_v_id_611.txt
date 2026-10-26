@@ -1,6 +1,6 @@
-MATCH Galatasaray v Fenerbahce | fetched 2026-10-26 06:42 local
+MATCH Galatasaray v id:611 | fetched 2026-10-26 06:44 local
 
-FORM DATA Galatasaray v Fenerbahce | source API-Football | 2026-10-26 06:42 UTC
+FORM DATA Galatasaray v id:611 | source API-Football | 2026-10-26 06:44 UTC
 H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
 
 === Galatasaray (id 645): last 20 finished games ===
@@ -28,16 +28,30 @@ Listed home: 10 games, scored 18 (1.80), conceded 21 (2.10), blanks 2, clean she
 Listed away: 10 games, scored 22 (2.20), conceded 20 (2.00), blanks 2, clean sheets 2
 All: 20 games, scored 40 (2.00), conceded 41 (2.05), blanks 4, clean sheets 3
 
-"Fenerbahce" matches several teams. Use id:<number> instead of the name:
-  id:611    Fenerbahçe (Turkey)
-  id:27868  Fenerbahce W (Turkey)
-  id:28245  Fenerbahce U19 (Turkey)
-(retrying Fenerbahce using the opponent's country, Turkey)
-"Fenerbahce" matches several teams. Use id:<number> instead of the name:
-  id:611    Fenerbahçe (Turkey)
-  id:27868  Fenerbahce W (Turkey)
-  id:28245  Fenerbahce U19 (Turkey)
-!! Fenerbahce: Ambiguous team name "Fenerbahce".
+=== Fenerbahçe (id 611): last 20 finished games ===
+2026-10-20 H 2-2 v Slavia Praha | UEFA Champions League | Istanbul | xG 1.15-1.55
+2026-10-17 H 3-0 v Alanyaspor | Süper Lig | Istanbul | xG 3.84-0.96
+2026-10-14 A 0-6 v Aston Villa | UEFA Champions League | Birmingham | xG 1.75-3.15
+2026-10-10 A 3-0 v Rizespor | Süper Lig | Rize | xG 0.96-1.52
+2026-10-03 A 2-0 v Turan | Friendlies Clubs | Baku
+2026-09-20 H 8-0 v Eyüpspor | Süper Lig | Istanbul | xG 5.14-0.72
+2026-09-14 A 0-0 v Gaziantep FK | Süper Lig | Gaziantep | xG 1.34-0.49
+2026-09-10 H 1-1 v AS Roma | UEFA Champions League | Istanbul | xG 1.57-0.48
+2026-09-05 H 1-2 v Beşiktaş | Süper Lig | Istanbul | xG 0.59-1.75
+2026-08-30 A 2-0 v Samsunspor | Süper Lig | Samsun | xG 1.56-0.46
+2026-08-26 A 2-1 v Lyon | UEFA Champions League | Lyon
+2026-08-22 H 4-2 v Konyaspor | Süper Lig | Istanbul
+2026-08-18 H 1-1 v Lyon | UEFA Champions League | Istanbul
+2026-08-15 A 1-2 v Gençlerbirliği S.K. | Süper Lig | Ankara
+2026-08-11 A 1-0 v Sturm Graz | UEFA Champions League | Graz
+2026-08-05 H 2-0 v Sturm Graz | UEFA Champions League | Istanbul
+2026-07-29 A 1-1 v Gornik Zabrze | UEFA Champions League | Zabrze
+2026-07-21 H 1-0 v Gornik Zabrze | UEFA Champions League | Istanbul
+2026-07-14 A 2-1 v Lask Linz | Friendlies Clubs | Linz
+2026-07-11 H 4-0 v Pogon Szczecin | Friendlies Clubs | ?
+Listed home: 10 games, scored 27 (2.70), conceded 8 (0.80), blanks 0, clean sheets 5
+Listed away: 10 games, scored 14 (1.40), conceded 11 (1.10), blanks 2, clean sheets 5
+All: 20 games, scored 41 (2.05), conceded 19 (0.95), blanks 2, clean sheets 10
 
 TABLE FOR Galatasaray
 LEAGUE TABLE UEFA Champions League 2026 | 36 teams | 54 games played
@@ -80,7 +94,9 @@ League averages per game: home 2.50, away 1.59, total 4.09
 35  Lille                    0 |  2   4-7       |  1   0-3       |  3   4-10
 36  Slovan Bratislava        0 |  1   0-3       |  2   1-10      |  3   1-13
 
-(15 API-Football requests used)
+(Fenerbahçe: same table as Galatasaray, shown above)
+
+(24 API-Football requests used)
 
 ----------------------------------------------------------------------
 MATCHBOOK: skipped (switched off for this run)

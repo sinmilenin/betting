@@ -1,0 +1,123 @@
+MATCH id:549 v id:564 | fetched 2026-10-26 06:44 local
+
+FORM DATA id:549 v id:564 | source API-Football | 2026-10-26 06:44 UTC
+H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
+
+=== Beşiktaş (id 549): last 20 finished games ===
+2026-10-22 H 2-2 v Crystal Palace | UEFA Europa League | Istanbul | xG 0.73-0.46
+2026-10-19 A 0-2 v Trabzonspor | Süper Lig | Trabzon | xG 1.32-2.41
+2026-10-15 A 3-2 v 1899 Hoffenheim | UEFA Europa League | Sinsheim | xG 3.39-1.23
+2026-10-11 H 2-1 v Kocaelispor | Süper Lig | Istanbul | xG 2.21-1.65
+2026-09-20 A 2-3 v Amed | Süper Lig | Diyarbakır | xG 2.04-1.54
+2026-09-17 H 4-1 v Marseille | UEFA Europa League | Istanbul
+2026-09-11 H 3-0 v Erzurumspor FK | Süper Lig | Istanbul | xG 2.29-0.50
+2026-09-05 A 2-1 v Fenerbahçe | Süper Lig | Istanbul | xG 1.75-0.59
+2026-08-31 H 6-2 v Çorum FK | Süper Lig | Istanbul | xG 2.97-0.67
+2026-08-27 A 0-1 v Kauno Žalgiris | UEFA Europa League | Kaunas
+2026-08-23 A 0-1 v Alanyaspor | Süper Lig | Alanya
+2026-08-20 H 3-0 v Kauno Žalgiris | UEFA Europa League | Istanbul
+2026-08-16 H 1-0 v Eyüpspor | Süper Lig | Istanbul
+2026-08-13 H 1-0 v Hradec Králové | UEFA Europa League | Istanbul
+2026-08-06 A 1-0 v Hradec Králové | UEFA Europa League | Hradec Kralove
+2026-07-30 A 2-0 v FC Midtjylland | UEFA Europa League | Herning
+2026-07-23 H 1-0 v FC Midtjylland | UEFA Europa League | Istanbul
+2026-07-14 A 2-3 v Spartak Trnava | Friendlies Clubs | Trnava
+2026-07-14 A 1-1 v Malženice | Friendlies Clubs | Samorin
+2026-07-10 A 0-2 v Widzew Łódź | Friendlies Clubs | ?
+Listed home: 9 games, scored 23 (2.56), conceded 6 (0.67), blanks 0, clean sheets 5
+Listed away: 11 games, scored 13 (1.18), conceded 16 (1.45), blanks 4, clean sheets 2
+All: 20 games, scored 36 (1.80), conceded 22 (1.10), blanks 4, clean sheets 7
+
+=== Başakşehir (id 564): last 20 finished games ===
+2026-10-18 H 2-1 v Gaziantep FK | Süper Lig | Istanbul | xG 1.95-1.42
+2026-10-11 A 0-0 v Konyaspor | Süper Lig | Konya | xG 0.97-0.41
+2026-09-19 H 4-0 v Gençlerbirliği S.K. | Süper Lig | Istanbul | xG 2.74-0.52
+2026-09-13 A 0-5 v Amed | Süper Lig | Diyarbakır | xG 0.39-4.25
+2026-09-04 H 2-3 v Galatasaray | Süper Lig | Istanbul | xG 1.99-2.12
+2026-08-30 H 1-1 v Kasımpaşa | Süper Lig | Istanbul | xG 0.76-1.69
+2026-08-23 A 1-2 v Trabzonspor | Süper Lig | Trabzon | xG 1.95-2.27
+2026-08-16 H 2-0 v Kocaelispor | Süper Lig | Istanbul | xG 1.96-0.43
+2026-07-30 A 0-2 v Inter Turku | UEFA Europa Conference League | Turku
+2026-07-22 H 1-1 v Inter Turku | UEFA Europa Conference League | Istanbul
+2026-07-16 A 2-0 v Puskas Academy | Friendlies Clubs | ?
+2026-07-15 A 2-1 v Red Bull Salzburg | Friendlies Clubs | ?
+2026-07-10 A 1-1 v Ried | Friendlies Clubs | ?
+2026-07-06 A 1-3 v Cracovia Krakow | Friendlies Clubs | ?
+2026-05-16 A 2-1 v Gaziantep FK | Süper Lig | Gaziantep
+2026-05-09 H 3-0 v Samsunspor | Süper Lig | Istanbul
+2026-05-02 A 1-3 v Fenerbahçe | Süper Lig | Istanbul
+2026-04-24 H 4-0 v Kasımpaşa | Süper Lig | Istanbul
+2026-04-19 A 1-1 v Trabzonspor | Süper Lig | Trabzon
+2026-04-11 H 3-0 v Gençlerbirliği S.K. | Süper Lig | Istanbul
+Listed home: 9 games, scored 22 (2.44), conceded 6 (0.67), blanks 0, clean sheets 5
+Listed away: 11 games, scored 11 (1.00), conceded 19 (1.73), blanks 3, clean sheets 2
+All: 20 games, scored 33 (1.65), conceded 25 (1.25), blanks 3, clean sheets 7
+
+TABLE FOR Beşiktaş
+LEAGUE TABLE UEFA Europa League 2026 | 36 teams | 54 games played
+League averages per game: home 1.50, away 1.57, total 3.07
+#   team                   Pts | home P GF-GA  | away P GF-GA  | all P GF-GA
+1   Benfica                  9 |  1   4-1       |  2   6-1       |  3  10-2
+2   Bayer Leverkusen         9 |  1   2-0       |  2   6-0       |  3   8-0
+3   Bournemouth              9 |  2   6-0       |  1   2-1       |  3   8-1
+4   Ferencvarosi TC          9 |  2   6-2       |  1   3-1       |  3   9-3
+5   Olympiakos Piraeus       9 |  2   3-1       |  1   1-0       |  3   4-1
+6   Union St. Gilloise       7 |  2   5-1       |  1   3-0       |  3   8-1
+7   Juventus                 7 |  2   7-2       |  1   2-1       |  3   9-3
+8   Beşiktaş                 7 |  2   6-3       |  1   3-2       |  3   9-5
+9   Sunderland               7 |  1   1-0       |  2   3-2       |  3   4-2
+10  AZ Alkmaar               6 |  1   2-1       |  2   4-1       |  3   6-2
+11  Omonia Nicosia           6 |  2   2-4       |  1   3-0       |  3   5-4
+12  Lyon                     6 |  1   3-2       |  2   2-4       |  3   5-6
+13  Rennes                   5 |  1   2-1       |  2   2-2       |  3   4-3
+14  Real Sociedad            4 |  1   1-2       |  2   7-1       |  3   8-3
+15  Crystal Palace           4 |  1   4-0       |  2   4-5       |  3   8-5
+16  Sparta Praha             4 |  1   1-1       |  2   4-2       |  3   5-3
+17  Levski Sofia             4 |  1   0-1       |  2   3-2       |  3   3-3
+18  Dinamo Zagreb            4 |  2   3-4       |  1   0-0       |  3   3-4
+19  Sturm Graz               4 |  2   1-0       |  1   0-3       |  3   1-3
+20  NEC Nijmegen             4 |  1   1-1       |  2   4-7       |  3   5-8
+21  Red Bull Salzburg        4 |  1   0-4       |  2   3-2       |  3   3-6
+22  Anderlecht               3 |  1   1-2       |  2   3-1       |  3   4-3
+23  1899 Hoffenheim          3 |  2   5-3       |  1   0-2       |  3   5-5
+24  AC Milan                 3 |  1   0-2       |  2   4-3       |  3   4-5
+25  Celta Vigo               3 |  1   1-2       |  2   2-2       |  3   3-4
+26  OFI                      3 |  2   2-2       |  1   1-2       |  3   3-4
+27  Jagiellonia              3 |  2   3-4       |  1   1-2       |  3   4-6
+28  Torreense                3 |  1   1-2       |  2   3-5       |  3   4-7
+29  Celje                    1 |  2   2-5       |  1   0-2       |  3   2-7
+30  Hapoel Beer Sheva        1 |  1   0-0       |  2   1-6       |  3   1-6
+31  Lillestrom               1 |  2   1-8       |  1   1-1       |  3   2-9
+32  Lech Poznan              1 |  2   1-5       |  1   0-4       |  3   1-9
+33  Plzen                    0 |  2   1-5       |  1   1-2       |  3   2-7
+34  Marseille                0 |  1   0-1       |  2   1-5       |  3   1-6
+35  Celtic                   0 |  2   2-5       |  1   1-4       |  3   3-9
+36  Ararat-Armenia           0 |  2   1-8       |  1   1-3       |  3   2-11
+
+TABLE FOR Başakşehir
+LEAGUE TABLE Süper Lig 2026 | 18 teams | 78 games played
+League averages per game: home 1.64, away 1.22, total 2.86
+#   team                   Pts | home P GF-GA  | away P GF-GA  | all P GF-GA
+1   Amed                    20 |  5  14-3       |  4   6-7       |  9  20-10
+2   Galatasaray             19 |  4   9-5       |  4   8-6       |  8  17-11
+3   Fenerbahçe              16 |  4  16-4       |  4   6-2       |  8  22-6
+4   Trabzonspor             16 |  4  13-1       |  4   5-4       |  8  18-5
+5   Kasımpaşa               16 |  4   7-4       |  5   6-5       |  9  13-9
+6   Beşiktaş                15 |  4  12-3       |  4   4-7       |  8  16-10
+7   Kocaelispor             15 |  4   6-2       |  5   5-7       |  9  11-9
+8   Erzurumspor FK          14 |  4   4-4       |  5   4-8       |  9   8-12
+9   Çorum FK                13 |  4   6-4       |  5  12-11      |  9  18-15
+10  Göztepe                 12 |  4   6-7       |  5  13-9       |  9  19-16
+11  Alanyaspor              12 |  4   4-4       |  5   5-7       |  9   9-11
+12  Başakşehir              11 |  5  11-5       |  3   1-7       |  8  12-12
+13  Rizespor                10 |  3   0-6       |  5   8-5       |  8   8-11
+14  Konyaspor                8 |  5   4-3       |  4   2-6       |  9   6-9
+15  Gaziantep FK             8 |  5   3-9       |  4   6-6       |  9   9-15
+16  Gençlerbirliği S.K.      8 |  5   6-7       |  4   1-11      |  9   7-18
+17  Samsunspor               4 |  5   5-15      |  4   3-6       |  9   8-21
+18  Eyüpspor                 3 |  5   2-9       |  4   0-14      |  9   2-23
+
+(25 API-Football requests used)
+
+----------------------------------------------------------------------
+MATCHBOOK: skipped (switched off for this run)

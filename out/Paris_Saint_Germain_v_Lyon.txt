@@ -1,0 +1,141 @@
+MATCH Paris Saint Germain v Lyon | fetched 2026-10-26 06:44 local
+
+FORM DATA Paris Saint Germain v Lyon | source API-Football | 2026-10-26 06:44 UTC
+H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
+
+=== Paris Saint Germain (id 85): last 20 finished games ===
+2026-10-20 H 4-2 v Barcelona | UEFA Champions League | Paris | xG 3.74-2.25
+2026-10-17 A 3-1 v Strasbourg | Ligue 1 | Strasbourg | xG 2.69-1.47
+2026-10-14 A 4-2 v Manchester City | UEFA Champions League | Manchester | xG 1.85-2.67
+2026-10-10 H 3-1 v Le Mans | Ligue 1 | Paris | xG 4.25-1.43
+2026-09-20 A 2-1 v Marseille | Ligue 1 | Marseille | xG 4.33-1.80
+2026-09-13 A 1-0 v Stade Brestois 29 | Ligue 1 | Brest | xG 1.16-1.24
+2026-09-09 H 6-1 v Slovan Bratislava | UEFA Champions League | Paris | xG 4.71-0.64
+2026-09-04 H 1-2 v Monaco | Ligue 1 | Paris | xG 2.32-0.51
+2026-08-28 A 2-2 v Lille | Ligue 1 | Lille | xG 1.44-1.27
+2026-08-23 A 2-2 v Rennes | Ligue 1 | Rennes | xG 2.16-0.87
+2026-08-16 A 0-1 v Lens | Trophée des Champions | Lens
+2026-08-12 H 2-1 v Aston Villa | UEFA Super Cup | Salzburg
+2026-08-08 H 1-1 v Manchester United | Friendlies Clubs | ?
+2026-08-05 A 0-3 v Mallorca | Friendlies Clubs | Palma de Mallorca
+2026-05-30 H 1-1 v Arsenal | UEFA Champions League | Budapest [PEN, 90-min score shown]
+2026-05-17 A 1-2 v Paris FC | Ligue 1 | Paris
+2026-05-13 A 2-0 v Lens | Ligue 1 | Lens
+2026-05-10 H 1-0 v Stade Brestois 29 | Ligue 1 | Paris
+2026-05-06 A 1-1 v Bayern München | UEFA Champions League | Munich
+2026-05-02 H 2-2 v Lorient | Ligue 1 | Paris
+Listed home: 9 games, scored 21 (2.33), conceded 11 (1.22), blanks 0, clean sheets 1
+Listed away: 11 games, scored 18 (1.64), conceded 15 (1.36), blanks 2, clean sheets 2
+All: 20 games, scored 39 (1.95), conceded 26 (1.30), blanks 2, clean sheets 3
+
+=== Lyon (id 80): last 20 finished games ===
+2026-10-22 A 0-3 v 1899 Hoffenheim | UEFA Europa League | Sinsheim | xG 0.89-2.13
+2026-10-18 H 2-1 v Nice | Ligue 1 | Lyon | xG 1.60-1.61
+2026-10-15 H 3-2 v Crystal Palace | UEFA Europa League | Lyon | xG 2.05-1.55
+2026-10-09 A 1-2 v Lens | Ligue 1 | Lens | xG 1.04-1.34
+2026-09-19 H 4-0 v Rennes | Ligue 1 | Lyon | xG 3.13-1.37
+2026-09-16 A 2-1 v Anderlecht | UEFA Europa League | Brussels | xG 1.27-1.43
+2026-09-12 A 0-0 v Paris FC | Ligue 1 | Isilemulino | xG 0.50-0.30
+2026-09-04 H 3-1 v Auxerre | Ligue 1 | Lyon | xG 2.85-0.71
+2026-08-29 H 1-1 v Le Havre | Ligue 1 | Lyon | xG 1.75-0.69
+2026-08-26 H 1-2 v Fenerbahçe | UEFA Champions League | Lyon
+2026-08-22 A 2-0 v Toulouse | Ligue 1 | Toulouse
+2026-08-18 A 1-1 v Fenerbahçe | UEFA Champions League | Istanbul
+2026-08-11 H 3-0 v Sparta Praha | UEFA Champions League | Lyon
+2026-08-04 A 1-2 v Sparta Praha | UEFA Champions League | Prague
+2026-07-29 A 0-4 v Real Betis | Friendlies Clubs | ?
+2026-07-24 A 2-0 v VfL Wolfsburg | Friendlies Clubs | ?
+2026-07-18 A 0-2 v Slavia Praha | Friendlies Clubs | ?
+2026-07-15 H 2-1 v Servette FC | Friendlies Clubs | ?
+2026-07-11 H 6-3 v FC ST. Gallen | Friendlies Clubs | ?
+2026-07-08 H 5-2 v Mâcon | Friendlies Clubs | ?
+Listed home: 10 games, scored 30 (3.00), conceded 13 (1.30), blanks 0, clean sheets 2
+Listed away: 10 games, scored 9 (0.90), conceded 15 (1.50), blanks 4, clean sheets 3
+All: 20 games, scored 39 (1.95), conceded 28 (1.40), blanks 4, clean sheets 5
+
+TABLE FOR Paris Saint Germain
+LEAGUE TABLE UEFA Champions League 2026 | 36 teams | 54 games played
+League averages per game: home 2.50, away 1.59, total 4.09
+#   team                   Pts | home P GF-GA  | away P GF-GA  | all P GF-GA
+1   Paris Saint Germain      9 |  2  10-3       |  1   4-2       |  3  14-5
+2   Aston Villa              9 |  2   9-1       |  1   3-2       |  3  12-3
+3   Liverpool                9 |  2   6-4       |  1   6-3       |  3  12-7
+4   Real Madrid              9 |  2   6-2       |  1   4-3       |  3  10-5
+5   Real Betis               9 |  2   4-2       |  1   3-2       |  3   7-4
+6   VfB Stuttgart            7 |  2   4-2       |  1   3-0       |  3   7-2
+7   Arsenal                  7 |  1   3-0       |  2   3-2       |  3   6-2
+8   Barcelona                6 |  1   5-1       |  2   6-5       |  3  11-6
+9   Como                     6 |  2   8-2       |  1   2-3       |  3  10-5
+10  Manchester City          6 |  2   7-5       |  1   2-0       |  3   9-5
+11  Club Brugge KV           6 |  2   5-3       |  1   4-3       |  3   9-6
+12  Sporting CP              6 |  2   5-4       |  1   2-0       |  3   7-4
+13  Borussia Dortmund        6 |  1   3-2       |  2   2-2       |  3   5-4
+14  Bayern München           5 |  2   7-2       |  1   3-3       |  3  10-5
+15  AS Roma                  4 |  2   7-4       |  1   1-1       |  3   8-5
+16  Atletico Madrid          4 |  1   2-0       |  2   2-3       |  3   4-3
+17  Shakhtar Donetsk         4 |  1   3-1       |  2   1-2       |  3   4-3
+18  PSV Eindhoven            4 |  1   1-1       |  2   1-1       |  3   2-2
+19  Villarreal               3 |  1   3-1       |  2   5-7       |  3   8-8
+20  Manchester United        3 |  1   4-0       |  2   1-6       |  3   5-6
+21  Inter                    3 |  2   4-4       |  1   1-2       |  3   5-6
+22  Napoli                   3 |  2   4-4       |  1   1-3       |  3   5-7
+23  Galatasaray              3 |  1   1-4       |  2   5-5       |  3   6-9
+24  Lask Linz                3 |  1   3-6       |  2   3-3       |  3   6-9
+25  Sabah FC                 3 |  2   3-2       |  1   0-4       |  3   3-6
+26  Feyenoord                3 |  1   3-2       |  2   1-6       |  3   4-8
+27  Lens                     3 |  1   0-2       |  2   3-5       |  3   3-7
+28  Bodo/Glimt               3 |  1   1-0       |  2   3-9       |  3   4-9
+29  AEK Athens FC            3 |  1   1-0       |  2   2-8       |  3   3-8
+30  RB Leipzig               3 |  1   1-0       |  2   2-8       |  3   3-8
+31  Fenerbahçe               2 |  2   3-3       |  1   0-6       |  3   3-9
+32  Slavia Praha             1 |  1   2-3       |  2   2-4       |  3   4-7
+33  Viking                   1 |  1   3-3       |  2   2-6       |  3   5-9
+34  FC Porto                 0 |  2   0-3       |  1   2-3       |  3   2-6
+35  Lille                    0 |  2   4-7       |  1   0-3       |  3   4-10
+36  Slovan Bratislava        0 |  1   0-3       |  2   1-10      |  3   1-13
+
+TABLE FOR Lyon
+LEAGUE TABLE UEFA Europa League 2026 | 36 teams | 54 games played
+League averages per game: home 1.50, away 1.57, total 3.07
+#   team                   Pts | home P GF-GA  | away P GF-GA  | all P GF-GA
+1   Benfica                  9 |  1   4-1       |  2   6-1       |  3  10-2
+2   Bayer Leverkusen         9 |  1   2-0       |  2   6-0       |  3   8-0
+3   Bournemouth              9 |  2   6-0       |  1   2-1       |  3   8-1
+4   Ferencvarosi TC          9 |  2   6-2       |  1   3-1       |  3   9-3
+5   Olympiakos Piraeus       9 |  2   3-1       |  1   1-0       |  3   4-1
+6   Union St. Gilloise       7 |  2   5-1       |  1   3-0       |  3   8-1
+7   Juventus                 7 |  2   7-2       |  1   2-1       |  3   9-3
+8   Beşiktaş                 7 |  2   6-3       |  1   3-2       |  3   9-5
+9   Sunderland               7 |  1   1-0       |  2   3-2       |  3   4-2
+10  AZ Alkmaar               6 |  1   2-1       |  2   4-1       |  3   6-2
+11  Omonia Nicosia           6 |  2   2-4       |  1   3-0       |  3   5-4
+12  Lyon                     6 |  1   3-2       |  2   2-4       |  3   5-6
+13  Rennes                   5 |  1   2-1       |  2   2-2       |  3   4-3
+14  Real Sociedad            4 |  1   1-2       |  2   7-1       |  3   8-3
+15  Crystal Palace           4 |  1   4-0       |  2   4-5       |  3   8-5
+16  Sparta Praha             4 |  1   1-1       |  2   4-2       |  3   5-3
+17  Levski Sofia             4 |  1   0-1       |  2   3-2       |  3   3-3
+18  Dinamo Zagreb            4 |  2   3-4       |  1   0-0       |  3   3-4
+19  Sturm Graz               4 |  2   1-0       |  1   0-3       |  3   1-3
+20  NEC Nijmegen             4 |  1   1-1       |  2   4-7       |  3   5-8
+21  Red Bull Salzburg        4 |  1   0-4       |  2   3-2       |  3   3-6
+22  Anderlecht               3 |  1   1-2       |  2   3-1       |  3   4-3
+23  1899 Hoffenheim          3 |  2   5-3       |  1   0-2       |  3   5-5
+24  AC Milan                 3 |  1   0-2       |  2   4-3       |  3   4-5
+25  Celta Vigo               3 |  1   1-2       |  2   2-2       |  3   3-4
+26  OFI                      3 |  2   2-2       |  1   1-2       |  3   3-4
+27  Jagiellonia              3 |  2   3-4       |  1   1-2       |  3   4-6
+28  Torreense                3 |  1   1-2       |  2   3-5       |  3   4-7
+29  Celje                    1 |  2   2-5       |  1   0-2       |  3   2-7
+30  Hapoel Beer Sheva        1 |  1   0-0       |  2   1-6       |  3   1-6
+31  Lillestrom               1 |  2   1-8       |  1   1-1       |  3   2-9
+32  Lech Poznan              1 |  2   1-5       |  1   0-4       |  3   1-9
+33  Plzen                    0 |  2   1-5       |  1   1-2       |  3   2-7
+34  Marseille                0 |  1   0-1       |  2   1-5       |  3   1-6
+35  Celtic                   0 |  2   2-5       |  1   1-4       |  3   3-9
+36  Ararat-Armenia           0 |  2   1-8       |  1   1-3       |  3   2-11
+
+(26 API-Football requests used)
+
+----------------------------------------------------------------------
+MATCHBOOK: skipped (switched off for this run)
