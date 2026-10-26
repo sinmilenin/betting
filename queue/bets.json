@@ -44,17 +44,6 @@
     "created": "2026-10-26T07:49:02+01:00"
   },
   {
-    "id": "2026-10-26_bhayangkara-fc-psm-makassar_2-1",
-    "date": "2026-10-26",
-    "ko": "13:00",
-    "match": "Bhayangkara FC v PSM Makassar",
-    "comp": "Indonesia, Indonesian Super League",
-    "cell": "2-1",
-    "lay": 9.4,
-    "stake": 3,
-    "created": "2026-10-26T12:21:25+01:00"
-  },
-  {
     "id": "2026-10-26_sevilla-osasuna_2-0",
     "date": "2026-10-26",
     "ko": "21:00",
@@ -152,5 +141,16 @@
     "lay": 14.5,
     "stake": 3,
     "created": "2026-10-26T17:32:55+01:00"
+  },
+  {
+    "id": "2026-10-26_montpellier-red-star_2-2",
+    "date": "2026-10-26",
+    "ko": "20:45",
+    "match": "Montpellier v Red Star",
+    "comp": "France, French Ligue 2",
+    "cell": "2-2",
+    "lay": 16.5,
+    "stake": 3,
+    "created": "2026-10-26T19:00:56+01:00"
   }
 ]
