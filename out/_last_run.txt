@@ -1,3 +1,4 @@
-RUN 2026-10-26 14:20 local | 1 match(es)
-Lokomotiv Plovdiv v Slavia Sofia -> out/Lokomotiv_Plovdiv_v_Slavia_Sofia.txt
-Requests used: API-Football 27, Matchbook 0
+RUN 2026-10-26 14:58 local | 1 match(es)
+Grobina v Riga -> out/Grobina_v_Riga.txt
+    !! Grobina: Ambiguous team name "Grobina".
+Requests used: API-Football 15, Matchbook 0
