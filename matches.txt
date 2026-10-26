@@ -1,2 +1,4 @@
-# Scan 26.10.2026 18:57: Montpellier v Red Star
-Montpellier v Red Star | n=20 | xg=10
+# Settle 26.10.2026 19:08: results for placed lays
+id:2929 v id:2903 | n=3 | xg=0
+Bhayangkara FC v PSM Makassar | n=3 | xg=0
+id:4217 v id:2938 | n=3 | xg=0
