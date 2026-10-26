@@ -1,7 +1,5 @@
-RUN 2026-10-26 19:58 local | 3 match(es)
-Flamengo v Atletico Mineiro -> out/Flamengo_v_Atletico_Mineiro.txt
-Juventude v Nautico -> out/Juventude_v_Nautico.txt
-    !! Nautico: Ambiguous team name "Nautico".
-Instituto v Deportivo Riestra -> out/Instituto_v_Deportivo_Riestra.txt
-    !! Instituto: Ambiguous team name "Instituto".
-Requests used: API-Football 45, Matchbook 0
+RUN 2026-10-26 19:59 local | 3 match(es)
+Juventude v id:755 -> out/Juventude_v_id_755.txt
+id:478 v Deportivo Riestra -> out/id_478_v_Deportivo_Riestra.txt
+Coritiba v Gremio -> out/Coritiba_v_Gremio.txt
+Requests used: API-Football 75, Matchbook 0

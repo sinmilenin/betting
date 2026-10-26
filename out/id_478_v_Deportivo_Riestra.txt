@@ -1,12 +1,33 @@
-MATCH Instituto v Deportivo Riestra | fetched 2026-10-26 19:58 local
+MATCH id:478 v Deportivo Riestra | fetched 2026-10-26 19:59 local
 
-FORM DATA Instituto v Deportivo Riestra | source API-Football | 2026-10-26 19:58 UTC
+FORM DATA id:478 v Deportivo Riestra | source API-Football | 2026-10-26 19:59 UTC
 H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
 
-"Instituto" matches several teams. Use id:<number> instead of the name:
-  id:478    Instituto Cordoba (Argentina)
-  id:20818  Instituto Res. (Argentina)
-  id:26959  Instituto Apurímac FC (Peru)
+=== Instituto Cordoba (id 478): last 20 finished games ===
+2026-10-16 A 1-0 v Defensa Y Justicia | Liga Profesional Argentina | Gobernador Julio A. Costa | xG 0.34-1.67
+2026-10-09 H 2-2 v Boca Juniors | Liga Profesional Argentina | Cordoba | xG 0.72-1.66
+2026-10-02 A 4-1 v Independiente | Liga Profesional Argentina | Avellaneda | xG 1.56-0.44
+2026-09-20 H 3-1 v Talleres Cordoba | Liga Profesional Argentina | Cordoba
+2026-09-15 H 2-1 v Estudiantes de Rio Cuarto | Liga Profesional Argentina | Cordoba | xG 0.67-0.94
+2026-09-08 A 2-3 v Union Santa Fe | Liga Profesional Argentina | Santa Fe | xG 0.65-0.95
+2026-09-01 H 1-0 v San Lorenzo | Liga Profesional Argentina | Cordoba | xG 1.59-0.28
+2026-08-28 A 1-1 v Platense | Copa Argentina | Rosario [PEN, 90-min score shown]
+2026-08-22 A 0-0 v Atletico Tucuman | Liga Profesional Argentina | San Miguel de Tucuman | xG 0.69-0.28
+2026-08-16 A 1-0 v Central Cordoba de Santiago | Liga Profesional Argentina | Santiago del Estero | xG 1.49-0.56
+2026-08-09 H 1-0 v Gimnasia M. | Liga Profesional Argentina | Cordoba
+2026-08-03 A 1-0 v Lanus | Liga Profesional Argentina | Buenos Aires
+2026-07-30 H 2-1 v Platense | Liga Profesional Argentina | Cordoba
+2026-07-24 A 0-1 v Velez Sarsfield | Liga Profesional Argentina | Buenos Aires
+2026-05-30 H 2-1 v Lanus | Copa Argentina | Rosario
+2026-05-05 A 2-0 v Estudiantes de Rio Cuarto | Liga Profesional Argentina | Cordoba
+2026-04-26 A 1-1 v Newells Old Boys | Liga Profesional Argentina | Rosario
+2026-04-18 H 0-1 v Estudiantes L.P. | Liga Profesional Argentina | Cordoba
+2026-04-11 A 1-0 v Deportivo Riestra | Liga Profesional Argentina | Flores
+2026-04-07 H 2-0 v Defensa Y Justicia | Liga Profesional Argentina | Cordoba
+Listed home: 9 games, scored 15 (1.67), conceded 7 (0.78), blanks 1, clean sheets 3
+Listed away: 11 games, scored 14 (1.27), conceded 7 (0.64), blanks 2, clean sheets 6
+All: 20 games, scored 29 (1.45), conceded 14 (0.70), blanks 3, clean sheets 9
+
 === Deportivo Riestra (id 476): last 20 finished games ===
 2026-10-20 H 1-1 v Union Santa Fe | Liga Profesional Argentina | Flores | xG 0.80-0.68
 2026-10-11 A 0-1 v San Lorenzo | Liga Profesional Argentina | Buenos Aires | xG 1.40-1.43
@@ -32,14 +53,7 @@ Listed home: 10 games, scored 10 (1.00), conceded 12 (1.20), blanks 3, clean she
 Listed away: 10 games, scored 5 (0.50), conceded 12 (1.20), blanks 5, clean sheets 3
 All: 20 games, scored 15 (0.75), conceded 24 (1.20), blanks 8, clean sheets 5
 
-(retrying Instituto using the opponent's country, Argentina)
-"Instituto" matches several teams. Use id:<number> instead of the name:
-  id:478    Instituto Cordoba (Argentina)
-  id:20818  Instituto Res. (Argentina)
-  id:26959  Instituto Apurímac FC (Peru)
-!! Instituto: Ambiguous team name "Instituto".
-
-TABLE FOR Deportivo Riestra
+TABLE FOR Instituto Cordoba
 LEAGUE TABLE Liga Profesional Argentina 2026 | 60 teams | 447 games played
 League averages per game: home 1.19, away 0.96, total 2.15
 #   team                   Pts | home P GF-GA  | away P GF-GA  | all P GF-GA
@@ -104,7 +118,9 @@ League averages per game: home 1.19, away 0.96, total 2.15
 14  Aldosivi                11 |  7   8-9       |  7   7-13      | 14  15-22 [Clausura - Group B]
 15  Estudiantes de Rio Cua   9 |  7   4-6       |  7   5-13      | 14   9-19 [Clausura - Group B]
 
-(15 API-Football requests used)
+(Deportivo Riestra: same table as Instituto Cordoba, shown above)
+
+(25 API-Football requests used)
 
 ----------------------------------------------------------------------
 MATCHBOOK: skipped (switched off for this run)

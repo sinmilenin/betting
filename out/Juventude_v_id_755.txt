@@ -1,6 +1,6 @@
-MATCH Juventude v Nautico | fetched 2026-10-26 19:58 local
+MATCH Juventude v id:755 | fetched 2026-10-26 19:59 local
 
-FORM DATA Juventude v Nautico | source API-Football | 2026-10-26 19:58 UTC
+FORM DATA Juventude v id:755 | source API-Football | 2026-10-26 19:59 UTC
 H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
 
 === Juventude (id 152): last 20 finished games ===
@@ -28,24 +28,30 @@ Listed home: 10 games, scored 13 (1.30), conceded 8 (0.80), blanks 3, clean shee
 Listed away: 10 games, scored 12 (1.20), conceded 8 (0.80), blanks 2, clean sheets 7
 All: 20 games, scored 25 (1.25), conceded 16 (0.80), blanks 5, clean sheets 12
 
-"Nautico" matches several teams. Use id:<number> instead of the name:
-  id:755    Nautico Recife (Brazil)
-  id:7876   Náutico RR (Brazil)
-  id:13029  Nautico U20 (Brazil)
-  id:19058  Nautico U23 (Brazil)
-  id:20719  Náutico MS (Brazil)
-  id:23104  Nautico Hacoaj (Argentina)
-  id:25015  Náutico RR U20 (Brazil)
-(retrying Nautico using the opponent's country, Brazil)
-"Nautico" matches several teams. Use id:<number> instead of the name:
-  id:755    Nautico Recife (Brazil)
-  id:7876   Náutico RR (Brazil)
-  id:13029  Nautico U20 (Brazil)
-  id:19058  Nautico U23 (Brazil)
-  id:20719  Náutico MS (Brazil)
-  id:23104  Nautico Hacoaj (Argentina)
-  id:25015  Náutico RR U20 (Brazil)
-!! Nautico: Ambiguous team name "Nautico".
+=== Nautico Recife (id 755): last 20 finished games ===
+2026-10-19 A 0-0 v Goias | Serie B | Goiania | xG 1.31-1.82
+2026-10-11 H 0-2 v Vila Nova | Serie B | Recife | xG 0.60-0.70
+2026-10-08 H 0-2 v Novorizontino | Serie B | Recife | xG 0.18-1.62
+2026-10-03 A 1-1 v Fortaleza EC | Serie B | Fortaleza
+2026-09-26 H 3-1 v Sport Recife | Serie B | Recife | xG 1.27-1.68
+2026-09-22 A 0-3 v Cuiaba | Serie B | Cuiaba
+2026-09-15 H 3-3 v Operario-PR | Serie B | Recife | xG 3.47-1.49
+2026-09-09 A 1-2 v America Mineiro | Serie B | Belo Horizonte | xG 1.67-2.83
+2026-09-03 H 1-0 v Botafogo SP | Serie B | Recife
+2026-08-28 H 2-1 v Athletic Club | Serie B | Recife | xG 1.26-0.65
+2026-08-23 A 1-1 v São Bernardo | Serie B | Sao Bernardo do Campo
+2026-08-19 H 1-0 v Ceara | Serie B | Recife
+2026-08-14 A 1-1 v Ponte Preta | Serie B | Campinas
+2026-08-09 H 1-1 v Atletico Goianiense | Serie B | Recife
+2026-07-26 A 0-0 v Criciuma | Serie B | Criciúma
+2026-07-23 H 2-1 v Londrina | Serie B | Recife
+2026-07-16 A 1-2 v CRB | Serie B | Maceio
+2026-07-12 A 0-2 v Avai | Serie B | Florianópolis
+2026-07-05 H 0-0 v Juventude | Serie B | Recife
+2026-06-28 H 0-1 v Goias | Serie B | Recife
+Listed home: 11 games, scored 13 (1.18), conceded 12 (1.09), blanks 4, clean sheets 3
+Listed away: 9 games, scored 5 (0.56), conceded 12 (1.33), blanks 4, clean sheets 2
+All: 20 games, scored 18 (0.90), conceded 24 (1.20), blanks 8, clean sheets 5
 
 TABLE FOR Juventude
 LEAGUE TABLE Serie B 2026 | 20 teams | 347 games played
@@ -72,7 +78,9 @@ League averages per game: home 1.33, away 1.01, total 2.33
 19  America Mineiro         20 | 17  13-22      | 17   9-32      | 34  22-54
 20  Ponte Preta             15 | 18  13-28      | 17   8-48      | 35  21-76
 
-(15 API-Football requests used)
+(Nautico Recife: same table as Juventude, shown above)
+
+(25 API-Football requests used)
 
 ----------------------------------------------------------------------
 MATCHBOOK: skipped (switched off for this run)
