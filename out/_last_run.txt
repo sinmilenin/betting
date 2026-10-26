@@ -1,5 +1,6 @@
-RUN 2026-10-26 15:44 local | 3 match(es)
-Istra 1961 v HNK Hajduk Split -> out/Istra_1961_v_HNK_Hajduk_Split.txt
-Kvik Trondheim v Rosenborg II -> out/Kvik_Trondheim_v_Rosenborg_II.txt
-Al Qadisiyah v Al Sadd -> out/Al_Qadisiyah_v_Al_Sadd.txt
-Requests used: API-Football 77, Matchbook 0
+RUN 2026-10-26 15:45 local | 2 match(es)
+Qadisiyah v Al Sadd -> out/Qadisiyah_v_Al_Sadd.txt
+    !! Qadisiyah: Ambiguous team name "Qadisiyah".
+Qadsiah v Al Sadd -> out/Qadsiah_v_Al_Sadd.txt
+    !! Qadsiah: No team found for "Qadsiah".
+Requests used: API-Football 28, Matchbook 0
