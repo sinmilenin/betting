@@ -1,5 +1,3 @@
-RUN 2026-10-26 19:59 local | 3 match(es)
-Juventude v id:755 -> out/Juventude_v_id_755.txt
-id:478 v Deportivo Riestra -> out/id_478_v_Deportivo_Riestra.txt
-Coritiba v Gremio -> out/Coritiba_v_Gremio.txt
-Requests used: API-Football 75, Matchbook 0
+RUN 2026-10-26 20:00 local | 1 match(es)
+Flamengo v id:1062 -> out/Flamengo_v_id_1062.txt
+Requests used: API-Football 26, Matchbook 0
