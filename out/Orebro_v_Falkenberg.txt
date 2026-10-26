@@ -1,0 +1,70 @@
+MATCH Orebro v Falkenberg | fetched 2026-10-26 12:45 local
+
+FORM DATA Orebro v Falkenberg | source API-Football | 2026-10-26 12:46 UTC
+H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
+
+"Orebro" matches several teams. Use id:<number> instead of the name:
+  id:365    Orebro SK (Sweden)
+  id:11078  KIF Örebro W (Sweden)
+  id:11664  Örebro Syrianska (Sweden)
+  id:16028  Örebro SK W (Sweden)
+  id:25570  Eker Örebro (Sweden)
+=== Falkenbergs FF (id 812): last 20 finished games ===
+2026-10-17 H 4-3 v Landskrona BoIS | Superettan | Falkenberg
+2026-10-11 A 2-1 v IFK Varnamo | Superettan | Venamu
+2026-09-18 H 0-0 v Ostersunds FK | Superettan | Falkenberg
+2026-09-13 A 2-0 v Ljungskile SK | Superettan | Ljungskile
+2026-09-10 H 2-1 v Osters IF | Superettan | Falkenberg
+2026-09-05 A 1-2 v Oddevold | Superettan | Uddevalla
+2026-08-29 H 4-1 v IK brage | Superettan | Falkenberg
+2026-08-24 A 1-2 v IFK Norrkoping | Superettan | ?
+2026-08-18 A 1-1 v IFK Skövde | Svenska Cupen | ? [PEN, 90-min score shown]
+2026-08-15 H 2-0 v Norrby IF | Superettan | Falkenberg
+2026-08-08 H 1-1 v United Nordic | Superettan | Falkenberg
+2026-08-01 A 1-2 v Varbergs BoIS FC | Superettan | Varberg
+2026-07-26 A 2-1 v GIF Sundsvall | Superettan | Sundsvall
+2026-07-21 H 2-3 v Helsingborg | Superettan | Falkenberg
+2026-07-17 H 6-0 v Laholm | Friendlies Clubs | ?
+2026-07-11 H 1-2 v Landskrona BoIS | Friendlies Clubs | ?
+2026-06-26 A 4-2 v IK brage | Superettan | Borlange
+2026-06-21 A 3-1 v Osters IF | Superettan | Vaxjo
+2026-06-14 H 1-1 v Orebro SK | Superettan | Falkenberg
+2026-06-09 A 2-4 v Sandviken | Superettan | Sandviken
+Listed home: 10 games, scored 23 (2.30), conceded 12 (1.20), blanks 1, clean sheets 3
+Listed away: 10 games, scored 19 (1.90), conceded 16 (1.60), blanks 0, clean sheets 1
+All: 20 games, scored 42 (2.10), conceded 28 (1.40), blanks 1, clean sheets 4
+
+(retrying Orebro using the opponent's country, Sweden)
+"Orebro" matches several teams. Use id:<number> instead of the name:
+  id:365    Orebro SK (Sweden)
+  id:11078  KIF Örebro W (Sweden)
+  id:11664  Örebro Syrianska (Sweden)
+  id:16028  Örebro SK W (Sweden)
+  id:25570  Eker Örebro (Sweden)
+!! Orebro: Ambiguous team name "Orebro".
+
+TABLE FOR Falkenbergs FF
+LEAGUE TABLE Superettan 2026 | 16 teams | 222 games played
+League averages per game: home 1.56, away 1.37, total 2.93
+#   team                   Pts | home P GF-GA  | away P GF-GA  | all P GF-GA
+1   IFK Norrkoping          62 | 14  30-10      | 14  28-8       | 28  58-18
+2   Falkenbergs FF          51 | 14  24-16      | 13  28-21      | 27  52-37
+3   Ostersunds FK           48 | 14  22-13      | 14  16-13      | 28  38-26
+4   Varbergs BoIS FC        46 | 14  23-16      | 13  22-18      | 27  45-34
+5   Landskrona BoIS         43 | 13  20-14      | 14  25-18      | 27  45-32
+6   Oddevold                42 | 14  27-16      | 14  21-21      | 28  48-37
+7   Osters IF               42 | 14  21-17      | 14  25-28      | 28  46-45
+8   United Nordic           39 | 14  25-26      | 14  16-21      | 28  41-47
+9   Sandviken               38 | 14  27-20      | 14  17-18      | 28  44-38
+10  Ljungskile SK           33 | 14  18-19      | 14  19-19      | 28  37-38
+11  Helsingborg             32 | 14  20-21      | 14  17-27      | 28  37-48
+12  IFK Varnamo             32 | 14  15-19      | 14  20-29      | 28  35-48
+13  Norrby IF               27 | 14  20-23      | 14  11-18      | 28  31-41
+14  IK brage                26 | 14  29-30      | 14  16-25      | 28  45-55
+15  Orebro SK               26 | 13  11-16      | 14  19-26      | 27  30-42
+16  GIF Sundsvall           19 | 14  14-29      | 14   5-36      | 28  19-65
+
+(15 API-Football requests used)
+
+----------------------------------------------------------------------
+MATCHBOOK: skipped (switched off for this run)

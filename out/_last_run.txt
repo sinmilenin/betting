@@ -1,3 +1,14 @@
-RUN 2026-10-26 11:19 local | 1 match(es)
-Bhayangkara FC v PSM Makassar -> out/Bhayangkara_FC_v_PSM_Makassar.txt
-Requests used: API-Football 25, Matchbook 0
+RUN 2026-10-26 12:45 local | 8 match(es)
+Mohun Bagan Super Giant v Chennaiyin -> out/Mohun_Bagan_Super_Giant_v_Chennaiyin.txt
+    !! Mohun Bagan Super Giant: No team found for "Mohun Bagan Super Giant".
+Nueva Chicago v San Martin San Juan -> out/Nueva_Chicago_v_San_Martin_San_Juan.txt
+Oppsal v Lyn 2 -> out/Oppsal_v_Lyn_2.txt
+    !! Lyn 2: No team found for "Lyn 2".
+Orebro v Falkenberg -> out/Orebro_v_Falkenberg.txt
+    !! Orebro: Ambiguous team name "Orebro".
+FC Andorra v Burgos -> out/FC_Andorra_v_Burgos.txt
+Boulogne v Reims -> out/Boulogne_v_Reims.txt
+Walsall v Salford City -> out/Walsall_v_Salford_City.txt
+Union Santa Fe v Estudiantes L.P. -> out/Union_Santa_Fe_v_Estudiantes_L_P.txt
+    !! Estudiantes L.P.: API-Football error: {"search": "The Search field may only contain alpha-numeric characters and spaces."}
+Requests used: API-Football 158, Matchbook 0
