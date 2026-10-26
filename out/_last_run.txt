@@ -1,3 +1,10 @@
-RUN 2026-10-26 15:00 local | 1 match(es)
-id:4138 v Riga -> out/id_4138_v_Riga.txt
-Requests used: API-Football 26, Matchbook 0
+RUN 2026-10-26 15:43 local | 5 match(es)
+Istra 1961 v Hajduk Split -> out/Istra_1961_v_Hajduk_Split.txt
+    !! Hajduk Split: Ambiguous team name "Hajduk Split".
+Viimsi v Flora II -> out/Viimsi_v_Flora_II.txt
+Kvik v Rosenborg II -> out/Kvik_v_Rosenborg_II.txt
+    !! Kvik: Ambiguous team name "Kvik".
+Sepsi OSK v Universitatea Craiova -> out/Sepsi_OSK_v_Universitatea_Craiova.txt
+Al-Qadisiyah v Al Sadd -> out/Al_Qadisiyah_v_Al_Sadd.txt
+    !! Al-Qadisiyah: API-Football error: {"search": "The Search field may only contain alpha-numeric characters and spaces."}
+Requests used: API-Football 95, Matchbook 0

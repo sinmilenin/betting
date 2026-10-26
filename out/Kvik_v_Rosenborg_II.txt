@@ -1,0 +1,66 @@
+MATCH Kvik v Rosenborg II | fetched 2026-10-26 15:43 local
+
+FORM DATA Kvik v Rosenborg II | source API-Football | 2026-10-26 15:43 UTC
+H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
+
+"Kvik" matches several teams. Use id:<number> instead of the name:
+  id:7004   Kvik Halden (Norway)
+  id:17248  Hviding IF / KVIK 70 (Denmark)
+  id:17249  Kvik/Aalestrup (Denmark)
+  id:25498  Kvik Trondheim (Norway)
+=== Rosenborg II (id 10113): last 20 finished games ===
+2026-10-19 H 3-0 v NTNUI | 3. Division - Girone 2 | ?
+2026-10-12 A 1-5 v Strindheim | 3. Division - Girone 2 | ?
+2026-10-02 H 1-4 v Melhus | 3. Division - Girone 2 | ?
+2026-09-25 A 7-1 v Aalesund II | 3. Division - Girone 2 | ?
+2026-09-21 A 4-0 v Spjelkavik | 3. Division - Girone 2 | ?
+2026-09-13 H 2-5 v Nardo | 3. Division - Girone 2 | ?
+2026-09-06 A 1-2 v Volda | 3. Division - Girone 2 | ?
+2026-08-31 H 1-2 v Byåsen | 3. Division - Girone 2 | ?
+2026-08-17 A 0-3 v Molde II | 3. Division - Girone 2 | ?
+2026-08-10 H 7-1 v Ranheim II | 3. Division - Girone 2 | ?
+2026-08-03 A 2-1 v Orkla | 3. Division - Girone 2 | ?
+2026-07-26 H 1-1 v Strindheim | 3. Division - Girone 2 | ?
+2026-06-27 H 2-1 v Spjelkavik | 3. Division - Girone 2 | ?
+2026-06-19 A 1-1 v Melhus | 3. Division - Girone 2 | ?
+2026-06-13 H 4-0 v Molde II | 3. Division - Girone 2 | ?
+2026-05-30 A 1-1 v Nardo | 3. Division - Girone 2 | ?
+2026-05-23 H 2-2 v Volda | 3. Division - Girone 2 | ?
+2026-05-15 A 2-5 v Ranheim II | 3. Division - Girone 2 | ?
+2026-05-11 H 0-3 v Kvik Trondheim | 3. Division - Girone 2 | ?
+2026-05-02 A 3-2 v NTNUI | 3. Division - Girone 2 | ?
+Listed home: 10 games, scored 23 (2.30), conceded 19 (1.90), blanks 1, clean sheets 2
+Listed away: 10 games, scored 22 (2.20), conceded 21 (2.10), blanks 1, clean sheets 1
+All: 20 games, scored 45 (2.25), conceded 40 (2.00), blanks 2, clean sheets 3
+
+(retrying Kvik using the opponent's country, Norway)
+"Kvik" matches several teams. Use id:<number> instead of the name:
+  id:7004   Kvik Halden (Norway)
+  id:17248  Hviding IF / KVIK 70 (Denmark)
+  id:17249  Kvik/Aalestrup (Denmark)
+  id:25498  Kvik Trondheim (Norway)
+!! Kvik: Ambiguous team name "Kvik".
+
+TABLE FOR Rosenborg II
+LEAGUE TABLE 3. Division - Girone 2 2026 | 14 teams | 173 games played
+League averages per game: home 2.43, away 1.93, total 4.36
+#   team                   Pts | home P GF-GA  | away P GF-GA  | all P GF-GA
+1   Strindheim              55 | 12  44-13      | 13  30-18      | 25  74-31
+2   Volda                   55 | 13  44-16      | 12  23-10      | 25  67-26
+3   Melhus                  42 | 12  27-14      | 13  29-16      | 25  56-30
+4   Byåsen                  41 | 13  28-20      | 12  30-28      | 25  58-48
+5   Molde II                35 | 12  41-31      | 13  25-49      | 25  66-80
+6   Rosenborg II            34 | 12  31-19      | 12  23-26      | 24  54-45
+7   Nardo                   33 | 12  36-15      | 13  30-38      | 25  66-53
+8   Herd                    32 | 13  29-21      | 12  20-39      | 25  49-60
+9   Spjelkavik              29 | 12  19-26      | 13  26-30      | 25  45-56
+10  NTNUI                   29 | 13  20-25      | 12  16-27      | 25  36-52
+11  Ranheim II              26 | 12  33-32      | 12  27-45      | 24  60-77
+12  Kvik Trondheim          26 | 12  16-29      | 12  19-27      | 24  35-56
+13  Aalesund II             25 | 12  28-40      | 12  17-28      | 24  45-68
+14  Orkla                   23 | 13  24-33      | 12  19-39      | 25  43-72
+
+(15 API-Football requests used)
+
+----------------------------------------------------------------------
+MATCHBOOK: skipped (switched off for this run)
