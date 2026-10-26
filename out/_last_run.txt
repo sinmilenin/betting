@@ -1,3 +1,3 @@
-RUN 2026-10-26 17:16 local | 1 match(es)
-Picerno v Salernitana -> out/Picerno_v_Salernitana.txt
-Requests used: API-Football 25, Matchbook 0
+RUN 2026-10-26 17:58 local | 1 match(es)
+Montpellier v Red Star -> out/Montpellier_v_Red_Star.txt
+Requests used: API-Football 26, Matchbook 0
