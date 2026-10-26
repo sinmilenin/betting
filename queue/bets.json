@@ -53,5 +53,27 @@
     "lay": 9.4,
     "stake": 3,
     "created": "2026-10-26T12:21:25+01:00"
+  },
+  {
+    "id": "2026-10-26_sevilla-osasuna_2-0",
+    "date": "2026-10-26",
+    "ko": "21:00",
+    "match": "Sevilla v Osasuna",
+    "comp": "Spain, Spanish La Liga",
+    "cell": "2-0",
+    "lay": 9.8,
+    "stake": 3,
+    "created": "2026-10-26T13:51:43+01:00"
+  },
+  {
+    "id": "2026-10-26_boulogne-reims_2-2",
+    "date": "2026-10-26",
+    "ko": "20:45",
+    "match": "Boulogne v Reims",
+    "comp": "France, French Ligue 2",
+    "cell": "2-2",
+    "lay": 20,
+    "stake": 3,
+    "created": "2026-10-26T13:51:43+01:00"
   }
 ]
