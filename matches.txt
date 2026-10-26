@@ -1,4 +1,3 @@
-# Scan 26.10.2026 16:41 run 2: Istra, Kvik, Al-Qadisiyah name fixes
-Istra 1961 v HNK Hajduk Split | n=20 | xg=10
-Kvik Trondheim v Rosenborg II | n=20 | xg=10
-Al Qadisiyah v Al Sadd | n=20 | xg=10
+# Scan 26.10.2026 16:41 run 3: Al-Qadisiyah name search
+Qadisiyah v Al Sadd | n=20 | xg=10
+Qadsiah v Al Sadd | n=20 | xg=10
