@@ -1,2 +1,2 @@
-# Scan 26.10.2026 17:26 run 2: Al-Ula retry without hyphens
-Al Ula v Al Orobah | n=20 | xg=10
+# Scan 26.10.2026 17:26 run 3: Al Orubah spelling
+Al Ula v Al Orubah | n=20 | xg=10
