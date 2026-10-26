@@ -1,3 +1,3 @@
-RUN 2026-10-26 16:31 local | 1 match(es)
-Al Ula v Al Orubah -> out/Al_Ula_v_Al_Orubah.txt
-Requests used: API-Football 25, Matchbook 0
+RUN 2026-10-26 17:15 local | 1 match(es)
+CSKA Sofia v Ludogorets -> out/CSKA_Sofia_v_Ludogorets.txt
+Requests used: API-Football 27, Matchbook 0

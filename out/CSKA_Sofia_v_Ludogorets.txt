@@ -1,0 +1,119 @@
+MATCH CSKA Sofia v Ludogorets | fetched 2026-10-26 17:15 local
+
+FORM DATA CSKA Sofia v Ludogorets | source API-Football | 2026-10-26 17:15 UTC
+H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
+
+=== CSKA Sofia (id 853): last 20 finished games ===
+2026-10-22 A 2-2 v FC Nordsjaelland | UEFA Europa Conference League | Farum | xG 1.91-1.26
+2026-10-18 A 2-0 v Nesebar | Cup | ?
+2026-10-15 H 1-2 v Monaco | UEFA Europa Conference League | Sofia | xG 1.28-1.32
+2026-10-11 A 3-2 v CSKA 1948 | First League | Sofia
+2026-09-20 A 1-1 v Lokomotiv Plovdiv | First League | Plovdiv
+2026-09-16 A 2-0 v Lokomotiv Sofia | First League | Sofia
+2026-09-12 H 4-1 v Arda Kardzhali | First League | Sofia
+2026-09-09 A 4-2 v Levski Sofia | Super Cup | Sofia
+2026-09-05 A 1-1 v Spartak Varna | First League | Varna
+2026-08-30 H 3-1 v Cherno More Varna | First League | Sofia
+2026-08-27 H 0-2 v OFI | UEFA Europa League | Sofia
+2026-08-20 A 0-3 v OFI | UEFA Europa League | Heraklion
+2026-08-16 H 5-0 v Botev Vratsa | First League | Sofia
+2026-08-13 H 1-3 v Maccabi Tel Aviv | UEFA Europa League | Sofia
+2026-08-09 A 3-0 v Septemvri Sofia | First League | Sofia
+2026-08-06 A 3-0 v Maccabi Tel Aviv | UEFA Europa League | Batumi
+2026-08-02 H 2-1 v Dunav Ruse | First League | Sofia
+2026-07-30 H 0-0 v Qarabag | UEFA Europa League | Sofia [PEN, 90-min score shown]
+2026-07-27 H 3-2 v Botev Plovdiv | First League | Sofia
+2026-07-23 A 0-0 v Qarabag | UEFA Europa League | Baku
+Listed home: 9 games, scored 19 (2.11), conceded 12 (1.33), blanks 2, clean sheets 2
+Listed away: 11 games, scored 21 (1.91), conceded 11 (1.00), blanks 2, clean sheets 5
+All: 20 games, scored 40 (2.00), conceded 23 (1.15), blanks 4, clean sheets 7
+
+=== Ludogorets (id 566): last 20 finished games ===
+2026-10-17 A 3-0 v Beroe | Cup | ?
+2026-10-12 H 5-0 v Arda Kardzhali | First League | Razgrad
+2026-10-04 H 5-0 v Cherno More Varna | Friendlies Clubs | ?
+2026-09-27 H 3-0 v CSM Ramnicu Valcea | Friendlies Clubs | ?
+2026-09-14 H 2-1 v Septemvri Sofia | First League | Razgrad
+2026-09-06 A 2-1 v Lokomotiv Sofia | First League | Sofia
+2026-08-30 A 1-1 v Spartak Varna | First League | Varna
+2026-08-22 H 1-1 v Slavia Sofia | First League | Razgrad
+2026-08-15 H 2-0 v Botev Plovdiv | First League | Razgrad
+2026-08-09 A 3-2 v Cherno More Varna | First League | Varna
+2026-08-02 H 2-1 v Botev Vratsa | First League | Razgrad
+2026-07-30 H 2-2 v Hapoel Tel Aviv | UEFA Europa Conference League | Razgrad
+2026-07-27 A 2-0 v Dunav Ruse | First League | Ruse
+2026-07-23 A 0-2 v Hapoel Tel Aviv | UEFA Europa Conference League | Tel Aviv
+2026-07-18 H 1-0 v Lokomotiv Plovdiv | First League | Razgrad
+2026-07-10 H 1-0 v Teuta Durrës | Friendlies Clubs | ?
+2026-07-10 H 1-0 v Septemvri Sofia | Friendlies Clubs | ?
+2026-07-04 H 2-2 v FC Botosani | Friendlies Clubs | ?
+2026-06-26 H 7-4 v Etar Veliko Tarnovo | Friendlies Clubs | ?
+2026-05-29 H 0-0 v Lokomotiv Plovdiv | First League | Razgrad [PEN, 90-min score shown]
+Listed home: 14 games, scored 34 (2.43), conceded 11 (0.79), blanks 1, clean sheets 8
+Listed away: 6 games, scored 11 (1.83), conceded 6 (1.00), blanks 1, clean sheets 2
+All: 20 games, scored 45 (2.25), conceded 17 (0.85), blanks 2, clean sheets 10
+
+TABLE FOR CSKA Sofia
+LEAGUE TABLE UEFA Europa Conference League 2026 | 36 teams | 36 games played
+League averages per game: home 1.64, away 1.33, total 2.97
+#   team                   Pts | home P GF-GA  | away P GF-GA  | all P GF-GA
+1   Panathinaikos            6 |  1   2-1       |  1   5-1       |  2   7-2
+2   FC Lugano                6 |  1   3-2       |  1   5-2       |  2   8-4
+3   Brann                    6 |  1   2-1       |  1   4-1       |  2   6-2
+4   Trabzonspor              6 |  1   2-0       |  1   4-2       |  2   6-2
+5   Twente                   6 |  1   1-0       |  1   4-1       |  2   5-1
+6   Monaco                   6 |  1   3-0       |  1   2-1       |  2   5-1
+7   St. Truiden              6 |  1   2-0       |  1   1-0       |  2   3-0
+8   HNK Hajduk Split         6 |  1   2-1       |  1   1-0       |  2   3-1
+9   Brighton                 4 |  1   4-0       |  1   0-0       |  2   4-0
+10  FC Copenhagen            4 |  1   3-0       |  1   2-2       |  2   5-2
+11  Universitatea Craiova    4 |  1   1-1       |  1   3-1       |  2   4-2
+12  Mjallby AIF              4 |  1   2-0       |  1   1-1       |  2   3-1
+13  Ajax                     3 |  1   2-0       |  1   1-2       |  2   3-2
+14  Borac Banja Luka         3 |  1   2-0       |  1   1-2       |  2   3-2
+15  Atalanta                 3 |  1   3-1       |  1   0-2       |  2   3-3
+16  SC Braga                 3 |  1   2-0       |  1   0-3       |  2   2-3
+17  Gent                     3 |  1   1-0       |  1   0-2       |  2   1-2
+18  SC Freiburg              3 |  1   3-2       |  1   0-3       |  2   3-5
+19  FC Nordsjaelland         2 |  1   2-2       |  1   1-1       |  2   3-3
+20  Egnatia Rrogozhinë       2 |  1   1-1       |  1   1-1       |  2   2-2
+21  Riga                     2 |  1   1-1       |  1   1-1       |  2   2-2
+22  FK Crvena Zvezda         1 |  1   2-2       |  1   2-3       |  2   4-5
+23  CSKA Sofia               1 |  1   1-2       |  1   2-2       |  2   3-4
+24  FK Jablonec              1 |  1   0-0       |  1   2-3       |  2   2-3
+25  FC Midtjylland           1 |  1   0-1       |  1   1-1       |  2   1-2
+26  Aarhus                   1 |  1   1-1       |  1   0-1       |  2   1-2
+27  Pafos                    1 |  1   1-1       |  1   1-3       |  2   2-4
+28  Heart Of Midlothian      1 |  1   1-1       |  1   0-2       |  2   1-3
+29  FC Iberia 1999           1 |  1   1-1       |  1   0-2       |  2   1-3
+30  Getafe                   1 |  1   2-5       |  1   1-1       |  2   3-6
+31  Kairat Almaty            1 |  1   1-5       |  1   1-1       |  2   2-6
+32  FC Thun                  0 |  1   0-1       |  1   0-1       |  2   0-2
+33  Lincoln Red Imps FC      0 |  1   1-4       |  1   1-2       |  2   2-6
+34  KuPS                     0 |  1   2-4       |  1   0-2       |  2   2-6
+35  Inter Club d'Escaldes    0 |  1   1-3       |  1   0-2       |  2   1-5
+36  Kauno Žalgiris           0 |  1   1-4       |  1   0-4       |  2   1-8
+
+TABLE FOR Ludogorets
+LEAGUE TABLE First League 2026 | 14 teams | 79 games played
+League averages per game: home 1.52, away 1.18, total 2.70
+#   team                   Pts | home P GF-GA  | away P GF-GA  | all P GF-GA
+1   Levski Sofia            28 |  5  14-1       |  5   9-3       | 10  23-4
+2   CSKA Sofia              27 |  5  17-5       |  6  10-4       | 11  27-9
+3   Ludogorets              26 |  6  13-3       |  4   8-4       | 10  21-7
+4   CSKA 1948               25 |  7  18-7       |  5   7-6       | 12  25-13
+5   Botev Plovdiv           19 |  6   9-6       |  6   8-12      | 12  17-18
+6   Arda Kardzhali          17 |  5   9-5       |  6   6-12      | 11  15-17
+7   Spartak Varna           13 |  6   5-6       |  6   6-11      | 12  11-17
+8   Slavia Sofia            11 |  6   4-6       |  5   5-3       | 11   9-9
+9   Dunav Ruse              11 |  6   6-9       |  6   9-12      | 12  15-21
+10  Botev Vratsa            10 |  5   2-5       |  7   8-16      | 12  10-21
+11  Lokomotiv Sofia          9 |  6   5-11      |  6   8-9       | 12  13-20
+12  Lokomotiv Plovdiv        8 |  5   5-5       |  6   1-9       | 11   6-14
+13  Septemvri Sofia          8 |  6   6-13      |  5   4-8       | 11  10-21
+14  Cherno More Varna        6 |  5   7-11      |  6   4-11      | 11  11-22
+
+(27 API-Football requests used)
+
+----------------------------------------------------------------------
+MATCHBOOK: skipped (switched off for this run)
