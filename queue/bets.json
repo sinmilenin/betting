@@ -130,5 +130,27 @@
     "lay": 4.4,
     "stake": 3,
     "created": "2026-10-26T16:49:33+01:00"
+  },
+  {
+    "id": "2026-10-26_maccabi-haifa-hapoel-beer-sheva_2-2",
+    "date": "2026-10-26",
+    "ko": "18:00",
+    "match": "Maccabi Haifa v Hapoel Be'er Sheva",
+    "comp": "Israel, Israeli Premier League",
+    "cell": "2-2",
+    "lay": 13,
+    "stake": 3,
+    "created": "2026-10-26T17:32:55+01:00"
+  },
+  {
+    "id": "2026-10-26_al-quadisiya-ksa-al-sadd_1-0",
+    "date": "2026-10-26",
+    "ko": "19:15",
+    "match": "Al-Quadisiya (KSA) v Al-Sadd",
+    "comp": "International, AFC Champions League",
+    "cell": "1-0",
+    "lay": 14.5,
+    "stake": 3,
+    "created": "2026-10-26T17:32:55+01:00"
   }
 ]
