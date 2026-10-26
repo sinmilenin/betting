@@ -1,4 +1,3 @@
-RUN 2026-10-26 06:45 local | 2 match(es)
-id:4217 v id:2638 -> out/id_4217_v_id_2638.txt
-id:2929 v id:2903 -> out/id_2929_v_id_2903.txt
-Requests used: API-Football 52, Matchbook 0
+RUN 2026-10-26 06:46 local | 1 match(es)
+id:4217 v id:2938 -> out/id_4217_v_id_2938.txt
+Requests used: API-Football 26, Matchbook 0
