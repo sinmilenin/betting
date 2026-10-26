@@ -1,6 +1,4 @@
-RUN 2026-10-26 12:47 local | 4 match(es)
-ATK Mohun Bagan v Chennaiyin -> out/ATK_Mohun_Bagan_v_Chennaiyin.txt
-Oppsal v Lyn II -> out/Oppsal_v_Lyn_II.txt
-id:365 v Falkenbergs FF -> out/id_365_v_Falkenbergs_FF.txt
-Union Santa Fe v id:450 -> out/Union_Santa_Fe_v_id_450.txt
-Requests used: API-Football 101, Matchbook 0
+RUN 2026-10-26 12:48 local | 1 match(es)
+Nueva Chicago v San Martin SJ -> out/Nueva_Chicago_v_San_Martin_SJ.txt
+    !! San Martin SJ: No team found for "San Martin SJ".
+Requests used: API-Football 14, Matchbook 0
