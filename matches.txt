@@ -1,3 +1,2 @@
-# Scan 26.10.2026 16:41 run 3: Al-Qadisiyah name search
-Qadisiyah v Al Sadd | n=20 | xg=10
-Qadsiah v Al Sadd | n=20 | xg=10
+# Scan 26.10.2026 16:41 run 4: Al-Qadisiyah by id
+id:2933 v Al Sadd | n=20 | xg=10
