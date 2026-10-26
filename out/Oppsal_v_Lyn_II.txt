@@ -1,6 +1,6 @@
-MATCH Oppsal v Lyn 2 | fetched 2026-10-26 12:45 local
+MATCH Oppsal v Lyn II | fetched 2026-10-26 12:47 local
 
-FORM DATA Oppsal v Lyn 2 | source API-Football | 2026-10-26 12:46 UTC
+FORM DATA Oppsal v Lyn II | source API-Football | 2026-10-26 12:47 UTC
 H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
 
 === Oppsal (id 7018): last 20 finished games ===
@@ -28,7 +28,30 @@ Listed home: 10 games, scored 23 (2.30), conceded 19 (1.90), blanks 2, clean she
 Listed away: 10 games, scored 15 (1.50), conceded 13 (1.30), blanks 2, clean sheets 3
 All: 20 games, scored 38 (1.90), conceded 32 (1.60), blanks 4, clean sheets 4
 
-!! Lyn 2: No team found for "Lyn 2".
+=== Lyn II (id 25499): last 20 finished games ===
+2026-10-19 H 3-1 v Ørn Horten | 3. Division - Girone 6 | ?
+2026-10-12 A 3-4 v Elverum | 3. Division - Girone 6 | ?
+2026-10-05 H 0-0 v Råde | 3. Division - Girone 6 | ?
+2026-09-28 A 0-1 v Raelingen | 3. Division - Girone 6 | ?
+2026-09-21 H 2-2 v Sarpsborg 08 II | 3. Division - Girone 6 | ?
+2026-09-12 A 0-2 v Gjøvik-Lyn | 3. Division - Girone 6 | ?
+2026-09-07 A 1-4 v Drøbak / Frogn | 3. Division - Girone 6 | ?
+2026-08-31 H 4-3 v Sandefjord II | 3. Division - Girone 6 | ?
+2026-08-17 A 1-4 v Lillehammer | 3. Division - Girone 6 | ?
+2026-08-10 H 4-3 v Fram | 3. Division - Girone 6 | ?
+2026-08-03 A 9-1 v Brumunddal | 3. Division - Girone 6 | ?
+2026-07-27 H 2-2 v Oppsal | 3. Division - Girone 6 | ?
+2026-06-28 A 5-3 v Råde | 3. Division - Girone 6 | ?
+2026-06-20 H 3-5 v Lillehammer | 3. Division - Girone 6 | ?
+2026-06-15 A 1-0 v Fram | 3. Division - Girone 6 | ?
+2026-06-01 H 0-0 v Gjøvik-Lyn | 3. Division - Girone 6 | ?
+2026-05-26 H 1-2 v Drøbak / Frogn | 3. Division - Girone 6 | ?
+2026-05-19 A 3-6 v Sarpsborg 08 II | 3. Division - Girone 6 | ?
+2026-05-11 H 3-1 v Raelingen | 3. Division - Girone 6 | ?
+2026-05-04 A 0-3 v Sandefjord II | 3. Division - Girone 6 | ?
+Listed home: 10 games, scored 22 (2.20), conceded 19 (1.90), blanks 2, clean sheets 2
+Listed away: 10 games, scored 23 (2.30), conceded 28 (2.80), blanks 3, clean sheets 1
+All: 20 games, scored 45 (2.25), conceded 47 (2.35), blanks 5, clean sheets 3
 
 TABLE FOR Oppsal
 LEAGUE TABLE 3. Division - Girone 6 2026 | 14 teams | 173 games played
@@ -49,7 +72,9 @@ League averages per game: home 2.49, away 1.77, total 4.26
 13  Brumunddal              12 | 13  15-45      | 12  11-64      | 25  26-109
 14  Bjørkelangen             3 | 13  10-51      | 12   7-55      | 25  17-106
 
-(14 API-Football requests used)
+(Lyn II: same table as Oppsal, shown above)
+
+(25 API-Football requests used)
 
 ----------------------------------------------------------------------
 MATCHBOOK: skipped (switched off for this run)

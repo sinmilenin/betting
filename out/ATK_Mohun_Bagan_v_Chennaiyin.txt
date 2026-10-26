@@ -1,7 +1,32 @@
-MATCH Mohun Bagan Super Giant v Chennaiyin | fetched 2026-10-26 12:45 local
+MATCH ATK Mohun Bagan v Chennaiyin | fetched 2026-10-26 12:47 local
 
-FORM DATA Mohun Bagan Super Giant v Chennaiyin | source API-Football | 2026-10-26 12:45 UTC
+FORM DATA ATK Mohun Bagan v Chennaiyin | source API-Football | 2026-10-26 12:47 UTC
 H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
+
+=== ATK Mohun Bagan (id 15516): last 20 finished games ===
+2026-10-16 A 2-1 v SC Delhi | Indian Super League | New Delhi
+2026-10-12 A 0-1 v NorthEast United | Indian Super League | Guwahati
+2026-10-08 H 1-0 v East Bengal II | IFA Shield | Kolkata
+2026-10-04 H 0-0 v Minerva Punjab | IFA Shield | Kolkata [PEN, 90-min score shown]
+2026-09-29 H 1-1 v NorthEast United | IFA Shield | Kolkata
+2026-09-23 H 6-0 v Sreenidi Deccan | IFA Shield | Kolkata
+2026-05-21 H 2-1 v SC Delhi | Indian Super League | Kolkata
+2026-05-17 H 1-1 v East Bengal II | Indian Super League | Kolkata | xG 1.82-1.76
+2026-05-12 H 0-0 v Inter Kashi | Indian Super League | Kolkata | xG 1.11-0.75
+2026-05-09 A 1-1 v Goa | Indian Super League | Margao
+2026-04-19 A 1-0 v NorthEast United | Indian Super League | Guwahati
+2026-04-12 H 3-2 v Minerva Punjab | Indian Super League | Kolkata
+2026-04-04 A 1-1 v Jamshedpur | Indian Super League | Jamshedpur
+2026-03-20 H 0-1 v Mumbai City | Indian Super League | Kolkata
+2026-03-14 A 0-0 v Bengaluru | Indian Super League | Bangalore
+2026-03-06 H 5-1 v Odisha | Indian Super League | Kolkata
+2026-02-28 H 5-1 v Mohammedan | Indian Super League | Kolkata
+2026-02-23 H 2-0 v Chennaiyin | Indian Super League | Kolkata
+2026-02-14 H 2-0 v Kerala Blasters | Indian Super League | Kolkata
+2025-10-31 H 0-0 v East Bengal II | AIFF Super Cup | Margao
+Listed home: 14 games, scored 28 (2.00), conceded 8 (0.57), blanks 4, clean sheets 7
+Listed away: 6 games, scored 5 (0.83), conceded 4 (0.67), blanks 2, clean sheets 2
+All: 20 games, scored 33 (1.65), conceded 12 (0.60), blanks 6, clean sheets 9
 
 === Chennaiyin (id 3473): last 20 finished games ===
 2026-10-17 A 0-2 v Bengaluru | Indian Super League | Bengaluru
@@ -28,9 +53,7 @@ Listed home: 8 games, scored 10 (1.25), conceded 14 (1.75), blanks 2, clean shee
 Listed away: 12 games, scored 6 (0.50), conceded 23 (1.92), blanks 6, clean sheets 1
 All: 20 games, scored 16 (0.80), conceded 37 (1.85), blanks 8, clean sheets 3
 
-!! Mohun Bagan Super Giant: No team found for "Mohun Bagan Super Giant".
-
-TABLE FOR Chennaiyin
+TABLE FOR ATK Mohun Bagan
 LEAGUE TABLE Indian Super League 2026 | 13 teams | 16 games played
 League averages per game: home 1.31, away 1.50, total 2.81
 #   team                   Pts | home P GF-GA  | away P GF-GA  | all P GF-GA
@@ -48,7 +71,9 @@ League averages per game: home 1.31, away 1.50, total 2.81
 12  Inter Kashi              1 |  3   2-8       |  0   0-0       |  3   2-8
 13  SC Delhi                 0 |  1   1-2       |  1   2-3       |  2   3-5
 
-(14 API-Football requests used)
+(Chennaiyin: same table as ATK Mohun Bagan, shown above)
+
+(25 API-Football requests used)
 
 ----------------------------------------------------------------------
 MATCHBOOK: skipped (switched off for this run)

@@ -1,6 +1,6 @@
-MATCH Union Santa Fe v Estudiantes L.P. | fetched 2026-10-26 12:45 local
+MATCH Union Santa Fe v id:450 | fetched 2026-10-26 12:47 local
 
-FORM DATA Union Santa Fe v Estudiantes L.P. | source API-Football | 2026-10-26 12:46 UTC
+FORM DATA Union Santa Fe v id:450 | source API-Football | 2026-10-26 12:47 UTC
 H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
 
 === Union Santa Fe (id 441): last 20 finished games ===
@@ -28,7 +28,30 @@ Listed home: 9 games, scored 14 (1.56), conceded 16 (1.78), blanks 2, clean shee
 Listed away: 11 games, scored 12 (1.09), conceded 19 (1.73), blanks 4, clean sheets 0
 All: 20 games, scored 26 (1.30), conceded 35 (1.75), blanks 6, clean sheets 0
 
-!! Estudiantes L.P.: API-Football error: {"search": "The Search field may only contain alpha-numeric characters and spaces."}
+=== Estudiantes L.P. (id 450): last 20 finished games ===
+2026-10-23 A 0-0 v Flamengo | CONMEBOL Libertadores | Rio de Janeiro | xG 0.81-1.15 [PEN, 90-min score shown]
+2026-10-18 H 1-2 v San Lorenzo | Liga Profesional Argentina | La Plata | xG 0.97-0.92
+2026-10-16 H 0-0 v Flamengo | CONMEBOL Libertadores | La Plata | xG 1.13-0.18
+2026-10-10 A 2-2 v Central Cordoba de Santiago | Liga Profesional Argentina | Santiago del Estero | xG 2.94-3.12
+2026-10-05 H 3-0 v Gimnasia M. | Liga Profesional Argentina | La Plata | xG 2.82-1.05
+2026-10-02 A 0-1 v Platense | Copa Argentina | Gobernador Julio A. Costa
+2026-09-26 H 1-3 v Rosario Central | Super Copa International | La Plata
+2026-09-22 A 1-2 v Lanus | Liga Profesional Argentina | Buenos Aires | xG 1.49-1.21
+2026-09-17 A 1-0 v Corinthians | CONMEBOL Libertadores | Sao Paulo
+2026-09-12 H 2-1 v Platense | Liga Profesional Argentina | La Plata | xG 1.08-0.78
+2026-09-10 H 1-1 v Corinthians | CONMEBOL Libertadores | La Plata
+2026-09-06 A 0-1 v Velez Sarsfield | Liga Profesional Argentina | Buenos Aires
+2026-08-31 H 0-0 v Newells Old Boys | Liga Profesional Argentina | La Plata
+2026-08-27 H 3-1 v Barracas Central | Copa Argentina | Gobernador Julio A. Costa
+2026-08-23 A 0-2 v Sarmiento Junin | Liga Profesional Argentina | Junin
+2026-08-19 A 3-0 v U. Catolica | CONMEBOL Libertadores | Santiago de Chile
+2026-08-15 H 4-0 v Gimnasia L.P. | Liga Profesional Argentina | La Plata
+2026-08-12 H 1-1 v U. Catolica | CONMEBOL Libertadores | La Plata
+2026-08-08 A 0-2 v Deportivo Riestra | Liga Profesional Argentina | Flores
+2026-08-05 A 0-1 v Boca Juniors | Liga Profesional Argentina | Buenos Aires
+Listed home: 10 games, scored 16 (1.60), conceded 9 (0.90), blanks 2, clean sheets 4
+Listed away: 10 games, scored 7 (0.70), conceded 11 (1.10), blanks 6, clean sheets 3
+All: 20 games, scored 23 (1.15), conceded 20 (1.00), blanks 8, clean sheets 7
 
 TABLE FOR Union Santa Fe
 LEAGUE TABLE Liga Profesional Argentina 2026 | 60 teams | 447 games played
@@ -95,7 +118,44 @@ League averages per game: home 1.19, away 0.96, total 2.15
 14  Aldosivi                11 |  7   8-9       |  7   7-13      | 14  15-22 [Clausura - Group B]
 15  Estudiantes de Rio Cua   9 |  7   4-6       |  7   5-13      | 14   9-19 [Clausura - Group B]
 
-(14 API-Football requests used)
+TABLE FOR Estudiantes L.P.
+LEAGUE TABLE CONMEBOL Libertadores 2026 | 32 teams | 96 games played
+League averages per game: home 1.47, away 0.86, total 2.33
+#   team                   Pts | home P GF-GA  | away P GF-GA  | all P GF-GA
+1   Flamengo                16 |  3   8-1       |  3   6-1       |  6  14-2 [Group A]
+2   Estudiantes L.P.         9 |  3   4-2       |  3   2-3       |  6   6-5 [Group A]
+3   Independiente Medellin   7 |  3   2-4       |  3   4-7       |  6   6-11 [Group A]
+4   Cusco                    1 |  3   3-6       |  3   1-6       |  6   4-12 [Group A]
+1   Coquimbo Unido          10 |  3   6-2       |  3   2-4       |  6   8-6 [Group B]
+2   Deportes Tolima          8 |  3   6-0       |  3   1-6       |  6   7-6 [Group B]
+3   Club Nacional            8 |  3   4-1       |  3   3-8       |  6   7-9 [Group B]
+4   Universitario            6 |  3   4-4       |  3   1-2       |  6   5-6 [Group B]
+1   Independ. Rivadavia     16 |  3   6-2       |  3   9-4       |  6  15-6 [Group C]
+2   Fluminense               8 |  3   6-4       |  3   1-3       |  6   7-7 [Group C]
+3   Bolívar                  5 |  3   4-4       |  3   2-4       |  6   6-8 [Group C]
+4   Deportivo La Guaira      3 |  3   3-5       |  3   3-8       |  6   6-13 [Group C]
+1   U. Catolica             13 |  3   3-2       |  3   5-2       |  6   8-4 [Group D]
+2   Cruzeiro                11 |  3   6-2       |  3   2-1       |  6   8-3 [Group D]
+3   Boca Juniors             7 |  3   4-2       |  3   2-3       |  6   6-5 [Group D]
+4   Barcelona SC             3 |  3   2-3       |  3   0-9       |  6   2-12 [Group D]
+1   Corinthians             11 |  3   4-2       |  3   4-2       |  6   8-4 [Group E]
+2   Platense                10 |  3   3-4       |  3   5-3       |  6   8-7 [Group E]
+3   Santa Fe                 8 |  3   4-3       |  3   2-4       |  6   6-7 [Group E]
+4   Penarol                  3 |  3   2-4       |  3   2-4       |  6   4-8 [Group E]
+1   Cerro Porteno           13 |  3   4-1       |  3   2-1       |  6   6-2 [Group F]
+2   Palmeiras               11 |  3   6-3       |  3   4-2       |  6  10-5 [Group F]
+3   Sporting Cristal         6 |  3   3-2       |  3   3-7       |  6   6-9 [Group F]
+4   Junior                   4 |  3   4-4       |  3   1-7       |  6   5-11 [Group F]
+1   LDU de Quito            12 |  3   7-2       |  3   1-3       |  6   8-5 [Group G]
+2   Mirassol                12 |  3   5-0       |  3   2-4       |  6   7-4 [Group G]
+3   Lanus                    9 |  3   3-0       |  3   0-7       |  6   3-7 [Group G]
+4   Always Ready             3 |  3   5-3       |  3   2-6       |  6   7-9 [Group G]
+1   Independiente del Vall  13 |  3   8-2       |  3   3-4       |  6  11-6 [Group H]
+2   Rosario Central         13 |  3   5-0       |  3   4-1       |  6   9-1 [Group H]
+3   UCV                      9 |  3   5-4       |  3   2-7       |  6   7-11 [Group H]
+4   Libertad Asuncion        0 |  3   2-5       |  3   2-8       |  6   4-13 [Group H]
+
+(26 API-Football requests used)
 
 ----------------------------------------------------------------------
 MATCHBOOK: skipped (switched off for this run)
