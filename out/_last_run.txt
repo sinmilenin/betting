@@ -1,4 +1,7 @@
-RUN 2026-10-26 18:43 local | 2 match(es)
-Resistencia v Benjamin Aceval -> out/Resistencia_v_Benjamin_Aceval.txt
-Blackburn Rovers U21 v West Bromwich Albion U21 -> out/Blackburn_Rovers_U21_v_West_Bromwich_Alb.txt
-Requests used: API-Football 51, Matchbook 0
+RUN 2026-10-26 19:58 local | 3 match(es)
+Flamengo v Atletico Mineiro -> out/Flamengo_v_Atletico_Mineiro.txt
+Juventude v Nautico -> out/Juventude_v_Nautico.txt
+    !! Nautico: Ambiguous team name "Nautico".
+Instituto v Deportivo Riestra -> out/Instituto_v_Deportivo_Riestra.txt
+    !! Instituto: Ambiguous team name "Instituto".
+Requests used: API-Football 45, Matchbook 0

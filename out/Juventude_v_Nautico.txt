@@ -1,0 +1,78 @@
+MATCH Juventude v Nautico | fetched 2026-10-26 19:58 local
+
+FORM DATA Juventude v Nautico | source API-Football | 2026-10-26 19:58 UTC
+H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
+
+=== Juventude (id 152): last 20 finished games ===
+2026-10-17 A 2-2 v Ceara | Serie B | Fortaleza | xG 1.27-1.86
+2026-10-11 H 2-2 v São Bernardo | Serie B | Caxias do Sul | xG 1.86-1.35
+2026-10-07 A 2-0 v Ponte Preta | Serie B | Campinas
+2026-10-02 H 3-0 v Operario-PR | Serie B | Caxias do Sul | xG 2.38-1.65
+2026-09-28 A 1-0 v America Mineiro | Serie B | Belo Horizonte | xG 1.19-0.38
+2026-09-19 A 1-2 v Sport Recife | Serie B | Recife | xG 0.96-0.73
+2026-09-13 H 0-2 v Athletic Club | Serie B | Caxias do Sul | xG 1.92-0.92
+2026-09-09 A 2-0 v Criciuma | Serie B | Chrissyuma
+2026-09-05 H 2-2 v Atletico Goianiense | Serie B | Caxias do Sul | xG 1.56-0.74
+2026-09-01 A 0-0 v Londrina | Serie B | Londrina | xG 0.80-0.31
+2026-08-25 H 2-1 v CRB | Serie B | Caxias do Sul
+2026-08-19 A 1-0 v Goias | Serie B | Goiânia
+2026-08-15 H 0-0 v Fortaleza EC | Serie B | Caxias do Sul
+2026-08-09 A 1-0 v Novorizontino | Serie B | Novo Horizonte
+2026-08-04 H 0-1 v Atletico-MG | Copa Do Brasil | Caxias do Sul
+2026-08-01 A 0-0 v Atletico-MG | Copa Do Brasil | Belo Horizonte
+2026-07-28 H 1-0 v Avai | Serie B | Caxias do Sul
+2026-07-24 A 2-4 v Botafogo SP | Serie B | Ribeirao Preto
+2026-07-17 H 2-0 v Cuiaba | Serie B | Caxias do Sul
+2026-07-10 H 1-0 v Vila Nova | Serie B | Caxias do Sul
+Listed home: 10 games, scored 13 (1.30), conceded 8 (0.80), blanks 3, clean sheets 5
+Listed away: 10 games, scored 12 (1.20), conceded 8 (0.80), blanks 2, clean sheets 7
+All: 20 games, scored 25 (1.25), conceded 16 (0.80), blanks 5, clean sheets 12
+
+"Nautico" matches several teams. Use id:<number> instead of the name:
+  id:755    Nautico Recife (Brazil)
+  id:7876   Náutico RR (Brazil)
+  id:13029  Nautico U20 (Brazil)
+  id:19058  Nautico U23 (Brazil)
+  id:20719  Náutico MS (Brazil)
+  id:23104  Nautico Hacoaj (Argentina)
+  id:25015  Náutico RR U20 (Brazil)
+(retrying Nautico using the opponent's country, Brazil)
+"Nautico" matches several teams. Use id:<number> instead of the name:
+  id:755    Nautico Recife (Brazil)
+  id:7876   Náutico RR (Brazil)
+  id:13029  Nautico U20 (Brazil)
+  id:19058  Nautico U23 (Brazil)
+  id:20719  Náutico MS (Brazil)
+  id:23104  Nautico Hacoaj (Argentina)
+  id:25015  Náutico RR U20 (Brazil)
+!! Nautico: Ambiguous team name "Nautico".
+
+TABLE FOR Juventude
+LEAGUE TABLE Serie B 2026 | 20 teams | 347 games played
+League averages per game: home 1.33, away 1.01, total 2.33
+#   team                   Pts | home P GF-GA  | away P GF-GA  | all P GF-GA
+1   Novorizontino           64 | 17  31-15      | 18  31-15      | 35  62-30
+2   Vila Nova               62 | 17  33-13      | 18  17-23      | 35  50-36
+3   Juventude               61 | 17  24-8       | 17  17-15      | 34  41-23
+4   Fortaleza EC            61 | 17  27-16      | 18  16-15      | 35  43-31
+5   Criciuma                59 | 17  19-10      | 18  17-20      | 35  36-30
+6   CRB                     55 | 18  33-20      | 17  20-29      | 35  53-49
+7   Sport Recife            54 | 18  30-19      | 17  17-19      | 35  47-38
+8   Atletico Goianiense     54 | 18  27-15      | 17  15-18      | 35  42-33
+9   Operario-PR             51 | 18  24-22      | 17  21-24      | 35  45-46
+10  Goias                   49 | 17  16-17      | 17  18-23      | 34  34-40
+11  São Bernardo            49 | 18  22-21      | 17  27-18      | 35  49-39
+12  Botafogo SP             47 | 17  26-22      | 18  14-16      | 35  40-38
+13  Cuiaba                  47 | 17  19-10      | 17  13-17      | 34  32-27
+14  Athletic Club           44 | 17  21-18      | 18  19-22      | 35  40-40
+15  Nautico Recife          43 | 17  19-17      | 17  20-25      | 34  39-42
+16  Ceara                   43 | 17  22-19      | 17  15-23      | 34  37-42
+17  Avai                    37 | 18  17-18      | 17  16-27      | 35  33-45
+18  Londrina                32 | 17  24-20      | 18  20-31      | 35  44-51
+19  America Mineiro         20 | 17  13-22      | 17   9-32      | 34  22-54
+20  Ponte Preta             15 | 18  13-28      | 17   8-48      | 35  21-76
+
+(15 API-Football requests used)
+
+----------------------------------------------------------------------
+MATCHBOOK: skipped (switched off for this run)
