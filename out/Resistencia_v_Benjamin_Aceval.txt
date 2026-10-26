@@ -1,7 +1,32 @@
-MATCH Resistencia SC v Benjamin Aceval | fetched 2026-10-26 18:42 local
+MATCH Resistencia v Benjamin Aceval | fetched 2026-10-26 18:43 local
 
-FORM DATA Resistencia SC v Benjamin Aceval | source API-Football | 2026-10-26 18:42 UTC
+FORM DATA Resistencia v Benjamin Aceval | source API-Football | 2026-10-26 18:43 UTC
 H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
+
+=== Resistencia (id 2135): last 20 finished games ===
+2026-10-16 A 2-1 v Sportivo Carapeguá | Division Intermedia | ?
+2026-10-11 H 1-1 v 12 de Junio VH | Division Intermedia | ?
+2026-10-02 A 3-0 v Encarnación | Division Intermedia | ?
+2026-09-27 H 1-2 v Deportivo Santani | Division Intermedia | ?
+2026-09-19 A 1-2 v Fernando De La Mora | Division Intermedia | ?
+2026-09-12 H 1-2 v 3 de Noviembre | Division Intermedia | ?
+2026-09-08 A 1-2 v General Caballero | Division Intermedia | ?
+2026-09-04 H 2-1 v Guairena FC | Division Intermedia | ?
+2026-08-31 A 0-1 v Paraguari AC | Division Intermedia | ?
+2026-08-27 H 0-1 v Cerro Porteno | Copa Paraguay | ?
+2026-08-21 A 0-0 v SOL DE America | Division Intermedia | ?
+2026-08-16 H 1-0 v Deportivo Capiata | Division Intermedia | ?
+2026-08-07 A 1-1 v Independiente F.b.c. | Division Intermedia | ?
+2026-08-01 H 3-1 v Tacuary | Division Intermedia | Asuncion
+2026-07-28 A 1-0 v Atlético Tembetary | Division Intermedia | Asuncion
+2026-07-18 A 0-2 v Benjamín Aceval | Division Intermedia | ?
+2026-07-10 H 1-1 v Sportivo Carapeguá | Division Intermedia | Asuncion
+2026-07-05 A 2-3 v 12 de Junio VH | Division Intermedia | ?
+2026-06-30 H 1-0 v Encarnación | Division Intermedia | Asuncion
+2026-06-04 A 0-3 v Deportivo Santani | Division Intermedia | San Estanislao
+Listed home: 9 games, scored 11 (1.22), conceded 9 (1.00), blanks 1, clean sheets 2
+Listed away: 11 games, scored 11 (1.00), conceded 15 (1.36), blanks 4, clean sheets 3
+All: 20 games, scored 22 (1.10), conceded 24 (1.20), blanks 5, clean sheets 5
 
 === Benjamín Aceval (id 17183): last 20 finished games ===
 2026-10-18 H 0-1 v SOL DE America | Division Intermedia | ?
@@ -28,9 +53,7 @@ Listed home: 12 games, scored 17 (1.42), conceded 19 (1.58), blanks 2, clean she
 Listed away: 8 games, scored 9 (1.12), conceded 14 (1.75), blanks 2, clean sheets 0
 All: 20 games, scored 26 (1.30), conceded 33 (1.65), blanks 4, clean sheets 1
 
-!! Resistencia SC: No team found for "Resistencia SC".
-
-TABLE FOR Benjamín Aceval
+TABLE FOR Resistencia
 LEAGUE TABLE Division Intermedia 2026 | 16 teams | 238 games played
 League averages per game: home 1.36, away 1.28, total 2.63
 #   team                   Pts | home P GF-GA  | away P GF-GA  | all P GF-GA
@@ -51,7 +74,9 @@ League averages per game: home 1.36, away 1.28, total 2.63
 15  Tacuary                 27 | 15  19-25      | 14  16-24      | 29  35-49
 16  Encarnación             26 | 15  18-29      | 15  12-15      | 30  30-44
 
-(14 API-Football requests used)
+(Benjamín Aceval: same table as Resistencia, shown above)
+
+(25 API-Football requests used)
 
 ----------------------------------------------------------------------
 MATCHBOOK: skipped (switched off for this run)

@@ -1,8 +1,4 @@
-RUN 2026-10-26 18:42 local | 3 match(es)
-Resistencia SC v Benjamin Aceval -> out/Resistencia_SC_v_Benjamin_Aceval.txt
-    !! Resistencia SC: No team found for "Resistencia SC".
-Blackburn U21 v West Brom U21 -> out/Blackburn_U21_v_West_Brom_U21.txt
-    !! Blackburn U21: No team found for "Blackburn U21".
-    !! West Brom U21: No team found for "West Brom U21".
-Bournemouth U21 v Brentford U21 -> out/Bournemouth_U21_v_Brentford_U21.txt
-Requests used: API-Football 41, Matchbook 0
+RUN 2026-10-26 18:43 local | 2 match(es)
+Resistencia v Benjamin Aceval -> out/Resistencia_v_Benjamin_Aceval.txt
+Blackburn Rovers U21 v West Bromwich Albion U21 -> out/Blackburn_Rovers_U21_v_West_Bromwich_Alb.txt
+Requests used: API-Football 51, Matchbook 0
