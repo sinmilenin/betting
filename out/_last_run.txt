@@ -1,6 +1,4 @@
-RUN 2026-10-27 13:13 local | 4 match(es)
-id:851 v Septemvri Sofia -> out/id_851_v_Septemvri_Sofia.txt
-Trans Narva v id:10059 -> out/Trans_Narva_v_id_10059.txt
-AIK Stockholm v id:372 -> out/AIK_Stockholm_v_id_372.txt
-id:527 v Avellino -> out/id_527_v_Avellino.txt
-Requests used: API-Football 102, Matchbook 0
+RUN 2026-10-27 13:35 local | 2 match(es)
+Panserraikos v Niki Volos -> out/Panserraikos_v_Niki_Volos.txt
+Asteras Tripolis v Kifisia -> out/Asteras_Tripolis_v_Kifisia.txt
+Requests used: API-Football 50, Matchbook 0
