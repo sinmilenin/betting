@@ -1,6 +1,12 @@
-RUN 2026-10-27 15:02 local | 3 match(es)
-id:1430 v Levski Sofia -> out/id_1430_v_Levski_Sofia.txt
-id:1326 v RB Leipzig -> out/id_1326_v_RB_Leipzig.txt
-RW Essen v RB Leipzig -> out/RW_Essen_v_RB_Leipzig.txt
-    !! RW Essen: No team found for "RW Essen".
-Requests used: API-Football 66, Matchbook 0
+RUN 2026-10-27 15:55 local | 5 match(es)
+Macva Sabac v Napredak -> out/Macva_Sabac_v_Napredak.txt
+    !! Macva Sabac: No team found for "Macva Sabac".
+Austria Wien v Hartberg -> out/Austria_Wien_v_Hartberg.txt
+    !! Austria Wien: Ambiguous team name "Austria Wien".
+    !! Hartberg: Ambiguous team name "Hartberg".
+UTA Arad v Botosani -> out/UTA_Arad_v_Botosani.txt
+    !! Botosani: Ambiguous team name "Botosani".
+Dodoma Jiji v JKT Tanzania -> out/Dodoma_Jiji_v_JKT_Tanzania.txt
+Akademisk Boldklub v Brondby -> out/Akademisk_Boldklub_v_Brondby.txt
+    !! Akademisk Boldklub: No team found for "Akademisk Boldklub".
+Requests used: API-Football 70, Matchbook 0

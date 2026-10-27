@@ -1,0 +1,53 @@
+MATCH Akademisk Boldklub v Brondby | fetched 2026-10-27 15:55 local
+
+FORM DATA Akademisk Boldklub v Brondby | source API-Football | 2026-10-27 15:55 UTC
+H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
+
+=== Brondby (id 407): last 20 finished games ===
+2026-10-23 A 3-1 v Randers FC | Superliga | Landers | xG 3.56-2.11
+2026-10-18 A 1-2 v Odense | Superliga | Odense | xG 2.58-0.78
+2026-10-11 H 5-2 v Lyngby | Superliga | Copenhagen | xG 2.38-0.77
+2026-10-02 H 1-1 v Sirius | Friendlies Clubs | ?
+2026-09-20 H 0-1 v FC Copenhagen | Superliga | Brondby | xG 0.71-2.27
+2026-09-17 A 2-1 v Vejle | DBU Pokalen | Vejle
+2026-09-14 A 1-4 v FC Midtjylland | Superliga | Herning | xG 0.80-1.16
+2026-09-06 H 0-3 v Randers FC | Superliga | Brondby | xG 1.19-0.85
+2026-08-30 A 1-3 v FC Nordsjaelland | Superliga | Farum | xG 1.76-3.32
+2026-08-24 H 3-1 v Silkeborg | Superliga | Brondby | xG 2.14-0.99
+2026-08-17 H 3-2 v Sonderjyske | Superliga | Brondby
+2026-08-09 A 2-0 v AC Horsens | Superliga | Horsens
+2026-08-02 H 1-0 v Viborg | Superliga | Brondby
+2026-07-25 A 1-1 v Aarhus | Superliga | Aarhus
+2026-07-18 A 1-2 v Hibernian | Friendlies Clubs | ?
+2026-07-11 H 4-0 v Odense | Friendlies Clubs | ?
+2026-07-04 H 3-3 v FC Nordsjaelland | Friendlies Clubs | ?
+2026-06-28 H 8-1 v Hvidovre | Friendlies Clubs | ?
+2026-05-21 H 1-1 v FC Copenhagen | Superliga | Brondby [AET, 90-min score shown]
+2026-05-17 A 3-2 v FC Midtjylland | Superliga | Herning
+Listed home: 11 games, scored 29 (2.64), conceded 15 (1.36), blanks 2, clean sheets 2
+Listed away: 9 games, scored 15 (1.67), conceded 16 (1.78), blanks 0, clean sheets 1
+All: 20 games, scored 44 (2.20), conceded 31 (1.55), blanks 2, clean sheets 3
+
+!! Akademisk Boldklub: No team found for "Akademisk Boldklub".
+
+TABLE FOR Brondby
+LEAGUE TABLE Superliga 2026 | 12 teams | 72 games played
+League averages per game: home 1.65, away 1.42, total 3.07
+#   team                   Pts | home P GF-GA  | away P GF-GA  | all P GF-GA
+1   FC Midtjylland          28 |  6  14-7       |  6  10-6       | 12  24-13
+2   FC Copenhagen           26 |  6  12-5       |  6  14-7       | 12  26-12
+3   Viborg                  20 |  6  12-6       |  6   7-6       | 12  19-12
+4   FC Nordsjaelland        20 |  5   7-1       |  7  11-13      | 12  18-14
+5   Brondby                 19 |  6  12-9       |  6   9-11      | 12  21-20
+6   AC Horsens              16 |  7  12-10      |  5  11-10      | 12  23-20
+7   Odense                  14 |  5   5-9       |  7   6-7       | 12  11-16
+8   Aarhus                  12 |  6  10-8       |  6   7-11      | 12  17-19
+9   Silkeborg               12 |  6   8-9       |  6   8-11      | 12  16-20
+10  Randers FC              11 |  7   7-13      |  5   5-6       | 12  12-19
+11  Lyngby                   8 |  6   8-12      |  6   9-15      | 12  17-27
+12  Sonderjyske              8 |  6  12-13      |  6   5-16      | 12  17-29
+
+(14 API-Football requests used)
+
+----------------------------------------------------------------------
+MATCHBOOK: skipped (switched off for this run)

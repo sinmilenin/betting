@@ -1,0 +1,82 @@
+MATCH Dodoma Jiji v JKT Tanzania | fetched 2026-10-27 15:55 local
+
+FORM DATA Dodoma Jiji v JKT Tanzania | source API-Football | 2026-10-27 15:55 UTC
+H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
+
+=== Dodoma Jiji (id 14345): last 20 finished games ===
+2026-10-16 A 3-0 v Geita Gold | Ligi kuu Bara | ?
+2026-10-09 H 1-1 v Singida Black Stars | Ligi kuu Bara | ?
+2026-09-11 H 1-0 v Namungo | Ligi kuu Bara | ?
+2026-09-04 H 1-0 v Mashujaa | Ligi kuu Bara | ?
+2026-08-29 A 1-0 v Tabora United | Ligi kuu Bara | ?
+2026-08-25 H 0-1 v Polisi Tanzania | Ligi kuu Bara | ?
+2026-08-19 A 0-2 v Mbeya City | Ligi kuu Bara | Mbeya
+2026-08-14 A 1-1 v Pamba Jiji | Ligi kuu Bara | ?
+2026-06-30 A 0-2 v Azam | Ligi kuu Bara | Dar es Salaam
+2026-06-27 H 1-1 v Mbeya City | Ligi kuu Bara | ?
+2026-06-24 H 0-0 v JKT Tanzania | Ligi kuu Bara | ?
+2026-06-17 A 0-5 v Singida Black Stars | Ligi kuu Bara | Singida
+2026-06-14 A 1-3 v Tanzania Prisons | Ligi kuu Bara | Mbeya
+2026-05-24 A 0-1 v Simba | Ligi kuu Bara | Dar es Salaam
+2026-05-20 H 1-1 v Mashujaa | Ligi kuu Bara | ?
+2026-05-13 H 3-2 v Young Africans | Ligi kuu Bara | ?
+2026-05-10 A 0-0 v Pamba Jiji | Ligi kuu Bara | Mwanza
+2026-05-06 A 1-0 v Mtibwa Sugar | Ligi kuu Bara | Morogoro
+2026-05-01 H 0-0 v Namungo | Ligi kuu Bara | ?
+2026-04-15 A 1-3 v Coastal Union | Ligi kuu Bara | Tanga
+Listed home: 9 games, scored 8 (0.89), conceded 6 (0.67), blanks 3, clean sheets 4
+Listed away: 11 games, scored 8 (0.73), conceded 17 (1.55), blanks 5, clean sheets 4
+All: 20 games, scored 16 (0.80), conceded 23 (1.15), blanks 8, clean sheets 8
+
+=== JKT Tanzania (id 12190): last 20 finished games ===
+2026-10-24 H 1-0 v Kagera Sugar | Ligi kuu Bara | ?
+2026-10-18 H 2-1 v Mbeya City | Ligi kuu Bara | ?
+2026-10-09 A 2-1 v Fountain Gate | Ligi kuu Bara | ?
+2026-09-12 A 1-2 v Coastal Union | Ligi kuu Bara | Tanga
+2026-09-05 H 3-0 v Pamba Jiji | Ligi kuu Bara | ?
+2026-08-29 H 2-1 v Namungo | Ligi kuu Bara | ?
+2026-08-24 A 0-4 v Young Africans | Ligi kuu Bara | Dar es Salaam
+2026-08-20 A 0-2 v Polisi Tanzania | Ligi kuu Bara | Arusha
+2026-08-16 H 1-1 v Tabora United | Ligi kuu Bara | ?
+2026-06-30 H 0-3 v Young Africans | Ligi kuu Bara | ?
+2026-06-27 A 2-1 v Pamba Jiji | Ligi kuu Bara | Mwanza
+2026-06-24 A 0-0 v Dodoma Jiji | Ligi kuu Bara | ?
+2026-06-18 H 0-1 v Tanzania Prisons | Ligi kuu Bara | ?
+2026-06-13 H 1-2 v Singida Black Stars | Ligi kuu Bara | ?
+2026-05-24 A 2-2 v Mtibwa Sugar | Ligi kuu Bara | Morogoro
+2026-05-21 H 2-2 v Fountain Gate | Ligi kuu Bara | ?
+2026-05-12 A 1-1 v Tabora United | Ligi kuu Bara | ?
+2026-05-09 H 1-0 v Mbeya City | Ligi kuu Bara | ?
+2026-05-06 A 0-1 v Simba | Ligi kuu Bara | Dar es Salaam
+2026-04-30 H 1-0 v KMC | Ligi kuu Bara | ?
+Listed home: 11 games, scored 14 (1.27), conceded 11 (1.00), blanks 2, clean sheets 4
+Listed away: 9 games, scored 8 (0.89), conceded 14 (1.56), blanks 4, clean sheets 1
+All: 20 games, scored 22 (1.10), conceded 25 (1.25), blanks 6, clean sheets 5
+
+TABLE FOR Dodoma Jiji
+LEAGUE TABLE Ligi kuu Bara 2026 | 16 teams | 68 games played
+League averages per game: home 1.49, away 1.00, total 2.49
+#   team                   Pts | home P GF-GA  | away P GF-GA  | all P GF-GA
+1   Simba                   24 |  4  11-2       |  4   8-2       |  8  19-4
+2   Young Africans          19 |  4  11-1       |  4   6-3       |  8  17-4
+3   Azam                    17 |  4   6-4       |  4   7-3       |  8  13-7
+4   JKT Tanzania            16 |  5   9-3       |  4   3-9       |  9  12-12
+5   Dodoma Jiji             14 |  4   3-2       |  4   5-3       |  8   8-5
+6   Polisi Tanzania         12 |  5   7-4       |  4   5-7       |  9  12-11
+7   Namungo                 12 |  5   6-4       |  4   3-8       |  9   9-12
+8   Mashujaa                12 |  3   6-3       |  5   3-10      |  8   9-13
+9   Singida Black Stars     11 |  4  11-6       |  4   3-5       |  8  14-11
+10  Mbeya City              10 |  4   5-5       |  4   3-4       |  8   8-9
+11  Coastal Union           10 |  5   4-5       |  4   4-8       |  9   8-13
+12  Geita Gold               8 |  4   9-8       |  5   1-8       |  9  10-16
+13  Tabora United            7 |  3   0-1       |  5   6-6       |  8   6-7
+14  Pamba Jiji               6 |  4   7-6       |  5   3-9       |  9  10-15
+15  Kagera Sugar             6 |  5   3-7       |  4   6-10      |  9   9-17
+16  Fountain Gate            6 |  5   3-7       |  4   2-6       |  9   5-13
+
+(JKT Tanzania: same table as Dodoma Jiji, shown above)
+
+(25 API-Football requests used)
+
+----------------------------------------------------------------------
+MATCHBOOK: skipped (switched off for this run)
