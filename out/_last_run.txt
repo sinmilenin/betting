@@ -1,19 +1,12 @@
-RUN 2026-10-27 17:16 local | 12 match(es)
-Cuarte v Girona -> out/Cuarte_v_Girona.txt
-Slavia Praha v Zbrojovka Brno -> out/Slavia_Praha_v_Zbrojovka_Brno.txt
-Chesham United v Farnham Town -> out/Chesham_United_v_Farnham_Town.txt
-Elversberg v Darmstadt 98 -> out/Elversberg_v_Darmstadt_98.txt
-    !! Elversberg: Ambiguous team name "Elversberg".
-    !! Darmstadt 98: Ambiguous team name "Darmstadt 98".
-Barnet v York City -> out/Barnet_v_York_City.txt
-MK Dons v Bromley -> out/MK_Dons_v_Bromley.txt
-    !! MK Dons: No team found for "MK Dons".
-Woking v Boreham Wood -> out/Woking_v_Boreham_Wood.txt
-Borussia Monchengladbach v Karlsruher SC -> out/Borussia_Monchengladbach_v_Karlsruher_SC.txt
-    !! Borussia Monchengladbach: Ambiguous team name "Borussia Monchengladbach".
-1. FC Koln v Union Berlin -> out/1_FC_Koln_v_Union_Berlin.txt
-    !! 1. FC Koln: API-Football error: {"search": "The Search field may only contain alpha-numeric characters and spaces."}
-Hereford v AFC Telford United -> out/Hereford_v_AFC_Telford_United.txt
-Juan Pablo II v Sport Huancayo -> out/Juan_Pablo_II_v_Sport_Huancayo.txt
-Boston United v Gateshead -> out/Boston_United_v_Gateshead.txt
-Requests used: API-Football 251, Matchbook 0
+RUN 2026-10-27 17:20 local | 10 match(es)
+id:1660 v id:181 -> out/id_1660_v_id_181.txt
+id:163 v Karlsruher SC -> out/id_163_v_Karlsruher_SC.txt
+id:192 v Union Berlin -> out/id_192_v_Union_Berlin.txt
+Milton Keynes Dons v Bromley -> out/Milton_Keynes_Dons_v_Bromley.txt
+Benevento v Catanzaro -> out/Benevento_v_Catanzaro.txt
+Bradford v Peterborough -> out/Bradford_v_Peterborough.txt
+Leicester v Wigan -> out/Leicester_v_Wigan.txt
+Oxford United v Stockport County -> out/Oxford_United_v_Stockport_County.txt
+Sheffield Wednesday v Cambridge United -> out/Sheffield_Wednesday_v_Cambridge_United.txt
+Torino v Como -> out/Torino_v_Como.txt
+Requests used: API-Football 245, Matchbook 0

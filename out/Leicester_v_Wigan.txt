@@ -1,0 +1,90 @@
+MATCH Leicester v Wigan | fetched 2026-10-27 17:20 local
+
+FORM DATA Leicester v Wigan | source API-Football | 2026-10-27 17:21 UTC
+H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
+
+=== Leicester (id 46): last 20 finished games ===
+2026-10-24 A 1-2 v Luton | League One | Luton | xG 1.03-1.60
+2026-10-20 A 4-0 v Bromley | League One | Bromley | xG 2.35-0.26
+2026-10-17 H 2-1 v Doncaster | League One | Leicester | xG 1.76-0.60
+2026-10-10 H 1-3 v Peterborough | League One | Leicester | xG 2.60-1.70
+2026-10-06 A 1-2 v Stevenage | EFL Trophy | Stevenage
+2026-09-22 H 6-1 v Fulham U21 | EFL Trophy | Leicester
+2026-09-19 A 1-1 v Barnsley | League One | Barnsley | xG 2.40-1.18
+2026-09-12 A 4-3 v Stockport County | League One | Stockport | xG 1.08-2.08
+2026-09-05 H 0-4 v Oxford United | League One | Leicester | xG 1.03-2.31
+2026-09-01 H 2-0 v Plymouth | League One | Leicester | xG 1.49-1.15
+2026-08-29 A 0-0 v Milton Keynes Dons | League One | Milton Keynes
+2026-08-25 A 1-3 v Ipswich | League Cup | Ipswich
+2026-08-22 H 1-2 v Burton Albion | League One | Leicester
+2026-08-15 A 1-1 v Notts County | League One | Nottingham
+2026-08-08 H 1-0 v Northampton | League Cup | Leicester
+2026-08-01 H 0-1 v Genoa | Friendlies Clubs | ?
+2026-07-25 A 3-3 v Malaga | Friendlies Clubs | Algeciras
+2026-07-22 A 1-0 v Cadiz | Friendlies Clubs | Algeciras
+2026-07-18 A 3-0 v Burton Albion | Friendlies Clubs | ?
+2026-07-14 A 2-1 v Bristol Rovers | Friendlies Clubs | ?
+Listed home: 8 games, scored 13 (1.62), conceded 12 (1.50), blanks 2, clean sheets 2
+Listed away: 12 games, scored 22 (1.83), conceded 16 (1.33), blanks 1, clean sheets 4
+All: 20 games, scored 35 (1.75), conceded 28 (1.40), blanks 3, clean sheets 6
+
+=== Wigan (id 61): last 20 finished games ===
+2026-10-24 A 1-2 v Huddersfield | League One | Huddersfield | xG 0.54-3.08
+2026-10-20 A 1-2 v Oxford United | League One | Oxford | xG 0.54-1.99
+2026-10-17 H 1-0 v Reading | League One | Wigan | xG 1.16-1.99
+2026-10-10 A 0-1 v Stevenage | League One | Stevenage | xG 0.25-2.36
+2026-09-22 H 3-2 v Blackpool | EFL Trophy | Wigan
+2026-09-19 H 0-1 v Wycombe | League One | Wigan | xG 0.41-1.66
+2026-09-12 A 0-0 v Sheffield Wednesday | League One | Sheffield | xG 1.49-0.61
+2026-09-05 H 0-4 v Stockport County | League One | Wigan | xG 0.73-2.15
+2026-09-02 H 3-1 v Milton Keynes Dons | League One | Wigan | xG 2.35-2.81
+2026-08-30 A 0-1 v AFC Wimbledon | League One | London | xG 2.99-0.72
+2026-08-22 H 0-2 v Leyton Orient | League One | Wigan
+2026-08-18 H 3-2 v Aston Villa U21 | EFL Trophy | Wigan
+2026-08-15 A 2-3 v Cambridge United | League One | Cambridge
+2026-08-08 A 1-1 v Barnsley | League Cup | Barnsley [PEN, 90-min score shown]
+2026-08-01 A 0-2 v Grimsby | Friendlies Clubs | ?
+2026-07-31 A 0-0 v Southport | Friendlies Clubs | ?
+2026-07-25 A 3-0 v AFC Fylde | Friendlies Clubs | ?
+2026-07-18 H 1-3 v Port Vale | Friendlies Clubs | ?
+2026-05-02 A 0-1 v Stevenage | League One | Stevenage
+2026-04-25 H 0-1 v AFC Wimbledon | League One | Wigan
+Listed home: 9 games, scored 11 (1.22), conceded 16 (1.78), blanks 4, clean sheets 1
+Listed away: 11 games, scored 8 (0.73), conceded 13 (1.18), blanks 6, clean sheets 3
+All: 20 games, scored 19 (0.95), conceded 29 (1.45), blanks 10, clean sheets 4
+
+TABLE FOR Leicester
+LEAGUE TABLE League One 2026 | 24 teams | 138 games played
+League averages per game: home 1.49, away 1.31, total 2.80
+#   team                   Pts | home P GF-GA  | away P GF-GA  | all P GF-GA
+1   Huddersfield            25 |  6  15-6       |  6   9-5       | 12  24-11
+2   Stockport County        23 |  6  14-8       |  6  10-4       | 12  24-12
+3   Bradford                22 |  5   6-2       |  7   4-3       | 12  10-5
+4   Plymouth                22 |  6   8-7       |  7  13-12      | 13  21-19
+5   Reading                 21 |  7  17-7       |  5   8-6       | 12  25-13
+6   Cambridge United        20 |  7  12-11      |  5   8-6       | 12  20-17
+7   Oxford United           19 |  5   8-4       |  5  10-6       | 10  18-10
+8   Sheffield Wednesday     18 |  5  12-3       |  6   8-9       | 11  20-12
+9   Mansfield Town          18 |  5  10-5       |  6  10-11      | 11  20-16
+10  Luton                   17 |  6   9-6       |  5  12-13      | 11  21-19
+11  Burton Albion           17 |  7  12-10      |  6   6-9       | 13  18-19
+12  Stevenage               15 |  6   9-6       |  5   6-5       | 11  15-11
+13  Leicester               15 |  5   6-10      |  6  11-7       | 11  17-17
+14  Wycombe                 15 |  6  10-12      |  6   9-11      | 12  19-23
+15  Leyton Orient           14 |  6   7-10      |  6   9-4       | 12  16-14
+16  AFC Wimbledon           13 |  6   3-4       |  6   5-15      | 12   8-19
+17  Doncaster               12 |  6   6-6       |  5   6-7       | 11  12-13
+18  Milton Keynes Dons      12 |  5   5-8       |  6   7-10      | 11  12-18
+19  Notts County            11 |  6   7-6       |  5   4-8       | 11  11-14
+20  Blackpool               11 |  6  12-11      |  5   4-9       | 11  16-20
+21  Peterborough            10 |  5   5-7       |  7   6-14      | 12  11-21
+22  Bromley                  9 |  6   4-14      |  5   6-12      | 11  10-26
+23  Barnsley                 8 |  5   5-10      |  6   6-11      | 11  11-21
+24  Wigan                    7 |  5   4-8       |  6   4-9       | 11   8-17
+
+(Wigan: same table as Leicester, shown above)
+
+(24 API-Football requests used)
+
+----------------------------------------------------------------------
+MATCHBOOK: skipped (switched off for this run)

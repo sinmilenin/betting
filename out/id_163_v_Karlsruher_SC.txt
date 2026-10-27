@@ -1,11 +1,33 @@
-MATCH Borussia Monchengladbach v Karlsruher SC | fetched 2026-10-27 17:16 local
+MATCH id:163 v Karlsruher SC | fetched 2026-10-27 17:20 local
 
-FORM DATA Borussia Monchengladbach v Karlsruher SC | source API-Football | 2026-10-27 17:17 UTC
+FORM DATA id:163 v Karlsruher SC | source API-Football | 2026-10-27 17:20 UTC
 H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
 
-"Borussia Monchengladbach" matches several teams. Use id:<number> instead of the name:
-  id:163    Borussia Mönchengladbach (Germany)
-  id:1864   Borussia Monchengladbach W (Germany)
+=== Borussia Mönchengladbach (id 163): last 20 finished games ===
+2026-10-23 A 3-2 v VfB Stuttgart | Bundesliga | Stuttgart | xG 2.66-1.60
+2026-10-18 H 1-2 v 1899 Hoffenheim | Bundesliga | Monchengladbach | xG 0.47-1.80
+2026-10-11 A 1-2 v 1. FC Köln | Bundesliga | Cologne | xG 1.17-1.32
+2026-10-03 A 1-1 v FC St. Pauli | Friendlies Clubs | ?
+2026-09-24 A 3-0 v Sportfreunde Siegen | Friendlies Clubs | ?
+2026-09-19 H 3-4 v FSV Mainz 05 | Bundesliga | Monchengladbach | xG 3.24-2.82
+2026-09-12 A 0-5 v SC Freiburg | Bundesliga | Freiburg | xG 0.19-2.60
+2026-09-05 H 3-4 v SV Elversberg | Bundesliga | ? | xG 2.36-2.31
+2026-08-29 A 0-3 v RB Leipzig | Bundesliga | Leipzig | xG 1.09-3.96
+2026-08-23 A 5-0 v Schott Mainz | DFB Pokal | Mainz
+2026-08-15 H 2-1 v Aston Villa | Friendlies Clubs | ?
+2026-08-12 A 8-0 v SSVg Velbert | Friendlies Clubs | ?
+2026-08-01 A 3-1 v Hansa Rostock | Friendlies Clubs | ?
+2026-07-25 A 2-1 v Rot-Weiß Essen | Friendlies Clubs | ?
+2026-07-18 A 6-0 v Wuppertaler SV | Friendlies Clubs | ?
+2026-05-20 A 6-2 v Spelle-Venhaus | Friendlies Clubs | ?
+2026-05-16 H 4-0 v 1899 Hoffenheim | Bundesliga | Monchengladbach
+2026-05-09 A 1-3 v FC Augsburg | Bundesliga | Augsburg
+2026-05-03 H 1-0 v Borussia Dortmund | Bundesliga | Monchengladbach
+2026-04-25 A 0-0 v VfL Wolfsburg | Bundesliga | Wolfsburg
+Listed home: 6 games, scored 14 (2.33), conceded 11 (1.83), blanks 0, clean sheets 2
+Listed away: 14 games, scored 39 (2.79), conceded 20 (1.43), blanks 3, clean sheets 5
+All: 20 games, scored 53 (2.65), conceded 31 (1.55), blanks 3, clean sheets 7
+
 === Karlsruher SC (id 785): last 20 finished games ===
 2026-10-24 A 1-6 v 1. FC Magdeburg | 2. Bundesliga | Magdeburg | xG 0.71-2.70
 2026-10-18 H 4-0 v SV Darmstadt 98 | 2. Bundesliga | Karlsruhe | xG 1.20-0.50
@@ -31,11 +53,28 @@ Listed home: 11 games, scored 18 (1.64), conceded 25 (2.27), blanks 2, clean she
 Listed away: 9 games, scored 9 (1.00), conceded 20 (2.22), blanks 4, clean sheets 1
 All: 20 games, scored 27 (1.35), conceded 45 (2.25), blanks 6, clean sheets 2
 
-(retrying Borussia Monchengladbach using the opponent's country, Germany)
-"Borussia Monchengladbach" matches several teams. Use id:<number> instead of the name:
-  id:163    Borussia Mönchengladbach (Germany)
-  id:1864   Borussia Monchengladbach W (Germany)
-!! Borussia Monchengladbach: Ambiguous team name "Borussia Monchengladbach".
+TABLE FOR Borussia Mönchengladbach
+LEAGUE TABLE Bundesliga 2026 | 18 teams | 63 games played
+League averages per game: home 2.19, away 1.37, total 3.56
+#   team                   Pts | home P GF-GA  | away P GF-GA  | all P GF-GA
+1   Bayern München          17 |  3  18-2       |  4   7-4       |  7  25-6
+2   Borussia Dortmund       17 |  4   8-2       |  3   4-2       |  7  12-4
+3   SC Freiburg             13 |  4  12-5       |  3   4-4       |  7  16-9
+4   Bayer Leverkusen        13 |  3   8-1       |  4   8-11      |  7  16-12
+5   RB Leipzig              12 |  4  18-0       |  3   2-11      |  7  20-11
+6   Werder Bremen           12 |  3   8-5       |  4   7-9       |  7  15-14
+7   FSV Mainz 05            10 |  4   6-10      |  3  10-3       |  7  16-13
+8   SV Elversberg           10 |  3   8-7       |  4   4-8       |  7  12-15
+9   FC Augsburg              9 |  4   8-5       |  3   9-8       |  7  17-13
+10  1899 Hoffenheim          9 |  4   9-7       |  3   5-7       |  7  14-14
+11  Hamburger SV             9 |  3   3-6       |  4   3-10      |  7   6-16
+12  1. FC Köln               8 |  4   6-4       |  3   2-7       |  7   8-11
+13  SC Paderborn 07          8 |  4   4-4       |  3   2-5       |  7   6-9
+14  Eintracht Frankfurt      8 |  3   4-6       |  4   6-11      |  7  10-17
+15  VfB Stuttgart            6 |  3   6-5       |  4   4-8       |  7  10-13
+16  FC Schalke 04            6 |  3   0-1       |  4   4-6       |  7   4-7
+17  Union Berlin             6 |  4   5-6       |  3   1-12      |  7   6-18
+18  Borussia Mönchengladba   3 |  3   7-10      |  4   4-12      |  7  11-22
 
 TABLE FOR Karlsruher SC
 LEAGUE TABLE 2. Bundesliga 2026 | 18 teams | 81 games played
@@ -60,7 +99,7 @@ League averages per game: home 1.78, away 1.25, total 3.02
 17  Karlsruher SC            8 |  5   8-10      |  4   3-10      |  9  11-20
 18  SV Darmstadt 98          8 |  5   7-5       |  4   1-13      |  9   8-18
 
-(15 API-Football requests used)
+(24 API-Football requests used)
 
 ----------------------------------------------------------------------
 MATCHBOOK: skipped (switched off for this run)
