@@ -1,3 +1,4 @@
-# Scan 27.10.2026 19:43 run 3
-id:497 v Cagliari | n=20 | xg=10
-Fleetwood Town v id:42 | n=20 | xg=10
+# Scan 27.10.2026 20:27 run 1
+Wealdstone v Solihull Moors | n=20 | xg=10
+Tudelano v Zaragoza | n=20 | xg=10
+Recreativo Huelva v Rayo Vallecano | n=20 | xg=10
