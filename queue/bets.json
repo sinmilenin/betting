@@ -44,17 +44,6 @@
     "created": "2026-10-27T07:49:28+01:00"
   },
   {
-    "id": "2026-10-27_livyi-bereh-veres-rivne_2-2",
-    "date": "2026-10-27",
-    "ko": "12:00",
-    "match": "Livyi Bereh v Veres Rivne",
-    "comp": "Ukraine, Ukrainian Cup",
-    "cell": "2-2",
-    "lay": 20,
-    "stake": 3,
-    "created": "2026-10-27T11:31:06+01:00"
-  },
-  {
     "id": "2026-10-27_cesena-empoli_2-2",
     "date": "2026-10-27",
     "ko": "20:00",
@@ -152,5 +141,27 @@
     "lay": 16.0,
     "stake": 3,
     "created": "2026-10-27T17:35:53+01:00"
+  },
+  {
+    "id": "2026-10-27_hereford-fc-afc-telford_2-2",
+    "date": "2026-10-27",
+    "ko": "20:45",
+    "match": "Hereford FC v AFC Telford",
+    "comp": "United Kingdom, English National League North",
+    "cell": "2-2",
+    "lay": 18,
+    "stake": 3,
+    "created": "2026-10-27T17:24:00Z"
+  },
+  {
+    "id": "2026-10-27_boston-utd-gateshead_2-1",
+    "date": "2026-10-27",
+    "ko": "20:45",
+    "match": "Boston Utd v Gateshead",
+    "comp": "United Kingdom, English National League",
+    "cell": "2-1",
+    "lay": 9.4,
+    "stake": 3,
+    "created": "2026-10-27T17:24:00Z"
   }
 ]
