@@ -1,14 +1,32 @@
-MATCH Roma v Cagliari | fetched 2026-10-27 18:48 local
+MATCH id:497 v Cagliari | fetched 2026-10-27 18:50 local
 
-FORM DATA Roma v Cagliari | source API-Football | 2026-10-27 18:48 UTC
+FORM DATA id:497 v Cagliari | source API-Football | 2026-10-27 18:50 UTC
 H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
 
-=== Roma (id 22590): last 2 finished games ===
-2024-08-28 A 0-3 v Bakovci | Cup | Bakovci
-2023-08-19 H 0-2 v Radenska Slatina | Cup | Tišina
-Listed home: 1 games, scored 0 (0.00), conceded 2 (2.00), blanks 1, clean sheets 0
-Listed away: 1 games, scored 0 (0.00), conceded 3 (3.00), blanks 1, clean sheets 0
-All: 2 games, scored 0 (0.00), conceded 5 (2.50), blanks 2, clean sheets 0
+=== AS Roma (id 497): last 20 finished games ===
+2026-10-24 A 3-3 v Napoli | Serie A | Naples | xG 1.90-2.44
+2026-10-20 H 4-0 v Slovan Bratislava | UEFA Champions League | Rome | xG 3.19-0.04
+2026-10-17 H 2-0 v Genoa | Serie A | Rome | xG 1.33-0.47
+2026-10-14 H 3-4 v Real Madrid | UEFA Champions League | Rome | xG 1.49-1.49
+2026-10-11 A 0-0 v Como | Serie A | Como | xG 1.08-1.35
+2026-09-19 H 2-2 v Inter | Serie A | Rome | xG 1.66-2.86
+2026-09-14 A 2-0 v Torino | Serie A | Turin | xG 1.85-0.86
+2026-09-10 A 1-1 v Fenerbahçe | UEFA Champions League | Istanbul | xG 0.48-1.57
+2026-09-05 H 2-1 v Atalanta | Serie A | Rome | xG 2.97-0.70
+2026-08-31 A 4-0 v Lecce | Serie A | Lecce | xG 3.27-0.80
+2026-08-24 H 4-0 v Fiorentina | Serie A | Rome
+2026-08-15 A 2-2 v Borussia Dortmund | Friendlies Clubs | Dortmund
+2026-08-08 A 0-3 v Brighton | Friendlies Clubs | Brighton
+2026-08-04 A 4-1 v Newport County | Friendlies Clubs | Newport
+2026-08-01 A 1-4 v Cardiff | Friendlies Clubs | Cardiff
+2026-07-26 A 3-3 v Cannes | Friendlies Clubs | Cannes
+2026-05-24 A 2-0 v Hellas Verona | Serie A | Verona
+2026-05-17 H 2-0 v Lazio | Serie A | Rome
+2026-05-10 A 3-2 v Parma | Serie A | Parma
+2026-05-04 H 4-0 v Fiorentina | Serie A | Rome
+Listed home: 8 games, scored 23 (2.88), conceded 7 (0.88), blanks 0, clean sheets 5
+Listed away: 12 games, scored 25 (2.08), conceded 19 (1.58), blanks 2, clean sheets 4
+All: 20 games, scored 48 (2.40), conceded 26 (1.30), blanks 2, clean sheets 9
 
 === Cagliari (id 490): last 20 finished games ===
 2026-10-24 H 0-2 v Bologna | Serie A | Cagliari | xG 0.52-1.66
@@ -35,9 +53,7 @@ Listed home: 11 games, scored 10 (0.91), conceded 11 (1.00), blanks 4, clean she
 Listed away: 9 games, scored 8 (0.89), conceded 11 (1.22), blanks 4, clean sheets 4
 All: 20 games, scored 18 (0.90), conceded 22 (1.10), blanks 8, clean sheets 8
 
-(no league table available for Roma: tried Cup 2024, Cup 2023)
-
-TABLE FOR Cagliari
+TABLE FOR AS Roma
 LEAGUE TABLE Serie A 2026 | 20 teams | 80 games played
 League averages per game: home 1.57, away 1.44, total 3.01
 #   team                   Pts | home P GF-GA  | away P GF-GA  | all P GF-GA
@@ -62,7 +78,9 @@ League averages per game: home 1.57, away 1.44, total 3.01
 19  Parma                    4 |  4   3-6       |  4   2-9       |  8   5-15
 20  Venezia                  3 |  4   3-8       |  4   3-9       |  8   6-17
 
-(19 API-Football requests used)
+(Cagliari: same table as AS Roma, shown above)
+
+(25 API-Football requests used)
 
 ----------------------------------------------------------------------
 MATCHBOOK: skipped (switched off for this run)

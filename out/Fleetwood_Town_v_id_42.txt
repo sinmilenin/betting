@@ -1,6 +1,6 @@
-MATCH Fleetwood Town v Arsenal | fetched 2026-10-27 18:48 local
+MATCH Fleetwood Town v id:42 | fetched 2026-10-27 18:50 local
 
-FORM DATA Fleetwood Town v Arsenal | source API-Football | 2026-10-27 18:48 UTC
+FORM DATA Fleetwood Town v id:42 | source API-Football | 2026-10-27 18:50 UTC
 H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
 
 === Fleetwood Town (id 1336): last 20 finished games ===
@@ -28,28 +28,30 @@ Listed home: 11 games, scored 18 (1.64), conceded 6 (0.55), blanks 1, clean shee
 Listed away: 9 games, scored 8 (0.89), conceded 15 (1.67), blanks 3, clean sheets 1
 All: 20 games, scored 26 (1.30), conceded 21 (1.05), blanks 4, clean sheets 7
 
-=== Arsenal (id 4403): last 18 finished games ===
-2022-05-21 A 1-2 v Red Star | Division d'Honneur | Morne-à-l'Eau
-2022-05-14 H 0-1 v Juventus Sainte-Anne | Division d'Honneur | Petit-Bourg
-2022-04-30 A 0-2 v La Gauloise | Division d'Honneur | Vieux Habitants
-2022-04-23 A 0-1 v Phare du Canal | Division d'Honneur | Petit-Canal
-2022-04-15 H 0-0 v Etoile de Morne-à-l'Eau | Division d'Honneur | Baie-Mahault
-2022-04-10 H 0-0 v Amical Club | Division d'Honneur | Petit-Bourg
-2022-04-07 H 2-3 v Stade Lamentinois | Division d'Honneur | Baie-Mahault
-2022-04-02 A 2-4 v Etoile de Morne-à-l'Eau | Division d'Honneur | Morne-à-l'Eau
-2022-03-26 H 4-2 v Sporting Baie-Mahault | Division d'Honneur | Petit-Bourg
-2022-03-19 A 0-1 v Stade Lamentinois | Division d'Honneur | Lamentin
-2022-03-12 H 0-4 v Jeunesse Evolution | Division d'Honneur | Petit-Bourg
-2022-03-05 H 1-1 v Red Star | Division d'Honneur | Les Abymes
-2022-02-26 A 2-0 v Juventus Sainte-Anne | Division d'Honneur | Saint-Anne
-2022-02-23 A 2-3 v Sporting Baie-Mahault | Division d'Honneur | Baie-Mahault
-2022-02-18 H 0-2 v La Gauloise | Division d'Honneur | Baie-Mahault
-2022-02-12 H 0-0 v Phare du Canal | Division d'Honneur | Sainte-Rose
-2022-02-05 A 0-0 v Amical Club | Division d'Honneur | Capesterre-de-Marie-Galante
-2022-01-08 A 1-2 v Jeunesse Evolution | Division d'Honneur | Les Abymes
-Listed home: 9 games, scored 7 (0.78), conceded 13 (1.44), blanks 6, clean sheets 3
-Listed away: 9 games, scored 8 (0.89), conceded 15 (1.67), blanks 4, clean sheets 2
-All: 18 games, scored 15 (0.83), conceded 28 (1.56), blanks 10, clean sheets 5
+=== Arsenal (id 42): last 20 finished games ===
+2026-10-24 H 2-0 v Everton | Premier League | London | xG 1.96-0.63
+2026-10-21 A 2-2 v Bayern München | UEFA Champions League | Munich | xG 1.71-2.50
+2026-10-18 A 1-0 v Nottingham Forest | Premier League | Nottingham | xG 1.14-0.90
+2026-10-13 H 3-0 v Lille | UEFA Champions League | London | xG 1.70-0.30
+2026-10-10 H 2-1 v Leeds | Premier League | London | xG 2.33-0.62
+2026-09-19 A 0-3 v Brighton | Premier League | Brighton | xG 1.63-1.31
+2026-09-15 A 4-2 v Ipswich | League Cup | Ipswich
+2026-09-12 A 2-0 v Sunderland | Premier League | Sunderland | xG 1.88-1.80
+2026-09-09 A 1-0 v Napoli | UEFA Champions League | Naples | xG 4.05-0.22
+2026-09-06 H 2-1 v Chelsea | Premier League | London | xG 2.05-0.39
+2026-08-31 A 1-0 v Aston Villa | Premier League | Birmingham
+2026-08-21 H 3-0 v Coventry | Premier League | London
+2026-08-16 H 3-0 v Manchester City | Community Shield | Cardiff
+2026-08-12 H 1-1 v Como | Friendlies Clubs | London [PEN, 90-min score shown]
+2026-08-09 H 2-3 v Borussia Dortmund | Emirates Cup | London
+2026-08-05 H 1-3 v Real Betis | Friendlies Clubs | Dublin
+2026-08-01 A 4-1 v Girona | Friendlies Clubs | Girona
+2026-05-30 A 1-1 v Paris Saint Germain | UEFA Champions League | Budapest [PEN, 90-min score shown]
+2026-05-24 A 2-1 v Crystal Palace | Premier League | London
+2026-05-18 H 1-0 v Burnley | Premier League | London
+Listed home: 10 games, scored 20 (2.00), conceded 9 (0.90), blanks 0, clean sheets 5
+Listed away: 10 games, scored 18 (1.80), conceded 10 (1.00), blanks 1, clean sheets 4
+All: 20 games, scored 38 (1.90), conceded 19 (0.95), blanks 1, clean sheets 9
 
 TABLE FOR Fleetwood Town
 LEAGUE TABLE League Two 2026 | 24 teams | 150 games played
@@ -81,19 +83,29 @@ League averages per game: home 1.53, away 1.08, total 2.61
 24  Crawley Town             6 |  6   6-12      |  5   6-9       | 11  12-21
 
 TABLE FOR Arsenal
-LEAGUE TABLE Division d'Honneur 2021 | 10 teams | 5 games played
-League averages per game: home 2.20, away 1.20, total 3.40
+LEAGUE TABLE Premier League 2026 | 20 teams | 80 games played
+League averages per game: home 1.51, away 1.26, total 2.77
 #   team                   Pts | home P GF-GA  | away P GF-GA  | all P GF-GA
-1   La Gauloise             29 |  1   4-3       |  0   0-0       |  9  15-6
-2   Arsenal                 25 |  1   0-0       |  0   0-0       |  9  16-7
-3   Dynamo Le Moule         22 |  0   0-0       |  1   3-3       |  9  18-16
-4   USBM                    21 |  0   0-0       |  1   3-4       |  9  23-17
-5   Vieux-Habitants         21 |  0   0-0       |  1   0-0       |  9  17-15
-6   Racing Club             21 |  1   0-0       |  0   0-0       |  9  13-14
-7   Stade Lamentinois       20 |  1   3-3       |  0   0-0       |  9  15-22
-8   CERFA                   18 |  1   4-0       |  0   0-0       |  9  14-20
-9   Club Amical             17 |  0   0-0       |  1   0-0       |  9   4-7
-10  Sport St. François      14 |  0   0-0       |  1   0-4       |  9   7-18
+1   Manchester City         21 |  4  11-6       |  4   9-3       |  8  20-9
+2   Arsenal                 21 |  4   9-2       |  4   4-3       |  8  13-5
+3   Brighton                16 |  4  13-1       |  4  10-6       |  8  23-7
+4   Liverpool               15 |  4   4-5       |  4   7-3       |  8  11-8
+5   Chelsea                 13 |  4  11-8       |  4   6-7       |  8  17-15
+6   Brentford               11 |  4   8-3       |  4   6-6       |  8  14-9
+7   Leeds                   11 |  4   6-3       |  4   3-3       |  8   9-6
+8   Newcastle               11 |  4   6-6       |  4   6-8       |  8  12-14
+9   Aston Villa             11 |  4   5-6       |  4   4-6       |  8   9-12
+10  Hull City               10 |  4   5-3       |  4   4-5       |  8   9-8
+11  Everton                 10 |  4   5-4       |  4   3-5       |  8   8-9
+12  Ipswich                 10 |  4   5-5       |  4   7-11      |  8  12-16
+13  Bournemouth              9 |  4   5-4       |  4   7-9       |  8  12-13
+14  Tottenham                9 |  4   5-6       |  4   3-4       |  8   8-10
+15  Fulham                   8 |  4   6-7       |  4   2-3       |  8   8-10
+16  Manchester United        7 |  4   6-7       |  4   4-6       |  8  10-13
+17  Crystal Palace           7 |  4   6-10      |  4   3-9       |  8   9-19
+18  Nottingham Forest        6 |  4   0-3       |  4   6-7       |  8   6-10
+19  Coventry                 6 |  4   4-8       |  4   2-7       |  8   6-15
+20  Sunderland               5 |  4   1-4       |  4   5-10      |  8   6-14
 
 (26 API-Football requests used)
 
