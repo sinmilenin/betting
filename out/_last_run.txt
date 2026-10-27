@@ -1,18 +1,8 @@
-RUN 2026-10-27 18:44 local | 12 match(es)
-Port Vale v Manchester City U21 -> out/Port_Vale_v_Manchester_City_U21.txt
-Gimnastica Segoviana v Cultural Leonesa -> out/Gimnastica_Segoviana_v_Cultural_Leonesa.txt
-Telstar v Almere City -> out/Telstar_v_Almere_City.txt
-    !! Almere City: Ambiguous team name "Almere City".
-Barendrecht v RKC Waalwijk -> out/Barendrecht_v_RKC_Waalwijk.txt
-Kloetinge v Cambuur -> out/Kloetinge_v_Cambuur.txt
-Helmond Sport v Willem II -> out/Helmond_Sport_v_Willem_II.txt
-Roda JC v De Graafschap -> out/Roda_JC_v_De_Graafschap.txt
-    !! Roda JC: No team found for "Roda JC".
-Rijnsburgse Boys v Den Bosch -> out/Rijnsburgse_Boys_v_Den_Bosch.txt
-Colchester U21 v QPR U21 -> out/Colchester_U21_v_QPR_U21.txt
-    !! Colchester U21: No team found for "Colchester U21".
-    !! QPR U21: No team found for "QPR U21".
-Piast Gliwice v Gornik Zabrze -> out/Piast_Gliwice_v_Gornik_Zabrze.txt
-Hunedoara v Rapid Bucuresti -> out/Hunedoara_v_Rapid_Bucuresti.txt
-Stenhousemuir v Dunfermline -> out/Stenhousemuir_v_Dunfermline.txt
-Requests used: API-Football 248, Matchbook 0
+RUN 2026-10-27 18:48 local | 5 match(es)
+Telstar v Almere City FC -> out/Telstar_v_Almere_City_FC.txt
+Roda JC Kerkrade v De Graafschap -> out/Roda_JC_Kerkrade_v_De_Graafschap.txt
+    !! Roda JC Kerkrade: No team found for "Roda JC Kerkrade".
+Colchester United U21 v Queens Park Rangers U21 -> out/Colchester_United_U21_v_Queens_Park_Rang.txt
+Roma v Cagliari -> out/Roma_v_Cagliari.txt
+Fleetwood Town v Arsenal -> out/Fleetwood_Town_v_Arsenal.txt
+Requests used: API-Football 109, Matchbook 0

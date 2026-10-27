@@ -1,0 +1,83 @@
+MATCH Colchester United U21 v Queens Park Rangers U21 | fetched 2026-10-27 18:48 local
+
+FORM DATA Colchester United U21 v Queens Park Rangers U21 | source API-Football | 2026-10-27 18:48 UTC
+H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
+
+=== Colchester United U21 (id 20083): last 20 finished games ===
+2026-10-06 H 1-2 v Swansea City U21 | Professional Development League | ?
+2026-09-29 A 0-1 v Coventry City U21 | Professional Development League | Coventry
+2026-09-25 H 2-1 v Sheffield Wednesday U21 | Professional Development League | ?
+2026-09-15 A 4-6 v Wigan Athletic U21 | Professional Development League | ?
+2026-09-01 H 3-4 v Barnsley U21 | Professional Development League | ?
+2026-08-25 A 0-7 v Bolton Wanderers Res. | Professional Development League | ?
+2026-08-14 A 4-0 v Fleetwood Town U21 | Professional Development League | ?
+2026-07-25 A 0-4 v Braintree | Friendlies Clubs | ?
+2026-04-20 A 1-3 v Bristol City U21 | Professional Development League | Failand, Somerset
+2026-04-17 A 2-2 v Charlton Athletic U21 | Professional Development League | Dartford, Kent
+2026-04-14 H 1-1 v Cardiff City U21 | Professional Development League | Tiptree
+2026-04-10 A 0-4 v Barnsley U21 | Professional Development League | Barnsley, South Yorkshire
+2026-04-03 A 0-5 v Swansea City U21 | Professional Development League | Swansea
+2026-03-31 H 2-4 v Sheffield United U21 | Professional Development League | Colchester, Essex
+2026-03-23 A 0-2 v Crewe Alexandra U21 | Professional Development League | Crewe, Cheshire
+2026-03-20 A 3-4 v Queens Park Rangers U21 | Professional Development League | London
+2026-03-17 H 2-2 v Hull City U21 | Professional Development League | Colchester, Essex
+2026-03-09 H 3-1 v Swansea City U21 | Professional Development League | Tiptree
+2026-03-05 A 2-5 v Burnley U21 | Premier League Cup | ?
+2026-02-28 A 1-4 v Brentford U21 | Professional Development League | Staines, Surrey
+Listed home: 7 games, scored 14 (2.00), conceded 15 (2.14), blanks 0, clean sheets 0
+Listed away: 13 games, scored 17 (1.31), conceded 47 (3.62), blanks 6, clean sheets 1
+All: 20 games, scored 31 (1.55), conceded 62 (3.10), blanks 6, clean sheets 1
+
+=== Queens Park Rangers U21 (id 20085): last 20 finished games ===
+2026-10-18 H 3-1 v Bristol City U21 | Professional Development League | ?
+2026-10-13 H 1-1 v Cardiff City U21 | Professional Development League | ?
+2026-10-09 A 1-5 v Southampton U21 | Premier League Cup | Southampton
+2026-10-06 H 1-5 v Coventry City U21 | Professional Development League | ?
+2026-09-28 A 2-4 v Swansea City U21 | Professional Development League | ?
+2026-09-21 A 1-3 v Bolton Wanderers Res. | Professional Development League | ?
+2026-09-13 H 4-1 v Fleetwood Town U21 | Professional Development League | ?
+2026-09-09 A 2-4 v Blackburn Rovers U21 | Premier League Cup | ?
+2026-09-01 A 1-3 v Huddersfield Town U21 | Professional Development League | ?
+2026-08-25 H 3-3 v Hull City U21 | Professional Development League | ?
+2026-08-18 A 0-2 v Peterborough United U21 | Professional Development League | ?
+2026-08-14 H 4-1 v Bolton Wanderers Res. | Premier League Cup | ?
+2026-07-21 A 0-1 v Worthing | Friendlies Clubs | ?
+2026-07-14 A 4-2 v Wealdstone | Friendlies Clubs | ?
+2026-04-13 A 1-1 v Crewe Alexandra U21 | Professional Development League | Crewe, Cheshire
+2026-04-10 H 5-2 v AFC Bournemouth U21 | Professional Development League | London
+2026-03-27 H 2-3 v Wigan Athletic U21 | Professional Development League | London
+2026-03-24 A 2-3 v Huddersfield Town U21 | Professional Development League | Huddersfield, West Yorkshire
+2026-03-20 H 4-3 v Colchester United U21 | Professional Development League | London
+2026-03-17 H 0-2 v Sheffield United U21 | Professional Development League | London
+Listed home: 10 games, scored 27 (2.70), conceded 22 (2.20), blanks 1, clean sheets 0
+Listed away: 10 games, scored 14 (1.40), conceded 28 (2.80), blanks 2, clean sheets 0
+All: 20 games, scored 41 (2.05), conceded 50 (2.50), blanks 3, clean sheets 0
+
+TABLE FOR Colchester United U21
+LEAGUE TABLE Professional Development League 2026 | 17 teams | 66 games played
+League averages per game: home 2.06, away 1.94, total 4.00
+#   team                   Pts | home P GF-GA  | away P GF-GA  | all P GF-GA
+1   Bolton Wanderers Res.   21 |  4  15-8       |  5   9-4       |  9  24-12
+2   Fleetwood Town U21      19 |  5   8-8       |  4   5-5       |  9  13-13
+3   Swansea City U21        15 |  5  11-9       |  4   5-5       |  9  16-14
+4   Coventry City U21       13 |  4   9-5       |  3   8-6       |  7  17-11
+5   Sheffield United U21    13 |  3   3-2       |  5  10-6       |  8  13-8
+6   Cardiff City U21        12 |  3   7-2       |  4  11-7       |  7  18-9
+7   Huddersfield Town U21   12 |  1   3-1       |  5  16-10      |  6  19-11
+8   Bristol City U21        12 |  5  14-8       |  3   5-7       |  8  19-15
+9   Peterborough United U2  11 |  5   7-10      |  3   9-11      |  8  16-21
+10  Wigan Athletic U21      10 |  5  13-15      |  4   7-10      |  9  20-25
+11  Charlton Athletic U21    9 |  5   9-8       |  4   7-11      |  9  16-19
+12  Barnsley U21             8 |  4   5-12      |  4  11-11      |  8  16-23
+13  Queens Park Rangers U2   8 |  5  12-11      |  4   4-12      |  9  16-23
+14  Sheffield Wednesday U2   7 |  4   9-9       |  4   4-7       |  8  13-16
+15  Colchester United U21    6 |  3   6-7       |  4   8-14      |  7  14-21
+16  Hull City U21            5 |  3   3-6       |  3   6-7       |  6   9-13
+17  Millwall U21             3 |  2   2-7       |  3   3-3       |  5   5-10
+
+(Queens Park Rangers U21: same table as Colchester United U21, shown above)
+
+(25 API-Football requests used)
+
+----------------------------------------------------------------------
+MATCHBOOK: skipped (switched off for this run)
