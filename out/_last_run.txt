@@ -1,5 +1,4 @@
-RUN 2026-10-27 19:32 local | 3 match(es)
-Wealdstone v Solihull Moors -> out/Wealdstone_v_Solihull_Moors.txt
-Tudelano v Zaragoza -> out/Tudelano_v_Zaragoza.txt
-Recreativo Huelva v Rayo Vallecano -> out/Recreativo_Huelva_v_Rayo_Vallecano.txt
-Requests used: API-Football 77, Matchbook 0
+RUN 2026-10-27 19:57 local | 1 match(es)
+Sporting Lisbon v Maritimo -> out/Sporting_Lisbon_v_Maritimo.txt
+    !! Sporting Lisbon: No team found for "Sporting Lisbon".
+Requests used: API-Football 14, Matchbook 0
