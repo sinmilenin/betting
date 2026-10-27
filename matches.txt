@@ -1,5 +1,4 @@
-# Scan 27.10.2026 12:16 run 1
-Gornik Leczna v GKS Katowice | n=20 | xg=10
-Adana Adaletgucu v Ankaragucu | n=20 | xg=10
-Ratchaburi v Kashiwa Reysol | n=20 | xg=10
-Beijing Guoan v Jeonbuk Motors | n=20 | xg=10
+# Scan 27.10.2026 13:05 run 1
+Abha v Al Faisaly | n=20 | xg=10
+Sabail FK v Zira | n=20 | xg=10
+Səbail v Zira | n=20 | xg=10
