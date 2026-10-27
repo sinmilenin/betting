@@ -1,0 +1,68 @@
+MATCH Entella v Avellino | fetched 2026-10-27 13:11 local
+
+FORM DATA Entella v Avellino | source API-Football | 2026-10-27 13:11 UTC
+H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
+
+"Entella" matches several teams. Use id:<number> instead of the name:
+  id:527    Virtus Entella (Italy)
+  id:15688  Virtus Entella U19 (Italy)
+=== Avellino (id 528): last 20 finished games ===
+2026-10-24 H 0-1 v Padova | Serie B | Avellino | xG 2.10-0.80
+2026-10-18 A 1-1 v Cesena | Serie B | Cesena | xG 1.13-2.09
+2026-10-09 H 4-1 v Sampdoria | Serie B | Avellino | xG 2.27-0.52
+2026-09-19 A 1-3 v Ascoli | Serie B | Ascoli Piceno | xG 0.85-1.06
+2026-09-13 H 1-1 v Palermo | Serie B | Avellino | xG 1.87-0.55
+2026-09-06 A 1-0 v Modena | Serie B | Modena | xG 0.46-1.91
+2026-08-29 H 3-0 v Vicenza Virtus | Serie B | Avellino | xG 1.56-1.33
+2026-08-22 H 1-2 v Arezzo | Serie B | Avellino | xG 0.69-1.51
+2026-08-14 A 0-3 v Monza | Coppa Italia | Monza
+2026-08-08 H 1-1 v Torino | Friendlies Clubs | ? [PEN, 90-min score shown]
+2026-08-01 A 3-6 v Lazio | Friendlies Clubs | ?
+2026-07-26 A 5-0 v Sambenedettese | Friendlies Clubs | ?
+2026-07-22 H 3-1 v Scafatese | Friendlies Clubs | ?
+2026-05-12 A 0-3 v Catanzaro | Serie B | Catanzaro
+2026-05-08 H 1-0 v Modena | Serie B | Avellino
+2026-05-01 A 0-1 v Empoli | Serie B | Empoli
+2026-04-24 H 2-0 v Bari | Serie B | Avellino
+2026-04-18 A 2-0 v Mantova | Serie B | Mantova
+2026-04-11 H 1-1 v Catanzaro | Serie B | Avellino
+2026-04-05 A 0-2 v Palermo | Serie B | Palermo
+Listed home: 10 games, scored 17 (1.70), conceded 8 (0.80), blanks 1, clean sheets 3
+Listed away: 10 games, scored 13 (1.30), conceded 19 (1.90), blanks 4, clean sheets 3
+All: 20 games, scored 30 (1.50), conceded 27 (1.35), blanks 5, clean sheets 6
+
+(retrying Entella using the opponent's country, Italy)
+"Entella" matches several teams. Use id:<number> instead of the name:
+  id:527    Virtus Entella (Italy)
+  id:15688  Virtus Entella U19 (Italy)
+!! Entella: Ambiguous team name "Entella".
+
+TABLE FOR Avellino
+LEAGUE TABLE Serie B 2026 | 20 teams | 80 games played
+League averages per game: home 1.35, away 1.35, total 2.70
+#   team                   Pts | home P GF-GA  | away P GF-GA  | all P GF-GA
+1   Palermo                 22 |  4   8-3       |  4  10-5       |  8  18-8
+2   Mantova                 17 |  4   7-5       |  4   7-3       |  8  14-8
+3   Modena                  16 |  4   8-4       |  4   7-4       |  8  15-8
+4   Ascoli                  15 |  4   6-3       |  4   8-3       |  8  14-6
+5   Benevento               14 |  5   9-6       |  3   4-1       |  8  13-7
+6   Pisa                    14 |  4   6-7       |  4   9-3       |  8  15-10
+7   Sudtirol                13 |  5   5-2       |  3   5-5       |  8  10-7
+8   Avellino                11 |  5   9-5       |  3   3-4       |  8  12-9
+9   Padova                  10 |  4   3-5       |  4   4-5       |  8   7-10
+10  Arezzo                  10 |  4   3-10      |  4   5-7       |  8   8-17
+11  Hellas Verona            9 |  5  11-6       |  3   4-7       |  8  15-13
+12  Virtus Entella           9 |  4   4-6       |  4   6-3       |  8  10-9
+13  Vicenza Virtus           9 |  3   4-6       |  5   7-9       |  8  11-15
+14  Juve Stabia              8 |  3   4-4       |  5   5-4       |  8   9-8
+15  Cesena                   8 |  4   5-5       |  4   3-7       |  8   8-12
+16  Empoli                   7 |  4   3-7       |  4   4-6       |  8   7-13
+17  Carrarese                7 |  4   3-5       |  4   4-4       |  8   7-9
+18  Cremonese                6 |  4   3-5       |  4   3-6       |  8   6-11
+19  Sampdoria                5 |  3   4-5       |  5   4-11      |  8   8-16
+20  Catanzaro                4 |  3   3-9       |  5   6-11      |  8   9-20
+
+(14 API-Football requests used)
+
+----------------------------------------------------------------------
+MATCHBOOK: skipped (switched off for this run)

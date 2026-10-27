@@ -1,0 +1,66 @@
+MATCH AIK Stockholm v Elfsborg | fetched 2026-10-27 13:11 local
+
+FORM DATA AIK Stockholm v Elfsborg | source API-Football | 2026-10-27 13:11 UTC
+H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
+
+=== AIK Stockholm (id 377): last 20 finished games ===
+2026-10-24 A 2-1 v Sirius | Allsvenskan | Uppsala | xG 1.65-2.69
+2026-10-17 H 2-2 v IFK Goteborg | Allsvenskan | Solna | xG 2.02-0.95
+2026-10-10 H 5-6 v IF Brommapojkarna | Allsvenskan | Solna | xG 2.45-2.85
+2026-09-20 A 1-2 v Halmstad | Allsvenskan | Halmstad | xG 2.36-1.85
+2026-09-16 H 1-1 v Mjallby AIF | Allsvenskan | Solna | xG 3.18-1.84
+2026-09-12 H 1-4 v Vasteras SK FK | Allsvenskan | Solna | xG 3.23-3.67
+2026-09-07 A 0-0 v Malmo FF | Allsvenskan | Malmö | xG 0.61-1.32
+2026-08-30 H 3-2 v Hammarby FF | Allsvenskan | Solna | xG 1.91-4.26
+2026-08-20 A 3-0 v Piteå | Svenska Cupen | ?
+2026-08-16 A 3-1 v Djurgardens IF | Allsvenskan | Stockholm | xG 1.49-2.26
+2026-08-08 A 4-3 v Orgryte IS | Allsvenskan | Gothenburg
+2026-08-02 H 0-3 v Orgryte IS | Allsvenskan | Solna
+2026-07-27 A 0-0 v BK Hacken | Allsvenskan | Gothenburg
+2026-07-18 H 2-0 v Gais | Allsvenskan | Solna
+2026-07-11 A 2-1 v Mjallby AIF | Allsvenskan | Hallevik
+2026-07-05 A 2-1 v IFK Goteborg | Allsvenskan | Gothenburg
+2026-06-28 H 3-2 v Vasteras SK FK | Friendlies Clubs | ?
+2026-06-22 H 0-2 v Kalmar FF | Friendlies Clubs | ?
+2026-05-30 H 0-3 v Sirius | Allsvenskan | Solna
+2026-05-24 A 2-1 v Hammarby FF | Allsvenskan | Stockholm
+Listed home: 10 games, scored 17 (1.70), conceded 25 (2.50), blanks 3, clean sheets 1
+Listed away: 10 games, scored 19 (1.90), conceded 10 (1.00), blanks 2, clean sheets 3
+All: 20 games, scored 36 (1.80), conceded 35 (1.75), blanks 5, clean sheets 4
+
+"Elfsborg" matches several teams. Use id:<number> instead of the name:
+  id:372    IF Elfsborg (Sweden)
+  id:7899   Elfsborg U19 (Spain)
+  id:21693  Elfsborg W (Sweden)
+(retrying Elfsborg using the opponent's country, Sweden)
+"Elfsborg" matches several teams. Use id:<number> instead of the name:
+  id:372    IF Elfsborg (Sweden)
+  id:7899   Elfsborg U19 (Spain)
+  id:21693  Elfsborg W (Sweden)
+!! Elfsborg: Ambiguous team name "Elfsborg".
+
+TABLE FOR AIK Stockholm
+LEAGUE TABLE Allsvenskan 2026 | 16 teams | 200 games played
+League averages per game: home 1.59, away 1.32, total 2.92
+#   team                   Pts | home P GF-GA  | away P GF-GA  | all P GF-GA
+1   Sirius                  55 | 13  28-19      | 12  28-13      | 25  56-32
+2   Hammarby FF             49 | 12  34-7       | 13  18-14      | 25  52-21
+3   Djurgardens IF          48 | 13  32-16      | 12  20-7       | 25  52-23
+4   BK Hacken               45 | 13  25-18      | 12  22-12      | 25  47-30
+5   IF Elfsborg             42 | 13  21-9       | 12  16-15      | 25  37-24
+6   Vasteras SK FK          38 | 13  19-15      | 12  17-23      | 25  36-38
+7   Malmo FF                37 | 13  25-21      | 12  13-13      | 25  38-34
+8   AIK Stockholm           37 | 12  19-27      | 13  21-16      | 25  40-43
+9   IFK Goteborg            37 | 12  16-13      | 13  19-31      | 25  35-44
+10  IF Brommapojkarna       33 | 12  15-15      | 13  24-28      | 25  39-43
+11  Gais                    31 | 13  17-6       | 12  14-20      | 25  31-26
+12  Mjallby AIF             23 | 13  12-21      | 12  16-21      | 25  28-42
+13  Kalmar FF               22 | 12  14-20      | 13   9-21      | 25  23-41
+14  Degerfors IF            20 | 12  12-17      | 13   9-24      | 25  21-41
+15  Orgryte IS              19 | 12  21-22      | 13  10-34      | 25  31-56
+16  Halmstad                17 | 12   9-19      | 13   9-27      | 25  18-46
+
+(15 API-Football requests used)
+
+----------------------------------------------------------------------
+MATCHBOOK: skipped (switched off for this run)

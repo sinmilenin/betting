@@ -1,0 +1,62 @@
+MATCH Cherno More v Septemvri Sofia | fetched 2026-10-27 13:11 local
+
+FORM DATA Cherno More v Septemvri Sofia | source API-Football | 2026-10-27 13:11 UTC
+H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
+
+"Cherno More" matches several teams. Use id:<number> instead of the name:
+  id:851    Cherno More Varna (Bulgaria)
+  id:19891  Cherno more II (Bulgaria)
+=== Septemvri Sofia (id 856): last 20 finished games ===
+2026-10-17 A 1-1 v Lokomotiv G. Oryahovitsa | Cup | ? [AET, 90-min score shown]
+2026-10-11 H 2-3 v Dunav Ruse | First League | Sofia | xG 3.18-1.01
+2026-09-19 H 0-3 v Botev Plovdiv | First League | Sofia
+2026-09-14 A 1-2 v Ludogorets | First League | Razgrad
+2026-09-04 H 2-3 v Botev Vratsa | First League | Sofia
+2026-08-28 A 1-1 v Slavia Sofia | First League | Sofia
+2026-08-23 H 1-0 v CSKA 1948 | First League | Sofia
+2026-08-17 A 1-0 v Spartak Varna | First League | Varna
+2026-08-09 H 0-3 v CSKA Sofia | First League | Sofia
+2026-08-01 A 0-3 v Levski Sofia | First League | Sofia
+2026-07-26 A 1-2 v Lokomotiv Plovdiv | First League | Plovdiv
+2026-07-18 H 1-1 v Arda Kardzhali | First League | Sofia
+2026-07-10 A 0-1 v Ludogorets | Friendlies Clubs | ?
+2026-07-07 H 2-1 v Hebar 1918 | Friendlies Clubs | ?
+2026-07-04 H 2-3 v Slavia Sofia | Friendlies Clubs | ?
+2026-07-01 H 2-0 v Vihren | Friendlies Clubs | ?
+2026-06-27 H 3-0 v Marek | Friendlies Clubs | ?
+2026-05-28 H 2-1 v Yantra 2019 | First League | Sofia
+2026-05-22 H 1-1 v Dobrudzha | First League | Sofia
+2026-05-18 A 1-0 v Beroe | First League | Stara Zagora
+Listed home: 12 games, scored 18 (1.50), conceded 19 (1.58), blanks 2, clean sheets 3
+Listed away: 8 games, scored 6 (0.75), conceded 10 (1.25), blanks 2, clean sheets 2
+All: 20 games, scored 24 (1.20), conceded 29 (1.45), blanks 4, clean sheets 5
+
+(retrying Cherno More using the opponent's country, Bulgaria)
+"Cherno More" matches several teams. Use id:<number> instead of the name:
+  id:851    Cherno More Varna (Bulgaria)
+  id:19891  Cherno more II (Bulgaria)
+!! Cherno More: Ambiguous team name "Cherno More".
+
+TABLE FOR Septemvri Sofia
+LEAGUE TABLE First League 2026 | 14 teams | 81 games played
+League averages per game: home 1.51, away 1.15, total 2.65
+#   team                   Pts | home P GF-GA  | away P GF-GA  | all P GF-GA
+1   CSKA Sofia              30 |  6  19-5       |  6  10-4       | 12  29-9
+2   Levski Sofia            28 |  5  14-1       |  5   9-3       | 10  23-4
+3   Ludogorets              26 |  6  13-3       |  5   8-6       | 11  21-9
+4   CSKA 1948               25 |  7  18-7       |  5   7-6       | 12  25-13
+5   Botev Plovdiv           19 |  6   9-6       |  6   8-12      | 12  17-18
+6   Arda Kardzhali          17 |  5   9-5       |  6   6-12      | 11  15-17
+7   Spartak Varna           13 |  6   5-6       |  6   6-11      | 12  11-17
+8   Slavia Sofia            12 |  6   4-6       |  6   5-3       | 12   9-9
+9   Dunav Ruse              11 |  6   6-9       |  6   9-12      | 12  15-21
+10  Botev Vratsa            10 |  5   2-5       |  7   8-16      | 12  10-21
+11  Lokomotiv Sofia          9 |  6   5-11      |  6   8-9       | 12  13-20
+12  Lokomotiv Plovdiv        9 |  6   5-5       |  6   1-9       | 12   6-14
+13  Septemvri Sofia          8 |  6   6-13      |  5   4-8       | 11  10-21
+14  Cherno More Varna        6 |  5   7-11      |  6   4-11      | 11  11-22
+
+(16 API-Football requests used)
+
+----------------------------------------------------------------------
+MATCHBOOK: skipped (switched off for this run)
