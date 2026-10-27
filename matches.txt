@@ -1,2 +1,3 @@
-# Scan 27.10.2026 15:14 run 5
-Rot Weiß Essen v RB Leipzig | n=20 | xg=10
+# Scan 27.10.2026 15:58 run 1
+Arda v Levski Sofia | n=20 | xg=10
+Weiss Essen v RB Leipzig | n=20 | xg=10
