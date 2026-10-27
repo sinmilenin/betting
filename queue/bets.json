@@ -1,156 +1,46 @@
 [
   {
-    "id": "2026-10-26_santa-clara-benfica_0-3",
-    "date": "2026-10-26",
-    "ko": "19:45",
-    "match": "Santa Clara v Benfica",
-    "comp": "Portugal, Portuguese Primeira Liga",
-    "cell": "0-3",
-    "lay": 11,
-    "stake": 3,
-    "created": "2026-10-26T07:49:02+01:00"
-  },
-  {
-    "id": "2026-10-26_sevilla-osasuna_0-0",
-    "date": "2026-10-26",
-    "ko": "21:00",
-    "match": "Sevilla v Osasuna",
-    "comp": "Spain, Spanish La Liga",
-    "cell": "0-0",
-    "lay": 11,
-    "stake": 3,
-    "created": "2026-10-26T07:49:02+01:00"
-  },
-  {
-    "id": "2026-10-26_sevilla-osasuna_1-0",
-    "date": "2026-10-26",
-    "ko": "21:00",
-    "match": "Sevilla v Osasuna",
-    "comp": "Spain, Spanish La Liga",
-    "cell": "1-0",
-    "lay": 7.2,
-    "stake": 3,
-    "created": "2026-10-26T07:49:02+01:00"
-  },
-  {
-    "id": "2026-10-26_sevilla-osasuna_2-0",
-    "date": "2026-10-26",
-    "ko": "21:00",
-    "match": "Sevilla v Osasuna",
-    "comp": "Spain, Spanish La Liga",
-    "cell": "2-0",
-    "lay": 9.8,
-    "stake": 3,
-    "created": "2026-10-26T13:51:43+01:00"
-  },
-  {
-    "id": "2026-10-26_boulogne-reims_2-2",
-    "date": "2026-10-26",
-    "ko": "20:45",
-    "match": "Boulogne v Reims",
-    "comp": "France, French Ligue 2",
-    "cell": "2-2",
-    "lay": 20,
-    "stake": 3,
-    "created": "2026-10-26T13:51:43+01:00"
-  },
-  {
-    "id": "2026-10-26_al-ahli-al-gharafa_1-0",
-    "date": "2026-10-26",
-    "ko": "17:00",
-    "match": "Al Ahli v Al Gharafa",
-    "comp": "International, AFC Champions League",
-    "cell": "1-0",
-    "lay": 16.5,
-    "stake": 3,
-    "created": "2026-10-26T15:23:26+01:00"
-  },
-  {
-    "id": "2026-10-26_nk-istra-hajduk-split_1-2",
-    "date": "2026-10-26",
-    "ko": "18:00",
-    "match": "NK Istra v Hajduk Split",
-    "comp": "Croatia, Croatian HNL",
-    "cell": "1-2",
-    "lay": 9.6,
-    "stake": 3,
-    "created": "2026-10-26T16:49:33+01:00"
-  },
-  {
-    "id": "2026-10-26_viimsi-jk-flora-tallinn-ii_1-0",
-    "date": "2026-10-26",
-    "ko": "18:00",
-    "match": "Viimsi JK v Flora Tallinn II",
-    "comp": "Estonia, Estonian Esiliiga",
-    "cell": "1-0",
-    "lay": 18,
-    "stake": 3,
-    "created": "2026-10-26T16:49:33+01:00"
-  },
-  {
-    "id": "2026-10-26_acs-sepsi-osk-universitatea-craiova_1-2",
-    "date": "2026-10-26",
-    "ko": "19:00",
-    "match": "ACS Sepsi OSK v Universitatea Craiova",
-    "comp": "Romania, Romanian Liga I",
-    "cell": "1-2",
-    "lay": 9.6,
-    "stake": 3,
-    "created": "2026-10-26T16:49:33+01:00"
-  },
-  {
-    "id": "2026-10-26_kvik-rosenborg-ii_aohw",
-    "date": "2026-10-26",
-    "ko": "19:00",
-    "match": "Kvik v Rosenborg II",
-    "comp": "Norway, Norwegian 3rd Division",
-    "cell": "AOHW",
-    "lay": 4.4,
-    "stake": 3,
-    "created": "2026-10-26T16:49:33+01:00"
-  },
-  {
-    "id": "2026-10-26_maccabi-haifa-hapoel-beer-sheva_2-2",
-    "date": "2026-10-26",
-    "ko": "18:00",
-    "match": "Maccabi Haifa v Hapoel Be'er Sheva",
-    "comp": "Israel, Israeli Premier League",
-    "cell": "2-2",
-    "lay": 13,
-    "stake": 3,
-    "created": "2026-10-26T17:32:55+01:00"
-  },
-  {
-    "id": "2026-10-26_al-quadisiya-ksa-al-sadd_1-0",
-    "date": "2026-10-26",
-    "ko": "19:15",
-    "match": "Al-Quadisiya (KSA) v Al-Sadd",
-    "comp": "International, AFC Champions League",
-    "cell": "1-0",
-    "lay": 14.5,
-    "stake": 3,
-    "created": "2026-10-26T17:32:55+01:00"
-  },
-  {
-    "id": "2026-10-26_montpellier-red-star_2-2",
-    "date": "2026-10-26",
-    "ko": "20:45",
-    "match": "Montpellier v Red Star",
-    "comp": "France, French Ligue 2",
-    "cell": "2-2",
-    "lay": 16.5,
-    "stake": 3,
-    "created": "2026-10-26T19:00:56+01:00"
-  },
-  {
-    "id": "2026-10-27_juventude-nautico-pe_2-1",
+    "id": "2026-10-27_sg-sonnenhof-augsburg_0-1",
     "date": "2026-10-27",
-    "ko": "00:30",
-    "match": "Juventude v Nautico PE",
-    "comp": "Brazil, Brazilian Serie B",
-    "cell": "2-1",
-    "lay": 10,
+    "ko": "18:00",
+    "match": "SG Sonnenhof v Augsburg",
+    "comp": "Germany, German Cup",
+    "cell": "0-1",
+    "lay": 13.5,
     "stake": 3,
-    "created": "2026-10-26T21:03:28+01:00"
+    "created": "2026-10-27T07:49:28+01:00"
+  },
+  {
+    "id": "2026-10-27_benevento-catanzaro_1-0",
+    "date": "2026-10-27",
+    "ko": "19:00",
+    "match": "Benevento v Catanzaro",
+    "comp": "Italy, Italian Serie B",
+    "cell": "1-0",
+    "lay": 10.5,
+    "stake": 3,
+    "created": "2026-10-27T07:49:28+01:00"
+  },
+  {
+    "id": "2026-10-27_al-shamal-al-hilal_0-1",
+    "date": "2026-10-27",
+    "ko": "19:15",
+    "match": "Al Shamal v Al-Hilal",
+    "comp": "International, AFC Champions League",
+    "cell": "0-1",
+    "lay": 15,
+    "stake": 3,
+    "created": "2026-10-27T07:49:28+01:00"
+  },
+  {
+    "id": "2026-10-27_sheff-wed-cambridge-utd_2-2",
+    "date": "2026-10-27",
+    "ko": "20:45",
+    "match": "Sheff Wed v Cambridge Utd",
+    "comp": "United Kingdom, English Sky Bet League 1",
+    "cell": "2-2",
+    "lay": 16,
+    "stake": 3,
+    "created": "2026-10-27T07:49:28+01:00"
   }
 ]
