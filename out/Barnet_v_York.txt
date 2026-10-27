@@ -1,0 +1,90 @@
+MATCH Barnet v York | fetched 2026-10-27 18:00 local
+
+FORM DATA Barnet v York | source API-Football | 2026-10-27 18:00 UTC
+H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
+
+=== Barnet (id 1369): last 20 finished games ===
+2026-10-24 H 1-1 v Oldham | League Two | London | xG 1.44-2.51
+2026-10-20 H 1-3 v Swindon Town | League Two | London | xG 3.42-1.46
+2026-10-17 A 2-1 v Tranmere | League Two | Wirral | xG 3.43-1.37
+2026-10-10 A 3-1 v Bristol Rovers | League Two | Bristol | xG 2.65-2.39
+2026-10-06 A 0-0 v AFC Wimbledon | EFL Trophy | Wimbledon [PEN, 90-min score shown]
+2026-09-19 H 3-1 v Fleetwood Town | League Two | London | xG 3.79-2.13
+2026-09-12 H 2-1 v Accrington ST | League Two | London | xG 1.79-0.85
+2026-09-05 A 3-3 v Chesterfield | League Two | Chesterfield | xG 3.50-2.15
+2026-09-01 A 1-1 v Exeter City | League Two | Exeter | xG 1.12-1.51
+2026-08-29 H 2-2 v Cheltenham | League Two | London | xG 1.99-1.37
+2026-08-22 A 3-1 v Shrewsbury | League Two | Shrewsbury
+2026-08-18 H 5-1 v Arsenal U21 | EFL Trophy | London
+2026-08-15 H 3-1 v Salford City | League Two | London
+2026-08-08 A 1-2 v Cambridge United | League Cup | Cambridge
+2026-08-01 H 1-1 v Bromley | Friendlies Clubs | ?
+2026-07-28 H 0-0 v Milton Keynes Dons | Friendlies Clubs | ?
+2026-07-25 H 1-2 v Oxford United | Friendlies Clubs | ?
+2026-07-18 H 2-2 v Luton | Friendlies Clubs | ?
+2026-07-14 H 2-2 v Watford | Friendlies Clubs | ?
+2026-07-11 A 2-1 v Hemel Hempstead Town | Friendlies Clubs | ?
+Listed home: 12 games, scored 23 (1.92), conceded 17 (1.42), blanks 1, clean sheets 1
+Listed away: 8 games, scored 15 (1.88), conceded 10 (1.25), blanks 1, clean sheets 1
+All: 20 games, scored 38 (1.90), conceded 27 (1.35), blanks 2, clean sheets 2
+
+=== York (id 1828): last 20 finished games ===
+2026-10-24 H 2-0 v Port Vale | League Two | York | xG 1.21-0.71
+2026-10-20 H 1-1 v Accrington ST | League Two | York | xG 1.87-1.05
+2026-10-17 A 1-1 v Newport County | League Two | Newport | xG 1.09-1.04
+2026-10-10 H 1-1 v Northampton | League Two | York | xG 1.91-1.71
+2026-09-26 H 3-0 v Gillingham | League Two | York
+2026-09-22 H 1-1 v Rotherham | EFL Trophy | York [PEN, 90-min score shown]
+2026-09-19 A 0-2 v Chesterfield | League Two | Chesterfield | xG 0.51-3.33
+2026-09-15 H 1-3 v Newcastle United U21 | EFL Trophy | York
+2026-09-12 H 4-0 v Swindon Town | League Two | York | xG 3.08-1.01
+2026-09-05 A 1-1 v Crewe | League Two | Crewe | xG 3.39-1.89
+2026-09-01 A 2-3 v Cheltenham | League Two | Cheltenham
+2026-08-29 H 2-1 v Exeter City | League Two | York
+2026-08-22 A 1-1 v Rotherham | League Two | Rotherham
+2026-08-15 H 3-2 v Bristol Rovers | League Two | York
+2026-08-03 H 0-2 v Crawley Town | League Cup | York
+2026-07-28 H 1-2 v Peterborough | Friendlies Clubs | ?
+2026-07-24 H 2-2 v Al-Ettifaq | Friendlies Clubs | ?
+2026-07-18 H 1-5 v Sunderland | Friendlies Clubs | ?
+2026-07-14 A 2-4 v Pickering Town | Friendlies Clubs | ?
+2026-07-11 H 2-1 v Barnsley | Friendlies Clubs | ?
+Listed home: 14 games, scored 24 (1.71), conceded 21 (1.50), blanks 1, clean sheets 3
+Listed away: 6 games, scored 7 (1.17), conceded 12 (2.00), blanks 1, clean sheets 0
+All: 20 games, scored 31 (1.55), conceded 33 (1.65), blanks 2, clean sheets 3
+
+TABLE FOR Barnet
+LEAGUE TABLE League Two 2026 | 24 teams | 150 games played
+League averages per game: home 1.53, away 1.08, total 2.61
+#   team                   Pts | home P GF-GA  | away P GF-GA  | all P GF-GA
+1   Salford City            28 |  6   7-3       |  7  16-11      | 13  23-14
+2   Barnet                  22 |  6  12-9       |  5  12-7       | 11  24-16
+3   Cheltenham              21 |  7  14-10      |  6   8-12      | 13  22-22
+4   Crewe                   21 |  6  11-7       |  7   5-9       | 13  16-16
+5   York                    20 |  7  16-5       |  5   5-8       | 12  21-13
+6   Walsall                 19 |  6  10-6       |  6   8-5       | 12  18-11
+7   Chesterfield            19 |  7  16-9       |  6   7-8       | 13  23-17
+8   Exeter City             19 |  7   8-2       |  6   2-5       | 13  10-7
+9   Accrington ST           18 |  6  12-7       |  7  10-9       | 13  22-16
+10  Shrewsbury              18 |  6   7-6       |  7   9-14      | 13  16-20
+11  Grimsby                 17 |  6   8-6       |  7  11-10      | 13  19-16
+12  Gillingham              17 |  7   8-9       |  6  10-9       | 13  18-18
+13  Tranmere                16 |  6   9-6       |  7   7-10      | 13  16-16
+14  Swindon Town            16 |  6  10-6       |  7   3-10      | 13  13-16
+15  Bristol Rovers          16 |  7  11-8       |  6   5-12      | 13  16-20
+16  Newport County          15 |  6  10-5       |  7   6-11      | 13  16-16
+17  Rochdale                15 |  7  10-13      |  6   5-9       | 13  15-22
+18  Fleetwood Town          14 |  6   7-4       |  7   8-13      | 13  15-17
+19  Northampton             13 |  6   4-3       |  5   4-5       | 11   8-8
+20  Oldham                  12 |  6  11-7       |  6   3-11      | 12  14-18
+21  Colchester              12 |  5   5-3       |  7   6-13      | 12  11-16
+22  Rotherham               12 |  7  13-15      |  6   4-8       | 13  17-23
+23  Port Vale               12 |  5   4-1       |  6   2-11      | 11   6-12
+24  Crawley Town             6 |  6   6-12      |  5   6-9       | 11  12-21
+
+(York: same table as Barnet, shown above)
+
+(25 API-Football requests used)
+
+----------------------------------------------------------------------
+MATCHBOOK: skipped (switched off for this run)
