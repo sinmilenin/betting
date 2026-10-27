@@ -1,5 +1,8 @@
-# Scan 27.10.2026 16:53 run 2
-Macva v Napredak | n=20 | xg=10
-Austria Vienna v TSV Hartberg | n=20 | xg=10
-UTA Arad v FC Botosani | n=20 | xg=10
-AB Copenhagen v Brondby | n=20 | xg=10
+# Scan 27.10.2026 17:26 run 1
+Kaizer Chiefs v TS Galaxy | n=20 | xg=10
+Mamelodi Sundowns v Marumo Gallants | n=20 | xg=10
+Hertha Wels v Wolfsberger AC | n=20 | xg=10
+Mantova v Cremonese | n=20 | xg=10
+Ascoli v Sampdoria | n=20 | xg=10
+Vicenza v Modena | n=20 | xg=10
+RSD Alcala v Las Palmas | n=20 | xg=10
