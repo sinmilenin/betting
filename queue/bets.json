@@ -86,5 +86,16 @@
     "lay": 20,
     "stake": 3,
     "created": "2026-10-27T14:15:39+01:00"
+  },
+  {
+    "id": "2026-10-27_asteras-tripolis-kifisia_1-0",
+    "date": "2026-10-27",
+    "ko": "16:30",
+    "match": "Asteras Tripolis v Kifisia",
+    "comp": "Greece, Greek Cup",
+    "cell": "1-0",
+    "lay": 9.2,
+    "stake": 3,
+    "created": "2026-10-27T14:37:19+01:00"
   }
 ]
