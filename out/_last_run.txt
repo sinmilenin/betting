@@ -1,3 +1,4 @@
-RUN 2026-10-27 14:19 local | 1 match(es)
-Essen v RB Leipzig -> out/Essen_v_RB_Leipzig.txt
-Requests used: API-Football 16, Matchbook 0
+RUN 2026-10-27 14:20 local | 1 match(es)
+Rot Weiß Essen v RB Leipzig -> out/Rot_Wei_Essen_v_RB_Leipzig.txt
+    !! Rot Weiß Essen: API-Football error: {"search": "The Search field may only contain alpha-numeric characters and spaces."}
+Requests used: API-Football 14, Matchbook 0
