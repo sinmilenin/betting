@@ -1,6 +1,6 @@
-MATCH Hertha Wels v Wolfsberger AC | fetched 2026-10-27 16:27 local
+MATCH WSC Hertha v Wolfsberger AC | fetched 2026-10-27 16:30 local
 
-FORM DATA Hertha Wels v Wolfsberger AC | source API-Football | 2026-10-27 16:28 UTC
+FORM DATA WSC Hertha v Wolfsberger AC | source API-Football | 2026-10-27 16:30 UTC
 H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
 
 === Wolfsberger AC (id 1025): last 20 finished games ===
@@ -28,7 +28,7 @@ Listed home: 11 games, scored 27 (2.45), conceded 17 (1.55), blanks 2, clean she
 Listed away: 9 games, scored 14 (1.56), conceded 12 (1.33), blanks 3, clean sheets 3
 All: 20 games, scored 41 (2.05), conceded 29 (1.45), blanks 5, clean sheets 5
 
-!! Hertha Wels: No team found for "Hertha Wels".
+!! WSC Hertha: No team found for "WSC Hertha".
 
 TABLE FOR Wolfsberger AC
 LEAGUE TABLE Bundesliga 2026 | 12 teams | 60 games played

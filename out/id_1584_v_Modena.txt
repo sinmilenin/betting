@@ -1,13 +1,33 @@
-MATCH Vicenza v Modena | fetched 2026-10-27 16:27 local
+MATCH id:1584 v Modena | fetched 2026-10-27 16:30 local
 
-FORM DATA Vicenza v Modena | source API-Football | 2026-10-27 16:28 UTC
+FORM DATA id:1584 v Modena | source API-Football | 2026-10-27 16:30 UTC
 H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
 
-"Vicenza" matches several teams. Use id:<number> instead of the name:
-  id:1584   Vicenza Virtus (Italy)
-  id:15687  Vicenza U19 (Italy)
-  id:19264  Real Vicenza (Italy)
-  id:26854  Vicenza Calcio Femminile (Italy)
+=== Vicenza Virtus (id 1584): last 20 finished games ===
+2026-10-23 A 2-0 v Empoli | Serie B | Empoli | xG 1.99-0.53
+2026-10-17 A 2-2 v Benevento | Serie B | Benevento | xG 1.18-1.92
+2026-10-10 H 0-3 v Pisa | Serie B | Vicenza | xG 0.61-2.74
+2026-10-03 A 1-2 v Koper | Friendlies Clubs | ?
+2026-09-20 A 1-2 v Hellas Verona | Serie B | Verona | xG 0.90-0.97
+2026-09-12 H 1-1 v Juve Stabia | Serie B | Vicenza | xG 0.57-1.50
+2026-09-06 A 2-2 v Virtus Entella | Serie B | Chiavari | xG 1.50-0.94
+2026-08-29 A 0-3 v Avellino | Serie B | Avellino | xG 1.33-1.56
+2026-08-21 H 3-2 v Catanzaro | Serie B | Vicenza | xG 1.77-1.74
+2026-08-08 H 1-1 v Catania | Coppa Italia | Vicenza [PEN, 90-min score shown]
+2026-07-25 A 2-2 v Genoa | Friendlies Clubs | ?
+2026-05-16 H 1-4 v Benevento | Serie C - Supercoppa Lega Finals | ?
+2026-05-02 A 5-2 v Arezzo | Serie C - Supercoppa Lega Finals | ?
+2026-04-25 A 6-1 v Triestina | Serie C - Girone A | Trieste
+2026-04-19 H 0-0 v Pergolettese | Serie C - Girone A | Vicenza
+2026-04-11 H 3-1 v Novara | Serie C - Girone A | Vicenza
+2026-04-03 A 0-2 v Lecco | Serie C - Girone A | Lecco
+2026-03-29 H 1-1 v Union Brescia | Serie C - Girone A | Vicenza
+2026-03-21 A 3-1 v Renate | Serie C - Girone A | Meda
+2026-03-16 H 2-1 v Inter U23 | Serie C - Girone A | Vicenza
+Listed home: 9 games, scored 12 (1.33), conceded 14 (1.56), blanks 2, clean sheets 1
+Listed away: 11 games, scored 24 (2.18), conceded 19 (1.73), blanks 2, clean sheets 1
+All: 20 games, scored 36 (1.80), conceded 33 (1.65), blanks 4, clean sheets 2
+
 === Modena (id 899): last 20 finished games ===
 2026-10-24 H 3-0 v Cesena | Serie B | Modena | xG 2.19-0.18
 2026-10-17 A 1-2 v Carrarese | Serie B | Carrara | xG 1.01-1.74
@@ -33,15 +53,7 @@ Listed home: 9 games, scored 16 (1.78), conceded 8 (0.89), blanks 3, clean sheet
 Listed away: 11 games, scored 13 (1.18), conceded 13 (1.18), blanks 3, clean sheets 2
 All: 20 games, scored 29 (1.45), conceded 21 (1.05), blanks 6, clean sheets 5
 
-(retrying Vicenza using the opponent's country, Italy)
-"Vicenza" matches several teams. Use id:<number> instead of the name:
-  id:1584   Vicenza Virtus (Italy)
-  id:15687  Vicenza U19 (Italy)
-  id:19264  Real Vicenza (Italy)
-  id:26854  Vicenza Calcio Femminile (Italy)
-!! Vicenza: Ambiguous team name "Vicenza".
-
-TABLE FOR Modena
+TABLE FOR Vicenza Virtus
 LEAGUE TABLE Serie B 2026 | 20 teams | 80 games played
 League averages per game: home 1.35, away 1.35, total 2.70
 #   team                   Pts | home P GF-GA  | away P GF-GA  | all P GF-GA
@@ -66,7 +78,9 @@ League averages per game: home 1.35, away 1.35, total 2.70
 19  Sampdoria                5 |  3   4-5       |  5   4-11      |  8   8-16
 20  Catanzaro                4 |  3   3-9       |  5   6-11      |  8   9-20
 
-(14 API-Football requests used)
+(Modena: same table as Vicenza Virtus, shown above)
+
+(25 API-Football requests used)
 
 ----------------------------------------------------------------------
 MATCHBOOK: skipped (switched off for this run)
