@@ -1,4 +1,11 @@
-# Scan 27.10.2026 13:05 run 1
-Abha v Al Faisaly | n=20 | xg=10
-Sabail FK v Zira | n=20 | xg=10
-Səbail v Zira | n=20 | xg=10
+# Scan 27.10.2026 14:10 run 1 (incl. top-20)
+Cherno More v Septemvri Sofia | n=20 | xg=10
+Narva Trans v Nomme United | n=20 | xg=10
+AIK Stockholm v Elfsborg | n=20 | xg=10
+Cesena v Empoli | n=20 | xg=10
+Entella v Avellino | n=20 | xg=10
+Padova v Sudtirol | n=20 | xg=10
+Borussia Dortmund v Werder Bremen | n=20 | xg=10
+VfL Bochum v FSV Mainz 05 | n=20 | xg=10
+Sporting CP v Maritimo | n=20 | xg=10
+Luton v Doncaster | n=20 | xg=10
