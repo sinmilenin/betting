@@ -1,6 +1,11 @@
-RUN 2026-10-27 15:57 local | 4 match(es)
-Macva v Napredak -> out/Macva_v_Napredak.txt
-Austria Vienna v TSV Hartberg -> out/Austria_Vienna_v_TSV_Hartberg.txt
-UTA Arad v FC Botosani -> out/UTA_Arad_v_FC_Botosani.txt
-AB Copenhagen v Brondby -> out/AB_Copenhagen_v_Brondby.txt
-Requests used: API-Football 102, Matchbook 0
+RUN 2026-10-27 16:27 local | 7 match(es)
+Kaizer Chiefs v TS Galaxy -> out/Kaizer_Chiefs_v_TS_Galaxy.txt
+Mamelodi Sundowns v Marumo Gallants -> out/Mamelodi_Sundowns_v_Marumo_Gallants.txt
+Hertha Wels v Wolfsberger AC -> out/Hertha_Wels_v_Wolfsberger_AC.txt
+    !! Hertha Wels: No team found for "Hertha Wels".
+Mantova v Cremonese -> out/Mantova_v_Cremonese.txt
+Ascoli v Sampdoria -> out/Ascoli_v_Sampdoria.txt
+Vicenza v Modena -> out/Vicenza_v_Modena.txt
+    !! Vicenza: Ambiguous team name "Vicenza".
+RSD Alcala v Las Palmas -> out/RSD_Alcala_v_Las_Palmas.txt
+Requests used: API-Football 155, Matchbook 0

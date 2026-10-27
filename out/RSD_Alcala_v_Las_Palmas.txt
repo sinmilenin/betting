@@ -1,0 +1,116 @@
+MATCH RSD Alcala v Las Palmas | fetched 2026-10-27 16:27 local
+
+FORM DATA RSD Alcala v Las Palmas | source API-Football | 2026-10-27 16:28 UTC
+H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
+
+=== RSD Alcalá (id 9714): last 20 finished games ===
+2026-10-24 H 1-2 v SS Reyes | Segunda División RFEF - Group 5 | ?
+2026-10-18 H 0-0 v Real Madrid III | Segunda División RFEF - Group 5 | ?
+2026-10-11 A 0-0 v Calvo Sotelo | Segunda División RFEF - Group 5 | ?
+2026-10-04 H 1-3 v Navalcarnero | Segunda División RFEF - Group 5 | ?
+2026-09-27 A 0-3 v Salamanca UDS | Segunda División RFEF - Group 5 | ?
+2026-09-20 H 5-2 v Gimnástica Segoviana | Segunda División RFEF - Group 5 | ?
+2026-09-13 A 1-2 v Guadalajara | Segunda División RFEF - Group 5 | Guadalajara
+2026-09-06 H 3-0 v CF Talavera | Segunda División RFEF - Group 5 | ?
+2026-08-19 H 1-1 v Gimnástica Segoviana | Friendlies Clubs | ?
+2026-05-03 H 1-2 v CD Coria | Segunda División RFEF - Group 5 | Alcalá de Henares
+2026-04-26 A 0-0 v Quintanar del Rey | Segunda División RFEF - Group 5 | Quintanar del Rey
+2026-04-19 H 3-0 v Rayo Vallecano II | Segunda División RFEF - Group 5 | Alcalá de Henares
+2026-04-12 A 2-0 v Fuenlabrada | Segunda División RFEF - Group 5 | Fuenlabrada
+2026-04-05 H 2-1 v Las Palmas II | Segunda División RFEF - Group 5 | Alcalá de Henares
+2026-03-29 A 2-1 v Rayo Majadahonda | Segunda División RFEF - Group 5 | Majadahonda
+2026-03-22 H 1-0 v Navalcarnero | Segunda División RFEF - Group 5 | Alcalá de Henares
+2026-03-15 A 0-3 v Tenerife II | Segunda División RFEF - Group 5 | San Cristóbal de La Laguna (Tenerife)
+2026-03-07 H 2-0 v Elche II | Segunda División RFEF - Group 5 | Alcalá de Henares
+2026-03-01 H 3-1 v Socuéllamos | Segunda División RFEF - Group 5 | Alcalá de Henares
+2026-02-22 A 2-2 v Real Madrid III | Segunda División RFEF - Group 5 | Madrid
+Listed home: 12 games, scored 23 (1.92), conceded 12 (1.00), blanks 1, clean sheets 5
+Listed away: 8 games, scored 7 (0.88), conceded 11 (1.38), blanks 4, clean sheets 3
+All: 20 games, scored 30 (1.50), conceded 23 (1.15), blanks 5, clean sheets 8
+
+"Las Palmas" matches several teams. Use id:<number> instead of the name:
+  id:534    Las Palmas (Spain)
+  id:9574   Las Palmas II (Spain)
+  id:9798   Las Palmas III (Spain)
+  id:12258  Las Palmas (Peru)
+(retrying Las Palmas using the opponent's country, Spain)
+NOTE: "Las Palmas" matched 2 teams; picked Las Palmas (Spain) because the opponent is from Spain. Others: Las Palmas (Peru)
+=== Las Palmas (id 534): last 20 finished games ===
+2026-10-24 H 1-0 v Real Sociedad II | Segunda División | Las Palmas de Gran Canaria | xG 1.09-0.92
+2026-10-17 H 0-3 v Castellón | Segunda División | Las Palmas | xG 0.23-2.70
+2026-10-11 A 1-3 v Mallorca | Segunda División | Palma de Mallorca | xG 0.60-0.77
+2026-10-04 H 2-2 v Valladolid | Segunda División | Las Palmas
+2026-09-27 A 2-3 v Eibar | Segunda División | Eibar
+2026-09-20 H 1-2 v Burgos | Segunda División | Las Palmas | xG 0.53-1.07
+2026-09-12 A 1-0 v Cadiz | Segunda División | Cadiz | xG 2.87-0.49
+2026-09-04 H 0-0 v Leganes | Segunda División | Las Palmas de Gran Canaria | xG 0.28-1.17
+2026-08-29 A 2-5 v Girona | Segunda División | Girona | xG 0.82-2.25
+2026-08-22 A 2-0 v AD Ceuta FC | Segunda División | Ceuta
+2026-08-16 H 2-1 v Albacete | Segunda División | Las Palmas de Gran Canaria
+2026-08-08 A 3-1 v Cadiz | Friendlies Clubs | ?
+2026-07-31 H 0-1 v NEOM | Friendlies Clubs | ?
+2026-07-28 H 3-2 v União de Leiria | Friendlies Clubs | ?
+2026-07-25 H 1-2 v Al-Ittihad FC | Friendlies Clubs | ?
+2026-07-22 A 0-1 v Orlando Pirates | Friendlies Clubs | ?
+2026-06-10 A 1-1 v Malaga | Segunda División | Malaga
+2026-06-07 H 0-1 v Malaga | Segunda División | Las Palmas
+2026-05-31 A 2-1 v Deportivo La Coruna | Segunda División | La Coruna
+2026-05-24 H 1-1 v Zaragoza | Segunda División | Las Palmas
+Listed home: 11 games, scored 11 (1.00), conceded 15 (1.36), blanks 4, clean sheets 2
+Listed away: 9 games, scored 14 (1.56), conceded 15 (1.67), blanks 1, clean sheets 2
+All: 20 games, scored 25 (1.25), conceded 30 (1.50), blanks 5, clean sheets 4
+
+TABLE FOR RSD Alcalá
+LEAGUE TABLE Segunda División RFEF - Group 5 2026 | 18 teams | 72 games played
+League averages per game: home 1.65, away 1.10, total 2.75
+#   team                   Pts | home P GF-GA  | away P GF-GA  | all P GF-GA
+1   Conquense               17 |  4   9-4       |  4   9-5       |  8  18-9
+2   SS Reyes                16 |  4   6-1       |  4   7-7       |  8  13-8
+3   CF Talavera             15 |  4   6-3       |  4   5-4       |  8  11-7
+4   Real Valladolid II      14 |  4  12-2       |  4   6-8       |  8  18-10
+5   A Madrid III            14 |  4   8-4       |  4   3-5       |  8  11-9
+6   Numancia                13 |  4   5-3       |  4   3-1       |  8   8-4
+7   Salamanca UDS           13 |  4   8-3       |  4   4-7       |  8  12-10
+8   Navalcarnero            12 |  3   4-5       |  5   9-7       |  8  13-12
+9   Gimnástica Segoviana    10 |  4   5-4       |  4   9-9       |  8  14-13
+10  Atlético Tordesillas     9 |  4   8-5       |  4   4-6       |  8  12-11
+11  Atlético Paso            9 |  4   4-3       |  4   5-6       |  8   9-9
+12  Guadalajara              9 |  5  15-12      |  3   1-5       |  8  16-17
+13  Albacete II              9 |  4   8-10      |  4   3-12      |  8  11-22
+14  RSD Alcalá               8 |  5  10-7       |  3   1-5       |  8  11-12
+15  Real Ávila               7 |  3   4-2       |  5   3-12      |  8   7-14
+16  Calvo Sotelo             6 |  4   1-3       |  4   4-9       |  8   5-12
+17  Getafe II                5 |  4   5-5       |  4   3-8       |  8   8-13
+18  Real Madrid III          5 |  4   1-3       |  4   0-3       |  8   1-6
+
+TABLE FOR Las Palmas
+LEAGUE TABLE Segunda División 2026 | 22 teams | 121 games played
+League averages per game: home 1.57, away 1.13, total 2.70
+#   team                   Pts | home P GF-GA  | away P GF-GA  | all P GF-GA
+1   Castellón               26 |  5  12-1       |  6  10-3       | 11  22-4
+2   Almeria                 25 |  6  15-5       |  5   7-4       | 11  22-9
+3   Eibar                   22 |  5   9-6       |  6  11-7       | 11  20-13
+4   Girona                  21 |  7  16-6       |  4   6-4       | 11  22-10
+5   Granada CF              20 |  5   9-5       |  6   9-9       | 11  18-14
+6   Burgos                  20 |  6  10-6       |  5   6-6       | 11  16-12
+7   Mallorca                19 |  5  10-2       |  6   3-4       | 11  13-6
+8   Sporting Gijon          19 |  6   6-6       |  5   5-7       | 11  11-13
+9   Oviedo                  18 |  5   5-2       |  6  10-10      | 11  15-12
+10  Sabadell                17 |  5   8-4       |  6   3-5       | 11  11-9
+11  Cordoba                 15 |  5   8-8       |  6   9-12      | 11  17-20
+12  Tenerife                14 |  5   5-3       |  6   8-12      | 11  13-15
+13  Eldense                 14 |  5   9-6       |  6   4-9       | 11  13-15
+14  Las Palmas              14 |  6   6-8       |  5   8-11      | 11  14-19
+15  Valladolid              12 |  5  11-7       |  6   5-9       | 11  16-16
+16  Celta de Vigo II        12 |  6  11-11      |  5   5-10      | 11  16-21
+17  Leganes                 12 |  5   5-6       |  6   2-10      | 11   7-16
+18  Cadiz                   10 |  7   9-6       |  4   5-8       | 11  14-14
+19  FC Andorra              10 |  6  10-11      |  5   5-9       | 11  15-20
+20  Real Sociedad II         8 |  5   5-10      |  6   9-12      | 11  14-22
+21  AD Ceuta FC              5 |  6   6-10      |  5   4-15      | 11  10-25
+22  Albacete                 4 |  5   5-8       |  6   3-14      | 11   8-22
+
+(27 API-Football requests used)
+
+----------------------------------------------------------------------
+MATCHBOOK: skipped (switched off for this run)
