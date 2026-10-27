@@ -1,7 +1,32 @@
-MATCH WSC Hertha v Wolfsberger AC | fetched 2026-10-27 16:30 local
+MATCH Wels v Wolfsberger AC | fetched 2026-10-27 16:32 local
 
-FORM DATA WSC Hertha v Wolfsberger AC | source API-Football | 2026-10-27 16:30 UTC
+FORM DATA Wels v Wolfsberger AC | source API-Football | 2026-10-27 16:32 UTC
 H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
+
+=== Wels (id 8252): last 20 finished games ===
+2024-06-07 A 0-9 v Oedt | Landesliga - Oberosterreich | Traun/Oedt
+2024-06-01 H 0-6 v Grün Weiß Micheldorf | Landesliga - Oberosterreich | Wels
+2024-05-25 H 0-3 v Weißkirchen / Allhaming | Landesliga - Oberosterreich | Wels
+2024-05-17 A 0-2 v Wohnbau Dietach | Landesliga - Oberosterreich | Dietach
+2024-05-09 H 2-2 v Union Perg | Landesliga - Oberosterreich | Wels
+2024-05-04 A 0-5 v St. Valentin | Landesliga - Oberosterreich | St. Valentin
+2024-04-27 H 0-3 v Mondsee | Landesliga - Oberosterreich | Wels
+2024-04-19 A 0-2 v Union Edelweiß | Landesliga - Oberosterreich | Linz
+2024-04-13 H 1-3 v Bad Ischl | Landesliga - Oberosterreich | Wels
+2024-04-05 A 1-3 v Ostermiething | Landesliga - Oberosterreich | Ostermiething
+2024-03-30 H 1-2 v St. Martin i.M. | Landesliga - Oberosterreich | Wels
+2024-03-22 A 0-6 v Vortuna Bad Leonfelden | Landesliga - Oberosterreich | Bad Leonfelden
+2024-03-16 H 1-2 v Friedburg / Pöndorf | Landesliga - Oberosterreich | Wels
+2024-03-09 A 0-1 v Bad Schallerbach | Landesliga - Oberosterreich | Bad Schallerbach
+2024-03-02 H 1-2 v Pregarten | Landesliga - Oberosterreich | Wels
+2023-11-10 H 0-4 v Oedt | Landesliga - Oberosterreich | Wels
+2023-11-04 A 0-1 v Grün Weiß Micheldorf | Landesliga - Oberosterreich | Micheldorf
+2023-10-27 A 0-4 v Weißkirchen / Allhaming | Landesliga - Oberosterreich | Weißkirchen
+2023-10-21 H 2-0 v Wohnbau Dietach | Landesliga - Oberosterreich | Wels
+2023-10-13 A 1-2 v Union Perg | Landesliga - Oberosterreich | Perg
+Listed home: 10 games, scored 8 (0.80), conceded 27 (2.70), blanks 4, clean sheets 1
+Listed away: 10 games, scored 2 (0.20), conceded 35 (3.50), blanks 8, clean sheets 0
+All: 20 games, scored 10 (0.50), conceded 62 (3.10), blanks 12, clean sheets 1
 
 === Wolfsberger AC (id 1025): last 20 finished games ===
 2026-10-24 A 0-1 v TSV Hartberg | Bundesliga | Hartberg | xG 0.70-1.27
@@ -28,7 +53,7 @@ Listed home: 11 games, scored 27 (2.45), conceded 17 (1.55), blanks 2, clean she
 Listed away: 9 games, scored 14 (1.56), conceded 12 (1.33), blanks 3, clean sheets 3
 All: 20 games, scored 41 (2.05), conceded 29 (1.45), blanks 5, clean sheets 5
 
-!! WSC Hertha: No team found for "WSC Hertha".
+(no league table available for Wels: tried Landesliga - Oberosterreich 2023)
 
 TABLE FOR Wolfsberger AC
 LEAGUE TABLE Bundesliga 2026 | 12 teams | 60 games played
@@ -47,7 +72,7 @@ League averages per game: home 1.90, away 1.28, total 3.18
 11  Austria Vienna           7 |  4   2-6       |  6   8-14      | 10  10-20
 12  Wolfsberger AC           5 |  5   5-9       |  5   2-10      | 10   7-19
 
-(14 API-Football requests used)
+(26 API-Football requests used)
 
 ----------------------------------------------------------------------
 MATCHBOOK: skipped (switched off for this run)
