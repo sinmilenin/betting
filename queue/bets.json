@@ -174,5 +174,126 @@
     "lay": 10,
     "stake": 3,
     "created": "2026-10-27T19:03:50+01:00"
+  },
+  {
+    "id": "2026-10-27_port-vale-man-city-u21_2-2",
+    "date": "2026-10-27",
+    "ko": "20:00",
+    "match": "Port Vale v Man City U21",
+    "comp": "United Kingdom, EFL Trophy",
+    "cell": "2-2",
+    "lay": 15,
+    "stake": 3,
+    "created": "2026-10-27T19:55:31+01:00"
+  },
+  {
+    "id": "2026-10-27_port-vale-man-city-u21_3-2",
+    "date": "2026-10-27",
+    "ko": "20:00",
+    "match": "Port Vale v Man City U21",
+    "comp": "United Kingdom, EFL Trophy",
+    "cell": "3-2",
+    "lay": 20,
+    "stake": 3,
+    "created": "2026-10-27T19:55:31+01:00"
+  },
+  {
+    "id": "2026-10-27_gimnastica-segoviana-cf-leonesa_2-2",
+    "date": "2026-10-27",
+    "ko": "20:00",
+    "match": "Gimnastica Segoviana CF v Leonesa",
+    "comp": "Spain, Spanish Copa del Rey",
+    "cell": "2-2",
+    "lay": 18.5,
+    "stake": 3,
+    "created": "2026-10-27T19:55:31+01:00"
+  },
+  {
+    "id": "2026-10-27_kloetinge-cambuur-leeuwarden_0-1",
+    "date": "2026-10-27",
+    "ko": "20:00",
+    "match": "Kloetinge v Cambuur Leeuwarden",
+    "comp": "Netherlands, Dutch Cup",
+    "cell": "0-1",
+    "lay": 19.5,
+    "stake": 3,
+    "created": "2026-10-27T19:55:31+01:00"
+  },
+  {
+    "id": "2026-10-27_helmond-sport-willem-ii_0-1",
+    "date": "2026-10-27",
+    "ko": "20:00",
+    "match": "Helmond Sport v Willem II",
+    "comp": "Netherlands, Dutch Cup",
+    "cell": "0-1",
+    "lay": 16,
+    "stake": 3,
+    "created": "2026-10-27T19:55:31+01:00"
+  },
+  {
+    "id": "2026-10-27_shrewsbury-everton-u21_2-2",
+    "date": "2026-10-27",
+    "ko": "20:00",
+    "match": "Shrewsbury v Everton U21",
+    "comp": "United Kingdom, EFL Trophy",
+    "cell": "2-2",
+    "lay": 14,
+    "stake": 3,
+    "created": "2026-10-27T19:55:31+01:00"
+  },
+  {
+    "id": "2026-10-27_blackpool-aston-villa-u21_3-0",
+    "date": "2026-10-27",
+    "ko": "20:00",
+    "match": "Blackpool v Aston Villa U21",
+    "comp": "United Kingdom, EFL Trophy",
+    "cell": "3-0",
+    "lay": 12,
+    "stake": 3,
+    "created": "2026-10-27T19:55:31+01:00"
+  },
+  {
+    "id": "2026-10-27_blackpool-aston-villa-u21_aohw",
+    "date": "2026-10-27",
+    "ko": "20:00",
+    "match": "Blackpool v Aston Villa U21",
+    "comp": "United Kingdom, EFL Trophy",
+    "cell": "AOHW",
+    "lay": 2.64,
+    "stake": 3,
+    "created": "2026-10-27T19:55:31+01:00"
+  },
+  {
+    "id": "2026-10-27_stenhousemuir-dunfermline_0-2",
+    "date": "2026-10-27",
+    "ko": "20:45",
+    "match": "Stenhousemuir v Dunfermline",
+    "comp": "United Kingdom, Scottish Championship",
+    "cell": "0-2",
+    "lay": 11.5,
+    "stake": 3,
+    "created": "2026-10-27T19:55:31+01:00"
+  },
+  {
+    "id": "2026-10-27_stenhousemuir-dunfermline_1-2",
+    "date": "2026-10-27",
+    "ko": "20:45",
+    "match": "Stenhousemuir v Dunfermline",
+    "comp": "United Kingdom, Scottish Championship",
+    "cell": "1-2",
+    "lay": 11,
+    "stake": 3,
+    "created": "2026-10-27T19:55:31+01:00"
+  },
+  {
+    "id": "2026-10-27_stenhousemuir-dunfermline_aoaw",
+    "date": "2026-10-27",
+    "ko": "20:45",
+    "match": "Stenhousemuir v Dunfermline",
+    "comp": "United Kingdom, Scottish Championship",
+    "cell": "AOAW",
+    "lay": 17.5,
+    "stake": 3,
+    "created": "2026-10-27T19:55:31+01:00"
   }
 ]
