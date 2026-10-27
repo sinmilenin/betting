@@ -1,4 +1,4 @@
-RUN 2026-10-27 07:27 local | 2 match(es)
-PSS Sleman v Borneo -> out/PSS_Sleman_v_Borneo.txt
-Kyoto Sanga v Newcastle Jets -> out/Kyoto_Sanga_v_Newcastle_Jets.txt
-Requests used: API-Football 52, Matchbook 0
+RUN 2026-10-27 08:21 local | 1 match(es)
+Simal v Araz Nakhchivan -> out/Simal_v_Araz_Nakhchivan.txt
+    !! Araz Nakhchivan: No team found for "Araz Nakhchivan".
+Requests used: API-Football 14, Matchbook 0

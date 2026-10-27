@@ -1,0 +1,51 @@
+MATCH Simal v Araz Nakhchivan | fetched 2026-10-27 08:21 local
+
+FORM DATA Simal v Araz Nakhchivan | source API-Football | 2026-10-27 08:21 UTC
+H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
+
+=== Şimal (id 25273): last 20 finished games ===
+2026-10-22 H 5-2 v Baku Sportinq | Birinci Dasta | ?
+2026-10-15 A 4-1 v Mingəçevir | Birinci Dasta | ?
+2026-10-09 H 1-1 v Xankəndi FK | Birinci Dasta | ?
+2026-09-17 H 1-4 v Şahdağ | Birinci Dasta | ?
+2026-09-11 A 1-1 v MOIK | Birinci Dasta | ?
+2026-09-04 H 1-2 v Cəbrayıl | Birinci Dasta | ?
+2026-05-27 H 2-1 v Qaradağ Lökbatan | Birinci Dasta | ?
+2026-05-21 A 3-2 v Cəbrayıl | Birinci Dasta | ?
+2026-05-14 H 0-1 v Difai Ağsu | Birinci Dasta | ?
+2026-05-06 H 1-1 v MOIK | Birinci Dasta | ?
+2026-04-29 A 0-0 v Safa Baku | Birinci Dasta | ?
+2026-04-23 H 1-0 v Baku Sportinq | Birinci Dasta | ?
+2026-04-16 A 0-4 v Səbail | Birinci Dasta | Baku
+2026-04-09 H 0-3 v Mingəçevir | Birinci Dasta | ?
+2026-04-03 A 0-1 v Şahdağ | Birinci Dasta | ?
+2026-03-19 H 0-0 v Zaqatala | Birinci Dasta | ?
+2026-03-11 H 0-2 v Safa Baku | Birinci Dasta | ?
+2026-03-05 A 4-3 v Zaqatala | Birinci Dasta | ?
+2026-02-24 H 3-2 v Cəbrayıl | Birinci Dasta | ?
+2026-02-19 H 0-1 v Şahdağ | Birinci Dasta | ?
+Listed home: 13 games, scored 15 (1.15), conceded 20 (1.54), blanks 5, clean sheets 2
+Listed away: 7 games, scored 12 (1.71), conceded 12 (1.71), blanks 3, clean sheets 1
+All: 20 games, scored 27 (1.35), conceded 32 (1.60), blanks 8, clean sheets 3
+
+!! Araz Nakhchivan: No team found for "Araz Nakhchivan".
+
+TABLE FOR Şimal
+LEAGUE TABLE Birinci Dasta 2026 | 10 teams | 30 games played
+League averages per game: home 1.77, away 1.30, total 3.07
+#   team                   Pts | home P GF-GA  | away P GF-GA  | all P GF-GA
+1   Cəbrayıl                15 |  3  11-1       |  3   6-3       |  6  17-4
+2   Şahdağ                  15 |  3   9-0       |  3   5-2       |  6  14-2
+3   MOIK                    13 |  4   7-3       |  2   5-1       |  6  12-4
+4   Səbail                  11 |  2   3-2       |  4   5-3       |  6   8-5
+5   Karvan                  10 |  2   5-1       |  4   5-6       |  6  10-7
+6   Şimal                    8 |  4   8-9       |  2   5-2       |  6  13-11
+7   Xankəndi FK              5 |  4   2-4       |  2   2-3       |  6   4-7
+8   Mingəçevir               4 |  3   3-9       |  3   2-5       |  6   5-14
+9   Zaqatala                 4 |  2   4-3       |  4   2-18      |  6   6-21
+10  Baku Sportinq            0 |  3   1-7       |  3   2-10      |  6   3-17
+
+(14 API-Football requests used)
+
+----------------------------------------------------------------------
+MATCHBOOK: skipped (switched off for this run)
