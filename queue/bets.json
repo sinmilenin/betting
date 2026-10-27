@@ -108,5 +108,49 @@
     "lay": 5.7,
     "stake": 3,
     "created": "2026-10-27T16:04:32+01:00"
+  },
+  {
+    "id": "2026-10-27_austria-wien-hartberg_1-0",
+    "date": "2026-10-27",
+    "ko": "18:00",
+    "match": "Austria Wien v Hartberg",
+    "comp": "Austria, Austrian Cup",
+    "cell": "1-0",
+    "lay": 11.0,
+    "stake": 3,
+    "created": "2026-10-27T17:35:53+01:00"
+  },
+  {
+    "id": "2026-10-27_mantova-us-cremonese_2-2",
+    "date": "2026-10-27",
+    "ko": "20:00",
+    "match": "Mantova v US Cremonese",
+    "comp": "Italy, Italian Serie B",
+    "cell": "2-2",
+    "lay": 17.0,
+    "stake": 3,
+    "created": "2026-10-27T17:35:53+01:00"
+  },
+  {
+    "id": "2026-10-27_ascoli-sampdoria_2-2",
+    "date": "2026-10-27",
+    "ko": "20:00",
+    "match": "Ascoli v Sampdoria",
+    "comp": "Italy, Italian Serie B",
+    "cell": "2-2",
+    "lay": 16.0,
+    "stake": 3,
+    "created": "2026-10-27T17:35:53+01:00"
+  },
+  {
+    "id": "2026-10-27_lr-vicenza-virtus-modena_2-2",
+    "date": "2026-10-27",
+    "ko": "20:00",
+    "match": "LR Vicenza Virtus v Modena",
+    "comp": "Italy, Italian Serie B",
+    "cell": "2-2",
+    "lay": 16.0,
+    "stake": 3,
+    "created": "2026-10-27T17:35:53+01:00"
   }
 ]
