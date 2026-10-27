@@ -1,0 +1,22 @@
+MATCH Elversberg v Darmstadt 98 | fetched 2026-10-27 17:16 local
+
+FORM DATA Elversberg v Darmstadt 98 | source API-Football | 2026-10-27 17:16 UTC
+H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
+
+"Elversberg" matches several teams. Use id:<number> instead of the name:
+  id:1660   SV Elversberg (Germany)
+  id:15740  Elversberg U19 (Germany)
+  id:16109  Elversberg II (Germany)
+  id:20477  Elversberg W (Germany)
+"Darmstadt 98" matches several teams. Use id:<number> instead of the name:
+  id:181    SV Darmstadt 98 (Germany)
+  id:14028  Darmstadt 98 U19 (Germany)
+  id:24517  Darmstadt 98 II (Germany)
+!! Elversberg: Ambiguous team name "Elversberg".
+
+!! Darmstadt 98: Ambiguous team name "Darmstadt 98".
+
+(2 API-Football requests used)
+
+----------------------------------------------------------------------
+MATCHBOOK: skipped (switched off for this run)

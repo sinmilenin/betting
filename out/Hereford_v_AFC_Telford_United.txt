@@ -1,0 +1,90 @@
+MATCH Hereford v AFC Telford United | fetched 2026-10-27 17:16 local
+
+FORM DATA Hereford v AFC Telford United | source API-Football | 2026-10-27 17:17 UTC
+H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
+
+=== Hereford (id 4692): last 20 finished games ===
+2026-10-24 A 2-1 v Macclesfield | National League - North | ?
+2026-10-10 H 0-1 v Hednesford Town | National League - North | Hereford
+2026-09-26 A 1-1 v Bedford Town | National League - North | Bedford
+2026-09-19 A 2-3 v Stafford Rangers | FA Cup | ?
+2026-09-12 H 6-0 v South Shields | National League - North | Hereford
+2026-09-08 A 3-0 v Harborough Town | National League - North | Harborough
+2026-09-05 H 2-1 v Spennymoor Town | National League - North | Hereford
+2026-08-31 A 1-0 v Southport | National League - North | Southport
+2026-08-29 H 1-1 v Chester | National League - North | Hereford
+2026-08-22 A 3-0 v Worksop Town | National League - North | Worksop
+2026-08-18 H 3-0 v Radcliffe | National League - North | Hereford
+2026-08-15 H 1-0 v Marine | National League - North | Hereford
+2026-08-08 A 1-2 v Buxton | National League - North | Buxton
+2026-08-01 A 1-0 v Bromsgrove Sporting | Friendlies Clubs | ?
+2026-07-28 H 1-1 v Shrewsbury | Friendlies Clubs | ?
+2026-07-25 H 0-3 v Solihull Moors | Friendlies Clubs | ?
+2026-07-17 A 0-2 v Bishop's Cleeve | Friendlies Clubs | ?
+2026-07-11 A 1-1 v Hereford Pegasus | Friendlies Clubs | ?
+2026-04-25 H 2-2 v Peterborough Sports | National League - North | Hereford
+2026-04-21 H 2-1 v Marine | National League - North | Hereford
+Listed home: 10 games, scored 18 (1.80), conceded 10 (1.00), blanks 2, clean sheets 3
+Listed away: 10 games, scored 15 (1.50), conceded 10 (1.00), blanks 1, clean sheets 4
+All: 20 games, scored 33 (1.65), conceded 20 (1.00), blanks 3, clean sheets 7
+
+=== AFC Telford United (id 4688): last 20 finished games ===
+2026-10-24 H 2-2 v Hebburn Town | National League - North | Telford
+2026-10-17 H 2-1 v Darlington 1883 | National League - North | Telford
+2026-10-10 A 1-2 v Chorley | National League - North | Chorley
+2026-09-26 H 0-5 v King's Lynn Town | National League - North | Telford
+2026-09-22 A 2-5 v Worksop Town | FA Cup | ?
+2026-09-19 H 2-2 v Worksop Town | FA Cup | ?
+2026-09-12 A 0-0 v Harborough Town | National League - North | Harborough
+2026-09-08 H 1-0 v Oxford City | National League - North | Telford
+2026-09-05 A 1-0 v Scarborough Athletic | National League - North | ?
+2026-08-31 H 0-1 v Bedford Town | National League - North | Telford
+2026-08-28 A 1-2 v Morecambe | National League - North | Morecambe
+2026-08-22 H 1-1 v Hednesford Town | National League - North | Telford
+2026-08-18 A 2-2 v Merthyr Town | National League - North | ?
+2026-08-15 A 1-2 v Worksop Town | National League - North | Worksop
+2026-08-08 H 1-2 v Brackley Town | National League - North | Telford
+2026-08-01 H 1-3 v Tamworth | Friendlies Clubs | ?
+2026-07-25 H 1-0 v Walsall | Friendlies Clubs | ?
+2026-07-21 H 0-3 v Crewe | Friendlies Clubs | ?
+2026-04-25 A 0-2 v Southport | National League - North | Southport, Merseyside
+2026-04-18 H 1-1 v Darlington 1883 | National League - North | Telford
+Listed home: 12 games, scored 12 (1.00), conceded 21 (1.75), blanks 3, clean sheets 2
+Listed away: 8 games, scored 8 (1.00), conceded 15 (1.88), blanks 2, clean sheets 2
+All: 20 games, scored 20 (1.00), conceded 36 (1.80), blanks 5, clean sheets 4
+
+TABLE FOR Hereford
+LEAGUE TABLE National League - North 2026 | 24 teams | 150 games played
+League averages per game: home 1.59, away 1.17, total 2.77
+#   team                   Pts | home P GF-GA  | away P GF-GA  | all P GF-GA
+1   Hereford                26 |  6  13-3       |  6  11-4       | 12  24-7
+2   Oxford City             24 |  5   9-5       |  7  13-3       | 12  22-8
+3   Macclesfield            24 |  7  13-7       |  5   5-4       | 12  18-11
+4   South Shields           23 |  6  13-5       |  6   8-13      | 12  21-18
+5   King's Lynn Town        21 |  7  10-9       |  6  12-7       | 13  22-16
+6   Hednesford Town         21 |  7  16-11      |  6   7-8       | 13  23-19
+7   Chester                 20 |  6   8-3       |  6   7-9       | 12  15-12
+8   Buxton                  20 |  6  15-7       |  7   8-16      | 13  23-23
+9   Bedford Town            19 |  5   9-6       |  7   7-10      | 12  16-16
+10  Hebburn Town            19 |  7  11-10      |  6   7-13      | 13  18-23
+11  Morecambe               17 |  5  10-3       |  7   8-9       | 12  18-12
+12  Spalding United         17 |  5   7-3       |  7   7-8       | 12  14-11
+13  Chorley                 17 |  7  16-12      |  5   4-9       | 12  20-21
+14  Worksop Town            17 |  6   7-8       |  7   8-12      | 13  15-20
+15  Marine                  16 |  7   6-6       |  5   8-7       | 12  14-13
+16  Harborough Town         16 |  7   9-7       |  5   3-6       | 12  12-13
+17  Scarborough Athletic    15 |  6   9-5       |  7  10-13      | 13  19-18
+18  Merthyr Town            15 |  7  10-10      |  6   5-6       | 13  15-16
+19  Radcliffe               15 |  6  11-9       |  7   5-12      | 13  16-21
+20  Brackley Town           15 |  7   8-8       |  6   7-16      | 13  15-24
+21  AFC Telford United      13 |  7   7-12      |  6   6-8       | 13  13-20
+22  Darlington 1883         11 |  7   7-9       |  6  10-15      | 13  17-24
+23  Southport               10 |  6   9-8       |  7   4-15      | 13  13-23
+24  Spennymoor Town          7 |  5   6-10      |  7   6-16      | 12  12-26
+
+(AFC Telford United: same table as Hereford, shown above)
+
+(25 API-Football requests used)
+
+----------------------------------------------------------------------
+MATCHBOOK: skipped (switched off for this run)
