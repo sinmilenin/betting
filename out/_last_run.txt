@@ -1,17 +1,6 @@
-RUN 2026-10-27 13:11 local | 10 match(es)
-Cherno More v Septemvri Sofia -> out/Cherno_More_v_Septemvri_Sofia.txt
-    !! Cherno More: Ambiguous team name "Cherno More".
-Narva Trans v Nomme United -> out/Narva_Trans_v_Nomme_United.txt
-    !! Narva Trans: No team found for "Narva Trans".
-    !! Nomme United: Ambiguous team name "Nomme United".
-AIK Stockholm v Elfsborg -> out/AIK_Stockholm_v_Elfsborg.txt
-    !! Elfsborg: Ambiguous team name "Elfsborg".
-Cesena v Empoli -> out/Cesena_v_Empoli.txt
-Entella v Avellino -> out/Entella_v_Avellino.txt
-    !! Entella: Ambiguous team name "Entella".
-Padova v Sudtirol -> out/Padova_v_Sudtirol.txt
-Borussia Dortmund v Werder Bremen -> out/Borussia_Dortmund_v_Werder_Bremen.txt
-VfL Bochum v FSV Mainz 05 -> out/VfL_Bochum_v_FSV_Mainz_05.txt
-Sporting CP v Maritimo -> out/Sporting_CP_v_Maritimo.txt
-Luton v Doncaster -> out/Luton_v_Doncaster.txt
-Requests used: API-Football 196, Matchbook 0
+RUN 2026-10-27 13:13 local | 4 match(es)
+id:851 v Septemvri Sofia -> out/id_851_v_Septemvri_Sofia.txt
+Trans Narva v id:10059 -> out/Trans_Narva_v_id_10059.txt
+AIK Stockholm v id:372 -> out/AIK_Stockholm_v_id_372.txt
+id:527 v Avellino -> out/id_527_v_Avellino.txt
+Requests used: API-Football 102, Matchbook 0
