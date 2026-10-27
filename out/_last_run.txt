@@ -1,4 +1,9 @@
-RUN 2026-10-27 08:21 local | 1 match(es)
-Simal v Araz Nakhchivan -> out/Simal_v_Araz_Nakhchivan.txt
-    !! Araz Nakhchivan: No team found for "Araz Nakhchivan".
-Requests used: API-Football 14, Matchbook 0
+RUN 2026-10-27 10:27 local | 4 match(es)
+Livyi Bereh v Veres Rivne -> out/Livyi_Bereh_v_Veres_Rivne.txt
+Estoril Praia U23 v Santa Clara U23 -> out/Estoril_Praia_U23_v_Santa_Clara_U23.txt
+    !! Estoril Praia U23: No team found for "Estoril Praia U23".
+Pazarspor v Aliaga -> out/Pazarspor_v_Aliaga.txt
+Etimesgut Belediyespor v Gaziantep -> out/Etimesgut_Belediyespor_v_Gaziantep.txt
+    !! Etimesgut Belediyespor: No team found for "Etimesgut Belediyespor".
+    !! Gaziantep: Ambiguous team name "Gaziantep".
+Requests used: API-Football 67, Matchbook 0

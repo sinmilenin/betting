@@ -1,0 +1,61 @@
+MATCH Estoril Praia U23 v Santa Clara U23 | fetched 2026-10-27 10:27 local
+
+FORM DATA Estoril Praia U23 v Santa Clara U23 | source API-Football | 2026-10-27 10:27 UTC
+H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
+
+=== Santa Clara U23 (id 21719): last 20 finished games ===
+2026-10-19 H 1-1 v Sporting Braga U23 | Liga Revelação U23 | ?
+2026-10-13 A 0-7 v Moreirense U23 | Liga Revelação U23 | ?
+2026-10-06 A 1-1 v União Leiria U23 | Liga Revelação U23 | Leiria
+2026-09-29 H 2-2 v Felgueiras U23 | Liga Revelação U23 | Ponta Delgada
+2026-09-22 H 0-0 v Portimonense U23 | Liga Revelação U23 | Ponta Delgada
+2026-09-15 A 1-0 v Penafiel U23 | Liga Revelação U23 | ?
+2026-09-09 H 1-0 v Farense U23 | Liga Revelação U23 | ?
+2026-06-03 H 1-2 v Gil Vicente U23 | Taça Revelação U23 | ?
+2026-05-26 A 1-2 v Gil Vicente U23 | Taça Revelação U23 | ?
+2026-05-20 A 3-3 v Benfica U23 | Taça Revelação U23 | ? [PEN, 90-min score shown]
+2026-05-16 H 0-0 v Benfica U23 | Taça Revelação U23 | ?
+2026-05-11 A 4-2 v Academico Viseu U23 | Taça Revelação U23 | ?
+2026-05-06 A 2-2 v Rio Ave U23 | Taça Revelação U23 | ? [PEN, 90-min score shown]
+2026-04-28 H 3-1 v Sporting CP U23 | Liga Revelação U23 | ?
+2026-04-21 A 1-3 v Leixões U23 | Liga Revelação U23 | ?
+2026-04-14 H 1-2 v Academico Viseu U23 | Liga Revelação U23 | ?
+2026-04-07 H 2-3 v Benfica U23 | Liga Revelação U23 | ?
+2026-03-17 A 0-1 v Torreense U23 | Liga Revelação U23 | ?
+2026-03-10 H 1-2 v Sporting Braga U23 | Liga Revelação U23 | ?
+2026-03-03 A 2-2 v Famalicão U23 | Liga Revelação U23 | ?
+Listed home: 10 games, scored 12 (1.20), conceded 13 (1.30), blanks 2, clean sheets 3
+Listed away: 10 games, scored 15 (1.50), conceded 23 (2.30), blanks 2, clean sheets 1
+All: 20 games, scored 27 (1.35), conceded 36 (1.80), blanks 4, clean sheets 4
+
+!! Estoril Praia U23: No team found for "Estoril Praia U23".
+
+TABLE FOR Santa Clara U23
+LEAGUE TABLE Liga Revelação U23 2026 | 20 teams | 89 games played
+League averages per game: home 1.47, away 1.43, total 2.90
+#   team                   Pts | home P GF-GA  | away P GF-GA  | all P GF-GA
+1   Sporting CP U23         18 |  5  10-5       |  4   7-5       |  9  17-10
+2   Academico Viseu U23     18 |  5   7-5       |  4   9-6       |  9  16-11
+3   Estoril U23             17 |  4  10-6       |  5   9-8       |  9  19-14
+4   Rio Ave U23             16 |  5   9-5       |  4   5-2       |  9  14-7
+5   Felgueiras U23          15 |  4   7-7       |  5   9-4       |  9  16-11
+6   Sporting Braga U23      14 |  5  11-12      |  5   6-4       | 10  17-16
+7   Famalicão U23           14 |  4   6-5       |  5  10-11      |  9  16-16
+8   Vizela U23              13 |  4   4-4       |  4   6-5       |  8  10-9
+9   Moreirense U23          12 |  4  10-3       |  5   8-7       |  9  18-10
+10  Farense U23             12 |  4   7-7       |  5   6-7       |  9  13-14
+11  Benfica U23             11 |  5   5-4       |  5  10-13      | 10  15-17
+12  União Leiria U23        11 |  5   4-6       |  4   5-5       |  9   9-11
+13  Leixões U23             10 |  5   9-12      |  4   8-3       |  9  17-15
+14  Santa Clara U23         10 |  4   4-3       |  3   2-8       |  7   6-11
+15  Penafiel U23             9 |  4   6-5       |  5   6-7       |  9  12-12
+16  Torreense U23            9 |  4   5-8       |  4   7-7       |  8  12-15
+17  Gil Vicente U23          8 |  4   5-7       |  5   5-7       |  9  10-14
+18  Marítimo U23             6 |  5   2-7       |  4   6-7       |  9   8-14
+19  Estrela U23              6 |  5   6-8       |  4   2-8       |  9   8-16
+20  Portimonense U23         4 |  4   4-8       |  5   1-7       |  9   5-15
+
+(14 API-Football requests used)
+
+----------------------------------------------------------------------
+MATCHBOOK: skipped (switched off for this run)

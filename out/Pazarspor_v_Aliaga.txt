@@ -1,0 +1,122 @@
+MATCH Pazarspor v Aliaga | fetched 2026-10-27 10:27 local
+
+FORM DATA Pazarspor v Aliaga | source API-Football | 2026-10-27 10:27 UTC
+H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
+
+=== Pazarspor (id 7420): last 20 finished games ===
+2026-10-24 A 0-0 v Beykoz İshaklıspor | 3. Lig - Group 1 | ?
+2026-10-18 H 1-0 v Tokat Bld Plevnespor | 3. Lig - Group 1 | ?
+2026-10-11 A 2-1 v Düzcespor | 3. Lig - Group 1 | ?
+2026-10-07 H 3-1 v Erbaaspor | Türkiye Kupası | ?
+2026-10-03 H 3-1 v Küçükçekmece Sinopspor | 3. Lig - Group 1 | ?
+2026-09-27 H 0-1 v Karabük İdman Yurdu | 3. Lig - Group 1 | ?
+2026-09-19 A 2-0 v Zonguldak Kömürspor | 3. Lig - Group 1 | ?
+2026-09-12 H 4-1 v İnkılapspor | 3. Lig - Group 1 | ?
+2026-09-06 A 0-0 v Galata | 3. Lig - Group 1 | ?
+2026-04-18 H 1-0 v Amasyaspor 1968 | 3. Lig - Group 3 | Pazar
+2026-04-12 A 1-0 v Karabük İdman Yurdu | 3. Lig - Group 3 | Karabük
+2026-04-05 H 3-3 v Zonguldak Kömürspor | 3. Lig - Group 3 | Pazar
+2026-03-29 A 0-1 v Düzcespor | 3. Lig - Group 3 | Düzce
+2026-03-25 H 0-0 v Tokat Bld Plevnespor | 3. Lig - Group 3 | Pazar
+2026-03-15 A 0-1 v Yeni Orduspor | 3. Lig - Group 3 | Ordu
+2026-03-07 H 0-0 v Giresunspor | 3. Lig - Group 3 | Pazar
+2026-03-01 H 2-1 v Yozgat Bld Bozokspor | 3. Lig - Group 3 | Pazar
+2026-02-21 A 2-0 v Fatsa Belediyespor | 3. Lig - Group 3 | Fatsa
+2026-02-15 H 1-1 v Artvin Hopaspor | 3. Lig - Group 3 | Pazar
+2026-02-09 A 3-0 v Karadeniz Ereğli BSK | 3. Lig - Group 3 | Karadeniz Ereğli
+Listed home: 11 games, scored 18 (1.64), conceded 9 (0.82), blanks 3, clean sheets 4
+Listed away: 9 games, scored 10 (1.11), conceded 3 (0.33), blanks 4, clean sheets 6
+All: 20 games, scored 28 (1.40), conceded 12 (0.60), blanks 7, clean sheets 10
+
+=== Aliağa FAŞ (id 21993): last 20 finished games ===
+2026-10-24 H 2-1 v 68 Aksaray Belediyespor | 2. Lig | ?
+2026-10-18 A 2-1 v Somaspor | 2. Lig | ?
+2026-10-10 H 1-0 v Menemen FK | 2. Lig | ?
+2026-10-03 A 4-2 v Erbaaspor | 2. Lig | ?
+2026-09-27 H 2-1 v Şanlıurfaspor | 2. Lig | ?
+2026-09-19 A 0-5 v Elazığspor | 2. Lig | ?
+2026-09-13 H 2-0 v Isparta 32 Spor | 2. Lig | ?
+2026-09-06 A 4-1 v Arnavutköy Belediyespor | 2. Lig | ?
+2026-05-04 A 0-0 v Muş Sport Klübü | 2. Lig | ? [PEN, 90-min score shown]
+2026-04-30 H 1-1 v Muş Sport Klübü | 2. Lig | ?
+2026-04-25 H 0-5 v Bursaspor | 2. Lig | Aliağa
+2026-04-19 A 1-1 v 68 Aksaray Belediyespor | 2. Lig | Aksaray
+2026-04-12 H 5-0 v Menemen FK | 2. Lig | Aliağa
+2026-04-04 A 2-1 v Kırklarelispor | 2. Lig | Kırklareli
+2026-03-29 H 1-5 v Isparta 32 Spor | 2. Lig | Aliağa
+2026-03-25 A 8-1 v Adanaspor | 2. Lig | Adana
+2026-03-14 H 3-0 v Arnavutköy Belediyespor | 2. Lig | Aliağa
+2026-03-05 H 1-3 v Gençlerbirliği S.K. | Türkiye Kupası | Izmir
+2026-02-28 H 1-0 v 1461 Trabzon FK | 2. Lig | Aliağa
+2026-02-14 H 4-0 v Muş Sport Klübü | 2. Lig | Aliağa
+Listed home: 12 games, scored 23 (1.92), conceded 16 (1.33), blanks 1, clean sheets 6
+Listed away: 8 games, scored 21 (2.62), conceded 12 (1.50), blanks 2, clean sheets 1
+All: 20 games, scored 44 (2.20), conceded 28 (1.40), blanks 3, clean sheets 7
+
+TABLE FOR Pazarspor
+LEAGUE TABLE 3. Lig - Group 1 2026 | 18 teams | 72 games played
+League averages per game: home 1.15, away 1.32, total 2.47
+#   team                   Pts | home P GF-GA  | away P GF-GA  | all P GF-GA
+1   Fatsa Belediyespor      20 |  4   7-2       |  4   8-2       |  8  15-4
+2   Pazarspor               17 |  4   8-3       |  4   4-1       |  8  12-4
+3   Küçükçekmece Sinopspor  14 |  4   4-7       |  4   9-4       |  8  13-11
+4   Galata                  13 |  4   4-3       |  4   6-3       |  8  10-6
+5   Karadeniz Ereğli BSK    13 |  4   3-4       |  4   3-1       |  8   6-5
+6   Karabük İdman Yurdu     13 |  4   3-7       |  4   8-5       |  8  11-12
+7   Kartal Bulvarspor       12 |  4   3-4       |  4  12-6       |  8  15-10
+8   Orduspor 1967           12 |  4   6-7       |  4   7-3       |  8  13-10
+9   Amasyaspor 1968         12 |  4   5-6       |  4   4-4       |  8   9-10
+10  Düzcespor               10 |  4   7-4       |  4   4-5       |  8  11-9
+11  Beykoz Anadolu           9 |  4   5-4       |  4   3-3       |  8   8-7
+12  Zonguldak Kömürspor      9 |  4   3-5       |  4   6-6       |  8   9-11
+13  Tokat Bld Plevnespor     8 |  4   3-10      |  4   6-3       |  8   9-13
+14  İnkılapspor              8 |  4   4-6       |  4   6-9       |  8  10-15
+15  Gölcükspor               7 |  4   5-4       |  4   4-7       |  8   9-11
+16  Silivrispor              7 |  4   4-3       |  4   1-6       |  8   5-9
+17  Yalova Yeşilovaspor      6 |  4   6-11      |  4   2-6       |  8   8-17
+18  Beykoz İshaklıspor       2 |  4   3-5       |  4   2-9       |  8   5-14
+
+TABLE FOR Aliağa FAŞ
+LEAGUE TABLE 2. Lig 2026 | 35 teams | 135 games played
+League averages per game: home 1.72, away 1.50, total 3.22
+#   team                   Pts | home P GF-GA  | away P GF-GA  | all P GF-GA
+1   Aliağa FAŞ              21 |  4   7-2       |  4  10-9       |  8  17-11 [Lig B: White Group]
+2   Elazığspor              19 |  4  13-4       |  4   9-3       |  8  22-7 [Lig B: White Group]
+3   Muş Sport Klübü         19 |  4  12-4       |  4  10-8       |  8  22-12 [Lig B: White Group]
+4   Güzide Gebzespor        18 |  4   7-2       |  4   7-4       |  8  14-6 [Lig B: White Group]
+5   İnegöl Kafkas Gençlik   16 |  4   7-6       |  4   7-3       |  8  14-9 [Lig B: White Group]
+6   Şanlıurfaspor           15 |  4   7-4       |  4   9-7       |  8  16-11 [Lig B: White Group]
+7   Çorluspor 1947          14 |  4   4-7       |  4  11-2       |  8  15-9 [Lig B: White Group]
+8   Isparta 32 Spor         11 |  4   8-9       |  4   8-7       |  8  16-16 [Lig B: White Group]
+9   Erbaaspor               10 |  4   9-11      |  4   8-4       |  8  17-15 [Lig B: White Group]
+10  Menemen FK              10 |  4   6-4       |  4   2-6       |  8   8-10 [Lig B: White Group]
+11  68 Aksaray Belediyespo   9 |  4   6-2       |  4   7-9       |  8  13-11 [Lig B: White Group]
+12  Ankaraspor               9 |  4   8-5       |  4   3-8       |  8  11-13 [Lig B: White Group]
+13  Somaspor                 7 |  3   5-8       |  4   5-8       |  7  10-16 [Lig B: White Group]
+14  Sebat Gençlikspor        5 |  4   7-7       |  3   4-8       |  7  11-15 [Lig B: White Group]
+15  Kastamonuspor            4 |  4   5-8       |  4   2-13      |  8   7-21 [Lig B: White Group]
+16  Arnavutköy Belediyespo   0 |  4   3-11      |  4   1-8       |  8   4-19 [Lig B: White Group]
+17  Hatayspor                0 |  4   2-8       |  4   2-6       |  8   4-14 [Lig B: White Group]
+18  Adana Demirspor          0 |  4   3-6       |  4   3-6       |  8   6-12 [Lig B: White Group]
+1   Sakaryaspor             19 |  4   7-5       |  4  11-5       |  8  18-10 [Lig B: Red Group]
+2   Yeni Orduspor           18 |  4   8-6       |  4  11-3       |  8  19-9 [Lig B: Red Group]
+3   Adana 01 FK             17 |  4  11-5       |  4   6-6       |  8  17-11 [Lig B: Red Group]
+4   Ankara Demirspor        16 |  4  18-6       |  4   7-5       |  8  25-11 [Lig B: Red Group]
+5   24 Erzincanspor         15 |  3   5-3       |  4  10-6       |  7  15-9 [Lig B: Red Group]
+6   1461 Trabzon FK         12 |  4  10-7       |  4   6-6       |  8  16-13 [Lig B: Red Group]
+7    Kahramanmaraş İstikla  11 |  4   6-4       |  4   5-7       |  8  11-11 [Lig B: Red Group]
+8   Karacabey Belediyespor  11 |  4   7-8       |  3   2-4       |  7   9-12 [Lig B: Red Group]
+9   Beyoğlu Yeni Çarşı      10 |  3   8-3       |  4   7-9       |  7  15-12 [Lig B: Red Group]
+10  12 Bingölspor           10 |  4   4-3       |  4   5-6       |  8   9-9 [Lig B: Red Group]
+11  Kütahyaspor              7 |  4   6-8       |  4   4-9       |  8  10-17 [Lig B: Red Group]
+12  Ankaragücü               6 |  4   7-5       |  3   6-4       |  7  13-9 [Lig B: Red Group]
+13  Kırklarelispor           5 |  3   4-9       |  4   2-2       |  7   6-11 [Lig B: Red Group]
+14  Fethiyespor              5 |  4   3-7       |  3   3-5       |  7   6-12 [Lig B: Red Group]
+15  İnegölspor               2 |  4   5-5       |  3   3-8       |  7   8-13 [Lig B: Red Group]
+16  Serik Spor               2 |  4   2-5       |  4   4-10      |  8   6-15 [Lig B: Red Group]
+17  İskenderunspor           0 |  3   2-6       |  4   3-18      |  7   5-24 [Lig B: Red Group]
+
+(26 API-Football requests used)
+
+----------------------------------------------------------------------
+MATCHBOOK: skipped (switched off for this run)

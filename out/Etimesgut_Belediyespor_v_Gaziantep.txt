@@ -1,0 +1,17 @@
+MATCH Etimesgut Belediyespor v Gaziantep | fetched 2026-10-27 10:27 local
+
+FORM DATA Etimesgut Belediyespor v Gaziantep | source API-Football | 2026-10-27 10:28 UTC
+H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
+
+"Gaziantep" matches several teams. Use id:<number> instead of the name:
+  id:1008   Gaziantepspor (Turkey)
+  id:3573   Gaziantep FK (Turkey)
+  id:28246  Gaziantep U19 (Turkey)
+!! Etimesgut Belediyespor: No team found for "Etimesgut Belediyespor".
+
+!! Gaziantep: Ambiguous team name "Gaziantep".
+
+(2 API-Football requests used)
+
+----------------------------------------------------------------------
+MATCHBOOK: skipped (switched off for this run)
