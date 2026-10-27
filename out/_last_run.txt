@@ -1,3 +1,7 @@
-RUN 2026-10-27 10:28 local | 1 match(es)
-Estoril U23 v Santa Clara U23 -> out/Estoril_U23_v_Santa_Clara_U23.txt
-Requests used: API-Football 25, Matchbook 0
+RUN 2026-10-27 11:18 local | 4 match(es)
+Gornik Leczna v GKS Katowice -> out/Gornik_Leczna_v_GKS_Katowice.txt
+    !! Gornik Leczna: No team found for "Gornik Leczna".
+Adana Adaletgucu v Ankaragucu -> out/Adana_Adaletgucu_v_Ankaragucu.txt
+Ratchaburi v Kashiwa Reysol -> out/Ratchaburi_v_Kashiwa_Reysol.txt
+Beijing Guoan v Jeonbuk Motors -> out/Beijing_Guoan_v_Jeonbuk_Motors.txt
+Requests used: API-Football 90, Matchbook 0
