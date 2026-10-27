@@ -1,0 +1,74 @@
+MATCH Sonnenhof Grossaspach v Augsburg | fetched 2026-10-27 06:43 local
+
+FORM DATA Sonnenhof Grossaspach v Augsburg | source API-Football | 2026-10-27 06:44 UTC
+H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
+
+=== SG Sonnenhof Grossaspach (id 1317): last 20 finished games ===
+2026-10-24 A 1-7 v SV Wehen | 3. Liga | Wiesbaden
+2026-10-17 H 3-2 v Preußen Münster | 3. Liga | Aspache
+2026-10-14 A 2-2 v FC Viktoria Köln | 3. Liga | Cologne | xG 3.31-2.76
+2026-10-10 H 1-5 v Waldhof Mannheim | 3. Liga | Aspache | xG 0.71-4.08
+2026-10-02 A 1-1 v 1. FC Kaiserslautern | Friendlies Clubs | ?
+2026-09-19 A 1-2 v FC Saarbrücken | 3. Liga | Saarbrücken
+2026-09-15 H 1-1 v Verl | 3. Liga | Aspach
+2026-09-12 A 2-2 v Havelse | 3. Liga | Hannover
+2026-09-06 H 1-0 v Hoffenheim II | 3. Liga | Aspach
+2026-08-29 H 0-2 v FC Ingolstadt 04 | 3. Liga | Aspach
+2026-08-22 H 2-2 v Arminia Bielefeld | DFB Pokal | Aspach [PEN, 90-min score shown]
+2026-08-15 A 0-2 v SV Meppen | 3. Liga | Meppen
+2026-08-08 H 1-0 v Fortuna Köln | 3. Liga | Aspach
+2026-07-25 H 2-7 v SV Darmstadt 98 | Friendlies Clubs | ?
+2026-07-21 A 2-2 v VfR Aalen | Friendlies Clubs | ?
+2026-07-18 H 2-0 v Hoffenheim II | Friendlies Clubs | ?
+2026-07-11 A 7-0 v Bissingen | Friendlies Clubs | ?
+2026-07-08 H 2-0 v CFR Pforzheim | Friendlies Clubs | ?
+2026-07-04 H 2-2 v SGV Freiberg | Friendlies Clubs | ?
+2026-05-16 A 0-2 v Stuttgarter Kickers | Regionalliga - SudWest | Stuttgart
+Listed home: 11 games, scored 17 (1.55), conceded 21 (1.91), blanks 1, clean sheets 4
+Listed away: 9 games, scored 16 (1.78), conceded 20 (2.22), blanks 2, clean sheets 1
+All: 20 games, scored 33 (1.65), conceded 41 (2.05), blanks 3, clean sheets 5
+
+"Augsburg" matches several teams. Use id:<number> instead of the name:
+  id:170    FC Augsburg (Germany)
+  id:9324   Augsburg II (Germany)
+  id:10247  Augsburg U19 (Germany)
+  id:12849  Schwaben Augsburg (Germany)
+  id:12882  Türkspor Augsburg (Germany)
+(retrying Augsburg using the opponent's country, Germany)
+"Augsburg" matches several teams. Use id:<number> instead of the name:
+  id:170    FC Augsburg (Germany)
+  id:9324   Augsburg II (Germany)
+  id:10247  Augsburg U19 (Germany)
+  id:12849  Schwaben Augsburg (Germany)
+  id:12882  Türkspor Augsburg (Germany)
+!! Augsburg: Ambiguous team name "Augsburg".
+
+TABLE FOR SG Sonnenhof Grossaspach
+LEAGUE TABLE 3. Liga 2026 | 20 teams | 110 games played
+League averages per game: home 1.76, away 1.56, total 3.33
+#   team                   Pts | home P GF-GA  | away P GF-GA  | all P GF-GA
+1   MSV Duisburg            25 |  5  12-4       |  6  16-10      | 11  28-14
+2   FC Viktoria Köln        23 |  6  18-9       |  5  12-6       | 11  30-15
+3   Rot-Weiß Essen          21 |  6  12-3       |  5   7-10      | 11  19-13
+4   FC Saarbrücken          17 |  5  11-12      |  6  15-8       | 11  26-20
+5   Alemannia Aachen        17 |  6  11-11      |  5   6-6       | 11  17-17
+6   FC Ingolstadt 04        17 |  6   8-12      |  5   7-4       | 11  15-16
+7   Waldhof Mannheim        16 |  6   9-8       |  5  11-9       | 11  20-17
+8   Hoffenheim II           16 |  5  12-7       |  6   9-12      | 11  21-19
+9   Hansa Rostock           16 |  5   8-9       |  6  10-11      | 11  18-20
+10  SV Wehen                15 |  6  12-9       |  5   7-7       | 11  19-16
+11  Preußen Münster         15 |  6  11-10      |  5   8-11      | 11  19-21
+12  Fortuna Düsseldorf      15 |  5   6-8       |  6   6-6       | 11  12-14
+13  SV Meppen               14 |  6  10-11      |  5   6-6       | 11  16-17
+14  Stuttgart II            14 |  5   9-12      |  6   9-8       | 11  18-20
+15  Verl                    12 |  5   9-10      |  6   7-12      | 11  16-22
+16  SG Sonnenhof Grossaspa  12 |  6   7-10      |  5   6-15      | 11  13-25
+17  Würzburger Kickers      11 |  5   8-4       |  6   7-19      | 11  15-23
+18  SSV Jahn Regensburg     10 |  5   7-5       |  6  13-15      | 11  20-20
+19  Fortuna Köln            10 |  5   1-4       |  6   7-8       | 11   8-12
+20  Havelse                  9 |  6  13-14      |  5   3-11      | 11  16-25
+
+(15 API-Football requests used)
+
+----------------------------------------------------------------------
+MATCHBOOK: skipped (switched off for this run)

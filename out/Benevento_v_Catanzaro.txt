@@ -1,0 +1,86 @@
+MATCH Benevento v Catanzaro | fetched 2026-10-27 06:43 local
+
+FORM DATA Benevento v Catanzaro | source API-Football | 2026-10-27 06:44 UTC
+H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
+
+=== Benevento (id 506): last 20 finished games ===
+2026-10-24 A 3-0 v Arezzo | Serie B | Arezzo | xG 2.72-0.41
+2026-10-17 H 2-2 v Vicenza Virtus | Serie B | Benevento | xG 1.92-1.18
+2026-10-10 H 2-0 v Cesena | Serie B | Benevento | xG 1.74-0.53
+2026-10-02 A 1-2 v Frosinone | Friendlies Clubs | ?
+2026-09-19 A 1-0 v Carrarese | Serie B | Carrara | xG 1.25-0.83
+2026-09-11 H 3-1 v Hellas Verona | Serie B | Benevento | xG 1.13-1.44
+2026-09-05 A 0-1 v Ascoli | Serie B | Ascoli Piceno | xG 0.07-2.37
+2026-08-30 H 1-1 v Sudtirol | Serie B | Benevento | xG 2.23-0.56
+2026-08-22 H 1-2 v Modena | Serie B | Benevento | xG 1.00-1.44
+2026-08-14 A 1-4 v Fiorentina | Coppa Italia | Florence
+2026-08-09 H 5-3 v Ravenna | Coppa Italia | Benevento
+2026-08-01 A 2-2 v Frosinone | Friendlies Clubs | ?
+2026-07-31 A 2-1 v Vis Pesaro | Friendlies Clubs | ?
+2026-07-26 A 2-0 v Ostia Mare | Friendlies Clubs | ?
+2026-05-16 A 4-1 v Vicenza Virtus | Serie C - Supercoppa Lega Finals | ?
+2026-05-09 H 1-0 v Arezzo | Serie C - Supercoppa Lega Finals | ?
+2026-04-26 H 2-2 v Audace Cerignola | Serie C - Girone C | Benevento
+2026-04-19 A 1-1 v Giugliano | Serie C - Girone C | Giugliano
+2026-04-13 H 0-1 v Cavese | Serie C - Girone C | Benevento
+2026-04-06 A 1-0 v Salernitana | Serie C - Girone C | Salerno
+Listed home: 9 games, scored 17 (1.89), conceded 12 (1.33), blanks 1, clean sheets 2
+Listed away: 11 games, scored 18 (1.64), conceded 12 (1.09), blanks 1, clean sheets 4
+All: 20 games, scored 35 (1.75), conceded 24 (1.20), blanks 2, clean sheets 6
+
+=== Catanzaro (id 1687): last 20 finished games ===
+2026-10-24 H 1-6 v Ascoli | Serie B | Catanzaro | xG 1.82-3.91
+2026-10-16 A 2-2 v Hellas Verona | Serie B | Verona | xG 1.18-1.89
+2026-10-11 H 1-3 v Mantova | Serie B | Catanzaro | xG 1.15-2.94
+2026-09-19 A 1-2 v Sampdoria | Serie B | Genoa | xG 1.43-2.83
+2026-09-12 H 1-0 v Carrarese | Serie B | Catanzaro | xG 2.44-0.57
+2026-09-05 A 0-2 v Sudtirol | Serie B | Bozen | xG 0.61-0.41
+2026-08-30 A 1-2 v Pisa | Serie B | Pisa | xG 1.11-2.04
+2026-08-21 A 2-3 v Vicenza Virtus | Serie B | Vicenza | xG 1.74-1.77
+2026-08-15 H 2-2 v Sudtirol | Coppa Italia | Catanzaro [PEN, 90-min score shown]
+2026-08-05 H 3-0 v Giugliano | Friendlies Clubs | ?
+2026-07-29 H 3-1 v Paradiso | Friendlies Clubs | ?
+2026-05-29 A 2-0 v Monza | Serie B | Monza
+2026-05-24 H 0-2 v Monza | Serie B | Catanzaro
+2026-05-20 A 0-2 v Palermo | Serie B | Palermo
+2026-05-17 H 3-0 v Palermo | Serie B | Catanzaro
+2026-05-12 H 3-0 v Avellino | Serie B | Catanzaro
+2026-05-08 H 2-3 v Bari | Serie B | Catanzaro
+2026-05-01 A 2-3 v Palermo | Serie B | Palermo
+2026-04-25 H 4-2 v Spezia | Serie B | Catanzaro
+2026-04-18 A 1-1 v Juve Stabia | Serie B | Castellammare di Stabia
+Listed home: 11 games, scored 23 (2.09), conceded 19 (1.73), blanks 1, clean sheets 4
+Listed away: 9 games, scored 11 (1.22), conceded 17 (1.89), blanks 2, clean sheets 1
+All: 20 games, scored 34 (1.70), conceded 36 (1.80), blanks 3, clean sheets 5
+
+TABLE FOR Benevento
+LEAGUE TABLE Serie B 2026 | 20 teams | 80 games played
+League averages per game: home 1.35, away 1.35, total 2.70
+#   team                   Pts | home P GF-GA  | away P GF-GA  | all P GF-GA
+1   Palermo                 22 |  4   8-3       |  4  10-5       |  8  18-8
+2   Mantova                 17 |  4   7-5       |  4   7-3       |  8  14-8
+3   Modena                  16 |  4   8-4       |  4   7-4       |  8  15-8
+4   Ascoli                  15 |  4   6-3       |  4   8-3       |  8  14-6
+5   Benevento               14 |  5   9-6       |  3   4-1       |  8  13-7
+6   Pisa                    14 |  4   6-7       |  4   9-3       |  8  15-10
+7   Sudtirol                13 |  5   5-2       |  3   5-5       |  8  10-7
+8   Avellino                11 |  5   9-5       |  3   3-4       |  8  12-9
+9   Padova                  10 |  4   3-5       |  4   4-5       |  8   7-10
+10  Arezzo                  10 |  4   3-10      |  4   5-7       |  8   8-17
+11  Hellas Verona            9 |  5  11-6       |  3   4-7       |  8  15-13
+12  Virtus Entella           9 |  4   4-6       |  4   6-3       |  8  10-9
+13  Vicenza Virtus           9 |  3   4-6       |  5   7-9       |  8  11-15
+14  Juve Stabia              8 |  3   4-4       |  5   5-4       |  8   9-8
+15  Cesena                   8 |  4   5-5       |  4   3-7       |  8   8-12
+16  Empoli                   7 |  4   3-7       |  4   4-6       |  8   7-13
+17  Carrarese                7 |  4   3-5       |  4   4-4       |  8   7-9
+18  Cremonese                6 |  4   3-5       |  4   3-6       |  8   6-11
+19  Sampdoria                5 |  3   4-5       |  5   4-11      |  8   8-16
+20  Catanzaro                4 |  3   3-9       |  5   6-11      |  8   9-20
+
+(Catanzaro: same table as Benevento, shown above)
+
+(25 API-Football requests used)
+
+----------------------------------------------------------------------
+MATCHBOOK: skipped (switched off for this run)

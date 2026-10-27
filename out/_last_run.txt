@@ -1,3 +1,20 @@
-RUN 2026-10-26 20:00 local | 1 match(es)
-Flamengo v id:1062 -> out/Flamengo_v_id_1062.txt
-Requests used: API-Football 26, Matchbook 0
+RUN 2026-10-27 06:43 local | 15 match(es)
+Sassuolo v Lazio -> out/Sassuolo_v_Lazio.txt
+Fleetwood Town v Arsenal -> out/Fleetwood_Town_v_Arsenal.txt
+Roma v Cagliari -> out/Roma_v_Cagliari.txt
+Torino v Como -> out/Torino_v_Como.txt
+Al Shamal v Al Hilal -> out/Al_Shamal_v_Al_Hilal.txt
+Bradford v Peterborough -> out/Bradford_v_Peterborough.txt
+Daejeon Citizen v Vissel Kobe -> out/Daejeon_Citizen_v_Vissel_Kobe.txt
+Hamburger SV v Eintracht Frankfurt -> out/Hamburger_SV_v_Eintracht_Frankfurt.txt
+Shanghai Port v Cong An Ha Noi -> out/Shanghai_Port_v_Cong_An_Ha_Noi.txt
+    !! Cong An Ha Noi: No team found for "Cong An Ha Noi".
+Sonnenhof Grossaspach v Augsburg -> out/Sonnenhof_Grossaspach_v_Augsburg.txt
+    !! Augsburg: Ambiguous team name "Augsburg".
+Sheffield Wednesday v Cambridge United -> out/Sheffield_Wednesday_v_Cambridge_United.txt
+Oxford United v Stockport County -> out/Oxford_United_v_Stockport_County.txt
+Leicester v Wigan -> out/Leicester_v_Wigan.txt
+Benevento v Catanzaro -> out/Benevento_v_Catanzaro.txt
+Sabail v Zira -> out/Sabail_v_Zira.txt
+    !! Sabail: No team found for "Sabail".
+Requests used: API-Football 335, Matchbook 0

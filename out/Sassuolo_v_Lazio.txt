@@ -1,0 +1,86 @@
+MATCH Sassuolo v Lazio | fetched 2026-10-27 06:43 local
+
+FORM DATA Sassuolo v Lazio | source API-Football | 2026-10-27 06:43 UTC
+H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
+
+=== Sassuolo (id 488): last 20 finished games ===
+2026-10-24 A 0-2 v Como | Serie A | Como | xG 0.33-2.07
+2026-10-16 A 2-4 v Frosinone | Serie A | Frosinone | xG 1.92-2.08
+2026-10-11 H 1-1 v AC Milan | Serie A | Reggio Emilia | xG 1.19-1.18
+2026-09-18 A 1-2 v Monza | Serie A | Monza | xG 1.47-1.51
+2026-09-13 H 3-2 v Juventus | Serie A | Reggio Emilia | xG 1.02-1.10
+2026-09-06 A 2-2 v Bologna | Serie A | Bologna | xG 1.62-1.88
+2026-09-02 H 1-1 v Frosinone | Coppa Italia | Reggio Emilia [PEN, 90-min score shown]
+2026-08-29 H 2-1 v Torino | Serie A | Reggio Emilia | xG 1.85-1.26
+2026-08-23 A 1-2 v Atalanta | Serie A | Bergamo | xG 2.70-0.88
+2026-08-17 H 3-0 v Cesena | Coppa Italia | Reggio Emilia
+2026-08-08 A 2-3 v FC Augsburg | Friendlies Clubs | ?
+2026-08-05 H 1-4 v Celta Vigo | Friendlies Clubs | ?
+2026-07-31 H 0-0 v Folgore Caratese | Friendlies Clubs | ?
+2026-07-25 A 0-2 v Trento | Friendlies Clubs | ?
+2026-07-25 H 0-0 v Parma | Friendlies Clubs | ? [PEN, 90-min score shown]
+2026-07-22 H 4-1 v Padova | Friendlies Clubs | ?
+2026-05-24 A 0-1 v Parma | Serie A | Parma
+2026-05-17 H 2-3 v Lecce | Serie A | Reggio Emilia
+2026-05-08 A 1-2 v Torino | Serie A | Turin
+2026-05-03 H 2-0 v AC Milan | Serie A | Reggio Emilia
+Listed home: 11 games, scored 19 (1.73), conceded 13 (1.18), blanks 2, clean sheets 4
+Listed away: 9 games, scored 9 (1.00), conceded 20 (2.22), blanks 3, clean sheets 0
+All: 20 games, scored 28 (1.40), conceded 33 (1.65), blanks 5, clean sheets 4
+
+=== Lazio (id 487): last 20 finished games ===
+2026-10-24 H 2-1 v Parma | Serie A | Rome | xG 1.74-0.81
+2026-10-18 A 3-0 v Juventus | Serie A | Turin | xG 0.57-0.75
+2026-10-11 H 3-1 v Monza | Serie A | Rome | xG 1.84-1.76
+2026-10-03 H 3-3 v Juve Stabia | Friendlies Clubs | ?
+2026-09-27 H 2-0 v Arezzo | Friendlies Clubs | ?
+2026-09-19 A 2-0 v Venezia | Serie A | Venice | xG 1.60-1.89
+2026-09-12 H 2-2 v AC Milan | Serie A | Rome | xG 2.01-1.25
+2026-09-07 A 2-1 v Udinese | Serie A | Udine | xG 1.83-0.85
+2026-08-30 H 1-0 v Genoa | Serie A | Rome | xG 1.62-0.42
+2026-08-24 A 1-0 v Bologna | Serie A | Bologna | xG 0.63-1.78
+2026-08-16 H 0-2 v Mantova | Coppa Italia | Rome
+2026-08-09 A 2-1 v Frosinone | Friendlies Clubs | ?
+2026-08-05 H 4-0 v Ostia Mare | Friendlies Clubs | ?
+2026-08-02 A 2-1 v Ascoli | Friendlies Clubs | ?
+2026-08-01 H 6-3 v Avellino | Friendlies Clubs | ?
+2026-07-26 H 6-0 v Flaminia | Friendlies Clubs | ?
+2026-05-23 H 2-1 v Pisa | Serie A | Rome
+2026-05-17 A 0-2 v AS Roma | Serie A | Rome
+2026-05-13 H 0-2 v Inter | Coppa Italia | Rome
+2026-05-09 H 0-3 v Inter | Serie A | Rome
+Listed home: 13 games, scored 31 (2.38), conceded 18 (1.38), blanks 3, clean sheets 4
+Listed away: 7 games, scored 12 (1.71), conceded 5 (0.71), blanks 1, clean sheets 3
+All: 20 games, scored 43 (2.15), conceded 23 (1.15), blanks 4, clean sheets 7
+
+TABLE FOR Sassuolo
+LEAGUE TABLE Serie A 2026 | 20 teams | 80 games played
+League averages per game: home 1.57, away 1.44, total 3.01
+#   team                   Pts | home P GF-GA  | away P GF-GA  | all P GF-GA
+1   Inter                   22 |  5  17-7       |  3   6-3       |  8  23-10
+2   Lazio                   22 |  4   8-4       |  4   8-1       |  8  16-5
+3   AS Roma                 18 |  4  10-3       |  4   9-3       |  8  19-6
+4   AC Milan                18 |  3   8-2       |  5   8-5       |  8  16-7
+5   Como                    17 |  3   4-1       |  5  10-6       |  8  14-7
+6   Frosinone               14 |  4   9-5       |  4   8-8       |  8  17-13
+7   Juventus                14 |  4   5-4       |  4   6-4       |  8  11-8
+8   Torino                  13 |  4   6-7       |  4   7-4       |  8  13-11
+9   Cagliari                13 |  4   2-4       |  4   4-5       |  8   6-9
+10  Napoli                  11 |  4   8-5       |  4   5-5       |  8  13-10
+11  Atalanta                10 |  5  11-8       |  3   3-7       |  8  14-15
+12  Lecce                    9 |  4   4-10      |  4   5-4       |  8   9-14
+13  Bologna                  8 |  4   4-7       |  4   4-3       |  8   8-10
+14  Sassuolo                 8 |  3   6-4       |  5   6-12      |  8  12-16
+15  Monza                    7 |  3   8-4       |  5   7-14      |  8  15-18
+16  Genoa                    7 |  5   5-8       |  3   1-5       |  8   6-13
+17  Udinese                  4 |  5   2-9       |  3   7-9       |  8   9-18
+18  Fiorentina               4 |  4   3-9       |  4   6-10      |  8   9-19
+19  Parma                    4 |  4   3-6       |  4   2-9       |  8   5-15
+20  Venezia                  3 |  4   3-8       |  4   3-9       |  8   6-17
+
+(Lazio: same table as Sassuolo, shown above)
+
+(25 API-Football requests used)
+
+----------------------------------------------------------------------
+MATCHBOOK: skipped (switched off for this run)
