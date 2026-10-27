@@ -1,12 +1,4 @@
-RUN 2026-10-27 17:20 local | 10 match(es)
-id:1660 v id:181 -> out/id_1660_v_id_181.txt
-id:163 v Karlsruher SC -> out/id_163_v_Karlsruher_SC.txt
-id:192 v Union Berlin -> out/id_192_v_Union_Berlin.txt
-Milton Keynes Dons v Bromley -> out/Milton_Keynes_Dons_v_Bromley.txt
-Benevento v Catanzaro -> out/Benevento_v_Catanzaro.txt
-Bradford v Peterborough -> out/Bradford_v_Peterborough.txt
-Leicester v Wigan -> out/Leicester_v_Wigan.txt
-Oxford United v Stockport County -> out/Oxford_United_v_Stockport_County.txt
-Sheffield Wednesday v Cambridge United -> out/Sheffield_Wednesday_v_Cambridge_United.txt
-Torino v Como -> out/Torino_v_Como.txt
-Requests used: API-Football 245, Matchbook 0
+RUN 2026-10-27 17:58 local | 2 match(es)
+Shrewsbury v Everton U21 -> out/Shrewsbury_v_Everton_U21.txt
+Blackpool v Aston Villa U21 -> out/Blackpool_v_Aston_Villa_U21.txt
+Requests used: API-Football 52, Matchbook 0
