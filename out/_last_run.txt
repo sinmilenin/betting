@@ -1,5 +1,6 @@
-RUN 2026-10-27 14:59 local | 2 match(es)
-Arda v Levski Sofia -> out/Arda_v_Levski_Sofia.txt
-    !! Arda: Ambiguous team name "Arda".
-Weiss Essen v RB Leipzig -> out/Weiss_Essen_v_RB_Leipzig.txt
-Requests used: API-Football 42, Matchbook 0
+RUN 2026-10-27 15:02 local | 3 match(es)
+id:1430 v Levski Sofia -> out/id_1430_v_Levski_Sofia.txt
+id:1326 v RB Leipzig -> out/id_1326_v_RB_Leipzig.txt
+RW Essen v RB Leipzig -> out/RW_Essen_v_RB_Leipzig.txt
+    !! RW Essen: No team found for "RW Essen".
+Requests used: API-Football 66, Matchbook 0
