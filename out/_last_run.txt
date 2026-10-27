@@ -1,9 +1,4 @@
-RUN 2026-10-27 06:46 local | 6 match(es)
-id:497 v Cagliari -> out/id_497_v_Cagliari.txt
-Fleetwood Town v id:42 -> out/Fleetwood_Town_v_id_42.txt
-Al Shamal v id:2932 -> out/Al_Shamal_v_id_2932.txt
-id:836 v Cong An Nhan Dan -> out/id_836_v_Cong_An_Nhan_Dan.txt
-Sonnenhof Grossaspach v id:170 -> out/Sonnenhof_Grossaspach_v_id_170.txt
-Sebail v Zira -> out/Sebail_v_Zira.txt
-    !! Sebail: No team found for "Sebail".
-Requests used: API-Football 143, Matchbook 0
+RUN 2026-10-27 07:27 local | 2 match(es)
+PSS Sleman v Borneo -> out/PSS_Sleman_v_Borneo.txt
+Kyoto Sanga v Newcastle Jets -> out/Kyoto_Sanga_v_Newcastle_Jets.txt
+Requests used: API-Football 52, Matchbook 0
