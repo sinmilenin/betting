@@ -1,2 +1,13 @@
-# Scan 27.10.2026 18:57 run 2
-Barnet v York | n=20 | xg=10
+# Scan 27.10.2026 19:43 run 1
+Port Vale v Manchester City U21 | n=20 | xg=10
+Gimnastica Segoviana v Cultural Leonesa | n=20 | xg=10
+Telstar v Almere City | n=20 | xg=10
+Barendrecht v RKC Waalwijk | n=20 | xg=10
+Kloetinge v Cambuur | n=20 | xg=10
+Helmond Sport v Willem II | n=20 | xg=10
+Roda JC v De Graafschap | n=20 | xg=10
+Rijnsburgse Boys v Den Bosch | n=20 | xg=10
+Colchester U21 v QPR U21 | n=20 | xg=10
+Piast Gliwice v Gornik Zabrze | n=20 | xg=10
+Hunedoara v Rapid Bucuresti | n=20 | xg=10
+Stenhousemuir v Dunfermline | n=20 | xg=10
