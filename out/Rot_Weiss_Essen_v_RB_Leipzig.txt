@@ -1,6 +1,6 @@
-MATCH Rot-Weiss Essen v RB Leipzig | fetched 2026-10-27 14:16 local
+MATCH Rot Weiss Essen v RB Leipzig | fetched 2026-10-27 14:18 local
 
-FORM DATA Rot-Weiss Essen v RB Leipzig | source API-Football | 2026-10-27 14:16 UTC
+FORM DATA Rot Weiss Essen v RB Leipzig | source API-Football | 2026-10-27 14:18 UTC
 H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
 
 === RB Leipzig (id 173): last 20 finished games ===
@@ -28,7 +28,7 @@ Listed home: 8 games, scored 26 (3.25), conceded 1 (0.12), blanks 0, clean sheet
 Listed away: 12 games, scored 16 (1.33), conceded 36 (3.00), blanks 2, clean sheets 1
 All: 20 games, scored 42 (2.10), conceded 37 (1.85), blanks 2, clean sheets 8
 
-!! Rot-Weiss Essen: API-Football error: {"search": "The Search field may only contain alpha-numeric characters and spaces."}
+!! Rot Weiss Essen: No team found for "Rot Weiss Essen".
 
 TABLE FOR RB Leipzig
 LEAGUE TABLE Bundesliga 2026 | 18 teams | 63 games played
