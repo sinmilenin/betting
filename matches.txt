@@ -1,2 +1,5 @@
-# Scan 27.10.2026 11:26 run 2
-Estoril U23 v Santa Clara U23 | n=20 | xg=10
+# Scan 27.10.2026 12:16 run 1
+Gornik Leczna v GKS Katowice | n=20 | xg=10
+Adana Adaletgucu v Ankaragucu | n=20 | xg=10
+Ratchaburi v Kashiwa Reysol | n=20 | xg=10
+Beijing Guoan v Jeonbuk Motors | n=20 | xg=10
