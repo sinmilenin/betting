@@ -1,2 +1,16 @@
-# Night scan 26.10.2026 20:55 run 3: Atletico MG id
-Flamengo v id:1062 | n=20 | xg=10
+# Scan 27.10.2026 07:41 top-20 run 1
+Sassuolo v Lazio | n=20 | xg=10
+Fleetwood Town v Arsenal | n=20 | xg=10
+Roma v Cagliari | n=20 | xg=10
+Torino v Como | n=20 | xg=10
+Al Shamal v Al Hilal | n=20 | xg=10
+Bradford v Peterborough | n=20 | xg=10
+Daejeon Citizen v Vissel Kobe | n=20 | xg=10
+Hamburger SV v Eintracht Frankfurt | n=20 | xg=10
+Shanghai Port v Cong An Ha Noi | n=20 | xg=10
+Sonnenhof Grossaspach v Augsburg | n=20 | xg=10
+Sheffield Wednesday v Cambridge United | n=20 | xg=10
+Oxford United v Stockport County | n=20 | xg=10
+Leicester v Wigan | n=20 | xg=10
+Benevento v Catanzaro | n=20 | xg=10
+Sabail v Zira | n=20 | xg=10
