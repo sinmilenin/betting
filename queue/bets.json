@@ -295,5 +295,49 @@
     "lay": 17.5,
     "stake": 3,
     "created": "2026-10-27T19:55:31+01:00"
+  },
+  {
+    "id": "2026-10-27_wealdstone-solihull-moors_1-0",
+    "date": "2026-10-27",
+    "ko": "20:45",
+    "match": "Wealdstone v Solihull Moors",
+    "comp": "United Kingdom, English National League",
+    "cell": "1-0",
+    "lay": 13,
+    "stake": 3,
+    "created": "2026-10-27T19:37:39+00:00"
+  },
+  {
+    "id": "2026-10-27_wealdstone-solihull-moors_0-1",
+    "date": "2026-10-27",
+    "ko": "20:45",
+    "match": "Wealdstone v Solihull Moors",
+    "comp": "United Kingdom, English National League",
+    "cell": "0-1",
+    "lay": 17,
+    "stake": 3,
+    "created": "2026-10-27T19:37:39+00:00"
+  },
+  {
+    "id": "2026-10-27_tudelano-zaragoza_0-1",
+    "date": "2026-10-27",
+    "ko": "21:00",
+    "match": "Tudelano v Zaragoza",
+    "comp": "Spain, Spanish Copa del Rey",
+    "cell": "0-1",
+    "lay": 7.4,
+    "stake": 3,
+    "created": "2026-10-27T19:37:39+00:00"
+  },
+  {
+    "id": "2026-10-27_recreativo-huelva-rayo-vallecano_0-1",
+    "date": "2026-10-27",
+    "ko": "21:00",
+    "match": "Recreativo Huelva v Rayo Vallecano",
+    "comp": "Spain, Spanish Copa del Rey",
+    "cell": "0-1",
+    "lay": 10,
+    "stake": 3,
+    "created": "2026-10-27T19:37:39+00:00"
   }
 ]
