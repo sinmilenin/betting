@@ -1,0 +1,90 @@
+MATCH Wealdstone v Solihull Moors | fetched 2026-10-27 19:32 local
+
+FORM DATA Wealdstone v Solihull Moors | source API-Football | 2026-10-27 19:32 UTC
+H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
+
+=== Wealdstone (id 8663): last 20 finished games ===
+2026-10-24 A 1-0 v Aldershot Town | National League | Aldershot
+2026-10-20 H 1-0 v Nottingham Forest U21 | National League Cup | London
+2026-10-17 H 3-0 v Worthing | FA Cup | Ruislip
+2026-10-10 H 0-6 v Yeovil Town | National League | London
+2026-10-03 A 1-2 v Barrow | National League | Barrow in Furness
+2026-09-29 A 1-1 v Forest Green | National League | Nailsworth
+2026-09-26 H 4-0 v Gateshead | National League | London
+2026-09-19 A 1-2 v Tamworth | National League | Tamworth
+2026-09-15 H 0-1 v FC Halifax Town | National League | London
+2026-09-12 A 3-1 v Boston United | National League | Boston
+2026-09-08 H 6-0 v Stoke City U21 | National League Cup | London
+2026-09-05 H 1-4 v Kidderminster Harriers | National League | London
+2026-08-31 A 2-0 v Sutton Utd | National League | London
+2026-08-28 H 1-1 v Carlisle | National League | London
+2026-08-22 A 0-1 v Worthing | National League | Worthing
+2026-08-18 H 1-3 v Wolves U21 | National League Cup | London
+2026-08-15 H 1-3 v Harrogate Town | National League | London
+2026-08-08 A 2-2 v AFC Fylde | National League | Wesham
+2026-08-01 A 2-0 v Slough Town | Friendlies Clubs | ?
+2026-07-28 H 1-0 v AFC Wimbledon | Friendlies Clubs | ?
+Listed home: 11 games, scored 19 (1.73), conceded 18 (1.64), blanks 2, clean sheets 5
+Listed away: 9 games, scored 13 (1.44), conceded 9 (1.00), blanks 1, clean sheets 3
+All: 20 games, scored 32 (1.60), conceded 27 (1.35), blanks 3, clean sheets 8
+
+=== Solihull Moors (id 1834): last 20 finished games ===
+2026-10-24 H 1-2 v Carlisle | National League | Solihull
+2026-10-17 A 1-2 v Kidderminster Harriers | FA Cup | Kidderminster
+2026-10-13 H 1-0 v Everton U21 | National League Cup | Solihull
+2026-10-10 A 0-5 v Worthing | National League | Worthing
+2026-10-06 H 2-1 v Newcastle United U21 | National League Cup | Solihull
+2026-10-03 H 0-2 v FC Halifax Town | National League | Solihull
+2026-09-29 A 4-2 v Woking | National League | Woking
+2026-09-26 H 0-3 v Boreham Wood | National League | Solihull
+2026-09-18 A 1-4 v Yeovil Town | National League | Yeovil
+2026-09-15 H 1-0 v Barrow | National League | Solihull
+2026-09-12 H 1-2 v Aldershot Town | National League | Solihull
+2026-09-08 H 2-3 v Leeds United U21 | National League Cup | Solihull
+2026-09-05 A 1-1 v Gateshead | National League | Gateshead
+2026-08-31 H 1-3 v AFC Fylde | National League | Solihull
+2026-08-28 A 1-3 v Scunthorpe | National League | Scunthorpe
+2026-08-22 H 1-3 v Southend | National League | Solihull
+2026-08-18 H 1-3 v Middlesbrough U21 | National League Cup | Solihull
+2026-08-15 H 0-2 v Boston United | National League | Solihull
+2026-08-08 A 2-5 v Harrogate Town | National League | Harrogate
+2026-08-01 H 2-4 v Northampton | Friendlies Clubs | ?
+Listed home: 13 games, scored 13 (1.00), conceded 28 (2.15), blanks 3, clean sheets 2
+Listed away: 7 games, scored 10 (1.43), conceded 22 (3.14), blanks 1, clean sheets 0
+All: 20 games, scored 23 (1.15), conceded 50 (2.50), blanks 4, clean sheets 2
+
+TABLE FOR Wealdstone
+LEAGUE TABLE National League 2026 | 24 teams | 165 games played
+League averages per game: home 1.70, away 1.43, total 3.13
+#   team                   Pts | home P GF-GA  | away P GF-GA  | all P GF-GA
+1   Boreham Wood            38 |  7  21-8       |  7  17-5       | 14  38-13
+2   Harrogate Town          31 |  8  23-10      |  6   9-8       | 14  32-18
+3   Southend                28 |  7  15-13      |  7  18-8       | 14  33-21
+4   Worthing                27 |  7  14-8       |  7  15-11      | 14  29-19
+5   Altrincham              27 |  6  13-7       |  8   9-13      | 14  22-20
+6   Yeovil Town             25 |  8  20-11      |  6  13-6       | 14  33-17
+7   AFC Fylde               23 |  6   9-8       |  8  15-14      | 14  24-22
+8   FC Halifax Town         21 |  7  15-7       |  7   9-10      | 14  24-17
+9   Barrow                  21 |  6  11-5       |  7  11-11      | 13  22-16
+10  AFC Hornchurch          21 |  6   9-2       |  8   7-19      | 14  16-21
+11  Carlisle                20 |  7  15-14      |  7  10-7       | 14  25-21
+12  Kidderminster Harriers  20 |  8   8-6       |  6   8-8       | 14  16-14
+13  Woking                  18 |  7  11-12      |  7  12-10      | 14  23-22
+14  Aldershot Town          18 |  7  11-8       |  7   7-9       | 14  18-17
+15  Eastleigh               18 |  8  14-11      |  6   4-11      | 14  18-22
+16  Sutton Utd              18 |  7   8-11      |  7   7-10      | 14  15-21
+17  Forest Green            15 |  7  12-15      |  5   7-7       | 12  19-22
+18  Wealdstone              15 |  6   7-15      |  8  11-9       | 14  18-24
+19  Hartlepool              15 |  7   6-7       |  7   8-13      | 14  14-20
+20  Tamworth                14 |  6  11-9       |  7  10-21      | 13  21-30
+21  Boston United           12 |  7   6-11      |  7  11-16      | 14  17-27
+22  Scunthorpe              10 |  6  11-10      |  7   6-14      | 13  17-24
+23  Solihull Moors           7 |  8   5-17      |  6   9-20      | 14  14-37
+24  Gateshead                4 |  6   5-11      |  7   3-20      | 13   8-31
+
+(Solihull Moors: same table as Wealdstone, shown above)
+
+(25 API-Football requests used)
+
+----------------------------------------------------------------------
+MATCHBOOK: skipped (switched off for this run)
