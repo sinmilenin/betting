@@ -1,6 +1,6 @@
-MATCH Sonnenhof Grossaspach v Augsburg | fetched 2026-10-27 06:43 local
+MATCH Sonnenhof Grossaspach v id:170 | fetched 2026-10-27 06:46 local
 
-FORM DATA Sonnenhof Grossaspach v Augsburg | source API-Football | 2026-10-27 06:44 UTC
+FORM DATA Sonnenhof Grossaspach v id:170 | source API-Football | 2026-10-27 06:46 UTC
 H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
 
 === SG Sonnenhof Grossaspach (id 1317): last 20 finished games ===
@@ -28,20 +28,30 @@ Listed home: 11 games, scored 17 (1.55), conceded 21 (1.91), blanks 1, clean she
 Listed away: 9 games, scored 16 (1.78), conceded 20 (2.22), blanks 2, clean sheets 1
 All: 20 games, scored 33 (1.65), conceded 41 (2.05), blanks 3, clean sheets 5
 
-"Augsburg" matches several teams. Use id:<number> instead of the name:
-  id:170    FC Augsburg (Germany)
-  id:9324   Augsburg II (Germany)
-  id:10247  Augsburg U19 (Germany)
-  id:12849  Schwaben Augsburg (Germany)
-  id:12882  Türkspor Augsburg (Germany)
-(retrying Augsburg using the opponent's country, Germany)
-"Augsburg" matches several teams. Use id:<number> instead of the name:
-  id:170    FC Augsburg (Germany)
-  id:9324   Augsburg II (Germany)
-  id:10247  Augsburg U19 (Germany)
-  id:12849  Schwaben Augsburg (Germany)
-  id:12882  Türkspor Augsburg (Germany)
-!! Augsburg: Ambiguous team name "Augsburg".
+=== FC Augsburg (id 170): last 20 finished games ===
+2026-10-24 H 1-1 v Union Berlin | Bundesliga | Augsburg | xG 1.91-1.24
+2026-10-17 A 3-4 v SV Elversberg | Bundesliga | Spiesen-Elversberg | xG 3.92-3.78
+2026-10-10 H 2-2 v Bayern München | Bundesliga | Augsburg | xG 2.37-4.96
+2026-10-02 H 2-2 v Hertha BSC | Friendlies Clubs | Augsburg
+2026-09-19 A 2-3 v Werder Bremen | Bundesliga | Bremen | xG 1.12-2.78
+2026-09-12 H 2-2 v Bayer Leverkusen | Bundesliga | Augsburg | xG 1.11-2.64
+2026-09-06 A 4-1 v Eintracht Frankfurt | Bundesliga | Frankfurt | xG 1.13-2.22
+2026-08-30 H 3-0 v FC Schalke 04 | Bundesliga | Augsburg | xG 3.72-2.10
+2026-08-22 A 2-0 v Energie Cottbus | DFB Pokal | Cottbus
+2026-08-15 A 0-4 v Leeds | Friendlies Clubs | ?
+2026-08-08 H 3-2 v Sassuolo | Friendlies Clubs | ?
+2026-08-05 A 15-0 v Schwaz | Friendlies Clubs | ?
+2026-07-30 H 2-5 v Bournemouth | Friendlies Clubs | ?
+2026-07-25 H 1-1 v FC Saarbrücken | Friendlies Clubs | ?
+2026-05-16 A 0-4 v Union Berlin | Bundesliga | Berlin
+2026-05-09 H 3-1 v Borussia Mönchengladbach | Bundesliga | Augsburg
+2026-05-02 A 3-1 v Werder Bremen | Bundesliga | Bremen
+2026-04-25 H 1-1 v Eintracht Frankfurt | Bundesliga | Augsburg
+2026-04-18 A 2-1 v Bayer Leverkusen | Bundesliga | Leverkusen
+2026-04-10 H 2-2 v 1899 Hoffenheim | Bundesliga | Augsburg
+Listed home: 11 games, scored 22 (2.00), conceded 19 (1.73), blanks 0, clean sheets 1
+Listed away: 9 games, scored 31 (3.44), conceded 18 (2.00), blanks 2, clean sheets 2
+All: 20 games, scored 53 (2.65), conceded 37 (1.85), blanks 2, clean sheets 3
 
 TABLE FOR SG Sonnenhof Grossaspach
 LEAGUE TABLE 3. Liga 2026 | 20 teams | 110 games played
@@ -68,7 +78,30 @@ League averages per game: home 1.76, away 1.56, total 3.33
 19  Fortuna Köln            10 |  5   1-4       |  6   7-8       | 11   8-12
 20  Havelse                  9 |  6  13-14      |  5   3-11      | 11  16-25
 
-(15 API-Football requests used)
+TABLE FOR FC Augsburg
+LEAGUE TABLE Bundesliga 2026 | 18 teams | 63 games played
+League averages per game: home 2.19, away 1.37, total 3.56
+#   team                   Pts | home P GF-GA  | away P GF-GA  | all P GF-GA
+1   Bayern München          17 |  3  18-2       |  4   7-4       |  7  25-6
+2   Borussia Dortmund       17 |  4   8-2       |  3   4-2       |  7  12-4
+3   SC Freiburg             13 |  4  12-5       |  3   4-4       |  7  16-9
+4   Bayer Leverkusen        13 |  3   8-1       |  4   8-11      |  7  16-12
+5   RB Leipzig              12 |  4  18-0       |  3   2-11      |  7  20-11
+6   Werder Bremen           12 |  3   8-5       |  4   7-9       |  7  15-14
+7   FSV Mainz 05            10 |  4   6-10      |  3  10-3       |  7  16-13
+8   SV Elversberg           10 |  3   8-7       |  4   4-8       |  7  12-15
+9   FC Augsburg              9 |  4   8-5       |  3   9-8       |  7  17-13
+10  1899 Hoffenheim          9 |  4   9-7       |  3   5-7       |  7  14-14
+11  Hamburger SV             9 |  3   3-6       |  4   3-10      |  7   6-16
+12  1. FC Köln               8 |  4   6-4       |  3   2-7       |  7   8-11
+13  SC Paderborn 07          8 |  4   4-4       |  3   2-5       |  7   6-9
+14  Eintracht Frankfurt      8 |  3   4-6       |  4   6-11      |  7  10-17
+15  VfB Stuttgart            6 |  3   6-5       |  4   4-8       |  7  10-13
+16  FC Schalke 04            6 |  3   0-1       |  4   4-6       |  7   4-7
+17  Union Berlin             6 |  4   5-6       |  3   1-12      |  7   6-18
+18  Borussia Mönchengladba   3 |  3   7-10      |  4   4-12      |  7  11-22
+
+(26 API-Football requests used)
 
 ----------------------------------------------------------------------
 MATCHBOOK: skipped (switched off for this run)

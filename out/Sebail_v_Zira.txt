@@ -1,6 +1,6 @@
-MATCH Sabail v Zira | fetched 2026-10-27 06:43 local
+MATCH Sebail v Zira | fetched 2026-10-27 06:46 local
 
-FORM DATA Sabail v Zira | source API-Football | 2026-10-27 06:44 UTC
+FORM DATA Sebail v Zira | source API-Football | 2026-10-27 06:46 UTC
 H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
 
 === Zira (id 648): last 20 finished games ===
@@ -28,7 +28,7 @@ Listed home: 11 games, scored 18 (1.64), conceded 7 (0.64), blanks 1, clean shee
 Listed away: 9 games, scored 8 (0.89), conceded 14 (1.56), blanks 4, clean sheets 2
 All: 20 games, scored 26 (1.30), conceded 21 (1.05), blanks 5, clean sheets 7
 
-!! Sabail: No team found for "Sabail".
+!! Sebail: No team found for "Sebail".
 
 TABLE FOR Zira
 LEAGUE TABLE Premyer Liqa 2026 | 12 teams | 52 games played
