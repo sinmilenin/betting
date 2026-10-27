@@ -1,2 +1,13 @@
-# Scan 27.10.2026 17:26 run 4
-WSC Hertha Wels v Wolfsberger AC | n=20 | xg=10
+# Scan 27.10.2026 18:14 run 1
+Cuarte v Girona | n=20 | xg=10
+Slavia Praha v Zbrojovka Brno | n=20 | xg=10
+Chesham United v Farnham Town | n=20 | xg=10
+Elversberg v Darmstadt 98 | n=20 | xg=10
+Barnet v York City | n=20 | xg=10
+MK Dons v Bromley | n=20 | xg=10
+Woking v Boreham Wood | n=20 | xg=10
+Borussia Monchengladbach v Karlsruher SC | n=20 | xg=10
+1. FC Koln v Union Berlin | n=20 | xg=10
+Hereford v AFC Telford United | n=20 | xg=10
+Juan Pablo II v Sport Huancayo | n=20 | xg=10
+Boston United v Gateshead | n=20 | xg=10
