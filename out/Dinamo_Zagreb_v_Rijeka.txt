@@ -1,0 +1,84 @@
+MATCH Dinamo Zagreb v Rijeka | fetched 2026-10-27 14:14 local
+
+FORM DATA Dinamo Zagreb v Rijeka | source API-Football | 2026-10-27 14:14 UTC
+H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
+
+=== Dinamo Zagreb (id 620): last 20 finished games ===
+2026-10-22 H 2-4 v NEC Nijmegen | UEFA Europa League | Zagreb | xG 2.67-1.41
+2026-10-18 A 5-1 v NK Slaven Belupo | HNL | Koprivnica | xG 3.71-2.11
+2026-10-15 H 1-0 v Anderlecht | UEFA Europa League | Zagreb | xG 2.11-1.10
+2026-10-10 A 1-2 v HNK Hajduk Split | HNL | Split | xG 1.54-1.19
+2026-10-04 A 4-0 v Vukovar | Cup | Osijek
+2026-09-20 H 3-2 v NK Lokomotiva Zagreb | HNL | Zagreb | xG 1.88-1.42
+2026-09-16 A 0-0 v Hapoel Beer Sheva | UEFA Europa League | Bucharest
+2026-09-12 A 2-4 v NK Osijek | HNL | Osijek | xG 1.90-2.05
+2026-09-09 A 4-0 v Bedem Ivankovo | Cup | ?
+2026-09-05 H 1-0 v HNK Gorica | HNL | Zagreb | xG 1.70-0.79
+2026-08-29 A 2-2 v Istra 1961 | HNL | Pula
+2026-08-26 A 1-3 v Viking | UEFA Champions League | Stavanger
+2026-08-22 H 3-1 v NK Varazdin | HNL | Zagreb
+2026-08-18 H 2-2 v Viking | UEFA Champions League | Zagreb
+2026-08-14 H 4-0 v Rudes | HNL | Zagreb
+2026-08-11 A 2-1 v Kauno Žalgiris | UEFA Champions League | Kaunas
+2026-08-04 H 5-0 v Kauno Žalgiris | UEFA Champions League | Zagreb
+2026-07-31 H 2-0 v NK Slaven Belupo | HNL | Zagreb
+2026-07-28 H 2-2 v FC Thun | UEFA Champions League | Zagreb [AET, 90-min score shown]
+2026-07-21 A 1-1 v FC Thun | UEFA Champions League | Thun
+Listed home: 10 games, scored 25 (2.50), conceded 11 (1.10), blanks 0, clean sheets 5
+Listed away: 10 games, scored 22 (2.20), conceded 14 (1.40), blanks 1, clean sheets 3
+All: 20 games, scored 47 (2.35), conceded 25 (1.25), blanks 1, clean sheets 8
+
+"Rijeka" matches several teams. Use id:<number> instead of the name:
+  id:561    HNK Rijeka (Croatia)
+  id:27594  HNK Rijeka U18 (Croatia)
+(retrying Rijeka using the opponent's country, Croatia)
+"Rijeka" matches several teams. Use id:<number> instead of the name:
+  id:561    HNK Rijeka (Croatia)
+  id:27594  HNK Rijeka U18 (Croatia)
+!! Rijeka: Ambiguous team name "Rijeka".
+
+TABLE FOR Dinamo Zagreb
+LEAGUE TABLE UEFA Europa League 2026 | 36 teams | 54 games played
+League averages per game: home 1.50, away 1.57, total 3.07
+#   team                   Pts | home P GF-GA  | away P GF-GA  | all P GF-GA
+1   Benfica                  9 |  1   4-1       |  2   6-1       |  3  10-2
+2   Bayer Leverkusen         9 |  1   2-0       |  2   6-0       |  3   8-0
+3   Bournemouth              9 |  2   6-0       |  1   2-1       |  3   8-1
+4   Ferencvarosi TC          9 |  2   6-2       |  1   3-1       |  3   9-3
+5   Olympiakos Piraeus       9 |  2   3-1       |  1   1-0       |  3   4-1
+6   Union St. Gilloise       7 |  2   5-1       |  1   3-0       |  3   8-1
+7   Juventus                 7 |  2   7-2       |  1   2-1       |  3   9-3
+8   Beşiktaş                 7 |  2   6-3       |  1   3-2       |  3   9-5
+9   Sunderland               7 |  1   1-0       |  2   3-2       |  3   4-2
+10  AZ Alkmaar               6 |  1   2-1       |  2   4-1       |  3   6-2
+11  Omonia Nicosia           6 |  2   2-4       |  1   3-0       |  3   5-4
+12  Lyon                     6 |  1   3-2       |  2   2-4       |  3   5-6
+13  Rennes                   5 |  1   2-1       |  2   2-2       |  3   4-3
+14  Real Sociedad            4 |  1   1-2       |  2   7-1       |  3   8-3
+15  Crystal Palace           4 |  1   4-0       |  2   4-5       |  3   8-5
+16  Sparta Praha             4 |  1   1-1       |  2   4-2       |  3   5-3
+17  Levski Sofia             4 |  1   0-1       |  2   3-2       |  3   3-3
+18  Dinamo Zagreb            4 |  2   3-4       |  1   0-0       |  3   3-4
+19  Sturm Graz               4 |  2   1-0       |  1   0-3       |  3   1-3
+20  NEC Nijmegen             4 |  1   1-1       |  2   4-7       |  3   5-8
+21  Red Bull Salzburg        4 |  1   0-4       |  2   3-2       |  3   3-6
+22  Anderlecht               3 |  1   1-2       |  2   3-1       |  3   4-3
+23  1899 Hoffenheim          3 |  2   5-3       |  1   0-2       |  3   5-5
+24  AC Milan                 3 |  1   0-2       |  2   4-3       |  3   4-5
+25  Celta Vigo               3 |  1   1-2       |  2   2-2       |  3   3-4
+26  OFI                      3 |  2   2-2       |  1   1-2       |  3   3-4
+27  Jagiellonia              3 |  2   3-4       |  1   1-2       |  3   4-6
+28  Torreense                3 |  1   1-2       |  2   3-5       |  3   4-7
+29  Celje                    1 |  2   2-5       |  1   0-2       |  3   2-7
+30  Hapoel Beer Sheva        1 |  1   0-0       |  2   1-6       |  3   1-6
+31  Lillestrom               1 |  2   1-8       |  1   1-1       |  3   2-9
+32  Lech Poznan              1 |  2   1-5       |  1   0-4       |  3   1-9
+33  Plzen                    0 |  2   1-5       |  1   1-2       |  3   2-7
+34  Marseille                0 |  1   0-1       |  2   1-5       |  3   1-6
+35  Celtic                   0 |  2   2-5       |  1   1-4       |  3   3-9
+36  Ararat-Armenia           0 |  2   1-8       |  1   1-3       |  3   2-11
+
+(15 API-Football requests used)
+
+----------------------------------------------------------------------
+MATCHBOOK: skipped (switched off for this run)

@@ -1,4 +1,4 @@
-RUN 2026-10-27 13:35 local | 2 match(es)
-Panserraikos v Niki Volos -> out/Panserraikos_v_Niki_Volos.txt
-Asteras Tripolis v Kifisia -> out/Asteras_Tripolis_v_Kifisia.txt
-Requests used: API-Football 50, Matchbook 0
+RUN 2026-10-27 14:14 local | 1 match(es)
+Dinamo Zagreb v Rijeka -> out/Dinamo_Zagreb_v_Rijeka.txt
+    !! Rijeka: Ambiguous team name "Rijeka".
+Requests used: API-Football 15, Matchbook 0
