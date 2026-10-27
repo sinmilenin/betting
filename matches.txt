@@ -1,6 +1,3 @@
-# Scan 27.10.2026 19:43 run 2
-Telstar v Almere City FC | n=20 | xg=10
-Roda JC Kerkrade v De Graafschap | n=20 | xg=10
-Colchester United U21 v Queens Park Rangers U21 | n=20 | xg=10
-Roma v Cagliari | n=20 | xg=10
-Fleetwood Town v Arsenal | n=20 | xg=10
+# Scan 27.10.2026 19:43 run 3
+id:497 v Cagliari | n=20 | xg=10
+Fleetwood Town v id:42 | n=20 | xg=10
