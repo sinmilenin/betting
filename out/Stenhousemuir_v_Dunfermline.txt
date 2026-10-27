@@ -1,0 +1,76 @@
+MATCH Stenhousemuir v Dunfermline | fetched 2026-10-27 18:44 local
+
+FORM DATA Stenhousemuir v Dunfermline | source API-Football | 2026-10-27 18:45 UTC
+H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
+
+=== Stenhousemuir (id 6784): last 20 finished games ===
+2026-10-24 A 0-3 v Partick | Championship | Glasgow
+2026-10-17 H 1-1 v Raith Rovers | Championship | Stenhousemuir
+2026-10-10 A 0-2 v Inverness CT | Championship | Inverness
+2026-09-25 A 1-0 v Ayr Utd | Championship | Ayr
+2026-09-19 H 1-0 v Arbroath | Championship | Stenhousemuir
+2026-09-15 H 1-0 v Partick | Championship | Stenhousemuir
+2026-09-11 H 0-3 v Heart Of Midlothian | League Cup | Stenhousemuir
+2026-09-04 A 1-0 v Livingston | Championship | Livingston
+2026-08-29 H 3-1 v Inverness CT | Championship | Stenhousemuir
+2026-08-22 A 2-0 v Queen's Park | Championship | Glasgow
+2026-08-16 H 0-0 v Motherwell | League Cup | Stenhousemuir [AET, 90-min score shown]
+2026-08-08 H 2-0 v Morton | Championship | Stenhousemuir
+2026-08-01 A 1-1 v Raith Rovers | Championship | Kirkcaldy
+2026-07-25 H 0-0 v Livingston | League Cup | Stenhousemuir [PEN, 90-min score shown]
+2026-07-21 A 2-2 v Partick | League Cup | Glasgow [PEN, 90-min score shown]
+2026-07-18 A 2-1 v Brechin | League Cup | Brechin
+2026-07-11 H 2-0 v Forfar Athletic | League Cup | Stenhousemuir
+2026-05-16 H 0-1 v Alloa Athletic | Championship | Stenhousemuir
+2026-05-13 A 3-1 v Alloa Athletic | Championship | Alloa
+2026-05-09 H 1-1 v Queen of the South | Championship | Stenhousemuir [PEN, 90-min score shown]
+Listed home: 11 games, scored 11 (1.00), conceded 7 (0.64), blanks 4, clean sheets 6
+Listed away: 9 games, scored 12 (1.33), conceded 10 (1.11), blanks 2, clean sheets 3
+All: 20 games, scored 23 (1.15), conceded 17 (0.85), blanks 6, clean sheets 9
+
+=== Dunfermline (id 1388): last 20 finished games ===
+2026-10-24 A 1-0 v Queen's Park | Championship | Glasgow
+2026-10-20 H 1-1 v Partick | Championship | Dunfermline
+2026-10-17 H 0-0 v Livingston | Championship | Dunfermline
+2026-10-10 A 1-1 v Ayr Utd | Championship | Ayr
+2026-10-03 H 1-4 v Aberdeen | Friendlies Clubs | ?
+2026-09-19 A 1-0 v Morton | Championship | Greenock
+2026-09-12 H 2-0 v Queen's Park | Championship | Dunfermline
+2026-09-05 A 1-1 v Arbroath | Championship | Arbroath
+2026-08-28 H 1-0 v Raith Rovers | Championship | Dunfermline
+2026-08-22 A 0-2 v Livingston | Championship | Livingston
+2026-08-15 H 1-2 v Ross County | League Cup | Dunfermline
+2026-08-08 H 1-1 v Ayr Utd | Championship | Dunfermline
+2026-08-01 A 0-0 v Inverness CT | Championship | Inverness
+2026-07-26 A 1-0 v ST Mirren | League Cup | Paisley
+2026-07-21 H 5-0 v Cove Rangers | League Cup | Dunfermline
+2026-07-14 H 4-1 v Dumbarton | League Cup | Dunfermline
+2026-07-11 A 0-3 v East Kilbride | League Cup | East Kilbride
+2026-07-04 A 3-0 v Kelty Hearts | Friendlies Clubs | ?
+2026-06-27 A 2-1 v Clyde | Friendlies Clubs | ?
+2026-06-25 A 0-1 v FC Botosani | Friendlies Clubs | ?
+Listed home: 9 games, scored 16 (1.78), conceded 9 (1.00), blanks 1, clean sheets 4
+Listed away: 11 games, scored 10 (0.91), conceded 9 (0.82), blanks 4, clean sheets 5
+All: 20 games, scored 26 (1.30), conceded 18 (0.90), blanks 5, clean sheets 9
+
+TABLE FOR Stenhousemuir
+LEAGUE TABLE Championship 2026 | 10 teams | 58 games played
+League averages per game: home 1.16, away 0.84, total 2.00
+#   team                   Pts | home P GF-GA  | away P GF-GA  | all P GF-GA
+1   Partick                 25 |  6   9-0       |  6   6-4       | 12  15-4
+2   Stenhousemuir           23 |  5   8-2       |  6   5-6       | 11  13-8
+3   Raith Rovers            21 |  6   9-5       |  6   7-4       | 12  16-9
+4   Inverness CT            19 |  6   7-3       |  6   9-8       | 12  16-11
+5   Dunfermline             18 |  5   5-2       |  6   4-4       | 11   9-6
+6   Livingston              17 |  7   9-7       |  5   6-4       | 12  15-11
+7   Ayr Utd                 12 |  6   5-7       |  5   5-5       | 11  10-12
+8   Arbroath                11 |  5   5-4       |  7   2-14      | 12   7-18
+9   Morton                   7 |  6   5-10      |  5   4-8       | 11   9-18
+10  Queen's Park             7 |  6   5-9       |  6   1-10      | 12   6-19
+
+(Dunfermline: same table as Stenhousemuir, shown above)
+
+(25 API-Football requests used)
+
+----------------------------------------------------------------------
+MATCHBOOK: skipped (switched off for this run)

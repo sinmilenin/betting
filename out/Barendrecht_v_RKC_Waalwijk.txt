@@ -1,0 +1,78 @@
+MATCH Barendrecht v RKC Waalwijk | fetched 2026-10-27 18:44 local
+
+FORM DATA Barendrecht v RKC Waalwijk | source API-Football | 2026-10-27 18:44 UTC
+H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
+
+=== Barendrecht (id 1271): last 20 finished games ===
+2026-10-24 A 1-0 v Kozakken Boys | Tweede Divisie | Werkendam
+2026-10-17 H 4-1 v AFC Amsterdam | Tweede Divisie | ?
+2026-10-10 A 0-4 v De Treffers | Tweede Divisie | Groesbeek
+2026-10-03 H 3-2 v Sparta Rotterdam II | Tweede Divisie | ?
+2026-09-26 A 4-1 v Almere City II | Tweede Divisie | Almere
+2026-09-22 A 1-0 v HHC | KNVB Beker | Hardenberg
+2026-09-19 A 1-1 v RKAV Volendam | Tweede Divisie | Volendam
+2026-09-12 H 1-1 v Hoek | Tweede Divisie | ?
+2026-09-05 A 3-1 v Spakenburg | Tweede Divisie | Spakenburg
+2026-08-29 H 0-2 v Katwijk | Tweede Divisie | ?
+2026-08-22 A 2-1 v Koninklijke HFC | Tweede Divisie | Haarlem
+2026-08-15 H 1-3 v HHC | Tweede Divisie | ?
+2026-05-23 H 1-2 v Excelsior Maassluis | Tweede Divisie | ?
+2026-05-16 A 2-5 v RKAV Volendam | Tweede Divisie | Volendam
+2026-05-09 H 4-2 v Hoek | Tweede Divisie | ?
+2026-04-25 A 1-4 v Sparta Rotterdam II | Tweede Divisie | ?
+2026-04-18 H 0-3 v Spakenburg | Tweede Divisie | ?
+2026-04-11 A 2-1 v Koninklijke HFC | Tweede Divisie | Haarlem
+2026-03-28 H 2-3 v Katwijk | Tweede Divisie | ?
+2026-03-21 A 0-3 v De Treffers | Tweede Divisie | Groesbeek
+Listed home: 9 games, scored 16 (1.78), conceded 19 (2.11), blanks 2, clean sheets 0
+Listed away: 11 games, scored 17 (1.55), conceded 21 (1.91), blanks 2, clean sheets 2
+All: 20 games, scored 33 (1.65), conceded 40 (2.00), blanks 4, clean sheets 2
+
+=== RKC Waalwijk Res. (id 17933): last 1 finished games ===
+2021-10-18 A 1-0 v MVV Res. | Reserve League | Maastricht
+Listed home: no games
+Listed away: 1 games, scored 1 (1.00), conceded 0 (0.00), blanks 0, clean sheets 1
+All: 1 games, scored 1 (1.00), conceded 0 (0.00), blanks 0, clean sheets 1
+
+TABLE FOR Barendrecht
+LEAGUE TABLE Tweede Divisie 2026 | 18 teams | 99 games played
+League averages per game: home 1.91, away 1.62, total 3.53
+#   team                   Pts | home P GF-GA  | away P GF-GA  | all P GF-GA
+1   Quick Boys              28 |  6  23-2       |  5   9-6       | 11  32-8
+2   De Treffers             22 |  6  19-6       |  5  11-8       | 11  30-14
+3   Ijsselmeervogels        22 |  6   8-6       |  5   8-4       | 11  16-10
+4   Kozakken Boys           21 |  6  13-7       |  5  12-6       | 11  25-13
+5   HHC                     21 |  5   9-7       |  6  12-9       | 11  21-16
+6   Barendrecht             20 |  5   9-9       |  6  11-8       | 11  20-17
+7   GVVV Veenendaal         18 |  6  14-9       |  5  10-11      | 11  24-20
+8   RKAV Volendam           18 |  5   8-8       |  6  13-12      | 11  21-20
+9   Spakenburg              14 |  5   6-6       |  6   7-11      | 11  13-17
+10  Katwijk                 14 |  5   7-12      |  6   8-10      | 11  15-22
+11  Sparta Rotterdam II     13 |  5  13-10      |  6  15-14      | 11  28-24
+12  Almere City II          13 |  5   8-12      |  6  14-9       | 11  22-21
+13  AFC Amsterdam           13 |  6   7-7       |  5   8-12      | 11  15-19
+14  Rijnsburgse Boys        13 |  6  14-9       |  5   3-18      | 11  17-27
+15  Hoek                    10 |  5   8-6       |  6   4-12      | 11  12-18
+16  Koninklijke HFC          9 |  5   8-11      |  6   5-10      | 11  13-21
+17  Kloetinge                7 |  6  11-15      |  5   5-14      | 11  16-29
+18  ROHDA Raalte             1 |  6   4-18      |  5   5-15      | 11   9-33
+
+TABLE FOR RKC Waalwijk Res.
+LEAGUE TABLE Reserve League 2021 | 10 teams | 27 games played
+League averages per game: home 2.07, away 1.44, total 3.52
+#   team                   Pts | home P GF-GA  | away P GF-GA  | all P GF-GA
+1   Heracles Almelo Res.     9 |  3   2-0       |  4   4-6       |  4   5-3 [Group A]
+2   Emmen Res.               7 |  3   8-0       |  4   3-6       |  4   9-3 [Group A]
+3   Twente Res.              6 |  4   6-1       |  3   4-7       |  4   3-4 [Group A]
+4   Heerenveen U21           6 |  4  11-9       |  3   0-6       |  4   6-10 [Group A]
+5   Almere City II           1 |  3   3-9       |  3   3-10      |  4   4-7 [Group A]
+1   ADO Den Haag II          6 |  2  11-2       |  1   0-2       |  3  11-4 [Group B]
+2   VVV Res.                 6 |  1   2-0       |  2   4-3       |  3   6-3 [Group B]
+3   Fortuna Sittard Res.     6 |  3  11-2       |  3   7-7       |  3   7-5 [Group B]
+4   RKC Waalwijk Res.        3 |  0   0-0       |  1   1-0       |  1   1-0 [Group B]
+5   MVV Res.                 0 |  4   2-16      |  2   0-10      |  4   1-14 [Group B]
+
+(17 API-Football requests used)
+
+----------------------------------------------------------------------
+MATCHBOOK: skipped (switched off for this run)

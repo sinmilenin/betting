@@ -1,0 +1,107 @@
+MATCH Gimnastica Segoviana v Cultural Leonesa | fetched 2026-10-27 18:44 local
+
+FORM DATA Gimnastica Segoviana v Cultural Leonesa | source API-Football | 2026-10-27 18:44 UTC
+H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
+
+=== Gimnástica Segoviana (id 9387): last 20 finished games ===
+2026-10-24 H 1-1 v Atlético Tordesillas | Segunda División RFEF - Group 5 | Segovia
+2026-10-17 A 1-1 v A Madrid III | Segunda División RFEF - Group 5 | ?
+2026-10-11 H 1-1 v Real Valladolid II | Segunda División RFEF - Group 5 | Segovia
+2026-10-03 A 3-3 v Guadalajara | Segunda División RFEF - Group 5 | Guadalajara
+2026-09-26 H 2-0 v SS Reyes | Segunda División RFEF - Group 5 | Segovia
+2026-09-20 A 2-5 v RSD Alcalá | Segunda División RFEF - Group 5 | ?
+2026-09-13 H 1-2 v Conquense | Segunda División RFEF - Group 5 | Segovia
+2026-09-06 A 3-0 v Calvo Sotelo | Segunda División RFEF - Group 5 | ?
+2026-08-29 H 0-1 v Real Madrid III | Friendlies Clubs | ?
+2026-08-26 H 2-1 v Leganés II | Friendlies Clubs | ?
+2026-08-22 H 0-1 v Rayo Majadahonda | Friendlies Clubs | ?
+2026-08-19 A 1-1 v RSD Alcalá | Friendlies Clubs | ?
+2026-08-15 H 0-1 v Unionistas de Salamanca | Friendlies Clubs | ?
+2026-08-08 H 2-0 v Atlético Madrid II | Friendlies Clubs | ?
+2026-08-05 H 0-3 v Valladolid | Friendlies Clubs | ?
+2026-05-03 A 1-3 v Coruxo | Segunda División RFEF - Group 1 | Vigo
+2026-04-26 H 1-0 v Real Oviedo II | Segunda División RFEF - Group 1 | Segovia
+2026-04-19 A 1-2 v Real Ávila | Segunda División RFEF - Group 1 | Ávila
+2026-04-12 H 0-1 v Salamanca UDS | Segunda División RFEF - Group 1 | Segovia
+2026-04-05 A 0-1 v UD Ourense | Segunda División RFEF - Group 1 | Ourense
+Listed home: 12 games, scored 10 (0.83), conceded 12 (1.00), blanks 5, clean sheets 3
+Listed away: 8 games, scored 12 (1.50), conceded 16 (2.00), blanks 1, clean sheets 1
+All: 20 games, scored 22 (1.10), conceded 28 (1.40), blanks 6, clean sheets 4
+
+=== Cultural Leonesa (id 725): last 20 finished games ===
+2026-10-24 H 1-2 v Pontevedra | Primera División RFEF - Group 1 | ?
+2026-10-18 A 1-1 v UD Logroñés | Primera División RFEF - Group 1 | ?
+2026-10-12 H 4-1 v Arenas Getxo | Primera División RFEF - Group 1 | ?
+2026-10-03 A 0-2 v Unionistas de Salamanca | Primera División RFEF - Group 1 | ?
+2026-09-26 H 2-2 v CD Coria | Primera División RFEF - Group 1 | ?
+2026-09-20 A 1-0 v Extremadura 1924 | Primera División RFEF - Group 1 | Almendralejo
+2026-09-13 A 0-1 v Cacereño | Primera División RFEF - Group 1 | ?
+2026-09-06 H 1-0 v Mérida AD | Primera División RFEF - Group 1 | ?
+2026-08-30 A 0-0 v Barakaldo | Primera División RFEF - Group 1 | Barakaldo
+2026-08-21 A 1-1 v Atlético Astorga | Friendlies Clubs | ?
+2026-08-15 H 5-0 v Salamanca UDS | Friendlies Clubs | ?
+2026-08-08 A 0-0 v Burgos | Friendlies Clubs | ? [PEN, 90-min score shown]
+2026-08-05 H 1-1 v Real Avilés | Friendlies Clubs | ?
+2026-08-01 A 0-2 v Athletic Club II | Friendlies Clubs | ?
+2026-05-30 A 1-1 v Real Sociedad II | Segunda División | San Sebastian
+2026-05-24 H 0-2 v Burgos | Segunda División | León
+2026-05-16 H 2-1 v Eibar | Segunda División | León
+2026-05-09 A 1-2 v Albacete | Segunda División | Albacete
+2026-05-02 H 2-2 v Cadiz | Segunda División | León
+2026-04-26 A 1-2 v Mirandes | Segunda División | Miranda de Ebro
+Listed home: 9 games, scored 18 (2.00), conceded 11 (1.22), blanks 1, clean sheets 2
+Listed away: 11 games, scored 6 (0.55), conceded 12 (1.09), blanks 5, clean sheets 3
+All: 20 games, scored 24 (1.20), conceded 23 (1.15), blanks 6, clean sheets 5
+
+TABLE FOR Gimnástica Segoviana
+LEAGUE TABLE Segunda División RFEF - Group 5 2026 | 18 teams | 72 games played
+League averages per game: home 1.65, away 1.10, total 2.75
+#   team                   Pts | home P GF-GA  | away P GF-GA  | all P GF-GA
+1   Conquense               17 |  4   9-4       |  4   9-5       |  8  18-9
+2   SS Reyes                16 |  4   6-1       |  4   7-7       |  8  13-8
+3   CF Talavera             15 |  4   6-3       |  4   5-4       |  8  11-7
+4   Real Valladolid II      14 |  4  12-2       |  4   6-8       |  8  18-10
+5   A Madrid III            14 |  4   8-4       |  4   3-5       |  8  11-9
+6   Numancia                13 |  4   5-3       |  4   3-1       |  8   8-4
+7   Salamanca UDS           13 |  4   8-3       |  4   4-7       |  8  12-10
+8   Navalcarnero            12 |  3   4-5       |  5   9-7       |  8  13-12
+9   Gimnástica Segoviana    10 |  4   5-4       |  4   9-9       |  8  14-13
+10  Atlético Tordesillas     9 |  4   8-5       |  4   4-6       |  8  12-11
+11  Atlético Paso            9 |  4   4-3       |  4   5-6       |  8   9-9
+12  Guadalajara              9 |  5  15-12      |  3   1-5       |  8  16-17
+13  Albacete II              9 |  4   8-10      |  4   3-12      |  8  11-22
+14  RSD Alcalá               8 |  5  10-7       |  3   1-5       |  8  11-12
+15  Real Ávila               7 |  3   4-2       |  5   3-12      |  8   7-14
+16  Calvo Sotelo             6 |  4   1-3       |  4   4-9       |  8   5-12
+17  Getafe II                5 |  4   5-5       |  4   3-8       |  8   8-13
+18  Real Madrid III          5 |  4   1-3       |  4   0-3       |  8   1-6
+
+TABLE FOR Cultural Leonesa
+LEAGUE TABLE Primera División RFEF - Group 1 2026 | 20 teams | 90 games played
+League averages per game: home 1.44, away 1.13, total 2.58
+#   team                   Pts | home P GF-GA  | away P GF-GA  | all P GF-GA
+1   Lugo                    22 |  4   8-1       |  5   8-7       |  9  16-8
+2   UD Logroñés             20 |  4   6-4       |  5  14-8       |  9  20-12
+3   Racing Ferrol           16 |  4   7-2       |  5   2-5       |  9   9-7
+4   Cacereño                15 |  5   7-1       |  4   1-4       |  9   8-5
+5   Mirandes                14 |  4   6-1       |  5   6-9       |  9  12-10
+6   Pontevedra              14 |  5   8-7       |  4   4-4       |  9  12-11
+7   Extremadura 1924        13 |  4   3-4       |  5  13-6       |  9  16-10
+8   Real Unión              13 |  4  11-5       |  5   8-9       |  9  19-14
+9   Mérida AD               13 |  5   9-9       |  4   6-3       |  9  15-12
+10  Ponferradina            13 |  5   2-2       |  4   4-4       |  9   6-6
+11  Athletic Club II        12 |  4   5-6       |  5   9-6       |  9  14-12
+12  Zamora                  12 |  5   6-6       |  4   4-3       |  9  10-9
+13  Cultural Leonesa        12 |  4   8-5       |  5   2-4       |  9  10-9
+14  Real Avilés             11 |  5   8-7       |  4   7-6       |  9  15-13
+15  Barakaldo               10 |  5   7-4       |  4   1-6       |  9   8-10
+16  Unionistas de Salamanc  10 |  5  10-9       |  4   2-6       |  9  12-15
+17  CD Coria                 9 |  4   9-7       |  5   3-9       |  9  12-16
+18  Deportivo La Coruña II   8 |  5   5-8       |  4   3-8       |  9   8-16
+19  UD Ourense               5 |  4   1-4       |  5   2-11      |  9   3-15
+20  Arenas Getxo             5 |  5   4-10      |  4   3-12      |  9   7-22
+
+(26 API-Football requests used)
+
+----------------------------------------------------------------------
+MATCHBOOK: skipped (switched off for this run)

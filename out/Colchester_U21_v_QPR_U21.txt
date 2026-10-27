@@ -1,0 +1,13 @@
+MATCH Colchester U21 v QPR U21 | fetched 2026-10-27 18:44 local
+
+FORM DATA Colchester U21 v QPR U21 | source API-Football | 2026-10-27 18:45 UTC
+H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
+
+!! Colchester U21: No team found for "Colchester U21".
+
+!! QPR U21: No team found for "QPR U21".
+
+(2 API-Football requests used)
+
+----------------------------------------------------------------------
+MATCHBOOK: skipped (switched off for this run)
