@@ -1,5 +1,2 @@
-# Scan 27.10.2026 11:26 run 1
-Livyi Bereh v Veres Rivne | n=20 | xg=10
-Estoril Praia U23 v Santa Clara U23 | n=20 | xg=10
-Pazarspor v Aliaga | n=20 | xg=10
-Etimesgut Belediyespor v Gaziantep | n=20 | xg=10
+# Scan 27.10.2026 11:26 run 2
+Estoril U23 v Santa Clara U23 | n=20 | xg=10
