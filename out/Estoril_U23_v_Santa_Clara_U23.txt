@@ -1,7 +1,32 @@
-MATCH Estoril Praia U23 v Santa Clara U23 | fetched 2026-10-27 10:27 local
+MATCH Estoril U23 v Santa Clara U23 | fetched 2026-10-27 10:28 local
 
-FORM DATA Estoril Praia U23 v Santa Clara U23 | source API-Football | 2026-10-27 10:27 UTC
+FORM DATA Estoril U23 v Santa Clara U23 | source API-Football | 2026-10-27 10:28 UTC
 H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
+
+=== Estoril U23 (id 15463): last 20 finished games ===
+2026-10-19 A 2-2 v Leixões U23 | Liga Revelação U23 | ?
+2026-10-09 H 1-0 v Sporting CP U23 | Liga Revelação U23 | ?
+2026-10-05 A 3-2 v Torreense U23 | Liga Revelação U23 | ?
+2026-09-22 A 1-1 v Academico Viseu U23 | Liga Revelação U23 | Viseu
+2026-09-08 H 4-2 v Famalicão U23 | Liga Revelação U23 | ?
+2026-09-01 A 2-2 v Felgueiras U23 | Liga Revelação U23 | ?
+2026-08-25 H 2-1 v Moreirense U23 | Liga Revelação U23 | ?
+2026-08-18 A 1-1 v Farense U23 | Liga Revelação U23 | ?
+2026-08-12 H 3-3 v Gil Vicente U23 | Liga Revelação U23 | ?
+2026-04-28 H 1-2 v Gil Vicente U23 | Liga Revelação U23 | ?
+2026-04-21 A 1-1 v Farense U23 | Liga Revelação U23 | ?
+2026-04-14 A 2-0 v Rio Ave U23 | Liga Revelação U23 | ?
+2026-04-07 A 0-2 v Vizela U23 | Liga Revelação U23 | ?
+2026-03-29 H 1-1 v União Leiria U23 | Liga Revelação U23 | ?
+2026-03-23 A 1-1 v Portimonense U23 | Liga Revelação U23 | ?
+2026-03-16 H 1-0 v Farense U23 | Liga Revelação U23 | ?
+2026-03-05 A 2-1 v Marítimo U23 | Liga Revelação U23 | ?
+2026-02-24 A 0-0 v Estrela U23 | Liga Revelação U23 | ?
+2026-02-19 A 1-2 v Gil Vicente U23 | Liga Revelação U23 | ?
+2026-02-13 H 2-0 v Marítimo U23 | Liga Revelação U23 | ?
+Listed home: 8 games, scored 15 (1.88), conceded 9 (1.12), blanks 0, clean sheets 3
+Listed away: 12 games, scored 16 (1.33), conceded 15 (1.25), blanks 2, clean sheets 2
+All: 20 games, scored 31 (1.55), conceded 24 (1.20), blanks 2, clean sheets 5
 
 === Santa Clara U23 (id 21719): last 20 finished games ===
 2026-10-19 H 1-1 v Sporting Braga U23 | Liga Revelação U23 | ?
@@ -28,9 +53,7 @@ Listed home: 10 games, scored 12 (1.20), conceded 13 (1.30), blanks 2, clean she
 Listed away: 10 games, scored 15 (1.50), conceded 23 (2.30), blanks 2, clean sheets 1
 All: 20 games, scored 27 (1.35), conceded 36 (1.80), blanks 4, clean sheets 4
 
-!! Estoril Praia U23: No team found for "Estoril Praia U23".
-
-TABLE FOR Santa Clara U23
+TABLE FOR Estoril U23
 LEAGUE TABLE Liga Revelação U23 2026 | 20 teams | 89 games played
 League averages per game: home 1.47, away 1.43, total 2.90
 #   team                   Pts | home P GF-GA  | away P GF-GA  | all P GF-GA
@@ -55,7 +78,9 @@ League averages per game: home 1.47, away 1.43, total 2.90
 19  Estrela U23              6 |  5   6-8       |  4   2-8       |  9   8-16
 20  Portimonense U23         4 |  4   4-8       |  5   1-7       |  9   5-15
 
-(14 API-Football requests used)
+(Santa Clara U23: same table as Estoril U23, shown above)
+
+(25 API-Football requests used)
 
 ----------------------------------------------------------------------
 MATCHBOOK: skipped (switched off for this run)
