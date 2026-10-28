@@ -1,6 +1,6 @@
-MATCH Club America v Tijuana | fetched 2026-10-28 20:01 local
+MATCH Club America v id:2280 | fetched 2026-10-28 20:02 local
 
-FORM DATA Club America v Tijuana | source API-Football | 2026-10-28 20:01 UTC
+FORM DATA Club America v id:2280 | source API-Football | 2026-10-28 20:02 UTC
 H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
 
 === Club America (id 2287): last 20 finished games ===
@@ -28,20 +28,30 @@ Listed home: 12 games, scored 23 (1.92), conceded 10 (0.83), blanks 1, clean she
 Listed away: 8 games, scored 20 (2.50), conceded 16 (2.00), blanks 2, clean sheets 0
 All: 20 games, scored 43 (2.15), conceded 26 (1.30), blanks 3, clean sheets 5
 
-"Tijuana" matches several teams. Use id:<number> instead of the name:
-  id:2280   Club Tijuana (Mexico)
-  id:14872  Tijuana W (Mexico)
-  id:17341  Tijuana U20 (Mexico)
-  id:21545  Club Tijuana U23 (Mexico)
-  id:26831  Club Tijuana U21 (Mexico)
-(retrying Tijuana using the opponent's country, Mexico)
-"Tijuana" matches several teams. Use id:<number> instead of the name:
-  id:2280   Club Tijuana (Mexico)
-  id:14872  Tijuana W (Mexico)
-  id:17341  Tijuana U20 (Mexico)
-  id:21545  Club Tijuana U23 (Mexico)
-  id:26831  Club Tijuana U21 (Mexico)
-!! Tijuana: Ambiguous team name "Tijuana".
+=== Club Tijuana (id 2280): last 20 finished games ===
+2026-10-26 H 4-1 v Santos Laguna | Liga MX | Tijuana | xG 3.28-0.53
+2026-10-22 A 2-2 v Toluca | Liga MX | Toluca | xG 1.44-2.24
+2026-10-17 H 0-0 v Puebla | Liga MX | Tijuana | xG 1.18-0.40
+2026-10-10 A 1-1 v FC Juarez | Liga MX | Ciudad Juarez | xG 1.27-1.41
+2026-09-26 H 2-3 v Atlas | Liga MX | Tijuana
+2026-09-21 A 2-2 v CF Pachuca | Liga MX | Pachuca de Soto | xG 1.76-2.69
+2026-09-12 H 0-1 v Club Queretaro | Liga MX | Tijuana | xG 2.03-0.81
+2026-08-29 H 2-0 v U.N.A.M. - Pumas | Liga MX | Tijuana | xG 2.50-0.40
+2026-08-22 A 2-5 v Guadalajara Chivas | Liga MX | Zapopan
+2026-08-17 H 2-1 v Cruz Azul | Liga MX | Tijuana | xG 1.81-1.30
+2026-08-14 A 1-3 v Portland Timbers | Leagues Cup | Portland
+2026-08-10 A 0-1 v San Diego | Leagues Cup | San Diego
+2026-08-07 A 0-2 v Austin | Leagues Cup | Austin
+2026-08-01 A 0-0 v Atletico San Luis | Liga MX | San Luis de Potosi
+2026-07-25 H 1-0 v Leon | Liga MX | Tijuana
+2026-07-17 H 3-1 v Tigres UANL | Liga MX | Tijuana
+2026-07-10 H 2-2 v El Salvador | Friendlies | ?
+2026-07-04 A 2-1 v San Jose Earthquakes | Friendlies Clubs | ?
+2026-04-26 A 0-0 v Guadalajara Chivas | Liga MX | Zapopan
+2026-04-23 H 3-1 v CF Pachuca | Liga MX | Tijuana
+Listed home: 10 games, scored 19 (1.90), conceded 10 (1.00), blanks 2, clean sheets 3
+Listed away: 10 games, scored 10 (1.00), conceded 17 (1.70), blanks 4, clean sheets 2
+All: 20 games, scored 29 (1.45), conceded 27 (1.35), blanks 6, clean sheets 5
 
 TABLE FOR Club America
 LEAGUE TABLE Liga MX 2026 | 18 teams | 124 games played
@@ -66,7 +76,9 @@ League averages per game: home 1.56, away 1.44, total 3.01
 17  Necaxa                  10 |  8   9-15      |  6   7-12      | 14  16-27
 18  FC Juarez                5 |  7   5-12      |  7   4-21      | 14   9-33
 
-(15 API-Football requests used)
+(Club Tijuana: same table as Club America, shown above)
+
+(25 API-Football requests used)
 
 ----------------------------------------------------------------------
 MATCHBOOK: skipped (switched off for this run)
