@@ -44,72 +44,6 @@
     "created": "2026-10-28T06:50:36Z"
   },
   {
-    "id": "2026-10-28_tosu-kawasaki_0-1",
-    "date": "2026-10-28",
-    "ko": "11:00",
-    "match": "Tosu v Kawasaki",
-    "comp": "Japan, Japanese J League Cup",
-    "cell": "0-1",
-    "lay": 9.4,
-    "stake": 3,
-    "created": "2026-10-28T09:17:38+01:00"
-  },
-  {
-    "id": "2026-10-28_tosu-kawasaki_2-2",
-    "date": "2026-10-28",
-    "ko": "11:00",
-    "match": "Tosu v Kawasaki",
-    "comp": "Japan, Japanese J League Cup",
-    "cell": "2-2",
-    "lay": 17.5,
-    "stake": 3,
-    "created": "2026-10-28T09:17:38+01:00"
-  },
-  {
-    "id": "2026-10-28_yokohama-fm-hiroshima_0-3",
-    "date": "2026-10-28",
-    "ko": "11:00",
-    "match": "Yokohama FM v Hiroshima",
-    "comp": "Japan, Japanese J League Cup",
-    "cell": "0-3",
-    "lay": 13,
-    "stake": 3,
-    "created": "2026-10-28T10:01:57+01:00"
-  },
-  {
-    "id": "2026-10-28_nagoya-urawa_1-0",
-    "date": "2026-10-28",
-    "ko": "11:00",
-    "match": "Nagoya v Urawa",
-    "comp": "Japan, Japanese J League Cup",
-    "cell": "1-0",
-    "lay": 11.5,
-    "stake": 3,
-    "created": "2026-10-28T10:01:57+01:00"
-  },
-  {
-    "id": "2026-10-28_nagoya-urawa_2-2",
-    "date": "2026-10-28",
-    "ko": "11:00",
-    "match": "Nagoya v Urawa",
-    "comp": "Japan, Japanese J League Cup",
-    "cell": "2-2",
-    "lay": 16,
-    "stake": 3,
-    "created": "2026-10-28T10:01:57+01:00"
-  },
-  {
-    "id": "2026-10-28_kashima-pohang-steelers_1-0",
-    "date": "2026-10-28",
-    "ko": "11:00",
-    "match": "Kashima v Pohang Steelers",
-    "comp": "International, AFC Champions League",
-    "cell": "1-0",
-    "lay": 7.4,
-    "stake": 3,
-    "created": "2026-10-28T10:51:33+01:00"
-  },
-  {
     "id": "2026-10-28_nestos-chrysoupoli-fc-kalamata_0-1",
     "date": "2026-10-28",
     "ko": "14:00",
@@ -350,5 +284,60 @@
     "lay": 15.0,
     "stake": 3,
     "created": "2026-10-28T16:49:36+01:00"
+  },
+  {
+    "id": "2026-10-28_odds-bk-sandefjord_2-2",
+    "date": "2026-10-28",
+    "ko": "18:00",
+    "match": "Odds BK v Sandefjord",
+    "comp": "Norway, Norwegian Cup",
+    "cell": "2-2",
+    "lay": 13.0,
+    "stake": 3,
+    "created": "2026-10-28T16:34:11Z"
+  },
+  {
+    "id": "2026-10-28_lillestrom-sogndal_1-0",
+    "date": "2026-10-28",
+    "ko": "18:00",
+    "match": "Lillestrom v Sogndal",
+    "comp": "Norway, Norwegian Cup",
+    "cell": "1-0",
+    "lay": 14.5,
+    "stake": 3,
+    "created": "2026-10-28T16:34:11Z"
+  },
+  {
+    "id": "2026-10-28_halmstads-malmo-ff_1-3",
+    "date": "2026-10-28",
+    "ko": "19:00",
+    "match": "Halmstads v Malmo FF",
+    "comp": "Sweden, Swedish Allsvenskan",
+    "cell": "1-3",
+    "lay": 15.5,
+    "stake": 3,
+    "created": "2026-10-28T16:34:11Z"
+  },
+  {
+    "id": "2026-10-28_carrarese-arezzo_2-2",
+    "date": "2026-10-28",
+    "ko": "20:00",
+    "match": "Carrarese v Arezzo",
+    "comp": "Italy, Italian Serie B",
+    "cell": "2-2",
+    "lay": 17.5,
+    "stake": 3,
+    "created": "2026-10-28T16:34:11Z"
+  },
+  {
+    "id": "2026-10-28_juve-stabia-verona_2-2",
+    "date": "2026-10-28",
+    "ko": "20:00",
+    "match": "Juve Stabia v Verona",
+    "comp": "Italy, Italian Serie B",
+    "cell": "2-2",
+    "lay": 16.0,
+    "stake": 3,
+    "created": "2026-10-28T16:34:11Z"
   }
 ]
