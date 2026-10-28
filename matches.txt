@@ -1,15 +1,6 @@
-# Scan 28.10.2026 18:14
-Sparta Prague v Banik Ostrava | n=20 | xg=10
-Sparta Rotterdam v Fortuna Sittard | n=20 | xg=10
-St Johnstone v Motherwell | n=20 | xg=10
-Bayer Leverkusen v Nurnberg | n=20 | xg=10
-Aberdeen v Falkirk | n=20 | xg=10
-Sunderland v Brentford | n=20 | xg=10
-Dundee v Kilmarnock | n=20 | xg=10
-Hannover 96 v Kaiserslautern | n=20 | xg=10
-Holstein Kiel v Hoffenheim | n=20 | xg=10
-Forest Green v Eastleigh | n=20 | xg=10
-St Mirren v Hibernian | n=20 | xg=10
-Carlisle v Harrogate Town | n=20 | xg=10
-Arsenal W v Benfica W | n=20 | xg=10
-Lyon W v Inter W | n=20 | xg=10
+# Scan 28.10.2026 18:14 retry ids
+Sparta Praha v id:3713 | n=20 | xg=10
+Bayer Leverkusen v id:171 | n=20 | xg=10
+Hannover 96 v id:745 | n=20 | xg=10
+Holstein Kiel v id:167 | n=20 | xg=10
+Lyon W v id:7533 | n=20 | xg=10
