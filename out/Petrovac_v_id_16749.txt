@@ -1,6 +1,6 @@
-MATCH Petrovac v Mladost | fetched 2026-10-28 14:31 local
+MATCH Petrovac v id:16749 | fetched 2026-10-28 14:33 local
 
-FORM DATA Petrovac v Mladost | source API-Football | 2026-10-28 14:31 UTC
+FORM DATA Petrovac v id:16749 | source API-Football | 2026-10-28 14:33 UTC
 H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
 
 === Petrovac (id 3741): last 20 finished games ===
@@ -28,48 +28,30 @@ Listed home: 10 games, scored 11 (1.10), conceded 12 (1.20), blanks 3, clean she
 Listed away: 10 games, scored 6 (0.60), conceded 11 (1.10), blanks 5, clean sheets 4
 All: 20 games, scored 17 (0.85), conceded 23 (1.15), blanks 8, clean sheets 7
 
-"Mladost" matches several teams. Use id:<number> instead of the name:
-  id:643    FK Mladost Podgorica (Montenegro)
-  id:699    Mladost Lucani (Serbia)
-  id:3358   Mladost Doboj Kakanj (Bosnia)
-  id:3372   Mladost Kikači (Bosnia)
-  id:3750   Mladost Lješkopolje (Montenegro)
-  id:6244   Mladost Kl. Podravski (Croatia)
-  id:6245   Mladost Petrinja (Croatia)
-  id:8593   Mladost Ždralovi (Croatia)
-  id:14071  Mladosť Kalša (Slovakia)
-  id:14246  Mladost Medoševac (Serbia)
-  id:14261  Mladost Novi Sad (Serbia)
-  id:14561  Mladost Tribunj (Croatia)
-  id:16749  Mladost DG (Montenegro)
-  id:17473  Mladost Prelog (Croatia)
-  id:25290  Mladost Solina (Bosnia)
-  id:26410  FK Mladost Omoljica (Serbia)
-  id:26412  Mladost Bački Jarak (Serbia)
-  id:28268  Mladost Lucani U19 (Serbia)
-  id:28404  Mladost DG U19 (Montenegro)
-(retrying Mladost using the opponent's country, Montenegro)
-"Mladost" matches several teams. Use id:<number> instead of the name:
-  id:643    FK Mladost Podgorica (Montenegro)
-  id:699    Mladost Lucani (Serbia)
-  id:3358   Mladost Doboj Kakanj (Bosnia)
-  id:3372   Mladost Kikači (Bosnia)
-  id:3750   Mladost Lješkopolje (Montenegro)
-  id:6244   Mladost Kl. Podravski (Croatia)
-  id:6245   Mladost Petrinja (Croatia)
-  id:8593   Mladost Ždralovi (Croatia)
-  id:14071  Mladosť Kalša (Slovakia)
-  id:14246  Mladost Medoševac (Serbia)
-  id:14261  Mladost Novi Sad (Serbia)
-  id:14561  Mladost Tribunj (Croatia)
-  id:16749  Mladost DG (Montenegro)
-  id:17473  Mladost Prelog (Croatia)
-  id:25290  Mladost Solina (Bosnia)
-  id:26410  FK Mladost Omoljica (Serbia)
-  id:26412  Mladost Bački Jarak (Serbia)
-  id:28268  Mladost Lucani U19 (Serbia)
-  id:28404  Mladost DG U19 (Montenegro)
-!! Mladost: Ambiguous team name "Mladost".
+=== Mladost DG (id 16749): last 20 finished games ===
+2026-10-22 A 1-4 v Mornar | First League | Bar
+2026-10-18 H 0-0 v Jezero | First League | Podgorica
+2026-10-14 H 4-0 v Iskra | Cup | Podgorica
+2026-10-08 A 2-2 v Otrant-Olympic | First League | Ulcinj
+2026-10-02 H 1-5 v Mornar | Friendlies Clubs | ?
+2026-09-28 A 1-0 v Petrovac | Friendlies Clubs | ?
+2026-09-20 A 0-3 v Bokelj | First League | Kotor
+2026-09-14 H 0-2 v Buducnost Podgorica | First League | Podgorica
+2026-09-10 A 1-0 v Arsenal Tivat | First League | Tivat
+2026-09-05 H 2-0 v Dečić | First League | Podgorica
+2026-08-28 A 1-5 v Sutjeska | First League | ?
+2026-08-22 H 0-0 v Petrovac | First League | Podgorica
+2026-08-16 H 2-3 v Mornar | First League | Podgorica
+2026-08-09 A 0-1 v Jezero | First League | Plav
+2026-08-02 H 2-1 v Otrant-Olympic | First League | Podgorica
+2026-07-26 H 1-1 v Lovćen | Friendlies Clubs | ?
+2026-07-19 A 2-4 v Semendrija 1924 | Friendlies Clubs | ?
+2026-07-17 H 3-3 v FK Vozdovac | Friendlies Clubs | ?
+2026-07-01 A 0-1 v Arsenal Tivat | Friendlies Clubs | ?
+2026-05-24 A 4-1 v Arsenal Tivat | First League | Tivat
+Listed home: 10 games, scored 15 (1.50), conceded 15 (1.50), blanks 3, clean sheets 4
+Listed away: 10 games, scored 12 (1.20), conceded 21 (2.10), blanks 3, clean sheets 2
+All: 20 games, scored 27 (1.35), conceded 36 (1.80), blanks 6, clean sheets 6
 
 TABLE FOR Petrovac
 LEAGUE TABLE First League 2026 | 10 teams | 59 games played
@@ -86,7 +68,9 @@ League averages per game: home 1.39, away 0.97, total 2.36
 9   Jezero                  11 |  6   8-5       |  6   5-15      | 12  13-20
 10  Arsenal Tivat            8 |  5   2-7       |  6   7-9       | 11   9-16
 
-(15 API-Football requests used)
+(Mladost DG: same table as Petrovac, shown above)
+
+(25 API-Football requests used)
 
 ----------------------------------------------------------------------
 MATCHBOOK: skipped (switched off for this run)

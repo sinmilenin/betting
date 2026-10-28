@@ -1,7 +1,3 @@
-RUN 2026-10-28 14:31 local | 4 match(es)
-Petrovac v Mladost -> out/Petrovac_v_Mladost.txt
-    !! Mladost: Ambiguous team name "Mladost".
-Atalanta II v id:1708 -> out/Atalanta_II_v_id_1708.txt
-id:7020 v Kongsvinger -> out/id_7020_v_Kongsvinger.txt
-id:160 v id:161 -> out/id_160_v_id_161.txt
-Requests used: API-Football 92, Matchbook 0
+RUN 2026-10-28 14:33 local | 1 match(es)
+Petrovac v id:16749 -> out/Petrovac_v_id_16749.txt
+Requests used: API-Football 25, Matchbook 0
