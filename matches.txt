@@ -1,2 +1,2 @@
-# Scan 28.10.2026 09:12 retry Yokohama (search Yokohama)
-Yokohama v Sanfrecce Hiroshima | n=20 | xg=10
+# Scan 28.10.2026 09:12 retry Yokohama F. Marinos by id
+id:296 v Sanfrecce Hiroshima | n=20 | xg=10
