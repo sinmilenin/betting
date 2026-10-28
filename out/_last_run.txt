@@ -1,3 +1,3 @@
-RUN 2026-10-28 18:49 local | 1 match(es)
-MVV v Excelsior -> out/MVV_v_Excelsior.txt
+RUN 2026-10-28 18:51 local | 1 match(es)
+Manchester United W v Burnley W -> out/Manchester_United_W_v_Burnley_W.txt
 Requests used: API-Football 26, Matchbook 0
