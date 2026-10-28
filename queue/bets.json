@@ -97,5 +97,16 @@
     "lay": 16,
     "stake": 3,
     "created": "2026-10-28T10:01:57+01:00"
+  },
+  {
+    "id": "2026-10-28_kashima-pohang-steelers_1-0",
+    "date": "2026-10-28",
+    "ko": "11:00",
+    "match": "Kashima v Pohang Steelers",
+    "comp": "International, AFC Champions League",
+    "cell": "1-0",
+    "lay": 7.4,
+    "stake": 3,
+    "created": "2026-10-28T10:51:33+01:00"
   }
 ]
