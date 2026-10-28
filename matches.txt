@@ -1,5 +1,2 @@
-# Scan 28.10.2026 15:28 retry with ids
-Petrovac v Mladost | n=20 | xg=10
-Atalanta II v id:1708 | n=20 | xg=10
-id:7020 v Kongsvinger | n=20 | xg=10
-id:160 v id:161 | n=20 | xg=10
+# Scan 28.10.2026 15:28 retry Mladost DG
+Petrovac v id:16749 | n=20 | xg=10
