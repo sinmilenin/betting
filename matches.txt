@@ -1,7 +1,5 @@
-# Scan 28.10.2026 15:28
-OFK Petrovac v Mladost Donja Gorica | n=20 | xg=10
-Atalanta U23 v Pesaro | n=20 | xg=10
-Molde v Stromsgodset | n=20 | xg=10
-Pors v Kongsvinger | n=20 | xg=10
-Zamalek v Al Mokawloon | n=20 | xg=10
-Freiburg v Wolfsburg | n=20 | xg=10
+# Scan 28.10.2026 15:28 retry with ids
+Petrovac v Mladost | n=20 | xg=10
+Atalanta II v id:1708 | n=20 | xg=10
+id:7020 v Kongsvinger | n=20 | xg=10
+id:160 v id:161 | n=20 | xg=10
