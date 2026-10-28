@@ -1,4 +1,2 @@
-# Scan 28.10.2026 10:42 new fixtures
-Ankaraspor v Kirklarelispor | n=20 | xg=10
-Romanija Pale v Sloga Doboj | n=20 | xg=10
-Persib Bandung v Melbourne Victory | n=20 | xg=10
+# Scan 28.10.2026 10:42 retry Kirklarelispor
+Ankaraspor v Kirklareli | n=20 | xg=10
