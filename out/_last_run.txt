@@ -1,3 +1,6 @@
-RUN 2026-10-28 08:15 local | 1 match(es)
-id:296 v Sanfrecce Hiroshima -> out/id_296_v_Sanfrecce_Hiroshima.txt
-Requests used: API-Football 25, Matchbook 0
+RUN 2026-10-28 08:57 local | 3 match(es)
+Gamba Osaka v Buriram United -> out/Gamba_Osaka_v_Buriram_United.txt
+Nagoya Grampus v Urawa -> out/Nagoya_Grampus_v_Urawa.txt
+Tiszaujvaros v Kecskemeti -> out/Tiszaujvaros_v_Kecskemeti.txt
+    !! Kecskemeti: Ambiguous team name "Kecskemeti".
+Requests used: API-Football 65, Matchbook 0

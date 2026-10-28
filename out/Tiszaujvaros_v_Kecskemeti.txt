@@ -1,0 +1,66 @@
+MATCH Tiszaujvaros v Kecskemeti | fetched 2026-10-28 08:57 local
+
+FORM DATA Tiszaujvaros v Kecskemeti | source API-Football | 2026-10-28 08:57 UTC
+H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
+
+=== Tiszaújváros (id 5149): last 20 finished games ===
+2026-10-24 A 2-2 v Füzesabony | NB III - Northeast | ?
+2026-10-17 H 0-4 v Diósgyőr II | NB III - Northeast | ?
+2026-10-11 A 3-1 v Hajdúnánás | NB III - Northeast | ?
+2026-10-03 H 2-2 v Mátészalka | NB III - Northeast | ?
+2026-09-26 A 1-0 v Gödöllő | NB III - Northeast | ?
+2026-09-20 H 0-1 v Kisvárda II | NB III - Northeast | ?
+2026-09-12 A 4-2 v Karancslapujtő | Magyar Kupa | ?
+2026-09-05 A 1-3 v Debrecen II | NB III - Northeast | ?
+2026-08-29 H 3-2 v Nyiregyhaza II | NB III - Northeast | ?
+2026-08-26 A 3-0 v Tarpa | NB III - Northeast | ?
+2026-08-22 A 0-0 v Nagybátony | Magyar Kupa | ? [PEN, 90-min score shown]
+2026-08-15 H 1-0 v Tiszafuredi VSE | NB III - Northeast | ?
+2026-08-12 A 0-1 v Salgótarjáni BTC | NB III - Northeast | ?
+2026-08-08 A 1-3 v Cigand SE | NB III - Northeast | ?
+2026-07-25 H 0-1 v Ózd Sajóvölgye | NB III - Northeast | ?
+2026-05-24 H 1-1 v Tarpa | NB III - Northeast | Tiszaújváros
+2026-05-17 A 1-4 v Debrecen II | NB III - Northeast | Debrecen
+2026-05-10 H 1-1 v Kisvárda II | NB III - Northeast | Tiszaújváros
+2026-05-03 A 2-8 v Nyiregyhaza II | NB III - Northeast | Nyíregyháza
+2026-04-26 H 1-3 v Füzesabony | NB III - Northeast | Tiszaújváros
+Listed home: 9 games, scored 9 (1.00), conceded 15 (1.67), blanks 3, clean sheets 1
+Listed away: 11 games, scored 18 (1.64), conceded 24 (2.18), blanks 2, clean sheets 3
+All: 20 games, scored 27 (1.35), conceded 39 (1.95), blanks 5, clean sheets 4
+
+"Kecskemeti" matches several teams. Use id:<number> instead of the name:
+  id:5110   Kecskeméti LC (Hungary)
+  id:5111   Kecskeméti TE (Hungary)
+  id:19463  Kecskeméti TE II (Hungary)
+(retrying Kecskemeti using the opponent's country, Hungary)
+"Kecskemeti" matches several teams. Use id:<number> instead of the name:
+  id:5110   Kecskeméti LC (Hungary)
+  id:5111   Kecskeméti TE (Hungary)
+  id:19463  Kecskeméti TE II (Hungary)
+!! Kecskemeti: Ambiguous team name "Kecskemeti".
+
+TABLE FOR Tiszaújváros
+LEAGUE TABLE NB III - Northeast 2026 | 16 teams | 104 games played
+League averages per game: home 1.83, away 1.36, total 3.18
+#   team                   Pts | home P GF-GA  | away P GF-GA  | all P GF-GA
+1   Ózd Sajóvölgye          33 |  6  24-6       |  7  18-5       | 13  42-11
+2   Cigand SE               32 |  7  20-7       |  6  14-2       | 13  34-9
+3   DEAC                    26 |  6  15-7       |  7  17-11      | 13  32-18
+4   Debrecen II             25 |  7  23-9       |  6   9-13      | 13  32-22
+5   Gödöllő                 22 |  7  17-2       |  6   5-12      | 13  22-14
+6   Kisvárda II             21 |  7  10-9       |  6  10-5       | 13  20-14
+7   Mátészalka              20 |  6  13-5       |  7   8-10      | 13  21-15
+8   Diósgyőr II             19 |  6   9-10      |  7  14-10      | 13  23-20
+9   Tiszaújváros            17 |  6   6-10      |  7  11-10      | 13  17-20
+10  Füzesabony              17 |  6   8-7       |  7   7-11      | 13  15-18
+11  Eger                    17 |  6   7-9       |  7   7-17      | 13  14-26
+12  Hajdúnánás              13 |  6  13-9       |  7   7-28      | 13  20-37
+13  Salgótarjáni BTC        12 |  7   4-11      |  6   6-10      | 13  10-21
+14  Tiszafuredi VSE         10 |  7   4-10      |  6   3-10      | 13   7-20
+15  Tarpa                    9 |  8   9-12      |  5   1-18      | 13  10-30
+16  Nyiregyhaza II           4 |  6   8-18      |  7   4-18      | 13  12-36
+
+(15 API-Football requests used)
+
+----------------------------------------------------------------------
+MATCHBOOK: skipped (switched off for this run)
