@@ -1,0 +1,13 @@
+MATCH OFK Petrovac v Mladost Donja Gorica | fetched 2026-10-28 14:29 local
+
+FORM DATA OFK Petrovac v Mladost Donja Gorica | source API-Football | 2026-10-28 14:29 UTC
+H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
+
+!! OFK Petrovac: No team found for "OFK Petrovac".
+
+!! Mladost Donja Gorica: No team found for "Mladost Donja Gorica".
+
+(2 API-Football requests used)
+
+----------------------------------------------------------------------
+MATCHBOOK: skipped (switched off for this run)

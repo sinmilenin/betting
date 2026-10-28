@@ -1,3 +1,15 @@
-RUN 2026-10-28 13:48 local | 1 match(es)
-id:2871 v Muharraq -> out/id_2871_v_Muharraq.txt
-Requests used: API-Football 27, Matchbook 0
+RUN 2026-10-28 14:29 local | 6 match(es)
+OFK Petrovac v Mladost Donja Gorica -> out/OFK_Petrovac_v_Mladost_Donja_Gorica.txt
+    !! OFK Petrovac: No team found for "OFK Petrovac".
+    !! Mladost Donja Gorica: No team found for "Mladost Donja Gorica".
+Atalanta U23 v Pesaro -> out/Atalanta_U23_v_Pesaro.txt
+    !! Atalanta U23: No team found for "Atalanta U23".
+    !! Pesaro: Ambiguous team name "Pesaro".
+Molde v Stromsgodset -> out/Molde_v_Stromsgodset.txt
+Pors v Kongsvinger -> out/Pors_v_Kongsvinger.txt
+    !! Pors: Ambiguous team name "Pors".
+Zamalek v Al Mokawloon -> out/Zamalek_v_Al_Mokawloon.txt
+Freiburg v Wolfsburg -> out/Freiburg_v_Wolfsburg.txt
+    !! Freiburg: Ambiguous team name "Freiburg".
+    !! Wolfsburg: Ambiguous team name "Wolfsburg".
+Requests used: API-Football 73, Matchbook 0
