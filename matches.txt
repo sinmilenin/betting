@@ -1,2 +1,2 @@
-# Scan 28.10.2026 19:46
-MVV Maastricht v Excelsior | n=20 | xg=10
+# Scan 28.10.2026 19:46 retry MVV
+MVV v Excelsior | n=20 | xg=10
