@@ -1,4 +1,3 @@
-RUN 2026-10-28 18:47 local | 1 match(es)
-MVV Maastricht v Excelsior -> out/MVV_Maastricht_v_Excelsior.txt
-    !! MVV Maastricht: No team found for "MVV Maastricht".
-Requests used: API-Football 14, Matchbook 0
+RUN 2026-10-28 18:49 local | 1 match(es)
+MVV v Excelsior -> out/MVV_v_Excelsior.txt
+Requests used: API-Football 26, Matchbook 0
