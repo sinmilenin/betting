@@ -1,0 +1,99 @@
+MATCH Borac Cacak v Radnik Surdulica | fetched 2026-10-28 14:58 local
+
+FORM DATA Borac Cacak v Radnik Surdulica | source API-Football | 2026-10-28 14:58 UTC
+H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
+
+=== Borac Cacak (id 2649): last 20 finished games ===
+2026-10-24 H 0-0 v Napredak | Prva Liga | Cacak
+2026-10-19 A 3-3 v FK Spartak Zdrepceva KRV | Prva Liga | Subotica
+2026-10-10 H 3-1 v Jedinstvo Ub | Prva Liga | Cacak
+2026-10-04 A 1-3 v Javor | Prva Liga | Ivanjica
+2026-09-26 H 2-2 v TSC Backa Topola | Prva Liga | Cacak
+2026-09-20 A 2-1 v Teleoptik | Prva Liga | Belgrade
+2026-09-16 H 1-2 v Metalac GM | Prva Liga | Cacak
+2026-09-13 A 1-0 v OFK Bor 1919 | Prva Liga | ?
+2026-09-05 H 2-1 v Grafičar | Prva Liga | Cacak
+2026-08-30 A 2-1 v OFK Vršac | Prva Liga | Vrsac
+2026-08-23 A 2-0 v Dubočica | Prva Liga | Leskovac
+2026-08-19 H 2-1 v Naftagas | Prva Liga | Cacak
+2026-08-14 A 3-2 v Loznica | Prva Liga | Loznica
+2026-08-08 H 1-0 v FK Vozdovac | Prva Liga | Cacak
+2026-08-01 A 2-3 v Semendrija 1924 | Prva Liga | Smederevo
+2026-07-25 H 3-0 v Grafičar | Friendlies Clubs | ?
+2026-06-27 A 0-2 v Radnicki 1923 | Friendlies Clubs | ?
+2026-05-29 H 1-1 v Stepojevac Vaga | Prva Liga | Cacak
+2026-05-24 A 2-0 v Tekstilac Odžaci | Prva Liga | ?
+2026-05-17 H 0-0 v Dinamo Jug | Prva Liga | Cacak
+Listed home: 10 games, scored 15 (1.50), conceded 8 (0.80), blanks 2, clean sheets 4
+Listed away: 10 games, scored 18 (1.80), conceded 15 (1.50), blanks 1, clean sheets 3
+All: 20 games, scored 33 (1.65), conceded 23 (1.15), blanks 3, clean sheets 7
+
+=== Radnik Surdulica (id 2657): last 20 finished games ===
+2026-10-23 A 0-1 v Radnicki 1923 | Super Liga | Kragujevac | xG 0.81-2.28
+2026-10-16 H 3-0 v Radnicki NIS | Super Liga | Surdulica | xG 2.70-0.24
+2026-10-10 A 0-1 v IMT Novi Beograd | Super Liga | Belgrade | xG 1.33-1.37
+2026-09-19 H 4-4 v FK Partizan | Super Liga | Surdulica
+2026-09-14 A 1-1 v Zemun | Super Liga | Belgrade | xG 3.62-0.20
+2026-09-10 H 0-0 v FK Crvena Zvezda | Super Liga | Surdulica
+2026-09-05 H 3-1 v Cukaricki | Super Liga | Surdulica
+2026-08-29 A 1-5 v Železničar Pančevo | Super Liga | ? | xG 0.47-5.14
+2026-08-23 H 1-0 v Novi Pazar | Super Liga | Surdulica | xG 0.67-1.15
+2026-08-15 H 2-1 v Macva | Super Liga | Surdulica | xG 0.76-0.51
+2026-08-09 A 1-2 v Vojvodina | Super Liga | Novi Sad
+2026-07-25 A 0-0 v OFK Beograd | Super Liga | Belgrade
+2026-07-19 H 1-1 v Mladost Lucani | Super Liga | Surdulica
+2026-07-09 A 1-0 v Novi Pazar | Friendlies Clubs | ?
+2026-07-04 H 3-1 v Buducnost Podgorica | Friendlies Clubs | ?
+2026-06-30 A 0-5 v Levski Sofia | Friendlies Clubs | ?
+2026-05-23 A 0-5 v FK Partizan | Super Liga | Belgrade
+2026-05-17 H 0-0 v FK Crvena Zvezda | Super Liga | Surdulica
+2026-05-09 A 1-1 v Železničar Pančevo | Super Liga | ?
+2026-05-04 H 1-4 v Vojvodina | Super Liga | Surdulica
+Listed home: 10 games, scored 18 (1.80), conceded 12 (1.20), blanks 2, clean sheets 4
+Listed away: 10 games, scored 5 (0.50), conceded 21 (2.10), blanks 5, clean sheets 2
+All: 20 games, scored 23 (1.15), conceded 33 (1.65), blanks 7, clean sheets 6
+
+TABLE FOR Borac Cacak
+LEAGUE TABLE Prva Liga 2026 | 16 teams | 120 games played
+League averages per game: home 1.50, away 1.22, total 2.72
+#   team                   Pts | home P GF-GA  | away P GF-GA  | all P GF-GA
+1   TSC Backa Topola        33 |  8  18-6       |  7  17-10      | 15  35-16
+2   Javor                   30 |  8  23-7       |  7  12-9       | 15  35-16
+3   Borac Cacak             30 |  7  11-7       |  8  16-13      | 15  27-20
+4   OFK Vršac               26 |  7  10-4       |  8   8-10      | 15  18-14
+5   Semendrija 1924         25 |  8  14-9       |  7   8-7       | 15  22-16
+6   Dubočica                22 |  7   7-6       |  8   9-11      | 15  16-17
+7   Napredak                22 |  8  12-10      |  7   2-5       | 15  14-15
+8   Loznica                 20 |  8   9-7       |  7  10-14      | 15  19-21
+9   FK Vozdovac             19 |  8   7-6       |  7   8-8       | 15  15-14
+10  FK Spartak Zdrepceva K  19 |  8  13-17      |  7  11-11      | 15  24-28
+11  Naftagas                18 |  7  10-6       |  8  12-11      | 15  22-17
+12  Metalac GM              18 |  7  11-13      |  8   7-9       | 15  18-22
+13  Jedinstvo Ub            14 |  8  11-13      |  7   6-12      | 15  17-25
+14  Teleoptik               13 |  7   7-10      |  8  11-16      | 15  18-26
+15  Grafičar                11 |  7  12-12      |  8   6-17      | 15  18-29
+16  OFK Bor 1919             8 |  7   5-13      |  8   3-17      | 15   8-30
+
+TABLE FOR Radnik Surdulica
+LEAGUE TABLE Super Liga 2026 | 14 teams | 89 games played
+League averages per game: home 1.56, away 1.01, total 2.57
+#   team                   Pts | home P GF-GA  | away P GF-GA  | all P GF-GA
+1   FK Crvena Zvezda        37 |  7  24-3       |  6   9-1       | 13  33-4
+2   Vojvodina               29 |  7  14-3       |  6  14-9       | 13  28-12
+3   Železničar Pančevo      23 |  7  13-5       |  5   6-5       | 12  19-10
+4   IMT Novi Beograd        21 |  6   7-2       |  7   8-7       | 13  15-9
+5   Radnicki 1923           20 |  5  11-4       |  7   7-10      | 12  18-14
+6   Cukaricki               18 |  7  11-9       |  6   8-11      | 13  19-20
+7   Mladost Lucani          18 |  6   7-4       |  7   5-14      | 13  12-18
+8   Radnik Surdulica        17 |  7  14-7       |  6   3-10      | 13  17-17
+9   Novi Pazar              16 |  7  10-9       |  6   3-5       | 13  13-14
+10  FK Partizan             11 |  6   7-9       |  6  11-13      | 12  18-22
+11  OFK Beograd             11 |  6   7-9       |  7   7-14      | 13  14-23
+12  Macva                   10 |  6   5-6       |  7   4-15      | 13   9-21
+13  Radnicki NIS             8 |  5   5-10      |  7   2-10      | 12   7-20
+14  Zemun                    6 |  7   4-10      |  6   3-15      | 13   7-25
+
+(26 API-Football requests used)
+
+----------------------------------------------------------------------
+MATCHBOOK: skipped (switched off for this run)

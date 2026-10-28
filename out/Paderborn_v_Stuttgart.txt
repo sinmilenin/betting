@@ -1,0 +1,24 @@
+MATCH Paderborn v Stuttgart | fetched 2026-10-28 14:58 local
+
+FORM DATA Paderborn v Stuttgart | source API-Football | 2026-10-28 14:58 UTC
+H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
+
+"Paderborn" matches several teams. Use id:<number> instead of the name:
+  id:185    SC Paderborn 07 (Germany)
+  id:12827  Paderborn II (Germany)
+  id:13956  Paderborn U19 (Germany)
+"Stuttgart" matches several teams. Use id:<number> instead of the name:
+  id:172    VfB Stuttgart (Germany)
+  id:10273  Stuttgart U19 (Germany)
+  id:12867  Stuttgart II (Germany)
+  id:12868  Stuttgarter Kickers (Germany)
+  id:13959  Stuttgarter K'rs U19 (Germany)
+  id:24130  Stuttgart W (Germany)
+!! Paderborn: Ambiguous team name "Paderborn".
+
+!! Stuttgart: Ambiguous team name "Stuttgart".
+
+(2 API-Football requests used)
+
+----------------------------------------------------------------------
+MATCHBOOK: skipped (switched off for this run)

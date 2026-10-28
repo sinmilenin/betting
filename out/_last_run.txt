@@ -1,3 +1,16 @@
-RUN 2026-10-28 14:33 local | 1 match(es)
-Petrovac v id:16749 -> out/Petrovac_v_id_16749.txt
-Requests used: API-Football 25, Matchbook 0
+RUN 2026-10-28 14:58 local | 8 match(es)
+Borac Cacak v Radnik Surdulica -> out/Borac_Cacak_v_Radnik_Surdulica.txt
+Varazdin v Lokomotiva Zagreb -> out/Varazdin_v_Lokomotiva_Zagreb.txt
+    !! Varazdin: Ambiguous team name "Varazdin".
+    !! Lokomotiva Zagreb: Ambiguous team name "Lokomotiva Zagreb".
+Servette W v OH Leuven W -> out/Servette_W_v_OH_Leuven_W.txt
+    !! Servette W: No team found for "Servette W".
+Parma v Udinese -> out/Parma_v_Udinese.txt
+AC Milan v Bologna -> out/AC_Milan_v_Bologna.txt
+Venezia v Inter -> out/Venezia_v_Inter.txt
+Dynamo Dresden v Schalke 04 -> out/Dynamo_Dresden_v_Schalke_04.txt
+    !! Schalke 04: Ambiguous team name "Schalke 04".
+Paderborn v Stuttgart -> out/Paderborn_v_Stuttgart.txt
+    !! Paderborn: Ambiguous team name "Paderborn".
+    !! Stuttgart: Ambiguous team name "Stuttgart".
+Requests used: API-Football 133, Matchbook 0
