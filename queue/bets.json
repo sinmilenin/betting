@@ -185,5 +185,27 @@
     "lay": 8.2,
     "stake": 3,
     "created": "2026-10-28T13:03:25+01:00"
+  },
+  {
+    "id": "2026-10-28_panathinaikos-aris_1-0",
+    "date": "2026-10-28",
+    "ko": "16:30",
+    "match": "Panathinaikos v Aris",
+    "comp": "Greece, Greek Cup",
+    "cell": "1-0",
+    "lay": 8,
+    "stake": 3,
+    "created": "2026-10-28T13:08:00Z"
+  },
+  {
+    "id": "2026-10-28_hearts-rangers_0-2",
+    "date": "2026-10-28",
+    "ko": "21:00",
+    "match": "Hearts v Rangers",
+    "comp": "United Kingdom, Scottish Premiership",
+    "cell": "0-2",
+    "lay": 13.5,
+    "stake": 3,
+    "created": "2026-10-28T13:08:00Z"
   }
 ]
