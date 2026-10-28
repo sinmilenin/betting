@@ -1,3 +1,6 @@
-RUN 2026-10-28 08:58 local | 1 match(es)
-Tiszaujvaros v id:5111 -> out/Tiszaujvaros_v_id_5111.txt
-Requests used: API-Football 26, Matchbook 0
+RUN 2026-10-28 09:43 local | 3 match(es)
+Ankaraspor v Kirklarelispor -> out/Ankaraspor_v_Kirklarelispor.txt
+    !! Kirklarelispor: No team found for "Kirklarelispor".
+Romanija Pale v Sloga Doboj -> out/Romanija_Pale_v_Sloga_Doboj.txt
+Persib Bandung v Melbourne Victory -> out/Persib_Bandung_v_Melbourne_Victory.txt
+Requests used: API-Football 66, Matchbook 0
