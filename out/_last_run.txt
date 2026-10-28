@@ -1,4 +1,3 @@
-RUN 2026-10-28 08:14 local | 1 match(es)
-Yokohama v Sanfrecce Hiroshima -> out/Yokohama_v_Sanfrecce_Hiroshima.txt
-    !! Yokohama: Ambiguous team name "Yokohama".
-Requests used: API-Football 15, Matchbook 0
+RUN 2026-10-28 08:15 local | 1 match(es)
+id:296 v Sanfrecce Hiroshima -> out/id_296_v_Sanfrecce_Hiroshima.txt
+Requests used: API-Football 25, Matchbook 0

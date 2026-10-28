@@ -1,11 +1,33 @@
-MATCH Yokohama v Sanfrecce Hiroshima | fetched 2026-10-28 08:14 local
+MATCH id:296 v Sanfrecce Hiroshima | fetched 2026-10-28 08:15 local
 
-FORM DATA Yokohama v Sanfrecce Hiroshima | source API-Football | 2026-10-28 08:14 UTC
+FORM DATA id:296 v Sanfrecce Hiroshima | source API-Football | 2026-10-28 08:15 UTC
 H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
 
-"Yokohama" matches several teams. Use id:<number> instead of the name:
-  id:296    Yokohama F. Marinos (Japan)
-  id:307    Yokohama FC (Japan)
+=== Yokohama F. Marinos (id 296): last 20 finished games ===
+2026-10-25 A 1-1 v Nagoya Grampus | J1 League | Toyota | xG 1.47-2.41
+2026-10-21 H 2-2 v Tokyo Verdy | J1 League | Tokyo | xG 1.97-1.65
+2026-10-17 A 0-0 v JEF United Chiba | J1 League | Chiba | xG 0.66-1.10
+2026-10-14 H 2-1 v Shimizu S-pulse | J-League Cup | Yokohama
+2026-10-10 A 0-0 v Cerezo Osaka | J1 League | Osaka | xG 1.28-0.49
+2026-10-07 H 2-1 v Kyoto Sangyo University | Emperor Cup | Yokohama
+2026-09-29 A 2-1 v Montedio Yamagata | J-League Cup | Tendo
+2026-09-19 H 2-0 v Mito Hollyhock | J1 League | Yokohama | xG 2.15-0.58
+2026-09-12 A 1-1 v Machida Zelvia | J1 League | Tokyo | xG 1.19-1.91
+2026-09-06 A 2-0 v Kashiwa Reysol | J1 League | Kashiwa | xG 1.90-1.84
+2026-09-02 H 1-1 v Kyoto Sanga | J1 League | Yokohama
+2026-08-29 A 2-3 v Urawa | J1 League | Saitama
+2026-08-26 H 1-0 v Fukushima United | Emperor Cup | Yokohama
+2026-08-22 H 1-0 v Vissel Kobe | J1 League | Yokohama
+2026-08-15 A 1-0 v Shimizu S-pulse | J1 League | Shizuoka
+2026-08-07 H 3-4 v Kashima | J1 League | Tokyo
+2026-07-19 H 3-1 v Roasso Kumamoto | Friendlies Clubs | ?
+2026-07-15 H 1-1 v Tegevajaro Miyazaki | Friendlies Clubs | ?
+2026-06-06 H 3-0 v Shimizu S-pulse | J1 League | Yokohama
+2026-05-31 A 1-1 v Shimizu S-pulse | J1 League | Shizuoka
+Listed home: 11 games, scored 21 (1.91), conceded 11 (1.00), blanks 0, clean sheets 4
+Listed away: 9 games, scored 10 (1.11), conceded 7 (0.78), blanks 2, clean sheets 4
+All: 20 games, scored 31 (1.55), conceded 18 (0.90), blanks 2, clean sheets 8
+
 === Sanfrecce Hiroshima (id 282): last 20 finished games ===
 2026-10-24 H 4-0 v Shimizu S-pulse | J1 League | Hiroshima
 2026-10-21 A 0-4 v V-varen Nagasaki | J1 League | Nagasaki | xG 0.96-1.24
@@ -31,13 +53,7 @@ Listed home: 9 games, scored 32 (3.56), conceded 3 (0.33), blanks 0, clean sheet
 Listed away: 11 games, scored 17 (1.55), conceded 14 (1.27), blanks 2, clean sheets 6
 All: 20 games, scored 49 (2.45), conceded 17 (0.85), blanks 2, clean sheets 12
 
-(retrying Yokohama using the opponent's country, Japan)
-"Yokohama" matches several teams. Use id:<number> instead of the name:
-  id:296    Yokohama F. Marinos (Japan)
-  id:307    Yokohama FC (Japan)
-!! Yokohama: Ambiguous team name "Yokohama".
-
-TABLE FOR Sanfrecce Hiroshima
+TABLE FOR Yokohama F. Marinos
 LEAGUE TABLE J1 League 2027 | 20 teams | 120 games played
 League averages per game: home 1.62, away 1.36, total 2.98
 #   team                   Pts | home P GF-GA  | away P GF-GA  | all P GF-GA
@@ -62,7 +78,9 @@ League averages per game: home 1.62, away 1.36, total 2.98
 19  Avispa Fukuoka           7 |  7   9-9       |  5   4-12      | 12  13-21
 20  JEF United Chiba         7 |  5   4-7       |  7   8-17      | 12  12-24
 
-(15 API-Football requests used)
+(Sanfrecce Hiroshima: same table as Yokohama F. Marinos, shown above)
+
+(25 API-Football requests used)
 
 ----------------------------------------------------------------------
 MATCHBOOK: skipped (switched off for this run)
