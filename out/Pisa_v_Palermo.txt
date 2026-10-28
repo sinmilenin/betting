@@ -1,0 +1,94 @@
+MATCH Pisa v Palermo | fetched 2026-10-28 15:43 local
+
+FORM DATA Pisa v Palermo | source API-Football | 2026-10-28 15:44 UTC
+H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
+
+"Pisa" matches several teams. Use id:<number> instead of the name:
+  id:801    Pisa (Italy)
+  id:884    Feralpisalo (Italy)
+  id:13550  Pisa (Finland)
+  id:15674  Pisa U19 (Italy)
+  id:19853  FeralpiSalò U19 (Italy)
+=== Palermo (id 522): last 20 finished games ===
+2026-10-25 H 2-1 v Carrarese | Serie B | Palermo | xG 1.89-1.32
+2026-10-17 A 2-0 v Mantova | Serie B | Mantova | xG 1.94-1.84
+2026-10-10 A 4-2 v Empoli | Serie B | Empoli | xG 4.91-1.91
+2026-09-19 H 2-1 v Padova | Serie B | Palermo | xG 2.51-1.18
+2026-09-13 A 1-1 v Avellino | Serie B | Avellino | xG 0.55-1.87
+2026-09-07 H 3-1 v Sampdoria | Serie B | Palermo | xG 1.60-1.70
+2026-09-03 H 5-2 v Mantova | Coppa Italia | Palermo
+2026-08-30 A 3-2 v Arezzo | Serie B | Arezzo | xG 2.01-1.18
+2026-08-23 H 1-0 v Juve Stabia | Serie B | Palermo | xG 1.21-1.04
+2026-08-17 H 2-0 v Lecce | Coppa Italia | Palermo
+2026-08-11 A 0-2 v Juventus | Friendlies Clubs | Perth
+2026-08-07 A 2-0 v Melbourne City | Friendlies Clubs | ?
+2026-07-29 H 1-1 v Iraklis 1908 | Friendlies Clubs | ?
+2026-07-25 H 2-2 v 1. FC Nürnberg | Friendlies Clubs | ?
+2026-07-22 H 7-0 v Paradiso | Friendlies Clubs | ?
+2026-07-18 A 0-1 v FC Ingolstadt 04 | Friendlies Clubs | ?
+2026-05-20 H 2-0 v Catanzaro | Serie B | Palermo
+2026-05-17 A 0-3 v Catanzaro | Serie B | Catanzaro
+2026-05-08 A 0-2 v Venezia | Serie B | Venice
+2026-05-01 H 3-2 v Catanzaro | Serie B | Palermo
+Listed home: 11 games, scored 30 (2.73), conceded 10 (0.91), blanks 0, clean sheets 4
+Listed away: 9 games, scored 12 (1.33), conceded 13 (1.44), blanks 4, clean sheets 2
+All: 20 games, scored 42 (2.10), conceded 23 (1.15), blanks 4, clean sheets 6
+
+(retrying Pisa using the opponent's country, Italy)
+NOTE: "Pisa" matched 2 teams; picked Pisa (Italy) because the opponent is from Italy. Others: Pisa (Finland)
+=== Pisa (id 801): last 20 finished games ===
+2026-10-25 A 1-1 v Hellas Verona | Serie B | Verona | xG 1.49-0.61
+2026-10-17 H 3-1 v Cremonese | Serie B | Pizza | xG 2.31-0.44
+2026-10-10 A 3-0 v Vicenza Virtus | Serie B | Vicenza | xG 2.74-0.61
+2026-10-03 A 0-2 v Monaco | Friendlies Clubs | ?
+2026-09-20 A 2-2 v Mantova | Serie B | Mantova | xG 2.18-1.98
+2026-09-15 A 0-3 v Fiorentina | Coppa Italia | Florence
+2026-09-11 H 1-4 v Virtus Entella | Serie B | Pisa | xG 1.08-1.71
+2026-09-06 A 3-0 v Juve Stabia | Serie B | Castellammare di Stabia | xG 1.69-0.96
+2026-08-30 H 2-1 v Catanzaro | Serie B | Pisa | xG 2.04-1.11
+2026-08-23 H 0-1 v Padova | Serie B | Pisa | xG 1.63-1.23
+2026-08-17 H 1-1 v Empoli | Coppa Italia | Pisa [PEN, 90-min score shown]
+2026-08-08 A 4-1 v Bologna | Friendlies Clubs | ?
+2026-07-26 H 0-1 v PRO Vercelli | Friendlies Clubs | ?
+2026-07-25 H 1-1 v Juventus U23 | Friendlies Clubs | ?
+2026-07-19 H 6-1 v Pavia | Friendlies Clubs | ?
+2026-05-23 A 1-2 v Lazio | Serie A | Rome
+2026-05-17 H 0-3 v Napoli | Serie A | Pisa
+2026-05-10 A 0-3 v Cremonese | Serie A | Cremona
+2026-05-01 H 1-2 v Lecce | Serie A | Pisa
+2026-04-25 A 0-1 v Parma | Serie A | Parma
+Listed home: 10 games, scored 15 (1.50), conceded 16 (1.60), blanks 3, clean sheets 0
+Listed away: 10 games, scored 14 (1.40), conceded 15 (1.50), blanks 4, clean sheets 2
+All: 20 games, scored 29 (1.45), conceded 31 (1.55), blanks 7, clean sheets 2
+
+TABLE FOR Palermo
+LEAGUE TABLE Serie B 2026 | 20 teams | 87 games played
+League averages per game: home 1.34, away 1.32, total 2.67
+#   team                   Pts | home P GF-GA  | away P GF-GA  | all P GF-GA
+1   Palermo                 22 |  4   8-3       |  4  10-5       |  8  18-8
+2   Modena                  19 |  4   8-4       |  5   9-5       |  9  17-9
+3   Ascoli                  18 |  5   8-3       |  4   8-3       |  9  16-6
+4   Mantova                 17 |  5   7-7       |  4   7-3       |  9  14-10
+5   Benevento               15 |  6  10-7       |  3   4-1       |  9  14-8
+6   Pisa                    14 |  4   6-7       |  4   9-3       |  8  15-10
+7   Padova                  13 |  5   5-5       |  4   4-5       |  9   9-10
+8   Sudtirol                13 |  5   5-2       |  4   5-7       |  9  10-9
+9   Avellino                12 |  5   9-5       |  4   4-5       |  9  13-10
+10  Cesena                  11 |  5   7-6       |  4   3-7       |  9  10-13
+11  Virtus Entella          10 |  5   5-7       |  4   6-3       |  9  11-10
+12  Arezzo                  10 |  4   3-10      |  4   5-7       |  8   8-17
+13  Hellas Verona            9 |  5  11-6       |  3   4-7       |  8  15-13
+14  Cremonese                9 |  4   3-5       |  5   5-6       |  9   8-11
+15  Vicenza Virtus           9 |  4   5-8       |  5   7-9       |  9  12-17
+16  Juve Stabia              8 |  3   4-4       |  5   5-4       |  8   9-8
+17  Empoli                   7 |  4   3-7       |  5   5-8       |  9   8-15
+18  Carrarese                7 |  4   3-5       |  4   4-4       |  8   7-9
+19  Sampdoria                5 |  3   4-5       |  6   4-13      |  9   8-18
+20  Catanzaro                5 |  3   3-9       |  6   7-12      |  9  10-21
+
+(Pisa: same table as Palermo, shown above)
+
+(26 API-Football requests used)
+
+----------------------------------------------------------------------
+MATCHBOOK: skipped (switched off for this run)

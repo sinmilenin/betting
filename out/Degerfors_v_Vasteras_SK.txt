@@ -1,0 +1,64 @@
+MATCH Degerfors v Vasteras SK | fetched 2026-10-28 15:43 local
+
+FORM DATA Degerfors v Vasteras SK | source API-Football | 2026-10-28 15:44 UTC
+H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
+
+"Degerfors" matches several teams. Use id:<number> instead of the name:
+  id:2172   Degerfors IF (Sweden)
+  id:17631  Degerfors W (Sweden)
+=== Vasteras SK FK (id 2241): last 20 finished games ===
+2026-10-23 H 1-2 v Halmstad | Allsvenskan | Westeros | xG 2.11-0.40
+2026-10-18 H 1-0 v Mjallby AIF | Allsvenskan | Westeros | xG 1.51-0.88
+2026-10-09 A 0-1 v IFK Goteborg | Allsvenskan | Gothenburg | xG 0.89-0.92
+2026-10-03 A 0-1 v Hammarby FF | Friendlies Clubs | ?
+2026-09-19 H 2-0 v Malmo FF | Allsvenskan | Westeros | xG 0.71-2.82
+2026-09-12 A 4-1 v AIK Stockholm | Allsvenskan | Solna | xG 3.67-3.23
+2026-09-05 H 0-1 v Sirius | Allsvenskan | Vasteras | xG 1.34-0.95
+2026-08-29 A 3-1 v BK Hacken | Allsvenskan | Gothenburg | xG 2.27-2.16
+2026-08-23 H 0-0 v Kalmar FF | Allsvenskan | Vasteras | xG 0.98-1.11
+2026-08-19 A 2-1 v Enköping | Svenska Cupen | ?
+2026-08-14 A 0-3 v IF Elfsborg | Allsvenskan | Boras
+2026-08-10 H 1-0 v Djurgardens IF | Allsvenskan | Vasteras
+2026-08-03 A 0-6 v Djurgardens IF | Allsvenskan | Stockholm
+2026-07-24 H 2-0 v Orgryte IS | Allsvenskan | Vasteras
+2026-07-17 A 0-0 v Mjallby AIF | Allsvenskan | Hallevik
+2026-07-12 H 2-0 v Degerfors IF | Allsvenskan | Vasteras
+2026-07-04 A 3-1 v Halmstad | Allsvenskan | Halmstad
+2026-06-28 A 2-3 v AIK Stockholm | Friendlies Clubs | ?
+2026-05-31 H 4-5 v IFK Goteborg | Allsvenskan | Vasteras
+2026-05-24 A 3-2 v Malmo FF | Allsvenskan | Malmö
+Listed home: 9 games, scored 13 (1.44), conceded 8 (0.89), blanks 2, clean sheets 6
+Listed away: 11 games, scored 17 (1.55), conceded 20 (1.82), blanks 5, clean sheets 1
+All: 20 games, scored 30 (1.50), conceded 28 (1.40), blanks 7, clean sheets 7
+
+(retrying Degerfors using the opponent's country, Sweden)
+"Degerfors" matches several teams. Use id:<number> instead of the name:
+  id:2172   Degerfors IF (Sweden)
+  id:17631  Degerfors W (Sweden)
+!! Degerfors: Ambiguous team name "Degerfors".
+
+TABLE FOR Vasteras SK FK
+LEAGUE TABLE Allsvenskan 2026 | 16 teams | 201 games played
+League averages per game: home 1.60, away 1.33, total 2.93
+#   team                   Pts | home P GF-GA  | away P GF-GA  | all P GF-GA
+1   Sirius                  55 | 13  28-19      | 12  28-13      | 25  56-32
+2   Hammarby FF             49 | 12  34-7       | 13  18-14      | 25  52-21
+3   Djurgardens IF          48 | 13  32-16      | 12  20-7       | 25  52-23
+4   BK Hacken               45 | 13  25-18      | 12  22-12      | 25  47-30
+5   IF Elfsborg             43 | 13  21-9       | 13  18-17      | 26  39-26
+6   Vasteras SK FK          38 | 13  19-15      | 12  17-23      | 25  36-38
+7   AIK Stockholm           38 | 13  21-29      | 13  21-16      | 26  42-45
+8   Malmo FF                37 | 13  25-21      | 12  13-13      | 25  38-34
+9   IFK Goteborg            37 | 12  16-13      | 13  19-31      | 25  35-44
+10  IF Brommapojkarna       33 | 12  15-15      | 13  24-28      | 25  39-43
+11  Gais                    31 | 13  17-6       | 12  14-20      | 25  31-26
+12  Mjallby AIF             23 | 13  12-21      | 12  16-21      | 25  28-42
+13  Kalmar FF               22 | 12  14-20      | 13   9-21      | 25  23-41
+14  Degerfors IF            20 | 12  12-17      | 13   9-24      | 25  21-41
+15  Orgryte IS              19 | 12  21-22      | 13  10-34      | 25  31-56
+16  Halmstad                17 | 12   9-19      | 13   9-27      | 25  18-46
+
+(14 API-Football requests used)
+
+----------------------------------------------------------------------
+MATCHBOOK: skipped (switched off for this run)

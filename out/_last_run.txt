@@ -1,6 +1,20 @@
-RUN 2026-10-28 14:59 local | 4 match(es)
-id:1483 v id:1017 -> out/id_1483_v_id_1017.txt
-Servette Chenois W v OH Leuven W -> out/Servette_Chenois_W_v_OH_Leuven_W.txt
-Dynamo Dresden v id:174 -> out/Dynamo_Dresden_v_id_174.txt
-id:185 v id:172 -> out/id_185_v_id_172.txt
-Requests used: API-Football 101, Matchbook 0
+RUN 2026-10-28 15:43 local | 13 match(es)
+ADT v Cesar Vallejo -> out/ADT_v_Cesar_Vallejo.txt
+Radnicki Nis v Partizan -> out/Radnicki_Nis_v_Partizan.txt
+Esbjerg v Nordsjaelland -> out/Esbjerg_v_Nordsjaelland.txt
+Puszcza Niepolomice v Wisla Plock -> out/Puszcza_Niepolomice_v_Wisla_Plock.txt
+    !! Puszcza Niepolomice: No team found for "Puszcza Niepolomice".
+HJK U19 v Zilina U19 -> out/HJK_U19_v_Zilina_U19.txt
+Chelsea W v Roma W -> out/Chelsea_W_v_Roma_W.txt
+Brommapojkarna v Hacken -> out/Brommapojkarna_v_Hacken.txt
+    !! Brommapojkarna: Ambiguous team name "Brommapojkarna".
+    !! Hacken: Ambiguous team name "Hacken".
+IFK Goteborg v Djurgardens -> out/IFK_Goteborg_v_Djurgardens.txt
+Pisa v Palermo -> out/Pisa_v_Palermo.txt
+Halmstad v Malmo FF -> out/Halmstad_v_Malmo_FF.txt
+Degerfors v Vasteras SK -> out/Degerfors_v_Vasteras_SK.txt
+    !! Degerfors: Ambiguous team name "Degerfors".
+FC Cajamarca v UTC Cajamarca -> out/FC_Cajamarca_v_UTC_Cajamarca.txt
+PAOK v AEK Athens -> out/PAOK_v_AEK_Athens.txt
+    !! AEK Athens: Ambiguous team name "AEK Athens".
+Requests used: API-Football 275, Matchbook 0
