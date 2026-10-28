@@ -1,4 +1,4 @@
-RUN 2026-10-28 09:44 local | 1 match(es)
-Ankaraspor v Kirklareli -> out/Ankaraspor_v_Kirklareli.txt
-    !! Kirklareli: No team found for "Kirklareli".
+RUN 2026-10-28 09:45 local | 1 match(es)
+Ankaraspor v Kırklarelispor -> out/Ankaraspor_v_K_rklarelispor.txt
+    !! Kırklarelispor: API-Football error: {"search": "The Search field may only contain alpha-numeric characters and spaces."}
 Requests used: API-Football 14, Matchbook 0
