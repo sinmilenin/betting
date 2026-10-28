@@ -55,50 +55,6 @@
     "created": "2026-10-28T11:31:24+01:00"
   },
   {
-    "id": "2026-10-28_fk-romanija-pale-sloga-doboj_aoaw",
-    "date": "2026-10-28",
-    "ko": "13:00",
-    "match": "FK Romanija Pale v Sloga Doboj",
-    "comp": "Bosnia and Herzegovina, Bosnian Cup",
-    "cell": "AOAW",
-    "lay": 3.4,
-    "stake": 3,
-    "created": "2026-10-28T12:20:14+01:00"
-  },
-  {
-    "id": "2026-10-28_fk-vrsac-ofk-beograd_0-1",
-    "date": "2026-10-28",
-    "ko": "13:00",
-    "match": "FK Vrsac v OFK Beograd",
-    "comp": "Serbia, Serbian Cup",
-    "cell": "0-1",
-    "lay": 8.8,
-    "stake": 3,
-    "created": "2026-10-28T12:20:14+01:00"
-  },
-  {
-    "id": "2026-10-28_fk-vrsac-ofk-beograd_1-2",
-    "date": "2026-10-28",
-    "ko": "13:00",
-    "match": "FK Vrsac v OFK Beograd",
-    "comp": "Serbia, Serbian Cup",
-    "cell": "1-2",
-    "lay": 10,
-    "stake": 3,
-    "created": "2026-10-28T12:20:14+01:00"
-  },
-  {
-    "id": "2026-10-28_fk-vrsac-ofk-beograd_1-3",
-    "date": "2026-10-28",
-    "ko": "13:00",
-    "match": "FK Vrsac v OFK Beograd",
-    "comp": "Serbia, Serbian Cup",
-    "cell": "1-3",
-    "lay": 15.0,
-    "stake": 3,
-    "created": "2026-10-28T12:20:14+01:00"
-  },
-  {
     "id": "2026-10-28_nestos-chrysoupoli-fc-kalamata_1-2",
     "date": "2026-10-28",
     "ko": "14:00",
@@ -438,5 +394,27 @@
     "lay": 9.0,
     "stake": 3,
     "created": "2026-10-28T17:20:45Z"
+  },
+  {
+    "id": "2026-10-28_carlisle-harrogate-town_1-0",
+    "date": "2026-10-28",
+    "ko": "20:45",
+    "match": "Carlisle v Harrogate Town",
+    "comp": "United Kingdom, English National League",
+    "cell": "1-0",
+    "lay": 13.5,
+    "stake": 3,
+    "created": "2026-10-28T18:03:24+00:00"
+  },
+  {
+    "id": "2026-10-28_hearts-rangers_1-3",
+    "date": "2026-10-28",
+    "ko": "21:00",
+    "match": "Hearts v Rangers",
+    "comp": "United Kingdom, Scottish Premiership",
+    "cell": "1-3",
+    "lay": 17,
+    "stake": 3,
+    "created": "2026-10-28T18:03:24+00:00"
   }
 ]
