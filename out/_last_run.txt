@@ -1,3 +1,6 @@
-RUN 2026-10-28 12:01 local | 1 match(es)
-Marko v id:553 -> out/Marko_v_id_553.txt
-Requests used: API-Football 26, Matchbook 0
+RUN 2026-10-28 12:59 local | 3 match(es)
+Mlada Boleslav v Bohemians 1905 -> out/Mlada_Boleslav_v_Bohemians_1905.txt
+Panathinaikos v Aris -> out/Panathinaikos_v_Aris.txt
+Salamanca CF UDS v Celta Vigo -> out/Salamanca_CF_UDS_v_Celta_Vigo.txt
+    !! Salamanca CF UDS: No team found for "Salamanca CF UDS".
+Requests used: API-Football 65, Matchbook 0
