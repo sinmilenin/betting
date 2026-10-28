@@ -1,3 +1,2 @@
-# Night scan 28.10.2026 20:57 (retry 2: names)
-Louis City v Portland Timbers | n=20 | xg=10
-Club America v id:2280 | n=20 | xg=10
+# Night scan 28.10.2026 20:57 (retry 3: id)
+id:20787 v Portland Timbers | n=20 | xg=10
