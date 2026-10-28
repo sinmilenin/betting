@@ -1,2 +1,2 @@
-# Scan 28.10.2026 10:42 retry Kirklarelispor
-Ankaraspor v Kirklareli | n=20 | xg=10
+# Scan 28.10.2026 10:42 retry Kirklarelispor (Turkish spelling)
+Ankaraspor v Kırklarelispor | n=20 | xg=10
