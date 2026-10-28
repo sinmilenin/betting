@@ -1,4 +1,2 @@
-# Scan 28.10.2026 09:12 J League Cup
-Mito Hollyhock v Cerezo Osaka | n=20 | xg=10
-Sagan Tosu v Kawasaki Frontale | n=20 | xg=10
-Yokohama F. Marinos v Sanfrecce Hiroshima | n=20 | xg=10
+# Scan 28.10.2026 09:12 retry Yokohama name (no dot)
+Yokohama F Marinos v Sanfrecce Hiroshima | n=20 | xg=10
