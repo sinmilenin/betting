@@ -1,13 +1,72 @@
-MATCH Club America v Tijuana | fetched 2026-10-28 19:58 local
+MATCH Club America v Tijuana | fetched 2026-10-28 20:01 local
 
-FORM DATA Club America v Tijuana | source API-Football | 2026-10-28 19:59 UTC
+FORM DATA Club America v Tijuana | source API-Football | 2026-10-28 20:01 UTC
 H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
 
-!! Club America: API-Football error: HTTP 429 from API-Football
+=== Club America (id 2287): last 20 finished games ===
+2026-10-26 H 1-2 v CF Pachuca | Liga MX | Mexico City | xG 2.74-0.54
+2026-10-22 A 5-2 v Atlas | Liga MX | Guadalajara | xG 2.46-2.52
+2026-10-18 A 5-3 v Leon | Liga MX | Leon | xG 2.13-1.56
+2026-10-11 H 1-1 v Monterrey | Liga MX | Mexico City | xG 1.25-0.38
+2026-10-05 A 0-2 v Guadalajara Chivas | Friendlies Clubs | ?
+2026-10-02 H 0-0 v Cruz Azul | Friendlies Clubs | ?
+2026-09-28 A 4-2 v Necaxa | Liga MX | Aguascalientes | xG 3.40-2.49
+2026-09-20 H 2-2 v Guadalajara Chivas | Liga MX | Mexico City | xG 0.99-0.81
+2026-09-13 A 3-4 v Cruz Azul | Liga MX | Mexico City | xG 2.01-2.17
+2026-09-06 A 0-1 v Leon | Leagues Cup | ?
+2026-09-03 H 2-2 v Monterrey | Leagues Cup | Carson [PEN, 90-min score shown]
+2026-08-30 H 2-0 v Puebla | Liga MX | Mexico City
+2026-08-27 H 2-0 v Columbus Crew | Leagues Cup | Carson
+2026-08-22 A 2-1 v FC Juarez | Liga MX | Ciudad Juarez
+2026-08-16 H 3-0 v Atletico San Luis | Liga MX | Mexico City
+2026-08-14 H 1-1 v Austin | Leagues Cup | Austin [PEN, 90-min score shown]
+2026-08-10 H 3-1 v Portland Timbers | Leagues Cup | Portland
+2026-08-07 H 3-1 v San Diego | Leagues Cup | Mexico City
+2026-08-02 H 3-0 v Santos Laguna | Liga MX | Mexico City
+2026-07-25 A 1-1 v Atlante FC | Liga MX | Mexico City
+Listed home: 12 games, scored 23 (1.92), conceded 10 (0.83), blanks 1, clean sheets 5
+Listed away: 8 games, scored 20 (2.50), conceded 16 (2.00), blanks 2, clean sheets 0
+All: 20 games, scored 43 (2.15), conceded 26 (1.30), blanks 3, clean sheets 5
 
-!! Tijuana: API-Football error: HTTP 429 from API-Football
+"Tijuana" matches several teams. Use id:<number> instead of the name:
+  id:2280   Club Tijuana (Mexico)
+  id:14872  Tijuana W (Mexico)
+  id:17341  Tijuana U20 (Mexico)
+  id:21545  Club Tijuana U23 (Mexico)
+  id:26831  Club Tijuana U21 (Mexico)
+(retrying Tijuana using the opponent's country, Mexico)
+"Tijuana" matches several teams. Use id:<number> instead of the name:
+  id:2280   Club Tijuana (Mexico)
+  id:14872  Tijuana W (Mexico)
+  id:17341  Tijuana U20 (Mexico)
+  id:21545  Club Tijuana U23 (Mexico)
+  id:26831  Club Tijuana U21 (Mexico)
+!! Tijuana: Ambiguous team name "Tijuana".
 
-(0 API-Football requests used)
+TABLE FOR Club America
+LEAGUE TABLE Liga MX 2026 | 18 teams | 124 games played
+League averages per game: home 1.56, away 1.44, total 3.01
+#   team                   Pts | home P GF-GA  | away P GF-GA  | all P GF-GA
+1   Club America            27 |  6  12-5       |  7  21-13      | 13  33-18
+2   Cruz Azul               26 |  7  17-12      |  7  15-11      | 14  32-23
+3   Guadalajara Chivas      26 |  7  11-7       |  7  10-5       | 14  21-12
+4   Atlas                   24 |  8  12-17      |  6  13-9       | 14  25-26
+5   Toluca                  23 |  7  18-11      |  7  11-8       | 14  29-19
+6   Club Leon               22 |  7  13-10      |  7   8-8       | 14  21-18
+7   Monterrey               20 |  7  13-8       |  6  10-10      | 13  23-18
+8   Club Tijuana            20 |  8  14-7       |  5   7-10      | 13  21-17
+9   Club Queretaro          20 |  6   8-9       |  7   9-9       | 13  17-18
+10  Santos Laguna           19 |  7  10-3       |  7  10-17      | 14  20-20
+11  Atletico San Luis       19 |  7   9-11      |  7  10-11      | 14  19-22
+12  U.N.A.M. - Pumas        17 |  7  10-12      |  7  10-11      | 14  20-23
+13  CF Pachuca              16 |  6  10-13      |  8  12-6       | 14  22-19
+14  Puebla                  16 |  6   7-10      |  8   9-11      | 14  16-21
+15  Tigres UANL             15 |  6   9-7       |  8   6-12      | 14  15-19
+16  Atlante FC              14 |  7   7-10      |  7   7-10      | 14  14-20
+17  Necaxa                  10 |  8   9-15      |  6   7-12      | 14  16-27
+18  FC Juarez                5 |  7   5-12      |  7   4-21      | 14   9-33
+
+(15 API-Football requests used)
 
 ----------------------------------------------------------------------
 MATCHBOOK: skipped (switched off for this run)

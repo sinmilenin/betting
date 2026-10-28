@@ -1,6 +1,6 @@
-MATCH Seattle Sounders v Houston Dynamo | fetched 2026-10-28 19:58 local
+MATCH Seattle Sounders v Houston Dynamo | fetched 2026-10-28 20:01 local
 
-FORM DATA Seattle Sounders v Houston Dynamo | source API-Football | 2026-10-28 19:59 UTC
+FORM DATA Seattle Sounders v Houston Dynamo | source API-Football | 2026-10-28 20:01 UTC
 H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
 
 === Seattle Sounders (id 1595): last 20 finished games ===
@@ -28,14 +28,30 @@ Listed home: 10 games, scored 15 (1.50), conceded 11 (1.10), blanks 2, clean she
 Listed away: 10 games, scored 12 (1.20), conceded 17 (1.70), blanks 3, clean sheets 1
 All: 20 games, scored 27 (1.35), conceded 28 (1.40), blanks 5, clean sheets 4
 
-  ('last' lookup refused: HTTP 429 from API-Football; trying whole seasons)
-  (season 2026 not available: HTTP 429 from API-Football)
-  (season 2025 not available: HTTP 429 from API-Football)
-  (season 2024 not available: HTTP 429 from API-Football)
-=== Houston Dynamo (id 1600): last 0 finished games ===
-Listed home: no games
-Listed away: no games
-All: no games
+=== Houston Dynamo (id 1600): last 20 finished games ===
+2026-10-25 H 0-0 v Minnesota United FC | Major League Soccer | Houston | xG 0.00-0.03
+2026-10-18 H 2-2 v FC Dallas | Major League Soccer | Houston | xG 1.38-2.58
+2026-10-15 A 3-3 v San Diego | Major League Soccer | San Diego | xG 0.78-2.85
+2026-10-11 A 2-2 v Minnesota United FC | Major League Soccer | Sao Paulo | xG 1.58-1.30
+2026-09-27 H 0-2 v Sporting Kansas City | Major League Soccer | Houston
+2026-09-20 H 2-2 v FC Cincinnati | Major League Soccer | Houston | xG 1.20-2.85
+2026-09-13 A 0-1 v San Jose Earthquakes | Major League Soccer | San Jose | xG 1.02-1.38
+2026-09-10 H 2-1 v Real Salt Lake | Major League Soccer | Houston | xG 1.03-1.21
+2026-09-05 A 0-0 v Charlotte | Major League Soccer | Charlotte | xG 0.90-0.79
+2026-08-30 H 0-0 v San Jose Earthquakes | Major League Soccer | Houston | xG 0.70-1.33
+2026-08-23 A 1-2 v St. Louis City | Major League Soccer | St. Louis
+2026-08-20 A 1-0 v Vancouver Whitecaps | Major League Soccer | Vancouver
+2026-08-16 H 1-0 v Los Angeles Galaxy | Major League Soccer | Houston
+2026-08-08 A 2-0 v New England Revolution | Major League Soccer | Foxborough
+2026-08-02 A 2-0 v Sporting Kansas City | Major League Soccer | Kansas City
+2026-07-26 H 3-0 v Austin | Major League Soccer | Houston
+2026-07-23 H 1-1 v DC United | Major League Soccer | Houston
+2026-07-16 H 2-1 v America de Cali | Friendlies Clubs | ?
+2026-07-11 H 3-0 v CD Olimpia | Friendlies Clubs | ?
+2026-05-24 A 1-1 v Los Angeles Galaxy | Major League Soccer | Los Angeles
+Listed home: 11 games, scored 16 (1.45), conceded 9 (0.82), blanks 3, clean sheets 5
+Listed away: 9 games, scored 12 (1.33), conceded 9 (1.00), blanks 2, clean sheets 4
+All: 20 games, scored 28 (1.40), conceded 18 (0.90), blanks 5, clean sheets 9
 
 TABLE FOR Seattle Sounders
 LEAGUE TABLE Major League Soccer 2026 | 30 teams | 466 games played
@@ -72,9 +88,9 @@ League averages per game: home 1.83, away 1.41, total 3.24
 14  Atlanta United FC       30 | 16  23-32      | 15  16-22      | 31  39-54 [Eastern Conference]
 15  CF Montreal             25 | 16  19-23      | 15  17-39      | 31  36-62 [Eastern Conference]
 
-(no league table available for Houston Dynamo: tried no competitions)
+(Houston Dynamo: same table as Seattle Sounders, shown above)
 
-(13 API-Football requests used)
+(24 API-Football requests used)
 
 ----------------------------------------------------------------------
 MATCHBOOK: skipped (switched off for this run)

@@ -1,22 +1,7 @@
-RUN 2026-10-28 19:58 local | 17 match(es)
-Alianza Atletico v Deportivo Garcilaso -> out/Alianza_Atletico_v_Deportivo_Garcilaso.txt
-Santos v Palmeiras -> out/Santos_v_Palmeiras.txt
-Fluminense v Internacional -> out/Fluminense_v_Internacional.txt
-Charlotte v CF Montreal -> out/Charlotte_v_CF_Montreal.txt
-Inter Miami v FC Cincinnati -> out/Inter_Miami_v_FC_Cincinnati.txt
-New England Revolution v New York Red Bulls -> out/New_England_Revolution_v_New_York_Red_Bu.txt
-Toronto FC v DC United -> out/Toronto_FC_v_DC_United.txt
-Atletico Tucuman v Platense -> out/Atletico_Tucuman_v_Platense.txt
-Austin v Real Salt Lake -> out/Austin_v_Real_Salt_Lake.txt
-Nashville SC v Philadelphia Union -> out/Nashville_SC_v_Philadelphia_Union.txt
-FC Dallas v Columbus Crew -> out/FC_Dallas_v_Columbus_Crew.txt
-Chicago Fire v Orlando City SC -> out/Chicago_Fire_v_Orlando_City_SC.txt
-Bahia v Sao Paulo -> out/Bahia_v_Sao_Paulo.txt
-St. Louis City v Portland Timbers -> out/St_Louis_City_v_Portland_Timbers.txt
-    !! St. Louis City: API-Football error: {"search": "The Search field may only contain alpha-numeric characters and spaces."}
-San Jose Earthquakes v Colorado Rapids -> out/San_Jose_Earthquakes_v_Colorado_Rapids.txt
+RUN 2026-10-28 20:01 local | 3 match(es)
+St Louis City v Portland Timbers -> out/St_Louis_City_v_Portland_Timbers.txt
+    !! St Louis City: No team found for "St Louis City".
 Seattle Sounders v Houston Dynamo -> out/Seattle_Sounders_v_Houston_Dynamo.txt
 Club America v Tijuana -> out/Club_America_v_Tijuana.txt
-    !! Club America: API-Football error: HTTP 429 from API-Football
-    !! Tijuana: API-Football error: HTTP 429 from API-Football
-Requests used: API-Football 369, Matchbook 0
+    !! Tijuana: Ambiguous team name "Tijuana".
+Requests used: API-Football 53, Matchbook 0

@@ -1,6 +1,6 @@
-MATCH St. Louis City v Portland Timbers | fetched 2026-10-28 19:58 local
+MATCH St Louis City v Portland Timbers | fetched 2026-10-28 20:01 local
 
-FORM DATA St. Louis City v Portland Timbers | source API-Football | 2026-10-28 19:59 UTC
+FORM DATA St Louis City v Portland Timbers | source API-Football | 2026-10-28 20:01 UTC
 H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
 
 === Portland Timbers (id 1617): last 20 finished games ===
@@ -28,7 +28,7 @@ Listed home: 12 games, scored 28 (2.33), conceded 19 (1.58), blanks 2, clean she
 Listed away: 8 games, scored 13 (1.62), conceded 17 (2.12), blanks 1, clean sheets 0
 All: 20 games, scored 41 (2.05), conceded 36 (1.80), blanks 3, clean sheets 1
 
-!! St. Louis City: API-Football error: {"search": "The Search field may only contain alpha-numeric characters and spaces."}
+!! St Louis City: No team found for "St Louis City".
 
 TABLE FOR Portland Timbers
 LEAGUE TABLE Major League Soccer 2026 | 30 teams | 466 games played
@@ -65,7 +65,7 @@ League averages per game: home 1.83, away 1.41, total 3.24
 14  Atlanta United FC       30 | 16  23-32      | 15  16-22      | 31  39-54 [Eastern Conference]
 15  CF Montreal             25 | 16  19-23      | 15  17-39      | 31  36-62 [Eastern Conference]
 
-(13 API-Football requests used)
+(14 API-Football requests used)
 
 ----------------------------------------------------------------------
 MATCHBOOK: skipped (switched off for this run)
