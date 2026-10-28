@@ -1,2 +1,2 @@
-# Scan 28.10.2026 12:15 retry Prostejov (ids)
-id:3725 v id:3723 | n=20 | xg=10
+# Scan 28.10.2026 12:58
+Marko v Olympiakos | n=20 | xg=10
