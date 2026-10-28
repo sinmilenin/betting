@@ -1,3 +1,6 @@
-RUN 2026-10-28 10:28 local | 1 match(es)
-Nestos v Kalamata -> out/Nestos_v_Kalamata.txt
-Requests used: API-Football 26, Matchbook 0
+RUN 2026-10-28 11:16 local | 2 match(es)
+Prostejov v Hradec Kralove -> out/Prostejov_v_Hradec_Kralove.txt
+    !! Prostejov: Ambiguous team name "Prostejov".
+    !! Hradec Kralove: Ambiguous team name "Hradec Kralove".
+Vrsac v OFK Beograd -> out/Vrsac_v_OFK_Beograd.txt
+Requests used: API-Football 28, Matchbook 0

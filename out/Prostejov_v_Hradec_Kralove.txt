@@ -1,0 +1,21 @@
+MATCH Prostejov v Hradec Kralove | fetched 2026-10-28 11:16 local
+
+FORM DATA Prostejov v Hradec Kralove | source API-Football | 2026-10-28 11:16 UTC
+H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
+
+"Prostejov" matches several teams. Use id:<number> instead of the name:
+  id:3725   Prostějov (Czech-Republic)
+  id:27928  Prostejov B (Czech-Republic)
+"Hradec Kralove" matches several teams. Use id:<number> instead of the name:
+  id:3723   Hradec Králové (Czech-Republic)
+  id:14495  Hradec Králové II (Czech-Republic)
+  id:14831  Hradec Králové U19 (Czech-Republic)
+  id:21648  Slavia Hradec Králové (Czech-Republic)
+!! Prostejov: Ambiguous team name "Prostejov".
+
+!! Hradec Kralove: Ambiguous team name "Hradec Kralove".
+
+(2 API-Football requests used)
+
+----------------------------------------------------------------------
+MATCHBOOK: skipped (switched off for this run)
