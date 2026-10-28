@@ -1,14 +1,7 @@
-RUN 2026-10-28 16:28 local | 8 match(es)
-Kosice v Dunajska Streda -> out/Kosice_v_Dunajska_Streda.txt
-    !! Kosice: Ambiguous team name "Kosice".
-Odd v Sandefjord -> out/Odd_v_Sandefjord.txt
-    !! Odd: Ambiguous team name "Odd".
-Sarpsborg 08 v Valerenga -> out/Sarpsborg_08_v_Valerenga.txt
-    !! Sarpsborg 08: Ambiguous team name "Sarpsborg 08".
-Jeddeloh v Hertha Berlin -> out/Jeddeloh_v_Hertha_Berlin.txt
-Diosgyor v Puskas Akademia -> out/Diosgyor_v_Puskas_Akademia.txt
-    !! Diosgyor: Ambiguous team name "Diosgyor".
-Lillestrom v Sogndal -> out/Lillestrom_v_Sogndal.txt
-Carrarese v Arezzo -> out/Carrarese_v_Arezzo.txt
-Juve Stabia v Hellas Verona -> out/Juve_Stabia_v_Hellas_Verona.txt
-Requests used: API-Football 161, Matchbook 0
+RUN 2026-10-28 16:31 local | 5 match(es)
+id:10534 v Dunajska Streda -> out/id_10534_v_Dunajska_Streda.txt
+id:330 v Sandefjord -> out/id_330_v_Sandefjord.txt
+id:333 v Valerenga -> out/id_333_v_Valerenga.txt
+Jeddeloh v id:159 -> out/Jeddeloh_v_id_159.txt
+id:2393 v Puskas Academy -> out/id_2393_v_Puskas_Academy.txt
+Requests used: API-Football 127, Matchbook 0

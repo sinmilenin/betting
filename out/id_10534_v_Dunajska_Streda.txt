@@ -1,14 +1,33 @@
-MATCH Kosice v Dunajska Streda | fetched 2026-10-28 16:28 local
+MATCH id:10534 v Dunajska Streda | fetched 2026-10-28 16:31 local
 
-FORM DATA Kosice v Dunajska Streda | source API-Football | 2026-10-28 16:28 UTC
+FORM DATA id:10534 v Dunajska Streda | source API-Football | 2026-10-28 16:31 UTC
 H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
 
-"Kosice" matches several teams. Use id:<number> instead of the name:
-  id:10534  FK Košice (Slovakia)
-  id:10549  Lokomotíva Košice (Slovakia)
-  id:10551  Košice (Slovakia)
-  id:14074  Slávia TU Košice (Slovakia)
-  id:26243  Košice II (Slovakia)
+=== FK Košice (id 10534): last 20 finished games ===
+2026-10-25 H 2-2 v Žilina | Super Liga | ?
+2026-10-18 A 1-1 v Zemplín Michalovce | Super Liga | Michalovce
+2026-10-14 A 2-0 v Považská Bystrica | Cup | ?
+2026-10-10 H 1-1 v Komárno | Super Liga | Kosice | xG 2.39-1.49
+2026-09-19 H 2-0 v Ružomberok | Super Liga | ?
+2026-09-12 A 2-5 v Spartak Trnava | Super Liga | Trnava
+2026-09-06 H 3-0 v Dukla Banská Bystrica | Super Liga | ?
+2026-09-02 A 7-0 v Harichovce | Cup | ?
+2026-08-29 A 2-2 v Podbrezová | Super Liga | ?
+2026-08-22 H 1-2 v Slovan Bratislava | Super Liga | ?
+2026-08-19 A 5-0 v Raslavice | Cup | ?
+2026-08-15 A 4-2 v Skalica | Super Liga | Skalica
+2026-08-01 H 3-3 v AS Trencin | Super Liga | Kosice
+2026-07-26 A 4-4 v Žilina | Super Liga | Zilina
+2026-07-18 H 2-7 v Diosgyori VTK | Friendlies Clubs | ?
+2026-07-11 A 1-0 v Humenné | Friendlies Clubs | ?
+2026-07-08 A 1-1 v Rapid | Friendlies Clubs | ?
+2026-07-03 A 2-2 v Sturm Graz | Friendlies Clubs | ?
+2026-06-27 A 3-2 v Mezokovesd-zsory | Friendlies Clubs | ?
+2026-05-16 A 0-3 v AS Trencin | Super Liga | ?
+Listed home: 7 games, scored 14 (2.00), conceded 15 (2.14), blanks 0, clean sheets 2
+Listed away: 13 games, scored 34 (2.62), conceded 22 (1.69), blanks 1, clean sheets 4
+All: 20 games, scored 48 (2.40), conceded 37 (1.85), blanks 1, clean sheets 6
+
 === Dunajska Streda (id 2257): last 20 finished games ===
 2026-10-24 H 5-0 v Ružomberok | Super Liga | ?
 2026-10-18 A 3-2 v Žilina | Super Liga | ?
@@ -34,16 +53,7 @@ Listed home: 10 games, scored 24 (2.40), conceded 8 (0.80), blanks 1, clean shee
 Listed away: 10 games, scored 38 (3.80), conceded 14 (1.40), blanks 1, clean sheets 4
 All: 20 games, scored 62 (3.10), conceded 22 (1.10), blanks 2, clean sheets 9
 
-(retrying Kosice using the opponent's country, Slovakia)
-"Kosice" matches several teams. Use id:<number> instead of the name:
-  id:10534  FK Košice (Slovakia)
-  id:10549  Lokomotíva Košice (Slovakia)
-  id:10551  Košice (Slovakia)
-  id:14074  Slávia TU Košice (Slovakia)
-  id:26243  Košice II (Slovakia)
-!! Kosice: Ambiguous team name "Kosice".
-
-TABLE FOR Dunajska Streda
+TABLE FOR FK Košice
 LEAGUE TABLE Super Liga 2026 | 12 teams | 70 games played
 League averages per game: home 1.64, away 1.61, total 3.26
 #   team                   Pts | home P GF-GA  | away P GF-GA  | all P GF-GA
@@ -60,7 +70,9 @@ League averages per game: home 1.64, away 1.61, total 3.26
 11  Ružomberok               9 |  6   8-9       |  6   3-16      | 12  11-25
 12  Komárno                  7 |  6   2-8       |  6   7-8       | 12   9-16
 
-(15 API-Football requests used)
+(Dunajska Streda: same table as FK Košice, shown above)
+
+(25 API-Football requests used)
 
 ----------------------------------------------------------------------
 MATCHBOOK: skipped (switched off for this run)
