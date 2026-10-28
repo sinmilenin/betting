@@ -1,6 +1,4 @@
-RUN 2026-10-28 09:43 local | 3 match(es)
-Ankaraspor v Kirklarelispor -> out/Ankaraspor_v_Kirklarelispor.txt
-    !! Kirklarelispor: No team found for "Kirklarelispor".
-Romanija Pale v Sloga Doboj -> out/Romanija_Pale_v_Sloga_Doboj.txt
-Persib Bandung v Melbourne Victory -> out/Persib_Bandung_v_Melbourne_Victory.txt
-Requests used: API-Football 66, Matchbook 0
+RUN 2026-10-28 09:44 local | 1 match(es)
+Ankaraspor v Kirklareli -> out/Ankaraspor_v_Kirklareli.txt
+    !! Kirklareli: No team found for "Kirklareli".
+Requests used: API-Football 14, Matchbook 0

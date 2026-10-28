@@ -1,6 +1,6 @@
-MATCH Ankaraspor v Kirklarelispor | fetched 2026-10-28 09:43 local
+MATCH Ankaraspor v Kirklareli | fetched 2026-10-28 09:44 local
 
-FORM DATA Ankaraspor v Kirklarelispor | source API-Football | 2026-10-28 09:43 UTC
+FORM DATA Ankaraspor v Kirklareli | source API-Football | 2026-10-28 09:44 UTC
 H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
 
 === Ankaraspor (id 780): last 20 finished games ===
@@ -28,7 +28,7 @@ Listed home: 10 games, scored 21 (2.10), conceded 19 (1.90), blanks 2, clean she
 Listed away: 10 games, scored 10 (1.00), conceded 20 (2.00), blanks 4, clean sheets 1
 All: 20 games, scored 31 (1.55), conceded 39 (1.95), blanks 6, clean sheets 1
 
-!! Kirklarelispor: No team found for "Kirklarelispor".
+!! Kirklareli: No team found for "Kirklareli".
 
 TABLE FOR Ankaraspor
 LEAGUE TABLE 2. Lig 2026 | 35 teams | 135 games played
