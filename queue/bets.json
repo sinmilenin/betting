@@ -42,5 +42,27 @@
     "lay": 19,
     "stake": 3,
     "created": "2026-10-28T06:50:36Z"
+  },
+  {
+    "id": "2026-10-28_tosu-kawasaki_0-1",
+    "date": "2026-10-28",
+    "ko": "11:00",
+    "match": "Tosu v Kawasaki",
+    "comp": "Japan, Japanese J League Cup",
+    "cell": "0-1",
+    "lay": 9.4,
+    "stake": 3,
+    "created": "2026-10-28T09:17:38+01:00"
+  },
+  {
+    "id": "2026-10-28_tosu-kawasaki_2-2",
+    "date": "2026-10-28",
+    "ko": "11:00",
+    "match": "Tosu v Kawasaki",
+    "comp": "Japan, Japanese J League Cup",
+    "cell": "2-2",
+    "lay": 17.5,
+    "stake": 3,
+    "created": "2026-10-28T09:17:38+01:00"
   }
 ]
