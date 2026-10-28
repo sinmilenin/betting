@@ -207,5 +207,38 @@
     "lay": 13.5,
     "stake": 3,
     "created": "2026-10-28T13:08:00Z"
+  },
+  {
+    "id": "2026-10-28_al-jazira-al-muharraq_2-0",
+    "date": "2026-10-28",
+    "ko": "17:00",
+    "match": "Al Jazira v Al-Muharraq",
+    "comp": "International, AFC Champions League Two",
+    "cell": "2-0",
+    "lay": 8,
+    "stake": 3,
+    "created": "2026-10-28T13:50:17Z"
+  },
+  {
+    "id": "2026-10-28_al-jazira-al-muharraq_3-0",
+    "date": "2026-10-28",
+    "ko": "17:00",
+    "match": "Al Jazira v Al-Muharraq",
+    "comp": "International, AFC Champions League Two",
+    "cell": "3-0",
+    "lay": 13.5,
+    "stake": 3,
+    "created": "2026-10-28T13:50:17Z"
+  },
+  {
+    "id": "2026-10-28_al-jazira-al-muharraq_aohw",
+    "date": "2026-10-28",
+    "ko": "17:00",
+    "match": "Al Jazira v Al-Muharraq",
+    "comp": "International, AFC Champions League Two",
+    "cell": "AOHW",
+    "lay": 10,
+    "stake": 3,
+    "created": "2026-10-28T13:50:17Z"
   }
 ]
