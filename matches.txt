@@ -1,3 +1,2 @@
-# Scan 28.10.2026 14:43
-Al Jazira v Al-Muharraq | n=20 | xg=10
-AC Oulu v VPS | n=20 | xg=10
+# Scan 28.10.2026 14:43 retry Al Jazira (id:2871) / Al Muharraq
+id:2871 v Al Muharraq | n=20 | xg=10
