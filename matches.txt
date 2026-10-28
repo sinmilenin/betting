@@ -1,9 +1,6 @@
-# Scan 28.10.2026 17:26
-Kosice v Dunajska Streda | n=20 | xg=10
-Odd v Sandefjord | n=20 | xg=10
-Sarpsborg 08 v Valerenga | n=20 | xg=10
-Jeddeloh v Hertha Berlin | n=20 | xg=10
-Diosgyor v Puskas Akademia | n=20 | xg=10
-Lillestrom v Sogndal | n=20 | xg=10
-Carrarese v Arezzo | n=20 | xg=10
-Juve Stabia v Hellas Verona | n=20 | xg=10
+# Scan 28.10.2026 17:26 retry ids
+id:10534 v Dunajska Streda | n=20 | xg=10
+id:330 v Sandefjord | n=20 | xg=10
+id:333 v Valerenga | n=20 | xg=10
+Jeddeloh v id:159 | n=20 | xg=10
+id:2393 v Puskas Academy | n=20 | xg=10
