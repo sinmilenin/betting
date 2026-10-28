@@ -1,3 +1,3 @@
-RUN 2026-10-28 11:17 local | 1 match(es)
-id:3725 v id:3723 -> out/id_3725_v_id_3723.txt
-Requests used: API-Football 27, Matchbook 0
+RUN 2026-10-28 11:59 local | 1 match(es)
+Marko v Olympiakos -> out/Marko_v_Olympiakos.txt
+Requests used: API-Football 26, Matchbook 0
