@@ -1,6 +1,6 @@
-MATCH Salmantino v Celta Vigo | fetched 2026-10-28 06:44 local
+MATCH Salamanca CF UDS v Celta Vigo | fetched 2026-10-28 06:46 local
 
-FORM DATA Salmantino v Celta Vigo | source API-Football | 2026-10-28 06:45 UTC
+FORM DATA Salamanca CF UDS v Celta Vigo | source API-Football | 2026-10-28 06:47 UTC
 H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
 
 === Celta Vigo (id 538): last 20 finished games ===
@@ -28,7 +28,7 @@ Listed home: 10 games, scored 14 (1.40), conceded 10 (1.00), blanks 2, clean she
 Listed away: 10 games, scored 11 (1.10), conceded 8 (0.80), blanks 4, clean sheets 3
 All: 20 games, scored 25 (1.25), conceded 18 (0.90), blanks 6, clean sheets 7
 
-!! Salmantino: No team found for "Salmantino".
+!! Salamanca CF UDS: No team found for "Salamanca CF UDS".
 
 TABLE FOR Celta Vigo
 LEAGUE TABLE La Liga 2026 | 20 teams | 99 games played

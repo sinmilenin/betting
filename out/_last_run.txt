@@ -1,32 +1,12 @@
-RUN 2026-10-28 06:44 local | 20 match(es)
-Kashima v Pohang Steelers -> out/Kashima_v_Pohang_Steelers.txt
-Viettel v FC Seoul -> out/Viettel_v_FC_Seoul.txt
-Fethiyespor v Eyupspor -> out/Fethiyespor_v_Eyupspor.txt
-    !! Eyupspor: Ambiguous team name "Eyupspor".
-Dynamo Dresden v Schalke 04 -> out/Dynamo_Dresden_v_Schalke_04.txt
-    !! Schalke 04: Ambiguous team name "Schalke 04".
-Paderborn v Stuttgart -> out/Paderborn_v_Stuttgart.txt
-    !! Paderborn: Ambiguous team name "Paderborn".
-    !! Stuttgart: Ambiguous team name "Stuttgart".
-AC Milan v Bologna -> out/AC_Milan_v_Bologna.txt
-Parma v Udinese -> out/Parma_v_Udinese.txt
-Venezia v Inter -> out/Venezia_v_Inter.txt
-Manchester City v Brighton -> out/Manchester_City_v_Brighton.txt
-CFR Cluj v Universitatea Cluj -> out/CFR_Cluj_v_Universitatea_Cluj.txt
-Bayern Munich v Magdeburg -> out/Bayern_Munich_v_Magdeburg.txt
-    !! Magdeburg: Ambiguous team name "Magdeburg".
-Bournemouth v Aston Villa -> out/Bournemouth_v_Aston_Villa.txt
-Fulham v Crystal Palace -> out/Fulham_v_Crystal_Palace.txt
-Celtic v Dundee United -> out/Celtic_v_Dundee_United.txt
-    !! Dundee United: Ambiguous team name "Dundee United".
-Genoa v Juventus -> out/Genoa_v_Juventus.txt
-Monza v Napoli -> out/Monza_v_Napoli.txt
-Salmantino v Celta Vigo -> out/Salmantino_v_Celta_Vigo.txt
-    !! Salmantino: No team found for "Salmantino".
-Hearts v Rangers -> out/Hearts_v_Rangers.txt
-    !! Hearts: Ambiguous team name "Hearts".
-    !! Rangers: Ambiguous team name "Rangers".
-Liverpool v Chelsea -> out/Liverpool_v_Chelsea.txt
-Porto v Academico Viseu -> out/Porto_v_Academico_Viseu.txt
-    !! Academico Viseu: API-Football error: HTTP 429 from API-Football
-Requests used: API-Football 385, Matchbook 0
+RUN 2026-10-28 06:46 local | 9 match(es)
+Fethiyespor v id:3588 -> out/Fethiyespor_v_id_3588.txt
+Dynamo Dresden v id:174 -> out/Dynamo_Dresden_v_id_174.txt
+id:185 v id:172 -> out/id_185_v_id_172.txt
+id:157 v id:179 -> out/id_157_v_id_179.txt
+CFR 1907 Cluj v Universitatea Cluj -> out/CFR_1907_Cluj_v_Universitatea_Cluj.txt
+Celtic v Dundee Utd -> out/Celtic_v_Dundee_Utd.txt
+Heart Of Midlothian v id:257 -> out/Heart_Of_Midlothian_v_id_257.txt
+id:212 v Academico Viseu -> out/id_212_v_Academico_Viseu.txt
+Salamanca CF UDS v Celta Vigo -> out/Salamanca_CF_UDS_v_Celta_Vigo.txt
+    !! Salamanca CF UDS: No team found for "Salamanca CF UDS".
+Requests used: API-Football 213, Matchbook 0

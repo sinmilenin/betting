@@ -1,6 +1,6 @@
-MATCH Fethiyespor v Eyupspor | fetched 2026-10-28 06:44 local
+MATCH Fethiyespor v id:3588 | fetched 2026-10-28 06:46 local
 
-FORM DATA Fethiyespor v Eyupspor | source API-Football | 2026-10-28 06:44 UTC
+FORM DATA Fethiyespor v id:3588 | source API-Football | 2026-10-28 06:46 UTC
 H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
 
 === Fethiyespor (id 3590): last 20 finished games ===
@@ -28,14 +28,30 @@ Listed home: 10 games, scored 6 (0.60), conceded 13 (1.30), blanks 5, clean shee
 Listed away: 10 games, scored 17 (1.70), conceded 11 (1.10), blanks 2, clean sheets 5
 All: 20 games, scored 23 (1.15), conceded 24 (1.20), blanks 7, clean sheets 6
 
-"Eyupspor" matches several teams. Use id:<number> instead of the name:
-  id:3588   Eyüpspor (Turkey)
-  id:28244  Eyupspor U19 (Turkey)
-(retrying Eyupspor using the opponent's country, Turkey)
-"Eyupspor" matches several teams. Use id:<number> instead of the name:
-  id:3588   Eyüpspor (Turkey)
-  id:28244  Eyupspor U19 (Turkey)
-!! Eyupspor: Ambiguous team name "Eyupspor".
+=== Eyüpspor (id 3588): last 20 finished games ===
+2026-10-24 H 0-1 v Kasımpaşa | Süper Lig | Esenyurt | xG 0.43-0.59
+2026-10-17 A 0-2 v Erzurumspor FK | Süper Lig | Erzurum | xG 0.43-1.29
+2026-10-12 H 0-4 v Göztepe | Süper Lig | Esenyurt | xG 1.33-3.15
+2026-09-20 A 0-8 v Fenerbahçe | Süper Lig | Istanbul | xG 0.72-5.14
+2026-09-12 H 0-2 v Rizespor | Süper Lig | Esenyurt | xG 1.42-2.05
+2026-09-06 A 0-3 v Çorum FK | Süper Lig | Corum | xG 0.73-2.58
+2026-08-30 H 2-1 v Alanyaspor | Süper Lig | Istanbul | xG 1.48-0.66
+2026-08-23 H 0-1 v Gaziantep FK | Süper Lig | Istanbul | xG 0.49-1.16
+2026-08-16 A 0-1 v Beşiktaş | Süper Lig | Istanbul | xG 0.09-1.28
+2026-07-24 H 2-0 v İstanbulspor | Friendlies Clubs | ?
+2026-07-20 H 1-0 v Mardin 1969 | Friendlies Clubs | ?
+2026-05-17 A 3-3 v Fenerbahçe | Süper Lig | Istanbul
+2026-05-09 H 4-0 v Rizespor | Süper Lig | Istanbul
+2026-05-03 A 1-1 v Kayserispor | Süper Lig | Kayseri
+2026-04-25 H 3-0 v Gaziantep FK | Süper Lig | Istanbul
+2026-04-18 A 2-1 v Fatih Karagümrük | Süper Lig | Istanbul
+2026-04-13 H 1-2 v Samsunspor | Süper Lig | Istanbul
+2026-04-05 A 0-3 v Antalyaspor | Süper Lig | Antalya
+2026-03-18 H 0-1 v Trabzonspor | Süper Lig | Istanbul
+2026-03-15 A 0-1 v Kasımpaşa | Süper Lig | Istanbul
+Listed home: 11 games, scored 13 (1.18), conceded 12 (1.09), blanks 5, clean sheets 4
+Listed away: 9 games, scored 6 (0.67), conceded 23 (2.56), blanks 6, clean sheets 0
+All: 20 games, scored 19 (0.95), conceded 35 (1.75), blanks 11, clean sheets 4
 
 TABLE FOR Fethiyespor
 LEAGUE TABLE 2. Lig 2026 | 35 teams | 135 games played
@@ -77,7 +93,30 @@ League averages per game: home 1.72, away 1.50, total 3.22
 16  Serik Spor               2 |  4   2-5       |  4   4-10      |  8   6-15 [Lig B: Red Group]
 17  İskenderunspor           0 |  3   2-6       |  4   3-18      |  7   5-24 [Lig B: Red Group]
 
-(15 API-Football requests used)
+TABLE FOR Eyüpspor
+LEAGUE TABLE Süper Lig 2026 | 18 teams | 81 games played
+League averages per game: home 1.67, away 1.23, total 2.90
+#   team                   Pts | home P GF-GA  | away P GF-GA  | all P GF-GA
+1   Galatasaray             22 |  5  11-6       |  4   8-6       |  9  19-12
+2   Amed                    20 |  5  14-3       |  4   6-7       |  9  20-10
+3   Trabzonspor             19 |  4  13-1       |  5   9-7       |  9  22-8
+4   Beşiktaş                18 |  5  14-3       |  4   4-7       |  9  18-10
+5   Fenerbahçe              16 |  4  16-4       |  5   7-4       |  9  23-8
+6   Kasımpaşa               16 |  4   7-4       |  5   6-5       |  9  13-9
+7   Kocaelispor             15 |  4   6-2       |  5   5-7       |  9  11-9
+8   Erzurumspor FK          14 |  4   4-4       |  5   4-8       |  9   8-12
+9   Çorum FK                13 |  4   6-4       |  5  12-11      |  9  18-15
+10  Göztepe                 12 |  4   6-7       |  5  13-9       |  9  19-16
+11  Alanyaspor              12 |  4   4-4       |  5   5-7       |  9   9-11
+12  Başakşehir              11 |  5  11-5       |  4   1-9       |  9  12-14
+13  Rizespor                10 |  4   3-10      |  5   8-5       |  9  11-15
+14  Konyaspor                8 |  5   4-3       |  4   2-6       |  9   6-9
+15  Gaziantep FK             8 |  5   3-9       |  4   6-6       |  9   9-15
+16  Gençlerbirliği S.K.      8 |  5   6-7       |  4   1-11      |  9   7-18
+17  Samsunspor               4 |  5   5-15      |  4   3-6       |  9   8-21
+18  Eyüpspor                 3 |  5   2-9       |  4   0-14      |  9   2-23
+
+(26 API-Football requests used)
 
 ----------------------------------------------------------------------
 MATCHBOOK: skipped (switched off for this run)
