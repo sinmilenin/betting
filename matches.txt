@@ -1,2 +1,4 @@
-# Scan 28.10.2026 09:12 retry Yokohama F. Marinos by id
-id:296 v Sanfrecce Hiroshima | n=20 | xg=10
+# Scan 28.10.2026 09:59 (first analyses)
+Gamba Osaka v Buriram United | n=20 | xg=10
+Nagoya Grampus v Urawa | n=20 | xg=10
+Tiszaujvaros v Kecskemeti | n=20 | xg=10
