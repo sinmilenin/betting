@@ -1,0 +1,55 @@
+MATCH id:2871 v Al Muharraq | fetched 2026-10-28 13:47 local
+
+FORM DATA id:2871 v Al Muharraq | source API-Football | 2026-10-28 13:47 UTC
+H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
+
+=== Al-Jazira (id 2871): last 20 finished games ===
+2026-10-22 H 1-0 v Ajman | Presidents Cup | Abu Dhabi
+2026-10-18 A 2-2 v Al-Ittihad Kalba | Pro League | Kalba | xG 1.40-1.06
+2026-10-14 H 2-1 v Arkadag | AFC Champions League Two | Abu Dhabi | xG 2.92-0.97
+2026-10-09 A 0-0 v Sharjah FC | League Cup | Sharjah
+2026-10-02 A 2-0 v Khorfakkan | League Cup | Khor Fakkan
+2026-09-20 H 1-0 v Al Wahda FC | League Cup | Abu Dhabi
+2026-09-15 A 0-0 v Gol Gohar | AFC Champions League Two | Hisor
+2026-09-10 H 1-1 v Al Nasr | Pro League | Abu Dhabi
+2026-09-05 A 3-1 v Shabab Al Ahli Dubai | Pro League | Dubai
+2026-08-29 H 3-0 v Ajman | Pro League | Abu Dhabi
+2026-08-23 A 2-0 v Sharjah FC | Pro League | Sharjah
+2026-08-16 A 2-0 v Hatta SC | Pro League | Hatta
+2026-08-11 H 1-4 v Al-Ittihad FC | AFC Champions League Elite | Abu Dhabi
+2026-07-25 H 0-0 v St. Truiden | Friendlies Clubs | ?
+2026-07-18 A 2-1 v Vitesse | Friendlies Clubs | ?
+2026-07-11 A 1-0 v PEC Zwolle | Friendlies Clubs | ?
+2026-05-22 H 1-4 v Al Ain | Presidents Cup | Abu Dhabi
+2026-05-16 H 4-1 v Baniyas SC | Pro League | Abu Dhabi
+2026-05-11 H 1-2 v Al-Wasl FC | Pro League | Abu Dhabi
+2026-05-05 A 1-1 v Ajman | Pro League | Ajman
+Listed home: 10 games, scored 15 (1.50), conceded 13 (1.30), blanks 1, clean sheets 4
+Listed away: 10 games, scored 15 (1.50), conceded 5 (0.50), blanks 2, clean sheets 6
+All: 20 games, scored 30 (1.50), conceded 18 (0.90), blanks 3, clean sheets 10
+
+!! Al Muharraq: No team found for "Al Muharraq".
+
+TABLE FOR Al-Jazira
+LEAGUE TABLE Pro League 2026 | 14 teams | 42 games played
+League averages per game: home 1.67, away 1.71, total 3.38
+#   team                   Pts | home P GF-GA  | away P GF-GA  | all P GF-GA
+1   Al-Jazira               14 |  2   4-1       |  4   9-3       |  6  13-4
+2   Shabab Al Ahli Dubai    13 |  3   5-3       |  3   7-2       |  6  12-5
+3   Al-Wasl FC              13 |  3  10-4       |  3   7-2       |  6  17-6
+4   Al Ain                  13 |  3   6-3       |  3   6-4       |  6  12-7
+5   Al Wahda FC             12 |  3   5-4       |  3   4-3       |  6   9-7
+6   Sharjah FC              12 |  2   4-5       |  4   9-3       |  6  13-8
+7   Ajman                    9 |  3   7-9       |  3   5-6       |  6  12-15
+8   Al Nasr                  8 |  4   6-4       |  2   2-3       |  6   8-7
+9   Dubai United             7 |  2   5-2       |  4   8-16      |  6  13-18
+10  Al-Dhafra                6 |  3   6-5       |  3   2-5       |  6   8-10
+11  Al-Ittihad Kalba         5 |  3   2-7       |  3   6-8       |  6   8-15
+12  Khorfakkan               4 |  4   5-8       |  2   2-7       |  6   7-15
+13  Hatta SC                 3 |  3   1-7       |  3   4-6       |  6   5-13
+14  Baniyas SC               1 |  4   4-10      |  2   1-2       |  6   5-12
+
+(15 API-Football requests used)
+
+----------------------------------------------------------------------
+MATCHBOOK: skipped (switched off for this run)

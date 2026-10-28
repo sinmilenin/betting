@@ -1,6 +1,4 @@
-RUN 2026-10-28 13:44 local | 2 match(es)
-Al Jazira v Al-Muharraq -> out/Al_Jazira_v_Al_Muharraq.txt
-    !! Al Jazira: Ambiguous team name "Al Jazira".
-    !! Al-Muharraq: API-Football error: {"search": "The Search field may only contain alpha-numeric characters and spaces."}
-AC Oulu v VPS -> out/AC_Oulu_v_VPS.txt
-Requests used: API-Football 27, Matchbook 0
+RUN 2026-10-28 13:47 local | 1 match(es)
+id:2871 v Al Muharraq -> out/id_2871_v_Al_Muharraq.txt
+    !! Al Muharraq: No team found for "Al Muharraq".
+Requests used: API-Football 15, Matchbook 0
