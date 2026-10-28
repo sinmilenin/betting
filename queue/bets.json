@@ -339,5 +339,104 @@
     "lay": 16.0,
     "stake": 3,
     "created": "2026-10-28T16:34:11Z"
+  },
+  {
+    "id": "2026-10-28_sparta-prague-banik-ostrava_1-0",
+    "date": "2026-10-28",
+    "ko": "18:30",
+    "match": "Sparta Prague v Banik Ostrava",
+    "comp": "Czech Republic, Czech Cup",
+    "cell": "1-0",
+    "lay": 11.5,
+    "stake": 3,
+    "created": "2026-10-28T17:20:45Z"
+  },
+  {
+    "id": "2026-10-28_chelsea-w-as-roma-w_3-0",
+    "date": "2026-10-28",
+    "ko": "18:45",
+    "match": "Chelsea (W) v AS Roma (W)",
+    "comp": "International, UEFA Women's Champions League",
+    "cell": "3-0",
+    "lay": 9.0,
+    "stake": 3,
+    "created": "2026-10-28T17:20:45Z"
+  },
+  {
+    "id": "2026-10-28_man-city-brighton_3-0",
+    "date": "2026-10-28",
+    "ko": "20:30",
+    "match": "Man City v Brighton",
+    "comp": "United Kingdom, English Football League Cup",
+    "cell": "3-0",
+    "lay": 17.0,
+    "stake": 3,
+    "created": "2026-10-28T17:20:45Z"
+  },
+  {
+    "id": "2026-10-28_forest-green-eastleigh_2-1",
+    "date": "2026-10-28",
+    "ko": "20:45",
+    "match": "Forest Green v Eastleigh",
+    "comp": "United Kingdom, English National League",
+    "cell": "2-1",
+    "lay": 9.6,
+    "stake": 3,
+    "created": "2026-10-28T17:20:45Z"
+  },
+  {
+    "id": "2026-10-28_hannover-kaiserslautern_2-2",
+    "date": "2026-10-28",
+    "ko": "20:45",
+    "match": "Hannover v Kaiserslautern",
+    "comp": "Germany, German Cup",
+    "cell": "2-2",
+    "lay": 15.0,
+    "stake": 3,
+    "created": "2026-10-28T17:20:45Z"
+  },
+  {
+    "id": "2026-10-28_carlisle-harrogate-town_0-1",
+    "date": "2026-10-28",
+    "ko": "20:45",
+    "match": "Carlisle v Harrogate Town",
+    "comp": "United Kingdom, English National League",
+    "cell": "0-1",
+    "lay": 18.5,
+    "stake": 3,
+    "created": "2026-10-28T17:20:45Z"
+  },
+  {
+    "id": "2026-10-28_arsenal-w-s-l-benfica-w_aohw",
+    "date": "2026-10-28",
+    "ko": "21:00",
+    "match": "Arsenal (W) v S.L. Benfica (W)",
+    "comp": "International, UEFA Women's Champions League",
+    "cell": "AOHW",
+    "lay": 3.2,
+    "stake": 3,
+    "created": "2026-10-28T17:20:45Z"
+  },
+  {
+    "id": "2026-10-28_arsenal-w-s-l-benfica-w_3-0",
+    "date": "2026-10-28",
+    "ko": "21:00",
+    "match": "Arsenal (W) v S.L. Benfica (W)",
+    "comp": "International, UEFA Women's Champions League",
+    "cell": "3-0",
+    "lay": 8.8,
+    "stake": 3,
+    "created": "2026-10-28T17:20:45Z"
+  },
+  {
+    "id": "2026-10-28_arsenal-w-s-l-benfica-w_2-0",
+    "date": "2026-10-28",
+    "ko": "21:00",
+    "match": "Arsenal (W) v S.L. Benfica (W)",
+    "comp": "International, UEFA Women's Champions League",
+    "cell": "2-0",
+    "lay": 9.0,
+    "stake": 3,
+    "created": "2026-10-28T17:20:45Z"
   }
 ]
