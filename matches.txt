@@ -1,6 +1,2 @@
-# Scan 28.10.2026 18:14 retry ids
-Sparta Praha v id:3713 | n=20 | xg=10
-Bayer Leverkusen v id:171 | n=20 | xg=10
-Hannover 96 v id:745 | n=20 | xg=10
-Holstein Kiel v id:167 | n=20 | xg=10
-Lyon W v id:7533 | n=20 | xg=10
+# Scan 28.10.2026 19:46
+MVV Maastricht v Excelsior | n=20 | xg=10
