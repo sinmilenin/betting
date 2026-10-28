@@ -1,0 +1,87 @@
+MATCH Servette Chenois W v OH Leuven W | fetched 2026-10-28 14:59 local
+
+FORM DATA Servette Chenois W v OH Leuven W | source API-Football | 2026-10-28 14:59 UTC
+H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
+
+=== Servette Chênois W (id 15548): last 20 finished games ===
+2026-10-16 H 4-1 v Luzern W | AXA Women’s Super League | Carouge
+2026-10-04 A 3-0 v St. Gallen W | AXA Women’s Super League | St. Gallen
+2026-10-01 A 1-5 v Køge W | UEFA Champions League Women | Koege
+2026-09-23 H 0-8 v Lyon W | UEFA Champions League Women | Geneva
+2026-09-18 H 0-0 v Zürich W | AXA Women’s Super League | Carouge
+2026-09-12 A 2-1 v Rapperswil Jona W | AXA Women’s Super League | Rapperswil-Jona
+2026-09-09 H 3-2 v Yverdon W | AXA Women’s Super League | Carouge
+2026-09-06 A 3-1 v Grasshopper W | AXA Women’s Super League | ?
+2026-09-02 H 3-0 v Sparta Praha W | UEFA Champions League Women | Geneva
+2026-08-29 H 2-1 v Basel W | AXA Women’s Super League | Carouge
+2026-08-26 A 2-3 v Sparta Praha W | UEFA Champions League Women | Prague
+2026-08-21 A 2-3 v Young Boys W | AXA Women’s Super League | Bern
+2026-08-15 H 3-0 v Aarau W | AXA Women’s Super League | Carouge
+2026-08-07 H 4-0 v Aktobe W | UEFA Champions League Women | Aktobe
+2026-08-04 A 3-0 v Dinamo-BGU W | UEFA Champions League Women | Aktobe
+2026-05-29 H 2-0 v Young Boys W | AXA Women’s Super League | Carouge
+2026-05-25 A 2-1 v Young Boys W | AXA Women’s Super League | Bern
+2026-05-15 H 2-0 v Zürich W | AXA Women’s Super League | Carouge
+2026-05-08 A 4-0 v Zürich W | AXA Women’s Super League | ?
+2026-05-01 H 4-0 v Aarau W | AXA Women’s Super League | Carouge
+Listed home: 11 games, scored 27 (2.45), conceded 12 (1.09), blanks 2, clean sheets 7
+Listed away: 9 games, scored 22 (2.44), conceded 14 (1.56), blanks 0, clean sheets 3
+All: 20 games, scored 49 (2.45), conceded 26 (1.30), blanks 2, clean sheets 10
+
+=== OH Leuven W (id 1790): last 20 finished games ===
+2026-10-24 H 4-0 v Zulte-Waregem W | Super League Women | ?
+2026-10-17 A 1-3 v Anderlecht W | Super League Women | ?
+2026-10-04 H 0-0 v RAAL La Louviere W | Super League Women | ?
+2026-10-01 A 0-5 v Paris Saint Germain W | UEFA Champions League Women | Poissy
+2026-09-26 H 1-1 v Club Brugge W | Super League Women | ?
+2026-09-23 H 0-0 v Roma W | UEFA Champions League Women | Leuven
+2026-09-19 A 5-0 v Standard Liege W | Super League Women | ?
+2026-09-12 A 0-0 v Genk W | Super League Women | ?
+2026-09-06 H 6-1 v Gent W | Super League Women | ?
+2026-09-02 H 2-1 v Czarni Sosnowiec W | UEFA Champions League Women | Heverlee
+2026-08-26 A 4-1 v Czarni Sosnowiec W | UEFA Champions League Women | Sosnowiec
+2026-08-08 H 1-1 v Fenerbahce W | UEFA Champions League Women | Heverlee [PEN, 90-min score shown]
+2026-08-05 H 4-0 v TSC W | UEFA Champions League Women | Heverlee
+2026-05-22 H 3-2 v Standard Liege W | Super League Women | ?
+2026-05-16 A 2-0 v Club Brugge W | Super League Women | ?
+2026-05-09 H 1-1 v Anderlecht W | Super League Women | ?
+2026-05-02 A 1-1 v Anderlecht W | Super League Women | ?
+2026-04-25 H 2-1 v Club Brugge W | Super League Women | ?
+2026-04-04 A 1-1 v Standard Liege W | Super League Women | ?
+2026-03-21 A 1-0 v Anderlecht W | Super League Women | ?
+Listed home: 11 games, scored 24 (2.18), conceded 8 (0.73), blanks 2, clean sheets 4
+Listed away: 9 games, scored 15 (1.67), conceded 11 (1.22), blanks 2, clean sheets 4
+All: 20 games, scored 39 (1.95), conceded 19 (0.95), blanks 4, clean sheets 8
+
+TABLE FOR Servette Chênois W
+LEAGUE TABLE AXA Women’s Super League 2026 | 10 teams | 45 games played
+League averages per game: home 2.00, away 1.67, total 3.67
+#   team                   Pts | home P GF-GA  | away P GF-GA  | all P GF-GA
+1   Servette Chênois W      22 |  5  12-4       |  4  10-5       |  9  22-9
+2   Zürich W                18 |  4   8-5       |  5  16-6       |  9  24-11
+3   Young Boys W            18 |  5  13-7       |  4   4-5       |  9  17-12
+4   Grasshopper W           17 |  4  11-4       |  5  14-7       |  9  25-11
+5   Basel W                 12 |  4   6-3       |  5   7-10      |  9  13-13
+6   Luzern W                11 |  4   9-6       |  5   5-9       |  9  14-15
+7   Rapperswil Jona W       11 |  5  13-10      |  4   4-11      |  9  17-21
+8   Yverdon W                8 |  5   9-10      |  4   6-8       |  9  15-18
+9   St. Gallen W             4 |  4   4-9       |  5   4-15      |  9   8-24
+10  Aarau W                  4 |  5   5-17      |  4   5-14      |  9  10-31
+
+TABLE FOR OH Leuven W
+LEAGUE TABLE Super League Women 2026 | 8 teams | 28 games played
+League averages per game: home 1.82, away 1.36, total 3.18
+#   team                   Pts | home P GF-GA  | away P GF-GA  | all P GF-GA
+1   Anderlecht W            18 |  4  11-1       |  3   7-3       |  7  18-4
+2   Club Brugge W           17 |  4  12-2       |  3   5-4       |  7  17-6
+3   OH Leuven W             12 |  4  11-2       |  3   6-3       |  7  17-5
+4   Genk W                  11 |  3   3-1       |  4   4-6       |  7   7-7
+5   RAAL La Louviere W       9 |  3   6-4       |  4   1-4       |  7   7-8
+6   Standard Liege W         9 |  4   1-11      |  3   9-7       |  7  10-18
+7   Zulte-Waregem W          3 |  3   5-8       |  4   3-8       |  7   8-16
+8   Gent W                   0 |  3   2-9       |  4   3-16      |  7   5-25
+
+(26 API-Football requests used)
+
+----------------------------------------------------------------------
+MATCHBOOK: skipped (switched off for this run)
