@@ -1,2 +1,10 @@
-# Scan 28.10.2026 19:46 Man Utd W
-Manchester United W v Burnley W | n=20 | xg=10
+# Scan 28.10.2026 20:26
+Monza v Napoli | n=20 | xg=10
+Genoa v Juventus | n=20 | xg=10
+id:157 v id:179 | n=20 | xg=10
+Fulham v Crystal Palace | n=20 | xg=10
+Bournemouth v Aston Villa | n=20 | xg=10
+Liverpool v Chelsea | n=20 | xg=10
+Heart Of Midlothian v id:257 | n=20 | xg=10
+Celtic v Dundee Utd | n=20 | xg=10
+id:212 v Academico Viseu | n=20 | xg=10
