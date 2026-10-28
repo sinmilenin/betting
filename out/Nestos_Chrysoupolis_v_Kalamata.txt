@@ -1,0 +1,55 @@
+MATCH Nestos Chrysoupolis v Kalamata | fetched 2026-10-28 10:28 local
+
+FORM DATA Nestos Chrysoupolis v Kalamata | source API-Football | 2026-10-28 10:28 UTC
+H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
+
+=== Kalamata (id 5046): last 20 finished games ===
+2026-10-25 A 0-5 v Olympiakos Piraeus | Super League 1 | Piraeus | xG 0.00-0.00
+2026-10-18 H 4-3 v OFI | Super League 1 | Kalamata | xG 1.79-1.98
+2026-10-12 A 3-1 v PAOK | Super League 1 | Thessaloniki | xG 2.37-1.29
+2026-09-20 H 0-1 v Panathinaikos | Super League 1 | Kalamata | xG 1.16-1.72
+2026-09-17 H 1-1 v Larisa | Cup | Kalamata
+2026-09-13 H 3-1 v Volos NFC | Super League 1 | Peristeri | xG 2.25-0.76
+2026-09-06 A 1-1 v Atromitos | Super League 1 | Peristeri | xG 0.46-0.24
+2026-09-01 A 2-2 v Volos NFC | Cup | Volos
+2026-08-29 A 0-2 v Panetolikos | Super League 1 | Agrinio | xG 1.02-2.46
+2026-08-22 H 2-3 v Aris Thessalonikis | Super League 1 | Tripoli | xG 1.41-2.69
+2026-08-19 H 4-2 v Panetolikos | Cup | Kalamata
+2026-08-10 A 2-0 v Volos NFC | Friendlies Clubs | ?
+2026-03-28 H 1-0 v Iraklis 1908 | Super League 2 | Athens
+2026-03-21 A 0-0 v Marko | Super League 2 | ?
+2026-03-15 H 1-0 v Olympiakos Piraeus II | Super League 2 | Kalamata
+2026-03-07 A 1-0 v Panionios | Super League 2 | ?
+2026-03-01 H 2-0 v Marko | Super League 2 | Kalamata
+2026-02-21 A 3-0 v Olympiakos Piraeus II | Super League 2 | ?
+2026-02-15 H 0-2 v Panionios | Super League 2 | Kalamata
+2026-01-25 A 2-1 v Ellas Syros | Super League 2 | ?
+Listed home: 10 games, scored 18 (1.80), conceded 13 (1.30), blanks 2, clean sheets 3
+Listed away: 10 games, scored 14 (1.40), conceded 12 (1.20), blanks 3, clean sheets 4
+All: 20 games, scored 32 (1.60), conceded 25 (1.25), blanks 5, clean sheets 7
+
+!! Nestos Chrysoupolis: No team found for "Nestos Chrysoupolis".
+
+TABLE FOR Kalamata
+LEAGUE TABLE Super League 1 2026 | 14 teams | 55 games played
+League averages per game: home 1.75, away 1.02, total 2.76
+#   team                   Pts | home P GF-GA  | away P GF-GA  | all P GF-GA
+1   Panathinaikos           21 |  4  14-3       |  4   4-1       |  8  18-4
+2   Olympiakos Piraeus      19 |  4   7-1       |  4   5-1       |  8  12-2
+3   AEK Athens FC           17 |  4  17-0       |  3   4-3       |  7  21-3
+4   Aris Thessalonikis      16 |  4   8-4       |  4   5-10      |  8  13-14
+5   PAOK                    15 |  4   9-4       |  4   7-7       |  8  16-11
+6   OFI                     13 |  4   8-3       |  4   5-9       |  8  13-12
+7   Kifisia                 11 |  4   4-3       |  4   6-8       |  8  10-11
+8   Kalamata                10 |  4   9-8       |  4   4-9       |  8  13-17
+9   Iraklis 1908             9 |  3   5-4       |  5   4-7       |  8   9-11
+10  Panetolikos              9 |  4   6-6       |  4   2-10      |  8   8-16
+11  Asteras Tripolis         6 |  5   3-5       |  3   4-10      |  8   7-15
+12  Levadiakos               3 |  4   0-5       |  4   0-6       |  8   0-11
+13  Atromitos                2 |  3   3-5       |  4   3-7       |  7   6-12
+14  Volos NFC                0 |  4   3-5       |  4   3-8       |  8   6-13
+
+(14 API-Football requests used)
+
+----------------------------------------------------------------------
+MATCHBOOK: skipped (switched off for this run)
