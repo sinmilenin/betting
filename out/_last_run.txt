@@ -1,5 +1,3 @@
-RUN 2026-10-28 20:02 local | 2 match(es)
-Louis City v Portland Timbers -> out/Louis_City_v_Portland_Timbers.txt
-    !! Louis City: Ambiguous team name "Louis City".
-Club America v id:2280 -> out/Club_America_v_id_2280.txt
-Requests used: API-Football 40, Matchbook 0
+RUN 2026-10-28 20:03 local | 1 match(es)
+id:20787 v Portland Timbers -> out/id_20787_v_Portland_Timbers.txt
+Requests used: API-Football 25, Matchbook 0

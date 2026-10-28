@@ -1,11 +1,33 @@
-MATCH Louis City v Portland Timbers | fetched 2026-10-28 20:02 local
+MATCH id:20787 v Portland Timbers | fetched 2026-10-28 20:03 local
 
-FORM DATA Louis City v Portland Timbers | source API-Football | 2026-10-28 20:02 UTC
+FORM DATA id:20787 v Portland Timbers | source API-Football | 2026-10-28 20:03 UTC
 H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
 
-"Louis City" matches several teams. Use id:<number> instead of the name:
-  id:18740  St. Louis City II (USA)
-  id:20787  St. Louis City (USA)
+=== St. Louis City (id 20787): last 20 finished games ===
+2026-10-25 A 0-3 v Real Salt Lake | Major League Soccer | Sandy | xG 0.11-4.03
+2026-10-22 A 0-0 v Columbus Crew | US Open Cup | ? [PEN, 90-min score shown]
+2026-10-17 A 2-3 v Minnesota United FC | Major League Soccer | Sao Paulo | xG 1.21-2.63
+2026-10-15 H 0-0 v Vancouver Whitecaps | Major League Soccer | Saint Louis | xG 0.83-0.99
+2026-10-11 H 6-2 v Los Angeles Galaxy | Major League Soccer | Saint Louis | xG 2.61-1.96
+2026-09-30 A 3-0 v New York Red Bulls | Major League Soccer | Harrison
+2026-09-20 H 3-1 v Toronto FC | Major League Soccer | St. Louis | xG 2.54-1.08
+2026-09-17 A 3-0 v Colorado Rapids | US Open Cup | ?
+2026-09-13 H 4-2 v Minnesota United FC | Major League Soccer | St. Louis | xG 2.85-1.75
+2026-09-10 A 2-2 v Portland Timbers | Major League Soccer | Portland | xG 1.86-0.92
+2026-09-06 A 3-1 v Vancouver Whitecaps | Major League Soccer | Vancouver
+2026-08-30 H 3-3 v FC Dallas | Major League Soccer | St. Louis
+2026-08-23 H 2-1 v Houston Dynamo | Major League Soccer | St. Louis
+2026-08-20 A 1-1 v Sporting Kansas City | Major League Soccer | Kansas City
+2026-08-16 A 3-1 v San Jose Earthquakes | Major League Soccer | San Jose
+2026-08-02 H 1-1 v Real Salt Lake | Major League Soccer | St. Louis
+2026-07-26 H 1-0 v Colorado Rapids | Major League Soccer | St. Louis
+2026-07-23 A 3-1 v Los Angeles Galaxy | Major League Soccer | Carson
+2026-07-17 H 3-2 v Sporting Kansas City | Major League Soccer | St. Louis
+2026-05-23 H 3-0 v Austin | Major League Soccer | St. Louis
+Listed home: 10 games, scored 26 (2.60), conceded 12 (1.20), blanks 1, clean sheets 3
+Listed away: 10 games, scored 20 (2.00), conceded 12 (1.20), blanks 2, clean sheets 3
+All: 20 games, scored 46 (2.30), conceded 24 (1.20), blanks 3, clean sheets 6
+
 === Portland Timbers (id 1617): last 20 finished games ===
 2026-10-25 H 3-2 v Charlotte | Major League Soccer | Portland | xG 3.70-0.83
 2026-10-18 H 0-0 v Colorado Rapids | Major League Soccer | Portland | xG 0.66-1.01
@@ -31,13 +53,7 @@ Listed home: 12 games, scored 28 (2.33), conceded 19 (1.58), blanks 2, clean she
 Listed away: 8 games, scored 13 (1.62), conceded 17 (2.12), blanks 1, clean sheets 0
 All: 20 games, scored 41 (2.05), conceded 36 (1.80), blanks 3, clean sheets 1
 
-(retrying Louis City using the opponent's country, USA)
-"Louis City" matches several teams. Use id:<number> instead of the name:
-  id:18740  St. Louis City II (USA)
-  id:20787  St. Louis City (USA)
-!! Louis City: Ambiguous team name "Louis City".
-
-TABLE FOR Portland Timbers
+TABLE FOR St. Louis City
 LEAGUE TABLE Major League Soccer 2026 | 30 teams | 466 games played
 League averages per game: home 1.83, away 1.41, total 3.24
 #   team                   Pts | home P GF-GA  | away P GF-GA  | all P GF-GA
@@ -72,7 +88,9 @@ League averages per game: home 1.83, away 1.41, total 3.24
 14  Atlanta United FC       30 | 16  23-32      | 15  16-22      | 31  39-54 [Eastern Conference]
 15  CF Montreal             25 | 16  19-23      | 15  17-39      | 31  36-62 [Eastern Conference]
 
-(15 API-Football requests used)
+(Portland Timbers: same table as St. Louis City, shown above)
+
+(25 API-Football requests used)
 
 ----------------------------------------------------------------------
 MATCHBOOK: skipped (switched off for this run)
