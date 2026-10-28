@@ -1,0 +1,101 @@
+MATCH Lillestrom v Sogndal | fetched 2026-10-28 16:28 local
+
+FORM DATA Lillestrom v Sogndal | source API-Football | 2026-10-28 16:28 UTC
+H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
+
+=== Lillestrom (id 321): last 20 finished games ===
+2026-10-25 H 3-2 v Brann | Eliteserien | Lillestrom | xG 2.55-1.48
+2026-10-22 H 0-6 v Real Sociedad | UEFA Europa League | Lillestrom | xG 2.29-2.46
+2026-10-18 A 2-0 v Sandefjord | Eliteserien | Sandefjord | xG 0.51-1.35
+2026-10-15 A 1-1 v Sparta Praha | UEFA Europa League | Prague | xG 0.84-1.12
+2026-10-11 H 2-2 v Molde | Eliteserien | Lillestrom | xG 1.63-2.95
+2026-10-01 A 5-1 v Bærum | NM Cupen | ?
+2026-09-20 A 0-3 v Viking | Eliteserien | Stavanger | xG 1.77-2.98
+2026-09-17 H 1-2 v Torreense | UEFA Europa League | Lillestrom
+2026-09-12 H 2-0 v Valerenga | Eliteserien | Lillestrøm | xG 0.70-1.57
+2026-09-05 A 2-1 v Brann | Eliteserien | Bergen | xG 1.33-1.97
+2026-09-02 A 3-0 v Aurskog Finstadbru | NM Cupen | ?
+2026-08-30 H 1-4 v Fredrikstad | Eliteserien | Lillestrøm
+2026-08-27 H 1-1 v Egnatia Rrogozhinë | UEFA Europa League | Lillestrøm [AET, 90-min score shown]
+2026-08-20 A 0-0 v Egnatia Rrogozhinë | UEFA Europa League | Rrogozhine
+2026-08-15 A 1-1 v KFUM Oslo | Eliteserien | Oslo
+2026-08-09 H 0-2 v Rosenborg | Eliteserien | Lillestrøm
+2026-07-31 A 0-4 v Bodo/Glimt | Eliteserien | Bodø
+2026-07-22 H 1-2 v Viking | Eliteserien | Lillestrøm
+2026-07-18 H 2-1 v KFUM Oslo | Eliteserien | Lillestrøm
+2026-07-11 A 2-0 v Fredrikstad | Eliteserien | Fredrikstad
+Listed home: 10 games, scored 13 (1.30), conceded 22 (2.20), blanks 2, clean sheets 1
+Listed away: 10 games, scored 16 (1.60), conceded 11 (1.10), blanks 3, clean sheets 4
+All: 20 games, scored 29 (1.45), conceded 33 (1.65), blanks 5, clean sheets 5
+
+=== Sogndal (id 758): last 20 finished games ===
+2026-10-25 H 3-1 v Kongsvinger | 1. Division | Sogndal
+2026-10-21 H 2-1 v Raufoss | 1. Division | Sogndal
+2026-10-18 A 3-3 v Egersund | 1. Division | Egersund
+2026-10-14 H 0-1 v ODD Ballklubb | 1. Division | Sogndal
+2026-10-11 A 1-2 v Asane | 1. Division | Bergen
+2026-09-20 A 1-2 v Stabaek | 1. Division | Bekkestua
+2026-09-16 A 1-1 v Sotra | NM Cupen | ? [PEN, 90-min score shown]
+2026-09-13 H 1-1 v Strommen | 1. Division | Sogndal
+2026-09-05 A 0-2 v Haugesund | 1. Division | Haugesund
+2026-08-30 H 2-3 v Stromsgodset | 1. Division | Sogndal
+2026-08-26 A 2-2 v Moss | 1. Division | Moss
+2026-08-21 A 8-0 v Fjøra | NM Cupen | Sogndal
+2026-08-16 H 2-0 v Sandnes ULF | 1. Division | Sogndal
+2026-08-09 H 0-2 v Bryne | 1. Division | Sogndal
+2026-08-02 A 2-3 v Lyn | 1. Division | Oslo
+2026-07-26 H 3-2 v Ranheim | 1. Division | Sogndal
+2026-07-03 A 1-5 v Kongsvinger | 1. Division | Kongsvinger
+2026-06-27 H 4-2 v Egersund | 1. Division | Sogndal
+2026-06-21 A 1-3 v Raufoss | 1. Division | Raufoss
+2026-06-14 H 2-4 v Moss | 1. Division | Sogndal
+Listed home: 10 games, scored 19 (1.90), conceded 17 (1.70), blanks 2, clean sheets 1
+Listed away: 10 games, scored 20 (2.00), conceded 23 (2.30), blanks 1, clean sheets 1
+All: 20 games, scored 39 (1.95), conceded 40 (2.00), blanks 3, clean sheets 2
+
+TABLE FOR Lillestrom
+LEAGUE TABLE Eliteserien 2026 | 16 teams | 192 games played
+League averages per game: home 1.84, away 1.38, total 3.21
+#   team                   Pts | home P GF-GA  | away P GF-GA  | all P GF-GA
+1   Viking                  59 | 12  44-13      | 12  18-10      | 24  62-23
+2   Bodo/Glimt              56 | 12  34-8       | 12  24-13      | 24  58-21
+3   Molde                   43 | 13  35-15      | 11  22-21      | 24  57-36
+4   Rosenborg               40 | 12  28-14      | 12  18-17      | 24  46-31
+5   Tromso                  40 | 12  22-10      | 12  21-24      | 24  43-34
+6   Lillestrom              39 | 12  22-19      | 12  13-14      | 24  35-33
+7   Sarpsborg 08 FF         31 | 12  14-16      | 12  16-19      | 24  30-35
+8   KFUM Oslo               30 | 12  15-14      | 12  15-25      | 24  30-39
+9   Brann                   29 | 12  20-18      | 12  22-22      | 24  42-40
+10  Valerenga               29 | 12  23-20      | 12  16-26      | 24  39-46
+11  Fredrikstad             29 | 11  14-12      | 13  15-29      | 24  29-41
+12  Ham-Kam                 26 | 12  17-24      | 12  16-27      | 24  33-51
+13  Sandefjord              24 | 12  10-12      | 12  12-19      | 24  22-31
+14  Aalesund                24 | 12  24-30      | 12  16-23      | 24  40-53
+15  Kristiansund BK         20 | 12  16-20      | 12   9-29      | 24  25-49
+16  Start                   19 | 12  15-19      | 12  11-35      | 24  26-54
+
+TABLE FOR Sogndal
+LEAGUE TABLE 1. Division 2026 | 16 teams | 224 games played
+League averages per game: home 2.17, away 1.64, total 3.81
+#   team                   Pts | home P GF-GA  | away P GF-GA  | all P GF-GA
+1   Haugesund               62 | 14  43-15      | 14  38-32      | 28  81-47
+2   Stromsgodset            60 | 14  41-14      | 14  35-20      | 28  76-34
+3   Kongsvinger             59 | 14  55-23      | 14  27-22      | 28  82-45
+4   Stabaek                 55 | 14  41-17      | 14  25-17      | 28  66-34
+5   ODD Ballklubb           45 | 14  29-16      | 14  25-27      | 28  54-43
+6   Bryne                   40 | 14  22-20      | 14  18-21      | 28  40-41
+7   Ranheim                 38 | 14  43-30      | 14  28-38      | 28  71-68
+8   hodd                    38 | 14  29-23      | 14  20-33      | 28  49-56
+9   Strommen                36 | 14  25-28      | 14  24-31      | 28  49-59
+10  Egersund                35 | 14  25-20      | 14  20-36      | 28  45-56
+11  Lyn                     31 | 14  22-35      | 14  20-24      | 28  42-59
+12  Sogndal                 30 | 14  28-23      | 14  19-38      | 28  47-61
+13  Sandnes ULF             29 | 14  22-23      | 14  17-32      | 28  39-55
+14  Moss                    29 | 14  18-29      | 14  23-30      | 28  41-59
+15  Asane                   26 | 14  25-27      | 14  15-35      | 28  40-62
+16  Raufoss                 20 | 14  17-25      | 14  14-49      | 28  31-74
+
+(25 API-Football requests used)
+
+----------------------------------------------------------------------
+MATCHBOOK: skipped (switched off for this run)

@@ -1,0 +1,94 @@
+MATCH Jeddeloh v Hertha Berlin | fetched 2026-10-28 16:28 local
+
+FORM DATA Jeddeloh v Hertha Berlin | source API-Football | 2026-10-28 16:28 UTC
+H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
+
+=== SSV Jeddeloh (id 1655): last 20 finished games ===
+2026-10-24 A 1-1 v Eimsbütteler TV | Regionalliga - Nord | ?
+2026-10-17 H 3-2 v Werder Bremen II | Regionalliga - Nord | ?
+2026-10-12 H 1-2 v VfB Lübeck | Regionalliga - Nord | ?
+2026-10-03 A 2-7 v SV Drochtersen/Assel | Regionalliga - Nord | ?
+2026-09-26 H 0-4 v Eintracht Norderstedt | Regionalliga - Nord | ?
+2026-09-19 A 3-1 v VfB Oldenburg | Regionalliga - Nord | Oldenburg
+2026-09-16 H 5-0 v Atlas Delmenhorst | Regionalliga - Nord | ?
+2026-09-12 A 1-4 v Kickers Emden | Regionalliga - Nord | ?
+2026-09-05 H 1-3 v Hamburger SV II | Regionalliga - Nord | ?
+2026-08-30 A 0-2 v Todesfelde | Regionalliga - Nord | ?
+2026-08-26 H 2-2 v Hannover 96 II | Regionalliga - Nord | ?
+2026-08-23 H 5-2 v 1. FC Heidenheim | DFB Pokal | Oldenburg
+2026-08-15 A 2-5 v Weiche Flensburg | Regionalliga - Nord | ?
+2026-08-12 H 2-0 v St. Pauli II | Regionalliga - Nord | ?
+2026-08-09 A 0-2 v Phönix Lübeck | Regionalliga - Nord | ?
+2026-08-01 H 0-2 v Schöningen | Regionalliga - Nord | ?
+2026-07-25 A 2-5 v Schwarz-Weiß Rehden | Friendlies Clubs | ?
+2026-07-22 H 2-0 v SV Rodinghausen | Friendlies Clubs | ?
+2026-07-17 H 0-3 v Preußen Münster | Friendlies Clubs | ?
+2026-07-11 A 5-1 v Wilhelmshaven | Friendlies Clubs | ?
+Listed home: 11 games, scored 21 (1.91), conceded 20 (1.82), blanks 3, clean sheets 3
+Listed away: 9 games, scored 16 (1.78), conceded 28 (3.11), blanks 2, clean sheets 0
+All: 20 games, scored 37 (1.85), conceded 48 (2.40), blanks 5, clean sheets 3
+
+=== Hertha Berlin W (id 27444): last 13 finished games ===
+2026-10-25 H 1-1 v Andernach W | 2. Frauen Bundesliga | ?
+2026-10-18 A 2-2 v SC Sand W | 2. Frauen Bundesliga | Willstatt
+2026-10-04 H 3-1 v Hoffenheim II W | 2. Frauen Bundesliga | ?
+2026-09-26 H 1-2 v FC Koln W | DFB Pokal - Women | ?
+2026-09-20 A 2-1 v Eintracht Frankfurt II W | 2. Frauen Bundesliga | ?
+2026-09-13 H 2-0 v Meppen W | 2. Frauen Bundesliga | ?
+2026-09-06 A 3-2 v Borussia Monchengladbach W | 2. Frauen Bundesliga | ?
+2026-08-30 H 2-1 v Ingolstadt W | 2. Frauen Bundesliga | ?
+2026-08-23 A 2-1 v Turbine Potsdam W | 2. Frauen Bundesliga | Potsdam-Babelsberg
+2026-08-15 A 5-0 v Jesteburg W | DFB Pokal - Women | ?
+2026-08-09 H 2-0 v FC Koln II W | 2. Frauen Bundesliga | ?
+2026-08-02 A 0-3 v Bochum W | 2. Frauen Bundesliga | Bochum
+2026-02-02 A 0-1 v India W | Friendlies Women | ?
+Listed home: 6 games, scored 11 (1.83), conceded 5 (0.83), blanks 0, clean sheets 2
+Listed away: 7 games, scored 14 (2.00), conceded 10 (1.43), blanks 2, clean sheets 1
+All: 13 games, scored 25 (1.92), conceded 15 (1.15), blanks 2, clean sheets 3
+
+TABLE FOR SSV Jeddeloh
+LEAGUE TABLE Regionalliga - Nord 2026 | 18 teams | 129 games played
+League averages per game: home 2.12, away 1.79, total 3.91
+#   team                   Pts | home P GF-GA  | away P GF-GA  | all P GF-GA
+1   Weiche Flensburg        34 |  7  22-8       |  8  21-9       | 15  43-17
+2   Hannover 96 II          33 |  8  21-13      |  7  15-8       | 15  36-21
+3   SV Drochtersen/Assel    31 |  8  31-10      |  7  17-12      | 15  48-22
+4   VfB Oldenburg           31 |  7  25-12      |  7  16-7       | 14  41-19
+5   Phönix Lübeck           28 |  5  21-3       |  9  17-11      | 14  38-14
+6   Schöningen              24 |  7  13-10      |  7   9-14      | 14  22-24
+7   Atlas Delmenhorst       20 |  6  13-9       |  8   8-13      | 14  21-22
+8   Kickers Emden           19 |  7  18-11      |  8  18-30      | 15  36-41
+9   VfB Lübeck              18 |  9  15-13      |  5   5-10      | 14  20-23
+10  HSC Hannover            17 |  7  11-18      |  8  12-14      | 15  23-32
+11  Werder Bremen II        15 |  8   5-13      |  6  16-12      | 14  21-25
+12  Eimsbütteler TV         15 |  7  10-14      |  7  12-22      | 14  22-36
+13  SSV Jeddeloh            14 |  8  14-15      |  7   9-22      | 15  23-37
+14  St. Pauli II            13 |  7  15-10      |  7  12-19      | 14  27-29
+15  Eintracht Norderstedt   13 |  6  15-17      |  7  12-18      | 13  27-35
+16  Hamburger SV II         13 |  7   4-18      |  7  16-14      | 14  20-32
+17  Todesfelde              12 |  6  12-17      |  9  11-31      | 15  23-48
+18  Bremer SV               11 |  9   8-20      |  5   5-7       | 14  13-27
+
+TABLE FOR Hertha Berlin W
+LEAGUE TABLE 2. Frauen Bundesliga 2026 | 14 teams | 70 games played
+League averages per game: home 1.66, away 1.37, total 3.03
+#   team                   Pts | home P GF-GA  | away P GF-GA  | all P GF-GA
+1   Viktoria Berlin W       27 |  5   6-3       |  5  11-2       | 10  17-5
+2   SGS Essen W             23 |  5  16-4       |  5  13-4       | 10  29-8
+3   Hertha Berlin W         23 |  5  10-3       |  5   9-9       | 10  19-12
+4   Bochum W                20 |  5  17-0       |  5   9-12      | 10  26-12
+5   Meppen W                16 |  4   9-3       |  6   8-7       | 10  17-10
+6   Ingolstadt W            15 |  6  11-7       |  4   3-4       | 10  14-11
+7   Carl Zeiss Jena  W      13 |  5   8-7       |  5   8-8       | 10  16-15
+8   Borussia Monchengladba  13 |  6   9-11      |  4   8-7       | 10  17-18
+9   Andernach W             13 |  5   6-11      |  5   7-11      | 10  13-22
+10  SC Sand W               12 |  4   4-9       |  6   8-6       | 10  12-15
+11  Eintracht Frankfurt II  10 |  5   4-6       |  5   2-12      | 10   6-18
+12  Hoffenheim II W          5 |  5   9-10      |  5   5-14      | 10  14-24
+13  Turbine Potsdam W        5 |  5   4-9       |  5   3-13      | 10   7-22
+14  FC Koln II W             2 |  5   3-13      |  5   2-7       | 10   5-20
+
+(26 API-Football requests used)
+
+----------------------------------------------------------------------
+MATCHBOOK: skipped (switched off for this run)

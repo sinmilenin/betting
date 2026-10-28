@@ -1,0 +1,86 @@
+MATCH Juve Stabia v Hellas Verona | fetched 2026-10-28 16:28 local
+
+FORM DATA Juve Stabia v Hellas Verona | source API-Football | 2026-10-28 16:29 UTC
+H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
+
+=== Juve Stabia (id 863): last 20 finished games ===
+2026-10-24 A 1-0 v Cremonese | Serie B | Cremona | xG 0.67-1.55
+2026-10-18 H 3-0 v Sudtirol | Serie B | Castellammare di Stabia | xG 2.73-0.28
+2026-10-10 A 1-1 v Virtus Entella | Serie B | Chiavari | xG 0.99-1.11
+2026-10-03 A 3-3 v Lazio | Friendlies Clubs | ?
+2026-10-01 H 4-1 v USD Palmese | Friendlies Clubs | ?
+2026-09-18 H 1-1 v Cesena | Serie B | Castellammare di Stabia | xG 1.65-1.18
+2026-09-12 A 1-1 v Vicenza Virtus | Serie B | Vicenza | xG 1.50-0.57
+2026-09-06 H 0-3 v Pisa | Serie B | Castellammare di Stabia | xG 0.96-1.69
+2026-08-29 A 2-1 v Sampdoria | Serie B | Genova | xG 0.90-1.42
+2026-08-23 A 0-1 v Palermo | Serie B | Palermo | xG 1.04-1.21
+2026-08-16 A 1-4 v Frosinone | Coppa Italia | Frosinone
+2026-08-06 A 1-0 v Cavese | Friendlies Clubs | ?
+2026-07-31 H 5-1 v Ischia | Friendlies Clubs | ?
+2026-07-26 A 4-0 v Potenza | Friendlies Clubs | ?
+2026-05-19 A 1-2 v Monza | Serie B | Monza
+2026-05-16 H 2-2 v Monza | Serie B | Castellammare di Stabia
+2026-05-12 A 1-0 v Modena | Serie B | Modena
+2026-05-08 A 1-1 v Sudtirol | Serie B | Bolzano
+2026-05-01 H 0-1 v Frosinone | Serie B | Castellammare di Stabia
+2026-04-25 A 1-1 v Pescara | Serie B | Pescara
+Listed home: 7 games, scored 15 (2.14), conceded 9 (1.29), blanks 2, clean sheets 1
+Listed away: 13 games, scored 18 (1.38), conceded 15 (1.15), blanks 1, clean sheets 4
+All: 20 games, scored 33 (1.65), conceded 24 (1.20), blanks 3, clean sheets 5
+
+=== Hellas Verona (id 504): last 20 finished games ===
+2026-10-25 H 1-1 v Pisa | Serie B | Verona | xG 0.61-1.49
+2026-10-16 H 2-2 v Catanzaro | Serie B | Verona | xG 1.89-1.18
+2026-10-11 A 2-3 v Modena | Serie B | Modena | xG 1.83-2.58
+2026-10-02 A 3-1 v FC Lugano | Friendlies Clubs | Lugano
+2026-09-20 H 2-1 v Vicenza Virtus | Serie B | Verona | xG 0.97-0.90
+2026-09-11 A 1-3 v Benevento | Serie B | Benevento | xG 1.44-1.13
+2026-09-06 H 5-0 v Arezzo | Serie B | Verona | xG 3.15-0.12
+2026-09-03 A 2-1 v Cagliari | Coppa Italia | Cagliari
+2026-08-29 A 1-1 v Padova | Serie B | Padova | xG 1.62-0.94
+2026-08-23 H 1-2 v Ascoli | Serie B | Verona | xG 3.00-1.17
+2026-08-16 H 2-2 v Virtus Entella | Coppa Italia | Verona [PEN, 90-min score shown]
+2026-08-02 H 3-0 v Lecco | Friendlies Clubs | ?
+2026-07-25 H 1-0 v Dolomiti Bellunesi | Friendlies Clubs | ?
+2026-07-22 H 2-1 v Virtus Verona | Friendlies Clubs | ?
+2026-07-19 H 8-1 v Rovereto | Friendlies Clubs | ?
+2026-05-24 H 0-2 v AS Roma | Serie A | Verona
+2026-05-17 A 1-1 v Inter | Serie A | Milan
+2026-05-10 H 0-1 v Como | Serie A | Verona
+2026-05-03 A 1-1 v Juventus | Serie A | Turin
+2026-04-25 H 0-0 v Lecce | Serie A | Verona
+Listed home: 13 games, scored 27 (2.08), conceded 13 (1.00), blanks 3, clean sheets 4
+Listed away: 7 games, scored 11 (1.57), conceded 11 (1.57), blanks 0, clean sheets 0
+All: 20 games, scored 38 (1.90), conceded 24 (1.20), blanks 3, clean sheets 4
+
+TABLE FOR Juve Stabia
+LEAGUE TABLE Serie B 2026 | 20 teams | 87 games played
+League averages per game: home 1.34, away 1.32, total 2.67
+#   team                   Pts | home P GF-GA  | away P GF-GA  | all P GF-GA
+1   Palermo                 22 |  4   8-3       |  4  10-5       |  8  18-8
+2   Modena                  19 |  4   8-4       |  5   9-5       |  9  17-9
+3   Ascoli                  18 |  5   8-3       |  4   8-3       |  9  16-6
+4   Mantova                 17 |  5   7-7       |  4   7-3       |  9  14-10
+5   Benevento               15 |  6  10-7       |  3   4-1       |  9  14-8
+6   Pisa                    14 |  4   6-7       |  4   9-3       |  8  15-10
+7   Padova                  13 |  5   5-5       |  4   4-5       |  9   9-10
+8   Sudtirol                13 |  5   5-2       |  4   5-7       |  9  10-9
+9   Avellino                12 |  5   9-5       |  4   4-5       |  9  13-10
+10  Cesena                  11 |  5   7-6       |  4   3-7       |  9  10-13
+11  Virtus Entella          10 |  5   5-7       |  4   6-3       |  9  11-10
+12  Arezzo                  10 |  4   3-10      |  4   5-7       |  8   8-17
+13  Hellas Verona            9 |  5  11-6       |  3   4-7       |  8  15-13
+14  Cremonese                9 |  4   3-5       |  5   5-6       |  9   8-11
+15  Vicenza Virtus           9 |  4   5-8       |  5   7-9       |  9  12-17
+16  Juve Stabia              8 |  3   4-4       |  5   5-4       |  8   9-8
+17  Empoli                   7 |  4   3-7       |  5   5-8       |  9   8-15
+18  Carrarese                7 |  4   3-5       |  4   4-4       |  8   7-9
+19  Sampdoria                5 |  3   4-5       |  6   4-13      |  9   8-18
+20  Catanzaro                5 |  3   3-9       |  6   7-12      |  9  10-21
+
+(Hellas Verona: same table as Juve Stabia, shown above)
+
+(24 API-Football requests used)
+
+----------------------------------------------------------------------
+MATCHBOOK: skipped (switched off for this run)

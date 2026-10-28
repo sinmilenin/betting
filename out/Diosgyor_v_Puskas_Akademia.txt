@@ -1,0 +1,37 @@
+MATCH Diosgyor v Puskas Akademia | fetched 2026-10-28 16:28 local
+
+FORM DATA Diosgyor v Puskas Akademia | source API-Football | 2026-10-28 16:28 UTC
+H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
+
+"Diosgyor" matches several teams. Use id:<number> instead of the name:
+  id:2393   Diosgyori VTK (Hungary)
+  id:13154  Diósgyőr II (Hungary)
+=== Puskás Akadémia U19 (id 22399): last 12 finished games ===
+2026-02-04 H 1-2 v Sporting CP U19 | UEFA Youth League | ?
+2025-12-10 H 2-3 v FCSB U19 | UEFA Youth League | ? [PEN, 90-min score shown]
+2025-11-26 A 2-1 v FCSB U19 | UEFA Youth League | Buftea
+2025-11-05 H 0-0 v Brann U19 | UEFA Youth League | ? [PEN, 90-min score shown]
+2025-10-22 A 1-1 v Brann U19 | UEFA Youth League | Bergen
+2025-02-12 H 1-2 v Aston Villa U19 | UEFA Youth League | Felcsút
+2024-12-17 A 1-2 v Genk U19 | UEFA Youth League | Genk
+2024-11-27 H 1-0 v Genk U19 | UEFA Youth League | Felcsút
+2024-11-06 H 3-0 v Aberdeen U19 | UEFA Youth League | Felcsút
+2024-10-23 A 5-1 v Aberdeen U19 | UEFA Youth League | Aberdeen
+2023-10-25 H 0-1 v Qabala U19 | UEFA Youth League | Felcsút
+2023-10-04 A 1-1 v Qabala U19 | UEFA Youth League | Qəbələ
+Listed home: 7 games, scored 8 (1.14), conceded 8 (1.14), blanks 2, clean sheets 3
+Listed away: 5 games, scored 10 (2.00), conceded 6 (1.20), blanks 0, clean sheets 0
+All: 12 games, scored 18 (1.50), conceded 14 (1.17), blanks 2, clean sheets 3
+
+(retrying Diosgyor using the opponent's country, Hungary)
+"Diosgyor" matches several teams. Use id:<number> instead of the name:
+  id:2393   Diosgyori VTK (Hungary)
+  id:13154  Diósgyőr II (Hungary)
+!! Diosgyor: Ambiguous team name "Diosgyor".
+
+(no league table available for Puskás Akadémia U19: tried UEFA Youth League 2025, UEFA Youth League 2024, UEFA Youth League 2023)
+
+(17 API-Football requests used)
+
+----------------------------------------------------------------------
+MATCHBOOK: skipped (switched off for this run)
