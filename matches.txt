@@ -1,2 +1,7 @@
-# Scan 28.10.2026 14:43 retry Muharraq
-id:2871 v Muharraq | n=20 | xg=10
+# Scan 28.10.2026 15:28
+OFK Petrovac v Mladost Donja Gorica | n=20 | xg=10
+Atalanta U23 v Pesaro | n=20 | xg=10
+Molde v Stromsgodset | n=20 | xg=10
+Pors v Kongsvinger | n=20 | xg=10
+Zamalek v Al Mokawloon | n=20 | xg=10
+Freiburg v Wolfsburg | n=20 | xg=10
