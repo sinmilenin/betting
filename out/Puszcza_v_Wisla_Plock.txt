@@ -1,7 +1,32 @@
-MATCH Puszcza Niepolomice v Wisla Plock | fetched 2026-10-28 15:43 local
+MATCH Puszcza v Wisla Plock | fetched 2026-10-28 15:47 local
 
-FORM DATA Puszcza Niepolomice v Wisla Plock | source API-Football | 2026-10-28 15:44 UTC
+FORM DATA Puszcza v Wisla Plock | source API-Football | 2026-10-28 15:47 UTC
 H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
+
+=== Puszcza Niepołomice (id 3490): last 20 finished games ===
+2026-10-24 H 2-1 v Lechia Gdansk | I Liga | ?
+2026-10-19 A 0-2 v Nieciecza | I Liga | Nieciecza
+2026-10-15 A 3-1 v Pogoń Siedlce | I Liga | Siedlce
+2026-10-11 H 0-1 v Polonia Bytom | I Liga | ?
+2026-10-02 A 3-4 v Wieczysta Kraków | Friendlies Clubs | ?
+2026-09-18 A 2-3 v Warta Poznań | I Liga | ?
+2026-09-11 H 1-2 v ŁKS Łódź | I Liga | ?
+2026-09-01 A 2-0 v Wisła Płock II | Cup | ?
+2026-08-29 H 2-0 v Podbeskidzie | I Liga | ?
+2026-08-23 H 0-1 v Unia Skierniewice | I Liga | ?
+2026-08-17 A 0-3 v Arka Gdynia | I Liga | Gdynia
+2026-08-08 H 3-1 v Odra Opole | I Liga | ?
+2026-08-02 A 0-1 v Pogoń Grod. Mazowiecki | I Liga | Grodzisk Mazowiecki
+2026-07-26 H 0-1 v Polonia Warszawa | I Liga | ?
+2026-07-23 H 2-1 v Jarosław | Friendlies Clubs | ?
+2026-07-19 A 0-2 v Widzew Łódź | Friendlies Clubs | ?
+2026-07-11 A 4-1 v Stal Mielec | Friendlies Clubs | ?
+2026-07-08 H 0-3 v Nieciecza | Friendlies Clubs | ?
+2026-07-04 A 0-2 v Raków Częstochowa | Friendlies Clubs | ?
+2026-07-01 A 0-4 v Wisla Krakow | Friendlies Clubs | ?
+Listed home: 9 games, scored 10 (1.11), conceded 11 (1.22), blanks 4, clean sheets 1
+Listed away: 11 games, scored 14 (1.27), conceded 23 (2.09), blanks 6, clean sheets 1
+All: 20 games, scored 24 (1.20), conceded 34 (1.70), blanks 10, clean sheets 2
 
 === Wisla Plock (id 341): last 20 finished games ===
 2026-10-25 A 0-1 v Jagiellonia | Ekstraklasa | Bialystok | xG 0.95-1.73
@@ -28,7 +53,28 @@ Listed home: 11 games, scored 19 (1.73), conceded 8 (0.73), blanks 3, clean shee
 Listed away: 9 games, scored 11 (1.22), conceded 17 (1.89), blanks 3, clean sheets 1
 All: 20 games, scored 30 (1.50), conceded 25 (1.25), blanks 6, clean sheets 6
 
-!! Puszcza Niepolomice: No team found for "Puszcza Niepolomice".
+TABLE FOR Puszcza Niepołomice
+LEAGUE TABLE I Liga 2026 | 18 teams | 108 games played
+League averages per game: home 1.50, away 1.19, total 2.69
+#   team                   Pts | home P GF-GA  | away P GF-GA  | all P GF-GA
+1   Pogoń Grod. Mazowiecki  21 |  6   7-4       |  6  12-7       | 12  19-11
+2   Ruch Chorzów            21 |  6  12-6       |  6   4-5       | 12  16-11
+3   Polonia Warszawa        21 |  6  11-9       |  6   8-5       | 12  19-14
+4   ŁKS Łódź                21 |  6  10-6       |  6   5-5       | 12  15-11
+5   Nieciecza               20 |  6   9-6       |  6  10-11      | 12  19-17
+6   Lechia Gdansk           19 |  6  12-9       |  6  10-10      | 12  22-19
+7   Miedz Legnica           18 |  7  11-7       |  5   7-4       | 12  18-11
+8   Warta Poznań            18 |  4   7-3       |  8  12-13      | 12  19-16
+9   Polonia Bytom           18 |  6  11-9       |  6   9-11      | 12  20-20
+10  Stal Rzeszów            17 |  4   4-9       |  8  12-13      | 12  16-22
+11  Pogoń Siedlce           15 |  7  11-11      |  5   3-4       | 12  14-15
+12  Arka Gdynia             14 |  6  13-5       |  6   3-11      | 12  16-16
+13  Podbeskidzie            14 |  5   7-5       |  7   8-11      | 12  15-16
+14  Chrobry Głogów          13 |  6   3-7       |  6  10-8       | 12  13-15
+15  Stal Mielec             13 |  7  13-10      |  5   3-17      | 12  16-27
+16  Puszcza Niepołomice     12 |  7   8-7       |  5   5-10      | 12  13-17
+17  Odra Opole              12 |  6   4-4       |  6   4-9       | 12   8-13
+18  Unia Skierniewice       11 |  7   9-12      |  5   4-8       | 12  13-20
 
 TABLE FOR Wisla Plock
 LEAGUE TABLE Ekstraklasa 2026 | 18 teams | 106 games played
@@ -53,7 +99,7 @@ League averages per game: home 1.66, away 1.30, total 2.96
 17  Radomiak Radom           8 |  6   7-10      |  6   5-18      | 12  12-28
 18  Raków Częstochowa        6 |  6   9-17      |  6   7-11      | 12  16-28
 
-(14 API-Football requests used)
+(26 API-Football requests used)
 
 ----------------------------------------------------------------------
 MATCHBOOK: skipped (switched off for this run)
