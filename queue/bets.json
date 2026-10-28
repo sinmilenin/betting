@@ -273,5 +273,82 @@
     "lay": 9.6,
     "stake": 3,
     "created": "2026-10-28T15:02:03Z"
+  },
+  {
+    "id": "2026-10-28_puszcza-niepolomice-wisla-plock_aoaw",
+    "date": "2026-10-28",
+    "ko": "17:30",
+    "match": "Puszcza Niepolomice v Wisla Plock",
+    "comp": "Poland, Polish Cup",
+    "cell": "AOAW",
+    "lay": 8.2,
+    "stake": 3,
+    "created": "2026-10-28T16:49:36+01:00"
+  },
+  {
+    "id": "2026-10-28_puszcza-niepolomice-wisla-plock_0-3",
+    "date": "2026-10-28",
+    "ko": "17:30",
+    "match": "Puszcza Niepolomice v Wisla Plock",
+    "comp": "Poland, Polish Cup",
+    "cell": "0-3",
+    "lay": 15.0,
+    "stake": 3,
+    "created": "2026-10-28T16:49:36+01:00"
+  },
+  {
+    "id": "2026-10-28_puszcza-niepolomice-wisla-plock_1-3",
+    "date": "2026-10-28",
+    "ko": "17:30",
+    "match": "Puszcza Niepolomice v Wisla Plock",
+    "comp": "Poland, Polish Cup",
+    "cell": "1-3",
+    "lay": 16.5,
+    "stake": 3,
+    "created": "2026-10-28T16:49:36+01:00"
+  },
+  {
+    "id": "2026-10-28_chelsea-w-as-roma-w_3-1",
+    "date": "2026-10-28",
+    "ko": "18:45",
+    "match": "Chelsea (W) v AS Roma (W)",
+    "comp": "International, UEFA Women's Champions League",
+    "cell": "3-1",
+    "lay": 12.5,
+    "stake": 3,
+    "created": "2026-10-28T16:49:36+01:00"
+  },
+  {
+    "id": "2026-10-28_ifk-goteborg-djurgardens_2-2",
+    "date": "2026-10-28",
+    "ko": "19:00",
+    "match": "IFK Goteborg v Djurgardens",
+    "comp": "Sweden, Swedish Allsvenskan",
+    "cell": "2-2",
+    "lay": 16.0,
+    "stake": 3,
+    "created": "2026-10-28T16:49:36+01:00"
+  },
+  {
+    "id": "2026-10-28_fc-cajamarca-utc-cajamarca_1-0",
+    "date": "2026-10-28",
+    "ko": "19:15",
+    "match": "FC Cajamarca v UTC Cajamarca",
+    "comp": "Peru, Peruvian Primera Division",
+    "cell": "1-0",
+    "lay": 11.5,
+    "stake": 3,
+    "created": "2026-10-28T16:49:36+01:00"
+  },
+  {
+    "id": "2026-10-28_fc-cajamarca-utc-cajamarca_0-1",
+    "date": "2026-10-28",
+    "ko": "19:15",
+    "match": "FC Cajamarca v UTC Cajamarca",
+    "comp": "Peru, Peruvian Primera Division",
+    "cell": "0-1",
+    "lay": 15.0,
+    "stake": 3,
+    "created": "2026-10-28T16:49:36+01:00"
   }
 ]
