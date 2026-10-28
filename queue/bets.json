@@ -174,5 +174,16 @@
     "lay": 10.0,
     "stake": 3,
     "created": "2026-10-28T12:20:14+01:00"
+  },
+  {
+    "id": "2026-10-28_marko-olympiakos_0-3",
+    "date": "2026-10-28",
+    "ko": "14:00",
+    "match": "Marko v Olympiakos",
+    "comp": "Greece, Greek Cup",
+    "cell": "0-3",
+    "lay": 8.2,
+    "stake": 3,
+    "created": "2026-10-28T13:03:25+01:00"
   }
 ]
