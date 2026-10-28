@@ -1,0 +1,82 @@
+MATCH CFR Cluj v Universitatea Cluj | fetched 2026-10-28 06:44 local
+
+FORM DATA CFR Cluj v Universitatea Cluj | source API-Football | 2026-10-28 06:45 UTC
+H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
+
+=== CFR Cluj II (id 19658): last 20 finished games ===
+2023-05-27 A 1-1 v Minerul Ocna Dej | Liga III - Serie 10 | Jucu de Mijloc
+2023-05-20 H 1-2 v SCM Zalău | Liga III - Serie 10 | Cluj-Napoca
+2023-05-13 A 1-3 v Victoria Carei | Liga III - Serie 10 | Carei
+2023-05-06 H 3-0 v Sportul Şimleu | Liga III - Serie 10 | Iclod
+2023-05-03 H 1-1 v Sighetu Marmaţiei | Liga III - Serie 10 | Iclod
+2023-04-29 H 2-1 v Minerul Ocna Dej | Liga III - Serie 10 | Iclod
+2023-04-22 A 0-2 v SCM Zalău | Liga III - Serie 10 | Zalău
+2023-04-14 H 1-1 v Victoria Carei | Liga III - Serie 10 | Iclod
+2023-04-08 A 2-0 v Sportul Şimleu | Liga III - Serie 10 | Şimleu Silvaniei
+2023-04-01 A 0-1 v Sighetu Marmaţiei | Liga III - Serie 10 | Sighetu Marmaţiei
+2023-03-25 A 3-0 v Minerul Ocna Dej | Liga III - Serie 10 | Jucu de Mijloc
+2023-03-18 H 2-1 v Victoria Carei | Liga III - Serie 10 | Iclod
+2023-03-10 A 2-4 v Sânmartin | Liga III - Serie 10 | Sânmartin
+2022-12-03 H 1-1 v SCM Zalău | Liga III - Serie 10 | Cluj-Napoca
+2022-11-26 A 0-4 v Bihor Oradea | Liga III - Serie 10 | Oradea
+2022-11-19 H 1-2 v CSM Satu Mare | Liga III - Serie 10 | Cluj-Napoca
+2022-11-11 A 0-2 v Gloria Bistriţa | Liga III - Serie 10 | Bistriţa
+2022-11-05 H 0-2 v Sighetu Marmaţiei | Liga III - Serie 10 | Cluj-Napoca
+2022-10-29 H 2-0 v Sportul Şimleu | Liga III - Serie 10 | Cluj-Napoca
+2022-10-22 H 0-1 v Minerul Ocna Dej | Liga III - Serie 10 | Cluj-Napoca
+Listed home: 11 games, scored 14 (1.27), conceded 12 (1.09), blanks 2, clean sheets 2
+Listed away: 9 games, scored 9 (1.00), conceded 17 (1.89), blanks 4, clean sheets 2
+All: 20 games, scored 23 (1.15), conceded 29 (1.45), blanks 6, clean sheets 4
+
+=== Universitatea Cluj (id 2599): last 20 finished games ===
+2026-10-23 A 3-0 v Corvinul Hunedoara | Liga I | Petrosani
+2026-10-19 H 2-2 v Arges Pitesti | Liga I | Cluj-Napoca | xG 1.73-1.56
+2026-10-12 H 3-4 v Rapid | Liga I | Cluj-Napoca | xG 1.86-1.22
+2026-10-08 A 3-1 v CFR 1907 Cluj | Liga I | Cluj-Napoca
+2026-09-20 A 2-0 v FC Voluntari | Liga I | Voluntari | xG 2.51-1.38
+2026-09-14 H 3-0 v Oţelul | Liga I | Cluj-Napoca | xG 1.77-0.26
+2026-09-07 A 0-4 v Universitatea Craiova | Liga I | Craiova | xG 0.66-2.05
+2026-09-01 H 1-0 v Petrolul Ploiesti | Cupa României | Cluj-Napoca
+2026-08-28 H 2-3 v Petrolul Ploiesti | Liga I | Cluj-Napoca
+2026-08-22 A 1-2 v Dinamo Bucuresti | Liga I | Bucharest
+2026-08-17 H 2-1 v Uta Arad | Liga I | Cluj-Napoca
+2026-08-03 H 2-1 v FC Botosani | Liga I | Cluj-Napoca
+2026-07-30 A 1-3 v Brann | UEFA Europa Conference League | Bergen
+2026-07-26 A 0-1 v Sepsi OSK Sfantu Gheorghe | Liga I | Sfantu Gheorghe
+2026-07-23 H 2-2 v Brann | UEFA Europa Conference League | Sfantu Gheorghe
+2026-07-19 H 2-1 v Farul Constanta | Liga I | Cluj-Napoca
+2026-07-16 H 0-0 v Dynamo Kyiv | UEFA Europa League | Cluj Napoca [PEN, 90-min score shown]
+2026-07-12 A 1-1 v Universitatea Craiova | Supercupa | Craiova [PEN, 90-min score shown]
+2026-07-09 A 0-0 v Dynamo Kyiv | UEFA Europa League | Lublin
+2026-07-03 H 0-3 v Nyiregyhaza | Friendlies Clubs | ?
+Listed home: 11 games, scored 19 (1.73), conceded 17 (1.55), blanks 2, clean sheets 3
+Listed away: 9 games, scored 11 (1.22), conceded 12 (1.33), blanks 3, clean sheets 3
+All: 20 games, scored 30 (1.50), conceded 29 (1.45), blanks 5, clean sheets 6
+
+(no league table available for CFR Cluj II: tried Liga III - Serie 10 2022)
+
+TABLE FOR Universitatea Cluj
+LEAGUE TABLE Liga I 2026 | 16 teams | 104 games played
+League averages per game: home 1.72, away 1.02, total 2.74
+#   team                   Pts | home P GF-GA  | away P GF-GA  | all P GF-GA
+1   Dinamo Bucuresti        30 |  6  19-3       |  7  10-6       | 13  29-9
+2   Universitatea Craiova   29 |  7  22-2       |  6  10-7       | 13  32-9
+3   Rapid                   27 |  7  12-5       |  6   9-8       | 13  21-13
+4   Petrolul Ploiesti       23 |  6   7-3       |  7  11-14      | 13  18-17
+5   Universitatea Cluj      22 |  7  16-12      |  6   9-8       | 13  25-20
+6   FCSB                    21 |  7  15-10      |  6   5-9       | 13  20-19
+7   Farul Constanta         20 |  6  16-8       |  7   5-12      | 13  21-20
+8   Uta Arad                18 |  6   9-3       |  7   7-14      | 13  16-17
+9   CFR 1907 Cluj           17 |  6  12-6       |  7   7-14      | 13  19-20
+10  Corvinul Hunedoara      16 |  7  11-8       |  6   3-8       | 13  14-16
+11  FC Botosani             14 |  6  10-4       |  7   7-13      | 13  17-17
+12  Sepsi OSK Sfantu Gheor  14 |  6   5-9       |  7   3-9       | 13   8-18
+13  Arges Pitesti           12 |  7   4-5       |  6   4-9       | 13   8-14
+14  Oţelul                  11 |  7   8-8       |  6   7-13      | 13  15-21
+15  FC Voluntari             8 |  7   8-10      |  6   5-19      | 13  13-29
+16  Csikszereda              5 |  6   5-10      |  7   4-16      | 13   9-26
+
+(26 API-Football requests used)
+
+----------------------------------------------------------------------
+MATCHBOOK: skipped (switched off for this run)

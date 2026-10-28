@@ -1,0 +1,114 @@
+MATCH Venezia v Inter | fetched 2026-10-28 06:44 local
+
+FORM DATA Venezia v Inter | source API-Football | 2026-10-28 06:45 UTC
+H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
+
+=== Venezia (id 517): last 20 finished games ===
+2026-10-25 A 0-1 v Genoa | Serie A | Genoa | xG 1.82-0.41
+2026-10-17 H 1-0 v Napoli | Serie A | Venice | xG 0.98-2.36
+2026-10-12 A 1-3 v Atalanta | Serie A | Bergamo | xG 2.48-2.19
+2026-09-19 H 0-2 v Lazio | Serie A | Venice | xG 1.89-1.60
+2026-09-11 H 2-4 v Fiorentina | Serie A | Venice | xG 0.49-3.31
+2026-09-06 A 2-3 v Frosinone | Serie A | Frosinone | xG 2.17-1.90
+2026-09-02 A 1-2 v Udinese | Coppa Italia | Udine
+2026-08-28 A 0-2 v AC Milan | Serie A | Milano | xG 0.80-2.21
+2026-08-23 H 0-2 v Lecce | Serie A | Venice | xG 2.05-2.70
+2026-08-15 H 3-2 v Modena | Coppa Italia | Venice
+2026-08-08 A 2-2 v Stade Brestois 29 | Friendlies Clubs | ?
+2026-08-01 A 3-4 v Saint Etienne | Friendlies Clubs | ?
+2026-07-27 A 3-0 v Galatasaray | Friendlies Clubs | Linz
+2026-07-23 H 8-0 v Vis Pesaro | Friendlies Clubs | ?
+2026-07-19 H 4-2 v Dolomiti Bellunesi | Friendlies Clubs | ?
+2026-05-08 H 2-0 v Palermo | Serie B | Venice
+2026-05-01 A 2-2 v Spezia | Serie B | La Spezia
+2026-04-25 H 2-0 v Empoli | Serie B | Venice
+2026-04-18 A 3-0 v Bari | Serie B | Bari
+2026-04-11 A 1-1 v Virtus Entella | Serie B | Chiavari
+Listed home: 9 games, scored 22 (2.44), conceded 12 (1.33), blanks 2, clean sheets 4
+Listed away: 11 games, scored 18 (1.64), conceded 20 (1.82), blanks 2, clean sheets 2
+All: 20 games, scored 40 (2.00), conceded 32 (1.60), blanks 4, clean sheets 6
+
+"Inter" matches several teams. Use id:<number> instead of the name:
+  id:119    Internacional (Brazil)
+  id:505    Inter (Italy)
+  id:1020   Inter Zapresic (Croatia)
+  id:1134   Internacional de Bogota (Colombia)
+  id:1164   Inter Turku (Finland)
+  id:1201   Inter De Limeira (Brazil)
+  id:2180   FC Winterthur (Switzerland)
+  id:3342   Inter Club d'Escaldes (Andorra)
+  id:3349   Inter Club d'Escaldes II (Andorra)
+  id:3826   Internacional RS W (Brazil)
+  id:4203   Geylang International (Singapore)
+  id:4448   Inter de Grand-Goâve (Haiti)
+  id:4920   Interclube (Angola)
+  id:5579   İnter Bakı (Azerbaijan)
+  id:6800   Inter Cherkessk (Russia)
+  id:6873   Internaţional Băleşti (Romania)
+  id:7474   Inter Petrila (Romania)
+  id:7533   Inter Milano W (Italy)
+  id:7777   Interporto (Brazil)
+  id:7844   Internacional SC (Brazil)
+  id:7903   Internazionale U19 (Italy)
+  id:8160   Intercity (Spain)
+  id:9005   Winterton Rangers (England)
+  id:9048   Inter Nashville (USA)
+  id:9206   Legirus Inter (Finland)
+(retrying Inter using the opponent's country, Italy)
+NOTE: "Inter" matched 2 teams; picked Inter (Italy) because the opponent is from Italy. Others: Inter (El-Salvador)
+=== Inter (id 505): last 20 finished games ===
+2026-10-25 H 2-1 v Fiorentina | Serie A | Milan | xG 3.15-0.24
+2026-10-21 H 1-0 v Shakhtar Donetsk | UEFA Champions League | Milan | xG 1.09-0.61
+2026-10-17 A 3-1 v Bologna | Serie A | Bologna | xG 3.16-1.00
+2026-10-13 H 3-4 v Club Brugge KV | UEFA Champions League | Milan | xG 4.33-4.29
+2026-10-10 H 3-0 v Parma | Serie A | Milan | xG 2.42-0.46
+2026-10-03 H 2-0 v Lumezzane | Friendlies Clubs | ?
+2026-09-19 A 2-2 v AS Roma | Serie A | Rome | xG 2.86-1.66
+2026-09-14 H 5-3 v Udinese | Serie A | Milano | xG 3.05-0.92
+2026-09-08 A 1-2 v Real Madrid | UEFA Champions League | Madrid | xG 1.83-2.91
+2026-09-05 H 3-2 v Napoli | Serie A | Milano | xG 3.86-2.43
+2026-08-30 A 1-0 v Cagliari | Serie A | Cagliari
+2026-08-22 H 4-1 v Monza | Serie A | Milan
+2026-08-15 H 1-0 v Real Betis | Friendlies Clubs | ?
+2026-08-08 A 2-1 v Juventus | Friendlies Clubs | Perth
+2026-08-05 A 1-1 v AC Milan | Friendlies Clubs | Perth
+2026-08-01 A 1-1 v Manchester City | Friendlies Clubs | Hongkong [PEN, 90-min score shown]
+2026-07-26 A 2-1 v Karlsruher SC | Friendlies Clubs | Karlsruhe
+2026-05-23 A 3-3 v Bologna | Serie A | Bologna
+2026-05-17 H 1-1 v Hellas Verona | Serie A | Milan
+2026-05-13 A 2-0 v Lazio | Coppa Italia | Rome
+Listed home: 10 games, scored 25 (2.50), conceded 12 (1.20), blanks 0, clean sheets 4
+Listed away: 10 games, scored 18 (1.80), conceded 12 (1.20), blanks 0, clean sheets 2
+All: 20 games, scored 43 (2.15), conceded 24 (1.20), blanks 0, clean sheets 6
+
+TABLE FOR Venezia
+LEAGUE TABLE Serie A 2026 | 20 teams | 83 games played
+League averages per game: home 1.60, away 1.52, total 3.12
+#   team                   Pts | home P GF-GA  | away P GF-GA  | all P GF-GA
+1   Lazio                   25 |  4   8-4       |  5  14-3       |  9  22-7
+2   Inter                   22 |  5  17-7       |  3   6-3       |  8  23-10
+3   AS Roma                 21 |  5  14-5       |  4   9-3       |  9  23-8
+4   Como                    20 |  3   4-1       |  6  13-7       |  9  17-8
+5   AC Milan                18 |  3   8-2       |  5   8-5       |  8  16-7
+6   Frosinone               14 |  4   9-5       |  4   8-8       |  8  17-13
+7   Juventus                14 |  4   5-4       |  4   6-4       |  8  11-8
+8   Torino                  13 |  5   7-10      |  4   7-4       |  9  14-14
+9   Cagliari                13 |  4   2-4       |  5   6-9       |  9   8-13
+10  Napoli                  11 |  4   8-5       |  4   5-5       |  8  13-10
+11  Atalanta                10 |  5  11-8       |  3   3-7       |  8  14-15
+12  Lecce                    9 |  4   4-10      |  4   5-4       |  8   9-14
+13  Bologna                  8 |  4   4-7       |  4   4-3       |  8   8-10
+14  Sassuolo                 8 |  4   8-10      |  5   6-12      |  9  14-22
+15  Monza                    7 |  3   8-4       |  5   7-14      |  8  15-18
+16  Genoa                    7 |  5   5-8       |  3   1-5       |  8   6-13
+17  Udinese                  4 |  5   2-9       |  3   7-9       |  8   9-18
+18  Fiorentina               4 |  4   3-9       |  4   6-10      |  8   9-19
+19  Parma                    4 |  4   3-6       |  4   2-9       |  8   5-15
+20  Venezia                  3 |  4   3-8       |  4   3-9       |  8   6-17
+
+(Inter: same table as Venezia, shown above)
+
+(25 API-Football requests used)
+
+----------------------------------------------------------------------
+MATCHBOOK: skipped (switched off for this run)

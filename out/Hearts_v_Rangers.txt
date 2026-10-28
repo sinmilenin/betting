@@ -1,0 +1,49 @@
+MATCH Hearts v Rangers | fetched 2026-10-28 06:44 local
+
+FORM DATA Hearts v Rangers | source API-Football | 2026-10-28 06:45 UTC
+H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
+
+"Hearts" matches several teams. Use id:<number> instead of the name:
+  id:6771   Hearts U21 (Scotland)
+  id:6773   Kelty Hearts (Scotland)
+  id:12249  Hearts of Oak (Ghana)
+  id:13973  Darwin Hearts (Australia)
+  id:19799  Tower Hearts (Scotland)
+  id:22023  Cupar Hearts (Scotland)
+  id:23295  Hearts W (Scotland)
+  id:24273  Northern Hearts (New-Zealand)
+  id:25486  Portland Hearts of Pine (USA)
+"Rangers" matches several teams. Use id:<number> instead of the name:
+  id:257    Rangers (Scotland)
+  id:2344   Rangers de Talca (Chile)
+  id:2459   Posta Rangers FC (Kenya)
+  id:2486   Modern Coast Rangers (Kenya)
+  id:4459   Rangers (Hong-Kong)
+  id:4614   Zebbug Rangers (Malta)
+  id:5176   Enugu Rangers (Nigeria)
+  id:5198   Forest Rangers (Zambia)
+  id:5350   Carrick Rangers (Northern-Ireland)
+  id:5511   Nchanga Rangers (Zambia)
+  id:6443   Brickfield Rangers (Wales)
+  id:6456   Hawarden Rangers (Wales)
+  id:6759   Berwick Rangers (England)
+  id:6760   Brora Rangers (Scotland)
+  id:6763   Cove Rangers (Scotland)
+  id:6779   Rangers U21 (Scotland)
+  id:7526   Southampton Rangers (Bermuda)
+  id:7670   Soham Town Rangers (England)
+  id:7748   Stafford Rangers (England)
+  id:7925   Rangers U19 (Scotland)
+  id:8658   Concord Rangers (England)
+  id:8675   Abbey Rangers (England)
+  id:8763   Deeping Rangers (England)
+  id:8803   Hall Road Rangers (England)
+  id:8968   Thame Rangers (England)
+!! Hearts: Ambiguous team name "Hearts".
+
+!! Rangers: Ambiguous team name "Rangers".
+
+(2 API-Football requests used)
+
+----------------------------------------------------------------------
+MATCHBOOK: skipped (switched off for this run)
