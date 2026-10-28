@@ -1,0 +1,109 @@
+MATCH Sagan Tosu v Kawasaki Frontale | fetched 2026-10-28 08:12 local
+
+FORM DATA Sagan Tosu v Kawasaki Frontale | source API-Football | 2026-10-28 08:13 UTC
+H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
+
+=== Sagan Tosu (id 295): last 20 finished games ===
+2026-10-25 H 2-0 v Vanraure Hachinohe | J2 League | Tosu
+2026-10-21 A 1-2 v Albirex Niigata | J2 League | Niigata
+2026-10-17 H 2-1 v Omiya Ardija | J2 League | Tosu
+2026-10-14 H 2-1 v Avispa Fukuoka | J-League Cup | Tosu
+2026-10-10 H 1-0 v Fujieda MYFC | J2 League | Tosu
+2026-10-04 A 0-1 v Blaublitz Akita | J2 League | Akita
+2026-09-29 H 1-1 v Tokyo Verdy | J-League Cup | Tosu [AET, 90-min score shown]
+2026-09-26 A 0-2 v Montedio Yamagata | J2 League | Tendo
+2026-09-23 A 0-1 v Vissel Kobe | Emperor Cup | Kobe
+2026-09-19 H 1-3 v Iwaki | J2 League | Tosu
+2026-09-12 A 0-1 v Imabari | J2 League | Imabari
+2026-09-05 H 2-0 v Tegevajaro Miyazaki | J2 League | Tosu
+2026-09-02 A 2-1 v Nara Club | J-League Cup | Nara
+2026-08-29 A 2-2 v Yokohama FC | J2 League | Yokohama
+2026-08-26 H 4-0 v Kataller Toyama | Emperor Cup | Tosu
+2026-08-22 H 1-3 v Tochigi City | J2 League | Tosu
+2026-08-16 A 0-0 v Tokushima Vortis | J2 League | Naruto
+2026-08-08 H 2-0 v Ventforet Kofu | J2 League | Tosu
+2026-07-20 H 7-1 v Verspah Oita | Friendlies Clubs | ?
+2026-06-06 H 1-0 v Shonan Bellmare | J2/J3 League | Tosu
+Listed home: 12 games, scored 26 (2.17), conceded 10 (0.83), blanks 0, clean sheets 6
+Listed away: 8 games, scored 5 (0.62), conceded 10 (1.25), blanks 5, clean sheets 1
+All: 20 games, scored 31 (1.55), conceded 20 (1.00), blanks 5, clean sheets 7
+
+=== Kawasaki Frontale (id 294): last 20 finished games ===
+2026-10-25 H 2-1 v Fagiano Okayama | J1 League | Kawasaki | xG 0.65-1.06
+2026-10-21 H 2-1 v Vissel Kobe | J1 League | Kawasaki | xG 2.09-1.38
+2026-10-17 A 4-2 v Cerezo Osaka | J1 League | Osaka | xG 1.06-1.53
+2026-10-14 A 4-0 v Jubilo Iwata | J-League Cup | Iwata
+2026-10-11 H 1-2 v Nagoya Grampus | J1 League | Kawasaki | xG 1.33-1.12
+2026-10-07 H 2-0 v Tegevajaro Miyazaki | Emperor Cup | Kawasaki
+2026-09-29 A 1-0 v Roasso Kumamoto | J-League Cup | Kumamoto
+2026-09-19 H 3-3 v Kashima | J1 League | Kawasaki | xG 2.78-1.78
+2026-09-12 A 1-0 v Mito Hollyhock | J1 League | Ibaraki | xG 2.98-0.39
+2026-09-06 H 3-1 v Shimizu S-pulse | J1 League | Tokyo | xG 4.48-1.81
+2026-09-02 A 1-2 v Machida Zelvia | J1 League | Tokyo
+2026-08-29 H 4-2 v JEF United Chiba | J1 League | Kawasaki
+2026-08-26 H 3-1 v Tochigi SC | Emperor Cup | Kawasaki
+2026-08-22 A 1-1 v Sanfrecce Hiroshima | J1 League | Hiroshima
+2026-08-15 H 2-2 v Kyoto Sanga | J1 League | Kawasaki
+2026-08-09 A 1-1 v Tokyo Verdy | J1 League | Tokyo
+2026-07-16 H 0-0 v Vanraure Hachinohe | Friendlies Clubs | ?
+2026-06-06 H 0-1 v Sanfrecce Hiroshima | J1 League | Kawasaki
+2026-05-30 A 1-2 v Sanfrecce Hiroshima | J1 League | Hiroshima
+2026-05-24 A 3-1 v Mito Hollyhock | J1 League | Mito
+Listed home: 11 games, scored 22 (2.00), conceded 14 (1.27), blanks 2, clean sheets 2
+Listed away: 9 games, scored 17 (1.89), conceded 9 (1.00), blanks 0, clean sheets 3
+All: 20 games, scored 39 (1.95), conceded 23 (1.15), blanks 2, clean sheets 5
+
+TABLE FOR Sagan Tosu
+LEAGUE TABLE J2 League 2026 | 20 teams | 130 games played
+League averages per game: home 1.42, away 1.14, total 2.56
+#   team                   Pts | home P GF-GA  | away P GF-GA  | all P GF-GA
+1   Vegalta Sendai          27 |  6  10-5       |  7  12-6       | 13  22-11
+2   Albirex Niigata         26 |  7  12-5       |  6   7-16      | 13  19-21
+3   Kataller Toyama         22 |  7  11-9       |  6  12-3       | 13  23-12
+4   Yokohama FC             22 |  5  13-6       |  8  12-10      | 13  25-16
+5   Shonan Bellmare         22 |  6   7-7       |  7   8-5       | 13  15-12
+6   Omiya Ardija            21 |  7  13-9       |  6  10-7       | 13  23-16
+7   Tegevajaro Miyazaki     20 |  7  10-8       |  6   9-8       | 13  19-16
+8   Oita Trinita            19 |  7  14-7       |  6   3-3       | 13  17-10
+9   Iwaki                   17 |  7  13-7       |  6   7-12      | 13  20-19
+10  Sagan Tosu              17 |  7  11-7       |  6   3-8       | 13  14-15
+11  Tokushima Vortis        17 |  6   6-3       |  7   5-10      | 13  11-13
+12  Consadole Sapporo       17 |  6   8-10      |  7   8-9       | 13  16-19
+13  Blaublitz Akita         16 |  7  11-7       |  6   3-7       | 13  14-14
+14  Jubilo Iwata            16 |  6   5-5       |  7   9-10      | 13  14-15
+15  Fujieda MYFC            15 |  7   7-4       |  6   8-10      | 13  15-14
+16  Vanraure Hachinohe      14 |  6   3-8       |  7   7-14      | 13  10-22
+17  Montedio Yamagata       13 |  8   7-9       |  5   4-4       | 13  11-13
+18  Tochigi City            12 |  6  11-11      |  7   9-11      | 13  20-22
+19  Imabari                 11 |  5   7-11      |  8   8-15      | 13  15-26
+20  Ventforet Kofu          11 |  7   6-10      |  6   4-17      | 13  10-27
+
+TABLE FOR Kawasaki Frontale
+LEAGUE TABLE J1 League 2027 | 20 teams | 120 games played
+League averages per game: home 1.62, away 1.36, total 2.98
+#   team                   Pts | home P GF-GA  | away P GF-GA  | all P GF-GA
+1   Machida Zelvia          27 |  5  11-7       |  7  19-3       | 12  30-10
+2   FC Tokyo                27 |  7  15-5       |  5  12-3       | 12  27-8
+3   Sanfrecce Hiroshima     26 |  6  20-2       |  6   9-8       | 12  29-10
+4   Kashiwa Reysol          25 |  5  11-10      |  7  14-9       | 12  25-19
+5   Vissel Kobe             23 |  5   8-4       |  7  10-7       | 12  18-11
+6   Kawasaki Frontale       22 |  7  17-12      |  5   8-6       | 12  25-18
+7   Urawa                   21 |  6  12-11      |  6   9-12      | 12  21-23
+8   Kashima                 20 |  6  11-7       |  6  14-14      | 12  25-21
+9   Yokohama F. Marinos     18 |  5   9-7       |  7   7-5       | 12  16-12
+10  Fagiano Okayama         16 |  6   7-7       |  6   8-10      | 12  15-17
+11  Nagoya Grampus          14 |  6   8-8       |  6   6-10      | 12  14-18
+12  Cerezo Osaka            14 |  7   9-7       |  5   3-12      | 12  12-19
+13  Shimizu S-pulse         14 |  7   6-11      |  5   4-9       | 12  10-20
+14  V-varen Nagasaki        12 |  6  11-7       |  6   4-12      | 12  15-19
+15  Gamba Osaka             11 |  5   6-8       |  7   8-13      | 12  14-21
+16  Kyoto Sanga             10 |  5   7-10      |  7   8-13      | 12  15-23
+17  Mito Hollyhock           9 |  6   7-8       |  6   5-14      | 12  12-22
+18  Tokyo Verdy              8 |  8   6-16      |  4   3-5       | 12   9-21
+19  Avispa Fukuoka           7 |  7   9-9       |  5   4-12      | 12  13-21
+20  JEF United Chiba         7 |  5   4-7       |  7   8-17      | 12  12-24
+
+(25 API-Football requests used)
+
+----------------------------------------------------------------------
+MATCHBOOK: skipped (switched off for this run)

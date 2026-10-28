@@ -1,12 +1,6 @@
-RUN 2026-10-28 06:46 local | 9 match(es)
-Fethiyespor v id:3588 -> out/Fethiyespor_v_id_3588.txt
-Dynamo Dresden v id:174 -> out/Dynamo_Dresden_v_id_174.txt
-id:185 v id:172 -> out/id_185_v_id_172.txt
-id:157 v id:179 -> out/id_157_v_id_179.txt
-CFR 1907 Cluj v Universitatea Cluj -> out/CFR_1907_Cluj_v_Universitatea_Cluj.txt
-Celtic v Dundee Utd -> out/Celtic_v_Dundee_Utd.txt
-Heart Of Midlothian v id:257 -> out/Heart_Of_Midlothian_v_id_257.txt
-id:212 v Academico Viseu -> out/id_212_v_Academico_Viseu.txt
-Salamanca CF UDS v Celta Vigo -> out/Salamanca_CF_UDS_v_Celta_Vigo.txt
-    !! Salamanca CF UDS: No team found for "Salamanca CF UDS".
-Requests used: API-Football 213, Matchbook 0
+RUN 2026-10-28 08:12 local | 3 match(es)
+Mito Hollyhock v Cerezo Osaka -> out/Mito_Hollyhock_v_Cerezo_Osaka.txt
+Sagan Tosu v Kawasaki Frontale -> out/Sagan_Tosu_v_Kawasaki_Frontale.txt
+Yokohama F. Marinos v Sanfrecce Hiroshima -> out/Yokohama_F_Marinos_v_Sanfrecce_Hiroshima.txt
+    !! Yokohama F. Marinos: API-Football error: {"search": "The Search field may only contain alpha-numeric characters and spaces."}
+Requests used: API-Football 63, Matchbook 0

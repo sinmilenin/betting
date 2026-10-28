@@ -1,0 +1,61 @@
+MATCH Yokohama F. Marinos v Sanfrecce Hiroshima | fetched 2026-10-28 08:12 local
+
+FORM DATA Yokohama F. Marinos v Sanfrecce Hiroshima | source API-Football | 2026-10-28 08:13 UTC
+H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
+
+=== Sanfrecce Hiroshima (id 282): last 20 finished games ===
+2026-10-24 H 4-0 v Shimizu S-pulse | J1 League | Hiroshima
+2026-10-21 A 0-4 v V-varen Nagasaki | J1 League | Nagasaki | xG 0.96-1.24
+2026-10-17 H 3-0 v Kyoto Sanga | J1 League | Hiroshima | xG 2.33-0.89
+2026-10-14 A 1-0 v Matsumoto Yamaga | J-League Cup | Matsumoto
+2026-10-11 A 2-0 v Tokyo Verdy | J1 League | Chofu | xG 1.39-0.49
+2026-10-07 H 4-0 v Iwaki | Emperor Cup | Hiroshima
+2026-09-29 A 2-0 v Tochigi City | J-League Cup | Tochigi
+2026-09-19 A 1-0 v Avispa Fukuoka | J1 League | Fukuoka | xG 4.99-0.45
+2026-09-12 H 6-1 v Cerezo Osaka | J1 League | Hiroshima | xG 4.28-0.74
+2026-09-06 A 2-3 v Fagiano Okayama | J1 League | Okayama | xG 2.73-1.58
+2026-09-02 H 3-0 v Nagoya Grampus | J1 League | Hiroshima
+2026-08-29 A 0-0 v Gamba Osaka | J1 League | Suita
+2026-08-26 H 4-1 v Okinawa SV | Emperor Cup | Hiroshima
+2026-08-22 H 1-1 v Kawasaki Frontale | J1 League | Hiroshima
+2026-08-15 A 4-1 v Urawa | J1 League | Saitama
+2026-08-08 H 3-0 v JEF United Chiba | J1 League | Hiroshima
+2026-07-28 H 4-0 v Verspah Oita | Friendlies Clubs | ?
+2026-07-14 A 3-1 v NK Slaven Belupo | Friendlies Clubs | ?
+2026-07-11 A 1-5 v Sturm Graz | Friendlies Clubs | ?
+2026-06-06 A 1-0 v Kawasaki Frontale | J1 League | Kawasaki
+Listed home: 9 games, scored 32 (3.56), conceded 3 (0.33), blanks 0, clean sheets 6
+Listed away: 11 games, scored 17 (1.55), conceded 14 (1.27), blanks 2, clean sheets 6
+All: 20 games, scored 49 (2.45), conceded 17 (0.85), blanks 2, clean sheets 12
+
+!! Yokohama F. Marinos: API-Football error: {"search": "The Search field may only contain alpha-numeric characters and spaces."}
+
+TABLE FOR Sanfrecce Hiroshima
+LEAGUE TABLE J1 League 2027 | 20 teams | 120 games played
+League averages per game: home 1.62, away 1.36, total 2.98
+#   team                   Pts | home P GF-GA  | away P GF-GA  | all P GF-GA
+1   Machida Zelvia          27 |  5  11-7       |  7  19-3       | 12  30-10
+2   FC Tokyo                27 |  7  15-5       |  5  12-3       | 12  27-8
+3   Sanfrecce Hiroshima     26 |  6  20-2       |  6   9-8       | 12  29-10
+4   Kashiwa Reysol          25 |  5  11-10      |  7  14-9       | 12  25-19
+5   Vissel Kobe             23 |  5   8-4       |  7  10-7       | 12  18-11
+6   Kawasaki Frontale       22 |  7  17-12      |  5   8-6       | 12  25-18
+7   Urawa                   21 |  6  12-11      |  6   9-12      | 12  21-23
+8   Kashima                 20 |  6  11-7       |  6  14-14      | 12  25-21
+9   Yokohama F. Marinos     18 |  5   9-7       |  7   7-5       | 12  16-12
+10  Fagiano Okayama         16 |  6   7-7       |  6   8-10      | 12  15-17
+11  Nagoya Grampus          14 |  6   8-8       |  6   6-10      | 12  14-18
+12  Cerezo Osaka            14 |  7   9-7       |  5   3-12      | 12  12-19
+13  Shimizu S-pulse         14 |  7   6-11      |  5   4-9       | 12  10-20
+14  V-varen Nagasaki        12 |  6  11-7       |  6   4-12      | 12  15-19
+15  Gamba Osaka             11 |  5   6-8       |  7   8-13      | 12  14-21
+16  Kyoto Sanga             10 |  5   7-10      |  7   8-13      | 12  15-23
+17  Mito Hollyhock           9 |  6   7-8       |  6   5-14      | 12  12-22
+18  Tokyo Verdy              8 |  8   6-16      |  4   3-5       | 12   9-21
+19  Avispa Fukuoka           7 |  7   9-9       |  5   4-12      | 12  13-21
+20  JEF United Chiba         7 |  5   4-7       |  7   8-17      | 12  12-24
+
+(13 API-Football requests used)
+
+----------------------------------------------------------------------
+MATCHBOOK: skipped (switched off for this run)
