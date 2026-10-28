@@ -1,7 +1,4 @@
-RUN 2026-10-28 17:17 local | 5 match(es)
-Sparta Praha v id:3713 -> out/Sparta_Praha_v_id_3713.txt
-Bayer Leverkusen v id:171 -> out/Bayer_Leverkusen_v_id_171.txt
-Hannover 96 v id:745 -> out/Hannover_96_v_id_745.txt
-Holstein Kiel v id:167 -> out/Holstein_Kiel_v_id_167.txt
-Lyon W v id:7533 -> out/Lyon_W_v_id_7533.txt
-Requests used: API-Football 125, Matchbook 0
+RUN 2026-10-28 18:47 local | 1 match(es)
+MVV Maastricht v Excelsior -> out/MVV_Maastricht_v_Excelsior.txt
+    !! MVV Maastricht: No team found for "MVV Maastricht".
+Requests used: API-Football 14, Matchbook 0
