@@ -1,0 +1,82 @@
+MATCH Sparta Praha v id:3713 | fetched 2026-10-28 17:17 local
+
+FORM DATA Sparta Praha v id:3713 | source API-Football | 2026-10-28 17:17 UTC
+H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
+
+=== Sparta Praha (id 628): last 20 finished games ===
+2026-10-25 H 5-1 v Slovácko | Czech Liga | Prague | xG 1.91-1.15
+2026-10-22 A 0-1 v Olympiakos Piraeus | UEFA Europa League | Piraeus | xG 0.73-2.17
+2026-10-18 A 0-0 v Baník Ostrava | Czech Liga | Ostrava | xG 1.64-0.99
+2026-10-15 H 1-1 v Lillestrom | UEFA Europa League | Prague | xG 1.12-0.84
+2026-10-11 H 2-0 v Pardubice | Czech Liga | Prague | xG 2.36-1.06
+2026-10-02 H 5-3 v Vysočina Jihlava | Friendlies Clubs | Prague
+2026-09-20 A 3-0 v Sigma Olomouc | Czech Liga | Olomouc | xG 1.88-0.86
+2026-09-16 A 4-1 v Ararat-Armenia | UEFA Europa League | Yerevan
+2026-09-12 H 2-0 v FK Jablonec | Czech Liga | Prague | xG 1.32-0.79
+2026-09-09 A 5-0 v Viktoria Žižkov | Cup | Prague
+2026-09-06 A 1-2 v Hradec Králové | Czech Liga | Hradec Kralove
+2026-08-30 H 0-3 v Slavia Praha | Czech Liga | Prague
+2026-08-22 A 4-0 v Artis | Czech Liga | Brno
+2026-08-15 H 4-1 v Teplice | Czech Liga | Prague
+2026-08-11 A 0-3 v Lyon | UEFA Champions League | Lyon
+2026-08-08 A 0-2 v Mlada Boleslav | Czech Liga | Mlada Boleslav
+2026-08-04 H 2-1 v Lyon | UEFA Champions League | Prague
+2026-07-31 H 3-1 v Zlin | Czech Liga | Prague
+2026-07-25 A 1-3 v Zbrojovka Brno | Czech Liga | Brno
+2026-07-17 A 1-5 v FC Nordsjaelland | Friendlies Clubs | ?
+Listed home: 9 games, scored 24 (2.67), conceded 11 (1.22), blanks 1, clean sheets 2
+Listed away: 11 games, scored 19 (1.73), conceded 17 (1.55), blanks 4, clean sheets 4
+All: 20 games, scored 43 (2.15), conceded 28 (1.40), blanks 5, clean sheets 6
+
+=== Baník Ostrava (id 3713): last 20 finished games ===
+2026-10-18 H 0-0 v Sparta Praha | Czech Liga | Ostrava | xG 0.99-1.64
+2026-10-10 A 0-1 v Bohemians 1905 | Czech Liga | Prague | xG 0.83-3.02
+2026-10-03 A 1-1 v GKS Katowice | Friendlies Clubs | ?
+2026-09-23 A 1-1 v Kladno | Cup | Kladno [AET, 90-min score shown]
+2026-09-19 A 2-2 v Slovácko | Czech Liga | Uherske Hradiste | xG 2.72-1.77
+2026-09-13 H 1-2 v Pardubice | Czech Liga | Ostrava | xG 1.21-2.33
+2026-09-09 A 0-3 v FK Jablonec | Czech Liga | Jablonec | xG 0.85-2.87
+2026-09-06 A 0-4 v Mlada Boleslav | Czech Liga | Mlada Boleslav | xG 2.44-3.10
+2026-08-29 H 1-0 v Sigma Olomouc | Czech Liga | Ostrava | xG 0.24-0.63
+2026-08-26 A 9-0 v Sparta Brno | Cup | ?
+2026-08-16 H 1-0 v Artis | Czech Liga | Ostrava
+2026-08-09 A 1-2 v Hradec Králové | Czech Liga | Hradec Kralove
+2026-08-01 H 0-4 v Slavia Praha | Czech Liga | Ostrava
+2026-07-25 A 1-0 v Zlin | Czech Liga | Zlin
+2026-07-18 A 2-3 v AS Trencin | Friendlies Clubs | ?
+2026-07-11 A 1-2 v Miedz Legnica | Friendlies Clubs | ?
+2026-07-11 A 2-2 v Wisla Plock | Friendlies Clubs | ?
+2026-07-08 A 2-0 v Zaglebie Lubin | Friendlies Clubs | ?
+2026-07-04 A 0-1 v Piast Gliwice | Friendlies Clubs | ?
+2026-07-01 H 3-1 v Hanácká | Friendlies Clubs | ?
+Listed home: 6 games, scored 6 (1.00), conceded 7 (1.17), blanks 2, clean sheets 3
+Listed away: 14 games, scored 22 (1.57), conceded 22 (1.57), blanks 4, clean sheets 3
+All: 20 games, scored 28 (1.40), conceded 29 (1.45), blanks 6, clean sheets 6
+
+TABLE FOR Sparta Praha
+LEAGUE TABLE Czech Liga 2026 | 16 teams | 94 games played
+League averages per game: home 1.46, away 1.23, total 2.69
+#   team                   Pts | home P GF-GA  | away P GF-GA  | all P GF-GA
+1   Slavia Praha            28 |  7  16-6       |  5  11-1       | 12  27-7
+2   Sparta Praha            22 |  6  16-6       |  6   9-7       | 12  25-13
+3   Mlada Boleslav          21 |  5  11-1       |  7   8-13      | 12  19-14
+4   Sigma Olomouc           21 |  5   9-6       |  7  10-9       | 12  19-15
+5   Slovan Liberec          20 |  5   6-4       |  6   7-3       | 11  13-7
+6   FK Jablonec             20 |  6  10-7       |  6   6-6       | 12  16-13
+7   Zbrojovka Brno          20 |  7  11-8       |  5   5-8       | 12  16-16
+8   Teplice                 18 |  7  11-11      |  5   7-6       | 12  18-17
+9   Plzen                   16 |  7  12-12      |  5  12-9       | 12  24-21
+10  Bohemians 1905          16 |  5   5-1       |  6   8-12      | 11  13-13
+11  Hradec Králové          15 |  7   9-11      |  5   2-4       | 12  11-15
+12  Pardubice               14 |  5   7-6       |  7   7-11      | 12  14-17
+13  Baník Ostrava           11 |  5   3-6       |  6   4-12      | 11   7-18
+14  Artis                    9 |  5   3-13      |  6   8-7       | 11  11-20
+15  Slovácko                 7 |  5   5-7       |  7   6-16      | 12  11-23
+16  Zlin                     2 |  7   3-11      |  5   6-13      | 12   9-24
+
+(Baník Ostrava: same table as Sparta Praha, shown above)
+
+(25 API-Football requests used)
+
+----------------------------------------------------------------------
+MATCHBOOK: skipped (switched off for this run)

@@ -1,22 +1,7 @@
-RUN 2026-10-28 17:15 local | 14 match(es)
-Sparta Prague v Banik Ostrava -> out/Sparta_Prague_v_Banik_Ostrava.txt
-    !! Sparta Prague: No team found for "Sparta Prague".
-    !! Banik Ostrava: Ambiguous team name "Banik Ostrava".
-Sparta Rotterdam v Fortuna Sittard -> out/Sparta_Rotterdam_v_Fortuna_Sittard.txt
-St Johnstone v Motherwell -> out/St_Johnstone_v_Motherwell.txt
-Bayer Leverkusen v Nurnberg -> out/Bayer_Leverkusen_v_Nurnberg.txt
-    !! Nurnberg: Ambiguous team name "Nurnberg".
-Aberdeen v Falkirk -> out/Aberdeen_v_Falkirk.txt
-Sunderland v Brentford -> out/Sunderland_v_Brentford.txt
-Dundee v Kilmarnock -> out/Dundee_v_Kilmarnock.txt
-Hannover 96 v Kaiserslautern -> out/Hannover_96_v_Kaiserslautern.txt
-    !! Kaiserslautern: Ambiguous team name "Kaiserslautern".
-Holstein Kiel v Hoffenheim -> out/Holstein_Kiel_v_Hoffenheim.txt
-    !! Hoffenheim: Ambiguous team name "Hoffenheim".
-Forest Green v Eastleigh -> out/Forest_Green_v_Eastleigh.txt
-St Mirren v Hibernian -> out/St_Mirren_v_Hibernian.txt
-Carlisle v Harrogate Town -> out/Carlisle_v_Harrogate_Town.txt
-Arsenal W v Benfica W -> out/Arsenal_W_v_Benfica_W.txt
-Lyon W v Inter W -> out/Lyon_W_v_Inter_W.txt
-    !! Inter W: Ambiguous team name "Inter W".
-Requests used: API-Football 285, Matchbook 0
+RUN 2026-10-28 17:17 local | 5 match(es)
+Sparta Praha v id:3713 -> out/Sparta_Praha_v_id_3713.txt
+Bayer Leverkusen v id:171 -> out/Bayer_Leverkusen_v_id_171.txt
+Hannover 96 v id:745 -> out/Hannover_96_v_id_745.txt
+Holstein Kiel v id:167 -> out/Holstein_Kiel_v_id_167.txt
+Lyon W v id:7533 -> out/Lyon_W_v_id_7533.txt
+Requests used: API-Football 125, Matchbook 0

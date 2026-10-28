@@ -1,6 +1,6 @@
-MATCH Hannover 96 v Kaiserslautern | fetched 2026-10-28 17:15 local
+MATCH Hannover 96 v id:745 | fetched 2026-10-28 17:17 local
 
-FORM DATA Hannover 96 v Kaiserslautern | source API-Football | 2026-10-28 17:16 UTC
+FORM DATA Hannover 96 v id:745 | source API-Football | 2026-10-28 17:17 UTC
 H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
 
 === Hannover 96 (id 166): last 20 finished games ===
@@ -28,16 +28,30 @@ Listed home: 10 games, scored 20 (2.00), conceded 13 (1.30), blanks 1, clean she
 Listed away: 10 games, scored 25 (2.50), conceded 13 (1.30), blanks 2, clean sheets 3
 All: 20 games, scored 45 (2.25), conceded 26 (1.30), blanks 3, clean sheets 5
 
-"Kaiserslautern" matches several teams. Use id:<number> instead of the name:
-  id:745    1. FC Kaiserslautern (Germany)
-  id:10262  Kaiserslautern U19 (Germany)
-  id:12800  Kaiserslautern II (Germany)
-(retrying Kaiserslautern using the opponent's country, Germany)
-"Kaiserslautern" matches several teams. Use id:<number> instead of the name:
-  id:745    1. FC Kaiserslautern (Germany)
-  id:10262  Kaiserslautern U19 (Germany)
-  id:12800  Kaiserslautern II (Germany)
-!! Kaiserslautern: Ambiguous team name "Kaiserslautern".
+=== 1. FC Kaiserslautern (id 745): last 20 finished games ===
+2026-10-24 A 1-0 v 1. FC Nürnberg | 2. Bundesliga | Nuremberg | xG 0.82-2.10
+2026-10-17 H 2-0 v VfL Bochum | 2. Bundesliga | Kaiserslautern | xG 2.34-0.59
+2026-10-09 A 0-0 v 1. FC Heidenheim | 2. Bundesliga | Heidenheim | xG 1.32-0.78
+2026-10-02 H 1-1 v SG Sonnenhof Grossaspach | Friendlies Clubs | ?
+2026-09-19 H 1-0 v Eintracht Braunschweig | 2. Bundesliga | Kaiserslautern | xG 1.88-1.17
+2026-09-12 A 0-3 v 1. FC Magdeburg | 2. Bundesliga | Magdeburg | xG 1.08-1.12
+2026-09-05 H 3-0 v SV Darmstadt 98 | 2. Bundesliga | Kaiserslautern | xG 2.63-1.04
+2026-08-30 A 2-1 v FC St. Pauli | 2. Bundesliga | Hamburg | xG 0.71-1.34
+2026-08-21 A 0-0 v Waldhof Mannheim | DFB Pokal | Mannheim [AET, 90-min score shown]
+2026-08-15 H 0-0 v Karlsruher SC | 2. Bundesliga | Kaiserslautern | xG 1.05-0.75
+2026-08-08 A 0-0 v VfL Wolfsburg | 2. Bundesliga | Wolfsburg
+2026-08-01 A 3-1 v Metz | Friendlies Clubs | ?
+2026-07-25 A 0-0 v Sudtirol | Friendlies Clubs | ?
+2026-07-17 A 1-4 v FSV Mainz 05 | Friendlies Clubs | ?
+2026-07-10 A 5-3 v SV Sandhausen | Friendlies Clubs | ?
+2026-05-17 A 1-0 v 1. FC Magdeburg | 2. Bundesliga | Magdeburg
+2026-05-08 H 2-0 v Arminia Bielefeld | 2. Bundesliga | Kaiserslautern
+2026-05-02 A 0-1 v Dynamo Dresden | 2. Bundesliga | Dresden
+2026-04-24 H 0-2 v Eintracht Braunschweig | 2. Bundesliga | Kaiserslautern
+2026-04-17 A 0-3 v Holstein Kiel | 2. Bundesliga | Kiel
+Listed home: 7 games, scored 9 (1.29), conceded 3 (0.43), blanks 2, clean sheets 5
+Listed away: 13 games, scored 13 (1.00), conceded 16 (1.23), blanks 7, clean sheets 6
+All: 20 games, scored 22 (1.10), conceded 19 (0.95), blanks 9, clean sheets 11
 
 TABLE FOR Hannover 96
 LEAGUE TABLE 2. Bundesliga 2026 | 18 teams | 81 games played
@@ -62,7 +76,9 @@ League averages per game: home 1.78, away 1.25, total 3.02
 17  Karlsruher SC            8 |  5   8-10      |  4   3-10      |  9  11-20
 18  SV Darmstadt 98          8 |  5   7-5       |  4   1-13      |  9   8-18
 
-(15 API-Football requests used)
+(1. FC Kaiserslautern: same table as Hannover 96, shown above)
+
+(24 API-Football requests used)
 
 ----------------------------------------------------------------------
 MATCHBOOK: skipped (switched off for this run)
