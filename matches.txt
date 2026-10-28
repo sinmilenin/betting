@@ -1,5 +1,14 @@
-# Scan 28.10.2026 15:56 retry ids
-id:1483 v id:1017 | n=20 | xg=10
-Servette Chenois W v OH Leuven W | n=20 | xg=10
-Dynamo Dresden v id:174 | n=20 | xg=10
-id:185 v id:172 | n=20 | xg=10
+# Scan 28.10.2026 16:42
+ADT v Cesar Vallejo | n=20 | xg=10
+Radnicki Nis v Partizan | n=20 | xg=10
+Esbjerg v Nordsjaelland | n=20 | xg=10
+Puszcza Niepolomice v Wisla Plock | n=20 | xg=10
+HJK U19 v Zilina U19 | n=20 | xg=10
+Chelsea W v Roma W | n=20 | xg=10
+Brommapojkarna v Hacken | n=20 | xg=10
+IFK Goteborg v Djurgardens | n=20 | xg=10
+Pisa v Palermo | n=20 | xg=10
+Halmstad v Malmo FF | n=20 | xg=10
+Degerfors v Vasteras SK | n=20 | xg=10
+FC Cajamarca v UTC Cajamarca | n=20 | xg=10
+PAOK v AEK Athens | n=20 | xg=10
