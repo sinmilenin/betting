@@ -44,39 +44,6 @@
     "created": "2026-10-28T06:50:36Z"
   },
   {
-    "id": "2026-10-28_nestos-chrysoupoli-fc-kalamata_0-1",
-    "date": "2026-10-28",
-    "ko": "14:00",
-    "match": "Nestos Chrysoupoli FC v Kalamata",
-    "comp": "Greece, Greek Cup",
-    "cell": "0-1",
-    "lay": 7.8,
-    "stake": 3,
-    "created": "2026-10-28T11:31:24+01:00"
-  },
-  {
-    "id": "2026-10-28_nestos-chrysoupoli-fc-kalamata_1-2",
-    "date": "2026-10-28",
-    "ko": "14:00",
-    "match": "Nestos Chrysoupoli FC v Kalamata",
-    "comp": "Greece, Greek Cup",
-    "cell": "1-2",
-    "lay": 10.0,
-    "stake": 3,
-    "created": "2026-10-28T12:20:14+01:00"
-  },
-  {
-    "id": "2026-10-28_marko-olympiakos_0-3",
-    "date": "2026-10-28",
-    "ko": "14:00",
-    "match": "Marko v Olympiakos",
-    "comp": "Greece, Greek Cup",
-    "cell": "0-3",
-    "lay": 8.2,
-    "stake": 3,
-    "created": "2026-10-28T13:03:25+01:00"
-  },
-  {
     "id": "2026-10-28_panathinaikos-aris_1-0",
     "date": "2026-10-28",
     "ko": "16:30",
@@ -416,5 +383,38 @@
     "lay": 17,
     "stake": 3,
     "created": "2026-10-28T18:03:24+00:00"
+  },
+  {
+    "id": "2026-10-28_carlisle-harrogate-town_2-1",
+    "date": "2026-10-28",
+    "ko": "20:45",
+    "match": "Carlisle v Harrogate Town",
+    "comp": "United Kingdom, English National League",
+    "cell": "2-1",
+    "lay": 10.5,
+    "stake": 3,
+    "created": "2026-10-28T19:35:53+00:00"
+  },
+  {
+    "id": "2026-10-28_carlisle-harrogate-town_2-2",
+    "date": "2026-10-28",
+    "ko": "20:45",
+    "match": "Carlisle v Harrogate Town",
+    "comp": "United Kingdom, English National League",
+    "cell": "2-2",
+    "lay": 15,
+    "stake": 3,
+    "created": "2026-10-28T19:35:53+00:00"
+  },
+  {
+    "id": "2026-10-28_hearts-rangers_1-2",
+    "date": "2026-10-28",
+    "ko": "21:00",
+    "match": "Hearts v Rangers",
+    "comp": "United Kingdom, Scottish Premiership",
+    "cell": "1-2",
+    "lay": 9.8,
+    "stake": 3,
+    "created": "2026-10-28T19:35:53+00:00"
   }
 ]
