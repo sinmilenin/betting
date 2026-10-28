@@ -1,0 +1,18 @@
+MATCH Al Jazira v Al-Muharraq | fetched 2026-10-28 13:44 local
+
+FORM DATA Al Jazira v Al-Muharraq | source API-Football | 2026-10-28 13:44 UTC
+H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
+
+"Al Jazira" matches several teams. Use id:<number> instead of the name:
+  id:9110   Al Jazira (Syria)
+  id:13265  Al Jazira Al Hamra (United-Arab-Emirates)
+  id:26631  Al Jazira (Kuwait)
+  id:27488  Al Jazira U23 (United-Arab-Emirates)
+!! Al Jazira: Ambiguous team name "Al Jazira".
+
+!! Al-Muharraq: API-Football error: {"search": "The Search field may only contain alpha-numeric characters and spaces."}
+
+(2 API-Football requests used)
+
+----------------------------------------------------------------------
+MATCHBOOK: skipped (switched off for this run)

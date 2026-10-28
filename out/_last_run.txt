@@ -1,3 +1,6 @@
-RUN 2026-10-28 13:04 local | 1 match(es)
-Panathinaikos v Aris Thessalonikis -> out/Panathinaikos_v_Aris_Thessalonikis.txt
-Requests used: API-Football 25, Matchbook 0
+RUN 2026-10-28 13:44 local | 2 match(es)
+Al Jazira v Al-Muharraq -> out/Al_Jazira_v_Al_Muharraq.txt
+    !! Al Jazira: Ambiguous team name "Al Jazira".
+    !! Al-Muharraq: API-Football error: {"search": "The Search field may only contain alpha-numeric characters and spaces."}
+AC Oulu v VPS -> out/AC_Oulu_v_VPS.txt
+Requests used: API-Football 27, Matchbook 0
