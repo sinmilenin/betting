@@ -1,2 +1,4 @@
-# Scan 28.10.2026 12:58 retry Olympiakos Piraeus (id)
-Marko v id:553 | n=20 | xg=10
+# Scan 28.10.2026 13:58 (top-20 run 13:40)
+Mlada Boleslav v Bohemians 1905 | n=20 | xg=10
+Panathinaikos v Aris | n=20 | xg=10
+Salamanca CF UDS v Celta Vigo | n=20 | xg=10
