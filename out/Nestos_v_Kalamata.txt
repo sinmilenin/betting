@@ -1,7 +1,32 @@
-MATCH Nestos Chrysoupolis v Kalamata | fetched 2026-10-28 10:28 local
+MATCH Nestos v Kalamata | fetched 2026-10-28 10:28 local
 
-FORM DATA Nestos Chrysoupolis v Kalamata | source API-Football | 2026-10-28 10:28 UTC
+FORM DATA Nestos v Kalamata | source API-Football | 2026-10-28 10:28 UTC
 H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
+
+=== Nestos Chrisoupolis (id 12367): last 20 finished games ===
+2026-10-24 A 2-1 v Olympiakos Piraeus II | Super League 2 | ?
+2026-10-18 H 0-0 v Kallithea | Super League 2 | ?
+2026-10-10 A 1-2 v Panserraikos | Super League 2 | Serres
+2026-10-05 H 1-2 v Marko | Super League 2 | ?
+2026-09-27 A 0-2 v Niki Volos | Super League 2 | ?
+2026-09-21 A 1-2 v PAOK II | Super League 2 | ?
+2026-09-13 H 1-0 v Pyrgos 1968 | Super League 2 | ?
+2026-09-09 A 0-3 v OFI | Cup | Heraklion
+2026-09-06 H 1-1 v Zakynthos | Super League 2 | ?
+2026-09-02 H 0-2 v AEK Athens FC | Cup | ?
+2026-08-19 H 1-0 v Apollon Pontou | Cup | ?
+2026-04-26 A 2-2 v Kavala | Super League 2 | ?
+2026-04-22 H 1-0 v PAS Giannina | Super League 2 | ?
+2026-04-18 A 1-1 v PAOK II | Super League 2 | ?
+2026-04-08 A 2-0 v Makedonikos Neapolis | Super League 2 | ?
+2026-04-05 H 3-0 v Kampaniakos Chalastra | Super League 2 | ?
+2026-03-14 H 2-1 v Kavala | Super League 2 | ?
+2026-03-08 A 0-0 v PAS Giannina | Super League 2 | ?
+2026-02-28 H 1-0 v PAOK II | Super League 2 | ?
+2026-02-22 H 5-1 v Makedonikos Neapolis | Super League 2 | ?
+Listed home: 11 games, scored 16 (1.45), conceded 7 (0.64), blanks 2, clean sheets 6
+Listed away: 9 games, scored 9 (1.00), conceded 13 (1.44), blanks 3, clean sheets 2
+All: 20 games, scored 25 (1.25), conceded 20 (1.00), blanks 5, clean sheets 8
 
 === Kalamata (id 5046): last 20 finished games ===
 2026-10-25 A 0-5 v Olympiakos Piraeus | Super League 1 | Piraeus | xG 0.00-0.00
@@ -28,7 +53,26 @@ Listed home: 10 games, scored 18 (1.80), conceded 13 (1.30), blanks 2, clean she
 Listed away: 10 games, scored 14 (1.40), conceded 12 (1.20), blanks 3, clean sheets 4
 All: 20 games, scored 32 (1.60), conceded 25 (1.25), blanks 5, clean sheets 7
 
-!! Nestos Chrysoupolis: No team found for "Nestos Chrysoupolis".
+TABLE FOR Nestos Chrisoupolis
+LEAGUE TABLE Super League 2 2026 | 16 teams | 64 games played
+League averages per game: home 1.27, away 0.89, total 2.16
+#   team                   Pts | home P GF-GA  | away P GF-GA  | all P GF-GA
+1   Marko                   22 |  5   6-2       |  3  10-3       |  8  16-5
+2   Kallithea               17 |  5   8-3       |  3   2-2       |  8  10-5
+3   Panserraikos            14 |  4  10-4       |  4   2-4       |  8  12-8
+4   Panionios               14 |  5   7-4       |  3   1-3       |  8   8-7
+5   Larisa                  13 |  4   3-1       |  4   7-4       |  8  10-5
+6   Niki Volos              11 |  4   6-5       |  4   4-3       |  8  10-8
+7   Anagennisi Karditsas    11 |  3   4-0       |  5   2-7       |  8   6-7
+8   Ellas Syros             10 |  4   5-3       |  4   6-4       |  8  11-7
+9   Panthrakikos            10 |  6   8-5       |  2   1-3       |  8   9-8
+10  Asteras Tripolis II      9 |  3   4-1       |  5   3-8       |  8   7-9
+11  Nestos Chrisoupolis      8 |  4   3-3       |  4   4-7       |  8   7-10
+12  Apollon Pontou           8 |  3   2-2       |  5   4-7       |  8   6-9
+13  Pyrgos 1968              8 |  3   2-5       |  5   3-4       |  8   5-9
+14  PAOK II                  8 |  4   5-3       |  4   0-7       |  8   5-10
+15  Olympiakos Piraeus II    6 |  4   4-8       |  4   6-8       |  8  10-16
+16  Zakynthos                3 |  3   4-8       |  5   2-7       |  8   6-15
 
 TABLE FOR Kalamata
 LEAGUE TABLE Super League 1 2026 | 14 teams | 55 games played
@@ -49,7 +93,7 @@ League averages per game: home 1.75, away 1.02, total 2.76
 13  Atromitos                2 |  3   3-5       |  4   3-7       |  7   6-12
 14  Volos NFC                0 |  4   3-5       |  4   3-8       |  8   6-13
 
-(14 API-Football requests used)
+(26 API-Football requests used)
 
 ----------------------------------------------------------------------
 MATCHBOOK: skipped (switched off for this run)

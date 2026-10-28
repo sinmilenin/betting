@@ -1,5 +1,3 @@
-RUN 2026-10-28 10:28 local | 2 match(es)
-Nestos Chrysoupolis v Kalamata -> out/Nestos_Chrysoupolis_v_Kalamata.txt
-    !! Nestos Chrysoupolis: No team found for "Nestos Chrysoupolis".
-Akademija Pandev U19 v Hoffenheim U19 -> out/Akademija_Pandev_U19_v_Hoffenheim_U19.txt
-Requests used: API-Football 36, Matchbook 0
+RUN 2026-10-28 10:28 local | 1 match(es)
+Nestos v Kalamata -> out/Nestos_v_Kalamata.txt
+Requests used: API-Football 26, Matchbook 0
