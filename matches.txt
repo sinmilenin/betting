@@ -1,21 +1,10 @@
-# Scan 28.10.2026 07:42 top-20 run
-Kashima v Pohang Steelers | n=20 | xg=10
-Viettel v FC Seoul | n=20 | xg=10
-Fethiyespor v Eyupspor | n=20 | xg=10
-Dynamo Dresden v Schalke 04 | n=20 | xg=10
-Paderborn v Stuttgart | n=20 | xg=10
-AC Milan v Bologna | n=20 | xg=10
-Parma v Udinese | n=20 | xg=10
-Venezia v Inter | n=20 | xg=10
-Manchester City v Brighton | n=20 | xg=10
-CFR Cluj v Universitatea Cluj | n=20 | xg=10
-Bayern Munich v Magdeburg | n=20 | xg=10
-Bournemouth v Aston Villa | n=20 | xg=10
-Fulham v Crystal Palace | n=20 | xg=10
-Celtic v Dundee United | n=20 | xg=10
-Genoa v Juventus | n=20 | xg=10
-Monza v Napoli | n=20 | xg=10
-Salmantino v Celta Vigo | n=20 | xg=10
-Hearts v Rangers | n=20 | xg=10
-Liverpool v Chelsea | n=20 | xg=10
-Porto v Academico Viseu | n=20 | xg=10
+# Scan 28.10.2026 07:42 top-20 run, retry with ids / corrected names
+Fethiyespor v id:3588 | n=20 | xg=10
+Dynamo Dresden v id:174 | n=20 | xg=10
+id:185 v id:172 | n=20 | xg=10
+id:157 v id:179 | n=20 | xg=10
+CFR 1907 Cluj v Universitatea Cluj | n=20 | xg=10
+Celtic v Dundee Utd | n=20 | xg=10
+Heart Of Midlothian v id:257 | n=20 | xg=10
+id:212 v Academico Viseu | n=20 | xg=10
+Salamanca CF UDS v Celta Vigo | n=20 | xg=10
