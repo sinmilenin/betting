@@ -1,2 +1,2 @@
-# Scan 28.10.2026 12:58
-Marko v Olympiakos | n=20 | xg=10
+# Scan 28.10.2026 12:58 retry Olympiakos Piraeus (id)
+Marko v id:553 | n=20 | xg=10
