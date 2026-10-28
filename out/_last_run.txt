@@ -1,4 +1,3 @@
-RUN 2026-10-28 13:47 local | 1 match(es)
-id:2871 v Al Muharraq -> out/id_2871_v_Al_Muharraq.txt
-    !! Al Muharraq: No team found for "Al Muharraq".
-Requests used: API-Football 15, Matchbook 0
+RUN 2026-10-28 13:48 local | 1 match(es)
+id:2871 v Muharraq -> out/id_2871_v_Muharraq.txt
+Requests used: API-Football 27, Matchbook 0
