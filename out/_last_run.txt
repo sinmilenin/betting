@@ -1,3 +1,11 @@
-RUN 2026-10-28 18:51 local | 1 match(es)
-Manchester United W v Burnley W -> out/Manchester_United_W_v_Burnley_W.txt
-Requests used: API-Football 26, Matchbook 0
+RUN 2026-10-28 19:30 local | 9 match(es)
+Monza v Napoli -> out/Monza_v_Napoli.txt
+Genoa v Juventus -> out/Genoa_v_Juventus.txt
+id:157 v id:179 -> out/id_157_v_id_179.txt
+Fulham v Crystal Palace -> out/Fulham_v_Crystal_Palace.txt
+Bournemouth v Aston Villa -> out/Bournemouth_v_Aston_Villa.txt
+Liverpool v Chelsea -> out/Liverpool_v_Chelsea.txt
+Heart Of Midlothian v id:257 -> out/Heart_Of_Midlothian_v_id_257.txt
+Celtic v Dundee Utd -> out/Celtic_v_Dundee_Utd.txt
+id:212 v Academico Viseu -> out/id_212_v_Academico_Viseu.txt
+Requests used: API-Football 224, Matchbook 0
