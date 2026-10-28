@@ -1,0 +1,13 @@
+MATCH Club America v Tijuana | fetched 2026-10-28 19:58 local
+
+FORM DATA Club America v Tijuana | source API-Football | 2026-10-28 19:59 UTC
+H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
+
+!! Club America: API-Football error: HTTP 429 from API-Football
+
+!! Tijuana: API-Football error: HTTP 429 from API-Football
+
+(0 API-Football requests used)
+
+----------------------------------------------------------------------
+MATCHBOOK: skipped (switched off for this run)

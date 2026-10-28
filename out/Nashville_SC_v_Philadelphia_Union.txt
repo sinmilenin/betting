@@ -1,0 +1,96 @@
+MATCH Nashville SC v Philadelphia Union | fetched 2026-10-28 19:58 local
+
+FORM DATA Nashville SC v Philadelphia Union | source API-Football | 2026-10-28 19:59 UTC
+H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
+
+=== Nashville SC (id 9569): last 20 finished games ===
+2026-10-24 A 2-0 v CF Montreal | Major League Soccer | Montreal | xG 1.82-0.53
+2026-10-18 A 1-1 v San Jose Earthquakes | Major League Soccer | San Jose | xG 0.43-0.81
+2026-10-15 H 4-0 v Sporting Kansas City | Major League Soccer | Nashville | xG 4.23-0.63
+2026-10-11 A 4-1 v Austin | Major League Soccer | Austin | xG 4.94-1.11
+2026-09-27 H 2-0 v Toronto FC | Major League Soccer | Nashville
+2026-09-20 H 3-0 v Chicago Fire | Major League Soccer | Nashville | xG 2.07-0.96
+2026-09-12 A 2-2 v Inter Miami | Major League Soccer | Miami | xG 2.41-1.62
+2026-09-09 A 1-2 v Toronto FC | Major League Soccer | Toronto | xG 0.91-1.76
+2026-09-04 A 0-0 v New York City FC | Major League Soccer | Bronx | xG 1.61-0.99
+2026-08-30 H 4-0 v FC Cincinnati | Major League Soccer | Nashville | xG 1.80-1.93
+2026-08-23 H 3-2 v Columbus Crew | Major League Soccer | Nashville
+2026-08-19 A 1-0 v New York Red Bulls | Major League Soccer | Harrison
+2026-08-16 H 4-1 v Inter Miami | Major League Soccer | Nashville
+2026-08-13 A 1-2 v Monterrey | Leagues Cup | Nashville
+2026-08-10 H 4-1 v Atletico San Luis | Leagues Cup | Nashville
+2026-08-06 H 0-1 v Leon | Leagues Cup | Nashville
+2026-08-01 A 2-2 v DC United | Major League Soccer | Washington
+2026-07-25 A 0-1 v Orlando City SC | Major League Soccer | Orlando
+2026-07-23 H 1-0 v CF Montreal | Major League Soccer | Nashville
+2026-07-18 H 1-0 v Atlanta United FC | Major League Soccer | Nashville
+Listed home: 10 games, scored 26 (2.60), conceded 5 (0.50), blanks 1, clean sheets 6
+Listed away: 10 games, scored 14 (1.40), conceded 11 (1.10), blanks 2, clean sheets 3
+All: 20 games, scored 40 (2.00), conceded 16 (0.80), blanks 3, clean sheets 9
+
+=== Philadelphia Union (id 1599): last 20 finished games ===
+2026-10-24 H 1-2 v New England Revolution | Major League Soccer | Philadelphia | xG 2.62-2.30
+2026-10-17 H 2-2 v Charlotte | Major League Soccer | Philadelphia | xG 2.57-1.56
+2026-10-15 A 3-1 v Chicago Fire | Major League Soccer | Chicago | xG 2.46-1.00
+2026-10-10 H 2-1 v Real Salt Lake | Major League Soccer | Philadelphia | xG 1.97-0.76
+2026-09-26 H 4-2 v Orlando City SC | Major League Soccer | Philadelphia | xG 2.93-1.10
+2026-09-20 A 4-3 v Sporting Kansas City | Major League Soccer | Kansas City | xG 0.65-1.01
+2026-09-14 A 5-0 v San Diego | Major League Soccer | San Diego | xG 2.75-1.21
+2026-09-09 H 5-0 v FC Cincinnati | Major League Soccer | Chester | xG 3.57-0.02
+2026-09-05 H 2-0 v CF Montreal | Major League Soccer | Chester | xG 2.93-1.21
+2026-08-29 A 3-1 v New York Red Bulls | Major League Soccer | Harrison | xG 2.53-2.05
+2026-08-23 A 1-1 v Austin | Major League Soccer | Austin
+2026-08-19 H 2-2 v Inter Miami | Major League Soccer | Chester
+2026-08-16 A 3-2 v New York City FC | Major League Soccer | Bronx
+2026-08-13 H 0-2 v Santos Laguna | Leagues Cup | Chester
+2026-08-09 H 3-1 v Necaxa | Leagues Cup | Chester
+2026-08-07 A 0-1 v Cruz Azul | Leagues Cup | Philadelphia
+2026-08-01 H 3-2 v Atlanta United FC | Major League Soccer | Chester
+2026-07-25 H 1-0 v Seattle Sounders | Major League Soccer | Chester
+2026-07-22 H 3-1 v New York Red Bulls | Major League Soccer | Chester
+2026-05-24 A 4-6 v Inter Miami | Major League Soccer | Miami
+Listed home: 12 games, scored 28 (2.33), conceded 15 (1.25), blanks 1, clean sheets 3
+Listed away: 8 games, scored 23 (2.88), conceded 15 (1.88), blanks 1, clean sheets 1
+All: 20 games, scored 51 (2.55), conceded 30 (1.50), blanks 2, clean sheets 4
+
+TABLE FOR Nashville SC
+LEAGUE TABLE Major League Soccer 2026 | 30 teams | 466 games played
+League averages per game: home 1.83, away 1.41, total 3.24
+#   team                   Pts | home P GF-GA  | away P GF-GA  | all P GF-GA
+1   Vancouver Whitecaps     55 | 15  35-14      | 16  28-18      | 31  63-32 [Western Conference]
+2   FC Dallas               54 | 15  29-20      | 16  29-27      | 31  58-47 [Western Conference]
+3   St. Louis City          51 | 15  34-19      | 16  22-25      | 31  56-44 [Western Conference]
+4   San Jose Earthquakes    48 | 15  26-23      | 16  26-22      | 31  52-45 [Western Conference]
+5   Houston Dynamo          48 | 16  19-14      | 15  22-25      | 31  41-39 [Western Conference]
+6   Los Angeles FC          47 | 16  31-15      | 16  19-20      | 32  50-35 [Western Conference]
+7   Seattle Sounders        43 | 15  24-21      | 16  17-18      | 31  41-39 [Western Conference]
+8   Colorado Rapids         42 | 16  29-15      | 15  13-26      | 31  42-41 [Western Conference]
+9   Los Angeles Galaxy      41 | 16  22-20      | 16  23-34      | 32  45-54 [Western Conference]
+10  Real Salt Lake          39 | 16  31-21      | 15  17-27      | 31  48-48 [Western Conference]
+11  Portland Timbers        37 | 16  34-27      | 15  20-31      | 31  54-58 [Western Conference]
+12  San Diego               35 | 16  37-29      | 15  18-29      | 31  55-58 [Western Conference]
+13  Minnesota United FC     35 | 15  19-20      | 16  28-35      | 31  47-55 [Western Conference]
+14  Austin                  34 | 15  21-21      | 16  19-36      | 31  40-57 [Western Conference]
+15  Sporting Kansas City    22 | 16  23-34      | 15  14-43      | 31  37-77 [Western Conference]
+1   Nashville SC            70 | 15  45-12      | 16  21-11      | 31  66-23 [Eastern Conference]
+2   New England Revolution  55 | 15  27-16      | 16  24-26      | 31  51-42 [Eastern Conference]
+3   Inter Miami             55 | 15  41-26      | 16  32-27      | 31  73-53 [Eastern Conference]
+4   Chicago Fire            51 | 15  28-19      | 16  27-27      | 31  55-46 [Eastern Conference]
+5   Charlotte               47 | 15  29-16      | 16  26-32      | 31  55-48 [Eastern Conference]
+6   Philadelphia Union      46 | 16  28-18      | 15  34-32      | 31  62-50 [Eastern Conference]
+7   Orlando City SC         42 | 16  32-22      | 15  28-50      | 31  60-72 [Eastern Conference]
+8   FC Cincinnati           42 | 15  38-30      | 16  26-41      | 31  64-71 [Eastern Conference]
+9   New York Red Bulls      39 | 16  24-29      | 15  17-27      | 31  41-56 [Eastern Conference]
+10  Columbus Crew           38 | 16  26-19      | 15  24-30      | 31  50-49 [Eastern Conference]
+11  Toronto FC              36 | 16  34-32      | 15  14-27      | 31  48-59 [Eastern Conference]
+12  New York City FC        35 | 15  27-22      | 16  18-21      | 31  45-43 [Eastern Conference]
+13  DC United               33 | 16  20-28      | 15  18-27      | 31  38-55 [Eastern Conference]
+14  Atlanta United FC       30 | 16  23-32      | 15  16-22      | 31  39-54 [Eastern Conference]
+15  CF Montreal             25 | 16  19-23      | 15  17-39      | 31  36-62 [Eastern Conference]
+
+(Philadelphia Union: same table as Nashville SC, shown above)
+
+(24 API-Football requests used)
+
+----------------------------------------------------------------------
+MATCHBOOK: skipped (switched off for this run)
