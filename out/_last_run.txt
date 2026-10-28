@@ -1,4 +1,4 @@
-RUN 2026-10-28 08:13 local | 1 match(es)
-Yokohama F Marinos v Sanfrecce Hiroshima -> out/Yokohama_F_Marinos_v_Sanfrecce_Hiroshima.txt
-    !! Yokohama F Marinos: No team found for "Yokohama F Marinos".
-Requests used: API-Football 14, Matchbook 0
+RUN 2026-10-28 08:14 local | 1 match(es)
+Yokohama v Sanfrecce Hiroshima -> out/Yokohama_v_Sanfrecce_Hiroshima.txt
+    !! Yokohama: Ambiguous team name "Yokohama".
+Requests used: API-Football 15, Matchbook 0

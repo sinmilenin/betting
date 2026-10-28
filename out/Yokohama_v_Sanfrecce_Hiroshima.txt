@@ -1,8 +1,11 @@
-MATCH Yokohama F Marinos v Sanfrecce Hiroshima | fetched 2026-10-28 08:13 local
+MATCH Yokohama v Sanfrecce Hiroshima | fetched 2026-10-28 08:14 local
 
-FORM DATA Yokohama F Marinos v Sanfrecce Hiroshima | source API-Football | 2026-10-28 08:13 UTC
+FORM DATA Yokohama v Sanfrecce Hiroshima | source API-Football | 2026-10-28 08:14 UTC
 H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
 
+"Yokohama" matches several teams. Use id:<number> instead of the name:
+  id:296    Yokohama F. Marinos (Japan)
+  id:307    Yokohama FC (Japan)
 === Sanfrecce Hiroshima (id 282): last 20 finished games ===
 2026-10-24 H 4-0 v Shimizu S-pulse | J1 League | Hiroshima
 2026-10-21 A 0-4 v V-varen Nagasaki | J1 League | Nagasaki | xG 0.96-1.24
@@ -28,7 +31,11 @@ Listed home: 9 games, scored 32 (3.56), conceded 3 (0.33), blanks 0, clean sheet
 Listed away: 11 games, scored 17 (1.55), conceded 14 (1.27), blanks 2, clean sheets 6
 All: 20 games, scored 49 (2.45), conceded 17 (0.85), blanks 2, clean sheets 12
 
-!! Yokohama F Marinos: No team found for "Yokohama F Marinos".
+(retrying Yokohama using the opponent's country, Japan)
+"Yokohama" matches several teams. Use id:<number> instead of the name:
+  id:296    Yokohama F. Marinos (Japan)
+  id:307    Yokohama FC (Japan)
+!! Yokohama: Ambiguous team name "Yokohama".
 
 TABLE FOR Sanfrecce Hiroshima
 LEAGUE TABLE J1 League 2027 | 20 teams | 120 games played
@@ -55,7 +62,7 @@ League averages per game: home 1.62, away 1.36, total 2.98
 19  Avispa Fukuoka           7 |  7   9-9       |  5   4-12      | 12  13-21
 20  JEF United Chiba         7 |  5   4-7       |  7   8-17      | 12  12-24
 
-(14 API-Football requests used)
+(15 API-Football requests used)
 
 ----------------------------------------------------------------------
 MATCHBOOK: skipped (switched off for this run)
