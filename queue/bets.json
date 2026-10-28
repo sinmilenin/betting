@@ -416,5 +416,71 @@
     "lay": 9.8,
     "stake": 3,
     "created": "2026-10-28T19:35:53+00:00"
+  },
+  {
+    "id": "2026-10-28_santos-se-palmeiras_0-2",
+    "date": "2026-10-28",
+    "ko": "23:30",
+    "match": "Santos v SE Palmeiras",
+    "comp": "Brazil, Brazilian Serie A",
+    "cell": "0-2",
+    "lay": 14,
+    "stake": 3,
+    "created": "2026-10-28T20:05:17+00:00"
+  },
+  {
+    "id": "2026-10-28_santos-se-palmeiras_aoaw",
+    "date": "2026-10-28",
+    "ko": "23:30",
+    "match": "Santos v SE Palmeiras",
+    "comp": "Brazil, Brazilian Serie A",
+    "cell": "AOAW",
+    "lay": 15.5,
+    "stake": 3,
+    "created": "2026-10-28T20:05:17+00:00"
+  },
+  {
+    "id": "2026-10-29_charlotte-fc-cf-montreal_2-2",
+    "date": "2026-10-29",
+    "ko": "00:30",
+    "match": "Charlotte FC v CF Montreal",
+    "comp": "United States, US MLS",
+    "cell": "2-2",
+    "lay": 16,
+    "stake": 3,
+    "created": "2026-10-28T20:05:17+00:00"
+  },
+  {
+    "id": "2026-10-29_new-england-revolution-new-york-red-bulls_2-2",
+    "date": "2026-10-29",
+    "ko": "00:30",
+    "match": "New England Revolution v New York Red Bulls",
+    "comp": "United States, US MLS",
+    "cell": "2-2",
+    "lay": 13.5,
+    "stake": 3,
+    "created": "2026-10-28T20:05:17+00:00"
+  },
+  {
+    "id": "2026-10-29_st-louis-city-sc-portland-timbers_2-2",
+    "date": "2026-10-29",
+    "ko": "01:30",
+    "match": "St Louis City SC v Portland Timbers",
+    "comp": "United States, US MLS",
+    "cell": "2-2",
+    "lay": 14,
+    "stake": 3,
+    "created": "2026-10-28T20:05:17+00:00"
+  },
+  {
+    "id": "2026-10-29_san-jose-earthquakes-colorado_2-2",
+    "date": "2026-10-29",
+    "ko": "03:30",
+    "match": "San Jose Earthquakes v Colorado",
+    "comp": "United States, US MLS",
+    "cell": "2-2",
+    "lay": 15,
+    "stake": 3,
+    "created": "2026-10-28T20:05:17+00:00"
   }
 ]
