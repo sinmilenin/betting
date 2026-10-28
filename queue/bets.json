@@ -64,5 +64,38 @@
     "lay": 17.5,
     "stake": 3,
     "created": "2026-10-28T09:17:38+01:00"
+  },
+  {
+    "id": "2026-10-28_yokohama-fm-hiroshima_0-3",
+    "date": "2026-10-28",
+    "ko": "11:00",
+    "match": "Yokohama FM v Hiroshima",
+    "comp": "Japan, Japanese J League Cup",
+    "cell": "0-3",
+    "lay": 13,
+    "stake": 3,
+    "created": "2026-10-28T10:01:57+01:00"
+  },
+  {
+    "id": "2026-10-28_nagoya-urawa_1-0",
+    "date": "2026-10-28",
+    "ko": "11:00",
+    "match": "Nagoya v Urawa",
+    "comp": "Japan, Japanese J League Cup",
+    "cell": "1-0",
+    "lay": 11.5,
+    "stake": 3,
+    "created": "2026-10-28T10:01:57+01:00"
+  },
+  {
+    "id": "2026-10-28_nagoya-urawa_2-2",
+    "date": "2026-10-28",
+    "ko": "11:00",
+    "match": "Nagoya v Urawa",
+    "comp": "Japan, Japanese J League Cup",
+    "cell": "2-2",
+    "lay": 16,
+    "stake": 3,
+    "created": "2026-10-28T10:01:57+01:00"
   }
 ]
