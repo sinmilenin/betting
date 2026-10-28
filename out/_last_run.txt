@@ -1,6 +1,4 @@
-RUN 2026-10-28 08:12 local | 3 match(es)
-Mito Hollyhock v Cerezo Osaka -> out/Mito_Hollyhock_v_Cerezo_Osaka.txt
-Sagan Tosu v Kawasaki Frontale -> out/Sagan_Tosu_v_Kawasaki_Frontale.txt
-Yokohama F. Marinos v Sanfrecce Hiroshima -> out/Yokohama_F_Marinos_v_Sanfrecce_Hiroshima.txt
-    !! Yokohama F. Marinos: API-Football error: {"search": "The Search field may only contain alpha-numeric characters and spaces."}
-Requests used: API-Football 63, Matchbook 0
+RUN 2026-10-28 08:13 local | 1 match(es)
+Yokohama F Marinos v Sanfrecce Hiroshima -> out/Yokohama_F_Marinos_v_Sanfrecce_Hiroshima.txt
+    !! Yokohama F Marinos: No team found for "Yokohama F Marinos".
+Requests used: API-Football 14, Matchbook 0
