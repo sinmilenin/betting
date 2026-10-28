@@ -1,18 +1,4 @@
-# Night scan 28.10.2026 20:57
-Alianza Atletico v Deportivo Garcilaso | n=20 | xg=10
-Santos v Palmeiras | n=20 | xg=10
-Fluminense v Internacional | n=20 | xg=10
-Charlotte v CF Montreal | n=20 | xg=10
-Inter Miami v FC Cincinnati | n=20 | xg=10
-New England Revolution v New York Red Bulls | n=20 | xg=10
-Toronto FC v DC United | n=20 | xg=10
-Atletico Tucuman v Platense | n=20 | xg=10
-Austin v Real Salt Lake | n=20 | xg=10
-Nashville SC v Philadelphia Union | n=20 | xg=10
-FC Dallas v Columbus Crew | n=20 | xg=10
-Chicago Fire v Orlando City SC | n=20 | xg=10
-Bahia v Sao Paulo | n=20 | xg=10
-St. Louis City v Portland Timbers | n=20 | xg=10
-San Jose Earthquakes v Colorado Rapids | n=20 | xg=10
+# Night scan 28.10.2026 20:57 (retry: rate limit / name)
+St Louis City v Portland Timbers | n=20 | xg=10
 Seattle Sounders v Houston Dynamo | n=20 | xg=10
 Club America v Tijuana | n=20 | xg=10
