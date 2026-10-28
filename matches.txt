@@ -1,2 +1,9 @@
-# Scan 28.10.2026 15:28 retry Mladost DG
-Petrovac v id:16749 | n=20 | xg=10
+# Scan 28.10.2026 15:56 (first analyses + form files not found in history)
+Borac Cacak v Radnik Surdulica | n=20 | xg=10
+Varazdin v Lokomotiva Zagreb | n=20 | xg=10
+Servette W v OH Leuven W | n=20 | xg=10
+Parma v Udinese | n=20 | xg=10
+AC Milan v Bologna | n=20 | xg=10
+Venezia v Inter | n=20 | xg=10
+Dynamo Dresden v Schalke 04 | n=20 | xg=10
+Paderborn v Stuttgart | n=20 | xg=10
