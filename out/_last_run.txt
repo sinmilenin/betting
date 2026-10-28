@@ -1,7 +1,22 @@
-RUN 2026-10-28 16:31 local | 5 match(es)
-id:10534 v Dunajska Streda -> out/id_10534_v_Dunajska_Streda.txt
-id:330 v Sandefjord -> out/id_330_v_Sandefjord.txt
-id:333 v Valerenga -> out/id_333_v_Valerenga.txt
-Jeddeloh v id:159 -> out/Jeddeloh_v_id_159.txt
-id:2393 v Puskas Academy -> out/id_2393_v_Puskas_Academy.txt
-Requests used: API-Football 127, Matchbook 0
+RUN 2026-10-28 17:15 local | 14 match(es)
+Sparta Prague v Banik Ostrava -> out/Sparta_Prague_v_Banik_Ostrava.txt
+    !! Sparta Prague: No team found for "Sparta Prague".
+    !! Banik Ostrava: Ambiguous team name "Banik Ostrava".
+Sparta Rotterdam v Fortuna Sittard -> out/Sparta_Rotterdam_v_Fortuna_Sittard.txt
+St Johnstone v Motherwell -> out/St_Johnstone_v_Motherwell.txt
+Bayer Leverkusen v Nurnberg -> out/Bayer_Leverkusen_v_Nurnberg.txt
+    !! Nurnberg: Ambiguous team name "Nurnberg".
+Aberdeen v Falkirk -> out/Aberdeen_v_Falkirk.txt
+Sunderland v Brentford -> out/Sunderland_v_Brentford.txt
+Dundee v Kilmarnock -> out/Dundee_v_Kilmarnock.txt
+Hannover 96 v Kaiserslautern -> out/Hannover_96_v_Kaiserslautern.txt
+    !! Kaiserslautern: Ambiguous team name "Kaiserslautern".
+Holstein Kiel v Hoffenheim -> out/Holstein_Kiel_v_Hoffenheim.txt
+    !! Hoffenheim: Ambiguous team name "Hoffenheim".
+Forest Green v Eastleigh -> out/Forest_Green_v_Eastleigh.txt
+St Mirren v Hibernian -> out/St_Mirren_v_Hibernian.txt
+Carlisle v Harrogate Town -> out/Carlisle_v_Harrogate_Town.txt
+Arsenal W v Benfica W -> out/Arsenal_W_v_Benfica_W.txt
+Lyon W v Inter W -> out/Lyon_W_v_Inter_W.txt
+    !! Inter W: Ambiguous team name "Inter W".
+Requests used: API-Football 285, Matchbook 0

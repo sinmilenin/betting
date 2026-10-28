@@ -1,0 +1,18 @@
+MATCH Sparta Prague v Banik Ostrava | fetched 2026-10-28 17:15 local
+
+FORM DATA Sparta Prague v Banik Ostrava | source API-Football | 2026-10-28 17:15 UTC
+H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
+
+"Banik Ostrava" matches several teams. Use id:<number> instead of the name:
+  id:3713   Baník Ostrava (Czech-Republic)
+  id:8621   Baník Ostrava II (Czech-Republic)
+  id:14830  Baník Ostrava U19 (Czech-Republic)
+  id:19197  Baník Ostrava W (Czech-Republic)
+!! Sparta Prague: No team found for "Sparta Prague".
+
+!! Banik Ostrava: Ambiguous team name "Banik Ostrava".
+
+(2 API-Football requests used)
+
+----------------------------------------------------------------------
+MATCHBOOK: skipped (switched off for this run)
