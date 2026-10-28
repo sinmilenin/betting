@@ -240,5 +240,38 @@
     "lay": 10,
     "stake": 3,
     "created": "2026-10-28T13:50:17Z"
+  },
+  {
+    "id": "2026-10-28_fk-borac-cacak-radnik-surdulica_0-1",
+    "date": "2026-10-28",
+    "ko": "16:30",
+    "match": "FK Borac Cacak v Radnik Surdulica",
+    "comp": "Serbia, Serbian Cup",
+    "cell": "0-1",
+    "lay": 9.8,
+    "stake": 3,
+    "created": "2026-10-28T15:02:03Z"
+  },
+  {
+    "id": "2026-10-28_fk-borac-cacak-radnik-surdulica_2-2",
+    "date": "2026-10-28",
+    "ko": "16:30",
+    "match": "FK Borac Cacak v Radnik Surdulica",
+    "comp": "Serbia, Serbian Cup",
+    "cell": "2-2",
+    "lay": 19.5,
+    "stake": 3,
+    "created": "2026-10-28T15:02:03Z"
+  },
+  {
+    "id": "2026-10-28_varazdin-lokomotiva_2-1",
+    "date": "2026-10-28",
+    "ko": "17:00",
+    "match": "Varazdin v Lokomotiva",
+    "comp": "Croatia, Croatian Cup",
+    "cell": "2-1",
+    "lay": 9.6,
+    "stake": 3,
+    "created": "2026-10-28T15:02:03Z"
   }
 ]
