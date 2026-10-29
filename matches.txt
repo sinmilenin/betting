@@ -1,2 +1,3 @@
-# Scan 29.10 19:41: Benfica retry (name ambiguous)
-id:211 v Gil Vicente | n=20 | xg=10
+# Scan 29.10 20:26: first analyses
+Odra Opole v Slask Wroclaw | n=20 | xg=10
+Ribadesella v Racing Santander | n=20 | xg=10
