@@ -207,5 +207,16 @@
     "lay": 7.4,
     "stake": 3,
     "created": "2026-10-29T13:00:36+00:00"
+  },
+  {
+    "id": "2026-10-29_fc-inter-turku-hjk-helsinki_aohw",
+    "date": "2026-10-29",
+    "ko": "17:00",
+    "match": "FC Inter Turku v HJK Helsinki",
+    "comp": "Finland, Finnish Veikkausliiga",
+    "cell": "AOHW",
+    "lay": 15,
+    "stake": 3,
+    "created": "2026-10-29T13:45:20+00:00"
   }
 ]
