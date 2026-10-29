@@ -1,5 +1,3 @@
-RUN 2026-10-29 13:41 local | 2 match(es)
-Modern Sport v Al Ahly -> out/Modern_Sport_v_Al_Ahly.txt
-    !! Modern Sport: No team found for "Modern Sport".
-Volos NFC v Atromitos -> out/Volos_NFC_v_Atromitos.txt
-Requests used: API-Football 40, Matchbook 0
+RUN 2026-10-29 13:42 local | 1 match(es)
+Future FC v Al Ahly -> out/Future_FC_v_Al_Ahly.txt
+Requests used: API-Football 26, Matchbook 0
