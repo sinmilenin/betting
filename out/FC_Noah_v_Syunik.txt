@@ -1,12 +1,33 @@
-MATCH Noah v Syunik | fetched 2026-10-29 12:02 local
+MATCH FC Noah v Syunik | fetched 2026-10-29 12:06 local
 
-FORM DATA Noah v Syunik | source API-Football | 2026-10-29 12:02 UTC
+FORM DATA FC Noah v Syunik | source API-Football | 2026-10-29 12:06 UTC
 H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
 
-"Noah" matches several teams. Use id:<number> instead of the name:
-  id:3684   FC Noah (Armenia)
-  id:16462  Noah Jūrmala (Latvia)
-  id:21879  Noah II (Armenia)
+=== FC Noah (id 3684): last 20 finished games ===
+2026-10-26 A 1-2 v Ararat-Armenia | Premier League | Yerevan
+2026-10-18 H 1-1 v Pyunik Yerevan | Premier League | Abovyan
+2026-10-11 A 5-1 v Sardarapat | Premier League | Armavir
+2026-10-02 H 2-2 v Dinamo Batumi | Friendlies Clubs | ?
+2026-09-18 H 2-0 v Van | Premier League | Abovyan
+2026-09-12 A 3-0 v FC Urartu | Premier League | Yerevan
+2026-09-04 H 3-2 v Gandzasar | Premier League | Abovyan
+2026-08-30 H 4-0 v Ararat | Premier League | Abovyan
+2026-08-23 A 1-0 v BKMA | Premier League | Yerevan
+2026-08-17 H 1-0 v Alashkert | Premier League | Abovyan
+2026-08-13 A 1-2 v FC Sion | UEFA Europa Conference League | Sion
+2026-08-09 A 4-3 v Shirak | Premier League | Gyumri
+2026-08-06 H 2-2 v FC Sion | UEFA Europa Conference League | Abovyan
+2026-08-02 H 3-0 v Syunik | Premier League | Abovyan
+2026-07-30 H 2-1 v Zimbru | UEFA Europa Conference League | Abovyan
+2026-07-23 A 1-1 v Zimbru | UEFA Europa Conference League | Chisinau
+2026-07-16 H 2-0 v Syunik | Friendlies Clubs | ?
+2026-07-15 H 2-0 v Van | Friendlies Clubs | ?
+2026-07-07 A 1-1 v CFR 1907 Cluj | Friendlies Clubs | ?
+2026-07-04 A 1-1 v Mura | Friendlies Clubs | ?
+Listed home: 11 games, scored 24 (2.18), conceded 8 (0.73), blanks 0, clean sheets 6
+Listed away: 9 games, scored 18 (2.00), conceded 11 (1.22), blanks 0, clean sheets 2
+All: 20 games, scored 42 (2.10), conceded 19 (0.95), blanks 0, clean sheets 8
+
 === Syunik (id 20087): last 20 finished games ===
 2026-10-25 H 4-1 v BKMA | Premier League | ?
 2026-10-16 A 1-5 v Alashkert | Premier League | Yerevan
@@ -32,14 +53,7 @@ Listed home: 5 games, scored 12 (2.40), conceded 4 (0.80), blanks 1, clean sheet
 Listed away: 15 games, scored 13 (0.87), conceded 29 (1.93), blanks 5, clean sheets 2
 All: 20 games, scored 25 (1.25), conceded 33 (1.65), blanks 6, clean sheets 5
 
-(retrying Noah using the opponent's country, Armenia)
-"Noah" matches several teams. Use id:<number> instead of the name:
-  id:3684   FC Noah (Armenia)
-  id:16462  Noah Jūrmala (Latvia)
-  id:21879  Noah II (Armenia)
-!! Noah: Ambiguous team name "Noah".
-
-TABLE FOR Syunik
+TABLE FOR FC Noah
 LEAGUE TABLE Premier League 2026 | 12 teams | 66 games played
 League averages per game: home 1.74, away 1.24, total 2.98
 #   team                   Pts | home P GF-GA  | away P GF-GA  | all P GF-GA
@@ -56,7 +70,9 @@ League averages per game: home 1.74, away 1.24, total 2.98
 11  BKMA                     8 |  6   4-6       |  5   5-14      | 11   9-20
 12  Gandzasar                3 |  7   7-16      |  4   2-11      | 11   9-27
 
-(15 API-Football requests used)
+(Syunik: same table as FC Noah, shown above)
+
+(25 API-Football requests used)
 
 ----------------------------------------------------------------------
 MATCHBOOK: skipped (switched off for this run)

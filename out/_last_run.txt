@@ -1,7 +1,5 @@
-RUN 2026-10-29 12:02 local | 3 match(es)
-Wofoo Tai Po v BG Pathum United -> out/Wofoo_Tai_Po_v_BG_Pathum_United.txt
-Al Khaleej v Al Hazm -> out/Al_Khaleej_v_Al_Hazm.txt
-    !! Al Hazm: No team found for "Al Hazm".
-Noah v Syunik -> out/Noah_v_Syunik.txt
-    !! Noah: Ambiguous team name "Noah".
-Requests used: API-Football 56, Matchbook 0
+RUN 2026-10-29 12:06 local | 2 match(es)
+Al Khaleej v Al-Hazm -> out/Al_Khaleej_v_Al_Hazm.txt
+    !! Al-Hazm: API-Football error: {"search": "The Search field may only contain alpha-numeric characters and spaces."}
+FC Noah v Syunik -> out/FC_Noah_v_Syunik.txt
+Requests used: API-Football 39, Matchbook 0

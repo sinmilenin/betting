@@ -1,6 +1,6 @@
-MATCH Al Khaleej v Al Hazm | fetched 2026-10-29 12:02 local
+MATCH Al Khaleej v Al-Hazm | fetched 2026-10-29 12:06 local
 
-FORM DATA Al Khaleej v Al Hazm | source API-Football | 2026-10-29 12:02 UTC
+FORM DATA Al Khaleej v Al-Hazm | source API-Football | 2026-10-29 12:06 UTC
 H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
 
 === Al Khaleej Saihat (id 2928): last 20 finished games ===
@@ -28,7 +28,7 @@ Listed home: 9 games, scored 9 (1.00), conceded 18 (2.00), blanks 3, clean sheet
 Listed away: 11 games, scored 11 (1.00), conceded 19 (1.73), blanks 4, clean sheets 2
 All: 20 games, scored 20 (1.00), conceded 37 (1.85), blanks 7, clean sheets 5
 
-!! Al Hazm: No team found for "Al Hazm".
+!! Al-Hazm: API-Football error: {"search": "The Search field may only contain alpha-numeric characters and spaces."}
 
 TABLE FOR Al Khaleej Saihat
 LEAGUE TABLE Pro League 2026 | 18 teams | 95 games played
