@@ -1,3 +1,2 @@
-# Scan 29.10.2026 14:40
-Modern Sport v Al Ahly | n=20 | xg=10
-Volos NFC v Atromitos | n=20 | xg=10
+# Scan 29.10.2026 14:40 retry (Modern Sport = Future FC)
+Future FC v Al Ahly | n=20 | xg=10
