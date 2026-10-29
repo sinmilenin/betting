@@ -1,3 +1,13 @@
-RUN 2026-10-28 20:03 local | 1 match(es)
-id:20787 v Portland Timbers -> out/id_20787_v_Portland_Timbers.txt
-Requests used: API-Football 25, Matchbook 0
+RUN 2026-10-29 06:42 local | 9 match(es)
+Zorya v Kryvbas -> out/Zorya_v_Kryvbas.txt
+    !! Zorya: Ambiguous team name "Zorya".
+Inter Turku v HJK -> out/Inter_Turku_v_HJK.txt
+    !! HJK: Ambiguous team name "HJK".
+Numancia v Oviedo -> out/Numancia_v_Oviedo.txt
+KuPS v Gnistan -> out/KuPS_v_Gnistan.txt
+Frosinone v Lecce -> out/Frosinone_v_Lecce.txt
+Poblense v Ceuta -> out/Poblense_v_Ceuta.txt
+Everton v Newcastle -> out/Everton_v_Newcastle.txt
+Fiorentina v Atalanta -> out/Fiorentina_v_Atalanta.txt
+Benfica v Gil Vicente -> out/Benfica_v_Gil_Vicente.txt
+Requests used: API-Football 207, Matchbook 0
