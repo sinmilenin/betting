@@ -1,0 +1,64 @@
+MATCH Kalmar v GAIS | fetched 2026-10-29 12:54 local
+
+FORM DATA Kalmar v GAIS | source API-Football | 2026-10-29 12:54 UTC
+H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
+
+"Kalmar" matches several teams. Use id:<number> instead of the name:
+  id:374    Kalmar FF (Sweden)
+  id:16006  Kalmar W (Sweden)
+=== Gais (id 2170): last 20 finished games ===
+2026-10-25 H 1-1 v IFK Goteborg | Allsvenskan | Gothenburg | xG 1.68-1.61
+2026-10-18 A 2-4 v Orgryte IS | Allsvenskan | Gothenburg | xG 1.42-2.79
+2026-10-10 H 0-1 v Sirius | Allsvenskan | Gothenburg | xG 1.70-1.56
+2026-09-20 A 3-0 v Mjallby AIF | Allsvenskan | Hallevik | xG 1.34-1.02
+2026-09-14 A 0-2 v Djurgardens IF | Allsvenskan | Stockholm
+2026-09-05 H 0-0 v BK Hacken | Allsvenskan | Gothenburg | xG 1.54-2.12
+2026-08-31 H 4-0 v IF Brommapojkarna | Allsvenskan | Gothenburg | xG 2.99-1.13
+2026-08-27 A 7-0 v Husqvarna | Svenska Cupen | ?
+2026-08-23 A 0-2 v Hammarby FF | Allsvenskan | Stockholm | xG 1.01-3.00
+2026-08-16 H 0-1 v Malmo FF | Allsvenskan | Gothenburg | xG 1.35-0.22
+2026-08-09 A 2-0 v Halmstad | Allsvenskan | Halmstad
+2026-07-30 A 0-6 v FC Nordsjaelland | UEFA Europa Conference League | Farum
+2026-07-26 H 1-1 v Halmstad | Allsvenskan | Gothenburg
+2026-07-23 H 1-0 v FC Nordsjaelland | UEFA Europa Conference League | Gothenburg
+2026-07-18 A 0-2 v AIK Stockholm | Allsvenskan | Solna
+2026-07-12 H 1-0 v IF Elfsborg | Allsvenskan | Gothenburg
+2026-07-06 A 1-1 v IF Brommapojkarna | Allsvenskan | Stockholm
+2026-06-27 A 2-1 v Valerenga | Friendlies Clubs | ?
+2026-06-17 H 1-1 v Halmstad | Friendlies Clubs | ?
+2026-05-30 H 3-0 v Kalmar FF | Allsvenskan | Gothenburg
+Listed home: 10 games, scored 12 (1.20), conceded 5 (0.50), blanks 3, clean sheets 5
+Listed away: 10 games, scored 17 (1.70), conceded 18 (1.80), blanks 4, clean sheets 3
+All: 20 games, scored 29 (1.45), conceded 23 (1.15), blanks 7, clean sheets 8
+
+(retrying Kalmar using the opponent's country, Sweden)
+"Kalmar" matches several teams. Use id:<number> instead of the name:
+  id:374    Kalmar FF (Sweden)
+  id:16006  Kalmar W (Sweden)
+!! Kalmar: Ambiguous team name "Kalmar".
+
+TABLE FOR Gais
+LEAGUE TABLE Allsvenskan 2026 | 16 teams | 205 games played
+League averages per game: home 1.57, away 1.34, total 2.91
+#   team                   Pts | home P GF-GA  | away P GF-GA  | all P GF-GA
+1   Sirius                  55 | 13  28-19      | 12  28-13      | 25  56-32
+2   Hammarby FF             49 | 12  34-7       | 13  18-14      | 25  52-21
+3   Djurgardens IF          49 | 13  32-16      | 13  21-8       | 26  53-24
+4   BK Hacken               46 | 13  25-18      | 13  22-12      | 26  47-30
+5   IF Elfsborg             43 | 13  21-9       | 13  18-17      | 26  39-26
+6   Vasteras SK FK          41 | 13  19-15      | 13  20-23      | 26  39-38
+7   Malmo FF                40 | 13  25-21      | 13  16-13      | 26  41-34
+8   AIK Stockholm           38 | 13  21-29      | 13  21-16      | 26  42-45
+9   IFK Goteborg            38 | 13  17-14      | 13  19-31      | 26  36-45
+10  IF Brommapojkarna       34 | 13  15-15      | 13  24-28      | 26  39-43
+11  Gais                    31 | 13  17-6       | 12  14-20      | 25  31-26
+12  Mjallby AIF             23 | 13  12-21      | 12  16-21      | 25  28-42
+13  Kalmar FF               22 | 12  14-20      | 13   9-21      | 25  23-41
+14  Degerfors IF            20 | 13  12-20      | 13   9-24      | 26  21-44
+15  Orgryte IS              19 | 12  21-22      | 13  10-34      | 25  31-56
+16  Halmstad                17 | 13   9-22      | 13   9-27      | 26  18-49
+
+(15 API-Football requests used)
+
+----------------------------------------------------------------------
+MATCHBOOK: skipped (switched off for this run)

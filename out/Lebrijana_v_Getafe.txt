@@ -1,0 +1,110 @@
+MATCH Lebrijana v Getafe | fetched 2026-10-29 12:54 local
+
+FORM DATA Lebrijana v Getafe | source API-Football | 2026-10-29 12:54 UTC
+H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
+
+=== Lebrijana (id 9761): last 20 finished games ===
+2026-10-03 A 2-1 v Ceuta 6 de Junio | Copa del Rey | ?
+2026-09-26 H 5-0 v Ceuta 6 de Junio | Copa del Rey | ?
+2021-06-06 A 0-1 v Castilleja | Tercera División RFEF - Group 10 | Castilleja de la Cuesta
+2021-05-29 H 1-4 v Coria CF | Tercera División RFEF - Group 10 | Lebrija
+2021-05-23 A 0-1 v La Palma | Tercera División RFEF - Group 10 | La Palma del Condado
+2021-05-16 H 1-2 v Sevilla III | Tercera División RFEF - Group 10 | Lebrija
+2021-05-09 A 0-5 v Gerena | Tercera División RFEF - Group 10 | Gerena
+2021-05-02 H 0-0 v Castilleja | Tercera División RFEF - Group 10 | Lebrija
+2021-04-25 A 0-1 v Coria CF | Tercera División RFEF - Group 10 | Coria del Río
+2021-04-18 H 0-2 v La Palma | Tercera División RFEF - Group 10 | Lebrija
+2021-04-14 A 0-1 v Sevilla III | Tercera División RFEF - Group 10 | Sevilla
+2021-04-11 H 1-1 v Gerena | Tercera División RFEF - Group 10 | Lebrija
+2021-03-28 A 0-1 v Antoniano | Tercera División RFEF - Group 10 | Lebrija
+2021-03-21 H 2-1 v Conil | Tercera División RFEF - Group 10 | Lebrija
+2021-03-14 A 0-2 v Xerez | Tercera División RFEF - Group 10 | Jerez de la Frontera
+2021-03-07 H 1-3 v AD Ceuta FC | Tercera División RFEF - Group 10 | Lebrija
+2021-02-21 A 0-1 v Arcos | Tercera División RFEF - Group 10 | Arcos de la Frontera
+2021-02-14 A 2-2 v Cabecense | Tercera División RFEF - Group 10 | Las Cabezas de San Juan
+2021-01-31 H 0-1 v Rota | Tercera División RFEF - Group 10 | Lebrija
+2021-01-23 A 0-2 v Xerez Deportivo | Tercera División RFEF - Group 10 | Jerez de la Frontera
+Listed home: 9 games, scored 11 (1.22), conceded 14 (1.56), blanks 3, clean sheets 2
+Listed away: 11 games, scored 4 (0.36), conceded 18 (1.64), blanks 9, clean sheets 0
+All: 20 games, scored 15 (0.75), conceded 32 (1.60), blanks 12, clean sheets 2
+
+=== Getafe (id 546): last 20 finished games ===
+2026-10-25 A 0-4 v Athletic Club | La Liga | Bilbao | xG 0.41-0.74
+2026-10-22 H 2-5 v FC Lugano | UEFA Europa Conference League | Getafe | xG 2.48-1.94
+2026-10-19 H 1-1 v Rayo Vallecano | La Liga | Getafe | xG 0.57-2.25
+2026-10-15 A 1-1 v Universitatea Craiova | UEFA Europa Conference League | Craiova | xG 1.45-0.60
+2026-10-10 A 0-3 v Barcelona | La Liga | Barcelona | xG 0.14-1.93
+2026-09-20 H 1-0 v Malaga | La Liga | Getafe | xG 0.95-0.52
+2026-09-17 A 0-1 v Real Betis | La Liga | Seville | xG 0.29-1.89
+2026-09-13 H 1-1 v Deportivo La Coruna | La Liga | Getafe | xG 0.78-0.87
+2026-09-07 H 1-1 v Celta Vigo | La Liga | Getafe | xG 0.65-1.03
+2026-08-31 A 0-1 v Osasuna | La Liga | Pamplona | xG 0.68-1.68
+2026-08-27 A 1-2 v FK Partizan | UEFA Europa Conference League | Belgrade
+2026-08-23 H 1-0 v Racing Santander | La Liga | Getafe
+2026-08-20 H 3-1 v FK Partizan | UEFA Europa Conference League | Getafe
+2026-08-15 A 0-3 v Alaves | La Liga | Vitoria-Gasteiz
+2026-08-08 A 1-1 v Tottenham | Friendlies Clubs | London
+2026-08-06 A 0-1 v Monaco | Friendlies Clubs | ?
+2026-07-29 A 1-4 v Atletico Madrid | Friendlies Clubs | Majadahonda
+2026-07-25 A 0-0 v Valladolid | Friendlies Clubs | ?
+2026-07-22 A 2-1 v Tenerife | Friendlies Clubs | ?
+2026-07-17 H 1-0 v Reading | Friendlies Clubs | ?
+Listed home: 8 games, scored 11 (1.38), conceded 9 (1.12), blanks 0, clean sheets 3
+Listed away: 12 games, scored 6 (0.50), conceded 22 (1.83), blanks 7, clean sheets 1
+All: 20 games, scored 17 (0.85), conceded 31 (1.55), blanks 7, clean sheets 4
+
+TABLE FOR Lebrijana
+LEAGUE TABLE Tercera División RFEF - Group 10 2020 | 21 teams | 200 games played
+League averages per game: home 1.25, away 0.96, total 2.21
+#   team                   Pts | home P GF-GA  | away P GF-GA  | all P GF-GA
+1   Xerez Deportivo         37 |  9  13-3       |  9  13-8       | 18  26-11 [Group A]
+2   Xerez                   35 |  9  12-4       |  9  11-7       | 18  23-11 [Group A]
+3   AD Ceuta FC             29 |  9  15-6       |  9  11-11      | 18  26-17 [Group A]
+4   Los Barrios             24 |  9   9-8       |  9   9-9       | 18  18-17 [Group A]
+5   Rota                    22 |  9  11-9       |  9   4-12      | 18  15-21 [Group A]
+6   Antoniano               21 |  9   7-9       |  9   8-11      | 18  15-20 [Group A]
+7   Conil                   20 |  9  13-8       |  9   6-10      | 18  19-18 [Group A]
+8   Cabecense               19 |  9  12-12      |  9   3-11      | 18  15-23 [Group A]
+9   Arcos                   17 |  9   6-6       |  9   4-13      | 18  10-19 [Group A]
+10  Lebrijana               16 |  9  10-9       |  9   5-16      | 18  15-25 [Group A]
+1   San Roque Lepe          45 | 10  14-6       | 10  16-12      | 20  30-18 [Group B]
+2   Ciudad de Lucena        40 | 10  22-6       | 10  13-10      | 20  35-16 [Group B]
+3   Puente Genil            33 | 10  16-15      | 10  12-9       | 20  28-24 [Group B]
+4   Córdoba II              30 | 10  17-12      | 10  14-13      | 20  31-25 [Group B]
+5   Utrera                  30 | 10  13-7       | 10  13-19      | 20  26-26 [Group B]
+6   Pozoblanco              27 | 10  14-8       | 10   8-15      | 20  22-23 [Group B]
+7   Sevilla III             26 | 10  10-10      | 10   7-10      | 20  17-20 [Group B]
+8   Gerena                  22 | 10   8-11      | 10   9-14      | 20  17-25 [Group B]
+9   Castilleja              21 | 10  12-14      | 10  13-13      | 20  25-27 [Group B]
+10  Coria CF                15 | 10   9-16      | 10   5-12      | 20  14-28 [Group B]
+11  La Palma                13 | 10   6-13      | 10   8-14      | 20  14-27 [Group B]
+
+TABLE FOR Getafe
+LEAGUE TABLE La Liga 2026 | 20 teams | 99 games played
+League averages per game: home 1.70, away 1.31, total 3.01
+#   team                   Pts | home P GF-GA  | away P GF-GA  | all P GF-GA
+1   Barcelona               27 |  5  18-6       |  5  22-5       | 10  40-11
+2   Atletico Madrid         25 |  5  11-3       |  5   9-5       | 10  20-8
+3   Real Madrid             24 |  5  17-3       |  5   8-7       | 10  25-10
+4   Real Betis              20 |  5  10-7       |  5   6-7       | 10  16-14
+5   Real Sociedad           19 |  5   7-7       |  5  12-11      | 10  19-18
+6   Sevilla                 17 |  5   7-7       |  5   9-9       | 10  16-16
+7   Alaves                  12 |  6  11-6       |  4   3-5       | 10  14-11
+8   Athletic Club           12 |  5   9-4       |  4   3-5       |  9  12-9
+9   Celta Vigo              12 |  6   9-6       |  4   1-1       | 10  10-7
+10  Villarreal              12 |  4   6-6       |  6   9-8       | 10  15-14
+11  Deportivo La Coruna     11 |  5   6-5       |  5   7-8       | 10  13-13
+12  Osasuna                 11 |  5   4-3       |  5   6-17      | 10  10-20
+13  Racing Santander        11 |  5  11-8       |  5   4-18      | 10  15-26
+14  Levante                 10 |  4  13-10      |  6   3-9       | 10  16-19
+15  Elche                   10 |  4   4-11      |  6  10-6       | 10  14-17
+16  Rayo Vallecano           9 |  4   6-7       |  5   6-13      |  9  12-20
+17  Getafe                   9 |  5   5-3       |  5   0-12      | 10   5-15
+18  Espanyol                 8 |  5   6-7       |  5   6-7       | 10  12-14
+19  Valencia                 6 |  6   3-11      |  4   4-6       | 10   7-17
+20  Malaga                   5 |  5   5-10      |  5   2-9       | 10   7-19
+
+(27 API-Football requests used)
+
+----------------------------------------------------------------------
+MATCHBOOK: skipped (switched off for this run)

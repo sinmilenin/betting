@@ -1,0 +1,68 @@
+MATCH Hammarby v Sirius | fetched 2026-10-29 12:54 local
+
+FORM DATA Hammarby v Sirius | source API-Football | 2026-10-29 12:54 UTC
+H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
+
+"Hammarby" matches several teams. Use id:<number> instead of the name:
+  id:363    Hammarby FF (Sweden)
+  id:7982   Hammarby U19 (Jamaica)
+  id:15630  Hammarby W (Sweden)
+  id:16596  Hammarby Talang (Sweden)
+=== Sirius (id 370): last 20 finished games ===
+2026-10-24 H 1-2 v AIK Stockholm | Allsvenskan | Uppsala | xG 2.69-1.65
+2026-10-18 H 2-2 v IF Elfsborg | Allsvenskan | Uppsala | xG 1.48-1.19
+2026-10-10 A 1-0 v Gais | Allsvenskan | Gothenburg | xG 1.56-1.70
+2026-10-02 A 1-1 v Brondby | Friendlies Clubs | ?
+2026-09-19 A 2-1 v Orgryte IS | Allsvenskan | Gothenburg | xG 1.16-1.18
+2026-09-14 H 2-0 v Degerfors IF | Allsvenskan | Uppsala | xG 1.86-1.71
+2026-09-05 A 1-0 v Vasteras SK FK | Allsvenskan | Vasteras | xG 0.95-1.34
+2026-08-31 H 0-1 v Malmo FF | Allsvenskan | Uppsala | xG 1.51-1.67
+2026-08-26 A 2-0 v Friska Viljor | Svenska Cupen | ?
+2026-08-21 H 0-3 v BK Hacken | Allsvenskan | Uppsala | xG 0.64-1.54
+2026-08-15 A 3-4 v Mjallby AIF | Allsvenskan | Hallevik
+2026-08-10 H 2-2 v IF Brommapojkarna | Allsvenskan | Uppsala
+2026-08-03 A 2-0 v Halmstad | Allsvenskan | Halmstad
+2026-07-26 H 4-1 v IFK Goteborg | Allsvenskan | Uppsala
+2026-07-19 A 3-1 v IF Elfsborg | Allsvenskan | Boras
+2026-07-12 A 2-1 v IF Brommapojkarna | Allsvenskan | Stockholm
+2026-07-03 H 4-4 v Mjallby AIF | Allsvenskan | Uppsala
+2026-06-26 H 1-1 v Djurgardens IF | Friendlies Clubs | ?
+2026-05-30 A 3-0 v AIK Stockholm | Allsvenskan | Solna
+2026-05-24 H 2-1 v Gais | Allsvenskan | Uppsala
+Listed home: 10 games, scored 18 (1.80), conceded 17 (1.70), blanks 2, clean sheets 1
+Listed away: 10 games, scored 20 (2.00), conceded 8 (0.80), blanks 0, clean sheets 5
+All: 20 games, scored 38 (1.90), conceded 25 (1.25), blanks 2, clean sheets 6
+
+(retrying Hammarby using the opponent's country, Sweden)
+"Hammarby" matches several teams. Use id:<number> instead of the name:
+  id:363    Hammarby FF (Sweden)
+  id:7982   Hammarby U19 (Jamaica)
+  id:15630  Hammarby W (Sweden)
+  id:16596  Hammarby Talang (Sweden)
+!! Hammarby: Ambiguous team name "Hammarby".
+
+TABLE FOR Sirius
+LEAGUE TABLE Allsvenskan 2026 | 16 teams | 205 games played
+League averages per game: home 1.57, away 1.34, total 2.91
+#   team                   Pts | home P GF-GA  | away P GF-GA  | all P GF-GA
+1   Sirius                  55 | 13  28-19      | 12  28-13      | 25  56-32
+2   Hammarby FF             49 | 12  34-7       | 13  18-14      | 25  52-21
+3   Djurgardens IF          49 | 13  32-16      | 13  21-8       | 26  53-24
+4   BK Hacken               46 | 13  25-18      | 13  22-12      | 26  47-30
+5   IF Elfsborg             43 | 13  21-9       | 13  18-17      | 26  39-26
+6   Vasteras SK FK          41 | 13  19-15      | 13  20-23      | 26  39-38
+7   Malmo FF                40 | 13  25-21      | 13  16-13      | 26  41-34
+8   AIK Stockholm           38 | 13  21-29      | 13  21-16      | 26  42-45
+9   IFK Goteborg            38 | 13  17-14      | 13  19-31      | 26  36-45
+10  IF Brommapojkarna       34 | 13  15-15      | 13  24-28      | 26  39-43
+11  Gais                    31 | 13  17-6       | 12  14-20      | 25  31-26
+12  Mjallby AIF             23 | 13  12-21      | 12  16-21      | 25  28-42
+13  Kalmar FF               22 | 12  14-20      | 13   9-21      | 25  23-41
+14  Degerfors IF            20 | 13  12-20      | 13   9-24      | 26  21-44
+15  Orgryte IS              19 | 12  21-22      | 13  10-34      | 25  31-56
+16  Halmstad                17 | 13   9-22      | 13   9-27      | 26  18-49
+
+(14 API-Football requests used)
+
+----------------------------------------------------------------------
+MATCHBOOK: skipped (switched off for this run)

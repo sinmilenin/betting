@@ -1,0 +1,92 @@
+MATCH Braga v Famalicao | fetched 2026-10-29 12:54 local
+
+FORM DATA Braga v Famalicao | source API-Football | 2026-10-29 12:54 UTC
+H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
+
+"Braga" matches several teams. Use id:<number> instead of the name:
+  id:217    SC Braga (Portugal)
+  id:246    SC Braga B (Portugal)
+  id:794    RB Bragantino (Brazil)
+  id:2207   Bragantino PA (Brazil)
+  id:4827   Bragança (Portugal)
+  id:6849   Bragadiru (Romania)
+  id:10905  Sporting Braga W (Portugal)
+  id:12955  Bragantino PA U20 (Brazil)
+  id:15469  Sporting Braga U23 (Portugal)
+  id:16053  RB Bragantino U23 (Brazil)
+  id:18345  RB Bragantino U20 (Brazil)
+  id:18728  RB Bragantino W (Brazil)
+  id:22211  RB Bragantino B (Brazil)
+  id:22375  Sporting Braga U19 (Portugal)
+  id:24485  RB Bragantino U17 (Brazil)
+=== Famalicao (id 242): last 20 finished games ===
+2026-10-25 A 4-0 v Rio Ave | Primeira Liga | Condi Town | xG 1.65-0.58
+2026-10-18 A 0-1 v Paredes | Taça de Portugal | Paredes
+2026-10-12 H 1-4 v Alverca | Primeira Liga | Vila Nova de Famalicao | xG 0.36-2.89
+2026-09-19 A 4-0 v Nacional | Primeira Liga | Funchal | xG 1.45-1.23
+2026-09-13 H 1-1 v Sporting CP | Primeira Liga | Vila Nova de Famalicao | xG 0.35-2.28
+2026-09-05 A 2-2 v Estrela | Primeira Liga | Amadora | xG 1.80-0.94
+2026-08-30 H 0-0 v GIL Vicente | Primeira Liga | Vila Nova de Famalicao | xG 0.23-0.28
+2026-08-23 A 0-1 v Santa Clara | Primeira Liga | Ponta Delgada | xG 1.05-1.36
+2026-08-16 H 1-2 v Maritimo | Primeira Liga | Vila Nova de Famalicao | xG 0.71-1.64
+2026-08-07 A 1-1 v Estoril | Primeira Liga | Estoril | xG 1.47-1.06
+2026-07-31 H 2-3 v Como | Como Cup | Como
+2026-07-28 A 0-0 v Lens | Como Cup | Como [PEN, 90-min score shown]
+2026-07-28 H 0-0 v Crystal Palace | Como Cup | Como [PEN, 90-min score shown]
+2026-07-25 H 1-0 v Tondela | Friendlies Clubs | ?
+2026-07-22 H 0-0 v Arouca | Friendlies Clubs | ?
+2026-07-18 H 0-0 v Penafiel | Friendlies Clubs | ?
+2026-07-15 H 1-0 v Lusitânia Lourosa | Friendlies Clubs | ?
+2026-07-11 H 5-0 v Famalicão U23 | Friendlies Clubs | ?
+2026-05-16 H 1-0 v Alverca | Primeira Liga | Vila Nova de Famalicao
+2026-05-11 A 0-0 v Estrela | Primeira Liga | Amadora
+Listed home: 12 games, scored 13 (1.08), conceded 10 (0.83), blanks 4, clean sheets 8
+Listed away: 8 games, scored 11 (1.38), conceded 5 (0.62), blanks 4, clean sheets 4
+All: 20 games, scored 24 (1.20), conceded 15 (0.75), blanks 8, clean sheets 12
+
+(retrying Braga using the opponent's country, Portugal)
+"Braga" matches several teams. Use id:<number> instead of the name:
+  id:217    SC Braga (Portugal)
+  id:246    SC Braga B (Portugal)
+  id:794    RB Bragantino (Brazil)
+  id:2207   Bragantino PA (Brazil)
+  id:4827   Bragança (Portugal)
+  id:6849   Bragadiru (Romania)
+  id:10905  Sporting Braga W (Portugal)
+  id:12955  Bragantino PA U20 (Brazil)
+  id:15469  Sporting Braga U23 (Portugal)
+  id:16053  RB Bragantino U23 (Brazil)
+  id:18345  RB Bragantino U20 (Brazil)
+  id:18728  RB Bragantino W (Brazil)
+  id:22211  RB Bragantino B (Brazil)
+  id:22375  Sporting Braga U19 (Portugal)
+  id:24485  RB Bragantino U17 (Brazil)
+!! Braga: Ambiguous team name "Braga".
+
+TABLE FOR Famalicao
+LEAGUE TABLE Primeira Liga 2026 | 18 teams | 81 games played
+League averages per game: home 1.27, away 1.47, total 2.74
+#   team                   Pts | home P GF-GA  | away P GF-GA  | all P GF-GA
+1   FC Porto                27 |  4   9-2       |  5  12-2       |  9  21-4
+2   Benfica                 22 |  4   9-4       |  5  17-4       |  9  26-8
+3   Sporting CP             18 |  5  11-7       |  4  10-4       |  9  21-11
+4   Santa Clara             18 |  5   8-4       |  4   5-2       |  9  13-6
+5   Arouca                  17 |  4   8-3       |  5   4-4       |  9  12-7
+6   Academico Viseu         17 |  4   4-6       |  5   9-5       |  9  13-11
+7   GIL Vicente             14 |  5   4-3       |  4   4-4       |  9   8-7
+8   Alverca                 11 |  5   5-6       |  4   8-7       |  9  13-13
+9   SC Braga                11 |  4   4-5       |  5   5-6       |  9   9-11
+10  Moreirense              11 |  4   5-8       |  5   6-8       |  9  11-16
+11  Famalicao               10 |  4   3-7       |  5  11-4       |  9  14-11
+12  Estrela                 10 |  5   6-9       |  4   8-8       |  9  14-17
+13  Vitória SC               8 |  5   7-2       |  4   3-8       |  9  10-10
+14  Maritimo                 8 |  4   4-7       |  5   5-12      |  9   9-19
+15  Nacional                 7 |  5   6-10      |  4   4-8       |  9  10-18
+16  Casa Pia                 7 |  4   1-13      |  5   4-4       |  9   5-17
+17  Rio Ave                  7 |  5   6-15      |  4   2-6       |  9   8-21
+18  Estoril                  2 |  5   3-8       |  4   2-7       |  9   5-15
+
+(15 API-Football requests used)
+
+----------------------------------------------------------------------
+MATCHBOOK: skipped (switched off for this run)
