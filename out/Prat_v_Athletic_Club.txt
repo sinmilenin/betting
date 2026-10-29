@@ -1,0 +1,117 @@
+MATCH Prat v Athletic Club | fetched 2026-10-29 18:04 local
+
+FORM DATA Prat v Athletic Club | source API-Football | 2026-10-29 18:04 UTC
+H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
+
+=== Prat (id 9592): last 20 finished games ===
+2026-10-11 H 5-0 v San Rafael | Copa del Rey | ?
+2026-09-27 A 5-1 v San Rafael | Copa del Rey | ?
+2025-05-10 A 0-6 v Atlètic Lleida | Tercera División RFEF - Group 5 | Lleida
+2025-05-04 H 2-2 v Peralada | Tercera División RFEF - Group 5 | El Prat de Llobregat
+2025-04-27 A 0-5 v Mollerussa | Tercera División RFEF - Group 5 | Mollerussa
+2025-04-18 H 0-2 v L'Hospitalet | Tercera División RFEF - Group 5 | El Prat de Llobregat
+2025-04-13 A 0-0 v L'Escala | Tercera División RFEF - Group 5 | L'Escala
+2025-04-06 H 0-1 v Badalona II | Tercera División RFEF - Group 5 | El Prat de Llobregat
+2025-03-30 A 3-2 v Tona | Tercera División RFEF - Group 5 | Tona
+2025-03-23 H 0-1 v Cerdanyola del Vallès | Tercera División RFEF - Group 5 | El Prat de Llobregat
+2025-03-16 A 2-4 v Reddis | Tercera División RFEF - Group 5 | Reus
+2025-03-09 H 1-2 v Sabadell II | Tercera División RFEF - Group 5 | El Prat de Llobregat
+2025-03-02 A 0-1 v San Cristóbal | Tercera División RFEF - Group 5 | Tarrasa
+2025-02-23 H 1-2 v Girona II | Tercera División RFEF - Group 5 | El Prat de Llobregat
+2025-02-16 A 1-2 v Grama | Tercera División RFEF - Group 5 | Santa Coloma de Gramenet
+2025-02-09 A 2-2 v Montañesa | Tercera División RFEF - Group 5 | Barcelona
+2025-02-02 H 1-1 v Manresa | Tercera División RFEF - Group 5 | El Prat de Llobregat
+2025-01-26 A 2-2 v Vilassar Mar | Tercera División RFEF - Group 5 | Vilassar de Mar
+2025-01-19 H 0-2 v Europa II | Tercera División RFEF - Group 5 | El Prat de Llobregat
+2025-01-12 H 2-4 v Atlètic Lleida | Tercera División RFEF - Group 5 | El Prat de Llobregat
+Listed home: 10 games, scored 12 (1.20), conceded 17 (1.70), blanks 4, clean sheets 1
+Listed away: 10 games, scored 15 (1.50), conceded 25 (2.50), blanks 4, clean sheets 1
+All: 20 games, scored 27 (1.35), conceded 42 (2.10), blanks 8, clean sheets 2
+
+"Athletic Club" matches several teams. Use id:<number> instead of the name:
+  id:531    Athletic Club (Spain)
+  id:1905   Athletic Club W (Spain)
+  id:9579   Athletic Club II (Spain)
+  id:12257  Athletic Club (Paraguay)
+  id:13975  Athletic Club (Brazil)
+  id:22414  Athletic Club U21 (Spain)
+  id:23643  Athletic Club MG U20 (Brazil)
+(retrying Athletic Club using the opponent's country, Spain)
+NOTE: "Athletic Club" matched 3 teams; picked Athletic Club (Spain) because the opponent is from Spain. Others: Athletic Club (Paraguay), Athletic Club (Brazil)
+=== Athletic Club (id 531): last 20 finished games ===
+2026-10-25 H 4-0 v Getafe | La Liga | Bilbao | xG 0.74-0.41
+2026-10-21 A 1-3 v Levante | La Liga | Valencia | xG 1.90-1.97
+2026-10-17 A 0-0 v Valencia | La Liga | Valdivia | xG 0.59-1.41
+2026-10-02 A 1-0 v Real Sociedad | Friendlies Clubs | ?
+2026-09-19 H 0-0 v Alaves | La Liga | Bilbao | xG 1.62-0.05
+2026-09-12 H 1-1 v Elche | La Liga | Bilbao | xG 2.39-0.84
+2026-09-05 H 3-0 v Atletico Madrid | La Liga | Bilbao | xG 1.41-1.02
+2026-08-30 A 2-0 v Celta Vigo | La Liga | Vigo | xG 2.78-0.75
+2026-08-27 A 0-2 v Barcelona | La Liga | Barcelona | xG 0.25-4.23
+2026-08-22 H 1-3 v Sevilla | La Liga | Bilbao | xG 1.25-0.41
+2026-08-21 A 1-3 v Zaragoza | Friendlies Clubs | ?
+2026-08-14 A 0-1 v Atalanta | Friendlies Clubs | ?
+2026-08-09 A 1-3 v Marseille | Friendlies Clubs | ?
+2026-08-01 A 3-0 v Burgos | Friendlies Clubs | ?
+2026-07-29 A 3-0 v Racing Santander | Friendlies Clubs | ?
+2026-07-25 H 2-2 v Eibar | Friendlies Clubs | ?
+2026-07-22 A 2-0 v Sestao River | Friendlies Clubs | ?
+2026-07-18 A 11-0 v Leioa | Friendlies Clubs | ?
+2026-07-15 A 3-0 v Derio | Friendlies Clubs | ?
+2026-05-23 A 2-4 v Real Madrid | La Liga | Madrid
+Listed home: 6 games, scored 11 (1.83), conceded 6 (1.00), blanks 1, clean sheets 3
+Listed away: 14 games, scored 30 (2.14), conceded 16 (1.14), blanks 3, clean sheets 8
+All: 20 games, scored 41 (2.05), conceded 22 (1.10), blanks 4, clean sheets 11
+
+TABLE FOR Prat
+LEAGUE TABLE Tercera División RFEF - Group 5 2024 | 18 teams | 306 games played
+League averages per game: home 1.35, away 1.17, total 2.52
+#   team                   Pts | home P GF-GA  | away P GF-GA  | all P GF-GA
+1   Reddis                  71 | 17  32-11      | 17  26-17      | 34  58-28
+2   Atlètic Lleida          61 | 17  30-14      | 17  28-16      | 34  58-30
+3   Girona II               57 | 17  37-28      | 17  23-14      | 34  60-42
+4   Peralada                56 | 17  27-19      | 17  16-13      | 34  43-32
+5   Badalona II             55 | 17  28-15      | 17  24-25      | 34  52-40
+6   Tona                    53 | 17  24-17      | 17  25-27      | 34  49-44
+7   L'Hospitalet            52 | 17  27-12      | 17  16-20      | 34  43-32
+8   Grama                   47 | 17  20-21      | 17  32-26      | 34  52-47
+9   Manresa                 46 | 17  17-15      | 17  16-27      | 34  33-42
+10  Europa II               43 | 17  19-28      | 17  26-25      | 34  45-53
+11  L'Escala                42 | 17  22-15      | 17  11-26      | 34  33-41
+12  Cerdanyola del Vallès   42 | 17  19-23      | 17  16-21      | 34  35-44
+13  Mollerussa              41 | 17  32-27      | 17  21-29      | 34  53-56
+14  Montañesa               40 | 17  23-17      | 17  14-22      | 34  37-39
+15  San Cristóbal           38 | 17  12-21      | 17  14-19      | 34  26-40
+16  Vilassar Mar            33 | 17  16-26      | 17  11-25      | 34  27-51
+17  Sabadell II             30 | 17  14-24      | 17  25-31      | 34  39-55
+18  Prat                    25 | 17  13-26      | 17  15-29      | 34  28-55
+
+TABLE FOR Athletic Club
+LEAGUE TABLE La Liga 2026 | 20 teams | 99 games played
+League averages per game: home 1.70, away 1.31, total 3.01
+#   team                   Pts | home P GF-GA  | away P GF-GA  | all P GF-GA
+1   Barcelona               27 |  5  18-6       |  5  22-5       | 10  40-11
+2   Atletico Madrid         25 |  5  11-3       |  5   9-5       | 10  20-8
+3   Real Madrid             24 |  5  17-3       |  5   8-7       | 10  25-10
+4   Real Betis              20 |  5  10-7       |  5   6-7       | 10  16-14
+5   Real Sociedad           19 |  5   7-7       |  5  12-11      | 10  19-18
+6   Sevilla                 17 |  5   7-7       |  5   9-9       | 10  16-16
+7   Alaves                  12 |  6  11-6       |  4   3-5       | 10  14-11
+8   Athletic Club           12 |  5   9-4       |  4   3-5       |  9  12-9
+9   Celta Vigo              12 |  6   9-6       |  4   1-1       | 10  10-7
+10  Villarreal              12 |  4   6-6       |  6   9-8       | 10  15-14
+11  Deportivo La Coruna     11 |  5   6-5       |  5   7-8       | 10  13-13
+12  Osasuna                 11 |  5   4-3       |  5   6-17      | 10  10-20
+13  Racing Santander        11 |  5  11-8       |  5   4-18      | 10  15-26
+14  Levante                 10 |  4  13-10      |  6   3-9       | 10  16-19
+15  Elche                   10 |  4   4-11      |  6  10-6       | 10  14-17
+16  Rayo Vallecano           9 |  4   6-7       |  5   6-13      |  9  12-20
+17  Getafe                   9 |  5   5-3       |  5   0-12      | 10   5-15
+18  Espanyol                 8 |  5   6-7       |  5   6-7       | 10  12-14
+19  Valencia                 6 |  6   3-11      |  4   4-6       | 10   7-17
+20  Malaga                   5 |  5   5-10      |  5   2-9       | 10   7-19
+
+(28 API-Football requests used)
+
+----------------------------------------------------------------------
+MATCHBOOK: skipped (switched off for this run)

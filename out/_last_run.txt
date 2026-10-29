@@ -1,4 +1,3 @@
-RUN 2026-10-29 18:02 local | 1 match(es)
-Prat v Athletic Bilbao -> out/Prat_v_Athletic_Bilbao.txt
-    !! Athletic Bilbao: No team found for "Athletic Bilbao".
-Requests used: API-Football 15, Matchbook 0
+RUN 2026-10-29 18:04 local | 1 match(es)
+Prat v Athletic Club -> out/Prat_v_Athletic_Club.txt
+Requests used: API-Football 28, Matchbook 0
