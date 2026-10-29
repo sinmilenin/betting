@@ -1,6 +1,3 @@
-RUN 2026-10-29 18:42 local | 3 match(es)
-CD Varea v FC Andorra -> out/CD_Varea_v_FC_Andorra.txt
-    !! CD Varea: No team found for "CD Varea".
-Gloria Bistrita v FCSB -> out/Gloria_Bistrita_v_FCSB.txt
-Auriense v Deportivo La Coruna -> out/Auriense_v_Deportivo_La_Coruna.txt
-Requests used: API-Football 48, Matchbook 0
+RUN 2026-10-29 18:47 local | 1 match(es)
+Benfica v Gil Vicente -> out/Benfica_v_Gil_Vicente.txt
+Requests used: API-Football 26, Matchbook 0
