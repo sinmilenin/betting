@@ -1,17 +1,7 @@
-RUN 2026-10-29 12:54 local | 10 match(es)
-Al Nassr v Al Kholood -> out/Al_Nassr_v_Al_Kholood.txt
-Kalmar v GAIS -> out/Kalmar_v_GAIS.txt
-    !! Kalmar: Ambiguous team name "Kalmar".
-Hammarby v Sirius -> out/Hammarby_v_Sirius.txt
-    !! Hammarby: Ambiguous team name "Hammarby".
-Orgryte v Mjallby -> out/Orgryte_v_Mjallby.txt
-    !! Orgryte: Ambiguous team name "Orgryte".
-Atletico Mineiro v Cruzeiro -> out/Atletico_Mineiro_v_Cruzeiro.txt
-Pyramids v Wadi Degla -> out/Pyramids_v_Wadi_Degla.txt
-Braga v Famalicao -> out/Braga_v_Famalicao.txt
-    !! Braga: Ambiguous team name "Braga".
-Guijuelo v Sporting Gijon -> out/Guijuelo_v_Sporting_Gijon.txt
-Lebrijana v Getafe -> out/Lebrijana_v_Getafe.txt
-Sporting Hortaleza v Sevilla -> out/Sporting_Hortaleza_v_Sevilla.txt
-    !! Sporting Hortaleza: No team found for "Sporting Hortaleza".
-Requests used: API-Football 192, Matchbook 0
+RUN 2026-10-29 12:55 local | 5 match(es)
+id:374 v GAIS -> out/id_374_v_GAIS.txt
+id:363 v Sirius -> out/id_363_v_Sirius.txt
+id:2166 v Mjallby -> out/id_2166_v_Mjallby.txt
+id:217 v Famalicao -> out/id_217_v_Famalicao.txt
+Hortaleza v Sevilla -> out/Hortaleza_v_Sevilla.txt
+Requests used: API-Football 116, Matchbook 0

@@ -1,7 +1,14 @@
-MATCH Sporting Hortaleza v Sevilla | fetched 2026-10-29 12:54 local
+MATCH Hortaleza v Sevilla | fetched 2026-10-29 12:55 local
 
-FORM DATA Sporting Hortaleza v Sevilla | source API-Football | 2026-10-29 12:54 UTC
+FORM DATA Hortaleza v Sevilla | source API-Football | 2026-10-29 12:56 UTC
 H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
+
+=== Hortaleza (id 28411): last 2 finished games ===
+2026-10-11 A 2-3 v Güímar | Copa del Rey | ? [AET, 90-min score shown]
+2026-09-27 H 1-0 v Güímar | Copa del Rey | ?
+Listed home: 1 games, scored 1 (1.00), conceded 0 (0.00), blanks 0, clean sheets 1
+Listed away: 1 games, scored 2 (2.00), conceded 3 (3.00), blanks 0, clean sheets 0
+All: 2 games, scored 3 (1.50), conceded 3 (1.50), blanks 0, clean sheets 1
 
 === Sevilla (id 536): last 20 finished games ===
 2026-10-26 H 2-0 v Osasuna | La Liga | Seville | xG 1.20-0.63
@@ -28,7 +35,7 @@ Listed home: 9 games, scored 11 (1.22), conceded 12 (1.33), blanks 1, clean shee
 Listed away: 11 games, scored 13 (1.18), conceded 14 (1.27), blanks 3, clean sheets 3
 All: 20 games, scored 24 (1.20), conceded 26 (1.30), blanks 4, clean sheets 6
 
-!! Sporting Hortaleza: No team found for "Sporting Hortaleza".
+(no league table available for Hortaleza: tried Copa del Rey 2026)
 
 TABLE FOR Sevilla
 LEAGUE TABLE La Liga 2026 | 20 teams | 99 games played
@@ -55,7 +62,7 @@ League averages per game: home 1.70, away 1.31, total 3.01
 19  Valencia                 6 |  6   3-11      |  4   4-6       | 10   7-17
 20  Malaga                   5 |  5   5-10      |  5   2-9       | 10   7-19
 
-(13 API-Football requests used)
+(18 API-Football requests used)
 
 ----------------------------------------------------------------------
 MATCHBOOK: skipped (switched off for this run)

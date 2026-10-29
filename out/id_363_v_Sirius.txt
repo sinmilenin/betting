@@ -1,13 +1,33 @@
-MATCH Hammarby v Sirius | fetched 2026-10-29 12:54 local
+MATCH id:363 v Sirius | fetched 2026-10-29 12:55 local
 
-FORM DATA Hammarby v Sirius | source API-Football | 2026-10-29 12:54 UTC
+FORM DATA id:363 v Sirius | source API-Football | 2026-10-29 12:55 UTC
 H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
 
-"Hammarby" matches several teams. Use id:<number> instead of the name:
-  id:363    Hammarby FF (Sweden)
-  id:7982   Hammarby U19 (Jamaica)
-  id:15630  Hammarby W (Sweden)
-  id:16596  Hammarby Talang (Sweden)
+=== Hammarby FF (id 363): last 20 finished games ===
+2026-10-25 A 2-0 v Mjallby AIF | Allsvenskan | Hallevik | xG 1.33-0.40
+2026-10-18 A 1-0 v Halmstad | Allsvenskan | Halmstad | xG 1.61-0.33
+2026-10-11 H 0-1 v Djurgardens IF | Allsvenskan | Stockholm | xG 1.01-1.75
+2026-10-03 H 1-0 v Vasteras SK FK | Friendlies Clubs | ?
+2026-09-20 A 1-0 v Degerfors IF | Allsvenskan | Degfors | xG 2.38-1.98
+2026-09-13 H 3-1 v IF Brommapojkarna | Allsvenskan | Stockholm | xG 2.02-1.00
+2026-09-06 A 1-1 v Orgryte IS | Allsvenskan | Gothenburg | xG 4.81-0.77
+2026-08-30 A 2-3 v AIK Stockholm | Allsvenskan | Solna | xG 4.26-1.91
+2026-08-26 A 3-0 v Stockholm Internazionale | Svenska Cupen | ?
+2026-08-23 H 2-0 v Gais | Allsvenskan | Stockholm | xG 3.00-1.01
+2026-08-16 A 4-0 v Kalmar FF | Allsvenskan | Kalmar
+2026-08-13 H 0-1 v Raków Częstochowa | UEFA Europa Conference League | Stockholm
+2026-08-09 H 3-0 v BK Hacken | Allsvenskan | Stockholm
+2026-08-06 A 0-0 v Raków Częstochowa | UEFA Europa Conference League | Czestochowa
+2026-07-30 A 1-3 v Anderlecht | UEFA Europa League | Brussels
+2026-07-26 A 1-1 v IF Brommapojkarna | Allsvenskan | Stockholm
+2026-07-23 H 1-1 v Anderlecht | UEFA Europa League | Stockholm
+2026-07-19 H 4-0 v Degerfors IF | Allsvenskan | Stockholm
+2026-07-12 H 2-0 v Kalmar FF | Allsvenskan | Stockholm
+2026-07-05 A 2-1 v IF Elfsborg | Allsvenskan | Boras
+Listed home: 9 games, scored 16 (1.78), conceded 4 (0.44), blanks 2, clean sheets 5
+Listed away: 11 games, scored 18 (1.64), conceded 9 (0.82), blanks 1, clean sheets 6
+All: 20 games, scored 34 (1.70), conceded 13 (0.65), blanks 3, clean sheets 11
+
 === Sirius (id 370): last 20 finished games ===
 2026-10-24 H 1-2 v AIK Stockholm | Allsvenskan | Uppsala | xG 2.69-1.65
 2026-10-18 H 2-2 v IF Elfsborg | Allsvenskan | Uppsala | xG 1.48-1.19
@@ -33,15 +53,7 @@ Listed home: 10 games, scored 18 (1.80), conceded 17 (1.70), blanks 2, clean she
 Listed away: 10 games, scored 20 (2.00), conceded 8 (0.80), blanks 0, clean sheets 5
 All: 20 games, scored 38 (1.90), conceded 25 (1.25), blanks 2, clean sheets 6
 
-(retrying Hammarby using the opponent's country, Sweden)
-"Hammarby" matches several teams. Use id:<number> instead of the name:
-  id:363    Hammarby FF (Sweden)
-  id:7982   Hammarby U19 (Jamaica)
-  id:15630  Hammarby W (Sweden)
-  id:16596  Hammarby Talang (Sweden)
-!! Hammarby: Ambiguous team name "Hammarby".
-
-TABLE FOR Sirius
+TABLE FOR Hammarby FF
 LEAGUE TABLE Allsvenskan 2026 | 16 teams | 205 games played
 League averages per game: home 1.57, away 1.34, total 2.91
 #   team                   Pts | home P GF-GA  | away P GF-GA  | all P GF-GA
@@ -62,7 +74,9 @@ League averages per game: home 1.57, away 1.34, total 2.91
 15  Orgryte IS              19 | 12  21-22      | 13  10-34      | 25  31-56
 16  Halmstad                17 | 13   9-22      | 13   9-27      | 26  18-49
 
-(14 API-Football requests used)
+(Sirius: same table as Hammarby FF, shown above)
+
+(24 API-Football requests used)
 
 ----------------------------------------------------------------------
 MATCHBOOK: skipped (switched off for this run)
