@@ -218,5 +218,49 @@
     "lay": 15,
     "stake": 3,
     "created": "2026-10-29T13:45:20+00:00"
+  },
+  {
+    "id": "2026-10-29_paris-fc-w-bk-hacken-w_1-0",
+    "date": "2026-10-29",
+    "ko": "18:45",
+    "match": "Paris FC (W) v BK Hacken (W)",
+    "comp": "International, UEFA Women's Champions League",
+    "cell": "1-0",
+    "lay": 14,
+    "stake": 3,
+    "created": "2026-10-29T15:06:25Z"
+  },
+  {
+    "id": "2026-10-29_paris-fc-w-bk-hacken-w_2-1",
+    "date": "2026-10-29",
+    "ko": "18:45",
+    "match": "Paris FC (W) v BK Hacken (W)",
+    "comp": "International, UEFA Women's Champions League",
+    "cell": "2-1",
+    "lay": 11,
+    "stake": 3,
+    "created": "2026-10-29T15:06:25Z"
+  },
+  {
+    "id": "2026-10-29_fk-austria-wien-w-juventus-fc-w_1-2",
+    "date": "2026-10-29",
+    "ko": "18:45",
+    "match": "FK Austria Wien (W) v Juventus FC (W)",
+    "comp": "International, UEFA Women's Champions League",
+    "cell": "1-2",
+    "lay": 10.5,
+    "stake": 3,
+    "created": "2026-10-29T15:06:25Z"
+  },
+  {
+    "id": "2026-10-29_fk-austria-wien-w-juventus-fc-w_0-1",
+    "date": "2026-10-29",
+    "ko": "18:45",
+    "match": "FK Austria Wien (W) v Juventus FC (W)",
+    "comp": "International, UEFA Women's Champions League",
+    "cell": "0-1",
+    "lay": 10.5,
+    "stake": 3,
+    "created": "2026-10-29T15:06:25Z"
   }
 ]
