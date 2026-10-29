@@ -1,5 +1,3 @@
-# Scan 29.10 17:31: Voluntari, Pena Sport, Eskisehirspor, Antequera
-FC Voluntari v Universitatea Craiova | n=20 | xg=10
-Pena Sport v Huesca | n=20 | xg=10
-Eskisehirspor v Igdir | n=20 | xg=10
-Antequera v Aguilas | n=20 | xg=10
+# Scan 29.10 17:31 retry (Igdir FK, Aguilas id)
+Eskisehirspor v Igdir FK | n=20 | xg=10
+Antequera v id:9823 | n=20 | xg=10
