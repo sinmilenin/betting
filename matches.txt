@@ -1,2 +1,4 @@
-# Scan 29.10 15:41 retry (Concordia senior team)
-CS Concordia Chiajna v Sepsi OSK | n=20 | xg=10
+# Scan 29.10 16:00 (new fixtures)
+Paris FC W v Hacken W | n=20 | xg=10
+Austria Wien W v Juventus W | n=20 | xg=10
+Atletico Calatayud v Osasuna | n=20 | xg=10
