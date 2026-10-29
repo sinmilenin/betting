@@ -1,52 +1,8 @@
-MATCH Benfica v Gil Vicente | fetched 2026-10-29 18:47 local
+MATCH id:211 v Gil Vicente | fetched 2026-10-29 18:49 local
 
-FORM DATA Benfica v Gil Vicente | source API-Football | 2026-10-29 18:47 UTC
+FORM DATA id:211 v Gil Vicente | source API-Football | 2026-10-29 18:49 UTC
 H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
 
-"Benfica" matches several teams. Use id:<number> instead of the name:
-  id:211    Benfica (Portugal)
-  id:229    Benfica B (Portugal)
-  id:2031   RM Hamm Benfica (Luxembourg)
-  id:4731   Benfica Castelo Branco (Portugal)
-  id:4916   Benfica Lubango (Angola)
-  id:7888   Benfica U19 (Portugal)
-  id:11141  Casa Estrella de Benfica (Andorra)
-  id:11149  Benfica Luanda (Angola)
-  id:15460  Benfica U23 (Portugal)
-  id:15495  SL Benfica W (Portugal)
-  id:17378  Abrantes e Benfica (Portugal)
-  id:17379  Arronches e Benfica (Portugal)
-  id:21201  Benfica (Macao)
-  id:22415  Benfica U21 (Portugal)
-  id:22646  Sport London e Benfica (England)
-  id:24637  CF Benfica (Portugal)
-=== GIL Vicente (id 762): last 20 finished games ===
-2026-10-24 H 0-1 v FC Porto | Primeira Liga | Barcelos | xG 0.35-1.08
-2026-10-19 A 2-1 v SC Braga | Primeira Liga | Braga | xG 1.52-1.35
-2026-10-14 A 2-2 v União Santarém | Taça de Portugal | Santarem [AET, 90-min score shown]
-2026-10-09 A 1-0 v Moreirense | Primeira Liga | Moreira de Conegos | xG 1.49-1.09
-2026-09-19 H 1-1 v Maritimo | Primeira Liga | Barcelos | xG 1.20-0.86
-2026-09-13 A 1-3 v Benfica | Primeira Liga | Lisbon | xG 1.11-2.90
-2026-09-06 H 0-1 v Academico Viseu | Primeira Liga | Barcelos | xG 1.88-0.33
-2026-08-30 A 0-0 v Famalicao | Primeira Liga | Vila Nova de Famalicao | xG 0.28-0.23
-2026-08-24 H 2-0 v Casa Pia | Primeira Liga | Barcelos | xG 1.74-0.76
-2026-08-09 H 1-0 v Rio Ave | Primeira Liga | Barcelos | xG 1.66-0.19
-2026-07-25 H 2-2 v Moreirense | Friendlies Clubs | ?
-2026-07-22 H 1-0 v FC Porto | Friendlies Clubs | ?
-2026-07-18 H 1-1 v Felgueiras 1932 | Friendlies Clubs | ?
-2026-05-16 A 0-3 v Sporting CP | Primeira Liga | Lisbon
-2026-05-11 H 1-3 v Arouca | Primeira Liga | Barcelos
-2026-05-03 A 0-0 v Rio Ave | Primeira Liga | Vila do Conde
-2026-04-27 H 2-1 v Casa Pia | Primeira Liga | Barcelos
-2026-04-18 H 0-1 v Vitória SC | Primeira Liga | Barcelos
-2026-04-13 A 2-2 v Tondela | Primeira Liga | Tondela
-2026-04-03 H 3-0 v AVS | Primeira Liga | Barcelos
-Listed home: 12 games, scored 14 (1.17), conceded 11 (0.92), blanks 3, clean sheets 4
-Listed away: 8 games, scored 8 (1.00), conceded 11 (1.38), blanks 3, clean sheets 3
-All: 20 games, scored 22 (1.10), conceded 22 (1.10), blanks 6, clean sheets 7
-
-(retrying Benfica using the opponent's country, Portugal)
-NOTE: "Benfica" matched 2 teams; picked Benfica (Portugal) because the opponent is from Portugal. Others: Benfica (Macao)
 === Benfica (id 211): last 20 finished games ===
 2026-10-26 A 2-1 v Santa Clara | Primeira Liga | Ponta Delgada | xG 1.83-1.60
 2026-10-22 A 4-1 v Omonia Nicosia | UEFA Europa League | Nicosia | xG 3.08-0.91
@@ -72,7 +28,32 @@ Listed home: 10 games, scored 34 (3.40), conceded 8 (0.80), blanks 0, clean shee
 Listed away: 10 games, scored 28 (2.80), conceded 9 (0.90), blanks 0, clean sheets 4
 All: 20 games, scored 62 (3.10), conceded 17 (0.85), blanks 0, clean sheets 7
 
-TABLE FOR GIL Vicente
+=== GIL Vicente (id 762): last 20 finished games ===
+2026-10-24 H 0-1 v FC Porto | Primeira Liga | Barcelos | xG 0.35-1.08
+2026-10-19 A 2-1 v SC Braga | Primeira Liga | Braga | xG 1.52-1.35
+2026-10-14 A 2-2 v União Santarém | Taça de Portugal | Santarem [AET, 90-min score shown]
+2026-10-09 A 1-0 v Moreirense | Primeira Liga | Moreira de Conegos | xG 1.49-1.09
+2026-09-19 H 1-1 v Maritimo | Primeira Liga | Barcelos | xG 1.20-0.86
+2026-09-13 A 1-3 v Benfica | Primeira Liga | Lisbon | xG 1.11-2.90
+2026-09-06 H 0-1 v Academico Viseu | Primeira Liga | Barcelos | xG 1.88-0.33
+2026-08-30 A 0-0 v Famalicao | Primeira Liga | Vila Nova de Famalicao | xG 0.28-0.23
+2026-08-24 H 2-0 v Casa Pia | Primeira Liga | Barcelos | xG 1.74-0.76
+2026-08-09 H 1-0 v Rio Ave | Primeira Liga | Barcelos | xG 1.66-0.19
+2026-07-25 H 2-2 v Moreirense | Friendlies Clubs | ?
+2026-07-22 H 1-0 v FC Porto | Friendlies Clubs | ?
+2026-07-18 H 1-1 v Felgueiras 1932 | Friendlies Clubs | ?
+2026-05-16 A 0-3 v Sporting CP | Primeira Liga | Lisbon
+2026-05-11 H 1-3 v Arouca | Primeira Liga | Barcelos
+2026-05-03 A 0-0 v Rio Ave | Primeira Liga | Vila do Conde
+2026-04-27 H 2-1 v Casa Pia | Primeira Liga | Barcelos
+2026-04-18 H 0-1 v Vitória SC | Primeira Liga | Barcelos
+2026-04-13 A 2-2 v Tondela | Primeira Liga | Tondela
+2026-04-03 H 3-0 v AVS | Primeira Liga | Barcelos
+Listed home: 12 games, scored 14 (1.17), conceded 11 (0.92), blanks 3, clean sheets 4
+Listed away: 8 games, scored 8 (1.00), conceded 11 (1.38), blanks 3, clean sheets 3
+All: 20 games, scored 22 (1.10), conceded 22 (1.10), blanks 6, clean sheets 7
+
+TABLE FOR Benfica
 LEAGUE TABLE Primeira Liga 2026 | 18 teams | 81 games played
 League averages per game: home 1.27, away 1.47, total 2.74
 #   team                   Pts | home P GF-GA  | away P GF-GA  | all P GF-GA
@@ -95,9 +76,9 @@ League averages per game: home 1.27, away 1.47, total 2.74
 17  Rio Ave                  7 |  5   6-15      |  4   2-6       |  9   8-21
 18  Estoril                  2 |  5   3-8       |  4   2-7       |  9   5-15
 
-(Benfica: same table as GIL Vicente, shown above)
+(GIL Vicente: same table as Benfica, shown above)
 
-(26 API-Football requests used)
+(25 API-Football requests used)
 
 ----------------------------------------------------------------------
 MATCHBOOK: skipped (switched off for this run)
