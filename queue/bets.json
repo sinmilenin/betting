@@ -22,39 +22,6 @@
     "created": "2026-10-29T06:47:38Z"
   },
   {
-    "id": "2026-10-29_zorya-kryvbas-krivyi-rih_2-0",
-    "date": "2026-10-29",
-    "ko": "12:00",
-    "match": "Zorya v Kryvbas Krivyi Rih",
-    "comp": "Ukraine, Ukrainian Cup",
-    "cell": "2-0",
-    "lay": 8.6,
-    "stake": 3,
-    "created": "2026-10-29T09:47:17Z"
-  },
-  {
-    "id": "2026-10-29_zorya-kryvbas-krivyi-rih_3-0",
-    "date": "2026-10-29",
-    "ko": "12:00",
-    "match": "Zorya v Kryvbas Krivyi Rih",
-    "comp": "Ukraine, Ukrainian Cup",
-    "cell": "3-0",
-    "lay": 12.5,
-    "stake": 3,
-    "created": "2026-10-29T09:47:17Z"
-  },
-  {
-    "id": "2026-10-29_zorya-kryvbas-krivyi-rih_3-1",
-    "date": "2026-10-29",
-    "ko": "12:00",
-    "match": "Zorya v Kryvbas Krivyi Rih",
-    "comp": "Ukraine, Ukrainian Cup",
-    "cell": "3-1",
-    "lay": 15.5,
-    "stake": 3,
-    "created": "2026-10-29T09:47:17Z"
-  },
-  {
     "id": "2026-10-29_phnom-penh-kitchee-sc_3-0",
     "date": "2026-10-29",
     "ko": "13:15",
@@ -273,5 +240,38 @@
     "lay": 9.6,
     "stake": 3,
     "created": "2026-10-29T16:37:59Z"
+  },
+  {
+    "id": "2026-10-29_paris-fc-w-bk-hacken-w_2-0",
+    "date": "2026-10-29",
+    "ko": "18:45",
+    "match": "Paris FC (W) v BK Hacken (W)",
+    "comp": "International, UEFA Women's Champions League",
+    "cell": "2-0",
+    "lay": 16,
+    "stake": 3,
+    "created": "2026-10-29T17:21:41Z"
+  },
+  {
+    "id": "2026-10-29_fk-austria-wien-w-juventus-fc-w_2-2",
+    "date": "2026-10-29",
+    "ko": "18:45",
+    "match": "FK Austria Wien (W) v Juventus FC (W)",
+    "comp": "International, UEFA Women's Champions League",
+    "cell": "2-2",
+    "lay": 17.5,
+    "stake": 3,
+    "created": "2026-10-29T17:21:41Z"
+  },
+  {
+    "id": "2026-10-29_man-city-w-paris-st-g-w_3-0",
+    "date": "2026-10-29",
+    "ko": "21:00",
+    "match": "Man City (W) v Paris St-G (W)",
+    "comp": "International, UEFA Women's Champions League",
+    "cell": "3-0",
+    "lay": 13.5,
+    "stake": 3,
+    "created": "2026-10-29T17:21:41Z"
   }
 ]
