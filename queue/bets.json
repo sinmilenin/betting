@@ -97,5 +97,38 @@
     "lay": 10.5,
     "stake": 3,
     "created": "2026-10-29T12:05:28Z"
+  },
+  {
+    "id": "2026-10-29_wofoo-tai-po-bg-pathumthani-united_0-3",
+    "date": "2026-10-29",
+    "ko": "13:15",
+    "match": "Wofoo Tai Po v BG Pathumthani United",
+    "comp": "International, AFC Champions League Two",
+    "cell": "0-3",
+    "lay": 20,
+    "stake": 3,
+    "created": "2026-10-29T12:06:38Z"
+  },
+  {
+    "id": "2026-10-29_wofoo-tai-po-bg-pathumthani-united_1-3",
+    "date": "2026-10-29",
+    "ko": "13:15",
+    "match": "Wofoo Tai Po v BG Pathumthani United",
+    "comp": "International, AFC Champions League Two",
+    "cell": "1-3",
+    "lay": 17,
+    "stake": 3,
+    "created": "2026-10-29T12:06:38Z"
+  },
+  {
+    "id": "2026-10-29_wofoo-tai-po-bg-pathumthani-united_aoaw",
+    "date": "2026-10-29",
+    "ko": "13:15",
+    "match": "Wofoo Tai Po v BG Pathumthani United",
+    "comp": "International, AFC Champions League Two",
+    "cell": "AOAW",
+    "lay": 10.5,
+    "stake": 3,
+    "created": "2026-10-29T12:06:38Z"
   }
 ]
