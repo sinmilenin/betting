@@ -1,3 +1,2 @@
-# Scan 29.10.2026 13:02 retry (team names)
-Al Khaleej v Al-Hazm | n=20 | xg=10
-FC Noah v Syunik | n=20 | xg=10
+# Scan 29.10.2026 13:02 retry 2 (Al-Hazm)
+Al Khaleej v Hazm | n=20 | xg=10
