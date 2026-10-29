@@ -1,8 +1,4 @@
-RUN 2026-10-29 17:17 local | 5 match(es)
-Frosinone v Lecce -> out/Frosinone_v_Lecce.txt
-Fiorentina v Atalanta -> out/Fiorentina_v_Atalanta.txt
-Everton v Newcastle -> out/Everton_v_Newcastle.txt
-Arka Gdynia v id:6957 -> out/Arka_Gdynia_v_id_6957.txt
-HB Koge W v Barcelona W -> out/HB_Koge_W_v_Barcelona_W.txt
-    !! HB Koge W: No team found for "HB Koge W".
-Requests used: API-Football 114, Matchbook 0
+RUN 2026-10-29 18:02 local | 1 match(es)
+Prat v Athletic Bilbao -> out/Prat_v_Athletic_Bilbao.txt
+    !! Athletic Bilbao: No team found for "Athletic Bilbao".
+Requests used: API-Football 15, Matchbook 0
