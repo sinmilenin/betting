@@ -1,6 +1,4 @@
-RUN 2026-10-29 19:59 local | 3 match(es)
-Vasco da Gama v Flamengo -> out/Vasco_da_Gama_v_Flamengo.txt
-Universidad Catolica v LDU Quito -> out/Universidad_Catolica_v_LDU_Quito.txt
-    !! LDU Quito: Ambiguous team name "LDU Quito".
-Gremio v Athletico Paranaense -> out/Gremio_v_Athletico_Paranaense.txt
-Requests used: API-Football 66, Matchbook 0
+RUN 2026-10-29 20:00 local | 2 match(es)
+Universidad Catolica v LDU de Quito -> out/Universidad_Catolica_v_LDU_de_Quito.txt
+Gremio v Atletico Paranaense -> out/Gremio_v_Atletico_Paranaense.txt
+Requests used: API-Football 50, Matchbook 0
