@@ -1,3 +1,4 @@
-RUN 2026-10-29 18:49 local | 1 match(es)
-id:211 v Gil Vicente -> out/id_211_v_Gil_Vicente.txt
-Requests used: API-Football 25, Matchbook 0
+RUN 2026-10-29 19:28 local | 2 match(es)
+Odra Opole v Slask Wroclaw -> out/Odra_Opole_v_Slask_Wroclaw.txt
+Ribadesella v Racing Santander -> out/Ribadesella_v_Racing_Santander.txt
+Requests used: API-Football 44, Matchbook 0
