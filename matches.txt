@@ -1,3 +1,4 @@
-# Scan 29.10.2026 09:56 (AFC Champions League Two)
-Gangwon v Kuching FA | n=20 | xg=10
-Tampines Rovers v Svay Rieng | n=20 | xg=10
+# Scan 29.10.2026 10:41 (Turkish Cup, Danish Cup)
+Bitlis Ozguzelderespor v Kayserispor | n=20 | xg=10
+Genclerbirligi v Karakopru Belediyespor | n=20 | xg=10
+Aarhus Fremad v FC Copenhagen | n=20 | xg=10
