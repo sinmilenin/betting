@@ -1,13 +1,5 @@
-RUN 2026-10-29 06:42 local | 9 match(es)
-Zorya v Kryvbas -> out/Zorya_v_Kryvbas.txt
-    !! Zorya: Ambiguous team name "Zorya".
-Inter Turku v HJK -> out/Inter_Turku_v_HJK.txt
-    !! HJK: Ambiguous team name "HJK".
-Numancia v Oviedo -> out/Numancia_v_Oviedo.txt
-KuPS v Gnistan -> out/KuPS_v_Gnistan.txt
-Frosinone v Lecce -> out/Frosinone_v_Lecce.txt
-Poblense v Ceuta -> out/Poblense_v_Ceuta.txt
-Everton v Newcastle -> out/Everton_v_Newcastle.txt
-Fiorentina v Atalanta -> out/Fiorentina_v_Atalanta.txt
-Benfica v Gil Vicente -> out/Benfica_v_Gil_Vicente.txt
-Requests used: API-Football 207, Matchbook 0
+RUN 2026-10-29 06:44 local | 2 match(es)
+id:599 v Kryvbas Kryvyi Rih -> out/id_599_v_Kryvbas_Kryvyi_Rih.txt
+    !! Kryvbas Kryvyi Rih: No team found for "Kryvbas Kryvyi Rih".
+Inter Turku v id:649 -> out/Inter_Turku_v_id_649.txt
+Requests used: API-Football 39, Matchbook 0
