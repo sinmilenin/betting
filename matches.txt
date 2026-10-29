@@ -1,4 +1,2 @@
-# Scan 29.10.2026 10:41 (Turkish Cup, Danish Cup)
-Bitlis Ozguzelderespor v Kayserispor | n=20 | xg=10
-Genclerbirligi v Karakopru Belediyespor | n=20 | xg=10
-Aarhus Fremad v FC Copenhagen | n=20 | xg=10
+# Scan 29.10.2026 10:41 retry (Turkish Cup, Genclerbirligi by id)
+id:997 v Karakopru Belediyespor | n=20 | xg=10
