@@ -141,5 +141,71 @@
     "lay": 17,
     "stake": 3,
     "created": "2026-10-29T12:08:14Z"
+  },
+  {
+    "id": "2026-10-29_pyramids-wadi-degla_1-0",
+    "date": "2026-10-29",
+    "ko": "18:00",
+    "match": "Pyramids v Wadi Degla",
+    "comp": "Egypt, Egyptian Premier",
+    "cell": "1-0",
+    "lay": 7.6,
+    "stake": 3,
+    "created": "2026-10-29T13:00:36+00:00"
+  },
+  {
+    "id": "2026-10-29_kups-gnistan_aohw",
+    "date": "2026-10-29",
+    "ko": "18:00",
+    "match": "KuPS v Gnistan",
+    "comp": "Finland, Finnish Veikkausliiga",
+    "cell": "AOHW",
+    "lay": 5.9,
+    "stake": 3,
+    "created": "2026-10-29T13:00:36+00:00"
+  },
+  {
+    "id": "2026-10-29_kups-gnistan_3-0",
+    "date": "2026-10-29",
+    "ko": "18:00",
+    "match": "KuPS v Gnistan",
+    "comp": "Finland, Finnish Veikkausliiga",
+    "cell": "3-0",
+    "lay": 14.0,
+    "stake": 3,
+    "created": "2026-10-29T13:00:36+00:00"
+  },
+  {
+    "id": "2026-10-29_orgryte-mjallby_0-1",
+    "date": "2026-10-29",
+    "ko": "19:00",
+    "match": "Orgryte v Mjallby",
+    "comp": "Sweden, Swedish Allsvenskan",
+    "cell": "0-1",
+    "lay": 11.5,
+    "stake": 3,
+    "created": "2026-10-29T13:00:36+00:00"
+  },
+  {
+    "id": "2026-10-29_kalmar-ff-gais_1-0",
+    "date": "2026-10-29",
+    "ko": "19:00",
+    "match": "Kalmar FF v GAIS",
+    "comp": "Sweden, Swedish Allsvenskan",
+    "cell": "1-0",
+    "lay": 10.5,
+    "stake": 3,
+    "created": "2026-10-29T13:00:36+00:00"
+  },
+  {
+    "id": "2026-10-29_guijuelo-sporting-gijon_0-1",
+    "date": "2026-10-29",
+    "ko": "20:00",
+    "match": "Guijuelo v Sporting Gijon",
+    "comp": "Spain, Spanish Copa del Rey",
+    "cell": "0-1",
+    "lay": 7.4,
+    "stake": 3,
+    "created": "2026-10-29T13:00:36+00:00"
   }
 ]
