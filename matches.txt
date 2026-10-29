@@ -1,3 +1,5 @@
-# Scan 29.10 17:31 retry (Igdir FK, Aguilas id)
-Eskisehirspor v Igdir FK | n=20 | xg=10
-Antequera v id:9823 | n=20 | xg=10
+# Scan 29.10 18:14: new fixtures + Igdir retry
+Arka Gdynia v Stal Rzeszow | n=20 | xg=10
+Koge W v Barcelona W | n=20 | xg=10
+Manchester City W v Paris Saint Germain W | n=20 | xg=10
+Eskisehirspor v 76 Igdir Belediyespor | n=20 | xg=10
