@@ -64,5 +64,38 @@
     "lay": 15.5,
     "stake": 3,
     "created": "2026-10-29T09:47:17Z"
+  },
+  {
+    "id": "2026-10-29_phnom-penh-kitchee-sc_3-0",
+    "date": "2026-10-29",
+    "ko": "13:15",
+    "match": "Phnom Penh v Kitchee SC",
+    "comp": "International, AFC Champions League Two",
+    "cell": "3-0",
+    "lay": 20,
+    "stake": 3,
+    "created": "2026-10-29T12:05:28Z"
+  },
+  {
+    "id": "2026-10-29_genclerbirligi-karakopru-belediyespor_aohw",
+    "date": "2026-10-29",
+    "ko": "13:30",
+    "match": "Genclerbirligi v Karakopru Belediyespor",
+    "comp": "Turkey, Turkish Cup",
+    "cell": "AOHW",
+    "lay": 3.45,
+    "stake": 3,
+    "created": "2026-10-29T12:05:28Z"
+  },
+  {
+    "id": "2026-10-29_genclerbirligi-karakopru-belediyespor_3-0",
+    "date": "2026-10-29",
+    "ko": "13:30",
+    "match": "Genclerbirligi v Karakopru Belediyespor",
+    "comp": "Turkey, Turkish Cup",
+    "cell": "3-0",
+    "lay": 10.5,
+    "stake": 3,
+    "created": "2026-10-29T12:05:28Z"
   }
 ]
