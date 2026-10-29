@@ -218,5 +218,38 @@
     "lay": 18.5,
     "stake": 3,
     "created": "2026-10-29T18:48:00Z"
+  },
+  {
+    "id": "2026-10-30_univ-catolica-ecu-ldu_0-1",
+    "date": "2026-10-30",
+    "ko": "01:00",
+    "match": "Univ Catolica (Ecu) v LDU",
+    "comp": "Ecuador, Ecuadorian Cup",
+    "cell": "0-1",
+    "lay": 8,
+    "stake": 3,
+    "created": "2026-10-29T20:02:53Z"
+  },
+  {
+    "id": "2026-10-30_gremio-athletico-pr_0-1",
+    "date": "2026-10-30",
+    "ko": "01:30",
+    "match": "Gremio v Athletico-PR",
+    "comp": "Brazil, Brazilian Serie A",
+    "cell": "0-1",
+    "lay": 13,
+    "stake": 3,
+    "created": "2026-10-29T20:02:53Z"
+  },
+  {
+    "id": "2026-10-30_gremio-athletico-pr_1-0",
+    "date": "2026-10-30",
+    "ko": "01:30",
+    "match": "Gremio v Athletico-PR",
+    "comp": "Brazil, Brazilian Serie A",
+    "cell": "1-0",
+    "lay": 11,
+    "stake": 3,
+    "created": "2026-10-29T20:02:53Z"
   }
 ]
