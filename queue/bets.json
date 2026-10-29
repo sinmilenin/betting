@@ -22,17 +22,6 @@
     "created": "2026-10-29T06:47:38Z"
   },
   {
-    "id": "2026-10-29_tampines-rovers-svay-rieng-fc_0-1",
-    "date": "2026-10-29",
-    "ko": "11:00",
-    "match": "Tampines Rovers v Svay Rieng FC",
-    "comp": "International, AFC Champions League Two",
-    "cell": "0-1",
-    "lay": 20,
-    "stake": 3,
-    "created": "2026-10-29T08:59:00Z"
-  },
-  {
     "id": "2026-10-29_zorya-kryvbas-krivyi-rih_2-0",
     "date": "2026-10-29",
     "ko": "12:00",
@@ -262,5 +251,27 @@
     "lay": 10.5,
     "stake": 3,
     "created": "2026-10-29T15:06:25Z"
+  },
+  {
+    "id": "2026-10-29_pena-sport-huesca_0-1",
+    "date": "2026-10-29",
+    "ko": "18:00",
+    "match": "Pena Sport v Huesca",
+    "comp": "Spain, Spanish Copa del Rey",
+    "cell": "0-1",
+    "lay": 8.2,
+    "stake": 3,
+    "created": "2026-10-29T16:37:59Z"
+  },
+  {
+    "id": "2026-10-29_pena-sport-huesca_1-2",
+    "date": "2026-10-29",
+    "ko": "18:00",
+    "match": "Pena Sport v Huesca",
+    "comp": "Spain, Spanish Copa del Rey",
+    "cell": "1-2",
+    "lay": 9.6,
+    "stake": 3,
+    "created": "2026-10-29T16:37:59Z"
   }
 ]
