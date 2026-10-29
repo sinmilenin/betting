@@ -1,5 +1,9 @@
-RUN 2026-10-29 16:34 local | 2 match(es)
-Eskisehirspor v Igdir FK -> out/Eskisehirspor_v_Igdir_FK.txt
-    !! Igdir FK: No team found for "Igdir FK".
-Antequera v id:9823 -> out/Antequera_v_id_9823.txt
-Requests used: API-Football 39, Matchbook 0
+RUN 2026-10-29 17:16 local | 4 match(es)
+Arka Gdynia v Stal Rzeszow -> out/Arka_Gdynia_v_Stal_Rzeszow.txt
+    !! Stal Rzeszow: Ambiguous team name "Stal Rzeszow".
+Koge W v Barcelona W -> out/Koge_W_v_Barcelona_W.txt
+    !! Koge W: No team found for "Koge W".
+Manchester City W v Paris Saint Germain W -> out/Manchester_City_W_v_Paris_Saint_Germain_.txt
+Eskisehirspor v 76 Igdir Belediyespor -> out/Eskisehirspor_v_76_Igdir_Belediyespor.txt
+    !! 76 Igdir Belediyespor: No team found for "76 Igdir Belediyespor".
+Requests used: API-Football 69, Matchbook 0

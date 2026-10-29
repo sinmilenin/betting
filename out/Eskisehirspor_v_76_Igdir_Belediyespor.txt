@@ -1,6 +1,6 @@
-MATCH Eskisehirspor v Igdir FK | fetched 2026-10-29 16:34 local
+MATCH Eskisehirspor v 76 Igdir Belediyespor | fetched 2026-10-29 17:16 local
 
-FORM DATA Eskisehirspor v Igdir FK | source API-Football | 2026-10-29 16:34 UTC
+FORM DATA Eskisehirspor v 76 Igdir Belediyespor | source API-Football | 2026-10-29 17:16 UTC
 H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
 
 === Eskişehirspor (id 3572): last 20 finished games ===
@@ -28,7 +28,7 @@ Listed home: 11 games, scored 35 (3.18), conceded 5 (0.45), blanks 1, clean shee
 Listed away: 9 games, scored 15 (1.67), conceded 11 (1.22), blanks 3, clean sheets 3
 All: 20 games, scored 50 (2.50), conceded 16 (0.80), blanks 4, clean sheets 10
 
-!! Igdir FK: No team found for "Igdir FK".
+!! 76 Igdir Belediyespor: No team found for "76 Igdir Belediyespor".
 
 TABLE FOR Eskişehirspor
 LEAGUE TABLE 3. Lig - Group 2 2026 | 18 teams | 72 games played
