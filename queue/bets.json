@@ -31,5 +31,38 @@
     "lay": 20,
     "stake": 3,
     "created": "2026-10-29T08:59:00Z"
+  },
+  {
+    "id": "2026-10-29_zorya-kryvbas-krivyi-rih_2-0",
+    "date": "2026-10-29",
+    "ko": "12:00",
+    "match": "Zorya v Kryvbas Krivyi Rih",
+    "comp": "Ukraine, Ukrainian Cup",
+    "cell": "2-0",
+    "lay": 8.6,
+    "stake": 3,
+    "created": "2026-10-29T09:47:17Z"
+  },
+  {
+    "id": "2026-10-29_zorya-kryvbas-krivyi-rih_3-0",
+    "date": "2026-10-29",
+    "ko": "12:00",
+    "match": "Zorya v Kryvbas Krivyi Rih",
+    "comp": "Ukraine, Ukrainian Cup",
+    "cell": "3-0",
+    "lay": 12.5,
+    "stake": 3,
+    "created": "2026-10-29T09:47:17Z"
+  },
+  {
+    "id": "2026-10-29_zorya-kryvbas-krivyi-rih_3-1",
+    "date": "2026-10-29",
+    "ko": "12:00",
+    "match": "Zorya v Kryvbas Krivyi Rih",
+    "comp": "Ukraine, Ukrainian Cup",
+    "cell": "3-1",
+    "lay": 15.5,
+    "stake": 3,
+    "created": "2026-10-29T09:47:17Z"
   }
 ]
