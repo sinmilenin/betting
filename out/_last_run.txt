@@ -1,4 +1,6 @@
-RUN 2026-10-29 19:28 local | 2 match(es)
-Odra Opole v Slask Wroclaw -> out/Odra_Opole_v_Slask_Wroclaw.txt
-Ribadesella v Racing Santander -> out/Ribadesella_v_Racing_Santander.txt
-Requests used: API-Football 44, Matchbook 0
+RUN 2026-10-29 19:59 local | 3 match(es)
+Vasco da Gama v Flamengo -> out/Vasco_da_Gama_v_Flamengo.txt
+Universidad Catolica v LDU Quito -> out/Universidad_Catolica_v_LDU_Quito.txt
+    !! LDU Quito: Ambiguous team name "LDU Quito".
+Gremio v Athletico Paranaense -> out/Gremio_v_Athletico_Paranaense.txt
+Requests used: API-Football 66, Matchbook 0

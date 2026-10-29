@@ -1,0 +1,98 @@
+MATCH Vasco da Gama v Flamengo | fetched 2026-10-29 19:59 local
+
+FORM DATA Vasco da Gama v Flamengo | source API-Football | 2026-10-29 19:59 UTC
+H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
+
+"Vasco da Gama" matches several teams. Use id:<number> instead of the name:
+  id:133    Vasco DA Gama (Brazil)
+  id:1803   Vasco Da Gama W (Brazil)
+  id:4808   Vasco da Gama Vidigueira (Portugal)
+  id:4818   Vasco da Gama (Portugal)
+  id:6370   Vasco da Gama AC (Brazil)
+  id:12979  Vasco da Gama U20 (Brazil)
+  id:13143  Vasco da Gama U20 (Brazil)
+  id:13164  Vasco da Gama AC (Portugal)
+  id:26098  Vasco da Gama (South-Africa)
+=== Flamengo (id 127): last 20 finished games ===
+2026-10-26 H 3-2 v Atletico-MG | Serie A | Rio de Janeiro | xG 2.86-0.95
+2026-10-23 H 0-0 v Estudiantes L.P. | CONMEBOL Libertadores | Rio de Janeiro | xG 1.15-0.81 [PEN, 90-min score shown]
+2026-10-18 A 3-0 v Bahia | Serie A | El Salvador | xG 2.74-0.56
+2026-10-16 A 0-0 v Estudiantes L.P. | CONMEBOL Libertadores | La Plata | xG 0.18-1.13
+2026-10-11 H 1-0 v Fluminense | Serie A | Rio de Janeiro | xG 1.68-0.97
+2026-10-08 A 2-2 v Santos | Serie A | Santos | xG 1.15-2.42
+2026-09-20 H 2-1 v RB Bragantino | Serie A | Rio de Janeiro | xG 2.94-0.76
+2026-09-18 H 1-1 v Independiente del Valle | CONMEBOL Libertadores | Rio de Janeiro
+2026-09-13 H 2-1 v Corinthians | Serie A | Rio de Janeiro | xG 2.62-0.30
+2026-09-11 A 2-0 v Independiente del Valle | CONMEBOL Libertadores | Quito
+2026-09-06 A 1-0 v Remo | Serie A | Belem
+2026-09-02 H 2-0 v Mirassol | Serie A | Rio de Janeiro
+2026-08-30 H 3-0 v Botafogo | Serie A | Rio de Janeiro
+2026-08-22 A 1-2 v Cruzeiro | Serie A | Belo Horizonte
+2026-08-20 H 2-1 v Cruzeiro | CONMEBOL Libertadores | Rio de Janeiro
+2026-08-16 A 5-1 v Mirassol | Serie A | Mirassol
+2026-08-13 A 1-1 v Cruzeiro | CONMEBOL Libertadores | Belo Horizonte
+2026-08-09 H 2-0 v Vitoria | Serie A | Rio de Janeiro
+2026-07-29 A 1-1 v Internacional | Serie A | Porto Alegre
+2026-07-26 H 1-1 v Sao Paulo | Serie A | Rio de Janeiro
+Listed home: 11 games, scored 19 (1.73), conceded 7 (0.64), blanks 1, clean sheets 5
+Listed away: 9 games, scored 16 (1.78), conceded 7 (0.78), blanks 1, clean sheets 4
+All: 20 games, scored 35 (1.75), conceded 14 (0.70), blanks 2, clean sheets 9
+
+(retrying Vasco da Gama using the opponent's country, Brazil)
+NOTE: "Vasco da Gama" matched 3 teams; picked Vasco DA Gama (Brazil) because the opponent is from Brazil. Others: Vasco da Gama (Portugal), Vasco da Gama (South-Africa)
+=== Vasco DA Gama (id 133): last 20 finished games ===
+2026-10-24 H 3-2 v Corinthians | Serie A | Rio de Janeiro | xG 1.75-0.75
+2026-10-21 H 1-3 v Boca Juniors | CONMEBOL Sudamericana | Rio de Janeiro | xG 0.63-0.57
+2026-10-18 A 0-1 v Sao Paulo | Serie A | Sao Paulo | xG 0.92-1.26
+2026-10-14 A 1-0 v Boca Juniors | CONMEBOL Sudamericana | Buenos Aires | xG 0.49-1.55
+2026-10-10 H 0-0 v Remo | Serie A | Rio de Janeiro | xG 1.35-0.30
+2026-10-07 A 2-1 v Botafogo | Serie A | Rio de Janeiro | xG 1.69-0.61
+2026-09-19 H 5-0 v Coritiba | Serie A | Rio de Janeiro | xG 4.02-0.22
+2026-09-15 H 2-0 v Santa Fe | CONMEBOL Sudamericana | Rio de Janeiro
+2026-09-12 A 2-1 v Gremio | Serie A | Porto Alegre | xG 1.52-0.68
+2026-09-08 A 0-0 v Santa Fe | CONMEBOL Sudamericana | Bogota | xG 0.94-1.06
+2026-09-06 A 0-1 v Fluminense | Serie A | Rio de Janeiro
+2026-09-03 A 2-0 v Vitoria | Copa Do Brasil | Salvador
+2026-08-30 H 3-1 v Cruzeiro | Serie A | Rio de Janeiro
+2026-08-27 H 1-0 v Vitoria | Copa Do Brasil | Rio de Janeiro
+2026-08-23 A 1-4 v Palmeiras | Serie A | Sao Paulo
+2026-08-20 A 4-1 v Olimpia | CONMEBOL Sudamericana | Asunción
+2026-08-16 H 0-3 v Santos | Serie A | Rio de Janeiro
+2026-08-13 H 0-0 v Olimpia | CONMEBOL Sudamericana | Rio de Janeiro
+2026-08-09 A 0-0 v Bahia | Serie A | Salvador
+2026-08-06 A 3-1 v Fluminense | Copa Do Brasil | Rio de Janeiro
+Listed home: 9 games, scored 15 (1.67), conceded 9 (1.00), blanks 3, clean sheets 5
+Listed away: 11 games, scored 15 (1.36), conceded 10 (0.91), blanks 4, clean sheets 4
+All: 20 games, scored 30 (1.50), conceded 19 (0.95), blanks 7, clean sheets 9
+
+TABLE FOR Flamengo
+LEAGUE TABLE Serie A 2026 | 20 teams | 324 games played
+League averages per game: home 1.53, away 1.13, total 2.66
+#   team                   Pts | home P GF-GA  | away P GF-GA  | all P GF-GA
+1   Flamengo                70 | 16  32-12      | 16  32-15      | 32  64-27
+2   Palmeiras               70 | 16  30-10      | 17  26-12      | 33  56-22
+3   Cruzeiro                54 | 16  27-16      | 16  24-30      | 32  51-46
+4   Atletico Paranaense     54 | 16  27-15      | 16  23-23      | 32  50-38
+5   Fluminense              54 | 17  31-17      | 16  21-25      | 33  52-42
+6   Bahia                   53 | 17  26-19      | 16  22-23      | 33  48-42
+7   Atletico-MG             50 | 16  27-17      | 16  17-21      | 32  44-38
+8   Santos                  47 | 17  23-21      | 16  26-26      | 33  49-47
+9   RB Bragantino           44 | 16  27-17      | 17  15-21      | 33  42-38
+10  Sao Paulo               43 | 16  25-13      | 17  14-26      | 33  39-39
+11  Botafogo                39 | 16  26-22      | 17  19-31      | 33  45-53
+12  Coritiba                39 | 16  20-21      | 16  18-29      | 32  38-50
+13  Vasco DA Gama           38 | 16  24-20      | 15  15-25      | 31  39-45
+14  Vitoria                 38 | 16  23-13      | 16  12-33      | 32  35-46
+15  Mirassol                37 | 17  24-22      | 15  13-23      | 32  37-45
+16  Internacional           35 | 16  21-17      | 17  16-25      | 33  37-42
+17  Gremio                  34 | 16  25-21      | 16  10-23      | 32  35-44
+18  Corinthians             33 | 16  16-17      | 16  18-25      | 32  34-42
+19  Remo                    29 | 17  22-22      | 16  14-29      | 33  36-51
+20  Chapecoense-sc          21 | 15  21-34      | 17  11-32      | 32  32-66
+
+(Vasco DA Gama: same table as Flamengo, shown above)
+
+(26 API-Football requests used)
+
+----------------------------------------------------------------------
+MATCHBOOK: skipped (switched off for this run)
