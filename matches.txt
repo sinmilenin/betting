@@ -1,2 +1,2 @@
-# Scan 29.10 19:41: Benfica (no form file from the last 24h found)
-Benfica v Gil Vicente | n=20 | xg=10
+# Scan 29.10 19:41: Benfica retry (name ambiguous)
+id:211 v Gil Vicente | n=20 | xg=10
