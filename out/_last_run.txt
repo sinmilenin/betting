@@ -1,5 +1,7 @@
-RUN 2026-10-29 15:01 local | 3 match(es)
-Paris FC W v Hacken W -> out/Paris_FC_W_v_Hacken_W.txt
-Austria Wien W v Juventus W -> out/Austria_Wien_W_v_Juventus_W.txt
-Atletico Calatayud v Osasuna -> out/Atletico_Calatayud_v_Osasuna.txt
-Requests used: API-Football 73, Matchbook 0
+RUN 2026-10-29 15:46 local | 3 match(es)
+Polonia Warszawa v Korona Kielce -> out/Polonia_Warszawa_v_Korona_Kielce.txt
+Maccabi Tel Aviv v Hapoel Tel Aviv -> out/Maccabi_Tel_Aviv_v_Hapoel_Tel_Aviv.txt
+Midtjylland v OB -> out/Midtjylland_v_OB.txt
+    !! Midtjylland: Ambiguous team name "Midtjylland".
+    !! OB: API-Football error: {"search": "The Search field must be at least 3 characters in length."}
+Requests used: API-Football 53, Matchbook 0

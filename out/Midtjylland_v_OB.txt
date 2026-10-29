@@ -1,0 +1,17 @@
+MATCH Midtjylland v OB | fetched 2026-10-29 15:46 local
+
+FORM DATA Midtjylland v OB | source API-Football | 2026-10-29 15:46 UTC
+H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
+
+"Midtjylland" matches several teams. Use id:<number> instead of the name:
+  id:397    FC Midtjylland (Denmark)
+  id:7915   Midtjylland U19 (Spain)
+  id:26101  Midtjylland W (Denmark)
+!! Midtjylland: Ambiguous team name "Midtjylland".
+
+!! OB: API-Football error: {"search": "The Search field must be at least 3 characters in length."}
+
+(2 API-Football requests used)
+
+----------------------------------------------------------------------
+MATCHBOOK: skipped (switched off for this run)
