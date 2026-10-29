@@ -1,7 +1,3 @@
-RUN 2026-10-29 15:46 local | 3 match(es)
-Polonia Warszawa v Korona Kielce -> out/Polonia_Warszawa_v_Korona_Kielce.txt
-Maccabi Tel Aviv v Hapoel Tel Aviv -> out/Maccabi_Tel_Aviv_v_Hapoel_Tel_Aviv.txt
-Midtjylland v OB -> out/Midtjylland_v_OB.txt
-    !! Midtjylland: Ambiguous team name "Midtjylland".
-    !! OB: API-Football error: {"search": "The Search field must be at least 3 characters in length."}
-Requests used: API-Football 53, Matchbook 0
+RUN 2026-10-29 15:49 local | 1 match(es)
+id:397 v Odense -> out/id_397_v_Odense.txt
+Requests used: API-Football 25, Matchbook 0
