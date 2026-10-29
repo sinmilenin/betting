@@ -1,2 +1,2 @@
-# Scan 29.10 18:56: Prat v Athletic Bilbao (first analysis)
-Prat v Athletic Bilbao | n=20 | xg=10
+# Scan 29.10 18:56: Prat v Athletic Club (retry, Athletic Bilbao not found)
+Prat v Athletic Club | n=20 | xg=10
