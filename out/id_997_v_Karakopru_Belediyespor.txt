@@ -1,16 +1,33 @@
-MATCH Genclerbirligi v Karakopru Belediyespor | fetched 2026-10-29 09:42 local
+MATCH id:997 v Karakopru Belediyespor | fetched 2026-10-29 09:45 local
 
-FORM DATA Genclerbirligi v Karakopru Belediyespor | source API-Football | 2026-10-29 09:42 UTC
+FORM DATA id:997 v Karakopru Belediyespor | source API-Football | 2026-10-29 09:45 UTC
 H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
 
-"Genclerbirligi" matches several teams. Use id:<number> instead of the name:
-  id:997    Gençlerbirliği S.K. (Turkey)
-  id:3586   Darıca Gençlerbirliği (Turkey)
-  id:13372  Sarıkamış Gençlerbirliği (Turkey)
-  id:13395  Tatvan Gençlerbirliği (Turkey)
-  id:13408  Ağrı Gençlerbirliği (Turkey)
-  id:13436  Iğdır Gençlerbirliğispor (Turkey)
-  id:28247  Genclerbirligi U19 (Turkey)
+=== Gençlerbirliği S.K. (id 997): last 20 finished games ===
+2026-10-25 A 0-2 v Konyaspor | Süper Lig | Konya | xG 1.16-2.27
+2026-10-17 H 0-1 v Galatasaray | Süper Lig | Ankara | xG 1.74-1.92
+2026-10-10 H 2-2 v Amed | Süper Lig | Ankara | xG 0.50-2.16
+2026-10-03 H 0-1 v Keçiörengücü | Friendlies Clubs | ?
+2026-09-19 A 0-4 v Başakşehir | Süper Lig | Istanbul | xG 0.52-2.74
+2026-09-13 H 1-2 v Kasımpaşa | Süper Lig | Ankara | xG 1.16-1.32
+2026-09-06 A 0-5 v Trabzonspor | Süper Lig | Trabzon | xG 0.86-3.21
+2026-08-28 H 1-1 v Erzurumspor FK | Süper Lig | Ankara | xG 0.75-0.86
+2026-08-23 A 1-0 v Göztepe | Süper Lig | Izmir | xG 1.56-1.92
+2026-08-15 H 2-1 v Fenerbahçe | Süper Lig | Ankara | xG 1.19-2.90
+2026-07-24 A 0-3 v Kasımpaşa | Friendlies Clubs | ?
+2026-05-17 A 3-0 v Trabzonspor | Süper Lig | Trabzon
+2026-05-13 H 1-2 v Trabzonspor | Türkiye Kupası | Ankara
+2026-05-09 H 3-2 v Kasımpaşa | Süper Lig | Ankara
+2026-05-03 A 0-1 v Fatih Karagümrük | Süper Lig | Istanbul
+2026-04-26 H 1-0 v Kocaelispor | Süper Lig | Ankara
+2026-04-22 A 2-0 v Galatasaray | Türkiye Kupası | Istanbul
+2026-04-18 H 1-2 v Galatasaray | Süper Lig | Ankara
+2026-04-11 A 0-3 v Başakşehir | Süper Lig | Istanbul
+2026-04-04 H 0-2 v Göztepe | Süper Lig | Ankara
+Listed home: 11 games, scored 12 (1.09), conceded 16 (1.45), blanks 3, clean sheets 1
+Listed away: 9 games, scored 6 (0.67), conceded 18 (2.00), blanks 6, clean sheets 3
+All: 20 games, scored 18 (0.90), conceded 34 (1.70), blanks 9, clean sheets 4
+
 === Karaköprü Belediyespor (id 7408): last 20 finished games ===
 2026-10-24 H 6-0 v Karaman FK | 3. Lig - Group 3 | ?
 2026-10-17 A 2-1 v Silifke Belediyespor | 3. Lig - Group 3 | ?
@@ -36,16 +53,28 @@ Listed home: 9 games, scored 21 (2.33), conceded 9 (1.00), blanks 1, clean sheet
 Listed away: 11 games, scored 17 (1.55), conceded 16 (1.45), blanks 2, clean sheets 3
 All: 20 games, scored 38 (1.90), conceded 25 (1.25), blanks 3, clean sheets 5
 
-(retrying Genclerbirligi using the opponent's country, Turkey)
-"Genclerbirligi" matches several teams. Use id:<number> instead of the name:
-  id:997    Gençlerbirliği S.K. (Turkey)
-  id:3586   Darıca Gençlerbirliği (Turkey)
-  id:13372  Sarıkamış Gençlerbirliği (Turkey)
-  id:13395  Tatvan Gençlerbirliği (Turkey)
-  id:13408  Ağrı Gençlerbirliği (Turkey)
-  id:13436  Iğdır Gençlerbirliğispor (Turkey)
-  id:28247  Genclerbirligi U19 (Turkey)
-!! Genclerbirligi: Ambiguous team name "Genclerbirligi".
+TABLE FOR Gençlerbirliği S.K.
+LEAGUE TABLE Süper Lig 2026 | 18 teams | 81 games played
+League averages per game: home 1.67, away 1.23, total 2.90
+#   team                   Pts | home P GF-GA  | away P GF-GA  | all P GF-GA
+1   Galatasaray             22 |  5  11-6       |  4   8-6       |  9  19-12
+2   Amed                    20 |  5  14-3       |  4   6-7       |  9  20-10
+3   Trabzonspor             19 |  4  13-1       |  5   9-7       |  9  22-8
+4   Beşiktaş                18 |  5  14-3       |  4   4-7       |  9  18-10
+5   Fenerbahçe              16 |  4  16-4       |  5   7-4       |  9  23-8
+6   Kasımpaşa               16 |  4   7-4       |  5   6-5       |  9  13-9
+7   Kocaelispor             15 |  4   6-2       |  5   5-7       |  9  11-9
+8   Erzurumspor FK          14 |  4   4-4       |  5   4-8       |  9   8-12
+9   Çorum FK                13 |  4   6-4       |  5  12-11      |  9  18-15
+10  Göztepe                 12 |  4   6-7       |  5  13-9       |  9  19-16
+11  Alanyaspor              12 |  4   4-4       |  5   5-7       |  9   9-11
+12  Başakşehir              11 |  5  11-5       |  4   1-9       |  9  12-14
+13  Rizespor                10 |  4   3-10      |  5   8-5       |  9  11-15
+14  Konyaspor                8 |  5   4-3       |  4   2-6       |  9   6-9
+15  Gaziantep FK             8 |  5   3-9       |  4   6-6       |  9   9-15
+16  Gençlerbirliği S.K.      8 |  5   6-7       |  4   1-11      |  9   7-18
+17  Samsunspor               4 |  5   5-15      |  4   3-6       |  9   8-21
+18  Eyüpspor                 3 |  5   2-9       |  4   0-14      |  9   2-23
 
 TABLE FOR Karaköprü Belediyespor
 LEAGUE TABLE 3. Lig - Group 3 2026 | 18 teams | 72 games played
@@ -70,7 +99,7 @@ League averages per game: home 1.71, away 1.42, total 3.12
 17  Yeni Malatyaspor         0 |  4   0-12      |  4   0-12      |  8   0-24
 18  Adanaspor                0 |  4   2-10      |  4   3-22      |  8   5-32
 
-(14 API-Football requests used)
+(26 API-Football requests used)
 
 ----------------------------------------------------------------------
 MATCHBOOK: skipped (switched off for this run)

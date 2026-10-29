@@ -1,6 +1,3 @@
-RUN 2026-10-29 09:42 local | 3 match(es)
-Bitlis Ozguzelderespor v Kayserispor -> out/Bitlis_Ozguzelderespor_v_Kayserispor.txt
-Genclerbirligi v Karakopru Belediyespor -> out/Genclerbirligi_v_Karakopru_Belediyespor.txt
-    !! Genclerbirligi: Ambiguous team name "Genclerbirligi".
-Aarhus Fremad v FC Copenhagen -> out/Aarhus_Fremad_v_FC_Copenhagen.txt
-Requests used: API-Football 66, Matchbook 0
+RUN 2026-10-29 09:45 local | 1 match(es)
+id:997 v Karakopru Belediyespor -> out/id_997_v_Karakopru_Belediyespor.txt
+Requests used: API-Football 26, Matchbook 0
