@@ -1,6 +1,6 @@
-MATCH id:599 v Kryvbas Kryvyi Rih | fetched 2026-10-29 06:44 local
+MATCH id:599 v Kryvbas KR | fetched 2026-10-29 06:45 local
 
-FORM DATA id:599 v Kryvbas Kryvyi Rih | source API-Football | 2026-10-29 06:44 UTC
+FORM DATA id:599 v Kryvbas KR | source API-Football | 2026-10-29 06:45 UTC
 H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
 
 === Zorya Luhansk (id 599): last 20 finished games ===
@@ -28,7 +28,30 @@ Listed home: 9 games, scored 10 (1.11), conceded 16 (1.78), blanks 2, clean shee
 Listed away: 11 games, scored 21 (1.91), conceded 10 (0.91), blanks 1, clean sheets 3
 All: 20 games, scored 31 (1.55), conceded 26 (1.30), blanks 3, clean sheets 4
 
-!! Kryvbas Kryvyi Rih: No team found for "Kryvbas Kryvyi Rih".
+=== Kryvbas KR (id 6489): last 20 finished games ===
+2026-10-25 A 0-0 v Bukovyna | Premier League | Chernivtsi
+2026-10-18 H 0-3 v LNZ Cherkasy | Premier League | Kryvyi Rih
+2026-10-02 A 0-3 v Shakhtar Donetsk | Friendlies Clubs | ?
+2026-09-18 A 0-1 v Polessya | Premier League | Zhytomyr
+2026-09-08 A 2-0 v Olimpiya Savyntsi | Cup | ?
+2026-09-05 H 2-2 v Kolos Kovalivka | Premier League | Kryvyi Rih
+2026-08-30 A 0-1 v Chornomorets | Premier League | Odesa
+2026-08-22 A 3-0 v Rokyta | Cup | ?
+2026-08-15 H 1-1 v Livyi Bereh | Premier League | Kryvyi Rih
+2026-08-09 A 3-1 v Zorya Luhansk | Premier League | Kyiv
+2026-08-01 H 1-4 v Karpaty | Premier League | Kryvyi Rih
+2026-07-14 H 2-1 v Gent | Friendlies Clubs | ?
+2026-07-11 A 1-2 v Zulte Waregem | Friendlies Clubs | ?
+2026-07-07 H 2-4 v Lommel United | Friendlies Clubs | ?
+2026-07-01 A 1-2 v Chornomorets | Friendlies Clubs | ?
+2026-06-27 H 1-2 v Inhulets | Friendlies Clubs | ?
+2026-05-23 A 1-1 v Oleksandria | Premier League | Oleksandria
+2026-05-17 H 2-3 v Shakhtar Donetsk | Premier League | Kryvyj Rih
+2026-05-12 A 3-1 v Veres Rivne | Premier League | Rivne
+2026-05-08 H 1-0 v Karpaty | Premier League | Kryvyj Rih
+Listed home: 9 games, scored 12 (1.33), conceded 20 (2.22), blanks 1, clean sheets 1
+Listed away: 11 games, scored 14 (1.27), conceded 12 (1.09), blanks 4, clean sheets 3
+All: 20 games, scored 26 (1.30), conceded 32 (1.60), blanks 5, clean sheets 4
 
 TABLE FOR Zorya Luhansk
 LEAGUE TABLE Premier League 2026 | 16 teams | 76 games played
@@ -51,7 +74,9 @@ League averages per game: home 1.38, away 1.01, total 2.39
 15  Kryvbas KR               6 |  4   4-10      |  4   3-3       |  8   7-13
 16  Kudrivka                 5 |  4   6-7       |  6   5-17      | 10  11-24
 
-(14 API-Football requests used)
+(Kryvbas KR: same table as Zorya Luhansk, shown above)
+
+(25 API-Football requests used)
 
 ----------------------------------------------------------------------
 MATCHBOOK: skipped (switched off for this run)

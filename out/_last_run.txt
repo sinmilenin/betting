@@ -1,5 +1,4 @@
-RUN 2026-10-29 06:44 local | 2 match(es)
-id:599 v Kryvbas Kryvyi Rih -> out/id_599_v_Kryvbas_Kryvyi_Rih.txt
-    !! Kryvbas Kryvyi Rih: No team found for "Kryvbas Kryvyi Rih".
-Inter Turku v id:649 -> out/Inter_Turku_v_id_649.txt
-Requests used: API-Football 39, Matchbook 0
+RUN 2026-10-29 06:45 local | 2 match(es)
+id:599 v Kryvbas KR -> out/id_599_v_Kryvbas_KR.txt
+Poblense v AD Ceuta FC -> out/Poblense_v_AD_Ceuta_FC.txt
+Requests used: API-Football 51, Matchbook 0
