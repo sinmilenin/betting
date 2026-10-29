@@ -1,4 +1,4 @@
-RUN 2026-10-29 06:45 local | 2 match(es)
-id:599 v Kryvbas KR -> out/id_599_v_Kryvbas_KR.txt
-Poblense v AD Ceuta FC -> out/Poblense_v_AD_Ceuta_FC.txt
-Requests used: API-Football 51, Matchbook 0
+RUN 2026-10-29 08:57 local | 2 match(es)
+Gangwon v Kuching FA -> out/Gangwon_v_Kuching_FA.txt
+Tampines Rovers v Svay Rieng -> out/Tampines_Rovers_v_Svay_Rieng.txt
+Requests used: API-Football 53, Matchbook 0
