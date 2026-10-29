@@ -1,4 +1,2 @@
-# Scan 29.10 16:44 (new fixtures)
-Polonia Warszawa v Korona Kielce | n=20 | xg=10
-Maccabi Tel Aviv v Hapoel Tel Aviv | n=20 | xg=10
-Midtjylland v OB | n=20 | xg=10
+# Scan 29.10 16:44 retry (Midtjylland id, Odense)
+id:397 v Odense | n=20 | xg=10
