@@ -1,7 +1,4 @@
-RUN 2026-10-29 12:55 local | 5 match(es)
-id:374 v GAIS -> out/id_374_v_GAIS.txt
-id:363 v Sirius -> out/id_363_v_Sirius.txt
-id:2166 v Mjallby -> out/id_2166_v_Mjallby.txt
-id:217 v Famalicao -> out/id_217_v_Famalicao.txt
-Hortaleza v Sevilla -> out/Hortaleza_v_Sevilla.txt
-Requests used: API-Football 116, Matchbook 0
+RUN 2026-10-29 12:57 local | 2 match(es)
+id:2939 v Al Kholood -> out/id_2939_v_Al_Kholood.txt
+id:1062 v Cruzeiro -> out/id_1062_v_Cruzeiro.txt
+Requests used: API-Football 51, Matchbook 0
