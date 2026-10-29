@@ -130,5 +130,16 @@
     "lay": 10.5,
     "stake": 3,
     "created": "2026-10-29T12:06:38Z"
+  },
+  {
+    "id": "2026-10-29_al-khaleej-saihat-al-hazm-ksa_2-2",
+    "date": "2026-10-29",
+    "ko": "15:35",
+    "match": "Al-Khaleej Saihat v Al-Hazm (KSA)",
+    "comp": "Saudi Arabia, Saudi Professional League",
+    "cell": "2-2",
+    "lay": 17,
+    "stake": 3,
+    "created": "2026-10-29T12:08:14Z"
   }
 ]
