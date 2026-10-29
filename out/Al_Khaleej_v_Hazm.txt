@@ -1,6 +1,6 @@
-MATCH Al Khaleej v Al-Hazm | fetched 2026-10-29 12:06 local
+MATCH Al Khaleej v Hazm | fetched 2026-10-29 12:07 local
 
-FORM DATA Al Khaleej v Al-Hazm | source API-Football | 2026-10-29 12:06 UTC
+FORM DATA Al Khaleej v Hazm | source API-Football | 2026-10-29 12:07 UTC
 H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
 
 === Al Khaleej Saihat (id 2928): last 20 finished games ===
@@ -28,7 +28,30 @@ Listed home: 9 games, scored 9 (1.00), conceded 18 (2.00), blanks 3, clean sheet
 Listed away: 11 games, scored 11 (1.00), conceded 19 (1.73), blanks 4, clean sheets 2
 All: 20 games, scored 20 (1.00), conceded 37 (1.85), blanks 7, clean sheets 5
 
-!! Al-Hazm: API-Football error: {"search": "The Search field may only contain alpha-numeric characters and spaces."}
+=== Al-Hazm (id 2945): last 20 finished games ===
+2026-10-22 H 2-2 v Al-Fayha | Pro League | Ar Rass | xG 2.40-0.98
+2026-10-19 A 0-1 v Al-Hilal Saudi FC | Pro League | Riyadh | xG 0.52-3.12
+2026-10-15 H 2-3 v Al-Fateh | Pro League | Ar Rass | xG 2.16-2.60
+2026-10-10 H 1-1 v NEOM | Pro League | Ar Rass | xG 0.66-1.87
+2026-09-11 A 1-3 v Al-Ahli Jeddah | Pro League | Jeddah | xG 1.78-5.78
+2026-09-08 H 1-0 v Al Taawon | Pro League | Ar Rass | xG 0.98-0.77
+2026-09-05 A 0-0 v Al-Faisaly FC | Pro League | Al Majmaah | xG 1.10-0.87
+2026-08-30 H 1-1 v Al Shabab | Pro League | Ar Rass | xG 1.02-1.54
+2026-08-24 A 2-3 v Al-Ittihad FC | Pro League | Jeddah | xG 0.79-3.90
+2026-08-21 H 0-1 v Al Diriyah | Pro League | Ar Rass | xG 0.26-1.35
+2026-08-16 A 3-2 v Al Bukayriyah | King's Cup | ?
+2026-08-13 A 2-1 v Abha | Pro League | Abha
+2026-05-21 H 2-0 v Al Taawon | Pro League | Ar Rass
+2026-05-14 A 0-2 v Al-Qadisiyah FC | Pro League | Dammam
+2026-05-09 A 2-2 v Al Najma | Pro League | Buraidah
+2026-05-02 H 0-3 v Al-Hilal Saudi FC | Pro League | Ar Rass
+2026-04-28 A 1-1 v NEOM | Pro League | Tabuk
+2026-04-24 H 2-1 v Al Riyadh | Pro League | Ar Rass
+2026-04-11 H 2-0 v Al-Fayha | Pro League | Ar Rass
+2026-04-03 A 0-1 v Al-Ittihad FC | Pro League | Jeddah
+Listed home: 10 games, scored 13 (1.30), conceded 12 (1.20), blanks 2, clean sheets 3
+Listed away: 10 games, scored 11 (1.10), conceded 16 (1.60), blanks 4, clean sheets 1
+All: 20 games, scored 24 (1.20), conceded 28 (1.40), blanks 6, clean sheets 4
 
 TABLE FOR Al Khaleej Saihat
 LEAGUE TABLE Pro League 2026 | 18 teams | 95 games played
@@ -53,7 +76,9 @@ League averages per game: home 1.43, away 1.45, total 2.88
 17  Al Taawon                4 |  5   0-7       |  6   5-12      | 11   5-19
 18  Abha                     2 |  4   2-5       |  6   4-13      | 10   6-18
 
-(14 API-Football requests used)
+(Al-Hazm: same table as Al Khaleej Saihat, shown above)
+
+(25 API-Football requests used)
 
 ----------------------------------------------------------------------
 MATCHBOOK: skipped (switched off for this run)
