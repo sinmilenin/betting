@@ -1,3 +1,4 @@
-RUN 2026-10-29 14:42 local | 1 match(es)
-Concordia Chiajna v Sepsi OSK -> out/Concordia_Chiajna_v_Sepsi_OSK.txt
-Requests used: API-Football 26, Matchbook 0
+RUN 2026-10-29 14:43 local | 1 match(es)
+CS Concordia Chiajna v Sepsi OSK -> out/CS_Concordia_Chiajna_v_Sepsi_OSK.txt
+    !! CS Concordia Chiajna: No team found for "CS Concordia Chiajna".
+Requests used: API-Football 14, Matchbook 0
