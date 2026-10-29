@@ -2,3 +2,5 @@
 Frosinone v Lecce | n=20 | xg=10
 Fiorentina v Atalanta | n=20 | xg=10
 Everton v Newcastle | n=20 | xg=10
+Arka Gdynia v id:6957 | n=20 | xg=10
+HB Koge W v Barcelona W | n=20 | xg=10
