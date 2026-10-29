@@ -1,2 +1,10 @@
-# Night scan 28.10.2026 20:57 (retry 3: id)
-id:20787 v Portland Timbers | n=20 | xg=10
+# Scan + top-20 29.10.2026 07:45
+Zorya v Kryvbas | n=20 | xg=10
+Inter Turku v HJK | n=20 | xg=10
+Numancia v Oviedo | n=20 | xg=10
+KuPS v Gnistan | n=20 | xg=10
+Frosinone v Lecce | n=20 | xg=10
+Poblense v Ceuta | n=20 | xg=10
+Everton v Newcastle | n=20 | xg=10
+Fiorentina v Atalanta | n=20 | xg=10
+Benfica v Gil Vicente | n=20 | xg=10
