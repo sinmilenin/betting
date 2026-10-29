@@ -1,3 +1,3 @@
-RUN 2026-10-29 10:27 local | 1 match(es)
-Shanghai Shenhua v Machida Zelvia -> out/Shanghai_Shenhua_v_Machida_Zelvia.txt
-Requests used: API-Football 26, Matchbook 0
+RUN 2026-10-29 11:23 local | 1 match(es)
+Phnom Penh Crown v Kitchee -> out/Phnom_Penh_Crown_v_Kitchee.txt
+Requests used: API-Football 27, Matchbook 0
