@@ -1,6 +1,6 @@
-MATCH Koge W v Barcelona W | fetched 2026-10-29 17:16 local
+MATCH HB Koge W v Barcelona W | fetched 2026-10-29 17:17 local
 
-FORM DATA Koge W v Barcelona W | source API-Football | 2026-10-29 17:16 UTC
+FORM DATA HB Koge W v Barcelona W | source API-Football | 2026-10-29 17:17 UTC
 H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
 
 === Barcelona W (id 1918): last 20 finished games ===
@@ -28,7 +28,7 @@ Listed home: 11 games, scored 51 (4.64), conceded 7 (0.64), blanks 0, clean shee
 Listed away: 9 games, scored 31 (3.44), conceded 5 (0.56), blanks 0, clean sheets 5
 All: 20 games, scored 82 (4.10), conceded 12 (0.60), blanks 0, clean sheets 12
 
-!! Koge W: No team found for "Koge W".
+!! HB Koge W: No team found for "HB Koge W".
 
 TABLE FOR Barcelona W
 LEAGUE TABLE Primera División Femenina 2026 | 16 teams | 64 games played

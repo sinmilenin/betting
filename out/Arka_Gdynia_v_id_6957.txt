@@ -1,6 +1,6 @@
-MATCH Arka Gdynia v Stal Rzeszow | fetched 2026-10-29 17:16 local
+MATCH Arka Gdynia v id:6957 | fetched 2026-10-29 17:17 local
 
-FORM DATA Arka Gdynia v Stal Rzeszow | source API-Football | 2026-10-29 17:16 UTC
+FORM DATA Arka Gdynia v id:6957 | source API-Football | 2026-10-29 17:17 UTC
 H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
 
 === Arka Gdynia (id 344): last 20 finished games ===
@@ -28,16 +28,30 @@ Listed home: 11 games, scored 24 (2.18), conceded 11 (1.00), blanks 0, clean she
 Listed away: 9 games, scored 7 (0.78), conceded 16 (1.78), blanks 5, clean sheets 2
 All: 20 games, scored 31 (1.55), conceded 27 (1.35), blanks 5, clean sheets 7
 
-"Stal Rzeszow" matches several teams. Use id:<number> instead of the name:
-  id:6957   Stal Rzeszów (Poland)
-  id:17363  Stal Rzeszów U18 (Poland)
-  id:24519  Stal Rzeszów U19 (Poland)
-(retrying Stal Rzeszow using the opponent's country, Poland)
-"Stal Rzeszow" matches several teams. Use id:<number> instead of the name:
-  id:6957   Stal Rzeszów (Poland)
-  id:17363  Stal Rzeszów U18 (Poland)
-  id:24519  Stal Rzeszów U19 (Poland)
-!! Stal Rzeszow: Ambiguous team name "Stal Rzeszow".
+=== Stal Rzeszów (id 6957): last 20 finished games ===
+2026-10-25 A 1-2 v Podbeskidzie | I Liga | ?
+2026-10-18 A 4-3 v Pogoń Siedlce | I Liga | Siedlce
+2026-10-12 H 1-2 v Lechia Gdansk | I Liga | Rzeszow
+2026-10-02 A 1-1 v Karviná | Friendlies Clubs | ?
+2026-09-19 A 3-2 v Miedz Legnica | I Liga | Legnica
+2026-09-13 A 1-0 v Odra Opole | I Liga | Opole
+2026-09-05 H 2-1 v Polonia Warszawa | I Liga | Rzeszow
+2026-09-01 H 3-0 v Podbeskidzie | Cup | Rzeszow
+2026-08-28 A 1-0 v Unia Skierniewice | I Liga | Skierniewice
+2026-08-24 H 0-1 v Ruch Chorzów | I Liga | Rzeszow
+2026-08-14 A 1-1 v Pogoń Grod. Mazowiecki | I Liga | Grodzisk Mazowiecki
+2026-08-08 A 1-1 v Stal Mielec | I Liga | Mielec
+2026-08-01 A 0-4 v Arka Gdynia | I Liga | Gdynia
+2026-07-25 H 1-5 v Chrobry Głogów | I Liga | Rzeszow
+2026-07-18 H 2-2 v Ruh Lviv | Friendlies Clubs | ?
+2026-07-14 A 0-0 v Korona Kielce | Friendlies Clubs | ?
+2026-07-11 A 1-3 v GKS Katowice | Friendlies Clubs | ?
+2026-07-04 H 4-2 v Górnik Łęczna | Friendlies Clubs | ?
+2026-06-27 A 0-4 v Widzew Łódź | Friendlies Clubs | ?
+2026-05-24 A 3-3 v Tychy 71 | I Liga | Tychy
+Listed home: 7 games, scored 13 (1.86), conceded 13 (1.86), blanks 1, clean sheets 1
+Listed away: 13 games, scored 17 (1.31), conceded 24 (1.85), blanks 3, clean sheets 3
+All: 20 games, scored 30 (1.50), conceded 37 (1.85), blanks 4, clean sheets 4
 
 TABLE FOR Arka Gdynia
 LEAGUE TABLE I Liga 2026 | 18 teams | 108 games played
@@ -62,7 +76,9 @@ League averages per game: home 1.50, away 1.19, total 2.69
 17  Odra Opole              12 |  6   4-4       |  6   4-9       | 12   8-13
 18  Unia Skierniewice       11 |  7   9-12      |  5   4-8       | 12  13-20
 
-(15 API-Football requests used)
+(Stal Rzeszów: same table as Arka Gdynia, shown above)
+
+(25 API-Football requests used)
 
 ----------------------------------------------------------------------
 MATCHBOOK: skipped (switched off for this run)
