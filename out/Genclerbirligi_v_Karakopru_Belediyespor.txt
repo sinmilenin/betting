@@ -1,0 +1,76 @@
+MATCH Genclerbirligi v Karakopru Belediyespor | fetched 2026-10-29 09:42 local
+
+FORM DATA Genclerbirligi v Karakopru Belediyespor | source API-Football | 2026-10-29 09:42 UTC
+H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
+
+"Genclerbirligi" matches several teams. Use id:<number> instead of the name:
+  id:997    Gençlerbirliği S.K. (Turkey)
+  id:3586   Darıca Gençlerbirliği (Turkey)
+  id:13372  Sarıkamış Gençlerbirliği (Turkey)
+  id:13395  Tatvan Gençlerbirliği (Turkey)
+  id:13408  Ağrı Gençlerbirliği (Turkey)
+  id:13436  Iğdır Gençlerbirliğispor (Turkey)
+  id:28247  Genclerbirligi U19 (Turkey)
+=== Karaköprü Belediyespor (id 7408): last 20 finished games ===
+2026-10-24 H 6-0 v Karaman FK | 3. Lig - Group 3 | ?
+2026-10-17 A 2-1 v Silifke Belediyespor | 3. Lig - Group 3 | ?
+2026-10-11 H 0-1 v Bitlis Özgüzelderespor | 3. Lig - Group 3 | ?
+2026-10-07 A 2-1 v Hatayspor | Türkiye Kupası | ?
+2026-09-26 H 2-0 v Yozgat Bld Bozokspor | 3. Lig - Group 3 | ?
+2026-09-20 A 3-1 v Adanaspor | 3. Lig - Group 3 | ?
+2026-09-13 H 2-1 v Osmaniyespor | 3. Lig - Group 3 | ?
+2026-09-06 A 3-1 v Kırıkkale Büyük Anadolu | 3. Lig - Group 3 | ?
+2026-04-18 A 2-3 v Kırıkkale Büyük Anadolu | 3. Lig - Group 2 | Kırıkkale
+2026-04-12 H 2-1 v Kapadokyaspor | 3. Lig - Group 2 | Şanlıurfa
+2026-04-05 A 2-6 v Yeşilyurt Belediyespor | 3. Lig - Group 2 | Malatya
+2026-03-28 H 2-1 v Ağrı 1970 | 3. Lig - Group 2 | Şanlıurfa
+2026-03-24 A 0-2 v Kilis Belediyespor | 3. Lig - Group 2 | ?
+2026-03-15 A 1-0 v Silifke Belediyespor | 3. Lig - Group 2 | Silifke
+2026-03-08 H 1-3 v Osmaniyespor | 3. Lig - Group 2 | Şanlıurfa
+2026-03-01 A 1-1 v Türk Metal 1963 | 3. Lig - Group 2 | ?
+2026-02-21 H 1-1 v Niğde Belediyesispor | 3. Lig - Group 2 | Şanlıurfa
+2026-02-15 A 0-0 v Kahramanmaraşspor | 3. Lig - Group 2 | ?
+2026-02-09 H 5-1 v Diyarbekirspor | 3. Lig - Group 2 | Şanlıurfa
+2026-01-31 A 1-0 v Talasgücü Belediyespor | 3. Lig - Group 2 | Kayseri
+Listed home: 9 games, scored 21 (2.33), conceded 9 (1.00), blanks 1, clean sheets 2
+Listed away: 11 games, scored 17 (1.55), conceded 16 (1.45), blanks 2, clean sheets 3
+All: 20 games, scored 38 (1.90), conceded 25 (1.25), blanks 3, clean sheets 5
+
+(retrying Genclerbirligi using the opponent's country, Turkey)
+"Genclerbirligi" matches several teams. Use id:<number> instead of the name:
+  id:997    Gençlerbirliği S.K. (Turkey)
+  id:3586   Darıca Gençlerbirliği (Turkey)
+  id:13372  Sarıkamış Gençlerbirliği (Turkey)
+  id:13395  Tatvan Gençlerbirliği (Turkey)
+  id:13408  Ağrı Gençlerbirliği (Turkey)
+  id:13436  Iğdır Gençlerbirliğispor (Turkey)
+  id:28247  Genclerbirligi U19 (Turkey)
+!! Genclerbirligi: Ambiguous team name "Genclerbirligi".
+
+TABLE FOR Karaköprü Belediyespor
+LEAGUE TABLE 3. Lig - Group 3 2026 | 18 teams | 72 games played
+League averages per game: home 1.71, away 1.42, total 3.12
+#   team                   Pts | home P GF-GA  | away P GF-GA  | all P GF-GA
+1   Yeşilyurt Belediyespor  22 |  4  18-1       |  4  12-2       |  8  30-3
+2   Karaköprü Belediyespor  21 |  4  10-2       |  4  11-3       |  8  21-5
+3   Talasgücü Belediyespor  20 |  4  13-3       |  4   5-2       |  8  18-5
+4   Kırşehir Belediyespor   19 |  4  11-2       |  4  13-4       |  8  24-6
+5   Mazıdağı Fosfatspor     18 |  4   8-2       |  4   8-2       |  8  16-4
+6   Niğde Belediyesispor    18 |  4   8-5       |  4  10-4       |  8  18-9
+7   Bitlis Özgüzelderespor  17 |  4  11-2       |  4   6-3       |  8  17-5
+8   Kırıkkale Büyük Anadol  13 |  4   7-4       |  4   7-7       |  8  14-11
+9   Yeni Mersin Idmanyurdu  12 |  4   5-5       |  4   5-5       |  8  10-10
+10  Adana Adaletgucu         9 |  4   9-6       |  4   3-9       |  8  12-15
+11  Osmaniyespor             9 |  4   6-7       |  4   4-9       |  8  10-16
+12  Ağrı 1970                8 |  4   2-5       |  4   3-3       |  8   5-8
+13  Silifke Belediyespor     7 |  4   5-6       |  4   4-11      |  8   9-17
+14  Karaman FK               6 |  4   1-12      |  4   5-10      |  8   6-22
+15  Yozgat Bld Bozokspor     5 |  4   2-13      |  4   1-7       |  8   3-20
+16  Diyarbekirspor           4 |  4   5-5       |  4   2-8       |  8   7-13
+17  Yeni Malatyaspor         0 |  4   0-12      |  4   0-12      |  8   0-24
+18  Adanaspor                0 |  4   2-10      |  4   3-22      |  8   5-32
+
+(14 API-Football requests used)
+
+----------------------------------------------------------------------
+MATCHBOOK: skipped (switched off for this run)

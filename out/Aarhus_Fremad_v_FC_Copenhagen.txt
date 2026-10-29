@@ -1,0 +1,93 @@
+MATCH Aarhus Fremad v FC Copenhagen | fetched 2026-10-29 09:42 local
+
+FORM DATA Aarhus Fremad v FC Copenhagen | source API-Football | 2026-10-29 09:42 UTC
+H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
+
+=== Aarhus Fremad (id 6004): last 20 finished games ===
+2026-10-24 A 0-0 v Vejle | 1. Division | Vejle
+2026-10-16 H 0-0 v Esbjerg | 1. Division | Silkeborg
+2026-10-09 A 0-2 v AB Copenhagen | 1. Division | Copenhagen
+2026-09-19 H 1-3 v Hvidovre | 1. Division | Aarhus
+2026-09-16 A 0-0 v Hørsholm-Usserød | DBU Pokalen | Rungsted Kyst [PEN, 90-min score shown]
+2026-09-11 A 0-0 v Vendsyssel FF | 1. Division | Hjorring
+2026-09-06 H 2-1 v Kolding IF | 1. Division | Aarhus
+2026-08-30 H 0-0 v Vejle | 1. Division | Aarhus
+2026-08-25 A 1-0 v SGI | DBU Pokalen | ?
+2026-08-21 A 0-0 v FC Fredericia | 1. Division | Fredericia
+2026-08-15 A 1-1 v Hillerød | 1. Division | Helsingor
+2026-08-08 H 3-1 v HB Koge | 1. Division | Aarhus
+2026-08-04 A 4-0 v Ringkøbing | DBU Pokalen | Ringkobing
+2026-07-31 H 1-2 v Aalborg | 1. Division | Aarhus
+2026-07-26 A 2-1 v Hobro | 1. Division | Hobro
+2026-07-17 A 0-1 v Viborg | Friendlies Clubs | ?
+2026-07-16 H 2-0 v Brabrand | Friendlies Clubs | ?
+2026-07-08 H 1-0 v Silkeborg | Friendlies Clubs | ?
+2026-07-04 A 0-2 v Esbjerg | Friendlies Clubs | ?
+2026-06-26 H 1-2 v Brann | Friendlies Clubs | ?
+Listed home: 9 games, scored 11 (1.22), conceded 9 (1.00), blanks 2, clean sheets 4
+Listed away: 11 games, scored 8 (0.73), conceded 7 (0.64), blanks 7, clean sheets 6
+All: 20 games, scored 19 (0.95), conceded 16 (0.80), blanks 9, clean sheets 10
+
+=== FC Copenhagen (id 400): last 20 finished games ===
+2026-10-26 H 1-1 v Odense | Superliga | Copenhagen | xG 2.46-0.47
+2026-10-22 A 2-2 v FK Crvena Zvezda | UEFA Europa Conference League | Belgrade | xG 0.53-0.78
+2026-10-18 H 1-1 v Aarhus | Superliga | Copenhagen | xG 2.01-0.94
+2026-10-15 H 3-0 v SC Braga | UEFA Europa Conference League | Copenhagen | xG 1.56-0.55
+2026-10-11 A 1-2 v FC Midtjylland | Superliga | Herning | xG 1.67-1.62
+2026-10-04 A 0-2 v Hamburger SV | Friendlies Clubs | ?
+2026-09-20 A 1-0 v Brondby | Superliga | Brondby | xG 2.27-0.71
+2026-09-15 A 3-0 v Skovshoved | DBU Pokalen | ?
+2026-09-11 H 2-0 v AC Horsens | Superliga | Copenhagen
+2026-09-06 A 5-0 v Odense | Superliga | Odense | xG 2.84-2.18
+2026-09-03 H 2-0 v FC Nordsjaelland | Superliga | Copenhagen
+2026-08-31 H 3-1 v Sonderjyske | Superliga | Copenhagen
+2026-08-27 H 4-1 v Inter Turku | UEFA Europa Conference League | Copenhagen
+2026-08-23 A 0-4 v Viborg | Superliga | Viborg
+2026-08-20 A 0-0 v Inter Turku | UEFA Europa Conference League | Turku
+2026-08-16 A 4-0 v Randers FC | Superliga | Randers
+2026-08-12 H 5-1 v Debreceni VSC | UEFA Europa Conference League | Copenhagen
+2026-08-06 A 3-0 v Debreceni VSC | UEFA Europa Conference League | Debrecen
+2026-08-02 A 3-1 v Silkeborg | Superliga | Silkeborg
+2026-07-29 H 2-1 v Polessya | UEFA Europa Conference League | Copenhagen
+Listed home: 9 games, scored 23 (2.56), conceded 6 (0.67), blanks 0, clean sheets 3
+Listed away: 11 games, scored 22 (2.00), conceded 11 (1.00), blanks 3, clean sheets 6
+All: 20 games, scored 45 (2.25), conceded 17 (0.85), blanks 3, clean sheets 9
+
+TABLE FOR Aarhus Fremad
+LEAGUE TABLE 1. Division 2026 | 12 teams | 72 games played
+League averages per game: home 1.40, away 1.31, total 2.71
+#   team                   Pts | home P GF-GA  | away P GF-GA  | all P GF-GA
+1   Hvidovre                28 |  6  11-8       |  6  12-4       | 12  23-12
+2   Vejle                   23 |  6  16-11      |  6   8-4       | 12  24-15
+3   FC Fredericia           20 |  6  10-3       |  6   8-5       | 12  18-8
+4   AB Copenhagen           18 |  6   8-4       |  6   9-8       | 12  17-12
+5   Aarhus Fremad           15 |  6   7-7       |  6   3-4       | 12  10-11
+6   Hobro                   15 |  7   8-9       |  5   7-13      | 12  15-22
+7   Aalborg                 14 |  6   4-7       |  6  11-10      | 12  15-17
+8   Kolding IF              12 |  6   7-7       |  6   6-8       | 12  13-15
+9   Hillerød                12 |  6   9-8       |  6   6-10      | 12  15-18
+10  HB Koge                 11 |  6  10-12      |  6   7-10      | 12  17-22
+11  Vendsyssel FF           11 |  5   2-7       |  7  11-13      | 12  13-20
+12  Esbjerg                 10 |  6   9-11      |  6   6-12      | 12  15-23
+
+TABLE FOR FC Copenhagen
+LEAGUE TABLE Superliga 2026 | 12 teams | 72 games played
+League averages per game: home 1.65, away 1.42, total 3.07
+#   team                   Pts | home P GF-GA  | away P GF-GA  | all P GF-GA
+1   FC Midtjylland          28 |  6  14-7       |  6  10-6       | 12  24-13
+2   FC Copenhagen           26 |  6  12-5       |  6  14-7       | 12  26-12
+3   Viborg                  20 |  6  12-6       |  6   7-6       | 12  19-12
+4   FC Nordsjaelland        20 |  5   7-1       |  7  11-13      | 12  18-14
+5   Brondby                 19 |  6  12-9       |  6   9-11      | 12  21-20
+6   AC Horsens              16 |  7  12-10      |  5  11-10      | 12  23-20
+7   Odense                  14 |  5   5-9       |  7   6-7       | 12  11-16
+8   Aarhus                  12 |  6  10-8       |  6   7-11      | 12  17-19
+9   Silkeborg               12 |  6   8-9       |  6   8-11      | 12  16-20
+10  Randers FC              11 |  7   7-13      |  5   5-6       | 12  12-19
+11  Lyngby                   8 |  6   8-12      |  6   9-15      | 12  17-27
+12  Sonderjyske              8 |  6  12-13      |  6   5-16      | 12  17-29
+
+(26 API-Football requests used)
+
+----------------------------------------------------------------------
+MATCHBOOK: skipped (switched off for this run)

@@ -1,0 +1,104 @@
+MATCH Bitlis Ozguzelderespor v Kayserispor | fetched 2026-10-29 09:42 local
+
+FORM DATA Bitlis Ozguzelderespor v Kayserispor | source API-Football | 2026-10-29 09:42 UTC
+H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
+
+=== Bitlis Özgüzelderespor (id 6513): last 17 finished games ===
+2026-10-24 A 1-1 v Mazıdağı Fosfatspor | 3. Lig - Group 3 | ?
+2026-10-17 H 1-1 v Yeşilyurt Belediyespor | 3. Lig - Group 3 | ?
+2026-10-11 A 1-0 v Karaköprü Belediyespor | 3. Lig - Group 3 | ?
+2026-10-06 H 6-0 v Silifke Belediyespor | Türkiye Kupası | ?
+2026-10-03 H 5-0 v Adana Adaletgucu | 3. Lig - Group 3 | ?
+2026-09-27 A 1-2 v Niğde Belediyesispor | 3. Lig - Group 3 | ?
+2026-09-20 H 3-1 v Kırşehir Belediyespor | 3. Lig - Group 3 | ?
+2026-09-12 A 3-0 v Karaman FK | 3. Lig - Group 3 | ?
+2026-09-06 H 2-0 v Silifke Belediyespor | 3. Lig - Group 3 | ?
+2025-09-16 A 1-2 v Karaköprü Belediyespor | Türkiye Kupası | Şanlıurfa
+2024-10-09 H 1-1 v 1954 Kelkit Belediyespor | Türkiye Kupası | Bitlis [PEN, 90-min score shown]
+2024-09-11 H 2-0 v Hakkari Zapspor | Türkiye Kupası | Bitlis
+2022-09-15 A 0-3 v Mazıdağı Fosfatspor | Türkiye Kupası | Mardin
+2019-08-29 A 1-2 v Muş Sport Klübü | Türkiye Kupası | Muş
+2018-09-27 A 2-3 v Kastamonuspor | Türkiye Kupası | Kastamonu
+2018-09-11 A 1-0 v Iğdır Es | Türkiye Kupası | Iğdır
+2018-08-29 H 2-1 v Mardin 1969 | Türkiye Kupası | Bitlis
+Listed home: 8 games, scored 22 (2.75), conceded 4 (0.50), blanks 0, clean sheets 4
+Listed away: 9 games, scored 11 (1.22), conceded 13 (1.44), blanks 1, clean sheets 3
+All: 17 games, scored 33 (1.94), conceded 17 (1.00), blanks 1, clean sheets 7
+
+=== Kayserispor (id 1001): last 20 finished games ===
+2026-10-25 A 2-2 v Pendikspor | 1. Lig | Istanbul | xG 5.59-2.18
+2026-10-18 H 2-2 v Batman Petrolspor | 1. Lig | Kayseri
+2026-10-14 A 4-0 v Antalyaspor | 1. Lig | Antalya
+2026-10-10 H 3-2 v Manisa F.K. | 1. Lig | Kayseri | xG 1.30-1.95
+2026-09-20 A 1-0 v Mardin 1969 | 1. Lig | Mardin
+2026-09-14 H 4-0 v İstanbulspor | 1. Lig | Kayseri
+2026-09-07 A 3-0 v Esenler Erokspor | 1. Lig | Istanbul | xG 1.78-1.26
+2026-09-02 A 1-1 v Fatih Karagümrük | 1. Lig | Istanbul | xG 0.99-1.82
+2026-08-29 H 1-2 v Bursaspor | 1. Lig | Kayseri | xG 1.75-1.24
+2026-08-22 A 1-0 v Iğdır FK | 1. Lig | Ankara
+2026-08-16 H 2-0 v Sivasspor | 1. Lig | Kayseri
+2026-08-09 A 2-0 v Vanspor FK | 1. Lig | Van
+2026-07-19 H 1-2 v Pendikspor | Friendlies Clubs | ?
+2026-05-17 H 2-1 v Konyaspor | Süper Lig | Kayseri
+2026-05-09 A 1-3 v Alanyaspor | Süper Lig | Alanya
+2026-05-03 H 1-1 v Eyüpspor | Süper Lig | Kayseri
+2026-04-25 H 2-0 v Rizespor | Süper Lig | Kayseri
+2026-04-20 A 0-3 v Gaziantep FK | Süper Lig | Gaziantep
+2026-04-11 H 0-4 v Fenerbahçe | Süper Lig | Kayseri
+2026-04-04 A 0-2 v Kasımpaşa | Süper Lig | Istanbul
+Listed home: 10 games, scored 18 (1.80), conceded 14 (1.40), blanks 1, clean sheets 3
+Listed away: 10 games, scored 15 (1.50), conceded 11 (1.10), blanks 2, clean sheets 5
+All: 20 games, scored 33 (1.65), conceded 25 (1.25), blanks 3, clean sheets 8
+
+TABLE FOR Bitlis Özgüzelderespor
+LEAGUE TABLE 3. Lig - Group 3 2026 | 18 teams | 72 games played
+League averages per game: home 1.71, away 1.42, total 3.12
+#   team                   Pts | home P GF-GA  | away P GF-GA  | all P GF-GA
+1   Yeşilyurt Belediyespor  22 |  4  18-1       |  4  12-2       |  8  30-3
+2   Karaköprü Belediyespor  21 |  4  10-2       |  4  11-3       |  8  21-5
+3   Talasgücü Belediyespor  20 |  4  13-3       |  4   5-2       |  8  18-5
+4   Kırşehir Belediyespor   19 |  4  11-2       |  4  13-4       |  8  24-6
+5   Mazıdağı Fosfatspor     18 |  4   8-2       |  4   8-2       |  8  16-4
+6   Niğde Belediyesispor    18 |  4   8-5       |  4  10-4       |  8  18-9
+7   Bitlis Özgüzelderespor  17 |  4  11-2       |  4   6-3       |  8  17-5
+8   Kırıkkale Büyük Anadol  13 |  4   7-4       |  4   7-7       |  8  14-11
+9   Yeni Mersin Idmanyurdu  12 |  4   5-5       |  4   5-5       |  8  10-10
+10  Adana Adaletgucu         9 |  4   9-6       |  4   3-9       |  8  12-15
+11  Osmaniyespor             9 |  4   6-7       |  4   4-9       |  8  10-16
+12  Ağrı 1970                8 |  4   2-5       |  4   3-3       |  8   5-8
+13  Silifke Belediyespor     7 |  4   5-6       |  4   4-11      |  8   9-17
+14  Karaman FK               6 |  4   1-12      |  4   5-10      |  8   6-22
+15  Yozgat Bld Bozokspor     5 |  4   2-13      |  4   1-7       |  8   3-20
+16  Diyarbekirspor           4 |  4   5-5       |  4   2-8       |  8   7-13
+17  Yeni Malatyaspor         0 |  4   0-12      |  4   0-12      |  8   0-24
+18  Adanaspor                0 |  4   2-10      |  4   3-22      |  8   5-32
+
+TABLE FOR Kayserispor
+LEAGUE TABLE 1. Lig 2026 | 20 teams | 119 games played
+League averages per game: home 1.46, away 1.30, total 2.76
+#   team                   Pts | home P GF-GA  | away P GF-GA  | all P GF-GA
+1   Bursaspor               28 |  5  10-4       |  7  16-7       | 12  26-11
+2   Kayserispor             27 |  5  12-6       |  7  14-3       | 12  26-9
+3   Iğdır FK                26 |  6  10-4       |  6   7-5       | 12  17-9
+4   Batman Petrolspor       23 |  6  16-10      |  6   9-11      | 12  25-21
+5   Mardin 1969             21 |  6   7-3       |  6   9-8       | 12  16-11
+6   Keçiörengücü            20 |  6  12-8       |  6  11-7       | 12  23-15
+7   Muğlaspor               18 |  6  11-7       |  6   7-7       | 12  18-14
+8   Antalyaspor             18 |  7  12-16      |  5   6-3       | 12  18-19
+9   Bodrum FK               17 |  6   6-5       |  6   9-6       | 12  15-11
+10  Fatih Karagümrük        16 |  6   8-7       |  6   8-8       | 12  16-15
+11  Sarıyer                 16 |  7   9-10      |  5   5-7       | 12  14-17
+12  Bandırmaspor            14 |  7  12-6       |  5   5-4       | 12  17-10
+13  Ümraniyespor            13 |  6   7-5       |  5   6-5       | 11  13-10
+14  Sivasspor               13 |  6  10-7       |  6   5-11      | 12  15-18
+15  Esenler Erokspor        12 |  5   5-9       |  7   7-7       | 12  12-16
+16  Pendikspor              11 |  6   8-8       |  6   6-15      | 12  14-23
+17  Manisa F.K.             10 |  6   9-9       |  6  10-13      | 12  19-22
+18  Vanspor FK              10 |  6   4-11      |  6   9-11      | 12  13-22
+19  İstanbulspor             5 |  5   4-8       |  7   5-23      | 12   9-31
+20  Boluspor                 1 |  6   2-12      |  5   1-13      | 11   3-25
+
+(26 API-Football requests used)
+
+----------------------------------------------------------------------
+MATCHBOOK: skipped (switched off for this run)

@@ -1,4 +1,6 @@
-RUN 2026-10-29 08:57 local | 2 match(es)
-Gangwon v Kuching FA -> out/Gangwon_v_Kuching_FA.txt
-Tampines Rovers v Svay Rieng -> out/Tampines_Rovers_v_Svay_Rieng.txt
-Requests used: API-Football 53, Matchbook 0
+RUN 2026-10-29 09:42 local | 3 match(es)
+Bitlis Ozguzelderespor v Kayserispor -> out/Bitlis_Ozguzelderespor_v_Kayserispor.txt
+Genclerbirligi v Karakopru Belediyespor -> out/Genclerbirligi_v_Karakopru_Belediyespor.txt
+    !! Genclerbirligi: Ambiguous team name "Genclerbirligi".
+Aarhus Fremad v FC Copenhagen -> out/Aarhus_Fremad_v_FC_Copenhagen.txt
+Requests used: API-Football 66, Matchbook 0
