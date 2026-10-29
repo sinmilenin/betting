@@ -1,11 +1,6 @@
-# Scan 29.10.2026 13:52 top-20 run (first analyses)
-Al Nassr v Al Kholood | n=20 | xg=10
-Kalmar v GAIS | n=20 | xg=10
-Hammarby v Sirius | n=20 | xg=10
-Orgryte v Mjallby | n=20 | xg=10
-Atletico Mineiro v Cruzeiro | n=20 | xg=10
-Pyramids v Wadi Degla | n=20 | xg=10
-Braga v Famalicao | n=20 | xg=10
-Guijuelo v Sporting Gijon | n=20 | xg=10
-Lebrijana v Getafe | n=20 | xg=10
-Sporting Hortaleza v Sevilla | n=20 | xg=10
+# Scan 29.10.2026 13:52 top-20 run retry (ids)
+id:374 v GAIS | n=20 | xg=10
+id:363 v Sirius | n=20 | xg=10
+id:2166 v Mjallby | n=20 | xg=10
+id:217 v Famalicao | n=20 | xg=10
+Hortaleza v Sevilla | n=20 | xg=10
