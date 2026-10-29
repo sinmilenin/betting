@@ -1,5 +1,4 @@
-# Scan 29.10 18:14: new fixtures + Igdir retry
-Arka Gdynia v Stal Rzeszow | n=20 | xg=10
-Koge W v Barcelona W | n=20 | xg=10
-Manchester City W v Paris Saint Germain W | n=20 | xg=10
-Eskisehirspor v 76 Igdir Belediyespor | n=20 | xg=10
+# Scan 29.10 18:14: second run (files of earlier runs not found)
+Frosinone v Lecce | n=20 | xg=10
+Fiorentina v Atalanta | n=20 | xg=10
+Everton v Newcastle | n=20 | xg=10
