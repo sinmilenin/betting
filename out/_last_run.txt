@@ -1,8 +1,5 @@
-RUN 2026-10-29 16:32 local | 4 match(es)
-FC Voluntari v Universitatea Craiova -> out/FC_Voluntari_v_Universitatea_Craiova.txt
-Pena Sport v Huesca -> out/Pena_Sport_v_Huesca.txt
-Eskisehirspor v Igdir -> out/Eskisehirspor_v_Igdir.txt
-    !! Igdir: No team found for "Igdir".
-Antequera v Aguilas -> out/Antequera_v_Aguilas.txt
-    !! Aguilas: Ambiguous team name "Aguilas".
-Requests used: API-Football 79, Matchbook 0
+RUN 2026-10-29 16:34 local | 2 match(es)
+Eskisehirspor v Igdir FK -> out/Eskisehirspor_v_Igdir_FK.txt
+    !! Igdir FK: No team found for "Igdir FK".
+Antequera v id:9823 -> out/Antequera_v_id_9823.txt
+Requests used: API-Football 39, Matchbook 0

@@ -1,6 +1,6 @@
-MATCH Antequera v Aguilas | fetched 2026-10-29 16:32 local
+MATCH Antequera v id:9823 | fetched 2026-10-29 16:34 local
 
-FORM DATA Antequera v Aguilas | source API-Football | 2026-10-29 16:33 UTC
+FORM DATA Antequera v id:9823 | source API-Football | 2026-10-29 16:34 UTC
 H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
 
 === Antequera (id 9742): last 20 finished games ===
@@ -28,22 +28,30 @@ Listed home: 10 games, scored 15 (1.50), conceded 13 (1.30), blanks 2, clean she
 Listed away: 10 games, scored 13 (1.30), conceded 16 (1.60), blanks 3, clean sheets 1
 All: 20 games, scored 28 (1.40), conceded 29 (1.45), blanks 5, clean sheets 3
 
-"Aguilas" matches several teams. Use id:<number> instead of the name:
-  id:1144   Águilas Doradas (Colombia)
-  id:4107   SIMA Águilas (USA)
-  id:9823   Águilas (Spain)
-  id:22754  Davao Aguilas (Philippines)
-  id:23070  Águilas Doradas U20 (Colombia)
-  id:24656  Águilas II (Spain)
-(retrying Aguilas using the opponent's country, Spain)
-"Aguilas" matches several teams. Use id:<number> instead of the name:
-  id:1144   Águilas Doradas (Colombia)
-  id:4107   SIMA Águilas (USA)
-  id:9823   Águilas (Spain)
-  id:22754  Davao Aguilas (Philippines)
-  id:23070  Águilas Doradas U20 (Colombia)
-  id:24656  Águilas II (Spain)
-!! Aguilas: Ambiguous team name "Aguilas".
+=== Águilas (id 9823): last 20 finished games ===
+2026-10-24 A 1-1 v Teruel | Primera División RFEF - Group 2 | Teruel
+2026-10-17 H 1-2 v Ibiza | Primera División RFEF - Group 2 | ?
+2026-10-10 H 2-2 v Huesca | Primera División RFEF - Group 2 | ?
+2026-10-03 A 1-4 v FC Cartagena | Primera División RFEF - Group 2 | Cartagena
+2026-09-26 H 0-1 v Hércules | Primera División RFEF - Group 2 | ?
+2026-09-20 A 1-1 v Algeciras | Primera División RFEF - Group 2 | Algeciras
+2026-09-12 H 1-0 v Real Madrid II | Primera División RFEF - Group 2 | ?
+2026-09-05 A 0-2 v Sant Andreu | Primera División RFEF - Group 2 | Barcelona
+2026-08-30 H 2-2 v Alcorcon | Primera División RFEF - Group 2 | ?
+2026-08-15 H 1-0 v Lorca Deportiva | Friendlies Clubs | ?
+2026-07-25 H 0-1 v Almeria | Friendlies Clubs | ?
+2026-05-31 A 0-0 v Poblense | Segunda División RFEF - Play-offs | ? [PEN, 90-min score shown]
+2026-05-24 H 0-0 v Poblense | Segunda División RFEF - Play-offs | ?
+2026-05-17 H 2-1 v Utebo | Segunda División RFEF - Play-offs | ?
+2026-05-10 A 2-1 v Utebo | Segunda División RFEF - Play-offs | Utebo
+2026-05-03 H 2-0 v Almería II | Segunda División RFEF - Group 4 | Águilas
+2026-04-26 A 1-2 v Estepona | Segunda División RFEF - Group 4 | Estepona
+2026-04-19 H 2-0 v Lorca Deportiva | Segunda División RFEF - Group 4 | Águilas
+2026-04-12 A 1-0 v Melilla | Segunda División RFEF - Group 4 | Melilla
+2026-04-05 H 3-0 v Xerez Deportivo | Segunda División RFEF - Group 4 | Águilas
+Listed home: 12 games, scored 16 (1.33), conceded 9 (0.75), blanks 3, clean sheets 6
+Listed away: 8 games, scored 7 (0.88), conceded 11 (1.38), blanks 2, clean sheets 2
+All: 20 games, scored 23 (1.15), conceded 20 (1.00), blanks 5, clean sheets 8
 
 TABLE FOR Antequera
 LEAGUE TABLE Primera División RFEF - Group 2 2026 | 20 teams | 90 games played
@@ -70,7 +78,9 @@ League averages per game: home 1.62, away 1.08, total 2.70
 19  Juventud Torremolinos    6 |  4   7-8       |  5   4-12      |  9  11-20
 20  Teruel                   6 |  5   3-3       |  4   1-12      |  9   4-15
 
-(14 API-Football requests used)
+(Águilas: same table as Antequera, shown above)
+
+(25 API-Football requests used)
 
 ----------------------------------------------------------------------
 MATCHBOOK: skipped (switched off for this run)
