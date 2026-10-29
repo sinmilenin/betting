@@ -1,16 +1,5 @@
 [
   {
-    "id": "2026-10-29_san-jose-earthquakes-colorado_2-2",
-    "date": "2026-10-29",
-    "ko": "03:30",
-    "match": "San Jose Earthquakes v Colorado",
-    "comp": "United States, US MLS",
-    "cell": "2-2",
-    "lay": 15,
-    "stake": 3,
-    "created": "2026-10-28T20:05:17+00:00"
-  },
-  {
     "id": "2026-10-29_fc-inter-turku-hjk-helsinki_2-2",
     "date": "2026-10-29",
     "ko": "17:00",
@@ -31,5 +20,16 @@
     "lay": 10,
     "stake": 3,
     "created": "2026-10-29T06:47:38Z"
+  },
+  {
+    "id": "2026-10-29_tampines-rovers-svay-rieng-fc_0-1",
+    "date": "2026-10-29",
+    "ko": "11:00",
+    "match": "Tampines Rovers v Svay Rieng FC",
+    "comp": "International, AFC Champions League Two",
+    "cell": "0-1",
+    "lay": 20,
+    "stake": 3,
+    "created": "2026-10-29T08:59:00Z"
   }
 ]
