@@ -1,0 +1,82 @@
+MATCH FC Voluntari v Universitatea Craiova | fetched 2026-10-29 16:32 local
+
+FORM DATA FC Voluntari v Universitatea Craiova | source API-Football | 2026-10-29 16:32 UTC
+H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
+
+=== FC Voluntari (id 2578): last 20 finished games ===
+2026-10-24 A 1-2 v Csikszereda | Liga I | Miercurea Ciuc | xG 1.32-1.62
+2026-10-19 H 1-2 v FCSB | Liga I | Voluntari | xG 0.76-3.04
+2026-10-09 A 2-3 v Corvinul Hunedoara | Liga I | Arad | xG 1.62-2.70
+2026-09-20 H 0-2 v Universitatea Cluj | Liga I | Voluntari | xG 1.38-2.51
+2026-09-12 A 1-2 v Rapid | Liga I | Bucharest | xG 1.09-1.93
+2026-09-07 H 1-0 v Arges Pitesti | Liga I | Voluntari | xG 1.19-2.51
+2026-09-01 A 1-0 v Chindia Targoviste | Cupa României | Targoviste
+2026-08-28 H 2-2 v Oţelul | Liga I | Voluntari
+2026-08-23 A 1-3 v Universitatea Craiova | Liga I | Craiova | xG 0.87-4.58
+2026-08-19 A 1-0 v CS Afumati | Cupa României | ?
+2026-08-14 H 1-2 v Petrolul Ploiesti | Liga I | Voluntari
+2026-08-08 A 0-4 v Dinamo Bucuresti | Liga I | Bucharest
+2026-08-01 H 1-0 v Uta Arad | Liga I | Voluntari
+2026-07-27 A 0-5 v CFR 1907 Cluj | Liga I | Cluj Napoca
+2026-07-17 H 2-2 v FC Botosani | Liga I | Voluntari
+2026-07-11 H 3-0 v Farul Constanta | Friendlies Clubs | ?
+2026-07-02 A 1-2 v NK Varazdin | Friendlies Clubs | ?
+2026-06-30 H 3-2 v Tiszakecske FC | Friendlies Clubs | ?
+2026-06-27 A 3-0 v Nafta | Friendlies Clubs | ?
+2026-06-01 H 3-0 v AFC Hermannstadt | Liga I | Voluntari
+Listed home: 10 games, scored 17 (1.70), conceded 12 (1.20), blanks 1, clean sheets 4
+Listed away: 10 games, scored 11 (1.10), conceded 21 (2.10), blanks 2, clean sheets 3
+All: 20 games, scored 28 (1.40), conceded 33 (1.65), blanks 3, clean sheets 7
+
+=== Universitatea Craiova (id 632): last 20 finished games ===
+2026-10-26 A 5-0 v Sepsi OSK Sfantu Gheorghe | Liga I | Sfantu Gheorghe | xG 4.18-0.00
+2026-10-22 A 3-1 v Inter Club d'Escaldes | UEFA Europa Conference League | Encamp | xG 1.95-0.51
+2026-10-18 H 2-0 v Farul Constanta | Liga I | Craiova | xG 1.30-0.72
+2026-10-15 H 1-1 v Getafe | UEFA Europa Conference League | Craiova | xG 0.60-1.45
+2026-10-11 A 1-0 v Csikszereda | Liga I | Miercurea Ciuc | xG 3.33-0.47
+2026-10-04 A 4-0 v Slatina | Friendlies Clubs | ?
+2026-09-19 H 5-0 v FCSB | Liga I | Craiova | xG 3.14-0.61
+2026-09-13 A 1-0 v Corvinul Hunedoara | Liga I | Arad | xG 1.07-0.60
+2026-09-07 H 4-0 v Universitatea Cluj | Liga I | Craiova | xG 2.05-0.66
+2026-09-03 A 2-1 v FC Bacau | Cupa României | ?
+2026-08-31 A 1-1 v Rapid | Liga I | Bucharest
+2026-08-27 A 0-1 v Ararat-Armenia | UEFA Europa League | Yerevan
+2026-08-23 H 3-1 v FC Voluntari | Liga I | Craiova
+2026-08-20 H 1-1 v Ararat-Armenia | UEFA Europa League | Craiova
+2026-08-16 A 1-1 v Oţelul | Liga I | Galati
+2026-08-13 H 2-1 v KuPS | UEFA Europa League | Craiova
+2026-08-09 H 0-1 v Arges Pitesti | Liga I | Craiova
+2026-08-06 A 1-1 v KuPS | UEFA Europa League | Kuopio
+2026-08-01 H 4-0 v Petrolul Ploiesti | Liga I | Craiova
+2026-07-29 H 2-2 v Levski Sofia | UEFA Champions League | Craiova
+Listed home: 10 games, scored 24 (2.40), conceded 7 (0.70), blanks 1, clean sheets 4
+Listed away: 10 games, scored 19 (1.90), conceded 6 (0.60), blanks 1, clean sheets 4
+All: 20 games, scored 43 (2.15), conceded 13 (0.65), blanks 2, clean sheets 8
+
+TABLE FOR FC Voluntari
+LEAGUE TABLE Liga I 2026 | 16 teams | 104 games played
+League averages per game: home 1.72, away 1.02, total 2.74
+#   team                   Pts | home P GF-GA  | away P GF-GA  | all P GF-GA
+1   Dinamo Bucuresti        30 |  6  19-3       |  7  10-6       | 13  29-9
+2   Universitatea Craiova   29 |  7  22-2       |  6  10-7       | 13  32-9
+3   Rapid                   27 |  7  12-5       |  6   9-8       | 13  21-13
+4   Petrolul Ploiesti       23 |  6   7-3       |  7  11-14      | 13  18-17
+5   Universitatea Cluj      22 |  7  16-12      |  6   9-8       | 13  25-20
+6   FCSB                    21 |  7  15-10      |  6   5-9       | 13  20-19
+7   Farul Constanta         20 |  6  16-8       |  7   5-12      | 13  21-20
+8   Uta Arad                18 |  6   9-3       |  7   7-14      | 13  16-17
+9   CFR 1907 Cluj           17 |  6  12-6       |  7   7-14      | 13  19-20
+10  Corvinul Hunedoara      16 |  7  11-8       |  6   3-8       | 13  14-16
+11  FC Botosani             14 |  6  10-4       |  7   7-13      | 13  17-17
+12  Sepsi OSK Sfantu Gheor  14 |  6   5-9       |  7   3-9       | 13   8-18
+13  Arges Pitesti           12 |  7   4-5       |  6   4-9       | 13   8-14
+14  Oţelul                  11 |  7   8-8       |  6   7-13      | 13  15-21
+15  FC Voluntari             8 |  7   8-10      |  6   5-19      | 13  13-29
+16  Csikszereda              5 |  6   5-10      |  7   4-16      | 13   9-26
+
+(Universitatea Craiova: same table as FC Voluntari, shown above)
+
+(25 API-Football requests used)
+
+----------------------------------------------------------------------
+MATCHBOOK: skipped (switched off for this run)

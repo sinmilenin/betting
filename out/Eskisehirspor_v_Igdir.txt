@@ -1,0 +1,59 @@
+MATCH Eskisehirspor v Igdir | fetched 2026-10-29 16:32 local
+
+FORM DATA Eskisehirspor v Igdir | source API-Football | 2026-10-29 16:33 UTC
+H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
+
+=== Eskişehirspor (id 3572): last 20 finished games ===
+2026-10-24 H 2-2 v Bursa Yıldırımspor | 3. Lig - Group 2 | ?
+2026-10-17 A 4-1 v Altay | 3. Lig - Group 2 | Izmir
+2026-10-11 H 1-1 v Etimesgut SK | 3. Lig - Group 2 | ?
+2026-10-07 H 4-1 v Akşehirspor | Türkiye Kupası | ?
+2026-10-03 A 3-0 v Akşehirspor | 3. Lig - Group 2 | ?
+2026-09-27 H 7-1 v Balıkesirspor | 3. Lig - Group 2 | ?
+2026-09-19 A 0-3 v Bigaspor | 3. Lig - Group 2 | ?
+2026-09-13 A 2-2 v Uşak Spor | 3. Lig - Group 2 | ?
+2026-09-06 H 4-0 v Alanya 1221 FK | 3. Lig - Group 2 | ?
+2026-05-08 H 0-0 v Ayvalikgucu | 3. Lig - Play-offs | ?
+2026-05-04 A 0-2 v Ayvalikgucu | 3. Lig - Play-offs | Ayvalik
+2026-04-28 H 3-0 v Balıkesirspor | 3. Lig - Play-offs | ?
+2026-04-24 A 1-2 v Balıkesirspor | 3. Lig - Play-offs | Balikesir
+2026-04-18 H 1-0 v Alanya 1221 FK | 3. Lig - Group 4 | Eskişehir
+2026-04-12 A 1-1 v Balıkesirspor | 3. Lig - Group 4 | Balikesir
+2026-04-05 H 4-0 v Kütahyaspor | 3. Lig - Group 4 | Eskişehir
+2026-03-29 A 0-0 v Karsiyaka | 3. Lig - Group 4 | İzmir
+2026-03-24 H 2-0 v Tire 2021 FK | 3. Lig - Group 4 | Eskişehir
+2026-03-14 A 4-0 v Söke 1970 | 3. Lig - Group 4 | Didim
+2026-03-08 H 7-0 v Bornova 1877 | 3. Lig - Group 4 | Eskişehir
+Listed home: 11 games, scored 35 (3.18), conceded 5 (0.45), blanks 1, clean sheets 7
+Listed away: 9 games, scored 15 (1.67), conceded 11 (1.22), blanks 3, clean sheets 3
+All: 20 games, scored 50 (2.50), conceded 16 (0.80), blanks 4, clean sheets 10
+
+!! Igdir: No team found for "Igdir".
+
+TABLE FOR Eskişehirspor
+LEAGUE TABLE 3. Lig - Group 2 2026 | 18 teams | 72 games played
+League averages per game: home 1.49, away 1.18, total 2.67
+#   team                   Pts | home P GF-GA  | away P GF-GA  | all P GF-GA
+1   Nilüfer Belediye        18 |  4   3-1       |  4   9-2       |  8  12-3
+2   Etimesgut SK            17 |  4   6-2       |  4   6-2       |  8  12-4
+3   Balıkesirspor           16 |  4  16-3       |  4   8-12      |  8  24-15
+4   Bursa Yıldırımspor      16 |  4   5-3       |  4   5-2       |  8  10-5
+5   Eskişehirspor           15 |  4  14-4       |  4   9-6       |  8  23-10
+6   Anadolu Üniversitesi    15 |  4   8-3       |  4   4-2       |  8  12-5
+7   Ayvalikgucu             15 |  4   7-3       |  4   5-4       |  8  12-7
+8   Bigaspor                14 |  4   9-3       |  4   6-8       |  8  15-11
+9   Karsiyaka               12 |  4   4-3       |  4   3-3       |  8   7-6
+10  Gaziemirspor            10 |  4   6-7       |  4   4-4       |  8  10-11
+11  Altay                    9 |  4   3-7       |  4   4-7       |  8   7-14
+12  Söke 1970                7 |  4   8-7       |  4   3-5       |  8  11-12
+13  Uşak Spor                7 |  4   6-4       |  4   3-7       |  8   9-11
+14  Bucaspor 1928            6 |  4   4-6       |  4   4-8       |  8   8-14
+15  Denizli İYG              6 |  4   2-3       |  4   4-11      |  8   6-14
+16  Kepezspor                5 |  4   2-7       |  4   3-6       |  8   5-13
+17  Alanya 1221 FK           4 |  4   1-9       |  4   3-8       |  8   4-17
+18  Akşehirspor              3 |  4   3-10      |  4   2-10      |  8   5-20
+
+(14 API-Football requests used)
+
+----------------------------------------------------------------------
+MATCHBOOK: skipped (switched off for this run)

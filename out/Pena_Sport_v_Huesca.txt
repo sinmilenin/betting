@@ -1,0 +1,107 @@
+MATCH Pena Sport v Huesca | fetched 2026-10-29 16:32 local
+
+FORM DATA Pena Sport v Huesca | source API-Football | 2026-10-29 16:32 UTC
+H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
+
+=== Peña Sport (id 9406): last 20 finished games ===
+2026-10-24 H 1-1 v Reddis | Segunda División RFEF - Group 2 | ?
+2026-10-18 A 1-1 v Calamocha | Segunda División RFEF - Group 2 | Tarazona
+2026-10-10 A 0-1 v Náxara | Segunda División RFEF - Group 2 | ?
+2026-10-03 H 4-0 v SD Logroñés | Segunda División RFEF - Group 2 | ?
+2026-09-26 A 0-4 v Barcelona B | Segunda División RFEF - Group 2 | Barcelona
+2026-09-19 H 2-1 v Espanyol II | Segunda División RFEF - Group 2 | ?
+2026-09-12 A 0-2 v Manresa | Segunda División RFEF - Group 2 | ?
+2026-09-06 H 1-1 v Utebo | Segunda División RFEF - Group 2 | ?
+2026-08-18 A 1-1 v Mutilvera | Friendlies Clubs | ?
+2026-05-09 A 2-1 v Atlético Artajonés | Tercera División RFEF - Group 15 | Artajona
+2026-05-03 H 2-1 v Subiza | Tercera División RFEF - Group 15 | Tafalla
+2026-04-24 A 1-1 v San Juan | Tercera División RFEF - Group 15 | Pamplona
+2026-04-18 H 4-2 v Beti Onak | Tercera División RFEF - Group 15 | Tafalla
+2026-04-11 A 1-2 v Avance Ezcabarte | Tercera División RFEF - Group 15 | Arre
+2026-04-01 H 2-0 v Ardoi | Tercera División RFEF - Group 15 | Tafalla
+2026-03-29 A 1-1 v Beti Kozkor | Tercera División RFEF - Group 15 | Lekunberri
+2026-03-22 A 2-1 v Aoiz | Tercera División RFEF - Group 15 | Agoitz (Aoiz)
+2026-03-18 H 2-1 v Cortes | Tercera División RFEF - Group 15 | Tafalla
+2026-03-14 H 1-0 v Valle Egüés | Tercera División RFEF - Group 15 | Tafalla
+2026-03-07 A 1-0 v Huarte | Tercera División RFEF - Group 15 | Huarte (Uharte)
+Listed home: 9 games, scored 19 (2.11), conceded 7 (0.78), blanks 0, clean sheets 3
+Listed away: 11 games, scored 10 (0.91), conceded 15 (1.36), blanks 3, clean sheets 1
+All: 20 games, scored 29 (1.45), conceded 22 (1.10), blanks 3, clean sheets 4
+
+=== Huesca (id 726): last 20 finished games ===
+2026-10-24 H 1-1 v Antequera | Primera División RFEF - Group 2 | Huesca
+2026-10-16 A 1-1 v Alcorcon | Primera División RFEF - Group 2 | ?
+2026-10-10 A 2-2 v Águilas | Primera División RFEF - Group 2 | ?
+2026-10-04 H 3-1 v Europa Fc | Primera División RFEF - Group 2 | Huesca
+2026-09-27 A 1-1 v Teruel | Primera División RFEF - Group 2 | Teruel
+2026-09-19 H 0-0 v Atlético Madrid II | Primera División RFEF - Group 2 | Huesca
+2026-09-13 H 0-3 v Villarreal II | Primera División RFEF - Group 2 | Huesca
+2026-09-06 A 2-2 v Real Jaén | Primera División RFEF - Group 2 | ?
+2026-08-29 H 1-0 v Sant Andreu | Primera División RFEF - Group 2 | Huesca
+2026-08-22 H 1-0 v Barbastro | Friendlies Clubs | ?
+2026-08-16 H 3-1 v Teruel | Friendlies Clubs | ?
+2026-08-13 A 2-2 v Gimnastic | Friendlies Clubs | ? [PEN, 90-min score shown]
+2026-08-07 H 4-0 v FC Andorra | Friendlies Clubs | ?
+2026-08-04 H 0-1 v UD Logroñés | Friendlies Clubs | ?
+2026-08-01 A 2-0 v Real Sociedad II | Friendlies Clubs | ?
+2026-07-25 H 1-0 v Petro de Luanda | Friendlies Clubs | ?
+2026-05-31 A 1-1 v Cordoba | Segunda División | Cordoba
+2026-05-24 H 0-1 v Castellón | Segunda División | Huesca
+2026-05-18 A 0-0 v Leganes | Segunda División | Leganes
+2026-05-11 H 1-2 v Real Sociedad II | Segunda División | Huesca
+Listed home: 12 games, scored 15 (1.25), conceded 10 (0.83), blanks 4, clean sheets 5
+Listed away: 8 games, scored 11 (1.38), conceded 9 (1.12), blanks 1, clean sheets 2
+All: 20 games, scored 26 (1.30), conceded 19 (0.95), blanks 5, clean sheets 7
+
+TABLE FOR Peña Sport
+LEAGUE TABLE Segunda División RFEF - Group 2 2026 | 18 teams | 71 games played
+League averages per game: home 1.44, away 1.00, total 2.44
+#   team                   Pts | home P GF-GA  | away P GF-GA  | all P GF-GA
+1   Barcelona B             19 |  4  12-1       |  4   3-3       |  8  15-4
+2   Espanyol II             16 |  3  11-0       |  4   6-5       |  7  17-5
+3   Olot                    15 |  4   6-5       |  4   8-3       |  8  14-8
+4   Terrassa                15 |  3   4-0       |  5   3-2       |  8   7-2
+5   Manresa                 14 |  4   5-3       |  4   9-4       |  8  14-7
+6   Osasuna II              14 |  4   7-1       |  4   3-4       |  8  10-5
+7   Girona II               13 |  4  10-5       |  4   6-7       |  8  16-12
+8   Ebro                    13 |  4   5-1       |  4   6-7       |  8  11-8
+9   Reddis                  11 |  4   3-6       |  4   5-4       |  8   8-10
+10  Tudelano                 9 |  5   5-7       |  3   6-5       |  8  11-12
+11  Peña Sport               9 |  4   8-3       |  4   1-8       |  8   9-11
+12  UD Logroñés II           9 |  3   4-5       |  5   4-7       |  8   8-12
+13  Barbastro                8 |  4   5-5       |  4   2-3       |  8   7-8
+14  Utebo                    8 |  4   2-3       |  4   5-5       |  8   7-8
+15  Náxara                   5 |  3   2-2       |  4   1-10      |  7   3-12
+16  Calamocha                5 |  4   4-7       |  4   1-10      |  8   5-17
+17  SD Logroñés              4 |  5   4-7       |  3   1-6       |  8   5-13
+18  Arnedo                   3 |  5   5-10      |  3   1-9       |  8   6-19
+
+TABLE FOR Huesca
+LEAGUE TABLE Primera División RFEF - Group 2 2026 | 20 teams | 90 games played
+League averages per game: home 1.62, away 1.08, total 2.70
+#   team                   Pts | home P GF-GA  | away P GF-GA  | all P GF-GA
+1   Villarreal II           20 |  5  10-5       |  4  11-5       |  9  21-10
+2   Zaragoza                20 |  3   6-1       |  6  11-9       |  9  17-10
+3   Real Jaén               16 |  4   8-6       |  5   5-3       |  9  13-9
+4   Real Murcia             16 |  4   8-1       |  5   3-7       |  9  11-8
+5   FC Cartagena            15 |  4   8-1       |  5   6-8       |  9  14-9
+6   Alcorcon                14 |  5  12-4       |  4   5-5       |  9  17-9
+7   Gimnastic               14 |  5  13-7       |  4   2-7       |  9  15-14
+8   Ibiza                   14 |  4   5-4       |  5   9-9       |  9  14-13
+9   Algeciras               13 |  5   7-4       |  4   6-9       |  9  13-13
+10  Hércules                13 |  5   3-4       |  4   5-7       |  9   8-11
+11  Huesca                  12 |  5   5-5       |  4   6-6       |  9  11-11
+12  Real Madrid II          12 |  4   9-6       |  5   2-5       |  9  11-11
+13  Antequera               11 |  4   7-4       |  5   7-9       |  9  14-13
+14  Atlético Madrid II      10 |  5  12-10      |  4   5-5       |  9  17-15
+15  Sant Andreu              9 |  4   7-5       |  5   3-7       |  9  10-12
+16  Rayo Majadahonda         7 |  5   6-5       |  4   1-5       |  9   7-10
+17  Águilas                  7 |  5   6-7       |  4   3-8       |  9   9-15
+18  Europa Fc                7 |  5   4-7       |  4   2-8       |  9   6-15
+19  Juventud Torremolinos    6 |  4   7-8       |  5   4-12      |  9  11-20
+20  Teruel                   6 |  5   3-3       |  4   1-12      |  9   4-15
+
+(26 API-Football requests used)
+
+----------------------------------------------------------------------
+MATCHBOOK: skipped (switched off for this run)
