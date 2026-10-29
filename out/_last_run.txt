@@ -1,4 +1,5 @@
-RUN 2026-10-29 12:57 local | 2 match(es)
-id:2939 v Al Kholood -> out/id_2939_v_Al_Kholood.txt
-id:1062 v Cruzeiro -> out/id_1062_v_Cruzeiro.txt
-Requests used: API-Football 51, Matchbook 0
+RUN 2026-10-29 13:41 local | 2 match(es)
+Modern Sport v Al Ahly -> out/Modern_Sport_v_Al_Ahly.txt
+    !! Modern Sport: No team found for "Modern Sport".
+Volos NFC v Atromitos -> out/Volos_NFC_v_Atromitos.txt
+Requests used: API-Football 40, Matchbook 0
