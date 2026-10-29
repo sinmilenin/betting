@@ -1,4 +1,5 @@
-RUN 2026-10-29 14:43 local | 1 match(es)
-CS Concordia Chiajna v Sepsi OSK -> out/CS_Concordia_Chiajna_v_Sepsi_OSK.txt
-    !! CS Concordia Chiajna: No team found for "CS Concordia Chiajna".
-Requests used: API-Football 14, Matchbook 0
+RUN 2026-10-29 15:01 local | 3 match(es)
+Paris FC W v Hacken W -> out/Paris_FC_W_v_Hacken_W.txt
+Austria Wien W v Juventus W -> out/Austria_Wien_W_v_Juventus_W.txt
+Atletico Calatayud v Osasuna -> out/Atletico_Calatayud_v_Osasuna.txt
+Requests used: API-Football 73, Matchbook 0
