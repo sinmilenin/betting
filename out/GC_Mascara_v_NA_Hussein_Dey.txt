@@ -1,0 +1,119 @@
+MATCH GC Mascara v NA Hussein Dey | fetched 2026-10-30 06:46 local
+
+FORM DATA GC Mascara v NA Hussein Dey | source API-Football | 2026-10-30 06:46 UTC
+H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
+
+=== GC Mascara (id 927): last 20 finished games ===
+2026-10-24 A 4-2 v Koléa | Ligue 2 | ?
+2026-10-19 H 1-0 v Usm El Harrach | Ligue 2 | ?
+2026-10-13 H 2-0 v Sidi Benali | Ligue 2 | ?
+2026-10-09 A 1-0 v Mostaganem | Ligue 2 | ?
+2026-10-03 H 1-1 v Blida | Ligue 2 | ?
+2026-09-26 A 0-0 v El Bayadh | Ligue 2 | ?
+2026-05-08 A 0-2 v RC Kouba | Ligue 2 | ?
+2026-05-01 H 1-1 v Usm El Harrach | Ligue 2 | ?
+2026-04-25 A 1-1 v MC Saida | Ligue 2 | ?
+2026-04-18 H 3-0 v WA Mostaganem | Ligue 2 | ?
+2026-04-10 H 2-1 v RC Arba | Ligue 2 | ?
+2026-04-03 A 2-3 v ASM Oran | Ligue 2 | ?
+2026-03-28 H 0-1 v JS Tixeraine | Ligue 2 | ?
+2026-03-14 A 1-2 v Tiaret | Ligue 2 | ?
+2026-03-07 H 4-1 v Béchar Djedid | Ligue 2 | ?
+2026-02-28 A 2-0 v Hussein Dey | Ligue 2 | ?
+2026-02-17 H 1-1 v Koléa | Ligue 2 | ?
+2026-02-13 A 1-1 v WA Tlemcen | Ligue 2 | ?
+2026-02-07 H 1-2 v JS El Biar | Ligue 2 | ?
+2026-01-24 A 1-1 v Témouchent | Ligue 2 | ?
+Listed home: 10 games, scored 16 (1.60), conceded 8 (0.80), blanks 1, clean sheets 3
+Listed away: 10 games, scored 13 (1.30), conceded 12 (1.20), blanks 2, clean sheets 3
+All: 20 games, scored 29 (1.45), conceded 20 (1.00), blanks 3, clean sheets 6
+
+=== NA Hussein Dey U21 (id 10838): last 20 finished games ===
+2022-06-09 H 0-1 v US Biskra U21 | U21 League 1 | ?
+2022-06-04 A 0-3 v JS Saoura U21 | U21 League 1 | ?
+2022-05-26 H 1-2 v RC Arbaâ U21 | U21 League 1 | ?
+2022-05-19 H 3-0 v RC Relizane U21 | U21 League 1 | ?
+2022-05-12 A 0-1 v ES Sétif U21 | U21 League 1 | ?
+2022-05-05 H 2-2 v Olympique Médéa U21 | U21 League 1 | ?
+2022-04-28 A 2-2 v Paradou AC U21 | U21 League 1 | ?
+2022-04-22 H 2-5 v CS Constantine U21 | U21 League 1 | ?
+2022-04-16 A 3-3 v MC Alger U21 | U21 League 1 | ?
+2022-04-11 H 1-0 v WA Tlemcen U21 | U21 League 1 | ?
+2022-03-31 A 1-1 v NC Magra U21 | U21 League 1 | ?
+2022-03-24 H 3-1 v CR Belouizdad U21 | U21 League 1 | ?
+2022-03-17 A 1-2 v MC Oran U21 | U21 League 1 | ?
+2022-03-10 H 1-0 v ASO Chlef U21 | U21 League 1 | ?
+2022-03-05 A 1-2 v JS Kabylie U21 | U21 League 1 | ?
+2022-02-28 H 1-0 v HB Chelghoum Laïd U21 | U21 League 1 | ?
+2022-02-24 A 0-1 v USM Alger U21 | U21 League 1 | ?
+2022-02-08 H 0-0 v MC Alger U21 | U21 League 1 | ?
+2022-02-04 A 2-2 v US Biskra U21 | U21 League 1 | ?
+2022-01-29 H 1-1 v JS Saoura U21 | U21 League 1 | ?
+Listed home: 11 games, scored 15 (1.36), conceded 12 (1.09), blanks 2, clean sheets 5
+Listed away: 9 games, scored 10 (1.11), conceded 17 (1.89), blanks 3, clean sheets 0
+All: 20 games, scored 25 (1.25), conceded 29 (1.45), blanks 5, clean sheets 5
+
+TABLE FOR GC Mascara
+LEAGUE TABLE Ligue 2 2026 | 32 teams | 106 games played
+League averages per game: home 1.37, away 0.73, total 2.09
+#   team                   Pts | home P GF-GA  | away P GF-GA  | all P GF-GA
+1   Azazga                  14 |  3   6-1       |  4   3-3       |  7   9-4 [East]
+2   MSP Batna               14 |  3   3-1       |  4   4-3       |  7   7-4 [East]
+3   USM Annaba              13 |  4   8-1       |  3   3-4       |  7  11-5 [East]
+4   JSM Skikda              12 |  4   6-1       |  2   1-3       |  6   7-4 [East]
+5   Khroub                  12 |  4   5-3       |  3   1-1       |  7   6-4 [East]
+6   NC Magra                11 |  3   2-0       |  4   4-7       |  7   6-7 [East]
+7   MO Bejaia               10 |  3   4-1       |  3   4-4       |  6   8-5 [East]
+8   MO Constantine          10 |  3   3-2       |  4   2-2       |  7   5-4 [East]
+9   CA Batna                 9 |  4   5-3       |  3   0-1       |  7   5-4 [East]
+10  Teleghma                 8 |  4   5-4       |  3   3-5       |  7   8-9 [East]
+11  Nrb Beni Oulbene         8 |  3   3-0       |  4   1-5       |  7   4-5 [East]
+12  US Chaouia               8 |  4   3-1       |  3   0-6       |  7   3-7 [East]
+13  Paradou AC               7 |  2   4-1       |  4   2-5       |  6   6-6 [East]
+14  IRB Nezla                4 |  3   3-3       |  3   1-5       |  6   4-8 [East]
+15  CR Béni Thour            3 |  3   4-6       |  3   2-7       |  6   6-13 [East]
+16  JS Jijel                 2 |  3   2-3       |  3   0-5       |  6   2-8 [East]
+1   GC Mascara              17 |  4   7-1       |  3   5-2       |  7  12-3 [West]
+2   Blida                   17 |  3   7-1       |  4   5-2       |  7  12-3 [West]
+3   RC Kouba                15 |  3   6-0       |  4   7-3       |  7  13-3 [West]
+4   MC Saida                14 |  4   4-2       |  2   3-1       |  6   7-3 [West]
+5   ASM Oran                11 |  3   9-2       |  4   1-2       |  7  10-4 [West]
+6   Usm El Harrach          11 |  4   8-1       |  3   1-6       |  7   9-7 [West]
+7   Mostaganem              11 |  4   4-3       |  3   5-4       |  7   9-7 [West]
+8   Sidi Benali             11 |  4   9-5       |  3   1-5       |  7  10-10 [West]
+9   Hussein Dey              9 |  4   6-2       |  3   2-7       |  7   8-9 [West]
+10  WA Mostaganem            7 |  3   3-1       |  4   5-8       |  7   8-9 [West]
+11  WA Tlemcen               7 |  3   4-3       |  3   0-4       |  6   4-7 [West]
+12  Tiaret                   5 |  3   3-4       |  4   8-6       |  7  11-10 [West]
+13  RC Arba                  3 |  1   2-1       |  3   1-7       |  4   3-8 [West]
+14  El Bayadh                3 |  3   1-2       |  4   0-5       |  7   1-7 [West]
+15  Koléa                    3 |  4   5-10      |  2   1-4       |  6   6-14 [West]
+16  Taghit                   1 |  3   1-8       |  4   1-13      |  7   2-21 [West]
+
+TABLE FOR NA Hussein Dey U21
+LEAGUE TABLE U21 League 1 2021 | 18 teams | 306 games played
+League averages per game: home 1.70, away 1.10, total 2.80
+#   team                   Pts | home P GF-GA  | away P GF-GA  | all P GF-GA
+1   CS Constantine U21      74 | 17  47-12      | 17  28-18      | 34  75-30
+2   CR Belouizdad U21       72 | 17  48-10      | 17  34-18      | 34  82-28
+3   JS Kabylie U21          67 | 17  32-12      | 17  33-17      | 34  66-29
+4   JS Saoura U21           67 | 17  43-7       | 17  20-25      | 34  63-32
+5   USM Alger U21           65 | 17  45-10      | 17  27-25      | 34  73-35
+6   ES Sétif U21            65 | 17  33-9       | 17  18-21      | 34  51-30
+7   Paradou AC U21          56 | 17  35-12      | 17  25-26      | 34  60-38
+8   MC Alger U21            51 | 17  27-19      | 17  26-22      | 34  53-41
+9   HB Chelghoum Laïd U21   43 | 17  20-16      | 17  10-25      | 34  30-41
+10  ASO Chlef U21           39 | 17  20-25      | 17  19-32      | 34  39-57
+11  MC Oran U21             38 | 17  23-21      | 17  14-34      | 34  37-55
+12  NA Hussein Dey U21      37 | 17  22-23      | 18  15-33      | 34  37-54
+13  WA Tlemcen U21          35 | 17  26-23      | 17  14-33      | 34  40-57
+14  Olympique Médéa U21     34 | 17  20-23      | 17  14-48      | 34  34-71
+15  RC Arbaâ U21            31 | 17  31-30      | 17  14-36      | 34  45-67
+16  US Biskra U21           31 | 17  19-23      | 17   9-31      | 34  28-54
+17  NC Magra U21            26 | 17  18-26      | 16  13-37      | 34  31-65
+18  RC Relizane U21         19 | 17  10-37      | 17   5-38      | 34  15-75
+
+(26 API-Football requests used)
+
+----------------------------------------------------------------------
+MATCHBOOK: skipped (switched off for this run)

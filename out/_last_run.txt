@@ -1,10 +1,10 @@
-RUN 2026-10-30 06:44 local | 6 match(es)
-SV Elversberg v FSV Mainz 05 -> out/SV_Elversberg_v_FSV_Mainz_05.txt
-Energie Cottbus v VfL Bochum -> out/Energie_Cottbus_v_VfL_Bochum.txt
-Zulte Waregem v Club Brugge KV -> out/Zulte_Waregem_v_Club_Brugge_KV.txt
-Deportivo Pereira v Jaguares -> out/Deportivo_Pereira_v_Jaguares.txt
-Abha v Al Ittihad -> out/Abha_v_Al_Ittihad.txt
-    !! Al Ittihad: Ambiguous team name "Al Ittihad".
-Bodo Glimt v Viking -> out/Bodo_Glimt_v_Viking.txt
-    !! Bodo Glimt: No team found for "Bodo Glimt".
-Requests used: API-Football 131, Matchbook 0
+RUN 2026-10-30 06:46 local | 7 match(es)
+Abha v id:2638 -> out/Abha_v_id_2638.txt
+id:327 v Viking -> out/id_327_v_Viking.txt
+Karmiotissa v Olympiakos Nicosia -> out/Karmiotissa_v_Olympiakos_Nicosia.txt
+    !! Olympiakos Nicosia: No team found for "Olympiakos Nicosia".
+Newport County v Chesterfield -> out/Newport_County_v_Chesterfield.txt
+Sligo Rovers v Derry City -> out/Sligo_Rovers_v_Derry_City.txt
+GC Mascara v NA Hussein Dey -> out/GC_Mascara_v_NA_Hussein_Dey.txt
+Konyaspor U19 v Galatasaray U19 -> out/Konyaspor_U19_v_Galatasaray_U19.txt
+Requests used: API-Football 165, Matchbook 0

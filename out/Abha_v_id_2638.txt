@@ -1,6 +1,6 @@
-MATCH Abha v Al Ittihad | fetched 2026-10-30 06:44 local
+MATCH Abha v id:2638 | fetched 2026-10-30 06:46 local
 
-FORM DATA Abha v Al Ittihad | source API-Football | 2026-10-30 06:45 UTC
+FORM DATA Abha v id:2638 | source API-Football | 2026-10-30 06:46 UTC
 H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
 
 === Abha (id 2951): last 20 finished games ===
@@ -28,20 +28,30 @@ Listed home: 7 games, scored 6 (0.86), conceded 7 (1.00), blanks 3, clean sheets
 Listed away: 13 games, scored 10 (0.77), conceded 24 (1.85), blanks 6, clean sheets 3
 All: 20 games, scored 16 (0.80), conceded 31 (1.55), blanks 9, clean sheets 4
 
-"Al Ittihad" matches several teams. Use id:<number> instead of the name:
-  id:1572   Al Ittihad (Egypt)
-  id:5581   Al Ittihad (Bahrain)
-  id:8019   Al Ittihad (Syria)
-  id:23354  Al Ittihad Ibb (Yemen)
-  id:27714  Al Ittihad W (Saudi-Arabia)
-(retrying Al Ittihad using the opponent's country, Saudi-Arabia)
-"Al Ittihad" matches several teams. Use id:<number> instead of the name:
-  id:1572   Al Ittihad (Egypt)
-  id:5581   Al Ittihad (Bahrain)
-  id:8019   Al Ittihad (Syria)
-  id:23354  Al Ittihad Ibb (Yemen)
-  id:27714  Al Ittihad W (Saudi-Arabia)
-!! Al Ittihad: Ambiguous team name "Al Ittihad".
+=== Odzaci (id 2638): last 20 finished games ===
+2017-05-27 A 2-3 v Sindjelic Beograd | Prva Liga | ?
+2017-05-21 H 2-4 v CSK Pivara | Prva Liga | ?
+2017-05-17 A 1-2 v BSK Borca | Prva Liga | ?
+2017-05-13 H 2-3 v Indjija | Prva Liga | ?
+2017-05-07 H 0-1 v Kolubara | Prva Liga | ?
+2017-05-03 A 0-2 v Radnicki Pirot | Prva Liga | ?
+2017-04-28 H 3-1 v Proleter Novi SAD | Prva Liga | ?
+2017-04-22 A 0-1 v Zemun | Prva Liga | ?
+2017-04-15 H 0-1 v Sloboda Uzice | Prva Liga | ?
+2017-04-08 A 0-0 v Macva | Prva Liga | ?
+2017-04-01 H 3-1 v Bezanija | Prva Liga | ?
+2017-03-24 A 0-2 v Dinamo Vranje | Prva Liga | ?
+2017-03-18 H 2-0 v Jagodina | Prva Liga | ?
+2017-03-11 A 1-1 v Buducnost Dobanovci | Prva Liga | ?
+2017-03-05 H 0-0 v OFK Beograd | Prva Liga | ?
+2016-11-19 H 1-2 v Sindjelic Beograd | Prva Liga | ?
+2016-11-12 A 1-2 v CSK Pivara | Prva Liga | ?
+2016-11-05 H 1-0 v BSK Borca | Prva Liga | ?
+2016-10-29 A 0-1 v Indjija | Prva Liga | ?
+2016-10-22 A 0-2 v Kolubara | Prva Liga | ?
+Listed home: 10 games, scored 14 (1.40), conceded 13 (1.30), blanks 3, clean sheets 3
+Listed away: 10 games, scored 5 (0.50), conceded 16 (1.60), blanks 6, clean sheets 1
+All: 20 games, scored 19 (0.95), conceded 29 (1.45), blanks 9, clean sheets 4
 
 TABLE FOR Abha
 LEAGUE TABLE Pro League 2026 | 18 teams | 98 games played
@@ -66,7 +76,28 @@ League averages per game: home 1.48, away 1.52, total 3.00
 17  Al Taawon                4 |  5   0-7       |  6   5-12      | 11   5-19
 18  Abha                     2 |  4   2-5       |  6   4-13      | 10   6-18
 
-(15 API-Football requests used)
+TABLE FOR Odzaci
+LEAGUE TABLE Prva Liga 2016 | 16 teams | 240 games played
+League averages per game: home 1.40, away 0.86, total 2.25
+#   team                   Pts | home P GF-GA  | away P GF-GA  | all P GF-GA
+1   Macva                   62 | 15  23-12      | 15  26-14      | 30  49-26
+2   Zemun                   61 | 15  23-6       | 15  21-12      | 30  44-18
+3   Sloboda Uzice           54 | 15  29-12      | 15  14-16      | 30  43-28
+4   Indjija                 48 | 15  21-12      | 15  13-18      | 30  34-30
+5   Bezanija                47 | 15  17-4       | 15  19-18      | 30  36-22
+6   Radnicki Pirot          43 | 15  21-9       | 15   9-22      | 30  30-31
+7   Jagodina                41 | 15  25-13      | 15  14-22      | 30  39-35
+8   Dinamo Vranje           39 | 15  23-14      | 15  10-29      | 30  33-43
+9   Sindjelic Beograd       37 | 15  26-15      | 15   6-16      | 30  32-31
+10  Buducnost Dobanovci     37 | 15  19-16      | 15  13-27      | 30  32-43
+11  Proleter Novi SAD       36 | 15  22-15      | 15  12-25      | 30  34-40
+12  CSK Pivara              34 | 15  16-10      | 15  15-22      | 30  31-32
+13  Kolubara                32 | 15  20-13      | 15   8-22      | 30  28-35
+14  BSK Borca               32 | 15  19-18      | 15   8-21      | 30  27-39
+15  Odzaci                  26 | 15  17-14      | 15   7-21      | 30  24-35
+16  OFK Beograd             18 | 15  14-23      | 15  11-30      | 30  25-53
+
+(26 API-Football requests used)
 
 ----------------------------------------------------------------------
 MATCHBOOK: skipped (switched off for this run)
