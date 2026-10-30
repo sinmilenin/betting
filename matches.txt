@@ -1,4 +1,2 @@
-# Scan 30.10 18:13 retry (Ljubljana)
-Oddevold v id:2175 | n=20 | xg=10
-Aalborg v Hobro | n=20 | xg=10
-St Patricks v Bohemians | n=20 | xg=10
+# Scan 30.10 18:13 retry 2 (Ljubljana)
+Patrick v Bohemians | n=20 | xg=10
