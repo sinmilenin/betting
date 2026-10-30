@@ -1,2 +1,2 @@
-# Scan 30.10 15:56 (Ljubljana)
-Shakhtar Donetsk v Obolon | n=20 | xg=10
+# Scan 30.10 15:56 (Ljubljana), retry with id
+Shakhtar Donetsk v id:3630 | n=20 | xg=10
