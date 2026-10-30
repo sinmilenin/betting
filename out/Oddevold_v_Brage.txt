@@ -1,0 +1,64 @@
+MATCH Oddevold v Brage | fetched 2026-10-30 17:14 local
+
+FORM DATA Oddevold v Brage | source API-Football | 2026-10-30 17:14 UTC
+H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
+
+=== Oddevold (id 11674): last 20 finished games ===
+2026-10-23 H 7-0 v GIF Sundsvall | Superettan | Uddevalla
+2026-10-17 A 1-3 v Osters IF | Superettan | Växjö
+2026-10-10 H 2-0 v United Nordic | Superettan | Uddevalla | xG 2.98-0.45
+2026-09-19 H 1-2 v IFK Varnamo | Superettan | Uddevalla
+2026-09-13 A 0-0 v IFK Norrkoping | Superettan | Norrkoping
+2026-09-09 A 1-0 v Sandviken | Superettan | Sandviken
+2026-09-05 H 2-1 v Falkenbergs FF | Superettan | Uddevalla
+2026-08-30 A 1-3 v Varbergs BoIS FC | Superettan | Varberg
+2026-08-23 H 3-1 v Helsingborg | Superettan | Uddevalla
+2026-08-18 A 3-3 v AFC Eskilstuna | Svenska Cupen | ? [PEN, 90-min score shown]
+2026-08-14 A 1-1 v Landskrona BoIS | Superettan | Landskrona
+2026-08-08 A 1-0 v Ljungskile SK | Superettan | Ljungskile
+2026-07-31 H 0-0 v Norrby IF | Superettan | Uddevalla
+2026-07-27 A 0-0 v Orebro SK | Superettan | Orebro
+2026-07-18 H 2-4 v Varbergs BoIS FC | Superettan | Uddevalla
+2026-06-27 A 3-3 v United Nordic | Superettan | ?
+2026-06-22 H 0-0 v Ljungskile SK | Superettan | Uddevalla
+2026-06-14 A 2-0 v Norrby IF | Superettan | ?
+2026-06-09 H 1-2 v IFK Norrkoping | Superettan | Uddevalla
+2026-05-30 A 1-2 v Falkenbergs FF | Superettan | Falkenberg
+Listed home: 9 games, scored 18 (2.00), conceded 10 (1.11), blanks 2, clean sheets 4
+Listed away: 11 games, scored 14 (1.27), conceded 15 (1.36), blanks 2, clean sheets 5
+All: 20 games, scored 32 (1.60), conceded 25 (1.25), blanks 4, clean sheets 9
+
+"Brage" matches several teams. Use id:<number> instead of the name:
+  id:2175   IK brage (Sweden)
+  id:21692  Brage W (Sweden)
+(retrying Brage using the opponent's country, Sweden)
+"Brage" matches several teams. Use id:<number> instead of the name:
+  id:2175   IK brage (Sweden)
+  id:21692  Brage W (Sweden)
+!! Brage: Ambiguous team name "Brage".
+
+TABLE FOR Oddevold
+LEAGUE TABLE Superettan 2026 | 16 teams | 224 games played
+League averages per game: home 1.55, away 1.37, total 2.92
+#   team                   Pts | home P GF-GA  | away P GF-GA  | all P GF-GA
+1   IFK Norrkoping          62 | 14  30-10      | 14  28-8       | 28  58-18
+2   Falkenbergs FF          51 | 14  24-16      | 14  28-22      | 28  52-38
+3   Ostersunds FK           48 | 14  22-13      | 14  16-13      | 28  38-26
+4   Varbergs BoIS FC        47 | 14  23-16      | 14  23-19      | 28  46-35
+5   Landskrona BoIS         44 | 14  21-15      | 14  25-18      | 28  46-33
+6   Oddevold                42 | 14  27-16      | 14  21-21      | 28  48-37
+7   Osters IF               42 | 14  21-17      | 14  25-28      | 28  46-45
+8   United Nordic           39 | 14  25-26      | 14  16-21      | 28  41-47
+9   Sandviken               38 | 14  27-20      | 14  17-18      | 28  44-38
+10  Ljungskile SK           33 | 14  18-19      | 14  19-19      | 28  37-38
+11  Helsingborg             32 | 14  20-21      | 14  17-27      | 28  37-48
+12  IFK Varnamo             32 | 14  15-19      | 14  20-29      | 28  35-48
+13  Orebro SK               29 | 14  12-16      | 14  19-26      | 28  31-42
+14  Norrby IF               27 | 14  20-23      | 14  11-18      | 28  31-41
+15  IK brage                26 | 14  29-30      | 14  16-25      | 28  45-55
+16  GIF Sundsvall           19 | 14  14-29      | 14   5-36      | 28  19-65
+
+(15 API-Football requests used)
+
+----------------------------------------------------------------------
+MATCHBOOK: skipped (switched off for this run)

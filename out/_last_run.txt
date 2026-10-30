@@ -1,8 +1,12 @@
-RUN 2026-10-30 16:31 local | 6 match(es)
-id:350 v Motor Lublin -> out/id_350_v_Motor_Lublin.txt
-id:3716 v Slavia Praha II -> out/id_3716_v_Slavia_Praha_II.txt
-id:2940 v id:2929 -> out/id_2940_v_id_2929.txt
-Lyngby v id:401 -> out/Lyngby_v_id_401.txt
-Nantes v id:99 -> out/Nantes_v_id_99.txt
-id:416 v De Graafschap -> out/id_416_v_De_Graafschap.txt
-Requests used: API-Football 154, Matchbook 0
+RUN 2026-10-30 17:14 local | 7 match(es)
+Oddevold v Brage -> out/Oddevold_v_Brage.txt
+    !! Brage: Ambiguous team name "Brage".
+AaB v Hobro -> out/AaB_v_Hobro.txt
+    !! AaB: Ambiguous team name "AaB".
+Lokomotiv Sofia v Botev Plovdiv -> out/Lokomotiv_Sofia_v_Botev_Plovdiv.txt
+Laval v Boulogne -> out/Laval_v_Boulogne.txt
+Drogheda v Galway United -> out/Drogheda_v_Galway_United.txt
+Shelbourne v Waterford -> out/Shelbourne_v_Waterford.txt
+St Patrick's Athletic v Bohemians -> out/St_Patrick_s_Athletic_v_Bohemians.txt
+    !! St Patrick's Athletic: API-Football error: {"search": "The Search field may only contain alpha-numeric characters and spaces."}
+Requests used: API-Football 142, Matchbook 0
