@@ -1,2 +1,4 @@
-# Scan 30.10 14:18 (+ top-20), retry run 4
-Liptovsky Mikulas v id:10546 | n=20 | xg=10
+# Scan 30.10 15:16 (Ljubljana)
+Turan Tovuz v Sabah | n=20 | xg=10
+Al Draih v NEOM | n=20 | xg=10
+Al Riffa v Al Najma | n=20 | xg=10
