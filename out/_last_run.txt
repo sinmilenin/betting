@@ -1,4 +1,3 @@
 RUN 2026-10-30 09:42 local | 1 match(es)
-Thanh Hoa v Hong Linh Ha Tinh -> out/Thanh_Hoa_v_Hong_Linh_Ha_Tinh.txt
-    !! Thanh Hoa: Ambiguous team name "Thanh Hoa".
-Requests used: API-Football 15, Matchbook 0
+id:3680 v Hong Linh Ha Tinh -> out/id_3680_v_Hong_Linh_Ha_Tinh.txt
+Requests used: API-Football 25, Matchbook 0
