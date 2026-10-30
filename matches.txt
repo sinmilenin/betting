@@ -1,2 +1,8 @@
-# Scan 30.10 15:56 (Ljubljana), retry with id
-Shakhtar Donetsk v id:3630 | n=20 | xg=10
+# Scan 30.10 17:28 (Ljubljana)
+Cracovia v Motor Lublin | n=20 | xg=10
+Karvina v Slavia Praha B | n=20 | xg=10
+Al Shabab v Al Ahli | n=20 | xg=10
+Lyngby v Randers | n=20 | xg=10
+Metz v Pau | n=20 | xg=10
+Nantes v Clermont | n=20 | xg=10
+Volendam v De Graafschap | n=20 | xg=10
