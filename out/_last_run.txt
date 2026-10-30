@@ -1,3 +1,11 @@
-RUN 2026-10-30 11:59 local | 1 match(es)
-Hapoel Afula v Maccabi Kiryat Gat -> out/Hapoel_Afula_v_Maccabi_Kiryat_Gat.txt
-Requests used: API-Football 26, Matchbook 0
+RUN 2026-10-30 13:20 local | 5 match(es)
+FK Kokand 1912 v Qizilqum -> out/FK_Kokand_1912_v_Qizilqum.txt
+    !! FK Kokand 1912: No team found for "FK Kokand 1912".
+CSKA 1948 v Spartak Varna -> out/CSKA_1948_v_Spartak_Varna.txt
+Tatran Liptovsky Mikulas v MSK Zilina II -> out/Tatran_Liptovsky_Mikulas_v_MSK_Zilina_II.txt
+    !! Tatran Liptovsky Mikulas: No team found for "Tatran Liptovsky Mikulas".
+    !! MSK Zilina II: No team found for "MSK Zilina II".
+Rapid Bucuresti v Csikszereda -> out/Rapid_Bucuresti_v_Csikszereda.txt
+Grazer AK v Hartberg -> out/Grazer_AK_v_Hartberg.txt
+    !! Hartberg: Ambiguous team name "Hartberg".
+Requests used: API-Football 83, Matchbook 0
