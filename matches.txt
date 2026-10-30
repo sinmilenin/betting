@@ -1,2 +1,2 @@
-# Scan 30.10 10:41
-Thanh Hoa v Hong Linh Ha Tinh | n=20 | xg=10
+# Scan 30.10 10:41, run 2 (Thanh Hoa id)
+id:3680 v Hong Linh Ha Tinh | n=20 | xg=10
