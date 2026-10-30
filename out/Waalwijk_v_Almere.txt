@@ -1,0 +1,150 @@
+MATCH Waalwijk v Almere | fetched 2026-10-30 18:05 local
+
+FORM DATA Waalwijk v Almere | source API-Football | 2026-10-30 18:05 UTC
+H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
+
+=== Waalwijk (id 417): last 20 finished games ===
+2026-10-27 A 1-1 v Barendrecht | KNVB Beker | ? [PEN, 90-min score shown]
+2026-10-23 A 1-1 v De Graafschap | Eerste Divisie | Dutinghem | xG 1.59-1.02
+2026-10-18 H 1-1 v FC Volendam | Eerste Divisie | Waalwijk | xG 2.38-0.70
+2026-10-09 A 0-3 v Heracles | Eerste Divisie | Armello | xG 0.69-2.39
+2026-10-03 H 1-1 v Emmen | Eerste Divisie | Waalwijk | xG 1.09-1.77
+2026-09-26 A 0-2 v Roda | Eerste Divisie | Kerkrade | xG 0.78-0.49
+2026-09-18 H 6-1 v MVV | Eerste Divisie | Waalwijk | xG 2.43-0.54
+2026-09-11 A 2-0 v Jong Ajax | Eerste Divisie | Ouder-Amstel | xG 1.17-1.40
+2026-09-04 H 4-2 v NAC Breda | Eerste Divisie | Waalwijk | xG 1.64-0.48
+2026-08-28 H 2-2 v Jong PSV U21 | Eerste Divisie | Waalwijk | xG 1.15-1.11
+2026-08-21 A 1-1 v Helmond Sport | Eerste Divisie | Helmond
+2026-08-14 H 2-2 v Dordrecht | Eerste Divisie | Waalwijk
+2026-08-07 A 1-1 v Vitesse | Eerste Divisie | Arnhem
+2026-08-02 H 3-0 v Kifisia | Friendlies Clubs | ?
+2026-07-29 H 1-2 v Patro Eisden | Friendlies Clubs | ?
+2026-07-25 H 0-2 v Bochum II | Friendlies Clubs | ?
+2026-07-18 H 2-2 v FC Volendam | Friendlies Clubs | ?
+2026-07-18 H 1-1 v Alemannia Aachen | Friendlies Clubs | ?
+2026-07-11 A 0-0 v Kozakken Boys | Friendlies Clubs | ?
+2026-07-04 H 1-1 v Jong AZ | Friendlies Clubs | ?
+Listed home: 12 games, scored 24 (2.00), conceded 17 (1.42), blanks 1, clean sheets 1
+Listed away: 8 games, scored 6 (0.75), conceded 9 (1.12), blanks 3, clean sheets 2
+All: 20 games, scored 30 (1.50), conceded 26 (1.30), blanks 4, clean sheets 3
+
+"Almere" matches several teams. Use id:<number> instead of the name:
+  id:419    Almere City FC (Netherlands)
+  id:9130   Almere City II (Netherlands)
+  id:20797  Rydalmere Lions (Australia)
+(retrying Almere using the opponent's country, Netherlands)
+"Almere" matches several teams. Use id:<number> instead of the name:
+  id:419    Almere City FC (Netherlands)
+  id:9130   Almere City II (Netherlands)
+  id:20797  Rydalmere Lions (Australia)
+!! Almere: Ambiguous team name "Almere".
+
+TABLE FOR Waalwijk
+LEAGUE TABLE Eerste Divisie 2026 | 100 teams | 240 games played
+League averages per game: home 1.99, away 1.60, total 3.59
+#   team                   Pts | home P GF-GA  | away P GF-GA  | all P GF-GA
+1   Heracles                29 |  5  16-4       |  7  21-10      | 12  37-14 [Eerste Divisie: Regular season]
+2   VVV Venlo               25 |  6  18-10      |  6  16-10      | 12  34-20 [Eerste Divisie: Regular season]
+3   Emmen                   25 |  6  13-7       |  6  13-12      | 12  26-19 [Eerste Divisie: Regular season]
+4   Almere City FC          22 |  6  10-5       |  6  15-7       | 12  25-12 [Eerste Divisie: Regular season]
+5   Roda                    22 |  5   8-4       |  7   7-7       | 12  15-11 [Eerste Divisie: Regular season]
+6   NAC Breda               21 |  6  11-10      |  6  12-10      | 12  23-20 [Eerste Divisie: Regular season]
+7   FC Volendam             19 |  6  22-5       |  6   7-15      | 12  29-20 [Eerste Divisie: Regular season]
+8   Jong AZ                 17 |  6  12-10      |  6  19-16      | 12  31-26 [Eerste Divisie: Regular season]
+9   Vitesse                 17 |  6   8-10      |  6   8-7       | 12  16-17 [Eerste Divisie: Regular season]
+10  MVV                     17 |  6   7-11      |  6   9-16      | 12  16-27 [Eerste Divisie: Regular season]
+11  Waalwijk                16 |  6  16-9       |  6   5-8       | 12  21-17 [Eerste Divisie: Regular season]
+12  Jong PSV U21            16 |  6   9-6       |  6   8-13      | 12  17-19 [Eerste Divisie: Regular season]
+13  Den Bosch               15 |  7  14-12      |  5   4-9       | 12  18-21 [Eerste Divisie: Regular season]
+14  FC OSS                  13 |  6  16-8       |  6   3-12      | 12  19-20 [Eerste Divisie: Regular season]
+15  Jong Ajax               12 |  6   9-14      |  6   9-15      | 12  18-29 [Eerste Divisie: Regular season]
+16  De Graafschap           12 |  6   8-13      |  6   7-13      | 12  15-26 [Eerste Divisie: Regular season]
+17  FC Eindhoven            11 |  7  11-13      |  5   5-12      | 12  16-25 [Eerste Divisie: Regular season]
+18  Dordrecht               11 |  6  10-17      |  6   6-14      | 12  16-31 [Eerste Divisie: Regular season]
+19  Helmond Sport            9 |  6  11-9       |  6   9-17      | 12  20-26 [Eerste Divisie: Regular season]
+20  Jong Utrecht             7 |  6  10-15      |  6   9-16      | 12  19-31 [Eerste Divisie: Regular season]
+1   Heracles                25 |  5  16-4       |  5  15-8       | 10  31-12 [Eerste Divisie: Period 1]
+2   Almere City FC          22 |  5   8-2       |  5  14-5       | 10  22-7 [Eerste Divisie: Period 1]
+3   VVV Venlo               21 |  5  14-6       |  5  12-8       | 10  26-14 [Eerste Divisie: Period 1]
+4   Emmen                   19 |  5  11-6       |  5  11-12      | 10  22-18 [Eerste Divisie: Period 1]
+5   NAC Breda               17 |  5  10-9       |  5  10-10      | 10  20-19 [Eerste Divisie: Period 1]
+6   Roda                    16 |  5   8-4       |  5   2-4       | 10  10-8 [Eerste Divisie: Period 1]
+7   MVV                     16 |  5   6-6       |  5   7-14      | 10  13-20 [Eerste Divisie: Period 1]
+8   FC Volendam             15 |  5  16-3       |  5   6-14      | 10  22-17 [Eerste Divisie: Period 1]
+9   Waalwijk                14 |  5  15-8       |  5   4-7       | 10  19-15 [Eerste Divisie: Period 1]
+10  Vitesse                 14 |  5   8-8       |  5   7-7       | 10  15-15 [Eerste Divisie: Period 1]
+11  Jong AZ                 13 |  5   7-6       |  5  15-12      | 10  22-18 [Eerste Divisie: Period 1]
+12  Jong PSV U21            13 |  5   9-5       |  5   6-12      | 10  15-17 [Eerste Divisie: Period 1]
+13  FC OSS                  12 |  5  13-5       |  5   2-10      | 10  15-15 [Eerste Divisie: Period 1]
+14  Den Bosch               11 |  5  10-9       |  5   4-9       | 10  14-18 [Eerste Divisie: Period 1]
+15  FC Eindhoven            11 |  5  10-10      |  5   5-12      | 10  15-22 [Eerste Divisie: Period 1]
+16  De Graafschap           11 |  5   7-12      |  5   6-11      | 10  13-23 [Eerste Divisie: Period 1]
+17  Helmond Sport            9 |  5  11-7       |  5   5-12      | 10  16-19 [Eerste Divisie: Period 1]
+18  Jong Ajax                8 |  5   7-13      |  5   6-12      | 10  13-25 [Eerste Divisie: Period 1]
+19  Dordrecht                8 |  5   8-13      |  5   5-14      | 10  13-27 [Eerste Divisie: Period 1]
+20  Jong Utrecht             7 |  5   9-13      |  5   7-10      | 10  16-23 [Eerste Divisie: Period 1]
+1   Emmen                    6 |  1   2-1       |  1   2-0       |  2   4-1 [Eerste Divisie: Period 2]
+2   Roda                     6 |  0   0-0       |  2   5-3       |  2   5-3 [Eerste Divisie: Period 2]
+3   FC Volendam              4 |  1   6-2       |  1   1-1       |  2   7-3 [Eerste Divisie: Period 2]
+4   Heracles                 4 |  0   0-0       |  2   6-2       |  2   6-2 [Eerste Divisie: Period 2]
+5   VVV Venlo                4 |  1   4-4       |  1   4-2       |  2   8-6 [Eerste Divisie: Period 2]
+6   NAC Breda                4 |  1   1-1       |  1   2-0       |  2   3-1 [Eerste Divisie: Period 2]
+7   Den Bosch                4 |  2   4-3       |  0   0-0       |  2   4-3 [Eerste Divisie: Period 2]
+8   Jong Ajax                4 |  1   2-1       |  1   3-3       |  2   5-4 [Eerste Divisie: Period 2]
+9   Jong AZ                  4 |  1   5-4       |  1   4-4       |  2   9-8 [Eerste Divisie: Period 2]
+10  Jong PSV U21             3 |  1   0-1       |  1   2-1       |  2   2-2 [Eerste Divisie: Period 2]
+11  Dordrecht                3 |  1   2-4       |  1   1-0       |  2   3-4 [Eerste Divisie: Period 2]
+12  Vitesse                  3 |  1   0-2       |  1   1-0       |  2   1-2 [Eerste Divisie: Period 2]
+13  Waalwijk                 2 |  1   1-1       |  1   1-1       |  2   2-2 [Eerste Divisie: Period 2]
+14  De Graafschap            1 |  1   1-1       |  1   1-2       |  2   2-3 [Eerste Divisie: Period 2]
+15  FC OSS                   1 |  1   3-3       |  1   1-2       |  2   4-5 [Eerste Divisie: Period 2]
+16  MVV                      1 |  1   1-5       |  1   2-2       |  2   3-7 [Eerste Divisie: Period 2]
+17  FC Eindhoven             0 |  2   1-3       |  0   0-0       |  2   1-3 [Eerste Divisie: Period 2]
+18  Almere City FC           0 |  1   2-3       |  1   1-2       |  2   3-5 [Eerste Divisie: Period 2]
+19  Helmond Sport            0 |  1   0-2       |  1   4-5       |  2   4-7 [Eerste Divisie: Period 2]
+20  Jong Utrecht             0 |  1   1-2       |  1   2-6       |  2   3-8 [Eerste Divisie: Period 2]
+1   De Graafschap            0 |  0   0-0       |  0   0-0       |  0   0-0 [Eerste Divisie: Period 3]
+2   VVV Venlo                0 |  0   0-0       |  0   0-0       |  0   0-0 [Eerste Divisie: Period 3]
+3   Den Bosch                0 |  0   0-0       |  0   0-0       |  0   0-0 [Eerste Divisie: Period 3]
+4   Dordrecht                0 |  0   0-0       |  0   0-0       |  0   0-0 [Eerste Divisie: Period 3]
+5   FC Eindhoven             0 |  0   0-0       |  0   0-0       |  0   0-0 [Eerste Divisie: Period 3]
+6   Emmen                    0 |  0   0-0       |  0   0-0       |  0   0-0 [Eerste Divisie: Period 3]
+7   Helmond Sport            0 |  0   0-0       |  0   0-0       |  0   0-0 [Eerste Divisie: Period 3]
+8   MVV                      0 |  0   0-0       |  0   0-0       |  0   0-0 [Eerste Divisie: Period 3]
+9   Almere City FC           0 |  0   0-0       |  0   0-0       |  0   0-0 [Eerste Divisie: Period 3]
+10  FC OSS                   0 |  0   0-0       |  0   0-0       |  0   0-0 [Eerste Divisie: Period 3]
+11  FC Volendam              0 |  0   0-0       |  0   0-0       |  0   0-0 [Eerste Divisie: Period 3]
+12  Waalwijk                 0 |  0   0-0       |  0   0-0       |  0   0-0 [Eerste Divisie: Period 3]
+13  NAC Breda                0 |  0   0-0       |  0   0-0       |  0   0-0 [Eerste Divisie: Period 3]
+14  Roda                     0 |  0   0-0       |  0   0-0       |  0   0-0 [Eerste Divisie: Period 3]
+15  Vitesse                  0 |  0   0-0       |  0   0-0       |  0   0-0 [Eerste Divisie: Period 3]
+16  Heracles                 0 |  0   0-0       |  0   0-0       |  0   0-0 [Eerste Divisie: Period 3]
+17  Jong PSV U21             0 |  0   0-0       |  0   0-0       |  0   0-0 [Eerste Divisie: Period 3]
+18  Jong Ajax                0 |  0   0-0       |  0   0-0       |  0   0-0 [Eerste Divisie: Period 3]
+19  Jong AZ                  0 |  0   0-0       |  0   0-0       |  0   0-0 [Eerste Divisie: Period 3]
+20  Jong Utrecht             0 |  0   0-0       |  0   0-0       |  0   0-0 [Eerste Divisie: Period 3]
+1   De Graafschap            0 |  0   0-0       |  0   0-0       |  0   0-0 [Eerste Divisie: Period 4]
+2   VVV Venlo                0 |  0   0-0       |  0   0-0       |  0   0-0 [Eerste Divisie: Period 4]
+3   Den Bosch                0 |  0   0-0       |  0   0-0       |  0   0-0 [Eerste Divisie: Period 4]
+4   Dordrecht                0 |  0   0-0       |  0   0-0       |  0   0-0 [Eerste Divisie: Period 4]
+5   FC Eindhoven             0 |  0   0-0       |  0   0-0       |  0   0-0 [Eerste Divisie: Period 4]
+6   Emmen                    0 |  0   0-0       |  0   0-0       |  0   0-0 [Eerste Divisie: Period 4]
+7   Helmond Sport            0 |  0   0-0       |  0   0-0       |  0   0-0 [Eerste Divisie: Period 4]
+8   MVV                      0 |  0   0-0       |  0   0-0       |  0   0-0 [Eerste Divisie: Period 4]
+9   Almere City FC           0 |  0   0-0       |  0   0-0       |  0   0-0 [Eerste Divisie: Period 4]
+10  FC OSS                   0 |  0   0-0       |  0   0-0       |  0   0-0 [Eerste Divisie: Period 4]
+11  FC Volendam              0 |  0   0-0       |  0   0-0       |  0   0-0 [Eerste Divisie: Period 4]
+12  Waalwijk                 0 |  0   0-0       |  0   0-0       |  0   0-0 [Eerste Divisie: Period 4]
+13  NAC Breda                0 |  0   0-0       |  0   0-0       |  0   0-0 [Eerste Divisie: Period 4]
+14  Roda                     0 |  0   0-0       |  0   0-0       |  0   0-0 [Eerste Divisie: Period 4]
+15  Vitesse                  0 |  0   0-0       |  0   0-0       |  0   0-0 [Eerste Divisie: Period 4]
+16  Heracles                 0 |  0   0-0       |  0   0-0       |  0   0-0 [Eerste Divisie: Period 4]
+17  Jong PSV U21             0 |  0   0-0       |  0   0-0       |  0   0-0 [Eerste Divisie: Period 4]
+18  Jong Ajax                0 |  0   0-0       |  0   0-0       |  0   0-0 [Eerste Divisie: Period 4]
+19  Jong AZ                  0 |  0   0-0       |  0   0-0       |  0   0-0 [Eerste Divisie: Period 4]
+20  Jong Utrecht             0 |  0   0-0       |  0   0-0       |  0   0-0 [Eerste Divisie: Period 4]
+
+(16 API-Football requests used)
+
+----------------------------------------------------------------------
+MATCHBOOK: skipped (switched off for this run)

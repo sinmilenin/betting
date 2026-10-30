@@ -1,0 +1,100 @@
+MATCH Lille v Lens | fetched 2026-10-30 18:05 local
+
+FORM DATA Lille v Lens | source API-Football | 2026-10-30 18:06 UTC
+H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
+
+"Lille" matches several teams. Use id:<number> instead of the name:
+  id:79     Lille (France)
+  id:321    Lillestrom (Norway)
+  id:1678   Lille W (France)
+  id:5734   Lille (Belgium)
+  id:7908   Lille U19 (France)
+  id:9234   Lille II (France)
+  id:13652  Lille Sud (France)
+  id:13653  Lillebonne (France)
+  id:14306  Lilleküla Retro (Estonia)
+  id:16207  Lillestrøm II (Norway)
+  id:16559  Lillestrøm U19 (Norway)
+  id:18437  Lillehammer (Norway)
+  id:19535  Sparta Lille (Belgium)
+=== Lens (id 116): last 20 finished games ===
+2026-10-24 H 2-1 v Paris FC | Ligue 1 | Lens | xG 1.10-0.44
+2026-10-21 A 0-3 v Club Brugge KV | UEFA Champions League | Bruges | xG 2.10-2.68
+2026-10-17 A 3-1 v Estac Troyes | Ligue 1 | Troyes | xG 1.43-1.24
+2026-10-13 H 0-2 v Sporting CP | UEFA Champions League | Lens | xG 1.72-1.67
+2026-10-09 H 2-1 v Lyon | Ligue 1 | Lens | xG 1.34-1.04
+2026-10-02 A 2-0 v Standard Liege | Friendlies Clubs | ?
+2026-09-18 A 1-2 v Monaco | Ligue 1 | Monaco | xG 1.19-1.75
+2026-09-13 A 2-2 v Le Mans | Ligue 1 | Le Mans | xG 1.62-2.59
+2026-09-10 A 3-2 v Slavia Praha | UEFA Champions League | Prague | xG 1.78-2.09
+2026-09-05 H 0-1 v Lorient | Ligue 1 | Lens | xG 1.24-1.60
+2026-08-29 A 1-2 v Strasbourg | Ligue 1 | Strasbourg
+2026-08-22 H 5-2 v Auxerre | Ligue 1 | Lens
+2026-08-16 H 1-0 v Paris Saint Germain | Trophée des Champions | Lens
+2026-08-08 H 0-2 v Sunderland | Friendlies Clubs | ?
+2026-08-01 H 3-1 v Villarreal | Como Cup | Como
+2026-07-28 H 0-0 v Famalicao | Como Cup | Como [PEN, 90-min score shown]
+2026-07-28 A 3-0 v Crystal Palace | Como Cup | Como
+2026-07-25 H 2-2 v Charleroi | Friendlies Clubs | ?
+2026-07-18 H 4-1 v Boulogne | Friendlies Clubs | ?
+2026-05-22 H 3-1 v Nice | Coupe de France | Paris - Saint-Denis
+Listed home: 12 games, scored 22 (1.83), conceded 14 (1.17), blanks 4, clean sheets 2
+Listed away: 8 games, scored 15 (1.88), conceded 12 (1.50), blanks 1, clean sheets 2
+All: 20 games, scored 37 (1.85), conceded 26 (1.30), blanks 5, clean sheets 4
+
+(retrying Lille using the opponent's country, France)
+NOTE: "Lille" matched 2 teams; picked Lille (France) because the opponent is from France. Others: Lille (Belgium)
+=== Lille (id 79): last 20 finished games ===
+2026-10-25 A 1-1 v Monaco | Ligue 1 | Monaco | xG 0.71-2.24
+2026-10-21 H 2-4 v Galatasaray | UEFA Champions League | Lille | xG 2.11-1.66
+2026-10-17 H 1-1 v Stade Brestois 29 | Ligue 1 | Lille | xG 2.17-0.78
+2026-10-13 A 0-3 v Arsenal | UEFA Champions League | London | xG 0.30-1.70
+2026-10-10 H 1-0 v Le Havre | Ligue 1 | Lille | xG 1.26-1.28
+2026-10-02 H 2-1 v Zulte Waregem | Friendlies Clubs | ?
+2026-09-20 A 1-2 v Nice | Ligue 1 | Nice | xG 1.58-1.50
+2026-09-13 H 2-0 v Estac Troyes | Ligue 1 | Lille | xG 1.65-0.38
+2026-09-08 H 2-3 v Real Betis | UEFA Champions League | Lille | xG 0.83-1.80
+2026-09-03 A 1-0 v Toulouse | Ligue 1 | Toulouse | xG 1.21-3.46
+2026-08-28 H 2-2 v Paris Saint Germain | Ligue 1 | Lille
+2026-08-23 A 2-0 v Angers | Ligue 1 | Angers
+2026-08-15 A 1-1 v Everton | Friendlies Clubs | Liverpool
+2026-08-08 A 2-2 v Hamburger SV | Friendlies Clubs | ?
+2026-08-01 A 6-3 v OH Leuven | Friendlies Clubs | ?
+2026-07-25 A 1-2 v Union St. Gilloise | Friendlies Clubs | ?
+2026-07-18 H 3-0 v RAAL La Louvière | Friendlies Clubs | ?
+2026-05-17 H 0-2 v Auxerre | Ligue 1 | Lille
+2026-05-10 A 1-0 v Monaco | Ligue 1 | Monaco
+2026-05-03 H 1-1 v Le Havre | Ligue 1 | Lille
+Listed home: 10 games, scored 16 (1.60), conceded 14 (1.40), blanks 1, clean sheets 3
+Listed away: 10 games, scored 16 (1.60), conceded 14 (1.40), blanks 1, clean sheets 3
+All: 20 games, scored 32 (1.60), conceded 28 (1.40), blanks 2, clean sheets 6
+
+TABLE FOR Lens
+LEAGUE TABLE Ligue 1 2026 | 18 teams | 72 games played
+League averages per game: home 1.62, away 1.35, total 2.97
+#   team                   Pts | home P GF-GA  | away P GF-GA  | all P GF-GA
+1   Paris Saint Germain     17 |  3   6-3       |  5  10-6       |  8  16-9
+2   Rennes                  16 |  5  13-5       |  3   5-9       |  8  18-14
+3   Lille                   15 |  4   6-3       |  4   5-3       |  8  11-6
+4   Monaco                  15 |  4   7-4       |  4   4-3       |  8  11-7
+5   Lyon                    14 |  4  10-3       |  4   3-4       |  8  13-7
+6   Paris FC                14 |  4   9-4       |  4   4-5       |  8  13-9
+7   Lens                    13 |  4   9-5       |  4   7-7       |  8  16-12
+8   Marseille               12 |  4  11-8       |  4   7-5       |  8  18-13
+9   Lorient                 12 |  4   5-4       |  4   2-2       |  8   7-6
+10  Nice                    11 |  4   5-3       |  4   3-7       |  8   8-10
+11  Toulouse                10 |  4   3-5       |  4   9-6       |  8  12-11
+12  Auxerre                 10 |  4   5-5       |  4   7-13      |  8  12-18
+13  Stade Brestois 29        9 |  4   8-6       |  4   6-6       |  8  14-12
+14  Angers                   8 |  5   5-9       |  3   4-6       |  8   9-15
+15  Le Mans                  7 |  4   6-8       |  4   5-8       |  8  11-16
+16  Strasbourg               7 |  3   4-5       |  5   8-13      |  8  12-18
+17  Estac Troyes             5 |  4   3-11      |  4   2-5       |  8   5-16
+18  Le Havre                 2 |  4   2-6       |  4   6-9       |  8   8-15
+
+(Lille: same table as Lens, shown above)
+
+(26 API-Football requests used)
+
+----------------------------------------------------------------------
+MATCHBOOK: skipped (switched off for this run)
