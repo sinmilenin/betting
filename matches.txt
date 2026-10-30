@@ -1,6 +1,2 @@
-# Scan 30.10 20:26 run 1 (Ljubljana)
-AFC Fylde v Hornchurch | n=20 | xg=10
-Dundalk v Shamrock Rovers | n=20 | xg=10
-Estudiantes Rio Cuarto v Gimnasia La Plata | n=20 | xg=10
-Huracan v Tigre | n=20 | xg=10
-Coquimbo Unido v Union La Calera | n=20 | xg=10
+# Scan 30.10 20:26 run 2 (Ljubljana) - team name correction
+Estudiantes de Rio Cuarto v Gimnasia L.P. | n=20 | xg=10
