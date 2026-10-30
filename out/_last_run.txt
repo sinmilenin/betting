@@ -1,3 +1,3 @@
-RUN 2026-10-30 06:49 local | 1 match(es)
-Brisbane Roar v Auckland -> out/Brisbane_Roar_v_Auckland.txt
+RUN 2026-10-30 06:50 local | 1 match(es)
+id:607 v Galatasaray -> out/id_607_v_Galatasaray.txt
 Requests used: API-Football 25, Matchbook 0
