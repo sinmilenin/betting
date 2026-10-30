@@ -1,6 +1,6 @@
-MATCH St Patrick's Athletic v Bohemians | fetched 2026-10-30 17:14 local
+MATCH St Patricks v Bohemians | fetched 2026-10-30 17:16 local
 
-FORM DATA St Patrick's Athletic v Bohemians | source API-Football | 2026-10-30 17:15 UTC
+FORM DATA St Patricks v Bohemians | source API-Football | 2026-10-30 17:17 UTC
 H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
 
 === Bohemians (id 3840): last 20 finished games ===
@@ -28,7 +28,7 @@ Listed home: 12 games, scored 21 (1.75), conceded 12 (1.00), blanks 4, clean she
 Listed away: 8 games, scored 11 (1.38), conceded 14 (1.75), blanks 2, clean sheets 2
 All: 20 games, scored 32 (1.60), conceded 26 (1.30), blanks 6, clean sheets 6
 
-!! St Patrick's Athletic: API-Football error: {"search": "The Search field may only contain alpha-numeric characters and spaces."}
+!! St Patricks: No team found for "St Patricks".
 
 TABLE FOR Bohemians
 LEAGUE TABLE Premier Division 2026 | 10 teams | 175 games played
@@ -45,7 +45,7 @@ League averages per game: home 1.53, away 1.25, total 2.78
 9   Drogheda United         37 | 17  20-21      | 18  22-36      | 35  42-57
 10  Sligo Rovers            24 | 17  16-27      | 18  10-37      | 35  26-64
 
-(13 API-Football requests used)
+(14 API-Football requests used)
 
 ----------------------------------------------------------------------
 MATCHBOOK: skipped (switched off for this run)

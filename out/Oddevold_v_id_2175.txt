@@ -1,6 +1,6 @@
-MATCH Oddevold v Brage | fetched 2026-10-30 17:14 local
+MATCH Oddevold v id:2175 | fetched 2026-10-30 17:16 local
 
-FORM DATA Oddevold v Brage | source API-Football | 2026-10-30 17:14 UTC
+FORM DATA Oddevold v id:2175 | source API-Football | 2026-10-30 17:16 UTC
 H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
 
 === Oddevold (id 11674): last 20 finished games ===
@@ -28,14 +28,30 @@ Listed home: 9 games, scored 18 (2.00), conceded 10 (1.11), blanks 2, clean shee
 Listed away: 11 games, scored 14 (1.27), conceded 15 (1.36), blanks 2, clean sheets 5
 All: 20 games, scored 32 (1.60), conceded 25 (1.25), blanks 4, clean sheets 9
 
-"Brage" matches several teams. Use id:<number> instead of the name:
-  id:2175   IK brage (Sweden)
-  id:21692  Brage W (Sweden)
-(retrying Brage using the opponent's country, Sweden)
-"Brage" matches several teams. Use id:<number> instead of the name:
-  id:2175   IK brage (Sweden)
-  id:21692  Brage W (Sweden)
-!! Brage: Ambiguous team name "Brage".
+=== IK brage (id 2175): last 20 finished games ===
+2026-10-24 H 4-5 v Osters IF | Superettan | Borlange
+2026-10-17 A 0-2 v Ljungskile SK | Superettan | Ljungskile
+2026-10-11 H 2-0 v Helsingborg | Superettan | Borlange | xG 2.27-1.23
+2026-10-03 H 1-1 v Degerfors IF | Friendlies Clubs | ?
+2026-09-19 A 2-3 v Varbergs BoIS FC | Superettan | Varberg
+2026-09-15 H 1-1 v Sandviken | Superettan | Borlange
+2026-09-10 A 1-1 v Ostersunds FK | Superettan | Ostersund
+2026-09-05 H 0-1 v GIF Sundsvall | Superettan | Borlange
+2026-08-29 A 1-4 v Falkenbergs FF | Superettan | Falkenberg
+2026-08-23 H 1-2 v United Nordic | Superettan | Borlange
+2026-08-18 A 0-2 v Karlberg | Svenska Cupen | ?
+2026-08-14 H 3-3 v Orebro SK | Superettan | Borlange
+2026-08-08 A 0-3 v IFK Norrkoping | Superettan | Norrkoping
+2026-08-01 H 2-1 v Landskrona BoIS | Superettan | Borlange
+2026-07-25 A 0-0 v IFK Varnamo | Superettan | Varnamo
+2026-07-18 A 2-3 v Osters IF | Superettan | ?
+2026-06-26 H 2-4 v Falkenbergs FF | Superettan | Borlange
+2026-06-21 H 5-1 v IFK Varnamo | Superettan | Borlange
+2026-06-14 A 2-3 v Sandviken | Superettan | Sandviken
+2026-06-09 H 2-2 v Ljungskile SK | Superettan | Borlange
+Listed home: 11 games, scored 23 (2.09), conceded 21 (1.91), blanks 1, clean sheets 1
+Listed away: 9 games, scored 8 (0.89), conceded 21 (2.33), blanks 4, clean sheets 1
+All: 20 games, scored 31 (1.55), conceded 42 (2.10), blanks 5, clean sheets 2
 
 TABLE FOR Oddevold
 LEAGUE TABLE Superettan 2026 | 16 teams | 224 games played
@@ -58,7 +74,9 @@ League averages per game: home 1.55, away 1.37, total 2.92
 15  IK brage                26 | 14  29-30      | 14  16-25      | 28  45-55
 16  GIF Sundsvall           19 | 14  14-29      | 14   5-36      | 28  19-65
 
-(15 API-Football requests used)
+(IK brage: same table as Oddevold, shown above)
+
+(25 API-Football requests used)
 
 ----------------------------------------------------------------------
 MATCHBOOK: skipped (switched off for this run)
