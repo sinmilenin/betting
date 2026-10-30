@@ -1,3 +1,21 @@
-# Night scan 29.10 20:55: rerun with corrected names
-Universidad Catolica v LDU de Quito | n=20 | xg=10
-Gremio v Atletico Paranaense | n=20 | xg=10
+# Scan + top-20 30.10 07:41
+Brisbane Roar v Auckland FC | n=20 | xg=10
+Le Havre v Paris Saint Germain | n=20 | xg=10
+Villarreal v Espanyol | n=20 | xg=10
+Elversberg v Mainz | n=20 | xg=10
+Lille v Lens | n=20 | xg=10
+Konyaspor v Galatasaray | n=20 | xg=10
+Nice v Rennes | n=20 | xg=10
+Abha v Al-Ittihad | n=20 | xg=10
+Zulte Waregem v Club Brugge | n=20 | xg=10
+Sheffield Utd v Wrexham | n=20 | xg=10
+Casa Pia v Sporting CP | n=20 | xg=10
+Bodo/Glimt v Viking | n=20 | xg=10
+Energie Cottbus v Bochum | n=20 | xg=10
+Deportivo Pereira v Jaguares de Cordoba | n=20 | xg=10
+Arminia Bielefeld v Eintracht Braunschweig | n=20 | xg=10
+Karmiotissa v Olympiakos Nicosia | n=20 | xg=10
+Konyaspor U19 v Galatasaray U19 | n=20 | xg=10
+GC Mascara v NA Hussein Dey | n=20 | xg=10
+Newport County v Chesterfield | n=20 | xg=10
+Sligo Rovers v Derry City | n=20 | xg=10
