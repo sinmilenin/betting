@@ -1,6 +1,4 @@
-RUN 2026-10-30 17:16 local | 3 match(es)
-Oddevold v id:2175 -> out/Oddevold_v_id_2175.txt
-Aalborg v Hobro -> out/Aalborg_v_Hobro.txt
-St Patricks v Bohemians -> out/St_Patricks_v_Bohemians.txt
-    !! St Patricks: No team found for "St Patricks".
-Requests used: API-Football 64, Matchbook 0
+RUN 2026-10-30 17:17 local | 1 match(es)
+Patrick v Bohemians -> out/Patrick_v_Bohemians.txt
+    !! Patrick: Ambiguous team name "Patrick".
+Requests used: API-Football 15, Matchbook 0
