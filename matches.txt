@@ -1,3 +1,2 @@
-# Scan 30.10 14:18 (+ top-20), retry run 3
-Liptovsky Mikulas v Zilina | n=20 | xg=10
-Rapid v Csikszereda | n=20 | xg=10
+# Scan 30.10 14:18 (+ top-20), retry run 4
+Liptovsky Mikulas v id:10546 | n=20 | xg=10
