@@ -44,17 +44,6 @@
     "created": "2026-10-30T07:55:28+01:00"
   },
   {
-    "id": "2026-10-30_fk-kokand-1912-qizilqum-zarafshon_2-2",
-    "date": "2026-10-30",
-    "ko": "14:30",
-    "match": "FK Kokand 1912 v Qizilqum Zarafshon",
-    "comp": "Uzbekistan, Uzbekistan Super League",
-    "cell": "2-2",
-    "lay": 20,
-    "stake": 3,
-    "created": "2026-10-30T14:26:34+01:00"
-  },
-  {
     "id": "2026-10-30_elversberg-mainz_0-1",
     "date": "2026-10-30",
     "ko": "20:30",
@@ -339,5 +328,16 @@
     "lay": 17.5,
     "stake": 3,
     "created": "2026-10-30T19:50:48+01:00"
+  },
+  {
+    "id": "2026-10-30_coquimbo-unido-union-la-calera_2-2",
+    "date": "2026-10-30",
+    "ko": "23:00",
+    "match": "Coquimbo Unido v Union La Calera",
+    "comp": "Chile, Chilean Primera Division",
+    "cell": "2-2",
+    "lay": 20,
+    "stake": 3,
+    "created": "2026-10-30T19:32:00Z"
   }
 ]
