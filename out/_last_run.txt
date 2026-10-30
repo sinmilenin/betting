@@ -1,4 +1,4 @@
-RUN 2026-10-30 19:29 local | 1 match(es)
-Estudiantes de Rio Cuarto v Gimnasia L.P. -> out/Estudiantes_de_Rio_Cuarto_v_Gimnasia_L_P.txt
-    !! Gimnasia L.P.: API-Football error: {"search": "The Search field may only contain alpha-numeric characters and spaces."}
+RUN 2026-10-30 19:30 local | 1 match(es)
+Estudiantes de Rio Cuarto v Gimnasia LP -> out/Estudiantes_de_Rio_Cuarto_v_Gimnasia_LP.txt
+    !! Gimnasia LP: No team found for "Gimnasia LP".
 Requests used: API-Football 14, Matchbook 0

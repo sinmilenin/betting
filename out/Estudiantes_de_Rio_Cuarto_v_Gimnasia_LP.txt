@@ -1,6 +1,6 @@
-MATCH Estudiantes de Rio Cuarto v Gimnasia L.P. | fetched 2026-10-30 19:29 local
+MATCH Estudiantes de Rio Cuarto v Gimnasia LP | fetched 2026-10-30 19:30 local
 
-FORM DATA Estudiantes de Rio Cuarto v Gimnasia L.P. | source API-Football | 2026-10-30 19:29 UTC
+FORM DATA Estudiantes de Rio Cuarto v Gimnasia LP | source API-Football | 2026-10-30 19:30 UTC
 H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
 
 === Estudiantes de Rio Cuarto (id 2424): last 20 finished games ===
@@ -28,7 +28,7 @@ Listed home: 11 games, scored 6 (0.55), conceded 12 (1.09), blanks 6, clean shee
 Listed away: 9 games, scored 5 (0.56), conceded 14 (1.56), blanks 4, clean sheets 1
 All: 20 games, scored 11 (0.55), conceded 26 (1.30), blanks 10, clean sheets 5
 
-!! Gimnasia L.P.: API-Football error: {"search": "The Search field may only contain alpha-numeric characters and spaces."}
+!! Gimnasia LP: No team found for "Gimnasia LP".
 
 TABLE FOR Estudiantes de Rio Cuarto
 LEAGUE TABLE Liga Profesional Argentina 2026 | 60 teams | 450 games played
