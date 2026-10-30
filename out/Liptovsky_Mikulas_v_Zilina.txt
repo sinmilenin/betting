@@ -1,6 +1,6 @@
-MATCH Liptovsky Mikulas v Zilina B | fetched 2026-10-30 13:21 local
+MATCH Liptovsky Mikulas v Zilina | fetched 2026-10-30 13:23 local
 
-FORM DATA Liptovsky Mikulas v Zilina B | source API-Football | 2026-10-30 13:21 UTC
+FORM DATA Liptovsky Mikulas v Zilina | source API-Football | 2026-10-30 13:23 UTC
 H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
 
 === Liptovský Mikuláš (id 10536): last 20 finished games ===
@@ -28,7 +28,20 @@ Listed home: 7 games, scored 10 (1.43), conceded 5 (0.71), blanks 2, clean sheet
 Listed away: 13 games, scored 20 (1.54), conceded 15 (1.15), blanks 4, clean sheets 4
 All: 20 games, scored 30 (1.50), conceded 20 (1.00), blanks 6, clean sheets 9
 
-!! Zilina B: No team found for "Zilina B".
+"Zilina" matches several teams. Use id:<number> instead of the name:
+  id:585    MSK Zilina (Slovakia)
+  id:3554   Žilina (Slovakia)
+  id:7972   Žilina U19 (Slovakia)
+  id:10546  Žilina II (Slovakia)
+  id:15984  Žilina W (Slovakia)
+(retrying Zilina using the opponent's country, Slovakia)
+"Zilina" matches several teams. Use id:<number> instead of the name:
+  id:585    MSK Zilina (Slovakia)
+  id:3554   Žilina (Slovakia)
+  id:7972   Žilina U19 (Slovakia)
+  id:10546  Žilina II (Slovakia)
+  id:15984  Žilina W (Slovakia)
+!! Zilina: Ambiguous team name "Zilina".
 
 TABLE FOR Liptovský Mikuláš
 LEAGUE TABLE 2. liga 2026 | 16 teams | 112 games played
@@ -51,7 +64,7 @@ League averages per game: home 1.59, away 1.29, total 2.88
 15  MFK Bytča                9 |  8  10-18      |  6   4-18      | 14  14-36
 16  Lokomotíva Zvolen        6 |  6   4-9       |  8   6-15      | 14  10-24
 
-(14 API-Football requests used)
+(15 API-Football requests used)
 
 ----------------------------------------------------------------------
 MATCHBOOK: skipped (switched off for this run)

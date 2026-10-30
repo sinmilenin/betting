@@ -1,6 +1,5 @@
-RUN 2026-10-30 13:21 local | 3 match(es)
-Kokand v Qizilqum -> out/Kokand_v_Qizilqum.txt
-Liptovsky Mikulas v Zilina B -> out/Liptovsky_Mikulas_v_Zilina_B.txt
-    !! Zilina B: No team found for "Zilina B".
-Grazer AK v id:1072 -> out/Grazer_AK_v_id_1072.txt
-Requests used: API-Football 65, Matchbook 0
+RUN 2026-10-30 13:23 local | 2 match(es)
+Liptovsky Mikulas v Zilina -> out/Liptovsky_Mikulas_v_Zilina.txt
+    !! Zilina: Ambiguous team name "Zilina".
+Rapid v Csikszereda -> out/Rapid_v_Csikszereda.txt
+Requests used: API-Football 41, Matchbook 0
