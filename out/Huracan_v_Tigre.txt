@@ -1,0 +1,126 @@
+MATCH Huracan v Tigre | fetched 2026-10-30 19:28 local
+
+FORM DATA Huracan v Tigre | source API-Football | 2026-10-30 19:28 UTC
+H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
+
+=== Huracan (id 445): last 20 finished games ===
+2026-10-25 A 0-2 v Rosario Central | Liga Profesional Argentina | Rosario | xG 0.52-2.15
+2026-10-15 H 1-2 v Gimnasia L.P. | Liga Profesional Argentina | Buenos Aires | xG 1.90-1.33
+2026-10-10 A 0-2 v Barracas Central | Liga Profesional Argentina | Barracas | xG 0.35-1.29
+2026-10-04 H 1-0 v Aldosivi | Liga Profesional Argentina | Buenos Aires | xG 1.51-0.81
+2026-09-19 A 2-1 v River Plate | Liga Profesional Argentina | Buenos Aires | xG 0.23-1.62
+2026-09-14 H 2-1 v Racing Club | Liga Profesional Argentina | Buenos Aires
+2026-09-04 A 1-1 v Belgrano Cordoba | Liga Profesional Argentina | Cordoba | xG 0.96-3.28
+2026-08-29 H 1-1 v Estudiantes de Rio Cuarto | Liga Profesional Argentina | Buenos Aires | xG 1.58-0.95
+2026-08-23 H 0-0 v Deportivo Riestra | Liga Profesional Argentina | Buenos Aires | xG 0.49-0.96
+2026-08-16 A 0-2 v Sarmiento Junin | Liga Profesional Argentina | Junin | xG 0.19-1.56
+2026-08-09 A 2-0 v San Lorenzo | Liga Profesional Argentina | Buenos Aires
+2026-08-04 H 0-0 v Atletico Tucuman | Liga Profesional Argentina | Buenos Aires
+2026-07-30 A 1-2 v Independ. Rivadavia | Liga Profesional Argentina | Mendoza
+2026-07-25 H 1-0 v Banfield | Liga Profesional Argentina | Buenos Aires
+2026-06-03 A 0-1 v Barracas Central | Copa Argentina | Avellaneda
+2026-05-13 A 0-0 v Argentinos JRS | Liga Profesional Argentina | Buenos Aires [AET, 90-min score shown]
+2026-05-09 A 1-1 v Boca Juniors | Liga Profesional Argentina | Buenos Aires [AET, 90-min score shown]
+2026-05-03 A 0-0 v Racing Club | Liga Profesional Argentina | Buenos Aires
+2026-04-28 H 1-2 v Argentinos JRS | Liga Profesional Argentina | Buenos Aires
+2026-04-21 A 1-1 v Tigre | Liga Profesional Argentina | Buenos Aires
+Listed home: 8 games, scored 7 (0.88), conceded 6 (0.75), blanks 2, clean sheets 4
+Listed away: 12 games, scored 8 (0.67), conceded 13 (1.08), blanks 6, clean sheets 3
+All: 20 games, scored 15 (0.75), conceded 19 (0.95), blanks 8, clean sheets 7
+
+=== Tigre (id 452): last 20 finished games ===
+2026-10-24 H 0-1 v Atletico Tucuman | Liga Profesional Argentina | Buenos Aires | xG 1.34-1.02
+2026-10-17 A 2-2 v Independ. Rivadavia | Liga Profesional Argentina | Mendoza | xG 1.08-1.01
+2026-10-10 H 1-2 v Banfield | Liga Profesional Argentina | Buenos Aires | xG 1.60-0.71
+2026-10-04 A 1-2 v Argentinos JRS | Liga Profesional Argentina | Buenos Aires | xG 1.71-0.66
+2026-09-21 A 2-3 v Velez Sarsfield | Liga Profesional Argentina | Buenos Aires
+2026-09-13 H 0-1 v Rosario Central | Liga Profesional Argentina | Buenos Aires | xG 1.37-2.02
+2026-09-05 A 1-2 v Gimnasia L.P. | Liga Profesional Argentina | La Plata | xG 1.22-2.77
+2026-09-01 H 0-0 v Barracas Central | Liga Profesional Argentina | Buenos Aires | xG 0.27-0.61
+2026-08-24 H 2-1 v Central Cordoba de Santiago | Liga Profesional Argentina | Buenos Aires | xG 2.40-1.45
+2026-08-20 A 1-2 v Atletico Torque | CONMEBOL Sudamericana | Montevideo | xG 0.61-1.43
+2026-08-15 A 0-0 v Aldosivi | Liga Profesional Argentina | Mar del Plata
+2026-08-12 H 0-1 v Atletico Torque | CONMEBOL Sudamericana | Buenos Aires
+2026-08-08 H 1-0 v River Plate | Liga Profesional Argentina | Buenos Aires
+2026-08-06 H 0-0 v Belgrano Cordoba | Liga Profesional Argentina | Buenos Aires
+2026-08-01 A 3-1 v Racing Club | Liga Profesional Argentina | Cordoba
+2026-07-28 H 1-2 v Club Nacional | CONMEBOL Sudamericana | Buenos Aires
+2026-07-25 A 0-1 v Estudiantes de Rio Cuarto | Liga Profesional Argentina | Rio Cuarto
+2026-07-21 A 3-0 v Club Nacional | CONMEBOL Sudamericana | Montevideo
+2026-07-12 A 0-1 v Independ. Rivadavia | Copa Argentina | Cordoba
+2026-05-29 H 2-0 v Alianza Atletico | CONMEBOL Sudamericana | Buenos Aires
+Listed home: 10 games, scored 7 (0.70), conceded 8 (0.80), blanks 5, clean sheets 4
+Listed away: 10 games, scored 13 (1.30), conceded 14 (1.40), blanks 3, clean sheets 2
+All: 20 games, scored 20 (1.00), conceded 22 (1.10), blanks 8, clean sheets 6
+
+TABLE FOR Huracan
+LEAGUE TABLE Liga Profesional Argentina 2026 | 60 teams | 450 games played
+League averages per game: home 1.20, away 0.95, total 2.15
+#   team                   Pts | home P GF-GA  | away P GF-GA  | all P GF-GA
+1   Estudiantes L.P.        31 |  8  11-4       |  8   8-3       | 16  19-7 [Apertura - Group A]
+2   Boca Juniors            30 |  8   8-3       |  8  14-6       | 16  22-9 [Apertura - Group A]
+3   Velez Sarsfield         28 |  8   9-6       |  8   9-6       | 16  18-12 [Apertura - Group A]
+4   Talleres Cordoba        26 |  7   9-5       |  9   8-8       | 16  17-13 [Apertura - Group A]
+5   Independiente           24 |  8  15-9       |  8   9-11      | 16  24-20 [Apertura - Group A]
+6   Lanus                   24 |  8   9-5       |  8   9-10      | 16  18-15 [Apertura - Group A]
+7   San Lorenzo             22 |  8  10-11      |  8   4-3       | 16  14-14 [Apertura - Group A]
+8   Union Santa Fe          21 |  8  11-5       |  8  13-15      | 16  24-20 [Apertura - Group A]
+9   Instituto Cordoba       21 |  8  11-8       |  8   6-9       | 16  17-17 [Apertura - Group A]
+10  Defensa Y Justicia      19 |  8   7-10      |  8  11-11      | 16  18-21 [Apertura - Group A]
+11  Gimnasia M.             19 |  8   9-8       |  8   5-14      | 16  14-22 [Apertura - Group A]
+12  Platense                16 |  8   4-8       |  8   6-7       | 16  10-15 [Apertura - Group A]
+13  Central Cordoba de San  16 |  8  10-9       |  8   1-12      | 16  11-21 [Apertura - Group A]
+14  Newells Old Boys        15 |  8   6-10      |  8   9-17      | 16  15-27 [Apertura - Group A]
+15  Deportivo Riestra       11 |  8   4-4       |  8   1-8       | 16   5-12 [Apertura - Group A]
+1   Independ. Rivadavia     34 |  9  19-10      |  7  10-5       | 16  29-15 [Apertura - Group B]
+2   River Plate             29 |  8  14-8       |  8   8-4       | 16  22-12 [Apertura - Group B]
+3   Argentinos JRS          29 |  9  10-4       |  7   7-9       | 16  17-13 [Apertura - Group B]
+4   Rosario Central         28 |  8  10-7       |  8  10-9       | 16  20-16 [Apertura - Group B]
+5   Belgrano Cordoba        26 |  8  11-5       |  8   6-8       | 16  17-13 [Apertura - Group B]
+6   Gimnasia L.P.           26 |  8  11-10      |  8   8-9       | 16  19-19 [Apertura - Group B]
+7   Huracan                 22 |  8  11-8       |  8   6-5       | 16  17-13 [Apertura - Group B]
+8   Racing Club             21 |  7   7-7       |  9  10-8       | 16  17-15 [Apertura - Group B]
+9   Barracas Central        21 |  8   9-8       |  8   6-7       | 16  15-15 [Apertura - Group B]
+10  Tigre                   20 |  8  11-8       |  8   7-7       | 16  18-15 [Apertura - Group B]
+11  Sarmiento Junin         19 |  8   9-6       |  8   4-14      | 16  13-20 [Apertura - Group B]
+12  Banfield                18 |  8  10-6       |  8   7-13      | 16  17-19 [Apertura - Group B]
+13  Atletico Tucuman        14 |  8   8-6       |  8   7-14      | 16  15-20 [Apertura - Group B]
+14  Aldosivi                 8 |  8   3-5       |  8   3-14      | 16   6-19 [Apertura - Group B]
+15  Estudiantes de Rio Cua   5 |  8   4-10      |  8   1-14      | 16   5-24 [Apertura - Group B]
+1   Instituto Cordoba       32 |  7  12-5       |  7   9-5       | 14  21-10 [Clausura - Group A]
+2   Velez Sarsfield         27 |  7  10-5       |  7  13-8       | 14  23-13 [Clausura - Group A]
+3   Boca Juniors            27 |  6  11-3       |  8  11-11      | 14  22-14 [Clausura - Group A]
+4   Defensa Y Justicia      27 |  7  11-4       |  7   9-9       | 14  20-13 [Clausura - Group A]
+5   Lanus                   24 |  7   8-6       |  7   9-4       | 14  17-10 [Clausura - Group A]
+6   Newells Old Boys        21 |  7  10-5       |  7   3-5       | 14  13-10 [Clausura - Group A]
+7   Gimnasia M.             20 |  7  10-5       |  7   6-10      | 14  16-15 [Clausura - Group A]
+8   Independiente           19 |  7   3-10      |  7   9-4       | 14  12-14 [Clausura - Group A]
+9   San Lorenzo             18 |  7   4-4       |  7   3-8       | 14   7-12 [Clausura - Group A]
+10  Union Santa Fe          17 |  7  14-11      |  7   7-12      | 14  21-23 [Clausura - Group A]
+11  Estudiantes L.P.        14 |  7  13-5       |  7   4-13      | 14  17-18 [Clausura - Group A]
+12  Platense                14 |  7   5-11      |  7   9-9       | 14  14-20 [Clausura - Group A]
+13  Deportivo Riestra       12 |  7   8-7       |  7   2-7       | 14  10-14 [Clausura - Group A]
+14  Central Cordoba de San  10 |  7   5-13      |  7   6-10      | 14  11-23 [Clausura - Group A]
+15  Talleres Cordoba         9 |  8   6-12      |  6   7-10      | 14  13-22 [Clausura - Group A]
+1   Rosario Central         28 |  7  12-4       |  7  10-7       | 14  22-11 [Clausura - Group B]
+2   Argentinos JRS          28 |  6  11-4       |  8   7-7       | 14  18-11 [Clausura - Group B]
+3   Gimnasia L.P.           25 |  7  12-7       |  7   9-11      | 14  21-18 [Clausura - Group B]
+4   River Plate             23 |  8  10-7       |  6   9-6       | 14  19-13 [Clausura - Group B]
+5   Belgrano Cordoba        22 |  7   8-9       |  7   6-2       | 14  14-11 [Clausura - Group B]
+6   Barracas Central        22 |  7   6-5       |  7   7-6       | 14  13-11 [Clausura - Group B]
+7   Sarmiento Junin         21 |  7  11-7       |  7  11-14      | 14  22-21 [Clausura - Group B]
+8   Huracan                 19 |  7   6-4       |  7   6-10      | 14  12-14 [Clausura - Group B]
+9   Independ. Rivadavia     19 |  6  14-9       |  8   3-13      | 14  17-22 [Clausura - Group B]
+10  Atletico Tucuman        17 |  7   6-10      |  7   7-3       | 14  13-13 [Clausura - Group B]
+11  Banfield                14 |  7   8-11      |  7   7-9       | 14  15-20 [Clausura - Group B]
+12  Tigre                   13 |  7   4-5       |  7   9-11      | 14  13-16 [Clausura - Group B]
+13  Racing Club             12 |  8   9-12      |  6   5-9       | 14  14-21 [Clausura - Group B]
+14  Aldosivi                11 |  7   8-9       |  7   7-13      | 14  15-22 [Clausura - Group B]
+15  Estudiantes de Rio Cua   9 |  7   4-6       |  7   5-13      | 14   9-19 [Clausura - Group B]
+
+(Tigre: same table as Huracan, shown above)
+
+(25 API-Football requests used)
+
+----------------------------------------------------------------------
+MATCHBOOK: skipped (switched off for this run)

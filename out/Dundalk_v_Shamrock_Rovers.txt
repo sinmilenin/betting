@@ -1,0 +1,76 @@
+MATCH Dundalk v Shamrock Rovers | fetched 2026-10-30 19:28 local
+
+FORM DATA Dundalk v Shamrock Rovers | source API-Football | 2026-10-30 19:28 UTC
+H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
+
+=== Dundalk (id 584): last 20 finished games ===
+2026-10-23 A 1-2 v Derry City | Premier Division | Delhi | xG 0.82-1.76
+2026-10-17 A 1-1 v Sligo Rovers | Premier Division | Sligo | xG 1.73-0.36
+2026-10-02 H 1-2 v Bohemians | Premier Division | Dundalk | xG 1.20-1.93
+2026-09-18 H 2-3 v Shelbourne | Premier Division | Dundalk
+2026-09-14 H 0-4 v St Patrick's Athl. | Premier Division | Dundalk | xG 0.26-2.94
+2026-09-11 A 1-1 v Waterford | Premier Division | Waterford | xG 0.55-2.04
+2026-09-06 A 2-4 v Derry City | FAI Cup | Derry
+2026-08-28 A 3-2 v Drogheda United | Premier Division | Drogheda | xG 3.04-1.89
+2026-08-21 H 1-2 v Galway United | Premier Division | Dundalk
+2026-08-15 H 8-0 v Castlebar Celtic | FAI Cup | Dundalk
+2026-08-07 A 2-3 v Shamrock Rovers | Premier Division | Dublin
+2026-07-31 H 1-1 v Sligo Rovers | Premier Division | Dundalk
+2026-07-24 A 1-1 v St Patrick's Athl. | Premier Division | Dublin
+2026-07-17 A 3-1 v St Mochta&apos;s | FAI Cup | Dundalk
+2026-07-10 H 1-2 v Drogheda United | Premier Division | Dundalk
+2026-07-03 A 1-2 v Shelbourne | Premier Division | Dublin
+2026-06-26 H 2-3 v Waterford | Premier Division | Dundalk
+2026-06-19 A 2-1 v Bohemians | Premier Division | Dublin
+2026-06-12 A 1-0 v Galway United | Premier Division | Galway
+2026-05-29 H 2-1 v Derry City | Premier Division | Dundalk
+Listed home: 9 games, scored 18 (2.00), conceded 18 (2.00), blanks 1, clean sheets 1
+Listed away: 11 games, scored 18 (1.64), conceded 18 (1.64), blanks 0, clean sheets 1
+All: 20 games, scored 36 (1.80), conceded 36 (1.80), blanks 1, clean sheets 2
+
+=== Shamrock Rovers (id 652): last 20 finished games ===
+2026-10-23 H 4-0 v Sligo Rovers | Premier Division | Dublin | xG 1.80-1.13
+2026-10-16 A 0-2 v Galway United | Premier Division | Galway | xG 1.93-0.52
+2026-10-12 H 2-1 v Bohemians | Premier Division | Dublin | xG 1.24-1.23
+2026-10-08 H 3-1 v Drogheda United | Premier Division | Dublin
+2026-09-18 H 3-2 v Waterford | Premier Division | Dublin | xG 2.05-1.01
+2026-09-11 A 0-2 v St Patrick's Athl. | Premier Division | Dublin | xG 0.89-1.03
+2026-09-04 H 0-0 v Shelbourne | Premier Division | Dublin
+2026-08-30 A 3-3 v Derry City | Premier Division | Derry | xG 0.89-1.20
+2026-08-27 A 0-1 v KuPS | UEFA Europa Conference League | Kuopio
+2026-08-20 H 1-1 v KuPS | UEFA Europa Conference League | Dublin
+2026-08-16 A 2-2 v St Patrick's Athl. | FAI Cup | Dublin [AET, 90-min score shown]
+2026-08-13 A 1-5 v Egnatia Rrogozhinë | UEFA Europa League | Rrogozhine
+2026-08-07 H 3-2 v Dundalk | Premier Division | Dublin
+2026-08-04 H 3-1 v Egnatia Rrogozhinë | UEFA Europa League | Dublin
+2026-07-31 A 0-0 v Drogheda United | Premier Division | Drogheda
+2026-07-28 H 2-1 v Ararat-Armenia | UEFA Champions League | Dublin
+2026-07-21 A 0-2 v Ararat-Armenia | UEFA Champions League | Yerevan
+2026-07-17 H 1-1 v Cork City | FAI Cup | Dublin [AET, 90-min score shown]
+2026-07-14 H 5-1 v Floriana | UEFA Champions League | Dublin
+2026-07-07 A 0-2 v Floriana | UEFA Champions League | Marsa
+Listed home: 11 games, scored 27 (2.45), conceded 11 (1.00), blanks 1, clean sheets 2
+Listed away: 9 games, scored 6 (0.67), conceded 19 (2.11), blanks 6, clean sheets 1
+All: 20 games, scored 33 (1.65), conceded 30 (1.50), blanks 7, clean sheets 3
+
+TABLE FOR Dundalk
+LEAGUE TABLE Premier Division 2026 | 10 teams | 175 games played
+League averages per game: home 1.53, away 1.25, total 2.78
+#   team                   Pts | home P GF-GA  | away P GF-GA  | all P GF-GA
+1   Shamrock Rovers         68 | 18  37-15      | 17  21-20      | 35  58-35
+2   Bohemians               62 | 18  29-21      | 17  31-21      | 35  60-42
+3   St Patrick's Athl.      60 | 17  32-12      | 18  21-16      | 35  53-28
+4   Shelbourne              49 | 17  25-28      | 18  25-19      | 35  50-47
+5   Derry City              47 | 18  30-20      | 17  18-25      | 35  48-45
+6   Galway United           42 | 18  25-25      | 17  21-26      | 35  46-51
+7   Dundalk                 42 | 17  26-27      | 18  26-31      | 35  52-58
+8   Waterford               40 | 18  28-22      | 17  23-37      | 35  51-59
+9   Drogheda United         37 | 17  20-21      | 18  22-36      | 35  42-57
+10  Sligo Rovers            24 | 17  16-27      | 18  10-37      | 35  26-64
+
+(Shamrock Rovers: same table as Dundalk, shown above)
+
+(25 API-Football requests used)
+
+----------------------------------------------------------------------
+MATCHBOOK: skipped (switched off for this run)

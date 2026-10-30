@@ -1,4 +1,7 @@
-RUN 2026-10-30 18:48 local | 2 match(es)
-SV Elversberg v FSV Mainz 05 -> out/SV_Elversberg_v_FSV_Mainz_05.txt
-Zulte Waregem v Club Brugge KV -> out/Zulte_Waregem_v_Club_Brugge_KV.txt
-Requests used: API-Football 51, Matchbook 0
+RUN 2026-10-30 19:28 local | 5 match(es)
+AFC Fylde v Hornchurch -> out/AFC_Fylde_v_Hornchurch.txt
+Dundalk v Shamrock Rovers -> out/Dundalk_v_Shamrock_Rovers.txt
+Estudiantes Rio Cuarto v Gimnasia La Plata -> out/Estudiantes_Rio_Cuarto_v_Gimnasia_La_Pla.txt
+Huracan v Tigre -> out/Huracan_v_Tigre.txt
+Coquimbo Unido v Union La Calera -> out/Coquimbo_Unido_v_Union_La_Calera.txt
+Requests used: API-Football 125, Matchbook 0

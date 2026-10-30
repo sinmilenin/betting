@@ -1,0 +1,82 @@
+MATCH Coquimbo Unido v Union La Calera | fetched 2026-10-30 19:28 local
+
+FORM DATA Coquimbo Unido v Union La Calera | source API-Football | 2026-10-30 19:28 UTC
+H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
+
+=== Coquimbo Unido (id 2330): last 20 finished games ===
+2026-10-25 A 1-2 v Nublense | Primera División | Chillan | xG 0.73-1.65
+2026-10-11 H 5-2 v Colo Colo | Primera División | Coquimbo
+2026-10-07 H 2-1 v Cobreloa | Copa Chile | Coquimbo
+2026-09-22 A 2-1 v Cobreloa | Copa Chile | Calama
+2026-09-12 A 2-3 v Cobresal | Primera División | El Salvador
+2026-09-06 A 2-4 v Universidad de Chile | Primera División | Santiago de Chile
+2026-09-02 H 1-0 v Universidad de Concepcion | Primera División | Coquimbo
+2026-08-26 H 1-2 v U. Catolica | Primera División | Coquimbo
+2026-08-23 A 1-1 v Concepción | Primera División | Concepcion | xG 0.30-0.70
+2026-08-19 H 0-0 v Platense | CONMEBOL Libertadores | Coquimbo | xG 0.78-0.94 [PEN, 90-min score shown]
+2026-08-12 A 1-1 v Platense | CONMEBOL Libertadores | Buenos Aires
+2026-08-08 H 1-1 v D. La Serena | Primera División | Coquimbo
+2026-08-06 H 1-0 v San Marcos de Arica | Copa Chile | Coquimbo
+2026-08-01 A 1-2 v Palestino | Primera División | Santiago de Chile
+2026-07-12 H 0-1 v Union La Calera | Copa De La Liga | Coquimbo [PEN, 90-min score shown]
+2026-07-08 A 1-0 v Union La Calera | Copa De La Liga | La Calera
+2026-07-04 A 1-1 v Deportes Iquique | Copa Chile | Iquique
+2026-07-01 A 1-1 v Deportes Limache | Copa Chile | Limache
+2026-06-27 A 1-0 v San Marcos de Arica | Copa Chile | Arica
+2026-06-23 H 1-1 v Deportes Limache | Copa Chile | Coquimbo
+Listed home: 9 games, scored 12 (1.33), conceded 8 (0.89), blanks 2, clean sheets 3
+Listed away: 11 games, scored 14 (1.27), conceded 16 (1.45), blanks 0, clean sheets 2
+All: 20 games, scored 26 (1.30), conceded 24 (1.20), blanks 2, clean sheets 5
+
+=== Union La Calera (id 2326): last 20 finished games ===
+2026-10-25 H 3-1 v U. Catolica | Primera División | La Calera | xG 0.95-1.83
+2026-10-11 A 1-1 v Concepción | Primera División | Concepcion | xG 0.49-1.75
+2026-09-26 A 0-0 v U. Catolica | Copa Chile | Santiago de Chile [PEN, 90-min score shown]
+2026-09-23 H 1-1 v U. Catolica | Copa Chile | La Calera
+2026-09-14 H 1-0 v Deportes Limache | Primera División | La Calera
+2026-09-06 A 1-2 v O'Higgins | Primera División | Rancagua
+2026-08-31 H 0-1 v D. La Serena | Primera División | La Calera
+2026-08-22 A 0-0 v A. Italiano | Primera División | Santiago de Chile
+2026-08-16 A 1-2 v Nublense | Primera División | Chillan
+2026-08-09 H 1-2 v Colo Colo | Primera División | La Calera
+2026-08-05 A 4-0 v Santiago Wanderers | Copa Chile | ?
+2026-08-01 A 0-4 v Cobresal | Primera División | El Salvador
+2026-07-27 H 1-1 v Everton de Vina | Primera División | La Calera
+2026-07-12 A 1-0 v Coquimbo Unido | Copa De La Liga | Coquimbo [PEN, 90-min score shown]
+2026-07-08 H 0-1 v Coquimbo Unido | Copa De La Liga | La Calera
+2026-07-04 A 1-1 v Union San Felipe | Copa Chile | San Felipe
+2026-07-02 A 1-0 v Universidad de Chile | Copa Chile | Santiago de Chile
+2026-06-28 H 4-0 v Santiago Wanderers | Copa Chile | La Calera
+2026-06-24 H 3-3 v Universidad de Chile | Copa Chile | La Calera
+2026-06-21 H 0-2 v Union San Felipe | Copa Chile | La Calera
+Listed home: 10 games, scored 14 (1.40), conceded 12 (1.20), blanks 3, clean sheets 2
+Listed away: 10 games, scored 10 (1.00), conceded 10 (1.00), blanks 3, clean sheets 5
+All: 20 games, scored 24 (1.20), conceded 22 (1.10), blanks 6, clean sheets 7
+
+TABLE FOR Coquimbo Unido
+LEAGUE TABLE Primera División 2026 | 16 teams | 199 games played
+League averages per game: home 1.67, away 1.22, total 2.89
+#   team                   Pts | home P GF-GA  | away P GF-GA  | all P GF-GA
+1   Colo Colo               55 | 12  28-10      | 13  23-18      | 25  51-28
+2   Universidad de Chile    48 | 13  31-10      | 12  14-10      | 25  45-20
+3   U. Catolica             43 | 12  30-17      | 13  22-20      | 25  52-37
+4   Everton de Vina         39 | 13  19-16      | 12  22-15      | 25  41-31
+5   Palestino               38 | 13  27-14      | 12  12-22      | 25  39-36
+6   Deportes Limache        37 | 12  25-15      | 13  21-22      | 25  46-37
+7   Nublense                35 | 13  17-17      | 12  13-21      | 25  30-38
+8   D. La Serena            33 | 13  22-19      | 12  17-23      | 25  39-42
+9   Coquimbo Unido          32 | 11  18-11      | 13  19-24      | 24  37-35
+10  Concepción              32 | 13  17-14      | 12  10-16      | 25  27-30
+11  Huachipato              32 | 12  23-22      | 12  11-18      | 24  34-40
+12  A. Italiano             30 | 13  20-14      | 12   8-19      | 25  28-33
+13  O'Higgins               28 | 12  12-15      | 13  17-24      | 25  29-39
+14  Cobresal                26 | 12  19-17      | 13  17-29      | 25  36-46
+15  Universidad de Concepc  23 | 12   8-13      | 13  10-28      | 25  18-41
+16  Union La Calera         21 | 13  17-18      | 12   6-24      | 25  23-42
+
+(Union La Calera: same table as Coquimbo Unido, shown above)
+
+(25 API-Football requests used)
+
+----------------------------------------------------------------------
+MATCHBOOK: skipped (switched off for this run)
