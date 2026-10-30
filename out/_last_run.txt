@@ -1,7 +1,3 @@
-RUN 2026-10-30 14:17 local | 3 match(es)
-Turan Tovuz v Sabah -> out/Turan_Tovuz_v_Sabah.txt
-    !! Turan Tovuz: No team found for "Turan Tovuz".
-    !! Sabah: Ambiguous team name "Sabah".
-Al Draih v NEOM -> out/Al_Draih_v_NEOM.txt
-Al Riffa v Al Najma -> out/Al_Riffa_v_Al_Najma.txt
-Requests used: API-Football 55, Matchbook 0
+RUN 2026-10-30 14:18 local | 1 match(es)
+Turan v id:13976 -> out/Turan_v_id_13976.txt
+Requests used: API-Football 26, Matchbook 0
