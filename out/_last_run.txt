@@ -1,5 +1,3 @@
-RUN 2026-10-30 19:58 local | 2 match(es)
-id:474 v id:437 -> out/id_474_v_id_437.txt
-Puebla v U.N.A.M. - Pumas -> out/Puebla_v_U_N_A_M_Pumas.txt
-    !! U.N.A.M. - Pumas: API-Football error: {"search": "The Search field may only contain alpha-numeric characters and spaces."}
-Requests used: API-Football 39, Matchbook 0
+RUN 2026-10-30 19:59 local | 1 match(es)
+Puebla v UNAM -> out/Puebla_v_UNAM.txt
+Requests used: API-Football 27, Matchbook 0

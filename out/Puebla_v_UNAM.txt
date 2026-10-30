@@ -1,6 +1,6 @@
-MATCH Puebla v U.N.A.M. - Pumas | fetched 2026-10-30 19:58 local
+MATCH Puebla v UNAM | fetched 2026-10-30 19:59 local
 
-FORM DATA Puebla v U.N.A.M. - Pumas | source API-Football | 2026-10-30 19:58 UTC
+FORM DATA Puebla v UNAM | source API-Football | 2026-10-30 19:59 UTC
 H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
 
 === Puebla (id 2291): last 20 finished games ===
@@ -28,7 +28,30 @@ Listed home: 7 games, scored 10 (1.43), conceded 11 (1.57), blanks 1, clean shee
 Listed away: 13 games, scored 18 (1.38), conceded 28 (2.15), blanks 4, clean sheets 3
 All: 20 games, scored 28 (1.40), conceded 39 (1.95), blanks 5, clean sheets 3
 
-!! U.N.A.M. - Pumas: API-Football error: {"search": "The Search field may only contain alpha-numeric characters and spaces."}
+=== UNAM (id 5369): last 20 finished games ===
+2026-09-13 A 1-3 v Kabuscorp | CAF Confederation Cup | ?
+2026-09-05 H 0-2 v Kabuscorp | CAF Confederation Cup | ?
+2019-04-21 H 2-2 v Black Africa | Premier League | Windhoek
+2019-04-10 H 2-1 v Tigers | Premier League | Windhoek
+2019-04-07 H 1-1 v Citizens | Premier League | ?
+2019-04-05 A 2-1 v Mighty Gunners | Premier League | ?
+2019-03-09 H 2-0 v Orlando Pirates | Premier League | Windhoek, Namibia
+2019-03-03 H 0-1 v Blue Waters | Premier League | Windhoek, Namibia
+2019-02-25 H 1-1 v Tura Magic | Premier League | ?
+2019-02-15 A 3-0 v Young Brazilians | Premier League | ?
+2019-01-30 A 2-0 v African Stars | Premier League | Windhoek
+2019-01-23 A 1-1 v Tigers | Premier League | ?
+2019-01-14 H 0-0 v Civics | Premier League | Windhoek
+2018-12-21 A 1-2 v Black Africa | Premier League | Windhoek
+2018-12-16 H 2-2 v Okahandja United | Premier League | Windhoek, Namibia
+2018-12-08 A 1-1 v Julinho Sporting | Premier League | Rundu
+2018-12-01 H 1-0 v Eleven Arrows | Premier League | Windhoek
+2018-11-25 H 1-4 v Life Fighters | Premier League | Windhoek, Namibia
+2018-11-18 H 2-2 v Citizens | Premier League | Windhoek
+2018-11-10 H 0-1 v Mighty Gunners | Premier League | Windhoek
+Listed home: 13 games, scored 14 (1.08), conceded 17 (1.31), blanks 4, clean sheets 3
+Listed away: 7 games, scored 11 (1.57), conceded 8 (1.14), blanks 0, clean sheets 2
+All: 20 games, scored 25 (1.25), conceded 25 (1.25), blanks 4, clean sheets 5
 
 TABLE FOR Puebla
 LEAGUE TABLE Liga MX 2026 | 18 teams | 125 games played
@@ -53,7 +76,28 @@ League averages per game: home 1.56, away 1.44, total 3.00
 17  Necaxa                  10 |  8   9-15      |  6   7-12      | 14  16-27
 18  FC Juarez                5 |  7   5-12      |  7   4-21      | 14   9-33
 
-(14 API-Football requests used)
+TABLE FOR UNAM
+LEAGUE TABLE Premier League 2018 | 16 teams | 135 games played
+League averages per game: home 1.39, away 1.22, total 2.61
+#   team                   Pts | home P GF-GA  | away P GF-GA  | all P GF-GA
+1   Black Africa            44 | 12  28-11      |  8  21-4       | 20  49-15
+2   African Stars           39 | 10  16-5       |  9  14-12      | 19  30-17
+3   Tura Magic              29 |  9  14-10      | 10   9-9       | 19  23-19
+4   Life Fighters           27 |  8  13-8       |  9  11-13      | 17  24-21
+5   Tigers                  26 |  9  11-8       | 11  13-9       | 20  24-17
+6   Mighty Gunners          26 | 10  15-10      |  7   6-5       | 17  21-15
+7   UNAM                    26 | 13  17-15      |  5   7-5       | 18  24-20
+8   Citizens                24 |  7  12-9       | 10  11-14      | 17  23-23
+9   Eleven Arrows           24 | 10  16-15      | 10  11-13      | 20  27-28
+10  Okahandja United        19 |  8   4-6       | 10  10-12      | 18  14-18
+11  Julinho Sporting        18 |  8   9-14      |  8  14-20      | 16  23-34
+12  Civics                  17 |  9  12-15      | 10   6-16      | 19  18-31
+13  Young Brazilians        16 |  6   4-7       |  9  20-27      | 15  24-34
+14  Blue Waters             16 |  8  10-18      | 11   7-14      | 19  17-32
+15  Orlando Pirates         13 |  8   6-14      |  8   5-14      | 16  11-28
+16  Young Africans           0 |  0   0-0       |  0   0-0       |  0   0-0
+
+(27 API-Football requests used)
 
 ----------------------------------------------------------------------
 MATCHBOOK: skipped (switched off for this run)
