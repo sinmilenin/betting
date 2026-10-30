@@ -1,6 +1,6 @@
-MATCH Grazer AK v Hartberg | fetched 2026-10-30 13:20 local
+MATCH Grazer AK v id:1072 | fetched 2026-10-30 13:21 local
 
-FORM DATA Grazer AK v Hartberg | source API-Football | 2026-10-30 13:20 UTC
+FORM DATA Grazer AK v id:1072 | source API-Football | 2026-10-30 13:22 UTC
 H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
 
 === Grazer AK (id 4256): last 20 finished games ===
@@ -28,14 +28,30 @@ Listed home: 10 games, scored 9 (0.90), conceded 19 (1.90), blanks 5, clean shee
 Listed away: 10 games, scored 18 (1.80), conceded 21 (2.10), blanks 3, clean sheets 3
 All: 20 games, scored 27 (1.35), conceded 40 (2.00), blanks 8, clean sheets 6
 
-"Hartberg" matches several teams. Use id:<number> instead of the name:
-  id:1072   TSV Hartberg (Austria)
-  id:28052  Hartberg (Am) (Austria)
-(retrying Hartberg using the opponent's country, Austria)
-"Hartberg" matches several teams. Use id:<number> instead of the name:
-  id:1072   TSV Hartberg (Austria)
-  id:28052  Hartberg (Am) (Austria)
-!! Hartberg: Ambiguous team name "Hartberg".
+=== TSV Hartberg (id 1072): last 20 finished games ===
+2026-10-27 A 1-1 v Austria Vienna | Cup | Vienna [PEN, 90-min score shown]
+2026-10-24 H 1-0 v Wolfsberger AC | Bundesliga | Hartberg | xG 1.27-0.70
+2026-10-16 A 1-3 v Rapid Vienna | Bundesliga | Vienna | xG 1.03-1.81
+2026-10-11 H 4-3 v Austria Lustenau | Bundesliga | Hartberg | xG 4.01-1.45
+2026-09-24 H 5-0 v SV Kapfenberg | Friendlies Clubs | ?
+2026-09-20 H 3-3 v Lask Linz | Bundesliga | Hartberg | xG 0.66-1.90
+2026-09-13 A 2-2 v WSG Wattens | Bundesliga | Innsbruck | xG 0.80-1.49
+2026-09-06 A 4-0 v SK Vorwarts Steyr | Cup | Steyr
+2026-08-30 H 3-2 v Ried | Bundesliga | Hartberg | xG 2.67-1.66
+2026-08-22 A 2-1 v SCR Altach | Bundesliga | Altach | xG 1.23-1.85
+2026-08-16 H 0-2 v Austria Vienna | Bundesliga | Hartberg
+2026-08-08 H 0-2 v Sturm Graz | Bundesliga | Hartberg
+2026-08-01 A 0-1 v Red Bull Salzburg | Bundesliga | Salzburg
+2026-07-26 A 3-1 v Imst | Cup | Imst
+2026-07-18 H 0-2 v Voitsberg | Friendlies Clubs | ?
+2026-07-18 H 2-0 v First Vienna | Friendlies Clubs | ?
+2026-07-11 H 3-0 v Příbram | Friendlies Clubs | ?
+2026-07-08 H 2-0 v Zbrojovka Brno | Friendlies Clubs | ?
+2026-07-04 H 1-1 v Ujpest | Friendlies Clubs | ?
+2026-07-01 A 2-3 v Weiz | Friendlies Clubs | ?
+Listed home: 12 games, scored 24 (2.00), conceded 15 (1.25), blanks 3, clean sheets 5
+Listed away: 8 games, scored 15 (1.88), conceded 12 (1.50), blanks 1, clean sheets 1
+All: 20 games, scored 39 (1.95), conceded 27 (1.35), blanks 4, clean sheets 6
 
 TABLE FOR Grazer AK
 LEAGUE TABLE Bundesliga 2026 | 12 teams | 60 games played
@@ -54,7 +70,9 @@ League averages per game: home 1.90, away 1.28, total 3.18
 11  Austria Vienna           7 |  4   2-6       |  6   8-14      | 10  10-20
 12  Wolfsberger AC           5 |  5   5-9       |  5   2-10      | 10   7-19
 
-(16 API-Football requests used)
+(TSV Hartberg: same table as Grazer AK, shown above)
+
+(26 API-Football requests used)
 
 ----------------------------------------------------------------------
 MATCHBOOK: skipped (switched off for this run)
