@@ -229,5 +229,16 @@
     "lay": 10,
     "stake": 3,
     "created": "2026-10-30T16:36:10Z"
+  },
+  {
+    "id": "2026-10-30_laval-boulogne_2-2",
+    "date": "2026-10-30",
+    "ko": "20:00",
+    "match": "Laval v Boulogne",
+    "comp": "France, French Ligue 2",
+    "cell": "2-2",
+    "lay": 20,
+    "stake": 3,
+    "created": "2026-10-30T17:22:00Z"
   }
 ]
