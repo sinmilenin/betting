@@ -1,2 +1,2 @@
-# Scan + top-20 30.10 07:41, run 7 (Konyaspor id)
-id:607 v Galatasaray | n=20 | xg=10
+# Scan 30.10 10:41
+Thanh Hoa v Hong Linh Ha Tinh | n=20 | xg=10
