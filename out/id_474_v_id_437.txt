@@ -1,0 +1,126 @@
+MATCH id:474 v id:437 | fetched 2026-10-30 19:58 local
+
+FORM DATA id:474 v id:437 | source API-Football | 2026-10-30 19:58 UTC
+H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
+
+=== Sarmiento Junin (id 474): last 20 finished games ===
+2026-10-23 A 0-2 v Gimnasia L.P. | Liga Profesional Argentina | La Plata | xG 0.86-0.98
+2026-10-19 H 1-1 v Barracas Central | Liga Profesional Argentina | Junin | xG 0.74-2.70
+2026-10-14 H 1-1 v River Plate | Liga Profesional Argentina | Junin | xG 1.24-1.78
+2026-10-09 A 3-1 v Aldosivi | Liga Profesional Argentina | Mar del Plata | xG 1.71-0.79
+2026-09-19 A 1-3 v Racing Club | Liga Profesional Argentina | Avellaneda
+2026-09-13 H 1-1 v Belgrano Cordoba | Liga Profesional Argentina | Junin | xG 1.53-2.18
+2026-09-04 A 2-0 v Estudiantes de Rio Cuarto | Liga Profesional Argentina | Rio Cuarto | xG 1.36-0.89
+2026-08-28 A 1-4 v Union Santa Fe | Liga Profesional Argentina | Santa Fe de la Vera Cruz | xG 0.49-1.29
+2026-08-23 H 2-0 v Estudiantes L.P. | Liga Profesional Argentina | Junin | xG 1.57-1.64
+2026-08-16 H 2-0 v Huracan | Liga Profesional Argentina | Junin | xG 1.56-0.19
+2026-08-08 A 2-1 v Atletico Tucuman | Liga Profesional Argentina | San Miguel de Tucuman
+2026-08-03 H 2-1 v Independ. Rivadavia | Liga Profesional Argentina | Junin
+2026-07-28 A 2-3 v Banfield | Liga Profesional Argentina | Buenos Aires
+2026-07-23 H 2-3 v Argentinos JRS | Liga Profesional Argentina | Junin
+2026-07-17 H 0-2 v Boca Juniors | Copa Argentina | Rosario
+2026-05-03 A 0-4 v Belgrano Cordoba | Liga Profesional Argentina | Cordoba
+2026-04-25 H 1-0 v Tigre | Liga Profesional Argentina | Junin
+2026-04-19 A 1-2 v Rosario Central | Liga Profesional Argentina | Rosario
+2026-04-13 H 1-2 v Gimnasia L.P. | Liga Profesional Argentina | Junin
+2026-04-09 H 1-0 v Tristan Suarez | Copa Argentina | ?
+Listed home: 11 games, scored 14 (1.27), conceded 11 (1.00), blanks 1, clean sheets 4
+Listed away: 9 games, scored 12 (1.33), conceded 20 (2.22), blanks 2, clean sheets 1
+All: 20 games, scored 26 (1.30), conceded 31 (1.55), blanks 3, clean sheets 5
+
+=== Rosario Central (id 437): last 20 finished games ===
+2026-10-25 H 2-0 v Huracan | Liga Profesional Argentina | Rosario | xG 2.15-0.52
+2026-10-17 A 3-2 v Atletico Tucuman | Liga Profesional Argentina | Tucuman | xG 0.75-1.39
+2026-10-11 H 5-0 v Independ. Rivadavia | Liga Profesional Argentina | Rosario | xG 3.45-0.35
+2026-10-06 A 1-1 v Banfield | Liga Profesional Argentina | Buenos Aires | xG 0.91-1.58
+2026-09-26 A 3-1 v Estudiantes L.P. | Super Copa International | La Plata
+2026-09-20 H 1-0 v Argentinos JRS | Liga Profesional Argentina | Rosario | xG 0.78-0.40
+2026-09-13 A 1-0 v Tigre | Liga Profesional Argentina | Buenos Aires | xG 2.02-1.37
+2026-09-06 H 1-1 v Newells Old Boys | Liga Profesional Argentina | Rosario | xG 0.42-0.51
+2026-08-29 H 1-2 v Gimnasia L.P. | Liga Profesional Argentina | Rosario | xG 0.58-0.38
+2026-08-25 A 2-2 v Talleres Cordoba | Liga Profesional Argentina | Cordoba | xG 2.70-1.67
+2026-08-21 A 0-1 v Corinthians | CONMEBOL Libertadores | Sao Paulo
+2026-08-16 A 1-0 v Barracas Central | Liga Profesional Argentina | Barracas
+2026-08-14 H 0-0 v Corinthians | CONMEBOL Libertadores | Rosario
+2026-08-07 H 2-1 v Aldosivi | Liga Profesional Argentina | Rosario
+2026-08-02 A 1-0 v River Plate | Liga Profesional Argentina | Buenos Aires
+2026-07-29 H 0-0 v Racing Club | Liga Profesional Argentina | Rosario
+2026-07-23 A 1-2 v Belgrano Cordoba | Liga Profesional Argentina | Cordoba
+2026-05-31 A 0-3 v Estudiantes L.P. | Copa Argentina | Cordoba
+2026-05-27 A 0-1 v Independiente del Valle | CONMEBOL Libertadores | Quito
+2026-05-19 H 4-0 v UCV | CONMEBOL Libertadores | Rosario
+Listed home: 9 games, scored 16 (1.78), conceded 4 (0.44), blanks 2, clean sheets 6
+Listed away: 11 games, scored 13 (1.18), conceded 13 (1.18), blanks 3, clean sheets 3
+All: 20 games, scored 29 (1.45), conceded 17 (0.85), blanks 5, clean sheets 9
+
+TABLE FOR Sarmiento Junin
+LEAGUE TABLE Liga Profesional Argentina 2026 | 60 teams | 450 games played
+League averages per game: home 1.20, away 0.95, total 2.15
+#   team                   Pts | home P GF-GA  | away P GF-GA  | all P GF-GA
+1   Estudiantes L.P.        31 |  8  11-4       |  8   8-3       | 16  19-7 [Apertura - Group A]
+2   Boca Juniors            30 |  8   8-3       |  8  14-6       | 16  22-9 [Apertura - Group A]
+3   Velez Sarsfield         28 |  8   9-6       |  8   9-6       | 16  18-12 [Apertura - Group A]
+4   Talleres Cordoba        26 |  7   9-5       |  9   8-8       | 16  17-13 [Apertura - Group A]
+5   Independiente           24 |  8  15-9       |  8   9-11      | 16  24-20 [Apertura - Group A]
+6   Lanus                   24 |  8   9-5       |  8   9-10      | 16  18-15 [Apertura - Group A]
+7   San Lorenzo             22 |  8  10-11      |  8   4-3       | 16  14-14 [Apertura - Group A]
+8   Union Santa Fe          21 |  8  11-5       |  8  13-15      | 16  24-20 [Apertura - Group A]
+9   Instituto Cordoba       21 |  8  11-8       |  8   6-9       | 16  17-17 [Apertura - Group A]
+10  Defensa Y Justicia      19 |  8   7-10      |  8  11-11      | 16  18-21 [Apertura - Group A]
+11  Gimnasia M.             19 |  8   9-8       |  8   5-14      | 16  14-22 [Apertura - Group A]
+12  Platense                16 |  8   4-8       |  8   6-7       | 16  10-15 [Apertura - Group A]
+13  Central Cordoba de San  16 |  8  10-9       |  8   1-12      | 16  11-21 [Apertura - Group A]
+14  Newells Old Boys        15 |  8   6-10      |  8   9-17      | 16  15-27 [Apertura - Group A]
+15  Deportivo Riestra       11 |  8   4-4       |  8   1-8       | 16   5-12 [Apertura - Group A]
+1   Independ. Rivadavia     34 |  9  19-10      |  7  10-5       | 16  29-15 [Apertura - Group B]
+2   River Plate             29 |  8  14-8       |  8   8-4       | 16  22-12 [Apertura - Group B]
+3   Argentinos JRS          29 |  9  10-4       |  7   7-9       | 16  17-13 [Apertura - Group B]
+4   Rosario Central         28 |  8  10-7       |  8  10-9       | 16  20-16 [Apertura - Group B]
+5   Belgrano Cordoba        26 |  8  11-5       |  8   6-8       | 16  17-13 [Apertura - Group B]
+6   Gimnasia L.P.           26 |  8  11-10      |  8   8-9       | 16  19-19 [Apertura - Group B]
+7   Huracan                 22 |  8  11-8       |  8   6-5       | 16  17-13 [Apertura - Group B]
+8   Racing Club             21 |  7   7-7       |  9  10-8       | 16  17-15 [Apertura - Group B]
+9   Barracas Central        21 |  8   9-8       |  8   6-7       | 16  15-15 [Apertura - Group B]
+10  Tigre                   20 |  8  11-8       |  8   7-7       | 16  18-15 [Apertura - Group B]
+11  Sarmiento Junin         19 |  8   9-6       |  8   4-14      | 16  13-20 [Apertura - Group B]
+12  Banfield                18 |  8  10-6       |  8   7-13      | 16  17-19 [Apertura - Group B]
+13  Atletico Tucuman        14 |  8   8-6       |  8   7-14      | 16  15-20 [Apertura - Group B]
+14  Aldosivi                 8 |  8   3-5       |  8   3-14      | 16   6-19 [Apertura - Group B]
+15  Estudiantes de Rio Cua   5 |  8   4-10      |  8   1-14      | 16   5-24 [Apertura - Group B]
+1   Instituto Cordoba       32 |  7  12-5       |  7   9-5       | 14  21-10 [Clausura - Group A]
+2   Velez Sarsfield         27 |  7  10-5       |  7  13-8       | 14  23-13 [Clausura - Group A]
+3   Boca Juniors            27 |  6  11-3       |  8  11-11      | 14  22-14 [Clausura - Group A]
+4   Defensa Y Justicia      27 |  7  11-4       |  7   9-9       | 14  20-13 [Clausura - Group A]
+5   Lanus                   24 |  7   8-6       |  7   9-4       | 14  17-10 [Clausura - Group A]
+6   Newells Old Boys        21 |  7  10-5       |  7   3-5       | 14  13-10 [Clausura - Group A]
+7   Gimnasia M.             20 |  7  10-5       |  7   6-10      | 14  16-15 [Clausura - Group A]
+8   Independiente           19 |  7   3-10      |  7   9-4       | 14  12-14 [Clausura - Group A]
+9   San Lorenzo             18 |  7   4-4       |  7   3-8       | 14   7-12 [Clausura - Group A]
+10  Union Santa Fe          17 |  7  14-11      |  7   7-12      | 14  21-23 [Clausura - Group A]
+11  Estudiantes L.P.        14 |  7  13-5       |  7   4-13      | 14  17-18 [Clausura - Group A]
+12  Platense                14 |  7   5-11      |  7   9-9       | 14  14-20 [Clausura - Group A]
+13  Deportivo Riestra       12 |  7   8-7       |  7   2-7       | 14  10-14 [Clausura - Group A]
+14  Central Cordoba de San  10 |  7   5-13      |  7   6-10      | 14  11-23 [Clausura - Group A]
+15  Talleres Cordoba         9 |  8   6-12      |  6   7-10      | 14  13-22 [Clausura - Group A]
+1   Rosario Central         28 |  7  12-4       |  7  10-7       | 14  22-11 [Clausura - Group B]
+2   Argentinos JRS          28 |  6  11-4       |  8   7-7       | 14  18-11 [Clausura - Group B]
+3   Gimnasia L.P.           25 |  7  12-7       |  7   9-11      | 14  21-18 [Clausura - Group B]
+4   River Plate             23 |  8  10-7       |  6   9-6       | 14  19-13 [Clausura - Group B]
+5   Belgrano Cordoba        22 |  7   8-9       |  7   6-2       | 14  14-11 [Clausura - Group B]
+6   Barracas Central        22 |  7   6-5       |  7   7-6       | 14  13-11 [Clausura - Group B]
+7   Sarmiento Junin         21 |  7  11-7       |  7  11-14      | 14  22-21 [Clausura - Group B]
+8   Huracan                 19 |  7   6-4       |  7   6-10      | 14  12-14 [Clausura - Group B]
+9   Independ. Rivadavia     19 |  6  14-9       |  8   3-13      | 14  17-22 [Clausura - Group B]
+10  Atletico Tucuman        17 |  7   6-10      |  7   7-3       | 14  13-13 [Clausura - Group B]
+11  Banfield                14 |  7   8-11      |  7   7-9       | 14  15-20 [Clausura - Group B]
+12  Tigre                   13 |  7   4-5       |  7   9-11      | 14  13-16 [Clausura - Group B]
+13  Racing Club             12 |  8   9-12      |  6   5-9       | 14  14-21 [Clausura - Group B]
+14  Aldosivi                11 |  7   8-9       |  7   7-13      | 14  15-22 [Clausura - Group B]
+15  Estudiantes de Rio Cua   9 |  7   4-6       |  7   5-13      | 14   9-19 [Clausura - Group B]
+
+(Rosario Central: same table as Sarmiento Junin, shown above)
+
+(25 API-Football requests used)
+
+----------------------------------------------------------------------
+MATCHBOOK: skipped (switched off for this run)

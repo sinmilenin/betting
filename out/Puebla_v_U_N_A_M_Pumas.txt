@@ -1,6 +1,6 @@
-MATCH Puebla v Pumas UNAM | fetched 2026-10-30 19:58 local
+MATCH Puebla v U.N.A.M. - Pumas | fetched 2026-10-30 19:58 local
 
-FORM DATA Puebla v Pumas UNAM | source API-Football | 2026-10-30 19:58 UTC
+FORM DATA Puebla v U.N.A.M. - Pumas | source API-Football | 2026-10-30 19:58 UTC
 H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
 
 === Puebla (id 2291): last 20 finished games ===
@@ -28,14 +28,7 @@ Listed home: 7 games, scored 10 (1.43), conceded 11 (1.57), blanks 1, clean shee
 Listed away: 13 games, scored 18 (1.38), conceded 28 (2.15), blanks 4, clean sheets 3
 All: 20 games, scored 28 (1.40), conceded 39 (1.95), blanks 5, clean sheets 3
 
-"Pumas UNAM" matches several teams. Use id:<number> instead of the name:
-  id:14870  Pumas UNAM W (Mexico)
-  id:17337  Pumas UNAM U20 (Mexico)
-(retrying Pumas UNAM using the opponent's country, Mexico)
-"Pumas UNAM" matches several teams. Use id:<number> instead of the name:
-  id:14870  Pumas UNAM W (Mexico)
-  id:17337  Pumas UNAM U20 (Mexico)
-!! Pumas UNAM: Ambiguous team name "Pumas UNAM".
+!! U.N.A.M. - Pumas: API-Football error: {"search": "The Search field may only contain alpha-numeric characters and spaces."}
 
 TABLE FOR Puebla
 LEAGUE TABLE Liga MX 2026 | 18 teams | 125 games played
@@ -60,7 +53,7 @@ League averages per game: home 1.56, away 1.44, total 3.00
 17  Necaxa                  10 |  8   9-15      |  6   7-12      | 14  16-27
 18  FC Juarez                5 |  7   5-12      |  7   4-21      | 14   9-33
 
-(15 API-Football requests used)
+(14 API-Football requests used)
 
 ----------------------------------------------------------------------
 MATCHBOOK: skipped (switched off for this run)
