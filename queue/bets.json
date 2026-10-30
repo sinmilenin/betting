@@ -108,5 +108,27 @@
     "lay": 16,
     "stake": 3,
     "created": "2026-10-30T14:26:34+01:00"
+  },
+  {
+    "id": "2026-10-30_pfk-turan-tovuz-fc-sabah_2-2",
+    "date": "2026-10-30",
+    "ko": "15:30",
+    "match": "PFK Turan Tovuz v FC Sabah",
+    "comp": "Azerbaijan, Azerbaijan Premier League",
+    "cell": "2-2",
+    "lay": 18.5,
+    "stake": 3,
+    "created": "2026-10-30T14:20:44Z"
+  },
+  {
+    "id": "2026-10-30_al-riffa-al-najma-brn_2-1",
+    "date": "2026-10-30",
+    "ko": "16:00",
+    "match": "Al Riffa v Al Najma (BRN)",
+    "comp": "Bahrain, Bahraini Premier",
+    "cell": "2-1",
+    "lay": 10,
+    "stake": 3,
+    "created": "2026-10-30T14:20:44Z"
   }
 ]
