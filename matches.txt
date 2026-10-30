@@ -1,2 +1,5 @@
-# Scan 30.10 18:13 retry 3 (Ljubljana)
-id:3843 v Bohemians | n=20 | xg=10
+# Scan 30.10 18:57 (Ljubljana)
+Rapperswil-Jona v Stade Nyonnais | n=20 | xg=10
+Sandecja Nowy Sacz v Olimpia Grudziadz | n=20 | xg=10
+RKC Waalwijk v Almere City | n=20 | xg=10
+Stenhousemuir v Livingston | n=20 | xg=10
