@@ -1,3 +1,4 @@
-RUN 2026-10-30 06:50 local | 1 match(es)
-id:607 v Galatasaray -> out/id_607_v_Galatasaray.txt
-Requests used: API-Football 25, Matchbook 0
+RUN 2026-10-30 09:42 local | 1 match(es)
+Thanh Hoa v Hong Linh Ha Tinh -> out/Thanh_Hoa_v_Hong_Linh_Ha_Tinh.txt
+    !! Thanh Hoa: Ambiguous team name "Thanh Hoa".
+Requests used: API-Football 15, Matchbook 0
