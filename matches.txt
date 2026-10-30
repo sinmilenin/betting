@@ -1,2 +1,2 @@
-# Scan 30.10 18:13 retry 2 (Ljubljana)
-Patrick v Bohemians | n=20 | xg=10
+# Scan 30.10 18:13 retry 3 (Ljubljana)
+id:3843 v Bohemians | n=20 | xg=10
