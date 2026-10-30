@@ -1,5 +1,8 @@
-# Scan 30.10 18:57 (Ljubljana)
-Rapperswil-Jona v Stade Nyonnais | n=20 | xg=10
-Sandecja Nowy Sacz v Olimpia Grudziadz | n=20 | xg=10
-RKC Waalwijk v Almere City | n=20 | xg=10
-Stenhousemuir v Livingston | n=20 | xg=10
+# Scan 30.10 18:57 run 2 (Ljubljana)
+Rapperswil Jona v Stade Nyonnais | n=20 | xg=10
+Sandecja v Olimpia Grudziadz | n=20 | xg=10
+Waalwijk v Almere | n=20 | xg=10
+Sheffield Utd v Wrexham | n=20 | xg=10
+Villarreal v Espanyol | n=20 | xg=10
+Lille v Lens | n=20 | xg=10
+Casa Pia v Sporting CP | n=20 | xg=10
