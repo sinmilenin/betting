@@ -1,8 +1,4 @@
-# Scan 30.10 18:13 (Ljubljana)
-Oddevold v Brage | n=20 | xg=10
-AaB v Hobro | n=20 | xg=10
-Lokomotiv Sofia v Botev Plovdiv | n=20 | xg=10
-Laval v Boulogne | n=20 | xg=10
-Drogheda v Galway United | n=20 | xg=10
-Shelbourne v Waterford | n=20 | xg=10
-St Patrick's Athletic v Bohemians | n=20 | xg=10
+# Scan 30.10 18:13 retry (Ljubljana)
+Oddevold v id:2175 | n=20 | xg=10
+Aalborg v Hobro | n=20 | xg=10
+St Patricks v Bohemians | n=20 | xg=10
