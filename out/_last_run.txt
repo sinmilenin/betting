@@ -1,10 +1,3 @@
-RUN 2026-10-30 18:46 local | 5 match(es)
-Elversberg v Mainz -> out/Elversberg_v_Mainz.txt
-    !! Elversberg: Ambiguous team name "Elversberg".
-    !! Mainz: Ambiguous team name "Mainz".
-Newport County v Chesterfield -> out/Newport_County_v_Chesterfield.txt
-Sligo Rovers v Derry City -> out/Sligo_Rovers_v_Derry_City.txt
-Zulte Waregem v Club Brugge -> out/Zulte_Waregem_v_Club_Brugge.txt
-    !! Club Brugge: Ambiguous team name "Club Brugge".
-Deportivo Pereira v id:1133 -> out/Deportivo_Pereira_v_id_1133.txt
-Requests used: API-Football 92, Matchbook 0
+RUN 2026-10-30 18:47 local | 1 match(es)
+Birmingham City U21 v Swansea City U21 -> out/Birmingham_City_U21_v_Swansea_City_U21.txt
+Requests used: API-Football 26, Matchbook 0
