@@ -1,8 +1,10 @@
-RUN 2026-10-30 18:44 local | 4 match(es)
-Roda v Jong AZ -> out/Roda_v_Jong_AZ.txt
-Birmingham U21 v Swansea U21 -> out/Birmingham_U21_v_Swansea_U21.txt
-    !! Birmingham U21: No team found for "Birmingham U21".
-    !! Swansea U21: No team found for "Swansea U21".
-Rodez v Dunkerque -> out/Rodez_v_Dunkerque.txt
-Grenoble v Dijon -> out/Grenoble_v_Dijon.txt
-Requests used: API-Football 78, Matchbook 0
+RUN 2026-10-30 18:46 local | 5 match(es)
+Elversberg v Mainz -> out/Elversberg_v_Mainz.txt
+    !! Elversberg: Ambiguous team name "Elversberg".
+    !! Mainz: Ambiguous team name "Mainz".
+Newport County v Chesterfield -> out/Newport_County_v_Chesterfield.txt
+Sligo Rovers v Derry City -> out/Sligo_Rovers_v_Derry_City.txt
+Zulte Waregem v Club Brugge -> out/Zulte_Waregem_v_Club_Brugge.txt
+    !! Club Brugge: Ambiguous team name "Club Brugge".
+Deportivo Pereira v id:1133 -> out/Deportivo_Pereira_v_id_1133.txt
+Requests used: API-Football 92, Matchbook 0
