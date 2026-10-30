@@ -1,0 +1,76 @@
+MATCH Rapperswil v Stade Nyonnais | fetched 2026-10-30 18:08 local
+
+FORM DATA Rapperswil v Stade Nyonnais | source API-Football | 2026-10-30 18:08 UTC
+H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
+
+=== Rapperswil (id 2185): last 20 finished games ===
+2026-10-23 A 2-2 v FC WIL 1900 | Challenge League | Wil
+2026-10-16 H 0-2 v FC ST. Gallen | Schweizer Cup | Rapperswil-Jona
+2026-10-09 H 0-3 v Stade Lausanne-Ouchy | Challenge League | Rapperswil-Jona
+2026-09-18 A 3-0 v Neuchatel Xamax FC | Challenge League | ?
+2026-09-11 H 2-0 v Yverdon Sport | Challenge League | Rapperswil-Jona
+2026-09-04 A 2-3 v FC Aarau | Challenge League | Aarau
+2026-09-01 H 1-1 v SC Kriens | Challenge League | Rapperswil-Jona
+2026-08-28 A 1-2 v Étoile Carouge | Challenge League | Carouge
+2026-08-21 H 0-2 v FC Winterthur | Challenge League | Rapperswil-Jona
+2026-08-15 A 6-1 v YF Juventus | Schweizer Cup | ?
+2026-08-07 A 0-2 v Stade Lausanne-Ouchy | Challenge League | Lausanne
+2026-07-31 A 2-1 v Stade Nyonnais | Challenge League | Nyon
+2026-07-24 H 4-5 v FC WIL 1900 | Challenge League | Rapperswil-Jona
+2026-07-17 H 3-1 v Cham | Friendlies Clubs | ?
+2026-07-04 A 1-1 v FC Lugano | Friendlies Clubs | ?
+2026-06-26 H 0-3 v FC Basel 1893 | Friendlies Clubs | ?
+2026-06-24 A 3-1 v Freienbach | Friendlies Clubs | ?
+2026-05-15 H 2-1 v Stade Nyonnais | Challenge League | Rapperswil-Jona
+2026-05-11 A 1-3 v Yverdon Sport | Challenge League | Yverdon-les-Bains
+2026-05-08 H 2-3 v Neuchatel Xamax FC | Challenge League | Rapperswil-Jona
+Listed home: 10 games, scored 14 (1.40), conceded 21 (2.10), blanks 4, clean sheets 1
+Listed away: 10 games, scored 21 (2.10), conceded 16 (1.60), blanks 1, clean sheets 1
+All: 20 games, scored 35 (1.75), conceded 37 (1.85), blanks 5, clean sheets 2
+
+=== Stade Nyonnais (id 6646): last 20 finished games ===
+2026-10-23 A 0-4 v FC Winterthur | Challenge League | Winterthur
+2026-10-16 H 0-3 v FC Basel 1893 | Schweizer Cup | Nyon
+2026-10-09 H 2-1 v FC Aarau | Challenge League | Nyon
+2026-09-18 A 0-5 v FC WIL 1900 | Challenge League | Wil
+2026-09-11 H 1-3 v Neuchatel Xamax FC | Challenge League | Nyon
+2026-09-06 A 1-4 v Yverdon Sport | Challenge League | Yverdon-les-Bains
+2026-09-01 H 2-2 v FC Winterthur | Challenge League | Nyon
+2026-08-28 A 0-3 v SC Kriens | Challenge League | Kriens
+2026-08-21 H 0-0 v Étoile Carouge | Challenge League | Nyon
+2026-08-15 A 3-1 v Amical Saint-Prex | Schweizer Cup | ?
+2026-08-07 A 1-2 v FC Aarau | Challenge League | Aarau
+2026-07-31 H 1-2 v Rapperswil | Challenge League | Nyon
+2026-07-24 A 0-2 v Stade Lausanne-Ouchy | Challenge League | Lausanne
+2026-07-11 A 4-4 v Bulle | Friendlies Clubs | ?
+2026-07-04 A 1-1 v Servette FC | Friendlies Clubs | ?
+2026-05-15 A 1-2 v Rapperswil | Challenge League | Rapperswil-Jona
+2026-05-11 H 1-3 v Stade Lausanne-Ouchy | Challenge League | Nyon
+2026-05-08 A 1-5 v FC Aarau | Challenge League | Aarau
+2026-05-01 H 0-1 v FC WIL 1900 | Challenge League | Nyon
+2026-04-24 H 1-3 v FC Vaduz | Challenge League | Nyon
+Listed home: 9 games, scored 8 (0.89), conceded 18 (2.00), blanks 3, clean sheets 1
+Listed away: 11 games, scored 12 (1.09), conceded 33 (3.00), blanks 4, clean sheets 0
+All: 20 games, scored 20 (1.00), conceded 51 (2.55), blanks 7, clean sheets 1
+
+TABLE FOR Rapperswil
+LEAGUE TABLE Challenge League 2026 | 10 teams | 55 games played
+League averages per game: home 1.82, away 1.22, total 3.04
+#   team                   Pts | home P GF-GA  | away P GF-GA  | all P GF-GA
+1   Stade Lausanne-Ouchy    25 |  5  11-0       |  6   9-3       | 11  20-3
+2   Yverdon Sport           22 |  6  13-6       |  5   8-5       | 11  21-11
+3   FC Winterthur           21 |  6  18-4       |  5   5-7       | 11  23-11
+4   Neuchatel Xamax FC      16 |  5   8-9       |  6   7-8       | 11  15-17
+5   SC Kriens               15 |  6  10-6       |  5   9-11      | 11  19-17
+6   FC Aarau                12 |  6  11-9       |  5   5-11      | 11  16-20
+7   Étoile Carouge          12 |  6   6-6       |  5   4-9       | 11  10-15
+8   Rapperswil              11 |  5   7-11      |  6  10-10      | 11  17-21
+9   FC WIL 1900             11 |  5  10-8       |  6   8-16      | 11  18-24
+10  Stade Nyonnais           5 |  5   6-8       |  6   2-20      | 11   8-28
+
+(Stade Nyonnais: same table as Rapperswil, shown above)
+
+(25 API-Football requests used)
+
+----------------------------------------------------------------------
+MATCHBOOK: skipped (switched off for this run)

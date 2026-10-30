@@ -1,49 +1,8 @@
-MATCH Lille v Lens | fetched 2026-10-30 18:05 local
+MATCH id:79 v Lens | fetched 2026-10-30 18:08 local
 
-FORM DATA Lille v Lens | source API-Football | 2026-10-30 18:06 UTC
+FORM DATA id:79 v Lens | source API-Football | 2026-10-30 18:08 UTC
 H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
 
-"Lille" matches several teams. Use id:<number> instead of the name:
-  id:79     Lille (France)
-  id:321    Lillestrom (Norway)
-  id:1678   Lille W (France)
-  id:5734   Lille (Belgium)
-  id:7908   Lille U19 (France)
-  id:9234   Lille II (France)
-  id:13652  Lille Sud (France)
-  id:13653  Lillebonne (France)
-  id:14306  Lilleküla Retro (Estonia)
-  id:16207  Lillestrøm II (Norway)
-  id:16559  Lillestrøm U19 (Norway)
-  id:18437  Lillehammer (Norway)
-  id:19535  Sparta Lille (Belgium)
-=== Lens (id 116): last 20 finished games ===
-2026-10-24 H 2-1 v Paris FC | Ligue 1 | Lens | xG 1.10-0.44
-2026-10-21 A 0-3 v Club Brugge KV | UEFA Champions League | Bruges | xG 2.10-2.68
-2026-10-17 A 3-1 v Estac Troyes | Ligue 1 | Troyes | xG 1.43-1.24
-2026-10-13 H 0-2 v Sporting CP | UEFA Champions League | Lens | xG 1.72-1.67
-2026-10-09 H 2-1 v Lyon | Ligue 1 | Lens | xG 1.34-1.04
-2026-10-02 A 2-0 v Standard Liege | Friendlies Clubs | ?
-2026-09-18 A 1-2 v Monaco | Ligue 1 | Monaco | xG 1.19-1.75
-2026-09-13 A 2-2 v Le Mans | Ligue 1 | Le Mans | xG 1.62-2.59
-2026-09-10 A 3-2 v Slavia Praha | UEFA Champions League | Prague | xG 1.78-2.09
-2026-09-05 H 0-1 v Lorient | Ligue 1 | Lens | xG 1.24-1.60
-2026-08-29 A 1-2 v Strasbourg | Ligue 1 | Strasbourg
-2026-08-22 H 5-2 v Auxerre | Ligue 1 | Lens
-2026-08-16 H 1-0 v Paris Saint Germain | Trophée des Champions | Lens
-2026-08-08 H 0-2 v Sunderland | Friendlies Clubs | ?
-2026-08-01 H 3-1 v Villarreal | Como Cup | Como
-2026-07-28 H 0-0 v Famalicao | Como Cup | Como [PEN, 90-min score shown]
-2026-07-28 A 3-0 v Crystal Palace | Como Cup | Como
-2026-07-25 H 2-2 v Charleroi | Friendlies Clubs | ?
-2026-07-18 H 4-1 v Boulogne | Friendlies Clubs | ?
-2026-05-22 H 3-1 v Nice | Coupe de France | Paris - Saint-Denis
-Listed home: 12 games, scored 22 (1.83), conceded 14 (1.17), blanks 4, clean sheets 2
-Listed away: 8 games, scored 15 (1.88), conceded 12 (1.50), blanks 1, clean sheets 2
-All: 20 games, scored 37 (1.85), conceded 26 (1.30), blanks 5, clean sheets 4
-
-(retrying Lille using the opponent's country, France)
-NOTE: "Lille" matched 2 teams; picked Lille (France) because the opponent is from France. Others: Lille (Belgium)
 === Lille (id 79): last 20 finished games ===
 2026-10-25 A 1-1 v Monaco | Ligue 1 | Monaco | xG 0.71-2.24
 2026-10-21 H 2-4 v Galatasaray | UEFA Champions League | Lille | xG 2.11-1.66
@@ -69,7 +28,32 @@ Listed home: 10 games, scored 16 (1.60), conceded 14 (1.40), blanks 1, clean she
 Listed away: 10 games, scored 16 (1.60), conceded 14 (1.40), blanks 1, clean sheets 3
 All: 20 games, scored 32 (1.60), conceded 28 (1.40), blanks 2, clean sheets 6
 
-TABLE FOR Lens
+=== Lens (id 116): last 20 finished games ===
+2026-10-24 H 2-1 v Paris FC | Ligue 1 | Lens | xG 1.10-0.44
+2026-10-21 A 0-3 v Club Brugge KV | UEFA Champions League | Bruges | xG 2.10-2.68
+2026-10-17 A 3-1 v Estac Troyes | Ligue 1 | Troyes | xG 1.43-1.24
+2026-10-13 H 0-2 v Sporting CP | UEFA Champions League | Lens | xG 1.72-1.67
+2026-10-09 H 2-1 v Lyon | Ligue 1 | Lens | xG 1.34-1.04
+2026-10-02 A 2-0 v Standard Liege | Friendlies Clubs | ?
+2026-09-18 A 1-2 v Monaco | Ligue 1 | Monaco | xG 1.19-1.75
+2026-09-13 A 2-2 v Le Mans | Ligue 1 | Le Mans | xG 1.62-2.59
+2026-09-10 A 3-2 v Slavia Praha | UEFA Champions League | Prague | xG 1.78-2.09
+2026-09-05 H 0-1 v Lorient | Ligue 1 | Lens | xG 1.24-1.60
+2026-08-29 A 1-2 v Strasbourg | Ligue 1 | Strasbourg
+2026-08-22 H 5-2 v Auxerre | Ligue 1 | Lens
+2026-08-16 H 1-0 v Paris Saint Germain | Trophée des Champions | Lens
+2026-08-08 H 0-2 v Sunderland | Friendlies Clubs | ?
+2026-08-01 H 3-1 v Villarreal | Como Cup | Como
+2026-07-28 H 0-0 v Famalicao | Como Cup | Como [PEN, 90-min score shown]
+2026-07-28 A 3-0 v Crystal Palace | Como Cup | Como
+2026-07-25 H 2-2 v Charleroi | Friendlies Clubs | ?
+2026-07-18 H 4-1 v Boulogne | Friendlies Clubs | ?
+2026-05-22 H 3-1 v Nice | Coupe de France | Paris - Saint-Denis
+Listed home: 12 games, scored 22 (1.83), conceded 14 (1.17), blanks 4, clean sheets 2
+Listed away: 8 games, scored 15 (1.88), conceded 12 (1.50), blanks 1, clean sheets 2
+All: 20 games, scored 37 (1.85), conceded 26 (1.30), blanks 5, clean sheets 4
+
+TABLE FOR Lille
 LEAGUE TABLE Ligue 1 2026 | 18 teams | 72 games played
 League averages per game: home 1.62, away 1.35, total 2.97
 #   team                   Pts | home P GF-GA  | away P GF-GA  | all P GF-GA
@@ -92,9 +76,9 @@ League averages per game: home 1.62, away 1.35, total 2.97
 17  Estac Troyes             5 |  4   3-11      |  4   2-5       |  8   5-16
 18  Le Havre                 2 |  4   2-6       |  4   6-9       |  8   8-15
 
-(Lille: same table as Lens, shown above)
+(Lens: same table as Lille, shown above)
 
-(26 API-Football requests used)
+(25 API-Football requests used)
 
 ----------------------------------------------------------------------
 MATCHBOOK: skipped (switched off for this run)

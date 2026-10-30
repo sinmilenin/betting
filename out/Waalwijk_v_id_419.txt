@@ -1,6 +1,6 @@
-MATCH Waalwijk v Almere | fetched 2026-10-30 18:05 local
+MATCH Waalwijk v id:419 | fetched 2026-10-30 18:08 local
 
-FORM DATA Waalwijk v Almere | source API-Football | 2026-10-30 18:05 UTC
+FORM DATA Waalwijk v id:419 | source API-Football | 2026-10-30 18:08 UTC
 H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
 
 === Waalwijk (id 417): last 20 finished games ===
@@ -28,16 +28,30 @@ Listed home: 12 games, scored 24 (2.00), conceded 17 (1.42), blanks 1, clean she
 Listed away: 8 games, scored 6 (0.75), conceded 9 (1.12), blanks 3, clean sheets 2
 All: 20 games, scored 30 (1.50), conceded 26 (1.30), blanks 4, clean sheets 3
 
-"Almere" matches several teams. Use id:<number> instead of the name:
-  id:419    Almere City FC (Netherlands)
-  id:9130   Almere City II (Netherlands)
-  id:20797  Rydalmere Lions (Australia)
-(retrying Almere using the opponent's country, Netherlands)
-"Almere" matches several teams. Use id:<number> instead of the name:
-  id:419    Almere City FC (Netherlands)
-  id:9130   Almere City II (Netherlands)
-  id:20797  Rydalmere Lions (Australia)
-!! Almere: Ambiguous team name "Almere".
+=== Almere City FC (id 419): last 20 finished games ===
+2026-10-27 A 2-0 v Telstar | KNVB Beker | Velsen-Zuid
+2026-10-23 H 2-3 v Roda | Eerste Divisie | Almere | xG 1.67-2.67
+2026-10-17 A 1-2 v Emmen | Eerste Divisie | Emmen | xG 2.22-3.67
+2026-10-09 H 3-0 v FC Eindhoven | Eerste Divisie | Almere | xG 2.71-0.40
+2026-10-03 H 1-0 v FC Volendam | Eerste Divisie | Almere | xG 2.19-1.04
+2026-09-25 A 2-3 v Dordrecht | Eerste Divisie | Dordrecht | xG 1.85-0.91
+2026-09-18 H 1-0 v Heracles | Eerste Divisie | Almere | xG 0.23-2.63
+2026-09-11 A 4-0 v MVV | Eerste Divisie | Maastricht | xG 2.58-0.57
+2026-09-04 H 0-1 v Jong Ajax | Eerste Divisie | Almere | xG 3.19-1.18
+2026-08-29 A 4-1 v De Graafschap | Eerste Divisie | Doetinchem | xG 2.60-1.24
+2026-08-21 A 3-0 v Vitesse | Eerste Divisie | Arnhem
+2026-08-14 H 3-1 v Jong PSV U21 | Eerste Divisie | Almere
+2026-08-08 A 1-1 v Den Bosch | Eerste Divisie | ?
+2026-08-01 A 0-4 v Emmen | Friendlies Clubs | ?
+2026-07-25 H 8-4 v FC OSS | Friendlies Clubs | ?
+2026-07-15 H 2-1 v FC Volendam | Friendlies Clubs | ?
+2026-07-11 A 1-2 v AZ Alkmaar | Friendlies Clubs | ?
+2026-07-08 A 1-2 v GO Ahead Eagles | Friendlies Clubs | ?
+2026-07-04 H 2-1 v Telstar | Friendlies Clubs | ?
+2026-05-16 A 0-2 v Willem II | Eerste Divisie | Tilburg
+Listed home: 9 games, scored 22 (2.44), conceded 11 (1.22), blanks 1, clean sheets 3
+Listed away: 11 games, scored 19 (1.73), conceded 17 (1.55), blanks 2, clean sheets 3
+All: 20 games, scored 41 (2.05), conceded 28 (1.40), blanks 3, clean sheets 6
 
 TABLE FOR Waalwijk
 LEAGUE TABLE Eerste Divisie 2026 | 100 teams | 240 games played
@@ -144,7 +158,9 @@ League averages per game: home 1.99, away 1.60, total 3.59
 19  Jong AZ                  0 |  0   0-0       |  0   0-0       |  0   0-0 [Eerste Divisie: Period 4]
 20  Jong Utrecht             0 |  0   0-0       |  0   0-0       |  0   0-0 [Eerste Divisie: Period 4]
 
-(16 API-Football requests used)
+(Almere City FC: same table as Waalwijk, shown above)
+
+(26 API-Football requests used)
 
 ----------------------------------------------------------------------
 MATCHBOOK: skipped (switched off for this run)

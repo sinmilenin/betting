@@ -1,11 +1,6 @@
-RUN 2026-10-30 18:05 local | 7 match(es)
-Rapperswil Jona v Stade Nyonnais -> out/Rapperswil_Jona_v_Stade_Nyonnais.txt
-Sandecja v Olimpia Grudziadz -> out/Sandecja_v_Olimpia_Grudziadz.txt
-    !! Sandecja: Ambiguous team name "Sandecja".
-Waalwijk v Almere -> out/Waalwijk_v_Almere.txt
-    !! Almere: Ambiguous team name "Almere".
-Sheffield Utd v Wrexham -> out/Sheffield_Utd_v_Wrexham.txt
-Villarreal v Espanyol -> out/Villarreal_v_Espanyol.txt
-Lille v Lens -> out/Lille_v_Lens.txt
-Casa Pia v Sporting CP -> out/Casa_Pia_v_Sporting_CP.txt
-Requests used: API-Football 161, Matchbook 0
+RUN 2026-10-30 18:08 local | 4 match(es)
+Rapperswil v Stade Nyonnais -> out/Rapperswil_v_Stade_Nyonnais.txt
+id:3492 v Olimpia Grudziadz -> out/id_3492_v_Olimpia_Grudziadz.txt
+Waalwijk v id:419 -> out/Waalwijk_v_id_419.txt
+id:79 v Lens -> out/id_79_v_Lens.txt
+Requests used: API-Football 102, Matchbook 0
