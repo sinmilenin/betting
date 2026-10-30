@@ -1,2 +1,6 @@
-# Scan 30.10 12:58
-Hapoel Afula v Maccabi Kiryat Gat | n=20 | xg=10
+# Scan 30.10 14:18 (+ top-20)
+FK Kokand 1912 v Qizilqum | n=20 | xg=10
+CSKA 1948 v Spartak Varna | n=20 | xg=10
+Tatran Liptovsky Mikulas v MSK Zilina II | n=20 | xg=10
+Rapid Bucuresti v Csikszereda | n=20 | xg=10
+Grazer AK v Hartberg | n=20 | xg=10
