@@ -1,2 +1,4 @@
-# Scan 30.10 20:26 run 3 (Ljubljana) - team name correction
-Estudiantes de Rio Cuarto v Gimnasia LP | n=20 | xg=10
+# Night scan 30.10 20:56 (Ljubljana)
+Corinthians v Mirassol | n=20 | xg=10
+Sarmiento v Rosario Central | n=20 | xg=10
+Puebla v Pumas UNAM | n=20 | xg=10
