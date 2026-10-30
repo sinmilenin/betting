@@ -1,10 +1,7 @@
-RUN 2026-10-30 06:46 local | 7 match(es)
-Abha v id:2638 -> out/Abha_v_id_2638.txt
-id:327 v Viking -> out/id_327_v_Viking.txt
-Karmiotissa v Olympiakos Nicosia -> out/Karmiotissa_v_Olympiakos_Nicosia.txt
-    !! Olympiakos Nicosia: No team found for "Olympiakos Nicosia".
-Newport County v Chesterfield -> out/Newport_County_v_Chesterfield.txt
-Sligo Rovers v Derry City -> out/Sligo_Rovers_v_Derry_City.txt
-GC Mascara v NA Hussein Dey -> out/GC_Mascara_v_NA_Hussein_Dey.txt
-Konyaspor U19 v Galatasaray U19 -> out/Konyaspor_U19_v_Galatasaray_U19.txt
-Requests used: API-Football 165, Matchbook 0
+RUN 2026-10-30 06:47 local | 4 match(es)
+Deportivo Pereira v id:1133 -> out/Deportivo_Pereira_v_id_1133.txt
+Abha v Ittihad -> out/Abha_v_Ittihad.txt
+    !! Ittihad: Ambiguous team name "Ittihad".
+Karmiotissa v Olympiakos -> out/Karmiotissa_v_Olympiakos.txt
+GC Mascara v Hussein Dey -> out/GC_Mascara_v_Hussein_Dey.txt
+Requests used: API-Football 90, Matchbook 0
