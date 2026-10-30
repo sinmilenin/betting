@@ -141,5 +141,93 @@
     "lay": 19,
     "stake": 3,
     "created": "2026-10-30T15:01:00Z"
+  },
+  {
+    "id": "2026-10-30_al-shabab-ksa-al-ahli_0-1",
+    "date": "2026-10-30",
+    "ko": "19:00",
+    "match": "Al-Shabab (KSA) v Al Ahli",
+    "comp": "Saudi Arabia, Saudi Professional League",
+    "cell": "0-1",
+    "lay": 15.5,
+    "stake": 3,
+    "created": "2026-10-30T16:36:10Z"
+  },
+  {
+    "id": "2026-10-30_cracovia-krakow-lkp-motor-lublin_2-2",
+    "date": "2026-10-30",
+    "ko": "18:00",
+    "match": "Cracovia Krakow v LKP Motor Lublin",
+    "comp": "Poland, Polish Ekstraklasa",
+    "cell": "2-2",
+    "lay": 15,
+    "stake": 3,
+    "created": "2026-10-30T16:36:10Z"
+  },
+  {
+    "id": "2026-10-30_fc-volendam-de-graafschap_2-2",
+    "date": "2026-10-30",
+    "ko": "20:00",
+    "match": "FC Volendam v De Graafschap",
+    "comp": "Netherlands, Dutch Eerste Divisie",
+    "cell": "2-2",
+    "lay": 13.5,
+    "stake": 3,
+    "created": "2026-10-30T16:36:10Z"
+  },
+  {
+    "id": "2026-10-30_lyngby-randers_2-2",
+    "date": "2026-10-30",
+    "ko": "19:00",
+    "match": "Lyngby v Randers",
+    "comp": "Denmark, Danish Superliga",
+    "cell": "2-2",
+    "lay": 14,
+    "stake": 3,
+    "created": "2026-10-30T16:36:10Z"
+  },
+  {
+    "id": "2026-10-30_metz-pau_0-1",
+    "date": "2026-10-30",
+    "ko": "20:00",
+    "match": "Metz v Pau",
+    "comp": "France, French Ligue 2",
+    "cell": "0-1",
+    "lay": 15.5,
+    "stake": 3,
+    "created": "2026-10-30T16:36:10Z"
+  },
+  {
+    "id": "2026-10-30_metz-pau_1-0",
+    "date": "2026-10-30",
+    "ko": "20:00",
+    "match": "Metz v Pau",
+    "comp": "France, French Ligue 2",
+    "cell": "1-0",
+    "lay": 9.8,
+    "stake": 3,
+    "created": "2026-10-30T16:36:10Z"
+  },
+  {
+    "id": "2026-10-30_nantes-clermont_1-0",
+    "date": "2026-10-30",
+    "ko": "20:00",
+    "match": "Nantes v Clermont",
+    "comp": "France, French Ligue 2",
+    "cell": "1-0",
+    "lay": 7.4,
+    "stake": 3,
+    "created": "2026-10-30T16:36:10Z"
+  },
+  {
+    "id": "2026-10-30_nantes-clermont_2-1",
+    "date": "2026-10-30",
+    "ko": "20:00",
+    "match": "Nantes v Clermont",
+    "comp": "France, French Ligue 2",
+    "cell": "2-1",
+    "lay": 10,
+    "stake": 3,
+    "created": "2026-10-30T16:36:10Z"
   }
 ]
