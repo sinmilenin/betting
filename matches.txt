@@ -1,6 +1,2 @@
-# Scan 30.10 19:41 run 2 (Ljubljana)
-Elversberg v Mainz | n=20 | xg=10
-Newport County v Chesterfield | n=20 | xg=10
-Sligo Rovers v Derry City | n=20 | xg=10
-Zulte Waregem v Club Brugge | n=20 | xg=10
-Deportivo Pereira v id:1133 | n=20 | xg=10
+# Scan 30.10 19:41 run 3 (Ljubljana)
+Birmingham City U21 v Swansea City U21 | n=20 | xg=10
