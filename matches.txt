@@ -1,5 +1,2 @@
-# Scan + top-20 30.10 07:41, run 4 (team-name fixes)
-Deportivo Pereira v id:1133 | n=20 | xg=10
-Abha v Ittihad | n=20 | xg=10
-Karmiotissa v Olympiakos | n=20 | xg=10
-GC Mascara v Hussein Dey | n=20 | xg=10
+# Scan + top-20 30.10 07:41, run 5 (Al-Ittihad id)
+Abha v id:2938 | n=20 | xg=10
