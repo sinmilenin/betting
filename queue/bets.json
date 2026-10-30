@@ -339,5 +339,16 @@
     "lay": 20,
     "stake": 3,
     "created": "2026-10-30T19:32:00Z"
+  },
+  {
+    "id": "2026-10-31_sarmiento-de-junin-rosario-central_0-1",
+    "date": "2026-10-31",
+    "ko": "01:15",
+    "match": "Sarmiento de Junin v Rosario Central",
+    "comp": "Argentina, Argentinian Primera Division",
+    "cell": "0-1",
+    "lay": 9,
+    "stake": 3,
+    "created": "2026-10-30T21:03:27+01:00"
   }
 ]
