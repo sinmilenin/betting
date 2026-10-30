@@ -1,6 +1,8 @@
-RUN 2026-10-30 18:08 local | 4 match(es)
-Rapperswil v Stade Nyonnais -> out/Rapperswil_v_Stade_Nyonnais.txt
-id:3492 v Olimpia Grudziadz -> out/id_3492_v_Olimpia_Grudziadz.txt
-Waalwijk v id:419 -> out/Waalwijk_v_id_419.txt
-id:79 v Lens -> out/id_79_v_Lens.txt
-Requests used: API-Football 102, Matchbook 0
+RUN 2026-10-30 18:44 local | 4 match(es)
+Roda v Jong AZ -> out/Roda_v_Jong_AZ.txt
+Birmingham U21 v Swansea U21 -> out/Birmingham_U21_v_Swansea_U21.txt
+    !! Birmingham U21: No team found for "Birmingham U21".
+    !! Swansea U21: No team found for "Swansea U21".
+Rodez v Dunkerque -> out/Rodez_v_Dunkerque.txt
+Grenoble v Dijon -> out/Grenoble_v_Dijon.txt
+Requests used: API-Football 78, Matchbook 0
