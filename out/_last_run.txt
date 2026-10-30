@@ -1,4 +1,3 @@
-RUN 2026-10-30 17:17 local | 1 match(es)
-Patrick v Bohemians -> out/Patrick_v_Bohemians.txt
-    !! Patrick: Ambiguous team name "Patrick".
-Requests used: API-Football 15, Matchbook 0
+RUN 2026-10-30 17:20 local | 1 match(es)
+id:3843 v Bohemians -> out/id_3843_v_Bohemians.txt
+Requests used: API-Football 25, Matchbook 0
