@@ -1,38 +1,10 @@
-RUN 2026-10-30 06:42 local | 20 match(es)
-Brisbane Roar v Auckland FC -> out/Brisbane_Roar_v_Auckland_FC.txt
-Le Havre v Paris Saint Germain -> out/Le_Havre_v_Paris_Saint_Germain.txt
-Villarreal v Espanyol -> out/Villarreal_v_Espanyol.txt
-Elversberg v Mainz -> out/Elversberg_v_Mainz.txt
-    !! Elversberg: Ambiguous team name "Elversberg".
-    !! Mainz: Ambiguous team name "Mainz".
-Lille v Lens -> out/Lille_v_Lens.txt
-Konyaspor v Galatasaray -> out/Konyaspor_v_Galatasaray.txt
-Nice v Rennes -> out/Nice_v_Rennes.txt
-Abha v Al-Ittihad -> out/Abha_v_Al_Ittihad.txt
-    !! Al-Ittihad: API-Football error: {"search": "The Search field may only contain alpha-numeric characters and spaces."}
-Zulte Waregem v Club Brugge -> out/Zulte_Waregem_v_Club_Brugge.txt
-    !! Club Brugge: Ambiguous team name "Club Brugge".
-Sheffield Utd v Wrexham -> out/Sheffield_Utd_v_Wrexham.txt
-Casa Pia v Sporting CP -> out/Casa_Pia_v_Sporting_CP.txt
-Bodo/Glimt v Viking -> out/Bodo_Glimt_v_Viking.txt
-    !! Bodo/Glimt: API-Football error: {"search": "The Search field may only contain alpha-numeric characters and spaces."}
-Energie Cottbus v Bochum -> out/Energie_Cottbus_v_Bochum.txt
-    !! Bochum: Ambiguous team name "Bochum".
-Deportivo Pereira v Jaguares de Cordoba -> out/Deportivo_Pereira_v_Jaguares_de_Cordoba.txt
-    !! Jaguares de Cordoba: No team found for "Jaguares de Cordoba".
-Arminia Bielefeld v Eintracht Braunschweig -> out/Arminia_Bielefeld_v_Eintracht_Braunschwe.txt
-Karmiotissa v Olympiakos Nicosia -> out/Karmiotissa_v_Olympiakos_Nicosia.txt
-    !! Olympiakos Nicosia: API-Football error: HTTP 429 from API-Football
-Konyaspor U19 v Galatasaray U19 -> out/Konyaspor_U19_v_Galatasaray_U19.txt
-    !! Konyaspor U19: API-Football error: HTTP 429 from API-Football
-    !! Galatasaray U19: API-Football error: HTTP 429 from API-Football
-GC Mascara v NA Hussein Dey -> out/GC_Mascara_v_NA_Hussein_Dey.txt
-    !! GC Mascara: API-Football error: HTTP 429 from API-Football
-    !! NA Hussein Dey: API-Football error: HTTP 429 from API-Football
-Newport County v Chesterfield -> out/Newport_County_v_Chesterfield.txt
-    !! Newport County: API-Football error: HTTP 429 from API-Football
-    !! Chesterfield: API-Football error: HTTP 429 from API-Football
-Sligo Rovers v Derry City -> out/Sligo_Rovers_v_Derry_City.txt
-    !! Sligo Rovers: API-Football error: HTTP 429 from API-Football
-    !! Derry City: API-Football error: HTTP 429 from API-Football
-Requests used: API-Football 308, Matchbook 0
+RUN 2026-10-30 06:44 local | 6 match(es)
+SV Elversberg v FSV Mainz 05 -> out/SV_Elversberg_v_FSV_Mainz_05.txt
+Energie Cottbus v VfL Bochum -> out/Energie_Cottbus_v_VfL_Bochum.txt
+Zulte Waregem v Club Brugge KV -> out/Zulte_Waregem_v_Club_Brugge_KV.txt
+Deportivo Pereira v Jaguares -> out/Deportivo_Pereira_v_Jaguares.txt
+Abha v Al Ittihad -> out/Abha_v_Al_Ittihad.txt
+    !! Al Ittihad: Ambiguous team name "Al Ittihad".
+Bodo Glimt v Viking -> out/Bodo_Glimt_v_Viking.txt
+    !! Bodo Glimt: No team found for "Bodo Glimt".
+Requests used: API-Football 131, Matchbook 0

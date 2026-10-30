@@ -1,6 +1,6 @@
-MATCH Zulte Waregem v Club Brugge | fetched 2026-10-30 06:42 local
+MATCH Zulte Waregem v Club Brugge KV | fetched 2026-10-30 06:44 local
 
-FORM DATA Zulte Waregem v Club Brugge | source API-Football | 2026-10-30 06:43 UTC
+FORM DATA Zulte Waregem v Club Brugge KV | source API-Football | 2026-10-30 06:45 UTC
 H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
 
 === Zulte Waregem (id 600): last 20 finished games ===
@@ -28,20 +28,30 @@ Listed home: 10 games, scored 21 (2.10), conceded 12 (1.20), blanks 2, clean she
 Listed away: 10 games, scored 18 (1.80), conceded 13 (1.30), blanks 3, clean sheets 4
 All: 20 games, scored 39 (1.95), conceded 25 (1.25), blanks 5, clean sheets 6
 
-"Club Brugge" matches several teams. Use id:<number> instead of the name:
-  id:569    Club Brugge KV (Belgium)
-  id:6344   Club Brugge W (Belgium)
-  id:7893   Club Brugge U19 (Belgium)
-  id:10845  Club Brugge U21 (Belgium)
-  id:14130  Club Brugge II (Belgium)
-(retrying Club Brugge using the opponent's country, Belgium)
-"Club Brugge" matches several teams. Use id:<number> instead of the name:
-  id:569    Club Brugge KV (Belgium)
-  id:6344   Club Brugge W (Belgium)
-  id:7893   Club Brugge U19 (Belgium)
-  id:10845  Club Brugge U21 (Belgium)
-  id:14130  Club Brugge II (Belgium)
-!! Club Brugge: Ambiguous team name "Club Brugge".
+=== Club Brugge KV (id 569): last 20 finished games ===
+2026-10-25 H 3-2 v St. Truiden | Jupiler Pro League | Brugge | xG 2.67-1.81
+2026-10-21 H 3-0 v Lens | UEFA Champions League | Bruges | xG 2.68-2.10
+2026-10-17 H 1-0 v Lokeren-Temse | Cup | ?
+2026-10-13 A 4-3 v Inter | UEFA Champions League | Milan | xG 4.29-4.33
+2026-10-10 A 4-1 v RAAL La Louvière | Jupiler Pro League | La Louviere | xG 5.22-1.04
+2026-09-20 H 3-0 v Genk | Jupiler Pro League | Brugge | xG 2.12-1.96
+2026-09-13 H 3-1 v Antwerp | Jupiler Pro League | Brugge | xG 2.94-2.09
+2026-09-08 H 2-3 v Aston Villa | UEFA Champions League | Bruges | xG 1.53-3.22
+2026-09-04 A 1-0 v Lommel United | Jupiler Pro League | Lommel | xG 0.80-0.65
+2026-08-30 A 1-2 v Gent | Jupiler Pro League | Gent | xG 0.65-1.38
+2026-08-23 H 1-0 v Cercle Brugge | Jupiler Pro League | Brugge
+2026-08-15 A 3-0 v OH Leuven | Jupiler Pro League | Heverlee
+2026-08-07 H 3-0 v Kortrijk | Jupiler Pro League | Brugge
+2026-07-31 H 1-1 v Union St. Gilloise | Super Cup | ? [PEN, 90-min score shown]
+2026-07-25 A 1-2 v Rennes | Friendlies Clubs | ?
+2026-07-17 H 2-3 v Heerenveen | Friendlies Clubs | ?
+2026-07-11 A 1-3 v Feyenoord | Friendlies Clubs | Rotterdam
+2026-07-04 H 4-2 v Kortrijk | Friendlies Clubs | ?
+2026-05-24 H 5-0 v Gent | Jupiler Pro League | Brugge
+2026-05-21 A 2-2 v KV Mechelen | Jupiler Pro League | Mechelen
+Listed home: 12 games, scored 31 (2.58), conceded 12 (1.00), blanks 0, clean sheets 6
+Listed away: 8 games, scored 17 (2.12), conceded 13 (1.62), blanks 0, clean sheets 2
+All: 20 games, scored 48 (2.40), conceded 25 (1.25), blanks 0, clean sheets 8
 
 TABLE FOR Zulte Waregem
 LEAGUE TABLE Jupiler Pro League 2026 | 18 teams | 80 games played
@@ -66,7 +76,9 @@ League averages per game: home 1.86, away 1.32, total 3.19
 17  Kortrijk                 3 |  4   2-8       |  4   0-10      |  8   2-18
 18  Cercle Brugge            3 |  4   4-9       |  5   7-12      |  9  11-21
 
-(15 API-Football requests used)
+(Club Brugge KV: same table as Zulte Waregem, shown above)
+
+(25 API-Football requests used)
 
 ----------------------------------------------------------------------
 MATCHBOOK: skipped (switched off for this run)

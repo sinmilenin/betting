@@ -1,6 +1,6 @@
-MATCH Energie Cottbus v Bochum | fetched 2026-10-30 06:42 local
+MATCH Energie Cottbus v VfL Bochum | fetched 2026-10-30 06:44 local
 
-FORM DATA Energie Cottbus v Bochum | source API-Football | 2026-10-30 06:43 UTC
+FORM DATA Energie Cottbus v VfL Bochum | source API-Football | 2026-10-30 06:44 UTC
 H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
 
 === Energie Cottbus (id 1320): last 20 finished games ===
@@ -28,18 +28,30 @@ Listed home: 11 games, scored 18 (1.64), conceded 25 (2.27), blanks 2, clean she
 Listed away: 9 games, scored 15 (1.67), conceded 16 (1.78), blanks 1, clean sheets 2
 All: 20 games, scored 33 (1.65), conceded 41 (2.05), blanks 3, clean sheets 2
 
-"Bochum" matches several teams. Use id:<number> instead of the name:
-  id:176    VfL Bochum (Germany)
-  id:10248  Bochum U19 (Germany)
-  id:20473  Bochum W (Germany)
-  id:24430  Bochum II (Germany)
-(retrying Bochum using the opponent's country, Germany)
-"Bochum" matches several teams. Use id:<number> instead of the name:
-  id:176    VfL Bochum (Germany)
-  id:10248  Bochum U19 (Germany)
-  id:20473  Bochum W (Germany)
-  id:24430  Bochum II (Germany)
-!! Bochum: Ambiguous team name "Bochum".
+=== VfL Bochum (id 176): last 20 finished games ===
+2026-10-27 H 2-0 v FSV Mainz 05 | DFB Pokal | Bochum | xG 1.44-0.52
+2026-10-23 H 1-1 v VfL Wolfsburg | 2. Bundesliga | Bochum | xG 1.55-0.76
+2026-10-17 A 0-2 v 1. FC Kaiserslautern | 2. Bundesliga | Kaiserslautern | xG 0.59-2.34
+2026-10-11 H 0-1 v Arminia Bielefeld | 2. Bundesliga | Bochum | xG 0.67-1.69
+2026-10-02 H 4-1 v VfL Osnabrück | Friendlies Clubs | ?
+2026-09-20 A 1-2 v Hannover 96 | 2. Bundesliga | Hannover | xG 1.73-1.77
+2026-09-12 H 1-1 v SpVgg Greuther Fürth | 2. Bundesliga | Bochum | xG 1.53-1.64
+2026-09-05 A 2-1 v Dynamo Dresden | 2. Bundesliga | Dresden | xG 1.40-1.82
+2026-08-28 H 0-1 v VfL Osnabrück | 2. Bundesliga | Bochum | xG 1.37-0.52
+2026-08-23 A 2-1 v SpVgg Greuther Fürth | DFB Pokal | Fürth
+2026-08-14 A 1-0 v Eintracht Braunschweig | 2. Bundesliga | Braunschweig
+2026-08-07 H 0-1 v Hertha BSC | 2. Bundesliga | Bochum
+2026-08-01 H 0-0 v Sheffield Utd | Friendlies Clubs | ?
+2026-07-25 A 0-2 v Werder Bremen | Friendlies Clubs | ?
+2026-07-21 A 2-0 v Swansea | Friendlies Clubs | ?
+2026-07-15 A 1-1 v Ajax | Friendlies Clubs | Ouder-Amstel
+2026-07-11 H 1-0 v Antwerp | Friendlies Clubs | ?
+2026-07-04 A 3-2 v Rot-weiss Oberhausen | Friendlies Clubs | ?
+2026-05-17 A 2-1 v Karlsruher SC | 2. Bundesliga | Karlsruhe
+2026-05-09 H 1-1 v Hannover 96 | 2. Bundesliga | Bochum
+Listed home: 10 games, scored 10 (1.00), conceded 7 (0.70), blanks 4, clean sheets 3
+Listed away: 10 games, scored 14 (1.40), conceded 12 (1.20), blanks 2, clean sheets 2
+All: 20 games, scored 24 (1.20), conceded 19 (0.95), blanks 6, clean sheets 5
 
 TABLE FOR Energie Cottbus
 LEAGUE TABLE 2. Bundesliga 2026 | 18 teams | 81 games played
@@ -64,7 +76,9 @@ League averages per game: home 1.78, away 1.25, total 3.02
 17  Karlsruher SC            8 |  5   8-10      |  4   3-10      |  9  11-20
 18  SV Darmstadt 98          8 |  5   7-5       |  4   1-13      |  9   8-18
 
-(15 API-Football requests used)
+(VfL Bochum: same table as Energie Cottbus, shown above)
+
+(25 API-Football requests used)
 
 ----------------------------------------------------------------------
 MATCHBOOK: skipped (switched off for this run)

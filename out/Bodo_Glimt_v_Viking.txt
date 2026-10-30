@@ -1,6 +1,6 @@
-MATCH Bodo/Glimt v Viking | fetched 2026-10-30 06:42 local
+MATCH Bodo Glimt v Viking | fetched 2026-10-30 06:44 local
 
-FORM DATA Bodo/Glimt v Viking | source API-Football | 2026-10-30 06:43 UTC
+FORM DATA Bodo Glimt v Viking | source API-Football | 2026-10-30 06:45 UTC
 H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
 
 === Viking (id 759): last 20 finished games ===
@@ -28,7 +28,7 @@ Listed home: 9 games, scored 29 (3.22), conceded 11 (1.22), blanks 0, clean shee
 Listed away: 11 games, scored 20 (1.82), conceded 14 (1.27), blanks 0, clean sheets 3
 All: 20 games, scored 49 (2.45), conceded 25 (1.25), blanks 0, clean sheets 4
 
-!! Bodo/Glimt: API-Football error: {"search": "The Search field may only contain alpha-numeric characters and spaces."}
+!! Bodo Glimt: No team found for "Bodo Glimt".
 
 TABLE FOR Viking
 LEAGUE TABLE Eliteserien 2026 | 16 teams | 192 games played

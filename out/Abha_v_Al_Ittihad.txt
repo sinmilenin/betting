@@ -1,6 +1,6 @@
-MATCH Abha v Al-Ittihad | fetched 2026-10-30 06:42 local
+MATCH Abha v Al Ittihad | fetched 2026-10-30 06:44 local
 
-FORM DATA Abha v Al-Ittihad | source API-Football | 2026-10-30 06:43 UTC
+FORM DATA Abha v Al Ittihad | source API-Football | 2026-10-30 06:45 UTC
 H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
 
 === Abha (id 2951): last 20 finished games ===
@@ -28,7 +28,20 @@ Listed home: 7 games, scored 6 (0.86), conceded 7 (1.00), blanks 3, clean sheets
 Listed away: 13 games, scored 10 (0.77), conceded 24 (1.85), blanks 6, clean sheets 3
 All: 20 games, scored 16 (0.80), conceded 31 (1.55), blanks 9, clean sheets 4
 
-!! Al-Ittihad: API-Football error: {"search": "The Search field may only contain alpha-numeric characters and spaces."}
+"Al Ittihad" matches several teams. Use id:<number> instead of the name:
+  id:1572   Al Ittihad (Egypt)
+  id:5581   Al Ittihad (Bahrain)
+  id:8019   Al Ittihad (Syria)
+  id:23354  Al Ittihad Ibb (Yemen)
+  id:27714  Al Ittihad W (Saudi-Arabia)
+(retrying Al Ittihad using the opponent's country, Saudi-Arabia)
+"Al Ittihad" matches several teams. Use id:<number> instead of the name:
+  id:1572   Al Ittihad (Egypt)
+  id:5581   Al Ittihad (Bahrain)
+  id:8019   Al Ittihad (Syria)
+  id:23354  Al Ittihad Ibb (Yemen)
+  id:27714  Al Ittihad W (Saudi-Arabia)
+!! Al Ittihad: Ambiguous team name "Al Ittihad".
 
 TABLE FOR Abha
 LEAGUE TABLE Pro League 2026 | 18 teams | 98 games played
@@ -53,7 +66,7 @@ League averages per game: home 1.48, away 1.52, total 3.00
 17  Al Taawon                4 |  5   0-7       |  6   5-12      | 11   5-19
 18  Abha                     2 |  4   2-5       |  6   4-13      | 10   6-18
 
-(14 API-Football requests used)
+(15 API-Football requests used)
 
 ----------------------------------------------------------------------
 MATCHBOOK: skipped (switched off for this run)
