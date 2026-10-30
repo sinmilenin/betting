@@ -1,3 +1,2 @@
-# Night scan 30.10 20:56 run 2 (Ljubljana) - team name corrections
-id:474 v id:437 | n=20 | xg=10
-Puebla v U.N.A.M. - Pumas | n=20 | xg=10
+# Night scan 30.10 20:56 run 3 (Ljubljana) - team name correction
+Puebla v UNAM | n=20 | xg=10
