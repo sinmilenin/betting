@@ -1,3 +1,9 @@
-RUN 2026-10-30 17:20 local | 1 match(es)
-id:3843 v Bohemians -> out/id_3843_v_Bohemians.txt
-Requests used: API-Football 25, Matchbook 0
+RUN 2026-10-30 17:59 local | 4 match(es)
+Rapperswil-Jona v Stade Nyonnais -> out/Rapperswil_Jona_v_Stade_Nyonnais.txt
+    !! Rapperswil-Jona: API-Football error: {"search": "The Search field may only contain alpha-numeric characters and spaces."}
+Sandecja Nowy Sacz v Olimpia Grudziadz -> out/Sandecja_Nowy_Sacz_v_Olimpia_Grudziadz.txt
+    !! Sandecja Nowy Sacz: Ambiguous team name "Sandecja Nowy Sacz".
+RKC Waalwijk v Almere City -> out/RKC_Waalwijk_v_Almere_City.txt
+    !! Almere City: Ambiguous team name "Almere City".
+Stenhousemuir v Livingston -> out/Stenhousemuir_v_Livingston.txt
+Requests used: API-Football 61, Matchbook 0

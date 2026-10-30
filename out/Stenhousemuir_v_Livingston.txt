@@ -1,0 +1,76 @@
+MATCH Stenhousemuir v Livingston | fetched 2026-10-30 17:59 local
+
+FORM DATA Stenhousemuir v Livingston | source API-Football | 2026-10-30 17:59 UTC
+H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
+
+=== Stenhousemuir (id 6784): last 20 finished games ===
+2026-10-27 H 0-1 v Dunfermline | Championship | Stenhousemuir
+2026-10-24 A 0-3 v Partick | Championship | Glasgow
+2026-10-17 H 1-1 v Raith Rovers | Championship | Stenhousemuir
+2026-10-10 A 0-2 v Inverness CT | Championship | Inverness
+2026-09-25 A 1-0 v Ayr Utd | Championship | Ayr
+2026-09-19 H 1-0 v Arbroath | Championship | Stenhousemuir
+2026-09-15 H 1-0 v Partick | Championship | Stenhousemuir
+2026-09-11 H 0-3 v Heart Of Midlothian | League Cup | Stenhousemuir
+2026-09-04 A 1-0 v Livingston | Championship | Livingston
+2026-08-29 H 3-1 v Inverness CT | Championship | Stenhousemuir
+2026-08-22 A 2-0 v Queen's Park | Championship | Glasgow
+2026-08-16 H 0-0 v Motherwell | League Cup | Stenhousemuir [AET, 90-min score shown]
+2026-08-08 H 2-0 v Morton | Championship | Stenhousemuir
+2026-08-01 A 1-1 v Raith Rovers | Championship | Kirkcaldy
+2026-07-25 H 0-0 v Livingston | League Cup | Stenhousemuir [PEN, 90-min score shown]
+2026-07-21 A 2-2 v Partick | League Cup | Glasgow [PEN, 90-min score shown]
+2026-07-18 A 2-1 v Brechin | League Cup | Brechin
+2026-07-11 H 2-0 v Forfar Athletic | League Cup | Stenhousemuir
+2026-05-16 H 0-1 v Alloa Athletic | Championship | Stenhousemuir
+2026-05-13 A 3-1 v Alloa Athletic | Championship | Alloa
+Listed home: 11 games, scored 10 (0.91), conceded 7 (0.64), blanks 5, clean sheets 6
+Listed away: 9 games, scored 12 (1.33), conceded 10 (1.11), blanks 2, clean sheets 3
+All: 20 games, scored 22 (1.10), conceded 17 (0.85), blanks 7, clean sheets 9
+
+=== Livingston (id 255): last 20 finished games ===
+2026-10-24 H 1-0 v Arbroath | Championship | Livingston
+2026-10-17 A 0-0 v Dunfermline | Championship | Dunfermline
+2026-10-10 H 1-2 v Partick | Championship | Livingston
+2026-10-03 H 1-2 v Ayr Utd | Championship | Livingston
+2026-09-25 A 2-0 v Raith Rovers | Championship | Kirkcaldy
+2026-09-19 H 2-2 v Inverness CT | Championship | Livingston
+2026-09-11 A 4-1 v Morton | Championship | Greenock
+2026-09-04 H 0-1 v Stenhousemuir | Championship | Livingston
+2026-08-29 A 0-1 v Arbroath | Championship | Arbroath
+2026-08-22 H 2-0 v Dunfermline | Championship | Livingston
+2026-08-07 A 0-2 v Partick | Championship | Glasgow
+2026-08-01 H 2-0 v Queen's Park | Championship | Livingston
+2026-07-25 A 0-0 v Stenhousemuir | League Cup | Stenhousemuir [PEN, 90-min score shown]
+2026-07-21 H 8-0 v Forfar Athletic | League Cup | Livingston
+2026-07-18 H 1-1 v Partick | League Cup | Livingston [PEN, 90-min score shown]
+2026-07-14 A 2-0 v Brechin | League Cup | Brechin
+2026-07-10 H 2-1 v Heart Of Midlothian | Friendlies Clubs | ?
+2026-06-30 A 3-0 v Alloa Athletic | Friendlies Clubs | ?
+2026-06-27 H 2-0 v Dundee | Friendlies Clubs | ?
+2026-05-17 H 1-4 v Kilmarnock | Premiership | Livingston
+Listed home: 12 games, scored 23 (1.92), conceded 13 (1.08), blanks 1, clean sheets 5
+Listed away: 8 games, scored 11 (1.38), conceded 4 (0.50), blanks 4, clean sheets 5
+All: 20 games, scored 34 (1.70), conceded 17 (0.85), blanks 5, clean sheets 10
+
+TABLE FOR Stenhousemuir
+LEAGUE TABLE Championship 2026 | 10 teams | 59 games played
+League averages per game: home 1.14, away 0.85, total 1.98
+#   team                   Pts | home P GF-GA  | away P GF-GA  | all P GF-GA
+1   Partick                 25 |  6   9-0       |  6   6-4       | 12  15-4
+2   Stenhousemuir           23 |  6   8-3       |  6   5-6       | 12  13-9
+3   Raith Rovers            21 |  6   9-5       |  6   7-4       | 12  16-9
+4   Dunfermline             21 |  5   5-2       |  7   5-4       | 12  10-6
+5   Inverness CT            19 |  6   7-3       |  6   9-8       | 12  16-11
+6   Livingston              17 |  7   9-7       |  5   6-4       | 12  15-11
+7   Ayr Utd                 12 |  6   5-7       |  5   5-5       | 11  10-12
+8   Arbroath                11 |  5   5-4       |  7   2-14      | 12   7-18
+9   Morton                   7 |  6   5-10      |  5   4-8       | 11   9-18
+10  Queen's Park             7 |  6   5-9       |  6   1-10      | 12   6-19
+
+(Livingston: same table as Stenhousemuir, shown above)
+
+(25 API-Football requests used)
+
+----------------------------------------------------------------------
+MATCHBOOK: skipped (switched off for this run)
