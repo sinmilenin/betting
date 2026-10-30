@@ -1,3 +1,4 @@
-RUN 2026-10-30 18:47 local | 1 match(es)
-Birmingham City U21 v Swansea City U21 -> out/Birmingham_City_U21_v_Swansea_City_U21.txt
-Requests used: API-Football 26, Matchbook 0
+RUN 2026-10-30 18:48 local | 2 match(es)
+SV Elversberg v FSV Mainz 05 -> out/SV_Elversberg_v_FSV_Mainz_05.txt
+Zulte Waregem v Club Brugge KV -> out/Zulte_Waregem_v_Club_Brugge_KV.txt
+Requests used: API-Football 51, Matchbook 0
