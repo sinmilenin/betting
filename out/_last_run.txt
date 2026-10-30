@@ -1,4 +1,8 @@
-RUN 2026-10-30 19:30 local | 1 match(es)
-Estudiantes de Rio Cuarto v Gimnasia LP -> out/Estudiantes_de_Rio_Cuarto_v_Gimnasia_LP.txt
-    !! Gimnasia LP: No team found for "Gimnasia LP".
-Requests used: API-Football 14, Matchbook 0
+RUN 2026-10-30 19:58 local | 3 match(es)
+Corinthians v Mirassol -> out/Corinthians_v_Mirassol.txt
+Sarmiento v Rosario Central -> out/Sarmiento_v_Rosario_Central.txt
+    !! Sarmiento: Ambiguous team name "Sarmiento".
+    !! Rosario Central: Ambiguous team name "Rosario Central".
+Puebla v Pumas UNAM -> out/Puebla_v_Pumas_UNAM.txt
+    !! Pumas UNAM: Ambiguous team name "Pumas UNAM".
+Requests used: API-Football 42, Matchbook 0

@@ -1,0 +1,25 @@
+MATCH Sarmiento v Rosario Central | fetched 2026-10-30 19:58 local
+
+FORM DATA Sarmiento v Rosario Central | source API-Football | 2026-10-30 19:58 UTC
+H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
+
+"Sarmiento" matches several teams. Use id:<number> instead of the name:
+  id:474    Sarmiento Junin (Argentina)
+  id:1953   Sarmiento Resistencia (Argentina)
+  id:3958   Sarmiento Leones (Argentina)
+  id:18698  Sarmiento Res. (Argentina)
+  id:23255  Sarmiento de La Banda (Argentina)
+"Rosario Central" matches several teams. Use id:<number> instead of the name:
+  id:437    Rosario Central (Argentina)
+  id:15716  Rosario Central (Bolivia)
+  id:18696  Rosario Central Res. (Argentina)
+  id:20771  Rosário Central U20 (Brazil)
+  id:28605  Rosário Central (Brazil)
+!! Sarmiento: Ambiguous team name "Sarmiento".
+
+!! Rosario Central: Ambiguous team name "Rosario Central".
+
+(2 API-Football requests used)
+
+----------------------------------------------------------------------
+MATCHBOOK: skipped (switched off for this run)
