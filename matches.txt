@@ -1,8 +1,5 @@
-# Scan 30.10 18:57 run 2 (Ljubljana)
-Rapperswil Jona v Stade Nyonnais | n=20 | xg=10
-Sandecja v Olimpia Grudziadz | n=20 | xg=10
-Waalwijk v Almere | n=20 | xg=10
-Sheffield Utd v Wrexham | n=20 | xg=10
-Villarreal v Espanyol | n=20 | xg=10
-Lille v Lens | n=20 | xg=10
-Casa Pia v Sporting CP | n=20 | xg=10
+# Scan 30.10 18:57 run 3 (Ljubljana)
+Rapperswil v Stade Nyonnais | n=20 | xg=10
+id:3492 v Olimpia Grudziadz | n=20 | xg=10
+Waalwijk v id:419 | n=20 | xg=10
+id:79 v Lens | n=20 | xg=10
