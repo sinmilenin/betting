@@ -1,3 +1,17 @@
-RUN 2026-10-30 14:59 local | 1 match(es)
-Shakhtar Donetsk v id:3630 -> out/Shakhtar_Donetsk_v_id_3630.txt
-Requests used: API-Football 26, Matchbook 0
+RUN 2026-10-30 16:30 local | 7 match(es)
+Cracovia v Motor Lublin -> out/Cracovia_v_Motor_Lublin.txt
+    !! Cracovia: Ambiguous team name "Cracovia".
+Karvina v Slavia Praha B -> out/Karvina_v_Slavia_Praha_B.txt
+    !! Karvina: Ambiguous team name "Karvina".
+    !! Slavia Praha B: No team found for "Slavia Praha B".
+Al Shabab v Al Ahli -> out/Al_Shabab_v_Al_Ahli.txt
+    !! Al Shabab: Ambiguous team name "Al Shabab".
+    !! Al Ahli: Ambiguous team name "Al Ahli".
+Lyngby v Randers -> out/Lyngby_v_Randers.txt
+    !! Randers: Ambiguous team name "Randers".
+Metz v Pau -> out/Metz_v_Pau.txt
+Nantes v Clermont -> out/Nantes_v_Clermont.txt
+    !! Clermont: Ambiguous team name "Clermont".
+Volendam v De Graafschap -> out/Volendam_v_De_Graafschap.txt
+    !! Volendam: Ambiguous team name "Volendam".
+Requests used: API-Football 90, Matchbook 0
