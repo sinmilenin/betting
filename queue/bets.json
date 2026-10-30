@@ -1,16 +1,5 @@
 [
   {
-    "id": "2026-10-30_brisbane-roar-auckland-fc_0-1",
-    "date": "2026-10-30",
-    "ko": "10:00",
-    "match": "Brisbane Roar v Auckland FC",
-    "comp": "Australia, Australian A-League Men",
-    "cell": "0-1",
-    "lay": 12.5,
-    "stake": 3,
-    "created": "2026-10-30T07:55:28+01:00"
-  },
-  {
     "id": "2026-10-30_konyaspor-u19-galatasaray-u19_0-1",
     "date": "2026-10-30",
     "ko": "13:00",
@@ -130,5 +119,27 @@
     "lay": 10,
     "stake": 3,
     "created": "2026-10-30T14:20:44Z"
+  },
+  {
+    "id": "2026-10-30_shakhtar-obolon-brovar-kiev_2-1",
+    "date": "2026-10-30",
+    "ko": "17:00",
+    "match": "Shakhtar v Obolon-Brovar Kiev",
+    "comp": "Ukraine, Ukrainian Premier League",
+    "cell": "2-1",
+    "lay": 15.5,
+    "stake": 3,
+    "created": "2026-10-30T15:01:00Z"
+  },
+  {
+    "id": "2026-10-30_shakhtar-obolon-brovar-kiev_3-1",
+    "date": "2026-10-30",
+    "ko": "17:00",
+    "match": "Shakhtar v Obolon-Brovar Kiev",
+    "comp": "Ukraine, Ukrainian Premier League",
+    "cell": "3-1",
+    "lay": 19,
+    "stake": 3,
+    "created": "2026-10-30T15:01:00Z"
   }
 ]
