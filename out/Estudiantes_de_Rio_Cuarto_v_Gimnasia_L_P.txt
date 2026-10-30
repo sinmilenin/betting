@@ -1,59 +1,36 @@
-MATCH Huracan v Tigre | fetched 2026-10-30 19:28 local
+MATCH Estudiantes de Rio Cuarto v Gimnasia L.P. | fetched 2026-10-30 19:29 local
 
-FORM DATA Huracan v Tigre | source API-Football | 2026-10-30 19:28 UTC
+FORM DATA Estudiantes de Rio Cuarto v Gimnasia L.P. | source API-Football | 2026-10-30 19:29 UTC
 H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
 
-=== Huracan (id 445): last 20 finished games ===
-2026-10-25 A 0-2 v Rosario Central | Liga Profesional Argentina | Rosario | xG 0.52-2.15
-2026-10-15 H 1-2 v Gimnasia L.P. | Liga Profesional Argentina | Buenos Aires | xG 1.90-1.33
-2026-10-10 A 0-2 v Barracas Central | Liga Profesional Argentina | Barracas | xG 0.35-1.29
-2026-10-04 H 1-0 v Aldosivi | Liga Profesional Argentina | Buenos Aires | xG 1.51-0.81
-2026-09-19 A 2-1 v River Plate | Liga Profesional Argentina | Buenos Aires | xG 0.23-1.62
-2026-09-14 H 2-1 v Racing Club | Liga Profesional Argentina | Buenos Aires
-2026-09-04 A 1-1 v Belgrano Cordoba | Liga Profesional Argentina | Cordoba | xG 0.96-3.28
-2026-08-29 H 1-1 v Estudiantes de Rio Cuarto | Liga Profesional Argentina | Buenos Aires | xG 1.58-0.95
-2026-08-23 H 0-0 v Deportivo Riestra | Liga Profesional Argentina | Buenos Aires | xG 0.49-0.96
-2026-08-16 A 0-2 v Sarmiento Junin | Liga Profesional Argentina | Junin | xG 0.19-1.56
-2026-08-09 A 2-0 v San Lorenzo | Liga Profesional Argentina | Buenos Aires
-2026-08-04 H 0-0 v Atletico Tucuman | Liga Profesional Argentina | Buenos Aires
-2026-07-30 A 1-2 v Independ. Rivadavia | Liga Profesional Argentina | Mendoza
-2026-07-25 H 1-0 v Banfield | Liga Profesional Argentina | Buenos Aires
-2026-06-03 A 0-1 v Barracas Central | Copa Argentina | Avellaneda
-2026-05-13 A 0-0 v Argentinos JRS | Liga Profesional Argentina | Buenos Aires [AET, 90-min score shown]
-2026-05-09 A 1-1 v Boca Juniors | Liga Profesional Argentina | Buenos Aires [AET, 90-min score shown]
-2026-05-03 A 0-0 v Racing Club | Liga Profesional Argentina | Buenos Aires
-2026-04-28 H 1-2 v Argentinos JRS | Liga Profesional Argentina | Buenos Aires
-2026-04-21 A 1-1 v Tigre | Liga Profesional Argentina | Buenos Aires
-Listed home: 8 games, scored 7 (0.88), conceded 6 (0.75), blanks 2, clean sheets 4
-Listed away: 12 games, scored 8 (0.67), conceded 13 (1.08), blanks 6, clean sheets 3
-All: 20 games, scored 15 (0.75), conceded 19 (0.95), blanks 8, clean sheets 7
+=== Estudiantes de Rio Cuarto (id 2424): last 20 finished games ===
+2026-10-26 A 1-2 v Barracas Central | Liga Profesional Argentina | Barracas | xG 0.72-1.26
+2026-10-18 H 2-1 v Aldosivi | Liga Profesional Argentina | Cordoba | xG 2.12-1.23
+2026-10-11 A 0-1 v River Plate | Liga Profesional Argentina | Buenos Aires | xG 0.04-1.78
+2026-10-05 H 1-2 v Racing Club | Liga Profesional Argentina | Cordoba
+2026-09-20 A 1-2 v Belgrano Cordoba | Liga Profesional Argentina | Cordoba | xG 1.17-1.01
+2026-09-15 A 1-2 v Instituto Cordoba | Liga Profesional Argentina | Cordoba | xG 0.94-0.67
+2026-09-04 H 0-2 v Sarmiento Junin | Liga Profesional Argentina | Rio Cuarto | xG 0.89-1.36
+2026-08-29 A 1-1 v Huracan | Liga Profesional Argentina | Buenos Aires | xG 0.95-1.58
+2026-08-21 H 0-0 v San Lorenzo | Liga Profesional Argentina | Rio Cuarto | xG 0.46-0.51
+2026-08-17 H 0-1 v Atletico Tucuman | Liga Profesional Argentina | Rio Cuarto | xG 0.31-0.34
+2026-08-08 A 1-2 v Independ. Rivadavia | Liga Profesional Argentina | Mendoza
+2026-08-01 H 0-0 v Banfield | Liga Profesional Argentina | Rio Cuarto
+2026-07-29 A 0-3 v Argentinos JRS | Liga Profesional Argentina | Buenos Aires
+2026-07-25 H 1-0 v Tigre | Liga Profesional Argentina | Rio Cuarto
+2026-05-05 H 0-2 v Instituto Cordoba | Liga Profesional Argentina | Cordoba
+2026-04-24 H 1-2 v Rosario Central | Liga Profesional Argentina | Rio Cuarto
+2026-04-18 A 0-1 v Gimnasia L.P. | Liga Profesional Argentina | La Plata
+2026-04-12 H 1-2 v Barracas Central | Liga Profesional Argentina | Cordoba
+2026-04-07 H 0-0 v San Martin Tucuman | Copa Argentina | ? [PEN, 90-min score shown]
+2026-04-04 A 0-0 v Aldosivi | Liga Profesional Argentina | Mar del Plata
+Listed home: 11 games, scored 6 (0.55), conceded 12 (1.09), blanks 6, clean sheets 4
+Listed away: 9 games, scored 5 (0.56), conceded 14 (1.56), blanks 4, clean sheets 1
+All: 20 games, scored 11 (0.55), conceded 26 (1.30), blanks 10, clean sheets 5
 
-=== Tigre (id 452): last 20 finished games ===
-2026-10-24 H 0-1 v Atletico Tucuman | Liga Profesional Argentina | Buenos Aires | xG 1.34-1.02
-2026-10-17 A 2-2 v Independ. Rivadavia | Liga Profesional Argentina | Mendoza | xG 1.08-1.01
-2026-10-10 H 1-2 v Banfield | Liga Profesional Argentina | Buenos Aires | xG 1.60-0.71
-2026-10-04 A 1-2 v Argentinos JRS | Liga Profesional Argentina | Buenos Aires | xG 1.71-0.66
-2026-09-21 A 2-3 v Velez Sarsfield | Liga Profesional Argentina | Buenos Aires
-2026-09-13 H 0-1 v Rosario Central | Liga Profesional Argentina | Buenos Aires | xG 1.37-2.02
-2026-09-05 A 1-2 v Gimnasia L.P. | Liga Profesional Argentina | La Plata | xG 1.22-2.77
-2026-09-01 H 0-0 v Barracas Central | Liga Profesional Argentina | Buenos Aires | xG 0.27-0.61
-2026-08-24 H 2-1 v Central Cordoba de Santiago | Liga Profesional Argentina | Buenos Aires | xG 2.40-1.45
-2026-08-20 A 1-2 v Atletico Torque | CONMEBOL Sudamericana | Montevideo | xG 0.61-1.43
-2026-08-15 A 0-0 v Aldosivi | Liga Profesional Argentina | Mar del Plata
-2026-08-12 H 0-1 v Atletico Torque | CONMEBOL Sudamericana | Buenos Aires
-2026-08-08 H 1-0 v River Plate | Liga Profesional Argentina | Buenos Aires
-2026-08-06 H 0-0 v Belgrano Cordoba | Liga Profesional Argentina | Buenos Aires
-2026-08-01 A 3-1 v Racing Club | Liga Profesional Argentina | Cordoba
-2026-07-28 H 1-2 v Club Nacional | CONMEBOL Sudamericana | Buenos Aires
-2026-07-25 A 0-1 v Estudiantes de Rio Cuarto | Liga Profesional Argentina | Rio Cuarto
-2026-07-21 A 3-0 v Club Nacional | CONMEBOL Sudamericana | Montevideo
-2026-07-12 A 0-1 v Independ. Rivadavia | Copa Argentina | Cordoba
-2026-05-29 H 2-0 v Alianza Atletico | CONMEBOL Sudamericana | Buenos Aires
-Listed home: 10 games, scored 7 (0.70), conceded 8 (0.80), blanks 5, clean sheets 4
-Listed away: 10 games, scored 13 (1.30), conceded 14 (1.40), blanks 3, clean sheets 2
-All: 20 games, scored 20 (1.00), conceded 22 (1.10), blanks 8, clean sheets 6
+!! Gimnasia L.P.: API-Football error: {"search": "The Search field may only contain alpha-numeric characters and spaces."}
 
-TABLE FOR Huracan
+TABLE FOR Estudiantes de Rio Cuarto
 LEAGUE TABLE Liga Profesional Argentina 2026 | 60 teams | 450 games played
 League averages per game: home 1.20, away 0.95, total 2.15
 #   team                   Pts | home P GF-GA  | away P GF-GA  | all P GF-GA
@@ -118,9 +95,7 @@ League averages per game: home 1.20, away 0.95, total 2.15
 14  Aldosivi                11 |  7   8-9       |  7   7-13      | 14  15-22 [Clausura - Group B]
 15  Estudiantes de Rio Cua   9 |  7   4-6       |  7   5-13      | 14   9-19 [Clausura - Group B]
 
-(Tigre: same table as Huracan, shown above)
-
-(25 API-Football requests used)
+(14 API-Football requests used)
 
 ----------------------------------------------------------------------
 MATCHBOOK: skipped (switched off for this run)

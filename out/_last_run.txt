@@ -1,7 +1,4 @@
-RUN 2026-10-30 19:28 local | 5 match(es)
-AFC Fylde v Hornchurch -> out/AFC_Fylde_v_Hornchurch.txt
-Dundalk v Shamrock Rovers -> out/Dundalk_v_Shamrock_Rovers.txt
-Estudiantes Rio Cuarto v Gimnasia La Plata -> out/Estudiantes_Rio_Cuarto_v_Gimnasia_La_Pla.txt
-Huracan v Tigre -> out/Huracan_v_Tigre.txt
-Coquimbo Unido v Union La Calera -> out/Coquimbo_Unido_v_Union_La_Calera.txt
-Requests used: API-Football 125, Matchbook 0
+RUN 2026-10-30 19:29 local | 1 match(es)
+Estudiantes de Rio Cuarto v Gimnasia L.P. -> out/Estudiantes_de_Rio_Cuarto_v_Gimnasia_L_P.txt
+    !! Gimnasia L.P.: API-Football error: {"search": "The Search field may only contain alpha-numeric characters and spaces."}
+Requests used: API-Football 14, Matchbook 0
