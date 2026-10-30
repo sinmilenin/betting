@@ -1,14 +1,33 @@
-MATCH Volendam v De Graafschap | fetched 2026-10-30 16:30 local
+MATCH id:416 v De Graafschap | fetched 2026-10-30 16:31 local
 
-FORM DATA Volendam v De Graafschap | source API-Football | 2026-10-30 16:30 UTC
+FORM DATA id:416 v De Graafschap | source API-Football | 2026-10-30 16:32 UTC
 H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
 
-"Volendam" matches several teams. Use id:<number> instead of the name:
-  id:416    FC Volendam (Netherlands)
-  id:1238   RKAV Volendam (Netherlands)
-  id:10321  Volendam II (Netherlands)
-  id:21990  Volendam U21 (Netherlands)
-  id:27376  FC Volendam U19 (Netherlands)
+=== FC Volendam (id 416): last 20 finished games ===
+2026-10-27 A 3-5 v FC Eindhoven | KNVB Beker | Eindhoven
+2026-10-23 H 6-2 v Jong Utrecht | Eerste Divisie | Volendam | xG 2.83-1.82
+2026-10-18 A 1-1 v Waalwijk | Eerste Divisie | Waalwijk | xG 0.70-2.38
+2026-10-09 H 2-0 v Vitesse | Eerste Divisie | Volendam | xG 1.07-1.25
+2026-10-03 A 0-1 v Almere City FC | Eerste Divisie | Almere | xG 1.04-2.19
+2026-09-26 H 3-2 v VVV Venlo | Eerste Divisie | Volendam | xG 1.03-2.32
+2026-09-18 A 1-4 v Jong AZ | Eerste Divisie | Alkmaar | xG 1.05-2.82
+2026-09-13 H 2-0 v Den Bosch | Eerste Divisie | Volendam | xG 2.50-0.79
+2026-09-04 A 3-5 v Emmen | Eerste Divisie | Emmen | xG 1.44-2.72
+2026-08-28 H 6-1 v Dordrecht | Eerste Divisie | Volendam | xG 6.33-1.19
+2026-08-21 A 0-1 v MVV | Eerste Divisie | Maastricht
+2026-08-15 H 3-0 v FC OSS | Eerste Divisie | Volendam
+2026-08-10 A 2-3 v Jong PSV U21 | Eerste Divisie | Eindhoven
+2026-08-02 H 1-3 v Ajax | Friendlies Clubs | Volendam
+2026-07-24 A 4-0 v Groningen | Friendlies Clubs | ?
+2026-07-18 A 2-2 v Waalwijk | Friendlies Clubs | ?
+2026-07-15 A 1-2 v Almere City FC | Friendlies Clubs | ?
+2026-07-11 A 1-3 v Jong AZ | Friendlies Clubs | ?
+2026-07-05 A 3-2 v RKAV Volendam | Friendlies Clubs | ?
+2026-05-23 H 1-2 v Willem II | Eerste Divisie | Volendam [PEN, 90-min score shown]
+Listed home: 8 games, scored 24 (3.00), conceded 10 (1.25), blanks 0, clean sheets 3
+Listed away: 12 games, scored 21 (1.75), conceded 29 (2.42), blanks 2, clean sheets 1
+All: 20 games, scored 45 (2.25), conceded 39 (1.95), blanks 2, clean sheets 4
+
 === De Graafschap (id 199): last 20 finished games ===
 2026-10-27 A 0-1 v Roda | KNVB Beker | Kerkrade
 2026-10-23 H 1-1 v Waalwijk | Eerste Divisie | Dutinghem | xG 1.02-1.59
@@ -34,16 +53,7 @@ Listed home: 11 games, scored 19 (1.73), conceded 30 (2.73), blanks 0, clean she
 Listed away: 9 games, scored 11 (1.22), conceded 22 (2.44), blanks 2, clean sheets 0
 All: 20 games, scored 30 (1.50), conceded 52 (2.60), blanks 2, clean sheets 1
 
-(retrying Volendam using the opponent's country, Netherlands)
-"Volendam" matches several teams. Use id:<number> instead of the name:
-  id:416    FC Volendam (Netherlands)
-  id:1238   RKAV Volendam (Netherlands)
-  id:10321  Volendam II (Netherlands)
-  id:21990  Volendam U21 (Netherlands)
-  id:27376  FC Volendam U19 (Netherlands)
-!! Volendam: Ambiguous team name "Volendam".
-
-TABLE FOR De Graafschap
+TABLE FOR FC Volendam
 LEAGUE TABLE Eerste Divisie 2026 | 100 teams | 240 games played
 League averages per game: home 1.99, away 1.60, total 3.59
 #   team                   Pts | home P GF-GA  | away P GF-GA  | all P GF-GA
@@ -148,7 +158,9 @@ League averages per game: home 1.99, away 1.60, total 3.59
 19  Jong AZ                  0 |  0   0-0       |  0   0-0       |  0   0-0 [Eerste Divisie: Period 4]
 20  Jong Utrecht             0 |  0   0-0       |  0   0-0       |  0   0-0 [Eerste Divisie: Period 4]
 
-(16 API-Football requests used)
+(De Graafschap: same table as FC Volendam, shown above)
+
+(26 API-Football requests used)
 
 ----------------------------------------------------------------------
 MATCHBOOK: skipped (switched off for this run)

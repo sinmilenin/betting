@@ -1,13 +1,33 @@
-MATCH Cracovia v Motor Lublin | fetched 2026-10-30 16:30 local
+MATCH id:350 v Motor Lublin | fetched 2026-10-30 16:31 local
 
-FORM DATA Cracovia v Motor Lublin | source API-Football | 2026-10-30 16:30 UTC
+FORM DATA id:350 v Motor Lublin | source API-Football | 2026-10-30 16:31 UTC
 H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
 
-"Cracovia" matches several teams. Use id:<number> instead of the name:
-  id:350    Cracovia Krakow (Poland)
-  id:14911  Cracovia U18 (Poland)
-  id:16265  Cracovia Kraków II (Poland)
-  id:20588  Cracovia U19 (Poland)
+=== Cracovia Krakow (id 350): last 20 finished games ===
+2026-10-24 A 1-3 v Piast Gliwice | Ekstraklasa | Gliwice | xG 1.48-1.70
+2026-10-17 H 1-1 v Legia Warszawa | Ekstraklasa | Krakow | xG 0.85-0.63
+2026-10-10 H 3-1 v Zaglebie Lubin | Ekstraklasa | Krakow | xG 2.96-1.00
+2026-10-03 H 2-3 v Nieciecza | Friendlies Clubs | ?
+2026-09-19 A 2-3 v GKS Katowice | Ekstraklasa | Katowice | xG 1.83-2.72
+2026-09-13 A 1-3 v Wisla Plock | Ekstraklasa | Plock | xG 1.14-1.48
+2026-09-06 H 0-1 v Gornik Zabrze | Ekstraklasa | Kraków | xG 0.45-1.44
+2026-09-02 A 1-1 v Znicz Pruszków | Cup | ? [PEN, 90-min score shown]
+2026-08-29 A 1-2 v Radomiak Radom | Ekstraklasa | Radom | xG 2.02-1.89
+2026-08-21 H 3-2 v Wieczysta Kraków | Ekstraklasa | Kraków | xG 2.08-1.98
+2026-08-16 H 2-1 v Raków Częstochowa | Ekstraklasa | Kraków
+2026-08-09 A 0-0 v Slask Wroclaw | Ekstraklasa | Wroclaw
+2026-08-03 H 0-2 v Pogon Szczecin | Ekstraklasa | Kraków
+2026-07-25 A 0-0 v Lech Poznan | Ekstraklasa | Poznan
+2026-07-19 H 1-0 v Sevilla | Friendlies Clubs | ?
+2026-07-09 H 2-0 v Pardubice | Friendlies Clubs | ?
+2026-07-06 H 3-1 v Başakşehir | Friendlies Clubs | ?
+2026-07-03 H 1-2 v Pafos | Friendlies Clubs | ?
+2026-05-23 H 1-1 v Korona Kielce | Ekstraklasa | Kraków
+2026-05-16 A 3-3 v Motor Lublin | Ekstraklasa | Lublin
+Listed home: 12 games, scored 19 (1.58), conceded 15 (1.25), blanks 2, clean sheets 2
+Listed away: 8 games, scored 9 (1.12), conceded 15 (1.88), blanks 2, clean sheets 2
+All: 20 games, scored 28 (1.40), conceded 30 (1.50), blanks 4, clean sheets 4
+
 === Motor Lublin (id 14562): last 20 finished games ===
 2026-10-27 H 1-1 v Raków Częstochowa | Cup | Lublin [PEN, 90-min score shown]
 2026-10-23 H 2-2 v Zaglebie Lubin | Ekstraklasa | Lublin | xG 2.08-0.55
@@ -33,15 +53,7 @@ Listed home: 14 games, scored 27 (1.93), conceded 18 (1.29), blanks 2, clean she
 Listed away: 6 games, scored 8 (1.33), conceded 14 (2.33), blanks 1, clean sheets 0
 All: 20 games, scored 35 (1.75), conceded 32 (1.60), blanks 3, clean sheets 4
 
-(retrying Cracovia using the opponent's country, Poland)
-"Cracovia" matches several teams. Use id:<number> instead of the name:
-  id:350    Cracovia Krakow (Poland)
-  id:14911  Cracovia U18 (Poland)
-  id:16265  Cracovia Kraków II (Poland)
-  id:20588  Cracovia U19 (Poland)
-!! Cracovia: Ambiguous team name "Cracovia".
-
-TABLE FOR Motor Lublin
+TABLE FOR Cracovia Krakow
 LEAGUE TABLE Ekstraklasa 2026 | 18 teams | 106 games played
 League averages per game: home 1.66, away 1.30, total 2.96
 #   team                   Pts | home P GF-GA  | away P GF-GA  | all P GF-GA
@@ -64,7 +76,9 @@ League averages per game: home 1.66, away 1.30, total 2.96
 17  Radomiak Radom           8 |  6   7-10      |  6   5-18      | 12  12-28
 18  Raków Częstochowa        6 |  6   9-17      |  6   7-11      | 12  16-28
 
-(16 API-Football requests used)
+(Motor Lublin: same table as Cracovia Krakow, shown above)
+
+(26 API-Football requests used)
 
 ----------------------------------------------------------------------
 MATCHBOOK: skipped (switched off for this run)

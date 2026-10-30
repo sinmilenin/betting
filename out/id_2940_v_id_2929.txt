@@ -1,0 +1,119 @@
+MATCH id:2940 v id:2929 | fetched 2026-10-30 16:31 local
+
+FORM DATA id:2940 v id:2929 | source API-Football | 2026-10-30 16:32 UTC
+H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
+
+=== Al Shabab (id 2940): last 20 finished games ===
+2026-10-22 A 3-1 v Al-Fateh | Pro League | Hasa | xG 3.20-1.04
+2026-10-19 H 2-2 v Al-Faisaly FC | Pro League | Riyadh | xG 1.27-1.54
+2026-10-11 H 3-0 v Al Taawon | Pro League | Riyadh | xG 2.34-0.90
+2026-09-12 H 0-0 v Al-Fayha | Pro League | Riyadh | xG 1.09-0.54
+2026-09-09 A 1-2 v Al Kholood | Pro League | Ar Rass | xG 0.62-2.19
+2026-09-04 H 0-2 v Al-Hilal Saudi FC | Pro League | Riyadh | xG 0.77-4.04
+2026-08-30 A 1-1 v Al-Hazm | Pro League | Ar Rass | xG 1.54-1.02
+2026-08-25 H 3-3 v Al Riyadh | Pro League | Riyadh | xG 2.87-1.21
+2026-08-22 A 0-0 v Al Khaleej Saihat | Pro League | Dammam | xG 1.14-0.55
+2026-08-16 A 1-1 v Al Wehda Club | King's Cup | Mecca [AET, 90-min score shown]
+2026-08-13 H 1-3 v Al-Qadisiyah FC | Pro League | Riyadh
+2026-08-03 H 3-1 v MC Alger | Friendlies Clubs | ?
+2026-07-30 H 3-0 v Al Ahli Doha | Friendlies Clubs | ?
+2026-07-26 H 1-0 v Al Nasr | Friendlies Clubs | ?
+2026-05-20 A 0-1 v Al Najma | Pro League | Buraidah
+2026-05-17 H 3-2 v Al-Ittihad FC | Pro League | Riyadh
+2026-05-11 A 1-2 v NEOM | Pro League | Tabuk
+2026-05-07 H 2-4 v Al-Nassr | Pro League | Riyadh
+2026-05-03 H 1-5 v Al Taawon | Pro League | Riyadh
+2026-04-28 H 1-1 v Al-Fateh | Pro League | Riyadh
+Listed home: 13 games, scored 23 (1.77), conceded 23 (1.77), blanks 2, clean sheets 4
+Listed away: 7 games, scored 7 (1.00), conceded 8 (1.14), blanks 2, clean sheets 1
+All: 20 games, scored 30 (1.50), conceded 31 (1.55), blanks 4, clean sheets 5
+
+=== Al-Ahli Jeddah (id 2929): last 20 finished games ===
+2026-10-26 H 2-1 v Al-Gharafa | AFC Champions League Elite | Jeddah | xG 1.88-0.47
+2026-10-23 H 4-1 v Al Khaleej Saihat | Pro League | Jeddah | xG 3.86-0.49
+2026-10-19 A 3-2 v Al-Fayha | Pro League | Buraidah | xG 4.18-0.70
+2026-10-12 A 3-1 v Al-Wasl FC | AFC Champions League Elite | Dubai | xG 1.32-0.96
+2026-10-09 A 4-0 v Al-Fateh | Pro League | Al-Hofuf | xG 2.54-0.45
+2026-09-19 A 1-2 v Mamelodi Sundowns | FIFA Intercontinental Cup | Pretoria
+2026-09-14 H 1-1 v Pakhtakor | AFC Champions League Elite | Jeddah
+2026-09-11 H 3-1 v Al-Hazm | Pro League | Jeddah | xG 5.78-1.78
+2026-09-08 A 2-3 v Al-Qadisiyah FC | Pro League | Dammam | xG 1.26-2.55
+2026-09-04 H 5-0 v Al Riyadh | Pro League | Jeddah | xG 3.46-0.79
+2026-09-01 A 0-3 v Al-Hilal Saudi FC | Pro League | Riyadh
+2026-08-29 A 1-3 v Al Kholood | Pro League | Ar Rass
+2026-08-26 H 1-0 v Auckland | FIFA Intercontinental Cup | Jeddah
+2026-08-22 H 4-0 v Abha | Pro League | Jeddah
+2026-08-17 A 2-1 v Al Anwar | King's Cup | Hotat Bani Tamim
+2026-08-13 A 1-0 v Al Diriyah | Pro League | Riyadh
+2026-07-28 H 1-1 v Fulham | Friendlies Clubs | ?
+2026-07-28 A 0-2 v Portimonense | Friendlies Clubs | ?
+2026-07-24 H 1-3 v Vitória SC | Friendlies Clubs | ?
+2026-07-19 A 2-2 v Rio Ave | Friendlies Clubs | ?
+Listed home: 9 games, scored 22 (2.44), conceded 8 (0.89), blanks 0, clean sheets 3
+Listed away: 11 games, scored 19 (1.73), conceded 19 (1.73), blanks 2, clean sheets 2
+All: 20 games, scored 41 (2.05), conceded 27 (1.35), blanks 2, clean sheets 5
+
+TABLE FOR Al Shabab
+LEAGUE TABLE Pro League 2026 | 18 teams | 99 games played
+League averages per game: home 1.47, away 1.52, total 2.99
+#   team                   Pts | home P GF-GA  | away P GF-GA  | all P GF-GA
+1   Al-Qadisiyah FC         28 |  6  13-11      |  6  19-1       | 12  32-12
+2   Al-Nassr                28 |  6  16-5       |  5  12-6       | 11  28-11
+3   Al-Hilal Saudi FC       27 |  5  11-6       |  5  19-3       | 10  30-9
+4   Al-Ittihad FC           24 |  5  10-5       |  6  11-6       | 11  21-11
+5   Al-Ahli Jeddah          21 |  4  16-2       |  6  11-11      | 10  27-13
+6   NEOM                    19 |  6  11-6       |  5   5-3       | 11  16-9
+7   Al-Ettifaq              18 |  6   8-13      |  5   9-3       | 11  17-16
+8   Al Diriyah              15 |  6   3-5       |  5   6-6       | 11   9-11
+9   Al Khaleej Saihat       15 |  6   8-8       |  6   6-11      | 12  14-19
+10  Al Kholood              12 |  5   8-12      |  6   9-14      | 11  17-26
+11  Al Riyadh               12 |  5   5-11      |  6   6-14      | 11  11-25
+12  Al Shabab               11 |  6   9-10      |  4   5-4       | 10  14-14
+13  Al-Hazm                 10 |  6   7-8       |  6   7-12      | 12  14-20
+14  Al-Faisaly FC           10 |  6   6-11      |  5   6-9       | 11  12-20
+15  Al-Fayha                 8 |  5   8-11      |  6   4-8       | 11  12-19
+16  Al-Fateh                 6 |  6   4-13      |  5   6-10      | 11  10-23
+17  Al Taawon                4 |  5   0-7       |  6   5-12      | 11   5-19
+18  Abha                     3 |  5   3-6       |  6   4-13      | 11   7-19
+
+TABLE FOR Al-Ahli Jeddah
+LEAGUE TABLE AFC Champions League Elite 2026 | 32 teams | 47 games played
+League averages per game: home 1.79, away 1.19, total 2.98
+#   team                   Pts | home P GF-GA  | away P GF-GA  | all P GF-GA
+1   Al Ain                   9 |  2   6-1       |  1   4-1       |  3  10-2 [West Region]
+2   Shabab Al Ahli Dubai     9 |  2   3-0       |  1   2-1       |  3   5-1 [West Region]
+3   Al-Ahli Jeddah           7 |  2   3-2       |  1   3-1       |  3   6-3 [West Region]
+4   Esteghlal FC             6 |  1   3-0       |  2   2-3       |  3   5-3 [West Region]
+5   Al-Hilal Saudi FC        6 |  1   2-1       |  2   3-3       |  3   5-4 [West Region]
+6   Al Shamal                5 |  2   4-2       |  1   0-0       |  3   4-2 [West Region]
+7   Al-Qadisiyah FC          5 |  2   3-2       |  1   1-1       |  3   4-3 [West Region]
+8   Al-Ittihad FC            4 |  1   1-2       |  2   3-2       |  3   4-4 [West Region]
+9   Al-Nassr                 3 |  1   3-1       |  1   0-4       |  2   3-5 [West Region]
+10  Neftchi                  3 |  2   2-2       |  1   1-3       |  3   3-5 [West Region]
+11  Al Quwa Al Jawiya        3 |  2   2-4       |  1   0-1       |  3   2-5 [West Region]
+12  Pakhtakor                2 |  1   1-1       |  2   1-2       |  3   2-3 [West Region]
+13  Tractor Sazi             1 |  1   0-0       |  2   1-3       |  3   1-3 [West Region]
+14  Al Sadd                  1 |  1   0-2       |  2   1-4       |  3   1-6 [West Region]
+15  Al-Gharafa               0 |  1   1-2       |  2   2-4       |  3   3-6 [West Region]
+16  Al-Wasl FC               0 |  1   1-3       |  1   1-2       |  2   2-5 [West Region]
+1   Kashima                  9 |  2  10-1       |  1   1-0       |  3  11-1 [East Region]
+2   Vissel Kobe              9 |  1   2-0       |  2   3-1       |  3   5-1 [East Region]
+3   Gamba Osaka              7 |  2   5-2       |  1   3-1       |  3   8-3 [East Region]
+4   Johor Darul Takzim FC    7 |  2   4-1       |  1   2-0       |  3   6-1 [East Region]
+5   Beijing Guoan            7 |  2   5-3       |  1   1-0       |  3   6-3 [East Region]
+6   Kyoto Sanga              6 |  2   6-2       |  1   0-1       |  3   6-3 [East Region]
+7   Kashiwa Reysol           4 |  1   5-1       |  2   1-2       |  3   6-3 [East Region]
+8   SHANGHAI SIPG            4 |  2   3-4       |  1   6-4       |  3   9-8 [East Region]
+9   Daejeon Citizen          4 |  2   1-1       |  1   1-1       |  3   2-2 [East Region]
+10  Jeonbuk Motors           4 |  1   2-1       |  2   2-4       |  3   4-5 [East Region]
+11  Công An Nhân Dân         3 |  1   0-1       |  2   4-6       |  3   4-7 [East Region]
+12  Buriram United           2 |  1   0-1       |  2   2-2       |  3   2-3 [East Region]
+13  Ratchaburi               1 |  2   4-6       |  1   0-1       |  3   4-7 [East Region]
+14  Pohang Steelers          0 |  1   0-2       |  2   1-6       |  3   1-8 [East Region]
+15  Port FC                  0 |  1   1-2       |  2   1-8       |  3   2-10 [East Region]
+16  Newcastle Jets           0 |  1   1-3       |  2   3-12      |  3   4-15 [East Region]
+
+(26 API-Football requests used)
+
+----------------------------------------------------------------------
+MATCHBOOK: skipped (switched off for this run)
