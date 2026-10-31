@@ -1,6 +1,3 @@
-RUN 2026-10-31 08:57 local | 2 match(es)
-Erzurumspor v Corum -> out/Erzurumspor_v_Corum.txt
-    !! Erzurumspor: Ambiguous team name "Erzurumspor".
-    !! Corum: Ambiguous team name "Corum".
-Kagoshima United v Roasso Kumamoto -> out/Kagoshima_United_v_Roasso_Kumamoto.txt
-Requests used: API-Football 27, Matchbook 0
+RUN 2026-10-31 08:58 local | 1 match(es)
+id:1009 v id:6343 -> out/id_1009_v_id_6343.txt
+Requests used: API-Football 25, Matchbook 0
