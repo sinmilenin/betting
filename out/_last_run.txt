@@ -1,3 +1,7 @@
-RUN 2026-10-31 06:45 local | 1 match(es)
-id:163 v id:185 -> out/id_163_v_id_185.txt
-Requests used: API-Football 26, Matchbook 0
+RUN 2026-10-31 07:26 local | 3 match(es)
+Zhenis v Kaisar -> out/Zhenis_v_Kaisar.txt
+    !! Zhenis: No team found for "Zhenis".
+Elimai v Okzhetpes -> out/Elimai_v_Okzhetpes.txt
+    !! Elimai: No team found for "Elimai".
+Ulytau v Atyrau -> out/Ulytau_v_Atyrau.txt
+Requests used: API-Football 51, Matchbook 0
