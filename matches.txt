@@ -1,4 +1,3 @@
-# 2026-10-31 17:30 scan
-Guingamp v Saint-Etienne | n=20 | xg=10
-Sporting Kansas City v FC Dallas | n=20 | xg=10
-GKS Katowice v Widzew Lodz | n=20 | xg=10
+# 2026-10-31 17:30 scan retry (team names)
+Guingamp v Saint Etienne | n=20 | xg=10
+GKS Katowice v Widzew | n=20 | xg=10
