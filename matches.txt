@@ -1,3 +1,2 @@
-# 2026-10-31 17:30 scan retry (team names)
-Guingamp v Saint Etienne | n=20 | xg=10
-GKS Katowice v Widzew | n=20 | xg=10
+# 2026-10-31 17:30 scan retry 2 (Widzew id)
+id:3484 v id:6962 | n=20 | xg=10
