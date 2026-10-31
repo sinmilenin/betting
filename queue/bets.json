@@ -240,5 +240,60 @@
     "lay": 17,
     "stake": 3,
     "created": "2026-10-31T10:31:16Z"
+  },
+  {
+    "id": "2026-10-31_lokomotiv-plovdiv-ludogorets_1-2",
+    "date": "2026-10-31",
+    "ko": "13:00",
+    "match": "Lokomotiv Plovdiv v Ludogorets",
+    "comp": "Bulgaria, Bulgarian A League",
+    "cell": "1-2",
+    "lay": 11,
+    "stake": 3,
+    "created": "2026-10-31T11:20:34+00:00"
+  },
+  {
+    "id": "2026-10-31_modena-mantova_2-2",
+    "date": "2026-10-31",
+    "ko": "15:00",
+    "match": "Modena v Mantova",
+    "comp": "Italy, Italian Serie B",
+    "cell": "2-2",
+    "lay": 15.5,
+    "stake": 3,
+    "created": "2026-10-31T11:20:34+00:00"
+  },
+  {
+    "id": "2026-10-31_us-cremonese-benevento_2-2",
+    "date": "2026-10-31",
+    "ko": "15:00",
+    "match": "US Cremonese v Benevento",
+    "comp": "Italy, Italian Serie B",
+    "cell": "2-2",
+    "lay": 16,
+    "stake": 3,
+    "created": "2026-10-31T11:20:34+00:00"
+  },
+  {
+    "id": "2026-10-31_sudtirol-cesena_2-2",
+    "date": "2026-10-31",
+    "ko": "15:00",
+    "match": "Sudtirol v Cesena",
+    "comp": "Italy, Italian Serie B",
+    "cell": "2-2",
+    "lay": 19.5,
+    "stake": 3,
+    "created": "2026-10-31T11:20:34+00:00"
+  },
+  {
+    "id": "2026-10-31_slovacko-teplice_2-2",
+    "date": "2026-10-31",
+    "ko": "15:00",
+    "match": "Slovacko v Teplice",
+    "comp": "Czech Republic, Czech 1 Liga",
+    "cell": "2-2",
+    "lay": 16,
+    "stake": 3,
+    "created": "2026-10-31T11:20:34+00:00"
   }
 ]
