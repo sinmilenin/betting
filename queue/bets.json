@@ -581,5 +581,27 @@
     "lay": 15.5,
     "stake": 3,
     "created": "2026-10-31T16:05:28+01:00"
+  },
+  {
+    "id": "2026-10-31_fenerbahce-goztepe_1-0",
+    "date": "2026-10-31",
+    "ko": "17:00",
+    "match": "Fenerbahce v Goztepe",
+    "comp": "Turkey, Turkish Super League",
+    "cell": "1-0",
+    "lay": 11.5,
+    "stake": 3,
+    "created": "2026-10-31T15:47:18+00:00"
+  },
+  {
+    "id": "2026-10-31_kifisia-olympiakos_0-3",
+    "date": "2026-10-31",
+    "ko": "18:00",
+    "match": "Kifisia v Olympiakos",
+    "comp": "Greece, Greek Super League",
+    "cell": "0-3",
+    "lay": 11.5,
+    "stake": 3,
+    "created": "2026-10-31T15:47:18+00:00"
   }
 ]
