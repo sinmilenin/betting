@@ -1,3 +1,6 @@
-# 2026-10-31 13:08 scan: retries
-Floridsdorfer AC v id:1401 | n=20 | xg=10
-Grimsby v York | n=20 | xg=10
+# 2026-10-31 13:20 results check for settling (Valentino asked "Settle")
+id:16611 v id:4562 | n=3 | xg=0
+id:21010 v id:4564 | n=3 | xg=0
+id:4565 v id:692 | n=3 | xg=0
+id:2259 v id:4563 | n=3 | xg=0
+id:15550 v id:939 | n=3 | xg=0
