@@ -1,2 +1,5 @@
-# 2026-10-31 19:00 scan retry 3 (FC Porto id)
-id:212 v Estoril | n=20 | xg=10
+# 2026-10-31 19:46 scan
+Botafogo SP v Sport Recife | n=20 | xg=10
+Real Oruro v Nacional Potosi | n=20 | xg=10
+San Jose Earthquakes v Real Salt Lake | n=20 | xg=10
+LA Galaxy v Austin | n=20 | xg=10
