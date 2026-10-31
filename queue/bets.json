@@ -295,5 +295,38 @@
     "lay": 16,
     "stake": 3,
     "created": "2026-10-31T11:20:34+00:00"
+  },
+  {
+    "id": "2026-10-31_grimsby-york-city_2-2",
+    "date": "2026-10-31",
+    "ko": "13:30",
+    "match": "Grimsby v York City",
+    "comp": "United Kingdom, English Sky Bet League 2",
+    "cell": "2-2",
+    "lay": 14.0,
+    "stake": 3,
+    "created": "2026-10-31T13:06:03+01:00"
+  },
+  {
+    "id": "2026-10-31_bregenz-admira-wacker_2-2",
+    "date": "2026-10-31",
+    "ko": "15:30",
+    "match": "Bregenz v Admira Wacker",
+    "comp": "Austria, Austrian Erste Liga",
+    "cell": "2-2",
+    "lay": 14.5,
+    "stake": 3,
+    "created": "2026-10-31T13:06:03+01:00"
+  },
+  {
+    "id": "2026-10-31_dunav-ruse-pfc-levski-sofia_1-2",
+    "date": "2026-10-31",
+    "ko": "15:30",
+    "match": "Dunav Ruse v PFC Levski Sofia",
+    "comp": "Bulgaria, Bulgarian A League",
+    "cell": "1-2",
+    "lay": 11.0,
+    "stake": 3,
+    "created": "2026-10-31T13:06:03+01:00"
   }
 ]
