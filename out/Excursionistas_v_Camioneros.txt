@@ -1,11 +1,8 @@
-MATCH Camioneros v Excursionistas | fetched 2026-10-31 15:43 local
+MATCH Excursionistas v Camioneros | fetched 2026-10-31 15:46 local
 
-FORM DATA Camioneros v Excursionistas | source API-Football | 2026-10-31 15:43 UTC
+FORM DATA Excursionistas v Camioneros | source API-Football | 2026-10-31 15:46 UTC
 H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
 
-"Camioneros" matches several teams. Use id:<number> instead of the name:
-  id:1943   Atletico Camioneros (Argentina)
-  id:3943   Deportivo Camioneros (Argentina)
 === Excursionistas (id 8385): last 20 finished games ===
 2026-10-24 H 4-0 v Sportivo Italiano | Primera B Metropolitana | Buenos Aires
 2026-10-17 A 1-1 v San Martín Burzaco | Primera B Metropolitana | Buenos Aires
@@ -31,6 +28,9 @@ Listed home: 11 games, scored 31 (2.82), conceded 7 (0.64), blanks 1, clean shee
 Listed away: 9 games, scored 9 (1.00), conceded 12 (1.33), blanks 3, clean sheets 1
 All: 20 games, scored 40 (2.00), conceded 19 (0.95), blanks 4, clean sheets 8
 
+"Camioneros" matches several teams. Use id:<number> instead of the name:
+  id:1943   Atletico Camioneros (Argentina)
+  id:3943   Deportivo Camioneros (Argentina)
 (retrying Camioneros using the opponent's country, Argentina)
 "Camioneros" matches several teams. Use id:<number> instead of the name:
   id:1943   Atletico Camioneros (Argentina)

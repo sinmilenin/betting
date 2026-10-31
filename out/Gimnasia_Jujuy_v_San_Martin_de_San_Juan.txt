@@ -1,47 +1,36 @@
-MATCH Atlanta v Midland | fetched 2026-10-31 15:43 local
+MATCH Gimnasia Jujuy v San Martin de San Juan | fetched 2026-10-31 15:46 local
 
-FORM DATA Atlanta v Midland | source API-Football | 2026-10-31 15:43 UTC
+FORM DATA Gimnasia Jujuy v San Martin de San Juan | source API-Football | 2026-10-31 15:46 UTC
 H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
 
-"Atlanta" matches several teams. Use id:<number> instead of the name:
-  id:686    Atlantas (Lithuania)
-  id:1608   Atlanta United FC (USA)
-  id:1948   Atlanta (Argentina)
-  id:3986   Atlanta United II (USA)
-  id:9069   Atlanta Silverbacks (USA)
-  id:10097  East Atlanta (USA)
-  id:11123  Atlanta SC (USA)
-  id:12906  Atlanta (Brazil)
-  id:23753  Atlanta Fire W (USA)
-=== Midland (id 1963): last 20 finished games ===
-2026-10-25 H 3-0 v Gimnasia Y Tiro | Primera Nacional | Buenos Aires
-2026-10-18 A 2-3 v San Martin Tucuman | Primera Nacional | Tucuman
-2026-10-10 H 4-0 v Atletico DE Rafaela | Primera Nacional | Buenos Aires
-2026-10-04 A 0-0 v Agropecuario | Primera Nacional | Buenos Aires
-2026-09-27 H 0-1 v Tristan Suarez | Primera Nacional | Buenos Aires
-2026-09-20 A 2-0 v Club Atlético Güemes | Primera Nacional | Santiago del Estero
-2026-09-13 H 1-0 v Chacarita Juniors | Primera Nacional | Buenos Aires
-2026-09-06 A 2-3 v San Martin S.J. | Primera Nacional | San Juan
-2026-09-02 A 0-3 v Colegiales | Primera Nacional | Buenos Aires
-2026-08-29 H 2-0 v Nueva Chicago | Primera Nacional | Buenos Aires
-2026-08-23 A 1-2 v Temperley | Primera Nacional | Turdera
-2026-08-19 A 2-2 v Banfield | Copa Argentina | Moron [PEN, 90-min score shown]
-2026-08-14 A 1-1 v Acassuso | Primera Nacional | Boulogne Sur Mer
-2026-08-07 H 2-0 v Deportivo Maipu | Primera Nacional | Buenos Aires
-2026-08-01 A 1-1 v Almagro | Primera Nacional | Jose Ingenieros
-2026-07-26 H 1-0 v Patronato | Primera Nacional | Buenos Aires
-2026-07-12 H 1-0 v Quilmes | Primera Nacional | Buenos Aires
-2026-07-05 H 1-1 v Gimnasia Jujuy | Primera Nacional | Buenos Aires
-2026-06-21 A 1-1 v Patronato | Primera Nacional | ?
-2026-06-13 H 1-2 v Atlanta | Primera Nacional | Buenos Aires
-Listed home: 10 games, scored 16 (1.60), conceded 4 (0.40), blanks 1, clean sheets 7
-Listed away: 10 games, scored 12 (1.20), conceded 16 (1.60), blanks 2, clean sheets 2
-All: 20 games, scored 28 (1.40), conceded 20 (1.00), blanks 3, clean sheets 9
+=== Gimnasia Jujuy (id 479): last 20 finished games ===
+2026-10-25 H 1-2 v Atlanta | Primera Nacional | Jujuy
+2026-10-18 A 1-0 v Nueva Chicago | Primera Nacional | Buenos Aires
+2026-10-11 H 2-2 v Gimnasia Y Tiro | Primera Nacional | Jujuy
+2026-10-03 A 1-2 v Temperley | Primera Nacional | Turdera
+2026-09-28 H 2-2 v San Martin Tucuman | Primera Nacional | Jujuy
+2026-09-20 A 1-1 v Deportivo Maipu | Primera Nacional | Maipu
+2026-09-13 H 2-1 v Atletico DE Rafaela | Primera Nacional | Jujuy
+2026-09-06 A 2-1 v Almagro | Primera Nacional | Jose Ingenieros
+2026-09-01 H 1-1 v Agropecuario | Primera Nacional | Jujuy
+2026-08-22 A 3-3 v Patronato | Primera Nacional | ?
+2026-08-16 H 1-0 v Chaco For Ever | Primera Nacional | Jujuy
+2026-08-10 H 0-2 v Tristan Suarez | Primera Nacional | Jujuy
+2026-08-05 A 0-2 v Quilmes | Primera Nacional | Quilmes
+2026-08-01 A 1-2 v Colegiales | Primera Nacional | Buenos Aires
+2026-07-26 H 2-1 v Club Atlético Güemes | Primera Nacional | Jujuy
+2026-07-12 H 1-1 v Chacarita Juniors | Primera Nacional | Jujuy
+2026-07-05 A 1-1 v Midland | Primera Nacional | Buenos Aires
+2026-06-21 A 3-1 v Club Atlético Güemes | Primera Nacional | Santiago del Estero
+2026-06-17 H 4-0 v Nueva Chicago | Primera Nacional | Jujuy
+2026-06-13 H 2-1 v San Martin S.J. | Primera Nacional | Jujuy
+Listed home: 11 games, scored 18 (1.64), conceded 13 (1.18), blanks 1, clean sheets 2
+Listed away: 9 games, scored 13 (1.44), conceded 13 (1.44), blanks 1, clean sheets 1
+All: 20 games, scored 31 (1.55), conceded 26 (1.30), blanks 2, clean sheets 3
 
-(retrying Atlanta using the opponent's country, Argentina)
-!! Atlanta: API-Football error: HTTP 429 from API-Football
+!! San Martin de San Juan: No team found for "San Martin de San Juan".
 
-TABLE FOR Midland
+TABLE FOR Gimnasia Jujuy
 LEAGUE TABLE Primera Nacional 2026 | 36 teams | 630 games played
 League averages per game: home 1.19, away 0.77, total 1.96
 #   team                   Pts | home P GF-GA  | away P GF-GA  | all P GF-GA
@@ -82,7 +71,7 @@ League averages per game: home 1.19, away 0.77, total 1.96
 17  Nueva Chicago           37 | 18  17-13      | 17   8-21      | 35  25-34 [Group 2]
 18  Club Atlético Güemes    26 | 17  14-25      | 18  12-35      | 35  26-60 [Group 2]
 
-(9 API-Football requests used)
+(14 API-Football requests used)
 
 ----------------------------------------------------------------------
 MATCHBOOK: skipped (switched off for this run)

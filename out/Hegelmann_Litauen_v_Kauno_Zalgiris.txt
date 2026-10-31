@@ -1,0 +1,58 @@
+MATCH Hegelmann Litauen v Kauno Zalgiris | fetched 2026-10-31 15:46 local
+
+FORM DATA Hegelmann Litauen v Kauno Zalgiris | source API-Football | 2026-10-31 15:46 UTC
+H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
+
+=== Hegelmann Litauen (id 3861): last 20 finished games ===
+2026-10-24 A 0-2 v TransINVEST Vilnius | A Lyga | Galine
+2026-10-18 A 1-4 v FK Zalgiris Vilnius | A Lyga | Vilnius
+2026-09-20 H 1-1 v Suduva Marijampole | A Lyga | Raudondvario
+2026-09-13 A 0-0 v Šiauliai | A Lyga | ?
+2026-09-07 H 1-3 v Panevėžys | A Lyga | Raudondvario
+2026-08-31 A 2-2 v Džiugas Telšiai | A Lyga | Telsiai
+2026-08-23 H 1-1 v Banga | A Lyga | Raudondvario
+2026-08-08 A 0-2 v Kauno Žalgiris | A Lyga | Kaunas
+2026-08-02 H 1-2 v TransINVEST Vilnius | A Lyga | Raudondvario
+2026-07-27 H 2-3 v FK Zalgiris Vilnius | A Lyga | Raudondvario
+2026-07-24 A 2-0 v Šiauliai | A Lyga | ?
+2026-07-20 A 1-5 v Suduva Marijampole | A Lyga | Marijampole
+2026-07-16 A 0-3 v Paide | UEFA Europa Conference League | Paide
+2026-07-09 H 1-1 v Paide | UEFA Europa Conference League | Raudondvario
+2026-07-04 A 1-1 v Panevėžys | A Lyga | ?
+2026-06-28 A 0-2 v Banga | A Lyga | Gargzdai
+2026-06-17 H 1-1 v Džiugas Telšiai | A Lyga | Raudondvario
+2026-06-14 H 1-1 v Kauno Žalgiris | A Lyga | Raudondvario
+2026-05-29 A 1-2 v TransINVEST Vilnius | A Lyga | Sirvintos
+2026-05-24 A 3-1 v FK Zalgiris Vilnius | A Lyga | Vilnius
+Listed home: 8 games, scored 9 (1.12), conceded 13 (1.62), blanks 0, clean sheets 0
+Listed away: 12 games, scored 11 (0.92), conceded 24 (2.00), blanks 5, clean sheets 2
+All: 20 games, scored 20 (1.00), conceded 37 (1.85), blanks 5, clean sheets 2
+
+"Kauno Zalgiris" matches several teams. Use id:<number> instead of the name:
+  id:3872   Kauno Žalgiris (Lithuania)
+  id:13971  Kauno Žalgiris II (Lithuania)
+(retrying Kauno Zalgiris using the opponent's country, Lithuania)
+"Kauno Zalgiris" matches several teams. Use id:<number> instead of the name:
+  id:3872   Kauno Žalgiris (Lithuania)
+  id:13971  Kauno Žalgiris II (Lithuania)
+!! Kauno Zalgiris: Ambiguous team name "Kauno Zalgiris".
+
+TABLE FOR Hegelmann Litauen
+LEAGUE TABLE A Lyga 2026 | 10 teams | 137 games played
+League averages per game: home 1.44, away 1.16, total 2.60
+#   team                   Pts | home P GF-GA  | away P GF-GA  | all P GF-GA
+1   Kauno Žalgiris          55 | 16  34-9       | 14  23-11      | 30  57-20
+2   FK Zalgiris Vilnius     51 | 16  35-21      | 15  14-14      | 31  49-35
+3   Suduva Marijampole      50 | 14  18-7       | 16  21-23      | 30  39-30
+4   TransINVEST Vilnius     49 | 15  20-15      | 16  28-24      | 31  48-39
+5   Banga                   42 | 15  17-18      | 15  16-12      | 30  33-30
+6   Džiugas Telšiai         42 | 16  25-21      | 14  16-23      | 30  41-44
+7   Panevėžys               38 | 15  17-14      | 16  16-32      | 31  33-46
+8   Hegelmann Litauen       26 | 15  19-22      | 16  13-32      | 31  32-54
+9   Šiauliai                18 | 15  12-32      | 15  12-26      | 30  24-58
+10  FK Trakai                0 |  0   0-0       |  0   0-0       |  0   0-0
+
+(15 API-Football requests used)
+
+----------------------------------------------------------------------
+MATCHBOOK: skipped (switched off for this run)
