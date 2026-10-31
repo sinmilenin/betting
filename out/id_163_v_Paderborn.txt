@@ -1,0 +1,13 @@
+MATCH id:163 v Paderborn | fetched 2026-10-31 06:42 local
+
+FORM DATA id:163 v Paderborn | source API-Football | 2026-10-31 06:43 UTC
+H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
+
+!! id:163: API-Football error: HTTP 429 from API-Football
+
+!! Paderborn: API-Football error: HTTP 429 from API-Football
+
+(0 API-Football requests used)
+
+----------------------------------------------------------------------
+MATCHBOOK: skipped (switched off for this run)

@@ -1,0 +1,13 @@
+MATCH id:728 v id:538 | fetched 2026-10-31 06:42 local
+
+FORM DATA id:728 v id:538 | source API-Football | 2026-10-31 06:43 UTC
+H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
+
+!! id:728: API-Football error: HTTP 429 from API-Football
+
+!! id:538: API-Football error: HTTP 429 from API-Football
+
+(0 API-Football requests used)
+
+----------------------------------------------------------------------
+MATCHBOOK: skipped (switched off for this run)

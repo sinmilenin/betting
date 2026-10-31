@@ -1,0 +1,86 @@
+MATCH id:49 v id:33 | fetched 2026-10-31 06:42 local
+
+FORM DATA id:49 v id:33 | source API-Football | 2026-10-31 06:42 UTC
+H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
+
+=== Chelsea (id 49): last 20 finished games ===
+2026-10-28 A 1-1 v Liverpool | League Cup | Liverpool | xG 1.88-2.19 [PEN, 90-min score shown]
+2026-10-24 H 0-2 v Tottenham | Premier League | London | xG 0.47-0.74
+2026-10-17 A 2-0 v Everton | Premier League | Liverpool | xG 1.47-0.43
+2026-10-10 H 5-1 v Bournemouth | Premier League | London | xG 1.10-1.38
+2026-09-18 A 0-3 v Brentford | Premier League | London | xG 0.83-2.65
+2026-09-12 H 2-2 v Hull City | Premier League | London | xG 0.91-1.38
+2026-09-09 H 6-3 v Leeds | League Cup | London
+2026-09-06 A 1-2 v Arsenal | Premier League | London | xG 0.39-2.05
+2026-08-30 H 4-3 v Brighton | Premier League | London | xG 2.93-1.41
+2026-08-27 H 2-0 v Luton | League Cup | London | xG 3.19-0.50
+2026-08-24 A 3-2 v Fulham | Premier League | London
+2026-08-15 H 3-1 v Real Sociedad | Friendlies Clubs | London
+2026-08-09 A 3-3 v Johor Darul Takzim FC | Friendlies Clubs | Johor Bahru
+2026-08-08 H 3-0 v AC Milan | Friendlies Clubs | Jakarta
+2026-08-05 H 0-1 v Juventus | Friendlies Clubs | Hongkong
+2026-08-01 H 1-2 v Tottenham | Friendlies Clubs | Sydney
+2026-07-28 H 6-4 v Western Sydney Wanderers | Friendlies Clubs | Sydney
+2026-05-24 A 1-2 v Sunderland | Premier League | Sunderland
+2026-05-19 H 2-1 v Tottenham | Premier League | London
+2026-05-16 H 0-1 v Manchester City | FA Cup | London
+Listed home: 13 games, scored 34 (2.62), conceded 21 (1.62), blanks 3, clean sheets 2
+Listed away: 7 games, scored 11 (1.57), conceded 13 (1.86), blanks 1, clean sheets 1
+All: 20 games, scored 45 (2.25), conceded 34 (1.70), blanks 4, clean sheets 3
+
+=== Manchester United (id 33): last 20 finished games ===
+2026-10-25 H 0-3 v Bournemouth | Premier League | Manchester | xG 1.17-2.15
+2026-10-21 A 1-4 v Como | UEFA Champions League | Como | xG 1.05-2.19
+2026-10-18 A 1-1 v Leeds | Premier League | Leeds | xG 0.93-1.48
+2026-10-13 A 0-2 v Atletico Madrid | UEFA Champions League | Madrid | xG 0.98-1.47
+2026-10-10 H 1-1 v Tottenham | Premier League | Manchester | xG 0.80-1.62
+2026-09-20 A 1-1 v Fulham | Premier League | London | xG 1.60-1.62
+2026-09-16 H 2-3 v Brighton | League Cup | Manchester
+2026-09-13 H 0-1 v Manchester City | Premier League | Manchester | xG 1.00-1.10
+2026-09-10 H 4-0 v Sabah FA | UEFA Champions League | Manchester | xG 3.54-0.84
+2026-09-06 A 2-2 v Everton | Premier League | Liverpool | xG 0.69-1.01
+2026-08-30 H 5-2 v Ipswich | Premier League | Manchester
+2026-08-22 A 0-2 v Hull City | Premier League | Hull
+2026-08-15 H 2-4 v AC Milan | Friendlies Clubs | ?
+2026-08-12 H 1-1 v Leeds | Friendlies Clubs | Dublin [PEN, 90-min score shown]
+2026-08-08 A 1-1 v Paris Saint Germain | Friendlies Clubs | ?
+2026-08-01 H 2-1 v Atletico Madrid | Friendlies Clubs | Solna
+2026-07-24 A 5-0 v Rosenborg | Friendlies Clubs | Trondheim
+2026-07-18 H 0-1 v Wrexham | Friendlies Clubs | Helsinki
+2026-05-24 A 3-0 v Brighton | Premier League | Brighton
+2026-05-17 H 3-2 v Nottingham Forest | Premier League | Manchester
+Listed home: 11 games, scored 20 (1.82), conceded 19 (1.73), blanks 3, clean sheets 1
+Listed away: 9 games, scored 14 (1.56), conceded 13 (1.44), blanks 2, clean sheets 2
+All: 20 games, scored 34 (1.70), conceded 32 (1.60), blanks 5, clean sheets 3
+
+TABLE FOR Chelsea
+LEAGUE TABLE Premier League 2026 | 20 teams | 80 games played
+League averages per game: home 1.51, away 1.26, total 2.77
+#   team                   Pts | home P GF-GA  | away P GF-GA  | all P GF-GA
+1   Manchester City         21 |  4  11-6       |  4   9-3       |  8  20-9
+2   Arsenal                 21 |  4   9-2       |  4   4-3       |  8  13-5
+3   Brighton                16 |  4  13-1       |  4  10-6       |  8  23-7
+4   Liverpool               15 |  4   4-5       |  4   7-3       |  8  11-8
+5   Chelsea                 13 |  4  11-8       |  4   6-7       |  8  17-15
+6   Brentford               11 |  4   8-3       |  4   6-6       |  8  14-9
+7   Leeds                   11 |  4   6-3       |  4   3-3       |  8   9-6
+8   Newcastle               11 |  4   6-6       |  4   6-8       |  8  12-14
+9   Aston Villa             11 |  4   5-6       |  4   4-6       |  8   9-12
+10  Hull City               10 |  4   5-3       |  4   4-5       |  8   9-8
+11  Everton                 10 |  4   5-4       |  4   3-5       |  8   8-9
+12  Ipswich                 10 |  4   5-5       |  4   7-11      |  8  12-16
+13  Bournemouth              9 |  4   5-4       |  4   7-9       |  8  12-13
+14  Tottenham                9 |  4   5-6       |  4   3-4       |  8   8-10
+15  Fulham                   8 |  4   6-7       |  4   2-3       |  8   8-10
+16  Manchester United        7 |  4   6-7       |  4   4-6       |  8  10-13
+17  Crystal Palace           7 |  4   6-10      |  4   3-9       |  8   9-19
+18  Nottingham Forest        6 |  4   0-3       |  4   6-7       |  8   6-10
+19  Coventry                 6 |  4   4-8       |  4   2-7       |  8   6-15
+20  Sunderland               5 |  4   1-4       |  4   5-10      |  8   6-14
+
+(Manchester United: same table as Chelsea, shown above)
+
+(26 API-Football requests used)
+
+----------------------------------------------------------------------
+MATCHBOOK: skipped (switched off for this run)

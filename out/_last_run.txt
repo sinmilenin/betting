@@ -1,3 +1,31 @@
-RUN 2026-10-31 05:57 local | 1 match(es)
-Macarthur v Western Sydney Wanderers -> out/Macarthur_v_Western_Sydney_Wanderers.txt
-Requests used: API-Football 25, Matchbook 0
+RUN 2026-10-31 06:42 local | 19 match(es)
+id:49 v id:33 -> out/id_49_v_id_33.txt
+id:50 v id:51 -> out/id_50_v_id_51.txt
+id:529 v id:542 -> out/id_529_v_id_542.txt
+id:66 v id:36 -> out/id_66_v_id_36.txt
+id:47 v id:52 -> out/id_47_v_id_52.txt
+id:212 v Estoril -> out/id_212_v_Estoril.txt
+id:35 v id:63 -> out/id_35_v_id_63.txt
+id:539 v id:530 -> out/id_539_v_id_530.txt
+id:55 v id:65 -> out/id_55_v_id_65.txt
+id:500 v id:1579 -> out/id_500_v_id_1579.txt
+id:162 v id:167 -> out/id_162_v_id_167.txt
+id:157 v id:165 -> out/id_157_v_id_165.txt
+id:64 v id:57 -> out/id_64_v_id_57.txt
+id:489 v id:505 -> out/id_489_v_id_505.txt
+id:163 v Paderborn -> out/id_163_v_Paderborn.txt
+    !! id:163: API-Football error: HTTP 429 from API-Football
+    !! Paderborn: API-Football error: HTTP 429 from API-Football
+Coventry v id:746 -> out/Coventry_v_id_746.txt
+    !! Coventry: API-Football error: HTTP 429 from API-Football
+    !! id:746: API-Football error: HTTP 429 from API-Football
+id:494 v id:497 -> out/id_494_v_id_497.txt
+    !! id:494: API-Football error: HTTP 429 from API-Football
+    !! id:497: API-Football error: HTTP 429 from API-Football
+id:728 v id:538 -> out/id_728_v_id_538.txt
+    !! id:728: API-Football error: HTTP 429 from API-Football
+    !! id:538: API-Football error: HTTP 429 from API-Football
+id:168 v id:172 -> out/id_168_v_id_172.txt
+    !! id:168: API-Football error: HTTP 429 from API-Football
+    !! id:172: API-Football error: HTTP 429 from API-Football
+Requests used: API-Football 337, Matchbook 0
