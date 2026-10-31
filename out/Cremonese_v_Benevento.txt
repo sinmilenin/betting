@@ -1,0 +1,86 @@
+MATCH Cremonese v Benevento | fetched 2026-10-31 11:16 local
+
+FORM DATA Cremonese v Benevento | source API-Football | 2026-10-31 11:16 UTC
+H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
+
+=== Cremonese (id 520): last 20 finished games ===
+2026-10-27 A 2-0 v Mantova | Serie B | Mantova | xG 1.32-1.97
+2026-10-24 H 0-1 v Juve Stabia | Serie B | Cremona | xG 1.55-0.67
+2026-10-17 A 1-3 v Pisa | Serie B | Pizza | xG 0.44-2.31
+2026-10-10 A 0-0 v Arezzo | Serie B | Arezzo | xG 0.21-1.01
+2026-10-02 A 1-0 v Juventus | Friendlies Clubs | Turin
+2026-09-26 A 3-2 v Monza | Friendlies Clubs | ?
+2026-09-19 H 0-0 v Virtus Entella | Serie B | Cremona | xG 1.01-1.02
+2026-09-12 A 2-2 v Cesena | Serie B | Cesena | xG 1.23-1.15
+2026-09-06 H 3-1 v Padova | Serie B | Cremona | xG 2.46-1.30
+2026-09-01 A 2-0 v Parma | Coppa Italia | Parma
+2026-08-28 H 0-3 v Modena | Serie B | Cremona
+2026-08-22 A 0-1 v Empoli | Serie B | Empoli
+2026-08-17 H 2-0 v Sampdoria | Coppa Italia | Bolzano
+2026-08-01 H 0-0 v Lumezzane | Friendlies Clubs | ?
+2026-07-29 H 1-1 v Cittadella | Friendlies Clubs | ?
+2026-07-24 H 4-0 v Giana Erminio | Friendlies Clubs | ?
+2026-05-24 H 1-4 v Como | Serie A | Cremona
+2026-05-17 A 1-0 v Udinese | Serie A | Udine
+2026-05-10 H 3-0 v Pisa | Serie A | Cremona
+2026-05-04 H 1-2 v Lazio | Serie A | Cremona
+Listed home: 11 games, scored 15 (1.36), conceded 12 (1.09), blanks 4, clean sheets 5
+Listed away: 9 games, scored 12 (1.33), conceded 8 (0.89), blanks 2, clean sheets 5
+All: 20 games, scored 27 (1.35), conceded 20 (1.00), blanks 6, clean sheets 10
+
+=== Benevento (id 506): last 20 finished games ===
+2026-10-27 H 1-1 v Catanzaro | Serie B | Benevento | xG 2.54-0.47
+2026-10-24 A 3-0 v Arezzo | Serie B | Arezzo | xG 2.72-0.41
+2026-10-17 H 2-2 v Vicenza Virtus | Serie B | Benevento | xG 1.92-1.18
+2026-10-10 H 2-0 v Cesena | Serie B | Benevento | xG 1.74-0.53
+2026-10-02 A 1-2 v Frosinone | Friendlies Clubs | ?
+2026-09-19 A 1-0 v Carrarese | Serie B | Carrara | xG 1.25-0.83
+2026-09-11 H 3-1 v Hellas Verona | Serie B | Benevento | xG 1.13-1.44
+2026-09-05 A 0-1 v Ascoli | Serie B | Ascoli Piceno | xG 0.07-2.37
+2026-08-30 H 1-1 v Sudtirol | Serie B | Benevento | xG 2.23-0.56
+2026-08-22 H 1-2 v Modena | Serie B | Benevento | xG 1.00-1.44
+2026-08-14 A 1-4 v Fiorentina | Coppa Italia | Florence
+2026-08-09 H 5-3 v Ravenna | Coppa Italia | Benevento
+2026-08-01 A 2-2 v Frosinone | Friendlies Clubs | ?
+2026-07-31 A 2-1 v Vis Pesaro | Friendlies Clubs | ?
+2026-07-26 A 2-0 v Ostia Mare | Friendlies Clubs | ?
+2026-05-16 A 4-1 v Vicenza Virtus | Serie C - Supercoppa Lega Finals | ?
+2026-05-09 H 1-0 v Arezzo | Serie C - Supercoppa Lega Finals | ?
+2026-04-26 H 2-2 v Audace Cerignola | Serie C - Girone C | Benevento
+2026-04-19 A 1-1 v Giugliano | Serie C - Girone C | Giugliano
+2026-04-13 H 0-1 v Cavese | Serie C - Girone C | Benevento
+Listed home: 10 games, scored 18 (1.80), conceded 13 (1.30), blanks 1, clean sheets 2
+Listed away: 10 games, scored 17 (1.70), conceded 12 (1.20), blanks 1, clean sheets 3
+All: 20 games, scored 35 (1.75), conceded 25 (1.25), blanks 2, clean sheets 5
+
+TABLE FOR Cremonese
+LEAGUE TABLE Serie B 2026 | 20 teams | 90 games played
+League averages per game: home 1.36, away 1.33, total 2.69
+#   team                   Pts | home P GF-GA  | away P GF-GA  | all P GF-GA
+1   Palermo                 23 |  4   8-3       |  5  13-8       |  9  21-11
+2   Modena                  19 |  4   8-4       |  5   9-5       |  9  17-9
+3   Ascoli                  18 |  5   8-3       |  4   8-3       |  9  16-6
+4   Mantova                 17 |  5   7-7       |  4   7-3       |  9  14-10
+5   Benevento               15 |  6  10-7       |  3   4-1       |  9  14-8
+6   Pisa                    15 |  5   9-10      |  4   9-3       |  9  18-13
+7   Padova                  13 |  5   5-5       |  4   4-5       |  9   9-10
+8   Sudtirol                13 |  5   5-2       |  4   5-7       |  9  10-9
+9   Hellas Verona           12 |  5  11-6       |  4   5-7       |  9  16-13
+10  Avellino                12 |  5   9-5       |  4   4-5       |  9  13-10
+11  Cesena                  11 |  5   7-6       |  4   3-7       |  9  10-13
+12  Virtus Entella          10 |  5   5-7       |  4   6-3       |  9  11-10
+13  Carrarese               10 |  5   5-6       |  4   4-4       |  9   9-10
+14  Arezzo                  10 |  4   3-10      |  5   6-9       |  9   9-19
+15  Cremonese                9 |  4   3-5       |  5   5-6       |  9   8-11
+16  Vicenza Virtus           9 |  4   5-8       |  5   7-9       |  9  12-17
+17  Juve Stabia              8 |  4   4-5       |  5   5-4       |  9   9-9
+18  Empoli                   7 |  4   3-7       |  5   5-8       |  9   8-15
+19  Sampdoria                5 |  3   4-5       |  6   4-13      |  9   8-18
+20  Catanzaro                5 |  3   3-9       |  6   7-12      |  9  10-21
+
+(Benevento: same table as Cremonese, shown above)
+
+(24 API-Football requests used)
+
+----------------------------------------------------------------------
+MATCHBOOK: skipped (switched off for this run)
