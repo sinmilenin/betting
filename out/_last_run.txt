@@ -1,11 +1,4 @@
-RUN 2026-10-31 17:16 local | 7 match(es)
-id:1604 v CF Montreal -> out/id_1604_v_CF_Montreal.txt
-Louis City v San Diego -> out/Louis_City_v_San_Diego.txt
-    !! Louis City: Ambiguous team name "Louis City".
-Karlsruher SC v id:180 -> out/Karlsruher_SC_v_id_180.txt
-id:644 v id:630 -> out/id_644_v_id_630.txt
-SK Beveren v Gilloise -> out/SK_Beveren_v_Gilloise.txt
-    !! Gilloise: Ambiguous team name "Gilloise".
-id:110 v Le Mans -> out/id_110_v_Le_Mans.txt
-Coritiba v id:136 -> out/Coritiba_v_id_136.txt
-Requests used: API-Football 155, Matchbook 0
+RUN 2026-10-31 17:17 local | 2 match(es)
+id:20787 v San Diego -> out/id_20787_v_San_Diego.txt
+SK Beveren v id:1393 -> out/SK_Beveren_v_id_1393.txt
+Requests used: API-Football 50, Matchbook 0
