@@ -31,5 +31,16 @@
     "lay": 14.5,
     "stake": 3,
     "created": "2026-10-31T06:15:01+01:00"
+  },
+  {
+    "id": "2026-10-31_macarthur-fc-western-sydney-wanderers_0-1",
+    "date": "2026-10-31",
+    "ko": "09:40",
+    "match": "Macarthur FC v Western Sydney Wanderers",
+    "comp": "Australia, Australian A-League Men",
+    "cell": "0-1",
+    "lay": 14,
+    "stake": 3,
+    "created": "2026-10-31T06:59:48+01:00"
   }
 ]
