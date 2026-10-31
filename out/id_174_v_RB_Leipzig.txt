@@ -1,12 +1,33 @@
-MATCH Schalke 04 v RB Leipzig | fetched 2026-10-31 11:59 local
+MATCH id:174 v RB Leipzig | fetched 2026-10-31 12:01 local
 
-FORM DATA Schalke 04 v RB Leipzig | source API-Football | 2026-10-31 11:59 UTC
+FORM DATA id:174 v RB Leipzig | source API-Football | 2026-10-31 12:01 UTC
 H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
 
-"Schalke 04" matches several teams. Use id:<number> instead of the name:
-  id:174    FC Schalke 04 (Germany)
-  id:7967   Schalke 04 U19 (Germany)
-  id:9373   Schalke 04 II (Germany)
+=== FC Schalke 04 (id 174): last 20 finished games ===
+2026-10-28 A 0-2 v Dynamo Dresden | DFB Pokal | Dresden | xG 0.74-0.78
+2026-10-24 A 0-0 v 1. FC Köln | Bundesliga | Cologne | xG 0.61-1.24
+2026-10-17 H 0-1 v FSV Mainz 05 | Bundesliga | Gelsenkirchen | xG 0.43-1.94
+2026-10-11 A 1-2 v SC Freiburg | Bundesliga | Freiburg | xG 0.32-1.15
+2026-10-03 A 1-0 v Austria Lustenau | Friendlies Clubs | ?
+2026-09-24 A 5-2 v Rot-weiss Oberhausen | Friendlies Clubs | ?
+2026-09-20 H 0-0 v SV Elversberg | Bundesliga | Gelsenkirchen | xG 1.01-1.01
+2026-09-11 A 3-1 v Union Berlin | Bundesliga | Berlin | xG 2.52-1.95
+2026-09-05 H 0-0 v Bayern München | Bundesliga | Gelsenkirchen | xG 0.21-1.94
+2026-08-30 A 0-3 v FC Augsburg | Bundesliga | Augsburg | xG 2.10-3.72
+2026-08-24 A 2-2 v Hallescher FC | DFB Pokal | Halle [AET, 90-min score shown]
+2026-08-16 H 0-3 v Real Madrid | Friendlies Clubs | ?
+2026-08-08 H 0-3 v Atalanta | Friendlies Clubs | ?
+2026-08-01 A 5-0 v Hessen Kassel | Friendlies Clubs | ?
+2026-07-25 H 3-1 v Fagiano Okayama | Friendlies Clubs | ?
+2026-07-22 A 2-0 v FC Kharkiv | Friendlies Clubs | ?
+2026-07-19 A 4-2 v Erzgebirge Aue | Friendlies Clubs | ?
+2026-07-11 A 1-2 v FC Gutersloh | Friendlies Clubs | ?
+2026-05-17 H 1-0 v Eintracht Braunschweig | 2. Bundesliga | Gelsenkirchen
+2026-05-09 A 0-3 v 1. FC Nürnberg | 2. Bundesliga | Nuremberg
+Listed home: 7 games, scored 4 (0.57), conceded 8 (1.14), blanks 5, clean sheets 3
+Listed away: 13 games, scored 24 (1.85), conceded 19 (1.46), blanks 4, clean sheets 4
+All: 20 games, scored 28 (1.40), conceded 27 (1.35), blanks 9, clean sheets 7
+
 === RB Leipzig (id 173): last 20 finished games ===
 2026-10-27 A 2-1 v Rot-Weiß Essen | DFB Pokal | Essen | xG 2.33-1.38
 2026-10-24 H 4-0 v SV Elversberg | Bundesliga | Leipzig | xG 2.87-0.80
@@ -32,14 +53,7 @@ Listed home: 8 games, scored 26 (3.25), conceded 1 (0.12), blanks 0, clean sheet
 Listed away: 12 games, scored 17 (1.42), conceded 33 (2.75), blanks 2, clean sheets 1
 All: 20 games, scored 43 (2.15), conceded 34 (1.70), blanks 2, clean sheets 8
 
-(retrying Schalke 04 using the opponent's country, Germany)
-"Schalke 04" matches several teams. Use id:<number> instead of the name:
-  id:174    FC Schalke 04 (Germany)
-  id:7967   Schalke 04 U19 (Germany)
-  id:9373   Schalke 04 II (Germany)
-!! Schalke 04: Ambiguous team name "Schalke 04".
-
-TABLE FOR RB Leipzig
+TABLE FOR FC Schalke 04
 LEAGUE TABLE Bundesliga 2026 | 18 teams | 64 games played
 League averages per game: home 2.22, away 1.36, total 3.58
 #   team                   Pts | home P GF-GA  | away P GF-GA  | all P GF-GA
@@ -62,7 +76,9 @@ League averages per game: home 2.22, away 1.36, total 3.58
 17  Union Berlin             6 |  4   5-6       |  3   1-12      |  7   6-18
 18  Borussia Mönchengladba   3 |  3   7-10      |  4   4-12      |  7  11-22
 
-(16 API-Football requests used)
+(RB Leipzig: same table as FC Schalke 04, shown above)
+
+(24 API-Football requests used)
 
 ----------------------------------------------------------------------
 MATCHBOOK: skipped (switched off for this run)

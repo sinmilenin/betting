@@ -1,6 +1,6 @@
-MATCH Floridsdorfer AC v Kapfenberger SV | fetched 2026-10-31 11:59 local
+MATCH Floridsdorfer AC v Kapfenberg | fetched 2026-10-31 12:01 local
 
-FORM DATA Floridsdorfer AC v Kapfenberger SV | source API-Football | 2026-10-31 12:00 UTC
+FORM DATA Floridsdorfer AC v Kapfenberg | source API-Football | 2026-10-31 12:01 UTC
 H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
 
 === Floridsdorfer AC (id 1395): last 20 finished games ===
@@ -28,30 +28,14 @@ Listed home: 6 games, scored 9 (1.50), conceded 4 (0.67), blanks 2, clean sheets
 Listed away: 14 games, scored 19 (1.36), conceded 25 (1.79), blanks 4, clean sheets 3
 All: 20 games, scored 28 (1.40), conceded 29 (1.45), blanks 6, clean sheets 7
 
-=== Kapfenberger SV II (id 11224): last 20 finished games ===
-2014-05-17 H 1-0 v Villach | Regionalliga - Mitte | Kapfenberg
-2014-05-13 A 2-0 v Union Vöcklamarkt | Regionalliga - Mitte | Vöcklamarkt
-2014-05-09 H 1-2 v Lask Linz | Regionalliga - Mitte | Kapfenberg
-2014-05-02 A 2-1 v Union St. Florian | Regionalliga - Mitte | St. Florian
-2014-04-25 A 2-2 v Sturm Graz II | Regionalliga - Mitte | Graz
-2014-04-18 H 0-0 v SK Vorwarts Steyr | Regionalliga - Mitte | Kapfenberg
-2014-04-12 A 2-4 v SV Lafnitz | Regionalliga - Mitte | Lafnitz
-2014-04-05 H 1-5 v Allerheiligen | Regionalliga - Mitte | Kapfenberg
-2014-03-28 A 0-1 v Kalsdorf | Regionalliga - Mitte | Kalsdorf bei Graz
-2014-03-22 H 0-1 v FC BW Linz | Regionalliga - Mitte | Kapfenberg
-2014-03-14 A 0-3 v Lask Juniors Linz | Regionalliga - Mitte | Pasching
-2014-03-09 H 0-0 v SV Wallern | Regionalliga - Mitte | Kapfenberg
-2013-11-08 A 0-3 v Austria Klagenfurt | Regionalliga - Mitte | Klagenfurt am Wörthersee
-2013-11-03 A 1-5 v Austria Klagenfurt | Regionalliga - Mitte | Klagenfurt am Wörthersee
-2013-10-26 H 0-2 v Wolfsberger AC II | Regionalliga - Mitte | Kapfenberg
-2013-10-18 A 2-4 v Villach | Regionalliga - Mitte | Villach
-2013-10-12 H 0-0 v Union Vöcklamarkt | Regionalliga - Mitte | Kapfenberg
-2013-10-04 A 1-3 v Lask Linz | Regionalliga - Mitte | Linz
-2013-09-28 H 0-1 v Union St. Florian | Regionalliga - Mitte | Kapfenberg
-2013-09-21 H 1-1 v Sturm Graz II | Regionalliga - Mitte | Kapfenberg
-Listed home: 10 games, scored 4 (0.40), conceded 12 (1.20), blanks 6, clean sheets 4
-Listed away: 10 games, scored 12 (1.20), conceded 26 (2.60), blanks 3, clean sheets 1
-All: 20 games, scored 16 (0.80), conceded 38 (1.90), blanks 9, clean sheets 5
+"Kapfenberg" matches several teams. Use id:<number> instead of the name:
+  id:1401   SV Kapfenberg (Austria)
+  id:11224  Kapfenberger SV II (Austria)
+(retrying Kapfenberg using the opponent's country, Austria)
+"Kapfenberg" matches several teams. Use id:<number> instead of the name:
+  id:1401   SV Kapfenberg (Austria)
+  id:11224  Kapfenberger SV II (Austria)
+!! Kapfenberg: Ambiguous team name "Kapfenberg".
 
 TABLE FOR Floridsdorfer AC
 LEAGUE TABLE 2. Liga 2026 | 16 teams | 82 games played
@@ -74,9 +58,7 @@ League averages per game: home 1.78, away 1.33, total 3.11
 15  SV Kapfenberg            7 |  6   6-12      |  4   6-7       | 10  12-19
 16  Rapid Wien II            7 |  4   2-9       |  6   8-13      | 10  10-22
 
-(no league table available for Kapfenberger SV II: tried Regionalliga - Mitte 2013)
-
-(25 API-Football requests used)
+(15 API-Football requests used)
 
 ----------------------------------------------------------------------
 MATCHBOOK: skipped (switched off for this run)

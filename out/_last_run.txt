@@ -1,11 +1,7 @@
-RUN 2026-10-31 11:59 local | 6 match(es)
-Leyton Orient v Cambridge United -> out/Leyton_Orient_v_Cambridge_United.txt
-Augsburg v Freiburg -> out/Augsburg_v_Freiburg.txt
-    !! Augsburg: Ambiguous team name "Augsburg".
-    !! Freiburg: Ambiguous team name "Freiburg".
-Schalke 04 v RB Leipzig -> out/Schalke_04_v_RB_Leipzig.txt
-    !! Schalke 04: Ambiguous team name "Schalke 04".
-Bregenz v Admira Wacker -> out/Bregenz_v_Admira_Wacker.txt
-Dunav Ruse v Levski Sofia -> out/Dunav_Ruse_v_Levski_Sofia.txt
-Floridsdorfer AC v Kapfenberger SV -> out/Floridsdorfer_AC_v_Kapfenberger_SV.txt
-Requests used: API-Football 119, Matchbook 0
+RUN 2026-10-31 12:01 local | 4 match(es)
+id:170 v id:160 -> out/id_170_v_id_160.txt
+id:174 v RB Leipzig -> out/id_174_v_RB_Leipzig.txt
+Floridsdorfer AC v Kapfenberg -> out/Floridsdorfer_AC_v_Kapfenberg.txt
+    !! Kapfenberg: Ambiguous team name "Kapfenberg".
+Grimsby v York City -> out/Grimsby_v_York_City.txt
+Requests used: API-Football 94, Matchbook 0

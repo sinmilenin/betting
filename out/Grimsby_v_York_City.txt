@@ -1,0 +1,85 @@
+MATCH Grimsby v York City | fetched 2026-10-31 12:01 local
+
+FORM DATA Grimsby v York City | source API-Football | 2026-10-31 12:01 UTC
+H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
+
+=== Grimsby (id 1365): last 20 finished games ===
+2026-10-24 A 4-1 v Gillingham | League Two | Gillingham | xG 2.94-0.57
+2026-10-20 A 2-2 v Rochdale | League Two | Rochdale | xG 2.39-2.10
+2026-10-17 H 0-2 v Northampton | League Two | Cleethorpes | xG 2.24-2.28
+2026-10-10 A 0-1 v Port Vale | League Two | Stoke on Trent | xG 0.83-3.06
+2026-10-06 H 0-0 v Burton Albion | EFL Trophy | Grimsby [PEN, 90-min score shown]
+2026-10-03 H 1-2 v Shrewsbury | League Two | Cleethorpes | xG 2.05-1.18
+2026-09-26 A 1-2 v Newport County | League Two | Newport
+2026-09-22 A 1-2 v Notts County | EFL Trophy | Nottingham
+2026-09-19 H 2-0 v Crawley Town | League Two | Cleethorpes | xG 4.03-1.05
+2026-09-12 H 2-0 v Bristol Rovers | League Two | Cleethorpes | xG 1.19-0.12
+2026-09-05 A 2-2 v Cheltenham | League Two | Cheltenham
+2026-09-01 A 2-2 v Accrington ST | League Two | Accrington
+2026-08-29 H 2-2 v Fleetwood Town | League Two | Cleethorpes
+2026-08-22 A 0-0 v Walsall | League Two | Walsall
+2026-08-15 H 1-0 v Exeter City | League Two | Cleethorpes
+2026-08-08 H 1-3 v Blackpool | League Cup | Cleethorpes
+2026-08-04 H 3-2 v Grimsby Borough | Friendlies Clubs | ?
+2026-08-01 H 2-0 v Wigan | Friendlies Clubs | ?
+2026-07-29 A 0-0 v Boston United | Friendlies Clubs | ?
+2026-07-28 H 5-1 v Lincoln | Friendlies Clubs | ?
+Listed home: 11 games, scored 19 (1.73), conceded 12 (1.09), blanks 2, clean sheets 5
+Listed away: 9 games, scored 12 (1.33), conceded 12 (1.33), blanks 3, clean sheets 2
+All: 20 games, scored 31 (1.55), conceded 24 (1.20), blanks 5, clean sheets 7
+
+"York City" matches several teams. Use id:<number> instead of the name:
+  id:1604   New York City FC (USA)
+  id:18815  New York City II (USA)
+  id:20615  York City W (England)
+(retrying York City using the opponent's country, England)
+NOTE: "York City" matched 3 teams; picked York City W (England) because the opponent is from England. Others: New York City FC (USA), New York City II (USA)
+=== York City W (id 20615): last 9 finished games ===
+2026-01-18 A 0-3 v Chatham Town W | FA Women's Cup | ?
+2025-12-14 A 3-0 v Altrincham W | FA Women's Cup | Altrincham
+2025-11-23 H 3-1 v Wroxham W | FA Women's Cup | York
+2025-10-26 H 1-0 v Leeds Modernians W | FA Women's Cup | York
+2024-11-03 A 0-2 v Handsworth W | FA Women's Cup | Sheffield, South Yorkshire
+2024-10-13 H 5-2 v Fleetwood Town W | FA Women's Cup | York, Yorkshire
+2023-11-12 H 0-2 v United of Manchester W | FA Women's Cup | York, North Yorkshire
+2023-10-22 H 3-0 v Hull United W | FA Women's Cup | York, North Yorkshire
+2022-11-13 A 2-2 v Cheadle Town W | FA Women's Cup | Stockport, Greater Mancheste [AET, 90-min score shown]
+Listed home: 5 games, scored 12 (2.40), conceded 5 (1.00), blanks 1, clean sheets 2
+Listed away: 4 games, scored 5 (1.25), conceded 7 (1.75), blanks 2, clean sheets 1
+All: 9 games, scored 17 (1.89), conceded 12 (1.33), blanks 3, clean sheets 3
+
+TABLE FOR Grimsby
+LEAGUE TABLE League Two 2026 | 24 teams | 152 games played
+League averages per game: home 1.55, away 1.08, total 2.63
+#   team                   Pts | home P GF-GA  | away P GF-GA  | all P GF-GA
+1   Salford City            28 |  6   7-3       |  7  16-11      | 13  23-14
+2   Barnet                  25 |  7  15-10      |  5  12-7       | 12  27-17
+3   Cheltenham              21 |  7  14-10      |  6   8-12      | 13  22-22
+4   Crewe                   21 |  6  11-7       |  7   5-9       | 13  16-16
+5   York                    20 |  7  16-5       |  6   6-11      | 13  22-16
+6   Walsall                 19 |  6  10-6       |  6   8-5       | 12  18-11
+7   Chesterfield            19 |  7  16-9       |  7   8-12      | 14  24-21
+8   Exeter City             19 |  7   8-2       |  6   2-5       | 13  10-7
+9   Accrington ST           18 |  6  12-7       |  7  10-9       | 13  22-16
+10  Newport County          18 |  7  14-6       |  7   6-11      | 14  20-17
+11  Shrewsbury              18 |  6   7-6       |  7   9-14      | 13  16-20
+12  Grimsby                 17 |  6   8-6       |  7  11-10      | 13  19-16
+13  Gillingham              17 |  7   8-9       |  6  10-9       | 13  18-18
+14  Tranmere                16 |  6   9-6       |  7   7-10      | 13  16-16
+15  Swindon Town            16 |  6  10-6       |  7   3-10      | 13  13-16
+16  Bristol Rovers          16 |  7  11-8       |  6   5-12      | 13  16-20
+17  Rochdale                15 |  7  10-13      |  6   5-9       | 13  15-22
+18  Fleetwood Town          14 |  6   7-4       |  7   8-13      | 13  15-17
+19  Northampton             13 |  6   4-3       |  5   4-5       | 11   8-8
+20  Oldham                  12 |  6  11-7       |  6   3-11      | 12  14-18
+21  Colchester              12 |  5   5-3       |  7   6-13      | 12  11-16
+22  Rotherham               12 |  7  13-15      |  6   4-8       | 13  17-23
+23  Port Vale               12 |  5   4-1       |  6   2-11      | 11   6-12
+24  Crawley Town             6 |  6   6-12      |  5   6-9       | 11  12-21
+
+(no league table available for York City W: tried FA Women's Cup 2025, FA Women's Cup 2024, FA Women's Cup 2023, FA Women's Cup 2022)
+
+(29 API-Football requests used)
+
+----------------------------------------------------------------------
+MATCHBOOK: skipped (switched off for this run)
