@@ -1,6 +1,6 @@
-MATCH Kifisia v Olympiakos | fetched 2026-10-31 14:16 local
+MATCH Kifisia v Olympiakos Piraeus | fetched 2026-10-31 14:18 local
 
-FORM DATA Kifisia v Olympiakos | source API-Football | 2026-10-31 14:16 UTC
+FORM DATA Kifisia v Olympiakos Piraeus | source API-Football | 2026-10-31 14:18 UTC
 H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
 
 === Kifisia (id 5050): last 20 finished games ===
@@ -28,30 +28,30 @@ Listed home: 7 games, scored 7 (1.00), conceded 10 (1.43), blanks 3, clean sheet
 Listed away: 13 games, scored 22 (1.69), conceded 22 (1.69), blanks 3, clean sheets 2
 All: 20 games, scored 29 (1.45), conceded 32 (1.60), blanks 6, clean sheets 4
 
-=== Olympiakos (id 3415): last 20 finished games ===
-2026-10-30 A 0-1 v Karmiotissa | 1. Division | Pano Polemidia
-2026-10-24 H 1-1 v Krasava Ypsonas | 1. Division | Nicosia
-2026-10-19 A 2-2 v Omonia Nicosia | 1. Division | Nicosia | xG 0.90-5.15
-2026-10-11 H 1-2 v Aris | 1. Division | Nicosia | xG 0.80-2.82
-2026-09-20 A 1-1 v Omonia Aradippou | 1. Division | Larnaca
-2026-09-13 H 3-3 v Omonia 29is Maiou | 1. Division | Nicosia
-2026-09-07 A 0-0 v Pafos | 1. Division | Paphos
-2026-08-28 H 3-3 v Nea Salamis | 1. Division | Nicosia
-2026-05-15 H 1-0 v Anorthosis | 1. Division | Nicosia
-2026-05-09 A 3-1 v AEL | 1. Division | Kolossi | xG 0.97-1.12
-2026-05-01 H 2-1 v Omonia Aradippou | 1. Division | Nicosia
-2026-04-26 A 1-2 v Ethnikos Achna | 1. Division | Achna
-2026-04-19 H 0-1 v Akritas | 1. Division | Nicosia
-2026-04-04 A 3-1 v Enosis | 1. Division | Paralimni
-2026-03-21 A 0-1 v Krasava Ypsonas | 1. Division | Larnaca
-2026-03-15 A 0-5 v Omonia Nicosia | 1. Division | Nicosia
-2026-03-07 H 2-1 v Ethnikos Achna | 1. Division | Nicosia
-2026-03-01 A 1-1 v AEK Larnaca | 1. Division | Larnaca
-2026-02-21 H 1-3 v Akritas | 1. Division | Nicosia
-2026-02-15 H 0-0 v Omonia Aradippou | 1. Division | Nicosia
-Listed home: 10 games, scored 14 (1.40), conceded 15 (1.50), blanks 2, clean sheets 2
-Listed away: 10 games, scored 11 (1.10), conceded 15 (1.50), blanks 4, clean sheets 1
-All: 20 games, scored 25 (1.25), conceded 30 (1.50), blanks 6, clean sheets 3
+=== Olympiakos Piraeus (id 553): last 20 finished games ===
+2026-10-28 A 2-0 v Marko | Cup | ?
+2026-10-25 H 5-0 v Kalamata | Super League 1 | Piraeus | xG 0.00-0.00
+2026-10-22 H 1-0 v Sparta Praha | UEFA Europa League | Piraeus | xG 2.17-0.73
+2026-10-18 A 2-0 v Panetolikos | Super League 1 | Agrinon | xG 2.52-1.31
+2026-10-15 A 1-0 v Marseille | UEFA Europa League | Marseille | xG 0.63-0.90
+2026-10-11 H 1-0 v Panathinaikos | Super League 1 | Piraeus | xG 0.64-0.45
+2026-09-20 A 1-0 v Levadiakos | Super League 1 | Levadia | xG 1.17-0.37
+2026-09-16 H 2-1 v Jagiellonia | UEFA Europa League | Piraeus | xG 2.53-0.52
+2026-09-12 H 0-1 v OFI | Super League 1 | Piraeus | xG 1.39-0.87
+2026-09-08 H 3-2 v Volos NFC | Cup | Piraeus
+2026-09-05 A 1-1 v Volos NFC | Super League 1 | Volos
+2026-09-02 A 4-0 v Larisa | Cup | Larissa
+2026-08-30 A 1-0 v Asteras Tripolis | Super League 1 | Tripoli
+2026-08-22 H 1-0 v Atromitos | Super League 1 | Piraeus
+2026-08-11 A 1-1 v NEC Nijmegen | UEFA Champions League | Nijmegen [AET, 90-min score shown]
+2026-08-04 H 0-0 v NEC Nijmegen | UEFA Champions League | Piraeus
+2026-07-25 A 2-3 v AZ Alkmaar | Friendlies Clubs | ?
+2026-07-24 A 0-3 v Antwerp | Friendlies Clubs | ?
+2026-07-18 A 0-1 v Ajax | Friendlies Clubs | Ouder-Amstel
+2026-07-17 H 3-1 v Fortuna Sittard | Friendlies Clubs | ?
+Listed home: 9 games, scored 16 (1.78), conceded 5 (0.56), blanks 2, clean sheets 5
+Listed away: 11 games, scored 15 (1.36), conceded 9 (0.82), blanks 2, clean sheets 6
+All: 20 games, scored 31 (1.55), conceded 14 (0.70), blanks 4, clean sheets 11
 
 TABLE FOR Kifisia
 LEAGUE TABLE Super League 1 2026 | 14 teams | 55 games played
@@ -72,26 +72,9 @@ League averages per game: home 1.75, away 1.02, total 2.76
 13  Atromitos                2 |  3   3-5       |  4   3-7       |  7   6-12
 14  Volos NFC                0 |  4   3-5       |  4   3-8       |  8   6-13
 
-TABLE FOR Olympiakos
-LEAGUE TABLE 1. Division 2026 | 14 teams | 50 games played
-League averages per game: home 1.46, away 1.42, total 2.88
-#   team                   Pts | home P GF-GA  | away P GF-GA  | all P GF-GA
-1   AEK Larnaca             16 |  4   6-2       |  3   7-3       |  7  13-5
-2   Apollon Limassol        15 |  3   9-5       |  4  10-3       |  7  19-8
-3   AEL                     15 |  4   7-5       |  3   4-6       |  7  11-11
-4   Omonia Nicosia          12 |  4   6-3       |  3   7-3       |  7  13-6
-5   Pafos                   12 |  3   0-2       |  4   7-1       |  7   7-3
-6   Aris                    12 |  4   4-7       |  3   6-2       |  7  10-9
-7   Apoel Nicosia           11 |  3  12-2       |  4   4-7       |  7  16-9
-8   Omonia 29is Maiou        8 |  3   4-4       |  4   8-9       |  7  12-13
-9   Karmiotissa              6 |  5   2-12      |  3   3-4       |  8   5-16
-10  Anorthosis               6 |  3   5-4       |  4   1-9       |  7   6-13
-11  Omonia Aradippou         6 |  3   3-4       |  4   1-4       |  7   4-8
-12  Olympiakos               6 |  4   8-9       |  4   3-4       |  8  11-13
-13  Nea Salamis              5 |  3   4-4       |  4   7-11      |  7  11-15
-14  Krasava Ypsonas          4 |  4   3-8       |  3   3-7       |  7   6-15
+(Olympiakos Piraeus: same table as Kifisia, shown above)
 
-(27 API-Football requests used)
+(26 API-Football requests used)
 
 ----------------------------------------------------------------------
 MATCHBOOK: skipped (switched off for this run)
