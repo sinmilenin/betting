@@ -1,5 +1,3 @@
-RUN 2026-10-31 16:29 local | 2 match(es)
-Guingamp v Saint Etienne -> out/Guingamp_v_Saint_Etienne.txt
-GKS Katowice v Widzew -> out/GKS_Katowice_v_Widzew.txt
-    !! Widzew: Ambiguous team name "Widzew".
-Requests used: API-Football 41, Matchbook 0
+RUN 2026-10-31 16:30 local | 1 match(es)
+id:3484 v id:6962 -> out/id_3484_v_id_6962.txt
+Requests used: API-Football 26, Matchbook 0

@@ -1,6 +1,6 @@
-MATCH GKS Katowice v Widzew | fetched 2026-10-31 16:29 local
+MATCH id:3484 v id:6962 | fetched 2026-10-31 16:30 local
 
-FORM DATA GKS Katowice v Widzew | source API-Football | 2026-10-31 16:29 UTC
+FORM DATA id:3484 v id:6962 | source API-Football | 2026-10-31 16:30 UTC
 H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
 
 === GKS Katowice (id 3484): last 20 finished games ===
@@ -28,16 +28,30 @@ Listed home: 10 games, scored 23 (2.30), conceded 10 (1.00), blanks 1, clean she
 Listed away: 10 games, scored 10 (1.00), conceded 17 (1.70), blanks 5, clean sheets 0
 All: 20 games, scored 33 (1.65), conceded 27 (1.35), blanks 6, clean sheets 1
 
-"Widzew" matches several teams. Use id:<number> instead of the name:
-  id:6962   Widzew Łódź (Poland)
-  id:21862  Widzew Łódź U19 (Poland)
-  id:26178  Widzew II (Poland)
-(retrying Widzew using the opponent's country, Poland)
-"Widzew" matches several teams. Use id:<number> instead of the name:
-  id:6962   Widzew Łódź (Poland)
-  id:21862  Widzew Łódź U19 (Poland)
-  id:26178  Widzew II (Poland)
-!! Widzew: Ambiguous team name "Widzew".
+=== Widzew Łódź (id 6962): last 20 finished games ===
+2026-10-23 H 1-1 v Gornik Zabrze | Ekstraklasa | Lodz | xG 0.78-1.93
+2026-10-16 H 0-0 v Wisla Krakow | Ekstraklasa | Lodz | xG 0.58-2.49
+2026-10-11 A 1-2 v Piast Gliwice | Ekstraklasa | Gliwice | xG 1.76-1.64
+2026-09-26 H 2-2 v Górnik Łęczna | Friendlies Clubs | ?
+2026-09-18 H 2-2 v Wieczysta Kraków | Ekstraklasa | Lodz | xG 1.14-2.27
+2026-09-13 A 1-1 v Legia Warszawa | Ekstraklasa | Warsaw | xG 1.60-1.46
+2026-09-05 H 0-0 v Radomiak Radom | Ekstraklasa | Lodz | xG 1.59-1.69
+2026-09-02 H 0-1 v Korona Kielce | Cup | Lodz
+2026-08-30 H 2-3 v Lech Poznan | Ekstraklasa | Lodz | xG 0.80-1.89
+2026-08-22 A 3-3 v Slask Wroclaw | Ekstraklasa | Wroclaw | xG 1.29-1.83
+2026-08-15 H 1-2 v Korona Kielce | Ekstraklasa | Lodz
+2026-08-09 A 2-0 v Jagiellonia | Ekstraklasa | Bialystok
+2026-07-31 A 0-0 v Wisla Plock | Ekstraklasa | Plock
+2026-07-26 H 2-2 v Motor Lublin | Ekstraklasa | Lodz
+2026-07-19 H 2-0 v Puszcza Niepołomice | Friendlies Clubs | ?
+2026-07-13 H 4-3 v Mannsdorf-Großenzersdorf | Friendlies Clubs | ?
+2026-07-10 H 2-0 v Beşiktaş | Friendlies Clubs | ?
+2026-07-04 H 0-0 v Dunajska Streda | Friendlies Clubs | ?
+2026-06-27 H 4-0 v Stal Rzeszów | Friendlies Clubs | ?
+2026-05-23 H 2-1 v Piast Gliwice | Ekstraklasa | Lodz
+Listed home: 15 games, scored 24 (1.60), conceded 17 (1.13), blanks 4, clean sheets 6
+Listed away: 5 games, scored 7 (1.40), conceded 6 (1.20), blanks 1, clean sheets 2
+All: 20 games, scored 31 (1.55), conceded 23 (1.15), blanks 5, clean sheets 8
 
 TABLE FOR GKS Katowice
 LEAGUE TABLE Ekstraklasa 2026 | 18 teams | 110 games played
@@ -62,7 +76,9 @@ League averages per game: home 1.64, away 1.32, total 2.95
 17  Radomiak Radom           8 |  6   7-10      |  6   5-18      | 12  12-28
 18  Raków Częstochowa        6 |  6   9-17      |  6   7-11      | 12  16-28
 
-(16 API-Football requests used)
+(Widzew Łódź: same table as GKS Katowice, shown above)
+
+(26 API-Football requests used)
 
 ----------------------------------------------------------------------
 MATCHBOOK: skipped (switched off for this run)
