@@ -1,11 +1,33 @@
-MATCH Norrkoping v Ostersunds FK | fetched 2026-10-31 09:44 local
+MATCH id:378 v Ostersunds FK | fetched 2026-10-31 09:45 local
 
-FORM DATA Norrkoping v Ostersunds FK | source API-Football | 2026-10-31 09:44 UTC
+FORM DATA id:378 v Ostersunds FK | source API-Football | 2026-10-31 09:45 UTC
 H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
 
-"Norrkoping" matches several teams. Use id:<number> instead of the name:
-  id:378    IFK Norrkoping (Sweden)
-  id:16008  Norrköping W (Sweden)
+=== IFK Norrkoping (id 378): last 20 finished games ===
+2026-10-25 A 4-0 v Norrby IF | Superettan | Boras
+2026-10-20 H 2-2 v Orebro SK | Superettan | Norrköping
+2026-10-13 H 4-0 v GIF Sundsvall | Superettan | Norrköping
+2026-10-06 H 0-0 v Kalmar FF | Friendlies Clubs | ?
+2026-09-19 A 3-1 v Osters IF | Superettan | Växjö
+2026-09-13 H 0-0 v Oddevold | Superettan | Norrkoping
+2026-09-10 A 2-0 v Varbergs BoIS FC | Superettan | Varberg
+2026-09-04 H 2-2 v Ljungskile SK | Superettan | Norrkoping
+2026-08-29 A 3-1 v United Nordic | Superettan | Sodertalje
+2026-08-24 H 2-1 v Falkenbergs FF | Superettan | ?
+2026-08-20 A 1-1 v Vasalund | Svenska Cupen | ? [AET, 90-min score shown]
+2026-08-15 A 4-1 v Sandviken | Superettan | Sandviken
+2026-08-08 H 3-0 v IK brage | Superettan | Norrkoping
+2026-08-01 H 2-0 v Helsingborg | Superettan | Norrkoping
+2026-07-28 A 1-0 v Landskrona BoIS | Superettan | Landskrona
+2026-07-19 H 3-0 v Sandviken | Superettan | ?
+2026-06-28 H 0-1 v Norrby IF | Superettan | ?
+2026-06-21 A 2-0 v Ostersunds FK | Superettan | Ostersund
+2026-06-15 H 2-0 v Varbergs BoIS FC | Superettan | Norrkoping
+2026-06-09 A 2-1 v Oddevold | Superettan | Uddevalla
+Listed home: 11 games, scored 20 (1.82), conceded 6 (0.55), blanks 3, clean sheets 7
+Listed away: 9 games, scored 22 (2.44), conceded 5 (0.56), blanks 0, clean sheets 4
+All: 20 games, scored 42 (2.10), conceded 11 (0.55), blanks 3, clean sheets 11
+
 === Ostersunds FK (id 376): last 20 finished games ===
 2026-10-24 H 4-1 v United Nordic | Superettan | Ostersund
 2026-10-17 A 0-0 v Sandviken | Superettan | Sandviken
@@ -31,13 +53,7 @@ Listed home: 10 games, scored 13 (1.30), conceded 9 (0.90), blanks 2, clean shee
 Listed away: 10 games, scored 10 (1.00), conceded 8 (0.80), blanks 3, clean sheets 4
 All: 20 games, scored 23 (1.15), conceded 17 (0.85), blanks 5, clean sheets 9
 
-(retrying Norrkoping using the opponent's country, Sweden)
-"Norrkoping" matches several teams. Use id:<number> instead of the name:
-  id:378    IFK Norrkoping (Sweden)
-  id:16008  Norrköping W (Sweden)
-!! Norrkoping: Ambiguous team name "Norrkoping".
-
-TABLE FOR Ostersunds FK
+TABLE FOR IFK Norrkoping
 LEAGUE TABLE Superettan 2026 | 16 teams | 225 games played
 League averages per game: home 1.56, away 1.36, total 2.92
 #   team                   Pts | home P GF-GA  | away P GF-GA  | all P GF-GA
@@ -58,7 +74,9 @@ League averages per game: home 1.56, away 1.36, total 2.92
 15  IK brage                26 | 14  29-30      | 15  17-27      | 29  46-57
 16  GIF Sundsvall           19 | 14  14-29      | 14   5-36      | 28  19-65
 
-(15 API-Football requests used)
+(Ostersunds FK: same table as IFK Norrkoping, shown above)
+
+(25 API-Football requests used)
 
 ----------------------------------------------------------------------
 MATCHBOOK: skipped (switched off for this run)

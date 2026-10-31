@@ -1,14 +1,33 @@
-MATCH Wolfsburg v VfL Osnabruck | fetched 2026-10-31 09:44 local
+MATCH id:161 v VfL Osnabruck | fetched 2026-10-31 09:45 local
 
-FORM DATA Wolfsburg v VfL Osnabruck | source API-Football | 2026-10-31 09:44 UTC
+FORM DATA id:161 v VfL Osnabruck | source API-Football | 2026-10-31 09:45 UTC
 H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
 
-"Wolfsburg" matches several teams. Use id:<number> instead of the name:
-  id:161    VfL Wolfsburg (Germany)
-  id:1863   VfL Wolfsburg W (Germany)
-  id:9348   Wolfsburg II (Germany)
-  id:10278  Wolfsburg U19 (Germany)
-  id:22294  Wolfsburg II W (Germany)
+=== VfL Wolfsburg (id 161): last 20 finished games ===
+2026-10-28 A 2-3 v SC Freiburg | DFB Pokal | Freiburg | xG 1.48-1.72
+2026-10-23 A 1-1 v VfL Bochum | 2. Bundesliga | Bochum | xG 0.76-1.55
+2026-10-17 H 3-1 v 1. FC Heidenheim | 2. Bundesliga | Wolfsburg | xG 1.60-1.98
+2026-10-10 A 4-4 v 1. FC Nürnberg | 2. Bundesliga | Nuremberg | xG 3.71-2.38
+2026-10-01 H 4-1 v Havelse | Friendlies Clubs | Wolfsburg
+2026-09-18 H 5-1 v SV Darmstadt 98 | 2. Bundesliga | Wolfsburg | xG 1.72-1.23
+2026-09-12 A 0-1 v FC St. Pauli | 2. Bundesliga | Hamburg | xG 0.54-0.93
+2026-09-05 H 4-4 v Energie Cottbus | 2. Bundesliga | Wolfsburg | xG 3.82-3.05
+2026-08-29 A 5-2 v Karlsruher SC | 2. Bundesliga | Karlsruhe | xG 3.03-1.59
+2026-08-24 A 2-2 v Altglienicke | DFB Pokal | Berlin [PEN, 90-min score shown]
+2026-08-16 A 1-0 v Hannover 96 | 2. Bundesliga | Hannover
+2026-08-08 H 0-0 v 1. FC Kaiserslautern | 2. Bundesliga | Wolfsburg
+2026-07-31 H 3-1 v Telstar | Friendlies Clubs | ?
+2026-07-24 H 0-2 v Lyon | Friendlies Clubs | ?
+2026-07-18 H 3-0 v Verl | Friendlies Clubs | ?
+2026-07-11 A 8-2 v Schöningen | Friendlies Clubs | ?
+2026-05-25 A 1-1 v SC Paderborn 07 | Bundesliga | Paderborn [AET, 90-min score shown]
+2026-05-21 H 0-0 v SC Paderborn 07 | Bundesliga | Wolfsburg
+2026-05-16 A 3-1 v FC St. Pauli | Bundesliga | Hamburg
+2026-05-09 H 0-1 v Bayern München | Bundesliga | Wolfsburg
+Listed home: 10 games, scored 22 (2.20), conceded 11 (1.10), blanks 4, clean sheets 3
+Listed away: 10 games, scored 27 (2.70), conceded 17 (1.70), blanks 1, clean sheets 1
+All: 20 games, scored 49 (2.45), conceded 28 (1.40), blanks 5, clean sheets 4
+
 === VfL Osnabrück (id 1324): last 20 finished games ===
 2026-10-25 H 3-0 v SpVgg Greuther Fürth | 2. Bundesliga | Osnabruck | xG 2.47-0.58
 2026-10-18 A 1-2 v Arminia Bielefeld | 2. Bundesliga | Bielefeld | xG 1.41-1.04
@@ -34,16 +53,7 @@ Listed home: 9 games, scored 10 (1.11), conceded 16 (1.78), blanks 3, clean shee
 Listed away: 11 games, scored 29 (2.64), conceded 20 (1.82), blanks 1, clean sheets 3
 All: 20 games, scored 39 (1.95), conceded 36 (1.80), blanks 4, clean sheets 4
 
-(retrying Wolfsburg using the opponent's country, Germany)
-"Wolfsburg" matches several teams. Use id:<number> instead of the name:
-  id:161    VfL Wolfsburg (Germany)
-  id:1863   VfL Wolfsburg W (Germany)
-  id:9348   Wolfsburg II (Germany)
-  id:10278  Wolfsburg U19 (Germany)
-  id:22294  Wolfsburg II W (Germany)
-!! Wolfsburg: Ambiguous team name "Wolfsburg".
-
-TABLE FOR VfL Osnabrück
+TABLE FOR VfL Wolfsburg
 LEAGUE TABLE 2. Bundesliga 2026 | 18 teams | 83 games played
 League averages per game: home 1.78, away 1.25, total 3.04
 #   team                   Pts | home P GF-GA  | away P GF-GA  | all P GF-GA
@@ -66,7 +76,9 @@ League averages per game: home 1.78, away 1.25, total 3.04
 17  Karlsruher SC            8 |  5   8-10      |  4   3-10      |  9  11-20
 18  SV Darmstadt 98          8 |  5   7-5       |  4   1-13      |  9   8-18
 
-(15 API-Football requests used)
+(VfL Osnabrück: same table as VfL Wolfsburg, shown above)
+
+(26 API-Football requests used)
 
 ----------------------------------------------------------------------
 MATCHBOOK: skipped (switched off for this run)
