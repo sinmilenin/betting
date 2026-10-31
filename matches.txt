@@ -29,3 +29,4 @@ Barnsley v Oxford United | n=20 | xg=10
 Wolves v Cardiff | n=20 | xg=10
 Feyenoord v Fortuna Sittard | n=20 | xg=10
 Moreirense v Estrela | n=20 | xg=10
+PSV v Willem II | n=20 | xg=10
