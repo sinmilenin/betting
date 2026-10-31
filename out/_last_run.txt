@@ -1,5 +1,11 @@
-RUN 2026-10-31 11:17 local | 3 match(es)
-id:17115 v Jagiellonia -> out/id_17115_v_Jagiellonia.txt
-Real Sociedad II v Girona -> out/Real_Sociedad_II_v_Girona.txt
-id:3719 v Teplice -> out/id_3719_v_Teplice.txt
-Requests used: API-Football 78, Matchbook 0
+RUN 2026-10-31 11:59 local | 6 match(es)
+Leyton Orient v Cambridge United -> out/Leyton_Orient_v_Cambridge_United.txt
+Augsburg v Freiburg -> out/Augsburg_v_Freiburg.txt
+    !! Augsburg: Ambiguous team name "Augsburg".
+    !! Freiburg: Ambiguous team name "Freiburg".
+Schalke 04 v RB Leipzig -> out/Schalke_04_v_RB_Leipzig.txt
+    !! Schalke 04: Ambiguous team name "Schalke 04".
+Bregenz v Admira Wacker -> out/Bregenz_v_Admira_Wacker.txt
+Dunav Ruse v Levski Sofia -> out/Dunav_Ruse_v_Levski_Sofia.txt
+Floridsdorfer AC v Kapfenberger SV -> out/Floridsdorfer_AC_v_Kapfenberger_SV.txt
+Requests used: API-Football 119, Matchbook 0

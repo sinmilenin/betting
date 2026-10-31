@@ -1,0 +1,29 @@
+MATCH Augsburg v Freiburg | fetched 2026-10-31 11:59 local
+
+FORM DATA Augsburg v Freiburg | source API-Football | 2026-10-31 11:59 UTC
+H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
+
+"Augsburg" matches several teams. Use id:<number> instead of the name:
+  id:170    FC Augsburg (Germany)
+  id:9324   Augsburg II (Germany)
+  id:10247  Augsburg U19 (Germany)
+  id:12849  Schwaben Augsburg (Germany)
+  id:12882  Türkspor Augsburg (Germany)
+"Freiburg" matches several teams. Use id:<number> instead of the name:
+  id:160    SC Freiburg (Germany)
+  id:1867   SC Freiburg W (Germany)
+  id:9363   Freiburg II (Germany)
+  id:10255  Freiburg U19 (Germany)
+  id:16115  Freiburger FC (Germany)
+  id:20479  Freiburg-Zähringen W (Germany)
+  id:24534  Freiburg II W (Germany)
+  id:26712  Freiburg-St. Georgen W (Germany)
+  id:27942  Freiburger U19 (Germany)
+!! Augsburg: Ambiguous team name "Augsburg".
+
+!! Freiburg: Ambiguous team name "Freiburg".
+
+(2 API-Football requests used)
+
+----------------------------------------------------------------------
+MATCHBOOK: skipped (switched off for this run)
