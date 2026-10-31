@@ -603,5 +603,82 @@
     "lay": 11.5,
     "stake": 3,
     "created": "2026-10-31T15:47:18+00:00"
+  },
+  {
+    "id": "2026-10-31_manisa-fk-batman-petrolspor_0-1",
+    "date": "2026-10-31",
+    "ko": "17:00",
+    "match": "Manisa FK v Batman Petrolspor",
+    "comp": "Turkey, Turkish 1 Lig",
+    "cell": "0-1",
+    "lay": 15.0,
+    "stake": 3,
+    "created": "2026-10-31T15:50:32+00:00"
+  },
+  {
+    "id": "2026-10-31_first-vienna-fc-1894-fc-blau-weiss-linz_2-2",
+    "date": "2026-10-31",
+    "ko": "17:00",
+    "match": "First Vienna Fc 1894 v FC Blau Weiss Linz",
+    "comp": "Austria, Austrian Erste Liga",
+    "cell": "2-2",
+    "lay": 16.0,
+    "stake": 3,
+    "created": "2026-10-31T15:50:32+00:00"
+  },
+  {
+    "id": "2026-10-31_camioneros-excursionistas_1-0",
+    "date": "2026-10-31",
+    "ko": "19:00",
+    "match": "Camioneros v Excursionistas",
+    "comp": "Argentina, Argentinian Primera B Metropolitana",
+    "cell": "1-0",
+    "lay": 8.2,
+    "stake": 3,
+    "created": "2026-10-31T15:50:32+00:00"
+  },
+  {
+    "id": "2026-10-31_san-martin-sj-gimnasia-jujuy_1-0",
+    "date": "2026-10-31",
+    "ko": "19:00",
+    "match": "San Martin SJ v Gimnasia Jujuy",
+    "comp": "Argentina, Argentinian Primera Nacional",
+    "cell": "1-0",
+    "lay": 7.0,
+    "stake": 3,
+    "created": "2026-10-31T15:50:32+00:00"
+  },
+  {
+    "id": "2026-10-31_ca-atlanta-fc-midland_1-0",
+    "date": "2026-10-31",
+    "ko": "19:00",
+    "match": "CA Atlanta v FC Midland",
+    "comp": "Argentina, Argentinian Primera Nacional",
+    "cell": "1-0",
+    "lay": 5.8,
+    "stake": 3,
+    "created": "2026-10-31T15:50:32+00:00"
+  },
+  {
+    "id": "2026-10-31_sampdoria-entella_2-2",
+    "date": "2026-10-31",
+    "ko": "19:30",
+    "match": "Sampdoria v Entella",
+    "comp": "Italy, Italian Serie B",
+    "cell": "2-2",
+    "lay": 20.0,
+    "stake": 3,
+    "created": "2026-10-31T15:50:32+00:00"
+  },
+  {
+    "id": "2026-10-31_sampdoria-entella_1-0",
+    "date": "2026-10-31",
+    "ko": "19:30",
+    "match": "Sampdoria v Entella",
+    "comp": "Italy, Italian Serie B",
+    "cell": "1-0",
+    "lay": 8.4,
+    "stake": 3,
+    "created": "2026-10-31T15:50:32+00:00"
   }
 ]
