@@ -86,5 +86,71 @@
     "lay": 18.5,
     "stake": 3,
     "created": "2026-10-31T07:30:30Z"
+  },
+  {
+    "id": "2026-10-31_psm-makassar-madura-utd_1-0",
+    "date": "2026-10-31",
+    "ko": "09:30",
+    "match": "PSM Makassar v Madura Utd",
+    "comp": "Indonesia, Indonesian Super League",
+    "cell": "1-0",
+    "lay": 10,
+    "stake": 3,
+    "created": "2026-10-31T09:16:43+01:00"
+  },
+  {
+    "id": "2026-10-31_macarthur-fc-western-sydney-wanderers_0-2",
+    "date": "2026-10-31",
+    "ko": "09:40",
+    "match": "Macarthur FC v Western Sydney Wanderers",
+    "comp": "Australia, Australian A-League Men",
+    "cell": "0-2",
+    "lay": 16,
+    "stake": 3,
+    "created": "2026-10-31T09:16:43+01:00"
+  },
+  {
+    "id": "2026-10-31_zhenys-fk-kaisar_1-3",
+    "date": "2026-10-31",
+    "ko": "11:00",
+    "match": "Zhenys v FK Kaisar",
+    "comp": "Kazakhstan, Kazakhstan Premier League",
+    "cell": "1-3",
+    "lay": 20,
+    "stake": 3,
+    "created": "2026-10-31T09:16:43+01:00"
+  },
+  {
+    "id": "2026-10-31_zhenys-fk-kaisar_aoaw",
+    "date": "2026-10-31",
+    "ko": "11:00",
+    "match": "Zhenys v FK Kaisar",
+    "comp": "Kazakhstan, Kazakhstan Premier League",
+    "cell": "AOAW",
+    "lay": 14,
+    "stake": 3,
+    "created": "2026-10-31T09:16:43+01:00"
+  },
+  {
+    "id": "2026-10-31_irtysh-pavlodar-fc-ordabasy_2-2",
+    "date": "2026-10-31",
+    "ko": "11:00",
+    "match": "Irtysh Pavlodar v FC Ordabasy",
+    "comp": "Kazakhstan, Kazakhstan Premier League",
+    "cell": "2-2",
+    "lay": 16,
+    "stake": 3,
+    "created": "2026-10-31T09:16:43+01:00"
+  },
+  {
+    "id": "2026-10-31_tobol-kostanay-fk-aktobe_0-1",
+    "date": "2026-10-31",
+    "ko": "11:00",
+    "match": "Tobol Kostanay v FK Aktobe",
+    "comp": "Kazakhstan, Kazakhstan Premier League",
+    "cell": "0-1",
+    "lay": 16,
+    "stake": 3,
+    "created": "2026-10-31T09:16:43+01:00"
   }
 ]
