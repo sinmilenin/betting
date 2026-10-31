@@ -207,5 +207,38 @@
     "lay": 16,
     "stake": 3,
     "created": "2026-10-31T09:47:54Z"
+  },
+  {
+    "id": "2026-10-31_sv-darmstadt-fc-magdeburg_2-2",
+    "date": "2026-10-31",
+    "ko": "13:00",
+    "match": "SV Darmstadt v FC Magdeburg",
+    "comp": "Germany, German Bundesliga 2",
+    "cell": "2-2",
+    "lay": 14,
+    "stake": 3,
+    "created": "2026-10-31T10:31:16Z"
+  },
+  {
+    "id": "2026-10-31_kaiserslautern-hertha-berlin_2-2",
+    "date": "2026-10-31",
+    "ko": "13:00",
+    "match": "Kaiserslautern v Hertha Berlin",
+    "comp": "Germany, German Bundesliga 2",
+    "cell": "2-2",
+    "lay": 14,
+    "stake": 3,
+    "created": "2026-10-31T10:31:16Z"
+  },
+  {
+    "id": "2026-10-31_kocaelispor-rizespor_2-2",
+    "date": "2026-10-31",
+    "ko": "14:00",
+    "match": "Kocaelispor v Rizespor",
+    "comp": "Turkey, Turkish Super League",
+    "cell": "2-2",
+    "lay": 17,
+    "stake": 3,
+    "created": "2026-10-31T10:31:16Z"
   }
 ]
