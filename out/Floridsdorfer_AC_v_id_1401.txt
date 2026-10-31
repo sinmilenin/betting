@@ -1,6 +1,6 @@
-MATCH Floridsdorfer AC v Kapfenberg | fetched 2026-10-31 12:01 local
+MATCH Floridsdorfer AC v id:1401 | fetched 2026-10-31 12:02 local
 
-FORM DATA Floridsdorfer AC v Kapfenberg | source API-Football | 2026-10-31 12:01 UTC
+FORM DATA Floridsdorfer AC v id:1401 | source API-Football | 2026-10-31 12:02 UTC
 H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
 
 === Floridsdorfer AC (id 1395): last 20 finished games ===
@@ -28,14 +28,30 @@ Listed home: 6 games, scored 9 (1.50), conceded 4 (0.67), blanks 2, clean sheets
 Listed away: 14 games, scored 19 (1.36), conceded 25 (1.79), blanks 4, clean sheets 3
 All: 20 games, scored 28 (1.40), conceded 29 (1.45), blanks 6, clean sheets 7
 
-"Kapfenberg" matches several teams. Use id:<number> instead of the name:
-  id:1401   SV Kapfenberg (Austria)
-  id:11224  Kapfenberger SV II (Austria)
-(retrying Kapfenberg using the opponent's country, Austria)
-"Kapfenberg" matches several teams. Use id:<number> instead of the name:
-  id:1401   SV Kapfenberg (Austria)
-  id:11224  Kapfenberger SV II (Austria)
-!! Kapfenberg: Ambiguous team name "Kapfenberg".
+=== SV Kapfenberg (id 1401): last 20 finished games ===
+2026-10-23 H 1-1 v SKN ST. Polten | 2. Liga | Kapfenberg
+2026-10-18 A 2-0 v Sturm Graz II | 2. Liga | Gleisdorf
+2026-10-09 H 0-1 v Austria Vienna (Am) | 2. Liga | Kapfenberg
+2026-09-24 A 0-5 v TSV Hartberg | Friendlies Clubs | ?
+2026-09-18 H 3-4 v SKU Amstetten | 2. Liga | Kapfenberg
+2026-09-11 A 0-1 v Admira Wacker | 2. Liga | Maria Enzersdorf
+2026-09-04 H 0-1 v WSPG Wels | Cup | Kapfenberg
+2026-08-28 H 2-1 v FC BW Linz | 2. Liga | Kapfenberg
+2026-08-21 A 2-3 v Austria Salzburg | 2. Liga | Salzburg
+2026-08-15 H 0-1 v Wacker Innsbruck | 2. Liga | Kapfenberg
+2026-08-08 A 2-3 v Schwarz-Weiß Bregenz | 2. Liga | Bregenz
+2026-07-31 H 0-4 v FC Liefering | 2. Liga | Kapfenberg
+2026-07-25 A 4-1 v Treibach | Cup | ?
+2026-07-17 A 1-6 v Wolfsberger AC | Friendlies Clubs | ?
+2026-07-11 A 0-1 v Grazer AK | Friendlies Clubs | ?
+2026-07-03 A 7-2 v Deutschlandsberger SC | Friendlies Clubs | ?
+2026-06-26 A 2-0 v Mattersburg SV 2020 | Friendlies Clubs | ?
+2026-06-18 A 0-1 v Austria Klagenfurt | Friendlies Clubs | ?
+2026-05-14 A 2-1 v Austria Vienna (Am) | 2. Liga | Vienna
+2026-05-08 H 0-3 v SKN ST. Polten | 2. Liga | Kapfenberg
+Listed home: 8 games, scored 6 (0.75), conceded 16 (2.00), blanks 5, clean sheets 0
+Listed away: 12 games, scored 22 (1.83), conceded 24 (2.00), blanks 4, clean sheets 2
+All: 20 games, scored 28 (1.40), conceded 40 (2.00), blanks 9, clean sheets 2
 
 TABLE FOR Floridsdorfer AC
 LEAGUE TABLE 2. Liga 2026 | 16 teams | 82 games played
@@ -58,7 +74,9 @@ League averages per game: home 1.78, away 1.33, total 3.11
 15  SV Kapfenberg            7 |  6   6-12      |  4   6-7       | 10  12-19
 16  Rapid Wien II            7 |  4   2-9       |  6   8-13      | 10  10-22
 
-(15 API-Football requests used)
+(SV Kapfenberg: same table as Floridsdorfer AC, shown above)
+
+(25 API-Football requests used)
 
 ----------------------------------------------------------------------
 MATCHBOOK: skipped (switched off for this run)

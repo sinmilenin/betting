@@ -1,7 +1,4 @@
-RUN 2026-10-31 12:01 local | 4 match(es)
-id:170 v id:160 -> out/id_170_v_id_160.txt
-id:174 v RB Leipzig -> out/id_174_v_RB_Leipzig.txt
-Floridsdorfer AC v Kapfenberg -> out/Floridsdorfer_AC_v_Kapfenberg.txt
-    !! Kapfenberg: Ambiguous team name "Kapfenberg".
-Grimsby v York City -> out/Grimsby_v_York_City.txt
-Requests used: API-Football 94, Matchbook 0
+RUN 2026-10-31 12:02 local | 2 match(es)
+Floridsdorfer AC v id:1401 -> out/Floridsdorfer_AC_v_id_1401.txt
+Grimsby v York -> out/Grimsby_v_York.txt
+Requests used: API-Football 50, Matchbook 0
