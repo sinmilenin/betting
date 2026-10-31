@@ -1,0 +1,84 @@
+MATCH Kocaelispor v Rizespor | fetched 2026-10-31 10:27 local
+
+FORM DATA Kocaelispor v Rizespor | source API-Football | 2026-10-31 10:27 UTC
+H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
+
+=== Kocaelispor (id 7411): last 20 finished games ===
+2026-10-27 H 3-0 v Mazıdağı Fosfatspor | Türkiye Kupası | ?
+2026-10-23 A 2-1 v Alanyaspor | Süper Lig | Alanya | xG 1.69-0.79
+2026-10-18 H 1-2 v Göztepe | Süper Lig | Kocaeli | xG 1.61-0.83
+2026-10-11 A 1-2 v Beşiktaş | Süper Lig | Istanbul | xG 1.65-2.21
+2026-09-19 H 2-0 v Gaziantep FK | Süper Lig | Kocaeli | xG 1.30-1.03
+2026-09-13 A 0-1 v Galatasaray | Süper Lig | Istanbul | xG 0.82-2.26
+2026-09-06 H 1-0 v Samsunspor | Süper Lig | Kocaeli | xG 1.59-1.74
+2026-08-29 A 2-1 v Konyaspor | Süper Lig | Konya | xG 0.76-0.85
+2026-08-24 H 2-0 v Amed | Süper Lig | Kocaeli | xG 1.31-0.60
+2026-08-16 A 0-2 v Başakşehir | Süper Lig | Istanbul | xG 0.43-1.96
+2026-05-17 A 0-1 v Antalyaspor | Süper Lig | Antalya
+2026-05-09 H 0-1 v Fatih Karagümrük | Süper Lig | Izmit
+2026-05-03 A 1-1 v Kasımpaşa | Süper Lig | Istanbul
+2026-04-26 A 0-1 v Gençlerbirliği S.K. | Süper Lig | Ankara
+2026-04-18 H 1-1 v Göztepe | Süper Lig | Izmit
+2026-04-12 A 1-1 v Galatasaray | Süper Lig | Istanbul
+2026-04-06 H 0-0 v Başakşehir | Süper Lig | Izmit
+2026-03-18 A 0-5 v Alanyaspor | Süper Lig | Alanya
+2026-03-14 H 1-2 v Konyaspor | Süper Lig | Izmit
+2026-03-09 A 1-0 v Eyüpspor | Süper Lig | Istanbul
+Listed home: 9 games, scored 11 (1.22), conceded 6 (0.67), blanks 2, clean sheets 5
+Listed away: 11 games, scored 8 (0.73), conceded 16 (1.45), blanks 5, clean sheets 1
+All: 20 games, scored 19 (0.95), conceded 22 (1.10), blanks 7, clean sheets 6
+
+=== Rizespor (id 1007): last 20 finished games ===
+2026-10-26 H 3-4 v Trabzonspor | Süper Lig | Rize | xG 1.90-2.69
+2026-10-16 A 1-2 v Çorum FK | Süper Lig | Corum | xG 0.84-0.71
+2026-10-10 H 0-3 v Fenerbahçe | Süper Lig | Rize | xG 1.52-0.96
+2026-10-03 H 3-0 v Boluspor | Friendlies Clubs | ?
+2026-09-20 A 2-2 v Göztepe | Süper Lig | Izmir | xG 0.78-2.78
+2026-09-12 A 2-0 v Eyüpspor | Süper Lig | Esenyurt | xG 2.05-1.42
+2026-09-07 H 0-1 v Alanyaspor | Süper Lig | Rize | xG 1.28-2.07
+2026-08-29 A 2-1 v Gaziantep FK | Süper Lig | Gaziantep | xG 1.17-0.79
+2026-08-22 H 0-2 v Samsunspor | Süper Lig | Rize | xG 1.85-0.33
+2026-08-15 A 1-0 v Konyaspor | Süper Lig | Konya | xG 1.52-0.62
+2026-08-08 H 2-1 v Pyramids FC | Friendlies Clubs | ?
+2026-07-31 H 0-0 v Abha | Friendlies Clubs | ?
+2026-07-28 H 1-2 v Hull City | Friendlies Clubs | ?
+2026-07-25 A 3-1 v NK Osijek | Friendlies Clubs | ?
+2026-07-17 A 0-0 v Erzurumspor FK | Friendlies Clubs | ?
+2026-07-15 H 3-0 v Dinamo Batumi | Friendlies Clubs | ?
+2026-05-15 H 2-2 v Beşiktaş | Süper Lig | Rize
+2026-05-09 A 0-4 v Eyüpspor | Süper Lig | Istanbul
+2026-05-01 H 3-2 v Konyaspor | Süper Lig | Rize
+2026-04-25 A 0-2 v Kayserispor | Süper Lig | Kayseri
+Listed home: 11 games, scored 17 (1.55), conceded 17 (1.55), blanks 4, clean sheets 3
+Listed away: 9 games, scored 11 (1.22), conceded 12 (1.33), blanks 3, clean sheets 3
+All: 20 games, scored 28 (1.40), conceded 29 (1.45), blanks 7, clean sheets 6
+
+TABLE FOR Kocaelispor
+LEAGUE TABLE Süper Lig 2026 | 18 teams | 82 games played
+League averages per game: home 1.65, away 1.27, total 2.91
+#   team                   Pts | home P GF-GA  | away P GF-GA  | all P GF-GA
+1   Galatasaray             25 |  5  11-6       |  5  12-6       | 10  23-12
+2   Amed                    20 |  5  14-3       |  4   6-7       |  9  20-10
+3   Trabzonspor             19 |  4  13-1       |  5   9-7       |  9  22-8
+4   Beşiktaş                18 |  5  14-3       |  4   4-7       |  9  18-10
+5   Fenerbahçe              16 |  4  16-4       |  5   7-4       |  9  23-8
+6   Kasımpaşa               16 |  4   7-4       |  5   6-5       |  9  13-9
+7   Kocaelispor             15 |  4   6-2       |  5   5-7       |  9  11-9
+8   Erzurumspor FK          14 |  4   4-4       |  5   4-8       |  9   8-12
+9   Çorum FK                13 |  4   6-4       |  5  12-11      |  9  18-15
+10  Göztepe                 12 |  4   6-7       |  5  13-9       |  9  19-16
+11  Alanyaspor              12 |  4   4-4       |  5   5-7       |  9   9-11
+12  Başakşehir              11 |  5  11-5       |  4   1-9       |  9  12-14
+13  Rizespor                10 |  4   3-10      |  5   8-5       |  9  11-15
+14  Gaziantep FK             8 |  5   3-9       |  4   6-6       |  9   9-15
+15  Konyaspor                8 |  6   4-7       |  4   2-6       | 10   6-13
+16  Gençlerbirliği S.K.      8 |  5   6-7       |  4   1-11      |  9   7-18
+17  Samsunspor               4 |  5   5-15      |  4   3-6       |  9   8-21
+18  Eyüpspor                 3 |  5   2-9       |  4   0-14      |  9   2-23
+
+(Rizespor: same table as Kocaelispor, shown above)
+
+(26 API-Football requests used)
+
+----------------------------------------------------------------------
+MATCHBOOK: skipped (switched off for this run)

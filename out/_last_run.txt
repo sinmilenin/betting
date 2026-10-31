@@ -1,7 +1,5 @@
-RUN 2026-10-31 09:45 local | 5 match(es)
-id:378 v Ostersunds FK -> out/id_378_v_Ostersunds_FK.txt
-id:161 v VfL Osnabruck -> out/id_161_v_VfL_Osnabruck.txt
-id:745 v Hertha BSC -> out/id_745_v_Hertha_BSC.txt
-id:181 v id:179 -> out/id_181_v_id_179.txt
-id:75 v Preston -> out/id_75_v_Preston.txt
-Requests used: API-Football 124, Matchbook 0
+RUN 2026-10-31 10:27 local | 3 match(es)
+Wisla Plock v Piast Gliwice -> out/Wisla_Plock_v_Piast_Gliwice.txt
+Everton W v Manchester United W -> out/Everton_W_v_Manchester_United_W.txt
+Kocaelispor v Rizespor -> out/Kocaelispor_v_Rizespor.txt
+Requests used: API-Football 78, Matchbook 0
