@@ -1,2 +1,13 @@
-# 2026-10-31 17:30 scan retry 2 (Widzew id)
-id:3484 v id:6962 | n=20 | xg=10
+# 2026-10-31 18:15 scan (Europe/Ljubljana)
+New York City v CF Montreal | n=20 | xg=10
+St Louis City v San Diego | n=20 | xg=10
+Karlsruher SC v Heidenheim | n=20 | xg=10
+Luzern v Sion | n=20 | xg=10
+Anderlecht v Westerlo | n=20 | xg=10
+Waasland-Beveren v Union St. Gilloise | n=20 | xg=10
+Troyes v Le Mans | n=20 | xg=10
+Deportivo Riestra v Talleres Cordoba | n=20 | xg=10
+Albacete v Sabadell | n=20 | xg=10
+Ajax v AZ Alkmaar | n=20 | xg=10
+Cambuur v Go Ahead Eagles | n=20 | xg=10
+Coritiba v Vitoria | n=20 | xg=10
