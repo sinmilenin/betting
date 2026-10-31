@@ -1,0 +1,120 @@
+MATCH Alianza Atletico v Juan Pablo II | fetched 2026-10-31 17:57 local
+
+FORM DATA Alianza Atletico v Juan Pablo II | source API-Football | 2026-10-31 17:57 UTC
+H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
+
+=== Alianza Atletico (id 2560): last 20 finished games ===
+2026-10-28 H 3-2 v Deportivo Garcilaso | Primera División | Sullana | xG 1.52-1.19
+2026-10-24 A 1-4 v Sport Huancayo | Primera División | Huancayo
+2026-10-18 H 1-4 v Universitario | Primera División | Sullana | xG 0.47-1.05
+2026-10-11 A 3-1 v Sport Boys | Primera División | Callao | xG 1.73-1.76
+2026-10-06 H 3-0 v Sport Boys | Copa De La Liga | Sullana
+2026-09-27 A 0-3 v Sport Boys | Copa De La Liga | Sullana
+2026-09-18 H 2-1 v Comerciantes Unidos | Primera División | Sullana
+2026-09-13 A 1-3 v Atletico Grau | Primera División | Piura | xG 0.59-2.45
+2026-09-04 H 3-2 v UTC Cajamarca | Primera División | Sullana
+2026-08-30 A 4-1 v UCV Moquegua | Primera División | Moquegua
+2026-08-25 H 1-1 v UTC Cajamarca | Copa De La Liga | Sullana [PEN, 90-min score shown]
+2026-08-21 H 3-1 v Sporting Cristal | Primera División | Sullana
+2026-08-15 A 1-1 v ADT | Primera División | Tarma
+2026-08-06 H 1-0 v Cienciano | Primera División | Sullana
+2026-08-02 A 1-3 v Alianza Lima | Primera División | Lima
+2026-07-24 H 3-1 v Club Deportivo Los Chankas | Primera División | Sullana
+2026-07-18 A 1-4 v Cusco | Primera División | Cusco
+2026-07-10 H 3-2 v Molinos El Pirata | Copa De La Liga | Sullana
+2026-06-28 A 2-1 v Alianza Lima | Copa De La Liga | Lima
+2026-06-19 H 2-0 v Cesar Vallejo | Copa De La Liga | Sullana
+Listed home: 11 games, scored 25 (2.27), conceded 14 (1.27), blanks 0, clean sheets 3
+Listed away: 9 games, scored 14 (1.56), conceded 21 (2.33), blanks 1, clean sheets 0
+All: 20 games, scored 39 (1.95), conceded 35 (1.75), blanks 1, clean sheets 3
+
+=== Juan Pablo II College (id 22479): last 20 finished games ===
+2026-10-27 H 2-0 v Sport Huancayo | Primera División | Chongoyape | xG 1.30-0.83
+2026-10-25 A 0-3 v Universitario | Primera División | Lima | xG 0.12-2.04
+2026-10-17 H 2-0 v Sport Boys | Primera División | Chongoyape | xG 1.45-0.63
+2026-10-10 A 1-1 v Comerciantes Unidos | Primera División | Cutervo | xG 1.10-2.07
+2026-09-20 H 4-0 v UCV Moquegua | Primera División | Chongoyape
+2026-09-11 A 2-1 v UTC Cajamarca | Primera División | Cajamarca
+2026-09-06 H 1-1 v Alianza Lima | Primera División | Chongoyape | xG 0.50-0.59
+2026-08-29 A 4-3 v Club Deportivo Los Chankas | Primera División | Andahuaylas | xG 3.55-1.28
+2026-08-22 H 5-1 v ADT | Primera División | Chongoyape
+2026-08-14 A 0-2 v Cusco | Primera División | Cusco
+2026-08-08 H 0-0 v Atletico Grau | Primera División | Chongoyape
+2026-08-02 A 0-2 v Sporting Cristal | Primera División | Lima
+2026-07-25 H 2-0 v Cienciano | Primera División | Chongoyape
+2026-07-17 A 2-2 v FC Cajamarca | Primera División | Cajamarca
+2026-06-27 A 0-0 v Comerciantes Unidos | Copa De La Liga | Cutervo
+2026-06-20 H 0-0 v Deportiva Agropecuaria | Copa De La Liga | Chongoyape
+2026-05-30 A 1-4 v Deportivo Garcilaso | Primera División | Cusco
+2026-05-22 H 1-1 v FBC Melgar | Primera División | Chongoyape
+2026-05-16 H 0-2 v Alianza Atletico | Primera División | Chongoyape
+2026-05-10 A 1-2 v Sport Huancayo | Primera División | Huancayo
+Listed home: 10 games, scored 17 (1.70), conceded 5 (0.50), blanks 3, clean sheets 6
+Listed away: 10 games, scored 11 (1.10), conceded 20 (2.00), blanks 4, clean sheets 1
+All: 20 games, scored 28 (1.40), conceded 25 (1.25), blanks 7, clean sheets 7
+
+TABLE FOR Alianza Atletico
+LEAGUE TABLE Primera División 2026 | 54 teams | 278 games played
+League averages per game: home 1.72, away 1.09, total 2.81
+#   team                   Pts | home P GF-GA  | away P GF-GA  | all P GF-GA
+1   Alianza Lima            65 |  0   0-0       |  0   0-0       | 31  52-23 [Primera Division: Tabla Anual]
+2   Universitario           56 |  0   0-0       |  0   0-0       | 30  52-34 [Primera Division: Tabla Anual]
+3   FBC Melgar              54 |  0   0-0       |  0   0-0       | 31  54-35 [Primera Division: Tabla Anual]
+4   Deportivo Garcilaso     51 |  0   0-0       |  0   0-0       | 31  47-33 [Primera Division: Tabla Anual]
+5   Cusco                   51 |  0   0-0       |  0   0-0       | 31  46-43 [Primera Division: Tabla Anual]
+6   Cienciano               50 |  0   0-0       |  0   0-0       | 31  53-43 [Primera Division: Tabla Anual]
+7   Sporting Cristal        47 |  0   0-0       |  0   0-0       | 31  57-47 [Primera Division: Tabla Anual]
+8   Alianza Atletico        46 |  0   0-0       |  0   0-0       | 31  48-46 [Primera Division: Tabla Anual]
+9   Club Deportivo Los Cha  46 |  0   0-0       |  0   0-0       | 31  39-51 [Primera Division: Tabla Anual]
+10  Sport Huancayo          44 |  0   0-0       |  0   0-0       | 31  44-48 [Primera Division: Tabla Anual]
+11  Sport Boys              41 |  0   0-0       |  0   0-0       | 30  34-33 [Primera Division: Tabla Anual]
+12  Juan Pablo II College   41 |  0   0-0       |  0   0-0       | 31  47-56 [Primera Division: Tabla Anual]
+13  Comerciantes Unidos     35 |  0   0-0       |  0   0-0       | 31  42-45 [Primera Division: Tabla Anual]
+14  Atletico Grau           34 |  0   0-0       |  0   0-0       | 31  28-38 [Primera Division: Tabla Anual]
+15  ADT                     30 |  0   0-0       |  0   0-0       | 31  33-45 [Primera Division: Tabla Anual]
+16  FC Cajamarca            28 |  0   0-0       |  0   0-0       | 31  44-60 [Primera Division: Tabla Anual]
+17  UCV Moquegua            28 |  0   0-0       |  0   0-0       | 31  25-46 [Primera Division: Tabla Anual]
+18  UTC Cajamarca           18 |  0   0-0       |  0   0-0       | 31  36-55 [Primera Division: Tabla Anual]
+1   Alianza Lima            40 |  8  22-4       |  9   8-4       | 17  30-8 [Primera Division: Apertura]
+2   Club Deportivo Los Cha  34 |  9  16-8       |  8   9-13      | 17  25-21 [Primera Division: Apertura]
+3   Cienciano               33 |  9  22-9       |  8  12-13      | 17  34-22 [Primera Division: Apertura]
+4   Universitario           29 |  9  15-6       |  8   9-9       | 17  24-15 [Primera Division: Apertura]
+5   FBC Melgar              28 |  9  19-8       |  8  10-12      | 17  29-20 [Primera Division: Apertura]
+6   Cusco                   27 |  8  11-6       |  9  10-18      | 17  21-24 [Primera Division: Apertura]
+7   Deportivo Garcilaso     26 |  9  17-9       |  8   4-9       | 17  21-18 [Primera Division: Apertura]
+8   Alianza Atletico        21 |  8  11-5       |  9   9-13      | 17  20-18 [Primera Division: Apertura]
+9   Comerciantes Unidos     21 |  9   9-5       |  8   9-15      | 17  18-20 [Primera Division: Apertura]
+10  ADT                     20 |  9  14-9       |  8   8-12      | 17  22-21 [Primera Division: Apertura]
+11  Sport Boys              20 |  9   9-5       |  8   6-14      | 17  15-19 [Primera Division: Apertura]
+12  Sporting Cristal        19 |  8  17-12      |  9  11-18      | 17  28-30 [Primera Division: Apertura]
+13  UTC Cajamarca           18 |  8   9-8       |  9  12-18      | 17  21-26 [Primera Division: Apertura]
+14  UCV Moquegua            18 |  8  13-9       |  9   4-15      | 17  17-24 [Primera Division: Apertura]
+15  FC Cajamarca            17 |  8  16-13      |  9   7-15      | 17  23-28 [Primera Division: Apertura]
+16  Atletico Grau           16 |  8   8-6       |  9   4-12      | 17  12-18 [Primera Division: Apertura]
+17  Sport Huancayo          16 |  8  12-9       |  9   9-22      | 17  21-31 [Primera Division: Apertura]
+18  Juan Pablo II College   16 |  9  13-19      |  8   9-21      | 17  22-40 [Primera Division: Apertura]
+1   Sporting Cristal        28 |  7  22-6       |  7   7-11      | 14  29-17 [Primera Division: Clausura]
+2   Sport Huancayo          28 |  7  14-8       |  7   9-9       | 14  23-17 [Primera Division: Clausura]
+3   Universitario           27 |  6  13-6       |  7  15-13      | 13  28-19 [Primera Division: Clausura]
+4   FBC Melgar              26 |  7  14-10      |  7  11-5       | 14  25-15 [Primera Division: Clausura]
+5   Deportivo Garcilaso     25 |  7  20-6       |  7   6-9       | 14  26-15 [Primera Division: Clausura]
+6   Juan Pablo II College   25 |  7  16-2       |  7   9-14      | 14  25-16 [Primera Division: Clausura]
+7   Alianza Lima            25 |  7  12-6       |  7  10-9       | 14  22-15 [Primera Division: Clausura]
+8   Alianza Atletico        25 |  7  16-11      |  7  12-17      | 14  28-28 [Primera Division: Clausura]
+9   Cusco                   24 |  7  16-6       |  7   9-13      | 14  25-19 [Primera Division: Clausura]
+10  Sport Boys              21 |  7  15-7       |  6   4-7       | 13  19-14 [Primera Division: Clausura]
+11  Atletico Grau           18 |  7   9-4       |  7   7-16      | 14  16-20 [Primera Division: Clausura]
+12  Cienciano               17 |  7   9-6       |  7  10-15      | 14  19-21 [Primera Division: Clausura]
+13  Comerciantes Unidos     14 |  6  11-9       |  8  13-16      | 14  24-25 [Primera Division: Clausura]
+14  Club Deportivo Los Cha  12 |  7  10-13      |  7   4-17      | 14  14-30 [Primera Division: Clausura]
+15  FC Cajamarca            11 |  8   9-21      |  6  12-11      | 14  21-32 [Primera Division: Clausura]
+16  ADT                     10 |  7   7-8       |  7   4-16      | 14  11-24 [Primera Division: Clausura]
+17  UCV Moquegua            10 |  7   5-12      |  7   3-10      | 14   8-22 [Primera Division: Clausura]
+18  UTC Cajamarca            5 |  7   6-13      |  7   9-16      | 14  15-29 [Primera Division: Clausura]
+
+(Juan Pablo II College: same table as Alianza Atletico, shown above)
+
+(25 API-Football requests used)
+
+----------------------------------------------------------------------
+MATCHBOOK: skipped (switched off for this run)

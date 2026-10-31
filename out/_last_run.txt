@@ -1,4 +1,5 @@
-RUN 2026-10-31 17:17 local | 2 match(es)
-id:20787 v San Diego -> out/id_20787_v_San_Diego.txt
-SK Beveren v id:1393 -> out/SK_Beveren_v_id_1393.txt
-Requests used: API-Football 50, Matchbook 0
+RUN 2026-10-31 17:57 local | 2 match(es)
+LASK Linz v WSG Tirol -> out/LASK_Linz_v_WSG_Tirol.txt
+    !! WSG Tirol: No team found for "WSG Tirol".
+Alianza Atletico v Juan Pablo II -> out/Alianza_Atletico_v_Juan_Pablo_II.txt
+Requests used: API-Football 40, Matchbook 0
