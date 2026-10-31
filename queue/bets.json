@@ -33,116 +33,6 @@
     "created": "2026-10-31T06:49:21+00:00"
   },
   {
-    "id": "2026-10-31_fk-ulytau-zhezkazgan-fk-atyrau_1-2",
-    "date": "2026-10-31",
-    "ko": "11:00",
-    "match": "FK Ulytau Zhezkazgan v FK Atyrau",
-    "comp": "Kazakhstan, Kazakhstan Premier League",
-    "cell": "1-2",
-    "lay": 10.5,
-    "stake": 3,
-    "created": "2026-10-31T07:30:30Z"
-  },
-  {
-    "id": "2026-10-31_fk-ulytau-zhezkazgan-fk-atyrau_1-3",
-    "date": "2026-10-31",
-    "ko": "11:00",
-    "match": "FK Ulytau Zhezkazgan v FK Atyrau",
-    "comp": "Kazakhstan, Kazakhstan Premier League",
-    "cell": "1-3",
-    "lay": 18.5,
-    "stake": 3,
-    "created": "2026-10-31T07:30:30Z"
-  },
-  {
-    "id": "2026-10-31_zhenys-fk-kaisar_1-3",
-    "date": "2026-10-31",
-    "ko": "11:00",
-    "match": "Zhenys v FK Kaisar",
-    "comp": "Kazakhstan, Kazakhstan Premier League",
-    "cell": "1-3",
-    "lay": 20,
-    "stake": 3,
-    "created": "2026-10-31T09:16:43+01:00"
-  },
-  {
-    "id": "2026-10-31_zhenys-fk-kaisar_aoaw",
-    "date": "2026-10-31",
-    "ko": "11:00",
-    "match": "Zhenys v FK Kaisar",
-    "comp": "Kazakhstan, Kazakhstan Premier League",
-    "cell": "AOAW",
-    "lay": 14,
-    "stake": 3,
-    "created": "2026-10-31T09:16:43+01:00"
-  },
-  {
-    "id": "2026-10-31_irtysh-pavlodar-fc-ordabasy_2-2",
-    "date": "2026-10-31",
-    "ko": "11:00",
-    "match": "Irtysh Pavlodar v FC Ordabasy",
-    "comp": "Kazakhstan, Kazakhstan Premier League",
-    "cell": "2-2",
-    "lay": 16,
-    "stake": 3,
-    "created": "2026-10-31T09:16:43+01:00"
-  },
-  {
-    "id": "2026-10-31_tobol-kostanay-fk-aktobe_0-1",
-    "date": "2026-10-31",
-    "ko": "11:00",
-    "match": "Tobol Kostanay v FK Aktobe",
-    "comp": "Kazakhstan, Kazakhstan Premier League",
-    "cell": "0-1",
-    "lay": 16,
-    "stake": 3,
-    "created": "2026-10-31T09:16:43+01:00"
-  },
-  {
-    "id": "2026-10-31_zhenys-fk-kaisar_0-2",
-    "date": "2026-10-31",
-    "ko": "11:00",
-    "match": "Zhenys v FK Kaisar",
-    "comp": "Kazakhstan, Kazakhstan Premier League",
-    "cell": "0-2",
-    "lay": 9.6,
-    "stake": 3,
-    "created": "2026-10-31T10:01:19+01:00"
-  },
-  {
-    "id": "2026-10-31_zhenys-fk-kaisar_0-3",
-    "date": "2026-10-31",
-    "ko": "11:00",
-    "match": "Zhenys v FK Kaisar",
-    "comp": "Kazakhstan, Kazakhstan Premier League",
-    "cell": "0-3",
-    "lay": 16,
-    "stake": 3,
-    "created": "2026-10-31T10:01:19+01:00"
-  },
-  {
-    "id": "2026-10-31_zhenys-fk-kaisar_1-2",
-    "date": "2026-10-31",
-    "ko": "11:00",
-    "match": "Zhenys v FK Kaisar",
-    "comp": "Kazakhstan, Kazakhstan Premier League",
-    "cell": "1-2",
-    "lay": 9.8,
-    "stake": 3,
-    "created": "2026-10-31T10:01:19+01:00"
-  },
-  {
-    "id": "2026-10-31_irtysh-pavlodar-fc-ordabasy_1-0",
-    "date": "2026-10-31",
-    "ko": "11:00",
-    "match": "Irtysh Pavlodar v FC Ordabasy",
-    "comp": "Kazakhstan, Kazakhstan Premier League",
-    "cell": "1-0",
-    "lay": 18,
-    "stake": 3,
-    "created": "2026-10-31T10:01:19+01:00"
-  },
-  {
     "id": "2026-10-31_norrkoping-ostersunds-fk_2-2",
     "date": "2026-10-31",
     "ko": "13:00",
@@ -680,5 +570,16 @@
     "lay": 8.4,
     "stake": 3,
     "created": "2026-10-31T15:50:32+00:00"
+  },
+  {
+    "id": "2026-10-31_kansas-city-fc-dallas_0-1",
+    "date": "2026-10-31",
+    "ko": "20:00",
+    "match": "Kansas City v FC Dallas",
+    "comp": "United States, US MLS",
+    "cell": "0-1",
+    "lay": 15.5,
+    "stake": 3,
+    "created": "2026-10-31T16:32:00Z"
   }
 ]
