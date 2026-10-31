@@ -1,7 +1,68 @@
-RUN 2026-10-31 12:18 local | 5 match(es)
-id:16611 v id:4562 -> out/id_16611_v_id_4562.txt
-id:21010 v id:4564 -> out/id_21010_v_id_4564.txt
-id:4565 v id:692 -> out/id_4565_v_id_692.txt
-id:2259 v id:4563 -> out/id_2259_v_id_4563.txt
-id:15550 v id:939 -> out/id_15550_v_id_939.txt
-Requests used: API-Football 22, Matchbook 0
+RUN 2026-10-31 12:46 local | 31 match(es)
+Hoffenheim II v Viktoria Koln -> out/Hoffenheim_II_v_Viktoria_Koln.txt
+    !! Viktoria Koln: Ambiguous team name "Viktoria Koln".
+Jahn Regensburg v Hansa Rostock -> out/Jahn_Regensburg_v_Hansa_Rostock.txt
+    !! Jahn Regensburg: Ambiguous team name "Jahn Regensburg".
+Swansea v Blackburn -> out/Swansea_v_Blackburn.txt
+Wycombe v Burton Albion -> out/Wycombe_v_Burton_Albion.txt
+Accrington v Northampton -> out/Accrington_v_Northampton.txt
+    !! Accrington: Ambiguous team name "Accrington".
+Burnley v Portsmouth -> out/Burnley_v_Portsmouth.txt
+KV Mechelen v Genk -> out/KV_Mechelen_v_Genk.txt
+Leicester v Stevenage -> out/Leicester_v_Stevenage.txt
+Peterborough v Luton -> out/Peterborough_v_Luton.txt
+Wigan v Bromley -> out/Wigan_v_Bromley.txt
+Oldham v Crawley Town -> out/Oldham_v_Crawley_Town.txt
+Shrewsbury v Gillingham -> out/Shrewsbury_v_Gillingham.txt
+Swindon v Rotherham -> out/Swindon_v_Rotherham.txt
+    !! Swindon: Ambiguous team name "Swindon".
+Boreham Wood v Hartlepool -> out/Boreham_Wood_v_Hartlepool.txt
+West Ham v West Brom -> out/West_Ham_v_West_Brom.txt
+    !! West Ham: API-Football error: HTTP 429 from API-Football
+    !! West Brom: API-Football error: HTTP 429 from API-Football
+Salford City v Exeter -> out/Salford_City_v_Exeter.txt
+    !! Salford City: API-Football error: HTTP 429 from API-Football
+    !! Exeter: API-Football error: HTTP 429 from API-Football
+Kilmarnock v St Johnstone -> out/Kilmarnock_v_St_Johnstone.txt
+    !! Kilmarnock: API-Football error: HTTP 429 from API-Football
+    !! St Johnstone: API-Football error: HTTP 429 from API-Football
+Southampton v QPR -> out/Southampton_v_QPR.txt
+    !! Southampton: API-Football error: HTTP 429 from API-Football
+    !! QPR: API-Football error: HTTP 429 from API-Football
+Middlesbrough v Charlton -> out/Middlesbrough_v_Charlton.txt
+    !! Middlesbrough: API-Football error: HTTP 429 from API-Football
+    !! Charlton: API-Football error: HTTP 429 from API-Football
+Mansfield v Notts County -> out/Mansfield_v_Notts_County.txt
+    !! Mansfield: API-Football error: HTTP 429 from API-Football
+    !! Notts County: API-Football error: HTTP 429 from API-Football
+Fredrikstad v Rosenborg -> out/Fredrikstad_v_Rosenborg.txt
+    !! Fredrikstad: API-Football error: HTTP 429 from API-Football
+    !! Rosenborg: API-Football error: HTTP 429 from API-Football
+Fleetwood Town v Bristol Rovers -> out/Fleetwood_Town_v_Bristol_Rovers.txt
+    !! Fleetwood Town: API-Football error: HTTP 429 from API-Football
+    !! Bristol Rovers: API-Football error: HTTP 429 from API-Football
+Tranmere v Cheltenham -> out/Tranmere_v_Cheltenham.txt
+    !! Tranmere: API-Football error: HTTP 429 from API-Football
+    !! Cheltenham: API-Football error: HTTP 429 from API-Football
+Bolton v Bristol City -> out/Bolton_v_Bristol_City.txt
+    !! Bolton: API-Football error: HTTP 429 from API-Football
+    !! Bristol City: API-Football error: HTTP 429 from API-Football
+Millwall v Derby -> out/Millwall_v_Derby.txt
+    !! Millwall: API-Football error: HTTP 429 from API-Football
+    !! Derby: API-Football error: HTTP 429 from API-Football
+Stockport v AFC Wimbledon -> out/Stockport_v_AFC_Wimbledon.txt
+    !! Stockport: API-Football error: HTTP 429 from API-Football
+    !! AFC Wimbledon: API-Football error: HTTP 429 from API-Football
+Barnsley v Oxford United -> out/Barnsley_v_Oxford_United.txt
+    !! Barnsley: API-Football error: HTTP 429 from API-Football
+    !! Oxford United: API-Football error: HTTP 429 from API-Football
+Wolves v Cardiff -> out/Wolves_v_Cardiff.txt
+    !! Wolves: API-Football error: HTTP 429 from API-Football
+    !! Cardiff: API-Football error: HTTP 429 from API-Football
+Feyenoord v Fortuna Sittard -> out/Feyenoord_v_Fortuna_Sittard.txt
+    !! Feyenoord: API-Football error: HTTP 429 from API-Football
+    !! Fortuna Sittard: API-Football error: HTTP 429 from API-Football
+Moreirense v Estrela -> out/Moreirense_v_Estrela.txt
+PSV v Willem II -> out/PSV_v_Willem_II.txt
+    !! PSV: Ambiguous team name "PSV".
+Requests used: API-Football 342, Matchbook 0

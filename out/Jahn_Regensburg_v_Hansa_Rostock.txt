@@ -1,0 +1,70 @@
+MATCH Jahn Regensburg v Hansa Rostock | fetched 2026-10-31 12:46 local
+
+FORM DATA Jahn Regensburg v Hansa Rostock | source API-Football | 2026-10-31 12:46 UTC
+H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
+
+"Jahn Regensburg" matches several teams. Use id:<number> instead of the name:
+  id:177    SSV Jahn Regensburg (Germany)
+  id:12798  Jahn Regensburg II (Germany)
+  id:24541  Jahn Regensburg U19 (Germany)
+=== Hansa Rostock (id 1321): last 20 finished games ===
+2026-10-24 H 1-1 v Fortuna Düsseldorf | 3. Liga | Rostock
+2026-10-17 A 0-2 v Alemannia Aachen | 3. Liga | Aachen
+2026-10-13 H 0-2 v SV Meppen | 3. Liga | Rostock | xG 1.02-2.26
+2026-10-10 A 2-0 v Würzburger Kickers | 3. Liga | Wuerzburg | xG 3.11-1.05
+2026-09-20 A 1-1 v Rot-Weiß Essen | 3. Liga | Essen
+2026-09-16 H 3-2 v Stuttgart II | 3. Liga | Rostock
+2026-09-11 A 0-4 v FC Viktoria Köln | 3. Liga | Cologne
+2026-09-05 H 1-1 v SV Wehen | 3. Liga | Rostock
+2026-08-30 A 4-2 v FC Saarbrücken | 3. Liga | ?
+2026-08-21 H 0-4 v VfB Stuttgart | DFB Pokal | Rostock
+2026-08-16 H 3-3 v Waldhof Mannheim | 3. Liga | Rostock
+2026-08-09 A 3-2 v Hoffenheim II | 3. Liga | Sinsheim
+2026-08-02 H 4-1 v Neustrelitz | Friendlies Clubs | ?
+2026-08-01 H 1-3 v Borussia Mönchengladbach | Friendlies Clubs | ?
+2026-07-25 A 0-3 v Watford | Friendlies Clubs | ?
+2026-07-15 H 3-0 v Greifswalder FC | Friendlies Clubs | ?
+2026-07-11 H 2-2 v Hvidovre | Friendlies Clubs | ?
+2026-07-08 A 4-0 v Anker Wismar | Friendlies Clubs | ?
+2026-05-16 A 4-3 v FC Saarbrücken | 3. Liga | Saarbrücken
+2026-05-09 H 5-3 v Stuttgart II | 3. Liga | Rostock
+Listed home: 11 games, scored 23 (2.09), conceded 22 (2.00), blanks 2, clean sheets 1
+Listed away: 9 games, scored 18 (2.00), conceded 17 (1.89), blanks 3, clean sheets 2
+All: 20 games, scored 41 (2.05), conceded 39 (1.95), blanks 5, clean sheets 3
+
+(retrying Jahn Regensburg using the opponent's country, Germany)
+"Jahn Regensburg" matches several teams. Use id:<number> instead of the name:
+  id:177    SSV Jahn Regensburg (Germany)
+  id:12798  Jahn Regensburg II (Germany)
+  id:24541  Jahn Regensburg U19 (Germany)
+!! Jahn Regensburg: Ambiguous team name "Jahn Regensburg".
+
+TABLE FOR Hansa Rostock
+LEAGUE TABLE 3. Liga 2026 | 20 teams | 111 games played
+League averages per game: home 1.75, away 1.55, total 3.30
+#   team                   Pts | home P GF-GA  | away P GF-GA  | all P GF-GA
+1   MSV Duisburg            25 |  5  12-4       |  6  16-10      | 11  28-14
+2   FC Viktoria Köln        23 |  6  18-9       |  5  12-6       | 11  30-15
+3   Rot-Weiß Essen          21 |  6  12-3       |  5   7-10      | 11  19-13
+4   FC Saarbrücken          17 |  5  11-12      |  6  15-8       | 11  26-20
+5   Alemannia Aachen        17 |  6  11-11      |  5   6-6       | 11  17-17
+6   FC Ingolstadt 04        17 |  6   8-12      |  5   7-4       | 11  15-16
+7   Waldhof Mannheim        16 |  6   9-8       |  5  11-9       | 11  20-17
+8   Hoffenheim II           16 |  5  12-7       |  6   9-12      | 11  21-19
+9   Hansa Rostock           16 |  5   8-9       |  6  10-11      | 11  18-20
+10  Fortuna Düsseldorf      16 |  6   6-8       |  6   6-6       | 12  12-14
+11  SV Wehen                15 |  6  12-9       |  5   7-7       | 11  19-16
+12  SV Meppen               15 |  6  10-11      |  6   6-6       | 12  16-17
+13  Preußen Münster         15 |  6  11-10      |  5   8-11      | 11  19-21
+14  Stuttgart II            14 |  5   9-12      |  6   9-8       | 11  18-20
+15  Verl                    12 |  5   9-10      |  6   7-12      | 11  16-22
+16  SG Sonnenhof Grossaspa  12 |  6   7-10      |  5   6-15      | 11  13-25
+17  Würzburger Kickers      11 |  5   8-4       |  6   7-19      | 11  15-23
+18  SSV Jahn Regensburg     10 |  5   7-5       |  6  13-15      | 11  20-20
+19  Fortuna Köln            10 |  5   1-4       |  6   7-8       | 11   8-12
+20  Havelse                  9 |  6  13-14      |  5   3-11      | 11  16-25
+
+(14 API-Football requests used)
+
+----------------------------------------------------------------------
+MATCHBOOK: skipped (switched off for this run)

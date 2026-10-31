@@ -1,0 +1,90 @@
+MATCH Burnley v Portsmouth | fetched 2026-10-31 12:46 local
+
+FORM DATA Burnley v Portsmouth | source API-Football | 2026-10-31 12:46 UTC
+H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
+
+=== Burnley (id 44): last 20 finished games ===
+2026-10-24 A 1-4 v Lincoln | Championship | Lincoln | xG 2.46-2.13
+2026-10-16 H 1-2 v Wolves | Championship | Burnley | xG 1.00-1.82
+2026-10-13 H 2-2 v Charlton | Championship | Burnley | xG 1.08-2.13
+2026-10-10 A 4-0 v Watford | Championship | Watford | xG 1.94-0.64
+2026-09-19 H 1-1 v Derby | Championship | Burnley | xG 0.45-1.75
+2026-09-12 A 1-3 v Swansea | Championship | Swansea | xG 1.73-2.63
+2026-09-08 A 1-1 v Wrexham | Championship | Wrexham | xG 1.50-1.28
+2026-09-05 H 1-2 v Bristol City | Championship | Burnley | xG 0.26-1.06
+2026-09-02 H 1-1 v Middlesbrough | Championship | Burnley | xG 0.64-1.22
+2026-08-29 A 1-4 v Norwich | Championship | Norwich | xG 1.38-2.30
+2026-08-26 A 0-0 v Bradford | League Cup | Bradford [PEN, 90-min score shown]
+2026-08-23 A 1-3 v West Brom | Championship | West Bromwich
+2026-08-16 H 2-2 v West Ham | Championship | Burnley
+2026-08-08 H 1-1 v Notts County | League Cup | Burnley [PEN, 90-min score shown]
+2026-08-02 H 0-1 v Torino | Friendlies Clubs | ?
+2026-07-29 H 2-2 v Espanyol | Friendlies Clubs | ?
+2026-07-26 A 1-2 v Ajax | Friendlies Clubs | Amsterdam
+2026-07-16 A 1-4 v Real Salt Lake | Friendlies Clubs | ?
+2026-07-12 A 1-1 v Columbus Crew | Friendlies Clubs | ?
+2026-07-10 A 1-3 v FC Cincinnati | Friendlies Clubs | ?
+Listed home: 9 games, scored 11 (1.22), conceded 14 (1.56), blanks 1, clean sheets 0
+Listed away: 11 games, scored 13 (1.18), conceded 25 (2.27), blanks 1, clean sheets 2
+All: 20 games, scored 24 (1.20), conceded 39 (1.95), blanks 2, clean sheets 2
+
+=== Portsmouth (id 1355): last 20 finished games ===
+2026-10-24 H 2-1 v Millwall | Championship | Portsmouth | xG 0.75-0.84
+2026-10-20 A 1-1 v Wolves | Championship | Wolverhampton | xG 0.65-1.01
+2026-10-17 A 1-0 v Norwich | Championship | Norwich | xG 1.19-0.29
+2026-10-14 H 3-2 v Sheffield Utd | Championship | Portsmouth | xG 2.01-1.80
+2026-10-11 A 0-1 v Southampton | Championship | Southampton | xG 1.18-1.28
+2026-09-19 H 2-2 v Blackburn | Championship | Portsmouth | xG 1.60-0.59
+2026-09-12 A 0-0 v Charlton | Championship | London | xG 0.40-0.82
+2026-09-05 H 2-0 v Cardiff | Championship | Portsmouth | xG 2.07-1.37
+2026-09-01 H 0-2 v Derby | Championship | Portsmouth | xG 0.84-0.55
+2026-08-29 A 1-2 v Bristol City | Championship | Bristol | xG 1.37-0.61
+2026-08-22 A 3-1 v Lincoln | Championship | Lincoln
+2026-08-15 H 1-3 v QPR | Championship | Portsmouth
+2026-08-08 A 1-3 v West Ham | League Cup | London
+2026-08-01 A 0-0 v SV Darmstadt 98 | Friendlies Clubs | ?
+2026-07-29 A 1-1 v Farnborough | Friendlies Clubs | ?
+2026-07-25 A 1-3 v Wycombe | Friendlies Clubs | ?
+2026-07-18 A 1-1 v Bristol Rovers | Friendlies Clubs | ?
+2026-07-15 A 0-2 v Aldershot Town | Friendlies Clubs | ?
+2026-07-14 A 2-1 v Woking | Friendlies Clubs | ?
+2026-05-02 H 1-1 v Birmingham | Championship | Portsmouth
+Listed home: 7 games, scored 11 (1.57), conceded 11 (1.57), blanks 1, clean sheets 1
+Listed away: 13 games, scored 12 (0.92), conceded 16 (1.23), blanks 4, clean sheets 3
+All: 20 games, scored 23 (1.15), conceded 27 (1.35), blanks 5, clean sheets 4
+
+TABLE FOR Burnley
+LEAGUE TABLE Championship 2026 | 24 teams | 145 games played
+League averages per game: home 1.59, away 1.28, total 2.88
+#   team                   Pts | home P GF-GA  | away P GF-GA  | all P GF-GA
+1   Middlesbrough           25 |  6  14-9       |  6  13-8       | 12  27-17
+2   Swansea                 23 |  6   7-3       |  6   9-10      | 12  16-13
+3   West Ham                22 |  6  17-8       |  6  15-7       | 12  32-15
+4   Wolves                  21 |  6  10-7       |  6  10-9       | 12  20-16
+5   West Brom               21 |  6   9-6       |  6   7-7       | 12  16-13
+6   Southampton             20 |  6  16-4       |  6   8-8       | 12  24-12
+7   Birmingham              20 |  6  14-7       |  6   6-5       | 12  20-12
+8   QPR                     20 |  6  13-5       |  6   7-7       | 12  20-12
+9   Stoke City              20 |  6  10-6       |  6   8-10      | 12  18-16
+10  Sheffield Utd           19 |  7   9-7       |  6   8-8       | 13  17-15
+11  Blackburn               18 |  6  11-7       |  6   8-9       | 12  19-16
+12  Portsmouth              18 |  6  10-10      |  6   6-5       | 12  16-15
+13  Millwall                15 |  6  11-8       |  6   8-12      | 12  19-20
+14  Bristol City            15 |  6   3-6       |  6   9-9       | 12  12-15
+15  Lincoln                 15 |  6   7-13      |  6   6-7       | 12  13-20
+16  Cardiff                 14 |  6  13-6       |  6   6-11      | 12  19-17
+17  Wrexham                 14 |  6  10-8       |  7   5-11      | 13  15-19
+18  Bolton                  14 |  6   7-12      |  6   9-11      | 12  16-23
+19  Charlton                14 |  6   5-5       |  6   6-13      | 12  11-18
+20  Norwich                 12 |  6  10-10      |  6  10-12      | 12  20-22
+21  Watford                 11 |  6   8-9       |  6   2-11      | 12  10-20
+22  Burnley                  8 |  6   8-10      |  6   9-15      | 12  17-25
+23  Derby                    7 |  6   4-10      |  6   6-11      | 12  10-21
+24  Preston                  5 |  6   5-10      |  6   5-15      | 12  10-25
+
+(Portsmouth: same table as Burnley, shown above)
+
+(24 API-Football requests used)
+
+----------------------------------------------------------------------
+MATCHBOOK: skipped (switched off for this run)

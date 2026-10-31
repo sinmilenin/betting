@@ -1,0 +1,76 @@
+MATCH Accrington v Northampton | fetched 2026-10-31 12:46 local
+
+FORM DATA Accrington v Northampton | source API-Football | 2026-10-31 12:46 UTC
+H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
+
+"Accrington" matches several teams. Use id:<number> instead of the name:
+  id:1360   Accrington ST (England)
+  id:19875  Accrington Stanley Res. (England)
+  id:25134  Accrington Stanley (England)
+  id:25423  Accrington Stanley U18 (England)
+=== Northampton (id 1337): last 20 finished games ===
+2026-10-24 H 2-0 v Colchester | League Two | Northampton | xG 0.75-1.04
+2026-10-20 H 0-1 v Tranmere | League Two | Northampton | xG 2.68-1.15
+2026-10-17 A 2-0 v Grimsby | League Two | Cleethorpes | xG 2.28-2.24
+2026-10-10 A 1-1 v York | League Two | York | xG 1.71-1.91
+2026-10-06 A 1-2 v Cambridge United | EFL Trophy | Cambridge
+2026-09-19 H 0-1 v Rotherham | League Two | Northampton | xG 1.33-1.63
+2026-09-12 A 0-2 v Shrewsbury | League Two | Shrewsbury | xG 0.52-1.27
+2026-09-05 H 1-0 v Newport County | League Two | Northampton | xG 0.63-0.51
+2026-09-01 H 1-1 v Crawley Town | League Two | Northampton | xG 0.73-3.05
+2026-08-29 A 1-1 v Gillingham | League Two | Gillingham | xG 0.34-0.64
+2026-08-22 A 0-1 v Crewe | League Two | Crewe
+2026-08-18 H 0-3 v Brighton U21 | EFL Trophy | Northampton
+2026-08-15 H 0-0 v Swindon Town | League Two | Northampton
+2026-08-08 A 0-1 v Leicester | League Cup | Leicester
+2026-08-01 A 4-2 v Solihull Moors | Friendlies Clubs | ?
+2026-07-28 A 0-0 v Cambridge United | Friendlies Clubs | ?
+2026-07-22 A 3-1 v Southend | Friendlies Clubs | ?
+2026-07-18 H 0-0 v Coventry | Friendlies Clubs | ?
+2026-07-11 A 0-3 v Leicester | Friendlies Clubs | ?
+2026-05-02 H 2-3 v Plymouth | League One | Northampton
+Listed home: 9 games, scored 6 (0.67), conceded 9 (1.00), blanks 5, clean sheets 4
+Listed away: 11 games, scored 12 (1.09), conceded 14 (1.27), blanks 5, clean sheets 2
+All: 20 games, scored 18 (0.90), conceded 23 (1.15), blanks 10, clean sheets 6
+
+(retrying Accrington using the opponent's country, England)
+"Accrington" matches several teams. Use id:<number> instead of the name:
+  id:1360   Accrington ST (England)
+  id:19875  Accrington Stanley Res. (England)
+  id:25134  Accrington Stanley (England)
+  id:25423  Accrington Stanley U18 (England)
+!! Accrington: Ambiguous team name "Accrington".
+
+TABLE FOR Northampton
+LEAGUE TABLE League Two 2026 | 24 teams | 152 games played
+League averages per game: home 1.55, away 1.08, total 2.63
+#   team                   Pts | home P GF-GA  | away P GF-GA  | all P GF-GA
+1   Salford City            28 |  6   7-3       |  7  16-11      | 13  23-14
+2   Barnet                  25 |  7  15-10      |  5  12-7       | 12  27-17
+3   Cheltenham              21 |  7  14-10      |  6   8-12      | 13  22-22
+4   Crewe                   21 |  6  11-7       |  7   5-9       | 13  16-16
+5   York                    20 |  7  16-5       |  6   6-11      | 13  22-16
+6   Walsall                 19 |  6  10-6       |  6   8-5       | 12  18-11
+7   Chesterfield            19 |  7  16-9       |  7   8-12      | 14  24-21
+8   Exeter City             19 |  7   8-2       |  6   2-5       | 13  10-7
+9   Accrington ST           18 |  6  12-7       |  7  10-9       | 13  22-16
+10  Newport County          18 |  7  14-6       |  7   6-11      | 14  20-17
+11  Shrewsbury              18 |  6   7-6       |  7   9-14      | 13  16-20
+12  Grimsby                 17 |  6   8-6       |  7  11-10      | 13  19-16
+13  Gillingham              17 |  7   8-9       |  6  10-9       | 13  18-18
+14  Tranmere                16 |  6   9-6       |  7   7-10      | 13  16-16
+15  Swindon Town            16 |  6  10-6       |  7   3-10      | 13  13-16
+16  Bristol Rovers          16 |  7  11-8       |  6   5-12      | 13  16-20
+17  Rochdale                15 |  7  10-13      |  6   5-9       | 13  15-22
+18  Fleetwood Town          14 |  6   7-4       |  7   8-13      | 13  15-17
+19  Northampton             13 |  6   4-3       |  5   4-5       | 11   8-8
+20  Oldham                  12 |  6  11-7       |  6   3-11      | 12  14-18
+21  Colchester              12 |  5   5-3       |  7   6-13      | 12  11-16
+22  Rotherham               12 |  7  13-15      |  6   4-8       | 13  17-23
+23  Port Vale               12 |  5   4-1       |  6   2-11      | 11   6-12
+24  Crawley Town             6 |  6   6-12      |  5   6-9       | 11  12-21
+
+(15 API-Football requests used)
+
+----------------------------------------------------------------------
+MATCHBOOK: skipped (switched off for this run)

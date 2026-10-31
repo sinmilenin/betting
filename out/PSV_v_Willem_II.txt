@@ -1,0 +1,80 @@
+MATCH PSV v Willem II | fetched 2026-10-31 12:46 local
+
+FORM DATA PSV v Willem II | source API-Football | 2026-10-31 12:47 UTC
+H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
+
+"PSV" matches several teams. Use id:<number> instead of the name:
+  id:197    PSV Eindhoven (Netherlands)
+  id:411    Jong PSV U21 (Netherlands)
+  id:1895   PSV/Eindhoven W (Netherlands)
+  id:7965   PSV U19 (Netherlands)
+  id:15947  PSV U18 (Netherlands)
+  id:20810  PSV Wellingara (Gambia)
+  id:21806  PSV 1820 (Belgium)
+  id:22423  PSV U21 (Netherlands)
+  id:26594  PSV Eindhoven U21 (Netherlands)
+=== Willem II (id 195): last 20 finished games ===
+2026-10-27 A 4-3 v Helmond Sport | KNVB Beker | Helmond
+2026-10-24 H 1-6 v Cambuur | Eredivisie | Tilburg | xG 1.08-1.94
+2026-10-17 A 2-3 v Sparta Rotterdam | Eredivisie | Rotterdam | xG 1.63-3.65
+2026-10-11 A 1-3 v Utrecht | Eredivisie | Utrecht | xG 0.71-1.25
+2026-09-19 H 0-1 v Fortuna Sittard | Eredivisie | Tilburg | xG 1.01-1.31
+2026-09-15 A 1-5 v Ajax | Eredivisie | Amsterdam | xG 1.58-3.79
+2026-09-11 A 1-1 v AZ Alkmaar | Eredivisie | Alkmaar | xG 0.93-2.48
+2026-09-05 H 0-3 v Excelsior | Eredivisie | Tilburg | xG 0.86-1.60
+2026-08-30 H 2-2 v Heerenveen | Eredivisie | Tilburg | xG 1.70-1.35
+2026-08-15 H 1-4 v NEC Nijmegen | Eredivisie | Tilburg | xG 1.43-2.99
+2026-08-08 A 1-4 v GO Ahead Eagles | Eredivisie | Deventer
+2026-08-01 H 2-1 v OFI | Friendlies Clubs | ?
+2026-07-25 H 1-0 v KV Mechelen | Friendlies Clubs | ?
+2026-07-11 H 2-2 v FC Eindhoven | Friendlies Clubs | ?
+2026-07-04 H 1-2 v Quick Boys | Friendlies Clubs | ?
+2026-05-23 A 2-1 v FC Volendam | Eerste Divisie | Volendam [PEN, 90-min score shown]
+2026-05-20 H 1-2 v FC Volendam | Eerste Divisie | Tilburg
+2026-05-16 H 2-0 v Almere City FC | Eerste Divisie | Tilburg
+2026-05-13 A 1-0 v Almere City FC | Eerste Divisie | Almere
+2026-05-09 H 1-1 v Waalwijk | Eerste Divisie | Tilburg
+Listed home: 12 games, scored 14 (1.17), conceded 24 (2.00), blanks 2, clean sheets 2
+Listed away: 8 games, scored 13 (1.62), conceded 20 (2.50), blanks 0, clean sheets 1
+All: 20 games, scored 27 (1.35), conceded 44 (2.20), blanks 2, clean sheets 3
+
+(retrying PSV using the opponent's country, Netherlands)
+"PSV" matches several teams. Use id:<number> instead of the name:
+  id:197    PSV Eindhoven (Netherlands)
+  id:411    Jong PSV U21 (Netherlands)
+  id:1895   PSV/Eindhoven W (Netherlands)
+  id:7965   PSV U19 (Netherlands)
+  id:15947  PSV U18 (Netherlands)
+  id:20810  PSV Wellingara (Gambia)
+  id:21806  PSV 1820 (Belgium)
+  id:22423  PSV U21 (Netherlands)
+  id:26594  PSV Eindhoven U21 (Netherlands)
+!! PSV: Ambiguous team name "PSV".
+
+TABLE FOR Willem II
+LEAGUE TABLE Eredivisie 2026 | 18 teams | 90 games played
+League averages per game: home 1.76, away 2.04, total 3.80
+#   team                   Pts | home P GF-GA  | away P GF-GA  | all P GF-GA
+1   Feyenoord               24 |  4  11-4       |  6  21-7       | 10  32-11
+2   Ajax                    21 |  5  11-9       |  5  18-4       | 10  29-13
+3   PSV Eindhoven           20 |  5  14-5       |  5  14-8       | 10  28-13
+4   Twente                  20 |  5  10-5       |  5   9-5       | 10  19-10
+5   AZ Alkmaar              20 |  5   9-5       |  5  11-7       | 10  20-12
+6   Fortuna Sittard         18 |  5   6-9       |  5  11-8       | 10  17-17
+7   Heerenveen              15 |  5   7-5       |  5  11-8       | 10  18-13
+8   Groningen               15 |  5  11-11      |  5  13-10      | 10  24-21
+9   GO Ahead Eagles         14 |  5  14-8       |  5   9-15      | 10  23-23
+10  Cambuur                 12 |  5   8-15      |  5  11-7       | 10  19-22
+11  Utrecht                 12 |  5   9-15      |  5   8-12      | 10  17-27
+12  NEC Nijmegen            11 |  6   9-12      |  4   8-6       | 10  17-18
+13  Excelsior               11 |  4   5-10      |  6  11-9       | 10  16-19
+14  Sparta Rotterdam         9 |  6   9-14      |  4   8-10      | 10  17-24
+15  PEC Zwolle               8 |  5   5-14      |  5   6-9       | 10  11-23
+16  Telstar                  6 |  5   8-15      |  5   4-6       | 10  12-21
+17  ADO Den Haag             6 |  5   8-12      |  5   5-11      | 10  13-23
+18  Willem II                2 |  5   4-16      |  5   6-16      | 10  10-32
+
+(16 API-Football requests used)
+
+----------------------------------------------------------------------
+MATCHBOOK: skipped (switched off for this run)

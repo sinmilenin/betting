@@ -1,0 +1,76 @@
+MATCH Swindon v Rotherham | fetched 2026-10-31 12:46 local
+
+FORM DATA Swindon v Rotherham | source API-Football | 2026-10-31 12:46 UTC
+H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
+
+"Swindon" matches several teams. Use id:<number> instead of the name:
+  id:1353   Swindon Town (England)
+  id:7751   Swindon Supermarine (England)
+  id:18253  Swindon Town W (England)
+  id:23193  Swindon Town U18 (England)
+=== Rotherham (id 73): last 20 finished games ===
+2026-10-24 H 3-3 v Shrewsbury | League Two | Rotherham | xG 1.48-2.24
+2026-10-20 H 2-2 v Newport County | League Two | Rotherham | xG 1.44-1.92
+2026-10-17 A 0-2 v Fleetwood Town | League Two | Fleetwood | xG 0.77-2.24
+2026-10-10 H 1-4 v Gillingham | League Two | Rotherham | xG 1.52-2.05
+2026-10-06 H 0-4 v Bradford | EFL Trophy | Rotherham
+2026-10-03 A 0-1 v Exeter City | League Two | Exeter | xG 0.37-2.15
+2026-09-26 H 1-1 v Crewe | League Two | Rotherham
+2026-09-22 A 1-1 v York | EFL Trophy | York [PEN, 90-min score shown]
+2026-09-19 A 1-0 v Northampton | League Two | Northampton | xG 1.63-1.33
+2026-09-12 H 3-3 v Salford City | League Two | Rotherham | xG 3.60-1.78
+2026-09-05 A 0-1 v Bristol Rovers | League Two | Bristol
+2026-09-01 A 2-2 v Tranmere | League Two | Birkenhead
+2026-08-29 H 2-1 v Chesterfield | League Two | Rotherham
+2026-08-22 H 1-1 v York | League Two | Rotherham
+2026-08-15 A 1-2 v Cheltenham | League Two | Cheltenham
+2026-08-08 H 1-4 v West Brom | League Cup | Rotherham
+2026-08-04 H 1-1 v Derby | Friendlies Clubs | ?
+2026-07-28 A 2-0 v Darlington 1883 | Friendlies Clubs | ?
+2026-07-25 H 0-2 v Sheffield Utd | Friendlies Clubs | ?
+2026-07-21 A 1-0 v Alfreton Town | Friendlies Clubs | ?
+Listed home: 11 games, scored 15 (1.36), conceded 26 (2.36), blanks 2, clean sheets 0
+Listed away: 9 games, scored 8 (0.89), conceded 9 (1.00), blanks 3, clean sheets 3
+All: 20 games, scored 23 (1.15), conceded 35 (1.75), blanks 5, clean sheets 3
+
+(retrying Swindon using the opponent's country, England)
+"Swindon" matches several teams. Use id:<number> instead of the name:
+  id:1353   Swindon Town (England)
+  id:7751   Swindon Supermarine (England)
+  id:18253  Swindon Town W (England)
+  id:23193  Swindon Town U18 (England)
+!! Swindon: Ambiguous team name "Swindon".
+
+TABLE FOR Rotherham
+LEAGUE TABLE League Two 2026 | 24 teams | 152 games played
+League averages per game: home 1.55, away 1.08, total 2.63
+#   team                   Pts | home P GF-GA  | away P GF-GA  | all P GF-GA
+1   Salford City            28 |  6   7-3       |  7  16-11      | 13  23-14
+2   Barnet                  25 |  7  15-10      |  5  12-7       | 12  27-17
+3   Cheltenham              21 |  7  14-10      |  6   8-12      | 13  22-22
+4   Crewe                   21 |  6  11-7       |  7   5-9       | 13  16-16
+5   York                    20 |  7  16-5       |  6   6-11      | 13  22-16
+6   Walsall                 19 |  6  10-6       |  6   8-5       | 12  18-11
+7   Chesterfield            19 |  7  16-9       |  7   8-12      | 14  24-21
+8   Exeter City             19 |  7   8-2       |  6   2-5       | 13  10-7
+9   Accrington ST           18 |  6  12-7       |  7  10-9       | 13  22-16
+10  Newport County          18 |  7  14-6       |  7   6-11      | 14  20-17
+11  Shrewsbury              18 |  6   7-6       |  7   9-14      | 13  16-20
+12  Grimsby                 17 |  6   8-6       |  7  11-10      | 13  19-16
+13  Gillingham              17 |  7   8-9       |  6  10-9       | 13  18-18
+14  Tranmere                16 |  6   9-6       |  7   7-10      | 13  16-16
+15  Swindon Town            16 |  6  10-6       |  7   3-10      | 13  13-16
+16  Bristol Rovers          16 |  7  11-8       |  6   5-12      | 13  16-20
+17  Rochdale                15 |  7  10-13      |  6   5-9       | 13  15-22
+18  Fleetwood Town          14 |  6   7-4       |  7   8-13      | 13  15-17
+19  Northampton             13 |  6   4-3       |  5   4-5       | 11   8-8
+20  Oldham                  12 |  6  11-7       |  6   3-11      | 12  14-18
+21  Colchester              12 |  5   5-3       |  7   6-13      | 12  11-16
+22  Rotherham               12 |  7  13-15      |  6   4-8       | 13  17-23
+23  Port Vale               12 |  5   4-1       |  6   2-11      | 11   6-12
+24  Crawley Town             6 |  6   6-12      |  5   6-9       | 11  12-21
+
+(14 API-Football requests used)
+
+----------------------------------------------------------------------
+MATCHBOOK: skipped (switched off for this run)
