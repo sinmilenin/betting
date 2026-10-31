@@ -1,4 +1,2 @@
-# Scan 31.10 06:11 (Ljubljana)
-Vissel Kobe v Nagoya Grampus | n=20 | xg=10
-Melbourne City v Sydney FC | n=20 | xg=10
-Kashiwa Reysol v Urawa Reds | n=20 | xg=10
+# Scan 31.10 06:11 run 2 - Sydney FC name fix
+Melbourne City v Sydney | n=20 | xg=10
