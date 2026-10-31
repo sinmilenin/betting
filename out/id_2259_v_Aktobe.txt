@@ -1,11 +1,33 @@
-MATCH Tobol v Aktobe | fetched 2026-10-31 08:12 local
+MATCH id:2259 v Aktobe | fetched 2026-10-31 08:13 local
 
-FORM DATA Tobol v Aktobe | source API-Football | 2026-10-31 08:12 UTC
+FORM DATA id:2259 v Aktobe | source API-Football | 2026-10-31 08:13 UTC
 H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
 
-"Tobol" matches several teams. Use id:<number> instead of the name:
-  id:2259   FK Tobol Kostanay (Kazakhstan)
-  id:27634  Tobol 2 (Kazakhstan)
+=== FK Tobol Kostanay (id 2259): last 20 finished games ===
+2026-10-24 A 1-1 v Zhetysu | Premier League | Taldykorgan
+2026-10-17 H 4-2 v Zhenys | Premier League | Kostanay
+2026-10-10 H 2-1 v FC Astana | Premier League | Kostanay
+2026-09-17 H 0-2 v Yelimay Semey | Premier League | Kostanay
+2026-09-13 A 4-1 v Kairat Almaty | Premier League | Almaty
+2026-09-06 H 3-1 v Ulytau | Premier League | Kostanay
+2026-08-30 A 0-1 v Kaspiy | Premier League | Aktau
+2026-08-25 H 3-2 v Kaisar | Premier League | Kostanay
+2026-08-16 A 2-0 v Irtysh | Premier League | Pavlodar
+2026-08-13 H 1-2 v FK Partizan | UEFA Europa Conference League | Kostanay
+2026-08-06 A 0-3 v FK Partizan | UEFA Europa Conference League | Belgrade
+2026-08-02 A 0-2 v Ordabasy | Premier League | ?
+2026-07-30 H 1-1 v Panevėžys | UEFA Europa Conference League | Kostanay [PEN, 90-min score shown]
+2026-07-26 H 1-0 v Atyrau | Premier League | Kostanay
+2026-07-23 A 1-1 v Panevėžys | UEFA Europa Conference League | Panevezys
+2026-07-18 A 1-1 v Kyzyl-Zhar | Premier League | Petropavl
+2026-07-12 H 3-1 v Okzhetpes | Premier League | Kostanay
+2026-07-04 A 0-1 v Altay | Premier League | Oskemen
+2026-06-28 H 3-1 v Altay | Premier League | Kostanay
+2026-06-21 A 1-2 v Okzhetpes | Premier League | Kokshetau
+Listed home: 10 games, scored 21 (2.10), conceded 13 (1.30), blanks 1, clean sheets 1
+Listed away: 10 games, scored 10 (1.00), conceded 13 (1.30), blanks 4, clean sheets 1
+All: 20 games, scored 31 (1.55), conceded 26 (1.30), blanks 5, clean sheets 2
+
 === Aktobe (id 4563): last 20 finished games ===
 2026-10-25 H 2-2 v Kairat Almaty | Premier League | Aktobe
 2026-10-17 H 1-3 v Ordabasy | Premier League | Aktobe
@@ -31,13 +53,7 @@ Listed home: 10 games, scored 15 (1.50), conceded 10 (1.00), blanks 1, clean she
 Listed away: 10 games, scored 18 (1.80), conceded 17 (1.70), blanks 1, clean sheets 0
 All: 20 games, scored 33 (1.65), conceded 27 (1.35), blanks 2, clean sheets 4
 
-(retrying Tobol using the opponent's country, Kazakhstan)
-"Tobol" matches several teams. Use id:<number> instead of the name:
-  id:2259   FK Tobol Kostanay (Kazakhstan)
-  id:27634  Tobol 2 (Kazakhstan)
-!! Tobol: Ambiguous team name "Tobol".
-
-TABLE FOR Aktobe
+TABLE FOR FK Tobol Kostanay
 LEAGUE TABLE Premier League 2026 | 16 teams | 232 games played
 League averages per game: home 1.47, away 1.07, total 2.53
 #   team                   Pts | home P GF-GA  | away P GF-GA  | all P GF-GA
@@ -58,7 +74,9 @@ League averages per game: home 1.47, away 1.07, total 2.53
 15  Zhetysu                 26 | 14  12-16      | 15  17-31      | 29  29-47
 16  Kaisar                  25 | 15  14-19      | 14  10-20      | 29  24-39
 
-(14 API-Football requests used)
+(Aktobe: same table as FK Tobol Kostanay, shown above)
+
+(25 API-Football requests used)
 
 ----------------------------------------------------------------------
 MATCHBOOK: skipped (switched off for this run)

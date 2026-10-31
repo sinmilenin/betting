@@ -1,6 +1,6 @@
-MATCH PSM Makassar v Madura United | fetched 2026-10-31 08:12 local
+MATCH PSM Makassar v Persepam Madura Utd | fetched 2026-10-31 08:13 local
 
-FORM DATA PSM Makassar v Madura United | source API-Football | 2026-10-31 08:12 UTC
+FORM DATA PSM Makassar v Persepam Madura Utd | source API-Football | 2026-10-31 08:13 UTC
 H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
 
 === PSM Makassar (id 2441): last 20 finished games ===
@@ -28,7 +28,30 @@ Listed home: 9 games, scored 16 (1.78), conceded 16 (1.78), blanks 0, clean shee
 Listed away: 11 games, scored 9 (0.82), conceded 21 (1.91), blanks 6, clean sheets 1
 All: 20 games, scored 25 (1.25), conceded 37 (1.85), blanks 6, clean sheets 2
 
-!! Madura United: No team found for "Madura United".
+=== Persepam Madura Utd (id 2444): last 20 finished games ===
+2026-10-26 A 1-3 v Persebaya Surabaya | Liga 1 | Surabaya
+2026-10-22 H 1-0 v Persib Bandung | Liga 1 | Pamekasan
+2026-10-16 H 3-3 v Bhayangkara FC | Liga 1 | Pamekasan
+2026-10-09 A 0-2 v Persik Kediri | Liga 1 | Kediri
+2026-09-18 H 2-1 v PSIM Yogyakarta | Liga 1 | Pamekasan
+2026-09-12 A 3-1 v PSS Sleman | Liga 1 | Yogyakarta
+2026-09-06 H 2-0 v Persijap | Liga 1 | Pamekasan
+2026-05-23 H 2-0 v PSM Makassar | Liga 1 | Pamekasan
+2026-05-17 A 1-2 v PSIM Yogyakarta | Liga 1 | Yogyakarta
+2026-05-11 A 1-3 v Bhayangkara FC | Liga 1 | Bandar Lampung
+2026-05-05 H 2-0 v Bali United | Liga 1 | Pamekasan
+2026-04-29 A 1-0 v Semen Padang | Liga 1 | Padang
+2026-04-25 H 1-2 v Dewa United | Liga 1 | Pamekasan
+2026-04-17 A 2-1 v Persebaya Surabaya | Liga 1 | Surabaya
+2026-04-11 H 2-1 v Persik Kediri | Liga 1 | Pamekasan
+2026-04-05 H 1-3 v Pusamania Borneo | Liga 1 | Pamekasan
+2026-03-07 A 1-4 v Persita | Liga 1 | Tangerang
+2026-03-03 H 1-2 v Java United | Liga 1 | Pamekasan
+2026-02-26 A 0-5 v Persib Bandung | Liga 1 | Bandung
+2026-02-21 H 2-2 v Arema FC | Liga 1 | Pamekasan
+Listed home: 11 games, scored 19 (1.73), conceded 14 (1.27), blanks 0, clean sheets 4
+Listed away: 9 games, scored 10 (1.11), conceded 21 (2.33), blanks 2, clean sheets 1
+All: 20 games, scored 29 (1.45), conceded 35 (1.75), blanks 2, clean sheets 5
 
 TABLE FOR PSM Makassar
 LEAGUE TABLE Liga 1 2026 | 18 teams | 64 games played
@@ -53,7 +76,9 @@ League averages per game: home 1.77, away 1.09, total 2.86
 17  PSIM Yogyakarta          2 |  3   2-7       |  4   1-4       |  7   3-11
 18  Persijap                 2 |  4   2-5       |  4   2-11      |  8   4-16
 
-(14 API-Football requests used)
+(Persepam Madura Utd: same table as PSM Makassar, shown above)
+
+(25 API-Football requests used)
 
 ----------------------------------------------------------------------
 MATCHBOOK: skipped (switched off for this run)
