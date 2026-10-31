@@ -1,3 +1,6 @@
-RUN 2026-10-31 17:58 local | 1 match(es)
-LASK Linz v WSG Wattens -> out/LASK_Linz_v_WSG_Wattens.txt
-Requests used: API-Football 26, Matchbook 0
+RUN 2026-10-31 17:59 local | 4 match(es)
+AC Milan v Inter -> out/AC_Milan_v_Inter.txt
+Aston Villa v Fulham -> out/Aston_Villa_v_Fulham.txt
+Barcelona v Alaves -> out/Barcelona_v_Alaves.txt
+Porto v Estoril -> out/Porto_v_Estoril.txt
+Requests used: API-Football 104, Matchbook 0
