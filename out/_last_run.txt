@@ -1,12 +1,5 @@
-RUN 2026-10-31 11:16 local | 7 match(es)
-Lokomotiv Plovdiv v Ludogorets -> out/Lokomotiv_Plovdiv_v_Ludogorets.txt
-Real Sociedad B v Girona -> out/Real_Sociedad_B_v_Girona.txt
-    !! Real Sociedad B: No team found for "Real Sociedad B".
-Wieczysta Krakow v Jagiellonia -> out/Wieczysta_Krakow_v_Jagiellonia.txt
-    !! Wieczysta Krakow: Ambiguous team name "Wieczysta Krakow".
-Modena v Mantova -> out/Modena_v_Mantova.txt
-Cremonese v Benevento -> out/Cremonese_v_Benevento.txt
-Sudtirol v Cesena -> out/Sudtirol_v_Cesena.txt
-Slovacko v Teplice -> out/Slovacko_v_Teplice.txt
-    !! Slovacko: Ambiguous team name "Slovacko".
-Requests used: API-Football 145, Matchbook 0
+RUN 2026-10-31 11:17 local | 3 match(es)
+id:17115 v Jagiellonia -> out/id_17115_v_Jagiellonia.txt
+Real Sociedad II v Girona -> out/Real_Sociedad_II_v_Girona.txt
+id:3719 v Teplice -> out/id_3719_v_Teplice.txt
+Requests used: API-Football 78, Matchbook 0
