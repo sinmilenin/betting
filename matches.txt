@@ -1,18 +1,13 @@
-# 2026-10-31 16:45 scan
-Manisa FK v Batman Petrolspor | n=20 | xg=10
-First Vienna v Blau-Weiss Linz | n=20 | xg=10
-Hegelmann v Kauno Zalgiris | n=20 | xg=10
-Montpellier W v Lyon W | n=20 | xg=10
-Rudes v Dinamo Zagreb | n=20 | xg=10
-Charlotte v Orlando City | n=20 | xg=10
-Rangers v Aberdeen | n=20 | xg=10
-Real Betis v Malaga | n=20 | xg=10
-Heerenveen v NEC Nijmegen | n=20 | xg=10
-San Miguel v Deportivo Madryn | n=20 | xg=10
-Camioneros v Excursionistas | n=20 | xg=10
-Al-Hilal Saudi FC v Al-Fateh | n=20 | xg=10
-FC Cincinnati v Philadelphia Union | n=20 | xg=10
-San Martin San Juan v Gimnasia Jujuy | n=20 | xg=10
-Columbus Crew v DC United | n=20 | xg=10
-Atlanta v Midland | n=20 | xg=10
+# 2026-10-31 16:45 scan retry (ids, spellings, swapped order where the first team was ambiguous)
+Manisa v Batman Petrolspor | n=20 | xg=10
+First Vienna v Blau Weiss Linz | n=20 | xg=10
+Hegelmann Litauen v Kauno Zalgiris | n=20 | xg=10
+id:494 v id:497 | n=20 | xg=10
+id:47 v id:52 | n=20 | xg=10
+id:157 v id:165 | n=20 | xg=10
+Charlotte v Orlando City SC | n=20 | xg=10
+Excursionistas v Camioneros | n=20 | xg=10
+Al Hilal Saudi FC v Al Fateh | n=20 | xg=10
+Gimnasia Jujuy v San Martin de San Juan | n=20 | xg=10
+Atlanta v id:1963 | n=20 | xg=10
 Sampdoria v Virtus Entella | n=20 | xg=10
