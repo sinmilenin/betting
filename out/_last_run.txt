@@ -1,7 +1,5 @@
-RUN 2026-10-31 16:28 local | 3 match(es)
-Guingamp v Saint-Etienne -> out/Guingamp_v_Saint_Etienne.txt
-    !! Saint-Etienne: API-Football error: {"search": "The Search field may only contain alpha-numeric characters and spaces."}
-Sporting Kansas City v FC Dallas -> out/Sporting_Kansas_City_v_FC_Dallas.txt
-GKS Katowice v Widzew Lodz -> out/GKS_Katowice_v_Widzew_Lodz.txt
-    !! Widzew Lodz: No team found for "Widzew Lodz".
-Requests used: API-Football 54, Matchbook 0
+RUN 2026-10-31 16:29 local | 2 match(es)
+Guingamp v Saint Etienne -> out/Guingamp_v_Saint_Etienne.txt
+GKS Katowice v Widzew -> out/GKS_Katowice_v_Widzew.txt
+    !! Widzew: Ambiguous team name "Widzew".
+Requests used: API-Football 41, Matchbook 0
