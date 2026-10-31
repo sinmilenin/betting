@@ -1,6 +1,6 @@
-MATCH First Vienna v Blau Weiss Linz | fetched 2026-10-31 15:46 local
+MATCH First Vienna v BW Linz | fetched 2026-10-31 15:48 local
 
-FORM DATA First Vienna v Blau Weiss Linz | source API-Football | 2026-10-31 15:46 UTC
+FORM DATA First Vienna v BW Linz | source API-Football | 2026-10-31 15:48 UTC
 H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
 
 === First Vienna (id 4990): last 20 finished games ===
@@ -28,7 +28,14 @@ Listed home: 8 games, scored 14 (1.75), conceded 6 (0.75), blanks 2, clean sheet
 Listed away: 12 games, scored 28 (2.33), conceded 15 (1.25), blanks 1, clean sheets 4
 All: 20 games, scored 42 (2.10), conceded 21 (1.05), blanks 3, clean sheets 9
 
-!! Blau Weiss Linz: No team found for "Blau Weiss Linz".
+"BW Linz" matches several teams. Use id:<number> instead of the name:
+  id:1394   FC BW Linz (Austria)
+  id:19165  Kleinmünchen / BW Linz W (Austria)
+(retrying BW Linz using the opponent's country, Austria)
+"BW Linz" matches several teams. Use id:<number> instead of the name:
+  id:1394   FC BW Linz (Austria)
+  id:19165  Kleinmünchen / BW Linz W (Austria)
+!! BW Linz: Ambiguous team name "BW Linz".
 
 TABLE FOR First Vienna
 LEAGUE TABLE 2. Liga 2026 | 16 teams | 82 games played
@@ -51,7 +58,7 @@ League averages per game: home 1.78, away 1.33, total 3.11
 15  SV Kapfenberg            7 |  6   6-12      |  4   6-7       | 10  12-19
 16  Rapid Wien II            7 |  4   2-9       |  6   8-13      | 10  10-22
 
-(15 API-Football requests used)
+(16 API-Football requests used)
 
 ----------------------------------------------------------------------
 MATCHBOOK: skipped (switched off for this run)

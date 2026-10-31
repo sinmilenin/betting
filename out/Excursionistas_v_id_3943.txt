@@ -1,6 +1,6 @@
-MATCH Excursionistas v Camioneros | fetched 2026-10-31 15:46 local
+MATCH Excursionistas v id:3943 | fetched 2026-10-31 15:48 local
 
-FORM DATA Excursionistas v Camioneros | source API-Football | 2026-10-31 15:46 UTC
+FORM DATA Excursionistas v id:3943 | source API-Football | 2026-10-31 15:48 UTC
 H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
 
 === Excursionistas (id 8385): last 20 finished games ===
@@ -28,14 +28,30 @@ Listed home: 11 games, scored 31 (2.82), conceded 7 (0.64), blanks 1, clean shee
 Listed away: 9 games, scored 9 (1.00), conceded 12 (1.33), blanks 3, clean sheets 1
 All: 20 games, scored 40 (2.00), conceded 19 (0.95), blanks 4, clean sheets 8
 
-"Camioneros" matches several teams. Use id:<number> instead of the name:
-  id:1943   Atletico Camioneros (Argentina)
-  id:3943   Deportivo Camioneros (Argentina)
-(retrying Camioneros using the opponent's country, Argentina)
-"Camioneros" matches several teams. Use id:<number> instead of the name:
-  id:1943   Atletico Camioneros (Argentina)
-  id:3943   Deportivo Camioneros (Argentina)
-!! Camioneros: Ambiguous team name "Camioneros".
+=== Deportivo Camioneros (id 3943): last 20 finished games ===
+2026-10-24 A 1-2 v Arsenal Sarandi | Primera B Metropolitana | Avellaneda
+2026-10-17 H 3-2 v Argentino de Merlo | Primera B Metropolitana | Buenos Aires
+2026-10-09 A 1-1 v Talleres Remedios | Primera B Metropolitana | Buenos Aires
+2026-10-03 H 1-2 v Deportivo Laferrere | Primera B Metropolitana | Buenos Aires
+2026-09-26 A 0-3 v Brown DE Adrogue | Primera B Metropolitana | Adrogue
+2026-09-19 H 1-2 v Deportivo Armenio | Primera B Metropolitana | Buenos Aires
+2026-09-13 A 1-2 v Flandria | Primera B Metropolitana | Jauregui
+2026-09-06 H 1-0 v Argentino Quilmes | Primera B Metropolitana | Buenos Aires
+2026-08-29 A 0-0 v Defensores Unidos | Primera B Metropolitana | Zarate
+2026-08-26 H 2-0 v Comunicaciones | Primera B Metropolitana | Buenos Aires
+2026-08-23 A 2-2 v Dock Sud | Primera B Metropolitana | Buenos Aires
+2026-08-15 H 0-0 v Deportivo Merlo | Primera B Metropolitana | Buenos Aires
+2026-08-07 A 1-0 v Ituzaingó | Primera B Metropolitana | ?
+2026-08-01 A 1-1 v Sportivo Italiano | Primera B Metropolitana | Buenos Aires
+2026-07-25 H 2-0 v San Martín Burzaco | Primera B Metropolitana | Buenos Aires
+2026-07-18 A 2-0 v Villa San Carlos | Primera B Metropolitana | Buenos Aires
+2026-07-14 H 1-0 v Liniers | Primera B Metropolitana | Buenos Aires
+2026-07-10 A 1-2 v Real Pilar | Primera B Metropolitana | Buenos Aires
+2026-07-04 H 4-0 v UAI Urquiza | Primera B Metropolitana | Buenos Aires
+2026-06-27 A 1-0 v Villa Dalmine | Primera B Metropolitana | Buenos Aires
+Listed home: 9 games, scored 15 (1.67), conceded 6 (0.67), blanks 1, clean sheets 6
+Listed away: 11 games, scored 11 (1.00), conceded 13 (1.18), blanks 2, clean sheets 4
+All: 20 games, scored 26 (1.30), conceded 19 (0.95), blanks 3, clean sheets 10
 
 TABLE FOR Excursionistas
 LEAGUE TABLE Primera B Metropolitana 2026 | 22 teams | 451 games played
@@ -64,7 +80,9 @@ League averages per game: home 1.09, away 0.90, total 1.98
 21  UAI Urquiza             42 | 21  15-16      | 20  10-20      | 41  25-36
 22  Ituzaingó               17 | 21  13-28      | 20  15-39      | 41  28-67
 
-(15 API-Football requests used)
+(Deportivo Camioneros: same table as Excursionistas, shown above)
+
+(25 API-Football requests used)
 
 ----------------------------------------------------------------------
 MATCHBOOK: skipped (switched off for this run)

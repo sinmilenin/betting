@@ -1,11 +1,33 @@
-MATCH Manisa v Batman Petrolspor | fetched 2026-10-31 15:46 local
+MATCH id:3597 v Batman Petrolspor | fetched 2026-10-31 15:48 local
 
-FORM DATA Manisa v Batman Petrolspor | source API-Football | 2026-10-31 15:46 UTC
+FORM DATA id:3597 v Batman Petrolspor | source API-Football | 2026-10-31 15:48 UTC
 H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
 
-"Manisa" matches several teams. Use id:<number> instead of the name:
-  id:3597   Manisa F.K. (Turkey)
-  id:3598   Manisaspor (Turkey)
+=== Manisa F.K. (id 3597): last 20 finished games ===
+2026-10-26 A 1-2 v Mardin 1969 | 1. Lig | Mardin | xG 2.24-1.58
+2026-10-19 H 3-4 v Muğlaspor | 1. Lig | Manisa
+2026-10-15 H 1-1 v Esenler Erokspor | 1. Lig | Manisa | xG 1.10-2.21
+2026-10-10 A 2-3 v Kayserispor | 1. Lig | Kayseri | xG 1.95-1.30
+2026-09-20 H 0-1 v İstanbulspor | 1. Lig | Manisa
+2026-09-13 A 1-1 v Fatih Karagümrük | 1. Lig | Istanbul
+2026-09-07 H 1-2 v Bursaspor | 1. Lig | Manisa
+2026-09-03 A 2-4 v Iğdır FK | 1. Lig | Ankara | xG 3.08-2.86
+2026-08-30 H 0-0 v Bodrum FK | 1. Lig | Manisa
+2026-08-24 A 2-2 v Sivasspor | 1. Lig | Sivas
+2026-08-15 H 4-1 v Vanspor FK | 1. Lig | Manisa
+2026-08-07 A 2-1 v Boluspor | 1. Lig | Bolu
+2026-05-01 H 5-0 v Sakaryaspor | 1. Lig | Manisa
+2026-04-26 A 1-2 v Keçiörengücü | 1. Lig | Ankara
+2026-04-19 H 1-0 v Serik Spor | 1. Lig | Manisa
+2026-04-12 A 1-0 v Vanspor FK | 1. Lig | Van
+2026-04-07 H 2-0 v Pendikspor | 1. Lig | Manisa
+2026-04-03 A 1-2 v Adana Demirspor | 1. Lig | Adana
+2026-03-21 H 0-1 v Sivasspor | 1. Lig | Manisa
+2026-03-15 A 0-2 v Amed | 1. Lig | Diyarbakir
+Listed home: 10 games, scored 17 (1.70), conceded 10 (1.00), blanks 3, clean sheets 4
+Listed away: 10 games, scored 13 (1.30), conceded 19 (1.90), blanks 1, clean sheets 1
+All: 20 games, scored 30 (1.50), conceded 29 (1.45), blanks 4, clean sheets 5
+
 === Batman Petrolspor (id 7395): last 20 finished games ===
 2026-10-25 H 3-2 v Esenler Erokspor | 1. Lig | Batman
 2026-10-18 A 2-2 v Kayserispor | 1. Lig | Kayseri
@@ -31,13 +53,7 @@ Listed home: 10 games, scored 25 (2.50), conceded 12 (1.20), blanks 1, clean she
 Listed away: 10 games, scored 18 (1.80), conceded 18 (1.80), blanks 1, clean sheets 1
 All: 20 games, scored 43 (2.15), conceded 30 (1.50), blanks 2, clean sheets 4
 
-(retrying Manisa using the opponent's country, Turkey)
-"Manisa" matches several teams. Use id:<number> instead of the name:
-  id:3597   Manisa F.K. (Turkey)
-  id:3598   Manisaspor (Turkey)
-!! Manisa: Ambiguous team name "Manisa".
-
-TABLE FOR Batman Petrolspor
+TABLE FOR Manisa F.K.
 LEAGUE TABLE 1. Lig 2026 | 20 teams | 121 games played
 League averages per game: home 1.47, away 1.30, total 2.77
 #   team                   Pts | home P GF-GA  | away P GF-GA  | all P GF-GA
@@ -62,7 +78,9 @@ League averages per game: home 1.47, away 1.30, total 2.77
 19  İstanbulspor             5 |  5   4-8       |  7   5-23      | 12   9-31
 20  Boluspor                 1 |  6   2-12      |  5   1-13      | 11   3-25
 
-(15 API-Football requests used)
+(Batman Petrolspor: same table as Manisa F.K., shown above)
+
+(25 API-Football requests used)
 
 ----------------------------------------------------------------------
 MATCHBOOK: skipped (switched off for this run)

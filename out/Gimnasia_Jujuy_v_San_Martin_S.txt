@@ -1,6 +1,6 @@
-MATCH Gimnasia Jujuy v San Martin de San Juan | fetched 2026-10-31 15:46 local
+MATCH Gimnasia Jujuy v San Martin S | fetched 2026-10-31 15:48 local
 
-FORM DATA Gimnasia Jujuy v San Martin de San Juan | source API-Football | 2026-10-31 15:46 UTC
+FORM DATA Gimnasia Jujuy v San Martin S | source API-Football | 2026-10-31 15:48 UTC
 H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
 
 === Gimnasia Jujuy (id 479): last 20 finished games ===
@@ -28,7 +28,14 @@ Listed home: 11 games, scored 18 (1.64), conceded 13 (1.18), blanks 1, clean she
 Listed away: 9 games, scored 13 (1.44), conceded 13 (1.44), blanks 1, clean sheets 1
 All: 20 games, scored 31 (1.55), conceded 26 (1.30), blanks 2, clean sheets 3
 
-!! San Martin de San Juan: No team found for "San Martin de San Juan".
+"San Martin S" matches several teams. Use id:<number> instead of the name:
+  id:461    San Martin S.J. (Argentina)
+  id:25592  San Martín San Juan Res. (Argentina)
+(retrying San Martin S using the opponent's country, Argentina)
+"San Martin S" matches several teams. Use id:<number> instead of the name:
+  id:461    San Martin S.J. (Argentina)
+  id:25592  San Martín San Juan Res. (Argentina)
+!! San Martin S: Ambiguous team name "San Martin S".
 
 TABLE FOR Gimnasia Jujuy
 LEAGUE TABLE Primera Nacional 2026 | 36 teams | 630 games played
@@ -71,7 +78,7 @@ League averages per game: home 1.19, away 0.77, total 1.96
 17  Nueva Chicago           37 | 18  17-13      | 17   8-21      | 35  25-34 [Group 2]
 18  Club Atlético Güemes    26 | 17  14-25      | 18  12-35      | 35  26-60 [Group 2]
 
-(14 API-Football requests used)
+(15 API-Football requests used)
 
 ----------------------------------------------------------------------
 MATCHBOOK: skipped (switched off for this run)

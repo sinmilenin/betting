@@ -1,6 +1,6 @@
-MATCH Hegelmann Litauen v Kauno Zalgiris | fetched 2026-10-31 15:46 local
+MATCH id:3861 v id:3872 | fetched 2026-10-31 15:48 local
 
-FORM DATA Hegelmann Litauen v Kauno Zalgiris | source API-Football | 2026-10-31 15:46 UTC
+FORM DATA id:3861 v id:3872 | source API-Football | 2026-10-31 15:48 UTC
 H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
 
 === Hegelmann Litauen (id 3861): last 20 finished games ===
@@ -28,14 +28,30 @@ Listed home: 8 games, scored 9 (1.12), conceded 13 (1.62), blanks 0, clean sheet
 Listed away: 12 games, scored 11 (0.92), conceded 24 (2.00), blanks 5, clean sheets 2
 All: 20 games, scored 20 (1.00), conceded 37 (1.85), blanks 5, clean sheets 2
 
-"Kauno Zalgiris" matches several teams. Use id:<number> instead of the name:
-  id:3872   Kauno Žalgiris (Lithuania)
-  id:13971  Kauno Žalgiris II (Lithuania)
-(retrying Kauno Zalgiris using the opponent's country, Lithuania)
-"Kauno Zalgiris" matches several teams. Use id:<number> instead of the name:
-  id:3872   Kauno Žalgiris (Lithuania)
-  id:13971  Kauno Žalgiris II (Lithuania)
-!! Kauno Zalgiris: Ambiguous team name "Kauno Zalgiris".
+=== Kauno Žalgiris (id 3872): last 20 finished games ===
+2026-10-26 H 0-0 v FK Zalgiris Vilnius | A Lyga | Kaunas
+2026-10-22 H 1-4 v Brann | UEFA Europa Conference League | Kaunas | xG 1.56-3.37
+2026-10-19 A 1-0 v Suduva Marijampole | A Lyga | Marijampole
+2026-10-15 A 0-4 v Brighton | UEFA Europa Conference League | Brighton | xG 0.04-4.02
+2026-10-11 A 3-0 v Minija | Cup | Kaunas
+2026-09-20 A 2-0 v Šiauliai | A Lyga | ?
+2026-09-16 A 2-3 v FK Zalgiris Vilnius | A Lyga | Vilnius
+2026-09-13 A 1-0 v Panevėžys | A Lyga | ?
+2026-09-09 H 5-1 v Suduva Marijampole | A Lyga | Kaunas
+2026-09-06 H 5-0 v Džiugas Telšiai | A Lyga | Kaunas
+2026-09-03 A 1-0 v Šiauliai | Cup | ?
+2026-08-30 A 0-0 v Banga | A Lyga | Gargzdai
+2026-08-27 H 1-0 v Beşiktaş | UEFA Europa League | Kaunas
+2026-08-20 A 0-3 v Beşiktaş | UEFA Europa League | Istanbul
+2026-08-16 H 1-1 v TransINVEST Vilnius | A Lyga | Kaunas
+2026-08-11 H 1-2 v Dinamo Zagreb | UEFA Champions League | Kaunas
+2026-08-08 H 2-0 v Hegelmann Litauen | A Lyga | Kaunas
+2026-08-04 A 0-5 v Dinamo Zagreb | UEFA Champions League | Zagreb
+2026-07-29 H 1-0 v KI Klaksvik | UEFA Champions League | Jonava
+2026-07-21 A 0-0 v KI Klaksvik | UEFA Champions League | Klaksvík
+Listed home: 9 games, scored 17 (1.89), conceded 8 (0.89), blanks 1, clean sheets 5
+Listed away: 11 games, scored 10 (0.91), conceded 15 (1.36), blanks 5, clean sheets 7
+All: 20 games, scored 27 (1.35), conceded 23 (1.15), blanks 6, clean sheets 12
 
 TABLE FOR Hegelmann Litauen
 LEAGUE TABLE A Lyga 2026 | 10 teams | 137 games played
@@ -52,7 +68,9 @@ League averages per game: home 1.44, away 1.16, total 2.60
 9   Šiauliai                18 | 15  12-32      | 15  12-26      | 30  24-58
 10  FK Trakai                0 |  0   0-0       |  0   0-0       |  0   0-0
 
-(15 API-Football requests used)
+(Kauno Žalgiris: same table as Hegelmann Litauen, shown above)
+
+(25 API-Football requests used)
 
 ----------------------------------------------------------------------
 MATCHBOOK: skipped (switched off for this run)

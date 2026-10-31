@@ -1,21 +1,10 @@
-RUN 2026-10-31 15:46 local | 12 match(es)
-Manisa v Batman Petrolspor -> out/Manisa_v_Batman_Petrolspor.txt
-    !! Manisa: Ambiguous team name "Manisa".
-First Vienna v Blau Weiss Linz -> out/First_Vienna_v_Blau_Weiss_Linz.txt
-    !! Blau Weiss Linz: No team found for "Blau Weiss Linz".
-Hegelmann Litauen v Kauno Zalgiris -> out/Hegelmann_Litauen_v_Kauno_Zalgiris.txt
-    !! Kauno Zalgiris: Ambiguous team name "Kauno Zalgiris".
-id:494 v id:497 -> out/id_494_v_id_497.txt
-id:47 v id:52 -> out/id_47_v_id_52.txt
-id:157 v id:165 -> out/id_157_v_id_165.txt
-Charlotte v Orlando City SC -> out/Charlotte_v_Orlando_City_SC.txt
-Excursionistas v Camioneros -> out/Excursionistas_v_Camioneros.txt
-    !! Camioneros: Ambiguous team name "Camioneros".
-Al Hilal Saudi FC v Al Fateh -> out/Al_Hilal_Saudi_FC_v_Al_Fateh.txt
-    !! Al Hilal Saudi FC: No team found for "Al Hilal Saudi FC".
-    !! Al Fateh: No team found for "Al Fateh".
-Gimnasia Jujuy v San Martin de San Juan -> out/Gimnasia_Jujuy_v_San_Martin_de_San_Juan.txt
-    !! San Martin de San Juan: No team found for "San Martin de San Juan".
-Atlanta v id:1963 -> out/Atlanta_v_id_1963.txt
-Sampdoria v Virtus Entella -> out/Sampdoria_v_Virtus_Entella.txt
-Requests used: API-Football 228, Matchbook 0
+RUN 2026-10-31 15:48 local | 6 match(es)
+id:3597 v Batman Petrolspor -> out/id_3597_v_Batman_Petrolspor.txt
+First Vienna v BW Linz -> out/First_Vienna_v_BW_Linz.txt
+    !! BW Linz: Ambiguous team name "BW Linz".
+id:3861 v id:3872 -> out/id_3861_v_id_3872.txt
+Excursionistas v id:3943 -> out/Excursionistas_v_id_3943.txt
+id:2932 v Fateh -> out/id_2932_v_Fateh.txt
+Gimnasia Jujuy v San Martin S -> out/Gimnasia_Jujuy_v_San_Martin_S.txt
+    !! San Martin S: Ambiguous team name "San Martin S".
+Requests used: API-Football 132, Matchbook 0
