@@ -196,5 +196,16 @@
     "lay": 18,
     "stake": 3,
     "created": "2026-10-31T10:01:19+01:00"
+  },
+  {
+    "id": "2026-10-31_norrkoping-ostersunds-fk_2-2",
+    "date": "2026-10-31",
+    "ko": "13:00",
+    "match": "Norrkoping v Ostersunds FK",
+    "comp": "Sweden, Swedish Superettan",
+    "cell": "2-2",
+    "lay": 16,
+    "stake": 3,
+    "created": "2026-10-31T09:47:54Z"
   }
 ]
