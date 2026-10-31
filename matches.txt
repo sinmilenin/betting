@@ -1,3 +1,3 @@
-# 2026-10-31 15:35 scan retry (wrong teams: Aalesunds U19, Olympiakos Nicosia)
-Aalesund v Sandefjord | n=20 | xg=10
-Kifisia v Olympiakos Piraeus | n=20 | xg=10
+# 2026-10-31 16:10 scan
+Standard Liege v Kortrijk | n=20 | xg=10
+Celta Vigo B v Cordoba | n=20 | xg=10
