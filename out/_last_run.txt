@@ -1,3 +1,8 @@
-RUN 2026-10-31 07:28 local | 1 match(es)
-id:21011 v Okzhetpes -> out/id_21011_v_Okzhetpes.txt
-Requests used: API-Football 25, Matchbook 0
+RUN 2026-10-31 08:12 local | 4 match(es)
+PSM Makassar v Madura United -> out/PSM_Makassar_v_Madura_United.txt
+    !! Madura United: No team found for "Madura United".
+Irtysh v Ordabasy -> out/Irtysh_v_Ordabasy.txt
+Tobol v Aktobe -> out/Tobol_v_Aktobe.txt
+    !! Tobol: Ambiguous team name "Tobol".
+Amarante v Porto B -> out/Amarante_v_Porto_B.txt
+Requests used: API-Football 79, Matchbook 0
