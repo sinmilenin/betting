@@ -152,5 +152,49 @@
     "lay": 16,
     "stake": 3,
     "created": "2026-10-31T09:16:43+01:00"
+  },
+  {
+    "id": "2026-10-31_zhenys-fk-kaisar_0-2",
+    "date": "2026-10-31",
+    "ko": "11:00",
+    "match": "Zhenys v FK Kaisar",
+    "comp": "Kazakhstan, Kazakhstan Premier League",
+    "cell": "0-2",
+    "lay": 9.6,
+    "stake": 3,
+    "created": "2026-10-31T10:01:19+01:00"
+  },
+  {
+    "id": "2026-10-31_zhenys-fk-kaisar_0-3",
+    "date": "2026-10-31",
+    "ko": "11:00",
+    "match": "Zhenys v FK Kaisar",
+    "comp": "Kazakhstan, Kazakhstan Premier League",
+    "cell": "0-3",
+    "lay": 16,
+    "stake": 3,
+    "created": "2026-10-31T10:01:19+01:00"
+  },
+  {
+    "id": "2026-10-31_zhenys-fk-kaisar_1-2",
+    "date": "2026-10-31",
+    "ko": "11:00",
+    "match": "Zhenys v FK Kaisar",
+    "comp": "Kazakhstan, Kazakhstan Premier League",
+    "cell": "1-2",
+    "lay": 9.8,
+    "stake": 3,
+    "created": "2026-10-31T10:01:19+01:00"
+  },
+  {
+    "id": "2026-10-31_irtysh-pavlodar-fc-ordabasy_1-0",
+    "date": "2026-10-31",
+    "ko": "11:00",
+    "match": "Irtysh Pavlodar v FC Ordabasy",
+    "comp": "Kazakhstan, Kazakhstan Premier League",
+    "cell": "1-0",
+    "lay": 18,
+    "stake": 3,
+    "created": "2026-10-31T10:01:19+01:00"
   }
 ]
