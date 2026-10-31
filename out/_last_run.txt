@@ -1,4 +1,7 @@
-RUN 2026-10-31 12:02 local | 2 match(es)
-Floridsdorfer AC v id:1401 -> out/Floridsdorfer_AC_v_id_1401.txt
-Grimsby v York -> out/Grimsby_v_York.txt
-Requests used: API-Football 50, Matchbook 0
+RUN 2026-10-31 12:18 local | 5 match(es)
+id:16611 v id:4562 -> out/id_16611_v_id_4562.txt
+id:21010 v id:4564 -> out/id_21010_v_id_4564.txt
+id:4565 v id:692 -> out/id_4565_v_id_692.txt
+id:2259 v id:4563 -> out/id_2259_v_id_4563.txt
+id:15550 v id:939 -> out/id_15550_v_id_939.txt
+Requests used: API-Football 22, Matchbook 0
