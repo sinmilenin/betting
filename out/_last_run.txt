@@ -1,16 +1,13 @@
-RUN 2026-10-31 12:48 local | 11 match(es)
-West Ham v West Brom -> out/West_Ham_v_West_Brom.txt
-Southampton v QPR -> out/Southampton_v_QPR.txt
-Middlesbrough v Charlton -> out/Middlesbrough_v_Charlton.txt
-Bolton v Bristol City -> out/Bolton_v_Bristol_City.txt
-Millwall v Derby -> out/Millwall_v_Derby.txt
-Wolves v Cardiff -> out/Wolves_v_Cardiff.txt
-    !! Wolves: Ambiguous team name "Wolves".
-Fredrikstad v Rosenborg -> out/Fredrikstad_v_Rosenborg.txt
-Kilmarnock v St Johnstone -> out/Kilmarnock_v_St_Johnstone.txt
-Salford City v Exeter -> out/Salford_City_v_Exeter.txt
-    !! Exeter: Ambiguous team name "Exeter".
-Mansfield v Notts County -> out/Mansfield_v_Notts_County.txt
-    !! Mansfield: Ambiguous team name "Mansfield".
-Barnsley v Oxford United -> out/Barnsley_v_Oxford_United.txt
-Requests used: API-Football 240, Matchbook 0
+RUN 2026-10-31 12:51 local | 10 match(es)
+Fleetwood Town v Bristol Rovers -> out/Fleetwood_Town_v_Bristol_Rovers.txt
+Tranmere v Cheltenham -> out/Tranmere_v_Cheltenham.txt
+Stockport v AFC Wimbledon -> out/Stockport_v_AFC_Wimbledon.txt
+    !! Stockport: Ambiguous team name "Stockport".
+id:1360 v Northampton -> out/id_1360_v_Northampton.txt
+id:1353 v Rotherham -> out/id_1353_v_Rotherham.txt
+Feyenoord v Fortuna Sittard -> out/Feyenoord_v_Fortuna_Sittard.txt
+id:197 v Willem II -> out/id_197_v_Willem_II.txt
+id:39 v Cardiff -> out/id_39_v_Cardiff.txt
+Salford City v id:1364 -> out/Salford_City_v_id_1364.txt
+id:1374 v Notts County -> out/id_1374_v_Notts_County.txt
+Requests used: API-Football 237, Matchbook 0
