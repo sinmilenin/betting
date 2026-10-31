@@ -1,3 +1,2 @@
-# 2026-10-31 19:00 scan
-LASK Linz v WSG Tirol | n=20 | xg=10
-Alianza Atletico v Juan Pablo II | n=20 | xg=10
+# 2026-10-31 19:00 scan retry (team name)
+LASK Linz v WSG Wattens | n=20 | xg=10
