@@ -1,16 +1,5 @@
 [
   {
-    "id": "2026-10-31_macarthur-fc-western-sydney-wanderers_0-1",
-    "date": "2026-10-31",
-    "ko": "09:40",
-    "match": "Macarthur FC v Western Sydney Wanderers",
-    "comp": "Australia, Australian A-League Men",
-    "cell": "0-1",
-    "lay": 14,
-    "stake": 3,
-    "created": "2026-10-31T06:59:48+01:00"
-  },
-  {
     "id": "2026-10-31_bologna-ac-monza_1-0",
     "date": "2026-10-31",
     "ko": "15:00",
@@ -64,28 +53,6 @@
     "lay": 18.5,
     "stake": 3,
     "created": "2026-10-31T07:30:30Z"
-  },
-  {
-    "id": "2026-10-31_psm-makassar-madura-utd_1-0",
-    "date": "2026-10-31",
-    "ko": "09:30",
-    "match": "PSM Makassar v Madura Utd",
-    "comp": "Indonesia, Indonesian Super League",
-    "cell": "1-0",
-    "lay": 10,
-    "stake": 3,
-    "created": "2026-10-31T09:16:43+01:00"
-  },
-  {
-    "id": "2026-10-31_macarthur-fc-western-sydney-wanderers_0-2",
-    "date": "2026-10-31",
-    "ko": "09:40",
-    "match": "Macarthur FC v Western Sydney Wanderers",
-    "comp": "Australia, Australian A-League Men",
-    "cell": "0-2",
-    "lay": 16,
-    "stake": 3,
-    "created": "2026-10-31T09:16:43+01:00"
   },
   {
     "id": "2026-10-31_zhenys-fk-kaisar_1-3",
@@ -581,5 +548,38 @@
     "lay": 16.5,
     "stake": 3,
     "created": "2026-10-31T14:20:43+00:00"
+  },
+  {
+    "id": "2026-10-31_standard-kortrijk_2-1",
+    "date": "2026-10-31",
+    "ko": "18:15",
+    "match": "Standard v Kortrijk",
+    "comp": "Belgium, Belgian Pro League",
+    "cell": "2-1",
+    "lay": 9.4,
+    "stake": 3,
+    "created": "2026-10-31T16:05:28+01:00"
+  },
+  {
+    "id": "2026-10-31_standard-kortrijk_2-2",
+    "date": "2026-10-31",
+    "ko": "18:15",
+    "match": "Standard v Kortrijk",
+    "comp": "Belgium, Belgian Pro League",
+    "cell": "2-2",
+    "lay": 19.5,
+    "stake": 3,
+    "created": "2026-10-31T16:05:28+01:00"
+  },
+  {
+    "id": "2026-10-31_celta-vigo-b-cordoba_0-1",
+    "date": "2026-10-31",
+    "ko": "18:30",
+    "match": "Celta Vigo B v Cordoba",
+    "comp": "Spain, Spanish Segunda Division",
+    "cell": "0-1",
+    "lay": 15.5,
+    "stake": 3,
+    "created": "2026-10-31T16:05:28+01:00"
   }
 ]
