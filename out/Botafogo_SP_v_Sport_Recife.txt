@@ -1,0 +1,86 @@
+MATCH Botafogo SP v Sport Recife | fetched 2026-10-31 18:46 local
+
+FORM DATA Botafogo SP v Sport Recife | source API-Football | 2026-10-31 18:46 UTC
+H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
+
+=== Botafogo SP (id 2618): last 20 finished games ===
+2026-10-24 A 2-0 v Avai | Serie B | Florianopolis | xG 0.76-1.66
+2026-10-18 A 1-0 v CRB | Serie B | Maceio | xG 1.82-1.04
+2026-10-13 H 1-0 v Ceara | Serie B | Ribeirao Preto | xG 0.86-0.50
+2026-10-07 A 2-1 v Operario-PR | Serie B | Ponta Grossa | xG 0.68-0.56
+2026-10-03 H 0-1 v Vila Nova | Serie B | Ribeirao Preto | xG 1.14-0.22
+2026-09-29 H 2-0 v Ponte Preta | Serie B | Ribeirao Preto | xG 1.64-0.77
+2026-09-19 A 1-1 v Athletic Club | Serie B | Minas Gerais | xG 0.61-1.19
+2026-09-14 H 1-3 v Goias | Serie B | Ribeirao Preto | xG 2.54-1.46
+2026-09-09 H 1-3 v Novorizontino | Serie B | Ribeirao Preto | xG 0.68-1.54
+2026-09-03 A 0-1 v Nautico Recife | Serie B | Recife
+2026-08-29 H 1-2 v Cuiaba | Serie B | Ribeirao Preto
+2026-08-25 A 0-3 v Atletico Goianiense | Serie B | Goiânia
+2026-08-20 H 1-1 v Criciuma | Serie B | Ribeirao Preto
+2026-08-14 A 1-0 v São Bernardo | Serie B | Sao Bernardo do Campo
+2026-08-08 H 2-1 v America Mineiro | Serie B | Ribeirao Preto
+2026-07-29 A 0-1 v Fortaleza EC | Serie B | Fortaleza
+2026-07-24 H 4-2 v Juventude | Serie B | Ribeirao Preto
+2026-07-18 A 0-0 v Londrina | Serie B | Londrina
+2026-07-10 A 3-3 v Sport Recife | Serie B | Recife
+2026-07-06 H 3-1 v Avai | Serie B | Ribeirao Preto
+Listed home: 10 games, scored 16 (1.60), conceded 14 (1.40), blanks 1, clean sheets 2
+Listed away: 10 games, scored 10 (1.00), conceded 10 (1.00), blanks 4, clean sheets 4
+All: 20 games, scored 26 (1.30), conceded 24 (1.20), blanks 5, clean sheets 6
+
+=== Sport Recife (id 123): last 20 finished games ===
+2026-10-24 H 2-1 v Criciuma | Serie B | Recife | xG 1.51-1.56
+2026-10-16 H 0-2 v Fortaleza EC | Serie B | Recife | xG 0.81-0.67
+2026-10-11 A 1-1 v Atletico Goianiense | Serie B | Goiania | xG 1.84-2.03
+2026-10-06 H 2-1 v São Bernardo | Serie B | Recife | xG 1.63-1.99
+2026-10-01 A 2-1 v Athletic Club | Serie B | Minas Gerais | xG 0.59-1.74
+2026-09-26 A 1-3 v Nautico Recife | Serie B | Recife | xG 1.68-1.27
+2026-09-19 H 2-1 v Juventude | Serie B | Recife | xG 0.73-0.96
+2026-09-16 A 1-2 v CRB | Serie B | Maceio | xG 0.34-1.82
+2026-09-11 H 2-0 v Ponte Preta | Serie B | Recife | xG 3.55-0.62
+2026-09-05 A 1-2 v Ceara | Serie B | Fortaleza | xG 1.32-1.75
+2026-08-28 A 1-2 v Novorizontino | Serie B | Novo Horizonte
+2026-08-24 H 3-0 v America Mineiro | Serie B | Recife
+2026-08-19 A 1-2 v Avai | Serie B | Florianópolis
+2026-08-14 H 2-1 v Londrina | Serie B | Recife
+2026-08-08 A 1-0 v Vila Nova | Serie B | Goiânia
+2026-07-27 H 1-1 v Cuiaba | Serie B | Recife
+2026-07-22 A 1-1 v Goias | Serie B | Goiânia
+2026-07-18 H 2-2 v Operario-PR | Serie B | Recife
+2026-07-10 H 3-3 v Botafogo SP | Serie B | Recife
+2026-07-04 A 0-1 v Criciuma | Serie B | Criciúma
+Listed home: 10 games, scored 19 (1.90), conceded 12 (1.20), blanks 1, clean sheets 2
+Listed away: 10 games, scored 10 (1.00), conceded 15 (1.50), blanks 1, clean sheets 1
+All: 20 games, scored 29 (1.45), conceded 27 (1.35), blanks 2, clean sheets 3
+
+TABLE FOR Botafogo SP
+LEAGUE TABLE Serie B 2026 | 20 teams | 351 games played
+League averages per game: home 1.33, away 1.00, total 2.33
+#   team                   Pts | home P GF-GA  | away P GF-GA  | all P GF-GA
+1   Novorizontino           64 | 17  31-15      | 18  31-15      | 35  62-30
+2   Juventude               64 | 18  28-8       | 17  17-15      | 35  45-23
+3   Vila Nova               62 | 17  33-13      | 18  17-23      | 35  50-36
+4   Criciuma                62 | 18  21-10      | 18  17-20      | 36  38-30
+5   Fortaleza EC            61 | 17  27-16      | 18  16-15      | 35  43-31
+6   CRB                     55 | 18  33-20      | 17  20-29      | 35  53-49
+7   Sport Recife            54 | 18  30-19      | 17  17-19      | 35  47-38
+8   Atletico Goianiense     54 | 18  27-15      | 17  15-18      | 35  42-33
+9   Goias                   52 | 17  16-17      | 18  20-23      | 35  36-40
+10  Operario-PR             51 | 18  24-22      | 17  21-24      | 35  45-46
+11  São Bernardo            49 | 18  22-21      | 17  27-18      | 35  49-39
+12  Botafogo SP             47 | 17  26-22      | 18  14-16      | 35  40-38
+13  Cuiaba                  47 | 17  19-10      | 18  13-18      | 35  32-28
+14  Athletic Club           44 | 17  21-18      | 18  19-22      | 35  40-40
+15  Nautico Recife          43 | 17  19-17      | 18  20-29      | 35  39-46
+16  Ceara                   43 | 18  22-21      | 17  15-23      | 35  37-44
+17  Avai                    37 | 18  17-18      | 17  16-27      | 35  33-45
+18  Londrina                32 | 17  24-20      | 18  20-31      | 35  44-51
+19  America Mineiro         23 | 18  14-22      | 17   9-32      | 35  23-54
+20  Ponte Preta             15 | 18  13-28      | 18   8-50      | 36  21-78
+
+(Sport Recife: same table as Botafogo SP, shown above)
+
+(25 API-Football requests used)
+
+----------------------------------------------------------------------
+MATCHBOOK: skipped (switched off for this run)
