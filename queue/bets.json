@@ -1,27 +1,5 @@
 [
   {
-    "id": "2026-10-31_kashiwa-urawa_0-1",
-    "date": "2026-10-31",
-    "ko": "08:00",
-    "match": "Kashiwa v Urawa",
-    "comp": "Japan, Japanese J League",
-    "cell": "0-1",
-    "lay": 17,
-    "stake": 3,
-    "created": "2026-10-31T06:15:01+01:00"
-  },
-  {
-    "id": "2026-10-31_kashiwa-urawa_1-0",
-    "date": "2026-10-31",
-    "ko": "08:00",
-    "match": "Kashiwa v Urawa",
-    "comp": "Japan, Japanese J League",
-    "cell": "1-0",
-    "lay": 14.5,
-    "stake": 3,
-    "created": "2026-10-31T06:15:01+01:00"
-  },
-  {
     "id": "2026-10-31_macarthur-fc-western-sydney-wanderers_0-1",
     "date": "2026-10-31",
     "ko": "09:40",
@@ -438,5 +416,126 @@
     "lay": 11.5,
     "stake": 3,
     "created": "2026-10-31T12:55:57+00:00"
+  },
+  {
+    "id": "2026-10-31_norrby-if-varnamo_0-1",
+    "date": "2026-10-31",
+    "ko": "15:00",
+    "match": "Norrby IF v Varnamo",
+    "comp": "Sweden, Swedish Superettan",
+    "cell": "0-1",
+    "lay": 14.5,
+    "stake": 3,
+    "created": "2026-10-31T13:36:43+00:00"
+  },
+  {
+    "id": "2026-10-31_norrby-if-varnamo_1-0",
+    "date": "2026-10-31",
+    "ko": "15:00",
+    "match": "Norrby IF v Varnamo",
+    "comp": "Sweden, Swedish Superettan",
+    "cell": "1-0",
+    "lay": 13.5,
+    "stake": 3,
+    "created": "2026-10-31T13:36:43+00:00"
+  },
+  {
+    "id": "2026-10-31_pardubice-slovan-liberec_2-2",
+    "date": "2026-10-31",
+    "ko": "15:00",
+    "match": "Pardubice v Slovan Liberec",
+    "comp": "Czech Republic, Czech 1 Liga",
+    "cell": "2-2",
+    "lay": 17,
+    "stake": 3,
+    "created": "2026-10-31T13:36:43+00:00"
+  },
+  {
+    "id": "2026-10-31_digenis-ypsona-aek-larnaca_0-1",
+    "date": "2026-10-31",
+    "ko": "15:00",
+    "match": "Digenis Ypsona v AEK Larnaca",
+    "comp": "Cyprus, Cypriot 1st Division",
+    "cell": "0-1",
+    "lay": 8.6,
+    "stake": 3,
+    "created": "2026-10-31T13:36:43+00:00"
+  },
+  {
+    "id": "2026-10-31_fc-hunedoara-arges-pitesti_2-2",
+    "date": "2026-10-31",
+    "ko": "15:00",
+    "match": "FC Hunedoara v Arges Pitesti",
+    "comp": "Romania, Romanian Liga I",
+    "cell": "2-2",
+    "lay": 18,
+    "stake": 3,
+    "created": "2026-10-31T13:36:43+00:00"
+  },
+  {
+    "id": "2026-10-31_bregenz-admira-wacker_0-1",
+    "date": "2026-10-31",
+    "ko": "15:30",
+    "match": "Bregenz v Admira Wacker",
+    "comp": "Austria, Austrian Erste Liga",
+    "cell": "0-1",
+    "lay": 16.5,
+    "stake": 3,
+    "created": "2026-10-31T13:36:43+00:00"
+  },
+  {
+    "id": "2026-10-31_mk-dons-doncaster_1-0",
+    "date": "2026-10-31",
+    "ko": "16:00",
+    "match": "MK Dons v Doncaster",
+    "comp": "United Kingdom, English Sky Bet League 1",
+    "cell": "1-0",
+    "lay": 11.5,
+    "stake": 3,
+    "created": "2026-10-31T13:36:43+00:00"
+  },
+  {
+    "id": "2026-10-31_mk-dons-doncaster_2-2",
+    "date": "2026-10-31",
+    "ko": "16:00",
+    "match": "MK Dons v Doncaster",
+    "comp": "United Kingdom, English Sky Bet League 1",
+    "cell": "2-2",
+    "lay": 16,
+    "stake": 3,
+    "created": "2026-10-31T13:36:43+00:00"
+  },
+  {
+    "id": "2026-10-31_eibar-almeria_2-2",
+    "date": "2026-10-31",
+    "ko": "16:15",
+    "match": "Eibar v Almeria",
+    "comp": "Spain, Spanish Segunda Division",
+    "cell": "2-2",
+    "lay": 15,
+    "stake": 3,
+    "created": "2026-10-31T13:36:43+00:00"
+  },
+  {
+    "id": "2026-10-31_scr-altach-sv-ried_2-2",
+    "date": "2026-10-31",
+    "ko": "17:00",
+    "match": "SCR Altach v SV Ried",
+    "comp": "Austria, Austrian Bundesliga",
+    "cell": "2-2",
+    "lay": 15,
+    "stake": 3,
+    "created": "2026-10-31T13:36:43+00:00"
+  },
+  {
+    "id": "2026-10-31_catanzaro-padova_2-2",
+    "date": "2026-10-31",
+    "ko": "17:15",
+    "match": "Catanzaro v Padova",
+    "comp": "Italy, Italian Serie B",
+    "cell": "2-2",
+    "lay": 15,
+    "stake": 3,
+    "created": "2026-10-31T13:36:43+00:00"
   }
 ]
