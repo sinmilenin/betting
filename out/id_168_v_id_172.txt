@@ -1,0 +1,84 @@
+MATCH id:168 v id:172 | fetched 2026-10-31 13:33 local
+
+FORM DATA id:168 v id:172 | source API-Football | 2026-10-31 13:33 UTC
+H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
+
+=== Bayer Leverkusen (id 168): last 20 finished games ===
+2026-10-28 H 5-2 v 1. FC Nürnberg | DFB Pokal | Bayer Leverkusen | xG 3.11-1.02
+2026-10-25 A 0-3 v 1899 Hoffenheim | Bundesliga | Sinsheim | xG 0.57-3.46
+2026-10-22 A 2-0 v OFI | UEFA Europa League | Heraklion | xG 3.42-0.28
+2026-10-18 H 2-1 v SC Freiburg | Bundesliga | Bayer Leverkusen | xG 1.64-1.21
+2026-10-15 A 4-0 v Lech Poznan | UEFA Europa League | Poznan | xG 5.22-0.57
+2026-10-10 A 4-3 v FSV Mainz 05 | Bundesliga | Mainz | xG 2.09-3.13
+2026-09-20 H 2-0 v RB Leipzig | Bundesliga | Leverkusen | xG 2.27-0.97
+2026-09-16 H 2-0 v Celje | UEFA Europa League | Leverkusen | xG 1.93-0.90
+2026-09-12 A 2-2 v FC Augsburg | Bundesliga | Augsburg | xG 2.64-1.11
+2026-09-05 H 4-0 v Union Berlin | Bundesliga | Leverkusen | xG 3.11-0.39
+2026-08-29 A 2-3 v SV Elversberg | Bundesliga | Spiesen-Elversberg
+2026-08-22 A 4-0 v SV Wehen | DFB Pokal | Wiesbaden
+2026-08-15 A 2-1 v Newcastle | Friendlies Clubs | Newcastle
+2026-08-12 A 1-2 v Nottingham Forest | Friendlies Clubs | ?
+2026-08-08 H 2-1 v Sevilla | Friendlies Clubs | ?
+2026-08-01 H 3-0 v Rot-Weiß Essen | Friendlies Clubs | ?
+2026-07-29 H 4-0 v Genk | Friendlies Clubs | ?
+2026-07-25 A 3-1 v Kickers Offenbach | Friendlies Clubs | ?
+2026-07-18 A 7-0 v SF Baumberg | Friendlies Clubs | ?
+2026-05-16 H 1-1 v Hamburger SV | Bundesliga | Leverkusen
+Listed home: 9 games, scored 25 (2.78), conceded 5 (0.56), blanks 0, clean sheets 5
+Listed away: 11 games, scored 31 (2.82), conceded 15 (1.36), blanks 1, clean sheets 4
+All: 20 games, scored 56 (2.80), conceded 20 (1.00), blanks 1, clean sheets 9
+
+=== VfB Stuttgart (id 172): last 20 finished games ===
+2026-10-28 A 1-0 v SC Paderborn 07 | DFB Pokal | Paderborn | xG 3.22-0.92
+2026-10-23 H 2-3 v Borussia Mönchengladbach | Bundesliga | Stuttgart | xG 1.60-2.66
+2026-10-20 H 1-1 v Atletico Madrid | UEFA Champions League | Stuttgart | xG 1.63-0.91
+2026-10-17 A 0-1 v Hamburger SV | Bundesliga | Hamburger | xG 2.28-1.50
+2026-10-14 A 3-0 v Slovan Bratislava | UEFA Champions League | Bratislava | xG 2.21-0.82
+2026-10-10 A 2-0 v SC Paderborn 07 | Bundesliga | Paderborn | xG 2.47-1.96
+2026-10-01 H 5-0 v SpVgg Greuther Fürth | Friendlies Clubs | ?
+2026-09-25 H 3-0 v 1. FC Heidenheim | Friendlies Clubs | Stuttgart
+2026-09-19 H 0-1 v Borussia Dortmund | Bundesliga | Stuttgart | xG 0.87-1.34
+2026-09-12 A 1-2 v 1899 Hoffenheim | Bundesliga | Sinsheim | xG 2.16-2.76
+2026-09-09 H 3-1 v Viking | UEFA Champions League | Stuttgart
+2026-09-04 H 4-1 v 1. FC Köln | Bundesliga | Stuttgart
+2026-08-28 A 1-5 v Bayern München | Bundesliga | Munich
+2026-08-21 A 4-0 v Hansa Rostock | DFB Pokal | Rostock
+2026-08-15 A 0-1 v Fulham | Friendlies Clubs | ?
+2026-08-08 H 3-1 v Everton | Friendlies Clubs | ?
+2026-08-01 H 2-2 v Paris FC | Friendlies Clubs | ?
+2026-07-29 A 8-1 v Kickers Offenbach | Friendlies Clubs | ?
+2026-07-25 A 5-0 v Hollenbach | Friendlies Clubs | ?
+2026-07-19 A 7-0 v Balingen | Friendlies Clubs | ?
+Listed home: 9 games, scored 23 (2.56), conceded 10 (1.11), blanks 1, clean sheets 2
+Listed away: 11 games, scored 32 (2.91), conceded 10 (0.91), blanks 2, clean sheets 6
+All: 20 games, scored 55 (2.75), conceded 20 (1.00), blanks 3, clean sheets 8
+
+TABLE FOR Bayer Leverkusen
+LEAGUE TABLE Bundesliga 2026 | 18 teams | 64 games played
+League averages per game: home 2.22, away 1.36, total 3.58
+#   team                   Pts | home P GF-GA  | away P GF-GA  | all P GF-GA
+1   Bayern München          17 |  3  18-2       |  4   7-4       |  7  25-6
+2   Borussia Dortmund       17 |  4   8-2       |  3   4-2       |  7  12-4
+3   SC Freiburg             13 |  4  12-5       |  3   4-4       |  7  16-9
+4   Bayer Leverkusen        13 |  3   8-1       |  4   8-11      |  7  16-12
+5   SV Elversberg           13 |  4  12-8       |  4   4-8       |  8  16-16
+6   RB Leipzig              12 |  4  18-0       |  3   2-11      |  7  20-11
+7   Werder Bremen           12 |  3   8-5       |  4   7-9       |  7  15-14
+8   FSV Mainz 05            10 |  4   6-10      |  4  11-7       |  8  17-17
+9   FC Augsburg              9 |  4   8-5       |  3   9-8       |  7  17-13
+10  1899 Hoffenheim          9 |  4   9-7       |  3   5-7       |  7  14-14
+11  Hamburger SV             9 |  3   3-6       |  4   3-10      |  7   6-16
+12  1. FC Köln               8 |  4   6-4       |  3   2-7       |  7   8-11
+13  SC Paderborn 07          8 |  4   4-4       |  3   2-5       |  7   6-9
+14  Eintracht Frankfurt      8 |  3   4-6       |  4   6-11      |  7  10-17
+15  VfB Stuttgart            6 |  3   6-5       |  4   4-8       |  7  10-13
+16  FC Schalke 04            6 |  3   0-1       |  4   4-6       |  7   4-7
+17  Union Berlin             6 |  4   5-6       |  3   1-12      |  7   6-18
+18  Borussia Mönchengladba   3 |  3   7-10      |  4   4-12      |  7  11-22
+
+(VfB Stuttgart: same table as Bayer Leverkusen, shown above)
+
+(26 API-Football requests used)
+
+----------------------------------------------------------------------
+MATCHBOOK: skipped (switched off for this run)
