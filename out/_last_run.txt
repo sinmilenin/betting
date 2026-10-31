@@ -1,13 +1,3 @@
-RUN 2026-10-31 12:51 local | 10 match(es)
-Fleetwood Town v Bristol Rovers -> out/Fleetwood_Town_v_Bristol_Rovers.txt
-Tranmere v Cheltenham -> out/Tranmere_v_Cheltenham.txt
-Stockport v AFC Wimbledon -> out/Stockport_v_AFC_Wimbledon.txt
-    !! Stockport: Ambiguous team name "Stockport".
-id:1360 v Northampton -> out/id_1360_v_Northampton.txt
-id:1353 v Rotherham -> out/id_1353_v_Rotherham.txt
-Feyenoord v Fortuna Sittard -> out/Feyenoord_v_Fortuna_Sittard.txt
-id:197 v Willem II -> out/id_197_v_Willem_II.txt
-id:39 v Cardiff -> out/id_39_v_Cardiff.txt
-Salford City v id:1364 -> out/Salford_City_v_id_1364.txt
-id:1374 v Notts County -> out/id_1374_v_Notts_County.txt
-Requests used: API-Football 237, Matchbook 0
+RUN 2026-10-31 12:52 local | 1 match(es)
+id:4686 v AFC Wimbledon -> out/id_4686_v_AFC_Wimbledon.txt
+Requests used: API-Football 26, Matchbook 0
