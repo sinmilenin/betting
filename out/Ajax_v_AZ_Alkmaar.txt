@@ -1,0 +1,84 @@
+MATCH Ajax v AZ Alkmaar | fetched 2026-10-31 17:14 local
+
+FORM DATA Ajax v AZ Alkmaar | source API-Football | 2026-10-31 17:14 UTC
+H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
+
+=== Ajax (id 194): last 20 finished games ===
+2026-10-25 A 2-1 v Sparta Rotterdam | Eredivisie | Rotterdam | xG 1.37-0.85
+2026-10-22 H 2-0 v Atalanta | UEFA Europa Conference League | Amsterdam | xG 1.78-0.97
+2026-10-18 A 5-2 v Groningen | Eredivisie | Groningen | xG 3.04-2.29
+2026-10-15 A 1-2 v HNK Hajduk Split | UEFA Europa Conference League | Split | xG 1.15-1.99
+2026-10-10 H 1-1 v NEC Nijmegen | Eredivisie | Amsterdam | xG 1.78-1.05
+2026-09-19 H 2-2 v Excelsior | Eredivisie | Amsterdam | xG 2.51-0.82
+2026-09-15 H 5-1 v Willem II | Eredivisie | Amsterdam | xG 3.79-1.58
+2026-09-12 A 5-1 v Fortuna Sittard | Eredivisie | Sittard | xG 4.13-0.71
+2026-09-05 H 1-3 v PSV Eindhoven | Eredivisie | Amsterdam | xG 1.99-2.55
+2026-08-30 A 4-0 v Telstar | Eredivisie | Velsen | xG 2.13-1.13
+2026-08-27 H 5-3 v FC Sion | UEFA Europa Conference League | Amsterdam
+2026-08-20 A 4-2 v FC Sion | UEFA Europa Conference League | Sion
+2026-08-16 H 2-2 v Heerenveen | Eredivisie | Amsterdam
+2026-08-13 A 2-2 v Shelbourne | UEFA Europa Conference League | Dublin
+2026-08-09 A 2-0 v PEC Zwolle | Eredivisie | Zwolle
+2026-08-06 H 3-1 v Shelbourne | UEFA Europa Conference League | Amsterdam
+2026-08-02 A 3-1 v FC Volendam | Friendlies Clubs | Volendam
+2026-07-30 H 4-1 v Vojvodina | UEFA Europa Conference League | Amsterdam
+2026-07-26 H 2-1 v Burnley | Friendlies Clubs | Amsterdam
+2026-07-23 A 4-1 v Vojvodina | UEFA Europa Conference League | Novi Sad
+Listed home: 10 games, scored 27 (2.70), conceded 15 (1.50), blanks 0, clean sheets 1
+Listed away: 10 games, scored 32 (3.20), conceded 12 (1.20), blanks 0, clean sheets 2
+All: 20 games, scored 59 (2.95), conceded 27 (1.35), blanks 0, clean sheets 3
+
+=== AZ Alkmaar (id 201): last 20 finished games ===
+2026-10-25 H 0-2 v Twente | Eredivisie | Alkmaar | xG 1.24-2.04
+2026-10-22 A 4-0 v Ararat-Armenia | UEFA Europa League | Yerevan | xG 1.89-0.43
+2026-10-18 A 2-2 v Cambuur | Eredivisie | Leeuwarden | xG 1.56-1.53
+2026-10-15 H 2-1 v Hapoel Beer Sheva | UEFA Europa League | Alkmaar | xG 2.75-1.09
+2026-10-10 A 0-2 v Feyenoord | Eredivisie | Rotterdam | xG 0.77-2.30
+2026-09-20 H 1-0 v Telstar | Eredivisie | Alkmaar | xG 2.35-0.10
+2026-09-16 A 0-1 v Sunderland | UEFA Europa League | Sunderland | xG 1.49-2.90
+2026-09-11 H 1-1 v Willem II | Eredivisie | Alkmaar | xG 2.48-0.93
+2026-09-06 A 3-2 v Heerenveen | Eredivisie | Heerenveen | xG 1.04-1.48
+2026-08-29 H 5-2 v GO Ahead Eagles | Eredivisie | Alkmaar | xG 2.37-1.66
+2026-08-22 A 2-0 v Fortuna Sittard | Eredivisie | Sittard
+2026-08-15 A 4-1 v Utrecht | Eredivisie | Utrecht
+2026-08-08 H 2-0 v ADO Den Haag | Eredivisie | Alkmaar
+2026-08-02 A 4-0 v PSV Eindhoven | Super Cup | Eindhoven
+2026-07-25 H 3-2 v Olympiakos Piraeus | Friendlies Clubs | ?
+2026-07-22 H 4-0 v Genk | Friendlies Clubs | ?
+2026-07-18 A 1-1 v Zulte Waregem | Friendlies Clubs | ?
+2026-07-15 H 0-1 v Anderlecht | Friendlies Clubs | ?
+2026-07-11 H 2-1 v Almere City FC | Friendlies Clubs | ?
+2026-07-04 H 3-3 v Gent | Friendlies Clubs | ?
+Listed home: 11 games, scored 23 (2.09), conceded 13 (1.18), blanks 2, clean sheets 3
+Listed away: 9 games, scored 20 (2.22), conceded 9 (1.00), blanks 2, clean sheets 3
+All: 20 games, scored 43 (2.15), conceded 22 (1.10), blanks 4, clean sheets 6
+
+TABLE FOR Ajax
+LEAGUE TABLE Eredivisie 2026 | 18 teams | 90 games played
+League averages per game: home 1.76, away 2.04, total 3.80
+#   team                   Pts | home P GF-GA  | away P GF-GA  | all P GF-GA
+1   Feyenoord               24 |  4  11-4       |  6  21-7       | 10  32-11
+2   Ajax                    21 |  5  11-9       |  5  18-4       | 10  29-13
+3   PSV Eindhoven           20 |  5  14-5       |  5  14-8       | 10  28-13
+4   Twente                  20 |  5  10-5       |  5   9-5       | 10  19-10
+5   AZ Alkmaar              20 |  5   9-5       |  5  11-7       | 10  20-12
+6   Fortuna Sittard         18 |  5   6-9       |  5  11-8       | 10  17-17
+7   Heerenveen              15 |  5   7-5       |  5  11-8       | 10  18-13
+8   Groningen               15 |  5  11-11      |  5  13-10      | 10  24-21
+9   GO Ahead Eagles         14 |  5  14-8       |  5   9-15      | 10  23-23
+10  Cambuur                 12 |  5   8-15      |  5  11-7       | 10  19-22
+11  Utrecht                 12 |  5   9-15      |  5   8-12      | 10  17-27
+12  NEC Nijmegen            11 |  6   9-12      |  4   8-6       | 10  17-18
+13  Excelsior               11 |  4   5-10      |  6  11-9       | 10  16-19
+14  Sparta Rotterdam         9 |  6   9-14      |  4   8-10      | 10  17-24
+15  PEC Zwolle               8 |  5   5-14      |  5   6-9       | 10  11-23
+16  Telstar                  6 |  5   8-15      |  5   4-6       | 10  12-21
+17  ADO Den Haag             6 |  5   8-12      |  5   5-11      | 10  13-23
+18  Willem II                2 |  5   4-16      |  5   6-16      | 10  10-32
+
+(AZ Alkmaar: same table as Ajax, shown above)
+
+(25 API-Football requests used)
+
+----------------------------------------------------------------------
+MATCHBOOK: skipped (switched off for this run)

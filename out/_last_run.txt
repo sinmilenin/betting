@@ -1,3 +1,22 @@
-RUN 2026-10-31 16:30 local | 1 match(es)
-id:3484 v id:6962 -> out/id_3484_v_id_6962.txt
-Requests used: API-Football 26, Matchbook 0
+RUN 2026-10-31 17:14 local | 12 match(es)
+New York City v CF Montreal -> out/New_York_City_v_CF_Montreal.txt
+    !! New York City: Ambiguous team name "New York City".
+St Louis City v San Diego -> out/St_Louis_City_v_San_Diego.txt
+    !! St Louis City: No team found for "St Louis City".
+Karlsruher SC v Heidenheim -> out/Karlsruher_SC_v_Heidenheim.txt
+    !! Heidenheim: Ambiguous team name "Heidenheim".
+Luzern v Sion -> out/Luzern_v_Sion.txt
+    !! Luzern: Ambiguous team name "Luzern".
+    !! Sion: Ambiguous team name "Sion".
+Anderlecht v Westerlo -> out/Anderlecht_v_Westerlo.txt
+Waasland-Beveren v Union St. Gilloise -> out/Waasland_Beveren_v_Union_St_Gilloise.txt
+    !! Waasland-Beveren: API-Football error: {"search": "The Search field may only contain alpha-numeric characters and spaces."}
+    !! Union St. Gilloise: API-Football error: {"search": "The Search field may only contain alpha-numeric characters and spaces."}
+Troyes v Le Mans -> out/Troyes_v_Le_Mans.txt
+    !! Troyes: Ambiguous team name "Troyes".
+Deportivo Riestra v Talleres Cordoba -> out/Deportivo_Riestra_v_Talleres_Cordoba.txt
+Albacete v Sabadell -> out/Albacete_v_Sabadell.txt
+Ajax v AZ Alkmaar -> out/Ajax_v_AZ_Alkmaar.txt
+Cambuur v Go Ahead Eagles -> out/Cambuur_v_Go_Ahead_Eagles.txt
+Coritiba v Vitoria -> out/Coritiba_v_Vitoria.txt
+Requests used: API-Football 204, Matchbook 0
