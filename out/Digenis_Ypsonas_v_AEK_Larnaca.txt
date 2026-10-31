@@ -1,0 +1,55 @@
+MATCH Digenis Ypsonas v AEK Larnaca | fetched 2026-10-31 13:30 local
+
+FORM DATA Digenis Ypsonas v AEK Larnaca | source API-Football | 2026-10-31 13:30 UTC
+H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
+
+=== AEK Larnaca (id 614): last 20 finished games ===
+2026-10-26 H 2-0 v Omonia Nicosia | 1. Division | Larnaca
+2026-10-21 H 2-2 v Akritas | Cup | Larnaca [AET, 90-min score shown]
+2026-10-18 A 1-1 v Aris | 1. Division | Kolossi
+2026-10-12 H 1-0 v Omonia Aradippou | 1. Division | Larnaca
+2026-10-03 H 3-0 v Apollon Limassol | Friendlies Clubs | ?
+2026-09-27 H 2-1 v Nea Salamis | Friendlies Clubs | ?
+2026-09-18 A 2-1 v Omonia 29is Maiou | 1. Division | Nicosia
+2026-09-13 H 0-1 v Pafos | 1. Division | Larnaca
+2026-09-06 A 4-1 v Nea Salamis | 1. Division | Larnaca
+2026-08-29 H 3-1 v Apoel Nicosia | 1. Division | Larnaca
+2026-08-08 H 0-1 v Omonia Aradippou | Friendlies Clubs | ?
+2026-07-30 A 3-2 v Beitar Jerusalem | UEFA Europa Conference League | Ploiesti [PEN, 90-min score shown]
+2026-07-23 H 0-1 v Beitar Jerusalem | UEFA Europa Conference League | Larnaca
+2026-07-16 A 0-0 v Apollon Limassol | Friendlies Clubs | ?
+2026-07-10 A 0-1 v Ajax | Friendlies Clubs | ?
+2026-07-07 A 2-3 v PAOK | Friendlies Clubs | ?
+2026-07-04 A 2-1 v Helmond Sport | Friendlies Clubs | ?
+2026-05-22 A 4-3 v Aris | 1. Division | Kolossi
+2026-05-16 H 2-2 v Pafos | 1. Division | Larnaca
+2026-05-10 A 1-1 v Omonia Nicosia | 1. Division | Nicosia
+Listed home: 10 games, scored 15 (1.50), conceded 9 (0.90), blanks 3, clean sheets 3
+Listed away: 10 games, scored 19 (1.90), conceded 14 (1.40), blanks 2, clean sheets 1
+All: 20 games, scored 34 (1.70), conceded 23 (1.15), blanks 5, clean sheets 4
+
+!! Digenis Ypsonas: No team found for "Digenis Ypsonas".
+
+TABLE FOR AEK Larnaca
+LEAGUE TABLE 1. Division 2026 | 14 teams | 50 games played
+League averages per game: home 1.46, away 1.42, total 2.88
+#   team                   Pts | home P GF-GA  | away P GF-GA  | all P GF-GA
+1   AEK Larnaca             16 |  4   6-2       |  3   7-3       |  7  13-5
+2   Apollon Limassol        15 |  3   9-5       |  4  10-3       |  7  19-8
+3   AEL                     15 |  4   7-5       |  3   4-6       |  7  11-11
+4   Omonia Nicosia          12 |  4   6-3       |  3   7-3       |  7  13-6
+5   Pafos                   12 |  3   0-2       |  4   7-1       |  7   7-3
+6   Aris                    12 |  4   4-7       |  3   6-2       |  7  10-9
+7   Apoel Nicosia           11 |  3  12-2       |  4   4-7       |  7  16-9
+8   Omonia 29is Maiou        8 |  3   4-4       |  4   8-9       |  7  12-13
+9   Karmiotissa              6 |  5   2-12      |  3   3-4       |  8   5-16
+10  Anorthosis               6 |  3   5-4       |  4   1-9       |  7   6-13
+11  Omonia Aradippou         6 |  3   3-4       |  4   1-4       |  7   4-8
+12  Olympiakos               6 |  4   8-9       |  4   3-4       |  8  11-13
+13  Nea Salamis              5 |  3   4-4       |  4   7-11      |  7  11-15
+14  Krasava Ypsonas          4 |  4   3-8       |  3   3-7       |  7   6-15
+
+(14 API-Football requests used)
+
+----------------------------------------------------------------------
+MATCHBOOK: skipped (switched off for this run)

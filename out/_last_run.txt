@@ -1,3 +1,26 @@
-RUN 2026-10-31 12:52 local | 1 match(es)
-id:4686 v AFC Wimbledon -> out/id_4686_v_AFC_Wimbledon.txt
-Requests used: API-Football 26, Matchbook 0
+RUN 2026-10-31 13:30 local | 13 match(es)
+Norrby v Varnamo -> out/Norrby_v_Varnamo.txt
+    !! Varnamo: Ambiguous team name "Varnamo".
+Pardubice v Slovan Liberec -> out/Pardubice_v_Slovan_Liberec.txt
+Hajduk Split v Gorica -> out/Hajduk_Split_v_Gorica.txt
+    !! Hajduk Split: Ambiguous team name "Hajduk Split".
+Digenis Ypsonas v AEK Larnaca -> out/Digenis_Ypsonas_v_AEK_Larnaca.txt
+    !! Digenis Ypsonas: No team found for "Digenis Ypsonas".
+Jablonec v Slavia Prague -> out/Jablonec_v_Slavia_Prague.txt
+    !! Jablonec: Ambiguous team name "Jablonec".
+    !! Slavia Prague: No team found for "Slavia Prague".
+Hunedoara v Arges Pitesti -> out/Hunedoara_v_Arges_Pitesti.txt
+MK Dons v Doncaster -> out/MK_Dons_v_Doncaster.txt
+    !! MK Dons: No team found for "MK Dons".
+Eibar v Almeria -> out/Eibar_v_Almeria.txt
+Altach v Ried -> out/Altach_v_Ried.txt
+    !! Altach: Ambiguous team name "Altach".
+Macva Sabac v Crvena Zvezda -> out/Macva_Sabac_v_Crvena_Zvezda.txt
+    !! Macva Sabac: No team found for "Macva Sabac".
+    !! Crvena Zvezda: Ambiguous team name "Crvena Zvezda".
+Fenerbahce v Goztepe -> out/Fenerbahce_v_Goztepe.txt
+    !! Fenerbahce: Ambiguous team name "Fenerbahce".
+    !! Goztepe: Ambiguous team name "Goztepe".
+Catanzaro v Padova -> out/Catanzaro_v_Padova.txt
+Falkenbergs v Sandvikens -> out/Falkenbergs_v_Sandvikens.txt
+Requests used: API-Football 211, Matchbook 0
