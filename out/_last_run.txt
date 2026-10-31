@@ -1,11 +1,4 @@
-RUN 2026-10-31 13:33 local | 9 match(es)
-id:500 v id:1579 -> out/id_500_v_id_1579.txt
-id:168 v id:172 -> out/id_168_v_id_172.txt
-id:162 v id:167 -> out/id_162_v_id_167.txt
-id:35 v id:63 -> out/id_35_v_id_63.txt
-id:64 v id:57 -> out/id_64_v_id_57.txt
-id:50 v id:51 -> out/id_50_v_id_51.txt
-id:55 v id:65 -> out/id_55_v_id_65.txt
-Coventry v id:746 -> out/Coventry_v_id_746.txt
-id:728 v id:538 -> out/id_728_v_id_538.txt
-Requests used: API-Football 223, Matchbook 0
+RUN 2026-10-31 14:16 local | 2 match(es)
+Aalesunds v Sandefjord -> out/Aalesunds_v_Sandefjord.txt
+Kifisia v Olympiakos -> out/Kifisia_v_Olympiakos.txt
+Requests used: API-Football 54, Matchbook 0
