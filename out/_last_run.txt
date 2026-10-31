@@ -1,7 +1,5 @@
-RUN 2026-10-31 07:26 local | 3 match(es)
-Zhenis v Kaisar -> out/Zhenis_v_Kaisar.txt
-    !! Zhenis: No team found for "Zhenis".
-Elimai v Okzhetpes -> out/Elimai_v_Okzhetpes.txt
-    !! Elimai: No team found for "Elimai".
-Ulytau v Atyrau -> out/Ulytau_v_Atyrau.txt
-Requests used: API-Football 51, Matchbook 0
+RUN 2026-10-31 07:27 local | 2 match(es)
+Zhenys v Kaisar -> out/Zhenys_v_Kaisar.txt
+Yelimay v Okzhetpes -> out/Yelimay_v_Okzhetpes.txt
+    !! Yelimay: Ambiguous team name "Yelimay".
+Requests used: API-Football 39, Matchbook 0

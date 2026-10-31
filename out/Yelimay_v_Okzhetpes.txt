@@ -1,8 +1,11 @@
-MATCH Elimai v Okzhetpes | fetched 2026-10-31 07:26 local
+MATCH Yelimay v Okzhetpes | fetched 2026-10-31 07:27 local
 
-FORM DATA Elimai v Okzhetpes | source API-Football | 2026-10-31 07:27 UTC
+FORM DATA Yelimay v Okzhetpes | source API-Football | 2026-10-31 07:27 UTC
 H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
 
+"Yelimay" matches several teams. Use id:<number> instead of the name:
+  id:21011  Yelimay Semey (Kazakhstan)
+  id:27635  Yelimay Semey 2 (Kazakhstan)
 === Okzhetpes (id 4558): last 20 finished games ===
 2026-10-24 H 3-0 v Kaspiy | Premier League | Kokshetau
 2026-10-17 H 1-0 v Kyzyl-Zhar | Premier League | Kokshetau
@@ -28,7 +31,11 @@ Listed home: 10 games, scored 21 (2.10), conceded 9 (0.90), blanks 0, clean shee
 Listed away: 10 games, scored 12 (1.20), conceded 20 (2.00), blanks 2, clean sheets 2
 All: 20 games, scored 33 (1.65), conceded 29 (1.45), blanks 2, clean sheets 6
 
-!! Elimai: No team found for "Elimai".
+(retrying Yelimay using the opponent's country, Kazakhstan)
+"Yelimay" matches several teams. Use id:<number> instead of the name:
+  id:21011  Yelimay Semey (Kazakhstan)
+  id:27635  Yelimay Semey 2 (Kazakhstan)
+!! Yelimay: Ambiguous team name "Yelimay".
 
 TABLE FOR Okzhetpes
 LEAGUE TABLE Premier League 2026 | 16 teams | 232 games played
@@ -51,7 +58,7 @@ League averages per game: home 1.47, away 1.07, total 2.53
 15  Zhetysu                 26 | 14  12-16      | 15  17-31      | 29  29-47
 16  Kaisar                  25 | 15  14-19      | 14  10-20      | 29  24-39
 
-(13 API-Football requests used)
+(14 API-Football requests used)
 
 ----------------------------------------------------------------------
 MATCHBOOK: skipped (switched off for this run)
