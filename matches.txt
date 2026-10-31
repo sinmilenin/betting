@@ -1,2 +1,5 @@
-# Scan 31.10 08:26 run 3 (Ljubljana) - Yelimay Semey id fix
-id:21011 v Okzhetpes | n=20 | xg=10
+# Scan 31.10 09:11 (Ljubljana)
+PSM Makassar v Madura United | n=20 | xg=10
+Irtysh v Ordabasy | n=20 | xg=10
+Tobol v Aktobe | n=20 | xg=10
+Amarante v Porto B | n=20 | xg=10
