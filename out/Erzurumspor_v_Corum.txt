@@ -1,0 +1,21 @@
+MATCH Erzurumspor v Corum | fetched 2026-10-31 08:57 local
+
+FORM DATA Erzurumspor v Corum | source API-Football | 2026-10-31 08:57 UTC
+H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
+
+"Erzurumspor" matches several teams. Use id:<number> instead of the name:
+  id:1009   Erzurumspor FK (Turkey)
+  id:28243  Erzurumspor U19 (Turkey)
+"Corum" matches several teams. Use id:<number> instead of the name:
+  id:1206   Corumbaense (Brazil)
+  id:6343   Çorum FK (Turkey)
+  id:13391  Çorumspor (Turkey)
+  id:28242  Corum U19 (Turkey)
+!! Erzurumspor: Ambiguous team name "Erzurumspor".
+
+!! Corum: Ambiguous team name "Corum".
+
+(2 API-Football requests used)
+
+----------------------------------------------------------------------
+MATCHBOOK: skipped (switched off for this run)

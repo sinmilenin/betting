@@ -1,4 +1,6 @@
-RUN 2026-10-31 08:13 local | 2 match(es)
-PSM Makassar v Persepam Madura Utd -> out/PSM_Makassar_v_Persepam_Madura_Utd.txt
-id:2259 v Aktobe -> out/id_2259_v_Aktobe.txt
-Requests used: API-Football 50, Matchbook 0
+RUN 2026-10-31 08:57 local | 2 match(es)
+Erzurumspor v Corum -> out/Erzurumspor_v_Corum.txt
+    !! Erzurumspor: Ambiguous team name "Erzurumspor".
+    !! Corum: Ambiguous team name "Corum".
+Kagoshima United v Roasso Kumamoto -> out/Kagoshima_United_v_Roasso_Kumamoto.txt
+Requests used: API-Football 27, Matchbook 0
