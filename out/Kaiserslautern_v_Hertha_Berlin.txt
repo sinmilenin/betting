@@ -1,0 +1,57 @@
+MATCH Kaiserslautern v Hertha Berlin | fetched 2026-10-31 09:44 local
+
+FORM DATA Kaiserslautern v Hertha Berlin | source API-Football | 2026-10-31 09:44 UTC
+H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
+
+"Kaiserslautern" matches several teams. Use id:<number> instead of the name:
+  id:745    1. FC Kaiserslautern (Germany)
+  id:10262  Kaiserslautern U19 (Germany)
+  id:12800  Kaiserslautern II (Germany)
+=== Hertha Berlin W (id 27444): last 13 finished games ===
+2026-10-25 H 1-1 v Andernach W | 2. Frauen Bundesliga | ?
+2026-10-18 A 2-2 v SC Sand W | 2. Frauen Bundesliga | Willstatt
+2026-10-04 H 3-1 v Hoffenheim II W | 2. Frauen Bundesliga | ?
+2026-09-26 H 1-2 v FC Koln W | DFB Pokal - Women | ?
+2026-09-20 A 2-1 v Eintracht Frankfurt II W | 2. Frauen Bundesliga | ?
+2026-09-13 H 2-0 v Meppen W | 2. Frauen Bundesliga | ?
+2026-09-06 A 3-2 v Borussia Monchengladbach W | 2. Frauen Bundesliga | ?
+2026-08-30 H 2-1 v Ingolstadt W | 2. Frauen Bundesliga | ?
+2026-08-23 A 2-1 v Turbine Potsdam W | 2. Frauen Bundesliga | Potsdam-Babelsberg
+2026-08-15 A 5-0 v Jesteburg W | DFB Pokal - Women | ?
+2026-08-09 H 2-0 v FC Koln II W | 2. Frauen Bundesliga | ?
+2026-08-02 A 0-3 v Bochum W | 2. Frauen Bundesliga | Bochum
+2026-02-02 A 0-1 v India W | Friendlies Women | ?
+Listed home: 6 games, scored 11 (1.83), conceded 5 (0.83), blanks 0, clean sheets 2
+Listed away: 7 games, scored 14 (2.00), conceded 10 (1.43), blanks 2, clean sheets 1
+All: 13 games, scored 25 (1.92), conceded 15 (1.15), blanks 2, clean sheets 3
+
+(retrying Kaiserslautern using the opponent's country, Germany)
+"Kaiserslautern" matches several teams. Use id:<number> instead of the name:
+  id:745    1. FC Kaiserslautern (Germany)
+  id:10262  Kaiserslautern U19 (Germany)
+  id:12800  Kaiserslautern II (Germany)
+!! Kaiserslautern: Ambiguous team name "Kaiserslautern".
+
+TABLE FOR Hertha Berlin W
+LEAGUE TABLE 2. Frauen Bundesliga 2026 | 14 teams | 70 games played
+League averages per game: home 1.66, away 1.37, total 3.03
+#   team                   Pts | home P GF-GA  | away P GF-GA  | all P GF-GA
+1   Viktoria Berlin W       27 |  5   6-3       |  5  11-2       | 10  17-5
+2   SGS Essen W             23 |  5  16-4       |  5  13-4       | 10  29-8
+3   Hertha Berlin W         23 |  5  10-3       |  5   9-9       | 10  19-12
+4   Bochum W                20 |  5  17-0       |  5   9-12      | 10  26-12
+5   Meppen W                16 |  4   9-3       |  6   8-7       | 10  17-10
+6   Ingolstadt W            15 |  6  11-7       |  4   3-4       | 10  14-11
+7   Carl Zeiss Jena  W      13 |  5   8-7       |  5   8-8       | 10  16-15
+8   Borussia Monchengladba  13 |  6   9-11      |  4   8-7       | 10  17-18
+9   Andernach W             13 |  5   6-11      |  5   7-11      | 10  13-22
+10  SC Sand W               12 |  4   4-9       |  6   8-6       | 10  12-15
+11  Eintracht Frankfurt II  10 |  5   4-6       |  5   2-12      | 10   6-18
+12  Hoffenheim II W          5 |  5   9-10      |  5   5-14      | 10  14-24
+13  Turbine Potsdam W        5 |  5   4-9       |  5   3-13      | 10   7-22
+14  FC Koln II W             2 |  5   3-13      |  5   2-7       | 10   5-20
+
+(15 API-Football requests used)
+
+----------------------------------------------------------------------
+MATCHBOOK: skipped (switched off for this run)

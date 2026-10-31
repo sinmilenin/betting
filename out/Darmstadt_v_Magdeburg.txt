@@ -1,0 +1,25 @@
+MATCH Darmstadt v Magdeburg | fetched 2026-10-31 09:44 local
+
+FORM DATA Darmstadt v Magdeburg | source API-Football | 2026-10-31 09:44 UTC
+H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
+
+"Darmstadt" matches several teams. Use id:<number> instead of the name:
+  id:181    SV Darmstadt 98 (Germany)
+  id:14028  Darmstadt 98 U19 (Germany)
+  id:17082  Rot-Weiß Darmstadt (Germany)
+  id:24517  Darmstadt 98 II (Germany)
+"Magdeburg" matches several teams. Use id:<number> instead of the name:
+  id:179    1. FC Magdeburg (Germany)
+  id:10267  Magdeburg U19 (Germany)
+  id:20486  Magdeburger FFC W (Germany)
+  id:21525  Magdeburg II (Germany)
+  id:24127  Magdeburg W (Germany)
+  id:27939  Arminia Magdeburg U19 (Germany)
+!! Darmstadt: Ambiguous team name "Darmstadt".
+
+!! Magdeburg: Ambiguous team name "Magdeburg".
+
+(2 API-Football requests used)
+
+----------------------------------------------------------------------
+MATCHBOOK: skipped (switched off for this run)

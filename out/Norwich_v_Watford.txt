@@ -1,0 +1,90 @@
+MATCH Norwich v Watford | fetched 2026-10-31 09:44 local
+
+FORM DATA Norwich v Watford | source API-Football | 2026-10-31 09:44 UTC
+H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
+
+=== Norwich (id 71): last 20 finished games ===
+2026-10-24 A 3-1 v Charlton | Championship | London | xG 1.77-0.68
+2026-10-17 H 0-1 v Portsmouth | Championship | Norwich | xG 0.29-1.19
+2026-10-14 H 0-1 v Southampton | Championship | Norwich | xG 1.18-2.10
+2026-10-10 A 1-2 v Swansea | Championship | Swansea | xG 0.68-2.36
+2026-09-20 H 3-4 v Bolton | Championship | Norwich | xG 0.69-1.10
+2026-09-17 A 0-5 v Manchester City | League Cup | Manchester
+2026-09-12 A 3-4 v Middlesbrough | Championship | Middlesbrough | xG 1.76-2.38
+2026-09-09 H 2-1 v Birmingham | Championship | Norwich | xG 1.01-1.63
+2026-09-05 A 3-1 v Sheffield Utd | Championship | Sheffield | xG 3.04-0.79
+2026-09-01 A 0-1 v Stoke City | Championship | Stoke | xG 1.44-0.58
+2026-08-29 H 4-1 v Burnley | Championship | Norwich
+2026-08-25 A 2-1 v Cardiff | League Cup | Cardiff
+2026-08-22 A 0-3 v Millwall | Championship | London
+2026-08-15 H 1-2 v West Brom | Championship | Norwich
+2026-08-08 H 4-1 v Milton Keynes Dons | League Cup | Norwich
+2026-08-04 H 0-0 v Cambridge United | Friendlies Clubs | ?
+2026-08-01 H 1-2 v Osasuna | Friendlies Clubs | ?
+2026-07-25 A 2-0 v Fulham | Friendlies Clubs | ?
+2026-07-22 A 0-0 v AFC Wimbledon | Friendlies Clubs | ?
+2026-07-17 A 3-0 v FC ST. Gallen | Friendlies Clubs | ?
+Listed home: 9 games, scored 15 (1.67), conceded 13 (1.44), blanks 3, clean sheets 1
+Listed away: 11 games, scored 17 (1.55), conceded 18 (1.64), blanks 4, clean sheets 3
+All: 20 games, scored 32 (1.60), conceded 31 (1.55), blanks 7, clean sheets 4
+
+=== Watford (id 38): last 20 finished games ===
+2026-10-24 A 0-1 v Wolves | Championship | Wolverhampton | xG 0.16-1.95
+2026-10-17 H 2-0 v Charlton | Championship | Watford | xG 2.87-1.31
+2026-10-13 A 1-5 v Cardiff | Championship | Cardiff | xG 1.46-3.67
+2026-10-10 H 0-4 v Burnley | Championship | Watford | xG 0.64-1.94
+2026-09-18 A 0-1 v Bristol City | Championship | Bristol | xG 0.52-1.56
+2026-09-12 H 1-2 v Stoke City | Championship | Watford | xG 0.39-1.50
+2026-09-08 H 2-1 v Preston | Championship | Watford | xG 1.26-2.44
+2026-09-05 A 0-1 v West Brom | Championship | West Bromwich | xG 1.26-1.14
+2026-09-01 A 0-2 v Swansea | Championship | Swansea | xG 0.88-2.71
+2026-08-29 H 1-1 v West Ham | Championship | Watford | xG 1.60-0.89
+2026-08-25 H 1-5 v Peterborough | League Cup | Watford
+2026-08-22 A 1-1 v Wrexham | Championship | Wrexham
+2026-08-16 H 2-1 v Southampton | Championship | Watford
+2026-08-08 H 1-0 v Crawley Town | League Cup | Watford
+2026-07-29 H 0-1 v Fiorentina | Friendlies Clubs | ?
+2026-07-25 H 3-0 v Hansa Rostock | Friendlies Clubs | ?
+2026-07-14 A 2-2 v Barnet | Friendlies Clubs | ?
+2026-07-11 A 1-2 v Boreham Wood | Friendlies Clubs | ?
+2026-05-02 H 0-4 v Coventry | Championship | Watford
+2026-04-25 A 1-5 v Middlesbrough | Championship | Middlesbrough
+Listed home: 11 games, scored 13 (1.18), conceded 19 (1.73), blanks 3, clean sheets 3
+Listed away: 9 games, scored 6 (0.67), conceded 20 (2.22), blanks 4, clean sheets 0
+All: 20 games, scored 19 (0.95), conceded 39 (1.95), blanks 7, clean sheets 3
+
+TABLE FOR Norwich
+LEAGUE TABLE Championship 2026 | 24 teams | 145 games played
+League averages per game: home 1.59, away 1.28, total 2.88
+#   team                   Pts | home P GF-GA  | away P GF-GA  | all P GF-GA
+1   Middlesbrough           25 |  6  14-9       |  6  13-8       | 12  27-17
+2   Swansea                 23 |  6   7-3       |  6   9-10      | 12  16-13
+3   West Ham                22 |  6  17-8       |  6  15-7       | 12  32-15
+4   Wolves                  21 |  6  10-7       |  6  10-9       | 12  20-16
+5   West Brom               21 |  6   9-6       |  6   7-7       | 12  16-13
+6   Southampton             20 |  6  16-4       |  6   8-8       | 12  24-12
+7   Birmingham              20 |  6  14-7       |  6   6-5       | 12  20-12
+8   QPR                     20 |  6  13-5       |  6   7-7       | 12  20-12
+9   Stoke City              20 |  6  10-6       |  6   8-10      | 12  18-16
+10  Sheffield Utd           19 |  7   9-7       |  6   8-8       | 13  17-15
+11  Blackburn               18 |  6  11-7       |  6   8-9       | 12  19-16
+12  Portsmouth              18 |  6  10-10      |  6   6-5       | 12  16-15
+13  Millwall                15 |  6  11-8       |  6   8-12      | 12  19-20
+14  Bristol City            15 |  6   3-6       |  6   9-9       | 12  12-15
+15  Lincoln                 15 |  6   7-13      |  6   6-7       | 12  13-20
+16  Cardiff                 14 |  6  13-6       |  6   6-11      | 12  19-17
+17  Wrexham                 14 |  6  10-8       |  7   5-11      | 13  15-19
+18  Bolton                  14 |  6   7-12      |  6   9-11      | 12  16-23
+19  Charlton                14 |  6   5-5       |  6   6-13      | 12  11-18
+20  Norwich                 12 |  6  10-10      |  6  10-12      | 12  20-22
+21  Watford                 11 |  6   8-9       |  6   2-11      | 12  10-20
+22  Burnley                  8 |  6   8-10      |  6   9-15      | 12  17-25
+23  Derby                    7 |  6   4-10      |  6   6-11      | 12  10-21
+24  Preston                  5 |  6   5-10      |  6   5-15      | 12  10-25
+
+(Watford: same table as Norwich, shown above)
+
+(24 API-Football requests used)
+
+----------------------------------------------------------------------
+MATCHBOOK: skipped (switched off for this run)

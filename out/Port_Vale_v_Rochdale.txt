@@ -1,0 +1,90 @@
+MATCH Port Vale v Rochdale | fetched 2026-10-31 09:44 local
+
+FORM DATA Port Vale v Rochdale | source API-Football | 2026-10-31 09:44 UTC
+H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
+
+=== Port Vale (id 1351): last 20 finished games ===
+2026-10-27 H 5-0 v Manchester City U21 | EFL Trophy | Stoke-On-Trent | xG 1.30-0.95
+2026-10-24 A 0-2 v York | League Two | York | xG 0.71-1.21
+2026-10-20 A 1-1 v Gillingham | League Two | Gillingham | xG 1.03-2.69
+2026-10-17 H 1-0 v Chesterfield | League Two | Stoke on Trent | xG 0.41-0.49
+2026-10-10 H 1-0 v Grimsby | League Two | Stoke on Trent | xG 3.06-0.83
+2026-10-06 H 2-0 v Mansfield Town | EFL Trophy | Stoke-On-Trent
+2026-09-22 A 1-1 v Chesterfield | EFL Trophy | Chesterfield [PEN, 90-min score shown]
+2026-09-19 A 0-2 v Walsall | League Two | Walsall | xG 0.94-1.95
+2026-09-12 H 1-0 v Exeter City | League Two | Stoke on Trent | xG 2.47-0.32
+2026-09-05 A 0-1 v Salford City | League Two | Salford | xG 0.64-0.39
+2026-09-01 A 1-3 v Swindon Town | League Two | Swindon
+2026-08-29 H 0-0 v Crewe | League Two | Stoke on Trent
+2026-08-22 H 1-1 v Tranmere | League Two | Stoke on Trent
+2026-08-15 A 0-2 v Oldham | League Two | Oldham
+2026-08-07 A 0-3 v Wolves | League Cup | Wolverhampton
+2026-08-01 A 1-0 v Blackpool | Friendlies Clubs | ?
+2026-07-25 H 1-0 v Real Murcia | Friendlies Clubs | ?
+2026-07-18 A 3-1 v Wigan | Friendlies Clubs | ?
+2026-07-14 H 5-0 v Tamworth | Friendlies Clubs | ?
+2026-05-02 H 0-2 v Lincoln | League One | Stoke on Trent
+Listed home: 10 games, scored 17 (1.70), conceded 3 (0.30), blanks 2, clean sheets 8
+Listed away: 10 games, scored 7 (0.70), conceded 16 (1.60), blanks 5, clean sheets 1
+All: 20 games, scored 24 (1.20), conceded 19 (0.95), blanks 7, clean sheets 9
+
+=== Rochdale (id 1339): last 20 finished games ===
+2026-10-24 H 0-5 v Accrington ST | League Two | Rochdale | xG 0.56-3.36
+2026-10-20 H 2-2 v Grimsby | League Two | Rochdale | xG 2.10-2.39
+2026-10-17 A 2-3 v Crewe | League Two | Crewe | xG 1.67-2.00
+2026-10-10 A 1-1 v Tranmere | League Two | Birkenhead | xG 0.72-1.67
+2026-10-06 A 0-5 v Huddersfield | EFL Trophy | Huddersfield
+2026-10-03 H 1-0 v Swindon Town | League Two | Rochdale | xG 2.42-1.53
+2026-09-26 A 2-1 v Fleetwood Town | League Two | Fleetwood
+2026-09-22 H 3-3 v Liverpool U21 | EFL Trophy | Rochdale [PEN, 90-min score shown]
+2026-09-19 H 2-0 v Oldham | League Two | Rochdale | xG 0.82-3.18
+2026-09-12 A 0-0 v Walsall | League Two | Walsall | xG 0.62-3.03
+2026-09-05 H 1-4 v Gillingham | League Two | Rochdale
+2026-09-01 H 3-0 v Shrewsbury | League Two | Rochdale
+2026-08-29 A 0-1 v Colchester | League Two | Colchester
+2026-08-22 H 1-2 v Crawley Town | League Two | Rochdale
+2026-08-15 A 0-3 v Newport County | League Two | Newport
+2026-08-08 A 0-2 v Bradford | League Cup | Bradford
+2026-08-01 A 2-2 v Tranmere | League Cup | Birkenhead [PEN, 90-min score shown]
+2026-07-28 H 2-3 v FC Halifax Town | Friendlies Clubs | ?
+2026-07-25 H 2-2 v Farnham Town | Friendlies Clubs | ?
+2026-07-19 H 3-3 v Al-Rayyan SC | Friendlies Clubs | ?
+Listed home: 11 games, scored 20 (1.82), conceded 24 (2.18), blanks 1, clean sheets 3
+Listed away: 9 games, scored 7 (0.78), conceded 18 (2.00), blanks 5, clean sheets 1
+All: 20 games, scored 27 (1.35), conceded 42 (2.10), blanks 6, clean sheets 4
+
+TABLE FOR Port Vale
+LEAGUE TABLE League Two 2026 | 24 teams | 152 games played
+League averages per game: home 1.55, away 1.08, total 2.63
+#   team                   Pts | home P GF-GA  | away P GF-GA  | all P GF-GA
+1   Salford City            28 |  6   7-3       |  7  16-11      | 13  23-14
+2   Barnet                  25 |  7  15-10      |  5  12-7       | 12  27-17
+3   Cheltenham              21 |  7  14-10      |  6   8-12      | 13  22-22
+4   Crewe                   21 |  6  11-7       |  7   5-9       | 13  16-16
+5   York                    20 |  7  16-5       |  6   6-11      | 13  22-16
+6   Walsall                 19 |  6  10-6       |  6   8-5       | 12  18-11
+7   Chesterfield            19 |  7  16-9       |  7   8-12      | 14  24-21
+8   Exeter City             19 |  7   8-2       |  6   2-5       | 13  10-7
+9   Accrington ST           18 |  6  12-7       |  7  10-9       | 13  22-16
+10  Newport County          18 |  7  14-6       |  7   6-11      | 14  20-17
+11  Shrewsbury              18 |  6   7-6       |  7   9-14      | 13  16-20
+12  Grimsby                 17 |  6   8-6       |  7  11-10      | 13  19-16
+13  Gillingham              17 |  7   8-9       |  6  10-9       | 13  18-18
+14  Tranmere                16 |  6   9-6       |  7   7-10      | 13  16-16
+15  Swindon Town            16 |  6  10-6       |  7   3-10      | 13  13-16
+16  Bristol Rovers          16 |  7  11-8       |  6   5-12      | 13  16-20
+17  Rochdale                15 |  7  10-13      |  6   5-9       | 13  15-22
+18  Fleetwood Town          14 |  6   7-4       |  7   8-13      | 13  15-17
+19  Northampton             13 |  6   4-3       |  5   4-5       | 11   8-8
+20  Oldham                  12 |  6  11-7       |  6   3-11      | 12  14-18
+21  Colchester              12 |  5   5-3       |  7   6-13      | 12  11-16
+22  Rotherham               12 |  7  13-15      |  6   4-8       | 13  17-23
+23  Port Vale               12 |  5   4-1       |  6   2-11      | 11   6-12
+24  Crawley Town             6 |  6   6-12      |  5   6-9       | 11  12-21
+
+(Rochdale: same table as Port Vale, shown above)
+
+(26 API-Football requests used)
+
+----------------------------------------------------------------------
+MATCHBOOK: skipped (switched off for this run)

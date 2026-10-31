@@ -1,3 +1,18 @@
-RUN 2026-10-31 08:58 local | 1 match(es)
-id:1009 v id:6343 -> out/id_1009_v_id_6343.txt
-Requests used: API-Football 25, Matchbook 0
+RUN 2026-10-31 09:44 local | 10 match(es)
+Norrkoping v Ostersunds FK -> out/Norrkoping_v_Ostersunds_FK.txt
+    !! Norrkoping: Ambiguous team name "Norrkoping".
+Wolfsburg v VfL Osnabruck -> out/Wolfsburg_v_VfL_Osnabruck.txt
+    !! Wolfsburg: Ambiguous team name "Wolfsburg".
+Kaiserslautern v Hertha Berlin -> out/Kaiserslautern_v_Hertha_Berlin.txt
+    !! Kaiserslautern: Ambiguous team name "Kaiserslautern".
+Darmstadt v Magdeburg -> out/Darmstadt_v_Magdeburg.txt
+    !! Darmstadt: Ambiguous team name "Darmstadt".
+    !! Magdeburg: Ambiguous team name "Magdeburg".
+Plymouth v Reading -> out/Plymouth_v_Reading.txt
+Port Vale v Rochdale -> out/Port_Vale_v_Rochdale.txt
+Stoke v Preston -> out/Stoke_v_Preston.txt
+    !! Stoke: Ambiguous team name "Stoke".
+Norwich v Watford -> out/Norwich_v_Watford.txt
+Lincoln v Birmingham -> out/Lincoln_v_Birmingham.txt
+Bradford v Huddersfield -> out/Bradford_v_Huddersfield.txt
+Requests used: API-Football 186, Matchbook 0
