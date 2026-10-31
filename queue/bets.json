@@ -64,5 +64,27 @@
     "lay": 3.8,
     "stake": 3,
     "created": "2026-10-31T06:49:21+00:00"
+  },
+  {
+    "id": "2026-10-31_fk-ulytau-zhezkazgan-fk-atyrau_1-2",
+    "date": "2026-10-31",
+    "ko": "11:00",
+    "match": "FK Ulytau Zhezkazgan v FK Atyrau",
+    "comp": "Kazakhstan, Kazakhstan Premier League",
+    "cell": "1-2",
+    "lay": 10.5,
+    "stake": 3,
+    "created": "2026-10-31T07:30:30Z"
+  },
+  {
+    "id": "2026-10-31_fk-ulytau-zhezkazgan-fk-atyrau_1-3",
+    "date": "2026-10-31",
+    "ko": "11:00",
+    "match": "FK Ulytau Zhezkazgan v FK Atyrau",
+    "comp": "Kazakhstan, Kazakhstan Premier League",
+    "cell": "1-3",
+    "lay": 18.5,
+    "stake": 3,
+    "created": "2026-10-31T07:30:30Z"
   }
 ]
