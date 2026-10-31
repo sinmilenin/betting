@@ -1,7 +1,32 @@
-MATCH LA Galaxy v Austin | fetched 2026-10-31 18:46 local
+MATCH id:1605 v Austin | fetched 2026-10-31 18:47 local
 
-FORM DATA LA Galaxy v Austin | source API-Football | 2026-10-31 18:46 UTC
+FORM DATA id:1605 v Austin | source API-Football | 2026-10-31 18:47 UTC
 H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
+
+=== Los Angeles Galaxy (id 1605): last 20 finished games ===
+2026-10-26 A 2-2 v Los Angeles FC | Major League Soccer | Los Angeles | xG 1.68-2.30
+2026-10-18 H 2-2 v San Diego | Major League Soccer | Los Angeles | xG 0.55-2.07
+2026-10-15 H 2-0 v Portland Timbers | Major League Soccer | Los Angeles | xG 1.44-0.87
+2026-10-11 A 2-6 v St. Louis City | Major League Soccer | Saint Louis | xG 1.96-2.61
+2026-09-27 H 3-2 v Colorado Rapids | Major League Soccer | Los Angeles
+2026-09-20 A 3-2 v Minnesota United FC | Major League Soccer | Saint Paul | xG 1.59-1.88
+2026-09-13 H 1-1 v Seattle Sounders | Major League Soccer | Carson | xG 2.48-2.20
+2026-09-10 A 0-3 v Vancouver Whitecaps | Major League Soccer | Vancouver | xG 0.66-2.37
+2026-09-06 H 2-1 v New England Revolution | Major League Soccer | Carson | xG 1.47-2.64
+2026-08-30 A 1-3 v San Diego | Major League Soccer | San Diego | xG 0.84-2.76
+2026-08-22 A 2-2 v CF Montreal | Major League Soccer | Montréal
+2026-08-20 H 1-0 v San Jose Earthquakes | Major League Soccer | Carson
+2026-08-16 A 0-1 v Houston Dynamo | Major League Soccer | Houston
+2026-08-02 H 0-0 v FC Dallas | Major League Soccer | Carson
+2026-07-26 A 1-1 v San Jose Earthquakes | Major League Soccer | Stanford
+2026-07-23 H 1-3 v St. Louis City | Major League Soccer | Carson
+2026-07-18 H 0-3 v Los Angeles FC | Major League Soccer | Carson
+2026-07-12 H 1-0 v Club America | Friendlies Clubs | ?
+2026-07-03 H 0-3 v El Salvador | Friendlies | ?
+2026-05-24 H 1-1 v Houston Dynamo | Major League Soccer | Los Angeles
+Listed home: 12 games, scored 14 (1.17), conceded 16 (1.33), blanks 3, clean sheets 4
+Listed away: 8 games, scored 11 (1.38), conceded 20 (2.50), blanks 2, clean sheets 0
+All: 20 games, scored 25 (1.25), conceded 36 (1.80), blanks 5, clean sheets 4
 
 === Austin (id 16489): last 20 finished games ===
 2026-10-29 H 1-2 v Real Salt Lake | Major League Soccer | Austin | xG 0.92-2.21
@@ -28,9 +53,7 @@ Listed home: 10 games, scored 15 (1.50), conceded 16 (1.60), blanks 0, clean she
 Listed away: 10 games, scored 10 (1.00), conceded 14 (1.40), blanks 4, clean sheets 1
 All: 20 games, scored 25 (1.25), conceded 30 (1.50), blanks 4, clean sheets 3
 
-!! LA Galaxy: No team found for "LA Galaxy".
-
-TABLE FOR Austin
+TABLE FOR Los Angeles Galaxy
 LEAGUE TABLE Major League Soccer 2026 | 30 teams | 480 games played
 League averages per game: home 1.84, away 1.41, total 3.25
 #   team                   Pts | home P GF-GA  | away P GF-GA  | all P GF-GA
@@ -65,7 +88,9 @@ League averages per game: home 1.84, away 1.41, total 3.25
 14  Atlanta United FC       30 | 16  23-32      | 16  17-24      | 32  40-56 [Eastern Conference]
 15  CF Montreal             25 | 16  19-23      | 16  17-43      | 32  36-66 [Eastern Conference]
 
-(13 API-Football requests used)
+(Austin: same table as Los Angeles Galaxy, shown above)
+
+(25 API-Football requests used)
 
 ----------------------------------------------------------------------
 MATCHBOOK: skipped (switched off for this run)

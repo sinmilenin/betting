@@ -1,7 +1,3 @@
-RUN 2026-10-31 18:46 local | 4 match(es)
-Botafogo SP v Sport Recife -> out/Botafogo_SP_v_Sport_Recife.txt
-Real Oruro v Nacional Potosi -> out/Real_Oruro_v_Nacional_Potosi.txt
-San Jose Earthquakes v Real Salt Lake -> out/San_Jose_Earthquakes_v_Real_Salt_Lake.txt
-LA Galaxy v Austin -> out/LA_Galaxy_v_Austin.txt
-    !! LA Galaxy: No team found for "LA Galaxy".
-Requests used: API-Football 88, Matchbook 0
+RUN 2026-10-31 18:47 local | 1 match(es)
+id:1605 v Austin -> out/id_1605_v_Austin.txt
+Requests used: API-Football 25, Matchbook 0
