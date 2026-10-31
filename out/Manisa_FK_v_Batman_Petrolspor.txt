@@ -1,0 +1,61 @@
+MATCH Manisa FK v Batman Petrolspor | fetched 2026-10-31 15:43 local
+
+FORM DATA Manisa FK v Batman Petrolspor | source API-Football | 2026-10-31 15:43 UTC
+H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
+
+=== Batman Petrolspor (id 7395): last 20 finished games ===
+2026-10-25 H 3-2 v Esenler Erokspor | 1. Lig | Batman
+2026-10-18 A 2-2 v Kayserispor | 1. Lig | Kayseri
+2026-10-14 H 4-2 v İstanbulspor | 1. Lig | Batman
+2026-10-10 A 1-2 v Iğdır FK | 1. Lig | Ankara | xG 1.04-1.00
+2026-09-19 H 1-2 v Bursaspor | 1. Lig | Batman
+2026-09-12 A 0-4 v Bodrum FK | 1. Lig | Bodrum
+2026-09-06 H 4-3 v Fatih Karagümrük | 1. Lig | Batman | xG 3.15-2.85
+2026-09-02 A 2-0 v Vanspor FK | 1. Lig | Akhisar
+2026-08-29 H 2-1 v Sivasspor | 1. Lig | Batman
+2026-08-23 A 2-1 v Sarıyer | 1. Lig | Istanbul
+2026-08-17 H 2-0 v Boluspor | 1. Lig | Batman
+2026-08-10 A 2-2 v Pendikspor | 1. Lig | Istanbul
+2026-07-18 A 1-1 v Kasımpaşa | Friendlies Clubs | ?
+2026-04-25 H 6-0 v Kepezspor | 2. Lig | Batman
+2026-04-19 A 3-3 v Bucaspor 1928 | 2. Lig | İzmir
+2026-04-12 H 0-1 v Beykoz Anadolu | 2. Lig | Batman
+2026-04-08 A 3-2 v Ankaraspor | 2. Lig | Ankara
+2026-04-04 H 1-0 v Muğlaspor | 2. Lig | Batman
+2026-03-29 A 2-1 v Kastamonuspor | 2. Lig | Kastamonu
+2026-03-25 H 2-1 v Şanlıurfaspor | 2. Lig | Batman
+Listed home: 10 games, scored 25 (2.50), conceded 12 (1.20), blanks 1, clean sheets 3
+Listed away: 10 games, scored 18 (1.80), conceded 18 (1.80), blanks 1, clean sheets 1
+All: 20 games, scored 43 (2.15), conceded 30 (1.50), blanks 2, clean sheets 4
+
+!! Manisa FK: No team found for "Manisa FK".
+
+TABLE FOR Batman Petrolspor
+LEAGUE TABLE 1. Lig 2026 | 20 teams | 121 games played
+League averages per game: home 1.47, away 1.30, total 2.77
+#   team                   Pts | home P GF-GA  | away P GF-GA  | all P GF-GA
+1   Bursaspor               28 |  5  10-4       |  7  16-7       | 12  26-11
+2   Kayserispor             27 |  5  12-6       |  7  14-3       | 12  26-9
+3   Iğdır FK                26 |  6  10-4       |  6   7-5       | 12  17-9
+4   Batman Petrolspor       23 |  6  16-10      |  6   9-11      | 12  25-21
+5   Mardin 1969             21 |  6   7-3       |  6   9-8       | 12  16-11
+6   Keçiörengücü            20 |  6  12-8       |  7  13-10      | 13  25-18
+7   Muğlaspor               18 |  6  11-7       |  6   7-7       | 12  18-14
+8   Antalyaspor             18 |  7  12-16      |  5   6-3       | 12  18-19
+9   Bodrum FK               17 |  6   6-5       |  6   9-6       | 12  15-11
+10  Fatih Karagümrük        16 |  6   8-7       |  6   8-8       | 12  16-15
+11  Sarıyer                 16 |  7   9-10      |  6   5-8       | 13  14-18
+12  Esenler Erokspor        15 |  6   8-11      |  7   7-7       | 13  15-18
+13  Bandırmaspor            14 |  7  12-6       |  5   5-4       | 12  17-10
+14  Ümraniyespor            13 |  6   7-5       |  5   6-5       | 11  13-10
+15  Sivasspor               13 |  6  10-7       |  6   5-11      | 12  15-18
+16  Vanspor FK              13 |  7   5-11      |  6   9-11      | 13  14-22
+17  Pendikspor              11 |  6   8-8       |  6   6-15      | 12  14-23
+18  Manisa F.K.             10 |  6   9-9       |  6  10-13      | 12  19-22
+19  İstanbulspor             5 |  5   4-8       |  7   5-23      | 12   9-31
+20  Boluspor                 1 |  6   2-12      |  5   1-13      | 11   3-25
+
+(14 API-Football requests used)
+
+----------------------------------------------------------------------
+MATCHBOOK: skipped (switched off for this run)

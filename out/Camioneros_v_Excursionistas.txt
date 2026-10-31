@@ -1,0 +1,70 @@
+MATCH Camioneros v Excursionistas | fetched 2026-10-31 15:43 local
+
+FORM DATA Camioneros v Excursionistas | source API-Football | 2026-10-31 15:43 UTC
+H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
+
+"Camioneros" matches several teams. Use id:<number> instead of the name:
+  id:1943   Atletico Camioneros (Argentina)
+  id:3943   Deportivo Camioneros (Argentina)
+=== Excursionistas (id 8385): last 20 finished games ===
+2026-10-24 H 4-0 v Sportivo Italiano | Primera B Metropolitana | Buenos Aires
+2026-10-17 A 1-1 v San Martín Burzaco | Primera B Metropolitana | Buenos Aires
+2026-10-09 H 4-0 v Villa San Carlos | Primera B Metropolitana | Buenos Aires
+2026-10-03 A 0-1 v Liniers | Primera B Metropolitana | Buenos Aires
+2026-09-25 H 3-0 v Real Pilar | Primera B Metropolitana | Buenos Aires
+2026-09-19 A 2-1 v UAI Urquiza | Primera B Metropolitana | Buenos Aires
+2026-09-12 H 3-0 v Villa Dalmine | Primera B Metropolitana | Buenos Aires
+2026-09-07 H 2-1 v Ituzaingó | Primera B Metropolitana | Buenos Aires
+2026-08-29 A 0-3 v Arsenal Sarandi | Primera B Metropolitana | Avellaneda
+2026-08-25 H 2-0 v Argentino de Merlo | Primera B Metropolitana | Buenos Aires
+2026-08-22 A 2-1 v Talleres Remedios | Primera B Metropolitana | Buenos Aires
+2026-08-15 H 5-3 v Deportivo Laferrere | Primera B Metropolitana | Buenos Aires
+2026-08-08 A 0-1 v Brown DE Adrogue | Primera B Metropolitana | Adrogue
+2026-07-31 H 2-1 v Deportivo Armenio | Primera B Metropolitana | Buenos Aires
+2026-07-25 A 1-1 v Flandria | Primera B Metropolitana | Jauregui
+2026-07-18 H 0-0 v Argentino Quilmes | Primera B Metropolitana | Buenos Aires
+2026-07-14 A 2-0 v Defensores Unidos | Primera B Metropolitana | Zarate
+2026-07-10 H 1-2 v Comunicaciones | Primera B Metropolitana | Buenos Aires
+2026-07-04 A 1-3 v Dock Sud | Primera B Metropolitana | Buenos Aires
+2026-06-27 H 5-0 v Deportivo Merlo | Primera B Metropolitana | Buenos Aires
+Listed home: 11 games, scored 31 (2.82), conceded 7 (0.64), blanks 1, clean sheets 7
+Listed away: 9 games, scored 9 (1.00), conceded 12 (1.33), blanks 3, clean sheets 1
+All: 20 games, scored 40 (2.00), conceded 19 (0.95), blanks 4, clean sheets 8
+
+(retrying Camioneros using the opponent's country, Argentina)
+"Camioneros" matches several teams. Use id:<number> instead of the name:
+  id:1943   Atletico Camioneros (Argentina)
+  id:3943   Deportivo Camioneros (Argentina)
+!! Camioneros: Ambiguous team name "Camioneros".
+
+TABLE FOR Excursionistas
+LEAGUE TABLE Primera B Metropolitana 2026 | 22 teams | 451 games played
+League averages per game: home 1.09, away 0.90, total 1.98
+#   team                   Pts | home P GF-GA  | away P GF-GA  | all P GF-GA
+1   Excursionistas          81 | 21  44-11      | 20  24-20      | 41  68-31
+2   Arsenal Sarandi         76 | 21  39-16      | 20  16-11      | 41  55-27
+3   Talleres Remedios       71 | 21  22-15      | 20  24-11      | 41  46-26
+4   Sportivo Italiano       69 | 20  22-15      | 21  25-18      | 41  47-33
+5   Villa Dalmine           68 | 21  20-12      | 20  20-15      | 41  40-27
+6   Deportivo Camioneros    67 | 20  26-17      | 21  22-17      | 41  48-34
+7   Real Pilar              65 | 21  24-19      | 20  20-21      | 41  44-40
+8   Deportivo Armenio       62 | 21  22-15      | 20  20-24      | 41  42-39
+9   Deportivo Laferrere     58 | 21  18-23      | 20  32-29      | 41  50-52
+10  Comunicaciones          57 | 20  23-16      | 21  16-19      | 41  39-35
+11  San Martín Burzaco      51 | 20  22-21      | 21  19-25      | 41  41-46
+12  Villa San Carlos        50 | 20  18-16      | 21  22-29      | 41  40-45
+13  Flandria                48 | 20  23-21      | 21  16-28      | 41  39-49
+14  Deportivo Merlo         48 | 20  25-28      | 21  14-26      | 41  39-54
+15  Argentino de Merlo      47 | 21  19-19      | 20  18-25      | 41  37-44
+16  Argentino Quilmes       47 | 20  14-18      | 21  19-22      | 41  33-40
+17  Dock Sud                47 | 20  24-19      | 21  17-30      | 41  41-49
+18  Defensores Unidos       45 | 20  24-16      | 21  10-24      | 41  34-40
+19  Liniers                 45 | 20  16-18      | 21  18-25      | 41  34-43
+20  Brown DE Adrogue        43 | 21  18-25      | 20   7-13      | 41  25-38
+21  UAI Urquiza             42 | 21  15-16      | 20  10-20      | 41  25-36
+22  Ituzaingó               17 | 21  13-28      | 20  15-39      | 41  28-67
+
+(15 API-Football requests used)
+
+----------------------------------------------------------------------
+MATCHBOOK: skipped (switched off for this run)

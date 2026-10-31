@@ -1,3 +1,30 @@
-RUN 2026-10-31 15:03 local | 1 match(es)
-Celta de Vigo II v Cordoba -> out/Celta_de_Vigo_II_v_Cordoba.txt
-Requests used: API-Football 26, Matchbook 0
+RUN 2026-10-31 15:43 local | 17 match(es)
+Manisa FK v Batman Petrolspor -> out/Manisa_FK_v_Batman_Petrolspor.txt
+    !! Manisa FK: No team found for "Manisa FK".
+First Vienna v Blau-Weiss Linz -> out/First_Vienna_v_Blau_Weiss_Linz.txt
+    !! Blau-Weiss Linz: API-Football error: {"search": "The Search field may only contain alpha-numeric characters and spaces."}
+Hegelmann v Kauno Zalgiris -> out/Hegelmann_v_Kauno_Zalgiris.txt
+    !! Hegelmann: Ambiguous team name "Hegelmann".
+    !! Kauno Zalgiris: Ambiguous team name "Kauno Zalgiris".
+Montpellier W v Lyon W -> out/Montpellier_W_v_Lyon_W.txt
+Rudes v Dinamo Zagreb -> out/Rudes_v_Dinamo_Zagreb.txt
+Charlotte v Orlando City -> out/Charlotte_v_Orlando_City.txt
+    !! Orlando City: Ambiguous team name "Orlando City".
+Rangers v Aberdeen -> out/Rangers_v_Aberdeen.txt
+Real Betis v Malaga -> out/Real_Betis_v_Malaga.txt
+Heerenveen v NEC Nijmegen -> out/Heerenveen_v_NEC_Nijmegen.txt
+San Miguel v Deportivo Madryn -> out/San_Miguel_v_Deportivo_Madryn.txt
+Camioneros v Excursionistas -> out/Camioneros_v_Excursionistas.txt
+    !! Camioneros: Ambiguous team name "Camioneros".
+Al-Hilal Saudi FC v Al-Fateh -> out/Al_Hilal_Saudi_FC_v_Al_Fateh.txt
+    !! Al-Hilal Saudi FC: API-Football error: {"search": "The Search field may only contain alpha-numeric characters and spaces."}
+    !! Al-Fateh: API-Football error: {"search": "The Search field may only contain alpha-numeric characters and spaces."}
+FC Cincinnati v Philadelphia Union -> out/FC_Cincinnati_v_Philadelphia_Union.txt
+San Martin San Juan v Gimnasia Jujuy -> out/San_Martin_San_Juan_v_Gimnasia_Jujuy.txt
+Columbus Crew v DC United -> out/Columbus_Crew_v_DC_United.txt
+Atlanta v Midland -> out/Atlanta_v_Midland.txt
+    !! Atlanta: API-Football error: HTTP 429 from API-Football
+Sampdoria v Virtus Entella -> out/Sampdoria_v_Virtus_Entella.txt
+    !! Sampdoria: API-Football error: HTTP 429 from API-Football
+    !! Virtus Entella: API-Football error: HTTP 429 from API-Football
+Requests used: API-Football 300, Matchbook 0

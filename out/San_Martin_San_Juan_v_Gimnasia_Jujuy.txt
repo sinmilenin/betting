@@ -1,0 +1,177 @@
+MATCH San Martin San Juan v Gimnasia Jujuy | fetched 2026-10-31 15:43 local
+
+FORM DATA San Martin San Juan v Gimnasia Jujuy | source API-Football | 2026-10-31 15:43 UTC
+H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
+
+=== San Martín San Juan Res. (id 25592): last 20 finished games ===
+2026-10-28 A 1-3 v Colón Res. | Reserve League | ?
+2026-10-21 A 2-3 v Independiente Riva. Res. | Reserve League | ?
+2026-10-14 H 2-0 v Deportivo Riestra Res. | Reserve League | ?
+2026-10-08 A 2-3 v Belgrano Córdoba Res. | Reserve League | ?
+2026-10-01 H 0-2 v Lanús Res. | Reserve League | ?
+2026-09-25 H 0-1 v Godoy Cruz Res. | Reserve League | ?
+2026-09-17 A 0-4 v Newell's Old Boys Res. | Reserve League | ?
+2026-09-09 H 1-1 v Defensa y Justicia Res. | Reserve League | ?
+2026-09-02 A 0-1 v Estudiantes Rio Cuarto 2 | Reserve League | Cordoba
+2026-08-25 H 1-0 v Huracán Res. | Reserve League | ?
+2026-08-19 A 5-0 v Ferro 2 | Reserve League | ?
+2026-08-12 H 0-0 v Boca Juniors Res. | Reserve League | ?
+2026-08-05 A 0-9 v Independiente Res. | Reserve League | ?
+2026-07-23 H 0-0 v Atl. Rafaela 2 | Reserve League | ?
+2026-07-16 A 0-0 v Platense Res. | Reserve League | ?
+2026-06-18 A 1-6 v Quilmes 2 | Reserve League | ?
+2026-06-10 H 0-4 v Estudiantes La Plata Res | Reserve League | ?
+2026-06-04 A 1-3 v Central Córdoba SdE Res. | Reserve League | ?
+2026-05-26 H 1-1 v Colón Res. | Reserve League | ?
+2026-05-19 H 0-2 v Independiente Riva. Res. | Reserve League | ?
+Listed home: 10 games, scored 5 (0.50), conceded 11 (1.10), blanks 6, clean sheets 4
+Listed away: 10 games, scored 12 (1.20), conceded 32 (3.20), blanks 4, clean sheets 2
+All: 20 games, scored 17 (0.85), conceded 43 (2.15), blanks 10, clean sheets 6
+
+=== Gimnasia Jujuy (id 479): last 20 finished games ===
+2026-10-25 H 1-2 v Atlanta | Primera Nacional | Jujuy
+2026-10-18 A 1-0 v Nueva Chicago | Primera Nacional | Buenos Aires
+2026-10-11 H 2-2 v Gimnasia Y Tiro | Primera Nacional | Jujuy
+2026-10-03 A 1-2 v Temperley | Primera Nacional | Turdera
+2026-09-28 H 2-2 v San Martin Tucuman | Primera Nacional | Jujuy
+2026-09-20 A 1-1 v Deportivo Maipu | Primera Nacional | Maipu
+2026-09-13 H 2-1 v Atletico DE Rafaela | Primera Nacional | Jujuy
+2026-09-06 A 2-1 v Almagro | Primera Nacional | Jose Ingenieros
+2026-09-01 H 1-1 v Agropecuario | Primera Nacional | Jujuy
+2026-08-22 A 3-3 v Patronato | Primera Nacional | ?
+2026-08-16 H 1-0 v Chaco For Ever | Primera Nacional | Jujuy
+2026-08-10 H 0-2 v Tristan Suarez | Primera Nacional | Jujuy
+2026-08-05 A 0-2 v Quilmes | Primera Nacional | Quilmes
+2026-08-01 A 1-2 v Colegiales | Primera Nacional | Buenos Aires
+2026-07-26 H 2-1 v Club Atlético Güemes | Primera Nacional | Jujuy
+2026-07-12 H 1-1 v Chacarita Juniors | Primera Nacional | Jujuy
+2026-07-05 A 1-1 v Midland | Primera Nacional | Buenos Aires
+2026-06-21 A 3-1 v Club Atlético Güemes | Primera Nacional | Santiago del Estero
+2026-06-17 H 4-0 v Nueva Chicago | Primera Nacional | Jujuy
+2026-06-13 H 2-1 v San Martin S.J. | Primera Nacional | Jujuy
+Listed home: 11 games, scored 18 (1.64), conceded 13 (1.18), blanks 1, clean sheets 2
+Listed away: 9 games, scored 13 (1.44), conceded 13 (1.44), blanks 1, clean sheets 1
+All: 20 games, scored 31 (1.55), conceded 26 (1.30), blanks 2, clean sheets 3
+
+TABLE FOR San Martín San Juan Res.
+LEAGUE TABLE Reserve League 2026 | 72 teams | 601 games played
+League averages per game: home 1.40, away 1.06, total 2.46
+#   team                   Pts | home P GF-GA  | away P GF-GA  | all P GF-GA
+1   Vélez Sársfield Res.    47 | 11  27-7       |  9  15-6       | 20  42-13 [Apertura]
+2   Boca Juniors Res.       39 | 11  22-5       |  9  14-7       | 20  36-12 [Apertura]
+3   Racing Club Res.        39 |  9  13-8       | 12  20-18      | 21  33-26 [Apertura]
+4   River Plate Res.        37 | 11  18-11      | 10  11-9       | 21  29-20 [Apertura]
+5   Independiente Res.      36 | 10  24-10      |  9  14-9       | 19  38-19 [Apertura]
+6   Lanús Res.              35 |  9  19-15      | 10  21-12      | 19  40-27 [Apertura]
+7   Newell's Old Boys Res.  34 |  9  16-5       | 10  11-13      | 19  27-18 [Apertura]
+8   Quilmes 2               33 |  9  14-5       |  9   6-7       | 18  20-12 [Apertura]
+9   Defensa y Justicia Res  32 |  9  23-8       |  9  15-16      | 18  38-24 [Apertura]
+10  Atlético Tucumán Res.   30 |  9  14-12      | 10  12-16      | 19  26-28 [Apertura]
+11  Unión Santa Fe Res.     29 |  9  16-10      |  9   7-9       | 18  23-19 [Apertura]
+12  Estudiantes La Plata R  28 |  9  11-7       |  9  14-9       | 18  25-16 [Apertura]
+13  Argentinos Juniors Res  28 |  9  15-8       |  9   9-10      | 18  24-18 [Apertura]
+14  Belgrano Córdoba Res.   27 |  9  16-12      |  9  11-17      | 18  27-29 [Apertura]
+15  Talleres Córdoba Res.   26 |  9  15-13      |  9  12-8       | 18  27-21 [Apertura]
+16  Huracán Res.            26 |  9  12-5       |  9  11-12      | 18  23-17 [Apertura]
+17  Rosario Central Res.    26 |  9  12-12      |  9  13-10      | 18  25-22 [Apertura]
+18  Platense Res.           26 |  9  12-8       |  9   5-12      | 18  17-20 [Apertura]
+19  Deportivo Riestra Res.  25 |  9  18-6       |  9   7-12      | 18  25-18 [Apertura]
+20  Independiente Riva. Re  24 |  9  16-12      |  9   7-11      | 18  23-23 [Apertura]
+21  Instituto Res.          24 |  9   8-9       |  9  12-12      | 18  20-21 [Apertura]
+22  San Lorenzo Res.        24 |  9  10-16      |  9  12-8       | 18  22-24 [Apertura]
+23  Gimnasia La Plata Res.  23 |  9   8-10      |  9  11-7       | 18  19-17 [Apertura]
+24  Gimnasia Mendoza 2      23 |  9   9-8       |  9   7-11      | 18  16-19 [Apertura]
+25  Banfield Res.           23 |  9   7-6       |  9   7-12      | 18  14-18 [Apertura]
+26  Ferro 2                 22 |  9  15-9       |  9   5-14      | 18  20-23 [Apertura]
+27  Central Córdoba SdE Re  19 |  9  12-15      |  9   9-18      | 18  21-33 [Apertura]
+28  Colón Res.              18 |  9   8-9       |  9   7-14      | 18  15-23 [Apertura]
+29  Aldosivi Res.           18 |  9  10-13      |  9   7-15      | 18  17-28 [Apertura]
+30  Barracas Central Res.   17 |  9   4-9       |  9   7-15      | 18  11-24 [Apertura]
+31  Sarmiento Res.          16 |  9   8-13      |  9   8-13      | 18  16-26 [Apertura]
+32  Tigre Res.              16 |  9   9-10      |  9   6-15      | 18  15-25 [Apertura]
+33  Godoy Cruz Res.         15 |  9  11-12      |  9   9-18      | 18  20-30 [Apertura]
+34  Atl. Rafaela 2          12 |  9  11-17      |  9  10-19      | 18  21-36 [Apertura]
+35  Estudiantes Rio Cuarto  11 |  9   4-10      |  9   5-22      | 18   9-32 [Apertura]
+36  San Martín San Juan Re   8 |  9   9-19      |  9   7-40      | 18  16-59 [Apertura]
+1   Independiente Res.      36 |  8  23-5       |  7  11-6       | 15  34-11 [Clausura]
+2   Lanús Res.              33 |  7  19-7       |  8  15-12      | 15  34-19 [Clausura]
+3   Boca Juniors Res.       28 |  8  10-1       |  7   9-8       | 15  19-9 [Clausura]
+4   Belgrano Córdoba Res.   28 |  7  10-7       |  8  13-13      | 15  23-20 [Clausura]
+5   Vélez Sársfield Res.    27 |  7  13-2       |  8   6-3       | 15  19-5 [Clausura]
+6   Deportivo Riestra Res.  27 |  7  18-7       |  8   8-8       | 15  26-15 [Clausura]
+7   River Plate Res.        26 |  7  12-7       |  8  14-7       | 15  26-14 [Clausura]
+8   Estudiantes La Plata R  26 |  8  18-11      |  7   8-5       | 15  26-16 [Clausura]
+9   Talleres Córdoba Res.   26 |  8  13-6       |  7   5-5       | 15  18-11 [Clausura]
+10  Gimnasia Mendoza 2      25 |  8   6-6       |  7   9-6       | 15  15-12 [Clausura]
+11  Estudiantes Rio Cuarto  24 |  7   7-4       |  8   8-8       | 15  15-12 [Clausura]
+12  Rosario Central Res.    24 |  8   8-9       |  7  12-10      | 15  20-19 [Clausura]
+13  Godoy Cruz Res.         22 |  8  13-7       |  7   6-8       | 15  19-15 [Clausura]
+14  Sarmiento Res.          22 |  7   6-5       |  8   8-5       | 15  14-10 [Clausura]
+15  Atl. Rafaela 2          22 |  8  14-9       |  7   4-9       | 15  18-18 [Clausura]
+16  Huracán Res.            21 |  7  11-3       |  8   4-10      | 15  15-13 [Clausura]
+17  San Lorenzo Res.        21 |  8  11-9       |  7   6-8       | 15  17-17 [Clausura]
+18  Newell's Old Boys Res.  19 |  7  12-7       |  8   7-9       | 15  19-16 [Clausura]
+19  Instituto Res.          19 |  8  10-11      |  7   9-10      | 15  19-21 [Clausura]
+20  Independiente Riva. Re  18 |  7  11-10      |  8  10-16      | 15  21-26 [Clausura]
+21  Unión Santa Fe Res.     17 |  7  14-5       |  8   4-10      | 15  18-15 [Clausura]
+22  Gimnasia La Plata Res.  17 |  7   8-6       |  8   5-5       | 15  13-11 [Clausura]
+23  Quilmes 2               17 |  8   8-8       |  7   4-9       | 15  12-17 [Clausura]
+24  Atlético Tucumán Res.   17 |  7   7-7       |  8   5-11      | 15  12-18 [Clausura]
+25  Defensa y Justicia Res  16 |  7  12-8       |  8   9-16      | 15  21-24 [Clausura]
+26  Racing Club Res.        16 |  7  12-15      |  8  12-13      | 15  24-28 [Clausura]
+27  Aldosivi Res.           15 |  7   6-5       |  8   7-13      | 15  13-18 [Clausura]
+28  Argentinos Juniors Res  15 |  7   5-4       |  8   5-11      | 15  10-15 [Clausura]
+29  Tigre Res.              15 |  8   8-12      |  7   9-13      | 15  17-25 [Clausura]
+30  Colón Res.              14 |  8   9-15      |  7   4-7       | 15  13-22 [Clausura]
+31  Barracas Central Res.   13 |  8   7-8       |  7   4-13      | 15  11-21 [Clausura]
+32  Banfield Res.           13 |  8   9-9       |  7   4-16      | 15  13-25 [Clausura]
+33  San Martín San Juan Re  13 |  7   4-4       |  8  10-23      | 15  14-27 [Clausura]
+34  Central Córdoba SdE Re  12 |  8   5-10      |  7   7-15      | 15  12-25 [Clausura]
+35  Platense Res.            7 |  8   3-12      |  7   5-9       | 15   8-21 [Clausura]
+36  Ferro 2                  7 |  8   3-11      |  7   6-15      | 15   9-26 [Clausura]
+
+TABLE FOR Gimnasia Jujuy
+LEAGUE TABLE Primera Nacional 2026 | 36 teams | 630 games played
+League averages per game: home 1.19, away 0.77, total 1.96
+#   team                   Pts | home P GF-GA  | away P GF-GA  | all P GF-GA
+1   Ferro Carril Oeste      65 | 18  18-17      | 17  20-14      | 35  38-31 [Group 1]
+2   Godoy Cruz              63 | 17  34-14      | 18  17-18      | 35  51-32 [Group 1]
+3   Deportivo Moron         58 | 17  31-13      | 18  20-24      | 35  51-37 [Group 1]
+4   Deportivo Madryn        57 | 18  32-14      | 17  19-17      | 35  51-31 [Group 1]
+5   Colon Santa Fe          57 | 17  27-10      | 18  16-17      | 35  43-27 [Group 1]
+6   Almirante Brown         51 | 18  17-8       | 17  12-16      | 35  29-24 [Group 1]
+7   Ciudad de Bolívar       51 | 18  16-17      | 17  14-14      | 35  30-31 [Group 1]
+8   CA Estudiantes          49 | 18  21-14      | 17  14-20      | 35  35-34 [Group 1]
+9   Chaco For Ever          43 | 17  22-16      | 18  14-20      | 35  36-36 [Group 1]
+10  Los Andes               42 | 17  14-9       | 18  13-17      | 35  27-26 [Group 1]
+11  Racing Cordoba          40 | 18  23-16      | 17   8-26      | 35  31-42 [Group 1]
+12  Defensores De Belgrano  39 | 18  13-17      | 17  12-15      | 35  25-32 [Group 1]
+13  Atletico Mitre          39 | 18  17-21      | 17  14-21      | 35  31-42 [Group 1]
+14  Central Norte           38 | 18  12-11      | 17  11-20      | 35  23-31 [Group 1]
+15  All Boys                38 | 17   9-6       | 18  12-24      | 35  21-30 [Group 1]
+16  San Telmo               38 | 17  17-18      | 18  12-23      | 35  29-41 [Group 1]
+17  Acassuso                34 | 17  13-15      | 18  12-20      | 35  25-35 [Group 1]
+18  San Miguel              33 | 17  15-17      | 18  12-24      | 35  27-41 [Group 1]
+1   Tristan Suarez          63 | 17  19-7       | 18  15-9       | 35  34-16 [Group 2]
+2   Atlanta                 61 | 17  22-10      | 18  20-24      | 35  42-34 [Group 2]
+3   Temperley               60 | 18  32-20      | 17   9-9       | 35  41-29 [Group 2]
+4   Gimnasia Jujuy          58 | 18  33-17      | 17  19-27      | 35  52-44 [Group 2]
+5   Midland                 54 | 18  26-7       | 17  17-22      | 35  43-29 [Group 2]
+6   Gimnasia Y Tiro         52 | 17  20-10      | 18  17-24      | 35  37-34 [Group 2]
+7   Deportivo Maipu         51 | 18  23-12      | 17  20-22      | 35  43-34 [Group 2]
+8   Colegiales              51 | 18  27-10      | 17   9-22      | 35  36-32 [Group 2]
+9   San Martin S.J.         48 | 17  22-14      | 18  15-21      | 35  37-35 [Group 2]
+10  San Martin Tucuman      46 | 17  24-13      | 18  15-24      | 35  39-37 [Group 2]
+11  Atletico DE Rafaela     46 | 17  22-12      | 18   7-23      | 35  29-35 [Group 2]
+12  Agropecuario            43 | 17  17-12      | 18  12-26      | 35  29-38 [Group 2]
+13  Quilmes                 42 | 18  21-8       | 17  11-22      | 35  32-30 [Group 2]
+14  Almagro                 42 | 18  19-16      | 17  13-26      | 35  32-42 [Group 2]
+15  Chacarita Juniors       39 | 17  18-11      | 18   9-24      | 35  27-35 [Group 2]
+16  Patronato               37 | 18  22-17      | 17   7-18      | 35  29-35 [Group 2]
+17  Nueva Chicago           37 | 18  17-13      | 17   8-21      | 35  25-34 [Group 2]
+18  Club Atlético Güemes    26 | 17  14-25      | 18  12-35      | 35  26-60 [Group 2]
+
+(25 API-Football requests used)
+
+----------------------------------------------------------------------
+MATCHBOOK: skipped (switched off for this run)
