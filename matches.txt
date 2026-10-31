@@ -1,3 +1,2 @@
-# Scan 31.10 09:56 run 1 (Ljubljana)
-Erzurumspor v Corum | n=20 | xg=10
-Kagoshima United v Roasso Kumamoto | n=20 | xg=10
+# Scan 31.10 09:56 run 2 (Ljubljana) - Erzurum/Corum ids
+id:1009 v id:6343 | n=20 | xg=10
