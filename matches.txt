@@ -1,2 +1,4 @@
-# Night scan 30.10 20:56 run 4 (Ljubljana) - team id correction
-Puebla v id:2286 | n=20 | xg=10
+# Scan 31.10 06:11 (Ljubljana)
+Vissel Kobe v Nagoya Grampus | n=20 | xg=10
+Melbourne City v Sydney FC | n=20 | xg=10
+Kashiwa Reysol v Urawa Reds | n=20 | xg=10
