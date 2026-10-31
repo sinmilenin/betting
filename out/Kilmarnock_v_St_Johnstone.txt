@@ -1,13 +1,78 @@
-MATCH Kilmarnock v St Johnstone | fetched 2026-10-31 12:46 local
+MATCH Kilmarnock v St Johnstone | fetched 2026-10-31 12:48 local
 
-FORM DATA Kilmarnock v St Johnstone | source API-Football | 2026-10-31 12:46 UTC
+FORM DATA Kilmarnock v St Johnstone | source API-Football | 2026-10-31 12:49 UTC
 H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
 
-!! Kilmarnock: API-Football error: HTTP 429 from API-Football
+=== Kilmarnock (id 250): last 20 finished games ===
+2026-10-28 A 1-3 v Dundee | Premiership | Dundee | xG 2.11-2.29
+2026-10-24 A 0-3 v Falkirk | Premiership | Falkirk | xG 1.89-2.08
+2026-10-17 H 3-2 v Motherwell | Premiership | Kilmarnock | xG 1.51-2.44
+2026-10-10 A 1-3 v Rangers | Premiership | Glasgow | xG 1.25-1.93
+2026-09-19 H 1-1 v Heart Of Midlothian | Premiership | Kilmarnock | xG 0.23-1.78
+2026-09-15 A 1-0 v Hibernian | Premiership | Edinburgh | xG 1.95-1.31
+2026-09-12 H 1-1 v Aberdeen | League Cup | Kilmarnock [PEN, 90-min score shown]
+2026-09-05 A 0-0 v Aberdeen | Premiership | Aberdeen | xG 0.93-0.85
+2026-09-02 H 0-1 v ST Mirren | Premiership | Kilmarnock | xG 0.43-1.09
+2026-08-29 H 0-4 v Dundee Utd | Premiership | Kilmarnock | xG 1.03-3.50
+2026-08-14 H 3-2 v Ayr Utd | League Cup | Kilmarnock
+2026-08-09 H 1-5 v Celtic | Premiership | Kilmarnock
+2026-08-02 A 3-4 v ST Johnstone | Premiership | Perth
+2026-07-25 A 0-0 v Peterhead | League Cup | Peterhead [PEN, 90-min score shown]
+2026-07-21 H 1-0 v Hamilton Academical | League Cup | Kilmarnock
+2026-07-18 A 1-0 v Elgin City | League Cup | Elgin
+2026-07-14 H 0-0 v Raith Rovers | League Cup | Kilmarnock [PEN, 90-min score shown]
+2026-07-04 A 3-2 v Linfield | Friendlies Clubs | ?
+2026-07-01 A 4-0 v Glentoran | Friendlies Clubs | ?
+2026-05-17 A 4-1 v Livingston | Premiership | Livingston
+Listed home: 9 games, scored 10 (1.11), conceded 16 (1.78), blanks 3, clean sheets 2
+Listed away: 11 games, scored 18 (1.64), conceded 16 (1.45), blanks 3, clean sheets 5
+All: 20 games, scored 28 (1.40), conceded 32 (1.60), blanks 6, clean sheets 7
 
-!! St Johnstone: API-Football error: HTTP 429 from API-Football
+=== ST Johnstone (id 258): last 20 finished games ===
+2026-10-28 H 2-2 v Motherwell | Premiership | Perth | xG 1.48-1.53
+2026-10-24 A 0-4 v Rangers | Premiership | Glasgow | xG 0.61-4.61
+2026-10-17 H 1-1 v Dundee Utd | Premiership | Perth | xG 1.28-1.11
+2026-10-11 A 1-0 v Aberdeen | Premiership | Aberdeen | xG 1.25-1.69
+2026-09-19 H 1-1 v Falkirk | Premiership | Perth | xG 0.68-0.90
+2026-09-09 H 0-1 v Celtic | Premiership | Perth | xG 0.77-2.22
+2026-09-06 H 2-1 v Hibernian | Premiership | Perth | xG 2.49-1.72
+2026-09-02 A 1-1 v Dundee | Premiership | Dundee | xG 1.08-1.97
+2026-08-29 A 1-2 v Heart Of Midlothian | Premiership | Edinburgh | xG 1.16-1.71
+2026-08-08 A 0-1 v ST Mirren | Premiership | Paisley | xG 1.17-1.58
+2026-08-02 H 4-3 v Kilmarnock | Premiership | Perth
+2026-07-25 H 1-1 v East Fife | League Cup | Perth [PEN, 90-min score shown]
+2026-07-21 A 0-1 v Inverness CT | League Cup | Inverness
+2026-07-18 H 3-0 v Morton | League Cup | Perth
+2026-07-14 A 2-0 v Linlithgow Rose | League Cup | Linlithgow
+2026-07-11 A 4-2 v Cove Rangers | Friendlies Clubs | ?
+2026-07-04 A 3-0 v Montrose | Friendlies Clubs | ?
+2026-06-30 A 4-0 v Forfar Athletic | Friendlies Clubs | ?
+2026-05-01 A 1-0 v Ayr Utd | Championship | Ayr
+2026-04-24 H 2-0 v Raith Rovers | Championship | Perth
+Listed home: 9 games, scored 16 (1.78), conceded 10 (1.11), blanks 1, clean sheets 2
+Listed away: 11 games, scored 17 (1.55), conceded 11 (1.00), blanks 3, clean sheets 5
+All: 20 games, scored 33 (1.65), conceded 21 (1.05), blanks 4, clean sheets 7
 
-(0 API-Football requests used)
+TABLE FOR Kilmarnock
+LEAGUE TABLE Premiership 2026 | 12 teams | 66 games played
+League averages per game: home 1.52, away 1.33, total 2.85
+#   team                   Pts | home P GF-GA  | away P GF-GA  | all P GF-GA
+1   Celtic                  28 |  6  15-5       |  5  12-3       | 11  27-8
+2   Rangers                 24 |  5  10-3       |  6   9-6       | 11  19-9
+3   Heart Of Midlothian     20 |  5  15-4       |  6   9-13      | 11  24-17
+4   Dundee                  17 |  6  11-7       |  5   6-6       | 11  17-13
+5   Dundee Utd              16 |  5   6-6       |  6  10-10      | 11  16-16
+6   Falkirk                 15 |  5   7-7       |  6   6-5       | 11  13-12
+7   ST Mirren               14 |  6   8-10      |  5   4-9       | 11  12-19
+8   ST Johnstone            13 |  6  10-9       |  5   3-8       | 11  13-17
+9   Aberdeen                11 |  6   5-5       |  5   7-9       | 11  12-14
+10  Motherwell               9 |  5   3-8       |  6  10-12      | 11  13-20
+11  Hibernian                8 |  6   5-11      |  5   6-6       | 11  11-17
+12  Kilmarnock               8 |  5   5-13      |  6   6-13      | 11  11-26
+
+(ST Johnstone: same table as Kilmarnock, shown above)
+
+(25 API-Football requests used)
 
 ----------------------------------------------------------------------
 MATCHBOOK: skipped (switched off for this run)

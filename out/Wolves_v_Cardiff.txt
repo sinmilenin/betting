@@ -1,13 +1,118 @@
-MATCH Wolves v Cardiff | fetched 2026-10-31 12:46 local
+MATCH Wolves v Cardiff | fetched 2026-10-31 12:48 local
 
-FORM DATA Wolves v Cardiff | source API-Football | 2026-10-31 12:46 UTC
+FORM DATA Wolves v Cardiff | source API-Football | 2026-10-31 12:49 UTC
 H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
 
-!! Wolves: API-Football error: HTTP 429 from API-Football
+"Wolves" matches several teams. Use id:<number> instead of the name:
+  id:39     Wolves (England)
+  id:3777   Wollongong Wolves (Australia)
+  id:4044   Dalton Red Wolves (USA)
+  id:4071   Park City Red Wolves (USA)
+  id:5508   Warri Wolves (Nigeria)
+  id:7204   Wolves U21 (England)
+  id:9007   Wolves Sporting (England)
+  id:9016   Chattanooga Red Wolves (USA)
+  id:9053   LA Wolves (USA)
+  id:11184  WDSC Wolves (Australia)
+  id:11931  Wolves U23 (England)
+  id:13495  Wolves (Finland)
+  id:14298  Jõgeva Wolves (Estonia)
+  id:14334  Tallinna Wolves (Estonia)
+  id:14342  Äksi Wolves (Estonia)
+  id:15387  Wolves U18 (England)
+  id:18459  Orlando FC Wolves (USA)
+  id:18996  Tallinna Wolves II (Estonia)
+  id:19111  St. Catharines Wolves (Canada)
+  id:20632  Warrington Wolves (England)
+  id:23815  Nashville Wolves (USA)
+  id:23937  Chattanooga Red Wolves W (USA)
+  id:23972  Arkansas Wolves (USA)
+  id:25133  Wolves Sports Club (Bermuda)
+  id:27816  Wollongong Wolves U20 (Australia)
+=== Cardiff (id 43): last 20 finished games ===
+2026-10-24 H 1-0 v Birmingham | Championship | Cardiff | xG 2.97-1.04
+2026-10-17 A 2-2 v Middlesbrough | Championship | Middlesbrough | xG 0.85-2.76
+2026-10-13 H 5-1 v Watford | Championship | Cardiff | xG 3.67-1.46
+2026-10-10 A 1-2 v Blackburn | Championship | Blackburn | xG 1.05-2.42
+2026-09-19 H 3-1 v Charlton | Championship | Cardiff | xG 2.60-1.26
+2026-09-12 A 0-1 v Bolton | Championship | Bolton | xG 1.79-0.48
+2026-09-08 H 1-1 v Stoke City | Championship | Cardiff | xG 2.92-0.75
+2026-09-05 A 0-2 v Portsmouth | Championship | Portsmouth | xG 1.37-2.07
+2026-09-02 A 1-2 v QPR | Championship | London | xG 0.60-2.09
+2026-08-29 H 2-2 v Sheffield Utd | Championship | Cardiff | xG 2.24-1.28
+2026-08-25 H 1-2 v Norwich | League Cup | Cardiff
+2026-08-22 A 2-2 v Derby | Championship | Derby
+2026-08-17 H 1-1 v Wrexham | Championship | Cardiff
+2026-08-08 H 3-2 v Swindon Town | League Cup | Cardiff
+2026-08-01 H 4-1 v AS Roma | Friendlies Clubs | Cardiff
+2026-07-25 A 5-1 v Forest Green | Friendlies Clubs | ?
+2026-07-14 A 6-1 v Cork City | Friendlies Clubs | Cork
+2026-07-11 H 0-6 v FC Midtjylland | Friendlies Clubs | ?
+2026-05-02 A 4-5 v Mansfield Town | League One | Mansfield
+2026-04-25 H 5-1 v Northampton | League One | Cardiff
+Listed home: 11 games, scored 26 (2.36), conceded 18 (1.64), blanks 1, clean sheets 1
+Listed away: 9 games, scored 21 (2.33), conceded 18 (2.00), blanks 2, clean sheets 0
+All: 20 games, scored 47 (2.35), conceded 36 (1.80), blanks 3, clean sheets 1
 
-!! Cardiff: API-Football error: HTTP 429 from API-Football
+(retrying Wolves using the opponent's country, Wales)
+"Wolves" matches several teams. Use id:<number> instead of the name:
+  id:39     Wolves (England)
+  id:3777   Wollongong Wolves (Australia)
+  id:4044   Dalton Red Wolves (USA)
+  id:4071   Park City Red Wolves (USA)
+  id:5508   Warri Wolves (Nigeria)
+  id:7204   Wolves U21 (England)
+  id:9007   Wolves Sporting (England)
+  id:9016   Chattanooga Red Wolves (USA)
+  id:9053   LA Wolves (USA)
+  id:11184  WDSC Wolves (Australia)
+  id:11931  Wolves U23 (England)
+  id:13495  Wolves (Finland)
+  id:14298  Jõgeva Wolves (Estonia)
+  id:14334  Tallinna Wolves (Estonia)
+  id:14342  Äksi Wolves (Estonia)
+  id:15387  Wolves U18 (England)
+  id:18459  Orlando FC Wolves (USA)
+  id:18996  Tallinna Wolves II (Estonia)
+  id:19111  St. Catharines Wolves (Canada)
+  id:20632  Warrington Wolves (England)
+  id:23815  Nashville Wolves (USA)
+  id:23937  Chattanooga Red Wolves W (USA)
+  id:23972  Arkansas Wolves (USA)
+  id:25133  Wolves Sports Club (Bermuda)
+  id:27816  Wollongong Wolves U20 (Australia)
+!! Wolves: Ambiguous team name "Wolves".
 
-(0 API-Football requests used)
+TABLE FOR Cardiff
+LEAGUE TABLE Championship 2026 | 24 teams | 145 games played
+League averages per game: home 1.59, away 1.28, total 2.88
+#   team                   Pts | home P GF-GA  | away P GF-GA  | all P GF-GA
+1   Middlesbrough           25 |  6  14-9       |  6  13-8       | 12  27-17
+2   Swansea                 23 |  6   7-3       |  6   9-10      | 12  16-13
+3   West Ham                22 |  6  17-8       |  6  15-7       | 12  32-15
+4   Wolves                  21 |  6  10-7       |  6  10-9       | 12  20-16
+5   West Brom               21 |  6   9-6       |  6   7-7       | 12  16-13
+6   Southampton             20 |  6  16-4       |  6   8-8       | 12  24-12
+7   Birmingham              20 |  6  14-7       |  6   6-5       | 12  20-12
+8   QPR                     20 |  6  13-5       |  6   7-7       | 12  20-12
+9   Stoke City              20 |  6  10-6       |  6   8-10      | 12  18-16
+10  Sheffield Utd           19 |  7   9-7       |  6   8-8       | 13  17-15
+11  Blackburn               18 |  6  11-7       |  6   8-9       | 12  19-16
+12  Portsmouth              18 |  6  10-10      |  6   6-5       | 12  16-15
+13  Millwall                15 |  6  11-8       |  6   8-12      | 12  19-20
+14  Bristol City            15 |  6   3-6       |  6   9-9       | 12  12-15
+15  Lincoln                 15 |  6   7-13      |  6   6-7       | 12  13-20
+16  Cardiff                 14 |  6  13-6       |  6   6-11      | 12  19-17
+17  Wrexham                 14 |  6  10-8       |  7   5-11      | 13  15-19
+18  Bolton                  14 |  6   7-12      |  6   9-11      | 12  16-23
+19  Charlton                14 |  6   5-5       |  6   6-13      | 12  11-18
+20  Norwich                 12 |  6  10-10      |  6  10-12      | 12  20-22
+21  Watford                 11 |  6   8-9       |  6   2-11      | 12  10-20
+22  Burnley                  8 |  6   8-10      |  6   9-15      | 12  17-25
+23  Derby                    7 |  6   4-10      |  6   6-11      | 12  10-21
+24  Preston                  5 |  6   5-10      |  6   5-15      | 12  10-25
+
+(14 API-Football requests used)
 
 ----------------------------------------------------------------------
 MATCHBOOK: skipped (switched off for this run)
