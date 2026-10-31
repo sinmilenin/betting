@@ -1,11 +1,2 @@
-# 2026-10-31 13:51 scan (13:43) retry after rate limit, part 2
-Fleetwood Town v Bristol Rovers | n=20 | xg=10
-Tranmere v Cheltenham | n=20 | xg=10
-Stockport v AFC Wimbledon | n=20 | xg=10
-id:1360 v Northampton | n=20 | xg=10
-id:1353 v Rotherham | n=20 | xg=10
-Feyenoord v Fortuna Sittard | n=20 | xg=10
-id:197 v Willem II | n=20 | xg=10
-id:39 v Cardiff | n=20 | xg=10
-Salford City v id:1364 | n=20 | xg=10
-id:1374 v Notts County | n=20 | xg=10
+# 2026-10-31 13:55 scan (13:43) retry 3
+id:4686 v AFC Wimbledon | n=20 | xg=10
