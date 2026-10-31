@@ -1,0 +1,121 @@
+MATCH Vissel Kobe v Nagoya Grampus | fetched 2026-10-31 05:12 local
+
+FORM DATA Vissel Kobe v Nagoya Grampus | source API-Football | 2026-10-31 05:12 UTC
+H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
+
+=== Vissel Kobe (id 289): last 20 finished games ===
+2026-10-27 A 1-0 v Daejeon Citizen | AFC Champions League Elite | Daejeon | xG 0.52-0.94
+2026-10-24 H 0-0 v Machida Zelvia | J1 League | Kobe | xG 1.33-2.00
+2026-10-21 A 1-2 v Kawasaki Frontale | J1 League | Kawasaki | xG 1.38-2.09
+2026-10-18 A 3-0 v Fagiano Okayama | J1 League | Okayama | xG 2.57-0.99
+2026-10-14 H 2-0 v Jeonbuk Motors | AFC Champions League Elite | Kobe | xG 1.26-1.77
+2026-10-09 A 2-4 v Kashiwa Reysol | J1 League | Kashiwa City | xG 1.29-1.78
+2026-09-23 H 1-0 v Sagan Tosu | Emperor Cup | Kobe
+2026-09-20 A 1-0 v Gamba Osaka | J1 League | Suita | xG 1.33-2.02
+2026-09-16 A 2-1 v Port FC | AFC Champions League Elite | Bangkok | xG 2.51-0.13
+2026-09-11 H 2-1 v Kashima | J1 League | Kobe | xG 1.69-1.77
+2026-09-06 H 3-1 v V-varen Nagasaki | J1 League | Kobe
+2026-09-02 A 2-0 v Tokyo Verdy | J1 League | Tokyo
+2026-08-29 H 1-0 v Cerezo Osaka | J1 League | Kobe
+2026-08-26 H 2-1 v Veroskronos Tsuno | Emperor Cup | Kobe
+2026-08-22 A 0-1 v Yokohama F. Marinos | J1 League | Yokohama
+2026-08-15 H 2-2 v FC Tokyo | J1 League | Kobe
+2026-08-08 A 1-0 v Avispa Fukuoka | J1 League | Fukuoka
+2026-07-22 H 2-1 v Imabari | Friendlies Clubs | ?
+2026-07-18 H 1-1 v Consadole Sapporo | Friendlies Clubs | ?
+2026-06-06 A 0-2 v Kashima | J1 League | Kashima
+Listed home: 10 games, scored 16 (1.60), conceded 7 (0.70), blanks 1, clean sheets 4
+Listed away: 10 games, scored 13 (1.30), conceded 10 (1.00), blanks 2, clean sheets 5
+All: 20 games, scored 29 (1.45), conceded 17 (0.85), blanks 3, clean sheets 9
+
+=== Nagoya Grampus (id 288): last 20 finished games ===
+2026-10-28 H 1-1 v Urawa | J-League Cup | Toyota City [AET, 90-min score shown]
+2026-10-25 H 1-1 v Yokohama F. Marinos | J1 League | Toyota | xG 2.41-1.47
+2026-10-21 H 1-1 v Cerezo Osaka | J1 League | Toyota | xG 1.70-1.42
+2026-10-17 A 3-1 v Kashiwa Reysol | J1 League | Kashiwa City | xG 1.72-1.07
+2026-10-14 H 3-3 v Fagiano Okayama | J-League Cup | Toyota City [PEN, 90-min score shown]
+2026-10-11 A 2-1 v Kawasaki Frontale | J1 League | Kawasaki | xG 1.12-1.33
+2026-09-29 A 3-1 v Kitakyushu | J-League Cup | Kitakyushu
+2026-09-19 A 0-1 v FC Tokyo | J1 League | Tokyo | xG 0.84-0.85
+2026-09-12 A 0-2 v V-varen Nagasaki | J1 League | Nagasaki | xG 0.80-2.10
+2026-09-06 H 1-3 v Machida Zelvia | J1 League | Toyota | xG 0.94-3.14
+2026-09-02 A 0-3 v Sanfrecce Hiroshima | J1 League | Hiroshima
+2026-08-29 H 2-1 v Fagiano Okayama | J1 League | Toyota City
+2026-08-26 H 1-3 v Gainare Tottori | Emperor Cup | Toyota City
+2026-08-22 H 3-1 v Gamba Osaka | J1 League | Toyota City
+2026-08-15 A 1-2 v Kashima | J1 League | Kashima
+2026-08-08 H 0-1 v Shimizu S-pulse | J1 League | Toyota City
+2026-07-25 A 0-1 v Consadole Sapporo | Friendlies Clubs | ?
+2026-07-21 A 1-2 v FC Tokyo | Friendlies Clubs | ?
+2026-06-06 A 0-0 v Machida Zelvia | J1 League | Machida [AET, 90-min score shown]
+2026-05-30 H 2-2 v Machida Zelvia | J1 League | Toyota City
+Listed home: 10 games, scored 15 (1.50), conceded 17 (1.70), blanks 1, clean sheets 0
+Listed away: 10 games, scored 10 (1.00), conceded 14 (1.40), blanks 5, clean sheets 1
+All: 20 games, scored 25 (1.25), conceded 31 (1.55), blanks 6, clean sheets 1
+
+TABLE FOR Vissel Kobe
+LEAGUE TABLE AFC Champions League Elite 2026 | 32 teams | 47 games played
+League averages per game: home 1.79, away 1.19, total 2.98
+#   team                   Pts | home P GF-GA  | away P GF-GA  | all P GF-GA
+1   Al Ain                   9 |  2   6-1       |  1   4-1       |  3  10-2 [West Region]
+2   Shabab Al Ahli Dubai     9 |  2   3-0       |  1   2-1       |  3   5-1 [West Region]
+3   Al-Ahli Jeddah           7 |  2   3-2       |  1   3-1       |  3   6-3 [West Region]
+4   Esteghlal FC             6 |  1   3-0       |  2   2-3       |  3   5-3 [West Region]
+5   Al-Hilal Saudi FC        6 |  1   2-1       |  2   3-3       |  3   5-4 [West Region]
+6   Al Shamal                5 |  2   4-2       |  1   0-0       |  3   4-2 [West Region]
+7   Al-Qadisiyah FC          5 |  2   3-2       |  1   1-1       |  3   4-3 [West Region]
+8   Al-Ittihad FC            4 |  1   1-2       |  2   3-2       |  3   4-4 [West Region]
+9   Al-Nassr                 3 |  1   3-1       |  1   0-4       |  2   3-5 [West Region]
+10  Neftchi                  3 |  2   2-2       |  1   1-3       |  3   3-5 [West Region]
+11  Al Quwa Al Jawiya        3 |  2   2-4       |  1   0-1       |  3   2-5 [West Region]
+12  Pakhtakor                2 |  1   1-1       |  2   1-2       |  3   2-3 [West Region]
+13  Tractor Sazi             1 |  1   0-0       |  2   1-3       |  3   1-3 [West Region]
+14  Al Sadd                  1 |  1   0-2       |  2   1-4       |  3   1-6 [West Region]
+15  Al-Gharafa               0 |  1   1-2       |  2   2-4       |  3   3-6 [West Region]
+16  Al-Wasl FC               0 |  1   1-3       |  1   1-2       |  2   2-5 [West Region]
+1   Kashima                  9 |  2  10-1       |  1   1-0       |  3  11-1 [East Region]
+2   Vissel Kobe              9 |  1   2-0       |  2   3-1       |  3   5-1 [East Region]
+3   Gamba Osaka              7 |  2   5-2       |  1   3-1       |  3   8-3 [East Region]
+4   Johor Darul Takzim FC    7 |  2   4-1       |  1   2-0       |  3   6-1 [East Region]
+5   Beijing Guoan            7 |  2   5-3       |  1   1-0       |  3   6-3 [East Region]
+6   Kyoto Sanga              6 |  2   6-2       |  1   0-1       |  3   6-3 [East Region]
+7   Kashiwa Reysol           4 |  1   5-1       |  2   1-2       |  3   6-3 [East Region]
+8   SHANGHAI SIPG            4 |  2   3-4       |  1   6-4       |  3   9-8 [East Region]
+9   Daejeon Citizen          4 |  2   1-1       |  1   1-1       |  3   2-2 [East Region]
+10  Jeonbuk Motors           4 |  1   2-1       |  2   2-4       |  3   4-5 [East Region]
+11  Công An Nhân Dân         3 |  1   0-1       |  2   4-6       |  3   4-7 [East Region]
+12  Buriram United           2 |  1   0-1       |  2   2-2       |  3   2-3 [East Region]
+13  Ratchaburi               1 |  2   4-6       |  1   0-1       |  3   4-7 [East Region]
+14  Pohang Steelers          0 |  1   0-2       |  2   1-6       |  3   1-8 [East Region]
+15  Port FC                  0 |  1   1-2       |  2   1-8       |  3   2-10 [East Region]
+16  Newcastle Jets           0 |  1   1-3       |  2   3-12      |  3   4-15 [East Region]
+
+TABLE FOR Nagoya Grampus
+LEAGUE TABLE J1 League 2027 | 20 teams | 120 games played
+League averages per game: home 1.62, away 1.36, total 2.98
+#   team                   Pts | home P GF-GA  | away P GF-GA  | all P GF-GA
+1   Machida Zelvia          27 |  5  11-7       |  7  19-3       | 12  30-10
+2   FC Tokyo                27 |  7  15-5       |  5  12-3       | 12  27-8
+3   Sanfrecce Hiroshima     26 |  6  20-2       |  6   9-8       | 12  29-10
+4   Kashiwa Reysol          25 |  5  11-10      |  7  14-9       | 12  25-19
+5   Vissel Kobe             23 |  5   8-4       |  7  10-7       | 12  18-11
+6   Kawasaki Frontale       22 |  7  17-12      |  5   8-6       | 12  25-18
+7   Urawa                   21 |  6  12-11      |  6   9-12      | 12  21-23
+8   Kashima                 20 |  6  11-7       |  6  14-14      | 12  25-21
+9   Yokohama F. Marinos     18 |  5   9-7       |  7   7-5       | 12  16-12
+10  Fagiano Okayama         16 |  6   7-7       |  6   8-10      | 12  15-17
+11  Nagoya Grampus          14 |  6   8-8       |  6   6-10      | 12  14-18
+12  Cerezo Osaka            14 |  7   9-7       |  5   3-12      | 12  12-19
+13  Shimizu S-pulse         14 |  7   6-11      |  5   4-9       | 12  10-20
+14  V-varen Nagasaki        12 |  6  11-7       |  6   4-12      | 12  15-19
+15  Gamba Osaka             11 |  5   6-8       |  7   8-13      | 12  14-21
+16  Kyoto Sanga             10 |  5   7-10      |  7   8-13      | 12  15-23
+17  Mito Hollyhock           9 |  6   7-8       |  6   5-14      | 12  12-22
+18  Tokyo Verdy              8 |  8   6-16      |  4   3-5       | 12   9-21
+19  Avispa Fukuoka           7 |  7   9-9       |  5   4-12      | 12  13-21
+20  JEF United Chiba         7 |  5   4-7       |  7   8-17      | 12  12-24
+
+(27 API-Football requests used)
+
+----------------------------------------------------------------------
+MATCHBOOK: skipped (switched off for this run)
