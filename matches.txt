@@ -1,7 +1,5 @@
-# 2026-10-31 12:58 scan: new fixtures
-Leyton Orient v Cambridge United | n=20 | xg=10
-Augsburg v Freiburg | n=20 | xg=10
-Schalke 04 v RB Leipzig | n=20 | xg=10
-Bregenz v Admira Wacker | n=20 | xg=10
-Dunav Ruse v Levski Sofia | n=20 | xg=10
-Floridsdorfer AC v Kapfenberger SV | n=20 | xg=10
+# 2026-10-31 13:03 scan: retries + Grimsby
+id:170 v id:160 | n=20 | xg=10
+id:174 v RB Leipzig | n=20 | xg=10
+Floridsdorfer AC v Kapfenberg | n=20 | xg=10
+Grimsby v York City | n=20 | xg=10
