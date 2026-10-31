@@ -1,13 +1,86 @@
-MATCH Coventry v id:746 | fetched 2026-10-31 06:42 local
+MATCH Coventry v id:746 | fetched 2026-10-31 06:44 local
 
-FORM DATA Coventry v id:746 | source API-Football | 2026-10-31 06:43 UTC
+FORM DATA Coventry v id:746 | source API-Football | 2026-10-31 06:44 UTC
 H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
 
-!! Coventry: API-Football error: HTTP 429 from API-Football
+=== Coventry (id 1346): last 20 finished games ===
+2026-10-24 H 0-1 v Fulham | Premier League | Coventry | xG 0.51-0.55
+2026-10-19 A 1-3 v Tottenham | Premier League | London | xG 0.77-0.86
+2026-10-12 H 4-1 v Newcastle | Premier League | Coventry | xG 1.47-1.84
+2026-09-19 A 1-0 v Nottingham Forest | Premier League | Nottingham | xG 0.67-1.10
+2026-09-16 H 1-3 v Aston Villa | League Cup | Coventry
+2026-09-13 H 0-5 v Brighton | Premier League | Coventry | xG 1.33-2.81
+2026-09-05 A 0-1 v Manchester City | Premier League | Manchester | xG 1.37-2.12
+2026-08-29 H 0-1 v Hull City | Premier League | Coventry | xG 1.29-0.72
+2026-08-25 A 4-2 v Plymouth | League Cup | Plymouth
+2026-08-21 A 0-3 v Arsenal | Premier League | London | xG 0.20-1.88
+2026-08-14 H 2-0 v Monaco | Friendlies Clubs | ?
+2026-08-08 H 3-1 v Espanyol | Friendlies Clubs | ?
+2026-07-18 A 0-0 v Northampton | Friendlies Clubs | ?
+2026-05-02 A 4-0 v Watford | Championship | Watford
+2026-04-26 H 3-1 v Wrexham | Championship | Coventry
+2026-04-21 H 5-1 v Portsmouth | Championship | Coventry
+2026-04-17 A 1-1 v Blackburn | Championship | Blackburn
+2026-04-11 H 0-0 v Sheffield Wednesday | Championship | Coventry
+2026-04-06 A 0-0 v Hull City | Championship | Hull
+2026-04-03 H 3-2 v Derby | Championship | Coventry
+Listed home: 11 games, scored 21 (1.91), conceded 16 (1.45), blanks 4, clean sheets 2
+Listed away: 9 games, scored 11 (1.22), conceded 10 (1.11), blanks 4, clean sheets 4
+All: 20 games, scored 32 (1.60), conceded 26 (1.30), blanks 8, clean sheets 6
 
-!! id:746: API-Football error: HTTP 429 from API-Football
+=== Sunderland (id 746): last 20 finished games ===
+2026-10-28 H 3-2 v Brentford | League Cup | Sunderland | xG 2.41-2.77
+2026-10-25 H 0-0 v Leeds | Premier League | Sunderland | xG 0.83-0.76
+2026-10-22 A 1-1 v Lech Poznan | UEFA Europa League | Poznan | xG 2.99-2.68
+2026-10-18 A 0-2 v Bournemouth | Premier League | Bournemouth | xG 0.07-4.23
+2026-10-15 A 2-1 v Torreense | UEFA Europa League | Leiria | xG 1.82-0.08
+2026-10-10 H 0-2 v Brighton | Premier League | Sunderland | xG 0.72-1.41
+2026-09-20 A 3-5 v Manchester City | Premier League | Manchester | xG 3.57-2.82
+2026-09-16 H 1-0 v AZ Alkmaar | UEFA Europa League | Sunderland | xG 2.90-1.49
+2026-09-12 H 0-2 v Arsenal | Premier League | Sunderland | xG 1.80-1.88
+2026-09-08 H 1-0 v Hull City | League Cup | Sunderland
+2026-09-05 A 1-1 v Brentford | Premier League | London
+2026-08-30 H 1-0 v Fulham | Premier League | Sunderland
+2026-08-22 A 1-2 v Ipswich | Premier League | Ipswich
+2026-08-15 H 2-1 v Rennes | Friendlies Clubs | ?
+2026-08-08 A 2-0 v Lens | Friendlies Clubs | ?
+2026-08-02 A 1-0 v Wrexham | Premier League - Summer Series | ?
+2026-07-30 H 0-1 v Leeds | Premier League - Summer Series | ?
+2026-07-25 A 2-4 v Liverpool | Premier League - Summer Series | Nashville
+2026-07-18 A 5-1 v York | Friendlies Clubs | ?
+2026-05-24 H 2-1 v Chelsea | Premier League | Sunderland
+Listed home: 10 games, scored 10 (1.00), conceded 9 (0.90), blanks 4, clean sheets 4
+Listed away: 10 games, scored 18 (1.80), conceded 17 (1.70), blanks 1, clean sheets 2
+All: 20 games, scored 28 (1.40), conceded 26 (1.30), blanks 5, clean sheets 6
 
-(0 API-Football requests used)
+TABLE FOR Coventry
+LEAGUE TABLE Premier League 2026 | 20 teams | 80 games played
+League averages per game: home 1.51, away 1.26, total 2.77
+#   team                   Pts | home P GF-GA  | away P GF-GA  | all P GF-GA
+1   Manchester City         21 |  4  11-6       |  4   9-3       |  8  20-9
+2   Arsenal                 21 |  4   9-2       |  4   4-3       |  8  13-5
+3   Brighton                16 |  4  13-1       |  4  10-6       |  8  23-7
+4   Liverpool               15 |  4   4-5       |  4   7-3       |  8  11-8
+5   Chelsea                 13 |  4  11-8       |  4   6-7       |  8  17-15
+6   Brentford               11 |  4   8-3       |  4   6-6       |  8  14-9
+7   Leeds                   11 |  4   6-3       |  4   3-3       |  8   9-6
+8   Newcastle               11 |  4   6-6       |  4   6-8       |  8  12-14
+9   Aston Villa             11 |  4   5-6       |  4   4-6       |  8   9-12
+10  Hull City               10 |  4   5-3       |  4   4-5       |  8   9-8
+11  Everton                 10 |  4   5-4       |  4   3-5       |  8   8-9
+12  Ipswich                 10 |  4   5-5       |  4   7-11      |  8  12-16
+13  Bournemouth              9 |  4   5-4       |  4   7-9       |  8  12-13
+14  Tottenham                9 |  4   5-6       |  4   3-4       |  8   8-10
+15  Fulham                   8 |  4   6-7       |  4   2-3       |  8   8-10
+16  Manchester United        7 |  4   6-7       |  4   4-6       |  8  10-13
+17  Crystal Palace           7 |  4   6-10      |  4   3-9       |  8   9-19
+18  Nottingham Forest        6 |  4   0-3       |  4   6-7       |  8   6-10
+19  Coventry                 6 |  4   4-8       |  4   2-7       |  8   6-15
+20  Sunderland               5 |  4   1-4       |  4   5-10      |  8   6-14
+
+(Sunderland: same table as Coventry, shown above)
+
+(26 API-Football requests used)
 
 ----------------------------------------------------------------------
 MATCHBOOK: skipped (switched off for this run)
