@@ -1,26 +1,10 @@
-RUN 2026-10-31 13:30 local | 13 match(es)
-Norrby v Varnamo -> out/Norrby_v_Varnamo.txt
-    !! Varnamo: Ambiguous team name "Varnamo".
-Pardubice v Slovan Liberec -> out/Pardubice_v_Slovan_Liberec.txt
-Hajduk Split v Gorica -> out/Hajduk_Split_v_Gorica.txt
-    !! Hajduk Split: Ambiguous team name "Hajduk Split".
-Digenis Ypsonas v AEK Larnaca -> out/Digenis_Ypsonas_v_AEK_Larnaca.txt
-    !! Digenis Ypsonas: No team found for "Digenis Ypsonas".
-Jablonec v Slavia Prague -> out/Jablonec_v_Slavia_Prague.txt
-    !! Jablonec: Ambiguous team name "Jablonec".
-    !! Slavia Prague: No team found for "Slavia Prague".
-Hunedoara v Arges Pitesti -> out/Hunedoara_v_Arges_Pitesti.txt
-MK Dons v Doncaster -> out/MK_Dons_v_Doncaster.txt
-    !! MK Dons: No team found for "MK Dons".
-Eibar v Almeria -> out/Eibar_v_Almeria.txt
-Altach v Ried -> out/Altach_v_Ried.txt
-    !! Altach: Ambiguous team name "Altach".
-Macva Sabac v Crvena Zvezda -> out/Macva_Sabac_v_Crvena_Zvezda.txt
-    !! Macva Sabac: No team found for "Macva Sabac".
-    !! Crvena Zvezda: Ambiguous team name "Crvena Zvezda".
-Fenerbahce v Goztepe -> out/Fenerbahce_v_Goztepe.txt
-    !! Fenerbahce: Ambiguous team name "Fenerbahce".
-    !! Goztepe: Ambiguous team name "Goztepe".
-Catanzaro v Padova -> out/Catanzaro_v_Padova.txt
-Falkenbergs v Sandvikens -> out/Falkenbergs_v_Sandvikens.txt
-Requests used: API-Football 211, Matchbook 0
+RUN 2026-10-31 13:32 local | 8 match(es)
+id:2173 v id:2163 -> out/id_2173_v_id_2163.txt
+id:608 v HNK Gorica -> out/id_608_v_HNK_Gorica.txt
+Ypsonas v id:614 -> out/Ypsonas_v_id_614.txt
+id:1122 v Slavia Praha -> out/id_1122_v_Slavia_Praha.txt
+Milton Keynes Dons v id:1354 -> out/Milton_Keynes_Dons_v_id_1354.txt
+id:618 v id:1028 -> out/id_618_v_id_1028.txt
+Macva v id:598 -> out/Macva_v_id_598.txt
+id:611 v id:994 -> out/id_611_v_id_994.txt
+Requests used: API-Football 203, Matchbook 0

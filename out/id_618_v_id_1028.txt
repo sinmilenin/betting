@@ -1,13 +1,33 @@
-MATCH Altach v Ried | fetched 2026-10-31 13:30 local
+MATCH id:618 v id:1028 | fetched 2026-10-31 13:32 local
 
-FORM DATA Altach v Ried | source API-Football | 2026-10-31 13:30 UTC
+FORM DATA id:618 v id:1028 | source API-Football | 2026-10-31 13:32 UTC
 H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
 
-"Altach" matches several teams. Use id:<number> instead of the name:
-  id:618    SCR Altach (Austria)
-  id:8256   Rheindorf Altach II (Austria)
-  id:17574  Altach / Vorderland W (Austria)
-  id:24441  Rheindorf Altach W (Austria)
+=== SCR Altach (id 618): last 20 finished games ===
+2026-10-27 A 4-0 v Grazer AK | Cup | Graz
+2026-10-23 H 2-1 v Austria Vienna | Bundesliga | Artach | xG 0.92-1.09
+2026-10-18 A 0-3 v Red Bull Salzburg | Bundesliga | Salzburg | xG 0.63-2.76
+2026-10-11 H 3-0 v Wolfsberger AC | Bundesliga | Artach | xG 1.89-0.26
+2026-10-01 H 5-0 v FC WIL 1900 | Friendlies Clubs | ?
+2026-09-19 A 0-2 v Austria Lustenau | Bundesliga | Lustenau | xG 1.07-0.81
+2026-09-12 H 1-2 v Grazer AK | Bundesliga | Altach | xG 1.07-0.38
+2026-09-04 H 7-0 v Bischofshofen | Cup | Altach
+2026-08-29 A 0-3 v Lask Linz | Bundesliga | Linz | xG 0.31-3.06
+2026-08-22 H 1-2 v TSV Hartberg | Bundesliga | Altach | xG 1.85-1.23
+2026-08-15 A 0-1 v Sturm Graz | Bundesliga | Graz
+2026-08-07 H 3-1 v WSG Wattens | Bundesliga | Altach
+2026-08-02 A 0-1 v Rapid Vienna | Bundesliga | Vienna
+2026-07-24 A 1-0 v Leobendorf | Cup | Leobendorf
+2026-07-18 H 3-1 v Grasshoppers | Friendlies Clubs | ?
+2026-07-10 H 1-0 v FC Vaduz | Friendlies Clubs | ?
+2026-07-04 H 1-2 v 1. FC Heidenheim | Friendlies Clubs | ?
+2026-06-27 A 2-3 v FC ST. Gallen | Friendlies Clubs | ?
+2026-06-20 A 4-0 v Hörbranz | Friendlies Clubs | ?
+2026-05-16 H 2-0 v Ried | Bundesliga | Altach
+Listed home: 11 games, scored 29 (2.64), conceded 9 (0.82), blanks 0, clean sheets 5
+Listed away: 9 games, scored 11 (1.22), conceded 13 (1.44), blanks 5, clean sheets 3
+All: 20 games, scored 40 (2.00), conceded 22 (1.10), blanks 5, clean sheets 8
+
 === Ried (id 1028): last 20 finished games ===
 2026-10-28 A 3-3 v Lask Linz | Cup | Linz [AET, 90-min score shown]
 2026-10-25 A 2-2 v Sturm Graz | Bundesliga | Graz | xG 1.35-1.87
@@ -33,15 +53,7 @@ Listed home: 10 games, scored 21 (2.10), conceded 16 (1.60), blanks 0, clean she
 Listed away: 10 games, scored 21 (2.10), conceded 23 (2.30), blanks 2, clean sheets 0
 All: 20 games, scored 42 (2.10), conceded 39 (1.95), blanks 2, clean sheets 2
 
-(retrying Altach using the opponent's country, Austria)
-"Altach" matches several teams. Use id:<number> instead of the name:
-  id:618    SCR Altach (Austria)
-  id:8256   Rheindorf Altach II (Austria)
-  id:17574  Altach / Vorderland W (Austria)
-  id:24441  Rheindorf Altach W (Austria)
-!! Altach: Ambiguous team name "Altach".
-
-TABLE FOR Ried
+TABLE FOR SCR Altach
 LEAGUE TABLE Bundesliga 2026 | 12 teams | 61 games played
 League averages per game: home 1.87, away 1.33, total 3.20
 #   team                   Pts | home P GF-GA  | away P GF-GA  | all P GF-GA
@@ -58,7 +70,9 @@ League averages per game: home 1.87, away 1.33, total 3.20
 11  Austria Vienna           7 |  4   2-6       |  6   8-14      | 10  10-20
 12  Wolfsberger AC           5 |  5   5-9       |  5   2-10      | 10   7-19
 
-(16 API-Football requests used)
+(Ried: same table as SCR Altach, shown above)
+
+(26 API-Football requests used)
 
 ----------------------------------------------------------------------
 MATCHBOOK: skipped (switched off for this run)
