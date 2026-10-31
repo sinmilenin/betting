@@ -1,32 +1,12 @@
-# 2026-10-31 13:50 scan (13:43) + top-20: new fixtures
-Hoffenheim II v Viktoria Koln | n=20 | xg=10
-Jahn Regensburg v Hansa Rostock | n=20 | xg=10
-Swansea v Blackburn | n=20 | xg=10
-Wycombe v Burton Albion | n=20 | xg=10
-Accrington v Northampton | n=20 | xg=10
-Burnley v Portsmouth | n=20 | xg=10
-KV Mechelen v Genk | n=20 | xg=10
-Leicester v Stevenage | n=20 | xg=10
-Peterborough v Luton | n=20 | xg=10
-Wigan v Bromley | n=20 | xg=10
-Oldham v Crawley Town | n=20 | xg=10
-Shrewsbury v Gillingham | n=20 | xg=10
-Swindon v Rotherham | n=20 | xg=10
-Boreham Wood v Hartlepool | n=20 | xg=10
+# 2026-10-31 13:55 scan (13:43) retry after rate limit, part 1
 West Ham v West Brom | n=20 | xg=10
-Salford City v Exeter | n=20 | xg=10
-Kilmarnock v St Johnstone | n=20 | xg=10
 Southampton v QPR | n=20 | xg=10
 Middlesbrough v Charlton | n=20 | xg=10
-Mansfield v Notts County | n=20 | xg=10
-Fredrikstad v Rosenborg | n=20 | xg=10
-Fleetwood Town v Bristol Rovers | n=20 | xg=10
-Tranmere v Cheltenham | n=20 | xg=10
 Bolton v Bristol City | n=20 | xg=10
 Millwall v Derby | n=20 | xg=10
-Stockport v AFC Wimbledon | n=20 | xg=10
-Barnsley v Oxford United | n=20 | xg=10
 Wolves v Cardiff | n=20 | xg=10
-Feyenoord v Fortuna Sittard | n=20 | xg=10
-Moreirense v Estrela | n=20 | xg=10
-PSV v Willem II | n=20 | xg=10
+Fredrikstad v Rosenborg | n=20 | xg=10
+Kilmarnock v St Johnstone | n=20 | xg=10
+Salford City v Exeter | n=20 | xg=10
+Mansfield v Notts County | n=20 | xg=10
+Barnsley v Oxford United | n=20 | xg=10
