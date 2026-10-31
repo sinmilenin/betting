@@ -1,8 +1,4 @@
-# Scan 31.10 12:12 (Ljubljana) - first analyses
-Lokomotiv Plovdiv v Ludogorets | n=20 | xg=10
-Real Sociedad B v Girona | n=20 | xg=10
-Wieczysta Krakow v Jagiellonia | n=20 | xg=10
-Modena v Mantova | n=20 | xg=10
-Cremonese v Benevento | n=20 | xg=10
-Sudtirol v Cesena | n=20 | xg=10
-Slovacko v Teplice | n=20 | xg=10
+# Scan 31.10 12:12 (Ljubljana) - retry of failed team names
+id:17115 v Jagiellonia | n=20 | xg=10
+Real Sociedad II v Girona | n=20 | xg=10
+id:3719 v Teplice | n=20 | xg=10
