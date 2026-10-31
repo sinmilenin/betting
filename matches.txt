@@ -1,3 +1,4 @@
-# 2026-10-31 16:45 scan retry 3 (ids)
-id:4990 v id:1394 | n=20 | xg=10
-id:461 v id:479 | n=20 | xg=10
+# 2026-10-31 17:30 scan
+Guingamp v Saint-Etienne | n=20 | xg=10
+Sporting Kansas City v FC Dallas | n=20 | xg=10
+GKS Katowice v Widzew Lodz | n=20 | xg=10
