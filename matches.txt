@@ -1,2 +1,18 @@
-# 2026-10-31 16:15 scan retry (Celta Vigo B not found)
-Celta de Vigo II v Cordoba | n=20 | xg=10
+# 2026-10-31 16:45 scan
+Manisa FK v Batman Petrolspor | n=20 | xg=10
+First Vienna v Blau-Weiss Linz | n=20 | xg=10
+Hegelmann v Kauno Zalgiris | n=20 | xg=10
+Montpellier W v Lyon W | n=20 | xg=10
+Rudes v Dinamo Zagreb | n=20 | xg=10
+Charlotte v Orlando City | n=20 | xg=10
+Rangers v Aberdeen | n=20 | xg=10
+Real Betis v Malaga | n=20 | xg=10
+Heerenveen v NEC Nijmegen | n=20 | xg=10
+San Miguel v Deportivo Madryn | n=20 | xg=10
+Camioneros v Excursionistas | n=20 | xg=10
+Al-Hilal Saudi FC v Al-Fateh | n=20 | xg=10
+FC Cincinnati v Philadelphia Union | n=20 | xg=10
+San Martin San Juan v Gimnasia Jujuy | n=20 | xg=10
+Columbus Crew v DC United | n=20 | xg=10
+Atlanta v Midland | n=20 | xg=10
+Sampdoria v Virtus Entella | n=20 | xg=10
