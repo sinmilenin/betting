@@ -1,3 +1,2 @@
-# 2026-10-31 16:10 scan
-Standard Liege v Kortrijk | n=20 | xg=10
-Celta Vigo B v Cordoba | n=20 | xg=10
+# 2026-10-31 16:15 scan retry (Celta Vigo B not found)
+Celta de Vigo II v Cordoba | n=20 | xg=10
