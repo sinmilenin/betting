@@ -1,4 +1,5 @@
-RUN 2026-10-31 14:18 local | 2 match(es)
-Aalesund v Sandefjord -> out/Aalesund_v_Sandefjord.txt
-Kifisia v Olympiakos Piraeus -> out/Kifisia_v_Olympiakos_Piraeus.txt
-Requests used: API-Football 52, Matchbook 0
+RUN 2026-10-31 15:02 local | 2 match(es)
+Standard Liege v Kortrijk -> out/Standard_Liege_v_Kortrijk.txt
+Celta Vigo B v Cordoba -> out/Celta_Vigo_B_v_Cordoba.txt
+    !! Celta Vigo B: No team found for "Celta Vigo B".
+Requests used: API-Football 40, Matchbook 0
