@@ -1,6 +1,3 @@
-RUN 2026-10-31 05:12 local | 3 match(es)
-Vissel Kobe v Nagoya Grampus -> out/Vissel_Kobe_v_Nagoya_Grampus.txt
-Melbourne City v Sydney FC -> out/Melbourne_City_v_Sydney_FC.txt
-    !! Sydney FC: Ambiguous team name "Sydney FC".
-Kashiwa Reysol v Urawa Reds -> out/Kashiwa_Reysol_v_Urawa_Reds.txt
-Requests used: API-Football 67, Matchbook 0
+RUN 2026-10-31 05:12 local | 1 match(es)
+Melbourne City v Sydney -> out/Melbourne_City_v_Sydney.txt
+Requests used: API-Football 25, Matchbook 0
