@@ -1,10 +1,4 @@
-RUN 2026-10-31 15:48 local | 6 match(es)
-id:3597 v Batman Petrolspor -> out/id_3597_v_Batman_Petrolspor.txt
-First Vienna v BW Linz -> out/First_Vienna_v_BW_Linz.txt
-    !! BW Linz: Ambiguous team name "BW Linz".
-id:3861 v id:3872 -> out/id_3861_v_id_3872.txt
-Excursionistas v id:3943 -> out/Excursionistas_v_id_3943.txt
-id:2932 v Fateh -> out/id_2932_v_Fateh.txt
-Gimnasia Jujuy v San Martin S -> out/Gimnasia_Jujuy_v_San_Martin_S.txt
-    !! San Martin S: Ambiguous team name "San Martin S".
-Requests used: API-Football 132, Matchbook 0
+RUN 2026-10-31 15:49 local | 2 match(es)
+id:4990 v id:1394 -> out/id_4990_v_id_1394.txt
+id:461 v id:479 -> out/id_461_v_id_479.txt
+Requests used: API-Football 51, Matchbook 0

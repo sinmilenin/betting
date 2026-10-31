@@ -1,7 +1,32 @@
-MATCH Gimnasia Jujuy v San Martin S | fetched 2026-10-31 15:48 local
+MATCH id:461 v id:479 | fetched 2026-10-31 15:49 local
 
-FORM DATA Gimnasia Jujuy v San Martin S | source API-Football | 2026-10-31 15:48 UTC
+FORM DATA id:461 v id:479 | source API-Football | 2026-10-31 15:49 UTC
 H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
+
+=== San Martin S.J. (id 461): last 20 finished games ===
+2026-10-26 A 1-1 v Nueva Chicago | Primera Nacional | Buenos Aires
+2026-10-18 H 1-1 v Temperley | Primera Nacional | San Juan
+2026-10-11 A 1-1 v Deportivo Maipu | Primera Nacional | Maipu
+2026-10-04 H 1-2 v Almagro | Primera Nacional | San Juan
+2026-09-27 A 0-3 v Patronato | Primera Nacional | ?
+2026-09-20 H 2-0 v Colegiales | Primera Nacional | San Juan
+2026-09-16 H 0-0 v Tristan Suarez | Primera Nacional | San Juan
+2026-09-12 A 0-1 v Quilmes | Primera Nacional | Quilmes
+2026-09-06 H 3-2 v Midland | Primera Nacional | San Juan
+2026-08-30 A 1-0 v Atlanta | Primera Nacional | Buenos Aires
+2026-08-26 H 1-0 v Nueva Chicago | Primera Nacional | San Juan
+2026-08-22 H 3-1 v Gimnasia Y Tiro | Primera Nacional | San Juan
+2026-08-16 A 0-0 v Racing Cordoba | Primera Nacional | Cordoba
+2026-08-09 A 1-1 v San Martin Tucuman | Primera Nacional | Tucuman
+2026-08-01 H 1-1 v Atletico DE Rafaela | Primera Nacional | San Juan
+2026-07-26 A 1-2 v Agropecuario | Primera Nacional | Buenos Aires
+2026-07-12 A 2-0 v Club Atlético Güemes | Primera Nacional | Santiago del Estero
+2026-07-05 H 0-1 v Chacarita Juniors | Primera Nacional | San Juan
+2026-06-20 H 2-0 v Agropecuario | Primera Nacional | San Juan
+2026-06-13 A 1-2 v Gimnasia Jujuy | Primera Nacional | Jujuy
+Listed home: 10 games, scored 14 (1.40), conceded 8 (0.80), blanks 2, clean sheets 4
+Listed away: 10 games, scored 8 (0.80), conceded 11 (1.10), blanks 3, clean sheets 3
+All: 20 games, scored 22 (1.10), conceded 19 (0.95), blanks 5, clean sheets 7
 
 === Gimnasia Jujuy (id 479): last 20 finished games ===
 2026-10-25 H 1-2 v Atlanta | Primera Nacional | Jujuy
@@ -28,16 +53,7 @@ Listed home: 11 games, scored 18 (1.64), conceded 13 (1.18), blanks 1, clean she
 Listed away: 9 games, scored 13 (1.44), conceded 13 (1.44), blanks 1, clean sheets 1
 All: 20 games, scored 31 (1.55), conceded 26 (1.30), blanks 2, clean sheets 3
 
-"San Martin S" matches several teams. Use id:<number> instead of the name:
-  id:461    San Martin S.J. (Argentina)
-  id:25592  San Martín San Juan Res. (Argentina)
-(retrying San Martin S using the opponent's country, Argentina)
-"San Martin S" matches several teams. Use id:<number> instead of the name:
-  id:461    San Martin S.J. (Argentina)
-  id:25592  San Martín San Juan Res. (Argentina)
-!! San Martin S: Ambiguous team name "San Martin S".
-
-TABLE FOR Gimnasia Jujuy
+TABLE FOR San Martin S.J.
 LEAGUE TABLE Primera Nacional 2026 | 36 teams | 630 games played
 League averages per game: home 1.19, away 0.77, total 1.96
 #   team                   Pts | home P GF-GA  | away P GF-GA  | all P GF-GA
@@ -78,7 +94,9 @@ League averages per game: home 1.19, away 0.77, total 1.96
 17  Nueva Chicago           37 | 18  17-13      | 17   8-21      | 35  25-34 [Group 2]
 18  Club Atlético Güemes    26 | 17  14-25      | 18  12-35      | 35  26-60 [Group 2]
 
-(15 API-Football requests used)
+(Gimnasia Jujuy: same table as San Martin S.J., shown above)
+
+(25 API-Football requests used)
 
 ----------------------------------------------------------------------
 MATCHBOOK: skipped (switched off for this run)
