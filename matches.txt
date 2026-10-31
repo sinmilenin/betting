@@ -1,2 +1,2 @@
-# 2026-10-31 19:50 scan retry (LA Galaxy id)
-id:1605 v Austin | n=20 | xg=10
+# 2026-10-31 20:58 night scan
+Melbourne Victory v Central Coast Mariners | n=20 | xg=10
