@@ -1,8 +1,11 @@
-MATCH St Louis City v San Diego | fetched 2026-10-31 17:14 local
+MATCH Louis City v San Diego | fetched 2026-10-31 17:16 local
 
-FORM DATA St Louis City v San Diego | source API-Football | 2026-10-31 17:14 UTC
+FORM DATA Louis City v San Diego | source API-Football | 2026-10-31 17:16 UTC
 H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
 
+"Louis City" matches several teams. Use id:<number> instead of the name:
+  id:18740  St. Louis City II (USA)
+  id:20787  St. Louis City (USA)
 === San Diego (id 25484): last 20 finished games ===
 2026-10-29 A 1-4 v Vancouver Whitecaps | Major League Soccer | Vancouver | xG 2.54-2.88
 2026-10-25 H 2-2 v Seattle Sounders | Major League Soccer | San Diego | xG 2.41-1.41
@@ -28,7 +31,11 @@ Listed home: 9 games, scored 18 (2.00), conceded 16 (1.78), blanks 1, clean shee
 Listed away: 11 games, scored 13 (1.18), conceded 24 (2.18), blanks 2, clean sheets 1
 All: 20 games, scored 31 (1.55), conceded 40 (2.00), blanks 3, clean sheets 4
 
-!! St Louis City: No team found for "St Louis City".
+(retrying Louis City using the opponent's country, USA)
+"Louis City" matches several teams. Use id:<number> instead of the name:
+  id:18740  St. Louis City II (USA)
+  id:20787  St. Louis City (USA)
+!! Louis City: Ambiguous team name "Louis City".
 
 TABLE FOR San Diego
 LEAGUE TABLE Major League Soccer 2026 | 30 teams | 480 games played
@@ -65,7 +72,7 @@ League averages per game: home 1.84, away 1.41, total 3.25
 14  Atlanta United FC       30 | 16  23-32      | 16  17-24      | 32  40-56 [Eastern Conference]
 15  CF Montreal             25 | 16  19-23      | 16  17-43      | 32  36-66 [Eastern Conference]
 
-(13 API-Football requests used)
+(14 API-Football requests used)
 
 ----------------------------------------------------------------------
 MATCHBOOK: skipped (switched off for this run)

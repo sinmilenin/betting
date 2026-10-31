@@ -1,11 +1,33 @@
-MATCH New York City v CF Montreal | fetched 2026-10-31 17:14 local
+MATCH id:1604 v CF Montreal | fetched 2026-10-31 17:16 local
 
-FORM DATA New York City v CF Montreal | source API-Football | 2026-10-31 17:14 UTC
+FORM DATA id:1604 v CF Montreal | source API-Football | 2026-10-31 17:16 UTC
 H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
 
-"New York City" matches several teams. Use id:<number> instead of the name:
-  id:1604   New York City FC (USA)
-  id:18815  New York City II (USA)
+=== New York City FC (id 1604): last 20 finished games ===
+2026-10-28 H 2-1 v Atlanta United FC | Major League Soccer | Flushing | xG 1.20-2.22
+2026-10-24 A 2-2 v Orlando City SC | Major League Soccer | Orlando | xG 1.71-0.68
+2026-10-17 H 1-1 v Los Angeles FC | Major League Soccer | New York | xG 0.70-0.52
+2026-10-14 A 0-2 v Inter Miami | Major League Soccer | Miami | xG 1.47-2.23
+2026-10-10 A 1-2 v Chicago Fire | Major League Soccer | Chicago | xG 1.50-1.09
+2026-09-26 A 2-2 v Atlanta United FC | Major League Soccer | Atlanta | xG 0.80-0.95
+2026-09-18 H 0-1 v New York Red Bulls | Major League Soccer | Bronx | xG 2.30-1.40
+2026-09-13 A 2-0 v Real Salt Lake | Major League Soccer | Sandy | xG 0.51-1.09
+2026-09-10 H 1-2 v New England Revolution | Major League Soccer | New York | xG 1.13-2.38
+2026-09-04 H 0-0 v Nashville SC | Major League Soccer | Bronx | xG 0.99-1.61
+2026-08-29 A 1-1 v Toronto FC | Major League Soccer | Toronto
+2026-08-23 A 1-1 v New England Revolution | Major League Soccer | Foxborough
+2026-08-19 A 1-2 v FC Cincinnati | Major League Soccer | Cincinnati
+2026-08-16 H 2-3 v Philadelphia Union | Major League Soccer | Bronx
+2026-08-13 H 1-2 v Necaxa | Leagues Cup | Harrison
+2026-08-09 A 1-2 v Cruz Azul | Leagues Cup | Harrison
+2026-08-06 H 2-0 v Santos Laguna | Leagues Cup | Harrison
+2026-07-31 H 1-1 v Toronto FC | Major League Soccer | Bronx
+2026-07-25 H 3-1 v Chicago Fire | Major League Soccer | Bronx
+2026-07-22 A 2-1 v Columbus Crew | Major League Soccer | Columbus
+Listed home: 10 games, scored 13 (1.30), conceded 12 (1.20), blanks 2, clean sheets 2
+Listed away: 10 games, scored 13 (1.30), conceded 15 (1.50), blanks 1, clean sheets 1
+All: 20 games, scored 26 (1.30), conceded 27 (1.35), blanks 3, clean sheets 3
+
 === CF Montreal (id 1614): last 20 finished games ===
 2026-10-28 A 0-4 v Charlotte | Major League Soccer | Charlotte | xG 0.45-2.11
 2026-10-24 H 0-2 v Nashville SC | Major League Soccer | Montreal | xG 0.53-1.82
@@ -31,13 +53,7 @@ Listed home: 11 games, scored 12 (1.09), conceded 18 (1.64), blanks 4, clean she
 Listed away: 9 games, scored 6 (0.67), conceded 20 (2.22), blanks 4, clean sheets 0
 All: 20 games, scored 18 (0.90), conceded 38 (1.90), blanks 8, clean sheets 0
 
-(retrying New York City using the opponent's country, Canada)
-"New York City" matches several teams. Use id:<number> instead of the name:
-  id:1604   New York City FC (USA)
-  id:18815  New York City II (USA)
-!! New York City: Ambiguous team name "New York City".
-
-TABLE FOR CF Montreal
+TABLE FOR New York City FC
 LEAGUE TABLE Major League Soccer 2026 | 30 teams | 480 games played
 League averages per game: home 1.84, away 1.41, total 3.25
 #   team                   Pts | home P GF-GA  | away P GF-GA  | all P GF-GA
@@ -72,7 +88,9 @@ League averages per game: home 1.84, away 1.41, total 3.25
 14  Atlanta United FC       30 | 16  23-32      | 16  17-24      | 32  40-56 [Eastern Conference]
 15  CF Montreal             25 | 16  19-23      | 16  17-43      | 32  36-66 [Eastern Conference]
 
-(15 API-Football requests used)
+(CF Montreal: same table as New York City FC, shown above)
+
+(25 API-Football requests used)
 
 ----------------------------------------------------------------------
 MATCHBOOK: skipped (switched off for this run)

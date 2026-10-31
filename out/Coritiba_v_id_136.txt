@@ -1,6 +1,6 @@
-MATCH Coritiba v Vitoria | fetched 2026-10-31 17:14 local
+MATCH Coritiba v id:136 | fetched 2026-10-31 17:16 local
 
-FORM DATA Coritiba v Vitoria | source API-Football | 2026-10-31 17:14 UTC
+FORM DATA Coritiba v id:136 | source API-Football | 2026-10-31 17:16 UTC
 H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
 
 === Coritiba (id 147): last 20 finished games ===
@@ -28,34 +28,6 @@ Listed home: 11 games, scored 15 (1.36), conceded 19 (1.73), blanks 3, clean she
 Listed away: 9 games, scored 8 (0.89), conceded 20 (2.22), blanks 5, clean sheets 2
 All: 20 games, scored 23 (1.15), conceded 39 (1.95), blanks 8, clean sheets 2
 
-"Vitoria" matches several teams. Use id:<number> instead of the name:
-  id:136    Vitoria (Brazil)
-  id:219    Vitoria Setubal (Portugal)
-  id:224    Vitória SC (Portugal)
-  id:1225   Vitoria Da Conquista (Brazil)
-  id:1804   Ec Vitoria W (Brazil)
-  id:1806   Vitoria Das Tab. W (Brazil)
-  id:3828   Vitória BA W (Brazil)
-  id:3829   Vitória PE W (Brazil)
-  id:4816   Vitória de Sernache (Portugal)
-  id:4865   Vitória Horta (Portugal)
-  id:7818   Acadêmica Vitória (Brazil)
-  id:7837   Vitória ES (Brazil)
-  id:9653   Vitoria (Spain)
-  id:13072  Vitória U20 (Brazil)
-  id:13073  Vitória da Conquista U20 (Brazil)
-  id:15471  Vitória Guimarães U23 (Portugal)
-  id:16736  Vitória U23 (Brazil)
-  id:20259  Aurrerá Vitoria (Spain)
-  id:20717  Porto Vitória (Brazil)
-  id:20769  Porto Vitória U20 (Brazil)
-  id:22170  Vitória do Pico (Portugal)
-  id:22520  Vitoria Guimaraes U19 (Portugal)
-  id:22521  Vitoria Setubal U19 (Portugal)
-  id:25802  Porto Vitoria U17 (Brazil)
-  id:26784  Vitoria Guimaraes W (Portugal)
-(retrying Vitoria using the opponent's country, Brazil)
-NOTE: "Vitoria" matched 2 teams; picked Vitoria (Brazil) because the opponent is from Brazil. Others: Vitoria (Spain)
 === Vitoria (id 136): last 20 finished games ===
 2026-10-24 H 1-1 v Atletico Paranaense | Serie A | Salvador | xG 1.60-0.52
 2026-10-19 A 1-1 v Corinthians | Serie A | Sao Paulo | xG 0.82-1.60
@@ -108,7 +80,7 @@ League averages per game: home 1.53, away 1.13, total 2.66
 
 (Vitoria: same table as Coritiba, shown above)
 
-(26 API-Football requests used)
+(25 API-Football requests used)
 
 ----------------------------------------------------------------------
 MATCHBOOK: skipped (switched off for this run)
