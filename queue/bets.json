@@ -581,5 +581,49 @@
     "lay": 15.5,
     "stake": 3,
     "created": "2026-10-31T16:32:00Z"
+  },
+  {
+    "id": "2026-10-31_st-louis-city-sc-san-diego-fc_1-0",
+    "date": "2026-10-31",
+    "ko": "20:00",
+    "match": "St Louis City SC v San Diego FC",
+    "comp": "United States, US MLS",
+    "cell": "1-0",
+    "lay": 18,
+    "stake": 3,
+    "created": "2026-10-31T18:22:20+01:00"
+  },
+  {
+    "id": "2026-10-31_estac-troyes-le-mans_1-0",
+    "date": "2026-10-31",
+    "ko": "20:45",
+    "match": "ESTAC Troyes v Le Mans",
+    "comp": "France, French Ligue 1",
+    "cell": "1-0",
+    "lay": 9.6,
+    "stake": 3,
+    "created": "2026-10-31T18:22:20+01:00"
+  },
+  {
+    "id": "2026-10-31_waasland-beveren-union-st-gilloise_1-2",
+    "date": "2026-10-31",
+    "ko": "20:45",
+    "match": "Waasland-Beveren v Union St Gilloise",
+    "comp": "Belgium, Belgian Pro League",
+    "cell": "1-2",
+    "lay": 9.6,
+    "stake": 3,
+    "created": "2026-10-31T18:22:20+01:00"
+  },
+  {
+    "id": "2026-10-31_albacete-sabadell_2-2",
+    "date": "2026-10-31",
+    "ko": "21:00",
+    "match": "Albacete v Sabadell",
+    "comp": "Spain, Spanish Segunda Division",
+    "cell": "2-2",
+    "lay": 20,
+    "stake": 3,
+    "created": "2026-10-31T18:22:20+01:00"
   }
 ]
