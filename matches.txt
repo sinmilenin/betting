@@ -1,2 +1,14 @@
-# 2026-10-31 13:55 scan (13:43) retry 3
-id:4686 v AFC Wimbledon | n=20 | xg=10
+# 2026-10-31 14:27 scan
+Norrby v Varnamo | n=20 | xg=10
+Pardubice v Slovan Liberec | n=20 | xg=10
+Hajduk Split v Gorica | n=20 | xg=10
+Digenis Ypsonas v AEK Larnaca | n=20 | xg=10
+Jablonec v Slavia Prague | n=20 | xg=10
+Hunedoara v Arges Pitesti | n=20 | xg=10
+MK Dons v Doncaster | n=20 | xg=10
+Eibar v Almeria | n=20 | xg=10
+Altach v Ried | n=20 | xg=10
+Macva Sabac v Crvena Zvezda | n=20 | xg=10
+Fenerbahce v Goztepe | n=20 | xg=10
+Catanzaro v Padova | n=20 | xg=10
+Falkenbergs v Sandvikens | n=20 | xg=10
