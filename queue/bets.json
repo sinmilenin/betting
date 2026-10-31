@@ -88,17 +88,6 @@
     "created": "2026-10-31T11:20:34+00:00"
   },
   {
-    "id": "2026-10-31_grimsby-york-city_2-2",
-    "date": "2026-10-31",
-    "ko": "13:30",
-    "match": "Grimsby v York City",
-    "comp": "United Kingdom, English Sky Bet League 2",
-    "cell": "2-2",
-    "lay": 14.0,
-    "stake": 3,
-    "created": "2026-10-31T13:06:03+01:00"
-  },
-  {
     "id": "2026-10-31_bregenz-admira-wacker_2-2",
     "date": "2026-10-31",
     "ko": "15:30",
@@ -592,5 +581,16 @@
     "lay": 15,
     "stake": 3,
     "created": "2026-10-31T18:05:00Z"
+  },
+  {
+    "id": "2026-10-31_estac-troyes-le-mans_2-0",
+    "date": "2026-10-31",
+    "ko": "20:45",
+    "match": "ESTAC Troyes v Le Mans",
+    "comp": "France, French Ligue 1",
+    "cell": "2-0",
+    "lay": 13.5,
+    "stake": 3,
+    "created": "2026-10-31T19:50:08+01:00"
   }
 ]
