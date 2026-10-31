@@ -1,2 +1,2 @@
-# Scan 31.10 06:11 run 2 - Sydney FC name fix
-Melbourne City v Sydney | n=20 | xg=10
+# Scan 31.10 06:11 run 3 - Urawa name fix
+Kashiwa Reysol v Urawa | n=20 | xg=10
