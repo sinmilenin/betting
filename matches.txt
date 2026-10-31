@@ -1,2 +1,5 @@
-# 2026-10-31 19:00 scan retry (team name)
-LASK Linz v WSG Wattens | n=20 | xg=10
+# 2026-10-31 19:00 scan (form files missing from history)
+AC Milan v Inter | n=20 | xg=10
+Aston Villa v Fulham | n=20 | xg=10
+Barcelona v Alaves | n=20 | xg=10
+Porto v Estoril | n=20 | xg=10
