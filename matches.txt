@@ -1,2 +1,11 @@
-# Scan 31.10 09:56 run 2 (Ljubljana) - Erzurum/Corum ids
-id:1009 v id:6343 | n=20 | xg=10
+# Scan 31.10 10:41 (Ljubljana) - 13:00/13:30 fixtures
+Norrkoping v Ostersunds FK | n=20 | xg=10
+Wolfsburg v VfL Osnabruck | n=20 | xg=10
+Kaiserslautern v Hertha Berlin | n=20 | xg=10
+Darmstadt v Magdeburg | n=20 | xg=10
+Plymouth v Reading | n=20 | xg=10
+Port Vale v Rochdale | n=20 | xg=10
+Stoke v Preston | n=20 | xg=10
+Norwich v Watford | n=20 | xg=10
+Lincoln v Birmingham | n=20 | xg=10
+Bradford v Huddersfield | n=20 | xg=10
