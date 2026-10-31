@@ -33,39 +33,6 @@
     "created": "2026-10-31T06:49:21+00:00"
   },
   {
-    "id": "2026-10-31_norrkoping-ostersunds-fk_2-2",
-    "date": "2026-10-31",
-    "ko": "13:00",
-    "match": "Norrkoping v Ostersunds FK",
-    "comp": "Sweden, Swedish Superettan",
-    "cell": "2-2",
-    "lay": 16,
-    "stake": 3,
-    "created": "2026-10-31T09:47:54Z"
-  },
-  {
-    "id": "2026-10-31_sv-darmstadt-fc-magdeburg_2-2",
-    "date": "2026-10-31",
-    "ko": "13:00",
-    "match": "SV Darmstadt v FC Magdeburg",
-    "comp": "Germany, German Bundesliga 2",
-    "cell": "2-2",
-    "lay": 14,
-    "stake": 3,
-    "created": "2026-10-31T10:31:16Z"
-  },
-  {
-    "id": "2026-10-31_kaiserslautern-hertha-berlin_2-2",
-    "date": "2026-10-31",
-    "ko": "13:00",
-    "match": "Kaiserslautern v Hertha Berlin",
-    "comp": "Germany, German Bundesliga 2",
-    "cell": "2-2",
-    "lay": 14,
-    "stake": 3,
-    "created": "2026-10-31T10:31:16Z"
-  },
-  {
     "id": "2026-10-31_kocaelispor-rizespor_2-2",
     "date": "2026-10-31",
     "ko": "14:00",
@@ -75,17 +42,6 @@
     "lay": 17,
     "stake": 3,
     "created": "2026-10-31T10:31:16Z"
-  },
-  {
-    "id": "2026-10-31_lokomotiv-plovdiv-ludogorets_1-2",
-    "date": "2026-10-31",
-    "ko": "13:00",
-    "match": "Lokomotiv Plovdiv v Ludogorets",
-    "comp": "Bulgaria, Bulgarian A League",
-    "cell": "1-2",
-    "lay": 11,
-    "stake": 3,
-    "created": "2026-10-31T11:20:34+00:00"
   },
   {
     "id": "2026-10-31_modena-mantova_2-2",
@@ -625,5 +581,16 @@
     "lay": 20,
     "stake": 3,
     "created": "2026-10-31T18:22:20+01:00"
+  },
+  {
+    "id": "2026-10-31_gks-katowice-widzew-lodz_2-2",
+    "date": "2026-10-31",
+    "ko": "20:15",
+    "match": "GKS Katowice v Widzew Lodz",
+    "comp": "Poland, Polish Ekstraklasa",
+    "cell": "2-2",
+    "lay": 15,
+    "stake": 3,
+    "created": "2026-10-31T18:05:00Z"
   }
 ]
