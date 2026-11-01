@@ -1,14 +1,5 @@
-RUN 2026-11-01 12:46 local | 10 match(es)
-Otelul v id:2585 -> out/Otelul_v_id_2585.txt
-    !! Otelul: Ambiguous team name "Otelul".
-Viborg v AC Horsens -> out/Viborg_v_AC_Horsens.txt
-Djurgardens IF v id:2172 -> out/Djurgardens_IF_v_id_2172.txt
-Heart Of Midlothian v Hibernian -> out/Heart_Of_Midlothian_v_Hibernian.txt
-St. Truiden v OH Leuven -> out/St_Truiden_v_OH_Leuven.txt
-    !! St. Truiden: API-Football error: {"search": "The Search field may only contain alpha-numeric characters and spaces."}
-Vasteras SK v id:371 -> out/Vasteras_SK_v_id_371.txt
-Universitatea Craiova v id:2581 -> out/Universitatea_Craiova_v_id_2581.txt
-Arouca v Nacional -> out/Arouca_v_Nacional.txt
-id:372 v id:2166 -> out/id_372_v_id_2166.txt
-id:367 v IFK Goteborg -> out/id_367_v_IFK_Goteborg.txt
-Requests used: API-Football 229, Matchbook 0
+RUN 2026-11-01 12:48 local | 2 match(es)
+id:6886 v id:2585 -> out/id_6886_v_id_2585.txt
+Sint Truiden v OH Leuven -> out/Sint_Truiden_v_OH_Leuven.txt
+    !! Sint Truiden: No team found for "Sint Truiden".
+Requests used: API-Football 40, Matchbook 0

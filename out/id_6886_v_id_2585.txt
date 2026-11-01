@@ -1,11 +1,33 @@
-MATCH Otelul v id:2585 | fetched 2026-11-01 12:46 local
+MATCH id:6886 v id:2585 | fetched 2026-11-01 12:48 local
 
-FORM DATA Otelul v id:2585 | source API-Football | 2026-11-01 12:46 UTC
+FORM DATA id:6886 v id:2585 | source API-Football | 2026-11-01 12:48 UTC
 H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
 
-"Otelul" matches several teams. Use id:<number> instead of the name:
-  id:6886   Oţelul (Romania)
-  id:26676  FC Oţelul II (Romania)
+=== Oţelul (id 6886): last 20 finished games ===
+2026-10-25 A 3-4 v Farul Constanta | Liga I | Ovidiu | xG 1.62-1.81
+2026-10-16 H 1-1 v Csikszereda | Liga I | Galati | xG 4.09-1.78
+2026-10-10 A 0-1 v FCSB | Liga I | Bucharest | xG 0.43-2.08
+2026-10-03 H 1-1 v FC Bacau | Friendlies Clubs | ?
+2026-09-21 H 2-3 v Corvinul Hunedoara | Liga I | Galati | xG 2.02-2.31
+2026-09-14 A 0-3 v Universitatea Cluj | Liga I | Cluj-Napoca | xG 0.26-1.77
+2026-09-06 H 0-1 v Rapid | Liga I | Galati | xG 0.39-2.97
+2026-08-28 A 2-2 v FC Voluntari | Liga I | Voluntari
+2026-08-24 H 1-0 v Arges Pitesti | Liga I | Galati
+2026-08-19 A 1-5 v Concordia | Cupa României | ?
+2026-08-16 H 1-1 v Universitatea Craiova | Liga I | Galati
+2026-08-09 A 0-1 v Petrolul Ploiesti | Liga I | Ploiesti
+2026-07-31 H 1-1 v Dinamo Bucuresti | Liga I | Galati
+2026-07-24 A 2-2 v Uta Arad | Liga I | Arad
+2026-07-18 H 2-1 v CFR 1907 Cluj | Liga I | Galati
+2026-07-11 H 3-1 v FC Bacau | Friendlies Clubs | ?
+2026-07-03 A 0-0 v Farul Constanta | Friendlies Clubs | ?
+2026-05-18 A 5-1 v Petrolul Ploiesti | Liga I | Ploiesti
+2026-05-09 H 3-2 v Farul Constanta | Liga I | Galati
+2026-05-02 H 2-2 v Metaloglobus | Liga I | Galati
+Listed home: 11 games, scored 17 (1.55), conceded 14 (1.27), blanks 1, clean sheets 1
+Listed away: 9 games, scored 13 (1.44), conceded 19 (2.11), blanks 4, clean sheets 1
+All: 20 games, scored 30 (1.50), conceded 33 (1.65), blanks 5, clean sheets 2
+
 === Sepsi OSK Sfantu Gheorghe (id 2585): last 20 finished games ===
 2026-10-29 A 1-1 v Concordia | Cupa României | Chiajna
 2026-10-26 H 0-5 v Universitatea Craiova | Liga I | Sfantu Gheorghe | xG 0.00-4.18
@@ -31,13 +53,7 @@ Listed home: 11 games, scored 11 (1.00), conceded 14 (1.27), blanks 3, clean she
 Listed away: 9 games, scored 4 (0.44), conceded 10 (1.11), blanks 5, clean sheets 3
 All: 20 games, scored 15 (0.75), conceded 24 (1.20), blanks 8, clean sheets 7
 
-(retrying Otelul using the opponent's country, Romania)
-"Otelul" matches several teams. Use id:<number> instead of the name:
-  id:6886   Oţelul (Romania)
-  id:26676  FC Oţelul II (Romania)
-!! Otelul: Ambiguous team name "Otelul".
-
-TABLE FOR Sepsi OSK Sfantu Gheorghe
+TABLE FOR Oţelul
 LEAGUE TABLE Liga I 2026 | 16 teams | 107 games played
 League averages per game: home 1.72, away 1.00, total 2.72
 #   team                   Pts | home P GF-GA  | away P GF-GA  | all P GF-GA
@@ -58,7 +74,9 @@ League averages per game: home 1.72, away 1.00, total 2.72
 15  FC Voluntari             8 |  7   8-10      |  6   5-19      | 13  13-29
 16  Csikszereda              5 |  6   5-10      |  8   4-18      | 14   9-28
 
-(16 API-Football requests used)
+(Sepsi OSK Sfantu Gheorghe: same table as Oţelul, shown above)
+
+(26 API-Football requests used)
 
 ----------------------------------------------------------------------
 MATCHBOOK: skipped (switched off for this run)

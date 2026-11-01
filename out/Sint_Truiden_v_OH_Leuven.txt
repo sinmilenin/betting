@@ -1,6 +1,6 @@
-MATCH St. Truiden v OH Leuven | fetched 2026-11-01 12:46 local
+MATCH Sint Truiden v OH Leuven | fetched 2026-11-01 12:48 local
 
-FORM DATA St. Truiden v OH Leuven | source API-Football | 2026-11-01 12:47 UTC
+FORM DATA Sint Truiden v OH Leuven | source API-Football | 2026-11-01 12:48 UTC
 H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
 
 === OH Leuven (id 260): last 20 finished games ===
@@ -28,7 +28,7 @@ Listed home: 12 games, scored 26 (2.17), conceded 17 (1.42), blanks 2, clean she
 Listed away: 8 games, scored 8 (1.00), conceded 17 (2.12), blanks 3, clean sheets 0
 All: 20 games, scored 34 (1.70), conceded 34 (1.70), blanks 5, clean sheets 5
 
-!! St. Truiden: API-Football error: {"search": "The Search field may only contain alpha-numeric characters and spaces."}
+!! Sint Truiden: No team found for "Sint Truiden".
 
 TABLE FOR OH Leuven
 LEAGUE TABLE Jupiler Pro League 2026 | 18 teams | 85 games played
