@@ -1,3 +1,6 @@
-RUN 2026-11-01 18:45 local | 1 match(es)
-Deportivo Cali v Chico -> out/Deportivo_Cali_v_Chico.txt
-Requests used: API-Football 25, Matchbook 0
+RUN 2026-11-01 19:58 local | 3 match(es)
+Belgrano v Barracas Central -> out/Belgrano_v_Barracas_Central.txt
+    !! Belgrano: Ambiguous team name "Belgrano".
+Gimnasia y Tiro v Quilmes -> out/Gimnasia_y_Tiro_v_Quilmes.txt
+Portland Timbers v Houston Dynamo -> out/Portland_Timbers_v_Houston_Dynamo.txt
+Requests used: API-Football 65, Matchbook 0
