@@ -1,20 +1,33 @@
-MATCH Belgrano v Barracas Central | fetched 2026-11-01 19:58 local
+MATCH id:440 v Barracas Central | fetched 2026-11-01 19:59 local
 
-FORM DATA Belgrano v Barracas Central | source API-Football | 2026-11-01 19:58 UTC
+FORM DATA id:440 v Barracas Central | source API-Football | 2026-11-01 19:59 UTC
 H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
 
-"Belgrano" matches several teams. Use id:<number> instead of the name:
-  id:440    Belgrano Cordoba (Argentina)
-  id:1067   Defensores De Belgrano (Argentina)
-  id:1966   Sportivo Belgrano (Argentina)
-  id:2426   Defensores de Belgrano VR (Argentina)
-  id:3966   Belgrano Paraná (Argentina)
-  id:3967   Belgrano San Nicolás (Argentina)
-  id:11158  Belgrano Santa Rosa (Argentina)
-  id:20817  Belgrano Córdoba Res. (Argentina)
-  id:23096  Belgrano Zarate (Argentina)
-  id:25696  Belgrano U20 (Argentina)
-  id:28424  Belgrano W (Argentina)
+=== Belgrano Cordoba (id 440): last 20 finished games ===
+2026-10-25 A 0-1 v Aldosivi | Liga Profesional Argentina | Mar del Plata | xG 1.27-0.91
+2026-10-18 H 0-3 v River Plate | Liga Profesional Argentina | Cordoba | xG 1.04-1.14
+2026-10-11 A 2-0 v Racing Club | Liga Profesional Argentina | Avellaneda | xG 1.56-1.13
+2026-10-04 A 1-0 v Talleres Cordoba | Liga Profesional Argentina | Cordoba | xG 0.75-0.74
+2026-09-20 H 2-1 v Estudiantes de Rio Cuarto | Liga Profesional Argentina | Cordoba | xG 1.01-1.17
+2026-09-13 A 1-1 v Sarmiento Junin | Liga Profesional Argentina | Junin | xG 2.18-1.53
+2026-09-04 H 1-1 v Huracan | Liga Profesional Argentina | Cordoba | xG 3.28-0.96
+2026-08-30 A 0-0 v Atletico Tucuman | Liga Profesional Argentina | Tucuman
+2026-08-23 H 1-2 v Defensa Y Justicia | Liga Profesional Argentina | Cordoba | xG 1.26-1.25
+2026-08-19 A 0-1 v Racing Club | Copa Argentina | San Luis
+2026-08-15 H 2-0 v Independ. Rivadavia | Liga Profesional Argentina | Cordoba
+2026-08-10 A 2-0 v Banfield | Liga Profesional Argentina | Buenos Aires
+2026-08-06 A 0-0 v Tigre | Liga Profesional Argentina | Buenos Aires
+2026-08-01 H 0-1 v Argentinos JRS | Liga Profesional Argentina | Cordoba
+2026-07-23 H 2-1 v Rosario Central | Liga Profesional Argentina | Cordoba
+2026-05-30 A 2-2 v Gimnasia Jujuy | Copa Argentina | Santiago del Estero [PEN, 90-min score shown]
+2026-05-24 A 3-2 v River Plate | Liga Profesional Argentina | Cordoba
+2026-05-17 A 1-1 v Argentinos JRS | Liga Profesional Argentina | Buenos Aires [PEN, 90-min score shown]
+2026-05-12 H 2-0 v Union Santa Fe | Liga Profesional Argentina | Cordoba
+2026-05-09 A 1-0 v Talleres Cordoba | Liga Profesional Argentina | Cordoba
+Listed home: 8 games, scored 10 (1.25), conceded 9 (1.12), blanks 2, clean sheets 2
+Listed away: 12 games, scored 13 (1.08), conceded 8 (0.67), blanks 4, clean sheets 6
+All: 20 games, scored 23 (1.15), conceded 17 (0.85), blanks 6, clean sheets 8
+
 === Barracas Central (id 2432): last 20 finished games ===
 2026-10-26 H 2-1 v Estudiantes de Rio Cuarto | Liga Profesional Argentina | Barracas | xG 1.26-0.72
 2026-10-19 A 1-1 v Sarmiento Junin | Liga Profesional Argentina | Junin | xG 2.70-0.74
@@ -40,22 +53,7 @@ Listed home: 10 games, scored 9 (0.90), conceded 9 (0.90), blanks 3, clean sheet
 Listed away: 10 games, scored 8 (0.80), conceded 14 (1.40), blanks 4, clean sheets 3
 All: 20 games, scored 17 (0.85), conceded 23 (1.15), blanks 7, clean sheets 7
 
-(retrying Belgrano using the opponent's country, Argentina)
-"Belgrano" matches several teams. Use id:<number> instead of the name:
-  id:440    Belgrano Cordoba (Argentina)
-  id:1067   Defensores De Belgrano (Argentina)
-  id:1966   Sportivo Belgrano (Argentina)
-  id:2426   Defensores de Belgrano VR (Argentina)
-  id:3966   Belgrano Paraná (Argentina)
-  id:3967   Belgrano San Nicolás (Argentina)
-  id:11158  Belgrano Santa Rosa (Argentina)
-  id:20817  Belgrano Córdoba Res. (Argentina)
-  id:23096  Belgrano Zarate (Argentina)
-  id:25696  Belgrano U20 (Argentina)
-  id:28424  Belgrano W (Argentina)
-!! Belgrano: Ambiguous team name "Belgrano".
-
-TABLE FOR Barracas Central
+TABLE FOR Belgrano Cordoba
 LEAGUE TABLE Liga Profesional Argentina 2026 | 60 teams | 457 games played
 League averages per game: home 1.20, away 0.97, total 2.17
 #   team                   Pts | home P GF-GA  | away P GF-GA  | all P GF-GA
@@ -120,7 +118,9 @@ League averages per game: home 1.20, away 0.97, total 2.17
 14  Aldosivi                11 |  7   8-9       |  8   8-15      | 15  16-24 [Clausura - Group B]
 15  Estudiantes de Rio Cua   9 |  8   5-8       |  7   5-13      | 15  10-21 [Clausura - Group B]
 
-(15 API-Football requests used)
+(Barracas Central: same table as Belgrano Cordoba, shown above)
+
+(25 API-Football requests used)
 
 ----------------------------------------------------------------------
 MATCHBOOK: skipped (switched off for this run)
