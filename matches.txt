@@ -1,2 +1,11 @@
-# 01.11 15:56 scan, run 2 (team-name fix)
-Panathinaikos v AEK Athens FC | n=20 | xg=10
+# 01.11 16:41 scan, run 1
+Universidad Catolica Quito v Aucas | n=20 | xg=10
+Boca Juniors v River Plate | n=20 | xg=10
+Academico Viseu v Rio Ave | n=20 | xg=10
+Maritimo v Santa Clara | n=20 | xg=10
+Charleroi v RAAL La Louviere | n=20 | xg=10
+Dinamo Bucuresti v UTA Arad | n=20 | xg=10
+Egersund v Strommen | n=20 | xg=10
+Stromsgodset v Moss | n=20 | xg=10
+Odd v Sandnes Ulf | n=20 | xg=10
+Palermo v Vicenza | n=20 | xg=10
