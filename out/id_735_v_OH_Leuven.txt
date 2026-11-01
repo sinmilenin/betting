@@ -1,12 +1,33 @@
-MATCH Truiden v OH Leuven | fetched 2026-11-01 12:51 local
+MATCH id:735 v OH Leuven | fetched 2026-11-01 12:53 local
 
-FORM DATA Truiden v OH Leuven | source API-Football | 2026-11-01 12:51 UTC
+FORM DATA id:735 v OH Leuven | source API-Football | 2026-11-01 12:53 UTC
 H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
 
-"Truiden" matches several teams. Use id:<number> instead of the name:
-  id:735    St. Truiden (Belgium)
-  id:10850  Sint-Truiden U21 (Belgium)
-  id:24388  Sint-Truiden II (Belgium)
+=== St. Truiden (id 735): last 20 finished games ===
+2026-10-25 A 2-3 v Club Brugge KV | Jupiler Pro League | Bruges | xG 1.81-2.67
+2026-10-22 A 1-0 v FC Midtjylland | UEFA Europa Conference League | Herning | xG 1.98-2.90
+2026-10-18 H 4-1 v Lommel United | Cup | ?
+2026-10-15 H 2-0 v FC Iberia 1999 | UEFA Europa Conference League | Sint-Truiden | xG 1.73-0.15
+2026-10-11 A 3-4 v KV Mechelen | Jupiler Pro League | Mechelen | xG 1.63-0.78
+2026-09-20 H 0-2 v KVC Westerlo | Jupiler Pro League | Sint-Truiden | xG 2.00-1.87
+2026-09-12 A 0-2 v SK Beveren | Jupiler Pro League | Beveren | xG 0.72-1.69
+2026-09-05 H 4-0 v RAAL La Louvière | Jupiler Pro League | Sint- Truiden | xG 2.40-0.44
+2026-09-02 H 0-3 v Union St. Gilloise | Jupiler Pro League | Sint- Truiden | xG 0.85-2.49
+2026-08-30 A 4-1 v Antwerp | Jupiler Pro League | Deurne | xG 3.38-0.77
+2026-08-27 A 2-4 v Omonia Nicosia | UEFA Europa League | Nicosia
+2026-08-20 H 1-0 v Omonia Nicosia | UEFA Europa League | Sint- Truiden
+2026-08-14 A 3-3 v Cercle Brugge | Jupiler Pro League | Bruges
+2026-08-08 H 1-1 v Lommel United | Jupiler Pro League | Sint- Truiden
+2026-08-02 A 0-3 v AEK Athens FC | Friendlies Clubs | ?
+2026-08-01 A 0-1 v Helmond Sport | Friendlies Clubs | ?
+2026-07-25 A 0-0 v Al-Jazira | Friendlies Clubs | ?
+2026-07-22 A 1-0 v Liège | Friendlies Clubs | ?
+2026-07-18 A 2-1 v FC Luzern | Friendlies Clubs | ?
+2026-07-15 A 4-0 v Patro Eisden | Friendlies Clubs | ?
+Listed home: 7 games, scored 12 (1.71), conceded 7 (1.00), blanks 2, clean sheets 3
+Listed away: 13 games, scored 22 (1.69), conceded 22 (1.69), blanks 4, clean sheets 4
+All: 20 games, scored 34 (1.70), conceded 29 (1.45), blanks 6, clean sheets 7
+
 === OH Leuven (id 260): last 20 finished games ===
 2026-10-24 H 2-2 v Lommel United | Jupiler Pro League | Heverlee | xG 3.43-0.97
 2026-10-17 H 1-0 v Francs Borains | Cup | ?
@@ -32,14 +53,7 @@ Listed home: 12 games, scored 26 (2.17), conceded 17 (1.42), blanks 2, clean she
 Listed away: 8 games, scored 8 (1.00), conceded 17 (2.12), blanks 3, clean sheets 0
 All: 20 games, scored 34 (1.70), conceded 34 (1.70), blanks 5, clean sheets 5
 
-(retrying Truiden using the opponent's country, Belgium)
-"Truiden" matches several teams. Use id:<number> instead of the name:
-  id:735    St. Truiden (Belgium)
-  id:10850  Sint-Truiden U21 (Belgium)
-  id:24388  Sint-Truiden II (Belgium)
-!! Truiden: Ambiguous team name "Truiden".
-
-TABLE FOR OH Leuven
+TABLE FOR St. Truiden
 LEAGUE TABLE Jupiler Pro League 2026 | 18 teams | 85 games played
 League averages per game: home 1.86, away 1.34, total 3.20
 #   team                   Pts | home P GF-GA  | away P GF-GA  | all P GF-GA
@@ -62,7 +76,9 @@ League averages per game: home 1.86, away 1.34, total 3.20
 17  Kortrijk                 4 |  4   2-8       |  5   1-11      |  9   3-19
 18  Cercle Brugge            3 |  4   4-9       |  5   7-12      |  9  11-21
 
-(15 API-Football requests used)
+(OH Leuven: same table as St. Truiden, shown above)
+
+(25 API-Football requests used)
 
 ----------------------------------------------------------------------
 MATCHBOOK: skipped (switched off for this run)

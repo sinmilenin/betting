@@ -1,4 +1,3 @@
-RUN 2026-11-01 12:51 local | 1 match(es)
-Truiden v OH Leuven -> out/Truiden_v_OH_Leuven.txt
-    !! Truiden: Ambiguous team name "Truiden".
-Requests used: API-Football 15, Matchbook 0
+RUN 2026-11-01 12:53 local | 1 match(es)
+id:735 v OH Leuven -> out/id_735_v_OH_Leuven.txt
+Requests used: API-Football 25, Matchbook 0
