@@ -1,11 +1,5 @@
-RUN 2026-11-01 11:58 local | 5 match(es)
-Mlada Boleslav v Hradec Kralove -> out/Mlada_Boleslav_v_Hradec_Kralove.txt
-    !! Hradec Kralove: Ambiguous team name "Hradec Kralove".
-Varbergs BoIS v Ljungskile -> out/Varbergs_BoIS_v_Ljungskile.txt
-    !! Varbergs BoIS: Ambiguous team name "Varbergs BoIS".
-Young Boys v FC Zurich -> out/Young_Boys_v_FC_Zurich.txt
-Banik Ostrava v Plzen -> out/Banik_Ostrava_v_Plzen.txt
-    !! Banik Ostrava: Ambiguous team name "Banik Ostrava".
-Charlton W v Chelsea W -> out/Charlton_W_v_Chelsea_W.txt
-    !! Charlton W: No team found for "Charlton W".
-Requests used: API-Football 90, Matchbook 0
+RUN 2026-11-01 12:00 local | 3 match(es)
+id:3713 v Plzen -> out/id_3713_v_Plzen.txt
+BSC Young Boys v FC Zurich -> out/BSC_Young_Boys_v_FC_Zurich.txt
+Charlton Athletic W v Chelsea W -> out/Charlton_Athletic_W_v_Chelsea_W.txt
+Requests used: API-Football 78, Matchbook 0
