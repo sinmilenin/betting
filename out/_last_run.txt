@@ -1,4 +1,5 @@
-RUN 2026-11-01 18:01 local | 2 match(es)
-Cobresal v Everton de Vina -> out/Cobresal_v_Everton_de_Vina.txt
-id:739 v Excelsior Virton -> out/id_739_v_Excelsior_Virton.txt
-Requests used: API-Football 50, Matchbook 0
+RUN 2026-11-01 18:43 local | 2 match(es)
+Atlanta United v Toronto FC -> out/Atlanta_United_v_Toronto_FC.txt
+    !! Atlanta United: Ambiguous team name "Atlanta United".
+Deportivo Cali v Boyaca Chico -> out/Deportivo_Cali_v_Boyaca_Chico.txt
+Requests used: API-Football 41, Matchbook 0
