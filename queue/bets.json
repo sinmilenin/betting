@@ -64,5 +64,93 @@
     "lay": 19.5,
     "stake": 3,
     "created": "2026-11-01T10:34:38Z"
+  },
+  {
+    "id": "2026-11-01_arezzo-ascoli_2-2",
+    "date": "2026-11-01",
+    "ko": "15:00",
+    "match": "Arezzo v Ascoli",
+    "comp": "Italy, Italian Serie B",
+    "cell": "2-2",
+    "lay": 16.0,
+    "stake": 3,
+    "created": "2026-11-01T11:17:27Z"
+  },
+  {
+    "id": "2026-11-01_calcio-avellino-ssd-pisa_2-2",
+    "date": "2026-11-01",
+    "ko": "15:00",
+    "match": "Avellino v Pisa",
+    "comp": "Italy, Italian Serie B",
+    "cell": "2-2",
+    "lay": 17.5,
+    "stake": 3,
+    "created": "2026-11-01T11:17:27Z"
+  },
+  {
+    "id": "2026-11-01_fk-imt-novi-beograd-cukaricki_2-2",
+    "date": "2026-11-01",
+    "ko": "14:00",
+    "match": "IMT Novi Beograd v Cukaricki",
+    "comp": "Serbia, Serbian Super League",
+    "cell": "2-2",
+    "lay": 20.0,
+    "stake": 3,
+    "created": "2026-11-01T11:17:27Z"
+  },
+  {
+    "id": "2026-11-01_garudayaksa-fc-pss-sleman_0-1",
+    "date": "2026-11-01",
+    "ko": "13:00",
+    "match": "Garudayaksa FC v PSS Sleman",
+    "comp": "Indonesia, Indonesian Super League",
+    "cell": "0-1",
+    "lay": 16.0,
+    "stake": 3,
+    "created": "2026-11-01T11:17:27Z"
+  },
+  {
+    "id": "2026-11-01_garudayaksa-fc-pss-sleman_1-0",
+    "date": "2026-11-01",
+    "ko": "13:00",
+    "match": "Garudayaksa FC v PSS Sleman",
+    "comp": "Indonesia, Indonesian Super League",
+    "cell": "1-0",
+    "lay": 13.0,
+    "stake": 3,
+    "created": "2026-11-01T11:17:27Z"
+  },
+  {
+    "id": "2026-11-01_greuther-furth-holstein-kiel_0-1",
+    "date": "2026-11-01",
+    "ko": "13:30",
+    "match": "Greuther Furth v Holstein Kiel",
+    "comp": "Germany, German Bundesliga 2",
+    "cell": "0-1",
+    "lay": 15.5,
+    "stake": 3,
+    "created": "2026-11-01T11:17:27Z"
+  },
+  {
+    "id": "2026-11-01_greuther-furth-holstein-kiel_1-0",
+    "date": "2026-11-01",
+    "ko": "13:30",
+    "match": "Greuther Furth v Holstein Kiel",
+    "comp": "Germany, German Bundesliga 2",
+    "cell": "1-0",
+    "lay": 15.5,
+    "stake": 3,
+    "created": "2026-11-01T11:17:27Z"
+  },
+  {
+    "id": "2026-11-01_red-bull-salzburg-sc-austria-lustenau_1-0",
+    "date": "2026-11-01",
+    "ko": "14:30",
+    "match": "Red Bull Salzburg v SC Austria Lustenau",
+    "comp": "Austria, Austrian Bundesliga",
+    "cell": "1-0",
+    "lay": 19.0,
+    "stake": 3,
+    "created": "2026-11-01T11:17:27Z"
   }
 ]
