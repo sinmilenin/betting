@@ -1,3 +1,2 @@
-# 2026-11-01 06:12 scan
-FC Machida v Gamba Osaka | n=20 | xg=10
-Perth Glory v Adelaide United | n=20 | xg=10
+# 2026-11-01 06:14 scan (retry Machida name)
+Machida Zelvia v Gamba Osaka | n=20 | xg=10
