@@ -1,6 +1,4 @@
-RUN 2026-11-01 06:45 local | 3 match(es)
-Trabzonspor v Gaziantep FK -> out/Trabzonspor_v_Gaziantep_FK.txt
-Union Berlin v 1. FC Köln -> out/Union_Berlin_v_1_FC_K_ln.txt
-    !! 1. FC Köln: API-Football error: {"search": "The Search field may only contain alpha-numeric characters and spaces."}
-SC Braga v Famalicao -> out/SC_Braga_v_Famalicao.txt
-Requests used: API-Football 67, Matchbook 0
+RUN 2026-11-01 06:45 local | 2 match(es)
+id:531 v Real Sociedad -> out/id_531_v_Real_Sociedad.txt
+Liverpool v id:42 -> out/Liverpool_v_id_42.txt
+Requests used: API-Football 52, Matchbook 0
