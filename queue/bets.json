@@ -152,5 +152,27 @@
     "lay": 19.0,
     "stake": 3,
     "created": "2026-11-01T11:17:27Z"
+  },
+  {
+    "id": "2026-11-01_banik-ostrava-plzen_0-1",
+    "date": "2026-11-01",
+    "ko": "15:00",
+    "match": "Banik Ostrava v Plzen",
+    "comp": "Czech Republic, Czech 1 Liga",
+    "cell": "0-1",
+    "lay": 11.5,
+    "stake": 3,
+    "created": "2026-11-01T12:03:10Z"
+  },
+  {
+    "id": "2026-11-01_banik-ostrava-plzen_1-0",
+    "date": "2026-11-01",
+    "ko": "15:00",
+    "match": "Banik Ostrava v Plzen",
+    "comp": "Czech Republic, Czech 1 Liga",
+    "cell": "1-0",
+    "lay": 20.0,
+    "stake": 3,
+    "created": "2026-11-01T12:03:10Z"
   }
 ]
