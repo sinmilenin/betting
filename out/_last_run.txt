@@ -1,7 +1,4 @@
-RUN 2026-11-01 15:45 local | 5 match(es)
-Universidad Catolica v Aucas -> out/Universidad_Catolica_v_Aucas.txt
-id:451 v id:435 -> out/id_451_v_id_435.txt
-Charleroi v id:5902 -> out/Charleroi_v_id_5902.txt
-id:330 v Sandnes Ulf -> out/id_330_v_Sandnes_Ulf.txt
-Palermo v id:1584 -> out/Palermo_v_id_1584.txt
-Requests used: API-Football 127, Matchbook 0
+RUN 2026-11-01 16:28 local | 1 match(es)
+Lokomotiva v Osijek -> out/Lokomotiva_v_Osijek.txt
+    !! Osijek: Ambiguous team name "Osijek".
+Requests used: API-Football 15, Matchbook 0
