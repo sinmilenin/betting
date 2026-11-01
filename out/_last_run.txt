@@ -1,4 +1,3 @@
-RUN 2026-11-01 14:59 local | 1 match(es)
-Panathinaikos v AEK Athens -> out/Panathinaikos_v_AEK_Athens.txt
-    !! AEK Athens: Ambiguous team name "AEK Athens".
-Requests used: API-Football 16, Matchbook 0
+RUN 2026-11-01 15:00 local | 1 match(es)
+Panathinaikos v AEK Athens FC -> out/Panathinaikos_v_AEK_Athens_FC.txt
+Requests used: API-Football 25, Matchbook 0
