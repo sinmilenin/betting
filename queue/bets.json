@@ -1,16 +1,5 @@
 [
   {
-    "id": "2026-11-01_rigas-futbola-skola-sc-grobina_1-0",
-    "date": "2026-11-01",
-    "ko": "12:00",
-    "match": "Rigas Futbola Skola v SC Grobina",
-    "comp": "Latvia, Latvian Virsliga",
-    "cell": "1-0",
-    "lay": 14,
-    "stake": 3,
-    "created": "2026-11-01T08:59:53+00:00"
-  },
-  {
     "id": "2026-11-01_hannover-dynamo-dresden_0-1",
     "date": "2026-11-01",
     "ko": "13:30",
@@ -73,28 +62,6 @@
     "comp": "Serbia, Serbian Super League",
     "cell": "2-2",
     "lay": 20.0,
-    "stake": 3,
-    "created": "2026-11-01T11:17:27Z"
-  },
-  {
-    "id": "2026-11-01_garudayaksa-fc-pss-sleman_0-1",
-    "date": "2026-11-01",
-    "ko": "13:00",
-    "match": "Garudayaksa FC v PSS Sleman",
-    "comp": "Indonesia, Indonesian Super League",
-    "cell": "0-1",
-    "lay": 16.0,
-    "stake": 3,
-    "created": "2026-11-01T11:17:27Z"
-  },
-  {
-    "id": "2026-11-01_garudayaksa-fc-pss-sleman_1-0",
-    "date": "2026-11-01",
-    "ko": "13:00",
-    "match": "Garudayaksa FC v PSS Sleman",
-    "comp": "Indonesia, Indonesian Super League",
-    "cell": "1-0",
-    "lay": 13.0,
     "stake": 3,
     "created": "2026-11-01T11:17:27Z"
   },
@@ -427,5 +394,16 @@
     "lay": 14.5,
     "stake": 3,
     "created": "2026-11-01T16:31:44Z"
+  },
+  {
+    "id": "2026-11-01_eupen-excelsior-virton_1-0",
+    "date": "2026-11-01",
+    "ko": "19:15",
+    "match": "Eupen v Excelsior Virton",
+    "comp": "Belgium, Belgian Challenger Pro League",
+    "cell": "1-0",
+    "lay": 11.5,
+    "stake": 3,
+    "created": "2026-11-01T18:03:30Z"
   }
 ]
