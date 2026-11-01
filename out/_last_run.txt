@@ -1,9 +1,4 @@
-RUN 2026-11-01 13:30 local | 6 match(es)
-Birmingham City W v Tottenham -> out/Birmingham_City_W_v_Tottenham.txt
-Groningen v Sparta Rotterdam -> out/Groningen_v_Sparta_Rotterdam.txt
-Austria Vienna v Rapid Vienna -> out/Austria_Vienna_v_Rapid_Vienna.txt
-Panetolikos v OFI -> out/Panetolikos_v_OFI.txt
-Kasımpaşa v id:549 -> out/Kas_mpa_a_v_id_549.txt
-    !! Kasımpaşa: API-Football error: {"search": "The Search field may only contain alpha-numeric characters and spaces."}
-id:504 v Carrarese -> out/id_504_v_Carrarese.txt
-Requests used: API-Football 144, Matchbook 0
+RUN 2026-11-01 13:31 local | 2 match(es)
+Birmingham City W v Tottenham Hotspur W -> out/Birmingham_City_W_v_Tottenham_Hotspur_W.txt
+Kasim v id:549 -> out/Kasim_v_id_549.txt
+Requests used: API-Football 51, Matchbook 0
