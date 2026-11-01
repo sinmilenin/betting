@@ -1,4 +1,3 @@
-RUN 2026-11-01 08:13 local | 2 match(es)
-PSIM Yogyakarta v Pusamania Borneo -> out/PSIM_Yogyakarta_v_Pusamania_Borneo.txt
-id:4160 v id:4138 -> out/id_4160_v_id_4138.txt
-Requests used: API-Football 50, Matchbook 0
+RUN 2026-11-01 08:58 local | 1 match(es)
+PEC Zwolle v ADO Den Haag -> out/PEC_Zwolle_v_ADO_Den_Haag.txt
+Requests used: API-Football 26, Matchbook 0
