@@ -240,5 +240,126 @@
     "lay": 9.6,
     "stake": 3,
     "created": "2026-11-01T12:52:56Z"
+  },
+  {
+    "id": "2026-11-01_ad-ceuta-fc-sporting-gijon_1-0",
+    "date": "2026-11-01",
+    "ko": "16:15",
+    "match": "AD Ceuta FC v Sporting Gijon",
+    "comp": "Spain, Spanish Segunda Division",
+    "cell": "1-0",
+    "lay": 10.5,
+    "stake": 3,
+    "created": "2026-11-01T13:33:38Z"
+  },
+  {
+    "id": "2026-11-01_austria-wien-rapid-vienna_2-2",
+    "date": "2026-11-01",
+    "ko": "17:00",
+    "match": "Austria Wien v Rapid Vienna",
+    "comp": "Austria, Austrian Bundesliga",
+    "cell": "2-2",
+    "lay": 19.5,
+    "stake": 3,
+    "created": "2026-11-01T13:33:38Z"
+  },
+  {
+    "id": "2026-11-01_fc-groningen-sparta-rotterdam_1-0",
+    "date": "2026-11-01",
+    "ko": "16:45",
+    "match": "FC Groningen v Sparta Rotterdam",
+    "comp": "Netherlands, Dutch Eredivisie",
+    "cell": "1-0",
+    "lay": 15.5,
+    "stake": 3,
+    "created": "2026-11-01T13:33:38Z"
+  },
+  {
+    "id": "2026-11-01_fc-nordsjaelland-midtjylland_1-0",
+    "date": "2026-11-01",
+    "ko": "16:00",
+    "match": "FC Nordsjaelland v Midtjylland",
+    "comp": "Denmark, Danish Superliga",
+    "cell": "1-0",
+    "lay": 16.0,
+    "stake": 3,
+    "created": "2026-11-01T13:33:38Z"
+  },
+  {
+    "id": "2026-11-01_hodd-bryne_0-1",
+    "date": "2026-11-01",
+    "ko": "17:00",
+    "match": "Hodd v Bryne",
+    "comp": "Norway, Norwegian 1st Division",
+    "cell": "0-1",
+    "lay": 12.5,
+    "stake": 3,
+    "created": "2026-11-01T13:33:38Z"
+  },
+  {
+    "id": "2026-11-01_hodd-bryne_1-0",
+    "date": "2026-11-01",
+    "ko": "17:00",
+    "match": "Hodd v Bryne",
+    "comp": "Norway, Norwegian 1st Division",
+    "cell": "1-0",
+    "lay": 19.0,
+    "stake": 3,
+    "created": "2026-11-01T13:33:38Z"
+  },
+  {
+    "id": "2026-11-01_kasimpasa-besiktas_0-1",
+    "date": "2026-11-01",
+    "ko": "17:00",
+    "match": "Kasimpasa v Besiktas",
+    "comp": "Turkey, Turkish Super League",
+    "cell": "0-1",
+    "lay": 11.5,
+    "stake": 3,
+    "created": "2026-11-01T13:33:38Z"
+  },
+  {
+    "id": "2026-11-01_panaitolikos-ofi_2-2",
+    "date": "2026-11-01",
+    "ko": "17:00",
+    "match": "Panaitolikos v OFI",
+    "comp": "Greece, Greek Super League",
+    "cell": "2-2",
+    "lay": 17.0,
+    "stake": 3,
+    "created": "2026-11-01T13:33:38Z"
+  },
+  {
+    "id": "2026-11-01_start-lillestrom_0-1",
+    "date": "2026-11-01",
+    "ko": "17:00",
+    "match": "Start v Lillestrom",
+    "comp": "Norway, Norwegian Eliteserien",
+    "cell": "0-1",
+    "lay": 16.0,
+    "stake": 3,
+    "created": "2026-11-01T13:33:38Z"
+  },
+  {
+    "id": "2026-11-01_verona-carrarese_2-1",
+    "date": "2026-11-01",
+    "ko": "17:15",
+    "match": "Verona v Carrarese",
+    "comp": "Italy, Italian Serie B",
+    "cell": "2-1",
+    "lay": 9.4,
+    "stake": 3,
+    "created": "2026-11-01T13:33:38Z"
+  },
+  {
+    "id": "2026-11-01_verona-carrarese_2-2",
+    "date": "2026-11-01",
+    "ko": "17:15",
+    "match": "Verona v Carrarese",
+    "comp": "Italy, Italian Serie B",
+    "cell": "2-2",
+    "lay": 20.0,
+    "stake": 3,
+    "created": "2026-11-01T13:33:38Z"
   }
 ]
