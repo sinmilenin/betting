@@ -1,3 +1,2 @@
-# 01.11 09:15 scan retry: Borneo name, RFS/Grobina ids
-PSIM Yogyakarta v Pusamania Borneo | n=20 | xg=10
-id:4160 v id:4138 | n=20 | xg=10
+# 01.11 10:00 scan
+PEC Zwolle v ADO Den Haag | n=20 | xg=10
