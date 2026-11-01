@@ -1,0 +1,78 @@
+MATCH id:1014 v id:1012 | fetched 2026-11-01 14:19 local
+
+FORM DATA id:1014 v id:1012 | source API-Football | 2026-11-01 14:19 UTC
+H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
+
+=== Lausanne (id 1014): last 20 finished games ===
+2026-10-25 A 0-1 v FC Sion | Super League | Lausanne | xG 1.21-2.11
+2026-10-18 A 7-0 v Winkeln St. Gallen | Schweizer Cup | ?
+2026-10-11 A 0-1 v FC ST. Gallen | Super League | St. Gallen | xG 0.80-1.57
+2026-09-20 H 0-4 v FC Lugano | Super League | Lausanne | xG 0.50-2.09
+2026-09-13 H 0-1 v Servette FC | Super League | Lausanne | xG 1.42-1.49
+2026-09-05 A 1-3 v FC Vaduz | Super League | Vaduz | xG 0.50-1.65
+2026-09-02 A 0-0 v FC Thun | Super League | Thun | xG 0.86-1.58
+2026-08-29 H 2-3 v FC Zurich | Super League | Lausanne | xG 1.09-1.71
+2026-08-22 A 0-1 v FC Luzern | Super League | Luzern | xG 0.43-1.13
+2026-08-14 A 6-0 v Kosova Neuchatel | Schweizer Cup | ?
+2026-08-08 H 2-2 v BSC Young Boys | Super League | Lausanne
+2026-08-01 A 1-0 v FC Basel 1893 | Super League | Basel
+2026-07-29 A 0-4 v Saint Etienne | Friendlies Clubs | ?
+2026-07-25 H 1-1 v Grasshoppers | Super League | Lausanne
+2026-07-18 H 3-0 v Yverdon Sport | Friendlies Clubs | ?
+2026-07-11 H 1-2 v Neuchatel Xamax FC | Friendlies Clubs | ?
+2026-07-11 H 2-1 v Breitenrain | Friendlies Clubs | ?
+2026-07-08 A 0-2 v Flamengo | Friendlies Clubs | ?
+2026-07-04 H 1-0 v Étoile Carouge | Friendlies Clubs | ?
+2026-06-27 H 3-0 v La Sarraz-Eclépens | Friendlies Clubs | ?
+Listed home: 10 games, scored 15 (1.50), conceded 14 (1.40), blanks 2, clean sheets 3
+Listed away: 10 games, scored 15 (1.50), conceded 12 (1.20), blanks 6, clean sheets 4
+All: 20 games, scored 30 (1.50), conceded 26 (1.30), blanks 8, clean sheets 7
+
+=== FC Thun (id 1012): last 20 finished games ===
+2026-10-25 H 2-3 v FC Lugano | Super League | Lugano | xG 1.87-1.74
+2026-10-22 H 0-1 v HNK Hajduk Split | UEFA Europa Conference League | Thun | xG 1.29-1.30
+2026-10-18 A 1-1 v FC Schaffhausen | Schweizer Cup | ? [PEN, 90-min score shown]
+2026-10-15 A 0-1 v Twente | UEFA Europa Conference League | Enschede | xG 0.20-2.32
+2026-10-10 A 2-4 v FC Zurich | Super League | Zurich | xG 1.44-0.91
+2026-10-03 H 2-0 v SC Kriens | Friendlies Clubs | ?
+2026-09-20 A 2-1 v FC Vaduz | Super League | Vaduz | xG 1.70-2.77
+2026-09-16 H 2-4 v Servette FC | Super League | Thun | xG 2.05-1.52
+2026-09-12 H 0-1 v Grasshoppers | Super League | Thun | xG 1.67-2.26
+2026-09-06 A 2-3 v FC Sion | Super League | Sion | xG 2.33-2.78
+2026-09-02 H 0-0 v Lausanne | Super League | Thun
+2026-08-30 A 4-3 v FC ST. Gallen | Super League | St. Gallen
+2026-08-27 H 2-2 v Lech Poznan | UEFA Europa League | Thun
+2026-08-20 A 0-7 v Lech Poznan | UEFA Europa League | Poznan
+2026-08-16 A 6-0 v Saxon Sports | Schweizer Cup | ?
+2026-08-13 A 2-3 v Vikingur Reykjavik | UEFA Europa League | Reykjavik
+2026-08-09 A 2-4 v FC Basel 1893 | Super League | Basel
+2026-08-06 H 3-0 v Vikingur Reykjavik | UEFA Europa League | Thun
+2026-08-01 H 0-6 v BSC Young Boys | Super League | Thun
+2026-07-28 A 2-2 v Dinamo Zagreb | UEFA Champions League | Zagreb [AET, 90-min score shown]
+Listed home: 9 games, scored 11 (1.22), conceded 17 (1.89), blanks 4, clean sheets 3
+Listed away: 11 games, scored 23 (2.09), conceded 29 (2.64), blanks 2, clean sheets 1
+All: 20 games, scored 34 (1.70), conceded 46 (2.30), blanks 6, clean sheets 4
+
+TABLE FOR Lausanne
+LEAGUE TABLE Super League 2026 | 12 teams | 69 games played
+League averages per game: home 1.90, away 1.74, total 3.64
+#   team                   Pts | home P GF-GA  | away P GF-GA  | all P GF-GA
+1   FC Lugano               31 |  6  18-4       |  5  16-5       | 11  34-9
+2   BSC Young Boys          25 |  6  19-12      |  5  16-6       | 11  35-18
+3   FC Sion                 23 |  6  12-7       |  6  13-11      | 12  25-18
+4   FC ST. Gallen           19 |  6  10-11      |  6   9-11      | 12  19-22
+5   FC Zurich               17 |  6  13-11      |  5   7-12      | 11  20-23
+6   Servette FC             16 |  6   8-6       |  6   9-10      | 12  17-16
+7   FC Basel 1893           14 |  6   7-11      |  5  10-9       | 11  17-20
+8   FC Luzern               13 |  6  12-10      |  6   7-15      | 12  19-25
+9   FC Vaduz                10 |  5  14-8       |  7  10-17      | 12  24-25
+10  FC Thun                 10 |  5   4-14      |  6  15-16      | 11  19-30
+11  Grasshoppers            10 |  6   9-15      |  6   6-13      | 12  15-28
+12  Lausanne                 6 |  5   5-11      |  6   2-6       | 11   7-17
+
+(FC Thun: same table as Lausanne, shown above)
+
+(25 API-Football requests used)
+
+----------------------------------------------------------------------
+MATCHBOOK: skipped (switched off for this run)

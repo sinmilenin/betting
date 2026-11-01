@@ -1,0 +1,56 @@
+MATCH Dender v Jong Genk | fetched 2026-11-01 14:19 local
+
+FORM DATA Dender v Jong Genk | source API-Football | 2026-11-01 14:19 UTC
+H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
+
+=== Dender (id 6215): last 20 finished games ===
+2026-10-16 A 0-2 v Standard Liege | Cup | ?
+2026-10-09 H 3-0 v Club Brugge II | Challenger Pro League | Denderleeuw | xG 1.34-0.76
+2026-09-26 A 6-0 v Hoogstraten | Cup | ?
+2026-09-20 H 1-0 v Patro Eisden | Challenger Pro League | Denderleeuw
+2026-09-11 A 1-0 v KAA Gent II | Challenger Pro League | Gent
+2026-09-04 H 2-0 v Seraing United | Challenger Pro League | Denderleeuw | xG 2.10-0.46
+2026-08-29 A 2-1 v Liège | Challenger Pro League | ?
+2026-08-22 H 2-0 v Beerschot VA | Challenger Pro League | Denderleeuw
+2026-08-14 A 0-1 v Sporting Hasselt | Challenger Pro League | Hasselt
+2026-08-02 A 0-5 v Oudenaarde | Friendlies Clubs | ?
+2026-08-01 A 0-3 v Lokeren-Temse | Friendlies Clubs | ?
+2026-05-23 H 0-0 v Lommel United | Jupiler Pro League | Denderleeuw
+2026-05-17 A 2-3 v Lommel United | Jupiler Pro League | Lommel
+2026-05-09 A 1-2 v Zulte Waregem | Jupiler Pro League | Waregem
+2026-05-03 H 2-1 v RAAL La Louvière | Jupiler Pro League | Denderleeuw
+2026-04-24 A 1-2 v Cercle Brugge | Jupiler Pro League | Brugge
+2026-04-19 H 1-4 v Cercle Brugge | Jupiler Pro League | Denderleeuw
+2026-04-12 H 1-2 v Zulte Waregem | Jupiler Pro League | Denderleeuw
+2026-04-06 A 1-0 v RAAL La Louvière | Jupiler Pro League | La Louviere
+2026-03-22 H 1-3 v Gent | Jupiler Pro League | Denderleeuw
+Listed home: 9 games, scored 13 (1.44), conceded 10 (1.11), blanks 1, clean sheets 5
+Listed away: 11 games, scored 14 (1.27), conceded 19 (1.73), blanks 4, clean sheets 3
+All: 20 games, scored 27 (1.35), conceded 29 (1.45), blanks 5, clean sheets 8
+
+!! Jong Genk: No team found for "Jong Genk".
+
+TABLE FOR Dender
+LEAGUE TABLE Challenger Pro League 2026 | 15 teams | 59 games played
+League averages per game: home 1.85, away 1.32, total 3.17
+#   team                   Pts | home P GF-GA  | away P GF-GA  | all P GF-GA
+1   Beerschot VA            24 |  5  19-4       |  4   4-3       |  9  23-7
+2   Dender                  18 |  4   8-0       |  3   3-2       |  7  11-2
+3   AS Eupen                15 |  3   8-4       |  4   6-3       |  7  14-7
+4   Sporting Hasselt        15 |  3   1-3       |  5  11-10      |  8  12-13
+5   Lokeren-Temse           13 |  4   7-6       |  4   9-8       |  8  16-14
+6   Patro Eisden            12 |  5   8-6       |  4   6-9       |  9  14-15
+7   Francs Borains          12 |  3   6-3       |  4   3-7       |  7   9-10
+8   KAA Gent II             11 |  4   7-5       |  4   4-8       |  8  11-13
+9   Excelsior Virton        10 |  4   9-5       |  3   3-4       |  7  12-9
+10  Club Brugge II           9 |  4   8-9       |  4   6-8       |  8  14-17
+11  KRC Genk II              8 |  4   7-5       |  4   5-10      |  8  12-15
+12  K. Lierse S.K.           8 |  3   5-1       |  4   2-9       |  7   7-10
+13  Seraing United           8 |  5   6-6       |  4   6-10      |  9  12-16
+14  Liège                    5 |  4   8-11      |  5   5-11      |  9  13-22
+15  RSC Anderlecht II        1 |  4   2-10      |  3   5-7       |  7   7-17
+
+(15 API-Football requests used)
+
+----------------------------------------------------------------------
+MATCHBOOK: skipped (switched off for this run)
