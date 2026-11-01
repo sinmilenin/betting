@@ -1,7 +1,32 @@
-MATCH Universidad Catolica Quito v Aucas | fetched 2026-11-01 15:43 local
+MATCH Universidad Catolica v Aucas | fetched 2026-11-01 15:45 local
 
-FORM DATA Universidad Catolica Quito v Aucas | source API-Football | 2026-11-01 15:43 UTC
+FORM DATA Universidad Catolica v Aucas | source API-Football | 2026-11-01 15:45 UTC
 H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
+
+=== Universidad Catolica (id 1157): last 20 finished games ===
+2026-10-30 H 2-2 v LDU de Quito | Copa Ecuador | Quito
+2026-10-23 A 0-0 v Independiente del Valle | Liga Pro | Quito
+2026-10-18 A 1-1 v Barcelona SC | Liga Pro | Guayaquil | xG 0.28-0.55
+2026-10-11 H 0-1 v Macara | Liga Pro | Quito | xG 1.30-0.98
+2026-09-20 A 1-2 v LDU de Quito | Liga Pro | Quito
+2026-09-15 H 2-1 v Orense SC | Liga Pro | Quito | xG 1.13-0.22
+2026-09-10 A 1-0 v Astillero FC (Ecu) | Copa Ecuador | Guayaquil
+2026-09-06 A 1-0 v Delfin SC | Liga Pro | Manta
+2026-09-03 H 1-1 v Aucas | Liga Pro | Quito
+2026-08-29 A 2-2 v Independiente del Valle | Liga Pro | Quito
+2026-08-22 H 5-1 v Manta FC | Liga Pro | Quito
+2026-08-18 A 1-1 v Macara | Liga Pro | Ambato
+2026-08-10 A 1-2 v Libertad | Liga Pro | Loja
+2026-08-05 A 3-2 v Cuniburo | Copa Ecuador | Quito
+2026-08-01 H 5-0 v Tecnico Universitario | Liga Pro | Quito
+2026-07-27 A 0-0 v Guayaquil City FC | Liga Pro | Guayaquil
+2026-07-22 H 2-1 v Barcelona SC | Liga Pro | Quito
+2026-07-18 A 2-0 v Deportivo Cuenca | Liga Pro | Cuenca
+2026-07-15 H 1-0 v LDU de Quito | Liga Pro | Quito
+2026-07-10 A 0-1 v Leones del Norte | Liga Pro | Ibarra
+Listed home: 8 games, scored 18 (2.25), conceded 7 (0.88), blanks 1, clean sheets 2
+Listed away: 12 games, scored 13 (1.08), conceded 11 (0.92), blanks 3, clean sheets 5
+All: 20 games, scored 31 (1.55), conceded 18 (0.90), blanks 4, clean sheets 7
 
 === Aucas (id 1156): last 20 finished games ===
 2026-10-25 H 0-4 v Barcelona SC | Liga Pro | Quito | xG 0.77-1.03
@@ -28,9 +53,7 @@ Listed home: 10 games, scored 9 (0.90), conceded 16 (1.60), blanks 3, clean shee
 Listed away: 10 games, scored 9 (0.90), conceded 7 (0.70), blanks 2, clean sheets 5
 All: 20 games, scored 18 (0.90), conceded 23 (1.15), blanks 5, clean sheets 8
 
-!! Universidad Catolica Quito: No team found for "Universidad Catolica Quito".
-
-TABLE FOR Aucas
+TABLE FOR Universidad Catolica
 LEAGUE TABLE Liga Pro 2026 | 32 teams | 514 games played
 League averages per game: home 1.32, away 0.98, total 2.30
 #   team                   Pts | home P GF-GA  | away P GF-GA  | all P GF-GA
@@ -67,7 +90,9 @@ League averages per game: home 1.32, away 0.98, total 2.30
 15  Tecnico Universitario   36 | 17  22-22      | 17  11-24      | 34  33-46 [Liga Pro: Relegation Group]
 16  Manta FC                27 | 18  10-17      | 16  12-32      | 34  22-49 [Liga Pro: Relegation Group]
 
-(14 API-Football requests used)
+(Aucas: same table as Universidad Catolica, shown above)
+
+(26 API-Football requests used)
 
 ----------------------------------------------------------------------
 MATCHBOOK: skipped (switched off for this run)

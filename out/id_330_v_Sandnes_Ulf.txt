@@ -1,24 +1,33 @@
-MATCH Odd v Sandnes Ulf | fetched 2026-11-01 15:43 local
+MATCH id:330 v Sandnes Ulf | fetched 2026-11-01 15:45 local
 
-FORM DATA Odd v Sandnes Ulf | source API-Football | 2026-11-01 15:44 UTC
+FORM DATA id:330 v Sandnes Ulf | source API-Football | 2026-11-01 15:45 UTC
 H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
 
-"Odd" matches several teams. Use id:<number> instead of the name:
-  id:330    ODD Ballklubb (Norway)
-  id:2150   hodd (Norway)
-  id:2161   Notodden (Norway)
-  id:5015   Muktijoddha SKC (Bangladesh)
-  id:6046   Odder (Denmark)
-  id:6971   Brodd (Norway)
-  id:8826   Hoddesdon Town (England)
-  id:8890   Odd Down (England)
-  id:9975   Odd II (Norway)
-  id:10824  Oued Fodda (Algeria)
-  id:11674  Oddevold (Sweden)
-  id:14112  Lödde (Sweden)
-  id:20813  Odd U19 (Norway)
-  id:21354  Loddefjord (Norway)
-  id:22859  Odd W (Norway)
+=== ODD Ballklubb (id 330): last 20 finished games ===
+2026-10-28 H 3-1 v Sandefjord | NM Cupen | Skien
+2026-10-25 A 0-2 v Stabaek | 1. Division | Bekkestua
+2026-10-18 H 1-2 v Strommen | 1. Division | Skien
+2026-10-14 A 1-0 v Sogndal | 1. Division | Sogndal
+2026-10-11 H 2-1 v Bryne | 1. Division | Skien
+2026-10-03 A 3-2 v hodd | 1. Division | Ulsteinvik
+2026-09-20 H 5-1 v Egersund | 1. Division | Skien
+2026-09-16 A 3-2 v Notodden | NM Cupen | ?
+2026-09-13 A 1-2 v Raufoss | 1. Division | Raufoss
+2026-09-05 H 1-1 v Stromsgodset | 1. Division | Skien
+2026-08-30 A 5-3 v Ranheim | 1. Division | Trondheim
+2026-08-26 H 0-1 v Kongsvinger | 1. Division | Skien
+2026-08-22 A 10-0 v Teie | NM Cupen | ?
+2026-08-15 A 1-5 v Lyn | 1. Division | Oslo
+2026-08-10 A 3-3 v Moss | 1. Division | Moss
+2026-08-02 H 4-1 v Asane | 1. Division | Skien
+2026-07-26 A 0-0 v Strommen | 1. Division | ?
+2026-07-05 H 1-3 v Haugesund | 1. Division | Skien
+2026-06-27 A 2-2 v Stromsgodset | 1. Division | Drammen
+2026-06-21 H 0-0 v hodd | 1. Division | Skien
+Listed home: 9 games, scored 17 (1.89), conceded 11 (1.22), blanks 2, clean sheets 1
+Listed away: 11 games, scored 29 (2.64), conceded 21 (1.91), blanks 2, clean sheets 3
+All: 20 games, scored 46 (2.30), conceded 32 (1.60), blanks 4, clean sheets 4
+
 === Sandnes ULF (id 2146): last 20 finished games ===
 2026-10-25 H 2-1 v Lyn | 1. Division | Sandnes
 2026-10-18 A 0-4 v Kongsvinger | 1. Division | Kongsvinger
@@ -44,26 +53,7 @@ Listed home: 9 games, scored 14 (1.56), conceded 16 (1.78), blanks 1, clean shee
 Listed away: 11 games, scored 18 (1.64), conceded 24 (2.18), blanks 3, clean sheets 1
 All: 20 games, scored 32 (1.60), conceded 40 (2.00), blanks 4, clean sheets 3
 
-(retrying Odd using the opponent's country, Norway)
-"Odd" matches several teams. Use id:<number> instead of the name:
-  id:330    ODD Ballklubb (Norway)
-  id:2150   hodd (Norway)
-  id:2161   Notodden (Norway)
-  id:5015   Muktijoddha SKC (Bangladesh)
-  id:6046   Odder (Denmark)
-  id:6971   Brodd (Norway)
-  id:8826   Hoddesdon Town (England)
-  id:8890   Odd Down (England)
-  id:9975   Odd II (Norway)
-  id:10824  Oued Fodda (Algeria)
-  id:11674  Oddevold (Sweden)
-  id:14112  Lödde (Sweden)
-  id:20813  Odd U19 (Norway)
-  id:21354  Loddefjord (Norway)
-  id:22859  Odd W (Norway)
-!! Odd: Ambiguous team name "Odd".
-
-TABLE FOR Sandnes ULF
+TABLE FOR ODD Ballklubb
 LEAGUE TABLE 1. Division 2026 | 16 teams | 224 games played
 League averages per game: home 2.17, away 1.64, total 3.81
 #   team                   Pts | home P GF-GA  | away P GF-GA  | all P GF-GA
@@ -84,7 +74,9 @@ League averages per game: home 2.17, away 1.64, total 3.81
 15  Asane                   26 | 14  25-27      | 14  15-35      | 28  40-62
 16  Raufoss                 20 | 14  17-25      | 14  14-49      | 28  31-74
 
-(14 API-Football requests used)
+(Sandnes ULF: same table as ODD Ballklubb, shown above)
+
+(26 API-Football requests used)
 
 ----------------------------------------------------------------------
 MATCHBOOK: skipped (switched off for this run)
