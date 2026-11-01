@@ -1,11 +1,6 @@
-# 01.11 16:41 scan, run 1
-Universidad Catolica Quito v Aucas | n=20 | xg=10
-Boca Juniors v River Plate | n=20 | xg=10
-Academico Viseu v Rio Ave | n=20 | xg=10
-Maritimo v Santa Clara | n=20 | xg=10
-Charleroi v RAAL La Louviere | n=20 | xg=10
-Dinamo Bucuresti v UTA Arad | n=20 | xg=10
-Egersund v Strommen | n=20 | xg=10
-Stromsgodset v Moss | n=20 | xg=10
-Odd v Sandnes Ulf | n=20 | xg=10
-Palermo v Vicenza | n=20 | xg=10
+# 01.11 16:41 scan, run 2 (team-name fix)
+Universidad Catolica v Aucas | n=20 | xg=10
+id:451 v id:435 | n=20 | xg=10
+Charleroi v id:5902 | n=20 | xg=10
+id:330 v Sandnes Ulf | n=20 | xg=10
+Palermo v id:1584 | n=20 | xg=10
