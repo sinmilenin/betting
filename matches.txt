@@ -1,2 +1,19 @@
-# 2026-11-01 06:14 scan (retry Machida name)
-Machida Zelvia v Gamba Osaka | n=20 | xg=10
+# 2026-11-01 07:46 scan + top-20 run
+FC Seoul v Incheon United | n=20 | xg=10
+Como v Venezia | n=20 | xg=10
+Trabzonspor v Gaziantep | n=20 | xg=10
+Getafe v Sevilla | n=20 | xg=10
+Frosinone v Torino | n=20 | xg=10
+Strasbourg v Auxerre | n=20 | xg=10
+Lazio v Cagliari | n=20 | xg=10
+Union Berlin v FC Koln | n=20 | xg=10
+Racing Santander v Real Madrid | n=20 | xg=10
+Lyon v Angers | n=20 | xg=10
+Eintracht Frankfurt v Hamburger SV | n=20 | xg=10
+Liverpool v Arsenal | n=20 | xg=10
+Lecce v Genoa | n=20 | xg=10
+Elche v Valencia | n=20 | xg=10
+Juventus v Napoli | n=20 | xg=10
+Marseille v Toulouse | n=20 | xg=10
+Athletic Club v Real Sociedad | n=20 | xg=10
+Braga v Famalicao | n=20 | xg=10
