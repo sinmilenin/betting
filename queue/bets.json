@@ -1,93 +1,5 @@
 [
   {
-    "id": "2026-11-01_ob-silkeborg_0-1",
-    "date": "2026-11-01",
-    "ko": "14:00",
-    "match": "OB v Silkeborg",
-    "comp": "Denmark, Danish Superliga",
-    "cell": "0-1",
-    "lay": 19.5,
-    "stake": 3,
-    "created": "2026-11-01T10:34:38Z"
-  },
-  {
-    "id": "2026-11-01_arezzo-ascoli_2-2",
-    "date": "2026-11-01",
-    "ko": "15:00",
-    "match": "Arezzo v Ascoli",
-    "comp": "Italy, Italian Serie B",
-    "cell": "2-2",
-    "lay": 16.0,
-    "stake": 3,
-    "created": "2026-11-01T11:17:27Z"
-  },
-  {
-    "id": "2026-11-01_calcio-avellino-ssd-pisa_2-2",
-    "date": "2026-11-01",
-    "ko": "15:00",
-    "match": "Avellino v Pisa",
-    "comp": "Italy, Italian Serie B",
-    "cell": "2-2",
-    "lay": 17.5,
-    "stake": 3,
-    "created": "2026-11-01T11:17:27Z"
-  },
-  {
-    "id": "2026-11-01_fk-imt-novi-beograd-cukaricki_2-2",
-    "date": "2026-11-01",
-    "ko": "14:00",
-    "match": "IMT Novi Beograd v Cukaricki",
-    "comp": "Serbia, Serbian Super League",
-    "cell": "2-2",
-    "lay": 20.0,
-    "stake": 3,
-    "created": "2026-11-01T11:17:27Z"
-  },
-  {
-    "id": "2026-11-01_red-bull-salzburg-sc-austria-lustenau_1-0",
-    "date": "2026-11-01",
-    "ko": "14:30",
-    "match": "Red Bull Salzburg v SC Austria Lustenau",
-    "comp": "Austria, Austrian Bundesliga",
-    "cell": "1-0",
-    "lay": 19.0,
-    "stake": 3,
-    "created": "2026-11-01T11:17:27Z"
-  },
-  {
-    "id": "2026-11-01_banik-ostrava-plzen_0-1",
-    "date": "2026-11-01",
-    "ko": "15:00",
-    "match": "Banik Ostrava v Plzen",
-    "comp": "Czech Republic, Czech 1 Liga",
-    "cell": "0-1",
-    "lay": 11.5,
-    "stake": 3,
-    "created": "2026-11-01T12:03:10Z"
-  },
-  {
-    "id": "2026-11-01_banik-ostrava-plzen_1-0",
-    "date": "2026-11-01",
-    "ko": "15:00",
-    "match": "Banik Ostrava v Plzen",
-    "comp": "Czech Republic, Czech 1 Liga",
-    "cell": "1-0",
-    "lay": 20.0,
-    "stake": 3,
-    "created": "2026-11-01T12:03:10Z"
-  },
-  {
-    "id": "2026-11-01_vendsyssel-ff-vejle_0-1",
-    "date": "2026-11-01",
-    "ko": "14:00",
-    "match": "Vendsyssel FF v Vejle",
-    "comp": "Denmark, Danish 1st Division",
-    "cell": "0-1",
-    "lay": 13.5,
-    "stake": 3,
-    "created": "2026-11-01T12:52:56Z"
-  },
-  {
     "id": "2026-11-01_ad-ceuta-fc-sporting-gijon_2-2",
     "date": "2026-11-01",
     "ko": "16:15",
@@ -372,5 +284,16 @@
     "lay": 18,
     "stake": 3,
     "created": "2026-11-01T18:47:00Z"
+  },
+  {
+    "id": "2026-11-02_portland-timbers-houston-dynamo_1-0",
+    "date": "2026-11-02",
+    "ko": "03:45",
+    "match": "Portland Timbers v Houston Dynamo",
+    "comp": "United States, US MLS",
+    "cell": "1-0",
+    "lay": 11.5,
+    "stake": 3,
+    "created": "2026-11-01T20:02:01Z"
   }
 ]
