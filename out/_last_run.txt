@@ -1,5 +1,4 @@
-RUN 2026-11-01 18:00 local | 2 match(es)
-Cobresal v Everton -> out/Cobresal_v_Everton.txt
-Eupen v Excelsior Virton -> out/Eupen_v_Excelsior_Virton.txt
-    !! Eupen: Ambiguous team name "Eupen".
-Requests used: API-Football 42, Matchbook 0
+RUN 2026-11-01 18:01 local | 2 match(es)
+Cobresal v Everton de Vina -> out/Cobresal_v_Everton_de_Vina.txt
+id:739 v Excelsior Virton -> out/id_739_v_Excelsior_Virton.txt
+Requests used: API-Football 50, Matchbook 0
