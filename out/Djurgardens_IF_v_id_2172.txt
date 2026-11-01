@@ -1,6 +1,6 @@
-MATCH Djurgardens IF v Degerfors | fetched 2026-11-01 12:44 local
+MATCH Djurgardens IF v id:2172 | fetched 2026-11-01 12:46 local
 
-FORM DATA Djurgardens IF v Degerfors | source API-Football | 2026-11-01 12:44 UTC
+FORM DATA Djurgardens IF v id:2172 | source API-Football | 2026-11-01 12:47 UTC
 H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
 
 === Djurgardens IF (id 364): last 20 finished games ===
@@ -28,14 +28,30 @@ Listed home: 7 games, scored 19 (2.71), conceded 7 (1.00), blanks 0, clean sheet
 Listed away: 13 games, scored 24 (1.85), conceded 6 (0.46), blanks 2, clean sheets 8
 All: 20 games, scored 43 (2.15), conceded 13 (0.65), blanks 2, clean sheets 12
 
-"Degerfors" matches several teams. Use id:<number> instead of the name:
-  id:2172   Degerfors IF (Sweden)
-  id:17631  Degerfors W (Sweden)
-(retrying Degerfors using the opponent's country, Sweden)
-"Degerfors" matches several teams. Use id:<number> instead of the name:
-  id:2172   Degerfors IF (Sweden)
-  id:17631  Degerfors W (Sweden)
-!! Degerfors: Ambiguous team name "Degerfors".
+=== Degerfors IF (id 2172): last 20 finished games ===
+2026-10-28 H 0-3 v Vasteras SK FK | Allsvenskan | Degfors | xG 1.50-1.58
+2026-10-24 A 0-4 v BK Hacken | Allsvenskan | Gothenburg
+2026-10-19 H 1-2 v Kalmar FF | Allsvenskan | Degfors | xG 0.96-2.37
+2026-10-10 A 1-1 v Mjallby AIF | Allsvenskan | Hallevik | xG 0.75-2.31
+2026-10-03 A 1-1 v IK brage | Friendlies Clubs | ?
+2026-09-20 H 0-1 v Hammarby FF | Allsvenskan | Degfors | xG 1.98-2.38
+2026-09-14 A 0-2 v Sirius | Allsvenskan | Uppsala | xG 1.71-1.86
+2026-09-05 H 2-0 v Halmstad | Allsvenskan | Degerfors | xG 2.97-0.79
+2026-08-29 A 0-2 v IF Elfsborg | Allsvenskan | Boras | xG 0.16-1.40
+2026-08-23 A 0-2 v IF Brommapojkarna | Allsvenskan | Stockholm | xG 1.08-2.05
+2026-08-19 A 5-1 v IFK Östersund | Svenska Cupen | ?
+2026-08-16 H 3-0 v IFK Goteborg | Allsvenskan | Degerfors
+2026-08-09 A 2-1 v Malmo FF | Allsvenskan | Malmö
+2026-08-02 A 0-2 v IFK Goteborg | Allsvenskan | Gothenburg
+2026-07-25 H 0-1 v Djurgardens IF | Allsvenskan | Degerfors
+2026-07-19 A 0-4 v Hammarby FF | Allsvenskan | Stockholm
+2026-07-12 A 0-2 v Vasteras SK FK | Allsvenskan | Vasteras
+2026-07-04 H 0-1 v Malmo FF | Allsvenskan | Degerfors
+2026-06-26 A 3-2 v Lillestrom | Friendlies Clubs | ?
+2026-05-31 H 2-2 v IF Brommapojkarna | Allsvenskan | Degerfors
+Listed home: 8 games, scored 8 (1.00), conceded 10 (1.25), blanks 4, clean sheets 2
+Listed away: 12 games, scored 12 (1.00), conceded 24 (2.00), blanks 7, clean sheets 0
+All: 20 games, scored 20 (1.00), conceded 34 (1.70), blanks 11, clean sheets 2
 
 TABLE FOR Djurgardens IF
 LEAGUE TABLE Allsvenskan 2026 | 16 teams | 208 games played
@@ -58,7 +74,9 @@ League averages per game: home 1.56, away 1.33, total 2.89
 15  Orgryte IS              19 | 13  22-24      | 13  10-34      | 26  32-58
 16  Halmstad                17 | 13   9-22      | 13   9-27      | 26  18-49
 
-(15 API-Football requests used)
+(Degerfors IF: same table as Djurgardens IF, shown above)
+
+(25 API-Football requests used)
 
 ----------------------------------------------------------------------
 MATCHBOOK: skipped (switched off for this run)
