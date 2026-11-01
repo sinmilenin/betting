@@ -1,16 +1,3 @@
-# 01.11 12:11 scan, run 1
-Garudayaksa v PSS Sleman | n=20 | xg=10
-Greuther Furth v Holstein Kiel | n=20 | xg=10
-Cercle Brugge v Antwerp | n=20 | xg=10
-IMT Novi Beograd v Cukaricki | n=20 | xg=10
-Red Bull Salzburg v Austria Lustenau | n=20 | xg=10
-Avellino v Pisa | n=20 | xg=10
-Arezzo v Ascoli | n=20 | xg=10
-Balestier Khalsa v Lion City Sailors | n=20 | xg=10
-London City Lionesses W v Manchester City W | n=20 | xg=10
-Arsenal W v Aston Villa W | n=20 | xg=10
-Brann v Molde | n=20 | xg=10
-Excelsior v Twente | n=20 | xg=10
-Telstar v Utrecht | n=20 | xg=10
-Empoli v Juve Stabia | n=20 | xg=10
-Sheffield Wednesday v Blackpool | n=20 | xg=10
+# 01.11 12:11 scan, run 2
+id:178 v Holstein Kiel | n=20 | xg=10
+Balestier Khalsa v Home United | n=20 | xg=10
