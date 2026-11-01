@@ -1,4 +1,2 @@
-# 01.11 11:26 scan, run 2
-Odense v Silkeborg | n=20 | xg=10
-Istanbul Basaksehir v Samsunspor | n=20 | xg=10
-Malmo FF v Hammarby FF | n=20 | xg=10
+# 01.11 11:26 scan, run 3
+id:564 v Samsunspor | n=20 | xg=10
