@@ -1,4 +1,3 @@
-# 01.11 10:41 scan
-Nomme Kalju v Kuressaare | n=20 | xg=10
-Hannover 96 v Dynamo Dresden | n=20 | xg=10
-St. Pauli v Nurnberg | n=20 | xg=10
+# 01.11 10:41 scan, run 2
+Kalju v Kuressaare | n=20 | xg=10
+St Pauli v id:171 | n=20 | xg=10
