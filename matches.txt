@@ -1,2 +1,4 @@
-# 01.11 19:41 scan, run 3 (team-name fix)
-Deportivo Cali v Chico | n=20 | xg=10
+# 01.11 20:57 night scan, run 1
+Belgrano v Barracas Central | n=20 | xg=10
+Gimnasia y Tiro v Quilmes | n=20 | xg=10
+Portland Timbers v Houston Dynamo | n=20 | xg=10
