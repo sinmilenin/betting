@@ -1,2 +1,9 @@
-# 01.11 13:42 scan + top-20, run 5 (team-name fix)
-id:735 v OH Leuven | n=20 | xg=10
+# 01.11 14:26 scan, run 1 (new fixtures)
+Birmingham City W v Tottenham W | n=20 | xg=10
+FC Groningen v Sparta Rotterdam | n=20 | xg=10
+Austria Wien v Rapid Vienna | n=20 | xg=10
+Panaitolikos v OFI | n=20 | xg=10
+Hodd v Bryne | n=20 | xg=10
+Start v Lillestrom | n=20 | xg=10
+Kasimpasa v Besiktas | n=20 | xg=10
+Verona v Carrarese | n=20 | xg=10
