@@ -1,6 +1,6 @@
-MATCH Dender v Jong Genk | fetched 2026-11-01 14:19 local
+MATCH Dender v KRC Genk II | fetched 2026-11-01 14:20 local
 
-FORM DATA Dender v Jong Genk | source API-Football | 2026-11-01 14:19 UTC
+FORM DATA Dender v KRC Genk II | source API-Football | 2026-11-01 14:20 UTC
 H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
 
 === Dender (id 6215): last 20 finished games ===
@@ -28,7 +28,30 @@ Listed home: 9 games, scored 13 (1.44), conceded 10 (1.11), blanks 1, clean shee
 Listed away: 11 games, scored 14 (1.27), conceded 19 (1.73), blanks 4, clean sheets 3
 All: 20 games, scored 27 (1.35), conceded 29 (1.45), blanks 5, clean sheets 8
 
-!! Jong Genk: No team found for "Jong Genk".
+=== KRC Genk II (id 19045): last 20 finished games ===
+2026-10-24 H 0-0 v Club Brugge II | Challenger Pro League | Genk | xG 1.48-0.90
+2026-10-11 A 0-1 v Patro Eisden | Challenger Pro League | Maasmechelen | xG 1.29-2.05
+2026-09-19 H 2-2 v Seraing United | Challenger Pro League | Genk
+2026-09-12 A 0-3 v Excelsior Virton | Challenger Pro League | Virton
+2026-09-05 H 3-0 v Sporting Hasselt | Challenger Pro League | Genk
+2026-08-28 A 4-2 v Lokeren-Temse | Challenger Pro League | Lokeren
+2026-08-25 H 6-0 v MVV | Friendlies Clubs | ?
+2026-08-23 H 2-3 v Liège | Challenger Pro League | Genk
+2026-08-19 A 2-2 v Oud-Heverlee Leuven II | Friendlies Clubs | ?
+2026-08-15 A 1-4 v AS Eupen | Challenger Pro League | Eupen
+2026-08-08 A 2-1 v Zelzate | Friendlies Clubs | ?
+2026-08-05 A 0-0 v Royal Antwerp II | Friendlies Clubs | ?
+2026-07-25 H 4-2 v FC Eindhoven | Friendlies Clubs | ?
+2026-07-22 A 3-2 v Eendracht Termien | Friendlies Clubs | ?
+2026-07-18 A 4-2 v Jong PSV U21 | Friendlies Clubs | ?
+2026-07-15 H 6-2 v RWDM | Friendlies Clubs | ?
+2026-07-11 A 7-0 v Kabouters Opglabbeek | Friendlies Clubs | ?
+2026-04-17 H 1-1 v KAA Gent II | Challenger Pro League | Genk
+2026-04-11 A 2-2 v Francs Borains | Challenger Pro League | Boussu
+2026-04-03 H 2-2 v Lokeren-Temse | Challenger Pro League | Genk
+Listed home: 9 games, scored 26 (2.89), conceded 12 (1.33), blanks 1, clean sheets 3
+Listed away: 11 games, scored 25 (2.27), conceded 19 (1.73), blanks 3, clean sheets 2
+All: 20 games, scored 51 (2.55), conceded 31 (1.55), blanks 4, clean sheets 5
 
 TABLE FOR Dender
 LEAGUE TABLE Challenger Pro League 2026 | 15 teams | 59 games played
@@ -50,7 +73,9 @@ League averages per game: home 1.85, away 1.32, total 3.17
 14  Liège                    5 |  4   8-11      |  5   5-11      |  9  13-22
 15  RSC Anderlecht II        1 |  4   2-10      |  3   5-7       |  7   7-17
 
-(15 API-Football requests used)
+(KRC Genk II: same table as Dender, shown above)
+
+(26 API-Football requests used)
 
 ----------------------------------------------------------------------
 MATCHBOOK: skipped (switched off for this run)
