@@ -416,5 +416,16 @@
     "lay": 8.2,
     "stake": 3,
     "created": "2026-11-01T15:51:08Z"
+  },
+  {
+    "id": "2026-11-01_lokomotiva-osijek_0-1",
+    "date": "2026-11-01",
+    "ko": "18:00",
+    "match": "Lokomotiva v Osijek",
+    "comp": "Croatia, Croatian HNL",
+    "cell": "0-1",
+    "lay": 14.5,
+    "stake": 3,
+    "created": "2026-11-01T16:31:44Z"
   }
 ]
