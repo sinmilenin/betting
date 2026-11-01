@@ -1,19 +1,4 @@
-RUN 2026-11-01 11:13 local | 15 match(es)
-Garudayaksa v PSS Sleman -> out/Garudayaksa_v_PSS_Sleman.txt
-Greuther Furth v Holstein Kiel -> out/Greuther_Furth_v_Holstein_Kiel.txt
-    !! Greuther Furth: Ambiguous team name "Greuther Furth".
-Cercle Brugge v Antwerp -> out/Cercle_Brugge_v_Antwerp.txt
-IMT Novi Beograd v Cukaricki -> out/IMT_Novi_Beograd_v_Cukaricki.txt
-Red Bull Salzburg v Austria Lustenau -> out/Red_Bull_Salzburg_v_Austria_Lustenau.txt
-Avellino v Pisa -> out/Avellino_v_Pisa.txt
-Arezzo v Ascoli -> out/Arezzo_v_Ascoli.txt
-Balestier Khalsa v Lion City Sailors -> out/Balestier_Khalsa_v_Lion_City_Sailors.txt
-    !! Lion City Sailors: No team found for "Lion City Sailors".
-London City Lionesses W v Manchester City W -> out/London_City_Lionesses_W_v_Manchester_Cit.txt
-Arsenal W v Aston Villa W -> out/Arsenal_W_v_Aston_Villa_W.txt
-Brann v Molde -> out/Brann_v_Molde.txt
-Excelsior v Twente -> out/Excelsior_v_Twente.txt
-Telstar v Utrecht -> out/Telstar_v_Utrecht.txt
-Empoli v Juve Stabia -> out/Empoli_v_Juve_Stabia.txt
-Sheffield Wednesday v Blackpool -> out/Sheffield_Wednesday_v_Blackpool.txt
-Requests used: API-Football 359, Matchbook 0
+RUN 2026-11-01 11:15 local | 2 match(es)
+id:178 v Holstein Kiel -> out/id_178_v_Holstein_Kiel.txt
+Balestier Khalsa v Home United -> out/Balestier_Khalsa_v_Home_United.txt
+Requests used: API-Football 52, Matchbook 0
