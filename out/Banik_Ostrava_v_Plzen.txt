@@ -1,0 +1,68 @@
+MATCH Banik Ostrava v Plzen | fetched 2026-11-01 11:58 local
+
+FORM DATA Banik Ostrava v Plzen | source API-Football | 2026-11-01 11:58 UTC
+H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
+
+"Banik Ostrava" matches several teams. Use id:<number> instead of the name:
+  id:3713   Baník Ostrava (Czech-Republic)
+  id:8621   Baník Ostrava II (Czech-Republic)
+  id:14830  Baník Ostrava U19 (Czech-Republic)
+  id:19197  Baník Ostrava W (Czech-Republic)
+=== Plzen (id 567): last 20 finished games ===
+2026-10-28 A 6-1 v Vysočina Jihlava | Cup | Jihlava
+2026-10-25 H 1-2 v Pardubice | Czech Liga | Pilsner | xG 2.70-1.05
+2026-10-22 H 1-2 v Levski Sofia | UEFA Europa League | Pilsner | xG 1.09-1.06
+2026-10-18 A 3-2 v FK Jablonec | Czech Liga | Jablonec | xG 1.11-3.16
+2026-10-15 A 1-2 v Ferencvarosi TC | UEFA Europa League | Budapest | xG 1.99-2.38
+2026-10-10 H 3-0 v Mlada Boleslav | Czech Liga | Plzen | xG 2.75-1.57
+2026-09-20 A 1-2 v Slavia Praha | Czech Liga | Prague | xG 0.82-1.88
+2026-09-17 H 0-3 v Union St. Gilloise | UEFA Europa League | Pilsner
+2026-09-13 H 2-3 v Sigma Olomouc | Czech Liga | Plzen | xG 2.25-0.60
+2026-09-09 A 0-0 v Hradec Králové | Czech Liga | Hradec Kralove | xG 0.21-0.92
+2026-09-05 A 3-0 v Artis | Czech Liga | Brno
+2026-08-30 H 1-1 v Slovácko | Czech Liga | Plzen
+2026-08-27 H 4-1 v FK Crvena Zvezda | UEFA Europa League | Plzen [AET, 90-min score shown]
+2026-08-20 A 0-3 v FK Crvena Zvezda | UEFA Europa League | Belgrade
+2026-08-15 H 3-2 v Zlin | Czech Liga | Plzen
+2026-08-08 A 5-5 v Teplice | Czech Liga | Teplice
+2026-08-01 H 1-1 v Zbrojovka Brno | Czech Liga | Plzen
+2026-07-25 H 1-3 v Slovan Liberec | Czech Liga | Plzen
+2026-07-14 H 2-0 v Polessya | Friendlies Clubs | ?
+2026-07-10 H 3-5 v BSC Young Boys | Friendlies Clubs | ?
+Listed home: 12 games, scored 22 (1.83), conceded 23 (1.92), blanks 1, clean sheets 2
+Listed away: 8 games, scored 19 (2.38), conceded 15 (1.88), blanks 2, clean sheets 2
+All: 20 games, scored 41 (2.05), conceded 38 (1.90), blanks 3, clean sheets 4
+
+(retrying Banik Ostrava using the opponent's country, Czech-Republic)
+"Banik Ostrava" matches several teams. Use id:<number> instead of the name:
+  id:3713   Baník Ostrava (Czech-Republic)
+  id:8621   Baník Ostrava II (Czech-Republic)
+  id:14830  Baník Ostrava U19 (Czech-Republic)
+  id:19197  Baník Ostrava W (Czech-Republic)
+!! Banik Ostrava: Ambiguous team name "Banik Ostrava".
+
+TABLE FOR Plzen
+LEAGUE TABLE Czech Liga 2026 | 16 teams | 99 games played
+League averages per game: home 1.45, away 1.29, total 2.75
+#   team                   Pts | home P GF-GA  | away P GF-GA  | all P GF-GA
+1   Slavia Praha            31 |  7  16-6       |  6  16-1       | 13  32-7
+2   Sigma Olomouc           24 |  6  12-6       |  7  10-9       | 13  22-15
+3   Slovan Liberec          23 |  5   6-4       |  7   9-4       | 12  15-8
+4   Sparta Praha            22 |  6  16-6       |  6   9-7       | 12  25-13
+5   Mlada Boleslav          21 |  5  11-1       |  7   8-13      | 12  19-14
+6   Teplice                 21 |  7  11-11      |  6  10-7       | 13  21-18
+7   FK Jablonec             20 |  7  10-12      |  6   6-6       | 13  16-18
+8   Zbrojovka Brno          20 |  7  11-8       |  6   5-11      | 13  16-19
+9   Plzen                   16 |  7  12-12      |  5  12-9       | 12  24-21
+10  Bohemians 1905          16 |  5   5-1       |  6   8-12      | 11  13-13
+11  Hradec Králové          15 |  7   9-11      |  5   2-4       | 12  11-15
+12  Pardubice               14 |  6   8-8       |  7   7-11      | 13  15-19
+13  Baník Ostrava           11 |  5   3-6       |  6   4-12      | 11   7-18
+14  Artis                   10 |  6   5-15      |  6   8-7       | 12  13-22
+15  Slovácko                 7 |  6   6-10      |  7   6-16      | 13  12-26
+16  Zlin                     3 |  7   3-11      |  6   8-15      | 13  11-26
+
+(14 API-Football requests used)
+
+----------------------------------------------------------------------
+MATCHBOOK: skipped (switched off for this run)
