@@ -1,3 +1,6 @@
-# 01.11 10:41 scan, run 3
-id:662 v Kuressaare | n=20 | xg=10
-id:186 v id:171 | n=20 | xg=10
+# 01.11 11:26 scan
+OB v Silkeborg | n=20 | xg=10
+Basaksehir v Samsunspor | n=20 | xg=10
+AC Oulu v KuPS | n=20 | xg=10
+Falkirk v Celtic | n=20 | xg=10
+Malmo FF v Hammarby | n=20 | xg=10
