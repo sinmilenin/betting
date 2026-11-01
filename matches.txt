@@ -1,3 +1,2 @@
-# 2026-11-01 07:53 top-20 retry (ids)
-id:531 v Real Sociedad | n=20 | xg=10
-Liverpool v id:42 | n=20 | xg=10
+# 2026-11-01 07:56 top-20 retry (Koln id)
+Union Berlin v id:192 | n=20 | xg=10
