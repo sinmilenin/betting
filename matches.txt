@@ -1,6 +1,4 @@
-# 01.11 12:57 scan, run 1
-Mlada Boleslav v Hradec Kralove | n=20 | xg=10
-Varbergs BoIS v Ljungskile | n=20 | xg=10
-Young Boys v FC Zurich | n=20 | xg=10
-Banik Ostrava v Plzen | n=20 | xg=10
-Charlton W v Chelsea W | n=20 | xg=10
+# 01.11 12:57 scan, run 2
+id:3713 v Plzen | n=20 | xg=10
+BSC Young Boys v FC Zurich | n=20 | xg=10
+Charlton Athletic W v Chelsea W | n=20 | xg=10
