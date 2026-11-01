@@ -1,2 +1,4 @@
-# 01.11 10:00 scan
-PEC Zwolle v ADO Den Haag | n=20 | xg=10
+# 01.11 10:41 scan
+Nomme Kalju v Kuressaare | n=20 | xg=10
+Hannover 96 v Dynamo Dresden | n=20 | xg=10
+St. Pauli v Nurnberg | n=20 | xg=10
