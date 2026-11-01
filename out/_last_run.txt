@@ -1,5 +1,32 @@
-RUN 2026-11-01 12:00 local | 3 match(es)
-id:3713 v Plzen -> out/id_3713_v_Plzen.txt
-BSC Young Boys v FC Zurich -> out/BSC_Young_Boys_v_FC_Zurich.txt
-Charlton Athletic W v Chelsea W -> out/Charlton_Athletic_W_v_Chelsea_W.txt
-Requests used: API-Football 78, Matchbook 0
+RUN 2026-11-01 12:44 local | 18 match(es)
+Vendsyssel v Vejle -> out/Vendsyssel_v_Vejle.txt
+Eldense v Granada -> out/Eldense_v_Granada.txt
+Otelul Galati v Sepsi -> out/Otelul_Galati_v_Sepsi.txt
+    !! Otelul Galati: No team found for "Otelul Galati".
+    !! Sepsi: Ambiguous team name "Sepsi".
+Viborg v Horsens -> out/Viborg_v_Horsens.txt
+    !! Horsens: Ambiguous team name "Horsens".
+Djurgardens IF v Degerfors -> out/Djurgardens_IF_v_Degerfors.txt
+    !! Degerfors: Ambiguous team name "Degerfors".
+Hearts v Hibernian -> out/Hearts_v_Hibernian.txt
+    !! Hearts: Ambiguous team name "Hearts".
+Levadiakos v Aris -> out/Levadiakos_v_Aris.txt
+Sint-Truiden v OH Leuven -> out/Sint_Truiden_v_OH_Leuven.txt
+    !! Sint-Truiden: API-Football error: {"search": "The Search field may only contain alpha-numeric characters and spaces."}
+FC Nordsjaelland v FC Midtjylland -> out/FC_Nordsjaelland_v_FC_Midtjylland.txt
+AD Ceuta v Sporting Gijon -> out/AD_Ceuta_v_Sporting_Gijon.txt
+Vasteras SK v Brommapojkarna -> out/Vasteras_SK_v_Brommapojkarna.txt
+    !! Brommapojkarna: Ambiguous team name "Brommapojkarna".
+FC Lugano v FC Basel 1893 -> out/FC_Lugano_v_FC_Basel_1893.txt
+Universitatea Craiova v Botosani -> out/Universitatea_Craiova_v_Botosani.txt
+    !! Botosani: Ambiguous team name "Botosani".
+Arouca v CD Nacional -> out/Arouca_v_CD_Nacional.txt
+    !! CD Nacional: No team found for "CD Nacional".
+Elfsborg v Orgryte -> out/Elfsborg_v_Orgryte.txt
+    !! Elfsborg: Ambiguous team name "Elfsborg".
+    !! Orgryte: Ambiguous team name "Orgryte".
+Hacken v IFK Goteborg -> out/Hacken_v_IFK_Goteborg.txt
+    !! Hacken: Ambiguous team name "Hacken".
+Paris FC v Monaco -> out/Paris_FC_v_Monaco.txt
+PAOK v Asteras Tripolis -> out/PAOK_v_Asteras_Tripolis.txt
+Requests used: API-Football 323, Matchbook 0
