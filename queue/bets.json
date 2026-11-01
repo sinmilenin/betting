@@ -174,5 +174,71 @@
     "lay": 20.0,
     "stake": 3,
     "created": "2026-11-01T12:03:10Z"
+  },
+  {
+    "id": "2026-11-01_vendsyssel-ff-vejle_0-1",
+    "date": "2026-11-01",
+    "ko": "14:00",
+    "match": "Vendsyssel FF v Vejle",
+    "comp": "Denmark, Danish 1st Division",
+    "cell": "0-1",
+    "lay": 13.5,
+    "stake": 3,
+    "created": "2026-11-01T12:52:56Z"
+  },
+  {
+    "id": "2026-11-01_ad-ceuta-fc-sporting-gijon_2-2",
+    "date": "2026-11-01",
+    "ko": "16:15",
+    "match": "AD Ceuta FC v Sporting Gijon",
+    "comp": "Spain, Spanish Segunda Division",
+    "cell": "2-2",
+    "lay": 17.0,
+    "stake": 3,
+    "created": "2026-11-01T12:52:56Z"
+  },
+  {
+    "id": "2026-11-01_vasteras-sk-brommapojkarna_0-1",
+    "date": "2026-11-01",
+    "ko": "16:30",
+    "match": "Vasteras SK v Brommapojkarna",
+    "comp": "Sweden, Swedish Allsvenskan",
+    "cell": "0-1",
+    "lay": 18.5,
+    "stake": 3,
+    "created": "2026-11-01T12:52:56Z"
+  },
+  {
+    "id": "2026-11-01_vasteras-sk-brommapojkarna_1-0",
+    "date": "2026-11-01",
+    "ko": "16:30",
+    "match": "Vasteras SK v Brommapojkarna",
+    "comp": "Sweden, Swedish Allsvenskan",
+    "cell": "1-0",
+    "lay": 11.0,
+    "stake": 3,
+    "created": "2026-11-01T12:52:56Z"
+  },
+  {
+    "id": "2026-11-01_universitatea-craiova-botosani_2-1",
+    "date": "2026-11-01",
+    "ko": "16:30",
+    "match": "Universitatea Craiova v Botosani",
+    "comp": "Romania, Romanian Liga I",
+    "cell": "2-1",
+    "lay": 10.5,
+    "stake": 3,
+    "created": "2026-11-01T12:52:56Z"
+  },
+  {
+    "id": "2026-11-01_elfsborg-orgryte_2-1",
+    "date": "2026-11-01",
+    "ko": "16:30",
+    "match": "Elfsborg v Orgryte",
+    "comp": "Sweden, Swedish Allsvenskan",
+    "cell": "2-1",
+    "lay": 9.6,
+    "stake": 3,
+    "created": "2026-11-01T12:52:56Z"
   }
 ]
