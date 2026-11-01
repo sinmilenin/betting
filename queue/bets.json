@@ -1,27 +1,5 @@
 [
   {
-    "id": "2026-11-01_perth-glory-adelaide-united_0-1",
-    "date": "2026-11-01",
-    "ko": "09:00",
-    "match": "Perth Glory v Adelaide United",
-    "comp": "Australia, A-League Men",
-    "cell": "0-1",
-    "lay": 14.5,
-    "stake": 3,
-    "created": "2026-11-01T05:16:30Z"
-  },
-  {
-    "id": "2026-11-01_perth-glory-adelaide-united_1-0",
-    "date": "2026-11-01",
-    "ko": "09:00",
-    "match": "Perth Glory v Adelaide United",
-    "comp": "Australia, A-League Men",
-    "cell": "1-0",
-    "lay": 14.5,
-    "stake": 3,
-    "created": "2026-11-01T05:16:30Z"
-  },
-  {
     "id": "2026-11-01_rigas-futbola-skola-sc-grobina_1-0",
     "date": "2026-11-01",
     "ko": "12:00",
@@ -361,5 +339,27 @@
     "lay": 20.0,
     "stake": 3,
     "created": "2026-11-01T13:33:38Z"
+  },
+  {
+    "id": "2026-11-01_lausanne-thun_2-2",
+    "date": "2026-11-01",
+    "ko": "16:30",
+    "match": "Lausanne v Thun",
+    "comp": "Switzerland, Swiss Super League",
+    "cell": "2-2",
+    "lay": 14,
+    "stake": 3,
+    "created": "2026-11-01T15:02:28Z"
+  },
+  {
+    "id": "2026-11-01_panathinaikos-aek-athens_2-2",
+    "date": "2026-11-01",
+    "ko": "18:30",
+    "match": "Panathinaikos v AEK Athens",
+    "comp": "Greece, Greek Super League",
+    "cell": "2-2",
+    "lay": 17,
+    "stake": 3,
+    "created": "2026-11-01T15:02:28Z"
   }
 ]
