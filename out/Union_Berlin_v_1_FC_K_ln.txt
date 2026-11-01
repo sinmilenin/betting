@@ -1,6 +1,6 @@
-MATCH Union Berlin v FC Koln | fetched 2026-11-01 06:43 local
+MATCH Union Berlin v 1. FC Köln | fetched 2026-11-01 06:45 local
 
-FORM DATA Union Berlin v FC Koln | source API-Football | 2026-11-01 06:43 UTC
+FORM DATA Union Berlin v 1. FC Köln | source API-Football | 2026-11-01 06:45 UTC
 H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
 
 === Union Berlin (id 182): last 20 finished games ===
@@ -28,16 +28,7 @@ Listed home: 8 games, scored 16 (2.00), conceded 14 (1.75), blanks 1, clean shee
 Listed away: 12 games, scored 22 (1.83), conceded 29 (2.42), blanks 4, clean sheets 1
 All: 20 games, scored 38 (1.90), conceded 43 (2.15), blanks 5, clean sheets 4
 
-"FC Koln" matches several teams. Use id:<number> instead of the name:
-  id:192    1. FC Köln (Germany)
-  id:1871   FC Koln W (Germany)
-  id:28045  FC Koln II W (Germany)
-(retrying FC Koln using the opponent's country, Germany)
-"FC Koln" matches several teams. Use id:<number> instead of the name:
-  id:192    1. FC Köln (Germany)
-  id:1871   FC Koln W (Germany)
-  id:28045  FC Koln II W (Germany)
-!! FC Koln: Ambiguous team name "FC Koln".
+!! 1. FC Köln: API-Football error: {"search": "The Search field may only contain alpha-numeric characters and spaces."}
 
 TABLE FOR Union Berlin
 LEAGUE TABLE Bundesliga 2026 | 18 teams | 70 games played
@@ -62,7 +53,7 @@ League averages per game: home 2.13, away 1.39, total 3.51
 17  Union Berlin             6 |  4   5-6       |  3   1-12      |  7   6-18
 18  Borussia Mönchengladba   4 |  4   7-10      |  4   4-12      |  8  11-22
 
-(16 API-Football requests used)
+(15 API-Football requests used)
 
 ----------------------------------------------------------------------
 MATCHBOOK: skipped (switched off for this run)

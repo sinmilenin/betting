@@ -1,23 +1,6 @@
-RUN 2026-11-01 06:43 local | 18 match(es)
-FC Seoul v Incheon United -> out/FC_Seoul_v_Incheon_United.txt
-Como v Venezia -> out/Como_v_Venezia.txt
-Trabzonspor v Gaziantep -> out/Trabzonspor_v_Gaziantep.txt
-    !! Gaziantep: Ambiguous team name "Gaziantep".
-Getafe v Sevilla -> out/Getafe_v_Sevilla.txt
-Frosinone v Torino -> out/Frosinone_v_Torino.txt
-Strasbourg v Auxerre -> out/Strasbourg_v_Auxerre.txt
-Lazio v Cagliari -> out/Lazio_v_Cagliari.txt
-Union Berlin v FC Koln -> out/Union_Berlin_v_FC_Koln.txt
-    !! FC Koln: Ambiguous team name "FC Koln".
-Racing Santander v Real Madrid -> out/Racing_Santander_v_Real_Madrid.txt
-Lyon v Angers -> out/Lyon_v_Angers.txt
-Eintracht Frankfurt v Hamburger SV -> out/Eintracht_Frankfurt_v_Hamburger_SV.txt
-Liverpool v Arsenal -> out/Liverpool_v_Arsenal.txt
-Lecce v Genoa -> out/Lecce_v_Genoa.txt
-Elche v Valencia -> out/Elche_v_Valencia.txt
-Juventus v Napoli -> out/Juventus_v_Napoli.txt
-Marseille v Toulouse -> out/Marseille_v_Toulouse.txt
-Athletic Club v Real Sociedad -> out/Athletic_Club_v_Real_Sociedad.txt
-Braga v Famalicao -> out/Braga_v_Famalicao.txt
-    !! Braga: Ambiguous team name "Braga".
-Requests used: API-Football 419, Matchbook 0
+RUN 2026-11-01 06:45 local | 3 match(es)
+Trabzonspor v Gaziantep FK -> out/Trabzonspor_v_Gaziantep_FK.txt
+Union Berlin v 1. FC Köln -> out/Union_Berlin_v_1_FC_K_ln.txt
+    !! 1. FC Köln: API-Football error: {"search": "The Search field may only contain alpha-numeric characters and spaces."}
+SC Braga v Famalicao -> out/SC_Braga_v_Famalicao.txt
+Requests used: API-Football 67, Matchbook 0
