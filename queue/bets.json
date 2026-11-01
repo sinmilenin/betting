@@ -361,5 +361,60 @@
     "lay": 17,
     "stake": 3,
     "created": "2026-11-01T15:02:28Z"
+  },
+  {
+    "id": "2026-11-01_univ-catolica-ecu-aucas_2-2",
+    "date": "2026-11-01",
+    "ko": "17:00",
+    "match": "Univ Catolica (Ecu) v Aucas",
+    "comp": "Ecuador, Ecuadorian Serie A",
+    "cell": "2-2",
+    "lay": 18.0,
+    "stake": 3,
+    "created": "2026-11-01T15:51:08Z"
+  },
+  {
+    "id": "2026-11-01_academico-de-viseu-rio-ave_1-0",
+    "date": "2026-11-01",
+    "ko": "19:00",
+    "match": "Academico de Viseu v Rio Ave",
+    "comp": "Portugal, Portuguese Primeira Liga",
+    "cell": "1-0",
+    "lay": 8.4,
+    "stake": 3,
+    "created": "2026-11-01T15:51:08Z"
+  },
+  {
+    "id": "2026-11-01_academico-de-viseu-rio-ave_2-2",
+    "date": "2026-11-01",
+    "ko": "19:00",
+    "match": "Academico de Viseu v Rio Ave",
+    "comp": "Portugal, Portuguese Primeira Liga",
+    "cell": "2-2",
+    "lay": 19.5,
+    "stake": 3,
+    "created": "2026-11-01T15:51:08Z"
+  },
+  {
+    "id": "2026-11-01_charleroi-raal-la-louviere_1-0",
+    "date": "2026-11-01",
+    "ko": "19:15",
+    "match": "Charleroi v RAAL La Louviere",
+    "comp": "Belgium, Belgian Pro League",
+    "cell": "1-0",
+    "lay": 8.2,
+    "stake": 3,
+    "created": "2026-11-01T15:51:08Z"
+  },
+  {
+    "id": "2026-11-01_dinamo-bucharest-uta-arad_1-0",
+    "date": "2026-11-01",
+    "ko": "19:30",
+    "match": "Dinamo Bucharest v UTA Arad",
+    "comp": "Romania, Romanian Liga I",
+    "cell": "1-0",
+    "lay": 8.2,
+    "stake": 3,
+    "created": "2026-11-01T15:51:08Z"
   }
 ]
