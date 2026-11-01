@@ -1,19 +1,11 @@
-# 01.11 13:42 scan + top-20, run 1
-Vendsyssel v Vejle | n=20 | xg=10
-Eldense v Granada | n=20 | xg=10
-Otelul Galati v Sepsi | n=20 | xg=10
-Viborg v Horsens | n=20 | xg=10
-Djurgardens IF v Degerfors | n=20 | xg=10
-Hearts v Hibernian | n=20 | xg=10
-Levadiakos v Aris | n=20 | xg=10
-Sint-Truiden v OH Leuven | n=20 | xg=10
-FC Nordsjaelland v FC Midtjylland | n=20 | xg=10
-AD Ceuta v Sporting Gijon | n=20 | xg=10
-Vasteras SK v Brommapojkarna | n=20 | xg=10
-FC Lugano v FC Basel 1893 | n=20 | xg=10
-Universitatea Craiova v Botosani | n=20 | xg=10
-Arouca v CD Nacional | n=20 | xg=10
-Elfsborg v Orgryte | n=20 | xg=10
-Hacken v IFK Goteborg | n=20 | xg=10
-Paris FC v Monaco | n=20 | xg=10
-PAOK v Asteras Tripolis | n=20 | xg=10
+# 01.11 13:42 scan + top-20, run 2 (team-name fixes)
+Otelul v id:2585 | n=20 | xg=10
+Viborg v AC Horsens | n=20 | xg=10
+Djurgardens IF v id:2172 | n=20 | xg=10
+Heart Of Midlothian v Hibernian | n=20 | xg=10
+St. Truiden v OH Leuven | n=20 | xg=10
+Vasteras SK v id:371 | n=20 | xg=10
+Universitatea Craiova v id:2581 | n=20 | xg=10
+Arouca v Nacional | n=20 | xg=10
+id:372 v id:2166 | n=20 | xg=10
+id:367 v IFK Goteborg | n=20 | xg=10
