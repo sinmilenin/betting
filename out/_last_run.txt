@@ -1,5 +1,4 @@
-RUN 2026-11-01 12:48 local | 2 match(es)
-id:6886 v id:2585 -> out/id_6886_v_id_2585.txt
-Sint Truiden v OH Leuven -> out/Sint_Truiden_v_OH_Leuven.txt
-    !! Sint Truiden: No team found for "Sint Truiden".
-Requests used: API-Football 40, Matchbook 0
+RUN 2026-11-01 12:51 local | 1 match(es)
+Truiden v OH Leuven -> out/Truiden_v_OH_Leuven.txt
+    !! Truiden: Ambiguous team name "Truiden".
+Requests used: API-Football 15, Matchbook 0
