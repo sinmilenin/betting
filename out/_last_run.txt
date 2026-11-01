@@ -1,3 +1,7 @@
-RUN 2026-11-01 06:46 local | 1 match(es)
-Union Berlin v id:192 -> out/Union_Berlin_v_id_192.txt
-Requests used: API-Football 26, Matchbook 0
+RUN 2026-11-01 08:12 local | 2 match(es)
+PSIM Yogyakarta v Borneo FC -> out/PSIM_Yogyakarta_v_Borneo_FC.txt
+    !! Borneo FC: No team found for "Borneo FC".
+Rigas FS v Grobina -> out/Rigas_FS_v_Grobina.txt
+    !! Rigas FS: Ambiguous team name "Rigas FS".
+    !! Grobina: Ambiguous team name "Grobina".
+Requests used: API-Football 16, Matchbook 0
