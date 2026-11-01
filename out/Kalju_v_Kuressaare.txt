@@ -1,33 +1,11 @@
-MATCH Nomme Kalju v Kuressaare | fetched 2026-11-01 09:43 local
+MATCH Kalju v Kuressaare | fetched 2026-11-01 09:44 local
 
-FORM DATA Nomme Kalju v Kuressaare | source API-Football | 2026-11-01 09:43 UTC
+FORM DATA Kalju v Kuressaare | source API-Football | 2026-11-01 09:44 UTC
 H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
 
-=== Nõmme Kalju II (id 13826): last 20 finished games ===
-2026-10-29 A 1-3 v Tallinna Kalev | Esiliiga A | Tallinn
-2026-10-24 H 1-2 v FC Tallinn | Esiliiga A | Tallinn
-2026-10-18 H 0-0 v Elva | Esiliiga A | Tallinn
-2026-10-14 A 0-1 v FCI Levadia II | Esiliiga A | Tallinn
-2026-09-21 H 2-3 v Nõmme United II | Esiliiga A | Tallinn
-2026-09-14 A 0-3 v Tartu Welco | Esiliiga A | Tartu
-2026-09-10 H 1-5 v Flora II | Esiliiga A | Tallinn
-2026-09-06 A 0-1 v Elva | Esiliiga A | Elva
-2026-08-29 A 2-0 v FC Tallinn | Esiliiga A | Tallinn
-2026-08-23 H 2-4 v Tartu Welco | Esiliiga A | Tallinn
-2026-08-20 H 0-3 v Tallinna Kalev | Esiliiga A | Tallinn
-2026-08-17 A 0-2 v Nõmme United II | Esiliiga A | Tallinn
-2026-08-10 A 0-3 v Flora II | Esiliiga A | Tallinn
-2026-08-01 H 1-4 v Maardu | Esiliiga A | Tallinn
-2026-07-25 H 0-5 v Flora II | Esiliiga A | Tallinn
-2026-07-18 H 0-2 v FCI Levadia II | Esiliiga A | Tallinn
-2026-07-11 A 2-2 v Viimsi | Esiliiga A | Viimsi
-2026-07-05 H 2-2 v Elva | Esiliiga A | Tallinn
-2026-06-21 A 1-5 v Tallinna Kalev | Esiliiga A | Tallinn
-2026-06-18 A 1-2 v Maardu | Esiliiga A | ?
-Listed home: 10 games, scored 9 (0.90), conceded 30 (3.00), blanks 4, clean sheets 1
-Listed away: 10 games, scored 7 (0.70), conceded 22 (2.20), blanks 5, clean sheets 1
-All: 20 games, scored 16 (0.80), conceded 52 (2.60), blanks 9, clean sheets 2
-
+"Kalju" matches several teams. Use id:<number> instead of the name:
+  id:662    Kalju Nomme (Estonia)
+  id:13826  Nõmme Kalju II (Estonia)
 === Kuressaare (id 3526): last 20 finished games ===
 2026-10-28 A 1-1 v Vaprus | Meistriliiga | Parnu
 2026-10-24 H 0-1 v Paide | Meistriliiga | Kuressaare
@@ -53,20 +31,11 @@ Listed home: 11 games, scored 20 (1.82), conceded 17 (1.55), blanks 4, clean she
 Listed away: 9 games, scored 15 (1.67), conceded 12 (1.33), blanks 4, clean sheets 3
 All: 20 games, scored 35 (1.75), conceded 29 (1.45), blanks 8, clean sheets 5
 
-TABLE FOR Nõmme Kalju II
-LEAGUE TABLE Esiliiga A 2026 | 10 teams | 169 games played
-League averages per game: home 1.80, away 1.76, total 3.56
-#   team                   Pts | home P GF-GA  | away P GF-GA  | all P GF-GA
-1   Tartu Welco             77 | 17  53-28      | 18  48-17      | 35 101-45
-2   Viimsi                  58 | 17  33-21      | 17  29-12      | 34  62-33
-3   Flora II                52 | 17  39-32      | 17  39-28      | 34  78-60
-4   FCI Levadia II          51 | 16  32-25      | 17  35-34      | 33  67-59
-5   Elva                    51 | 16  24-24      | 18  26-27      | 34  50-51
-6   Maardu                  45 | 16  22-25      | 16  25-34      | 32  47-59
-7   Tallinna Kalev          40 | 18  37-32      | 15  22-31      | 33  59-63
-8   FC Tallinn              38 | 17  24-40      | 17  19-37      | 34  43-77
-9   Nõmme United II         37 | 17  21-24      | 17  34-46      | 34  55-70
-10  Nõmme Kalju II          24 | 18  20-46      | 17  20-39      | 35  40-85
+(retrying Kalju using the opponent's country, Estonia)
+"Kalju" matches several teams. Use id:<number> instead of the name:
+  id:662    Kalju Nomme (Estonia)
+  id:13826  Nõmme Kalju II (Estonia)
+!! Kalju: Ambiguous team name "Kalju".
 
 TABLE FOR Kuressaare
 LEAGUE TABLE Meistriliiga 2026 | 10 teams | 173 games played
@@ -83,7 +52,7 @@ League averages per game: home 1.78, away 1.32, total 3.10
 9   Kuressaare              36 | 17  20-25      | 17  15-28      | 34  35-53
 10  Trans Narva             20 | 17  17-27      | 17   9-49      | 34  26-76
 
-(26 API-Football requests used)
+(15 API-Football requests used)
 
 ----------------------------------------------------------------------
 MATCHBOOK: skipped (switched off for this run)

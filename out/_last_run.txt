@@ -1,7 +1,6 @@
-RUN 2026-11-01 09:43 local | 3 match(es)
-Nomme Kalju v Kuressaare -> out/Nomme_Kalju_v_Kuressaare.txt
-Hannover 96 v Dynamo Dresden -> out/Hannover_96_v_Dynamo_Dresden.txt
-St. Pauli v Nurnberg -> out/St_Pauli_v_Nurnberg.txt
-    !! St. Pauli: API-Football error: {"search": "The Search field may only contain alpha-numeric characters and spaces."}
-    !! Nurnberg: Ambiguous team name "Nurnberg".
-Requests used: API-Football 54, Matchbook 0
+RUN 2026-11-01 09:44 local | 2 match(es)
+Kalju v Kuressaare -> out/Kalju_v_Kuressaare.txt
+    !! Kalju: Ambiguous team name "Kalju".
+St Pauli v id:171 -> out/St_Pauli_v_id_171.txt
+    !! St Pauli: No team found for "St Pauli".
+Requests used: API-Football 30, Matchbook 0
