@@ -1,0 +1,72 @@
+MATCH Palermo v Vicenza | fetched 2026-11-01 15:43 local
+
+FORM DATA Palermo v Vicenza | source API-Football | 2026-11-01 15:44 UTC
+H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
+
+=== Palermo (id 522): last 20 finished games ===
+2026-10-28 A 3-3 v Pisa | Serie B | Pizza | xG 1.32-2.50
+2026-10-25 H 2-1 v Carrarese | Serie B | Palermo | xG 1.89-1.32
+2026-10-17 A 2-0 v Mantova | Serie B | Mantova | xG 1.94-1.84
+2026-10-10 A 4-2 v Empoli | Serie B | Empoli | xG 4.91-1.91
+2026-09-19 H 2-1 v Padova | Serie B | Palermo | xG 2.51-1.18
+2026-09-13 A 1-1 v Avellino | Serie B | Avellino | xG 0.55-1.87
+2026-09-07 H 3-1 v Sampdoria | Serie B | Palermo | xG 1.60-1.70
+2026-09-03 H 5-2 v Mantova | Coppa Italia | Palermo
+2026-08-30 A 3-2 v Arezzo | Serie B | Arezzo | xG 2.01-1.18
+2026-08-23 H 1-0 v Juve Stabia | Serie B | Palermo | xG 1.21-1.04
+2026-08-17 H 2-0 v Lecce | Coppa Italia | Palermo
+2026-08-11 A 0-2 v Juventus | Friendlies Clubs | Perth
+2026-08-07 A 2-0 v Melbourne City | Friendlies Clubs | ?
+2026-07-29 H 1-1 v Iraklis 1908 | Friendlies Clubs | ?
+2026-07-25 H 2-2 v 1. FC Nürnberg | Friendlies Clubs | ?
+2026-07-22 H 7-0 v Paradiso | Friendlies Clubs | ?
+2026-07-18 A 0-1 v FC Ingolstadt 04 | Friendlies Clubs | ?
+2026-05-20 H 2-0 v Catanzaro | Serie B | Palermo
+2026-05-17 A 0-3 v Catanzaro | Serie B | Catanzaro
+2026-05-08 A 0-2 v Venezia | Serie B | Venice
+Listed home: 10 games, scored 27 (2.70), conceded 8 (0.80), blanks 0, clean sheets 4
+Listed away: 10 games, scored 15 (1.50), conceded 16 (1.60), blanks 4, clean sheets 2
+All: 20 games, scored 42 (2.10), conceded 24 (1.20), blanks 4, clean sheets 6
+
+"Vicenza" matches several teams. Use id:<number> instead of the name:
+  id:1584   Vicenza Virtus (Italy)
+  id:15687  Vicenza U19 (Italy)
+  id:19264  Real Vicenza (Italy)
+  id:26854  Vicenza Calcio Femminile (Italy)
+(retrying Vicenza using the opponent's country, Italy)
+"Vicenza" matches several teams. Use id:<number> instead of the name:
+  id:1584   Vicenza Virtus (Italy)
+  id:15687  Vicenza U19 (Italy)
+  id:19264  Real Vicenza (Italy)
+  id:26854  Vicenza Calcio Femminile (Italy)
+!! Vicenza: Ambiguous team name "Vicenza".
+
+TABLE FOR Palermo
+LEAGUE TABLE Serie B 2026 | 20 teams | 95 games played
+League averages per game: home 1.36, away 1.29, total 2.65
+#   team                   Pts | home P GF-GA  | away P GF-GA  | all P GF-GA
+1   Palermo                 23 |  4   8-3       |  5  13-8       |  9  21-11
+2   Modena                  20 |  5   9-5       |  5   9-5       | 10  18-10
+3   Ascoli                  18 |  5   8-3       |  4   8-3       |  9  16-6
+4   Mantova                 18 |  5   7-7       |  5   8-4       | 10  15-11
+5   Pisa                    15 |  5   9-10      |  4   9-3       |  9  18-13
+6   Benevento               15 |  6  10-7       |  4   4-3       | 10  14-10
+7   Padova                  14 |  5   5-5       |  5   5-6       | 10  10-11
+8   Sudtirol                14 |  6   6-3       |  4   5-7       | 10  11-10
+9   Hellas Verona           12 |  5  11-6       |  4   5-7       |  9  16-13
+10  Avellino                12 |  5   9-5       |  4   4-5       |  9  13-10
+11  Cremonese               12 |  5   5-5       |  5   5-6       | 10  10-11
+12  Cesena                  12 |  5   7-6       |  5   4-8       | 10  11-14
+13  Virtus Entella          10 |  5   5-7       |  5   6-5       | 10  11-12
+14  Carrarese               10 |  5   5-6       |  4   4-4       |  9   9-10
+15  Arezzo                  10 |  4   3-10      |  5   6-9       |  9   9-19
+16  Vicenza Virtus           9 |  4   5-8       |  5   7-9       |  9  12-17
+17  Juve Stabia              8 |  4   4-5       |  5   5-4       |  9   9-9
+18  Sampdoria                8 |  4   6-5       |  6   4-13      | 10  10-18
+19  Empoli                   7 |  4   3-7       |  5   5-8       |  9   8-15
+20  Catanzaro                6 |  4   4-10      |  6   7-12      | 10  11-22
+
+(15 API-Football requests used)
+
+----------------------------------------------------------------------
+MATCHBOOK: skipped (switched off for this run)

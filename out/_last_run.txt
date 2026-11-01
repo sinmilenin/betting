@@ -1,3 +1,18 @@
-RUN 2026-11-01 15:00 local | 1 match(es)
-Panathinaikos v AEK Athens FC -> out/Panathinaikos_v_AEK_Athens_FC.txt
-Requests used: API-Football 25, Matchbook 0
+RUN 2026-11-01 15:43 local | 10 match(es)
+Universidad Catolica Quito v Aucas -> out/Universidad_Catolica_Quito_v_Aucas.txt
+    !! Universidad Catolica Quito: No team found for "Universidad Catolica Quito".
+Boca Juniors v River Plate -> out/Boca_Juniors_v_River_Plate.txt
+    !! Boca Juniors: Ambiguous team name "Boca Juniors".
+    !! River Plate: Ambiguous team name "River Plate".
+Academico Viseu v Rio Ave -> out/Academico_Viseu_v_Rio_Ave.txt
+Maritimo v Santa Clara -> out/Maritimo_v_Santa_Clara.txt
+Charleroi v RAAL La Louviere -> out/Charleroi_v_RAAL_La_Louviere.txt
+    !! RAAL La Louviere: Ambiguous team name "RAAL La Louviere".
+Dinamo Bucuresti v UTA Arad -> out/Dinamo_Bucuresti_v_UTA_Arad.txt
+Egersund v Strommen -> out/Egersund_v_Strommen.txt
+Stromsgodset v Moss -> out/Stromsgodset_v_Moss.txt
+Odd v Sandnes Ulf -> out/Odd_v_Sandnes_Ulf.txt
+    !! Odd: Ambiguous team name "Odd".
+Palermo v Vicenza -> out/Palermo_v_Vicenza.txt
+    !! Vicenza: Ambiguous team name "Vicenza".
+Requests used: API-Football 186, Matchbook 0
