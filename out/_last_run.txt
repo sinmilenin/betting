@@ -1,3 +1,5 @@
-RUN 2026-11-01 16:29 local | 1 match(es)
-Lokomotiva Zagreb v id:616 -> out/Lokomotiva_Zagreb_v_id_616.txt
-Requests used: API-Football 27, Matchbook 0
+RUN 2026-11-01 18:00 local | 2 match(es)
+Cobresal v Everton -> out/Cobresal_v_Everton.txt
+Eupen v Excelsior Virton -> out/Eupen_v_Excelsior_Virton.txt
+    !! Eupen: Ambiguous team name "Eupen".
+Requests used: API-Football 42, Matchbook 0
