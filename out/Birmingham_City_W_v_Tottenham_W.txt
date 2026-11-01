@@ -1,0 +1,55 @@
+MATCH Birmingham City W v Tottenham W | fetched 2026-11-01 13:28 local
+
+FORM DATA Birmingham City W v Tottenham W | source API-Football | 2026-11-01 13:28 UTC
+H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
+
+=== Birmingham City W (id 1845): last 20 finished games ===
+2026-10-28 A 1-1 v Aston Villa W | WSL Cup | Hednesford [PEN, 90-min score shown]
+2026-10-25 H 1-0 v Charlton Athletic W | FA WSL | Stratford-upon-Avon | xG 2.30-0.41
+2026-10-21 A 5-0 v Durham W | WSL Cup | South Shields
+2026-10-17 A 1-1 v Arsenal W | FA WSL | Borehamwood | xG 0.77-2.73
+2026-10-04 A 1-2 v Everton W | FA WSL | Crosby
+2026-09-30 H 3-4 v Liverpool W | WSL Cup | Birmingham
+2026-09-27 H 3-3 v Crystal Palace W | FA WSL | Stratford-upon-Avon
+2026-09-23 A 0-2 v Everton W | WSL Cup | Liverpool
+2026-09-19 A 0-2 v Chelsea W | FA WSL | London
+2026-09-13 H 2-2 v Brighton W | FA WSL | Birmingham
+2026-09-06 A 1-3 v Manchester City W | FA WSL | Manchester
+2026-05-02 A 2-0 v Charlton Athletic W | Women's Championship | London
+2026-04-26 H 0-3 v Ipswich Town W | Women's Championship | Birmingham
+2026-04-06 H 0-1 v Manchester City W | FA Women's Cup | Birmingham
+2026-04-01 H 1-0 v Sunderland W | Women's Championship | Birmingham
+2026-03-29 A 1-0 v Bristol City W | Women's Championship | Bristol
+2026-03-22 H 2-1 v Sheffield United W | Women's Championship | Birmingham
+2026-03-18 A 0-2 v Newcastle United W | Women's Championship | Gateshead
+2026-03-15 A 1-0 v Southampton W | Women's Championship | Southampton
+2026-02-21 H 8-0 v Chatham Town W | FA Women's Cup | ?
+Listed home: 9 games, scored 20 (2.22), conceded 14 (1.56), blanks 2, clean sheets 3
+Listed away: 11 games, scored 13 (1.18), conceded 13 (1.18), blanks 3, clean sheets 4
+All: 20 games, scored 33 (1.65), conceded 27 (1.35), blanks 5, clean sheets 7
+
+!! Tottenham W: No team found for "Tottenham W".
+
+TABLE FOR Birmingham City W
+LEAGUE TABLE FA WSL 2026 | 14 teams | 50 games played
+League averages per game: home 1.60, away 1.58, total 3.18
+#   team                   Pts | home P GF-GA  | away P GF-GA  | all P GF-GA
+1   Chelsea W               19 |  4  10-3       |  3  11-1       |  7  21-4
+2   Manchester City W       19 |  4  14-7       |  3   6-2       |  7  20-9
+3   London City Lionesses   16 |  3   6-2       |  4  13-6       |  7  19-8
+4   Manchester United W     12 |  4   4-7       |  4   5-4       |  8   9-11
+5   Tottenham Hotspur W     10 |  4   9-9       |  3  10-7       |  7  19-16
+6   Everton W               10 |  4   5-4       |  4   2-5       |  8   7-9
+7   Arsenal W                9 |  3   2-2       |  4   5-6       |  7   7-8
+8   Aston Villa W            9 |  3   4-6       |  4   5-8       |  7   9-14
+9   Brighton W               8 |  4   9-3       |  3   4-7       |  7  13-10
+10  Liverpool W              8 |  3   5-3       |  4   7-7       |  7  12-10
+11  Birmingham City W        6 |  3   6-5       |  4   3-8       |  7   9-13
+12  West Ham W               6 |  3   2-5       |  4   3-8       |  7   5-13
+13  Crystal Palace W         6 |  4   2-11      |  3   4-4       |  7   6-15
+14  Charlton Athletic W      0 |  4   2-12      |  3   1-7       |  7   3-19
+
+(15 API-Football requests used)
+
+----------------------------------------------------------------------
+MATCHBOOK: skipped (switched off for this run)

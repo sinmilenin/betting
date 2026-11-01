@@ -1,3 +1,16 @@
-RUN 2026-11-01 12:53 local | 1 match(es)
-id:735 v OH Leuven -> out/id_735_v_OH_Leuven.txt
-Requests used: API-Football 25, Matchbook 0
+RUN 2026-11-01 13:28 local | 8 match(es)
+Birmingham City W v Tottenham W -> out/Birmingham_City_W_v_Tottenham_W.txt
+    !! Tottenham W: No team found for "Tottenham W".
+FC Groningen v Sparta Rotterdam -> out/FC_Groningen_v_Sparta_Rotterdam.txt
+    !! FC Groningen: No team found for "FC Groningen".
+Austria Wien v Rapid Vienna -> out/Austria_Wien_v_Rapid_Vienna.txt
+    !! Austria Wien: Ambiguous team name "Austria Wien".
+Panaitolikos v OFI -> out/Panaitolikos_v_OFI.txt
+    !! Panaitolikos: No team found for "Panaitolikos".
+Hodd v Bryne -> out/Hodd_v_Bryne.txt
+Start v Lillestrom -> out/Start_v_Lillestrom.txt
+Kasimpasa v Besiktas -> out/Kasimpasa_v_Besiktas.txt
+    !! Besiktas: Ambiguous team name "Besiktas".
+Verona v Carrarese -> out/Verona_v_Carrarese.txt
+    !! Verona: Ambiguous team name "Verona".
+Requests used: API-Football 141, Matchbook 0
