@@ -1,7 +1,32 @@
-MATCH Panaitolikos v OFI | fetched 2026-11-01 13:28 local
+MATCH Panetolikos v OFI | fetched 2026-11-01 13:30 local
 
-FORM DATA Panaitolikos v OFI | source API-Football | 2026-11-01 13:28 UTC
+FORM DATA Panetolikos v OFI | source API-Football | 2026-11-01 13:30 UTC
 H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
+
+=== Panetolikos (id 949): last 20 finished games ===
+2026-10-24 A 0-5 v AEK Athens FC | Super League 1 | Nea Filadelfeia | xG 0.31-3.98
+2026-10-18 H 0-2 v Olympiakos Piraeus | Super League 1 | Agrinon | xG 1.31-2.52
+2026-10-11 A 0-2 v Kifisia | Super League 1 | Athens | xG 0.82-1.32
+2026-09-20 H 1-3 v PAOK | Super League 1 | Agrinio | xG 0.12-2.08
+2026-09-13 A 0-3 v Panathinaikos | Super League 1 | Athens
+2026-09-06 A 2-0 v Levadiakos | Super League 1 | Levadia | xG 1.27-0.69
+2026-08-29 H 2-0 v Kalamata | Super League 1 | Agrinio | xG 2.46-1.02
+2026-08-23 H 3-1 v Asteras Tripolis | Super League 1 | Agrinio | xG 0.50-1.19
+2026-08-19 A 2-4 v Kalamata | Cup | Kalamata
+2026-08-14 A 1-1 v Estac Troyes | Friendlies Clubs | ?
+2026-07-16 A 1-2 v Omonia Nicosia | Friendlies Clubs | ?
+2026-05-21 H 1-2 v Asteras Tripolis | Super League 1 | Agrinio
+2026-05-17 A 1-1 v Panserraikos | Super League 1 | Serres
+2026-05-12 H 1-1 v Larisa | Super League 1 | Agrinio
+2026-05-09 A 2-1 v Atromitos | Super League 1 | Athens
+2026-05-02 H 0-1 v Kifisia | Super League 1 | Agrinio
+2026-04-26 A 0-0 v Kifisia | Super League 1 | Athens
+2026-04-22 A 1-2 v Asteras Tripolis | Super League 1 | Tripoli
+2026-04-18 H 2-3 v Panserraikos | Super League 1 | Agrinio
+2026-04-08 A 2-1 v Larisa | Super League 1 | Larissa
+Listed home: 8 games, scored 10 (1.25), conceded 13 (1.62), blanks 2, clean sheets 1
+Listed away: 12 games, scored 12 (1.00), conceded 22 (1.83), blanks 4, clean sheets 2
+All: 20 games, scored 22 (1.10), conceded 35 (1.75), blanks 6, clean sheets 3
 
 === OFI (id 1124): last 20 finished games ===
 2026-10-28 A 0-1 v Larisa | Cup | Larissa
@@ -28,9 +53,7 @@ Listed home: 8 games, scored 16 (2.00), conceded 5 (0.62), blanks 1, clean sheet
 Listed away: 12 games, scored 13 (1.08), conceded 23 (1.92), blanks 4, clean sheets 3
 All: 20 games, scored 29 (1.45), conceded 28 (1.40), blanks 5, clean sheets 8
 
-!! Panaitolikos: No team found for "Panaitolikos".
-
-TABLE FOR OFI
+TABLE FOR Panetolikos
 LEAGUE TABLE Super League 1 2026 | 14 teams | 56 games played
 League averages per game: home 1.75, away 1.05, total 2.80
 #   team                   Pts | home P GF-GA  | away P GF-GA  | all P GF-GA
@@ -49,7 +72,9 @@ League averages per game: home 1.75, away 1.05, total 2.80
 13  Atromitos                2 |  3   3-5       |  4   3-7       |  7   6-12
 14  Volos NFC                0 |  4   3-5       |  4   3-8       |  8   6-13
 
-(15 API-Football requests used)
+(OFI: same table as Panetolikos, shown above)
+
+(26 API-Football requests used)
 
 ----------------------------------------------------------------------
 MATCHBOOK: skipped (switched off for this run)

@@ -1,0 +1,59 @@
+MATCH Kasımpaşa v id:549 | fetched 2026-11-01 13:30 local
+
+FORM DATA Kasımpaşa v id:549 | source API-Football | 2026-11-01 13:30 UTC
+H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
+
+=== Beşiktaş (id 549): last 20 finished games ===
+2026-10-26 H 2-0 v Başakşehir | Süper Lig | Istanbul | xG 1.94-0.43
+2026-10-22 H 2-2 v Crystal Palace | UEFA Europa League | Istanbul | xG 0.73-0.46
+2026-10-19 A 0-2 v Trabzonspor | Süper Lig | Trabzon | xG 1.32-2.41
+2026-10-15 A 3-2 v 1899 Hoffenheim | UEFA Europa League | Sinsheim | xG 3.39-1.23
+2026-10-11 H 2-1 v Kocaelispor | Süper Lig | Istanbul | xG 2.21-1.65
+2026-09-20 A 2-3 v Amed | Süper Lig | Diyarbakır | xG 2.04-1.54
+2026-09-17 H 4-1 v Marseille | UEFA Europa League | Istanbul
+2026-09-11 H 3-0 v Erzurumspor FK | Süper Lig | Istanbul | xG 2.29-0.50
+2026-09-05 A 2-1 v Fenerbahçe | Süper Lig | Istanbul | xG 1.75-0.59
+2026-08-31 H 6-2 v Çorum FK | Süper Lig | Istanbul | xG 2.97-0.67
+2026-08-27 A 0-1 v Kauno Žalgiris | UEFA Europa League | Kaunas
+2026-08-23 A 0-1 v Alanyaspor | Süper Lig | Alanya
+2026-08-20 H 3-0 v Kauno Žalgiris | UEFA Europa League | Istanbul
+2026-08-16 H 1-0 v Eyüpspor | Süper Lig | Istanbul
+2026-08-13 H 1-0 v Hradec Králové | UEFA Europa League | Istanbul
+2026-08-06 A 1-0 v Hradec Králové | UEFA Europa League | Hradec Kralove
+2026-07-30 A 2-0 v FC Midtjylland | UEFA Europa League | Herning
+2026-07-23 H 1-0 v FC Midtjylland | UEFA Europa League | Istanbul
+2026-07-14 A 2-3 v Spartak Trnava | Friendlies Clubs | Trnava
+2026-07-14 A 1-1 v Malženice | Friendlies Clubs | Samorin
+Listed home: 10 games, scored 25 (2.50), conceded 6 (0.60), blanks 0, clean sheets 6
+Listed away: 10 games, scored 13 (1.30), conceded 14 (1.40), blanks 3, clean sheets 2
+All: 20 games, scored 38 (1.90), conceded 20 (1.00), blanks 3, clean sheets 8
+
+!! Kasımpaşa: API-Football error: {"search": "The Search field may only contain alpha-numeric characters and spaces."}
+
+TABLE FOR Beşiktaş
+LEAGUE TABLE Süper Lig 2026 | 18 teams | 85 games played
+League averages per game: home 1.61, away 1.28, total 2.89
+#   team                   Pts | home P GF-GA  | away P GF-GA  | all P GF-GA
+1   Galatasaray             25 |  5  11-6       |  5  12-6       | 10  23-12
+2   Amed                    20 |  5  14-3       |  4   6-7       |  9  20-10
+3   Trabzonspor             19 |  4  13-1       |  5   9-7       |  9  22-8
+4   Beşiktaş                18 |  5  14-3       |  4   4-7       |  9  18-10
+5   Fenerbahçe              16 |  5  17-6       |  5   7-4       | 10  24-10
+6   Çorum FK                16 |  4   6-4       |  6  15-12      | 10  21-16
+7   Kasımpaşa               16 |  4   7-4       |  5   6-5       |  9  13-9
+8   Kocaelispor             16 |  5   6-2       |  5   5-7       | 10  11-9
+9   Göztepe                 15 |  4   6-7       |  6  15-10      | 10  21-17
+10  Erzurumspor FK          14 |  5   5-7       |  5   4-8       | 10   9-15
+11  Alanyaspor              12 |  4   4-4       |  5   5-7       |  9   9-11
+12  Başakşehir              11 |  5  11-5       |  4   1-9       |  9  12-14
+13  Rizespor                11 |  4   3-10      |  6   8-5       | 10  11-15
+14  Gaziantep FK             8 |  5   3-9       |  4   6-6       |  9   9-15
+15  Konyaspor                8 |  6   4-7       |  4   2-6       | 10   6-13
+16  Gençlerbirliği S.K.      8 |  5   6-7       |  4   1-11      |  9   7-18
+17  Samsunspor               4 |  5   5-15      |  4   3-6       |  9   8-21
+18  Eyüpspor                 3 |  5   2-9       |  4   0-14      |  9   2-23
+
+(14 API-Football requests used)
+
+----------------------------------------------------------------------
+MATCHBOOK: skipped (switched off for this run)
