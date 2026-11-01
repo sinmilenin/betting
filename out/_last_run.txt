@@ -1,3 +1,4 @@
-RUN 2026-11-01 14:21 local | 1 match(es)
-id:407 v Aarhus -> out/id_407_v_Aarhus.txt
-Requests used: API-Football 26, Matchbook 0
+RUN 2026-11-01 14:59 local | 1 match(es)
+Panathinaikos v AEK Athens -> out/Panathinaikos_v_AEK_Athens.txt
+    !! AEK Athens: Ambiguous team name "AEK Athens".
+Requests used: API-Football 16, Matchbook 0
