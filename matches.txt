@@ -1,2 +1,2 @@
-# 01.11 15:15 scan, run 3 (team-name fix)
-Dender v KRC Genk II | n=20 | xg=10
+# 01.11 15:15 scan, run 4 (team-name fix)
+id:407 v Aarhus | n=20 | xg=10
