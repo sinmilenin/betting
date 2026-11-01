@@ -1,4 +1,10 @@
-RUN 2026-11-01 13:31 local | 2 match(es)
-Birmingham City W v Tottenham Hotspur W -> out/Birmingham_City_W_v_Tottenham_Hotspur_W.txt
-Kasim v id:549 -> out/Kasim_v_id_549.txt
-Requests used: API-Football 51, Matchbook 0
+RUN 2026-11-01 14:17 local | 4 match(es)
+FCV Dender v Racing Genk B -> out/FCV_Dender_v_Racing_Genk_B.txt
+    !! FCV Dender: No team found for "FCV Dender".
+    !! Racing Genk B: No team found for "Racing Genk B".
+Lausanne v Thun -> out/Lausanne_v_Thun.txt
+    !! Lausanne: Ambiguous team name "Lausanne".
+    !! Thun: Ambiguous team name "Thun".
+Potenza v Crotone -> out/Potenza_v_Crotone.txt
+Brondby v AGF -> out/Brondby_v_AGF.txt
+Requests used: API-Football 57, Matchbook 0
