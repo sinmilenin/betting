@@ -1,3 +1,2 @@
-# 01.11 19:41 scan
-Atlanta United v Toronto FC | n=20 | xg=10
-Deportivo Cali v Boyaca Chico | n=20 | xg=10
+# 01.11 19:41 scan, run 2 (team-name fix)
+id:1608 v Toronto FC | n=20 | xg=10
