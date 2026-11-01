@@ -1,11 +1,24 @@
-MATCH Basaksehir v Samsunspor | fetched 2026-11-01 10:29 local
+MATCH Istanbul Basaksehir v Samsunspor | fetched 2026-11-01 10:30 local
 
-FORM DATA Basaksehir v Samsunspor | source API-Football | 2026-11-01 10:29 UTC
+FORM DATA Istanbul Basaksehir v Samsunspor | source API-Football | 2026-11-01 10:30 UTC
 H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
 
-"Basaksehir" matches several teams. Use id:<number> instead of the name:
-  id:564    Başakşehir (Turkey)
-  id:16397  İstanbul Başakşehir U19 (Turkey)
+=== İstanbul Başakşehir U19 (id 16397): last 11 finished games ===
+2026-10-26 A 1-1 v Beşiktaş U19 | U19 league | ?
+2026-10-18 H 1-0 v Gaziantep U19 | U19 league | ?
+2026-10-11 A 1-0 v Konyaspor U19 | U19 league | ?
+2026-09-19 H 3-2 v Genclerbirligi U19 | U19 league | ?
+2026-09-13 A 0-1 v Amedspor U19 | U19 league | ?
+2026-09-04 H 3-1 v Galatasaray U19 | U19 league | ?
+2026-08-30 H 3-0 v Kasimpasa U19 | U19 league | ?
+2026-08-23 A 0-5 v Trabzonspor U19 | U19 league | ?
+2026-08-16 H 2-2 v Kocaelispor U19 | U19 league | ?
+2023-10-25 H 1-3 v Dinamo Zagreb U19 | UEFA Youth League | İstanbul
+2023-10-04 A 1-2 v Dinamo Zagreb U19 | UEFA Youth League | Zagreb
+Listed home: 6 games, scored 13 (2.17), conceded 8 (1.33), blanks 0, clean sheets 2
+Listed away: 5 games, scored 3 (0.60), conceded 9 (1.80), blanks 2, clean sheets 1
+All: 11 games, scored 16 (1.45), conceded 17 (1.55), blanks 2, clean sheets 3
+
 === Samsunspor (id 3603): last 20 finished games ===
 2026-10-24 H 1-2 v Amed | Süper Lig | Samsun | xG 1.08-1.63
 2026-10-18 A 1-4 v Kasımpaşa | Süper Lig | Istanbul | xG 1.07-2.41
@@ -31,11 +44,28 @@ Listed home: 9 games, scored 14 (1.56), conceded 17 (1.89), blanks 3, clean shee
 Listed away: 11 games, scored 11 (1.00), conceded 18 (1.64), blanks 5, clean sheets 2
 All: 20 games, scored 25 (1.25), conceded 35 (1.75), blanks 8, clean sheets 4
 
-(retrying Basaksehir using the opponent's country, Turkey)
-"Basaksehir" matches several teams. Use id:<number> instead of the name:
-  id:564    Başakşehir (Turkey)
-  id:16397  İstanbul Başakşehir U19 (Turkey)
-!! Basaksehir: Ambiguous team name "Basaksehir".
+TABLE FOR İstanbul Başakşehir U19
+LEAGUE TABLE U19 league 2026 | 18 teams | 82 games played
+League averages per game: home 1.80, away 1.39, total 3.20
+#   team                   Pts | home P GF-GA  | away P GF-GA  | all P GF-GA
+1   Beşiktaş U19            25 |  5  14-6       |  4  10-2       |  9  24-8
+2   Trabzonspor U19         22 |  4  11-6       |  5  12-4       |  9  23-10
+3   Galatasaray U19         20 |  5  22-2       |  5   7-10      | 10  29-12
+4   Kocaelispor U19         19 |  5   8-5       |  5  12-11      | 10  20-16
+5   İstanbul Başakşehir U1  17 |  5  12-5       |  4   2-7       |  9  14-12
+6   Samsunspor U19          14 |  5  11-6       |  4   7-5       |  9  18-11
+7   Gaziantep U19           14 |  5   7-4       |  4   3-9       |  9  10-13
+8   Fenerbahce U19          13 |  4  11-5       |  5  11-9       |  9  22-14
+9   Genclerbirligi U19      13 |  5  10-7       |  4   6-5       |  9  16-12
+10  Amedspor U19            13 |  5   5-7       |  4   2-4       |  9   7-11
+11  Goztepe U19             12 |  3   7-2       |  5   3-8       |  8  10-10
+12  Konyaspor U19           11 |  6   6-9       |  4   6-7       | 10  12-16
+13  Alanyaspor U19          10 |  4   5-8       |  5   6-4       |  9  11-12
+14  Eyupspor U19            10 |  5   6-4       |  4   7-12      |  9  13-16
+15  Rizespor U19             6 |  4   0-9       |  6   8-15      | 10   8-24
+16  Corum U19                5 |  4   4-11      |  4   4-11      |  8   8-22
+17  Kasimpasa U19            4 |  4   3-6       |  5   4-12      |  9   7-18
+18  Erzurumspor U19          4 |  4   6-12      |  5   4-13      |  9  10-25
 
 TABLE FOR Samsunspor
 LEAGUE TABLE Süper Lig 2026 | 18 teams | 85 games played
@@ -60,7 +90,7 @@ League averages per game: home 1.61, away 1.28, total 2.89
 17  Samsunspor               4 |  5   5-15      |  4   3-6       |  9   8-21
 18  Eyüpspor                 3 |  5   2-9       |  4   0-14      |  9   2-23
 
-(15 API-Football requests used)
+(26 API-Football requests used)
 
 ----------------------------------------------------------------------
 MATCHBOOK: skipped (switched off for this run)

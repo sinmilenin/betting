@@ -1,10 +1,5 @@
-RUN 2026-11-01 10:29 local | 5 match(es)
-OB v Silkeborg -> out/OB_v_Silkeborg.txt
-    !! OB: API-Football error: {"search": "The Search field must be at least 3 characters in length."}
-Basaksehir v Samsunspor -> out/Basaksehir_v_Samsunspor.txt
-    !! Basaksehir: Ambiguous team name "Basaksehir".
-AC Oulu v KuPS -> out/AC_Oulu_v_KuPS.txt
-Falkirk v Celtic -> out/Falkirk_v_Celtic.txt
-Malmo FF v Hammarby -> out/Malmo_FF_v_Hammarby.txt
-    !! Hammarby: Ambiguous team name "Hammarby".
-Requests used: API-Football 94, Matchbook 0
+RUN 2026-11-01 10:30 local | 3 match(es)
+Odense v Silkeborg -> out/Odense_v_Silkeborg.txt
+Istanbul Basaksehir v Samsunspor -> out/Istanbul_Basaksehir_v_Samsunspor.txt
+Malmo FF v Hammarby FF -> out/Malmo_FF_v_Hammarby_FF.txt
+Requests used: API-Football 77, Matchbook 0

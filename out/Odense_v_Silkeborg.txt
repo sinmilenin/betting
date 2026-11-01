@@ -1,7 +1,32 @@
-MATCH OB v Silkeborg | fetched 2026-11-01 10:29 local
+MATCH Odense v Silkeborg | fetched 2026-11-01 10:30 local
 
-FORM DATA OB v Silkeborg | source API-Football | 2026-11-01 10:29 UTC
+FORM DATA Odense v Silkeborg | source API-Football | 2026-11-01 10:30 UTC
 H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
+
+=== Odense (id 405): last 20 finished games ===
+2026-10-29 A 1-2 v FC Midtjylland | DBU Pokalen | Herning
+2026-10-26 A 1-1 v FC Copenhagen | Superliga | Copenhagen | xG 0.47-2.46
+2026-10-18 H 2-1 v Brondby | Superliga | Odense | xG 0.78-2.58
+2026-10-09 A 0-0 v FC Nordsjaelland | Superliga | Farum | xG 0.50-2.16
+2026-10-02 A 4-5 v Kolding IF | Friendlies Clubs | ?
+2026-09-19 H 1-1 v FC Midtjylland | Superliga | Odense
+2026-09-13 A 2-1 v Randers FC | Superliga | Randers | xG 1.14-1.68
+2026-09-09 A 2-1 v Kolding IF | DBU Pokalen | Kolding
+2026-09-06 H 0-5 v FC Copenhagen | Superliga | Odense | xG 2.18-2.84
+2026-08-30 A 1-1 v Lyngby | Superliga | Kongens Lyngby | xG 1.88-1.97
+2026-08-26 A 2-1 v FC Fredericia | DBU Pokalen | ?
+2026-08-23 A 2-2 v Aarhus | Superliga | Aarhus
+2026-08-16 H 1-2 v AC Horsens | Superliga | Odense
+2026-08-10 A 0-1 v Silkeborg | Superliga | Silkeborg
+2026-08-03 H 1-0 v Sonderjyske | Superliga | Odense
+2026-07-24 A 0-1 v Viborg | Superliga | Viborg
+2026-07-17 A 1-4 v FC Midtjylland | Friendlies Clubs | ?
+2026-07-11 A 0-4 v Brondby | Friendlies Clubs | ?
+2026-07-04 H 2-0 v Hillerød | Friendlies Clubs | ?
+2026-06-29 H 2-1 v Kolding IF | Friendlies Clubs | ?
+Listed home: 7 games, scored 9 (1.29), conceded 10 (1.43), blanks 1, clean sheets 2
+Listed away: 13 games, scored 16 (1.23), conceded 24 (1.85), blanks 4, clean sheets 1
+All: 20 games, scored 25 (1.25), conceded 34 (1.70), blanks 5, clean sheets 3
 
 === Silkeborg (id 2073): last 20 finished games ===
 2026-10-25 H 1-1 v FC Nordsjaelland | Superliga | Silkeborg | xG 0.66-0.87
@@ -28,9 +53,7 @@ Listed home: 8 games, scored 15 (1.88), conceded 11 (1.38), blanks 0, clean shee
 Listed away: 12 games, scored 21 (1.75), conceded 25 (2.08), blanks 4, clean sheets 1
 All: 20 games, scored 36 (1.80), conceded 36 (1.80), blanks 4, clean sheets 3
 
-!! OB: API-Football error: {"search": "The Search field must be at least 3 characters in length."}
-
-TABLE FOR Silkeborg
+TABLE FOR Odense
 LEAGUE TABLE Superliga 2026 | 12 teams | 73 games played
 League averages per game: home 1.66, away 1.41, total 3.07
 #   team                   Pts | home P GF-GA  | away P GF-GA  | all P GF-GA
@@ -47,7 +70,9 @@ League averages per game: home 1.66, away 1.41, total 3.07
 11  Lyngby                  11 |  7  10-13      |  6   9-15      | 13  19-28
 12  Sonderjyske              8 |  6  12-13      |  6   5-16      | 12  17-29
 
-(14 API-Football requests used)
+(Silkeborg: same table as Odense, shown above)
+
+(26 API-Football requests used)
 
 ----------------------------------------------------------------------
 MATCHBOOK: skipped (switched off for this run)
