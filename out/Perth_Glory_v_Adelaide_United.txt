@@ -1,0 +1,113 @@
+MATCH Perth Glory v Adelaide United | fetched 2026-11-01 05:12 local
+
+FORM DATA Perth Glory v Adelaide United | source API-Football | 2026-11-01 05:12 UTC
+H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
+
+=== Perth Glory (id 940): last 20 finished games ===
+2026-10-23 A 1-2 v Brisbane Roar | A-League | Brisbane | xG 0.92-1.53
+2026-10-17 A 1-2 v Macarthur | A-League | Sydney | xG 1.29-1.44
+2026-10-03 H 1-3 v Adelaide United | Friendlies Clubs | ?
+2026-09-27 H 2-0 v Adelaide United | Friendlies Clubs | ?
+2026-07-21 A 0-0 v Lions | Australia Cup | Brisbane [PEN, 90-min score shown]
+2026-04-25 H 2-1 v Brisbane Roar | A-League | Perth | xG 1.93-1.52
+2026-04-18 A 0-0 v Sydney | A-League | Sydney | xG 0.75-2.01
+2026-04-12 H 3-1 v Macarthur | A-League | Perth | xG 1.63-1.37
+2026-04-04 A 2-2 v Central Coast Mariners | A-League | Gosford | xG 1.85-1.53
+2026-03-22 H 1-1 v Melbourne City | A-League | Perth | xG 2.28-2.06
+2026-03-14 A 0-2 v Wellington Phoenix | A-League | Wellington
+2026-03-08 A 2-2 v Auckland | A-League | Auckland
+2026-02-28 A 1-1 v Brisbane Roar | A-League | Brisbane
+2026-02-20 A 0-4 v Adelaide United | A-League | Adelaide
+2026-02-13 H 1-3 v Newcastle Jets | A-League | Perth
+2026-02-06 A 2-2 v Macarthur | A-League | Sydney
+2026-01-31 H 2-1 v Auckland | A-League | Perth
+2026-01-25 A 0-1 v Western Sydney Wanderers | A-League | Sydney
+2026-01-16 H 1-2 v Brisbane Roar | A-League | Perth
+2026-01-10 H 3-0 v Central Coast Mariners | A-League | Perth
+Listed home: 9 games, scored 16 (1.78), conceded 12 (1.33), blanks 0, clean sheets 2
+Listed away: 11 games, scored 9 (0.82), conceded 18 (1.64), blanks 5, clean sheets 2
+All: 20 games, scored 25 (1.25), conceded 30 (1.50), blanks 5, clean sheets 4
+
+=== Adelaide United (id 948): last 20 finished games ===
+2026-10-29 H 0-2 v Home United | AFC Champions League Two | Adelaide | xG 1.63-2.73
+2026-10-25 A 1-2 v Sydney | A-League | Sydney | xG 1.48-1.90
+2026-10-15 A 2-1 v BG Pathum United | AFC Champions League Two | Pathum Thani
+2026-10-03 A 3-1 v Perth Glory | Friendlies Clubs | ?
+2026-09-27 A 0-2 v Perth Glory | Friendlies Clubs | ?
+2026-09-17 H 3-0 v Wofoo Tai Po | AFC Champions League Two | Adelaide
+2026-08-11 H 0-2 v Công An Nhân Dân | AFC Champions League Elite | Adelaide
+2026-07-30 A 1-2 v South Melbourne | Australia Cup | Melbourne
+2026-07-20 A 2-0 v Playford City Patriots | Friendlies Clubs | ?
+2026-07-14 A 5-0 v The Cove | Friendlies Clubs | ?
+2026-05-15 H 0-3 v Auckland | A-League | Adelaide
+2026-05-09 A 1-1 v Auckland | A-League | Auckland
+2026-04-26 A 2-1 v Melbourne City | A-League | Melbourne
+2026-04-19 H 3-1 v Macarthur | A-League | Adelaide
+2026-04-11 A 1-1 v Newcastle Jets | A-League | Newcastle
+2026-04-03 H 1-1 v Auckland | A-League | Adelaide
+2026-03-20 A 4-2 v Western Sydney Wanderers | A-League | Sydney
+2026-03-14 A 1-1 v Central Coast Mariners | A-League | Gosford
+2026-03-06 H 1-1 v Wellington Phoenix | A-League | Adelaide
+2026-02-27 A 1-1 v Melbourne Victory | A-League | Melbourne
+Listed home: 7 games, scored 8 (1.14), conceded 10 (1.43), blanks 3, clean sheets 1
+Listed away: 13 games, scored 24 (1.85), conceded 15 (1.15), blanks 1, clean sheets 2
+All: 20 games, scored 32 (1.60), conceded 25 (1.25), blanks 4, clean sheets 3
+
+TABLE FOR Perth Glory
+LEAGUE TABLE A-League 2026 | 12 teams | 15 games played
+League averages per game: home 1.67, away 1.07, total 2.73
+#   team                   Pts | home P GF-GA  | away P GF-GA  | all P GF-GA
+1   Wellington Phoenix       9 |  2   4-1       |  1   3-0       |  3   7-1
+2   Western Sydney Wandere   5 |  1   5-2       |  2   0-0       |  3   5-2
+3   Macarthur                5 |  2   2-1       |  1   1-1       |  3   3-2
+4   Brisbane Roar            4 |  2   3-2       |  0   0-0       |  2   3-2
+5   Sydney                   4 |  2   2-1       |  1   1-2       |  3   3-3
+6   Auckland                 4 |  1   3-1       |  2   3-6       |  3   6-7
+7   Melbourne City           4 |  1   2-1       |  2   2-4       |  3   4-5
+8   Newcastle Jets           2 |  2   1-4       |  1   2-2       |  3   3-6
+9   Melbourne Victory        1 |  1   1-1       |  1   1-2       |  2   2-3
+10  Central Coast Mariners   1 |  1   2-2       |  1   0-2       |  2   2-4
+11  Adelaide United          0 |  0   0-0       |  1   1-2       |  1   1-2
+12  Perth Glory              0 |  0   0-0       |  2   2-4       |  2   2-4
+
+TABLE FOR Adelaide United
+LEAGUE TABLE AFC Champions League Two 2026 | 32 teams | 48 games played
+League averages per game: home 1.19, away 1.23, total 2.42
+#   team                   Pts | home P GF-GA  | away P GF-GA  | all P GF-GA
+1   Al Wahda FC              9 |  1   3-2       |  2   4-2       |  3   7-4 [Group A]
+2   Al Kuwait                6 |  1   3-1       |  2   3-3       |  3   6-4 [Group A]
+3   Nasaf                    1 |  2   1-3       |  1   0-0       |  3   1-3 [Group A]
+4   Khalidiya                1 |  2   1-2       |  1   1-3       |  3   2-5 [Group A]
+1   Al-Jazira                7 |  2   6-3       |  1   0-0       |  3   6-3 [Group B]
+2   Arkadag                  4 |  1   1-0       |  2   1-2       |  3   2-2 [Group B]
+3   Muharraq                 3 |  1   2-0       |  2   2-5       |  3   4-5 [Group B]
+4   Gol Gohar                2 |  2   0-0       |  1   0-2       |  3   0-2 [Group B]
+1   Al Taawon                7 |  1   2-1       |  2   3-1       |  3   5-2 [Group C]
+2   Al-Rayyan SC             6 |  1   4-3       |  2   5-3       |  3   9-6 [Group C]
+3   Al Faisaly               3 |  2   2-2       |  1   3-4       |  3   5-6 [Group C]
+4   Al-Nahda                 1 |  2   2-5       |  1   0-2       |  3   2-7 [Group C]
+1   Al Shorta                7 |  2   2-1       |  1   3-2       |  3   5-3 [Group D]
+2   Al Hussein               5 |  1   2-2       |  2   4-1       |  3   6-3 [Group D]
+3   East Bengal              2 |  1   2-3       |  2   2-2       |  3   4-5 [Group D]
+4   Al Seeb                  1 |  2   0-3       |  1   0-1       |  3   0-4 [Group D]
+1   Persib Bandung           9 |  2   3-0       |  1   1-0       |  3   4-0 [Group E]
+2   Melbourne Victory        4 |  1   3-0       |  2   1-3       |  3   4-3 [Group E]
+3   FC Seoul                 3 |  1   0-1       |  2   5-3       |  3   5-4 [Group E]
+4   Viettel                  1 |  2   1-6       |  1   0-1       |  3   1-7 [Group E]
+1   Home United              7 |  1   1-1       |  2   3-0       |  3   4-1 [Group F]
+2   Adelaide United          6 |  2   3-2       |  1   2-1       |  3   5-3 [Group F]
+3   BG Pathum United         4 |  1   1-2       |  2   4-1       |  3   5-3 [Group F]
+4   Wofoo Tai Po             0 |  2   0-4       |  1   0-3       |  3   0-7 [Group F]
+1   Machida Zelvia           9 |  1   2-0       |  2   2-0       |  3   4-0 [Group G]
+2   Svay Rieng               4 |  1   0-0       |  2   5-3       |  3   5-3 [Group G]
+3   Shanghai Shenhua         4 |  2   2-2       |  1   0-0       |  3   2-2 [Group G]
+4   Tampines Rovers          0 |  2   1-6       |  1   1-2       |  3   2-8 [Group G]
+1   Phnom Penh Crown         9 |  2   4-1       |  1   2-1       |  3   6-2 [Group H]
+2   Gangwon FC               4 |  2   2-2       |  1   0-0       |  3   2-2 [Group H]
+3   Kitchee                  2 |  1   0-0       |  2   1-3       |  3   1-3 [Group H]
+4   Kuching FA               1 |  1   1-1       |  2   1-3       |  3   2-4 [Group H]
+
+(26 API-Football requests used)
+
+----------------------------------------------------------------------
+MATCHBOOK: skipped (switched off for this run)

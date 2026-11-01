@@ -1,3 +1,5 @@
-RUN 2026-10-31 19:57 local | 1 match(es)
-Melbourne Victory v Central Coast Mariners -> out/Melbourne_Victory_v_Central_Coast_Marine.txt
-Requests used: API-Football 26, Matchbook 0
+RUN 2026-11-01 05:12 local | 2 match(es)
+FC Machida v Gamba Osaka -> out/FC_Machida_v_Gamba_Osaka.txt
+    !! FC Machida: No team found for "FC Machida".
+Perth Glory v Adelaide United -> out/Perth_Glory_v_Adelaide_United.txt
+Requests used: API-Football 40, Matchbook 0
