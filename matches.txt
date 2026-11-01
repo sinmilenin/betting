@@ -1,2 +1,2 @@
-# 01.11 15:56 scan, run 1
-Panathinaikos v AEK Athens | n=20 | xg=10
+# 01.11 15:56 scan, run 2 (team-name fix)
+Panathinaikos v AEK Athens FC | n=20 | xg=10
