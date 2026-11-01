@@ -1,6 +1,4 @@
 RUN 2026-11-01 09:44 local | 2 match(es)
-Kalju v Kuressaare -> out/Kalju_v_Kuressaare.txt
-    !! Kalju: Ambiguous team name "Kalju".
-St Pauli v id:171 -> out/St_Pauli_v_id_171.txt
-    !! St Pauli: No team found for "St Pauli".
-Requests used: API-Football 30, Matchbook 0
+id:662 v Kuressaare -> out/id_662_v_Kuressaare.txt
+id:186 v id:171 -> out/id_186_v_id_171.txt
+Requests used: API-Football 51, Matchbook 0
