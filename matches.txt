@@ -1,3 +1,5 @@
-# 01.11 14:26 scan, run 3 (team-name fixes)
-Birmingham City W v Tottenham Hotspur W | n=20 | xg=10
-Kasim v id:549 | n=20 | xg=10
+# 01.11 15:15 scan, run 1
+FCV Dender v Racing Genk B | n=20 | xg=10
+Lausanne v Thun | n=20 | xg=10
+Potenza v Crotone | n=20 | xg=10
+Brondby v AGF | n=20 | xg=10
