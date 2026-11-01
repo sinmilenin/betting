@@ -1,3 +1,2 @@
-# 01.11 13:42 scan + top-20, run 3 (team-name fixes)
-id:6886 v id:2585 | n=20 | xg=10
-Sint Truiden v OH Leuven | n=20 | xg=10
+# 01.11 13:42 scan + top-20, run 4 (team-name fix)
+Truiden v OH Leuven | n=20 | xg=10
