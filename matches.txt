@@ -1,2 +1,2 @@
-# 01.11 19:41 scan, run 2 (team-name fix)
-id:1608 v Toronto FC | n=20 | xg=10
+# 01.11 19:41 scan, run 3 (team-name fix)
+Deportivo Cali v Chico | n=20 | xg=10
