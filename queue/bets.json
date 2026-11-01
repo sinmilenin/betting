@@ -20,5 +20,16 @@
     "lay": 14.5,
     "stake": 3,
     "created": "2026-11-01T05:16:30Z"
+  },
+  {
+    "id": "2026-11-01_rigas-futbola-skola-sc-grobina_1-0",
+    "date": "2026-11-01",
+    "ko": "12:00",
+    "match": "Rigas Futbola Skola v SC Grobina",
+    "comp": "Latvia, Latvian Virsliga",
+    "cell": "1-0",
+    "lay": 14,
+    "stake": 3,
+    "created": "2026-11-01T08:59:53+00:00"
   }
 ]
