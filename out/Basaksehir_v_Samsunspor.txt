@@ -1,0 +1,66 @@
+MATCH Basaksehir v Samsunspor | fetched 2026-11-01 10:29 local
+
+FORM DATA Basaksehir v Samsunspor | source API-Football | 2026-11-01 10:29 UTC
+H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
+
+"Basaksehir" matches several teams. Use id:<number> instead of the name:
+  id:564    Başakşehir (Turkey)
+  id:16397  İstanbul Başakşehir U19 (Turkey)
+=== Samsunspor (id 3603): last 20 finished games ===
+2026-10-24 H 1-2 v Amed | Süper Lig | Samsun | xG 1.08-1.63
+2026-10-18 A 1-4 v Kasımpaşa | Süper Lig | Istanbul | xG 1.07-2.41
+2026-10-10 H 0-3 v Trabzonspor | Süper Lig | Samsun | xG 1.66-2.02
+2026-09-20 A 0-1 v Erzurumspor FK | Süper Lig | Erzurum | xG 0.36-0.72
+2026-09-12 H 1-5 v Çorum FK | Süper Lig | Samsun | xG 1.23-1.73
+2026-09-06 A 0-1 v Kocaelispor | Süper Lig | Kocaeli | xG 1.74-1.59
+2026-08-30 H 0-2 v Fenerbahçe | Süper Lig | Samsun | xG 0.46-1.56
+2026-08-22 A 2-0 v Rizespor | Süper Lig | Rize | xG 0.33-1.85
+2026-08-17 H 3-3 v Göztepe | Süper Lig | Samsun | xG 2.80-1.71
+2026-08-08 A 0-3 v Kasımpaşa | Friendlies Clubs | ?
+2026-08-01 A 2-1 v KVC Westerlo | Friendlies Clubs | ?
+2026-07-29 A 2-1 v AEK Athens FC | Friendlies Clubs | ?
+2026-07-25 A 0-0 v RAAL La Louvière | Friendlies Clubs | ?
+2026-07-22 A 1-2 v Dunkerque | Friendlies Clubs | ?
+2026-05-16 H 3-0 v Göztepe | Süper Lig | Samsun
+2026-05-09 A 0-3 v Başakşehir | Süper Lig | Istanbul
+2026-05-02 H 4-1 v Galatasaray | Süper Lig | Samsun
+2026-04-27 A 3-2 v Alanyaspor | Süper Lig | Alanya
+2026-04-23 H 0-0 v Trabzonspor | Türkiye Kupası | Samsun [PEN, 90-min score shown]
+2026-04-19 H 2-1 v Beşiktaş | Süper Lig | Samsun
+Listed home: 9 games, scored 14 (1.56), conceded 17 (1.89), blanks 3, clean sheets 2
+Listed away: 11 games, scored 11 (1.00), conceded 18 (1.64), blanks 5, clean sheets 2
+All: 20 games, scored 25 (1.25), conceded 35 (1.75), blanks 8, clean sheets 4
+
+(retrying Basaksehir using the opponent's country, Turkey)
+"Basaksehir" matches several teams. Use id:<number> instead of the name:
+  id:564    Başakşehir (Turkey)
+  id:16397  İstanbul Başakşehir U19 (Turkey)
+!! Basaksehir: Ambiguous team name "Basaksehir".
+
+TABLE FOR Samsunspor
+LEAGUE TABLE Süper Lig 2026 | 18 teams | 85 games played
+League averages per game: home 1.61, away 1.28, total 2.89
+#   team                   Pts | home P GF-GA  | away P GF-GA  | all P GF-GA
+1   Galatasaray             25 |  5  11-6       |  5  12-6       | 10  23-12
+2   Amed                    20 |  5  14-3       |  4   6-7       |  9  20-10
+3   Trabzonspor             19 |  4  13-1       |  5   9-7       |  9  22-8
+4   Beşiktaş                18 |  5  14-3       |  4   4-7       |  9  18-10
+5   Fenerbahçe              16 |  5  17-6       |  5   7-4       | 10  24-10
+6   Çorum FK                16 |  4   6-4       |  6  15-12      | 10  21-16
+7   Kasımpaşa               16 |  4   7-4       |  5   6-5       |  9  13-9
+8   Kocaelispor             16 |  5   6-2       |  5   5-7       | 10  11-9
+9   Göztepe                 15 |  4   6-7       |  6  15-10      | 10  21-17
+10  Erzurumspor FK          14 |  5   5-7       |  5   4-8       | 10   9-15
+11  Alanyaspor              12 |  4   4-4       |  5   5-7       |  9   9-11
+12  Başakşehir              11 |  5  11-5       |  4   1-9       |  9  12-14
+13  Rizespor                11 |  4   3-10      |  6   8-5       | 10  11-15
+14  Gaziantep FK             8 |  5   3-9       |  4   6-6       |  9   9-15
+15  Konyaspor                8 |  6   4-7       |  4   2-6       | 10   6-13
+16  Gençlerbirliği S.K.      8 |  5   6-7       |  4   1-11      |  9   7-18
+17  Samsunspor               4 |  5   5-15      |  4   3-6       |  9   8-21
+18  Eyüpspor                 3 |  5   2-9       |  4   0-14      |  9   2-23
+
+(15 API-Football requests used)
+
+----------------------------------------------------------------------
+MATCHBOOK: skipped (switched off for this run)
