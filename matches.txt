@@ -1,5 +1,3 @@
-# 02.11 07:40 scan, top-20 run, run 2 (team name fixes, rate-limit retry)
-Marko v Apollon Pontou | n=20 | xg=10
-All Boys v CA Estudiantes | n=20 | xg=10
-Lorient v id:106 | n=20 | xg=10
-Platense v Central Cordoba | n=20 | xg=10
+# 02.11 07:40 scan, top-20 run, run 3 (Benfica id, FC Andorra club)
+id:211 v Alverca | n=20 | xg=10
+Tenerife v FC Andorra | n=20 | xg=10
