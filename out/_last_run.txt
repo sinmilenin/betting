@@ -1,9 +1,4 @@
-RUN 2026-11-02 18:43 local | 3 match(es)
-Jong FC Utrecht v FC Dordrecht -> out/Jong_FC_Utrecht_v_FC_Dordrecht.txt
-    !! Jong FC Utrecht: No team found for "Jong FC Utrecht".
-    !! FC Dordrecht: No team found for "FC Dordrecht".
-Fortaleza v Atletico GO -> out/Fortaleza_v_Atletico_GO.txt
-    !! Fortaleza: Ambiguous team name "Fortaleza".
-    !! Atletico GO: Ambiguous team name "Atletico GO".
-Red Star v Nancy -> out/Red_Star_v_Nancy.txt
-Requests used: API-Football 30, Matchbook 0
+RUN 2026-11-02 18:43 local | 2 match(es)
+id:154 v id:144 -> out/id_154_v_id_144.txt
+Jong Utrecht v Dordrecht -> out/Jong_Utrecht_v_Dordrecht.txt
+Requests used: API-Football 51, Matchbook 0
