@@ -1,12 +1,33 @@
-MATCH Rafaela v Patronato | fetched 2026-11-02 15:05 local
+MATCH id:465 v Patronato | fetched 2026-11-02 15:06 local
 
-FORM DATA Rafaela v Patronato | source API-Football | 2026-11-02 15:05 UTC
+FORM DATA id:465 v Patronato | source API-Football | 2026-11-02 15:06 UTC
 H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
 
-"Rafaela" matches several teams. Use id:<number> instead of the name:
-  id:465    Atletico DE Rafaela (Argentina)
-  id:21040  9 de Julio Rafaela (Argentina)
-  id:27412  Atl. Rafaela 2 (Argentina)
+=== Atletico DE Rafaela (id 465): last 20 finished games ===
+2026-10-24 A 1-1 v Colegiales | Primera Nacional | Buenos Aires
+2026-10-17 H 1-0 v Quilmes | Primera Nacional | Rafaela
+2026-10-10 A 0-4 v Midland | Primera Nacional | Buenos Aires
+2026-10-04 H 2-3 v Atlanta | Primera Nacional | Rafaela
+2026-09-27 A 0-1 v Gimnasia Y Tiro | Primera Nacional | Salta
+2026-09-19 H 4-2 v San Martin Tucuman | Primera Nacional | Rafaela
+2026-09-13 A 1-2 v Gimnasia Jujuy | Primera Nacional | Jujuy
+2026-09-06 A 0-2 v Agropecuario | Primera Nacional | Buenos Aires
+2026-08-29 H 2-1 v Tristan Suarez | Primera Nacional | Rafaela
+2026-08-24 A 0-0 v Club Atlético Güemes | Primera Nacional | Santiago del Estero
+2026-08-14 H 0-0 v Defensores De Belgrano | Primera Nacional | Rafaela
+2026-08-08 H 1-0 v Chacarita Juniors | Primera Nacional | Rafaela
+2026-08-01 A 1-1 v San Martin S.J. | Primera Nacional | San Juan
+2026-07-25 H 1-0 v Nueva Chicago | Primera Nacional | Rafaela
+2026-07-17 A 0-2 v Temperley | Primera Nacional | Turdera
+2026-07-11 H 1-3 v Deportivo Maipu | Primera Nacional | Rafaela
+2026-07-04 A 0-1 v Almagro | Primera Nacional | Jose Ingenieros
+2026-06-23 A 0-0 v Nueva Chicago | Primera Nacional | Buenos Aires
+2026-06-14 A 0-0 v Patronato | Primera Nacional | ?
+2026-06-06 H 1-0 v Colegiales | Primera Nacional | Rafaela
+Listed home: 9 games, scored 13 (1.44), conceded 9 (1.00), blanks 1, clean sheets 5
+Listed away: 11 games, scored 3 (0.27), conceded 14 (1.27), blanks 8, clean sheets 3
+All: 20 games, scored 16 (0.80), conceded 23 (1.15), blanks 9, clean sheets 8
+
 === Patronato (id 444): last 20 finished games ===
 2026-10-25 H 0-2 v Agropecuario | Primera Nacional | ?
 2026-10-17 A 0-1 v Tristan Suarez | Primera Nacional | Tristan Suarez
@@ -32,14 +53,7 @@ Listed home: 11 games, scored 14 (1.27), conceded 11 (1.00), blanks 5, clean she
 Listed away: 9 games, scored 5 (0.56), conceded 11 (1.22), blanks 5, clean sheets 1
 All: 20 games, scored 19 (0.95), conceded 22 (1.10), blanks 10, clean sheets 6
 
-(retrying Rafaela using the opponent's country, Argentina)
-"Rafaela" matches several teams. Use id:<number> instead of the name:
-  id:465    Atletico DE Rafaela (Argentina)
-  id:21040  9 de Julio Rafaela (Argentina)
-  id:27412  Atl. Rafaela 2 (Argentina)
-!! Rafaela: Ambiguous team name "Rafaela".
-
-TABLE FOR Patronato
+TABLE FOR Atletico DE Rafaela
 LEAGUE TABLE Primera Nacional 2026 | 36 teams | 643 games played
 League averages per game: home 1.19, away 0.77, total 1.96
 #   team                   Pts | home P GF-GA  | away P GF-GA  | all P GF-GA
@@ -80,7 +94,9 @@ League averages per game: home 1.19, away 0.77, total 1.96
 17  Nueva Chicago           37 | 18  17-13      | 17   8-21      | 35  25-34 [Group 2]
 18  Club Atlético Güemes    27 | 18  16-27      | 18  12-35      | 36  28-62 [Group 2]
 
-(15 API-Football requests used)
+(Patronato: same table as Atletico DE Rafaela, shown above)
+
+(25 API-Football requests used)
 
 ----------------------------------------------------------------------
 MATCHBOOK: skipped (switched off for this run)

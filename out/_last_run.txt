@@ -1,11 +1,6 @@
-RUN 2026-11-02 15:05 local | 6 match(es)
-Al Nasr Kuwait v id:3541 -> out/Al_Nasr_Kuwait_v_id_3541.txt
-    !! Al Nasr Kuwait: No team found for "Al Nasr Kuwait".
-Al-Wasl v Al Quwa Al Jawiya -> out/Al_Wasl_v_Al_Quwa_Al_Jawiya.txt
-    !! Al-Wasl: API-Football error: {"search": "The Search field may only contain alpha-numeric characters and spaces."}
-Kalamata v Iraklis 1908 -> out/Kalamata_v_Iraklis_1908.txt
-id:1430 v Septemvri Sofia -> out/id_1430_v_Septemvri_Sofia.txt
-Mjallby v Kalmar FF -> out/Mjallby_v_Kalmar_FF.txt
-Rafaela v Patronato -> out/Rafaela_v_Patronato.txt
-    !! Rafaela: Ambiguous team name "Rafaela".
-Requests used: API-Football 119, Matchbook 0
+RUN 2026-11-02 15:06 local | 3 match(es)
+Al Nasar v id:3541 -> out/Al_Nasar_v_id_3541.txt
+Wasl v Al Quwa Al Jawiya -> out/Wasl_v_Al_Quwa_Al_Jawiya.txt
+    !! Wasl: Ambiguous team name "Wasl".
+id:465 v Patronato -> out/id_465_v_Patronato.txt
+Requests used: API-Football 65, Matchbook 0

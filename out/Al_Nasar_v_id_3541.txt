@@ -1,7 +1,32 @@
-MATCH Al Nasr Kuwait v id:3541 | fetched 2026-11-02 15:05 local
+MATCH Al Nasar v id:3541 | fetched 2026-11-02 15:06 local
 
-FORM DATA Al Nasr Kuwait v id:3541 | source API-Football | 2026-11-02 15:05 UTC
+FORM DATA Al Nasar v id:3541 | source API-Football | 2026-11-02 15:06 UTC
 H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
+
+=== Al Nasar (id 3536): last 20 finished games ===
+2026-10-24 A 3-0 v Al Sahel | Premier League | ?
+2026-10-18 H 2-1 v Al Tadhamon | Premier League | Kuwait
+2026-10-09 H 1-7 v Al Kuwait | Premier League | Kuwait
+2026-09-04 A 0-3 v Al Qadsia | Premier League | Kuwait
+2026-08-30 H 2-1 v Al Fahaheel | Premier League | Kuwait
+2026-08-26 A 2-1 v Al Salmiyah | Premier League | ?
+2026-06-26 H 1-1 v Al Jahra | Premier League | Kuwait
+2026-06-21 A 1-1 v Al Tadhamon | Premier League | ?
+2026-06-17 A 3-0 v Al Shabab | Premier League | ?
+2026-06-12 H 1-2 v Kazma | Premier League | Kuwait
+2026-05-30 A 1-2 v Al Arabi | Premier League | Kuwait
+2026-05-24 H 1-1 v Al Kuwait | Premier League | Kuwait
+2026-05-14 A 2-0 v Al Jahra | Premier League | ?
+2026-02-27 A 0-3 v Al Kuwait | Emir Cup | Kuwait
+2026-02-22 H 4-2 v Al Fahaheel | Premier League | Kuwait
+2026-02-12 H 3-2 v Yarmouk | Emir Cup | Kuwait
+2026-02-05 A 3-1 v Al Tadhamon | Premier League | ?
+2026-01-25 H 1-1 v Al Shabab | Premier League | Kuwait
+2026-01-19 A 2-3 v Al Kuwait | Crown Prince Cup | Kuwait
+2026-01-14 A 1-1 v Al Salmiyah | Premier League | ?
+Listed home: 9 games, scored 16 (1.78), conceded 18 (2.00), blanks 0, clean sheets 0
+Listed away: 11 games, scored 18 (1.64), conceded 15 (1.36), blanks 2, clean sheets 3
+All: 20 games, scored 34 (1.70), conceded 33 (1.65), blanks 2, clean sheets 3
 
 === Al Shabab (id 3541): last 20 finished games ===
 2026-10-28 H 0-4 v Al Qadsia | Premier League | ?
@@ -28,9 +53,7 @@ Listed home: 11 games, scored 8 (0.73), conceded 26 (2.36), blanks 6, clean shee
 Listed away: 9 games, scored 11 (1.22), conceded 20 (2.22), blanks 2, clean sheets 1
 All: 20 games, scored 19 (0.95), conceded 46 (2.30), blanks 8, clean sheets 2
 
-!! Al Nasr Kuwait: No team found for "Al Nasr Kuwait".
-
-TABLE FOR Al Shabab
+TABLE FOR Al Nasar
 LEAGUE TABLE Premier League 2026 | 12 teams | 38 games played
 League averages per game: home 1.53, away 1.71, total 3.24
 #   team                   Pts | home P GF-GA  | away P GF-GA  | all P GF-GA
@@ -47,7 +70,9 @@ League averages per game: home 1.53, away 1.71, total 3.24
 11  Al Sulaibikhat           4 |  3   4-4       |  4   4-13      |  7   8-17
 12  Al Tadhamon              3 |  5   6-15      |  2   2-6       |  7   8-21
 
-(14 API-Football requests used)
+(Al Shabab: same table as Al Nasar, shown above)
+
+(25 API-Football requests used)
 
 ----------------------------------------------------------------------
 MATCHBOOK: skipped (switched off for this run)
