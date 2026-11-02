@@ -1,13 +1,5 @@
-RUN 2026-11-02 12:46 local | 8 match(es)
-VPS v HJK -> out/VPS_v_HJK.txt
-    !! HJK: Ambiguous team name "HJK".
-Gil Vicente v Guimaraes -> out/Gil_Vicente_v_Guimaraes.txt
-    !! Guimaraes: Ambiguous team name "Guimaraes".
-Radnicki Nis v Zeleznicar Pancevo -> out/Radnicki_Nis_v_Zeleznicar_Pancevo.txt
-Sonderjyske v FC Copenhagen -> out/Sonderjyske_v_FC_Copenhagen.txt
-Mallorca v Cadiz -> out/Mallorca_v_Cadiz.txt
-Wadi Degla v Zamalek -> out/Wadi_Degla_v_Zamalek.txt
-Hull City U21 v Derby U21 -> out/Hull_City_U21_v_Derby_U21.txt
-    !! Derby U21: No team found for "Derby U21".
-id:1064 v Central Cordoba de Santiago -> out/id_1064_v_Central_Cordoba_de_Santiago.txt
-Requests used: API-Football 174, Matchbook 0
+RUN 2026-11-02 12:47 local | 3 match(es)
+VPS v id:649 -> out/VPS_v_id_649.txt
+Gil Vicente v Vitoria SC -> out/Gil_Vicente_v_Vitoria_SC.txt
+Hull City U21 v Derby County U21 -> out/Hull_City_U21_v_Derby_County_U21.txt
+Requests used: API-Football 78, Matchbook 0
