@@ -1,0 +1,57 @@
+MATCH Polissya Zhytomyr 2 v Oleksandria | fetched 2026-11-02 11:21 local
+
+FORM DATA Polissya Zhytomyr 2 v Oleksandria | source API-Football | 2026-11-02 11:21 UTC
+H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
+
+=== Oleksandria (id 3619): last 20 finished games ===
+2026-10-29 A 1-2 v Karpaty | Cup | Lviv
+2026-10-24 H 2-0 v Probiy Horodenka | Persha Liga | ?
+2026-10-18 A 1-1 v Kulykiv | Persha Liga | ?
+2026-10-11 H 1-3 v Lokomotiv Kyiv | Persha Liga | ?
+2026-10-04 A 2-0 v Kolos Kovalivka II | Persha Liga | Kovalivka
+2026-09-27 H 1-1 v Yarud Mariupol' | Persha Liga | ?
+2026-09-20 A 0-1 v Ahrobiznes Volochysk | Persha Liga | Volochysk
+2026-09-14 H 1-0 v Viktoriya Mykolaivka | Persha Liga | ?
+2026-09-09 A 1-1 v Probiy Horodenka | Cup | ? [PEN, 90-min score shown]
+2026-09-05 A 0-0 v Prykarpattia | Persha Liga | Ivano-Frankivsk
+2026-08-29 H 1-0 v Chernihiv | Persha Liga | ?
+2026-08-21 A 2-0 v Bratslav Vinnytsia | Cup | ?
+2026-08-15 A 2-0 v Metal Kharkiv | Persha Liga | Kharkiv
+2026-08-08 H 3-0 v Inhulets | Persha Liga | ?
+2026-07-31 A 4-4 v UCSA | Persha Liga | ?
+2026-07-24 H 1-1 v Nyva Ternopil | Persha Liga | ?
+2026-07-18 A 1-2 v Kolos Kovalivka | Friendlies Clubs | ?
+2026-07-08 H 2-1 v Inhulets | Friendlies Clubs | ?
+2026-07-04 H 2-0 v Chornomorets | Friendlies Clubs | ?
+2026-07-01 H 5-2 v SK Poltava | Friendlies Clubs | ?
+Listed home: 10 games, scored 19 (1.90), conceded 8 (0.80), blanks 0, clean sheets 5
+Listed away: 10 games, scored 14 (1.40), conceded 11 (1.10), blanks 2, clean sheets 4
+All: 20 games, scored 33 (1.65), conceded 19 (0.95), blanks 2, clean sheets 9
+
+!! Polissya Zhytomyr 2: No team found for "Polissya Zhytomyr 2".
+
+TABLE FOR Oleksandria
+LEAGUE TABLE Persha Liga 2026 | 16 teams | 108 games played
+League averages per game: home 1.54, away 1.12, total 2.66
+#   team                   Pts | home P GF-GA  | away P GF-GA  | all P GF-GA
+1   Viktoriya Mykolaivka    28 |  7  11-7       |  7   8-4       | 14  19-11
+2   Yarud Mariupol'         27 |  8  13-9       |  6  10-5       | 14  23-14
+3   Ahrobiznes Volochysk    26 |  8  16-5       |  5   6-9       | 13  22-14
+4   SK Poltava              24 |  6  11-3       |  8  14-10      | 14  25-13
+5   Kulykiv                 24 |  8  20-7       |  6   8-10      | 14  28-17
+6   Oleksandria             23 |  7  10-5       |  6   9-6       | 13  19-11
+7   Lokomotiv Kyiv          20 |  8  10-10      |  6   9-7       | 14  19-17
+8   Nyva Ternopil           19 |  4   7-4       | 10  10-9       | 14  17-13
+9   Inhulets                17 |  6   8-5       |  7   6-13      | 13  14-18
+10  Prykarpattia            16 |  7   7-4       |  7   6-14      | 14  13-18
+11  Metal Kharkiv           15 |  7  11-9       |  6   2-7       | 13  13-16
+12  UCSA                    14 |  7  13-12      |  7   5-11      | 14  18-23
+13  Kolos Kovalivka II      13 |  7   7-7       |  6   5-15      | 13  12-22
+14  Chernihiv               10 |  3   4-3       |  9   9-16      | 12  13-19
+15  Probiy Horodenka        10 |  8   9-15      |  6   5-19      | 14  14-34
+16  Polissya II              8 |  7   9-16      |  6   9-11      | 13  18-27
+
+(15 API-Football requests used)
+
+----------------------------------------------------------------------
+MATCHBOOK: skipped (switched off for this run)
