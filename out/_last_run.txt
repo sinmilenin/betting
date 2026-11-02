@@ -1,7 +1,5 @@
-RUN 2026-11-02 11:21 local | 3 match(es)
-Polissya Zhytomyr 2 v Oleksandria -> out/Polissya_Zhytomyr_2_v_Oleksandria.txt
-    !! Polissya Zhytomyr 2: No team found for "Polissya Zhytomyr 2".
-Chonburi v BG Pathum United -> out/Chonburi_v_BG_Pathum_United.txt
-Mladost Donja Gorica v Sutjeska -> out/Mladost_Donja_Gorica_v_Sutjeska.txt
-    !! Mladost Donja Gorica: No team found for "Mladost Donja Gorica".
-Requests used: API-Football 55, Matchbook 0
+RUN 2026-11-02 11:23 local | 3 match(es)
+Polissya II v Oleksandria -> out/Polissya_II_v_Oleksandria.txt
+Mladost DG v Sutjeska -> out/Mladost_DG_v_Sutjeska.txt
+Pakhtakor v id:2939 -> out/Pakhtakor_v_id_2939.txt
+Requests used: API-Football 77, Matchbook 0

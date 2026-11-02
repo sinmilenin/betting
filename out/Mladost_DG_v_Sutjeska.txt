@@ -1,7 +1,32 @@
-MATCH Mladost Donja Gorica v Sutjeska | fetched 2026-11-02 11:21 local
+MATCH Mladost DG v Sutjeska | fetched 2026-11-02 11:23 local
 
-FORM DATA Mladost Donja Gorica v Sutjeska | source API-Football | 2026-11-02 11:21 UTC
+FORM DATA Mladost DG v Sutjeska | source API-Football | 2026-11-02 11:23 UTC
 H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
+
+=== Mladost DG (id 16749): last 20 finished games ===
+2026-10-28 A 0-1 v Petrovac | First League | Petrovac
+2026-10-22 A 1-4 v Mornar | First League | Bar
+2026-10-18 H 0-0 v Jezero | First League | Podgorica
+2026-10-14 H 4-0 v Iskra | Cup | Podgorica
+2026-10-08 A 2-2 v Otrant-Olympic | First League | Ulcinj
+2026-10-02 H 1-5 v Mornar | Friendlies Clubs | ?
+2026-09-28 A 1-0 v Petrovac | Friendlies Clubs | ?
+2026-09-20 A 0-3 v Bokelj | First League | Kotor
+2026-09-14 H 0-2 v Buducnost Podgorica | First League | Podgorica
+2026-09-10 A 1-0 v Arsenal Tivat | First League | Tivat
+2026-09-05 H 2-0 v Dečić | First League | Podgorica
+2026-08-28 A 1-5 v Sutjeska | First League | ?
+2026-08-22 H 0-0 v Petrovac | First League | Podgorica
+2026-08-16 H 2-3 v Mornar | First League | Podgorica
+2026-08-09 A 0-1 v Jezero | First League | Plav
+2026-08-02 H 2-1 v Otrant-Olympic | First League | Podgorica
+2026-07-26 H 1-1 v Lovćen | Friendlies Clubs | ?
+2026-07-19 A 2-4 v Semendrija 1924 | Friendlies Clubs | ?
+2026-07-17 H 3-3 v FK Vozdovac | Friendlies Clubs | ?
+2026-07-01 A 0-1 v Arsenal Tivat | Friendlies Clubs | ?
+Listed home: 10 games, scored 15 (1.50), conceded 15 (1.50), blanks 3, clean sheets 4
+Listed away: 10 games, scored 8 (0.80), conceded 21 (2.10), blanks 4, clean sheets 2
+All: 20 games, scored 23 (1.15), conceded 36 (1.80), blanks 7, clean sheets 6
 
 === Sutjeska (id 673): last 20 finished games ===
 2026-10-29 H 2-2 v Jezero | First League | ?
@@ -28,9 +53,7 @@ Listed home: 11 games, scored 17 (1.55), conceded 14 (1.27), blanks 3, clean she
 Listed away: 9 games, scored 4 (0.44), conceded 8 (0.89), blanks 6, clean sheets 4
 All: 20 games, scored 21 (1.05), conceded 22 (1.10), blanks 9, clean sheets 8
 
-!! Mladost Donja Gorica: No team found for "Mladost Donja Gorica".
-
-TABLE FOR Sutjeska
+TABLE FOR Mladost DG
 LEAGUE TABLE First League 2026 | 10 teams | 64 games played
 League averages per game: home 1.36, away 0.92, total 2.28
 #   team                   Pts | home P GF-GA  | away P GF-GA  | all P GF-GA
@@ -45,7 +68,9 @@ League averages per game: home 1.36, away 0.92, total 2.28
 9   Mladost DG              12 |  6   6-6       |  7   5-16      | 13  11-22
 10  Arsenal Tivat            9 |  6   2-7       |  6   7-9       | 12   9-16
 
-(14 API-Football requests used)
+(Sutjeska: same table as Mladost DG, shown above)
+
+(25 API-Football requests used)
 
 ----------------------------------------------------------------------
 MATCHBOOK: skipped (switched off for this run)

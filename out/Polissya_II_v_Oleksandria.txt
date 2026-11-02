@@ -1,7 +1,32 @@
-MATCH Polissya Zhytomyr 2 v Oleksandria | fetched 2026-11-02 11:21 local
+MATCH Polissya II v Oleksandria | fetched 2026-11-02 11:23 local
 
-FORM DATA Polissya Zhytomyr 2 v Oleksandria | source API-Football | 2026-11-02 11:21 UTC
+FORM DATA Polissya II v Oleksandria | source API-Football | 2026-11-02 11:23 UTC
 H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
+
+=== Polissya II (id 24589): last 20 finished games ===
+2026-10-24 H 1-2 v SK Poltava | Persha Liga | Zhytomyr
+2026-10-18 A 1-1 v Probiy Horodenka | Persha Liga | ?
+2026-10-12 H 2-4 v Kulykiv | Persha Liga | Zhytomyr
+2026-10-03 A 3-3 v Lokomotiv Kyiv | Persha Liga | ?
+2026-09-28 H 0-3 v Kolos Kovalivka II | Persha Liga | Zhytomyr
+2026-09-20 A 1-2 v Yarud Mariupol' | Persha Liga | Kovalivka
+2026-09-14 H 3-2 v Ahrobiznes Volochysk | Persha Liga | Zhytomyr
+2026-09-05 A 1-1 v Viktoriya Mykolaivka | Persha Liga | Sumy
+2026-08-29 H 1-2 v Prykarpattia | Persha Liga | Zhytomyr
+2026-08-15 A 2-2 v Chernihiv | Persha Liga | ?
+2026-08-09 H 0-1 v Metal Kharkiv | Persha Liga | Zhytomyr
+2026-08-03 A 1-2 v Inhulets | Persha Liga | ?
+2026-07-25 H 2-2 v UCSA | Persha Liga | Zhytomyr
+2026-07-18 A 1-1 v Veres Rivne | Friendlies Clubs | ?
+2026-05-27 A 0-1 v Kolos Kovalivka II | Druha Liga | Cherkasy
+2026-05-22 A 2-0 v Bukovyna 2 | Druha Liga | ?
+2026-05-16 H 1-2 v Vilkhivtsi | Druha Liga | Zhytomyr
+2026-05-10 A 4-0 v Uzhhorod | Druha Liga | ?
+2026-05-01 A 0-0 v Atlet | Druha Liga | ?
+2026-04-27 H 3-0 v Skala 1911 Stryi | Druha Liga | Zhytomyr
+Listed home: 9 games, scored 13 (1.44), conceded 18 (2.00), blanks 2, clean sheets 1
+Listed away: 11 games, scored 16 (1.45), conceded 13 (1.18), blanks 2, clean sheets 3
+All: 20 games, scored 29 (1.45), conceded 31 (1.55), blanks 4, clean sheets 4
 
 === Oleksandria (id 3619): last 20 finished games ===
 2026-10-29 A 1-2 v Karpaty | Cup | Lviv
@@ -28,9 +53,7 @@ Listed home: 10 games, scored 19 (1.90), conceded 8 (0.80), blanks 0, clean shee
 Listed away: 10 games, scored 14 (1.40), conceded 11 (1.10), blanks 2, clean sheets 4
 All: 20 games, scored 33 (1.65), conceded 19 (0.95), blanks 2, clean sheets 9
 
-!! Polissya Zhytomyr 2: No team found for "Polissya Zhytomyr 2".
-
-TABLE FOR Oleksandria
+TABLE FOR Polissya II
 LEAGUE TABLE Persha Liga 2026 | 16 teams | 108 games played
 League averages per game: home 1.54, away 1.12, total 2.66
 #   team                   Pts | home P GF-GA  | away P GF-GA  | all P GF-GA
@@ -51,7 +74,9 @@ League averages per game: home 1.54, away 1.12, total 2.66
 15  Probiy Horodenka        10 |  8   9-15      |  6   5-19      | 14  14-34
 16  Polissya II              8 |  7   9-16      |  6   9-11      | 13  18-27
 
-(15 API-Football requests used)
+(Oleksandria: same table as Polissya II, shown above)
+
+(26 API-Football requests used)
 
 ----------------------------------------------------------------------
 MATCHBOOK: skipped (switched off for this run)
