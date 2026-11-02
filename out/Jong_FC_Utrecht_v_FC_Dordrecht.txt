@@ -1,0 +1,13 @@
+MATCH Jong FC Utrecht v FC Dordrecht | fetched 2026-11-02 18:43 local
+
+FORM DATA Jong FC Utrecht v FC Dordrecht | source API-Football | 2026-11-02 18:43 UTC
+H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
+
+!! Jong FC Utrecht: No team found for "Jong FC Utrecht".
+
+!! FC Dordrecht: No team found for "FC Dordrecht".
+
+(2 API-Football requests used)
+
+----------------------------------------------------------------------
+MATCHBOOK: skipped (switched off for this run)
