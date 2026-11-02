@@ -1,2 +1,15 @@
-# 01.11 20:57 night scan, run 2 (Belgrano id fix)
-id:440 v Barracas Central | n=20 | xg=10
+# 02.11 07:40 scan, top-20 run
+Tenerife v Andorra | n=20 | xg=10
+Marko v Apollon Kalamarias | n=20 | xg=10
+Pakhtakor v Al Nassr | n=20 | xg=10
+Oviedo v Las Palmas | n=20 | xg=10
+All Boys v Estudiantes Caseros | n=20 | xg=10
+Valladolid v Leganes | n=20 | xg=10
+Sassuolo v Fiorentina | n=20 | xg=10
+Al Ahly v Al Mokawloon | n=20 | xg=10
+Lorient v Brest | n=20 | xg=10
+Atalanta v Parma | n=20 | xg=10
+Newcastle v Everton | n=20 | xg=10
+Deportivo La Coruna v Osasuna | n=20 | xg=10
+Benfica v Alverca | n=20 | xg=10
+Platense v Central Cordoba | n=20 | xg=10
