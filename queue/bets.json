@@ -218,5 +218,27 @@
     "lay": 17,
     "stake": 3,
     "created": "2026-11-02T17:35:02+01:00"
+  },
+  {
+    "id": "2026-11-02_reims-sochaux_1-0",
+    "date": "2026-11-02",
+    "ko": "20:45",
+    "match": "Reims v Sochaux",
+    "comp": "France, French Ligue 2",
+    "cell": "1-0",
+    "lay": 9.4,
+    "stake": 3,
+    "created": "2026-11-02T18:19:03+01:00"
+  },
+  {
+    "id": "2026-11-02_reims-sochaux_2-2",
+    "date": "2026-11-02",
+    "ko": "20:45",
+    "match": "Reims v Sochaux",
+    "comp": "France, French Ligue 2",
+    "cell": "2-2",
+    "lay": 20.0,
+    "stake": 3,
+    "created": "2026-11-02T18:19:03+01:00"
   }
 ]
