@@ -86,5 +86,38 @@
     "lay": 10.0,
     "stake": 3,
     "created": "2026-11-02T12:52:00Z"
+  },
+  {
+    "id": "2026-11-02_wadi-degla-zamalek_1-0",
+    "date": "2026-11-02",
+    "ko": "16:00",
+    "match": "Wadi degla v Zamalek",
+    "comp": "Egypt, Egyptian League Cup",
+    "cell": "1-0",
+    "lay": 7.6,
+    "stake": 3,
+    "created": "2026-11-02T14:15:00Z"
+  },
+  {
+    "id": "2026-11-02_atromitos-nfc-volos_2-1",
+    "date": "2026-11-02",
+    "ko": "17:00",
+    "match": "Atromitos v NFC Volos",
+    "comp": "Greece, Greek Super League",
+    "cell": "2-1",
+    "lay": 9.6,
+    "stake": 3,
+    "created": "2026-11-02T14:15:00Z"
+  },
+  {
+    "id": "2026-11-02_genclerbirligi-alanyaspor_2-2",
+    "date": "2026-11-02",
+    "ko": "18:00",
+    "match": "Genclerbirligi v Alanyaspor",
+    "comp": "Turkey, Turkish Super League",
+    "cell": "2-2",
+    "lay": 17.5,
+    "stake": 3,
+    "created": "2026-11-02T14:15:00Z"
   }
 ]
