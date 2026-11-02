@@ -1,32 +1,7 @@
-MATCH Al Wasl v Al Quwa Al Jawiya | fetched 2026-11-02 15:04 local
+MATCH Al-Wasl v Al Quwa Al Jawiya | fetched 2026-11-02 15:05 local
 
-FORM DATA Al Wasl v Al Quwa Al Jawiya | source API-Football | 2026-11-02 15:04 UTC
+FORM DATA Al-Wasl v Al Quwa Al Jawiya | source API-Football | 2026-11-02 15:05 UTC
 H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
-
-=== Al Wasl U23 (id 27492): last 20 finished games ===
-2026-10-31 A 0-1 v Al Dhafra U23 | Pro League U23 | ?
-2026-10-17 H 0-0 v Bani Yas U23 | Pro League U23 | ?
-2026-09-11 H 0-1 v Al Ain U23 | Pro League U23 | ?
-2026-09-05 A 1-0 v Khorfakkan U23 | Pro League U23 | ?
-2026-08-29 A 4-4 v Shabab Al-Ahli Dubai U23 | Pro League U23 | ?
-2026-08-22 H 1-1 v Ittihad Kalba U23 | Pro League U23 | ?
-2026-08-16 A 0-1 v United FC U23 | Pro League U23 | ?
-2026-05-16 A 5-3 v Ittihad Kalba U23 | Pro League U23 | ?
-2026-05-12 H 2-2 v Al Jazira U23 | Pro League U23 | ?
-2026-05-07 H 1-0 v Al Wahda U23 | Pro League U23 | ?
-2026-04-25 A 1-1 v Dibba Al Fujairah U23 | Pro League U23 | ?
-2026-04-12 H 0-1 v Ajman U23 | Pro League U23 | ?
-2026-04-06 H 1-2 v Al Sharjah U23 | Pro League U23 | ?
-2026-03-22 A 1-0 v Al Dhafra U23 | Pro League U23 | ?
-2026-03-13 H 0-2 v Al Ain U23 | Pro League U23 | ?
-2026-02-26 A 2-1 v Shabab Al-Ahli Dubai U23 | Pro League U23 | ?
-2026-02-22 A 2-4 v Al Bataeh U23 | Pro League U23 | ?
-2026-02-14 H 1-1 v Bani Yas U23 | Pro League U23 | ?
-2026-02-06 H 2-0 v Al Nasr U23 | Pro League U23 | ?
-2026-01-29 A 3-0 v Khorfakkan U23 | Pro League U23 | ?
-Listed home: 10 games, scored 8 (0.80), conceded 10 (1.00), blanks 4, clean sheets 3
-Listed away: 10 games, scored 19 (1.90), conceded 15 (1.50), blanks 2, clean sheets 3
-All: 20 games, scored 27 (1.35), conceded 25 (1.25), blanks 6, clean sheets 6
 
 === Al Quwa Al Jawiya (id 8009): last 20 finished games ===
 2026-10-29 H 0-0 v Al Minaa Basra | Iraqi League | ?
@@ -53,24 +28,7 @@ Listed home: 11 games, scored 12 (1.09), conceded 12 (1.09), blanks 3, clean she
 Listed away: 9 games, scored 13 (1.44), conceded 13 (1.44), blanks 3, clean sheets 2
 All: 20 games, scored 25 (1.25), conceded 25 (1.25), blanks 6, clean sheets 5
 
-TABLE FOR Al Wasl U23
-LEAGUE TABLE Pro League U23 2026 | 14 teams | 46 games played
-League averages per game: home 1.63, away 1.48, total 3.11
-#   team                   Pts | home P GF-GA  | away P GF-GA  | all P GF-GA
-1   Al Ain U23              21 |  3   8-2       |  4  10-1       |  7  18-3
-2   Ajman U23               14 |  4   3-3       |  3   3-1       |  7   6-4
-3   Al Wahda U23            13 |  3   8-3       |  3   5-5       |  6  13-8
-4   Shabab Al-Ahli Dubai U  13 |  3   7-5       |  4   7-7       |  7  14-12
-5   Al Sharjah U23          12 |  4   8-3       |  2   2-0       |  6  10-3
-6   Al Dhafra U23           10 |  4   7-6       |  3   8-9       |  7  15-15
-7   Al Jazira U23            9 |  4   6-3       |  2   3-4       |  6   9-7
-8   United FC U23            9 |  4   6-9       |  3   6-5       |  7  12-14
-9   Ittihad Kalba U23        7 |  4   9-9       |  3   2-6       |  7  11-15
-10  Al Wasl U23              6 |  3   1-2       |  4   5-6       |  7   6-8
-11  Hatta U23                5 |  3   5-4       |  3   5-7       |  6  10-11
-12  Al Nasr U23              4 |  2   4-5       |  4   6-10      |  6  10-15
-13  Khorfakkan U23           4 |  3   0-9       |  4   3-5       |  7   3-14
-14  Bani Yas U23             1 |  2   3-5       |  4   3-9       |  6   6-14
+!! Al-Wasl: API-Football error: {"search": "The Search field may only contain alpha-numeric characters and spaces."}
 
 TABLE FOR Al Quwa Al Jawiya
 LEAGUE TABLE Iraqi League 2026 | 20 teams | 120 games played
@@ -97,7 +55,7 @@ League averages per game: home 1.30, away 0.88, total 2.17
 19  Al Kahrabaa              8 |  5   3-3       |  7   4-11      | 12   7-14
 20  Karbala                  7 |  6   7-11      |  6   4-13      | 12  11-24
 
-(26 API-Football requests used)
+(14 API-Football requests used)
 
 ----------------------------------------------------------------------
 MATCHBOOK: skipped (switched off for this run)
