@@ -1,2 +1,2 @@
-# 02.11 17:37 scan, run 2 (team id for Rakow)
-id:3491 v Pogon Szczecin | n=20 | xg=10
+# 02.11 18:12 scan, run 1
+Reims v Sochaux | n=20 | xg=10
