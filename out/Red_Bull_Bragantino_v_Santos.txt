@@ -1,0 +1,33 @@
+MATCH Red Bull Bragantino v Santos | fetched 2026-11-02 19:59 local
+
+FORM DATA Red Bull Bragantino v Santos | source API-Football | 2026-11-02 19:59 UTC
+H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
+
+"Santos" matches several teams. Use id:<number> instead of the name:
+  id:128    Santos (Brazil)
+  id:824    Santos DE Guapiles (Costa-Rica)
+  id:1811   Santos W (Brazil)
+  id:2285   Santos Laguna (Mexico)
+  id:2674   Santos FC (South-Africa)
+  id:4226   Santos (Peru)
+  id:5598   UF Santos (Botswana)
+  id:7785   Santos AP (Brazil)
+  id:12233  Santos (Suriname)
+  id:13055  Santos U20 (Brazil)
+  id:13827  Tartu Santos (Estonia)
+  id:14883  Santos Laguna W (Mexico)
+  id:16056  Santos U23 (Brazil)
+  id:17339  Santos Laguna U20 (Mexico)
+  id:17734  Santos B (Brazil)
+  id:21555  Santos Laguna U23 (Mexico)
+  id:24486  Santos U17 (Brazil)
+  id:25002  Santos PA (Brazil)
+  id:26841  Santos Laguna U21 (Mexico)
+!! Red Bull Bragantino: No team found for "Red Bull Bragantino".
+
+!! Santos: Ambiguous team name "Santos".
+
+(2 API-Football requests used)
+
+----------------------------------------------------------------------
+MATCHBOOK: skipped (switched off for this run)

@@ -1,3 +1,5 @@
-RUN 2026-11-02 18:44 local | 1 match(es)
-Red Star FC 93 v Nancy -> out/Red_Star_FC_93_v_Nancy.txt
-Requests used: API-Football 25, Matchbook 0
+RUN 2026-11-02 19:59 local | 1 match(es)
+Red Bull Bragantino v Santos -> out/Red_Bull_Bragantino_v_Santos.txt
+    !! Red Bull Bragantino: No team found for "Red Bull Bragantino".
+    !! Santos: Ambiguous team name "Santos".
+Requests used: API-Football 2, Matchbook 0
