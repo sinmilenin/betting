@@ -1,4 +1,2 @@
-# 02.11 16:02 scan, run 3 (team ids/names)
-Al Nasar v id:3541 | n=20 | xg=10
-Wasl v Al Quwa Al Jawiya | n=20 | xg=10
-id:465 v Patronato | n=20 | xg=10
+# 02.11 16:02 scan, run 4 (team id)
+id:2872 v Al Quwa Al Jawiya | n=20 | xg=10
