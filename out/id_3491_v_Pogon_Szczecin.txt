@@ -1,13 +1,33 @@
-MATCH Rakow Czestochowa v Pogon Szczecin | fetched 2026-11-02 16:39 local
+MATCH id:3491 v Pogon Szczecin | fetched 2026-11-02 16:40 local
 
-FORM DATA Rakow Czestochowa v Pogon Szczecin | source API-Football | 2026-11-02 16:39 UTC
+FORM DATA id:3491 v Pogon Szczecin | source API-Football | 2026-11-02 16:40 UTC
 H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
 
-"Rakow Czestochowa" matches several teams. Use id:<number> instead of the name:
-  id:3491   Raków Częstochowa (Poland)
-  id:17362  Raków Częstochowa U18 (Poland)
-  id:19622  Raków Częstochowa II (Poland)
-  id:20594  Raków Częstochowa U19 (Poland)
+=== Raków Częstochowa (id 3491): last 20 finished games ===
+2026-10-27 A 1-1 v Motor Lublin | Cup | Lublin [PEN, 90-min score shown]
+2026-10-24 A 1-2 v Wisla Krakow | Ekstraklasa | Krakow | xG 1.95-1.01
+2026-10-16 A 2-1 v Wieczysta Kraków | Ekstraklasa | ? | xG 2.66-1.53
+2026-10-09 H 1-4 v GKS Katowice | Ekstraklasa | Czestochowa | xG 1.12-2.52
+2026-10-02 H 4-1 v Polonia Bytom | Friendlies Clubs | ?
+2026-09-19 A 2-3 v Korona Kielce | Ekstraklasa | Kielce | xG 1.79-3.46
+2026-09-15 H 2-3 v Zaglebie Lubin | Ekstraklasa | Czestochowa | xG 2.17-1.38
+2026-09-11 H 2-1 v Motor Lublin | Ekstraklasa | Czestochowa | xG 1.02-1.79
+2026-09-06 A 0-1 v Lech Poznan | Ekstraklasa | Poznan | xG 0.40-2.84
+2026-09-03 H 1-2 v Gornik Zabrze | Ekstraklasa | Czestochowa | xG 0.84-2.22
+2026-08-30 H 2-5 v Jagiellonia | Ekstraklasa | Czestochowa
+2026-08-27 H 2-2 v HNK Hajduk Split | UEFA Europa Conference League | Czestochowa [AET, 90-min score shown]
+2026-08-20 A 2-2 v HNK Hajduk Split | UEFA Europa Conference League | Split
+2026-08-16 A 1-2 v Cracovia Krakow | Ekstraklasa | Kraków
+2026-08-13 A 1-0 v Hammarby FF | UEFA Europa Conference League | Stockholm
+2026-08-06 H 0-0 v Hammarby FF | UEFA Europa Conference League | Czestochowa
+2026-08-02 A 1-2 v Slask Wroclaw | Ekstraklasa | Wroclaw
+2026-07-30 A 4-0 v Valletta FC | UEFA Europa Conference League | Ta' Qali
+2026-07-26 H 1-2 v Wisla Plock | Ekstraklasa | Czestochowa
+2026-07-23 H 3-1 v Valletta FC | UEFA Europa Conference League | Czestochowa
+Listed home: 10 games, scored 18 (1.80), conceded 21 (2.10), blanks 1, clean sheets 1
+Listed away: 10 games, scored 15 (1.50), conceded 14 (1.40), blanks 1, clean sheets 2
+All: 20 games, scored 33 (1.65), conceded 35 (1.75), blanks 2, clean sheets 3
+
 === Pogon Szczecin (id 348): last 20 finished games ===
 2026-10-24 H 4-3 v Radomiak Radom | Ekstraklasa | Szczecin | xG 1.02-1.94
 2026-10-17 A 1-0 v GKS Katowice | Ekstraklasa | Katowice | xG 2.03-0.92
@@ -33,15 +53,7 @@ Listed home: 10 games, scored 18 (1.80), conceded 11 (1.10), blanks 1, clean she
 Listed away: 10 games, scored 10 (1.00), conceded 10 (1.00), blanks 4, clean sheets 5
 All: 20 games, scored 28 (1.40), conceded 21 (1.05), blanks 5, clean sheets 7
 
-(retrying Rakow Czestochowa using the opponent's country, Poland)
-"Rakow Czestochowa" matches several teams. Use id:<number> instead of the name:
-  id:3491   Raków Częstochowa (Poland)
-  id:17362  Raków Częstochowa U18 (Poland)
-  id:19622  Raków Częstochowa II (Poland)
-  id:20594  Raków Częstochowa U19 (Poland)
-!! Rakow Czestochowa: Ambiguous team name "Rakow Czestochowa".
-
-TABLE FOR Pogon Szczecin
+TABLE FOR Raków Częstochowa
 LEAGUE TABLE Ekstraklasa 2026 | 18 teams | 112 games played
 League averages per game: home 1.66, away 1.32, total 2.98
 #   team                   Pts | home P GF-GA  | away P GF-GA  | all P GF-GA
@@ -64,7 +76,9 @@ League averages per game: home 1.66, away 1.32, total 2.98
 17  Radomiak Radom           8 |  6   7-10      |  6   5-18      | 12  12-28
 18  Raków Częstochowa        6 |  6   9-17      |  6   7-11      | 12  16-28
 
-(15 API-Football requests used)
+(Pogon Szczecin: same table as Raków Częstochowa, shown above)
+
+(26 API-Football requests used)
 
 ----------------------------------------------------------------------
 MATCHBOOK: skipped (switched off for this run)
