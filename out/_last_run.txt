@@ -1,5 +1,11 @@
-RUN 2026-11-02 12:47 local | 3 match(es)
-VPS v id:649 -> out/VPS_v_id_649.txt
-Gil Vicente v Vitoria SC -> out/Gil_Vicente_v_Vitoria_SC.txt
-Hull City U21 v Derby County U21 -> out/Hull_City_U21_v_Derby_County_U21.txt
-Requests used: API-Football 78, Matchbook 0
+RUN 2026-11-02 14:09 local | 5 match(es)
+Sumqayit v Shafa Baku -> out/Sumqayit_v_Shafa_Baku.txt
+    !! Sumqayit: No team found for "Sumqayit".
+    !! Shafa Baku: No team found for "Shafa Baku".
+FC Voluntari v Farul Constanta -> out/FC_Voluntari_v_Farul_Constanta.txt
+Inter Turku v Gnistan -> out/Inter_Turku_v_Gnistan.txt
+Atromitos v Volos -> out/Atromitos_v_Volos.txt
+    !! Volos: Ambiguous team name "Volos".
+Genclerbirligi v Alanyaspor -> out/Genclerbirligi_v_Alanyaspor.txt
+    !! Genclerbirligi: Ambiguous team name "Genclerbirligi".
+Requests used: API-Football 85, Matchbook 0

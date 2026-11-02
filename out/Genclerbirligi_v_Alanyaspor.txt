@@ -1,0 +1,76 @@
+MATCH Genclerbirligi v Alanyaspor | fetched 2026-11-02 14:09 local
+
+FORM DATA Genclerbirligi v Alanyaspor | source API-Football | 2026-11-02 14:09 UTC
+H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
+
+"Genclerbirligi" matches several teams. Use id:<number> instead of the name:
+  id:997    Gençlerbirliği S.K. (Turkey)
+  id:3586   Darıca Gençlerbirliği (Turkey)
+  id:13372  Sarıkamış Gençlerbirliği (Turkey)
+  id:13395  Tatvan Gençlerbirliği (Turkey)
+  id:13408  Ağrı Gençlerbirliği (Turkey)
+  id:13436  Iğdır Gençlerbirliğispor (Turkey)
+  id:28247  Genclerbirligi U19 (Turkey)
+=== Alanyaspor (id 996): last 20 finished games ===
+2026-10-27 H 4-1 v 12 Bingölspor | Türkiye Kupası | ?
+2026-10-23 H 1-2 v Kocaelispor | Süper Lig | Alanya | xG 0.79-1.69
+2026-10-17 A 0-3 v Fenerbahçe | Süper Lig | Istanbul | xG 0.96-3.84
+2026-10-10 H 0-0 v Erzurumspor FK | Süper Lig | Alanya | xG 0.98-1.69
+2026-09-19 A 2-1 v Çorum FK | Süper Lig | Corum | xG 1.18-1.11
+2026-09-12 H 2-2 v Göztepe | Süper Lig | Alanya | xG 1.72-1.79
+2026-09-07 A 1-0 v Rizespor | Süper Lig | Rize | xG 2.07-1.28
+2026-08-30 A 1-2 v Eyüpspor | Süper Lig | Istanbul | xG 0.66-1.48
+2026-08-23 H 1-0 v Beşiktaş | Süper Lig | Alanya | xG 0.54-0.74
+2026-08-15 A 1-1 v Gaziantep FK | Süper Lig | Gaziantep | xG 1.25-1.28
+2026-07-16 H 2-2 v Tikveš | Friendlies Clubs | ?
+2026-05-16 A 1-2 v Fatih Karagümrük | Süper Lig | Istanbul
+2026-05-09 H 3-1 v Kayserispor | Süper Lig | Alanya
+2026-05-03 A 0-0 v Antalyaspor | Süper Lig | Antalya
+2026-04-27 H 2-3 v Samsunspor | Süper Lig | Alanya
+2026-04-23 A 0-3 v Beşiktaş | Türkiye Kupası | Istanbul
+2026-04-19 A 0-1 v Kasımpaşa | Süper Lig | Istanbul
+2026-04-11 H 1-1 v Trabzonspor | Süper Lig | Alanya
+2026-04-04 A 1-1 v Gaziantep FK | Süper Lig | Gaziantep
+2026-03-18 H 5-0 v Kocaelispor | Süper Lig | Alanya
+Listed home: 10 games, scored 21 (2.10), conceded 12 (1.20), blanks 1, clean sheets 3
+Listed away: 10 games, scored 7 (0.70), conceded 14 (1.40), blanks 4, clean sheets 2
+All: 20 games, scored 28 (1.40), conceded 26 (1.30), blanks 5, clean sheets 5
+
+(retrying Genclerbirligi using the opponent's country, Turkey)
+"Genclerbirligi" matches several teams. Use id:<number> instead of the name:
+  id:997    Gençlerbirliği S.K. (Turkey)
+  id:3586   Darıca Gençlerbirliği (Turkey)
+  id:13372  Sarıkamış Gençlerbirliği (Turkey)
+  id:13395  Tatvan Gençlerbirliği (Turkey)
+  id:13408  Ağrı Gençlerbirliği (Turkey)
+  id:13436  Iğdır Gençlerbirliğispor (Turkey)
+  id:28247  Genclerbirligi U19 (Turkey)
+!! Genclerbirligi: Ambiguous team name "Genclerbirligi".
+
+TABLE FOR Alanyaspor
+LEAGUE TABLE Süper Lig 2026 | 18 teams | 89 games played
+League averages per game: home 1.70, away 1.28, total 2.98
+#   team                   Pts | home P GF-GA  | away P GF-GA  | all P GF-GA
+1   Galatasaray             25 |  5  11-6       |  5  12-6       | 10  23-12
+2   Amed                    23 |  6  19-4       |  4   6-7       | 10  25-11
+3   Trabzonspor             22 |  5  15-1       |  5   9-7       | 10  24-8
+4   Beşiktaş                19 |  5  14-3       |  5   6-9       | 10  20-12
+5   Kasımpaşa               17 |  5   9-6       |  5   6-5       | 10  15-11
+6   Fenerbahçe              16 |  5  17-6       |  5   7-4       | 10  24-10
+7   Çorum FK                16 |  4   6-4       |  6  15-12      | 10  21-16
+8   Kocaelispor             16 |  5   6-2       |  5   5-7       | 10  11-9
+9   Göztepe                 15 |  4   6-7       |  6  15-10      | 10  21-17
+10  Başakşehir              14 |  6  16-7       |  4   1-9       | 10  17-16
+11  Erzurumspor FK          14 |  5   5-7       |  5   4-8       | 10   9-15
+12  Alanyaspor              12 |  4   4-4       |  5   5-7       |  9   9-11
+13  Rizespor                11 |  4   3-10      |  6   8-5       | 10  11-15
+14  Konyaspor                8 |  6   4-7       |  4   2-6       | 10   6-13
+15  Gaziantep FK             8 |  5   3-9       |  5   6-8       | 10   9-17
+16  Gençlerbirliği S.K.      8 |  5   6-7       |  4   1-11      |  9   7-18
+17  Samsunspor               4 |  5   5-15      |  5   5-11      | 10  10-26
+18  Eyüpspor                 3 |  5   2-9       |  5   1-19      | 10   3-28
+
+(16 API-Football requests used)
+
+----------------------------------------------------------------------
+MATCHBOOK: skipped (switched off for this run)
