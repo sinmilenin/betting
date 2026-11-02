@@ -64,5 +64,27 @@
     "lay": 15,
     "stake": 3,
     "created": "2026-11-02T11:25:09Z"
+  },
+  {
+    "id": "2026-11-02_gil-vicente-guimaraes_2-2",
+    "date": "2026-11-02",
+    "ko": "21:15",
+    "match": "Gil Vicente v Guimaraes",
+    "comp": "Portugal, Portuguese Primeira Liga",
+    "cell": "2-2",
+    "lay": 18.5,
+    "stake": 3,
+    "created": "2026-11-02T12:52:00Z"
+  },
+  {
+    "id": "2026-11-02_ca-platense-central-cordoba-sde_2-1",
+    "date": "2026-11-02",
+    "ko": "23:00",
+    "match": "CA Platense v Central Cordoba (SdE)",
+    "comp": "Argentina, Argentinian Primera Division",
+    "cell": "2-1",
+    "lay": 10.0,
+    "stake": 3,
+    "created": "2026-11-02T12:52:00Z"
   }
 ]
