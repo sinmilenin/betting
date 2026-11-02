@@ -1,6 +1,6 @@
-MATCH Al Sadd v Al Ahli Jeddah | fetched 2026-11-02 15:15 local
+MATCH Al Sadd v Al Ahli | fetched 2026-11-02 15:16 local
 
-FORM DATA Al Sadd v Al Ahli Jeddah | source API-Football | 2026-11-02 15:15 UTC
+FORM DATA Al Sadd v Al Ahli | source API-Football | 2026-11-02 15:16 UTC
 H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
 
 === Al Sadd (id 2895): last 20 finished games ===
@@ -28,7 +28,34 @@ Listed home: 9 games, scored 23 (2.56), conceded 17 (1.89), blanks 1, clean shee
 Listed away: 11 games, scored 33 (3.00), conceded 23 (2.09), blanks 1, clean sheets 2
 All: 20 games, scored 56 (2.80), conceded 40 (2.00), blanks 2, clean sheets 2
 
-!! Al Ahli Jeddah: No team found for "Al Ahli Jeddah".
+"Al Ahli" matches several teams. Use id:<number> instead of the name:
+  id:2870   Shabab Al Ahli Dubai (United-Arab-Emirates)
+  id:2896   Al Ahli Doha (Qatar)
+  id:4529   Al Ahli (Jordan)
+  id:4568   Al Akhaa Al Ahli (Lebanon)
+  id:5234   Al Ahli Khartoum (Sudan)
+  id:5543   Al Ahli Wad Medani (Sudan)
+  id:5580   Al Ahli (Bahrain)
+  id:12423  Al Ahli Benghazi (Libya)
+  id:12424  Al Ahli Tripoli (Libya)
+  id:21186  Al Ahli Nabatiya (Lebanon)
+  id:23352  Al Ahli San'a (Yemen)
+  id:27712  Al Ahli SC W (Saudi-Arabia)
+(retrying Al Ahli using the opponent's country, Qatar)
+"Al Ahli" matches several teams. Use id:<number> instead of the name:
+  id:2870   Shabab Al Ahli Dubai (United-Arab-Emirates)
+  id:2896   Al Ahli Doha (Qatar)
+  id:4529   Al Ahli (Jordan)
+  id:4568   Al Akhaa Al Ahli (Lebanon)
+  id:5234   Al Ahli Khartoum (Sudan)
+  id:5543   Al Ahli Wad Medani (Sudan)
+  id:5580   Al Ahli (Bahrain)
+  id:12423  Al Ahli Benghazi (Libya)
+  id:12424  Al Ahli Tripoli (Libya)
+  id:21186  Al Ahli Nabatiya (Lebanon)
+  id:23352  Al Ahli San'a (Yemen)
+  id:27712  Al Ahli SC W (Saudi-Arabia)
+!! Al Ahli: Ambiguous team name "Al Ahli".
 
 TABLE FOR Al Sadd
 LEAGUE TABLE Stars League 2026 | 12 teams | 48 games played
@@ -47,7 +74,7 @@ League averages per game: home 1.71, away 1.81, total 3.52
 11  Qatar SC                 6 |  2   2-9       |  6   7-9       |  8   9-18
 12  Al-Sailiya               1 |  5   7-18      |  3   2-10      |  8   9-28
 
-(14 API-Football requests used)
+(15 API-Football requests used)
 
 ----------------------------------------------------------------------
 MATCHBOOK: skipped (switched off for this run)
