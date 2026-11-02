@@ -1,2 +1,2 @@
-# 02.11 17:29 scan, run 2 (team id for FC Oss)
-Heracles v id:423 | n=20 | xg=10
+# 02.11 17:37 scan, run 1
+Rakow Czestochowa v Pogon Szczecin | n=20 | xg=10
