@@ -1,4 +1,3 @@
-# 02.11 16:12 scan, run 1
-Al Sadd v Al Ahli Jeddah | n=20 | xg=10
-Karpaty v Kudrivka | n=20 | xg=10
-Landskrona v Orebro | n=20 | xg=10
+# 02.11 16:12 scan, run 2 (team ids / names)
+Landskrona v id:365 | n=20 | xg=10
+Al Sadd v Al Ahli | n=20 | xg=10
