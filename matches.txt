@@ -1,2 +1,2 @@
-# 02.11 20:57 night scan, run 1
-Red Bull Bragantino v Santos | n=20 | xg=10
+# 02.11 20:57 night scan, run 2
+Bragantino v id:128 | n=20 | xg=10
