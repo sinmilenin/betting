@@ -1,3 +1,4 @@
-# 02.11 19:04 scan, run 1
-Bournemouth U21 v Cardiff City U21 | n=20 | xg=10
-Gzira United v Marsaxlokk | n=20 | xg=10
+# 02.11 19:40 scan, run 1
+Jong FC Utrecht v FC Dordrecht | n=20 | xg=10
+Fortaleza v Atletico GO | n=20 | xg=10
+Red Star v Nancy | n=20 | xg=10
