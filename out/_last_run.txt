@@ -1,11 +1,7 @@
-RUN 2026-11-02 14:09 local | 5 match(es)
-Sumqayit v Shafa Baku -> out/Sumqayit_v_Shafa_Baku.txt
-    !! Sumqayit: No team found for "Sumqayit".
-    !! Shafa Baku: No team found for "Shafa Baku".
-FC Voluntari v Farul Constanta -> out/FC_Voluntari_v_Farul_Constanta.txt
-Inter Turku v Gnistan -> out/Inter_Turku_v_Gnistan.txt
-Atromitos v Volos -> out/Atromitos_v_Volos.txt
-    !! Volos: Ambiguous team name "Volos".
-Genclerbirligi v Alanyaspor -> out/Genclerbirligi_v_Alanyaspor.txt
-    !! Genclerbirligi: Ambiguous team name "Genclerbirligi".
-Requests used: API-Football 85, Matchbook 0
+RUN 2026-11-02 14:10 local | 3 match(es)
+Sumgayit v Shafa -> out/Sumgayit_v_Shafa.txt
+    !! Sumgayit: No team found for "Sumgayit".
+    !! Shafa: No team found for "Shafa".
+Atromitos v id:2110 -> out/Atromitos_v_id_2110.txt
+id:997 v Alanyaspor -> out/id_997_v_Alanyaspor.txt
+Requests used: API-Football 54, Matchbook 0

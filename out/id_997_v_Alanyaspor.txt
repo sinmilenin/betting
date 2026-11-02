@@ -1,16 +1,33 @@
-MATCH Genclerbirligi v Alanyaspor | fetched 2026-11-02 14:09 local
+MATCH id:997 v Alanyaspor | fetched 2026-11-02 14:10 local
 
-FORM DATA Genclerbirligi v Alanyaspor | source API-Football | 2026-11-02 14:09 UTC
+FORM DATA id:997 v Alanyaspor | source API-Football | 2026-11-02 14:10 UTC
 H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
 
-"Genclerbirligi" matches several teams. Use id:<number> instead of the name:
-  id:997    Gençlerbirliği S.K. (Turkey)
-  id:3586   Darıca Gençlerbirliği (Turkey)
-  id:13372  Sarıkamış Gençlerbirliği (Turkey)
-  id:13395  Tatvan Gençlerbirliği (Turkey)
-  id:13408  Ağrı Gençlerbirliği (Turkey)
-  id:13436  Iğdır Gençlerbirliğispor (Turkey)
-  id:28247  Genclerbirligi U19 (Turkey)
+=== Gençlerbirliği S.K. (id 997): last 20 finished games ===
+2026-10-29 H 5-0 v Karaköprü Belediyespor | Türkiye Kupası | ?
+2026-10-25 A 0-2 v Konyaspor | Süper Lig | Konya | xG 1.16-2.27
+2026-10-17 H 0-1 v Galatasaray | Süper Lig | Ankara | xG 1.74-1.92
+2026-10-10 H 2-2 v Amed | Süper Lig | Ankara | xG 0.50-2.16
+2026-10-03 H 0-1 v Keçiörengücü | Friendlies Clubs | ?
+2026-09-19 A 0-4 v Başakşehir | Süper Lig | Istanbul | xG 0.52-2.74
+2026-09-13 H 1-2 v Kasımpaşa | Süper Lig | Ankara | xG 1.16-1.32
+2026-09-06 A 0-5 v Trabzonspor | Süper Lig | Trabzon | xG 0.86-3.21
+2026-08-28 H 1-1 v Erzurumspor FK | Süper Lig | Ankara | xG 0.75-0.86
+2026-08-23 A 1-0 v Göztepe | Süper Lig | Izmir | xG 1.56-1.92
+2026-08-15 H 2-1 v Fenerbahçe | Süper Lig | Ankara
+2026-07-24 A 0-3 v Kasımpaşa | Friendlies Clubs | ?
+2026-05-17 A 3-0 v Trabzonspor | Süper Lig | Trabzon
+2026-05-13 H 1-2 v Trabzonspor | Türkiye Kupası | Ankara
+2026-05-09 H 3-2 v Kasımpaşa | Süper Lig | Ankara
+2026-05-03 A 0-1 v Fatih Karagümrük | Süper Lig | Istanbul
+2026-04-26 H 1-0 v Kocaelispor | Süper Lig | Ankara
+2026-04-22 A 2-0 v Galatasaray | Türkiye Kupası | Istanbul
+2026-04-18 H 1-2 v Galatasaray | Süper Lig | Ankara
+2026-04-11 A 0-3 v Başakşehir | Süper Lig | Istanbul
+Listed home: 11 games, scored 17 (1.55), conceded 14 (1.27), blanks 2, clean sheets 2
+Listed away: 9 games, scored 6 (0.67), conceded 18 (2.00), blanks 6, clean sheets 3
+All: 20 games, scored 23 (1.15), conceded 32 (1.60), blanks 8, clean sheets 5
+
 === Alanyaspor (id 996): last 20 finished games ===
 2026-10-27 H 4-1 v 12 Bingölspor | Türkiye Kupası | ?
 2026-10-23 H 1-2 v Kocaelispor | Süper Lig | Alanya | xG 0.79-1.69
@@ -36,18 +53,7 @@ Listed home: 10 games, scored 21 (2.10), conceded 12 (1.20), blanks 1, clean she
 Listed away: 10 games, scored 7 (0.70), conceded 14 (1.40), blanks 4, clean sheets 2
 All: 20 games, scored 28 (1.40), conceded 26 (1.30), blanks 5, clean sheets 5
 
-(retrying Genclerbirligi using the opponent's country, Turkey)
-"Genclerbirligi" matches several teams. Use id:<number> instead of the name:
-  id:997    Gençlerbirliği S.K. (Turkey)
-  id:3586   Darıca Gençlerbirliği (Turkey)
-  id:13372  Sarıkamış Gençlerbirliği (Turkey)
-  id:13395  Tatvan Gençlerbirliği (Turkey)
-  id:13408  Ağrı Gençlerbirliği (Turkey)
-  id:13436  Iğdır Gençlerbirliğispor (Turkey)
-  id:28247  Genclerbirligi U19 (Turkey)
-!! Genclerbirligi: Ambiguous team name "Genclerbirligi".
-
-TABLE FOR Alanyaspor
+TABLE FOR Gençlerbirliği S.K.
 LEAGUE TABLE Süper Lig 2026 | 18 teams | 89 games played
 League averages per game: home 1.70, away 1.28, total 2.98
 #   team                   Pts | home P GF-GA  | away P GF-GA  | all P GF-GA
@@ -70,7 +76,9 @@ League averages per game: home 1.70, away 1.28, total 2.98
 17  Samsunspor               4 |  5   5-15      |  5   5-11      | 10  10-26
 18  Eyüpspor                 3 |  5   2-9       |  5   1-19      | 10   3-28
 
-(16 API-Football requests used)
+(Alanyaspor: same table as Gençlerbirliği S.K., shown above)
+
+(26 API-Football requests used)
 
 ----------------------------------------------------------------------
 MATCHBOOK: skipped (switched off for this run)

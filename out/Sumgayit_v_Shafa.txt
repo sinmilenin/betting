@@ -1,11 +1,11 @@
-MATCH Sumqayit v Shafa Baku | fetched 2026-11-02 14:09 local
+MATCH Sumgayit v Shafa | fetched 2026-11-02 14:10 local
 
-FORM DATA Sumqayit v Shafa Baku | source API-Football | 2026-11-02 14:09 UTC
+FORM DATA Sumgayit v Shafa | source API-Football | 2026-11-02 14:10 UTC
 H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
 
-!! Sumqayit: No team found for "Sumqayit".
+!! Sumgayit: No team found for "Sumgayit".
 
-!! Shafa Baku: No team found for "Shafa Baku".
+!! Shafa: No team found for "Shafa".
 
 (2 API-Football requests used)
 
