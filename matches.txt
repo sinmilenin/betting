@@ -1,2 +1,4 @@
-# 02.11 16:02 scan, run 4 (team id)
-id:2872 v Al Quwa Al Jawiya | n=20 | xg=10
+# 02.11 16:12 scan, run 1
+Al Sadd v Al Ahli Jeddah | n=20 | xg=10
+Karpaty v Kudrivka | n=20 | xg=10
+Landskrona v Orebro | n=20 | xg=10
