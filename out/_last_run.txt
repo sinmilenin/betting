@@ -1,3 +1,4 @@
-RUN 2026-11-02 17:16 local | 1 match(es)
-Reims v Sochaux -> out/Reims_v_Sochaux.txt
-Requests used: API-Football 25, Matchbook 0
+RUN 2026-11-02 18:06 local | 2 match(es)
+Bournemouth U21 v Cardiff City U21 -> out/Bournemouth_U21_v_Cardiff_City_U21.txt
+Gzira United v Marsaxlokk -> out/Gzira_United_v_Marsaxlokk.txt
+Requests used: API-Football 51, Matchbook 0
