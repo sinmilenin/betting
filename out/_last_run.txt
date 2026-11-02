@@ -1,5 +1,4 @@
-RUN 2026-11-02 19:59 local | 1 match(es)
-Red Bull Bragantino v Santos -> out/Red_Bull_Bragantino_v_Santos.txt
-    !! Red Bull Bragantino: No team found for "Red Bull Bragantino".
-    !! Santos: Ambiguous team name "Santos".
-Requests used: API-Football 2, Matchbook 0
+RUN 2026-11-02 20:00 local | 1 match(es)
+Bragantino v id:128 -> out/Bragantino_v_id_128.txt
+    !! Bragantino: Ambiguous team name "Bragantino".
+Requests used: API-Football 15, Matchbook 0
