@@ -1,32 +1,32 @@
-MATCH Kryvbas v Dynamo Kyiv | fetched 2026-11-02 10:27 local
+MATCH Kryvbas KR v Dynamo Kyiv | fetched 2026-11-02 10:28 local
 
-FORM DATA Kryvbas v Dynamo Kyiv | source API-Football | 2026-11-02 10:27 UTC
+FORM DATA Kryvbas KR v Dynamo Kyiv | source API-Football | 2026-11-02 10:28 UTC
 H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
 
-=== Kryvbas (id 13248): last 20 finished games ===
-2022-07-17 H 0-1 v Inhulets | Friendlies Clubs | Krivoj Rog
-2022-07-12 H 1-1 v Oleksandria | Friendlies Clubs | Aleksandriya
-2021-07-11 H 3-0 v Kremin' | Friendlies Clubs | ?
-2013-05-18 H 3-2 v Karpaty | Premier League | ?
-2013-05-12 H 3-0 v Hoverla | Premier League | ?
-2013-05-04 A 1-1 v Arsenal Kyiv | Premier League | ?
-2013-04-28 H 1-1 v Metalurh Donetsk | Premier League | ?
-2013-04-20 A 0-2 v Metalurh Zaporizhya | Premier League | ?
-2013-04-13 H 2-0 v Tavriya | Premier League | ?
-2013-04-06 A 1-0 v FC Mariupol | Premier League | ?
-2013-03-31 H 1-1 v Metalist | Premier League | ?
-2013-03-17 A 2-1 v Dnipro Dnipropetrovsk | Premier League | ?
-2013-03-09 H 3-0 v Zorya Luhansk | Premier League | ?
-2013-03-03 A 1-1 v Dynamo Kyiv | Premier League | ?
-2012-11-30 H 0-2 v Shakhtar Donetsk | Premier League | ?
-2012-11-23 A 0-2 v Chornomorets | Premier League | ?
-2012-11-18 H 3-2 v Vorskla Poltava | Premier League | ?
-2012-11-10 H 1-0 v Volyn | Premier League | ?
-2012-11-04 A 0-6 v Karpaty | Premier League | ?
-2012-10-27 A 1-1 v Hoverla | Premier League | ?
-Listed home: 12 games, scored 21 (1.75), conceded 10 (0.83), blanks 2, clean sheets 5
-Listed away: 8 games, scored 6 (0.75), conceded 14 (1.75), blanks 3, clean sheets 1
-All: 20 games, scored 27 (1.35), conceded 24 (1.20), blanks 5, clean sheets 6
+=== Kryvbas KR (id 6489): last 20 finished games ===
+2026-10-29 A 1-1 v Zorya Luhansk | Cup | ? [PEN, 90-min score shown]
+2026-10-25 A 0-0 v Bukovyna | Premier League | Chernivtsi
+2026-10-18 H 0-3 v LNZ Cherkasy | Premier League | Kryvyj Rih
+2026-10-02 A 0-3 v Shakhtar Donetsk | Friendlies Clubs | ?
+2026-09-18 A 0-1 v Polessya | Premier League | Zhytomyr
+2026-09-08 A 2-0 v Olimpiya Savyntsi | Cup | ?
+2026-09-05 H 2-2 v Kolos Kovalivka | Premier League | Kryvyj Rih
+2026-08-30 A 0-1 v Chornomorets | Premier League | Odesa
+2026-08-22 A 3-0 v Rokyta | Cup | ?
+2026-08-15 H 1-1 v Livyi Bereh | Premier League | Kryvyj Rih
+2026-08-09 A 3-1 v Zorya Luhansk | Premier League | Kyiv
+2026-08-01 H 1-4 v Karpaty | Premier League | Kryvyj Rih
+2026-07-14 H 2-1 v Gent | Friendlies Clubs | ?
+2026-07-11 A 1-2 v Zulte Waregem | Friendlies Clubs | ?
+2026-07-07 H 2-4 v Lommel United | Friendlies Clubs | ?
+2026-07-01 A 1-2 v Chornomorets | Friendlies Clubs | ?
+2026-06-27 H 1-2 v Inhulets | Friendlies Clubs | ?
+2026-05-23 A 1-1 v Oleksandria | Premier League | Oleksandria
+2026-05-17 H 2-3 v Shakhtar Donetsk | Premier League | Kryvyj Rih
+2026-05-12 A 3-1 v Veres Rivne | Premier League | Rivne
+Listed home: 8 games, scored 11 (1.38), conceded 20 (2.50), blanks 1, clean sheets 0
+Listed away: 12 games, scored 15 (1.25), conceded 13 (1.08), blanks 4, clean sheets 3
+All: 20 games, scored 26 (1.30), conceded 33 (1.65), blanks 5, clean sheets 3
 
 === Dynamo Kyiv (id 572): last 20 finished games ===
 2026-10-27 A 0-3 v Shakhtar Donetsk | Cup | ?
@@ -53,28 +53,7 @@ Listed home: 10 games, scored 15 (1.50), conceded 8 (0.80), blanks 2, clean shee
 Listed away: 10 games, scored 10 (1.00), conceded 16 (1.60), blanks 5, clean sheets 3
 All: 20 games, scored 25 (1.25), conceded 24 (1.20), blanks 7, clean sheets 9
 
-TABLE FOR Kryvbas
-LEAGUE TABLE Premier League 2012 | 16 teams | 240 games played
-League averages per game: home 1.54, away 1.05, total 2.59
-#   team                   Pts | home P GF-GA  | away P GF-GA  | all P GF-GA
-1   Shakhtar Donetsk        79 | 15  48-7       | 15  34-11      | 30  82-18
-2   Metalist                66 | 15  31-10      | 15  28-15      | 30  59-25
-3   Dynamo Kyiv             62 | 15  30-9       | 15  25-14      | 30  55-23
-4   Dnipro Dnipropetrovsk   56 | 15  35-10      | 15  19-17      | 30  54-27
-5   Metalurh Donetsk        49 | 15  28-12      | 15  17-23      | 30  45-35
-6   Chornomorets            43 | 15  18-18      | 15  14-18      | 30  32-36
-7   Kryvbas                 43 | 15  25-12      | 15  11-29      | 30  36-41
-8   Arsenal Kyiv            39 | 15  20-14      | 15  14-27      | 30  34-41
-9   FC Mariupol             38 | 15  12-10      | 15  18-22      | 30  30-32
-10  Zorya Luhansk           37 | 15  22-24      | 15  10-19      | 30  32-43
-11  Tavriya                 32 | 15  18-17      | 15   9-29      | 30  27-46
-12  Vorskla Poltava         31 | 15  19-14      | 15  12-22      | 30  31-36
-13  Volyn                   29 | 15  14-21      | 15  12-24      | 30  26-45
-14  Karpaty                 27 | 15  24-19      | 15  13-33      | 30  37-52
-15  Hoverla                 22 | 15  17-23      | 15  12-34      | 30  29-57
-16  Metalurh Zaporizhya     11 | 15   9-31      | 15   3-33      | 30  12-64
-
-TABLE FOR Dynamo Kyiv
+TABLE FOR Kryvbas KR
 LEAGUE TABLE Premier League 2026 | 16 teams | 78 games played
 League averages per game: home 1.38, away 1.03, total 2.41
 #   team                   Pts | home P GF-GA  | away P GF-GA  | all P GF-GA
@@ -95,7 +74,9 @@ League averages per game: home 1.38, away 1.03, total 2.41
 15  Kryvbas KR               6 |  4   4-10      |  4   3-3       |  8   7-13
 16  Kudrivka                 5 |  4   6-7       |  6   5-17      | 10  11-24
 
-(27 API-Football requests used)
+(Dynamo Kyiv: same table as Kryvbas KR, shown above)
+
+(26 API-Football requests used)
 
 ----------------------------------------------------------------------
 MATCHBOOK: skipped (switched off for this run)
