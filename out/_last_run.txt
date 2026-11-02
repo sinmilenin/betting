@@ -1,4 +1,3 @@
-RUN 2026-11-02 20:00 local | 1 match(es)
-Bragantino v id:128 -> out/Bragantino_v_id_128.txt
-    !! Bragantino: Ambiguous team name "Bragantino".
-Requests used: API-Football 15, Matchbook 0
+RUN 2026-11-02 20:01 local | 1 match(es)
+id:794 v id:128 -> out/id_794_v_id_128.txt
+Requests used: API-Football 25, Matchbook 0

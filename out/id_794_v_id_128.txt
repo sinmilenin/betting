@@ -1,17 +1,33 @@
-MATCH Bragantino v id:128 | fetched 2026-11-02 20:00 local
+MATCH id:794 v id:128 | fetched 2026-11-02 20:01 local
 
-FORM DATA Bragantino v id:128 | source API-Football | 2026-11-02 20:00 UTC
+FORM DATA id:794 v id:128 | source API-Football | 2026-11-02 20:01 UTC
 H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
 
-"Bragantino" matches several teams. Use id:<number> instead of the name:
-  id:794    RB Bragantino (Brazil)
-  id:2207   Bragantino PA (Brazil)
-  id:12955  Bragantino PA U20 (Brazil)
-  id:16053  RB Bragantino U23 (Brazil)
-  id:18345  RB Bragantino U20 (Brazil)
-  id:18728  RB Bragantino W (Brazil)
-  id:22211  RB Bragantino B (Brazil)
-  id:24485  RB Bragantino U17 (Brazil)
+=== RB Bragantino (id 794): last 20 finished games ===
+2026-10-28 H 3-0 v Chapecoense-sc | Serie A | Bragança Paulista | xG 2.55-0.77
+2026-10-24 A 0-2 v Palmeiras | Serie A | Barueri | xG 0.42-3.35
+2026-10-18 A 1-1 v Remo | Serie A | Belem | xG 2.52-1.50
+2026-10-13 H 4-2 v Cruzeiro | Serie A | Bragança Paulista | xG 2.78-2.74
+2026-10-07 H 1-1 v Mirassol | Serie A | Bragança Paulista | xG 2.56-1.19
+2026-10-03 A 0-1 v Atletico-MG | Serie A | Belo Horizonte | xG 1.75-0.58
+2026-09-20 A 1-2 v Flamengo | Serie A | Rio de Janeiro | xG 0.76-2.94
+2026-09-12 A 1-1 v Botafogo | Serie A | Rio de Janeiro | xG 0.80-1.39
+2026-09-05 H 2-3 v Bahia | Serie A | Bragança Paulista | xG 1.65-2.36
+2026-08-29 A 1-2 v Sao Paulo | Serie A | Sao Paulo | xG 0.47-1.55
+2026-08-23 H 1-0 v Gremio | Serie A | Bragança Paulista
+2026-08-19 A 2-2 v Atletico-MG | CONMEBOL Sudamericana | Belo Horizonte
+2026-08-15 A 1-1 v Atletico Paranaense | Serie A | Curitiba
+2026-08-12 H 0-1 v Atletico-MG | CONMEBOL Sudamericana | Braganza
+2026-08-09 H 0-2 v Corinthians | Serie A | Bragança Paulista
+2026-07-30 H 1-0 v Sporting Cristal | CONMEBOL Sudamericana | Braganza
+2026-07-26 H 0-0 v Coritiba | Serie A | Bragança Paulista
+2026-07-23 A 0-0 v Sporting Cristal | CONMEBOL Sudamericana | Lima
+2026-07-17 A 1-1 v Fluminense | Serie A | Rio de Janeiro
+2026-07-11 H 2-1 v Atletico Paranaense | Friendlies Clubs | ?
+Listed home: 10 games, scored 14 (1.40), conceded 10 (1.00), blanks 3, clean sheets 4
+Listed away: 10 games, scored 8 (0.80), conceded 13 (1.30), blanks 3, clean sheets 1
+All: 20 games, scored 22 (1.10), conceded 23 (1.15), blanks 6, clean sheets 5
+
 === Santos (id 128): last 20 finished games ===
 2026-10-28 H 0-0 v Palmeiras | Serie A | Sao Paulo | xG 1.60-1.85
 2026-10-25 H 1-1 v Bahia | Serie A | Santos | xG 2.56-1.77
@@ -37,19 +53,7 @@ Listed home: 9 games, scored 10 (1.11), conceded 8 (0.89), blanks 3, clean sheet
 Listed away: 11 games, scored 17 (1.55), conceded 14 (1.27), blanks 2, clean sheets 4
 All: 20 games, scored 27 (1.35), conceded 22 (1.10), blanks 5, clean sheets 7
 
-(retrying Bragantino using the opponent's country, Brazil)
-"Bragantino" matches several teams. Use id:<number> instead of the name:
-  id:794    RB Bragantino (Brazil)
-  id:2207   Bragantino PA (Brazil)
-  id:12955  Bragantino PA U20 (Brazil)
-  id:16053  RB Bragantino U23 (Brazil)
-  id:18345  RB Bragantino U20 (Brazil)
-  id:18728  RB Bragantino W (Brazil)
-  id:22211  RB Bragantino B (Brazil)
-  id:24485  RB Bragantino U17 (Brazil)
-!! Bragantino: Ambiguous team name "Bragantino".
-
-TABLE FOR Santos
+TABLE FOR RB Bragantino
 LEAGUE TABLE Serie A 2026 | 20 teams | 329 games played
 League averages per game: home 1.53, away 1.13, total 2.66
 #   team                   Pts | home P GF-GA  | away P GF-GA  | all P GF-GA
@@ -74,7 +78,9 @@ League averages per game: home 1.53, away 1.13, total 2.66
 19  Remo                    29 | 17  22-22      | 16  14-29      | 33  36-51
 20  Chapecoense-sc          21 | 15  21-34      | 17  11-32      | 32  32-66
 
-(15 API-Football requests used)
+(Santos: same table as RB Bragantino, shown above)
+
+(25 API-Football requests used)
 
 ----------------------------------------------------------------------
 MATCHBOOK: skipped (switched off for this run)
