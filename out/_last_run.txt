@@ -1,3 +1,6 @@
-RUN 2026-11-02 15:17 local | 1 match(es)
-Al Sadd v id:2929 -> out/Al_Sadd_v_id_2929.txt
-Requests used: API-Football 26, Matchbook 0
+RUN 2026-11-02 16:31 local | 3 match(es)
+Universitatea Cluj v FCSB -> out/Universitatea_Cluj_v_FCSB.txt
+Heracles v Oss -> out/Heracles_v_Oss.txt
+    !! Oss: Ambiguous team name "Oss".
+Jong PSV v NAC Breda -> out/Jong_PSV_v_NAC_Breda.txt
+Requests used: API-Football 67, Matchbook 0
