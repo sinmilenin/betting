@@ -1,4 +1,6 @@
-# 02.11 13:40 scan, top-20 run 2 (team names: HJK id, Vitoria SC, Derby County U21)
-VPS v id:649 | n=20 | xg=10
-Gil Vicente v Vitoria SC | n=20 | xg=10
-Hull City U21 v Derby County U21 | n=20 | xg=10
+# 02.11 15:07 scan, run 1
+Sumqayit v Shafa Baku | n=20 | xg=10
+FC Voluntari v Farul Constanta | n=20 | xg=10
+Inter Turku v Gnistan | n=20 | xg=10
+Atromitos v Volos | n=20 | xg=10
+Genclerbirligi v Alanyaspor | n=20 | xg=10
