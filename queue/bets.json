@@ -119,5 +119,60 @@
     "lay": 17.5,
     "stake": 3,
     "created": "2026-11-02T14:15:00Z"
+  },
+  {
+    "id": "2026-11-02_al-nasar-kuw-al-shabab_0-1",
+    "date": "2026-11-02",
+    "ko": "16:45",
+    "match": "Al Nasar (KUW) v Al-Shabab",
+    "comp": "Kuwait, Kuwaiti Premier League",
+    "cell": "0-1",
+    "lay": 18.0,
+    "stake": 3,
+    "created": "2026-11-02T15:09:52+00:00"
+  },
+  {
+    "id": "2026-11-02_kalamata-iraklis_2-2",
+    "date": "2026-11-02",
+    "ko": "18:30",
+    "match": "Kalamata v Iraklis",
+    "comp": "Greece, Greek Super League",
+    "cell": "2-2",
+    "lay": 18.5,
+    "stake": 3,
+    "created": "2026-11-02T15:09:52+00:00"
+  },
+  {
+    "id": "2026-11-02_arda-septemvri_0-1",
+    "date": "2026-11-02",
+    "ko": "18:30",
+    "match": "Arda v Septemvri",
+    "comp": "Bulgaria, Bulgarian A League",
+    "cell": "0-1",
+    "lay": 16.5,
+    "stake": 3,
+    "created": "2026-11-02T15:09:52+00:00"
+  },
+  {
+    "id": "2026-11-02_arda-septemvri_1-0",
+    "date": "2026-11-02",
+    "ko": "18:30",
+    "match": "Arda v Septemvri",
+    "comp": "Bulgaria, Bulgarian A League",
+    "cell": "1-0",
+    "lay": 6.8,
+    "stake": 3,
+    "created": "2026-11-02T15:09:52+00:00"
+  },
+  {
+    "id": "2026-11-02_mjallby-kalmar-ff_2-2",
+    "date": "2026-11-02",
+    "ko": "19:00",
+    "match": "Mjallby v Kalmar FF",
+    "comp": "Sweden, Swedish Allsvenskan",
+    "cell": "2-2",
+    "lay": 17.0,
+    "stake": 3,
+    "created": "2026-11-02T15:09:52+00:00"
   }
 ]
