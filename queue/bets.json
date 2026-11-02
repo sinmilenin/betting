@@ -185,5 +185,38 @@
     "lay": 17.5,
     "stake": 3,
     "created": "2026-11-02T16:20:30+01:00"
+  },
+  {
+    "id": "2026-11-02_universitatea-cluj-fcsb_2-2",
+    "date": "2026-11-02",
+    "ko": "19:30",
+    "match": "Universitatea Cluj v FCSB",
+    "comp": "Romania, Romanian Liga I",
+    "cell": "2-2",
+    "lay": 14,
+    "stake": 3,
+    "created": "2026-11-02T17:35:02+01:00"
+  },
+  {
+    "id": "2026-11-02_universitatea-cluj-fcsb_1-0",
+    "date": "2026-11-02",
+    "ko": "19:30",
+    "match": "Universitatea Cluj v FCSB",
+    "comp": "Romania, Romanian Liga I",
+    "cell": "1-0",
+    "lay": 15.5,
+    "stake": 3,
+    "created": "2026-11-02T17:35:02+01:00"
+  },
+  {
+    "id": "2026-11-02_jong-psv-eindhoven-nac-breda_0-1",
+    "date": "2026-11-02",
+    "ko": "20:00",
+    "match": "Jong PSV Eindhoven v NAC Breda",
+    "comp": "Netherlands, Dutch Eerste Divisie",
+    "cell": "0-1",
+    "lay": 17,
+    "stake": 3,
+    "created": "2026-11-02T17:35:02+01:00"
   }
 ]
