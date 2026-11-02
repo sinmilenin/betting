@@ -1,0 +1,84 @@
+MATCH id:211 v Alverca | fetched 2026-11-02 06:46 local
+
+FORM DATA id:211 v Alverca | source API-Football | 2026-11-02 06:46 UTC
+H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
+
+=== Benfica (id 211): last 20 finished games ===
+2026-10-29 H 4-1 v GIL Vicente | Taça da Liga | Lisbon
+2026-10-26 A 2-1 v Santa Clara | Primeira Liga | Ponta Delgada | xG 1.83-1.60
+2026-10-22 A 4-1 v Omonia Nicosia | UEFA Europa League | Nicosia | xG 3.08-0.91
+2026-10-15 H 4-1 v Celtic | UEFA Europa League | Lisbon | xG 3.22-1.38
+2026-10-11 H 2-0 v Vitória SC | Primeira Liga | Lisbon | xG 2.76-0.43
+2026-09-20 A 1-3 v FC Porto | Primeira Liga | Porto | xG 0.84-1.30
+2026-09-16 A 2-0 v AC Milan | UEFA Europa League | Milano | xG 0.64-0.96
+2026-09-13 H 3-1 v GIL Vicente | Primeira Liga | Lisbon | xG 2.90-1.11
+2026-09-09 A 4-0 v Moreirense | Primeira Liga | Moreira de Conegos | xG 2.99-0.39
+2026-09-05 A 3-0 v Maritimo | Primeira Liga | Funchal | xG 1.31-0.12
+2026-08-31 H 2-1 v Estoril | Primeira Liga | Lisbon
+2026-08-27 A 3-1 v Aarhus | UEFA Europa League | Randers
+2026-08-20 H 3-1 v Aarhus | UEFA Europa League | Lisbon
+2026-08-17 A 7-0 v Casa Pia | Primeira Liga | Rio Maior
+2026-08-13 A 1-1 v Heart Of Midlothian | UEFA Europa League | Edinburgh
+2026-08-09 H 2-2 v Academico Viseu | Primeira Liga | Lisbon
+2026-08-06 H 6-1 v Heart Of Midlothian | UEFA Europa League | Lisbon
+2026-07-30 H 5-0 v FC ST. Gallen | UEFA Europa League | Lisbon
+2026-07-24 H 5-1 v CF Os Belenenses | Friendlies Clubs | ?
+2026-07-23 A 1-2 v FC ST. Gallen | UEFA Europa League | St.Gallen
+Listed home: 10 games, scored 36 (3.60), conceded 9 (0.90), blanks 0, clean sheets 2
+Listed away: 10 games, scored 28 (2.80), conceded 9 (0.90), blanks 0, clean sheets 4
+All: 20 games, scored 64 (3.20), conceded 18 (0.90), blanks 0, clean sheets 6
+
+=== Alverca (id 4724): last 20 finished games ===
+2026-10-24 H 0-1 v Arouca | Primeira Liga | Alverca do Ribatejo | xG 0.39-2.04
+2026-10-18 A 0-0 v Tondela | Taça de Portugal | Tondela [AET, 90-min score shown]
+2026-10-12 A 4-1 v Famalicao | Primeira Liga | Vila Nova de Famalicao | xG 2.89-0.36
+2026-09-19 H 1-0 v Rio Ave | Primeira Liga | Alverca do Ribatejo | xG 3.30-0.29
+2026-09-12 A 3-1 v Nacional | Primeira Liga | Funchal | xG 1.16-2.20
+2026-09-05 H 1-2 v SC Braga | Primeira Liga | Alverca do Ribatejo | xG 1.08-2.27
+2026-08-29 H 1-1 v Santa Clara | Primeira Liga | Alverca do Ribatejo | xG 0.41-1.41
+2026-08-22 A 1-3 v Sporting CP | Primeira Liga | Lisbon | xG 0.41-2.12
+2026-08-15 H 2-2 v Estrela | Primeira Liga | Alverca do Ribatejo | xG 1.94-1.36
+2026-08-09 A 0-2 v FC Porto | Primeira Liga | Porto | xG 1.60-2.61
+2026-08-01 H 1-0 v Sporting CP B | Friendlies Clubs | ?
+2026-07-25 A 0-1 v Mafra | Friendlies Clubs | ?
+2026-07-22 H 2-0 v Estoril | Friendlies Clubs | ?
+2026-07-17 H 2-1 v CF Os Belenenses | Friendlies Clubs | ?
+2026-07-11 A 1-0 v União de Leiria | Friendlies Clubs | ?
+2026-05-16 A 0-1 v Famalicao | Primeira Liga | Vila Nova de Famalicao
+2026-05-10 H 1-1 v Estoril | Primeira Liga | Alverca do Ribatejo
+2026-05-02 A 0-1 v FC Porto | Primeira Liga | Porto
+2026-04-24 H 2-1 v Arouca | Primeira Liga | Alverca do Ribatejo
+2026-04-18 A 0-1 v Nacional | Primeira Liga | Funchal
+Listed home: 10 games, scored 13 (1.30), conceded 9 (0.90), blanks 1, clean sheets 3
+Listed away: 10 games, scored 9 (0.90), conceded 11 (1.10), blanks 6, clean sheets 2
+All: 20 games, scored 22 (1.10), conceded 20 (1.00), blanks 7, clean sheets 5
+
+TABLE FOR Benfica
+LEAGUE TABLE Primeira Liga 2026 | 18 teams | 88 games played
+League averages per game: home 1.31, away 1.42, total 2.73
+#   team                   Pts | home P GF-GA  | away P GF-GA  | all P GF-GA
+1   FC Porto                30 |  5  13-2       |  5  12-2       | 10  25-4
+2   Benfica                 22 |  4   9-4       |  5  17-4       |  9  26-8
+3   Sporting CP             21 |  5  11-7       |  5  12-4       | 10  23-11
+4   Santa Clara             21 |  5   8-4       |  5   7-2       | 10  15-6
+5   Arouca                  20 |  5   9-3       |  5   4-4       | 10  13-7
+6   Academico Viseu         20 |  5   6-7       |  5   9-5       | 10  15-12
+7   GIL Vicente             14 |  5   4-3       |  4   4-4       |  9   8-7
+8   SC Braga                14 |  5   7-5       |  5   5-6       | 10  12-11
+9   Moreirense              14 |  5   7-9       |  5   6-8       | 10  13-17
+10  Alverca                 11 |  5   5-6       |  4   8-7       |  9  13-13
+11  Famalicao               10 |  4   3-7       |  6  11-7       | 10  14-14
+12  Estrela                 10 |  5   6-9       |  5   9-10      | 10  15-19
+13  Vitória SC               8 |  5   7-2       |  4   3-8       |  9  10-10
+14  Maritimo                 8 |  5   4-9       |  5   5-12      | 10   9-21
+15  Nacional                 7 |  5   6-10      |  5   4-9       | 10  10-19
+16  Rio Ave                  7 |  5   6-15      |  5   3-8       | 10   9-23
+17  Casa Pia                 7 |  5   1-15      |  5   4-4       | 10   5-19
+18  Estoril                  2 |  5   3-8       |  5   2-11      | 10   5-19
+
+(Alverca: same table as Benfica, shown above)
+
+(26 API-Football requests used)
+
+----------------------------------------------------------------------
+MATCHBOOK: skipped (switched off for this run)

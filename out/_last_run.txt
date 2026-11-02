@@ -1,6 +1,4 @@
-RUN 2026-11-02 06:45 local | 4 match(es)
-Marko v Apollon Pontou -> out/Marko_v_Apollon_Pontou.txt
-All Boys v CA Estudiantes -> out/All_Boys_v_CA_Estudiantes.txt
-Lorient v id:106 -> out/Lorient_v_id_106.txt
-Platense v Central Cordoba -> out/Platense_v_Central_Cordoba.txt
-Requests used: API-Football 104, Matchbook 0
+RUN 2026-11-02 06:46 local | 2 match(es)
+id:211 v Alverca -> out/id_211_v_Alverca.txt
+Tenerife v FC Andorra -> out/Tenerife_v_FC_Andorra.txt
+Requests used: API-Football 52, Matchbook 0
