@@ -1,3 +1,2 @@
-# 02.11 19:40 scan, run 2
-id:154 v id:144 | n=20 | xg=10
-Jong Utrecht v Dordrecht | n=20 | xg=10
+# 02.11 19:40 scan, run 3
+Red Star FC 93 v Nancy | n=20 | xg=10
