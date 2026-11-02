@@ -251,5 +251,60 @@
     "lay": 16.5,
     "stake": 3,
     "created": "2026-11-02T19:09:04+01:00"
+  },
+  {
+    "id": "2026-11-02_jong-fc-utrecht-fc-dordrecht_1-0",
+    "date": "2026-11-02",
+    "ko": "20:00",
+    "match": "Jong FC Utrecht v FC Dordrecht",
+    "comp": "Netherlands, Dutch Eerste Divisie",
+    "cell": "1-0",
+    "lay": 15.5,
+    "stake": 3,
+    "created": "2026-11-02T19:48:07+01:00"
+  },
+  {
+    "id": "2026-11-02_jong-fc-utrecht-fc-dordrecht_0-1",
+    "date": "2026-11-02",
+    "ko": "20:00",
+    "match": "Jong FC Utrecht v FC Dordrecht",
+    "comp": "Netherlands, Dutch Eerste Divisie",
+    "cell": "0-1",
+    "lay": 19.5,
+    "stake": 3,
+    "created": "2026-11-02T19:48:07+01:00"
+  },
+  {
+    "id": "2026-11-02_fortaleza-ec-atletico-go_0-1",
+    "date": "2026-11-02",
+    "ko": "20:00",
+    "match": "Fortaleza EC v Atletico GO",
+    "comp": "Brazil, Brazilian Serie B",
+    "cell": "0-1",
+    "lay": 13,
+    "stake": 3,
+    "created": "2026-11-02T19:48:07+01:00"
+  },
+  {
+    "id": "2026-11-02_fortaleza-ec-atletico-go_1-0",
+    "date": "2026-11-02",
+    "ko": "20:00",
+    "match": "Fortaleza EC v Atletico GO",
+    "comp": "Brazil, Brazilian Serie B",
+    "cell": "1-0",
+    "lay": 9,
+    "stake": 3,
+    "created": "2026-11-02T19:48:07+01:00"
+  },
+  {
+    "id": "2026-11-02_red-star-nancy_2-2",
+    "date": "2026-11-02",
+    "ko": "20:45",
+    "match": "Red Star v Nancy",
+    "comp": "France, French Ligue 2",
+    "cell": "2-2",
+    "lay": 17.5,
+    "stake": 3,
+    "created": "2026-11-02T19:48:07+01:00"
   }
 ]
