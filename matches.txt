@@ -1,3 +1,2 @@
-# 02.11 16:12 scan, run 2 (team ids / names)
-Landskrona v id:365 | n=20 | xg=10
-Al Sadd v Al Ahli | n=20 | xg=10
+# 02.11 16:12 scan, run 3 (team id)
+Al Sadd v id:2929 | n=20 | xg=10
