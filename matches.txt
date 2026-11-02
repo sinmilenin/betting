@@ -1,2 +1,4 @@
-# 02.11 16:12 scan, run 3 (team id)
-Al Sadd v id:2929 | n=20 | xg=10
+# 02.11 17:29 scan, run 1
+Universitatea Cluj v FCSB | n=20 | xg=10
+Heracles v Oss | n=20 | xg=10
+Jong PSV v NAC Breda | n=20 | xg=10
