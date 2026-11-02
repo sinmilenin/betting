@@ -1,3 +1,4 @@
-RUN 2026-11-02 16:32 local | 1 match(es)
-Heracles v id:423 -> out/Heracles_v_id_423.txt
-Requests used: API-Football 26, Matchbook 0
+RUN 2026-11-02 16:39 local | 1 match(es)
+Rakow Czestochowa v Pogon Szczecin -> out/Rakow_Czestochowa_v_Pogon_Szczecin.txt
+    !! Rakow Czestochowa: Ambiguous team name "Rakow Czestochowa".
+Requests used: API-Football 15, Matchbook 0
