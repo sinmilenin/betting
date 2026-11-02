@@ -1,21 +1,6 @@
-RUN 2026-11-02 06:43 local | 14 match(es)
-Tenerife v Andorra -> out/Tenerife_v_Andorra.txt
-Marko v Apollon Kalamarias -> out/Marko_v_Apollon_Kalamarias.txt
-    !! Apollon Kalamarias: No team found for "Apollon Kalamarias".
-Pakhtakor v Al Nassr -> out/Pakhtakor_v_Al_Nassr.txt
-Oviedo v Las Palmas -> out/Oviedo_v_Las_Palmas.txt
-All Boys v Estudiantes Caseros -> out/All_Boys_v_Estudiantes_Caseros.txt
-    !! Estudiantes Caseros: No team found for "Estudiantes Caseros".
-Valladolid v Leganes -> out/Valladolid_v_Leganes.txt
-Sassuolo v Fiorentina -> out/Sassuolo_v_Fiorentina.txt
-Al Ahly v Al Mokawloon -> out/Al_Ahly_v_Al_Mokawloon.txt
-Lorient v Brest -> out/Lorient_v_Brest.txt
-    !! Brest: Ambiguous team name "Brest".
-Atalanta v Parma -> out/Atalanta_v_Parma.txt
-Newcastle v Everton -> out/Newcastle_v_Everton.txt
-Deportivo La Coruna v Osasuna -> out/Deportivo_La_Coruna_v_Osasuna.txt
-Benfica v Alverca -> out/Benfica_v_Alverca.txt
+RUN 2026-11-02 06:45 local | 4 match(es)
+Marko v Apollon Pontou -> out/Marko_v_Apollon_Pontou.txt
+All Boys v CA Estudiantes -> out/All_Boys_v_CA_Estudiantes.txt
+Lorient v id:106 -> out/Lorient_v_id_106.txt
 Platense v Central Cordoba -> out/Platense_v_Central_Cordoba.txt
-    !! Platense: API-Football error: HTTP 429 from API-Football
-    !! Central Cordoba: API-Football error: HTTP 429 from API-Football
-Requests used: API-Football 300, Matchbook 0
+Requests used: API-Football 104, Matchbook 0

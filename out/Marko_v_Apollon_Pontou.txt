@@ -1,6 +1,6 @@
-MATCH Marko v Apollon Kalamarias | fetched 2026-11-02 06:43 local
+MATCH Marko v Apollon Pontou | fetched 2026-11-02 06:45 local
 
-FORM DATA Marko v Apollon Kalamarias | source API-Football | 2026-11-02 06:43 UTC
+FORM DATA Marko v Apollon Pontou | source API-Football | 2026-11-02 06:45 UTC
 H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
 
 === Marko (id 12403): last 20 finished games ===
@@ -28,7 +28,30 @@ Listed home: 12 games, scored 12 (1.00), conceded 9 (0.75), blanks 4, clean shee
 Listed away: 8 games, scored 14 (1.75), conceded 7 (0.88), blanks 3, clean sheets 3
 All: 20 games, scored 26 (1.30), conceded 16 (0.80), blanks 7, clean sheets 8
 
-!! Apollon Kalamarias: No team found for "Apollon Kalamarias".
+=== Apollon Pontou (id 2102): last 20 finished games ===
+2026-10-24 H 0-2 v Niki Volos | Super League 2 | ?
+2026-10-19 A 1-2 v PAOK II | Super League 2 | ?
+2026-10-11 H 1-0 v Pyrgos 1968 | Super League 2 | ?
+2026-10-05 A 1-1 v Zakynthos | Super League 2 | Zakynthos
+2026-09-27 H 1-0 v Anagennisi Karditsas | Super League 2 | ?
+2026-09-20 A 0-1 v Asteras Tripolis II | Super League 2 | ?
+2026-09-14 A 0-1 v Panionios | Super League 2 | ?
+2026-09-07 A 2-2 v Ellas Syros | Super League 2 | ?
+2026-08-19 A 0-1 v Nestos Chrisoupolis | Cup | ?
+2026-05-17 H 2-0 v Panthrakikos | Gamma Ethniki - Promotion Group | ?
+2026-05-13 A 0-0 v Elassona | Gamma Ethniki - Promotion Group | ?
+2026-05-10 H 3-2 v Ethnikos Neou Keramidiou | Gamma Ethniki - Promotion Group | ?
+2026-05-03 A 0-2 v Panthrakikos | Gamma Ethniki - Promotion Group | ?
+2026-04-29 H 2-1 v Elassona | Gamma Ethniki - Promotion Group | ?
+2026-04-26 A 3-2 v Ethnikos Neou Keramidiou | Gamma Ethniki - Promotion Group | ?
+2026-04-08 A 0-1 v Ethnikos Neou Keramidiou | Gamma Ethniki - Group 2 | ?
+2026-04-05 H 2-0 v Ermis Exochi | Gamma Ethniki - Group 2 | ?
+2026-04-01 A 3-0 v Alexandreia | Gamma Ethniki - Group 2 | ?
+2026-03-28 H 1-0 v Veria | Gamma Ethniki - Group 2 | ?
+2026-03-22 A 1-0 v Pierikos | Gamma Ethniki - Group 2 | ?
+Listed home: 8 games, scored 12 (1.50), conceded 5 (0.62), blanks 1, clean sheets 5
+Listed away: 12 games, scored 11 (0.92), conceded 13 (1.08), blanks 6, clean sheets 3
+All: 20 games, scored 23 (1.15), conceded 18 (0.90), blanks 7, clean sheets 8
 
 TABLE FOR Marko
 LEAGUE TABLE Super League 2 2026 | 16 teams | 71 games played
@@ -51,7 +74,9 @@ League averages per game: home 1.32, away 0.90, total 2.23
 15  Olympiakos Piraeus II    6 |  4   4-8       |  5   7-10      |  9  11-18
 16  Zakynthos                4 |  3   4-8       |  6   3-8       |  9   7-16
 
-(15 API-Football requests used)
+(Apollon Pontou: same table as Marko, shown above)
+
+(26 API-Football requests used)
 
 ----------------------------------------------------------------------
 MATCHBOOK: skipped (switched off for this run)
