@@ -1,2 +1,2 @@
-# 02.11 11:26 scan (Kryvbas v Dynamo Kiev)
-Kryvbas v Dynamo Kyiv | n=20 | xg=10
+# 02.11 11:26 scan, run 2 (Kryvbas KR name)
+Kryvbas KR v Dynamo Kyiv | n=20 | xg=10
