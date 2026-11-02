@@ -1,7 +1,13 @@
-RUN 2026-11-02 14:10 local | 3 match(es)
-Sumgayit v Shafa -> out/Sumgayit_v_Shafa.txt
-    !! Sumgayit: No team found for "Sumgayit".
-    !! Shafa: No team found for "Shafa".
-Atromitos v id:2110 -> out/Atromitos_v_id_2110.txt
-id:997 v Alanyaspor -> out/id_997_v_Alanyaspor.txt
-Requests used: API-Football 54, Matchbook 0
+RUN 2026-11-02 15:04 local | 6 match(es)
+Al Nasr v Al Shabab -> out/Al_Nasr_v_Al_Shabab.txt
+    !! Al Nasr: Ambiguous team name "Al Nasr".
+    !! Al Shabab: Ambiguous team name "Al Shabab".
+Al Wasl v Al Quwa Al Jawiya -> out/Al_Wasl_v_Al_Quwa_Al_Jawiya.txt
+Kalamata v Iraklis -> out/Kalamata_v_Iraklis.txt
+Arda v Septemvri Sofia -> out/Arda_v_Septemvri_Sofia.txt
+    !! Arda: Ambiguous team name "Arda".
+Mjallby v Kalmar -> out/Mjallby_v_Kalmar.txt
+    !! Kalmar: Ambiguous team name "Kalmar".
+Atletico Rafaela v Patronato -> out/Atletico_Rafaela_v_Patronato.txt
+    !! Atletico Rafaela: No team found for "Atletico Rafaela".
+Requests used: API-Football 99, Matchbook 0

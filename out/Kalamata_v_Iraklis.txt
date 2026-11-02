@@ -1,0 +1,99 @@
+MATCH Kalamata v Iraklis | fetched 2026-11-02 15:04 local
+
+FORM DATA Kalamata v Iraklis | source API-Football | 2026-11-02 15:04 UTC
+H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
+
+=== Kalamata (id 5046): last 20 finished games ===
+2026-10-28 A 2-0 v Nestos Chrisoupolis | Cup | Chrysoupoli
+2026-10-25 A 0-5 v Olympiakos Piraeus | Super League 1 | Piraeus | xG 0.00-0.00
+2026-10-18 H 4-3 v OFI | Super League 1 | Kalamata | xG 1.79-1.98
+2026-10-12 A 3-1 v PAOK | Super League 1 | Thessaloniki | xG 2.37-1.29
+2026-09-20 H 0-1 v Panathinaikos | Super League 1 | Kalamata | xG 1.16-1.72
+2026-09-17 H 1-1 v Larisa | Cup | Kalamata
+2026-09-13 H 3-1 v Volos NFC | Super League 1 | Peristeri | xG 2.25-0.76
+2026-09-06 A 1-1 v Atromitos | Super League 1 | Peristeri | xG 0.46-0.24
+2026-09-01 A 2-2 v Volos NFC | Cup | Volos
+2026-08-29 A 0-2 v Panetolikos | Super League 1 | Agrinio | xG 1.02-2.46
+2026-08-22 H 2-3 v Aris Thessalonikis | Super League 1 | Tripoli
+2026-08-19 H 4-2 v Panetolikos | Cup | Kalamata
+2026-08-10 A 2-0 v Volos NFC | Friendlies Clubs | ?
+2026-03-28 H 1-0 v Iraklis 1908 | Super League 2 | Athens
+2026-03-21 A 0-0 v Marko | Super League 2 | ?
+2026-03-15 H 1-0 v Olympiakos Piraeus II | Super League 2 | Kalamata
+2026-03-07 A 1-0 v Panionios | Super League 2 | ?
+2026-03-01 H 2-0 v Marko | Super League 2 | Kalamata
+2026-02-21 A 3-0 v Olympiakos Piraeus II | Super League 2 | ?
+2026-02-15 H 0-2 v Panionios | Super League 2 | Kalamata
+Listed home: 10 games, scored 18 (1.80), conceded 13 (1.30), blanks 2, clean sheets 3
+Listed away: 10 games, scored 14 (1.40), conceded 11 (1.10), blanks 3, clean sheets 5
+All: 20 games, scored 32 (1.60), conceded 24 (1.20), blanks 5, clean sheets 8
+
+=== Iraklis (id 2109): last 20 finished games ===
+2019-05-05 A 1-2 v Platanias | Football League | ?
+2019-04-22 H 2-0 v Volos NFC | Football League | ?
+2019-04-17 H 1-0 v Trikala | Football League | ?
+2019-04-13 A 1-1 v Ergotelis | Football League | ?
+2019-04-06 H 0-0 v Kissamikos | Football League | ?
+2019-03-31 A 1-0 v Apollon Pontou | Football League | ?
+2019-03-28 H 0-0 v Doxa Dramas | Football League | ?
+2019-03-24 A 0-1 v AE Karaiskakis | Football League | ?
+2019-03-17 H 2-1 v Aittitos Spaton | Football League | ?
+2019-03-10 A 1-0 v Sparti | Football League | ?
+2019-03-06 A 0-1 v Apollon Larissa FC | Football League | ?
+2019-03-03 H 0-0 v Panachaiki FC | Football League | ?
+2019-02-24 A 0-1 v Aiginiakos | Football League | ?
+2019-02-17 H 1-1 v AOK Kerkyra | Football League | ?
+2019-02-10 A 1-1 v Irodotos | Football League | ?
+2019-02-02 H 2-2 v Platanias | Football League | ?
+2019-01-26 A 2-0 v Volos NFC | Football League | ?
+2019-01-20 A 0-0 v Trikala | Football League | ?
+2019-01-13 H 2-1 v Ergotelis | Football League | ?
+2019-01-05 A 1-0 v Kissamikos | Football League | ?
+Listed home: 9 games, scored 10 (1.11), conceded 5 (0.56), blanks 3, clean sheets 5
+Listed away: 11 games, scored 8 (0.73), conceded 7 (0.64), blanks 4, clean sheets 5
+All: 20 games, scored 18 (0.90), conceded 12 (0.60), blanks 7, clean sheets 10
+
+TABLE FOR Kalamata
+LEAGUE TABLE Super League 1 2026 | 14 teams | 60 games played
+League averages per game: home 1.75, away 1.02, total 2.77
+#   team                   Pts | home P GF-GA  | away P GF-GA  | all P GF-GA
+1   Panathinaikos           24 |  5  16-3       |  4   4-1       |  9  20-4
+2   Olympiakos Piraeus      22 |  4   7-1       |  5   8-3       |  9  15-4
+3   PAOK                    18 |  5  11-5       |  4   7-7       |  9  18-12
+4   AEK Athens FC           17 |  4  17-0       |  4   4-5       |  8  21-5
+5   Aris Thessalonikis      16 |  4   8-4       |  5   5-13      |  9  13-17
+6   OFI                     16 |  4   8-3       |  5   6-9       |  9  14-12
+7   Kifisia                 11 |  5   6-6       |  4   6-8       |  9  12-14
+8   Kalamata                10 |  4   9-8       |  4   4-9       |  8  13-17
+9   Iraklis 1908             9 |  3   5-4       |  5   4-7       |  8   9-11
+10  Panetolikos              9 |  5   6-7       |  4   2-10      |  9   8-17
+11  Levadiakos               6 |  5   3-5       |  4   0-6       |  9   3-11
+12  Asteras Tripolis         6 |  5   3-5       |  4   5-12      |  9   8-17
+13  Atromitos                2 |  3   3-5       |  4   3-7       |  7   6-12
+14  Volos NFC                0 |  4   3-5       |  4   3-8       |  8   6-13
+
+TABLE FOR Iraklis
+LEAGUE TABLE Football League 2018 | 16 teams | 239 games played
+League averages per game: home 1.31, away 0.96, total 2.27
+#   team                   Pts | home P GF-GA  | away P GF-GA  | all P GF-GA
+1   Apollon Larissa FC      57 | 15  21-13      | 15  23-14      | 30  44-27
+2   Volos NFC               57 | 15  39-16      | 14  19-11      | 29  58-27
+3   Platanias               55 | 15  33-7       | 15  20-15      | 30  53-22
+4   Ergotelis               51 | 15  32-12      | 15  16-16      | 30  48-28
+5   Apollon Pontou          49 | 15  14-9       | 15  19-18      | 30  33-27
+6   Panachaiki FC           48 | 15  18-12      | 15  14-13      | 30  32-25
+7   AOK Kerkyra             47 | 15  17-12      | 15  13-13      | 30  30-25
+8   Kissamikos              46 | 15  20-13      | 15  20-11      | 30  40-24
+9   Doxa Dramas             45 | 15  24-14      | 15  17-14      | 30  41-28
+10  Iraklis                 42 | 15  18-13      | 15  11-11      | 30  29-24
+11  AE Karaiskakis          40 | 15  10-10      | 15  14-18      | 30  24-28
+12  Trikala                 35 | 15  16-7       | 15  11-23      | 30  27-30
+13  Irodotos                31 | 15  16-16      | 15   8-34      | 30  24-50
+14  Aittitos Spaton         22 | 14   8-18      | 15  10-29      | 29  18-47
+15  Aiginiakos              19 | 15  13-29      | 15  11-37      | 30  24-66
+16  Sparti                  14 | 15  14-28      | 15   3-36      | 30  17-64
+
+(27 API-Football requests used)
+
+----------------------------------------------------------------------
+MATCHBOOK: skipped (switched off for this run)
