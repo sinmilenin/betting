@@ -1,0 +1,77 @@
+MATCH All Boys v Estudiantes Caseros | fetched 2026-11-02 06:43 local
+
+FORM DATA All Boys v Estudiantes Caseros | source API-Football | 2026-11-02 06:43 UTC
+H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
+
+=== All Boys (id 464): last 20 finished games ===
+2026-10-25 A 2-1 v Racing Cordoba | Primera Nacional | Cordoba
+2026-10-18 A 1-1 v Los Andes | Primera Nacional | ?
+2026-10-12 H 0-0 v Godoy Cruz | Primera Nacional | Floresta
+2026-10-03 A 1-2 v Deportivo Moron | Primera Nacional | Moron
+2026-09-26 H 0-0 v Colon Santa Fe | Primera Nacional | Floresta
+2026-09-19 A 1-1 v San Miguel | Primera Nacional | Buenos Aires
+2026-09-12 H 0-1 v San Telmo | Primera Nacional | Floresta
+2026-09-05 A 1-0 v Acassuso | Primera Nacional | Boulogne Sur Mer
+2026-08-30 H 0-0 v Chaco For Ever | Primera Nacional | Floresta
+2026-08-24 A 0-1 v Ferro Carril Oeste | Primera Nacional | Buenos Aires
+2026-08-17 H 1-0 v Nueva Chicago | Primera Nacional | Floresta
+2026-08-10 H 1-1 v Central Norte | Primera Nacional | Floresta
+2026-08-02 A 0-2 v Deportivo Madryn | Primera Nacional | Puerto Madryn
+2026-07-26 H 0-0 v Defensores De Belgrano | Primera Nacional | Floresta
+2026-07-17 A 0-0 v Ciudad de Bolívar | Primera Nacional | Bolivar
+2026-07-11 H 1-1 v Almirante Brown | Primera Nacional | Floresta
+2026-07-05 A 1-1 v Atletico Mitre | Primera Nacional | Santiago del Estero
+2026-06-21 A 1-0 v Defensores De Belgrano | Primera Nacional | Belgrano
+2026-06-14 A 1-2 v CA Estudiantes | Primera Nacional | Buenos Aires
+2026-06-07 H 1-1 v Racing Cordoba | Primera Nacional | Floresta
+Listed home: 9 games, scored 4 (0.44), conceded 4 (0.44), blanks 5, clean sheets 5
+Listed away: 11 games, scored 9 (0.82), conceded 11 (1.00), blanks 3, clean sheets 3
+All: 20 games, scored 13 (0.65), conceded 15 (0.75), blanks 8, clean sheets 8
+
+!! Estudiantes Caseros: No team found for "Estudiantes Caseros".
+
+TABLE FOR All Boys
+LEAGUE TABLE Primera Nacional 2026 | 36 teams | 643 games played
+League averages per game: home 1.19, away 0.77, total 1.96
+#   team                   Pts | home P GF-GA  | away P GF-GA  | all P GF-GA
+1   Godoy Cruz              66 | 18  36-15      | 18  17-18      | 36  53-33 [Group 1]
+2   Ferro Carril Oeste      66 | 18  18-17      | 18  20-14      | 36  38-31 [Group 1]
+3   Deportivo Moron         61 | 18  33-13      | 18  20-24      | 36  53-37 [Group 1]
+4   Deportivo Madryn        60 | 18  32-14      | 18  20-17      | 36  52-31 [Group 1]
+5   Colon Santa Fe          60 | 18  29-10      | 18  16-17      | 36  45-27 [Group 1]
+6   Almirante Brown         51 | 18  17-8       | 18  13-18      | 36  30-26 [Group 1]
+7   Ciudad de Bolívar       51 | 18  16-17      | 18  14-16      | 36  30-33 [Group 1]
+8   CA Estudiantes          49 | 18  21-14      | 17  14-20      | 35  35-34 [Group 1]
+9   Chaco For Ever          46 | 18  25-17      | 18  14-20      | 36  39-37 [Group 1]
+10  Los Andes               43 | 18  14-9       | 18  13-17      | 36  27-26 [Group 1]
+11  San Telmo               41 | 18  18-18      | 18  12-23      | 36  30-41 [Group 1]
+12  Atletico Mitre          40 | 18  17-21      | 18  14-21      | 36  31-42 [Group 1]
+13  Racing Cordoba          40 | 18  23-16      | 18   9-29      | 36  32-45 [Group 1]
+14  Defensores De Belgrano  39 | 18  13-17      | 18  12-17      | 36  25-34 [Group 1]
+15  Central Norte           38 | 18  12-11      | 18  11-21      | 36  23-32 [Group 1]
+16  All Boys                38 | 17   9-6       | 18  12-24      | 35  21-30 [Group 1]
+17  Acassuso                35 | 18  13-15      | 18  12-20      | 36  25-35 [Group 1]
+18  San Miguel              33 | 18  15-18      | 18  12-24      | 36  27-42 [Group 1]
+1   Tristan Suarez          64 | 18  19-7       | 18  15-9       | 36  34-16 [Group 2]
+2   Atlanta                 62 | 18  22-10      | 18  20-24      | 36  42-34 [Group 2]
+3   Temperley               61 | 18  32-20      | 18  11-11      | 36  43-31 [Group 2]
+4   Gimnasia Jujuy          58 | 18  33-17      | 18  20-32      | 36  53-49 [Group 2]
+5   Midland                 55 | 18  26-7       | 18  17-22      | 36  43-29 [Group 2]
+6   Deportivo Maipu         52 | 18  23-12      | 18  20-22      | 36  43-34 [Group 2]
+7   Gimnasia Y Tiro         52 | 17  20-10      | 18  17-24      | 35  37-34 [Group 2]
+8   San Martin S.J.         51 | 18  27-15      | 18  15-21      | 36  42-36 [Group 2]
+9   Colegiales              51 | 18  27-10      | 17   9-22      | 35  36-32 [Group 2]
+10  San Martin Tucuman      46 | 17  24-13      | 18  15-24      | 35  39-37 [Group 2]
+11  Atletico DE Rafaela     46 | 17  22-12      | 18   7-23      | 35  29-35 [Group 2]
+12  Agropecuario            46 | 18  19-13      | 18  12-26      | 36  31-39 [Group 2]
+13  Quilmes                 42 | 18  21-8       | 17  11-22      | 35  32-30 [Group 2]
+14  Almagro                 42 | 18  19-16      | 18  14-28      | 36  33-44 [Group 2]
+15  Chacarita Juniors       39 | 17  18-11      | 18   9-24      | 35  27-35 [Group 2]
+16  Patronato               37 | 18  22-17      | 17   7-18      | 35  29-35 [Group 2]
+17  Nueva Chicago           37 | 18  17-13      | 17   8-21      | 35  25-34 [Group 2]
+18  Club Atlético Güemes    27 | 18  16-27      | 18  12-35      | 36  28-62 [Group 2]
+
+(14 API-Football requests used)
+
+----------------------------------------------------------------------
+MATCHBOOK: skipped (switched off for this run)

@@ -1,0 +1,86 @@
+MATCH Atalanta v Parma | fetched 2026-11-02 06:43 local
+
+FORM DATA Atalanta v Parma | source API-Football | 2026-11-02 06:43 UTC
+H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
+
+=== Atalanta (id 499): last 20 finished games ===
+2026-10-29 A 2-2 v Fiorentina | Serie A | Florence | xG 1.02-1.56
+2026-10-25 H 4-4 v Frosinone | Serie A | Bergamo | xG 3.88-1.95
+2026-10-22 A 0-2 v Ajax | UEFA Europa Conference League | Amsterdam | xG 0.97-1.78
+2026-10-18 A 2-3 v AC Milan | Serie A | Milan | xG 1.74-2.58
+2026-10-15 H 3-1 v Pafos | UEFA Europa Conference League | Bergamo | xG 3.47-0.91
+2026-10-12 H 3-1 v Venezia | Serie A | Bergamo | xG 2.19-2.48
+2026-09-20 A 0-2 v Juventus | Serie A | Turin | xG 0.60-1.31
+2026-09-12 H 1-2 v Cagliari | Serie A | Bergamo | xG 1.74-1.32
+2026-09-05 A 1-2 v AS Roma | Serie A | Rome | xG 0.70-2.97
+2026-08-31 H 1-0 v Bologna | Serie A | Bergamo | xG 0.15-1.05
+2026-08-27 A 1-0 v Hapoel Tel Aviv | UEFA Europa Conference League | Miskolc
+2026-08-23 H 2-1 v Sassuolo | Serie A | Bergamo
+2026-08-20 H 0-0 v Hapoel Tel Aviv | UEFA Europa Conference League | Bergamo
+2026-08-14 H 1-0 v Athletic Club | Friendlies Clubs | ?
+2026-08-08 A 3-0 v FC Schalke 04 | Friendlies Clubs | ?
+2026-08-02 A 1-2 v Feyenoord | Friendlies Clubs | Rotterdam
+2026-07-26 H 3-2 v Arezzo | Friendlies Clubs | ?
+2026-05-22 A 1-1 v Fiorentina | Serie A | Florence
+2026-05-17 H 0-1 v Bologna | Serie A | Bergamo
+2026-05-10 A 3-2 v AC Milan | Serie A | Milan
+Listed home: 10 games, scored 18 (1.80), conceded 12 (1.20), blanks 2, clean sheets 3
+Listed away: 10 games, scored 14 (1.40), conceded 16 (1.60), blanks 2, clean sheets 2
+All: 20 games, scored 32 (1.60), conceded 28 (1.40), blanks 4, clean sheets 5
+
+=== Parma (id 523): last 20 finished games ===
+2026-10-28 H 0-0 v Udinese | Serie A | Parma | xG 1.20-1.43
+2026-10-24 A 1-2 v Lazio | Serie A | Rome | xG 0.81-1.74
+2026-10-19 H 0-3 v Torino | Serie A | Parma | xG 1.57-1.56
+2026-10-10 A 0-3 v Inter | Serie A | Milan | xG 0.46-2.42
+2026-09-20 H 2-1 v Genoa | Serie A | Parma | xG 0.53-0.70
+2026-09-14 A 1-2 v Como | Serie A | Como | xG 1.15-2.98
+2026-09-06 H 1-1 v Monza | Serie A | Parma | xG 0.73-1.72
+2026-09-01 H 0-2 v Cremonese | Coppa Italia | Parma
+2026-08-29 A 0-2 v Juventus | Serie A | Turin | xG 0.25-1.58
+2026-08-22 H 0-1 v Cagliari | Serie A | Parma | xG 0.75-0.94
+2026-08-14 H 2-0 v Catania | Coppa Italia | Parma
+2026-08-09 H 0-2 v Sampdoria | Friendlies Clubs | ?
+2026-08-02 H 1-1 v Iraklis 1908 | Friendlies Clubs | ?
+2026-07-30 H 1-1 v Arezzo | Friendlies Clubs | ?
+2026-07-25 A 0-0 v Sassuolo | Friendlies Clubs | ? [PEN, 90-min score shown]
+2026-07-25 A 1-1 v Trento | Friendlies Clubs | ? [PEN, 90-min score shown]
+2026-05-24 H 1-0 v Sassuolo | Serie A | Parma
+2026-05-17 A 0-1 v Como | Serie A | Como
+2026-05-10 H 2-3 v AS Roma | Serie A | Parma
+2026-05-03 A 0-2 v Inter | Serie A | Milan
+Listed home: 12 games, scored 10 (0.83), conceded 15 (1.25), blanks 5, clean sheets 3
+Listed away: 8 games, scored 3 (0.38), conceded 13 (1.62), blanks 5, clean sheets 1
+All: 20 games, scored 13 (0.65), conceded 28 (1.40), blanks 10, clean sheets 4
+
+TABLE FOR Atalanta
+LEAGUE TABLE Serie A 2026 | 20 teams | 98 games played
+League averages per game: home 1.63, away 1.52, total 3.15
+#   team                   Pts | home P GF-GA  | away P GF-GA  | all P GF-GA
+1   Lazio                   28 |  5  10-5       |  5  14-3       | 10  24-8
+2   Inter                   25 |  5  17-7       |  5   9-6       | 10  26-13
+3   AS Roma                 24 |  5  14-5       |  5  14-5       | 10  28-10
+4   Como                    23 |  4   5-1       |  6  13-7       | 10  18-8
+5   AC Milan                21 |  5  13-7       |  5   8-5       | 10  21-12
+6   Frosinone               20 |  6  16-6       |  4   8-8       | 10  24-14
+7   Juventus                17 |  5   7-4       |  5   6-6       | 10  13-10
+8   Napoli                  14 |  4   8-5       |  6   9-8       | 10  17-13
+9   Bologna                 14 |  5   6-8       |  5   8-5       | 10  14-13
+10  Torino                  13 |  5   7-10      |  5   7-6       | 10  14-16
+11  Genoa                   13 |  6   7-8       |  4   3-6       | 10  10-14
+12  Cagliari                13 |  4   2-4       |  6   7-11      | 10   9-15
+13  Atalanta                11 |  5  11-8       |  4   5-9       |  9  16-17
+14  Lecce                    9 |  5   5-12      |  5   6-9       | 10  11-21
+15  Sassuolo                 8 |  4   8-10      |  5   6-12      |  9  14-22
+16  Monza                    7 |  4   9-8       |  6   8-16      | 10  17-24
+17  Fiorentina               5 |  5   5-11      |  4   6-10      |  9  11-21
+18  Parma                    5 |  5   3-6       |  4   2-9       |  9   5-15
+19  Udinese                  5 |  6   4-14      |  4   7-9       | 10  11-23
+20  Venezia                  3 |  5   3-10      |  5   3-10      | 10   6-20
+
+(Parma: same table as Atalanta, shown above)
+
+(24 API-Football requests used)
+
+----------------------------------------------------------------------
+MATCHBOOK: skipped (switched off for this run)

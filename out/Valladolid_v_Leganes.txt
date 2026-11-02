@@ -1,0 +1,88 @@
+MATCH Valladolid v Leganes | fetched 2026-11-02 06:43 local
+
+FORM DATA Valladolid v Leganes | source API-Football | 2026-11-02 06:43 UTC
+H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
+
+=== Valladolid (id 720): last 20 finished games ===
+2026-10-29 A 1-0 v Covadonga | Copa del Rey | Pola de Siero
+2026-10-23 A 1-2 v Granada CF | Segunda División | Granada | xG 1.91-0.72
+2026-10-18 H 2-3 v Eldense | Segunda División | Valladolid
+2026-10-12 H 5-0 v Albacete | Segunda División | Valladolid | xG 3.54-1.24
+2026-10-04 A 2-2 v Las Palmas | Segunda División | Las Palmas
+2026-09-27 H 3-1 v Cordoba | Segunda División | Valladolid | xG 2.45-1.50
+2026-09-20 A 1-1 v AD Ceuta FC | Segunda División | Ceuta
+2026-09-13 H 0-3 v Oviedo | Segunda División | Valladolid | xG 1.15-1.77
+2026-09-05 H 1-0 v FC Andorra | Segunda División | Valladolid | xG 0.69-1.38
+2026-08-30 A 1-1 v Cadiz | Segunda División | Cadiz | xG 1.07-1.24
+2026-08-23 A 0-1 v Eibar | Segunda División | Eibar
+2026-08-15 A 0-2 v Mallorca | Segunda División | Palma de Mallorca
+2026-08-08 A 4-2 v Sporting Gijon | Friendlies Clubs | ?
+2026-08-05 A 3-0 v Gimnástica Segoviana | Friendlies Clubs | ?
+2026-08-01 A 0-1 v Groningen | Friendlies Clubs | ?
+2026-07-29 H 4-1 v CD Coria | Friendlies Clubs | ?
+2026-07-25 H 0-0 v Getafe | Friendlies Clubs | ?
+2026-05-31 A 0-1 v Almeria | Segunda División | Almeria
+2026-05-24 H 0-2 v Deportivo La Coruna | Segunda División | Valladolid
+2026-05-16 A 1-4 v Racing Santander | Segunda División | Santander
+Listed home: 8 games, scored 15 (1.88), conceded 10 (1.25), blanks 3, clean sheets 3
+Listed away: 12 games, scored 14 (1.17), conceded 17 (1.42), blanks 4, clean sheets 2
+All: 20 games, scored 29 (1.45), conceded 27 (1.35), blanks 7, clean sheets 5
+
+=== Leganes (id 537): last 20 finished games ===
+2026-10-24 H 1-1 v Mallorca | Segunda División | Leganes | xG 1.89-1.39
+2026-10-16 H 0-1 v Cordoba | Segunda División | Leganes
+2026-10-11 A 0-3 v Almeria | Segunda División | Almeria | xG 0.87-1.34
+2026-10-03 A 0-4 v Cadiz | Segunda División | Cadiz | xG 1.20-3.00
+2026-09-28 H 0-2 v Castellón | Segunda División | Leganes
+2026-09-20 H 3-2 v Granada CF | Segunda División | Leganes
+2026-09-13 A 0-2 v Tenerife | Segunda División | Santa Cruz de Tenerife | xG 0.72-1.57
+2026-09-04 A 0-0 v Las Palmas | Segunda División | Las Palmas de Gran Canaria | xG 1.17-0.28
+2026-08-29 H 1-0 v Eldense | Segunda División | Leganes | xG 1.63-1.01
+2026-08-22 A 1-0 v Oviedo | Segunda División | Oviedo | xG 0.24-2.85
+2026-08-16 A 1-1 v Girona | Segunda División | Girona
+2026-08-08 H 0-0 v Tenerife | Friendlies Clubs | ? [PEN, 90-min score shown]
+2026-08-07 H 3-0 v Mérida AD | Friendlies Clubs | ?
+2026-08-04 H 2-1 v Al-Rayyan SC | Friendlies Clubs | ?
+2026-08-01 A 0-1 v Swansea | Friendlies Clubs | ?
+2026-07-28 A 1-4 v Real Madrid | Friendlies Clubs | ?
+2026-07-24 A 2-0 v Penafiel | Friendlies Clubs | ?
+2026-07-22 A 0-0 v Nacional | Friendlies Clubs | ?
+2026-07-17 H 0-0 v Albacete | Friendlies Clubs | ?
+2026-07-11 A 1-2 v Levante | Friendlies Clubs | ?
+Listed home: 9 games, scored 10 (1.11), conceded 7 (0.78), blanks 4, clean sheets 4
+Listed away: 11 games, scored 6 (0.55), conceded 17 (1.55), blanks 6, clean sheets 4
+All: 20 games, scored 16 (0.80), conceded 24 (1.20), blanks 10, clean sheets 8
+
+TABLE FOR Valladolid
+LEAGUE TABLE Segunda División 2026 | 22 teams | 128 games played
+League averages per game: home 1.54, away 1.14, total 2.68
+#   team                   Pts | home P GF-GA  | away P GF-GA  | all P GF-GA
+1   Castellón               27 |  5  12-1       |  7  11-4       | 12  23-5
+2   Almeria                 26 |  6  15-5       |  6   8-5       | 12  23-10
+3   Eibar                   23 |  6  10-7       |  6  11-7       | 12  21-14
+4   Granada CF              23 |  5   9-5       |  7  11-9       | 12  20-14
+5   Sporting Gijon          22 |  6   6-6       |  6   7-7       | 12  13-13
+6   Girona                  21 |  7  16-6       |  5   6-5       | 12  22-11
+7   Burgos                  21 |  7  11-7       |  5   6-6       | 12  17-13
+8   Mallorca                19 |  5  10-2       |  6   3-4       | 11  13-6
+9   Oviedo                  18 |  5   5-2       |  6  10-10      | 11  15-12
+10  Sabadell                17 |  5   8-4       |  7   4-7       | 12  12-11
+11  Cordoba                 16 |  5   8-8       |  7  11-14      | 12  19-22
+12  Tenerife                14 |  5   5-3       |  6   8-12      | 11  13-15
+13  Eldense                 14 |  6   9-8       |  6   4-9       | 12  13-17
+14  Las Palmas              14 |  6   6-8       |  5   8-11      | 11  14-19
+15  Celta de Vigo II        13 |  7  13-13      |  5   5-10      | 12  18-23
+16  Valladolid              12 |  5  11-7       |  6   5-9       | 11  16-16
+17  Leganes                 12 |  5   5-6       |  6   2-10      | 11   7-16
+18  Real Sociedad II        11 |  6   6-10      |  6   9-12      | 12  15-22
+19  Cadiz                   10 |  7   9-6       |  4   5-8       | 11  14-14
+20  FC Andorra              10 |  6  10-11      |  5   5-9       | 11  15-20
+21  Albacete                 7 |  6   7-9       |  6   3-14      | 12  10-23
+22  AD Ceuta FC              5 |  7   6-12      |  5   4-15      | 12  10-27
+
+(Leganes: same table as Valladolid, shown above)
+
+(24 API-Football requests used)
+
+----------------------------------------------------------------------
+MATCHBOOK: skipped (switched off for this run)

@@ -1,0 +1,95 @@
+MATCH Oviedo v Las Palmas | fetched 2026-11-02 06:43 local
+
+FORM DATA Oviedo v Las Palmas | source API-Football | 2026-11-02 06:43 UTC
+H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
+
+=== Oviedo (id 718): last 20 finished games ===
+2026-10-29 A 3-3 v Numancia | Copa del Rey | Soria [PEN, 90-min score shown]
+2026-10-24 A 2-2 v Almeria | Segunda División | Almeria | xG 1.35-0.70
+2026-10-18 A 2-1 v AD Ceuta FC | Segunda División | Ceuta | xG 3.00-3.45
+2026-10-12 H 3-1 v Eibar | Segunda División | Oviedo | xG 1.97-2.52
+2026-10-02 A 1-4 v Eldense | Segunda División | Elda | xG 1.88-2.87
+2026-09-27 H 2-0 v Sporting Gijon | Segunda División | Oviedo | xG 1.63-0.71
+2026-09-20 A 1-3 v Sabadell | Segunda División | Sabadell | xG 1.10-1.33
+2026-09-13 A 3-0 v Valladolid | Segunda División | Valladolid | xG 1.77-1.15
+2026-09-06 H 0-0 v Burgos | Segunda División | Oviedo | xG 1.94-1.81
+2026-08-29 A 1-0 v Albacete | Segunda División | Albacete | xG 1.36-0.96
+2026-08-22 H 0-1 v Leganes | Segunda División | Oviedo
+2026-08-15 H 0-0 v Granada CF | Segunda División | Oviedo
+2026-08-08 H 3-2 v Le Havre | Friendlies Clubs | ?
+2026-08-01 A 1-2 v 1. FC Nürnberg | Friendlies Clubs | ?
+2026-07-29 H 4-0 v Ponferradina | Friendlies Clubs | ?
+2026-07-25 H 0-0 v Deportivo La Coruna | Friendlies Clubs | ?
+2026-07-15 H 0-0 v Al-Qadisiyah FC | Friendlies Clubs | ?
+2026-05-23 A 0-3 v Mallorca | La Liga | Palma de Mallorca
+2026-05-17 H 0-1 v Alaves | La Liga | Oviedo
+2026-05-14 A 0-2 v Real Madrid | La Liga | Madrid
+Listed home: 10 games, scored 12 (1.20), conceded 5 (0.50), blanks 6, clean sheets 6
+Listed away: 10 games, scored 14 (1.40), conceded 20 (2.00), blanks 2, clean sheets 2
+All: 20 games, scored 26 (1.30), conceded 25 (1.25), blanks 8, clean sheets 8
+
+"Las Palmas" matches several teams. Use id:<number> instead of the name:
+  id:534    Las Palmas (Spain)
+  id:9574   Las Palmas II (Spain)
+  id:9798   Las Palmas III (Spain)
+  id:12258  Las Palmas (Peru)
+(retrying Las Palmas using the opponent's country, Spain)
+NOTE: "Las Palmas" matched 2 teams; picked Las Palmas (Spain) because the opponent is from Spain. Others: Las Palmas (Peru)
+=== Las Palmas (id 534): last 20 finished games ===
+2026-10-27 A 1-1 v RSD Alcalá | Copa del Rey | Alcala de Henares [AET, 90-min score shown]
+2026-10-24 H 1-0 v Real Sociedad II | Segunda División | Las Palmas de Gran Canaria | xG 1.09-0.92
+2026-10-17 H 0-3 v Castellón | Segunda División | Las Palmas | xG 0.23-2.70
+2026-10-11 A 1-3 v Mallorca | Segunda División | Palma de Mallorca | xG 0.60-0.77
+2026-10-04 H 2-2 v Valladolid | Segunda División | Las Palmas
+2026-09-27 A 2-3 v Eibar | Segunda División | Eibar
+2026-09-20 H 1-2 v Burgos | Segunda División | Las Palmas | xG 0.53-1.07
+2026-09-12 A 1-0 v Cadiz | Segunda División | Cadiz | xG 2.87-0.49
+2026-09-04 H 0-0 v Leganes | Segunda División | Las Palmas de Gran Canaria | xG 0.28-1.17
+2026-08-29 A 2-5 v Girona | Segunda División | Girona | xG 0.82-2.25
+2026-08-22 A 2-0 v AD Ceuta FC | Segunda División | Ceuta
+2026-08-16 H 2-1 v Albacete | Segunda División | Las Palmas de Gran Canaria
+2026-08-08 A 3-1 v Cadiz | Friendlies Clubs | ?
+2026-07-31 H 0-1 v NEOM | Friendlies Clubs | ?
+2026-07-28 H 3-2 v União de Leiria | Friendlies Clubs | ?
+2026-07-25 H 1-2 v Al-Ittihad FC | Friendlies Clubs | ?
+2026-07-22 A 0-1 v Orlando Pirates | Friendlies Clubs | ?
+2026-06-10 A 1-1 v Malaga | Segunda División | Malaga
+2026-06-07 H 0-1 v Malaga | Segunda División | Las Palmas
+2026-05-31 A 2-1 v Deportivo La Coruna | Segunda División | La Coruna
+Listed home: 10 games, scored 10 (1.00), conceded 14 (1.40), blanks 4, clean sheets 2
+Listed away: 10 games, scored 15 (1.50), conceded 16 (1.60), blanks 1, clean sheets 2
+All: 20 games, scored 25 (1.25), conceded 30 (1.50), blanks 5, clean sheets 4
+
+TABLE FOR Oviedo
+LEAGUE TABLE Segunda División 2026 | 22 teams | 128 games played
+League averages per game: home 1.54, away 1.14, total 2.68
+#   team                   Pts | home P GF-GA  | away P GF-GA  | all P GF-GA
+1   Castellón               27 |  5  12-1       |  7  11-4       | 12  23-5
+2   Almeria                 26 |  6  15-5       |  6   8-5       | 12  23-10
+3   Eibar                   23 |  6  10-7       |  6  11-7       | 12  21-14
+4   Granada CF              23 |  5   9-5       |  7  11-9       | 12  20-14
+5   Sporting Gijon          22 |  6   6-6       |  6   7-7       | 12  13-13
+6   Girona                  21 |  7  16-6       |  5   6-5       | 12  22-11
+7   Burgos                  21 |  7  11-7       |  5   6-6       | 12  17-13
+8   Mallorca                19 |  5  10-2       |  6   3-4       | 11  13-6
+9   Oviedo                  18 |  5   5-2       |  6  10-10      | 11  15-12
+10  Sabadell                17 |  5   8-4       |  7   4-7       | 12  12-11
+11  Cordoba                 16 |  5   8-8       |  7  11-14      | 12  19-22
+12  Tenerife                14 |  5   5-3       |  6   8-12      | 11  13-15
+13  Eldense                 14 |  6   9-8       |  6   4-9       | 12  13-17
+14  Las Palmas              14 |  6   6-8       |  5   8-11      | 11  14-19
+15  Celta de Vigo II        13 |  7  13-13      |  5   5-10      | 12  18-23
+16  Valladolid              12 |  5  11-7       |  6   5-9       | 11  16-16
+17  Leganes                 12 |  5   5-6       |  6   2-10      | 11   7-16
+18  Real Sociedad II        11 |  6   6-10      |  6   9-12      | 12  15-22
+19  Cadiz                   10 |  7   9-6       |  4   5-8       | 11  14-14
+20  FC Andorra              10 |  6  10-11      |  5   5-9       | 11  15-20
+21  Albacete                 7 |  6   7-9       |  6   3-14      | 12  10-23
+22  AD Ceuta FC              5 |  7   6-12      |  5   4-15      | 12  10-27
+
+(Las Palmas: same table as Oviedo, shown above)
+
+(26 API-Football requests used)
+
+----------------------------------------------------------------------
+MATCHBOOK: skipped (switched off for this run)

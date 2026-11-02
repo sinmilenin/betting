@@ -1,0 +1,13 @@
+MATCH Platense v Central Cordoba | fetched 2026-11-02 06:43 local
+
+FORM DATA Platense v Central Cordoba | source API-Football | 2026-11-02 06:43 UTC
+H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
+
+!! Platense: API-Football error: HTTP 429 from API-Football
+
+!! Central Cordoba: API-Football error: HTTP 429 from API-Football
+
+(0 API-Football requests used)
+
+----------------------------------------------------------------------
+MATCHBOOK: skipped (switched off for this run)
