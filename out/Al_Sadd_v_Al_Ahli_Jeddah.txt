@@ -1,0 +1,53 @@
+MATCH Al Sadd v Al Ahli Jeddah | fetched 2026-11-02 15:15 local
+
+FORM DATA Al Sadd v Al Ahli Jeddah | source API-Football | 2026-11-02 15:15 UTC
+H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
+
+=== Al Sadd (id 2895): last 20 finished games ===
+2026-10-30 H 4-1 v Al Shamal | Stars League | Doha | xG 2.84-2.23
+2026-10-26 A 1-1 v Al-Qadisiyah FC | AFC Champions League Elite | Daman | xG 1.13-0.93
+2026-10-22 A 4-0 v Al Shahaniya | Stars League | Lai Yang | xG 2.14-0.60
+2026-10-18 H 2-3 v Al-Duhail SC | Stars League | Doha | xG 2.24-2.50
+2026-10-13 H 0-2 v Al-Hilal Saudi FC | AFC Champions League Elite | Doha | xG 0.77-2.60
+2026-10-09 H 2-3 v Al-Arabi SC | Stars League | Doha
+2026-09-14 A 0-3 v Esteghlal FC | AFC Champions League Elite | Basra
+2026-09-10 A 6-3 v Al-Sailiya | Stars League | Doha
+2026-09-05 H 4-1 v Al-Gharafa | Stars League | Doha
+2026-09-01 H 2-1 v Al-Gharafa | Qatar Cup | Al Rayyan
+2026-08-28 A 6-2 v Qatar SC | Stars League | Doha
+2026-08-22 H 3-1 v Al Ahli Doha | Stars League | Doha
+2026-07-30 A 1-0 v Trabzonspor | Friendlies Clubs | Anif
+2026-07-17 A 1-2 v Sigma Olomouc | Friendlies Clubs | ?
+2026-05-09 A 1-4 v Al-Gharafa | Emir Cup | Al Rayyan
+2026-05-05 A 4-1 v Al-Duhail SC | Emir Cup | Doha
+2026-05-01 A 6-4 v Al Shamal | Emir Cup | Al Khor
+2026-04-27 H 3-2 v Al Shamal | Stars League | Doha
+2026-04-16 H 3-3 v Vissel Kobe | AFC Champions League Elite | Jeddah [PEN, 90-min score shown]
+2026-04-13 A 3-3 v Al-Hilal Saudi FC | AFC Champions League Elite | Jeddah [PEN, 90-min score shown]
+Listed home: 9 games, scored 23 (2.56), conceded 17 (1.89), blanks 1, clean sheets 0
+Listed away: 11 games, scored 33 (3.00), conceded 23 (2.09), blanks 1, clean sheets 2
+All: 20 games, scored 56 (2.80), conceded 40 (2.00), blanks 2, clean sheets 2
+
+!! Al Ahli Jeddah: No team found for "Al Ahli Jeddah".
+
+TABLE FOR Al Sadd
+LEAGUE TABLE Stars League 2026 | 12 teams | 48 games played
+League averages per game: home 1.71, away 1.81, total 3.52
+#   team                   Pts | home P GF-GA  | away P GF-GA  | all P GF-GA
+1   Al Sadd                 18 |  5  15-9       |  3  16-5       |  8  31-14
+2   Al-Rayyan SC            18 |  3   5-1       |  5  11-2       |  8  16-3
+3   Al-Duhail SC            18 |  5  10-4       |  3   8-3       |  8  18-7
+4   Al-Arabi SC             13 |  3   2-2       |  5  14-6       |  8  16-8
+5   Al Ahli Doha            11 |  4   9-6       |  4   5-9       |  8  14-15
+6   Al Wakrah               11 |  4   9-8       |  4   5-8       |  8  14-16
+7   Lusail City              9 |  2   4-0       |  6   6-9       |  8  10-9
+8   Al-Gharafa               9 |  6   7-6       |  2   3-7       |  8  10-13
+9   Al Shamal                9 |  4   7-10      |  4   6-7       |  8  13-17
+10  Al Shahaniya             7 |  5   5-14      |  3   4-7       |  8   9-21
+11  Qatar SC                 6 |  2   2-9       |  6   7-9       |  8   9-18
+12  Al-Sailiya               1 |  5   7-18      |  3   2-10      |  8   9-28
+
+(14 API-Football requests used)
+
+----------------------------------------------------------------------
+MATCHBOOK: skipped (switched off for this run)

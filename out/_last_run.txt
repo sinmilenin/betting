@@ -1,3 +1,7 @@
-RUN 2026-11-02 15:06 local | 1 match(es)
-id:2872 v Al Quwa Al Jawiya -> out/id_2872_v_Al_Quwa_Al_Jawiya.txt
-Requests used: API-Football 27, Matchbook 0
+RUN 2026-11-02 15:15 local | 3 match(es)
+Al Sadd v Al Ahli Jeddah -> out/Al_Sadd_v_Al_Ahli_Jeddah.txt
+    !! Al Ahli Jeddah: No team found for "Al Ahli Jeddah".
+Karpaty v Kudrivka -> out/Karpaty_v_Kudrivka.txt
+Landskrona v Orebro -> out/Landskrona_v_Orebro.txt
+    !! Orebro: Ambiguous team name "Orebro".
+Requests used: API-Football 55, Matchbook 0
