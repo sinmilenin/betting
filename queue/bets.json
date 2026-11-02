@@ -55,17 +55,6 @@
     "created": "2026-11-02T06:49:58Z"
   },
   {
-    "id": "2026-11-02_zhytomyr-2-oleksandria_2-2",
-    "date": "2026-11-02",
-    "ko": "12:30",
-    "match": "Zhytomyr 2 v Oleksandria",
-    "comp": "Ukraine, Ukrainian Persha Liga",
-    "cell": "2-2",
-    "lay": 15,
-    "stake": 3,
-    "created": "2026-11-02T11:25:09Z"
-  },
-  {
     "id": "2026-11-02_gil-vicente-guimaraes_2-2",
     "date": "2026-11-02",
     "ko": "21:15",
@@ -240,5 +229,27 @@
     "lay": 20.0,
     "stake": 3,
     "created": "2026-11-02T18:19:03+01:00"
+  },
+  {
+    "id": "2026-11-02_bournemouth-u21-cardiff-city-u21_1-0",
+    "date": "2026-11-02",
+    "ko": "20:00",
+    "match": "Bournemouth U21 v Cardiff City U21",
+    "comp": "United Kingdom, English U21 Premier League Cup",
+    "cell": "1-0",
+    "lay": 18,
+    "stake": 3,
+    "created": "2026-11-02T19:09:04+01:00"
+  },
+  {
+    "id": "2026-11-02_gzira-united-fc-marsaxlokk-fc_1-0",
+    "date": "2026-11-02",
+    "ko": "20:00",
+    "match": "Gzira United FC v Marsaxlokk FC",
+    "comp": "Malta, Maltese Premier League",
+    "cell": "1-0",
+    "lay": 16.5,
+    "stake": 3,
+    "created": "2026-11-02T19:09:04+01:00"
   }
 ]
