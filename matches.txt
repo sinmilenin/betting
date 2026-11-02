@@ -1,4 +1,3 @@
-# 02.11 19:40 scan, run 1
-Jong FC Utrecht v FC Dordrecht | n=20 | xg=10
-Fortaleza v Atletico GO | n=20 | xg=10
-Red Star v Nancy | n=20 | xg=10
+# 02.11 19:40 scan, run 2
+id:154 v id:144 | n=20 | xg=10
+Jong Utrecht v Dordrecht | n=20 | xg=10
