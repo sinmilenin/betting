@@ -1,9 +1,4 @@
-# 02.11 13:40 scan, top-20 run (first analyses + Platense opponent fix)
-VPS v HJK | n=20 | xg=10
-Gil Vicente v Guimaraes | n=20 | xg=10
-Radnicki Nis v Zeleznicar Pancevo | n=20 | xg=10
-Sonderjyske v FC Copenhagen | n=20 | xg=10
-Mallorca v Cadiz | n=20 | xg=10
-Wadi Degla v Zamalek | n=20 | xg=10
-Hull City U21 v Derby U21 | n=20 | xg=10
-id:1064 v Central Cordoba de Santiago | n=20 | xg=10
+# 02.11 13:40 scan, top-20 run 2 (team names: HJK id, Vitoria SC, Derby County U21)
+VPS v id:649 | n=20 | xg=10
+Gil Vicente v Vitoria SC | n=20 | xg=10
+Hull City U21 v Derby County U21 | n=20 | xg=10
