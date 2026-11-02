@@ -1,6 +1,3 @@
-RUN 2026-11-02 15:06 local | 3 match(es)
-Al Nasar v id:3541 -> out/Al_Nasar_v_id_3541.txt
-Wasl v Al Quwa Al Jawiya -> out/Wasl_v_Al_Quwa_Al_Jawiya.txt
-    !! Wasl: Ambiguous team name "Wasl".
-id:465 v Patronato -> out/id_465_v_Patronato.txt
-Requests used: API-Football 65, Matchbook 0
+RUN 2026-11-02 15:06 local | 1 match(es)
+id:2872 v Al Quwa Al Jawiya -> out/id_2872_v_Al_Quwa_Al_Jawiya.txt
+Requests used: API-Football 27, Matchbook 0
