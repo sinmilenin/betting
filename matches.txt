@@ -1,2 +1,4 @@
-# 03.11 20:26 scan: retry Airdrie by id
-id:4668 v Elgin City | n=20 | xg=10
+# 03.11 20:56 night scan
+Mushuc Runa v Manta | n=20 | xg=10
+Internacional v Coritiba | n=20 | xg=10
+Sporting San Jose v Perez Zeledon | n=20 | xg=10
