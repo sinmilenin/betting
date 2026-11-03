@@ -130,5 +130,38 @@
     "lay": 13.5,
     "stake": 3,
     "created": "2026-11-03T19:51:50+01:00"
+  },
+  {
+    "id": "2026-11-03_airdrieonians-elgin-city-fc_1-0",
+    "date": "2026-11-03",
+    "ko": "20:45",
+    "match": "Airdrieonians v Elgin City FC",
+    "comp": "United Kingdom, Scottish Challenge Cup",
+    "cell": "1-0",
+    "lay": 8.8,
+    "stake": 3,
+    "created": "2026-11-03T20:35:07+01:00"
+  },
+  {
+    "id": "2026-11-03_worthing-fulham-u21_0-1",
+    "date": "2026-11-03",
+    "ko": "20:45",
+    "match": "Worthing v Fulham U21",
+    "comp": "United Kingdom, English National League Cup",
+    "cell": "0-1",
+    "lay": 20.0,
+    "stake": 3,
+    "created": "2026-11-03T20:35:07+01:00"
+  },
+  {
+    "id": "2026-11-03_worthing-fulham-u21_2-2",
+    "date": "2026-11-03",
+    "ko": "20:45",
+    "match": "Worthing v Fulham U21",
+    "comp": "United Kingdom, English National League Cup",
+    "cell": "2-2",
+    "lay": 13.5,
+    "stake": 3,
+    "created": "2026-11-03T20:35:07+01:00"
   }
 ]
