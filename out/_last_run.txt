@@ -1,4 +1,3 @@
-RUN 2026-11-03 14:57 local | 1 match(es)
-Al Hussein v Al Shorta -> out/Al_Hussein_v_Al_Shorta.txt
-    !! Al Shorta: Ambiguous team name "Al Shorta".
-Requests used: API-Football 15, Matchbook 0
+RUN 2026-11-03 14:59 local | 1 match(es)
+Al Hussein v id:28571 -> out/Al_Hussein_v_id_28571.txt
+Requests used: API-Football 26, Matchbook 0
