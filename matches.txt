@@ -1,2 +1,2 @@
-# 03.11 15:56 scan: first analysis
-Al Hussein v Al Shorta | n=20 | xg=10
+# 03.11 15:56 scan: retry with Al Shorta id (Iraq)
+Al Hussein v id:28571 | n=20 | xg=10
