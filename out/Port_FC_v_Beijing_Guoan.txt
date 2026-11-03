@@ -1,0 +1,98 @@
+MATCH Port FC v Beijing Guoan | fetched 2026-11-03 09:42 local
+
+FORM DATA Port FC v Beijing Guoan | source API-Football | 2026-11-03 09:42 UTC
+H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
+
+=== Port FC (id 2789): last 20 finished games ===
+2026-10-27 A 0-3 v Johor Darul Takzim FC | AFC Champions League Elite | Iskandarputri | xG 0.15-2.15
+2026-10-24 H 4-1 v Rayong FC | Thai League 1 | Bangkok | xG 1.36-1.33
+2026-10-21 A 3-1 v Rasi Salai United | FA Cup | ?
+2026-10-18 A 2-0 v Bangkok United | Thai League 1 | Rangsit
+2026-10-14 A 1-5 v Kashiwa Reysol | AFC Champions League Elite | Kashiwa City | xG 0.68-2.96
+2026-10-11 H 3-2 v Pattani | Thai League 1 | Bangkok
+2026-10-08 H 1-3 v Persib Bandung | ASEAN Club Championship | Bangkok
+2026-09-20 A 1-2 v Sukhothai FC | Thai League 1 | Sukhothai
+2026-09-16 H 1-2 v Vissel Kobe | AFC Champions League Elite | Bangkok | xG 0.13-2.51
+2026-09-11 H 2-1 v Lamphun Warrior | Thai League 1 | Bangkok
+2026-09-05 A 2-1 v Rasi Salai United | Thai League 1 | Nong Khrok
+2026-08-01 A 1-2 v Persebaya Surabaya | Piala Presiden | Surabaya
+2026-07-29 H 2-2 v Persija | Piala Presiden | Bangkok
+2026-07-26 A 2-0 v PSMS Medan | Piala Presiden | Medan
+2026-05-24 A 1-0 v BG Pathum United | League Cup | Pathum Thani
+2026-05-10 A 4-1 v Ayutthaya FC | Thai League 1 | Ayutthaya
+2026-05-02 H 3-1 v Buriram United | Thai League 1 | Bangkok
+2026-04-25 A 1-0 v Uthai Thani | Thai League 1 | Uthai Thani
+2026-04-19 H 0-0 v BG Pathum United | Thai League 1 | Bangkok
+2026-04-08 A 4-3 v Chonburi FC | League Cup | Ayutthaya
+Listed home: 8 games, scored 16 (2.00), conceded 12 (1.50), blanks 1, clean sheets 1
+Listed away: 12 games, scored 22 (1.83), conceded 18 (1.50), blanks 1, clean sheets 4
+All: 20 games, scored 38 (1.90), conceded 30 (1.50), blanks 2, clean sheets 5
+
+=== Beijing Guoan (id 830): last 20 finished games ===
+2026-10-27 H 2-2 v Jeonbuk Motors | AFC Champions League Elite | Beijing | xG 1.55-0.73
+2026-10-24 A 4-3 v Henan Jianye | Super League | Zhengzhou | xG 2.18-2.09
+2026-10-18 H 1-0 v Qingdao Youth Island | Super League | Beijing | xG 3.06-0.60
+2026-10-13 A 1-0 v Buriram United | AFC Champions League Elite | Buriram | xG 0.64-1.00
+2026-10-09 A 3-0 v Qingdao Jonoon | Super League | Qingdao
+2026-09-15 H 3-1 v Pohang Steelers | AFC Champions League Elite | Beijing | xG 1.75-1.05
+2026-09-05 A 0-0 v SHANGHAI SIPG | Super League | Shanghai
+2026-09-01 H 3-1 v Rizhao Yuqi | FA Cup | Beijing
+2026-08-28 A 1-1 v Dalian Zhixing | Super League | Dalian
+2026-08-22 H 3-3 v Yunnan Yukun | Super League | Beijing | xG 2.69-1.45
+2026-08-18 A 3-0 v Shanghai Shenhua | Super League | Shanghai
+2026-08-15 A 4-2 v Tianjin Teda | Super League | Tianjin
+2026-08-07 H 4-0 v Sichuan Jiuniu | Super League | Beijing
+2026-08-01 H 2-1 v Hangzhou Greentown | Super League | Beijing
+2026-07-26 A 2-2 v Chengdu Better City | Super League | Chengdu
+2026-07-21 A 2-1 v Dalian Kewei | FA Cup | Dalian
+2026-07-17 H 1-1 v Shenyang Urban | Super League | Beijing
+2026-07-04 H 2-0 v Shandong Luneng | Super League | Beijing
+2026-06-27 H 1-0 v Wuhan Three Towns | Super League | Beijing
+2026-06-19 A 2-1 v Guangzhou E-Power | FA Cup | Guangzhou
+Listed home: 10 games, scored 22 (2.20), conceded 9 (0.90), blanks 0, clean sheets 4
+Listed away: 10 games, scored 22 (2.20), conceded 10 (1.00), blanks 1, clean sheets 4
+All: 20 games, scored 44 (2.20), conceded 19 (0.95), blanks 1, clean sheets 8
+
+TABLE FOR Port FC
+LEAGUE TABLE AFC Champions League Elite 2026 | 32 teams | 53 games played
+League averages per game: home 1.75, away 1.43, total 3.19
+#   team                   Pts | home P GF-GA  | away P GF-GA  | all P GF-GA
+1   Al Ain                  12 |  2   6-1       |  2   8-2       |  4  14-3 [West Region]
+2   Shabab Al Ahli Dubai     9 |  2   3-0       |  1   2-1       |  3   5-1 [West Region]
+3   Al-Qadisiyah FC          8 |  2   3-2       |  2   6-1       |  4   9-3 [West Region]
+4   Al-Ahli Jeddah           8 |  2   3-2       |  2   3-1       |  4   6-3 [West Region]
+5   Al-Nassr                 6 |  1   3-1       |  2   6-6       |  3   9-7 [West Region]
+6   Esteghlal FC             6 |  1   3-0       |  2   2-3       |  3   5-3 [West Region]
+7   Al-Hilal Saudi FC        6 |  1   2-1       |  2   3-3       |  3   5-4 [West Region]
+8   Al Shamal                5 |  2   4-2       |  1   0-0       |  3   4-2 [West Region]
+9   Neftchi                  4 |  2   2-2       |  2   3-5       |  4   5-7 [West Region]
+10  Al-Ittihad FC            4 |  2   2-6       |  2   3-2       |  4   5-8 [West Region]
+11  Al-Wasl FC               3 |  2   5-6       |  1   1-2       |  3   6-8 [West Region]
+12  Al Quwa Al Jawiya        3 |  2   2-4       |  2   3-5       |  4   5-9 [West Region]
+13  Tractor Sazi             2 |  2   2-2       |  2   1-3       |  4   3-5 [West Region]
+14  Pakhtakor                2 |  2   3-7       |  2   1-2       |  4   4-9 [West Region]
+15  Al Sadd                  2 |  2   0-2       |  2   1-4       |  4   1-6 [West Region]
+16  Al-Gharafa               0 |  2   1-7       |  2   2-4       |  4   3-11 [West Region]
+1   Kashima                  9 |  2  10-1       |  1   1-0       |  3  11-1 [East Region]
+2   Vissel Kobe              9 |  1   2-0       |  2   3-1       |  3   5-1 [East Region]
+3   Gamba Osaka              7 |  2   5-2       |  1   3-1       |  3   8-3 [East Region]
+4   Johor Darul Takzim FC    7 |  2   4-1       |  1   2-0       |  3   6-1 [East Region]
+5   Beijing Guoan            7 |  2   5-3       |  1   1-0       |  3   6-3 [East Region]
+6   Kyoto Sanga              6 |  2   6-2       |  1   0-1       |  3   6-3 [East Region]
+7   Kashiwa Reysol           4 |  1   5-1       |  2   1-2       |  3   6-3 [East Region]
+8   SHANGHAI SIPG            4 |  2   3-4       |  1   6-4       |  3   9-8 [East Region]
+9   Daejeon Citizen          4 |  2   1-1       |  1   1-1       |  3   2-2 [East Region]
+10  Jeonbuk Motors           4 |  1   2-1       |  2   2-4       |  3   4-5 [East Region]
+11  Công An Nhân Dân         3 |  1   0-1       |  2   4-6       |  3   4-7 [East Region]
+12  Buriram United           2 |  1   0-1       |  2   2-2       |  3   2-3 [East Region]
+13  Ratchaburi               1 |  2   4-6       |  1   0-1       |  3   4-7 [East Region]
+14  Pohang Steelers          0 |  1   0-2       |  2   1-6       |  3   1-8 [East Region]
+15  Port FC                  0 |  1   1-2       |  2   1-8       |  3   2-10 [East Region]
+16  Newcastle Jets           0 |  1   1-3       |  2   3-12      |  3   4-15 [East Region]
+
+(Beijing Guoan: same table as Port FC, shown above)
+
+(25 API-Football requests used)
+
+----------------------------------------------------------------------
+MATCHBOOK: skipped (switched off for this run)
