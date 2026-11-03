@@ -1,3 +1,5 @@
-RUN 2026-11-03 19:32 local | 1 match(es)
-id:4668 v Elgin City -> out/id_4668_v_Elgin_City.txt
-Requests used: API-Football 26, Matchbook 0
+RUN 2026-11-03 19:58 local | 3 match(es)
+Mushuc Runa v Manta -> out/Mushuc_Runa_v_Manta.txt
+Internacional v Coritiba -> out/Internacional_v_Coritiba.txt
+Sporting San Jose v Perez Zeledon -> out/Sporting_San_Jose_v_Perez_Zeledon.txt
+Requests used: API-Football 77, Matchbook 0
