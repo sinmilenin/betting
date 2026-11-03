@@ -1,20 +1,33 @@
-MATCH Hamilton v Raith | fetched 2026-11-03 19:29 local
+MATCH id:248 v Raith | fetched 2026-11-03 19:30 local
 
-FORM DATA Hamilton v Raith | source API-Football | 2026-11-03 19:29 UTC
+FORM DATA id:248 v Raith | source API-Football | 2026-11-03 19:31 UTC
 H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
 
-"Hamilton" matches several teams. Use id:<number> instead of the name:
-  id:248    Hamilton Academical (Scotland)
-  id:2023   Hamilton City (Canada)
-  id:2536   Hamilton Wanderers (New-Zealand)
-  id:5447   Pembroke Hamilton Club (Bermuda)
-  id:6770   Hamilton Academical U21 (Scotland)
-  id:7953   Hamilton Academical U19 (Scotland)
-  id:10205  Hamilton Olympic (Australia)
-  id:19103  Hamilton United (Canada)
-  id:20405  Hamilton Parish (Bermuda)
-  id:23347  Hamilton Academical W (Scotland)
-  id:24321  West Hamilton Utd (New-Zealand)
+=== Hamilton Academical (id 248): last 20 finished games ===
+2026-10-31 H 1-1 v Montrose | League One | Hamilton
+2026-10-27 A 1-1 v Ross County | League One | Dingwall
+2026-10-24 H 2-1 v East Fife | League One | Hamilton
+2026-10-17 A 2-1 v Airdrie United | League One | Airdrie
+2026-10-13 A 2-0 v Gala Fairydean Rovers | Challenge Cup | Galashiels
+2026-10-10 A 3-0 v Alloa Athletic | League One | Alloa
+2026-10-03 H 2-1 v Peterhead | League One | Hamilton
+2026-09-26 H 3-0 v Kilmarnock II | Challenge Cup | Hamilton
+2026-09-23 H 1-0 v Cowdenbeath | Challenge Cup | Hamilton
+2026-09-19 H 4-1 v Queen of the South | League One | Hamilton
+2026-09-08 A 4-0 v Spartans | Challenge Cup | Edinburgh
+2026-09-05 A 1-0 v East Kilbride | League One | East Kilbride
+2026-08-29 H 1-0 v Cove Rangers | League One | Hamilton
+2026-08-25 H 0-1 v Edinburgh City | Challenge Cup | Hamilton
+2026-08-22 A 0-0 v East Fife | League One | Methil
+2026-08-15 H 4-0 v Airdrie United | League One | Hamilton
+2026-08-12 H 1-3 v Celtic II | Challenge Cup | Hamilton
+2026-08-08 H 1-0 v Alloa Athletic | League One | Hamilton
+2026-08-01 A 5-0 v Montrose | League One | Montrose
+2026-07-25 H 5-0 v Elgin City | League Cup | Hamilton
+Listed home: 12 games, scored 25 (2.08), conceded 8 (0.67), blanks 1, clean sheets 6
+Listed away: 8 games, scored 18 (2.25), conceded 2 (0.25), blanks 1, clean sheets 6
+All: 20 games, scored 43 (2.15), conceded 10 (0.50), blanks 2, clean sheets 12
+
 === Raith Rovers (id 1385): last 20 finished games ===
 2026-10-31 A 4-0 v Arbroath | Championship | Arbroath
 2026-10-24 H 0-2 v Inverness CT | Championship | Kirkcaldy
@@ -40,20 +53,20 @@ Listed home: 11 games, scored 19 (1.73), conceded 9 (0.82), blanks 3, clean shee
 Listed away: 9 games, scored 12 (1.33), conceded 5 (0.56), blanks 3, clean sheets 4
 All: 20 games, scored 31 (1.55), conceded 14 (0.70), blanks 6, clean sheets 9
 
-(retrying Hamilton using the opponent's country, Scotland)
-"Hamilton" matches several teams. Use id:<number> instead of the name:
-  id:248    Hamilton Academical (Scotland)
-  id:2023   Hamilton City (Canada)
-  id:2536   Hamilton Wanderers (New-Zealand)
-  id:5447   Pembroke Hamilton Club (Bermuda)
-  id:6770   Hamilton Academical U21 (Scotland)
-  id:7953   Hamilton Academical U19 (Scotland)
-  id:10205  Hamilton Olympic (Australia)
-  id:19103  Hamilton United (Canada)
-  id:20405  Hamilton Parish (Bermuda)
-  id:23347  Hamilton Academical W (Scotland)
-  id:24321  West Hamilton Utd (New-Zealand)
-!! Hamilton: Ambiguous team name "Hamilton".
+TABLE FOR Hamilton Academical
+LEAGUE TABLE League One 2026 | 10 teams | 64 games played
+League averages per game: home 1.56, away 1.23, total 2.80
+#   team                   Pts | home P GF-GA  | away P GF-GA  | all P GF-GA
+1   Ross County             35 |  6  23-3       |  7  22-5       | 13  45-8
+2   Hamilton Academical     33 |  7  15-4       |  6  12-2       | 13  27-6
+3   Montrose                20 |  6  10-12      |  7   8-9       | 13  18-21
+4   East Kilbride           18 |  7  15-8       |  5   6-9       | 12  21-17
+5   Peterhead               13 |  7   7-9       |  6   4-12      | 13  11-21
+6   Airdrie United          13 |  7   5-7       |  6   5-13      | 13  10-20
+7   Queen of the South      13 |  6   8-15      |  7   5-21      | 13  13-36
+8   Alloa Athletic          12 |  6   5-7       |  7   8-9       | 13  13-16
+9   East Fife               12 |  7   7-10      |  6   4-6       | 13  11-16
+10  Cove Rangers             9 |  5   5-4       |  7   5-14      | 12  10-18
 
 TABLE FOR Raith Rovers
 LEAGUE TABLE Championship 2026 | 10 teams | 64 games played
@@ -70,7 +83,7 @@ League averages per game: home 1.20, away 0.98, total 2.19
 9   Morton                  10 |  6   5-10      |  6   7-10      | 12  12-20
 10  Queen's Park             7 |  6   5-9       |  7   3-13      | 13   8-22
 
-(15 API-Football requests used)
+(26 API-Football requests used)
 
 ----------------------------------------------------------------------
 MATCHBOOK: skipped (switched off for this run)

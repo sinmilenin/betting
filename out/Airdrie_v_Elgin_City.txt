@@ -1,8 +1,11 @@
-MATCH Airdrieonians v Elgin City | fetched 2026-11-03 19:29 local
+MATCH Airdrie v Elgin City | fetched 2026-11-03 19:30 local
 
-FORM DATA Airdrieonians v Elgin City | source API-Football | 2026-11-03 19:29 UTC
+FORM DATA Airdrie v Elgin City | source API-Football | 2026-11-03 19:30 UTC
 H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
 
+"Airdrie" matches several teams. Use id:<number> instead of the name:
+  id:4668   Airdrie United (Scotland)
+  id:23327  Airdrie Ladies (Scotland)
 === Elgin City (id 6767): last 20 finished games ===
 2026-10-31 A 1-0 v Kelty Hearts | League Two | Kelty
 2026-10-24 A 2-1 v Stirling University | FA Cup | ?
@@ -28,7 +31,11 @@ Listed home: 10 games, scored 27 (2.70), conceded 12 (1.20), blanks 2, clean she
 Listed away: 10 games, scored 17 (1.70), conceded 14 (1.40), blanks 2, clean sheets 4
 All: 20 games, scored 44 (2.20), conceded 26 (1.30), blanks 4, clean sheets 8
 
-!! Airdrieonians: No team found for "Airdrieonians".
+(retrying Airdrie using the opponent's country, Scotland)
+"Airdrie" matches several teams. Use id:<number> instead of the name:
+  id:4668   Airdrie United (Scotland)
+  id:23327  Airdrie Ladies (Scotland)
+!! Airdrie: Ambiguous team name "Airdrie".
 
 TABLE FOR Elgin City
 LEAGUE TABLE League Two 2026 | 10 teams | 60 games played
@@ -45,7 +52,7 @@ League averages per game: home 1.92, away 1.43, total 3.35
 9   Forfar Athletic         11 |  5   6-5       |  7   7-19      | 12  13-24
 10  Annan Athletic           9 |  6   8-13      |  6   5-11      | 12  13-24
 
-(14 API-Football requests used)
+(15 API-Football requests used)
 
 ----------------------------------------------------------------------
 MATCHBOOK: skipped (switched off for this run)
