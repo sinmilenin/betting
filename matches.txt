@@ -1,2 +1,2 @@
-# 03.11 06:11 scan: Newcastle Jets v Shanghai Port (ACL)
-Newcastle Jets v Shanghai Port | n=20 | xg=10
+# 03.11 06:11 scan: Newcastle Jets v Shanghai Port (ACL), run 2 (run 1 picked Shanghai Port II)
+Newcastle Jets v Shanghai SIPG | n=20 | xg=10
