@@ -1,4 +1,3 @@
-RUN 2026-11-03 12:43 local | 2 match(es)
-Stade Tunisien v Club Africain -> out/Stade_Tunisien_v_Club_Africain.txt
-Sirius v Halmstad -> out/Sirius_v_Halmstad.txt
-Requests used: API-Football 50, Matchbook 0
+RUN 2026-11-03 12:45 local | 1 match(es)
+Atletico Madrid v id:157 -> out/Atletico_Madrid_v_id_157.txt
+Requests used: API-Football 26, Matchbook 0
