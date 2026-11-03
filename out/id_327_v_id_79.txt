@@ -1,0 +1,103 @@
+MATCH id:327 v id:79 | fetched 2026-11-03 06:46 local
+
+FORM DATA id:327 v id:79 | source API-Football | 2026-11-03 06:46 UTC
+H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
+
+=== Bodo/Glimt (id 327): last 20 finished games ===
+2026-10-30 H 3-2 v Viking | Eliteserien | Hakata | xG 1.49-2.07
+2026-10-24 H 0-1 v Valerenga | Eliteserien | Hakata | xG 2.60-1.41
+2026-10-20 A 3-4 v Napoli | UEFA Champions League | Naples | xG 2.69-1.57
+2026-10-17 A 2-0 v Ham-Kam | Eliteserien | Hamar | xG 2.08-0.58
+2026-10-14 H 1-0 v Borussia Dortmund | UEFA Champions League | Hakata | xG 1.20-0.85
+2026-10-10 H 3-1 v Kristiansund BK | Eliteserien | Hakata | xG 3.96-0.20
+2026-10-01 A 6-2 v Rana | NM Cupen | ?
+2026-09-20 A 1-2 v Brann | Eliteserien | Bergen | xG 1.34-0.76
+2026-09-14 H 3-2 v Sandefjord | Eliteserien | Bodø | xG 3.16-1.01
+2026-09-10 A 0-5 v Bayern München | UEFA Champions League | Munich | xG 0.30-2.61
+2026-09-04 A 2-1 v Fredrikstad | Eliteserien | Fredrikstad
+2026-08-30 H 4-2 v Rosenborg | Eliteserien | Bodø
+2026-08-26 A 5-0 v Fauske Sprint | NM Cupen | ?
+2026-08-25 H 3-0 v NEC Nijmegen | UEFA Champions League | Bodø
+2026-08-19 A 3-1 v NEC Nijmegen | UEFA Champions League | Nijmegen
+2026-08-11 H 2-2 v Union St. Gilloise | UEFA Champions League | Bodø [AET, 90-min score shown]
+2026-08-08 A 2-1 v Valerenga | Eliteserien | Oslo
+2026-08-04 A 3-3 v Union St. Gilloise | UEFA Champions League | Ostend
+2026-07-31 H 4-0 v Lillestrom | Eliteserien | Bodø
+2026-07-26 A 3-0 v Sandefjord | Eliteserien | Sandefjord
+Listed home: 9 games, scored 23 (2.56), conceded 10 (1.11), blanks 1, clean sheets 3
+Listed away: 11 games, scored 30 (2.73), conceded 19 (1.73), blanks 1, clean sheets 3
+All: 20 games, scored 53 (2.65), conceded 29 (1.45), blanks 2, clean sheets 6
+
+=== Lille (id 79): last 20 finished games ===
+2026-10-30 H 1-0 v Lens | Ligue 1 | Lille | xG 1.71-0.26
+2026-10-25 A 1-1 v Monaco | Ligue 1 | Monaco | xG 0.71-2.24
+2026-10-21 H 2-4 v Galatasaray | UEFA Champions League | Lille | xG 2.11-1.66
+2026-10-17 H 1-1 v Stade Brestois 29 | Ligue 1 | Lille | xG 2.17-0.78
+2026-10-13 A 0-3 v Arsenal | UEFA Champions League | London | xG 0.30-1.70
+2026-10-10 H 1-0 v Le Havre | Ligue 1 | Lille | xG 1.26-1.28
+2026-10-02 H 2-1 v Zulte Waregem | Friendlies Clubs | ?
+2026-09-20 A 1-2 v Nice | Ligue 1 | Nice | xG 1.58-1.50
+2026-09-13 H 2-0 v Estac Troyes | Ligue 1 | Lille | xG 1.65-0.38
+2026-09-08 H 2-3 v Real Betis | UEFA Champions League | Lille | xG 0.83-1.80
+2026-09-03 A 1-0 v Toulouse | Ligue 1 | Toulouse
+2026-08-28 H 2-2 v Paris Saint Germain | Ligue 1 | Lille
+2026-08-23 A 2-0 v Angers | Ligue 1 | Angers
+2026-08-15 A 1-1 v Everton | Friendlies Clubs | Liverpool
+2026-08-08 A 2-2 v Hamburger SV | Friendlies Clubs | ?
+2026-08-01 A 6-3 v OH Leuven | Friendlies Clubs | ?
+2026-07-25 A 1-2 v Union St. Gilloise | Friendlies Clubs | ?
+2026-07-18 H 3-0 v RAAL La Louvière | Friendlies Clubs | ?
+2026-05-17 H 0-2 v Auxerre | Ligue 1 | Lille
+2026-05-10 A 1-0 v Monaco | Ligue 1 | Monaco
+Listed home: 10 games, scored 16 (1.60), conceded 13 (1.30), blanks 1, clean sheets 4
+Listed away: 10 games, scored 16 (1.60), conceded 14 (1.40), blanks 1, clean sheets 3
+All: 20 games, scored 32 (1.60), conceded 27 (1.35), blanks 2, clean sheets 7
+
+TABLE FOR Bodo/Glimt
+LEAGUE TABLE Eliteserien 2026 | 16 teams | 200 games played
+League averages per game: home 1.85, away 1.41, total 3.26
+#   team                   Pts | home P GF-GA  | away P GF-GA  | all P GF-GA
+1   Viking                  59 | 12  44-13      | 13  20-13      | 25  64-26
+2   Bodo/Glimt              59 | 13  37-10      | 12  24-13      | 25  61-23
+3   Molde                   43 | 13  35-15      | 12  24-24      | 25  59-39
+4   Rosenborg               43 | 12  28-14      | 13  21-17      | 25  49-31
+5   Lillestrom              42 | 12  22-19      | 13  14-14      | 25  36-33
+6   Tromso                  40 | 12  22-10      | 13  21-28      | 25  43-38
+7   Brann                   32 | 13  23-20      | 12  22-22      | 25  45-42
+8   Valerenga               32 | 13  27-20      | 12  16-26      | 25  43-46
+9   Sarpsborg 08 FF         31 | 13  16-20      | 12  16-19      | 25  32-39
+10  KFUM Oslo               31 | 13  17-16      | 12  15-25      | 25  32-41
+11  Fredrikstad             29 | 12  14-15      | 13  15-29      | 25  29-44
+12  Sandefjord              27 | 12  10-12      | 13  16-22      | 25  26-34
+13  Ham-Kam                 27 | 12  17-24      | 13  18-29      | 25  35-53
+14  Aalesund                24 | 13  27-34      | 12  16-23      | 25  43-57
+15  Kristiansund BK         23 | 12  16-20      | 13  13-31      | 25  29-51
+16  Start                   19 | 13  15-20      | 12  11-35      | 25  26-55
+
+TABLE FOR Lille
+LEAGUE TABLE Ligue 1 2026 | 18 teams | 81 games played
+League averages per game: home 1.70, away 1.33, total 3.04
+#   team                   Pts | home P GF-GA  | away P GF-GA  | all P GF-GA
+1   Paris Saint Germain     20 |  3   6-3       |  6  15-7       |  9  21-10
+2   Lille                   18 |  5   7-3       |  4   5-3       |  9  12-6
+3   Lyon                    17 |  5  12-3       |  4   3-4       |  9  15-7
+4   Paris FC                17 |  5  12-5       |  4   4-5       |  9  16-10
+5   Rennes                  16 |  5  13-5       |  4   7-14      |  9  20-19
+6   Marseille               15 |  5  13-8       |  4   7-5       |  9  20-13
+7   Monaco                  15 |  4   7-4       |  5   5-6       |  9  12-10
+8   Nice                    14 |  5  10-5       |  4   3-7       |  9  13-12
+9   Lens                    13 |  4   9-5       |  5   7-8       |  9  16-13
+10  Stade Brestois 29       12 |  4   8-6       |  5   8-6       |  9  16-12
+11  Lorient                 12 |  5   5-6       |  4   2-2       |  9   7-8
+12  Toulouse                10 |  4   3-5       |  5   9-8       |  9  12-13
+13  Strasbourg              10 |  4   9-6       |  5   8-13      |  9  17-19
+14  Auxerre                 10 |  4   5-5       |  5   8-18      |  9  13-23
+15  Angers                   8 |  5   5-9       |  4   4-8       |  9   9-17
+16  Estac Troyes             8 |  5   5-11      |  4   2-5       |  9   7-16
+17  Le Mans                  7 |  4   6-8       |  5   5-10      |  9  11-18
+18  Le Havre                 2 |  5   3-11      |  4   6-9       |  9   9-20
+
+(26 API-Football requests used)
+
+----------------------------------------------------------------------
+MATCHBOOK: skipped (switched off for this run)
