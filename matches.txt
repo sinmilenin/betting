@@ -1,4 +1,3 @@
-# 03.11 18:56 scan: retry Petrol Asyut, Gillingham Res., Deportes Tolima
-ENPPI v Petrol Asyut | n=20 | xg=10
-Gillingham Res. v Huddersfield Town U21 | n=20 | xg=10
-Deportivo Pereira v Deportes Tolima | n=20 | xg=10
+# 03.11 18:56 scan: retry Gillingham youth side
+Gillingham U23 v Huddersfield Town U21 | n=20 | xg=10
+Gillingham v Huddersfield Town U21 | n=1 | xg=0
