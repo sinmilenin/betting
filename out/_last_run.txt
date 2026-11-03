@@ -1,4 +1,3 @@
-RUN 2026-11-03 09:42 local | 2 match(es)
-Jeonbuk Motors v Johor Darul Tazim -> out/Jeonbuk_Motors_v_Johor_Darul_Tazim.txt
-Port FC v Beijing Guoan -> out/Port_FC_v_Beijing_Guoan.txt
-Requests used: API-Football 51, Matchbook 0
+RUN 2026-11-03 09:43 local | 1 match(es)
+Jeonbuk Motors v Johor Darul Takzim FC -> out/Jeonbuk_Motors_v_Johor_Darul_Takzim_FC.txt
+Requests used: API-Football 26, Matchbook 0
