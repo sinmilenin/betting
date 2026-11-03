@@ -1,2 +1,3 @@
-# 03.11 12:56 scan: Dhamk v Al-Akhdoud (Saudi 1st Division)
-Damac v Al Okhdood | n=20 | xg=10
+# 03.11 13:45 scan + top-20: Stade Tunisien v Club Africain, Sirius v Halmstads
+Stade Tunisien v Club Africain | n=20 | xg=10
+Sirius v Halmstad | n=20 | xg=10
