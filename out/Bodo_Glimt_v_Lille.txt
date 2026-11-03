@@ -1,0 +1,27 @@
+MATCH Bodo/Glimt v Lille | fetched 2026-11-03 06:42 local
+
+FORM DATA Bodo/Glimt v Lille | source API-Football | 2026-11-03 06:43 UTC
+H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
+
+"Lille" matches several teams. Use id:<number> instead of the name:
+  id:79     Lille (France)
+  id:321    Lillestrom (Norway)
+  id:1678   Lille W (France)
+  id:5734   Lille (Belgium)
+  id:7908   Lille U19 (France)
+  id:9234   Lille II (France)
+  id:13652  Lille Sud (France)
+  id:13653  Lillebonne (France)
+  id:14306  Lilleküla Retro (Estonia)
+  id:16207  Lillestrøm II (Norway)
+  id:16559  Lillestrøm U19 (Norway)
+  id:18437  Lillehammer (Norway)
+  id:19535  Sparta Lille (Belgium)
+!! Bodo/Glimt: API-Football error: {"search": "The Search field may only contain alpha-numeric characters and spaces."}
+
+!! Lille: Ambiguous team name "Lille".
+
+(2 API-Football requests used)
+
+----------------------------------------------------------------------
+MATCHBOOK: skipped (switched off for this run)

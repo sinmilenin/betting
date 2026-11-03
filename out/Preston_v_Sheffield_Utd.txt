@@ -1,0 +1,13 @@
+MATCH Preston v Sheffield Utd | fetched 2026-11-03 06:42 local
+
+FORM DATA Preston v Sheffield Utd | source API-Football | 2026-11-03 06:43 UTC
+H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
+
+!! Preston: API-Football error: HTTP 429 from API-Football
+
+!! Sheffield Utd: API-Football error: HTTP 429 from API-Football
+
+(0 API-Football requests used)
+
+----------------------------------------------------------------------
+MATCHBOOK: skipped (switched off for this run)

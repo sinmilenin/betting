@@ -1,0 +1,78 @@
+MATCH Barcelona v Aston Villa | fetched 2026-11-03 06:42 local
+
+FORM DATA Barcelona v Aston Villa | source API-Football | 2026-11-03 06:43 UTC
+H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
+
+=== Barcelona (id 529): last 20 finished games ===
+2026-10-31 H 6-1 v Alaves | La Liga | Barcelona | xG 3.30-0.78
+2026-10-25 H 1-2 v Real Madrid | La Liga | Barcelona | xG 1.27-2.00
+2026-10-20 A 2-4 v Paris Saint Germain | UEFA Champions League | Paris | xG 2.25-3.74
+2026-10-17 A 5-2 v Real Betis | La Liga | Seville | xG 3.10-1.24
+2026-10-13 A 4-1 v Galatasaray | UEFA Champions League | Istanbul | xG 2.86-0.42
+2026-10-10 H 3-0 v Getafe | La Liga | Barcelona | xG 1.93-0.14
+2026-09-19 A 3-1 v Sevilla | La Liga | Sevilla | xG 3.47-0.40
+2026-09-16 H 7-2 v Racing Santander | La Liga | Barcelona | xG 6.74-1.98
+2026-09-13 A 4-2 v Levante | La Liga | Valencia | xG 2.58-2.42
+2026-09-09 H 5-1 v Feyenoord | UEFA Champions League | Barcelona | xG 2.10-0.53
+2026-09-06 A 5-0 v Valencia | La Liga | Valencia
+2026-08-31 H 5-2 v Rayo Vallecano | La Liga | Barcelona
+2026-08-27 H 2-0 v Athletic Club | La Liga | Barcelona
+2026-08-23 A 5-0 v Elche | La Liga | Elche
+2026-08-19 H 2-1 v Al Ahly | Friendlies Clubs | ?
+2026-08-16 A 5-2 v FC Basel 1893 | Friendlies Clubs | ?
+2026-08-08 A 0-1 v Udinese | Friendlies Clubs | ?
+2026-08-08 H 1-0 v Nottingham Forest | Friendlies Clubs | ?
+2026-07-31 A 2-2 v Birmingham | Friendlies Clubs | Birmingham [PEN, 90-min score shown]
+2026-07-24 H 4-1 v Europa Fc | Friendlies Clubs | ?
+Listed home: 10 games, scored 36 (3.60), conceded 10 (1.00), blanks 0, clean sheets 3
+Listed away: 10 games, scored 35 (3.50), conceded 15 (1.50), blanks 1, clean sheets 2
+All: 20 games, scored 71 (3.55), conceded 25 (1.25), blanks 1, clean sheets 5
+
+"Aston Villa" matches several teams. Use id:<number> instead of the name:
+  id:66     Aston Villa (England)
+  id:7190   Aston Villa U21 (England)
+  id:14219  Aston Villa W (England)
+  id:15389  Aston Villa U18 (England)
+  id:15632  Aston Villa U23 (England)
+  id:22805  Aston Villa (Antigua-and-Barbuda)
+  id:24970  Aston Villa U19 (England)
+(retrying Aston Villa using the opponent's country, Spain)
+"Aston Villa" matches several teams. Use id:<number> instead of the name:
+  id:66     Aston Villa (England)
+  id:7190   Aston Villa U21 (England)
+  id:14219  Aston Villa W (England)
+  id:15389  Aston Villa U18 (England)
+  id:15632  Aston Villa U23 (England)
+  id:22805  Aston Villa (Antigua-and-Barbuda)
+  id:24970  Aston Villa U19 (England)
+!! Aston Villa: Ambiguous team name "Aston Villa".
+
+TABLE FOR Barcelona
+LEAGUE TABLE La Liga 2026 | 20 teams | 109 games played
+League averages per game: home 1.71, away 1.30, total 3.01
+#   team                   Pts | home P GF-GA  | away P GF-GA  | all P GF-GA
+1   Barcelona               30 |  6  24-7       |  5  22-5       | 11  46-12
+2   Atletico Madrid         28 |  5  11-3       |  6  11-5       | 11  22-8
+3   Real Madrid             27 |  5  17-3       |  6  11-7       | 11  28-10
+4   Real Betis              23 |  6  12-8       |  5   6-7       | 11  18-15
+5   Real Sociedad           19 |  5   7-7       |  6  13-13      | 11  20-20
+6   Sevilla                 17 |  5   7-7       |  6  10-12      | 11  17-19
+7   Athletic Club           15 |  6  11-5       |  4   3-5       | 10  14-10
+8   Deportivo La Coruna     14 |  6   8-6       |  5   7-8       | 11  15-14
+9   Villarreal              12 |  5   6-7       |  6   9-8       | 11  15-15
+10  Celta Vigo              12 |  6   9-6       |  5   1-4       | 11  10-10
+11  Alaves                  12 |  6  11-6       |  5   4-11      | 11  15-17
+12  Rayo Vallecano          12 |  5   9-7       |  5   6-13      | 10  15-20
+13  Getafe                  12 |  6   8-4       |  5   0-12      | 11   8-16
+14  Espanyol                11 |  5   6-7       |  6   7-7       | 11  13-14
+15  Osasuna                 11 |  5   4-3       |  6   7-19      | 11  11-22
+16  Racing Santander        11 |  6  11-11      |  5   4-18      | 11  15-29
+17  Elche                   10 |  5   4-12      |  6  10-6       | 11  14-18
+18  Levante                 10 |  5  13-12      |  6   3-9       | 11  16-21
+19  Valencia                 9 |  6   3-11      |  5   5-6       | 11   8-17
+20  Malaga                   5 |  5   5-10      |  6   3-11      | 11   8-21
+
+(14 API-Football requests used)
+
+----------------------------------------------------------------------
+MATCHBOOK: skipped (switched off for this run)

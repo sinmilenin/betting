@@ -1,0 +1,105 @@
+MATCH Galatasaray v VfB Stuttgart | fetched 2026-11-03 06:42 local
+
+FORM DATA Galatasaray v VfB Stuttgart | source API-Football | 2026-11-03 06:43 UTC
+H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
+
+=== Galatasaray (id 645): last 20 finished games ===
+2026-10-30 A 4-0 v Konyaspor | Süper Lig | Konya | xG 2.80-1.38
+2026-10-26 H 2-1 v Fenerbahçe | Süper Lig | Istanbul | xG 2.27-0.31
+2026-10-21 A 4-2 v Lille | UEFA Champions League | Lille | xG 1.66-2.11
+2026-10-17 A 1-0 v Gençlerbirliği S.K. | Süper Lig | Ankara | xG 1.92-1.74
+2026-10-13 H 1-4 v Barcelona | UEFA Champions League | Istanbul | xG 0.42-2.86
+2026-10-09 H 3-1 v Kasımpaşa | Süper Lig | Istanbul | xG 2.52-0.49
+2026-10-02 A 3-3 v Pendikspor | Friendlies Clubs | Istanbul
+2026-09-19 A 0-4 v Trabzonspor | Süper Lig | Trabzon | xG 0.96-2.20
+2026-09-13 H 1-0 v Kocaelispor | Süper Lig | Istanbul | xG 2.26-0.82
+2026-09-09 A 1-3 v Sporting CP | UEFA Champions League | Lisbon | xG 1.23-1.75
+2026-09-04 A 3-2 v Başakşehir | Süper Lig | Istanbul
+2026-08-29 H 3-2 v Göztepe | Süper Lig | Istanbul
+2026-08-21 A 4-0 v Erzurumspor FK | Süper Lig | Erzurum
+2026-08-14 H 2-2 v Çorum FK | Süper Lig | Istanbul
+2026-08-08 H 1-2 v Villarreal | Friendlies Clubs | Istanbul
+2026-08-02 H 3-3 v Rennes | Friendlies Clubs | Istanbul
+2026-07-27 H 0-3 v Venezia | Friendlies Clubs | Linz
+2026-07-24 H 0-2 v Monza | Friendlies Clubs | Linz
+2026-07-17 A 5-1 v Ümraniyespor | Friendlies Clubs | Istanbul
+2026-05-17 A 0-1 v Kasımpaşa | Süper Lig | Istanbul
+Listed home: 10 games, scored 16 (1.60), conceded 20 (2.00), blanks 2, clean sheets 1
+Listed away: 10 games, scored 25 (2.50), conceded 16 (1.60), blanks 2, clean sheets 3
+All: 20 games, scored 41 (2.05), conceded 36 (1.80), blanks 4, clean sheets 4
+
+=== VfB Stuttgart (id 172): last 20 finished games ===
+2026-10-31 A 4-2 v Bayer Leverkusen | Bundesliga | Bayer Leverkusen | xG 2.88-2.07
+2026-10-28 A 1-0 v SC Paderborn 07 | DFB Pokal | Paderborn | xG 3.22-0.92
+2026-10-23 H 2-3 v Borussia Mönchengladbach | Bundesliga | Stuttgart | xG 1.60-2.66
+2026-10-20 H 1-1 v Atletico Madrid | UEFA Champions League | Stuttgart | xG 1.63-0.91
+2026-10-17 A 0-1 v Hamburger SV | Bundesliga | Hamburger | xG 2.28-1.50
+2026-10-14 A 3-0 v Slovan Bratislava | UEFA Champions League | Bratislava | xG 2.21-0.82
+2026-10-10 A 2-0 v SC Paderborn 07 | Bundesliga | Paderborn | xG 2.47-1.96
+2026-10-01 H 5-0 v SpVgg Greuther Fürth | Friendlies Clubs | ?
+2026-09-25 H 3-0 v 1. FC Heidenheim | Friendlies Clubs | Stuttgart
+2026-09-19 H 0-1 v Borussia Dortmund | Bundesliga | Stuttgart | xG 0.87-1.34
+2026-09-12 A 1-2 v 1899 Hoffenheim | Bundesliga | Sinsheim
+2026-09-09 H 3-1 v Viking | UEFA Champions League | Stuttgart
+2026-09-04 H 4-1 v 1. FC Köln | Bundesliga | Stuttgart
+2026-08-28 A 1-5 v Bayern München | Bundesliga | Munich
+2026-08-21 A 4-0 v Hansa Rostock | DFB Pokal | Rostock
+2026-08-15 A 0-1 v Fulham | Friendlies Clubs | ?
+2026-08-08 H 3-1 v Everton | Friendlies Clubs | ?
+2026-08-01 H 2-2 v Paris FC | Friendlies Clubs | ?
+2026-07-29 A 8-1 v Kickers Offenbach | Friendlies Clubs | ?
+2026-07-25 A 5-0 v Hollenbach | Friendlies Clubs | ?
+Listed home: 9 games, scored 23 (2.56), conceded 10 (1.11), blanks 1, clean sheets 2
+Listed away: 11 games, scored 29 (2.64), conceded 12 (1.09), blanks 2, clean sheets 5
+All: 20 games, scored 52 (2.60), conceded 22 (1.10), blanks 3, clean sheets 7
+
+TABLE FOR Galatasaray
+LEAGUE TABLE Süper Lig 2026 | 18 teams | 90 games played
+League averages per game: home 1.73, away 1.27, total 3.00
+#   team                   Pts | home P GF-GA  | away P GF-GA  | all P GF-GA
+1   Galatasaray             25 |  5  11-6       |  5  12-6       | 10  23-12
+2   Amed                    23 |  6  19-4       |  4   6-7       | 10  25-11
+3   Trabzonspor             22 |  5  15-1       |  5   9-7       | 10  24-8
+4   Beşiktaş                19 |  5  14-3       |  5   6-9       | 10  20-12
+5   Kasımpaşa               17 |  5   9-6       |  5   6-5       | 10  15-11
+6   Fenerbahçe              16 |  5  17-6       |  5   7-4       | 10  24-10
+7   Çorum FK                16 |  4   6-4       |  6  15-12      | 10  21-16
+8   Kocaelispor             16 |  5   6-2       |  5   5-7       | 10  11-9
+9   Göztepe                 15 |  4   6-7       |  6  15-10      | 10  21-17
+10  Başakşehir              14 |  6  16-7       |  4   1-9       | 10  17-16
+11  Erzurumspor FK          14 |  5   5-7       |  5   4-8       | 10   9-15
+12  Alanyaspor              12 |  4   4-4       |  6   5-12      | 10   9-16
+13  Rizespor                11 |  4   3-10      |  6   8-5       | 10  11-15
+14  Gençlerbirliği S.K.     11 |  6  11-7       |  4   1-11      | 10  12-18
+15  Konyaspor                8 |  6   4-7       |  4   2-6       | 10   6-13
+16  Gaziantep FK             8 |  5   3-9       |  5   6-8       | 10   9-17
+17  Samsunspor               4 |  5   5-15      |  5   5-11      | 10  10-26
+18  Eyüpspor                 3 |  5   2-9       |  5   1-19      | 10   3-28
+
+TABLE FOR VfB Stuttgart
+LEAGUE TABLE Bundesliga 2026 | 18 teams | 72 games played
+League averages per game: home 2.12, away 1.38, total 3.50
+#   team                   Pts | home P GF-GA  | away P GF-GA  | all P GF-GA
+1   Bayern München          18 |  4  20-4       |  4   7-4       |  8  27-8
+2   Borussia Dortmund       18 |  4   8-2       |  4   6-4       |  8  14-6
+3   SC Freiburg             16 |  4  12-5       |  4   6-5       |  8  18-10
+4   RB Leipzig              15 |  4  18-0       |  4   4-11      |  8  22-11
+5   Werder Bremen           15 |  4  10-5       |  4   7-9       |  8  17-14
+6   Bayer Leverkusen        13 |  4  10-5       |  4   8-11      |  8  18-16
+7   SV Elversberg           13 |  4  12-8       |  4   4-8       |  8  16-16
+8   Eintracht Frankfurt     11 |  4   7-7       |  4   6-11      |  8  13-18
+9   FSV Mainz 05            10 |  4   6-10      |  4  11-7       |  8  17-17
+10  FC Augsburg              9 |  5   9-7       |  3   9-8       |  8  18-15
+11  VfB Stuttgart            9 |  3   6-5       |  5   8-10      |  8  14-15
+12  1899 Hoffenheim          9 |  4   9-7       |  4   5-9       |  8  14-16
+13  1. FC Köln               9 |  4   6-4       |  4   3-8       |  8   9-12
+14  SC Paderborn 07          9 |  4   4-4       |  4   2-5       |  8   6-9
+15  Hamburger SV             9 |  3   3-6       |  5   4-13      |  8   7-19
+16  Union Berlin             7 |  5   6-7       |  3   1-12      |  8   7-19
+17  FC Schalke 04            6 |  4   0-3       |  4   4-6       |  8   4-9
+18  Borussia Mönchengladba   4 |  4   7-10      |  4   4-12      |  8  11-22
+
+(26 API-Football requests used)
+
+----------------------------------------------------------------------
+MATCHBOOK: skipped (switched off for this run)

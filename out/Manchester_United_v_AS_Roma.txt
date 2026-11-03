@@ -1,0 +1,109 @@
+MATCH Manchester United v AS Roma | fetched 2026-11-03 06:42 local
+
+FORM DATA Manchester United v AS Roma | source API-Football | 2026-11-03 06:43 UTC
+H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
+
+=== Manchester United (id 33): last 20 finished games ===
+2026-10-31 A 0-2 v Chelsea | Premier League | London | xG 1.19-2.71
+2026-10-25 H 0-3 v Bournemouth | Premier League | Manchester | xG 1.17-2.15
+2026-10-21 A 1-4 v Como | UEFA Champions League | Como | xG 1.05-2.19
+2026-10-18 A 1-1 v Leeds | Premier League | Leeds | xG 0.93-1.48
+2026-10-13 A 0-2 v Atletico Madrid | UEFA Champions League | Madrid | xG 0.98-1.47
+2026-10-10 H 1-1 v Tottenham | Premier League | Manchester | xG 0.80-1.62
+2026-09-20 A 1-1 v Fulham | Premier League | London | xG 1.60-1.62
+2026-09-16 H 2-3 v Brighton | League Cup | Manchester
+2026-09-13 H 0-1 v Manchester City | Premier League | Manchester | xG 1.00-1.10
+2026-09-10 H 4-0 v Sabah FA | UEFA Champions League | Manchester | xG 3.54-0.84
+2026-09-06 A 2-2 v Everton | Premier League | Liverpool
+2026-08-30 H 5-2 v Ipswich | Premier League | Manchester
+2026-08-22 A 0-2 v Hull City | Premier League | Hull
+2026-08-15 H 2-4 v AC Milan | Friendlies Clubs | ?
+2026-08-12 H 1-1 v Leeds | Friendlies Clubs | Dublin [PEN, 90-min score shown]
+2026-08-08 A 1-1 v Paris Saint Germain | Friendlies Clubs | ?
+2026-08-01 H 2-1 v Atletico Madrid | Friendlies Clubs | Solna
+2026-07-24 A 5-0 v Rosenborg | Friendlies Clubs | Trondheim
+2026-07-18 H 0-1 v Wrexham | Friendlies Clubs | Helsinki
+2026-05-24 A 3-0 v Brighton | Premier League | Brighton
+Listed home: 10 games, scored 17 (1.70), conceded 17 (1.70), blanks 3, clean sheets 1
+Listed away: 10 games, scored 14 (1.40), conceded 15 (1.50), blanks 3, clean sheets 2
+All: 20 games, scored 31 (1.55), conceded 32 (1.60), blanks 6, clean sheets 3
+
+=== AS Roma (id 497): last 20 finished games ===
+2026-10-31 A 5-2 v Udinese | Serie A | Udine | xG 2.82-1.85
+2026-10-27 H 4-2 v Cagliari | Serie A | Rome | xG 2.96-2.68
+2026-10-24 A 3-3 v Napoli | Serie A | Naples | xG 1.90-2.44
+2026-10-20 H 4-0 v Slovan Bratislava | UEFA Champions League | Rome | xG 3.19-0.04
+2026-10-17 H 2-0 v Genoa | Serie A | Rome | xG 1.33-0.47
+2026-10-14 H 3-4 v Real Madrid | UEFA Champions League | Rome | xG 1.49-1.49
+2026-10-11 A 0-0 v Como | Serie A | Como | xG 1.08-1.35
+2026-09-19 H 2-2 v Inter | Serie A | Rome | xG 1.66-2.86
+2026-09-14 A 2-0 v Torino | Serie A | Turin | xG 1.85-0.86
+2026-09-10 A 1-1 v Fenerbahçe | UEFA Champions League | Istanbul | xG 0.48-1.57
+2026-09-05 H 2-1 v Atalanta | Serie A | Rome
+2026-08-31 A 4-0 v Lecce | Serie A | Lecce
+2026-08-24 H 4-0 v Fiorentina | Serie A | Rome
+2026-08-15 A 2-2 v Borussia Dortmund | Friendlies Clubs | Dortmund
+2026-08-08 A 0-3 v Brighton | Friendlies Clubs | Brighton
+2026-08-04 A 4-1 v Newport County | Friendlies Clubs | Newport
+2026-08-01 A 1-4 v Cardiff | Friendlies Clubs | Cardiff
+2026-07-26 A 3-3 v Cannes | Friendlies Clubs | Cannes
+2026-05-24 A 2-0 v Hellas Verona | Serie A | Verona
+2026-05-17 H 2-0 v Lazio | Serie A | Rome
+Listed home: 8 games, scored 23 (2.88), conceded 9 (1.12), blanks 0, clean sheets 4
+Listed away: 12 games, scored 27 (2.25), conceded 19 (1.58), blanks 2, clean sheets 4
+All: 20 games, scored 50 (2.50), conceded 28 (1.40), blanks 2, clean sheets 8
+
+TABLE FOR Manchester United
+LEAGUE TABLE Premier League 2026 | 20 teams | 90 games played
+League averages per game: home 1.50, away 1.20, total 2.70
+#   team                   Pts | home P GF-GA  | away P GF-GA  | all P GF-GA
+1   Arsenal                 24 |  4   9-2       |  5   5-3       |  9  14-5
+2   Manchester City         21 |  5  11-7       |  4   9-3       |  9  20-10
+3   Brighton                19 |  4  13-1       |  5  11-6       |  9  24-7
+4   Chelsea                 16 |  5  13-8       |  4   6-7       |  9  19-15
+5   Liverpool               15 |  5   4-6       |  4   7-3       |  9  11-9
+6   Brentford               14 |  5  10-3       |  4   6-6       |  9  16-9
+7   Everton                 13 |  4   5-4       |  5   4-5       |  9   9-9
+8   Bournemouth             12 |  5   7-4       |  4   7-9       |  9  14-13
+9   Tottenham               12 |  5   7-6       |  4   3-4       |  9  10-10
+10  Aston Villa             12 |  5   6-7       |  4   4-6       |  9  10-13
+11  Hull City               11 |  5   7-5       |  4   4-5       |  9  11-10
+12  Leeds                   11 |  4   6-3       |  5   3-5       |  9   9-8
+13  Newcastle               11 |  5   6-7       |  4   6-8       |  9  12-15
+14  Ipswich                 11 |  4   5-5       |  5   9-13      |  9  14-18
+15  Fulham                   9 |  4   6-7       |  5   3-4       |  9   9-11
+16  Coventry                 9 |  5   7-9       |  4   2-7       |  9   9-16
+17  Manchester United        7 |  4   6-7       |  5   4-8       |  9  10-15
+18  Crystal Palace           7 |  4   6-10      |  5   3-11      |  9   9-21
+19  Nottingham Forest        6 |  4   0-3       |  5   6-9       |  9   6-12
+20  Sunderland               5 |  4   1-4       |  5   6-13      |  9   7-17
+
+TABLE FOR AS Roma
+LEAGUE TABLE Serie A 2026 | 20 teams | 100 games played
+League averages per game: home 1.62, away 1.56, total 3.18
+#   team                   Pts | home P GF-GA  | away P GF-GA  | all P GF-GA
+1   Lazio                   28 |  5  10-5       |  5  14-3       | 10  24-8
+2   Inter                   25 |  5  17-7       |  5   9-6       | 10  26-13
+3   AS Roma                 24 |  5  14-5       |  5  14-5       | 10  28-10
+4   Como                    23 |  4   5-1       |  6  13-7       | 10  18-8
+5   AC Milan                21 |  5  13-7       |  5   8-5       | 10  21-12
+6   Frosinone               20 |  6  16-6       |  4   8-8       | 10  24-14
+7   Juventus                17 |  5   7-4       |  5   6-6       | 10  13-10
+8   Napoli                  14 |  4   8-5       |  6   9-8       | 10  17-13
+9   Bologna                 14 |  5   6-8       |  5   8-5       | 10  14-13
+10  Torino                  13 |  5   7-10      |  5   7-6       | 10  14-16
+11  Genoa                   13 |  6   7-8       |  4   3-6       | 10  10-14
+12  Cagliari                13 |  4   2-4       |  6   7-11      | 10   9-15
+13  Atalanta                11 |  6  11-11      |  4   5-9       | 10  16-20
+14  Lecce                    9 |  5   5-12      |  5   6-9       | 10  11-21
+15  Parma                    8 |  5   3-6       |  5   5-9       | 10   8-15
+16  Fiorentina               8 |  5   5-11      |  5  10-12      | 10  15-23
+17  Sassuolo                 8 |  5  10-14      |  5   6-12      | 10  16-26
+18  Monza                    7 |  4   9-8       |  6   8-16      | 10  17-24
+19  Udinese                  5 |  6   4-14      |  4   7-9       | 10  11-23
+20  Venezia                  3 |  5   3-10      |  5   3-10      | 10   6-20
+
+(26 API-Football requests used)
+
+----------------------------------------------------------------------
+MATCHBOOK: skipped (switched off for this run)

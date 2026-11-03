@@ -1,3 +1,38 @@
-RUN 2026-11-03 05:13 local | 1 match(es)
-Newcastle Jets v Shanghai SIPG -> out/Newcastle_Jets_v_Shanghai_SIPG.txt
-Requests used: API-Football 26, Matchbook 0
+RUN 2026-11-03 06:42 local | 20 match(es)
+FC Ryukyu v FC Gifu -> out/FC_Ryukyu_v_FC_Gifu.txt
+Manchester United v AS Roma -> out/Manchester_United_v_AS_Roma.txt
+Villarreal v Paris Saint Germain -> out/Villarreal_v_Paris_Saint_Germain.txt
+Atletico Madrid v Bayern Munich -> out/Atletico_Madrid_v_Bayern_Munich.txt
+Galatasaray v VfB Stuttgart -> out/Galatasaray_v_VfB_Stuttgart.txt
+Barcelona v Aston Villa -> out/Barcelona_v_Aston_Villa.txt
+    !! Aston Villa: Ambiguous team name "Aston Villa".
+Feyenoord v Inter -> out/Feyenoord_v_Inter.txt
+    !! Inter: Ambiguous team name "Inter".
+Bodo/Glimt v Lille -> out/Bodo_Glimt_v_Lille.txt
+    !! Bodo/Glimt: API-Football error: {"search": "The Search field may only contain alpha-numeric characters and spaces."}
+    !! Lille: Ambiguous team name "Lille".
+Shakhtar Donetsk v Sporting CP -> out/Shakhtar_Donetsk_v_Sporting_CP.txt
+LASK Linz v Slovan Bratislava -> out/LASK_Linz_v_Slovan_Bratislava.txt
+QPR v Burnley -> out/QPR_v_Burnley.txt
+Smouha v Pyramids FC -> out/Smouha_v_Pyramids_FC.txt
+Portsmouth v Swansea -> out/Portsmouth_v_Swansea.txt
+Birmingham v Millwall -> out/Birmingham_v_Millwall.txt
+Charlton v Bolton -> out/Charlton_v_Bolton.txt
+    !! Charlton: API-Football error: HTTP 429 from API-Football
+    !! Bolton: API-Football error: HTTP 429 from API-Football
+West Brom v Southampton -> out/West_Brom_v_Southampton.txt
+    !! West Brom: API-Football error: HTTP 429 from API-Football
+    !! Southampton: API-Football error: HTTP 429 from API-Football
+Watford v Lincoln -> out/Watford_v_Lincoln.txt
+    !! Watford: API-Football error: HTTP 429 from API-Football
+    !! Lincoln: API-Football error: HTTP 429 from API-Football
+Derby v Norwich -> out/Derby_v_Norwich.txt
+    !! Derby: API-Football error: HTTP 429 from API-Football
+    !! Norwich: API-Football error: HTTP 429 from API-Football
+Preston v Sheffield Utd -> out/Preston_v_Sheffield_Utd.txt
+    !! Preston: API-Football error: HTTP 429 from API-Football
+    !! Sheffield Utd: API-Football error: HTTP 429 from API-Football
+Northampton v Oldham -> out/Northampton_v_Oldham.txt
+    !! Northampton: API-Football error: HTTP 429 from API-Football
+    !! Oldham: API-Football error: HTTP 429 from API-Football
+Requests used: API-Football 302, Matchbook 0
