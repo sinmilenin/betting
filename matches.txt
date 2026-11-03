@@ -1,3 +1,8 @@
-# 03.11 17:27 scan: retry Randers by id 401, Newcastle U21 full name
-id:625 v id:401 | n=20 | xg=10
-Rotherham v Newcastle United U21 | n=20 | xg=10
+# 03.11 18:12 scan: first analyses
+Rochdale v Doncaster | n=20 | xg=10
+St Mirren B v Peterhead | n=20 | xg=10
+Blackburn v Stoke | n=20 | xg=10
+Wigan v Mansfield | n=20 | xg=10
+Formartine United v Cove Rangers | n=20 | xg=10
+Huddersfield v Luton | n=20 | xg=10
+Comerciantes Unidos v Deportivo Tarma | n=20 | xg=10
