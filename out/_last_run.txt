@@ -1,3 +1,6 @@
-RUN 2026-11-03 15:46 local | 1 match(es)
-id:2932 v id:2870 -> out/id_2932_v_id_2870.txt
-Requests used: API-Football 26, Matchbook 0
+RUN 2026-11-03 16:29 local | 2 match(es)
+Lyngby v Randers -> out/Lyngby_v_Randers.txt
+    !! Randers: Ambiguous team name "Randers".
+Rotherham v Newcastle U21 -> out/Rotherham_v_Newcastle_U21.txt
+    !! Newcastle U21: No team found for "Newcastle U21".
+Requests used: API-Football 29, Matchbook 0
