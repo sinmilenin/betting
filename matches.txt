@@ -1,18 +1,7 @@
-# 03.11 07:42 scan + top-20: Ryukyu v Gifu (J3) + top-20 kick-offs until midnight
-FC Ryukyu v FC Gifu | n=20 | xg=10
-Manchester United v AS Roma | n=20 | xg=10
-Villarreal v Paris Saint Germain | n=20 | xg=10
-Atletico Madrid v Bayern Munich | n=20 | xg=10
-Galatasaray v VfB Stuttgart | n=20 | xg=10
-Barcelona v Aston Villa | n=20 | xg=10
-Feyenoord v Inter | n=20 | xg=10
-Bodo/Glimt v Lille | n=20 | xg=10
-Shakhtar Donetsk v Sporting CP | n=20 | xg=10
-LASK Linz v Slovan Bratislava | n=20 | xg=10
-QPR v Burnley | n=20 | xg=10
-Smouha v Pyramids FC | n=20 | xg=10
-Portsmouth v Swansea | n=20 | xg=10
-Birmingham v Millwall | n=20 | xg=10
+# 03.11 07:42 scan + top-20: run 2 (retry of rate-limited and ambiguous teams)
+Barcelona v id:66 | n=20 | xg=10
+Feyenoord v id:505 | n=20 | xg=10
+id:327 v id:79 | n=20 | xg=10
 Charlton v Bolton | n=20 | xg=10
 West Brom v Southampton | n=20 | xg=10
 Watford v Lincoln | n=20 | xg=10
