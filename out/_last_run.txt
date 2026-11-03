@@ -1,7 +1,8 @@
-RUN 2026-11-03 17:15 local | 4 match(es)
-Blackburn v Stoke City -> out/Blackburn_v_Stoke_City.txt
-Wigan v Mansfield Town -> out/Wigan_v_Mansfield_Town.txt
-Comerciantes Unidos v ADT -> out/Comerciantes_Unidos_v_ADT.txt
-St Mirren II v Peterhead -> out/St_Mirren_II_v_Peterhead.txt
-    !! St Mirren II: No team found for "St Mirren II".
-Requests used: API-Football 89, Matchbook 0
+RUN 2026-11-03 18:00 local | 3 match(es)
+ENPPI v Asyut Petroleum -> out/ENPPI_v_Asyut_Petroleum.txt
+    !! Asyut Petroleum: No team found for "Asyut Petroleum".
+Gillingham U21 v Huddersfield Town U21 -> out/Gillingham_U21_v_Huddersfield_Town_U21.txt
+    !! Gillingham U21: No team found for "Gillingham U21".
+Deportivo Pereira v Tolima -> out/Deportivo_Pereira_v_Tolima.txt
+    !! Tolima: Ambiguous team name "Tolima".
+Requests used: API-Football 43, Matchbook 0
