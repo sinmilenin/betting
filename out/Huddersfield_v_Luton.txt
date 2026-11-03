@@ -1,0 +1,90 @@
+MATCH Huddersfield v Luton | fetched 2026-11-03 17:13 local
+
+FORM DATA Huddersfield v Luton | source API-Football | 2026-11-03 17:13 UTC
+H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
+
+=== Huddersfield (id 37): last 20 finished games ===
+2026-10-31 A 3-0 v Bradford | League One | Bradford | xG 1.72-0.89
+2026-10-24 H 2-1 v Wigan | League One | Huddersfield | xG 3.08-0.54
+2026-10-20 H 4-1 v Peterborough | League One | Huddersfield | xG 2.59-1.18
+2026-10-17 A 2-0 v Plymouth | League One | Plymouth | xG 2.97-0.77
+2026-10-10 H 2-2 v Sheffield Wednesday | League One | Huddersfield | xG 1.87-1.75
+2026-10-06 H 5-0 v Rochdale | EFL Trophy | Huddersfield
+2026-10-03 A 3-1 v Burton Albion | League One | Burton upon Trent | xG 2.92-0.11
+2026-09-19 A 1-2 v Bromley | League One | London | xG 2.67-0.38
+2026-09-12 A 0-0 v Mansfield Town | League One | Mansfield | xG 1.49-0.88
+2026-09-08 A 3-1 v Doncaster | EFL Trophy | Doncaster
+2026-09-05 H 1-1 v Notts County | League One | Huddersfield
+2026-09-01 H 3-1 v Oxford United | League One | Huddersfield
+2026-08-29 A 2-1 v Cambridge United | League One | Cambridge
+2026-08-22 A 1-1 v Milton Keynes Dons | League One | Milton Keynes
+2026-08-15 H 3-0 v AFC Wimbledon | League One | Huddersfield
+2026-08-08 A 1-1 v Preston | League Cup | Liverpool [PEN, 90-min score shown]
+2026-08-01 H 1-1 v Blackburn | Friendlies Clubs | ?
+2026-07-25 A 3-1 v Middlesbrough | Friendlies Clubs | ?
+2026-07-24 H 3-1 v Oldham | Friendlies Clubs | ?
+2026-07-21 A 1-2 v Fleetwood Town | Friendlies Clubs | ?
+Listed home: 9 games, scored 24 (2.67), conceded 8 (0.89), blanks 0, clean sheets 2
+Listed away: 11 games, scored 20 (1.82), conceded 10 (0.91), blanks 1, clean sheets 3
+All: 20 games, scored 44 (2.20), conceded 18 (0.90), blanks 1, clean sheets 5
+
+=== Luton (id 1359): last 20 finished games ===
+2026-10-31 A 2-0 v Peterborough | League One | Peterborough | xG 1.44-1.02
+2026-10-27 H 3-1 v Doncaster | League One | Luton | xG 2.30-1.08
+2026-10-24 H 2-1 v Leicester | League One | Luton | xG 1.60-1.03
+2026-10-20 H 2-1 v Barnsley | League One | Luton | xG 2.32-1.07
+2026-10-17 A 1-2 v Milton Keynes Dons | League One | Milton Keynes | xG 1.54-1.45
+2026-10-10 A 4-1 v Wycombe | League One | High Wycombe | xG 2.93-1.96
+2026-10-03 A 1-1 v Colchester | EFL Trophy | Colchester [PEN, 90-min score shown]
+2026-09-22 H 6-0 v Ipswich Town U21 | EFL Trophy | Luton
+2026-09-19 H 0-1 v Bradford | League One | Luton | xG 0.83-0.29
+2026-09-10 A 1-2 v Stevenage | League One | Stevenage | xG 0.83-1.28
+2026-09-05 H 1-1 v Leyton Orient | League One | Luton
+2026-09-02 H 2-0 v Stockport County | League One | Luton
+2026-08-30 A 2-5 v Mansfield Town | League One | Mansfield
+2026-08-27 A 0-2 v Chelsea | League Cup | London
+2026-08-22 H 2-2 v Notts County | League One | Luton
+2026-08-15 A 4-3 v Reading | League One | Reading
+2026-08-08 A 3-0 v Gillingham | League Cup | Gillingham
+2026-08-02 H 0-1 v GO Ahead Eagles | Friendlies Clubs | ?
+2026-07-25 H 2-0 v Al Kholood | Friendlies Clubs | ?
+2026-07-18 A 2-2 v Barnet | Friendlies Clubs | ?
+Listed home: 10 games, scored 20 (2.00), conceded 8 (0.80), blanks 2, clean sheets 3
+Listed away: 10 games, scored 20 (2.00), conceded 18 (1.80), blanks 1, clean sheets 2
+All: 20 games, scored 40 (2.00), conceded 26 (1.30), blanks 3, clean sheets 5
+
+TABLE FOR Huddersfield
+LEAGUE TABLE League One 2026 | 24 teams | 155 games played
+League averages per game: home 1.54, away 1.28, total 2.82
+#   team                   Pts | home P GF-GA  | away P GF-GA  | all P GF-GA
+1   Huddersfield            28 |  6  15-6       |  7  12-5       | 13  27-11
+2   Stockport County        26 |  7  16-9       |  7  10-5       | 14  26-14
+3   Oxford United           23 |  6   9-4       |  6  11-7       | 12  20-11
+4   Luton                   23 |  7  12-7       |  6  14-13      | 13  26-20
+5   Plymouth                23 |  7   8-7       |  7  13-12      | 14  21-19
+6   Reading                 22 |  7  17-7       |  6   8-6       | 13  25-13
+7   Bradford                22 |  6   6-5       |  7   4-3       | 13  10-8
+8   Cambridge United        21 |  7  12-11      |  7   9-10      | 14  21-21
+9   Sheffield Wednesday     20 |  7  14-5       |  6   8-9       | 13  22-14
+10  Leicester               19 |  7  11-12      |  6  11-7       | 13  22-19
+11  Milton Keynes Dons      18 |  7  15-10      |  6   7-10      | 13  22-20
+12  Mansfield Town          18 |  6  10-7       |  6  10-11      | 12  20-18
+13  Wycombe                 18 |  7  12-12      |  6   9-11      | 13  21-23
+14  Leyton Orient           17 |  7  10-10      |  6   9-4       | 13  19-14
+15  Burton Albion           17 |  7  12-10      |  7   6-11      | 14  18-21
+16  Stevenage               16 |  6   9-6       |  6   8-7       | 12  17-13
+17  Notts County            14 |  6   7-6       |  6   6-8       | 12  13-14
+18  AFC Wimbledon           13 |  6   3-4       |  7   6-17      | 13   9-21
+19  Blackpool               12 |  6  12-11      |  6   5-10      | 12  17-21
+20  Doncaster               12 |  6   6-6       |  7   8-16      | 13  14-22
+21  Wigan                   10 |  6   7-10      |  7   4-12      | 13  11-22
+22  Peterborough            10 |  6   5-9       |  7   6-14      | 13  11-23
+23  Barnsley                 9 |  6   6-11      |  6   6-11      | 12  12-22
+24  Bromley                  9 |  6   4-14      |  7   9-19      | 13  13-33
+
+(Luton: same table as Huddersfield, shown above)
+
+(24 API-Football requests used)
+
+----------------------------------------------------------------------
+MATCHBOOK: skipped (switched off for this run)
