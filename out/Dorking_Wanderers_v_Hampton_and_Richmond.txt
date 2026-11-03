@@ -1,6 +1,6 @@
-MATCH Dorking Wanderers v Hampton & Richmond | fetched 2026-11-03 18:44 local
+MATCH Dorking Wanderers v Hampton and Richmond | fetched 2026-11-03 18:46 local
 
-FORM DATA Dorking Wanderers v Hampton & Richmond | source API-Football | 2026-11-03 18:44 UTC
+FORM DATA Dorking Wanderers v Hampton and Richmond | source API-Football | 2026-11-03 18:46 UTC
 H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
 
 === Dorking Wanderers (id 8659): last 20 finished games ===
@@ -28,7 +28,7 @@ Listed home: 9 games, scored 19 (2.11), conceded 16 (1.78), blanks 1, clean shee
 Listed away: 11 games, scored 22 (2.00), conceded 15 (1.36), blanks 2, clean sheets 2
 All: 20 games, scored 41 (2.05), conceded 31 (1.55), blanks 3, clean sheets 5
 
-!! Hampton & Richmond: API-Football error: {"search": "The Search field may only contain alpha-numeric characters and spaces."}
+!! Hampton and Richmond: No team found for "Hampton and Richmond".
 
 TABLE FOR Dorking Wanderers
 LEAGUE TABLE National League - South 2026 | 24 teams | 172 games played
