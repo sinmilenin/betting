@@ -1,7 +1,32 @@
-MATCH Abo Qair Semads v Ceramica Cleopatra | fetched 2026-11-03 14:16 local
+MATCH Abu Qair Semad v Ceramica Cleopatra | fetched 2026-11-03 14:17 local
 
-FORM DATA Abo Qair Semads v Ceramica Cleopatra | source API-Football | 2026-11-03 14:16 UTC
+FORM DATA Abu Qair Semad v Ceramica Cleopatra | source API-Football | 2026-11-03 14:17 UTC
 H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
+
+=== Abu Qair Semad (id 15731): last 20 finished games ===
+2026-10-31 H 0-1 v Ghazl El Mehalla | Premier League | ? | xG 1.74-0.83
+2026-10-19 A 1-1 v AL Masry | Premier League | Port Said | xG 0.70-1.82
+2026-10-13 H 1-2 v Asyut Petrol | Premier League | Alexandria | xG 1.21-0.79
+2026-10-08 A 1-1 v Ghazl El Mehalla | League Cup | El Mahalla El Kubra
+2026-09-15 A 0-2 v Al Ahly | Premier League | Cairo | xG 0.55-1.98
+2026-09-08 A 0-2 v Zamalek SC | Premier League | Cairo | xG 0.98-0.92
+2026-09-02 H 0-2 v Al Ittihad | Premier League | Alexandria | xG 0.77-1.09
+2026-08-27 A 0-2 v Pyramids FC | Premier League | Cairo | xG 0.11-0.62
+2026-08-21 H 1-0 v National Bank of Egypt | Premier League | Alexandria
+2026-05-14 H 4-0 v Raya Ghazl | Second League | Al Mandarah
+2026-05-07 A 0-0 v Tersana | Second League | Al-Gīza (Giza)
+2026-04-30 H 1-0 v La Viena FC | Second League | Al Mandarah
+2026-04-25 A 1-1 v Itesalat | Second League | ?
+2026-04-16 H 1-1 v Dayrout | Second League | ?
+2026-04-09 A 1-1 v Proxy | Second League | Abu El Matamir
+2026-04-02 H 3-0 v Aswan Sc | Second League | Al Mandarah
+2026-03-26 A 1-0 v Maleyet Kafr El Zayiat | Second League | Kafr El-Zayat
+2026-03-12 H 0-0 v El Dakhleya | Second League | Al-Iskandarîah (Alexandria)
+2026-03-06 A 0-3 v Olympic El Qanah | Second League | Ismailia
+2026-02-26 H 1-1 v Masar | Second League | Al-Iskandarîah (Alexandria)
+Listed home: 10 games, scored 12 (1.20), conceded 7 (0.70), blanks 3, clean sheets 5
+Listed away: 10 games, scored 5 (0.50), conceded 13 (1.30), blanks 5, clean sheets 2
+All: 20 games, scored 17 (0.85), conceded 20 (1.00), blanks 8, clean sheets 7
 
 === Ceramica Cleopatra (id 14651): last 20 finished games ===
 2026-10-31 H 2-1 v Masr | Premier League | Cairo | xG 1.13-1.63
@@ -28,9 +53,7 @@ Listed home: 12 games, scored 14 (1.17), conceded 10 (0.83), blanks 3, clean she
 Listed away: 8 games, scored 10 (1.25), conceded 9 (1.12), blanks 2, clean sheets 2
 All: 20 games, scored 24 (1.20), conceded 19 (0.95), blanks 5, clean sheets 6
 
-!! Abo Qair Semads: No team found for "Abo Qair Semads".
-
-TABLE FOR Ceramica Cleopatra
+TABLE FOR Abu Qair Semad
 LEAGUE TABLE Premier League 2026 | 20 teams | 80 games played
 League averages per game: home 1.11, away 1.20, total 2.31
 #   team                   Pts | home P GF-GA  | away P GF-GA  | all P GF-GA
@@ -55,7 +78,9 @@ League averages per game: home 1.11, away 1.20, total 2.31
 19  Abu Qair Semad           4 |  4   2-5       |  4   1-7       |  8   3-12
 20  El Gouna FC              3 |  4   2-6       |  4   3-5       |  8   5-11
 
-(14 API-Football requests used)
+(Ceramica Cleopatra: same table as Abu Qair Semad, shown above)
+
+(25 API-Football requests used)
 
 ----------------------------------------------------------------------
 MATCHBOOK: skipped (switched off for this run)

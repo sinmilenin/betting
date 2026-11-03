@@ -1,4 +1,3 @@
-RUN 2026-11-03 14:16 local | 1 match(es)
-Abo Qair Semads v Ceramica Cleopatra -> out/Abo_Qair_Semads_v_Ceramica_Cleopatra.txt
-    !! Abo Qair Semads: No team found for "Abo Qair Semads".
-Requests used: API-Football 14, Matchbook 0
+RUN 2026-11-03 14:17 local | 1 match(es)
+Abu Qair Semad v Ceramica Cleopatra -> out/Abu_Qair_Semad_v_Ceramica_Cleopatra.txt
+Requests used: API-Football 25, Matchbook 0
