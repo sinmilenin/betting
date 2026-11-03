@@ -1,4 +1,7 @@
-RUN 2026-11-03 18:49 local | 1 match(es)
-Dorking Wanderers v Hampton -> out/Dorking_Wanderers_v_Hampton.txt
-    !! Hampton: Ambiguous team name "Hampton".
-Requests used: API-Football 15, Matchbook 0
+RUN 2026-11-03 19:29 local | 3 match(es)
+Airdrieonians v Elgin City -> out/Airdrieonians_v_Elgin_City.txt
+    !! Airdrieonians: No team found for "Airdrieonians".
+Worthing v Fulham U21 -> out/Worthing_v_Fulham_U21.txt
+Hamilton v Raith -> out/Hamilton_v_Raith.txt
+    !! Hamilton: Ambiguous team name "Hamilton".
+Requests used: API-Football 55, Matchbook 0

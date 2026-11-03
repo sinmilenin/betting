@@ -1,0 +1,76 @@
+MATCH Hamilton v Raith | fetched 2026-11-03 19:29 local
+
+FORM DATA Hamilton v Raith | source API-Football | 2026-11-03 19:29 UTC
+H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
+
+"Hamilton" matches several teams. Use id:<number> instead of the name:
+  id:248    Hamilton Academical (Scotland)
+  id:2023   Hamilton City (Canada)
+  id:2536   Hamilton Wanderers (New-Zealand)
+  id:5447   Pembroke Hamilton Club (Bermuda)
+  id:6770   Hamilton Academical U21 (Scotland)
+  id:7953   Hamilton Academical U19 (Scotland)
+  id:10205  Hamilton Olympic (Australia)
+  id:19103  Hamilton United (Canada)
+  id:20405  Hamilton Parish (Bermuda)
+  id:23347  Hamilton Academical W (Scotland)
+  id:24321  West Hamilton Utd (New-Zealand)
+=== Raith Rovers (id 1385): last 20 finished games ===
+2026-10-31 A 4-0 v Arbroath | Championship | Arbroath
+2026-10-24 H 0-2 v Inverness CT | Championship | Kirkcaldy
+2026-10-17 A 1-1 v Stenhousemuir | Championship | Stenhousemuir
+2026-10-10 H 2-0 v Queen's Park | Championship | Kirkcaldy
+2026-10-03 A 2-1 v Morton | Championship | Greenock
+2026-09-25 H 0-2 v Livingston | Championship | Kirkcaldy
+2026-09-19 A 0-0 v Partick | Championship | Glasgow
+2026-09-12 H 4-0 v Arbroath | Championship | Kirkcaldy
+2026-09-05 A 2-0 v Inverness CT | Championship | Inverness
+2026-08-28 A 0-1 v Dunfermline | Championship | Dunfermline
+2026-08-22 H 2-0 v Ayr Utd | Championship | Kirkcaldy
+2026-08-08 A 2-1 v Queen's Park | Championship | Glasgow
+2026-08-01 H 1-1 v Stenhousemuir | Championship | Kirkcaldy
+2026-07-24 H 0-1 v Heart Of Midlothian | Friendlies Clubs | ?
+2026-07-21 H 1-0 v Peterhead | League Cup | Kirkcaldy
+2026-07-18 A 1-1 v Hamilton Academical | League Cup | Hamilton [PEN, 90-min score shown]
+2026-07-14 A 0-0 v Kilmarnock | League Cup | Kilmarnock [PEN, 90-min score shown]
+2026-07-11 H 3-1 v Elgin City | League Cup | Kirkcaldy
+2026-06-30 H 4-0 v Edinburgh City | Friendlies Clubs | ?
+2026-06-27 H 2-2 v Hamilton Academical | Friendlies Clubs | ?
+Listed home: 11 games, scored 19 (1.73), conceded 9 (0.82), blanks 3, clean sheets 5
+Listed away: 9 games, scored 12 (1.33), conceded 5 (0.56), blanks 3, clean sheets 4
+All: 20 games, scored 31 (1.55), conceded 14 (0.70), blanks 6, clean sheets 9
+
+(retrying Hamilton using the opponent's country, Scotland)
+"Hamilton" matches several teams. Use id:<number> instead of the name:
+  id:248    Hamilton Academical (Scotland)
+  id:2023   Hamilton City (Canada)
+  id:2536   Hamilton Wanderers (New-Zealand)
+  id:5447   Pembroke Hamilton Club (Bermuda)
+  id:6770   Hamilton Academical U21 (Scotland)
+  id:7953   Hamilton Academical U19 (Scotland)
+  id:10205  Hamilton Olympic (Australia)
+  id:19103  Hamilton United (Canada)
+  id:20405  Hamilton Parish (Bermuda)
+  id:23347  Hamilton Academical W (Scotland)
+  id:24321  West Hamilton Utd (New-Zealand)
+!! Hamilton: Ambiguous team name "Hamilton".
+
+TABLE FOR Raith Rovers
+LEAGUE TABLE Championship 2026 | 10 teams | 64 games played
+League averages per game: home 1.20, away 0.98, total 2.19
+#   team                   Pts | home P GF-GA  | away P GF-GA  | all P GF-GA
+1   Partick                 25 |  7  11-3       |  6   6-4       | 13  17-7
+2   Raith Rovers            24 |  6   9-5       |  7  11-4       | 13  20-9
+3   Dunfermline             24 |  6  10-3       |  7   5-4       | 13  15-7
+4   Stenhousemuir           23 |  7   8-6       |  6   5-6       | 13  13-12
+5   Livingston              20 |  7   9-7       |  6   9-4       | 13  18-11
+6   Inverness CT            19 |  6   7-3       |  7  10-13      | 13  17-16
+7   Ayr Utd                 15 |  7   8-9       |  5   5-5       | 12  13-14
+8   Arbroath                11 |  6   5-8       |  7   2-14      | 13   7-22
+9   Morton                  10 |  6   5-10      |  6   7-10      | 12  12-20
+10  Queen's Park             7 |  6   5-9       |  7   3-13      | 13   8-22
+
+(15 API-Football requests used)
+
+----------------------------------------------------------------------
+MATCHBOOK: skipped (switched off for this run)
