@@ -1,6 +1,6 @@
-MATCH NEOM v Al Duhail | fetched 2026-11-03 15:45 local
+MATCH NEOM v Duhail | fetched 2026-11-03 15:46 local
 
-FORM DATA NEOM v Al Duhail | source API-Football | 2026-11-03 15:45 UTC
+FORM DATA NEOM v Duhail | source API-Football | 2026-11-03 15:46 UTC
 H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
 
 === NEOM (id 10513): last 20 finished games ===
@@ -28,7 +28,30 @@ Listed home: 8 games, scored 19 (2.38), conceded 7 (0.88), blanks 2, clean sheet
 Listed away: 12 games, scored 13 (1.08), conceded 10 (0.83), blanks 4, clean sheets 5
 All: 20 games, scored 32 (1.60), conceded 17 (0.85), blanks 6, clean sheets 8
 
-!! Al Duhail: No team found for "Al Duhail".
+=== Al-Duhail SC (id 2904): last 20 finished games ===
+2026-10-31 H 3-1 v Al Wakrah | Stars League | Doha | xG 2.00-0.88
+2026-10-28 A 2-1 v Al Sha'ab Hadhramaut | AGCFF Gulf Champions League | ?
+2026-10-24 H 3-1 v Lusail City | Stars League | Doha | xG 3.47-0.83
+2026-10-18 A 3-2 v Al Sadd | Stars League | Doha | xG 2.50-2.24
+2026-10-14 H 3-0 v Al-Shabab | AGCFF Gulf Champions League | Doha
+2026-10-08 A 4-0 v Al Shamal | Stars League | Gray Shamal
+2026-09-28 A 3-1 v Al Shahaniya | QSL Cup | Doha
+2026-09-21 H 2-0 v Al-Arabi SC | QSL Cup | Doha
+2026-09-12 H 1-1 v Al Shahaniya | Stars League | Doha
+2026-09-05 A 1-1 v Al-Rayyan SC | Stars League | Lai Yang
+2026-08-29 H 1-1 v Al-Arabi SC | Stars League | Doha
+2026-08-22 H 2-0 v Al-Sailiya | Stars League | Doha
+2026-05-05 H 1-4 v Al Sadd | Emir Cup | Doha
+2026-05-01 H 4-0 v Al-Arabi SC | Emir Cup | Doha
+2026-04-27 A 2-1 v Qatar SC | Stars League | Doha
+2026-04-13 A 0-0 v Al-Ahli Jeddah | AFC Champions League Elite | Jeddah [AET, 90-min score shown]
+2026-04-08 A 1-2 v Al Ahli Doha | Stars League | Doha
+2026-04-04 H 3-2 v Al-Gharafa | Stars League | Doha
+2026-03-17 A 3-1 v Al Shamal | Stars League | Al Khor
+2026-03-12 A 4-0 v Al-Sailiya | Stars League | Doha
+Listed home: 10 games, scored 23 (2.30), conceded 10 (1.00), blanks 0, clean sheets 4
+Listed away: 10 games, scored 23 (2.30), conceded 9 (0.90), blanks 1, clean sheets 3
+All: 20 games, scored 46 (2.30), conceded 19 (0.95), blanks 1, clean sheets 7
 
 TABLE FOR NEOM
 LEAGUE TABLE Pro League 2026 | 18 teams | 104 games played
@@ -53,7 +76,24 @@ League averages per game: home 1.54, away 1.49, total 3.03
 17  Al Taawon                5 |  6   1-8       |  6   5-12      | 12   6-20
 18  Abha                     3 |  5   3-6       |  6   4-13      | 11   7-19
 
-(14 API-Football requests used)
+TABLE FOR Al-Duhail SC
+LEAGUE TABLE Stars League 2026 | 12 teams | 48 games played
+League averages per game: home 1.71, away 1.81, total 3.52
+#   team                   Pts | home P GF-GA  | away P GF-GA  | all P GF-GA
+1   Al Sadd                 18 |  5  15-9       |  3  16-5       |  8  31-14
+2   Al-Rayyan SC            18 |  3   5-1       |  5  11-2       |  8  16-3
+3   Al-Duhail SC            18 |  5  10-4       |  3   8-3       |  8  18-7
+4   Al-Arabi SC             13 |  3   2-2       |  5  14-6       |  8  16-8
+5   Al Ahli Doha            11 |  4   9-6       |  4   5-9       |  8  14-15
+6   Al Wakrah               11 |  4   9-8       |  4   5-8       |  8  14-16
+7   Lusail City              9 |  2   4-0       |  6   6-9       |  8  10-9
+8   Al-Gharafa               9 |  6   7-6       |  2   3-7       |  8  10-13
+9   Al Shamal                9 |  4   7-10      |  4   6-7       |  8  13-17
+10  Al Shahaniya             7 |  5   5-14      |  3   4-7       |  8   9-21
+11  Qatar SC                 6 |  2   2-9       |  6   7-9       |  8   9-18
+12  Al-Sailiya               1 |  5   7-18      |  3   2-10      |  8   9-28
+
+(26 API-Football requests used)
 
 ----------------------------------------------------------------------
 MATCHBOOK: skipped (switched off for this run)
