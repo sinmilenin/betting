@@ -1,3 +1,2 @@
-# 03.11 10:43 scan: Jeonbuk v Johor, Port FC v Beijing Guoan (ACL)
-Jeonbuk Motors v Johor Darul Tazim | n=20 | xg=10
-Port FC v Beijing Guoan | n=20 | xg=10
+# 03.11 10:48 scan: Jeonbuk v Johor retry (first run matched Johor Darul Tazim II)
+Jeonbuk Motors v Johor Darul Takzim FC | n=20 | xg=10
