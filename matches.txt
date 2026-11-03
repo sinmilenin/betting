@@ -1,2 +1,2 @@
-# 03.11 13:50 top-20: Atletico Madrid v Bayern Munich (fix: earlier run picked Bayern Women)
-Atletico Madrid v id:157 | n=20 | xg=10
+# 03.11 15:18 scan: Abo Qair Semads v Ceramica Cleopatra (Egyptian League Cup)
+Abo Qair Semads v Ceramica Cleopatra | n=20 | xg=10
