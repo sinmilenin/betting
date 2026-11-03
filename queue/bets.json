@@ -141,5 +141,16 @@
     "lay": 20.0,
     "stake": 3,
     "created": "2026-11-03T18:17:50+01:00"
+  },
+  {
+    "id": "2026-11-03_comerciantes-unidos-asociacion-deportiva-tarma_2-2",
+    "date": "2026-11-03",
+    "ko": "21:00",
+    "match": "Comerciantes Unidos v Asociacion Deportiva Tarma",
+    "comp": "Peru, Peruvian Primera Division",
+    "cell": "2-2",
+    "lay": 18,
+    "stake": 3,
+    "created": "2026-11-03T19:08:50+01:00"
   }
 ]
