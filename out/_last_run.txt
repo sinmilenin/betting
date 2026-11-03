@@ -1,11 +1,3 @@
-RUN 2026-11-03 06:46 local | 9 match(es)
-Barcelona v id:66 -> out/Barcelona_v_id_66.txt
-Feyenoord v id:505 -> out/Feyenoord_v_id_505.txt
-id:327 v id:79 -> out/id_327_v_id_79.txt
-Charlton v Bolton -> out/Charlton_v_Bolton.txt
-West Brom v Southampton -> out/West_Brom_v_Southampton.txt
-Watford v Lincoln -> out/Watford_v_Lincoln.txt
-Derby v Norwich -> out/Derby_v_Norwich.txt
-Preston v Sheffield Utd -> out/Preston_v_Sheffield_Utd.txt
-Northampton v Oldham -> out/Northampton_v_Oldham.txt
-Requests used: API-Football 224, Matchbook 0
+RUN 2026-11-03 08:13 local | 1 match(es)
+Vissel Kobe v Ratchaburi -> out/Vissel_Kobe_v_Ratchaburi.txt
+Requests used: API-Football 26, Matchbook 0
