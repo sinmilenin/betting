@@ -1,2 +1,2 @@
-# 02.11 20:57 night scan, run 4
-id:1064 v Central Cordoba de Santiago | n=20 | xg=10
+# 03.11 06:11 scan: Newcastle Jets v Shanghai Port (ACL)
+Newcastle Jets v Shanghai Port | n=20 | xg=10
