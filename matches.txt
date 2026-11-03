@@ -1,2 +1,4 @@
-# 03.11 19:42 scan: retry Hampton
-Dorking Wanderers v Hampton | n=20 | xg=10
+# 03.11 20:26 scan
+Airdrieonians v Elgin City | n=20 | xg=10
+Worthing v Fulham U21 | n=20 | xg=10
+Hamilton v Raith | n=20 | xg=10
