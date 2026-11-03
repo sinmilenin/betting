@@ -1,4 +1,4 @@
-# 03.11 18:56 scan: form run for 3 new fixtures
-ENPPI v Asyut Petroleum | n=20 | xg=10
-Gillingham U21 v Huddersfield Town U21 | n=20 | xg=10
-Deportivo Pereira v Tolima | n=20 | xg=10
+# 03.11 18:56 scan: retry Petrol Asyut, Gillingham Res., Deportes Tolima
+ENPPI v Petrol Asyut | n=20 | xg=10
+Gillingham Res. v Huddersfield Town U21 | n=20 | xg=10
+Deportivo Pereira v Deportes Tolima | n=20 | xg=10
