@@ -1,5 +1,3 @@
-RUN 2026-11-03 15:46 local | 2 match(es)
-NEOM v Duhail -> out/NEOM_v_Duhail.txt
-Al Hilal Saudi v id:2870 -> out/Al_Hilal_Saudi_v_id_2870.txt
-    !! Al Hilal Saudi: No team found for "Al Hilal Saudi".
-Requests used: API-Football 40, Matchbook 0
+RUN 2026-11-03 15:46 local | 1 match(es)
+id:2932 v id:2870 -> out/id_2932_v_id_2870.txt
+Requests used: API-Football 26, Matchbook 0
