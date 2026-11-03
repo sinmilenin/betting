@@ -1,3 +1,7 @@
-RUN 2026-11-03 14:59 local | 1 match(es)
-Al Hussein v id:28571 -> out/Al_Hussein_v_id_28571.txt
-Requests used: API-Football 26, Matchbook 0
+RUN 2026-11-03 15:44 local | 2 match(es)
+NEOM v Al-Duhail -> out/NEOM_v_Al_Duhail.txt
+    !! Al-Duhail: API-Football error: {"search": "The Search field may only contain alpha-numeric characters and spaces."}
+Al-Hilal v Al Ahli -> out/Al_Hilal_v_Al_Ahli.txt
+    !! Al-Hilal: API-Football error: {"search": "The Search field may only contain alpha-numeric characters and spaces."}
+    !! Al Ahli: Ambiguous team name "Al Ahli".
+Requests used: API-Football 16, Matchbook 0
