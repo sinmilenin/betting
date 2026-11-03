@@ -1,2 +1,3 @@
-# 03.11 16:51 scan: Al-Hilal Saudi FC by id 2932
-id:2932 v id:2870 | n=20 | xg=10
+# 03.11 17:27 scan: first analyses
+Lyngby v Randers | n=20 | xg=10
+Rotherham v Newcastle U21 | n=20 | xg=10
