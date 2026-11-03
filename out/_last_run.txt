@@ -1,5 +1,3 @@
-RUN 2026-11-03 19:30 local | 2 match(es)
-Airdrie v Elgin City -> out/Airdrie_v_Elgin_City.txt
-    !! Airdrie: Ambiguous team name "Airdrie".
-id:248 v Raith -> out/id_248_v_Raith.txt
-Requests used: API-Football 41, Matchbook 0
+RUN 2026-11-03 19:32 local | 1 match(es)
+id:4668 v Elgin City -> out/id_4668_v_Elgin_City.txt
+Requests used: API-Football 26, Matchbook 0
