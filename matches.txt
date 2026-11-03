@@ -1,8 +1,5 @@
-# 03.11 18:12 scan: first analyses
-Rochdale v Doncaster | n=20 | xg=10
-St Mirren B v Peterhead | n=20 | xg=10
-Blackburn v Stoke | n=20 | xg=10
-Wigan v Mansfield | n=20 | xg=10
-Formartine United v Cove Rangers | n=20 | xg=10
-Huddersfield v Luton | n=20 | xg=10
-Comerciantes Unidos v Deportivo Tarma | n=20 | xg=10
+# 03.11 18:12 scan: retry Stoke City, Mansfield Town, ADT Tarma, St Mirren B
+Blackburn v Stoke City | n=20 | xg=10
+Wigan v Mansfield Town | n=20 | xg=10
+Comerciantes Unidos v ADT | n=20 | xg=10
+St Mirren II v Peterhead | n=20 | xg=10
