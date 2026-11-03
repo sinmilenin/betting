@@ -1,5 +1,4 @@
-RUN 2026-11-03 18:46 local | 2 match(es)
-Dorking Wanderers v Hampton and Richmond -> out/Dorking_Wanderers_v_Hampton_and_Richmond.txt
-    !! Hampton and Richmond: No team found for "Hampton and Richmond".
-Charlton Athletic U21 v Stockport County U21 -> out/Charlton_Athletic_U21_v_Stockport_County.txt
-Requests used: API-Football 41, Matchbook 0
+RUN 2026-11-03 18:49 local | 1 match(es)
+Dorking Wanderers v Hampton -> out/Dorking_Wanderers_v_Hampton.txt
+    !! Hampton: Ambiguous team name "Hampton".
+Requests used: API-Football 15, Matchbook 0
