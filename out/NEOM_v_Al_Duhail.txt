@@ -1,6 +1,6 @@
-MATCH NEOM v Al-Duhail | fetched 2026-11-03 15:44 local
+MATCH NEOM v Al Duhail | fetched 2026-11-03 15:45 local
 
-FORM DATA NEOM v Al-Duhail | source API-Football | 2026-11-03 15:44 UTC
+FORM DATA NEOM v Al Duhail | source API-Football | 2026-11-03 15:45 UTC
 H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
 
 === NEOM (id 10513): last 20 finished games ===
@@ -28,7 +28,7 @@ Listed home: 8 games, scored 19 (2.38), conceded 7 (0.88), blanks 2, clean sheet
 Listed away: 12 games, scored 13 (1.08), conceded 10 (0.83), blanks 4, clean sheets 5
 All: 20 games, scored 32 (1.60), conceded 17 (0.85), blanks 6, clean sheets 8
 
-!! Al-Duhail: API-Football error: {"search": "The Search field may only contain alpha-numeric characters and spaces."}
+!! Al Duhail: No team found for "Al Duhail".
 
 TABLE FOR NEOM
 LEAGUE TABLE Pro League 2026 | 18 teams | 104 games played
