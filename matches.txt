@@ -1,3 +1,2 @@
-# 03.11 20:26 scan: retry Airdrie, Hamilton
-Airdrie v Elgin City | n=20 | xg=10
-id:248 v Raith | n=20 | xg=10
+# 03.11 20:26 scan: retry Airdrie by id
+id:4668 v Elgin City | n=20 | xg=10
