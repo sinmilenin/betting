@@ -1,6 +1,3 @@
-# 03.11 19:42 scan: form run for 5 new fixtures
-Wealdstone v Derby County U21 | n=20 | xg=10
-Charlton U21 v Stockport County U21 | n=20 | xg=10
-Cambridge United v Brighton U21 | n=20 | xg=10
-Sutton United v Southampton U21 | n=20 | xg=10
-Dorking Wanderers v Hampton & Richmond | n=20 | xg=10
+# 03.11 19:42 scan: retry Hampton and Richmond, Charlton Athletic U21
+Dorking Wanderers v Hampton and Richmond | n=20 | xg=10
+Charlton Athletic U21 v Stockport County U21 | n=20 | xg=10
