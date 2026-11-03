@@ -1,3 +1,3 @@
-# 03.11 17:27 scan: first analyses
-Lyngby v Randers | n=20 | xg=10
-Rotherham v Newcastle U21 | n=20 | xg=10
+# 03.11 17:27 scan: retry Randers by id 401, Newcastle U21 full name
+id:625 v id:401 | n=20 | xg=10
+Rotherham v Newcastle United U21 | n=20 | xg=10
