@@ -1,6 +1,6 @@
-MATCH Deportivo Pereira v Tolima | fetched 2026-11-03 18:00 local
+MATCH Deportivo Pereira v Deportes Tolima | fetched 2026-11-03 18:04 local
 
-FORM DATA Deportivo Pereira v Tolima | source API-Football | 2026-11-03 18:00 UTC
+FORM DATA Deportivo Pereira v Deportes Tolima | source API-Football | 2026-11-03 18:05 UTC
 H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
 
 === Deportivo Pereira (id 1462): last 20 finished games ===
@@ -28,14 +28,30 @@ Listed home: 10 games, scored 8 (0.80), conceded 9 (0.90), blanks 3, clean sheet
 Listed away: 10 games, scored 8 (0.80), conceded 15 (1.50), blanks 4, clean sheets 2
 All: 20 games, scored 16 (0.80), conceded 24 (1.20), blanks 7, clean sheets 8
 
-"Tolima" matches several teams. Use id:<number> instead of the name:
-  id:1142   Deportes Tolima (Colombia)
-  id:18430  Deportes Tolima W (Colombia)
-(retrying Tolima using the opponent's country, Colombia)
-"Tolima" matches several teams. Use id:<number> instead of the name:
-  id:1142   Deportes Tolima (Colombia)
-  id:18430  Deportes Tolima W (Colombia)
-!! Tolima: Ambiguous team name "Tolima".
+=== Deportes Tolima (id 1142): last 20 finished games ===
+2026-10-26 H 0-1 v Deportivo Pasto | Primera A | Ibague | xG 0.90-0.36
+2026-10-18 A 1-2 v Águilas Doradas | Primera A | Rionegro | xG 0.44-1.30
+2026-10-11 A 2-3 v Jaguares | Primera A | Monteria | xG 1.51-0.35
+2026-10-08 A 0-0 v Atletico Nacional | Primera A | Itagui | xG 0.68-1.05
+2026-10-03 H 0-0 v Chico | Primera A | Iwag | xG 1.11-0.04
+2026-09-27 A 2-2 v Fortaleza FC | Primera A | Bogota | xG 0.26-0.67
+2026-09-20 H 1-1 v America de Cali | Primera A | Iwag | xG 2.30-0.32
+2026-09-16 A 0-1 v Once Caldas | Primera A | Manizales | xG 0.61-1.02
+2026-09-12 A 0-1 v Santa Fe | Primera A | Bogota
+2026-09-07 A 2-1 v Llaneros | Primera A | Villavicencio | xG 2.27-0.92
+2026-09-01 H 2-1 v Cucuta | Primera A | Iwag
+2026-08-26 A 1-3 v Independiente del Valle | CONMEBOL Libertadores | Quito
+2026-08-22 H 0-0 v Bucaramanga | Primera A | Iwag
+2026-08-19 H 0-1 v Independiente del Valle | CONMEBOL Libertadores | Ibague
+2026-08-08 H 2-1 v Internacional de Bogota | Primera A | Iwag
+2026-08-04 H 2-3 v Independiente Medellin | Primera A | Iwag
+2026-08-01 A 2-1 v Alianza Valledupar | Primera A | Valledupar
+2026-07-28 A 1-2 v Quindio | Copa Colombia | Armenia [PEN, 90-min score shown]
+2026-07-26 H 2-1 v Junior | Primera A | Iwag
+2026-07-21 H 2-1 v Quindio | Copa Colombia | Iwag
+Listed home: 10 games, scored 11 (1.10), conceded 10 (1.00), blanks 4, clean sheets 2
+Listed away: 10 games, scored 11 (1.10), conceded 16 (1.60), blanks 3, clean sheets 1
+All: 20 games, scored 22 (1.10), conceded 26 (1.30), blanks 7, clean sheets 3
 
 TABLE FOR Deportivo Pereira
 LEAGUE TABLE Primera A 2026 | 40 teams | 356 games played
@@ -82,7 +98,9 @@ League averages per game: home 1.49, away 1.03, total 2.52
 19  Fortaleza FC            12 |  8   9-12      |  9   8-13      | 17  17-25 [Clausura]
 20  Deportivo Pasto         12 |  7   3-8       |  9   8-16      | 16  11-24 [Clausura]
 
-(15 API-Football requests used)
+(Deportes Tolima: same table as Deportivo Pereira, shown above)
+
+(25 API-Football requests used)
 
 ----------------------------------------------------------------------
 MATCHBOOK: skipped (switched off for this run)

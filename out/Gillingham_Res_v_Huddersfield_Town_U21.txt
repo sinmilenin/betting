@@ -1,6 +1,6 @@
-MATCH Gillingham U21 v Huddersfield Town U21 | fetched 2026-11-03 18:00 local
+MATCH Gillingham Res. v Huddersfield Town U21 | fetched 2026-11-03 18:04 local
 
-FORM DATA Gillingham U21 v Huddersfield Town U21 | source API-Football | 2026-11-03 18:00 UTC
+FORM DATA Gillingham Res. v Huddersfield Town U21 | source API-Football | 2026-11-03 18:05 UTC
 H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
 
 === Huddersfield Town U21 (id 20017): last 20 finished games ===
@@ -28,7 +28,7 @@ Listed home: 8 games, scored 19 (2.38), conceded 9 (1.12), blanks 0, clean sheet
 Listed away: 12 games, scored 32 (2.67), conceded 18 (1.50), blanks 1, clean sheets 2
 All: 20 games, scored 51 (2.55), conceded 27 (1.35), blanks 1, clean sheets 2
 
-!! Gillingham U21: No team found for "Gillingham U21".
+!! Gillingham Res.: API-Football error: {"search": "The Search field may only contain alpha-numeric characters and spaces."}
 
 TABLE FOR Huddersfield Town U21
 LEAGUE TABLE Professional Development League 2026 | 17 teams | 68 games played

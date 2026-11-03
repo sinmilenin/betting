@@ -1,8 +1,7 @@
-RUN 2026-11-03 18:00 local | 3 match(es)
-ENPPI v Asyut Petroleum -> out/ENPPI_v_Asyut_Petroleum.txt
-    !! Asyut Petroleum: No team found for "Asyut Petroleum".
-Gillingham U21 v Huddersfield Town U21 -> out/Gillingham_U21_v_Huddersfield_Town_U21.txt
-    !! Gillingham U21: No team found for "Gillingham U21".
-Deportivo Pereira v Tolima -> out/Deportivo_Pereira_v_Tolima.txt
-    !! Tolima: Ambiguous team name "Tolima".
-Requests used: API-Football 43, Matchbook 0
+RUN 2026-11-03 18:04 local | 3 match(es)
+ENPPI v Petrol Asyut -> out/ENPPI_v_Petrol_Asyut.txt
+    !! Petrol Asyut: No team found for "Petrol Asyut".
+Gillingham Res. v Huddersfield Town U21 -> out/Gillingham_Res_v_Huddersfield_Town_U21.txt
+    !! Gillingham Res.: API-Football error: {"search": "The Search field may only contain alpha-numeric characters and spaces."}
+Deportivo Pereira v Deportes Tolima -> out/Deportivo_Pereira_v_Deportes_Tolima.txt
+Requests used: API-Football 53, Matchbook 0

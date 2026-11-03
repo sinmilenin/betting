@@ -1,6 +1,6 @@
-MATCH ENPPI v Asyut Petroleum | fetched 2026-11-03 18:00 local
+MATCH ENPPI v Petrol Asyut | fetched 2026-11-03 18:04 local
 
-FORM DATA ENPPI v Asyut Petroleum | source API-Football | 2026-11-03 18:00 UTC
+FORM DATA ENPPI v Petrol Asyut | source API-Football | 2026-11-03 18:04 UTC
 H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
 
 === Enppi (id 1037): last 20 finished games ===
@@ -28,7 +28,7 @@ Listed home: 9 games, scored 5 (0.56), conceded 18 (2.00), blanks 5, clean sheet
 Listed away: 11 games, scored 18 (1.64), conceded 15 (1.36), blanks 3, clean sheets 5
 All: 20 games, scored 23 (1.15), conceded 33 (1.65), blanks 8, clean sheets 6
 
-!! Asyut Petroleum: No team found for "Asyut Petroleum".
+!! Petrol Asyut: No team found for "Petrol Asyut".
 
 TABLE FOR Enppi
 LEAGUE TABLE Premier League 2026 | 20 teams | 80 games played
