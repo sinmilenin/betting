@@ -1,10 +1,2 @@
-# 03.11 07:42 scan + top-20: run 2 (retry of rate-limited and ambiguous teams)
-Barcelona v id:66 | n=20 | xg=10
-Feyenoord v id:505 | n=20 | xg=10
-id:327 v id:79 | n=20 | xg=10
-Charlton v Bolton | n=20 | xg=10
-West Brom v Southampton | n=20 | xg=10
-Watford v Lincoln | n=20 | xg=10
-Derby v Norwich | n=20 | xg=10
-Preston v Sheffield Utd | n=20 | xg=10
-Northampton v Oldham | n=20 | xg=10
+# 03.11 09:12 scan: Kobe v Ratchaburi (ACL)
+Vissel Kobe v Ratchaburi | n=20 | xg=10
