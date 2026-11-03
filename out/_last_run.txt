@@ -1,3 +1,3 @@
-RUN 2026-11-03 08:13 local | 1 match(es)
-Vissel Kobe v Ratchaburi -> out/Vissel_Kobe_v_Ratchaburi.txt
+RUN 2026-11-03 08:56 local | 1 match(es)
+Kashiwa Reysol v Daejeon Citizen -> out/Kashiwa_Reysol_v_Daejeon_Citizen.txt
 Requests used: API-Football 26, Matchbook 0
