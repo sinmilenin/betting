@@ -1,3 +1,3 @@
-# 03.11 16:45 scan: NEOM v Al-Duhail, Al-Hilal v Al Ahli (UAE)
-NEOM v Al-Duhail | n=20 | xg=10
-Al-Hilal v Al Ahli | n=20 | xg=10
+# 03.11 16:48 scan: retry without hyphens, Shabab Al Ahli Dubai id 2870
+NEOM v Al Duhail | n=20 | xg=10
+Al Hilal v id:2870 | n=20 | xg=10
