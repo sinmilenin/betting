@@ -1,3 +1,5 @@
-RUN 2026-11-03 09:43 local | 1 match(es)
-Jeonbuk Motors v Johor Darul Takzim FC -> out/Jeonbuk_Motors_v_Johor_Darul_Takzim_FC.txt
-Requests used: API-Football 26, Matchbook 0
+RUN 2026-11-03 11:13 local | 2 match(es)
+Dewa United v Persita -> out/Dewa_United_v_Persita.txt
+Cong An Ha Noi v Kyoto Sanga -> out/Cong_An_Ha_Noi_v_Kyoto_Sanga.txt
+    !! Cong An Ha Noi: No team found for "Cong An Ha Noi".
+Requests used: API-Football 39, Matchbook 0
