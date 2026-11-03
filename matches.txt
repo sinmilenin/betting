@@ -1,2 +1,3 @@
-# 03.11 10:48 scan: Jeonbuk v Johor retry (first run matched Johor Darul Tazim II)
-Jeonbuk Motors v Johor Darul Takzim FC | n=20 | xg=10
+# 03.11 12:15 scan: first analysis Dewa v Persita, Cong An v Kyoto
+Dewa United v Persita | n=20 | xg=10
+Cong An Ha Noi v Kyoto Sanga | n=20 | xg=10
