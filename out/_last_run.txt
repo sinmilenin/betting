@@ -1,3 +1,3 @@
-RUN 2026-11-03 11:14 local | 1 match(es)
-Cong An Nhan Dan v Kyoto Sanga -> out/Cong_An_Nhan_Dan_v_Kyoto_Sanga.txt
-Requests used: API-Football 26, Matchbook 0
+RUN 2026-11-03 11:57 local | 1 match(es)
+Damac v Al Okhdood -> out/Damac_v_Al_Okhdood.txt
+Requests used: API-Football 25, Matchbook 0
