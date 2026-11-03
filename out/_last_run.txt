@@ -1,5 +1,9 @@
-RUN 2026-11-03 18:06 local | 2 match(es)
-Gillingham U23 v Huddersfield Town U21 -> out/Gillingham_U23_v_Huddersfield_Town_U21.txt
-    !! Gillingham U23: No team found for "Gillingham U23".
-Gillingham v Huddersfield Town U21 -> out/Gillingham_v_Huddersfield_Town_U21.txt
-Requests used: API-Football 19, Matchbook 0
+RUN 2026-11-03 18:44 local | 5 match(es)
+Wealdstone v Derby County U21 -> out/Wealdstone_v_Derby_County_U21.txt
+Charlton U21 v Stockport County U21 -> out/Charlton_U21_v_Stockport_County_U21.txt
+    !! Charlton U21: No team found for "Charlton U21".
+Cambridge United v Brighton U21 -> out/Cambridge_United_v_Brighton_U21.txt
+Sutton United v Southampton U21 -> out/Sutton_United_v_Southampton_U21.txt
+Dorking Wanderers v Hampton & Richmond -> out/Dorking_Wanderers_v_Hampton_Richmond.txt
+    !! Hampton & Richmond: API-Football error: {"search": "The Search field may only contain alpha-numeric characters and spaces."}
+Requests used: API-Football 105, Matchbook 0
