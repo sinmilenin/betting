@@ -1,3 +1,2 @@
-# 03.11 19:42 scan: retry Hampton and Richmond, Charlton Athletic U21
-Dorking Wanderers v Hampton and Richmond | n=20 | xg=10
-Charlton Athletic U21 v Stockport County U21 | n=20 | xg=10
+# 03.11 19:42 scan: retry Hampton
+Dorking Wanderers v Hampton | n=20 | xg=10
