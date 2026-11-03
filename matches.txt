@@ -1,2 +1,2 @@
-# 03.11 15:18 scan: Abo Qair Semads v Ceramica Cleopatra (Egyptian League Cup)
-Abo Qair Semads v Ceramica Cleopatra | n=20 | xg=10
+# 03.11 15:20 scan: retry with API-Football name Abu Qair Semad
+Abu Qair Semad v Ceramica Cleopatra | n=20 | xg=10
