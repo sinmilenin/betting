@@ -1,13 +1,7 @@
-RUN 2026-11-03 17:13 local | 7 match(es)
-Rochdale v Doncaster -> out/Rochdale_v_Doncaster.txt
-St Mirren B v Peterhead -> out/St_Mirren_B_v_Peterhead.txt
-    !! St Mirren B: No team found for "St Mirren B".
-Blackburn v Stoke -> out/Blackburn_v_Stoke.txt
-    !! Stoke: Ambiguous team name "Stoke".
-Wigan v Mansfield -> out/Wigan_v_Mansfield.txt
-    !! Mansfield: Ambiguous team name "Mansfield".
-Formartine United v Cove Rangers -> out/Formartine_United_v_Cove_Rangers.txt
-Huddersfield v Luton -> out/Huddersfield_v_Luton.txt
-Comerciantes Unidos v Deportivo Tarma -> out/Comerciantes_Unidos_v_Deportivo_Tarma.txt
-    !! Deportivo Tarma: No team found for "Deportivo Tarma".
-Requests used: API-Football 134, Matchbook 0
+RUN 2026-11-03 17:15 local | 4 match(es)
+Blackburn v Stoke City -> out/Blackburn_v_Stoke_City.txt
+Wigan v Mansfield Town -> out/Wigan_v_Mansfield_Town.txt
+Comerciantes Unidos v ADT -> out/Comerciantes_Unidos_v_ADT.txt
+St Mirren II v Peterhead -> out/St_Mirren_II_v_Peterhead.txt
+    !! St Mirren II: No team found for "St Mirren II".
+Requests used: API-Football 89, Matchbook 0

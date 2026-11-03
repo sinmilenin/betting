@@ -1,6 +1,6 @@
-MATCH St Mirren B v Peterhead | fetched 2026-11-03 17:13 local
+MATCH St Mirren II v Peterhead | fetched 2026-11-03 17:15 local
 
-FORM DATA St Mirren B v Peterhead | source API-Football | 2026-11-03 17:13 UTC
+FORM DATA St Mirren II v Peterhead | source API-Football | 2026-11-03 17:15 UTC
 H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
 
 === Peterhead (id 6777): last 20 finished games ===
@@ -28,7 +28,7 @@ Listed home: 12 games, scored 12 (1.00), conceded 12 (1.00), blanks 5, clean she
 Listed away: 8 games, scored 11 (1.38), conceded 13 (1.62), blanks 2, clean sheets 2
 All: 20 games, scored 23 (1.15), conceded 25 (1.25), blanks 7, clean sheets 5
 
-!! St Mirren B: No team found for "St Mirren B".
+!! St Mirren II: No team found for "St Mirren II".
 
 TABLE FOR Peterhead
 LEAGUE TABLE League One 2026 | 10 teams | 64 games played
