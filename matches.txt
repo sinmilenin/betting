@@ -1,2 +1,2 @@
-# 04.11 16:55 scan retry (id)
-id:2936 v id:4531 | n=20 | xg=10
+# 04.11 16:48 scan retry (Al Rayyan)
+Al Rayyan v Al Nahda | n=20 | xg=10
