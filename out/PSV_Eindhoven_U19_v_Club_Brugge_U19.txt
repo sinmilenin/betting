@@ -1,0 +1,77 @@
+MATCH PSV Eindhoven U19 v Club Brugge U19 | fetched 2026-11-04 12:43 local
+
+FORM DATA PSV Eindhoven U19 v Club Brugge U19 | source API-Football | 2026-11-04 12:43 UTC
+H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
+
+=== Club Brugge U19 (id 7893): last 20 finished games ===
+2026-10-21 H 4-2 v Lens U19 | UEFA Youth League | Roeselare
+2026-10-13 A 1-1 v Internazionale U19 | UEFA Youth League | Milan
+2026-09-08 H 5-3 v Aston Villa U19 | UEFA Youth League | Roeselare
+2026-04-20 H 1-1 v Real Madrid U19 | UEFA Youth League | Lausanne [PEN, 90-min score shown]
+2026-04-17 A 3-1 v Benfica U19 | UEFA Youth League | Lausanne
+2026-03-17 A 4-0 v Atlético Madrid U19 | UEFA Youth League | Madrid
+2026-02-25 A 1-0 v Žilina U19 | UEFA Youth League | ?
+2026-02-03 H 3-2 v Monaco  U19 | UEFA Youth League | Roeselare
+2025-12-10 H 2-1 v Arsenal U19 | UEFA Youth League | Roeselare
+2025-11-26 A 1-2 v Sporting CP U19 | UEFA Youth League | Alcochete
+2025-11-05 H 2-0 v Barcelona U19 | UEFA Youth League | Roeselare
+2025-10-22 A 3-0 v Bayern München U19 | UEFA Youth League | Munich
+2025-09-30 A 2-0 v Atalanta U19 | UEFA Youth League | Alzano Lombardo
+2025-09-18 H 1-0 v Monaco  U19 | UEFA Youth League | Roeselare
+2024-12-10 H 0-1 v Sporting CP U19 | UEFA Youth League | Roulers
+2024-11-27 A 0-1 v Celtic U19 | UEFA Youth League | Glasgow
+2024-11-06 H 2-6 v Aston Villa U19 | UEFA Youth League | Roulers
+2024-10-22 A 1-1 v Milan U19 | UEFA Youth League | Milano
+2024-10-02 A 1-1 v Sturm Graz U19 | UEFA Youth League | St. Veit an der Glan
+2024-09-18 H 1-1 v Borussia Dortmund U19 | UEFA Youth League | Roulers
+Listed home: 10 games, scored 21 (2.10), conceded 17 (1.70), blanks 1, clean sheets 2
+Listed away: 10 games, scored 17 (1.70), conceded 7 (0.70), blanks 1, clean sheets 4
+All: 20 games, scored 38 (1.90), conceded 24 (1.20), blanks 2, clean sheets 6
+
+!! PSV Eindhoven U19: No team found for "PSV Eindhoven U19".
+
+TABLE FOR Club Brugge U19
+LEAGUE TABLE UEFA Youth League 2025 | 36 teams | 108 games played
+League averages per game: home 2.25, away 1.91, total 4.16
+#   team                   Pts | home P GF-GA  | away P GF-GA  | all P GF-GA
+1   Chelsea U19             16 |  3  12-6       |  3  11-3       |  6  23-9
+2   Benfica U19             15 |  3  15-1       |  3  11-6       |  6  26-7
+3   Club Brugge U19         15 |  3   5-1       |  3   6-2       |  6  11-3
+4   Real Madrid U19         15 |  3   4-6       |  3  10-1       |  6  14-7
+5   Villarreal U19          15 |  3   5-1       |  3   7-6       |  6  12-7
+6   Athletic U19            14 |  3   7-2       |  3  10-5       |  6  17-7
+7   Atlético Madrid U19     13 |  3  11-2       |  3   5-6       |  6  16-8
+8   Barcelona U19           13 |  3   9-4       |  3   4-5       |  6  13-9
+9   Tottenham Hotspur U19   12 |  3  16-7       |  3  12-7       |  6  28-14
+10  Manchester City U19     12 |  3   8-3       |  3  10-5       |  6  18-8
+11  Borussia Dortmund U19   12 |  3   5-6       |  3   8-2       |  6  13-8
+12  Sporting CP U19         12 |  3   7-4       |  3   6-6       |  6  13-10
+13  PSG U19                 11 |  3  13-3       |  3   4-5       |  6  17-8
+14  Internazionale U19      11 |  3  10-2       |  3   4-6       |  6  14-8
+15  Ajax U19                10 |  3   8-7       |  3  16-9       |  6  24-16
+16  Liverpool U19           10 |  3   1-4       |  3   7-9       |  6   8-13
+17  Bayer Leverkusen U19    10 |  3   7-5       |  3   2-11      |  6   9-16
+18  Monaco  U19              9 |  3  10-9       |  3  10-1       |  6  20-10
+19  PSV U19                  8 |  3   9-3       |  3   4-6       |  6  13-9
+20  Slavia Praha U19         8 |  3  13-4       |  3   3-13      |  6  16-17
+21  Eintracht Frankf U19     7 |  3  11-7       |  3   4-6       |  6  15-13
+22  Olympique Marseille U1   7 |  3   5-5       |  3   7-6       |  6  12-11
+23  København U19            7 |  3   2-6       |  3   8-4       |  6  10-10
+24  Olympiakos Piraeus U19   7 |  3   6-4       |  3   2-6       |  6   8-10
+25  Napoli U19               6 |  3   3-1       |  3   0-5       |  6   3-6
+26  Juventus U19             5 |  3   6-7       |  3   6-4       |  6  12-11
+27  Bayern München U19       4 |  3   5-9       |  3   5-7       |  6  10-16
+28  Kairat U19               4 |  3   4-7       |  3   4-8       |  6   8-15
+29  Atalanta U19             4 |  3   3-5       |  3   3-8       |  6   6-13
+30  Pafos U19                4 |  3   0-8       |  3   5-7       |  6   5-15
+31  R. Union SG U19          4 |  3   4-6       |  3   3-12      |  6   7-18
+32  Galatasaray U18          4 |  3   4-5       |  3   2-16      |  6   6-21
+33  Arsenal U19              3 |  3   8-8       |  3   3-10      |  6  11-18
+34  Newcastle United U19     0 |  3   5-11      |  3   1-6       |  6   6-17
+35  Bodø / Glimt U19         0 |  3   2-19      |  3   2-12      |  6   4-31
+36  Qarabağ U19              0 |  3   0-18      |  3   1-12      |  6   1-30
+
+(13 API-Football requests used)
+
+----------------------------------------------------------------------
+MATCHBOOK: skipped (switched off for this run)

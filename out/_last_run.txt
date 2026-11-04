@@ -1,3 +1,10 @@
-RUN 2026-11-04 11:14 local | 1 match(es)
-Porto U19 v Napoli U19 -> out/Porto_U19_v_Napoli_U19.txt
-Requests used: API-Football 26, Matchbook 0
+RUN 2026-11-04 12:43 local | 6 match(es)
+Crvena Zvezda U19 v Bravo U19 -> out/Crvena_Zvezda_U19_v_Bravo_U19.txt
+FC Copenhagen U19 v Dinamo Tbilisi U19 -> out/FC_Copenhagen_U19_v_Dinamo_Tbilisi_U19.txt
+    !! FC Copenhagen U19: No team found for "FC Copenhagen U19".
+PSV Eindhoven U19 v Club Brugge U19 -> out/PSV_Eindhoven_U19_v_Club_Brugge_U19.txt
+    !! PSV Eindhoven U19: No team found for "PSV Eindhoven U19".
+Slavia Praha U19 v Arsenal U19 -> out/Slavia_Praha_U19_v_Arsenal_U19.txt
+Oxford United v Reading -> out/Oxford_United_v_Reading.txt
+Nacional Potosi v Oriente Petrolero -> out/Nacional_Potosi_v_Oriente_Petrolero.txt
+Requests used: API-Football 122, Matchbook 0
