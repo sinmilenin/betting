@@ -1,2 +1,2 @@
-# 04.11 15:13 scan
-ZED FC v El Geish | n=20 | xg=10
+# 04.11 15:13 scan retry
+ZED v El Geish | n=20 | xg=10
