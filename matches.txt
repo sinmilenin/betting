@@ -1,17 +1,7 @@
-# 04.11 07:45 top-20 run
-Buriram United v Kashima Antlers | n=20 | xg=10
-Rennes v Olympiakos | n=20 | xg=10
-AEK Athens v Real Madrid | n=20 | xg=10
-Fenerbahce v Liverpool | n=20 | xg=10
-Wrexham v Middlesbrough | n=20 | xg=10
-Cardiff v West Ham | n=20 | xg=10
-RB Leipzig v Manchester City | n=20 | xg=10
-Porto v Napoli | n=20 | xg=10
-Slavia Prague v Arsenal | n=20 | xg=10
-Borussia Dortmund v Real Betis | n=20 | xg=10
-PSV Eindhoven v Club Brugge | n=20 | xg=10
-Viking v Sabah | n=20 | xg=10
-Bristol City v Wolves | n=20 | xg=10
-Lens v Como | n=20 | xg=10
-Flamengo v Gremio | n=20 | xg=10
-Athletico Paranaense v Vasco DA Gama | n=20 | xg=10
+# 04.11 07:50 top-20 run, retry of failed team names
+id:575 v Real Madrid | n=20 | xg=10
+id:611 v Liverpool | n=20 | xg=10
+Slavia Praha v id:42 | n=20 | xg=10
+PSV Eindhoven v id:569 | n=20 | xg=10
+Viking v id:13976 | n=20 | xg=10
+Buriram United v Kashima | n=20 | xg=10
