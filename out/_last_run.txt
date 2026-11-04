@@ -1,13 +1,6 @@
-RUN 2026-11-04 14:59 local | 5 match(es)
-MSK Zilina U19 v HJK Helsinki U19 -> out/MSK_Zilina_U19_v_HJK_Helsinki_U19.txt
-    !! MSK Zilina U19: No team found for "MSK Zilina U19".
-    !! HJK Helsinki U19: No team found for "HJK Helsinki U19".
-Dukla Banska Bystrica v Trencin -> out/Dukla_Banska_Bystrica_v_Trencin.txt
-    !! Dukla Banska Bystrica: Ambiguous team name "Dukla Banska Bystrica".
-    !! Trencin: Ambiguous team name "Trencin".
-Kuwait SC v Nasaf -> out/Kuwait_SC_v_Nasaf.txt
-    !! Kuwait SC: No team found for "Kuwait SC".
-Al Nasr v Qatar SC -> out/Al_Nasr_v_Qatar_SC.txt
-    !! Al Nasr: Ambiguous team name "Al Nasr".
-Borussia Dortmund U19 v Real Betis U19 -> out/Borussia_Dortmund_U19_v_Real_Betis_U19.txt
-Requests used: API-Football 61, Matchbook 0
+RUN 2026-11-04 15:00 local | 4 match(es)
+Zilina U19 v HJK U19 -> out/Zilina_U19_v_HJK_U19.txt
+id:10533 v id:655 -> out/id_10533_v_id_655.txt
+Al Kuwait v Nasaf -> out/Al_Kuwait_v_Nasaf.txt
+id:10155 v Qatar SC -> out/id_10155_v_Qatar_SC.txt
+Requests used: API-Football 106, Matchbook 0
