@@ -1,3 +1,3 @@
-# 04.11 16:45 scan: new fixtures
-Al Rayyan v Al Nahdha | n=20 | xg=10
-Al Taawoun v Al Faisaly | n=20 | xg=10
+# 04.11 16:52 scan retry (ACL2 names)
+Al Taawon v id:4531 | n=20 | xg=10
+Al-Rayyan SC v Al-Nahda | n=20 | xg=10
