@@ -1,4 +1,17 @@
-# 03.11 20:56 night scan
-Mushuc Runa v Manta | n=20 | xg=10
-Internacional v Coritiba | n=20 | xg=10
-Sporting San Jose v Perez Zeledon | n=20 | xg=10
+# 04.11 07:45 top-20 run
+Buriram United v Kashima Antlers | n=20 | xg=10
+Rennes v Olympiakos | n=20 | xg=10
+AEK Athens v Real Madrid | n=20 | xg=10
+Fenerbahce v Liverpool | n=20 | xg=10
+Wrexham v Middlesbrough | n=20 | xg=10
+Cardiff v West Ham | n=20 | xg=10
+RB Leipzig v Manchester City | n=20 | xg=10
+Porto v Napoli | n=20 | xg=10
+Slavia Prague v Arsenal | n=20 | xg=10
+Borussia Dortmund v Real Betis | n=20 | xg=10
+PSV Eindhoven v Club Brugge | n=20 | xg=10
+Viking v Sabah | n=20 | xg=10
+Bristol City v Wolves | n=20 | xg=10
+Lens v Como | n=20 | xg=10
+Flamengo v Gremio | n=20 | xg=10
+Athletico Paranaense v Vasco DA Gama | n=20 | xg=10
