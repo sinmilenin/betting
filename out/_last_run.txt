@@ -1,3 +1,3 @@
-RUN 2026-11-04 16:28 local | 1 match(es)
-Al Masry v Petrojet -> out/Al_Masry_v_Petrojet.txt
+RUN 2026-11-04 17:13 local | 1 match(es)
+Kortrijk v KV Mechelen -> out/Kortrijk_v_KV_Mechelen.txt
 Requests used: API-Football 25, Matchbook 0
