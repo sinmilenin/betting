@@ -1,24 +1,8 @@
-RUN 2026-11-04 06:43 local | 16 match(es)
-Buriram United v Kashima Antlers -> out/Buriram_United_v_Kashima_Antlers.txt
-    !! Kashima Antlers: No team found for "Kashima Antlers".
-Rennes v Olympiakos -> out/Rennes_v_Olympiakos.txt
-AEK Athens v Real Madrid -> out/AEK_Athens_v_Real_Madrid.txt
-    !! AEK Athens: Ambiguous team name "AEK Athens".
-Fenerbahce v Liverpool -> out/Fenerbahce_v_Liverpool.txt
-    !! Fenerbahce: Ambiguous team name "Fenerbahce".
-Wrexham v Middlesbrough -> out/Wrexham_v_Middlesbrough.txt
-Cardiff v West Ham -> out/Cardiff_v_West_Ham.txt
-RB Leipzig v Manchester City -> out/RB_Leipzig_v_Manchester_City.txt
-Porto v Napoli -> out/Porto_v_Napoli.txt
-Slavia Prague v Arsenal -> out/Slavia_Prague_v_Arsenal.txt
-    !! Slavia Prague: No team found for "Slavia Prague".
-Borussia Dortmund v Real Betis -> out/Borussia_Dortmund_v_Real_Betis.txt
-PSV Eindhoven v Club Brugge -> out/PSV_Eindhoven_v_Club_Brugge.txt
-    !! Club Brugge: Ambiguous team name "Club Brugge".
-Viking v Sabah -> out/Viking_v_Sabah.txt
-    !! Sabah: Ambiguous team name "Sabah".
-Bristol City v Wolves -> out/Bristol_City_v_Wolves.txt
-Lens v Como -> out/Lens_v_Como.txt
-Flamengo v Gremio -> out/Flamengo_v_Gremio.txt
-Athletico Paranaense v Vasco DA Gama -> out/Athletico_Paranaense_v_Vasco_DA_Gama.txt
-Requests used: API-Football 339, Matchbook 0
+RUN 2026-11-04 06:44 local | 6 match(es)
+id:575 v Real Madrid -> out/id_575_v_Real_Madrid.txt
+id:611 v Liverpool -> out/id_611_v_Liverpool.txt
+Slavia Praha v id:42 -> out/Slavia_Praha_v_id_42.txt
+PSV Eindhoven v id:569 -> out/PSV_Eindhoven_v_id_569.txt
+Viking v id:13976 -> out/Viking_v_id_13976.txt
+Buriram United v Kashima -> out/Buriram_United_v_Kashima.txt
+Requests used: API-Football 155, Matchbook 0

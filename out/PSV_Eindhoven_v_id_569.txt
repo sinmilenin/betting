@@ -1,6 +1,6 @@
-MATCH PSV Eindhoven v Club Brugge | fetched 2026-11-04 06:43 local
+MATCH PSV Eindhoven v id:569 | fetched 2026-11-04 06:44 local
 
-FORM DATA PSV Eindhoven v Club Brugge | source API-Football | 2026-11-04 06:43 UTC
+FORM DATA PSV Eindhoven v id:569 | source API-Football | 2026-11-04 06:45 UTC
 H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
 
 === PSV Eindhoven (id 197): last 20 finished games ===
@@ -28,20 +28,30 @@ Listed home: 13 games, scored 37 (2.85), conceded 19 (1.46), blanks 1, clean she
 Listed away: 7 games, scored 15 (2.14), conceded 9 (1.29), blanks 1, clean sheets 1
 All: 20 games, scored 52 (2.60), conceded 28 (1.40), blanks 2, clean sheets 4
 
-"Club Brugge" matches several teams. Use id:<number> instead of the name:
-  id:569    Club Brugge KV (Belgium)
-  id:6344   Club Brugge W (Belgium)
-  id:7893   Club Brugge U19 (Belgium)
-  id:10845  Club Brugge U21 (Belgium)
-  id:14130  Club Brugge II (Belgium)
-(retrying Club Brugge using the opponent's country, Netherlands)
-"Club Brugge" matches several teams. Use id:<number> instead of the name:
-  id:569    Club Brugge KV (Belgium)
-  id:6344   Club Brugge W (Belgium)
-  id:7893   Club Brugge U19 (Belgium)
-  id:10845  Club Brugge U21 (Belgium)
-  id:14130  Club Brugge II (Belgium)
-!! Club Brugge: Ambiguous team name "Club Brugge".
+=== Club Brugge KV (id 569): last 20 finished games ===
+2026-10-30 A 4-2 v Zulte Waregem | Jupiler Pro League | Waregem | xG 1.40-1.60
+2026-10-25 H 3-2 v St. Truiden | Jupiler Pro League | Brugge | xG 2.67-1.81
+2026-10-21 H 3-0 v Lens | UEFA Champions League | Bruges | xG 2.68-2.10
+2026-10-17 H 1-0 v Lokeren-Temse | Cup | ?
+2026-10-13 A 4-3 v Inter | UEFA Champions League | Milan | xG 4.29-4.33
+2026-10-10 A 4-1 v RAAL La Louvière | Jupiler Pro League | La Louviere | xG 5.22-1.04
+2026-09-20 H 3-0 v Genk | Jupiler Pro League | Brugge | xG 2.12-1.96
+2026-09-13 H 3-1 v Antwerp | Jupiler Pro League | Brugge | xG 2.94-2.09
+2026-09-08 H 2-3 v Aston Villa | UEFA Champions League | Bruges | xG 1.53-3.22
+2026-09-04 A 1-0 v Lommel United | Jupiler Pro League | Lommel | xG 0.79-0.75
+2026-08-30 A 1-2 v Gent | Jupiler Pro League | Gent
+2026-08-23 H 1-0 v Cercle Brugge | Jupiler Pro League | Brugge
+2026-08-15 A 3-0 v OH Leuven | Jupiler Pro League | Heverlee
+2026-08-07 H 3-0 v Kortrijk | Jupiler Pro League | Brugge
+2026-07-31 H 1-1 v Union St. Gilloise | Super Cup | ? [PEN, 90-min score shown]
+2026-07-25 A 1-2 v Rennes | Friendlies Clubs | ?
+2026-07-17 H 2-3 v Heerenveen | Friendlies Clubs | ?
+2026-07-11 A 1-3 v Feyenoord | Friendlies Clubs | Rotterdam
+2026-07-04 H 4-2 v Kortrijk | Friendlies Clubs | ?
+2026-05-24 H 5-0 v Gent | Jupiler Pro League | Brugge
+Listed home: 12 games, scored 31 (2.58), conceded 12 (1.00), blanks 0, clean sheets 6
+Listed away: 8 games, scored 19 (2.38), conceded 13 (1.62), blanks 0, clean sheets 2
+All: 20 games, scored 50 (2.50), conceded 25 (1.25), blanks 0, clean sheets 8
 
 TABLE FOR PSV Eindhoven
 LEAGUE TABLE Eredivisie 2026 | 18 teams | 99 games played
@@ -66,7 +76,30 @@ League averages per game: home 1.81, away 2.01, total 3.82
 17  ADO Den Haag             6 |  5   8-12      |  6   5-12      | 11  13-24
 18  Willem II                2 |  5   4-16      |  6   6-23      | 11  10-39
 
-(15 API-Football requests used)
+TABLE FOR Club Brugge KV
+LEAGUE TABLE Jupiler Pro League 2026 | 18 teams | 89 games played
+League averages per game: home 1.89, away 1.34, total 3.22
+#   team                   Pts | home P GF-GA  | away P GF-GA  | all P GF-GA
+1   Club Brugge KV          27 |  5  13-3       |  5  13-5       | 10  26-8
+2   Union St. Gilloise      26 |  5  14-3       |  5  15-4       | 10  29-7
+3   Gent                    25 |  5  11-2       |  5   8-4       | 10  19-6
+4   Charleroi               24 |  5  15-8       |  5   6-4       | 10  21-12
+5   Anderlecht              19 |  5  10-2       |  5   3-9       | 10  13-11
+6   Genk                    15 |  5  13-4       |  5   5-10      | 10  18-14
+7   Lommel United           15 |  5   6-2       |  5   7-9       | 10  13-11
+8   KVC Westerlo            14 |  5  16-14      |  5   9-11      | 10  25-25
+9   Standard Liege          12 |  5   6-4       |  5   9-12      | 10  15-16
+10  Zulte Waregem           11 |  5   8-8       |  5   4-8       | 10  12-16
+11  Antwerp                 10 |  5  10-11      |  5   6-11      | 10  16-22
+12  SK Beveren              10 |  5   8-5       |  5   5-15      | 10  13-20
+13  OH Leuven                9 |  5   6-8       |  5   4-9       | 10  10-17
+14  KV Mechelen              9 |  5   8-11      |  4   2-6       |  9  10-17
+15  St. Truiden              8 |  5   6-8       |  5  12-13      | 10  18-21
+16  RAAL La Louvière         7 |  5  10-8       |  5   3-15      | 10  13-23
+17  Cercle Brugge            6 |  5   6-10      |  5   7-12      | 10  13-22
+18  Kortrijk                 4 |  4   2-8       |  5   1-11      |  9   3-19
+
+(26 API-Football requests used)
 
 ----------------------------------------------------------------------
 MATCHBOOK: skipped (switched off for this run)
