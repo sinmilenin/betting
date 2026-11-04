@@ -1,6 +1,7 @@
-RUN 2026-11-04 15:43 local | 2 match(es)
-Al Rayyan v Al Nahdha -> out/Al_Rayyan_v_Al_Nahdha.txt
-    !! Al Rayyan: Ambiguous team name "Al Rayyan".
-Al Taawoun v Al Faisaly -> out/Al_Taawoun_v_Al_Faisaly.txt
-    !! Al Taawoun: No team found for "Al Taawoun".
-Requests used: API-Football 29, Matchbook 0
+RUN 2026-11-04 15:44 local | 2 match(es)
+Al Taawon v id:4531 -> out/Al_Taawon_v_id_4531.txt
+    !! Al Taawon: Ambiguous team name "Al Taawon".
+Al-Rayyan SC v Al-Nahda -> out/Al_Rayyan_SC_v_Al_Nahda.txt
+    !! Al-Rayyan SC: API-Football error: {"search": "The Search field may only contain alpha-numeric characters and spaces."}
+    !! Al-Nahda: API-Football error: {"search": "The Search field may only contain alpha-numeric characters and spaces."}
+Requests used: API-Football 17, Matchbook 0

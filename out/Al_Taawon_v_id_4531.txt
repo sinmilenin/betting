@@ -1,8 +1,11 @@
-MATCH Al Taawoun v Al Faisaly | fetched 2026-11-04 15:43 local
+MATCH Al Taawon v id:4531 | fetched 2026-11-04 15:44 local
 
-FORM DATA Al Taawoun v Al Faisaly | source API-Football | 2026-11-04 15:43 UTC
+FORM DATA Al Taawon v id:4531 | source API-Football | 2026-11-04 15:44 UTC
 H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
 
+"Al Taawon" matches several teams. Use id:<number> instead of the name:
+  id:2936   Al Taawon (Saudi-Arabia)
+  id:13264  Al Taawon (United-Arab-Emirates)
 === Al Faisaly (id 4531): last 20 finished games ===
 2026-10-31 H 0-1 v Al Hussein | League | ?
 2026-10-28 H 0-2 v Al Taawon | AFC Champions League Two | Amman
@@ -28,7 +31,11 @@ Listed home: 11 games, scored 20 (1.82), conceded 9 (0.82), blanks 2, clean shee
 Listed away: 9 games, scored 13 (1.44), conceded 10 (1.11), blanks 3, clean sheets 4
 All: 20 games, scored 33 (1.65), conceded 19 (0.95), blanks 5, clean sheets 8
 
-!! Al Taawoun: No team found for "Al Taawoun".
+(retrying Al Taawon using the opponent's country, Jordan)
+"Al Taawon" matches several teams. Use id:<number> instead of the name:
+  id:2936   Al Taawon (Saudi-Arabia)
+  id:13264  Al Taawon (United-Arab-Emirates)
+!! Al Taawon: Ambiguous team name "Al Taawon".
 
 TABLE FOR Al Faisaly
 LEAGUE TABLE League 2026 | 10 teams | 35 games played
@@ -45,7 +52,7 @@ League averages per game: home 0.86, away 1.17, total 2.03
 9   Shabab Al Ordon          6 |  4   4-8       |  3   3-3       |  7   7-11
 10  Doqarah                  4 |  3   4-7       |  4   0-4       |  7   4-11
 
-(14 API-Football requests used)
+(15 API-Football requests used)
 
 ----------------------------------------------------------------------
 MATCHBOOK: skipped (switched off for this run)
