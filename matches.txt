@@ -1,2 +1,6 @@
-# 04.11 15:13 scan retry 2 (ZED FC listed as Masr in API-Football)
-Masr v El Geish | n=20 | xg=10
+# 04.11 15:58 scan (Europe/Ljubljana)
+MSK Zilina U19 v HJK Helsinki U19 | n=20 | xg=10
+Dukla Banska Bystrica v Trencin | n=20 | xg=10
+Kuwait SC v Nasaf | n=20 | xg=10
+Al Nasr v Qatar SC | n=20 | xg=10
+Borussia Dortmund U19 v Real Betis U19 | n=20 | xg=10
