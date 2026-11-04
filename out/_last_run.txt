@@ -1,4 +1,6 @@
-RUN 2026-11-04 12:45 local | 1 match(es)
-Kobenhavn U19 v Dinamo Tbilisi U19 -> out/Kobenhavn_U19_v_Dinamo_Tbilisi_U19.txt
-    !! Kobenhavn U19: No team found for "Kobenhavn U19".
-Requests used: API-Football 16, Matchbook 0
+RUN 2026-11-04 13:27 local | 2 match(es)
+RB Leipzig U19 v Manchester City U19 -> out/RB_Leipzig_U19_v_Manchester_City_U19.txt
+Doxa Katokopias v Olympiakos Nicosia -> out/Doxa_Katokopias_v_Olympiakos_Nicosia.txt
+    !! Doxa Katokopias: No team found for "Doxa Katokopias".
+    !! Olympiakos Nicosia: No team found for "Olympiakos Nicosia".
+Requests used: API-Football 29, Matchbook 0
