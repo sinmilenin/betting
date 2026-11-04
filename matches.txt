@@ -1,2 +1,7 @@
-# 04.11 12:12 scan
-Porto U19 v Napoli U19 | n=20 | xg=10
+# 04.11 13:44 scan (+ top-20 run)
+Crvena Zvezda U19 v Bravo U19 | n=20 | xg=10
+FC Copenhagen U19 v Dinamo Tbilisi U19 | n=20 | xg=10
+PSV Eindhoven U19 v Club Brugge U19 | n=20 | xg=10
+Slavia Praha U19 v Arsenal U19 | n=20 | xg=10
+Oxford United v Reading | n=20 | xg=10
+Nacional Potosi v Oriente Petrolero | n=20 | xg=10
