@@ -1,3 +1,4 @@
-RUN 2026-11-04 13:28 local | 1 match(es)
-Doxa v Olympiakos -> out/Doxa_v_Olympiakos.txt
-Requests used: API-Football 26, Matchbook 0
+RUN 2026-11-04 14:14 local | 1 match(es)
+ZED FC v El Geish -> out/ZED_FC_v_El_Geish.txt
+    !! ZED FC: No team found for "ZED FC".
+Requests used: API-Football 14, Matchbook 0
