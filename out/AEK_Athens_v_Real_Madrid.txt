@@ -1,0 +1,72 @@
+MATCH AEK Athens v Real Madrid | fetched 2026-11-04 06:43 local
+
+FORM DATA AEK Athens v Real Madrid | source API-Football | 2026-11-04 06:43 UTC
+H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
+
+"AEK Athens" matches several teams. Use id:<number> instead of the name:
+  id:575    AEK Athens FC (Greece)
+  id:7944   AEK Athens U19 (Greece)
+  id:18016  AEK Athens II (Greece)
+  id:26158  AEK Athens W (Greece)
+=== Real Madrid (id 541): last 20 finished games ===
+2026-11-01 A 3-0 v Racing Santander | La Liga | Santander | xG 3.41-1.05
+2026-10-25 A 2-1 v Barcelona | La Liga | Barcelona | xG 2.00-1.27
+2026-10-21 H 4-1 v RB Leipzig | UEFA Champions League | Madrid | xG 3.13-1.51
+2026-10-18 H 4-1 v Sevilla | La Liga | Madrid | xG 2.28-0.75
+2026-10-14 A 4-3 v AS Roma | UEFA Champions League | Rome | xG 1.49-1.49
+2026-10-10 H 1-0 v Villarreal | La Liga | Madrid | xG 1.43-0.59
+2026-09-20 A 1-2 v Atletico Madrid | La Liga | Madrid | xG 0.30-2.35
+2026-09-15 A 3-2 v Elche | La Liga | Elche | xG 3.61-0.78
+2026-09-12 H 4-1 v Rayo Vallecano | La Liga | Madrid | xG 2.62-1.21
+2026-09-08 H 2-1 v Inter | UEFA Champions League | Madrid | xG 2.91-1.83
+2026-09-04 A 0-1 v Real Betis | La Liga | Sevilla
+2026-08-30 H 4-0 v Malaga | La Liga | Madrid
+2026-08-26 H 4-1 v Real Sociedad | La Liga | Madrid
+2026-08-22 A 2-1 v Espanyol | La Liga | Cornella de Llobregat
+2026-08-16 A 3-0 v FC Schalke 04 | Friendlies Clubs | ?
+2026-08-12 A 1-0 v Deportivo La Coruna | Friendlies Clubs | ?
+2026-08-08 A 2-1 v Ferencvarosi TC | Friendlies Clubs | Budapest
+2026-08-01 H 2-2 v Fiorentina | Friendlies Clubs | ?
+2026-07-28 H 4-1 v Leganes | Friendlies Clubs | ?
+2026-05-23 H 4-2 v Athletic Club | La Liga | Madrid
+Listed home: 10 games, scored 33 (3.30), conceded 10 (1.00), blanks 0, clean sheets 2
+Listed away: 10 games, scored 21 (2.10), conceded 11 (1.10), blanks 1, clean sheets 3
+All: 20 games, scored 54 (2.70), conceded 21 (1.05), blanks 1, clean sheets 5
+
+(retrying AEK Athens using the opponent's country, Spain)
+"AEK Athens" matches several teams. Use id:<number> instead of the name:
+  id:575    AEK Athens FC (Greece)
+  id:7944   AEK Athens U19 (Greece)
+  id:18016  AEK Athens II (Greece)
+  id:26158  AEK Athens W (Greece)
+!! AEK Athens: Ambiguous team name "AEK Athens".
+
+TABLE FOR Real Madrid
+LEAGUE TABLE La Liga 2026 | 20 teams | 109 games played
+League averages per game: home 1.71, away 1.30, total 3.01
+#   team                   Pts | home P GF-GA  | away P GF-GA  | all P GF-GA
+1   Barcelona               30 |  6  24-7       |  5  22-5       | 11  46-12
+2   Atletico Madrid         28 |  5  11-3       |  6  11-5       | 11  22-8
+3   Real Madrid             27 |  5  17-3       |  6  11-7       | 11  28-10
+4   Real Betis              23 |  6  12-8       |  5   6-7       | 11  18-15
+5   Real Sociedad           19 |  5   7-7       |  6  13-13      | 11  20-20
+6   Sevilla                 17 |  5   7-7       |  6  10-12      | 11  17-19
+7   Athletic Club           15 |  6  11-5       |  4   3-5       | 10  14-10
+8   Deportivo La Coruna     14 |  6   8-6       |  5   7-8       | 11  15-14
+9   Villarreal              12 |  5   6-7       |  6   9-8       | 11  15-15
+10  Celta Vigo              12 |  6   9-6       |  5   1-4       | 11  10-10
+11  Alaves                  12 |  6  11-6       |  5   4-11      | 11  15-17
+12  Rayo Vallecano          12 |  5   9-7       |  5   6-13      | 10  15-20
+13  Getafe                  12 |  6   8-4       |  5   0-12      | 11   8-16
+14  Espanyol                11 |  5   6-7       |  6   7-7       | 11  13-14
+15  Osasuna                 11 |  5   4-3       |  6   7-19      | 11  11-22
+16  Racing Santander        11 |  6  11-11      |  5   4-18      | 11  15-29
+17  Elche                   10 |  5   4-12      |  6  10-6       | 11  14-18
+18  Levante                 10 |  5  13-12      |  6   3-9       | 11  16-21
+19  Valencia                 9 |  6   3-11      |  5   5-6       | 11   8-17
+20  Malaga                   5 |  5   5-10      |  6   3-11      | 11   8-21
+
+(15 API-Football requests used)
+
+----------------------------------------------------------------------
+MATCHBOOK: skipped (switched off for this run)
