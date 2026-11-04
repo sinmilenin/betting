@@ -1,5 +1,3 @@
-RUN 2026-11-04 06:47 local | 3 match(es)
-Rennes v id:553 -> out/Rennes_v_id_553.txt
-id:212 v Napoli -> out/id_212_v_Napoli.txt
-id:134 v Vasco DA Gama -> out/id_134_v_Vasco_DA_Gama.txt
-Requests used: API-Football 79, Matchbook 0
+RUN 2026-11-04 08:13 local | 1 match(es)
+Pohang Steelers v Gamba Osaka -> out/Pohang_Steelers_v_Gamba_Osaka.txt
+Requests used: API-Football 26, Matchbook 0
