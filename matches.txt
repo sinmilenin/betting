@@ -1,3 +1,2 @@
-# 04.11 14:26 scan
-RB Leipzig U19 v Manchester City U19 | n=20 | xg=10
-Doxa Katokopias v Olympiakos Nicosia | n=20 | xg=10
+# 04.11 14:26 scan retry
+Doxa v Olympiakos | n=20 | xg=10
