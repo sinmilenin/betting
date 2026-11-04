@@ -1,3 +1,2 @@
-# 04.11 16:52 scan retry (ACL2 names)
-Al Taawon v id:4531 | n=20 | xg=10
-Al-Rayyan SC v Al-Nahda | n=20 | xg=10
+# 04.11 16:55 scan retry (id)
+id:2936 v id:4531 | n=20 | xg=10
