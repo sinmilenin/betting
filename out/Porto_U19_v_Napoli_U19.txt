@@ -1,0 +1,121 @@
+MATCH Porto U19 v Napoli U19 | fetched 2026-11-04 11:14 local
+
+FORM DATA Porto U19 v Napoli U19 | source API-Football | 2026-11-04 11:14 UTC
+H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
+
+=== Porto U19 (id 7922): last 20 finished games ===
+2026-10-31 A 0-1 v Feirense U19 | Júniores U19 | ?
+2026-10-24 A 1-5 v Academico Viseu U19 | Júniores U19 | ?
+2026-10-20 H 3-1 v PSV U19 | UEFA Youth League | Vila Nova de Gaia
+2026-10-17 H 5-0 v Gil Vicente U19 | Júniores U19 | ?
+2026-10-14 A 0-5 v Real Betis U19 | UEFA Youth League | Sevilla
+2026-10-10 A 4-2 v Sporting Braga U19 | Júniores U19 | ?
+2026-09-19 H 0-0 v Rio Ave U19 | Júniores U19 | ?
+2026-09-12 H 4-0 v Famalicão U19 | Júniores U19 | ?
+2026-09-08 H 3-1 v Manchester City U19 | UEFA Youth League | Vila Nova de Gaia
+2026-09-05 A 0-1 v Vitoria Guimaraes U19 | Júniores U19 | ?
+2026-08-29 A 5-2 v Vizela U19 | Júniores U19 | ?
+2026-08-22 H 3-1 v Moreirense U19 | Júniores U19 | ?
+2026-08-08 H 1-0 v Feirense U19 | Júniores U19 | ?
+2026-05-16 A 3-1 v Sporting CP U19 | Júniores U19 | ?
+2026-05-09 H 3-2 v Famalicão U19 | Júniores U19 | ?
+2026-05-02 A 1-2 v União Leiria U19 | Júniores U19 | ?
+2026-04-25 H 3-3 v Benfica U19 | Júniores U19 | ?
+2026-04-17 H 3-0 v Gil Vicente U19 | Júniores U19 | ?
+2026-04-10 A 4-0 v Rio Ave U19 | Júniores U19 | ?
+2026-04-04 H 3-0 v Santa Clara U19 | Júniores U19 | ?
+Listed home: 11 games, scored 31 (2.82), conceded 8 (0.73), blanks 1, clean sheets 6
+Listed away: 9 games, scored 18 (2.00), conceded 19 (2.11), blanks 3, clean sheets 1
+All: 20 games, scored 49 (2.45), conceded 27 (1.35), blanks 4, clean sheets 7
+
+=== Napoli U19 (id 7917): last 20 finished games ===
+2026-10-31 A 0-0 v Monopoli U19 | Campionato Primavera - 2 | ?
+2026-10-24 H 3-1 v Spezia U19 | Campionato Primavera - 2 | ?
+2026-10-20 H 1-0 v Bodø / Glimt U19 | UEFA Youth League | Cercola
+2026-10-17 A 1-1 v Bari U19 | Campionato Primavera - 2 | ?
+2026-10-13 A 0-5 v Villarreal U19 | UEFA Youth League | Villarreal
+2026-10-10 H 1-0 v Pisa U19 | Campionato Primavera - 2 | ?
+2026-09-19 A 2-2 v Ascoli U19 | Campionato Primavera - 2 | ?
+2026-09-12 H 2-3 v Catanzaro U19 | Campionato Primavera - 2 | ?
+2026-09-09 H 1-2 v Arsenal U19 | UEFA Youth League | Cercola
+2026-09-05 A 1-3 v Avellino U19 | Campionato Primavera - 2 | ?
+2025-12-10 A 0-3 v Benfica U19 | UEFA Youth League | Seixal
+2025-11-25 H 2-0 v Qarabağ U19 | UEFA Youth League | Cercola
+2025-11-04 H 0-0 v Eintracht Frankf U19 | UEFA Youth League | Cercola
+2025-10-21 A 0-0 v PSV U19 | UEFA Youth League | Eindhoven
+2025-10-01 H 1-1 v Sporting CP U19 | UEFA Youth League | Cercola
+2025-09-18 A 0-2 v Manchester City U19 | UEFA Youth League | Manchester
+2025-05-31 H 2-0 v Virtus Entella U19 | Campionato Primavera - 2 | Cercola
+2025-05-24 A 2-1 v Como U19 | Campionato Primavera - 2 | Caronno Pertusella
+2025-05-17 H 2-1 v Renate U19 | Campionato Primavera - 2 | Cercola [AET, 90-min score shown]
+2025-05-10 H 1-0 v Crotone U19 | Campionato Primavera - 2 | Cercola
+Listed home: 11 games, scored 16 (1.45), conceded 8 (0.73), blanks 1, clean sheets 6
+Listed away: 9 games, scored 6 (0.67), conceded 17 (1.89), blanks 5, clean sheets 2
+All: 20 games, scored 22 (1.10), conceded 25 (1.25), blanks 6, clean sheets 8
+
+TABLE FOR Porto U19
+LEAGUE TABLE Júniores U19 2026 | 20 teams | 99 games played
+League averages per game: home 1.64, away 1.06, total 2.70
+#   team                   Pts | home P GF-GA  | away P GF-GA  | all P GF-GA
+1   Vitoria Guimaraes U19   20 |  5   8-4       |  6   6-7       | 11  14-11
+2   Porto U19               19 |  5  13-1       |  5  10-11      | 10  23-12
+3   Rio Ave U19             17 |  4   5-1       |  6   5-7       | 10  10-8
+4   Gil Vicente U19         15 |  6   8-3       |  4   1-7       | 10   9-10
+5   Feirense U19            14 |  6   5-4       |  4   2-4       | 10   7-8
+6   Academico Viseu U19     13 |  6   8-6       |  4   9-7       | 10  17-13
+7   Famalicão U19           13 |  4   6-3       |  7   8-13      | 11  14-16
+8   Sporting Braga U19      12 |  5   7-8       |  5   6-6       | 10  13-14
+9   Moreirense U19           9 |  5   6-7       |  5   5-9       | 10  11-16
+10  Vizela U19               9 |  5   9-16      |  5   1-4       | 10  10-20
+1   Sporting CP U19         19 |  5  10-4       |  5   5-7       | 10  15-11
+2   Benfica U19             18 |  4  17-3       |  5   3-4       |  9  20-7
+3   Santa Clara U19         15 |  5  13-3       |  5   5-11      | 10  18-14
+4   Torreense U19           15 |  5  10-9       |  5   8-7       | 10  18-16
+5   Casa Pia U19            13 |  6   9-6       |  4   2-4       | 10  11-10
+6   Oriental U19            12 |  5   5-4       |  4   5-6       |  9  10-10
+7   Mafra U19               12 |  4   3-5       |  5   6-9       |  9   9-14
+8   SC Farense U19           9 |  4   4-4       |  6  12-18      | 10  16-22
+9   Alverca U19              9 |  5  10-7       |  5   4-10      | 10  14-17
+10  União Leiria U19         6 |  5   6-7       |  4   2-11      |  9   8-18
+
+TABLE FOR Napoli U19
+LEAGUE TABLE Campionato Primavera - 2 2026 | 32 teams | 112 games played
+League averages per game: home 1.76, away 1.46, total 3.22
+#   team                   Pts | home P GF-GA  | away P GF-GA  | all P GF-GA
+1   Sampdoria U19           15 |  3  10-3       |  4  10-6       |  7  20-9
+2   Cremonese U19           15 |  3   6-4       |  4   9-4       |  7  15-8
+3   Renate U19              15 |  3   3-2       |  4  10-4       |  7  13-6
+4   Venezia U19             13 |  4   8-4       |  3   5-5       |  7  13-9
+5   Vicenza U19             12 |  5   9-4       |  2   2-2       |  7  11-6
+6   Udinese U19             12 |  4  10-8       |  3   5-5       |  7  15-13
+7   Virtus Entella U19      11 |  4   9-3       |  3   3-6       |  7  12-9
+8   Lecco U19               11 |  4   4-10      |  3   4-1       |  7   8-11
+9   Padova U19              10 |  3   2-5       |  4   8-6       |  7  10-11
+10  Brescia U19              8 |  3   7-6       |  4   3-9       |  7  10-15
+11  Cittadella U19           7 |  3   5-5       |  4   6-10      |  7  11-15
+12  Mantova U19              7 |  3   5-3       |  4   3-9       |  7   8-12
+13  Modena U19               5 |  4   8-6       |  3   3-8       |  7  11-14
+14  Pro Vercelli U19         5 |  4   3-5       |  3   3-7       |  7   6-12
+15  Sudtirol U19             4 |  3   2-3       |  4   3-7       |  7   5-10
+16  Reggiana U19             2 |  3   2-6       |  4   0-4       |  7   2-10
+1   Catanzaro U19           19 |  3  10-1       |  4   9-5       |  7  19-6
+2   Benevento U19           16 |  4  14-2       |  3   6-5       |  7  20-7
+3   Perugia U19             15 |  3   9-0       |  4   9-4       |  7  18-4
+4   Palermo U19             15 |  4   8-5       |  3   5-3       |  7  13-8
+5   Monopoli U19            12 |  4   8-4       |  3   4-3       |  7  12-7
+6   Bari U19                12 |  3   3-3       |  4   8-3       |  7  11-6
+7   Avellino U19            12 |  3   7-4       |  4   5-7       |  7  12-11
+8   Latina U19              11 |  3   7-4       |  4   8-7       |  7  15-11
+9   Pescara U19             11 |  4  11-9       |  3   4-5       |  7  15-14
+10  Napoli U19               9 |  3   6-4       |  4   4-6       |  7  10-10
+11  Spezia U19               7 |  3   3-10      |  4   8-4       |  7  11-14
+12  Pisa U19                 6 |  4   7-9       |  3   4-5       |  7  11-14
+13  Cosenza U19              4 |  4   4-6       |  3   3-12      |  7   7-18
+14  Frosinone U19            4 |  3   3-5       |  4   2-15      |  7   5-20
+15  Ascoli U19               2 |  4   3-6       |  3   4-11      |  7   7-17
+16  Salernitana U19          1 |  4   1-15      |  3   4-9       |  7   5-24
+
+(26 API-Football requests used)
+
+----------------------------------------------------------------------
+MATCHBOOK: skipped (switched off for this run)

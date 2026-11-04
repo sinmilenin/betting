@@ -1,3 +1,3 @@
-RUN 2026-11-04 10:29 local | 1 match(es)
-Fenerbahce U19 v Liverpool U19 -> out/Fenerbahce_U19_v_Liverpool_U19.txt
-Requests used: API-Football 27, Matchbook 0
+RUN 2026-11-04 11:14 local | 1 match(es)
+Porto U19 v Napoli U19 -> out/Porto_U19_v_Napoli_U19.txt
+Requests used: API-Football 26, Matchbook 0
