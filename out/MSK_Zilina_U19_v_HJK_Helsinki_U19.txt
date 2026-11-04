@@ -1,0 +1,13 @@
+MATCH MSK Zilina U19 v HJK Helsinki U19 | fetched 2026-11-04 14:59 local
+
+FORM DATA MSK Zilina U19 v HJK Helsinki U19 | source API-Football | 2026-11-04 14:59 UTC
+H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
+
+!! MSK Zilina U19: No team found for "MSK Zilina U19".
+
+!! HJK Helsinki U19: No team found for "HJK Helsinki U19".
+
+(2 API-Football requests used)
+
+----------------------------------------------------------------------
+MATCHBOOK: skipped (switched off for this run)
