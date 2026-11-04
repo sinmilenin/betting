@@ -1,3 +1,2 @@
-# 04.11 20:55 night scan
-Botafogo v Atletico Mineiro | n=20 | xg=10
-Sao Paulo v Corinthians | n=20 | xg=10
+# 04.11 21:05 night scan (retry: Atletico Mineiro id 117 returned no games)
+id:120 v id:1062 | n=20 | xg=10
