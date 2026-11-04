@@ -1,6 +1,3 @@
-RUN 2026-11-04 13:27 local | 2 match(es)
-RB Leipzig U19 v Manchester City U19 -> out/RB_Leipzig_U19_v_Manchester_City_U19.txt
-Doxa Katokopias v Olympiakos Nicosia -> out/Doxa_Katokopias_v_Olympiakos_Nicosia.txt
-    !! Doxa Katokopias: No team found for "Doxa Katokopias".
-    !! Olympiakos Nicosia: No team found for "Olympiakos Nicosia".
-Requests used: API-Football 29, Matchbook 0
+RUN 2026-11-04 13:28 local | 1 match(es)
+Doxa v Olympiakos -> out/Doxa_v_Olympiakos.txt
+Requests used: API-Football 26, Matchbook 0
