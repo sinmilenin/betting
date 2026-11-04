@@ -1,6 +1,6 @@
-RUN 2026-11-04 15:00 local | 4 match(es)
-Zilina U19 v HJK U19 -> out/Zilina_U19_v_HJK_U19.txt
-id:10533 v id:655 -> out/id_10533_v_id_655.txt
-Al Kuwait v Nasaf -> out/Al_Kuwait_v_Nasaf.txt
-id:10155 v Qatar SC -> out/id_10155_v_Qatar_SC.txt
-Requests used: API-Football 106, Matchbook 0
+RUN 2026-11-04 15:43 local | 2 match(es)
+Al Rayyan v Al Nahdha -> out/Al_Rayyan_v_Al_Nahdha.txt
+    !! Al Rayyan: Ambiguous team name "Al Rayyan".
+Al Taawoun v Al Faisaly -> out/Al_Taawoun_v_Al_Faisaly.txt
+    !! Al Taawoun: No team found for "Al Taawoun".
+Requests used: API-Football 29, Matchbook 0
