@@ -1,0 +1,85 @@
+MATCH Botafogo v Atletico Mineiro | fetched 2026-11-04 19:57 local
+
+FORM DATA Botafogo v Atletico Mineiro | source API-Football | 2026-11-04 19:57 UTC
+H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
+
+"Botafogo" matches several teams. Use id:<number> instead of the name:
+  id:120    Botafogo (Brazil)
+  id:1197   Botafogo PB (Brazil)
+  id:2618   Botafogo SP (Brazil)
+  id:5562   Botafogo (Cameroon)
+  id:12987  Botafogo SP U20 (Brazil)
+  id:16058  Botafogo SP B (Brazil)
+  id:16497  Botafogo W (Brazil)
+  id:16669  Botafogo BA (Brazil)
+  id:19054  Botafogo U23 (Brazil)
+  id:20748  Botafogo PB U20 (Brazil)
+  id:22875  Botafogo U20 (Brazil)
+  id:23608  Botafogo DF U20 (Brazil)
+  id:24473  Botafogo U17 (Brazil)
+  id:24805  Botafogo ASF (Brazil)
+  id:24910  Botafogo DF (Brazil)
+  id:25811  Botafogo BA U20 (Brazil)
+=== Atletico Mineiro (id 117): last 0 finished games ===
+Listed home: no games
+Listed away: no games
+All: no games
+
+(retrying Botafogo using the opponent's country, Brazil)
+NOTE: "Botafogo" matched 2 teams; picked Botafogo (Brazil) because the opponent is from Brazil. Others: Botafogo (Cameroon)
+=== Botafogo (id 120): last 20 finished games ===
+2026-10-29 A 1-2 v Remo | Serie A | Belem | xG 0.88-0.58
+2026-10-24 A 0-3 v Internacional | Serie A | Porto Alegre | xG 0.60-2.76
+2026-10-17 H 1-0 v Chapecoense-sc | Serie A | Rio de Janeiro | xG 2.36-0.21
+2026-10-12 A 1-1 v Coritiba | Serie A | Curitiba | xG 0.97-1.12
+2026-10-07 H 1-2 v Vasco DA Gama | Serie A | Rio de Janeiro | xG 0.59-1.74
+2026-09-19 A 0-2 v Mirassol | Serie A | Mirassol | xG 1.35-1.22
+2026-09-16 H 3-2 v Gremio | Serie A | Rio de Janeiro | xG 0.89-0.57
+2026-09-12 H 1-1 v RB Bragantino | Serie A | Rio de Janeiro | xG 1.39-0.80
+2026-09-06 H 0-0 v Palmeiras | Serie A | Rio de Janeiro | xG 0.91-1.16
+2026-08-30 A 0-3 v Flamengo | Serie A | Rio de Janeiro | xG 0.79-1.70
+2026-08-24 H 2-3 v Atletico Paranaense | Serie A | Rio de Janeiro
+2026-08-21 H 1-0 v Cienciano | CONMEBOL Sudamericana | Rio de Janeiro
+2026-08-16 A 0-1 v Vitoria | Serie A | Salvador
+2026-08-14 A 1-6 v Cienciano | CONMEBOL Sudamericana | Cusco
+2026-08-09 H 1-1 v Fluminense | Serie A | Rio de Janeiro
+2026-07-26 A 1-0 v Cruzeiro | Serie A | Belo Horizonte
+2026-07-23 H 0-0 v Vitoria | Serie A | Rio de Janeiro
+2026-07-16 H 2-1 v Santos | Serie A | Rio de Janeiro
+2026-05-30 A 1-2 v Bahia | Serie A | Salvador
+2026-05-27 A 3-1 v Caracas FC | CONMEBOL Sudamericana | Caracas
+Listed home: 10 games, scored 12 (1.20), conceded 10 (1.00), blanks 2, clean sheets 4
+Listed away: 10 games, scored 8 (0.80), conceded 21 (2.10), blanks 4, clean sheets 1
+All: 20 games, scored 20 (1.00), conceded 31 (1.55), blanks 6, clean sheets 5
+
+(no league table available for Atletico Mineiro: tried no competitions)
+
+TABLE FOR Botafogo
+LEAGUE TABLE Serie A 2026 | 20 teams | 332 games played
+League averages per game: home 1.53, away 1.13, total 2.66
+#   team                   Pts | home P GF-GA  | away P GF-GA  | all P GF-GA
+1   Flamengo                73 | 16  32-12      | 17  36-16      | 33  68-28
+2   Palmeiras               70 | 16  30-10      | 17  26-12      | 33  56-22
+3   Cruzeiro                57 | 16  27-16      | 17  25-30      | 33  52-46
+4   Fluminense              54 | 17  31-17      | 16  21-25      | 33  52-42
+5   Atletico Paranaense     54 | 16  27-15      | 17  23-25      | 33  50-40
+6   Bahia                   53 | 17  26-19      | 16  22-23      | 33  48-42
+7   Atletico-MG             50 | 17  27-18      | 16  17-21      | 33  44-39
+8   RB Bragantino           47 | 17  29-18      | 17  15-21      | 34  44-39
+9   Santos                  47 | 17  23-21      | 17  27-28      | 34  50-49
+10  Sao Paulo               43 | 16  25-13      | 17  14-26      | 33  39-39
+11  Coritiba                42 | 17  22-21      | 17  18-30      | 34  40-51
+12  Mirassol                40 | 17  24-22      | 17  15-26      | 34  39-48
+13  Botafogo                39 | 16  26-22      | 17  19-31      | 33  45-53
+14  Vasco DA Gama           38 | 17  25-24      | 15  15-25      | 32  40-49
+15  Vitoria                 38 | 16  23-13      | 17  12-35      | 33  35-48
+16  Internacional           38 | 17  22-17      | 17  16-25      | 34  38-42
+17  Gremio                  37 | 17  27-21      | 16  10-23      | 33  37-44
+18  Corinthians             36 | 17  18-17      | 16  18-25      | 33  36-42
+19  Remo                    29 | 17  22-22      | 16  14-29      | 33  36-51
+20  Chapecoense-sc          21 | 16  22-36      | 17  11-32      | 33  33-68
+
+(16 API-Football requests used)
+
+----------------------------------------------------------------------
+MATCHBOOK: skipped (switched off for this run)

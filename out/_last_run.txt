@@ -1,3 +1,4 @@
-RUN 2026-11-04 17:13 local | 1 match(es)
-Kortrijk v KV Mechelen -> out/Kortrijk_v_KV_Mechelen.txt
-Requests used: API-Football 25, Matchbook 0
+RUN 2026-11-04 19:57 local | 2 match(es)
+Botafogo v Atletico Mineiro -> out/Botafogo_v_Atletico_Mineiro.txt
+Sao Paulo v Corinthians -> out/Sao_Paulo_v_Corinthians.txt
+Requests used: API-Football 40, Matchbook 0
