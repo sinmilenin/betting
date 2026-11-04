@@ -1,3 +1,2 @@
-# 04.11 13:48 scan retry (team names)
-København U19 v Dinamo Tbilisi U19 | n=20 | xg=10
-PSV U19 v Club Brugge U19 | n=20 | xg=10
+# 04.11 13:53 scan retry
+Kobenhavn U19 v Dinamo Tbilisi U19 | n=20 | xg=10
