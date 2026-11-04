@@ -1,0 +1,101 @@
+MATCH Rennes v id:553 | fetched 2026-11-04 06:47 local
+
+FORM DATA Rennes v id:553 | source API-Football | 2026-11-04 06:47 UTC
+H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
+
+=== Rennes (id 94): last 20 finished games ===
+2026-10-30 A 2-5 v Nice | Ligue 1 | Nice | xG 2.67-3.52
+2026-10-25 H 3-0 v Strasbourg | Ligue 1 | Rennes | xG 2.00-0.94
+2026-10-22 A 2-2 v Juventus | UEFA Europa League | Turin | xG 1.68-2.27
+2026-10-18 A 3-4 v Paris FC | Ligue 1 | Paris | xG 3.35-3.62
+2026-10-15 H 2-1 v OFI | UEFA Europa League | Rennes | xG 1.54-0.12
+2026-10-11 H 4-1 v Auxerre | Ligue 1 | Rennes | xG 2.56-1.76
+2026-10-02 A 0-1 v Laval | Friendlies Clubs | ?
+2026-09-19 A 0-4 v Lyon | Ligue 1 | Lyon | xG 1.37-3.13
+2026-09-16 A 0-0 v Sturm Graz | UEFA Europa League | Graz
+2026-09-11 H 1-0 v Marseille | Ligue 1 | Rennes | xG 1.88-1.34
+2026-09-06 A 2-1 v Angers | Ligue 1 | Angers
+2026-08-30 H 3-2 v Le Mans | Ligue 1 | Rennes
+2026-08-23 H 2-2 v Paris Saint Germain | Ligue 1 | Rennes
+2026-08-15 A 1-2 v Sunderland | Friendlies Clubs | ?
+2026-08-08 H 2-4 v Brentford | Friendlies Clubs | ?
+2026-08-08 H 1-2 v Brentford U21 | Friendlies Clubs | ?
+2026-08-02 A 3-3 v Galatasaray | Friendlies Clubs | Istanbul
+2026-07-25 H 2-1 v Club Brugge KV | Friendlies Clubs | ?
+2026-07-17 H 3-1 v Guingamp | Friendlies Clubs | ?
+2026-07-09 H 1-2 v Caen | Friendlies Clubs | ?
+Listed home: 11 games, scored 24 (2.18), conceded 16 (1.45), blanks 0, clean sheets 2
+Listed away: 9 games, scored 13 (1.44), conceded 22 (2.44), blanks 3, clean sheets 1
+All: 20 games, scored 37 (1.85), conceded 38 (1.90), blanks 3, clean sheets 3
+
+=== Olympiakos Piraeus (id 553): last 20 finished games ===
+2026-10-31 A 3-2 v Kifisia | Super League 1 | Athens | xG 1.05-1.65
+2026-10-28 A 2-0 v Marko | Cup | ?
+2026-10-25 H 5-0 v Kalamata | Super League 1 | Piraeus | xG 0.00-0.00
+2026-10-22 H 1-0 v Sparta Praha | UEFA Europa League | Piraeus | xG 2.17-0.73
+2026-10-18 A 2-0 v Panetolikos | Super League 1 | Agrinon | xG 2.52-1.31
+2026-10-15 A 1-0 v Marseille | UEFA Europa League | Marseille | xG 0.63-0.90
+2026-10-11 H 1-0 v Panathinaikos | Super League 1 | Piraeus | xG 0.64-0.45
+2026-09-20 A 1-0 v Levadiakos | Super League 1 | Levadia | xG 1.17-0.37
+2026-09-16 H 2-1 v Jagiellonia | UEFA Europa League | Piraeus | xG 2.53-0.52
+2026-09-12 H 0-1 v OFI | Super League 1 | Piraeus | xG 1.39-0.87
+2026-09-08 H 3-2 v Volos NFC | Cup | Piraeus
+2026-09-05 A 1-1 v Volos NFC | Super League 1 | Volos
+2026-09-02 A 4-0 v Larisa | Cup | Larissa
+2026-08-30 A 1-0 v Asteras Tripolis | Super League 1 | Tripoli
+2026-08-22 H 1-0 v Atromitos | Super League 1 | Piraeus
+2026-08-11 A 1-1 v NEC Nijmegen | UEFA Champions League | Nijmegen [AET, 90-min score shown]
+2026-08-04 H 0-0 v NEC Nijmegen | UEFA Champions League | Piraeus
+2026-07-25 A 2-3 v AZ Alkmaar | Friendlies Clubs | ?
+2026-07-24 A 0-3 v Antwerp | Friendlies Clubs | ?
+2026-07-18 A 0-1 v Ajax | Friendlies Clubs | Ouder-Amstel
+Listed home: 8 games, scored 13 (1.62), conceded 4 (0.50), blanks 2, clean sheets 5
+Listed away: 12 games, scored 18 (1.50), conceded 11 (0.92), blanks 2, clean sheets 6
+All: 20 games, scored 31 (1.55), conceded 15 (0.75), blanks 4, clean sheets 11
+
+TABLE FOR Rennes
+LEAGUE TABLE Ligue 1 2026 | 18 teams | 81 games played
+League averages per game: home 1.70, away 1.33, total 3.04
+#   team                   Pts | home P GF-GA  | away P GF-GA  | all P GF-GA
+1   Paris Saint Germain     20 |  3   6-3       |  6  15-7       |  9  21-10
+2   Lille                   18 |  5   7-3       |  4   5-3       |  9  12-6
+3   Lyon                    17 |  5  12-3       |  4   3-4       |  9  15-7
+4   Paris FC                17 |  5  12-5       |  4   4-5       |  9  16-10
+5   Rennes                  16 |  5  13-5       |  4   7-14      |  9  20-19
+6   Marseille               15 |  5  13-8       |  4   7-5       |  9  20-13
+7   Monaco                  15 |  4   7-4       |  5   5-6       |  9  12-10
+8   Nice                    14 |  5  10-5       |  4   3-7       |  9  13-12
+9   Lens                    13 |  4   9-5       |  5   7-8       |  9  16-13
+10  Stade Brestois 29       12 |  4   8-6       |  5   8-6       |  9  16-12
+11  Lorient                 12 |  5   5-6       |  4   2-2       |  9   7-8
+12  Toulouse                10 |  4   3-5       |  5   9-8       |  9  12-13
+13  Strasbourg              10 |  4   9-6       |  5   8-13      |  9  17-19
+14  Auxerre                 10 |  4   5-5       |  5   8-18      |  9  13-23
+15  Angers                   8 |  5   5-9       |  4   4-8       |  9   9-17
+16  Estac Troyes             8 |  5   5-11      |  4   2-5       |  9   7-16
+17  Le Mans                  7 |  4   6-8       |  5   5-10      |  9  11-18
+18  Le Havre                 2 |  5   3-11      |  4   6-9       |  9   9-20
+
+TABLE FOR Olympiakos Piraeus
+LEAGUE TABLE Super League 1 2026 | 14 teams | 62 games played
+League averages per game: home 1.76, away 1.00, total 2.76
+#   team                   Pts | home P GF-GA  | away P GF-GA  | all P GF-GA
+1   Panathinaikos           24 |  5  16-3       |  4   4-1       |  9  20-4
+2   Olympiakos Piraeus      22 |  4   7-1       |  5   8-3       |  9  15-4
+3   PAOK                    18 |  5  11-5       |  4   7-7       |  9  18-12
+4   AEK Athens FC           17 |  4  17-0       |  4   4-5       |  8  21-5
+5   Aris Thessalonikis      16 |  4   8-4       |  5   5-13      |  9  13-17
+6   OFI                     16 |  4   8-3       |  5   6-9       |  9  14-12
+7   Kifisia                 11 |  5   6-6       |  4   6-8       |  9  12-14
+8   Kalamata                11 |  5  10-9       |  4   4-9       |  9  14-18
+9   Iraklis 1908            10 |  3   5-4       |  6   5-8       |  9  10-12
+10  Panetolikos              9 |  5   6-7       |  4   2-10      |  9   8-17
+11  Levadiakos               6 |  5   3-5       |  4   0-6       |  9   3-11
+12  Asteras Tripolis         6 |  5   3-5       |  4   5-12      |  9   8-17
+13  Atromitos                5 |  4   6-5       |  4   3-7       |  8   9-12
+14  Volos NFC                0 |  4   3-5       |  5   3-11      |  9   6-16
+
+(26 API-Football requests used)
+
+----------------------------------------------------------------------
+MATCHBOOK: skipped (switched off for this run)

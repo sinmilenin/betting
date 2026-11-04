@@ -1,8 +1,5 @@
-RUN 2026-11-04 06:44 local | 6 match(es)
-id:575 v Real Madrid -> out/id_575_v_Real_Madrid.txt
-id:611 v Liverpool -> out/id_611_v_Liverpool.txt
-Slavia Praha v id:42 -> out/Slavia_Praha_v_id_42.txt
-PSV Eindhoven v id:569 -> out/PSV_Eindhoven_v_id_569.txt
-Viking v id:13976 -> out/Viking_v_id_13976.txt
-Buriram United v Kashima -> out/Buriram_United_v_Kashima.txt
-Requests used: API-Football 155, Matchbook 0
+RUN 2026-11-04 06:47 local | 3 match(es)
+Rennes v id:553 -> out/Rennes_v_id_553.txt
+id:212 v Napoli -> out/id_212_v_Napoli.txt
+id:134 v Vasco DA Gama -> out/id_134_v_Vasco_DA_Gama.txt
+Requests used: API-Football 79, Matchbook 0
