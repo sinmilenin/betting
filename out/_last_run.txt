@@ -1,4 +1,3 @@
-RUN 2026-11-04 19:57 local | 2 match(es)
-Botafogo v Atletico Mineiro -> out/Botafogo_v_Atletico_Mineiro.txt
-Sao Paulo v Corinthians -> out/Sao_Paulo_v_Corinthians.txt
-Requests used: API-Football 40, Matchbook 0
+RUN 2026-11-04 19:58 local | 1 match(es)
+id:120 v id:1062 -> out/id_120_v_id_1062.txt
+Requests used: API-Football 26, Matchbook 0
