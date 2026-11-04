@@ -1,3 +1,5 @@
-RUN 2026-11-04 15:45 local | 1 match(es)
-id:2936 v id:4531 -> out/id_2936_v_id_4531.txt
-Requests used: API-Football 26, Matchbook 0
+RUN 2026-11-04 15:47 local | 1 match(es)
+Al Rayyan v Al Nahda -> out/Al_Rayyan_v_Al_Nahda.txt
+    !! Al Rayyan: Ambiguous team name "Al Rayyan".
+    !! Al Nahda: No team found for "Al Nahda".
+Requests used: API-Football 2, Matchbook 0
