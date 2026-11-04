@@ -1,7 +1,32 @@
-MATCH PSV Eindhoven U19 v Club Brugge U19 | fetched 2026-11-04 12:43 local
+MATCH PSV U19 v Club Brugge U19 | fetched 2026-11-04 12:44 local
 
-FORM DATA PSV Eindhoven U19 v Club Brugge U19 | source API-Football | 2026-11-04 12:43 UTC
+FORM DATA PSV U19 v Club Brugge U19 | source API-Football | 2026-11-04 12:44 UTC
 H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
+
+=== PSV U19 (id 7965): last 20 finished games ===
+2026-10-20 A 1-3 v Porto U19 | UEFA Youth League | Vila Nova de Gaia
+2026-10-13 A 6-1 v RB Leipzig U19 | UEFA Youth League | Leipzig
+2026-09-10 H 1-0 v Shakhtar Donetsk U19 | UEFA Youth League | Eindhoven
+2026-05-30 H 3-0 v FC Volendam U19 | U19 Divisie 1 | ?
+2026-05-16 A 3-1 v Ajax U19 | U19 Divisie 1 | ?
+2026-05-09 A 3-2 v Feyenoord U19 | U19 Divisie 1 | ?
+2026-05-02 H 1-1 v AZ U19 | U19 Divisie 1 | ?
+2026-04-21 H 6-1 v ADO Den Haag U19 | U19 Divisie 1 | ?
+2026-04-18 A 3-2 v NEC Nijmegen U19 | U19 Divisie 1 | ?
+2026-04-11 A 1-2 v Sparta Rotterdam U19 | U19 Divisie 1 | ?
+2026-03-21 A 2-1 v FC Volendam U19 | U19 Divisie 1 | ?
+2026-03-14 H 3-1 v Ajax U19 | U19 Divisie 1 | ?
+2026-03-10 A 3-0 v ADO Den Haag U19 | U19 Divisie 1 | ?
+2026-03-03 H 3-1 v Sparta Rotterdam U19 | U19 Divisie 1 | ?
+2026-03-03 A 1-3 v Sparta Rotterdam U19 | U19 Divisie 1 | ?
+2026-02-28 A 0-3 v AZ U19 | U19 Divisie 1 | ?
+2026-02-07 H 2-1 v Feyenoord U19 | U19 Divisie 1 | ?
+2026-02-03 A 1-1 v Chelsea U19 | UEFA Youth League | Surrey [PEN, 90-min score shown]
+2026-01-24 H 1-2 v NEC Nijmegen U19 | U19 Divisie 1 | ?
+2025-12-13 A 4-3 v NEC Nijmegen U19 | U19 Divisie 1 | ?
+Listed home: 8 games, scored 20 (2.50), conceded 7 (0.88), blanks 0, clean sheets 2
+Listed away: 12 games, scored 28 (2.33), conceded 22 (1.83), blanks 1, clean sheets 1
+All: 20 games, scored 48 (2.40), conceded 29 (1.45), blanks 1, clean sheets 3
 
 === Club Brugge U19 (id 7893): last 20 finished games ===
 2026-10-21 H 4-2 v Lens U19 | UEFA Youth League | Roeselare
@@ -28,7 +53,26 @@ Listed home: 10 games, scored 21 (2.10), conceded 17 (1.70), blanks 1, clean she
 Listed away: 10 games, scored 17 (1.70), conceded 7 (0.70), blanks 1, clean sheets 4
 All: 20 games, scored 38 (1.90), conceded 24 (1.20), blanks 2, clean sheets 6
 
-!! PSV Eindhoven U19: No team found for "PSV Eindhoven U19".
+TABLE FOR PSV U19
+LEAGUE TABLE U19 Divisie 1 2025 | 16 teams | 112 games played
+League averages per game: home 2.36, away 1.90, total 4.26
+#   team                   Pts | home P GF-GA  | away P GF-GA  | all P GF-GA
+1   AZ U19                  32 |  7  19-10      |  7  21-9       | 14  40-19 [U19 Eredivisie, Fall Season ]
+2   Feyenoord U19           32 |  7  18-6       |  7  16-10      | 14  34-16 [U19 Eredivisie, Fall Season ]
+3   PSV U19                 25 |  7  13-9       |  7  16-13      | 14  29-22 [U19 Eredivisie, Fall Season ]
+4   Ajax U19                17 |  7  18-15      |  7  13-15      | 14  31-30 [U19 Eredivisie, Fall Season ]
+5   NEC Nijmegen U19        16 |  7  17-17      |  7  17-19      | 14  34-36 [U19 Eredivisie, Fall Season ]
+6   ADO Den Haag U19        14 |  7  14-11      |  7   8-23      | 14  22-34 [U19 Eredivisie, Fall Season ]
+7   Willem II U19           12 |  7  13-24      |  7  10-15      | 14  23-39 [U19 Eredivisie, Fall Season ]
+8   Utrecht U19              9 |  7  13-14      |  7   5-21      | 14  18-35 [U19 Eredivisie, Fall Season ]
+1   AZ U19                  32 |  7  26-13      |  7  11-8       | 14  37-21 [U19 Eredivisie, Spring Season ]
+2   PSV U19                 31 |  7  19-7       |  7  15-11      | 14  34-18 [U19 Eredivisie, Spring Season ]
+3   Feyenoord U19           29 |  7  23-12      |  7  21-10      | 14  44-22 [U19 Eredivisie, Spring Season ]
+4   Ajax U19                22 |  7  19-11      |  7  24-19      | 14  43-30 [U19 Eredivisie, Spring Season ]
+5   NEC Nijmegen U19        17 |  7  14-20      |  7  12-16      | 14  26-36 [U19 Eredivisie, Spring Season ]
+6   Sparta Rotterdam U19    12 |  7  14-15      |  7  10-22      | 14  24-37 [U19 Eredivisie, Spring Season ]
+7   FC Volendam U19         10 |  7  11-11      |  7   5-28      | 14  16-39 [U19 Eredivisie, Spring Season ]
+8   ADO Den Haag U19         8 |  7  13-18      |  7   9-25      | 14  22-43 [U19 Eredivisie, Spring Season ]
 
 TABLE FOR Club Brugge U19
 LEAGUE TABLE UEFA Youth League 2025 | 36 teams | 108 games played
@@ -71,7 +115,7 @@ League averages per game: home 2.25, away 1.91, total 4.16
 35  Bodø / Glimt U19         0 |  3   2-19      |  3   2-12      |  6   4-31
 36  Qarabağ U19              0 |  3   0-18      |  3   1-12      |  6   1-30
 
-(13 API-Football requests used)
+(25 API-Football requests used)
 
 ----------------------------------------------------------------------
 MATCHBOOK: skipped (switched off for this run)

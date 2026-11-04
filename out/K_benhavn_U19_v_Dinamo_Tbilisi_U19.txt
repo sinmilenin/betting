@@ -1,6 +1,6 @@
-MATCH FC Copenhagen U19 v Dinamo Tbilisi U19 | fetched 2026-11-04 12:43 local
+MATCH København U19 v Dinamo Tbilisi U19 | fetched 2026-11-04 12:44 local
 
-FORM DATA FC Copenhagen U19 v Dinamo Tbilisi U19 | source API-Football | 2026-11-04 12:43 UTC
+FORM DATA København U19 v Dinamo Tbilisi U19 | source API-Football | 2026-11-04 12:44 UTC
 H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
 
 === Dinamo Tbilisi U19 (id 24976): last 11 finished games ===
@@ -19,11 +19,11 @@ Listed home: 6 games, scored 14 (2.33), conceded 8 (1.33), blanks 1, clean sheet
 Listed away: 5 games, scored 11 (2.20), conceded 10 (2.00), blanks 0, clean sheets 1
 All: 11 games, scored 25 (2.27), conceded 18 (1.64), blanks 1, clean sheets 4
 
-!! FC Copenhagen U19: No team found for "FC Copenhagen U19".
+!! København U19: API-Football error: {"search": "The Search field may only contain alpha-numeric characters and spaces."}
 
 (no league table available for Dinamo Tbilisi U19: tried UEFA Youth League 2026, UEFA Youth League 2025, UEFA Youth League 2024)
 
-(13 API-Football requests used)
+(16 API-Football requests used)
 
 ----------------------------------------------------------------------
 MATCHBOOK: skipped (switched off for this run)
