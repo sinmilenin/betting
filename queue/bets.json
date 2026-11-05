@@ -1,13 +1,68 @@
 [
   {
-    "id": "2026-11-04_msk-zilina-u19-hjk-helsinki-u19_0-1",
-    "date": "2026-11-04",
-    "ko": "16:30",
-    "match": "MSK Zilina U19 v HJK Helsinki U19",
-    "comp": "International, UEFA Youth League",
+    "id": "2026-11-05_lillestrom-plzen_0-1",
+    "date": "2026-11-05",
+    "ko": "18:45",
+    "match": "Lillestrom v Plzen",
+    "comp": "International, UEFA Europa League",
     "cell": "0-1",
-    "lay": 18,
+    "lay": 14.5,
     "stake": 3,
-    "created": "2026-11-04T16:02:31+01:00"
+    "created": "2026-11-05T07:51:09+01:00"
+  },
+  {
+    "id": "2026-11-05_lillestrom-plzen_1-0",
+    "date": "2026-11-05",
+    "ko": "18:45",
+    "match": "Lillestrom v Plzen",
+    "comp": "International, UEFA Europa League",
+    "cell": "1-0",
+    "lay": 18.0,
+    "stake": 3,
+    "created": "2026-11-05T07:51:09+01:00"
+  },
+  {
+    "id": "2026-11-05_agf-braga_2-2",
+    "date": "2026-11-05",
+    "ko": "18:45",
+    "match": "AGF v Braga",
+    "comp": "International, UEFA Conference League",
+    "cell": "2-2",
+    "lay": 18.5,
+    "stake": 3,
+    "created": "2026-11-05T07:51:09+01:00"
+  },
+  {
+    "id": "2026-11-05_kups-gent_0-1",
+    "date": "2026-11-05",
+    "ko": "18:45",
+    "match": "KuPS v Gent",
+    "comp": "International, UEFA Conference League",
+    "cell": "0-1",
+    "lay": 8.0,
+    "stake": 3,
+    "created": "2026-11-05T07:51:09+01:00"
+  },
+  {
+    "id": "2026-11-05_trabzonspor-freiburg_0-1",
+    "date": "2026-11-05",
+    "ko": "18:45",
+    "match": "Trabzonspor v Freiburg",
+    "comp": "International, UEFA Conference League",
+    "cell": "0-1",
+    "lay": 16.5,
+    "stake": 3,
+    "created": "2026-11-05T07:51:09+01:00"
+  },
+  {
+    "id": "2026-11-05_panathinaikos-cska-sofia_1-0",
+    "date": "2026-11-05",
+    "ko": "21:00",
+    "match": "Panathinaikos v CSKA Sofia",
+    "comp": "International, UEFA Conference League",
+    "cell": "1-0",
+    "lay": 9.6,
+    "stake": 3,
+    "created": "2026-11-05T07:51:09+01:00"
   }
 ]
