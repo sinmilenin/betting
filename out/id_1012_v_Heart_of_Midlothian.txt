@@ -1,0 +1,93 @@
+MATCH id:1012 v Heart of Midlothian | fetched 2026-11-05 14:58 local
+
+FORM DATA id:1012 v Heart of Midlothian | source API-Football | 2026-11-05 14:58 UTC
+H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
+
+=== FC Thun (id 1012): last 20 finished games ===
+2026-11-01 A 5-4 v Lausanne | Super League | Thun | xG 2.96-2.04
+2026-10-25 H 2-3 v FC Lugano | Super League | Lugano | xG 1.87-1.74
+2026-10-22 H 0-1 v HNK Hajduk Split | UEFA Europa Conference League | Thun | xG 1.29-1.30
+2026-10-18 A 1-1 v FC Schaffhausen | Schweizer Cup | ? [PEN, 90-min score shown]
+2026-10-15 A 0-1 v Twente | UEFA Europa Conference League | Enschede | xG 0.20-2.32
+2026-10-10 A 2-4 v FC Zurich | Super League | Zurich | xG 1.44-0.91
+2026-10-03 H 2-0 v SC Kriens | Friendlies Clubs | ?
+2026-09-20 A 2-1 v FC Vaduz | Super League | Vaduz | xG 1.70-2.77
+2026-09-16 H 2-4 v Servette FC | Super League | Thun | xG 2.05-1.52
+2026-09-12 H 0-1 v Grasshoppers | Super League | Thun | xG 1.67-2.26
+2026-09-06 A 2-3 v FC Sion | Super League | Sion
+2026-09-02 H 0-0 v Lausanne | Super League | Thun
+2026-08-30 A 4-3 v FC ST. Gallen | Super League | St. Gallen
+2026-08-27 H 2-2 v Lech Poznan | UEFA Europa League | Thun
+2026-08-20 A 0-7 v Lech Poznan | UEFA Europa League | Poznan
+2026-08-16 A 6-0 v Saxon Sports | Schweizer Cup | ?
+2026-08-13 A 2-3 v Vikingur Reykjavik | UEFA Europa League | Reykjavik
+2026-08-09 A 2-4 v FC Basel 1893 | Super League | Basel
+2026-08-06 H 3-0 v Vikingur Reykjavik | UEFA Europa League | Thun
+2026-08-01 H 0-6 v BSC Young Boys | Super League | Thun
+Listed home: 9 games, scored 11 (1.22), conceded 17 (1.89), blanks 4, clean sheets 3
+Listed away: 11 games, scored 26 (2.36), conceded 31 (2.82), blanks 2, clean sheets 1
+All: 20 games, scored 37 (1.85), conceded 48 (2.40), blanks 6, clean sheets 4
+
+=== Heart Of Midlothian (id 254): last 20 finished games ===
+2026-11-01 H 1-2 v Hibernian | League Cup | Glasgow
+2026-10-28 H 2-2 v Rangers | Premiership | Edinburgh | xG 1.75-2.26
+2026-10-25 A 2-0 v Motherwell | Premiership | Motherwell | xG 1.12-1.34
+2026-10-22 A 0-2 v Trabzonspor | UEFA Europa Conference League | Trabzon | xG 0.64-1.49
+2026-10-18 A 1-7 v Celtic | Premiership | Glasgow | xG 1.20-4.16
+2026-10-15 H 1-1 v FC Nordsjaelland | UEFA Europa Conference League | Edinburgh | xG 1.81-0.64
+2026-10-10 H 5-0 v ST Mirren | Premiership | Edinburgh | xG 3.90-0.90
+2026-09-19 A 1-1 v Kilmarnock | Premiership | Kilmarnock | xG 1.78-0.23
+2026-09-15 A 1-2 v Falkirk | Premiership | Falkirk | xG 1.72-2.05
+2026-09-11 A 3-0 v Stenhousemuir | League Cup | Stenhousemuir
+2026-09-06 H 2-1 v Dundee | Premiership | Edinburgh
+2026-09-03 A 3-1 v Hibernian | Premiership | Edinburgh
+2026-08-29 H 2-1 v ST Johnstone | Premiership | Edinburgh
+2026-08-26 A 1-1 v Rapid Vienna | UEFA Europa Conference League | Vienna [PEN, 90-min score shown]
+2026-08-20 H 2-2 v Rapid Vienna | UEFA Europa Conference League | Edinburgh
+2026-08-16 H 6-2 v Inverness CT | League Cup | Edinburgh
+2026-08-13 H 1-1 v Benfica | UEFA Europa League | Edinburgh
+2026-08-09 H 4-0 v Dundee Utd | Premiership | Edinburgh
+2026-08-06 A 1-6 v Benfica | UEFA Europa League | Lisbon
+2026-08-01 A 1-2 v Aberdeen | Premiership | Aberdeen
+Listed home: 10 games, scored 26 (2.60), conceded 12 (1.20), blanks 0, clean sheets 2
+Listed away: 10 games, scored 14 (1.40), conceded 22 (2.20), blanks 1, clean sheets 2
+All: 20 games, scored 40 (2.00), conceded 34 (1.70), blanks 1, clean sheets 4
+
+TABLE FOR FC Thun
+LEAGUE TABLE Super League 2026 | 12 teams | 72 games played
+League averages per game: home 1.94, away 1.82, total 3.76
+#   team                   Pts | home P GF-GA  | away P GF-GA  | all P GF-GA
+1   FC Lugano               34 |  7  20-5       |  5  16-5       | 12  36-10
+2   BSC Young Boys          25 |  7  22-17      |  5  16-6       | 12  38-23
+3   FC Sion                 23 |  6  12-7       |  6  13-11      | 12  25-18
+4   FC Zurich               20 |  6  13-11      |  6  12-15      | 12  25-26
+5   FC ST. Gallen           19 |  6  10-11      |  6   9-11      | 12  19-22
+6   Servette FC             16 |  6   8-6       |  6   9-10      | 12  17-16
+7   FC Basel 1893           14 |  6   7-11      |  6  11-11      | 12  18-22
+8   FC Luzern               13 |  6  12-10      |  6   7-15      | 12  19-25
+9   FC Thun                 13 |  5   4-14      |  7  20-20      | 12  24-34
+10  FC Vaduz                10 |  5  14-8       |  7  10-17      | 12  24-25
+11  Grasshoppers            10 |  6   9-15      |  6   6-13      | 12  15-28
+12  Lausanne                 6 |  6   9-16      |  6   2-6       | 12  11-22
+
+TABLE FOR Heart Of Midlothian
+LEAGUE TABLE Premiership 2026 | 12 teams | 69 games played
+League averages per game: home 1.52, away 1.30, total 2.83
+#   team                   Pts | home P GF-GA  | away P GF-GA  | all P GF-GA
+1   Celtic                  28 |  6  15-5       |  6  12-5       | 12  27-10
+2   Rangers                 24 |  5  10-3       |  6   9-6       | 11  19-9
+3   Heart Of Midlothian     20 |  5  15-4       |  6   9-13      | 11  24-17
+4   Falkirk                 18 |  6   9-7       |  6   6-5       | 12  15-12
+5   Dundee                  17 |  6  11-7       |  5   6-6       | 11  17-13
+6   Dundee Utd              16 |  5   6-6       |  6  10-10      | 11  16-16
+7   ST Johnstone            14 |  6  10-9       |  6   5-10      | 12  15-19
+8   ST Mirren               14 |  6   8-10      |  6   4-10      | 12  12-20
+9   Motherwell              12 |  6   4-8       |  6  10-12      | 12  14-20
+10  Aberdeen                11 |  6   5-5       |  5   7-9       | 11  12-14
+11  Kilmarnock               9 |  6   7-15      |  6   6-13      | 12  13-28
+12  Hibernian                8 |  6   5-11      |  5   6-6       | 11  11-17
+
+(27 API-Football requests used)
+
+----------------------------------------------------------------------
+MATCHBOOK: skipped (switched off for this run)

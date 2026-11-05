@@ -1,6 +1,3 @@
-RUN 2026-11-05 14:57 local | 2 match(es)
-Mjallby v Borac Banja Luka -> out/Mjallby_v_Borac_Banja_Luka.txt
-Thun v Hearts -> out/Thun_v_Hearts.txt
-    !! Thun: Ambiguous team name "Thun".
-    !! Hearts: Ambiguous team name "Hearts".
-Requests used: API-Football 28, Matchbook 0
+RUN 2026-11-05 14:58 local | 1 match(es)
+id:1012 v Heart of Midlothian -> out/id_1012_v_Heart_of_Midlothian.txt
+Requests used: API-Football 27, Matchbook 0
