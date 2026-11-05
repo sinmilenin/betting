@@ -1,2 +1,2 @@
-# 05.11 08:00 top-20 run retry 3: Inter Club d'Escaldes by id
-id:598 v id:3342 | n=20 | xg=10
+# 05.11 08:26 scan: Lion City Sailors v Adelaide United (ACL Two)
+Lion City Sailors v Adelaide United | n=20 | xg=10
