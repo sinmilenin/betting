@@ -1,4 +1,3 @@
-RUN 2026-11-05 12:43 local | 1 match(es)
-Mohun Bagan Super Giants v Odisha -> out/Mohun_Bagan_Super_Giants_v_Odisha.txt
-    !! Mohun Bagan Super Giants: No team found for "Mohun Bagan Super Giants".
-Requests used: API-Football 14, Matchbook 0
+RUN 2026-11-05 12:44 local | 1 match(es)
+ATK Mohun Bagan v Odisha -> out/ATK_Mohun_Bagan_v_Odisha.txt
+Requests used: API-Football 25, Matchbook 0

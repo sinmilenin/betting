@@ -1,7 +1,32 @@
-MATCH Mohun Bagan Super Giants v Odisha | fetched 2026-11-05 12:43 local
+MATCH ATK Mohun Bagan v Odisha | fetched 2026-11-05 12:44 local
 
-FORM DATA Mohun Bagan Super Giants v Odisha | source API-Football | 2026-11-05 12:43 UTC
+FORM DATA ATK Mohun Bagan v Odisha | source API-Football | 2026-11-05 12:44 UTC
 H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
+
+=== ATK Mohun Bagan (id 15516): last 20 finished games ===
+2026-10-31 H 2-1 v Minerva Punjab | Indian Super League | Kolkata | xG 1.73-1.01
+2026-10-26 H 1-0 v Chennaiyin | Indian Super League | Kolkata | xG 1.60-2.81
+2026-10-16 A 2-1 v SC Delhi | Indian Super League | New Delhi
+2026-10-12 A 0-1 v NorthEast United | Indian Super League | Guwahati
+2026-10-08 H 1-0 v East Bengal II | IFA Shield | Kolkata
+2026-10-04 H 0-0 v Minerva Punjab | IFA Shield | Kolkata [PEN, 90-min score shown]
+2026-09-29 H 1-1 v NorthEast United | IFA Shield | Kolkata
+2026-09-23 H 6-0 v Sreenidi Deccan | IFA Shield | Kolkata
+2026-05-21 H 2-1 v SC Delhi | Indian Super League | Kolkata
+2026-05-17 H 1-1 v East Bengal II | Indian Super League | Kolkata | xG 1.82-1.76
+2026-05-12 H 0-0 v Inter Kashi | Indian Super League | Kolkata
+2026-05-09 A 1-1 v Goa | Indian Super League | Margao
+2026-04-19 A 1-0 v NorthEast United | Indian Super League | Guwahati
+2026-04-12 H 3-2 v Minerva Punjab | Indian Super League | Kolkata
+2026-04-04 A 1-1 v Jamshedpur | Indian Super League | Jamshedpur
+2026-03-20 H 0-1 v Mumbai City | Indian Super League | Kolkata
+2026-03-14 A 0-0 v Bengaluru | Indian Super League | Bangalore
+2026-03-06 H 5-1 v Odisha | Indian Super League | Kolkata
+2026-02-28 H 5-1 v Mohammedan | Indian Super League | Kolkata
+2026-02-23 H 2-0 v Chennaiyin | Indian Super League | Kolkata
+Listed home: 14 games, scored 29 (2.07), conceded 9 (0.64), blanks 3, clean sheets 6
+Listed away: 6 games, scored 5 (0.83), conceded 4 (0.67), blanks 2, clean sheets 2
+All: 20 games, scored 34 (1.70), conceded 13 (0.65), blanks 5, clean sheets 8
 
 === Odisha (id 7177): last 20 finished games ===
 2026-10-24 H 0-0 v NorthEast United | Indian Super League | Bhubaneswar | xG 0.17-1.80
@@ -28,9 +53,7 @@ Listed home: 7 games, scored 6 (0.86), conceded 7 (1.00), blanks 2, clean sheets
 Listed away: 13 games, scored 13 (1.00), conceded 25 (1.92), blanks 5, clean sheets 2
 All: 20 games, scored 19 (0.95), conceded 32 (1.60), blanks 7, clean sheets 4
 
-!! Mohun Bagan Super Giants: No team found for "Mohun Bagan Super Giants".
-
-TABLE FOR Odisha
+TABLE FOR ATK Mohun Bagan
 LEAGUE TABLE Indian Super League 2026 | 13 teams | 23 games played
 League averages per game: home 1.26, away 1.39, total 2.65
 #   team                   Pts | home P GF-GA  | away P GF-GA  | all P GF-GA
@@ -48,7 +71,9 @@ League averages per game: home 1.26, away 1.39, total 2.65
 12  Chennaiyin               2 |  1   0-0       |  3   1-4       |  4   1-4
 13  Inter Kashi              1 |  4   3-10      |  0   0-0       |  4   3-10
 
-(14 API-Football requests used)
+(Odisha: same table as ATK Mohun Bagan, shown above)
+
+(25 API-Football requests used)
 
 ----------------------------------------------------------------------
 MATCHBOOK: skipped (switched off for this run)
