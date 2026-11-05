@@ -1,6 +1,6 @@
-MATCH NEC Nijmegen v Omonia | fetched 2026-11-05 12:45 local
+MATCH NEC Nijmegen v Omonia Nicosia | fetched 2026-11-05 12:47 local
 
-FORM DATA NEC Nijmegen v Omonia | source API-Football | 2026-11-05 12:45 UTC
+FORM DATA NEC Nijmegen v Omonia Nicosia | source API-Football | 2026-11-05 12:47 UTC
 H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
 
 === NEC Nijmegen (id 413): last 20 finished games ===
@@ -28,22 +28,30 @@ Listed home: 11 games, scored 13 (1.18), conceded 20 (1.82), blanks 1, clean she
 Listed away: 9 games, scored 12 (1.33), conceded 17 (1.89), blanks 5, clean sheets 1
 All: 20 games, scored 25 (1.25), conceded 37 (1.85), blanks 6, clean sheets 1
 
-"Omonia" matches several teams. Use id:<number> instead of the name:
-  id:3402   Omonia Nicosia (Cyprus)
-  id:3416   Omonia Aradippou (Cyprus)
-  id:3432   Omonia Psevda (Cyprus)
-  id:14126  Omonia 29is Maiou (Cyprus)
-  id:20235  Omonia Nicosia U19 (None)
-  id:27876  Omonia W (Cyprus)
-(retrying Omonia using the opponent's country, Netherlands)
-"Omonia" matches several teams. Use id:<number> instead of the name:
-  id:3402   Omonia Nicosia (Cyprus)
-  id:3416   Omonia Aradippou (Cyprus)
-  id:3432   Omonia Psevda (Cyprus)
-  id:14126  Omonia 29is Maiou (Cyprus)
-  id:20235  Omonia Nicosia U19 (None)
-  id:27876  Omonia W (Cyprus)
-!! Omonia: Ambiguous team name "Omonia".
+=== Omonia Nicosia (id 3402): last 20 finished games ===
+2026-10-31 H 2-0 v AEL | 1. Division | Nicosia
+2026-10-26 A 0-2 v AEK Larnaca | 1. Division | Larnaca
+2026-10-22 H 1-4 v Benfica | UEFA Europa League | Nicosia | xG 0.91-3.08
+2026-10-19 H 2-2 v Olympiakos | 1. Division | Nicosia | xG 5.15-0.90
+2026-10-15 A 3-0 v Celje | UEFA Europa League | Celje | xG 2.12-0.97
+2026-10-09 A 3-0 v Karmiotissa | 1. Division | Larnaca | xG 2.34-0.46
+2026-09-20 H 4-1 v Krasava Ypsonas | 1. Division | Nicosia
+2026-09-16 H 1-0 v Celta Vigo | UEFA Europa League | Nicosia | xG 0.32-1.17
+2026-09-12 H 0-0 v Apollon Limassol | 1. Division | Nicosia
+2026-09-07 A 4-1 v Aris | 1. Division | Kolossi
+2026-09-03 H 0-1 v Pafos | Super Cup | Limassol
+2026-08-31 H 0-0 v Omonia Aradippou | 1. Division | Nicosia
+2026-08-27 H 4-2 v St. Truiden | UEFA Europa League | Nicosia
+2026-08-20 A 0-1 v St. Truiden | UEFA Europa League | Sint- Truiden
+2026-08-13 H 1-0 v Lincoln Red Imps FC | UEFA Europa League | Nicosia
+2026-08-06 A 1-1 v Lincoln Red Imps FC | UEFA Europa League | Gibraltar
+2026-07-29 A 0-1 v Kairat Almaty | UEFA Champions League | Almaty [PEN, 90-min score shown]
+2026-07-22 H 1-0 v Kairat Almaty | UEFA Champions League | Nicosia
+2026-07-16 H 2-1 v Panetolikos | Friendlies Clubs | ?
+2026-07-09 A 0-0 v Korona Kielce | Friendlies Clubs | ?
+Listed home: 12 games, scored 18 (1.50), conceded 11 (0.92), blanks 3, clean sheets 6
+Listed away: 8 games, scored 11 (1.38), conceded 6 (0.75), blanks 4, clean sheets 3
+All: 20 games, scored 29 (1.45), conceded 17 (0.85), blanks 7, clean sheets 9
 
 TABLE FOR NEC Nijmegen
 LEAGUE TABLE Eredivisie 2026 | 18 teams | 99 games played
@@ -68,7 +76,26 @@ League averages per game: home 1.81, away 2.01, total 3.82
 17  ADO Den Haag             6 |  5   8-12      |  6   5-12      | 11  13-24
 18  Willem II                2 |  5   4-16      |  6   6-23      | 11  10-39
 
-(15 API-Football requests used)
+TABLE FOR Omonia Nicosia
+LEAGUE TABLE 1. Division 2026 | 14 teams | 56 games played
+League averages per game: home 1.48, away 1.39, total 2.88
+#   team                   Pts | home P GF-GA  | away P GF-GA  | all P GF-GA
+1   AEK Larnaca             17 |  4   6-2       |  4   9-5       |  8  15-7
+2   Apollon Limassol        16 |  4  11-7       |  4  10-3       |  8  21-10
+3   Omonia Nicosia          15 |  5   8-3       |  3   7-3       |  8  15-6
+4   Aris                    15 |  5   6-8       |  3   6-2       |  8  12-10
+5   AEL                     15 |  4   7-5       |  4   4-8       |  8  11-13
+6   Apoel Nicosia           14 |  3  12-2       |  5   6-8       |  8  18-10
+7   Pafos                   13 |  3   0-2       |  5   9-3       |  8   9-5
+8   Omonia 29is Maiou       11 |  4   5-4       |  4   8-9       |  8  13-13
+9   Karmiotissa              6 |  5   2-12      |  3   3-4       |  8   5-16
+10  Anorthosis               6 |  3   5-4       |  5   2-11      |  8   7-15
+11  Omonia Aradippou         6 |  4   4-6       |  4   1-4       |  8   5-10
+12  Olympiakos               6 |  4   8-9       |  4   3-4       |  8  11-13
+13  Nea Salamis              5 |  3   4-4       |  5   7-12      |  8  11-16
+14  Krasava Ypsonas          5 |  5   5-10      |  3   3-7       |  8   8-17
+
+(26 API-Football requests used)
 
 ----------------------------------------------------------------------
 MATCHBOOK: skipped (switched off for this run)
