@@ -1,2 +1,3 @@
-# scan 05.11 15:56 (name fix)
-id:1012 v Heart of Midlothian | n=20 | xg=10
+# scan 05.11 15:56 (first analyses 2)
+Atalanta v Kairat Almaty | n=20 | xg=10
+Lincoln Red Imps v Hajduk Split | n=20 | xg=10
