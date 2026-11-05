@@ -1,3 +1,4 @@
-RUN 2026-11-05 17:17 local | 1 match(es)
-id:735 v Brann -> out/id_735_v_Brann.txt
-Requests used: API-Football 26, Matchbook 0
+RUN 2026-11-05 18:43 local | 1 match(es)
+Lito v Montevideo Wanderers -> out/Lito_v_Montevideo_Wanderers.txt
+    !! Montevideo Wanderers: No team found for "Montevideo Wanderers".
+Requests used: API-Football 8, Matchbook 0
