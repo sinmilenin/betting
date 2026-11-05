@@ -1,5 +1,3 @@
-# scan 05.11 18:12 (name fix)
-FC Lugano v id:3872 | n=20 | xg=10
-Riga v id:1122 | n=20 | xg=10
-Torreense v Ararat | n=20 | xg=10
-Sint Truiden v Brann | n=20 | xg=10
+# scan 05.11 18:12 (name fix 2)
+Torreense v id:3683 | n=20 | xg=10
+Truiden v Brann | n=20 | xg=10
