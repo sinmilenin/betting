@@ -1,8 +1,5 @@
-RUN 2026-11-05 17:15 local | 4 match(es)
-FC Lugano v id:3872 -> out/FC_Lugano_v_id_3872.txt
-Riga v id:1122 -> out/Riga_v_id_1122.txt
-Torreense v Ararat -> out/Torreense_v_Ararat.txt
-    !! Ararat: Ambiguous team name "Ararat".
-Sint Truiden v Brann -> out/Sint_Truiden_v_Brann.txt
-    !! Sint Truiden: No team found for "Sint Truiden".
-Requests used: API-Football 81, Matchbook 0
+RUN 2026-11-05 17:17 local | 2 match(es)
+Torreense v id:3683 -> out/Torreense_v_id_3683.txt
+Truiden v Brann -> out/Truiden_v_Brann.txt
+    !! Truiden: Ambiguous team name "Truiden".
+Requests used: API-Football 41, Matchbook 0
