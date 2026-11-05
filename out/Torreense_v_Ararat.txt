@@ -1,6 +1,6 @@
-MATCH Torreense v Ararat Armenia | fetched 2026-11-05 17:13 local
+MATCH Torreense v Ararat | fetched 2026-11-05 17:15 local
 
-FORM DATA Torreense v Ararat Armenia | source API-Football | 2026-11-05 17:13 UTC
+FORM DATA Torreense v Ararat | source API-Football | 2026-11-05 17:16 UTC
 H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
 
 === Torreense (id 4799): last 20 finished games ===
@@ -28,7 +28,26 @@ Listed home: 8 games, scored 13 (1.62), conceded 7 (0.88), blanks 3, clean sheet
 Listed away: 12 games, scored 10 (0.83), conceded 15 (1.25), blanks 5, clean sheets 3
 All: 20 games, scored 23 (1.15), conceded 22 (1.10), blanks 8, clean sheets 8
 
-!! Ararat Armenia: No team found for "Ararat Armenia".
+"Ararat" matches several teams. Use id:<number> instead of the name:
+  id:3682   Ararat (Armenia)
+  id:3683   Ararat-Armenia (Armenia)
+  id:3688   Ararat II (Armenia)
+  id:3689   Ararat-Armenia II (Armenia)
+  id:3879   Ararat-Moskva (Russia)
+  id:13171  Ararat-Moskva (Armenia)
+  id:16837  Ararat (Estonia)
+  id:25114  Araks Ararat (Armenia)
+(retrying Ararat using the opponent's country, Portugal)
+"Ararat" matches several teams. Use id:<number> instead of the name:
+  id:3682   Ararat (Armenia)
+  id:3683   Ararat-Armenia (Armenia)
+  id:3688   Ararat II (Armenia)
+  id:3689   Ararat-Armenia II (Armenia)
+  id:3879   Ararat-Moskva (Russia)
+  id:13171  Ararat-Moskva (Armenia)
+  id:16837  Ararat (Estonia)
+  id:25114  Araks Ararat (Armenia)
+!! Ararat: Ambiguous team name "Ararat".
 
 TABLE FOR Torreense
 LEAGUE TABLE Segunda Liga 2026 | 18 teams | 81 games played
@@ -53,7 +72,7 @@ League averages per game: home 1.27, away 1.15, total 2.42
 17  Felgueiras 1932          7 |  4   6-6       |  5   3-6       |  9   9-12
 18  Feirense                 2 |  4   1-4       |  5   1-7       |  9   2-11
 
-(14 API-Football requests used)
+(15 API-Football requests used)
 
 ----------------------------------------------------------------------
 MATCHBOOK: skipped (switched off for this run)
