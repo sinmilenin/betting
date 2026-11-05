@@ -1,3 +1,5 @@
-RUN 2026-11-05 18:44 local | 1 match(es)
-Lito v Wanderers -> out/Lito_v_Wanderers.txt
-Requests used: API-Football 20, Matchbook 0
+RUN 2026-11-05 19:57 local | 3 match(es)
+Palmeiras v Remo -> out/Palmeiras_v_Remo.txt
+Independiente del Valle v Delfin -> out/Independiente_del_Valle_v_Delfin.txt
+Cruzeiro v Bahia -> out/Cruzeiro_v_Bahia.txt
+Requests used: API-Football 77, Matchbook 0
