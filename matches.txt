@@ -1,3 +1,2 @@
-# scan 05.11 15:56 (first analyses)
-Mjallby v Borac Banja Luka | n=20 | xg=10
-Thun v Hearts | n=20 | xg=10
+# scan 05.11 15:56 (name fix)
+id:1012 v Heart of Midlothian | n=20 | xg=10
