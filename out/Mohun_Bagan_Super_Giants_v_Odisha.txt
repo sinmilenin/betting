@@ -1,0 +1,54 @@
+MATCH Mohun Bagan Super Giants v Odisha | fetched 2026-11-05 12:43 local
+
+FORM DATA Mohun Bagan Super Giants v Odisha | source API-Football | 2026-11-05 12:43 UTC
+H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
+
+=== Odisha (id 7177): last 20 finished games ===
+2026-10-24 H 0-0 v NorthEast United | Indian Super League | Bhubaneswar | xG 0.17-1.80
+2026-10-17 A 1-1 v Inter Kashi | Indian Super League | Kalyani
+2026-10-14 A 1-2 v Minerva Punjab | Indian Super League | New Delhi
+2026-05-21 A 0-0 v Jamshedpur | Indian Super League | Jamshedpur
+2026-05-16 H 2-3 v Minerva Punjab | Indian Super League | Bhubaneswar
+2026-05-08 A 2-1 v SC Delhi | Indian Super League | New Delhi
+2026-05-04 H 1-1 v Bengaluru | Indian Super League | Bhubaneswar | xG 1.36-2.98
+2026-04-28 A 0-3 v East Bengal II | Indian Super League | Kolkata | xG 0.63-2.21
+2026-04-23 A 1-2 v Kerala Blasters | Indian Super League | Kochi | xG 0.67-1.40
+2026-04-17 H 1-1 v Mohammedan | Indian Super League | Bhubaneswar | xG 1.50-1.92
+2026-04-10 A 1-3 v Goa | Indian Super League | Margao
+2026-04-05 A 0-1 v Mumbai City | Indian Super League | Mumbai
+2026-03-20 A 4-1 v NorthEast United | Indian Super League | Guwahati
+2026-03-06 A 1-5 v ATK Mohun Bagan | Indian Super League | Kolkata
+2026-03-01 H 1-1 v Chennaiyin | Indian Super League | Bhubaneswar
+2026-02-24 H 0-0 v Inter Kashi | Indian Super League | Bhubaneswar
+2026-01-31 A 2-5 v Punjab | Santosh Trophy | ?
+2026-01-29 H 1-1 v Railways | Santosh Trophy | ?
+2026-01-27 A 0-1 v Kerala | Santosh Trophy | ?
+2026-01-24 A 0-0 v Services | Santosh Trophy | ?
+Listed home: 7 games, scored 6 (0.86), conceded 7 (1.00), blanks 2, clean sheets 2
+Listed away: 13 games, scored 13 (1.00), conceded 25 (1.92), blanks 5, clean sheets 2
+All: 20 games, scored 19 (0.95), conceded 32 (1.60), blanks 7, clean sheets 4
+
+!! Mohun Bagan Super Giants: No team found for "Mohun Bagan Super Giants".
+
+TABLE FOR Odisha
+LEAGUE TABLE Indian Super League 2026 | 13 teams | 23 games played
+League averages per game: home 1.26, away 1.39, total 2.65
+#   team                   Pts | home P GF-GA  | away P GF-GA  | all P GF-GA
+1   ATK Mohun Bagan          9 |  2   3-1       |  2   2-2       |  4   5-3
+2   NorthEast United         8 |  3   6-2       |  1   0-0       |  4   6-2
+3   Bengaluru                7 |  2   5-2       |  1   1-1       |  3   6-3
+4   Minerva Punjab           7 |  2   3-2       |  2   4-4       |  4   7-6
+5   East Bengal II           6 |  0   0-0       |  2   9-1       |  2   9-1
+6   Goa                      5 |  2   2-2       |  1   2-1       |  3   4-3
+7   Kerala Blasters          5 |  1   0-0       |  3   3-4       |  4   3-4
+8   SC Delhi                 4 |  1   1-2       |  3   6-6       |  4   7-8
+9   Churchill Brothers       3 |  3   4-8       |  0   0-0       |  3   4-8
+10  Odisha                   2 |  1   0-0       |  2   2-3       |  3   2-3
+11  Mumbai City              2 |  1   2-3       |  3   2-3       |  4   4-6
+12  Chennaiyin               2 |  1   0-0       |  3   1-4       |  4   1-4
+13  Inter Kashi              1 |  4   3-10      |  0   0-0       |  4   3-10
+
+(14 API-Football requests used)
+
+----------------------------------------------------------------------
+MATCHBOOK: skipped (switched off for this run)
