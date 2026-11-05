@@ -1,2 +1,2 @@
-# scan 05.11 18:12 (name fix 3)
-id:735 v Brann | n=20 | xg=10
+# scan 05.11 19:40
+Lito v Montevideo Wanderers | n=20 | xg=10
