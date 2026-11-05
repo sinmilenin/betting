@@ -1,3 +1,5 @@
-RUN 2026-11-05 07:28 local | 1 match(es)
-Home United v Adelaide United -> out/Home_United_v_Adelaide_United.txt
-Requests used: API-Football 26, Matchbook 0
+RUN 2026-11-05 08:57 local | 3 match(es)
+Pakistan v India -> out/Pakistan_v_India.txt
+Machida Zelvia v Shanghai Shenhua -> out/Machida_Zelvia_v_Shanghai_Shenhua.txt
+Kitchee v Phnom Penh Crown -> out/Kitchee_v_Phnom_Penh_Crown.txt
+Requests used: API-Football 77, Matchbook 0

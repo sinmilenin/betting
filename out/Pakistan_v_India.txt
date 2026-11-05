@@ -1,0 +1,107 @@
+MATCH Pakistan v India | fetched 2026-11-05 08:57 local
+
+FORM DATA Pakistan v India | source API-Football | 2026-11-05 08:57 UTC
+H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
+
+=== Pakistan (id 5535): last 20 finished games ===
+2026-10-02 A 2-4 v Vietnam | FIFA Asean Cup | Jakarta
+2026-09-29 A 2-2 v Philippines | FIFA Asean Cup | Bandung
+2026-09-26 H 0-4 v Thailand | FIFA Asean Cup | Bandung
+2026-06-10 H 2-0 v Afghanistan | Friendlies | ?
+2026-06-07 A 2-0 v Afghanistan | Friendlies | ?
+2026-06-04 A 3-0 v Maldives | Friendlies | Malé
+2026-06-01 H 0-0 v Bangladesh U23 | Friendlies | ?
+2026-03-31 H 1-2 v Myanmar | Asian Cup - Qualification | ?
+2025-11-18 H 0-5 v Syria | Asian Cup - Qualification | ?
+2025-10-14 A 1-1 v Afghanistan | Asian Cup - Qualification | ?
+2025-10-09 H 0-0 v Afghanistan | Asian Cup - Qualification | ?
+2025-06-10 A 0-1 v Myanmar | Asian Cup - Qualification | Yangon
+2025-03-25 A 0-2 v Syria | Asian Cup - Qualification | Al Ahsa
+2024-06-11 A 0-3 v Tajikistan | World Cup - Qualification Asia | Dushanbe
+2024-06-06 H 0-3 v Saudi Arabia | World Cup - Qualification Asia | Islamabad
+2024-03-26 A 0-7 v Jordan | World Cup - Qualification Asia | Amman
+2024-03-21 H 0-3 v Jordan | World Cup - Qualification Asia | Islamabad
+2023-11-21 H 1-6 v Tajikistan | World Cup - Qualification Asia | Islamabad
+2023-11-16 A 0-4 v Saudi Arabia | World Cup - Qualification Asia | Dammam
+2023-10-17 H 1-0 v Cambodia | World Cup - Qualification Asia | ?
+Listed home: 10 games, scored 5 (0.50), conceded 23 (2.30), blanks 6, clean sheets 4
+Listed away: 10 games, scored 10 (1.00), conceded 24 (2.40), blanks 5, clean sheets 2
+All: 20 games, scored 15 (0.75), conceded 47 (2.35), blanks 11, clean sheets 6
+
+=== India (id 1537): last 20 finished games ===
+2026-10-06 H 1-6 v Uruguay | Friendlies | Kolkata
+2026-10-03 H 0-4 v Brazil | Friendlies | Kolkata | xG 0.49-1.62
+2026-09-25 H 1-1 v Panama | Friendlies | Bangalore
+2026-06-09 A 1-1 v Tajikistan | Friendlies | Hisor
+2026-06-05 A 1-3 v Tajikistan | Friendlies | Hisor
+2026-05-30 H 0-1 v Zimbabwe | Friendlies | London
+2026-05-27 A 0-2 v Jamaica | Friendlies | London
+2026-03-31 H 2-1 v Hong Kong | Asian Cup - Qualification | Kolkata
+2025-11-18 A 0-1 v Bangladesh | Asian Cup - Qualification | Dhaka
+2025-11-13 H 6-1 v Bhutan | Friendlies | ?
+2025-10-14 H 1-2 v Singapore | Asian Cup - Qualification | ?
+2025-10-09 A 1-1 v Singapore | Asian Cup - Qualification | ?
+2025-09-08 H 1-1 v Oman | CAFA Nations Cup | Hisor [PEN, 90-min score shown]
+2025-09-04 A 0-0 v Afghanistan | CAFA Nations Cup | Hisor
+2025-09-01 H 0-3 v Iran | CAFA Nations Cup | Hisor
+2025-08-29 A 2-1 v Tajikistan | CAFA Nations Cup | Hisor
+2025-06-10 A 0-1 v Hong Kong | Asian Cup - Qualification | Hongkong
+2025-06-04 A 0-2 v Thailand | Friendlies | Pathum Thani
+2025-03-25 H 0-0 v Bangladesh | Asian Cup - Qualification | Kolkata
+2025-03-19 H 3-0 v Maldives | Friendlies | Shillong, Meghalaya
+Listed home: 11 games, scored 15 (1.36), conceded 20 (1.82), blanks 4, clean sheets 2
+Listed away: 9 games, scored 5 (0.56), conceded 12 (1.33), blanks 5, clean sheets 1
+All: 20 games, scored 20 (1.00), conceded 32 (1.60), blanks 9, clean sheets 3
+
+TABLE FOR Pakistan
+LEAGUE TABLE FIFA Asean Cup 2026 | 14 teams | 18 games played
+League averages per game: home 2.33, away 1.00, total 3.33
+#   team                   Pts | home P GF-GA  | away P GF-GA  | all P GF-GA
+1   Indonesia                7 |  2  11-2       |  1   0-0       |  3  11-2 [Division 1 - Group A]
+2   Malaysia                 7 |  2   6-0       |  1   3-0       |  3   9-0 [Division 1 - Group A]
+3   Singapore                3 |  1   1-0       |  2   0-8       |  3   1-8 [Division 1 - Group A]
+4   Bangladesh               0 |  1   0-3       |  2   2-10      |  3   2-13 [Division 1 - Group A]
+1   Thailand                 6 |  2   3-2       |  1   4-0       |  3   7-2 [Division 1 - Group B]
+2   Vietnam                  6 |  2   5-2       |  1   0-2       |  3   5-4 [Division 1 - Group B]
+3   Philippines              4 |  1   2-2       |  2   2-2       |  3   4-4 [Division 1 - Group B]
+4   Pakistan                 1 |  1   0-4       |  2   4-6       |  3   4-10 [Division 1 - Group B]
+1   Hong Kong                6 |  2   6-0       |  0   0-0       |  2   6-0 [Division 2 - Group A]
+2   Laos                     3 |  1   3-1       |  1   0-4       |  2   3-5 [Division 2 - Group A]
+3   Brunei                   0 |  0   0-0       |  2   1-5       |  2   1-5 [Division 2 - Group A]
+1   Cambodia                 4 |  1   1-0       |  1   2-2       |  2   3-2 [Division 2 - Group B]
+2   Myanmar                  3 |  1   2-0       |  1   0-1       |  2   2-1 [Division 2 - Group B]
+3   Timor-Leste              1 |  1   2-2       |  1   0-2       |  2   2-4 [Division 2 - Group B]
+
+TABLE FOR India
+LEAGUE TABLE Asian Cup - Qualification 2024 | 24 teams | 72 games played
+League averages per game: home 1.57, away 1.42, total 2.99
+#   team                   Pts | home P GF-GA  | away P GF-GA  | all P GF-GA
+1   Tajikistan              14 |  3   4-1       |  3  10-2       |  6  14-3 [Group A]
+2   Philippines             14 |  3   9-4       |  3   7-2       |  6  16-6 [Group A]
+3   Maldives                 3 |  3   2-6       |  3   1-7       |  6   3-13 [Group A]
+4   Timor-Leste              3 |  3   2-9       |  3   2-6       |  6   4-15 [Group A]
+1   Yemen                   14 |  3  16-1       |  3   4-0       |  6  20-1 [Group B]
+2   Lebanon                 13 |  3   7-2       |  3   7-0       |  6  14-2 [Group B]
+3   Bhutan                   4 |  3   2-5       |  3   2-11      |  6   4-16 [Group B]
+4   Brunei                   3 |  3   2-6       |  3   1-16      |  6   3-22 [Group B]
+1   Singapore               14 |  3   2-1       |  3   6-3       |  6   8-4 [Group C]
+2   Hong Kong                8 |  3   3-3       |  3   5-5       |  6   8-8 [Group C]
+3   Bangladesh               5 |  3   5-6       |  3   1-2       |  6   6-8 [Group C]
+4   India                    5 |  3   3-3       |  3   1-3       |  6   4-6 [Group C]
+1   Thailand                15 |  3   5-1       |  3  11-4       |  6  16-5 [Group D]
+2   Turkmenistan            12 |  3   8-3       |  3   3-4       |  6  11-7 [Group D]
+3   Sri Lanka                9 |  3   4-5       |  3   4-4       |  6   8-9 [Group D]
+4   Chinese Taipei           0 |  3   3-11      |  3   2-8       |  6   5-19 [Group D]
+1   Syria                   18 |  3  12-2       |  3   9-0       |  6  21-2 [Group E]
+2   Myanmar                 12 |  3   3-4       |  3   5-7       |  6   8-11 [Group E]
+3   Afghanistan              2 |  3   2-4       |  3   2-7       |  6   4-11 [Group E]
+4   Pakistan                 2 |  3   1-7       |  3   1-4       |  6   2-11 [Group E]
+1   Vietnam                 18 |  3  11-2       |  3   6-0       |  6  17-2 [Group F]
+2   Malaysia                 9 |  3   5-7       |  3   5-3       |  6  10-10 [Group F]
+3   Laos                     6 |  3   2-6       |  3   2-10      |  6   4-16 [Group F]
+4   Nepal                    3 |  3   0-3       |  3   5-5       |  6   5-8 [Group F]
+
+(26 API-Football requests used)
+
+----------------------------------------------------------------------
+MATCHBOOK: skipped (switched off for this run)
