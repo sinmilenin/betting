@@ -1,3 +1,2 @@
-# scan 05.11 15:56 (first analyses 2)
-Atalanta v Kairat Almaty | n=20 | xg=10
-Lincoln Red Imps v Hajduk Split | n=20 | xg=10
+# scan 05.11 15:56 (name fix 2)
+id:667 v id:608 | n=20 | xg=10
