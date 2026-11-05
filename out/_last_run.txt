@@ -1,4 +1,3 @@
-RUN 2026-11-05 18:43 local | 1 match(es)
-Lito v Montevideo Wanderers -> out/Lito_v_Montevideo_Wanderers.txt
-    !! Montevideo Wanderers: No team found for "Montevideo Wanderers".
-Requests used: API-Football 8, Matchbook 0
+RUN 2026-11-05 18:44 local | 1 match(es)
+Lito v Wanderers -> out/Lito_v_Wanderers.txt
+Requests used: API-Football 20, Matchbook 0
