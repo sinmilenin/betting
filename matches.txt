@@ -1,2 +1,2 @@
-# scan 05.11 19:40
-Lito v Montevideo Wanderers | n=20 | xg=10
+# scan 05.11 19:40 (name fix)
+Lito v Wanderers | n=20 | xg=10
