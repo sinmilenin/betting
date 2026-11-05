@@ -1,6 +1,3 @@
-RUN 2026-11-05 15:00 local | 2 match(es)
-Atalanta v Kairat Almaty -> out/Atalanta_v_Kairat_Almaty.txt
-Lincoln Red Imps v Hajduk Split -> out/Lincoln_Red_Imps_v_Hajduk_Split.txt
-    !! Lincoln Red Imps: Ambiguous team name "Lincoln Red Imps".
-    !! Hajduk Split: Ambiguous team name "Hajduk Split".
-Requests used: API-Football 28, Matchbook 0
+RUN 2026-11-05 15:00 local | 1 match(es)
+id:667 v id:608 -> out/id_667_v_id_608.txt
+Requests used: API-Football 26, Matchbook 0
