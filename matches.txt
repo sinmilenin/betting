@@ -1,2 +1,4 @@
-# 05.11 08:26 scan retry: Lion City Sailors as Home United (API-Football name)
-Home United v Adelaide United | n=20 | xg=10
+# 05.11 09:58 scan: first analyses
+Pakistan v India | n=20 | xg=10
+Machida Zelvia v Shanghai Shenhua | n=20 | xg=10
+Kitchee v Phnom Penh Crown | n=20 | xg=10
