@@ -1,6 +1,3 @@
-RUN 2026-11-05 06:47 local | 3 match(es)
-Celta Vigo v id:1393 -> out/Celta_Vigo_v_id_1393.txt
-Trabzonspor v id:160 -> out/Trabzonspor_v_id_160.txt
-id:598 v Escaldes -> out/id_598_v_Escaldes.txt
-    !! Escaldes: Ambiguous team name "Escaldes".
-Requests used: API-Football 67, Matchbook 0
+RUN 2026-11-05 06:47 local | 1 match(es)
+id:598 v id:3342 -> out/id_598_v_id_3342.txt
+Requests used: API-Football 26, Matchbook 0
