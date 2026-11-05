@@ -1,5 +1,4 @@
-RUN 2026-11-05 08:57 local | 3 match(es)
-Pakistan v India -> out/Pakistan_v_India.txt
-Machida Zelvia v Shanghai Shenhua -> out/Machida_Zelvia_v_Shanghai_Shenhua.txt
-Kitchee v Phnom Penh Crown -> out/Kitchee_v_Phnom_Penh_Crown.txt
-Requests used: API-Football 77, Matchbook 0
+RUN 2026-11-05 11:13 local | 2 match(es)
+Kuching City v Gangwon -> out/Kuching_City_v_Gangwon.txt
+Churchill Brothers v NorthEast United -> out/Churchill_Brothers_v_NorthEast_United.txt
+Requests used: API-Football 51, Matchbook 0

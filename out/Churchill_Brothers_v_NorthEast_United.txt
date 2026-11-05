@@ -1,0 +1,79 @@
+MATCH Churchill Brothers v NorthEast United | fetched 2026-11-05 11:13 local
+
+FORM DATA Churchill Brothers v NorthEast United | source API-Football | 2026-11-05 11:13 UTC
+H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
+
+=== Churchill Brothers (id 3462): last 20 finished games ===
+2026-10-25 H 2-3 v Minerva Punjab | Indian Super League | Margao | xG 1.46-2.28
+2026-10-18 H 0-4 v East Bengal II | Indian Super League | Margao
+2026-10-11 H 2-1 v Mumbai City | Indian Super League | Margao
+2025-04-06 A 1-1 v Real Kashmir | I-League | Srinagar, Jammu and Kashmir
+2025-03-30 H 2-2 v Inter Kashi | I-League | Raia
+2025-03-23 H 1-1 v Sreenidi Deccan | I-League | Raia
+2025-03-19 A 3-1 v Dempo | I-League | Margao
+2025-03-07 H 6-1 v Shillong Lajong | I-League | Raia
+2025-03-01 H 3-1 v Rajasthan United | I-League | Raia
+2025-02-24 A 1-1 v Namdhari | I-League | Ludhiana
+2025-02-11 H 2-2 v Delhi FC | I-League | Raia
+2025-02-07 H 2-1 v Gokulam | I-League | Raia
+2025-02-03 H 1-1 v SC Bengaluru | I-League | Raia
+2025-01-30 H 3-1 v Real Kashmir | I-League | Raia
+2025-01-25 A 0-1 v Rajasthan United | I-League | Jaipur
+2025-01-17 A 2-1 v Delhi FC | I-League | Mahilpur
+2025-01-12 H 6-0 v Aizawl | I-League | Raia
+2025-01-08 H 0-1 v Namdhari | I-League | Raia
+2024-12-18 H 2-0 v Dempo | I-League | Raia
+2024-12-14 A 3-1 v Inter Kashi | I-League | Kalyani
+Listed home: 14 games, scored 32 (2.29), conceded 19 (1.36), blanks 2, clean sheets 2
+Listed away: 6 games, scored 10 (1.67), conceded 6 (1.00), blanks 1, clean sheets 0
+All: 20 games, scored 42 (2.10), conceded 25 (1.25), blanks 3, clean sheets 2
+
+=== NorthEast United (id 3479): last 20 finished games ===
+2026-10-30 H 1-1 v Bengaluru | Indian Super League | Guwahati | xG 1.89-1.45
+2026-10-24 A 0-0 v Odisha | Indian Super League | Bhubaneswar | xG 1.80-0.17
+2026-10-18 H 4-1 v Kerala Blasters | Indian Super League | Guwahati
+2026-10-12 H 1-0 v ATK Mohun Bagan | Indian Super League | Guwahati
+2026-10-05 A 2-7 v East Bengal II | IFA Shield | New Delhi
+2026-09-29 A 1-1 v ATK Mohun Bagan | IFA Shield | Kolkata
+2026-09-26 A 3-0 v Sreenidi Deccan | IFA Shield | Hyderabad
+2026-05-19 H 2-0 v Mohammedan | Indian Super League | Guwahati
+2026-05-10 H 4-1 v Chennaiyin | Indian Super League | Guwahati
+2026-05-02 H 3-2 v Inter Kashi | Indian Super League | Guwahati
+2026-04-24 H 0-2 v Goa | Indian Super League | Guwahati
+2026-04-19 H 0-1 v ATK Mohun Bagan | Indian Super League | Guwahati
+2026-04-15 A 1-1 v Kerala Blasters | Indian Super League | Kochi
+2026-04-10 H 0-3 v SC Delhi | Indian Super League | Guwahati
+2026-03-20 H 1-4 v Odisha | Indian Super League | Guwahati
+2026-03-15 H 2-1 v Jamshedpur | Indian Super League | Guwahati
+2026-03-09 A 1-1 v Minerva Punjab | Indian Super League | New Delhi
+2026-03-01 A 1-1 v Mumbai City | Indian Super League | Mumbai
+2026-02-22 A 1-1 v Bengaluru | Indian Super League | Bangalore
+2026-02-16 A 0-3 v East Bengal II | Indian Super League | Kolkata
+Listed home: 11 games, scored 18 (1.64), conceded 16 (1.45), blanks 3, clean sheets 2
+Listed away: 9 games, scored 10 (1.11), conceded 15 (1.67), blanks 2, clean sheets 2
+All: 20 games, scored 28 (1.40), conceded 31 (1.55), blanks 5, clean sheets 4
+
+TABLE FOR Churchill Brothers
+LEAGUE TABLE Indian Super League 2026 | 13 teams | 23 games played
+League averages per game: home 1.26, away 1.39, total 2.65
+#   team                   Pts | home P GF-GA  | away P GF-GA  | all P GF-GA
+1   ATK Mohun Bagan          9 |  2   3-1       |  2   2-2       |  4   5-3
+2   NorthEast United         8 |  3   6-2       |  1   0-0       |  4   6-2
+3   Bengaluru                7 |  2   5-2       |  1   1-1       |  3   6-3
+4   Minerva Punjab           7 |  2   3-2       |  2   4-4       |  4   7-6
+5   East Bengal II           6 |  0   0-0       |  2   9-1       |  2   9-1
+6   Goa                      5 |  2   2-2       |  1   2-1       |  3   4-3
+7   Kerala Blasters          5 |  1   0-0       |  3   3-4       |  4   3-4
+8   SC Delhi                 4 |  1   1-2       |  3   6-6       |  4   7-8
+9   Churchill Brothers       3 |  3   4-8       |  0   0-0       |  3   4-8
+10  Odisha                   2 |  1   0-0       |  2   2-3       |  3   2-3
+11  Mumbai City              2 |  1   2-3       |  3   2-3       |  4   4-6
+12  Chennaiyin               2 |  1   0-0       |  3   1-4       |  4   1-4
+13  Inter Kashi              1 |  4   3-10      |  0   0-0       |  4   3-10
+
+(NorthEast United: same table as Churchill Brothers, shown above)
+
+(25 API-Football requests used)
+
+----------------------------------------------------------------------
+MATCHBOOK: skipped (switched off for this run)
