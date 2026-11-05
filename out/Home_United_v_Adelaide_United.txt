@@ -1,7 +1,32 @@
-MATCH Lion City Sailors v Adelaide United | fetched 2026-11-05 07:27 local
+MATCH Home United v Adelaide United | fetched 2026-11-05 07:28 local
 
-FORM DATA Lion City Sailors v Adelaide United | source API-Football | 2026-11-05 07:27 UTC
+FORM DATA Home United v Adelaide United | source API-Football | 2026-11-05 07:28 UTC
 H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
+
+=== Home United (id 4204): last 20 finished games ===
+2026-11-01 A 4-0 v Balestier Khalsa | Premier League | Singapore
+2026-10-29 A 2-0 v Adelaide United | AFC Champions League Two | Adelaide
+2026-10-25 H 6-0 v Tanjong Pagar | Premier League | Singapore
+2026-10-18 A 2-0 v Albirex Niigata S | Premier League | Jurong
+2026-10-15 A 1-0 v Wofoo Tai Po | AFC Champions League Two | Hongkong
+2026-10-11 H 6-1 v Young Lions | Premier League | Singapore
+2026-10-08 H 0-1 v Công An Nhân Dân | ASEAN Club Championship | Singapore
+2026-09-17 H 1-1 v BG Pathum United | AFC Champions League Two | Singapore
+2026-09-12 A 2-2 v Hougang United | Premier League | Singapore
+2026-08-25 A 1-1 v Xerez Deportivo | Friendlies Clubs | ?
+2026-05-17 A 2-3 v Tampines Rovers | Premier League | Tampines
+2026-05-10 H 0-2 v Albirex Niigata S | Premier League | Singapore
+2026-05-03 A 0-0 v Tampines Rovers | Premier League | Tampines
+2026-04-26 A 3-0 v Geylang International | Premier League | Tampines
+2026-04-20 H 2-0 v Young Lions | Premier League | Singapore
+2026-04-12 H 4-1 v Hougang United | Premier League | Singapore
+2026-04-06 A 4-0 v Tanjong Pagar | Premier League | Jurong
+2026-03-15 A 3-0 v Balestier Khalsa | Premier League | Singapore
+2026-03-07 H 4-0 v Geylang International | Premier League | Singapore
+2026-02-28 A 3-3 v Albirex Niigata S | Premier League | Jurong
+Listed home: 8 games, scored 23 (2.88), conceded 6 (0.75), blanks 2, clean sheets 3
+Listed away: 12 games, scored 27 (2.25), conceded 9 (0.75), blanks 1, clean sheets 8
+All: 20 games, scored 50 (2.50), conceded 15 (0.75), blanks 3, clean sheets 11
 
 === Adelaide United (id 948): last 20 finished games ===
 2026-11-01 A 0-4 v Perth Glory | A-League | Perth | xG 0.62-2.50
@@ -28,7 +53,18 @@ Listed home: 7 games, scored 8 (1.14), conceded 10 (1.43), blanks 3, clean sheet
 Listed away: 13 games, scored 23 (1.77), conceded 18 (1.38), blanks 2, clean sheets 2
 All: 20 games, scored 31 (1.55), conceded 28 (1.40), blanks 5, clean sheets 3
 
-!! Lion City Sailors: No team found for "Lion City Sailors".
+TABLE FOR Home United
+LEAGUE TABLE Premier League 2026 | 8 teams | 23 games played
+League averages per game: home 1.78, away 1.70, total 3.48
+#   team                   Pts | home P GF-GA  | away P GF-GA  | all P GF-GA
+1   Geylang International   14 |  3   7-1       |  3   5-1       |  6  12-2
+2   Home United             13 |  2  12-1       |  3   8-2       |  5  20-3
+3   Tampines Rovers         13 |  3   6-1       |  2   7-2       |  5  13-3
+4   Albirex Niigata S        7 |  3   5-5       |  3   6-4       |  6  11-9
+5   Balestier Khalsa         7 |  3   3-8       |  3   4-4       |  6   7-12
+6   Tanjong Pagar            7 |  3   3-6       |  3   4-10      |  6   7-16
+7   Young Lions              3 |  3   2-11      |  3   4-10      |  6   6-21
+8   Hougang United           1 |  3   3-6       |  3   1-8       |  6   4-14
 
 TABLE FOR Adelaide United
 LEAGUE TABLE A-League 2026 | 12 teams | 17 games played
@@ -47,7 +83,7 @@ League averages per game: home 1.76, away 1.00, total 2.76
 11  Newcastle Jets           2 |  2   1-4       |  1   2-2       |  3   3-6
 12  Adelaide United          0 |  0   0-0       |  2   1-6       |  2   1-6
 
-(14 API-Football requests used)
+(26 API-Football requests used)
 
 ----------------------------------------------------------------------
 MATCHBOOK: skipped (switched off for this run)

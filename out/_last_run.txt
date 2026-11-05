@@ -1,4 +1,3 @@
-RUN 2026-11-05 07:27 local | 1 match(es)
-Lion City Sailors v Adelaide United -> out/Lion_City_Sailors_v_Adelaide_United.txt
-    !! Lion City Sailors: No team found for "Lion City Sailors".
-Requests used: API-Football 14, Matchbook 0
+RUN 2026-11-05 07:28 local | 1 match(es)
+Home United v Adelaide United -> out/Home_United_v_Adelaide_United.txt
+Requests used: API-Football 26, Matchbook 0
