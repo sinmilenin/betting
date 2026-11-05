@@ -1,0 +1,62 @@
+MATCH id:598 v Inter Escaldes | fetched 2026-11-05 06:45 local
+
+FORM DATA id:598 v Inter Escaldes | source API-Football | 2026-11-05 06:46 UTC
+H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
+
+=== FK Crvena Zvezda (id 598): last 20 finished games ===
+2026-10-31 A 4-2 v Macva | Super Liga | Shabac | xG 2.18-1.01
+2026-10-28 A 5-1 v Jedinstvo Ub | Cup | ?
+2026-10-25 A 1-0 v OFK Beograd | Super Liga | Belgrade | xG 1.22-0.62
+2026-10-22 H 2-2 v FC Copenhagen | UEFA Europa Conference League | Belgrade | xG 0.78-0.53
+2026-10-18 H 5-1 v Mladost Lucani | Super Liga | Belgrade | xG 5.16-0.46
+2026-10-15 A 2-3 v FC Lugano | UEFA Europa Conference League | Lugano | xG 1.23-2.29
+2026-10-10 A 3-0 v Radnicki 1923 | Super Liga | Kragujevac | xG 2.17-1.35
+2026-09-20 H 3-0 v Radnicki NIS | Super Liga | Belgrade
+2026-09-17 A 2-1 v Železničar Pančevo | Super Liga | Pancevo
+2026-09-13 A 1-0 v IMT Novi Beograd | Super Liga | Belgrade | xG 1.22-0.60
+2026-09-10 A 0-0 v Radnik Surdulica | Super Liga | Surdulica
+2026-09-06 H 2-1 v FK Partizan | Super Liga | Belgrade
+2026-08-30 A 2-0 v Zemun | Super Liga | Belgrade
+2026-08-27 A 1-4 v Plzen | UEFA Europa League | Plzen [AET, 90-min score shown]
+2026-08-23 H 4-0 v Cukaricki | Super Liga | Belgrade
+2026-08-20 H 3-0 v Plzen | UEFA Europa League | Belgrade
+2026-08-11 H 0-2 v Hapoel Beer Sheva | UEFA Champions League | Belgrade
+2026-08-08 H 2-0 v Novi Pazar | Super Liga | Belgrade
+2026-08-04 A 0-1 v Hapoel Beer Sheva | UEFA Champions League | Szombathely
+2026-07-29 H 5-0 v Larne | UEFA Champions League | Belgrade
+Listed home: 9 games, scored 26 (2.89), conceded 6 (0.67), blanks 1, clean sheets 5
+Listed away: 11 games, scored 21 (1.91), conceded 12 (1.09), blanks 2, clean sheets 5
+All: 20 games, scored 47 (2.35), conceded 18 (0.90), blanks 3, clean sheets 10
+
+=== Inter Escaldes U19 (id 26814): last 2 finished games ===
+2025-10-01 A 0-5 v Skënderbeu U19 | UEFA Youth League | ?
+2025-09-17 H 0-10 v Skënderbeu U19 | UEFA Youth League | Andorra la Vella
+Listed home: 1 games, scored 0 (0.00), conceded 10 (10.00), blanks 1, clean sheets 0
+Listed away: 1 games, scored 0 (0.00), conceded 5 (5.00), blanks 1, clean sheets 0
+All: 2 games, scored 0 (0.00), conceded 15 (7.50), blanks 2, clean sheets 0
+
+TABLE FOR FK Crvena Zvezda
+LEAGUE TABLE Super Liga 2026 | 14 teams | 97 games played
+League averages per game: home 1.54, away 1.05, total 2.59
+#   team                   Pts | home P GF-GA  | away P GF-GA  | all P GF-GA
+1   FK Crvena Zvezda        40 |  7  24-3       |  7  13-3       | 14  37-6
+2   Vojvodina               32 |  7  14-3       |  7  16-9       | 14  30-12
+3   Železničar Pančevo      26 |  7  13-5       |  6   8-6       | 13  21-11
+4   Radnicki 1923           23 |  7  14-6       |  7   7-10      | 14  21-16
+5   IMT Novi Beograd        22 |  7   7-2       |  7   8-7       | 14  15-9
+6   Radnik Surdulica        20 |  7  14-7       |  7   4-10      | 14  18-17
+7   Cukaricki               19 |  7  11-9       |  7   8-11      | 14  19-20
+8   Mladost Lucani          18 |  7   7-5       |  7   5-14      | 14  12-19
+9   FK Partizan             17 |  7  10-9       |  7  14-15      | 14  24-24
+10  Novi Pazar              16 |  7  10-9       |  7   3-7       | 14  13-16
+11  OFK Beograd             11 |  7   7-11      |  7   7-14      | 14  14-25
+12  Macva                   10 |  7   7-10      |  7   4-15      | 14  11-25
+13  Radnicki NIS             8 |  6   7-13      |  7   2-10      | 13   9-23
+14  Zemun                    6 |  7   4-10      |  7   3-18      | 14   7-28
+
+(no league table available for Inter Escaldes U19: tried UEFA Youth League 2025)
+
+(18 API-Football requests used)
+
+----------------------------------------------------------------------
+MATCHBOOK: skipped (switched off for this run)

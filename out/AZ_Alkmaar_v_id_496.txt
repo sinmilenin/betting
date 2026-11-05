@@ -1,6 +1,6 @@
-MATCH AZ Alkmaar v Juventus | fetched 2026-11-05 06:43 local
+MATCH AZ Alkmaar v id:496 | fetched 2026-11-05 06:45 local
 
-FORM DATA AZ Alkmaar v Juventus | source API-Football | 2026-11-05 06:43 UTC
+FORM DATA AZ Alkmaar v id:496 | source API-Football | 2026-11-05 06:45 UTC
 H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
 
 === AZ Alkmaar (id 201): last 20 finished games ===
@@ -28,56 +28,30 @@ Listed home: 10 games, scored 20 (2.00), conceded 10 (1.00), blanks 2, clean she
 Listed away: 10 games, scored 20 (2.00), conceded 10 (1.00), blanks 3, clean sheets 3
 All: 20 games, scored 40 (2.00), conceded 20 (1.00), blanks 5, clean sheets 6
 
-"Juventus" matches several teams. Use id:<number> instead of the name:
-  id:496    Juventus (Italy)
-  id:1715   Juventus U23 (Italy)
-  id:1886   Juventus W (Italy)
-  id:2587   Juventus Bucuresti (Romania)
-  id:4406   Juventus Sainte-Anne (Guadeloupe)
-  id:4446   Juventus (Haiti)
-  id:4643   Juventus Managua (Nicaragua)
-  id:6652   YF Juventus (Switzerland)
-  id:7904   Juventus U19 (Italy)
-  id:8520   Juventus Malchika (Bulgaria)
-  id:10019  Juventus (Brazil)
-  id:12168  Juventus Managua U20 (Nicaragua)
-  id:12912  Juventus SC (Brazil)
-  id:13021  Juventus U20 (Brazil)
-  id:13688  Juventus Papus (France)
-  id:23517  Canberra Juventus (Australia)
-  id:23732  Juventus CE U20 (Brazil)
-  id:24744  Juventus U20 (Italy)
-  id:25251  Juventus Huamachuco (Peru)
-  id:25964  Juventus RJ (Brazil)
-  id:26488  Juventus FC Minas Novas (Brazil)
-  id:26593  Juventus U21 (Italy)
-  id:27510  Brunswick Juventus FC (Australia)
-(retrying Juventus using the opponent's country, Netherlands)
-"Juventus" matches several teams. Use id:<number> instead of the name:
-  id:496    Juventus (Italy)
-  id:1715   Juventus U23 (Italy)
-  id:1886   Juventus W (Italy)
-  id:2587   Juventus Bucuresti (Romania)
-  id:4406   Juventus Sainte-Anne (Guadeloupe)
-  id:4446   Juventus (Haiti)
-  id:4643   Juventus Managua (Nicaragua)
-  id:6652   YF Juventus (Switzerland)
-  id:7904   Juventus U19 (Italy)
-  id:8520   Juventus Malchika (Bulgaria)
-  id:10019  Juventus (Brazil)
-  id:12168  Juventus Managua U20 (Nicaragua)
-  id:12912  Juventus SC (Brazil)
-  id:13021  Juventus U20 (Brazil)
-  id:13688  Juventus Papus (France)
-  id:23517  Canberra Juventus (Australia)
-  id:23732  Juventus CE U20 (Brazil)
-  id:24744  Juventus U20 (Italy)
-  id:25251  Juventus Huamachuco (Peru)
-  id:25964  Juventus RJ (Brazil)
-  id:26488  Juventus FC Minas Novas (Brazil)
-  id:26593  Juventus U21 (Italy)
-  id:27510  Brunswick Juventus FC (Australia)
-!! Juventus: Ambiguous team name "Juventus".
+=== Juventus (id 496): last 20 finished games ===
+2026-11-01 H 2-0 v Napoli | Serie A | Turin | xG 0.87-0.58
+2026-10-28 A 0-2 v Genoa | Serie A | Genoa | xG 1.28-1.05
+2026-10-25 A 2-0 v Lecce | Serie A | Lecce | xG 1.06-0.86
+2026-10-22 H 2-2 v Rennes | UEFA Europa League | Turin | xG 2.27-1.68
+2026-10-18 H 0-3 v Lazio | Serie A | Turin | xG 0.75-0.57
+2026-10-15 A 2-1 v Celta Vigo | UEFA Europa League | Vigo | xG 1.95-1.08
+2026-10-11 A 1-1 v Cagliari | Serie A | Cagliari | xG 1.95-0.52
+2026-10-02 H 0-1 v Cremonese | Friendlies Clubs | Turin
+2026-09-20 H 2-0 v Atalanta | Serie A | Turin | xG 1.31-0.60
+2026-09-17 H 5-0 v NEC Nijmegen | UEFA Europa League | Turin
+2026-09-13 A 2-3 v Sassuolo | Serie A | Reggio Emilia
+2026-09-06 H 1-1 v AC Milan | Serie A | Turin
+2026-08-29 H 2-0 v Parma | Serie A | Turin
+2026-08-23 A 1-0 v Frosinone | Serie A | Frosinone
+2026-08-11 H 2-0 v Palermo | Friendlies Clubs | Perth
+2026-08-08 H 1-2 v Inter | Friendlies Clubs | Perth
+2026-08-05 A 1-0 v Chelsea | Friendlies Clubs | Hongkong
+2026-07-31 H 2-0 v Nice | Friendlies Clubs | Turin
+2026-07-25 A 1-0 v Standard Liege | Friendlies Clubs | ?
+2026-07-18 A 0-0 v FC Basel 1893 | Friendlies Clubs | Basel
+Listed home: 11 games, scored 19 (1.73), conceded 9 (0.82), blanks 2, clean sheets 6
+Listed away: 9 games, scored 10 (1.11), conceded 7 (0.78), blanks 2, clean sheets 5
+All: 20 games, scored 29 (1.45), conceded 16 (0.80), blanks 4, clean sheets 11
 
 TABLE FOR AZ Alkmaar
 LEAGUE TABLE Eredivisie 2026 | 18 teams | 99 games played
@@ -102,7 +76,32 @@ League averages per game: home 1.81, away 2.01, total 3.82
 17  ADO Den Haag             6 |  5   8-12      |  6   5-12      | 11  13-24
 18  Willem II                2 |  5   4-16      |  6   6-23      | 11  10-39
 
-(15 API-Football requests used)
+TABLE FOR Juventus
+LEAGUE TABLE Serie A 2026 | 20 teams | 100 games played
+League averages per game: home 1.62, away 1.56, total 3.18
+#   team                   Pts | home P GF-GA  | away P GF-GA  | all P GF-GA
+1   Lazio                   28 |  5  10-5       |  5  14-3       | 10  24-8
+2   Inter                   25 |  5  17-7       |  5   9-6       | 10  26-13
+3   AS Roma                 24 |  5  14-5       |  5  14-5       | 10  28-10
+4   Como                    23 |  4   5-1       |  6  13-7       | 10  18-8
+5   AC Milan                21 |  5  13-7       |  5   8-5       | 10  21-12
+6   Frosinone               20 |  6  16-6       |  4   8-8       | 10  24-14
+7   Juventus                17 |  5   7-4       |  5   6-6       | 10  13-10
+8   Napoli                  14 |  4   8-5       |  6   9-8       | 10  17-13
+9   Bologna                 14 |  5   6-8       |  5   8-5       | 10  14-13
+10  Torino                  13 |  5   7-10      |  5   7-6       | 10  14-16
+11  Genoa                   13 |  6   7-8       |  4   3-6       | 10  10-14
+12  Cagliari                13 |  4   2-4       |  6   7-11      | 10   9-15
+13  Atalanta                11 |  6  11-11      |  4   5-9       | 10  16-20
+14  Lecce                    9 |  5   5-12      |  5   6-9       | 10  11-21
+15  Parma                    8 |  5   3-6       |  5   5-9       | 10   8-15
+16  Fiorentina               8 |  5   5-11      |  5  10-12      | 10  15-23
+17  Sassuolo                 8 |  5  10-14      |  5   6-12      | 10  16-26
+18  Monza                    7 |  4   9-8       |  6   8-16      | 10  17-24
+19  Udinese                  5 |  6   4-14      |  4   7-9       | 10  11-23
+20  Venezia                  3 |  5   3-10      |  5   3-10      | 10   6-20
+
+(25 API-Football requests used)
 
 ----------------------------------------------------------------------
 MATCHBOOK: skipped (switched off for this run)

@@ -1,6 +1,6 @@
-MATCH FC Copenhagen v Iberia 1999 | fetched 2026-11-05 06:43 local
+MATCH FC Copenhagen v id:3502 | fetched 2026-11-05 06:45 local
 
-FORM DATA FC Copenhagen v Iberia 1999 | source API-Football | 2026-11-05 06:44 UTC
+FORM DATA FC Copenhagen v id:3502 | source API-Football | 2026-11-05 06:46 UTC
 H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
 
 === FC Copenhagen (id 400): last 20 finished games ===
@@ -28,14 +28,30 @@ Listed home: 8 games, scored 21 (2.62), conceded 5 (0.62), blanks 0, clean sheet
 Listed away: 12 games, scored 24 (2.00), conceded 10 (0.83), blanks 3, clean sheets 8
 All: 20 games, scored 45 (2.25), conceded 15 (0.75), blanks 3, clean sheets 11
 
-"Iberia 1999" matches several teams. Use id:<number> instead of the name:
-  id:3502   FC Iberia 1999 (Georgia)
-  id:14863  FC Iberia 1999 II (Georgia)
-(retrying Iberia 1999 using the opponent's country, Denmark)
-"Iberia 1999" matches several teams. Use id:<number> instead of the name:
-  id:3502   FC Iberia 1999 (Georgia)
-  id:14863  FC Iberia 1999 II (Georgia)
-!! Iberia 1999: Ambiguous team name "Iberia 1999".
+=== FC Iberia 1999 (id 3502): last 20 finished games ===
+2026-10-31 A 0-0 v Dinamo Tbilisi | Erovnuli Liga | Tbilisi
+2026-10-26 H 3-2 v Torpedo Kutaisi | Erovnuli Liga | Tbilisi
+2026-10-22 H 1-1 v Mjallby AIF | UEFA Europa Conference League | Tbilisi | xG 0.99-2.24
+2026-10-19 A 2-0 v Dila | Erovnuli Liga | Gori
+2026-10-15 A 0-2 v St. Truiden | UEFA Europa Conference League | Sint-Truiden | xG 0.15-1.73
+2026-10-10 A 2-1 v Meshakhte | Erovnuli Liga | Tkibuli
+2026-10-04 H 1-2 v Dinamo Tbilisi | Erovnuli Liga | Tbilisi
+2026-09-21 A 2-0 v Rustavi | Erovnuli Liga | Tbilisi
+2026-09-17 H 2-1 v Dila | Erovnuli Liga | Tbilisi
+2026-09-13 H 1-0 v Spaeri | Erovnuli Liga | Tbilisi
+2026-09-09 A 0-2 v Dinamo Batumi | Erovnuli Liga | Batumi
+2026-09-05 H 2-1 v Samgurali | Erovnuli Liga | Tbilisi
+2026-09-02 A 0-2 v Samtredia | David Kipiani Cup | ?
+2026-08-31 A 0-2 v Gagra | Erovnuli Liga | Tbilisi
+2026-08-27 H 1-2 v Jagiellonia | UEFA Europa League | Tbilisi
+2026-08-20 A 0-4 v Jagiellonia | UEFA Europa League | Bialystok
+2026-08-15 A 3-4 v Torpedo Kutaisi | Erovnuli Liga | Kutaisi
+2026-08-11 H 1-1 v Larne | UEFA Europa League | Tbilisi [AET, 90-min score shown]
+2026-08-04 A 0-0 v Larne | UEFA Europa League | Larne
+2026-07-29 A 1-1 v Slovan Bratislava | UEFA Champions League | Bratislava
+Listed home: 8 games, scored 12 (1.50), conceded 10 (1.25), blanks 0, clean sheets 1
+Listed away: 12 games, scored 10 (0.83), conceded 18 (1.50), blanks 7, clean sheets 4
+All: 20 games, scored 22 (1.10), conceded 28 (1.40), blanks 7, clean sheets 5
 
 TABLE FOR FC Copenhagen
 LEAGUE TABLE Superliga 2026 | 12 teams | 78 games played
@@ -54,7 +70,22 @@ League averages per game: home 1.67, away 1.40, total 3.06
 11  Lyngby                  11 |  7  10-13      |  6   9-15      | 13  19-28
 12  Sonderjyske              8 |  7  12-15      |  6   5-16      | 13  17-31
 
-(15 API-Football requests used)
+TABLE FOR FC Iberia 1999
+LEAGUE TABLE Erovnuli Liga 2026 | 10 teams | 155 games played
+League averages per game: home 1.41, away 1.23, total 2.65
+#   team                   Pts | home P GF-GA  | away P GF-GA  | all P GF-GA
+1   Dinamo Batumi           59 | 16  31-18      | 15  23-19      | 31  54-37
+2   FC Iberia 1999          56 | 15  21-14      | 16  24-19      | 31  45-33
+3   Dinamo Tbilisi          55 | 16  24-17      | 15  26-15      | 31  50-32
+4   Rustavi                 53 | 15  21-13      | 16  17-15      | 31  38-28
+5   Torpedo Kutaisi         40 | 16  27-20      | 15  23-22      | 31  50-42
+6   Dila                    40 | 15  20-16      | 16  21-23      | 31  41-39
+7   Samgurali               39 | 16  23-20      | 15  20-35      | 31  43-55
+8   Gagra                   31 | 16  18-21      | 15  10-24      | 31  28-45
+9   Spaeri                  28 | 15  24-26      | 16  14-23      | 31  38-49
+10  Meshakhte               20 | 15  10-26      | 16  13-24      | 31  23-50
+
+(25 API-Football requests used)
 
 ----------------------------------------------------------------------
 MATCHBOOK: skipped (switched off for this run)

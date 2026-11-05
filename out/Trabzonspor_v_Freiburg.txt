@@ -1,13 +1,80 @@
-MATCH Trabzonspor v Freiburg | fetched 2026-11-05 06:43 local
+MATCH Trabzonspor v Freiburg | fetched 2026-11-05 06:45 local
 
-FORM DATA Trabzonspor v Freiburg | source API-Football | 2026-11-05 06:44 UTC
+FORM DATA Trabzonspor v Freiburg | source API-Football | 2026-11-05 06:46 UTC
 H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
 
-!! Trabzonspor: API-Football error: HTTP 429 from API-Football
+=== Trabzonspor (id 998): last 20 finished games ===
+2026-11-01 H 2-0 v Gaziantep FK | Süper Lig | Trabzon | xG 1.37-0.51
+2026-10-26 A 4-3 v Rizespor | Süper Lig | Rize | xG 2.69-1.90
+2026-10-22 H 2-0 v Heart Of Midlothian | UEFA Europa Conference League | Trabzon | xG 1.49-0.64
+2026-10-19 H 2-0 v Beşiktaş | Süper Lig | Trabzon | xG 2.41-1.32
+2026-10-15 A 4-2 v KuPS | UEFA Europa Conference League | Tampere | xG 3.61-2.07
+2026-10-10 A 3-0 v Samsunspor | Süper Lig | Samsun | xG 2.02-1.66
+2026-10-01 H 0-1 v Drogheda United | Friendlies Clubs | Trabzon
+2026-09-19 H 4-0 v Galatasaray | Süper Lig | Trabzon | xG 2.20-0.96
+2026-09-12 A 0-1 v Konyaspor | Süper Lig | Konya | xG 0.83-1.01
+2026-09-06 H 5-0 v Gençlerbirliği S.K. | Süper Lig | Trabzon | xG 3.46-0.73
+2026-08-31 A 1-2 v Amed | Süper Lig | Diyarbakır
+2026-08-27 A 0-4 v Ferencvarosi TC | UEFA Europa League | Budapest
+2026-08-23 H 2-1 v Başakşehir | Süper Lig | Trabzon
+2026-08-20 H 0-1 v Ferencvarosi TC | UEFA Europa League | Trabzon
+2026-08-15 A 1-1 v Kasımpaşa | Süper Lig | Istanbul
+2026-08-08 A 1-2 v Göztepe | Friendlies Clubs | ?
+2026-08-02 H 1-0 v Udinese | Friendlies Clubs | Landskrona
+2026-07-30 H 0-1 v Al Sadd | Friendlies Clubs | Anif
+2026-07-26 H 0-3 v Eintracht Frankfurt | Friendlies Clubs | Salzburg
+2026-05-22 H 2-1 v Konyaspor | Türkiye Kupası | Antalya
+Listed home: 12 games, scored 20 (1.67), conceded 8 (0.67), blanks 4, clean sheets 6
+Listed away: 8 games, scored 14 (1.75), conceded 15 (1.88), blanks 2, clean sheets 1
+All: 20 games, scored 34 (1.70), conceded 23 (1.15), blanks 6, clean sheets 7
 
-!! Freiburg: API-Football error: HTTP 429 from API-Football
+"Freiburg" matches several teams. Use id:<number> instead of the name:
+  id:160    SC Freiburg (Germany)
+  id:1867   SC Freiburg W (Germany)
+  id:9363   Freiburg II (Germany)
+  id:10255  Freiburg U19 (Germany)
+  id:16115  Freiburger FC (Germany)
+  id:20479  Freiburg-Zähringen W (Germany)
+  id:24534  Freiburg II W (Germany)
+  id:26712  Freiburg-St. Georgen W (Germany)
+  id:27942  Freiburger U19 (Germany)
+(retrying Freiburg using the opponent's country, Turkey)
+"Freiburg" matches several teams. Use id:<number> instead of the name:
+  id:160    SC Freiburg (Germany)
+  id:1867   SC Freiburg W (Germany)
+  id:9363   Freiburg II (Germany)
+  id:10255  Freiburg U19 (Germany)
+  id:16115  Freiburger FC (Germany)
+  id:20479  Freiburg-Zähringen W (Germany)
+  id:24534  Freiburg II W (Germany)
+  id:26712  Freiburg-St. Georgen W (Germany)
+  id:27942  Freiburger U19 (Germany)
+!! Freiburg: Ambiguous team name "Freiburg".
 
-(0 API-Football requests used)
+TABLE FOR Trabzonspor
+LEAGUE TABLE Süper Lig 2026 | 18 teams | 90 games played
+League averages per game: home 1.73, away 1.27, total 3.00
+#   team                   Pts | home P GF-GA  | away P GF-GA  | all P GF-GA
+1   Galatasaray             25 |  5  11-6       |  5  12-6       | 10  23-12
+2   Amed                    23 |  6  19-4       |  4   6-7       | 10  25-11
+3   Trabzonspor             22 |  5  15-1       |  5   9-7       | 10  24-8
+4   Beşiktaş                19 |  5  14-3       |  5   6-9       | 10  20-12
+5   Kasımpaşa               17 |  5   9-6       |  5   6-5       | 10  15-11
+6   Fenerbahçe              16 |  5  17-6       |  5   7-4       | 10  24-10
+7   Çorum FK                16 |  4   6-4       |  6  15-12      | 10  21-16
+8   Kocaelispor             16 |  5   6-2       |  5   5-7       | 10  11-9
+9   Göztepe                 15 |  4   6-7       |  6  15-10      | 10  21-17
+10  Başakşehir              14 |  6  16-7       |  4   1-9       | 10  17-16
+11  Erzurumspor FK          14 |  5   5-7       |  5   4-8       | 10   9-15
+12  Alanyaspor              12 |  4   4-4       |  6   5-12      | 10   9-16
+13  Rizespor                11 |  4   3-10      |  6   8-5       | 10  11-15
+14  Gençlerbirliği S.K.     11 |  6  11-7       |  4   1-11      | 10  12-18
+15  Konyaspor                8 |  6   4-7       |  4   2-6       | 10   6-13
+16  Gaziantep FK             8 |  5   3-9       |  5   6-8       | 10   9-17
+17  Samsunspor               4 |  5   5-15      |  5   5-11      | 10  10-26
+18  Eyüpspor                 3 |  5   2-9       |  5   1-19      | 10   3-28
+
+(14 API-Football requests used)
 
 ----------------------------------------------------------------------
 MATCHBOOK: skipped (switched off for this run)

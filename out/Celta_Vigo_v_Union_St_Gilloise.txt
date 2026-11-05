@@ -1,6 +1,6 @@
-MATCH Celta Vigo v Union St. Gilloise | fetched 2026-11-05 06:43 local
+MATCH Celta Vigo v Union St Gilloise | fetched 2026-11-05 06:45 local
 
-FORM DATA Celta Vigo v Union St. Gilloise | source API-Football | 2026-11-05 06:44 UTC
+FORM DATA Celta Vigo v Union St Gilloise | source API-Football | 2026-11-05 06:46 UTC
 H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
 
 === Celta Vigo (id 538): last 20 finished games ===
@@ -28,7 +28,7 @@ Listed home: 10 games, scored 14 (1.40), conceded 10 (1.00), blanks 2, clean she
 Listed away: 10 games, scored 10 (1.00), conceded 10 (1.00), blanks 5, clean sheets 3
 All: 20 games, scored 24 (1.20), conceded 20 (1.00), blanks 7, clean sheets 7
 
-!! Union St. Gilloise: API-Football error: {"search": "The Search field may only contain alpha-numeric characters and spaces."}
+!! Union St Gilloise: No team found for "Union St Gilloise".
 
 TABLE FOR Celta Vigo
 LEAGUE TABLE La Liga 2026 | 20 teams | 109 games played
@@ -55,7 +55,7 @@ League averages per game: home 1.71, away 1.30, total 3.01
 19  Valencia                 9 |  6   3-11      |  5   5-6       | 11   8-17
 20  Malaga                   5 |  5   5-10      |  6   3-11      | 11   8-21
 
-(13 API-Football requests used)
+(14 API-Football requests used)
 
 ----------------------------------------------------------------------
 MATCHBOOK: skipped (switched off for this run)

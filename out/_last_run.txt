@@ -1,36 +1,15 @@
-RUN 2026-11-05 06:43 local | 20 match(es)
-AC Milan v Ferencvaros -> out/AC_Milan_v_Ferencvaros.txt
-    !! Ferencvaros: Ambiguous team name "Ferencvaros".
-AZ Alkmaar v Juventus -> out/AZ_Alkmaar_v_Juventus.txt
-    !! Juventus: Ambiguous team name "Juventus".
-Sparta Praha v Bournemouth -> out/Sparta_Praha_v_Bournemouth.txt
-Real Sociedad v Lyon -> out/Real_Sociedad_v_Lyon.txt
-Crystal Palace v Hoffenheim -> out/Crystal_Palace_v_Hoffenheim.txt
-    !! Hoffenheim: Ambiguous team name "Hoffenheim".
-Benfica v Lech Poznan -> out/Benfica_v_Lech_Poznan.txt
-    !! Benfica: Ambiguous team name "Benfica".
-Celtic v Besiktas -> out/Celtic_v_Besiktas.txt
-    !! Besiktas: Ambiguous team name "Besiktas".
-Lillestrom v Plzen -> out/Lillestrom_v_Plzen.txt
-Anderlecht v Red Bull Salzburg -> out/Anderlecht_v_Red_Bull_Salzburg.txt
-Bayer Leverkusen v Marseille -> out/Bayer_Leverkusen_v_Marseille.txt
-Celta Vigo v Union St. Gilloise -> out/Celta_Vigo_v_Union_St_Gilloise.txt
-    !! Union St. Gilloise: API-Football error: {"search": "The Search field may only contain alpha-numeric characters and spaces."}
-Crvena Zvezda v Inter Club d'Escaldes -> out/Crvena_Zvezda_v_Inter_Club_d_Escaldes.txt
-    !! Crvena Zvezda: Ambiguous team name "Crvena Zvezda".
-    !! Inter Club d'Escaldes: API-Football error: {"search": "The Search field may only contain alpha-numeric characters and spaces."}
-AGF Aarhus v Braga -> out/AGF_Aarhus_v_Braga.txt
-    !! AGF Aarhus: No team found for "AGF Aarhus".
-    !! Braga: Ambiguous team name "Braga".
-Hapoel Beer Sheva v OFI -> out/Hapoel_Beer_Sheva_v_OFI.txt
-Panathinaikos v CSKA Sofia -> out/Panathinaikos_v_CSKA_Sofia.txt
-KuPS v Gent -> out/KuPS_v_Gent.txt
-FC Copenhagen v Iberia 1999 -> out/FC_Copenhagen_v_Iberia_1999.txt
-    !! Iberia 1999: Ambiguous team name "Iberia 1999".
-Levski Sofia v Jagiellonia -> out/Levski_Sofia_v_Jagiellonia.txt
+RUN 2026-11-05 06:45 local | 11 match(es)
+AC Milan v id:651 -> out/AC_Milan_v_id_651.txt
+AZ Alkmaar v id:496 -> out/AZ_Alkmaar_v_id_496.txt
+Crystal Palace v id:167 -> out/Crystal_Palace_v_id_167.txt
+id:211 v Lech Poznan -> out/id_211_v_Lech_Poznan.txt
+Celtic v id:549 -> out/Celtic_v_id_549.txt
+Celta Vigo v Union St Gilloise -> out/Celta_Vigo_v_Union_St_Gilloise.txt
+    !! Union St Gilloise: No team found for "Union St Gilloise".
+id:598 v Inter Escaldes -> out/id_598_v_Inter_Escaldes.txt
+Aarhus v id:217 -> out/Aarhus_v_id_217.txt
+FC Copenhagen v id:3502 -> out/FC_Copenhagen_v_id_3502.txt
 Getafe v Brighton -> out/Getafe_v_Brighton.txt
-    !! Brighton: API-Football error: HTTP 429 from API-Football
 Trabzonspor v Freiburg -> out/Trabzonspor_v_Freiburg.txt
-    !! Trabzonspor: API-Football error: HTTP 429 from API-Football
-    !! Freiburg: API-Football error: HTTP 429 from API-Football
-Requests used: API-Football 336, Matchbook 0
+    !! Freiburg: Ambiguous team name "Freiburg".
+Requests used: API-Football 249, Matchbook 0
