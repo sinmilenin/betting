@@ -1,2 +1,21 @@
-# 04.11 21:05 night scan (retry: Atletico Mineiro id 117 returned no games)
-id:120 v id:1062 | n=20 | xg=10
+# 05.11 07:45 top-20 run (scan): UEL/UECL Thursday
+AC Milan v Ferencvaros | n=20 | xg=10
+AZ Alkmaar v Juventus | n=20 | xg=10
+Sparta Praha v Bournemouth | n=20 | xg=10
+Real Sociedad v Lyon | n=20 | xg=10
+Crystal Palace v Hoffenheim | n=20 | xg=10
+Benfica v Lech Poznan | n=20 | xg=10
+Celtic v Besiktas | n=20 | xg=10
+Lillestrom v Plzen | n=20 | xg=10
+Anderlecht v Red Bull Salzburg | n=20 | xg=10
+Bayer Leverkusen v Marseille | n=20 | xg=10
+Celta Vigo v Union St. Gilloise | n=20 | xg=10
+Crvena Zvezda v Inter Club d'Escaldes | n=20 | xg=10
+AGF Aarhus v Braga | n=20 | xg=10
+Hapoel Beer Sheva v OFI | n=20 | xg=10
+Panathinaikos v CSKA Sofia | n=20 | xg=10
+KuPS v Gent | n=20 | xg=10
+FC Copenhagen v Iberia 1999 | n=20 | xg=10
+Levski Sofia v Jagiellonia | n=20 | xg=10
+Getafe v Brighton | n=20 | xg=10
+Trabzonspor v Freiburg | n=20 | xg=10
