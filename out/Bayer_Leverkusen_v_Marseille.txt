@@ -1,0 +1,105 @@
+MATCH Bayer Leverkusen v Marseille | fetched 2026-11-05 06:43 local
+
+FORM DATA Bayer Leverkusen v Marseille | source API-Football | 2026-11-05 06:44 UTC
+H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
+
+=== Bayer Leverkusen (id 168): last 20 finished games ===
+2026-10-31 H 2-4 v VfB Stuttgart | Bundesliga | Bayer Leverkusen | xG 2.07-2.88
+2026-10-28 H 5-2 v 1. FC Nürnberg | DFB Pokal | Leverkusen | xG 3.11-1.02
+2026-10-25 A 0-3 v 1899 Hoffenheim | Bundesliga | Sinsheim | xG 0.57-3.46
+2026-10-22 A 2-0 v OFI | UEFA Europa League | Heraklion | xG 3.42-0.28
+2026-10-18 H 2-1 v SC Freiburg | Bundesliga | Bayer Leverkusen | xG 1.64-1.21
+2026-10-15 A 4-0 v Lech Poznan | UEFA Europa League | Poznan | xG 5.22-0.57
+2026-10-10 A 4-3 v FSV Mainz 05 | Bundesliga | Mainz | xG 2.09-3.13
+2026-09-20 H 2-0 v RB Leipzig | Bundesliga | Leverkusen | xG 2.27-0.97
+2026-09-16 H 2-0 v Celje | UEFA Europa League | Leverkusen | xG 1.93-0.90
+2026-09-12 A 2-2 v FC Augsburg | Bundesliga | Augsburg | xG 2.64-1.11
+2026-09-05 H 4-0 v Union Berlin | Bundesliga | Leverkusen
+2026-08-29 A 2-3 v SV Elversberg | Bundesliga | Spiesen-Elversberg
+2026-08-22 A 4-0 v SV Wehen | DFB Pokal | Wiesbaden
+2026-08-15 A 2-1 v Newcastle | Friendlies Clubs | Newcastle
+2026-08-12 A 1-2 v Nottingham Forest | Friendlies Clubs | ?
+2026-08-08 H 2-1 v Sevilla | Friendlies Clubs | ?
+2026-08-01 H 3-0 v Rot-Weiß Essen | Friendlies Clubs | ?
+2026-07-29 H 4-0 v Genk | Friendlies Clubs | ?
+2026-07-25 A 3-1 v Kickers Offenbach | Friendlies Clubs | ?
+2026-07-18 A 7-0 v SF Baumberg | Friendlies Clubs | ?
+Listed home: 9 games, scored 26 (2.89), conceded 8 (0.89), blanks 0, clean sheets 5
+Listed away: 11 games, scored 31 (2.82), conceded 15 (1.36), blanks 1, clean sheets 4
+All: 20 games, scored 57 (2.85), conceded 23 (1.15), blanks 1, clean sheets 9
+
+=== Marseille (id 81): last 20 finished games ===
+2026-11-01 H 2-0 v Toulouse | Ligue 1 | Marseille | xG 1.33-1.92
+2026-10-25 H 4-3 v Le Havre | Ligue 1 | Marseille | xG 1.63-3.16
+2026-10-22 A 0-1 v Sturm Graz | UEFA Europa League | Graz | xG 0.80-1.87
+2026-10-18 A 5-2 v Angers | Ligue 1 | Angers | xG 2.71-2.21
+2026-10-15 H 0-1 v Olympiakos Piraeus | UEFA Europa League | Marseille | xG 0.90-0.63
+2026-10-11 A 2-0 v Estac Troyes | Ligue 1 | Troyes | xG 1.30-1.06
+2026-09-20 H 1-2 v Paris Saint Germain | Ligue 1 | Marseille | xG 1.80-4.33
+2026-09-17 A 1-4 v Beşiktaş | UEFA Europa League | Istanbul
+2026-09-11 A 0-1 v Rennes | Ligue 1 | Rennes | xG 1.34-1.88
+2026-09-06 H 2-3 v Paris FC | Ligue 1 | Marseille | xG 1.42-3.29
+2026-08-30 A 0-2 v Monaco | Ligue 1 | Monaco
+2026-08-21 H 4-0 v Strasbourg | Ligue 1 | Marseille
+2026-08-14 H 1-2 v Atletico Madrid | Friendlies Clubs | ?
+2026-08-09 H 3-1 v Athletic Club | Friendlies Clubs | ?
+2026-07-30 H 2-1 v Nimes | Friendlies Clubs | ?
+2026-07-25 H 0-3 v Nice | Friendlies Clubs | ?
+2026-05-17 H 3-1 v Rennes | Ligue 1 | Marseille
+2026-05-10 A 1-0 v Le Havre | Ligue 1 | Le Havre
+2026-05-02 A 0-3 v Nantes | Ligue 1 | Nantes
+2026-04-26 H 1-1 v Nice | Ligue 1 | Marseille
+Listed home: 12 games, scored 23 (1.92), conceded 18 (1.50), blanks 2, clean sheets 2
+Listed away: 8 games, scored 9 (1.12), conceded 13 (1.62), blanks 4, clean sheets 2
+All: 20 games, scored 32 (1.60), conceded 31 (1.55), blanks 6, clean sheets 4
+
+TABLE FOR Bayer Leverkusen
+LEAGUE TABLE Bundesliga 2026 | 18 teams | 72 games played
+League averages per game: home 2.12, away 1.38, total 3.50
+#   team                   Pts | home P GF-GA  | away P GF-GA  | all P GF-GA
+1   Bayern München          18 |  4  20-4       |  4   7-4       |  8  27-8
+2   Borussia Dortmund       18 |  4   8-2       |  4   6-4       |  8  14-6
+3   SC Freiburg             16 |  4  12-5       |  4   6-5       |  8  18-10
+4   RB Leipzig              15 |  4  18-0       |  4   4-11      |  8  22-11
+5   Werder Bremen           15 |  4  10-5       |  4   7-9       |  8  17-14
+6   Bayer Leverkusen        13 |  4  10-5       |  4   8-11      |  8  18-16
+7   SV Elversberg           13 |  4  12-8       |  4   4-8       |  8  16-16
+8   Eintracht Frankfurt     11 |  4   7-7       |  4   6-11      |  8  13-18
+9   FSV Mainz 05            10 |  4   6-10      |  4  11-7       |  8  17-17
+10  FC Augsburg              9 |  5   9-7       |  3   9-8       |  8  18-15
+11  VfB Stuttgart            9 |  3   6-5       |  5   8-10      |  8  14-15
+12  1899 Hoffenheim          9 |  4   9-7       |  4   5-9       |  8  14-16
+13  1. FC Köln               9 |  4   6-4       |  4   3-8       |  8   9-12
+14  SC Paderborn 07          9 |  4   4-4       |  4   2-5       |  8   6-9
+15  Hamburger SV             9 |  3   3-6       |  5   4-13      |  8   7-19
+16  Union Berlin             7 |  5   6-7       |  3   1-12      |  8   7-19
+17  FC Schalke 04            6 |  4   0-3       |  4   4-6       |  8   4-9
+18  Borussia Mönchengladba   4 |  4   7-10      |  4   4-12      |  8  11-22
+
+TABLE FOR Marseille
+LEAGUE TABLE Ligue 1 2026 | 18 teams | 81 games played
+League averages per game: home 1.70, away 1.33, total 3.04
+#   team                   Pts | home P GF-GA  | away P GF-GA  | all P GF-GA
+1   Paris Saint Germain     20 |  3   6-3       |  6  15-7       |  9  21-10
+2   Lille                   18 |  5   7-3       |  4   5-3       |  9  12-6
+3   Lyon                    17 |  5  12-3       |  4   3-4       |  9  15-7
+4   Paris FC                17 |  5  12-5       |  4   4-5       |  9  16-10
+5   Rennes                  16 |  5  13-5       |  4   7-14      |  9  20-19
+6   Marseille               15 |  5  13-8       |  4   7-5       |  9  20-13
+7   Monaco                  15 |  4   7-4       |  5   5-6       |  9  12-10
+8   Nice                    14 |  5  10-5       |  4   3-7       |  9  13-12
+9   Lens                    13 |  4   9-5       |  5   7-8       |  9  16-13
+10  Stade Brestois 29       12 |  4   8-6       |  5   8-6       |  9  16-12
+11  Lorient                 12 |  5   5-6       |  4   2-2       |  9   7-8
+12  Toulouse                10 |  4   3-5       |  5   9-8       |  9  12-13
+13  Strasbourg              10 |  4   9-6       |  5   8-13      |  9  17-19
+14  Auxerre                 10 |  4   5-5       |  5   8-18      |  9  13-23
+15  Angers                   8 |  5   5-9       |  4   4-8       |  9   9-17
+16  Estac Troyes             8 |  5   5-11      |  4   2-5       |  9   7-16
+17  Le Mans                  7 |  4   6-8       |  5   5-10      |  9  11-18
+18  Le Havre                 2 |  5   3-11      |  4   6-9       |  9   9-20
+
+(25 API-Football requests used)
+
+----------------------------------------------------------------------
+MATCHBOOK: skipped (switched off for this run)

@@ -1,0 +1,61 @@
+MATCH Celta Vigo v Union St. Gilloise | fetched 2026-11-05 06:43 local
+
+FORM DATA Celta Vigo v Union St. Gilloise | source API-Football | 2026-11-05 06:44 UTC
+H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
+
+=== Celta Vigo (id 538): last 20 finished games ===
+2026-10-31 A 0-3 v Rayo Vallecano | La Liga | Madrid | xG 1.41-1.13
+2026-10-25 H 0-0 v Real Betis | La Liga | Vigo | xG 0.76-1.15
+2026-10-22 A 2-1 v Celtic | UEFA Europa League | Glasgow | xG 1.36-0.56
+2026-10-18 H 2-1 v Alaves | La Liga | Vigo | xG 0.97-1.06
+2026-10-15 H 1-2 v Juventus | UEFA Europa League | Vigo | xG 1.08-1.95
+2026-10-11 A 0-0 v Elche | La Liga | Elche | xG 0.47-0.78
+2026-09-19 H 5-0 v Racing Santander | La Liga | Vigo | xG 2.14-0.75
+2026-09-16 A 0-1 v Omonia Nicosia | UEFA Europa League | Nicosia | xG 1.17-0.32
+2026-09-13 H 1-1 v Malaga | La Liga | Vigo | xG 1.90-0.43
+2026-09-07 A 1-1 v Getafe | La Liga | Getafe | xG 1.03-0.65
+2026-09-03 A 0-0 v Real Sociedad | La Liga | San Sebastian
+2026-08-30 H 0-2 v Athletic Club | La Liga | Vigo
+2026-08-27 H 1-2 v Osasuna | La Liga | Vigo
+2026-08-22 A 0-0 v Valencia | La Liga | Valencia
+2026-08-08 A 1-1 v Napoli | Friendlies Clubs | ?
+2026-08-05 A 4-1 v Sassuolo | Friendlies Clubs | ?
+2026-07-29 H 2-2 v Academico Viseu | Friendlies Clubs | ?
+2026-07-25 H 1-0 v Sporting Gijon | Friendlies Clubs | ?
+2026-07-18 A 2-2 v SC Braga | Friendlies Clubs | Braga
+2026-05-23 H 1-0 v Sevilla | La Liga | Vigo
+Listed home: 10 games, scored 14 (1.40), conceded 10 (1.00), blanks 2, clean sheets 4
+Listed away: 10 games, scored 10 (1.00), conceded 10 (1.00), blanks 5, clean sheets 3
+All: 20 games, scored 24 (1.20), conceded 20 (1.00), blanks 7, clean sheets 7
+
+!! Union St. Gilloise: API-Football error: {"search": "The Search field may only contain alpha-numeric characters and spaces."}
+
+TABLE FOR Celta Vigo
+LEAGUE TABLE La Liga 2026 | 20 teams | 109 games played
+League averages per game: home 1.71, away 1.30, total 3.01
+#   team                   Pts | home P GF-GA  | away P GF-GA  | all P GF-GA
+1   Barcelona               30 |  6  24-7       |  5  22-5       | 11  46-12
+2   Atletico Madrid         28 |  5  11-3       |  6  11-5       | 11  22-8
+3   Real Madrid             27 |  5  17-3       |  6  11-7       | 11  28-10
+4   Real Betis              23 |  6  12-8       |  5   6-7       | 11  18-15
+5   Real Sociedad           19 |  5   7-7       |  6  13-13      | 11  20-20
+6   Sevilla                 17 |  5   7-7       |  6  10-12      | 11  17-19
+7   Athletic Club           15 |  6  11-5       |  4   3-5       | 10  14-10
+8   Deportivo La Coruna     14 |  6   8-6       |  5   7-8       | 11  15-14
+9   Villarreal              12 |  5   6-7       |  6   9-8       | 11  15-15
+10  Celta Vigo              12 |  6   9-6       |  5   1-4       | 11  10-10
+11  Alaves                  12 |  6  11-6       |  5   4-11      | 11  15-17
+12  Rayo Vallecano          12 |  5   9-7       |  5   6-13      | 10  15-20
+13  Getafe                  12 |  6   8-4       |  5   0-12      | 11   8-16
+14  Espanyol                11 |  5   6-7       |  6   7-7       | 11  13-14
+15  Osasuna                 11 |  5   4-3       |  6   7-19      | 11  11-22
+16  Racing Santander        11 |  6  11-11      |  5   4-18      | 11  15-29
+17  Elche                   10 |  5   4-12      |  6  10-6       | 11  14-18
+18  Levante                 10 |  5  13-12      |  6   3-9       | 11  16-21
+19  Valencia                 9 |  6   3-11      |  5   5-6       | 11   8-17
+20  Malaga                   5 |  5   5-10      |  6   3-11      | 11   8-21
+
+(13 API-Football requests used)
+
+----------------------------------------------------------------------
+MATCHBOOK: skipped (switched off for this run)

@@ -1,0 +1,108 @@
+MATCH AZ Alkmaar v Juventus | fetched 2026-11-05 06:43 local
+
+FORM DATA AZ Alkmaar v Juventus | source API-Football | 2026-11-05 06:43 UTC
+H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
+
+=== AZ Alkmaar (id 201): last 20 finished games ===
+2026-10-31 A 0-1 v Ajax | Eredivisie | Amsterdam | xG 2.32-0.77
+2026-10-25 H 0-2 v Twente | Eredivisie | Alkmaar | xG 1.24-2.04
+2026-10-22 A 4-0 v Ararat-Armenia | UEFA Europa League | Yerevan | xG 1.89-0.43
+2026-10-18 A 2-2 v Cambuur | Eredivisie | Leeuwarden | xG 1.56-1.53
+2026-10-15 H 2-1 v Hapoel Beer Sheva | UEFA Europa League | Alkmaar | xG 2.75-1.09
+2026-10-10 A 0-2 v Feyenoord | Eredivisie | Rotterdam | xG 0.77-2.30
+2026-09-20 H 1-0 v Telstar | Eredivisie | Alkmaar | xG 2.35-0.10
+2026-09-16 A 0-1 v Sunderland | UEFA Europa League | Sunderland | xG 1.49-2.90
+2026-09-11 H 1-1 v Willem II | Eredivisie | Alkmaar | xG 2.48-0.93
+2026-09-06 A 3-2 v Heerenveen | Eredivisie | Heerenveen | xG 1.04-1.48
+2026-08-29 H 5-2 v GO Ahead Eagles | Eredivisie | Alkmaar
+2026-08-22 A 2-0 v Fortuna Sittard | Eredivisie | Sittard
+2026-08-15 A 4-1 v Utrecht | Eredivisie | Utrecht
+2026-08-08 H 2-0 v ADO Den Haag | Eredivisie | Alkmaar
+2026-08-02 A 4-0 v PSV Eindhoven | Super Cup | Eindhoven
+2026-07-25 H 3-2 v Olympiakos Piraeus | Friendlies Clubs | ?
+2026-07-22 H 4-0 v Genk | Friendlies Clubs | ?
+2026-07-18 A 1-1 v Zulte Waregem | Friendlies Clubs | ?
+2026-07-15 H 0-1 v Anderlecht | Friendlies Clubs | ?
+2026-07-11 H 2-1 v Almere City FC | Friendlies Clubs | ?
+Listed home: 10 games, scored 20 (2.00), conceded 10 (1.00), blanks 2, clean sheets 3
+Listed away: 10 games, scored 20 (2.00), conceded 10 (1.00), blanks 3, clean sheets 3
+All: 20 games, scored 40 (2.00), conceded 20 (1.00), blanks 5, clean sheets 6
+
+"Juventus" matches several teams. Use id:<number> instead of the name:
+  id:496    Juventus (Italy)
+  id:1715   Juventus U23 (Italy)
+  id:1886   Juventus W (Italy)
+  id:2587   Juventus Bucuresti (Romania)
+  id:4406   Juventus Sainte-Anne (Guadeloupe)
+  id:4446   Juventus (Haiti)
+  id:4643   Juventus Managua (Nicaragua)
+  id:6652   YF Juventus (Switzerland)
+  id:7904   Juventus U19 (Italy)
+  id:8520   Juventus Malchika (Bulgaria)
+  id:10019  Juventus (Brazil)
+  id:12168  Juventus Managua U20 (Nicaragua)
+  id:12912  Juventus SC (Brazil)
+  id:13021  Juventus U20 (Brazil)
+  id:13688  Juventus Papus (France)
+  id:23517  Canberra Juventus (Australia)
+  id:23732  Juventus CE U20 (Brazil)
+  id:24744  Juventus U20 (Italy)
+  id:25251  Juventus Huamachuco (Peru)
+  id:25964  Juventus RJ (Brazil)
+  id:26488  Juventus FC Minas Novas (Brazil)
+  id:26593  Juventus U21 (Italy)
+  id:27510  Brunswick Juventus FC (Australia)
+(retrying Juventus using the opponent's country, Netherlands)
+"Juventus" matches several teams. Use id:<number> instead of the name:
+  id:496    Juventus (Italy)
+  id:1715   Juventus U23 (Italy)
+  id:1886   Juventus W (Italy)
+  id:2587   Juventus Bucuresti (Romania)
+  id:4406   Juventus Sainte-Anne (Guadeloupe)
+  id:4446   Juventus (Haiti)
+  id:4643   Juventus Managua (Nicaragua)
+  id:6652   YF Juventus (Switzerland)
+  id:7904   Juventus U19 (Italy)
+  id:8520   Juventus Malchika (Bulgaria)
+  id:10019  Juventus (Brazil)
+  id:12168  Juventus Managua U20 (Nicaragua)
+  id:12912  Juventus SC (Brazil)
+  id:13021  Juventus U20 (Brazil)
+  id:13688  Juventus Papus (France)
+  id:23517  Canberra Juventus (Australia)
+  id:23732  Juventus CE U20 (Brazil)
+  id:24744  Juventus U20 (Italy)
+  id:25251  Juventus Huamachuco (Peru)
+  id:25964  Juventus RJ (Brazil)
+  id:26488  Juventus FC Minas Novas (Brazil)
+  id:26593  Juventus U21 (Italy)
+  id:27510  Brunswick Juventus FC (Australia)
+!! Juventus: Ambiguous team name "Juventus".
+
+TABLE FOR AZ Alkmaar
+LEAGUE TABLE Eredivisie 2026 | 18 teams | 99 games played
+League averages per game: home 1.81, away 2.01, total 3.82
+#   team                   Pts | home P GF-GA  | away P GF-GA  | all P GF-GA
+1   Feyenoord               25 |  5  12-5       |  6  21-7       | 11  33-12
+2   Ajax                    24 |  6  12-9       |  5  18-4       | 11  30-13
+3   PSV Eindhoven           23 |  6  21-5       |  5  14-8       | 11  35-13
+4   Twente                  23 |  5  10-5       |  6  18-5       | 11  28-10
+5   AZ Alkmaar              20 |  5   9-5       |  6  11-8       | 11  20-13
+6   Fortuna Sittard         19 |  5   6-9       |  6  12-9       | 11  18-18
+7   Heerenveen              18 |  6   8-5       |  5  11-8       | 11  19-13
+8   Groningen               15 |  6  13-14      |  5  13-10      | 11  26-24
+9   Cambuur                 15 |  6  12-15      |  5  11-7       | 11  23-22
+10  GO Ahead Eagles         14 |  5  14-8       |  6   9-19      | 11  23-27
+11  Sparta Rotterdam        12 |  6   9-14      |  5  11-12      | 11  20-26
+12  Utrecht                 12 |  5   9-15      |  6  10-16      | 11  19-31
+13  NEC Nijmegen            11 |  6   9-12      |  5   8-7       | 11  17-19
+14  PEC Zwolle              11 |  6   6-14      |  5   6-9       | 11  12-23
+15  Excelsior               11 |  5   5-19      |  6  11-9       | 11  16-28
+16  Telstar                  9 |  6  12-17      |  5   4-6       | 11  16-23
+17  ADO Den Haag             6 |  5   8-12      |  6   5-12      | 11  13-24
+18  Willem II                2 |  5   4-16      |  6   6-23      | 11  10-39
+
+(15 API-Football requests used)
+
+----------------------------------------------------------------------
+MATCHBOOK: skipped (switched off for this run)

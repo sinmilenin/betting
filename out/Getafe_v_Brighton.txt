@@ -1,0 +1,61 @@
+MATCH Getafe v Brighton | fetched 2026-11-05 06:43 local
+
+FORM DATA Getafe v Brighton | source API-Football | 2026-11-05 06:44 UTC
+H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
+
+=== Getafe (id 546): last 20 finished games ===
+2026-11-01 H 3-1 v Sevilla | La Liga | Getafe
+2026-10-29 A 3-2 v Lebrijana | Copa del Rey | ?
+2026-10-25 A 0-4 v Athletic Club | La Liga | Bilbao
+2026-10-22 H 2-5 v FC Lugano | UEFA Europa Conference League | Getafe
+2026-10-19 H 1-1 v Rayo Vallecano | La Liga | Getafe
+2026-10-15 A 1-1 v Universitatea Craiova | UEFA Europa Conference League | Craiova
+2026-10-10 A 0-3 v Barcelona | La Liga | Barcelona
+2026-09-20 H 1-0 v Malaga | La Liga | Getafe
+2026-09-17 A 0-1 v Real Betis | La Liga | Seville
+2026-09-13 H 1-1 v Deportivo La Coruna | La Liga | Getafe
+2026-09-07 H 1-1 v Celta Vigo | La Liga | Getafe
+2026-08-31 A 0-1 v Osasuna | La Liga | Pamplona
+2026-08-27 A 1-2 v FK Partizan | UEFA Europa Conference League | Belgrade
+2026-08-23 H 1-0 v Racing Santander | La Liga | Getafe
+2026-08-20 H 3-1 v FK Partizan | UEFA Europa Conference League | Getafe
+2026-08-15 A 0-3 v Alaves | La Liga | Vitoria-Gasteiz
+2026-08-08 A 1-1 v Tottenham | Friendlies Clubs | London
+2026-08-06 A 0-1 v Monaco | Friendlies Clubs | ?
+2026-07-29 A 1-4 v Atletico Madrid | Friendlies Clubs | Majadahonda
+2026-07-25 A 0-0 v Valladolid | Friendlies Clubs | ?
+Listed home: 8 games, scored 13 (1.62), conceded 10 (1.25), blanks 0, clean sheets 2
+Listed away: 12 games, scored 7 (0.58), conceded 23 (1.92), blanks 7, clean sheets 1
+All: 20 games, scored 20 (1.00), conceded 33 (1.65), blanks 7, clean sheets 3
+
+!! Brighton: API-Football error: HTTP 429 from API-Football
+
+TABLE FOR Getafe
+LEAGUE TABLE La Liga 2026 | 20 teams | 109 games played
+League averages per game: home 1.71, away 1.30, total 3.01
+#   team                   Pts | home P GF-GA  | away P GF-GA  | all P GF-GA
+1   Barcelona               30 |  6  24-7       |  5  22-5       | 11  46-12
+2   Atletico Madrid         28 |  5  11-3       |  6  11-5       | 11  22-8
+3   Real Madrid             27 |  5  17-3       |  6  11-7       | 11  28-10
+4   Real Betis              23 |  6  12-8       |  5   6-7       | 11  18-15
+5   Real Sociedad           19 |  5   7-7       |  6  13-13      | 11  20-20
+6   Sevilla                 17 |  5   7-7       |  6  10-12      | 11  17-19
+7   Athletic Club           15 |  6  11-5       |  4   3-5       | 10  14-10
+8   Deportivo La Coruna     14 |  6   8-6       |  5   7-8       | 11  15-14
+9   Villarreal              12 |  5   6-7       |  6   9-8       | 11  15-15
+10  Celta Vigo              12 |  6   9-6       |  5   1-4       | 11  10-10
+11  Alaves                  12 |  6  11-6       |  5   4-11      | 11  15-17
+12  Rayo Vallecano          12 |  5   9-7       |  5   6-13      | 10  15-20
+13  Getafe                  12 |  6   8-4       |  5   0-12      | 11   8-16
+14  Espanyol                11 |  5   6-7       |  6   7-7       | 11  13-14
+15  Osasuna                 11 |  5   4-3       |  6   7-19      | 11  11-22
+16  Racing Santander        11 |  6  11-11      |  5   4-18      | 11  15-29
+17  Elche                   10 |  5   4-12      |  6  10-6       | 11  14-18
+18  Levante                 10 |  5  13-12      |  6   3-9       | 11  16-21
+19  Valencia                 9 |  6   3-11      |  5   5-6       | 11   8-17
+20  Malaga                   5 |  5   5-10      |  6   3-11      | 11   8-21
+
+(2 API-Football requests used)
+
+----------------------------------------------------------------------
+MATCHBOOK: skipped (switched off for this run)

@@ -1,0 +1,60 @@
+MATCH FC Copenhagen v Iberia 1999 | fetched 2026-11-05 06:43 local
+
+FORM DATA FC Copenhagen v Iberia 1999 | source API-Football | 2026-11-05 06:44 UTC
+H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
+
+=== FC Copenhagen (id 400): last 20 finished games ===
+2026-11-02 A 2-0 v Sonderjyske | Superliga | Hadeslev | xG 1.38-0.31
+2026-10-29 A 3-0 v Aarhus Fremad | DBU Pokalen | Aarhus
+2026-10-26 H 1-1 v Odense | Superliga | Copenhagen | xG 2.46-0.47
+2026-10-22 A 2-2 v FK Crvena Zvezda | UEFA Europa Conference League | Belgrade | xG 0.53-0.78
+2026-10-18 H 1-1 v Aarhus | Superliga | Copenhagen | xG 2.01-0.94
+2026-10-15 H 3-0 v SC Braga | UEFA Europa Conference League | Copenhagen | xG 1.56-0.55
+2026-10-11 A 1-2 v FC Midtjylland | Superliga | Herning | xG 1.67-1.62
+2026-10-04 A 0-2 v Hamburger SV | Friendlies Clubs | ?
+2026-09-20 A 1-0 v Brondby | Superliga | Brondby | xG 2.27-0.71
+2026-09-15 A 3-0 v Skovshoved | DBU Pokalen | ?
+2026-09-11 H 2-0 v AC Horsens | Superliga | Copenhagen
+2026-09-06 A 5-0 v Odense | Superliga | Odense
+2026-09-03 H 2-0 v FC Nordsjaelland | Superliga | Copenhagen
+2026-08-31 H 3-1 v Sonderjyske | Superliga | Copenhagen
+2026-08-27 H 4-1 v Inter Turku | UEFA Europa Conference League | Copenhagen
+2026-08-23 A 0-4 v Viborg | Superliga | Viborg
+2026-08-20 A 0-0 v Inter Turku | UEFA Europa Conference League | Turku
+2026-08-16 A 4-0 v Randers FC | Superliga | Randers
+2026-08-12 H 5-1 v Debreceni VSC | UEFA Europa Conference League | Copenhagen
+2026-08-06 A 3-0 v Debreceni VSC | UEFA Europa Conference League | Debrecen
+Listed home: 8 games, scored 21 (2.62), conceded 5 (0.62), blanks 0, clean sheets 3
+Listed away: 12 games, scored 24 (2.00), conceded 10 (0.83), blanks 3, clean sheets 8
+All: 20 games, scored 45 (2.25), conceded 15 (0.75), blanks 3, clean sheets 11
+
+"Iberia 1999" matches several teams. Use id:<number> instead of the name:
+  id:3502   FC Iberia 1999 (Georgia)
+  id:14863  FC Iberia 1999 II (Georgia)
+(retrying Iberia 1999 using the opponent's country, Denmark)
+"Iberia 1999" matches several teams. Use id:<number> instead of the name:
+  id:3502   FC Iberia 1999 (Georgia)
+  id:14863  FC Iberia 1999 II (Georgia)
+!! Iberia 1999: Ambiguous team name "Iberia 1999".
+
+TABLE FOR FC Copenhagen
+LEAGUE TABLE Superliga 2026 | 12 teams | 78 games played
+League averages per game: home 1.67, away 1.40, total 3.06
+#   team                   Pts | home P GF-GA  | away P GF-GA  | all P GF-GA
+1   FC Midtjylland          31 |  6  14-7       |  7  13-8       | 13  27-15
+2   FC Copenhagen           29 |  6  12-5       |  7  16-7       | 13  28-12
+3   Viborg                  23 |  7  13-6       |  6   7-6       | 13  20-12
+4   Brondby                 22 |  7  14-9       |  6   9-11      | 13  23-20
+5   FC Nordsjaelland        20 |  6   9-4       |  7  11-13      | 13  20-17
+6   Odense                  17 |  6   9-10      |  7   6-7       | 13  15-17
+7   AC Horsens              16 |  7  12-10      |  6  11-11      | 13  23-21
+8   Aarhus                  12 |  6  10-8       |  7   7-13      | 13  17-21
+9   Silkeborg               12 |  6   8-9       |  7   9-15      | 13  17-24
+10  Randers FC              11 |  7   7-13      |  6   6-8       | 13  13-21
+11  Lyngby                  11 |  7  10-13      |  6   9-15      | 13  19-28
+12  Sonderjyske              8 |  7  12-15      |  6   5-16      | 13  17-31
+
+(15 API-Football requests used)
+
+----------------------------------------------------------------------
+MATCHBOOK: skipped (switched off for this run)

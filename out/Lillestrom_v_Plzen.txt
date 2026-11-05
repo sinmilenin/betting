@@ -1,0 +1,101 @@
+MATCH Lillestrom v Plzen | fetched 2026-11-05 06:43 local
+
+FORM DATA Lillestrom v Plzen | source API-Football | 2026-11-05 06:44 UTC
+H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
+
+=== Lillestrom (id 321): last 20 finished games ===
+2026-11-01 A 1-0 v Start | Eliteserien | Kristiansand | xG 2.10-1.37
+2026-10-28 H 2-1 v Sogndal | NM Cupen | ?
+2026-10-25 H 3-2 v Brann | Eliteserien | Lillestrom | xG 2.55-1.48
+2026-10-22 H 0-6 v Real Sociedad | UEFA Europa League | Lillestrom | xG 2.29-2.46
+2026-10-18 A 2-0 v Sandefjord | Eliteserien | Sandefjord | xG 0.51-1.35
+2026-10-15 A 1-1 v Sparta Praha | UEFA Europa League | Prague | xG 0.84-1.12
+2026-10-11 H 2-2 v Molde | Eliteserien | Lillestrom | xG 1.63-2.95
+2026-10-01 A 5-1 v Bærum | NM Cupen | ?
+2026-09-20 A 0-3 v Viking | Eliteserien | Stavanger | xG 1.77-2.98
+2026-09-17 H 1-2 v Torreense | UEFA Europa League | Lillestrom
+2026-09-12 H 2-0 v Valerenga | Eliteserien | Lillestrøm
+2026-09-05 A 2-1 v Brann | Eliteserien | Bergen
+2026-09-02 A 3-0 v Aurskog Finstadbru | NM Cupen | ?
+2026-08-30 H 1-4 v Fredrikstad | Eliteserien | Lillestrøm
+2026-08-27 H 1-1 v Egnatia Rrogozhinë | UEFA Europa League | Lillestrøm [AET, 90-min score shown]
+2026-08-20 A 0-0 v Egnatia Rrogozhinë | UEFA Europa League | Rrogozhine
+2026-08-15 A 1-1 v KFUM Oslo | Eliteserien | Oslo
+2026-08-09 H 0-2 v Rosenborg | Eliteserien | Lillestrøm
+2026-07-31 A 0-4 v Bodo/Glimt | Eliteserien | Bodø
+2026-07-22 H 1-2 v Viking | Eliteserien | Lillestrøm
+Listed home: 10 games, scored 13 (1.30), conceded 22 (2.20), blanks 2, clean sheets 1
+Listed away: 10 games, scored 15 (1.50), conceded 11 (1.10), blanks 3, clean sheets 4
+All: 20 games, scored 28 (1.40), conceded 33 (1.65), blanks 5, clean sheets 5
+
+=== Plzen (id 567): last 20 finished games ===
+2026-11-01 A 4-0 v Baník Ostrava | Czech Liga | Ostrava | xG 2.82-0.48
+2026-10-28 A 6-1 v Vysočina Jihlava | Cup | Jihlava
+2026-10-25 H 1-2 v Pardubice | Czech Liga | Pilsner | xG 2.70-1.05
+2026-10-22 H 1-2 v Levski Sofia | UEFA Europa League | Pilsner | xG 1.09-1.06
+2026-10-18 A 3-2 v FK Jablonec | Czech Liga | Jablonec | xG 1.11-3.16
+2026-10-15 A 1-2 v Ferencvarosi TC | UEFA Europa League | Budapest | xG 1.99-2.38
+2026-10-10 H 3-0 v Mlada Boleslav | Czech Liga | Plzen | xG 2.75-1.57
+2026-09-20 A 1-2 v Slavia Praha | Czech Liga | Prague | xG 0.82-1.88
+2026-09-17 H 0-3 v Union St. Gilloise | UEFA Europa League | Pilsner
+2026-09-13 H 2-3 v Sigma Olomouc | Czech Liga | Plzen | xG 2.25-0.60
+2026-09-09 A 0-0 v Hradec Králové | Czech Liga | Hradec Kralove
+2026-09-05 A 3-0 v Artis | Czech Liga | Brno
+2026-08-30 H 1-1 v Slovácko | Czech Liga | Plzen
+2026-08-27 H 4-1 v FK Crvena Zvezda | UEFA Europa League | Plzen [AET, 90-min score shown]
+2026-08-20 A 0-3 v FK Crvena Zvezda | UEFA Europa League | Belgrade
+2026-08-15 H 3-2 v Zlin | Czech Liga | Plzen
+2026-08-08 A 5-5 v Teplice | Czech Liga | Teplice
+2026-08-01 H 1-1 v Zbrojovka Brno | Czech Liga | Plzen
+2026-07-25 H 1-3 v Slovan Liberec | Czech Liga | Plzen
+2026-07-14 H 2-0 v Polessya | Friendlies Clubs | ?
+Listed home: 11 games, scored 19 (1.73), conceded 18 (1.64), blanks 1, clean sheets 2
+Listed away: 9 games, scored 23 (2.56), conceded 15 (1.67), blanks 2, clean sheets 3
+All: 20 games, scored 42 (2.10), conceded 33 (1.65), blanks 3, clean sheets 5
+
+TABLE FOR Lillestrom
+LEAGUE TABLE Eliteserien 2026 | 16 teams | 200 games played
+League averages per game: home 1.85, away 1.41, total 3.26
+#   team                   Pts | home P GF-GA  | away P GF-GA  | all P GF-GA
+1   Viking                  59 | 12  44-13      | 13  20-13      | 25  64-26
+2   Bodo/Glimt              59 | 13  37-10      | 12  24-13      | 25  61-23
+3   Molde                   43 | 13  35-15      | 12  24-24      | 25  59-39
+4   Rosenborg               43 | 12  28-14      | 13  21-17      | 25  49-31
+5   Lillestrom              42 | 12  22-19      | 13  14-14      | 25  36-33
+6   Tromso                  40 | 12  22-10      | 13  21-28      | 25  43-38
+7   Brann                   32 | 13  23-20      | 12  22-22      | 25  45-42
+8   Valerenga               32 | 13  27-20      | 12  16-26      | 25  43-46
+9   Sarpsborg 08 FF         31 | 13  16-20      | 12  16-19      | 25  32-39
+10  KFUM Oslo               31 | 13  17-16      | 12  15-25      | 25  32-41
+11  Fredrikstad             29 | 12  14-15      | 13  15-29      | 25  29-44
+12  Sandefjord              27 | 12  10-12      | 13  16-22      | 25  26-34
+13  Ham-Kam                 27 | 12  17-24      | 13  18-29      | 25  35-53
+14  Aalesund                24 | 13  27-34      | 12  16-23      | 25  43-57
+15  Kristiansund BK         23 | 12  16-20      | 13  13-31      | 25  29-51
+16  Start                   19 | 13  15-20      | 12  11-35      | 25  26-55
+
+TABLE FOR Plzen
+LEAGUE TABLE Czech Liga 2026 | 16 teams | 103 games played
+League averages per game: home 1.44, away 1.31, total 2.75
+#   team                   Pts | home P GF-GA  | away P GF-GA  | all P GF-GA
+1   Slavia Praha            31 |  7  16-6       |  6  16-1       | 13  32-7
+2   Mlada Boleslav          24 |  6  14-2       |  7   8-13      | 13  22-15
+3   Sigma Olomouc           24 |  6  12-6       |  7  10-9       | 13  22-15
+4   Sparta Praha            23 |  6  16-6       |  7   9-7       | 13  25-13
+5   Slovan Liberec          23 |  5   6-4       |  7   9-4       | 12  15-8
+6   Teplice                 21 |  7  11-11      |  6  10-7       | 13  21-18
+7   FK Jablonec             20 |  7  10-12      |  6   6-6       | 13  16-18
+8   Bohemians 1905          20 |  6   5-1       |  7  10-13      | 13  15-14
+9   Zbrojovka Brno          20 |  7  11-8       |  6   5-11      | 13  16-19
+10  Plzen                   19 |  7  12-12      |  6  16-9       | 13  28-21
+11  Hradec Králové          15 |  7   9-11      |  6   3-7       | 13  12-18
+12  Pardubice               14 |  6   8-8       |  7   7-11      | 13  15-19
+13  Baník Ostrava           11 |  6   3-10      |  6   4-12      | 12   7-22
+14  Artis                   10 |  7   6-17      |  6   8-7       | 13  14-24
+15  Slovácko                 7 |  6   6-10      |  7   6-16      | 13  12-26
+16  Zlin                     3 |  7   3-11      |  6   8-15      | 13  11-26
+
+(25 API-Football requests used)
+
+----------------------------------------------------------------------
+MATCHBOOK: skipped (switched off for this run)

@@ -1,0 +1,101 @@
+MATCH Levski Sofia v Jagiellonia | fetched 2026-11-05 06:43 local
+
+FORM DATA Levski Sofia v Jagiellonia | source API-Football | 2026-11-05 06:44 UTC
+H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
+
+=== Levski Sofia (id 646): last 20 finished games ===
+2026-10-31 A 1-0 v Dunav Ruse | First League | Ruse
+2026-10-27 A 1-1 v Arda Kardzhali | First League | Kerdjali
+2026-10-22 A 2-1 v Plzen | UEFA Europa League | Pilsner | xG 1.06-1.09
+2026-10-18 A 2-0 v Spartak Pleven | Cup | ?
+2026-10-15 A 1-1 v NEC Nijmegen | UEFA Europa League | Nijmegen | xG 1.39-2.06
+2026-10-11 A 2-0 v Cherno More Varna | First League | Varna
+2026-09-17 H 0-1 v Red Bull Salzburg | UEFA Europa League | Sophia
+2026-09-13 A 0-0 v Botev Vratsa | First League | Vraca
+2026-09-09 H 2-4 v CSKA Sofia | Super Cup | Sofia
+2026-09-05 H 1-0 v CSKA 1948 | First League | Sofia
+2026-09-02 A 2-1 v Slavia Sofia | First League | Sofia
+2026-08-30 A 3-1 v Botev Plovdiv | First League | Plovdiv
+2026-08-26 A 0-4 v AEK Athens FC | UEFA Champions League | Athens
+2026-08-22 H 6-0 v Spartak Varna | First League | Sofia
+2026-08-18 H 0-0 v AEK Athens FC | UEFA Champions League | Sofia
+2026-08-11 A 1-0 v Kairat Almaty | UEFA Champions League | Turkistan
+2026-08-07 H 2-0 v Lokomotiv Plovdiv | First League | Sofia
+2026-08-04 H 1-0 v Kairat Almaty | UEFA Champions League | Sofia
+2026-08-01 H 3-0 v Septemvri Sofia | First League | Sofia
+2026-07-29 A 2-2 v Universitatea Craiova | UEFA Champions League | Craiova
+Listed home: 8 games, scored 15 (1.88), conceded 5 (0.62), blanks 2, clean sheets 6
+Listed away: 12 games, scored 17 (1.42), conceded 11 (0.92), blanks 2, clean sheets 5
+All: 20 games, scored 32 (1.60), conceded 16 (0.80), blanks 4, clean sheets 11
+
+=== Jagiellonia (id 336): last 20 finished games ===
+2026-10-31 A 3-1 v Wieczysta Kraków | Ekstraklasa | ? | xG 3.60-2.21
+2026-10-28 A 6-0 v Lechia Gdansk | Cup | Gdansk
+2026-10-25 H 1-0 v Wisla Plock | Ekstraklasa | Bialystok | xG 1.73-0.95
+2026-10-22 H 0-3 v Anderlecht | UEFA Europa League | Bialystok | xG 0.40-1.02
+2026-10-18 A 0-1 v Zaglebie Lubin | Ekstraklasa | Lubin | xG 1.43-1.93
+2026-10-15 H 3-1 v Ararat-Armenia | UEFA Europa League | Bialystok | xG 2.10-1.02
+2026-10-10 H 1-3 v Gornik Zabrze | Ekstraklasa | Bialystok | xG 0.59-2.20
+2026-10-03 H 1-2 v Polonia Warszawa | Friendlies Clubs | ?
+2026-09-29 H 5-0 v Suduva Marijampole | Friendlies Clubs | ?
+2026-09-20 H 1-3 v Legia Warszawa | Ekstraklasa | Bialystok | xG 2.30-1.75
+2026-09-16 A 1-2 v Olympiakos Piraeus | UEFA Europa League | Piraeus
+2026-09-11 A 0-2 v Wisla Krakow | Ekstraklasa | Kraków
+2026-09-06 H 2-1 v Slask Wroclaw | Ekstraklasa | Bialystok
+2026-09-03 A 1-2 v Lech Poznan | Ekstraklasa | Poznan
+2026-08-30 A 5-2 v Raków Częstochowa | Ekstraklasa | Czestochowa
+2026-08-27 A 2-1 v FC Iberia 1999 | UEFA Europa League | Tbilisi
+2026-08-20 H 4-0 v FC Iberia 1999 | UEFA Europa League | Bialystok
+2026-08-13 A 1-1 v Rangers | UEFA Europa League | Glasgow
+2026-08-09 H 0-2 v Widzew Łódź | Ekstraklasa | Bialystok
+2026-08-06 H 2-1 v Rangers | UEFA Europa League | Bialystok
+Listed home: 11 games, scored 20 (1.82), conceded 16 (1.45), blanks 2, clean sheets 3
+Listed away: 9 games, scored 19 (2.11), conceded 12 (1.33), blanks 2, clean sheets 1
+All: 20 games, scored 39 (1.95), conceded 28 (1.40), blanks 4, clean sheets 4
+
+TABLE FOR Levski Sofia
+LEAGUE TABLE First League 2026 | 14 teams | 90 games played
+League averages per game: home 1.51, away 1.17, total 2.68
+#   team                   Pts | home P GF-GA  | away P GF-GA  | all P GF-GA
+1   Levski Sofia            32 |  5  14-1       |  7  11-4       | 12  25-5
+2   CSKA Sofia              31 |  7  19-5       |  6  10-4       | 13  29-9
+3   Ludogorets              29 |  6  13-3       |  6  11-6       | 12  24-9
+4   CSKA 1948               28 |  8  24-8       |  5   7-6       | 13  31-14
+5   Botev Plovdiv           22 |  6   9-6       |  7  13-14      | 13  22-20
+6   Arda Kardzhali          21 |  7  12-7       |  6   6-12      | 13  18-19
+7   Slavia Sofia            13 |  6   4-6       |  7   5-3       | 13   9-9
+8   Spartak Varna           13 |  6   5-6       |  7   7-17      | 13  12-23
+9   Cherno More Varna       12 |  7  10-11      |  6   4-11      | 13  14-22
+10  Dunav Ruse              11 |  7   6-10      |  6   9-12      | 13  15-22
+11  Botev Vratsa            10 |  5   2-5       |  8   8-17      | 13  10-22
+12  Lokomotiv Sofia          9 |  7   7-16      |  6   8-9       | 13  15-25
+13  Lokomotiv Plovdiv        9 |  7   5-8       |  6   1-9       | 13   6-17
+14  Septemvri Sofia          8 |  6   6-13      |  7   5-12      | 13  11-25
+
+TABLE FOR Jagiellonia
+LEAGUE TABLE Ekstraklasa 2026 | 18 teams | 115 games played
+League averages per game: home 1.68, away 1.30, total 2.98
+#   team                   Pts | home P GF-GA  | away P GF-GA  | all P GF-GA
+1   Lech Poznan             31 |  7  20-4       |  5  12-7       | 12  32-11
+2   Gornik Zabrze           28 |  6   9-7       |  7  12-4       | 13  21-11
+3   Legia Warszawa          24 |  6  13-5       |  7  10-6       | 13  23-11
+4   Pogon Szczecin          24 |  7  14-8       |  5   6-4       | 12  20-12
+5   Zaglebie Lubin          22 |  7   8-4       |  6   8-11      | 13  16-15
+6   GKS Katowice            21 |  6  16-7       |  7   9-12      | 13  25-19
+7   Piast Gliwice           21 |  7  17-12      |  6   7-8       | 13  24-20
+8   Wisla Krakow            21 |  6  12-4       |  7   8-14      | 13  20-18
+9   Jagiellonia             18 |  6   6-9       |  6  11-9       | 12  17-18
+10  Korona Kielce           18 |  6   7-7       |  7   7-12      | 13  14-19
+11  Motor Lublin            16 |  7   9-11      |  6  10-11      | 13  19-22
+12  Wisla Plock             15 |  5   6-5       |  7   6-13      | 12  12-18
+13  Cracovia Krakow         12 |  7  10-10      |  6   5-11      | 13  15-21
+14  Widzew Łódź             11 |  7   8-10      |  6   9-9       | 13  17-19
+15  Radomiak Radom          11 |  7  10-11      |  6   5-18      | 13  15-29
+16  Slask Wroclaw            9 |  6   9-10      |  7   8-15      | 13  17-25
+17  Raków Częstochowa        9 |  7  12-18      |  6   7-11      | 13  19-29
+18  Wieczysta Kraków         8 |  5   7-8       |  8  10-18      | 13  17-26
+
+(24 API-Football requests used)
+
+----------------------------------------------------------------------
+MATCHBOOK: skipped (switched off for this run)

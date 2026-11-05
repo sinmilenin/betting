@@ -1,0 +1,13 @@
+MATCH Trabzonspor v Freiburg | fetched 2026-11-05 06:43 local
+
+FORM DATA Trabzonspor v Freiburg | source API-Football | 2026-11-05 06:44 UTC
+H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
+
+!! Trabzonspor: API-Football error: HTTP 429 from API-Football
+
+!! Freiburg: API-Football error: HTTP 429 from API-Football
+
+(0 API-Football requests used)
+
+----------------------------------------------------------------------
+MATCHBOOK: skipped (switched off for this run)
