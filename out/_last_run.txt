@@ -1,3 +1,4 @@
-RUN 2026-11-05 06:47 local | 1 match(es)
-id:598 v id:3342 -> out/id_598_v_id_3342.txt
-Requests used: API-Football 26, Matchbook 0
+RUN 2026-11-05 07:27 local | 1 match(es)
+Lion City Sailors v Adelaide United -> out/Lion_City_Sailors_v_Adelaide_United.txt
+    !! Lion City Sailors: No team found for "Lion City Sailors".
+Requests used: API-Football 14, Matchbook 0
