@@ -1,4 +1,6 @@
-RUN 2026-11-05 12:47 local | 2 match(es)
-NEC Nijmegen v Omonia Nicosia -> out/NEC_Nijmegen_v_Omonia_Nicosia.txt
-FC Midtjylland v Ajax -> out/FC_Midtjylland_v_Ajax.txt
-Requests used: API-Football 51, Matchbook 0
+RUN 2026-11-05 14:57 local | 2 match(es)
+Mjallby v Borac Banja Luka -> out/Mjallby_v_Borac_Banja_Luka.txt
+Thun v Hearts -> out/Thun_v_Hearts.txt
+    !! Thun: Ambiguous team name "Thun".
+    !! Hearts: Ambiguous team name "Hearts".
+Requests used: API-Football 28, Matchbook 0

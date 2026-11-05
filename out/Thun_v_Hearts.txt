@@ -1,0 +1,35 @@
+MATCH Thun v Hearts | fetched 2026-11-05 14:57 local
+
+FORM DATA Thun v Hearts | source API-Football | 2026-11-05 14:57 UTC
+H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
+
+"Thun" matches several teams. Use id:<number> instead of the name:
+  id:1012   FC Thun (Switzerland)
+  id:3801   Dandenong Thunder (Australia)
+  id:4088   Thunder Bay Chill (Canada)
+  id:11196  SWQ Thunder (Australia)
+  id:13176  Binghamton Thunder (USA)
+  id:13593  Béthune (France)
+  id:16348  Thun II (Switzerland)
+  id:18153  Stade Béthunois (France)
+  id:21689  Thun W (Switzerland)
+  id:23810  Minnesota Thunder (USA)
+  id:24010  Sioux Falls Thunder (USA)
+"Hearts" matches several teams. Use id:<number> instead of the name:
+  id:6771   Hearts U21 (Scotland)
+  id:6773   Kelty Hearts (Scotland)
+  id:12249  Hearts of Oak (Ghana)
+  id:13973  Darwin Hearts (Australia)
+  id:19799  Tower Hearts (Scotland)
+  id:22023  Cupar Hearts (Scotland)
+  id:23295  Hearts W (Scotland)
+  id:24273  Northern Hearts (New-Zealand)
+  id:25486  Portland Hearts of Pine (USA)
+!! Thun: Ambiguous team name "Thun".
+
+!! Hearts: Ambiguous team name "Hearts".
+
+(2 API-Football requests used)
+
+----------------------------------------------------------------------
+MATCHBOOK: skipped (switched off for this run)
