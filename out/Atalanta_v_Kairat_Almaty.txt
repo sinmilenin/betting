@@ -1,0 +1,105 @@
+MATCH Atalanta v Kairat Almaty | fetched 2026-11-05 15:00 local
+
+FORM DATA Atalanta v Kairat Almaty | source API-Football | 2026-11-05 15:00 UTC
+H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
+
+=== Atalanta (id 499): last 20 finished games ===
+2026-11-02 H 0-3 v Parma | Serie A | Bergamo | xG 3.02-0.52
+2026-10-29 A 2-2 v Fiorentina | Serie A | Florence | xG 1.02-1.56
+2026-10-25 H 4-4 v Frosinone | Serie A | Bergamo | xG 3.88-1.95
+2026-10-22 A 0-2 v Ajax | UEFA Europa Conference League | Amsterdam | xG 0.97-1.78
+2026-10-18 A 2-3 v AC Milan | Serie A | Milan | xG 1.74-2.58
+2026-10-15 H 3-1 v Pafos | UEFA Europa Conference League | Bergamo | xG 3.47-0.91
+2026-10-12 H 3-1 v Venezia | Serie A | Bergamo | xG 2.19-2.48
+2026-09-20 A 0-2 v Juventus | Serie A | Turin | xG 0.60-1.31
+2026-09-12 H 1-2 v Cagliari | Serie A | Bergamo | xG 1.74-1.32
+2026-09-05 A 1-2 v AS Roma | Serie A | Rome | xG 0.70-2.97
+2026-08-31 H 1-0 v Bologna | Serie A | Bergamo
+2026-08-27 A 1-0 v Hapoel Tel Aviv | UEFA Europa Conference League | Miskolc
+2026-08-23 H 2-1 v Sassuolo | Serie A | Bergamo
+2026-08-20 H 0-0 v Hapoel Tel Aviv | UEFA Europa Conference League | Bergamo
+2026-08-14 H 1-0 v Athletic Club | Friendlies Clubs | ?
+2026-08-08 A 3-0 v FC Schalke 04 | Friendlies Clubs | ?
+2026-08-02 A 1-2 v Feyenoord | Friendlies Clubs | Rotterdam
+2026-07-26 H 3-2 v Arezzo | Friendlies Clubs | ?
+2026-05-22 A 1-1 v Fiorentina | Serie A | Florence
+2026-05-17 H 0-1 v Bologna | Serie A | Bergamo
+Listed home: 11 games, scored 18 (1.64), conceded 15 (1.36), blanks 3, clean sheets 3
+Listed away: 9 games, scored 11 (1.22), conceded 14 (1.56), blanks 2, clean sheets 2
+All: 20 games, scored 29 (1.45), conceded 29 (1.45), blanks 5, clean sheets 5
+
+=== Kairat Almaty (id 664): last 20 finished games ===
+2026-10-31 H 1-1 v Altay | Premier League | Almaty
+2026-10-25 A 2-2 v Aktobe | Premier League | Aktobe
+2026-10-22 H 1-5 v Panathinaikos | UEFA Europa Conference League | Almaty | xG 0.83-2.55
+2026-10-18 H 5-0 v Irtysh | Premier League | Almaty
+2026-10-15 A 1-1 v Riga | UEFA Europa Conference League | Riga | xG 1.15-2.31
+2026-10-10 H 1-0 v Zhetysu | Premier League | Almaty
+2026-09-17 A 0-1 v FC Astana | Premier League | Astana
+2026-09-13 H 1-4 v FK Tobol Kostanay | Premier League | Almaty
+2026-09-09 H 3-0 v Zhenys | Premier League | Almaty
+2026-09-05 A 3-0 v Kaspiy | Premier League | Aktau
+2026-08-31 A 2-0 v Yelimay Semey | Premier League | Semey
+2026-08-27 A 0-3 v Anderlecht | UEFA Europa League | Brussels
+2026-08-20 H 0-3 v Anderlecht | UEFA Europa League | Almaty
+2026-08-15 H 3-1 v Ulytau | Premier League | Almaty
+2026-08-11 H 0-1 v Levski Sofia | UEFA Champions League | Turkistan
+2026-08-04 A 0-1 v Levski Sofia | UEFA Champions League | Sofia
+2026-07-29 H 1-0 v Omonia Nicosia | UEFA Champions League | Almaty [PEN, 90-min score shown]
+2026-07-26 H 2-1 v Ordabasy | Premier League | Almaty
+2026-07-22 A 0-1 v Omonia Nicosia | UEFA Champions League | Nicosia
+2026-07-18 A 3-1 v Atyrau | Premier League | Turkestan
+Listed home: 11 games, scored 18 (1.64), conceded 16 (1.45), blanks 2, clean sheets 4
+Listed away: 9 games, scored 11 (1.22), conceded 10 (1.11), blanks 4, clean sheets 2
+All: 20 games, scored 29 (1.45), conceded 26 (1.30), blanks 6, clean sheets 6
+
+TABLE FOR Atalanta
+LEAGUE TABLE Serie A 2026 | 20 teams | 100 games played
+League averages per game: home 1.62, away 1.56, total 3.18
+#   team                   Pts | home P GF-GA  | away P GF-GA  | all P GF-GA
+1   Lazio                   28 |  5  10-5       |  5  14-3       | 10  24-8
+2   Inter                   25 |  5  17-7       |  5   9-6       | 10  26-13
+3   AS Roma                 24 |  5  14-5       |  5  14-5       | 10  28-10
+4   Como                    23 |  4   5-1       |  6  13-7       | 10  18-8
+5   AC Milan                21 |  5  13-7       |  5   8-5       | 10  21-12
+6   Frosinone               20 |  6  16-6       |  4   8-8       | 10  24-14
+7   Juventus                17 |  5   7-4       |  5   6-6       | 10  13-10
+8   Napoli                  14 |  4   8-5       |  6   9-8       | 10  17-13
+9   Bologna                 14 |  5   6-8       |  5   8-5       | 10  14-13
+10  Torino                  13 |  5   7-10      |  5   7-6       | 10  14-16
+11  Genoa                   13 |  6   7-8       |  4   3-6       | 10  10-14
+12  Cagliari                13 |  4   2-4       |  6   7-11      | 10   9-15
+13  Atalanta                11 |  6  11-11      |  4   5-9       | 10  16-20
+14  Lecce                    9 |  5   5-12      |  5   6-9       | 10  11-21
+15  Parma                    8 |  5   3-6       |  5   5-9       | 10   8-15
+16  Fiorentina               8 |  5   5-11      |  5  10-12      | 10  15-23
+17  Sassuolo                 8 |  5  10-14      |  5   6-12      | 10  16-26
+18  Monza                    7 |  4   9-8       |  6   8-16      | 10  17-24
+19  Udinese                  5 |  6   4-14      |  4   7-9       | 10  11-23
+20  Venezia                  3 |  5   3-10      |  5   3-10      | 10   6-20
+
+TABLE FOR Kairat Almaty
+LEAGUE TABLE Premier League 2026 | 16 teams | 240 games played
+League averages per game: home 1.46, away 1.10, total 2.56
+#   team                   Pts | home P GF-GA  | away P GF-GA  | all P GF-GA
+1   Ordabasy                68 | 15  29-9       | 15  30-14      | 30  59-23
+2   Kairat Almaty           65 | 16  37-11      | 14  23-12      | 30  60-23
+3   FC Astana               54 | 15  33-10      | 15  15-21      | 30  48-31
+4   Okzhetpes               54 | 14  26-10      | 16  23-28      | 30  49-38
+5   Aktobe                  49 | 15  25-15      | 15  22-24      | 30  47-39
+6   Yelimay Semey           45 | 15  20-23      | 15  23-21      | 30  43-44
+7   FK Tobol Kostanay       41 | 15  29-20      | 15  13-22      | 30  42-42
+8   Zhenys                  36 | 15  19-13      | 15  13-27      | 30  32-40
+9   Ulytau                  35 | 15  16-15      | 15  11-23      | 30  27-38
+10  Kyzyl-Zhar              33 | 15  22-20      | 15   9-22      | 30  31-42
+11  Kaspiy                  33 | 15  21-23      | 15  11-21      | 30  32-44
+12  Irtysh                  32 | 15  16-19      | 15  15-25      | 30  31-44
+13  Atyrau                  30 | 15  13-22      | 15  14-13      | 30  27-35
+14  Altay                   28 | 15  17-17      | 15  14-25      | 30  31-42
+15  Zhetysu                 27 | 15  14-18      | 15  17-31      | 30  31-49
+16  Kaisar                  25 | 15  14-19      | 15  11-22      | 30  25-41
+
+(26 API-Football requests used)
+
+----------------------------------------------------------------------
+MATCHBOOK: skipped (switched off for this run)
