@@ -1,3 +1,15 @@
-RUN 2026-11-05 15:00 local | 1 match(es)
-id:667 v id:608 -> out/id_667_v_id_608.txt
-Requests used: API-Football 26, Matchbook 0
+RUN 2026-11-05 17:13 local | 9 match(es)
+Torreense v Ararat Armenia -> out/Torreense_v_Ararat_Armenia.txt
+    !! Ararat Armenia: No team found for "Ararat Armenia".
+Lugano v Kauno Zalgiris -> out/Lugano_v_Kauno_Zalgiris.txt
+    !! Kauno Zalgiris: Ambiguous team name "Kauno Zalgiris".
+Sturm Graz v Celje -> out/Sturm_Graz_v_Celje.txt
+Monaco v Nordsjaelland -> out/Monaco_v_Nordsjaelland.txt
+Twente v Pafos -> out/Twente_v_Pafos.txt
+Riga v Jablonec -> out/Riga_v_Jablonec.txt
+    !! Jablonec: Ambiguous team name "Jablonec".
+Sint-Truiden v Brann -> out/Sint_Truiden_v_Brann.txt
+    !! Sint-Truiden: API-Football error: {"search": "The Search field may only contain alpha-numeric characters and spaces."}
+Universitatea Craiova v Egnatia -> out/Universitatea_Craiova_v_Egnatia.txt
+Sunderland v Dinamo Zagreb -> out/Sunderland_v_Dinamo_Zagreb.txt
+Requests used: API-Football 188, Matchbook 0
