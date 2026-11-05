@@ -1,2 +1,2 @@
-# 05.11 08:26 scan: Lion City Sailors v Adelaide United (ACL Two)
-Lion City Sailors v Adelaide United | n=20 | xg=10
+# 05.11 08:26 scan retry: Lion City Sailors as Home United (API-Football name)
+Home United v Adelaide United | n=20 | xg=10
