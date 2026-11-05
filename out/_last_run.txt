@@ -1,15 +1,6 @@
-RUN 2026-11-05 06:45 local | 11 match(es)
-AC Milan v id:651 -> out/AC_Milan_v_id_651.txt
-AZ Alkmaar v id:496 -> out/AZ_Alkmaar_v_id_496.txt
-Crystal Palace v id:167 -> out/Crystal_Palace_v_id_167.txt
-id:211 v Lech Poznan -> out/id_211_v_Lech_Poznan.txt
-Celtic v id:549 -> out/Celtic_v_id_549.txt
-Celta Vigo v Union St Gilloise -> out/Celta_Vigo_v_Union_St_Gilloise.txt
-    !! Union St Gilloise: No team found for "Union St Gilloise".
-id:598 v Inter Escaldes -> out/id_598_v_Inter_Escaldes.txt
-Aarhus v id:217 -> out/Aarhus_v_id_217.txt
-FC Copenhagen v id:3502 -> out/FC_Copenhagen_v_id_3502.txt
-Getafe v Brighton -> out/Getafe_v_Brighton.txt
-Trabzonspor v Freiburg -> out/Trabzonspor_v_Freiburg.txt
-    !! Freiburg: Ambiguous team name "Freiburg".
-Requests used: API-Football 249, Matchbook 0
+RUN 2026-11-05 06:47 local | 3 match(es)
+Celta Vigo v id:1393 -> out/Celta_Vigo_v_id_1393.txt
+Trabzonspor v id:160 -> out/Trabzonspor_v_id_160.txt
+id:598 v Escaldes -> out/id_598_v_Escaldes.txt
+    !! Escaldes: Ambiguous team name "Escaldes".
+Requests used: API-Football 67, Matchbook 0
