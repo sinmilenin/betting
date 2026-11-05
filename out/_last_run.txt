@@ -1,3 +1,3 @@
-RUN 2026-11-05 11:14 local | 1 match(es)
-Kuching FA v Gangwon -> out/Kuching_FA_v_Gangwon.txt
+RUN 2026-11-05 11:56 local | 1 match(es)
+BG Pathum United v Tai Po -> out/BG_Pathum_United_v_Tai_Po.txt
 Requests used: API-Football 26, Matchbook 0
