@@ -1,10 +1,5 @@
-# scan 05.11 18:12
-Torreense v Ararat Armenia | n=20 | xg=10
-Lugano v Kauno Zalgiris | n=20 | xg=10
-Sturm Graz v Celje | n=20 | xg=10
-Monaco v Nordsjaelland | n=20 | xg=10
-Twente v Pafos | n=20 | xg=10
-Riga v Jablonec | n=20 | xg=10
-Sint-Truiden v Brann | n=20 | xg=10
-Universitatea Craiova v Egnatia | n=20 | xg=10
-Sunderland v Dinamo Zagreb | n=20 | xg=10
+# scan 05.11 18:12 (name fix)
+FC Lugano v id:3872 | n=20 | xg=10
+Riga v id:1122 | n=20 | xg=10
+Torreense v Ararat | n=20 | xg=10
+Sint Truiden v Brann | n=20 | xg=10
