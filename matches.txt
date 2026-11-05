@@ -1,4 +1,2 @@
-# 05.11 07:58 top-20 run retry 2: Union SG, Freiburg, Inter Club Escaldes
-Celta Vigo v id:1393 | n=20 | xg=10
-Trabzonspor v id:160 | n=20 | xg=10
-id:598 v Escaldes | n=20 | xg=10
+# 05.11 08:00 top-20 run retry 3: Inter Club d'Escaldes by id
+id:598 v id:3342 | n=20 | xg=10
