@@ -64,5 +64,16 @@
     "lay": 9.6,
     "stake": 3,
     "created": "2026-11-05T07:51:09+01:00"
+  },
+  {
+    "id": "2026-11-05_fk-riga-fk-jablonec_2-2",
+    "date": "2026-11-05",
+    "ko": "21:00",
+    "match": "FK Riga v FK Jablonec",
+    "comp": "International, UEFA Conference League",
+    "cell": "2-2",
+    "lay": 16.0,
+    "stake": 3,
+    "created": "2026-11-05T18:21:40+01:00"
   }
 ]
