@@ -1,3 +1,6 @@
-RUN 2026-11-05 12:44 local | 1 match(es)
-ATK Mohun Bagan v Odisha -> out/ATK_Mohun_Bagan_v_Odisha.txt
-Requests used: API-Football 25, Matchbook 0
+RUN 2026-11-05 12:45 local | 2 match(es)
+NEC Nijmegen v Omonia -> out/NEC_Nijmegen_v_Omonia.txt
+    !! Omonia: Ambiguous team name "Omonia".
+Midtjylland v Ajax -> out/Midtjylland_v_Ajax.txt
+    !! Midtjylland: Ambiguous team name "Midtjylland".
+Requests used: API-Football 29, Matchbook 0
