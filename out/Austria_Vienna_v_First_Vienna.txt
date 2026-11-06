@@ -1,7 +1,32 @@
-MATCH Austria Vienna Am v First Vienna | fetched 2026-11-06 12:45 local
+MATCH Austria Vienna v First Vienna | fetched 2026-11-06 12:46 local
 
-FORM DATA Austria Vienna Am v First Vienna | source API-Football | 2026-11-06 12:46 UTC
+FORM DATA Austria Vienna v First Vienna | source API-Football | 2026-11-06 12:46 UTC
 H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
+
+=== Austria Vienna (id 601): last 20 finished games ===
+2026-11-01 H 0-2 v Rapid Vienna | Bundesliga | Vienna | xG 1.16-2.22
+2026-10-27 H 1-1 v TSV Hartberg | Cup | Vienna [PEN, 90-min score shown]
+2026-10-23 A 1-2 v SCR Altach | Bundesliga | Artach | xG 1.09-0.92
+2026-10-17 A 2-3 v Ried | Bundesliga | Reed | xG 2.25-2.96
+2026-10-10 H 0-2 v Sturm Graz | Bundesliga | Vienna | xG 2.31-2.67
+2026-10-02 A 6-1 v Admira Wacker | Friendlies Clubs | Maria Enzersdorf
+2026-09-19 A 2-2 v Grazer AK | Bundesliga | Graz | xG 0.83-0.80
+2026-09-13 H 2-1 v Austria Lustenau | Bundesliga | Vienna | xG 1.82-1.43
+2026-09-05 A 6-0 v Traiskirchen | Cup | ?
+2026-09-02 H 0-1 v WSG Wattens | Bundesliga | Vienna | xG 0.51-1.69
+2026-08-30 A 1-4 v Red Bull Salzburg | Bundesliga | Salzburg
+2026-08-27 H 0-0 v SC Braga | UEFA Europa Conference League | Vienna
+2026-08-20 A 0-2 v SC Braga | UEFA Europa Conference League | Braga
+2026-08-16 A 2-0 v TSV Hartberg | Bundesliga | Hartberg
+2026-08-13 H 1-2 v Beitar Jerusalem | UEFA Europa Conference League | Vienna [PEN, 90-min score shown]
+2026-08-09 H 0-2 v Lask Linz | Bundesliga | Vienna
+2026-08-06 A 2-1 v Beitar Jerusalem | UEFA Europa Conference League | Ploiesti
+2026-08-02 A 0-3 v Wolfsberger AC | Bundesliga | Wolfsberg
+2026-07-30 H 3-1 v FK Liepaja | UEFA Europa Conference League | Vienna
+2026-07-26 A 5-0 v Wiener SC | Cup | Vienna
+Listed home: 9 games, scored 7 (0.78), conceded 12 (1.33), blanks 5, clean sheets 1
+Listed away: 11 games, scored 27 (2.45), conceded 18 (1.64), blanks 2, clean sheets 3
+All: 20 games, scored 34 (1.70), conceded 30 (1.50), blanks 7, clean sheets 4
 
 === First Vienna (id 4990): last 20 finished games ===
 2026-10-31 H 0-6 v FC BW Linz | 2. Liga | Vienna
@@ -28,7 +53,22 @@ Listed home: 8 games, scored 12 (1.50), conceded 12 (1.50), blanks 3, clean shee
 Listed away: 12 games, scored 28 (2.33), conceded 15 (1.25), blanks 1, clean sheets 4
 All: 20 games, scored 40 (2.00), conceded 27 (1.35), blanks 4, clean sheets 8
 
-!! Austria Vienna Am: No team found for "Austria Vienna Am".
+TABLE FOR Austria Vienna
+LEAGUE TABLE Bundesliga 2026 | 12 teams | 66 games played
+League averages per game: home 1.86, away 1.32, total 3.18
+#   team                   Pts | home P GF-GA  | away P GF-GA  | all P GF-GA
+1   Rapid Vienna            30 |  6  23-3       |  5  10-6       | 11  33-9
+2   Red Bull Salzburg       27 |  6  21-3       |  5   8-3       | 11  29-6
+3   Lask Linz               22 |  6  13-7       |  5  13-6       | 11  26-13
+4   Sturm Graz              19 |  5  12-5       |  6   7-8       | 11  19-13
+5   TSV Hartberg            17 |  6  11-12      |  5   9-7       | 11  20-19
+6   Ried                    16 |  5  10-6       |  6   9-12      | 11  19-18
+7   WSG Wattens             12 |  5   5-9       |  6   9-8       | 11  14-17
+8   SCR Altach              10 |  6  11-7       |  5   0-10      | 11  11-17
+9   Grazer AK               10 |  5   4-7       |  6   4-20      | 11   8-27
+10  Austria Lustenau         8 |  5   5-10      |  6   8-19      | 11  13-29
+11  Austria Vienna           7 |  5   2-8       |  6   8-14      | 11  10-22
+12  Wolfsberger AC           6 |  6   6-10      |  5   2-10      | 11   8-20
 
 TABLE FOR First Vienna
 LEAGUE TABLE 2. Liga 2026 | 16 teams | 88 games played
@@ -51,7 +91,7 @@ League averages per game: home 1.74, away 1.38, total 3.11
 15  WSPG Wels                8 |  6   6-16      |  5   8-11      | 11  14-27
 16  Rapid Wien II            7 |  5   3-11      |  6   8-13      | 11  11-24
 
-(14 API-Football requests used)
+(26 API-Football requests used)
 
 ----------------------------------------------------------------------
 MATCHBOOK: skipped (switched off for this run)

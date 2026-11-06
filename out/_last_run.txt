@@ -1,7 +1,3 @@
-RUN 2026-11-06 12:45 local | 4 match(es)
-Birmingham City U21 v West Ham United U21 -> out/Birmingham_City_U21_v_West_Ham_United_U2.txt
-Millwall U21 v Cardiff City U21 -> out/Millwall_U21_v_Cardiff_City_U21.txt
-Standard Liege v id:738 -> out/Standard_Liege_v_id_738.txt
-Austria Vienna Am v First Vienna -> out/Austria_Vienna_Am_v_First_Vienna.txt
-    !! Austria Vienna Am: No team found for "Austria Vienna Am".
-Requests used: API-Football 91, Matchbook 0
+RUN 2026-11-06 12:46 local | 1 match(es)
+Austria Vienna v First Vienna -> out/Austria_Vienna_v_First_Vienna.txt
+Requests used: API-Football 26, Matchbook 0
