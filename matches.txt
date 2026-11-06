@@ -1,3 +1,3 @@
-# scan 06.11 07:42 top-20 retry 2 (wrong team resolved)
-Lokomotiva Zagreb v Rudes | n=20 | xg=10
-Gaziantep FK v Kasımpaşa | n=20 | xg=10
+# scan 06.11 07:42 top-20 retry 3
+Gaziantep FK v id:1004 | n=20 | xg=10
+Operario Ferroviario v id:123 | n=20 | xg=10
