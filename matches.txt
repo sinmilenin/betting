@@ -1,3 +1,2 @@
-# scan 06.11 12:56
-Smouha v El Minya | n=20 | xg=10
-Qarabag v Turan Tovuz | n=20 | xg=10
+# scan 06.11 12:56 (retry Turan)
+Qarabag v Turan | n=20 | xg=10
