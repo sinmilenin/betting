@@ -1,0 +1,53 @@
+MATCH BKMA Yerevan v Alashkert | fetched 2026-11-06 14:16 local
+
+FORM DATA BKMA Yerevan v Alashkert | source API-Football | 2026-11-06 14:16 UTC
+H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
+
+=== Alashkert (id 582): last 20 finished games ===
+2026-10-31 A 2-0 v Ararat | Premier League | Yerevan
+2026-10-28 H 4-0 v BKMA | Cup | ?
+2026-10-24 A 1-0 v Shirak | Premier League | Gyumri
+2026-10-16 H 5-1 v Syunik | Premier League | Yerevan
+2026-10-10 A 1-1 v Ararat-Armenia | Premier League | Yerevan
+2026-09-19 H 3-3 v Pyunik Yerevan | Premier League | Yerevan
+2026-09-13 A 1-1 v Sardarapat | Premier League | Armavir
+2026-09-03 H 4-0 v Van | Premier League | Yerevan
+2026-08-28 A 1-1 v FC Urartu | Premier League | Yerevan
+2026-08-21 H 3-0 v Gandzasar | Premier League | Yerevan
+2026-08-17 A 0-1 v FC Noah | Premier League | Abovyan
+2026-08-10 H 3-0 v BKMA | Premier League | Yerevan
+2026-08-03 H 3-0 v Ararat | Premier League | Yerevan
+2026-07-30 A 0-3 v CFR 1907 Cluj | UEFA Europa Conference League | Cluj Napoca
+2026-07-23 H 1-1 v CFR 1907 Cluj | UEFA Europa Conference League | Yerevan
+2026-07-16 A 1-1 v Yelimay Semey | UEFA Europa Conference League | Semey [PEN, 90-min score shown]
+2026-07-09 H 1-1 v Yelimay Semey | UEFA Europa Conference League | Yerevan
+2026-06-30 A 0-1 v Maccabi Tel Aviv | Friendlies Clubs | ?
+2026-05-26 H 2-0 v Shirak | Premier League | Yerevan
+2026-05-16 A 1-0 v Van | Premier League | Charentsavan
+Listed home: 10 games, scored 29 (2.90), conceded 6 (0.60), blanks 0, clean sheets 6
+Listed away: 10 games, scored 8 (0.80), conceded 9 (0.90), blanks 3, clean sheets 3
+All: 20 games, scored 37 (1.85), conceded 15 (0.75), blanks 3, clean sheets 9
+
+!! BKMA Yerevan: No team found for "BKMA Yerevan".
+
+TABLE FOR Alashkert
+LEAGUE TABLE Premier League 2026 | 12 teams | 72 games played
+League averages per game: home 1.72, away 1.25, total 2.97
+#   team                   Pts | home P GF-GA  | away P GF-GA  | all P GF-GA
+1   FC Noah                 31 |  6  14-3       |  6  17-7       | 12  31-10
+2   Ararat-Armenia          29 |  7  14-4       |  5  10-6       | 12  24-10
+3   Pyunik Yerevan          28 |  6  16-1       |  6  12-8       | 12  28-9
+4   Alashkert               25 |  6  21-4       |  6   6-4       | 12  27-8
+5   Sardarapat              17 |  6   9-13      |  6  10-7       | 12  19-20
+6   FC Urartu               16 |  6  13-10      |  6   6-5       | 12  19-15
+7   Shirak                  14 |  6   8-10      |  6   6-5       | 12  14-15
+8   Van                     11 |  6   8-11      |  6   4-18      | 12  12-29
+9   Ararat                  11 |  6   3-8       |  6   7-12      | 12  10-20
+10  Syunik                   8 |  4   7-4       |  8   4-22      | 12  11-26
+11  BKMA                     8 |  6   4-6       |  6   6-16      | 12  10-22
+12  Gandzasar                3 |  7   7-16      |  5   2-14      | 12   9-30
+
+(14 API-Football requests used)
+
+----------------------------------------------------------------------
+MATCHBOOK: skipped (switched off for this run)

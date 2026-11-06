@@ -1,3 +1,7 @@
-RUN 2026-11-06 13:30 local | 1 match(es)
-JSM Skikda v Teleghma -> out/JSM_Skikda_v_Teleghma.txt
-Requests used: API-Football 25, Matchbook 0
+RUN 2026-11-06 14:16 local | 3 match(es)
+BKMA Yerevan v Alashkert -> out/BKMA_Yerevan_v_Alashkert.txt
+    !! BKMA Yerevan: No team found for "BKMA Yerevan".
+ENPPI v Proxy -> out/ENPPI_v_Proxy.txt
+Al Wakra v Al Shahaniya -> out/Al_Wakra_v_Al_Shahaniya.txt
+    !! Al Wakra: Ambiguous team name "Al Wakra".
+Requests used: API-Football 56, Matchbook 0
