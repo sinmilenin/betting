@@ -1,3 +1,2 @@
-# scan 06.11 14:27: 2 new lowliq fixtures
-Al Jazeera v Al Ramtha | n=20 | xg=10
-JSM Skikda v NRB Teleghma | n=20 | xg=10
+# scan 06.11 14:27: retry Teleghma
+JSM Skikda v Teleghma | n=20 | xg=10
