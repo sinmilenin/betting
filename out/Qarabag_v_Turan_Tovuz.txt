@@ -1,0 +1,53 @@
+MATCH Qarabag v Turan Tovuz | fetched 2026-11-06 11:58 local
+
+FORM DATA Qarabag v Turan Tovuz | source API-Football | 2026-11-06 11:58 UTC
+H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
+
+=== Qarabag (id 556): last 20 finished games ===
+2026-10-31 A 0-0 v Qabala | Premyer Liqa | Gabala
+2026-10-25 A 0-0 v Sabah FA | Premyer Liqa | ?
+2026-10-17 H 3-3 v Neftchi Baku | Premyer Liqa | Baku
+2026-10-11 A 2-0 v Imisli FK | Premyer Liqa | Yevlakh
+2026-09-18 H 1-0 v Safa Baku | Premyer Liqa | Baku
+2026-09-13 A 1-1 v Zira | Premyer Liqa | Zira
+2026-09-06 H 3-2 v Araz | Premyer Liqa | Baku
+2026-08-31 A 1-0 v Sumqayıt | Premyer Liqa | Sumqayit
+2026-08-27 H 1-2 v Twente | UEFA Europa Conference League | Baku [AET, 90-min score shown]
+2026-08-20 A 1-0 v Twente | UEFA Europa Conference League | Enschede
+2026-08-17 H 3-1 v Şamaxı FK | Premyer Liqa | Baku
+2026-08-13 H 2-0 v Dynamo Kyiv | UEFA Europa Conference League | Baku
+2026-08-06 A 0-1 v Dynamo Kyiv | UEFA Europa Conference League | Lublin
+2026-07-30 A 0-0 v CSKA Sofia | UEFA Europa League | Sofia [PEN, 90-min score shown]
+2026-07-23 H 0-0 v CSKA Sofia | UEFA Europa League | Baku
+2026-07-16 A 3-0 v Vestri | UEFA Europa League | Reykjavik
+2026-07-09 H 3-0 v Vestri | UEFA Europa League | Baku
+2026-07-01 A 0-1 v Ferencvarosi TC | Friendlies Clubs | ?
+2026-07-01 H 2-6 v FC Kharkiv | Friendlies Clubs | ?
+2026-06-27 A 4-0 v WSG Wattens | Friendlies Clubs | ?
+Listed home: 9 games, scored 18 (2.00), conceded 14 (1.56), blanks 1, clean sheets 4
+Listed away: 11 games, scored 12 (1.09), conceded 3 (0.27), blanks 5, clean sheets 8
+All: 20 games, scored 30 (1.50), conceded 17 (0.85), blanks 6, clean sheets 12
+
+!! Turan Tovuz: No team found for "Turan Tovuz".
+
+TABLE FOR Qarabag
+LEAGUE TABLE Premyer Liqa 2026 | 12 teams | 58 games played
+League averages per game: home 1.43, away 1.17, total 2.60
+#   team                   Pts | home P GF-GA  | away P GF-GA  | all P GF-GA
+1   Neftchi Baku            21 |  4  10-2       |  6  15-9       | 10  25-11
+2   Sabah FA                20 |  4  10-1       |  5  10-3       |  9  20-4
+3   Qarabag                 19 |  4  10-6       |  5   4-1       |  9  14-7
+4   Turan                   18 |  5   7-3       |  5   4-5       | 10  11-8
+5   Kapaz                   17 |  6   6-6       |  3   4-3       |  9  10-9
+6   Zira                    16 |  6  11-5       |  4   3-9       | 10  14-14
+7   Şamaxı FK               13 |  3   7-6       |  7   8-8       | 10  15-14
+8   Imisli FK               10 |  4   5-6       |  6   4-9       | 10   9-15
+9   Sumqayıt                 9 |  6   9-8       |  3   4-6       |  9  13-14
+10  Qabala                   8 |  6   2-9       |  4   3-7       | 10   5-16
+11  Safa Baku                4 |  4   1-7       |  6   5-11      | 10   6-18
+12  Araz                     3 |  6   5-9       |  4   4-12      | 10   9-21
+
+(14 API-Football requests used)
+
+----------------------------------------------------------------------
+MATCHBOOK: skipped (switched off for this run)

@@ -1,3 +1,5 @@
-RUN 2026-11-06 11:15 local | 1 match(es)
-Madura v id:2438 -> out/Madura_v_id_2438.txt
-Requests used: API-Football 26, Matchbook 0
+RUN 2026-11-06 11:58 local | 2 match(es)
+Smouha v El Minya -> out/Smouha_v_El_Minya.txt
+Qarabag v Turan Tovuz -> out/Qarabag_v_Turan_Tovuz.txt
+    !! Turan Tovuz: No team found for "Turan Tovuz".
+Requests used: API-Football 43, Matchbook 0
