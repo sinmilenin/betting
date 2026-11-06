@@ -1,6 +1,3 @@
-RUN 2026-11-06 07:27 local | 2 match(es)
-Psim Yogyakarta v Dewa United -> out/Psim_Yogyakarta_v_Dewa_United.txt
-Van Hien University v Hue -> out/Van_Hien_University_v_Hue.txt
-    !! Van Hien University: No team found for "Van Hien University".
-    !! Hue: Ambiguous team name "Hue".
-Requests used: API-Football 28, Matchbook 0
+RUN 2026-11-06 07:28 local | 1 match(es)
+Van Hien v id:9162 -> out/Van_Hien_v_id_9162.txt
+Requests used: API-Football 25, Matchbook 0
