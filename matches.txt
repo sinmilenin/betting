@@ -1,2 +1,3 @@
-# scan 06.11 12:12 (retry)
-Madura v id:2438 | n=20 | xg=10
+# scan 06.11 12:56
+Smouha v El Minya | n=20 | xg=10
+Qarabag v Turan Tovuz | n=20 | xg=10
