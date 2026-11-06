@@ -1,6 +1,6 @@
-MATCH Qarabag v Turan Tovuz | fetched 2026-11-06 11:58 local
+MATCH Qarabag v Turan | fetched 2026-11-06 11:59 local
 
-FORM DATA Qarabag v Turan Tovuz | source API-Football | 2026-11-06 11:58 UTC
+FORM DATA Qarabag v Turan | source API-Football | 2026-11-06 11:59 UTC
 H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
 
 === Qarabag (id 556): last 20 finished games ===
@@ -28,7 +28,39 @@ Listed home: 9 games, scored 18 (2.00), conceded 14 (1.56), blanks 1, clean shee
 Listed away: 11 games, scored 12 (1.09), conceded 3 (0.27), blanks 5, clean sheets 8
 All: 20 games, scored 30 (1.50), conceded 17 (0.85), blanks 6, clean sheets 12
 
-!! Turan Tovuz: No team found for "Turan Tovuz".
+"Turan" matches several teams. Use id:<number> instead of the name:
+  id:5499   Turan (Azerbaijan)
+  id:19052  Tomiris Turan W (Kazakhstan)
+  id:19996  Turan II (Azerbaijan)
+  id:20721  Turan (Uzbekistan)
+  id:21502  Turan Turkistan (Kazakhstan)
+  id:22401  Turan Turkistan U19 (None)
+(retrying Turan using the opponent's country, Azerbaijan)
+NOTE: "Turan" matched 2 teams; picked Turan (Azerbaijan) because the opponent is from Azerbaijan. Others: Turan (Uzbekistan)
+=== Turan (id 5499): last 20 finished games ===
+2026-10-30 H 3-2 v Sabah FA | Premyer Liqa | Tovuz
+2026-10-24 A 1-1 v Neftchi Baku | Premyer Liqa | Baku
+2026-10-18 A 0-1 v Imisli FK | Premyer Liqa | Yevlakh
+2026-10-11 A 1-0 v Safa Baku | Premyer Liqa | Baku
+2026-10-03 H 0-2 v Fenerbahçe | Friendlies Clubs | Baku
+2026-09-19 H 1-0 v Zira | Premyer Liqa | Tovuz
+2026-09-13 A 2-2 v Araz | Premyer Liqa | Shamakhi
+2026-09-06 H 2-1 v Sumqayıt | Premyer Liqa | Tovuz
+2026-08-30 A 0-1 v Kapaz | Premyer Liqa | Tovuz
+2026-08-23 H 0-0 v Şamaxı FK | Premyer Liqa | Tovuz
+2026-08-14 H 1-0 v Qabala | Premyer Liqa | Tovuz
+2026-05-22 H 1-2 v Sabah FA | Premyer Liqa | Tovuz
+2026-05-16 A 2-3 v Şamaxı FK | Premyer Liqa | Shamakhi
+2026-05-10 H 1-0 v Karvan | Premyer Liqa | Tovuz
+2026-05-04 A 1-2 v Qarabag | Premyer Liqa | Baku
+2026-04-27 H 1-1 v Zira | Premyer Liqa | Tovuz
+2026-04-21 A 0-0 v Zira | Cup | Zira
+2026-04-17 A 3-0 v Araz | Premyer Liqa | Sumqayit
+2026-04-12 H 2-1 v Sumqayıt | Premyer Liqa | Tovuz
+2026-04-07 A 1-1 v Imisli FK | Premyer Liqa | Quba
+Listed home: 10 games, scored 12 (1.20), conceded 9 (0.90), blanks 2, clean sheets 4
+Listed away: 10 games, scored 11 (1.10), conceded 11 (1.10), blanks 3, clean sheets 3
+All: 20 games, scored 23 (1.15), conceded 20 (1.00), blanks 5, clean sheets 7
 
 TABLE FOR Qarabag
 LEAGUE TABLE Premyer Liqa 2026 | 12 teams | 58 games played
@@ -47,7 +79,9 @@ League averages per game: home 1.43, away 1.17, total 2.60
 11  Safa Baku                4 |  4   1-7       |  6   5-11      | 10   6-18
 12  Araz                     3 |  6   5-9       |  4   4-12      | 10   9-21
 
-(14 API-Football requests used)
+(Turan: same table as Qarabag, shown above)
+
+(26 API-Football requests used)
 
 ----------------------------------------------------------------------
 MATCHBOOK: skipped (switched off for this run)
