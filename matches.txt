@@ -1,3 +1,4 @@
-# scan 06.11 15:14: retry BKMA, Al Wakrah
-BKMA v Alashkert | n=20 | xg=10
-id:2900 v Al Shahaniya | n=20 | xg=10
+# scan 06.11 15:56: first analyses
+Al Buqaa v Al Wehdat | n=20 | xg=10
+AEK Larnaca v Karmiotissa | n=20 | xg=10
+Botev Plovdiv v Dunav Ruse | n=20 | xg=10
