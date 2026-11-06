@@ -1,5 +1,2 @@
-# scan 06.11 13:42 retry (names)
-Birmingham City U21 v West Ham United U21 | n=20 | xg=10
-Millwall U21 v Cardiff City U21 | n=20 | xg=10
-Standard Liege v id:738 | n=20 | xg=10
-Austria Vienna Am v First Vienna | n=20 | xg=10
+# scan 06.11 13:42 retry Austria Wien (Am)
+Austria Vienna v First Vienna | n=20 | xg=10
