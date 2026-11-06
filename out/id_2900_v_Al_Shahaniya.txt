@@ -1,11 +1,33 @@
-MATCH Al Wakra v Al Shahaniya | fetched 2026-11-06 14:16 local
+MATCH id:2900 v Al Shahaniya | fetched 2026-11-06 14:18 local
 
-FORM DATA Al Wakra v Al Shahaniya | source API-Football | 2026-11-06 14:16 UTC
+FORM DATA id:2900 v Al Shahaniya | source API-Football | 2026-11-06 14:18 UTC
 H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
 
-"Al Wakra" matches several teams. Use id:<number> instead of the name:
-  id:2900   Al Wakrah (Qatar)
-  id:2918   Al Wakrah B (Qatar)
+=== Al Wakrah (id 2900): last 20 finished games ===
+2026-10-31 A 1-3 v Al-Duhail SC | Stars League | Doha | xG 0.88-2.00
+2026-10-24 H 3-2 v Al-Arabi SC | Stars League | Wakla | xG 1.21-1.23
+2026-10-16 A 3-0 v Al Ahli Doha | Stars League | Doha
+2026-10-08 H 3-2 v Al-Gharafa | Stars League | Wakla
+2026-09-28 A 1-1 v Al Kharaitiyat | QSL Cup | Al Khor
+2026-09-20 H 1-0 v Al-Sailiya | QSL Cup | Al Wakrah
+2026-09-10 A 1-1 v Al Shamal | Stars League | Wakla
+2026-09-04 A 0-4 v Lusail City | Stars League | Lusail
+2026-08-27 H 1-2 v Al-Rayyan SC | Stars League | Wakla
+2026-08-20 H 2-2 v Qatar SC | Stars League | Wakla
+2026-07-31 A 1-5 v Nantes | Friendlies Clubs | ?
+2026-07-28 A 0-1 v Rouen | Friendlies Clubs | ?
+2026-07-25 A 1-4 v Caen | Friendlies Clubs | ?
+2026-07-22 A 2-0 v Stade Brestois 29 | Friendlies Clubs | ?
+2026-05-05 H 0-0 v Al-Gharafa | Emir Cup | Al Wakrah [PEN, 90-min score shown]
+2026-05-01 A 3-0 v Al-Rayyan SC | Emir Cup | Doha
+2026-04-27 H 3-1 v Al-Sailiya | Stars League | Al Wakrah
+2026-04-08 H 3-3 v Al-Gharafa | Stars League | Al Wakrah
+2026-04-03 A 4-1 v Qatar SC | Stars League | Doha
+2026-03-17 A 1-2 v Al-Rayyan SC | Stars League | Doha
+Listed home: 8 games, scored 16 (2.00), conceded 12 (1.50), blanks 1, clean sheets 2
+Listed away: 12 games, scored 18 (1.50), conceded 22 (1.83), blanks 2, clean sheets 3
+All: 20 games, scored 34 (1.70), conceded 34 (1.70), blanks 3, clean sheets 5
+
 === Al Shahaniya (id 2893): last 20 finished games ===
 2026-10-30 H 1-2 v Al Ahli Doha | Stars League | Lai Yang | xG 0.61-2.80
 2026-10-22 H 0-4 v Al Sadd | Stars League | Lai Yang | xG 0.60-2.14
@@ -31,13 +53,7 @@ Listed home: 11 games, scored 14 (1.27), conceded 25 (2.27), blanks 4, clean she
 Listed away: 9 games, scored 12 (1.33), conceded 16 (1.78), blanks 1, clean sheets 1
 All: 20 games, scored 26 (1.30), conceded 41 (2.05), blanks 5, clean sheets 4
 
-(retrying Al Wakra using the opponent's country, Qatar)
-"Al Wakra" matches several teams. Use id:<number> instead of the name:
-  id:2900   Al Wakrah (Qatar)
-  id:2918   Al Wakrah B (Qatar)
-!! Al Wakra: Ambiguous team name "Al Wakra".
-
-TABLE FOR Al Shahaniya
+TABLE FOR Al Wakrah
 LEAGUE TABLE Stars League 2026 | 12 teams | 48 games played
 League averages per game: home 1.71, away 1.81, total 3.52
 #   team                   Pts | home P GF-GA  | away P GF-GA  | all P GF-GA
@@ -54,7 +70,9 @@ League averages per game: home 1.71, away 1.81, total 3.52
 11  Qatar SC                 6 |  2   2-9       |  6   7-9       |  8   9-18
 12  Al-Sailiya               1 |  5   7-18      |  3   2-10      |  8   9-28
 
-(15 API-Football requests used)
+(Al Shahaniya: same table as Al Wakrah, shown above)
+
+(25 API-Football requests used)
 
 ----------------------------------------------------------------------
 MATCHBOOK: skipped (switched off for this run)
