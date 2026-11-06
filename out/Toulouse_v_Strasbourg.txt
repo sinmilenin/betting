@@ -1,0 +1,84 @@
+MATCH Toulouse v Strasbourg | fetched 2026-11-06 06:43 local
+
+FORM DATA Toulouse v Strasbourg | source API-Football | 2026-11-06 06:43 UTC
+H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
+
+=== Toulouse (id 96): last 20 finished games ===
+2026-11-01 A 0-2 v Marseille | Ligue 1 | Marseille | xG 1.92-1.33
+2026-10-25 H 0-0 v Estac Troyes | Ligue 1 | Toulouse | xG 0.88-0.41
+2026-10-16 A 3-0 v Le Mans | Ligue 1 | Le Mans | xG 1.81-0.95
+2026-10-10 A 2-2 v Monaco | Ligue 1 | Monaco | xG 1.43-1.17
+2026-10-03 H 2-3 v PAU | Friendlies Clubs | ?
+2026-09-19 H 3-2 v Le Havre | Ligue 1 | Toulouse | xG 1.95-2.34
+2026-09-12 A 2-2 v Lorient | Ligue 1 | Lorient | xG 1.63-0.93
+2026-09-03 H 0-1 v Lille | Ligue 1 | Toulouse | xG 3.46-1.21
+2026-08-29 A 2-2 v Stade Brestois 29 | Ligue 1 | Brest | xG 1.14-3.04
+2026-08-22 H 0-2 v Lyon | Ligue 1 | Toulouse | xG 2.77-0.70
+2026-08-15 H 1-2 v Hamburger SV | Friendlies Clubs | ?
+2026-07-31 H 2-1 v Real Sociedad | Friendlies Clubs | ?
+2026-07-25 H 1-1 v Rodez | Friendlies Clubs | ?
+2026-05-10 H 2-1 v Lyon | Ligue 1 | Toulouse
+2026-05-03 A 2-1 v Strasbourg | Ligue 1 | Strasbourg
+2026-04-25 H 2-2 v Monaco | Ligue 1 | Toulouse
+2026-04-21 A 1-4 v Lens | Coupe de France | Lens
+2026-04-17 A 2-3 v Lens | Ligue 1 | Lens
+2026-04-12 H 0-4 v Lille | Ligue 1 | Toulouse
+2026-04-03 A 1-3 v Paris Saint Germain | Ligue 1 | Paris
+Listed home: 11 games, scored 13 (1.18), conceded 19 (1.73), blanks 4, clean sheets 1
+Listed away: 9 games, scored 15 (1.67), conceded 19 (2.11), blanks 1, clean sheets 1
+All: 20 games, scored 28 (1.40), conceded 38 (1.90), blanks 5, clean sheets 2
+
+=== Strasbourg (id 95): last 20 finished games ===
+2026-11-01 H 5-1 v Auxerre | Ligue 1 | Strasbourg | xG 3.15-0.50
+2026-10-25 A 0-3 v Rennes | Ligue 1 | Rennes | xG 0.94-2.00
+2026-10-17 H 1-3 v Paris Saint Germain | Ligue 1 | Strasbourg | xG 1.47-2.69
+2026-10-11 A 1-2 v Nice | Ligue 1 | Nice | xG 0.63-1.25
+2026-09-19 A 1-2 v Paris FC | Ligue 1 | Paris | xG 0.24-1.05
+2026-09-12 H 1-1 v Monaco | Ligue 1 | Strasbourg | xG 1.02-1.05
+2026-09-06 A 6-2 v Estac Troyes | Ligue 1 | Troyes | xG 2.95-2.94
+2026-08-29 H 2-1 v Lens | Ligue 1 | Strasbourg | xG 1.83-2.91
+2026-08-21 A 0-4 v Marseille | Ligue 1 | Marseille | xG 0.18-1.86
+2026-08-16 A 1-1 v Newcastle | Friendlies Clubs | ? [PEN, 90-min score shown]
+2026-08-08 A 0-2 v SC Freiburg | Friendlies Clubs | ?
+2026-08-04 H 2-5 v SV Elversberg | Friendlies Clubs | ?
+2026-08-01 A 3-4 v Brighton | Friendlies Clubs | ?
+2026-07-25 H 0-2 v Blackburn | Friendlies Clubs | ?
+2026-07-20 A 0-7 v Sporting CP | Friendlies Clubs | ?
+2026-05-17 H 5-4 v Monaco | Ligue 1 | Strasbourg
+2026-05-13 A 2-1 v Stade Brestois 29 | Ligue 1 | Brest
+2026-05-10 A 1-1 v Angers | Ligue 1 | Angers
+2026-05-07 H 0-1 v Rayo Vallecano | UEFA Europa Conference League | Strasbourg
+2026-05-03 H 1-2 v Toulouse | Ligue 1 | Strasbourg
+Listed home: 9 games, scored 17 (1.89), conceded 20 (2.22), blanks 2, clean sheets 0
+Listed away: 11 games, scored 15 (1.36), conceded 29 (2.64), blanks 4, clean sheets 0
+All: 20 games, scored 32 (1.60), conceded 49 (2.45), blanks 6, clean sheets 0
+
+TABLE FOR Toulouse
+LEAGUE TABLE Ligue 1 2026 | 18 teams | 81 games played
+League averages per game: home 1.70, away 1.33, total 3.04
+#   team                   Pts | home P GF-GA  | away P GF-GA  | all P GF-GA
+1   Paris Saint Germain     20 |  3   6-3       |  6  15-7       |  9  21-10
+2   Lille                   18 |  5   7-3       |  4   5-3       |  9  12-6
+3   Lyon                    17 |  5  12-3       |  4   3-4       |  9  15-7
+4   Paris FC                17 |  5  12-5       |  4   4-5       |  9  16-10
+5   Rennes                  16 |  5  13-5       |  4   7-14      |  9  20-19
+6   Marseille               15 |  5  13-8       |  4   7-5       |  9  20-13
+7   Monaco                  15 |  4   7-4       |  5   5-6       |  9  12-10
+8   Nice                    14 |  5  10-5       |  4   3-7       |  9  13-12
+9   Lens                    13 |  4   9-5       |  5   7-8       |  9  16-13
+10  Stade Brestois 29       12 |  4   8-6       |  5   8-6       |  9  16-12
+11  Lorient                 12 |  5   5-6       |  4   2-2       |  9   7-8
+12  Toulouse                10 |  4   3-5       |  5   9-8       |  9  12-13
+13  Strasbourg              10 |  4   9-6       |  5   8-13      |  9  17-19
+14  Auxerre                 10 |  4   5-5       |  5   8-18      |  9  13-23
+15  Angers                   8 |  5   5-9       |  4   4-8       |  9   9-17
+16  Estac Troyes             8 |  5   5-11      |  4   2-5       |  9   7-16
+17  Le Mans                  7 |  4   6-8       |  5   5-10      |  9  11-18
+18  Le Havre                 2 |  5   3-11      |  4   6-9       |  9   9-20
+
+(Strasbourg: same table as Toulouse, shown above)
+
+(25 API-Football requests used)
+
+----------------------------------------------------------------------
+MATCHBOOK: skipped (switched off for this run)

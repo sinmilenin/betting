@@ -1,0 +1,86 @@
+MATCH Venezia v Udinese | fetched 2026-11-06 06:43 local
+
+FORM DATA Venezia v Udinese | source API-Football | 2026-11-06 06:43 UTC
+H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
+
+=== Venezia (id 517): last 20 finished games ===
+2026-11-01 A 0-1 v Como | Serie A | Como | xG 0.23-1.63
+2026-10-28 H 0-2 v Inter | Serie A | Venice | xG 1.67-2.39
+2026-10-25 A 0-1 v Genoa | Serie A | Genoa | xG 1.82-0.41
+2026-10-17 H 1-0 v Napoli | Serie A | Venice | xG 0.98-2.36
+2026-10-12 A 1-3 v Atalanta | Serie A | Bergamo | xG 2.48-2.19
+2026-09-19 H 0-2 v Lazio | Serie A | Venice | xG 1.89-1.60
+2026-09-11 H 2-4 v Fiorentina | Serie A | Venice | xG 0.49-3.31
+2026-09-06 A 2-3 v Frosinone | Serie A | Frosinone | xG 2.17-1.90
+2026-09-02 A 1-2 v Udinese | Coppa Italia | Udine
+2026-08-28 A 0-2 v AC Milan | Serie A | Milano | xG 0.80-2.21
+2026-08-23 H 0-2 v Lecce | Serie A | Venice
+2026-08-15 H 3-2 v Modena | Coppa Italia | Venice
+2026-08-08 A 2-2 v Stade Brestois 29 | Friendlies Clubs | ?
+2026-08-01 A 3-4 v Saint Etienne | Friendlies Clubs | ?
+2026-07-27 A 3-0 v Galatasaray | Friendlies Clubs | Linz
+2026-07-23 H 8-0 v Vis Pesaro | Friendlies Clubs | ?
+2026-07-19 H 4-2 v Dolomiti Bellunesi | Friendlies Clubs | ?
+2026-05-08 H 2-0 v Palermo | Serie B | Venice
+2026-05-01 A 2-2 v Spezia | Serie B | La Spezia
+2026-04-25 H 2-0 v Empoli | Serie B | Venice
+Listed home: 10 games, scored 22 (2.20), conceded 14 (1.40), blanks 3, clean sheets 4
+Listed away: 10 games, scored 14 (1.40), conceded 20 (2.00), blanks 3, clean sheets 1
+All: 20 games, scored 36 (1.80), conceded 34 (1.70), blanks 6, clean sheets 5
+
+=== Udinese (id 494): last 20 finished games ===
+2026-10-31 H 2-5 v AS Roma | Serie A | Udine | xG 1.85-2.82
+2026-10-28 A 0-0 v Parma | Serie A | Parma | xG 1.43-1.20
+2026-10-25 H 0-2 v AC Milan | Serie A | Udine | xG 0.55-3.59
+2026-10-18 H 0-3 v Lecce | Serie A | Udine | xG 0.54-3.47
+2026-10-12 A 1-2 v Torino | Serie A | Turin | xG 0.76-2.62
+2026-09-26 A 1-1 v Pogon Szczecin | Friendlies Clubs | Szczecin
+2026-09-19 H 0-1 v Cagliari | Serie A | Udine | xG 2.13-1.12
+2026-09-14 A 3-5 v Inter | Serie A | Milano | xG 0.92-3.05
+2026-09-07 H 1-2 v Lazio | Serie A | Udine | xG 0.85-1.83
+2026-09-02 H 2-1 v Venezia | Coppa Italia | Udine
+2026-08-29 A 3-2 v Monza | Serie A | Monza
+2026-08-22 H 1-1 v Como | Serie A | Udine
+2026-08-15 H 1-0 v Padova | Coppa Italia | Udine
+2026-08-08 H 1-0 v Barcelona | Friendlies Clubs | ?
+2026-08-08 H 1-0 v Nottingham Forest | Friendlies Clubs | ?
+2026-08-02 A 0-1 v Trabzonspor | Friendlies Clubs | Landskrona
+2026-08-01 H 3-3 v FSV Mainz 05 | Friendlies Clubs | ?
+2026-07-28 H 1-2 v Shabab Al Ahli Dubai | Friendlies Clubs | ?
+2026-07-24 A 0-2 v Swansea | Friendlies Clubs | ?
+2026-07-18 H 2-2 v Istra 1961 | Friendlies Clubs | ?
+Listed home: 13 games, scored 15 (1.15), conceded 22 (1.69), blanks 3, clean sheets 3
+Listed away: 7 games, scored 8 (1.14), conceded 13 (1.86), blanks 3, clean sheets 1
+All: 20 games, scored 23 (1.15), conceded 35 (1.75), blanks 6, clean sheets 4
+
+TABLE FOR Venezia
+LEAGUE TABLE Serie A 2026 | 20 teams | 100 games played
+League averages per game: home 1.62, away 1.56, total 3.18
+#   team                   Pts | home P GF-GA  | away P GF-GA  | all P GF-GA
+1   Lazio                   28 |  5  10-5       |  5  14-3       | 10  24-8
+2   Inter                   25 |  5  17-7       |  5   9-6       | 10  26-13
+3   AS Roma                 24 |  5  14-5       |  5  14-5       | 10  28-10
+4   Como                    23 |  4   5-1       |  6  13-7       | 10  18-8
+5   AC Milan                21 |  5  13-7       |  5   8-5       | 10  21-12
+6   Frosinone               20 |  6  16-6       |  4   8-8       | 10  24-14
+7   Juventus                17 |  5   7-4       |  5   6-6       | 10  13-10
+8   Napoli                  14 |  4   8-5       |  6   9-8       | 10  17-13
+9   Bologna                 14 |  5   6-8       |  5   8-5       | 10  14-13
+10  Torino                  13 |  5   7-10      |  5   7-6       | 10  14-16
+11  Genoa                   13 |  6   7-8       |  4   3-6       | 10  10-14
+12  Cagliari                13 |  4   2-4       |  6   7-11      | 10   9-15
+13  Atalanta                11 |  6  11-11      |  4   5-9       | 10  16-20
+14  Lecce                    9 |  5   5-12      |  5   6-9       | 10  11-21
+15  Parma                    8 |  5   3-6       |  5   5-9       | 10   8-15
+16  Fiorentina               8 |  5   5-11      |  5  10-12      | 10  15-23
+17  Sassuolo                 8 |  5  10-14      |  5   6-12      | 10  16-26
+18  Monza                    7 |  4   9-8       |  6   8-16      | 10  17-24
+19  Udinese                  5 |  6   4-14      |  4   7-9       | 10  11-23
+20  Venezia                  3 |  5   3-10      |  5   3-10      | 10   6-20
+
+(Udinese: same table as Venezia, shown above)
+
+(25 API-Football requests used)
+
+----------------------------------------------------------------------
+MATCHBOOK: skipped (switched off for this run)

@@ -1,0 +1,78 @@
+MATCH Rapid Vienna v Wolfsberger AC | fetched 2026-11-06 06:43 local
+
+FORM DATA Rapid Vienna v Wolfsberger AC | source API-Football | 2026-11-06 06:43 UTC
+H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
+
+=== Rapid Vienna (id 781): last 20 finished games ===
+2026-11-01 A 2-0 v Austria Vienna | Bundesliga | Vienna | xG 2.22-1.16
+2026-10-27 A 3-0 v First Vienna | Cup | Vienna
+2026-10-24 H 5-1 v Austria Lustenau | Bundesliga | Vienna | xG 3.90-0.88
+2026-10-16 H 3-1 v TSV Hartberg | Bundesliga | Vienna | xG 1.81-1.03
+2026-10-11 A 2-0 v Lask Linz | Bundesliga | Linz | xG 2.33-1.11
+2026-09-18 H 3-0 v WSG Wattens | Bundesliga | Vienna | xG 2.85-0.36
+2026-09-12 A 3-0 v Wolfsberger AC | Bundesliga | Wolfsberg | xG 1.05-0.86
+2026-09-05 A 5-2 v Austria Klagenfurt | Cup | Klagenfurt
+2026-09-02 A 1-5 v Red Bull Salzburg | Bundesliga | Salzburg | xG 1.02-2.75
+2026-08-30 H 3-1 v Sturm Graz | Bundesliga | Vienna | xG 2.37-0.76
+2026-08-26 H 1-1 v Heart Of Midlothian | UEFA Europa Conference League | Vienna [PEN, 90-min score shown]
+2026-08-20 A 2-2 v Heart Of Midlothian | UEFA Europa Conference League | Edinburgh
+2026-08-16 H 8-0 v Grazer AK | Bundesliga | Vienna
+2026-08-12 H 2-0 v Paide | UEFA Europa Conference League | Vienna
+2026-08-09 A 2-1 v Ried | Bundesliga | Ried im Innkreis
+2026-08-06 A 4-1 v Paide | UEFA Europa Conference League | Tallinn
+2026-08-02 H 1-0 v SCR Altach | Bundesliga | Vienna
+2026-07-29 H 6-2 v FC Santa Coloma | UEFA Europa Conference League | Vienna
+2026-07-26 A 3-0 v Wienerberg | Cup | ?
+2026-07-23 A 3-1 v FC Santa Coloma | UEFA Europa Conference League | Andorra la Vella
+Listed home: 9 games, scored 32 (3.56), conceded 6 (0.67), blanks 0, clean sheets 4
+Listed away: 11 games, scored 30 (2.73), conceded 12 (1.09), blanks 0, clean sheets 5
+All: 20 games, scored 62 (3.10), conceded 18 (0.90), blanks 0, clean sheets 9
+
+=== Wolfsberger AC (id 1025): last 20 finished games ===
+2026-11-01 H 1-1 v Sturm Graz | Bundesliga | Wolfsburg | xG 1.10-1.76
+2026-10-27 A 0-1 v WSPG Wels | Cup | Wels
+2026-10-24 A 0-1 v TSV Hartberg | Bundesliga | Hartberg | xG 0.70-1.27
+2026-10-18 H 0-2 v WSG Wattens | Bundesliga | Wolfsburg | xG 1.33-1.76
+2026-10-11 A 0-3 v SCR Altach | Bundesliga | Artach | xG 0.26-1.89
+2026-10-02 H 2-1 v Voitsberg | Friendlies Clubs | ?
+2026-09-20 A 1-4 v Ried | Bundesliga | Reed | xG 1.96-4.83
+2026-09-12 H 0-3 v Rapid Vienna | Bundesliga | Wolfsberg | xG 0.86-1.05
+2026-09-06 A 1-1 v Parndorf | Cup | Parndorf [PEN, 90-min score shown]
+2026-09-01 H 1-3 v Lask Linz | Bundesliga | Wolfsberg | xG 0.34-3.19
+2026-08-29 A 0-0 v Grazer AK | Bundesliga | Graz
+2026-08-15 A 1-2 v Austria Lustenau | Bundesliga | Lustenau
+2026-08-09 H 1-1 v Red Bull Salzburg | Bundesliga | Wolfsberg
+2026-08-02 H 3-0 v Austria Vienna | Bundesliga | Wolfsberg
+2026-07-24 A 5-1 v Lauterach | Cup | ?
+2026-07-20 A 4-0 v Velden | Friendlies Clubs | ?
+2026-07-17 H 6-1 v SV Kapfenberg | Friendlies Clubs | ?
+2026-07-13 H 1-1 v Hradec Králové | Friendlies Clubs | ?
+2026-07-10 H 3-3 v FC Kharkiv | Friendlies Clubs | ?
+2026-07-03 H 8-2 v Admira Wacker | Friendlies Clubs | ?
+Listed home: 11 games, scored 26 (2.36), conceded 18 (1.64), blanks 2, clean sheets 1
+Listed away: 9 games, scored 12 (1.33), conceded 13 (1.44), blanks 4, clean sheets 2
+All: 20 games, scored 38 (1.90), conceded 31 (1.55), blanks 6, clean sheets 3
+
+TABLE FOR Rapid Vienna
+LEAGUE TABLE Bundesliga 2026 | 12 teams | 66 games played
+League averages per game: home 1.86, away 1.32, total 3.18
+#   team                   Pts | home P GF-GA  | away P GF-GA  | all P GF-GA
+1   Rapid Vienna            30 |  6  23-3       |  5  10-6       | 11  33-9
+2   Red Bull Salzburg       27 |  6  21-3       |  5   8-3       | 11  29-6
+3   Lask Linz               22 |  6  13-7       |  5  13-6       | 11  26-13
+4   Sturm Graz              19 |  5  12-5       |  6   7-8       | 11  19-13
+5   TSV Hartberg            17 |  6  11-12      |  5   9-7       | 11  20-19
+6   Ried                    16 |  5  10-6       |  6   9-12      | 11  19-18
+7   WSG Wattens             12 |  5   5-9       |  6   9-8       | 11  14-17
+8   SCR Altach              10 |  6  11-7       |  5   0-10      | 11  11-17
+9   Grazer AK               10 |  5   4-7       |  6   4-20      | 11   8-27
+10  Austria Lustenau         8 |  5   5-10      |  6   8-19      | 11  13-29
+11  Austria Vienna           7 |  5   2-8       |  6   8-14      | 11  10-22
+12  Wolfsberger AC           6 |  6   6-10      |  5   2-10      | 11   8-20
+
+(Wolfsberger AC: same table as Rapid Vienna, shown above)
+
+(25 API-Football requests used)
+
+----------------------------------------------------------------------
+MATCHBOOK: skipped (switched off for this run)

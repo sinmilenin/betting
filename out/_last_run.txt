@@ -1,3 +1,26 @@
-RUN 2026-11-06 05:58 local | 1 match(es)
-Sydney v Central Coast Mariners -> out/Sydney_v_Central_Coast_Mariners.txt
-Requests used: API-Football 25, Matchbook 0
+RUN 2026-11-06 06:43 local | 18 match(es)
+Sevilla v Alaves -> out/Sevilla_v_Alaves.txt
+Everton v Coventry -> out/Everton_v_Coventry.txt
+Venezia v Udinese -> out/Venezia_v_Udinese.txt
+Hamburger SV v Borussia Monchengladbach -> out/Hamburger_SV_v_Borussia_Monchengladbach.txt
+    !! Borussia Monchengladbach: Ambiguous team name "Borussia Monchengladbach".
+Derby v Bolton -> out/Derby_v_Bolton.txt
+Rapid Vienna v Wolfsberger AC -> out/Rapid_Vienna_v_Wolfsberger_AC.txt
+Toulouse v Strasbourg -> out/Toulouse_v_Strasbourg.txt
+Braunschweig v Energie Cottbus -> out/Braunschweig_v_Energie_Cottbus.txt
+    !! Braunschweig: Ambiguous team name "Braunschweig".
+Willem II v PEC Zwolle -> out/Willem_II_v_PEC_Zwolle.txt
+Oxford City v Leicester -> out/Oxford_City_v_Leicester.txt
+Maccabi Tel Aviv v Maccabi Petah Tikva -> out/Maccabi_Tel_Aviv_v_Maccabi_Petah_Tikva.txt
+Lokomotiva v Rudes -> out/Lokomotiva_v_Rudes.txt
+Ascoli v Palermo -> out/Ascoli_v_Palermo.txt
+Dynamo Dresden v Greuther Furth -> out/Dynamo_Dresden_v_Greuther_Furth.txt
+    !! Greuther Furth: Ambiguous team name "Greuther Furth".
+Famalicao v Arouca -> out/Famalicao_v_Arouca.txt
+Gaziantep FK v Kasimpasa -> out/Gaziantep_FK_v_Kasimpasa.txt
+Hammarby v Elfsborg -> out/Hammarby_v_Elfsborg.txt
+    !! Hammarby: Ambiguous team name "Hammarby".
+    !! Elfsborg: Ambiguous team name "Elfsborg".
+Operario-PR v Sport Recife -> out/Operario_PR_v_Sport_Recife.txt
+    !! Operario-PR: API-Football error: {"search": "The Search field may only contain alpha-numeric characters and spaces."}
+Requests used: API-Football 388, Matchbook 0
