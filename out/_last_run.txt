@@ -1,4 +1,11 @@
-RUN 2026-11-06 14:18 local | 2 match(es)
-BKMA v Alashkert -> out/BKMA_v_Alashkert.txt
-id:2900 v Al Shahaniya -> out/id_2900_v_Al_Shahaniya.txt
-Requests used: API-Football 50, Matchbook 0
+RUN 2026-11-06 14:58 local | 3 match(es)
+Al Buqaa v Al Wehdat -> out/Al_Buqaa_v_Al_Wehdat.txt
+    !! Al Buqaa: API-Football error: {"requests": "You have reached the request limit for the day, Go to https://dashboard.api-football.com to upgrade your plan."}
+    !! Al Wehdat: API-Football error: {"requests": "You have reached the request limit for the day, Go to https://dashboard.api-football.com to upgrade your plan."}
+AEK Larnaca v Karmiotissa -> out/AEK_Larnaca_v_Karmiotissa.txt
+    !! AEK Larnaca: API-Football error: {"requests": "You have reached the request limit for the day, Go to https://dashboard.api-football.com to upgrade your plan."}
+    !! Karmiotissa: API-Football error: {"requests": "You have reached the request limit for the day, Go to https://dashboard.api-football.com to upgrade your plan."}
+Botev Plovdiv v Dunav Ruse -> out/Botev_Plovdiv_v_Dunav_Ruse.txt
+    !! Botev Plovdiv: API-Football error: {"requests": "You have reached the request limit for the day, Go to https://dashboard.api-football.com to upgrade your plan."}
+    !! Dunav Ruse: API-Football error: {"requests": "You have reached the request limit for the day, Go to https://dashboard.api-football.com to upgrade your plan."}
+Requests used: API-Football 6, Matchbook 0

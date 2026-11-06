@@ -1,0 +1,13 @@
+MATCH Al Buqaa v Al Wehdat | fetched 2026-11-06 14:58 local
+
+FORM DATA Al Buqaa v Al Wehdat | source API-Football | 2026-11-06 14:58 UTC
+H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
+
+!! Al Buqaa: API-Football error: {"requests": "You have reached the request limit for the day, Go to https://dashboard.api-football.com to upgrade your plan."}
+
+!! Al Wehdat: API-Football error: {"requests": "You have reached the request limit for the day, Go to https://dashboard.api-football.com to upgrade your plan."}
+
+(2 API-Football requests used)
+
+----------------------------------------------------------------------
+MATCHBOOK: skipped (switched off for this run)
