@@ -1,2 +1,4 @@
-# scan 06.11 14:27: retry Teleghma
-JSM Skikda v Teleghma | n=20 | xg=10
+# scan 06.11 15:14
+BKMA Yerevan v Alashkert | n=20 | xg=10
+ENPPI v Proxy | n=20 | xg=10
+Al Wakra v Al Shahaniya | n=20 | xg=10
