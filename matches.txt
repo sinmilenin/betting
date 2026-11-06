@@ -1,3 +1,2 @@
-# scan 06.11 08:26
-Psim Yogyakarta v Dewa United | n=20 | xg=10
-Van Hien University v Hue | n=20 | xg=10
+# scan 06.11 08:26 retry Hue id
+Van Hien v id:9162 | n=20 | xg=10
