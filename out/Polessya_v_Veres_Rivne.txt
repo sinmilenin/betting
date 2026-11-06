@@ -1,7 +1,32 @@
-MATCH Polissya Zhytomyr v Veres Rivne | fetched 2026-11-06 08:14 local
+MATCH Polessya v Veres Rivne | fetched 2026-11-06 08:15 local
 
-FORM DATA Polissya Zhytomyr v Veres Rivne | source API-Football | 2026-11-06 08:14 UTC
+FORM DATA Polessya v Veres Rivne | source API-Football | 2026-11-06 08:15 UTC
 H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
+
+=== Polessya (id 6496): last 20 finished games ===
+2026-10-28 H 2-0 v Novyi Rozdil | Cup | Zhytomyr
+2026-10-23 H 3-0 v Obolon'-Brovar | Premier League | Zhytomyr
+2026-10-18 H 3-1 v Dynamo Kyiv | Premier League | Zhytomyr
+2026-10-11 A 2-2 v Bukovyna | Premier League | Chernivtsi | xG 2.53-0.72
+2026-10-03 A 2-1 v FC Kharkiv | Friendlies Clubs | ?
+2026-09-18 H 1-0 v Kryvbas KR | Premier League | Zhytomyr
+2026-09-13 H 1-0 v Livyi Bereh | Premier League | Zhytomyr
+2026-09-09 H 2-0 v Kudrivka | Cup | Zhytomyr
+2026-09-04 H 5-1 v Kudrivka | Premier League | Zhytomyr
+2026-08-29 A 2-0 v Shakhtar Donetsk | Premier League | Lviv
+2026-08-17 H 1-2 v Zorya Luhansk | Premier League | Zhytomyr
+2026-08-10 H 3-1 v FC Kharkiv | Premier League | Zhytomyr
+2026-08-02 A 2-1 v Chornomorets | Premier League | Odesa
+2026-07-29 A 1-2 v FC Copenhagen | UEFA Europa Conference League | Copenhagen
+2026-07-23 H 3-3 v FC Copenhagen | UEFA Europa Conference League | Kosice
+2026-07-14 A 0-2 v Plzen | Friendlies Clubs | ?
+2026-07-14 H 1-3 v Shimizu S-pulse | Friendlies Clubs | ?
+2026-07-10 A 2-1 v WSG Wattens | Friendlies Clubs | ?
+2026-07-09 H 0-0 v Jagiellonia | Friendlies Clubs | ?
+2026-07-02 A 11-0 v Wörgl | Friendlies Clubs | ?
+Listed home: 12 games, scored 25 (2.08), conceded 11 (0.92), blanks 1, clean sheets 6
+Listed away: 8 games, scored 22 (2.75), conceded 9 (1.12), blanks 1, clean sheets 2
+All: 20 games, scored 47 (2.35), conceded 20 (1.00), blanks 2, clean sheets 8
 
 === Veres Rivne (id 6501): last 20 finished games ===
 2026-10-31 H 1-3 v Chornomorets | Premier League | Rivne
@@ -28,9 +53,7 @@ Listed home: 11 games, scored 14 (1.27), conceded 20 (1.82), blanks 2, clean she
 Listed away: 9 games, scored 9 (1.00), conceded 10 (1.11), blanks 3, clean sheets 4
 All: 20 games, scored 23 (1.15), conceded 30 (1.50), blanks 5, clean sheets 5
 
-!! Polissya Zhytomyr: No team found for "Polissya Zhytomyr".
-
-TABLE FOR Veres Rivne
+TABLE FOR Polessya
 LEAGUE TABLE Premier League 2026 | 16 teams | 81 games played
 League averages per game: home 1.41, away 1.01, total 2.42
 #   team                   Pts | home P GF-GA  | away P GF-GA  | all P GF-GA
@@ -51,7 +74,9 @@ League averages per game: home 1.41, away 1.01, total 2.42
 15  Kryvbas KR               6 |  5   4-12      |  4   3-3       |  9   7-15
 16  Kudrivka                 5 |  4   6-7       |  7   5-22      | 11  11-29
 
-(14 API-Football requests used)
+(Veres Rivne: same table as Polessya, shown above)
+
+(26 API-Football requests used)
 
 ----------------------------------------------------------------------
 MATCHBOOK: skipped (switched off for this run)
