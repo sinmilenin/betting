@@ -1,3 +1,4 @@
-RUN 2026-11-06 12:46 local | 1 match(es)
-Austria Vienna v First Vienna -> out/Austria_Vienna_v_First_Vienna.txt
-Requests used: API-Football 26, Matchbook 0
+RUN 2026-11-06 12:47 local | 1 match(es)
+Austria Vien v First Vienna -> out/Austria_Vien_v_First_Vienna.txt
+    !! Austria Vien: Ambiguous team name "Austria Vien".
+Requests used: API-Football 15, Matchbook 0
