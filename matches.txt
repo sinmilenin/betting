@@ -1,10 +1,5 @@
-# scan 06.11 13:42 (regular + top-20 new fixtures)
-Birmingham U21 v West Ham U21 | n=20 | xg=10
-Millwall U21 v Cardiff U21 | n=20 | xg=10
-Septemvri Sofia v Lokomotiv Sofia | n=20 | xg=10
-UTA Arad v Petrolul Ploiesti | n=20 | xg=10
-Standard Liege v Beveren | n=20 | xg=10
-Arges Pitesti v Dinamo Bucuresti | n=20 | xg=10
-Nancy v Sochaux | n=20 | xg=10
-Montpellier v Metz | n=20 | xg=10
-Austria Wien II v First Vienna | n=20 | xg=10
+# scan 06.11 13:42 retry (names)
+Birmingham City U21 v West Ham United U21 | n=20 | xg=10
+Millwall U21 v Cardiff City U21 | n=20 | xg=10
+Standard Liege v id:738 | n=20 | xg=10
+Austria Vienna Am v First Vienna | n=20 | xg=10
