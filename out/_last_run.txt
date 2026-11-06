@@ -1,5 +1,5 @@
-RUN 2026-11-05 19:57 local | 3 match(es)
-Palmeiras v Remo -> out/Palmeiras_v_Remo.txt
-Independiente del Valle v Delfin -> out/Independiente_del_Valle_v_Delfin.txt
-Cruzeiro v Bahia -> out/Cruzeiro_v_Bahia.txt
-Requests used: API-Football 77, Matchbook 0
+RUN 2026-11-06 05:57 local | 2 match(es)
+Adelaide United W v Wellington Phoenix W -> out/Adelaide_United_W_v_Wellington_Phoenix_W.txt
+Sydney FC v Central Coast Mariners -> out/Sydney_FC_v_Central_Coast_Mariners.txt
+    !! Sydney FC: Ambiguous team name "Sydney FC".
+Requests used: API-Football 40, Matchbook 0

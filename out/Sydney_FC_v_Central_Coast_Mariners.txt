@@ -1,0 +1,62 @@
+MATCH Sydney FC v Central Coast Mariners | fetched 2026-11-06 05:57 local
+
+FORM DATA Sydney FC v Central Coast Mariners | source API-Football | 2026-11-06 05:57 UTC
+H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
+
+"Sydney FC" matches several teams. Use id:<number> instead of the name:
+  id:1968   Sydney FC W (Australia)
+  id:3773   Sydney FC U23 (Australia)
+  id:27811  Sydney FC U20 (Australia)
+=== Central Coast Mariners (id 941): last 20 finished games ===
+2026-11-01 A 1-1 v Melbourne Victory | A-League | Melbourne | xG 0.95-1.05
+2026-10-25 A 0-2 v Wellington Phoenix | A-League | Wellington | xG 0.64-1.88
+2026-10-17 H 2-2 v Newcastle Jets | A-League | Gosford | xG 2.74-2.29
+2026-09-26 A 1-5 v Western Sydney Wanderers | Friendlies Clubs | ?
+2026-09-12 A 0-1 v Vanuatu United | Friendlies Clubs | ?
+2026-09-09 A 2-3 v Vanuatu United | Friendlies Clubs | ?
+2026-07-22 A 1-1 v Sydney United | Australia Cup | Sydney [PEN, 90-min score shown]
+2026-04-25 A 0-4 v Newcastle Jets | A-League | Newcastle | xG 0.40-3.06
+2026-04-19 A 1-0 v Auckland | A-League | Auckland | xG 1.84-1.43
+2026-04-10 H 2-2 v Brisbane Roar | A-League | Gosford | xG 0.36-1.50
+2026-04-07 A 1-2 v Melbourne City | A-League | Melbourne
+2026-04-04 H 2-2 v Perth Glory | A-League | Gosford
+2026-03-21 A 1-4 v Melbourne Victory | A-League | Melbourne
+2026-03-14 H 1-1 v Adelaide United | A-League | Gosford
+2026-03-04 A 3-1 v Macarthur | A-League | Sydney
+2026-02-28 H 0-0 v Newcastle Jets | A-League | Gosford
+2026-02-22 H 3-2 v Western Sydney Wanderers | A-League | Gosford
+2026-02-07 A 2-1 v Brisbane Roar | A-League | Brisbane
+2026-02-01 H 1-0 v Melbourne Victory | A-League | Gosford
+2026-01-24 A 2-2 v Auckland | A-League | Auckland
+Listed home: 7 games, scored 11 (1.57), conceded 9 (1.29), blanks 1, clean sheets 2
+Listed away: 13 games, scored 15 (1.15), conceded 27 (2.08), blanks 3, clean sheets 1
+All: 20 games, scored 26 (1.30), conceded 36 (1.80), blanks 4, clean sheets 3
+
+(retrying Sydney FC using the opponent's country, Australia)
+"Sydney FC" matches several teams. Use id:<number> instead of the name:
+  id:1968   Sydney FC W (Australia)
+  id:3773   Sydney FC U23 (Australia)
+  id:27811  Sydney FC U20 (Australia)
+!! Sydney FC: Ambiguous team name "Sydney FC".
+
+TABLE FOR Central Coast Mariners
+LEAGUE TABLE A-League 2026 | 12 teams | 17 games played
+League averages per game: home 1.76, away 1.00, total 2.76
+#   team                   Pts | home P GF-GA  | away P GF-GA  | all P GF-GA
+1   Wellington Phoenix       9 |  2   4-1       |  1   3-0       |  3   7-1
+2   Western Sydney Wandere   5 |  1   5-2       |  2   0-0       |  3   5-2
+3   Macarthur                5 |  2   2-1       |  1   1-1       |  3   3-2
+4   Brisbane Roar            4 |  2   3-2       |  0   0-0       |  2   3-2
+5   Sydney                   4 |  2   2-1       |  1   1-2       |  3   3-3
+6   Auckland                 4 |  1   3-1       |  2   3-6       |  3   6-7
+7   Melbourne City           4 |  1   2-1       |  2   2-4       |  3   4-5
+8   Perth Glory              3 |  1   4-0       |  2   2-4       |  3   6-4
+9   Melbourne Victory        2 |  2   2-2       |  1   1-2       |  3   3-4
+10  Central Coast Mariners   2 |  1   2-2       |  2   1-3       |  3   3-5
+11  Newcastle Jets           2 |  2   1-4       |  1   2-2       |  3   3-6
+12  Adelaide United          0 |  0   0-0       |  2   1-6       |  2   1-6
+
+(15 API-Football requests used)
+
+----------------------------------------------------------------------
+MATCHBOOK: skipped (switched off for this run)
