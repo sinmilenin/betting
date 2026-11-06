@@ -1,2 +1,2 @@
-# scan 06.11 13:42 retry Austria Wien (Am)
-Austria Vienna v First Vienna | n=20 | xg=10
+# scan 06.11 13:42 retry Austria Wien (Am) id lookup
+Austria Vien v First Vienna | n=20 | xg=10
