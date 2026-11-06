@@ -1,5 +1,3 @@
-RUN 2026-11-06 05:57 local | 2 match(es)
-Adelaide United W v Wellington Phoenix W -> out/Adelaide_United_W_v_Wellington_Phoenix_W.txt
-Sydney FC v Central Coast Mariners -> out/Sydney_FC_v_Central_Coast_Mariners.txt
-    !! Sydney FC: Ambiguous team name "Sydney FC".
-Requests used: API-Football 40, Matchbook 0
+RUN 2026-11-06 05:58 local | 1 match(es)
+Sydney v Central Coast Mariners -> out/Sydney_v_Central_Coast_Mariners.txt
+Requests used: API-Football 25, Matchbook 0
