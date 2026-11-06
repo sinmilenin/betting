@@ -1,4 +1,6 @@
-RUN 2026-11-06 06:47 local | 2 match(es)
-Gaziantep FK v id:1004 -> out/Gaziantep_FK_v_id_1004.txt
-Operario Ferroviario v id:123 -> out/Operario_Ferroviario_v_id_123.txt
-Requests used: API-Football 51, Matchbook 0
+RUN 2026-11-06 07:27 local | 2 match(es)
+Psim Yogyakarta v Dewa United -> out/Psim_Yogyakarta_v_Dewa_United.txt
+Van Hien University v Hue -> out/Van_Hien_University_v_Hue.txt
+    !! Van Hien University: No team found for "Van Hien University".
+    !! Hue: Ambiguous team name "Hue".
+Requests used: API-Football 28, Matchbook 0

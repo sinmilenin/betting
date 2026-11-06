@@ -1,0 +1,122 @@
+MATCH Psim Yogyakarta v Dewa United | fetched 2026-11-06 07:27 local
+
+FORM DATA Psim Yogyakarta v Dewa United | source API-Football | 2026-11-06 07:27 UTC
+H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
+
+=== PSIM Yogyakarta (id 4235): last 20 finished games ===
+2026-11-01 H 2-1 v Pusamania Borneo | Liga 1 | Yogyakarta
+2026-10-24 A 0-0 v Isenmulang Kalteng | Liga 1 | ?
+2026-10-20 A 0-1 v Bhayangkara FC | Liga 1 | Bandar Lampung
+2026-10-16 H 1-2 v PSM Makassar | Liga 1 | Yogyakarta
+2026-10-10 H 0-4 v Persija | Liga 1 | Yogyakarta
+2026-09-18 A 1-2 v Persepam Madura Utd | Liga 1 | Pamekasan
+2026-09-13 A 0-1 v Persebaya Surabaya | Liga 1 | Surabaya
+2026-09-05 H 1-1 v Persita | Liga 1 | Yogyakarta
+2026-05-22 A 1-3 v Arema FC | Liga 1 | Malang
+2026-05-17 H 2-1 v Persepam Madura Utd | Liga 1 | Yogyakarta
+2026-05-10 H 2-0 v Java United | Liga 1 | Yogyakarta
+2026-05-04 A 0-1 v Persib Bandung | Liga 1 | Bandung
+2026-04-30 H 0-1 v Persita | Liga 1 | Yogyakarta
+2026-04-22 H 1-1 v Persija | Liga 1 | Yogyakarta
+2026-04-17 A 1-2 v Bhayangkara FC | Liga 1 | Bandar Lampung
+2026-04-10 H 1-2 v PSM Makassar | Liga 1 | Yogyakarta
+2026-04-03 A 0-1 v Dewa United | Liga 1 | Tangerang
+2026-03-11 H 2-2 v Persijap | Liga 1 | Yogyakarta
+2026-03-04 A 0-0 v Semen Padang | Liga 1 | Padang
+2026-02-27 A 4-2 v PSBS Biak Numfor | Liga 1 | Biak
+Listed home: 10 games, scored 12 (1.20), conceded 15 (1.50), blanks 2, clean sheets 1
+Listed away: 10 games, scored 7 (0.70), conceded 13 (1.30), blanks 6, clean sheets 2
+All: 20 games, scored 19 (0.95), conceded 28 (1.40), blanks 8, clean sheets 3
+
+=== Dewa United (id 17902): last 20 finished games ===
+2026-11-03 H 3-1 v Persita | League Cup Indonesia | Tangerang
+2026-10-31 H 2-1 v Persija | Liga 1 | Tangerang
+2026-10-25 A 0-4 v Arema FC | Liga 1 | Malang
+2026-10-20 H 2-0 v Persijap | Liga 1 | Tangerang
+2026-10-11 A 2-2 v Persib Bandung | Liga 1 | Bandung
+2026-09-20 H 2-1 v PSS Sleman | Liga 1 | Tangerang
+2026-09-16 A 3-1 v Pusamania Borneo | Liga 1 | Balikpapan
+2026-09-11 H 2-2 v Bhayangkara FC | Liga 1 | Tangerang
+2026-09-05 A 1-0 v Persik Kediri | Liga 1 | Kediri
+2026-05-22 H 0-1 v Bali United | Liga 1 | Tangerang
+2026-05-16 A 0-1 v Persis Solo | Liga 1 | Surakarta
+2026-05-08 A 5-0 v PSBS Biak Numfor | Liga 1 | Biak
+2026-05-03 H 1-0 v Semen Padang | Liga 1 | Tangerang
+2026-04-29 H 1-0 v Persijap | Liga 1 | Tangerang
+2026-04-25 A 2-1 v Persepam Madura Utd | Liga 1 | Pamekasan
+2026-04-20 H 2-2 v Persib Bandung | Liga 1 | Tangerang
+2026-04-12 A 2-1 v Java United | Liga 1 | Ternate
+2026-04-03 H 1-0 v PSIM Yogyakarta | Liga 1 | Tangerang
+2026-03-15 A 1-1 v Persija | Liga 1 | Jakarta
+2026-03-12 H 2-2 v Manila Digger | AFC Challenge League | Tangerang
+Listed home: 11 games, scored 18 (1.64), conceded 10 (0.91), blanks 1, clean sheets 4
+Listed away: 9 games, scored 16 (1.78), conceded 11 (1.22), blanks 2, clean sheets 2
+All: 20 games, scored 34 (1.70), conceded 21 (1.05), blanks 3, clean sheets 6
+
+TABLE FOR PSIM Yogyakarta
+LEAGUE TABLE Liga 1 2026 | 18 teams | 71 games played
+League averages per game: home 1.77, away 1.15, total 2.93
+#   team                   Pts | home P GF-GA  | away P GF-GA  | all P GF-GA
+1   Persija                 18 |  4  10-3       |  4   8-5       |  8  18-8
+2   Dewa United             17 |  4   8-4       |  4   6-7       |  8  14-11
+3   Bali United             16 |  4  17-3       |  4   6-6       |  8  23-9
+4   Persib Bandung          16 |  4  10-3       |  4   5-5       |  8  15-8
+5   Persepam Madura Utd     16 |  4   8-4       |  4   5-6       |  8  13-10
+6   Persita                 15 |  4   9-6       |  3   8-4       |  7  17-10
+7   Persebaya Surabaya      13 |  5   8-5       |  3   2-2       |  8  10-7
+8   Bhayangkara FC          11 |  4   4-1       |  4   7-9       |  8  11-10
+9   Java United             10 |  4   8-4       |  4   4-6       |  8  12-10
+10  Persik Kediri           10 |  4   5-7       |  4   4-4       |  8   9-11
+11  Arema FC                 9 |  5  12-6       |  3   5-11      |  8  17-17
+12  Pusamania Borneo         9 |  3   2-4       |  4   5-5       |  7   7-9
+13  PSM Makassar             9 |  4   6-6       |  4   3-7       |  8   9-13
+14  Garudayaksa              8 |  4   7-6       |  4   3-9       |  8  10-15
+15  PSIM Yogyakarta          5 |  4   4-8       |  4   1-4       |  8   5-12
+16  PSS Sleman               4 |  3   5-5       |  5   6-11      |  8  11-16
+17  Isenmulang Kalteng       3 |  3   1-2       |  5   2-14      |  8   3-16
+18  Persijap                 2 |  4   2-5       |  4   2-11      |  8   4-16
+
+TABLE FOR Dewa United
+LEAGUE TABLE League Cup Indonesia 2026 | 36 teams | 0 games played
+#   team                   Pts | home P GF-GA  | away P GF-GA  | all P GF-GA
+1   PSMS Medan               1 |  0   0-0       |  0   0-0       |  1   1-1 [Group A]
+2   Persija                  1 |  0   0-0       |  0   0-0       |  1   1-1 [Group A]
+3   Sumsel United            0 |  0   0-0       |  0   0-0       |  0   0-0 [Group A]
+1   Bhayangkara FC           3 |  0   0-0       |  0   0-0       |  1   3-1 [Group B]
+2   Semen Padang             0 |  0   0-0       |  0   0-0       |  0   0-0 [Group B]
+3   PSPS                     0 |  0   0-0       |  0   0-0       |  1   1-3 [Group B]
+1   Dewa United              3 |  0   0-0       |  0   0-0       |  1   3-1 [Group C]
+2   Persiraja Banda Aceh     0 |  0   0-0       |  0   0-0       |  0   0-0 [Group C]
+3   Persita                  0 |  0   0-0       |  0   0-0       |  1   1-3 [Group C]
+1   Java United              3 |  0   0-0       |  0   0-0       |  1   5-0 [Group D]
+2   PSIS Semarang            0 |  0   0-0       |  0   0-0       |  0   0-0 [Group D]
+3   Bekasi City              0 |  0   0-0       |  0   0-0       |  1   0-5 [Group D]
+1   Persikad Depok FC        3 |  0   0-0       |  0   0-0       |  1   6-2 [Group E]
+2   PSIM Yogyakarta          0 |  0   0-0       |  0   0-0       |  0   0-0 [Group E]
+3   Persiku Kudus            0 |  0   0-0       |  0   0-0       |  1   2-6 [Group E]
+1   PSS Sleman               3 |  0   0-0       |  0   0-0       |  1   6-0 [Group F]
+2   Garudayaksa              0 |  0   0-0       |  0   0-0       |  0   0-0 [Group F]
+3   PSGC Ciamis              0 |  0   0-0       |  0   0-0       |  1   0-6 [Group F]
+1   Tornado Pekanbaru        3 |  0   0-0       |  0   0-0       |  1   3-2 [Group G]
+2   PSBS Biak Numfor         0 |  0   0-0       |  0   0-0       |  0   0-0 [Group G]
+3   Persebaya Surabaya       0 |  0   0-0       |  0   0-0       |  1   2-3 [Group G]
+1   Persik Kediri            3 |  0   0-0       |  0   0-0       |  1   2-0 [Group H]
+2   Deltras                  0 |  0   0-0       |  0   0-0       |  0   0-0 [Group H]
+3   Persis Solo              0 |  0   0-0       |  0   0-0       |  1   0-2 [Group H]
+1   Persela Lamongan         3 |  0   0-0       |  0   0-0       |  1   2-0 [Group I]
+2   Persepam Madura Utd      0 |  0   0-0       |  0   0-0       |  0   0-0 [Group I]
+3   Persijap                 0 |  0   0-0       |  0   0-0       |  1   0-2 [Group I]
+1   Bali United              3 |  0   0-0       |  0   0-0       |  1   6-1 [Group J]
+2   Barito Putera            0 |  0   0-0       |  0   0-0       |  0   0-0 [Group J]
+3   Persiba Balikpapan       0 |  0   0-0       |  0   0-0       |  1   1-6 [Group J]
+1   PSM Makassar             3 |  0   0-0       |  0   0-0       |  1   2-0 [Group K]
+2   Persipura Jayapura       0 |  0   0-0       |  0   0-0       |  0   0-0 [Group K]
+3   Dejan                    0 |  0   0-0       |  0   0-0       |  1   0-2 [Group K]
+1   Arema FC                 3 |  0   0-0       |  0   0-0       |  1   4-0 [Group L]
+2   Isenmulang Kalteng       0 |  0   0-0       |  0   0-0       |  0   0-0 [Group L]
+3   RANS Nusantara           0 |  0   0-0       |  0   0-0       |  1   0-4 [Group L]
+
+(26 API-Football requests used)
+
+----------------------------------------------------------------------
+MATCHBOOK: skipped (switched off for this run)
