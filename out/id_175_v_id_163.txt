@@ -1,6 +1,6 @@
-MATCH Hamburger SV v Borussia Monchengladbach | fetched 2026-11-06 06:43 local
+MATCH id:175 v id:163 | fetched 2026-11-06 06:45 local
 
-FORM DATA Hamburger SV v Borussia Monchengladbach | source API-Football | 2026-11-06 06:43 UTC
+FORM DATA id:175 v id:163 | source API-Football | 2026-11-06 06:45 UTC
 H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
 
 === Hamburger SV (id 175): last 20 finished games ===
@@ -28,14 +28,30 @@ Listed home: 9 games, scored 13 (1.44), conceded 17 (1.89), blanks 1, clean shee
 Listed away: 11 games, scored 17 (1.55), conceded 20 (1.82), blanks 3, clean sheets 1
 All: 20 games, scored 30 (1.50), conceded 37 (1.85), blanks 4, clean sheets 3
 
-"Borussia Monchengladbach" matches several teams. Use id:<number> instead of the name:
-  id:163    Borussia Mönchengladbach (Germany)
-  id:1864   Borussia Monchengladbach W (Germany)
-(retrying Borussia Monchengladbach using the opponent's country, Germany)
-"Borussia Monchengladbach" matches several teams. Use id:<number> instead of the name:
-  id:163    Borussia Mönchengladbach (Germany)
-  id:1864   Borussia Monchengladbach W (Germany)
-!! Borussia Monchengladbach: Ambiguous team name "Borussia Monchengladbach".
+=== Borussia Mönchengladbach (id 163): last 20 finished games ===
+2026-10-31 H 0-0 v SC Paderborn 07 | Bundesliga | Monchengladbach | xG 1.07-1.04
+2026-10-27 H 2-0 v Karlsruher SC | DFB Pokal | Monchengladbach | xG 0.77-0.91
+2026-10-23 A 3-2 v VfB Stuttgart | Bundesliga | Stuttgart | xG 2.66-1.60
+2026-10-18 H 1-2 v 1899 Hoffenheim | Bundesliga | Monchengladbach | xG 0.47-1.80
+2026-10-11 A 1-2 v 1. FC Köln | Bundesliga | Cologne | xG 1.17-1.32
+2026-10-03 A 1-1 v FC St. Pauli | Friendlies Clubs | ?
+2026-09-24 A 3-0 v Sportfreunde Siegen | Friendlies Clubs | ?
+2026-09-19 H 3-4 v FSV Mainz 05 | Bundesliga | Monchengladbach | xG 3.24-2.82
+2026-09-12 A 0-5 v SC Freiburg | Bundesliga | Freiburg | xG 0.19-2.60
+2026-09-05 H 3-4 v SV Elversberg | Bundesliga | ? | xG 2.36-2.31
+2026-08-29 A 0-3 v RB Leipzig | Bundesliga | Leipzig
+2026-08-23 A 5-0 v Schott Mainz | DFB Pokal | Mainz
+2026-08-15 H 2-1 v Aston Villa | Friendlies Clubs | ?
+2026-08-12 A 8-0 v SSVg Velbert | Friendlies Clubs | ?
+2026-08-01 A 3-1 v Hansa Rostock | Friendlies Clubs | ?
+2026-07-25 A 2-1 v Rot-Weiß Essen | Friendlies Clubs | ?
+2026-07-18 A 6-0 v Wuppertaler SV | Friendlies Clubs | ?
+2026-05-20 A 6-2 v Spelle-Venhaus | Friendlies Clubs | ?
+2026-05-16 H 4-0 v 1899 Hoffenheim | Bundesliga | Monchengladbach
+2026-05-09 A 1-3 v FC Augsburg | Bundesliga | Augsburg
+Listed home: 7 games, scored 15 (2.14), conceded 11 (1.57), blanks 1, clean sheets 3
+Listed away: 13 games, scored 39 (3.00), conceded 20 (1.54), blanks 2, clean sheets 4
+All: 20 games, scored 54 (2.70), conceded 31 (1.55), blanks 3, clean sheets 7
 
 TABLE FOR Hamburger SV
 LEAGUE TABLE Bundesliga 2026 | 18 teams | 72 games played
@@ -60,7 +76,9 @@ League averages per game: home 2.12, away 1.38, total 3.50
 17  FC Schalke 04            6 |  4   0-3       |  4   4-6       |  8   4-9
 18  Borussia Mönchengladba   4 |  4   7-10      |  4   4-12      |  8  11-22
 
-(15 API-Football requests used)
+(Borussia Mönchengladbach: same table as Hamburger SV, shown above)
+
+(25 API-Football requests used)
 
 ----------------------------------------------------------------------
 MATCHBOOK: skipped (switched off for this run)

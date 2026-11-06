@@ -1,0 +1,105 @@
+MATCH Operario PR v id:123 | fetched 2026-11-06 06:45 local
+
+FORM DATA Operario PR v id:123 | source API-Football | 2026-11-06 06:45 UTC
+H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
+
+=== Operário PR U20 (id 13036): last 20 finished games ===
+2026-11-03 A 1-0 v Flamengo U20 | Copa do Brasil U20 | ?
+2026-10-27 H 0-0 v Flamengo U20 | Copa do Brasil U20 | ?
+2026-10-21 A 3-2 v Nautico U20 | Copa do Brasil U20 | ?
+2026-10-14 H 2-0 v Nautico U20 | Copa do Brasil U20 | ?
+2026-10-08 A 3-1 v Grêmio U20 | Copa do Brasil U20 | ?
+2026-09-10 H 2-2 v Chapecoense U20 | Copa do Brasil U20 | ? [PEN, 90-min score shown]
+2026-05-27 A 0-3 v Atlético GO U20 | Brasileiro U20 B | ?
+2026-05-23 A 1-2 v City London U20 | Paranaense U20 | ?
+2026-05-20 H 1-2 v Internacional U20 | Brasileiro U20 B | ?
+2026-05-15 H 2-3 v City London U20 | Paranaense U20 | ?
+2026-05-13 A 1-3 v Coritiba U20 | Brasileiro U20 B | ?
+2026-05-09 H 0-1 v City London U20 | Paranaense U20 | ?
+2026-05-03 A 1-0 v Hope Internacional U20 | Paranaense U20 | ?
+2026-04-30 H 2-1 v Paysandu PA U20 | Brasileiro U20 B | ?
+2026-04-27 A 3-2 v Parana Clube U20 | Paranaense U20 | ?
+2026-04-22 A 0-2 v Sport Recife U20 | Brasileiro U20 B | ?
+2026-04-17 H 1-2 v Galo Maringá U20 | Paranaense U20 | ?
+2026-04-11 A 1-2 v CE União U20 | Paranaense U20 | ?
+2026-04-09 H 0-6 v Botafogo SP U20 | Brasileiro U20 B | ?
+2026-04-04 H 4-2 v Cascavel U20 | Paranaense U20 | ?
+Listed home: 10 games, scored 14 (1.40), conceded 19 (1.90), blanks 3, clean sheets 2
+Listed away: 10 games, scored 14 (1.40), conceded 17 (1.70), blanks 2, clean sheets 2
+All: 20 games, scored 28 (1.40), conceded 36 (1.80), blanks 5, clean sheets 4
+
+=== Sport Recife (id 123): last 20 finished games ===
+2026-10-31 A 1-1 v Botafogo SP | Serie B | Ribeirao Preto | xG 0.88-0.94
+2026-10-24 H 2-1 v Criciuma | Serie B | Recife | xG 1.51-1.56
+2026-10-16 H 0-2 v Fortaleza EC | Serie B | Recife | xG 0.81-0.67
+2026-10-11 A 1-1 v Atletico Goianiense | Serie B | Goiania | xG 1.84-2.03
+2026-10-06 H 2-1 v São Bernardo | Serie B | Recife | xG 1.63-1.99
+2026-10-01 A 2-1 v Athletic Club | Serie B | Minas Gerais | xG 0.59-1.74
+2026-09-26 A 1-3 v Nautico Recife | Serie B | Recife | xG 1.68-1.27
+2026-09-19 H 2-1 v Juventude | Serie B | Recife | xG 0.73-0.96
+2026-09-16 A 1-2 v CRB | Serie B | Maceio | xG 0.34-1.82
+2026-09-11 H 2-0 v Ponte Preta | Serie B | Recife | xG 3.55-0.62
+2026-09-05 A 1-2 v Ceara | Serie B | Fortaleza
+2026-08-28 A 1-2 v Novorizontino | Serie B | Novo Horizonte
+2026-08-24 H 3-0 v America Mineiro | Serie B | Recife
+2026-08-19 A 1-2 v Avai | Serie B | Florianópolis
+2026-08-14 H 2-1 v Londrina | Serie B | Recife
+2026-08-08 A 1-0 v Vila Nova | Serie B | Goiânia
+2026-07-27 H 1-1 v Cuiaba | Serie B | Recife
+2026-07-22 A 1-1 v Goias | Serie B | Goiânia
+2026-07-18 H 2-2 v Operario-PR | Serie B | Recife
+2026-07-10 H 3-3 v Botafogo SP | Serie B | Recife
+Listed home: 10 games, scored 19 (1.90), conceded 12 (1.20), blanks 1, clean sheets 2
+Listed away: 10 games, scored 11 (1.10), conceded 15 (1.50), blanks 0, clean sheets 1
+All: 20 games, scored 30 (1.50), conceded 27 (1.35), blanks 1, clean sheets 3
+
+TABLE FOR Operário PR U20
+LEAGUE TABLE Brasileiro U20 B 2026 | 16 teams | 56 games played
+League averages per game: home 1.80, away 1.25, total 3.05
+#   team                   Pts | home P GF-GA  | away P GF-GA  | all P GF-GA
+1   Ceará U20               19 |  4  10-4       |  3   5-0       |  7  15-4 [U20 Brasileiro, Série B - Grupo A 2026]
+2   CRB U20                 14 |  4   3-1       |  3   6-5       |  7   9-6 [U20 Brasileiro, Série B - Grupo A 2026]
+3   Goiás U20               13 |  4  10-4       |  3   2-2       |  7  12-6 [U20 Brasileiro, Série B - Grupo A 2026]
+4   Atlético Mineiro U20    13 |  4   5-1       |  3   5-4       |  7  10-5 [U20 Brasileiro, Série B - Grupo A 2026]
+5   Novorizontino U20       10 |  3   4-2       |  4   5-7       |  7   9-9 [U20 Brasileiro, Série B - Grupo A 2026]
+6   Mirassol U20             7 |  3   4-7       |  4   4-7       |  7   8-14 [U20 Brasileiro, Série B - Grupo A 2026]
+7   Chapecoense U20          5 |  3   4-3       |  4   1-7       |  7   5-10 [U20 Brasileiro, Série B - Grupo A 2026]
+8   Brusque U20              0 |  3   2-9       |  4   3-10      |  7   5-19 [U20 Brasileiro, Série B - Grupo A 2026]
+1   Atlético GO U20         15 |  4   7-4       |  3   6-5       |  7  13-9 [U20 Brasileiro, Série B - Grupo B 2026]
+2   Coritiba U20            14 |  4  11-1       |  3   5-6       |  7  16-7 [U20 Brasileiro, Série B - Grupo B 2026]
+3   Sport Recife U20        13 |  4  11-7       |  3   4-2       |  7  15-9 [U20 Brasileiro, Série B - Grupo B 2026]
+4   Internacional U20       12 |  4  11-5       |  3   3-8       |  7  14-13 [U20 Brasileiro, Série B - Grupo B 2026]
+5   Vila Nova U20           11 |  3   7-5       |  4   8-11      |  7  15-16 [U20 Brasileiro, Série B - Grupo B 2026]
+6   Botafogo SP U20         10 |  3   6-3       |  4   9-8       |  7  15-11 [U20 Brasileiro, Série B - Grupo B 2026]
+7   Paysandu PA U20          3 |  3   3-5       |  4   2-8       |  7   5-13 [U20 Brasileiro, Série B - Grupo B 2026]
+8   Operário PR U20          3 |  3   3-9       |  4   2-11      |  7   5-20 [U20 Brasileiro, Série B - Grupo B 2026]
+
+TABLE FOR Sport Recife
+LEAGUE TABLE Serie B 2026 | 20 teams | 361 games played
+League averages per game: home 1.34, away 1.01, total 2.34
+#   team                   Pts | home P GF-GA  | away P GF-GA  | all P GF-GA
+1   Novorizontino           67 | 18  33-16      | 18  31-15      | 36  64-31
+2   Juventude               65 | 18  28-8       | 18  19-17      | 36  47-25
+3   Vila Nova               63 | 18  35-15      | 18  17-23      | 36  52-38
+4   Criciuma                62 | 18  21-10      | 18  17-20      | 36  38-30
+5   Fortaleza EC            62 | 18  27-16      | 18  16-15      | 36  43-31
+6   CRB                     55 | 18  33-20      | 18  21-31      | 36  54-51
+7   Goias                   55 | 18  18-18      | 18  20-23      | 36  38-41
+8   Sport Recife            55 | 18  30-19      | 18  18-20      | 36  48-39
+9   Atletico Goianiense     55 | 18  27-15      | 18  15-18      | 36  42-33
+10  São Bernardo            52 | 18  22-21      | 18  29-19      | 36  51-40
+11  Botafogo SP             51 | 19  31-23      | 18  14-16      | 37  45-39
+12  Operario-PR             51 | 18  24-22      | 18  22-26      | 36  46-48
+13  Cuiaba                  47 | 18  20-12      | 18  13-18      | 36  33-30
+14  Athletic Club           47 | 18  23-19      | 18  19-22      | 36  42-41
+15  Nautico Recife          46 | 18  20-17      | 18  20-29      | 36  40-46
+16  Ceara                   43 | 18  22-21      | 18  16-25      | 36  38-46
+17  Avai                    37 | 18  17-18      | 18  16-28      | 36  33-46
+18  Londrina                32 | 18  25-23      | 19  20-35      | 37  45-58
+19  America Mineiro         26 | 18  14-22      | 18  12-33      | 36  26-55
+20  Ponte Preta             15 | 18  13-28      | 18   8-50      | 36  21-78
+
+(27 API-Football requests used)
+
+----------------------------------------------------------------------
+MATCHBOOK: skipped (switched off for this run)
