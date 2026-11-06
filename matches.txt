@@ -1,8 +1,3 @@
-# night scan 06.11 20:57 (Ljubljana)
-Operario PR v Sport Recife | n=20 | xg=10
-Union Santa Fe v Velez Sarsfield | n=20 | xg=10
-San Lorenzo v Platense | n=20 | xg=10
-Independiente v Deportivo Riestra | n=20 | xg=10
-Vitoria v Fluminense | n=20 | xg=10
-Independiente Petrolero v Real Tomayapo | n=20 | xg=10
-Tigre v Sarmiento | n=20 | xg=10
+# night scan 06.11 20:57 (Ljubljana) retry: Sarmiento ambiguous, Operario resolved to U20
+Tigre v Sarmiento Junin | n=20 | xg=10
+Operario Ferroviario v Sport Recife | n=20 | xg=10
