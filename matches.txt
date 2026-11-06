@@ -1,13 +1,2 @@
-# scan 06.11 17:26 (Ljubljana)
-Motor Lublin v Wisla Plock | n=20 | xg=10
-Antalyaspor v Bursaspor | n=20 | xg=10
-Botev Plovdiv v Dunav Ruse | n=20 | xg=10
-HB Koge v AaB | n=20 | xg=10
-Silkeborg v Lyngby | n=20 | xg=10
-Roskilde v HIK | n=20 | xg=10
-AVS v Vizela | n=20 | xg=10
-Oss v RKC Waalwijk | n=20 | xg=10
-VVV Venlo v Jong PSV | n=20 | xg=10
-Boulogne v Annecy | n=20 | xg=10
+# test 06.11 20:35 (Ljubljana) after API-Football plan extension
 Dordrecht v NAC Breda | n=20 | xg=10
-Grenoble v Reims | n=20 | xg=10
