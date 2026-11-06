@@ -1,3 +1,10 @@
-RUN 2026-11-06 19:33 local | 1 match(es)
-Dordrecht v NAC Breda -> out/Dordrecht_v_NAC_Breda.txt
-Requests used: API-Football 25, Matchbook 0
+RUN 2026-11-06 19:59 local | 7 match(es)
+Operario PR v Sport Recife -> out/Operario_PR_v_Sport_Recife.txt
+Union Santa Fe v Velez Sarsfield -> out/Union_Santa_Fe_v_Velez_Sarsfield.txt
+San Lorenzo v Platense -> out/San_Lorenzo_v_Platense.txt
+Independiente v Deportivo Riestra -> out/Independiente_v_Deportivo_Riestra.txt
+Vitoria v Fluminense -> out/Vitoria_v_Fluminense.txt
+Independiente Petrolero v Real Tomayapo -> out/Independiente_Petrolero_v_Real_Tomayapo.txt
+Tigre v Sarmiento -> out/Tigre_v_Sarmiento.txt
+    !! Sarmiento: Ambiguous team name "Sarmiento".
+Requests used: API-Football 168, Matchbook 0
