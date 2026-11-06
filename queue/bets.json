@@ -53,5 +53,38 @@
     "lay": 11.5,
     "stake": 3,
     "created": "2026-11-06T09:19:03+01:00"
+  },
+  {
+    "id": "2026-11-06_septemvri-lokomotiv-sofia_2-2",
+    "date": "2026-11-06",
+    "ko": "16:00",
+    "match": "Septemvri v Lokomotiv Sofia",
+    "comp": "Bulgaria, Bulgarian A League",
+    "cell": "2-2",
+    "lay": 16,
+    "stake": 3,
+    "created": "2026-11-06T13:52:48+01:00"
+  },
+  {
+    "id": "2026-11-06_austria-wien-a-first-vienna-fc-1894_0-1",
+    "date": "2026-11-06",
+    "ko": "18:30",
+    "match": "Austria Wien (A) v First Vienna Fc 1894",
+    "comp": "Austria, Austrian Erste Liga",
+    "cell": "0-1",
+    "lay": 9.6,
+    "stake": 3,
+    "created": "2026-11-06T13:52:48+01:00"
+  },
+  {
+    "id": "2026-11-06_austria-wien-a-first-vienna-fc-1894_1-0",
+    "date": "2026-11-06",
+    "ko": "18:30",
+    "match": "Austria Wien (A) v First Vienna Fc 1894",
+    "comp": "Austria, Austrian Erste Liga",
+    "cell": "1-0",
+    "lay": 16,
+    "stake": 3,
+    "created": "2026-11-06T13:52:48+01:00"
   }
 ]
