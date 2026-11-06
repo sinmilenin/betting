@@ -1,0 +1,13 @@
+MATCH Grenoble v Reims | fetched 2026-11-06 16:28 local
+
+FORM DATA Grenoble v Reims | source API-Football | 2026-11-06 16:28 UTC
+H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
+
+!! Grenoble: API-Football error: {"requests": "You have reached the request limit for the day, Go to https://dashboard.api-football.com to upgrade your plan."}
+
+!! Reims: API-Football error: {"requests": "You have reached the request limit for the day, Go to https://dashboard.api-football.com to upgrade your plan."}
+
+(2 API-Football requests used)
+
+----------------------------------------------------------------------
+MATCHBOOK: skipped (switched off for this run)

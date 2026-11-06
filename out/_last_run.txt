@@ -1,20 +1,38 @@
-RUN 2026-11-06 15:43 local | 6 match(es)
-Neftchi Baku v Kapaz -> out/Neftchi_Baku_v_Kapaz.txt
-    !! Neftchi Baku: API-Football error: {"requests": "You have reached the request limit for the day, Go to https://dashboard.api-football.com to upgrade your plan."}
-    !! Kapaz: API-Football error: {"requests": "You have reached the request limit for the day, Go to https://dashboard.api-football.com to upgrade your plan."}
-Zamalek v Egypt Insurance -> out/Zamalek_v_Egypt_Insurance.txt
-    !! Zamalek: API-Football error: {"requests": "You have reached the request limit for the day, Go to https://dashboard.api-football.com to upgrade your plan."}
-    !! Egypt Insurance: API-Football error: {"requests": "You have reached the request limit for the day, Go to https://dashboard.api-football.com to upgrade your plan."}
+RUN 2026-11-06 16:28 local | 12 match(es)
+Motor Lublin v Wisla Plock -> out/Motor_Lublin_v_Wisla_Plock.txt
+    !! Motor Lublin: API-Football error: {"requests": "You have reached the request limit for the day, Go to https://dashboard.api-football.com to upgrade your plan."}
+    !! Wisla Plock: API-Football error: {"requests": "You have reached the request limit for the day, Go to https://dashboard.api-football.com to upgrade your plan."}
+Antalyaspor v Bursaspor -> out/Antalyaspor_v_Bursaspor.txt
+    !! Antalyaspor: API-Football error: {"requests": "You have reached the request limit for the day, Go to https://dashboard.api-football.com to upgrade your plan."}
+    !! Bursaspor: API-Football error: {"requests": "You have reached the request limit for the day, Go to https://dashboard.api-football.com to upgrade your plan."}
+Botev Plovdiv v Dunav Ruse -> out/Botev_Plovdiv_v_Dunav_Ruse.txt
+    !! Botev Plovdiv: API-Football error: {"requests": "You have reached the request limit for the day, Go to https://dashboard.api-football.com to upgrade your plan."}
+    !! Dunav Ruse: API-Football error: {"requests": "You have reached the request limit for the day, Go to https://dashboard.api-football.com to upgrade your plan."}
+HB Koge v AaB -> out/HB_Koge_v_AaB.txt
+    !! HB Koge: API-Football error: {"requests": "You have reached the request limit for the day, Go to https://dashboard.api-football.com to upgrade your plan."}
+    !! AaB: API-Football error: {"requests": "You have reached the request limit for the day, Go to https://dashboard.api-football.com to upgrade your plan."}
 Silkeborg v Lyngby -> out/Silkeborg_v_Lyngby.txt
     !! Silkeborg: API-Football error: {"requests": "You have reached the request limit for the day, Go to https://dashboard.api-football.com to upgrade your plan."}
     !! Lyngby: API-Football error: {"requests": "You have reached the request limit for the day, Go to https://dashboard.api-football.com to upgrade your plan."}
 Roskilde v HIK -> out/Roskilde_v_HIK.txt
     !! Roskilde: API-Football error: {"requests": "You have reached the request limit for the day, Go to https://dashboard.api-football.com to upgrade your plan."}
     !! HIK: API-Football error: {"requests": "You have reached the request limit for the day, Go to https://dashboard.api-football.com to upgrade your plan."}
-HB Koge v AaB -> out/HB_Koge_v_AaB.txt
-    !! HB Koge: API-Football error: {"requests": "You have reached the request limit for the day, Go to https://dashboard.api-football.com to upgrade your plan."}
-    !! AaB: API-Football error: {"requests": "You have reached the request limit for the day, Go to https://dashboard.api-football.com to upgrade your plan."}
-Viktoria Koln v Saarbrucken -> out/Viktoria_Koln_v_Saarbrucken.txt
-    !! Viktoria Koln: API-Football error: {"requests": "You have reached the request limit for the day, Go to https://dashboard.api-football.com to upgrade your plan."}
-    !! Saarbrucken: API-Football error: {"requests": "You have reached the request limit for the day, Go to https://dashboard.api-football.com to upgrade your plan."}
-Requests used: API-Football 12, Matchbook 0
+AVS v Vizela -> out/AVS_v_Vizela.txt
+    !! AVS: API-Football error: {"requests": "You have reached the request limit for the day, Go to https://dashboard.api-football.com to upgrade your plan."}
+    !! Vizela: API-Football error: {"requests": "You have reached the request limit for the day, Go to https://dashboard.api-football.com to upgrade your plan."}
+Oss v RKC Waalwijk -> out/Oss_v_RKC_Waalwijk.txt
+    !! Oss: API-Football error: {"requests": "You have reached the request limit for the day, Go to https://dashboard.api-football.com to upgrade your plan."}
+    !! RKC Waalwijk: API-Football error: {"requests": "You have reached the request limit for the day, Go to https://dashboard.api-football.com to upgrade your plan."}
+VVV Venlo v Jong PSV -> out/VVV_Venlo_v_Jong_PSV.txt
+    !! VVV Venlo: API-Football error: {"requests": "You have reached the request limit for the day, Go to https://dashboard.api-football.com to upgrade your plan."}
+    !! Jong PSV: API-Football error: {"requests": "You have reached the request limit for the day, Go to https://dashboard.api-football.com to upgrade your plan."}
+Boulogne v Annecy -> out/Boulogne_v_Annecy.txt
+    !! Boulogne: API-Football error: {"requests": "You have reached the request limit for the day, Go to https://dashboard.api-football.com to upgrade your plan."}
+    !! Annecy: API-Football error: {"requests": "You have reached the request limit for the day, Go to https://dashboard.api-football.com to upgrade your plan."}
+Dordrecht v NAC Breda -> out/Dordrecht_v_NAC_Breda.txt
+    !! Dordrecht: API-Football error: {"requests": "You have reached the request limit for the day, Go to https://dashboard.api-football.com to upgrade your plan."}
+    !! NAC Breda: API-Football error: {"requests": "You have reached the request limit for the day, Go to https://dashboard.api-football.com to upgrade your plan."}
+Grenoble v Reims -> out/Grenoble_v_Reims.txt
+    !! Grenoble: API-Football error: {"requests": "You have reached the request limit for the day, Go to https://dashboard.api-football.com to upgrade your plan."}
+    !! Reims: API-Football error: {"requests": "You have reached the request limit for the day, Go to https://dashboard.api-football.com to upgrade your plan."}
+Requests used: API-Football 24, Matchbook 0

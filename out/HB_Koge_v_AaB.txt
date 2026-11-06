@@ -1,6 +1,6 @@
-MATCH HB Koge v AaB | fetched 2026-11-06 15:43 local
+MATCH HB Koge v AaB | fetched 2026-11-06 16:28 local
 
-FORM DATA HB Koge v AaB | source API-Football | 2026-11-06 15:43 UTC
+FORM DATA HB Koge v AaB | source API-Football | 2026-11-06 16:28 UTC
 H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
 
 !! HB Koge: API-Football error: {"requests": "You have reached the request limit for the day, Go to https://dashboard.api-football.com to upgrade your plan."}
