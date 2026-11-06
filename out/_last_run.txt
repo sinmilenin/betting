@@ -1,3 +1,4 @@
-RUN 2026-11-06 07:28 local | 1 match(es)
-Van Hien v id:9162 -> out/Van_Hien_v_id_9162.txt
-Requests used: API-Football 25, Matchbook 0
+RUN 2026-11-06 08:14 local | 1 match(es)
+Polissya Zhytomyr v Veres Rivne -> out/Polissya_Zhytomyr_v_Veres_Rivne.txt
+    !! Polissya Zhytomyr: No team found for "Polissya Zhytomyr".
+Requests used: API-Football 14, Matchbook 0
