@@ -1,3 +1,2 @@
-# scan 06.11 06:56
-Adelaide United W v Wellington Phoenix W | n=20 | xg=10
-Sydney FC v Central Coast Mariners | n=20 | xg=10
+# scan 06.11 06:56 retry
+Sydney v Central Coast Mariners | n=20 | xg=10
