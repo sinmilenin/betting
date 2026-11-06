@@ -1,3 +1,5 @@
-RUN 2026-11-06 12:48 local | 1 match(es)
-id:2860 v First Vienna -> out/id_2860_v_First_Vienna.txt
-Requests used: API-Football 25, Matchbook 0
+RUN 2026-11-06 13:28 local | 2 match(es)
+Al Jazeera v Al Ramtha -> out/Al_Jazeera_v_Al_Ramtha.txt
+JSM Skikda v NRB Teleghma -> out/JSM_Skikda_v_NRB_Teleghma.txt
+    !! NRB Teleghma: No team found for "NRB Teleghma".
+Requests used: API-Football 39, Matchbook 0
