@@ -1,0 +1,70 @@
+MATCH Standard Liege v Beveren | fetched 2026-11-06 12:43 local
+
+FORM DATA Standard Liege v Beveren | source API-Football | 2026-11-06 12:43 UTC
+H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
+
+=== Standard Liege (id 733): last 20 finished games ===
+2026-10-31 H 1-1 v Kortrijk | Jupiler Pro League | Liege | xG 1.41-1.58
+2026-10-25 A 1-2 v Genk | Jupiler Pro League | Genk | xG 1.48-3.32
+2026-10-16 H 2-0 v Dender | Cup | ?
+2026-10-11 H 0-1 v Charleroi | Jupiler Pro League | Liege | xG 1.78-0.99
+2026-10-02 H 0-2 v Lens | Friendlies Clubs | ?
+2026-09-18 A 1-2 v Gent | Jupiler Pro League | Gent | xG 1.11-1.30
+2026-09-12 A 2-4 v KVC Westerlo | Jupiler Pro League | Westerlo | xG 1.22-1.41
+2026-09-05 H 1-0 v Antwerp | Jupiler Pro League | Liege | xG 3.72-1.02
+2026-08-29 A 2-1 v OH Leuven | Jupiler Pro League | Heverlee | xG 1.36-1.89
+2026-08-21 H 2-0 v RAAL La Louvière | Jupiler Pro League | Liege | xG 1.15-1.07
+2026-08-16 A 3-3 v KV Mechelen | Jupiler Pro League | Mechelen
+2026-08-08 H 2-2 v Cercle Brugge | Jupiler Pro League | Liege
+2026-08-01 H 0-3 v FC Viktoria Köln | Friendlies Clubs | ?
+2026-07-26 H 2-1 v Seraing United | Friendlies Clubs | ?
+2026-07-25 H 0-1 v Juventus | Friendlies Clubs | ?
+2026-07-18 A 0-2 v Dunkerque | Friendlies Clubs | ?
+2026-07-11 H 1-0 v Francs Borains | Friendlies Clubs | ?
+2026-07-08 A 4-0 v Aubel | Friendlies Clubs | ?
+2026-07-04 A 7-0 v Verlaine | Friendlies Clubs | ?
+2026-05-23 H 0-2 v Charleroi | Jupiler Pro League | Liege
+Listed home: 12 games, scored 11 (0.92), conceded 13 (1.08), blanks 5, clean sheets 4
+Listed away: 8 games, scored 20 (2.50), conceded 14 (1.75), blanks 1, clean sheets 2
+All: 20 games, scored 31 (1.55), conceded 27 (1.35), blanks 6, clean sheets 6
+
+"Beveren" matches several teams. Use id:<number> instead of the name:
+  id:738    SK Beveren (Belgium)
+  id:14016  Waasland-Beveren U21 (Belgium)
+  id:19774  KSK Beveren (Belgium)
+  id:24140  Beveren-Leie (Belgium)
+(retrying Beveren using the opponent's country, Belgium)
+"Beveren" matches several teams. Use id:<number> instead of the name:
+  id:738    SK Beveren (Belgium)
+  id:14016  Waasland-Beveren U21 (Belgium)
+  id:19774  KSK Beveren (Belgium)
+  id:24140  Beveren-Leie (Belgium)
+!! Beveren: Ambiguous team name "Beveren".
+
+TABLE FOR Standard Liege
+LEAGUE TABLE Jupiler Pro League 2026 | 18 teams | 90 games played
+League averages per game: home 1.88, away 1.36, total 3.23
+#   team                   Pts | home P GF-GA  | away P GF-GA  | all P GF-GA
+1   Club Brugge KV          27 |  5  13-3       |  5  13-5       | 10  26-8
+2   Union St. Gilloise      26 |  5  14-3       |  5  15-4       | 10  29-7
+3   Gent                    25 |  5  11-2       |  5   8-4       | 10  19-6
+4   Charleroi               24 |  5  15-8       |  5   6-4       | 10  21-12
+5   Anderlecht              19 |  5  10-2       |  5   3-9       | 10  13-11
+6   Genk                    15 |  5  13-4       |  5   5-10      | 10  18-14
+7   Lommel United           15 |  5   6-2       |  5   7-9       | 10  13-11
+8   KVC Westerlo            14 |  5  16-14      |  5   9-11      | 10  25-25
+9   Standard Liege          12 |  5   6-4       |  5   9-12      | 10  15-16
+10  KV Mechelen             12 |  5   8-11      |  5   5-7       | 10  13-18
+11  Zulte Waregem           11 |  5   8-8       |  5   4-8       | 10  12-16
+12  Antwerp                 10 |  5  10-11      |  5   6-11      | 10  16-22
+13  SK Beveren              10 |  5   8-5       |  5   5-15      | 10  13-20
+14  OH Leuven                9 |  5   6-8       |  5   4-9       | 10  10-17
+15  St. Truiden              8 |  5   6-8       |  5  12-13      | 10  18-21
+16  RAAL La Louvière         7 |  5  10-8       |  5   3-15      | 10  13-23
+17  Cercle Brugge            6 |  5   6-10      |  5   7-12      | 10  13-22
+18  Kortrijk                 4 |  5   3-11      |  5   1-11      | 10   4-22
+
+(15 API-Football requests used)
+
+----------------------------------------------------------------------
+MATCHBOOK: skipped (switched off for this run)

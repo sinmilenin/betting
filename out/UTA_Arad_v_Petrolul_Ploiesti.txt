@@ -1,0 +1,82 @@
+MATCH UTA Arad v Petrolul Ploiesti | fetched 2026-11-06 12:43 local
+
+FORM DATA UTA Arad v Petrolul Ploiesti | source API-Football | 2026-11-06 12:43 UTC
+H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
+
+=== Uta Arad (id 2589): last 20 finished games ===
+2026-11-01 A 0-2 v Dinamo Bucuresti | Liga I | Bucharest | xG 0.36-1.43
+2026-10-27 H 2-2 v FC Botosani | Cupa României | Arad
+2026-10-24 A 1-0 v Arges Pitesti | Liga I | Mioveni | xG 0.84-1.35
+2026-10-18 H 1-0 v CFR 1907 Cluj | Liga I | Arad | xG 1.71-0.73
+2026-10-10 A 0-2 v FC Botosani | Liga I | Sfântu Gheorghe | xG 1.09-4.29
+2026-09-18 H 1-0 v Sepsi OSK Sfantu Gheorghe | Liga I | Arad
+2026-09-11 A 2-4 v Farul Constanta | Liga I | Ovidiu | xG 2.27-2.40
+2026-09-05 H 5-1 v Csikszereda | Liga I | Arad | xG 2.91-1.40
+2026-09-02 A 3-0 v Minerul Lupeni | Cupa României | Lupeni
+2026-08-30 A 3-1 v FCSB | Liga I | Bucharest | xG 1.02-1.44
+2026-08-22 H 0-0 v Corvinul Hunedoara | Liga I | Arad
+2026-08-17 A 1-2 v Universitatea Cluj | Liga I | Cluj-Napoca
+2026-08-07 H 0-0 v Rapid | Liga I | Arad
+2026-08-01 A 0-1 v FC Voluntari | Liga I | Voluntari
+2026-07-24 H 2-2 v Oţelul | Liga I | Arad
+2026-07-18 A 0-4 v Universitatea Craiova | Liga I | Craiova
+2026-07-08 A 2-2 v Istra 1961 | Friendlies Clubs | ?
+2026-06-27 H 4-0 v Dumbrăviţa | Friendlies Clubs | ?
+2026-06-20 A 3-0 v Progresul Pecica | Friendlies Clubs | ?
+2026-05-18 A 1-0 v Unirea Slobozia | Liga I | Slobozia
+Listed home: 8 games, scored 15 (1.88), conceded 5 (0.62), blanks 2, clean sheets 5
+Listed away: 12 games, scored 16 (1.33), conceded 18 (1.50), blanks 4, clean sheets 4
+All: 20 games, scored 31 (1.55), conceded 23 (1.15), blanks 6, clean sheets 9
+
+=== Petrolul Ploiesti (id 2598): last 20 finished games ===
+2026-10-31 H 1-1 v CFR 1907 Cluj | Liga I | Ploiesti | xG 1.87-1.70
+2026-10-27 A 6-0 v Progresul Spartac | Cupa României | Bucharest
+2026-10-23 A 3-1 v FC Botosani | Liga I | Sfântu Gheorghe | xG 1.29-2.47
+2026-10-17 H 1-1 v Sepsi OSK Sfantu Gheorghe | Liga I | Ploiesti | xG 0.78-1.05
+2026-10-11 A 1-3 v Farul Constanta | Liga I | Ovidiu | xG 1.68-1.38
+2026-10-03 A 0-1 v Chindia Targoviste | Friendlies Clubs | ?
+2026-10-02 H 3-2 v CS Afumati | Friendlies Clubs | ?
+2026-09-21 H 2-0 v Csikszereda | Liga I | Ploiesti | xG 2.24-0.57
+2026-09-14 A 2-2 v FCSB | Liga I | Bucharest | xG 1.24-6.31
+2026-09-06 H 2-0 v Corvinul Hunedoara | Liga I | Ploiesti | xG 1.26-2.00
+2026-09-01 A 0-1 v Universitatea Cluj | Cupa României | Cluj-Napoca
+2026-08-28 A 3-2 v Universitatea Cluj | Liga I | Cluj-Napoca
+2026-08-21 H 0-2 v Rapid | Liga I | Ploiesti
+2026-08-18 A 2-2 v CSM Reşiţa | Cupa României | ? [AET, 90-min score shown]
+2026-08-14 A 2-1 v FC Voluntari | Liga I | Voluntari
+2026-08-09 H 1-0 v Oţelul | Liga I | Ploiesti
+2026-08-01 A 0-4 v Universitatea Craiova | Liga I | Craiova
+2026-07-24 A 0-1 v Arges Pitesti | Liga I | Mioveni
+2026-07-19 H 1-0 v Dinamo Bucuresti | Liga I | Ploiesti
+2026-07-11 H 2-2 v Chindia Targoviste | Friendlies Clubs | ?
+Listed home: 9 games, scored 13 (1.44), conceded 8 (0.89), blanks 1, clean sheets 4
+Listed away: 11 games, scored 19 (1.73), conceded 18 (1.64), blanks 4, clean sheets 1
+All: 20 games, scored 32 (1.60), conceded 26 (1.30), blanks 5, clean sheets 5
+
+TABLE FOR Uta Arad
+LEAGUE TABLE Liga I 2026 | 16 teams | 112 games played
+League averages per game: home 1.71, away 0.99, total 2.70
+#   team                   Pts | home P GF-GA  | away P GF-GA  | all P GF-GA
+1   Dinamo Bucuresti        33 |  7  21-3       |  7  10-6       | 14  31-9
+2   Universitatea Craiova   32 |  8  24-3       |  6  10-7       | 14  34-10
+3   Rapid                   30 |  8  14-5       |  6   9-8       | 14  23-13
+4   Universitatea Cluj      25 |  8  17-12      |  6   9-8       | 14  26-20
+5   Petrolul Ploiesti       24 |  7   8-4       |  7  11-14      | 14  19-18
+6   Farul Constanta         23 |  6  16-8       |  8   7-13      | 14  23-21
+7   FCSB                    21 |  7  15-10      |  7   5-10      | 14  20-20
+8   Corvinul Hunedoara      19 |  8  13-8       |  6   3-8       | 14  16-16
+9   CFR 1907 Cluj           18 |  6  12-6       |  8   8-15      | 14  20-21
+10  Uta Arad                18 |  6   9-3       |  8   7-16      | 14  16-19
+11  Sepsi OSK Sfantu Gheor  15 |  6   5-9       |  8   4-10      | 14   9-19
+12  FC Botosani             14 |  6  10-4       |  8   8-15      | 14  18-19
+13  Oţelul                  12 |  8   9-9       |  6   7-13      | 14  16-22
+14  Arges Pitesti           12 |  7   4-5       |  7   4-11      | 14   8-16
+15  FC Voluntari             8 |  8   9-12      |  6   5-19      | 14  14-31
+16  Csikszereda              5 |  6   5-10      |  8   4-18      | 14   9-28
+
+(Petrolul Ploiesti: same table as Uta Arad, shown above)
+
+(25 API-Football requests used)
+
+----------------------------------------------------------------------
+MATCHBOOK: skipped (switched off for this run)

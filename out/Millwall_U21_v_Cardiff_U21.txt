@@ -1,0 +1,58 @@
+MATCH Millwall U21 v Cardiff U21 | fetched 2026-11-06 12:43 local
+
+FORM DATA Millwall U21 v Cardiff U21 | source API-Football | 2026-11-06 12:43 UTC
+H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
+
+=== Millwall U21 (id 20095): last 20 finished games ===
+2026-10-27 A 3-1 v Bristol City U21 | Professional Development League | ?
+2026-10-09 H 1-0 v West Ham United U21 | Premier League Cup | ?
+2026-09-29 A 0-1 v Charlton Athletic U21 | Professional Development League | ?
+2026-09-15 H 0-3 v Bolton Wanderers Res. | Professional Development League | ?
+2026-09-01 A 0-1 v Fleetwood Town U21 | Professional Development League | ?
+2026-08-25 H 2-4 v Huddersfield Town U21 | Professional Development League | ?
+2026-08-14 A 0-2 v Brighton U21 | Premier League Cup | Lancing
+2026-07-14 A 0-3 v AFC Hornchurch | Friendlies Clubs | ?
+2026-04-13 A 4-1 v Coventry City U21 | Professional Development League | Coventry, West Midlands
+2026-03-31 H 1-1 v Sheffield Wednesday U21 | Professional Development League | Bromley, London
+2026-03-24 A 2-3 v Fleetwood Town U21 | Professional Development League | Fleetwood, Lancashire
+2026-03-20 H 2-0 v Watford U21 | Professional Development League | Bromley, London
+2026-03-17 H 1-2 v Peterborough United U21 | Professional Development League | Bromley, London
+2026-03-10 A 0-2 v Queens Park Rangers U21 | Professional Development League | London
+2026-03-06 H 2-3 v Brentford U21 | Professional Development League | Bromley, London
+2026-03-03 H 1-1 v Cardiff City U21 | Professional Development League | Bromley, London
+2026-02-27 A 0-2 v Charlton Athletic U21 | Professional Development League | Dartford, Kent
+2026-02-23 A 0-4 v AFC Bournemouth U21 | Professional Development League | Bournemouth, Dorset
+2026-02-17 H 2-1 v Bristol City U21 | Professional Development League | Bromley, London
+2026-01-27 A 1-1 v Swansea City U21 | Professional Development League | Swansea
+Listed home: 9 games, scored 12 (1.33), conceded 15 (1.67), blanks 1, clean sheets 2
+Listed away: 11 games, scored 10 (0.91), conceded 21 (1.91), blanks 7, clean sheets 0
+All: 20 games, scored 22 (1.10), conceded 36 (1.80), blanks 8, clean sheets 2
+
+!! Cardiff U21: No team found for "Cardiff U21".
+
+TABLE FOR Millwall U21
+LEAGUE TABLE Professional Development League 2026 | 17 teams | 68 games played
+League averages per game: home 2.10, away 1.93, total 4.03
+#   team                   Pts | home P GF-GA  | away P GF-GA  | all P GF-GA
+1   Bolton Wanderers Res.   21 |  4  15-8       |  5   9-4       |  9  24-12
+2   Fleetwood Town U21      19 |  5   8-8       |  4   5-5       |  9  13-13
+3   Swansea City U21        15 |  5  11-9       |  4   5-5       |  9  16-14
+4   Coventry City U21       14 |  4   9-5       |  4  10-8       |  8  19-13
+5   Cardiff City U21        13 |  4   9-4       |  4  11-7       |  8  20-11
+6   Sheffield United U21    13 |  3   3-2       |  5  10-6       |  8  13-8
+7   Huddersfield Town U21   12 |  1   3-1       |  5  16-10      |  6  19-11
+8   Bristol City U21        12 |  5  14-8       |  3   5-7       |  8  19-15
+9   Peterborough United U2  11 |  5   7-10      |  3   9-11      |  8  16-21
+10  Wigan Athletic U21      10 |  5  13-15      |  4   7-10      |  9  20-25
+11  Colchester United U21    9 |  4  11-8       |  4   8-14      |  8  19-22
+12  Charlton Athletic U21    9 |  5   9-8       |  4   7-11      |  9  16-19
+13  Barnsley U21             8 |  4   5-12      |  4  11-11      |  8  16-23
+14  Queens Park Rangers U2   8 |  5  12-11      |  5   5-17      | 10  17-28
+15  Sheffield Wednesday U2   7 |  4   9-9       |  4   4-7       |  8  13-16
+16  Hull City U21            5 |  3   3-6       |  3   6-7       |  6   9-13
+17  Millwall U21             3 |  2   2-7       |  3   3-3       |  5   5-10
+
+(14 API-Football requests used)
+
+----------------------------------------------------------------------
+MATCHBOOK: skipped (switched off for this run)

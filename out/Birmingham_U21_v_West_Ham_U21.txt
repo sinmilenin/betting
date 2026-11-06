@@ -1,0 +1,13 @@
+MATCH Birmingham U21 v West Ham U21 | fetched 2026-11-06 12:43 local
+
+FORM DATA Birmingham U21 v West Ham U21 | source API-Football | 2026-11-06 12:43 UTC
+H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
+
+!! Birmingham U21: No team found for "Birmingham U21".
+
+!! West Ham U21: No team found for "West Ham U21".
+
+(2 API-Football requests used)
+
+----------------------------------------------------------------------
+MATCHBOOK: skipped (switched off for this run)

@@ -1,0 +1,84 @@
+MATCH Montpellier v Metz | fetched 2026-11-06 12:43 local
+
+FORM DATA Montpellier v Metz | source API-Football | 2026-11-06 12:43 UTC
+H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
+
+=== Montpellier (id 82): last 20 finished games ===
+2026-10-31 A 3-0 v Annecy | Ligue 2 | Avignon | xG 1.54-2.91
+2026-10-26 H 2-1 v RED Star FC 93 | Ligue 2 | Montpellier | xG 0.62-1.09
+2026-10-19 A 3-0 v Rodez | Ligue 2 | Rodez | xG 1.65-1.70
+2026-10-09 H 2-0 v Grenoble | Ligue 2 | Montpellier
+2026-09-18 A 1-1 v Reims | Ligue 2 | Reims
+2026-09-11 H 1-0 v PAU | Ligue 2 | Montpellier
+2026-09-05 A 1-3 v Saint Etienne | Ligue 2 | Saint Etienne
+2026-08-28 H 0-0 v Boulogne | Ligue 2 | Montpellier
+2026-08-21 A 1-0 v Dunkerque | Ligue 2 | Dunkerque
+2026-08-14 A 1-0 v Nancy | Ligue 2 | Nancy
+2026-08-08 H 1-1 v Dijon | Ligue 2 | Montpellier
+2026-08-01 H 4-2 v Rodez | Friendlies Clubs | ?
+2026-07-25 A 1-0 v Clermont Foot | Friendlies Clubs | ?
+2026-07-22 H 3-4 v Cannes | Friendlies Clubs | ?
+2026-07-17 H 5-2 v Le Puy Foot | Friendlies Clubs | ?
+2026-07-11 H 3-2 v Aubagne | Friendlies Clubs | ?
+2026-05-09 A 1-1 v RED Star FC 93 | Ligue 2 | Paris - Saint-Ouen
+2026-05-02 H 1-2 v Clermont Foot | Ligue 2 | Montpellier
+2026-04-24 A 2-0 v Amiens | Ligue 2 | Amiens
+2026-04-17 H 2-1 v Grenoble | Ligue 2 | Montpellier
+Listed home: 11 games, scored 24 (2.18), conceded 15 (1.36), blanks 1, clean sheets 3
+Listed away: 9 games, scored 14 (1.56), conceded 5 (0.56), blanks 0, clean sheets 6
+All: 20 games, scored 38 (1.90), conceded 20 (1.00), blanks 1, clean sheets 9
+
+=== Metz (id 112): last 20 finished games ===
+2026-10-30 H 1-3 v PAU | Ligue 2 | Metz | xG 1.99-2.11
+2026-10-23 A 1-1 v Dunkerque | Ligue 2 | Dunkirk
+2026-10-17 H 3-2 v Sochaux | Ligue 2 | Metz
+2026-10-12 A 2-4 v Dijon | Ligue 2 | Dijon
+2026-09-19 H 2-2 v Saint Etienne | Ligue 2 | Metz
+2026-09-14 A 0-1 v RED Star FC 93 | Ligue 2 | Saint-Ouen
+2026-09-05 H 4-1 v Rodez | Ligue 2 | Metz
+2026-08-29 A 1-1 v Annecy | Ligue 2 | Annecy
+2026-08-22 H 1-1 v Laval | Ligue 2 | Metz
+2026-08-14 A 0-0 v Grenoble | Ligue 2 | Grenoble
+2026-08-08 H 2-1 v Guingamp | Ligue 2 | Metz
+2026-08-01 H 1-3 v 1. FC Kaiserslautern | Friendlies Clubs | ?
+2026-07-25 H 3-1 v Fortuna Sittard | Friendlies Clubs | ?
+2026-07-22 H 4-1 v Sochaux | Friendlies Clubs | ?
+2026-07-17 H 6-0 v Seraing United | Friendlies Clubs | ?
+2026-07-11 H 2-1 v Racing FC Union Luxembourg | Friendlies Clubs | ?
+2026-07-11 H 1-1 v Versailles | Friendlies Clubs | ?
+2026-07-04 H 1-2 v FC Differdange 03 | Friendlies Clubs | ?
+2026-07-03 H 5-2 v US Mondorf-les-bains | Friendlies Clubs | ?
+2026-05-17 A 0-0 v Nice | Ligue 1 | Nice
+Listed home: 14 games, scored 36 (2.57), conceded 21 (1.50), blanks 0, clean sheets 1
+Listed away: 6 games, scored 4 (0.67), conceded 7 (1.17), blanks 3, clean sheets 2
+All: 20 games, scored 40 (2.00), conceded 28 (1.40), blanks 3, clean sheets 3
+
+TABLE FOR Montpellier
+LEAGUE TABLE Ligue 2 2026 | 18 teams | 99 games played
+League averages per game: home 1.35, away 1.33, total 2.69
+#   team                   Pts | home P GF-GA  | away P GF-GA  | all P GF-GA
+1   Saint Etienne           25 |  5  13-2       |  6  10-9       | 11  23-11
+2   Montpellier             24 |  5   6-2       |  6  10-4       | 11  16-6
+3   Nancy                   22 |  5   5-3       |  6  11-6       | 11  16-9
+4   Reims                   21 |  6  15-9       |  5   7-3       | 11  22-12
+5   PAU                     20 |  6   8-6       |  5   8-5       | 11  16-11
+6   RED Star FC 93          17 |  5   3-9       |  6  11-7       | 11  14-16
+7   Annecy                  16 |  5   5-8       |  6   9-7       | 11  14-15
+8   Dijon                   15 |  5  10-10      |  6  10-9       | 11  20-19
+9   Guingamp                14 |  6  11-9       |  5   5-6       | 11  16-15
+10  Metz                    14 |  6  13-10      |  5   4-7       | 11  17-17
+11  Rodez                   13 |  6   9-11      |  5   8-11      | 11  17-22
+12  Dunkerque               12 |  6   8-7       |  5   6-10      | 11  14-17
+13  Sochaux                 11 |  5   4-7       |  6   4-7       | 11   8-14
+14  Boulogne                10 |  5   4-5       |  6   3-3       | 11   7-8
+15  Nantes                   9 |  6   6-10      |  5   6-8       | 11  12-18
+16  Laval                    9 |  6   8-10      |  5   6-11      | 11  14-21
+17  Clermont Foot            8 |  6   3-6       |  5   7-9       | 11  10-15
+18  Grenoble                 8 |  5   3-8       |  6   7-12      | 11  10-20
+
+(Metz: same table as Montpellier, shown above)
+
+(24 API-Football requests used)
+
+----------------------------------------------------------------------
+MATCHBOOK: skipped (switched off for this run)

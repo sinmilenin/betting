@@ -1,3 +1,16 @@
-RUN 2026-11-06 11:59 local | 1 match(es)
-Qarabag v Turan -> out/Qarabag_v_Turan.txt
-Requests used: API-Football 26, Matchbook 0
+RUN 2026-11-06 12:43 local | 9 match(es)
+Birmingham U21 v West Ham U21 -> out/Birmingham_U21_v_West_Ham_U21.txt
+    !! Birmingham U21: No team found for "Birmingham U21".
+    !! West Ham U21: No team found for "West Ham U21".
+Millwall U21 v Cardiff U21 -> out/Millwall_U21_v_Cardiff_U21.txt
+    !! Cardiff U21: No team found for "Cardiff U21".
+Septemvri Sofia v Lokomotiv Sofia -> out/Septemvri_Sofia_v_Lokomotiv_Sofia.txt
+UTA Arad v Petrolul Ploiesti -> out/UTA_Arad_v_Petrolul_Ploiesti.txt
+Standard Liege v Beveren -> out/Standard_Liege_v_Beveren.txt
+    !! Beveren: Ambiguous team name "Beveren".
+Arges Pitesti v Dinamo Bucuresti -> out/Arges_Pitesti_v_Dinamo_Bucuresti.txt
+Nancy v Sochaux -> out/Nancy_v_Sochaux.txt
+Montpellier v Metz -> out/Montpellier_v_Metz.txt
+Austria Wien II v First Vienna -> out/Austria_Wien_II_v_First_Vienna.txt
+    !! Austria Wien II: No team found for "Austria Wien II".
+Requests used: API-Football 168, Matchbook 0
