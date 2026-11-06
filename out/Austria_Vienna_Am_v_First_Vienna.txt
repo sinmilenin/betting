@@ -1,6 +1,6 @@
-MATCH Austria Wien II v First Vienna | fetched 2026-11-06 12:43 local
+MATCH Austria Vienna Am v First Vienna | fetched 2026-11-06 12:45 local
 
-FORM DATA Austria Wien II v First Vienna | source API-Football | 2026-11-06 12:43 UTC
+FORM DATA Austria Vienna Am v First Vienna | source API-Football | 2026-11-06 12:46 UTC
 H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
 
 === First Vienna (id 4990): last 20 finished games ===
@@ -28,7 +28,7 @@ Listed home: 8 games, scored 12 (1.50), conceded 12 (1.50), blanks 3, clean shee
 Listed away: 12 games, scored 28 (2.33), conceded 15 (1.25), blanks 1, clean sheets 4
 All: 20 games, scored 40 (2.00), conceded 27 (1.35), blanks 4, clean sheets 8
 
-!! Austria Wien II: No team found for "Austria Wien II".
+!! Austria Vienna Am: No team found for "Austria Vienna Am".
 
 TABLE FOR First Vienna
 LEAGUE TABLE 2. Liga 2026 | 16 teams | 88 games played
