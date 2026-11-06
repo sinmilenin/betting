@@ -1,3 +1,2 @@
-# scan 06.11 12:12
-Madura United v Arema | n=20 | xg=10
-Lamphun Warrior v Sukhothai | n=20 | xg=10
+# scan 06.11 12:12 (retry)
+Madura v id:2438 | n=20 | xg=10
