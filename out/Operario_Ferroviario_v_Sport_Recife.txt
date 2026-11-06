@@ -1,0 +1,185 @@
+MATCH Operario Ferroviario v Sport Recife | fetched 2026-11-06 20:00 local
+
+FORM DATA Operario Ferroviario v Sport Recife | source API-Football | 2026-11-06 20:01 UTC
+H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
+
+=== Operario Ferroviario (id 2217): last 20 finished games ===
+2026-06-14 A 1-2 v Ipatinga | Serie D | ?
+2026-05-31 H 2-0 v CRAC | Serie D | ?
+2026-05-23 A 0-2 v ABECAT Ouvidorense | Serie D | Ouvidor
+2026-05-16 H 2-0 v Ivinhema | Serie D | ?
+2026-05-09 H 1-2 v Uberlandia | Serie D | ?
+2026-05-02 A 1-2 v Uberlandia | Serie D | ?
+2026-04-29 A 2-2 v Capital Brasilia | Copa Centro-Oeste | ?
+2026-04-26 A 0-2 v Ivinhema | Serie D | ?
+2026-04-19 H 1-1 v ABECAT Ouvidorense | Serie D | ?
+2026-04-16 H 4-1 v Primavera MG | Copa Centro-Oeste | Campo Grande
+2026-04-12 A 0-0 v CRAC | Serie D | ?
+2026-04-09 H 1-1 v Rio Branco ES | Copa Centro-Oeste | Campo Grande
+2026-04-05 H 1-1 v Ipatinga | Serie D | ?
+2026-04-02 H 2-1 v Bataguassu | Sul-Matogrossense | ?
+2026-03-28 A 0-6 v Vila Nova | Copa Centro-Oeste | ?
+2026-03-25 A 1-0 v Araguaína | Copa Centro-Oeste | ?
+2026-03-21 A 3-1 v Bataguassu | Sul-Matogrossense | ?
+2026-03-18 H 2-1 v Corumbaense | Sul-Matogrossense | ?
+2026-03-15 A 2-1 v Corumbaense | Sul-Matogrossense | ?
+2026-03-12 A 1-1 v Vila Nova | Copa Do Brasil | Goiânia [PEN, 90-min score shown]
+Listed home: 9 games, scored 16 (1.78), conceded 8 (0.89), blanks 0, clean sheets 2
+Listed away: 11 games, scored 11 (1.00), conceded 19 (1.73), blanks 4, clean sheets 2
+All: 20 games, scored 27 (1.35), conceded 27 (1.35), blanks 4, clean sheets 4
+
+=== Sport Recife (id 123): last 20 finished games ===
+2026-10-31 A 1-1 v Botafogo SP | Serie B | Ribeirao Preto | xG 0.88-0.94
+2026-10-24 H 2-1 v Criciuma | Serie B | Recife | xG 1.51-1.56
+2026-10-16 H 0-2 v Fortaleza EC | Serie B | Recife | xG 0.81-0.67
+2026-10-11 A 1-1 v Atletico Goianiense | Serie B | Goiania | xG 1.84-2.03
+2026-10-06 H 2-1 v São Bernardo | Serie B | Recife | xG 1.63-1.99
+2026-10-01 A 2-1 v Athletic Club | Serie B | Minas Gerais | xG 0.59-1.74
+2026-09-26 A 1-3 v Nautico Recife | Serie B | Recife | xG 1.68-1.27
+2026-09-19 H 2-1 v Juventude | Serie B | Recife | xG 0.73-0.96
+2026-09-16 A 1-2 v CRB | Serie B | Maceio | xG 0.34-1.82
+2026-09-11 H 2-0 v Ponte Preta | Serie B | Recife | xG 3.55-0.62
+2026-09-05 A 1-2 v Ceara | Serie B | Fortaleza
+2026-08-28 A 1-2 v Novorizontino | Serie B | Novo Horizonte
+2026-08-24 H 3-0 v America Mineiro | Serie B | Recife
+2026-08-19 A 1-2 v Avai | Serie B | Florianópolis
+2026-08-14 H 2-1 v Londrina | Serie B | Recife
+2026-08-08 A 1-0 v Vila Nova | Serie B | Goiânia
+2026-07-27 H 1-1 v Cuiaba | Serie B | Recife
+2026-07-22 A 1-1 v Goias | Serie B | Goiânia
+2026-07-18 H 2-2 v Operario-PR | Serie B | Recife
+2026-07-10 H 3-3 v Botafogo SP | Serie B | Recife
+Listed home: 10 games, scored 19 (1.90), conceded 12 (1.20), blanks 1, clean sheets 2
+Listed away: 10 games, scored 11 (1.10), conceded 15 (1.50), blanks 0, clean sheets 1
+All: 20 games, scored 30 (1.50), conceded 27 (1.35), blanks 1, clean sheets 3
+
+TABLE FOR Operario Ferroviario
+LEAGUE TABLE Serie D 2026 | 96 teams | 480 games played
+League averages per game: home 1.36, away 0.97, total 2.34
+#   team                   Pts | home P GF-GA  | away P GF-GA  | all P GF-GA
+1   Manauara                22 |  5   8-3       |  5   5-2       | 10  13-5 [Group 1]
+2   Nacional AM             20 |  5   8-4       |  5   7-5       | 10  15-9 [Group 1]
+3   Sao Raimundo            13 |  5   5-4       |  5   5-3       | 10  10-7 [Group 1]
+4   Monte Roraima           10 |  5   4-6       |  5   7-8       | 10  11-14 [Group 1]
+5   Manaus FC               10 |  5   3-5       |  5   5-8       | 10   8-13 [Group 1]
+6   GAS                      5 |  5   6-9       |  5   2-8       | 10   8-17 [Group 1]
+1   Guaporé                 22 |  5   9-3       |  5  10-6       | 10  19-9 [Group 2]
+2   Porto Velho             18 |  5  20-3       |  5  13-6       | 10  33-9 [Group 2]
+3   Araguaína               18 |  5  18-3       |  5  13-6       | 10  31-9 [Group 2]
+4   Independência           15 |  5  10-4       |  5   7-6       | 10  17-10 [Group 2]
+5   Galvez                  10 |  5  12-14      |  5   2-17      | 10  14-31 [Group 2]
+6   Humaitá                  0 |  5   1-21      |  5   3-29      | 10   4-50 [Group 2]
+1   Gama                    26 |  5  15-4       |  5   8-2       | 10  23-6 [Group 3]
+2   Luverdense              15 |  5   7-3       |  5   4-7       | 10  11-10 [Group 3]
+3   Brasiliense             14 |  5   5-4       |  5   6-6       | 10  11-10 [Group 3]
+4   Aparecidense            13 |  5   6-6       |  5   7-6       | 10  13-12 [Group 3]
+5   Primavera MG            12 |  5   5-6       |  5   5-7       | 10  10-13 [Group 3]
+6   Inhumas                  1 |  5   2-8       |  5   1-12      | 10   3-20 [Group 3]
+1   Capital Brasilia        23 |  5   6-2       |  5  10-4       | 10  16-6 [Group 4]
+2   Goiatuba EC             19 |  5   9-2       |  5   4-5       | 10  13-7 [Group 4]
+3   Ceilândia               12 |  5   3-4       |  5   6-6       | 10   9-10 [Group 4]
+4   Mixto                   12 |  5   7-5       |  5   3-4       | 10  10-9 [Group 4]
+5   União Rondonópolis       9 |  5   6-7       |  5   5-11      | 10  11-18 [Group 4]
+6   CEOV Operário            5 |  5   4-11      |  5   3-5       | 10   7-16 [Group 4]
+1   Trem                    20 |  5  15-7       |  5   4-6       | 10  19-13 [Group 5]
+2   Águia de Marabá         18 |  5  12-4       |  5   8-7       | 10  20-11 [Group 5]
+3   Imperatriz              15 |  5  12-5       |  5   3-5       | 10  15-10 [Group 5]
+4   Tuna Luso               13 |  5   7-4       |  5   7-13      | 10  14-17 [Group 5]
+5   Tocantinópolis          12 |  5  12-5       |  5   6-13      | 10  18-18 [Group 5]
+6   Oratório                 4 |  5   7-8       |  5   5-21      | 10  12-29 [Group 5]
+1   Iguatu                  20 |  5   9-5       |  5   5-2       | 10  14-7 [Group 6]
+2   Maracanã                19 |  5   7-2       |  5   5-4       | 10  12-6 [Group 6]
+3   Parnahyba               14 |  5   5-4       |  5   6-9       | 10  11-13 [Group 6]
+4   Sampaio Correa          13 |  5   8-2       |  5   4-4       | 10  12-6 [Group 6]
+5   Moto Club                9 |  5   5-5       |  5   3-10      | 10   8-15 [Group 6]
+6   IAPE                     4 |  5   5-10      |  5   5-10      | 10  10-20 [Group 6]
+1   Ferroviario             21 |  5  11-4       |  5   4-3       | 10  15-7 [Group 7]
+2   Piauí                   17 |  5   7-5       |  5   7-6       | 10  14-11 [Group 7]
+3   Fluminense PI           14 |  5   6-6       |  5   6-3       | 10  12-9 [Group 7]
+4   Altos                   11 |  5   6-7       |  5   3-8       | 10   9-15 [Group 7]
+5   Tirol/CEFAT             10 |  5   3-3       |  5   7-7       | 10  10-10 [Group 7]
+6   Uniclinic Atletico Clu   7 |  5   1-7       |  5   5-7       | 10   6-14 [Group 7]
+1   ABC                     23 |  5   9-2       |  5   6-4       | 10  15-6 [Group 8]
+2   America-RN              21 |  5   9-2       |  5   5-1       | 10  14-3 [Group 8]
+3   Maguary PE              13 |  5   7-2       |  5   1-3       | 10   8-5 [Group 8]
+4   Central SC              13 |  5   4-4       |  5   4-3       | 10   8-7 [Group 8]
+5   Sousa                   10 |  5   2-3       |  5   2-8       | 10   4-11 [Group 8]
+6   Laguna                   2 |  5   2-6       |  5   1-14      | 10   3-20 [Group 8]
+1   Treze                   17 |  5  10-4       |  5   8-10      | 10  18-14
+2   Sergipe                 15 |  5   7-4       |  5   8-9       | 10  15-13
+3   Serra Branca            15 |  5   5-3       |  5   7-5       | 10  12-8
+4   Lagarto                 13 |  5   9-9       |  5   5-6       | 10  14-15
+5   Retrô                   12 |  5   9-7       |  5   4-8       | 10  13-15
+6   Decisão                  8 |  5   8-7       |  5   2-10      | 10  10-17
+1   CSA                     21 |  5   8-3       |  5  17-5       | 10  25-8
+2   Juazeirense             17 |  5   7-3       |  5   5-6       | 10  12-9
+3   ASA                     16 |  5   6-1       |  5   5-6       | 10  11-7
+4   Jacuipense              13 |  5   7-7       |  5   5-7       | 10  12-14
+5   CSE                      9 |  5   5-10      |  5   5-7       | 10  10-17
+6   Atlético Alagoinhas      5 |  5   5-13      |  5   0-7       | 10   5-20
+1   Uberlandia              18 |  5   6-6       |  5   6-2       | 10  12-8
+2   Ipatinga                15 |  5   6-3       |  5   6-6       | 10  12-9
+3   CRAC                    13 |  5   4-2       |  5   3-5       | 10   7-7
+4   Ivinhema                13 |  5   5-4       |  5   4-8       | 10   9-12
+5   ABECAT Ouvidorense      12 |  5   5-5       |  5   3-4       | 10   8-9
+6   Operario Ferroviario     9 |  5   7-4       |  5   2-8       | 10   9-12
+1   Democrata GV            17 |  5  10-2       |  5   3-7       | 10  13-9
+2   Tombense                17 |  5   7-2       |  5   6-4       | 10  13-6
+3   Vitória ES              15 |  5   7-5       |  5   5-3       | 10  12-8
+4   Rio Branco ES           13 |  5   9-5       |  5   5-7       | 10  14-12
+5   Porto BA                10 |  5   6-7       |  5   3-14      | 10   9-21
+6   Real Noroeste            8 |  5   2-5       |  5   4-6       | 10   6-11
+1   Portuguesa              21 |  5  11-2       |  5   5-4       | 10  16-6
+2   Água Santa              17 |  5  11-2       |  5   5-6       | 10  16-8
+3   Portuguesa RJ           14 |  5   7-5       |  5   7-4       | 10  14-9
+4   América RJ              12 |  5   5-6       |  5   6-15      | 10  11-21
+5   Madureira               11 |  5   8-5       |  5   3-11      | 10  11-16
+6   Pouso Alegre             7 |  5   6-6       |  5   0-8       | 10   6-14
+1   XV de Piracicaba        17 |  5   8-3       |  5   6-6       | 10  14-9
+2   Noroeste                15 |  5   8-3       |  5   4-4       | 10  12-7
+3   Velo Clube              13 |  5   8-3       |  5   2-7       | 10  10-10
+4   Sampaio Corrêa RJ       12 |  5   5-2       |  5   3-8       | 10   8-10
+5   Nova Iguaçu             12 |  5   4-2       |  5   3-8       | 10   7-10
+6   CFRJ / Maricá           11 |  5   6-8       |  5   3-6       | 10   9-14
+1   Santa Catarina          19 |  5   7-0       |  5   8-9       | 10  15-9
+2   Cianorte                16 |  5   6-7       |  5   3-1       | 10   9-8
+3   Cascavel                15 |  5   4-1       |  5   5-3       | 10   9-4
+4   São Luiz                15 |  5   9-6       |  5   2-3       | 10  11-9
+5   Joinville               15 |  5   7-2       |  5   3-6       | 10  10-8
+6   Guarany de Bagé          4 |  5   1-6       |  5   1-12      | 10   2-18
+1   Blumenau                19 |  5   4-4       |  5  10-4       | 10  14-8
+2   Marcílio Dias           16 |  5   6-4       |  5   3-1       | 10   9-5
+3   Independiente FSJ       13 |  5   2-1       |  5   1-3       | 10   3-4
+4   Sao Jose                13 |  5   3-4       |  5   3-4       | 10   6-8
+5   Brasil DE Pelotas       10 |  5   5-4       |  5   4-8       | 10   9-12
+6   Azuriz                   9 |  5   4-7       |  5   3-4       | 10   7-11
+
+TABLE FOR Sport Recife
+LEAGUE TABLE Serie B 2026 | 20 teams | 361 games played
+League averages per game: home 1.34, away 1.01, total 2.34
+#   team                   Pts | home P GF-GA  | away P GF-GA  | all P GF-GA
+1   Novorizontino           67 | 18  33-16      | 18  31-15      | 36  64-31
+2   Juventude               65 | 18  28-8       | 18  19-17      | 36  47-25
+3   Vila Nova               63 | 18  35-15      | 18  17-23      | 36  52-38
+4   Criciuma                62 | 18  21-10      | 18  17-20      | 36  38-30
+5   Fortaleza EC            62 | 18  27-16      | 18  16-15      | 36  43-31
+6   CRB                     55 | 18  33-20      | 18  21-31      | 36  54-51
+7   Goias                   55 | 18  18-18      | 18  20-23      | 36  38-41
+8   Sport Recife            55 | 18  30-19      | 18  18-20      | 36  48-39
+9   Atletico Goianiense     55 | 18  27-15      | 18  15-18      | 36  42-33
+10  São Bernardo            52 | 18  22-21      | 18  29-19      | 36  51-40
+11  Botafogo SP             51 | 19  31-23      | 18  14-16      | 37  45-39
+12  Operario-PR             51 | 18  24-22      | 18  22-26      | 36  46-48
+13  Cuiaba                  47 | 18  20-12      | 18  13-18      | 36  33-30
+14  Athletic Club           47 | 18  23-19      | 18  19-22      | 36  42-41
+15  Nautico Recife          46 | 18  20-17      | 18  20-29      | 36  40-46
+16  Ceara                   43 | 18  22-21      | 18  16-25      | 36  38-46
+17  Avai                    37 | 18  17-18      | 18  16-28      | 36  33-46
+18  Londrina                32 | 18  25-23      | 19  20-35      | 37  45-58
+19  America Mineiro         26 | 18  14-22      | 18  12-33      | 36  26-55
+20  Ponte Preta             15 | 18  13-28      | 18   8-50      | 36  21-78
+
+(26 API-Football requests used)
+
+----------------------------------------------------------------------
+MATCHBOOK: skipped (switched off for this run)
