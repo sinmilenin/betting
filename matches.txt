@@ -1,4 +1,7 @@
-# scan 06.11 15:56: first analyses
-Al Buqaa v Al Wehdat | n=20 | xg=10
-AEK Larnaca v Karmiotissa | n=20 | xg=10
-Botev Plovdiv v Dunav Ruse | n=20 | xg=10
+# scan 06.11 16:41: first analyses
+Neftchi Baku v Kapaz | n=20 | xg=10
+Zamalek v Egypt Insurance | n=20 | xg=10
+Silkeborg v Lyngby | n=20 | xg=10
+Roskilde v HIK | n=20 | xg=10
+HB Koge v AaB | n=20 | xg=10
+Viktoria Koln v Saarbrucken | n=20 | xg=10
