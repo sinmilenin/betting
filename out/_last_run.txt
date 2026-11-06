@@ -1,7 +1,5 @@
-RUN 2026-11-06 06:45 local | 5 match(es)
-id:175 v id:163 -> out/id_175_v_id_163.txt
-id:744 v id:1320 -> out/id_744_v_id_1320.txt
-id:183 v id:178 -> out/id_183_v_id_178.txt
-id:363 v id:372 -> out/id_363_v_id_372.txt
-Operario PR v id:123 -> out/Operario_PR_v_id_123.txt
-Requests used: API-Football 126, Matchbook 0
+RUN 2026-11-06 06:46 local | 2 match(es)
+Lokomotiva Zagreb v Rudes -> out/Lokomotiva_Zagreb_v_Rudes.txt
+Gaziantep FK v Kasımpaşa -> out/Gaziantep_FK_v_Kas_mpa_a.txt
+    !! Kasımpaşa: API-Football error: {"search": "The Search field may only contain alpha-numeric characters and spaces."}
+Requests used: API-Football 40, Matchbook 0
