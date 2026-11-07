@@ -1,5 +1,2 @@
-# scan 07.11 17:26: new form for NK Bravo, St Etienne, Pau, Libertad
-Bravo v Maribor | n=20 | xg=10
-Saint Etienne v Laval | n=20 | xg=10
-Pau v Nantes | n=20 | xg=10
-Libertad v Emelec | n=20 | xg=10
+# scan 07.11 17:26 retry: Libertad ambiguous, use id:18762 (Ecuador)
+id:18762 v Emelec | n=20 | xg=10
