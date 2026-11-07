@@ -1,7 +1,3 @@
-RUN 2026-11-07 20:00 local | 4 match(es)
-Everton De Vina v Concepcion -> out/Everton_De_Vina_v_Concepcion.txt
-    !! Concepcion: Ambiguous team name "Concepcion".
-Atlas v id:2292 -> out/Atlas_v_id_2292.txt
-Real Salt Lake v Los Angeles Galaxy -> out/Real_Salt_Lake_v_Los_Angeles_Galaxy.txt
-id:1612 v San Jose Earthquakes -> out/id_1612_v_San_Jose_Earthquakes.txt
-Requests used: API-Football 89, Matchbook 0
+RUN 2026-11-07 20:01 local | 1 match(es)
+Everton De Vina v id:5635 -> out/Everton_De_Vina_v_id_5635.txt
+Requests used: API-Football 25, Matchbook 0
