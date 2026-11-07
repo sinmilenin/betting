@@ -1,3 +1,12 @@
-RUN 2026-11-07 15:02 local | 1 match(es)
-Aris Thessaloniki v Panetolikos -> out/Aris_Thessaloniki_v_Panetolikos.txt
-Requests used: API-Football 25, Matchbook 0
+RUN 2026-11-07 15:44 local | 7 match(es)
+Zeleznicar Pancevo v Radnicki 1923 -> out/Zeleznicar_Pancevo_v_Radnicki_1923.txt
+Austria Lustenau v Grazer AK -> out/Austria_Lustenau_v_Grazer_AK.txt
+Luzern v Young Boys -> out/Luzern_v_Young_Boys.txt
+    !! Luzern: Ambiguous team name "Luzern".
+Alverca v Casa Pia -> out/Alverca_v_Casa_Pia.txt
+Benevento v Avellino -> out/Benevento_v_Avellino.txt
+FCSB v Hunedoara -> out/FCSB_v_Hunedoara.txt
+SV Ried v LASK -> out/SV_Ried_v_LASK.txt
+    !! SV Ried: No team found for "SV Ried".
+    !! LASK: Ambiguous team name "LASK".
+Requests used: API-Football 149, Matchbook 0

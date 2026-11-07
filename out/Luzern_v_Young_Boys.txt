@@ -1,0 +1,40 @@
+MATCH Luzern v Young Boys | fetched 2026-11-07 15:44 local
+
+FORM DATA Luzern v Young Boys | source API-Football | 2026-11-07 15:44 UTC
+H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
+
+"Luzern" matches several teams. Use id:<number> instead of the name:
+  id:644    FC Luzern (Switzerland)
+  id:12706  Luzern II (Switzerland)
+  id:16040  Luzern W (Switzerland)
+  id:16353  Kickers Luzern (Switzerland)
+=== Young Boys (id 15917): last 11 finished games ===
+2026-09-20 H 1-3 v F91 Dudelange | Cup | ?
+2024-10-06 H 1-2 v Résidence Walferdange | Cup | Diekirch
+2024-09-07 A 4-3 v Koerich | Cup | Koerich
+2023-10-01 H 0-4 v Yellow Boys Weiler | Cup | Diekirch
+2023-09-10 A 3-0 v Union Mertert | Cup | Wasserbillig
+2022-10-02 H 1-4 v RM Hamm Benfica | Cup | Diekirch
+2022-09-10 A 10-1 v Kischpelt Wilwerwiltz | Cup | Pintsch
+2021-10-03 H 0-4 v RM Hamm Benfica | Cup | Diekirch
+2021-09-12 A 1-0 v Berdorf Consdorf | Cup | Consdorf
+2020-10-17 H 0-6 v US Mondorf-les-bains | Cup | Diekirch
+2020-09-09 A 5-0 v Rambrouch | Cup | Rambrouch
+Listed home: 6 games, scored 3 (0.50), conceded 23 (3.83), blanks 3, clean sheets 0
+Listed away: 5 games, scored 23 (4.60), conceded 4 (0.80), blanks 0, clean sheets 3
+All: 11 games, scored 26 (2.36), conceded 27 (2.45), blanks 3, clean sheets 3
+
+(retrying Luzern using the opponent's country, Luxembourg)
+"Luzern" matches several teams. Use id:<number> instead of the name:
+  id:644    FC Luzern (Switzerland)
+  id:12706  Luzern II (Switzerland)
+  id:16040  Luzern W (Switzerland)
+  id:16353  Kickers Luzern (Switzerland)
+!! Luzern: Ambiguous team name "Luzern".
+
+(no league table available for Young Boys: tried Cup 2026, Cup 2024, Cup 2023, Cup 2022)
+
+(20 API-Football requests used)
+
+----------------------------------------------------------------------
+MATCHBOOK: skipped (switched off for this run)
