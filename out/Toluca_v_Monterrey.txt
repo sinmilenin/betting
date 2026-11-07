@@ -1,0 +1,84 @@
+MATCH Toluca v Monterrey | fetched 2026-11-07 19:58 local
+
+FORM DATA Toluca v Monterrey | source API-Football | 2026-11-07 19:59 UTC
+H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
+
+=== Toluca (id 2281): last 20 finished games ===
+2026-11-01 A 2-2 v Club America | Liga MX | Mexico City | xG 1.94-2.08
+2026-10-24 A 1-1 v Leon | Liga MX | Leon | xG 1.43-1.54
+2026-10-22 H 2-2 v Club Tijuana | Liga MX | Toluca | xG 2.24-1.44
+2026-10-18 H 1-1 v Atletico San Luis | Liga MX | Toluca | xG 2.60-1.40
+2026-10-10 A 2-3 v Tigres UANL | Liga MX | Monterey | xG 1.18-1.72
+2026-10-03 A 1-2 v Monterrey | Friendlies Clubs | ?
+2026-09-26 A 3-3 v Cruz Azul | Liga MX | Mexico City | xG 1.95-1.55
+2026-09-21 H 2-3 v Santos Laguna | Liga MX | Toluca | xG 3.45-1.86
+2026-09-16 A 1-0 v Puebla | Liga MX | Puebla | xG 1.95-0.56
+2026-09-12 H 5-2 v Atlas | Liga MX | Toluca | xG 2.12-0.94
+2026-09-07 H 2-0 v Monterrey | Leagues Cup | ?
+2026-09-03 H 2-0 v Leon | Leagues Cup | Houston
+2026-08-31 H 4-0 v FC Juarez | Liga MX | Toluca
+2026-08-27 H 2-0 v Austin | Leagues Cup | Harrison
+2026-08-22 A 2-1 v Club Queretaro | Liga MX | Santiago de Queretaro
+2026-08-15 A 0-0 v Atlante FC | Liga MX | Mexico City
+2026-08-13 H 3-1 v FC Dallas | Leagues Cup | Toluca
+2026-08-09 H 0-1 v Los Angeles FC | Leagues Cup | Los Angeles
+2026-08-06 H 3-0 v Seattle Sounders | Leagues Cup | Toluca
+2026-08-03 H 3-1 v Necaxa | Liga MX | Toluca
+Listed home: 12 games, scored 29 (2.42), conceded 11 (0.92), blanks 1, clean sheets 5
+Listed away: 8 games, scored 12 (1.50), conceded 12 (1.50), blanks 1, clean sheets 2
+All: 20 games, scored 41 (2.05), conceded 23 (1.15), blanks 2, clean sheets 7
+
+=== Monterrey (id 2282): last 20 finished games ===
+2026-11-01 H 3-3 v Club Tijuana | Liga MX | Monterrey | xG 2.57-0.74
+2026-10-25 H 0-1 v Guadalajara Chivas | Liga MX | Monterrey | xG 1.71-1.32
+2026-10-22 A 4-1 v Puebla | Liga MX | Puebla | xG 1.99-1.45
+2026-10-19 H 2-1 v CF Pachuca | Liga MX | Monterrey | xG 1.75-0.90
+2026-10-11 A 1-1 v Club America | Liga MX | Mexico City | xG 0.38-1.25
+2026-10-03 H 2-1 v Toluca | Friendlies Clubs | ?
+2026-09-26 A 2-4 v Atlante FC | Liga MX | Mexico City
+2026-09-20 H 1-0 v Cruz Azul | Liga MX | Monterrey | xG 0.82-1.28
+2026-09-13 H 0-0 v Tigres UANL | Liga MX | Monterrey | xG 1.10-0.14
+2026-09-07 A 0-2 v Toluca | Leagues Cup | ?
+2026-09-03 A 2-2 v Club America | Leagues Cup | Carson [PEN, 90-min score shown]
+2026-08-31 H 1-3 v Atletico San Luis | Liga MX | Monterrey
+2026-08-26 H 2-1 v Chicago Fire | Leagues Cup | Bridgeview
+2026-08-22 A 0-2 v Leon | Liga MX | Leon
+2026-08-16 H 6-1 v FC Juarez | Liga MX | Monterrey
+2026-08-13 H 2-1 v Nashville SC | Leagues Cup | Nashville
+2026-08-09 A 2-1 v Inter Miami | Leagues Cup | Miami
+2026-08-05 H 1-2 v Orlando City SC | Leagues Cup | Orlando
+2026-08-02 A 2-0 v Atlas | Liga MX | Guadalajara
+2026-07-26 A 1-2 v Necaxa | Liga MX | Aguascalientes
+Listed home: 11 games, scored 20 (1.82), conceded 14 (1.27), blanks 2, clean sheets 2
+Listed away: 9 games, scored 14 (1.56), conceded 15 (1.67), blanks 2, clean sheets 1
+All: 20 games, scored 34 (1.70), conceded 29 (1.45), blanks 4, clean sheets 3
+
+TABLE FOR Toluca
+LEAGUE TABLE Liga MX 2026 | 18 teams | 137 games played
+League averages per game: home 1.57, away 1.42, total 2.99
+#   team                   Pts | home P GF-GA  | away P GF-GA  | all P GF-GA
+1   Club America            29 |  8  15-8       |  7  21-13      | 15  36-21
+2   Guadalajara Chivas      29 |  8  15-9       |  7  10-5       | 15  25-14
+3   Cruz Azul               29 |  8  19-13      |  7  15-11      | 15  34-24
+4   Atlas                   27 |  8  12-17      |  7  14-9       | 15  26-26
+5   Santos Laguna           25 |  8  11-3       |  8  12-17      | 16  23-20
+6   Toluca                  24 |  7  18-11      |  8  13-10      | 15  31-21
+7   Club Tijuana            22 |  8  14-7       |  8  11-15      | 16  25-22
+8   Leon                    22 |  7  13-10      |  8   9-10      | 15  22-20
+9   Monterrey               21 |  8  16-11      |  6  10-10      | 14  26-21
+10  U.N.A.M. - Pumas        20 |  7  10-12      |  8  12-12      | 15  22-24
+11  Club Queretaro          20 |  6   8-9       |  8  10-12      | 14  18-21
+12  CF Pachuca              19 |  7  13-13      |  8  12-6       | 15  25-19
+13  Atletico San Luis       19 |  9   9-13      |  7  10-11      | 16  19-24
+14  Puebla                  16 |  7   8-12      |  8   9-11      | 15  17-23
+15  Tigres UANL             15 |  6   9-7       |  9   6-15      | 15  15-22
+16  Atlante FC              14 |  8   7-12      |  8   9-14      | 16  16-26
+17  Necaxa                  13 |  9  10-15      |  7   7-13      | 16  17-28
+18  FC Juarez               11 |  8   8-13      |  8   5-21      | 16  13-34
+
+(Monterrey: same table as Toluca, shown above)
+
+(24 API-Football requests used)
+
+----------------------------------------------------------------------
+MATCHBOOK: skipped (switched off for this run)
