@@ -1,8 +1,5 @@
-RUN 2026-11-07 10:30 local | 4 match(es)
-Mashal v Surkhon -> out/Mashal_v_Surkhon.txt
-    !! Mashal: No team found for "Mashal".
-Csikszereda v Universitatea Cluj -> out/Csikszereda_v_Universitatea_Cluj.txt
-Burgos v Celta Vigo B -> out/Burgos_v_Celta_Vigo_B.txt
-    !! Celta Vigo B: No team found for "Celta Vigo B".
-Samsunspor v Konyaspor -> out/Samsunspor_v_Konyaspor.txt
-Requests used: API-Football 80, Matchbook 0
+RUN 2026-11-07 10:31 local | 2 match(es)
+Mash'al v Surkhon -> out/Mash_al_v_Surkhon.txt
+    !! Mash'al: API-Football error: {"search": "The Search field may only contain alpha-numeric characters and spaces."}
+Burgos v Celta de Vigo II -> out/Burgos_v_Celta_de_Vigo_II.txt
+Requests used: API-Football 39, Matchbook 0
