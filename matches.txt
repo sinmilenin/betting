@@ -1,3 +1,5 @@
-# scan 07.11 12:11 retry 2: Ferrol/Logrones by id, Hillerod alt name
-id:9409 v id:5280 | n=20 | xg=10
-Hiller v Kolding IF | n=20 | xg=10
+# scan 07.11 12:56: new fixtures 14:00-15:30
+Wehen Wiesbaden v Havelse | n=20 | xg=10
+Slovan Liberec v Bohemians 1905 | n=20 | xg=10
+Cukaricki v Radnicki Nis | n=20 | xg=10
+Slovan Bratislava v Trencin | n=20 | xg=10
