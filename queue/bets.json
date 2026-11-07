@@ -240,5 +240,27 @@
     "lay": 11,
     "stake": 3,
     "created": "2026-11-07T16:06:22+01:00"
+  },
+  {
+    "id": "2026-11-07_benevento-calcio-avellino-ssd_2-2",
+    "date": "2026-11-07",
+    "ko": "19:30",
+    "match": "Benevento v Calcio Avellino SSD",
+    "comp": "Italy, Italian Serie B",
+    "cell": "2-2",
+    "lay": 18.5,
+    "stake": 3,
+    "created": "2026-11-07T16:53:19+01:00"
+  },
+  {
+    "id": "2026-11-07_sv-ried-lask-linz_0-1",
+    "date": "2026-11-07",
+    "ko": "19:30",
+    "match": "SV Ried v LASK Linz",
+    "comp": "Austria, Austrian Bundesliga",
+    "cell": "0-1",
+    "lay": 13.5,
+    "stake": 3,
+    "created": "2026-11-07T16:53:19+01:00"
   }
 ]
