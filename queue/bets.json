@@ -1,16 +1,5 @@
 [
   {
-    "id": "2026-11-07_perth-glory-newcastle-jets_0-1",
-    "date": "2026-11-07",
-    "ko": "11:45",
-    "match": "Perth Glory v Newcastle Jets",
-    "comp": "Australia, Australian A-League Men",
-    "cell": "0-1",
-    "lay": 19,
-    "stake": 3,
-    "created": "2026-11-07T07:48:47+01:00"
-  },
-  {
     "id": "2026-11-07_burgos-celta-vigo-b_2-1",
     "date": "2026-11-07",
     "ko": "14:00",
@@ -273,5 +262,49 @@
     "lay": 9.6,
     "stake": 3,
     "created": "2026-11-07T17:35:33+01:00"
+  },
+  {
+    "id": "2026-11-07_excelsior-go-ahead-eagles_0-1",
+    "date": "2026-11-07",
+    "ko": "21:00",
+    "match": "Excelsior v Go Ahead Eagles",
+    "comp": "Netherlands, Dutch Eredivisie",
+    "cell": "0-1",
+    "lay": 15,
+    "stake": 3,
+    "created": "2026-11-07T18:18:05+01:00"
+  },
+  {
+    "id": "2026-11-07_excelsior-go-ahead-eagles_1-0",
+    "date": "2026-11-07",
+    "ko": "21:00",
+    "match": "Excelsior v Go Ahead Eagles",
+    "comp": "Netherlands, Dutch Eredivisie",
+    "cell": "1-0",
+    "lay": 17,
+    "stake": 3,
+    "created": "2026-11-07T18:18:05+01:00"
+  },
+  {
+    "id": "2026-11-07_excelsior-go-ahead-eagles_2-2",
+    "date": "2026-11-07",
+    "ko": "21:00",
+    "match": "Excelsior v Go Ahead Eagles",
+    "comp": "Netherlands, Dutch Eredivisie",
+    "cell": "2-2",
+    "lay": 14,
+    "stake": 3,
+    "created": "2026-11-07T18:18:05+01:00"
+  },
+  {
+    "id": "2026-11-07_antwerp-lommel_1-0",
+    "date": "2026-11-07",
+    "ko": "20:45",
+    "match": "Antwerp v Lommel",
+    "comp": "Belgium, Belgian Pro League",
+    "cell": "1-0",
+    "lay": 13,
+    "stake": 3,
+    "created": "2026-11-07T18:18:05+01:00"
   }
 ]
