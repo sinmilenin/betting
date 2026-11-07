@@ -1,27 +1,5 @@
 [
   {
-    "id": "2026-11-07_ningbo-professional-jiangxi-dingnan-united_0-1",
-    "date": "2026-11-07",
-    "ko": "07:30",
-    "match": "Ningbo Professional v Jiangxi Dingnan United",
-    "comp": "China, Chinese League 1",
-    "cell": "0-1",
-    "lay": 12,
-    "stake": 3,
-    "created": "2026-11-07T06:15:46+01:00"
-  },
-  {
-    "id": "2026-11-07_guangdong-gz-power-fc-nanjing-city_2-2",
-    "date": "2026-11-07",
-    "ko": "07:30",
-    "match": "Guangdong GZ-Power FC v Nanjing City",
-    "comp": "China, Chinese League 1",
-    "cell": "2-2",
-    "lay": 17,
-    "stake": 3,
-    "created": "2026-11-07T07:01:27+01:00"
-  },
-  {
     "id": "2026-11-07_perth-glory-newcastle-jets_0-1",
     "date": "2026-11-07",
     "ko": "11:45",
@@ -108,5 +86,82 @@
     "lay": 16.0,
     "stake": 3,
     "created": "2026-11-07T12:20:27+01:00"
+  },
+  {
+    "id": "2026-11-07_juve-stabia-arezzo_2-2",
+    "date": "2026-11-07",
+    "ko": "15:00",
+    "match": "Juve Stabia v Arezzo",
+    "comp": "Italy, Italian Serie B",
+    "cell": "2-2",
+    "lay": 19.0,
+    "stake": 3,
+    "created": "2026-11-07T13:54:54+01:00"
+  },
+  {
+    "id": "2026-11-07_guiseley-sutton-utd_1-0",
+    "date": "2026-11-07",
+    "ko": "16:00",
+    "match": "Guiseley v Sutton Utd",
+    "comp": "United Kingdom, English FA Cup",
+    "cell": "1-0",
+    "lay": 13.0,
+    "stake": 3,
+    "created": "2026-11-07T13:54:54+01:00"
+  },
+  {
+    "id": "2026-11-07_clyde-spartans_0-1",
+    "date": "2026-11-07",
+    "ko": "16:00",
+    "match": "Clyde v Spartans",
+    "comp": "United Kingdom, Scottish League Two",
+    "cell": "0-1",
+    "lay": 19.0,
+    "stake": 3,
+    "created": "2026-11-07T13:54:54+01:00"
+  },
+  {
+    "id": "2026-11-07_hornchurch-blackpool_0-1",
+    "date": "2026-11-07",
+    "ko": "16:00",
+    "match": "Hornchurch v Blackpool",
+    "comp": "United Kingdom, English FA Cup",
+    "cell": "0-1",
+    "lay": 13.0,
+    "stake": 3,
+    "created": "2026-11-07T13:54:54+01:00"
+  },
+  {
+    "id": "2026-11-07_bromley-rotherham_2-2",
+    "date": "2026-11-07",
+    "ko": "16:00",
+    "match": "Bromley v Rotherham",
+    "comp": "United Kingdom, English FA Cup",
+    "cell": "2-2",
+    "lay": 15.5,
+    "stake": 3,
+    "created": "2026-11-07T13:54:54+01:00"
+  },
+  {
+    "id": "2026-11-07_hampton-and-richmond-maidenhead_0-1",
+    "date": "2026-11-07",
+    "ko": "16:00",
+    "match": "Hampton and Richmond v Maidenhead",
+    "comp": "United Kingdom, English National League South",
+    "cell": "0-1",
+    "lay": 14.0,
+    "stake": 3,
+    "created": "2026-11-07T13:54:54+01:00"
+  },
+  {
+    "id": "2026-11-07_hampton-and-richmond-maidenhead_1-0",
+    "date": "2026-11-07",
+    "ko": "16:00",
+    "match": "Hampton and Richmond v Maidenhead",
+    "comp": "United Kingdom, English National League South",
+    "cell": "1-0",
+    "lay": 16.0,
+    "stake": 3,
+    "created": "2026-11-07T13:54:54+01:00"
   }
 ]
