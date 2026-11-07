@@ -1,5 +1,4 @@
-RUN 2026-11-07 17:15 local | 3 match(es)
-Antwerp v id:259 -> out/Antwerp_v_id_259.txt
-id:5902 v Cercle Brugge -> out/id_5902_v_Cercle_Brugge.txt
-Talleres Cordoba v id:450 -> out/Talleres_Cordoba_v_id_450.txt
-Requests used: API-Football 74, Matchbook 0
+RUN 2026-11-07 17:59 local | 2 match(es)
+Boca Juniors v Defensa y Justicia -> out/Boca_Juniors_v_Defensa_y_Justicia.txt
+Grasshoppers v Lausanne -> out/Grasshoppers_v_Lausanne.txt
+Requests used: API-Football 52, Matchbook 0
