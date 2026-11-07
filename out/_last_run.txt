@@ -1,6 +1,4 @@
-RUN 2026-11-07 11:15 local | 2 match(es)
-Racing Ferrol v Logrones -> out/Racing_Ferrol_v_Logrones.txt
-    !! Logrones: Ambiguous team name "Logrones".
-Hillerød v Kolding IF -> out/Hiller_d_v_Kolding_IF.txt
-    !! Hillerød: API-Football error: {"search": "The Search field may only contain alpha-numeric characters and spaces."}
-Requests used: API-Football 29, Matchbook 0
+RUN 2026-11-07 11:16 local | 2 match(es)
+id:9409 v id:5280 -> out/id_9409_v_id_5280.txt
+Hiller v Kolding IF -> out/Hiller_v_Kolding_IF.txt
+Requests used: API-Football 50, Matchbook 0

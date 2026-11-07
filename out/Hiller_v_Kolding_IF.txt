@@ -1,7 +1,32 @@
-MATCH Hillerød v Kolding IF | fetched 2026-11-07 11:15 local
+MATCH Hiller v Kolding IF | fetched 2026-11-07 11:16 local
 
-FORM DATA Hillerød v Kolding IF | source API-Football | 2026-11-07 11:15 UTC
+FORM DATA Hiller v Kolding IF | source API-Football | 2026-11-07 11:17 UTC
 H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
+
+=== Hillerød (id 6026): last 20 finished games ===
+2026-11-01 A 0-2 v Aarhus Fremad | 1. Division | Silkeborg
+2026-10-24 H 2-1 v Aalborg | 1. Division | Helsingor
+2026-10-18 A 0-1 v Hvidovre | 1. Division | Hvidovre
+2026-10-10 H 0-2 v FC Fredericia | 1. Division | Helsingor
+2026-09-18 A 1-1 v Kolding IF | 1. Division | Kolding
+2026-09-12 H 1-0 v AB Copenhagen | 1. Division | Helsingor
+2026-09-09 A 1-1 v Vanløse | DBU Pokalen | Vanlose [AET, 90-min score shown]
+2026-09-04 A 1-1 v HB Koge | 1. Division | Koge
+2026-08-30 H 3-1 v Hobro | 1. Division | Helsingor
+2026-08-25 A 4-0 v Avarta | DBU Pokalen | ?
+2026-08-20 A 0-1 v Vendsyssel FF | 1. Division | Hjorring
+2026-08-15 H 1-1 v Aarhus Fremad | 1. Division | Helsingor
+2026-08-09 A 4-5 v Vejle | 1. Division | Vejle
+2026-08-06 A 12-0 v Vaeggerlose | DBU Pokalen | ?
+2026-08-01 H 2-3 v Esbjerg | 1. Division | Helsingor
+2026-07-24 A 0-1 v Aalborg | 1. Division | Aalborg
+2026-07-18 H 0-1 v Lyngby | Friendlies Clubs | ?
+2026-07-11 A 1-1 v Vejle | Friendlies Clubs | ?
+2026-07-04 A 0-2 v Odense | Friendlies Clubs | ?
+2026-05-31 H 2-1 v Hvidovre | 1. Division | Helsingor
+Listed home: 8 games, scored 11 (1.38), conceded 10 (1.25), blanks 2, clean sheets 1
+Listed away: 12 games, scored 24 (2.00), conceded 16 (1.33), blanks 5, clean sheets 2
+All: 20 games, scored 35 (1.75), conceded 26 (1.30), blanks 7, clean sheets 3
 
 === Kolding IF (id 4676): last 20 finished games ===
 2026-10-31 H 3-2 v HB Koge | 1. Division | Kolding
@@ -28,9 +53,7 @@ Listed home: 10 games, scored 17 (1.70), conceded 15 (1.50), blanks 2, clean she
 Listed away: 10 games, scored 24 (2.40), conceded 10 (1.00), blanks 2, clean sheets 2
 All: 20 games, scored 41 (2.05), conceded 25 (1.25), blanks 4, clean sheets 4
 
-!! Hillerød: API-Football error: {"search": "The Search field may only contain alpha-numeric characters and spaces."}
-
-TABLE FOR Kolding IF
+TABLE FOR Hillerød
 LEAGUE TABLE 1. Division 2026 | 12 teams | 81 games played
 League averages per game: home 1.44, away 1.25, total 2.69
 #   team                   Pts | home P GF-GA  | away P GF-GA  | all P GF-GA
@@ -47,7 +70,9 @@ League averages per game: home 1.44, away 1.25, total 2.69
 11  Vendsyssel FF           12 |  6   3-8       |  8  11-16      | 14  14-24
 12  Esbjerg                 11 |  7  10-12      |  6   6-12      | 13  16-24
 
-(14 API-Football requests used)
+(Kolding IF: same table as Hillerød, shown above)
+
+(25 API-Football requests used)
 
 ----------------------------------------------------------------------
 MATCHBOOK: skipped (switched off for this run)

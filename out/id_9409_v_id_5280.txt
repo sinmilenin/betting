@@ -1,6 +1,6 @@
-MATCH Racing Ferrol v Logrones | fetched 2026-11-07 11:15 local
+MATCH id:9409 v id:5280 | fetched 2026-11-07 11:16 local
 
-FORM DATA Racing Ferrol v Logrones | source API-Football | 2026-11-07 11:15 UTC
+FORM DATA id:9409 v id:5280 | source API-Football | 2026-11-07 11:16 UTC
 H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
 
 === Racing Ferrol (id 9409): last 20 finished games ===
@@ -28,16 +28,30 @@ Listed home: 11 games, scored 12 (1.09), conceded 12 (1.09), blanks 4, clean she
 Listed away: 9 games, scored 6 (0.67), conceded 10 (1.11), blanks 4, clean sheets 2
 All: 20 games, scored 18 (0.90), conceded 22 (1.10), blanks 8, clean sheets 8
 
-"Logrones" matches several teams. Use id:<number> instead of the name:
-  id:5280   UD Logroñés (Spain)
-  id:9411   SD Logroñés (Spain)
-  id:9872   UD Logroñés II (Spain)
-(retrying Logrones using the opponent's country, Spain)
-"Logrones" matches several teams. Use id:<number> instead of the name:
-  id:5280   UD Logroñés (Spain)
-  id:9411   SD Logroñés (Spain)
-  id:9872   UD Logroñés II (Spain)
-!! Logrones: Ambiguous team name "Logrones".
+=== UD Logroñés (id 5280): last 20 finished games ===
+2026-10-31 H 0-1 v Mirandes | Primera División RFEF - Group 1 | ?
+2026-10-24 A 3-1 v Real Avilés | Primera División RFEF - Group 1 | ?
+2026-10-18 H 1-1 v Cultural Leonesa | Primera División RFEF - Group 1 | ?
+2026-10-12 A 1-3 v Lugo | Primera División RFEF - Group 1 | Lugo
+2026-10-04 H 2-1 v Deportivo La Coruña II | Primera División RFEF - Group 1 | ?
+2026-09-27 A 5-3 v Mérida AD | Primera División RFEF - Group 1 | ?
+2026-09-18 H 1-1 v Pontevedra | Primera División RFEF - Group 1 | ?
+2026-09-12 A 3-0 v UD Ourense | Primera División RFEF - Group 1 | ?
+2026-09-06 A 2-1 v Zamora | Primera División RFEF - Group 1 | Zamora
+2026-08-31 H 2-1 v Extremadura 1924 | Primera División RFEF - Group 1 | ?
+2026-08-22 H 4-0 v Huesca II | Friendlies Clubs | ?
+2026-08-21 H 4-0 v Mirandes | Friendlies Clubs | ?
+2026-08-14 H 1-2 v Zaragoza | Friendlies Clubs | ?
+2026-08-04 A 1-0 v Huesca | Friendlies Clubs | ?
+2026-05-30 A 0-1 v SS Reyes | Segunda División RFEF - Play-offs | ? [AET, 90-min score shown]
+2026-05-24 H 1-0 v SS Reyes | Segunda División RFEF - Play-offs | ?
+2026-05-16 H 2-1 v Getafe II | Segunda División RFEF - Play-offs | ?
+2026-05-10 A 2-0 v Getafe II | Segunda División RFEF - Play-offs | Getafe
+2026-05-03 A 3-0 v Ebro | Segunda División RFEF - Group 2 | Zaragoza
+2026-04-26 H 3-0 v Mutilvera | Segunda División RFEF - Group 2 | ?
+Listed home: 11 games, scored 21 (1.91), conceded 8 (0.73), blanks 1, clean sheets 4
+Listed away: 9 games, scored 20 (2.22), conceded 9 (1.00), blanks 1, clean sheets 4
+All: 20 games, scored 41 (2.05), conceded 17 (0.85), blanks 2, clean sheets 8
 
 TABLE FOR Racing Ferrol
 LEAGUE TABLE Primera División RFEF - Group 1 2026 | 20 teams | 102 games played
@@ -64,7 +78,9 @@ League averages per game: home 1.42, away 1.13, total 2.55
 19  UD Ourense               8 |  5   2-4       |  5   2-11      | 10   4-15
 20  Arenas Getxo             8 |  5   4-10      |  5   4-12      | 10   8-22
 
-(15 API-Football requests used)
+(UD Logroñés: same table as Racing Ferrol, shown above)
+
+(25 API-Football requests used)
 
 ----------------------------------------------------------------------
 MATCHBOOK: skipped (switched off for this run)
