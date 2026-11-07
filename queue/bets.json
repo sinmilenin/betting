@@ -11,17 +11,6 @@
     "created": "2026-11-07T07:48:47+01:00"
   },
   {
-    "id": "2026-11-07_tammeka-tartu-parnu-jk-vaprus_0-1",
-    "date": "2026-11-07",
-    "ko": "11:30",
-    "match": "Tammeka Tartu v Parnu JK Vaprus",
-    "comp": "Estonia, Estonian Premier League",
-    "cell": "0-1",
-    "lay": 17.5,
-    "stake": 3,
-    "created": "2026-11-07T09:16:37+01:00"
-  },
-  {
     "id": "2026-11-07_burgos-celta-vigo-b_2-1",
     "date": "2026-11-07",
     "ko": "14:00",
@@ -262,5 +251,27 @@
     "lay": 13.5,
     "stake": 3,
     "created": "2026-11-07T16:53:19+01:00"
+  },
+  {
+    "id": "2026-11-07_nk-bravo-nk-maribor_0-1",
+    "date": "2026-11-07",
+    "ko": "18:00",
+    "match": "NK Bravo v NK Maribor",
+    "comp": "Slovenia, Slovenian Premier League",
+    "cell": "0-1",
+    "lay": 10.0,
+    "stake": 3,
+    "created": "2026-11-07T17:35:33+01:00"
+  },
+  {
+    "id": "2026-11-07_st-etienne-laval_2-1",
+    "date": "2026-11-07",
+    "ko": "20:00",
+    "match": "St Etienne v Laval",
+    "comp": "France, French Ligue 2",
+    "cell": "2-1",
+    "lay": 9.6,
+    "stake": 3,
+    "created": "2026-11-07T17:35:33+01:00"
   }
 ]
