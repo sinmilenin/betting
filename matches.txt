@@ -1,2 +1,2 @@
-# scan 07.11 09:56 (Ljubljana)
-Inter Kashi v Sporting Club Delhi | n=20 | xg=10
+# scan 07.11 09:56 (Ljubljana) retry: Sporting Club Delhi not found, using SC Delhi
+Inter Kashi v SC Delhi | n=20 | xg=10
