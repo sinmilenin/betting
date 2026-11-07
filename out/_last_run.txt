@@ -1,9 +1,4 @@
-RUN 2026-11-07 05:58 local | 5 match(es)
-Guangdong GZ-Power v Nanjing City -> out/Guangdong_GZ_Power_v_Nanjing_City.txt
-    !! Guangdong GZ-Power: API-Football error: {"search": "The Search field may only contain alpha-numeric characters and spaces."}
-Kashiwa Reysol v Kawasaki Frontale -> out/Kashiwa_Reysol_v_Kawasaki_Frontale.txt
-Melbourne City v Western Sydney Wanderers -> out/Melbourne_City_v_Western_Sydney_Wanderer.txt
-Qingdao Red Lions v Chengdu Rongcheng II -> out/Qingdao_Red_Lions_v_Chengdu_Rongcheng_II.txt
-Haimen Codion v Ganzhou Ruishi -> out/Haimen_Codion_v_Ganzhou_Ruishi.txt
-    !! Ganzhou Ruishi: No team found for "Ganzhou Ruishi".
-Requests used: API-Football 103, Matchbook 0
+RUN 2026-11-07 05:58 local | 1 match(es)
+Guangzhou E Power v Nanjing City -> out/Guangzhou_E_Power_v_Nanjing_City.txt
+    !! Guangzhou E Power: No team found for "Guangzhou E Power".
+Requests used: API-Football 14, Matchbook 0
