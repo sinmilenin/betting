@@ -1,6 +1,4 @@
-RUN 2026-11-07 18:45 local | 3 match(es)
-CF Montreal v Vancouver Whitecaps -> out/CF_Montreal_v_Vancouver_Whitecaps.txt
-Atletico Mineiro v Gremio -> out/Atletico_Mineiro_v_Gremio.txt
-Once Caldas v Aguilas Doradas -> out/Once_Caldas_v_Aguilas_Doradas.txt
-    !! Aguilas Doradas: Ambiguous team name "Aguilas Doradas".
-Requests used: API-Football 56, Matchbook 0
+RUN 2026-11-07 18:46 local | 2 match(es)
+id:1062 v Gremio -> out/id_1062_v_Gremio.txt
+Once Caldas v id:1144 -> out/Once_Caldas_v_id_1144.txt
+Requests used: API-Football 51, Matchbook 0
