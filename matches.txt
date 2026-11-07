@@ -1,2 +1,12 @@
-# scan 07.11 13:40 retry 3: Hampton id
-id:4680 v Maidenhead | n=20 | xg=10
+# scan 07.11 14:27
+Hradec Kralove v Sigma Olomouc | n=20 | xg=10
+IK Brage v Norrby | n=20 | xg=10
+Ljungskile v Landskrona | n=20 | xg=10
+Ostersunds FK v Oddevold | n=20 | xg=10
+Sandvikens IF v United IK Nordic | n=20 | xg=10
+Arbroath v Ayr | n=20 | xg=10
+Huddersfield v Exeter | n=20 | xg=10
+Scarborough Athletic v Buxton | n=20 | xg=10
+Goztepe v Basaksehir | n=20 | xg=10
+Pendikspor v Istanbulspor | n=20 | xg=10
+Mantova v Verona | n=20 | xg=10
