@@ -1,0 +1,121 @@
+MATCH FC Tokyo v Kashima | fetched 2026-11-07 05:13 local
+
+FORM DATA FC Tokyo v Kashima | source API-Football | 2026-11-07 05:13 UTC
+H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
+
+=== FC Tokyo (id 292): last 20 finished games ===
+2026-10-31 A 4-0 v Fagiano Okayama | J1 League | Okayama | xG 4.11-0.83
+2026-10-25 H 6-0 v Mito Hollyhock | J1 League | Chofu | xG 2.59-0.80
+2026-10-21 H 0-0 v Kashiwa Reysol | J1 League | Chofu | xG 2.40-1.29
+2026-10-17 A 4-0 v Tokyo Verdy | J1 League | Chofu | xG 2.51-0.09
+2026-10-14 A 0-1 v Mito Hollyhock | J-League Cup | Mito
+2026-10-10 H 3-0 v Urawa | J1 League | Chofu | xG 1.76-0.24
+2026-10-07 H 4-0 v Shonan Bellmare | Emperor Cup | Tokyo
+2026-09-29 A 2-0 v Ehime FC | J-League Cup | Matsuyama
+2026-09-19 H 1-0 v Nagoya Grampus | J1 League | Tokyo | xG 0.85-0.84
+2026-09-12 A 2-0 v Gamba Osaka | J1 League | Suita | xG 2.94-1.12
+2026-09-06 H 2-0 v Kyoto Sanga | J1 League | Tokyo
+2026-09-02 A 1-1 v Shimizu S-pulse | J1 League | Shizuoka
+2026-08-29 A 3-0 v V-varen Nagasaki | J1 League | Nagasaki
+2026-08-26 H 6-0 v Parceiro Nagano | Emperor Cup | Tokyo
+2026-08-21 H 2-0 v JEF United Chiba | J1 League | Tokyo
+2026-08-15 A 2-2 v Vissel Kobe | J1 League | Kobe
+2026-08-08 H 1-5 v Machida Zelvia | J1 League | Tokyo
+2026-08-01 H 0-1 v Borussia Dortmund | Friendlies Clubs | Tokyo
+2026-07-21 H 2-1 v Nagoya Grampus | Friendlies Clubs | ?
+2026-06-06 H 1-3 v Cerezo Osaka | J1 League | Tokyo
+Listed home: 12 games, scored 28 (2.33), conceded 10 (0.83), blanks 2, clean sheets 8
+Listed away: 8 games, scored 18 (2.25), conceded 4 (0.50), blanks 1, clean sheets 5
+All: 20 games, scored 46 (2.30), conceded 14 (0.70), blanks 3, clean sheets 13
+
+=== Kashima (id 290): last 20 finished games ===
+2026-11-04 A 0-0 v Buriram United | AFC Champions League Elite | Buriram | xG 1.67-0.39
+2026-10-31 H 4-1 v Cerezo Osaka | J1 League | Kashima | xG 2.44-0.65
+2026-10-28 H 3-0 v Pohang Steelers | AFC Champions League Elite | Kashima | xG 2.59-0.18
+2026-10-24 H 2-3 v Kashiwa Reysol | J1 League | Kashima | xG 1.57-0.67
+2026-10-21 A 2-2 v Kyoto Sanga | J1 League | Kyoto | xG 1.39-0.37
+2026-10-17 H 2-0 v V-varen Nagasaki | J1 League | Kashima | xG 1.41-1.10
+2026-10-13 A 1-0 v Công An Nhân Dân | AFC Champions League Elite | Hanoi | xG 0.54-0.75
+2026-10-09 H 2-0 v Gamba Osaka | J1 League | Kashima | xG 1.24-1.71
+2026-09-23 H 3-1 v Ventforet Kofu | Emperor Cup | Kashima
+2026-09-19 A 3-3 v Kawasaki Frontale | J1 League | Kawasaki | xG 1.78-2.78
+2026-09-15 H 7-1 v Newcastle Jets | AFC Champions League Elite | Kashima
+2026-09-11 A 1-2 v Vissel Kobe | J1 League | Kobe
+2026-09-06 H 0-1 v Urawa | J1 League | Kashima
+2026-09-02 A 2-4 v Mito Hollyhock | J1 League | Ibaraki
+2026-08-29 A 2-0 v Tokyo Verdy | J1 League | Tokyo
+2026-08-26 H 3-0 v Suzuka Unlimited | Emperor Cup | Kashima
+2026-08-22 H 3-2 v Avispa Fukuoka | J1 League | Kashima
+2026-08-15 H 2-1 v Nagoya Grampus | J1 League | Kashima
+2026-08-07 A 4-3 v Yokohama F. Marinos | J1 League | Tokyo
+2026-07-15 H 5-0 v Vegalta Sendai | Friendlies Clubs | ?
+Listed home: 12 games, scored 36 (3.00), conceded 10 (0.83), blanks 1, clean sheets 5
+Listed away: 8 games, scored 15 (1.88), conceded 14 (1.75), blanks 1, clean sheets 3
+All: 20 games, scored 51 (2.55), conceded 24 (1.20), blanks 2, clean sheets 8
+
+TABLE FOR FC Tokyo
+LEAGUE TABLE J1 League 2027 | 20 teams | 130 games played
+League averages per game: home 1.65, away 1.35, total 3.01
+#   team                   Pts | home P GF-GA  | away P GF-GA  | all P GF-GA
+1   FC Tokyo                30 |  7  15-5       |  6  16-3       | 13  31-8
+2   Sanfrecce Hiroshima     29 |  6  20-2       |  7  12-8       | 13  32-10
+3   Machida Zelvia          28 |  6  11-7       |  7  19-3       | 13  30-10
+4   Kashiwa Reysol          28 |  6  15-10      |  7  14-9       | 13  29-19
+5   Vissel Kobe             26 |  6  11-5       |  7  10-7       | 13  21-12
+6   Kashima                 23 |  7  15-8       |  6  14-14      | 13  29-22
+7   Kawasaki Frontale       22 |  7  17-12      |  6  10-10      | 13  27-22
+8   Yokohama F. Marinos     21 |  6  13-9       |  7   7-5       | 13  20-14
+9   Urawa                   21 |  6  12-11      |  7   9-16      | 13  21-27
+10  Fagiano Okayama         16 |  7   7-11      |  6   8-10      | 13  15-21
+11  Nagoya Grampus          14 |  6   8-8       |  7   7-13      | 13  15-21
+12  Cerezo Osaka            14 |  7   9-7       |  6   4-16      | 13  13-23
+13  Shimizu S-pulse         14 |  7   6-11      |  6   4-11      | 13  10-22
+14  Kyoto Sanga             13 |  6   9-10      |  7   8-13      | 13  17-23
+15  V-varen Nagasaki        12 |  7  12-9       |  6   4-12      | 13  16-21
+16  Gamba Osaka             12 |  5   6-8       |  8   8-13      | 13  14-21
+17  Tokyo Verdy             11 |  8   6-16      |  5   5-6       | 13  11-22
+18  JEF United Chiba        10 |  6   7-7       |  7   8-17      | 13  15-24
+19  Mito Hollyhock           9 |  7   7-11      |  6   5-14      | 13  12-25
+20  Avispa Fukuoka           7 |  7   9-9       |  6   4-15      | 13  13-24
+
+TABLE FOR Kashima
+LEAGUE TABLE AFC Champions League Elite 2026 | 32 teams | 63 games played
+League averages per game: home 1.83, away 1.41, total 3.24
+#   team                   Pts | home P GF-GA  | away P GF-GA  | all P GF-GA
+1   Al Ain                  12 |  2   6-1       |  2   8-2       |  4  14-3 [West Region]
+2   Al-Hilal Saudi FC        9 |  2   4-1       |  2   3-3       |  4   7-4 [West Region]
+3   Esteghlal FC             9 |  2   4-0       |  2   2-3       |  4   6-3 [West Region]
+4   Shabab Al Ahli Dubai     9 |  2   3-0       |  2   2-3       |  4   5-3 [West Region]
+5   Al-Qadisiyah FC          8 |  2   3-2       |  2   6-1       |  4   9-3 [West Region]
+6   Al-Ahli Jeddah           8 |  2   3-2       |  2   3-1       |  4   6-3 [West Region]
+7   Al-Nassr                 6 |  1   3-1       |  2   6-6       |  3   9-7 [West Region]
+8   Al Shamal                5 |  2   4-2       |  2   0-1       |  4   4-3 [West Region]
+9   Neftchi                  4 |  2   2-2       |  2   3-5       |  4   5-7 [West Region]
+10  Al-Ittihad FC            4 |  2   2-6       |  2   3-2       |  4   5-8 [West Region]
+11  Al-Wasl FC               3 |  2   5-6       |  1   1-2       |  3   6-8 [West Region]
+12  Al Quwa Al Jawiya        3 |  2   2-4       |  2   3-5       |  4   5-9 [West Region]
+13  Tractor Sazi             2 |  2   2-2       |  2   1-3       |  4   3-5 [West Region]
+14  Pakhtakor                2 |  2   3-7       |  2   1-2       |  4   4-9 [West Region]
+15  Al Sadd                  2 |  2   0-2       |  2   1-4       |  4   1-6 [West Region]
+16  Al-Gharafa               0 |  2   1-7       |  2   2-4       |  4   3-11 [West Region]
+1   Vissel Kobe             12 |  2   5-2       |  2   3-1       |  4   8-3 [East Region]
+2   Kashima                 10 |  2  10-1       |  2   1-0       |  4  11-1 [East Region]
+3   Gamba Osaka              8 |  2   5-2       |  2   6-4       |  4  11-6 [East Region]
+4   Kashiwa Reysol           7 |  2   7-1       |  2   1-2       |  4   8-3 [East Region]
+5   SHANGHAI SIPG            7 |  2   3-4       |  2  10-6       |  4  13-10 [East Region]
+6   Kyoto Sanga              7 |  2   6-2       |  2   0-1       |  4   6-3 [East Region]
+7   Johor Darul Takzim FC    7 |  2   4-1       |  2   2-2       |  4   6-3 [East Region]
+8   Jeonbuk Motors           7 |  2   4-1       |  2   2-4       |  4   6-5 [East Region]
+9   Beijing Guoan            7 |  2   5-3       |  2   5-7       |  4  10-10 [East Region]
+10  Daejeon Citizen          4 |  2   1-1       |  2   1-3       |  4   2-4 [East Region]
+11  Công An Nhân Dân         4 |  2   0-1       |  2   4-6       |  4   4-7 [East Region]
+12  Buriram United           3 |  2   0-1       |  2   2-2       |  4   2-3 [East Region]
+13  Port FC                  3 |  2   8-6       |  2   1-8       |  4   9-14 [East Region]
+14  Ratchaburi               1 |  2   4-6       |  2   2-4       |  4   6-10 [East Region]
+15  Pohang Steelers          1 |  2   3-5       |  2   1-6       |  4   4-11 [East Region]
+16  Newcastle Jets           0 |  2   3-7       |  2   3-12      |  4   6-19 [East Region]
+
+(25 API-Football requests used)
+
+----------------------------------------------------------------------
+MATCHBOOK: skipped (switched off for this run)

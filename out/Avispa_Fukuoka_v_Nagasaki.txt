@@ -1,6 +1,6 @@
-MATCH Avispa Fukuoka v V-Varen Nagasaki | fetched 2026-11-07 05:12 local
+MATCH Avispa Fukuoka v Nagasaki | fetched 2026-11-07 05:13 local
 
-FORM DATA Avispa Fukuoka v V-Varen Nagasaki | source API-Football | 2026-11-07 05:12 UTC
+FORM DATA Avispa Fukuoka v Nagasaki | source API-Football | 2026-11-07 05:13 UTC
 H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
 
 === Avispa Fukuoka (id 316): last 20 finished games ===
@@ -28,7 +28,20 @@ Listed home: 11 games, scored 13 (1.18), conceded 14 (1.27), blanks 4, clean she
 Listed away: 9 games, scored 8 (0.89), conceded 19 (2.11), blanks 3, clean sheets 0
 All: 20 games, scored 21 (1.05), conceded 33 (1.65), blanks 7, clean sheets 2
 
-!! V-Varen Nagasaki: API-Football error: {"search": "The Search field may only contain alpha-numeric characters and spaces."}
+"Nagasaki" matches several teams. Use id:<number> instead of the name:
+  id:285    V-varen Nagasaki (Japan)
+  id:7131   MD Nagasaki (Japan)
+  id:11404  Nagasaki Institute (Japan)
+  id:21346  Mitsubishi Nagasaki (Japan)
+  id:28188  Nagasaki Intl University (Japan)
+(retrying Nagasaki using the opponent's country, Japan)
+"Nagasaki" matches several teams. Use id:<number> instead of the name:
+  id:285    V-varen Nagasaki (Japan)
+  id:7131   MD Nagasaki (Japan)
+  id:11404  Nagasaki Institute (Japan)
+  id:21346  Mitsubishi Nagasaki (Japan)
+  id:28188  Nagasaki Intl University (Japan)
+!! Nagasaki: Ambiguous team name "Nagasaki".
 
 TABLE FOR Avispa Fukuoka
 LEAGUE TABLE J1 League 2027 | 20 teams | 130 games played
@@ -55,7 +68,7 @@ League averages per game: home 1.65, away 1.35, total 3.01
 19  Mito Hollyhock           9 |  7   7-11      |  6   5-14      | 13  12-25
 20  Avispa Fukuoka           7 |  7   9-9       |  6   4-15      | 13  13-24
 
-(14 API-Football requests used)
+(15 API-Football requests used)
 
 ----------------------------------------------------------------------
 MATCHBOOK: skipped (switched off for this run)

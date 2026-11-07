@@ -1,6 +1,6 @@
-MATCH Ningbo Professional v Jiangxi Dingnan United | fetched 2026-11-07 05:12 local
+MATCH Ningbo Professional v Jiangxi | fetched 2026-11-07 05:13 local
 
-FORM DATA Ningbo Professional v Jiangxi Dingnan United | source API-Football | 2026-11-07 05:12 UTC
+FORM DATA Ningbo Professional v Jiangxi | source API-Football | 2026-11-07 05:13 UTC
 H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
 
 === Ningbo Professional (id 27556): last 20 finished games ===
@@ -28,7 +28,16 @@ Listed home: 10 games, scored 11 (1.10), conceded 14 (1.40), blanks 2, clean she
 Listed away: 10 games, scored 11 (1.10), conceded 11 (1.10), blanks 5, clean sheets 2
 All: 20 games, scored 22 (1.10), conceded 25 (1.25), blanks 7, clean sheets 5
 
-!! Jiangxi Dingnan United: No team found for "Jiangxi Dingnan United".
+"Jiangxi" matches several teams. Use id:<number> instead of the name:
+  id:5664   Jiangxi Hopeda (China)
+  id:5665   Jiangxi Liansheng (China)
+  id:5666   Jiangxi Shangrao (China)
+(retrying Jiangxi using the opponent's country, China)
+"Jiangxi" matches several teams. Use id:<number> instead of the name:
+  id:5664   Jiangxi Hopeda (China)
+  id:5665   Jiangxi Liansheng (China)
+  id:5666   Jiangxi Shangrao (China)
+!! Jiangxi: Ambiguous team name "Jiangxi".
 
 TABLE FOR Ningbo Professional
 LEAGUE TABLE League One 2026 | 16 teams | 232 games played
@@ -51,7 +60,7 @@ League averages per game: home 1.42, away 1.26, total 2.68
 15  Meizhou Kejia           16 | 15  16-35      | 14  10-25      | 29  26-60
 16  Dongguan United         16 | 15  12-33      | 14  17-35      | 29  29-68
 
-(14 API-Football requests used)
+(15 API-Football requests used)
 
 ----------------------------------------------------------------------
 MATCHBOOK: skipped (switched off for this run)
