@@ -1,11 +1,3 @@
-RUN 2026-11-07 15:00 local | 8 match(es)
-Altrincham v Notts County -> out/Altrincham_v_Notts_County.txt
-Leganes v Albacete -> out/Leganes_v_Albacete.txt
-Aris Thessaloniki v Panaitolikos -> out/Aris_Thessaloniki_v_Panaitolikos.txt
-    !! Panaitolikos: No team found for "Panaitolikos".
-Drogheda v UCD -> out/Drogheda_v_UCD.txt
-Den Bosch v Jong Utrecht -> out/Den_Bosch_v_Jong_Utrecht.txt
-ADO Den Haag v Sparta Rotterdam -> out/ADO_Den_Haag_v_Sparta_Rotterdam.txt
-Aberdeen v Hibernian -> out/Aberdeen_v_Hibernian.txt
-Cordoba v Ceuta -> out/Cordoba_v_Ceuta.txt
-Requests used: API-Football 192, Matchbook 0
+RUN 2026-11-07 15:02 local | 1 match(es)
+Aris Thessaloniki v Panetolikos -> out/Aris_Thessaloniki_v_Panetolikos.txt
+Requests used: API-Football 25, Matchbook 0
