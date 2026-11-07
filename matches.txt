@@ -1,3 +1,4 @@
-# night scan 06.11 20:57 (Ljubljana) retry: Sarmiento ambiguous, Operario resolved to U20
-Tigre v Sarmiento Junin | n=20 | xg=10
-Operario Ferroviario v Sport Recife | n=20 | xg=10
+# scan 07.11 06:11 (Ljubljana)
+Avispa Fukuoka v V-Varen Nagasaki | n=20 | xg=10
+FC Tokyo v Kashima Antlers | n=20 | xg=10
+Ningbo Professional v Jiangxi Dingnan United | n=20 | xg=10
