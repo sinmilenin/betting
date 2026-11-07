@@ -1,7 +1,11 @@
-RUN 2026-11-07 14:18 local | 5 match(es)
-id:1374 v Macclesfield -> out/id_1374_v_Macclesfield.txt
-Gornik Zabrze v id:17115 -> out/Gornik_Zabrze_v_id_17115.txt
-id:2172 v GAIS -> out/id_2172_v_GAIS.txt
-Dunajska Streda v id:10534 -> out/Dunajska_Streda_v_id_10534.txt
-Odense v Viborg -> out/Odense_v_Viborg.txt
-Requests used: API-Football 126, Matchbook 0
+RUN 2026-11-07 15:00 local | 8 match(es)
+Altrincham v Notts County -> out/Altrincham_v_Notts_County.txt
+Leganes v Albacete -> out/Leganes_v_Albacete.txt
+Aris Thessaloniki v Panaitolikos -> out/Aris_Thessaloniki_v_Panaitolikos.txt
+    !! Panaitolikos: No team found for "Panaitolikos".
+Drogheda v UCD -> out/Drogheda_v_UCD.txt
+Den Bosch v Jong Utrecht -> out/Den_Bosch_v_Jong_Utrecht.txt
+ADO Den Haag v Sparta Rotterdam -> out/ADO_Den_Haag_v_Sparta_Rotterdam.txt
+Aberdeen v Hibernian -> out/Aberdeen_v_Hibernian.txt
+Cordoba v Ceuta -> out/Cordoba_v_Ceuta.txt
+Requests used: API-Football 192, Matchbook 0
