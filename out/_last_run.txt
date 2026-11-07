@@ -1,4 +1,9 @@
-RUN 2026-11-07 05:13 local | 2 match(es)
-Avispa Fukuoka v id:285 -> out/Avispa_Fukuoka_v_id_285.txt
-Ningbo Professional v Heilongjiang Lava Spring -> out/Ningbo_Professional_v_Heilongjiang_Lava_.txt
-Requests used: API-Football 50, Matchbook 0
+RUN 2026-11-07 05:58 local | 5 match(es)
+Guangdong GZ-Power v Nanjing City -> out/Guangdong_GZ_Power_v_Nanjing_City.txt
+    !! Guangdong GZ-Power: API-Football error: {"search": "The Search field may only contain alpha-numeric characters and spaces."}
+Kashiwa Reysol v Kawasaki Frontale -> out/Kashiwa_Reysol_v_Kawasaki_Frontale.txt
+Melbourne City v Western Sydney Wanderers -> out/Melbourne_City_v_Western_Sydney_Wanderer.txt
+Qingdao Red Lions v Chengdu Rongcheng II -> out/Qingdao_Red_Lions_v_Chengdu_Rongcheng_II.txt
+Haimen Codion v Ganzhou Ruishi -> out/Haimen_Codion_v_Ganzhou_Ruishi.txt
+    !! Ganzhou Ruishi: No team found for "Ganzhou Ruishi".
+Requests used: API-Football 103, Matchbook 0

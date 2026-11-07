@@ -1,0 +1,38 @@
+MATCH Haimen Codion v Ganzhou Ruishi | fetched 2026-11-07 05:58 local
+
+FORM DATA Haimen Codion v Ganzhou Ruishi | source API-Football | 2026-11-07 05:58 UTC
+H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
+
+=== Nantong Haimen Codion (id 19319): last 20 finished games ===
+2026-10-31 A 1-0 v Xiamen Feilu | League Two | Xiamen
+2026-10-25 H 3-0 v Wuhan Three Towns II | League Two | Nantong
+2026-10-18 A 3-1 v Chengdu Rongcheng II | League Two | Chengdu
+2026-10-11 A 1-1 v Shangyu Pterosaur | League Two | Dingnan
+2026-10-07 H 2-0 v Xiamen Feilu | League Two | Nantong
+2026-09-18 A 2-0 v Wuhan Three Towns II | League Two | Wuhan
+2026-09-12 H 1-1 v Chengdu Rongcheng II | League Two | Nantong
+2026-08-22 H 2-2 v Shandong Taishan II | League Two | Nantong
+2026-08-19 H 1-1 v Qingdao Red Lions | League Two | Nantong
+2026-08-15 A 2-0 v Shanghai Second | League Two | Shanghai
+2026-08-02 H 2-1 v Tai'an Tiankuang | League Two | Nantong
+2026-07-29 A 2-1 v BIT | League Two | Beijing
+2026-07-26 A 0-2 v Xi'an Ronghai | League Two | Taiyuan
+2026-07-19 H 0-0 v Rizhao Yuqi | League Two | Nantong
+2026-07-04 H 1-2 v Dalian Kewei | League Two | Nantong
+2026-06-27 A 0-0 v Changchun Xidu | League Two | Changchun
+2026-06-23 H 2-2 v Shanghai Port II | League Two | Nantong
+2026-06-19 A 1-2 v Dalian Yingbo B | League Two | Dalian
+2026-06-13 A 0-0 v Shandong Taishan II | League Two | Zoucheng
+2026-05-27 H 2-2 v Shanghai Second | League Two | Nantong
+Listed home: 10 games, scored 16 (1.60), conceded 11 (1.10), blanks 1, clean sheets 3
+Listed away: 10 games, scored 12 (1.20), conceded 7 (0.70), blanks 3, clean sheets 5
+All: 20 games, scored 28 (1.40), conceded 18 (0.90), blanks 4, clean sheets 8
+
+!! Ganzhou Ruishi: No team found for "Ganzhou Ruishi".
+
+(no league table available for Nantong Haimen Codion: tried League Two 2026)
+
+(13 API-Football requests used)
+
+----------------------------------------------------------------------
+MATCHBOOK: skipped (switched off for this run)
