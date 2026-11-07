@@ -1,2 +1,21 @@
-# scan 07.11 06:56 (Ljubljana) retry: Guangdong GZ-Power = Guangzhou E-Power (hyphen not accepted)
-Guangzhou E Power v Nanjing City | n=20 | xg=10
+# scan 07.11 07:41 (Ljubljana) top-20 run (regular fixtures reuse 3d1039c)
+Leeds v Tottenham | n=20 | xg=10
+Arsenal v Hull City | n=20 | xg=10
+Mainz v Bayern Munich | n=20 | xg=10
+Fulham v Newcastle | n=20 | xg=10
+Cagliari v Frosinone | n=20 | xg=10
+RB Leipzig v Augsburg | n=20 | xg=10
+St Johnstone v Dundee | n=20 | xg=10
+Borussia Dortmund v Elversberg | n=20 | xg=10
+Torino v Lecce | n=20 | xg=10
+Preston v Southampton | n=20 | xg=10
+Birmingham v Swansea | n=20 | xg=10
+Bristol City v Norwich | n=20 | xg=10
+Watford v Middlesbrough | n=20 | xg=10
+Portsmouth v Stoke | n=20 | xg=10
+Malaga v Racing Santander | n=20 | xg=10
+Paderborn v Eintracht Frankfurt | n=20 | xg=10
+Perth Glory v Newcastle Jets | n=20 | xg=10
+Blackburn v West Ham | n=20 | xg=10
+QPR v Lincoln | n=20 | xg=10
+Cardiff v Burnley | n=20 | xg=10
