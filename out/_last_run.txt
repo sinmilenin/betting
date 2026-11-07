@@ -1,8 +1,20 @@
-RUN 2026-11-07 13:32 local | 6 match(es)
-id:3723 v Sigma Olomouc -> out/id_3723_v_Sigma_Olomouc.txt
-Sandviken v United Nordic -> out/Sandviken_v_United_Nordic.txt
-Arbroath v id:1387 -> out/Arbroath_v_id_1387.txt
-Huddersfield v id:1364 -> out/Huddersfield_v_id_1364.txt
-id:994 v id:564 -> out/id_994_v_id_564.txt
-Mantova v id:504 -> out/Mantova_v_id_504.txt
-Requests used: API-Football 153, Matchbook 0
+RUN 2026-11-07 14:17 local | 13 match(es)
+Newport County v Walsall -> out/Newport_County_v_Walsall.txt
+Oxford United v Stevenage -> out/Oxford_United_v_Stevenage.txt
+Scarborough Athletic v Buxton -> out/Scarborough_Athletic_v_Buxton.txt
+Plymouth v Alvechurch -> out/Plymouth_v_Alvechurch.txt
+Luton v Forest Green -> out/Luton_v_Forest_Green.txt
+Mansfield v Macclesfield -> out/Mansfield_v_Macclesfield.txt
+    !! Mansfield: Ambiguous team name "Mansfield".
+Annan Athletic v Kelty Hearts -> out/Annan_Athletic_v_Kelty_Hearts.txt
+Salisbury v Sholing -> out/Salisbury_v_Sholing.txt
+Ludogorets v CSKA 1948 -> out/Ludogorets_v_CSKA_1948.txt
+Gornik Zabrze v Wieczysta Krakow -> out/Gornik_Zabrze_v_Wieczysta_Krakow.txt
+    !! Wieczysta Krakow: Ambiguous team name "Wieczysta Krakow".
+Degerfors v GAIS -> out/Degerfors_v_GAIS.txt
+    !! Degerfors: Ambiguous team name "Degerfors".
+Dunajska Streda v Kosice -> out/Dunajska_Streda_v_Kosice.txt
+    !! Kosice: Ambiguous team name "Kosice".
+OB v Viborg -> out/OB_v_Viborg.txt
+    !! OB: API-Football error: {"search": "The Search field must be at least 3 characters in length."}
+Requests used: API-Football 276, Matchbook 0

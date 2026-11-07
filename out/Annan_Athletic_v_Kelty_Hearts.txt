@@ -1,0 +1,76 @@
+MATCH Annan Athletic v Kelty Hearts | fetched 2026-11-07 14:17 local
+
+FORM DATA Annan Athletic v Kelty Hearts | source API-Football | 2026-11-07 14:17 UTC
+H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
+
+=== Annan Athletic (id 6757): last 20 finished games ===
+2026-11-03 H 0-2 v Ayr Utd | Challenge Cup | Annan
+2026-10-31 A 2-3 v Spartans | League Two | Edinburgh
+2026-10-24 A 2-2 v Huntly | FA Cup | ? [PEN, 90-min score shown]
+2026-10-17 A 1-4 v Clyde | League Two | Hamilton
+2026-10-13 H 0-0 v Alloa Athletic | Challenge Cup | Annan
+2026-10-10 H 1-6 v Stranraer | League Two | Annan
+2026-10-03 H 0-1 v Stirling Albion | League Two | Annan
+2026-09-26 H 2-1 v Hibernian U21 | Challenge Cup | Annan
+2026-09-22 A 1-1 v Queen of the South | Challenge Cup | Dumfries
+2026-09-19 A 0-1 v Forfar Athletic | League Two | Forfar
+2026-09-12 H 2-0 v Elgin City | League Two | Annan
+2026-09-08 H 4-0 v Motherwell U21 | Challenge Cup | Annan
+2026-09-05 A 1-2 v Kelty Hearts | League Two | Kelty
+2026-08-29 H 2-0 v Dumbarton | League Two | Annan
+2026-08-25 H 2-2 v Berwick Rangers | Challenge Cup | Annan
+2026-08-22 A 0-1 v Edinburgh City | League Two | Edinburgh
+2026-08-15 H 1-2 v Clyde | League Two | Annan
+2026-08-11 A 0-1 v Bonnyrigg Rose Athletic | Challenge Cup | Bonnyrigg
+2026-08-08 A 1-0 v Stranraer | League Two | Stranraer
+2026-08-01 H 2-4 v Spartans | League Two | Annan
+Listed home: 11 games, scored 16 (1.45), conceded 18 (1.64), blanks 3, clean sheets 4
+Listed away: 9 games, scored 8 (0.89), conceded 15 (1.67), blanks 3, clean sheets 1
+All: 20 games, scored 24 (1.20), conceded 33 (1.65), blanks 6, clean sheets 5
+
+=== Kelty Hearts (id 6773): last 20 finished games ===
+2026-11-03 A 1-0 v Morton | Challenge Cup | Greenock
+2026-10-31 H 0-1 v Elgin City | League Two | Kelty
+2026-10-24 A 1-4 v Edinburgh City | FA Cup | ?
+2026-10-17 H 2-1 v Forfar Athletic | League Two | Kelty
+2026-10-13 A 1-2 v East Kilbride | Challenge Cup | East Kilbride
+2026-10-10 A 1-2 v Stirling Albion | League Two | Stirling
+2026-10-03 A 2-0 v Spartans | League Two | Edinburgh
+2026-09-26 H 2-1 v Montrose | Challenge Cup | Kelty
+2026-09-22 H 3-5 v Hearts U21 | Challenge Cup | Kelty
+2026-09-19 H 1-3 v Edinburgh City | League Two | Kelty
+2026-09-12 A 1-4 v Clyde | League Two | Hamilton
+2026-09-08 A 3-0 v Cumbernauld Colts | Challenge Cup | Cumbernauld
+2026-09-05 H 2-1 v Annan Athletic | League Two | Kelty
+2026-08-29 A 0-2 v Stranraer | League Two | Stranraer
+2026-08-25 H 2-4 v Clydebank | Challenge Cup | Kelty
+2026-08-22 H 3-1 v Dumbarton | League Two | Kelty
+2026-08-15 A 1-4 v Elgin City | League Two | Elgin
+2026-08-11 H 4-3 v Motherwell U21 | Challenge Cup | Kelty
+2026-08-08 H 3-2 v Stirling Albion | League Two | Kelty
+2026-08-01 A 0-1 v Forfar Athletic | League Two | Forfar
+Listed home: 10 games, scored 22 (2.20), conceded 22 (2.20), blanks 1, clean sheets 0
+Listed away: 10 games, scored 11 (1.10), conceded 19 (1.90), blanks 2, clean sheets 3
+All: 20 games, scored 33 (1.65), conceded 41 (2.05), blanks 3, clean sheets 3
+
+TABLE FOR Annan Athletic
+LEAGUE TABLE League Two 2026 | 10 teams | 60 games played
+League averages per game: home 1.92, away 1.43, total 3.35
+#   team                   Pts | home P GF-GA  | away P GF-GA  | all P GF-GA
+1   Stranraer               24 |  6   6-2       |  6  19-7       | 12  25-9
+2   Clyde                   24 |  6  19-6       |  6   8-12      | 12  27-18
+3   Elgin City              21 |  6  16-9       |  6  12-8       | 12  28-17
+4   Spartans                18 |  7  16-15      |  5   9-7       | 12  25-22
+5   Kelty Hearts            15 |  6  11-9       |  6   5-13      | 12  16-22
+6   Stirling Albion         15 |  6  12-8       |  6   7-18      | 12  19-26
+7   Edinburgh City          14 |  6  12-13      |  6  10-6       | 12  22-19
+8   Dumbarton               13 |  6   9-6       |  6   4-14      | 12  13-20
+9   Forfar Athletic         11 |  5   6-5       |  7   7-19      | 12  13-24
+10  Annan Athletic           9 |  6   8-13      |  6   5-11      | 12  13-24
+
+(Kelty Hearts: same table as Annan Athletic, shown above)
+
+(26 API-Football requests used)
+
+----------------------------------------------------------------------
+MATCHBOOK: skipped (switched off for this run)

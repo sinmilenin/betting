@@ -1,0 +1,78 @@
+MATCH Mansfield v Macclesfield | fetched 2026-11-07 14:17 local
+
+FORM DATA Mansfield v Macclesfield | source API-Football | 2026-11-07 14:17 UTC
+H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
+
+"Mansfield" matches several teams. Use id:<number> instead of the name:
+  id:1374   Mansfield Town (England)
+  id:8670   AFC Mansfield (England)
+  id:17797  Mansfield Town U23 (England)
+  id:22071  Mansfield Town Res. (England)
+  id:22682  Mansfield Town W (England)
+=== Macclesfield (id 1380): last 20 finished games ===
+2026-10-31 A 3-0 v Bedford Town | National League - North | ?
+2026-10-24 H 1-2 v Hereford | National League - North | ?
+2026-10-20 A 3-0 v Anstey Nomads | FA Cup | Anstey
+2026-10-17 H 1-1 v Anstey Nomads | FA Cup | Macclesfield
+2026-10-10 H 4-3 v South Shields | National League - North | ?
+2026-10-06 A 1-1 v Scarborough Athletic | FA Cup | Scarborough [AET, 90-min score shown]
+2026-10-03 H 2-2 v Scarborough Athletic | FA Cup | ?
+2026-09-26 H 1-0 v Harborough Town | National League - North | Macclesfield
+2026-09-19 A 2-1 v Redcar Athletic | FA Cup | ?
+2026-09-12 A 1-1 v Spennymoor Town | National League - North | Spennymoor
+2026-09-08 H 0-0 v Scarborough Athletic | National League - North | Macclesfield
+2026-09-05 A 1-2 v Merthyr Town | National League - North | ?
+2026-08-31 H 3-0 v Hebburn Town | National League - North | Macclesfield
+2026-08-29 A 2-1 v Darlington 1883 | National League - North | Darlington
+2026-08-22 H 2-1 v Brackley Town | National League - North | Macclesfield
+2026-08-18 A 0-0 v Spalding United | National League - North | ?
+2026-08-15 H 2-1 v Radcliffe | National League - North | Macclesfield
+2026-08-08 A 1-0 v Marine | National League - North | Crosby
+2026-08-01 H 2-0 v United of Manchester | Friendlies Clubs | ?
+2026-07-28 A 1-1 v Tamworth | Friendlies Clubs | ?
+Listed home: 10 games, scored 18 (1.80), conceded 10 (1.00), blanks 1, clean sheets 4
+Listed away: 10 games, scored 15 (1.50), conceded 7 (0.70), blanks 1, clean sheets 4
+All: 20 games, scored 33 (1.65), conceded 17 (0.85), blanks 2, clean sheets 8
+
+(retrying Mansfield using the opponent's country, England)
+"Mansfield" matches several teams. Use id:<number> instead of the name:
+  id:1374   Mansfield Town (England)
+  id:8670   AFC Mansfield (England)
+  id:17797  Mansfield Town U23 (England)
+  id:22071  Mansfield Town Res. (England)
+  id:22682  Mansfield Town W (England)
+!! Mansfield: Ambiguous team name "Mansfield".
+
+TABLE FOR Macclesfield
+LEAGUE TABLE National League - North 2026 | 24 teams | 172 games played
+League averages per game: home 1.59, away 1.19, total 2.78
+#   team                   Pts | home P GF-GA  | away P GF-GA  | all P GF-GA
+1   South Shields           29 |  6  13-5       |  8  12-14      | 14  25-19
+2   Oxford City             27 |  7  13-8       |  7  13-3       | 14  26-11
+3   Macclesfield            27 |  7  13-7       |  6   8-4       | 13  21-11
+4   Hereford                26 |  8  13-7       |  6  11-4       | 14  24-11
+5   Buxton                  26 |  8  22-9       |  7   8-16      | 15  30-25
+6   King's Lynn Town        24 |  7  10-9       |  8  15-12      | 15  25-21
+7   Hednesford Town         24 |  7  16-11      |  8   8-9       | 15  24-20
+8   Morecambe               23 |  7  13-3       |  7   8-9       | 14  21-12
+9   Chester                 23 |  8  10-5       |  6   7-9       | 14  17-14
+10  Bedford Town            22 |  7  10-9       |  7   7-10      | 14  17-19
+11  Spalding United         21 |  7  12-7       |  7   7-8       | 14  19-15
+12  Chorley                 20 |  7  16-12      |  7   7-11      | 14  23-23
+13  Worksop Town            20 |  8  12-9       |  7   8-12      | 15  20-21
+14  Hebburn Town            20 |  8  12-11      |  6   7-13      | 14  19-24
+15  AFC Telford United      19 |  7   7-12      |  8   9-9       | 15  16-21
+16  Brackley Town           19 |  7   8-8       |  8  10-18      | 15  18-26
+17  Harborough Town         17 |  7   9-7       |  7   4-10      | 14  13-17
+18  Marine                  16 |  7   6-6       |  7  11-13      | 14  17-19
+19  Merthyr Town            16 |  7  10-10      |  8   8-12      | 15  18-22
+20  Radcliffe               16 |  8  14-15      |  7   5-12      | 15  19-27
+21  Scarborough Athletic    15 |  6   9-5       |  8  10-15      | 14  19-20
+22  Darlington 1883         11 |  7   7-9       |  8  12-19      | 15  19-28
+23  Southport               10 |  7  10-10      |  7   4-15      | 14  14-25
+24  Spennymoor Town         10 |  7   8-11      |  7   6-16      | 14  14-27
+
+(14 API-Football requests used)
+
+----------------------------------------------------------------------
+MATCHBOOK: skipped (switched off for this run)

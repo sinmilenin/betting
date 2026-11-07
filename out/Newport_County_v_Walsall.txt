@@ -1,0 +1,90 @@
+MATCH Newport County v Walsall | fetched 2026-11-07 14:17 local
+
+FORM DATA Newport County v Walsall | source API-Football | 2026-11-07 14:17 UTC
+H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
+
+=== Newport County (id 1367): last 20 finished games ===
+2026-11-03 H 1-2 v Crystal Palace U21 | EFL Trophy | Newport | xG 1.23-1.68
+2026-10-30 H 4-1 v Chesterfield | League Two | Newport | xG 1.23-1.41
+2026-10-24 A 0-1 v Cheltenham | League Two | Cheltenham | xG 1.38-1.38
+2026-10-20 A 2-2 v Rotherham | League Two | Rotherham | xG 1.92-1.44
+2026-10-17 H 1-1 v York | League Two | Newport | xG 1.04-1.09
+2026-10-10 H 1-0 v Colchester | League Two | Newport | xG 1.49-0.70
+2026-10-06 H 2-2 v Plymouth | EFL Trophy | Newport [PEN, 90-min score shown]
+2026-10-03 A 0-0 v Gillingham | League Two | Gillingham | xG 1.25-0.31
+2026-09-26 H 2-1 v Grimsby | League Two | Newport
+2026-09-22 A 2-0 v Swindon Town | EFL Trophy | Swindon
+2026-09-19 A 0-0 v Accrington ST | League Two | Accrington
+2026-09-12 H 1-1 v Fleetwood Town | League Two | Newport
+2026-09-05 A 0-1 v Northampton | League Two | Northampton
+2026-09-01 A 1-2 v Salford City | League Two | Salford
+2026-08-29 H 2-2 v Tranmere | League Two | Newport
+2026-08-22 A 3-5 v Bristol Rovers | League Two | Bristol
+2026-08-15 H 3-0 v Rochdale | League Two | Newport
+2026-08-08 A 1-1 v AFC Wimbledon | League Cup | London [PEN, 90-min score shown]
+2026-08-04 H 1-4 v AS Roma | Friendlies Clubs | Newport
+2026-08-01 A 2-1 v Yeovil Town | Friendlies Clubs | ?
+Listed home: 10 games, scored 18 (1.80), conceded 14 (1.40), blanks 0, clean sheets 2
+Listed away: 10 games, scored 11 (1.10), conceded 13 (1.30), blanks 4, clean sheets 3
+All: 20 games, scored 29 (1.45), conceded 27 (1.35), blanks 4, clean sheets 5
+
+=== Walsall (id 1342): last 20 finished games ===
+2026-10-31 A 3-1 v Colchester | League Two | Colchester | xG 2.20-2.73
+2026-10-26 H 2-4 v Salford City | League Two | Walsall | xG 1.79-2.37
+2026-10-20 H 3-0 v Oldham | League Two | Walsall | xG 2.29-1.53
+2026-10-17 A 1-1 v Swindon Town | League Two | Swindon | xG 1.95-2.12
+2026-10-13 H 3-2 v Fulham U21 | EFL Trophy | Walsall
+2026-10-10 A 1-1 v Fleetwood Town | League Two | Fleetwood | xG 1.25-3.17
+2026-09-26 A 1-1 v Tranmere | League Two | Birkenhead
+2026-09-22 H 1-6 v Stevenage | EFL Trophy | Walsall
+2026-09-19 H 2-0 v Port Vale | League Two | Walsall | xG 1.95-0.94
+2026-09-12 H 0-0 v Rochdale | League Two | Walsall | xG 3.03-0.62
+2026-09-05 A 0-0 v Exeter City | League Two | Exeter
+2026-09-01 A 2-2 v Crewe | League Two | Crewe
+2026-08-29 H 3-2 v Accrington ST | League Two | Walsall
+2026-08-25 H 0-0 v Leyton Orient | League Cup | Walsall [PEN, 90-min score shown]
+2026-08-22 H 0-0 v Grimsby | League Two | Walsall
+2026-08-15 A 3-0 v Gillingham | League Two | Gillingham
+2026-08-06 A 1-0 v Bristol City | League Cup | Bristol
+2026-08-01 H 0-0 v Notts County | Friendlies Clubs | ?
+2026-07-25 A 0-1 v AFC Telford United | Friendlies Clubs | ?
+2026-07-21 H 0-5 v Aston Villa | Friendlies Clubs | ?
+Listed home: 11 games, scored 14 (1.27), conceded 19 (1.73), blanks 5, clean sheets 6
+Listed away: 9 games, scored 12 (1.33), conceded 7 (0.78), blanks 2, clean sheets 3
+All: 20 games, scored 26 (1.30), conceded 26 (1.30), blanks 7, clean sheets 9
+
+TABLE FOR Newport County
+LEAGUE TABLE League Two 2026 | 24 teams | 164 games played
+League averages per game: home 1.58, away 1.10, total 2.68
+#   team                   Pts | home P GF-GA  | away P GF-GA  | all P GF-GA
+1   Salford City            31 |  7   9-4       |  7  16-11      | 14  25-15
+2   Barnet                  26 |  7  15-10      |  6  13-8       | 13  28-18
+3   Walsall                 22 |  6  10-6       |  7  11-6       | 13  21-12
+4   Crewe                   22 |  7  12-8       |  7   5-9       | 14  17-17
+5   Cheltenham              21 |  7  14-10      |  7   9-15      | 14  23-25
+6   Grimsby                 20 |  7  13-8       |  7  11-10      | 14  24-18
+7   York                    20 |  7  16-5       |  7   8-16      | 14  24-21
+8   Gillingham              20 |  7   8-9       |  7  12-10      | 14  20-19
+9   Accrington ST           19 |  7  13-8       |  7  10-9       | 14  23-17
+10  Chesterfield            19 |  7  16-9       |  7   8-12      | 14  24-21
+11  Tranmere                19 |  7  12-7       |  7   7-10      | 14  19-17
+12  Exeter City             19 |  7   8-2       |  7   3-7       | 14  11-9
+13  Swindon Town            19 |  7  12-7       |  7   3-10      | 14  15-17
+14  Newport County          18 |  7  14-6       |  7   6-11      | 14  20-17
+15  Shrewsbury              18 |  7   8-8       |  7   9-14      | 14  17-22
+16  Fleetwood Town          17 |  7  10-5       |  7   8-13      | 14  18-18
+17  Bristol Rovers          16 |  7  11-8       |  7   6-15      | 14  17-23
+18  Oldham                  15 |  7  11-8       |  7   4-11      | 14  15-19
+19  Port Vale               15 |  6   8-3       |  6   2-11      | 12  10-14
+20  Rochdale                15 |  7  10-13      |  7   7-13      | 14  17-26
+21  Northampton             14 |  7   4-4       |  6   5-6       | 13   9-10
+22  Rotherham               12 |  7  13-15      |  7   5-10      | 14  18-25
+23  Colchester              12 |  6   6-6       |  7   6-13      | 13  12-19
+24  Crawley Town             9 |  6   6-12      |  6   7-9       | 12  13-21
+
+(Walsall: same table as Newport County, shown above)
+
+(26 API-Football requests used)
+
+----------------------------------------------------------------------
+MATCHBOOK: skipped (switched off for this run)
