@@ -1,14 +1,6 @@
-# scan 07.11 15:13 (Ljubljana)
-Newport County v Walsall | n=20 | xg=10
-Oxford United v Stevenage | n=20 | xg=10
-Scarborough Athletic v Buxton | n=20 | xg=10
-Plymouth v Alvechurch | n=20 | xg=10
-Luton v Forest Green | n=20 | xg=10
-Mansfield v Macclesfield | n=20 | xg=10
-Annan Athletic v Kelty Hearts | n=20 | xg=10
-Salisbury v Sholing | n=20 | xg=10
-Ludogorets v CSKA 1948 | n=20 | xg=10
-Gornik Zabrze v Wieczysta Krakow | n=20 | xg=10
-Degerfors v GAIS | n=20 | xg=10
-Dunajska Streda v Kosice | n=20 | xg=10
-OB v Viborg | n=20 | xg=10
+# scan 07.11 15:13 retry: ids
+id:1374 v Macclesfield | n=20 | xg=10
+Gornik Zabrze v id:17115 | n=20 | xg=10
+id:2172 v GAIS | n=20 | xg=10
+Dunajska Streda v id:10534 | n=20 | xg=10
+Odense v Viborg | n=20 | xg=10
