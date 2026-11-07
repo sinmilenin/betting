@@ -1,0 +1,90 @@
+MATCH Bristol City v Norwich | fetched 2026-11-07 06:42 local
+
+FORM DATA Bristol City v Norwich | source API-Football | 2026-11-07 06:43 UTC
+H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
+
+=== Bristol City (id 56): last 20 finished games ===
+2026-11-04 H 1-2 v Wolves | Championship | Bristol | xG 1.03-2.37
+2026-10-31 A 3-2 v Bolton | Championship | Horwich | xG 3.36-1.41
+2026-10-24 A 0-0 v Stoke City | Championship | Stoke-On-Trent | xG 0.78-1.05
+2026-10-17 H 0-1 v Sheffield Utd | Championship | Bristol | xG 0.67-1.41
+2026-10-13 H 0-1 v Blackburn | Championship | Bristol | xG 1.95-0.15
+2026-10-10 A 1-1 v Charlton | Championship | London | xG 1.47-1.78
+2026-10-03 A 2-0 v Crystal Palace | Friendlies Clubs | ?
+2026-09-18 H 1-0 v Watford | Championship | Bristol | xG 1.56-0.52
+2026-09-15 H 0-1 v Lincoln | Championship | Bristol | xG 1.53-0.53
+2026-09-12 A 1-4 v Southampton | Championship | Southampton | xG 2.24-1.71
+2026-09-05 A 2-1 v Burnley | Championship | Burnley
+2026-09-01 A 3-1 v Preston | Championship | Preston
+2026-08-29 H 2-1 v Portsmouth | Championship | Bristol
+2026-08-22 A 2-2 v Birmingham | Championship | Birmingham
+2026-08-15 H 0-2 v Millwall | Championship | Bristol
+2026-08-06 H 0-1 v Walsall | League Cup | Bristol
+2026-08-01 A 1-1 v Exeter City | Friendlies Clubs | ?
+2026-08-01 A 0-0 v Plymouth | Friendlies Clubs | Plymouth
+2026-07-29 H 4-1 v Newcastle | Friendlies Clubs | Bristol
+2026-07-29 A 2-3 v Forest Green | Friendlies Clubs | ?
+Listed home: 9 games, scored 8 (0.89), conceded 10 (1.11), blanks 5, clean sheets 1
+Listed away: 11 games, scored 17 (1.55), conceded 15 (1.36), blanks 2, clean sheets 3
+All: 20 games, scored 25 (1.25), conceded 25 (1.25), blanks 7, clean sheets 4
+
+=== Norwich (id 71): last 20 finished games ===
+2026-11-03 A 4-0 v Derby | Championship | Derby | xG 2.41-0.73
+2026-10-31 H 3-2 v Watford | Championship | Norwich | xG 1.19-1.00
+2026-10-24 A 3-1 v Charlton | Championship | London | xG 1.77-0.68
+2026-10-17 H 0-1 v Portsmouth | Championship | Norwich | xG 0.29-1.19
+2026-10-14 H 0-1 v Southampton | Championship | Norwich | xG 1.18-2.10
+2026-10-10 A 1-2 v Swansea | Championship | Swansea | xG 0.68-2.36
+2026-09-20 H 3-4 v Bolton | Championship | Norwich | xG 0.69-1.10
+2026-09-17 A 0-5 v Manchester City | League Cup | Manchester
+2026-09-12 A 3-4 v Middlesbrough | Championship | Middlesbrough | xG 1.76-2.38
+2026-09-09 H 2-1 v Birmingham | Championship | Norwich | xG 1.01-1.63
+2026-09-05 A 3-1 v Sheffield Utd | Championship | Sheffield
+2026-09-01 A 0-1 v Stoke City | Championship | Stoke
+2026-08-29 H 4-1 v Burnley | Championship | Norwich
+2026-08-25 A 2-1 v Cardiff | League Cup | Cardiff
+2026-08-22 A 0-3 v Millwall | Championship | London
+2026-08-15 H 1-2 v West Brom | Championship | Norwich
+2026-08-08 H 4-1 v Milton Keynes Dons | League Cup | Norwich
+2026-08-04 H 0-0 v Cambridge United | Friendlies Clubs | ?
+2026-08-01 H 1-2 v Osasuna | Friendlies Clubs | ?
+2026-07-25 A 2-0 v Fulham | Friendlies Clubs | ?
+Listed home: 10 games, scored 18 (1.80), conceded 15 (1.50), blanks 3, clean sheets 1
+Listed away: 10 games, scored 18 (1.80), conceded 18 (1.80), blanks 3, clean sheets 2
+All: 20 games, scored 36 (1.80), conceded 33 (1.65), blanks 6, clean sheets 3
+
+TABLE FOR Bristol City
+LEAGUE TABLE Championship 2026 | 24 teams | 169 games played
+League averages per game: home 1.65, away 1.29, total 2.94
+#   team                   Pts | home P GF-GA  | away P GF-GA  | all P GF-GA
+1   Middlesbrough           28 |  7  17-9       |  7  13-10      | 14  30-19
+2   Wolves                  27 |  7  13-7       |  7  12-10      | 14  25-17
+3   Birmingham              26 |  7  17-7       |  7   9-6       | 14  26-13
+4   Stoke City              26 |  7  12-6       |  7  10-11      | 14  22-17
+5   Swansea                 26 |  7  11-3       |  7  10-13      | 14  21-16
+6   West Brom               25 |  7  10-7       |  7  10-8       | 14  20-15
+7   Southampton             24 |  7  20-5       |  7   9-9       | 14  29-14
+8   West Ham                23 |  7  18-11      |  7  18-10      | 14  36-21
+9   Sheffield Utd           22 |  7   9-7       |  7  11-10      | 14  20-17
+10  Portsmouth              22 |  7  13-11      |  7   6-5       | 14  19-16
+11  QPR                     21 |  7  14-6       |  7   8-11      | 14  22-17
+12  Norwich                 18 |  7  13-12      |  7  14-12      | 14  27-24
+13  Millwall                18 |  7  15-9       |  7   8-15      | 14  23-24
+14  Blackburn               18 |  7  12-9       |  7   8-13      | 14  20-22
+15  Bristol City            18 |  7   4-8       |  7  12-11      | 14  16-19
+16  Wrexham                 17 |  7  12-8       |  7   5-11      | 14  17-19
+17  Bolton                  17 |  7   9-15      |  8  11-14      | 15  20-29
+18  Cardiff                 15 |  7  16-9       |  7   6-14      | 14  22-23
+19  Lincoln                 15 |  7   8-16      |  7   6-8       | 14  14-24
+20  Watford                 14 |  7   9-9       |  7   4-14      | 14  13-23
+21  Charlton                14 |  7   5-6       |  7   6-16      | 14  11-22
+22  Burnley                 10 |  7   8-10      |  7  10-16      | 14  18-26
+23  Derby                   10 |  8   7-15      |  7   7-15      | 15  14-30
+24  Preston                  5 |  7   7-13      |  7   5-17      | 14  12-30
+
+(Norwich: same table as Bristol City, shown above)
+
+(24 API-Football requests used)
+
+----------------------------------------------------------------------
+MATCHBOOK: skipped (switched off for this run)

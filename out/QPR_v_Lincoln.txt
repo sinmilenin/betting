@@ -1,0 +1,90 @@
+MATCH QPR v Lincoln | fetched 2026-11-07 06:42 local
+
+FORM DATA QPR v Lincoln | source API-Football | 2026-11-07 06:43 UTC
+H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
+
+=== QPR (id 72): last 20 finished games ===
+2026-11-03 H 1-1 v Burnley | Championship | London | xG 1.80-0.17
+2026-10-31 A 1-4 v Southampton | Championship | Southampton | xG 0.78-1.25
+2026-10-24 H 5-0 v Swansea | Championship | London | xG 3.90-0.43
+2026-10-17 A 0-3 v Birmingham | Championship | Birmingham | xG 1.15-1.30
+2026-10-14 H 4-1 v Derby | Championship | London | xG 1.52-0.86
+2026-10-09 A 1-1 v West Ham | Championship | London | xG 1.27-1.44
+2026-09-19 H 2-2 v Preston | Championship | London | xG 2.54-1.50
+2026-09-12 A 1-1 v West Brom | Championship | West Bromwich | xG 0.62-1.22
+2026-09-09 A 0-0 v Charlton | Championship | London | xG 1.10-0.48
+2026-09-05 H 0-1 v Middlesbrough | Championship | London | xG 1.03-2.53
+2026-09-02 H 2-1 v Cardiff | Championship | London
+2026-08-29 A 2-1 v Blackburn | Championship | Blackburn
+2026-08-22 H 0-0 v Bolton | Championship | London
+2026-08-15 A 3-1 v Portsmouth | Championship | Portsmouth
+2026-08-08 H 1-1 v Millwall | League Cup | London [PEN, 90-min score shown]
+2026-08-01 A 3-2 v AFC Wimbledon | Friendlies Clubs | ?
+2026-07-31 A 7-0 v Bromley | Friendlies Clubs | ?
+2026-07-25 H 3-2 v Fiorentina | Friendlies Clubs | London
+2026-07-21 H 1-0 v Wycombe | Friendlies Clubs | ?
+2026-07-16 A 3-1 v SC Wiener Neustadt | Friendlies Clubs | ?
+Listed home: 10 games, scored 19 (1.90), conceded 9 (0.90), blanks 2, clean sheets 3
+Listed away: 10 games, scored 21 (2.10), conceded 14 (1.40), blanks 2, clean sheets 2
+All: 20 games, scored 40 (2.00), conceded 23 (1.15), blanks 4, clean sheets 5
+
+=== Lincoln (id 1379): last 20 finished games ===
+2026-11-03 A 0-1 v Watford | Championship | Watford | xG 0.83-0.71
+2026-10-31 H 1-3 v Birmingham | Championship | Lincoln | xG 1.63-2.09
+2026-10-24 H 4-1 v Burnley | Championship | Lincoln | xG 2.13-2.46
+2026-10-17 A 2-2 v Millwall | Championship | London | xG 0.75-1.87
+2026-10-14 H 0-6 v West Ham | Championship | Lincoln | xG 0.39-3.23
+2026-10-10 A 0-3 v Sheffield Utd | Championship | Sheffield | xG 1.39-0.68
+2026-09-19 H 1-2 v Swansea | Championship | Lincoln | xG 2.11-0.92
+2026-09-15 A 1-0 v Bristol City | Championship | Bristol | xG 0.53-1.53
+2026-09-12 A 1-0 v Preston | Championship | Preston | xG 0.66-0.58
+2026-09-08 A 0-4 v Bournemouth | League Cup | Bournemouth
+2026-09-05 H 1-1 v Southampton | Championship | Lincoln
+2026-09-01 H 0-0 v Blackburn | Championship | Lincoln
+2026-08-29 A 1-0 v Bolton | Championship | Bolton
+2026-08-25 A 4-1 v Blackpool | League Cup | Blackpool
+2026-08-22 H 1-3 v Portsmouth | Championship | Lincoln
+2026-08-15 A 1-2 v Middlesbrough | Championship | Middlesbrough
+2026-08-08 A 2-1 v Derby | League Cup | Derby
+2026-08-01 A 0-3 v Barnsley | Friendlies Clubs | ?
+2026-08-01 A 1-0 v Doncaster | Friendlies Clubs | ?
+2026-07-28 A 1-5 v Grimsby | Friendlies Clubs | ?
+Listed home: 7 games, scored 8 (1.14), conceded 16 (2.29), blanks 2, clean sheets 1
+Listed away: 13 games, scored 14 (1.08), conceded 22 (1.69), blanks 4, clean sheets 4
+All: 20 games, scored 22 (1.10), conceded 38 (1.90), blanks 6, clean sheets 5
+
+TABLE FOR QPR
+LEAGUE TABLE Championship 2026 | 24 teams | 169 games played
+League averages per game: home 1.65, away 1.29, total 2.94
+#   team                   Pts | home P GF-GA  | away P GF-GA  | all P GF-GA
+1   Middlesbrough           28 |  7  17-9       |  7  13-10      | 14  30-19
+2   Wolves                  27 |  7  13-7       |  7  12-10      | 14  25-17
+3   Birmingham              26 |  7  17-7       |  7   9-6       | 14  26-13
+4   Stoke City              26 |  7  12-6       |  7  10-11      | 14  22-17
+5   Swansea                 26 |  7  11-3       |  7  10-13      | 14  21-16
+6   West Brom               25 |  7  10-7       |  7  10-8       | 14  20-15
+7   Southampton             24 |  7  20-5       |  7   9-9       | 14  29-14
+8   West Ham                23 |  7  18-11      |  7  18-10      | 14  36-21
+9   Sheffield Utd           22 |  7   9-7       |  7  11-10      | 14  20-17
+10  Portsmouth              22 |  7  13-11      |  7   6-5       | 14  19-16
+11  QPR                     21 |  7  14-6       |  7   8-11      | 14  22-17
+12  Norwich                 18 |  7  13-12      |  7  14-12      | 14  27-24
+13  Millwall                18 |  7  15-9       |  7   8-15      | 14  23-24
+14  Blackburn               18 |  7  12-9       |  7   8-13      | 14  20-22
+15  Bristol City            18 |  7   4-8       |  7  12-11      | 14  16-19
+16  Wrexham                 17 |  7  12-8       |  7   5-11      | 14  17-19
+17  Bolton                  17 |  7   9-15      |  8  11-14      | 15  20-29
+18  Cardiff                 15 |  7  16-9       |  7   6-14      | 14  22-23
+19  Lincoln                 15 |  7   8-16      |  7   6-8       | 14  14-24
+20  Watford                 14 |  7   9-9       |  7   4-14      | 14  13-23
+21  Charlton                14 |  7   5-6       |  7   6-16      | 14  11-22
+22  Burnley                 10 |  7   8-10      |  7  10-16      | 14  18-26
+23  Derby                   10 |  8   7-15      |  7   7-15      | 15  14-30
+24  Preston                  5 |  7   7-13      |  7   5-17      | 14  12-30
+
+(Lincoln: same table as QPR, shown above)
+
+(24 API-Football requests used)
+
+----------------------------------------------------------------------
+MATCHBOOK: skipped (switched off for this run)

@@ -1,0 +1,113 @@
+MATCH Perth Glory v Newcastle Jets | fetched 2026-11-07 06:42 local
+
+FORM DATA Perth Glory v Newcastle Jets | source API-Football | 2026-11-07 06:43 UTC
+H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
+
+=== Perth Glory (id 940): last 20 finished games ===
+2026-11-01 H 4-0 v Adelaide United | A-League | Perth | xG 2.50-0.62
+2026-10-23 A 1-2 v Brisbane Roar | A-League | Brisbane | xG 0.92-1.53
+2026-10-17 A 1-2 v Macarthur | A-League | Sydney | xG 1.29-1.44
+2026-10-03 H 1-3 v Adelaide United | Friendlies Clubs | ?
+2026-09-27 H 2-0 v Adelaide United | Friendlies Clubs | ?
+2026-07-21 A 0-0 v Lions | Australia Cup | Brisbane [PEN, 90-min score shown]
+2026-04-25 H 2-1 v Brisbane Roar | A-League | Perth | xG 1.93-1.52
+2026-04-18 A 0-0 v Sydney | A-League | Sydney | xG 0.75-2.01
+2026-04-12 H 3-1 v Macarthur | A-League | Perth | xG 1.63-1.37
+2026-04-04 A 2-2 v Central Coast Mariners | A-League | Gosford | xG 1.85-1.53
+2026-03-22 H 1-1 v Melbourne City | A-League | Perth
+2026-03-14 A 0-2 v Wellington Phoenix | A-League | Wellington
+2026-03-08 A 2-2 v Auckland | A-League | Auckland
+2026-02-28 A 1-1 v Brisbane Roar | A-League | Brisbane
+2026-02-20 A 0-4 v Adelaide United | A-League | Adelaide
+2026-02-13 H 1-3 v Newcastle Jets | A-League | Perth
+2026-02-06 A 2-2 v Macarthur | A-League | Sydney
+2026-01-31 H 2-1 v Auckland | A-League | Perth
+2026-01-25 A 0-1 v Western Sydney Wanderers | A-League | Sydney
+2026-01-16 H 1-2 v Brisbane Roar | A-League | Perth
+Listed home: 9 games, scored 17 (1.89), conceded 12 (1.33), blanks 0, clean sheets 2
+Listed away: 11 games, scored 9 (0.82), conceded 18 (1.64), blanks 5, clean sheets 2
+All: 20 games, scored 26 (1.30), conceded 30 (1.50), blanks 5, clean sheets 4
+
+=== Newcastle Jets (id 946): last 20 finished games ===
+2026-11-03 H 2-4 v SHANGHAI SIPG | AFC Champions League Elite | Newcastle | xG 0.69-1.35
+2026-10-31 H 0-3 v Wellington Phoenix | A-League | Newcastle | xG 2.24-1.46
+2026-10-27 A 2-5 v Kyoto Sanga | AFC Champions League Elite | Kyoto | xG 1.80-2.94
+2026-10-24 H 1-1 v Macarthur | A-League | Newcastle | xG 1.52-0.84
+2026-10-17 A 2-2 v Central Coast Mariners | A-League | Gosford | xG 2.29-2.74
+2026-10-13 H 1-3 v Gamba Osaka | AFC Champions League Elite | Newcastle | xG 0.80-2.01
+2026-09-15 A 1-7 v Kashima | AFC Champions League Elite | Kashima | xG 0.48-2.46
+2026-07-21 A 2-3 v Preston Lions | Australia Cup | Melbourne
+2026-05-16 H 1-1 v Sydney | A-League | Newcastle | xG 2.10-2.68 [PEN, 90-min score shown]
+2026-05-09 A 1-1 v Sydney | A-League | Sydney | xG 0.41-1.12
+2026-04-25 H 4-0 v Central Coast Mariners | A-League | Newcastle
+2026-04-17 A 2-2 v Melbourne Victory | A-League | Melbourne
+2026-04-11 H 1-1 v Adelaide United | A-League | Newcastle
+2026-04-02 A 2-3 v Macarthur | A-League | Sydney
+2026-03-22 A 2-1 v Sydney | A-League | Sydney
+2026-03-14 H 1-2 v Auckland | A-League | Newcastle
+2026-03-07 H 2-1 v Western Sydney Wanderers | A-League | Newcastle
+2026-02-28 A 0-0 v Central Coast Mariners | A-League | Gosford
+2026-02-22 H 1-0 v Macarthur | A-League | Newcastle
+2026-02-13 A 3-1 v Perth Glory | A-League | Perth
+Listed home: 10 games, scored 14 (1.40), conceded 16 (1.60), blanks 1, clean sheets 2
+Listed away: 10 games, scored 17 (1.70), conceded 25 (2.50), blanks 1, clean sheets 1
+All: 20 games, scored 31 (1.55), conceded 41 (2.05), blanks 2, clean sheets 3
+
+TABLE FOR Perth Glory
+LEAGUE TABLE A-League 2026 | 12 teams | 18 games played
+League averages per game: home 1.89, away 1.00, total 2.89
+#   team                   Pts | home P GF-GA  | away P GF-GA  | all P GF-GA
+1   Wellington Phoenix       9 |  2   4-1       |  1   3-0       |  3   7-1
+2   Sydney                   7 |  3   6-2       |  1   1-2       |  4   7-4
+3   Western Sydney Wandere   5 |  1   5-2       |  2   0-0       |  3   5-2
+4   Macarthur                5 |  2   2-1       |  1   1-1       |  3   3-2
+5   Brisbane Roar            4 |  2   3-2       |  0   0-0       |  2   3-2
+6   Auckland                 4 |  1   3-1       |  2   3-6       |  3   6-7
+7   Melbourne City           4 |  1   2-1       |  2   2-4       |  3   4-5
+8   Perth Glory              3 |  1   4-0       |  2   2-4       |  3   6-4
+9   Melbourne Victory        2 |  2   2-2       |  1   1-2       |  3   3-4
+10  Newcastle Jets           2 |  2   1-4       |  1   2-2       |  3   3-6
+11  Central Coast Mariners   2 |  1   2-2       |  3   2-7       |  4   4-9
+12  Adelaide United          0 |  0   0-0       |  2   1-6       |  2   1-6
+
+TABLE FOR Newcastle Jets
+LEAGUE TABLE AFC Champions League Elite 2026 | 32 teams | 63 games played
+League averages per game: home 1.83, away 1.41, total 3.24
+#   team                   Pts | home P GF-GA  | away P GF-GA  | all P GF-GA
+1   Al Ain                  12 |  2   6-1       |  2   8-2       |  4  14-3 [West Region]
+2   Al-Hilal Saudi FC        9 |  2   4-1       |  2   3-3       |  4   7-4 [West Region]
+3   Esteghlal FC             9 |  2   4-0       |  2   2-3       |  4   6-3 [West Region]
+4   Shabab Al Ahli Dubai     9 |  2   3-0       |  2   2-3       |  4   5-3 [West Region]
+5   Al-Qadisiyah FC          8 |  2   3-2       |  2   6-1       |  4   9-3 [West Region]
+6   Al-Ahli Jeddah           8 |  2   3-2       |  2   3-1       |  4   6-3 [West Region]
+7   Al-Nassr                 6 |  1   3-1       |  2   6-6       |  3   9-7 [West Region]
+8   Al Shamal                5 |  2   4-2       |  2   0-1       |  4   4-3 [West Region]
+9   Neftchi                  4 |  2   2-2       |  2   3-5       |  4   5-7 [West Region]
+10  Al-Ittihad FC            4 |  2   2-6       |  2   3-2       |  4   5-8 [West Region]
+11  Al-Wasl FC               3 |  2   5-6       |  1   1-2       |  3   6-8 [West Region]
+12  Al Quwa Al Jawiya        3 |  2   2-4       |  2   3-5       |  4   5-9 [West Region]
+13  Tractor Sazi             2 |  2   2-2       |  2   1-3       |  4   3-5 [West Region]
+14  Pakhtakor                2 |  2   3-7       |  2   1-2       |  4   4-9 [West Region]
+15  Al Sadd                  2 |  2   0-2       |  2   1-4       |  4   1-6 [West Region]
+16  Al-Gharafa               0 |  2   1-7       |  2   2-4       |  4   3-11 [West Region]
+1   Vissel Kobe             12 |  2   5-2       |  2   3-1       |  4   8-3 [East Region]
+2   Kashima                 10 |  2  10-1       |  2   1-0       |  4  11-1 [East Region]
+3   Gamba Osaka              8 |  2   5-2       |  2   6-4       |  4  11-6 [East Region]
+4   Kashiwa Reysol           7 |  2   7-1       |  2   1-2       |  4   8-3 [East Region]
+5   SHANGHAI SIPG            7 |  2   3-4       |  2  10-6       |  4  13-10 [East Region]
+6   Kyoto Sanga              7 |  2   6-2       |  2   0-1       |  4   6-3 [East Region]
+7   Johor Darul Takzim FC    7 |  2   4-1       |  2   2-2       |  4   6-3 [East Region]
+8   Jeonbuk Motors           7 |  2   4-1       |  2   2-4       |  4   6-5 [East Region]
+9   Beijing Guoan            7 |  2   5-3       |  2   5-7       |  4  10-10 [East Region]
+10  Daejeon Citizen          4 |  2   1-1       |  2   1-3       |  4   2-4 [East Region]
+11  Công An Nhân Dân         4 |  2   0-1       |  2   4-6       |  4   4-7 [East Region]
+12  Buriram United           3 |  2   0-1       |  2   2-2       |  4   2-3 [East Region]
+13  Port FC                  3 |  2   8-6       |  2   1-8       |  4   9-14 [East Region]
+14  Ratchaburi               1 |  2   4-6       |  2   2-4       |  4   6-10 [East Region]
+15  Pohang Steelers          1 |  2   3-5       |  2   1-6       |  4   4-11 [East Region]
+16  Newcastle Jets           0 |  2   3-7       |  2   3-12      |  4   6-19 [East Region]
+
+(26 API-Football requests used)
+
+----------------------------------------------------------------------
+MATCHBOOK: skipped (switched off for this run)

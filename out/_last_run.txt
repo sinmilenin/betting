@@ -1,4 +1,27 @@
-RUN 2026-11-07 05:58 local | 1 match(es)
-Guangzhou E Power v Nanjing City -> out/Guangzhou_E_Power_v_Nanjing_City.txt
-    !! Guangzhou E Power: No team found for "Guangzhou E Power".
-Requests used: API-Football 14, Matchbook 0
+RUN 2026-11-07 06:42 local | 20 match(es)
+Leeds v Tottenham -> out/Leeds_v_Tottenham.txt
+Arsenal v Hull City -> out/Arsenal_v_Hull_City.txt
+Mainz v Bayern Munich -> out/Mainz_v_Bayern_Munich.txt
+    !! Mainz: Ambiguous team name "Mainz".
+Fulham v Newcastle -> out/Fulham_v_Newcastle.txt
+Cagliari v Frosinone -> out/Cagliari_v_Frosinone.txt
+RB Leipzig v Augsburg -> out/RB_Leipzig_v_Augsburg.txt
+    !! Augsburg: Ambiguous team name "Augsburg".
+St Johnstone v Dundee -> out/St_Johnstone_v_Dundee.txt
+Borussia Dortmund v Elversberg -> out/Borussia_Dortmund_v_Elversberg.txt
+    !! Elversberg: Ambiguous team name "Elversberg".
+Torino v Lecce -> out/Torino_v_Lecce.txt
+Preston v Southampton -> out/Preston_v_Southampton.txt
+Birmingham v Swansea -> out/Birmingham_v_Swansea.txt
+Bristol City v Norwich -> out/Bristol_City_v_Norwich.txt
+Watford v Middlesbrough -> out/Watford_v_Middlesbrough.txt
+Portsmouth v Stoke -> out/Portsmouth_v_Stoke.txt
+    !! Stoke: Ambiguous team name "Stoke".
+Malaga v Racing Santander -> out/Malaga_v_Racing_Santander.txt
+Paderborn v Eintracht Frankfurt -> out/Paderborn_v_Eintracht_Frankfurt.txt
+    !! Paderborn: Ambiguous team name "Paderborn".
+Perth Glory v Newcastle Jets -> out/Perth_Glory_v_Newcastle_Jets.txt
+Blackburn v West Ham -> out/Blackburn_v_West_Ham.txt
+QPR v Lincoln -> out/QPR_v_Lincoln.txt
+Cardiff v Burnley -> out/Cardiff_v_Burnley.txt
+Requests used: API-Football 437, Matchbook 0

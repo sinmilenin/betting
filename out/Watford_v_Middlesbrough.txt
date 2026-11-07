@@ -1,0 +1,90 @@
+MATCH Watford v Middlesbrough | fetched 2026-11-07 06:42 local
+
+FORM DATA Watford v Middlesbrough | source API-Football | 2026-11-07 06:43 UTC
+H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
+
+=== Watford (id 38): last 20 finished games ===
+2026-11-03 H 1-0 v Lincoln | Championship | Watford | xG 0.71-0.83
+2026-10-31 A 2-3 v Norwich | Championship | Norwich | xG 1.00-1.19
+2026-10-24 A 0-1 v Wolves | Championship | Wolverhampton | xG 0.16-1.95
+2026-10-17 H 2-0 v Charlton | Championship | Watford | xG 2.87-1.31
+2026-10-13 A 1-5 v Cardiff | Championship | Cardiff | xG 1.46-3.67
+2026-10-10 H 0-4 v Burnley | Championship | Watford | xG 0.64-1.94
+2026-09-18 A 0-1 v Bristol City | Championship | Bristol | xG 0.52-1.56
+2026-09-12 H 1-2 v Stoke City | Championship | Watford | xG 0.39-1.50
+2026-09-08 H 2-1 v Preston | Championship | Watford | xG 1.26-2.44
+2026-09-05 A 0-1 v West Brom | Championship | West Bromwich | xG 1.26-1.14
+2026-09-01 A 0-2 v Swansea | Championship | Swansea
+2026-08-29 H 1-1 v West Ham | Championship | Watford
+2026-08-25 H 1-5 v Peterborough | League Cup | Watford
+2026-08-22 A 1-1 v Wrexham | Championship | Wrexham
+2026-08-16 H 2-1 v Southampton | Championship | Watford
+2026-08-08 H 1-0 v Crawley Town | League Cup | Watford
+2026-07-29 H 0-1 v Fiorentina | Friendlies Clubs | ?
+2026-07-25 H 3-0 v Hansa Rostock | Friendlies Clubs | ?
+2026-07-14 A 2-2 v Barnet | Friendlies Clubs | ?
+2026-07-11 A 1-2 v Boreham Wood | Friendlies Clubs | ?
+Listed home: 11 games, scored 14 (1.27), conceded 15 (1.36), blanks 2, clean sheets 4
+Listed away: 9 games, scored 7 (0.78), conceded 18 (2.00), blanks 4, clean sheets 0
+All: 20 games, scored 21 (1.05), conceded 33 (1.65), blanks 6, clean sheets 4
+
+=== Middlesbrough (id 70): last 20 finished games ===
+2026-11-04 A 0-2 v Wrexham | Championship | Wrexham | xG 0.95-1.51
+2026-10-31 H 3-0 v Charlton | Championship | Middlesbrough | xG 1.79-0.46
+2026-10-23 A 5-1 v Bolton | Championship | Horwich | xG 4.17-0.91
+2026-10-17 H 2-2 v Cardiff | Championship | Middlesbrough | xG 2.76-0.85
+2026-10-13 A 3-2 v Stoke City | Championship | Stoke-On-Trent | xG 2.57-0.65
+2026-10-10 H 1-0 v Wolves | Championship | Middlesbrough | xG 0.90-0.68
+2026-09-19 A 2-2 v Birmingham | Championship | Birmingham | xG 2.14-1.23
+2026-09-15 H 2-2 v Millwall | Championship | Middlesbrough | xG 1.52-1.69
+2026-09-12 H 4-3 v Norwich | Championship | Middlesbrough | xG 2.38-1.76
+2026-09-08 A 0-3 v Crystal Palace | League Cup | London
+2026-09-05 A 1-0 v QPR | Championship | London
+2026-09-02 A 1-1 v Burnley | Championship | Burnley
+2026-08-29 H 3-1 v West Brom | Championship | Middlesbrough
+2026-08-25 A 3-1 v Doncaster | League Cup | Doncaster
+2026-08-22 A 1-2 v Blackburn | Championship | Blackburn
+2026-08-15 H 2-1 v Lincoln | Championship | Middlesbrough
+2026-08-07 H 1-0 v Wrexham | League Cup | Middlesbrough
+2026-08-01 H 3-3 v Espanyol | Friendlies Clubs | ?
+2026-07-25 H 1-3 v Huddersfield | Friendlies Clubs | ?
+2026-07-18 A 1-1 v Celtic | Friendlies Clubs | ?
+Listed home: 10 games, scored 22 (2.20), conceded 15 (1.50), blanks 0, clean sheets 3
+Listed away: 10 games, scored 17 (1.70), conceded 15 (1.50), blanks 2, clean sheets 1
+All: 20 games, scored 39 (1.95), conceded 30 (1.50), blanks 2, clean sheets 4
+
+TABLE FOR Watford
+LEAGUE TABLE Championship 2026 | 24 teams | 169 games played
+League averages per game: home 1.65, away 1.29, total 2.94
+#   team                   Pts | home P GF-GA  | away P GF-GA  | all P GF-GA
+1   Middlesbrough           28 |  7  17-9       |  7  13-10      | 14  30-19
+2   Wolves                  27 |  7  13-7       |  7  12-10      | 14  25-17
+3   Birmingham              26 |  7  17-7       |  7   9-6       | 14  26-13
+4   Stoke City              26 |  7  12-6       |  7  10-11      | 14  22-17
+5   Swansea                 26 |  7  11-3       |  7  10-13      | 14  21-16
+6   West Brom               25 |  7  10-7       |  7  10-8       | 14  20-15
+7   Southampton             24 |  7  20-5       |  7   9-9       | 14  29-14
+8   West Ham                23 |  7  18-11      |  7  18-10      | 14  36-21
+9   Sheffield Utd           22 |  7   9-7       |  7  11-10      | 14  20-17
+10  Portsmouth              22 |  7  13-11      |  7   6-5       | 14  19-16
+11  QPR                     21 |  7  14-6       |  7   8-11      | 14  22-17
+12  Norwich                 18 |  7  13-12      |  7  14-12      | 14  27-24
+13  Millwall                18 |  7  15-9       |  7   8-15      | 14  23-24
+14  Blackburn               18 |  7  12-9       |  7   8-13      | 14  20-22
+15  Bristol City            18 |  7   4-8       |  7  12-11      | 14  16-19
+16  Wrexham                 17 |  7  12-8       |  7   5-11      | 14  17-19
+17  Bolton                  17 |  7   9-15      |  8  11-14      | 15  20-29
+18  Cardiff                 15 |  7  16-9       |  7   6-14      | 14  22-23
+19  Lincoln                 15 |  7   8-16      |  7   6-8       | 14  14-24
+20  Watford                 14 |  7   9-9       |  7   4-14      | 14  13-23
+21  Charlton                14 |  7   5-6       |  7   6-16      | 14  11-22
+22  Burnley                 10 |  7   8-10      |  7  10-16      | 14  18-26
+23  Derby                   10 |  8   7-15      |  7   7-15      | 15  14-30
+24  Preston                  5 |  7   7-13      |  7   5-17      | 14  12-30
+
+(Middlesbrough: same table as Watford, shown above)
+
+(24 API-Football requests used)
+
+----------------------------------------------------------------------
+MATCHBOOK: skipped (switched off for this run)
