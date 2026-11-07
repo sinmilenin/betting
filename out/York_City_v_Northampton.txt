@@ -1,0 +1,85 @@
+MATCH York City v Northampton | fetched 2026-11-07 12:46 local
+
+FORM DATA York City v Northampton | source API-Football | 2026-11-07 12:47 UTC
+H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
+
+"York City" matches several teams. Use id:<number> instead of the name:
+  id:1604   New York City FC (USA)
+  id:18815  New York City II (USA)
+  id:20615  York City W (England)
+=== Northampton (id 1337): last 20 finished games ===
+2026-11-03 H 0-1 v Oldham | League Two | Northampton | xG 1.11-0.84
+2026-10-31 A 1-1 v Accrington ST | League Two | Accrington | xG 0.64-1.16
+2026-10-24 H 2-0 v Colchester | League Two | Northampton | xG 0.75-1.04
+2026-10-20 H 0-1 v Tranmere | League Two | Northampton | xG 2.68-1.15
+2026-10-17 A 2-0 v Grimsby | League Two | Cleethorpes | xG 2.28-2.24
+2026-10-10 A 1-1 v York | League Two | York | xG 1.71-1.91
+2026-10-06 A 1-2 v Cambridge United | EFL Trophy | Cambridge
+2026-09-19 H 0-1 v Rotherham | League Two | Northampton | xG 1.33-1.63
+2026-09-12 A 0-2 v Shrewsbury | League Two | Shrewsbury | xG 0.52-1.27
+2026-09-05 H 1-0 v Newport County | League Two | Northampton | xG 0.63-0.51
+2026-09-01 H 1-1 v Crawley Town | League Two | Northampton
+2026-08-29 A 1-1 v Gillingham | League Two | Gillingham
+2026-08-22 A 0-1 v Crewe | League Two | Crewe
+2026-08-18 H 0-3 v Brighton U21 | EFL Trophy | Northampton
+2026-08-15 H 0-0 v Swindon Town | League Two | Northampton
+2026-08-08 A 0-1 v Leicester | League Cup | Leicester
+2026-08-01 A 4-2 v Solihull Moors | Friendlies Clubs | ?
+2026-07-28 A 0-0 v Cambridge United | Friendlies Clubs | ?
+2026-07-22 A 3-1 v Southend | Friendlies Clubs | ?
+2026-07-18 H 0-0 v Coventry | Friendlies Clubs | ?
+Listed home: 9 games, scored 4 (0.44), conceded 7 (0.78), blanks 6, clean sheets 4
+Listed away: 11 games, scored 13 (1.18), conceded 12 (1.09), blanks 4, clean sheets 2
+All: 20 games, scored 17 (0.85), conceded 19 (0.95), blanks 10, clean sheets 6
+
+(retrying York City using the opponent's country, England)
+NOTE: "York City" matched 3 teams; picked York City W (England) because the opponent is from England. Others: New York City FC (USA), New York City II (USA)
+=== York City W (id 20615): last 9 finished games ===
+2026-01-18 A 0-3 v Chatham Town W | FA Women's Cup | ?
+2025-12-14 A 3-0 v Altrincham W | FA Women's Cup | Altrincham
+2025-11-23 H 3-1 v Wroxham W | FA Women's Cup | York
+2025-10-26 H 1-0 v Leeds Modernians W | FA Women's Cup | York
+2024-11-03 A 0-2 v Handsworth W | FA Women's Cup | Sheffield, South Yorkshire
+2024-10-13 H 5-2 v Fleetwood Town W | FA Women's Cup | York, Yorkshire
+2023-11-12 H 0-2 v United of Manchester W | FA Women's Cup | York, North Yorkshire
+2023-10-22 H 3-0 v Hull United W | FA Women's Cup | York, North Yorkshire
+2022-11-13 A 2-2 v Cheadle Town W | FA Women's Cup | Stockport, Greater Mancheste [AET, 90-min score shown]
+Listed home: 5 games, scored 12 (2.40), conceded 5 (1.00), blanks 1, clean sheets 2
+Listed away: 4 games, scored 5 (1.25), conceded 7 (1.75), blanks 2, clean sheets 1
+All: 9 games, scored 17 (1.89), conceded 12 (1.33), blanks 3, clean sheets 3
+
+TABLE FOR Northampton
+LEAGUE TABLE League Two 2026 | 24 teams | 164 games played
+League averages per game: home 1.58, away 1.10, total 2.68
+#   team                   Pts | home P GF-GA  | away P GF-GA  | all P GF-GA
+1   Salford City            31 |  7   9-4       |  7  16-11      | 14  25-15
+2   Barnet                  26 |  7  15-10      |  6  13-8       | 13  28-18
+3   Walsall                 22 |  6  10-6       |  7  11-6       | 13  21-12
+4   Crewe                   22 |  7  12-8       |  7   5-9       | 14  17-17
+5   Cheltenham              21 |  7  14-10      |  7   9-15      | 14  23-25
+6   Grimsby                 20 |  7  13-8       |  7  11-10      | 14  24-18
+7   York                    20 |  7  16-5       |  7   8-16      | 14  24-21
+8   Gillingham              20 |  7   8-9       |  7  12-10      | 14  20-19
+9   Accrington ST           19 |  7  13-8       |  7  10-9       | 14  23-17
+10  Chesterfield            19 |  7  16-9       |  7   8-12      | 14  24-21
+11  Tranmere                19 |  7  12-7       |  7   7-10      | 14  19-17
+12  Exeter City             19 |  7   8-2       |  7   3-7       | 14  11-9
+13  Swindon Town            19 |  7  12-7       |  7   3-10      | 14  15-17
+14  Newport County          18 |  7  14-6       |  7   6-11      | 14  20-17
+15  Shrewsbury              18 |  7   8-8       |  7   9-14      | 14  17-22
+16  Fleetwood Town          17 |  7  10-5       |  7   8-13      | 14  18-18
+17  Bristol Rovers          16 |  7  11-8       |  7   6-15      | 14  17-23
+18  Oldham                  15 |  7  11-8       |  7   4-11      | 14  15-19
+19  Port Vale               15 |  6   8-3       |  6   2-11      | 12  10-14
+20  Rochdale                15 |  7  10-13      |  7   7-13      | 14  17-26
+21  Northampton             14 |  7   4-4       |  6   5-6       | 13   9-10
+22  Rotherham               12 |  7  13-15      |  7   5-10      | 14  18-25
+23  Colchester              12 |  6   6-6       |  7   6-13      | 13  12-19
+24  Crawley Town             9 |  6   6-12      |  6   7-9       | 12  13-21
+
+(no league table available for York City W: tried FA Women's Cup 2025, FA Women's Cup 2024, FA Women's Cup 2023, FA Women's Cup 2022)
+
+(24 API-Football requests used)
+
+----------------------------------------------------------------------
+MATCHBOOK: skipped (switched off for this run)

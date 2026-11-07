@@ -1,0 +1,117 @@
+MATCH Gillingham v Barrow | fetched 2026-11-07 12:46 local
+
+FORM DATA Gillingham v Barrow | source API-Football | 2026-11-07 12:46 UTC
+H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
+
+=== Gillingham (id 1347): last 20 finished games ===
+2026-10-31 A 2-1 v Shrewsbury | League Two | Shrewsbury | xG 1.87-2.07
+2026-10-24 H 1-4 v Grimsby | League Two | Gillingham | xG 0.57-2.94
+2026-10-20 H 1-1 v Port Vale | League Two | Gillingham | xG 2.69-1.03
+2026-10-17 A 1-3 v Accrington ST | League Two | Accrington | xG 0.31-2.71
+2026-10-13 H 4-3 v Brighton U21 | EFL Trophy | Gillingham
+2026-10-10 A 4-1 v Rotherham | League Two | Rotherham | xG 2.05-1.52
+2026-10-03 H 0-0 v Newport County | League Two | Gillingham | xG 0.31-1.25
+2026-09-26 A 0-3 v York | League Two | York
+2026-09-22 H 1-4 v Cambridge United | EFL Trophy | Gillingham
+2026-09-19 H 3-0 v Bristol Rovers | League Two | Gillingham | xG 2.29-0.88
+2026-09-12 H 2-0 v Tranmere | League Two | Gillingham
+2026-09-05 A 4-1 v Rochdale | League Two | Rochdale
+2026-09-01 A 1-1 v Chesterfield | League Two | Chesterfield
+2026-08-29 H 1-1 v Northampton | League Two | Gillingham
+2026-08-22 A 0-0 v Fleetwood Town | League Two | Fleetwood
+2026-08-15 H 0-3 v Walsall | League Two | Gillingham
+2026-08-08 H 0-3 v Luton | League Cup | Gillingham
+2026-07-31 A 2-1 v Ebbsfleet United | Friendlies Clubs | ?
+2026-07-21 H 1-0 v Millwall | Friendlies Clubs | ?
+2026-07-18 H 0-1 v Charlton | Friendlies Clubs | ?
+Listed home: 12 games, scored 14 (1.17), conceded 20 (1.67), blanks 4, clean sheets 4
+Listed away: 8 games, scored 14 (1.75), conceded 11 (1.38), blanks 2, clean sheets 1
+All: 20 games, scored 28 (1.40), conceded 31 (1.55), blanks 6, clean sheets 5
+
+=== Barrow (id 1819): last 20 finished games ===
+2026-10-31 H 1-1 v Eastleigh | National League | Barrow in Furness
+2026-10-27 A 3-2 v FC Halifax Town | National League | Halifax
+2026-10-20 A 2-0 v Gloucester City | FA Cup | Gloucester
+2026-10-17 H 0-0 v Gloucester City | FA Cup | Barrow-In-Furness
+2026-10-10 A 2-1 v Tamworth | National League | Tamworth
+2026-10-03 H 2-1 v Wealdstone | National League | Barrow in Furness
+2026-09-29 H 3-0 v Scunthorpe | National League | Barrow in Furness
+2026-09-26 A 4-2 v Southend | National League | Southend on Sea
+2026-09-19 H 1-0 v Aldershot Town | National League | Barrow in Furness
+2026-09-15 A 0-1 v Solihull Moors | National League | Solihull
+2026-09-12 A 2-2 v Worthing | National League | Worthing
+2026-09-05 H 3-0 v Sutton Utd | National League | Barrow in Furness
+2026-08-31 A 1-1 v Kidderminster Harriers | National League | Kidderminster
+2026-08-28 H 1-2 v Yeovil Town | National League | Barrow in Furness
+2026-08-22 A 2-2 v Harrogate Town | National League | Harrogate
+2026-08-15 H 1-2 v AFC Hornchurch | National League | Barrow in Furness
+2026-08-08 A 0-2 v Hartlepool | National League | Hartlepool
+2026-08-01 A 1-0 v Morecambe | Friendlies Clubs | ?
+2026-07-25 H 2-0 v Blackpool | Friendlies Clubs | ?
+2026-07-21 A 0-0 v Radcliffe | Friendlies Clubs | ?
+Listed home: 9 games, scored 14 (1.56), conceded 6 (0.67), blanks 1, clean sheets 5
+Listed away: 11 games, scored 17 (1.55), conceded 13 (1.18), blanks 3, clean sheets 3
+All: 20 games, scored 31 (1.55), conceded 19 (0.95), blanks 4, clean sheets 8
+
+TABLE FOR Gillingham
+LEAGUE TABLE League Two 2026 | 24 teams | 164 games played
+League averages per game: home 1.58, away 1.10, total 2.68
+#   team                   Pts | home P GF-GA  | away P GF-GA  | all P GF-GA
+1   Salford City            31 |  7   9-4       |  7  16-11      | 14  25-15
+2   Barnet                  26 |  7  15-10      |  6  13-8       | 13  28-18
+3   Walsall                 22 |  6  10-6       |  7  11-6       | 13  21-12
+4   Crewe                   22 |  7  12-8       |  7   5-9       | 14  17-17
+5   Cheltenham              21 |  7  14-10      |  7   9-15      | 14  23-25
+6   Grimsby                 20 |  7  13-8       |  7  11-10      | 14  24-18
+7   York                    20 |  7  16-5       |  7   8-16      | 14  24-21
+8   Gillingham              20 |  7   8-9       |  7  12-10      | 14  20-19
+9   Accrington ST           19 |  7  13-8       |  7  10-9       | 14  23-17
+10  Chesterfield            19 |  7  16-9       |  7   8-12      | 14  24-21
+11  Tranmere                19 |  7  12-7       |  7   7-10      | 14  19-17
+12  Exeter City             19 |  7   8-2       |  7   3-7       | 14  11-9
+13  Swindon Town            19 |  7  12-7       |  7   3-10      | 14  15-17
+14  Newport County          18 |  7  14-6       |  7   6-11      | 14  20-17
+15  Shrewsbury              18 |  7   8-8       |  7   9-14      | 14  17-22
+16  Fleetwood Town          17 |  7  10-5       |  7   8-13      | 14  18-18
+17  Bristol Rovers          16 |  7  11-8       |  7   6-15      | 14  17-23
+18  Oldham                  15 |  7  11-8       |  7   4-11      | 14  15-19
+19  Port Vale               15 |  6   8-3       |  6   2-11      | 12  10-14
+20  Rochdale                15 |  7  10-13      |  7   7-13      | 14  17-26
+21  Northampton             14 |  7   4-4       |  6   5-6       | 13   9-10
+22  Rotherham               12 |  7  13-15      |  7   5-10      | 14  18-25
+23  Colchester              12 |  6   6-6       |  7   6-13      | 13  12-19
+24  Crawley Town             9 |  6   6-12      |  6   7-9       | 12  13-21
+
+TABLE FOR Barrow
+LEAGUE TABLE National League 2026 | 24 teams | 189 games played
+League averages per game: home 1.73, away 1.43, total 3.16
+#   team                   Pts | home P GF-GA  | away P GF-GA  | all P GF-GA
+1   Boreham Wood            44 |  8  25-11      |  8  19-6       | 16  44-17
+2   Harrogate Town          32 |  8  23-10      |  8  11-13      | 16  34-23
+3   Southend                29 |  7  15-13      |  9  23-14      | 16  38-27
+4   AFC Fylde               29 |  8  15-10      |  8  15-14      | 16  30-24
+5   Yeovil Town             28 |  8  20-11      |  8  15-9       | 16  35-20
+6   Worthing                28 |  9  17-14      |  7  15-11      | 16  32-25
+7   Altrincham              28 |  8  15-11      |  8   9-13      | 16  24-24
+8   Carlisle                26 |  8  18-14      |  8  14-9       | 16  32-23
+9   Barrow                  25 |  7  12-6       |  8  14-13      | 15  26-19
+10  FC Halifax Town         24 |  9  19-10      |  7   9-10      | 16  28-20
+11  Sutton Utd              24 |  8  10-11      |  8  10-10      | 16  20-21
+12  Woking                  21 |  8  12-14      |  8  13-10      | 16  25-24
+13  Kidderminster Harriers  21 |  8   8-6       |  8   9-10      | 16  17-16
+14  Aldershot Town          21 |  8  12-8       |  8   7-11      | 16  19-19
+15  AFC Hornchurch          21 |  7  10-4       |  9   8-22      | 16  18-26
+16  Forest Green            19 |  9  16-17      |  5   7-7       | 14  23-24
+17  Eastleigh               19 |  8  14-11      |  8   5-14      | 16  19-25
+18  Wealdstone              18 |  8  12-20      |  8  11-9       | 16  23-29
+19  Boston United           18 |  9  10-13      |  7  11-16      | 16  21-29
+20  Tamworth                17 |  8  15-11      |  7  10-21      | 15  25-32
+21  Hartlepool              15 |  7   6-7       |  9  12-20      | 16  18-27
+22  Solihull Moors          13 |  9   7-18      |  7  12-22      | 16  19-40
+23  Scunthorpe              10 |  6  11-10      |  9   8-20      | 15  19-30
+24  Gateshead                4 |  6   5-11      |  9   4-23      | 15   9-34
+
+(24 API-Football requests used)
+
+----------------------------------------------------------------------
+MATCHBOOK: skipped (switched off for this run)
