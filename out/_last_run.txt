@@ -1,5 +1,14 @@
-RUN 2026-11-07 10:31 local | 2 match(es)
-Mubarek v Surkhon -> out/Mubarek_v_Surkhon.txt
-    !! Mubarek: No team found for "Mubarek".
-Samsunspor v id:607 -> out/Samsunspor_v_id_607.txt
-Requests used: API-Football 39, Matchbook 0
+RUN 2026-11-07 11:14 local | 9 match(es)
+Racing de Ferrol v UD Logrones -> out/Racing_de_Ferrol_v_UD_Logrones.txt
+    !! Racing de Ferrol: No team found for "Racing de Ferrol".
+    !! UD Logrones: Ambiguous team name "UD Logrones".
+Hillerod v Kolding IF -> out/Hillerod_v_Kolding_IF.txt
+    !! Hillerod: No team found for "Hillerod".
+Crotone v Giugliano -> out/Crotone_v_Giugliano.txt
+Ostia Mare v Spezia -> out/Ostia_Mare_v_Spezia.txt
+Helsingborg v Falkenbergs -> out/Helsingborg_v_Falkenbergs.txt
+Chaves v Penafiel -> out/Chaves_v_Penafiel.txt
+Padova v Empoli -> out/Padova_v_Empoli.txt
+Cesena v Catanzaro -> out/Cesena_v_Catanzaro.txt
+Pisa v Sudtirol -> out/Pisa_v_Sudtirol.txt
+Requests used: API-Football 190, Matchbook 0

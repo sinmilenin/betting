@@ -1,0 +1,53 @@
+MATCH Hillerod v Kolding IF | fetched 2026-11-07 11:14 local
+
+FORM DATA Hillerod v Kolding IF | source API-Football | 2026-11-07 11:14 UTC
+H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
+
+=== Kolding IF (id 4676): last 20 finished games ===
+2026-10-31 H 3-2 v HB Koge | 1. Division | Kolding
+2026-10-24 A 0-1 v AB Copenhagen | 1. Division | Copenhagen
+2026-10-16 H 2-1 v Vendsyssel FF | 1. Division | Kolding
+2026-10-10 A 1-1 v Hobro | 1. Division | Hobro
+2026-10-02 H 5-4 v Odense | Friendlies Clubs | ?
+2026-09-18 H 1-1 v Hillerød | 1. Division | Kolding
+2026-09-12 H 0-0 v FC Fredericia | 1. Division | Kolding
+2026-09-09 H 1-2 v Odense | DBU Pokalen | Kolding
+2026-09-06 A 1-2 v Aarhus Fremad | 1. Division | Aarhus
+2026-08-29 H 2-1 v AB Copenhagen | 1. Division | Kolding
+2026-08-26 A 4-1 v Brønderslev | DBU Pokalen | ?
+2026-08-23 A 2-2 v HB Koge | 1. Division | Koge
+2026-08-14 H 2-3 v Vejle | 1. Division | Kolding
+2026-08-09 A 1-1 v Aalborg | 1. Division | Aalborg
+2026-08-04 A 8-0 v Glamsbjerg | DBU Pokalen | ?
+2026-08-01 H 0-1 v Hvidovre | 1. Division | Kolding
+2026-07-25 A 1-1 v Esbjerg | 1. Division | Esbjerg
+2026-07-17 A 0-1 v Sonderjyske | Friendlies Clubs | ?
+2026-07-12 A 6-0 v Weiche Flensburg | Friendlies Clubs | ?
+2026-07-08 H 1-0 v Vendsyssel FF | Friendlies Clubs | ?
+Listed home: 10 games, scored 17 (1.70), conceded 15 (1.50), blanks 2, clean sheets 2
+Listed away: 10 games, scored 24 (2.40), conceded 10 (1.00), blanks 2, clean sheets 2
+All: 20 games, scored 41 (2.05), conceded 25 (1.25), blanks 4, clean sheets 4
+
+!! Hillerod: No team found for "Hillerod".
+
+TABLE FOR Kolding IF
+LEAGUE TABLE 1. Division 2026 | 12 teams | 81 games played
+League averages per game: home 1.44, away 1.25, total 2.69
+#   team                   Pts | home P GF-GA  | away P GF-GA  | all P GF-GA
+1   Hvidovre                29 |  6  11-8       |  7  13-5       | 13  24-13
+2   Vejle                   27 |  7  17-11      |  7   9-5       | 14  26-16
+3   FC Fredericia           23 |  7  13-4       |  7   8-6       | 14  21-10
+4   AB Copenhagen           21 |  7  11-4       |  7  10-11      | 14  21-15
+5   Aarhus Fremad           18 |  7   9-7       |  6   3-4       | 13  12-11
+6   Aalborg                 16 |  7   5-8       |  7  12-11      | 14  17-19
+7   Hobro                   16 |  7   8-9       |  6   8-14      | 13  16-23
+8   Kolding IF              15 |  7  10-9       |  6   6-8       | 13  16-17
+9   Hillerød                12 |  6   9-8       |  7   6-12      | 13  15-20
+10  HB Koge                 12 |  7  11-13      |  7   9-13      | 14  20-26
+11  Vendsyssel FF           12 |  6   3-8       |  8  11-16      | 14  14-24
+12  Esbjerg                 11 |  7  10-12      |  6   6-12      | 13  16-24
+
+(14 API-Football requests used)
+
+----------------------------------------------------------------------
+MATCHBOOK: skipped (switched off for this run)
