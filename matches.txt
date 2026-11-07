@@ -1,3 +1,6 @@
-# scan 07.11 06:11 (Ljubljana) retry 2: Nagasaki as id:285; Jiangxi Dingnan United = Heilongjiang Lava Spring (plays in Dingnan)
-Avispa Fukuoka v id:285 | n=20 | xg=10
-Ningbo Professional v Heilongjiang Lava Spring | n=20 | xg=10
+# scan 07.11 06:56 (Ljubljana)
+Guangdong GZ-Power v Nanjing City | n=20 | xg=10
+Kashiwa Reysol v Kawasaki Frontale | n=20 | xg=10
+Melbourne City v Western Sydney Wanderers | n=20 | xg=10
+Qingdao Red Lions v Chengdu Rongcheng II | n=20 | xg=10
+Haimen Codion v Ganzhou Ruishi | n=20 | xg=10
