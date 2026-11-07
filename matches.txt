@@ -1,10 +1,3 @@
-# scan 07.11 12:11 (Ljubljana): first analyses
-Racing de Ferrol v UD Logrones | n=20 | xg=10
-Hillerod v Kolding IF | n=20 | xg=10
-Crotone v Giugliano | n=20 | xg=10
-Ostia Mare v Spezia | n=20 | xg=10
-Helsingborg v Falkenbergs | n=20 | xg=10
-Chaves v Penafiel | n=20 | xg=10
-Padova v Empoli | n=20 | xg=10
-Cesena v Catanzaro | n=20 | xg=10
-Pisa v Sudtirol | n=20 | xg=10
+# scan 07.11 12:11 retry: Ferrol, Logrones, Hillerod names
+Racing Ferrol v Logrones | n=20 | xg=10
+Hillerød v Kolding IF | n=20 | xg=10
