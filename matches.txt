@@ -1,2 +1,8 @@
-# scan 07.11 15:57 retry: Panetolikos
-Aris Thessaloniki v Panetolikos | n=20 | xg=10
+# scan 07.11 16:41
+Zeleznicar Pancevo v Radnicki 1923 | n=20 | xg=10
+Austria Lustenau v Grazer AK | n=20 | xg=10
+Luzern v Young Boys | n=20 | xg=10
+Alverca v Casa Pia | n=20 | xg=10
+Benevento v Avellino | n=20 | xg=10
+FCSB v Hunedoara | n=20 | xg=10
+SV Ried v LASK | n=20 | xg=10
