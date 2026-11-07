@@ -1,0 +1,92 @@
+MATCH Slovan Bratislava v Trencin | fetched 2026-11-07 11:58 local
+
+FORM DATA Slovan Bratislava v Trencin | source API-Football | 2026-11-07 11:58 UTC
+H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
+
+=== Slovan Bratislava (id 656): last 20 finished games ===
+2026-11-03 A 0-4 v Lask Linz | UEFA Champions League | Linz | xG 0.47-4.45
+2026-10-31 A 2-1 v Podbrezová | Super Liga | Podbrezova | xG 1.98-1.17
+2026-10-28 A 2-0 v AS Trencin | Super Liga | Trencin
+2026-10-24 H 2-2 v Dukla Banská Bystrica | Super Liga | Bratislava | xG 5.02-0.67
+2026-10-20 A 0-4 v AS Roma | UEFA Champions League | Rome | xG 0.02-3.14
+2026-10-17 A 3-0 v Spartak Trnava | Super Liga | Trnava
+2026-10-14 H 0-3 v VfB Stuttgart | UEFA Champions League | Bratislava | xG 0.78-2.19
+2026-10-10 A 1-1 v Skalica | Super Liga | Skalica | xG 2.33-0.59
+2026-09-19 A 2-1 v Komárno | Super Liga | ?
+2026-09-16 A 3-1 v Nitra | Cup | ?
+2026-09-13 H 3-3 v Žilina | Super Liga | Bratislava
+2026-09-09 A 1-6 v Paris Saint Germain | UEFA Champions League | Paris
+2026-09-05 A 0-2 v Dunajska Streda | Super Liga | ?
+2026-09-02 A 8-0 v Slovan Nitra-Chrenová | Cup | ?
+2026-08-30 H 1-2 v Zemplín Michalovce | Super Liga | Bratislava
+2026-08-26 A 1-1 v Celje | UEFA Champions League | Celje [AET, 90-min score shown]
+2026-08-22 A 2-1 v FK Košice | Super Liga | ?
+2026-08-19 H 1-1 v Celje | UEFA Champions League | Bratislava
+2026-08-15 H 5-0 v Ružomberok | Super Liga | Bratislava
+2026-08-11 H 2-0 v Mjallby AIF | UEFA Champions League | Bratislava
+Listed home: 7 games, scored 14 (2.00), conceded 11 (1.57), blanks 1, clean sheets 2
+Listed away: 13 games, scored 25 (1.92), conceded 22 (1.69), blanks 3, clean sheets 3
+All: 20 games, scored 39 (1.95), conceded 33 (1.65), blanks 4, clean sheets 5
+
+"Trencin" matches several teams. Use id:<number> instead of the name:
+  id:655    AS Trencin (Slovakia)
+  id:15976  Trenčín W (Slovakia)
+  id:20243  Trenčín U19 (USA)
+  id:26247  Trenčín II (Slovakia)
+  id:26329  ZFC Trenčín (Slovakia)
+  id:26762  ZFC 1939 Trencin (Slovakia)
+(retrying Trencin using the opponent's country, Slovakia)
+"Trencin" matches several teams. Use id:<number> instead of the name:
+  id:655    AS Trencin (Slovakia)
+  id:15976  Trenčín W (Slovakia)
+  id:20243  Trenčín U19 (USA)
+  id:26247  Trenčín II (Slovakia)
+  id:26329  ZFC Trenčín (Slovakia)
+  id:26762  ZFC 1939 Trencin (Slovakia)
+!! Trencin: Ambiguous team name "Trencin".
+
+TABLE FOR Slovan Bratislava
+LEAGUE TABLE UEFA Champions League 2026 | 36 teams | 72 games played
+League averages per game: home 2.32, away 1.72, total 4.04
+#   team                   Pts | home P GF-GA  | away P GF-GA  | all P GF-GA
+1   Paris Saint Germain     12 |  2  10-3       |  2  10-2       |  4  20-5
+2   Real Madrid             12 |  2   6-2       |  2   7-5       |  4  13-7
+3   Arsenal                 10 |  1   3-0       |  3   5-3       |  4   8-3
+4   Como                     9 |  2   8-2       |  2  11-4       |  4  19-6
+5   Barcelona                9 |  2   8-1       |  2   6-5       |  4  14-6
+6   Aston Villa              9 |  2   9-1       |  2   3-5       |  4  12-6
+7   Manchester City          9 |  2   7-5       |  2   5-2       |  4  12-7
+8   Liverpool                9 |  2   6-4       |  2   8-6       |  4  14-10
+9   Club Brugge KV           9 |  2   5-3       |  2   6-4       |  4  11-7
+10  Sporting CP              9 |  2   5-4       |  2   3-0       |  4   8-4
+11  Real Betis               9 |  2   4-2       |  2   4-4       |  4   8-6
+12  Borussia Dortmund        9 |  2   5-3       |  2   2-2       |  4   7-5
+13  Bayern München           8 |  2   7-2       |  2   5-3       |  4  12-5
+14  VfB Stuttgart            7 |  2   4-2       |  2   3-2       |  4   7-4
+15  Inter                    6 |  2   4-4       |  2   4-2       |  4   8-6
+16  Lask Linz                6 |  2   7-6       |  2   3-3       |  4  10-9
+17  Manchester United        6 |  2   7-2       |  2   1-6       |  4   8-8
+18  Galatasaray              6 |  2   3-4       |  2   5-5       |  4   8-9
+19  Fenerbahçe               5 |  3   6-5       |  1   0-6       |  4   6-11
+20  AS Roma                  4 |  2   7-4       |  2   3-4       |  4  10-8
+21  Shakhtar Donetsk         4 |  2   3-2       |  2   1-2       |  4   4-4
+22  Viking                   4 |  2   7-4       |  2   2-6       |  4   9-10
+23  Atletico Madrid          4 |  2   2-2       |  2   2-3       |  4   4-5
+24  PSV Eindhoven            4 |  2   2-3       |  2   1-1       |  4   3-4
+25  Bodo/Glimt               4 |  2   1-0       |  2   3-9       |  4   4-9
+26  FC Porto                 3 |  3   4-4       |  1   2-3       |  4   6-7
+27  Napoli                   3 |  2   4-4       |  2   2-7       |  4   6-11
+28  Villarreal               3 |  2   3-7       |  2   5-7       |  4   8-14
+29  AEK Athens FC            3 |  2   3-3       |  2   2-8       |  4   5-11
+30  RB Leipzig               3 |  2   3-3       |  2   2-8       |  4   5-11
+31  Sabah FA                 3 |  2   3-2       |  2   1-8       |  4   4-10
+32  Feyenoord                3 |  2   3-5       |  2   1-6       |  4   4-11
+33  Lens                     3 |  2   1-11      |  2   3-5       |  4   4-16
+34  Slavia Praha             1 |  2   3-5       |  2   2-4       |  4   5-9
+35  Lille                    1 |  2   4-7       |  2   0-3       |  4   4-10
+36  Slovan Bratislava        0 |  1   0-3       |  3   1-14      |  4   1-17
+
+(15 API-Football requests used)
+
+----------------------------------------------------------------------
+MATCHBOOK: skipped (switched off for this run)
