@@ -1,9 +1,2 @@
-# scan 07.11 15:57 (Ljubljana)
-Altrincham v Notts County | n=20 | xg=10
-Leganes v Albacete | n=20 | xg=10
-Aris Thessaloniki v Panaitolikos | n=20 | xg=10
-Drogheda v UCD | n=20 | xg=10
-Den Bosch v Jong Utrecht | n=20 | xg=10
-ADO Den Haag v Sparta Rotterdam | n=20 | xg=10
-Aberdeen v Hibernian | n=20 | xg=10
-Cordoba v Ceuta | n=20 | xg=10
+# scan 07.11 15:57 retry: Panetolikos
+Aris Thessaloniki v Panetolikos | n=20 | xg=10
