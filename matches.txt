@@ -1,3 +1,2 @@
-# scan 07.11 13:40 retry 2: Hampton, Dagenham short names
-Hampton v Maidenhead United | n=20 | xg=10
-Dagenham v Billericay Town | n=20 | xg=10
+# scan 07.11 13:40 retry 3: Hampton id
+id:4680 v Maidenhead | n=20 | xg=10
