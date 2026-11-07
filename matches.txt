@@ -1,3 +1,10 @@
-# scan 07.11 11:26 (Ljubljana) retry 2: Konyaspor by id, Mash'al by alternative name
-Mubarek v Surkhon | n=20 | xg=10
-Samsunspor v id:607 | n=20 | xg=10
+# scan 07.11 12:11 (Ljubljana): first analyses
+Racing de Ferrol v UD Logrones | n=20 | xg=10
+Hillerod v Kolding IF | n=20 | xg=10
+Crotone v Giugliano | n=20 | xg=10
+Ostia Mare v Spezia | n=20 | xg=10
+Helsingborg v Falkenbergs | n=20 | xg=10
+Chaves v Penafiel | n=20 | xg=10
+Padova v Empoli | n=20 | xg=10
+Cesena v Catanzaro | n=20 | xg=10
+Pisa v Sudtirol | n=20 | xg=10
