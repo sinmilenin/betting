@@ -1,0 +1,89 @@
+MATCH Sandviken v United Nordic | fetched 2026-11-07 13:32 local
+
+FORM DATA Sandviken v United Nordic | source API-Football | 2026-11-07 13:32 UTC
+H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
+
+"Sandviken" matches several teams. Use id:<number> instead of the name:
+  id:6697   Sandviken (Sweden)
+  id:14545  Sandviken (Norway)
+  id:15957  Sandviken W (Sweden)
+  id:16599  Sandvikens AIK (Sweden)
+=== United Nordic (id 16601): last 20 finished games ===
+2026-10-31 H 4-2 v GIF Sundsvall | Superettan | Sodertalje
+2026-10-24 A 1-4 v Ostersunds FK | Superettan | Ostersund
+2026-10-18 H 2-1 v Norrby IF | Superettan | Sodertalje
+2026-10-10 A 0-2 v Oddevold | Superettan | Uddevalla | xG 0.45-2.98
+2026-10-03 A 1-1 v Orebro SK | Friendlies Clubs | ?
+2026-09-19 H 1-4 v Landskrona BoIS | Superettan | Sodertalje
+2026-09-14 A 1-1 v Orebro SK | Superettan | ?
+2026-09-09 H 2-4 v IFK Varnamo | Superettan | Sodertalje
+2026-09-04 A 2-1 v Osters IF | Superettan | Vaxjo
+2026-08-29 H 1-3 v IFK Norrkoping | Superettan | Sodertalje
+2026-08-26 A 2-0 v Bollstanäs | Svenska Cupen | ?
+2026-08-23 A 2-1 v IK brage | Superettan | Borlange
+2026-08-15 H 0-0 v Varbergs BoIS FC | Superettan | Sodertalje
+2026-08-08 A 1-1 v Falkenbergs FF | Superettan | Falkenberg
+2026-08-02 H 2-2 v Ljungskile SK | Superettan | Sodertalje
+2026-07-28 A 1-1 v Helsingborg | Superettan | Helsingborg
+2026-07-19 H 2-0 v Orebro SK | Superettan | ?
+2026-06-27 H 3-3 v Oddevold | Superettan | ?
+2026-06-21 A 0-0 v Norrby IF | Superettan | Boras
+2026-06-16 A 0-2 v Landskrona BoIS | Superettan | Landskrona
+Listed home: 9 games, scored 17 (1.89), conceded 19 (2.11), blanks 1, clean sheets 2
+Listed away: 11 games, scored 11 (1.00), conceded 14 (1.27), blanks 3, clean sheets 2
+All: 20 games, scored 28 (1.40), conceded 33 (1.65), blanks 4, clean sheets 4
+
+(retrying Sandviken using the opponent's country, Sweden)
+NOTE: "Sandviken" matched 2 teams; picked Sandviken (Sweden) because the opponent is from Sweden. Others: Sandviken (Norway)
+=== Sandviken (id 6697): last 20 finished games ===
+2026-10-31 A 1-2 v Falkenbergs FF | Superettan | Falkenberg
+2026-10-24 A 1-0 v IFK Varnamo | Superettan | Venamu
+2026-10-17 H 0-0 v Ostersunds FK | Superettan | Sandviken
+2026-10-10 A 2-3 v Landskrona BoIS | Superettan | Landskrona | xG 1.58-3.12
+2026-10-03 H 1-0 v GIF Sundsvall | Friendlies Clubs | ?
+2026-09-19 H 4-2 v Orebro SK | Superettan | Sandviken
+2026-09-15 A 1-1 v IK brage | Superettan | Borlange
+2026-09-09 H 0-1 v Oddevold | Superettan | Sandviken
+2026-09-05 A 2-0 v Helsingborg | Superettan | Helsingborg
+2026-08-30 H 1-1 v Osters IF | Superettan | Sandviken
+2026-08-23 A 1-1 v Norrby IF | Superettan | ?
+2026-08-18 A 2-0 v IF Karlstad | Svenska Cupen | ?
+2026-08-15 H 1-4 v IFK Norrkoping | Superettan | Sandviken
+2026-08-09 A 1-0 v Varbergs BoIS FC | Superettan | Varberg
+2026-08-01 H 5-0 v GIF Sundsvall | Superettan | Sandviken
+2026-07-26 A 1-2 v Ljungskile SK | Superettan | Ljungskile
+2026-07-19 A 0-3 v IFK Norrkoping | Superettan | ?
+2026-06-28 H 4-2 v Helsingborg | Superettan | Sandviken
+2026-06-22 A 1-1 v Orebro SK | Superettan | Orebro
+2026-06-14 H 3-2 v IK brage | Superettan | Sandviken
+Listed home: 9 games, scored 19 (2.11), conceded 12 (1.33), blanks 2, clean sheets 3
+Listed away: 11 games, scored 13 (1.18), conceded 13 (1.18), blanks 1, clean sheets 4
+All: 20 games, scored 32 (1.60), conceded 25 (1.25), blanks 3, clean sheets 7
+
+TABLE FOR United Nordic
+LEAGUE TABLE Superettan 2026 | 16 teams | 232 games played
+League averages per game: home 1.58, away 1.36, total 2.94
+#   team                   Pts | home P GF-GA  | away P GF-GA  | all P GF-GA
+1   IFK Norrkoping          65 | 15  33-10      | 14  28-8       | 29  61-18
+2   Falkenbergs FF          54 | 15  26-17      | 14  28-22      | 29  54-39
+3   Varbergs BoIS FC        48 | 15  25-18      | 14  23-19      | 29  48-37
+4   Ostersunds FK           48 | 14  22-13      | 15  16-16      | 29  38-29
+5   Landskrona BoIS         47 | 15  23-16      | 14  25-18      | 29  48-34
+6   Oddevold                45 | 15  29-17      | 14  21-21      | 29  50-38
+7   Osters IF               45 | 15  24-17      | 14  25-28      | 29  49-45
+8   United Nordic           42 | 15  29-28      | 14  16-21      | 29  45-49
+9   Sandviken               38 | 14  27-20      | 15  18-20      | 29  45-40
+10  IFK Varnamo             35 | 14  15-19      | 15  23-29      | 29  38-48
+11  Ljungskile SK           34 | 14  18-19      | 15  21-21      | 29  39-40
+12  Helsingborg             32 | 14  20-21      | 15  17-30      | 29  37-51
+13  Orebro SK               29 | 14  12-16      | 15  20-28      | 29  32-44
+14  Norrby IF               27 | 15  20-26      | 14  11-18      | 29  31-44
+15  IK brage                26 | 14  29-30      | 15  17-27      | 29  46-57
+16  GIF Sundsvall           19 | 14  14-29      | 15   7-40      | 29  21-69
+
+(Sandviken: same table as United Nordic, shown above)
+
+(26 API-Football requests used)
+
+----------------------------------------------------------------------
+MATCHBOOK: skipped (switched off for this run)

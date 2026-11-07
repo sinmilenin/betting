@@ -1,21 +1,8 @@
-RUN 2026-11-07 13:29 local | 11 match(es)
-Hradec Kralove v Sigma Olomouc -> out/Hradec_Kralove_v_Sigma_Olomouc.txt
-    !! Hradec Kralove: Ambiguous team name "Hradec Kralove".
-IK Brage v Norrby -> out/IK_Brage_v_Norrby.txt
-Ljungskile v Landskrona -> out/Ljungskile_v_Landskrona.txt
-Ostersunds FK v Oddevold -> out/Ostersunds_FK_v_Oddevold.txt
-Sandvikens IF v United IK Nordic -> out/Sandvikens_IF_v_United_IK_Nordic.txt
-    !! Sandvikens IF: No team found for "Sandvikens IF".
-    !! United IK Nordic: No team found for "United IK Nordic".
-Arbroath v Ayr -> out/Arbroath_v_Ayr.txt
-    !! Ayr: Ambiguous team name "Ayr".
-Huddersfield v Exeter -> out/Huddersfield_v_Exeter.txt
-    !! Exeter: Ambiguous team name "Exeter".
-Scarborough Athletic v Buxton -> out/Scarborough_Athletic_v_Buxton.txt
-Goztepe v Basaksehir -> out/Goztepe_v_Basaksehir.txt
-    !! Goztepe: Ambiguous team name "Goztepe".
-    !! Basaksehir: Ambiguous team name "Basaksehir".
-Pendikspor v Istanbulspor -> out/Pendikspor_v_Istanbulspor.txt
-Mantova v Verona -> out/Mantova_v_Verona.txt
-    !! Verona: Ambiguous team name "Verona".
-Requests used: API-Football 188, Matchbook 0
+RUN 2026-11-07 13:32 local | 6 match(es)
+id:3723 v Sigma Olomouc -> out/id_3723_v_Sigma_Olomouc.txt
+Sandviken v United Nordic -> out/Sandviken_v_United_Nordic.txt
+Arbroath v id:1387 -> out/Arbroath_v_id_1387.txt
+Huddersfield v id:1364 -> out/Huddersfield_v_id_1364.txt
+id:994 v id:564 -> out/id_994_v_id_564.txt
+Mantova v id:504 -> out/Mantova_v_id_504.txt
+Requests used: API-Football 153, Matchbook 0

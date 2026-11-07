@@ -1,13 +1,33 @@
-MATCH Hradec Kralove v Sigma Olomouc | fetched 2026-11-07 13:29 local
+MATCH id:3723 v Sigma Olomouc | fetched 2026-11-07 13:32 local
 
-FORM DATA Hradec Kralove v Sigma Olomouc | source API-Football | 2026-11-07 13:29 UTC
+FORM DATA id:3723 v Sigma Olomouc | source API-Football | 2026-11-07 13:32 UTC
 H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
 
-"Hradec Kralove" matches several teams. Use id:<number> instead of the name:
-  id:3723   Hradec Králové (Czech-Republic)
-  id:14495  Hradec Králové II (Czech-Republic)
-  id:14831  Hradec Králové U19 (Czech-Republic)
-  id:21648  Slavia Hradec Králové (Czech-Republic)
+=== Hradec Králové (id 3723): last 20 finished games ===
+2026-11-01 A 1-3 v Mlada Boleslav | Czech Liga | Mlada Boleslav | xG 1.09-2.45
+2026-10-28 A 1-1 v Prostějov | Cup | Prostejov [AET, 90-min score shown]
+2026-10-25 H 1-2 v FK Jablonec | Czech Liga | Hradec Krlove | xG 2.34-2.03
+2026-10-17 A 0-0 v Slavia Praha | Czech Liga | Prague | xG 0.52-1.72
+2026-10-10 H 2-4 v Artis | Czech Liga | Hradec Kralove | xG 1.76-1.33
+2026-10-02 H 2-0 v Kladno | Friendlies Clubs | Hradec Kralove
+2026-09-20 H 0-2 v Teplice | Czech Liga | Hradec Kralove
+2026-09-16 A 2-1 v Příbram | Cup | Pribram
+2026-09-13 A 2-1 v Zlin | Czech Liga | Zlin | xG 0.96-1.54
+2026-09-09 H 0-0 v Plzen | Czech Liga | Hradec Kralove | xG 0.92-0.21
+2026-09-06 H 2-1 v Sparta Praha | Czech Liga | Hradec Kralove
+2026-09-02 A 0-1 v Zbrojovka Brno | Czech Liga | Brno
+2026-08-30 A 0-2 v Slovan Liberec | Czech Liga | Liberec
+2026-08-27 H 1-1 v Panathinaikos | UEFA Europa Conference League | Hradec Kralove [AET, 90-min score shown]
+2026-08-20 A 2-2 v Panathinaikos | UEFA Europa Conference League | Athens
+2026-08-13 A 0-1 v Beşiktaş | UEFA Europa League | Istanbul
+2026-08-09 H 2-1 v Baník Ostrava | Czech Liga | Hradec Kralove
+2026-08-06 H 0-1 v Beşiktaş | UEFA Europa League | Hradec Kralove
+2026-08-02 A 0-0 v Bohemians 1905 | Czech Liga | Prague
+2026-07-30 H 3-1 v Tromso | UEFA Europa League | Hradec Kralove
+Listed home: 10 games, scored 13 (1.30), conceded 13 (1.30), blanks 3, clean sheets 2
+Listed away: 10 games, scored 8 (0.80), conceded 12 (1.20), blanks 5, clean sheets 2
+All: 20 games, scored 21 (1.05), conceded 25 (1.25), blanks 8, clean sheets 4
+
 === Sigma Olomouc (id 2250): last 20 finished games ===
 2026-10-31 H 3-0 v Zbrojovka Brno | Czech Liga | Olomouc | xG 3.22-0.40
 2026-10-24 A 1-1 v Zlin | Czech Liga | Zlín | xG 1.13-0.98
@@ -33,15 +53,7 @@ Listed home: 11 games, scored 27 (2.45), conceded 9 (0.82), blanks 1, clean shee
 Listed away: 9 games, scored 13 (1.44), conceded 13 (1.44), blanks 1, clean sheets 0
 All: 20 games, scored 40 (2.00), conceded 22 (1.10), blanks 2, clean sheets 5
 
-(retrying Hradec Kralove using the opponent's country, Czech-Republic)
-"Hradec Kralove" matches several teams. Use id:<number> instead of the name:
-  id:3723   Hradec Králové (Czech-Republic)
-  id:14495  Hradec Králové II (Czech-Republic)
-  id:14831  Hradec Králové U19 (Czech-Republic)
-  id:21648  Slavia Hradec Králové (Czech-Republic)
-!! Hradec Kralove: Ambiguous team name "Hradec Kralove".
-
-TABLE FOR Sigma Olomouc
+TABLE FOR Hradec Králové
 LEAGUE TABLE Czech Liga 2026 | 16 teams | 103 games played
 League averages per game: home 1.44, away 1.31, total 2.75
 #   team                   Pts | home P GF-GA  | away P GF-GA  | all P GF-GA
@@ -62,7 +74,9 @@ League averages per game: home 1.44, away 1.31, total 2.75
 15  Slovácko                 7 |  6   6-10      |  7   6-16      | 13  12-26
 16  Zlin                     3 |  7   3-11      |  6   8-15      | 13  11-26
 
-(15 API-Football requests used)
+(Sigma Olomouc: same table as Hradec Králové, shown above)
+
+(25 API-Football requests used)
 
 ----------------------------------------------------------------------
 MATCHBOOK: skipped (switched off for this run)

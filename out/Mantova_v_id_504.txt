@@ -1,6 +1,6 @@
-MATCH Mantova v Verona | fetched 2026-11-07 13:29 local
+MATCH Mantova v id:504 | fetched 2026-11-07 13:32 local
 
-FORM DATA Mantova v Verona | source API-Football | 2026-11-07 13:30 UTC
+FORM DATA Mantova v id:504 | source API-Football | 2026-11-07 13:32 UTC
 H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
 
 === Mantova (id 1693): last 20 finished games ===
@@ -28,24 +28,30 @@ Listed home: 10 games, scored 23 (2.30), conceded 14 (1.40), blanks 4, clean she
 Listed away: 10 games, scored 18 (1.80), conceded 15 (1.50), blanks 1, clean sheets 3
 All: 20 games, scored 41 (2.05), conceded 29 (1.45), blanks 5, clean sheets 5
 
-"Verona" matches several teams. Use id:<number> instead of the name:
-  id:504    Hellas Verona (Italy)
-  id:1707   Virtus Verona (Italy)
-  id:1883   Verona W (Italy)
-  id:1887   Chievo Verona W (Italy)
-  id:15659  Chievo Verona U19 (Italy)
-  id:15686  Verona U19 (Italy)
-  id:24733  Hellas Verona U20 (Italy)
-(retrying Verona using the opponent's country, Italy)
-"Verona" matches several teams. Use id:<number> instead of the name:
-  id:504    Hellas Verona (Italy)
-  id:1707   Virtus Verona (Italy)
-  id:1883   Verona W (Italy)
-  id:1887   Chievo Verona W (Italy)
-  id:15659  Chievo Verona U19 (Italy)
-  id:15686  Verona U19 (Italy)
-  id:24733  Hellas Verona U20 (Italy)
-!! Verona: Ambiguous team name "Verona".
+=== Hellas Verona (id 504): last 20 finished games ===
+2026-11-01 H 3-0 v Carrarese | Serie B | Verona | xG 1.22-0.98
+2026-10-28 A 1-0 v Juve Stabia | Serie B | Castellammare di Stabia | xG 1.35-0.85
+2026-10-25 H 1-1 v Pisa | Serie B | Verona | xG 0.61-1.49
+2026-10-16 H 2-2 v Catanzaro | Serie B | Verona | xG 1.89-1.18
+2026-10-11 A 2-3 v Modena | Serie B | Modena | xG 1.83-2.58
+2026-10-02 A 3-1 v FC Lugano | Friendlies Clubs | Lugano
+2026-09-20 H 2-1 v Vicenza Virtus | Serie B | Verona | xG 0.97-0.90
+2026-09-11 A 1-3 v Benevento | Serie B | Benevento | xG 1.44-1.13
+2026-09-06 H 5-0 v Arezzo | Serie B | Verona | xG 3.15-0.12
+2026-09-03 A 2-1 v Cagliari | Coppa Italia | Cagliari
+2026-08-29 A 1-1 v Padova | Serie B | Padova
+2026-08-23 H 1-2 v Ascoli | Serie B | Verona
+2026-08-16 H 2-2 v Virtus Entella | Coppa Italia | Verona [PEN, 90-min score shown]
+2026-08-02 H 3-0 v Lecco | Friendlies Clubs | ?
+2026-07-25 H 1-0 v Dolomiti Bellunesi | Friendlies Clubs | ?
+2026-07-22 H 2-1 v Virtus Verona | Friendlies Clubs | ?
+2026-07-19 H 8-1 v Rovereto | Friendlies Clubs | ?
+2026-05-24 H 0-2 v AS Roma | Serie A | Verona
+2026-05-17 A 1-1 v Inter | Serie A | Milan
+2026-05-10 H 0-1 v Como | Serie A | Verona
+Listed home: 13 games, scored 30 (2.31), conceded 13 (1.00), blanks 2, clean sheets 4
+Listed away: 7 games, scored 11 (1.57), conceded 10 (1.43), blanks 0, clean sheets 1
+All: 20 games, scored 41 (2.05), conceded 23 (1.15), blanks 2, clean sheets 5
 
 TABLE FOR Mantova
 LEAGUE TABLE Serie B 2026 | 20 teams | 101 games played
@@ -72,7 +78,9 @@ League averages per game: home 1.39, away 1.26, total 2.64
 19  Sampdoria                8 |  4   6-5       |  6   4-13      | 10  10-18
 20  Catanzaro                6 |  4   4-10      |  6   7-12      | 10  11-22
 
-(15 API-Football requests used)
+(Hellas Verona: same table as Mantova, shown above)
+
+(25 API-Football requests used)
 
 ----------------------------------------------------------------------
 MATCHBOOK: skipped (switched off for this run)
