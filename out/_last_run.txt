@@ -1,10 +1,5 @@
-RUN 2026-11-07 12:49 local | 6 match(es)
-Chesterfield v id:1377 -> out/Chesterfield_v_id_1377.txt
-id:2110 v Kifisia -> out/id_2110_v_Kifisia.txt
-York v Northampton -> out/York_v_Northampton.txt
-Hampton and Richmond v Maidenhead United -> out/Hampton_and_Richmond_v_Maidenhead_United.txt
-    !! Hampton and Richmond: No team found for "Hampton and Richmond".
-Dagenham and Redbridge v Billericay Town -> out/Dagenham_and_Redbridge_v_Billericay_Town.txt
-    !! Dagenham and Redbridge: No team found for "Dagenham and Redbridge".
-Milton Keynes Dons v Swindon Town -> out/Milton_Keynes_Dons_v_Swindon_Town.txt
-Requests used: API-Football 127, Matchbook 0
+RUN 2026-11-07 12:50 local | 2 match(es)
+Hampton v Maidenhead United -> out/Hampton_v_Maidenhead_United.txt
+    !! Hampton: Ambiguous team name "Hampton".
+Dagenham v Billericay Town -> out/Dagenham_v_Billericay_Town.txt
+Requests used: API-Football 39, Matchbook 0
