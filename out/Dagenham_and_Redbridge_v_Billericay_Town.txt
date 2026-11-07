@@ -1,6 +1,6 @@
-MATCH Dagenham & Redbridge v Billericay Town | fetched 2026-11-07 12:46 local
+MATCH Dagenham and Redbridge v Billericay Town | fetched 2026-11-07 12:49 local
 
-FORM DATA Dagenham & Redbridge v Billericay Town | source API-Football | 2026-11-07 12:47 UTC
+FORM DATA Dagenham and Redbridge v Billericay Town | source API-Football | 2026-11-07 12:49 UTC
 H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
 
 === Billericay Town (id 4678): last 20 finished games ===
@@ -28,7 +28,7 @@ Listed home: 12 games, scored 31 (2.58), conceded 15 (1.25), blanks 0, clean she
 Listed away: 8 games, scored 14 (1.75), conceded 9 (1.12), blanks 2, clean sheets 2
 All: 20 games, scored 45 (2.25), conceded 24 (1.20), blanks 2, clean sheets 7
 
-!! Dagenham & Redbridge: API-Football error: {"search": "The Search field may only contain alpha-numeric characters and spaces."}
+!! Dagenham and Redbridge: No team found for "Dagenham and Redbridge".
 
 TABLE FOR Billericay Town
 LEAGUE TABLE National League - South 2026 | 24 teams | 174 games played

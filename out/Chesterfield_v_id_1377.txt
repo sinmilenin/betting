@@ -1,6 +1,6 @@
-MATCH Chesterfield v Yeovil | fetched 2026-11-07 12:46 local
+MATCH Chesterfield v id:1377 | fetched 2026-11-07 12:49 local
 
-FORM DATA Chesterfield v Yeovil | source API-Football | 2026-11-07 12:47 UTC
+FORM DATA Chesterfield v id:1377 | source API-Football | 2026-11-07 12:49 UTC
 H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
 
 === Chesterfield (id 1345): last 20 finished games ===
@@ -28,14 +28,30 @@ Listed home: 10 games, scored 22 (2.20), conceded 13 (1.30), blanks 2, clean she
 Listed away: 10 games, scored 11 (1.10), conceded 17 (1.70), blanks 2, clean sheets 1
 All: 20 games, scored 33 (1.65), conceded 30 (1.50), blanks 4, clean sheets 3
 
-"Yeovil" matches several teams. Use id:<number> instead of the name:
-  id:1377   Yeovil Town (England)
-  id:1849   Yeovil Town W (England)
-(retrying Yeovil using the opponent's country, England)
-"Yeovil" matches several teams. Use id:<number> instead of the name:
-  id:1377   Yeovil Town (England)
-  id:1849   Yeovil Town W (England)
-!! Yeovil: Ambiguous team name "Yeovil".
+=== Yeovil Town (id 1377): last 20 finished games ===
+2026-10-31 A 0-2 v FC Halifax Town | National League | Halifax
+2026-10-27 A 2-1 v AFC Hornchurch | National League | London
+2026-10-24 H 1-2 v Altrincham | National League | Yeovil
+2026-10-20 H 5-2 v Leatherhead | FA Cup | Yeovil
+2026-10-17 A 3-3 v Leatherhead | FA Cup | Leatherhead
+2026-10-10 A 6-0 v Wealdstone | National League | London
+2026-10-03 H 6-0 v Boston United | National League | Yeovil
+2026-09-29 H 1-1 v Worthing | National League | Yeovil
+2026-09-26 A 1-0 v Kidderminster Harriers | National League | Kidderminster
+2026-09-18 H 4-1 v Solihull Moors | National League | Yeovil
+2026-09-15 A 1-1 v Aldershot Town | National League | Aldershot
+2026-09-12 H 1-4 v AFC Fylde | National League | Yeovil
+2026-09-05 A 2-3 v Southend | National League | Southend on Sea
+2026-08-31 H 3-2 v Tamworth | National League | Yeovil
+2026-08-28 A 2-1 v Barrow | National League | Barrow in Furness
+2026-08-22 H 3-0 v Gateshead | National League | Yeovil
+2026-08-15 H 1-1 v Carlisle | National League | Yeovil
+2026-08-08 A 1-1 v Scunthorpe | National League | Scunthorpe
+2026-08-01 H 1-2 v Newport County | Friendlies Clubs | ?
+2026-07-28 A 1-1 v Farnham Town | Friendlies Clubs | ?
+Listed home: 10 games, scored 26 (2.60), conceded 15 (1.50), blanks 0, clean sheets 2
+Listed away: 10 games, scored 19 (1.90), conceded 13 (1.30), blanks 1, clean sheets 2
+All: 20 games, scored 45 (2.25), conceded 28 (1.40), blanks 1, clean sheets 4
 
 TABLE FOR Chesterfield
 LEAGUE TABLE League Two 2026 | 24 teams | 164 games played
@@ -66,7 +82,36 @@ League averages per game: home 1.58, away 1.10, total 2.68
 23  Colchester              12 |  6   6-6       |  7   6-13      | 13  12-19
 24  Crawley Town             9 |  6   6-12      |  6   7-9       | 12  13-21
 
-(14 API-Football requests used)
+TABLE FOR Yeovil Town
+LEAGUE TABLE National League 2026 | 24 teams | 189 games played
+League averages per game: home 1.73, away 1.43, total 3.16
+#   team                   Pts | home P GF-GA  | away P GF-GA  | all P GF-GA
+1   Boreham Wood            44 |  8  25-11      |  8  19-6       | 16  44-17
+2   Harrogate Town          32 |  8  23-10      |  8  11-13      | 16  34-23
+3   Southend                29 |  7  15-13      |  9  23-14      | 16  38-27
+4   AFC Fylde               29 |  8  15-10      |  8  15-14      | 16  30-24
+5   Yeovil Town             28 |  8  20-11      |  8  15-9       | 16  35-20
+6   Worthing                28 |  9  17-14      |  7  15-11      | 16  32-25
+7   Altrincham              28 |  8  15-11      |  8   9-13      | 16  24-24
+8   Carlisle                26 |  8  18-14      |  8  14-9       | 16  32-23
+9   Barrow                  25 |  7  12-6       |  8  14-13      | 15  26-19
+10  FC Halifax Town         24 |  9  19-10      |  7   9-10      | 16  28-20
+11  Sutton Utd              24 |  8  10-11      |  8  10-10      | 16  20-21
+12  Woking                  21 |  8  12-14      |  8  13-10      | 16  25-24
+13  Kidderminster Harriers  21 |  8   8-6       |  8   9-10      | 16  17-16
+14  Aldershot Town          21 |  8  12-8       |  8   7-11      | 16  19-19
+15  AFC Hornchurch          21 |  7  10-4       |  9   8-22      | 16  18-26
+16  Forest Green            19 |  9  16-17      |  5   7-7       | 14  23-24
+17  Eastleigh               19 |  8  14-11      |  8   5-14      | 16  19-25
+18  Wealdstone              18 |  8  12-20      |  8  11-9       | 16  23-29
+19  Boston United           18 |  9  10-13      |  7  11-16      | 16  21-29
+20  Tamworth                17 |  8  15-11      |  7  10-21      | 15  25-32
+21  Hartlepool              15 |  7   6-7       |  9  12-20      | 16  18-27
+22  Solihull Moors          13 |  9   7-18      |  7  12-22      | 16  19-40
+23  Scunthorpe              10 |  6  11-10      |  9   8-20      | 15  19-30
+24  Gateshead                4 |  6   5-11      |  9   4-23      | 15   9-34
+
+(26 API-Football requests used)
 
 ----------------------------------------------------------------------
 MATCHBOOK: skipped (switched off for this run)

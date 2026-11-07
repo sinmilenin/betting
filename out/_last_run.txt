@@ -1,27 +1,10 @@
-RUN 2026-11-07 12:46 local | 20 match(es)
-Juve Stabia v Arezzo -> out/Juve_Stabia_v_Arezzo.txt
-Guiseley v Sutton United -> out/Guiseley_v_Sutton_United.txt
-Hampton & Richmond v Maidenhead United -> out/Hampton_Richmond_v_Maidenhead_United.txt
-    !! Hampton & Richmond: API-Football error: {"search": "The Search field may only contain alpha-numeric characters and spaces."}
-Clyde v Spartans -> out/Clyde_v_Spartans.txt
-Colchester v Worcester City -> out/Colchester_v_Worcester_City.txt
-Volos v Kifisia -> out/Volos_v_Kifisia.txt
-    !! Volos: Ambiguous team name "Volos".
-Carlisle v Salford City -> out/Carlisle_v_Salford_City.txt
-Gillingham v Barrow -> out/Gillingham_v_Barrow.txt
-Hornchurch v Blackpool -> out/Hornchurch_v_Blackpool.txt
-Scarborough Athletic v Buxton -> out/Scarborough_Athletic_v_Buxton.txt
-Bromley v Rotherham -> out/Bromley_v_Rotherham.txt
-Fleetwood Town v Rochdale -> out/Fleetwood_Town_v_Rochdale.txt
-Dagenham & Redbridge v Billericay Town -> out/Dagenham_Redbridge_v_Billericay_Town.txt
-    !! Dagenham & Redbridge: API-Football error: {"search": "The Search field may only contain alpha-numeric characters and spaces."}
-Barnsley v Aldershot Town -> out/Barnsley_v_Aldershot_Town.txt
-Chesterfield v Yeovil -> out/Chesterfield_v_Yeovil.txt
-    !! Yeovil: Ambiguous team name "Yeovil".
-York City v Northampton -> out/York_City_v_Northampton.txt
-MK Dons v Swindon Town -> out/MK_Dons_v_Swindon_Town.txt
-    !! MK Dons: No team found for "MK Dons".
-Dundee Utd v Motherwell -> out/Dundee_Utd_v_Motherwell.txt
-Cadiz v Oviedo -> out/Cadiz_v_Oviedo.txt
-Nacional v Academico Viseu -> out/Nacional_v_Academico_Viseu.txt
-Requests used: API-Football 445, Matchbook 0
+RUN 2026-11-07 12:49 local | 6 match(es)
+Chesterfield v id:1377 -> out/Chesterfield_v_id_1377.txt
+id:2110 v Kifisia -> out/id_2110_v_Kifisia.txt
+York v Northampton -> out/York_v_Northampton.txt
+Hampton and Richmond v Maidenhead United -> out/Hampton_and_Richmond_v_Maidenhead_United.txt
+    !! Hampton and Richmond: No team found for "Hampton and Richmond".
+Dagenham and Redbridge v Billericay Town -> out/Dagenham_and_Redbridge_v_Billericay_Town.txt
+    !! Dagenham and Redbridge: No team found for "Dagenham and Redbridge".
+Milton Keynes Dons v Swindon Town -> out/Milton_Keynes_Dons_v_Swindon_Town.txt
+Requests used: API-Football 127, Matchbook 0
