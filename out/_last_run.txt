@@ -1,3 +1,6 @@
-RUN 2026-11-07 15:47 local | 1 match(es)
-FCSB v Corvinul Hunedoara -> out/FCSB_v_Corvinul_Hunedoara.txt
-Requests used: API-Football 25, Matchbook 0
+RUN 2026-11-07 16:30 local | 4 match(es)
+Bravo v Maribor -> out/Bravo_v_Maribor.txt
+Saint Etienne v Laval -> out/Saint_Etienne_v_Laval.txt
+Pau v Nantes -> out/Pau_v_Nantes.txt
+Libertad v Emelec -> out/Libertad_v_Emelec.txt
+Requests used: API-Football 100, Matchbook 0
