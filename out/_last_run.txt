@@ -1,5 +1,8 @@
-RUN 2026-11-07 09:44 local | 3 match(es)
-id:1324 v id:745 -> out/id_1324_v_id_745.txt
-id:171 v id:181 -> out/id_171_v_id_181.txt
-Wrexham v id:39 -> out/Wrexham_v_id_39.txt
-Requests used: API-Football 74, Matchbook 0
+RUN 2026-11-07 10:30 local | 4 match(es)
+Mashal v Surkhon -> out/Mashal_v_Surkhon.txt
+    !! Mashal: No team found for "Mashal".
+Csikszereda v Universitatea Cluj -> out/Csikszereda_v_Universitatea_Cluj.txt
+Burgos v Celta Vigo B -> out/Burgos_v_Celta_Vigo_B.txt
+    !! Celta Vigo B: No team found for "Celta Vigo B".
+Samsunspor v Konyaspor -> out/Samsunspor_v_Konyaspor.txt
+Requests used: API-Football 80, Matchbook 0

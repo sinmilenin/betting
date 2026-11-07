@@ -1,0 +1,82 @@
+MATCH Csikszereda v Universitatea Cluj | fetched 2026-11-07 10:30 local
+
+FORM DATA Csikszereda v Universitatea Cluj | source API-Football | 2026-11-07 10:30 UTC
+H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
+
+=== Csikszereda (id 6230): last 20 finished games ===
+2026-10-30 A 0-2 v Rapid | Liga I | Bucharest
+2026-10-27 H 1-2 v Bihor Oradea | Cupa României | Miercurea Ciuc
+2026-10-24 H 2-1 v FC Voluntari | Liga I | Miercurea Ciuc | xG 1.62-1.32
+2026-10-16 A 1-1 v Oţelul | Liga I | Galati | xG 1.78-4.09
+2026-10-11 H 0-1 v Universitatea Craiova | Liga I | Miercurea Ciuc | xG 0.47-3.33
+2026-09-21 A 0-2 v Petrolul Ploiesti | Liga I | Ploiesti | xG 0.57-2.24
+2026-09-11 H 1-3 v Dinamo Bucuresti | Liga I | Miercurea Ciuc | xG 0.77-2.16
+2026-09-05 A 1-5 v Uta Arad | Liga I | Arad | xG 1.40-2.91
+2026-09-02 A 2-0 v Gloria Bistriţa | Cupa României | ?
+2026-08-29 H 2-3 v CFR 1907 Cluj | Liga I | Miercurea Ciuc | xG 0.96-2.02
+2026-08-24 A 0-1 v FC Botosani | Liga I | Botosani
+2026-08-20 A 1-1 v CSA Steaua Bucureşti | Cupa României | ? [AET, 90-min score shown]
+2026-08-15 H 0-0 v Sepsi OSK Sfantu Gheorghe | Liga I | Miercurea Ciuc
+2026-08-08 A 2-3 v Farul Constanta | Liga I | Ovidiu
+2026-07-31 A 0-1 v Arges Pitesti | Liga I | Mioveni
+2026-07-26 H 0-2 v FCSB | Liga I | Miercurea Ciuc
+2026-07-20 A 0-3 v Corvinul Hunedoara | Liga I | Arad
+2026-07-08 A 1-3 v NK Slaven Belupo | Friendlies Clubs | ?
+2026-07-04 A 1-2 v Zbrojovka Brno | Friendlies Clubs | ?
+2026-07-01 A 2-0 v Radnicki NIS | Friendlies Clubs | ?
+Listed home: 7 games, scored 6 (0.86), conceded 12 (1.71), blanks 3, clean sheets 1
+Listed away: 13 games, scored 11 (0.85), conceded 24 (1.85), blanks 5, clean sheets 2
+All: 20 games, scored 17 (0.85), conceded 36 (1.80), blanks 8, clean sheets 3
+
+=== Universitatea Cluj (id 2599): last 20 finished games ===
+2026-11-02 H 1-0 v FCSB | Liga I | Cluj-Napoca | xG 1.89-1.13
+2026-10-28 A 3-1 v CFR 1907 Cluj | Cupa României | Cluj-Napoca
+2026-10-23 A 3-0 v Corvinul Hunedoara | Liga I | Petrosani | xG 2.15-1.48
+2026-10-19 H 2-2 v Arges Pitesti | Liga I | Cluj-Napoca | xG 1.73-1.56
+2026-10-12 H 3-4 v Rapid | Liga I | Cluj-Napoca | xG 1.85-1.22
+2026-10-08 A 3-1 v CFR 1907 Cluj | Liga I | Cluj-Napoca
+2026-09-20 A 2-0 v FC Voluntari | Liga I | Voluntari | xG 2.51-1.38
+2026-09-14 H 3-0 v Oţelul | Liga I | Cluj-Napoca | xG 1.77-0.26
+2026-09-07 A 0-4 v Universitatea Craiova | Liga I | Craiova | xG 0.66-2.05
+2026-09-01 H 1-0 v Petrolul Ploiesti | Cupa României | Cluj-Napoca
+2026-08-28 H 2-3 v Petrolul Ploiesti | Liga I | Cluj-Napoca
+2026-08-22 A 1-2 v Dinamo Bucuresti | Liga I | Bucharest
+2026-08-17 H 2-1 v Uta Arad | Liga I | Cluj-Napoca
+2026-08-03 H 2-1 v FC Botosani | Liga I | Cluj-Napoca
+2026-07-30 A 1-3 v Brann | UEFA Europa Conference League | Bergen
+2026-07-26 A 0-1 v Sepsi OSK Sfantu Gheorghe | Liga I | Sfantu Gheorghe
+2026-07-23 H 2-2 v Brann | UEFA Europa Conference League | Cluj Napoca
+2026-07-19 H 2-1 v Farul Constanta | Liga I | Cluj-Napoca
+2026-07-16 H 0-0 v Dynamo Kyiv | UEFA Europa League | Cluj Napoca [PEN, 90-min score shown]
+2026-07-12 A 1-1 v Universitatea Craiova | Supercupa | Craiova [PEN, 90-min score shown]
+Listed home: 11 games, scored 20 (1.82), conceded 14 (1.27), blanks 1, clean sheets 4
+Listed away: 9 games, scored 14 (1.56), conceded 13 (1.44), blanks 2, clean sheets 2
+All: 20 games, scored 34 (1.70), conceded 27 (1.35), blanks 3, clean sheets 6
+
+TABLE FOR Csikszereda
+LEAGUE TABLE Liga I 2026 | 16 teams | 114 games played
+League averages per game: home 1.69, away 0.99, total 2.68
+#   team                   Pts | home P GF-GA  | away P GF-GA  | all P GF-GA
+1   Dinamo Bucuresti        33 |  7  21-3       |  8  11-8       | 15  32-11
+2   Universitatea Craiova   32 |  8  24-3       |  6  10-7       | 14  34-10
+3   Rapid                   30 |  8  14-5       |  6   9-8       | 14  23-13
+4   Petrolul Ploiesti       27 |  7   8-4       |  8  12-14      | 15  20-18
+5   Universitatea Cluj      25 |  8  17-12      |  6   9-8       | 14  26-20
+6   Farul Constanta         23 |  6  16-8       |  8   7-13      | 14  23-21
+7   FCSB                    21 |  7  15-10      |  7   5-10      | 14  20-20
+8   Corvinul Hunedoara      19 |  8  13-8       |  6   3-8       | 14  16-16
+9   CFR 1907 Cluj           18 |  6  12-6       |  8   8-15      | 14  20-21
+10  Uta Arad                18 |  7   9-4       |  8   7-16      | 15  16-20
+11  Arges Pitesti           15 |  8   6-6       |  7   4-11      | 15  10-17
+12  Sepsi OSK Sfantu Gheor  15 |  6   5-9       |  8   4-10      | 14   9-19
+13  FC Botosani             14 |  6  10-4       |  8   8-15      | 14  18-19
+14  Oţelul                  12 |  8   9-9       |  6   7-13      | 14  16-22
+15  FC Voluntari             8 |  8   9-12      |  6   5-19      | 14  14-31
+16  Csikszereda              5 |  6   5-10      |  8   4-18      | 14   9-28
+
+(Universitatea Cluj: same table as Csikszereda, shown above)
+
+(25 API-Football requests used)
+
+----------------------------------------------------------------------
+MATCHBOOK: skipped (switched off for this run)
