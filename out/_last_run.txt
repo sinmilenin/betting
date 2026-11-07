@@ -1,7 +1,4 @@
-RUN 2026-11-07 05:13 local | 3 match(es)
-Avispa Fukuoka v Nagasaki -> out/Avispa_Fukuoka_v_Nagasaki.txt
-    !! Nagasaki: Ambiguous team name "Nagasaki".
-FC Tokyo v Kashima -> out/FC_Tokyo_v_Kashima.txt
-Ningbo Professional v Jiangxi -> out/Ningbo_Professional_v_Jiangxi.txt
-    !! Jiangxi: Ambiguous team name "Jiangxi".
-Requests used: API-Football 55, Matchbook 0
+RUN 2026-11-07 05:13 local | 2 match(es)
+Avispa Fukuoka v id:285 -> out/Avispa_Fukuoka_v_id_285.txt
+Ningbo Professional v Heilongjiang Lava Spring -> out/Ningbo_Professional_v_Heilongjiang_Lava_.txt
+Requests used: API-Football 50, Matchbook 0
