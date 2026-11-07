@@ -1,5 +1,3 @@
-RUN 2026-11-07 12:50 local | 2 match(es)
-Hampton v Maidenhead United -> out/Hampton_v_Maidenhead_United.txt
-    !! Hampton: Ambiguous team name "Hampton".
-Dagenham v Billericay Town -> out/Dagenham_v_Billericay_Town.txt
-Requests used: API-Football 39, Matchbook 0
+RUN 2026-11-07 12:50 local | 1 match(es)
+id:4680 v Maidenhead -> out/id_4680_v_Maidenhead.txt
+Requests used: API-Football 25, Matchbook 0
