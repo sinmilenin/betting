@@ -1,9 +1,5 @@
-# night scan 07.11 20:56
-Everton De Vina v Deportes Concepcion | n=20 | xg=10
-FC Cincinnati v Nashville SC | n=20 | xg=10
-Atlas v Pachuca | n=20 | xg=10
-Atletico Nacional v Deportivo Pereira | n=20 | xg=10
-Seattle Sounders v Los Angeles FC | n=20 | xg=10
-Real Salt Lake v LA Galaxy | n=20 | xg=10
-Minnesota United v San Jose Earthquakes | n=20 | xg=10
-Toluca v Monterrey | n=20 | xg=10
+# night scan 07.11 20:56 retry: team ids/names
+Everton De Vina v Concepcion | n=20 | xg=10
+Atlas v id:2292 | n=20 | xg=10
+Real Salt Lake v Los Angeles Galaxy | n=20 | xg=10
+id:1612 v San Jose Earthquakes | n=20 | xg=10
