@@ -1,2 +1,6 @@
-# scan 07.11 17:26 retry: Libertad ambiguous, use id:18762 (Ecuador)
-id:18762 v Emelec | n=20 | xg=10
+# scan 07.11 18:11: new fixtures for blended test
+Ironi Tiberias v Beitar Jerusalem | n=20 | xg=10
+Talleres Cordoba v Estudiantes L.P. | n=20 | xg=10
+Antwerp v Lommel | n=20 | xg=10
+La Louviere v Cercle Brugge | n=20 | xg=10
+Excelsior v Go Ahead Eagles | n=20 | xg=10
