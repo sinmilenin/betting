@@ -1,5 +1,2 @@
-# night scan 07.11 20:56 retry: team ids/names
-Everton De Vina v Concepcion | n=20 | xg=10
-Atlas v id:2292 | n=20 | xg=10
-Real Salt Lake v Los Angeles Galaxy | n=20 | xg=10
-id:1612 v San Jose Earthquakes | n=20 | xg=10
+# night scan 07.11 retry 2: Concepcion id
+Everton De Vina v id:5635 | n=20 | xg=10
