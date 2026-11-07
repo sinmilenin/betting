@@ -1,3 +1,2 @@
-# scan 07.11 16:41 retry: Luzern, Ried, LASK
-id:644 v BSC Young Boys | n=20 | xg=10
-Ried v id:1026 | n=20 | xg=10
+# scan 07.11 16:41 retry: Hunedoara (wrong club)
+FCSB v Corvinul Hunedoara | n=20 | xg=10
