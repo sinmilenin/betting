@@ -1,0 +1,86 @@
+MATCH SV Wehen v Havelse | fetched 2026-11-07 11:59 local
+
+FORM DATA SV Wehen v Havelse | source API-Football | 2026-11-07 11:59 UTC
+H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
+
+=== SV Wehen (id 1319): last 20 finished games ===
+2026-10-31 A 4-1 v Verl | 3. Liga | Verl
+2026-10-24 H 7-1 v SG Sonnenhof Grossaspach | 3. Liga | Wiesbaden
+2026-10-17 A 0-0 v SSV Jahn Regensburg | 3. Liga | Regensburg
+2026-10-14 H 3-0 v Alemannia Aachen | 3. Liga | Wiesbaden | xG 2.27-1.66
+2026-10-11 A 4-2 v FC Ingolstadt 04 | 3. Liga | Ingolstadt | xG 3.12-1.48
+2026-10-02 H 1-2 v Karlsruher SC | Friendlies Clubs | ?
+2026-09-20 H 1-4 v MSV Duisburg | 3. Liga | Wiesbaden
+2026-09-16 A 2-0 v Fortuna Köln | 3. Liga | Cologne
+2026-09-13 H 0-1 v Waldhof Mannheim | 3. Liga | Wiesbaden
+2026-09-05 A 1-1 v Hansa Rostock | 3. Liga | Rostock
+2026-08-29 H 0-0 v Rot-Weiß Essen | 3. Liga | Wiesbaden
+2026-08-22 H 0-4 v Bayer Leverkusen | DFB Pokal | Wiesbaden
+2026-08-14 A 0-4 v Würzburger Kickers | 3. Liga | Wuerzburg
+2026-08-08 H 1-3 v Preußen Münster | 3. Liga | Wiesbaden
+2026-08-01 H 0-2 v Eintracht Frankfurt II | Friendlies Clubs | ?
+2026-07-25 H 2-1 v Bayern München | Friendlies Clubs | Wiesbaden
+2026-07-18 A 0-2 v FC Liefering | Friendlies Clubs | ?
+2026-07-14 H 2-0 v Fagiano Okayama | Friendlies Clubs | ?
+2026-07-09 H 1-0 v FC 08 Homburg | Friendlies Clubs | ?
+2026-05-16 H 2-0 v Hoffenheim II | 3. Liga | Wiesbaden
+Listed home: 13 games, scored 20 (1.54), conceded 18 (1.38), blanks 4, clean sheets 5
+Listed away: 7 games, scored 11 (1.57), conceded 10 (1.43), blanks 3, clean sheets 2
+All: 20 games, scored 31 (1.55), conceded 28 (1.40), blanks 7, clean sheets 7
+
+=== Havelse (id 9342): last 20 finished games ===
+2026-10-31 H 1-1 v FC Ingolstadt 04 | 3. Liga | Hannover
+2026-10-25 H 3-2 v FC Saarbrücken | 3. Liga | Hannover
+2026-10-18 A 1-1 v SV Meppen | 3. Liga | May Pen
+2026-10-13 H 2-2 v Würzburger Kickers | 3. Liga | Hannover | xG 3.18-2.68
+2026-10-10 A 0-5 v SSV Jahn Regensburg | 3. Liga | Regensburg | xG 0.48-4.34
+2026-10-01 A 1-4 v VfL Wolfsburg | Friendlies Clubs | Wolfsburg
+2026-09-25 H 1-3 v Fortuna Köln | 3. Liga | Hannover
+2026-09-15 A 1-2 v MSV Duisburg | 3. Liga | Duisburg
+2026-09-12 H 2-2 v SG Sonnenhof Grossaspach | 3. Liga | Hannover
+2026-09-05 A 1-2 v Preußen Münster | 3. Liga | Munster
+2026-08-30 H 3-2 v Waldhof Mannheim | 3. Liga | Hannover
+2026-08-15 A 0-1 v Rot-Weiß Essen | 3. Liga | Essen
+2026-08-08 H 2-3 v Stuttgart II | 3. Liga | Hannover
+2026-07-31 A 0-0 v Barockstadt Fulda-Lehn. | Friendlies Clubs | ?
+2026-07-25 A 1-3 v Hannover 96 II | Friendlies Clubs | ?
+2026-07-19 A 1-1 v Eintracht Norderstedt | Friendlies Clubs | ?
+2026-07-14 A 1-2 v Eintracht Braunschweig | Friendlies Clubs | ?
+2026-07-11 A 3-2 v Atlas Delmenhorst | Friendlies Clubs | ?
+2026-05-16 A 1-6 v Alemannia Aachen | 3. Liga | Aachen
+2026-05-10 H 3-2 v FC Schweinfurt 05 | 3. Liga | Hannover
+Listed home: 8 games, scored 17 (2.12), conceded 17 (2.12), blanks 0, clean sheets 0
+Listed away: 12 games, scored 11 (0.92), conceded 29 (2.42), blanks 3, clean sheets 1
+All: 20 games, scored 28 (1.40), conceded 46 (2.30), blanks 3, clean sheets 1
+
+TABLE FOR SV Wehen
+LEAGUE TABLE 3. Liga 2026 | 20 teams | 121 games played
+League averages per game: home 1.74, away 1.57, total 3.31
+#   team                   Pts | home P GF-GA  | away P GF-GA  | all P GF-GA
+1   FC Viktoria Köln        29 |  7  23-12      |  6  13-6       | 13  36-18
+2   MSV Duisburg            26 |  6  15-7       |  6  16-10      | 12  31-17
+3   Rot-Weiß Essen          24 |  6  12-3       |  6   8-10      | 12  20-13
+4   FC Saarbrücken          20 |  6  13-13      |  7  18-13      | 13  31-26
+5   Alemannia Aachen        20 |  7  13-12      |  5   6-6       | 12  19-18
+6   SV Wehen                18 |  6  12-9       |  6  11-8       | 12  23-17
+7   FC Ingolstadt 04        18 |  6   8-12      |  6   8-5       | 12  16-17
+8   Waldhof Mannheim        16 |  6   9-8       |  6  12-11      | 12  21-19
+9   Hoffenheim II           16 |  6  12-8       |  6   9-12      | 12  21-20
+10  Fortuna Düsseldorf      16 |  6   6-8       |  6   6-6       | 12  12-14
+11  Hansa Rostock           16 |  5   8-9       |  7  11-13      | 12  19-22
+12  SV Meppen               15 |  6  10-11      |  6   6-6       | 12  16-17
+13  Stuttgart II            15 |  5   9-12      |  7  12-11      | 12  21-23
+14  Preußen Münster         15 |  6  11-10      |  6   9-13      | 12  20-23
+15  Würzburger Kickers      14 |  5   8-4       |  7   9-20      | 12  17-24
+16  SSV Jahn Regensburg     13 |  6   9-6       |  6  13-15      | 12  22-21
+17  Verl                    12 |  6  10-14      |  6   7-12      | 12  17-26
+18  SG Sonnenhof Grossaspa  12 |  7   7-11      |  5   6-15      | 12  13-26
+19  Fortuna Köln            10 |  6   2-6       |  6   7-8       | 12   9-14
+20  Havelse                 10 |  7  14-15      |  5   3-11      | 12  17-26
+
+(Havelse: same table as SV Wehen, shown above)
+
+(25 API-Football requests used)
+
+----------------------------------------------------------------------
+MATCHBOOK: skipped (switched off for this run)

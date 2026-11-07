@@ -1,7 +1,4 @@
-RUN 2026-11-07 11:58 local | 4 match(es)
-Wehen Wiesbaden v Havelse -> out/Wehen_Wiesbaden_v_Havelse.txt
-Slovan Liberec v Bohemians 1905 -> out/Slovan_Liberec_v_Bohemians_1905.txt
-Cukaricki v Radnicki Nis -> out/Cukaricki_v_Radnicki_Nis.txt
-Slovan Bratislava v Trencin -> out/Slovan_Bratislava_v_Trencin.txt
-    !! Trencin: Ambiguous team name "Trencin".
-Requests used: API-Football 93, Matchbook 0
+RUN 2026-11-07 11:59 local | 2 match(es)
+SV Wehen v Havelse -> out/SV_Wehen_v_Havelse.txt
+Slovan Bratislava v id:655 -> out/Slovan_Bratislava_v_id_655.txt
+Requests used: API-Football 52, Matchbook 0
