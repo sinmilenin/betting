@@ -1,3 +1,3 @@
-# scan 07.11 12:11 retry: Ferrol, Logrones, Hillerod names
-Racing Ferrol v Logrones | n=20 | xg=10
-Hillerød v Kolding IF | n=20 | xg=10
+# scan 07.11 12:11 retry 2: Ferrol/Logrones by id, Hillerod alt name
+id:9409 v id:5280 | n=20 | xg=10
+Hiller v Kolding IF | n=20 | xg=10
