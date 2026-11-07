@@ -1,14 +1,7 @@
-RUN 2026-11-07 19:58 local | 8 match(es)
-Everton De Vina v Deportes Concepcion -> out/Everton_De_Vina_v_Deportes_Concepcion.txt
-    !! Deportes Concepcion: No team found for "Deportes Concepcion".
-FC Cincinnati v Nashville SC -> out/FC_Cincinnati_v_Nashville_SC.txt
-Atlas v Pachuca -> out/Atlas_v_Pachuca.txt
-    !! Pachuca: Ambiguous team name "Pachuca".
-Atletico Nacional v Deportivo Pereira -> out/Atletico_Nacional_v_Deportivo_Pereira.txt
-Seattle Sounders v Los Angeles FC -> out/Seattle_Sounders_v_Los_Angeles_FC.txt
-Real Salt Lake v LA Galaxy -> out/Real_Salt_Lake_v_LA_Galaxy.txt
-    !! LA Galaxy: No team found for "LA Galaxy".
-Minnesota United v San Jose Earthquakes -> out/Minnesota_United_v_San_Jose_Earthquakes.txt
-    !! Minnesota United: Ambiguous team name "Minnesota United".
-Toluca v Monterrey -> out/Toluca_v_Monterrey.txt
-Requests used: API-Football 154, Matchbook 0
+RUN 2026-11-07 20:00 local | 4 match(es)
+Everton De Vina v Concepcion -> out/Everton_De_Vina_v_Concepcion.txt
+    !! Concepcion: Ambiguous team name "Concepcion".
+Atlas v id:2292 -> out/Atlas_v_id_2292.txt
+Real Salt Lake v Los Angeles Galaxy -> out/Real_Salt_Lake_v_Los_Angeles_Galaxy.txt
+id:1612 v San Jose Earthquakes -> out/id_1612_v_San_Jose_Earthquakes.txt
+Requests used: API-Football 89, Matchbook 0
