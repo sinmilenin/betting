@@ -163,5 +163,49 @@
     "lay": 16.0,
     "stake": 3,
     "created": "2026-11-07T13:54:54+01:00"
+  },
+  {
+    "id": "2026-11-07_pendikspor-istanbulspor_0-1",
+    "date": "2026-11-07",
+    "ko": "17:00",
+    "match": "Pendikspor v Istanbulspor",
+    "comp": "Turkey, Turkish 1 Lig",
+    "cell": "0-1",
+    "lay": 18.0,
+    "stake": 3,
+    "created": "2026-11-07T14:36:11+01:00"
+  },
+  {
+    "id": "2026-11-07_hradec-kralove-sigma-olomouc_2-2",
+    "date": "2026-11-07",
+    "ko": "15:00",
+    "match": "Hradec Kralove v Sigma Olomouc",
+    "comp": "Czech Republic, Czech 1 Liga",
+    "cell": "2-2",
+    "lay": 16.5,
+    "stake": 3,
+    "created": "2026-11-07T14:36:11+01:00"
+  },
+  {
+    "id": "2026-11-07_arbroath-ayr_2-2",
+    "date": "2026-11-07",
+    "ko": "16:00",
+    "match": "Arbroath v Ayr",
+    "comp": "United Kingdom, Scottish Championship",
+    "cell": "2-2",
+    "lay": 20.0,
+    "stake": 3,
+    "created": "2026-11-07T14:36:11+01:00"
+  },
+  {
+    "id": "2026-11-07_goztepe-basaksehir_2-2",
+    "date": "2026-11-07",
+    "ko": "17:00",
+    "match": "Goztepe v Basaksehir",
+    "comp": "Turkey, Turkish Super League",
+    "cell": "2-2",
+    "lay": 16.0,
+    "stake": 3,
+    "created": "2026-11-07T14:36:11+01:00"
   }
 ]
