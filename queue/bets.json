@@ -1,90 +1,13 @@
 [
   {
-    "id": "2026-11-06_adelaide-united-w-wellington-phoenix-w_0-1",
-    "date": "2026-11-06",
-    "ko": "09:00",
-    "match": "Adelaide United (W) v Wellington Phoenix (W)",
-    "comp": "Australia, Australian A-League Women",
+    "id": "2026-11-07_ningbo-professional-jiangxi-dingnan-united_0-1",
+    "date": "2026-11-07",
+    "ko": "07:30",
+    "match": "Ningbo Professional v Jiangxi Dingnan United",
+    "comp": "China, Chinese League 1",
     "cell": "0-1",
-    "lay": 9.2,
+    "lay": 12,
     "stake": 3,
-    "created": "2026-11-06T07:00:39+01:00"
-  },
-  {
-    "id": "2026-11-06_ascoli-palermo_2-2",
-    "date": "2026-11-06",
-    "ko": "20:30",
-    "match": "Ascoli v Palermo",
-    "comp": "Italy, Italian Serie B",
-    "cell": "2-2",
-    "lay": 14.5,
-    "stake": 3,
-    "created": "2026-11-06T07:50:46+01:00"
-  },
-  {
-    "id": "2026-11-06_braunschweig-cottbus_1-0",
-    "date": "2026-11-06",
-    "ko": "18:30",
-    "match": "Braunschweig v Cottbus",
-    "comp": "Germany, German Bundesliga 2",
-    "cell": "1-0",
-    "lay": 16,
-    "stake": 3,
-    "created": "2026-11-06T07:50:46+01:00"
-  },
-  {
-    "id": "2026-11-06_dai-hoc-van-hien-hue-fc_2-1",
-    "date": "2026-11-06",
-    "ko": "11:00",
-    "match": "Dai Hoc Van Hien v Hue FC",
-    "comp": "Viet Nam, Vietnamese V-League 2",
-    "cell": "2-1",
-    "lay": 9.6,
-    "stake": 3,
-    "created": "2026-11-06T08:30:39+01:00"
-  },
-  {
-    "id": "2026-11-06_polissya-zhytomyr-veres-rivne_2-1",
-    "date": "2026-11-06",
-    "ko": "12:00",
-    "match": "Polissya Zhytomyr v Veres Rivne",
-    "comp": "Ukraine, Ukrainian Premier League",
-    "cell": "2-1",
-    "lay": 11.5,
-    "stake": 3,
-    "created": "2026-11-06T09:19:03+01:00"
-  },
-  {
-    "id": "2026-11-06_septemvri-lokomotiv-sofia_2-2",
-    "date": "2026-11-06",
-    "ko": "16:00",
-    "match": "Septemvri v Lokomotiv Sofia",
-    "comp": "Bulgaria, Bulgarian A League",
-    "cell": "2-2",
-    "lay": 16,
-    "stake": 3,
-    "created": "2026-11-06T13:52:48+01:00"
-  },
-  {
-    "id": "2026-11-06_austria-wien-a-first-vienna-fc-1894_0-1",
-    "date": "2026-11-06",
-    "ko": "18:30",
-    "match": "Austria Wien (A) v First Vienna Fc 1894",
-    "comp": "Austria, Austrian Erste Liga",
-    "cell": "0-1",
-    "lay": 9.6,
-    "stake": 3,
-    "created": "2026-11-06T13:52:48+01:00"
-  },
-  {
-    "id": "2026-11-06_austria-wien-a-first-vienna-fc-1894_1-0",
-    "date": "2026-11-06",
-    "ko": "18:30",
-    "match": "Austria Wien (A) v First Vienna Fc 1894",
-    "comp": "Austria, Austrian Erste Liga",
-    "cell": "1-0",
-    "lay": 16,
-    "stake": 3,
-    "created": "2026-11-06T13:52:48+01:00"
+    "created": "2026-11-07T06:15:46+01:00"
   }
 ]
