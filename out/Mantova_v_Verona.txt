@@ -1,0 +1,78 @@
+MATCH Mantova v Verona | fetched 2026-11-07 13:29 local
+
+FORM DATA Mantova v Verona | source API-Football | 2026-11-07 13:30 UTC
+H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
+
+=== Mantova (id 1693): last 20 finished games ===
+2026-10-31 A 1-1 v Modena | Serie B | Modena | xG 0.64-1.36
+2026-10-27 H 0-2 v Cremonese | Serie B | Mantova | xG 1.97-1.32
+2026-10-24 A 1-0 v Virtus Entella | Serie B | Chiavari | xG 1.01-1.37
+2026-10-17 H 0-2 v Palermo | Serie B | Mantova | xG 1.84-1.94
+2026-10-11 A 3-1 v Catanzaro | Serie B | Catanzaro | xG 2.94-1.15
+2026-09-20 H 2-2 v Pisa | Serie B | Mantova | xG 1.98-2.18
+2026-09-13 H 2-0 v Sampdoria | Serie B | Mantova | xG 1.13-1.75
+2026-09-06 A 1-1 v Cesena | Serie B | Cesena | xG 0.69-1.68
+2026-09-03 A 2-5 v Palermo | Coppa Italia | Palermo
+2026-08-30 H 3-1 v Empoli | Serie B | Mantova | xG 1.28-0.46
+2026-08-22 A 2-1 v Carrarese | Serie B | Carrara
+2026-08-16 A 2-0 v Lazio | Coppa Italia | Rome
+2026-08-09 H 0-1 v Athletic Carpi | Friendlies Clubs | ?
+2026-08-06 A 3-1 v Legnago Salus | Friendlies Clubs | ?
+2026-07-30 H 6-2 v Alcione | Friendlies Clubs | ?
+2026-07-26 H 7-0 v Ambrosiana | Friendlies Clubs | ?
+2026-05-08 A 0-5 v Frosinone | Serie B | Frosinone
+2026-05-01 H 3-2 v Monza | Serie B | Mantova
+2026-04-25 A 3-0 v Sudtirol | Serie B | Bolzano
+2026-04-18 H 0-2 v Avellino | Serie B | Mantova
+Listed home: 10 games, scored 23 (2.30), conceded 14 (1.40), blanks 4, clean sheets 2
+Listed away: 10 games, scored 18 (1.80), conceded 15 (1.50), blanks 1, clean sheets 3
+All: 20 games, scored 41 (2.05), conceded 29 (1.45), blanks 5, clean sheets 5
+
+"Verona" matches several teams. Use id:<number> instead of the name:
+  id:504    Hellas Verona (Italy)
+  id:1707   Virtus Verona (Italy)
+  id:1883   Verona W (Italy)
+  id:1887   Chievo Verona W (Italy)
+  id:15659  Chievo Verona U19 (Italy)
+  id:15686  Verona U19 (Italy)
+  id:24733  Hellas Verona U20 (Italy)
+(retrying Verona using the opponent's country, Italy)
+"Verona" matches several teams. Use id:<number> instead of the name:
+  id:504    Hellas Verona (Italy)
+  id:1707   Virtus Verona (Italy)
+  id:1883   Verona W (Italy)
+  id:1887   Chievo Verona W (Italy)
+  id:15659  Chievo Verona U19 (Italy)
+  id:15686  Verona U19 (Italy)
+  id:24733  Hellas Verona U20 (Italy)
+!! Verona: Ambiguous team name "Verona".
+
+TABLE FOR Mantova
+LEAGUE TABLE Serie B 2026 | 20 teams | 101 games played
+League averages per game: home 1.39, away 1.26, total 2.64
+#   team                   Pts | home P GF-GA  | away P GF-GA  | all P GF-GA
+1   Palermo                 27 |  5  11-4       |  6  14-9       | 11  25-13
+2   Ascoli                  20 |  6   9-4       |  5   8-3       | 11  17-7
+3   Modena                  20 |  5   9-5       |  5   9-5       | 10  18-10
+4   Mantova                 18 |  5   7-7       |  5   8-4       | 10  15-11
+5   Avellino                15 |  6  11-5       |  4   4-5       | 10  15-10
+6   Benevento               15 |  6  10-7       |  4   4-3       | 10  14-10
+7   Hellas Verona           15 |  6  14-6       |  4   5-7       | 10  19-13
+8   Pisa                    15 |  5   9-10      |  5   9-5       | 10  18-15
+9   Padova                  14 |  5   5-5       |  5   5-6       | 10  10-11
+10  Sudtirol                14 |  6   6-3       |  4   5-7       | 10  11-10
+11  Cremonese               12 |  5   5-5       |  5   5-6       | 10  10-11
+12  Cesena                  12 |  5   7-6       |  5   4-8       | 10  11-14
+13  Arezzo                  11 |  5   3-10      |  5   6-9       | 10   9-19
+14  Virtus Entella          10 |  5   5-7       |  5   6-5       | 10  11-12
+15  Carrarese               10 |  5   5-6       |  5   4-7       | 10   9-13
+16  Juve Stabia              9 |  4   4-5       |  6   7-6       | 10  11-11
+17  Vicenza Virtus           9 |  4   5-8       |  6   8-12      | 10  13-20
+18  Empoli                   8 |  5   5-9       |  5   5-8       | 10  10-17
+19  Sampdoria                8 |  4   6-5       |  6   4-13      | 10  10-18
+20  Catanzaro                6 |  4   4-10      |  6   7-12      | 10  11-22
+
+(15 API-Football requests used)
+
+----------------------------------------------------------------------
+MATCHBOOK: skipped (switched off for this run)

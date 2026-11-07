@@ -1,0 +1,68 @@
+MATCH Hradec Kralove v Sigma Olomouc | fetched 2026-11-07 13:29 local
+
+FORM DATA Hradec Kralove v Sigma Olomouc | source API-Football | 2026-11-07 13:29 UTC
+H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
+
+"Hradec Kralove" matches several teams. Use id:<number> instead of the name:
+  id:3723   Hradec Králové (Czech-Republic)
+  id:14495  Hradec Králové II (Czech-Republic)
+  id:14831  Hradec Králové U19 (Czech-Republic)
+  id:21648  Slavia Hradec Králové (Czech-Republic)
+=== Sigma Olomouc (id 2250): last 20 finished games ===
+2026-10-31 H 3-0 v Zbrojovka Brno | Czech Liga | Olomouc | xG 3.22-0.40
+2026-10-24 A 1-1 v Zlin | Czech Liga | Zlín | xG 1.13-0.98
+2026-10-17 H 1-0 v Slovan Liberec | Czech Liga | Olomouc | xG 1.02-1.13
+2026-10-11 A 1-1 v Teplice | Czech Liga | Teplice | xG 1.14-2.12
+2026-10-02 H 4-0 v Žilina | Friendlies Clubs | Olomouc
+2026-09-20 H 0-3 v Sparta Praha | Czech Liga | Olomouc | xG 0.86-1.88
+2026-09-13 A 3-2 v Plzen | Czech Liga | Plzen | xG 0.60-2.25
+2026-09-09 A 1-1 v Prostějov | Cup | Prostejov [PEN, 90-min score shown]
+2026-09-05 H 3-0 v Bohemians 1905 | Czech Liga | Olomouc | xG 1.78-0.42
+2026-08-29 A 0-1 v Baník Ostrava | Czech Liga | Ostrava | xG 0.63-0.24
+2026-08-23 H 3-1 v Pardubice | Czech Liga | Olomouc
+2026-08-15 A 2-1 v Slovácko | Czech Liga | Uherske Hradiste
+2026-08-09 A 2-1 v Artis | Czech Liga | Brno
+2026-08-02 H 2-2 v Mlada Boleslav | Czech Liga | Olomouc
+2026-07-26 A 1-2 v FK Jablonec | Czech Liga | Jablonec nad Nisou
+2026-07-17 H 2-1 v Al Sadd | Friendlies Clubs | ?
+2026-07-13 H 2-0 v Shabab Al Ahli Dubai | Friendlies Clubs | ?
+2026-07-04 H 5-1 v Hanácká | Friendlies Clubs | ?
+2026-07-04 A 2-3 v Prostějov | Friendlies Clubs | ?
+2026-07-04 H 2-1 v Dukla Banská Bystrica | Friendlies Clubs | ?
+Listed home: 11 games, scored 27 (2.45), conceded 9 (0.82), blanks 1, clean sheets 5
+Listed away: 9 games, scored 13 (1.44), conceded 13 (1.44), blanks 1, clean sheets 0
+All: 20 games, scored 40 (2.00), conceded 22 (1.10), blanks 2, clean sheets 5
+
+(retrying Hradec Kralove using the opponent's country, Czech-Republic)
+"Hradec Kralove" matches several teams. Use id:<number> instead of the name:
+  id:3723   Hradec Králové (Czech-Republic)
+  id:14495  Hradec Králové II (Czech-Republic)
+  id:14831  Hradec Králové U19 (Czech-Republic)
+  id:21648  Slavia Hradec Králové (Czech-Republic)
+!! Hradec Kralove: Ambiguous team name "Hradec Kralove".
+
+TABLE FOR Sigma Olomouc
+LEAGUE TABLE Czech Liga 2026 | 16 teams | 103 games played
+League averages per game: home 1.44, away 1.31, total 2.75
+#   team                   Pts | home P GF-GA  | away P GF-GA  | all P GF-GA
+1   Slavia Praha            31 |  7  16-6       |  6  16-1       | 13  32-7
+2   Mlada Boleslav          24 |  6  14-2       |  7   8-13      | 13  22-15
+3   Sigma Olomouc           24 |  6  12-6       |  7  10-9       | 13  22-15
+4   Sparta Praha            23 |  6  16-6       |  7   9-7       | 13  25-13
+5   Slovan Liberec          23 |  5   6-4       |  7   9-4       | 12  15-8
+6   Teplice                 21 |  7  11-11      |  6  10-7       | 13  21-18
+7   FK Jablonec             20 |  7  10-12      |  6   6-6       | 13  16-18
+8   Bohemians 1905          20 |  6   5-1       |  7  10-13      | 13  15-14
+9   Zbrojovka Brno          20 |  7  11-8       |  6   5-11      | 13  16-19
+10  Plzen                   19 |  7  12-12      |  6  16-9       | 13  28-21
+11  Hradec Králové          15 |  7   9-11      |  6   3-7       | 13  12-18
+12  Pardubice               14 |  6   8-8       |  7   7-11      | 13  15-19
+13  Baník Ostrava           11 |  6   3-10      |  6   4-12      | 12   7-22
+14  Artis                   10 |  7   6-17      |  6   8-7       | 13  14-24
+15  Slovácko                 7 |  6   6-10      |  7   6-16      | 13  12-26
+16  Zlin                     3 |  7   3-11      |  6   8-15      | 13  11-26
+
+(15 API-Football requests used)
+
+----------------------------------------------------------------------
+MATCHBOOK: skipped (switched off for this run)
