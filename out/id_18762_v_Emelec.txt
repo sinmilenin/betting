@@ -1,50 +1,8 @@
-MATCH Libertad v Emelec | fetched 2026-11-07 16:30 local
+MATCH id:18762 v Emelec | fetched 2026-11-07 16:32 local
 
-FORM DATA Libertad v Emelec | source API-Football | 2026-11-07 16:30 UTC
+FORM DATA id:18762 v Emelec | source API-Football | 2026-11-07 16:32 UTC
 H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
 
-"Libertad" matches several teams. Use id:<number> instead of the name:
-  id:1179   Libertad Asuncion (Paraguay)
-  id:2856   Libertador FC (Venezuela)
-  id:11056  Libertad U20 (Paraguay)
-  id:11157  Libertad (Argentina)
-  id:15715  Libertad (Bolivia)
-  id:18762  Libertad (Ecuador)
-  id:20328  Los Libertadores (Peru)
-  id:20516  Libertad Limpeño W (Paraguay)
-  id:22224  Libertad San Carlos (Uruguay)
-  id:24528  La Libertad (Argentina)
-  id:25056  Libertad W (Paraguay)
-  id:26689  Libertad de San Patricio (Paraguay)
-  id:28427  Libertad Asuncion W (Paraguay)
-  id:28554  La Libertad (Guatemala)
-=== Emelec (id 1148): last 20 finished games ===
-2026-10-31 H 0-2 v Leones del Norte | Liga Pro | Guayaquil | xG 1.14-1.11
-2026-10-25 H 0-1 v Guayaquil City FC | Liga Pro | Guayaquil
-2026-10-18 A 3-1 v Leones del Norte | Liga Pro | Ibarra
-2026-10-10 A 2-3 v Guayaquil City FC | Liga Pro | Guayaquil | xG 1.52-2.42
-2026-09-20 H 1-2 v Libertad | Liga Pro | Guayaquil
-2026-09-13 A 0-1 v Macara | Liga Pro | Ambato
-2026-09-08 H 1-0 v Manta FC | Liga Pro | Guayaquil | xG 1.26-0.49
-2026-09-04 A 1-1 v Libertad | Liga Pro | Loja | xG 0.97-1.89
-2026-08-30 H 2-1 v Leones del Norte | Liga Pro | Guayaquil
-2026-08-24 A 0-2 v LDU de Quito | Liga Pro | Quito
-2026-08-16 H 2-1 v Tecnico Universitario | Liga Pro | Guayaquil
-2026-08-10 A 0-0 v Guayaquil City FC | Liga Pro | Guayaquil
-2026-08-02 H 0-2 v Aucas | Liga Pro | Guayaquil
-2026-07-28 A 1-2 v Deportivo Cuenca | Liga Pro | Cuenca
-2026-07-24 H 1-1 v Mushuc Runa SC | Liga Pro | Guayaquil
-2026-07-20 A 1-6 v Independiente del Valle | Liga Pro | Quito
-2026-07-17 A 2-0 v Orense SC | Liga Pro | Machala
-2026-07-12 H 0-0 v Barcelona SC | Liga Pro | Guayaquil
-2026-07-05 A 1-1 v Delfin SC | Liga Pro | Manta
-2026-05-31 H 1-0 v Universidad Catolica | Liga Pro | Guayaquil
-Listed home: 10 games, scored 8 (0.80), conceded 10 (1.00), blanks 4, clean sheets 3
-Listed away: 10 games, scored 11 (1.10), conceded 17 (1.70), blanks 3, clean sheets 2
-All: 20 games, scored 19 (0.95), conceded 27 (1.35), blanks 7, clean sheets 5
-
-(retrying Libertad using the opponent's country, Ecuador)
-NOTE: "Libertad" matched 3 teams; picked Libertad (Ecuador) because the opponent is from Ecuador. Others: Libertad (Argentina), Libertad (Bolivia)
 === Libertad (id 18762): last 20 finished games ===
 2026-11-01 A 0-0 v Guayaquil City FC | Liga Pro | Guayaquil | xG 0.49-0.65
 2026-10-25 A 1-4 v Leones del Norte | Liga Pro | Atuntaqui | xG 2.04-2.34
@@ -70,7 +28,32 @@ Listed home: 10 games, scored 19 (1.90), conceded 8 (0.80), blanks 0, clean shee
 Listed away: 10 games, scored 9 (0.90), conceded 11 (1.10), blanks 4, clean sheets 4
 All: 20 games, scored 28 (1.40), conceded 19 (0.95), blanks 4, clean sheets 10
 
-TABLE FOR Emelec
+=== Emelec (id 1148): last 20 finished games ===
+2026-10-31 H 0-2 v Leones del Norte | Liga Pro | Guayaquil | xG 1.14-1.11
+2026-10-25 H 0-1 v Guayaquil City FC | Liga Pro | Guayaquil
+2026-10-18 A 3-1 v Leones del Norte | Liga Pro | Ibarra
+2026-10-10 A 2-3 v Guayaquil City FC | Liga Pro | Guayaquil | xG 1.52-2.42
+2026-09-20 H 1-2 v Libertad | Liga Pro | Guayaquil
+2026-09-13 A 0-1 v Macara | Liga Pro | Ambato
+2026-09-08 H 1-0 v Manta FC | Liga Pro | Guayaquil | xG 1.26-0.49
+2026-09-04 A 1-1 v Libertad | Liga Pro | Loja | xG 0.97-1.89
+2026-08-30 H 2-1 v Leones del Norte | Liga Pro | Guayaquil
+2026-08-24 A 0-2 v LDU de Quito | Liga Pro | Quito
+2026-08-16 H 2-1 v Tecnico Universitario | Liga Pro | Guayaquil
+2026-08-10 A 0-0 v Guayaquil City FC | Liga Pro | Guayaquil
+2026-08-02 H 0-2 v Aucas | Liga Pro | Guayaquil
+2026-07-28 A 1-2 v Deportivo Cuenca | Liga Pro | Cuenca
+2026-07-24 H 1-1 v Mushuc Runa SC | Liga Pro | Guayaquil
+2026-07-20 A 1-6 v Independiente del Valle | Liga Pro | Quito
+2026-07-17 A 2-0 v Orense SC | Liga Pro | Machala
+2026-07-12 H 0-0 v Barcelona SC | Liga Pro | Guayaquil
+2026-07-05 A 1-1 v Delfin SC | Liga Pro | Manta
+2026-05-31 H 1-0 v Universidad Catolica | Liga Pro | Guayaquil
+Listed home: 10 games, scored 8 (0.80), conceded 10 (1.00), blanks 4, clean sheets 3
+Listed away: 10 games, scored 11 (1.10), conceded 17 (1.70), blanks 3, clean sheets 2
+All: 20 games, scored 19 (0.95), conceded 27 (1.35), blanks 7, clean sheets 5
+
+TABLE FOR Libertad
 LEAGUE TABLE Liga Pro 2026 | 32 teams | 519 games played
 League averages per game: home 1.31, away 0.98, total 2.30
 #   team                   Pts | home P GF-GA  | away P GF-GA  | all P GF-GA
@@ -107,9 +90,9 @@ League averages per game: home 1.31, away 0.98, total 2.30
 15  Tecnico Universitario   37 | 17  22-22      | 18  12-25      | 35  34-47 [Liga Pro: Relegation Group]
 16  Manta FC                30 | 18  10-17      | 17  15-34      | 35  25-51 [Liga Pro: Relegation Group]
 
-(Libertad: same table as Emelec, shown above)
+(Emelec: same table as Libertad, shown above)
 
-(26 API-Football requests used)
+(25 API-Football requests used)
 
 ----------------------------------------------------------------------
 MATCHBOOK: skipped (switched off for this run)
