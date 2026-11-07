@@ -1,4 +1,5 @@
-# scan 07.11 10:42 (Ljubljana) retry: ambiguous names resolved by id
-id:1324 v id:745 | n=20 | xg=10
-id:171 v id:181 | n=20 | xg=10
-Wrexham v id:39 | n=20 | xg=10
+# scan 07.11 11:26 (Ljubljana): new market-only candidates
+Mashal v Surkhon | n=20 | xg=10
+Csikszereda v Universitatea Cluj | n=20 | xg=10
+Burgos v Celta Vigo B | n=20 | xg=10
+Samsunspor v Konyaspor | n=20 | xg=10
