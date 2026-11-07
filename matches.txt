@@ -1,6 +1,4 @@
-# scan 07.11 18:11: new fixtures for blended test
-Ironi Tiberias v Beitar Jerusalem | n=20 | xg=10
-Talleres Cordoba v Estudiantes L.P. | n=20 | xg=10
-Antwerp v Lommel | n=20 | xg=10
-La Louviere v Cercle Brugge | n=20 | xg=10
-Excelsior v Go Ahead Eagles | n=20 | xg=10
+# scan 07.11 18:11 retry: Lommel id:259, RAAL id:5902, Estudiantes L.P. id:450
+Antwerp v id:259 | n=20 | xg=10
+id:5902 v Cercle Brugge | n=20 | xg=10
+Talleres Cordoba v id:450 | n=20 | xg=10
