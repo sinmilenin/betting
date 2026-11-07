@@ -1,15 +1,5 @@
-RUN 2026-11-07 09:43 local | 8 match(es)
-FCI Tallinn v Nomme Kalju -> out/FCI_Tallinn_v_Nomme_Kalju.txt
-Vanspor v Sivasspor -> out/Vanspor_v_Sivasspor.txt
-Kudrivka v Chornomorets -> out/Kudrivka_v_Chornomorets.txt
-Ordabasy v Kaisar -> out/Ordabasy_v_Kaisar.txt
-Osnabruck v Kaiserslautern -> out/Osnabruck_v_Kaiserslautern.txt
-    !! Osnabruck: Ambiguous team name "Osnabruck".
-    !! Kaiserslautern: Ambiguous team name "Kaiserslautern".
-Nurnberg v Darmstadt -> out/Nurnberg_v_Darmstadt.txt
-    !! Nurnberg: Ambiguous team name "Nurnberg".
-    !! Darmstadt: Ambiguous team name "Darmstadt".
-Holstein Kiel v Arminia Bielefeld -> out/Holstein_Kiel_v_Arminia_Bielefeld.txt
-Wrexham v Wolves -> out/Wrexham_v_Wolves.txt
-    !! Wolves: Ambiguous team name "Wolves".
-Requests used: API-Football 148, Matchbook 0
+RUN 2026-11-07 09:44 local | 3 match(es)
+id:1324 v id:745 -> out/id_1324_v_id_745.txt
+id:171 v id:181 -> out/id_171_v_id_181.txt
+Wrexham v id:39 -> out/Wrexham_v_id_39.txt
+Requests used: API-Football 74, Matchbook 0
