@@ -1,6 +1,2 @@
-# scan 07.11 06:56 (Ljubljana)
-Guangdong GZ-Power v Nanjing City | n=20 | xg=10
-Kashiwa Reysol v Kawasaki Frontale | n=20 | xg=10
-Melbourne City v Western Sydney Wanderers | n=20 | xg=10
-Qingdao Red Lions v Chengdu Rongcheng II | n=20 | xg=10
-Haimen Codion v Ganzhou Ruishi | n=20 | xg=10
+# scan 07.11 06:56 (Ljubljana) retry: Guangdong GZ-Power = Guangzhou E-Power (hyphen not accepted)
+Guangzhou E Power v Nanjing City | n=20 | xg=10
