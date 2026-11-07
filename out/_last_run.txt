@@ -1,4 +1,4 @@
-RUN 2026-11-07 08:14 local | 2 match(es)
-id:3588 v Kocaelispor -> out/id_3588_v_Kocaelispor.txt
-id:4744 v Leixoes -> out/id_4744_v_Leixoes.txt
-Requests used: API-Football 51, Matchbook 0
+RUN 2026-11-07 08:59 local | 1 match(es)
+Inter Kashi v Sporting Club Delhi -> out/Inter_Kashi_v_Sporting_Club_Delhi.txt
+    !! Sporting Club Delhi: No team found for "Sporting Club Delhi".
+Requests used: API-Football 14, Matchbook 0
