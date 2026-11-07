@@ -207,5 +207,27 @@
     "lay": 16.0,
     "stake": 3,
     "created": "2026-11-07T14:36:11+01:00"
+  },
+  {
+    "id": "2026-11-07_oxford-utd-stevenage_2-2",
+    "date": "2026-11-07",
+    "ko": "16:00",
+    "match": "Oxford Utd v Stevenage",
+    "comp": "United Kingdom, English FA Cup",
+    "cell": "2-2",
+    "lay": 17.5,
+    "stake": 3,
+    "created": "2026-11-07T15:22:50+01:00"
+  },
+  {
+    "id": "2026-11-07_scarborough-athletic-buxton_0-1",
+    "date": "2026-11-07",
+    "ko": "16:00",
+    "match": "Scarborough Athletic v Buxton",
+    "comp": "United Kingdom, English National League North",
+    "cell": "0-1",
+    "lay": 14,
+    "stake": 3,
+    "created": "2026-11-07T15:22:50+01:00"
   }
 ]
