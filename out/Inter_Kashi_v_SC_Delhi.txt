@@ -1,6 +1,6 @@
-MATCH Inter Kashi v Sporting Club Delhi | fetched 2026-11-07 08:59 local
+MATCH Inter Kashi v SC Delhi | fetched 2026-11-07 09:00 local
 
-FORM DATA Inter Kashi v Sporting Club Delhi | source API-Football | 2026-11-07 08:59 UTC
+FORM DATA Inter Kashi v SC Delhi | source API-Football | 2026-11-07 09:00 UTC
 H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
 
 === Inter Kashi (id 22595): last 20 finished games ===
@@ -28,7 +28,30 @@ Listed home: 9 games, scored 7 (0.78), conceded 19 (2.11), blanks 2, clean sheet
 Listed away: 11 games, scored 9 (0.82), conceded 15 (1.36), blanks 6, clean sheets 3
 All: 20 games, scored 16 (0.80), conceded 34 (1.70), blanks 8, clean sheets 4
 
-!! Sporting Club Delhi: No team found for "Sporting Club Delhi".
+=== SC Delhi (id 26963): last 20 finished games ===
+2026-11-01 A 3-2 v Mumbai City | Indian Super League | Mumbai | xG 2.60-2.67
+2026-10-28 A 1-1 v Goa | Indian Super League | Margao | xG 0.74-2.01
+2026-10-16 H 1-2 v ATK Mohun Bagan | Indian Super League | New Delhi | xG 1.17-1.84
+2026-10-10 A 2-3 v Bengaluru | Indian Super League | Bangalore | xG 1.58-4.02
+2026-05-21 A 1-2 v ATK Mohun Bagan | Indian Super League | Kolkata
+2026-05-17 H 0-0 v Inter Kashi | Indian Super League | New Delhi | xG 0.63-2.18
+2026-05-08 H 1-2 v Odisha | Indian Super League | New Delhi
+2026-05-02 H 0-0 v Minerva Punjab | Indian Super League | New Delhi
+2026-04-26 H 2-2 v Mohammedan | Indian Super League | New Delhi | xG 2.43-1.11
+2026-04-17 A 0-1 v Chennaiyin | Indian Super League | Chennai | xG 0.73-0.64
+2026-04-10 A 3-0 v NorthEast United | Indian Super League | Guwahati
+2026-04-05 H 2-0 v Kerala Blasters | Indian Super League | New Delhi
+2026-03-19 H 1-1 v Jamshedpur | Indian Super League | New Delhi
+2026-03-08 A 2-2 v Mumbai City | Indian Super League | Mumbai
+2026-02-26 A 0-1 v Goa | Indian Super League | Margao
+2026-02-21 A 1-4 v East Bengal II | Indian Super League | Kolkata
+2026-02-15 A 0-2 v Bengaluru | Indian Super League | Bangalore
+2026-02-07 A 0-1 v Jamshedpur | Friendlies Clubs | ?
+2025-11-06 A 2-2 v Rajasthan United | AIFF Super Cup | Bambolim
+2025-11-03 A 0-3 v Kerala Blasters | AIFF Super Cup | Bambolim
+Listed home: 7 games, scored 7 (1.00), conceded 7 (1.00), blanks 2, clean sheets 3
+Listed away: 13 games, scored 15 (1.15), conceded 24 (1.85), blanks 5, clean sheets 1
+All: 20 games, scored 22 (1.10), conceded 31 (1.55), blanks 7, clean sheets 4
 
 TABLE FOR Inter Kashi
 LEAGUE TABLE Indian Super League 2026 | 13 teams | 26 games played
@@ -48,7 +71,9 @@ League averages per game: home 1.27, away 1.46, total 2.73
 12  Chennaiyin               2 |  1   0-0       |  3   1-4       |  4   1-4
 13  Inter Kashi              1 |  4   3-10      |  0   0-0       |  4   3-10
 
-(14 API-Football requests used)
+(SC Delhi: same table as Inter Kashi, shown above)
+
+(25 API-Football requests used)
 
 ----------------------------------------------------------------------
 MATCHBOOK: skipped (switched off for this run)

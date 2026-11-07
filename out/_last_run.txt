@@ -1,4 +1,3 @@
-RUN 2026-11-07 08:59 local | 1 match(es)
-Inter Kashi v Sporting Club Delhi -> out/Inter_Kashi_v_Sporting_Club_Delhi.txt
-    !! Sporting Club Delhi: No team found for "Sporting Club Delhi".
-Requests used: API-Football 14, Matchbook 0
+RUN 2026-11-07 09:00 local | 1 match(es)
+Inter Kashi v SC Delhi -> out/Inter_Kashi_v_SC_Delhi.txt
+Requests used: API-Football 25, Matchbook 0
