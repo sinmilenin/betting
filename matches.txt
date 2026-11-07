@@ -1,21 +1,7 @@
-# scan 07.11 07:41 (Ljubljana) top-20 run (regular fixtures reuse 3d1039c)
-Leeds v Tottenham | n=20 | xg=10
-Arsenal v Hull City | n=20 | xg=10
-Mainz v Bayern Munich | n=20 | xg=10
-Fulham v Newcastle | n=20 | xg=10
-Cagliari v Frosinone | n=20 | xg=10
-RB Leipzig v Augsburg | n=20 | xg=10
-St Johnstone v Dundee | n=20 | xg=10
-Borussia Dortmund v Elversberg | n=20 | xg=10
-Torino v Lecce | n=20 | xg=10
-Preston v Southampton | n=20 | xg=10
-Birmingham v Swansea | n=20 | xg=10
-Bristol City v Norwich | n=20 | xg=10
-Watford v Middlesbrough | n=20 | xg=10
-Portsmouth v Stoke | n=20 | xg=10
-Malaga v Racing Santander | n=20 | xg=10
-Paderborn v Eintracht Frankfurt | n=20 | xg=10
-Perth Glory v Newcastle Jets | n=20 | xg=10
-Blackburn v West Ham | n=20 | xg=10
-QPR v Lincoln | n=20 | xg=10
-Cardiff v Burnley | n=20 | xg=10
+# scan 07.11 07:41 (Ljubljana) top-20 retry: Arsenal resolved wrong (id 4403), Mainz/Augsburg/Elversberg/Stoke/Paderborn ambiguous
+id:42 v Hull City | n=20 | xg=10
+id:164 v id:157 | n=20 | xg=10
+RB Leipzig v id:170 | n=20 | xg=10
+Borussia Dortmund v SV Elversberg | n=20 | xg=10
+Portsmouth v Stoke City | n=20 | xg=10
+SC Paderborn 07 v Eintracht Frankfurt | n=20 | xg=10
