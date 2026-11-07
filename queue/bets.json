@@ -53,5 +53,60 @@
     "lay": 9.6,
     "stake": 3,
     "created": "2026-11-07T11:35:20+01:00"
+  },
+  {
+    "id": "2026-11-07_chaves-penafiel_1-0",
+    "date": "2026-11-07",
+    "ko": "15:00",
+    "match": "Chaves v Penafiel",
+    "comp": "Portugal, Portuguese Segunda Liga",
+    "cell": "1-0",
+    "lay": 9.8,
+    "stake": 3,
+    "created": "2026-11-07T12:20:27+01:00"
+  },
+  {
+    "id": "2026-11-07_padova-empoli_2-2",
+    "date": "2026-11-07",
+    "ko": "15:00",
+    "match": "Padova v Empoli",
+    "comp": "Italy, Italian Serie B",
+    "cell": "2-2",
+    "lay": 18.5,
+    "stake": 3,
+    "created": "2026-11-07T12:20:27+01:00"
+  },
+  {
+    "id": "2026-11-07_cesena-catanzaro_0-1",
+    "date": "2026-11-07",
+    "ko": "15:00",
+    "match": "Cesena v Catanzaro",
+    "comp": "Italy, Italian Serie B",
+    "cell": "0-1",
+    "lay": 16.0,
+    "stake": 3,
+    "created": "2026-11-07T12:20:27+01:00"
+  },
+  {
+    "id": "2026-11-07_cesena-catanzaro_2-2",
+    "date": "2026-11-07",
+    "ko": "15:00",
+    "match": "Cesena v Catanzaro",
+    "comp": "Italy, Italian Serie B",
+    "cell": "2-2",
+    "lay": 15.5,
+    "stake": 3,
+    "created": "2026-11-07T12:20:27+01:00"
+  },
+  {
+    "id": "2026-11-07_hillerod-fodbold-kolding-if_2-2",
+    "date": "2026-11-07",
+    "ko": "13:00",
+    "match": "Hillerod Fodbold v Kolding IF",
+    "comp": "Denmark, Danish 1st Division",
+    "cell": "2-2",
+    "lay": 16.0,
+    "stake": 3,
+    "created": "2026-11-07T12:20:27+01:00"
   }
 ]
