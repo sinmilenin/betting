@@ -1,2 +1,9 @@
-# scan 07.11 09:56 (Ljubljana) retry: Sporting Club Delhi not found, using SC Delhi
-Inter Kashi v SC Delhi | n=20 | xg=10
+# scan 07.11 10:42 (Ljubljana)
+FCI Tallinn v Nomme Kalju | n=20 | xg=10
+Vanspor v Sivasspor | n=20 | xg=10
+Kudrivka v Chornomorets | n=20 | xg=10
+Ordabasy v Kaisar | n=20 | xg=10
+Osnabruck v Kaiserslautern | n=20 | xg=10
+Nurnberg v Darmstadt | n=20 | xg=10
+Holstein Kiel v Arminia Bielefeld | n=20 | xg=10
+Wrexham v Wolves | n=20 | xg=10
