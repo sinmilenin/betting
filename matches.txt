@@ -1,4 +1,4 @@
-# scan 07.11 06:11 (Ljubljana)
-Avispa Fukuoka v V-Varen Nagasaki | n=20 | xg=10
-FC Tokyo v Kashima Antlers | n=20 | xg=10
-Ningbo Professional v Jiangxi Dingnan United | n=20 | xg=10
+# scan 07.11 06:11 (Ljubljana) retry: Nagasaki hyphen, Kashima and Jiangxi not found
+Avispa Fukuoka v Nagasaki | n=20 | xg=10
+FC Tokyo v Kashima | n=20 | xg=10
+Ningbo Professional v Jiangxi | n=20 | xg=10
