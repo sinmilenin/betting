@@ -1,0 +1,72 @@
+MATCH Antwerp v Lommel | fetched 2026-11-07 17:14 local
+
+FORM DATA Antwerp v Lommel | source API-Football | 2026-11-07 17:14 UTC
+H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
+
+=== Antwerp (id 740): last 20 finished games ===
+2026-11-01 A 1-2 v Cercle Brugge | Jupiler Pro League | Bruges | xG 2.17-0.80
+2026-10-24 H 3-0 v Charleroi | Jupiler Pro League | Deurne | xG 1.45-1.87
+2026-10-17 A 1-0 v Heist | Cup | ?
+2026-10-11 A 1-5 v KVC Westerlo | Jupiler Pro League | Westerlo | xG 0.92-2.28
+2026-09-20 H 0-2 v Union St. Gilloise | Jupiler Pro League | Deurne | xG 0.41-3.34
+2026-09-13 A 1-3 v Club Brugge KV | Jupiler Pro League | Bruges | xG 2.09-2.94
+2026-09-05 A 0-1 v Standard Liege | Jupiler Pro League | Liege | xG 1.02-3.72
+2026-08-30 H 1-4 v St. Truiden | Jupiler Pro League | Deurne | xG 0.77-3.38
+2026-08-22 H 4-4 v Genk | Jupiler Pro League | Deurne | xG 1.86-1.30
+2026-08-15 A 3-0 v Kortrijk | Jupiler Pro League | Kortrijk | xG 1.19-0.77
+2026-08-09 H 2-1 v SK Beveren | Jupiler Pro League | Deurne
+2026-08-02 A 1-2 v Leyton Orient | Friendlies Clubs | ?
+2026-08-01 A 0-1 v Millwall | Friendlies Clubs | ?
+2026-07-25 H 1-1 v K. Lierse S.K. | Friendlies Clubs | ?
+2026-07-24 H 3-0 v Olympiakos Piraeus | Friendlies Clubs | ?
+2026-07-19 A 2-0 v Sporting Hasselt | Friendlies Clubs | ?
+2026-07-11 A 0-1 v VfL Bochum | Friendlies Clubs | ?
+2026-07-04 A 1-1 v PSV Eindhoven | Friendlies Clubs | ?
+2026-05-23 H 2-0 v KVC Westerlo | Jupiler Pro League | Deurne
+2026-05-19 A 0-0 v Genk | Jupiler Pro League | Genk
+Listed home: 8 games, scored 16 (2.00), conceded 12 (1.50), blanks 1, clean sheets 3
+Listed away: 12 games, scored 11 (0.92), conceded 16 (1.33), blanks 4, clean sheets 4
+All: 20 games, scored 27 (1.35), conceded 28 (1.40), blanks 5, clean sheets 7
+
+"Lommel" matches several teams. Use id:<number> instead of the name:
+  id:259    Lommel United (Belgium)
+  id:14211  Verbroedering Lommel (Belgium)
+  id:19514  Lutlommel (Belgium)
+  id:19585  Lommel U21 (Belgium)
+  id:24389  Lommel II (Belgium)
+(retrying Lommel using the opponent's country, Belgium)
+"Lommel" matches several teams. Use id:<number> instead of the name:
+  id:259    Lommel United (Belgium)
+  id:14211  Verbroedering Lommel (Belgium)
+  id:19514  Lutlommel (Belgium)
+  id:19585  Lommel U21 (Belgium)
+  id:24389  Lommel II (Belgium)
+!! Lommel: Ambiguous team name "Lommel".
+
+TABLE FOR Antwerp
+LEAGUE TABLE Jupiler Pro League 2026 | 18 teams | 91 games played
+League averages per game: home 1.89, away 1.34, total 3.23
+#   team                   Pts | home P GF-GA  | away P GF-GA  | all P GF-GA
+1   Club Brugge KV          27 |  5  13-3       |  5  13-5       | 10  26-8
+2   Union St. Gilloise      26 |  5  14-3       |  5  15-4       | 10  29-7
+3   Gent                    25 |  5  11-2       |  5   8-4       | 10  19-6
+4   Charleroi               24 |  5  15-8       |  5   6-4       | 10  21-12
+5   Anderlecht              19 |  5  10-2       |  5   3-9       | 10  13-11
+6   Genk                    15 |  5  13-4       |  5   5-10      | 10  18-14
+7   Standard Liege          15 |  6   9-4       |  5   9-12      | 11  18-16
+8   Lommel United           15 |  5   6-2       |  5   7-9       | 10  13-11
+9   KVC Westerlo            14 |  5  16-14      |  5   9-11      | 10  25-25
+10  KV Mechelen             12 |  5   8-11      |  5   5-7       | 10  13-18
+11  Zulte Waregem           11 |  5   8-8       |  5   4-8       | 10  12-16
+12  Antwerp                 10 |  5  10-11      |  5   6-11      | 10  16-22
+13  SK Beveren              10 |  5   8-5       |  6   5-18      | 11  13-23
+14  OH Leuven                9 |  5   6-8       |  5   4-9       | 10  10-17
+15  St. Truiden              8 |  5   6-8       |  5  12-13      | 10  18-21
+16  RAAL La Louvière         7 |  5  10-8       |  5   3-15      | 10  13-23
+17  Cercle Brugge            6 |  5   6-10      |  5   7-12      | 10  13-22
+18  Kortrijk                 4 |  5   3-11      |  5   1-11      | 10   4-22
+
+(15 API-Football requests used)
+
+----------------------------------------------------------------------
+MATCHBOOK: skipped (switched off for this run)

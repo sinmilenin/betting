@@ -1,3 +1,10 @@
-RUN 2026-11-07 16:32 local | 1 match(es)
-id:18762 v Emelec -> out/id_18762_v_Emelec.txt
-Requests used: API-Football 25, Matchbook 0
+RUN 2026-11-07 17:14 local | 5 match(es)
+Ironi Tiberias v Beitar Jerusalem -> out/Ironi_Tiberias_v_Beitar_Jerusalem.txt
+Talleres Cordoba v Estudiantes L.P. -> out/Talleres_Cordoba_v_Estudiantes_L_P.txt
+    !! Estudiantes L.P.: API-Football error: {"search": "The Search field may only contain alpha-numeric characters and spaces."}
+Antwerp v Lommel -> out/Antwerp_v_Lommel.txt
+    !! Lommel: Ambiguous team name "Lommel".
+La Louviere v Cercle Brugge -> out/La_Louviere_v_Cercle_Brugge.txt
+    !! La Louviere: Ambiguous team name "La Louviere".
+Excelsior v Go Ahead Eagles -> out/Excelsior_v_Go_Ahead_Eagles.txt
+Requests used: API-Football 93, Matchbook 0
