@@ -1,6 +1,6 @@
-MATCH Antwerp v Lommel | fetched 2026-11-07 17:14 local
+MATCH Antwerp v id:259 | fetched 2026-11-07 17:15 local
 
-FORM DATA Antwerp v Lommel | source API-Football | 2026-11-07 17:14 UTC
+FORM DATA Antwerp v id:259 | source API-Football | 2026-11-07 17:15 UTC
 H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
 
 === Antwerp (id 740): last 20 finished games ===
@@ -28,20 +28,30 @@ Listed home: 8 games, scored 16 (2.00), conceded 12 (1.50), blanks 1, clean shee
 Listed away: 12 games, scored 11 (0.92), conceded 16 (1.33), blanks 4, clean sheets 4
 All: 20 games, scored 27 (1.35), conceded 28 (1.40), blanks 5, clean sheets 7
 
-"Lommel" matches several teams. Use id:<number> instead of the name:
-  id:259    Lommel United (Belgium)
-  id:14211  Verbroedering Lommel (Belgium)
-  id:19514  Lutlommel (Belgium)
-  id:19585  Lommel U21 (Belgium)
-  id:24389  Lommel II (Belgium)
-(retrying Lommel using the opponent's country, Belgium)
-"Lommel" matches several teams. Use id:<number> instead of the name:
-  id:259    Lommel United (Belgium)
-  id:14211  Verbroedering Lommel (Belgium)
-  id:19514  Lutlommel (Belgium)
-  id:19585  Lommel U21 (Belgium)
-  id:24389  Lommel II (Belgium)
-!! Lommel: Ambiguous team name "Lommel".
+=== Lommel United (id 259): last 20 finished games ===
+2026-11-01 H 2-0 v Gent | Jupiler Pro League | Lommel | xG 1.34-1.34
+2026-10-24 A 2-2 v OH Leuven | Jupiler Pro League | Heverlee | xG 0.97-3.43
+2026-10-18 A 1-4 v St. Truiden | Cup | ?
+2026-10-09 A 3-1 v SK Beveren | Jupiler Pro League | Beveren | xG 1.28-0.75
+2026-09-26 A 2-0 v Diksmuide | Cup | ?
+2026-09-19 H 0-0 v KV Mechelen | Jupiler Pro League | Lommel | xG 0.48-1.31
+2026-09-12 A 0-5 v Union St. Gilloise | Jupiler Pro League | Brussels | xG 0.65-3.27
+2026-09-04 H 0-1 v Club Brugge KV | Jupiler Pro League | Lommel | xG 0.75-0.79
+2026-08-29 A 1-0 v Cercle Brugge | Jupiler Pro League | Bruges | xG 1.63-1.25
+2026-08-23 H 4-0 v KVC Westerlo | Jupiler Pro League | Lommel | xG 1.17-0.65
+2026-08-16 H 0-1 v Charleroi | Jupiler Pro League | Lommel
+2026-08-08 A 1-1 v St. Truiden | Jupiler Pro League | Sint- Truiden
+2026-07-24 H 0-4 v ADO Den Haag | Friendlies Clubs | ?
+2026-07-18 H 2-1 v GO Ahead Eagles | Friendlies Clubs | ?
+2026-07-15 A 1-5 v OH Leuven | Friendlies Clubs | ?
+2026-07-11 A 1-1 v Cercle Brugge | Friendlies Clubs | ?
+2026-07-07 A 4-2 v Kryvbas KR | Friendlies Clubs | ?
+2026-05-23 A 0-0 v Dender | Jupiler Pro League | Denderleeuw
+2026-05-17 H 3-2 v Dender | Jupiler Pro League | Lommel
+2026-05-09 A 3-1 v Beerschot VA | Jupiler Pro League | Antwerp
+Listed home: 8 games, scored 11 (1.38), conceded 9 (1.12), blanks 4, clean sheets 3
+Listed away: 12 games, scored 19 (1.58), conceded 22 (1.83), blanks 2, clean sheets 3
+All: 20 games, scored 30 (1.50), conceded 31 (1.55), blanks 6, clean sheets 6
 
 TABLE FOR Antwerp
 LEAGUE TABLE Jupiler Pro League 2026 | 18 teams | 91 games played
@@ -66,7 +76,9 @@ League averages per game: home 1.89, away 1.34, total 3.23
 17  Cercle Brugge            6 |  5   6-10      |  5   7-12      | 10  13-22
 18  Kortrijk                 4 |  5   3-11      |  5   1-11      | 10   4-22
 
-(15 API-Football requests used)
+(Lommel United: same table as Antwerp, shown above)
+
+(25 API-Football requests used)
 
 ----------------------------------------------------------------------
 MATCHBOOK: skipped (switched off for this run)
