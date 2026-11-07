@@ -1,3 +1,21 @@
-# scan 07.11 12:56 retry: Wehen senior name, Trencin by id
-SV Wehen v Havelse | n=20 | xg=10
-Slovan Bratislava v id:655 | n=20 | xg=10
+# scan 07.11 13:40 (top-20 run): new fixtures with market-only candidates
+Juve Stabia v Arezzo | n=20 | xg=10
+Guiseley v Sutton United | n=20 | xg=10
+Hampton & Richmond v Maidenhead United | n=20 | xg=10
+Clyde v Spartans | n=20 | xg=10
+Colchester v Worcester City | n=20 | xg=10
+Volos v Kifisia | n=20 | xg=10
+Carlisle v Salford City | n=20 | xg=10
+Gillingham v Barrow | n=20 | xg=10
+Hornchurch v Blackpool | n=20 | xg=10
+Scarborough Athletic v Buxton | n=20 | xg=10
+Bromley v Rotherham | n=20 | xg=10
+Fleetwood Town v Rochdale | n=20 | xg=10
+Dagenham & Redbridge v Billericay Town | n=20 | xg=10
+Barnsley v Aldershot Town | n=20 | xg=10
+Chesterfield v Yeovil | n=20 | xg=10
+York City v Northampton | n=20 | xg=10
+MK Dons v Swindon Town | n=20 | xg=10
+Dundee Utd v Motherwell | n=20 | xg=10
+Cadiz v Oviedo | n=20 | xg=10
+Nacional v Academico Viseu | n=20 | xg=10
