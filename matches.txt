@@ -1,3 +1,2 @@
-# scan 07.11 09:12 (Ljubljana) retry: Eyupspor and Felgueiras ambiguous, using ids
-id:3588 v Kocaelispor | n=20 | xg=10
-id:4744 v Leixoes | n=20 | xg=10
+# scan 07.11 09:56 (Ljubljana)
+Inter Kashi v Sporting Club Delhi | n=20 | xg=10
