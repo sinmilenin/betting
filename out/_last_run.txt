@@ -1,4 +1,8 @@
-RUN 2026-11-06 20:00 local | 2 match(es)
-Tigre v Sarmiento Junin -> out/Tigre_v_Sarmiento_Junin.txt
-Operario Ferroviario v Sport Recife -> out/Operario_Ferroviario_v_Sport_Recife.txt
-Requests used: API-Football 51, Matchbook 0
+RUN 2026-11-07 05:12 local | 3 match(es)
+Avispa Fukuoka v V-Varen Nagasaki -> out/Avispa_Fukuoka_v_V_Varen_Nagasaki.txt
+    !! V-Varen Nagasaki: API-Football error: {"search": "The Search field may only contain alpha-numeric characters and spaces."}
+FC Tokyo v Kashima Antlers -> out/FC_Tokyo_v_Kashima_Antlers.txt
+    !! Kashima Antlers: No team found for "Kashima Antlers".
+Ningbo Professional v Jiangxi Dingnan United -> out/Ningbo_Professional_v_Jiangxi_Dingnan_Un.txt
+    !! Jiangxi Dingnan United: No team found for "Jiangxi Dingnan United".
+Requests used: API-Football 41, Matchbook 0
