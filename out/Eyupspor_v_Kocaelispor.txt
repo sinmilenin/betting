@@ -1,0 +1,66 @@
+MATCH Eyupspor v Kocaelispor | fetched 2026-11-07 08:13 local
+
+FORM DATA Eyupspor v Kocaelispor | source API-Football | 2026-11-07 08:13 UTC
+H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
+
+"Eyupspor" matches several teams. Use id:<number> instead of the name:
+  id:3588   Eyüpspor (Turkey)
+  id:28244  Eyupspor U19 (Turkey)
+=== Kocaelispor (id 7411): last 20 finished games ===
+2026-10-31 H 0-0 v Rizespor | Süper Lig | Kocaeli | xG 0.62-1.17
+2026-10-27 H 3-0 v Mazıdağı Fosfatspor | Türkiye Kupası | ?
+2026-10-23 A 2-1 v Alanyaspor | Süper Lig | Alanya | xG 1.69-0.79
+2026-10-18 H 1-2 v Göztepe | Süper Lig | Kocaeli | xG 1.61-0.83
+2026-10-11 A 1-2 v Beşiktaş | Süper Lig | Istanbul | xG 1.65-2.21
+2026-09-19 H 2-0 v Gaziantep FK | Süper Lig | Kocaeli | xG 1.30-1.03
+2026-09-13 A 0-1 v Galatasaray | Süper Lig | Istanbul | xG 0.82-2.26
+2026-09-06 H 1-0 v Samsunspor | Süper Lig | Kocaeli | xG 1.59-1.74
+2026-08-29 A 2-1 v Konyaspor | Süper Lig | Konya | xG 0.76-0.85
+2026-08-24 H 2-0 v Amed | Süper Lig | Kocaeli | xG 1.31-0.60
+2026-08-16 A 0-2 v Başakşehir | Süper Lig | Istanbul
+2026-05-17 A 0-1 v Antalyaspor | Süper Lig | Antalya
+2026-05-09 H 0-1 v Fatih Karagümrük | Süper Lig | Izmit
+2026-05-03 A 1-1 v Kasımpaşa | Süper Lig | Istanbul
+2026-04-26 A 0-1 v Gençlerbirliği S.K. | Süper Lig | Ankara
+2026-04-18 H 1-1 v Göztepe | Süper Lig | Izmit
+2026-04-12 A 1-1 v Galatasaray | Süper Lig | Istanbul
+2026-04-06 H 0-0 v Başakşehir | Süper Lig | Izmit
+2026-03-18 A 0-5 v Alanyaspor | Süper Lig | Alanya
+2026-03-14 H 1-2 v Konyaspor | Süper Lig | Izmit
+Listed home: 10 games, scored 11 (1.10), conceded 6 (0.60), blanks 3, clean sheets 6
+Listed away: 10 games, scored 7 (0.70), conceded 16 (1.60), blanks 5, clean sheets 0
+All: 20 games, scored 18 (0.90), conceded 22 (1.10), blanks 8, clean sheets 6
+
+(retrying Eyupspor using the opponent's country, Turkey)
+"Eyupspor" matches several teams. Use id:<number> instead of the name:
+  id:3588   Eyüpspor (Turkey)
+  id:28244  Eyupspor U19 (Turkey)
+!! Eyupspor: Ambiguous team name "Eyupspor".
+
+TABLE FOR Kocaelispor
+LEAGUE TABLE Süper Lig 2026 | 18 teams | 91 games played
+League averages per game: home 1.71, away 1.27, total 2.99
+#   team                   Pts | home P GF-GA  | away P GF-GA  | all P GF-GA
+1   Galatasaray             25 |  5  11-6       |  5  12-6       | 10  23-12
+2   Amed                    23 |  6  19-4       |  4   6-7       | 10  25-11
+3   Trabzonspor             22 |  5  15-1       |  5   9-7       | 10  24-8
+4   Kasımpaşa               20 |  5   9-6       |  6   8-5       | 11  17-11
+5   Beşiktaş                19 |  5  14-3       |  5   6-9       | 10  20-12
+6   Fenerbahçe              16 |  5  17-6       |  5   7-4       | 10  24-10
+7   Çorum FK                16 |  4   6-4       |  6  15-12      | 10  21-16
+8   Kocaelispor             16 |  5   6-2       |  5   5-7       | 10  11-9
+9   Göztepe                 15 |  4   6-7       |  6  15-10      | 10  21-17
+10  Başakşehir              14 |  6  16-7       |  4   1-9       | 10  17-16
+11  Erzurumspor FK          14 |  5   5-7       |  5   4-8       | 10   9-15
+12  Alanyaspor              12 |  4   4-4       |  6   5-12      | 10   9-16
+13  Rizespor                11 |  4   3-10      |  6   8-5       | 10  11-15
+14  Gençlerbirliği S.K.     11 |  6  11-7       |  4   1-11      | 10  12-18
+15  Konyaspor                8 |  6   4-7       |  4   2-6       | 10   6-13
+16  Gaziantep FK             8 |  6   3-11      |  5   6-8       | 11   9-19
+17  Samsunspor               4 |  5   5-15      |  5   5-11      | 10  10-26
+18  Eyüpspor                 3 |  5   2-9       |  5   1-19      | 10   3-28
+
+(15 API-Football requests used)
+
+----------------------------------------------------------------------
+MATCHBOOK: skipped (switched off for this run)

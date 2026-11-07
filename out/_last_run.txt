@@ -1,8 +1,8 @@
-RUN 2026-11-07 06:44 local | 6 match(es)
-id:42 v Hull City -> out/id_42_v_Hull_City.txt
-id:164 v id:157 -> out/id_164_v_id_157.txt
-RB Leipzig v id:170 -> out/RB_Leipzig_v_id_170.txt
-Borussia Dortmund v SV Elversberg -> out/Borussia_Dortmund_v_SV_Elversberg.txt
-Portsmouth v Stoke City -> out/Portsmouth_v_Stoke_City.txt
-SC Paderborn 07 v Eintracht Frankfurt -> out/SC_Paderborn_07_v_Eintracht_Frankfurt.txt
-Requests used: API-Football 148, Matchbook 0
+RUN 2026-11-07 08:13 local | 4 match(es)
+Borneo v PSM Makassar -> out/Borneo_v_PSM_Makassar.txt
+Tammeka v Vaprus -> out/Tammeka_v_Vaprus.txt
+Eyupspor v Kocaelispor -> out/Eyupspor_v_Kocaelispor.txt
+    !! Eyupspor: Ambiguous team name "Eyupspor".
+Felgueiras v Leixoes -> out/Felgueiras_v_Leixoes.txt
+    !! Felgueiras: Ambiguous team name "Felgueiras".
+Requests used: API-Football 81, Matchbook 0
