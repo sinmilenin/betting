@@ -1,4 +1,2 @@
-# night scan 08.11 20:55
-Tolima v Millonarios | n=20 | xg=10
-Blooming v Oriente Petrolero | n=20 | xg=10
-Alianza Valledupar v Llaneros | n=20 | xg=10
+# night scan 08.11 20:55 run 2: Tolima/Millonarios ids
+id:1142 v id:1125 | n=20 | xg=10
