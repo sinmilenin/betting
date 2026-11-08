@@ -1,4 +1,6 @@
-# scan 08.11 16:41 run 2: ids
-Vojvodina v id:598 | n=20 | xg=10
-id:549 v id:997 | n=20 | xg=10
-id:1584 v Cremonese | n=20 | xg=10
+# scan 08.11 17:26
+Cartagines v Escorpiones | n=20 | xg=10
+Sporting CP B v Tondela | n=20 | xg=10
+Fredrikstad v Brann | n=20 | xg=10
+Olympiakos Piraeus v PAOK | n=20 | xg=10
+Lech Poznan v Zaglebie Lubin | n=20 | xg=10
