@@ -1,3 +1,2 @@
-# scan 08.11 09:12 run 2 (team ids)
-Rizespor v id:1009 | n=20 | xg=10
-Riga v Rigas FS | n=20 | xg=10
+# scan 08.11 09:12 run 3 (team ids)
+id:10124 v id:4160 | n=20 | xg=10
