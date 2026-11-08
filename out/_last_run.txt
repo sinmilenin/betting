@@ -1,12 +1,6 @@
-RUN 2026-11-08 14:13 local | 7 match(es)
-Levski Sofia v CSKA Sofia -> out/Levski_Sofia_v_CSKA_Sofia.txt
-Al Wahda v Al Ain -> out/Al_Wahda_v_Al_Ain.txt
-    !! Al Wahda: Ambiguous team name "Al Wahda".
-Sturm Graz v Red Bull Salzburg -> out/Sturm_Graz_v_Red_Bull_Salzburg.txt
-OFI v Atromitos -> out/OFI_v_Atromitos.txt
-CFR Cluj v Universitatea Craiova -> out/CFR_Cluj_v_Universitatea_Craiova.txt
-Plzen v Sparta Prague -> out/Plzen_v_Sparta_Prague.txt
-    !! Sparta Prague: No team found for "Sparta Prague".
-Varazdin v Dinamo Zagreb -> out/Varazdin_v_Dinamo_Zagreb.txt
-    !! Varazdin: Ambiguous team name "Varazdin".
-Requests used: API-Football 142, Matchbook 0
+RUN 2026-11-08 14:14 local | 4 match(es)
+id:2875 v Al Ain -> out/id_2875_v_Al_Ain.txt
+CFR 1907 Cluj v Universitatea Craiova -> out/CFR_1907_Cluj_v_Universitatea_Craiova.txt
+Plzen v Sparta Praha -> out/Plzen_v_Sparta_Praha.txt
+id:1483 v Dinamo Zagreb -> out/id_1483_v_Dinamo_Zagreb.txt
+Requests used: API-Football 102, Matchbook 0

@@ -1,14 +1,33 @@
-MATCH Al Wahda v Al Ain | fetched 2026-11-08 14:13 local
+MATCH id:2875 v Al Ain | fetched 2026-11-08 14:14 local
 
-FORM DATA Al Wahda v Al Ain | source API-Football | 2026-11-08 14:13 UTC
+FORM DATA id:2875 v Al Ain | source API-Football | 2026-11-08 14:14 UTC
 H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
 
-"Al Wahda" matches several teams. Use id:<number> instead of the name:
-  id:2875   Al Wahda FC (United-Arab-Emirates)
-  id:8035   Al Wahda (Syria)
-  id:23358  Al Wahda San'a (Yemen)
-  id:27491  Al Wahda U23 (United-Arab-Emirates)
-  id:28588  Al Wahda (Oman)
+=== Al Wahda FC (id 2875): last 20 finished games ===
+2026-11-04 H 1-2 v Khalidiya | AFC Champions League Two | Abu Dhabi
+2026-10-28 A 2-1 v Khalidiya | AFC Champions League Two | Riffa
+2026-10-23 A 1-0 v Al Fujairah SC | Presidents Cup | Fujairah
+2026-10-18 A 3-2 v Khorfakkan | Pro League | Khor Fakkan | xG 2.28-1.13
+2026-10-14 A 2-1 v Nasaf | AFC Champions League Two | Qarshi
+2026-10-09 H 2-0 v Al-Dhafra | League Cup | Abu Dhabi
+2026-10-01 A 1-3 v Baniyas SC | League Cup | Abu Dhabi
+2026-09-20 A 0-1 v Al-Jazira | League Cup | Abu Dhabi
+2026-09-16 H 3-2 v Al Kuwait | AFC Champions League Two | Abu Dhabi
+2026-09-11 H 1-0 v Sharjah FC | Pro League | Abu Dhabi
+2026-09-06 A 1-0 v Al-Dhafra | Pro League | Madinat Zayed
+2026-08-30 H 2-1 v Baniyas SC | Pro League | Abu Dhabi
+2026-08-21 A 0-1 v Al Nasr | Pro League | Dubai
+2026-08-14 H 2-3 v Ajman | Pro League | Abu Dhabi
+2026-07-14 A 2-2 v Buchbach | Friendlies Clubs | ?
+2026-05-16 A 0-1 v Al-Dhafra | Pro League | Madinat Zayed
+2026-05-11 A 1-1 v Khorfakkan | Pro League | Khor Fakkan
+2026-05-06 H 2-3 v Al-Wasl FC | Pro League | Abu Dhabi
+2026-05-01 A 0-0 v Al Ain | League Cup | Abu Dhabi [PEN, 90-min score shown]
+2026-04-23 A 2-0 v Sharjah FC | Pro League | Sharjah
+Listed home: 7 games, scored 13 (1.86), conceded 11 (1.57), blanks 0, clean sheets 2
+Listed away: 13 games, scored 15 (1.15), conceded 13 (1.00), blanks 4, clean sheets 4
+All: 20 games, scored 28 (1.40), conceded 24 (1.20), blanks 4, clean sheets 6
+
 === Al Ain (id 2865): last 20 finished games ===
 2026-11-02 A 4-1 v Al-Ittihad FC | AFC Champions League Elite | Jeddah | xG 2.61-1.08
 2026-10-26 H 2-1 v Tractor Sazi | AFC Champions League Elite | Al Ain | xG 1.34-0.47
@@ -34,14 +53,42 @@ Listed home: 9 games, scored 25 (2.78), conceded 9 (1.00), blanks 0, clean sheet
 Listed away: 11 games, scored 31 (2.82), conceded 14 (1.27), blanks 1, clean sheets 3
 All: 20 games, scored 56 (2.80), conceded 23 (1.15), blanks 1, clean sheets 7
 
-(retrying Al Wahda using the opponent's country, United-Arab-Emirates)
-"Al Wahda" matches several teams. Use id:<number> instead of the name:
-  id:2875   Al Wahda FC (United-Arab-Emirates)
-  id:8035   Al Wahda (Syria)
-  id:23358  Al Wahda San'a (Yemen)
-  id:27491  Al Wahda U23 (United-Arab-Emirates)
-  id:28588  Al Wahda (Oman)
-!! Al Wahda: Ambiguous team name "Al Wahda".
+TABLE FOR Al Wahda FC
+LEAGUE TABLE AFC Champions League Two 2026 | 32 teams | 64 games played
+League averages per game: home 1.36, away 1.22, total 2.58
+#   team                   Pts | home P GF-GA  | away P GF-GA  | all P GF-GA
+1   Al Wahda FC              9 |  2   4-4       |  2   4-2       |  4   8-6 [Group A]
+2   Al Kuwait                6 |  2   5-4       |  2   3-3       |  4   8-7 [Group A]
+3   Nasaf                    4 |  2   1-3       |  2   3-2       |  4   4-5 [Group A]
+4   Khalidiya                4 |  2   1-2       |  2   3-4       |  4   4-6 [Group A]
+1   Al-Jazira               10 |  2   6-3       |  2   3-0       |  4   9-3 [Group B]
+2   Arkadag                  7 |  2   2-0       |  2   1-2       |  4   3-2 [Group B]
+3   Muharraq                 3 |  2   2-3       |  2   2-5       |  4   4-8 [Group B]
+4   Gol Gohar                2 |  2   0-0       |  2   0-3       |  4   0-3 [Group B]
+1   Al Taawon               10 |  2   5-2       |  2   3-1       |  4   8-3 [Group C]
+2   Al-Rayyan SC             9 |  2   6-3       |  2   5-3       |  4  11-6 [Group C]
+3   Al Faisaly               3 |  2   2-2       |  2   4-7       |  4   6-9 [Group C]
+4   Al-Nahda                 1 |  2   2-5       |  2   0-4       |  4   2-9 [Group C]
+1   Al Shorta               10 |  2   2-1       |  2   6-2       |  4   8-3 [Group D]
+2   Al Hussein               5 |  2   2-5       |  2   4-1       |  4   6-6 [Group D]
+3   Al Seeb                  4 |  2   0-3       |  2   2-1       |  4   2-4 [Group D]
+4   East Bengal              2 |  2   2-5       |  2   2-2       |  4   4-7 [Group D]
+1   Persib Bandung          12 |  2   3-0       |  2   3-1       |  4   6-1 [Group E]
+2   FC Seoul                 6 |  2   3-1       |  2   5-3       |  4   8-4 [Group E]
+3   Melbourne Victory        4 |  2   4-2       |  2   1-3       |  4   5-5 [Group E]
+4   Viettel                  1 |  2   1-6       |  2   0-4       |  4   1-10 [Group E]
+1   Home United             10 |  2   6-1       |  2   3-0       |  4   9-1 [Group F]
+2   BG Pathum United         7 |  2   5-3       |  2   4-1       |  4   9-4 [Group F]
+3   Adelaide United          6 |  2   3-2       |  2   2-6       |  4   5-8 [Group F]
+4   Wofoo Tai Po             0 |  2   0-4       |  2   1-7       |  4   1-11 [Group F]
+1   Machida Zelvia          12 |  2   4-1       |  2   2-0       |  4   6-1 [Group G]
+2   Svay Rieng               7 |  2   2-0       |  2   5-3       |  4   7-3 [Group G]
+3   Shanghai Shenhua         4 |  2   2-2       |  2   1-2       |  4   3-4 [Group G]
+4   Tampines Rovers          0 |  2   1-6       |  2   1-4       |  4   2-10 [Group G]
+1   Phnom Penh Crown         9 |  2   4-1       |  2   3-3       |  4   7-4 [Group H]
+2   Kitchee                  5 |  2   2-1       |  2   1-3       |  4   3-4 [Group H]
+3   Kuching FA               4 |  2   3-1       |  2   1-3       |  4   4-4 [Group H]
+4   Gangwon FC               4 |  2   2-2       |  2   0-2       |  4   2-4 [Group H]
 
 TABLE FOR Al Ain
 LEAGUE TABLE AFC Champions League Elite 2026 | 32 teams | 63 games played
@@ -80,7 +127,7 @@ League averages per game: home 1.83, away 1.41, total 3.24
 15  Pohang Steelers          1 |  2   3-5       |  2   1-6       |  4   4-11 [East Region]
 16  Newcastle Jets           0 |  2   3-7       |  2   3-12      |  4   6-19 [East Region]
 
-(15 API-Football requests used)
+(26 API-Football requests used)
 
 ----------------------------------------------------------------------
 MATCHBOOK: skipped (switched off for this run)
