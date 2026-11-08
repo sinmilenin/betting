@@ -1,7 +1,4 @@
-RUN 2026-11-08 13:32 local | 3 match(es)
-id:1122 v Mlada Boleslav -> out/id_1122_v_Mlada_Boleslav.txt
-Ham-Kam v Sarpsborg 08 -> out/Ham_Kam_v_Sarpsborg_08.txt
-    !! Ham-Kam: API-Football error: {"search": "The Search field may only contain alpha-numeric characters and spaces."}
-    !! Sarpsborg 08: Ambiguous team name "Sarpsborg 08".
-Arsenal U21 v Aston Villa U21 -> out/Arsenal_U21_v_Aston_Villa_U21.txt
-Requests used: API-Football 54, Matchbook 0
+RUN 2026-11-08 13:34 local | 1 match(es)
+Hamarkameratene v id:333 -> out/Hamarkameratene_v_id_333.txt
+    !! Hamarkameratene: No team found for "Hamarkameratene".
+Requests used: API-Football 14, Matchbook 0

@@ -1,0 +1,57 @@
+MATCH Hamarkameratene v id:333 | fetched 2026-11-08 13:34 local
+
+FORM DATA Hamarkameratene v id:333 | source API-Football | 2026-11-08 13:34 UTC
+H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
+
+=== Sarpsborg 08 FF (id 333): last 20 finished games ===
+2026-11-01 H 2-4 v Kristiansund BK | Eliteserien | Sarpsberg | xG 3.61-2.25
+2026-10-28 H 3-2 v Valerenga | NM Cupen | Sarpsborg
+2026-10-25 H 2-1 v Aalesund | Eliteserien | Sarpsberg | xG 3.03-0.32
+2026-10-18 H 0-3 v Rosenborg | Eliteserien | Sarpsberg | xG 0.91-1.85
+2026-10-11 A 4-2 v Aalesund | Eliteserien | Ålesund | xG 2.38-1.72
+2026-09-30 A 2-0 v Follo | NM Cupen | Ski
+2026-09-18 H 1-3 v KFUM Oslo | Eliteserien | Sarpsberg | xG 2.56-0.95
+2026-09-13 A 1-1 v Fredrikstad | Eliteserien | Fredrikstad | xG 0.23-1.40
+2026-09-06 H 2-2 v Valerenga | Eliteserien | Sarpsborg | xG 2.04-1.29
+2026-08-30 A 0-0 v Tromso | Eliteserien | Tromso | xG 0.51-1.38
+2026-08-22 A 2-0 v Sparta Sarpsborg | NM Cupen | ?
+2026-08-16 H 1-2 v Sandefjord | Eliteserien | Sarpsborg
+2026-08-08 A 1-2 v Viking | Eliteserien | Stavanger
+2026-08-02 A 3-3 v Molde | Eliteserien | Molde
+2026-07-26 H 1-0 v Ham-Kam | Eliteserien | Sarpsborg
+2026-07-18 A 0-0 v Kristiansund BK | Eliteserien | Kristiansund
+2026-07-12 H 1-0 v Viking | Eliteserien | Sarpsborg
+2026-07-03 A 1-3 v Lillestrom | Friendlies Clubs | ?
+2026-05-29 A 2-1 v Brann | Eliteserien | Bergen
+2026-05-25 H 2-1 v Molde | Eliteserien | Sarpsborg
+Listed home: 10 games, scored 15 (1.50), conceded 18 (1.80), blanks 1, clean sheets 2
+Listed away: 10 games, scored 16 (1.60), conceded 12 (1.20), blanks 2, clean sheets 4
+All: 20 games, scored 31 (1.55), conceded 30 (1.50), blanks 3, clean sheets 6
+
+!! Hamarkameratene: No team found for "Hamarkameratene".
+
+TABLE FOR Sarpsborg 08 FF
+LEAGUE TABLE Eliteserien 2026 | 16 teams | 201 games played
+League averages per game: home 1.86, away 1.41, total 3.27
+#   team                   Pts | home P GF-GA  | away P GF-GA  | all P GF-GA
+1   Viking                  59 | 12  44-13      | 13  20-13      | 25  64-26
+2   Bodo/Glimt              59 | 13  37-10      | 12  24-13      | 25  61-23
+3   Rosenborg               46 | 13  32-15      | 13  21-17      | 26  53-32
+4   Molde                   43 | 13  35-15      | 12  24-24      | 25  59-39
+5   Lillestrom              42 | 12  22-19      | 13  14-14      | 25  36-33
+6   Tromso                  40 | 12  22-10      | 13  21-28      | 25  43-38
+7   Brann                   32 | 13  23-20      | 12  22-22      | 25  45-42
+8   Valerenga               32 | 13  27-20      | 12  16-26      | 25  43-46
+9   Sarpsborg 08 FF         31 | 13  16-20      | 12  16-19      | 25  32-39
+10  KFUM Oslo               31 | 13  17-16      | 12  15-25      | 25  32-41
+11  Fredrikstad             29 | 12  14-15      | 13  15-29      | 25  29-44
+12  Sandefjord              27 | 12  10-12      | 13  16-22      | 25  26-34
+13  Ham-Kam                 27 | 12  17-24      | 13  18-29      | 25  35-53
+14  Aalesund                24 | 13  27-34      | 12  16-23      | 25  43-57
+15  Kristiansund BK         23 | 12  16-20      | 13  13-31      | 25  29-51
+16  Start                   19 | 13  15-20      | 13  12-39      | 26  27-59
+
+(14 API-Football requests used)
+
+----------------------------------------------------------------------
+MATCHBOOK: skipped (switched off for this run)
