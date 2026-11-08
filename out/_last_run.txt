@@ -1,5 +1,7 @@
-RUN 2026-11-08 18:01 local | 3 match(es)
-Hapoel Beer Sheva v Hapoel Tel Aviv -> out/Hapoel_Beer_Sheva_v_Hapoel_Tel_Aviv.txt
-Wurzburger Kickers v Hoffenheim II -> out/Wurzburger_Kickers_v_Hoffenheim_II.txt
-Union La Calera v Huachipato -> out/Union_La_Calera_v_Huachipato.txt
-Requests used: API-Football 77, Matchbook 0
+RUN 2026-11-08 18:44 local | 3 match(es)
+Cerro Porteno v Deportivo Recoleta -> out/Cerro_Porteno_v_Deportivo_Recoleta.txt
+Jaguares de Cordoba v Atletico Bucaramanga -> out/Jaguares_de_Cordoba_v_Atletico_Bucaraman.txt
+    !! Jaguares de Cordoba: No team found for "Jaguares de Cordoba".
+Bolivar v The Strongest -> out/Bolivar_v_The_Strongest.txt
+    !! Bolivar: Ambiguous team name "Bolivar".
+Requests used: API-Football 55, Matchbook 0
