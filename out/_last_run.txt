@@ -1,3 +1,15 @@
-RUN 2026-11-08 10:33 local | 1 match(es)
-id:1011 v FC Lugano -> out/id_1011_v_FC_Lugano.txt
-Requests used: API-Football 26, Matchbook 0
+RUN 2026-11-08 11:13 local | 9 match(es)
+Grosseto v Pescara -> out/Grosseto_v_Pescara.txt
+Sogndal v Hodd -> out/Sogndal_v_Hodd.txt
+WSG Tirol v Austria Vienna -> out/WSG_Tirol_v_Austria_Vienna.txt
+    !! WSG Tirol: No team found for "WSG Tirol".
+Hartberg v Altach -> out/Hartberg_v_Altach.txt
+    !! Hartberg: Ambiguous team name "Hartberg".
+    !! Altach: Ambiguous team name "Altach".
+Jagiellonia v GKS Katowice -> out/Jagiellonia_v_GKS_Katowice.txt
+Slavia Praha v Zbrojovka Brno -> out/Slavia_Praha_v_Zbrojovka_Brno.txt
+Entella v Modena -> out/Entella_v_Modena.txt
+    !! Entella: Ambiguous team name "Entella".
+Borac Banja Luka v Radnik Bijeljina -> out/Borac_Banja_Luka_v_Radnik_Bijeljina.txt
+Sepsi OSK v FC Voluntari -> out/Sepsi_OSK_v_FC_Voluntari.txt
+Requests used: API-Football 184, Matchbook 0
