@@ -1,2 +1,9 @@
-# night scan 07.11 retry 2: Concepcion id
-Everton De Vina v id:5635 | n=20 | xg=10
+# scan 08.11 06:11
+Gamba Osaka v Cerezo Osaka | n=20 | xg=10
+Adelaide United v Melbourne Victory | n=20 | xg=10
+Shandong Taishan v Chengdu Rongcheng | n=20 | xg=10
+Vegalta Sendai v Ventforet Kofu | n=20 | xg=10
+Zhejiang v Henan | n=20 | xg=10
+Shanghai Port v Liaoning Tieren | n=20 | xg=10
+Yunnan Yukun v Wuhan Three Towns | n=20 | xg=10
+Qingdao Hainiu v Shenzhen Peng City | n=20 | xg=10
