@@ -1,0 +1,68 @@
+MATCH Vojvodina v Crvena Zvezda | fetched 2026-11-08 15:43 local
+
+FORM DATA Vojvodina v Crvena Zvezda | source API-Football | 2026-11-08 15:43 UTC
+H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
+
+=== Vojvodina (id 702): last 20 finished games ===
+2026-11-01 A 2-0 v OFK Beograd | Super Liga | Belgrade | xG 1.87-0.79
+2026-10-28 A 0-1 v Sloven Ruma | Cup | Ruma
+2026-10-24 A 1-1 v Mladost Lucani | Super Liga | Lucani | xG 2.33-1.31
+2026-10-17 H 2-0 v Radnicki 1923 | Super Liga | Novi Sad | xG 1.69-0.45
+2026-10-11 A 4-1 v Radnicki NIS | Super Liga | Niš | xG 2.39-1.25
+2026-09-27 A 1-1 v Borac Banja Luka | Friendlies Clubs | ? [PEN, 90-min score shown]
+2026-09-26 A 0-0 v Zrinjski | Friendlies Clubs | ?
+2026-09-19 H 1-1 v IMT Novi Beograd | Super Liga | Novi Sad | xG 1.43-1.66
+2026-09-13 A 3-2 v FK Partizan | Super Liga | Belgrade | xG 1.57-2.16
+2026-09-06 H 2-1 v Zemun | Super Liga | Novi Sad | xG 4.84-0.78
+2026-08-29 A 5-0 v Cukaricki | Super Liga | Belgrade
+2026-08-23 H 1-0 v Železničar Pančevo | Super Liga | Novi Sad
+2026-08-17 A 0-2 v Novi Pazar | Super Liga | Novi Pazar
+2026-08-09 H 2-1 v Radnik Surdulica | Super Liga | Novi Sad
+2026-08-03 H 2-0 v Macva | Super Liga | Novi Sad
+2026-07-30 A 1-4 v Ajax | UEFA Europa Conference League | Amsterdam
+2026-07-26 A 1-3 v FK Crvena Zvezda | Super Liga | Belgrade
+2026-07-23 H 1-4 v Ajax | UEFA Europa Conference League | Novi Sad
+2026-07-19 H 4-0 v OFK Beograd | Super Liga | Novi Sad
+2026-07-16 A 0-3 v Ferencvarosi TC | UEFA Europa League | Budapest
+Listed home: 8 games, scored 15 (1.88), conceded 7 (0.88), blanks 0, clean sheets 4
+Listed away: 12 games, scored 18 (1.50), conceded 18 (1.50), blanks 4, clean sheets 3
+All: 20 games, scored 33 (1.65), conceded 25 (1.25), blanks 4, clean sheets 7
+
+"Crvena Zvezda" matches several teams. Use id:<number> instead of the name:
+  id:598    FK Crvena Zvezda (Serbia)
+  id:7894   Crvena Zvezda U19 (Serbia)
+  id:12310  Crvena Zvezda MML (Serbia)
+  id:23030  Crvena Zvezda U18 (Serbia)
+  id:24206  Crvena zvezda W (Serbia)
+(retrying Crvena Zvezda using the opponent's country, Serbia)
+"Crvena Zvezda" matches several teams. Use id:<number> instead of the name:
+  id:598    FK Crvena Zvezda (Serbia)
+  id:7894   Crvena Zvezda U19 (Serbia)
+  id:12310  Crvena Zvezda MML (Serbia)
+  id:23030  Crvena Zvezda U18 (Serbia)
+  id:24206  Crvena zvezda W (Serbia)
+!! Crvena Zvezda: Ambiguous team name "Crvena Zvezda".
+
+TABLE FOR Vojvodina
+LEAGUE TABLE Super Liga 2026 | 14 teams | 102 games played
+League averages per game: home 1.56, away 1.04, total 2.60
+#   team                   Pts | home P GF-GA  | away P GF-GA  | all P GF-GA
+1   FK Crvena Zvezda        40 |  7  24-3       |  7  13-3       | 14  37-6
+2   Vojvodina               32 |  7  14-3       |  7  16-9       | 14  30-12
+3   Železničar Pančevo      29 |  8  16-6       |  6   8-6       | 14  24-12
+4   IMT Novi Beograd        23 |  7   7-2       |  8   9-8       | 15  16-10
+5   Radnicki 1923           23 |  7  14-6       |  8   8-13      | 15  22-19
+6   Radnik Surdulica        23 |  8  16-8       |  7   4-10      | 15  20-18
+7   Cukaricki               22 |  8  13-10      |  7   8-11      | 15  21-21
+8   Novi Pazar              19 |  8  12-9       |  7   3-7       | 15  15-16
+9   Mladost Lucani          18 |  7   7-5       |  8   5-16      | 15  12-21
+10  FK Partizan             17 |  7  10-9       |  7  14-15      | 14  24-24
+11  OFK Beograd             11 |  7   7-11      |  8   8-16      | 15  15-27
+12  Macva                   10 |  7   7-10      |  7   4-15      | 14  11-25
+13  Radnicki NIS             8 |  6   7-13      |  8   3-12      | 14  10-25
+14  Zemun                    7 |  8   5-11      |  7   3-18      | 15   8-29
+
+(15 API-Football requests used)
+
+----------------------------------------------------------------------
+MATCHBOOK: skipped (switched off for this run)

@@ -1,0 +1,25 @@
+MATCH Besiktas v Genclerbirligi | fetched 2026-11-08 15:43 local
+
+FORM DATA Besiktas v Genclerbirligi | source API-Football | 2026-11-08 15:43 UTC
+H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
+
+"Besiktas" matches several teams. Use id:<number> instead of the name:
+  id:549    Beşiktaş (Turkey)
+  id:7973   Beşiktaş U19 (Turkey)
+  id:10912  Beşiktaş W (Turkey)
+"Genclerbirligi" matches several teams. Use id:<number> instead of the name:
+  id:997    Gençlerbirliği S.K. (Turkey)
+  id:3586   Darıca Gençlerbirliği (Turkey)
+  id:13372  Sarıkamış Gençlerbirliği (Turkey)
+  id:13395  Tatvan Gençlerbirliği (Turkey)
+  id:13408  Ağrı Gençlerbirliği (Turkey)
+  id:13436  Iğdır Gençlerbirliğispor (Turkey)
+  id:28247  Genclerbirligi U19 (Turkey)
+!! Besiktas: Ambiguous team name "Besiktas".
+
+!! Genclerbirligi: Ambiguous team name "Genclerbirligi".
+
+(2 API-Football requests used)
+
+----------------------------------------------------------------------
+MATCHBOOK: skipped (switched off for this run)
