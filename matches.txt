@@ -1,2 +1,2 @@
-# scan 08.11 11:26 run 4 (St Gallen id)
-id:1011 v Lugano | n=20 | xg=10
+# scan 08.11 11:26 run 5 (Lugano)
+id:1011 v FC Lugano | n=20 | xg=10
