@@ -1,49 +1,5 @@
 [
   {
-    "id": "2026-11-08_gamba-osaka-cerezo-osaka_0-1",
-    "date": "2026-11-08",
-    "ko": "07:00",
-    "match": "G-Osaka v Cerezo Osaka",
-    "comp": "Japan, Japanese J League",
-    "cell": "0-1",
-    "lay": 15.5,
-    "stake": 3,
-    "created": "2026-11-08T06:14:34+01:00"
-  },
-  {
-    "id": "2026-11-08_gamba-osaka-cerezo-osaka_2-2",
-    "date": "2026-11-08",
-    "ko": "07:00",
-    "match": "G-Osaka v Cerezo Osaka",
-    "comp": "Japan, Japanese J League",
-    "cell": "2-2",
-    "lay": 14.5,
-    "stake": 3,
-    "created": "2026-11-08T06:14:34+01:00"
-  },
-  {
-    "id": "2026-11-08_sendai-kofu_1-0",
-    "date": "2026-11-08",
-    "ko": "07:00",
-    "match": "Sendai v Kofu",
-    "comp": "Japan, Japanese J League 2",
-    "cell": "1-0",
-    "lay": 8.8,
-    "stake": 3,
-    "created": "2026-11-08T06:14:34+01:00"
-  },
-  {
-    "id": "2026-11-08_sendai-kofu_2-1",
-    "date": "2026-11-08",
-    "ko": "07:00",
-    "match": "Sendai v Kofu",
-    "comp": "Japan, Japanese J League 2",
-    "cell": "2-1",
-    "lay": 9.8,
-    "stake": 3,
-    "created": "2026-11-08T06:14:34+01:00"
-  },
-  {
     "id": "2026-11-08_pss-sleman-bhayangkara-fc_1-0",
     "date": "2026-11-08",
     "ko": "09:30",
@@ -141,5 +97,49 @@
     "lay": 18.0,
     "stake": 3,
     "created": "2026-11-08T12:20:01+01:00"
+  },
+  {
+    "id": "2026-11-08_nyiregyhaza-gyori_2-2",
+    "date": "2026-11-08",
+    "ko": "13:15",
+    "match": "Nyiregyhaza v Gyori",
+    "comp": "Hungary, Hungarian NB I",
+    "cell": "2-2",
+    "lay": 14.5,
+    "stake": 3,
+    "created": "2026-11-08T13:03:30+01:00"
+  },
+  {
+    "id": "2026-11-08_js-el-biar-mc-alger_1-2",
+    "date": "2026-11-08",
+    "ko": "14:00",
+    "match": "JS El Biar v MC Alger",
+    "comp": "Algeria, Algerian Ligue 1",
+    "cell": "1-2",
+    "lay": 11.5,
+    "stake": 3,
+    "created": "2026-11-08T13:03:30+01:00"
+  },
+  {
+    "id": "2026-11-08_catania-sorrento_2-1",
+    "date": "2026-11-08",
+    "ko": "14:30",
+    "match": "Catania v Sorrento",
+    "comp": "Italy, Italian Serie C",
+    "cell": "2-1",
+    "lay": 10.0,
+    "stake": 3,
+    "created": "2026-11-08T13:03:30+01:00"
+  },
+  {
+    "id": "2026-11-08_borac-banja-luka-radnik-bijeljina_3-1",
+    "date": "2026-11-08",
+    "ko": "15:00",
+    "match": "Borac Banja Luka v Radnik Bijeljina",
+    "comp": "Bosnia and Herzegovina, Bosnian Premier League",
+    "cell": "3-1",
+    "lay": 15.0,
+    "stake": 3,
+    "created": "2026-11-08T13:03:30+01:00"
   }
 ]
