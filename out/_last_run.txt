@@ -1,9 +1,6 @@
-RUN 2026-11-08 14:58 local | 5 match(es)
-Girona v Almeria -> out/Girona_v_Almeria.txt
-Audax Italiano v Coquimbo Unido -> out/Audax_Italiano_v_Coquimbo_Unido.txt
-    !! Audax Italiano: No team found for "Audax Italiano".
-Radomlje v Celje -> out/Radomlje_v_Celje.txt
-Union St Gilloise v Genk -> out/Union_St_Gilloise_v_Genk.txt
-    !! Union St Gilloise: No team found for "Union St Gilloise".
-Sporting Gijon v Valladolid -> out/Sporting_Gijon_v_Valladolid.txt
-Requests used: API-Football 104, Matchbook 0
+RUN 2026-11-08 15:00 local | 2 match(es)
+A. Italiano v Coquimbo Unido -> out/A_Italiano_v_Coquimbo_Unido.txt
+    !! A. Italiano: API-Football error: {"search": "The Search field may only contain alpha-numeric characters and spaces."}
+Union St. Gilloise v Genk -> out/Union_St_Gilloise_v_Genk.txt
+    !! Union St. Gilloise: API-Football error: {"search": "The Search field may only contain alpha-numeric characters and spaces."}
+Requests used: API-Football 28, Matchbook 0
