@@ -1,4 +1,2 @@
-# scan 08.11 09:56 run 1
-Heerenveen v Feyenoord | n=20 | xg=10
-Vitesse v De Graafschap | n=20 | xg=10
-Napoli v Lazio | n=20 | xg=10
+# scan 08.11 09:56 run 2 (Vitesse id)
+id:200 v De Graafschap | n=20 | xg=10
