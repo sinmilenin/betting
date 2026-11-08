@@ -1,4 +1,2 @@
-# scan 08.11 14:26 run 2: ids and U21
-id:1122 v Mlada Boleslav | n=20 | xg=10
-Ham-Kam v Sarpsborg 08 | n=20 | xg=10
-Arsenal U21 v Aston Villa U21 | n=20 | xg=10
+# scan 08.11 14:26 run 3: Ham-Kam
+Hamarkameratene v id:333 | n=20 | xg=10
