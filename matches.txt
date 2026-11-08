@@ -1,5 +1,6 @@
-# scan 08.11 15:11 run 2: ids and names
-id:2875 v Al Ain | n=20 | xg=10
-CFR 1907 Cluj v Universitatea Craiova | n=20 | xg=10
-Plzen v Sparta Praha | n=20 | xg=10
-id:1483 v Dinamo Zagreb | n=20 | xg=10
+# scan 08.11 15:56 run 1: new fixtures
+Girona v Almeria | n=20 | xg=10
+Audax Italiano v Coquimbo Unido | n=20 | xg=10
+Radomlje v Celje | n=20 | xg=10
+Union St Gilloise v Genk | n=20 | xg=10
+Sporting Gijon v Valladolid | n=20 | xg=10
