@@ -163,5 +163,27 @@
     "lay": 12.0,
     "stake": 3,
     "created": "2026-11-08T13:53:58+01:00"
+  },
+  {
+    "id": "2026-11-08_lillestrom-aalesunds_1-0",
+    "date": "2026-11-08",
+    "ko": "17:00",
+    "match": "Lillestrom v Aalesunds",
+    "comp": "Norway, Norwegian Eliteserien",
+    "cell": "1-0",
+    "lay": 19.5,
+    "stake": 3,
+    "created": "2026-11-08T14:39:44+01:00"
+  },
+  {
+    "id": "2026-11-08_carrarese-sampdoria_2-2",
+    "date": "2026-11-08",
+    "ko": "17:15",
+    "match": "Carrarese v Sampdoria",
+    "comp": "Italy, Italian Serie B",
+    "cell": "2-2",
+    "lay": 16.5,
+    "stake": 3,
+    "created": "2026-11-08T14:39:44+01:00"
   }
 ]
