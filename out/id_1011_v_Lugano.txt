@@ -1,15 +1,33 @@
-MATCH Gallen v Lugano | fetched 2026-11-08 10:31 local
+MATCH id:1011 v Lugano | fetched 2026-11-08 10:32 local
 
-FORM DATA Gallen v Lugano | source API-Football | 2026-11-08 10:31 UTC
+FORM DATA id:1011 v Lugano | source API-Football | 2026-11-08 10:32 UTC
 H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
 
-"Gallen" matches several teams. Use id:<number> instead of the name:
-  id:1011   FC ST. Gallen (Switzerland)
-  id:12718  St. Gallen II (Switzerland)
-  id:16041  St. Gallen W (Switzerland)
-  id:17424  Winkeln St. Gallen (Switzerland)
-  id:19613  Dardania St. Gallen (Switzerland)
-  id:24179  Besa St. Gallen (Switzerland)
+=== FC ST. Gallen (id 1011): last 20 finished games ===
+2026-10-31 H 2-1 v Servette FC | Super League | St.Gallen | xG 1.86-1.17
+2026-10-24 A 0-2 v BSC Young Boys | Super League | Bern | xG 1.12-1.86
+2026-10-16 A 2-0 v Rapperswil | Schweizer Cup | Rapperswil-Jona
+2026-10-11 H 1-0 v Lausanne | Super League | St. Gallen | xG 1.57-0.80
+2026-10-03 A 3-3 v Brühl | Friendlies Clubs | ?
+2026-09-20 A 3-1 v FC Basel 1893 | Super League | Basel | xG 2.00-1.22
+2026-09-16 A 1-4 v FC Lugano | Super League | Lugano | xG 1.14-1.41
+2026-09-12 H 0-3 v FC Sion | Super League | St. Gallen | xG 1.29-1.26
+2026-09-06 A 2-0 v Servette FC | Super League | Geneva | xG 1.37-0.90
+2026-09-02 A 0-2 v Grasshoppers | Super League | Zurich | xG 1.80-2.23
+2026-08-30 H 3-4 v FC Thun | Super League | St. Gallen
+2026-08-27 H 2-3 v FC Nordsjaelland | UEFA Europa Conference League | St. Gallen
+2026-08-20 A 0-1 v FC Nordsjaelland | UEFA Europa Conference League | Farum
+2026-08-16 A 3-0 v Thalwil | Schweizer Cup | ?
+2026-08-13 H 5-1 v Sheriff Tiraspol | UEFA Europa Conference League | St.Gallen
+2026-08-09 H 2-2 v FC Luzern | Super League | St. Gallen
+2026-08-06 A 3-1 v Sheriff Tiraspol | UEFA Europa Conference League | Tiraspol
+2026-08-02 A 3-2 v FC Vaduz | Super League | Vaduz
+2026-07-30 A 0-5 v Benfica | UEFA Europa League | Lisbon
+2026-07-26 H 2-1 v FC Zurich | Super League | St. Gallen
+Listed home: 8 games, scored 17 (2.12), conceded 15 (1.88), blanks 1, clean sheets 1
+Listed away: 12 games, scored 20 (1.67), conceded 21 (1.75), blanks 4, clean sheets 3
+All: 20 games, scored 37 (1.85), conceded 36 (1.80), blanks 5, clean sheets 4
+
 === Lugano (id 8396): last 20 finished games ===
 2026-10-25 A 0-1 v Canuelas | Primera C | ?
 2026-10-19 H 0-1 v Canuelas | Primera C | ?
@@ -35,15 +53,22 @@ Listed home: 11 games, scored 10 (0.91), conceded 10 (0.91), blanks 4, clean she
 Listed away: 9 games, scored 7 (0.78), conceded 6 (0.67), blanks 3, clean sheets 4
 All: 20 games, scored 17 (0.85), conceded 16 (0.80), blanks 7, clean sheets 9
 
-(retrying Gallen using the opponent's country, Argentina)
-"Gallen" matches several teams. Use id:<number> instead of the name:
-  id:1011   FC ST. Gallen (Switzerland)
-  id:12718  St. Gallen II (Switzerland)
-  id:16041  St. Gallen W (Switzerland)
-  id:17424  Winkeln St. Gallen (Switzerland)
-  id:19613  Dardania St. Gallen (Switzerland)
-  id:24179  Besa St. Gallen (Switzerland)
-!! Gallen: Ambiguous team name "Gallen".
+TABLE FOR FC ST. Gallen
+LEAGUE TABLE Super League 2026 | 12 teams | 75 games played
+League averages per game: home 1.91, away 1.85, total 3.76
+#   team                   Pts | home P GF-GA  | away P GF-GA  | all P GF-GA
+1   FC Lugano               34 |  7  20-5       |  5  16-5       | 12  36-10
+2   BSC Young Boys          28 |  7  22-17      |  6  19-8       | 13  41-25
+3   FC Sion                 26 |  6  12-7       |  7  17-11      | 13  29-18
+4   FC Zurich               20 |  6  13-11      |  6  12-15      | 12  25-26
+5   FC ST. Gallen           19 |  6  10-11      |  6   9-11      | 12  19-22
+6   Servette FC             16 |  6   8-6       |  6   9-10      | 12  17-16
+7   FC Basel 1893           14 |  6   7-11      |  6  11-11      | 12  18-22
+8   FC Luzern               13 |  7  14-13      |  6   7-15      | 13  21-28
+9   FC Thun                 13 |  5   4-14      |  7  20-20      | 12  24-34
+10  Grasshoppers            11 |  7  10-16      |  6   6-13      | 13  16-29
+11  FC Vaduz                10 |  6  14-12      |  7  10-17      | 13  24-29
+12  Lausanne                 7 |  6   9-16      |  7   3-7       | 13  12-23
 
 TABLE FOR Lugano
 LEAGUE TABLE Primera C 2026 | 28 teams | 448 games played
@@ -78,7 +103,7 @@ League averages per game: home 1.05, away 0.87, total 1.92
 13  Fénix                   34 | 16  14-13      | 16  10-19      | 32  24-32 [Group B]
 14  Deportivo Muñiz         29 | 16  14-20      | 16   9-18      | 32  23-38 [Group B]
 
-(15 API-Football requests used)
+(26 API-Football requests used)
 
 ----------------------------------------------------------------------
 MATCHBOOK: skipped (switched off for this run)

@@ -1,4 +1,3 @@
-RUN 2026-11-08 10:31 local | 1 match(es)
-Gallen v Lugano -> out/Gallen_v_Lugano.txt
-    !! Gallen: Ambiguous team name "Gallen".
-Requests used: API-Football 15, Matchbook 0
+RUN 2026-11-08 10:32 local | 1 match(es)
+id:1011 v Lugano -> out/id_1011_v_Lugano.txt
+Requests used: API-Football 26, Matchbook 0
