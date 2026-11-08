@@ -1,27 +1,5 @@
 [
   {
-    "id": "2026-11-08_pss-sleman-bhayangkara-fc_1-0",
-    "date": "2026-11-08",
-    "ko": "09:30",
-    "match": "Pss Sleman v Bhayangkara FC",
-    "comp": "Indonesia, Indonesian Super League",
-    "cell": "1-0",
-    "lay": 15,
-    "stake": 3,
-    "created": "2026-11-08T08:29:26+01:00"
-  },
-  {
-    "id": "2026-11-08_pss-sleman-bhayangkara-fc_0-1",
-    "date": "2026-11-08",
-    "ko": "09:30",
-    "match": "Pss Sleman v Bhayangkara FC",
-    "comp": "Indonesia, Indonesian Super League",
-    "cell": "0-1",
-    "lay": 12,
-    "stake": 3,
-    "created": "2026-11-08T09:13:00+01:00"
-  },
-  {
     "id": "2026-11-08_ratchaburi-buriram-utd_1-0",
     "date": "2026-11-08",
     "ko": "13:00",
@@ -218,5 +196,16 @@
     "lay": 13.5,
     "stake": 3,
     "created": "2026-11-08T15:18:23+01:00"
+  },
+  {
+    "id": "2026-11-08_sporting-gijon-valladolid_2-2",
+    "date": "2026-11-08",
+    "ko": "18:30",
+    "match": "Sporting Gijon v Valladolid",
+    "comp": "Spain, Spanish Segunda Division",
+    "cell": "2-2",
+    "lay": 18.0,
+    "stake": 3,
+    "created": "2026-11-08T16:04:35+01:00"
   }
 ]
