@@ -1,0 +1,62 @@
+MATCH Super Nova v Daugavpils | fetched 2026-11-08 10:29 local
+
+FORM DATA Super Nova v Daugavpils | source API-Football | 2026-11-08 10:29 UTC
+H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
+
+=== Super Nova (id 4143): last 20 finished games ===
+2026-11-01 A 3-3 v FK Liepaja | Virsliga | Liepaja | xG 2.11-3.07
+2026-10-25 H 0-3 v Rīgas FS | Virsliga | Olaine | xG 0.33-1.81
+2026-10-18 A 1-2 v Riga | Virsliga | Riga | xG 0.58-2.08
+2026-10-15 A 0-4 v Rīgas FS | Virsliga | Riga
+2026-10-10 H 2-1 v Grobiņa | Virsliga | Riga | xG 1.57-2.45
+2026-09-20 A 0-1 v Ogre United | Virsliga | Ogre
+2026-09-15 H 0-1 v Riga | Virsliga | Riga
+2026-09-10 H 1-0 v Tukums | Virsliga | Riga
+2026-09-05 A 1-0 v FS Jelgava | Virsliga | Jelgava
+2026-08-29 A 1-1 v Auda | Virsliga | Riga
+2026-08-22 H 0-0 v BFC Daugavpils | Virsliga | Riga
+2026-08-16 H 0-1 v Rīgas FS | Cup | Riga
+2026-08-09 H 1-2 v FK Liepaja | Virsliga | Riga
+2026-07-20 H 2-0 v Grobiņa | Virsliga | Riga
+2026-07-11 A 2-1 v Tukums | Cup | Tukums
+2026-07-06 H 1-2 v Ogre United | Virsliga | Riga
+2026-07-01 A 2-1 v Tukums | Virsliga | Tukums
+2026-06-25 H 1-5 v FS Jelgava | Virsliga | Riga
+2026-06-21 H 0-2 v Auda | Virsliga | Riga
+2026-06-16 A 0-0 v BFC Daugavpils | Virsliga | Daugavpils
+Listed home: 11 games, scored 8 (0.73), conceded 17 (1.55), blanks 5, clean sheets 3
+Listed away: 9 games, scored 10 (1.11), conceded 13 (1.44), blanks 3, clean sheets 2
+All: 20 games, scored 18 (0.90), conceded 30 (1.50), blanks 8, clean sheets 5
+
+"Daugavpils" matches several teams. Use id:<number> instead of the name:
+  id:4145   Daugavpils / Progress (Latvia)
+  id:4149   BFC Daugavpils (Latvia)
+  id:10325  Lokomotiv Daugavpils (Latvia)
+  id:17694  BFC Daugavpils U19 (Latvia)
+(retrying Daugavpils using the opponent's country, Latvia)
+"Daugavpils" matches several teams. Use id:<number> instead of the name:
+  id:4145   Daugavpils / Progress (Latvia)
+  id:4149   BFC Daugavpils (Latvia)
+  id:10325  Lokomotiv Daugavpils (Latvia)
+  id:17694  BFC Daugavpils U19 (Latvia)
+!! Daugavpils: Ambiguous team name "Daugavpils".
+
+TABLE FOR Super Nova
+LEAGUE TABLE Virsliga 2026 | 10 teams | 175 games played
+League averages per game: home 1.63, away 1.29, total 2.92
+#   team                   Pts | home P GF-GA  | away P GF-GA  | all P GF-GA
+1   Rīgas FS                89 | 18  55-14      | 17  32-10      | 35  87-24
+2   Riga                    83 | 17  48-15      | 18  47-18      | 35  95-33
+3   Auda                    70 | 18  33-19      | 17  28-19      | 35  61-38
+4   BFC Daugavpils          51 | 18  22-14      | 17  20-23      | 35  42-37
+5   FK Liepaja              48 | 18  34-20      | 17  15-29      | 35  49-49
+6   Super Nova              39 | 17  17-29      | 18  18-24      | 35  35-53
+7   FS Jelgava              32 | 17  13-26      | 18  24-35      | 35  37-61
+8   Grobiņa                 29 | 17  17-26      | 18  10-38      | 35  27-64
+9   Tukums                  25 | 17  28-26      | 18  16-41      | 35  44-67
+10  Ogre United             19 | 18  19-36      | 17  15-49      | 35  34-85
+
+(15 API-Football requests used)
+
+----------------------------------------------------------------------
+MATCHBOOK: skipped (switched off for this run)
