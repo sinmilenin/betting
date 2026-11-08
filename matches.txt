@@ -1,8 +1,5 @@
-# scan 08.11 15:11 run 1: new fixtures
-Levski Sofia v CSKA Sofia | n=20 | xg=10
-Al Wahda v Al Ain | n=20 | xg=10
-Sturm Graz v Red Bull Salzburg | n=20 | xg=10
-OFI v Atromitos | n=20 | xg=10
-CFR Cluj v Universitatea Craiova | n=20 | xg=10
-Plzen v Sparta Prague | n=20 | xg=10
-Varazdin v Dinamo Zagreb | n=20 | xg=10
+# scan 08.11 15:11 run 2: ids and names
+id:2875 v Al Ain | n=20 | xg=10
+CFR 1907 Cluj v Universitatea Craiova | n=20 | xg=10
+Plzen v Sparta Praha | n=20 | xg=10
+id:1483 v Dinamo Zagreb | n=20 | xg=10
