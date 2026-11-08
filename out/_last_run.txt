@@ -1,5 +1,4 @@
-RUN 2026-11-08 17:16 local | 2 match(es)
-Vasas v id:651 -> out/Vasas_v_id_651.txt
-Sint Truiden v Zulte Waregem -> out/Sint_Truiden_v_Zulte_Waregem.txt
-    !! Sint Truiden: No team found for "Sint Truiden".
-Requests used: API-Football 40, Matchbook 0
+RUN 2026-11-08 17:17 local | 1 match(es)
+St Truiden v Zulte Waregem -> out/St_Truiden_v_Zulte_Waregem.txt
+    !! St Truiden: No team found for "St Truiden".
+Requests used: API-Football 14, Matchbook 0
