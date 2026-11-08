@@ -1,6 +1,3 @@
-# scan 08.11 17:26
-Cartagines v Escorpiones | n=20 | xg=10
-Sporting CP B v Tondela | n=20 | xg=10
-Fredrikstad v Brann | n=20 | xg=10
-Olympiakos Piraeus v PAOK | n=20 | xg=10
-Lech Poznan v Zaglebie Lubin | n=20 | xg=10
+# scan 08.11 18:12
+Vasas v Ferencvaros | n=20 | xg=10
+Sint-Truiden v Zulte Waregem | n=20 | xg=10
