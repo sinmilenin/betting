@@ -1,0 +1,102 @@
+MATCH CFR Cluj v Universitatea Craiova | fetched 2026-11-08 14:13 local
+
+FORM DATA CFR Cluj v Universitatea Craiova | source API-Football | 2026-11-08 14:14 UTC
+H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
+
+=== CFR Cluj II (id 19658): last 20 finished games ===
+2023-05-27 A 1-1 v Minerul Ocna Dej | Liga III - Serie 10 | Jucu de Mijloc
+2023-05-20 H 1-2 v SCM Zalău | Liga III - Serie 10 | Cluj-Napoca
+2023-05-13 A 1-3 v Victoria Carei | Liga III - Serie 10 | Carei
+2023-05-06 H 3-0 v Sportul Şimleu | Liga III - Serie 10 | Iclod
+2023-05-03 H 1-1 v Sighetu Marmaţiei | Liga III - Serie 10 | Iclod
+2023-04-29 H 2-1 v Minerul Ocna Dej | Liga III - Serie 10 | Iclod
+2023-04-22 A 0-2 v SCM Zalău | Liga III - Serie 10 | Zalău
+2023-04-14 H 1-1 v Victoria Carei | Liga III - Serie 10 | Iclod
+2023-04-08 A 2-0 v Sportul Şimleu | Liga III - Serie 10 | Şimleu Silvaniei
+2023-04-01 A 0-1 v Sighetu Marmaţiei | Liga III - Serie 10 | Sighetu Marmaţiei
+2023-03-25 A 3-0 v Minerul Ocna Dej | Liga III - Serie 10 | Jucu de Mijloc
+2023-03-18 H 2-1 v Victoria Carei | Liga III - Serie 10 | Iclod
+2023-03-10 A 2-4 v Sânmartin | Liga III - Serie 10 | Sânmartin
+2022-12-03 H 1-1 v SCM Zalău | Liga III - Serie 10 | Cluj-Napoca
+2022-11-26 A 0-4 v Bihor Oradea | Liga III - Serie 10 | Oradea
+2022-11-19 H 1-2 v CSM Satu Mare | Liga III - Serie 10 | Cluj-Napoca
+2022-11-11 A 0-2 v Gloria Bistriţa | Liga III - Serie 10 | Bistriţa
+2022-11-05 H 0-2 v Sighetu Marmaţiei | Liga III - Serie 10 | Cluj-Napoca
+2022-10-29 H 2-0 v Sportul Şimleu | Liga III - Serie 10 | Cluj-Napoca
+2022-10-22 H 0-1 v Minerul Ocna Dej | Liga III - Serie 10 | Cluj-Napoca
+Listed home: 11 games, scored 14 (1.27), conceded 12 (1.09), blanks 2, clean sheets 2
+Listed away: 9 games, scored 9 (1.00), conceded 17 (1.89), blanks 4, clean sheets 2
+All: 20 games, scored 23 (1.15), conceded 29 (1.45), blanks 6, clean sheets 4
+
+=== Universitatea Craiova (id 632): last 20 finished games ===
+2026-11-05 H 2-0 v Egnatia Rrogozhinë | UEFA Europa Conference League | Craiova | xG 2.55-0.43
+2026-11-01 H 2-1 v FC Botosani | Liga I | Craiova | xG 1.13-0.69
+2026-10-29 A 1-1 v FC Voluntari | Cupa României | Voluntari
+2026-10-26 A 5-0 v Sepsi OSK Sfantu Gheorghe | Liga I | Sfantu Gheorghe | xG 4.18-0.00
+2026-10-22 A 3-1 v Inter Club d'Escaldes | UEFA Europa Conference League | Sant Julia de Loria | xG 1.95-0.51
+2026-10-18 H 2-0 v Farul Constanta | Liga I | Craiova | xG 1.37-0.78
+2026-10-15 H 1-1 v Getafe | UEFA Europa Conference League | Craiova | xG 0.85-1.50
+2026-10-11 A 1-0 v Csikszereda | Liga I | Miercurea Ciuc | xG 3.33-0.47
+2026-10-04 A 4-0 v Slatina | Friendlies Clubs | ?
+2026-09-19 H 5-0 v FCSB | Liga I | Craiova | xG 3.14-0.61
+2026-09-13 A 1-0 v Corvinul Hunedoara | Liga I | Arad
+2026-09-07 H 4-0 v Universitatea Cluj | Liga I | Craiova
+2026-09-03 A 2-1 v FC Bacau | Cupa României | ?
+2026-08-31 A 1-1 v Rapid | Liga I | Bucharest
+2026-08-27 A 0-1 v Ararat-Armenia | UEFA Europa League | Yerevan
+2026-08-23 H 3-1 v FC Voluntari | Liga I | Craiova
+2026-08-20 H 1-1 v Ararat-Armenia | UEFA Europa League | Craiova
+2026-08-16 A 1-1 v Oţelul | Liga I | Galati
+2026-08-13 H 2-1 v KuPS | UEFA Europa League | Craiova
+2026-08-09 H 0-1 v Arges Pitesti | Liga I | Craiova
+Listed home: 10 games, scored 22 (2.20), conceded 6 (0.60), blanks 1, clean sheets 4
+Listed away: 10 games, scored 19 (1.90), conceded 6 (0.60), blanks 1, clean sheets 4
+All: 20 games, scored 41 (2.05), conceded 12 (0.60), blanks 2, clean sheets 8
+
+(no league table available for CFR Cluj II: tried Liga III - Serie 10 2022)
+
+TABLE FOR Universitatea Craiova
+LEAGUE TABLE UEFA Europa Conference League 2026 | 36 teams | 54 games played
+League averages per game: home 1.57, away 1.19, total 2.76
+#   team                   Pts | home P GF-GA  | away P GF-GA  | all P GF-GA
+1   FC Lugano                9 |  2   6-2       |  1   5-2       |  3  11-4
+2   Panathinaikos            9 |  2   4-2       |  1   5-1       |  3   9-3
+3   Twente                   9 |  2   4-1       |  1   4-1       |  3   8-2
+4   Monaco                   9 |  2   5-0       |  1   2-1       |  3   7-1
+5   Brighton                 7 |  1   4-0       |  2   1-0       |  3   5-0
+6   Brann                    7 |  1   2-1       |  2   5-2       |  3   7-3
+7   FC Copenhagen            7 |  2   5-1       |  1   2-2       |  3   7-3
+8   Universitatea Craiova    7 |  2   3-1       |  1   3-1       |  3   6-2
+9   Mjallby AIF              7 |  2   4-0       |  1   1-1       |  3   5-1
+10  St. Truiden              7 |  2   3-1       |  1   1-0       |  3   4-1
+11  Ajax                     6 |  1   2-0       |  2   7-3       |  3   9-3
+12  Trabzonspor              6 |  2   2-1       |  1   4-2       |  3   6-3
+13  HNK Hajduk Split         6 |  1   2-1       |  2   1-1       |  3   3-2
+14  SC Freiburg              6 |  1   3-2       |  2   1-3       |  3   4-5
+15  FK Crvena Zvezda         4 |  2   4-3       |  1   2-3       |  3   6-6
+16  Atalanta                 4 |  2   4-2       |  1   0-2       |  3   4-4
+17  SC Braga                 4 |  1   2-0       |  2   0-3       |  3   2-3
+18  Gent                     4 |  1   1-0       |  2   0-2       |  3   1-2
+19  Riga                     3 |  2   2-2       |  1   1-1       |  3   3-3
+20  FC Thun                  3 |  2   3-2       |  1   0-1       |  3   3-3
+21  Borac Banja Luka         3 |  1   2-0       |  2   1-4       |  3   3-4
+22  Lincoln Red Imps FC      3 |  2   2-4       |  1   1-2       |  3   3-6
+23  FK Jablonec              2 |  1   0-0       |  2   3-4       |  3   3-4
+24  Aarhus                   2 |  2   1-1       |  1   0-1       |  3   1-2
+25  FC Nordsjaelland         2 |  1   2-2       |  2   1-3       |  3   3-5
+26  Egnatia Rrogozhinë       2 |  1   1-1       |  2   1-3       |  3   2-4
+27  Kairat Almaty            2 |  1   1-5       |  2   2-2       |  3   3-7
+28  CSKA Sofia               1 |  1   1-2       |  2   3-4       |  3   4-6
+29  FC Iberia 1999           1 |  1   1-1       |  2   1-4       |  3   2-5
+30  Pafos                    1 |  1   1-1       |  2   2-6       |  3   3-7
+31  Getafe                   1 |  2   2-6       |  1   1-1       |  3   3-7
+32  Heart Of Midlothian      1 |  1   1-1       |  2   1-5       |  3   2-6
+33  KuPS                     1 |  2   2-4       |  1   0-2       |  3   2-6
+34  FC Midtjylland           1 |  2   1-7       |  1   1-1       |  3   2-8
+35  Inter Club d'Escaldes    0 |  1   1-3       |  2   1-4       |  3   2-7
+36  Kauno Žalgiris           0 |  1   1-4       |  2   0-7       |  3   1-11
+
+(25 API-Football requests used)
+
+----------------------------------------------------------------------
+MATCHBOOK: skipped (switched off for this run)
