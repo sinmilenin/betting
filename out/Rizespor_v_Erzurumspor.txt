@@ -1,0 +1,66 @@
+MATCH Rizespor v Erzurumspor | fetched 2026-11-08 08:11 local
+
+FORM DATA Rizespor v Erzurumspor | source API-Football | 2026-11-08 08:11 UTC
+H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
+
+=== Rizespor (id 1007): last 20 finished games ===
+2026-10-31 A 0-0 v Kocaelispor | Süper Lig | Kocaeli | xG 1.17-0.62
+2026-10-26 H 3-4 v Trabzonspor | Süper Lig | Rize | xG 1.90-2.69
+2026-10-16 A 1-2 v Çorum FK | Süper Lig | Corum | xG 0.84-0.71
+2026-10-10 H 0-3 v Fenerbahçe | Süper Lig | Rize | xG 1.52-0.96
+2026-10-03 H 3-0 v Boluspor | Friendlies Clubs | ?
+2026-09-20 A 2-2 v Göztepe | Süper Lig | Izmir | xG 0.78-2.78
+2026-09-12 A 2-0 v Eyüpspor | Süper Lig | Esenyurt | xG 2.05-1.42
+2026-09-07 H 0-1 v Alanyaspor | Süper Lig | Rize | xG 1.28-2.07
+2026-08-29 A 2-1 v Gaziantep FK | Süper Lig | Gaziantep | xG 1.17-0.79
+2026-08-22 H 0-2 v Samsunspor | Süper Lig | Rize | xG 1.85-0.33
+2026-08-15 A 1-0 v Konyaspor | Süper Lig | Konya
+2026-08-08 H 2-1 v Pyramids FC | Friendlies Clubs | ?
+2026-07-31 H 0-0 v Abha | Friendlies Clubs | ?
+2026-07-28 H 1-2 v Hull City | Friendlies Clubs | ?
+2026-07-25 A 3-1 v NK Osijek | Friendlies Clubs | ?
+2026-07-17 A 0-0 v Erzurumspor FK | Friendlies Clubs | ?
+2026-07-15 H 3-0 v Dinamo Batumi | Friendlies Clubs | ?
+2026-05-15 H 2-2 v Beşiktaş | Süper Lig | Rize
+2026-05-09 A 0-4 v Eyüpspor | Süper Lig | Istanbul
+2026-05-01 H 3-2 v Konyaspor | Süper Lig | Rize
+Listed home: 11 games, scored 17 (1.55), conceded 17 (1.55), blanks 4, clean sheets 3
+Listed away: 9 games, scored 11 (1.22), conceded 10 (1.11), blanks 3, clean sheets 4
+All: 20 games, scored 28 (1.40), conceded 27 (1.35), blanks 7, clean sheets 7
+
+"Erzurumspor" matches several teams. Use id:<number> instead of the name:
+  id:1009   Erzurumspor FK (Turkey)
+  id:28243  Erzurumspor U19 (Turkey)
+(retrying Erzurumspor using the opponent's country, Turkey)
+"Erzurumspor" matches several teams. Use id:<number> instead of the name:
+  id:1009   Erzurumspor FK (Turkey)
+  id:28243  Erzurumspor U19 (Turkey)
+!! Erzurumspor: Ambiguous team name "Erzurumspor".
+
+TABLE FOR Rizespor
+LEAGUE TABLE Süper Lig 2026 | 18 teams | 95 games played
+League averages per game: home 1.71, away 1.29, total 3.00
+#   team                   Pts | home P GF-GA  | away P GF-GA  | all P GF-GA
+1   Galatasaray             28 |  6  15-9       |  5  12-6       | 11  27-15
+2   Amed                    23 |  6  19-4       |  5   9-11      | 11  28-15
+3   Trabzonspor             22 |  5  15-1       |  5   9-7       | 10  24-8
+4   Kasımpaşa               20 |  5   9-6       |  6   8-5       | 11  17-11
+5   Beşiktaş                19 |  5  14-3       |  5   6-9       | 10  20-12
+6   Kocaelispor             19 |  5   6-2       |  6   7-7       | 11  13-9
+7   Başakşehir              17 |  6  16-7       |  5   3-10      | 11  19-17
+8   Fenerbahçe              16 |  5  17-6       |  5   7-4       | 10  24-10
+9   Çorum FK                16 |  4   6-4       |  6  15-12      | 10  21-16
+10  Göztepe                 15 |  5   7-9       |  6  15-10      | 11  22-19
+11  Erzurumspor FK          14 |  5   5-7       |  5   4-8       | 10   9-15
+12  Alanyaspor              12 |  4   4-4       |  6   5-12      | 10   9-16
+13  Rizespor                11 |  4   3-10      |  6   8-5       | 10  11-15
+14  Gençlerbirliği S.K.     11 |  6  11-7       |  4   1-11      | 10  12-18
+15  Konyaspor                8 |  6   4-7       |  5   2-7       | 11   6-14
+16  Gaziantep FK             8 |  6   3-11      |  5   6-8       | 11   9-19
+17  Samsunspor               7 |  6   6-15      |  5   5-11      | 11  11-26
+18  Eyüpspor                 3 |  6   2-11      |  5   1-19      | 11   3-30
+
+(15 API-Football requests used)
+
+----------------------------------------------------------------------
+MATCHBOOK: skipped (switched off for this run)

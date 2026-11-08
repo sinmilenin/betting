@@ -1,0 +1,29 @@
+MATCH Riga FC v RFS | fetched 2026-11-08 08:11 local
+
+FORM DATA Riga FC v RFS | source API-Football | 2026-11-08 08:11 UTC
+H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
+
+=== Riga FC (id 2263): last 0 finished games ===
+Listed home: no games
+Listed away: no games
+All: no games
+
+"RFS" matches several teams. Use id:<number> instead of the name:
+  id:12245  Ebusua Dwarfs (Ghana)
+  id:21382  RFS akadēmija (Latvia)
+  id:22291  Tregaron Turfs (Wales)
+  id:27769  RFK/RFS (Latvia)
+(retrying RFS using the opponent's country, Latvia)
+"RFS" matches several teams. Use id:<number> instead of the name:
+  id:12245  Ebusua Dwarfs (Ghana)
+  id:21382  RFS akadēmija (Latvia)
+  id:22291  Tregaron Turfs (Wales)
+  id:27769  RFK/RFS (Latvia)
+!! RFS: Ambiguous team name "RFS".
+
+(no league table available for Riga FC: tried no competitions)
+
+(4 API-Football requests used)
+
+----------------------------------------------------------------------
+MATCHBOOK: skipped (switched off for this run)
