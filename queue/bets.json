@@ -185,5 +185,38 @@
     "lay": 16.5,
     "stake": 3,
     "created": "2026-11-08T14:39:44+01:00"
+  },
+  {
+    "id": "2026-11-08_pfc-levski-sofia-cska-sofia_2-2",
+    "date": "2026-11-08",
+    "ko": "16:00",
+    "match": "PFC Levski Sofia v CSKA Sofia",
+    "comp": "Bulgaria, Bulgarian A League",
+    "cell": "2-2",
+    "lay": 19.5,
+    "stake": 3,
+    "created": "2026-11-08T15:18:23+01:00"
+  },
+  {
+    "id": "2026-11-08_ham-kam-sarpsborg_1-0",
+    "date": "2026-11-08",
+    "ko": "17:00",
+    "match": "Ham-Kam v Sarpsborg",
+    "comp": "Norway, Norwegian Eliteserien",
+    "cell": "1-0",
+    "lay": 17.0,
+    "stake": 3,
+    "created": "2026-11-08T15:18:23+01:00"
+  },
+  {
+    "id": "2026-11-08_ajman-club-bani-yas_1-0",
+    "date": "2026-11-08",
+    "ko": "16:30",
+    "match": "Ajman Club v Bani Yas",
+    "comp": "United Arab Emirates, UAE Arabian Gulf League",
+    "cell": "1-0",
+    "lay": 13.5,
+    "stake": 3,
+    "created": "2026-11-08T15:18:23+01:00"
   }
 ]
