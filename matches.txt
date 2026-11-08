@@ -1,2 +1,12 @@
-# scan 08.11 10:41 run 3 (St Pauli id)
-id:179 v id:186 | n=20 | xg=10
+# scan 08.11 11:26 run 1
+Super Nova v Daugavpils | n=20 | xg=10
+Feirense v Lusitania | n=20 | xg=10
+Zorya Luhansk v LNZ Cherkasy | n=20 | xg=10
+FC Porto II v Portimonense | n=20 | xg=10
+Sandnes Ulf v Asane | n=20 | xg=10
+KuPS v Inter Turku | n=20 | xg=10
+St. Gallen v Lugano | n=20 | xg=10
+Aarhus v Horsens | n=20 | xg=10
+Halmstad v Djurgardens IF | n=20 | xg=10
+Umraniyespor v Kayserispor | n=20 | xg=10
+IFK Goteborg v Malmo FF | n=20 | xg=10
