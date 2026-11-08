@@ -1,3 +1,3 @@
-# scan 08.11 15:56 run 2: corrected names
-A. Italiano v Coquimbo Unido | n=20 | xg=10
-Union St. Gilloise v Genk | n=20 | xg=10
+# scan 08.11 15:56 run 3: search words
+Italiano v Coquimbo Unido | n=20 | xg=10
+Gilloise v Genk | n=20 | xg=10
