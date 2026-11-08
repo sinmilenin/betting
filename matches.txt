@@ -1,6 +1,2 @@
-# scan 08.11 11:26 run 2 (ids / renamed)
-Super Nova v id:4149 | n=20 | xg=10
-id:213 v id:6358 | n=20 | xg=10
-Porto B v Portimonense | n=20 | xg=10
-St Gallen v Lugano | n=20 | xg=10
-Aarhus v id:404 | n=20 | xg=10
+# scan 08.11 11:26 run 3 (St Gallen)
+Gallen v Lugano | n=20 | xg=10
