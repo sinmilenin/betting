@@ -1,6 +1,6 @@
-MATCH Riga v Rigas FS | fetched 2026-11-08 08:14 local
+MATCH id:10124 v id:4160 | fetched 2026-11-08 08:15 local
 
-FORM DATA Riga v Rigas FS | source API-Football | 2026-11-08 08:14 UTC
+FORM DATA id:10124 v id:4160 | source API-Football | 2026-11-08 08:15 UTC
 H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
 
 === Riga (id 10124): last 20 finished games ===
@@ -28,16 +28,30 @@ Listed home: 8 games, scored 17 (2.12), conceded 9 (1.12), blanks 0, clean sheet
 Listed away: 12 games, scored 21 (1.75), conceded 13 (1.08), blanks 2, clean sheets 5
 All: 20 games, scored 38 (1.90), conceded 22 (1.10), blanks 2, clean sheets 5
 
-"Rigas FS" matches several teams. Use id:<number> instead of the name:
-  id:4160   Rīgas FS (Latvia)
-  id:10922  Rīgas FS W (None)
-  id:18836  Rīgas FS II (Latvia)
-(retrying Rigas FS using the opponent's country, Latvia)
-"Rigas FS" matches several teams. Use id:<number> instead of the name:
-  id:4160   Rīgas FS (Latvia)
-  id:10922  Rīgas FS W (None)
-  id:18836  Rīgas FS II (Latvia)
-!! Rigas FS: Ambiguous team name "Rigas FS".
+=== Rīgas FS (id 4160): last 20 finished games ===
+2026-11-01 H 3-0 v Grobiņa | Virsliga | Riga | xG 3.08-0.22
+2026-10-25 A 3-0 v Super Nova | Virsliga | Olaine | xG 1.81-0.33
+2026-10-19 H 2-0 v Tukums | Virsliga | Riga | xG 2.58-0.22
+2026-10-15 H 4-0 v Super Nova | Virsliga | Riga
+2026-10-11 H 4-2 v FS Jelgava | Virsliga | Oslo
+2026-09-20 A 1-1 v Auda | Virsliga | Riga
+2026-09-13 A 2-1 v BFC Daugavpils | Virsliga | Daugavpils
+2026-09-07 H 0-0 v FK Liepaja | Virsliga | Riga
+2026-09-03 H 2-3 v Riga | Cup | Riga
+2026-08-30 A 3-0 v Ogre United | Virsliga | Ogre
+2026-08-23 H 3-3 v Riga | Virsliga | Riga
+2026-08-16 A 1-0 v Super Nova | Cup | Riga
+2026-08-13 H 1-2 v FK Jablonec | UEFA Europa Conference League | Rīga
+2026-08-10 H 6-1 v Grobiņa | Virsliga | Riga
+2026-08-06 A 0-2 v FK Jablonec | UEFA Europa Conference League | Jablonec
+2026-07-30 A 1-1 v Vestri | UEFA Europa Conference League | Hnifsdalur
+2026-07-27 A 1-0 v Tukums | Virsliga | Tukums
+2026-07-23 H 4-1 v Vestri | UEFA Europa Conference League | Rīga
+2026-07-20 A 1-0 v FS Jelgava | Virsliga | Jelgava
+2026-07-16 H 2-0 v Glentoran | UEFA Europa Conference League | Rīga
+Listed home: 11 games, scored 31 (2.82), conceded 12 (1.09), blanks 1, clean sheets 5
+Listed away: 9 games, scored 13 (1.44), conceded 5 (0.56), blanks 1, clean sheets 5
+All: 20 games, scored 44 (2.20), conceded 17 (0.85), blanks 2, clean sheets 10
 
 TABLE FOR Riga
 LEAGUE TABLE UEFA Europa Conference League 2026 | 36 teams | 54 games played
@@ -80,7 +94,22 @@ League averages per game: home 1.57, away 1.19, total 2.76
 35  Inter Club d'Escaldes    0 |  1   1-3       |  2   1-4       |  3   2-7
 36  Kauno Žalgiris           0 |  1   1-4       |  2   0-7       |  3   1-11
 
-(15 API-Football requests used)
+TABLE FOR Rīgas FS
+LEAGUE TABLE Virsliga 2026 | 10 teams | 175 games played
+League averages per game: home 1.63, away 1.29, total 2.92
+#   team                   Pts | home P GF-GA  | away P GF-GA  | all P GF-GA
+1   Rīgas FS                89 | 18  55-14      | 17  32-10      | 35  87-24
+2   Riga                    83 | 17  48-15      | 18  47-18      | 35  95-33
+3   Auda                    70 | 18  33-19      | 17  28-19      | 35  61-38
+4   BFC Daugavpils          51 | 18  22-14      | 17  20-23      | 35  42-37
+5   FK Liepaja              48 | 18  34-20      | 17  15-29      | 35  49-49
+6   Super Nova              39 | 17  17-29      | 18  18-24      | 35  35-53
+7   FS Jelgava              32 | 17  13-26      | 18  24-35      | 35  37-61
+8   Grobiņa                 29 | 17  17-26      | 18  10-38      | 35  27-64
+9   Tukums                  25 | 17  28-26      | 18  16-41      | 35  44-67
+10  Ogre United             19 | 18  19-36      | 17  15-49      | 35  34-85
+
+(26 API-Football requests used)
 
 ----------------------------------------------------------------------
 MATCHBOOK: skipped (switched off for this run)
