@@ -141,5 +141,27 @@
     "lay": 15.0,
     "stake": 3,
     "created": "2026-11-08T13:03:30+01:00"
+  },
+  {
+    "id": "2026-11-08_asteras-tripolis-kalamata_2-2",
+    "date": "2026-11-08",
+    "ko": "16:00",
+    "match": "Asteras Tripolis v Kalamata",
+    "comp": "Greece, Greek Super League",
+    "cell": "2-2",
+    "lay": 18.5,
+    "stake": 3,
+    "created": "2026-11-08T13:53:58+01:00"
+  },
+  {
+    "id": "2026-11-08_aek-athens-levadiakos_2-1",
+    "date": "2026-11-08",
+    "ko": "16:00",
+    "match": "AEK Athens v Levadiakos",
+    "comp": "Greece, Greek Super League",
+    "cell": "2-1",
+    "lay": 12.0,
+    "stake": 3,
+    "created": "2026-11-08T13:53:58+01:00"
   }
 ]
