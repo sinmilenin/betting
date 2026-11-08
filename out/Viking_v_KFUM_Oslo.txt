@@ -1,0 +1,121 @@
+MATCH Viking v KFUM Oslo | fetched 2026-11-08 13:29 local
+
+FORM DATA Viking v KFUM Oslo | source API-Football | 2026-11-08 13:30 UTC
+H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
+
+=== Viking (id 759): last 20 finished games ===
+2026-11-04 H 4-1 v Sabah FA | UEFA Champions League | Stavanger | xG 2.59-1.59
+2026-10-30 A 2-3 v Bodo/Glimt | Eliteserien | Hakata | xG 2.07-1.49
+2026-10-25 H 3-1 v Tromso | Eliteserien | Stavanger | xG 1.12-1.33
+2026-10-21 A 1-3 v Aston Villa | UEFA Champions League | Birmingham | xG 0.75-2.67
+2026-10-17 H 3-2 v Fredrikstad | Eliteserien | Stavanger | xG 1.78-0.47
+2026-10-13 H 3-3 v Bayern München | UEFA Champions League | Stavanger | xG 0.72-3.29
+2026-10-09 A 2-0 v Brann | Eliteserien | Bergen | xG 1.25-2.57
+2026-10-01 A 3-0 v Madla | NM Cupen | ?
+2026-09-20 H 3-0 v Lillestrom | Eliteserien | Stavanger | xG 2.98-1.77
+2026-09-13 H 8-1 v Kristiansund BK | Eliteserien | Stavanger | xG 4.27-0.70
+2026-09-09 A 1-3 v VfB Stuttgart | UEFA Champions League | Stuttgart
+2026-09-04 A 1-1 v Sandefjord | Eliteserien | Sandefjord
+2026-09-02 A 3-1 v Brodd | NM Cupen | Stavanger
+2026-08-30 H 2-1 v Aalesund | Eliteserien | Stavanger
+2026-08-26 H 3-1 v Dinamo Zagreb | UEFA Champions League | Stavanger
+2026-08-18 A 2-2 v Dinamo Zagreb | UEFA Champions League | Zagreb
+2026-08-14 A 1-2 v Rosenborg | Eliteserien | Trondheim
+2026-08-08 H 2-1 v Sarpsborg 08 FF | Eliteserien | Stavanger
+2026-08-01 A 3-0 v Start | Eliteserien | Kristiansand
+2026-07-26 A 1-1 v Aalesund | Eliteserien | Aalesund
+Listed home: 9 games, scored 31 (3.44), conceded 11 (1.22), blanks 0, clean sheets 1
+Listed away: 11 games, scored 20 (1.82), conceded 16 (1.45), blanks 0, clean sheets 3
+All: 20 games, scored 51 (2.55), conceded 27 (1.35), blanks 0, clean sheets 4
+
+=== KFUM Oslo (id 2143): last 20 finished games ===
+2026-11-01 H 2-2 v Ham-Kam | Eliteserien | Oslo | xG 1.16-0.92
+2026-10-25 A 2-2 v Kristiansund BK | Eliteserien | Kristiansand | xG 2.11-3.29
+2026-10-18 A 1-1 v Tromso | Eliteserien | Tromso | xG 0.77-1.30
+2026-10-12 H 2-1 v Valerenga | Eliteserien | Oslo | xG 2.04-1.70
+2026-09-30 A 2-0 v Hønefoss | NM Cupen | Honefoss
+2026-09-18 A 3-1 v Sarpsborg 08 FF | Eliteserien | Sarpsberg | xG 0.95-2.56
+2026-09-13 H 2-1 v Aalesund | Eliteserien | Oslo | xG 1.48-1.57
+2026-09-06 A 0-2 v Molde | Eliteserien | Molde | xG 0.18-1.81
+2026-08-30 A 1-4 v Start | Eliteserien | Kristiansand | xG 1.65-3.43
+2026-08-22 A 4-0 v IF Ready | NM Cupen | Oslo
+2026-08-15 H 1-1 v Lillestrom | Eliteserien | Oslo
+2026-08-07 A 1-0 v Sandefjord | Eliteserien | Sandefjord
+2026-08-02 H 2-1 v Kristiansund BK | Eliteserien | Oslo
+2026-07-26 H 2-4 v Molde | Eliteserien | Oslo
+2026-07-18 A 1-2 v Lillestrom | Eliteserien | Lillestrøm
+2026-07-12 H 0-2 v Bodo/Glimt | Eliteserien | Oslo
+2026-07-04 A 0-2 v Vendsyssel FF | Friendlies Clubs | ?
+2026-06-21 A 1-5 v Molde | Friendlies Clubs | ?
+2026-05-29 H 0-0 v Tromso | Eliteserien | Oslo
+2026-05-25 H 2-0 v Rosenborg | Eliteserien | Oslo
+Listed home: 9 games, scored 13 (1.44), conceded 12 (1.33), blanks 2, clean sheets 2
+Listed away: 11 games, scored 16 (1.45), conceded 19 (1.73), blanks 2, clean sheets 3
+All: 20 games, scored 29 (1.45), conceded 31 (1.55), blanks 4, clean sheets 5
+
+TABLE FOR Viking
+LEAGUE TABLE UEFA Champions League 2026 | 36 teams | 72 games played
+League averages per game: home 2.32, away 1.72, total 4.04
+#   team                   Pts | home P GF-GA  | away P GF-GA  | all P GF-GA
+1   Paris Saint Germain     12 |  2  10-3       |  2  10-2       |  4  20-5
+2   Real Madrid             12 |  2   6-2       |  2   7-5       |  4  13-7
+3   Arsenal                 10 |  1   3-0       |  3   5-3       |  4   8-3
+4   Como                     9 |  2   8-2       |  2  11-4       |  4  19-6
+5   Barcelona                9 |  2   8-1       |  2   6-5       |  4  14-6
+6   Aston Villa              9 |  2   9-1       |  2   3-5       |  4  12-6
+7   Manchester City          9 |  2   7-5       |  2   5-2       |  4  12-7
+8   Liverpool                9 |  2   6-4       |  2   8-6       |  4  14-10
+9   Club Brugge KV           9 |  2   5-3       |  2   6-4       |  4  11-7
+10  Sporting CP              9 |  2   5-4       |  2   3-0       |  4   8-4
+11  Real Betis               9 |  2   4-2       |  2   4-4       |  4   8-6
+12  Borussia Dortmund        9 |  2   5-3       |  2   2-2       |  4   7-5
+13  Bayern München           8 |  2   7-2       |  2   5-3       |  4  12-5
+14  VfB Stuttgart            7 |  2   4-2       |  2   3-2       |  4   7-4
+15  Inter                    6 |  2   4-4       |  2   4-2       |  4   8-6
+16  Lask Linz                6 |  2   7-6       |  2   3-3       |  4  10-9
+17  Manchester United        6 |  2   7-2       |  2   1-6       |  4   8-8
+18  Galatasaray              6 |  2   3-4       |  2   5-5       |  4   8-9
+19  Fenerbahçe               5 |  3   6-5       |  1   0-6       |  4   6-11
+20  AS Roma                  4 |  2   7-4       |  2   3-4       |  4  10-8
+21  Shakhtar Donetsk         4 |  2   3-2       |  2   1-2       |  4   4-4
+22  Viking                   4 |  2   7-4       |  2   2-6       |  4   9-10
+23  Atletico Madrid          4 |  2   2-2       |  2   2-3       |  4   4-5
+24  PSV Eindhoven            4 |  2   2-3       |  2   1-1       |  4   3-4
+25  Bodo/Glimt               4 |  2   1-0       |  2   3-9       |  4   4-9
+26  FC Porto                 3 |  3   4-4       |  1   2-3       |  4   6-7
+27  Napoli                   3 |  2   4-4       |  2   2-7       |  4   6-11
+28  Villarreal               3 |  2   3-7       |  2   5-7       |  4   8-14
+29  AEK Athens FC            3 |  2   3-3       |  2   2-8       |  4   5-11
+30  RB Leipzig               3 |  2   3-3       |  2   2-8       |  4   5-11
+31  Sabah FA                 3 |  2   3-2       |  2   1-8       |  4   4-10
+32  Feyenoord                3 |  2   3-5       |  2   1-6       |  4   4-11
+33  Lens                     3 |  2   1-11      |  2   3-5       |  4   4-16
+34  Slavia Praha             1 |  2   3-5       |  2   2-4       |  4   5-9
+35  Lille                    1 |  2   4-7       |  2   0-3       |  4   4-10
+36  Slovan Bratislava        0 |  1   0-3       |  3   1-14      |  4   1-17
+
+TABLE FOR KFUM Oslo
+LEAGUE TABLE Eliteserien 2026 | 16 teams | 201 games played
+League averages per game: home 1.86, away 1.41, total 3.27
+#   team                   Pts | home P GF-GA  | away P GF-GA  | all P GF-GA
+1   Viking                  59 | 12  44-13      | 13  20-13      | 25  64-26
+2   Bodo/Glimt              59 | 13  37-10      | 12  24-13      | 25  61-23
+3   Rosenborg               46 | 13  32-15      | 13  21-17      | 26  53-32
+4   Molde                   43 | 13  35-15      | 12  24-24      | 25  59-39
+5   Lillestrom              42 | 12  22-19      | 13  14-14      | 25  36-33
+6   Tromso                  40 | 12  22-10      | 13  21-28      | 25  43-38
+7   Brann                   32 | 13  23-20      | 12  22-22      | 25  45-42
+8   Valerenga               32 | 13  27-20      | 12  16-26      | 25  43-46
+9   Sarpsborg 08 FF         31 | 13  16-20      | 12  16-19      | 25  32-39
+10  KFUM Oslo               31 | 13  17-16      | 12  15-25      | 25  32-41
+11  Fredrikstad             29 | 12  14-15      | 13  15-29      | 25  29-44
+12  Sandefjord              27 | 12  10-12      | 13  16-22      | 25  26-34
+13  Ham-Kam                 27 | 12  17-24      | 13  18-29      | 25  35-53
+14  Aalesund                24 | 13  27-34      | 12  16-23      | 25  43-57
+15  Kristiansund BK         23 | 12  16-20      | 13  13-31      | 25  29-51
+16  Start                   19 | 13  15-20      | 13  12-39      | 26  27-59
+
+(25 API-Football requests used)
+
+----------------------------------------------------------------------
+MATCHBOOK: skipped (switched off for this run)

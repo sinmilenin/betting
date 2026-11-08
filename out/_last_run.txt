@@ -1,4 +1,16 @@
-RUN 2026-11-08 12:50 local | 1 match(es)
-id:13976 v Keshla -> out/id_13976_v_Keshla.txt
-    !! Keshla: No team found for "Keshla".
-Requests used: API-Football 14, Matchbook 0
+RUN 2026-11-08 13:29 local | 10 match(es)
+Jablonec v Mlada Boleslav -> out/Jablonec_v_Mlada_Boleslav.txt
+    !! Jablonec: Ambiguous team name "Jablonec".
+Cambuur v PSV -> out/Cambuur_v_PSV.txt
+    !! PSV: Ambiguous team name "PSV".
+AZ Alkmaar v Groningen -> out/AZ_Alkmaar_v_Groningen.txt
+HamKam v Sarpsborg -> out/HamKam_v_Sarpsborg.txt
+    !! HamKam: Ambiguous team name "HamKam".
+Lillestrom v Aalesund -> out/Lillestrom_v_Aalesund.txt
+Viking v KFUM Oslo -> out/Viking_v_KFUM_Oslo.txt
+Shakhtar Donetsk v Dynamo Kyiv -> out/Shakhtar_Donetsk_v_Dynamo_Kyiv.txt
+Carrarese v Sampdoria -> out/Carrarese_v_Sampdoria.txt
+Brest v Lyon -> out/Brest_v_Lyon.txt
+    !! Brest: Ambiguous team name "Brest".
+Angers v Nice -> out/Angers_v_Nice.txt
+Requests used: API-Football 202, Matchbook 0

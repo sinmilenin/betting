@@ -1,0 +1,121 @@
+MATCH Lillestrom v Aalesund | fetched 2026-11-08 13:29 local
+
+FORM DATA Lillestrom v Aalesund | source API-Football | 2026-11-08 13:29 UTC
+H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
+
+=== Lillestrom (id 321): last 20 finished games ===
+2026-11-05 H 0-1 v Plzen | UEFA Europa League | Lillestrom | xG 0.67-2.10
+2026-11-01 A 1-0 v Start | Eliteserien | Kristiansand | xG 2.10-1.37
+2026-10-28 H 2-1 v Sogndal | NM Cupen | ?
+2026-10-25 H 3-2 v Brann | Eliteserien | Lillestrom | xG 2.55-1.48
+2026-10-22 H 0-6 v Real Sociedad | UEFA Europa League | Lillestrom | xG 2.29-2.46
+2026-10-18 A 2-0 v Sandefjord | Eliteserien | Sandefjord | xG 0.51-1.35
+2026-10-15 A 1-1 v Sparta Praha | UEFA Europa League | Prague | xG 0.84-1.12
+2026-10-11 H 2-2 v Molde | Eliteserien | Lillestrom | xG 1.63-2.95
+2026-10-01 A 5-1 v Bærum | NM Cupen | ?
+2026-09-20 A 0-3 v Viking | Eliteserien | Stavanger | xG 1.77-2.98
+2026-09-17 H 1-2 v Torreense | UEFA Europa League | Lillestrom
+2026-09-12 H 2-0 v Valerenga | Eliteserien | Lillestrøm
+2026-09-05 A 2-1 v Brann | Eliteserien | Bergen
+2026-09-02 A 3-0 v Aurskog Finstadbru | NM Cupen | ?
+2026-08-30 H 1-4 v Fredrikstad | Eliteserien | Lillestrøm
+2026-08-27 H 1-1 v Egnatia Rrogozhinë | UEFA Europa League | Lillestrøm [AET, 90-min score shown]
+2026-08-20 A 0-0 v Egnatia Rrogozhinë | UEFA Europa League | Rrogozhine
+2026-08-15 A 1-1 v KFUM Oslo | Eliteserien | Oslo
+2026-08-09 H 0-2 v Rosenborg | Eliteserien | Lillestrøm
+2026-07-31 A 0-4 v Bodo/Glimt | Eliteserien | Bodø
+Listed home: 10 games, scored 12 (1.20), conceded 21 (2.10), blanks 3, clean sheets 1
+Listed away: 10 games, scored 15 (1.50), conceded 11 (1.10), blanks 3, clean sheets 4
+All: 20 games, scored 27 (1.35), conceded 32 (1.60), blanks 6, clean sheets 5
+
+=== Aalesund (id 757): last 20 finished games ===
+2026-10-31 H 3-4 v Sandefjord | Eliteserien | Ålesund | xG 2.03-3.01
+2026-10-28 A 2-0 v Kristiansund BK | NM Cupen | Kristiansund
+2026-10-25 A 1-2 v Sarpsborg 08 FF | Eliteserien | Sarpsberg | xG 0.32-3.03
+2026-10-17 A 4-1 v Kristiansund BK | Eliteserien | Kristiansand | xG 1.84-1.29
+2026-10-11 H 2-4 v Sarpsborg 08 FF | Eliteserien | Ålesund | xG 1.72-2.38
+2026-09-19 A 2-1 v Molde | Eliteserien | Molde | xG 1.05-1.62
+2026-09-16 A 2-2 v Førde | NM Cupen | ? [AET, 90-min score shown]
+2026-09-13 A 1-2 v KFUM Oslo | Eliteserien | Oslo | xG 1.57-1.48
+2026-09-04 H 2-0 v Start | Eliteserien | Aalesund | xG 2.42-1.67
+2026-08-30 A 1-2 v Viking | Eliteserien | Stavanger | xG 0.87-2.42
+2026-08-22 A 13-0 v Langevag | NM Cupen | ?
+2026-08-16 H 5-5 v Valerenga | Eliteserien | Aalesund
+2026-08-09 A 1-1 v Ham-Kam | Eliteserien | Hamar
+2026-08-02 H 2-6 v Tromso | Eliteserien | Aalesund
+2026-07-26 H 1-1 v Viking | Eliteserien | Aalesund
+2026-07-16 A 1-6 v Valerenga | Eliteserien | Oslo
+2026-07-11 H 2-2 v Molde | Eliteserien | Aalesund
+2026-06-27 A 3-0 v Kristiansund BK | Friendlies Clubs | ?
+2026-05-29 H 2-2 v Ham-Kam | Eliteserien | Aalesund
+2026-05-25 A 1-1 v Tromso | Eliteserien | Tromso
+Listed home: 8 games, scored 19 (2.38), conceded 24 (3.00), blanks 0, clean sheets 1
+Listed away: 12 games, scored 32 (2.67), conceded 18 (1.50), blanks 0, clean sheets 3
+All: 20 games, scored 51 (2.55), conceded 42 (2.10), blanks 0, clean sheets 4
+
+TABLE FOR Lillestrom
+LEAGUE TABLE UEFA Europa League 2026 | 36 teams | 72 games played
+League averages per game: home 1.43, away 1.54, total 2.97
+#   team                   Pts | home P GF-GA  | away P GF-GA  | all P GF-GA
+1   Benfica                 12 |  2   7-2       |  2   6-1       |  4  13-3
+2   Bournemouth             12 |  2   6-0       |  2   5-2       |  4  11-2
+3   Ferencvarosi TC         12 |  2   6-2       |  2   5-1       |  4  11-3
+4   Union St. Gilloise      10 |  2   5-1       |  2   5-1       |  4  10-2
+5   Juventus                10 |  2   7-2       |  2   4-2       |  4  11-4
+6   Olympiakos Piraeus      10 |  2   3-1       |  2   1-0       |  4   4-1
+7   Bayer Leverkusen         9 |  2   2-1       |  2   6-0       |  4   8-1
+8   Beşiktaş                 7 |  2   6-3       |  2   5-5       |  4  11-8
+9   Dinamo Zagreb            7 |  2   3-4       |  2   2-0       |  4   5-4
+10  Levski Sofia             7 |  2   1-1       |  2   3-2       |  4   4-3
+11  Sunderland               7 |  2   1-2       |  2   3-2       |  4   4-4
+12  NEC Nijmegen             7 |  2   4-2       |  2   4-7       |  4   8-9
+13  Lyon                     7 |  1   3-2       |  3   3-5       |  4   6-7
+14  AZ Alkmaar               6 |  2   3-3       |  2   4-1       |  4   7-4
+15  Anderlecht               6 |  2   3-2       |  2   3-1       |  4   6-3
+16  OFI                      6 |  2   2-2       |  2   3-2       |  4   5-4
+17  Rennes                   6 |  2   2-1       |  2   2-2       |  4   4-3
+18  Omonia Nicosia           6 |  2   2-4       |  2   4-3       |  4   6-7
+19  Torreense                6 |  2   4-4       |  2   3-5       |  4   7-9
+20  Real Sociedad            5 |  2   2-3       |  2   7-1       |  4   9-4
+21  Crystal Palace           5 |  2   5-1       |  2   4-5       |  4   9-6
+22  Sparta Praha             4 |  2   2-4       |  2   4-2       |  4   6-6
+23  1899 Hoffenheim          4 |  2   5-3       |  2   1-3       |  4   6-6
+24  Sturm Graz               4 |  3   3-3       |  1   0-3       |  4   3-6
+25  Celje                    4 |  2   2-5       |  2   3-4       |  4   5-9
+26  Red Bull Salzburg        4 |  1   0-4       |  3   3-4       |  4   3-8
+27  Celta Vigo               3 |  2   2-4       |  2   2-2       |  4   4-6
+28  AC Milan                 3 |  2   0-4       |  2   4-3       |  4   4-7
+29  Jagiellonia              3 |  2   3-4       |  2   1-3       |  4   4-7
+30  Plzen                    3 |  2   1-5       |  2   2-2       |  4   3-7
+31  Marseille                3 |  1   0-1       |  3   2-5       |  4   2-6
+32  Celtic                   3 |  3   5-7       |  1   1-4       |  4   6-11
+33  Hapoel Beer Sheva        1 |  2   0-2       |  2   1-6       |  4   1-8
+34  Lillestrom               1 |  3   1-9       |  1   1-1       |  4   2-10
+35  Lech Poznan              1 |  2   1-5       |  2   1-7       |  4   2-12
+36  Ararat-Armenia           0 |  2   1-8       |  2   3-6       |  4   4-14
+
+TABLE FOR Aalesund
+LEAGUE TABLE Eliteserien 2026 | 16 teams | 201 games played
+League averages per game: home 1.86, away 1.41, total 3.27
+#   team                   Pts | home P GF-GA  | away P GF-GA  | all P GF-GA
+1   Viking                  59 | 12  44-13      | 13  20-13      | 25  64-26
+2   Bodo/Glimt              59 | 13  37-10      | 12  24-13      | 25  61-23
+3   Rosenborg               46 | 13  32-15      | 13  21-17      | 26  53-32
+4   Molde                   43 | 13  35-15      | 12  24-24      | 25  59-39
+5   Lillestrom              42 | 12  22-19      | 13  14-14      | 25  36-33
+6   Tromso                  40 | 12  22-10      | 13  21-28      | 25  43-38
+7   Brann                   32 | 13  23-20      | 12  22-22      | 25  45-42
+8   Valerenga               32 | 13  27-20      | 12  16-26      | 25  43-46
+9   Sarpsborg 08 FF         31 | 13  16-20      | 12  16-19      | 25  32-39
+10  KFUM Oslo               31 | 13  17-16      | 12  15-25      | 25  32-41
+11  Fredrikstad             29 | 12  14-15      | 13  15-29      | 25  29-44
+12  Sandefjord              27 | 12  10-12      | 13  16-22      | 25  26-34
+13  Ham-Kam                 27 | 12  17-24      | 13  18-29      | 25  35-53
+14  Aalesund                24 | 13  27-34      | 12  16-23      | 25  43-57
+15  Kristiansund BK         23 | 12  16-20      | 13  13-31      | 25  29-51
+16  Start                   19 | 13  15-20      | 13  12-39      | 26  27-59
+
+(25 API-Football requests used)
+
+----------------------------------------------------------------------
+MATCHBOOK: skipped (switched off for this run)
