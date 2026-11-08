@@ -1,11 +1,4 @@
-# scan 08.11 14:26 run 1: new fixtures
-Jablonec v Mlada Boleslav | n=20 | xg=10
-Cambuur v PSV | n=20 | xg=10
-AZ Alkmaar v Groningen | n=20 | xg=10
-HamKam v Sarpsborg | n=20 | xg=10
-Lillestrom v Aalesund | n=20 | xg=10
-Viking v KFUM Oslo | n=20 | xg=10
-Shakhtar Donetsk v Dynamo Kyiv | n=20 | xg=10
-Carrarese v Sampdoria | n=20 | xg=10
-Brest v Lyon | n=20 | xg=10
-Angers v Nice | n=20 | xg=10
+# scan 08.11 14:26 run 2: ids and U21
+id:1122 v Mlada Boleslav | n=20 | xg=10
+Ham-Kam v Sarpsborg 08 | n=20 | xg=10
+Arsenal U21 v Aston Villa U21 | n=20 | xg=10
