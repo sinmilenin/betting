@@ -1,2 +1,11 @@
-# scan 08.11 13:41 run 3: Sabah id
-id:13976 v Keshla | n=20 | xg=10
+# scan 08.11 14:26 run 1: new fixtures
+Jablonec v Mlada Boleslav | n=20 | xg=10
+Cambuur v PSV | n=20 | xg=10
+AZ Alkmaar v Groningen | n=20 | xg=10
+HamKam v Sarpsborg | n=20 | xg=10
+Lillestrom v Aalesund | n=20 | xg=10
+Viking v KFUM Oslo | n=20 | xg=10
+Shakhtar Donetsk v Dynamo Kyiv | n=20 | xg=10
+Carrarese v Sampdoria | n=20 | xg=10
+Brest v Lyon | n=20 | xg=10
+Angers v Nice | n=20 | xg=10
