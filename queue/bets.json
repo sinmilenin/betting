@@ -64,5 +64,16 @@
     "lay": 12,
     "stake": 3,
     "created": "2026-11-08T09:13:00+01:00"
+  },
+  {
+    "id": "2026-11-08_ratchaburi-buriram-utd_1-0",
+    "date": "2026-11-08",
+    "ko": "13:00",
+    "match": "Ratchaburi v Buriram Utd",
+    "comp": "Thailand, Thai League 1",
+    "cell": "1-0",
+    "lay": 15.5,
+    "stake": 3,
+    "created": "2026-11-08T10:49:39+01:00"
   }
 ]
