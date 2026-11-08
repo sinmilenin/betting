@@ -1,7 +1,32 @@
-MATCH WSG Tirol v Austria Vienna | fetched 2026-11-08 11:13 local
+MATCH WSG Wattens v Austria Vienna | fetched 2026-11-08 11:15 local
 
-FORM DATA WSG Tirol v Austria Vienna | source API-Football | 2026-11-08 11:14 UTC
+FORM DATA WSG Wattens v Austria Vienna | source API-Football | 2026-11-08 11:15 UTC
 H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
+
+=== WSG Wattens (id 1398): last 20 finished games ===
+2026-10-31 A 1-2 v Lask Linz | Bundesliga | Linz | xG 0.78-1.88
+2026-10-28 A 1-1 v Wacker Innsbruck | Cup | Innsbruck [PEN, 90-min score shown]
+2026-10-24 H 1-1 v Grazer AK | Bundesliga | Innsbruck | xG 1.06-2.21
+2026-10-18 A 2-0 v Wolfsberger AC | Bundesliga | Wolfsburg | xG 1.76-1.33
+2026-10-10 H 1-2 v Ried | Bundesliga | Innsbruck | xG 1.44-1.60
+2026-10-01 A 6-0 v SSV Jahn Regensburg | Friendlies Clubs | Regensburg
+2026-09-24 A 1-0 v FC Liefering | Friendlies Clubs | ?
+2026-09-18 A 0-3 v Rapid Vienna | Bundesliga | Vienna | xG 0.36-2.85
+2026-09-13 H 2-2 v TSV Hartberg | Bundesliga | Innsbruck | xG 1.49-0.80
+2026-09-05 A 4-0 v Leithaprodersdorf | Cup | ?
+2026-09-02 A 1-0 v Austria Vienna | Bundesliga | Vienna
+2026-08-28 A 4-0 v Austria Lustenau | Bundesliga | Lustenau
+2026-08-16 H 0-3 v Red Bull Salzburg | Bundesliga | Innsbruck
+2026-08-07 A 1-3 v SCR Altach | Bundesliga | Altach
+2026-08-01 H 1-1 v Sturm Graz | Bundesliga | Innsbruck
+2026-07-24 A 6-0 v Wieselburg | Cup | ?
+2026-07-17 A 2-3 v Hertha BSC | Friendlies Clubs | ?
+2026-07-10 H 1-2 v Polessya | Friendlies Clubs | ?
+2026-07-04 H 0-0 v Gornik Zabrze | Friendlies Clubs | ?
+2026-06-27 H 0-4 v Qarabag | Friendlies Clubs | ?
+Listed home: 8 games, scored 6 (0.75), conceded 15 (1.88), blanks 3, clean sheets 1
+Listed away: 12 games, scored 29 (2.42), conceded 12 (1.00), blanks 1, clean sheets 7
+All: 20 games, scored 35 (1.75), conceded 27 (1.35), blanks 4, clean sheets 8
 
 === Austria Vienna (id 601): last 20 finished games ===
 2026-11-01 H 0-2 v Rapid Vienna | Bundesliga | Vienna | xG 1.16-2.22
@@ -28,9 +53,7 @@ Listed home: 9 games, scored 7 (0.78), conceded 12 (1.33), blanks 5, clean sheet
 Listed away: 11 games, scored 27 (2.45), conceded 18 (1.64), blanks 2, clean sheets 3
 All: 20 games, scored 34 (1.70), conceded 30 (1.50), blanks 7, clean sheets 4
 
-!! WSG Tirol: No team found for "WSG Tirol".
-
-TABLE FOR Austria Vienna
+TABLE FOR WSG Wattens
 LEAGUE TABLE Bundesliga 2026 | 12 teams | 69 games played
 League averages per game: home 1.93, away 1.33, total 3.26
 #   team                   Pts | home P GF-GA  | away P GF-GA  | all P GF-GA
@@ -47,7 +70,9 @@ League averages per game: home 1.93, away 1.33, total 3.26
 11  Austria Vienna           7 |  5   2-8       |  6   8-14      | 11  10-22
 12  Wolfsberger AC           6 |  6   6-10      |  6   2-16      | 12   8-26
 
-(14 API-Football requests used)
+(Austria Vienna: same table as WSG Wattens, shown above)
+
+(25 API-Football requests used)
 
 ----------------------------------------------------------------------
 MATCHBOOK: skipped (switched off for this run)

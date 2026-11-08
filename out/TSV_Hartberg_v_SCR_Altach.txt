@@ -1,0 +1,78 @@
+MATCH TSV Hartberg v SCR Altach | fetched 2026-11-08 11:15 local
+
+FORM DATA TSV Hartberg v SCR Altach | source API-Football | 2026-11-08 11:15 UTC
+H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
+
+=== TSV Hartberg (id 1072): last 20 finished games ===
+2026-10-30 A 4-0 v Grazer AK | Bundesliga | Graz | xG 3.20-1.19
+2026-10-27 A 1-1 v Austria Vienna | Cup | Vienna [PEN, 90-min score shown]
+2026-10-24 H 1-0 v Wolfsberger AC | Bundesliga | Hartberg | xG 1.27-0.70
+2026-10-16 A 1-3 v Rapid Vienna | Bundesliga | Vienna | xG 1.03-1.81
+2026-10-11 H 4-3 v Austria Lustenau | Bundesliga | Hartberg | xG 4.01-1.45
+2026-09-24 H 5-0 v SV Kapfenberg | Friendlies Clubs | ?
+2026-09-20 H 3-3 v Lask Linz | Bundesliga | Hartberg | xG 0.66-1.90
+2026-09-13 A 2-2 v WSG Wattens | Bundesliga | Innsbruck | xG 0.80-1.49
+2026-09-06 A 4-0 v SK Vorwarts Steyr | Cup | Steyr
+2026-08-30 H 3-2 v Ried | Bundesliga | Hartberg | xG 2.67-1.66
+2026-08-22 A 2-1 v SCR Altach | Bundesliga | Altach
+2026-08-16 H 0-2 v Austria Vienna | Bundesliga | Hartberg
+2026-08-08 H 0-2 v Sturm Graz | Bundesliga | Hartberg
+2026-08-01 A 0-1 v Red Bull Salzburg | Bundesliga | Salzburg
+2026-07-26 A 3-1 v Imst | Cup | Imst
+2026-07-18 H 0-2 v Voitsberg | Friendlies Clubs | ?
+2026-07-18 H 2-0 v First Vienna | Friendlies Clubs | ?
+2026-07-11 H 3-0 v Příbram | Friendlies Clubs | ?
+2026-07-08 H 2-0 v Zbrojovka Brno | Friendlies Clubs | ?
+2026-07-04 H 1-1 v Ujpest | Friendlies Clubs | ?
+Listed home: 12 games, scored 24 (2.00), conceded 15 (1.25), blanks 3, clean sheets 5
+Listed away: 8 games, scored 17 (2.12), conceded 9 (1.12), blanks 1, clean sheets 2
+All: 20 games, scored 41 (2.05), conceded 24 (1.20), blanks 4, clean sheets 7
+
+=== SCR Altach (id 618): last 20 finished games ===
+2026-10-31 H 1-1 v Ried | Bundesliga | Artach | xG 1.31-0.58
+2026-10-27 A 4-0 v Grazer AK | Cup | Graz
+2026-10-23 H 2-1 v Austria Vienna | Bundesliga | Artach | xG 0.92-1.09
+2026-10-18 A 0-3 v Red Bull Salzburg | Bundesliga | Salzburg | xG 0.63-2.76
+2026-10-11 H 3-0 v Wolfsberger AC | Bundesliga | Artach | xG 1.89-0.26
+2026-10-01 H 5-0 v FC WIL 1900 | Friendlies Clubs | ?
+2026-09-19 A 0-2 v Austria Lustenau | Bundesliga | Lustenau | xG 1.07-0.81
+2026-09-12 H 1-2 v Grazer AK | Bundesliga | Altach | xG 1.07-0.38
+2026-09-04 H 7-0 v Bischofshofen | Cup | Altach
+2026-08-29 A 0-3 v Lask Linz | Bundesliga | Linz | xG 0.31-3.06
+2026-08-22 H 1-2 v TSV Hartberg | Bundesliga | Altach
+2026-08-15 A 0-1 v Sturm Graz | Bundesliga | Graz
+2026-08-07 H 3-1 v WSG Wattens | Bundesliga | Altach
+2026-08-02 A 0-1 v Rapid Vienna | Bundesliga | Vienna
+2026-07-24 A 1-0 v Leobendorf | Cup | Leobendorf
+2026-07-18 H 3-1 v Grasshoppers | Friendlies Clubs | ?
+2026-07-10 H 1-0 v FC Vaduz | Friendlies Clubs | ?
+2026-07-04 H 1-2 v 1. FC Heidenheim | Friendlies Clubs | ?
+2026-06-27 A 2-3 v FC ST. Gallen | Friendlies Clubs | ?
+2026-06-20 A 4-0 v Hörbranz | Friendlies Clubs | ?
+Listed home: 11 games, scored 28 (2.55), conceded 10 (0.91), blanks 0, clean sheets 4
+Listed away: 9 games, scored 11 (1.22), conceded 13 (1.44), blanks 5, clean sheets 3
+All: 20 games, scored 39 (1.95), conceded 23 (1.15), blanks 5, clean sheets 7
+
+TABLE FOR TSV Hartberg
+LEAGUE TABLE Bundesliga 2026 | 12 teams | 69 games played
+League averages per game: home 1.93, away 1.33, total 3.26
+#   team                   Pts | home P GF-GA  | away P GF-GA  | all P GF-GA
+1   Rapid Vienna            33 |  7  29-3       |  5  10-6       | 12  39-9
+2   Red Bull Salzburg       27 |  6  21-3       |  5   8-3       | 11  29-6
+3   Lask Linz               25 |  6  13-7       |  6  17-8       | 12  30-15
+4   Sturm Graz              19 |  5  12-5       |  6   7-8       | 11  19-13
+5   TSV Hartberg            17 |  6  11-12      |  5   9-7       | 11  20-19
+6   Ried                    16 |  6  12-10      |  6   9-12      | 12  21-22
+7   WSG Wattens             12 |  5   5-9       |  6   9-8       | 11  14-17
+8   Austria Lustenau        11 |  6   7-11      |  6   8-19      | 12  15-30
+9   SCR Altach              10 |  6  11-7       |  5   0-10      | 11  11-17
+10  Grazer AK               10 |  5   4-7       |  7   5-22      | 12   9-29
+11  Austria Vienna           7 |  5   2-8       |  6   8-14      | 11  10-22
+12  Wolfsberger AC           6 |  6   6-10      |  6   2-16      | 12   8-26
+
+(SCR Altach: same table as TSV Hartberg, shown above)
+
+(24 API-Football requests used)
+
+----------------------------------------------------------------------
+MATCHBOOK: skipped (switched off for this run)
