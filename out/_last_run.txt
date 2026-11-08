@@ -1,7 +1,3 @@
-RUN 2026-11-08 19:59 local | 3 match(es)
-Tolima v Millonarios -> out/Tolima_v_Millonarios.txt
-    !! Tolima: Ambiguous team name "Tolima".
-    !! Millonarios: Ambiguous team name "Millonarios".
-Blooming v Oriente Petrolero -> out/Blooming_v_Oriente_Petrolero.txt
-Alianza Valledupar v Llaneros -> out/Alianza_Valledupar_v_Llaneros.txt
-Requests used: API-Football 53, Matchbook 0
+RUN 2026-11-08 20:00 local | 1 match(es)
+id:1142 v id:1125 -> out/id_1142_v_id_1125.txt
+Requests used: API-Football 25, Matchbook 0

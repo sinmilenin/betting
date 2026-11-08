@@ -1,59 +1,59 @@
-MATCH Alianza Valledupar v Llaneros | fetched 2026-11-08 19:59 local
+MATCH id:1142 v id:1125 | fetched 2026-11-08 20:00 local
 
-FORM DATA Alianza Valledupar v Llaneros | source API-Football | 2026-11-08 19:59 UTC
+FORM DATA id:1142 v id:1125 | source API-Football | 2026-11-08 20:00 UTC
 H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
 
-=== Alianza Valledupar (id 1141): last 20 finished games ===
-2026-11-01 A 1-2 v Independiente Medellin | Primera A | Medellin | xG 0.22-1.29
-2026-10-28 A 0-1 v Once Caldas | Primera A | Manizales | xG 0.46-1.97
-2026-10-25 H 1-0 v Internacional de Bogota | Primera A | Valledupar | xG 1.42-0.26
-2026-10-20 A 1-0 v Deportivo Pasto | Primera A | Pasto | xG 0.94-0.92
-2026-10-09 H 2-2 v Águilas Doradas | Primera A | Valledupar | xG 1.62-1.33
-2026-10-03 A 1-3 v Deportivo Cali | Primera A | Palmira | xG 0.37-0.61
-2026-09-27 A 2-1 v Jaguares | Primera A | Monteria | xG 0.72-0.91
-2026-09-19 H 1-4 v Santa Fe | Primera A | Valledupar | xG 0.86-1.24
-2026-09-16 A 2-1 v Chico | Primera A | Tunja
-2026-09-13 H 1-0 v Junior | Primera A | Valledupar | xG 0.70-1.29
-2026-09-10 A 0-1 v Once Caldas | Copa Colombia | Manizales
-2026-09-03 A 0-3 v America de Cali | Primera A | Santiago de Cali
-2026-08-30 H 1-5 v Atletico Nacional | Primera A | Valledupar
-2026-08-26 A 0-1 v Cucuta | Primera A | Cucuta
-2026-08-22 H 0-0 v Deportivo Pereira | Primera A | Valledupar
-2026-08-09 H 2-3 v Bucaramanga | Primera A | Valledupar
-2026-08-01 H 1-2 v Deportes Tolima | Primera A | Valledupar
-2026-07-26 H 1-1 v Fortaleza FC | Primera A | Valledupar
-2026-05-24 H 2-1 v Bucaramanga | Copa Colombia | Valledupar
-2026-05-21 A 0-1 v Deportivo Cali | Copa Colombia | Palmira
-Listed home: 10 games, scored 12 (1.20), conceded 18 (1.80), blanks 1, clean sheets 3
-Listed away: 10 games, scored 7 (0.70), conceded 14 (1.40), blanks 5, clean sheets 1
-All: 20 games, scored 19 (0.95), conceded 32 (1.60), blanks 6, clean sheets 4
+=== Deportes Tolima (id 1142): last 20 finished games ===
+2026-11-03 A 3-1 v Deportivo Pereira | Primera A | Yopal | xG 0.74-1.34
+2026-10-26 H 0-1 v Deportivo Pasto | Primera A | Ibague | xG 0.90-0.36
+2026-10-18 A 1-2 v Águilas Doradas | Primera A | Rionegro | xG 0.44-1.30
+2026-10-11 A 2-3 v Jaguares | Primera A | Monteria | xG 1.51-0.35
+2026-10-08 A 0-0 v Atletico Nacional | Primera A | Itagui | xG 0.68-1.05
+2026-10-03 H 0-0 v Chico | Primera A | Iwag | xG 1.11-0.04
+2026-09-27 A 2-2 v Fortaleza FC | Primera A | Bogota | xG 0.26-0.67
+2026-09-20 H 1-1 v America de Cali | Primera A | Iwag | xG 2.30-0.32
+2026-09-16 A 0-1 v Once Caldas | Primera A | Manizales | xG 0.61-1.02
+2026-09-12 A 0-1 v Santa Fe | Primera A | Bogota
+2026-09-07 A 2-1 v Llaneros | Primera A | Villavicencio
+2026-09-01 H 2-1 v Cucuta | Primera A | Iwag
+2026-08-26 A 1-3 v Independiente del Valle | CONMEBOL Libertadores | Quito
+2026-08-22 H 0-0 v Bucaramanga | Primera A | Iwag
+2026-08-19 H 0-1 v Independiente del Valle | CONMEBOL Libertadores | Ibague
+2026-08-08 H 2-1 v Internacional de Bogota | Primera A | Iwag
+2026-08-04 H 2-3 v Independiente Medellin | Primera A | Iwag
+2026-08-01 A 2-1 v Alianza Valledupar | Primera A | Valledupar
+2026-07-28 A 1-2 v Quindio | Copa Colombia | Armenia [PEN, 90-min score shown]
+2026-07-26 H 2-1 v Junior | Primera A | Iwag
+Listed home: 9 games, scored 9 (1.00), conceded 9 (1.00), blanks 4, clean sheets 2
+Listed away: 11 games, scored 14 (1.27), conceded 17 (1.55), blanks 3, clean sheets 1
+All: 20 games, scored 23 (1.15), conceded 26 (1.30), blanks 7, clean sheets 3
 
-=== Llaneros (id 1464): last 20 finished games ===
-2026-10-31 H 3-2 v Junior | Primera A | Villavicencio | xG 1.36-1.61
-2026-10-26 A 0-1 v Jaguares | Primera A | Monteria | xG 0.84-1.44
-2026-10-21 H 0-3 v Deportivo Cali | Primera A | Villavicencio | xG 0.62-0.45
-2026-10-18 H 1-0 v Santa Fe | Primera A | Villavicencio | xG 1.78-1.34
-2026-10-15 A 1-4 v Internacional de Bogota | Copa Colombia | ?
-2026-10-10 A 0-1 v Once Caldas | Primera A | Manizales | xG 1.55-0.70
-2026-10-05 H 1-2 v America de Cali | Primera A | Villavicencio | xG 0.94-0.95
-2026-09-26 A 1-2 v Cucuta | Primera A | Cucuta | xG 1.59-1.52
-2026-09-21 H 2-0 v Atletico Nacional | Primera A | Villavicencio | xG 0.83-1.18
-2026-09-12 A 2-3 v Internacional de Bogota | Primera A | Bogota | xG 1.43-1.44
-2026-09-07 H 1-2 v Deportes Tolima | Primera A | Villavicencio
-2026-09-02 A 1-1 v Quindio | Copa Colombia | Armenia [PEN, 90-min score shown]
-2026-08-30 A 1-2 v Independiente Medellin | Primera A | Medellin
-2026-08-27 H 0-2 v Millonarios | Primera A | Villavicencio
-2026-08-23 A 1-0 v Deportivo Pasto | Primera A | Pasto
-2026-08-19 A 1-1 v Águilas Doradas | Primera A | Rionegro
-2026-08-04 H 3-1 v Fortaleza FC | Primera A | Villavicencio
-2026-07-31 A 1-1 v Bucaramanga | Primera A | Bucaramanga
-2026-07-24 H 1-0 v Deportivo Pereira | Primera A | Villavicencio
-2026-05-27 A 1-0 v Chico | Copa Colombia | Tunja
-Listed home: 9 games, scored 12 (1.33), conceded 12 (1.33), blanks 2, clean sheets 3
-Listed away: 11 games, scored 10 (0.91), conceded 16 (1.45), blanks 2, clean sheets 2
-All: 20 games, scored 22 (1.10), conceded 28 (1.40), blanks 4, clean sheets 5
+=== Millonarios (id 1125): last 20 finished games ===
+2026-11-05 H 0-0 v America de Cali | Primera A | Bogota | xG 1.45-0.66
+2026-10-21 H 1-1 v Once Caldas | Primera A | Bogota | xG 0.46-1.65
+2026-10-17 H 4-1 v Jaguares | Primera A | Bogota | xG 2.80-0.17
+2026-10-09 A 1-1 v Fortaleza FC | Primera A | Bogota | xG 1.08-1.00
+2026-10-03 A 1-1 v Barranquilla | Copa Colombia | Barranquilla [PEN, 90-min score shown]
+2026-09-30 A 2-2 v Independiente Medellin | Primera A | Medellin | xG 0.47-0.80
+2026-09-25 A 1-1 v Atletico Nacional | Primera A | Medellin
+2026-09-19 H 3-0 v Chico | Primera A | Bogota | xG 2.09-0.49
+2026-09-14 A 2-1 v Cucuta | Primera A | Cucuta
+2026-09-11 H 1-1 v Deportivo Cali | Primera A | Bogota
+2026-09-06 A 1-1 v Deportivo Pereira | Primera A | Yopal
+2026-09-03 A 2-3 v Santa Fe | Primera A | Bogota
+2026-08-30 H 0-0 v Internacional de Bogota | Primera A | Bogota
+2026-08-27 A 2-0 v Llaneros | Primera A | Villavicencio
+2026-08-22 A 1-1 v Águilas Doradas | Primera A | Medellin
+2026-08-05 H 2-0 v Deportivo Pasto | Primera A | Bogota
+2026-08-02 A 1-0 v Junior | Primera A | Barranquilla
+2026-07-25 H 0-1 v Bucaramanga | Primera A | Bogota
+2026-07-18 H 0-1 v Colo Colo | Friendlies Clubs | ?
+2026-07-11 A 0-2 v Universitario | Friendlies Clubs | ?
+Listed home: 9 games, scored 11 (1.22), conceded 5 (0.56), blanks 4, clean sheets 4
+Listed away: 11 games, scored 14 (1.27), conceded 13 (1.18), blanks 1, clean sheets 2
+All: 20 games, scored 25 (1.25), conceded 18 (0.90), blanks 5, clean sheets 6
 
-TABLE FOR Alianza Valledupar
+TABLE FOR Deportes Tolima
 LEAGUE TABLE Primera A 2026 | 40 teams | 365 games played
 League averages per game: home 1.49, away 1.03, total 2.52
 #   team                   Pts | home P GF-GA  | away P GF-GA  | all P GF-GA
@@ -98,7 +98,7 @@ League averages per game: home 1.49, away 1.03, total 2.52
 19  Jaguares                13 |  8  11-12      |  9   6-19      | 17  17-31 [Clausura]
 20  Fortaleza FC            12 |  9   9-15      |  9   8-13      | 18  17-28 [Clausura]
 
-(Llaneros: same table as Alianza Valledupar, shown above)
+(Millonarios: same table as Deportes Tolima, shown above)
 
 (25 API-Football requests used)
 
