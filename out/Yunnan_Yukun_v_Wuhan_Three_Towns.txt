@@ -1,0 +1,82 @@
+MATCH Yunnan Yukun v Wuhan Three Towns | fetched 2026-11-08 05:12 local
+
+FORM DATA Yunnan Yukun v Wuhan Three Towns | source API-Football | 2026-11-08 05:12 UTC
+H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
+
+=== Yunnan Yukun (id 21265): last 20 finished games ===
+2026-11-01 H 4-3 v Dalian Zhixing | FA Cup | Yuxi
+2026-10-24 A 1-1 v Qingdao Youth Island | Super League | Qingdao | xG 1.48-3.91
+2026-10-17 H 1-1 v Chongqing Tongliang Long | Super League | Yuxi | xG 2.16-1.29
+2026-10-10 A 1-7 v Shanghai Shenhua | Super League | Shanghai | xG 0.89-6.36
+2026-09-06 H 5-0 v Shenyang Urban | Super League | Yuxi | xG 2.30-1.14
+2026-09-02 H 1-0 v Chongqing Tongliang Long | FA Cup | Yuxi
+2026-08-29 A 0-6 v Hangzhou Greentown | Super League | Hangzhou | xG 1.27-3.34
+2026-08-22 A 3-3 v Beijing Guoan | Super League | Beijing | xG 1.45-2.69
+2026-08-15 H 3-1 v Dalian Zhixing | Super League | Yuxi
+2026-08-08 H 1-0 v Chengdu Better City | Super League | Yuxi | xG 1.22-1.94
+2026-08-01 A 2-3 v Tianjin Teda | Super League | Tianjin
+2026-07-26 H 4-3 v Sichuan Jiuniu | Super League | Yuxi
+2026-07-21 H 3-3 v Chengdu Better City | FA Cup | Yuxi [PEN, 90-min score shown]
+2026-07-17 H 2-2 v SHANGHAI SIPG | Super League | Yuxi
+2026-07-10 A 3-4 v Shandong Luneng | Super League | Jinan
+2026-07-03 H 2-1 v Henan Jianye | Super League | Yuxi
+2026-06-26 A 2-4 v Qingdao Jonoon | Super League | Qingdao
+2026-06-21 A 4-2 v Suzhou Dongwu | FA Cup | Suzhou
+2026-05-31 A 1-1 v Wuhan Three Towns | Super League | Wuhan
+2026-05-24 H 2-3 v Qingdao Youth Island | Super League | Yuxi
+Listed home: 11 games, scored 28 (2.55), conceded 17 (1.55), blanks 0, clean sheets 3
+Listed away: 9 games, scored 17 (1.89), conceded 31 (3.44), blanks 1, clean sheets 0
+All: 20 games, scored 45 (2.25), conceded 48 (2.40), blanks 1, clean sheets 3
+
+=== Wuhan Three Towns (id 5695): last 20 finished games ===
+2026-10-24 H 3-5 v Shandong Luneng | Super League | Wuhan | xG 2.40-4.20
+2026-10-18 H 1-3 v Shanghai Shenhua | Super League | Wuhan | xG 2.22-4.18
+2026-10-11 A 1-1 v Shenyang Urban | Super League | Shenyang | xG 0.78-2.17
+2026-09-18 A 1-4 v Hangzhou Greentown | Super League | Hangzhou
+2026-09-12 H 1-1 v Henan Jianye | Super League | Wuhan | xG 1.17-2.35
+2026-09-05 H 2-2 v Qingdao Youth Island | Super League | Wuhan
+2026-08-29 A 5-1 v Qingdao Jonoon | Super League | Qingdao | xG 4.04-2.66
+2026-08-22 H 0-0 v Tianjin Teda | Super League | Wuhan | xG 3.64-1.16
+2026-08-14 H 2-3 v SHANGHAI SIPG | Super League | Wuhan
+2026-08-01 A 1-1 v Chengdu Better City | Super League | Chengdu | xG 1.61-3.27
+2026-07-25 H 1-0 v Chongqing Tongliang Long | Super League | Wuhan
+2026-07-21 H 1-1 v Shandong Luneng | FA Cup | Wuhan [PEN, 90-min score shown]
+2026-07-18 H 2-0 v Sichuan Jiuniu | Super League | Wuhan
+2026-07-04 A 2-3 v Dalian Zhixing | Super League | Dalian
+2026-06-27 A 0-1 v Beijing Guoan | Super League | Beijing
+2026-06-20 A 0-0 v Qingdao Red Lions | FA Cup | Qingdao [PEN, 90-min score shown]
+2026-05-31 H 1-1 v Yunnan Yukun | Super League | Wuhan
+2026-05-24 A 3-3 v Shandong Luneng | Super League | Jinan
+2026-05-20 A 2-2 v Shanghai Shenhua | Super League | Shanghai
+2026-05-16 H 2-2 v Shenyang Urban | Super League | Wuhan
+Listed home: 11 games, scored 16 (1.45), conceded 18 (1.64), blanks 1, clean sheets 3
+Listed away: 9 games, scored 15 (1.67), conceded 16 (1.78), blanks 2, clean sheets 1
+All: 20 games, scored 31 (1.55), conceded 34 (1.70), blanks 3, clean sheets 4
+
+TABLE FOR Yunnan Yukun
+LEAGUE TABLE Super League 2026 | 16 teams | 232 games played
+League averages per game: home 1.77, away 1.38, total 3.15
+#   team                   Pts | home P GF-GA  | away P GF-GA  | all P GF-GA
+1   Chengdu Better City     52 | 15  31-16      | 14  20-19      | 29  51-35
+2   Dalian Zhixing          49 | 14  26-17      | 15  20-26      | 29  46-43
+3   Beijing Guoan           47 | 14  28-18      | 15  29-18      | 29  57-36
+4   Shandong Luneng         44 | 14  34-18      | 15  23-29      | 29  57-47
+5   SHANGHAI SIPG           42 | 14  24-13      | 15  26-23      | 29  50-36
+6   Yunnan Yukun            40 | 14  32-20      | 15  25-40      | 29  57-60
+7   Qingdao Youth Island    39 | 15  18-14      | 14  14-24      | 29  32-38
+8   Shanghai Shenhua        37 | 14  34-25      | 15  29-25      | 29  63-50
+9   Chongqing Tongliang Lo  36 | 15  20-18      | 14  11-16      | 29  31-34
+10  Hangzhou Greentown      34 | 14  30-22      | 15  21-32      | 29  51-54
+11  Sichuan Jiuniu          32 | 15  27-20      | 14  12-31      | 29  39-51
+12  Tianjin Teda            31 | 15  22-23      | 14  17-12      | 29  39-35
+13  Shenyang Urban          29 | 15  26-27      | 14  15-25      | 29  41-52
+14  Henan Jianye            28 | 15  19-18      | 14  19-24      | 29  38-42
+15  Wuhan Three Towns       22 | 15  22-24      | 14  22-31      | 29  44-55
+16  Qingdao Jonoon          14 | 14  18-26      | 15  16-36      | 29  34-62
+
+(Wuhan Three Towns: same table as Yunnan Yukun, shown above)
+
+(25 API-Football requests used)
+
+----------------------------------------------------------------------
+MATCHBOOK: skipped (switched off for this run)

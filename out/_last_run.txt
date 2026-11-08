@@ -1,3 +1,13 @@
-RUN 2026-11-07 20:01 local | 1 match(es)
-Everton De Vina v id:5635 -> out/Everton_De_Vina_v_id_5635.txt
-Requests used: API-Football 25, Matchbook 0
+RUN 2026-11-08 05:12 local | 8 match(es)
+Gamba Osaka v Cerezo Osaka -> out/Gamba_Osaka_v_Cerezo_Osaka.txt
+Adelaide United v Melbourne Victory -> out/Adelaide_United_v_Melbourne_Victory.txt
+Shandong Taishan v Chengdu Rongcheng -> out/Shandong_Taishan_v_Chengdu_Rongcheng.txt
+Vegalta Sendai v Ventforet Kofu -> out/Vegalta_Sendai_v_Ventforet_Kofu.txt
+Zhejiang v Henan -> out/Zhejiang_v_Henan.txt
+Shanghai Port v Liaoning Tieren -> out/Shanghai_Port_v_Liaoning_Tieren.txt
+    !! Liaoning Tieren: No team found for "Liaoning Tieren".
+Yunnan Yukun v Wuhan Three Towns -> out/Yunnan_Yukun_v_Wuhan_Three_Towns.txt
+Qingdao Hainiu v Shenzhen Peng City -> out/Qingdao_Hainiu_v_Shenzhen_Peng_City.txt
+    !! Qingdao Hainiu: No team found for "Qingdao Hainiu".
+    !! Shenzhen Peng City: No team found for "Shenzhen Peng City".
+Requests used: API-Football 169, Matchbook 0
