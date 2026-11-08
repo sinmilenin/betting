@@ -1,3 +1,4 @@
-# scan 08.11 19:40 run 2: Bolivar id, Jaguares/Bucaramanga names
-id:3702 v The Strongest | n=20 | xg=10
-Jaguares v Bucaramanga | n=20 | xg=10
+# night scan 08.11 20:55
+Tolima v Millonarios | n=20 | xg=10
+Blooming v Oriente Petrolero | n=20 | xg=10
+Alianza Valledupar v Llaneros | n=20 | xg=10
