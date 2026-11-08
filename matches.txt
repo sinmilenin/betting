@@ -1,5 +1,4 @@
-# scan 08.11 16:41 run 1: new fixtures
-Macara v Universidad Catolica | n=20 | xg=10
-Vojvodina v Crvena Zvezda | n=20 | xg=10
-Besiktas v Genclerbirligi | n=20 | xg=10
-Vicenza v Cremonese | n=20 | xg=10
+# scan 08.11 16:41 run 2: ids
+Vojvodina v id:598 | n=20 | xg=10
+id:549 v id:997 | n=20 | xg=10
+id:1584 v Cremonese | n=20 | xg=10
