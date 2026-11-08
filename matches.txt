@@ -1,2 +1,4 @@
-# scan 08.11 18:12 run 3: Sint-Truiden name
-St Truiden v Zulte Waregem | n=20 | xg=10
+# scan 08.11 19:00 run 1
+Hapoel Beer Sheva v Hapoel Tel Aviv | n=20 | xg=10
+Wurzburger Kickers v Hoffenheim II | n=20 | xg=10
+Union La Calera v Huachipato | n=20 | xg=10
