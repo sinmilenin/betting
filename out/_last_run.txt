@@ -1,6 +1,5 @@
-RUN 2026-11-08 15:00 local | 2 match(es)
-A. Italiano v Coquimbo Unido -> out/A_Italiano_v_Coquimbo_Unido.txt
-    !! A. Italiano: API-Football error: {"search": "The Search field may only contain alpha-numeric characters and spaces."}
-Union St. Gilloise v Genk -> out/Union_St_Gilloise_v_Genk.txt
-    !! Union St. Gilloise: API-Football error: {"search": "The Search field may only contain alpha-numeric characters and spaces."}
-Requests used: API-Football 28, Matchbook 0
+RUN 2026-11-08 15:01 local | 2 match(es)
+Italiano v Coquimbo Unido -> out/Italiano_v_Coquimbo_Unido.txt
+Gilloise v Genk -> out/Gilloise_v_Genk.txt
+    !! Gilloise: Ambiguous team name "Gilloise".
+Requests used: API-Football 42, Matchbook 0

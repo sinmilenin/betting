@@ -1,8 +1,12 @@
-MATCH A. Italiano v Coquimbo Unido | fetched 2026-11-08 15:00 local
+MATCH Italiano v Coquimbo Unido | fetched 2026-11-08 15:01 local
 
-FORM DATA A. Italiano v Coquimbo Unido | source API-Football | 2026-11-08 15:00 UTC
+FORM DATA Italiano v Coquimbo Unido | source API-Football | 2026-11-08 15:01 UTC
 H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
 
+"Italiano" matches several teams. Use id:<number> instead of the name:
+  id:2329   A. Italiano (Chile)
+  id:8388   Sportivo Italiano (Argentina)
+  id:19332  Deportivo Italiano (Uruguay)
 === Coquimbo Unido (id 2330): last 20 finished games ===
 2026-11-04 A 2-0 v Union La Calera | Copa Chile | La Calera
 2026-10-30 H 1-0 v Union La Calera | Primera División | Coquimbo | xG 0.90-1.22
@@ -28,7 +32,32 @@ Listed home: 9 games, scored 12 (1.33), conceded 7 (0.78), blanks 2, clean sheet
 Listed away: 11 games, scored 15 (1.36), conceded 16 (1.45), blanks 0, clean sheets 2
 All: 20 games, scored 27 (1.35), conceded 23 (1.15), blanks 2, clean sheets 6
 
-!! A. Italiano: API-Football error: {"search": "The Search field may only contain alpha-numeric characters and spaces."}
+(retrying Italiano using the opponent's country, Chile)
+NOTE: "Italiano" matched 3 teams; picked A. Italiano (Chile) because the opponent is from Chile. Others: Sportivo Italiano (Argentina), Deportivo Italiano (Uruguay)
+=== A. Italiano (id 2329): last 20 finished games ===
+2026-11-02 A 0-2 v Deportes Limache | Primera División | Limache | xG 1.67-1.82
+2026-10-28 A 1-1 v U. Catolica | Primera División | Santiago | xG 1.91-0.86
+2026-10-23 H 1-1 v Huachipato | Primera División | La Florida | xG 1.17-0.93
+2026-09-25 A 0-1 v Colo Colo | Copa Chile | Santiago de Chile
+2026-09-22 H 0-0 v Colo Colo | Copa Chile | Santiago de Chile
+2026-09-13 H 1-0 v O'Higgins | Primera División | Santiago de Chile
+2026-09-05 A 1-0 v Concepción | Primera División | Concepcion
+2026-08-30 A 1-5 v Colo Colo | Primera División | Santiago de Chile
+2026-08-22 H 0-0 v Union La Calera | Primera División | Santiago de Chile
+2026-08-16 A 1-1 v Everton de Vina | Primera División | Vina del Mar
+2026-08-11 H 2-2 v Nublense | Primera División | Santiago de Chile
+2026-08-01 A 1-0 v Universidad de Concepcion | Primera División | Concepcion
+2026-07-26 H 1-2 v Universidad de Chile | Primera División | Santiago de Chile
+2026-07-11 A 1-0 v Magallanes | Copa Chile | Santiago de Chile
+2026-07-05 A 1-2 v Deportes Santa Cruz | Copa Chile | Santa Cruz
+2026-06-30 H 3-2 v Palestino | Copa Chile | Santiago de Chile
+2026-06-27 H 2-1 v Magallanes | Copa Chile | Santiago de Chile
+2026-06-24 A 2-1 v Palestino | Copa Chile | Santiago de Chile
+2026-06-19 H 0-1 v Deportes Santa Cruz | Copa Chile | Santiago de Chile
+2026-06-13 H 1-1 v D. La Serena | Primera División | Santiago de Chile
+Listed home: 10 games, scored 11 (1.10), conceded 10 (1.00), blanks 3, clean sheets 3
+Listed away: 10 games, scored 9 (0.90), conceded 13 (1.30), blanks 2, clean sheets 3
+All: 20 games, scored 20 (1.00), conceded 23 (1.15), blanks 5, clean sheets 6
 
 TABLE FOR Coquimbo Unido
 LEAGUE TABLE Primera División 2026 | 16 teams | 209 games played
@@ -51,7 +80,9 @@ League averages per game: home 1.67, away 1.18, total 2.85
 15  Universidad de Concepc  23 | 12   8-13      | 14  11-34      | 26  19-47
 16  Union La Calera         21 | 13  17-18      | 13   6-25      | 26  23-43
 
-(14 API-Football requests used)
+(A. Italiano: same table as Coquimbo Unido, shown above)
+
+(27 API-Football requests used)
 
 ----------------------------------------------------------------------
 MATCHBOOK: skipped (switched off for this run)
