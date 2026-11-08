@@ -1,0 +1,31 @@
+MATCH Thun v Basel | fetched 2026-11-08 12:48 local
+
+FORM DATA Thun v Basel | source API-Football | 2026-11-08 12:48 UTC
+H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
+
+"Thun" matches several teams. Use id:<number> instead of the name:
+  id:1012   FC Thun (Switzerland)
+  id:3801   Dandenong Thunder (Australia)
+  id:4088   Thunder Bay Chill (Canada)
+  id:11196  SWQ Thunder (Australia)
+  id:13176  Binghamton Thunder (USA)
+  id:13593  Béthune (France)
+  id:16348  Thun II (Switzerland)
+  id:18153  Stade Béthunois (France)
+  id:21689  Thun W (Switzerland)
+  id:23810  Minnesota Thunder (USA)
+  id:24010  Sioux Falls Thunder (USA)
+"Basel" matches several teams. Use id:<number> instead of the name:
+  id:551    FC Basel 1893 (Switzerland)
+  id:6622   Concordia Basel (Switzerland)
+  id:7950   Basel U19 (Switzerland)
+  id:10585  Basel II (Switzerland)
+  id:16038  Basel W (Switzerland)
+!! Thun: Ambiguous team name "Thun".
+
+!! Basel: Ambiguous team name "Basel".
+
+(2 API-Football requests used)
+
+----------------------------------------------------------------------
+MATCHBOOK: skipped (switched off for this run)

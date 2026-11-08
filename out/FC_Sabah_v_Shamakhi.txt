@@ -1,0 +1,13 @@
+MATCH FC Sabah v Shamakhi | fetched 2026-11-08 12:48 local
+
+FORM DATA FC Sabah v Shamakhi | source API-Football | 2026-11-08 12:48 UTC
+H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
+
+!! FC Sabah: No team found for "FC Sabah".
+
+!! Shamakhi: No team found for "Shamakhi".
+
+(2 API-Football requests used)
+
+----------------------------------------------------------------------
+MATCHBOOK: skipped (switched off for this run)

@@ -1,0 +1,76 @@
+MATCH Derry City v Waterford | fetched 2026-11-08 12:48 local
+
+FORM DATA Derry City v Waterford | source API-Football | 2026-11-08 12:48 UTC
+H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
+
+=== Derry City (id 670): last 20 finished games ===
+2026-10-30 A 2-2 v Sligo Rovers | Premier Division | Sligo | xG 0.94-1.36
+2026-10-23 H 2-1 v Dundalk | Premier Division | Derry | xG 1.76-0.82
+2026-10-19 H 1-0 v St Patrick's Athl. | Premier Division | Derry | xG 0.70-2.61
+2026-10-16 A 0-2 v Drogheda United | Premier Division | Drogheda | xG 1.35-0.92
+2026-10-10 A 2-0 v Galway United | FAI Cup | Galway
+2026-09-18 H 1-0 v Galway United | Premier Division | Derry
+2026-09-14 A 2-2 v Waterford | Premier Division | Waterford
+2026-09-11 A 1-0 v Shelbourne | Premier Division | Dublin | xG 1.05-0.82
+2026-09-06 H 4-2 v Dundalk | FAI Cup | Derry
+2026-08-30 H 3-3 v Shamrock Rovers | Premier Division | Derry | xG 1.20-0.89
+2026-08-21 A 3-5 v Bohemians | Premier Division | Dublin
+2026-08-14 A 2-1 v UCD | FAI Cup | Dublin
+2026-08-07 H 2-0 v Sligo Rovers | Premier Division | Derry
+2026-08-02 A 1-1 v St Patrick's Athl. | Premier Division | Dublin
+2026-07-30 H 0-1 v HNK Rijeka | UEFA Europa Conference League | Derry
+2026-07-23 A 0-1 v HNK Rijeka | UEFA Europa Conference League | Rijeka
+2026-07-19 H 3-0 v Tolka Rovers | FAI Cup | Derry
+2026-07-16 H 1-2 v CSKA Sofia | UEFA Europa League | Derry
+2026-07-09 A 2-3 v CSKA Sofia | UEFA Europa League | Sofia
+2026-07-03 H 2-4 v Waterford | Premier Division | Derry
+Listed home: 10 games, scored 19 (1.90), conceded 13 (1.30), blanks 1, clean sheets 4
+Listed away: 10 games, scored 15 (1.50), conceded 17 (1.70), blanks 2, clean sheets 2
+All: 20 games, scored 34 (1.70), conceded 30 (1.50), blanks 3, clean sheets 6
+
+=== Waterford (id 3845): last 20 finished games ===
+2026-10-30 A 3-2 v Shelbourne | Premier Division | Dublin | xG 1.79-1.41
+2026-10-23 H 3-1 v Drogheda United | Premier Division | Waterford | xG 2.05-1.08
+2026-10-19 H 3-2 v Galway United | Premier Division | Waterford | xG 1.84-0.61
+2026-10-16 A 1-2 v Bohemians | Premier Division | Dublin | xG 1.28-0.56
+2026-10-09 A 2-0 v Bohemians | FAI Cup | Dublin
+2026-09-18 A 2-3 v Shamrock Rovers | Premier Division | Dublin | xG 1.01-2.05
+2026-09-14 H 2-2 v Derry City | Premier Division | Waterford
+2026-09-11 H 1-1 v Dundalk | Premier Division | Waterford | xG 2.04-0.55
+2026-09-04 H 3-0 v Sligo Rovers | FAI Cup | Waterford
+2026-08-28 A 2-0 v St Patrick's Athl. | Premier Division | Dublin | xG 2.27-1.42
+2026-08-21 A 0-0 v Sligo Rovers | Premier Division | Sligo
+2026-08-14 H 2-1 v Athlone Town | FAI Cup | Waterford
+2026-08-09 H 3-1 v Bohemians | Premier Division | Waterford
+2026-08-02 H 1-0 v Shelbourne | Premier Division | Waterford
+2026-07-25 A 0-0 v Galway United | Premier Division | Galway
+2026-07-17 H 2-1 v Cobh Ramblers | FAI Cup | Waterford
+2026-07-10 H 1-1 v St Patrick's Athl. | Premier Division | Waterford
+2026-07-03 A 4-2 v Derry City | Premier Division | Derry
+2026-06-26 A 3-2 v Dundalk | Premier Division | Dundalk
+2026-06-19 H 0-2 v Shamrock Rovers | Premier Division | Waterford
+Listed home: 11 games, scored 21 (1.91), conceded 12 (1.09), blanks 1, clean sheets 2
+Listed away: 9 games, scored 17 (1.89), conceded 11 (1.22), blanks 2, clean sheets 4
+All: 20 games, scored 38 (1.90), conceded 23 (1.15), blanks 3, clean sheets 6
+
+TABLE FOR Derry City
+LEAGUE TABLE Premier Division 2026 | 10 teams | 180 games played
+League averages per game: home 1.55, away 1.26, total 2.81
+#   team                   Pts | home P GF-GA  | away P GF-GA  | all P GF-GA
+1   Shamrock Rovers         68 | 18  37-15      | 18  22-23      | 36  59-38
+2   Bohemians               65 | 18  29-21      | 18  34-23      | 36  63-44
+3   St Patrick's Athl.      60 | 18  34-15      | 18  21-16      | 36  55-31
+4   Shelbourne              49 | 18  27-31      | 18  25-19      | 36  52-50
+5   Derry City              48 | 18  30-20      | 18  20-27      | 36  50-47
+6   Dundalk                 45 | 18  29-28      | 18  26-31      | 36  55-59
+7   Waterford               43 | 18  28-22      | 18  26-39      | 36  54-61
+8   Galway United           42 | 18  25-25      | 18  21-28      | 36  46-53
+9   Drogheda United         40 | 18  22-21      | 18  22-36      | 36  44-57
+10  Sligo Rovers            25 | 18  18-29      | 18  10-37      | 36  28-66
+
+(Waterford: same table as Derry City, shown above)
+
+(25 API-Football requests used)
+
+----------------------------------------------------------------------
+MATCHBOOK: skipped (switched off for this run)

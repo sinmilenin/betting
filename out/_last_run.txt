@@ -1,5 +1,21 @@
-RUN 2026-11-08 11:59 local | 3 match(es)
-JS El Biar v MC Alger -> out/JS_El_Biar_v_MC_Alger.txt
-Catania v Sorrento -> out/Catania_v_Sorrento.txt
-Union Berlin W v Hoffenheim W -> out/Union_Berlin_W_v_Hoffenheim_W.txt
-Requests used: API-Football 77, Matchbook 0
+RUN 2026-11-08 12:48 local | 10 match(es)
+FC Sabah v Shamakhi -> out/FC_Sabah_v_Shamakhi.txt
+    !! FC Sabah: No team found for "FC Sabah".
+    !! Shamakhi: No team found for "Shamakhi".
+Randers v Nordsjaelland -> out/Randers_v_Nordsjaelland.txt
+    !! Randers: Ambiguous team name "Randers".
+Asteras Tripolis v Kalamata -> out/Asteras_Tripolis_v_Kalamata.txt
+AEK Athens v Levadiakos -> out/AEK_Athens_v_Levadiakos.txt
+    !! AEK Athens: Ambiguous team name "AEK Athens".
+Derry City v Waterford -> out/Derry_City_v_Waterford.txt
+Servette v FC Zurich -> out/Servette_v_FC_Zurich.txt
+    !! Servette: Ambiguous team name "Servette".
+Ajman v Bani Yas -> out/Ajman_v_Bani_Yas.txt
+Alanyaspor v Trabzonspor -> out/Alanyaspor_v_Trabzonspor.txt
+AIK v Hacken -> out/AIK_v_Hacken.txt
+    !! AIK: Ambiguous team name "AIK".
+    !! Hacken: Ambiguous team name "Hacken".
+Thun v Basel -> out/Thun_v_Basel.txt
+    !! Thun: Ambiguous team name "Thun".
+    !! Basel: Ambiguous team name "Basel".
+Requests used: API-Football 153, Matchbook 0
