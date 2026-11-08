@@ -1,4 +1,4 @@
-RUN 2026-11-08 13:34 local | 1 match(es)
-Hamarkameratene v id:333 -> out/Hamarkameratene_v_id_333.txt
-    !! Hamarkameratene: No team found for "Hamarkameratene".
+RUN 2026-11-08 13:36 local | 1 match(es)
+Ham Kam v id:333 -> out/Ham_Kam_v_id_333.txt
+    !! Ham Kam: No team found for "Ham Kam".
 Requests used: API-Football 14, Matchbook 0

@@ -1,6 +1,6 @@
-MATCH Hamarkameratene v id:333 | fetched 2026-11-08 13:34 local
+MATCH Ham Kam v id:333 | fetched 2026-11-08 13:36 local
 
-FORM DATA Hamarkameratene v id:333 | source API-Football | 2026-11-08 13:34 UTC
+FORM DATA Ham Kam v id:333 | source API-Football | 2026-11-08 13:36 UTC
 H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
 
 === Sarpsborg 08 FF (id 333): last 20 finished games ===
@@ -28,7 +28,7 @@ Listed home: 10 games, scored 15 (1.50), conceded 18 (1.80), blanks 1, clean she
 Listed away: 10 games, scored 16 (1.60), conceded 12 (1.20), blanks 2, clean sheets 4
 All: 20 games, scored 31 (1.55), conceded 30 (1.50), blanks 3, clean sheets 6
 
-!! Hamarkameratene: No team found for "Hamarkameratene".
+!! Ham Kam: No team found for "Ham Kam".
 
 TABLE FOR Sarpsborg 08 FF
 LEAGUE TABLE Eliteserien 2026 | 16 teams | 201 games played
