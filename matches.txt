@@ -1,10 +1,4 @@
-# scan 08.11 12:11 run 1
-Grosseto v Pescara | n=20 | xg=10
-Sogndal v Hodd | n=20 | xg=10
-WSG Tirol v Austria Vienna | n=20 | xg=10
-Hartberg v Altach | n=20 | xg=10
-Jagiellonia v GKS Katowice | n=20 | xg=10
-Slavia Praha v Zbrojovka Brno | n=20 | xg=10
-Entella v Modena | n=20 | xg=10
-Borac Banja Luka v Radnik Bijeljina | n=20 | xg=10
-Sepsi OSK v FC Voluntari | n=20 | xg=10
+# scan 08.11 12:11 run 2 (team names)
+WSG Wattens v Austria Vienna | n=20 | xg=10
+TSV Hartberg v SCR Altach | n=20 | xg=10
+Virtus Entella v Modena | n=20 | xg=10
