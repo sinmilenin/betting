@@ -1,6 +1,9 @@
-RUN 2026-11-08 14:14 local | 4 match(es)
-id:2875 v Al Ain -> out/id_2875_v_Al_Ain.txt
-CFR 1907 Cluj v Universitatea Craiova -> out/CFR_1907_Cluj_v_Universitatea_Craiova.txt
-Plzen v Sparta Praha -> out/Plzen_v_Sparta_Praha.txt
-id:1483 v Dinamo Zagreb -> out/id_1483_v_Dinamo_Zagreb.txt
-Requests used: API-Football 102, Matchbook 0
+RUN 2026-11-08 14:58 local | 5 match(es)
+Girona v Almeria -> out/Girona_v_Almeria.txt
+Audax Italiano v Coquimbo Unido -> out/Audax_Italiano_v_Coquimbo_Unido.txt
+    !! Audax Italiano: No team found for "Audax Italiano".
+Radomlje v Celje -> out/Radomlje_v_Celje.txt
+Union St Gilloise v Genk -> out/Union_St_Gilloise_v_Genk.txt
+    !! Union St Gilloise: No team found for "Union St Gilloise".
+Sporting Gijon v Valladolid -> out/Sporting_Gijon_v_Valladolid.txt
+Requests used: API-Football 104, Matchbook 0

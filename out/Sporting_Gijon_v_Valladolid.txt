@@ -1,0 +1,88 @@
+MATCH Sporting Gijon v Valladolid | fetched 2026-11-08 14:58 local
+
+FORM DATA Sporting Gijon v Valladolid | source API-Football | 2026-11-08 14:58 UTC
+H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
+
+=== Sporting Gijon (id 731): last 20 finished games ===
+2026-11-01 A 2-0 v AD Ceuta FC | Segunda División | Ceuta | xG 2.62-1.26
+2026-10-29 A 3-1 v Guijuelo | Copa del Rey | Guijuelo
+2026-10-25 A 0-4 v Castellón | Segunda División | Castellon
+2026-10-17 H 2-1 v Albacete | Segunda División | Gijon | xG 0.55-0.60
+2026-10-11 A 1-0 v Cadiz | Segunda División | Cadiz | xG 0.80-0.55
+2026-10-04 H 3-2 v Celta de Vigo II | Segunda División | Gijon | xG 1.91-1.57
+2026-09-27 A 0-2 v Oviedo | Segunda División | Oviedo | xG 0.71-1.63
+2026-09-19 A 3-1 v FC Andorra | Segunda División | Encamp | xG 0.52-1.46
+2026-09-13 H 0-1 v Eldense | Segunda División | Gijon | xG 0.71-0.26
+2026-09-05 H 0-2 v Girona | Segunda División | Gijon | xG 2.52-0.91
+2026-08-28 A 1-0 v Tenerife | Segunda División | Santa Cruz de Tenerife
+2026-08-23 H 1-0 v Burgos | Segunda División | Gijon
+2026-08-17 H 0-0 v Sabadell | Segunda División | Gijon
+2026-08-08 H 2-4 v Valladolid | Friendlies Clubs | ?
+2026-08-07 A 1-4 v Racing Santander | Friendlies Clubs | ?
+2026-08-01 H 5-0 v Gimnástica Torrelavega | Friendlies Clubs | ?
+2026-07-25 A 0-1 v Celta Vigo | Friendlies Clubs | ?
+2026-07-18 A 2-1 v Marino de Luanco | Friendlies Clubs | ?
+2026-05-30 A 2-1 v Granada CF | Segunda División | Granada
+2026-05-24 H 3-1 v Almeria | Segunda División | Gijon
+Listed home: 9 games, scored 16 (1.78), conceded 11 (1.22), blanks 3, clean sheets 3
+Listed away: 11 games, scored 15 (1.36), conceded 15 (1.36), blanks 3, clean sheets 3
+All: 20 games, scored 31 (1.55), conceded 26 (1.30), blanks 6, clean sheets 6
+
+=== Valladolid (id 720): last 20 finished games ===
+2026-11-02 H 4-3 v Leganes | Segunda División | Valladolid | xG 2.90-2.43
+2026-10-29 A 1-0 v Covadonga | Copa del Rey | Pola de Siero
+2026-10-23 A 1-2 v Granada CF | Segunda División | Granada | xG 1.91-0.72
+2026-10-18 H 2-3 v Eldense | Segunda División | Valladolid
+2026-10-12 H 5-0 v Albacete | Segunda División | Valladolid | xG 3.54-1.24
+2026-10-04 A 2-2 v Las Palmas | Segunda División | Las Palmas
+2026-09-27 H 3-1 v Cordoba | Segunda División | Valladolid | xG 2.45-1.50
+2026-09-20 A 1-1 v AD Ceuta FC | Segunda División | Ceuta
+2026-09-13 H 0-3 v Oviedo | Segunda División | Valladolid | xG 1.15-1.77
+2026-09-05 H 1-0 v FC Andorra | Segunda División | Valladolid | xG 0.69-1.38
+2026-08-30 A 1-1 v Cadiz | Segunda División | Cadiz
+2026-08-23 A 0-1 v Eibar | Segunda División | Eibar
+2026-08-15 A 0-2 v Mallorca | Segunda División | Palma de Mallorca
+2026-08-08 A 4-2 v Sporting Gijon | Friendlies Clubs | ?
+2026-08-05 A 3-0 v Gimnástica Segoviana | Friendlies Clubs | ?
+2026-08-01 A 0-1 v Groningen | Friendlies Clubs | ?
+2026-07-29 H 4-1 v CD Coria | Friendlies Clubs | ?
+2026-07-25 H 0-0 v Getafe | Friendlies Clubs | ?
+2026-05-31 A 0-1 v Almeria | Segunda División | Almeria
+2026-05-24 H 0-2 v Deportivo La Coruna | Segunda División | Valladolid
+Listed home: 9 games, scored 19 (2.11), conceded 13 (1.44), blanks 3, clean sheets 3
+Listed away: 11 games, scored 13 (1.18), conceded 13 (1.18), blanks 4, clean sheets 2
+All: 20 games, scored 32 (1.60), conceded 26 (1.30), blanks 7, clean sheets 5
+
+TABLE FOR Sporting Gijon
+LEAGUE TABLE Segunda División 2026 | 22 teams | 136 games played
+League averages per game: home 1.57, away 1.18, total 2.76
+#   team                   Pts | home P GF-GA  | away P GF-GA  | all P GF-GA
+1   Castellón               27 |  5  12-1       |  7  11-4       | 12  23-5
+2   Almeria                 26 |  6  15-5       |  6   8-5       | 12  23-10
+3   Burgos                  24 |  8  13-8       |  5   6-6       | 13  19-14
+4   Eibar                   23 |  6  10-7       |  6  11-7       | 12  21-14
+5   Granada CF              23 |  5   9-5       |  7  11-9       | 12  20-14
+6   Mallorca                22 |  6  12-3       |  6   3-4       | 12  15-7
+7   Sporting Gijon          22 |  6   6-6       |  6   7-7       | 12  13-13
+8   Girona                  21 |  7  16-6       |  5   6-5       | 12  22-11
+9   Oviedo                  21 |  6   7-5       |  7  12-11      | 13  19-16
+10  Cordoba                 19 |  6  11-8       |  7  11-14      | 13  22-22
+11  Sabadell                17 |  5   8-4       |  7   4-7       | 12  12-11
+12  Las Palmas              17 |  6   6-8       |  6  11-13      | 12  17-21
+13  Valladolid              15 |  6  15-10      |  6   5-9       | 12  20-19
+14  Tenerife                15 |  6   7-5       |  6   8-12      | 12  15-17
+15  Eldense                 14 |  6   9-8       |  6   4-9       | 12  13-17
+16  Celta de Vigo II        13 |  7  13-13      |  6   6-12      | 13  19-25
+17  Leganes                 12 |  6   6-9       |  7   5-14      | 13  11-23
+18  FC Andorra              11 |  6  10-11      |  6   7-11      | 12  17-22
+19  Real Sociedad II        11 |  6   6-10      |  6   9-12      | 12  15-22
+20  Cadiz                   10 |  8  10-8       |  5   6-10      | 13  16-18
+21  Albacete                10 |  6   7-9       |  7   6-15      | 13  13-24
+22  AD Ceuta FC              5 |  7   6-12      |  6   4-18      | 13  10-30
+
+(Valladolid: same table as Sporting Gijon, shown above)
+
+(24 API-Football requests used)
+
+----------------------------------------------------------------------
+MATCHBOOK: skipped (switched off for this run)

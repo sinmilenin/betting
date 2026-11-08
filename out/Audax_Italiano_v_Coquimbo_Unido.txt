@@ -1,0 +1,57 @@
+MATCH Audax Italiano v Coquimbo Unido | fetched 2026-11-08 14:58 local
+
+FORM DATA Audax Italiano v Coquimbo Unido | source API-Football | 2026-11-08 14:58 UTC
+H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
+
+=== Coquimbo Unido (id 2330): last 20 finished games ===
+2026-11-04 A 2-0 v Union La Calera | Copa Chile | La Calera
+2026-10-30 H 1-0 v Union La Calera | Primera División | Coquimbo | xG 0.90-1.22
+2026-10-25 A 1-2 v Nublense | Primera División | Chillan | xG 0.73-1.65
+2026-10-11 H 5-2 v Colo Colo | Primera División | Coquimbo
+2026-10-07 H 2-1 v Cobreloa | Copa Chile | Coquimbo
+2026-09-22 A 2-1 v Cobreloa | Copa Chile | Calama
+2026-09-12 A 2-3 v Cobresal | Primera División | El Salvador
+2026-09-06 A 2-4 v Universidad de Chile | Primera División | Santiago de Chile
+2026-09-02 H 1-0 v Universidad de Concepcion | Primera División | Coquimbo
+2026-08-26 H 1-2 v U. Catolica | Primera División | Coquimbo
+2026-08-23 A 1-1 v Concepción | Primera División | Concepcion
+2026-08-19 H 0-0 v Platense | CONMEBOL Libertadores | Coquimbo [PEN, 90-min score shown]
+2026-08-12 A 1-1 v Platense | CONMEBOL Libertadores | Buenos Aires
+2026-08-08 H 1-1 v D. La Serena | Primera División | Coquimbo
+2026-08-06 H 1-0 v San Marcos de Arica | Copa Chile | Coquimbo
+2026-08-01 A 1-2 v Palestino | Primera División | Santiago de Chile
+2026-07-12 H 0-1 v Union La Calera | Copa De La Liga | Coquimbo [PEN, 90-min score shown]
+2026-07-08 A 1-0 v Union La Calera | Copa De La Liga | La Calera
+2026-07-04 A 1-1 v Deportes Iquique | Copa Chile | Iquique
+2026-07-01 A 1-1 v Deportes Limache | Copa Chile | Limache
+Listed home: 9 games, scored 12 (1.33), conceded 7 (0.78), blanks 2, clean sheets 4
+Listed away: 11 games, scored 15 (1.36), conceded 16 (1.45), blanks 0, clean sheets 2
+All: 20 games, scored 27 (1.35), conceded 23 (1.15), blanks 2, clean sheets 6
+
+!! Audax Italiano: No team found for "Audax Italiano".
+
+TABLE FOR Coquimbo Unido
+LEAGUE TABLE Primera División 2026 | 16 teams | 209 games played
+League averages per game: home 1.67, away 1.18, total 2.85
+#   team                   Pts | home P GF-GA  | away P GF-GA  | all P GF-GA
+1   Colo Colo               58 | 13  34-11      | 13  23-18      | 26  57-29
+2   Universidad de Chile    48 | 13  31-10      | 13  14-11      | 26  45-21
+3   U. Catolica             46 | 13  31-17      | 13  22-20      | 26  53-37
+4   Deportes Limache        40 | 13  27-15      | 13  21-22      | 26  48-37
+5   Everton de Vina         40 | 14  19-18      | 13  24-17      | 27  43-35
+6   Palestino               38 | 13  27-14      | 14  12-24      | 27  39-38
+7   Concepción              38 | 14  18-14      | 13  12-16      | 27  30-30
+8   D. La Serena            37 | 14  23-19      | 13  17-23      | 27  40-42
+9   Coquimbo Unido          35 | 12  19-11      | 13  19-24      | 25  38-35
+10  Nublense                35 | 13  17-17      | 13  13-22      | 26  30-39
+11  Huachipato              33 | 13  23-22      | 12  11-18      | 25  34-40
+12  O'Higgins               31 | 13  13-15      | 13  17-24      | 26  30-39
+13  A. Italiano             30 | 13  20-14      | 13   8-21      | 26  28-35
+14  Cobresal                27 | 13  21-19      | 13  17-29      | 26  38-48
+15  Universidad de Concepc  23 | 12   8-13      | 14  11-34      | 26  19-47
+16  Union La Calera         21 | 13  17-18      | 13   6-25      | 26  23-43
+
+(15 API-Football requests used)
+
+----------------------------------------------------------------------
+MATCHBOOK: skipped (switched off for this run)
