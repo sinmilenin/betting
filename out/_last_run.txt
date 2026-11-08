@@ -1,16 +1,7 @@
-RUN 2026-11-08 13:29 local | 10 match(es)
-Jablonec v Mlada Boleslav -> out/Jablonec_v_Mlada_Boleslav.txt
-    !! Jablonec: Ambiguous team name "Jablonec".
-Cambuur v PSV -> out/Cambuur_v_PSV.txt
-    !! PSV: Ambiguous team name "PSV".
-AZ Alkmaar v Groningen -> out/AZ_Alkmaar_v_Groningen.txt
-HamKam v Sarpsborg -> out/HamKam_v_Sarpsborg.txt
-    !! HamKam: Ambiguous team name "HamKam".
-Lillestrom v Aalesund -> out/Lillestrom_v_Aalesund.txt
-Viking v KFUM Oslo -> out/Viking_v_KFUM_Oslo.txt
-Shakhtar Donetsk v Dynamo Kyiv -> out/Shakhtar_Donetsk_v_Dynamo_Kyiv.txt
-Carrarese v Sampdoria -> out/Carrarese_v_Sampdoria.txt
-Brest v Lyon -> out/Brest_v_Lyon.txt
-    !! Brest: Ambiguous team name "Brest".
-Angers v Nice -> out/Angers_v_Nice.txt
-Requests used: API-Football 202, Matchbook 0
+RUN 2026-11-08 13:32 local | 3 match(es)
+id:1122 v Mlada Boleslav -> out/id_1122_v_Mlada_Boleslav.txt
+Ham-Kam v Sarpsborg 08 -> out/Ham_Kam_v_Sarpsborg_08.txt
+    !! Ham-Kam: API-Football error: {"search": "The Search field may only contain alpha-numeric characters and spaces."}
+    !! Sarpsborg 08: Ambiguous team name "Sarpsborg 08".
+Arsenal U21 v Aston Villa U21 -> out/Arsenal_U21_v_Aston_Villa_U21.txt
+Requests used: API-Football 54, Matchbook 0
