@@ -1,5 +1,4 @@
-RUN 2026-11-08 15:01 local | 2 match(es)
-Italiano v Coquimbo Unido -> out/Italiano_v_Coquimbo_Unido.txt
-Gilloise v Genk -> out/Gilloise_v_Genk.txt
-    !! Gilloise: Ambiguous team name "Gilloise".
-Requests used: API-Football 42, Matchbook 0
+RUN 2026-11-08 15:02 local | 2 match(es)
+id:2329 v Coquimbo Unido -> out/id_2329_v_Coquimbo_Unido.txt
+id:1393 v Genk -> out/id_1393_v_Genk.txt
+Requests used: API-Football 52, Matchbook 0

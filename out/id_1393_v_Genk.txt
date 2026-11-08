@@ -1,0 +1,123 @@
+MATCH id:1393 v Genk | fetched 2026-11-08 15:02 local
+
+FORM DATA id:1393 v Genk | source API-Football | 2026-11-08 15:02 UTC
+H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
+
+=== Union St. Gilloise (id 1393): last 20 finished games ===
+2026-11-05 A 2-1 v Celta Vigo | UEFA Europa League | Vigo | xG 2.19-1.08
+2026-10-31 A 2-1 v SK Beveren | Jupiler Pro League | Beveren | xG 0.69-0.47
+2026-10-25 H 5-2 v Cercle Brugge | Jupiler Pro League | Brussels | xG 2.02-1.23
+2026-10-22 H 4-0 v Hapoel Beer Sheva | UEFA Europa League | Dusseldorf | xG 2.74-0.65
+2026-10-18 H 3-0 v Nijlen | Cup | ?
+2026-10-15 H 1-1 v Real Sociedad | UEFA Europa League | Heverley | xG 1.92-0.76
+2026-10-11 H 1-1 v OH Leuven | Jupiler Pro League | Brussels | xG 1.14-1.46
+2026-09-20 A 2-0 v Antwerp | Jupiler Pro League | Deurne | xG 3.34-0.41
+2026-09-17 A 3-0 v Plzen | UEFA Europa League | Pilsner
+2026-09-12 H 5-0 v Lommel United | Jupiler Pro League | Brussels | xG 3.27-0.65
+2026-09-05 A 3-2 v Charleroi | Jupiler Pro League | Charleroi
+2026-09-02 A 3-0 v St. Truiden | Jupiler Pro League | Sint- Truiden
+2026-08-30 H 3-0 v Anderlecht | Jupiler Pro League | Brussels
+2026-08-15 H 0-0 v Zulte Waregem | Jupiler Pro League | Brussels
+2026-08-11 A 2-2 v Bodo/Glimt | UEFA Champions League | Bodø [AET, 90-min score shown]
+2026-08-08 A 5-1 v KVC Westerlo | Jupiler Pro League | Westerlo
+2026-08-04 H 3-3 v Bodo/Glimt | UEFA Champions League | Ostend
+2026-07-31 A 1-1 v Club Brugge KV | Super Cup | ? [PEN, 90-min score shown]
+2026-07-25 H 2-1 v Lille | Friendlies Clubs | ?
+2026-07-24 H 4-0 v Patro Eisden | Friendlies Clubs | ?
+Listed home: 11 games, scored 31 (2.82), conceded 8 (0.73), blanks 1, clean sheets 6
+Listed away: 9 games, scored 23 (2.56), conceded 8 (0.89), blanks 0, clean sheets 3
+All: 20 games, scored 54 (2.70), conceded 16 (0.80), blanks 1, clean sheets 9
+
+=== Genk (id 742): last 20 finished games ===
+2026-10-31 A 0-1 v KV Mechelen | Jupiler Pro League | Mechelen | xG 1.65-0.31
+2026-10-25 H 2-1 v Standard Liege | Jupiler Pro League | Genk | xG 3.32-1.48
+2026-10-17 A 2-0 v Excelsior Virton | Cup | ?
+2026-10-10 H 3-0 v Kortrijk | Jupiler Pro League | Genk | xG 1.83-0.70
+2026-10-03 H 1-2 v Fortuna Sittard | Friendlies Clubs | ?
+2026-09-20 A 0-3 v Club Brugge KV | Jupiler Pro League | Brugge | xG 1.96-2.12
+2026-09-13 H 1-1 v Gent | Jupiler Pro League | Genk | xG 0.94-0.89
+2026-09-06 A 0-0 v Anderlecht | Jupiler Pro League | Brussels | xG 0.43-0.88
+2026-08-28 H 4-0 v SK Beveren | Jupiler Pro League | Genk | xG 3.06-0.61
+2026-08-22 A 4-4 v Antwerp | Jupiler Pro League | Deurne | xG 1.30-1.86
+2026-08-15 H 3-2 v KVC Westerlo | Jupiler Pro League | Genk
+2026-08-09 A 1-2 v Zulte Waregem | Jupiler Pro League | Waregem
+2026-08-02 H 2-1 v Twente | Friendlies Clubs | ?
+2026-08-01 H 3-1 v FC OSS | Friendlies Clubs | ?
+2026-07-29 A 0-4 v Bayer Leverkusen | Friendlies Clubs | ?
+2026-07-22 A 0-4 v AZ Alkmaar | Friendlies Clubs | ?
+2026-07-18 A 0-1 v Falkirk | Friendlies Clubs | ?
+2026-07-17 A 4-3 v Motherwell | Friendlies Clubs | ?
+2026-07-11 A 1-2 v Fortuna Sittard | Friendlies Clubs | ?
+2026-07-08 H 2-1 v SK Beveren | Friendlies Clubs | ?
+Listed home: 9 games, scored 21 (2.33), conceded 9 (1.00), blanks 0, clean sheets 2
+Listed away: 11 games, scored 12 (1.09), conceded 24 (2.18), blanks 6, clean sheets 2
+All: 20 games, scored 33 (1.65), conceded 33 (1.65), blanks 6, clean sheets 4
+
+TABLE FOR Union St. Gilloise
+LEAGUE TABLE UEFA Europa League 2026 | 36 teams | 72 games played
+League averages per game: home 1.43, away 1.54, total 2.97
+#   team                   Pts | home P GF-GA  | away P GF-GA  | all P GF-GA
+1   Benfica                 12 |  2   7-2       |  2   6-1       |  4  13-3
+2   Bournemouth             12 |  2   6-0       |  2   5-2       |  4  11-2
+3   Ferencvarosi TC         12 |  2   6-2       |  2   5-1       |  4  11-3
+4   Union St. Gilloise      10 |  2   5-1       |  2   5-1       |  4  10-2
+5   Juventus                10 |  2   7-2       |  2   4-2       |  4  11-4
+6   Olympiakos Piraeus      10 |  2   3-1       |  2   1-0       |  4   4-1
+7   Bayer Leverkusen         9 |  2   2-1       |  2   6-0       |  4   8-1
+8   Beşiktaş                 7 |  2   6-3       |  2   5-5       |  4  11-8
+9   Dinamo Zagreb            7 |  2   3-4       |  2   2-0       |  4   5-4
+10  Levski Sofia             7 |  2   1-1       |  2   3-2       |  4   4-3
+11  Sunderland               7 |  2   1-2       |  2   3-2       |  4   4-4
+12  NEC Nijmegen             7 |  2   4-2       |  2   4-7       |  4   8-9
+13  Lyon                     7 |  1   3-2       |  3   3-5       |  4   6-7
+14  AZ Alkmaar               6 |  2   3-3       |  2   4-1       |  4   7-4
+15  Anderlecht               6 |  2   3-2       |  2   3-1       |  4   6-3
+16  OFI                      6 |  2   2-2       |  2   3-2       |  4   5-4
+17  Rennes                   6 |  2   2-1       |  2   2-2       |  4   4-3
+18  Omonia Nicosia           6 |  2   2-4       |  2   4-3       |  4   6-7
+19  Torreense                6 |  2   4-4       |  2   3-5       |  4   7-9
+20  Real Sociedad            5 |  2   2-3       |  2   7-1       |  4   9-4
+21  Crystal Palace           5 |  2   5-1       |  2   4-5       |  4   9-6
+22  Sparta Praha             4 |  2   2-4       |  2   4-2       |  4   6-6
+23  1899 Hoffenheim          4 |  2   5-3       |  2   1-3       |  4   6-6
+24  Sturm Graz               4 |  3   3-3       |  1   0-3       |  4   3-6
+25  Celje                    4 |  2   2-5       |  2   3-4       |  4   5-9
+26  Red Bull Salzburg        4 |  1   0-4       |  3   3-4       |  4   3-8
+27  Celta Vigo               3 |  2   2-4       |  2   2-2       |  4   4-6
+28  AC Milan                 3 |  2   0-4       |  2   4-3       |  4   4-7
+29  Jagiellonia              3 |  2   3-4       |  2   1-3       |  4   4-7
+30  Plzen                    3 |  2   1-5       |  2   2-2       |  4   3-7
+31  Marseille                3 |  1   0-1       |  3   2-5       |  4   2-6
+32  Celtic                   3 |  3   5-7       |  1   1-4       |  4   6-11
+33  Hapoel Beer Sheva        1 |  2   0-2       |  2   1-6       |  4   1-8
+34  Lillestrom               1 |  3   1-9       |  1   1-1       |  4   2-10
+35  Lech Poznan              1 |  2   1-5       |  2   1-7       |  4   2-12
+36  Ararat-Armenia           0 |  2   1-8       |  2   3-6       |  4   4-14
+
+TABLE FOR Genk
+LEAGUE TABLE Jupiler Pro League 2026 | 18 teams | 95 games played
+League averages per game: home 1.86, away 1.37, total 3.23
+#   team                   Pts | home P GF-GA  | away P GF-GA  | all P GF-GA
+1   Club Brugge KV          27 |  5  13-3       |  5  13-5       | 10  26-8
+2   Charleroi               27 |  5  15-8       |  6  11-5       | 11  26-13
+3   Union St. Gilloise      26 |  5  14-3       |  5  15-4       | 10  29-7
+4   Gent                    25 |  5  11-2       |  5   8-4       | 10  19-6
+5   Anderlecht              19 |  5  10-2       |  5   3-9       | 10  13-11
+6   Lommel United           16 |  5   6-2       |  6   9-11      | 11  15-13
+7   Genk                    15 |  5  13-4       |  5   5-10      | 10  18-14
+8   Standard Liege          15 |  6   9-4       |  5   9-12      | 11  18-16
+9   KVC Westerlo            14 |  6  17-19      |  5   9-11      | 11  26-30
+10  OH Leuven               12 |  6   8-8       |  5   4-9       | 11  12-17
+11  KV Mechelen             12 |  5   8-11      |  6   5-9       | 11  13-20
+12  Zulte Waregem           11 |  5   8-8       |  5   4-8       | 10  12-16
+13  Antwerp                 11 |  6  12-13      |  5   6-11      | 11  18-24
+14  SK Beveren              10 |  5   8-5       |  6   5-18      | 11  13-23
+15  Cercle Brugge            9 |  5   6-10      |  6   8-12      | 11  14-22
+16  St. Truiden              8 |  5   6-8       |  5  12-13      | 10  18-21
+17  RAAL La Louvière         7 |  6  10-9       |  5   3-15      | 11  13-24
+18  Kortrijk                 4 |  5   3-11      |  5   1-11      | 10   4-22
+
+(26 API-Football requests used)
+
+----------------------------------------------------------------------
+MATCHBOOK: skipped (switched off for this run)
