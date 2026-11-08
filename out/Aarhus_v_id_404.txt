@@ -1,6 +1,6 @@
-MATCH Aarhus v Horsens | fetched 2026-11-08 10:29 local
+MATCH Aarhus v id:404 | fetched 2026-11-08 10:30 local
 
-FORM DATA Aarhus v Horsens | source API-Football | 2026-11-08 10:29 UTC
+FORM DATA Aarhus v id:404 | source API-Football | 2026-11-08 10:30 UTC
 H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
 
 === Aarhus (id 406): last 20 finished games ===
@@ -28,16 +28,30 @@ Listed home: 9 games, scored 13 (1.44), conceded 12 (1.33), blanks 2, clean shee
 Listed away: 11 games, scored 14 (1.27), conceded 21 (1.91), blanks 4, clean sheets 0
 All: 20 games, scored 27 (1.35), conceded 33 (1.65), blanks 6, clean sheets 2
 
-"Horsens" matches several teams. Use id:<number> instead of the name:
-  id:404    AC Horsens (Denmark)
-  id:15124  Horsens II (Denmark)
-  id:26274  FC Horsens (Denmark)
-(retrying Horsens using the opponent's country, Denmark)
-"Horsens" matches several teams. Use id:<number> instead of the name:
-  id:404    AC Horsens (Denmark)
-  id:15124  Horsens II (Denmark)
-  id:26274  FC Horsens (Denmark)
-!! Horsens: Ambiguous team name "Horsens".
+=== AC Horsens (id 404): last 20 finished games ===
+2026-11-01 A 0-1 v Viborg | Superliga | Vyborg | xG 0.72-3.20
+2026-10-28 A 0-0 v Brabrand | DBU Pokalen | Brabrand [AET, 90-min score shown]
+2026-10-25 H 5-1 v Sonderjyske | Superliga | Horsens | xG 3.82-1.34
+2026-10-16 H 0-0 v Randers FC | Superliga | Horsens | xG 0.76-1.82
+2026-10-11 A 3-3 v Silkeborg | Superliga | Silkeborg | xG 3.39-2.22
+2026-10-02 H 2-1 v Vejle | Friendlies Clubs | ?
+2026-09-20 H 2-2 v Aarhus | Superliga | Horsens | xG 1.19-1.01
+2026-09-16 A 3-2 v Næsby | DBU Pokalen | Odense
+2026-09-11 A 0-2 v FC Copenhagen | Superliga | Copenhagen
+2026-09-06 A 5-2 v Sonderjyske | Superliga | Haderslev | xG 2.42-0.62
+2026-09-01 A 4-0 v Lyseng | DBU Pokalen | ?
+2026-08-28 H 2-3 v Viborg | Superliga | Horsens
+2026-08-23 H 2-1 v Lyngby | Superliga | Horsens
+2026-08-16 A 2-1 v Odense | Superliga | Odense
+2026-08-09 H 0-2 v Brondby | Superliga | Horsens
+2026-08-02 A 1-2 v FC Midtjylland | Superliga | Herning
+2026-07-26 H 1-1 v FC Nordsjaelland | Superliga | Horsens
+2026-07-18 A 0-1 v Vendsyssel FF | Friendlies Clubs | ?
+2026-07-15 A 0-2 v Aarhus | Friendlies Clubs | ?
+2026-07-11 A 2-3 v FC Copenhagen | Friendlies Clubs | ?
+Listed home: 8 games, scored 14 (1.75), conceded 11 (1.38), blanks 2, clean sheets 1
+Listed away: 12 games, scored 20 (1.67), conceded 19 (1.58), blanks 5, clean sheets 2
+All: 20 games, scored 34 (1.70), conceded 30 (1.50), blanks 7, clean sheets 3
 
 TABLE FOR Aarhus
 LEAGUE TABLE UEFA Europa Conference League 2026 | 36 teams | 54 games played
@@ -80,7 +94,24 @@ League averages per game: home 1.57, away 1.19, total 2.76
 35  Inter Club d'Escaldes    0 |  1   1-3       |  2   1-4       |  3   2-7
 36  Kauno Žalgiris           0 |  1   1-4       |  2   0-7       |  3   1-11
 
-(14 API-Football requests used)
+TABLE FOR AC Horsens
+LEAGUE TABLE Superliga 2026 | 12 teams | 80 games played
+League averages per game: home 1.65, away 1.39, total 3.04
+#   team                   Pts | home P GF-GA  | away P GF-GA  | all P GF-GA
+1   FC Midtjylland          31 |  6  14-7       |  7  13-8       | 13  27-15
+2   FC Copenhagen           29 |  6  12-5       |  7  16-7       | 13  28-12
+3   Viborg                  26 |  7  13-6       |  7   9-7       | 14  22-13
+4   Brondby                 22 |  7  14-9       |  6   9-11      | 13  23-20
+5   FC Nordsjaelland        20 |  6   9-4       |  7  11-13      | 13  20-17
+6   Odense                  17 |  7  10-12      |  7   6-7       | 14  16-19
+7   AC Horsens              16 |  7  12-10      |  6  11-11      | 13  23-21
+8   Silkeborg               15 |  7   9-9       |  7   9-15      | 14  18-24
+9   Aarhus                  12 |  6  10-8       |  7   7-13      | 13  17-21
+10  Randers FC              11 |  7   7-13      |  6   6-8       | 13  13-21
+11  Lyngby                  11 |  7  10-13      |  7   9-16      | 14  19-29
+12  Sonderjyske              8 |  7  12-15      |  6   5-16      | 13  17-31
+
+(26 API-Football requests used)
 
 ----------------------------------------------------------------------
 MATCHBOOK: skipped (switched off for this run)

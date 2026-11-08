@@ -1,19 +1,8 @@
-RUN 2026-11-08 10:29 local | 11 match(es)
-Super Nova v Daugavpils -> out/Super_Nova_v_Daugavpils.txt
-    !! Daugavpils: Ambiguous team name "Daugavpils".
-Feirense v Lusitania -> out/Feirense_v_Lusitania.txt
-    !! Feirense: Ambiguous team name "Feirense".
-    !! Lusitania: Ambiguous team name "Lusitania".
-Zorya Luhansk v LNZ Cherkasy -> out/Zorya_Luhansk_v_LNZ_Cherkasy.txt
-FC Porto II v Portimonense -> out/FC_Porto_II_v_Portimonense.txt
-    !! FC Porto II: No team found for "FC Porto II".
-Sandnes Ulf v Asane -> out/Sandnes_Ulf_v_Asane.txt
-KuPS v Inter Turku -> out/KuPS_v_Inter_Turku.txt
-St. Gallen v Lugano -> out/St_Gallen_v_Lugano.txt
-    !! St. Gallen: API-Football error: {"search": "The Search field may only contain alpha-numeric characters and spaces."}
-Aarhus v Horsens -> out/Aarhus_v_Horsens.txt
-    !! Horsens: Ambiguous team name "Horsens".
-Halmstad v Djurgardens IF -> out/Halmstad_v_Djurgardens_IF.txt
-Umraniyespor v Kayserispor -> out/Umraniyespor_v_Kayserispor.txt
-IFK Goteborg v Malmo FF -> out/IFK_Goteborg_v_Malmo_FF.txt
-Requests used: API-Football 210, Matchbook 0
+RUN 2026-11-08 10:30 local | 5 match(es)
+Super Nova v id:4149 -> out/Super_Nova_v_id_4149.txt
+id:213 v id:6358 -> out/id_213_v_id_6358.txt
+Porto B v Portimonense -> out/Porto_B_v_Portimonense.txt
+St Gallen v Lugano -> out/St_Gallen_v_Lugano.txt
+    !! St Gallen: No team found for "St Gallen".
+Aarhus v id:404 -> out/Aarhus_v_id_404.txt
+Requests used: API-Football 115, Matchbook 0
