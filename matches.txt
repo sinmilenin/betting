@@ -1,4 +1,11 @@
-# scan 08.11 12:55 run 1
-JS El Biar v MC Alger | n=20 | xg=10
-Catania v Sorrento | n=20 | xg=10
-Union Berlin W v Hoffenheim W | n=20 | xg=10
+# scan 08.11 13:41 run 1
+FC Sabah v Shamakhi | n=20 | xg=10
+Randers v Nordsjaelland | n=20 | xg=10
+Asteras Tripolis v Kalamata | n=20 | xg=10
+AEK Athens v Levadiakos | n=20 | xg=10
+Derry City v Waterford | n=20 | xg=10
+Servette v FC Zurich | n=20 | xg=10
+Ajman v Bani Yas | n=20 | xg=10
+Alanyaspor v Trabzonspor | n=20 | xg=10
+AIK v Hacken | n=20 | xg=10
+Thun v Basel | n=20 | xg=10
