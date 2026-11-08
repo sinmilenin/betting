@@ -1,4 +1,5 @@
-RUN 2026-11-08 17:17 local | 1 match(es)
-St Truiden v Zulte Waregem -> out/St_Truiden_v_Zulte_Waregem.txt
-    !! St Truiden: No team found for "St Truiden".
-Requests used: API-Football 14, Matchbook 0
+RUN 2026-11-08 18:01 local | 3 match(es)
+Hapoel Beer Sheva v Hapoel Tel Aviv -> out/Hapoel_Beer_Sheva_v_Hapoel_Tel_Aviv.txt
+Wurzburger Kickers v Hoffenheim II -> out/Wurzburger_Kickers_v_Hoffenheim_II.txt
+Union La Calera v Huachipato -> out/Union_La_Calera_v_Huachipato.txt
+Requests used: API-Football 77, Matchbook 0
