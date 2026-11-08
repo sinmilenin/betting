@@ -1,4 +1,7 @@
-RUN 2026-11-08 18:44 local | 2 match(es)
-id:3702 v The Strongest -> out/id_3702_v_The_Strongest.txt
-Jaguares v Bucaramanga -> out/Jaguares_v_Bucaramanga.txt
-Requests used: API-Football 52, Matchbook 0
+RUN 2026-11-08 19:59 local | 3 match(es)
+Tolima v Millonarios -> out/Tolima_v_Millonarios.txt
+    !! Tolima: Ambiguous team name "Tolima".
+    !! Millonarios: Ambiguous team name "Millonarios".
+Blooming v Oriente Petrolero -> out/Blooming_v_Oriente_Petrolero.txt
+Alianza Valledupar v Llaneros -> out/Alianza_Valledupar_v_Llaneros.txt
+Requests used: API-Football 53, Matchbook 0
