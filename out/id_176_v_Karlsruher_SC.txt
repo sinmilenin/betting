@@ -1,13 +1,33 @@
-MATCH Bochum v Karlsruher SC | fetched 2026-11-08 09:43 local
+MATCH id:176 v Karlsruher SC | fetched 2026-11-08 09:44 local
 
-FORM DATA Bochum v Karlsruher SC | source API-Football | 2026-11-08 09:43 UTC
+FORM DATA id:176 v Karlsruher SC | source API-Football | 2026-11-08 09:45 UTC
 H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
 
-"Bochum" matches several teams. Use id:<number> instead of the name:
-  id:176    VfL Bochum (Germany)
-  id:10248  Bochum U19 (Germany)
-  id:20473  Bochum W (Germany)
-  id:24430  Bochum II (Germany)
+=== VfL Bochum (id 176): last 20 finished games ===
+2026-10-30 A 2-1 v Energie Cottbus | 2. Bundesliga | Cottbus | xG 1.32-1.41
+2026-10-27 H 2-0 v FSV Mainz 05 | DFB Pokal | Bochum | xG 1.44-0.52
+2026-10-23 H 1-1 v VfL Wolfsburg | 2. Bundesliga | Bochum | xG 1.55-0.76
+2026-10-17 A 0-2 v 1. FC Kaiserslautern | 2. Bundesliga | Kaiserslautern | xG 0.59-2.34
+2026-10-11 H 0-1 v Arminia Bielefeld | 2. Bundesliga | Bochum | xG 0.67-1.69
+2026-10-02 H 4-1 v VfL Osnabrück | Friendlies Clubs | ?
+2026-09-20 A 1-2 v Hannover 96 | 2. Bundesliga | Hannover | xG 1.73-1.77
+2026-09-12 H 1-1 v SpVgg Greuther Fürth | 2. Bundesliga | Bochum | xG 1.53-1.64
+2026-09-05 A 2-1 v Dynamo Dresden | 2. Bundesliga | Dresden | xG 1.40-1.82
+2026-08-28 H 0-1 v VfL Osnabrück | 2. Bundesliga | Bochum | xG 1.37-0.52
+2026-08-23 A 2-1 v SpVgg Greuther Fürth | DFB Pokal | Fürth
+2026-08-14 A 1-0 v Eintracht Braunschweig | 2. Bundesliga | Braunschweig
+2026-08-07 H 0-1 v Hertha BSC | 2. Bundesliga | Bochum
+2026-08-01 H 0-0 v Sheffield Utd | Friendlies Clubs | ?
+2026-07-25 A 0-2 v Werder Bremen | Friendlies Clubs | ?
+2026-07-21 A 2-0 v Swansea | Friendlies Clubs | ?
+2026-07-15 A 1-1 v Ajax | Friendlies Clubs | Ouder-Amstel
+2026-07-11 H 1-0 v Antwerp | Friendlies Clubs | ?
+2026-07-04 A 3-2 v Rot-weiss Oberhausen | Friendlies Clubs | ?
+2026-05-17 A 2-1 v Karlsruher SC | 2. Bundesliga | Karlsruhe
+Listed home: 9 games, scored 9 (1.00), conceded 6 (0.67), blanks 4, clean sheets 3
+Listed away: 11 games, scored 16 (1.45), conceded 13 (1.18), blanks 2, clean sheets 2
+All: 20 games, scored 25 (1.25), conceded 19 (0.95), blanks 6, clean sheets 5
+
 === Karlsruher SC (id 785): last 20 finished games ===
 2026-10-31 H 2-1 v 1. FC Heidenheim | 2. Bundesliga | Karlsruhe | xG 1.58-1.32
 2026-10-27 A 0-2 v Borussia Mönchengladbach | DFB Pokal | Monchengladbach | xG 0.91-0.77
@@ -33,15 +53,7 @@ Listed home: 11 games, scored 19 (1.73), conceded 23 (2.09), blanks 2, clean she
 Listed away: 9 games, scored 9 (1.00), conceded 19 (2.11), blanks 4, clean sheets 1
 All: 20 games, scored 28 (1.40), conceded 42 (2.10), blanks 6, clean sheets 2
 
-(retrying Bochum using the opponent's country, Germany)
-"Bochum" matches several teams. Use id:<number> instead of the name:
-  id:176    VfL Bochum (Germany)
-  id:10248  Bochum U19 (Germany)
-  id:20473  Bochum W (Germany)
-  id:24430  Bochum II (Germany)
-!! Bochum: Ambiguous team name "Bochum".
-
-TABLE FOR Karlsruher SC
+TABLE FOR VfL Bochum
 LEAGUE TABLE 2. Bundesliga 2026 | 18 teams | 96 games played
 League averages per game: home 1.72, away 1.22, total 2.94
 #   team                   Pts | home P GF-GA  | away P GF-GA  | all P GF-GA
@@ -64,7 +76,9 @@ League averages per game: home 1.72, away 1.22, total 2.94
 17  SV Darmstadt 98          9 |  6   8-6       |  5   1-15      | 11   9-21
 18  Holstein Kiel            8 |  6   9-7       |  5   2-7       | 11  11-14
 
-(15 API-Football requests used)
+(Karlsruher SC: same table as VfL Bochum, shown above)
+
+(24 API-Football requests used)
 
 ----------------------------------------------------------------------
 MATCHBOOK: skipped (switched off for this run)

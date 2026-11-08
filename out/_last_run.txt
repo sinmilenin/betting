@@ -1,22 +1,7 @@
-RUN 2026-11-08 09:43 local | 12 match(es)
-Viimsi v Nomme Kalju II -> out/Viimsi_v_Nomme_Kalju_II.txt
-Torres v Latina -> out/Torres_v_Latina.txt
-Stabaek v Stromsgodset -> out/Stabaek_v_Stromsgodset.txt
-Liverpool W v Arsenal W -> out/Liverpool_W_v_Arsenal_W.txt
-Ratchaburi v Buriram United -> out/Ratchaburi_v_Buriram_United.txt
-Stafford Rangers v Grimsby -> out/Stafford_Rangers_v_Grimsby.txt
-Nyiregyhaza v Gyor -> out/Nyiregyhaza_v_Gyor.txt
-    !! Gyor: Ambiguous team name "Gyor".
-TransINVEST v Kauno Zalgiris -> out/TransINVEST_v_Kauno_Zalgiris.txt
-    !! TransINVEST: Ambiguous team name "TransINVEST".
-    !! Kauno Zalgiris: Ambiguous team name "Kauno Zalgiris".
-Magdeburg v St. Pauli -> out/Magdeburg_v_St_Pauli.txt
-    !! Magdeburg: Ambiguous team name "Magdeburg".
-    !! St. Pauli: API-Football error: {"search": "The Search field may only contain alpha-numeric characters and spaces."}
-Bochum v Karlsruher SC -> out/Bochum_v_Karlsruher_SC.txt
-    !! Bochum: Ambiguous team name "Bochum".
-Heidenheim v Hannover 96 -> out/Heidenheim_v_Hannover_96.txt
-    !! Heidenheim: Ambiguous team name "Heidenheim".
-Club Brugge v Anderlecht -> out/Club_Brugge_v_Anderlecht.txt
-    !! Club Brugge: Ambiguous team name "Club Brugge".
-Requests used: API-Football 216, Matchbook 0
+RUN 2026-11-08 09:44 local | 4 match(es)
+Nyiregyhaza v id:2402 -> out/Nyiregyhaza_v_id_2402.txt
+id:18878 v id:3872 -> out/id_18878_v_id_3872.txt
+id:179 v St Pauli -> out/id_179_v_St_Pauli.txt
+    !! St Pauli: No team found for "St Pauli".
+id:176 v Karlsruher SC -> out/id_176_v_Karlsruher_SC.txt
+Requests used: API-Football 89, Matchbook 0
