@@ -1,5 +1,3 @@
-RUN 2026-11-08 08:58 local | 3 match(es)
-Heerenveen v Feyenoord -> out/Heerenveen_v_Feyenoord.txt
-Vitesse v De Graafschap -> out/Vitesse_v_De_Graafschap.txt
-Napoli v Lazio -> out/Napoli_v_Lazio.txt
-Requests used: API-Football 77, Matchbook 0
+RUN 2026-11-08 08:59 local | 1 match(es)
+id:200 v De Graafschap -> out/id_200_v_De_Graafschap.txt
+Requests used: API-Football 25, Matchbook 0
