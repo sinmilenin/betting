@@ -1,3 +1,9 @@
-RUN 2026-11-08 05:59 local | 1 match(es)
-Bali United v Persik Kediri -> out/Bali_United_v_Persik_Kediri.txt
-Requests used: API-Football 25, Matchbook 0
+RUN 2026-11-08 06:45 local | 6 match(es)
+Shanghai Shenhua v Qingdao West Coast -> out/Shanghai_Shenhua_v_Qingdao_West_Coast.txt
+    !! Qingdao West Coast: No team found for "Qingdao West Coast".
+JEF United Chiba v Mito Hollyhock -> out/JEF_United_Chiba_v_Mito_Hollyhock.txt
+Bucheon FC 1995 v Pohang Steelers -> out/Bucheon_FC_1995_v_Pohang_Steelers.txt
+Celtic v Kilmarnock -> out/Celtic_v_Kilmarnock.txt
+Le Havre v Lorient -> out/Le_Havre_v_Lorient.txt
+SC Freiburg v Union Berlin -> out/SC_Freiburg_v_Union_Berlin.txt
+Requests used: API-Football 142, Matchbook 0
