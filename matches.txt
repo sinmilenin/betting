@@ -1,2 +1,2 @@
-# scan 08.11 14:26 run 3: Ham-Kam
-Hamarkameratene v id:333 | n=20 | xg=10
+# scan 08.11 14:26 run 4: Ham Kam
+Ham Kam v id:333 | n=20 | xg=10
