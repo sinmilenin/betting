@@ -108,5 +108,38 @@
     "lay": 9.4,
     "stake": 3,
     "created": "2026-11-08T11:36:15+01:00"
+  },
+  {
+    "id": "2026-11-08_grosseto-pescara_0-1",
+    "date": "2026-11-08",
+    "ko": "12:30",
+    "match": "Grosseto v Pescara",
+    "comp": "Italy, Italian Serie C",
+    "cell": "0-1",
+    "lay": 14.5,
+    "stake": 3,
+    "created": "2026-11-08T12:20:01+01:00"
+  },
+  {
+    "id": "2026-11-08_sogndal-hodd_1-0",
+    "date": "2026-11-08",
+    "ko": "13:00",
+    "match": "Sogndal v Hodd",
+    "comp": "Norway, Norwegian 1st Division",
+    "cell": "1-0",
+    "lay": 14.5,
+    "stake": 3,
+    "created": "2026-11-08T12:20:01+01:00"
+  },
+  {
+    "id": "2026-11-08_entella-modena_2-2",
+    "date": "2026-11-08",
+    "ko": "15:00",
+    "match": "Entella v Modena",
+    "comp": "Italy, Italian Serie B",
+    "cell": "2-2",
+    "lay": 18.0,
+    "stake": 3,
+    "created": "2026-11-08T12:20:01+01:00"
   }
 ]
