@@ -1,6 +1,5 @@
-RUN 2026-11-08 17:15 local | 2 match(es)
-Vasas v Ferencvaros -> out/Vasas_v_Ferencvaros.txt
-    !! Ferencvaros: Ambiguous team name "Ferencvaros".
-Sint-Truiden v Zulte Waregem -> out/Sint_Truiden_v_Zulte_Waregem.txt
-    !! Sint-Truiden: API-Football error: {"search": "The Search field may only contain alpha-numeric characters and spaces."}
-Requests used: API-Football 29, Matchbook 0
+RUN 2026-11-08 17:16 local | 2 match(es)
+Vasas v id:651 -> out/Vasas_v_id_651.txt
+Sint Truiden v Zulte Waregem -> out/Sint_Truiden_v_Zulte_Waregem.txt
+    !! Sint Truiden: No team found for "Sint Truiden".
+Requests used: API-Football 40, Matchbook 0
