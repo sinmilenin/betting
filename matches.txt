@@ -1,13 +1,5 @@
-# scan 08.11 10:41 run 1
-Viimsi v Nomme Kalju II | n=20 | xg=10
-Torres v Latina | n=20 | xg=10
-Stabaek v Stromsgodset | n=20 | xg=10
-Liverpool W v Arsenal W | n=20 | xg=10
-Ratchaburi v Buriram United | n=20 | xg=10
-Stafford Rangers v Grimsby | n=20 | xg=10
-Nyiregyhaza v Gyor | n=20 | xg=10
-TransINVEST v Kauno Zalgiris | n=20 | xg=10
-Magdeburg v St. Pauli | n=20 | xg=10
-Bochum v Karlsruher SC | n=20 | xg=10
-Heidenheim v Hannover 96 | n=20 | xg=10
-Club Brugge v Anderlecht | n=20 | xg=10
+# scan 08.11 10:41 run 2 (ids for ambiguous names)
+Nyiregyhaza v id:2402 | n=20 | xg=10
+id:18878 v id:3872 | n=20 | xg=10
+id:179 v St Pauli | n=20 | xg=10
+id:176 v Karlsruher SC | n=20 | xg=10
