@@ -1,10 +1,5 @@
-RUN 2026-11-08 15:43 local | 4 match(es)
-Macara v Universidad Catolica -> out/Macara_v_Universidad_Catolica.txt
-Vojvodina v Crvena Zvezda -> out/Vojvodina_v_Crvena_Zvezda.txt
-    !! Crvena Zvezda: Ambiguous team name "Crvena Zvezda".
-Besiktas v Genclerbirligi -> out/Besiktas_v_Genclerbirligi.txt
-    !! Besiktas: Ambiguous team name "Besiktas".
-    !! Genclerbirligi: Ambiguous team name "Genclerbirligi".
-Vicenza v Cremonese -> out/Vicenza_v_Cremonese.txt
-    !! Vicenza: Ambiguous team name "Vicenza".
-Requests used: API-Football 58, Matchbook 0
+RUN 2026-11-08 15:44 local | 3 match(es)
+Vojvodina v id:598 -> out/Vojvodina_v_id_598.txt
+id:549 v id:997 -> out/id_549_v_id_997.txt
+id:1584 v Cremonese -> out/id_1584_v_Cremonese.txt
+Requests used: API-Football 77, Matchbook 0
