@@ -1,7 +1,4 @@
-RUN 2026-11-08 18:44 local | 3 match(es)
-Cerro Porteno v Deportivo Recoleta -> out/Cerro_Porteno_v_Deportivo_Recoleta.txt
-Jaguares de Cordoba v Atletico Bucaramanga -> out/Jaguares_de_Cordoba_v_Atletico_Bucaraman.txt
-    !! Jaguares de Cordoba: No team found for "Jaguares de Cordoba".
-Bolivar v The Strongest -> out/Bolivar_v_The_Strongest.txt
-    !! Bolivar: Ambiguous team name "Bolivar".
-Requests used: API-Football 55, Matchbook 0
+RUN 2026-11-08 18:44 local | 2 match(es)
+id:3702 v The Strongest -> out/id_3702_v_The_Strongest.txt
+Jaguares v Bucaramanga -> out/Jaguares_v_Bucaramanga.txt
+Requests used: API-Football 52, Matchbook 0
