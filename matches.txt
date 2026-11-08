@@ -1,2 +1,7 @@
-# scan 08.11 06:56
-Bali United v Persik Kediri | n=20 | xg=10
+# scan 08.11 07:45 (regular + top-20)
+Shanghai Shenhua v Qingdao West Coast | n=20 | xg=10
+JEF United Chiba v Mito Hollyhock | n=20 | xg=10
+Bucheon FC 1995 v Pohang Steelers | n=20 | xg=10
+Celtic v Kilmarnock | n=20 | xg=10
+Le Havre v Lorient | n=20 | xg=10
+SC Freiburg v Union Berlin | n=20 | xg=10
