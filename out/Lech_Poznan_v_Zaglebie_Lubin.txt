@@ -1,0 +1,123 @@
+MATCH Lech Poznan v Zaglebie Lubin | fetched 2026-11-08 16:31 local
+
+FORM DATA Lech Poznan v Zaglebie Lubin | source API-Football | 2026-11-08 16:31 UTC
+H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
+
+=== Lech Poznan (id 347): last 20 finished games ===
+2026-11-05 A 1-3 v Benfica | UEFA Europa League | Lisbon | xG 0.48-2.32
+2026-10-31 H 3-1 v Wisla Krakow | Ekstraklasa | Poznan | xG 2.31-1.62
+2026-10-28 A 0-1 v Siarka Tarnobrzeg | Cup | Tarnobrzeg
+2026-10-25 A 2-1 v Legia Warszawa | Ekstraklasa | Warsaw | xG 1.23-1.46
+2026-10-22 H 1-1 v Sunderland | UEFA Europa League | Poznan | xG 2.68-2.99
+2026-10-18 H 6-1 v Korona Kielce | Ekstraklasa | Poznan | xG 2.24-1.19
+2026-10-15 H 0-4 v Bayer Leverkusen | UEFA Europa League | Poznan | xG 0.57-5.22
+2026-10-10 A 4-1 v Slask Wroclaw | Ekstraklasa | Wroclaw | xG 2.04-0.84
+2026-10-03 H 2-2 v Energie Cottbus | Friendlies Clubs | ?
+2026-09-20 H 5-1 v Radomiak Radom | Ekstraklasa | Poznan | xG 3.98-0.98
+2026-09-17 A 0-4 v Crystal Palace | UEFA Europa League | London
+2026-09-12 A 1-2 v Gornik Zabrze | Ekstraklasa | Zabrze
+2026-09-06 H 1-0 v Raków Częstochowa | Ekstraklasa | Poznan
+2026-09-03 H 2-1 v Jagiellonia | Ekstraklasa | Poznan
+2026-08-30 A 3-2 v Widzew Łódź | Ekstraklasa | Lodz
+2026-08-27 A 2-2 v FC Thun | UEFA Europa League | Thun
+2026-08-20 H 7-0 v FC Thun | UEFA Europa League | Poznan
+2026-08-14 A 5-0 v KI Klaksvik | UEFA Europa League | Torshavn
+2026-08-09 H 3-0 v Piast Gliwice | Ekstraklasa | Poznan
+2026-08-06 H 1-0 v KI Klaksvik | UEFA Europa League | Poznan
+Listed home: 11 games, scored 31 (2.82), conceded 11 (1.00), blanks 1, clean sheets 4
+Listed away: 9 games, scored 18 (2.00), conceded 16 (1.78), blanks 2, clean sheets 1
+All: 20 games, scored 49 (2.45), conceded 27 (1.35), blanks 3, clean sheets 5
+
+=== Zaglebie Lubin (id 345): last 20 finished games ===
+2026-11-02 H 1-0 v Korona Kielce | Ekstraklasa | Lubin | xG 1.10-0.81
+2026-10-23 A 2-2 v Motor Lublin | Ekstraklasa | Lublin | xG 0.55-2.08
+2026-10-18 H 1-0 v Jagiellonia | Ekstraklasa | Lubin | xG 1.93-1.43
+2026-10-10 A 1-3 v Cracovia Krakow | Ekstraklasa | Krakow | xG 1.00-2.96
+2026-10-03 H 1-0 v Miedz Legnica | Friendlies Clubs | ?
+2026-09-20 H 0-2 v Wisla Plock | Ekstraklasa | Lubin | xG 1.06-1.17
+2026-09-15 A 3-2 v Raków Częstochowa | Ekstraklasa | Czestochowa | xG 1.38-2.17
+2026-09-12 H 2-1 v GKS Katowice | Ekstraklasa | Lubin | xG 2.62-1.30
+2026-09-07 A 1-1 v Wieczysta Kraków | Ekstraklasa | ? | xG 1.47-1.02
+2026-09-01 A 2-3 v Siarka Tarnobrzeg | Cup | ?
+2026-08-29 H 0-0 v Pogon Szczecin | Ekstraklasa | Lubin
+2026-08-23 A 0-0 v Radomiak Radom | Ekstraklasa | Radom
+2026-08-15 H 2-1 v Slask Wroclaw | Ekstraklasa | Lubin
+2026-08-02 A 1-3 v Legia Warszawa | Ekstraklasa | Warsaw
+2026-07-27 H 2-0 v Piast Gliwice | Ekstraklasa | Lubin
+2026-07-18 H 3-0 v Chrobry Głogów | Friendlies Clubs | ?
+2026-07-17 H 0-2 v Bohemians 1905 | Friendlies Clubs | ?
+2026-07-08 H 0-2 v Baník Ostrava | Friendlies Clubs | ?
+2026-07-04 H 2-0 v Pogon Szczecin | Friendlies Clubs | ?
+2026-07-01 H 3-2 v Podbrezová | Friendlies Clubs | ?
+Listed home: 13 games, scored 17 (1.31), conceded 10 (0.77), blanks 4, clean sheets 7
+Listed away: 7 games, scored 10 (1.43), conceded 14 (2.00), blanks 1, clean sheets 1
+All: 20 games, scored 27 (1.35), conceded 24 (1.20), blanks 5, clean sheets 8
+
+TABLE FOR Lech Poznan
+LEAGUE TABLE UEFA Europa League 2026 | 36 teams | 72 games played
+League averages per game: home 1.43, away 1.54, total 2.97
+#   team                   Pts | home P GF-GA  | away P GF-GA  | all P GF-GA
+1   Benfica                 12 |  2   7-2       |  2   6-1       |  4  13-3
+2   Bournemouth             12 |  2   6-0       |  2   5-2       |  4  11-2
+3   Ferencvarosi TC         12 |  2   6-2       |  2   5-1       |  4  11-3
+4   Union St. Gilloise      10 |  2   5-1       |  2   5-1       |  4  10-2
+5   Juventus                10 |  2   7-2       |  2   4-2       |  4  11-4
+6   Olympiakos Piraeus      10 |  2   3-1       |  2   1-0       |  4   4-1
+7   Bayer Leverkusen         9 |  2   2-1       |  2   6-0       |  4   8-1
+8   Beşiktaş                 7 |  2   6-3       |  2   5-5       |  4  11-8
+9   Dinamo Zagreb            7 |  2   3-4       |  2   2-0       |  4   5-4
+10  Levski Sofia             7 |  2   1-1       |  2   3-2       |  4   4-3
+11  Sunderland               7 |  2   1-2       |  2   3-2       |  4   4-4
+12  NEC Nijmegen             7 |  2   4-2       |  2   4-7       |  4   8-9
+13  Lyon                     7 |  1   3-2       |  3   3-5       |  4   6-7
+14  AZ Alkmaar               6 |  2   3-3       |  2   4-1       |  4   7-4
+15  Anderlecht               6 |  2   3-2       |  2   3-1       |  4   6-3
+16  OFI                      6 |  2   2-2       |  2   3-2       |  4   5-4
+17  Rennes                   6 |  2   2-1       |  2   2-2       |  4   4-3
+18  Omonia Nicosia           6 |  2   2-4       |  2   4-3       |  4   6-7
+19  Torreense                6 |  2   4-4       |  2   3-5       |  4   7-9
+20  Real Sociedad            5 |  2   2-3       |  2   7-1       |  4   9-4
+21  Crystal Palace           5 |  2   5-1       |  2   4-5       |  4   9-6
+22  Sparta Praha             4 |  2   2-4       |  2   4-2       |  4   6-6
+23  1899 Hoffenheim          4 |  2   5-3       |  2   1-3       |  4   6-6
+24  Sturm Graz               4 |  3   3-3       |  1   0-3       |  4   3-6
+25  Celje                    4 |  2   2-5       |  2   3-4       |  4   5-9
+26  Red Bull Salzburg        4 |  1   0-4       |  3   3-4       |  4   3-8
+27  Celta Vigo               3 |  2   2-4       |  2   2-2       |  4   4-6
+28  AC Milan                 3 |  2   0-4       |  2   4-3       |  4   4-7
+29  Jagiellonia              3 |  2   3-4       |  2   1-3       |  4   4-7
+30  Plzen                    3 |  2   1-5       |  2   2-2       |  4   3-7
+31  Marseille                3 |  1   0-1       |  3   2-5       |  4   2-6
+32  Celtic                   3 |  3   5-7       |  1   1-4       |  4   6-11
+33  Hapoel Beer Sheva        1 |  2   0-2       |  2   1-6       |  4   1-8
+34  Lillestrom               1 |  3   1-9       |  1   1-1       |  4   2-10
+35  Lech Poznan              1 |  2   1-5       |  2   1-7       |  4   2-12
+36  Ararat-Armenia           0 |  2   1-8       |  2   3-6       |  4   4-14
+
+TABLE FOR Zaglebie Lubin
+LEAGUE TABLE Ekstraklasa 2026 | 18 teams | 121 games played
+League averages per game: home 1.68, away 1.29, total 2.97
+#   team                   Pts | home P GF-GA  | away P GF-GA  | all P GF-GA
+1   Lech Poznan             31 |  7  20-4       |  5  12-7       | 12  32-11
+2   Gornik Zabrze           31 |  7  11-8       |  7  12-4       | 14  23-12
+3   Legia Warszawa          24 |  6  13-5       |  7  10-6       | 13  23-11
+4   Pogon Szczecin          24 |  7  14-8       |  6   6-7       | 13  20-15
+5   Wisla Krakow            24 |  7  14-5       |  7   8-14      | 14  22-19
+6   Piast Gliwice           22 |  7  17-12      |  7   7-8       | 14  24-20
+7   Zaglebie Lubin          22 |  7   8-4       |  6   8-11      | 13  16-15
+8   GKS Katowice            21 |  6  16-7       |  7   9-12      | 13  25-19
+9   Motor Lublin            19 |  8  12-13      |  6  10-11      | 14  22-24
+10  Jagiellonia             18 |  6   6-9       |  6  11-9       | 12  17-18
+11  Korona Kielce           18 |  7   7-9       |  7   7-12      | 14  14-21
+12  Wisla Plock             15 |  5   6-5       |  8   8-16      | 13  14-21
+13  Widzew Łódź             14 |  8  11-10      |  6   9-9       | 14  20-19
+14  Radomiak Radom          14 |  7  10-11      |  7   7-18      | 14  17-29
+15  Cracovia Krakow         12 |  7  10-10      |  7   6-13      | 14  16-23
+16  Slask Wroclaw           10 |  7   9-10      |  7   8-15      | 14  17-25
+17  Raków Częstochowa        9 |  7  12-18      |  6   7-11      | 13  19-29
+18  Wieczysta Kraków         8 |  5   7-8       |  9  11-20      | 14  18-28
+
+(25 API-Football requests used)
+
+----------------------------------------------------------------------
+MATCHBOOK: skipped (switched off for this run)

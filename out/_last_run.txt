@@ -1,5 +1,7 @@
-RUN 2026-11-08 15:44 local | 3 match(es)
-Vojvodina v id:598 -> out/Vojvodina_v_id_598.txt
-id:549 v id:997 -> out/id_549_v_id_997.txt
-id:1584 v Cremonese -> out/id_1584_v_Cremonese.txt
-Requests used: API-Football 77, Matchbook 0
+RUN 2026-11-08 16:31 local | 5 match(es)
+Cartagines v Escorpiones -> out/Cartagines_v_Escorpiones.txt
+Sporting CP B v Tondela -> out/Sporting_CP_B_v_Tondela.txt
+Fredrikstad v Brann -> out/Fredrikstad_v_Brann.txt
+Olympiakos Piraeus v PAOK -> out/Olympiakos_Piraeus_v_PAOK.txt
+Lech Poznan v Zaglebie Lubin -> out/Lech_Poznan_v_Zaglebie_Lubin.txt
+Requests used: API-Football 128, Matchbook 0

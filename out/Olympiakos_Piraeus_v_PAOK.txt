@@ -1,0 +1,119 @@
+MATCH Olympiakos Piraeus v PAOK | fetched 2026-11-08 16:31 local
+
+FORM DATA Olympiakos Piraeus v PAOK | source API-Football | 2026-11-08 16:31 UTC
+H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
+
+=== Olympiakos Piraeus (id 553): last 20 finished games ===
+2026-11-04 A 0-0 v Rennes | UEFA Europa League | Rennes | xG 1.03-0.61
+2026-10-31 A 3-2 v Kifisia | Super League 1 | Athens | xG 1.05-1.65
+2026-10-28 A 2-0 v Marko | Cup | ?
+2026-10-25 H 5-0 v Kalamata | Super League 1 | Piraeus | xG 0.00-0.00
+2026-10-22 H 1-0 v Sparta Praha | UEFA Europa League | Piraeus | xG 2.17-0.73
+2026-10-18 A 2-0 v Panetolikos | Super League 1 | Agrinon | xG 2.52-1.31
+2026-10-15 A 1-0 v Marseille | UEFA Europa League | Marseille | xG 0.63-0.90
+2026-10-11 H 1-0 v Panathinaikos | Super League 1 | Piraeus | xG 0.64-0.45
+2026-09-20 A 1-0 v Levadiakos | Super League 1 | Levadia | xG 1.17-0.37
+2026-09-16 H 2-1 v Jagiellonia | UEFA Europa League | Piraeus | xG 2.53-0.52
+2026-09-12 H 0-1 v OFI | Super League 1 | Piraeus
+2026-09-08 H 3-2 v Volos NFC | Cup | Piraeus
+2026-09-05 A 1-1 v Volos NFC | Super League 1 | Volos
+2026-09-02 A 4-0 v Larisa | Cup | Larissa
+2026-08-30 A 1-0 v Asteras Tripolis | Super League 1 | Tripoli
+2026-08-22 H 1-0 v Atromitos | Super League 1 | Piraeus
+2026-08-11 A 1-1 v NEC Nijmegen | UEFA Champions League | Nijmegen [AET, 90-min score shown]
+2026-08-04 H 0-0 v NEC Nijmegen | UEFA Champions League | Piraeus
+2026-07-25 A 2-3 v AZ Alkmaar | Friendlies Clubs | ?
+2026-07-24 A 0-3 v Antwerp | Friendlies Clubs | ?
+Listed home: 8 games, scored 13 (1.62), conceded 4 (0.50), blanks 2, clean sheets 5
+Listed away: 12 games, scored 18 (1.50), conceded 10 (0.83), blanks 2, clean sheets 7
+All: 20 games, scored 31 (1.55), conceded 14 (0.70), blanks 4, clean sheets 12
+
+=== PAOK (id 619): last 20 finished games ===
+2026-11-01 H 2-1 v Asteras Tripolis | Super League 1 | Thessaloniki | xG 2.09-0.83
+2026-10-28 H 3-1 v AEK Athens FC | Cup | Thessaloniki
+2026-10-25 A 1-2 v OFI | Super League 1 | Heraklion | xG 2.23-2.83
+2026-10-18 H 2-1 v Iraklis 1908 | Super League 1 | Thessaloniki | xG 2.10-0.84
+2026-10-12 H 1-3 v Kalamata | Super League 1 | Thessaloniki | xG 1.29-2.37
+2026-09-20 A 3-1 v Panetolikos | Super League 1 | Agrinio | xG 2.08-0.12
+2026-09-16 A 1-0 v Atromitos | Cup | Athens
+2026-09-13 H 2-0 v Aris Thessalonikis | Super League 1 | Thessaloniki | xG 2.39-1.24
+2026-09-06 A 1-3 v Panathinaikos | Super League 1 | Athens | xG 1.02-2.72
+2026-09-02 H 0-0 v OFI | Cup | Thessaloniki
+2026-08-30 A 2-1 v Atromitos | Super League 1 | Peristeri
+2026-08-27 A 2-3 v Brann | UEFA Europa Conference League | Bergen
+2026-08-23 H 4-0 v Levadiakos | Super League 1 | Thessaloniki
+2026-08-20 H 1-1 v Brann | UEFA Europa Conference League | Thessaloniki
+2026-08-13 A 2-3 v Anderlecht | UEFA Europa League | Anderlecht
+2026-08-06 H 0-1 v Anderlecht | UEFA Europa League | Thessaloniki
+2026-07-30 H 2-0 v Dynamo Kyiv | UEFA Europa League | Thessaloniki
+2026-07-23 A 3-2 v Dynamo Kyiv | UEFA Europa League | Kyiv
+2026-07-11 H 2-3 v Twente | Friendlies Clubs | ?
+2026-07-07 H 3-2 v AEK Larnaca | Friendlies Clubs | ?
+Listed home: 12 games, scored 22 (1.83), conceded 13 (1.08), blanks 2, clean sheets 4
+Listed away: 8 games, scored 15 (1.88), conceded 15 (1.88), blanks 0, clean sheets 1
+All: 20 games, scored 37 (1.85), conceded 28 (1.40), blanks 2, clean sheets 5
+
+TABLE FOR Olympiakos Piraeus
+LEAGUE TABLE UEFA Europa League 2026 | 36 teams | 72 games played
+League averages per game: home 1.43, away 1.54, total 2.97
+#   team                   Pts | home P GF-GA  | away P GF-GA  | all P GF-GA
+1   Benfica                 12 |  2   7-2       |  2   6-1       |  4  13-3
+2   Bournemouth             12 |  2   6-0       |  2   5-2       |  4  11-2
+3   Ferencvarosi TC         12 |  2   6-2       |  2   5-1       |  4  11-3
+4   Union St. Gilloise      10 |  2   5-1       |  2   5-1       |  4  10-2
+5   Juventus                10 |  2   7-2       |  2   4-2       |  4  11-4
+6   Olympiakos Piraeus      10 |  2   3-1       |  2   1-0       |  4   4-1
+7   Bayer Leverkusen         9 |  2   2-1       |  2   6-0       |  4   8-1
+8   Beşiktaş                 7 |  2   6-3       |  2   5-5       |  4  11-8
+9   Dinamo Zagreb            7 |  2   3-4       |  2   2-0       |  4   5-4
+10  Levski Sofia             7 |  2   1-1       |  2   3-2       |  4   4-3
+11  Sunderland               7 |  2   1-2       |  2   3-2       |  4   4-4
+12  NEC Nijmegen             7 |  2   4-2       |  2   4-7       |  4   8-9
+13  Lyon                     7 |  1   3-2       |  3   3-5       |  4   6-7
+14  AZ Alkmaar               6 |  2   3-3       |  2   4-1       |  4   7-4
+15  Anderlecht               6 |  2   3-2       |  2   3-1       |  4   6-3
+16  OFI                      6 |  2   2-2       |  2   3-2       |  4   5-4
+17  Rennes                   6 |  2   2-1       |  2   2-2       |  4   4-3
+18  Omonia Nicosia           6 |  2   2-4       |  2   4-3       |  4   6-7
+19  Torreense                6 |  2   4-4       |  2   3-5       |  4   7-9
+20  Real Sociedad            5 |  2   2-3       |  2   7-1       |  4   9-4
+21  Crystal Palace           5 |  2   5-1       |  2   4-5       |  4   9-6
+22  Sparta Praha             4 |  2   2-4       |  2   4-2       |  4   6-6
+23  1899 Hoffenheim          4 |  2   5-3       |  2   1-3       |  4   6-6
+24  Sturm Graz               4 |  3   3-3       |  1   0-3       |  4   3-6
+25  Celje                    4 |  2   2-5       |  2   3-4       |  4   5-9
+26  Red Bull Salzburg        4 |  1   0-4       |  3   3-4       |  4   3-8
+27  Celta Vigo               3 |  2   2-4       |  2   2-2       |  4   4-6
+28  AC Milan                 3 |  2   0-4       |  2   4-3       |  4   4-7
+29  Jagiellonia              3 |  2   3-4       |  2   1-3       |  4   4-7
+30  Plzen                    3 |  2   1-5       |  2   2-2       |  4   3-7
+31  Marseille                3 |  1   0-1       |  3   2-5       |  4   2-6
+32  Celtic                   3 |  3   5-7       |  1   1-4       |  4   6-11
+33  Hapoel Beer Sheva        1 |  2   0-2       |  2   1-6       |  4   1-8
+34  Lillestrom               1 |  3   1-9       |  1   1-1       |  4   2-10
+35  Lech Poznan              1 |  2   1-5       |  2   1-7       |  4   2-12
+36  Ararat-Armenia           0 |  2   1-8       |  2   3-6       |  4   4-14
+
+TABLE FOR PAOK
+LEAGUE TABLE Super League 1 2026 | 14 teams | 64 games played
+League averages per game: home 1.77, away 1.02, total 2.78
+#   team                   Pts | home P GF-GA  | away P GF-GA  | all P GF-GA
+1   Panathinaikos           24 |  5  16-3       |  4   4-1       |  9  20-4
+2   Olympiakos Piraeus      22 |  4   7-1       |  5   8-3       |  9  15-4
+3   Aris Thessalonikis      19 |  5  11-4       |  5   5-13      | 10  16-17
+4   PAOK                    18 |  5  11-5       |  4   7-7       |  9  18-12
+5   AEK Athens FC           17 |  4  17-0       |  4   4-5       |  8  21-5
+6   OFI                     16 |  4   8-3       |  5   6-9       |  9  14-12
+7   Kifisia                 14 |  5   6-6       |  5   9-9       | 10  15-15
+8   Kalamata                11 |  5  10-9       |  4   4-9       |  9  14-18
+9   Iraklis 1908            10 |  3   5-4       |  6   5-8       |  9  10-12
+10  Panetolikos              9 |  5   6-7       |  5   2-13      | 10   8-20
+11  Levadiakos               6 |  5   3-5       |  4   0-6       |  9   3-11
+12  Asteras Tripolis         6 |  5   3-5       |  4   5-12      |  9   8-17
+13  Atromitos                5 |  4   6-5       |  4   3-7       |  8   9-12
+14  Volos NFC                0 |  5   4-8       |  5   3-11      | 10   7-19
+
+(26 API-Football requests used)
+
+----------------------------------------------------------------------
+MATCHBOOK: skipped (switched off for this run)
