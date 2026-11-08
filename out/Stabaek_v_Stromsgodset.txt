@@ -1,0 +1,82 @@
+MATCH Stabaek v Stromsgodset | fetched 2026-11-08 09:43 local
+
+FORM DATA Stabaek v Stromsgodset | source API-Football | 2026-11-08 09:43 UTC
+H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
+
+=== Stabaek (id 323): last 20 finished games ===
+2026-11-02 A 2-1 v Kongsvinger | 1. Division | Kongsvinger
+2026-10-25 H 2-0 v ODD Ballklubb | 1. Division | Bekkestua
+2026-10-18 A 1-0 v Asane | 1. Division | Bergen
+2026-10-14 H 4-1 v Sandnes ULF | 1. Division | Bekkestua
+2026-10-11 H 2-2 v Strommen | 1. Division | Bekkestua
+2026-10-03 A 0-2 v Haugesund | 1. Division | Haugesund
+2026-09-20 H 2-1 v Sogndal | 1. Division | Bekkestua
+2026-09-16 A 1-1 v Pors Grenland | NM Cupen | ? [AET, 90-min score shown]
+2026-09-12 A 0-2 v Bryne | 1. Division | Bryne
+2026-09-05 H 2-3 v Moss | 1. Division | Bekkestua
+2026-08-30 A 1-2 v hodd | 1. Division | Ulsteinvik
+2026-08-26 H 4-2 v Ranheim | 1. Division | Bekkestua
+2026-08-22 A 2-0 v Heming | NM Cupen | ?
+2026-08-16 A 4-0 v Egersund | 1. Division | Egersund
+2026-08-08 H 4-3 v Lyn | 1. Division | Bekkestua
+2026-08-02 A 2-0 v Raufoss | 1. Division | Raufoss
+2026-07-27 H 6-0 v hodd | 1. Division | Bekkestua
+2026-07-03 A 5-2 v Ranheim | 1. Division | Trondheim
+2026-06-27 H 2-0 v Bryne | 1. Division | Bekkestua
+2026-06-21 A 0-1 v Strommen | 1. Division | ?
+Listed home: 9 games, scored 28 (3.11), conceded 12 (1.33), blanks 0, clean sheets 3
+Listed away: 11 games, scored 18 (1.64), conceded 11 (1.00), blanks 3, clean sheets 4
+All: 20 games, scored 46 (2.30), conceded 23 (1.15), blanks 3, clean sheets 7
+
+=== Stromsgodset (id 324): last 20 finished games ===
+2026-11-01 H 3-0 v Moss | 1. Division | Drammen
+2026-10-28 A 1-4 v Molde | NM Cupen | Molde
+2026-10-25 A 0-1 v Strommen | 1. Division | ?
+2026-10-18 H 5-0 v Haugesund | 1. Division | Drammen
+2026-10-14 H 5-1 v Kongsvinger | 1. Division | Drammen
+2026-10-11 A 5-1 v Lyn | 1. Division | Oslo
+2026-10-03 H 1-0 v Asane | 1. Division | Drammen
+2026-09-20 A 2-0 v Raufoss | 1. Division | Raufoss
+2026-09-13 H 4-1 v Sandnes ULF | 1. Division | Drammen
+2026-09-08 A 4-1 v Asker | NM Cupen | ?
+2026-09-05 A 1-1 v ODD Ballklubb | 1. Division | Skien
+2026-08-30 A 3-2 v Sogndal | 1. Division | Sogndal
+2026-08-26 H 3-1 v hodd | 1. Division | Drammen
+2026-08-23 A 6-0 v Modum FK | NM Cupen | ?
+2026-08-15 A 3-1 v Ranheim | 1. Division | Trondheim
+2026-08-09 H 0-2 v Egersund | 1. Division | Drammen
+2026-08-01 A 2-0 v Bryne | 1. Division | Bryne
+2026-07-25 H 1-1 v Lyn | 1. Division | Drammen
+2026-07-04 A 3-4 v hodd | 1. Division | Ulsteinvik
+2026-06-27 H 2-2 v ODD Ballklubb | 1. Division | Drammen
+Listed home: 9 games, scored 24 (2.67), conceded 8 (0.89), blanks 1, clean sheets 3
+Listed away: 11 games, scored 30 (2.73), conceded 15 (1.36), blanks 1, clean sheets 3
+All: 20 games, scored 54 (2.70), conceded 23 (1.15), blanks 2, clean sheets 6
+
+TABLE FOR Stabaek
+LEAGUE TABLE 1. Division 2026 | 16 teams | 232 games played
+League averages per game: home 2.16, away 1.64, total 3.81
+#   team                   Pts | home P GF-GA  | away P GF-GA  | all P GF-GA
+1   Haugesund               65 | 14  43-15      | 15  41-33      | 29  84-48
+2   Stromsgodset            63 | 15  44-14      | 14  35-20      | 29  79-34
+3   Kongsvinger             59 | 15  56-25      | 14  27-22      | 29  83-47
+4   Stabaek                 58 | 14  41-17      | 15  27-18      | 29  68-35
+5   ODD Ballklubb           46 | 15  32-19      | 14  25-27      | 29  57-46
+6   Bryne                   43 | 14  22-20      | 15  21-21      | 29  43-41
+7   Ranheim                 41 | 15  45-31      | 14  28-38      | 29  73-69
+8   Egersund                38 | 15  28-21      | 14  20-36      | 29  48-57
+9   hodd                    38 | 15  29-26      | 14  20-33      | 29  49-59
+10  Strommen                36 | 14  25-28      | 15  25-34      | 29  50-62
+11  Lyn                     34 | 15  26-35      | 14  20-24      | 29  46-59
+12  Sogndal                 30 | 14  28-23      | 15  20-40      | 29  48-63
+13  Sandnes ULF             30 | 14  22-23      | 15  20-35      | 29  42-58
+14  Moss                    29 | 14  18-29      | 15  23-33      | 29  41-62
+15  Asane                   26 | 15  26-30      | 14  15-35      | 29  41-65
+16  Raufoss                 20 | 14  17-25      | 15  14-53      | 29  31-78
+
+(Stromsgodset: same table as Stabaek, shown above)
+
+(25 API-Football requests used)
+
+----------------------------------------------------------------------
+MATCHBOOK: skipped (switched off for this run)

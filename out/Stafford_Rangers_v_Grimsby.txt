@@ -1,0 +1,115 @@
+MATCH Stafford Rangers v Grimsby | fetched 2026-11-08 09:43 local
+
+FORM DATA Stafford Rangers v Grimsby | source API-Football | 2026-11-08 09:43 UTC
+H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
+
+=== Stafford Rangers (id 7748): last 20 finished games ===
+2026-10-20 H 5-0 v Gateshead | FA Cup | Stafford
+2026-10-17 A 1-1 v Gateshead | FA Cup | Gateshead
+2026-10-06 A 2-1 v Halesowen Town | FA Cup | Halesowen
+2026-10-03 H 1-1 v Halesowen Town | FA Cup | ?
+2026-09-26 A 0-4 v Gloucester City | FA Trophy | ?
+2026-09-19 H 3-2 v Hereford | FA Cup | ?
+2026-09-12 A 3-0 v Kidsgrove Athletic | FA Trophy | ?
+2026-09-05 H 3-0 v Northampton ON Chenecks | FA Cup | ?
+2026-08-29 A 2-0 v Corby Town | FA Trophy | ?
+2026-07-14 H 0-0 v Shrewsbury | Friendlies Clubs | ?
+2026-04-25 A 0-2 v Vauxhall Motors | Non League Div One - Northern West | Ellesmere Port, Cheshire
+2026-04-18 H 2-1 v Clitheroe | Non League Div One - Northern West | Stafford, Staffordshire
+2026-04-11 H 1-0 v Lower Breck | Non League Div One - Northern West | Stafford, Staffordshire
+2026-04-06 A 0-0 v Chasetown | Non League Div One - Northern West | Burntwood, Staffordshire
+2026-04-04 H 2-1 v Wythenshawe Town | Non League Div One - Northern West | Stafford, Staffordshire
+2026-03-28 A 0-2 v Congleton Town | Non League Div One - Northern West | Congleton, Cheshire
+2026-03-21 A 1-2 v Trafford | Non League Div One - Northern West | Flixton, Greater Manchester
+2026-03-14 H 0-1 v Mossley | Non League Div One - Northern West | Stafford, Staffordshire
+2026-03-07 A 0-1 v Runcorn Linnets | Non League Div One - Northern West | Runcorn, Cheshire
+2026-02-28 H 0-0 v Sporting Khalsa | Non League Div One - Northern West | Stafford, Staffordshire
+Listed home: 10 games, scored 17 (1.70), conceded 6 (0.60), blanks 3, clean sheets 5
+Listed away: 10 games, scored 9 (0.90), conceded 13 (1.30), blanks 5, clean sheets 3
+All: 20 games, scored 26 (1.30), conceded 19 (0.95), blanks 8, clean sheets 8
+
+=== Grimsby (id 1365): last 20 finished games ===
+2026-10-31 H 5-2 v York | League Two | Grimsby | xG 2.88-0.39
+2026-10-24 A 4-1 v Gillingham | League Two | Gillingham | xG 2.94-0.57
+2026-10-20 A 2-2 v Rochdale | League Two | Rochdale
+2026-10-17 H 0-2 v Northampton | League Two | Cleethorpes | xG 2.24-2.28
+2026-10-10 A 0-1 v Port Vale | League Two | Stoke on Trent | xG 0.83-3.06
+2026-10-06 H 0-0 v Burton Albion | EFL Trophy | Grimsby [PEN, 90-min score shown]
+2026-10-03 H 1-2 v Shrewsbury | League Two | Cleethorpes | xG 2.05-1.18
+2026-09-26 A 1-2 v Newport County | League Two | Newport
+2026-09-22 A 1-2 v Notts County | EFL Trophy | Nottingham
+2026-09-19 H 2-0 v Crawley Town | League Two | Cleethorpes | xG 4.03-1.05
+2026-09-12 H 2-0 v Bristol Rovers | League Two | Cleethorpes
+2026-09-05 A 2-2 v Cheltenham | League Two | Cheltenham
+2026-09-01 A 2-2 v Accrington ST | League Two | Accrington
+2026-08-29 H 2-2 v Fleetwood Town | League Two | Cleethorpes
+2026-08-22 A 0-0 v Walsall | League Two | Walsall
+2026-08-15 H 1-0 v Exeter City | League Two | Cleethorpes
+2026-08-08 H 1-3 v Blackpool | League Cup | Cleethorpes
+2026-08-04 H 3-2 v Grimsby Borough | Friendlies Clubs | ?
+2026-08-01 H 2-0 v Wigan | Friendlies Clubs | ?
+2026-07-29 A 0-0 v Boston United | Friendlies Clubs | ?
+Listed home: 11 games, scored 19 (1.73), conceded 13 (1.18), blanks 2, clean sheets 5
+Listed away: 9 games, scored 12 (1.33), conceded 12 (1.33), blanks 3, clean sheets 2
+All: 20 games, scored 31 (1.55), conceded 25 (1.25), blanks 5, clean sheets 7
+
+TABLE FOR Stafford Rangers
+LEAGUE TABLE Non League Div One - Northern West 2025 | 22 teams | 462 games played
+League averages per game: home 1.71, away 1.39, total 3.10
+#   team                   Pts | home P GF-GA  | away P GF-GA  | all P GF-GA
+1   Bury                    90 | 21  48-17      | 21  38-19      | 42  86-36
+2   Avro                    88 | 21  53-20      | 21  41-21      | 42  94-41
+3   Stalybridge Celtic      82 | 21  47-27      | 21  41-28      | 42  88-55
+4   Runcorn Linnets         80 | 21  43-26      | 21  33-19      | 42  76-45
+5   Lower Breck             75 | 21  43-26      | 21  45-36      | 42  88-62
+6   Bootle                  74 | 21  32-25      | 21  37-23      | 42  69-48
+7   Vauxhall Motors         72 | 21  42-28      | 21  52-42      | 42  94-70
+8   Witton Albion           61 | 21  34-34      | 21  42-33      | 42  76-67
+9   Nantwich Town           61 | 21  44-39      | 21  25-26      | 42  69-65
+10  Chasetown               60 | 21  32-20      | 21  23-32      | 42  55-52
+11  Mossley                 59 | 21  33-24      | 21  26-29      | 42  59-53
+12  Shifnal Town FC         55 | 21  31-34      | 21  29-33      | 42  60-67
+13  Atherton Collieries     55 | 21  31-31      | 21  25-37      | 42  56-68
+14  Newcastle Town          52 | 21  26-29      | 21  19-33      | 42  45-62
+15  Clitheroe               51 | 21  42-32      | 21  22-35      | 42  64-67
+16  Kidsgrove Athletic      47 | 21  33-30      | 21  29-48      | 42  62-78
+17  Stafford Rangers        45 | 21  33-32      | 21  18-38      | 42  51-70
+18  Congleton Town          44 | 21  32-24      | 21  28-48      | 42  60-72
+19  Sporting Khalsa         43 | 21  41-35      | 21  16-46      | 42  57-81
+20  Wythenshawe Town        32 | 21  18-42      | 21  22-51      | 42  40-93
+21  Trafford                29 | 21  34-32      | 21  15-48      | 42  49-80
+22  Darlaston Town          27 | 21  18-34      | 21  15-65      | 42  33-99
+
+TABLE FOR Grimsby
+LEAGUE TABLE League Two 2026 | 24 teams | 164 games played
+League averages per game: home 1.58, away 1.10, total 2.68
+#   team                   Pts | home P GF-GA  | away P GF-GA  | all P GF-GA
+1   Salford City            31 |  7   9-4       |  7  16-11      | 14  25-15
+2   Barnet                  26 |  7  15-10      |  6  13-8       | 13  28-18
+3   Walsall                 22 |  6  10-6       |  7  11-6       | 13  21-12
+4   Crewe                   22 |  7  12-8       |  7   5-9       | 14  17-17
+5   Cheltenham              21 |  7  14-10      |  7   9-15      | 14  23-25
+6   Grimsby                 20 |  7  13-8       |  7  11-10      | 14  24-18
+7   York                    20 |  7  16-5       |  7   8-16      | 14  24-21
+8   Gillingham              20 |  7   8-9       |  7  12-10      | 14  20-19
+9   Accrington ST           19 |  7  13-8       |  7  10-9       | 14  23-17
+10  Chesterfield            19 |  7  16-9       |  7   8-12      | 14  24-21
+11  Tranmere                19 |  7  12-7       |  7   7-10      | 14  19-17
+12  Exeter City             19 |  7   8-2       |  7   3-7       | 14  11-9
+13  Swindon Town            19 |  7  12-7       |  7   3-10      | 14  15-17
+14  Newport County          18 |  7  14-6       |  7   6-11      | 14  20-17
+15  Shrewsbury              18 |  7   8-8       |  7   9-14      | 14  17-22
+16  Fleetwood Town          17 |  7  10-5       |  7   8-13      | 14  18-18
+17  Bristol Rovers          16 |  7  11-8       |  7   6-15      | 14  17-23
+18  Oldham                  15 |  7  11-8       |  7   4-11      | 14  15-19
+19  Port Vale               15 |  6   8-3       |  6   2-11      | 12  10-14
+20  Rochdale                15 |  7  10-13      |  7   7-13      | 14  17-26
+21  Northampton             14 |  7   4-4       |  6   5-6       | 13   9-10
+22  Rotherham               12 |  7  13-15      |  7   5-10      | 14  18-25
+23  Colchester              12 |  6   6-6       |  7   6-13      | 13  12-19
+24  Crawley Town             9 |  6   6-12      |  6   7-9       | 12  13-21
+
+(28 API-Football requests used)
+
+----------------------------------------------------------------------
+MATCHBOOK: skipped (switched off for this run)

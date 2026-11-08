@@ -1,0 +1,19 @@
+MATCH TransINVEST v Kauno Zalgiris | fetched 2026-11-08 09:43 local
+
+FORM DATA TransINVEST v Kauno Zalgiris | source API-Football | 2026-11-08 09:43 UTC
+H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
+
+"TransINVEST" matches several teams. Use id:<number> instead of the name:
+  id:18878  TransINVEST Vilnius (Lithuania)
+  id:27557  Transinvest 2 (Lithuania)
+"Kauno Zalgiris" matches several teams. Use id:<number> instead of the name:
+  id:3872   Kauno Žalgiris (Lithuania)
+  id:13971  Kauno Žalgiris II (Lithuania)
+!! TransINVEST: Ambiguous team name "TransINVEST".
+
+!! Kauno Zalgiris: Ambiguous team name "Kauno Zalgiris".
+
+(2 API-Football requests used)
+
+----------------------------------------------------------------------
+MATCHBOOK: skipped (switched off for this run)
