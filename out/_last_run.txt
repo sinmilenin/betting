@@ -1,5 +1,5 @@
-RUN 2026-11-08 11:15 local | 3 match(es)
-WSG Wattens v Austria Vienna -> out/WSG_Wattens_v_Austria_Vienna.txt
-TSV Hartberg v SCR Altach -> out/TSV_Hartberg_v_SCR_Altach.txt
-Virtus Entella v Modena -> out/Virtus_Entella_v_Modena.txt
-Requests used: API-Football 74, Matchbook 0
+RUN 2026-11-08 11:59 local | 3 match(es)
+JS El Biar v MC Alger -> out/JS_El_Biar_v_MC_Alger.txt
+Catania v Sorrento -> out/Catania_v_Sorrento.txt
+Union Berlin W v Hoffenheim W -> out/Union_Berlin_W_v_Hoffenheim_W.txt
+Requests used: API-Football 77, Matchbook 0
