@@ -1,7 +1,6 @@
-RUN 2026-11-08 16:31 local | 5 match(es)
-Cartagines v Escorpiones -> out/Cartagines_v_Escorpiones.txt
-Sporting CP B v Tondela -> out/Sporting_CP_B_v_Tondela.txt
-Fredrikstad v Brann -> out/Fredrikstad_v_Brann.txt
-Olympiakos Piraeus v PAOK -> out/Olympiakos_Piraeus_v_PAOK.txt
-Lech Poznan v Zaglebie Lubin -> out/Lech_Poznan_v_Zaglebie_Lubin.txt
-Requests used: API-Football 128, Matchbook 0
+RUN 2026-11-08 17:15 local | 2 match(es)
+Vasas v Ferencvaros -> out/Vasas_v_Ferencvaros.txt
+    !! Ferencvaros: Ambiguous team name "Ferencvaros".
+Sint-Truiden v Zulte Waregem -> out/Sint_Truiden_v_Zulte_Waregem.txt
+    !! Sint-Truiden: API-Football error: {"search": "The Search field may only contain alpha-numeric characters and spaces."}
+Requests used: API-Football 29, Matchbook 0
