@@ -1,21 +1,11 @@
-RUN 2026-11-08 12:48 local | 10 match(es)
-FC Sabah v Shamakhi -> out/FC_Sabah_v_Shamakhi.txt
-    !! FC Sabah: No team found for "FC Sabah".
-    !! Shamakhi: No team found for "Shamakhi".
-Randers v Nordsjaelland -> out/Randers_v_Nordsjaelland.txt
-    !! Randers: Ambiguous team name "Randers".
-Asteras Tripolis v Kalamata -> out/Asteras_Tripolis_v_Kalamata.txt
-AEK Athens v Levadiakos -> out/AEK_Athens_v_Levadiakos.txt
-    !! AEK Athens: Ambiguous team name "AEK Athens".
-Derry City v Waterford -> out/Derry_City_v_Waterford.txt
-Servette v FC Zurich -> out/Servette_v_FC_Zurich.txt
-    !! Servette: Ambiguous team name "Servette".
-Ajman v Bani Yas -> out/Ajman_v_Bani_Yas.txt
-Alanyaspor v Trabzonspor -> out/Alanyaspor_v_Trabzonspor.txt
-AIK v Hacken -> out/AIK_v_Hacken.txt
-    !! AIK: Ambiguous team name "AIK".
-    !! Hacken: Ambiguous team name "Hacken".
-Thun v Basel -> out/Thun_v_Basel.txt
-    !! Thun: Ambiguous team name "Thun".
-    !! Basel: Ambiguous team name "Basel".
-Requests used: API-Football 153, Matchbook 0
+RUN 2026-11-08 12:49 local | 7 match(es)
+id:401 v Nordsjaelland -> out/id_401_v_Nordsjaelland.txt
+id:575 v Levadiakos -> out/id_575_v_Levadiakos.txt
+id:2184 v FC Zurich -> out/id_2184_v_FC_Zurich.txt
+Ajman v Baniyas -> out/Ajman_v_Baniyas.txt
+id:377 v id:367 -> out/id_377_v_id_367.txt
+id:1012 v id:551 -> out/id_1012_v_id_551.txt
+Sabah v Shamakhi FK -> out/Sabah_v_Shamakhi_FK.txt
+    !! Sabah: Ambiguous team name "Sabah".
+    !! Shamakhi FK: No team found for "Shamakhi FK".
+Requests used: API-Football 156, Matchbook 0

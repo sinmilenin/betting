@@ -1,12 +1,33 @@
-MATCH Servette v FC Zurich | fetched 2026-11-08 12:48 local
+MATCH id:2184 v FC Zurich | fetched 2026-11-08 12:49 local
 
-FORM DATA Servette v FC Zurich | source API-Football | 2026-11-08 12:48 UTC
+FORM DATA id:2184 v FC Zurich | source API-Football | 2026-11-08 12:49 UTC
 H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
 
-"Servette" matches several teams. Use id:<number> instead of the name:
-  id:2184   Servette FC (Switzerland)
-  id:15548  Servette Chênois W (Switzerland)
-  id:16323  Servette II (Switzerland)
+=== Servette FC (id 2184): last 20 finished games ===
+2026-10-31 A 1-2 v FC ST. Gallen | Super League | St.Gallen | xG 1.17-1.86
+2026-10-24 H 2-1 v FC Vaduz | Super League | Geneva | xG 2.12-0.28
+2026-10-16 A 4-0 v Rotkreuz | Schweizer Cup | Rotkreuz
+2026-10-10 H 3-0 v FC Sion | Super League | Geneva | xG 1.46-1.07
+2026-10-02 A 1-2 v Annecy | Friendlies Clubs | ?
+2026-09-19 A 2-3 v BSC Young Boys | Super League | Bern | xG 0.54-2.35
+2026-09-16 A 4-2 v FC Thun | Super League | Thun | xG 1.52-2.05
+2026-09-13 A 1-0 v Lausanne | Super League | Lausanne | xG 1.49-1.42
+2026-09-06 H 0-2 v FC ST. Gallen | Super League | Geneva | xG 0.90-1.37
+2026-09-03 A 0-1 v FC Lugano | Super League | Lugano | xG 1.81-1.29
+2026-08-29 H 1-1 v FC Luzern | Super League | Geneva
+2026-08-15 A 7-0 v Bavois | Schweizer Cup | ?
+2026-08-08 H 2-1 v Grasshoppers | Super League | Geneva
+2026-08-01 A 1-2 v FC Zurich | Super League | Zurich
+2026-07-25 H 0-1 v FC Basel 1893 | Super League | Geneva
+2026-07-18 H 1-0 v Saint Etienne | Friendlies Clubs | ?
+2026-07-15 A 1-2 v Lyon | Friendlies Clubs | ?
+2026-07-11 H 1-2 v Étoile Carouge | Friendlies Clubs | ?
+2026-07-08 H 2-0 v Stade Lausanne-Ouchy | Friendlies Clubs | ?
+2026-07-04 H 1-1 v Stade Nyonnais | Friendlies Clubs | ?
+Listed home: 10 games, scored 13 (1.30), conceded 9 (0.90), blanks 2, clean sheets 3
+Listed away: 10 games, scored 22 (2.20), conceded 14 (1.40), blanks 1, clean sheets 3
+All: 20 games, scored 35 (1.75), conceded 23 (1.15), blanks 3, clean sheets 6
+
 === FC Zurich (id 783): last 20 finished games ===
 2026-11-01 A 5-3 v BSC Young Boys | Super League | Zurich | xG 2.79-2.10
 2026-10-24 H 2-1 v FC Luzern | Super League | Zurich | xG 1.79-2.85
@@ -32,14 +53,7 @@ Listed home: 11 games, scored 22 (2.00), conceded 22 (2.00), blanks 0, clean she
 Listed away: 9 games, scored 20 (2.22), conceded 22 (2.44), blanks 2, clean sheets 0
 All: 20 games, scored 42 (2.10), conceded 44 (2.20), blanks 2, clean sheets 0
 
-(retrying Servette using the opponent's country, Switzerland)
-"Servette" matches several teams. Use id:<number> instead of the name:
-  id:2184   Servette FC (Switzerland)
-  id:15548  Servette Chênois W (Switzerland)
-  id:16323  Servette II (Switzerland)
-!! Servette: Ambiguous team name "Servette".
-
-TABLE FOR FC Zurich
+TABLE FOR Servette FC
 LEAGUE TABLE Super League 2026 | 12 teams | 75 games played
 League averages per game: home 1.91, away 1.85, total 3.76
 #   team                   Pts | home P GF-GA  | away P GF-GA  | all P GF-GA
@@ -56,7 +70,9 @@ League averages per game: home 1.91, away 1.85, total 3.76
 11  FC Vaduz                10 |  6  14-12      |  7  10-17      | 13  24-29
 12  Lausanne                 7 |  6   9-16      |  7   3-7       | 13  12-23
 
-(15 API-Football requests used)
+(FC Zurich: same table as Servette FC, shown above)
+
+(25 API-Football requests used)
 
 ----------------------------------------------------------------------
 MATCHBOOK: skipped (switched off for this run)
