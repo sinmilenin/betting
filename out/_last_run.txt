@@ -1,11 +1,4 @@
-RUN 2026-11-08 12:49 local | 7 match(es)
-id:401 v Nordsjaelland -> out/id_401_v_Nordsjaelland.txt
-id:575 v Levadiakos -> out/id_575_v_Levadiakos.txt
-id:2184 v FC Zurich -> out/id_2184_v_FC_Zurich.txt
-Ajman v Baniyas -> out/Ajman_v_Baniyas.txt
-id:377 v id:367 -> out/id_377_v_id_367.txt
-id:1012 v id:551 -> out/id_1012_v_id_551.txt
-Sabah v Shamakhi FK -> out/Sabah_v_Shamakhi_FK.txt
-    !! Sabah: Ambiguous team name "Sabah".
-    !! Shamakhi FK: No team found for "Shamakhi FK".
-Requests used: API-Football 156, Matchbook 0
+RUN 2026-11-08 12:50 local | 1 match(es)
+id:13976 v Keshla -> out/id_13976_v_Keshla.txt
+    !! Keshla: No team found for "Keshla".
+Requests used: API-Football 14, Matchbook 0
