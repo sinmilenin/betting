@@ -1,7 +1,5 @@
-RUN 2026-11-08 08:11 local | 3 match(es)
-Rizespor v Erzurumspor -> out/Rizespor_v_Erzurumspor.txt
-    !! Erzurumspor: Ambiguous team name "Erzurumspor".
-Riga FC v RFS -> out/Riga_FC_v_RFS.txt
-    !! RFS: Ambiguous team name "RFS".
-FC Copenhagen v Brondby -> out/FC_Copenhagen_v_Brondby.txt
-Requests used: API-Football 45, Matchbook 0
+RUN 2026-11-08 08:14 local | 2 match(es)
+Rizespor v id:1009 -> out/Rizespor_v_id_1009.txt
+Riga v Rigas FS -> out/Riga_v_Rigas_FS.txt
+    !! Rigas FS: Ambiguous team name "Rigas FS".
+Requests used: API-Football 40, Matchbook 0
