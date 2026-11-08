@@ -1,3 +1,2 @@
-# scan 08.11 18:12 run 2: team fixes
-Vasas v id:651 | n=20 | xg=10
-Sint Truiden v Zulte Waregem | n=20 | xg=10
+# scan 08.11 18:12 run 3: Sint-Truiden name
+St Truiden v Zulte Waregem | n=20 | xg=10
