@@ -1,11 +1,8 @@
-# scan 08.11 13:41 run 1
-FC Sabah v Shamakhi | n=20 | xg=10
-Randers v Nordsjaelland | n=20 | xg=10
-Asteras Tripolis v Kalamata | n=20 | xg=10
-AEK Athens v Levadiakos | n=20 | xg=10
-Derry City v Waterford | n=20 | xg=10
-Servette v FC Zurich | n=20 | xg=10
-Ajman v Bani Yas | n=20 | xg=10
-Alanyaspor v Trabzonspor | n=20 | xg=10
-AIK v Hacken | n=20 | xg=10
-Thun v Basel | n=20 | xg=10
+# scan 08.11 13:41 run 2: ids
+id:401 v Nordsjaelland | n=20 | xg=10
+id:575 v Levadiakos | n=20 | xg=10
+id:2184 v FC Zurich | n=20 | xg=10
+Ajman v Baniyas | n=20 | xg=10
+id:377 v id:367 | n=20 | xg=10
+id:1012 v id:551 | n=20 | xg=10
+Sabah v Shamakhi FK | n=20 | xg=10
