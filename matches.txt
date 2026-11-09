@@ -1,2 +1,7 @@
-# scan 09.11 20:27 (Picerno v Bari, 2-2 market candidate)
-Picerno v Bari | n=20 | xg=10
+# settle 09.11 21:00 (results check, manual)
+Vitesse v De Graafschap | n=2 | xg=0
+FC Koln W v RB Leipzig W | n=2 | xg=0
+Al Ain U23 v Al Wahda U23 | n=2 | xg=0
+Atletico Madrid W v Badalona W | n=2 | xg=0
+Mushuc Runa v Delfin | n=2 | xg=0
+Deportes Tolima v Millonarios FC | n=2 | xg=0
