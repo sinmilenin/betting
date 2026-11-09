@@ -1,0 +1,21 @@
+MATCH Tolima v Millonarios | fetched 2026-11-09 09:48 local
+
+FORM DATA Tolima v Millonarios | source API-Football | 2026-11-09 09:48 UTC
+H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
+
+"Tolima" matches several teams. Use id:<number> instead of the name:
+  id:1142   Deportes Tolima (Colombia)
+  id:18430  Deportes Tolima W (Colombia)
+"Millonarios" matches several teams. Use id:<number> instead of the name:
+  id:1125   Millonarios (Colombia)
+  id:11057  Millonarios U20 (Colombia)
+  id:15729  Millonarios W (Colombia)
+  id:25012  Millonarios (Bolivia)
+!! Tolima: Ambiguous team name "Tolima".
+
+!! Millonarios: Ambiguous team name "Millonarios".
+
+(2 API-Football requests used)
+
+----------------------------------------------------------------------
+MATCHBOOK: skipped (switched off for this run)

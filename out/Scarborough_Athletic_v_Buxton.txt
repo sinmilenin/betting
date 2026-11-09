@@ -1,0 +1,54 @@
+MATCH Scarborough Athletic v Buxton | fetched 2026-11-09 09:48 local
+
+FORM DATA Scarborough Athletic v Buxton | source API-Football | 2026-11-09 09:48 UTC
+H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
+
+=== Scarborough Athletic (id 7745): last 2 finished games ===
+2026-11-07 H 2-2 v Buxton | National League - North | ?
+2026-10-31 A 0-2 v Morecambe | National League - North | Morecambe
+Listed home: 1 games, scored 2 (2.00), conceded 2 (2.00), blanks 0, clean sheets 0
+Listed away: 1 games, scored 0 (0.00), conceded 2 (2.00), blanks 1, clean sheets 0
+All: 2 games, scored 2 (1.00), conceded 4 (2.00), blanks 1, clean sheets 0
+
+=== Buxton (id 7706): last 2 finished games ===
+2026-11-07 A 2-2 v Scarborough Athletic | National League - North | ?
+2026-10-31 H 4-2 v Marine | National League - North | ?
+Listed home: 1 games, scored 4 (4.00), conceded 2 (2.00), blanks 0, clean sheets 0
+Listed away: 1 games, scored 2 (2.00), conceded 2 (2.00), blanks 0, clean sheets 0
+All: 2 games, scored 6 (3.00), conceded 4 (2.00), blanks 0, clean sheets 0
+
+TABLE FOR Scarborough Athletic
+LEAGUE TABLE National League - North 2026 | 24 teams | 180 games played
+League averages per game: home 1.64, away 1.19, total 2.83
+#   team                   Pts | home P GF-GA  | away P GF-GA  | all P GF-GA
+1   South Shields           32 |  7  18-6       |  8  12-14      | 15  30-20
+2   Hereford                29 |  8  13-7       |  7  13-5       | 15  26-12
+3   Oxford City             27 |  7  13-8       |  7  13-3       | 14  26-11
+4   Macclesfield            27 |  7  13-7       |  6   8-4       | 13  21-11
+5   Hednesford Town         27 |  8  22-13      |  8   8-9       | 16  30-22
+6   King's Lynn Town        27 |  8  12-9       |  8  15-12      | 16  27-21
+7   Buxton                  27 |  8  22-9       |  8  10-18      | 16  32-27
+8   Chester                 26 |  8  10-5       |  7   8-9       | 15  18-14
+9   Morecambe               23 |  7  13-3       |  8  10-15      | 15  23-18
+10  Bedford Town            22 |  7  10-9       |  7   7-10      | 14  17-19
+11  AFC Telford United      22 |  8   9-13      |  8   9-9       | 16  18-22
+12  Spalding United         21 |  7  12-7       |  8   8-10      | 15  20-17
+13  Chorley                 20 |  8  17-14      |  7   7-11      | 15  24-25
+14  Worksop Town            20 |  8  12-9       |  7   8-12      | 15  20-21
+15  Hebburn Town            20 |  8  12-11      |  7   8-17      | 15  20-28
+16  Merthyr Town            19 |  8  14-11      |  8   8-12      | 16  22-23
+17  Brackley Town           19 |  8   8-9       |  8  10-18      | 16  18-27
+18  Harborough Town         17 |  7   9-7       |  7   4-10      | 14  13-17
+19  Scarborough Athletic    16 |  7  11-7       |  8  10-15      | 15  21-22
+20  Marine                  16 |  7   6-6       |  7  11-13      | 14  17-19
+21  Radcliffe               16 |  8  14-15      |  7   5-12      | 15  19-27
+22  Darlington 1883         11 |  7   7-9       |  8  12-19      | 15  19-28
+23  Southport               10 |  7  10-10      |  8   5-20      | 15  15-30
+24  Spennymoor Town         10 |  7   8-11      |  8   6-18      | 15  14-29
+
+(Buxton: same table as Scarborough Athletic, shown above)
+
+(5 API-Football requests used)
+
+----------------------------------------------------------------------
+MATCHBOOK: skipped (switched off for this run)

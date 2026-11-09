@@ -1,0 +1,46 @@
+MATCH Union La Calera v Huachipato | fetched 2026-11-09 09:48 local
+
+FORM DATA Union La Calera v Huachipato | source API-Football | 2026-11-09 09:48 UTC
+H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
+
+=== Union La Calera (id 2326): last 2 finished games ===
+2026-11-08 H 1-0 v Huachipato | Primera División | La Calera
+2026-11-04 H 0-2 v Coquimbo Unido | Copa Chile | La Calera
+Listed home: 2 games, scored 1 (0.50), conceded 2 (1.00), blanks 1, clean sheets 1
+Listed away: no games
+All: 2 games, scored 1 (0.50), conceded 2 (1.00), blanks 1, clean sheets 1
+
+=== Huachipato (id 2328): last 2 finished games ===
+2026-11-08 A 0-1 v Union La Calera | Primera División | La Calera
+2026-11-01 H 0-0 v D. La Serena | Primera División | Talcahuano
+Listed home: 1 games, scored 0 (0.00), conceded 0 (0.00), blanks 1, clean sheets 1
+Listed away: 1 games, scored 0 (0.00), conceded 1 (1.00), blanks 1, clean sheets 0
+All: 2 games, scored 0 (0.00), conceded 1 (0.50), blanks 2, clean sheets 1
+
+TABLE FOR Union La Calera
+LEAGUE TABLE Primera División 2026 | 16 teams | 215 games played
+League averages per game: home 1.67, away 1.18, total 2.84
+#   team                   Pts | home P GF-GA  | away P GF-GA  | all P GF-GA
+1   Colo Colo               61 | 13  34-11      | 14  25-19      | 27  59-30
+2   Universidad de Chile    51 | 14  33-11      | 13  14-11      | 27  47-22
+3   U. Catolica             49 | 14  34-17      | 13  22-20      | 27  56-37
+4   Deportes Limache        40 | 13  27-15      | 14  21-25      | 27  48-40
+5   Everton de Vina         40 | 14  19-18      | 13  24-17      | 27  43-35
+6   Coquimbo Unido          38 | 12  19-11      | 14  20-24      | 26  39-35
+7   Palestino               38 | 13  27-14      | 14  12-24      | 27  39-38
+8   Concepción              38 | 14  18-14      | 13  12-16      | 27  30-30
+9   D. La Serena            37 | 14  23-19      | 13  17-23      | 27  40-42
+10  Nublense                35 | 14  18-19      | 13  13-22      | 27  31-41
+11  Huachipato              33 | 13  23-22      | 13  11-19      | 26  34-41
+12  O'Higgins               31 | 13  13-15      | 14  19-27      | 27  32-42
+13  A. Italiano             30 | 14  20-15      | 13   8-21      | 27  28-36
+14  Cobresal                27 | 13  21-19      | 14  18-31      | 27  39-50
+15  Universidad de Concepc  26 | 13  11-15      | 14  11-34      | 27  22-49
+16  Union La Calera         24 | 14  18-18      | 13   6-25      | 27  24-43
+
+(Huachipato: same table as Union La Calera, shown above)
+
+(5 API-Football requests used)
+
+----------------------------------------------------------------------
+MATCHBOOK: skipped (switched off for this run)

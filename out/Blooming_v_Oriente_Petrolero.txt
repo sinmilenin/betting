@@ -1,0 +1,46 @@
+MATCH Blooming v Oriente Petrolero | fetched 2026-11-09 09:48 local
+
+FORM DATA Blooming v Oriente Petrolero | source API-Football | 2026-11-09 09:48 UTC
+H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
+
+=== Blooming (id 3701): last 2 finished games ===
+2026-11-08 H 0-1 v Oriente Petrolero | Primera División | Santa Cruz de la Sierra
+2026-11-02 A 2-1 v Real Tomayapo | Primera División | Tarija
+Listed home: 1 games, scored 0 (0.00), conceded 1 (1.00), blanks 1, clean sheets 0
+Listed away: 1 games, scored 2 (2.00), conceded 1 (1.00), blanks 0, clean sheets 0
+All: 2 games, scored 2 (1.00), conceded 2 (1.00), blanks 1, clean sheets 0
+
+=== Oriente Petrolero (id 3707): last 2 finished games ===
+2026-11-08 A 1-0 v Blooming | Primera División | Santa Cruz de la Sierra
+2026-11-04 A 1-5 v Nacional Potosí | Copa de la División Profesional | ?
+Listed home: no games
+Listed away: 2 games, scored 2 (1.00), conceded 5 (2.50), blanks 0, clean sheets 1
+All: 2 games, scored 2 (1.00), conceded 5 (2.50), blanks 0, clean sheets 1
+
+TABLE FOR Blooming
+LEAGUE TABLE Primera División 2026 | 16 teams | 199 games played
+League averages per game: home 1.82, away 1.22, total 3.04
+#   team                   Pts | home P GF-GA  | away P GF-GA  | all P GF-GA
+1   Bolívar                 60 | 13  37-12      | 12  24-12      | 25  61-24
+2   Always Ready            57 | 13  35-9       | 12  26-10      | 25  61-19
+3   The Strongest           48 | 12  29-15      | 13  17-14      | 25  46-29
+4   Oriente Petrolero       41 | 12  24-9       | 13  18-21      | 25  42-30
+5   Real Potosí             40 | 12  19-7       | 13  13-11      | 25  32-18
+6   Aurora                  35 | 11  22-15      | 13  13-16      | 24  35-31
+7   Nacional Potosí         33 | 13  22-16      | 12  15-17      | 25  37-33
+8   Guabirá                 33 | 13  30-14      | 12  10-36      | 25  40-50
+9   Blooming                31 | 13  21-7       | 12  12-20      | 25  33-27
+10  Real Oruro              31 | 12  19-26      | 13  22-32      | 25  41-58
+11  Independiente Petroler  30 | 13  17-22      | 12  15-20      | 25  32-42
+12  San Antonio Bulo Bulo   27 | 12  15-15      | 13  13-35      | 25  28-50
+13  Real Tomayapo           23 | 12  10-14      | 13   9-28      | 25  19-42
+14  Universitario de Vinto  21 | 13  21-21      | 11  10-27      | 24  31-48
+15  Gualberto Villarroel S  20 | 13  20-22      | 12  10-25      | 25  30-47
+16  ABB                     20 | 12  21-19      | 13  16-38      | 25  37-57
+
+(Oriente Petrolero: same table as Blooming, shown above)
+
+(4 API-Football requests used)
+
+----------------------------------------------------------------------
+MATCHBOOK: skipped (switched off for this run)

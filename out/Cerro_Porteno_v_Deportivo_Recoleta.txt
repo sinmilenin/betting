@@ -1,0 +1,42 @@
+MATCH Cerro Porteno v Deportivo Recoleta | fetched 2026-11-09 09:48 local
+
+FORM DATA Cerro Porteno v Deportivo Recoleta | source API-Football | 2026-11-09 09:48 UTC
+H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
+
+=== Cerro Porteno (id 1176): last 2 finished games ===
+2026-11-08 H 1-1 v Deportivo Recoleta | Division Profesional - Clausura | Asunción
+2026-11-04 A 1-0 v Libertad Asuncion | Division Profesional - Clausura | Asunción
+Listed home: 1 games, scored 1 (1.00), conceded 1 (1.00), blanks 0, clean sheets 0
+Listed away: 1 games, scored 1 (1.00), conceded 0 (0.00), blanks 0, clean sheets 1
+All: 2 games, scored 2 (1.00), conceded 1 (0.50), blanks 0, clean sheets 1
+
+=== Deportivo Recoleta (id 10476): last 2 finished games ===
+2026-11-08 A 1-1 v Cerro Porteno | Division Profesional - Clausura | Asunción
+2026-11-05 A 1-4 v Olimpia | Division Profesional - Clausura | Asunción
+Listed home: no games
+Listed away: 2 games, scored 2 (1.00), conceded 5 (2.50), blanks 0, clean sheets 0
+All: 2 games, scored 2 (1.00), conceded 5 (2.50), blanks 0, clean sheets 0
+
+TABLE FOR Cerro Porteno
+LEAGUE TABLE Division Profesional - Clausura 2026 | 12 teams | 111 games played
+League averages per game: home 1.25, away 1.23, total 2.49
+#   team                   Pts | home P GF-GA  | away P GF-GA  | all P GF-GA
+1   Olimpia                 42 |  9  21-6       | 10  16-8       | 19  37-14
+2   Libertad Asuncion       33 | 10  18-9       |  9  10-11      | 19  28-20
+3   Nacional Asuncion       32 |  9  12-4       | 10  14-10      | 19  26-14
+4   Club Guarani            31 | 10  12-14      |  9   9-3       | 19  21-17
+5   Sportivo Trinidense     31 |  9  13-12      |  9  15-6       | 18  28-18
+6   2 de Mayo               30 |  9   8-6       |  9  10-12      | 18  18-18
+7   Cerro Porteno           28 | 10  11-10      |  9  14-10      | 19  25-20
+8   Sportivo Ameliano       19 |  9  10-12      |  9   9-13      | 18  19-25
+9   Sportivo Luqueno        19 |  9   9-18      |  9  13-15      | 18  22-33
+10  Deportivo Recoleta      16 |  9  13-15      | 10   8-18      | 19  21-33
+11  Rubio NU                16 |  9   7-15      |  9  12-19      | 18  19-34
+12  Club Sp. San Lorenzo    10 |  9   5-16      |  9   7-14      | 18  12-30
+
+(Deportivo Recoleta: same table as Cerro Porteno, shown above)
+
+(5 API-Football requests used)
+
+----------------------------------------------------------------------
+MATCHBOOK: skipped (switched off for this run)
