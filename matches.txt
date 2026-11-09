@@ -1,3 +1,2 @@
-# scan 09.11 18:56 (retry with ids, Ebbsfleet and Leiria ambiguous)
-Chelmsford v id:1840 | n=20 | xg=10
-Torreense v id:4662 | n=20 | xg=10
+# scan 09.11 20:27 (Picerno v Bari, 2-2 market candidate)
+Picerno v Bari | n=20 | xg=10
