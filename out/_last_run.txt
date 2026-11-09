@@ -1,4 +1,3 @@
-RUN 2026-11-09 16:28 local | 1 match(es)
-Koln W v RB Leipzig W -> out/Koln_W_v_RB_Leipzig_W.txt
-    !! Koln W: Ambiguous team name "Koln W".
-Requests used: API-Football 16, Matchbook 0
+RUN 2026-11-09 16:29 local | 1 match(es)
+id:1871 v RB Leipzig W -> out/id_1871_v_RB_Leipzig_W.txt
+Requests used: API-Football 26, Matchbook 0
