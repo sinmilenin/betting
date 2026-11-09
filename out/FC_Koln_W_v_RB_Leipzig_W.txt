@@ -1,0 +1,44 @@
+MATCH FC Koln W v RB Leipzig W | fetched 2026-11-09 19:59 local
+
+FORM DATA FC Koln W v RB Leipzig W | source API-Football | 2026-11-09 19:59 UTC
+H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
+
+=== FC Koln W (id 1871): last 2 finished games ===
+2026-11-09 H 3-1 v RB Leipzig W | Frauen Bundesliga | Cologne
+2026-10-31 H 1-0 v RB Leipzig W | DFB Pokal - Women | Cologne
+Listed home: 2 games, scored 4 (2.00), conceded 1 (0.50), blanks 0, clean sheets 1
+Listed away: no games
+All: 2 games, scored 4 (2.00), conceded 1 (0.50), blanks 0, clean sheets 1
+
+=== RB Leipzig W (id 20501): last 2 finished games ===
+2026-11-09 A 1-3 v FC Koln W | Frauen Bundesliga | Cologne
+2026-10-31 A 0-1 v FC Koln W | DFB Pokal - Women | Cologne
+Listed home: no games
+Listed away: 2 games, scored 1 (0.50), conceded 4 (2.00), blanks 1, clean sheets 0
+All: 2 games, scored 1 (0.50), conceded 4 (2.00), blanks 1, clean sheets 0
+
+TABLE FOR FC Koln W
+LEAGUE TABLE Frauen Bundesliga 2026 | 14 teams | 62 games played
+League averages per game: home 1.84, away 1.73, total 3.56
+#   team                   Pts | home P GF-GA  | away P GF-GA  | all P GF-GA
+1   Bayern Munich W         27 |  5  19-4       |  4  13-4       |  9  32-8
+2   VfL Wolfsburg W         24 |  3   8-3       |  6  21-6       |  9  29-9
+3   Eintracht Frankfurt W   17 |  5   8-7       |  4   8-3       |  9  16-10
+4   Werder Bremen W         16 |  5  11-4       |  4   7-10      |  9  18-14
+5   Bayer Leverkusen W      16 |  5   9-8       |  4   6-4       |  9  15-12
+6   FC Koln W               12 |  4   7-2       |  4   6-10      |  8  13-12
+7   Union Berlin W          11 |  5   7-9       |  4   8-8       |  9  15-17
+8   Stuttgart W             11 |  4   2-10      |  5   9-11      |  9  11-21
+9   RB Leipzig W            10 |  4   8-8       |  4   6-6       |  8  14-14
+10  1899 Hoffenheim W       10 |  4   7-6       |  5   5-10      |  9  12-16
+11  SC Freiburg W           10 |  5   5-9       |  4   6-9       |  9  11-18
+12  Nürnberg W               8 |  4   8-13      |  5   8-10      |  9  16-23
+13  Hamburger SV W           6 |  4  11-7       |  5   3-10      |  9  14-17
+14  Mainz 05 W               0 |  5   4-17      |  4   1-13      |  9   5-30
+
+(RB Leipzig W: same table as FC Koln W, shown above)
+
+(5 API-Football requests used)
+
+----------------------------------------------------------------------
+MATCHBOOK: skipped (switched off for this run)
