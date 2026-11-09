@@ -1,2 +1,23 @@
-# scan 09.11 07:40 top-20 run
-Sabadell v Real Sociedad II | n=20 | xg=10
+# settle 09.11 10:55 (results check, manual)
+Aris v Panetolikos | n=2 | xg=0
+Nacional v Academico Viseu | n=2 | xg=0
+Dagenham & Redbridge v Billericay Town | n=2 | xg=0
+Dunajska Streda v Kosice | n=2 | xg=0
+Scarborough Athletic v Buxton | n=2 | xg=0
+Arsenal U21 v Aston Villa U21 | n=2 | xg=0
+Bolivar v The Strongest | n=2 | xg=0
+Cerro Porteno v Deportivo Recoleta | n=2 | xg=0
+Hapoel Beer Sheva v Hapoel Tel Aviv | n=2 | xg=0
+Jaguares v Atletico Bucaramanga | n=2 | xg=0
+KuPS v Inter Turku | n=2 | xg=0
+Lech Poznan v Zaglebie Lubin | n=2 | xg=0
+Olympiakos Piraeus v PAOK | n=2 | xg=0
+Sandnes v Asane | n=2 | xg=0
+Sporting CP B v Tondela | n=2 | xg=0
+Union La Calera v Huachipato | n=2 | xg=0
+Union St. Gilloise v Genk | n=2 | xg=0
+Vitesse v De Graafschap | n=2 | xg=0
+Wurzburger Kickers v Hoffenheim II | n=2 | xg=0
+Alianza Valledupar v Llaneros | n=2 | xg=0
+Blooming v Oriente Petrolero | n=2 | xg=0
+Tolima v Millonarios | n=2 | xg=0
