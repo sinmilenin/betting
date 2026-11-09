@@ -1,2 +1,2 @@
-# scan 09.11 15:56
-Iberia 1999 v Gagra | n=20 | xg=10
+# scan 09.11 15:56 (retry with id)
+id:3502 v Gagra | n=20 | xg=10
