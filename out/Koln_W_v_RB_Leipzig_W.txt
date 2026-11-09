@@ -1,0 +1,62 @@
+MATCH Koln W v RB Leipzig W | fetched 2026-11-09 16:28 local
+
+FORM DATA Koln W v RB Leipzig W | source API-Football | 2026-11-09 16:28 UTC
+H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
+
+"Koln W" matches several teams. Use id:<number> instead of the name:
+  id:1871   FC Koln W (Germany)
+  id:20497  Fortuna Köln W (Germany)
+=== RB Leipzig W (id 20501): last 20 finished games ===
+2026-10-31 A 0-1 v FC Koln W | DFB Pokal - Women | Cologne
+2026-10-23 H 1-5 v Bayern Munich W | Frauen Bundesliga | Leipzig | xG 1.24-1.88
+2026-10-16 A 3-0 v SC Freiburg W | Frauen Bundesliga | Freiburg | xG 2.64-0.69
+2026-10-03 H 5-0 v Mainz 05 W | Frauen Bundesliga | Leipzig
+2026-09-27 A 2-0 v Blau-Gelb Marburg W | DFB Pokal - Women | ?
+2026-09-20 A 2-3 v Union Berlin W | Frauen Bundesliga | Berlin
+2026-09-12 H 2-1 v Nürnberg W | Frauen Bundesliga | Leipzig
+2026-09-05 A 1-1 v Hamburger SV W | Frauen Bundesliga | Hamburg
+2026-08-30 A 0-2 v Werder Bremen W | Frauen Bundesliga | Bremen
+2026-08-23 H 0-2 v Bayer Leverkusen W | Frauen Bundesliga | Leipzig
+2026-05-17 A 0-0 v 1899 Hoffenheim W | Frauen Bundesliga | Sinsheim
+2026-05-11 H 1-3 v Bayer Leverkusen W | Frauen Bundesliga | Leipzig
+2026-05-02 A 2-3 v VfL Wolfsburg W | Frauen Bundesliga | Wolfsburg
+2026-04-25 H 1-1 v Werder Bremen W | Frauen Bundesliga | Leipzig
+2026-03-27 A 1-1 v Carl Zeiss Jena  W | Frauen Bundesliga | Jena
+2026-03-22 H 2-0 v SC Freiburg W | Frauen Bundesliga | Leipzig
+2026-03-14 H 2-2 v Union Berlin W | Frauen Bundesliga | Leipzig
+2026-02-22 A 2-2 v SGS Essen W | Frauen Bundesliga | Essen
+2026-02-14 H 3-1 v Nürnberg W | Frauen Bundesliga | Leipzig
+2026-02-08 A 3-1 v Hamburger SV W | Frauen Bundesliga | Hamburg
+Listed home: 9 games, scored 17 (1.89), conceded 15 (1.67), blanks 1, clean sheets 2
+Listed away: 11 games, scored 16 (1.45), conceded 14 (1.27), blanks 3, clean sheets 3
+All: 20 games, scored 33 (1.65), conceded 29 (1.45), blanks 4, clean sheets 5
+
+(retrying Koln W using the opponent's country, Germany)
+"Koln W" matches several teams. Use id:<number> instead of the name:
+  id:1871   FC Koln W (Germany)
+  id:20497  Fortuna Köln W (Germany)
+!! Koln W: Ambiguous team name "Koln W".
+
+TABLE FOR RB Leipzig W
+LEAGUE TABLE Frauen Bundesliga 2026 | 14 teams | 62 games played
+League averages per game: home 1.84, away 1.73, total 3.56
+#   team                   Pts | home P GF-GA  | away P GF-GA  | all P GF-GA
+1   Bayern Munich W         27 |  5  19-4       |  4  13-4       |  9  32-8
+2   VfL Wolfsburg W         24 |  3   8-3       |  6  21-6       |  9  29-9
+3   Eintracht Frankfurt W   17 |  5   8-7       |  4   8-3       |  9  16-10
+4   Werder Bremen W         16 |  5  11-4       |  4   7-10      |  9  18-14
+5   Bayer Leverkusen W      16 |  5   9-8       |  4   6-4       |  9  15-12
+6   FC Koln W               12 |  4   7-2       |  4   6-10      |  8  13-12
+7   Union Berlin W          11 |  5   7-9       |  4   8-8       |  9  15-17
+8   Stuttgart W             11 |  4   2-10      |  5   9-11      |  9  11-21
+9   RB Leipzig W            10 |  4   8-8       |  4   6-6       |  8  14-14
+10  1899 Hoffenheim W       10 |  4   7-6       |  5   5-10      |  9  12-16
+11  SC Freiburg W           10 |  5   5-9       |  4   6-9       |  9  11-18
+12  Nürnberg W               8 |  4   8-13      |  5   8-10      |  9  16-23
+13  Hamburger SV W           6 |  4  11-7       |  5   3-10      |  9  14-17
+14  Mainz 05 W               0 |  5   4-17      |  4   1-13      |  9   5-30
+
+(16 API-Football requests used)
+
+----------------------------------------------------------------------
+MATCHBOOK: skipped (switched off for this run)
