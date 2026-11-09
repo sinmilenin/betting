@@ -1,2 +1,2 @@
-# night scan 08.11 20:55 run 2: Tolima/Millonarios ids
-id:1142 v id:1125 | n=20 | xg=10
+# scan 09.11 07:40 top-20 run
+Sabadell v Real Sociedad II | n=20 | xg=10
