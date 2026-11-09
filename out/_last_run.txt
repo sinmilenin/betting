@@ -1,31 +1,3 @@
-RUN 2026-11-09 09:48 local | 22 match(es)
-Aris v Panetolikos -> out/Aris_v_Panetolikos.txt
-Nacional v Academico Viseu -> out/Nacional_v_Academico_Viseu.txt
-Dagenham & Redbridge v Billericay Town -> out/Dagenham_Redbridge_v_Billericay_Town.txt
-    !! Dagenham & Redbridge: API-Football error: {"search": "The Search field may only contain alpha-numeric characters and spaces."}
-Dunajska Streda v Kosice -> out/Dunajska_Streda_v_Kosice.txt
-    !! Kosice: Ambiguous team name "Kosice".
-Scarborough Athletic v Buxton -> out/Scarborough_Athletic_v_Buxton.txt
-Arsenal U21 v Aston Villa U21 -> out/Arsenal_U21_v_Aston_Villa_U21.txt
-Bolivar v The Strongest -> out/Bolivar_v_The_Strongest.txt
-    !! Bolivar: Ambiguous team name "Bolivar".
-Cerro Porteno v Deportivo Recoleta -> out/Cerro_Porteno_v_Deportivo_Recoleta.txt
-Hapoel Beer Sheva v Hapoel Tel Aviv -> out/Hapoel_Beer_Sheva_v_Hapoel_Tel_Aviv.txt
-Jaguares v Atletico Bucaramanga -> out/Jaguares_v_Atletico_Bucaramanga.txt
-KuPS v Inter Turku -> out/KuPS_v_Inter_Turku.txt
-Lech Poznan v Zaglebie Lubin -> out/Lech_Poznan_v_Zaglebie_Lubin.txt
-Olympiakos Piraeus v PAOK -> out/Olympiakos_Piraeus_v_PAOK.txt
-Sandnes v Asane -> out/Sandnes_v_Asane.txt
-    !! Sandnes: Ambiguous team name "Sandnes".
-Sporting CP B v Tondela -> out/Sporting_CP_B_v_Tondela.txt
-Union La Calera v Huachipato -> out/Union_La_Calera_v_Huachipato.txt
-Union St. Gilloise v Genk -> out/Union_St_Gilloise_v_Genk.txt
-    !! Union St. Gilloise: API-Football error: {"search": "The Search field may only contain alpha-numeric characters and spaces."}
-Vitesse v De Graafschap -> out/Vitesse_v_De_Graafschap.txt
-Wurzburger Kickers v Hoffenheim II -> out/Wurzburger_Kickers_v_Hoffenheim_II.txt
-Alianza Valledupar v Llaneros -> out/Alianza_Valledupar_v_Llaneros.txt
-Blooming v Oriente Petrolero -> out/Blooming_v_Oriente_Petrolero.txt
-Tolima v Millonarios -> out/Tolima_v_Millonarios.txt
-    !! Tolima: Ambiguous team name "Tolima".
-    !! Millonarios: Ambiguous team name "Millonarios".
-Requests used: API-Football 107, Matchbook 0
+RUN 2026-11-09 11:58 local | 1 match(es)
+Al Ain U23 v Al Wahda U23 -> out/Al_Ain_U23_v_Al_Wahda_U23.txt
+Requests used: API-Football 25, Matchbook 0
