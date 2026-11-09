@@ -1,3 +1,3 @@
-RUN 2026-11-08 20:00 local | 1 match(es)
-id:1142 v id:1125 -> out/id_1142_v_id_1125.txt
+RUN 2026-11-09 06:42 local | 1 match(es)
+Sabadell v Real Sociedad II -> out/Sabadell_v_Real_Sociedad_II.txt
 Requests used: API-Football 25, Matchbook 0
