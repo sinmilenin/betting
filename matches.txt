@@ -1,2 +1,4 @@
-# scan 09.11 17:26 (retry with id, Koln W ambiguous)
-id:1871 v RB Leipzig W | n=20 | xg=10
+# scan 09.11 18:56
+Lito v Danubio | n=20 | xg=10
+Chelmsford v Ebbsfleet | n=20 | xg=10
+Torreense v Leiria | n=20 | xg=10
