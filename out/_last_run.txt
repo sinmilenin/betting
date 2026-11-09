@@ -1,3 +1,4 @@
-RUN 2026-11-09 14:19 local | 1 match(es)
-Ikorodu City v Inter Lagos -> out/Ikorodu_City_v_Inter_Lagos.txt
-Requests used: API-Football 25, Matchbook 0
+RUN 2026-11-09 14:57 local | 1 match(es)
+Iberia 1999 v Gagra -> out/Iberia_1999_v_Gagra.txt
+    !! Iberia 1999: Ambiguous team name "Iberia 1999".
+Requests used: API-Football 15, Matchbook 0
