@@ -1,7 +1,32 @@
-MATCH West Brom U21 v Bromley U21 | fetched 2026-11-09 12:44 local
+MATCH West Bromwich Albion U21 v Bromley U21 | fetched 2026-11-09 12:45 local
 
-FORM DATA West Brom U21 v Bromley U21 | source API-Football | 2026-11-09 12:44 UTC
+FORM DATA West Bromwich Albion U21 v Bromley U21 | source API-Football | 2026-11-09 12:45 UTC
 H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
+
+=== West Bromwich Albion U21 (id 11913): last 20 finished games ===
+2026-11-03 A 0-1 v Truro City | National League Cup | ?
+2026-10-26 A 2-4 v Blackburn Rovers U21 | Premier League 2 Division One | Leyland
+2026-10-19 A 1-2 v Wolves U21 | Premier League 2 Division One | Kidderminster
+2026-10-13 A 2-3 v Sutton Utd | National League Cup | London
+2026-10-09 A 2-2 v Ipswich Town U21 | Premier League Cup | ?
+2026-09-18 H 1-3 v Nottingham Forest U21 | Premier League 2 Division One | Birmingham
+2026-09-08 A 1-0 v Boston United | National League Cup | Boston
+2026-09-04 A 3-0 v Coventry City U21 | Premier League Cup | ?
+2026-08-31 A 4-4 v Derby County U21 | Premier League 2 Division One | Long Eaton
+2026-08-26 A 0-3 v Bromley U21 | Premier League Cup | London
+2026-08-23 A 3-4 v Leeds United U21 | Premier League 2 Division One | Leeds
+2026-08-18 A 0-0 v Woking | National League Cup | Woking [PEN, 90-min score shown]
+2026-04-13 A 1-2 v Burnley U21 | Premier League Cup | ?
+2026-04-04 A 0-1 v Arsenal U21 | Premier League 2 Division One | Borehamwood
+2026-03-27 A 5-4 v AFC Bournemouth U21 | Premier League Cup | ?
+2026-03-20 A 1-4 v Norwich City U21 | Premier League 2 Division One | Norwich
+2026-03-13 H 4-0 v Birmingham City U21 | Premier League 2 Division One | Solihull
+2026-03-06 A 3-0 v Ipswich Town U21 | Premier League 2 Division One | Colchester
+2026-03-02 H 4-2 v Derby County U21 | Premier League 2 Division One | Solihull
+2026-02-23 H 3-2 v Blackburn Rovers U21 | Premier League 2 Division One | Solihull
+Listed home: 4 games, scored 12 (3.00), conceded 7 (1.75), blanks 0, clean sheets 1
+Listed away: 16 games, scored 28 (1.75), conceded 34 (2.12), blanks 4, clean sheets 4
+All: 20 games, scored 40 (2.00), conceded 41 (2.05), blanks 4, clean sheets 5
 
 === Bromley U21 (id 24846): last 16 finished games ===
 2026-10-13 H 1-2 v Coventry City U21 | Premier League Cup | London
@@ -24,7 +49,41 @@ Listed home: 9 games, scored 18 (2.00), conceded 17 (1.89), blanks 0, clean shee
 Listed away: 7 games, scored 9 (1.29), conceded 12 (1.71), blanks 3, clean sheets 2
 All: 16 games, scored 27 (1.69), conceded 29 (1.81), blanks 3, clean sheets 4
 
-!! West Brom U21: No team found for "West Brom U21".
+TABLE FOR West Bromwich Albion U21
+LEAGUE TABLE Premier League 2 Division One 2026 | 31 teams | 95 games played
+League averages per game: home 2.24, away 1.79, total 4.03
+#   team                   Pts | home P GF-GA  | away P GF-GA  | all P GF-GA
+1   Southampton U21         16 |  2   8-3       |  4   9-3       |  6  17-6
+2   Chelsea U21             16 |  3  10-7       |  4  10-5       |  7  20-12
+3   Tottenham Hotspur U21   16 |  4  10-8       |  3   8-3       |  7  18-11
+4   Fulham U21              13 |  3   9-10      |  4  11-5       |  7  20-15
+5   Norwich City U21        13 |  3   8-4       |  4   8-11      |  7  16-15
+6   Nottingham Forest U21   13 |  4   8-5       |  3   5-8       |  7  13-13
+7   Liverpool U21           11 |  3   8-2       |  3   3-4       |  6  11-6
+8   Reading U21             11 |  4   4-5       |  3   6-4       |  7  10-9
+9   Manchester United U21   10 |  3  12-3       |  2   3-4       |  5  15-7
+10  Leeds United U21        10 |  4  12-8       |  2   5-6       |  6  17-14
+11  Sunderland U21          10 |  4  13-6       |  3   5-10      |  7  18-16
+12  AFC Bournemouth U21     10 |  4  10-7       |  3   5-11      |  7  15-18
+13  Everton U21              9 |  3   4-4       |  3   3-1       |  6   7-5
+14  Brentford U21            9 |  4   6-7       |  3   9-8       |  7  15-15
+15  West Ham United U21      9 |  3   4-1       |  4   8-11      |  7  12-12
+16  Blackburn Rovers U21     9 |  2   6-5       |  3   4-5       |  5  10-10
+17  Crystal Palace U21       8 |  3   3-7       |  3   7-2       |  6  10-9
+18  Brighton U21             8 |  3   8-5       |  3   6-9       |  6  14-14
+19  Aston Villa U21          8 |  3   4-5       |  3   6-8       |  6  10-13
+20  Derby County U21         7 |  3   8-11      |  3   8-5       |  6  16-16
+21  Arsenal U21              7 |  4   9-9       |  3   3-6       |  7  12-15
+22  Manchester City U21      6 |  2   8-3       |  2   3-6       |  4  11-9
+23  Ipswich Town U21         6 |  2   9-1       |  2   2-9       |  4  11-10
+24  Wolves U21               6 |  2   2-3       |  3   2-8       |  5   4-11
+25  Leicester City U21       5 |  2   4-1       |  4   3-11      |  6   7-12
+26  Stoke City U21           4 |  4   8-9       |  3   4-6       |  7  12-15
+27  Burnley U21              4 |  4   6-6       |  3   4-8       |  7  10-14
+28  Newcastle United U21     4 |  3   4-9       |  2   1-3       |  5   5-12
+29  Birmingham City U21      3 |  3   2-6       |  3   5-12      |  6   7-18
+30  Middlesbrough U21        2 |  3   5-7       |  3   4-7       |  6   9-14
+31  West Bromwich Albion U   1 |  1   1-3       |  4  10-14      |  5  11-17
 
 TABLE FOR Bromley U21
 LEAGUE TABLE Premier League Cup 2025 | 32 teams | 96 games played
@@ -63,7 +122,7 @@ League averages per game: home 1.97, away 1.60, total 3.57
 3   Bromley U21              9 |  3   6-5       |  3   1-6       |  6   7-11 [U21 Premier League Cup , Group H]
 4   Norwich City U21         5 |  3   3-4       |  3   7-8       |  6  10-12 [U21 Premier League Cup , Group H]
 
-(15 API-Football requests used)
+(28 API-Football requests used)
 
 ----------------------------------------------------------------------
 MATCHBOOK: skipped (switched off for this run)

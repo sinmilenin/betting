@@ -1,7 +1,3 @@
-RUN 2026-11-09 12:44 local | 4 match(es)
-Las Palmas v Eldense -> out/Las_Palmas_v_Eldense.txt
-West Brom U21 v Bromley U21 -> out/West_Brom_U21_v_Bromley_U21.txt
-    !! West Brom U21: No team found for "West Brom U21".
-Atletico Madrid W v Badalona W -> out/Atletico_Madrid_W_v_Badalona_W.txt
-Mushuc Runa v Delfin -> out/Mushuc_Runa_v_Delfin.txt
-Requests used: API-Football 93, Matchbook 0
+RUN 2026-11-09 12:45 local | 1 match(es)
+West Bromwich Albion U21 v Bromley U21 -> out/West_Bromwich_Albion_U21_v_Bromley_U21.txt
+Requests used: API-Football 28, Matchbook 0
