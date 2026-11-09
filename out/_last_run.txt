@@ -1,3 +1,7 @@
-RUN 2026-11-09 16:29 local | 1 match(es)
-id:1871 v RB Leipzig W -> out/id_1871_v_RB_Leipzig_W.txt
-Requests used: API-Football 26, Matchbook 0
+RUN 2026-11-09 17:58 local | 3 match(es)
+Lito v Danubio -> out/Lito_v_Danubio.txt
+Chelmsford v Ebbsfleet -> out/Chelmsford_v_Ebbsfleet.txt
+    !! Ebbsfleet: Ambiguous team name "Ebbsfleet".
+Torreense v Leiria -> out/Torreense_v_Leiria.txt
+    !! Leiria: Ambiguous team name "Leiria".
+Requests used: API-Football 52, Matchbook 0
