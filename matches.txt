@@ -1,5 +1,2 @@
-# scan 09.11 13:40 (top-20 run: market-only candidates)
-Las Palmas v Eldense | n=20 | xg=10
-West Brom U21 v Bromley U21 | n=20 | xg=10
-Atletico Madrid W v Badalona W | n=20 | xg=10
-Mushuc Runa v Delfin | n=20 | xg=10
+# scan 09.11 13:40 top-20 retry (West Brom U21 not found by short name)
+West Bromwich Albion U21 v Bromley U21 | n=20 | xg=10
