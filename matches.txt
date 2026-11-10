@@ -1,6 +1,4 @@
-# scan 10.11 07:42 (top-20 run) form for paper candidates
-Burton Albion v Notts County | n=20 | xg=10
-Crewe v Wigan | n=20 | xg=10
-Bromley v MK Dons | n=20 | xg=10
-Inter W v Manchester City W | n=20 | xg=10
-BK Hacken W v Chelsea W | n=20 | xg=10
+# scan 10.11 07:42 (top-20 run) form retry for failed names
+Bromley v Milton Keynes Dons | n=20 | xg=10
+Inter Milan W v Manchester City W | n=20 | xg=10
+Hacken W v Chelsea W | n=20 | xg=10
