@@ -1,4 +1,8 @@
-RUN 2026-11-10 12:46 local | 1 match(es)
-Al Mokawloon v Telecom -> out/Al_Mokawloon_v_Telecom.txt
-    !! Telecom: No team found for "Telecom".
-Requests used: API-Football 14, Matchbook 0
+RUN 2026-11-10 15:43 local | 5 match(es)
+CD Pamplona v Eibar -> out/CD_Pamplona_v_Eibar.txt
+    !! CD Pamplona: No team found for "CD Pamplona".
+Anaitasuna v Alaves -> out/Anaitasuna_v_Alaves.txt
+Feyenoord W v Wolfsburg W -> out/Feyenoord_W_v_Wolfsburg_W.txt
+Real Madrid W v Paris FC W -> out/Real_Madrid_W_v_Paris_FC_W.txt
+ASV 13 v Hellas Kagran -> out/ASV_13_v_Hellas_Kagran.txt
+Requests used: API-Football 119, Matchbook 0

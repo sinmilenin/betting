@@ -1,0 +1,93 @@
+MATCH Feyenoord W v Wolfsburg W | fetched 2026-11-10 15:43 local
+
+FORM DATA Feyenoord W v Wolfsburg W | source API-Football | 2026-11-10 15:43 UTC
+H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
+
+=== Feyenoord W (id 16853): last 20 finished games ===
+2026-11-01 A 1-0 v ADO Den Haag W | Eredivisie Women | Den Haag
+2026-10-28 A 0-7 v VfL Wolfsburg W | UEFA Europa Cup - Women | Wolfsburg | xG 0.58-4.82
+2026-10-18 A 0-1 v De Graafschap W | Eredivisie Women | Doetinchem
+2026-10-04 H 1-4 v Ajax W | Eredivisie Women | Rotterdam
+2026-09-30 A 1-2 v Vålerenga W | UEFA Europa Cup - Women | Oslo
+2026-09-26 H 2-3 v PEC Zwolle W | Eredivisie Women | Rotterdam
+2026-09-23 H 4-1 v Vålerenga W | UEFA Europa Cup - Women | Rotterdam
+2026-09-19 A 3-0 v Utrecht W | Eredivisie Women | Utrecht
+2026-09-13 A 0-4 v Twente W | Eredivisie Women | ?
+2026-09-06 H 0-6 v PSV/Eindhoven W | Eredivisie Women | Rotterdam
+2026-09-02 H 3-1 v Anderlecht W | UEFA Europa Cup - Women | Rotterdam
+2026-08-26 A 1-2 v Anderlecht W | UEFA Europa Cup - Women | ?
+2026-08-22 H 1-2 v AZ W | Eredivisie Women | Rotterdam
+2026-08-16 A 2-1 v Heerenveen W | Eredivisie Women | Heerenveen
+2026-05-22 H 3-0 v NAC Breda W | Eredivisie Women | Rotterdam
+2026-05-08 A 3-0 v Excelsior W | Eredivisie Women | Rotterdam
+2026-05-03 H 3-0 v Utrecht W | Eredivisie Women | Rotterdam
+2026-04-26 A 0-0 v Ajax W | Eredivisie Women | Amsterdam
+2026-04-05 H 3-3 v AZ W | Eredivisie Women | Rotterdam
+2026-03-29 A 1-2 v Heerenveen W | Eredivisie Women | Heerenveen
+Listed home: 9 games, scored 20 (2.22), conceded 20 (2.22), blanks 1, clean sheets 2
+Listed away: 11 games, scored 12 (1.09), conceded 19 (1.73), blanks 4, clean sheets 4
+All: 20 games, scored 32 (1.60), conceded 39 (1.95), blanks 5, clean sheets 6
+
+=== VfL Wolfsburg W (id 1863): last 20 finished games ===
+2026-11-06 A 3-1 v Eintracht Frankfurt W | Frauen Bundesliga | Frankfurt | xG 1.32-1.03
+2026-11-02 H 8-0 v 1899 Hoffenheim W | DFB Pokal - Women | Wolfsburg
+2026-10-28 H 7-0 v Feyenoord W | UEFA Europa Cup - Women | Wolfsburg | xG 4.82-0.58
+2026-10-24 H 3-0 v FC Koln W | Frauen Bundesliga | Wolfsburg | xG 1.81-0.76
+2026-10-18 A 5-0 v Mainz 05 W | Frauen Bundesliga | Mainz | xG 3.15-0.37
+2026-10-04 H 2-1 v Hamburger SV W | Frauen Bundesliga | Wolfsburg
+2026-09-30 A 2-0 v Sturm Graz W | UEFA Europa Cup - Women | Graz
+2026-09-27 A 6-0 v SC Sand W | DFB Pokal - Women | ?
+2026-09-23 H 6-1 v Sturm Graz W | UEFA Europa Cup - Women | Wolfsburg
+2026-09-18 A 1-2 v 1899 Hoffenheim W | Frauen Bundesliga | Sinsheim
+2026-09-13 A 2-0 v Stuttgart W | Frauen Bundesliga | Stuttgart
+2026-09-06 H 3-2 v Werder Bremen W | Frauen Bundesliga | Wolfsburg
+2026-09-02 A 0-2 v Inter Milano W | UEFA Champions League Women | Sesto San Giovanni [PEN, 90-min score shown]
+2026-08-30 A 2-1 v Bayer Leverkusen W | Frauen Bundesliga | Leverkusen
+2026-08-26 H 2-0 v Inter Milano W | UEFA Champions League Women | Wolfsburg
+2026-08-22 A 8-2 v Nürnberg W | Frauen Bundesliga | Nuremberg
+2026-08-15 A 0-3 v Bayern Munich W | Supercup der Frauen | Ingolstadt
+2026-05-17 H 3-1 v Nürnberg W | Frauen Bundesliga | Wolfsburg
+2026-05-14 H 0-4 v Bayern Munich W | DFB Pokal - Women | Cologne
+2026-05-09 A 4-2 v SC Freiburg W | Frauen Bundesliga | Freiburg
+Listed home: 9 games, scored 34 (3.78), conceded 9 (1.00), blanks 1, clean sheets 4
+Listed away: 11 games, scored 33 (3.00), conceded 13 (1.18), blanks 2, clean sheets 4
+All: 20 games, scored 67 (3.35), conceded 22 (1.10), blanks 3, clean sheets 8
+
+TABLE FOR Feyenoord W
+LEAGUE TABLE Eredivisie Women 2026 | 10 teams | 45 games played
+League averages per game: home 1.76, away 1.78, total 3.53
+#   team                   Pts | home P GF-GA  | away P GF-GA  | all P GF-GA
+1   Twente W                22 |  4  13-2       |  5  17-4       |  9  30-6
+2   Ajax W                  21 |  6  17-6       |  3   6-4       |  9  23-10
+3   PSV/Eindhoven W         19 |  4  10-7       |  5  16-4       |  9  26-11
+4   De Graafschap W         15 |  4   7-3       |  5   6-10      |  9  13-13
+5   AZ W                    12 |  5   6-9       |  4   3-10      |  9   9-19
+6   PEC Zwolle W            11 |  5   7-12      |  4   9-6       |  9  16-18
+7   Heerenveen W            11 |  4   7-3       |  5   7-15      |  9  14-18
+8   Feyenoord W              9 |  4   4-15      |  5   6-6       |  9  10-21
+9   ADO Den Haag W           7 |  4   3-13      |  5   9-14      |  9  12-27
+10  Utrecht W                4 |  5   5-10      |  4   1-6       |  9   6-16
+
+TABLE FOR VfL Wolfsburg W
+LEAGUE TABLE Frauen Bundesliga 2026 | 14 teams | 63 games played
+League averages per game: home 1.86, away 1.71, total 3.57
+#   team                   Pts | home P GF-GA  | away P GF-GA  | all P GF-GA
+1   Bayern Munich W         27 |  5  19-4       |  4  13-4       |  9  32-8
+2   VfL Wolfsburg W         24 |  3   8-3       |  6  21-6       |  9  29-9
+3   Eintracht Frankfurt W   17 |  5   8-7       |  4   8-3       |  9  16-10
+4   Werder Bremen W         16 |  5  11-4       |  4   7-10      |  9  18-14
+5   Bayer Leverkusen W      16 |  5   9-8       |  4   6-4       |  9  15-12
+6   FC Koln W               15 |  5  10-3       |  4   6-10      |  9  16-13
+7   Union Berlin W          11 |  5   7-9       |  4   8-8       |  9  15-17
+8   Stuttgart W             11 |  4   2-10      |  5   9-11      |  9  11-21
+9   RB Leipzig W            10 |  4   8-8       |  5   7-9       |  9  15-17
+10  1899 Hoffenheim W       10 |  4   7-6       |  5   5-10      |  9  12-16
+11  SC Freiburg W           10 |  5   5-9       |  4   6-9       |  9  11-18
+12  Nürnberg W               8 |  4   8-13      |  5   8-10      |  9  16-23
+13  Hamburger SV W           6 |  4  11-7       |  5   3-10      |  9  14-17
+14  Mainz 05 W               0 |  5   4-17      |  4   1-13      |  9   5-30
+
+(26 API-Football requests used)
+
+----------------------------------------------------------------------
+MATCHBOOK: skipped (switched off for this run)

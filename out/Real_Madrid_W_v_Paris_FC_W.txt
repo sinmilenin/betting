@@ -1,0 +1,97 @@
+MATCH Real Madrid W v Paris FC W | fetched 2026-11-10 15:43 local
+
+FORM DATA Real Madrid W v Paris FC W | source API-Football | 2026-11-10 15:44 UTC
+H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
+
+=== Real Madrid W (id 15224): last 20 finished games ===
+2026-11-07 A 1-1 v Athletic Club W | Primera División Femenina | Lezama
+2026-11-01 A 3-1 v Sevilla W | Primera División Femenina | Sevilla
+2026-10-28 A 2-2 v Bayern Munich W | UEFA Champions League Women | Munich | xG 1.33-2.65
+2026-10-24 H 3-2 v Granad. Tenerife W | Primera División Femenina | Madrid
+2026-10-17 H 3-1 v Espanyol W | Primera División Femenina | Madrid
+2026-10-04 A 0-7 v Barcelona W | Primera División Femenina | Barcelona
+2026-10-01 A 1-1 v Manchester City W | UEFA Champions League Women | Manchester
+2026-09-26 A 5-3 v Real Sociedad W | Primera División Femenina | Lasarte-Oria
+2026-09-22 H 1-1 v Paris Saint Germain W | UEFA Champions League Women | Madrid
+2026-09-19 H 3-1 v Valencia W | Primera División Femenina | Madrid
+2026-09-11 A 2-0 v Deportivo de La Coruña W | Primera División Femenina | ?
+2026-09-06 H 0-0 v Eibar W | Primera División Femenina | Madrid
+2026-09-02 H 2-1 v Ajax W | UEFA Champions League Women | Madrid
+2026-08-30 H 3-2 v Atletico Madrid W | Primera División Femenina | Madrid
+2026-08-26 A 2-0 v Ajax W | UEFA Champions League Women | Ouder-Amstel
+2026-05-31 H 2-0 v Granada | Primera División Femenina | Madrid
+2026-05-26 A 4-0 v FC Levante Badalona W | Primera División Femenina | Bunol
+2026-05-10 H 1-0 v Atletico Madrid W | Primera División Femenina | Madrid
+2026-05-02 A 2-0 v Sevilla W | Primera División Femenina | Sevilla
+2026-04-26 H 1-1 v Edf Logrono W | Primera División Femenina | Madrid
+Listed home: 10 games, scored 19 (1.90), conceded 9 (0.90), blanks 1, clean sheets 3
+Listed away: 10 games, scored 22 (2.20), conceded 15 (1.50), blanks 1, clean sheets 4
+All: 20 games, scored 41 (2.05), conceded 24 (1.20), blanks 2, clean sheets 7
+
+=== Paris FC W (id 1676): last 20 finished games ===
+2026-11-06 H 5-0 v Montpellier W | Feminine Division 1 | Paris | xG 2.21-0.29
+2026-11-01 H 1-1 v Paris Saint Germain W | Feminine Division 1 | Paris | xG 0.60-1.14
+2026-10-29 H 1-1 v Häcken W | UEFA Champions League Women | Paris | xG 1.56-0.94
+2026-10-17 A 4-0 v Toulouse W | Feminine Division 1 | Toulouse | xG 2.89-0.31
+2026-10-03 H 4-1 v Lens W | Feminine Division 1 | Isilemulino
+2026-09-30 H 2-2 v Arsenal W | UEFA Champions League Women | Isilemulino
+2026-09-23 A 2-5 v Barcelona W | UEFA Champions League Women | Barcelona
+2026-09-18 A 2-0 v Strasbourg W | Feminine Division 1 | Strasbourg
+2026-09-12 A 1-7 v Lyon W | Feminine Division 1 | Lyon
+2026-09-06 H 2-0 v Nantes W | Feminine Division 1 | Paris
+2026-05-29 A 0-5 v Lyon W | Feminine Division 1 | Lyon
+2026-05-16 H 1-0 v Paris Saint Germain W | Feminine Division 1 | Paris
+2026-05-06 H 6-2 v Lens W | Feminine Division 1 | Paris
+2026-04-25 A 2-1 v Dijon W | Feminine Division 1 | Dijon
+2026-04-22 A 2-0 v Montpellier W | Feminine Division 1 | Montpellier
+2026-03-28 H 2-1 v FC Fleury 91 W | Feminine Division 1 | Paris
+2026-03-21 A 3-0 v Saint-Étienne W | Feminine Division 1 | ?
+2026-03-11 H 3-0 v Strasbourg W | Feminine Division 1 | Paris
+2026-02-22 A 4-0 v Le Havre W | Feminine Division 1 | Le Havre
+2026-02-18 A 0-2 v Real Madrid W | UEFA Champions League Women | Madrid
+Listed home: 10 games, scored 27 (2.70), conceded 8 (0.80), blanks 0, clean sheets 4
+Listed away: 10 games, scored 20 (2.00), conceded 20 (2.00), blanks 2, clean sheets 5
+All: 20 games, scored 47 (2.35), conceded 28 (1.40), blanks 2, clean sheets 9
+
+TABLE FOR Real Madrid W
+LEAGUE TABLE Primera División Femenina 2026 | 16 teams | 79 games played
+League averages per game: home 1.57, away 1.35, total 2.92
+#   team                   Pts | home P GF-GA  | away P GF-GA  | all P GF-GA
+1   Barcelona W             27 |  5  24-3       |  5  17-2       | 10  41-5
+2   Real Madrid W           23 |  5  12-6       |  5  11-12      | 10  23-18
+3   Atletico Madrid W       19 |  5  13-0       |  5   9-12      | 10  22-12
+4   Madrid CFF W            17 |  5   9-4       |  5   7-17      | 10  16-21
+5   Athletic Club W         16 |  6  10-6       |  4   3-5       | 10  13-11
+6   Espanyol W              15 |  4   8-3       |  6   6-8       | 10  14-11
+7   Granad. Tenerife W      14 |  4   5-4       |  5   9-10      |  9  14-14
+8   Real Sociedad W         13 |  5   7-10      |  5   6-5       | 10  13-15
+9   Eibar W                 12 |  6   8-11      |  4   2-2       | 10  10-13
+10  Deportivo de La Coruña  11 |  6   4-9       |  4   7-4       | 10  11-13
+11  Granada                 11 |  5   4-7       |  5   5-9       | 10   9-16
+12  Edf Logrono W           10 |  6   7-9       |  4   4-5       | 10  11-14
+13  Sevilla W               10 |  4   4-11      |  6   7-5       | 10  11-16
+14  Deportivo Alavés W       8 |  5   5-8       |  4   1-5       |  9   6-13
+15  FC Levante Badalona W    8 |  4   0-9       |  6   9-11      | 10   9-20
+16  Valencia W               6 |  4   4-7       |  6   4-12      | 10   8-19
+
+TABLE FOR Paris FC W
+LEAGUE TABLE Feminine Division 1 2026 | 12 teams | 46 games played
+League averages per game: home 1.76, away 1.65, total 3.41
+#   team                   Pts | home P GF-GA  | away P GF-GA  | all P GF-GA
+1   Lyon W                  24 |  3  17-1       |  5  31-5       |  8  48-6
+2   Paris Saint Germain W   19 |  5   8-4       |  3   6-2       |  8  14-6
+3   Paris FC W              16 |  4  12-2       |  3   7-7       |  7  19-9
+4   Marseille W             15 |  4   6-3       |  4   5-9       |  8  11-12
+5   Nantes W                 9 |  4   6-5       |  4   2-4       |  8   8-9
+6   FC Fleury 91 W           9 |  3   4-11      |  4   6-4       |  7  10-15
+7   Le Havre W               9 |  3   3-8       |  5   3-7       |  8   6-15
+8   Strasbourg W             8 |  4   6-7       |  4   6-8       |  8  12-15
+9   Montpellier W            6 |  4   8-7       |  4   1-8       |  8   9-15
+10  Toulouse W               5 |  3   4-7       |  4   4-13      |  7   8-20
+11  Saint-Malo W             3 |  4   2-6       |  3   3-8       |  7   5-14
+12  Lens W                   3 |  5   5-15      |  3   2-6       |  8   7-21
+
+(26 API-Football requests used)
+
+----------------------------------------------------------------------
+MATCHBOOK: skipped (switched off for this run)
