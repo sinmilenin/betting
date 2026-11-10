@@ -31,5 +31,16 @@
     "lay": 16,
     "stake": 3,
     "created": "2026-11-10T18:48:42Z"
+  },
+  {
+    "id": "2026-11-11_liverpool-montevideo-juventud-de-las-piedras_2-2",
+    "date": "2026-11-11",
+    "ko": "01:00",
+    "match": "Liverpool Montevideo v Juventud De Las Piedras",
+    "comp": "Uruguay, Uruguayan Cup",
+    "cell": "2-2",
+    "lay": 18.5,
+    "stake": 3,
+    "created": "2026-11-10T20:02:00Z"
   }
 ]
