@@ -1,8 +1,3 @@
-RUN 2026-11-10 19:57 local | 5 match(es)
-Cacahuatique v Luis Angel Firpo -> out/Cacahuatique_v_Luis_Angel_Firpo.txt
-    !! Luis Angel Firpo: No team found for "Luis Angel Firpo".
-Internacional de Bogota v America de Cali -> out/Internacional_de_Bogota_v_America_de_Cal.txt
-Liverpool Montevideo v Juventud -> out/Liverpool_Montevideo_v_Juventud.txt
-Once Caldas v Atletico Nacional -> out/Once_Caldas_v_Atletico_Nacional.txt
-Juarez W v Guadalajara W -> out/Juarez_W_v_Guadalajara_W.txt
-Requests used: API-Football 116, Matchbook 0
+RUN 2026-11-10 20:00 local | 1 match(es)
+Cacahuatique v Firpo -> out/Cacahuatique_v_Firpo.txt
+Requests used: API-Football 25, Matchbook 0
