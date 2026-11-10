@@ -1,2 +1,2 @@
-# scan 10.11 18:13 retry 2 (Torquay name)
-Hemel Hempstead Town v Torquay | n=20 | xg=10
+# scan 10.11 19:43 (Millwall U21 v Brighton U21)
+Millwall U21 v Brighton U21 | n=20 | xg=10
