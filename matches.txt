@@ -1,2 +1,6 @@
-# scan 10.11 13:40 retry (Telecom Egypt name)
-Al Mokawloon v Telecom | n=20 | xg=10
+# scan 10.11 16:41
+CD Pamplona v Eibar | n=20 | xg=10
+Anaitasuna v Alaves | n=20 | xg=10
+Feyenoord W v Wolfsburg W | n=20 | xg=10
+Real Madrid W v Paris FC W | n=20 | xg=10
+ASV 13 v Hellas Kagran | n=20 | xg=10
