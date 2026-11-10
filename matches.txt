@@ -1,2 +1,2 @@
-# scan 10.11 07:42 (top-20 run) form retry Inter
-Inter Milano W v Manchester City W | n=20 | xg=10
+# scan 10.11 11:26 Vietnam U23 v Thailand U23
+Vietnam U23 v Thailand U23 | n=20 | xg=10
