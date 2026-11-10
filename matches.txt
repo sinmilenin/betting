@@ -1,2 +1,2 @@
-# scan 10.11 18:13 retry (Torque name)
-Boston River v Atletico Torque | n=20 | xg=10
+# scan 10.11 18:13 retry 2 (Torquay name)
+Hemel Hempstead Town v Torquay | n=20 | xg=10
