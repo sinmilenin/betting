@@ -1,13 +1,24 @@
 [
   {
-    "id": "2026-11-09_fc-iberia-1999-gagra_2-1",
-    "date": "2026-11-09",
-    "ko": "17:00",
-    "match": "FC Iberia 1999 v Gagra",
-    "comp": "Georgia, Georgian Umaglesi Liga",
-    "cell": "2-1",
-    "lay": 9,
+    "id": "2026-11-10_boston-river-torque_2-2",
+    "date": "2026-11-10",
+    "ko": "20:30",
+    "match": "Boston River v Torque",
+    "comp": "Uruguay, Uruguayan Cup",
+    "cell": "2-2",
+    "lay": 19,
     "stake": 3,
-    "created": "2026-11-09T16:00:30+01:00"
+    "created": "2026-11-10T17:19:41Z"
+  },
+  {
+    "id": "2026-11-10_scarborough-athletic-marine-fc_0-1",
+    "date": "2026-11-10",
+    "ko": "20:45",
+    "match": "Scarborough Athletic v Marine FC",
+    "comp": "United Kingdom, English National League North",
+    "cell": "0-1",
+    "lay": 18,
+    "stake": 3,
+    "created": "2026-11-10T17:19:41Z"
   }
 ]
