@@ -1,6 +1,6 @@
-MATCH Amorebieta v UD Logrones | fetched 2026-11-10 16:29 local
+MATCH Amorebieta v id:5280 | fetched 2026-11-10 16:30 local
 
-FORM DATA Amorebieta v UD Logrones | source API-Football | 2026-11-10 16:29 UTC
+FORM DATA Amorebieta v id:5280 | source API-Football | 2026-11-10 16:30 UTC
 H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
 
 === Amorebieta (id 9380): last 20 finished games ===
@@ -28,14 +28,30 @@ Listed home: 10 games, scored 11 (1.10), conceded 10 (1.00), blanks 2, clean she
 Listed away: 10 games, scored 13 (1.30), conceded 8 (0.80), blanks 3, clean sheets 5
 All: 20 games, scored 24 (1.20), conceded 18 (0.90), blanks 5, clean sheets 8
 
-"UD Logrones" matches several teams. Use id:<number> instead of the name:
-  id:5280   UD Logroñés (Spain)
-  id:9872   UD Logroñés II (Spain)
-(retrying UD Logrones using the opponent's country, Spain)
-"UD Logrones" matches several teams. Use id:<number> instead of the name:
-  id:5280   UD Logroñés (Spain)
-  id:9872   UD Logroñés II (Spain)
-!! UD Logrones: Ambiguous team name "UD Logrones".
+=== UD Logroñés (id 5280): last 20 finished games ===
+2026-11-07 A 2-1 v Racing Ferrol | Primera División RFEF - Group 1 | Ferrol
+2026-10-31 H 0-1 v Mirandes | Primera División RFEF - Group 1 | ?
+2026-10-24 A 3-1 v Real Avilés | Primera División RFEF - Group 1 | ?
+2026-10-18 H 1-1 v Cultural Leonesa | Primera División RFEF - Group 1 | ?
+2026-10-12 A 1-3 v Lugo | Primera División RFEF - Group 1 | Lugo
+2026-10-04 H 2-1 v Deportivo La Coruña II | Primera División RFEF - Group 1 | ?
+2026-09-27 A 5-3 v Mérida AD | Primera División RFEF - Group 1 | ?
+2026-09-18 H 1-1 v Pontevedra | Primera División RFEF - Group 1 | ?
+2026-09-12 A 3-0 v UD Ourense | Primera División RFEF - Group 1 | ?
+2026-09-06 A 2-1 v Zamora | Primera División RFEF - Group 1 | Zamora
+2026-08-31 H 2-1 v Extremadura 1924 | Primera División RFEF - Group 1 | ?
+2026-08-22 H 4-0 v Huesca II | Friendlies Clubs | ?
+2026-08-21 H 4-0 v Mirandes | Friendlies Clubs | ?
+2026-08-14 H 1-2 v Zaragoza | Friendlies Clubs | ?
+2026-08-04 A 1-0 v Huesca | Friendlies Clubs | ?
+2026-05-30 A 0-1 v SS Reyes | Segunda División RFEF - Play-offs | ? [AET, 90-min score shown]
+2026-05-24 H 1-0 v SS Reyes | Segunda División RFEF - Play-offs | ?
+2026-05-16 H 2-1 v Getafe II | Segunda División RFEF - Play-offs | ?
+2026-05-10 A 2-0 v Getafe II | Segunda División RFEF - Play-offs | Getafe
+2026-05-03 A 3-0 v Ebro | Segunda División RFEF - Group 2 | Zaragoza
+Listed home: 10 games, scored 18 (1.80), conceded 8 (0.80), blanks 1, clean sheets 3
+Listed away: 10 games, scored 22 (2.20), conceded 10 (1.00), blanks 1, clean sheets 4
+All: 20 games, scored 40 (2.00), conceded 18 (0.90), blanks 2, clean sheets 7
 
 TABLE FOR Amorebieta
 LEAGUE TABLE Segunda División RFEF - Group 1 2026 | 18 teams | 90 games played
@@ -60,7 +76,32 @@ League averages per game: home 1.44, away 1.34, total 2.79
 17  Atlético Astorga         7 |  5   8-3       |  5   4-15      | 10  12-18
 18  Gimnástica Torrelavega   6 |  5   4-11      |  5   3-8       | 10   7-19
 
-(15 API-Football requests used)
+TABLE FOR UD Logroñés
+LEAGUE TABLE Primera División RFEF - Group 1 2026 | 20 teams | 110 games played
+League averages per game: home 1.41, away 1.10, total 2.51
+#   team                   Pts | home P GF-GA  | away P GF-GA  | all P GF-GA
+1   Lugo                    28 |  5  10-2       |  6   9-7       | 11  19-9
+2   UD Logroñés             23 |  5   6-5       |  6  16-9       | 11  22-14
+3   Pontevedra              18 |  6   9-7       |  5   4-4       | 11  13-11
+4   Real Avilés             17 |  6  13-9       |  5  10-6       | 11  23-15
+5   Mirandes                17 |  5   6-3       |  6   7-9       | 11  13-12
+6   Racing Ferrol           17 |  6   8-4       |  5   2-5       | 11  10-9
+7   Extremadura 1924        16 |  5   6-4       |  6  15-11      | 11  21-15
+8   Mérida AD               16 |  6  11-9       |  5   7-5       | 11  18-14
+9   Athletic Club II        15 |  5   8-7       |  6   9-8       | 11  17-15
+10  Cacereño                15 |  6   7-2       |  5   2-7       | 11   9-9
+11  Ponferradina            15 |  5   2-2       |  6   5-5       | 11   7-7
+12  Barakaldo               14 |  7   9-4       |  4   1-6       | 11  10-10
+13  Real Unión              13 |  5  11-8       |  6   8-11      | 11  19-19
+14  Cultural Leonesa        13 |  5   9-6       |  6   2-5       | 11  11-11
+15  Unionistas de Salamanc  13 |  6  11-9       |  5   2-9       | 11  13-18
+16  Zamora                  12 |  6   7-9       |  5   4-4       | 11  11-13
+17  CD Coria                12 |  5   9-8       |  6   5-9       | 11  14-17
+18  Deportivo La Coruña II  11 |  5   5-8       |  6   7-11      | 11  12-19
+19  Arenas Getxo            11 |  6   6-11      |  5   4-12      | 11  10-23
+20  UD Ourense               8 |  5   2-4       |  6   2-12      | 11   4-16
+
+(26 API-Football requests used)
 
 ----------------------------------------------------------------------
 MATCHBOOK: skipped (switched off for this run)
