@@ -1,4 +1,8 @@
-RUN 2026-11-10 11:14 local | 2 match(es)
-JS Jijel v CR Beni Thour -> out/JS_Jijel_v_CR_Beni_Thour.txt
-Colchester United U21 v Charlton Athletic U21 -> out/Colchester_United_U21_v_Charlton_Athleti.txt
-Requests used: API-Football 51, Matchbook 0
+RUN 2026-11-10 12:45 local | 5 match(es)
+Northampton v Gillingham -> out/Northampton_v_Gillingham.txt
+Al Mokawloon v Telecom Egypt -> out/Al_Mokawloon_v_Telecom_Egypt.txt
+    !! Telecom Egypt: No team found for "Telecom Egypt".
+Stockport County v Tranmere -> out/Stockport_County_v_Tranmere.txt
+Bradford v York -> out/Bradford_v_York.txt
+Metalul Buzau v Steaua Bucuresti -> out/Metalul_Buzau_v_Steaua_Bucuresti.txt
+Requests used: API-Football 114, Matchbook 0
