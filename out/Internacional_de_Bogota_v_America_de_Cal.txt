@@ -1,0 +1,106 @@
+MATCH Internacional de Bogota v America de Cali | fetched 2026-11-10 19:57 local
+
+FORM DATA Internacional de Bogota v America de Cali | source API-Football | 2026-11-10 19:57 UTC
+H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
+
+=== Internacional de Bogota (id 1134): last 20 finished games ===
+2026-11-06 A 1-2 v Chico | Primera A | Tunja | xG 0.91-2.20
+2026-10-29 H 3-1 v Independiente Medellin | Primera A | Bogota | xG 2.30-1.38
+2026-10-25 A 0-1 v Alianza Valledupar | Primera A | Valledupar | xG 0.26-1.42
+2026-10-20 H 2-1 v Fortaleza FC | Primera A | ? | xG 0.41-1.79
+2026-10-15 H 4-1 v Llaneros | Copa Colombia | ?
+2026-10-10 A 2-2 v Junior | Primera A | Barranquilla | xG 1.75-1.62
+2026-10-04 H 1-1 v Once Caldas | Primera A | ? | xG 1.75-0.79
+2026-09-26 A 0-0 v Deportivo Pereira | Primera A | Yopal | xG 1.14-0.47
+2026-09-20 A 0-2 v Bucaramanga | Primera A | Bucaramanga | xG 1.18-0.82
+2026-09-17 H 2-3 v Atletico Nacional | Primera A | ? | xG 0.53-1.48
+2026-09-12 H 3-2 v Llaneros | Primera A | Bogota
+2026-09-09 A 2-1 v Real Cundinamarca | Copa Colombia | Mosquera
+2026-09-06 H 2-2 v Águilas Doradas | Primera A | Bogota
+2026-08-30 A 0-0 v Millonarios | Primera A | Bogota
+2026-08-28 H 1-1 v Deportivo Pasto | Primera A | Bogota
+2026-08-23 A 2-2 v Deportivo Cali | Primera A | Palmira
+2026-08-19 A 1-1 v Cucuta | Primera A | Cucuta
+2026-08-08 A 1-2 v Deportes Tolima | Primera A | Iwag
+2026-08-05 H 1-0 v Jaguares | Primera A | Bogota
+2026-07-29 A 2-1 v Internacional Palmira | Copa Colombia | Palmira
+Listed home: 9 games, scored 19 (2.11), conceded 12 (1.33), blanks 0, clean sheets 1
+Listed away: 11 games, scored 11 (1.00), conceded 14 (1.27), blanks 4, clean sheets 2
+All: 20 games, scored 30 (1.50), conceded 26 (1.30), blanks 4, clean sheets 3
+
+=== America de Cali (id 1138): last 20 finished games ===
+2026-11-08 H 0-0 v Deportivo Cali | Primera A | Cali | xG 0.40-0.31
+2026-11-05 A 0-0 v Millonarios | Primera A | Bogota | xG 0.66-1.45
+2026-10-29 H 2-1 v Fortaleza FC | Primera A | Santiago de Cali | xG 2.02-1.10
+2026-10-24 H 3-1 v Cucuta | Primera A | Santiago de Cali | xG 1.05-0.97
+2026-10-22 A 4-0 v Barranquilla | Copa Colombia | Barranquilla
+2026-10-18 A 1-1 v Bucaramanga | Primera A | Bucaramanga | xG 1.05-0.68
+2026-10-12 H 1-2 v Independiente Medellin | Primera A | Cali | xG 0.60-0.94
+2026-10-05 A 2-1 v Llaneros | Primera A | Villavicencio | xG 0.95-0.94
+2026-09-24 H 1-0 v Águilas Doradas | Primera A | Cali | xG 1.83-0.39
+2026-09-20 A 1-1 v Deportes Tolima | Primera A | Iwag | xG 0.32-2.30
+2026-09-15 H 0-1 v Deportivo Pasto | Primera A | Santiago de Cali
+2026-09-09 H 4-1 v Deportivo Pereira | Copa Colombia | Yopal
+2026-09-03 H 3-0 v Alianza Valledupar | Primera A | Santiago de Cali
+2026-08-29 A 2-2 v Jaguares | Primera A | Monteria
+2026-08-26 H 4-2 v Junior | Primera A | Santiago de Cali
+2026-08-22 A 0-0 v Santa Fe | Primera A | Bogota
+2026-08-10 H 1-0 v Atletico Nacional | Primera A | Santiago de Cali
+2026-08-06 A 1-0 v Once Caldas | Primera A | Manizales
+2026-08-02 H 7-0 v Chico | Primera A | Santiago de Cali
+2026-07-30 A 1-1 v Real Cartagena | Copa Colombia | Cartagena
+Listed home: 11 games, scored 26 (2.36), conceded 8 (0.73), blanks 2, clean sheets 5
+Listed away: 9 games, scored 12 (1.33), conceded 6 (0.67), blanks 2, clean sheets 4
+All: 20 games, scored 38 (1.90), conceded 14 (0.70), blanks 4, clean sheets 9
+
+TABLE FOR Internacional de Bogota
+LEAGUE TABLE Primera A 2026 | 40 teams | 370 games played
+League averages per game: home 1.49, away 1.03, total 2.53
+#   team                   Pts | home P GF-GA  | away P GF-GA  | all P GF-GA
+1   Atletico Nacional       40 |  9  22-3       | 10  13-12      | 19  35-15 [Apertura]
+2   Junior                  35 | 10  17-14      |  9  14-10      | 19  31-24 [Apertura]
+3   Deportivo Pasto         34 | 10  14-8       |  9  15-17      | 19  29-25 [Apertura]
+4   America de Cali         33 |  9  15-3       | 10  10-12      | 19  25-15 [Apertura]
+5   Once Caldas             33 | 10  20-13      |  9  11-9       | 19  31-22 [Apertura]
+6   Deportes Tolima         31 | 10  19-7       |  9   8-10      | 19  27-17 [Apertura]
+7   Santa Fe                29 |  9  17-10      | 10  12-12      | 19  29-22 [Apertura]
+8   Internacional de Bogot  28 |  9  16-9       | 10  10-17      | 19  26-26 [Apertura]
+9   Deportivo Cali          27 | 10  12-6       |  9   8-10      | 19  20-16 [Apertura]
+10  Millonarios             26 | 10  19-7       |  9  12-16      | 19  31-23 [Apertura]
+11  Independiente Medellin  26 | 10  15-13      |  9  11-11      | 19  26-24 [Apertura]
+12  Águilas Doradas         26 | 10  12-14      |  9   8-11      | 19  20-25 [Apertura]
+13  Bucaramanga             23 |  9  19-6       | 10   7-14      | 19  26-20 [Apertura]
+14  Llaneros                22 |  9  10-9       | 10   7-11      | 19  17-20 [Apertura]
+15  Fortaleza FC            22 | 10  14-10      |  9   8-17      | 19  22-27 [Apertura]
+16  Jaguares                18 | 10  14-12      |  9   6-21      | 19  20-33 [Apertura]
+17  Alianza Valledupar      17 |  9   7-9       | 10   6-18      | 19  13-27 [Apertura]
+18  Chico                   17 |  9  13-5       | 10   2-27      | 19  15-32 [Apertura]
+19  Cucuta                  16 |  9  12-13      | 10  10-22      | 19  22-35 [Apertura]
+20  Deportivo Pereira       10 |  9   9-13      | 10   6-19      | 19  15-32 [Apertura]
+1   Atletico Nacional       39 |  9  19-7       |  9  18-10      | 18  37-17 [Clausura]
+2   America de Cali         36 | 10  22-7       |  8   9-5       | 18  31-12 [Clausura]
+3   Deportivo Cali          34 |  8  15-4       | 10  11-6       | 18  26-10 [Clausura]
+4   Bucaramanga             32 |  9  14-9       |  9  16-8       | 18  30-17 [Clausura]
+5   Santa Fe                31 | 10  19-9       |  8   9-9       | 18  28-18 [Clausura]
+6   Independiente Medellin  29 |  9  12-11      |  9  16-14      | 18  28-25 [Clausura]
+7   Millonarios             27 |  8  11-4       | 10  14-12      | 18  25-16 [Clausura]
+8   Once Caldas             27 |  9  12-8       |  9  10-10      | 18  22-18 [Clausura]
+9   Deportes Tolima         26 |  9  11-9       |  9  12-12      | 18  23-21 [Clausura]
+10  Águilas Doradas         25 |  8  13-8       | 10   9-13      | 18  22-21 [Clausura]
+11  Cucuta                  24 |  9  13-8       |  9   6-18      | 18  19-26 [Clausura]
+12  Llaneros                23 |  9  12-12      |  9   9-12      | 18  21-24 [Clausura]
+13  Internacional de Bogot  20 |  9  15-13      |  9   7-12      | 18  22-25 [Clausura]
+14  Junior                  19 |  9  13-9       |  9  12-18      | 18  25-27 [Clausura]
+15  Chico                   19 | 10  13-10      |  8   2-19      | 18  15-29 [Clausura]
+16  Alianza Valledupar      18 | 10  11-19      |  8   7-12      | 18  18-31 [Clausura]
+17  Deportivo Pereira       17 |  9   7-12      |  9   9-14      | 18  16-26 [Clausura]
+18  Deportivo Pasto         15 |  8   5-8       | 10   8-21      | 18  13-29 [Clausura]
+19  Jaguares                13 |  9  11-16      |  9   6-19      | 18  17-35 [Clausura]
+20  Fortaleza FC            12 |  9   9-15      |  9   8-13      | 18  17-28 [Clausura]
+
+(America de Cali: same table as Internacional de Bogota, shown above)
+
+(25 API-Football requests used)
+
+----------------------------------------------------------------------
+MATCHBOOK: skipped (switched off for this run)
