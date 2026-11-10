@@ -1,7 +1,32 @@
-MATCH Inter Milan W v Manchester City W | fetched 2026-11-10 06:45 local
+MATCH Inter Milano W v Manchester City W | fetched 2026-11-10 06:46 local
 
-FORM DATA Inter Milan W v Manchester City W | source API-Football | 2026-11-10 06:45 UTC
+FORM DATA Inter Milano W v Manchester City W | source API-Football | 2026-11-10 06:46 UTC
 H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
+
+=== Inter Milano W (id 7533): last 20 finished games ===
+2026-11-07 A 3-0 v AC Milan W | Serie A Women | Milano | xG 2.78-1.41
+2026-11-01 H 3-0 v Lazio W | Serie A Women | Sesto San Giovanni | xG 2.17-0.55
+2026-10-28 A 0-6 v Lyon W | UEFA Champions League Women | Lyon | xG 0.50-3.66
+2026-10-24 A 0-0 v Napoli W | Serie A Women | Naples | xG 1.82-0.25
+2026-10-18 H 3-0 v Parma W | Serie A Women | Sesto San Giovanni | xG 1.59-1.11
+2026-10-04 A 2-0 v Como W | Serie A Women | Seregno
+2026-10-01 A 1-1 v Austria Wien W | UEFA Champions League Women | Vienna
+2026-09-27 H 2-0 v Fiorentina W | Serie A Women | Sesto San Giovanni
+2026-09-22 H 1-0 v Häcken W | UEFA Champions League Women | Varese
+2026-09-12 A 0-1 v Juventus W | Serie A Cup Women | Biella
+2026-09-06 H 3-1 v Lazio W | Serie A Cup Women | Sesto San Giovanni
+2026-09-02 H 2-0 v VfL Wolfsburg W | UEFA Champions League Women | Sesto San Giovanni [PEN, 90-min score shown]
+2026-08-30 H 6-0 v Napoli W | Serie A Cup Women | Sesto San Giovanni
+2026-08-26 A 0-2 v VfL Wolfsburg W | UEFA Champions League Women | Wolfsburg
+2026-08-21 A 1-0 v Parma W | Serie A Cup Women | Parma
+2026-05-16 H 0-3 v Como W | Serie A Women | Sesto San Giovanni
+2026-05-10 A 3-3 v Juventus W | Serie A Women | Biella
+2026-05-02 H 1-0 v AC Milan W | Serie A Women | Sesto San Giovanni
+2026-04-25 A 2-1 v Genoa W | Serie A Women | Genoa
+2026-04-04 H 5-2 v Lazio W | Serie A Women | Sesto San Giovanni
+Listed home: 10 games, scored 26 (2.60), conceded 6 (0.60), blanks 1, clean sheets 7
+Listed away: 10 games, scored 12 (1.20), conceded 14 (1.40), blanks 4, clean sheets 4
+All: 20 games, scored 38 (1.90), conceded 20 (1.00), blanks 5, clean sheets 11
 
 === Manchester City W (id 1854): last 20 finished games ===
 2026-11-07 H 5-0 v West Ham W | FA WSL | Manchester | xG 2.14-1.02
@@ -28,7 +53,22 @@ Listed home: 9 games, scored 27 (3.00), conceded 11 (1.22), blanks 0, clean shee
 Listed away: 11 games, scored 26 (2.36), conceded 11 (1.00), blanks 0, clean sheets 4
 All: 20 games, scored 53 (2.65), conceded 22 (1.10), blanks 0, clean sheets 6
 
-!! Inter Milan W: No team found for "Inter Milan W".
+TABLE FOR Inter Milano W
+LEAGUE TABLE Serie A Women 2026 | 12 teams | 36 games played
+League averages per game: home 1.42, away 1.42, total 2.83
+#   team                   Pts | home P GF-GA  | away P GF-GA  | all P GF-GA
+1   Roma W                  18 |  3   9-4       |  3  12-3       |  6  21-7
+2   Inter Milano W          16 |  3   8-0       |  3   5-0       |  6  13-0
+3   Como 1907 W             11 |  3   6-7       |  3   7-4       |  6  13-11
+4   Fiorentina W            10 |  2   3-2       |  4   7-4       |  6  10-6
+5   Juventus W               9 |  4   9-11      |  2   3-3       |  6  12-14
+6   Como W                   8 |  3   2-3       |  3   2-2       |  6   4-5
+7   Ternana W                7 |  4   3-7       |  2   2-4       |  6   5-11
+8   AC Milan W               6 |  3   5-4       |  3   3-9       |  6   8-13
+9   Napoli W                 5 |  2   1-2       |  4   6-6       |  6   7-8
+10  Parma W                  5 |  3   3-4       |  3   0-3       |  6   3-7
+11  Lazio W                  3 |  3   0-0       |  3   1-7       |  6   1-7
+12  Sassuolo W               2 |  3   2-7       |  3   3-6       |  6   5-13
 
 TABLE FOR Manchester City W
 LEAGUE TABLE FA WSL 2026 | 14 teams | 63 games played
@@ -49,7 +89,7 @@ League averages per game: home 1.67, away 1.62, total 3.29
 13  Birmingham City W        6 |  4   7-9       |  5   4-12      |  9  11-21
 14  Charlton Athletic W      0 |  5   2-18      |  4   3-10      |  9   5-28
 
-(14 API-Football requests used)
+(26 API-Football requests used)
 
 ----------------------------------------------------------------------
 MATCHBOOK: skipped (switched off for this run)

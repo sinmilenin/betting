@@ -1,6 +1,3 @@
-RUN 2026-11-10 06:45 local | 3 match(es)
-Bromley v Milton Keynes Dons -> out/Bromley_v_Milton_Keynes_Dons.txt
-Inter Milan W v Manchester City W -> out/Inter_Milan_W_v_Manchester_City_W.txt
-    !! Inter Milan W: No team found for "Inter Milan W".
-Hacken W v Chelsea W -> out/Hacken_W_v_Chelsea_W.txt
-Requests used: API-Football 65, Matchbook 0
+RUN 2026-11-10 06:46 local | 1 match(es)
+Inter Milano W v Manchester City W -> out/Inter_Milano_W_v_Manchester_City_W.txt
+Requests used: API-Football 26, Matchbook 0
