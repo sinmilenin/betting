@@ -1,3 +1,11 @@
-RUN 2026-11-10 15:45 local | 1 match(es)
-Pamplona v Eibar -> out/Pamplona_v_Eibar.txt
-Requests used: API-Football 26, Matchbook 0
+RUN 2026-11-10 16:29 local | 6 match(es)
+Barnet v Leyton Orient -> out/Barnet_v_Leyton_Orient.txt
+Amorebieta v UD Logrones -> out/Amorebieta_v_UD_Logrones.txt
+    !! UD Logrones: Ambiguous team name "UD Logrones".
+Mansfield v Chesterfield -> out/Mansfield_v_Chesterfield.txt
+    !! Mansfield: Ambiguous team name "Mansfield".
+Plymouth v Swindon -> out/Plymouth_v_Swindon.txt
+    !! Swindon: Ambiguous team name "Swindon".
+Grimsby v Nottingham Forest U21 -> out/Grimsby_v_Nottingham_Forest_U21.txt
+Mijas v Real Jaen -> out/Mijas_v_Real_Jaen.txt
+Requests used: API-Football 121, Matchbook 0
