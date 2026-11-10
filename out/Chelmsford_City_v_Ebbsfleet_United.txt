@@ -1,0 +1,54 @@
+MATCH Chelmsford City v Ebbsfleet United | fetched 2026-11-10 05:51 local
+
+FORM DATA Chelmsford City v Ebbsfleet United | source API-Football | 2026-11-10 05:51 UTC
+H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
+
+=== Chelmsford City (id 4689): last 2 finished games ===
+2026-11-09 H 2-2 v Ebbsfleet United | National League - South | ?
+2026-11-07 H 2-1 v Farnborough | National League - South | ?
+Listed home: 2 games, scored 4 (2.00), conceded 3 (1.50), blanks 0, clean sheets 0
+Listed away: no games
+All: 2 games, scored 4 (2.00), conceded 3 (1.50), blanks 0, clean sheets 0
+
+=== Ebbsfleet United (id 1840): last 2 finished games ===
+2026-11-09 A 2-2 v Chelmsford City | National League - South | ?
+2026-11-07 H 1-0 v Chesham United | National League - South | Northfleet
+Listed home: 1 games, scored 1 (1.00), conceded 0 (0.00), blanks 0, clean sheets 1
+Listed away: 1 games, scored 2 (2.00), conceded 2 (2.00), blanks 0, clean sheets 0
+All: 2 games, scored 3 (1.50), conceded 2 (1.00), blanks 0, clean sheets 1
+
+TABLE FOR Chelmsford City
+LEAGUE TABLE National League - South 2026 | 24 teams | 184 games played
+League averages per game: home 1.54, away 1.43, total 2.98
+#   team                   Pts | home P GF-GA  | away P GF-GA  | all P GF-GA
+1   Ebbsfleet United        35 |  8  20-4       |  8  18-8       | 16  38-12
+2   Maidstone Utd           32 |  8  11-11      |  8  17-8       | 16  28-19
+3   Truro City              30 |  7  15-4       |  7  12-8       | 14  27-12
+4   Farnham Town            29 |  8  19-12      |  8  13-8       | 16  32-20
+5   Salisbury               28 |  6  15-4       |  8  10-6       | 14  25-10
+6   Dorking Wanderers       27 |  8  18-15      |  7  16-8       | 15  34-23
+7   Billericay Town         26 |  8  24-9       |  6  10-9       | 14  34-18
+8   Chelmsford City         25 |  8   9-9       |  8  16-8       | 16  25-17
+9   Dagenham & Redbridge    25 |  8  10-4       |  8   5-9       | 16  15-13
+10  Tonbridge Angels        24 |  8  11-10      |  8  17-9       | 16  28-19
+11  Horsham                 22 |  8   9-12      |  8  14-7       | 16  23-19
+12  Dover                   22 |  8  12-12      |  6   8-7       | 14  20-19
+13  Weston-super-Mare       21 |  8  18-7       |  7   7-15      | 15  25-22
+14  Torquay                 20 |  7  13-8       |  7   9-9       | 14  22-17
+15  Folkestone Invicta      20 |  7  14-6       |  8   8-12      | 15  22-18
+16  AFC Totton              19 |  8   7-13      |  8  10-16      | 16  17-29
+17  Farnborough             17 |  8   5-19      |  8   8-14      | 16  13-33
+18  Maidenhead              16 |  8   5-10      |  8  10-10      | 16  15-20
+19  Braintree               16 |  9  11-17      |  6  11-21      | 15  22-38
+20  Hemel Hempstead Town    15 |  7   6-12      |  9   9-12      | 16  15-24
+21  Chesham United          11 |  7   9-19      |  8  11-14      | 15  20-33
+22  Hampton & Richmond      10 |  7  13-15      |  9   6-22      | 16  19-37
+23  Walton & Hersham         8 |  7   3-18      |  8   8-18      | 15  11-36
+24  Slough Town              7 |  8   7-14      |  8  11-26      | 16  18-40
+
+(Ebbsfleet United: same table as Chelmsford City, shown above)
+
+(5 API-Football requests used)
+
+----------------------------------------------------------------------
+MATCHBOOK: skipped (switched off for this run)

@@ -1,6 +1,6 @@
-MATCH Vitesse v De Graafschap | fetched 2026-11-09 19:59 local
+MATCH Vitesse v De Graafschap | fetched 2026-11-10 05:51 local
 
-FORM DATA Vitesse v De Graafschap | source API-Football | 2026-11-09 19:59 UTC
+FORM DATA Vitesse v De Graafschap | source API-Football | 2026-11-10 05:51 UTC
 H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
 
 "Vitesse" matches several teams. Use id:<number> instead of the name:
@@ -10,21 +10,23 @@ H/A = listed home/away (city shown so neutral venues can be spotted). Scores are
   id:22029  Vitesse U18 (Netherlands)
   id:25088  Vitesse U19 (Netherlands)
   id:25489  Vitesse U21 (Netherlands)
-=== De Graafschap (id 199): last 2 finished games ===
+=== De Graafschap (id 199): last 3 finished games ===
 2026-10-30 A 2-1 v FC Volendam | Eerste Divisie | Volendam
 2026-10-27 A 0-1 v Roda | KNVB Beker | Kerkrade
-Listed home: no games
+2026-10-23 H 1-1 v Waalwijk | Eerste Divisie | Dutinghem
+Listed home: 1 games, scored 1 (1.00), conceded 1 (1.00), blanks 0, clean sheets 0
 Listed away: 2 games, scored 2 (1.00), conceded 2 (1.00), blanks 1, clean sheets 0
-All: 2 games, scored 2 (1.00), conceded 2 (1.00), blanks 1, clean sheets 0
+All: 3 games, scored 3 (1.00), conceded 3 (1.00), blanks 1, clean sheets 0
 
 (retrying Vitesse using the opponent's country, Netherlands)
 NOTE: "Vitesse" matched 2 teams; picked Vitesse (Netherlands) because the opponent is from Netherlands. Others: Vitesse (Burkina-Faso)
-=== Vitesse (id 200): last 2 finished games ===
+=== Vitesse (id 200): last 3 finished games ===
 2026-11-02 A 1-1 v Jong Ajax | Eerste Divisie | Amsterdam
 2026-10-28 A 2-0 v VVV Venlo | KNVB Beker | Venlo
-Listed home: no games
+2026-10-23 H 0-2 v Emmen | Eerste Divisie | Arnhem
+Listed home: 1 games, scored 0 (0.00), conceded 2 (2.00), blanks 1, clean sheets 0
 Listed away: 2 games, scored 3 (1.50), conceded 1 (0.50), blanks 0, clean sheets 1
-All: 2 games, scored 3 (1.50), conceded 1 (0.50), blanks 0, clean sheets 1
+All: 3 games, scored 3 (1.00), conceded 3 (1.00), blanks 1, clean sheets 1
 
 TABLE FOR De Graafschap
 LEAGUE TABLE Eerste Divisie 2026 | 100 teams | 278 games played

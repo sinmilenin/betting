@@ -1,0 +1,50 @@
+MATCH Picerno v Bari | fetched 2026-11-10 05:51 local
+
+FORM DATA Picerno v Bari | source API-Football | 2026-11-10 05:51 UTC
+H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
+
+=== AZ Picerno (id 1587): last 2 finished games ===
+2026-11-09 H 1-1 v Bari | Serie C - Girone C | Picerno
+2026-10-31 A 2-1 v Cavese | Serie C - Girone C | ?
+Listed home: 1 games, scored 1 (1.00), conceded 1 (1.00), blanks 0, clean sheets 0
+Listed away: 1 games, scored 2 (2.00), conceded 1 (1.00), blanks 0, clean sheets 0
+All: 2 games, scored 3 (1.50), conceded 2 (1.00), blanks 0, clean sheets 0
+
+=== Bari (id 508): last 2 finished games ===
+2026-11-09 A 1-1 v AZ Picerno | Serie C - Girone C | Picerno
+2026-10-31 H 1-1 v Scafatese | Serie C - Girone C | Bari
+Listed home: 1 games, scored 1 (1.00), conceded 1 (1.00), blanks 0, clean sheets 0
+Listed away: 1 games, scored 1 (1.00), conceded 1 (1.00), blanks 0, clean sheets 0
+All: 2 games, scored 2 (1.00), conceded 2 (1.00), blanks 0, clean sheets 0
+
+TABLE FOR AZ Picerno
+LEAGUE TABLE Serie C - Girone C 2026 | 20 teams | 130 games played
+League averages per game: home 1.58, away 1.15, total 2.74
+#   team                   Pts | home P GF-GA  | away P GF-GA  | all P GF-GA
+1   Potenza                 32 |  6  19-8       |  7  16-10      | 13  35-18
+2   Bari                    23 |  7   8-1       |  6   8-8       | 13  16-9
+3   Catania                 22 |  7  16-5       |  6  10-8       | 13  26-13
+4   Scafatese               21 |  6  10-5       |  7  12-12      | 13  22-17
+5   Audace Cerignola        20 |  6  12-1       |  7   8-14      | 13  20-15
+6   SS Monopoli             20 |  6   7-2       |  7   6-7       | 13  13-9
+7   Inter U23               20 |  7  12-12      |  6  10-8       | 13  22-20
+8   Casertana               20 |  7  12-9       |  6   5-6       | 13  17-15
+9   Sorrento                20 |  6   6-4       |  7  10-11      | 13  16-15
+10  AZ Picerno              19 |  7  16-11      |  6   7-9       | 13  23-20
+11  Cavese                  16 |  6  17-10      |  7   6-12      | 13  23-22
+12  Team Altamura           16 |  7   7-13      |  6   6-6       | 13  13-19
+13  Giugliano               16 |  7  13-12      |  6   4-17      | 13  17-29
+14  Salernitana             15 |  7  12-9       |  6   3-8       | 13  15-17
+15  Barletta                15 |  6   7-6       |  7   7-10      | 13  14-16
+16  Foggia                  15 |  7   5-7       |  6   8-9       | 13  13-16
+17  Casarano                15 |  6  10-7       |  7   5-14      | 13  15-21
+18  Savoia                  12 |  6   7-9       |  7   7-12      | 13  14-21
+19  Cosenza                 10 |  6   4-8       |  7   6-15      | 13  10-23
+20  Crotone                  1 |  7   6-11      |  6   6-10      | 13  12-21
+
+(Bari: same table as AZ Picerno, shown above)
+
+(5 API-Football requests used)
+
+----------------------------------------------------------------------
+MATCHBOOK: skipped (switched off for this run)

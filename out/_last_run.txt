@@ -1,9 +1,14 @@
-RUN 2026-11-09 19:59 local | 6 match(es)
+RUN 2026-11-10 05:51 local | 9 match(es)
 Vitesse v De Graafschap -> out/Vitesse_v_De_Graafschap.txt
-FC Koln W v RB Leipzig W -> out/FC_Koln_W_v_RB_Leipzig_W.txt
-Al Ain U23 v Al Wahda U23 -> out/Al_Ain_U23_v_Al_Wahda_U23.txt
-Atletico Madrid W v Badalona W -> out/Atletico_Madrid_W_v_Badalona_W.txt
+Picerno v Bari -> out/Picerno_v_Bari.txt
+Chelmsford City v Ebbsfleet United -> out/Chelmsford_City_v_Ebbsfleet_United.txt
+Las Palmas v Eldense -> out/Las_Palmas_v_Eldense.txt
+Lito v Danubio -> out/Lito_v_Danubio.txt
 Mushuc Runa v Delfin -> out/Mushuc_Runa_v_Delfin.txt
-Deportes Tolima v Millonarios FC -> out/Deportes_Tolima_v_Millonarios_FC.txt
-    !! Millonarios FC: No team found for "Millonarios FC".
-Requests used: API-Football 32, Matchbook 0
+Sabadell v Real Sociedad B -> out/Sabadell_v_Real_Sociedad_B.txt
+    !! Real Sociedad B: No team found for "Real Sociedad B".
+Torreense v Leiria -> out/Torreense_v_Leiria.txt
+    !! Leiria: Ambiguous team name "Leiria".
+West Brom U21 v Bromley U21 -> out/West_Brom_U21_v_Bromley_U21.txt
+    !! West Brom U21: No team found for "West Brom U21".
+Requests used: API-Football 46, Matchbook 0

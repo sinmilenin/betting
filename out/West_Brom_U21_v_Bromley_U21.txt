@@ -1,0 +1,20 @@
+MATCH West Brom U21 v Bromley U21 | fetched 2026-11-10 05:51 local
+
+FORM DATA West Brom U21 v Bromley U21 | source API-Football | 2026-11-10 05:51 UTC
+H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
+
+=== Bromley U21 (id 24846): last 2 finished games ===
+2026-11-09 A 3-2 v West Bromwich Albion U21 | Premier League Cup | ?
+2026-10-13 H 1-2 v Coventry City U21 | Premier League Cup | London
+Listed home: 1 games, scored 1 (1.00), conceded 2 (2.00), blanks 0, clean sheets 0
+Listed away: 1 games, scored 3 (3.00), conceded 2 (2.00), blanks 0, clean sheets 0
+All: 2 games, scored 4 (2.00), conceded 4 (2.00), blanks 0, clean sheets 0
+
+!! West Brom U21: No team found for "West Brom U21".
+
+(no league table available for Bromley U21: tried Premier League Cup 2026)
+
+(4 API-Football requests used)
+
+----------------------------------------------------------------------
+MATCHBOOK: skipped (switched off for this run)

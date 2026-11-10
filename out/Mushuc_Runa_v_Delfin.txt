@@ -1,14 +1,14 @@
-MATCH Mushuc Runa v Delfin | fetched 2026-11-09 19:59 local
+MATCH Mushuc Runa v Delfin | fetched 2026-11-10 05:51 local
 
-FORM DATA Mushuc Runa v Delfin | source API-Football | 2026-11-09 19:59 UTC
+FORM DATA Mushuc Runa v Delfin | source API-Football | 2026-11-10 05:51 UTC
 H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
 
 === Mushuc Runa SC (id 1162): last 2 finished games ===
+2026-11-09 H 2-1 v Delfin SC | Liga Pro | Ambato
 2026-11-03 H 2-3 v Manta FC | Liga Pro | Ambato
-2026-10-26 A 0-3 v Tecnico Universitario | Liga Pro | Ambato
-Listed home: 1 games, scored 2 (2.00), conceded 3 (3.00), blanks 0, clean sheets 0
-Listed away: 1 games, scored 0 (0.00), conceded 3 (3.00), blanks 1, clean sheets 0
-All: 2 games, scored 2 (1.00), conceded 6 (3.00), blanks 1, clean sheets 0
+Listed home: 2 games, scored 4 (2.00), conceded 4 (2.00), blanks 0, clean sheets 0
+Listed away: no games
+All: 2 games, scored 4 (2.00), conceded 4 (2.00), blanks 0, clean sheets 0
 
 "Delfin" matches several teams. Use id:<number> instead of the name:
   id:1149   Delfin SC (Ecuador)
@@ -19,15 +19,15 @@ All: 2 games, scored 2 (1.00), conceded 6 (3.00), blanks 1, clean sheets 0
 (retrying Delfin using the opponent's country, Ecuador)
 NOTE: "Delfin" matched 5 teams; picked Delfin SC (Ecuador) because the opponent is from Ecuador. Others: Delfines Del Este (Dominican-Republic), Gundelfingen (Germany), Il Delfino (Italy), Delfines Coatzacoalcos (Mexico)
 === Delfin SC (id 1149): last 2 finished games ===
+2026-11-09 A 1-2 v Mushuc Runa SC | Liga Pro | Ambato
 2026-11-06 A 0-2 v Independiente del Valle | Copa Ecuador | Quito
-2026-10-31 H 3-1 v Deportivo Cuenca | Liga Pro | Manta
-Listed home: 1 games, scored 3 (3.00), conceded 1 (1.00), blanks 0, clean sheets 0
-Listed away: 1 games, scored 0 (0.00), conceded 2 (2.00), blanks 1, clean sheets 0
-All: 2 games, scored 3 (1.50), conceded 3 (1.50), blanks 1, clean sheets 0
+Listed home: no games
+Listed away: 2 games, scored 1 (0.50), conceded 4 (2.00), blanks 1, clean sheets 0
+All: 2 games, scored 1 (0.50), conceded 4 (2.00), blanks 1, clean sheets 0
 
 TABLE FOR Mushuc Runa SC
-LEAGUE TABLE Liga Pro 2026 | 32 teams | 525 games played
-League averages per game: home 1.31, away 0.99, total 2.30
+LEAGUE TABLE Liga Pro 2026 | 32 teams | 526 games played
+League averages per game: home 1.32, away 0.99, total 2.30
 #   team                   Pts | home P GF-GA  | away P GF-GA  | all P GF-GA
 1   Independiente del Vall  74 | 15  36-15      | 15  37-18      | 30  73-33 [Liga Pro: Regular season]
 2   Universidad Catolica    51 | 15  37-14      | 15  14-13      | 30  51-27 [Liga Pro: Regular season]
@@ -56,15 +56,15 @@ League averages per game: home 1.31, away 0.99, total 2.30
 9   Leones del Norte        47 | 18  24-18      | 18  16-23      | 36  40-41 [Liga Pro: Placement Group]
 10  Emelec                  45 | 18  18-18      | 18  14-25      | 36  32-43 [Liga Pro: Placement Group]
 11  Deportivo Cuenca        47 | 18  20-20      | 18  13-22      | 36  33-42 [Liga Pro: Relegation Group]
-12  Mushuc Runa SC          40 | 17  19-18      | 18  22-31      | 35  41-49 [Liga Pro: Relegation Group]
+12  Mushuc Runa SC          43 | 18  21-19      | 18  22-31      | 36  43-50 [Liga Pro: Relegation Group]
 13  Orense SC               39 | 18  28-23      | 18  15-30      | 36  43-53 [Liga Pro: Relegation Group]
-14  Delfin SC               38 | 18  20-15      | 17  10-26      | 35  30-41 [Liga Pro: Relegation Group]
+14  Delfin SC               38 | 18  20-15      | 18  11-28      | 36  31-43 [Liga Pro: Relegation Group]
 15  Tecnico Universitario   37 | 17  22-22      | 18  12-25      | 35  34-47 [Liga Pro: Relegation Group]
 16  Manta FC                30 | 18  10-17      | 17  15-34      | 35  25-51 [Liga Pro: Relegation Group]
 
 (Delfin SC: same table as Mushuc Runa SC, shown above)
 
-(7 API-Football requests used)
+(6 API-Football requests used)
 
 ----------------------------------------------------------------------
 MATCHBOOK: skipped (switched off for this run)
