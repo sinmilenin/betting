@@ -1,7 +1,3 @@
-RUN 2026-11-10 17:15 local | 4 match(es)
-Boston River v Montevideo City Torque -> out/Boston_River_v_Montevideo_City_Torque.txt
-    !! Montevideo City Torque: No team found for "Montevideo City Torque".
-Scarborough Athletic v Marine -> out/Scarborough_Athletic_v_Marine.txt
-Hemel Hempstead Town v Torquay United -> out/Hemel_Hempstead_Town_v_Torquay_United.txt
-Morecambe v Hereford -> out/Morecambe_v_Hereford.txt
-Requests used: API-Football 92, Matchbook 0
+RUN 2026-11-10 17:16 local | 1 match(es)
+Boston River v Atletico Torque -> out/Boston_River_v_Atletico_Torque.txt
+Requests used: API-Football 26, Matchbook 0

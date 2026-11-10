@@ -1,6 +1,6 @@
-MATCH Boston River v Montevideo City Torque | fetched 2026-11-10 17:15 local
+MATCH Boston River v Atletico Torque | fetched 2026-11-10 17:16 local
 
-FORM DATA Boston River v Montevideo City Torque | source API-Football | 2026-11-10 17:15 UTC
+FORM DATA Boston River v Atletico Torque | source API-Football | 2026-11-10 17:16 UTC
 H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
 
 === Boston River (id 2361): last 20 finished games ===
@@ -28,7 +28,30 @@ Listed home: 9 games, scored 9 (1.00), conceded 7 (0.78), blanks 3, clean sheets
 Listed away: 11 games, scored 14 (1.27), conceded 16 (1.45), blanks 4, clean sheets 2
 All: 20 games, scored 23 (1.15), conceded 23 (1.15), blanks 7, clean sheets 7
 
-!! Montevideo City Torque: No team found for "Montevideo City Torque".
+=== Atletico Torque (id 2365): last 20 finished games ===
+2026-11-06 A 6-0 v Libertad San Carlos | Copa Uruguay | Maldonado
+2026-11-01 A 2-1 v Boston River | Primera División | Las Piedras
+2026-10-27 A 2-0 v Penarol | Copa Uruguay | Montevideo
+2026-10-25 H 3-1 v Cerro | Primera División | Montevideo
+2026-10-21 H 2-0 v Atletico-MG | CONMEBOL Sudamericana | Montevideo | xG 3.58-0.61
+2026-10-18 A 1-2 v Albion FC | Primera División | Montevideo
+2026-10-14 A 0-3 v Atletico-MG | CONMEBOL Sudamericana | Belo Horizonte | xG 0.31-2.16
+2026-10-09 H 1-0 v Danubio | Primera División | Montevideo
+2026-10-05 A 0-2 v Club Nacional | Primera División | Montevideo
+2026-09-30 H 1-1 v Penarol | Primera División | Montevideo
+2026-09-27 H 0-2 v Deportivo Maldonado | Primera División | Montevideo
+2026-09-24 H 3-3 v Atenas | Copa Uruguay | ?
+2026-09-21 A 4-1 v Central Espanol | Primera División | Montevideo
+2026-09-18 H 3-0 v Cienciano | CONMEBOL Sudamericana | Montevideo
+2026-09-14 H 3-1 v Liverpool Montevideo | Primera División | Montevideo
+2026-09-11 A 0-2 v Cienciano | CONMEBOL Sudamericana | Cusco
+2026-09-04 H 2-1 v Cerro Largo | Primera División | Montevideo
+2026-09-01 H 2-0 v Danubio | Copa Uruguay | ?
+2026-08-29 A 3-1 v Defensor Sporting | Primera División | Montevideo
+2026-08-26 A 0-1 v Penarol | Copa Uruguay | Montevideo
+Listed home: 10 games, scored 20 (2.00), conceded 9 (0.90), blanks 1, clean sheets 4
+Listed away: 10 games, scored 18 (1.80), conceded 13 (1.30), blanks 4, clean sheets 2
+All: 20 games, scored 38 (1.90), conceded 22 (1.10), blanks 5, clean sheets 6
 
 TABLE FOR Boston River
 LEAGUE TABLE Primera División 2026 | 80 teams | 224 games played
@@ -115,7 +138,9 @@ League averages per game: home 1.33, away 1.10, total 2.43
 15  Cerro Largo              9 |  7   5-6       |  6   5-11      | 13  10-17 [Primera: Clausura]
 16  Central Espanol          8 |  7   5-12      |  6   3-10      | 13   8-22 [Primera: Clausura]
 
-(15 API-Football requests used)
+(Atletico Torque: same table as Boston River, shown above)
+
+(26 API-Football requests used)
 
 ----------------------------------------------------------------------
 MATCHBOOK: skipped (switched off for this run)
