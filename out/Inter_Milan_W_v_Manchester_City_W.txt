@@ -1,11 +1,8 @@
-MATCH Inter W v Manchester City W | fetched 2026-11-10 06:44 local
+MATCH Inter Milan W v Manchester City W | fetched 2026-11-10 06:45 local
 
-FORM DATA Inter W v Manchester City W | source API-Football | 2026-11-10 06:44 UTC
+FORM DATA Inter Milan W v Manchester City W | source API-Football | 2026-11-10 06:45 UTC
 H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
 
-"Inter W" matches several teams. Use id:<number> instead of the name:
-  id:12214  FC Inter Wanica (Suriname)
-  id:14020  Inter Willemstad (Curacao)
 === Manchester City W (id 1854): last 20 finished games ===
 2026-11-07 H 5-0 v West Ham W | FA WSL | Manchester | xG 2.14-1.02
 2026-11-01 A 2-1 v London City Lionesses W | FA WSL | Dartford | xG 1.99-3.18
@@ -31,11 +28,7 @@ Listed home: 9 games, scored 27 (3.00), conceded 11 (1.22), blanks 0, clean shee
 Listed away: 11 games, scored 26 (2.36), conceded 11 (1.00), blanks 0, clean sheets 4
 All: 20 games, scored 53 (2.65), conceded 22 (1.10), blanks 0, clean sheets 6
 
-(retrying Inter W using the opponent's country, England)
-"Inter W" matches several teams. Use id:<number> instead of the name:
-  id:12214  FC Inter Wanica (Suriname)
-  id:14020  Inter Willemstad (Curacao)
-!! Inter W: Ambiguous team name "Inter W".
+!! Inter Milan W: No team found for "Inter Milan W".
 
 TABLE FOR Manchester City W
 LEAGUE TABLE FA WSL 2026 | 14 teams | 63 games played
@@ -56,7 +49,7 @@ League averages per game: home 1.67, away 1.62, total 3.29
 13  Birmingham City W        6 |  4   7-9       |  5   4-12      |  9  11-21
 14  Charlton Athletic W      0 |  5   2-18      |  4   3-10      |  9   5-28
 
-(15 API-Football requests used)
+(14 API-Football requests used)
 
 ----------------------------------------------------------------------
 MATCHBOOK: skipped (switched off for this run)

@@ -1,10 +1,6 @@
-RUN 2026-11-10 06:44 local | 5 match(es)
-Burton Albion v Notts County -> out/Burton_Albion_v_Notts_County.txt
-Crewe v Wigan -> out/Crewe_v_Wigan.txt
-Bromley v MK Dons -> out/Bromley_v_MK_Dons.txt
-    !! MK Dons: No team found for "MK Dons".
-Inter W v Manchester City W -> out/Inter_W_v_Manchester_City_W.txt
-    !! Inter W: Ambiguous team name "Inter W".
-BK Hacken W v Chelsea W -> out/BK_Hacken_W_v_Chelsea_W.txt
-    !! BK Hacken W: No team found for "BK Hacken W".
-Requests used: API-Football 92, Matchbook 0
+RUN 2026-11-10 06:45 local | 3 match(es)
+Bromley v Milton Keynes Dons -> out/Bromley_v_Milton_Keynes_Dons.txt
+Inter Milan W v Manchester City W -> out/Inter_Milan_W_v_Manchester_City_W.txt
+    !! Inter Milan W: No team found for "Inter Milan W".
+Hacken W v Chelsea W -> out/Hacken_W_v_Chelsea_W.txt
+Requests used: API-Football 65, Matchbook 0
