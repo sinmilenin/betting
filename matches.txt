@@ -1,6 +1,2 @@
-# scan 10.11 13:40 (regular + top-20)
-Northampton v Gillingham | n=20 | xg=10
-Al Mokawloon v Telecom Egypt | n=20 | xg=10
-Stockport County v Tranmere | n=20 | xg=10
-Bradford v York | n=20 | xg=10
-Metalul Buzau v Steaua Bucuresti | n=20 | xg=10
+# scan 10.11 13:40 retry (Telecom Egypt name)
+Al Mokawloon v Telecom | n=20 | xg=10
