@@ -1,3 +1,3 @@
-RUN 2026-11-10 06:46 local | 1 match(es)
-Inter Milano W v Manchester City W -> out/Inter_Milano_W_v_Manchester_City_W.txt
-Requests used: API-Football 26, Matchbook 0
+RUN 2026-11-10 10:27 local | 1 match(es)
+Vietnam U23 v Thailand U23 -> out/Vietnam_U23_v_Thailand_U23.txt
+Requests used: API-Football 25, Matchbook 0
