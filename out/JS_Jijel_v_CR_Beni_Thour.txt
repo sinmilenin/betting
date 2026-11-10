@@ -1,7 +1,32 @@
-MATCH JSD Jijel v CR Beni Thour | fetched 2026-11-10 11:13 local
+MATCH JS Jijel v CR Beni Thour | fetched 2026-11-10 11:14 local
 
-FORM DATA JSD Jijel v CR Beni Thour | source API-Football | 2026-11-10 11:13 UTC
+FORM DATA JS Jijel v CR Beni Thour | source API-Football | 2026-11-10 11:14 UTC
 H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
+
+=== JS Jijel (id 20712): last 20 finished games ===
+2026-11-06 H 1-0 v Khroub | Ligue 2 | ?
+2026-10-31 A 0-0 v USM Annaba | Ligue 2 | ?
+2026-10-24 H 1-1 v NC Magra | Ligue 2 | ?
+2026-10-17 A 0-2 v Paradou AC | Ligue 2 | ?
+2026-10-13 H 1-2 v MSP Batna | Ligue 2 | ?
+2026-10-09 A 0-2 v Nrb Beni Oulbene | Ligue 2 | ?
+2026-10-03 H 0-0 v Azazga | Ligue 2 | ?
+2026-09-26 A 0-1 v IRB Nezla | Ligue 2 | ?
+2026-05-09 H 1-4 v MSP Batna | Ligue 2 | ?
+2026-05-02 A 1-3 v US Chaouia | Ligue 2 | ?
+2026-04-21 H 1-0 v USM Annaba | Ligue 2 | ?
+2026-04-17 A 1-1 v Khroub | Ligue 2 | ?
+2026-04-10 H 0-1 v JS Bordj Ménaïel | Ligue 2 | ?
+2026-04-04 A 3-0 v Nrb Beni Oulbene | Ligue 2 | ?
+2026-03-27 H 4-1 v Teleghma | Ligue 2 | ?
+2026-03-14 A 1-2 v CA Batna | Ligue 2 | Batna
+2026-03-06 H 0-0 v MO Bejaia | Ligue 2 | ?
+2026-02-27 A 2-0 v NC Magra | Ligue 2 | Magra
+2026-02-17 A 0-0 v MO Constantine | Ligue 2 | ?
+2026-02-13 H 1-0 v IB Khémis El Khechna | Ligue 2 | ?
+Listed home: 10 games, scored 10 (1.00), conceded 9 (0.90), blanks 3, clean sheets 5
+Listed away: 10 games, scored 8 (0.80), conceded 11 (1.10), blanks 5, clean sheets 4
+All: 20 games, scored 18 (0.90), conceded 20 (1.00), blanks 8, clean sheets 9
 
 === CR Béni Thour (id 10735): last 20 finished games ===
 2026-11-06 H 1-0 v NC Magra | Ligue 2 | ?
@@ -28,9 +53,7 @@ Listed home: 10 games, scored 6 (0.60), conceded 9 (0.90), blanks 5, clean sheet
 Listed away: 10 games, scored 9 (0.90), conceded 22 (2.20), blanks 5, clean sheets 0
 All: 20 games, scored 15 (0.75), conceded 31 (1.55), blanks 10, clean sheets 5
 
-!! JSD Jijel: No team found for "JSD Jijel".
-
-TABLE FOR CR Béni Thour
+TABLE FOR JS Jijel
 LEAGUE TABLE Ligue 2 2026 | 32 teams | 138 games played
 League averages per game: home 1.45, away 0.75, total 2.20
 #   team                   Pts | home P GF-GA  | away P GF-GA  | all P GF-GA
@@ -67,7 +90,9 @@ League averages per game: home 1.45, away 0.75, total 2.20
 15  El Bayadh                4 |  4   2-3       |  5   0-6       |  9   2-9 [West]
 16  Taghit                   1 |  4   1-11      |  5   1-17      |  9   2-28 [West]
 
-(14 API-Football requests used)
+(CR Béni Thour: same table as JS Jijel, shown above)
+
+(25 API-Football requests used)
 
 ----------------------------------------------------------------------
 MATCHBOOK: skipped (switched off for this run)
