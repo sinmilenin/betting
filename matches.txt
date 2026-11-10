@@ -1,10 +1,6 @@
-# settle 10.11 06:55 (results check, manual)
-Vitesse v De Graafschap | n=3 | xg=0
-Picerno v Bari | n=2 | xg=0
-Chelmsford City v Ebbsfleet United | n=2 | xg=0
-Las Palmas v Eldense | n=2 | xg=0
-Lito v Danubio | n=2 | xg=0
-Mushuc Runa v Delfin | n=2 | xg=0
-Sabadell v Real Sociedad B | n=2 | xg=0
-Torreense v Leiria | n=2 | xg=0
-West Brom U21 v Bromley U21 | n=2 | xg=0
+# scan 10.11 07:42 (top-20 run) form for paper candidates
+Burton Albion v Notts County | n=20 | xg=10
+Crewe v Wigan | n=20 | xg=10
+Bromley v MK Dons | n=20 | xg=10
+Inter W v Manchester City W | n=20 | xg=10
+BK Hacken W v Chelsea W | n=20 | xg=10
