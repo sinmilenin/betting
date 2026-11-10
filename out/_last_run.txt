@@ -1,8 +1,4 @@
-RUN 2026-11-10 12:45 local | 5 match(es)
-Northampton v Gillingham -> out/Northampton_v_Gillingham.txt
-Al Mokawloon v Telecom Egypt -> out/Al_Mokawloon_v_Telecom_Egypt.txt
-    !! Telecom Egypt: No team found for "Telecom Egypt".
-Stockport County v Tranmere -> out/Stockport_County_v_Tranmere.txt
-Bradford v York -> out/Bradford_v_York.txt
-Metalul Buzau v Steaua Bucuresti -> out/Metalul_Buzau_v_Steaua_Bucuresti.txt
-Requests used: API-Football 114, Matchbook 0
+RUN 2026-11-10 12:46 local | 1 match(es)
+Al Mokawloon v Telecom -> out/Al_Mokawloon_v_Telecom.txt
+    !! Telecom: No team found for "Telecom".
+Requests used: API-Football 14, Matchbook 0
