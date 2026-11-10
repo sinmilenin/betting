@@ -1,0 +1,73 @@
+MATCH JSD Jijel v CR Beni Thour | fetched 2026-11-10 11:13 local
+
+FORM DATA JSD Jijel v CR Beni Thour | source API-Football | 2026-11-10 11:13 UTC
+H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
+
+=== CR Béni Thour (id 10735): last 20 finished games ===
+2026-11-06 H 1-0 v NC Magra | Ligue 2 | ?
+2026-10-31 A 0-1 v Nrb Beni Oulbene | Ligue 2 | ?
+2026-10-24 H 1-2 v USM Annaba | Ligue 2 | ?
+2026-10-19 A 0-3 v Azazga | Ligue 2 | ?
+2026-10-13 H 2-1 v IRB Nezla | Ligue 2 | ?
+2026-10-09 A 1-2 v MSP Batna | Ligue 2 | ?
+2026-10-02 A 1-2 v MO Constantine | Ligue 2 | ?
+2026-09-26 H 1-3 v MO Bejaia | Ligue 2 | ?
+2026-05-09 A 3-2 v IB Khémis El Khechna | Ligue 2 | ?
+2026-05-02 H 0-2 v US Biskra | Ligue 2 | ?
+2026-04-21 H 0-0 v MSP Batna | Ligue 2 | ?
+2026-04-17 A 3-2 v HB Chelghoum Laïd | Ligue 2 | ?
+2026-04-10 H 0-0 v USM Annaba | Ligue 2 | ?
+2026-04-04 A 0-4 v US Chaouia | Ligue 2 | ?
+2026-03-27 H 1-0 v JS Bordj Ménaïel | Ligue 2 | ?
+2026-03-14 A 0-2 v Khroub | Ligue 2 | ?
+2026-03-06 H 0-1 v NC Magra | Ligue 2 | ?
+2026-02-27 A 0-1 v Nrb Beni Oulbene | Ligue 2 | ?
+2026-02-17 H 0-0 v CA Batna | Ligue 2 | ?
+2026-02-13 A 1-3 v Teleghma | Ligue 2 | ?
+Listed home: 10 games, scored 6 (0.60), conceded 9 (0.90), blanks 5, clean sheets 5
+Listed away: 10 games, scored 9 (0.90), conceded 22 (2.20), blanks 5, clean sheets 0
+All: 20 games, scored 15 (0.75), conceded 31 (1.55), blanks 10, clean sheets 5
+
+!! JSD Jijel: No team found for "JSD Jijel".
+
+TABLE FOR CR Béni Thour
+LEAGUE TABLE Ligue 2 2026 | 32 teams | 138 games played
+League averages per game: home 1.45, away 0.75, total 2.20
+#   team                   Pts | home P GF-GA  | away P GF-GA  | all P GF-GA
+1   MSP Batna               17 |  4   7-2       |  5   6-6       |  9  13-8 [East]
+2   Azazga                  17 |  4   9-3       |  5   3-6       |  9  12-9 [East]
+3   USM Annaba              15 |  5   8-1       |  4   4-5       |  9  12-6 [East]
+4   JSM Skikda              15 |  5   9-3       |  3   3-6       |  8  12-9 [East]
+5   MO Bejaia               14 |  4   5-2       |  4   5-4       |  8  10-6 [East]
+6   NC Magra                14 |  4   5-0       |  5   4-8       |  9   9-8 [East]
+7   MO Constantine          13 |  4   5-3       |  5   4-7       |  9   9-10 [East]
+8   Khroub                  12 |  5   5-4       |  4   1-2       |  9   6-6 [East]
+9   Paradou AC              11 |  3   9-3       |  5   2-5       |  8  11-8 [East]
+10  CA Batna                11 |  5   5-3       |  4   1-2       |  9   6-5 [East]
+11  Nrb Beni Oulbene        11 |  4   4-0       |  5   1-7       |  9   5-7 [East]
+12  US Chaouia              11 |  5   6-3       |  4   1-8       |  9   7-11 [East]
+13  Teleghma                 9 |  5   6-5       |  4   5-8       |  9  11-13 [East]
+14  IRB Nezla                7 |  4   5-3       |  4   2-9       |  8   7-12 [East]
+15  JS Jijel                 6 |  4   3-3       |  4   0-5       |  8   3-8 [East]
+16  CR Béni Thour            6 |  4   5-6       |  4   2-8       |  8   7-14 [East]
+1   GC Mascara              21 |  5  12-2       |  4   6-3       |  9  18-5 [West]
+2   Blida                   21 |  4   8-1       |  5   5-2       |  9  13-3 [West]
+3   RC Kouba                19 |  4  10-0       |  5   8-4       |  9  18-4 [West]
+4   Mostaganem              15 |  5   5-3       |  4   5-4       |  9  10-7 [West]
+5   MC Saida                15 |  5   5-3       |  3   3-2       |  8   8-5 [West]
+6   Usm El Harrach          14 |  5   9-1       |  4   2-8       |  9  11-9 [West]
+7   Sidi Benali             14 |  5  12-7       |  4   1-6       |  9  13-13 [West]
+8   ASM Oran                13 |  4   9-2       |  5   2-3       |  9  11-5 [West]
+9   Hussein Dey             12 |  5   8-3       |  4   3-12      |  9  11-15 [West]
+10  WA Mostaganem           10 |  4   4-1       |  5   5-9       |  9   9-10 [West]
+11  WA Tlemcen               8 |  4   5-4       |  4   2-7       |  8   7-11 [West]
+12  Tiaret                   7 |  4   3-4       |  5  10-8       |  9  13-12 [West]
+13  RC Arba                  7 |  2   4-3       |  4   4-7       |  6   8-10 [West]
+14  Koléa                    6 |  5   7-11      |  3   2-6       |  8   9-17 [West]
+15  El Bayadh                4 |  4   2-3       |  5   0-6       |  9   2-9 [West]
+16  Taghit                   1 |  4   1-11      |  5   1-17      |  9   2-28 [West]
+
+(14 API-Football requests used)
+
+----------------------------------------------------------------------
+MATCHBOOK: skipped (switched off for this run)

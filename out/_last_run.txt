@@ -1,3 +1,7 @@
-RUN 2026-11-10 10:27 local | 1 match(es)
-Vietnam U23 v Thailand U23 -> out/Vietnam_U23_v_Thailand_U23.txt
-Requests used: API-Football 25, Matchbook 0
+RUN 2026-11-10 11:13 local | 3 match(es)
+Hull City U21 v Fleetwood Town U21 -> out/Hull_City_U21_v_Fleetwood_Town_U21.txt
+JSD Jijel v CR Beni Thour -> out/JSD_Jijel_v_CR_Beni_Thour.txt
+    !! JSD Jijel: No team found for "JSD Jijel".
+Colchester United U21 v Charlton U21 -> out/Colchester_United_U21_v_Charlton_U21.txt
+    !! Charlton U21: No team found for "Charlton U21".
+Requests used: API-Football 53, Matchbook 0
