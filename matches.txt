@@ -1,7 +1,4 @@
-# scan 10.11 17:26
-Barnet v Leyton Orient | n=20 | xg=10
-Amorebieta v UD Logrones | n=20 | xg=10
-Mansfield v Chesterfield | n=20 | xg=10
-Plymouth v Swindon | n=20 | xg=10
-Grimsby v Nottingham Forest U21 | n=20 | xg=10
-Mijas v Real Jaen | n=20 | xg=10
+# scan 10.11 17:26 retry (ids/names)
+Amorebieta v id:5280 | n=20 | xg=10
+Mansfield Town v Chesterfield | n=20 | xg=10
+Plymouth v Swindon Town | n=20 | xg=10
