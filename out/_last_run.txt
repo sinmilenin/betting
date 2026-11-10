@@ -1,14 +1,10 @@
-RUN 2026-11-10 05:51 local | 9 match(es)
-Vitesse v De Graafschap -> out/Vitesse_v_De_Graafschap.txt
-Picerno v Bari -> out/Picerno_v_Bari.txt
-Chelmsford City v Ebbsfleet United -> out/Chelmsford_City_v_Ebbsfleet_United.txt
-Las Palmas v Eldense -> out/Las_Palmas_v_Eldense.txt
-Lito v Danubio -> out/Lito_v_Danubio.txt
-Mushuc Runa v Delfin -> out/Mushuc_Runa_v_Delfin.txt
-Sabadell v Real Sociedad B -> out/Sabadell_v_Real_Sociedad_B.txt
-    !! Real Sociedad B: No team found for "Real Sociedad B".
-Torreense v Leiria -> out/Torreense_v_Leiria.txt
-    !! Leiria: Ambiguous team name "Leiria".
-West Brom U21 v Bromley U21 -> out/West_Brom_U21_v_Bromley_U21.txt
-    !! West Brom U21: No team found for "West Brom U21".
-Requests used: API-Football 46, Matchbook 0
+RUN 2026-11-10 06:44 local | 5 match(es)
+Burton Albion v Notts County -> out/Burton_Albion_v_Notts_County.txt
+Crewe v Wigan -> out/Crewe_v_Wigan.txt
+Bromley v MK Dons -> out/Bromley_v_MK_Dons.txt
+    !! MK Dons: No team found for "MK Dons".
+Inter W v Manchester City W -> out/Inter_W_v_Manchester_City_W.txt
+    !! Inter W: Ambiguous team name "Inter W".
+BK Hacken W v Chelsea W -> out/BK_Hacken_W_v_Chelsea_W.txt
+    !! BK Hacken W: No team found for "BK Hacken W".
+Requests used: API-Football 92, Matchbook 0

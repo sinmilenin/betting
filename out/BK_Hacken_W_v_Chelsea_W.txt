@@ -1,0 +1,55 @@
+MATCH BK Hacken W v Chelsea W | fetched 2026-11-10 06:44 local
+
+FORM DATA BK Hacken W v Chelsea W | source API-Football | 2026-11-10 06:44 UTC
+H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
+
+=== Chelsea W (id 1853): last 20 finished games ===
+2026-11-07 H 1-1 v Everton W | FA WSL | Staines | xG 2.18-0.45
+2026-11-01 A 6-0 v Charlton Athletic W | FA WSL | Crayford | xG 4.98-0.52
+2026-10-28 H 2-0 v Roma W | UEFA Champions League Women | Staines | xG 0.00-0.00
+2026-10-25 A 3-1 v Crystal Palace W | FA WSL | London | xG 3.72-1.32
+2026-10-18 H 6-2 v Tottenham Hotspur W | FA WSL | Staines | xG 2.30-1.17
+2026-10-04 A 3-0 v West Ham W | FA WSL | London
+2026-09-30 A 0-0 v Lyon W | UEFA Champions League Women | Lyon
+2026-09-27 H 1-0 v Arsenal W | FA WSL | Staines
+2026-09-23 H 1-0 v Austria Wien W | UEFA Champions League Women | Staines
+2026-09-19 H 2-0 v Birmingham City W | FA WSL | London
+2026-09-13 A 5-0 v Manchester United W | FA WSL | Leigh
+2026-09-05 H 1-1 v Aston Villa W | FA WSL | London
+2026-09-02 A 1-0 v Real Sociedad W | UEFA Champions League Women | San Sebastian
+2026-08-26 H 5-2 v Real Sociedad W | UEFA Champions League Women | London
+2026-05-16 H 1-0 v Manchester United W | FA WSL | London
+2026-05-10 H 2-2 v Manchester City W | FA Women's Cup | London [AET, 90-min score shown]
+2026-05-03 A 3-1 v Leicester City FC W | FA WSL | Leicester
+2026-04-26 A 4-1 v Everton W | FA WSL | Liverpool
+2026-04-06 H 2-1 v Tottenham Hotspur W | FA Women's Cup | London
+2026-04-01 H 1-0 v Arsenal W | UEFA Champions League Women | London
+Listed home: 12 games, scored 25 (2.08), conceded 9 (0.75), blanks 0, clean sheets 6
+Listed away: 8 games, scored 25 (3.12), conceded 3 (0.38), blanks 1, clean sheets 5
+All: 20 games, scored 50 (2.50), conceded 12 (0.60), blanks 1, clean sheets 11
+
+!! BK Hacken W: No team found for "BK Hacken W".
+
+TABLE FOR Chelsea W
+LEAGUE TABLE FA WSL 2026 | 14 teams | 63 games played
+League averages per game: home 1.67, away 1.62, total 3.29
+#   team                   Pts | home P GF-GA  | away P GF-GA  | all P GF-GA
+1   Manchester City W       25 |  5  19-7       |  4   8-3       |  9  27-10
+2   Chelsea W               23 |  5  11-4       |  4  17-1       |  9  28-5
+3   London City Lionesses   19 |  5  11-5       |  4  13-6       |  9  24-11
+4   Tottenham Hotspur W     16 |  5  11-10      |  4  14-8       |  9  25-18
+5   Manchester United W     15 |  4   4-7       |  5   6-4       |  9  10-11
+6   Arsenal W               13 |  4   3-3       |  5   7-7       |  9  10-10
+7   Brighton W              11 |  5  11-4       |  4   5-9       |  9  16-13
+8   Everton W               11 |  4   5-4       |  5   3-6       |  9   8-10
+9   Aston Villa W           10 |  4   4-7       |  5   6-9       |  9  10-16
+10  Crystal Palace W         9 |  5   5-13      |  4   5-6       |  9  10-19
+11  West Ham W               9 |  4   6-6       |  5   3-13      |  9   9-19
+12  Liverpool W              8 |  4   6-5       |  5   8-11      |  9  14-16
+13  Birmingham City W        6 |  4   7-9       |  5   4-12      |  9  11-21
+14  Charlton Athletic W      0 |  5   2-18      |  4   3-10      |  9   5-28
+
+(13 API-Football requests used)
+
+----------------------------------------------------------------------
+MATCHBOOK: skipped (switched off for this run)
