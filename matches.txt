@@ -1,2 +1,4 @@
-# scan 10.11 11:26 Vietnam U23 v Thailand U23
-Vietnam U23 v Thailand U23 | n=20 | xg=10
+# scan 10.11 12:12
+Hull City U21 v Fleetwood Town U21 | n=20 | xg=10
+JSD Jijel v CR Beni Thour | n=20 | xg=10
+Colchester United U21 v Charlton U21 | n=20 | xg=10
