@@ -1,3 +1,3 @@
-# scan 11.11 17:26 (retry names 2)
-Castellon II v Deportiva Minera | n=20 | xg=10
-West Ham United U21 v Juventus U19 | n=20 | xg=10
+# scan 11.11 18:13
+Alcoyano v Elche II | n=20 | xg=10
+Birmingham City W v Sunderland W | n=20 | xg=10
