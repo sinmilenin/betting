@@ -1,3 +1,2 @@
-# scan 11.11 12:19
-Ireland U19 v Greece U19 | n=20 | xg=10
-Switzerland U19 v Malta U19 | n=20 | xg=10
+# scan 11.11 12:19 retry (Ireland id)
+id:10377 v Greece U19 | n=20 | xg=10
