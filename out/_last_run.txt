@@ -1,3 +1,4 @@
 RUN 2026-11-11 14:20 local | 1 match(es)
-Artis v id:1122 -> out/Artis_v_id_1122.txt
-Requests used: API-Football 25, Matchbook 0
+Bosnia v San Marino U19 -> out/Bosnia_v_San_Marino_U19.txt
+    !! Bosnia: Ambiguous team name "Bosnia".
+Requests used: API-Football 15, Matchbook 0
