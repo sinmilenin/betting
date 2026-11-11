@@ -1,2 +1,2 @@
-# scan 11.11 15:56 (Bosnia retry, search Herzegovina)
-Herzegovina U19 v San Marino U19 | n=20 | xg=10
+# scan 11.11 15:56 (Bosnia retry by id)
+id:10359 v San Marino U19 | n=20 | xg=10
