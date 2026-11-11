@@ -1,0 +1,71 @@
+MATCH India v Maldives | fetched 2026-11-11 06:44 local
+
+FORM DATA India v Maldives | source API-Football | 2026-11-11 06:44 UTC
+H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
+
+=== India (id 1537): last 20 finished games ===
+2026-11-05 A 3-2 v Pakistan | SAFF Championship | Dhaka
+2026-10-06 H 1-6 v Uruguay | Friendlies | Kolkata
+2026-10-03 H 0-4 v Brazil | Friendlies | Kolkata | xG 0.49-1.62
+2026-09-25 H 1-1 v Panama | Friendlies | Bangalore
+2026-06-09 A 1-1 v Tajikistan | Friendlies | Hisor
+2026-06-05 A 1-3 v Tajikistan | Friendlies | Hisor
+2026-05-30 H 0-1 v Zimbabwe | Friendlies | London
+2026-05-27 A 0-2 v Jamaica | Friendlies | London
+2026-03-31 H 2-1 v Hong Kong | Asian Cup - Qualification | Kolkata
+2025-11-18 A 0-1 v Bangladesh | Asian Cup - Qualification | Dhaka
+2025-11-13 H 6-1 v Bhutan | Friendlies | ?
+2025-10-14 H 1-2 v Singapore | Asian Cup - Qualification | ?
+2025-10-09 A 1-1 v Singapore | Asian Cup - Qualification | ?
+2025-09-08 H 1-1 v Oman | CAFA Nations Cup | Hisor [PEN, 90-min score shown]
+2025-09-04 A 0-0 v Afghanistan | CAFA Nations Cup | Hisor
+2025-09-01 H 0-3 v Iran | CAFA Nations Cup | Hisor
+2025-08-29 A 2-1 v Tajikistan | CAFA Nations Cup | Hisor
+2025-06-10 A 0-1 v Hong Kong | Asian Cup - Qualification | Hongkong
+2025-06-04 A 0-2 v Thailand | Friendlies | Pathum Thani
+2025-03-25 H 0-0 v Bangladesh | Asian Cup - Qualification | Kolkata
+Listed home: 10 games, scored 12 (1.20), conceded 20 (2.00), blanks 4, clean sheets 1
+Listed away: 10 games, scored 8 (0.80), conceded 14 (1.40), blanks 5, clean sheets 1
+All: 20 games, scored 20 (1.00), conceded 34 (1.70), blanks 9, clean sheets 2
+
+=== Maldives (id 1549): last 20 finished games ===
+2026-11-08 H 0-3 v Pakistan | SAFF Championship | Dhaka
+2026-10-01 H 0-6 v Lebanon | Friendlies | Bishkek
+2026-09-28 A 0-5 v Kyrgyzstan | Friendlies | Bishkek
+2026-09-24 A 0-3 v China | Friendlies | Chongqing
+2026-06-07 H 1-1 v Bangladesh U23 | Friendlies | ?
+2026-06-04 H 0-3 v Pakistan | Friendlies | Malé
+2026-06-01 H 0-1 v Afghanistan | Friendlies | Malé
+2026-03-31 H 2-1 v Timor-Leste | Asian Cup - Qualification | ?
+2025-11-18 H 0-2 v Philippines | Asian Cup - Qualification | ?
+2025-10-14 H 0-3 v Tajikistan | Asian Cup - Qualification | ?
+2025-10-09 A 0-2 v Tajikistan | Asian Cup - Qualification | Dushanbe
+2025-09-09 A 1-1 v Sri Lanka | Friendlies | Colombo
+2025-09-06 A 3-0 v Sri Lanka | Friendlies | Colombo
+2025-06-10 A 0-1 v Timor-Leste | Asian Cup - Qualification | Darwin
+2025-06-05 A 1-3 v Singapore | Friendlies | Singapore
+2025-03-25 A 1-4 v Philippines | Asian Cup - Qualification | Capas
+2025-03-19 A 0-3 v India | Friendlies | Shillong, Meghalaya
+2024-11-16 A 1-2 v Bangladesh | Friendlies | Dhaka
+2024-11-13 A 1-0 v Bangladesh | Friendlies | Dhaka
+2023-10-17 A 1-2 v Bangladesh | World Cup - Qualification Asia | Dhaka
+Listed home: 8 games, scored 3 (0.38), conceded 20 (2.50), blanks 6, clean sheets 0
+Listed away: 12 games, scored 9 (0.75), conceded 26 (2.17), blanks 5, clean sheets 2
+All: 20 games, scored 12 (0.60), conceded 46 (2.30), blanks 11, clean sheets 2
+
+TABLE FOR India
+LEAGUE TABLE SAFF Championship 2026 | 6 teams | 0 games played
+#   team                   Pts | home P GF-GA  | away P GF-GA  | all P GF-GA
+1   Bangladesh               3 |  0   0-0       |  0   0-0       |  1   1-0 [Group A]
+2   Sri Lanka                1 |  0   0-0       |  0   0-0       |  1   2-2 [Group A]
+3   Bhutan                   1 |  0   0-0       |  0   0-0       |  2   2-3 [Group A]
+1   Pakistan                 3 |  0   0-0       |  0   0-0       |  2   5-3 [Group B]
+2   India                    3 |  0   0-0       |  0   0-0       |  1   3-2 [Group B]
+3   Maldives                 0 |  0   0-0       |  0   0-0       |  1   0-3 [Group B]
+
+(Maldives: same table as India, shown above)
+
+(25 API-Football requests used)
+
+----------------------------------------------------------------------
+MATCHBOOK: skipped (switched off for this run)

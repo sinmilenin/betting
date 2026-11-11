@@ -1,0 +1,76 @@
+MATCH Sheffield Wednesday v Accrington | fetched 2026-11-11 06:44 local
+
+FORM DATA Sheffield Wednesday v Accrington | source API-Football | 2026-11-11 06:44 UTC
+H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
+
+=== Sheffield Wednesday (id 74): last 20 finished games ===
+2026-11-08 A 1-1 v Oldham | FA Cup | Oldham [AET, 90-min score shown]
+2026-11-01 H 1-1 v Blackpool | League One | Sheffield | xG 0.71-1.22
+2026-10-27 H 1-1 v Cambridge United | League One | Sheffield | xG 1.73-1.72
+2026-10-24 A 0-2 v Doncaster | League One | Doncaster | xG 1.26-1.30
+2026-10-20 A 0-2 v Notts County | League One | Nottingham | xG 0.28-2.37
+2026-10-17 H 5-0 v AFC Wimbledon | League One | Sheffield | xG 2.60-0.37
+2026-10-10 A 2-2 v Huddersfield | League One | Huddersfield | xG 1.75-1.87
+2026-10-06 H 2-0 v Sunderland U21 | EFL Trophy | Sheffield
+2026-09-22 A 2-1 v Salford City | EFL Trophy | Salford
+2026-09-19 H 0-0 v Stockport County | League One | Sheffield | xG 0.93-1.41
+2026-09-12 H 0-0 v Wigan | League One | Sheffield
+2026-09-05 A 2-1 v Peterborough | League One | Peterborough
+2026-09-01 A 2-1 v Wycombe | League One | High Wycombe
+2026-08-29 H 7-2 v Bromley | League One | Sheffield
+2026-08-25 H 0-2 v Wolves | League Cup | Sheffield
+2026-08-20 H 0-1 v Bradford | League One | Sheffield
+2026-08-15 A 2-1 v Leyton Orient | League One | London
+2026-08-08 H 1-0 v Bolton | League Cup | Sheffield
+2026-08-01 A 0-4 v Oldham | Friendlies Clubs | ?
+2026-08-01 A 0-0 v Accrington ST | Friendlies Clubs | ?
+Listed home: 10 games, scored 17 (1.70), conceded 7 (0.70), blanks 4, clean sheets 5
+Listed away: 10 games, scored 11 (1.10), conceded 15 (1.50), blanks 4, clean sheets 1
+All: 20 games, scored 28 (1.40), conceded 22 (1.10), blanks 8, clean sheets 6
+
+"Accrington" matches several teams. Use id:<number> instead of the name:
+  id:1360   Accrington ST (England)
+  id:19875  Accrington Stanley Res. (England)
+  id:25134  Accrington Stanley (England)
+  id:25423  Accrington Stanley U18 (England)
+(retrying Accrington using the opponent's country, England)
+"Accrington" matches several teams. Use id:<number> instead of the name:
+  id:1360   Accrington ST (England)
+  id:19875  Accrington Stanley Res. (England)
+  id:25134  Accrington Stanley (England)
+  id:25423  Accrington Stanley U18 (England)
+!! Accrington: Ambiguous team name "Accrington".
+
+TABLE FOR Sheffield Wednesday
+LEAGUE TABLE League One 2026 | 24 teams | 158 games played
+League averages per game: home 1.53, away 1.27, total 2.79
+#   team                   Pts | home P GF-GA  | away P GF-GA  | all P GF-GA
+1   Huddersfield            29 |  7  16-7       |  7  12-5       | 14  28-12
+2   Stockport County        26 |  7  16-9       |  7  10-5       | 14  26-14
+3   Oxford United           26 |  7  11-4       |  6  11-7       | 13  22-11
+4   Luton                   24 |  7  12-7       |  7  15-14      | 14  27-21
+5   Plymouth                23 |  7   8-7       |  7  13-12      | 14  21-19
+6   Reading                 22 |  7  17-7       |  7   8-8       | 14  25-15
+7   Bradford                22 |  6   6-5       |  7   4-3       | 13  10-8
+8   Cambridge United        21 |  7  12-11      |  7   9-10      | 14  21-21
+9   Sheffield Wednesday     20 |  7  14-5       |  6   8-9       | 13  22-14
+10  Leicester               19 |  7  11-12      |  6  11-7       | 13  22-19
+11  Mansfield Town          19 |  6  10-7       |  7  10-11      | 13  20-18
+12  Milton Keynes Dons      18 |  7  15-10      |  6   7-10      | 13  22-20
+13  Wycombe                 18 |  7  12-12      |  6   9-11      | 13  21-23
+14  Leyton Orient           17 |  7  10-10      |  6   9-4       | 13  19-14
+15  Burton Albion           17 |  7  12-10      |  7   6-11      | 14  18-21
+16  Stevenage               16 |  6   9-6       |  6   8-7       | 12  17-13
+17  Notts County            14 |  6   7-6       |  6   6-8       | 12  13-14
+18  AFC Wimbledon           13 |  6   3-4       |  7   6-17      | 13   9-21
+19  Blackpool               12 |  6  12-11      |  6   5-10      | 12  17-21
+20  Doncaster               12 |  6   6-6       |  7   8-16      | 13  14-22
+21  Wigan                   11 |  7   7-10      |  7   4-12      | 14  11-22
+22  Peterborough            10 |  6   5-9       |  7   6-14      | 13  11-23
+23  Barnsley                 9 |  6   6-11      |  6   6-11      | 12  12-22
+24  Bromley                  9 |  6   4-14      |  7   9-19      | 13  13-33
+
+(16 API-Football requests used)
+
+----------------------------------------------------------------------
+MATCHBOOK: skipped (switched off for this run)

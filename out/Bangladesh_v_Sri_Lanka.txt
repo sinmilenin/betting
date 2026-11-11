@@ -1,0 +1,71 @@
+MATCH Bangladesh v Sri Lanka | fetched 2026-11-11 06:44 local
+
+FORM DATA Bangladesh v Sri Lanka | source API-Football | 2026-11-11 06:44 UTC
+H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
+
+=== Bangladesh (id 1560): last 20 finished games ===
+2026-11-05 A 1-0 v Bhutan | SAFF Championship | Dhaka
+2026-10-01 A 2-9 v Indonesia | FIFA Asean Cup | Jakarta
+2026-09-28 A 0-1 v Singapore | FIFA Asean Cup | Jakarta
+2026-09-25 H 0-3 v Malaysia | FIFA Asean Cup | Senayan
+2026-06-05 A 2-1 v San Marino | Friendlies | Serravalle
+2026-03-31 A 0-1 v Singapore | Asian Cup - Qualification | Kallang
+2026-03-26 A 0-3 v Vietnam | Friendlies | Hanoi
+2025-11-18 H 1-0 v India | Asian Cup - Qualification | Dhaka
+2025-11-13 H 2-2 v Nepal | Friendlies | ?
+2025-10-14 A 1-1 v Hong Kong | Asian Cup - Qualification | Hongkong
+2025-10-09 H 3-4 v Hong Kong | Asian Cup - Qualification | Dhaka
+2025-09-06 A 0-0 v Nepal | Friendlies | Kathmandu
+2025-06-10 H 1-2 v Singapore | Asian Cup - Qualification | Dhaka
+2025-06-04 H 2-0 v Bhutan | Friendlies | Dhaka
+2025-03-25 A 0-0 v India | Asian Cup - Qualification | Kolkata
+2024-11-16 H 2-1 v Maldives | Friendlies | Dhaka
+2024-11-13 H 0-1 v Maldives | Friendlies | Dhaka
+2024-09-08 A 0-1 v Bhutan | Friendlies | Thimphu
+2024-09-05 A 1-0 v Bhutan | Friendlies | Thimphu
+2024-06-11 A 0-4 v Lebanon | World Cup - Qualification Asia | Al Rayyan
+Listed home: 8 games, scored 11 (1.38), conceded 13 (1.62), blanks 2, clean sheets 2
+Listed away: 12 games, scored 7 (0.58), conceded 21 (1.75), blanks 7, clean sheets 4
+All: 20 games, scored 18 (0.90), conceded 34 (1.70), blanks 9, clean sheets 6
+
+=== Sri Lanka (id 5166): last 20 finished games ===
+2026-11-08 H 2-2 v Bhutan | SAFF Championship | Dhaka
+2026-10-05 A 3-2 v Mauritius | Friendlies | ?
+2026-10-02 A 0-3 v Mauritius | Friendlies | ?
+2026-09-30 A 2-0 v Seychelles | Friendlies | Victoria
+2026-09-27 A 3-0 v Seychelles | Friendlies | Victoria
+2026-06-08 H 4-1 v Bhutan | Friendlies | Bangkok
+2026-03-31 A 3-1 v Chinese Taipei | Asian Cup - Qualification | Taipei
+2025-11-18 H 0-4 v Thailand | Asian Cup - Qualification | Colombo
+2025-10-14 A 1-2 v Turkmenistan | Asian Cup - Qualification | Ashgabat
+2025-10-09 H 1-0 v Turkmenistan | Asian Cup - Qualification | Colombo
+2025-09-09 H 1-1 v Maldives | Friendlies | Colombo
+2025-09-06 H 0-3 v Maldives | Friendlies | Colombo
+2025-06-10 H 3-1 v Chinese Taipei | Asian Cup - Qualification | Colombo
+2025-06-05 H 1-0 v Brunei | Friendlies | TBC
+2025-03-25 A 0-1 v Thailand | Asian Cup - Qualification | Bangkok
+2025-03-20 A 2-1 v Laos | Friendlies | Vientiane
+2024-11-19 H 0-2 v Yemen | Friendlies | ?
+2024-10-13 A 0-0 v Myanmar | Friendlies | Yangon
+2024-10-10 A 0-2 v Myanmar | Friendlies | Yangon
+2024-09-10 A 1-1 v Cambodia | Asian Cup - Qualification | Phnom Penh [PEN, 90-min score shown]
+Listed home: 9 games, scored 12 (1.33), conceded 14 (1.56), blanks 3, clean sheets 2
+Listed away: 11 games, scored 15 (1.36), conceded 13 (1.18), blanks 4, clean sheets 3
+All: 20 games, scored 27 (1.35), conceded 27 (1.35), blanks 7, clean sheets 5
+
+TABLE FOR Bangladesh
+LEAGUE TABLE SAFF Championship 2026 | 6 teams | 0 games played
+#   team                   Pts | home P GF-GA  | away P GF-GA  | all P GF-GA
+1   Bangladesh               3 |  0   0-0       |  0   0-0       |  1   1-0 [Group A]
+2   Sri Lanka                1 |  0   0-0       |  0   0-0       |  1   2-2 [Group A]
+3   Bhutan                   1 |  0   0-0       |  0   0-0       |  2   2-3 [Group A]
+1   Pakistan                 3 |  0   0-0       |  0   0-0       |  2   5-3 [Group B]
+2   India                    3 |  0   0-0       |  0   0-0       |  1   3-2 [Group B]
+3   Maldives                 0 |  0   0-0       |  0   0-0       |  1   0-3 [Group B]
+
+(Sri Lanka: same table as Bangladesh, shown above)
+
+(24 API-Football requests used)
+
+----------------------------------------------------------------------
+MATCHBOOK: skipped (switched off for this run)
