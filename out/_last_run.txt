@@ -1,4 +1,4 @@
-RUN 2026-11-11 16:33 local | 2 match(es)
-Castellon II v Deportiva Minera -> out/Castellon_II_v_Deportiva_Minera.txt
-West Ham United U21 v Juventus U19 -> out/West_Ham_United_U21_v_Juventus_U19.txt
+RUN 2026-11-11 17:15 local | 2 match(es)
+Alcoyano v Elche II -> out/Alcoyano_v_Elche_II.txt
+Birmingham City W v Sunderland W -> out/Birmingham_City_W_v_Sunderland_W.txt
 Requests used: API-Football 51, Matchbook 0
