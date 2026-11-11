@@ -1,7 +1,32 @@
-MATCH Yokohama F Marinos v Kashima | fetched 2026-11-11 08:15 local
+MATCH Marinos v id:290 | fetched 2026-11-11 08:16 local
 
-FORM DATA Yokohama F Marinos v Kashima | source API-Football | 2026-11-11 08:15 UTC
+FORM DATA Marinos v id:290 | source API-Football | 2026-11-11 08:16 UTC
 H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
+
+=== Yokohama F. Marinos (id 296): last 20 finished games ===
+2026-11-07 H 1-1 v Fagiano Okayama | J1 League | Yokohama | xG 1.02-2.07
+2026-11-01 H 4-2 v Kawasaki Frontale | J1 League | Yokohama | xG 2.05-1.36
+2026-10-28 H 4-3 v Sanfrecce Hiroshima | J-League Cup | Yokohama
+2026-10-25 A 1-1 v Nagoya Grampus | J1 League | Toyota | xG 1.47-2.41
+2026-10-21 H 2-2 v Tokyo Verdy | J1 League | Tokyo | xG 1.97-1.65
+2026-10-17 A 0-0 v JEF United Chiba | J1 League | Chiba | xG 0.66-1.10
+2026-10-14 H 2-1 v Shimizu S-pulse | J-League Cup | Yokohama
+2026-10-10 A 0-0 v Cerezo Osaka | J1 League | Osaka | xG 1.28-0.49
+2026-10-07 H 2-1 v Kyoto Sangyo University | Emperor Cup | Yokohama
+2026-09-29 A 2-1 v Montedio Yamagata | J-League Cup | Tendo
+2026-09-19 H 2-0 v Mito Hollyhock | J1 League | Yokohama
+2026-09-12 A 1-1 v Machida Zelvia | J1 League | Tokyo
+2026-09-06 A 2-0 v Kashiwa Reysol | J1 League | Kashiwa
+2026-09-02 H 1-1 v Kyoto Sanga | J1 League | Yokohama
+2026-08-29 A 2-3 v Urawa | J1 League | Saitama
+2026-08-26 H 1-0 v Fukushima United | Emperor Cup | Yokohama
+2026-08-22 H 1-0 v Vissel Kobe | J1 League | Yokohama
+2026-08-15 A 1-0 v Shimizu S-pulse | J1 League | Shizuoka
+2026-08-07 H 3-4 v Kashima | J1 League | Tokyo
+2026-07-19 H 3-1 v Roasso Kumamoto | Friendlies Clubs | ?
+Listed home: 12 games, scored 26 (2.17), conceded 16 (1.33), blanks 0, clean sheets 3
+Listed away: 8 games, scored 9 (1.12), conceded 6 (0.75), blanks 2, clean sheets 4
+All: 20 games, scored 35 (1.75), conceded 22 (1.10), blanks 2, clean sheets 7
 
 === Kashima (id 290): last 20 finished games ===
 2026-11-07 A 0-2 v FC Tokyo | J1 League | Chofu | xG 0.29-1.27
@@ -28,9 +53,7 @@ Listed home: 11 games, scored 31 (2.82), conceded 10 (0.91), blanks 1, clean she
 Listed away: 9 games, scored 15 (1.67), conceded 16 (1.78), blanks 2, clean sheets 3
 All: 20 games, scored 46 (2.30), conceded 26 (1.30), blanks 3, clean sheets 7
 
-!! Yokohama F Marinos: No team found for "Yokohama F Marinos".
-
-TABLE FOR Kashima
+TABLE FOR Yokohama F. Marinos
 LEAGUE TABLE J1 League 2027 | 20 teams | 140 games played
 League averages per game: home 1.61, away 1.34, total 2.95
 #   team                   Pts | home P GF-GA  | away P GF-GA  | all P GF-GA
@@ -55,7 +78,9 @@ League averages per game: home 1.61, away 1.34, total 2.95
 19  Mito Hollyhock           9 |  7   7-11      |  7   5-15      | 14  12-26
 20  Avispa Fukuoka           8 |  8  10-10      |  6   4-15      | 14  14-25
 
-(14 API-Football requests used)
+(Kashima: same table as Yokohama F. Marinos, shown above)
+
+(25 API-Football requests used)
 
 ----------------------------------------------------------------------
 MATCHBOOK: skipped (switched off for this run)
