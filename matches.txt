@@ -1,2 +1,2 @@
-# scan 11.11 13:42 (top-20 run)
-Londrina v Nautico | n=20 | xg=10
+# scan 11.11 13:42 (top-20 run) retry (Nautico id)
+Londrina v id:755 | n=20 | xg=10
