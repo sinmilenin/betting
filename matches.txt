@@ -1,3 +1,2 @@
-# scan 11.11 09:12
-Yokohama F. Marinos v Kashima Antlers | n=20 | xg=10
-Kawasaki Frontale v Kashiwa Reysol | n=20 | xg=10
+# scan 11.11 09:12 retry Yokohama names
+Yokohama F Marinos v Kashima | n=20 | xg=10
