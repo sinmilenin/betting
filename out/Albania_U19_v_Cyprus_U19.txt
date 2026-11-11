@@ -1,59 +1,59 @@
-MATCH id:10377 v Greece U19 | fetched 2026-11-11 11:21 local
+MATCH Albania U19 v Cyprus U19 | fetched 2026-11-11 11:58 local
 
-FORM DATA id:10377 v Greece U19 | source API-Football | 2026-11-11 11:21 UTC
+FORM DATA Albania U19 v Cyprus U19 | source API-Football | 2026-11-11 11:58 UTC
 H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
 
-=== Republic of Ireland U19 (id 10377): last 20 finished games ===
-2026-10-03 A 2-1 v Slovenia U19 | Friendlies | ?
-2026-09-28 A 5-0 v Faroe Islands U19 | Friendlies | ?
-2026-09-25 A 0-1 v England U19 | Friendlies | ?
-2026-03-31 H 1-2 v Italy U19 | UEFA U19 Championship - Qualification | ?
-2026-03-28 H 3-3 v Scotland U19 | UEFA U19 Championship - Qualification | ?
-2026-03-25 A 1-1 v Poland U19 | UEFA U19 Championship - Qualification | ?
-2025-11-18 A 2-4 v Netherlands U19 | UEFA U19 Championship - Qualification | ?
-2025-11-15 H 1-0 v Cyprus U19 | UEFA U19 Championship - Qualification | ?
-2025-11-12 H 0-1 v Kazakhstan U19 | UEFA U19 Championship - Qualification | ?
-2025-10-12 A 2-2 v Albania U19 | Friendlies | ?
-2025-10-10 A 1-2 v Albania U19 | Friendlies | ?
-2025-09-08 A 0-1 v France U19 | Friendlies | ?
-2025-09-05 A 1-4 v France U19 | Friendlies | ?
-2025-03-25 H 0-1 v Germany U19 | UEFA U19 Championship - Qualification | Wolfsburg
-2025-03-22 H 1-1 v Slovenia U19 | UEFA U19 Championship - Qualification | Wolfsburg
-2025-03-19 A 0-3 v Finland U19 | UEFA U19 Championship - Qualification | Wolfsburg
-2024-11-19 A 2-1 v Iceland U19 | UEFA U19 Championship - Qualification | Chişinău
-2024-11-16 H 4-0 v Azerbaijan U19 | UEFA U19 Championship - Qualification | Chişinău
-2024-11-13 H 0-0 v Moldova U19 | UEFA U19 Championship - Qualification | Nisporeni
-2023-11-21 A 0-1 v Belgium U19 | UEFA U19 Championship - Qualification | Rrogozhinë
-Listed home: 8 games, scored 10 (1.25), conceded 8 (1.00), blanks 3, clean sheets 3
-Listed away: 12 games, scored 16 (1.33), conceded 21 (1.75), blanks 4, clean sheets 1
-All: 20 games, scored 26 (1.30), conceded 29 (1.45), blanks 7, clean sheets 4
+=== Albania U19 (id 10354): last 20 finished games ===
+2026-10-02 H 2-1 v Lithuania U19 | Friendlies | Vora
+2026-09-30 H 3-2 v Lithuania U19 | Friendlies | Vora
+2026-06-07 A 0-3 v Bulgaria U19 | Friendlies | Sofia
+2026-06-04 A 0-1 v Bulgaria U19 | Friendlies | Sofia
+2026-03-31 H 2-2 v Norway U19 | UEFA U19 Championship - Qualification | ?
+2026-03-28 H 7-1 v Malta U19 | UEFA U19 Championship - Qualification | ?
+2026-03-25 A 1-2 v Luxembourg U19 | UEFA U19 Championship - Qualification | ?
+2025-11-18 H 0-1 v Montenegro U19 | UEFA U19 Championship - Qualification | ?
+2025-11-15 A 0-0 v Slovakia U19 | UEFA U19 Championship - Qualification | ?
+2025-11-12 A 0-3 v Ukraine U19 | UEFA U19 Championship - Qualification | ?
+2025-10-12 H 2-2 v Republic of Ireland U19 | Friendlies | ?
+2025-10-10 H 2-1 v Republic of Ireland U19 | Friendlies | ?
+2025-09-08 H 0-1 v Kosovo U19 | Friendlies | ?
+2025-09-04 H 0-1 v Moldova U19 | Friendlies | ?
+2024-11-19 H 0-1 v Northern Ireland U19 | UEFA U19 Championship - Qualification | Elbasan
+2024-11-16 A 0-1 v Denmark U19 | UEFA U19 Championship - Qualification | Elbasan
+2024-11-13 A 0-6 v Israel U19 | UEFA U19 Championship - Qualification | Elbasan
+2024-03-22 A 2-2 v Malta U19 | Friendlies | ?
+2024-03-20 A 1-0 v Malta U19 | Friendlies | ?
+2023-11-21 H 0-1 v Slovenia U19 | UEFA U19 Championship - Qualification | Elbasan
+Listed home: 11 games, scored 18 (1.64), conceded 14 (1.27), blanks 5, clean sheets 0
+Listed away: 9 games, scored 4 (0.44), conceded 18 (2.00), blanks 6, clean sheets 2
+All: 20 games, scored 22 (1.10), conceded 32 (1.60), blanks 11, clean sheets 2
 
-=== Greece U19 (id 10364): last 20 finished games ===
-2026-06-09 A 4-2 v Kazakhstan U19 | UEFA U19 Championship - Qualification | ?
-2026-06-06 A 0-0 v Portugal U19 | UEFA U19 Championship - Qualification | ?
-2026-06-03 H 0-1 v Serbia U19 | UEFA U19 Championship - Qualification | ?
-2026-05-28 H 1-2 v England U18 | Friendlies | Achna
-2026-05-27 A 2-0 v Cyprus U19 | Friendlies | ?
-2026-03-31 A 2-2 v Sweden U19 | UEFA U19 Championship - Qualification | ?
-2026-03-28 A 0-1 v Germany U19 | UEFA U19 Championship - Qualification | Dreieich
-2026-03-25 H 1-1 v Austria U19 | UEFA U19 Championship - Qualification | Frankfurt
-2026-02-12 A 0-2 v Croatia U19 | Friendlies | ?
-2026-02-10 A 0-0 v Turkey U19 | Friendlies | ?
-2025-11-18 H 1-2 v Turkey U19 | UEFA U19 Championship - Qualification | ?
-2025-11-15 H 8-0 v Liechtenstein U19 | UEFA U19 Championship - Qualification | ?
-2025-11-12 A 2-0 v ABFF U19 | UEFA U19 Championship - Qualification | ?
-2025-10-12 A 4-0 v Hungary U19 | Friendlies | ?
-2025-10-09 A 0-1 v Hungary U19 | Friendlies | ?
-2025-09-09 A 0-0 v Georgia U19 | Friendlies | ?
-2025-09-07 A 0-0 v Georgia U19 | Friendlies | ?
-2024-11-19 H 0-1 v Italy U19 | UEFA U19 Championship - Qualification | Heraklion
-2024-11-16 H 0-3 v Montenegro U19 | UEFA U19 Championship - Qualification | Heraklion
-2024-11-13 A 5-2 v Bosnia-Herzegovina U19 | UEFA U19 Championship - Qualification | Heraklion
-Listed home: 7 games, scored 11 (1.57), conceded 10 (1.43), blanks 3, clean sheets 1
-Listed away: 13 games, scored 19 (1.46), conceded 10 (0.77), blanks 7, clean sheets 7
-All: 20 games, scored 30 (1.50), conceded 20 (1.00), blanks 10, clean sheets 8
+=== Cyprus U19 (id 10360): last 20 finished games ===
+2026-10-05 H 1-1 v Malta U19 | Friendlies | Dasaki Achnas
+2026-10-03 H 3-0 v Malta U19 | Friendlies | Dasaki Achnas
+2026-09-29 A 1-0 v Moldova U19 | Friendlies | ?
+2026-09-27 A 1-2 v Moldova U19 | Friendlies | ?
+2026-05-31 H 1-6 v England U18 | Friendlies | Achna
+2026-05-27 H 0-2 v Greece U19 | Friendlies | ?
+2026-03-31 H 1-3 v Sweden U19 | UEFA U19 Championship - Qualification | ?
+2026-03-28 A 0-1 v Slovenia U19 | UEFA U19 Championship - Qualification | ?
+2026-03-25 A 0-4 v Belgium U19 | UEFA U19 Championship - Qualification | ?
+2026-02-19 H 1-1 v Israel U19 | Friendlies | ?
+2026-02-17 H 0-3 v Israel U19 | Friendlies | ?
+2025-11-18 A 1-1 v Kazakhstan U19 | UEFA U19 Championship - Qualification | ?
+2025-11-15 A 0-1 v Republic of Ireland U19 | UEFA U19 Championship - Qualification | ?
+2025-11-12 H 0-7 v Netherlands U19 | UEFA U19 Championship - Qualification | ?
+2025-10-14 A 2-1 v Romania U19 | Friendlies | ?
+2025-10-11 A 1-3 v Romania U19 | Friendlies | ?
+2025-09-08 H 2-1 v Lithuania U19 | Friendlies | ?
+2025-09-06 H 1-1 v Lithuania U19 | Friendlies | ?
+2024-11-18 A 1-0 v Andorra U19 | UEFA U19 Championship - Qualification | Andorra la Vella
+2024-11-15 A 1-3 v Germany U19 | UEFA U19 Championship - Qualification | Santa Coloma
+Listed home: 10 games, scored 10 (1.00), conceded 25 (2.50), blanks 3, clean sheets 1
+Listed away: 10 games, scored 8 (0.80), conceded 16 (1.60), blanks 3, clean sheets 2
+All: 20 games, scored 18 (0.90), conceded 41 (2.05), blanks 6, clean sheets 3
 
-TABLE FOR Republic of Ireland U19
+TABLE FOR Albania U19
 LEAGUE TABLE UEFA U19 Championship - Qualification 2027 | 54 teams | 77 games played
 League averages per game: home 1.91, away 1.44, total 3.35
 #   team                   Pts | home P GF-GA  | away P GF-GA  | all P GF-GA
@@ -112,7 +112,7 @@ League averages per game: home 1.91, away 1.44, total 3.35
 2   Montenegro U19           2 |  1   1-1       |  1   1-1       |  2   2-2 [League B R1, Group 7]
 3   Georgia U19              1 |  1   2-3       |  1   1-1       |  2   3-4 [League B R1, Group 7]
 
-(Greece U19: same table as Republic of Ireland U19, shown above)
+(Cyprus U19: same table as Albania U19, shown above)
 
 (25 API-Football requests used)
 

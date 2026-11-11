@@ -1,3 +1,5 @@
-RUN 2026-11-11 11:21 local | 1 match(es)
-id:10377 v Greece U19 -> out/id_10377_v_Greece_U19.txt
-Requests used: API-Football 25, Matchbook 0
+RUN 2026-11-11 11:58 local | 2 match(es)
+Albania U19 v Cyprus U19 -> out/Albania_U19_v_Cyprus_U19.txt
+Czech Republic U19 v Netherlands U19 -> out/Czech_Republic_U19_v_Netherlands_U19.txt
+    !! Czech Republic U19: No team found for "Czech Republic U19".
+Requests used: API-Football 38, Matchbook 0
