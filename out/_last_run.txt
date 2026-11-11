@@ -1,7 +1,5 @@
-RUN 2026-11-11 18:44 local | 3 match(es)
-Fuerte San Francisco v Alianza -> out/Fuerte_San_Francisco_v_Alianza.txt
-Sunderland U21 v Paris Saint Germain U19 -> out/Sunderland_U21_v_Paris_Saint_Germain_U19.txt
-    !! Paris Saint Germain U19: No team found for "Paris Saint Germain U19".
-Tottenham W v Crystal Palace W -> out/Tottenham_W_v_Crystal_Palace_W.txt
-    !! Tottenham W: No team found for "Tottenham W".
-Requests used: API-Football 53, Matchbook 0
+RUN 2026-11-11 19:57 local | 2 match(es)
+Quindio v Tigres -> out/Quindio_v_Tigres.txt
+Piratas v Atletico La Paz -> out/Piratas_v_Atletico_La_Paz.txt
+    !! Atletico La Paz: No team found for "Atletico La Paz".
+Requests used: API-Football 40, Matchbook 0
