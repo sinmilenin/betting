@@ -1,0 +1,61 @@
+MATCH West Ham U21 v Juventus U23 | fetched 2026-11-11 16:30 local
+
+FORM DATA West Ham U21 v Juventus U23 | source API-Football | 2026-11-11 16:30 UTC
+H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
+
+=== Juventus U23 (id 1715): last 20 finished games ===
+2026-11-08 A 0-4 v Lecco | Serie C - Girone A | Lecco
+2026-11-02 H 1-1 v PRO Vercelli | Serie C - Girone A | Alessandria
+2026-10-25 A 1-2 v Trento | Serie C - Girone A | Trento
+2026-10-19 H 2-1 v Renate | Serie C - Girone A | Alessandria
+2026-10-13 H 0-0 v Lumezzane | Serie C - Girone A | Alessandria
+2026-10-10 A 1-2 v Arzignano Valchiampo | Serie C - Girone A | Arzignano
+2026-09-26 A 0-0 v Desenzano Calvina | Serie C - Girone A | Ospitaletto
+2026-09-20 H 3-5 v Albinoleffe | Serie C - Girone A | Alessandria
+2026-09-17 A 0-2 v Cittadella | Serie C - Girone A | Cittadella
+2026-09-13 A 0-3 v Ospitaletto | Serie C - Girone A | Ospitaletto
+2026-09-06 H 0-0 v Pergolettese | Serie C - Girone A | Alessandria
+2026-08-30 A 3-3 v Athletic Carpi | Serie C - Girone A | Carpi
+2026-08-22 H 1-0 v Novara | Serie C - Girone A | Alessandria
+2026-08-16 H 1-1 v Forli | Coppa Italia Serie C | Alessandria [PEN, 90-min score shown]
+2026-07-25 A 1-1 v Pisa | Friendlies Clubs | ?
+2026-05-06 H 0-2 v Pianese | Serie C - Promotion - Play-offs | Alessandria
+2026-05-03 H 2-2 v Vis Pesaro | Serie C - Promotion - Play-offs | Alessandria
+2026-04-26 H 2-2 v Bra | Serie C - Girone B | Alessandria
+2026-04-18 A 0-0 v Pianese | Serie C - Girone B | Piancastagnaio
+2026-04-12 H 1-0 v Guidonia Montecelio 1937 | Serie C - Girone B | Alessandria
+Listed home: 11 games, scored 13 (1.18), conceded 14 (1.27), blanks 3, clean sheets 4
+Listed away: 9 games, scored 6 (0.67), conceded 17 (1.89), blanks 5, clean sheets 2
+All: 20 games, scored 19 (0.95), conceded 31 (1.55), blanks 8, clean sheets 6
+
+!! West Ham U21: No team found for "West Ham U21".
+
+TABLE FOR Juventus U23
+LEAGUE TABLE Serie C - Girone A 2026 | 20 teams | 130 games played
+League averages per game: home 1.26, away 1.22, total 2.48
+#   team                   Pts | home P GF-GA  | away P GF-GA  | all P GF-GA
+1   Cittadella              31 |  7  12-3       |  6   7-3       | 13  19-6
+2   Union Brescia           28 |  7  14-7       |  6  12-4       | 13  26-11
+3   Trento                  27 |  7  12-3       |  6   7-4       | 13  19-7
+4   Ospitaletto             22 |  7  11-6       |  6   8-5       | 13  19-11
+5   Treviso                 22 |  7   7-3       |  6   7-6       | 13  14-9
+6   Arzignano Valchiampo    21 |  6  10-6       |  7   9-9       | 13  19-15
+7   Lecco                   20 |  7  10-5       |  6  12-6       | 13  22-11
+8   Alcione                 18 |  7  11-12      |  6  10-7       | 13  21-19
+9   Albinoleffe             17 |  6   8-9       |  7  12-10      | 13  20-19
+10  Pergolettese            17 |  6   6-6       |  7   8-9       | 13  14-15
+11  Lumezzane               16 |  6   8-7       |  7   6-10      | 13  14-17
+12  PRO Vercelli            16 |  7  12-11      |  6   3-11      | 13  15-22
+13  Desenzano Calvina       13 |  6   4-6       |  7   6-9       | 13  10-15
+14  Novara                  13 |  6   5-9       |  7   6-9       | 13  11-18
+15  Athletic Carpi          13 |  6   9-16      |  7   7-10      | 13  16-26
+16  Giana Erminio           12 |  7   8-11      |  6   5-6       | 13  13-17
+17  Renate                  11 |  6   3-6       |  7  14-12      | 13  17-18
+18  Juventus U23            11 |  6   7-7       |  7   5-16      | 13  12-23
+19  Dolomiti Bellunesi      10 |  6   2-11      |  7   8-11      | 13  10-22
+20  Folgore Caratese         8 |  7   5-14      |  6   6-7       | 13  11-21
+
+(14 API-Football requests used)
+
+----------------------------------------------------------------------
+MATCHBOOK: skipped (switched off for this run)

@@ -1,3 +1,9 @@
-RUN 2026-11-11 15:43 local | 1 match(es)
-Austria U19 v Belarus U19 -> out/Austria_U19_v_Belarus_U19.txt
-Requests used: API-Football 25, Matchbook 0
+RUN 2026-11-11 16:30 local | 5 match(es)
+Fenerbahce W v Real Sociedad W -> out/Fenerbahce_W_v_Real_Sociedad_W.txt
+Castellon B v Deportiva Minera -> out/Castellon_B_v_Deportiva_Minera.txt
+    !! Castellon B: No team found for "Castellon B".
+Malmo FF W v Ajax W -> out/Malmo_FF_W_v_Ajax_W.txt
+Wales U19 v Finland U19 -> out/Wales_U19_v_Finland_U19.txt
+West Ham U21 v Juventus U23 -> out/West_Ham_U21_v_Juventus_U23.txt
+    !! West Ham U21: No team found for "West Ham U21".
+Requests used: API-Football 103, Matchbook 0
