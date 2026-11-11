@@ -1,6 +1,4 @@
-RUN 2026-11-11 16:31 local | 2 match(es)
-Castellón II v Deportiva Minera -> out/Castell_n_II_v_Deportiva_Minera.txt
-    !! Castellón II: API-Football error: {"search": "The Search field may only contain alpha-numeric characters and spaces."}
-West Ham U23 v Juventus U19 -> out/West_Ham_U23_v_Juventus_U19.txt
-    !! West Ham U23: No team found for "West Ham U23".
-Requests used: API-Football 28, Matchbook 0
+RUN 2026-11-11 16:33 local | 2 match(es)
+Castellon II v Deportiva Minera -> out/Castellon_II_v_Deportiva_Minera.txt
+West Ham United U21 v Juventus U19 -> out/West_Ham_United_U21_v_Juventus_U19.txt
+Requests used: API-Football 51, Matchbook 0
