@@ -1,3 +1,10 @@
-RUN 2026-11-11 08:59 local | 1 match(es)
-Georgia U19 v Denmark U19 -> out/Georgia_U19_v_Denmark_U19.txt
-Requests used: API-Football 27, Matchbook 0
+RUN 2026-11-11 09:43 local | 6 match(es)
+Azerbaijan U19 v Montenegro U19 -> out/Azerbaijan_U19_v_Montenegro_U19.txt
+Slovenia U19 v England U19 -> out/Slovenia_U19_v_England_U19.txt
+Belgium U19 v Kosovo U19 -> out/Belgium_U19_v_Kosovo_U19.txt
+Andorra U19 v Poland U19 -> out/Andorra_U19_v_Poland_U19.txt
+MTK Budapest U19 v Haladas U19 -> out/MTK_Budapest_U19_v_Haladas_U19.txt
+    !! MTK Budapest U19: No team found for "MTK Budapest U19".
+    !! Haladas U19: No team found for "Haladas U19".
+China U19 v Vietnam U19 -> out/China_U19_v_Vietnam_U19.txt
+Requests used: API-Football 115, Matchbook 0

@@ -1,0 +1,49 @@
+MATCH China U19 v Vietnam U19 | fetched 2026-11-11 09:43 local
+
+FORM DATA China U19 v Vietnam U19 | source API-Football | 2026-11-11 09:43 UTC
+H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
+
+=== China U19 (id 25359): last 0 finished games ===
+Listed home: no games
+Listed away: no games
+All: no games
+
+=== Vietnam U19 (id 19157): last 13 finished games ===
+2026-06-07 A 1-2 v Indonesia U19 | ASEAN Championship U19 | Medan
+2026-06-04 A 5-0 v Myanmar U19 | ASEAN Championship U19 | Medan
+2026-06-01 H 3-0 v Timor-Leste U19 | ASEAN Championship U19 | Medan
+2024-07-24 A 4-1 v Laos U19 | ASEAN Championship U19 | Surabaya
+2024-07-21 A 2-6 v Australia U19 | ASEAN Championship U19 | Surabaya
+2024-07-18 H 1-1 v Myanmar U19 | ASEAN Championship U19 | Surabaya
+2022-07-15 H 1-1 v Thailand U19 | AFF U19 Championship | Bekasi [PEN, 90-min score shown]
+2022-07-13 H 0-3 v Malaysia U19 | AFF U19 Championship | Bekasi
+2022-07-10 H 1-1 v Thailand U19 | AFF U19 Championship | Jakarta
+2022-07-08 A 3-1 v Myanmar U19 | AFF U19 Championship | Jakarta
+2022-07-06 A 4-0 v Brunei U19 | AFF U19 Championship | Bekasi
+2022-07-04 H 4-1 v Philippines U19 | AFF U19 Championship | Jakarta
+2022-07-02 H 0-0 v Indonesia U19 | AFF U19 Championship | Bekasi
+Listed home: 7 games, scored 10 (1.43), conceded 7 (1.00), blanks 2, clean sheets 2
+Listed away: 6 games, scored 19 (3.17), conceded 10 (1.67), blanks 0, clean sheets 2
+All: 13 games, scored 29 (2.23), conceded 17 (1.31), blanks 2, clean sheets 4
+
+(no league table available for China U19: tried no competitions)
+
+TABLE FOR Vietnam U19
+LEAGUE TABLE ASEAN Championship U19 2025 | 11 teams | 0 games played
+#   team                   Pts | home P GF-GA  | away P GF-GA  | all P GF-GA
+1   Indonesia U19            9 |  0   0-0       |  0   0-0       |  3   8-1 [Group A]
+2   Vietnam U19              6 |  0   0-0       |  0   0-0       |  3   9-2 [Group A]
+3   Myanmar U19              3 |  0   0-0       |  0   0-0       |  3   3-9 [Group A]
+4   Timor-Leste U19          0 |  0   0-0       |  0   0-0       |  3   1-9 [Group A]
+1   Thailand U19             9 |  0   0-0       |  0   0-0       |  3  16-2 [Group B]
+2   Malaysia U19             6 |  0   0-0       |  0   0-0       |  3   9-3 [Group B]
+3   Singapore U19            3 |  0   0-0       |  0   0-0       |  3   4-7 [Group B]
+4   Brunei U19               0 |  0   0-0       |  0   0-0       |  3   0-17 [Group B]
+1   Australia U19            4 |  0   0-0       |  0   0-0       |  2  12-2 [Group C]
+2   Cambodia U19             4 |  0   0-0       |  0   0-0       |  2   5-2 [Group C]
+3   Philippines U19          0 |  0   0-0       |  0   0-0       |  2   0-13 [Group C]
+
+(15 API-Football requests used)
+
+----------------------------------------------------------------------
+MATCHBOOK: skipped (switched off for this run)
