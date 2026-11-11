@@ -1,2 +1,6 @@
-# night scan 10.11 20:56 retry (Luis Angel Firpo not found)
-Cacahuatique v Firpo | n=20 | xg=10
+# scan 11.11 07:41 (regular + top-20)
+India v Maldives | n=20 | xg=10
+Bangladesh v Sri Lanka | n=20 | xg=10
+Croatia U19 v Hungary U19 | n=20 | xg=10
+Italy U19 v Romania U19 | n=20 | xg=10
+Sheffield Wednesday v Accrington | n=20 | xg=10
