@@ -1,6 +1,3 @@
-# scan 11.11 17:26
-Fenerbahce W v Real Sociedad W | n=20 | xg=10
-Castellon B v Deportiva Minera | n=20 | xg=10
-Malmo FF W v Ajax W | n=20 | xg=10
-Wales U19 v Finland U19 | n=20 | xg=10
-West Ham U21 v Juventus U23 | n=20 | xg=10
+# scan 11.11 17:26 (retry names)
+Castellón II v Deportiva Minera | n=20 | xg=10
+West Ham U23 v Juventus U19 | n=20 | xg=10
