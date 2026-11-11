@@ -1,4 +1,4 @@
-RUN 2026-11-11 14:20 local | 1 match(es)
-Bosnia v San Marino U19 -> out/Bosnia_v_San_Marino_U19.txt
-    !! Bosnia: Ambiguous team name "Bosnia".
+RUN 2026-11-11 14:59 local | 1 match(es)
+Herzegovina U19 v San Marino U19 -> out/Herzegovina_U19_v_San_Marino_U19.txt
+    !! Herzegovina U19: Ambiguous team name "Herzegovina U19".
 Requests used: API-Football 15, Matchbook 0

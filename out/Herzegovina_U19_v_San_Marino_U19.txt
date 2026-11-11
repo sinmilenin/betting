@@ -1,34 +1,11 @@
-MATCH Bosnia v San Marino U19 | fetched 2026-11-11 14:20 local
+MATCH Herzegovina U19 v San Marino U19 | fetched 2026-11-11 14:59 local
 
-FORM DATA Bosnia v San Marino U19 | source API-Football | 2026-11-11 14:20 UTC
+FORM DATA Herzegovina U19 v San Marino U19 | source API-Football | 2026-11-11 14:59 UTC
 H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
 
-"Bosnia" matches several teams. Use id:<number> instead of the name:
-  id:588    Zrinjski (Bosnia)
-  id:642    Siroki Brijeg (Bosnia)
-  id:654    Zeljeznicar Sarajevo (Bosnia)
-  id:679    FK Sarajevo (Bosnia)
-  id:1113   Bosnia & Herzegovina (Bosnia) national
-  id:3356   GOŠK Gabela (Bosnia)
-  id:3357   Krupa na Vrbasu (Bosnia)
-  id:3358   Mladost Doboj Kakanj (Bosnia)
-  id:3359   Radnik Bijeljina (Bosnia)
-  id:3360   Sloboda Tuzla (Bosnia)
-  id:3361   Tuzla City (Bosnia)
-  id:3362   Zvijezda 09 (Bosnia)
-  id:3363   Čelik (Bosnia)
-  id:3364   Borac Banja Luka (Bosnia)
-  id:3365   Bosna Visoko (Bosnia)
-  id:3366   Goražde (Bosnia)
-  id:3367   Igman Konjic (Bosnia)
-  id:3368   Klis Buturović Polje (Bosnia)
-  id:3369   Kozara Gradiška (Bosnia)
-  id:3370   Leotar (Bosnia)
-  id:3371   Metalleghe-BSI Jajce (Bosnia)
-  id:3372   Mladost Kikači (Bosnia)
-  id:3373   Modriča (Bosnia)
-  id:3374   Moševac (Bosnia)
-  id:3375   Pobjeda (Bosnia)
+"Herzegovina U19" matches several teams. Use id:<number> instead of the name:
+  id:10359  Bosnia-Herzegovina U19 (Bosnia)
+  id:27890  Bosnia & Herzegovina U19 W (Bosnia)
 === San Marino U19 (id 10379): last 20 finished games ===
 2026-05-21 H 0-0 v Latvia U19 | UEFA U19 Championship - Qualification | ?
 2026-05-18 A 0-6 v Belarus U19 | UEFA U19 Championship - Qualification | ?
@@ -54,34 +31,11 @@ Listed home: 7 games, scored 0 (0.00), conceded 20 (2.86), blanks 7, clean sheet
 Listed away: 13 games, scored 4 (0.31), conceded 59 (4.54), blanks 10, clean sheets 0
 All: 20 games, scored 4 (0.20), conceded 79 (3.95), blanks 17, clean sheets 1
 
-(retrying Bosnia using the opponent's country, Poland)
-"Bosnia" matches several teams. Use id:<number> instead of the name:
-  id:588    Zrinjski (Bosnia)
-  id:642    Siroki Brijeg (Bosnia)
-  id:654    Zeljeznicar Sarajevo (Bosnia)
-  id:679    FK Sarajevo (Bosnia)
-  id:1113   Bosnia & Herzegovina (Bosnia) national
-  id:3356   GOŠK Gabela (Bosnia)
-  id:3357   Krupa na Vrbasu (Bosnia)
-  id:3358   Mladost Doboj Kakanj (Bosnia)
-  id:3359   Radnik Bijeljina (Bosnia)
-  id:3360   Sloboda Tuzla (Bosnia)
-  id:3361   Tuzla City (Bosnia)
-  id:3362   Zvijezda 09 (Bosnia)
-  id:3363   Čelik (Bosnia)
-  id:3364   Borac Banja Luka (Bosnia)
-  id:3365   Bosna Visoko (Bosnia)
-  id:3366   Goražde (Bosnia)
-  id:3367   Igman Konjic (Bosnia)
-  id:3368   Klis Buturović Polje (Bosnia)
-  id:3369   Kozara Gradiška (Bosnia)
-  id:3370   Leotar (Bosnia)
-  id:3371   Metalleghe-BSI Jajce (Bosnia)
-  id:3372   Mladost Kikači (Bosnia)
-  id:3373   Modriča (Bosnia)
-  id:3374   Moševac (Bosnia)
-  id:3375   Pobjeda (Bosnia)
-!! Bosnia: Ambiguous team name "Bosnia".
+(retrying Herzegovina U19 using the opponent's country, Poland)
+"Herzegovina U19" matches several teams. Use id:<number> instead of the name:
+  id:10359  Bosnia-Herzegovina U19 (Bosnia)
+  id:27890  Bosnia & Herzegovina U19 W (Bosnia)
+!! Herzegovina U19: Ambiguous team name "Herzegovina U19".
 
 TABLE FOR San Marino U19
 LEAGUE TABLE UEFA U19 Championship - Qualification 2027 | 54 teams | 77 games played
