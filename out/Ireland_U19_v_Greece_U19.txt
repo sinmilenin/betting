@@ -1,0 +1,106 @@
+MATCH Ireland U19 v Greece U19 | fetched 2026-11-11 13:29 local
+
+FORM DATA Ireland U19 v Greece U19 | source API-Football | 2026-11-11 13:29 UTC
+H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
+
+"Ireland U19" matches several teams. Use id:<number> instead of the name:
+  id:10375  Northern Ireland U19 (Northern-Ireland) national
+  id:10377  Republic of Ireland U19 (Ireland) national
+  id:23603  Republic of Ireland U19 W (Ireland)
+  id:27159  Northern Ireland U19 W (Northern-Ireland)
+=== Greece U19 (id 10364): last 20 finished games ===
+2026-06-09 A 4-2 v Kazakhstan U19 | UEFA U19 Championship - Qualification | ?
+2026-06-06 A 0-0 v Portugal U19 | UEFA U19 Championship - Qualification | ?
+2026-06-03 H 0-1 v Serbia U19 | UEFA U19 Championship - Qualification | ?
+2026-05-28 H 1-2 v England U18 | Friendlies | Achna
+2026-05-27 A 2-0 v Cyprus U19 | Friendlies | ?
+2026-03-31 A 2-2 v Sweden U19 | UEFA U19 Championship - Qualification | ?
+2026-03-28 A 0-1 v Germany U19 | UEFA U19 Championship - Qualification | Dreieich
+2026-03-25 H 1-1 v Austria U19 | UEFA U19 Championship - Qualification | Frankfurt
+2026-02-12 A 0-2 v Croatia U19 | Friendlies | ?
+2026-02-10 A 0-0 v Turkey U19 | Friendlies | ?
+2025-11-18 H 1-2 v Turkey U19 | UEFA U19 Championship - Qualification | ?
+2025-11-15 H 8-0 v Liechtenstein U19 | UEFA U19 Championship - Qualification | ?
+2025-11-12 A 2-0 v ABFF U19 | UEFA U19 Championship - Qualification | ?
+2025-10-12 A 4-0 v Hungary U19 | Friendlies | ?
+2025-10-09 A 0-1 v Hungary U19 | Friendlies | ?
+2025-09-09 A 0-0 v Georgia U19 | Friendlies | ?
+2025-09-07 A 0-0 v Georgia U19 | Friendlies | ?
+2024-11-19 H 0-1 v Italy U19 | UEFA U19 Championship - Qualification | Heraklion
+2024-11-16 H 0-3 v Montenegro U19 | UEFA U19 Championship - Qualification | Heraklion
+2024-11-13 A 5-2 v Bosnia-Herzegovina U19 | UEFA U19 Championship - Qualification | Heraklion
+Listed home: 7 games, scored 11 (1.57), conceded 10 (1.43), blanks 3, clean sheets 1
+Listed away: 13 games, scored 19 (1.46), conceded 10 (0.77), blanks 7, clean sheets 7
+All: 20 games, scored 30 (1.50), conceded 20 (1.00), blanks 10, clean sheets 8
+
+(retrying Ireland U19 using the opponent's country, Greece)
+"Ireland U19" matches several teams. Use id:<number> instead of the name:
+  id:10375  Northern Ireland U19 (Northern-Ireland) national
+  id:10377  Republic of Ireland U19 (Ireland) national
+  id:23603  Republic of Ireland U19 W (Ireland)
+  id:27159  Northern Ireland U19 W (Northern-Ireland)
+!! Ireland U19: Ambiguous team name "Ireland U19".
+
+TABLE FOR Greece U19
+LEAGUE TABLE UEFA U19 Championship - Qualification 2027 | 54 teams | 77 games played
+League averages per game: home 1.91, away 1.44, total 3.35
+#   team                   Pts | home P GF-GA  | away P GF-GA  | all P GF-GA
+1   Spain U19                9 |  1   4-0       |  2   5-1       |  3   9-1 [League A R1, Group 5]
+2   England U19              6 |  2   5-4       |  1   2-0       |  3   7-4 [League A R1, Group 5]
+3   Croatia U19              3 |  2   1-2       |  1   0-4       |  3   1-6 [League A R1, Group 5]
+4   Bulgaria U19             0 |  1   0-2       |  2   1-5       |  3   1-7 [League A R1, Group 5]
+1   Belgium U19              7 |  2   7-3       |  1   3-0       |  3  10-3 [League A R1, Group 1]
+2   Sweden U19               7 |  1   5-1       |  2   6-4       |  3  11-5 [League A R1, Group 1]
+3   Slovenia U19             3 |  2   1-3       |  1   1-5       |  3   2-8 [League A R1, Group 1]
+4   Cyprus U19               0 |  1   1-3       |  2   0-5       |  3   1-8 [League A R1, Group 1]
+1   Italy U19                7 |  2   4-1       |  1   2-1       |  3   6-2 [League A R1, Group 2]
+2   Scotland U19             4 |  1   3-0       |  2   3-6       |  3   6-6 [League A R1, Group 2]
+3   Republic of Ireland U1   2 |  2   4-5       |  1   1-1       |  3   5-6 [League A R1, Group 2]
+4   Poland U19               2 |  1   1-1       |  2   1-4       |  3   2-5 [League A R1, Group 2]
+1   Czech Republic U19       7 |  2   5-1       |  1   1-1       |  3   6-2 [League A R1, Group 3]
+2   Finland U19              7 |  2   3-2       |  1   2-1       |  3   5-3 [League A R1, Group 3]
+3   Ukraine U19              3 |  1   1-2       |  2   5-3       |  3   6-5 [League A R1, Group 3]
+4   Estonia U19              0 |  1   0-4       |  2   1-4       |  3   1-8 [League A R1, Group 3]
+1   Austria U19              7 |  2   6-2       |  1   2-1       |  3   8-3 [League A R1, Group 4]
+2   Israel U19               4 |  1   1-2       |  2   4-2       |  3   5-4 [League A R1, Group 4]
+3   Germany U19              4 |  2   3-4       |  1   2-2       |  3   5-6 [League A R1, Group 4]
+4   Bosnia-Herzegovina U19   1 |  1   1-1       |  2   1-6       |  3   2-7 [League A R1, Group 4]
+1   Romania U19              7 |  2  13-2       |  1   3-1       |  3  16-3 [League B R1, Group 1]
+2   Denmark U19              7 |  2   7-1       |  1   2-2       |  3   9-3 [League B R1, Group 1]
+3   Andorra U19              3 |  1   1-3       |  2   2-1       |  3   3-4 [League B R1, Group 1]
+4   Liechtenstein U19        0 |  1   0-2       |  2   1-17      |  3   1-19 [League B R1, Group 1]
+1   Kosovo U19               7 |  2  10-1       |  1   1-1       |  3  11-2 [League B R1, Group 2]
+2   Armenia U19              5 |  1   1-1       |  2  10-1       |  3  11-2 [League B R1, Group 2]
+3   Turkey U19               4 |  2   8-1       |  1   1-3       |  3   9-4 [League B R1, Group 2]
+4   Gibraltar U19            0 |  1   0-9       |  2   0-14      |  3   0-23 [League B R1, Group 2]
+1   Norway U19               7 |  2   4-0       |  1   2-2       |  3   6-2 [League B R1, Group 4]
+2   Luxembourg U19           6 |  1   2-1       |  2   4-3       |  3   6-4 [League B R1, Group 4]
+3   Albania U19              4 |  2   9-3       |  1   1-2       |  3  10-5 [League B R1, Group 4]
+4   Malta U19                0 |  1   0-4       |  2   1-8       |  3   1-12 [League B R1, Group 4]
+1   France U19               7 |  2   1-0       |  1   3-2       |  3   4-2 [League A R1, Group 7]
+2   Hungary U19              4 |  1   2-2       |  2   4-1       |  3   6-3 [League A R1, Group 7]
+3   Wales U19                4 |  1   0-4       |  2   2-1       |  3   2-5 [League A R1, Group 7]
+4   Switzerland U19          1 |  2   3-5       |  1   2-2       |  3   5-7 [League A R1, Group 7]
+1   Netherlands U19          9 |  2   5-0       |  1   3-0       |  3   8-0 [League B R1, Group 5]
+2   Moldova U19              4 |  1   1-1       |  2   2-1       |  3   3-2 [League B R1, Group 5]
+3   North Macedonia U19      2 |  1   0-0       |  2   1-5       |  3   1-5 [League B R1, Group 5]
+4   Faroe Islands U19        1 |  2   0-5       |  1   0-0       |  3   0-5 [League B R1, Group 5]
+1   Lithuania U19            4 |  1   0-0       |  1   4-0       |  2   4-0 [League B R1, Group 6]
+2   Northern Ireland U19     4 |  1   2-1       |  1   0-0       |  2   2-1 [League B R1, Group 6]
+3   Azerbaijan U19           0 |  1   0-4       |  1   1-2       |  2   1-6 [League B R1, Group 6]
+1   Belarus U19              9 |  2   9-0       |  0   0-0       |  3  12-0 [League B R1, Group 3]
+2   Slovakia U19             4 |  2   5-3       |  1   0-3       |  3   5-6 [League B R1, Group 3]
+3   Latvia U19               2 |  0   0-0       |  2   1-1       |  3   1-4 [League B R1, Group 3]
+4   San Marino U19           1 |  1   0-0       |  2   2-10      |  3   2-10 [League B R1, Group 3]
+1   Portugal U19             5 |  2   1-1       |  1   1-0       |  3   2-1 [League A R1, Group 6]
+2   Greece U19               4 |  1   0-1       |  2   4-2       |  3   4-3 [League A R1, Group 6]
+3   Kazakhstan U19           4 |  1   2-4       |  2   4-2       |  3   6-6 [League A R1, Group 6]
+4   Serbia U19               3 |  2   1-4       |  1   1-0       |  3   2-4 [League A R1, Group 6]
+1   Iceland U19              4 |  1   1-1       |  1   3-2       |  2   4-3 [League B R1, Group 7]
+2   Montenegro U19           2 |  1   1-1       |  1   1-1       |  2   2-2 [League B R1, Group 7]
+3   Georgia U19              1 |  1   2-3       |  1   1-1       |  2   3-4 [League B R1, Group 7]
+
+(15 API-Football requests used)
+
+----------------------------------------------------------------------
+MATCHBOOK: skipped (switched off for this run)

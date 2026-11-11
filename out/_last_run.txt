@@ -1,3 +1,4 @@
-RUN 2026-11-11 12:45 local | 1 match(es)
-Londrina v id:755 -> out/Londrina_v_id_755.txt
-Requests used: API-Football 25, Matchbook 0
+RUN 2026-11-11 13:29 local | 1 match(es)
+Ireland U19 v Greece U19 -> out/Ireland_U19_v_Greece_U19.txt
+    !! Ireland U19: Ambiguous team name "Ireland U19".
+Requests used: API-Football 15, Matchbook 0
