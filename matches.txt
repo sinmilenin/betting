@@ -1,2 +1,2 @@
-# scan 11.11 07:41 retry (Accrington ambiguous)
-Sheffield Wednesday v id:1360 | n=20 | xg=10
+# scan 11.11 08:29
+Vissel Kobe v Machida Zelvia | n=20 | xg=10
