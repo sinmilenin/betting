@@ -1,10 +1,6 @@
-RUN 2026-11-11 09:43 local | 6 match(es)
-Azerbaijan U19 v Montenegro U19 -> out/Azerbaijan_U19_v_Montenegro_U19.txt
-Slovenia U19 v England U19 -> out/Slovenia_U19_v_England_U19.txt
-Belgium U19 v Kosovo U19 -> out/Belgium_U19_v_Kosovo_U19.txt
-Andorra U19 v Poland U19 -> out/Andorra_U19_v_Poland_U19.txt
-MTK Budapest U19 v Haladas U19 -> out/MTK_Budapest_U19_v_Haladas_U19.txt
-    !! MTK Budapest U19: No team found for "MTK Budapest U19".
-    !! Haladas U19: No team found for "Haladas U19".
-China U19 v Vietnam U19 -> out/China_U19_v_Vietnam_U19.txt
-Requests used: API-Football 115, Matchbook 0
+RUN 2026-11-11 10:27 local | 2 match(es)
+Kenya U23 v Ivory Coast U23 -> out/Kenya_U23_v_Ivory_Coast_U23.txt
+    !! Ivory Coast U23: No team found for "Ivory Coast U23".
+Beykoz Anadolu v Yesil Yalova -> out/Beykoz_Anadolu_v_Yesil_Yalova.txt
+    !! Yesil Yalova: No team found for "Yesil Yalova".
+Requests used: API-Football 25, Matchbook 0
