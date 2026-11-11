@@ -1,3 +1,2 @@
-# scan 11.11 11:26 (retry names)
-Kenya U23 v Cote d'Ivoire U23 | n=20 | xg=10
-Beykoz Anadolu v Yalova Yesilovaspor | n=20 | xg=10
+# scan 11.11 11:26 (retry 2)
+Kenya U23 v Cote D Ivoire U23 | n=20 | xg=10
