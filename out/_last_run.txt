@@ -1,5 +1,4 @@
-RUN 2026-11-11 10:28 local | 2 match(es)
-Kenya U23 v Cote d'Ivoire U23 -> out/Kenya_U23_v_Cote_d_Ivoire_U23.txt
-    !! Cote d'Ivoire U23: API-Football error: {"search": "The Search field may only contain alpha-numeric characters and spaces."}
-Beykoz Anadolu v Yalova Yesilovaspor -> out/Beykoz_Anadolu_v_Yalova_Yesilovaspor.txt
-Requests used: API-Football 36, Matchbook 0
+RUN 2026-11-11 10:29 local | 1 match(es)
+Kenya U23 v Cote D Ivoire U23 -> out/Kenya_U23_v_Cote_D_Ivoire_U23.txt
+    !! Cote D Ivoire U23: No team found for "Cote D Ivoire U23".
+Requests used: API-Football 11, Matchbook 0
