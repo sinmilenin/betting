@@ -1,46 +1,13 @@
 [
   {
-    "id": "2026-11-10_boston-river-torque_2-2",
-    "date": "2026-11-10",
-    "ko": "20:30",
-    "match": "Boston River v Torque",
-    "comp": "Uruguay, Uruguayan Cup",
+    "id": "2026-11-11_bangladesh-sri-lanka_2-2",
+    "date": "2026-11-11",
+    "ko": "15:00",
+    "match": "Bangladesh v Sri Lanka",
+    "comp": "International, Other Competitions Soccer (SAFF Championship)",
     "cell": "2-2",
     "lay": 19,
     "stake": 3,
-    "created": "2026-11-10T17:19:41Z"
-  },
-  {
-    "id": "2026-11-10_scarborough-athletic-marine-fc_0-1",
-    "date": "2026-11-10",
-    "ko": "20:45",
-    "match": "Scarborough Athletic v Marine FC",
-    "comp": "United Kingdom, English National League North",
-    "cell": "0-1",
-    "lay": 18,
-    "stake": 3,
-    "created": "2026-11-10T17:19:41Z"
-  },
-  {
-    "id": "2026-11-10_millwall-u21-brighton-u21_0-1",
-    "date": "2026-11-10",
-    "ko": "20:00",
-    "match": "Millwall U21 v Brighton U21",
-    "comp": "United Kingdom, English U21 Premier League Cup",
-    "cell": "0-1",
-    "lay": 16,
-    "stake": 3,
-    "created": "2026-11-10T18:48:42Z"
-  },
-  {
-    "id": "2026-11-11_liverpool-montevideo-juventud-de-las-piedras_2-2",
-    "date": "2026-11-11",
-    "ko": "01:00",
-    "match": "Liverpool Montevideo v Juventud De Las Piedras",
-    "comp": "Uruguay, Uruguayan Cup",
-    "cell": "2-2",
-    "lay": 18.5,
-    "stake": 3,
-    "created": "2026-11-10T20:02:00Z"
+    "created": "2026-11-11T06:48:00Z"
   }
 ]
