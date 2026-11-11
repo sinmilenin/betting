@@ -1,3 +1,2 @@
-# scan 11.11 12:56
-Albania U19 v Cyprus U19 | n=20 | xg=10
-Czech Republic U19 v Netherlands U19 | n=20 | xg=10
+# scan 11.11 12:56 retry (Czech name)
+Czechia U19 v Netherlands U19 | n=20 | xg=10
