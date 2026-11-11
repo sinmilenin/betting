@@ -1,5 +1,3 @@
-RUN 2026-11-11 11:58 local | 2 match(es)
-Albania U19 v Cyprus U19 -> out/Albania_U19_v_Cyprus_U19.txt
-Czech Republic U19 v Netherlands U19 -> out/Czech_Republic_U19_v_Netherlands_U19.txt
-    !! Czech Republic U19: No team found for "Czech Republic U19".
-Requests used: API-Football 38, Matchbook 0
+RUN 2026-11-11 11:59 local | 1 match(es)
+Czechia U19 v Netherlands U19 -> out/Czechia_U19_v_Netherlands_U19.txt
+Requests used: API-Football 26, Matchbook 0
