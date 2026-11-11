@@ -1,2 +1,2 @@
-# scan 11.11 12:56 retry (Czech name)
-Czechia U19 v Netherlands U19 | n=20 | xg=10
+# scan 11.11 13:42 (top-20 run)
+Londrina v Nautico | n=20 | xg=10
