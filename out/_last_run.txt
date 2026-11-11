@@ -1,4 +1,7 @@
-RUN 2026-11-11 17:15 local | 2 match(es)
-Alcoyano v Elche II -> out/Alcoyano_v_Elche_II.txt
-Birmingham City W v Sunderland W -> out/Birmingham_City_W_v_Sunderland_W.txt
-Requests used: API-Football 51, Matchbook 0
+RUN 2026-11-11 18:44 local | 3 match(es)
+Fuerte San Francisco v Alianza -> out/Fuerte_San_Francisco_v_Alianza.txt
+Sunderland U21 v Paris Saint Germain U19 -> out/Sunderland_U21_v_Paris_Saint_Germain_U19.txt
+    !! Paris Saint Germain U19: No team found for "Paris Saint Germain U19".
+Tottenham W v Crystal Palace W -> out/Tottenham_W_v_Crystal_Palace_W.txt
+    !! Tottenham W: No team found for "Tottenham W".
+Requests used: API-Football 53, Matchbook 0
