@@ -9,5 +9,27 @@
     "lay": 19,
     "stake": 3,
     "created": "2026-11-11T06:48:00Z"
+  },
+  {
+    "id": "2026-11-11_fenerbahce-w-real-sociedad-w_0-1",
+    "date": "2026-11-11",
+    "ko": "18:00",
+    "match": "Fenerbahce (W) v Real Sociedad (W)",
+    "comp": "International, UEFA Ladies Europa Cup",
+    "cell": "0-1",
+    "lay": 9.8,
+    "stake": 3,
+    "created": "2026-11-11T16:36:18Z"
+  },
+  {
+    "id": "2026-11-11_wales-u19-finland-u19_0-1",
+    "date": "2026-11-11",
+    "ko": "20:00",
+    "match": "Wales U19 v Finland U19",
+    "comp": "International, UEFA U19 Euro Qualifiers",
+    "cell": "0-1",
+    "lay": 12,
+    "stake": 3,
+    "created": "2026-11-11T16:36:18Z"
   }
 ]
