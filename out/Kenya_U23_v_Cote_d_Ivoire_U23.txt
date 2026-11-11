@@ -1,6 +1,6 @@
-MATCH Kenya U23 v Ivory Coast U23 | fetched 2026-11-11 10:27 local
+MATCH Kenya U23 v Cote d'Ivoire U23 | fetched 2026-11-11 10:28 local
 
-FORM DATA Kenya U23 v Ivory Coast U23 | source API-Football | 2026-11-11 10:27 UTC
+FORM DATA Kenya U23 v Cote d'Ivoire U23 | source API-Football | 2026-11-11 10:28 UTC
 H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
 
 === Kenya U23 (id 17125): last 6 finished games ===
@@ -14,7 +14,7 @@ Listed home: 1 games, scored 4 (4.00), conceded 1 (1.00), blanks 0, clean sheets
 Listed away: 5 games, scored 6 (1.20), conceded 4 (0.80), blanks 2, clean sheets 3
 All: 6 games, scored 10 (1.67), conceded 5 (0.83), blanks 2, clean sheets 3
 
-!! Ivory Coast U23: No team found for "Ivory Coast U23".
+!! Cote d'Ivoire U23: API-Football error: {"search": "The Search field may only contain alpha-numeric characters and spaces."}
 
 (no league table available for Kenya U23: tried CAF U23 Cup of Nations 2027, CECAFA Senior Challenge Cup 2021)
 
