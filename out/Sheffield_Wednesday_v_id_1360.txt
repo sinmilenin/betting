@@ -1,6 +1,6 @@
-MATCH Sheffield Wednesday v Accrington | fetched 2026-11-11 06:44 local
+MATCH Sheffield Wednesday v id:1360 | fetched 2026-11-11 06:45 local
 
-FORM DATA Sheffield Wednesday v Accrington | source API-Football | 2026-11-11 06:44 UTC
+FORM DATA Sheffield Wednesday v id:1360 | source API-Football | 2026-11-11 06:45 UTC
 H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
 
 === Sheffield Wednesday (id 74): last 20 finished games ===
@@ -28,18 +28,30 @@ Listed home: 10 games, scored 17 (1.70), conceded 7 (0.70), blanks 4, clean shee
 Listed away: 10 games, scored 11 (1.10), conceded 15 (1.50), blanks 4, clean sheets 1
 All: 20 games, scored 28 (1.40), conceded 22 (1.10), blanks 8, clean sheets 6
 
-"Accrington" matches several teams. Use id:<number> instead of the name:
-  id:1360   Accrington ST (England)
-  id:19875  Accrington Stanley Res. (England)
-  id:25134  Accrington Stanley (England)
-  id:25423  Accrington Stanley U18 (England)
-(retrying Accrington using the opponent's country, England)
-"Accrington" matches several teams. Use id:<number> instead of the name:
-  id:1360   Accrington ST (England)
-  id:19875  Accrington Stanley Res. (England)
-  id:25134  Accrington Stanley (England)
-  id:25423  Accrington Stanley U18 (England)
-!! Accrington: Ambiguous team name "Accrington".
+=== Accrington ST (id 1360): last 20 finished games ===
+2026-11-07 H 0-2 v Wycombe | FA Cup | Accrington
+2026-10-31 H 1-1 v Northampton | League Two | Accrington | xG 1.16-0.64
+2026-10-24 A 5-0 v Rochdale | League Two | Rochdale | xG 3.36-0.56
+2026-10-20 A 1-1 v York | League Two | York | xG 1.05-1.87
+2026-10-17 H 3-1 v Gillingham | League Two | Accrington | xG 2.71-0.31
+2026-10-10 A 0-0 v Oldham | League Two | Oldham | xG 1.12-0.40
+2026-10-06 H 1-1 v Salford City | EFL Trophy | Accrington [PEN, 90-min score shown]
+2026-10-03 H 2-0 v Cheltenham | League Two | Accrington | xG 3.60-0.19
+2026-09-26 A 1-1 v Swindon Town | League Two | Swindon
+2026-09-22 H 3-3 v Sunderland U21 | EFL Trophy | Accrington [PEN, 90-min score shown]
+2026-09-19 H 0-0 v Newport County | League Two | Accrington
+2026-09-12 A 1-2 v Barnet | League Two | London
+2026-09-05 H 3-2 v Crawley Town | League Two | Accrington
+2026-09-01 H 2-2 v Grimsby | League Two | Accrington
+2026-08-29 A 2-3 v Walsall | League Two | Walsall
+2026-08-22 A 0-2 v Exeter City | League Two | Exeter
+2026-08-15 H 2-2 v Colchester | League Two | Accrington
+2026-08-08 A 1-2 v Crewe | League Cup | Crewe
+2026-08-01 H 0-0 v Sheffield Wednesday | Friendlies Clubs | ?
+2026-07-28 H 1-0 v Bury | Friendlies Clubs | ?
+Listed home: 12 games, scored 18 (1.50), conceded 14 (1.17), blanks 3, clean sheets 4
+Listed away: 8 games, scored 11 (1.38), conceded 11 (1.38), blanks 2, clean sheets 2
+All: 20 games, scored 29 (1.45), conceded 25 (1.25), blanks 5, clean sheets 6
 
 TABLE FOR Sheffield Wednesday
 LEAGUE TABLE League One 2026 | 24 teams | 158 games played
@@ -70,7 +82,36 @@ League averages per game: home 1.53, away 1.27, total 2.79
 23  Barnsley                 9 |  6   6-11      |  6   6-11      | 12  12-22
 24  Bromley                  9 |  6   4-14      |  7   9-19      | 13  13-33
 
-(16 API-Football requests used)
+TABLE FOR Accrington ST
+LEAGUE TABLE League Two 2026 | 24 teams | 164 games played
+League averages per game: home 1.58, away 1.10, total 2.68
+#   team                   Pts | home P GF-GA  | away P GF-GA  | all P GF-GA
+1   Salford City            31 |  7   9-4       |  7  16-11      | 14  25-15
+2   Barnet                  26 |  7  15-10      |  6  13-8       | 13  28-18
+3   Walsall                 22 |  6  10-6       |  7  11-6       | 13  21-12
+4   Crewe                   22 |  7  12-8       |  7   5-9       | 14  17-17
+5   Cheltenham              21 |  7  14-10      |  7   9-15      | 14  23-25
+6   Grimsby                 20 |  7  13-8       |  7  11-10      | 14  24-18
+7   York                    20 |  7  16-5       |  7   8-16      | 14  24-21
+8   Gillingham              20 |  7   8-9       |  7  12-10      | 14  20-19
+9   Accrington ST           19 |  7  13-8       |  7  10-9       | 14  23-17
+10  Chesterfield            19 |  7  16-9       |  7   8-12      | 14  24-21
+11  Tranmere                19 |  7  12-7       |  7   7-10      | 14  19-17
+12  Exeter City             19 |  7   8-2       |  7   3-7       | 14  11-9
+13  Swindon Town            19 |  7  12-7       |  7   3-10      | 14  15-17
+14  Newport County          18 |  7  14-6       |  7   6-11      | 14  20-17
+15  Shrewsbury              18 |  7   8-8       |  7   9-14      | 14  17-22
+16  Fleetwood Town          17 |  7  10-5       |  7   8-13      | 14  18-18
+17  Bristol Rovers          16 |  7  11-8       |  7   6-15      | 14  17-23
+18  Oldham                  15 |  7  11-8       |  7   4-11      | 14  15-19
+19  Port Vale               15 |  6   8-3       |  6   2-11      | 12  10-14
+20  Rochdale                15 |  7  10-13      |  7   7-13      | 14  17-26
+21  Northampton             14 |  7   4-4       |  6   5-6       | 13   9-10
+22  Rotherham               12 |  7  13-15      |  7   5-10      | 14  18-25
+23  Colchester              12 |  6   6-6       |  7   6-13      | 13  12-19
+24  Crawley Town             9 |  6   6-12      |  6   7-9       | 12  13-21
+
+(27 API-Football requests used)
 
 ----------------------------------------------------------------------
 MATCHBOOK: skipped (switched off for this run)
