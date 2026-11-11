@@ -1,6 +1,6 @@
-MATCH Piratas v Atletico La Paz | fetched 2026-11-11 19:57 local
+MATCH Piratas v CA La Paz | fetched 2026-11-11 19:58 local
 
-FORM DATA Piratas v Atletico La Paz | source API-Football | 2026-11-11 19:57 UTC
+FORM DATA Piratas v CA La Paz | source API-Football | 2026-11-11 19:58 UTC
 H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
 
 === Piratas (id 27935): last 17 finished games ===
@@ -25,7 +25,30 @@ Listed home: 8 games, scored 16 (2.00), conceded 5 (0.62), blanks 1, clean sheet
 Listed away: 9 games, scored 13 (1.44), conceded 12 (1.33), blanks 3, clean sheets 3
 All: 17 games, scored 29 (1.71), conceded 17 (1.00), blanks 4, clean sheets 6
 
-!! Atletico La Paz: No team found for "Atletico La Paz".
+=== CA La Paz (id 19024): last 20 finished games ===
+2026-11-08 H 3-3 v Tlaxcala | Liga de Expansión MX | La Paz | xG 2.88-2.26
+2026-11-05 A 1-0 v Tlaxcala | Liga de Expansión MX | Tlaxcala
+2026-10-31 H 3-0 v Dorados | Liga de Expansión MX | La Paz
+2026-10-25 A 3-1 v CDS Tampico Madero | Liga de Expansión MX | Tampico-Ciudad Madero
+2026-10-17 H 2-2 v Tlaxcala | Liga de Expansión MX | La Paz
+2026-10-09 A 4-2 v Tapatío | Liga de Expansión MX | Zapopan
+2026-10-03 H 1-2 v Venados FC | Liga de Expansión MX | La Paz
+2026-09-25 A 3-1 v Alebrijes de Oaxaca | Liga de Expansión MX | ?
+2026-09-19 H 3-1 v Correcaminos Uat | Liga de Expansión MX | La Paz
+2026-09-13 A 2-2 v Leones Negros UDG | Liga de Expansión MX | Guadalajara
+2026-09-05 H 3-0 v Mineros de Zacatecas | Liga de Expansión MX | La Paz
+2026-08-28 A 2-1 v Cancún | Liga de Expansión MX | ?
+2026-08-22 H 1-1 v Cruz Azul Hidalgo | Liga de Expansión MX | La Paz
+2026-08-15 H 2-0 v Piratas | Liga de Expansión MX | La Paz
+2026-08-08 A 5-0 v Tepatitlán | Liga de Expansión MX | ?
+2026-08-01 H 0-1 v Durango | Liga de Expansión MX | La Paz
+2026-07-26 A 2-4 v Monarcas | Liga de Expansión MX | Morelia
+2026-07-01 A 2-2 v FC Juarez | Friendlies Clubs | ?
+2026-04-26 H 1-2 v CDS Tampico Madero | Liga de Expansión MX | La Paz
+2026-04-23 A 0-2 v CDS Tampico Madero | Liga de Expansión MX | Tampico-Ciudad Madero
+Listed home: 10 games, scored 19 (1.90), conceded 12 (1.20), blanks 1, clean sheets 3
+Listed away: 10 games, scored 24 (2.40), conceded 15 (1.50), blanks 1, clean sheets 2
+All: 20 games, scored 43 (2.15), conceded 27 (1.35), blanks 2, clean sheets 5
 
 TABLE FOR Piratas
 LEAGUE TABLE Liga de Expansión MX 2026 | 16 teams | 120 games played
@@ -48,7 +71,9 @@ League averages per game: home 1.91, away 1.30, total 3.21
 15  Cruz Azul Hidalgo       14 |  7  12-9       |  8   5-15      | 15  17-24
 16  Tepatitlán               7 |  8   8-19      |  7   3-25      | 15  11-44
 
-(14 API-Football requests used)
+(CA La Paz: same table as Piratas, shown above)
+
+(25 API-Football requests used)
 
 ----------------------------------------------------------------------
 MATCHBOOK: skipped (switched off for this run)

@@ -1,5 +1,3 @@
-RUN 2026-11-11 19:57 local | 2 match(es)
-Quindio v Tigres -> out/Quindio_v_Tigres.txt
-Piratas v Atletico La Paz -> out/Piratas_v_Atletico_La_Paz.txt
-    !! Atletico La Paz: No team found for "Atletico La Paz".
-Requests used: API-Football 40, Matchbook 0
+RUN 2026-11-11 19:58 local | 1 match(es)
+Piratas v CA La Paz -> out/Piratas_v_CA_La_Paz.txt
+Requests used: API-Football 25, Matchbook 0
