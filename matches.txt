@@ -1,2 +1,2 @@
-# scan 11.11 15:15 (retry Artis)
-Artis v id:1122 | n=20 | xg=10
+# scan 11.11 15:15 (retry Bosnia search)
+Bosnia v San Marino U19 | n=20 | xg=10
