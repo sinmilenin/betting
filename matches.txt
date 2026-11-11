@@ -1,3 +1,2 @@
-# night scan 11.11 20:56
-Quindio v Tigres | n=20 | xg=10
-Piratas v Atletico La Paz | n=20 | xg=10
+# night scan 11.11 20:56 (retry La Paz)
+Piratas v CA La Paz | n=20 | xg=10
