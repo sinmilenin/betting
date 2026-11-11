@@ -1,6 +1,4 @@
-RUN 2026-11-11 08:14 local | 2 match(es)
-Yokohama F. Marinos v Kashima Antlers -> out/Yokohama_F_Marinos_v_Kashima_Antlers.txt
-    !! Yokohama F. Marinos: API-Football error: {"search": "The Search field may only contain alpha-numeric characters and spaces."}
-    !! Kashima Antlers: No team found for "Kashima Antlers".
-Kawasaki Frontale v Kashiwa Reysol -> out/Kawasaki_Frontale_v_Kashiwa_Reysol.txt
-Requests used: API-Football 27, Matchbook 0
+RUN 2026-11-11 08:15 local | 1 match(es)
+Yokohama F Marinos v Kashima -> out/Yokohama_F_Marinos_v_Kashima.txt
+    !! Yokohama F Marinos: No team found for "Yokohama F Marinos".
+Requests used: API-Football 14, Matchbook 0
