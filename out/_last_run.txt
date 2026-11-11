@@ -1,3 +1,4 @@
-RUN 2026-11-11 11:59 local | 1 match(es)
-Czechia U19 v Netherlands U19 -> out/Czechia_U19_v_Netherlands_U19.txt
-Requests used: API-Football 26, Matchbook 0
+RUN 2026-11-11 12:44 local | 1 match(es)
+Londrina v Nautico -> out/Londrina_v_Nautico.txt
+    !! Nautico: Ambiguous team name "Nautico".
+Requests used: API-Football 15, Matchbook 0
