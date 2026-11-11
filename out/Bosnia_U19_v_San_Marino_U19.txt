@@ -1,47 +1,36 @@
-MATCH Ireland U19 v Greece U19 | fetched 2026-11-11 13:29 local
+MATCH Bosnia U19 v San Marino U19 | fetched 2026-11-11 14:17 local
 
-FORM DATA Ireland U19 v Greece U19 | source API-Football | 2026-11-11 13:29 UTC
+FORM DATA Bosnia U19 v San Marino U19 | source API-Football | 2026-11-11 14:17 UTC
 H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
 
-"Ireland U19" matches several teams. Use id:<number> instead of the name:
-  id:10375  Northern Ireland U19 (Northern-Ireland) national
-  id:10377  Republic of Ireland U19 (Ireland) national
-  id:23603  Republic of Ireland U19 W (Ireland)
-  id:27159  Northern Ireland U19 W (Northern-Ireland)
-=== Greece U19 (id 10364): last 20 finished games ===
-2026-06-09 A 4-2 v Kazakhstan U19 | UEFA U19 Championship - Qualification | ?
-2026-06-06 A 0-0 v Portugal U19 | UEFA U19 Championship - Qualification | ?
-2026-06-03 H 0-1 v Serbia U19 | UEFA U19 Championship - Qualification | ?
-2026-05-28 H 1-2 v England U18 | Friendlies | Achna
-2026-05-27 A 2-0 v Cyprus U19 | Friendlies | ?
-2026-03-31 A 2-2 v Sweden U19 | UEFA U19 Championship - Qualification | ?
-2026-03-28 A 0-1 v Germany U19 | UEFA U19 Championship - Qualification | Dreieich
-2026-03-25 H 1-1 v Austria U19 | UEFA U19 Championship - Qualification | Frankfurt
-2026-02-12 A 0-2 v Croatia U19 | Friendlies | ?
-2026-02-10 A 0-0 v Turkey U19 | Friendlies | ?
-2025-11-18 H 1-2 v Turkey U19 | UEFA U19 Championship - Qualification | ?
-2025-11-15 H 8-0 v Liechtenstein U19 | UEFA U19 Championship - Qualification | ?
-2025-11-12 A 2-0 v ABFF U19 | UEFA U19 Championship - Qualification | ?
-2025-10-12 A 4-0 v Hungary U19 | Friendlies | ?
-2025-10-09 A 0-1 v Hungary U19 | Friendlies | ?
-2025-09-09 A 0-0 v Georgia U19 | Friendlies | ?
-2025-09-07 A 0-0 v Georgia U19 | Friendlies | ?
-2024-11-19 H 0-1 v Italy U19 | UEFA U19 Championship - Qualification | Heraklion
-2024-11-16 H 0-3 v Montenegro U19 | UEFA U19 Championship - Qualification | Heraklion
-2024-11-13 A 5-2 v Bosnia-Herzegovina U19 | UEFA U19 Championship - Qualification | Heraklion
-Listed home: 7 games, scored 11 (1.57), conceded 10 (1.43), blanks 3, clean sheets 1
-Listed away: 13 games, scored 19 (1.46), conceded 10 (0.77), blanks 7, clean sheets 7
-All: 20 games, scored 30 (1.50), conceded 20 (1.00), blanks 10, clean sheets 8
+=== San Marino U19 (id 10379): last 20 finished games ===
+2026-05-21 H 0-0 v Latvia U19 | UEFA U19 Championship - Qualification | ?
+2026-05-18 A 0-6 v Belarus U19 | UEFA U19 Championship - Qualification | ?
+2026-05-15 A 2-4 v Slovakia U19 | UEFA U19 Championship - Qualification | ?
+2025-11-18 H 0-2 v Sweden U19 | UEFA U19 Championship - Qualification | ?
+2025-11-15 A 0-3 v Switzerland U19 | UEFA U19 Championship - Qualification | ?
+2025-11-12 A 0-6 v Denmark U19 | UEFA U19 Championship - Qualification | ?
+2024-10-15 H 0-4 v Switzerland U19 | UEFA U19 Championship - Qualification | Järvenpää
+2024-10-12 A 0-5 v Finland U19 | UEFA U19 Championship - Qualification | Järvenpää
+2024-10-09 A 0-2 v Czech Republic U19 | UEFA U19 Championship - Qualification | Vantaa
+2023-10-17 H 0-8 v Finland U19 | UEFA U19 Championship - Qualification | Slezská Ostrava
+2023-10-14 A 0-7 v Romania U19 | UEFA U19 Championship - Qualification | Slezská Ostrava
+2023-10-11 A 0-4 v Czech Republic U19 | UEFA U19 Championship - Qualification | Opava
+2022-11-23 H 0-2 v North Macedonia U19 | UEFA U19 Championship - Qualification | Skopje
+2022-11-20 A 0-4 v Serbia U19 | UEFA U19 Championship - Qualification | Skopje
+2022-11-17 A 0-2 v Norway U19 | UEFA U19 Championship - Qualification | Skopje
+2021-11-16 H 0-2 v Latvia U19 | UEFA U19 Championship - Qualification | Manavgat
+2021-11-13 A 0-5 v Romania U19 | UEFA U19 Championship - Qualification | Manavgat
+2021-11-10 A 1-3 v Turkey U19 | UEFA U19 Championship - Qualification | Side
+2019-10-15 H 0-2 v Azerbaijan U19 | UEFA U19 Championship | Frýdek-Místek
+2019-10-12 A 1-8 v Norway U19 | UEFA U19 Championship | Frýdek-Místek
+Listed home: 7 games, scored 0 (0.00), conceded 20 (2.86), blanks 7, clean sheets 1
+Listed away: 13 games, scored 4 (0.31), conceded 59 (4.54), blanks 10, clean sheets 0
+All: 20 games, scored 4 (0.20), conceded 79 (3.95), blanks 17, clean sheets 1
 
-(retrying Ireland U19 using the opponent's country, Greece)
-"Ireland U19" matches several teams. Use id:<number> instead of the name:
-  id:10375  Northern Ireland U19 (Northern-Ireland) national
-  id:10377  Republic of Ireland U19 (Ireland) national
-  id:23603  Republic of Ireland U19 W (Ireland)
-  id:27159  Northern Ireland U19 W (Northern-Ireland)
-!! Ireland U19: Ambiguous team name "Ireland U19".
+!! Bosnia U19: No team found for "Bosnia U19".
 
-TABLE FOR Greece U19
+TABLE FOR San Marino U19
 LEAGUE TABLE UEFA U19 Championship - Qualification 2027 | 54 teams | 77 games played
 League averages per game: home 1.91, away 1.44, total 3.35
 #   team                   Pts | home P GF-GA  | away P GF-GA  | all P GF-GA
@@ -100,7 +89,7 @@ League averages per game: home 1.91, away 1.44, total 3.35
 2   Montenegro U19           2 |  1   1-1       |  1   1-1       |  2   2-2 [League B R1, Group 7]
 3   Georgia U19              1 |  1   2-3       |  1   1-1       |  2   3-4 [League B R1, Group 7]
 
-(15 API-Football requests used)
+(13 API-Football requests used)
 
 ----------------------------------------------------------------------
 MATCHBOOK: skipped (switched off for this run)

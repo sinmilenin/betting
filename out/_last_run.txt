@@ -1,4 +1,9 @@
-RUN 2026-11-11 13:29 local | 1 match(es)
-Ireland U19 v Greece U19 -> out/Ireland_U19_v_Greece_U19.txt
-    !! Ireland U19: Ambiguous team name "Ireland U19".
-Requests used: API-Football 15, Matchbook 0
+RUN 2026-11-11 14:17 local | 4 match(es)
+Kazakhstan U19 v Scotland U19 -> out/Kazakhstan_U19_v_Scotland_U19.txt
+Bosnia U19 v San Marino U19 -> out/Bosnia_U19_v_San_Marino_U19.txt
+    !! Bosnia U19: No team found for "Bosnia U19".
+Artis Brno v Jablonec -> out/Artis_Brno_v_Jablonec.txt
+    !! Artis Brno: No team found for "Artis Brno".
+    !! Jablonec: Ambiguous team name "Jablonec".
+France U19 v Norway U19 -> out/France_U19_v_Norway_U19.txt
+Requests used: API-Football 64, Matchbook 0
