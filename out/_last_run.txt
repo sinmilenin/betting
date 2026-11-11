@@ -1,3 +1,3 @@
-RUN 2026-11-11 06:45 local | 1 match(es)
-Sheffield Wednesday v id:1360 -> out/Sheffield_Wednesday_v_id_1360.txt
-Requests used: API-Football 27, Matchbook 0
+RUN 2026-11-11 07:30 local | 1 match(es)
+Vissel Kobe v Machida Zelvia -> out/Vissel_Kobe_v_Machida_Zelvia.txt
+Requests used: API-Football 25, Matchbook 0
