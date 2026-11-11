@@ -1,5 +1,4 @@
-RUN 2026-11-11 14:18 local | 2 match(es)
-Bosnia & Herzegovina U19 v San Marino U19 -> out/Bosnia_Herzegovina_U19_v_San_Marino_U19.txt
-    !! Bosnia & Herzegovina U19: API-Football error: {"search": "The Search field may only contain alpha-numeric characters and spaces."}
-Zbrojovka Brno v id:1122 -> out/Zbrojovka_Brno_v_id_1122.txt
-Requests used: API-Football 39, Matchbook 0
+RUN 2026-11-11 14:19 local | 1 match(es)
+Bosnia Herzegovina U19 v San Marino U19 -> out/Bosnia_Herzegovina_U19_v_San_Marino_U19.txt
+    !! Bosnia Herzegovina U19: No team found for "Bosnia Herzegovina U19".
+Requests used: API-Football 14, Matchbook 0

@@ -1,6 +1,6 @@
-MATCH Bosnia & Herzegovina U19 v San Marino U19 | fetched 2026-11-11 14:18 local
+MATCH Bosnia Herzegovina U19 v San Marino U19 | fetched 2026-11-11 14:19 local
 
-FORM DATA Bosnia & Herzegovina U19 v San Marino U19 | source API-Football | 2026-11-11 14:18 UTC
+FORM DATA Bosnia Herzegovina U19 v San Marino U19 | source API-Football | 2026-11-11 14:19 UTC
 H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
 
 === San Marino U19 (id 10379): last 20 finished games ===
@@ -28,7 +28,7 @@ Listed home: 7 games, scored 0 (0.00), conceded 20 (2.86), blanks 7, clean sheet
 Listed away: 13 games, scored 4 (0.31), conceded 59 (4.54), blanks 10, clean sheets 0
 All: 20 games, scored 4 (0.20), conceded 79 (3.95), blanks 17, clean sheets 1
 
-!! Bosnia & Herzegovina U19: API-Football error: {"search": "The Search field may only contain alpha-numeric characters and spaces."}
+!! Bosnia Herzegovina U19: No team found for "Bosnia Herzegovina U19".
 
 TABLE FOR San Marino U19
 LEAGUE TABLE UEFA U19 Championship - Qualification 2027 | 54 teams | 77 games played
