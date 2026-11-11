@@ -1,0 +1,82 @@
+MATCH Artis v id:1122 | fetched 2026-11-11 14:20 local
+
+FORM DATA Artis v id:1122 | source API-Football | 2026-11-11 14:20 UTC
+H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
+
+=== Artis (id 4257): last 20 finished games ===
+2026-11-08 A 1-4 v Slavia Praha | Czech Liga | Prague | xG 0.60-2.13
+2026-11-04 H 1-2 v Bohemians 1905 | Czech Liga | Brno | xG 0.76-1.32
+2026-10-31 H 2-2 v Zlin | Czech Liga | Brno | xG 1.75-1.38
+2026-10-24 A 0-0 v Teplice | Czech Liga | Teplice | xG 1.45-2.39
+2026-10-10 A 4-2 v Hradec Králové | Czech Liga | Hradec Kralove | xG 1.33-1.76
+2026-10-03 H 3-0 v AS Trencin | Friendlies Clubs | ?
+2026-09-19 H 0-0 v Slovan Liberec | Czech Liga | Brno | xG 0.66-0.46
+2026-09-16 A 3-0 v Vítkovice | Cup | ?
+2026-09-12 A 1-2 v Zbrojovka Brno | Czech Liga | Brno | xG 1.04-1.29
+2026-09-05 H 0-3 v Plzen | Czech Liga | Brno | xG 0.44-1.70
+2026-08-29 A 2-1 v Pardubice | Czech Liga | Pardubice
+2026-08-26 A 2-0 v Uherský Brod | Cup | Uhersky Brod
+2026-08-22 H 0-4 v Sparta Praha | Czech Liga | Brno
+2026-08-16 A 0-1 v Baník Ostrava | Czech Liga | Ostrava
+2026-08-09 H 1-2 v Sigma Olomouc | Czech Liga | Brno
+2026-08-01 A 1-1 v Slovácko | Czech Liga | Uherske Hradiste
+2026-07-27 H 2-4 v Mlada Boleslav | Czech Liga | Brno
+2026-07-18 A 2-2 v Wisla Krakow | Friendlies Clubs | ?
+2026-07-10 A 2-2 v SKU Amstetten | Friendlies Clubs | ?
+2026-07-03 A 1-1 v SKN ST. Polten | Friendlies Clubs | ?
+Listed home: 8 games, scored 9 (1.12), conceded 17 (2.12), blanks 3, clean sheets 2
+Listed away: 12 games, scored 19 (1.58), conceded 16 (1.33), blanks 2, clean sheets 3
+All: 20 games, scored 28 (1.40), conceded 33 (1.65), blanks 5, clean sheets 5
+
+=== FK Jablonec (id 1122): last 20 finished games ===
+2026-11-08 H 0-0 v Mlada Boleslav | Czech Liga | Jablonec | xG 0.82-0.50
+2026-11-05 A 1-1 v Riga | UEFA Europa Conference League | Rīga | xG 0.90-1.32
+2026-10-31 H 0-5 v Slavia Praha | Czech Liga | Jablonec | xG 0.58-2.19
+2026-10-25 A 2-1 v Hradec Králové | Czech Liga | Hradec Krlove | xG 2.03-2.34
+2026-10-22 H 0-0 v Brighton | UEFA Europa Conference League | Jablonec nad Nisou | xG 0.73-1.42
+2026-10-18 H 2-3 v Plzen | Czech Liga | Jablonec | xG 3.16-1.11
+2026-10-15 A 2-3 v SC Freiburg | UEFA Europa Conference League | Freiburg | xG 1.27-1.78
+2026-10-10 A 1-0 v Zbrojovka Brno | Czech Liga | Brno | xG 1.26-0.56
+2026-10-02 A 1-0 v Dukla Praha | Cup | Prague
+2026-09-20 H 1-1 v Zlin | Czech Liga | Jablonec nad Nisou | xG 1.16-0.39
+2026-09-12 A 0-2 v Sparta Praha | Czech Liga | Prague
+2026-09-09 H 3-0 v Baník Ostrava | Czech Liga | Jablonec
+2026-09-06 H 1-2 v Slovan Liberec | Czech Liga | Jablonec
+2026-09-02 A 1-1 v Bohemians 1905 | Czech Liga | Prague
+2026-08-30 A 0-2 v Teplice | Czech Liga | Teplice
+2026-08-27 H 1-0 v Rangers | UEFA Europa Conference League | Jablonec nad Nisou [PEN, 90-min score shown]
+2026-08-20 A 0-1 v Rangers | UEFA Europa Conference League | Glasgow
+2026-08-13 A 2-1 v Rīgas FS | UEFA Europa Conference League | Rīga
+2026-08-09 H 1-0 v Slovácko | Czech Liga | Jablonec
+2026-08-06 H 2-0 v Rīgas FS | UEFA Europa Conference League | Jablonec
+Listed home: 10 games, scored 11 (1.10), conceded 11 (1.10), blanks 3, clean sheets 6
+Listed away: 10 games, scored 10 (1.00), conceded 12 (1.20), blanks 3, clean sheets 2
+All: 20 games, scored 21 (1.05), conceded 23 (1.15), blanks 6, clean sheets 8
+
+TABLE FOR Artis
+LEAGUE TABLE Czech Liga 2026 | 16 teams | 111 games played
+League averages per game: home 1.45, away 1.31, total 2.76
+#   team                   Pts | home P GF-GA  | away P GF-GA  | all P GF-GA
+1   Slavia Praha            34 |  8  20-7       |  6  16-1       | 14  36-8
+2   Slovan Liberec          26 |  6   7-4       |  7   9-4       | 13  16-8
+3   Mlada Boleslav          25 |  6  14-2       |  8   8-13      | 14  22-15
+4   Sparta Praha            24 |  6  16-6       |  8  10-8       | 14  26-14
+5   Sigma Olomouc           24 |  6  12-6       |  8  10-14      | 14  22-20
+6   Teplice                 21 |  8  12-15      |  6  10-7       | 14  22-22
+7   FK Jablonec             21 |  8  10-12      |  6   6-6       | 14  16-18
+8   Plzen                   20 |  8  13-13      |  6  16-9       | 14  29-22
+9   Bohemians 1905          20 |  6   5-1       |  8  10-14      | 14  15-15
+10  Zbrojovka Brno          20 |  8  12-11      |  6   5-11      | 14  17-22
+11  Hradec Králové          18 |  8  14-11      |  6   3-7       | 14  17-18
+12  Pardubice               17 |  6   8-8       |  8  11-12      | 14  19-20
+13  Baník Ostrava           14 |  6   3-10      |  7   7-13      | 13  10-23
+14  Artis                   10 |  7   6-17      |  7   9-11      | 14  15-28
+15  Slovácko                10 |  6   6-10      |  8   7-16      | 14  13-26
+16  Zlin                     3 |  8   3-12      |  6   8-15      | 14  11-27
+
+(FK Jablonec: same table as Artis, shown above)
+
+(25 API-Football requests used)
+
+----------------------------------------------------------------------
+MATCHBOOK: skipped (switched off for this run)

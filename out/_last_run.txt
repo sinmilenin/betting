@@ -1,4 +1,3 @@
-RUN 2026-11-11 14:19 local | 1 match(es)
-Bosnia Herzegovina U19 v San Marino U19 -> out/Bosnia_Herzegovina_U19_v_San_Marino_U19.txt
-    !! Bosnia Herzegovina U19: No team found for "Bosnia Herzegovina U19".
-Requests used: API-Football 14, Matchbook 0
+RUN 2026-11-11 14:20 local | 1 match(es)
+Artis v id:1122 -> out/Artis_v_id_1122.txt
+Requests used: API-Football 25, Matchbook 0
