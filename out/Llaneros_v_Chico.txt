@@ -1,6 +1,6 @@
-MATCH Llaneros v Boyaca Chico | fetched 2026-11-12 19:59 local
+MATCH Llaneros v Chico | fetched 2026-11-12 20:00 local
 
-FORM DATA Llaneros v Boyaca Chico | source API-Football | 2026-11-12 19:59 UTC
+FORM DATA Llaneros v Chico | source API-Football | 2026-11-12 20:00 UTC
 H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
 
 === Llaneros (id 1464): last 20 finished games ===
@@ -28,26 +28,30 @@ Listed home: 9 games, scored 12 (1.33), conceded 12 (1.33), blanks 2, clean shee
 Listed away: 11 games, scored 11 (1.00), conceded 17 (1.55), blanks 2, clean sheets 1
 All: 20 games, scored 23 (1.15), conceded 29 (1.45), blanks 4, clean sheets 4
 
-=== Boyacá Chicó W (id 20878): last 16 finished games ===
-2023-05-23 H 1-1 v Junior W | Liga Femenina | Yopal
-2023-05-18 A 0-0 v Deportivo Cali W | Liga Femenina | Palmira
-2023-05-13 H 2-1 v Millonarios W | Liga Femenina | Yopal
-2023-05-07 A 1-1 v Deportivo Pasto W | Liga Femenina | San Juan de Pasto
-2023-04-30 H 0-0 v Real San Andrés W | Liga Femenina | Yopal
-2023-04-25 A 3-1 v Deportes Tolima W | Liga Femenina | Ibagué
-2023-04-16 H 2-0 v Independiente Medellín W | Liga Femenina | Yopal
-2023-04-03 A 1-1 v Atlético Huila W | Liga Femenina | Neiva
-2023-03-26 H 0-3 v América de Cali W | Liga Femenina | Yopal
-2023-03-18 A 0-0 v Atlético Bucaramanga W | Liga Femenina | Floridablanca
-2023-03-11 H 0-2 v Santa Fe W | Liga Femenina | Yopal
-2023-03-06 A 0-2 v Llaneros W | Liga Femenina | Villavicencio
-2023-03-02 H 1-1 v Cortuluá W | Liga Femenina | Yopal
-2023-02-26 A 1-0 v La Equidad W | Liga Femenina | Bogotá, D.C.
-2023-02-12 H 1-2 v Deportivo Pereira W | Liga Femenina | Yopal
-2023-02-07 A 0-0 v Atlético Nacional W | Liga Femenina | Medellín
-Listed home: 8 games, scored 7 (0.88), conceded 10 (1.25), blanks 3, clean sheets 2
-Listed away: 8 games, scored 6 (0.75), conceded 5 (0.62), blanks 4, clean sheets 4
-All: 16 games, scored 13 (0.81), conceded 15 (0.94), blanks 7, clean sheets 6
+=== Chico (id 1132): last 20 finished games ===
+2026-11-06 H 2-1 v Internacional de Bogota | Primera A | Tunja | xG 2.20-0.91
+2026-11-01 A 0-2 v Deportivo Cali | Primera A | Palmira | xG 0.76-0.67
+2026-10-28 H 1-1 v Junior | Primera A | Tunja | xG 0.85-0.33
+2026-10-23 H 1-0 v Bucaramanga | Primera A | Tunja | xG 1.08-0.38
+2026-10-20 A 0-2 v Deportivo Pereira | Primera A | Yopal | xG 0.83-1.41
+2026-10-17 H 1-4 v Atletico Nacional | Primera A | Tunja | xG 1.19-1.17
+2026-10-11 H 0-1 v Cucuta | Primera A | Tunja | xG 0.50-0.87
+2026-10-03 A 0-0 v Deportes Tolima | Primera A | Iwag | xG 0.04-1.11
+2026-09-25 H 3-0 v Deportivo Pasto | Primera A | Tunja | xG 0.73-1.31
+2026-09-19 A 0-3 v Millonarios | Primera A | Bogota | xG 0.49-2.09
+2026-09-16 H 1-2 v Alianza Valledupar | Primera A | Tunja
+2026-09-12 H 2-1 v Independiente Medellin | Primera A | Tunja
+2026-09-05 H 2-0 v Once Caldas | Primera A | Tunja
+2026-08-30 A 2-2 v Águilas Doradas | Primera A | Medellin
+2026-08-26 H 0-0 v Fortaleza FC | Primera A | Tunja
+2026-08-21 A 0-1 v Jaguares | Primera A | Monteria
+2026-08-08 A 0-2 v Santa Fe | Primera A | Bogota
+2026-08-02 A 0-7 v America de Cali | Primera A | Cali
+2026-05-27 H 0-1 v Llaneros | Copa Colombia | Tunja
+2026-05-23 A 2-2 v Millonarios | Copa Colombia | Bogota
+Listed home: 11 games, scored 13 (1.18), conceded 11 (1.00), blanks 3, clean sheets 4
+Listed away: 9 games, scored 4 (0.44), conceded 21 (2.33), blanks 7, clean sheets 1
+All: 20 games, scored 17 (0.85), conceded 32 (1.60), blanks 10, clean sheets 5
 
 TABLE FOR Llaneros
 LEAGUE TABLE Primera A 2026 | 40 teams | 370 games played
@@ -94,9 +98,9 @@ League averages per game: home 1.49, away 1.03, total 2.53
 19  Jaguares                13 |  9  11-16      |  9   6-19      | 18  17-35 [Clausura]
 20  Fortaleza FC            12 |  9   9-15      |  9   8-13      | 18  17-28 [Clausura]
 
-(no league table available for Boyacá Chicó W: tried Liga Femenina 2023)
+(Chico: same table as Llaneros, shown above)
 
-(26 API-Football requests used)
+(25 API-Football requests used)
 
 ----------------------------------------------------------------------
 MATCHBOOK: skipped (switched off for this run)

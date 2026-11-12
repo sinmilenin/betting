@@ -1,6 +1,6 @@
-MATCH Atletico Morelia v Leones Negros | fetched 2026-11-12 19:59 local
+MATCH Morelia v Leones Negros | fetched 2026-11-12 20:00 local
 
-FORM DATA Atletico Morelia v Leones Negros | source API-Football | 2026-11-12 19:59 UTC
+FORM DATA Morelia v Leones Negros | source API-Football | 2026-11-12 20:00 UTC
 H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
 
 === Leones Negros (id 15933): last 20 finished games ===
@@ -28,7 +28,7 @@ Listed home: 10 games, scored 18 (1.80), conceded 8 (0.80), blanks 1, clean shee
 Listed away: 10 games, scored 14 (1.40), conceded 17 (1.70), blanks 5, clean sheets 2
 All: 20 games, scored 32 (1.60), conceded 25 (1.25), blanks 6, clean sheets 5
 
-!! Atletico Morelia: No team found for "Atletico Morelia".
+!! Morelia: No team found for "Morelia".
 
 TABLE FOR Leones Negros
 LEAGUE TABLE Liga Premier Serie A 2025 | 41 teams | 520 games played

@@ -1,26 +1,33 @@
-MATCH Curacao v Panama | fetched 2026-11-12 19:59 local
+MATCH id:5530 v Panama | fetched 2026-11-12 20:00 local
 
-FORM DATA Curacao v Panama | source API-Football | 2026-11-12 19:59 UTC
+FORM DATA id:5530 v Panama | source API-Football | 2026-11-12 20:00 UTC
 H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
 
-"Curacao" matches several teams. Use id:<number> instead of the name:
-  id:5530   Curaçao (Curacao) national
-  id:10975  VESTA (Curacao)
-  id:10978  Jong Holland (Curacao)
-  id:10995  Curaçao U20 (Curacao) national
-  id:14017  Centro Barber (Curacao)
-  id:14018  Centro Dominguito (Curacao)
-  id:14019  Fortuna Kura Piedra (Curacao)
-  id:14020  Inter Willemstad (Curacao)
-  id:14021  SUBT (Curacao)
-  id:14022  Scherpenheuvel (Curacao)
-  id:14023  UNDEBA (Curacao)
-  id:14024  Victory Boys (Curacao)
-  id:16456  SITHOC (Curacao)
-  id:18941  Curaçao W U17 (Curacao) national
-  id:19142  Curaçao W (Curacao) national
-  id:20992  Curaçao U17 (Curacao) national
-  id:22604  Atlétiko Saliña (Curacao)
+=== Curaçao (id 5530): last 20 finished games ===
+2026-10-04 A 1-1 v Trinidad and Tobago | CONCACAF Nations League | Port of Spain
+2026-10-01 H 1-0 v Trinidad and Tobago | CONCACAF Nations League | Willemstad
+2026-09-28 H 6-1 v Nicaragua | CONCACAF Nations League | Willemstad
+2026-09-25 A 4-3 v Costa Rica | CONCACAF Nations League | San Jose
+2026-06-25 H 0-2 v Ivory Coast | World Cup | Philadelphia | xG 0.50-1.31
+2026-06-21 A 0-0 v Ecuador | World Cup | Kansas City | xG 0.50-2.84
+2026-06-14 A 1-7 v Germany | World Cup | Houston | xG 0.41-4.22
+2026-06-07 H 4-0 v Aruba | Friendlies | Willemstad
+2026-05-30 A 1-4 v Scotland | Friendlies | Glasgow
+2026-03-31 A 1-5 v Australia | FIFA Series | Melbourne
+2026-03-27 A 0-2 v China | FIFA Series | Sydney
+2025-11-19 A 0-0 v Jamaica | World Cup - Qualification CONCACAF | Kingston
+2025-11-14 A 7-0 v Bermuda | World Cup - Qualification CONCACAF | Hamilton
+2025-10-14 H 1-1 v Trinidad and Tobago | World Cup - Qualification CONCACAF | Willemstad
+2025-10-10 H 2-0 v Jamaica | World Cup - Qualification CONCACAF | Willemstad
+2025-09-10 H 3-2 v Bermuda | World Cup - Qualification CONCACAF | Willemstad
+2025-09-06 A 0-0 v Trinidad and Tobago | World Cup - Qualification CONCACAF | Port of Spain
+2025-06-25 A 1-2 v Honduras | CONCACAF Gold Cup | San Jose, California
+2025-06-21 H 1-1 v Canada | CONCACAF Gold Cup | Houston, Texas
+2025-06-18 H 0-0 v El Salvador | CONCACAF Gold Cup | San Jose, California
+Listed home: 9 games, scored 18 (2.00), conceded 7 (0.78), blanks 2, clean sheets 4
+Listed away: 11 games, scored 16 (1.45), conceded 24 (2.18), blanks 4, clean sheets 4
+All: 20 games, scored 34 (1.70), conceded 31 (1.55), blanks 6, clean sheets 8
+
 === Panama (id 11): last 20 finished games ===
 2026-10-05 A 1-1 v Ecuador | Kirin Cup | ?
 2026-10-01 H 1-1 v New Zealand | Kirin Cup | Yokohama [PEN, 90-min score shown]
@@ -46,28 +53,7 @@ Listed home: 10 games, scored 12 (1.20), conceded 11 (1.10), blanks 3, clean she
 Listed away: 10 games, scored 12 (1.20), conceded 14 (1.40), blanks 2, clean sheets 2
 All: 20 games, scored 24 (1.20), conceded 25 (1.25), blanks 5, clean sheets 3
 
-(retrying Curacao using the opponent's country, Panama)
-"Curacao" matches several teams. Use id:<number> instead of the name:
-  id:5530   Curaçao (Curacao) national
-  id:10975  VESTA (Curacao)
-  id:10978  Jong Holland (Curacao)
-  id:10995  Curaçao U20 (Curacao) national
-  id:14017  Centro Barber (Curacao)
-  id:14018  Centro Dominguito (Curacao)
-  id:14019  Fortuna Kura Piedra (Curacao)
-  id:14020  Inter Willemstad (Curacao)
-  id:14021  SUBT (Curacao)
-  id:14022  Scherpenheuvel (Curacao)
-  id:14023  UNDEBA (Curacao)
-  id:14024  Victory Boys (Curacao)
-  id:16456  SITHOC (Curacao)
-  id:18941  Curaçao W U17 (Curacao) national
-  id:19142  Curaçao W (Curacao) national
-  id:20992  Curaçao U17 (Curacao) national
-  id:22604  Atlétiko Saliña (Curacao)
-!! Curacao: Ambiguous team name "Curacao".
-
-TABLE FOR Panama
+TABLE FOR Curaçao
 LEAGUE TABLE World Cup 2026 | 60 teams | 0 games played
 #   team                   Pts | home P GF-GA  | away P GF-GA  | all P GF-GA
 1   Mexico                   9 |  0   0-0       |  0   0-0       |  3   6-0 [Group A]
@@ -131,7 +117,9 @@ LEAGUE TABLE World Cup 2026 | 60 teams | 0 games played
 11  Scotland                 3 |  0   0-0       |  0   0-0       |  3   1-4 [Group Stage]
 12  Uruguay                  2 |  0   0-0       |  0   0-0       |  3   3-4 [Group Stage]
 
-(16 API-Football requests used)
+(Panama: same table as Curaçao, shown above)
+
+(27 API-Football requests used)
 
 ----------------------------------------------------------------------
 MATCHBOOK: skipped (switched off for this run)
