@@ -1,8 +1,5 @@
-RUN 2026-11-12 20:00 local | 5 match(es)
-id:7865 v id:13975 -> out/id_7865_v_id_13975.txt
-id:5530 v Panama -> out/id_5530_v_Panama.txt
-id:450 v id:473 -> out/id_450_v_id_473.txt
-Llaneros v Chico -> out/Llaneros_v_Chico.txt
-Morelia v Leones Negros -> out/Morelia_v_Leones_Negros.txt
-    !! Morelia: No team found for "Morelia".
-Requests used: API-Football 116, Matchbook 0
+RUN 2026-11-12 20:01 local | 2 match(es)
+Atlético Morelia v Leones Negros -> out/Atl_tico_Morelia_v_Leones_Negros.txt
+    !! Atlético Morelia: API-Football error: {"search": "The Search field may only contain alpha-numeric characters and spaces."}
+Monarcas v Leones Negros -> out/Monarcas_v_Leones_Negros.txt
+Requests used: API-Football 39, Matchbook 0
