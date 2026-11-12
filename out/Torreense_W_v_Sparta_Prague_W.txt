@@ -1,0 +1,38 @@
+MATCH Torreense W v Sparta Prague W | fetched 2026-11-12 14:16 local
+
+FORM DATA Torreense W v Sparta Prague W | source API-Football | 2026-11-12 14:17 UTC
+H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
+
+=== Torreense W (id 20512): last 20 finished games ===
+2026-11-03 H 0-1 v SL Benfica W | 1a Divisão - Women | Torres Vedras
+2026-10-29 A 2-2 v Sparta Praha W | UEFA Europa Cup - Women | Prague | xG 2.66-1.69
+2026-10-24 A 3-0 v Sporting Braga W | 1a Divisão - Women | Braga
+2026-10-18 A 2-3 v Sporting CP W | 1a Divisão - Women | Alcochete
+2026-09-30 H 4-1 v Metalist 1925 W | UEFA Europa Cup - Women | Torres Vedras
+2026-09-27 H 8-0 v Marítimo W | 1a Divisão - Women | Torres Vedras
+2026-09-23 A 2-1 v Metalist 1925 W | UEFA Europa Cup - Women | Chisinau
+2026-09-19 A 3-0 v Vitoria Guimaraes W | 1a Divisão - Women | ?
+2026-09-13 H 3-0 v Rio Ave W | 1a Divisão - Women | Torres Vedras
+2026-09-02 A 3-1 v Kolos Kovalivka W | UEFA Europa Cup - Women | Kovalivka
+2026-08-26 H 6-1 v Kolos Kovalivka W | UEFA Europa Cup - Women | Torres Vedras
+2026-08-08 H 5-2 v Apolonia Fier W | UEFA Champions League Women | Biella
+2026-08-05 A 1-2 v Juventus W | UEFA Champions League Women | Biella
+2026-05-10 H 3-1 v Damaiense W | 1a Divisão - Women | Torres Vedras
+2026-05-02 A 0-0 v Vitoria Guimaraes W | 1a Divisão - Women | ?
+2026-04-26 H 2-1 v Racing Power W | 1a Divisão - Women | Torres Vedras
+2026-04-05 A 0-2 v SL Benfica W | 1a Divisão - Women | Seixal
+2026-03-22 H 2-0 v Sporting CP W | 1a Divisão - Women | Torres Vedras
+2026-03-14 A 1-1 v Sporting Braga W | 1a Divisão - Women | Braga
+2026-02-21 H 1-0 v Rio Ave W | 1a Divisão - Women | Torres Vedras
+Listed home: 10 games, scored 34 (3.40), conceded 7 (0.70), blanks 1, clean sheets 4
+Listed away: 10 games, scored 17 (1.70), conceded 12 (1.20), blanks 2, clean sheets 3
+All: 20 games, scored 51 (2.55), conceded 19 (0.95), blanks 3, clean sheets 7
+
+!! Sparta Prague W: No team found for "Sparta Prague W".
+
+(no league table available for Torreense W: tried 1a Divisão - Women 2026, UEFA Europa Cup - Women 2026, UEFA Champions League Women 2026)
+
+(16 API-Football requests used)
+
+----------------------------------------------------------------------
+MATCHBOOK: skipped (switched off for this run)

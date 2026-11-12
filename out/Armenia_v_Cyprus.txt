@@ -1,0 +1,120 @@
+MATCH Armenia v Cyprus | fetched 2026-11-12 14:16 local
+
+FORM DATA Armenia v Cyprus | source API-Football | 2026-11-12 14:17 UTC
+H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
+
+=== Armenia (id 1094): last 20 finished games ===
+2026-10-05 A 0-0 v Montenegro | UEFA Nations League | Podgorica | xG 0.21-0.52
+2026-10-02 A 0-2 v Cyprus | UEFA Nations League | Nicosia | xG 0.95-0.57
+2026-09-28 H 2-3 v Montenegro | UEFA Nations League | Yerevan | xG 0.88-1.51
+2026-09-25 H 2-0 v Latvia | UEFA Nations League | Yerevan | xG 1.12-0.20
+2026-06-09 H 1-1 v Moldova | Friendlies | Yerevan
+2026-06-06 H 1-1 v Kazakhstan | Friendlies | Yerevan
+2026-03-29 H 1-2 v Belarus | Friendlies | Yerevan
+2025-11-16 A 1-9 v Portugal | World Cup - Qualification Europe | Porto | xG 0.62-5.80
+2025-11-13 H 0-1 v Hungary | World Cup - Qualification Europe | Yerevan | xG 0.64-1.31
+2025-10-14 A 0-1 v Rep. Of Ireland | World Cup - Qualification Europe | Dublin | xG 0.11-2.14
+2025-10-11 A 0-2 v Hungary | World Cup - Qualification Europe | Budapest
+2025-09-09 H 2-1 v Rep. Of Ireland | World Cup - Qualification Europe | Yerevan
+2025-09-06 H 0-5 v Portugal | World Cup - Qualification Europe | Yerevan
+2025-06-09 A 2-2 v Montenegro | Friendlies | Nikšić
+2025-06-06 A 2-5 v Kosovo | Friendlies | Pristina
+2025-03-23 A 1-6 v Georgia | UEFA Nations League | Tbilisi
+2025-03-20 H 0-3 v Georgia | UEFA Nations League | Yerevan
+2024-11-17 A 2-1 v Latvia | UEFA Nations League | Riga
+2024-11-14 H 0-1 v Faroe Islands | UEFA Nations League | Yerevan
+2024-10-13 H 0-2 v FYR Macedonia | UEFA Nations League | Yerevan
+Listed home: 11 games, scored 9 (0.82), conceded 20 (1.82), blanks 5, clean sheets 1
+Listed away: 9 games, scored 8 (0.89), conceded 28 (3.11), blanks 4, clean sheets 1
+All: 20 games, scored 17 (0.85), conceded 48 (2.40), blanks 9, clean sheets 2
+
+=== Cyprus (id 1106): last 20 finished games ===
+2026-10-05 H 2-1 v Latvia | UEFA Nations League | Nicosia
+2026-10-02 H 2-0 v Armenia | UEFA Nations League | Nicosia | xG 0.57-0.95
+2026-09-28 A 0-0 v Latvia | UEFA Nations League | Riga | xG 1.20-0.75
+2026-09-25 A 1-2 v Montenegro | UEFA Nations League | Podgorica | xG 1.29-3.13
+2026-06-07 A 2-0 v Liechtenstein | Friendlies | Vaduz
+2026-06-04 A 1-1 v Slovenia | Friendlies | Ljubljana
+2026-03-30 H 3-2 v Moldova | Friendlies | Nicosia
+2026-03-26 H 0-1 v Belarus | Friendlies | Nicosia
+2025-11-18 H 2-4 v Estonia | Friendlies | Limassol
+2025-11-15 H 0-2 v Austria | World Cup - Qualification Europe | Limassol | xG 0.39-2.18
+2025-10-12 A 4-0 v San Marino | World Cup - Qualification Europe | Serravalle
+2025-10-09 H 2-2 v Bosnia & Herzegovina | World Cup - Qualification Europe | Larnaca
+2025-09-09 H 2-2 v Romania | World Cup - Qualification Europe | Nicosia
+2025-09-06 A 0-1 v Austria | World Cup - Qualification Europe | Linz
+2025-06-10 A 0-2 v Romania | World Cup - Qualification Europe | Bucharest
+2025-06-06 A 2-2 v Bulgaria | Friendlies | Plovdiv
+2025-03-24 A 1-2 v Bosnia & Herzegovina | World Cup - Qualification Europe | Zenica
+2025-03-21 H 2-0 v San Marino | World Cup - Qualification Europe | Larnaca
+2024-11-18 A 1-4 v Romania | UEFA Nations League | Bucureşti
+2024-11-15 H 2-1 v Lithuania | UEFA Nations League | Larnaca
+Listed home: 10 games, scored 17 (1.70), conceded 15 (1.50), blanks 2, clean sheets 2
+Listed away: 10 games, scored 12 (1.20), conceded 14 (1.40), blanks 3, clean sheets 3
+All: 20 games, scored 29 (1.45), conceded 29 (1.45), blanks 5, clean sheets 5
+
+TABLE FOR Armenia
+LEAGUE TABLE UEFA Nations League 2026 | 54 teams | 104 games played
+League averages per game: home 1.22, away 1.24, total 2.46
+#   team                   Pts | home P GF-GA  | away P GF-GA  | all P GF-GA
+1   France                  10 |  2   5-2       |  2   2-0       |  4   7-2 [League A - Group A]
+2   Italy                    7 |  2   3-3       |  2   5-2       |  4   8-5 [League A - Group A]
+3   Belgium                  6 |  2   3-1       |  2   3-4       |  4   6-5 [League A - Group A]
+4   Türkiye                  0 |  2   1-5       |  2   1-6       |  4   2-11 [League A - Group A]
+1   Netherlands              8 |  2   3-2       |  2   4-3       |  4   7-5 [League A - Group B]
+2   Greece                   8 |  2   2-2       |  2   3-1       |  4   5-3 [League A - Group B]
+3   Germany                  5 |  2   2-1       |  2   1-1       |  4   3-2 [League A - Group B]
+4   Serbia                   0 |  2   2-4       |  2   1-4       |  4   3-8 [League A - Group B]
+1   Spain                   12 |  2   7-2       |  2   5-3       |  4  12-5 [League A - Group C]
+2   England                  9 |  2   5-3       |  2   9-0       |  4  14-3 [League A - Group C]
+3   Croatia                  3 |  2   1-9       |  2   3-5       |  4   4-14 [League A - Group C]
+4   Czechia                  0 |  2   1-4       |  2   1-6       |  4   2-10 [League A - Group C]
+1   Portugal                12 |  2   3-1       |  2   6-3       |  4   9-4 [League A - Group D]
+2   Denmark                  6 |  2   4-4       |  2   3-3       |  4   7-7 [League A - Group D]
+3   Wales                    3 |  2   2-2       |  2   0-3       |  4   2-5 [League A - Group D]
+4   Norway                   3 |  2   4-4       |  2   2-4       |  4   6-8 [League A - Group D]
+1   Switzerland             12 |  2   5-1       |  2   6-0       |  4  11-1 [League B - Group A]
+2   Slovenia                 7 |  2   2-0       |  2   3-3       |  4   5-3 [League B - Group A]
+3   Scotland                 4 |  2   1-5       |  2   2-0       |  4   3-5 [League B - Group A]
+4   FYR Macedonia            0 |  2   0-5       |  2   0-5       |  4   0-10 [League B - Group A]
+1   Northern Ireland         8 |  2   0-0       |  2   4-0       |  4   4-0 [League B - Group B]
+2   Hungary                  7 |  2   1-1       |  2   2-1       |  4   3-2 [League B - Group B]
+3   Ukraine                  4 |  2   1-5       |  2   1-0       |  4   2-5 [League B - Group B]
+4   Georgia                  2 |  2   0-1       |  2   0-1       |  4   0-2 [League B - Group B]
+1   Austria                  8 |  2   6-2       |  2   3-3       |  4   9-5 [League B - Group C]
+2   Kosovo                   5 |  2   2-1       |  2   1-3       |  4   3-4 [League B - Group C]
+3   Rep. Of Ireland          5 |  2   3-3       |  2   3-1       |  4   6-4 [League B - Group C]
+4   Israel                   2 |  2   0-3       |  2   2-4       |  4   2-7 [League B - Group C]
+1   Sweden                  10 |  2   5-2       |  2   2-1       |  4   7-3 [League B - Group D]
+2   Bosnia & Herzegovina     8 |  2   2-1       |  2   4-2       |  4   6-3 [League B - Group D]
+3   Poland                   4 |  2   6-0       |  2   1-4       |  4   7-4 [League B - Group D]
+4   Romania                  0 |  2   2-5       |  2   1-8       |  4   3-13 [League B - Group D]
+1   Albania                  9 |  2   4-1       |  2   4-2       |  4   8-3 [League C - Group A]
+2   Belarus                  7 |  2   5-0       |  2   0-2       |  4   5-2 [League C - Group A]
+3   Finland                  7 |  2   2-1       |  2   7-1       |  4   9-2 [League C - Group A]
+4   San Marino               0 |  2   0-10      |  2   1-6       |  4   1-16 [League C - Group A]
+1   Montenegro              10 |  2   2-1       |  2   5-3       |  4   7-4 [League C - Group B]
+2   Cyprus                   7 |  2   4-1       |  2   1-2       |  4   5-3 [League C - Group B]
+3   Armenia                  4 |  2   4-3       |  2   0-2       |  4   4-5 [League C - Group B]
+4   Latvia                   1 |  2   1-2       |  2   1-4       |  4   2-6 [League C - Group B]
+1   Slovakia                10 |  2   4-1       |  2   5-1       |  4   9-2 [League C - Group C]
+2   Faroe Islands            4 |  2   2-2       |  2   3-3       |  4   5-5 [League C - Group C]
+3   Moldova                  4 |  2   1-5       |  2   2-3       |  4   3-8 [League C - Group C]
+4   Kazakhstan               2 |  2   3-4       |  2   2-3       |  4   5-7 [League C - Group C]
+1   Iceland                  8 |  2   4-1       |  2   3-0       |  4   7-1 [League C - Group D]
+2   Estonia                  6 |  2   1-0       |  2   1-1       |  4   2-1 [League C - Group D]
+3   Bulgaria                 4 |  2   1-2       |  2   2-3       |  4   3-5 [League C - Group D]
+4   Luxembourg               3 |  2   0-5       |  2   2-2       |  4   2-7 [League C - Group D]
+1   Malta                    7 |  2   2-1       |  1   2-1       |  3   4-2 [League D - Group A]
+2   Gibraltar                2 |  1   0-0       |  1   1-1       |  2   1-1 [League D - Group A]
+3   Andorra                  1 |  1   1-2       |  2   0-1       |  3   1-3 [League D - Group A]
+1   Azerbaijan               5 |  2   1-0       |  1   1-1       |  3   2-1 [League D - Group B]
+2   Lithuania                4 |  1   1-1       |  2   2-1       |  3   3-2 [League D - Group B]
+3   Liechtenstein            1 |  1   0-2       |  1   0-0       |  2   0-2 [League D - Group B]
+
+(Cyprus: same table as Armenia, shown above)
+
+(24 API-Football requests used)
+
+----------------------------------------------------------------------
+MATCHBOOK: skipped (switched off for this run)

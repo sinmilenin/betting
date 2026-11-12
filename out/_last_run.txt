@@ -1,3 +1,8 @@
-RUN 2026-11-12 13:29 local | 1 match(es)
-Congo DR v Sierra Leone -> out/Congo_DR_v_Sierra_Leone.txt
-Requests used: API-Football 25, Matchbook 0
+RUN 2026-11-12 14:16 local | 4 match(es)
+Guinea v Eritrea -> out/Guinea_v_Eritrea.txt
+Torreense W v Sparta Prague W -> out/Torreense_W_v_Sparta_Prague_W.txt
+    !! Sparta Prague W: No team found for "Sparta Prague W".
+Turkey v Belgium -> out/Turkey_v_Belgium.txt
+    !! Turkey: Ambiguous team name "Turkey".
+Armenia v Cyprus -> out/Armenia_v_Cyprus.txt
+Requests used: API-Football 80, Matchbook 0
