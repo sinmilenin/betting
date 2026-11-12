@@ -1,0 +1,125 @@
+MATCH Uzbekistan v Russia | fetched 2026-11-12 12:47 local
+
+FORM DATA Uzbekistan v Russia | source API-Football | 2026-11-12 12:47 UTC
+H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
+
+=== Uzbekistan (id 1568): last 20 finished games ===
+2026-10-06 A 0-2 v South Korea | Friendlies | Daejeon | xG 1.23-1.00
+2026-10-01 H 4-1 v Syria | Friendlies | Tashkent
+2026-09-24 H 3-1 v Iran | Friendlies | Fergana
+2026-06-27 A 1-3 v Congo DR | World Cup | Atlanta | xG 0.20-2.18
+2026-06-23 A 0-5 v Portugal | World Cup | Houston | xG 0.24-2.61
+2026-06-18 H 1-3 v Colombia | World Cup | Mexico City | xG 1.16-1.61
+2026-06-08 A 1-2 v Netherlands | Friendlies | West New York
+2026-06-02 A 0-2 v Canada | Friendlies | Edmonton
+2026-03-30 H 0-0 v Venezuela | FIFA Series | Tashkent [PEN, 90-min score shown]
+2026-03-27 H 3-1 v Gabon | FIFA Series | Tashkent
+2026-01-30 H 4-2 v FC Urartu | Friendlies | ?
+2026-01-26 H 2-2 v China | Friendlies | ?
+2025-11-18 H 0-0 v Iran | Friendlies | Dubai [PEN, 90-min score shown]
+2025-11-14 H 2-0 v Egypt | Friendlies | Al Ain
+2025-10-13 H 1-2 v Uruguay | Friendlies | Kuala Lumpur
+2025-10-09 H 2-0 v Kuwait | Friendlies | Tashkent
+2025-09-08 A 0-0 v Iran | CAFA Nations Cup | ? [AET, 90-min score shown]
+2025-09-05 H 4-0 v Kyrgyzstan | CAFA Nations Cup | ?
+2025-09-02 A 2-1 v Turkmenistan | CAFA Nations Cup | ?
+2025-08-30 H 1-1 v Oman | CAFA Nations Cup | ?
+Listed home: 13 games, scored 27 (2.08), conceded 13 (1.00), blanks 2, clean sheets 5
+Listed away: 7 games, scored 4 (0.57), conceded 15 (2.14), blanks 4, clean sheets 1
+All: 20 games, scored 31 (1.55), conceded 28 (1.40), blanks 6, clean sheets 6
+
+=== Russia (id 4): last 20 finished games ===
+2026-10-06 H 3-3 v Nigeria | Friendlies | Nizhny Novgorod | xG 1.95-0.70
+2026-10-03 H 6-0 v Namibia | Friendlies | Yekaterinburg
+2026-09-29 H 2-0 v Iran | Friendlies | Kazan
+2026-06-09 H 3-0 v Trinidad and Tobago | Friendlies | Kaliningrad
+2026-06-05 H 3-0 v Burkina Faso | Friendlies | Volgograd
+2026-05-28 A 0-1 v Egypt | Friendlies | Cairo
+2026-03-31 H 0-0 v Mali | Friendlies | Saint Petersburg
+2026-03-27 H 3-1 v Nicaragua | Friendlies | Krasnodar
+2025-11-15 H 0-2 v Chile | Friendlies | Sochi
+2025-11-12 H 1-1 v Peru | Friendlies | Saint Petersburg
+2025-10-14 H 3-0 v Bolivia | Friendlies | Moscow
+2025-10-10 H 2-1 v Iran | Friendlies | Volgograd
+2025-09-07 A 4-1 v Qatar | Friendlies | Doha
+2025-09-04 H 0-0 v Jordan | Friendlies | Moscow
+2025-06-10 A 4-1 v Belarus | Friendlies | Minsk
+2025-06-06 H 1-1 v Nigeria | Friendlies | Moscow
+2025-03-25 H 5-0 v Zambia | Friendlies | Moscow
+2025-03-19 H 5-0 v Grenada | Friendlies | Moscow
+2024-11-19 H 4-0 v Syria | Friendlies | Volgograd
+2024-11-15 H 11-0 v Brunei | Friendlies | Krasnodar
+Listed home: 17 games, scored 52 (3.06), conceded 9 (0.53), blanks 3, clean sheets 11
+Listed away: 3 games, scored 8 (2.67), conceded 3 (1.00), blanks 1, clean sheets 0
+All: 20 games, scored 60 (3.00), conceded 12 (0.60), blanks 4, clean sheets 11
+
+TABLE FOR Uzbekistan
+LEAGUE TABLE World Cup 2026 | 60 teams | 0 games played
+#   team                   Pts | home P GF-GA  | away P GF-GA  | all P GF-GA
+1   Mexico                   9 |  0   0-0       |  0   0-0       |  3   6-0 [Group A]
+2   South Africa             4 |  0   0-0       |  0   0-0       |  3   2-3 [Group A]
+3   South Korea              3 |  0   0-0       |  0   0-0       |  3   2-3 [Group A]
+4   Czechia                  1 |  0   0-0       |  0   0-0       |  3   2-6 [Group A]
+1   Switzerland              7 |  0   0-0       |  0   0-0       |  3   7-3 [Group B]
+2   Canada                   4 |  0   0-0       |  0   0-0       |  3   8-3 [Group B]
+3   Bosnia & Herzegovina     4 |  0   0-0       |  0   0-0       |  3   5-6 [Group B]
+4   Qatar                    1 |  0   0-0       |  0   0-0       |  3   2-10 [Group B]
+1   Brazil                   7 |  0   0-0       |  0   0-0       |  3   7-1 [Group C]
+2   Morocco                  7 |  0   0-0       |  0   0-0       |  3   6-3 [Group C]
+3   Scotland                 3 |  0   0-0       |  0   0-0       |  3   1-4 [Group C]
+4   Haiti                    0 |  0   0-0       |  0   0-0       |  3   2-8 [Group C]
+1   USA                      6 |  0   0-0       |  0   0-0       |  3   8-4 [Group D]
+2   Australia                4 |  0   0-0       |  0   0-0       |  3   2-2 [Group D]
+3   Paraguay                 4 |  0   0-0       |  0   0-0       |  3   2-4 [Group D]
+4   Türkiye                  3 |  0   0-0       |  0   0-0       |  3   3-5 [Group D]
+1   Germany                  6 |  0   0-0       |  0   0-0       |  3  10-4 [Group E]
+2   Ivory Coast              6 |  0   0-0       |  0   0-0       |  3   4-2 [Group E]
+3   Ecuador                  4 |  0   0-0       |  0   0-0       |  3   2-2 [Group E]
+4   Curaçao                  1 |  0   0-0       |  0   0-0       |  3   1-9 [Group E]
+1   Netherlands              7 |  0   0-0       |  0   0-0       |  3  10-4 [Group F]
+2   Japan                    5 |  0   0-0       |  0   0-0       |  3   7-3 [Group F]
+3   Sweden                   4 |  0   0-0       |  0   0-0       |  3   7-7 [Group F]
+4   Tunisia                  0 |  0   0-0       |  0   0-0       |  3   2-12 [Group F]
+1   Belgium                  5 |  0   0-0       |  0   0-0       |  3   6-2 [Group G]
+2   Egypt                    5 |  0   0-0       |  0   0-0       |  3   5-3 [Group G]
+3   Iran                     3 |  0   0-0       |  0   0-0       |  3   3-3 [Group G]
+4   New Zealand              1 |  0   0-0       |  0   0-0       |  3   4-10 [Group G]
+1   Spain                    7 |  0   0-0       |  0   0-0       |  3   5-0 [Group H]
+2   Cape Verde Islands       3 |  0   0-0       |  0   0-0       |  3   2-2 [Group H]
+3   Uruguay                  2 |  0   0-0       |  0   0-0       |  3   3-4 [Group H]
+4   Saudi Arabia             2 |  0   0-0       |  0   0-0       |  3   1-5 [Group H]
+1   France                   9 |  0   0-0       |  0   0-0       |  3  10-2 [Group I]
+2   Norway                   6 |  0   0-0       |  0   0-0       |  3   8-7 [Group I]
+3   Senegal                  3 |  0   0-0       |  0   0-0       |  3   8-6 [Group I]
+4   Iraq                     0 |  0   0-0       |  0   0-0       |  3   1-12 [Group I]
+1   Argentina                9 |  0   0-0       |  0   0-0       |  3   8-1 [Group J]
+2   Austria                  4 |  0   0-0       |  0   0-0       |  3   6-6 [Group J]
+3   Algeria                  4 |  0   0-0       |  0   0-0       |  3   5-7 [Group J]
+4   Jordan                   0 |  0   0-0       |  0   0-0       |  3   3-8 [Group J]
+1   Colombia                 7 |  0   0-0       |  0   0-0       |  3   4-1 [Group K]
+2   Portugal                 5 |  0   0-0       |  0   0-0       |  3   6-1 [Group K]
+3   Congo DR                 4 |  0   0-0       |  0   0-0       |  3   4-3 [Group K]
+4   Uzbekistan               0 |  0   0-0       |  0   0-0       |  3   2-11 [Group K]
+1   England                  7 |  0   0-0       |  0   0-0       |  3   6-2 [Group L]
+2   Croatia                  6 |  0   0-0       |  0   0-0       |  3   5-5 [Group L]
+3   Ghana                    4 |  0   0-0       |  0   0-0       |  3   2-2 [Group L]
+4   Panama                   0 |  0   0-0       |  0   0-0       |  3   0-4 [Group L]
+1   Congo DR                 4 |  0   0-0       |  0   0-0       |  3   4-3 [Group Stage]
+2   Sweden                   4 |  0   0-0       |  0   0-0       |  3   7-7 [Group Stage]
+3   Ghana                    4 |  0   0-0       |  0   0-0       |  3   2-2 [Group Stage]
+4   Ecuador                  4 |  0   0-0       |  0   0-0       |  3   2-2 [Group Stage]
+5   Bosnia & Herzegovina     4 |  0   0-0       |  0   0-0       |  3   5-6 [Group Stage]
+6   Algeria                  4 |  0   0-0       |  0   0-0       |  3   5-7 [Group Stage]
+7   Paraguay                 4 |  0   0-0       |  0   0-0       |  3   2-4 [Group Stage]
+8   Senegal                  3 |  0   0-0       |  0   0-0       |  3   8-6 [Group Stage]
+9   Iran                     3 |  0   0-0       |  0   0-0       |  3   3-3 [Group Stage]
+10  South Korea              3 |  0   0-0       |  0   0-0       |  3   2-3 [Group Stage]
+11  Scotland                 3 |  0   0-0       |  0   0-0       |  3   1-4 [Group Stage]
+12  Uruguay                  2 |  0   0-0       |  0   0-0       |  3   3-4 [Group Stage]
+
+(no league table available for Russia: tried no competitions)
+
+(25 API-Football requests used)
+
+----------------------------------------------------------------------
+MATCHBOOK: skipped (switched off for this run)

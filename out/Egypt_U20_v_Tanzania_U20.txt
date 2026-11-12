@@ -1,0 +1,74 @@
+MATCH Egypt U20 v Tanzania U20 | fetched 2026-11-12 12:47 local
+
+FORM DATA Egypt U20 v Tanzania U20 | source API-Football | 2026-11-12 12:47 UTC
+H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
+
+=== Egypt U20 (id 11027): last 20 finished games ===
+2026-10-06 A 2-0 v Algeria U20 | Africa Cup of Nations U20 | Ismailia
+2026-10-03 H 0-2 v Morocco U20 | Africa Cup of Nations U20 | Ismailia
+2026-09-30 H 2-1 v Tunisia U20 | Africa Cup of Nations U20 | Ismailia
+2026-09-24 A 2-0 v Libya U20 | Africa Cup of Nations U20 | Ismailia
+2026-07-31 H 3-0 v Jordan U20 | Friendlies | ?
+2026-07-28 H 2-0 v Jordan U20 | Friendlies | ?
+2026-03-31 H 0-0 v Algeria U20 | Friendlies | ?
+2026-03-28 H 2-2 v Algeria U20 | Friendlies | ?
+2025-10-03 H 2-1 v Chile U20 | World Cup - U20 | Santiago de Chile
+2025-09-30 H 1-2 v New Zealand U20 | World Cup - U20 | Santiago de Chile
+2025-09-27 A 0-2 v Japan U20 | World Cup - U20 | Santiago de Chile
+2025-09-04 H 2-1 v Bahrain U20 | Friendlies | ?
+2025-05-18 A 1-1 v Nigeria U20 | Africa Cup of Nations U20 | Cairo [PEN, 90-min score shown]
+2025-05-15 A 0-1 v Morocco U20 | Africa Cup of Nations U20 | Cairo
+2025-05-12 A 2-2 v Ghana U20 | Africa Cup of Nations U20 | Suez [PEN, 90-min score shown]
+2025-05-09 A 1-0 v Tanzania U20 | Africa Cup of Nations U20 | Ismailia
+2025-05-03 H 0-0 v Zambia U20 | Africa Cup of Nations U20 | Ismailia
+2025-04-30 A 1-4 v Sierra Leone U20 | Africa Cup of Nations U20 | Ismailia
+2025-04-27 H 1-0 v South Africa U20 | Africa Cup of Nations U20 | Cairo
+2024-03-25 A 1-1 v Tunisia U20 | Friendlies | ?
+Listed home: 11 games, scored 15 (1.36), conceded 9 (0.82), blanks 3, clean sheets 5
+Listed away: 9 games, scored 10 (1.11), conceded 11 (1.22), blanks 2, clean sheets 3
+All: 20 games, scored 25 (1.25), conceded 20 (1.00), blanks 5, clean sheets 8
+
+=== Tanzania U20 (id 11047): last 20 finished games ===
+2026-09-24 H 0-0 v Sudan U20 | CECAFA U20 Championship | Dar-es-Salaam [PEN, 90-min score shown]
+2026-09-22 H 2-0 v Burundi U20 | CECAFA U20 Championship | Dar-es-Salaam
+2026-09-19 A 4-0 v Ethiopia U20 | CECAFA U20 Championship | Dar-es-Salaam
+2026-09-15 H 3-0 v Rwanda U20 | CECAFA U20 Championship | Dar-es-Salaam
+2025-05-09 H 0-1 v Egypt U20 | Africa Cup of Nations U20 | Ismailia
+2025-05-06 A 0-1 v Zambia U20 | Africa Cup of Nations U20 | Ismailia
+2025-05-03 H 0-1 v Sierra Leone U20 | Africa Cup of Nations U20 | Ismailia
+2025-04-30 A 0-1 v South Africa U20 | Africa Cup of Nations U20 | Ismailia
+2024-10-20 H 2-1 v Kenya U20 | CECAFA U20 Championship | Dar es Salaam
+2024-10-18 A 2-1 v Uganda U20 | CECAFA U20 Championship | Dar es Salaam [AET, 90-min score shown]
+2024-10-13 H 3-0 v Rwanda U20 | CECAFA U20 Championship | Mbagala
+2024-10-10 H 1-0 v Sudan U20 | CECAFA U20 Championship | Mbagala
+2024-10-08 H 7-0 v Djibouti U20 | CECAFA U20 Championship | Dar es Salaam
+2024-10-06 H 1-2 v Kenya U20 | CECAFA U20 Championship | Dar es Salaam
+2021-02-22 H 0-3 v Morocco U20 | Africa Cup of Nations U20 | Nouakchott
+2021-02-19 H 1-1 v Gambia U20 | Africa Cup of Nations U20 | Nouadhibou
+2021-02-16 A 0-4 v Ghana U20 | Africa Cup of Nations U20 | Nouadhibou
+2018-05-20 A 1-4 v Mali U20 | Africa Cup of Nations U20 | Bamako
+2018-05-13 H 1-2 v Mali U20 | Africa Cup of Nations U20 | Dar-es-Salaam
+2018-04-22 A 0-0 v Congo DR U20 | Africa Cup of Nations U20 | Kinshasa [PEN, 90-min score shown]
+Listed home: 13 games, scored 21 (1.62), conceded 11 (0.85), blanks 4, clean sheets 6
+Listed away: 7 games, scored 7 (1.00), conceded 11 (1.57), blanks 4, clean sheets 2
+All: 20 games, scored 28 (1.40), conceded 22 (1.10), blanks 8, clean sheets 8
+
+(no league table available for Egypt U20: tried Africa Cup of Nations U20 2026, World Cup - U20 2025)
+
+TABLE FOR Tanzania U20
+LEAGUE TABLE CECAFA U20 Championship 2026 | 9 teams | 0 games played
+#   team                   Pts | home P GF-GA  | away P GF-GA  | all P GF-GA
+1   Tanzania U20             6 |  0   0-0       |  0   0-0       |  2   7-0 [Middle East - Group A]
+2   Rwanda U20               1 |  0   0-0       |  0   0-0       |  2   0-3 [Middle East - Group A]
+3   Ethiopia U20             1 |  0   0-0       |  0   0-0       |  2   0-4 [Middle East - Group A]
+1   Uganda U20               6 |  0   0-0       |  0   0-0       |  2   5-1 [Middle East - Group B]
+2   Sudan U20                3 |  0   0-0       |  0   0-0       |  2   3-1 [Middle East - Group B]
+3   Djibouti U20             0 |  0   0-0       |  0   0-0       |  2   1-7 [Middle East - Group B]
+1   Burundi U20              6 |  0   0-0       |  0   0-0       |  2   6-0 [Middle East - Group C]
+2   Kenya U20                1 |  0   0-0       |  0   0-0       |  2   1-3 [Middle East - Group C]
+3   South Sudan U20          1 |  0   0-0       |  0   0-0       |  2   1-5 [Middle East - Group C]
+
+(27 API-Football requests used)
+
+----------------------------------------------------------------------
+MATCHBOOK: skipped (switched off for this run)

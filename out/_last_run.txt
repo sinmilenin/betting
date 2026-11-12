@@ -1,3 +1,6 @@
-RUN 2026-11-12 11:17 local | 1 match(es)
-El Entag El Harby v Baladiyyat Al Mehalla -> out/El_Entag_El_Harby_v_Baladiyyat_Al_Mehall.txt
-Requests used: API-Football 25, Matchbook 0
+RUN 2026-11-12 12:47 local | 4 match(es)
+Uzbekistan v Russia -> out/Uzbekistan_v_Russia.txt
+Cameroon v Namibia -> out/Cameroon_v_Namibia.txt
+Egypt U20 v Tanzania U20 -> out/Egypt_U20_v_Tanzania_U20.txt
+Portugal U19 v Lithuania U19 -> out/Portugal_U19_v_Lithuania_U19.txt
+Requests used: API-Football 102, Matchbook 0
