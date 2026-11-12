@@ -1,2 +1,2 @@
-# scan 12.11 07:42 retry Guinea-Bissau
-Madagascar v Bissau | n=20 | xg=10
+# scan 12.11 07:42 retry Guinea-Bissau id
+Madagascar v id:1513 | n=20 | xg=10
