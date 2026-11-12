@@ -1,3 +1,2 @@
-# scan 12.11 14:26
-Equatorial Guinea v Zimbabwe | n=20 | xg=10
-DR Congo v Sierra Leone | n=20 | xg=10
+# scan 12.11 14:26 retry (DR Congo resolved to U17)
+Congo DR v Sierra Leone | n=20 | xg=10
