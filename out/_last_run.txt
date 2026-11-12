@@ -1,5 +1,7 @@
-RUN 2026-11-12 17:17 local | 2 match(es)
-Europa W v Deportivo La Coruna W -> out/Europa_W_v_Deportivo_La_Coruna_W.txt
-    !! Deportivo La Coruna W: No team found for "Deportivo La Coruna W".
-Plaza Colonia v Rentistas -> out/Plaza_Colonia_v_Rentistas.txt
-Requests used: API-Football 31, Matchbook 0
+RUN 2026-11-12 18:44 local | 3 match(es)
+Aguila v Municipal Limeno -> out/Aguila_v_Municipal_Limeno.txt
+    !! Aguila: Ambiguous team name "Aguila".
+Europa W v Deportivo Abanca W -> out/Europa_W_v_Deportivo_Abanca_W.txt
+    !! Deportivo Abanca W: No team found for "Deportivo Abanca W".
+Cayman Islands v Guyana -> out/Cayman_Islands_v_Guyana.txt
+Requests used: API-Football 50, Matchbook 0
