@@ -1,9 +1,4 @@
-RUN 2026-11-12 19:28 local | 6 match(es)
-Ponte Preta v Operario PR -> out/Ponte_Preta_v_Operario_PR.txt
-Aurora v Mixco -> out/Aurora_v_Mixco.txt
-Puerto Cabello v Monagas -> out/Puerto_Cabello_v_Monagas.txt
-    !! Monagas: Ambiguous team name "Monagas".
-Bonaire v Cuba -> out/Bonaire_v_Cuba.txt
-Aruba v Martinique -> out/Aruba_v_Martinique.txt
-Deportivo Pasto v Junior -> out/Deportivo_Pasto_v_Junior.txt
-Requests used: API-Football 147, Matchbook 0
+RUN 2026-11-12 19:29 local | 2 match(es)
+Ponte Preta v Operario Ferroviario -> out/Ponte_Preta_v_Operario_Ferroviario.txt
+Puerto Cabello v id:2811 -> out/Puerto_Cabello_v_id_2811.txt
+Requests used: API-Football 51, Matchbook 0
