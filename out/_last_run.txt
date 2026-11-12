@@ -1,5 +1,4 @@
-RUN 2026-11-12 10:28 local | 3 match(es)
-Iceland U21 v Greece U21 -> out/Iceland_U21_v_Greece_U21.txt
-Germany U19 v Sweden U19 -> out/Germany_U19_v_Sweden_U19.txt
-Serbia U21 v North Macedonia U21 -> out/Serbia_U21_v_North_Macedonia_U21.txt
-Requests used: API-Football 77, Matchbook 0
+RUN 2026-11-12 11:16 local | 1 match(es)
+El Entag El Harby v Baladeyet Al-Mahalla -> out/El_Entag_El_Harby_v_Baladeyet_Al_Mahalla.txt
+    !! Baladeyet Al-Mahalla: API-Football error: {"search": "The Search field may only contain alpha-numeric characters and spaces."}
+Requests used: API-Football 14, Matchbook 0
