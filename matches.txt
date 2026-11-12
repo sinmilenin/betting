@@ -1,3 +1,2 @@
-# scan 12.11 15:15 retry (Turkey -> id:777, Sparta Praha W)
-id:777 v Belgium | n=20 | xg=10
-Torreense W v Sparta Praha W | n=20 | xg=10
+# scan 12.11 16:41
+Osasuna W v Logrono W | n=20 | xg=10
