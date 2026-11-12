@@ -1,15 +1,32 @@
-MATCH DR Congo v Sierra Leone | fetched 2026-11-12 13:28 local
+MATCH Congo DR v Sierra Leone | fetched 2026-11-12 13:29 local
 
-FORM DATA DR Congo v Sierra Leone | source API-Football | 2026-11-12 13:28 UTC
+FORM DATA Congo DR v Sierra Leone | source API-Football | 2026-11-12 13:29 UTC
 H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
 
-=== DR Congo U17 (id 27739): last 3 finished games ===
-2026-05-19 A 0-1 v Cameroon U17 | CAF Cup of Nations - U17 | ?
-2026-05-16 H 0-1 v Côte d'Ivoire U17 | CAF Cup of Nations - U17 | ?
-2026-05-13 A 0-3 v Uganda U17 | CAF Cup of Nations - U17 | ?
-Listed home: 1 games, scored 0 (0.00), conceded 1 (1.00), blanks 1, clean sheets 0
-Listed away: 2 games, scored 0 (0.00), conceded 4 (2.00), blanks 2, clean sheets 0
-All: 3 games, scored 0 (0.00), conceded 5 (1.67), blanks 3, clean sheets 0
+=== Congo DR (id 1508): last 20 finished games ===
+2026-10-05 A 1-1 v Uganda | Friendlies | ?
+2026-10-02 H 0-2 v Uganda | Friendlies | ?
+2026-09-28 A 2-1 v Zimbabwe | Africa Cup of Nations - Qualification | Harare
+2026-09-24 H 2-0 v Equatorial Guinea | Africa Cup of Nations - Qualification | Kinshasa
+2026-07-01 A 1-2 v England | World Cup | Atlanta | xG 0.80-2.04
+2026-06-27 H 3-1 v Uzbekistan | World Cup | Atlanta | xG 2.18-0.20
+2026-06-24 A 0-1 v Colombia | World Cup | Zapopan | xG 0.37-0.98
+2026-06-17 A 1-1 v Portugal | World Cup | Houston | xG 0.87-0.65
+2026-06-09 H 1-2 v Chile | Friendlies | Cadiz
+2026-06-03 H 0-0 v Denmark | Friendlies | ?
+2026-03-31 H 0-0 v Jamaica | World Cup - Qualification Intercontinental Play-offs | Zapopan [AET, 90-min score shown]
+2026-03-25 H 2-0 v Bermuda | Friendlies | Guadalajara
+2026-01-06 A 0-0 v Algeria | Africa Cup of Nations | Rabat [AET, 90-min score shown]
+2025-12-30 A 3-0 v Botswana | Africa Cup of Nations | Rabat
+2025-12-27 A 1-1 v Senegal | Africa Cup of Nations | Tanger
+2025-12-23 H 1-0 v Benin | Africa Cup of Nations | Rabat
+2025-12-16 H 2-0 v Zambia | Friendlies | ?
+2025-11-16 A 1-1 v Nigeria | World Cup - Qualification Africa | Rabat [PEN, 90-min score shown]
+2025-11-13 A 1-0 v Cameroon | World Cup - Qualification Africa | Rabat
+2025-10-14 H 1-0 v Sudan | World Cup - Qualification Africa | Kinshasa
+Listed home: 10 games, scored 12 (1.20), conceded 5 (0.50), blanks 3, clean sheets 7
+Listed away: 10 games, scored 11 (1.10), conceded 8 (0.80), blanks 2, clean sheets 3
+All: 20 games, scored 23 (1.15), conceded 13 (0.65), blanks 5, clean sheets 10
 
 === Sierra Leone (id 1499): last 20 finished games ===
 2026-09-28 A 0-1 v Equatorial Guinea | Africa Cup of Nations - Qualification | Yaounde
@@ -36,28 +53,7 @@ Listed home: 9 games, scored 10 (1.11), conceded 9 (1.00), blanks 3, clean sheet
 Listed away: 11 games, scored 12 (1.09), conceded 19 (1.73), blanks 2, clean sheets 0
 All: 20 games, scored 22 (1.10), conceded 28 (1.40), blanks 5, clean sheets 4
 
-TABLE FOR DR Congo U17
-LEAGUE TABLE CAF Cup of Nations - U17 2026 | 16 teams | 24 games played
-League averages per game: home 1.25, away 1.04, total 2.29
-#   team                   Pts | home P GF-GA  | away P GF-GA  | all P GF-GA
-1   Morocco U17              7 |  3   5-3       |  0   0-0       |  3   5-3 [U17 Africa Cup of Nations, Group A 2026]
-2   Egypt U17                4 |  1   0-0       |  2   3-3       |  3   3-3 [U17 Africa Cup of Nations, Group A 2026]
-3   Ethiopia U17             4 |  0   0-0       |  3   2-2       |  3   2-2 [U17 Africa Cup of Nations, Group A 2026]
-4   Tunisia U17              1 |  2   1-3       |  1   1-1       |  3   2-4 [U17 Africa Cup of Nations, Group A 2026]
-1   Côte d'Ivoire U17        7 |  3   5-2       |  0   0-0       |  3   5-2 [U17 Africa Cup of Nations, Group B 2026]
-2   Cameroon U17             6 |  2   2-0       |  1   0-2       |  3   2-2 [U17 Africa Cup of Nations, Group B 2026]
-3   Uganda U17               4 |  1   3-0       |  2   2-3       |  3   5-3 [U17 Africa Cup of Nations, Group B 2026]
-4   DR Congo U17             0 |  0   0-0       |  3   0-5       |  3   0-5 [U17 Africa Cup of Nations, Group B 2026]
-1   Tanzania U17             6 |  1   3-0       |  2   4-2       |  3   7-2 [U17 Africa Cup of Nations, Group C 2026]
-2   Mali U17                 5 |  3   3-2       |  0   0-0       |  3   3-2 [U17 Africa Cup of Nations, Group C 2026]
-3   Mozambique U17           4 |  0   0-0       |  3   3-5       |  3   3-5 [U17 Africa Cup of Nations, Group C 2026]
-4   Angola U17               1 |  2   1-5       |  1   0-0       |  3   1-5 [U17 Africa Cup of Nations, Group C 2026]
-1   Senegal U17              6 |  3   4-3       |  0   0-0       |  3   4-3 [U17 Africa Cup of Nations, Group D 2026]
-2   Algeria U17              4 |  1   2-2       |  2   3-2       |  3   5-4 [U17 Africa Cup of Nations, Group D 2026]
-3   Ghana U17                4 |  0   0-0       |  3   5-4       |  3   5-4 [U17 Africa Cup of Nations, Group D 2026]
-4   South Africa U17         3 |  2   1-5       |  1   2-1       |  3   3-6 [U17 Africa Cup of Nations, Group D 2026]
-
-TABLE FOR Sierra Leone
+TABLE FOR Congo DR
 LEAGUE TABLE Africa Cup of Nations - Qualification 2027 | 48 teams | 48 games played
 League averages per game: home 1.50, away 1.15, total 2.65
 #   team                   Pts | home P GF-GA  | away P GF-GA  | all P GF-GA
@@ -110,7 +106,9 @@ League averages per game: home 1.50, away 1.15, total 2.65
 3   Tanzania                 1 |  1   0-2       |  1   1-1       |  2   1-3 [Group L]
 4   Madagascar               1 |  1   1-1       |  1   1-2       |  2   2-3 [Group L]
 
-(18 API-Football requests used)
+(Sierra Leone: same table as Congo DR, shown above)
+
+(25 API-Football requests used)
 
 ----------------------------------------------------------------------
 MATCHBOOK: skipped (switched off for this run)
