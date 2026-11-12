@@ -1,3 +1,5 @@
-RUN 2026-11-12 09:48 local | 1 match(es)
-Masar v Tersana -> out/Masar_v_Tersana.txt
-Requests used: API-Football 25, Matchbook 0
+RUN 2026-11-12 10:28 local | 3 match(es)
+Iceland U21 v Greece U21 -> out/Iceland_U21_v_Greece_U21.txt
+Germany U19 v Sweden U19 -> out/Germany_U19_v_Sweden_U19.txt
+Serbia U21 v North Macedonia U21 -> out/Serbia_U21_v_North_Macedonia_U21.txt
+Requests used: API-Football 77, Matchbook 0
