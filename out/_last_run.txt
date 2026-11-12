@@ -1,3 +1,5 @@
-RUN 2026-11-12 05:12 local | 1 match(es)
-New Zealand v India -> out/New_Zealand_v_India.txt
-Requests used: API-Football 27, Matchbook 0
+RUN 2026-11-12 05:57 local | 1 match(es)
+Kuala Lumpur U20 v Kuching FA U20 -> out/Kuala_Lumpur_U20_v_Kuching_FA_U20.txt
+    !! Kuala Lumpur U20: No team found for "Kuala Lumpur U20".
+    !! Kuching FA U20: No team found for "Kuching FA U20".
+Requests used: API-Football 2, Matchbook 0
