@@ -1,0 +1,95 @@
+MATCH Thailand U23 v Qatar U23 | fetched 2026-11-12 07:27 local
+
+FORM DATA Thailand U23 v Qatar U23 | source API-Football | 2026-11-12 07:27 UTC
+H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
+
+=== Thailand U23 (id 10960): last 20 finished games ===
+2026-11-10 A 0-3 v Vietnam U23 | Friendlies | Pleiku
+2026-09-26 A 0-3 v China PR U23 | Asian Games | Toyota City
+2026-09-23 A 0-3 v Japan U23 | Asian Games | Toyota City
+2026-09-20 A 5-1 v Hong Kong U23 | Asian Games | Toyota City
+2026-09-16 H 3-2 v Kyrgyz Republic U23 | Asian Games | Toyota City
+2026-06-09 H 2-5 v UAE U23 | Friendlies | ?
+2026-06-06 H 2-3 v Korea Republic U23 | Friendlies | Pathum Thani
+2026-03-31 A 1-3 v Korea DPR U23 | Friendlies | ?
+2026-03-28 H 1-0 v Vietnam U23 | Friendlies | ?
+2026-03-25 A 2-2 v China PR U23 | Friendlies | ?
+2026-01-14 H 0-0 v China PR U23 | AFC U23 Asian Cup | Riyadh
+2026-01-11 H 1-1 v Iraq U23 | AFC U23 Asian Cup | Riyadh
+2026-01-08 A 1-2 v Australia U23 | AFC U23 Asian Cup | Riyadh
+2025-11-15 H 4-0 v India U23 | Friendlies | ?
+2025-10-14 A 0-0 v China PR U23 | Friendlies | ?
+2025-10-10 A 1-3 v China PR U23 | Friendlies | ?
+2025-09-09 H 2-1 v Malaysia U23 | AFC U23 Asian Cup - Qualification | Pathum Thani
+2025-09-06 A 2-2 v Lebanon U23 | AFC U23 Asian Cup - Qualification | Pathum Thani
+2025-09-03 H 6-0 v Mongolia U23 | AFC U23 Asian Cup - Qualification | Pathum Thani
+2025-07-28 A 3-1 v Philippines U23 | ASEAN Championship U23 | Jakarta
+Listed home: 9 games, scored 21 (2.33), conceded 12 (1.33), blanks 1, clean sheets 4
+Listed away: 11 games, scored 15 (1.36), conceded 23 (2.09), blanks 4, clean sheets 1
+All: 20 games, scored 36 (1.80), conceded 35 (1.75), blanks 5, clean sheets 5
+
+=== Qatar U23 (id 10954): last 20 finished games ===
+2026-11-10 H 0-0 v Singapore U23 | Friendlies | Pleiku
+2026-11-05 H 0-3 v Al-Khor | Second Division | ?
+2026-10-28 H 2-2 v Al-Markhiya | Second Division | ?
+2026-10-15 A 2-1 v Muaither SC | Second Division | Doha
+2026-09-18 A 0-2 v Saudi Arabia U23 | Asian Games | Nagoya
+2026-09-15 H 1-4 v Korea Republic U23 | Asian Games | Nagoya
+2026-09-06 A 1-1 v Al Waab | Second Division | ?
+2026-08-31 A 0-2 v Al Bidda SC | Second Division | ?
+2026-08-25 A 1-1 v UMM Salal | Second Division | Doha
+2026-06-09 A 0-0 v Republic of Ireland U21 | Friendlies | Vrbovec
+2026-06-03 A 0-2 v Croatia U21 | Friendlies | Krizevci
+2026-05-27 A 2-1 v Greece U21 | Friendlies | Nedelisce
+2026-05-13 H 1-3 v Oman U23 | Friendlies | ?
+2026-05-11 H 2-1 v Oman U23 | Friendlies | ?
+2026-01-13 A 0-2 v Japan U23 | AFC U23 Asian Cup | Jeddah
+2026-01-10 A 0-1 v Syria U23 | AFC U23 Asian Cup | Jeddah
+2026-01-07 H 0-2 v UAE U23 | AFC U23 Asian Cup | Jeddah
+2025-12-14 A 1-1 v Iraq U23 | Arabian Gulf Cup U23 | ? [PEN, 90-min score shown]
+2025-12-11 H 1-1 v Saudi Arabia U23 | Arabian Gulf Cup U23 | ?
+2025-12-08 A 1-0 v Bahrain U23 | Arabian Gulf Cup U23 | ?
+Listed home: 8 games, scored 7 (0.88), conceded 16 (2.00), blanks 3, clean sheets 1
+Listed away: 12 games, scored 8 (0.67), conceded 14 (1.17), blanks 6, clean sheets 2
+All: 20 games, scored 15 (0.75), conceded 30 (1.50), blanks 9, clean sheets 3
+
+TABLE FOR Thailand U23
+LEAGUE TABLE Asian Games 2026 | 15 teams | 0 games played
+#   team                   Pts | home P GF-GA  | away P GF-GA  | all P GF-GA
+1   Japan U23                9 |  0   0-0       |  0   0-0       |  3  12-0 [Group A]
+2   Thailand U23             6 |  0   0-0       |  0   0-0       |  3   8-6 [Group A]
+3   Kyrgyz Republic U23      3 |  0   0-0       |  0   0-0       |  3   6-10 [Group A]
+4   Hong Kong U23            0 |  0   0-0       |  0   0-0       |  3   1-11 [Group A]
+1   China PR U23             5 |  0   0-0       |  0   0-0       |  3   2-1 [Group B]
+2   Korea DPR U23            4 |  0   0-0       |  0   0-0       |  3   5-3 [Group B]
+3   Iran U23                 4 |  0   0-0       |  0   0-0       |  3   4-5 [Group B]
+4   UAE U23                  2 |  0   0-0       |  0   0-0       |  3   1-3 [Group B]
+1   Uzbekistan U23           9 |  0   0-0       |  0   0-0       |  3   9-1 [Group C]
+2   Vietnam U23              4 |  0   0-0       |  0   0-0       |  3   3-3 [Group C]
+3   Philippines U23          3 |  0   0-0       |  0   0-0       |  3   3-8 [Group C]
+4   Kuwait U23               1 |  0   0-0       |  0   0-0       |  3   2-5 [Group C]
+1   Korea Republic U23       6 |  0   0-0       |  0   0-0       |  2   6-1 [Group D]
+2   Saudi Arabia U23         3 |  0   0-0       |  0   0-0       |  2   2-2 [Group D]
+3   Qatar U23                0 |  0   0-0       |  0   0-0       |  2   1-6 [Group D]
+
+TABLE FOR Qatar U23
+LEAGUE TABLE Second Division 2026 | 12 teams | 35 games played
+League averages per game: home 1.29, away 1.46, total 2.74
+#   team                   Pts | home P GF-GA  | away P GF-GA  | all P GF-GA
+1   Al-Markhiya             16 |  1   2-0       |  5  13-3       |  6  15-3
+2   Al-Khor                 12 |  2   4-3       |  4  13-5       |  6  17-8
+3   Al Kharaitiyat          12 |  2   8-3       |  4   3-2       |  6  11-5
+4   Al Bidda SC             11 |  3   4-1       |  3   5-5       |  6   9-6
+5   UMM Salal               11 |  3   2-6       |  3   6-2       |  6   8-8
+6   Al Mesaimeer             7 |  4   8-3       |  1   1-2       |  5   9-5
+7   Muaither SC              7 |  2   6-3       |  4   2-3       |  6   8-6
+8   Al Waab                  7 |  4   2-3       |  2   2-2       |  6   4-5
+9   Qatar U23                6 |  2   2-5       |  4   4-5       |  6   6-10
+10  Al Shamal II             5 |  6   4-10      |  0   0-0       |  6   4-10
+11  Al Rayyan SC B           1 |  3   2-7       |  2   1-6       |  5   3-13
+12  Al-Gharafa B             1 |  3   1-7       |  3   1-10      |  6   2-17
+
+(26 API-Football requests used)
+
+----------------------------------------------------------------------
+MATCHBOOK: skipped (switched off for this run)
