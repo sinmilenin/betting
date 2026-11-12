@@ -1,4 +1,3 @@
-RUN 2026-11-12 11:16 local | 1 match(es)
-El Entag El Harby v Baladeyet Al-Mahalla -> out/El_Entag_El_Harby_v_Baladeyet_Al_Mahalla.txt
-    !! Baladeyet Al-Mahalla: API-Football error: {"search": "The Search field may only contain alpha-numeric characters and spaces."}
-Requests used: API-Football 14, Matchbook 0
+RUN 2026-11-12 11:17 local | 1 match(es)
+El Entag El Harby v Baladiyyat Al Mehalla -> out/El_Entag_El_Harby_v_Baladiyyat_Al_Mehall.txt
+Requests used: API-Football 25, Matchbook 0

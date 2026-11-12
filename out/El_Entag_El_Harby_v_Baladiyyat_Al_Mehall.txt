@@ -1,6 +1,6 @@
-MATCH El Entag El Harby v Baladeyet Al-Mahalla | fetched 2026-11-12 11:16 local
+MATCH El Entag El Harby v Baladiyyat Al Mehalla | fetched 2026-11-12 11:17 local
 
-FORM DATA El Entag El Harby v Baladeyet Al-Mahalla | source API-Football | 2026-11-12 11:16 UTC
+FORM DATA El Entag El Harby v Baladiyyat Al Mehalla | source API-Football | 2026-11-12 11:17 UTC
 H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
 
 === El Entag EL Harby (id 1034): last 20 finished games ===
@@ -28,7 +28,30 @@ Listed home: 10 games, scored 12 (1.20), conceded 9 (0.90), blanks 2, clean shee
 Listed away: 10 games, scored 16 (1.60), conceded 17 (1.70), blanks 3, clean sheets 3
 All: 20 games, scored 28 (1.40), conceded 26 (1.30), blanks 5, clean sheets 7
 
-!! Baladeyet Al-Mahalla: API-Football error: {"search": "The Search field may only contain alpha-numeric characters and spaces."}
+=== Baladiyyat Al Mehalla (id 18036): last 20 finished games ===
+2026-10-30 H 1-0 v AL Nasr SC | Second League | El Mahalla El Kubra
+2026-10-22 A 0-0 v Itesalat | Second League | ?
+2026-10-16 H 2-1 v Masar | Second League | El Mahalla El Kubra
+2026-10-09 A 0-1 v Maleyet Kafr El Zayiat | Second League | ?
+2026-10-02 H 3-1 v Team | Second League | El Mahalla El Kubra
+2026-09-25 A 1-1 v Tersana | Second League | ?
+2026-09-18 H 0-1 v Kahraba Ismailia | Second League | El Mahalla El Kubra
+2026-09-10 A 1-2 v Pharco | Second League | ?
+2026-09-04 H 1-0 v Mega Sport | Second League | El Mahalla El Kubra
+2026-08-28 H 0-0 v El Dakhleya | Second League | El Mahalla El Kubra
+2026-08-20 A 1-2 v El Mansura | Second League | ?
+2026-05-14 A 0-1 v Asyut Petrol | Second League | Asyut
+2026-05-07 H 0-1 v Maleyet Kafr El Zayiat | Second League | El Mahalla El Kubra
+2026-04-30 H 0-0 v El Mansura | Second League | El Mahalla El Kubra
+2026-04-23 A 2-0 v El Dakhleya | Second League | Cairo
+2026-04-17 H 4-0 v Raya Ghazl | Second League | El Mahalla El Kubra
+2026-04-10 A 1-2 v Olympic El Qanah | Second League | Ismailia
+2026-04-03 H 1-0 v Tersana | Second League | El Mahalla El Kubra
+2026-03-26 A 1-2 v Masar | Second League | ?
+2026-03-13 H 0-1 v La Viena FC | Second League | El Mahalla El Kubra
+Listed home: 11 games, scored 12 (1.09), conceded 5 (0.45), blanks 5, clean sheets 6
+Listed away: 9 games, scored 7 (0.78), conceded 11 (1.22), blanks 3, clean sheets 2
+All: 20 games, scored 19 (0.95), conceded 16 (0.80), blanks 8, clean sheets 8
 
 TABLE FOR El Entag EL Harby
 LEAGUE TABLE Second League 2026 | 20 teams | 110 games played
@@ -55,7 +78,9 @@ League averages per game: home 1.28, away 1.05, total 2.33
 19  Dayrout                  7 |  5   3-14      |  6   2-7       | 11   5-21
 20  Mega Sport               4 |  5   6-9       |  6   2-10      | 11   8-19
 
-(14 API-Football requests used)
+(Baladiyyat Al Mehalla: same table as El Entag EL Harby, shown above)
+
+(25 API-Football requests used)
 
 ----------------------------------------------------------------------
 MATCHBOOK: skipped (switched off for this run)
