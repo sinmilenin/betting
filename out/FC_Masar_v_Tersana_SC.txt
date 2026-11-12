@@ -1,0 +1,13 @@
+MATCH FC Masar v Tersana SC | fetched 2026-11-12 09:47 local
+
+FORM DATA FC Masar v Tersana SC | source API-Football | 2026-11-12 09:47 UTC
+H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
+
+!! FC Masar: No team found for "FC Masar".
+
+!! Tersana SC: No team found for "Tersana SC".
+
+(2 API-Football requests used)
+
+----------------------------------------------------------------------
+MATCHBOOK: skipped (switched off for this run)

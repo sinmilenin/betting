@@ -1,6 +1,5 @@
-RUN 2026-11-12 07:27 local | 2 match(es)
-Thailand U23 v Qatar U23 -> out/Thailand_U23_v_Qatar_U23.txt
-Kuala Lumpur U20 v Kuching FA U20 -> out/Kuala_Lumpur_U20_v_Kuching_FA_U20.txt
-    !! Kuala Lumpur U20: No team found for "Kuala Lumpur U20".
-    !! Kuching FA U20: No team found for "Kuching FA U20".
-Requests used: API-Football 28, Matchbook 0
+RUN 2026-11-12 09:47 local | 1 match(es)
+FC Masar v Tersana SC -> out/FC_Masar_v_Tersana_SC.txt
+    !! FC Masar: No team found for "FC Masar".
+    !! Tersana SC: No team found for "Tersana SC".
+Requests used: API-Football 2, Matchbook 0
