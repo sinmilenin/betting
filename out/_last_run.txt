@@ -1,4 +1,5 @@
-RUN 2026-11-12 16:27 local | 2 match(es)
-Senegal v Sudan -> out/Senegal_v_Sudan.txt
-Tarancon v Levante -> out/Tarancon_v_Levante.txt
-Requests used: API-Football 52, Matchbook 0
+RUN 2026-11-12 17:17 local | 2 match(es)
+Europa W v Deportivo La Coruna W -> out/Europa_W_v_Deportivo_La_Coruna_W.txt
+    !! Deportivo La Coruna W: No team found for "Deportivo La Coruna W".
+Plaza Colonia v Rentistas -> out/Plaza_Colonia_v_Rentistas.txt
+Requests used: API-Football 31, Matchbook 0

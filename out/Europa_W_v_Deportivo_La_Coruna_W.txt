@@ -1,0 +1,20 @@
+MATCH Europa W v Deportivo La Coruna W | fetched 2026-11-12 17:17 local
+
+FORM DATA Europa W v Deportivo La Coruna W | source API-Football | 2026-11-12 17:17 UTC
+H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
+
+=== CE Europa W (id 28496): last 2 finished games ===
+2026-09-30 H 4-0 v Villarreal W | Copa de la Reina | ?
+2026-09-08 A 1-1 v Seccio Esportiva AEM W | Copa de la Reina | ? [PEN, 90-min score shown]
+Listed home: 1 games, scored 4 (4.00), conceded 0 (0.00), blanks 0, clean sheets 1
+Listed away: 1 games, scored 1 (1.00), conceded 1 (1.00), blanks 0, clean sheets 0
+All: 2 games, scored 5 (2.50), conceded 1 (0.50), blanks 0, clean sheets 1
+
+!! Deportivo La Coruna W: No team found for "Deportivo La Coruna W".
+
+(no league table available for CE Europa W: tried Copa de la Reina 2026)
+
+(6 API-Football requests used)
+
+----------------------------------------------------------------------
+MATCHBOOK: skipped (switched off for this run)
