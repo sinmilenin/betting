@@ -1,0 +1,116 @@
+MATCH DR Congo v Sierra Leone | fetched 2026-11-12 13:28 local
+
+FORM DATA DR Congo v Sierra Leone | source API-Football | 2026-11-12 13:28 UTC
+H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
+
+=== DR Congo U17 (id 27739): last 3 finished games ===
+2026-05-19 A 0-1 v Cameroon U17 | CAF Cup of Nations - U17 | ?
+2026-05-16 H 0-1 v Côte d'Ivoire U17 | CAF Cup of Nations - U17 | ?
+2026-05-13 A 0-3 v Uganda U17 | CAF Cup of Nations - U17 | ?
+Listed home: 1 games, scored 0 (0.00), conceded 1 (1.00), blanks 1, clean sheets 0
+Listed away: 2 games, scored 0 (0.00), conceded 4 (2.00), blanks 2, clean sheets 0
+All: 3 games, scored 0 (0.00), conceded 5 (1.67), blanks 3, clean sheets 0
+
+=== Sierra Leone (id 1499): last 20 finished games ===
+2026-09-28 A 0-1 v Equatorial Guinea | Africa Cup of Nations - Qualification | Yaounde
+2026-09-24 H 2-3 v Zimbabwe | Africa Cup of Nations - Qualification | El Jadida
+2026-06-09 A 1-3 v Liberia | Friendlies | Monrovia
+2026-06-06 H 1-0 v Liberia | Friendlies | Bo
+2026-03-30 A 1-1 v Azerbaijan | FIFA Series | Sumqayit [PEN, 90-min score shown]
+2025-10-12 A 2-1 v Djibouti | World Cup - Qualification Africa | Casablanca
+2025-10-08 H 0-1 v Burkina Faso | World Cup - Qualification Africa | Monrovia
+2025-09-09 H 2-0 v Ethiopia | World Cup - Qualification Africa | Monrovia
+2025-09-04 A 1-1 v Guinea-Bissau | World Cup - Qualification Africa | Bissau
+2025-03-25 A 0-1 v Egypt | World Cup - Qualification Africa | Cairo
+2025-03-20 H 3-1 v Guinea-Bissau | World Cup - Qualification Africa | Monrovia
+2024-11-19 H 0-2 v Zambia | Africa Cup of Nations - Qualification | Monrovia
+2024-11-13 A 1-1 v Chad | Africa Cup of Nations - Qualification | Abidjan
+2024-11-01 A 1-1 v Liberia | African Nations Championship - Qualification | Monrovia
+2024-10-27 H 1-2 v Liberia | African Nations Championship - Qualification | Monrovia
+2024-10-15 H 1-0 v Ivory Coast | Africa Cup of Nations - Qualification | Monrovia
+2024-10-11 A 1-4 v Ivory Coast | Africa Cup of Nations - Qualification | San-Pedro
+2024-09-10 A 2-3 v Zambia | Africa Cup of Nations - Qualification | Ndola
+2024-09-06 H 0-0 v Chad | Africa Cup of Nations - Qualification | Monrovia
+2024-06-10 A 2-2 v Burkina Faso | World Cup - Qualification Africa | Bamako
+Listed home: 9 games, scored 10 (1.11), conceded 9 (1.00), blanks 3, clean sheets 4
+Listed away: 11 games, scored 12 (1.09), conceded 19 (1.73), blanks 2, clean sheets 0
+All: 20 games, scored 22 (1.10), conceded 28 (1.40), blanks 5, clean sheets 4
+
+TABLE FOR DR Congo U17
+LEAGUE TABLE CAF Cup of Nations - U17 2026 | 16 teams | 24 games played
+League averages per game: home 1.25, away 1.04, total 2.29
+#   team                   Pts | home P GF-GA  | away P GF-GA  | all P GF-GA
+1   Morocco U17              7 |  3   5-3       |  0   0-0       |  3   5-3 [U17 Africa Cup of Nations, Group A 2026]
+2   Egypt U17                4 |  1   0-0       |  2   3-3       |  3   3-3 [U17 Africa Cup of Nations, Group A 2026]
+3   Ethiopia U17             4 |  0   0-0       |  3   2-2       |  3   2-2 [U17 Africa Cup of Nations, Group A 2026]
+4   Tunisia U17              1 |  2   1-3       |  1   1-1       |  3   2-4 [U17 Africa Cup of Nations, Group A 2026]
+1   Côte d'Ivoire U17        7 |  3   5-2       |  0   0-0       |  3   5-2 [U17 Africa Cup of Nations, Group B 2026]
+2   Cameroon U17             6 |  2   2-0       |  1   0-2       |  3   2-2 [U17 Africa Cup of Nations, Group B 2026]
+3   Uganda U17               4 |  1   3-0       |  2   2-3       |  3   5-3 [U17 Africa Cup of Nations, Group B 2026]
+4   DR Congo U17             0 |  0   0-0       |  3   0-5       |  3   0-5 [U17 Africa Cup of Nations, Group B 2026]
+1   Tanzania U17             6 |  1   3-0       |  2   4-2       |  3   7-2 [U17 Africa Cup of Nations, Group C 2026]
+2   Mali U17                 5 |  3   3-2       |  0   0-0       |  3   3-2 [U17 Africa Cup of Nations, Group C 2026]
+3   Mozambique U17           4 |  0   0-0       |  3   3-5       |  3   3-5 [U17 Africa Cup of Nations, Group C 2026]
+4   Angola U17               1 |  2   1-5       |  1   0-0       |  3   1-5 [U17 Africa Cup of Nations, Group C 2026]
+1   Senegal U17              6 |  3   4-3       |  0   0-0       |  3   4-3 [U17 Africa Cup of Nations, Group D 2026]
+2   Algeria U17              4 |  1   2-2       |  2   3-2       |  3   5-4 [U17 Africa Cup of Nations, Group D 2026]
+3   Ghana U17                4 |  0   0-0       |  3   5-4       |  3   5-4 [U17 Africa Cup of Nations, Group D 2026]
+4   South Africa U17         3 |  2   1-5       |  1   2-1       |  3   3-6 [U17 Africa Cup of Nations, Group D 2026]
+
+TABLE FOR Sierra Leone
+LEAGUE TABLE Africa Cup of Nations - Qualification 2027 | 48 teams | 48 games played
+League averages per game: home 1.50, away 1.15, total 2.65
+#   team                   Pts | home P GF-GA  | away P GF-GA  | all P GF-GA
+1   Morocco                  6 |  1   2-0       |  1   2-0       |  2   4-0 [Group A]
+2   Gabon                    3 |  1   2-0       |  1   0-2       |  2   2-2 [Group A]
+3   Niger                    3 |  1   2-1       |  1   0-2       |  2   2-3 [Group A]
+4   Lesotho                  0 |  1   0-2       |  1   1-2       |  2   1-4 [Group A]
+1   Egypt                    4 |  1   0-0       |  1   5-0       |  2   5-0 [Group B]
+2   Angola                   4 |  1   3-1       |  1   0-0       |  2   3-1 [Group B]
+3   Malawi                   3 |  1   2-1       |  1   1-3       |  2   3-4 [Group B]
+4   South Sudan              0 |  1   0-5       |  1   1-2       |  2   1-7 [Group B]
+1   Ivory Coast              6 |  1   2-0       |  1   2-0       |  2   4-0 [Group C]
+2   Gambia                   6 |  1   2-1       |  1   4-2       |  2   6-3 [Group C]
+3   Somalia                  0 |  1   0-2       |  1   1-2       |  2   1-4 [Group C]
+4   Ghana                    0 |  1   2-4       |  1   0-2       |  2   2-6 [Group C]
+1   South Africa             6 |  1   2-1       |  1   5-0       |  2   7-1 [Group D]
+2   Guinea                   3 |  1   1-0       |  1   1-2       |  2   2-2 [Group D]
+3   Eritrea                  1 |  1   0-5       |  1   1-1       |  2   1-6 [Group D]
+4   Kenya                    1 |  1   1-1       |  1   0-1       |  2   1-2 [Group D]
+1   Congo DR                 6 |  1   2-0       |  1   2-1       |  2   4-1 [Group E]
+2   Zimbabwe                 3 |  1   1-2       |  1   3-2       |  2   4-4 [Group E]
+3   Equatorial Guinea        3 |  1   1-0       |  1   0-2       |  2   1-2 [Group E]
+4   Sierra Leone             0 |  1   2-3       |  1   0-1       |  2   2-4 [Group E]
+1   Benin                    4 |  1   2-1       |  1   1-1       |  2   3-2 [Group F]
+2   Burkina Faso             4 |  1   1-1       |  1   1-0       |  2   2-1 [Group F]
+3   Mauritania               3 |  1   3-1       |  1   1-2       |  2   4-3 [Group F]
+4   Central African Republ   0 |  1   0-1       |  1   1-3       |  2   1-4 [Group F]
+1   Cameroon                 4 |  1   3-1       |  1   1-1       |  2   4-2 [Group G]
+2   Comoros                  3 |  1   1-0       |  1   1-3       |  2   2-3 [Group G]
+3   Namibia                  3 |  1   1-0       |  1   0-1       |  2   1-1 [Group G]
+4   Congo                    1 |  1   1-1       |  1   0-1       |  2   1-2 [Group G]
+1   Uganda                   4 |  1   1-0       |  1   1-1       |  2   2-1 [Group H]
+2   Botswana                 2 |  0   0-0       |  2   4-4       |  2   4-4 [Group H]
+3   Tunisia                  2 |  2   3-3       |  0   0-0       |  2   3-3 [Group H]
+4   Libya                    1 |  1   2-2       |  1   0-1       |  2   2-3 [Group H]
+1   Algeria                  4 |  1   3-1       |  1   2-2       |  2   5-3 [Group I]
+2   Zambia                   3 |  1   2-0       |  1   1-3       |  2   3-3 [Group I]
+3   Togo                     3 |  1   1-0       |  1   0-2       |  2   1-2 [Group I]
+4   Burundi                  1 |  1   2-2       |  1   0-1       |  2   2-3 [Group I]
+1   Senegal                  4 |  0   0-0       |  2   2-1       |  2   2-1 [Group J]
+2   Mozambique               4 |  2   5-2       |  0   0-0       |  2   5-2 [Group J]
+3   Sudan                    3 |  1   1-0       |  1   1-4       |  2   2-4 [Group J]
+4   Ethiopia                 0 |  1   0-1       |  1   0-1       |  2   0-2 [Group J]
+1   Rwanda                   6 |  1   3-1       |  1   2-1       |  2   5-2 [Group K]
+2   Mali                     6 |  1   3-1       |  1   1-0       |  2   4-1 [Group K]
+3   Cape Verde Islands       0 |  1   1-2       |  1   1-3       |  2   2-5 [Group K]
+4   Liberia                  0 |  1   0-1       |  1   1-3       |  2   1-4 [Group K]
+1   Guinea-Bissau            6 |  1   3-0       |  1   2-0       |  2   5-0 [Group L]
+2   Nigeria                  3 |  1   2-1       |  1   0-3       |  2   2-4 [Group L]
+3   Tanzania                 1 |  1   0-2       |  1   1-1       |  2   1-3 [Group L]
+4   Madagascar               1 |  1   1-1       |  1   1-2       |  2   2-3 [Group L]
+
+(18 API-Football requests used)
+
+----------------------------------------------------------------------
+MATCHBOOK: skipped (switched off for this run)

@@ -1,59 +1,59 @@
-MATCH Cameroon v Namibia | fetched 2026-11-12 12:47 local
+MATCH Equatorial Guinea v Zimbabwe | fetched 2026-11-12 13:28 local
 
-FORM DATA Cameroon v Namibia | source API-Football | 2026-11-12 12:47 UTC
+FORM DATA Equatorial Guinea v Zimbabwe | source API-Football | 2026-11-12 13:28 UTC
 H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
 
-=== Cameroon (id 1530): last 20 finished games ===
-2026-10-03 A 1-0 v Ivory Coast | Friendlies | Adzope
-2026-09-29 A 1-1 v Congo | Africa Cup of Nations - Qualification | Brazzaville
-2026-09-24 H 3-1 v Comoros | Africa Cup of Nations - Qualification | Garoua
-2026-03-31 A 2-0 v China | FIFA Series | Melbourne
-2026-03-27 A 0-1 v Australia | FIFA Series | Sydney
-2026-01-09 H 0-2 v Morocco | Africa Cup of Nations | Rabat
-2026-01-04 A 2-1 v South Africa | Africa Cup of Nations | Rabat
-2025-12-31 A 2-1 v Mozambique | Africa Cup of Nations | Agadir
-2025-12-28 A 1-1 v Ivory Coast | Africa Cup of Nations | Marrakech
-2025-12-24 H 1-0 v Gabon | Africa Cup of Nations | Agadir
-2025-11-13 H 0-1 v Congo DR | World Cup - Qualification Africa | Rabat
-2025-10-13 H 0-0 v Angola | World Cup - Qualification Africa | Yaounde
-2025-10-08 A 2-0 v Mauritius | World Cup - Qualification Africa | Port Louis
-2025-09-09 A 0-1 v Cape Verde Islands | World Cup - Qualification Africa | Praia
-2025-09-04 H 3-0 v Eswatini | World Cup - Qualification Africa | Yaounde
-2025-06-09 A 1-1 v Equatorial Guinea | Friendlies | Marrakech
-2025-06-06 H 3-0 v Uganda | Friendlies | Marrakech
-2025-03-25 H 3-1 v Libya | World Cup - Qualification Africa | Douala
-2025-03-19 A 0-0 v Eswatini | World Cup - Qualification Africa | Mbombela
-2024-12-28 H 1-2 v Central African Republic | African Nations Championship - Qualification | Bafoussam
-Listed home: 9 games, scored 14 (1.56), conceded 7 (0.78), blanks 3, clean sheets 4
-Listed away: 11 games, scored 12 (1.09), conceded 7 (0.64), blanks 3, clean sheets 4
-All: 20 games, scored 26 (1.30), conceded 14 (0.70), blanks 6, clean sheets 8
+=== Equatorial Guinea (id 1521): last 20 finished games ===
+2026-09-28 H 1-0 v Sierra Leone | Africa Cup of Nations - Qualification | Yaounde
+2026-09-24 A 0-2 v Congo DR | Africa Cup of Nations - Qualification | Kinshasa
+2026-06-09 H 0-1 v Comoros | Friendlies | Marrakech
+2026-03-31 H 1-1 v Madagascar | Friendlies | ?
+2026-03-25 A 1-0 v Kyrgyzstan | Friendlies | Antalya
+2025-12-31 H 1-3 v Algeria | Africa Cup of Nations | Rabat
+2025-12-28 H 0-1 v Sudan | Africa Cup of Nations | Casablanca
+2025-12-24 A 1-2 v Burkina Faso | Africa Cup of Nations | Casablanca
+2025-11-17 A 0-2 v Madagascar | Friendlies | ?
+2025-11-14 A 1-0 v Kenya | Friendlies | ?
+2025-10-13 H 1-1 v Liberia | World Cup - Qualification Africa | Malabo
+2025-09-08 H 0-1 v Tunisia | World Cup - Qualification Africa | Malabo
+2025-09-04 A 3-2 v Sao Tome and Principe | World Cup - Qualification Africa | Oujda
+2025-06-09 H 1-1 v Cameroon | Friendlies | Marrakech
+2025-06-06 H 1-2 v Gambia | Friendlies | Marrakech
+2025-03-24 A 1-1 v Namibia | World Cup - Qualification Africa | Johannesburg
+2025-03-21 H 2-0 v Sao Tome and Principe | World Cup - Qualification Africa | Malabo
+2024-12-29 A 1-2 v Congo | African Nations Championship - Qualification | Brazzaville
+2024-12-21 H 0-0 v Congo | African Nations Championship - Qualification | Malabo
+2024-11-17 A 0-3 v Togo | Africa Cup of Nations - Qualification | Lomé
+Listed home: 11 games, scored 8 (0.73), conceded 11 (1.00), blanks 4, clean sheets 3
+Listed away: 9 games, scored 8 (0.89), conceded 14 (1.56), blanks 3, clean sheets 2
+All: 20 games, scored 16 (0.80), conceded 25 (1.25), blanks 7, clean sheets 5
 
-=== Namibia (id 1493): last 20 finished games ===
-2026-10-03 A 0-6 v Russia | Friendlies | Yekaterinburg
-2026-09-29 A 0-1 v Comoros | Africa Cup of Nations - Qualification | Moroni
-2026-09-24 H 1-0 v Congo | Africa Cup of Nations - Qualification | Gaborone
-2026-03-28 H 0-0 v Comoros | FIFA Series | Astana [PEN, 90-min score shown]
-2026-03-25 A 0-2 v Kazakhstan | FIFA Series | Astana
-2025-11-17 A 0-4 v Comoros | Friendlies | ?
-2025-11-14 A 0-1 v Comoros | Friendlies | ?
-2025-10-13 A 0-3 v Tunisia | World Cup - Qualification Africa | Rades
-2025-10-09 A 1-3 v Liberia | World Cup - Qualification Africa | Monrovia
-2025-09-09 H 3-0 v Sao Tome and Principe | World Cup - Qualification Africa | Francistown
-2025-09-05 H 1-2 v Malawi | World Cup - Qualification Africa | Francistown
-2025-06-10 H 3-0 v Lesotho | COSAFA Cup | Bloemfontein, FS
-2025-06-08 H 0-0 v Malawi | COSAFA Cup | Bloemfontein, FS
-2025-06-05 A 1-1 v Angola | COSAFA Cup | Bloemfontein, FS
-2025-03-24 H 1-1 v Equatorial Guinea | World Cup - Qualification Africa | Johannesburg
-2025-03-20 A 1-0 v Malawi | World Cup - Qualification Africa | Lilongwe
-2024-11-19 A 0-0 v Kenya | Africa Cup of Nations - Qualification | Pietersburg
-2024-11-13 H 0-0 v Cameroon | Africa Cup of Nations - Qualification | Johannesburg, GA
-2024-11-03 H 1-0 v Lesotho | African Nations Championship - Qualification | Bloemfontein, FS [PEN, 90-min score shown]
-2024-10-26 A 0-1 v Lesotho | African Nations Championship - Qualification | Bloemfontein, FS
-Listed home: 9 games, scored 10 (1.11), conceded 3 (0.33), blanks 3, clean sheets 7
-Listed away: 11 games, scored 3 (0.27), conceded 22 (2.00), blanks 8, clean sheets 2
-All: 20 games, scored 13 (0.65), conceded 25 (1.25), blanks 11, clean sheets 9
+=== Zimbabwe (id 1522): last 20 finished games ===
+2026-09-28 H 1-2 v Congo DR | Africa Cup of Nations - Qualification | Harare
+2026-09-24 A 3-2 v Sierra Leone | Africa Cup of Nations - Qualification | El Jadida
+2026-05-30 A 1-0 v India | Friendlies | London
+2026-05-26 A 0-2 v Nigeria | Friendlies | London
+2026-03-31 H 1-0 v Zambia U23 | Friendlies | Francistown
+2026-03-28 A 3-0 v Botswana | Friendlies | ?
+2025-12-29 H 2-3 v South Africa | Africa Cup of Nations | Marrakech
+2025-12-26 A 1-1 v Angola | Africa Cup of Nations | Marrakech
+2025-12-22 A 1-2 v Egypt | Africa Cup of Nations | Agadir
+2025-11-17 A 2-1 v Qatar | Friendlies | Doha
+2025-11-13 A 1-3 v Algeria | Friendlies | ?
+2025-10-13 A 0-1 v Lesotho | World Cup - Qualification Africa | Polokwane
+2025-10-10 H 0-0 v South Africa | World Cup - Qualification Africa | Durban
+2025-09-09 H 0-1 v Rwanda | World Cup - Qualification Africa | Johannesburg
+2025-09-05 A 0-1 v Benin | World Cup - Qualification Africa | Abidjan
+2025-06-10 A 1-1 v Niger | Friendlies | Casablanca
+2025-06-10 A 3-1 v Mozambique | COSAFA Cup | Bloemfontein, FS
+2025-06-07 A 0-2 v South Africa | COSAFA Cup | Bloemfontein, FS
+2025-06-06 A 0-2 v Burkina Faso | Friendlies | Mohammédia
+2025-06-04 A 0-0 v Mauritius | COSAFA Cup | Bloemfontein, FS
+Listed home: 5 games, scored 4 (0.80), conceded 6 (1.20), blanks 2, clean sheets 2
+Listed away: 15 games, scored 16 (1.07), conceded 19 (1.27), blanks 6, clean sheets 3
+All: 20 games, scored 20 (1.00), conceded 25 (1.25), blanks 8, clean sheets 5
 
-TABLE FOR Cameroon
+TABLE FOR Equatorial Guinea
 LEAGUE TABLE Africa Cup of Nations - Qualification 2027 | 48 teams | 48 games played
 League averages per game: home 1.50, away 1.15, total 2.65
 #   team                   Pts | home P GF-GA  | away P GF-GA  | all P GF-GA
@@ -106,7 +106,7 @@ League averages per game: home 1.50, away 1.15, total 2.65
 3   Tanzania                 1 |  1   0-2       |  1   1-1       |  2   1-3 [Group L]
 4   Madagascar               1 |  1   1-1       |  1   1-2       |  2   2-3 [Group L]
 
-(Namibia: same table as Cameroon, shown above)
+(Zimbabwe: same table as Equatorial Guinea, shown above)
 
 (25 API-Football requests used)
 
