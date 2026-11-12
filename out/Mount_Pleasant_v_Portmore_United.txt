@@ -1,0 +1,80 @@
+MATCH Mount Pleasant v Portmore United | fetched 2026-11-12 19:59 local
+
+FORM DATA Mount Pleasant v Portmore United | source API-Football | 2026-11-12 19:59 UTC
+H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
+
+=== Mount Pleasant Academy (id 3442): last 20 finished games ===
+2026-11-08 H 2-1 v Tivoli Gardens | Premier League | ?
+2026-11-06 A 1-1 v Arnett Gardens | Premier League | ?
+2026-11-02 A 2-1 v Molynes United | Premier League | ?
+2026-10-27 H 2-1 v Montego Bay United | Premier League | ?
+2026-10-22 H 2-0 v Club Sando | CONCACAF Caribbean Club Championship | Kingston
+2026-10-15 A 1-1 v Club Sando | CONCACAF Caribbean Club Championship | Port of Spain
+2026-10-05 H 1-1 v Cavalier | Premier League | Runaway Bay
+2026-09-27 A 2-0 v Dunbeholden | Premier League | Portmore
+2026-09-20 H 0-1 v Racing United | Premier League | Runaway Bay
+2026-09-17 H 1-0 v Cavalier | CONCACAF Caribbean Club Championship | ?
+2026-09-13 A 0-4 v Tru-Juice | Premier League | ?
+2026-09-09 A 1-0 v Portmore United | CONCACAF Caribbean Club Championship | ?
+2026-09-03 A 1-1 v Salcedo | CONCACAF Caribbean Club Championship | ?
+2026-08-18 H 1-2 v Cibao | CONCACAF Caribbean Club Championship | ?
+2026-08-02 H 1-0 v Delfines Del Este | CONCACAF Caribbean Club Shield | ?
+2026-07-31 H 3-1 v Robin Hood | CONCACAF Caribbean Club Shield | ?
+2026-07-28 H 1-0 v Weymouth Wales | CONCACAF Caribbean Club Shield | ?
+2026-05-24 A 3-2 v Montego Bay United | Premier League | Montego Bay
+2026-05-20 H 1-2 v Portmore United | Premier League | Runaway Bay [AET, 90-min score shown]
+2026-05-18 A 1-0 v Portmore United | Premier League | Portmore
+Listed home: 11 games, scored 15 (1.36), conceded 9 (0.82), blanks 1, clean sheets 4
+Listed away: 9 games, scored 12 (1.33), conceded 10 (1.11), blanks 1, clean sheets 3
+All: 20 games, scored 27 (1.35), conceded 19 (0.95), blanks 2, clean sheets 7
+
+=== Portmore United (id 3443): last 20 finished games ===
+2026-11-08 H 1-2 v Tru-Juice | Premier League | ?
+2026-11-05 H 2-0 v Treasure Beach | Premier League | ?
+2026-11-01 A 2-2 v Montego Bay United | Premier League | ?
+2026-10-28 A 1-2 v Violette AC | CONCACAF Caribbean Club Championship | Santiago
+2026-10-25 H 0-0 v Chapelton | Premier League | ?
+2026-10-14 H 3-1 v Violette AC | CONCACAF Caribbean Club Championship | Kingston
+2026-10-08 H 1-1 v Waterhouse | Premier League | ?
+2026-10-06 A 1-1 v Arnett Gardens | Premier League | Kingston
+2026-09-27 H 4-1 v Humble Lions | Premier League | Portmore
+2026-09-17 A 2-1 v Cibao | CONCACAF Caribbean Club Championship | ?
+2026-09-09 H 0-1 v Mount Pleasant Academy | CONCACAF Caribbean Club Championship | ?
+2026-09-04 A 2-0 v Cavalier | CONCACAF Caribbean Club Championship | Kingston
+2026-08-04 H 1-2 v Salcedo | CONCACAF Caribbean Club Championship | Portmore
+2026-05-25 A 2-2 v Cavalier | Premier League | Kingston [PEN, 90-min score shown]
+2026-05-20 A 2-1 v Mount Pleasant Academy | Premier League | Runaway Bay [AET, 90-min score shown]
+2026-05-18 H 0-1 v Mount Pleasant Academy | Premier League | Portmore
+2026-05-14 H 2-0 v Racing United | Premier League | Portmore
+2026-05-10 A 3-3 v Racing United | Premier League | Kingston
+2026-05-06 H 3-0 v Tivoli Gardens | Premier League | Portmore
+2026-05-03 A 1-1 v Racing United | Premier League | Kingston
+Listed home: 11 games, scored 17 (1.55), conceded 9 (0.82), blanks 3, clean sheets 4
+Listed away: 9 games, scored 16 (1.78), conceded 13 (1.44), blanks 0, clean sheets 1
+All: 20 games, scored 33 (1.65), conceded 22 (1.10), blanks 3, clean sheets 5
+
+TABLE FOR Mount Pleasant Academy
+LEAGUE TABLE Premier League 2026 | 14 teams | 60 games played
+League averages per game: home 1.47, away 1.28, total 2.75
+#   team                   Pts | home P GF-GA  | away P GF-GA  | all P GF-GA
+1   Tru-Juice               20 |  4   9-2       |  5   9-2       |  9  18-4
+2   Waterhouse              18 |  4   7-2       |  5  12-2       |  9  19-4
+3   Racing United           17 |  4   6-7       |  5  13-4       |  9  19-11
+4   Montego Bay United      16 |  6   9-6       |  3   5-3       |  9  14-9
+5   Mount Pleasant Academy  14 |  4   5-4       |  4   5-6       |  8  10-10
+6   Arnett Gardens          13 |  5  10-3       |  4   7-9       |  9  17-12
+7   Tivoli Gardens          12 |  5  11-6       |  4   5-5       |  9  16-11
+8   Portmore United         10 |  5   8-4       |  2   3-3       |  7  11-7
+9   Cavalier                10 |  3   6-6       |  4   4-5       |  7  10-11
+10  Chapelton               10 |  4   3-7       |  5   1-4       |  9   4-11
+11  Dunbeholden              7 |  4   5-4       |  5   1-10      |  9   6-14
+12  Molynes United           7 |  5   5-11      |  4   4-9       |  9   9-20
+13  Treasure Beach           6 |  4   3-8       |  5   6-11      |  9   9-19
+14  Humble Lions             2 |  3   1-7       |  5   2-15      |  8   3-22
+
+(Portmore United: same table as Mount Pleasant Academy, shown above)
+
+(25 API-Football requests used)
+
+----------------------------------------------------------------------
+MATCHBOOK: skipped (switched off for this run)

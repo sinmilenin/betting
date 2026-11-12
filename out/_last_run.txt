@@ -1,4 +1,16 @@
-RUN 2026-11-12 19:29 local | 2 match(es)
-Ponte Preta v Operario Ferroviario -> out/Ponte_Preta_v_Operario_Ferroviario.txt
-Puerto Cabello v id:2811 -> out/Puerto_Cabello_v_id_2811.txt
-Requests used: API-Football 51, Matchbook 0
+RUN 2026-11-12 19:59 local | 8 match(es)
+Mount Pleasant v Portmore United -> out/Mount_Pleasant_v_Portmore_United.txt
+Benfica W v Austria Wien W -> out/Benfica_W_v_Austria_Wien_W.txt
+Cerro Largo v Progreso -> out/Cerro_Largo_v_Progreso.txt
+Sao Bernardo v Athletic Club -> out/Sao_Bernardo_v_Athletic_Club.txt
+    !! Sao Bernardo: Ambiguous team name "Sao Bernardo".
+    !! Athletic Club: Ambiguous team name "Athletic Club".
+Estudiantes L.P. v Independiente Rivadavia -> out/Estudiantes_L_P_v_Independiente_Rivadavi.txt
+    !! Estudiantes L.P.: API-Football error: {"search": "The Search field may only contain alpha-numeric characters and spaces."}
+    !! Independiente Rivadavia: No team found for "Independiente Rivadavia".
+Llaneros v Boyaca Chico -> out/Llaneros_v_Boyaca_Chico.txt
+Curacao v Panama -> out/Curacao_v_Panama.txt
+    !! Curacao: Ambiguous team name "Curacao".
+Atletico Morelia v Leones Negros -> out/Atletico_Morelia_v_Leones_Negros.txt
+    !! Atletico Morelia: No team found for "Atletico Morelia".
+Requests used: API-Football 137, Matchbook 0
