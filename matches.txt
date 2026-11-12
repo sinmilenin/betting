@@ -1,2 +1,4 @@
-# scan 12.11 10:46 (retry names)
-Masar v Tersana | n=20 | xg=10
+# scan 12.11 11:27
+Iceland U21 v Greece U21 | n=20 | xg=10
+Germany U19 v Sweden U19 | n=20 | xg=10
+Serbia U21 v North Macedonia U21 | n=20 | xg=10
