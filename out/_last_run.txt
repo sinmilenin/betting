@@ -1,16 +1,7 @@
-RUN 2026-11-12 06:44 local | 9 match(es)
-Ghana v Somalia -> out/Ghana_v_Somalia.txt
-Madagascar v Guinea-Bissau -> out/Madagascar_v_Guinea_Bissau.txt
-    !! Guinea-Bissau: API-Football error: {"search": "The Search field may only contain alpha-numeric characters and spaces."}
-Lithuania v Suriname -> out/Lithuania_v_Suriname.txt
-Ivory Coast v Gambia -> out/Ivory_Coast_v_Gambia.txt
-Barbados v Guadeloupe -> out/Barbados_v_Guadeloupe.txt
-Atenas v Oriental -> out/Atenas_v_Oriental.txt
-    !! Atenas: Ambiguous team name "Atenas".
-    !! Oriental: Ambiguous team name "Oriental".
-Cerrito v Colon -> out/Cerrito_v_Colon.txt
-    !! Colon: Ambiguous team name "Colon".
-Czech Republic v Spain -> out/Czech_Republic_v_Spain.txt
-    !! Czech Republic: No team found for "Czech Republic".
-Montenegro v Latvia -> out/Montenegro_v_Latvia.txt
-Requests used: API-Football 170, Matchbook 0
+RUN 2026-11-12 06:45 local | 4 match(es)
+Madagascar v Guinea Bissau -> out/Madagascar_v_Guinea_Bissau.txt
+    !! Guinea Bissau: No team found for "Guinea Bissau".
+id:2364 v id:2376 -> out/id_2364_v_id_2376.txt
+Cerrito v id:15628 -> out/Cerrito_v_id_15628.txt
+Czechia v Spain -> out/Czechia_v_Spain.txt
+Requests used: API-Football 88, Matchbook 0

@@ -1,7 +1,32 @@
-MATCH Czech Republic v Spain | fetched 2026-11-12 06:44 local
+MATCH Czechia v Spain | fetched 2026-11-12 06:45 local
 
-FORM DATA Czech Republic v Spain | source API-Football | 2026-11-12 06:44 UTC
+FORM DATA Czechia v Spain | source API-Football | 2026-11-12 06:45 UTC
 H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
+
+=== Czechia (id 770): last 20 finished games ===
+2026-10-06 A 0-3 v England | UEFA Nations League | London
+2026-10-03 A 1-3 v Spain | UEFA Nations League | Oviedo | xG 0.49-1.99
+2026-09-29 H 0-2 v England | UEFA Nations League | Prague | xG 0.32-1.48
+2026-09-26 H 1-2 v Croatia | UEFA Nations League | Prague | xG 0.92-1.84
+2026-06-25 H 0-3 v Mexico | World Cup | Mexico City | xG 0.53-1.74
+2026-06-18 H 1-1 v South Africa | World Cup | Atlanta | xG 1.02-1.38
+2026-06-12 A 1-2 v South Korea | World Cup | Zapopan | xG 0.83-2.30
+2026-06-05 H 3-1 v Guatemala | Friendlies | Harrison
+2026-05-31 H 2-1 v Kosovo | Friendlies | Prague
+2026-03-31 H 1-1 v Denmark | World Cup - Qualification Europe | Prague [PEN, 90-min score shown]
+2026-03-26 H 2-2 v Rep. Of Ireland | World Cup - Qualification Europe | Prague [PEN, 90-min score shown]
+2025-11-17 H 6-0 v Gibraltar | World Cup - Qualification Europe | Olomouc
+2025-11-13 H 1-0 v San Marino | Friendlies | Karvina
+2025-10-12 A 1-2 v Faroe Islands | World Cup - Qualification Europe | Torshavn
+2025-10-09 H 0-0 v Croatia | World Cup - Qualification Europe | Prague
+2025-09-08 H 1-1 v Saudi Arabia | Friendlies | Hradec Kralove
+2025-09-05 A 2-0 v Montenegro | World Cup - Qualification Europe | Podgorica
+2025-06-09 A 1-5 v Croatia | World Cup - Qualification Europe | Osijek
+2025-06-06 H 2-0 v Montenegro | World Cup - Qualification Europe | Plzen
+2025-03-25 A 4-0 v Gibraltar | World Cup - Qualification Europe | Faro
+Listed home: 13 games, scored 20 (1.54), conceded 14 (1.08), blanks 3, clean sheets 4
+Listed away: 7 games, scored 10 (1.43), conceded 15 (2.14), blanks 1, clean sheets 2
+All: 20 games, scored 30 (1.50), conceded 29 (1.45), blanks 4, clean sheets 6
 
 === Spain (id 9): last 20 finished games ===
 2026-10-06 A 2-1 v Croatia | UEFA Nations League | Split
@@ -28,9 +53,7 @@ Listed home: 13 games, scored 28 (2.15), conceded 6 (0.46), blanks 3, clean shee
 Listed away: 7 games, scored 16 (2.29), conceded 4 (0.57), blanks 0, clean sheets 4
 All: 20 games, scored 44 (2.20), conceded 10 (0.50), blanks 3, clean sheets 12
 
-!! Czech Republic: No team found for "Czech Republic".
-
-TABLE FOR Spain
+TABLE FOR Czechia
 LEAGUE TABLE UEFA Nations League 2026 | 54 teams | 104 games played
 League averages per game: home 1.22, away 1.24, total 2.46
 #   team                   Pts | home P GF-GA  | away P GF-GA  | all P GF-GA
@@ -89,7 +112,9 @@ League averages per game: home 1.22, away 1.24, total 2.46
 2   Lithuania                4 |  1   1-1       |  2   2-1       |  3   3-2 [League D - Group B]
 3   Liechtenstein            1 |  1   0-2       |  1   0-0       |  2   0-2 [League D - Group B]
 
-(13 API-Football requests used)
+(Spain: same table as Czechia, shown above)
+
+(25 API-Football requests used)
 
 ----------------------------------------------------------------------
 MATCHBOOK: skipped (switched off for this run)
