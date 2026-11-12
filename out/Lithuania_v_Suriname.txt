@@ -1,0 +1,135 @@
+MATCH Lithuania v Suriname | fetched 2026-11-12 06:44 local
+
+FORM DATA Lithuania v Suriname | source API-Football | 2026-11-12 06:44 UTC
+H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
+
+=== Lithuania (id 1097): last 20 finished games ===
+2026-10-04 A 0-1 v Azerbaijan | UEFA Nations League | Baku | xG 1.05-1.87
+2026-09-30 H 3-0 v Andorra | Friendlies | Kaunas
+2026-09-27 H 1-1 v Azerbaijan | UEFA Nations League | Kaunas | xG 1.26-0.83
+2026-09-24 A 2-0 v Liechtenstein | UEFA Nations League | Vaduz | xG 1.38-0.08
+2026-06-09 A 0-1 v Estonia | Baltic Cup | Tallinn
+2026-06-06 H 1-1 v Latvia | Baltic Cup | Kaunas [PEN, 90-min score shown]
+2026-03-29 H 0-2 v Georgia | Friendlies | Kaunas
+2026-03-26 A 2-0 v Moldova | Friendlies | Chisinau
+2025-11-17 A 0-4 v Netherlands | World Cup - Qualification Europe | Amsterdam | xG 0.47-3.20
+2025-11-13 H 0-0 v Israel | Friendlies | Kaunas
+2025-10-12 H 0-2 v Poland | World Cup - Qualification Europe | Kaunas
+2025-10-09 A 1-2 v Finland | World Cup - Qualification Europe | Helsinki
+2025-09-07 H 2-3 v Netherlands | World Cup - Qualification Europe | Kaunas
+2025-09-04 H 1-1 v Malta | World Cup - Qualification Europe | Kaunas
+2025-06-10 A 0-5 v Denmark | Friendlies | Odense
+2025-06-07 A 0-0 v Malta | World Cup - Qualification Europe | Ta'Qali
+2025-03-24 H 2-2 v Finland | World Cup - Qualification Europe | Kaunas
+2025-03-21 A 0-1 v Poland | World Cup - Qualification Europe | Warsaw
+2024-11-18 A 0-1 v Kosovo | UEFA Nations League | Prishtinë
+2024-11-15 A 1-2 v Cyprus | UEFA Nations League | Larnaca
+Listed home: 9 games, scored 10 (1.11), conceded 12 (1.33), blanks 3, clean sheets 2
+Listed away: 11 games, scored 6 (0.55), conceded 17 (1.55), blanks 7, clean sheets 3
+All: 20 games, scored 16 (0.80), conceded 29 (1.45), blanks 10, clean sheets 5
+
+=== Suriname (id 8171): last 20 finished games ===
+2026-10-06 A 0-1 v Guatemala | CONCACAF Nations League | Guatemala City
+2026-10-02 H 0-0 v Guatemala | CONCACAF Nations League | Paramaribo
+2026-09-28 H 2-1 v Martinique | CONCACAF Nations League | Paramaribo
+2026-09-26 A 3-2 v Honduras | CONCACAF Nations League | Tegucigalpa
+2026-03-26 A 1-2 v Bolivia | World Cup - Qualification Intercontinental Play-offs | Monterrey
+2025-11-19 A 1-3 v Guatemala | World Cup - Qualification CONCACAF | Guatemala City
+2025-11-13 H 4-0 v El Salvador | World Cup - Qualification CONCACAF | Paramaribo
+2025-10-15 A 1-1 v Panama | World Cup - Qualification CONCACAF | Panama City
+2025-10-10 H 1-1 v Guatemala | World Cup - Qualification CONCACAF | Paramaribo
+2025-09-09 A 2-1 v El Salvador | World Cup - Qualification CONCACAF | San Salvador
+2025-09-04 H 0-0 v Panama | World Cup - Qualification CONCACAF | Paramaribo
+2025-06-23 A 0-0 v Dominican Republic | CONCACAF Gold Cup | Arlington, Texas
+2025-06-19 H 0-2 v Mexico | CONCACAF Gold Cup | Arlington, Texas
+2025-06-16 A 3-4 v Costa Rica | CONCACAF Gold Cup | San Diego, California
+2025-06-11 A 1-1 v El Salvador | World Cup - Qualification CONCACAF | San Salvador
+2025-06-06 H 1-0 v Puerto Rico | World Cup - Qualification CONCACAF | Paramaribo
+2025-03-25 A 1-0 v Martinique | CONCACAF Gold Cup - Qualification | Fort-de-France
+2025-03-21 H 1-0 v Martinique | CONCACAF Gold Cup - Qualification | Paramaribo
+2024-11-20 A 0-3 v Canada | CONCACAF Nations League | Toronto, Ontario
+2024-11-15 H 0-1 v Canada | CONCACAF Nations League | Paramaribo
+Listed home: 9 games, scored 9 (1.00), conceded 5 (0.56), blanks 4, clean sheets 5
+Listed away: 11 games, scored 13 (1.18), conceded 18 (1.64), blanks 3, clean sheets 2
+All: 20 games, scored 22 (1.10), conceded 23 (1.15), blanks 7, clean sheets 7
+
+TABLE FOR Lithuania
+LEAGUE TABLE UEFA Nations League 2026 | 54 teams | 104 games played
+League averages per game: home 1.22, away 1.24, total 2.46
+#   team                   Pts | home P GF-GA  | away P GF-GA  | all P GF-GA
+1   France                  10 |  2   5-2       |  2   2-0       |  4   7-2 [League A - Group A]
+2   Italy                    7 |  2   3-3       |  2   5-2       |  4   8-5 [League A - Group A]
+3   Belgium                  6 |  2   3-1       |  2   3-4       |  4   6-5 [League A - Group A]
+4   Türkiye                  0 |  2   1-5       |  2   1-6       |  4   2-11 [League A - Group A]
+1   Netherlands              8 |  2   3-2       |  2   4-3       |  4   7-5 [League A - Group B]
+2   Greece                   8 |  2   2-2       |  2   3-1       |  4   5-3 [League A - Group B]
+3   Germany                  5 |  2   2-1       |  2   1-1       |  4   3-2 [League A - Group B]
+4   Serbia                   0 |  2   2-4       |  2   1-4       |  4   3-8 [League A - Group B]
+1   Spain                   12 |  2   7-2       |  2   5-3       |  4  12-5 [League A - Group C]
+2   England                  9 |  2   5-3       |  2   9-0       |  4  14-3 [League A - Group C]
+3   Croatia                  3 |  2   1-9       |  2   3-5       |  4   4-14 [League A - Group C]
+4   Czechia                  0 |  2   1-4       |  2   1-6       |  4   2-10 [League A - Group C]
+1   Portugal                12 |  2   3-1       |  2   6-3       |  4   9-4 [League A - Group D]
+2   Denmark                  6 |  2   4-4       |  2   3-3       |  4   7-7 [League A - Group D]
+3   Wales                    3 |  2   2-2       |  2   0-3       |  4   2-5 [League A - Group D]
+4   Norway                   3 |  2   4-4       |  2   2-4       |  4   6-8 [League A - Group D]
+1   Switzerland             12 |  2   5-1       |  2   6-0       |  4  11-1 [League B - Group A]
+2   Slovenia                 7 |  2   2-0       |  2   3-3       |  4   5-3 [League B - Group A]
+3   Scotland                 4 |  2   1-5       |  2   2-0       |  4   3-5 [League B - Group A]
+4   FYR Macedonia            0 |  2   0-5       |  2   0-5       |  4   0-10 [League B - Group A]
+1   Northern Ireland         8 |  2   0-0       |  2   4-0       |  4   4-0 [League B - Group B]
+2   Hungary                  7 |  2   1-1       |  2   2-1       |  4   3-2 [League B - Group B]
+3   Ukraine                  4 |  2   1-5       |  2   1-0       |  4   2-5 [League B - Group B]
+4   Georgia                  2 |  2   0-1       |  2   0-1       |  4   0-2 [League B - Group B]
+1   Austria                  8 |  2   6-2       |  2   3-3       |  4   9-5 [League B - Group C]
+2   Kosovo                   5 |  2   2-1       |  2   1-3       |  4   3-4 [League B - Group C]
+3   Rep. Of Ireland          5 |  2   3-3       |  2   3-1       |  4   6-4 [League B - Group C]
+4   Israel                   2 |  2   0-3       |  2   2-4       |  4   2-7 [League B - Group C]
+1   Sweden                  10 |  2   5-2       |  2   2-1       |  4   7-3 [League B - Group D]
+2   Bosnia & Herzegovina     8 |  2   2-1       |  2   4-2       |  4   6-3 [League B - Group D]
+3   Poland                   4 |  2   6-0       |  2   1-4       |  4   7-4 [League B - Group D]
+4   Romania                  0 |  2   2-5       |  2   1-8       |  4   3-13 [League B - Group D]
+1   Albania                  9 |  2   4-1       |  2   4-2       |  4   8-3 [League C - Group A]
+2   Belarus                  7 |  2   5-0       |  2   0-2       |  4   5-2 [League C - Group A]
+3   Finland                  7 |  2   2-1       |  2   7-1       |  4   9-2 [League C - Group A]
+4   San Marino               0 |  2   0-10      |  2   1-6       |  4   1-16 [League C - Group A]
+1   Montenegro              10 |  2   2-1       |  2   5-3       |  4   7-4 [League C - Group B]
+2   Cyprus                   7 |  2   4-1       |  2   1-2       |  4   5-3 [League C - Group B]
+3   Armenia                  4 |  2   4-3       |  2   0-2       |  4   4-5 [League C - Group B]
+4   Latvia                   1 |  2   1-2       |  2   1-4       |  4   2-6 [League C - Group B]
+1   Slovakia                10 |  2   4-1       |  2   5-1       |  4   9-2 [League C - Group C]
+2   Faroe Islands            4 |  2   2-2       |  2   3-3       |  4   5-5 [League C - Group C]
+3   Moldova                  4 |  2   1-5       |  2   2-3       |  4   3-8 [League C - Group C]
+4   Kazakhstan               2 |  2   3-4       |  2   2-3       |  4   5-7 [League C - Group C]
+1   Iceland                  8 |  2   4-1       |  2   3-0       |  4   7-1 [League C - Group D]
+2   Estonia                  6 |  2   1-0       |  2   1-1       |  4   2-1 [League C - Group D]
+3   Bulgaria                 4 |  2   1-2       |  2   2-3       |  4   3-5 [League C - Group D]
+4   Luxembourg               3 |  2   0-5       |  2   2-2       |  4   2-7 [League C - Group D]
+1   Malta                    7 |  2   2-1       |  1   2-1       |  3   4-2 [League D - Group A]
+2   Gibraltar                2 |  1   0-0       |  1   1-1       |  2   1-1 [League D - Group A]
+3   Andorra                  1 |  1   1-2       |  2   0-1       |  3   1-3 [League D - Group A]
+1   Azerbaijan               5 |  2   1-0       |  1   1-1       |  3   2-1 [League D - Group B]
+2   Lithuania                4 |  1   1-1       |  2   2-1       |  3   3-2 [League D - Group B]
+3   Liechtenstein            1 |  1   0-2       |  1   0-0       |  2   0-2 [League D - Group B]
+
+TABLE FOR Suriname
+LEAGUE TABLE World Cup - Qualification CONCACAF 2026 | 12 teams | 36 games played
+League averages per game: home 1.36, away 1.11, total 2.47
+#   team                   Pts | home P GF-GA  | away P GF-GA  | all P GF-GA
+1   Panama                  12 |  3   5-2       |  3   4-2       |  6   9-4 [Group A]
+2   Suriname                 9 |  3   5-1       |  3   4-5       |  6   9-6 [Group A]
+3   Guatemala                8 |  3   5-5       |  3   3-2       |  6   8-7 [Group A]
+4   El Salvador              3 |  3   1-4       |  3   1-7       |  6   2-11 [Group A]
+1   Curaçao                 12 |  3   6-3       |  3   7-0       |  6  13-3 [Group B]
+2   Jamaica                 11 |  3   6-0       |  3   5-3       |  6  11-3 [Group B]
+3   Trinidad and Tobago      7 |  3   3-3       |  3   4-3       |  6   7-6 [Group B]
+4   Bermuda                  1 |  3   0-14      |  3   4-9       |  6   4-23 [Group B]
+1   Haiti                   11 |  3   3-0       |  3   6-6       |  6   9-6 [Group C]
+2   Honduras                 9 |  3   5-0       |  3   0-2       |  6   5-2 [Group C]
+3   Costa Rica               7 |  3   7-4       |  3   1-2       |  6   8-6 [Group C]
+4   Nicaragua                4 |  3   3-4       |  3   1-8       |  6   4-12 [Group C]
+
+(28 API-Football requests used)
+
+----------------------------------------------------------------------
+MATCHBOOK: skipped (switched off for this run)
