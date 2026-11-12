@@ -1,7 +1,4 @@
-RUN 2026-11-12 18:44 local | 3 match(es)
-Aguila v Municipal Limeno -> out/Aguila_v_Municipal_Limeno.txt
-    !! Aguila: Ambiguous team name "Aguila".
-Europa W v Deportivo Abanca W -> out/Europa_W_v_Deportivo_Abanca_W.txt
-    !! Deportivo Abanca W: No team found for "Deportivo Abanca W".
-Cayman Islands v Guyana -> out/Cayman_Islands_v_Guyana.txt
-Requests used: API-Football 50, Matchbook 0
+RUN 2026-11-12 18:45 local | 2 match(es)
+id:4310 v Municipal Limeno -> out/id_4310_v_Municipal_Limeno.txt
+Europa W v Deportivo W -> out/Europa_W_v_Deportivo_W.txt
+Requests used: API-Football 43, Matchbook 0

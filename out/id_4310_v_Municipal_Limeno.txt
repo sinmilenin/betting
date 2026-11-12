@@ -1,19 +1,33 @@
-MATCH Aguila v Municipal Limeno | fetched 2026-11-12 18:44 local
+MATCH id:4310 v Municipal Limeno | fetched 2026-11-12 18:45 local
 
-FORM DATA Aguila v Municipal Limeno | source API-Football | 2026-11-12 18:44 UTC
+FORM DATA id:4310 v Municipal Limeno | source API-Football | 2026-11-12 18:45 UTC
 H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
 
-"Aguila" matches several teams. Use id:<number> instead of the name:
-  id:1144   Águilas Doradas (Colombia)
-  id:4107   SIMA Águilas (USA)
-  id:4310   Águila (El-Salvador)
-  id:9823   Águilas (Spain)
-  id:22754  Davao Aguilas (Philippines)
-  id:23070  Águilas Doradas U20 (Colombia)
-  id:23589  Ferro Monte Águila (Chile)
-  id:24656  Águilas II (Spain)
-  id:27504  Fuerte Aguilares (El-Salvador)
-  id:28599  Águila (Costa-Rica)
+=== Águila (id 4310): last 20 finished games ===
+2026-11-08 A 2-3 v Alianza | Primera Division | San Salvador
+2026-11-01 A 4-3 v Fuerte San Francisco | Primera Division | ?
+2026-10-24 H 3-1 v FAS | Primera Division | ?
+2026-10-18 A 2-2 v Atletico Balboa | Primera Division | ?
+2026-10-11 H 3-0 v Isidro Metapán | Primera Division | ?
+2026-10-03 H 4-1 v Cacahuatique | Primera Division | ?
+2026-09-30 H 2-1 v Inter | Primera Division | ?
+2026-09-27 A 0-2 v Firpo | Primera Division | ?
+2026-09-20 A 1-0 v Platense | Primera Division | ?
+2026-09-12 H 3-1 v Inca Aruba | Primera Division | ?
+2026-09-10 A 0-0 v Municipal Limeño | Primera Division | ?
+2026-09-06 H 2-2 v Alianza | Primera Division | ?
+2026-08-30 H 4-1 v Fuerte San Francisco | Primera Division | ?
+2026-08-23 A 0-1 v FAS | Primera Division | Santa Ana
+2026-08-15 H 2-4 v Atletico Balboa | Primera Division | ?
+2026-08-08 A 1-2 v Isidro Metapán | Primera Division | ?
+2026-08-02 A 2-2 v Cacahuatique | Primera Division | ?
+2026-07-31 A 0-0 v Inter | Primera Division | ?
+2026-07-26 H 1-1 v Firpo | Primera Division | ?
+2026-05-24 H 0-3 v FAS | Primera Division | San Salvador
+Listed home: 10 games, scored 24 (2.40), conceded 15 (1.50), blanks 1, clean sheets 1
+Listed away: 10 games, scored 12 (1.20), conceded 15 (1.50), blanks 4, clean sheets 3
+All: 20 games, scored 36 (1.80), conceded 30 (1.50), blanks 5, clean sheets 4
+
 === Municipal Limeño (id 4306): last 20 finished games ===
 2026-11-08 H 3-4 v Atletico Balboa | Primera Division | ?
 2026-11-05 H 1-1 v Fuerte San Francisco | Primera Division | ?
@@ -39,21 +53,7 @@ Listed home: 10 games, scored 16 (1.60), conceded 17 (1.70), blanks 2, clean she
 Listed away: 10 games, scored 15 (1.50), conceded 15 (1.50), blanks 1, clean sheets 2
 All: 20 games, scored 31 (1.55), conceded 32 (1.60), blanks 3, clean sheets 4
 
-(retrying Aguila using the opponent's country, El-Salvador)
-"Aguila" matches several teams. Use id:<number> instead of the name:
-  id:1144   Águilas Doradas (Colombia)
-  id:4107   SIMA Águilas (USA)
-  id:4310   Águila (El-Salvador)
-  id:9823   Águilas (Spain)
-  id:22754  Davao Aguilas (Philippines)
-  id:23070  Águilas Doradas U20 (Colombia)
-  id:23589  Ferro Monte Águila (Chile)
-  id:24656  Águilas II (Spain)
-  id:27504  Fuerte Aguilares (El-Salvador)
-  id:28599  Águila (Costa-Rica)
-!! Aguila: Ambiguous team name "Aguila".
-
-TABLE FOR Municipal Limeño
+TABLE FOR Águila
 LEAGUE TABLE Primera Division 2026 | 12 teams | 119 games played
 League averages per game: home 1.44, away 1.24, total 2.68
 #   team                   Pts | home P GF-GA  | away P GF-GA  | all P GF-GA
@@ -70,7 +70,9 @@ League averages per game: home 1.44, away 1.24, total 2.68
 11  Fuerte San Francisco    17 | 10  11-16      | 11  10-20      | 21  21-36
 12  Inca Aruba              17 | 10   9-17      |  9   5-16      | 19  14-33
 
-(15 API-Football requests used)
+(Municipal Limeño: same table as Águila, shown above)
+
+(25 API-Football requests used)
 
 ----------------------------------------------------------------------
 MATCHBOOK: skipped (switched off for this run)
