@@ -1,3 +1,9 @@
-# scan 12.11 20:26 (run 2)
-Ponte Preta v Operario Ferroviario | n=20 | xg=10
-Puerto Cabello v id:2811 | n=20 | xg=10
+# night scan 12.11 20:56
+Mount Pleasant v Portmore United | n=20 | xg=10
+Benfica W v Austria Wien W | n=20 | xg=10
+Cerro Largo v Progreso | n=20 | xg=10
+Sao Bernardo v Athletic Club | n=20 | xg=10
+Estudiantes L.P. v Independiente Rivadavia | n=20 | xg=10
+Llaneros v Boyaca Chico | n=20 | xg=10
+Curacao v Panama | n=20 | xg=10
+Atletico Morelia v Leones Negros | n=20 | xg=10
