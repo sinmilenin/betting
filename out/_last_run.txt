@@ -1,7 +1,4 @@
-RUN 2026-11-12 06:45 local | 4 match(es)
-Madagascar v Guinea Bissau -> out/Madagascar_v_Guinea_Bissau.txt
-    !! Guinea Bissau: No team found for "Guinea Bissau".
-id:2364 v id:2376 -> out/id_2364_v_id_2376.txt
-Cerrito v id:15628 -> out/Cerrito_v_id_15628.txt
-Czechia v Spain -> out/Czechia_v_Spain.txt
-Requests used: API-Football 88, Matchbook 0
+RUN 2026-11-12 06:46 local | 1 match(es)
+Madagascar v Bissau -> out/Madagascar_v_Bissau.txt
+    !! Bissau: Ambiguous team name "Bissau".
+Requests used: API-Football 15, Matchbook 0
