@@ -1,2 +1,2 @@
-# scan 12.11 10:46
-FC Masar v Tersana SC | n=20 | xg=10
+# scan 12.11 10:46 (retry names)
+Masar v Tersana | n=20 | xg=10
