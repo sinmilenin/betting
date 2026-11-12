@@ -1,5 +1,3 @@
-# scan 12.11 15:15 (Ljubljana)
-Guinea v Eritrea | n=20 | xg=10
-Torreense W v Sparta Prague W | n=20 | xg=10
-Turkey v Belgium | n=20 | xg=10
-Armenia v Cyprus | n=20 | xg=10
+# scan 12.11 15:15 retry (Turkey -> id:777, Sparta Praha W)
+id:777 v Belgium | n=20 | xg=10
+Torreense W v Sparta Praha W | n=20 | xg=10
