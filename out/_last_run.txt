@@ -1,8 +1,4 @@
-RUN 2026-11-12 14:16 local | 4 match(es)
-Guinea v Eritrea -> out/Guinea_v_Eritrea.txt
-Torreense W v Sparta Prague W -> out/Torreense_W_v_Sparta_Prague_W.txt
-    !! Sparta Prague W: No team found for "Sparta Prague W".
-Turkey v Belgium -> out/Turkey_v_Belgium.txt
-    !! Turkey: Ambiguous team name "Turkey".
-Armenia v Cyprus -> out/Armenia_v_Cyprus.txt
-Requests used: API-Football 80, Matchbook 0
+RUN 2026-11-12 14:18 local | 2 match(es)
+id:777 v Belgium -> out/id_777_v_Belgium.txt
+Torreense W v Sparta Praha W -> out/Torreense_W_v_Sparta_Praha_W.txt
+Requests used: API-Football 53, Matchbook 0

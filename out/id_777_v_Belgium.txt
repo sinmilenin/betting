@@ -1,34 +1,33 @@
-MATCH Turkey v Belgium | fetched 2026-11-12 14:16 local
+MATCH id:777 v Belgium | fetched 2026-11-12 14:18 local
 
-FORM DATA Turkey v Belgium | source API-Football | 2026-11-12 14:17 UTC
+FORM DATA id:777 v Belgium | source API-Football | 2026-11-12 14:18 UTC
 H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
 
-"Turkey" matches several teams. Use id:<number> instead of the name:
-  id:549    Beşiktaş (Turkey)
-  id:564    Başakşehir (Turkey)
-  id:607    Konyaspor (Turkey)
-  id:611    Fenerbahçe (Turkey)
-  id:645    Galatasaray (Turkey)
-  id:777    Türkiye (Turkey) national
-  id:780    Ankaraspor (Turkey)
-  id:994    Göztepe (Turkey)
-  id:995    Akhisarspor (Turkey)
-  id:996    Alanyaspor (Turkey)
-  id:997    Gençlerbirliği S.K. (Turkey)
-  id:998    Trabzonspor (Turkey)
-  id:999    Yeni Malatyaspor (Turkey)
-  id:1000   Kardemir Karabukspor (Turkey)
-  id:1001   Kayserispor (Turkey)
-  id:1002   Sivasspor (Turkey)
-  id:1003   Bursaspor (Turkey)
-  id:1004   Kasımpaşa (Turkey)
-  id:1005   Antalyaspor (Turkey)
-  id:1007   Rizespor (Turkey)
-  id:1008   Gaziantepspor (Turkey)
-  id:1009   Erzurumspor FK (Turkey)
-  id:1010   Ankaragücü (Turkey)
-  id:1759   Turkey W (Turkey) national
-  id:3563   Adana Demirspor (Turkey)
+=== Türkiye (id 777): last 20 finished games ===
+2026-10-05 A 1-3 v Italy | UEFA Nations League | Bologna | xG 1.42-2.04
+2026-10-02 A 0-3 v Belgium | UEFA Nations League | Liege | xG 1.38-1.58
+2026-09-28 H 1-4 v Italy | UEFA Nations League | Bursa | xG 2.89-2.28
+2026-09-25 H 0-1 v France | UEFA Nations League | Kocaeli | xG 1.21-1.17
+2026-06-26 H 3-2 v USA | World Cup | Inglewood | xG 3.05-2.13
+2026-06-20 H 0-1 v Paraguay | World Cup | Santa Clara | xG 2.17-0.32
+2026-06-14 A 0-2 v Australia | World Cup | Vancouver | xG 1.36-1.18
+2026-06-06 A 2-1 v Venezuela | Friendlies | Fort Lauderdale
+2026-06-01 H 4-0 v FYR Macedonia | Friendlies | Istanbul
+2026-03-31 A 1-0 v Kosovo | World Cup - Qualification Europe | Pristina
+2026-03-26 H 1-0 v Romania | World Cup - Qualification Europe | Istanbul
+2025-11-18 A 2-2 v Spain | World Cup - Qualification Europe | Sevilla
+2025-11-15 H 2-0 v Bulgaria | World Cup - Qualification Europe | Bursa
+2025-10-14 H 4-1 v Georgia | World Cup - Qualification Europe | Kocaeli
+2025-10-11 A 6-1 v Bulgaria | World Cup - Qualification Europe | Sofia
+2025-09-07 H 0-6 v Spain | World Cup - Qualification Europe | Konya
+2025-09-04 A 3-2 v Georgia | World Cup - Qualification Europe | Tbilisi
+2025-06-11 A 0-1 v Mexico | Friendlies | Chapel Hill
+2025-06-07 A 2-1 v USA | Friendlies | East Hartford
+2025-03-23 A 3-0 v Hungary | UEFA Nations League | Budapest
+Listed home: 9 games, scored 15 (1.67), conceded 15 (1.67), blanks 3, clean sheets 3
+Listed away: 11 games, scored 20 (1.82), conceded 16 (1.45), blanks 3, clean sheets 2
+All: 20 games, scored 35 (1.75), conceded 31 (1.55), blanks 6, clean sheets 5
+
 === Belgium (id 1): last 20 finished games ===
 2026-10-05 A 1-4 v France | UEFA Nations League | Paris | xG 0.59-2.00
 2026-10-02 H 3-0 v Türkiye | UEFA Nations League | Liege | xG 1.58-1.38
@@ -54,36 +53,7 @@ Listed home: 9 games, scored 24 (2.67), conceded 4 (0.44), blanks 3, clean sheet
 Listed away: 11 games, scored 32 (2.91), conceded 14 (1.27), blanks 0, clean sheets 3
 All: 20 games, scored 56 (2.80), conceded 18 (0.90), blanks 3, clean sheets 9
 
-(retrying Turkey using the opponent's country, Belgium)
-"Turkey" matches several teams. Use id:<number> instead of the name:
-  id:549    Beşiktaş (Turkey)
-  id:564    Başakşehir (Turkey)
-  id:607    Konyaspor (Turkey)
-  id:611    Fenerbahçe (Turkey)
-  id:645    Galatasaray (Turkey)
-  id:777    Türkiye (Turkey) national
-  id:780    Ankaraspor (Turkey)
-  id:994    Göztepe (Turkey)
-  id:995    Akhisarspor (Turkey)
-  id:996    Alanyaspor (Turkey)
-  id:997    Gençlerbirliği S.K. (Turkey)
-  id:998    Trabzonspor (Turkey)
-  id:999    Yeni Malatyaspor (Turkey)
-  id:1000   Kardemir Karabukspor (Turkey)
-  id:1001   Kayserispor (Turkey)
-  id:1002   Sivasspor (Turkey)
-  id:1003   Bursaspor (Turkey)
-  id:1004   Kasımpaşa (Turkey)
-  id:1005   Antalyaspor (Turkey)
-  id:1007   Rizespor (Turkey)
-  id:1008   Gaziantepspor (Turkey)
-  id:1009   Erzurumspor FK (Turkey)
-  id:1010   Ankaragücü (Turkey)
-  id:1759   Turkey W (Turkey) national
-  id:3563   Adana Demirspor (Turkey)
-!! Turkey: Ambiguous team name "Turkey".
-
-TABLE FOR Belgium
+TABLE FOR Türkiye
 LEAGUE TABLE UEFA Nations League 2026 | 54 teams | 104 games played
 League averages per game: home 1.22, away 1.24, total 2.46
 #   team                   Pts | home P GF-GA  | away P GF-GA  | all P GF-GA
@@ -142,7 +112,9 @@ League averages per game: home 1.22, away 1.24, total 2.46
 2   Lithuania                4 |  1   1-1       |  2   2-1       |  3   3-2 [League D - Group B]
 3   Liechtenstein            1 |  1   0-2       |  1   0-0       |  2   0-2 [League D - Group B]
 
-(15 API-Football requests used)
+(Belgium: same table as Türkiye, shown above)
+
+(25 API-Football requests used)
 
 ----------------------------------------------------------------------
 MATCHBOOK: skipped (switched off for this run)
