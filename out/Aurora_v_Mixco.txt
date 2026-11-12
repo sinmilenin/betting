@@ -1,0 +1,71 @@
+MATCH Aurora v Mixco | fetched 2026-11-12 19:28 local
+
+FORM DATA Aurora v Mixco | source API-Football | 2026-11-12 19:28 UTC
+H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
+
+"Aurora" matches several teams. Use id:<number> instead of the name:
+  id:3637   Aurora (Bolivia)
+  id:10154  Aurora (Guatemala)
+  id:17835  Aurora Alto Casertano (Italy)
+  id:22476  FBC Club Aurora (Peru)
+  id:23910  Minnesota Aurora W (USA)
+=== Mixco (id 3645): last 20 finished games ===
+2026-11-07 H 2-1 v Deportivo San Pedro | Liga Nacional | Mixco
+2026-11-02 A 1-3 v Comunicaciones | Liga Nacional | Guatemala City
+2026-10-29 H 0-0 v Xelajú | Liga Nacional | Mixco
+2026-10-25 A 3-1 v Guastatoya | Liga Nacional | Guastatoya
+2026-10-21 H 0-0 v Municipal | Liga Nacional | Mixco
+2026-10-18 H 3-1 v Cobán Imperial | Liga Nacional | Mixco
+2026-10-15 A 1-1 v Marquense | Liga Nacional | San Marcos
+2026-10-11 A 3-3 v Suchitepéquez | Liga Nacional | ?
+2026-09-27 H 3-1 v Antigua GFC | Liga Nacional | Mixco
+2026-09-21 A 0-1 v Malacateco | Liga Nacional | ?
+2026-09-13 H 3-2 v Aurora | Liga Nacional | Mixco
+2026-09-09 A 0-2 v Deportivo San Pedro | Liga Nacional | ?
+2026-09-05 H 1-1 v Comunicaciones | Liga Nacional | Mixco
+2026-08-31 A 1-4 v Xelajú | Liga Nacional | Quetzaltenango
+2026-08-28 H 2-0 v Alianza FC | CONCACAF Central American Cup | Mixco
+2026-08-23 H 4-2 v Guastatoya | Liga Nacional | Mixco
+2026-08-20 H 4-1 v UMECIT | CONCACAF Central American Cup | Mixco
+2026-08-15 A 2-3 v Cobán Imperial | Liga Nacional | ?
+2026-08-12 A 0-3 v Deportivo Saprissa | CONCACAF Central American Cup | ?
+2026-08-08 H 1-0 v Marquense | Liga Nacional | Mixco
+Listed home: 11 games, scored 23 (2.09), conceded 9 (0.82), blanks 2, clean sheets 4
+Listed away: 9 games, scored 11 (1.22), conceded 21 (2.33), blanks 3, clean sheets 0
+All: 20 games, scored 34 (1.70), conceded 30 (1.50), blanks 5, clean sheets 4
+
+(retrying Aurora using the opponent's country, Guatemala)
+NOTE: "Aurora" matched 2 teams; picked Aurora (Guatemala) because the opponent is from Guatemala. Others: Aurora (Bolivia)
+=== Aurora (id 10154): last 20 finished games ===
+2026-11-01 H 0-2 v Antigua GFC | Liga Nacional | Amatitlan
+2026-10-29 A 2-0 v Malacateco | Liga Nacional | ?
+2026-10-25 A 2-2 v Suchitepéquez | Liga Nacional | ?
+2026-10-18 H 3-1 v Deportivo San Pedro | Liga Nacional | Amatitlan
+2026-10-14 A 2-1 v Comunicaciones | Liga Nacional | Guatemala City
+2026-10-10 H 2-1 v Xelajú | Liga Nacional | Amatitlan
+2026-10-04 A 1-2 v Guastatoya | Liga Nacional | Guastatoya
+2026-09-27 A 2-3 v Cobán Imperial | Liga Nacional | ?
+2026-09-19 H 1-0 v Marquense | Liga Nacional | Amatitlan
+2026-09-13 A 2-3 v Mixco | Liga Nacional | Mixco
+2026-09-10 H 1-2 v Municipal | Liga Nacional | Amatitlan
+2026-09-05 A 1-2 v Antigua GFC | Liga Nacional | Antigua Guatemala
+2026-08-30 H 1-0 v Malacateco | Liga Nacional | Amatitlan
+2026-08-22 H 3-2 v Suchitepéquez | Liga Nacional | Amatitlan
+2026-08-16 A 1-2 v Deportivo San Pedro | Liga Nacional | ?
+2026-08-08 H 3-1 v Comunicaciones | Liga Nacional | Amatitlan
+2026-08-04 A 1-3 v Xelajú | Liga Nacional | Quetzaltenango
+2026-07-25 H 0-1 v Guastatoya | Liga Nacional | Amatitlan
+2026-04-26 H 1-1 v Mictlán | Liga Nacional | Amatitlan
+2026-04-19 A 0-4 v Mixco | Liga Nacional | Mixco
+Listed home: 10 games, scored 15 (1.50), conceded 11 (1.10), blanks 2, clean sheets 2
+Listed away: 10 games, scored 14 (1.40), conceded 22 (2.20), blanks 1, clean sheets 1
+All: 20 games, scored 29 (1.45), conceded 33 (1.65), blanks 3, clean sheets 3
+
+(no league table available for Mixco: tried Liga Nacional 2026)
+
+(no league table available for Aurora: tried Liga Nacional 2026)
+
+(26 API-Football requests used)
+
+----------------------------------------------------------------------
+MATCHBOOK: skipped (switched off for this run)
