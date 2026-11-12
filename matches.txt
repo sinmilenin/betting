@@ -1,2 +1,5 @@
-# scan 12.11 12:15 (retry name)
-El Entag El Harby v Baladiyyat Al Mehalla | n=20 | xg=10
+# scan 12.11 13:42 (top-20 run)
+Uzbekistan v Russia | n=20 | xg=10
+Cameroon v Namibia | n=20 | xg=10
+Egypt U20 v Tanzania U20 | n=20 | xg=10
+Portugal U19 v Lithuania U19 | n=20 | xg=10
