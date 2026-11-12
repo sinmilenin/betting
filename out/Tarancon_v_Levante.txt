@@ -1,0 +1,117 @@
+MATCH Tarancon v Levante | fetched 2026-11-12 16:27 local
+
+FORM DATA Tarancon v Levante | source API-Football | 2026-11-12 16:27 UTC
+H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
+
+=== Tarancón (id 9907): last 20 finished games ===
+2026-11-08 H 0-2 v La Solana | Tercera División RFEF - Group 18 | ?
+2026-10-31 A 2-2 v Noblejas | Tercera División RFEF - Group 18 | ?
+2026-10-24 H 1-1 v Villarrubia | Tercera División RFEF - Group 18 | ?
+2026-10-18 A 2-1 v Quintanar del Rey | Tercera División RFEF - Group 18 | ?
+2026-10-10 H 1-0 v Socuéllamos | Tercera División RFEF - Group 18 | ?
+2026-10-03 A 2-2 v Marchamalo | Tercera División RFEF - Group 18 | ?
+2026-09-26 A 6-2 v Guadalajara II | Tercera División RFEF - Group 18 | Guadalajara
+2026-09-19 H 2-1 v CD Villa | Tercera División RFEF - Group 18 | ?
+2026-09-13 A 0-1 v Torrijos | Tercera División RFEF - Group 18 | ?
+2026-09-05 H 0-1 v Illescas | Tercera División RFEF - Group 18 | ?
+2026-05-23 H 0-1 v Manchego | Tercera División RFEF - Group 18 | ?
+2026-05-17 A 0-0 v Manchego | Tercera División RFEF - Group 18 | ?
+2026-05-10 H 3-0 v Cazalegas | Tercera División RFEF - Group 18 | Tarancón
+2026-05-03 A 3-0 v Huracán Balazote | Tercera División RFEF - Group 18 | ?
+2026-04-25 H 3-0 v Guadalajara II | Tercera División RFEF - Group 18 | Tarancón
+2026-04-18 A 1-0 v Marchamalo | Tercera División RFEF - Group 18 | Marchamalo
+2026-04-11 H 2-1 v Azuqueca | Tercera División RFEF - Group 18 | Tarancón
+2026-04-02 A 1-2 v Villarrubia | Tercera División RFEF - Group 18 | Villarrubia de los Ojos
+2026-03-28 H 2-1 v Sonseca | Tercera División RFEF - Group 18 | Tarancón
+2026-03-21 H 2-0 v Pedroñeras | Tercera División RFEF - Group 18 | Tarancón
+Listed home: 11 games, scored 16 (1.45), conceded 8 (0.73), blanks 3, clean sheets 4
+Listed away: 9 games, scored 17 (1.89), conceded 10 (1.11), blanks 2, clean sheets 3
+All: 20 games, scored 33 (1.65), conceded 18 (0.90), blanks 5, clean sheets 7
+
+"Levante" matches several teams. Use id:<number> instead of the name:
+  id:539    Levante (Spain)
+  id:1911   Levante W (Spain)
+  id:9591   Levante II (Spain)
+  id:17815  Sestri Levante (Italy)
+  id:19896  FC Levante Badalona W (Spain)
+  id:19924  Levante U20 (Spain)
+  id:28408  Levante (Greece)
+(retrying Levante using the opponent's country, Spain)
+NOTE: "Levante" matched 2 teams; picked Levante (Spain) because the opponent is from Spain. Others: Levante (Greece)
+=== Levante (id 539): last 20 finished games ===
+2026-11-08 A 0-0 v Celta Vigo | La Liga | Vigo | xG 0.34-3.24
+2026-10-31 H 0-2 v Atletico Madrid | La Liga | Valencia | xG 1.33-0.63
+2026-10-25 A 1-2 v Real Sociedad | La Liga | San Sebastian | xG 0.48-2.22
+2026-10-21 H 3-1 v Athletic Club | La Liga | Valencia | xG 1.97-1.90
+2026-10-16 A 1-1 v Deportivo La Coruna | La Liga | La Coruna | xG 0.83-1.11
+2026-10-12 H 3-3 v Sevilla | La Liga | Valencia | xG 1.82-2.20
+2026-09-20 A 1-3 v Villarreal | La Liga | Villarreal | xG 0.45-4.27
+2026-09-13 H 2-4 v Barcelona | La Liga | Valencia | xG 2.42-2.58
+2026-09-06 A 0-0 v Malaga | La Liga | Malaga | xG 0.81-1.46
+2026-08-29 H 5-2 v Real Betis | La Liga | Valencia | xG 2.76-1.92
+2026-08-24 A 0-0 v Osasuna | La Liga | Pamplona
+2026-08-16 A 0-3 v Espanyol | La Liga | Cornella de Llobregat
+2026-08-08 A 3-1 v Castellón | Friendlies Clubs | ?
+2026-08-05 A 0-1 v Villarreal | Friendlies Clubs | ?
+2026-08-01 H 2-1 v Albacete | Friendlies Clubs | ?
+2026-07-26 H 1-0 v Al-Qadisiyah FC | Friendlies Clubs | ?
+2026-07-17 H 1-2 v Sheffield Utd | Friendlies Clubs | ?
+2026-07-11 H 2-1 v Leganes | Friendlies Clubs | ?
+2026-05-23 A 1-2 v Real Betis | La Liga | Sevilla
+2026-05-17 H 2-0 v Mallorca | La Liga | Valencia
+Listed home: 10 games, scored 21 (2.10), conceded 16 (1.60), blanks 1, clean sheets 2
+Listed away: 10 games, scored 7 (0.70), conceded 13 (1.30), blanks 5, clean sheets 3
+All: 20 games, scored 28 (1.40), conceded 29 (1.45), blanks 6, clean sheets 5
+
+TABLE FOR Tarancón
+LEAGUE TABLE Tercera División RFEF - Group 18 2026 | 18 teams | 90 games played
+League averages per game: home 1.60, away 1.13, total 2.73
+#   team                   Pts | home P GF-GA  | away P GF-GA  | all P GF-GA
+1   Manchego                24 |  5  11-3       |  5   7-5       | 10  18-8
+2   Toledo                  22 |  5  12-2       |  5  10-8       | 10  22-10
+3   Villacañas              18 |  5  12-6       |  5   7-4       | 10  19-10
+4   CD Villa                18 |  5  11-2       |  5   4-11      | 10  15-13
+5   Villarrobledo           17 |  5   4-3       |  5   7-2       | 10  11-5
+6   Illescas                17 |  5   4-1       |  5   9-11      | 10  13-12
+7   Tarancón                15 |  5   4-5       |  5  12-8       | 10  16-13
+8   San Clemente            15 |  5   9-8       |  5   9-9       | 10  18-17
+9   Noblejas                14 |  5  11-7       |  5   5-10      | 10  16-17
+10  Torrijos                14 |  5   8-7       |  5   3-5       | 10  11-12
+11  Villarrubia             13 |  5   7-6       |  5   5-7       | 10  12-13
+12  Almansa                 12 |  5  11-4       |  5   2-7       | 10  13-11
+13  Marchamalo              12 |  5  10-7       |  5   6-11      | 10  16-18
+14  La Solana               12 |  5   7-2       |  5   2-9       | 10   9-11
+15  Socuéllamos             10 |  5   7-4       |  5   0-5       | 10   7-9
+16  Huracán Balazote         7 |  5   5-9       |  5   4-14      | 10   9-23
+17  Quintanar del Rey        6 |  5   6-12      |  5   6-8       | 10  12-20
+18  Guadalajara II           3 |  5   5-14      |  5   4-10      | 10   9-24
+
+TABLE FOR Levante
+LEAGUE TABLE La Liga 2026 | 20 teams | 119 games played
+League averages per game: home 1.61, away 1.28, total 2.89
+#   team                   Pts | home P GF-GA  | away P GF-GA  | all P GF-GA
+1   Barcelona               33 |  6  24-7       |  6  24-6       | 12  48-13
+2   Real Madrid             30 |  5  17-3       |  7  14-7       | 12  31-10
+3   Atletico Madrid         28 |  6  12-5       |  6  11-5       | 12  23-10
+4   Real Betis              26 |  6  12-8       |  6   8-7       | 12  20-15
+5   Real Sociedad           22 |  6   8-7       |  6  13-13      | 12  21-20
+6   Sevilla                 18 |  6   7-7       |  6  10-12      | 12  17-19
+7   Athletic Club           16 |  6  11-5       |  5   4-6       | 11  15-11
+8   Villarreal              15 |  6   8-7       |  6   9-8       | 12  17-15
+9   Deportivo La Coruna     15 |  6   8-6       |  6   7-8       | 12  15-14
+10  Racing Santander        14 |  6  11-11      |  6   6-19      | 12  17-30
+11  Celta Vigo              13 |  7   9-6       |  5   1-4       | 12  10-10
+12  Alaves                  13 |  6  11-6       |  6   4-11      | 12  15-17
+13  Espanyol                12 |  6   6-7       |  6   7-7       | 12  13-14
+14  Rayo Vallecano          12 |  5   9-7       |  6   6-14      | 11  15-21
+15  Getafe                  12 |  6   8-4       |  6   0-14      | 12   8-18
+16  Osasuna                 12 |  6   5-4       |  6   7-19      | 12  12-23
+17  Levante                 11 |  5  13-12      |  7   3-9       | 12  16-21
+18  Elche                   10 |  6   4-14      |  6  10-6       | 12  14-20
+19  Valencia                 9 |  7   3-14      |  5   5-6       | 12   8-20
+20  Malaga                   5 |  6   6-12      |  6   3-11      | 12   9-23
+
+(27 API-Football requests used)
+
+----------------------------------------------------------------------
+MATCHBOOK: skipped (switched off for this run)

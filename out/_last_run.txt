@@ -1,3 +1,4 @@
-RUN 2026-11-12 15:43 local | 1 match(es)
-Osasuna W v Logrono W -> out/Osasuna_W_v_Logrono_W.txt
-Requests used: API-Football 18, Matchbook 0
+RUN 2026-11-12 16:27 local | 2 match(es)
+Senegal v Sudan -> out/Senegal_v_Sudan.txt
+Tarancon v Levante -> out/Tarancon_v_Levante.txt
+Requests used: API-Football 52, Matchbook 0

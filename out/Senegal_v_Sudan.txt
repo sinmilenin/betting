@@ -1,0 +1,114 @@
+MATCH Senegal v Sudan | fetched 2026-11-12 16:27 local
+
+FORM DATA Senegal v Sudan | source API-Football | 2026-11-12 16:27 UTC
+H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
+
+=== Senegal (id 13): last 20 finished games ===
+2026-10-04 A 1-0 v Comoros | Friendlies | ?
+2026-09-29 A 1-0 v Ethiopia | Africa Cup of Nations - Qualification | Bahir Dar
+2026-09-25 A 1-1 v Mozambique | Africa Cup of Nations - Qualification | Maputo
+2026-07-01 A 2-2 v Belgium | World Cup | Seattle | xG 3.54-1.80 [AET, 90-min score shown]
+2026-06-26 H 5-0 v Iraq | World Cup | Toronto | xG 3.01-0.14
+2026-06-23 A 2-3 v Norway | World Cup | East Rutherford | xG 1.72-2.20
+2026-06-16 A 1-3 v France | World Cup | East Rutherford | xG 0.53-1.79
+2026-06-09 A 0-0 v Saudi Arabia | Friendlies | ?
+2026-05-31 A 2-3 v USA | Friendlies | Charlotte
+2026-03-31 H 3-1 v Gambia | Friendlies | Diamniadio
+2026-03-28 H 2-0 v Peru | Friendlies | Paris
+2026-01-14 H 1-0 v Egypt | Africa Cup of Nations | Tanger
+2026-01-09 A 1-0 v Mali | Africa Cup of Nations | Tanger
+2026-01-03 H 3-1 v Sudan | Africa Cup of Nations | Tanger
+2025-12-30 A 3-0 v Benin | Africa Cup of Nations | Tanger
+2025-12-27 H 1-1 v Congo DR | Africa Cup of Nations | Tanger
+2025-12-23 H 3-0 v Botswana | Africa Cup of Nations | Tanger
+2025-11-18 H 8-0 v Kenya | Friendlies | ?
+2025-11-15 A 0-2 v Brazil | Friendlies | London
+2025-10-14 H 4-0 v Mauritania | World Cup - Qualification Africa | Diamniadio
+Listed home: 9 games, scored 30 (3.33), conceded 3 (0.33), blanks 0, clean sheets 6
+Listed away: 11 games, scored 14 (1.27), conceded 14 (1.27), blanks 2, clean sheets 5
+All: 20 games, scored 44 (2.20), conceded 17 (0.85), blanks 2, clean sheets 11
+
+=== Sudan (id 1510): last 20 finished games ===
+2026-09-29 A 1-4 v Mozambique | Africa Cup of Nations - Qualification | Maputo
+2026-09-25 H 1-0 v Ethiopia | Africa Cup of Nations - Qualification | Juba
+2026-01-03 A 1-3 v Senegal | Africa Cup of Nations | Tanger
+2025-12-31 H 0-2 v Burkina Faso | Africa Cup of Nations | Casablanca
+2025-12-28 A 1-0 v Equatorial Guinea | Africa Cup of Nations | Casablanca
+2025-12-24 A 0-3 v Algeria | Africa Cup of Nations | Rabat
+2025-12-09 A 1-3 v Bahrain | Arab Cup | Al Rayyan
+2025-12-06 H 0-2 v Iraq | Arab Cup | Doha
+2025-12-03 A 0-0 v Algeria | Arab Cup | Al Rayyan
+2025-11-26 H 2-1 v Lebanon | Arab Cup | ?
+2025-11-18 A 0-0 v Oman U23 | Friendlies | ?
+2025-11-14 A 0-2 v Oman | Friendlies | ?
+2025-10-14 A 0-1 v Congo DR | World Cup - Qualification Africa | Kinshasa
+2025-10-10 H 0-0 v Mauritania | World Cup - Qualification Africa | Dar es Salaam
+2025-09-09 A 0-1 v Togo | World Cup - Qualification Africa | Lomé
+2025-09-05 A 0-2 v Senegal | World Cup - Qualification Africa | Diamniadio
+2025-08-29 H 1-1 v Senegal | African Nations Championship | Kampala [PEN, 90-min score shown]
+2025-08-26 A 0-0 v Madagascar | African Nations Championship | Dar-es-Salaam [AET, 90-min score shown]
+2025-08-23 H 1-1 v Algeria | African Nations Championship | Zanzibar City [PEN, 90-min score shown]
+2025-08-19 H 0-0 v Senegal | African Nations Championship | Zanzibar City
+Listed home: 8 games, scored 5 (0.62), conceded 7 (0.88), blanks 4, clean sheets 3
+Listed away: 12 games, scored 4 (0.33), conceded 19 (1.58), blanks 8, clean sheets 4
+All: 20 games, scored 9 (0.45), conceded 26 (1.30), blanks 12, clean sheets 7
+
+TABLE FOR Senegal
+LEAGUE TABLE Africa Cup of Nations - Qualification 2027 | 48 teams | 48 games played
+League averages per game: home 1.50, away 1.15, total 2.65
+#   team                   Pts | home P GF-GA  | away P GF-GA  | all P GF-GA
+1   Morocco                  6 |  1   2-0       |  1   2-0       |  2   4-0 [Group A]
+2   Gabon                    3 |  1   2-0       |  1   0-2       |  2   2-2 [Group A]
+3   Niger                    3 |  1   2-1       |  1   0-2       |  2   2-3 [Group A]
+4   Lesotho                  0 |  1   0-2       |  1   1-2       |  2   1-4 [Group A]
+1   Egypt                    4 |  1   0-0       |  1   5-0       |  2   5-0 [Group B]
+2   Angola                   4 |  1   3-1       |  1   0-0       |  2   3-1 [Group B]
+3   Malawi                   3 |  1   2-1       |  1   1-3       |  2   3-4 [Group B]
+4   South Sudan              0 |  1   0-5       |  1   1-2       |  2   1-7 [Group B]
+1   Ivory Coast              6 |  1   2-0       |  1   2-0       |  2   4-0 [Group C]
+2   Gambia                   6 |  1   2-1       |  1   4-2       |  2   6-3 [Group C]
+3   Somalia                  0 |  1   0-2       |  1   1-2       |  2   1-4 [Group C]
+4   Ghana                    0 |  1   2-4       |  1   0-2       |  2   2-6 [Group C]
+1   South Africa             6 |  1   2-1       |  1   5-0       |  2   7-1 [Group D]
+2   Guinea                   3 |  1   1-0       |  1   1-2       |  2   2-2 [Group D]
+3   Eritrea                  1 |  1   0-5       |  1   1-1       |  2   1-6 [Group D]
+4   Kenya                    1 |  1   1-1       |  1   0-1       |  2   1-2 [Group D]
+1   Congo DR                 6 |  1   2-0       |  1   2-1       |  2   4-1 [Group E]
+2   Zimbabwe                 3 |  1   1-2       |  1   3-2       |  2   4-4 [Group E]
+3   Equatorial Guinea        3 |  1   1-0       |  1   0-2       |  2   1-2 [Group E]
+4   Sierra Leone             0 |  1   2-3       |  1   0-1       |  2   2-4 [Group E]
+1   Benin                    4 |  1   2-1       |  1   1-1       |  2   3-2 [Group F]
+2   Burkina Faso             4 |  1   1-1       |  1   1-0       |  2   2-1 [Group F]
+3   Mauritania               3 |  1   3-1       |  1   1-2       |  2   4-3 [Group F]
+4   Central African Republ   0 |  1   0-1       |  1   1-3       |  2   1-4 [Group F]
+1   Cameroon                 4 |  1   3-1       |  1   1-1       |  2   4-2 [Group G]
+2   Comoros                  3 |  1   1-0       |  1   1-3       |  2   2-3 [Group G]
+3   Namibia                  3 |  1   1-0       |  1   0-1       |  2   1-1 [Group G]
+4   Congo                    1 |  1   1-1       |  1   0-1       |  2   1-2 [Group G]
+1   Uganda                   4 |  1   1-0       |  1   1-1       |  2   2-1 [Group H]
+2   Botswana                 2 |  0   0-0       |  2   4-4       |  2   4-4 [Group H]
+3   Tunisia                  2 |  2   3-3       |  0   0-0       |  2   3-3 [Group H]
+4   Libya                    1 |  1   2-2       |  1   0-1       |  2   2-3 [Group H]
+1   Algeria                  4 |  1   3-1       |  1   2-2       |  2   5-3 [Group I]
+2   Zambia                   3 |  1   2-0       |  1   1-3       |  2   3-3 [Group I]
+3   Togo                     3 |  1   1-0       |  1   0-2       |  2   1-2 [Group I]
+4   Burundi                  1 |  1   2-2       |  1   0-1       |  2   2-3 [Group I]
+1   Senegal                  4 |  0   0-0       |  2   2-1       |  2   2-1 [Group J]
+2   Mozambique               4 |  2   5-2       |  0   0-0       |  2   5-2 [Group J]
+3   Sudan                    3 |  1   1-0       |  1   1-4       |  2   2-4 [Group J]
+4   Ethiopia                 0 |  1   0-1       |  1   0-1       |  2   0-2 [Group J]
+1   Rwanda                   6 |  1   3-1       |  1   2-1       |  2   5-2 [Group K]
+2   Mali                     6 |  1   3-1       |  1   1-0       |  2   4-1 [Group K]
+3   Cape Verde Islands       0 |  1   1-2       |  1   1-3       |  2   2-5 [Group K]
+4   Liberia                  0 |  1   0-1       |  1   1-3       |  2   1-4 [Group K]
+1   Guinea-Bissau            6 |  1   3-0       |  1   2-0       |  2   5-0 [Group L]
+2   Nigeria                  3 |  1   2-1       |  1   0-3       |  2   2-4 [Group L]
+3   Tanzania                 1 |  1   0-2       |  1   1-1       |  2   1-3 [Group L]
+4   Madagascar               1 |  1   1-1       |  1   1-2       |  2   2-3 [Group L]
+
+(Sudan: same table as Senegal, shown above)
+
+(25 API-Football requests used)
+
+----------------------------------------------------------------------
+MATCHBOOK: skipped (switched off for this run)
