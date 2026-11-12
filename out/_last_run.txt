@@ -1,4 +1,3 @@
-RUN 2026-11-12 14:18 local | 2 match(es)
-id:777 v Belgium -> out/id_777_v_Belgium.txt
-Torreense W v Sparta Praha W -> out/Torreense_W_v_Sparta_Praha_W.txt
-Requests used: API-Football 53, Matchbook 0
+RUN 2026-11-12 15:43 local | 1 match(es)
+Osasuna W v Logrono W -> out/Osasuna_W_v_Logrono_W.txt
+Requests used: API-Football 18, Matchbook 0

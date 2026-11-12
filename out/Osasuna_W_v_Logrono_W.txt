@@ -1,0 +1,64 @@
+MATCH Osasuna W v Logrono W | fetched 2026-11-12 15:43 local
+
+FORM DATA Osasuna W v Logrono W | source API-Football | 2026-11-12 15:43 UTC
+H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
+
+=== Osasuna W (id 28503): last 2 finished games ===
+2026-09-29 A 1-0 v Huesca W | Copa de la Reina | ?
+2026-09-08 A 4-2 v SD Reocin W | Copa de la Reina | ?
+Listed home: no games
+Listed away: 2 games, scored 5 (2.50), conceded 2 (1.00), blanks 0, clean sheets 1
+All: 2 games, scored 5 (2.50), conceded 2 (1.00), blanks 0, clean sheets 1
+
+=== Edf Logrono W (id 1923): last 20 finished games ===
+2026-11-08 H 2-2 v Sevilla W | Primera División Femenina | ?
+2026-10-31 A 1-2 v Espanyol W | Primera División Femenina | Barcelona
+2026-10-24 H 1-0 v FC Levante Badalona W | Primera División Femenina | ?
+2026-10-17 H 2-3 v Granada | Primera División Femenina | ?
+2026-10-04 A 1-2 v Granad. Tenerife W | Primera División Femenina | Santa Cruz de Tenerife
+2026-09-26 H 0-2 v Barcelona W | Primera División Femenina | ?
+2026-09-19 A 0-1 v Atletico Madrid W | Primera División Femenina | Madrid
+2026-09-13 H 2-1 v Valencia W | Primera División Femenina | ?
+2026-09-06 H 0-1 v Athletic Club W | Primera División Femenina | ?
+2026-08-29 A 2-0 v Real Sociedad W | Primera División Femenina | Lasarte-Oria
+2026-05-31 A 1-2 v Eibar W | Primera División Femenina | Eibar
+2026-05-26 H 0-2 v Athletic Club W | Primera División Femenina | Logroño
+2026-05-10 A 4-1 v Levante W | Primera División Femenina | Bunol
+2026-05-02 H 3-0 v Madrid CFF W | Primera División Femenina | Logroño
+2026-04-26 A 1-1 v Real Madrid W | Primera División Femenina | Madrid
+2026-04-04 H 2-1 v Sevilla W | Primera División Femenina | Logroño
+2026-03-29 A 1-1 v Real Sociedad W | Primera División Femenina | Lasarte-Oria
+2026-03-22 H 0-1 v Granad. Tenerife W | Primera División Femenina | Logroño
+2026-03-14 A 0-5 v Atletico Madrid W | Primera División Femenina | Madrid
+2026-02-21 H 2-3 v FC Levante Badalona W | Primera División Femenina | Logroño
+Listed home: 11 games, scored 14 (1.27), conceded 16 (1.45), blanks 4, clean sheets 2
+Listed away: 9 games, scored 11 (1.22), conceded 15 (1.67), blanks 2, clean sheets 1
+All: 20 games, scored 25 (1.25), conceded 31 (1.55), blanks 6, clean sheets 3
+
+(no league table available for Osasuna W: tried Copa de la Reina 2026)
+
+TABLE FOR Edf Logrono W
+LEAGUE TABLE Primera División Femenina 2026 | 16 teams | 79 games played
+League averages per game: home 1.57, away 1.35, total 2.92
+#   team                   Pts | home P GF-GA  | away P GF-GA  | all P GF-GA
+1   Barcelona W             27 |  5  24-3       |  5  17-2       | 10  41-5
+2   Real Madrid W           23 |  5  12-6       |  5  11-12      | 10  23-18
+3   Atletico Madrid W       19 |  5  13-0       |  5   9-12      | 10  22-12
+4   Madrid CFF W            17 |  5   9-4       |  5   7-17      | 10  16-21
+5   Athletic Club W         16 |  6  10-6       |  4   3-5       | 10  13-11
+6   Espanyol W              15 |  4   8-3       |  6   6-8       | 10  14-11
+7   Granad. Tenerife W      14 |  4   5-4       |  5   9-10      |  9  14-14
+8   Real Sociedad W         13 |  5   7-10      |  5   6-5       | 10  13-15
+9   Eibar W                 12 |  6   8-11      |  4   2-2       | 10  10-13
+10  Deportivo de La Coruña  11 |  6   4-9       |  4   7-4       | 10  11-13
+11  Granada                 11 |  5   4-7       |  5   5-9       | 10   9-16
+12  Edf Logrono W           10 |  6   7-9       |  4   4-5       | 10  11-14
+13  Sevilla W               10 |  4   4-11      |  6   7-5       | 10  11-16
+14  Deportivo Alavés W       8 |  5   5-8       |  4   1-5       |  9   6-13
+15  FC Levante Badalona W    8 |  4   0-9       |  6   9-11      | 10   9-20
+16  Valencia W               6 |  4   4-7       |  6   4-12      | 10   8-19
+
+(18 API-Football requests used)
+
+----------------------------------------------------------------------
+MATCHBOOK: skipped (switched off for this run)
