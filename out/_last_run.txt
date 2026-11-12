@@ -1,4 +1,3 @@
-RUN 2026-11-12 06:46 local | 1 match(es)
-Madagascar v Bissau -> out/Madagascar_v_Bissau.txt
-    !! Bissau: Ambiguous team name "Bissau".
-Requests used: API-Football 15, Matchbook 0
+RUN 2026-11-12 06:47 local | 1 match(es)
+Madagascar v id:1513 -> out/Madagascar_v_id_1513.txt
+Requests used: API-Football 25, Matchbook 0
