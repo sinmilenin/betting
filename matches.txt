@@ -1,9 +1,6 @@
-# night scan 12.11 20:56
-Mount Pleasant v Portmore United | n=20 | xg=10
-Benfica W v Austria Wien W | n=20 | xg=10
-Cerro Largo v Progreso | n=20 | xg=10
-Sao Bernardo v Athletic Club | n=20 | xg=10
-Estudiantes L.P. v Independiente Rivadavia | n=20 | xg=10
-Llaneros v Boyaca Chico | n=20 | xg=10
-Curacao v Panama | n=20 | xg=10
-Atletico Morelia v Leones Negros | n=20 | xg=10
+# night scan 12.11 20:56 (run 2)
+id:7865 v id:13975 | n=20 | xg=10
+id:5530 v Panama | n=20 | xg=10
+id:450 v id:473 | n=20 | xg=10
+Llaneros v Chico | n=20 | xg=10
+Morelia v Leones Negros | n=20 | xg=10
