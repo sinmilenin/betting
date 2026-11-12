@@ -1,3 +1,4 @@
-# scan 12.11 18:12
-Europa W v Deportivo La Coruna W | n=20 | xg=10
-Plaza Colonia v Rentistas | n=20 | xg=10
+# scan 12.11 19:41
+Aguila v Municipal Limeno | n=20 | xg=10
+Europa W v Deportivo Abanca W | n=20 | xg=10
+Cayman Islands v Guyana | n=20 | xg=10
