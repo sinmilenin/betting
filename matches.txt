@@ -1,2 +1,2 @@
-# scan 12.11 12:15
-El Entag El Harby v Baladeyet Al-Mahalla | n=20 | xg=10
+# scan 12.11 12:15 (retry name)
+El Entag El Harby v Baladiyyat Al Mehalla | n=20 | xg=10
