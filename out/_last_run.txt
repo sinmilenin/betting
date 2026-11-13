@@ -1,28 +1,8 @@
-RUN 2026-11-13 06:46 local | 20 match(es)
-Singapore v Paraguay -> out/Singapore_v_Paraguay.txt
-Saudi Arabia v South Korea -> out/Saudi_Arabia_v_South_Korea.txt
-South Africa v Kenya -> out/South_Africa_v_Kenya.txt
-Nigeria v Tanzania -> out/Nigeria_v_Tanzania.txt
-Finland U21 v Ireland U21 -> out/Finland_U21_v_Ireland_U21.txt
-    !! Ireland U21: Ambiguous team name "Ireland U21".
-JS Saoura v USM Khenchela -> out/JS_Saoura_v_USM_Khenchela.txt
-    !! USM Khenchela: No team found for "USM Khenchela".
-Moldova v Kazakhstan -> out/Moldova_v_Kazakhstan.txt
-Bermuda v Saint Lucia -> out/Bermuda_v_Saint_Lucia.txt
-Mali v Rwanda -> out/Mali_v_Rwanda.txt
-Leganes v Burgos -> out/Leganes_v_Burgos.txt
-Luxembourg v Estonia -> out/Luxembourg_v_Estonia.txt
-Slovakia v Faroe Islands -> out/Slovakia_v_Faroe_Islands.txt
-Netherlands v Greece -> out/Netherlands_v_Greece.txt
-Scotland v North Macedonia -> out/Scotland_v_North_Macedonia.txt
-    !! North Macedonia: Ambiguous team name "North Macedonia".
-Serbia v Germany -> out/Serbia_v_Germany.txt
-Bulgaria v Iceland -> out/Bulgaria_v_Iceland.txt
-Slovenia v Switzerland -> out/Slovenia_v_Switzerland.txt
-Liechtenstein v Azerbaijan -> out/Liechtenstein_v_Azerbaijan.txt
+RUN 2026-11-13 06:48 local | 5 match(es)
+Finland U21 v id:8217 -> out/Finland_U21_v_id_8217.txt
+JS Saoura v Khenchela -> out/JS_Saoura_v_Khenchela.txt
+Scotland v FYR Macedonia -> out/Scotland_v_FYR_Macedonia.txt
 Andorra v Gibraltar -> out/Andorra_v_Gibraltar.txt
-    !! Gibraltar: API-Football error: HTTP 429 from API-Football
 Grenada v Saint Kitts and Nevis -> out/Grenada_v_Saint_Kitts_and_Nevis.txt
-    !! Grenada: API-Football error: HTTP 429 from API-Football
-    !! Saint Kitts and Nevis: API-Football error: HTTP 429 from API-Football
-Requests used: API-Football 417, Matchbook 0
+    !! Saint Kitts and Nevis: No team found for "Saint Kitts and Nevis".
+Requests used: API-Football 115, Matchbook 0

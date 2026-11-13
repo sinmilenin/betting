@@ -1,59 +1,59 @@
-MATCH Moldova v Kazakhstan | fetched 2026-11-13 06:46 local
+MATCH Scotland v FYR Macedonia | fetched 2026-11-13 06:48 local
 
-FORM DATA Moldova v Kazakhstan | source API-Football | 2026-11-13 06:47 UTC
+FORM DATA Scotland v FYR Macedonia | source API-Football | 2026-11-13 06:48 UTC
 H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
 
-=== Moldova (id 1114): last 20 finished games ===
-2026-10-06 H 0-4 v Slovakia | UEFA Nations League | Chisinau | xG 1.15-2.14
-2026-10-02 A 2-1 v Kazakhstan | UEFA Nations League | Astana | xG 0.89-1.10
-2026-09-29 H 1-1 v Faroe Islands | UEFA Nations League | Chisinau | xG 1.68-1.14
-2026-09-26 A 0-2 v Slovakia | UEFA Nations League | Prešov
-2026-06-09 A 1-1 v Armenia | Friendlies | Yerevan
-2026-06-05 H 2-2 v Bulgaria | Friendlies | Chisinau
-2026-03-30 A 2-3 v Cyprus | Friendlies | Nicosia
-2026-03-26 H 0-2 v Lithuania | Friendlies | Chisinau
-2025-11-16 A 1-4 v Israel | World Cup - Qualification Europe | Chisinau | xG 0.30-4.43
-2025-11-13 H 0-2 v Italy | World Cup - Qualification Europe | Chisinau | xG 0.22-2.92
-2025-10-14 A 1-1 v Estonia | World Cup - Qualification Europe | Tallinn
-2025-10-09 A 1-2 v Romania | Friendlies | Bucharest
-2025-09-09 A 1-11 v Norway | World Cup - Qualification Europe | Oslo
-2025-09-05 H 0-4 v Israel | World Cup - Qualification Europe | Chisinau
-2025-06-09 A 0-2 v Italy | World Cup - Qualification Europe | Reggio Emilia
-2025-06-06 A 0-2 v Poland | Friendlies | Chorzów
-2025-03-25 H 2-3 v Estonia | World Cup - Qualification Europe | Chisinau
-2025-03-22 H 0-5 v Norway | World Cup - Qualification Europe | Chisinau
-2024-11-19 A 1-1 v Gibraltar | Friendlies | Gibraltar
-2024-11-16 A 1-0 v Andorra | UEFA Nations League | Andorra la Vella
-Listed home: 8 games, scored 5 (0.62), conceded 23 (2.88), blanks 5, clean sheets 0
-Listed away: 12 games, scored 11 (0.92), conceded 30 (2.50), blanks 3, clean sheets 1
-All: 20 games, scored 16 (0.80), conceded 53 (2.65), blanks 8, clean sheets 1
+=== Scotland (id 1108): last 20 finished games ===
+2026-10-06 H 1-2 v Slovenia | UEFA Nations League | Glasgow
+2026-10-03 A 2-0 v FYR Macedonia | UEFA Nations League | Skopje | xG 3.45-0.38
+2026-09-29 H 0-3 v Switzerland | UEFA Nations League | Glasgow | xG 0.09-1.62
+2026-09-26 A 0-0 v Slovenia | UEFA Nations League | Ljubljana | xG 2.16-0.47
+2026-06-24 H 0-3 v Brazil | World Cup | Miami Gardens | xG 1.04-4.33
+2026-06-19 H 0-1 v Morocco | World Cup | Boston | xG 0.51-0.99
+2026-06-14 A 1-0 v Haiti | World Cup | Boston | xG 1.05-1.05
+2026-06-06 A 4-0 v Bolivia | Friendlies | Harrison
+2026-05-30 H 4-1 v Curaçao | Friendlies | Glasgow
+2026-03-31 H 0-1 v Ivory Coast | Friendlies | Liverpool
+2026-03-28 H 0-1 v Japan | Friendlies | Glasgow
+2025-11-18 H 4-2 v Denmark | World Cup - Qualification Europe | Glasgow
+2025-11-15 A 2-3 v Greece | World Cup - Qualification Europe | Piraeus
+2025-10-12 H 2-1 v Belarus | World Cup - Qualification Europe | Glasgow
+2025-10-09 H 3-1 v Greece | World Cup - Qualification Europe | Glasgow
+2025-09-08 A 2-0 v Belarus | World Cup - Qualification Europe | Zalaegerszeg
+2025-09-05 A 0-0 v Denmark | World Cup - Qualification Europe | Copenhagen
+2025-06-09 A 4-0 v Liechtenstein | Friendlies | Vaduz
+2025-06-06 H 1-3 v Iceland | Friendlies | Glasgow
+2025-03-23 H 0-3 v Greece | UEFA Nations League | Glasgow
+Listed home: 12 games, scored 15 (1.25), conceded 22 (1.83), blanks 6, clean sheets 0
+Listed away: 8 games, scored 15 (1.88), conceded 3 (0.38), blanks 2, clean sheets 7
+All: 20 games, scored 30 (1.50), conceded 25 (1.25), blanks 8, clean sheets 7
 
-=== Kazakhstan (id 1095): last 20 finished games ===
-2026-10-06 H 2-2 v Faroe Islands | UEFA Nations League | Astana
-2026-10-02 H 1-2 v Moldova | UEFA Nations League | Astana | xG 1.10-0.89
-2026-09-29 A 1-2 v Slovakia | UEFA Nations League | Kosice | xG 0.18-1.36
-2026-09-26 A 1-1 v Faroe Islands | UEFA Nations League | ? | xG 0.39-1.42
-2026-06-09 A 1-3 v Hungary | Friendlies | Debrecen
-2026-06-06 A 1-1 v Armenia | Friendlies | Yerevan
-2026-03-31 H 1-0 v Comoros | FIFA Series | Astana
-2026-03-25 H 2-0 v Namibia | FIFA Series | Astana
-2025-11-18 A 0-1 v Faroe Islands | Friendlies | Pula
-2025-11-15 H 1-1 v Belgium | World Cup - Qualification Europe | Astana | xG 0.40-2.15
-2025-10-13 A 1-1 v FYR Macedonia | World Cup - Qualification Europe | Skopje
-2025-10-10 H 4-0 v Liechtenstein | World Cup - Qualification Europe | Astana
-2025-09-07 A 0-6 v Belgium | World Cup - Qualification Europe | Anderlecht
-2025-09-04 H 0-1 v Wales | World Cup - Qualification Europe | Astana
-2025-06-09 H 0-1 v FYR Macedonia | World Cup - Qualification Europe | Astana
-2025-06-05 A 1-4 v Belarus | Friendlies | Borisov
-2025-03-25 A 2-0 v Liechtenstein | World Cup - Qualification Europe | Vaduz
-2025-03-22 A 1-3 v Wales | World Cup - Qualification Europe | Cardiff
-2025-03-19 H 2-0 v Curaçao | Friendlies | Belek
-2025-02-17 H 0-2 v North Korea | Friendlies | Belek
-Listed home: 10 games, scored 13 (1.30), conceded 9 (0.90), blanks 3, clean sheets 4
-Listed away: 10 games, scored 9 (0.90), conceded 22 (2.20), blanks 2, clean sheets 1
-All: 20 games, scored 22 (1.10), conceded 31 (1.55), blanks 5, clean sheets 5
+=== FYR Macedonia (id 1105): last 20 finished games ===
+2026-10-06 A 0-3 v Switzerland | UEFA Nations League | Lucerne
+2026-10-03 H 0-2 v Scotland | UEFA Nations League | Skopje | xG 0.38-3.45
+2026-09-29 A 0-2 v Slovenia | UEFA Nations League | Ljubljana | xG 0.45-1.61
+2026-09-26 H 0-3 v Switzerland | UEFA Nations League | Skopje | xG 0.06-2.48
+2026-06-01 A 0-4 v Türkiye | Friendlies | Istanbul
+2026-05-29 A 0-0 v Bosnia & Herzegovina | Friendlies | Sarajevo
+2026-03-31 A 0-0 v Rep. Of Ireland | Friendlies | Dublin
+2026-03-26 A 0-4 v Denmark | World Cup - Qualification Europe | Copenhagen
+2025-11-18 A 1-7 v Wales | World Cup - Qualification Europe | Cardiff | xG 0.59-4.63
+2025-11-13 H 0-0 v Latvia | Friendlies | Skopje
+2025-10-13 H 1-1 v Kazakhstan | World Cup - Qualification Europe | Skopje
+2025-10-10 A 0-0 v Belgium | World Cup - Qualification Europe | Gent
+2025-09-07 H 5-0 v Liechtenstein | World Cup - Qualification Europe | Skopje
+2025-09-04 A 1-2 v Saudi Arabia | Friendlies | Prague
+2025-06-09 A 1-0 v Kazakhstan | World Cup - Qualification Europe | Astana
+2025-06-06 H 1-1 v Belgium | World Cup - Qualification Europe | Skopje
+2025-03-25 H 1-1 v Wales | World Cup - Qualification Europe | Skopje
+2025-03-22 A 3-0 v Liechtenstein | World Cup - Qualification Europe | Vaduz
+2024-11-17 H 1-0 v Faroe Islands | UEFA Nations League | Skopje
+2024-11-14 H 1-0 v Latvia | UEFA Nations League | Skopje
+Listed home: 9 games, scored 10 (1.11), conceded 8 (0.89), blanks 3, clean sheets 4
+Listed away: 11 games, scored 6 (0.55), conceded 22 (2.00), blanks 7, clean sheets 5
+All: 20 games, scored 16 (0.80), conceded 30 (1.50), blanks 10, clean sheets 9
 
-TABLE FOR Moldova
+TABLE FOR Scotland
 LEAGUE TABLE UEFA Nations League 2026 | 54 teams | 112 games played
 League averages per game: home 1.23, away 1.24, total 2.47
 #   team                   Pts | home P GF-GA  | away P GF-GA  | all P GF-GA
@@ -112,7 +112,7 @@ League averages per game: home 1.23, away 1.24, total 2.47
 2   Lithuania                4 |  1   1-1       |  2   2-1       |  3   3-2 [League D - Group B]
 3   Liechtenstein            1 |  1   0-2       |  1   0-0       |  2   0-2 [League D - Group B]
 
-(Kazakhstan: same table as Moldova, shown above)
+(FYR Macedonia: same table as Scotland, shown above)
 
 (25 API-Football requests used)
 

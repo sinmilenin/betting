@@ -1,6 +1,6 @@
-MATCH Finland U21 v Ireland U21 | fetched 2026-11-13 06:46 local
+MATCH Finland U21 v id:8217 | fetched 2026-11-13 06:48 local
 
-FORM DATA Finland U21 v Ireland U21 | source API-Football | 2026-11-13 06:46 UTC
+FORM DATA Finland U21 v id:8217 | source API-Football | 2026-11-13 06:48 UTC
 H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
 
 === Finland U21 (id 8193): last 20 finished games ===
@@ -28,14 +28,30 @@ Listed home: 10 games, scored 25 (2.50), conceded 7 (0.70), blanks 2, clean shee
 Listed away: 10 games, scored 29 (2.90), conceded 12 (1.20), blanks 0, clean sheets 4
 All: 20 games, scored 54 (2.70), conceded 19 (0.95), blanks 2, clean sheets 9
 
-"Ireland U21" matches several teams. Use id:<number> instead of the name:
-  id:8213   Northern Ireland U21 (Northern-Ireland) national
-  id:8217   Republic of Ireland U21 (Ireland) national
-(retrying Ireland U21 using the opponent's country, Finland)
-"Ireland U21" matches several teams. Use id:<number> instead of the name:
-  id:8213   Northern Ireland U21 (Northern-Ireland) national
-  id:8217   Republic of Ireland U21 (Ireland) national
-!! Ireland U21: Ambiguous team name "Ireland U21".
+=== Republic of Ireland U21 (id 8217): last 20 finished games ===
+2026-10-06 H 3-1 v England U21 | UEFA U21 Championship - Qualification | Cork
+2026-09-29 H 4-3 v Kazakhstan U21 | UEFA U21 Championship - Qualification | Cork
+2026-09-25 A 2-0 v Slovakia U21 | UEFA U21 Championship - Qualification | ?
+2026-06-09 H 0-0 v Qatar U23 | Friendlies | Vrbovec
+2026-06-06 A 2-2 v Croatia U21 | Friendlies | Vrbovec
+2026-03-31 A 1-0 v Kazakhstan U21 | UEFA U21 Championship - Qualification | Turkestan
+2026-03-26 H 1-1 v Moldova U21 | UEFA U21 Championship - Qualification | Dublin
+2025-11-18 A 0-4 v Andorra U21 | UEFA U21 Championship - Qualification | Andorra la Vella
+2025-11-14 A 0-2 v England U21 | UEFA U21 Championship - Qualification | Birmingham
+2025-10-10 H 2-2 v Slovakia U21 | UEFA U21 Championship - Qualification | Cork
+2025-09-09 H 1-0 v Andorra U21 | UEFA U21 Championship - Qualification | Dublin
+2025-09-04 A 2-1 v Moldova U21 | UEFA U21 Championship - Qualification | Nisporeni
+2024-10-15 A 1-1 v Italy U21 | UEFA U21 Championship - Qualification | Trieste
+2024-10-11 H 1-1 v Norway U21 | UEFA U21 Championship - Qualification | Cork
+2024-09-10 H 2-2 v Latvia U21 | UEFA U21 Championship - Qualification | Dublin
+2024-09-06 A 1-0 v Turkey U21 | UEFA U21 Championship - Qualification | İstanbul
+2024-03-22 A 7-0 v San Marino U21 | UEFA U21 Championship - Qualification | Serravalle
+2023-11-21 H 2-2 v Italy U21 | UEFA U21 Championship - Qualification | Cork
+2023-11-17 A 2-3 v Norway U21 | UEFA U21 Championship - Qualification | Drammen
+2023-10-13 A 2-1 v Latvia U21 | UEFA U21 Championship - Qualification | Jelgava
+Listed home: 9 games, scored 16 (1.78), conceded 12 (1.33), blanks 1, clean sheets 2
+Listed away: 11 games, scored 20 (1.82), conceded 14 (1.27), blanks 2, clean sheets 4
+All: 20 games, scored 36 (1.80), conceded 26 (1.30), blanks 3, clean sheets 6
 
 TABLE FOR Finland U21
 LEAGUE TABLE UEFA U21 Championship - Qualification 2027 | 60 teams | 240 games played
@@ -102,7 +118,9 @@ League averages per game: home 1.74, away 1.45, total 3.19
 8   Netherlands U21         12 |  0   0-0       |  0   0-0       |  8  15-10 [Ranking of second-placed teams]
 9   Czechia U21             12 |  0   0-0       |  0   0-0       |  8  10-5 [Ranking of second-placed teams]
 
-(15 API-Football requests used)
+(Republic of Ireland U21: same table as Finland U21, shown above)
+
+(25 API-Football requests used)
 
 ----------------------------------------------------------------------
 MATCHBOOK: skipped (switched off for this run)
