@@ -53,5 +53,16 @@
     "lay": 10.5,
     "stake": 3,
     "created": "2026-11-13T16:09:25Z"
+  },
+  {
+    "id": "2026-11-13_us-latina-calcio-nuovo-campobasso_2-2",
+    "date": "2026-11-13",
+    "ko": "20:30",
+    "match": "US Latina Calcio v Nuovo Campobasso",
+    "comp": "Italy, Italian Serie C",
+    "cell": "2-2",
+    "lay": 18,
+    "stake": 3,
+    "created": "2026-11-13T16:48:30Z"
   }
 ]
