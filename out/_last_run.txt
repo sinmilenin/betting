@@ -1,6 +1,3 @@
-RUN 2026-11-13 16:45 local | 3 match(es)
-Latina v Campobasso -> out/Latina_v_Campobasso.txt
-id:2365 v Racing -> out/id_2365_v_Racing.txt
-    !! Racing: Ambiguous team name "Racing".
-id:6964 v Kleczew -> out/id_6964_v_Kleczew.txt
-Requests used: API-Football 66, Matchbook 0
+RUN 2026-11-13 16:48 local | 1 match(es)
+id:2365 v id:2359 -> out/id_2365_v_id_2359.txt
+Requests used: API-Football 26, Matchbook 0

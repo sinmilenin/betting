@@ -1,6 +1,6 @@
-MATCH id:2365 v Racing | fetched 2026-11-13 16:45 local
+MATCH id:2365 v id:2359 | fetched 2026-11-13 16:48 local
 
-FORM DATA id:2365 v Racing | source API-Football | 2026-11-13 16:45 UTC
+FORM DATA id:2365 v id:2359 | source API-Football | 2026-11-13 16:48 UTC
 H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
 
 === Atletico Torque (id 2365): last 20 finished games ===
@@ -28,60 +28,30 @@ Listed home: 10 games, scored 20 (2.00), conceded 9 (0.90), blanks 1, clean shee
 Listed away: 10 games, scored 20 (2.00), conceded 13 (1.30), blanks 3, clean sheets 2
 All: 20 games, scored 40 (2.00), conceded 22 (1.10), blanks 4, clean sheets 6
 
-"Racing" matches several teams. Use id:<number> instead of the name:
-  id:436    Racing Club (Argentina)
-  id:966    Racing de Casablanca (Morocco)
-  id:1698   Racing Roma (Italy)
-  id:1957   Racing Cordoba (Argentina)
-  id:2030   Racing FC Union Luxembourg (Luxembourg)
-  id:2359   Racing Montevideo (Uruguay)
-  id:3218   Racing Colombes 92 (France)
-  id:3956   Racing Olavarría (Argentina)
-  id:4436   Racing Club Haitien (Haiti)
-  id:4437   Racing des Gônaïves (Haiti)
-  id:4519   Racing d'Abidjan (Ivory-Coast)
-  id:4572   Racing (Lebanon)
-  id:4665   Racing Santander (Spain)
-  id:5559   Racing (Cameroon)
-  id:5906   Racing Mechelen (Belgium)
-  id:5907   Racing Waregem (Belgium)
-  id:8110   Racing de Micomeseng (Zimbabwe)
-  id:8904   Racing Club Warwick (England)
-  id:9409   Racing Ferrol (Spain)
-  id:9643   Racing Santander II (Spain)
-  id:9974   Racing Besançon (France)
-  id:10123  Racing Club (Guadeloupe)
-  id:13664  Racing Clermontois (France)
-  id:13772  Holtzwihr Racing (France)
-  id:14191  Racing Vaux (Belgium)
-(retrying Racing using the opponent's country, Uruguay)
-"Racing" matches several teams. Use id:<number> instead of the name:
-  id:436    Racing Club (Argentina)
-  id:966    Racing de Casablanca (Morocco)
-  id:1698   Racing Roma (Italy)
-  id:1957   Racing Cordoba (Argentina)
-  id:2030   Racing FC Union Luxembourg (Luxembourg)
-  id:2359   Racing Montevideo (Uruguay)
-  id:3218   Racing Colombes 92 (France)
-  id:3956   Racing Olavarría (Argentina)
-  id:4436   Racing Club Haitien (Haiti)
-  id:4437   Racing des Gônaïves (Haiti)
-  id:4519   Racing d'Abidjan (Ivory-Coast)
-  id:4572   Racing (Lebanon)
-  id:4665   Racing Santander (Spain)
-  id:5559   Racing (Cameroon)
-  id:5906   Racing Mechelen (Belgium)
-  id:5907   Racing Waregem (Belgium)
-  id:8110   Racing de Micomeseng (Zimbabwe)
-  id:8904   Racing Club Warwick (England)
-  id:9409   Racing Ferrol (Spain)
-  id:9643   Racing Santander II (Spain)
-  id:9974   Racing Besançon (France)
-  id:10123  Racing Club (Guadeloupe)
-  id:13664  Racing Clermontois (France)
-  id:13772  Holtzwihr Racing (France)
-  id:14191  Racing Vaux (Belgium)
-!! Racing: Ambiguous team name "Racing".
+=== Racing Montevideo (id 2359): last 20 finished games ===
+2026-10-31 H 3-1 v Cerro Largo | Primera División | Montevideo
+2026-10-24 A 3-3 v Defensor Sporting | Primera División | Montevideo
+2026-10-17 H 3-0 v Wanderers | Primera División | Montevideo
+2026-10-11 A 0-2 v Juventud | Primera División | Las Piedras
+2026-10-04 H 0-1 v Penarol | Primera División | Montevideo
+2026-09-26 A 1-2 v Progreso | Primera División | Montevideo
+2026-09-20 A 0-0 v Liverpool Montevideo | Primera División | Montevideo
+2026-09-17 A 0-3 v Juventud | Copa Uruguay | ?
+2026-09-12 H 3-2 v Boston River | Primera División | Montevideo
+2026-09-09 H 2-4 v Central Espanol | Copa Uruguay | Montevideo
+2026-09-06 A 0-1 v Cerro | Primera División | Montevideo
+2026-09-03 A 2-1 v Oriental | Copa Uruguay | ?
+2026-08-31 H 1-0 v Albion FC | Primera División | Montevideo
+2026-08-23 A 0-0 v Danubio | Primera División | Montevideo
+2026-08-15 H 2-0 v Club Nacional | Primera División | Montevideo
+2026-08-10 A 2-2 v Deportivo Maldonado | Primera División | Maldonado
+2026-08-02 H 1-0 v Boston River | Primera División | Montevideo
+2026-07-26 A 0-1 v Cerro | Primera División | Montevideo
+2026-07-12 H 1-1 v Penarol | Primera División | Montevideo
+2026-06-06 A 1-1 v Central Espanol | Primera División | Montevideo
+Listed home: 9 games, scored 16 (1.78), conceded 9 (1.00), blanks 1, clean sheets 4
+Listed away: 11 games, scored 9 (0.82), conceded 16 (1.45), blanks 6, clean sheets 2
+All: 20 games, scored 25 (1.25), conceded 25 (1.25), blanks 7, clean sheets 6
 
 TABLE FOR Atletico Torque
 LEAGUE TABLE Primera División 2026 | 80 teams | 225 games played
@@ -168,7 +138,9 @@ League averages per game: home 1.34, away 1.10, total 2.44
 15  Danubio                 10 |  7   5-9       |  6   2-6       | 13   7-15 [Primera: Clausura]
 16  Central Espanol          8 |  7   5-12      |  6   3-10      | 13   8-22 [Primera: Clausura]
 
-(16 API-Football requests used)
+(Racing Montevideo: same table as Atletico Torque, shown above)
+
+(26 API-Football requests used)
 
 ----------------------------------------------------------------------
 MATCHBOOK: skipped (switched off for this run)
