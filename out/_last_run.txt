@@ -1,6 +1,5 @@
-RUN 2026-11-13 16:04 local | 4 match(es)
-Albania U21 v Luxembourg U21 -> out/Albania_U21_v_Luxembourg_U21.txt
-Roskilde v Nykobing -> out/Roskilde_v_Nykobing.txt
-Dijon v Orleans -> out/Dijon_v_Orleans.txt
-Helsingor v Holstebro -> out/Helsingor_v_Holstebro.txt
-Requests used: API-Football 102, Matchbook 0
+RUN 2026-11-13 16:18 local | 2 match(es)
+Poland U21 v Norway U21 -> out/Poland_U21_v_Norway_U21.txt
+Al Hala v Al Budaiya -> out/Al_Hala_v_Al_Budaiya.txt
+    !! Al Budaiya: No team found for "Al Budaiya".
+Requests used: API-Football 41, Matchbook 0
