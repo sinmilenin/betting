@@ -1,8 +1,5 @@
-RUN 2026-11-13 12:46 local | 2 match(es)
-Sigma Olomouc B v Zbrojovka Brno B -> out/Sigma_Olomouc_B_v_Zbrojovka_Brno_B.txt
-    !! Sigma Olomouc B: No team found for "Sigma Olomouc B".
-    !! Zbrojovka Brno B: No team found for "Zbrojovka Brno B".
-Alhashemyya v Al Sarhan -> out/Alhashemyya_v_Al_Sarhan.txt
-    !! Alhashemyya: No team found for "Alhashemyya".
-    !! Al Sarhan: Ambiguous team name "Al Sarhan".
-Requests used: API-Football 4, Matchbook 0
+RUN 2026-11-13 12:48 local | 2 match(es)
+Sigma Olomouc II v Zbrojovka Brno II -> out/Sigma_Olomouc_II_v_Zbrojovka_Brno_II.txt
+Al-Hashemiya v Moghayer Al Sarhan -> out/Al_Hashemiya_v_Moghayer_Al_Sarhan.txt
+    !! Al-Hashemiya: API-Football error: {"search": "The Search field may only contain alpha-numeric characters and spaces."}
+Requests used: API-Football 40, Matchbook 0
