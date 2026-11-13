@@ -1,4 +1,4 @@
 RUN 2026-11-13 06:49 local | 1 match(es)
-Grenada v St Kitts -> out/Grenada_v_St_Kitts.txt
-    !! St Kitts: Ambiguous team name "St Kitts".
-Requests used: API-Football 17, Matchbook 0
+Grenada v St. Kitts and Nevis -> out/Grenada_v_St_Kitts_and_Nevis.txt
+    !! St. Kitts and Nevis: API-Football error: {"search": "The Search field may only contain alpha-numeric characters and spaces."}
+Requests used: API-Football 16, Matchbook 0
