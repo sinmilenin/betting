@@ -1,3 +1,3 @@
-# scan 13.11 13:43 (top-20 run)
-Sigma Olomouc B v Zbrojovka Brno B | n=20 | xg=10
-Alhashemyya v Al Sarhan | n=20 | xg=10
+# scan 13.11 13:43 (top-20 run) run 2
+Sigma Olomouc II v Zbrojovka Brno II | n=20 | xg=10
+Al-Hashemiya v Moghayer Al Sarhan | n=20 | xg=10
