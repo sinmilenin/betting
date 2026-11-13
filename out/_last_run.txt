@@ -1,5 +1,6 @@
-RUN 2026-11-13 10:30 local | 3 match(es)
-Mozambique v Ethiopia -> out/Mozambique_v_Ethiopia.txt
-Comoros v Congo -> out/Comoros_v_Congo.txt
-Zambia v Burundi -> out/Zambia_v_Burundi.txt
-Requests used: API-Football 73, Matchbook 0
+RUN 2026-11-13 11:15 local | 2 match(es)
+UAE v Honduras -> out/UAE_v_Honduras.txt
+    !! UAE: Ambiguous team name "UAE".
+Hartberg v Floridsdorfer AC -> out/Hartberg_v_Floridsdorfer_AC.txt
+    !! Hartberg: Ambiguous team name "Hartberg".
+Requests used: API-Football 31, Matchbook 0
