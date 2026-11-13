@@ -1,6 +1,6 @@
-MATCH Persitara Jakarta Utara v Pekanbaru | fetched 2026-11-13 08:14 local
+MATCH Persitara v Tornado Pekanbaru | fetched 2026-11-13 08:15 local
 
-FORM DATA Persitara Jakarta Utara v Pekanbaru | source API-Football | 2026-11-13 08:14 UTC
+FORM DATA Persitara v Tornado Pekanbaru | source API-Football | 2026-11-13 08:15 UTC
 H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
 
 === Tornado Pekanbaru (id 26648): last 20 finished games ===
@@ -28,7 +28,7 @@ Listed home: 10 games, scored 32 (3.20), conceded 9 (0.90), blanks 0, clean shee
 Listed away: 10 games, scored 11 (1.10), conceded 2 (0.20), blanks 5, clean sheets 8
 All: 20 games, scored 43 (2.15), conceded 11 (0.55), blanks 5, clean sheets 12
 
-!! Persitara Jakarta Utara: No team found for "Persitara Jakarta Utara".
+!! Persitara: No team found for "Persitara".
 
 TABLE FOR Tornado Pekanbaru
 LEAGUE TABLE League Cup Indonesia 2026 | 36 teams | 0 games played
