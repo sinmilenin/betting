@@ -1,3 +1,8 @@
-RUN 2026-11-13 11:58 local | 1 match(es)
-Qatar v Australia -> out/Qatar_v_Australia.txt
-Requests used: API-Football 26, Matchbook 0
+RUN 2026-11-13 12:46 local | 2 match(es)
+Sigma Olomouc B v Zbrojovka Brno B -> out/Sigma_Olomouc_B_v_Zbrojovka_Brno_B.txt
+    !! Sigma Olomouc B: No team found for "Sigma Olomouc B".
+    !! Zbrojovka Brno B: No team found for "Zbrojovka Brno B".
+Alhashemyya v Al Sarhan -> out/Alhashemyya_v_Al_Sarhan.txt
+    !! Alhashemyya: No team found for "Alhashemyya".
+    !! Al Sarhan: Ambiguous team name "Al Sarhan".
+Requests used: API-Football 4, Matchbook 0

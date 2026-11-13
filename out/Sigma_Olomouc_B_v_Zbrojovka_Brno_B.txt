@@ -1,0 +1,13 @@
+MATCH Sigma Olomouc B v Zbrojovka Brno B | fetched 2026-11-13 12:46 local
+
+FORM DATA Sigma Olomouc B v Zbrojovka Brno B | source API-Football | 2026-11-13 12:46 UTC
+H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
+
+!! Sigma Olomouc B: No team found for "Sigma Olomouc B".
+
+!! Zbrojovka Brno B: No team found for "Zbrojovka Brno B".
+
+(2 API-Football requests used)
+
+----------------------------------------------------------------------
+MATCHBOOK: skipped (switched off for this run)
