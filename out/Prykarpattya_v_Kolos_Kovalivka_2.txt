@@ -1,0 +1,38 @@
+MATCH Prykarpattya v Kolos Kovalivka 2 | fetched 2026-11-13 09:43 local
+
+FORM DATA Prykarpattya v Kolos Kovalivka 2 | source API-Football | 2026-11-13 09:43 UTC
+H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
+
+=== Prykarpattya Ivano-Frank (id 13255): last 20 finished games ===
+2012-05-25 H 0-0 v SKAD-Yalpuh | Druha Liga - Group A | ?
+2012-05-20 A 1-0 v Dynamo Khmelnytskyi | Druha Liga - Group A | ?
+2012-05-15 H 1-3 v Sumy | Druha Liga - Group A | ?
+2012-05-08 A 0-0 v Chornomorets II | Druha Liga - Group A | ?
+2012-05-02 H 0-3 v Cherkaskyi Dnipro | Druha Liga - Group A | ?
+2012-04-26 A 2-1 v Krystal | Druha Liga - Group A | ?
+2012-04-22 H 1-1 v Enerhiya Nova Kakhovka | Druha Liga - Group A | ?
+2012-04-17 A 1-1 v Nyva Ternopil | Druha Liga - Group A | ?
+2012-04-12 H 0-0 v Yednist' | Druha Liga - Group A | ?
+2012-04-07 A 0-2 v Desna | Druha Liga - Group A | ?
+2011-11-05 H 3-0 v UkrAhroKom | Druha Liga - Group A | ?
+2011-10-29 A 0-1 v Real Pharm | Druha Liga - Group A | ?
+2011-10-22 H 2-1 v Skala Stryi | Druha Liga - Group A | ?
+2011-10-15 A 6-1 v SKAD-Yalpuh | Druha Liga - Group A | ?
+2011-10-08 H 6-2 v Dynamo Khmelnytskyi | Druha Liga - Group A | ?
+2011-10-01 A 1-2 v Sumy | Druha Liga - Group A | ?
+2011-09-24 H 1-0 v Chornomorets II | Druha Liga - Group A | ?
+2011-09-17 A 1-2 v Cherkaskyi Dnipro | Druha Liga - Group A | ?
+2011-09-10 H 1-0 v Krystal | Druha Liga - Group A | ?
+2011-09-03 A 1-3 v Enerhiya Nova Kakhovka | Druha Liga - Group A | ?
+Listed home: 10 games, scored 15 (1.50), conceded 10 (1.00), blanks 3, clean sheets 5
+Listed away: 10 games, scored 13 (1.30), conceded 13 (1.30), blanks 3, clean sheets 2
+All: 20 games, scored 28 (1.40), conceded 23 (1.15), blanks 6, clean sheets 7
+
+!! Kolos Kovalivka 2: No team found for "Kolos Kovalivka 2".
+
+(no league table available for Prykarpattya Ivano-Frank: tried Druha Liga - Group A 2011)
+
+(14 API-Football requests used)
+
+----------------------------------------------------------------------
+MATCHBOOK: skipped (switched off for this run)

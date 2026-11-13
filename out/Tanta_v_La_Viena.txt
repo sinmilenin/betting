@@ -1,0 +1,99 @@
+MATCH Tanta v La Viena | fetched 2026-11-13 09:43 local
+
+FORM DATA Tanta v La Viena | source API-Football | 2026-11-13 09:43 UTC
+H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
+
+"Tanta" matches several teams. Use id:<number> instead of the name:
+  id:570    Viitorul Constanta (Romania)
+  id:1045   Tanta SC (Egypt)
+  id:2596   Farul Constanta (Romania)
+  id:11743  Szentantalfa (Hungary)
+  id:15968  Selena Constanţa W (Romania)
+  id:16284  Viitorul Constanţa II (Romania)
+  id:17136  Unirea Constanța (Romania)
+  id:21429  FCV Farul Constanţa II (Romania)
+  id:22192  Farul Constanţa W (Romania)
+  id:28330  Portul Constanta (Romania)
+=== La Viena FC (id 16436): last 20 finished games ===
+2026-10-29 H 1-1 v Dayrout | Second League | Asyut
+2026-10-23 A 1-0 v Ismaily SC | Second League | ?
+2026-10-15 H 0-0 v Haras El Hodood | Second League | Asyut
+2026-10-09 A 0-2 v El Entag EL Harby | Second League | Cairo
+2026-10-01 H 1-3 v AL Nasr SC | Second League | Asyut
+2026-09-25 A 0-1 v Itesalat | Second League | ?
+2026-09-18 H 1-1 v Masar | Second League | Asyut
+2026-09-11 A 1-2 v Maleyet Kafr El Zayiat | Second League | ?
+2026-09-03 H 0-1 v Team | Second League | Asyut
+2026-08-27 A 0-0 v Tersana | Second League | ?
+2026-08-20 H 1-1 v Kahraba Ismailia | Second League | Asyut
+2026-05-14 A 0-0 v El Seka El Hadid | Second League | Cairo
+2026-05-07 H 3-0 v El Entag EL Harby | Second League | Asyut
+2026-04-30 A 0-1 v Abu Qair Semad | Second League | Al Mandarah
+2026-04-25 H 4-0 v Tanta SC | Second League | Asyut
+2026-04-17 A 1-0 v Asyut Petrol | Second League | Asyut
+2026-04-10 H 0-0 v El Mansura | Second League | Asyut
+2026-04-03 A 2-0 v Raya Ghazl | Second League | Alexandria
+2026-03-26 H 2-1 v Tersana | Second League | Asyut
+2026-03-13 A 1-0 v Baladiyyat Al Mehalla | Second League | El Mahalla El Kubra
+Listed home: 10 games, scored 13 (1.30), conceded 8 (0.80), blanks 3, clean sheets 4
+Listed away: 10 games, scored 6 (0.60), conceded 6 (0.60), blanks 5, clean sheets 6
+All: 20 games, scored 19 (0.95), conceded 14 (0.70), blanks 8, clean sheets 10
+
+(retrying Tanta using the opponent's country, Egypt)
+NOTE: "Tanta" matched 10 teams; picked Tanta SC (Egypt) because the opponent is from Egypt. Others: Viitorul Constanta (Romania), Farul Constanta (Romania), Szentantalfa (Hungary), Selena Constanţa W (Romania), Viitorul Constanţa II (Romania), Unirea Constanța (Romania), FCV Farul Constanţa II (Romania), Farul Constanţa W (Romania), Portul Constanta (Romania)
+=== Tanta SC (id 1045): last 20 finished games ===
+2026-10-30 A 0-2 v El Seka El Hadid | Second League | Cairo
+2026-10-22 A 2-2 v Mega Sport | Second League | ?
+2026-10-15 H 0-0 v Dayrout | Second League | Tanta
+2026-10-09 A 1-2 v Ismaily SC | Second League | ?
+2026-10-02 H 0-2 v Haras El Hodood | Second League | Tanta
+2026-09-25 A 0-0 v El Entag EL Harby | Second League | Cairo
+2026-09-17 H 1-0 v AL Nasr SC | Second League | Tanta
+2026-09-11 A 1-3 v Itesalat | Second League | ?
+2026-09-04 H 0-1 v Masar | Second League | Tanta
+2026-08-27 A 0-0 v Maleyet Kafr El Zayiat | Second League | ?
+2026-08-21 H 2-1 v Team | Second League | Tanta
+2026-05-14 H 1-1 v El Mansura | Second League | Tanta
+2026-05-07 A 4-1 v Raya Ghazl | Second League | Alexandria
+2026-04-30 H 2-2 v Tersana | Second League | Tanta
+2026-04-25 A 0-4 v La Viena FC | Second League | Asyut
+2026-04-21 H 1-1 v Itesalat | Second League | Tanta
+2026-04-16 H 1-1 v Itesalat | Second League | Tanta
+2026-04-09 A 2-1 v Dayrout | Second League | Beni Suef
+2026-04-02 H 0-1 v Proxy | Second League | Tanta
+2026-03-26 A 0-0 v Aswan Sc | Second League | Aswan
+Listed home: 10 games, scored 8 (0.80), conceded 10 (1.00), blanks 4, clean sheets 2
+Listed away: 10 games, scored 10 (1.00), conceded 15 (1.50), blanks 5, clean sheets 3
+All: 20 games, scored 18 (0.90), conceded 25 (1.25), blanks 9, clean sheets 5
+
+TABLE FOR La Viena FC
+LEAGUE TABLE Second League 2026 | 20 teams | 115 games played
+League averages per game: home 1.26, away 1.01, total 2.27
+#   team                   Pts | home P GF-GA  | away P GF-GA  | all P GF-GA
+1   Masar                   23 |  6  15-4       |  6   7-8       | 12  22-12
+2   Pharco                  22 |  6  11-4       |  6   7-8       | 12  18-12
+3   Kahraba Ismailia        21 |  6  15-5       |  5   4-5       | 11  19-10
+4   Maleyet Kafr El Zayiat  21 |  5   5-1       |  6   7-5       | 11  12-6
+5   Haras El Hodood         20 |  5   7-4       |  6   7-3       | 11  14-7
+6   AL Nasr SC              20 |  6   9-4       |  6   7-6       | 12  16-10
+7   El Mansura              20 |  6  10-5       |  5   5-7       | 11  15-12
+8   Itesalat                19 |  5   6-3       |  6   9-8       | 11  15-11
+9   Tersana                 18 |  6   9-6       |  6   4-3       | 12  13-9
+10  El Seka El Hadid        18 |  6   9-6       |  6  10-10      | 12  19-16
+11  Baladiyyat Al Mehalla   15 |  6   7-3       |  6   3-8       | 12  10-11
+12  El Entag EL Harby       14 |  6   8-5       |  6  11-11      | 12  19-16
+13  Ismaily SC              13 |  5   4-8       |  6   9-7       | 11  13-15
+14  Team                    12 |  6   4-8       |  5   7-8       | 11  11-16
+15  El Dakhleya             11 |  6   4-6       |  5   5-9       | 11   9-15
+16  Proxy                   11 |  6   5-9       |  6   4-8       | 12   9-17
+17  Tanta SC                10 |  5   3-4       |  6   4-9       | 11   7-13
+18  La Viena FC              8 |  6   4-7       |  5   2-5       | 11   6-12
+19  Mega Sport               7 |  6   7-9       |  6   2-10      | 12   9-19
+20  Dayrout                  7 |  6   3-15      |  6   2-7       | 12   5-22
+
+(Tanta SC: same table as La Viena FC, shown above)
+
+(26 API-Football requests used)
+
+----------------------------------------------------------------------
+MATCHBOOK: skipped (switched off for this run)
