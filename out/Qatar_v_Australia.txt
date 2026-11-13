@@ -1,0 +1,135 @@
+MATCH Qatar v Australia | fetched 2026-11-13 11:58 local
+
+FORM DATA Qatar v Australia | source API-Football | 2026-11-13 11:58 UTC
+H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
+
+=== Qatar (id 1569): last 20 finished games ===
+2026-10-03 A 0-0 v Saudi Arabia | Gulf Cup of Nations | Jeddah [PEN, 90-min score shown]
+2026-09-30 A 1-1 v United Arab Emirates | Gulf Cup of Nations | Jeddah
+2026-09-27 A 1-0 v Yemen | Gulf Cup of Nations | Jeddah
+2026-09-24 H 2-0 v Bahrain | Gulf Cup of Nations | Jeddah
+2026-06-24 A 1-3 v Bosnia & Herzegovina | World Cup | Seattle | xG 0.77-0.68
+2026-06-18 A 0-6 v Canada | World Cup | Vancouver | xG 0.22-4.60
+2026-06-13 H 1-1 v Switzerland | World Cup | Santa Clara | xG 0.60-3.20
+2026-06-06 H 0-0 v El Salvador | Friendlies | Los Angeles
+2026-05-28 A 0-1 v Rep. Of Ireland | Friendlies | Dublin
+2025-12-07 H 0-3 v Tunisia | Arab Cup | Al Khor
+2025-12-04 A 1-1 v Syria | Arab Cup | Al Rayyan
+2025-12-01 H 0-1 v Palestine | Arab Cup | Al Khor
+2025-11-17 H 1-2 v Zimbabwe | Friendlies | Doha
+2025-10-14 H 2-1 v United Arab Emirates | World Cup - Qualification Asia | Al Rayyan
+2025-10-08 A 0-0 v Oman | World Cup - Qualification Asia | Al Rayyan
+2025-09-07 H 1-4 v Russia | Friendlies | Doha
+2025-09-03 H 2-2 v Bahrain | Friendlies | Doha
+2025-08-24 H 0-1 v Lebanon | Friendlies | Al Rayyan
+2025-06-10 A 0-3 v Uzbekistan | World Cup - Qualification Asia | Tashkent
+2025-06-05 H 1-0 v Iran | World Cup - Qualification Asia | Doha
+Listed home: 11 games, scored 10 (0.91), conceded 15 (1.36), blanks 4, clean sheets 3
+Listed away: 9 games, scored 4 (0.44), conceded 15 (1.67), blanks 5, clean sheets 3
+All: 20 games, scored 14 (0.70), conceded 30 (1.50), blanks 9, clean sheets 6
+
+=== Australia (id 20): last 20 finished games ===
+2026-09-29 H 2-4 v Brazil | Friendlies | Sydney
+2026-09-25 H 1-1 v Brazil | Friendlies | Townsville
+2026-07-03 H 1-1 v Egypt | World Cup | Dallas | xG 0.87-1.36 [PEN, 90-min score shown]
+2026-06-26 A 0-0 v Paraguay | World Cup | Santa Clara | xG 0.55-0.24
+2026-06-19 A 0-2 v USA | World Cup | Seattle | xG 0.35-1.08
+2026-06-14 H 2-0 v Türkiye | World Cup | Vancouver | xG 1.18-1.36
+2026-06-06 A 1-1 v Switzerland | Friendlies | San Diego
+2026-05-31 A 0-1 v Mexico | Friendlies | Pasadena
+2026-03-31 H 5-1 v Curaçao | FIFA Series | Melbourne
+2026-03-27 H 1-0 v Cameroon | FIFA Series | Sydney
+2025-11-19 A 0-3 v Colombia | Friendlies | Flushing
+2025-11-15 A 0-1 v Venezuela | Friendlies | Houston
+2025-10-15 A 1-2 v USA | Friendlies | Commerce City
+2025-10-10 A 1-0 v Canada | Friendlies | Montreal
+2025-09-09 A 3-1 v New Zealand | Friendlies | Auckland
+2025-09-05 H 1-0 v New Zealand | Friendlies | Canberra
+2025-06-10 A 2-1 v Saudi Arabia | World Cup - Qualification Asia | Jeddah
+2025-06-05 H 1-0 v Japan | World Cup - Qualification Asia | Perth
+2025-03-25 A 2-0 v China | World Cup - Qualification Asia | Changzhou
+2025-03-20 H 5-1 v Indonesia | World Cup - Qualification Asia | Sydney
+Listed home: 9 games, scored 19 (2.11), conceded 8 (0.89), blanks 0, clean sheets 4
+Listed away: 11 games, scored 10 (0.91), conceded 12 (1.09), blanks 5, clean sheets 3
+All: 20 games, scored 29 (1.45), conceded 20 (1.00), blanks 5, clean sheets 7
+
+TABLE FOR Qatar
+LEAGUE TABLE Gulf Cup of Nations 2026 | 8 teams | 0 games played
+#   team                   Pts | home P GF-GA  | away P GF-GA  | all P GF-GA
+1   Saudi Arabia             9 |  0   0-0       |  0   0-0       |  3   6-0 [Group A]
+2   Oman                     4 |  0   0-0       |  0   0-0       |  3   4-5 [Group A]
+3   Iraq                     4 |  0   0-0       |  0   0-0       |  3   4-5 [Group A]
+4   Kuwait                   0 |  0   0-0       |  0   0-0       |  3   3-7 [Group A]
+1   United Arab Emirates     7 |  0   0-0       |  0   0-0       |  3   8-1 [Group B]
+2   Qatar                    7 |  0   0-0       |  0   0-0       |  3   4-1 [Group B]
+3   Yemen                    3 |  0   0-0       |  0   0-0       |  3   5-7 [Group B]
+4   Bahrain                  0 |  0   0-0       |  0   0-0       |  3   2-10 [Group B]
+
+TABLE FOR Australia
+LEAGUE TABLE World Cup 2026 | 60 teams | 0 games played
+#   team                   Pts | home P GF-GA  | away P GF-GA  | all P GF-GA
+1   Mexico                   9 |  0   0-0       |  0   0-0       |  3   6-0 [Group A]
+2   South Africa             4 |  0   0-0       |  0   0-0       |  3   2-3 [Group A]
+3   South Korea              3 |  0   0-0       |  0   0-0       |  3   2-3 [Group A]
+4   Czechia                  1 |  0   0-0       |  0   0-0       |  3   2-6 [Group A]
+1   Switzerland              7 |  0   0-0       |  0   0-0       |  3   7-3 [Group B]
+2   Canada                   4 |  0   0-0       |  0   0-0       |  3   8-3 [Group B]
+3   Bosnia & Herzegovina     4 |  0   0-0       |  0   0-0       |  3   5-6 [Group B]
+4   Qatar                    1 |  0   0-0       |  0   0-0       |  3   2-10 [Group B]
+1   Brazil                   7 |  0   0-0       |  0   0-0       |  3   7-1 [Group C]
+2   Morocco                  7 |  0   0-0       |  0   0-0       |  3   6-3 [Group C]
+3   Scotland                 3 |  0   0-0       |  0   0-0       |  3   1-4 [Group C]
+4   Haiti                    0 |  0   0-0       |  0   0-0       |  3   2-8 [Group C]
+1   USA                      6 |  0   0-0       |  0   0-0       |  3   8-4 [Group D]
+2   Australia                4 |  0   0-0       |  0   0-0       |  3   2-2 [Group D]
+3   Paraguay                 4 |  0   0-0       |  0   0-0       |  3   2-4 [Group D]
+4   Türkiye                  3 |  0   0-0       |  0   0-0       |  3   3-5 [Group D]
+1   Germany                  6 |  0   0-0       |  0   0-0       |  3  10-4 [Group E]
+2   Ivory Coast              6 |  0   0-0       |  0   0-0       |  3   4-2 [Group E]
+3   Ecuador                  4 |  0   0-0       |  0   0-0       |  3   2-2 [Group E]
+4   Curaçao                  1 |  0   0-0       |  0   0-0       |  3   1-9 [Group E]
+1   Netherlands              7 |  0   0-0       |  0   0-0       |  3  10-4 [Group F]
+2   Japan                    5 |  0   0-0       |  0   0-0       |  3   7-3 [Group F]
+3   Sweden                   4 |  0   0-0       |  0   0-0       |  3   7-7 [Group F]
+4   Tunisia                  0 |  0   0-0       |  0   0-0       |  3   2-12 [Group F]
+1   Belgium                  5 |  0   0-0       |  0   0-0       |  3   6-2 [Group G]
+2   Egypt                    5 |  0   0-0       |  0   0-0       |  3   5-3 [Group G]
+3   Iran                     3 |  0   0-0       |  0   0-0       |  3   3-3 [Group G]
+4   New Zealand              1 |  0   0-0       |  0   0-0       |  3   4-10 [Group G]
+1   Spain                    7 |  0   0-0       |  0   0-0       |  3   5-0 [Group H]
+2   Cape Verde Islands       3 |  0   0-0       |  0   0-0       |  3   2-2 [Group H]
+3   Uruguay                  2 |  0   0-0       |  0   0-0       |  3   3-4 [Group H]
+4   Saudi Arabia             2 |  0   0-0       |  0   0-0       |  3   1-5 [Group H]
+1   France                   9 |  0   0-0       |  0   0-0       |  3  10-2 [Group I]
+2   Norway                   6 |  0   0-0       |  0   0-0       |  3   8-7 [Group I]
+3   Senegal                  3 |  0   0-0       |  0   0-0       |  3   8-6 [Group I]
+4   Iraq                     0 |  0   0-0       |  0   0-0       |  3   1-12 [Group I]
+1   Argentina                9 |  0   0-0       |  0   0-0       |  3   8-1 [Group J]
+2   Austria                  4 |  0   0-0       |  0   0-0       |  3   6-6 [Group J]
+3   Algeria                  4 |  0   0-0       |  0   0-0       |  3   5-7 [Group J]
+4   Jordan                   0 |  0   0-0       |  0   0-0       |  3   3-8 [Group J]
+1   Colombia                 7 |  0   0-0       |  0   0-0       |  3   4-1 [Group K]
+2   Portugal                 5 |  0   0-0       |  0   0-0       |  3   6-1 [Group K]
+3   Congo DR                 4 |  0   0-0       |  0   0-0       |  3   4-3 [Group K]
+4   Uzbekistan               0 |  0   0-0       |  0   0-0       |  3   2-11 [Group K]
+1   England                  7 |  0   0-0       |  0   0-0       |  3   6-2 [Group L]
+2   Croatia                  6 |  0   0-0       |  0   0-0       |  3   5-5 [Group L]
+3   Ghana                    4 |  0   0-0       |  0   0-0       |  3   2-2 [Group L]
+4   Panama                   0 |  0   0-0       |  0   0-0       |  3   0-4 [Group L]
+1   Congo DR                 4 |  0   0-0       |  0   0-0       |  3   4-3 [Group Stage]
+2   Sweden                   4 |  0   0-0       |  0   0-0       |  3   7-7 [Group Stage]
+3   Ghana                    4 |  0   0-0       |  0   0-0       |  3   2-2 [Group Stage]
+4   Ecuador                  4 |  0   0-0       |  0   0-0       |  3   2-2 [Group Stage]
+5   Bosnia & Herzegovina     4 |  0   0-0       |  0   0-0       |  3   5-6 [Group Stage]
+6   Algeria                  4 |  0   0-0       |  0   0-0       |  3   5-7 [Group Stage]
+7   Paraguay                 4 |  0   0-0       |  0   0-0       |  3   2-4 [Group Stage]
+8   Senegal                  3 |  0   0-0       |  0   0-0       |  3   8-6 [Group Stage]
+9   Iran                     3 |  0   0-0       |  0   0-0       |  3   3-3 [Group Stage]
+10  South Korea              3 |  0   0-0       |  0   0-0       |  3   2-3 [Group Stage]
+11  Scotland                 3 |  0   0-0       |  0   0-0       |  3   1-4 [Group Stage]
+12  Uruguay                  2 |  0   0-0       |  0   0-0       |  3   3-4 [Group Stage]
+
+(26 API-Football requests used)
+
+----------------------------------------------------------------------
+MATCHBOOK: skipped (switched off for this run)

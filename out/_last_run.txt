@@ -1,4 +1,3 @@
-RUN 2026-11-13 11:16 local | 2 match(es)
-United Arab Emirates v Honduras -> out/United_Arab_Emirates_v_Honduras.txt
-id:1072 v Floridsdorfer AC -> out/id_1072_v_Floridsdorfer_AC.txt
-Requests used: API-Football 53, Matchbook 0
+RUN 2026-11-13 11:58 local | 1 match(es)
+Qatar v Australia -> out/Qatar_v_Australia.txt
+Requests used: API-Football 26, Matchbook 0
