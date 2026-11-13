@@ -1,6 +1,4 @@
-RUN 2026-11-13 11:15 local | 2 match(es)
-UAE v Honduras -> out/UAE_v_Honduras.txt
-    !! UAE: Ambiguous team name "UAE".
-Hartberg v Floridsdorfer AC -> out/Hartberg_v_Floridsdorfer_AC.txt
-    !! Hartberg: Ambiguous team name "Hartberg".
-Requests used: API-Football 31, Matchbook 0
+RUN 2026-11-13 11:16 local | 2 match(es)
+United Arab Emirates v Honduras -> out/United_Arab_Emirates_v_Honduras.txt
+id:1072 v Floridsdorfer AC -> out/id_1072_v_Floridsdorfer_AC.txt
+Requests used: API-Football 53, Matchbook 0
