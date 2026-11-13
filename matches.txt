@@ -1,3 +1,2 @@
-# scan 13.11 19:00
-Gimnastic v Real Madrid Castilla | n=20 | xg=10
-Racing Club W v Independiente W | n=20 | xg=10
+# scan 13.11 19:00 run 2
+Gimnastic v Real Madrid II | n=20 | xg=10
