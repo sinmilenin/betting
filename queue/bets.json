@@ -1,24 +1,35 @@
 [
   {
-    "id": "2026-11-12_atenas-club-oriental-de-la-paz_1-0",
-    "date": "2026-11-12",
-    "ko": "20:30",
-    "match": "Atenas v Club Oriental de La Paz",
-    "comp": "Uruguay, Uruguayan Segunda Division",
-    "cell": "1-0",
-    "lay": 7.0,
+    "id": "2026-11-13_singapore-paraguay_0-2",
+    "date": "2026-11-13",
+    "ko": "13:00",
+    "match": "Singapore v Paraguay",
+    "comp": "International, Friendlies International",
+    "cell": "0-2",
+    "lay": 8,
     "stake": 3,
-    "created": "2026-11-12T06:51:18Z"
+    "created": "2026-11-13T06:55:36Z"
   },
   {
-    "id": "2026-11-12_iceland-u21-greece-u21_1-0",
-    "date": "2026-11-12",
-    "ko": "14:00",
-    "match": "Iceland U21 v Greece U21",
-    "comp": "International, UEFA U21 Euro Qualifiers",
-    "cell": "1-0",
-    "lay": 14,
+    "id": "2026-11-13_singapore-paraguay_0-3",
+    "date": "2026-11-13",
+    "ko": "13:00",
+    "match": "Singapore v Paraguay",
+    "comp": "International, Friendlies International",
+    "cell": "0-3",
+    "lay": 6.6,
     "stake": 3,
-    "created": "2026-11-12T10:31:16Z"
+    "created": "2026-11-13T06:55:36Z"
+  },
+  {
+    "id": "2026-11-13_singapore-paraguay_1-3",
+    "date": "2026-11-13",
+    "ko": "13:00",
+    "match": "Singapore v Paraguay",
+    "comp": "International, Friendlies International",
+    "cell": "1-3",
+    "lay": 17.5,
+    "stake": 3,
+    "created": "2026-11-13T06:55:36Z"
   }
 ]
