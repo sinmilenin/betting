@@ -1,4 +1,4 @@
-RUN 2026-11-13 18:44 local | 2 match(es)
-Puerto Rico v Dominica -> out/Puerto_Rico_v_Dominica.txt
-Poland U20 v Germany U20 -> out/Poland_U20_v_Germany_U20.txt
-Requests used: API-Football 55, Matchbook 0
+RUN 2026-11-13 18:46 local | 1 match(es)
+Grenada v St Kitts and Nevis -> out/Grenada_v_St_Kitts_and_Nevis.txt
+    !! St Kitts and Nevis: Ambiguous team name "St Kitts and Nevis".
+Requests used: API-Football 17, Matchbook 0
