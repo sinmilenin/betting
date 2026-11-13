@@ -1,5 +1,4 @@
-# scan 13.11 17:41
-US Latina v Campobasso | n=20 | xg=10
-Torque v Racing Club Montevideo | n=20 | xg=10
-England U21 v Portugal U21 | n=20 | xg=10
-Znicz Pruszkow v Sokol Kleczew | n=20 | xg=10
+# scan 13.11 17:41 retry
+Latina v Campobasso | n=20 | xg=10
+id:2365 v Racing | n=20 | xg=10
+id:6964 v Kleczew | n=20 | xg=10
