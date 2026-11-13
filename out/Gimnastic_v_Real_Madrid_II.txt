@@ -1,6 +1,6 @@
-MATCH Gimnastic v Real Madrid Castilla | fetched 2026-11-13 17:59 local
+MATCH Gimnastic v Real Madrid II | fetched 2026-11-13 18:01 local
 
-FORM DATA Gimnastic v Real Madrid Castilla | source API-Football | 2026-11-13 17:59 UTC
+FORM DATA Gimnastic v Real Madrid II | source API-Football | 2026-11-13 18:01 UTC
 H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
 
 === Gimnastic (id 714): last 20 finished games ===
@@ -28,7 +28,30 @@ Listed home: 10 games, scored 20 (2.00), conceded 14 (1.40), blanks 1, clean she
 Listed away: 10 games, scored 5 (0.50), conceded 17 (1.70), blanks 6, clean sheets 1
 All: 20 games, scored 25 (1.25), conceded 31 (1.55), blanks 7, clean sheets 2
 
-!! Real Madrid Castilla: No team found for "Real Madrid Castilla".
+=== Real Madrid II (id 9575): last 20 finished games ===
+2026-11-08 H 2-2 v Hércules | Primera División RFEF - Group 2 | Madrid
+2026-10-31 H 2-0 v FC Cartagena | Primera División RFEF - Group 2 | Madrid
+2026-10-25 A 0-2 v Algeciras | Primera División RFEF - Group 2 | Algeciras
+2026-10-18 H 3-2 v Antequera | Primera División RFEF - Group 2 | Madrid
+2026-10-09 A 1-1 v Ibiza | Primera División RFEF - Group 2 | Ibiza
+2026-10-02 H 3-2 v Atlético Madrid II | Primera División RFEF - Group 2 | Madrid
+2026-09-27 H 1-2 v Alcorcon | Primera División RFEF - Group 2 | Madrid
+2026-09-23 A 1-1 v Sant Andreu | Primera División RFEF - Group 2 | Barcelona
+2026-09-12 A 0-1 v Águilas | Primera División RFEF - Group 2 | ?
+2026-09-05 H 2-0 v Juventud Torremolinos | Primera División RFEF - Group 2 | Madrid
+2026-08-31 A 0-0 v Teruel | Primera División RFEF - Group 2 | Teruel
+2026-08-20 H 0-1 v Zamora | Friendlies Clubs | ?
+2026-08-19 A 2-2 v Ponferradina | Friendlies Clubs | ?
+2026-08-15 H 0-0 v Mirandes | Friendlies Clubs | ?
+2026-08-08 A 2-2 v Racing Ferrol | Friendlies Clubs | ?
+2026-08-05 A 1-0 v Deportivo La Coruña II | Friendlies Clubs | ?
+2026-07-31 A 2-1 v Albacete | Friendlies Clubs | ?
+2026-06-05 A 0-3 v Sabadell | Primera División RFEF - Play Offs | Sabadell
+2026-05-29 H 2-0 v Sabadell | Primera División RFEF - Play Offs | Madrid
+2026-05-23 A 2-2 v Guadalajara | Primera División RFEF - Group 1 | Guadalajara
+Listed home: 9 games, scored 15 (1.67), conceded 9 (1.00), blanks 2, clean sheets 4
+Listed away: 11 games, scored 11 (1.00), conceded 15 (1.36), blanks 4, clean sheets 2
+All: 20 games, scored 26 (1.30), conceded 24 (1.20), blanks 6, clean sheets 6
 
 TABLE FOR Gimnastic
 LEAGUE TABLE Primera División RFEF - Group 2 2026 | 20 teams | 110 games played
@@ -55,7 +78,9 @@ League averages per game: home 1.66, away 1.06, total 2.73
 19  Rayo Majadahonda         7 |  5   6-5       |  6   2-10      | 11   8-15
 20  Teruel                   7 |  6   4-4       |  5   1-14      | 11   5-18
 
-(14 API-Football requests used)
+(Real Madrid II: same table as Gimnastic, shown above)
+
+(25 API-Football requests used)
 
 ----------------------------------------------------------------------
 MATCHBOOK: skipped (switched off for this run)

@@ -1,6 +1,3 @@
-RUN 2026-11-13 17:59 local | 2 match(es)
-Gimnastic v Real Madrid Castilla -> out/Gimnastic_v_Real_Madrid_Castilla.txt
-    !! Real Madrid Castilla: No team found for "Real Madrid Castilla".
-Racing Club W v Independiente W -> out/Racing_Club_W_v_Independiente_W.txt
-    !! Independiente W: No team found for "Independiente W".
-Requests used: API-Football 28, Matchbook 0
+RUN 2026-11-13 18:01 local | 1 match(es)
+Gimnastic v Real Madrid II -> out/Gimnastic_v_Real_Madrid_II.txt
+Requests used: API-Football 25, Matchbook 0
