@@ -1,0 +1,78 @@
+MATCH Montserrat v Nicaragua | fetched 2026-11-13 19:59 local
+
+FORM DATA Montserrat v Nicaragua | source API-Football | 2026-11-13 19:59 UTC
+H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
+
+=== Montserrat (id 8170): last 20 finished games ===
+2026-10-06 H 4-1 v Turks and Caicos Islands | CONCACAF Nations League | Providenciales | xG 3.43-0.24
+2026-10-01 A 2-0 v British Virgin Islands | CONCACAF Nations League | Providenciales | xG 0.88-0.02
+2026-09-26 H 3-0 v British Virgin Islands | CONCACAF Nations League | Providenciales
+2026-09-23 A 2-0 v Turks and Caicos Islands | CONCACAF Nations League | Providenciales
+2025-06-11 A 0-3 v Guyana | World Cup - Qualification CONCACAF | Leonora
+2025-06-04 H 1-0 v Belize | World Cup - Qualification CONCACAF | Couva
+2024-11-18 A 0-1 v El Salvador | CONCACAF Nations League | San Salvador
+2024-11-14 H 1-2 v St. Vincent / Grenadines | CONCACAF Nations League | San Salvador
+2024-10-13 H 0-1 v Bonaire | CONCACAF Nations League | Kingstown
+2024-10-10 A 1-0 v Bonaire | CONCACAF Nations League | Kingstown
+2024-09-08 A 0-2 v St. Vincent / Grenadines | CONCACAF Nations League | Rincon
+2024-09-05 H 1-4 v El Salvador | CONCACAF Nations League | Rincon
+2024-06-10 H 1-3 v Panama | World Cup - Qualification CONCACAF | Managua
+2024-06-06 A 1-4 v Nicaragua | World Cup - Qualification CONCACAF | Managua
+2023-11-20 H 4-2 v Barbados | CONCACAF Nations League | St John's
+2023-11-17 H 2-1 v Dominican Republic | CONCACAF Nations League | St John's
+2023-10-17 A 0-3 v Nicaragua | CONCACAF Nations League | Managua
+2023-10-13 H 0-3 v Nicaragua | CONCACAF Nations League | Bridgetown
+2023-09-11 A 0-3 v Dominican Republic | CONCACAF Nations League | Santo Domingo
+2023-09-08 A 3-2 v Barbados | CONCACAF Nations League | Bridgetown
+Listed home: 10 games, scored 17 (1.70), conceded 17 (1.70), blanks 2, clean sheets 2
+Listed away: 10 games, scored 9 (0.90), conceded 18 (1.80), blanks 5, clean sheets 3
+All: 20 games, scored 26 (1.30), conceded 35 (1.75), blanks 7, clean sheets 5
+
+=== Nicaragua (id 5164): last 20 finished games ===
+2026-10-05 H 1-2 v Dominican Republic | CONCACAF Nations League | Managua | xG 1.08-0.97
+2026-10-02 H 0-3 v Costa Rica | CONCACAF Nations League | Managua | xG 0.28-1.62
+2026-09-28 A 1-6 v Curaçao | CONCACAF Nations League | Willemstad
+2026-09-25 A 2-3 v Dominican Republic | CONCACAF Nations League | Santiago
+2026-06-05 A 0-4 v Paraguay | Friendlies | ?
+2026-05-29 A 0-0 v South Africa | Friendlies | Johannesburg
+2026-03-27 A 1-3 v Russia | Friendlies | Krasnodar
+2025-11-19 A 0-2 v Haiti | World Cup - Qualification CONCACAF | Willemstad
+2025-11-14 H 2-0 v Honduras | World Cup - Qualification CONCACAF | Managua
+2025-10-14 A 1-4 v Costa Rica | World Cup - Qualification CONCACAF | San José
+2025-10-10 H 0-3 v Haiti | World Cup - Qualification CONCACAF | Managua
+2025-09-10 A 0-2 v Honduras | World Cup - Qualification CONCACAF | Tegucigalpa
+2025-09-06 H 1-1 v Costa Rica | World Cup - Qualification CONCACAF | Managua
+2025-06-11 A 0-3 v Panama | World Cup - Qualification CONCACAF | Panama City
+2025-06-07 H 1-0 v Guyana | World Cup - Qualification CONCACAF | Managua
+2025-06-01 A 1-1 v Puerto Rico | Friendlies | Pawtucket, Rhode Island
+2025-03-26 H 0-1 v Guadeloupe | CONCACAF Gold Cup - Qualification | Managua
+2025-03-22 A 0-1 v Guadeloupe | CONCACAF Gold Cup - Qualification | Le-Gosier
+2024-10-15 H 3-2 v French Guyana | CONCACAF Nations League | Managua
+2024-10-11 H 0-2 v Jamaica | CONCACAF Nations League | Managua
+Listed home: 9 games, scored 8 (0.89), conceded 14 (1.56), blanks 4, clean sheets 2
+Listed away: 11 games, scored 6 (0.55), conceded 29 (2.64), blanks 6, clean sheets 1
+All: 20 games, scored 14 (0.70), conceded 43 (2.15), blanks 10, clean sheets 3
+
+(no league table available for Montserrat: tried CONCACAF Nations League 2025, World Cup - Qualification CONCACAF 2026, CONCACAF Nations League 2024)
+
+TABLE FOR Nicaragua
+LEAGUE TABLE World Cup - Qualification CONCACAF 2026 | 12 teams | 36 games played
+League averages per game: home 1.36, away 1.11, total 2.47
+#   team                   Pts | home P GF-GA  | away P GF-GA  | all P GF-GA
+1   Panama                  12 |  3   5-2       |  3   4-2       |  6   9-4 [Group A]
+2   Suriname                 9 |  3   5-1       |  3   4-5       |  6   9-6 [Group A]
+3   Guatemala                8 |  3   5-5       |  3   3-2       |  6   8-7 [Group A]
+4   El Salvador              3 |  3   1-4       |  3   1-7       |  6   2-11 [Group A]
+1   Curaçao                 12 |  3   6-3       |  3   7-0       |  6  13-3 [Group B]
+2   Jamaica                 11 |  3   6-0       |  3   5-3       |  6  11-3 [Group B]
+3   Trinidad and Tobago      7 |  3   3-3       |  3   4-3       |  6   7-6 [Group B]
+4   Bermuda                  1 |  3   0-14      |  3   4-9       |  6   4-23 [Group B]
+1   Haiti                   11 |  3   3-0       |  3   6-6       |  6   9-6 [Group C]
+2   Honduras                 9 |  3   5-0       |  3   0-2       |  6   5-2 [Group C]
+3   Costa Rica               7 |  3   7-4       |  3   1-2       |  6   8-6 [Group C]
+4   Nicaragua                4 |  3   3-4       |  3   1-8       |  6   4-12 [Group C]
+
+(25 API-Football requests used)
+
+----------------------------------------------------------------------
+MATCHBOOK: skipped (switched off for this run)

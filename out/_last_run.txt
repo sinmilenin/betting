@@ -1,4 +1,10 @@
-RUN 2026-11-13 18:46 local | 1 match(es)
-Grenada v St Kitts and Nevis -> out/Grenada_v_St_Kitts_and_Nevis.txt
-    !! St Kitts and Nevis: Ambiguous team name "St Kitts and Nevis".
-Requests used: API-Football 17, Matchbook 0
+RUN 2026-11-13 19:59 local | 8 match(es)
+Argentina v Uruguay -> out/Argentina_v_Uruguay.txt
+Saint Martin v El Salvador -> out/Saint_Martin_v_El_Salvador.txt
+Ecuador v Costa Rica -> out/Ecuador_v_Costa_Rica.txt
+Colombia v Chile -> out/Colombia_v_Chile.txt
+Montserrat v Nicaragua -> out/Montserrat_v_Nicaragua.txt
+Peru v Bolivia -> out/Peru_v_Bolivia.txt
+Internacional de Bogota v Santa Fe -> out/Internacional_de_Bogota_v_Santa_Fe.txt
+Guatemala v Canada -> out/Guatemala_v_Canada.txt
+Requests used: API-Football 204, Matchbook 0
