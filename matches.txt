@@ -1,3 +1,5 @@
-# scan 13.11 13:43 (top-20 run) run 2
-Sigma Olomouc II v Zbrojovka Brno II | n=20 | xg=10
-Al-Hashemiya v Moghayer Al Sarhan | n=20 | xg=10
+# scan 13.11 17:02
+Albania U21 v Luxembourg U21 | n=20 | xg=10
+Roskilde v Nykobing | n=20 | xg=10
+Dijon v Orleans | n=20 | xg=10
+Helsingor v Holstebro | n=20 | xg=10
