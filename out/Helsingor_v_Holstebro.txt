@@ -1,0 +1,78 @@
+MATCH Helsingor v Holstebro | fetched 2026-11-13 16:04 local
+
+FORM DATA Helsingor v Holstebro | source API-Football | 2026-11-13 16:05 UTC
+H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
+
+=== FC Helsingor (id 2062): last 20 finished games ===
+2026-11-06 A 1-1 v Sundby | 3. Division | ?
+2026-10-30 H 1-0 v Ringsted | 3. Division | ?
+2026-10-23 A 1-1 v Frem | 3. Division | Copenhagen
+2026-10-17 A 0-1 v Ishøj | 3. Division | ?
+2026-10-10 H 2-1 v ASA Aarhus | 3. Division | ?
+2026-10-03 A 1-3 v Hørsholm-Usserød | 3. Division | Rungsted Kyst
+2026-09-25 H 5-1 v Holbæk B&I | 3. Division | ?
+2026-09-19 A 1-1 v Næsby | 3. Division | Odense
+2026-09-13 H 2-1 v Sundby | 3. Division | ?
+2026-09-04 A 1-2 v Brønshøj | 3. Division | ?
+2026-08-28 H 1-0 v Ishøj | 3. Division | ?
+2026-08-25 H 2-5 v Hørsholm-Usserød | DBU Pokalen | ?
+2026-08-22 A 1-2 v Holstebro | 3. Division | ?
+2026-08-14 H 1-0 v Frem | 3. Division | ?
+2026-08-08 A 3-2 v Ringsted | 3. Division | Ringsted
+2026-08-04 A 4-1 v Vallensbæk | DBU Pokalen | ?
+2026-07-31 H 2-2 v Vanløse | 3. Division | ?
+2026-07-19 A 2-2 v Naestved | Friendlies Clubs | ?
+2026-07-11 H 3-0 v FA 2000 | Friendlies Clubs | ?
+2026-06-06 A 2-3 v VSK Århus | 2. Division | ?
+Listed home: 9 games, scored 19 (2.11), conceded 10 (1.11), blanks 0, clean sheets 4
+Listed away: 11 games, scored 17 (1.55), conceded 19 (1.73), blanks 1, clean sheets 0
+All: 20 games, scored 36 (1.80), conceded 29 (1.45), blanks 1, clean sheets 4
+
+=== Holstebro (id 6028): last 20 finished games ===
+2026-11-07 H 2-1 v Ringsted | 3. Division | ?
+2026-10-31 A 0-3 v Ishøj | 3. Division | ?
+2026-10-24 H 0-4 v Hørsholm-Usserød | 3. Division | ?
+2026-10-17 A 0-4 v Holbæk B&I | 3. Division | ?
+2026-10-10 H 2-4 v Brønshøj | 3. Division | ?
+2026-10-03 A 0-4 v Næsby | 3. Division | Odense
+2026-09-26 H 1-3 v Ishøj | 3. Division | ?
+2026-09-19 A 0-2 v Sundby | 3. Division | ?
+2026-09-13 H 3-2 v Frem | 3. Division | ?
+2026-09-05 H 1-2 v Vanløse | 3. Division | ?
+2026-08-28 A 0-4 v ASA Aarhus | 3. Division | ?
+2026-08-22 H 2-1 v FC Helsingor | 3. Division | ?
+2026-08-15 A 4-0 v Ringsted | 3. Division | Ringsted
+2026-08-08 H 2-2 v Holbæk B&I | 3. Division | ?
+2026-08-04 H 1-3 v Aalborg | DBU Pokalen | ?
+2026-08-01 A 3-2 v Hørsholm-Usserød | 3. Division | Rungsted Kyst
+2026-07-23 A 2-2 v Skive | Friendlies Clubs | ?
+2026-07-18 A 2-3 v Thisted FC | Friendlies Clubs | ?
+2026-03-28 A 3-1 v Nørresundby | Denmark Series - Group 4 | Nørresundby
+2026-03-21 H 4-1 v Aalborg Freja | Denmark Series - Group 4 | Holstebro
+Listed home: 10 games, scored 18 (1.80), conceded 23 (2.30), blanks 1, clean sheets 0
+Listed away: 10 games, scored 14 (1.40), conceded 25 (2.50), blanks 5, clean sheets 1
+All: 20 games, scored 32 (1.60), conceded 48 (2.40), blanks 6, clean sheets 1
+
+TABLE FOR FC Helsingor
+LEAGUE TABLE 3. Division 2026 | 12 teams | 90 games played
+League averages per game: home 1.88, away 1.41, total 3.29
+#   team                   Pts | home P GF-GA  | away P GF-GA  | all P GF-GA
+1   Brønshøj                31 |  8  18-10      |  7  13-8       | 15  31-18
+2   Holbæk B&I              29 |  8  19-10      |  7  14-12      | 15  33-22
+3   Vanløse                 27 |  8  11-5       |  7  10-8       | 15  21-13
+4   Hørsholm-Usserød        25 |  8  15-11      |  7  19-14      | 15  34-25
+5   FC Helsingor            25 |  7  14-5       |  8   9-13      | 15  23-18
+6   Næsby                   21 |  8  19-10      |  7  10-13      | 15  29-23
+7   Frem                    18 |  7  15-9       |  8  11-15      | 15  26-24
+8   Ishøj                   18 |  7  10-14      |  8   8-11      | 15  18-25
+9   Sundby                  17 |  7  13-10      |  8  11-15      | 15  24-25
+10  ASA Aarhus              17 |  7  13-7       |  8   6-19      | 15  19-26
+11  Holstebro               16 |  8  13-19      |  7   7-19      | 15  20-38
+12  Ringsted                 6 |  7   9-17      |  8   9-22      | 15  18-39
+
+(Holstebro: same table as FC Helsingor, shown above)
+
+(25 API-Football requests used)
+
+----------------------------------------------------------------------
+MATCHBOOK: skipped (switched off for this run)

@@ -1,5 +1,6 @@
-RUN 2026-11-13 12:48 local | 2 match(es)
-Sigma Olomouc II v Zbrojovka Brno II -> out/Sigma_Olomouc_II_v_Zbrojovka_Brno_II.txt
-Al-Hashemiya v Moghayer Al Sarhan -> out/Al_Hashemiya_v_Moghayer_Al_Sarhan.txt
-    !! Al-Hashemiya: API-Football error: {"search": "The Search field may only contain alpha-numeric characters and spaces."}
-Requests used: API-Football 40, Matchbook 0
+RUN 2026-11-13 16:04 local | 4 match(es)
+Albania U21 v Luxembourg U21 -> out/Albania_U21_v_Luxembourg_U21.txt
+Roskilde v Nykobing -> out/Roskilde_v_Nykobing.txt
+Dijon v Orleans -> out/Dijon_v_Orleans.txt
+Helsingor v Holstebro -> out/Helsingor_v_Holstebro.txt
+Requests used: API-Football 102, Matchbook 0
