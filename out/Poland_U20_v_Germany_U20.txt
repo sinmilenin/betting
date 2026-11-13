@@ -1,0 +1,63 @@
+MATCH Poland U20 v Germany U20 | fetched 2026-11-13 18:44 local
+
+FORM DATA Poland U20 v Germany U20 | source API-Football | 2026-11-13 18:44 UTC
+H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
+
+=== Poland U20 (id 10298): last 20 finished games ===
+2026-09-29 H 2-0 v Czechia U20 | U20 Elite League | Albufeira
+2026-09-26 A 3-1 v Portugal U20 | U20 Elite League | ?
+2026-03-31 H 0-1 v Germany U20 | U20 Elite League | ?
+2026-03-27 A 1-0 v Romania U20 | U20 Elite League | ?
+2025-11-14 A 4-1 v Czech Republic U20 | U20 Elite League | ?
+2025-10-13 H 4-1 v Switzerland U20 | U20 Elite League | ?
+2025-09-09 H 1-2 v Portugal U20 | U20 Elite League | Suwałki
+2025-03-25 H 1-2 v Czech Republic U20 | U20 Elite League | Opole
+2025-03-21 H 1-0 v Romania U20 | U20 Elite League | Nieciecza
+2024-11-19 H 1-1 v England U20 | U20 Elite League | Puławy
+2024-11-15 H 2-3 v Italy U20 | U20 Elite League | Białystok
+2024-10-15 H 4-2 v Türkiye U20 | U20 Elite League | Łomża
+2024-10-11 A 1-3 v Germany U20 | U20 Elite League | Ahlen
+2024-09-09 A 1-2 v Portugal U20 | U20 Elite League | Almancil
+2024-03-26 A 1-1 v Romania U20 | U20 Elite League | Târgovişte
+2024-03-22 H 1-5 v England U20 | U20 Elite League | Białystok
+2023-11-17 A 1-0 v Czech Republic U20 | U20 Elite League | Pardubice
+2023-10-13 A 0-1 v Italy U20 | U20 Elite League | Catanzaro
+2023-09-11 H 1-1 v Germany U20 | U20 Elite League | Legnica
+2023-09-08 H 4-0 v Portugal U20 | U20 Elite League | Łomża
+Listed home: 12 games, scored 22 (1.83), conceded 18 (1.50), blanks 1, clean sheets 3
+Listed away: 8 games, scored 12 (1.50), conceded 9 (1.12), blanks 1, clean sheets 2
+All: 20 games, scored 34 (1.70), conceded 27 (1.35), blanks 2, clean sheets 5
+
+=== Germany U20 (id 10310): last 20 finished games ===
+2026-10-03 A 1-2 v England U20 | U20 Elite League | La Nucia
+2026-09-29 H 3-0 v Italy U20 | U20 Elite League | La Nucia
+2026-09-25 H 1-0 v France U20 | U20 Elite League | La Nucia
+2026-03-31 A 1-0 v Poland U20 | U20 Elite League | ?
+2026-03-26 H 2-1 v Czech Republic U20 | U20 Elite League | ?
+2025-11-17 H 5-0 v Italy U20 | U20 Elite League | ?
+2025-11-14 H 6-0 v Romania U20 | U20 Elite League | ?
+2025-10-13 A 0-1 v Portugal U20 | U20 Elite League | ?
+2025-10-10 A 1-2 v Portugal U20 | U20 Elite League | Viseu
+2025-09-09 H 4-0 v Italy U20 | U20 Elite League | Reutlingen
+2025-09-05 A 5-1 v Switzerland U20 | U20 Elite League | Wohlen
+2025-03-24 H 1-1 v Portugal U20 | U20 Elite League | Potsdam
+2025-03-21 A 1-0 v Czech Republic U20 | U20 Elite League | Teplice
+2024-11-19 A 2-0 v Türkiye U20 | U20 Elite League | Riva
+2024-11-15 A 0-4 v England U20 | U20 Elite League | Chesterfield, Derbyshire
+2024-10-11 H 3-1 v Poland U20 | U20 Elite League | Ahlen
+2024-09-10 A 3-0 v Italy U20 | U20 Elite League | Rieti
+2024-09-05 A 3-2 v Romania U20 | U20 Elite League | Arad
+2024-03-25 A 4-4 v France U20 | Friendlies | ?
+2024-03-22 H 3-1 v France U20 | Friendlies | ?
+Listed home: 9 games, scored 28 (3.11), conceded 4 (0.44), blanks 0, clean sheets 5
+Listed away: 11 games, scored 21 (1.91), conceded 16 (1.45), blanks 2, clean sheets 4
+All: 20 games, scored 49 (2.45), conceded 20 (1.00), blanks 2, clean sheets 9
+
+(no league table available for Poland U20: tried U20 Elite League 2026, U20 Elite League 2025, U20 Elite League 2024)
+
+(no league table available for Germany U20: tried U20 Elite League 2026, U20 Elite League 2025, U20 Elite League 2024)
+
+(27 API-Football requests used)
+
+----------------------------------------------------------------------
+MATCHBOOK: skipped (switched off for this run)
