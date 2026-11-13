@@ -31,5 +31,27 @@
     "lay": 17.5,
     "stake": 3,
     "created": "2026-11-13T06:55:36Z"
+  },
+  {
+    "id": "2026-11-13_albania-u21-luxembourg-u21_0-1",
+    "date": "2026-11-13",
+    "ko": "19:00",
+    "match": "Albania U21 v Luxembourg U21",
+    "comp": "International, Friendlies International U21",
+    "cell": "0-1",
+    "lay": 18,
+    "stake": 3,
+    "created": "2026-11-13T16:09:25Z"
+  },
+  {
+    "id": "2026-11-13_dijon-orleans_1-0",
+    "date": "2026-11-13",
+    "ko": "20:00",
+    "match": "Dijon v Orleans",
+    "comp": "France, French Cup",
+    "cell": "1-0",
+    "lay": 10.5,
+    "stake": 3,
+    "created": "2026-11-13T16:09:25Z"
   }
 ]
