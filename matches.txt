@@ -1,3 +1,21 @@
-# night scan 12.11 20:56 (run 3)
-Atlético Morelia v Leones Negros | n=20 | xg=10
-Monarcas v Leones Negros | n=20 | xg=10
+# scan 13.11 07:43 top-20 run (run 1)
+Singapore v Paraguay | n=20 | xg=10
+Saudi Arabia v South Korea | n=20 | xg=10
+South Africa v Kenya | n=20 | xg=10
+Nigeria v Tanzania | n=20 | xg=10
+Finland U21 v Ireland U21 | n=20 | xg=10
+JS Saoura v USM Khenchela | n=20 | xg=10
+Moldova v Kazakhstan | n=20 | xg=10
+Bermuda v Saint Lucia | n=20 | xg=10
+Mali v Rwanda | n=20 | xg=10
+Leganes v Burgos | n=20 | xg=10
+Luxembourg v Estonia | n=20 | xg=10
+Slovakia v Faroe Islands | n=20 | xg=10
+Netherlands v Greece | n=20 | xg=10
+Scotland v North Macedonia | n=20 | xg=10
+Serbia v Germany | n=20 | xg=10
+Bulgaria v Iceland | n=20 | xg=10
+Slovenia v Switzerland | n=20 | xg=10
+Liechtenstein v Azerbaijan | n=20 | xg=10
+Andorra v Gibraltar | n=20 | xg=10
+Grenada v Saint Kitts and Nevis | n=20 | xg=10
