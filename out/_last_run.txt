@@ -1,5 +1,5 @@
-RUN 2026-11-13 09:43 local | 2 match(es)
-Prykarpattya v Kolos Kovalivka 2 -> out/Prykarpattya_v_Kolos_Kovalivka_2.txt
-    !! Kolos Kovalivka 2: No team found for "Kolos Kovalivka 2".
-Tanta v La Viena -> out/Tanta_v_La_Viena.txt
-Requests used: API-Football 40, Matchbook 0
+RUN 2026-11-13 10:30 local | 3 match(es)
+Mozambique v Ethiopia -> out/Mozambique_v_Ethiopia.txt
+Comoros v Congo -> out/Comoros_v_Congo.txt
+Zambia v Burundi -> out/Zambia_v_Burundi.txt
+Requests used: API-Football 73, Matchbook 0
