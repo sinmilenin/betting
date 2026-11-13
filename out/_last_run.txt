@@ -1,5 +1,11 @@
-RUN 2026-11-13 16:18 local | 2 match(es)
-Poland U21 v Norway U21 -> out/Poland_U21_v_Norway_U21.txt
-Al Hala v Al Budaiya -> out/Al_Hala_v_Al_Budaiya.txt
-    !! Al Budaiya: No team found for "Al Budaiya".
-Requests used: API-Football 41, Matchbook 0
+RUN 2026-11-13 16:44 local | 4 match(es)
+US Latina v Campobasso -> out/US_Latina_v_Campobasso.txt
+    !! US Latina: No team found for "US Latina".
+Torque v Racing Club Montevideo -> out/Torque_v_Racing_Club_Montevideo.txt
+    !! Torque: Ambiguous team name "Torque".
+    !! Racing Club Montevideo: No team found for "Racing Club Montevideo".
+England U21 v Portugal U21 -> out/England_U21_v_Portugal_U21.txt
+Znicz Pruszkow v Sokol Kleczew -> out/Znicz_Pruszkow_v_Sokol_Kleczew.txt
+    !! Znicz Pruszkow: Ambiguous team name "Znicz Pruszkow".
+    !! Sokol Kleczew: No team found for "Sokol Kleczew".
+Requests used: API-Football 43, Matchbook 0
