@@ -1,0 +1,64 @@
+MATCH Persiba Bantul v Gresik United | fetched 2026-11-13 08:14 local
+
+FORM DATA Persiba Bantul v Gresik United | source API-Football | 2026-11-13 08:14 UTC
+H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
+
+=== Persiba Bantul (id 15809): last 1 finished games ===
+2018-07-23 H 0-4 v PS TIRA | Piala Indonesia | Bantul
+Listed home: 1 games, scored 0 (0.00), conceded 4 (4.00), blanks 1, clean sheets 0
+Listed away: no games
+All: 1 games, scored 0 (0.00), conceded 4 (4.00), blanks 1, clean sheets 0
+
+=== Gresik United (id 2458): last 20 finished games ===
+2017-11-12 A 0-3 v Bali United | Liga 1 | ?
+2017-11-05 A 2-10 v Sriwijaya FC | Liga 1 | ?
+2017-10-28 H 0-3 v PS Tira | Liga 1 | ?
+2017-10-25 A 0-2 v Arema FC | Liga 1 | ?
+2017-10-18 H 2-5 v Perseru Serui | Liga 1 | ?
+2017-10-14 A 0-5 v Persija Jakarta | Liga 1 | ?
+2017-10-07 H 2-4 v Mitra Kukar | Liga 1 | ?
+2017-09-30 A 1-7 v Persela Lamongan | Liga 1 | ?
+2017-09-26 H 0-3 v Persepam Madura Utd | Liga 1 | ?
+2017-09-22 A 1-5 v PSM Makassar | Liga 1 | ?
+2017-09-17 H 2-1 v Barito Putera | Liga 1 | ?
+2017-09-09 A 0-3 v Persiba Balikpapan | Liga 1 | ?
+2017-09-04 H 0-1 v Pusamania Borneo | Liga 1 | ?
+2017-08-26 H 0-5 v Bhayangkara FC | Liga 1 | ?
+2017-08-20 A 0-6 v Persib Bandung | Liga 1 | ?
+2017-08-14 H 0-4 v Persipura Jayapura | Liga 1 | ?
+2017-08-05 A 1-4 v Semen Padang | Liga 1 | ?
+2017-07-31 H 1-3 v Bali United | Liga 1 | ?
+2017-07-24 H 1-1 v Sriwijaya FC | Liga 1 | ?
+2017-07-18 A 1-2 v PS Tira | Liga 1 | ?
+Listed home: 10 games, scored 8 (0.80), conceded 30 (3.00), blanks 5, clean sheets 0
+Listed away: 10 games, scored 6 (0.60), conceded 47 (4.70), blanks 5, clean sheets 0
+All: 20 games, scored 14 (0.70), conceded 77 (3.85), blanks 10, clean sheets 0
+
+(no league table available for Persiba Bantul: tried Piala Indonesia 2018)
+
+TABLE FOR Gresik United
+LEAGUE TABLE Liga 1 2017 | 18 teams | 0 games played
+#   team                   Pts | home P GF-GA  | away P GF-GA  | all P GF-GA
+1   Bhayangkara FC          68 |  0   0-0       |  0   0-0       | 34  61-40
+2   Bali United             68 |  0   0-0       |  0   0-0       | 34  76-38
+3   PSM Makassar            65 |  0   0-0       |  0   0-0       | 34  67-38
+4   Persija Jakarta         61 |  0   0-0       |  0   0-0       | 34  46-24
+5   Persepam Madura Utd     60 |  0   0-0       |  0   0-0       | 34  58-44
+6   Persipura Jayapura      60 |  0   0-0       |  0   0-0       | 34  64-37
+7   Barito Putera           53 |  0   0-0       |  0   0-0       | 34  48-44
+8   Pusamania Borneo        52 |  0   0-0       |  0   0-0       | 34  50-39
+9   Arema FC                49 |  0   0-0       |  0   0-0       | 34  43-44
+10  Mitra Kukar             43 |  0   0-0       |  0   0-0       | 34  49-74
+11  Sriwijaya FC            42 |  0   0-0       |  0   0-0       | 34  50-50
+12  PS TIRA                 42 |  0   0-0       |  0   0-0       | 34  46-58
+13  Persib Bandung          41 |  0   0-0       |  0   0-0       | 34  39-34
+14  Persela Lamongan        40 |  0   0-0       |  0   0-0       | 34  49-55
+15  Perseru Serui           37 |  0   0-0       |  0   0-0       | 34  35-45
+16  Semen Padang            35 |  0   0-0       |  0   0-0       | 34  34-52
+17  Persiba Balikpapan      27 |  0   0-0       |  0   0-0       | 34  41-62
+18  Gresik United           10 |  0   0-0       |  0   0-0       | 34  26-104
+
+(17 API-Football requests used)
+
+----------------------------------------------------------------------
+MATCHBOOK: skipped (switched off for this run)

@@ -1,0 +1,76 @@
+MATCH Persitara Jakarta Utara v Pekanbaru | fetched 2026-11-13 08:14 local
+
+FORM DATA Persitara Jakarta Utara v Pekanbaru | source API-Football | 2026-11-13 08:14 UTC
+H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
+
+=== Tornado Pekanbaru (id 26648): last 20 finished games ===
+2026-11-08 H 4-1 v Persela Lamongan | Liga 2 | ?
+2026-11-03 H 3-2 v Persebaya Surabaya | League Cup Indonesia | ?
+2026-10-29 A 0-0 v RANS Nusantara | Liga 2 | Cibinong
+2026-10-24 H 2-2 v Deltras | Liga 2 | ?
+2026-10-16 A 3-0 v Persiba Balikpapan | Liga 2 | Balikpapan
+2026-10-10 H 6-0 v PSBS Biak Numfor | Liga 2 | ?
+2026-10-03 A 2-0 v Persis Solo | Liga 2 | Surakarta
+2026-09-26 H 2-2 v Barito Putera | Liga 2 | ?
+2026-09-18 A 0-0 v Persipura Jayapura | Liga 2 | Jayapura
+2026-09-12 A 1-0 v Dejan | Liga 2 | ?
+2026-05-03 H 5-0 v Persela Lamongan | Liga 2 | ?
+2026-04-25 A 0-1 v PSIS Semarang | Liga 2 | Semarang
+2026-04-19 A 2-0 v Deltras | Liga 2 | Sidoarjo
+2026-04-12 H 3-0 v Persiba Balikpapan | Liga 2 | ?
+2026-04-04 A 0-1 v Persiku Kudus | Liga 2 | ?
+2026-03-29 H 1-1 v PSS Sleman | Liga 2 | ?
+2026-03-01 H 2-1 v Persipura Jayapura | Liga 2 | ?
+2026-02-22 A 0-0 v Barito Putera | Liga 2 | Martapura
+2026-02-15 H 4-0 v Persipal | Liga 2 | ?
+2026-01-30 A 3-0 v PSIS Semarang | Liga 2 | Semarang
+Listed home: 10 games, scored 32 (3.20), conceded 9 (0.90), blanks 0, clean sheets 4
+Listed away: 10 games, scored 11 (1.10), conceded 2 (0.20), blanks 5, clean sheets 8
+All: 20 games, scored 43 (2.15), conceded 11 (0.55), blanks 5, clean sheets 12
+
+!! Persitara Jakarta Utara: No team found for "Persitara Jakarta Utara".
+
+TABLE FOR Tornado Pekanbaru
+LEAGUE TABLE League Cup Indonesia 2026 | 36 teams | 0 games played
+#   team                   Pts | home P GF-GA  | away P GF-GA  | all P GF-GA
+1   PSMS Medan               1 |  0   0-0       |  0   0-0       |  1   1-1 [Group A]
+2   Persija                  1 |  0   0-0       |  0   0-0       |  1   1-1 [Group A]
+3   Sumsel United            0 |  0   0-0       |  0   0-0       |  0   0-0 [Group A]
+1   Bhayangkara FC           3 |  0   0-0       |  0   0-0       |  1   3-1 [Group B]
+2   Semen Padang             0 |  0   0-0       |  0   0-0       |  0   0-0 [Group B]
+3   PSPS                     0 |  0   0-0       |  0   0-0       |  1   1-3 [Group B]
+1   Dewa United              3 |  0   0-0       |  0   0-0       |  1   3-1 [Group C]
+2   Persiraja Banda Aceh     0 |  0   0-0       |  0   0-0       |  0   0-0 [Group C]
+3   Persita                  0 |  0   0-0       |  0   0-0       |  1   1-3 [Group C]
+1   Java United              3 |  0   0-0       |  0   0-0       |  1   5-0 [Group D]
+2   PSIS Semarang            0 |  0   0-0       |  0   0-0       |  0   0-0 [Group D]
+3   Bekasi City              0 |  0   0-0       |  0   0-0       |  1   0-5 [Group D]
+1   Persikad Depok FC        3 |  0   0-0       |  0   0-0       |  1   6-2 [Group E]
+2   PSIM Yogyakarta          0 |  0   0-0       |  0   0-0       |  0   0-0 [Group E]
+3   Persiku Kudus            0 |  0   0-0       |  0   0-0       |  1   2-6 [Group E]
+1   PSS Sleman               3 |  0   0-0       |  0   0-0       |  1   6-0 [Group F]
+2   Garudayaksa              0 |  0   0-0       |  0   0-0       |  0   0-0 [Group F]
+3   PSGC Ciamis              0 |  0   0-0       |  0   0-0       |  1   0-6 [Group F]
+1   Tornado Pekanbaru        3 |  0   0-0       |  0   0-0       |  1   3-2 [Group G]
+2   PSBS Biak Numfor         0 |  0   0-0       |  0   0-0       |  0   0-0 [Group G]
+3   Persebaya Surabaya       0 |  0   0-0       |  0   0-0       |  1   2-3 [Group G]
+1   Persik Kediri            3 |  0   0-0       |  0   0-0       |  1   2-0 [Group H]
+2   Deltras                  0 |  0   0-0       |  0   0-0       |  0   0-0 [Group H]
+3   Persis Solo              0 |  0   0-0       |  0   0-0       |  1   0-2 [Group H]
+1   Persela Lamongan         3 |  0   0-0       |  0   0-0       |  1   2-0 [Group I]
+2   Persepam Madura Utd      0 |  0   0-0       |  0   0-0       |  0   0-0 [Group I]
+3   Persijap                 0 |  0   0-0       |  0   0-0       |  1   0-2 [Group I]
+1   Bali United              3 |  0   0-0       |  0   0-0       |  1   6-1 [Group J]
+2   Barito Putera            0 |  0   0-0       |  0   0-0       |  0   0-0 [Group J]
+3   Persiba Balikpapan       0 |  0   0-0       |  0   0-0       |  1   1-6 [Group J]
+1   PSM Makassar             3 |  0   0-0       |  0   0-0       |  1   2-0 [Group K]
+2   Persipura Jayapura       0 |  0   0-0       |  0   0-0       |  0   0-0 [Group K]
+3   Dejan                    0 |  0   0-0       |  0   0-0       |  1   0-2 [Group K]
+1   Arema FC                 3 |  0   0-0       |  0   0-0       |  1   4-0 [Group L]
+2   Isenmulang Kalteng       0 |  0   0-0       |  0   0-0       |  0   0-0 [Group L]
+3   RANS Nusantara           0 |  0   0-0       |  0   0-0       |  1   0-4 [Group L]
+
+(15 API-Football requests used)
+
+----------------------------------------------------------------------
+MATCHBOOK: skipped (switched off for this run)

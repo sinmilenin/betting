@@ -1,4 +1,8 @@
-RUN 2026-11-13 06:49 local | 1 match(es)
-Grenada v St. Kitts and Nevis -> out/Grenada_v_St_Kitts_and_Nevis.txt
-    !! St. Kitts and Nevis: API-Football error: {"search": "The Search field may only contain alpha-numeric characters and spaces."}
-Requests used: API-Football 16, Matchbook 0
+RUN 2026-11-13 08:14 local | 3 match(es)
+Persitara Jakarta Utara v Pekanbaru -> out/Persitara_Jakarta_Utara_v_Pekanbaru.txt
+    !! Persitara Jakarta Utara: No team found for "Persitara Jakarta Utara".
+Persiba Bantul v Gresik United -> out/Persiba_Bantul_v_Gresik_United.txt
+Parikrma v HAL -> out/Parikrma_v_HAL.txt
+    !! Parikrma: No team found for "Parikrma".
+    !! HAL: Ambiguous team name "HAL".
+Requests used: API-Football 34, Matchbook 0
