@@ -1,6 +1,2 @@
-# scan 13.11 07:43 top-20 run (run 2: Ireland U21 -> id:8217, North Macedonia -> FYR Macedonia, Khenchela, rate-limit retries)
-Finland U21 v id:8217 | n=20 | xg=10
-JS Saoura v Khenchela | n=20 | xg=10
-Scotland v FYR Macedonia | n=20 | xg=10
-Andorra v Gibraltar | n=20 | xg=10
-Grenada v Saint Kitts and Nevis | n=20 | xg=10
+# scan 13.11 07:43 top-20 run (run 3: St Kitts)
+Grenada v St Kitts | n=20 | xg=10
