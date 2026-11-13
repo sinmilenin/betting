@@ -1,2 +1,2 @@
-# scan 13.11 17:41 retry 2
-id:2365 v id:2359 | n=20 | xg=10
+# scan 13.11 18:13
+Switzerland U20 v Romania U20 | n=20 | xg=10
