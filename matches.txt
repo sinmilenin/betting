@@ -1,2 +1,3 @@
-# scan 13.11 19:00 run 2
-Gimnastic v Real Madrid II | n=20 | xg=10
+# scan 13.11 19:42
+Puerto Rico v Dominica | n=20 | xg=10
+Poland U20 v Germany U20 | n=20 | xg=10
