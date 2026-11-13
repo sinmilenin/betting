@@ -1,2 +1,9 @@
-# scan 13.11 19:42 run 2
-Grenada v St Kitts and Nevis | n=20 | xg=10
+# night scan 13.11 20:57 run 1
+Argentina v Uruguay | n=20 | xg=10
+Saint Martin v El Salvador | n=20 | xg=10
+Ecuador v Costa Rica | n=20 | xg=10
+Colombia v Chile | n=20 | xg=10
+Montserrat v Nicaragua | n=20 | xg=10
+Peru v Bolivia | n=20 | xg=10
+Internacional de Bogota v Santa Fe | n=20 | xg=10
+Guatemala v Canada | n=20 | xg=10
