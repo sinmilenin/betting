@@ -1,8 +1,4 @@
-RUN 2026-11-13 06:48 local | 5 match(es)
-Finland U21 v id:8217 -> out/Finland_U21_v_id_8217.txt
-JS Saoura v Khenchela -> out/JS_Saoura_v_Khenchela.txt
-Scotland v FYR Macedonia -> out/Scotland_v_FYR_Macedonia.txt
-Andorra v Gibraltar -> out/Andorra_v_Gibraltar.txt
-Grenada v Saint Kitts and Nevis -> out/Grenada_v_Saint_Kitts_and_Nevis.txt
-    !! Saint Kitts and Nevis: No team found for "Saint Kitts and Nevis".
-Requests used: API-Football 115, Matchbook 0
+RUN 2026-11-13 06:49 local | 1 match(es)
+Grenada v St Kitts -> out/Grenada_v_St_Kitts.txt
+    !! St Kitts: Ambiguous team name "St Kitts".
+Requests used: API-Football 17, Matchbook 0

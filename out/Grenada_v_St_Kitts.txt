@@ -1,6 +1,6 @@
-MATCH Grenada v Saint Kitts and Nevis | fetched 2026-11-13 06:48 local
+MATCH Grenada v St Kitts | fetched 2026-11-13 06:49 local
 
-FORM DATA Grenada v Saint Kitts and Nevis | source API-Football | 2026-11-13 06:48 UTC
+FORM DATA Grenada v St Kitts | source API-Football | 2026-11-13 06:49 UTC
 H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
 
 === Grenada (id 5533): last 20 finished games ===
@@ -28,11 +28,18 @@ Listed home: 10 games, scored 19 (1.90), conceded 16 (1.60), blanks 4, clean she
 Listed away: 10 games, scored 12 (1.20), conceded 24 (2.40), blanks 5, clean sheets 1
 All: 20 games, scored 31 (1.55), conceded 40 (2.00), blanks 9, clean sheets 4
 
-!! Saint Kitts and Nevis: No team found for "Saint Kitts and Nevis".
+"St Kitts" matches several teams. Use id:<number> instead of the name:
+  id:11009  St Kitts and Nevis U20 (Saint-Kitts-and-Nevis) national
+  id:17880  St Kitts and Nevis U23 (Saint-Kitts-and-Nevis) national
+(retrying St Kitts using the opponent's country, Grenada)
+"St Kitts" matches several teams. Use id:<number> instead of the name:
+  id:11009  St Kitts and Nevis U20 (Saint-Kitts-and-Nevis) national
+  id:17880  St Kitts and Nevis U23 (Saint-Kitts-and-Nevis) national
+!! St Kitts: Ambiguous team name "St Kitts".
 
 (no league table available for Grenada: tried CONCACAF Nations League 2025, FIFA Series 2026, World Cup - Qualification CONCACAF 2026)
 
-(16 API-Football requests used)
+(17 API-Football requests used)
 
 ----------------------------------------------------------------------
 MATCHBOOK: skipped (switched off for this run)
