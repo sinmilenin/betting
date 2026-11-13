@@ -1,2 +1,4 @@
-# scan 13.11 07:43 top-20 run (run 4: St. Kitts and Nevis)
-Grenada v St. Kitts and Nevis | n=20 | xg=10
+# scan 13.11 09:12
+Persitara Jakarta Utara v Pekanbaru | n=20 | xg=10
+Persiba Bantul v Gresik United | n=20 | xg=10
+Parikrma v HAL | n=20 | xg=10
