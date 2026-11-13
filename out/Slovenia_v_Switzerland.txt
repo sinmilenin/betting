@@ -1,0 +1,120 @@
+MATCH Slovenia v Switzerland | fetched 2026-11-13 06:46 local
+
+FORM DATA Slovenia v Switzerland | source API-Football | 2026-11-13 06:47 UTC
+H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
+
+=== Slovenia (id 1091): last 20 finished games ===
+2026-10-06 A 2-1 v Scotland | UEFA Nations League | Glasgow
+2026-10-03 A 1-2 v Switzerland | UEFA Nations League | Lucerne | xG 0.42-1.05
+2026-09-29 H 2-0 v FYR Macedonia | UEFA Nations League | Ljubljana | xG 1.61-0.45
+2026-09-26 H 0-0 v Scotland | UEFA Nations League | Ljubljana | xG 0.47-2.16
+2026-06-07 A 1-2 v Croatia | Friendlies | Varaždin
+2026-06-04 H 1-1 v Cyprus | Friendlies | Ljubljana
+2026-03-31 A 3-2 v Montenegro | Friendlies | Podgorica
+2026-03-28 A 0-1 v Hungary | Friendlies | Budapest
+2025-11-18 A 1-1 v Sweden | World Cup - Qualification Europe | Solna | xG 2.17-1.01
+2025-11-15 H 0-2 v Kosovo | World Cup - Qualification Europe | Ljubljana | xG 0.29-0.94
+2025-10-13 H 0-0 v Switzerland | World Cup - Qualification Europe | Ljubljana
+2025-10-10 A 0-0 v Kosovo | World Cup - Qualification Europe | Pristina
+2025-09-08 A 0-3 v Switzerland | World Cup - Qualification Europe | Basel
+2025-09-05 H 2-2 v Sweden | World Cup - Qualification Europe | Ljubljana
+2025-06-10 H 2-1 v Bosnia & Herzegovina | Friendlies | Celje
+2025-06-06 A 1-0 v Luxembourg | Friendlies | Luxembourg
+2025-03-23 H 0-0 v Slovakia | UEFA Nations League | Ljubljana [AET, 90-min score shown]
+2025-03-20 A 0-0 v Slovakia | UEFA Nations League | Bratislava
+2024-11-17 A 1-1 v Austria | UEFA Nations League | Wien
+2024-11-14 H 1-4 v Norway | UEFA Nations League | Ljubljana
+Listed home: 9 games, scored 8 (0.89), conceded 10 (1.11), blanks 4, clean sheets 4
+Listed away: 11 games, scored 10 (0.91), conceded 13 (1.18), blanks 4, clean sheets 3
+All: 20 games, scored 18 (0.90), conceded 23 (1.15), blanks 8, clean sheets 7
+
+=== Switzerland (id 15): last 20 finished games ===
+2026-10-06 H 3-0 v FYR Macedonia | UEFA Nations League | Lucerne
+2026-10-03 H 2-1 v Slovenia | UEFA Nations League | Lucerne | xG 1.05-0.42
+2026-09-29 A 3-0 v Scotland | UEFA Nations League | Glasgow | xG 1.62-0.09
+2026-09-26 A 3-0 v FYR Macedonia | UEFA Nations League | Skopje | xG 2.48-0.06
+2026-07-12 A 1-1 v Argentina | World Cup | Kansas City | xG 0.47-1.94 [AET, 90-min score shown]
+2026-07-07 H 0-0 v Colombia | World Cup | Vancouver | xG 0.39-1.09 [PEN, 90-min score shown]
+2026-07-03 H 2-0 v Algeria | World Cup | Vancouver | xG 2.56-0.73
+2026-06-24 H 2-1 v Canada | World Cup | Vancouver | xG 1.11-1.66
+2026-06-18 H 4-1 v Bosnia & Herzegovina | World Cup | Inglewood | xG 2.06-0.23
+2026-06-13 A 1-1 v Qatar | World Cup | Santa Clara | xG 3.20-0.60
+2026-06-06 H 1-1 v Australia | Friendlies | San Diego
+2026-05-31 H 4-1 v Jordan | Friendlies | St.Gallen
+2026-03-31 A 0-0 v Norway | Friendlies | Oslo
+2026-03-27 H 3-4 v Germany | Friendlies | Basel
+2025-11-18 A 1-1 v Kosovo | World Cup - Qualification Europe | Pristina
+2025-11-15 H 4-1 v Sweden | World Cup - Qualification Europe | Geneva
+2025-10-13 A 0-0 v Slovenia | World Cup - Qualification Europe | Ljubljana
+2025-10-10 A 2-0 v Sweden | World Cup - Qualification Europe | Solna
+2025-09-08 H 3-0 v Slovenia | World Cup - Qualification Europe | Basel
+2025-09-05 H 4-0 v Kosovo | World Cup - Qualification Europe | Basel
+Listed home: 12 games, scored 32 (2.67), conceded 10 (0.83), blanks 1, clean sheets 5
+Listed away: 8 games, scored 11 (1.38), conceded 3 (0.38), blanks 2, clean sheets 5
+All: 20 games, scored 43 (2.15), conceded 13 (0.65), blanks 3, clean sheets 10
+
+TABLE FOR Slovenia
+LEAGUE TABLE UEFA Nations League 2026 | 54 teams | 112 games played
+League averages per game: home 1.23, away 1.24, total 2.47
+#   team                   Pts | home P GF-GA  | away P GF-GA  | all P GF-GA
+1   Italy                   10 |  3   6-4       |  2   5-2       |  5  11-6 [League A - Group A]
+2   France                  10 |  2   5-2       |  3   3-3       |  5   8-5 [League A - Group A]
+3   Belgium                  9 |  2   3-1       |  3   5-5       |  5   8-6 [League A - Group A]
+4   Türkiye                  0 |  3   2-7       |  2   1-6       |  5   3-13 [League A - Group A]
+1   Netherlands              8 |  2   3-2       |  2   4-3       |  4   7-5 [League A - Group B]
+2   Greece                   8 |  2   2-2       |  2   3-1       |  4   5-3 [League A - Group B]
+3   Germany                  5 |  2   2-1       |  2   1-1       |  4   3-2 [League A - Group B]
+4   Serbia                   0 |  2   2-4       |  2   1-4       |  4   3-8 [League A - Group B]
+1   Spain                   15 |  2   7-2       |  3   7-3       |  5  14-5 [League A - Group C]
+2   England                 12 |  3   7-4       |  2   9-0       |  5  16-4 [League A - Group C]
+3   Croatia                  3 |  2   1-9       |  3   4-7       |  5   5-16 [League A - Group C]
+4   Czechia                  0 |  3   1-6       |  2   1-6       |  5   2-12 [League A - Group C]
+1   Portugal                12 |  2   3-1       |  2   6-3       |  4   9-4 [League A - Group D]
+2   Denmark                  6 |  2   4-4       |  2   3-3       |  4   7-7 [League A - Group D]
+3   Wales                    3 |  2   2-2       |  2   0-3       |  4   2-5 [League A - Group D]
+4   Norway                   3 |  2   4-4       |  2   2-4       |  4   6-8 [League A - Group D]
+1   Switzerland             12 |  2   5-1       |  2   6-0       |  4  11-1 [League B - Group A]
+2   Slovenia                 7 |  2   2-0       |  2   3-3       |  4   5-3 [League B - Group A]
+3   Scotland                 4 |  2   1-5       |  2   2-0       |  4   3-5 [League B - Group A]
+4   FYR Macedonia            0 |  2   0-5       |  2   0-5       |  4   0-10 [League B - Group A]
+1   Northern Ireland         8 |  2   0-0       |  2   4-0       |  4   4-0 [League B - Group B]
+2   Hungary                  7 |  2   1-1       |  2   2-1       |  4   3-2 [League B - Group B]
+3   Ukraine                  4 |  2   1-5       |  2   1-0       |  4   2-5 [League B - Group B]
+4   Georgia                  2 |  2   0-1       |  2   0-1       |  4   0-2 [League B - Group B]
+1   Austria                  8 |  2   6-2       |  2   3-3       |  4   9-5 [League B - Group C]
+2   Kosovo                   5 |  2   2-1       |  2   1-3       |  4   3-4 [League B - Group C]
+3   Rep. Of Ireland          5 |  2   3-3       |  2   3-1       |  4   6-4 [League B - Group C]
+4   Israel                   2 |  2   0-3       |  2   2-4       |  4   2-7 [League B - Group C]
+1   Sweden                  10 |  2   5-2       |  2   2-1       |  4   7-3 [League B - Group D]
+2   Bosnia & Herzegovina     8 |  2   2-1       |  2   4-2       |  4   6-3 [League B - Group D]
+3   Poland                   4 |  2   6-0       |  2   1-4       |  4   7-4 [League B - Group D]
+4   Romania                  0 |  2   2-5       |  2   1-8       |  4   3-13 [League B - Group D]
+1   Albania                 12 |  3   6-1       |  2   4-2       |  5  10-3 [League C - Group A]
+2   Belarus                 10 |  2   5-0       |  3   2-2       |  5   7-2 [League C - Group A]
+3   Finland                  7 |  2   2-1       |  3   7-3       |  5   9-4 [League C - Group A]
+4   San Marino               0 |  3   0-12      |  2   1-6       |  5   1-18 [League C - Group A]
+1   Montenegro              13 |  3   4-2       |  2   5-3       |  5   9-5 [League C - Group B]
+2   Cyprus                   8 |  2   4-1       |  3   2-3       |  5   6-4 [League C - Group B]
+3   Armenia                  5 |  3   5-4       |  2   0-2       |  5   5-6 [League C - Group B]
+4   Latvia                   1 |  2   1-2       |  3   2-6       |  5   3-8 [League C - Group B]
+1   Slovakia                10 |  2   4-1       |  2   5-1       |  4   9-2 [League C - Group C]
+2   Faroe Islands            4 |  2   2-2       |  2   3-3       |  4   5-5 [League C - Group C]
+3   Moldova                  4 |  2   1-5       |  2   2-3       |  4   3-8 [League C - Group C]
+4   Kazakhstan               2 |  2   3-4       |  2   2-3       |  4   5-7 [League C - Group C]
+1   Iceland                  8 |  2   4-1       |  2   3-0       |  4   7-1 [League C - Group D]
+2   Estonia                  6 |  2   1-0       |  2   1-1       |  4   2-1 [League C - Group D]
+3   Bulgaria                 4 |  2   1-2       |  2   2-3       |  4   3-5 [League C - Group D]
+4   Luxembourg               3 |  2   0-5       |  2   2-2       |  4   2-7 [League C - Group D]
+1   Malta                    7 |  2   2-1       |  1   2-1       |  3   4-2 [League D - Group A]
+2   Gibraltar                2 |  1   0-0       |  1   1-1       |  2   1-1 [League D - Group A]
+3   Andorra                  1 |  1   1-2       |  2   0-1       |  3   1-3 [League D - Group A]
+1   Azerbaijan               5 |  2   1-0       |  1   1-1       |  3   2-1 [League D - Group B]
+2   Lithuania                4 |  1   1-1       |  2   2-1       |  3   3-2 [League D - Group B]
+3   Liechtenstein            1 |  1   0-2       |  1   0-0       |  2   0-2 [League D - Group B]
+
+(Switzerland: same table as Slovenia, shown above)
+
+(24 API-Football requests used)
+
+----------------------------------------------------------------------
+MATCHBOOK: skipped (switched off for this run)

@@ -1,0 +1,88 @@
+MATCH Leganes v Burgos | fetched 2026-11-13 06:46 local
+
+FORM DATA Leganes v Burgos | source API-Football | 2026-11-13 06:47 UTC
+H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
+
+=== Leganes (id 537): last 20 finished games ===
+2026-11-10 A 1-0 v Trival Valderas | Copa del Rey | Leganes
+2026-11-07 H 1-3 v Albacete | Segunda División | Leganes | xG 2.57-2.12
+2026-11-02 A 3-4 v Valladolid | Segunda División | Valladolid | xG 2.43-2.90
+2026-10-24 H 1-1 v Mallorca | Segunda División | Leganes | xG 1.89-1.39
+2026-10-16 H 0-1 v Cordoba | Segunda División | Leganes
+2026-10-11 A 0-3 v Almeria | Segunda División | Almeria | xG 0.87-1.34
+2026-10-03 A 0-4 v Cadiz | Segunda División | Cadiz | xG 1.20-3.00
+2026-09-28 H 0-2 v Castellón | Segunda División | Leganes
+2026-09-20 H 3-2 v Granada CF | Segunda División | Leganes
+2026-09-13 A 0-2 v Tenerife | Segunda División | Santa Cruz de Tenerife | xG 0.72-1.57
+2026-09-04 A 0-0 v Las Palmas | Segunda División | Las Palmas
+2026-08-29 H 1-0 v Eldense | Segunda División | Leganes
+2026-08-22 A 1-0 v Oviedo | Segunda División | Oviedo
+2026-08-16 A 1-1 v Girona | Segunda División | Girona
+2026-08-08 H 0-0 v Tenerife | Friendlies Clubs | ? [PEN, 90-min score shown]
+2026-08-07 H 3-0 v Mérida AD | Friendlies Clubs | ?
+2026-08-04 H 2-1 v Al-Rayyan SC | Friendlies Clubs | ?
+2026-08-01 A 0-1 v Swansea | Friendlies Clubs | ?
+2026-07-28 A 1-4 v Real Madrid | Friendlies Clubs | ?
+2026-07-24 A 2-0 v Penafiel | Friendlies Clubs | ?
+Listed home: 9 games, scored 11 (1.22), conceded 10 (1.11), blanks 3, clean sheets 3
+Listed away: 11 games, scored 9 (0.82), conceded 19 (1.73), blanks 5, clean sheets 4
+All: 20 games, scored 20 (1.00), conceded 29 (1.45), blanks 8, clean sheets 7
+
+=== Burgos (id 9580): last 20 finished games ===
+2026-11-07 H 2-1 v Celta de Vigo II | Segunda División | Burgos | xG 2.84-0.49
+2026-11-01 H 1-1 v Castellón | Segunda División | Burgos | xG 0.34-0.30
+2026-10-29 A 4-2 v Laredo | Copa del Rey | ?
+2026-10-26 A 3-2 v FC Andorra | Segunda División | Encamp | xG 1.56-1.78
+2026-10-18 H 1-0 v Sabadell | Segunda División | Burgos
+2026-10-12 H 0-1 v Granada CF | Segunda División | Burgos | xG 1.46-2.53
+2026-10-03 A 1-2 v Almeria | Segunda División | Almeria | xG 1.14-2.19
+2026-09-27 H 1-0 v Eldense | Segunda División | Burgos | xG 0.80-0.53
+2026-09-20 A 2-1 v Las Palmas | Segunda División | Las Palmas | xG 1.07-0.53
+2026-09-11 H 3-1 v AD Ceuta FC | Segunda División | Burgos | xG 0.85-0.91
+2026-09-06 A 0-0 v Oviedo | Segunda División | Oviedo
+2026-08-31 H 2-2 v Real Sociedad II | Segunda División | Burgos
+2026-08-23 A 0-1 v Sporting Gijon | Segunda División | Gijon
+2026-08-16 H 3-2 v Cordoba | Segunda División | Burgos
+2026-08-08 H 0-0 v Cultural Leonesa | Friendlies Clubs | ? [PEN, 90-min score shown]
+2026-08-01 H 0-3 v Athletic Club | Friendlies Clubs | ?
+2026-07-29 A 1-0 v Unionistas de Salamanca | Friendlies Clubs | ?
+2026-07-25 H 1-1 v Athletic Club II | Friendlies Clubs | ?
+2026-07-18 H 2-0 v Real Sociedad II | Friendlies Clubs | ?
+2026-05-31 H 1-0 v FC Andorra | Segunda División | Burgos
+Listed home: 13 games, scored 17 (1.31), conceded 12 (0.92), blanks 3, clean sheets 5
+Listed away: 7 games, scored 11 (1.57), conceded 8 (1.14), blanks 2, clean sheets 2
+All: 20 games, scored 28 (1.40), conceded 20 (1.00), blanks 5, clean sheets 7
+
+TABLE FOR Leganes
+LEAGUE TABLE Segunda División 2026 | 22 teams | 140 games played
+League averages per game: home 1.55, away 1.17, total 2.72
+#   team                   Pts | home P GF-GA  | away P GF-GA  | all P GF-GA
+1   Almeria                 29 |  6  15-5       |  7   9-5       | 13  24-10
+2   Castellón               27 |  5  12-1       |  7  11-4       | 12  23-5
+3   Burgos                  24 |  8  13-8       |  5   6-6       | 13  19-14
+4   Eibar                   23 |  6  10-7       |  6  11-7       | 12  21-14
+5   Granada CF              23 |  5   9-5       |  7  11-9       | 12  20-14
+6   Mallorca                22 |  6  12-3       |  6   3-4       | 12  15-7
+7   Sporting Gijon          22 |  7   7-8       |  6   7-7       | 13  14-15
+8   Girona                  21 |  8  16-7       |  5   6-5       | 13  22-12
+9   Oviedo                  21 |  6   7-5       |  7  12-11      | 13  19-16
+10  Las Palmas              20 |  7   8-8       |  6  11-13      | 13  19-21
+11  Cordoba                 19 |  6  11-8       |  7  11-14      | 13  22-22
+12  Valladolid              18 |  6  15-10      |  7   7-10      | 13  22-20
+13  Sabadell                18 |  6   8-4       |  7   4-7       | 13  12-11
+14  Tenerife                15 |  6   7-5       |  6   8-12      | 12  15-17
+15  Eldense                 14 |  6   9-8       |  7   4-11      | 13  13-19
+16  Celta de Vigo II        13 |  7  13-13      |  6   6-12      | 13  19-25
+17  Real Sociedad II        12 |  6   6-10      |  7   9-12      | 13  15-22
+18  Leganes                 12 |  6   6-9       |  7   5-14      | 13  11-23
+19  FC Andorra              11 |  6  10-11      |  6   7-11      | 12  17-22
+20  Cadiz                   10 |  8  10-8       |  5   6-10      | 13  16-18
+21  Albacete                10 |  6   7-9       |  7   6-15      | 13  13-24
+22  AD Ceuta FC              5 |  7   6-12      |  6   4-18      | 13  10-30
+
+(Burgos: same table as Leganes, shown above)
+
+(26 API-Football requests used)
+
+----------------------------------------------------------------------
+MATCHBOOK: skipped (switched off for this run)
