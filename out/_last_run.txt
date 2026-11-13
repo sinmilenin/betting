@@ -1,11 +1,6 @@
-RUN 2026-11-13 16:44 local | 4 match(es)
-US Latina v Campobasso -> out/US_Latina_v_Campobasso.txt
-    !! US Latina: No team found for "US Latina".
-Torque v Racing Club Montevideo -> out/Torque_v_Racing_Club_Montevideo.txt
-    !! Torque: Ambiguous team name "Torque".
-    !! Racing Club Montevideo: No team found for "Racing Club Montevideo".
-England U21 v Portugal U21 -> out/England_U21_v_Portugal_U21.txt
-Znicz Pruszkow v Sokol Kleczew -> out/Znicz_Pruszkow_v_Sokol_Kleczew.txt
-    !! Znicz Pruszkow: Ambiguous team name "Znicz Pruszkow".
-    !! Sokol Kleczew: No team found for "Sokol Kleczew".
-Requests used: API-Football 43, Matchbook 0
+RUN 2026-11-13 16:45 local | 3 match(es)
+Latina v Campobasso -> out/Latina_v_Campobasso.txt
+id:2365 v Racing -> out/id_2365_v_Racing.txt
+    !! Racing: Ambiguous team name "Racing".
+id:6964 v Kleczew -> out/id_6964_v_Kleczew.txt
+Requests used: API-Football 66, Matchbook 0
