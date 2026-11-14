@@ -1,5 +1,2 @@
-# night scan 14.11 20:55 run 2 (team name retries)
-Deportivo Cali v Deportes Tolima | n=20 | xg=10
-Cucuta v Jaguares | n=20 | xg=10
-Queretaro FC v Monterrey | n=20 | xg=10
-Imabari v Jubilo Iwata | n=20 | xg=10
+# night scan 14.11 20:55 run 3 (Queretaro id)
+id:2290 v Monterrey | n=20 | xg=10
