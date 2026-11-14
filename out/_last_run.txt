@@ -1,13 +1,3 @@
-RUN 2026-11-14 06:45 local | 10 match(es)
-id:1364 v Cheltenham -> out/id_1364_v_Cheltenham.txt
-Sweden v id:1113 -> out/Sweden_v_id_1113.txt
-Japan v Brazil -> out/Japan_v_Brazil.txt
-Salford City v Northampton -> out/Salford_City_v_Northampton.txt
-Palestine v Iran -> out/Palestine_v_Iran.txt
-Sheffield Wednesday v Plymouth -> out/Sheffield_Wednesday_v_Plymouth.txt
-Swindon v Grimsby -> out/Swindon_v_Grimsby.txt
-    !! Swindon: Ambiguous team name "Swindon".
-Bari v Foggia -> out/Bari_v_Foggia.txt
-Real Sociedad II v Sporting Gijon -> out/Real_Sociedad_II_v_Sporting_Gijon.txt
-Stockport County v Reading -> out/Stockport_County_v_Reading.txt
-Requests used: API-Football 240, Matchbook 0
+RUN 2026-11-14 06:47 local | 1 match(es)
+id:1353 v Grimsby -> out/id_1353_v_Grimsby.txt
+Requests used: API-Football 27, Matchbook 0
