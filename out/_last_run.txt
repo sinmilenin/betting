@@ -1,3 +1,4 @@
-RUN 2026-11-14 18:44 local | 1 match(es)
-Deportivo Recoleta v id:1179 -> out/Deportivo_Recoleta_v_id_1179.txt
-Requests used: API-Football 25, Matchbook 0
+RUN 2026-11-14 19:29 local | 2 match(es)
+Banfield v Boca Juniors -> out/Banfield_v_Boca_Juniors.txt
+Marseille W v Paris Saint Germain W -> out/Marseille_W_v_Paris_Saint_Germain_W.txt
+Requests used: API-Football 52, Matchbook 0

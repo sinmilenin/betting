@@ -1,0 +1,99 @@
+MATCH Marseille W v Paris Saint Germain W | fetched 2026-11-14 19:29 local
+
+FORM DATA Marseille W v Paris Saint Germain W | source API-Football | 2026-11-14 19:29 UTC
+H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
+
+=== Marseille W (id 1673): last 20 finished games ===
+2026-11-07 A 2-1 v Saint-Malo W | Feminine Division 1 | ? | xG 2.08-0.27
+2026-10-30 H 1-0 v Nantes W | Feminine Division 1 | Marseille | xG 1.36-0.25
+2026-10-24 A 0-5 v Lyon W | Feminine Division 1 | Lyon | xG 0.79-3.79
+2026-10-18 H 2-2 v FC Fleury 91 W | Feminine Division 1 | Marseille | xG 0.98-2.35
+2026-10-03 A 3-3 v Strasbourg W | Feminine Division 1 | Strasbourg
+2026-09-19 A 0-0 v Montpellier W | Feminine Division 1 | Montpellier
+2026-09-12 H 2-1 v Lens W | Feminine Division 1 | ?
+2026-09-05 H 1-0 v Le Havre W | Feminine Division 1 | ?
+2026-05-06 H 0-1 v Dijon W | Feminine Division 1 | Marseille
+2026-04-25 A 1-0 v Lens W | Feminine Division 1 | Arras
+2026-04-22 H 0-2 v Nantes W | Feminine Division 1 | Marseille
+2026-03-28 H 1-2 v Montpellier W | Feminine Division 1 | Marseille
+2026-03-22 A 2-2 v Le Havre W | Feminine Division 1 | Le Havre
+2026-03-11 A 1-2 v Paris Saint Germain W | Feminine Division 1 | Poissy
+2026-02-21 H 2-6 v Lyon W | Feminine Division 1 | Marseille
+2026-02-08 A 4-2 v Strasbourg W | Feminine Division 1 | Strasbourg
+2026-01-30 H 0-3 v Paris FC W | Feminine Division 1 | Marseille
+2026-01-17 A 1-1 v FC Fleury 91 W | Feminine Division 1 | Fleury Merogis
+2026-01-14 H 0-1 v Saint-Étienne W | Feminine Division 1 | Marseille
+2025-12-20 A 3-0 v Montpellier W | Feminine Division 1 | Montpellier
+Listed home: 10 games, scored 9 (0.90), conceded 18 (1.80), blanks 4, clean sheets 2
+Listed away: 10 games, scored 17 (1.70), conceded 16 (1.60), blanks 2, clean sheets 3
+All: 20 games, scored 26 (1.30), conceded 34 (1.70), blanks 6, clean sheets 5
+
+=== Paris Saint Germain W (id 1667): last 20 finished games ===
+2026-11-10 H 1-2 v Bayern Munich W | UEFA Champions League Women | Paris | xG 1.20-1.54
+2026-11-06 H 4-0 v Le Havre W | Feminine Division 1 | Paris | xG 2.50-0.46
+2026-11-01 A 1-1 v Paris FC W | Feminine Division 1 | Paris | xG 1.14-0.60
+2026-10-29 A 1-1 v Manchester City W | UEFA Champions League Women | Manchester | xG 0.83-2.08
+2026-10-23 H 1-0 v Montpellier W | Feminine Division 1 | Paris | xG 0.00-0.00
+2026-10-17 H 0-4 v Lyon W | Feminine Division 1 | Paris | xG 0.48-3.15
+2026-10-04 A 3-1 v FC Fleury 91 W | Feminine Division 1 | Fleury-Merogis
+2026-10-01 H 5-0 v OH Leuven W | UEFA Champions League Women | Poissy
+2026-09-22 A 1-1 v Real Madrid W | UEFA Champions League Women | Madrid
+2026-09-18 H 1-0 v Nantes W | Feminine Division 1 | Poissy
+2026-09-11 H 2-0 v Strasbourg W | Feminine Division 1 | Poissy
+2026-09-05 A 2-0 v Lens W | Feminine Division 1 | Arras
+2026-09-02 H 1-1 v Eintracht Frankfurt W | UEFA Champions League Women | Poissy [AET, 90-min score shown]
+2026-08-26 A 1-1 v Eintracht Frankfurt W | UEFA Champions League Women | Frankfurt
+2026-05-16 A 0-1 v Paris FC W | Feminine Division 1 | Paris
+2026-05-06 H 2-0 v Strasbourg W | Feminine Division 1 | Poissy
+2026-04-25 A 2-0 v FC Fleury 91 W | Feminine Division 1 | Fleury Merogis
+2026-04-22 H 2-0 v Saint-Étienne W | Feminine Division 1 | Poissy
+2026-03-28 A 2-1 v Nantes W | Feminine Division 1 | Nantes
+2026-03-22 A 3-2 v Montpellier W | Feminine Division 1 | Montpellier
+Listed home: 10 games, scored 19 (1.90), conceded 7 (0.70), blanks 1, clean sheets 7
+Listed away: 10 games, scored 16 (1.60), conceded 9 (0.90), blanks 1, clean sheets 2
+All: 20 games, scored 35 (1.75), conceded 16 (0.80), blanks 2, clean sheets 9
+
+TABLE FOR Marseille W
+LEAGUE TABLE Feminine Division 1 2026 | 12 teams | 49 games played
+League averages per game: home 1.86, away 1.59, total 3.45
+#   team                   Pts | home P GF-GA  | away P GF-GA  | all P GF-GA
+1   Lyon W                  24 |  3  17-1       |  5  31-5       |  8  48-6
+2   Paris FC W              19 |  4  12-2       |  4   9-8       |  8  21-10
+3   Paris Saint Germain W   19 |  5   8-4       |  3   6-2       |  8  14-6
+4   Marseille W             15 |  4   6-3       |  4   5-9       |  8  11-12
+5   FC Fleury 91 W          12 |  4  11-11      |  4   6-4       |  8  17-15
+6   Nantes W                12 |  5   8-5       |  4   2-4       |  9  10-9
+7   Le Havre W               9 |  4   4-10      |  5   3-7       |  9   7-17
+8   Strasbourg W             8 |  4   6-7       |  4   6-8       |  8  12-15
+9   Montpellier W            6 |  4   8-7       |  4   1-8       |  8   9-15
+10  Toulouse W               5 |  3   4-7       |  5   4-20      |  8   8-27
+11  Saint-Malo W             3 |  4   2-6       |  3   3-8       |  7   5-14
+12  Lens W                   3 |  5   5-15      |  4   2-8       |  9   7-23
+
+TABLE FOR Paris Saint Germain W
+LEAGUE TABLE UEFA Champions League Women 2026 | 18 teams | 36 games played
+League averages per game: home 1.64, away 1.81, total 3.44
+#   team                   Pts | home P GF-GA  | away P GF-GA  | all P GF-GA
+1   Lyon W                  10 |  2   6-0       |  2  14-0       |  4  20-0
+2   Barcelona W             10 |  2   6-3       |  2  14-0       |  4  20-3
+3   Bayern Munich W          8 |  2   4-4       |  2   5-1       |  4   9-5
+4   Arsenal W                8 |  2   4-0       |  2   3-3       |  4   7-3
+5   Chelsea W                8 |  2   3-0       |  2   0-0       |  4   3-0
+6   Manchester City W        6 |  2   2-2       |  2   6-3       |  4   8-5
+7   Real Madrid W            6 |  2   4-1       |  2   3-3       |  4   7-4
+8   Juventus W               6 |  2   1-8       |  2   7-1       |  4   8-9
+9   SL Benfica W             6 |  2   3-4       |  2   2-4       |  4   5-8
+10  Paris Saint Germain W    5 |  2   6-2       |  2   2-2       |  4   8-4
+11  Køge W                   4 |  2   5-9       |  2   1-2       |  4   6-11
+12  Roma W                   4 |  2   2-7       |  2   0-2       |  4   2-9
+13  Inter Milano W           4 |  2   2-4       |  2   1-7       |  4   3-11
+14  Servette Chênois W       3 |  2   5-9       |  2   2-7       |  4   7-16
+15  Häcken W                 2 |  2   0-3       |  2   1-2       |  4   1-5
+16  Paris FC W               2 |  2   3-3       |  2   2-8       |  4   5-11
+17  OH Leuven W              2 |  2   1-1       |  2   1-10      |  4   2-11
+18  Austria Wien W           1 |  2   2-5       |  2   1-4       |  4   3-9
+
+(26 API-Football requests used)
+
+----------------------------------------------------------------------
+MATCHBOOK: skipped (switched off for this run)
