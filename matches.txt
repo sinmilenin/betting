@@ -1,5 +1,4 @@
-# scan 14.11 11:26 run 1
-Czech Republic U19 v Croatia U19 | n=20 | xg=10
-Farense U23 v Sporting CP U23 | n=20 | xg=10
-Asteras Tripolis II v PAOK B | n=20 | xg=10
-Valladolid v Castellon | n=20 | xg=10
+# scan 14.11 11:26 run 2 (name retries)
+Czechia U19 v Croatia U19 | n=20 | xg=10
+Asteras Tripolis II v PAOK II | n=20 | xg=10
+Valladolid v Castellón | n=20 | xg=10
