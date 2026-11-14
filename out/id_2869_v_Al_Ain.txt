@@ -1,20 +1,33 @@
-MATCH Hatta v Al Ain | fetched 2026-11-14 13:30 local
+MATCH id:2869 v Al Ain | fetched 2026-11-14 13:31 local
 
-FORM DATA Hatta v Al Ain | source API-Football | 2026-11-14 13:30 UTC
+FORM DATA id:2869 v Al Ain | source API-Football | 2026-11-14 13:31 UTC
 H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
 
-"Hatta" matches several teams. Use id:<number> instead of the name:
-  id:2869   Hatta SC (United-Arab-Emirates)
-  id:4063   Manhattan (USA)
-  id:6702   Trollhättan (Sweden)
-  id:9016   Chattanooga Red Wolves (USA)
-  id:9073   Chattanooga (USA)
-  id:13281  Phattalung (Thailand)
-  id:17640  Trollhättans W (Sweden)
-  id:23876  Chattanooga W (USA)
-  id:23937  Chattanooga Red Wolves W (USA)
-  id:23950  Manhattan W (USA)
-  id:28029  Hatta U23 (United-Arab-Emirates)
+=== Hatta SC (id 2869): last 20 finished games ===
+2026-11-07 H 1-2 v Khorfakkan | Pro League | Dubai | xG 1.39-1.34
+2026-10-24 H 1-0 v Dubai United | Presidents Cup | Hatta
+2026-10-17 A 0-2 v Al Nasr | Pro League | Dubai | xG 0.84-2.24
+2026-10-08 A 1-4 v Al Nasr | League Cup | Dubai
+2026-10-01 A 2-3 v Dubai United | League Cup | Dubai
+2026-09-19 H 2-2 v Shabab Al Ahli Dubai | League Cup | Hatta
+2026-09-11 H 1-2 v Al-Dhafra | Pro League | Hatta
+2026-09-05 A 1-0 v Baniyas SC | Pro League | Abu Dhabi
+2026-08-30 H 0-3 v Sharjah FC | Pro League | Hatta
+2026-08-22 A 3-4 v Ajman | Pro League | Ajman
+2026-08-16 H 0-2 v Al-Jazira | Pro League | Hatta
+2026-05-29 A 3-1 v Majd | Division 1 | ?
+2026-05-23 H 3-0 v Dubai City | Division 1 | Hatta
+2026-05-15 A 4-0 v Al Thaid | Division 1 | Al-Dhaid (Dhaid)
+2026-05-10 H 1-0 v Al Hamriyah | Division 1 | Hatta
+2026-05-03 A 4-1 v Ittifaq | Division 1 | Dubayy (Dubai)
+2026-04-29 H 1-1 v Al Urooba | Division 1 | Hatta
+2026-04-19 A 1-2 v Al Arabi | Division 1 | Umm al-Quwain
+2026-04-15 H 3-1 v Dubai United | Division 1 | Hatta
+2026-04-11 H 3-0 v Masfut | Division 1 | Hatta
+Listed home: 11 games, scored 16 (1.45), conceded 13 (1.18), blanks 2, clean sheets 4
+Listed away: 9 games, scored 19 (2.11), conceded 17 (1.89), blanks 1, clean sheets 2
+All: 20 games, scored 35 (1.75), conceded 30 (1.50), blanks 3, clean sheets 6
+
 === Al Ain (id 2865): last 20 finished games ===
 2026-11-08 A 0-0 v Al Wahda FC | Pro League | Abu Dhabi | xG 0.95-1.03
 2026-11-02 A 4-1 v Al-Ittihad FC | AFC Champions League Elite | Jeddah | xG 2.61-1.08
@@ -40,22 +53,7 @@ Listed home: 9 games, scored 25 (2.78), conceded 9 (1.00), blanks 0, clean sheet
 Listed away: 11 games, scored 26 (2.36), conceded 14 (1.27), blanks 2, clean sheets 3
 All: 20 games, scored 51 (2.55), conceded 23 (1.15), blanks 2, clean sheets 7
 
-(retrying Hatta using the opponent's country, United-Arab-Emirates)
-"Hatta" matches several teams. Use id:<number> instead of the name:
-  id:2869   Hatta SC (United-Arab-Emirates)
-  id:4063   Manhattan (USA)
-  id:6702   Trollhättan (Sweden)
-  id:9016   Chattanooga Red Wolves (USA)
-  id:9073   Chattanooga (USA)
-  id:13281  Phattalung (Thailand)
-  id:17640  Trollhättans W (Sweden)
-  id:23876  Chattanooga W (USA)
-  id:23937  Chattanooga Red Wolves W (USA)
-  id:23950  Manhattan W (USA)
-  id:28029  Hatta U23 (United-Arab-Emirates)
-!! Hatta: Ambiguous team name "Hatta".
-
-TABLE FOR Al Ain
+TABLE FOR Hatta SC
 LEAGUE TABLE Pro League 2026 | 14 teams | 49 games played
 League averages per game: home 1.65, away 1.63, total 3.29
 #   team                   Pts | home P GF-GA  | away P GF-GA  | all P GF-GA
@@ -74,7 +72,9 @@ League averages per game: home 1.65, away 1.63, total 3.29
 13  Hatta SC                 3 |  4   2-9       |  3   4-6       |  7   6-15
 14  Baniyas SC               2 |  4   4-10      |  3   2-3       |  7   6-13
 
-(15 API-Football requests used)
+(Al Ain: same table as Hatta SC, shown above)
+
+(25 API-Football requests used)
 
 ----------------------------------------------------------------------
 MATCHBOOK: skipped (switched off for this run)
