@@ -1,5 +1,3 @@
-RUN 2026-11-14 06:48 local | 2 match(es)
-Almeria v FC Andorra -> out/Almeria_v_FC_Andorra.txt
-Austria v Republic of Ireland -> out/Austria_v_Republic_of_Ireland.txt
-    !! Republic of Ireland: Ambiguous team name "Republic of Ireland".
-Requests used: API-Football 40, Matchbook 0
+RUN 2026-11-14 06:50 local | 1 match(es)
+Austria v id:776 -> out/Austria_v_id_776.txt
+Requests used: API-Football 25, Matchbook 0
