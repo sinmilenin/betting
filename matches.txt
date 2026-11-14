@@ -1,9 +1,3 @@
-# night scan 13.11 20:57 run 1
-Argentina v Uruguay | n=20 | xg=10
-Saint Martin v El Salvador | n=20 | xg=10
-Ecuador v Costa Rica | n=20 | xg=10
-Colombia v Chile | n=20 | xg=10
-Montserrat v Nicaragua | n=20 | xg=10
-Peru v Bolivia | n=20 | xg=10
-Internacional de Bogota v Santa Fe | n=20 | xg=10
-Guatemala v Canada | n=20 | xg=10
+# scan 14.11 06:11 run 1
+Bahrain v Yemen | n=20 | xg=10
+Central Coast Mariners W v Perth Glory W | n=20 | xg=10
