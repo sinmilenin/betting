@@ -1,9 +1,4 @@
-RUN 2026-11-14 16:29 local | 5 match(es)
-VVV Venlo v FC Eindhoven -> out/VVV_Venlo_v_FC_Eindhoven.txt
-De Graafschap v FC Oss -> out/De_Graafschap_v_FC_Oss.txt
-FC Dordrecht v Heracles -> out/FC_Dordrecht_v_Heracles.txt
-    !! FC Dordrecht: No team found for "FC Dordrecht".
-Roda JC v FC Volendam -> out/Roda_JC_v_FC_Volendam.txt
-    !! Roda JC: No team found for "Roda JC".
-Juventud Torremolinos v Huesca -> out/Juventud_Torremolinos_v_Huesca.txt
-Requests used: API-Football 100, Matchbook 0
+RUN 2026-11-14 16:30 local | 2 match(es)
+Dordrecht v Heracles -> out/Dordrecht_v_Heracles.txt
+Roda v FC Volendam -> out/Roda_v_FC_Volendam.txt
+Requests used: API-Football 50, Matchbook 0
