@@ -1,5 +1,4 @@
-RUN 2026-11-14 12:02 local | 3 match(es)
-Al Dhafra v Ajman -> out/Al_Dhafra_v_Ajman.txt
-Bangladesh v Pakistan -> out/Bangladesh_v_Pakistan.txt
-Italy U19 v Ukraine U19 -> out/Italy_U19_v_Ukraine_U19.txt
-Requests used: API-Football 76, Matchbook 0
+RUN 2026-11-14 12:03 local | 1 match(es)
+Al-Dhafra v Ajman -> out/Al_Dhafra_v_Ajman.txt
+    !! Al-Dhafra: API-Football error: {"search": "The Search field may only contain alpha-numeric characters and spaces."}
+Requests used: API-Football 14, Matchbook 0
