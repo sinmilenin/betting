@@ -1,4 +1,3 @@
-RUN 2026-11-14 12:04 local | 1 match(es)
-Dhafra v Ajman -> out/Dhafra_v_Ajman.txt
-    !! Dhafra: Ambiguous team name "Dhafra".
-Requests used: API-Football 15, Matchbook 0
+RUN 2026-11-14 12:05 local | 1 match(es)
+id:2873 v Ajman -> out/id_2873_v_Ajman.txt
+Requests used: API-Football 25, Matchbook 0
