@@ -1,2 +1,6 @@
-# scan 14.11 16:43 run 1
-Sestao River v Recreativo Huelva | n=20 | xg=10
+# scan 14.11 17:26 run 1
+VVV Venlo v FC Eindhoven | n=20 | xg=10
+De Graafschap v FC Oss | n=20 | xg=10
+FC Dordrecht v Heracles | n=20 | xg=10
+Roda JC v FC Volendam | n=20 | xg=10
+Juventud Torremolinos v Huesca | n=20 | xg=10
