@@ -1,0 +1,73 @@
+MATCH Bahrain v Yemen | fetched 2026-11-14 05:12 local
+
+FORM DATA Bahrain v Yemen | source API-Football | 2026-11-14 05:12 UTC
+H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
+
+=== Bahrain (id 1547): last 20 finished games ===
+2026-09-30 H 2-5 v Yemen | Gulf Cup of Nations | Jeddah
+2026-09-27 H 0-3 v United Arab Emirates | Gulf Cup of Nations | Jeddah
+2026-09-24 A 0-2 v Qatar | Gulf Cup of Nations | Jeddah
+2026-06-05 A 0-2 v Georgia | Friendlies | Tbilisi
+2025-12-09 H 3-1 v Sudan | Arab Cup | Al Rayyan
+2025-12-06 H 1-5 v Algeria | Arab Cup | Al Rayyan
+2025-12-03 A 1-2 v Iraq | Arab Cup | Doha
+2025-11-26 H 1-0 v Djibouti | Arab Cup | ?
+2025-11-21 H 0-1 v Somalia | Friendlies | ?
+2025-11-17 H 1-2 v Somalia | Friendlies | ?
+2025-10-12 H 0-4 v Egypt B | Friendlies | ?
+2025-10-09 A 0-1 v Morocco | Friendlies | Rabat
+2025-09-08 A 0-1 v United Arab Emirates | Friendlies | Dubayy (Dubai)
+2025-09-03 A 2-2 v Qatar | Friendlies | Doha
+2025-06-10 A 0-1 v China | World Cup - Qualification Asia | Chongqing
+2025-06-05 H 0-2 v Saudi Arabia | World Cup - Qualification Asia | Riffa
+2025-03-25 A 0-1 v Indonesia | World Cup - Qualification Asia | Jakarta
+2025-03-20 A 0-2 v Japan | World Cup - Qualification Asia | Saitama
+2025-01-04 A 2-1 v Oman | Gulf Cup of Nations | Ardhiyah
+2024-12-31 H 1-0 v Kuwait | Gulf Cup of Nations | Ardhiyah
+Listed home: 10 games, scored 9 (0.90), conceded 23 (2.30), blanks 4, clean sheets 2
+Listed away: 10 games, scored 5 (0.50), conceded 15 (1.50), blanks 7, clean sheets 0
+All: 20 games, scored 14 (0.70), conceded 38 (1.90), blanks 11, clean sheets 2
+
+=== Yemen (id 1550): last 20 finished games ===
+2026-09-30 A 5-2 v Bahrain | Gulf Cup of Nations | Jeddah
+2026-09-27 H 0-1 v Qatar | Gulf Cup of Nations | Jeddah
+2026-09-24 A 0-4 v United Arab Emirates | Gulf Cup of Nations | Jeddah
+2026-09-18 A 2-1 v Kuwait | Friendlies | ?
+2026-06-04 A 2-0 v Lebanon | Asian Cup - Qualification | ?
+2025-11-26 A 4-4 v Comoros | Arab Cup | ? [PEN, 90-min score shown]
+2025-11-18 H 7-1 v Bhutan | Asian Cup - Qualification | ?
+2025-10-14 H 9-0 v Brunei | Asian Cup - Qualification | ?
+2025-10-09 A 2-0 v Brunei | Asian Cup - Qualification | B. S. Begawan
+2025-06-10 H 0-0 v Lebanon | Asian Cup - Qualification | Kuwait
+2025-03-25 A 0-0 v Bhutan | Asian Cup - Qualification | Thimphu
+2024-12-28 A 2-1 v Bahrain | Gulf Cup of Nations | Kuwait City
+2024-12-25 H 2-3 v Saudi Arabia | Gulf Cup of Nations | Kuwait City
+2024-12-22 A 0-1 v Iraq | Gulf Cup of Nations | Kuwait City
+2024-12-16 A 0-1 v Oman | Friendlies | Muscat
+2024-12-09 A 1-1 v Kuwait | Friendlies | Doha
+2024-11-19 A 2-0 v Sri Lanka | Friendlies | ?
+2024-06-11 H 2-2 v Nepal | World Cup - Qualification Asia | Dammam
+2024-06-06 A 0-0 v Bahrain | World Cup - Qualification Asia | Riffa
+2024-03-26 H 0-3 v United Arab Emirates | World Cup - Qualification Asia | Dammam
+Listed home: 7 games, scored 20 (2.86), conceded 10 (1.43), blanks 3, clean sheets 2
+Listed away: 13 games, scored 20 (1.54), conceded 15 (1.15), blanks 5, clean sheets 5
+All: 20 games, scored 40 (2.00), conceded 25 (1.25), blanks 8, clean sheets 7
+
+TABLE FOR Bahrain
+LEAGUE TABLE Gulf Cup of Nations 2026 | 8 teams | 0 games played
+#   team                   Pts | home P GF-GA  | away P GF-GA  | all P GF-GA
+1   Saudi Arabia             9 |  0   0-0       |  0   0-0       |  3   6-0 [Group A]
+2   Oman                     4 |  0   0-0       |  0   0-0       |  3   4-5 [Group A]
+3   Iraq                     4 |  0   0-0       |  0   0-0       |  3   4-5 [Group A]
+4   Kuwait                   0 |  0   0-0       |  0   0-0       |  3   3-7 [Group A]
+1   United Arab Emirates     7 |  0   0-0       |  0   0-0       |  3   8-1 [Group B]
+2   Qatar                    7 |  0   0-0       |  0   0-0       |  3   4-1 [Group B]
+3   Yemen                    3 |  0   0-0       |  0   0-0       |  3   5-7 [Group B]
+4   Bahrain                  0 |  0   0-0       |  0   0-0       |  3   2-10 [Group B]
+
+(Yemen: same table as Bahrain, shown above)
+
+(25 API-Football requests used)
+
+----------------------------------------------------------------------
+MATCHBOOK: skipped (switched off for this run)

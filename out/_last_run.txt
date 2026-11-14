@@ -1,10 +1,5 @@
-RUN 2026-11-13 19:59 local | 8 match(es)
-Argentina v Uruguay -> out/Argentina_v_Uruguay.txt
-Saint Martin v El Salvador -> out/Saint_Martin_v_El_Salvador.txt
-Ecuador v Costa Rica -> out/Ecuador_v_Costa_Rica.txt
-Colombia v Chile -> out/Colombia_v_Chile.txt
-Montserrat v Nicaragua -> out/Montserrat_v_Nicaragua.txt
-Peru v Bolivia -> out/Peru_v_Bolivia.txt
-Internacional de Bogota v Santa Fe -> out/Internacional_de_Bogota_v_Santa_Fe.txt
-Guatemala v Canada -> out/Guatemala_v_Canada.txt
-Requests used: API-Football 204, Matchbook 0
+RUN 2026-11-14 05:12 local | 2 match(es)
+Bahrain v Yemen -> out/Bahrain_v_Yemen.txt
+Central Coast Mariners W v Perth Glory W -> out/Central_Coast_Mariners_W_v_Perth_Glory_W.txt
+    !! Perth Glory W: No team found for "Perth Glory W".
+Requests used: API-Football 39, Matchbook 0
