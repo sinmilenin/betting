@@ -1,3 +1,2 @@
-# scan 14.11 19:41
-Scotland U19 v Kosovo U19 | n=20 | xg=10
-Deportivo Recoleta v Libertad | n=20 | xg=10
+# scan 14.11 19:41 (retry Libertad by id)
+Deportivo Recoleta v id:1179 | n=20 | xg=10
