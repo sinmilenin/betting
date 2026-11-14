@@ -1,0 +1,40 @@
+MATCH Japan v Brazil | fetched 2026-11-14 06:43 local
+
+FORM DATA Japan v Brazil | source API-Football | 2026-11-14 06:43 UTC
+H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
+
+=== Japan (id 12): last 20 finished games ===
+2026-10-05 H 2-1 v New Zealand | Kirin Cup | ?
+2026-10-01 H 0-0 v Ecuador | Kirin Cup | Yokohama [PEN, 90-min score shown]
+2026-09-28 H 2-1 v Venezuela | Friendlies | Hiroshima
+2026-09-24 H 3-1 v Uruguay | Friendlies | Rifu
+2026-06-29 A 1-2 v Brazil | World Cup | Houston | xG 0.23-1.69
+2026-06-25 H 1-1 v Sweden | World Cup | Arlington | xG 1.21-0.64
+2026-06-21 A 4-0 v Tunisia | World Cup | Monterrey
+2026-06-14 A 2-2 v Netherlands | World Cup | Arlington
+2026-05-31 H 1-0 v Iceland | Friendlies | Tokyo
+2026-03-31 A 1-0 v England | Friendlies | London
+2026-03-28 A 1-0 v Scotland | Friendlies | Glasgow
+2025-11-18 H 3-0 v Bolivia | Friendlies | Tokyo
+2025-11-14 H 2-0 v Ghana | Friendlies | Toyota
+2025-10-14 H 3-2 v Brazil | Friendlies | Tokyo
+2025-10-10 H 2-2 v Paraguay | Friendlies | Suita
+2025-09-09 A 0-2 v USA | Friendlies | Columbus
+2025-09-07 A 0-0 v Mexico | Friendlies | ?
+2025-07-15 A 1-0 v South Korea | EAFF E-1 Football Championship | Yongin
+2025-07-12 H 2-0 v China | EAFF E-1 Football Championship | Yongin
+2025-07-08 H 6-1 v Hong Kong | EAFF E-1 Football Championship | Yongin
+Listed home: 12 games, scored 27 (2.25), conceded 9 (0.75), blanks 1, clean sheets 5
+Listed away: 8 games, scored 10 (1.25), conceded 6 (0.75), blanks 2, clean sheets 5
+All: 20 games, scored 37 (1.85), conceded 15 (0.75), blanks 3, clean sheets 10
+
+!! Brazil: API-Football error: HTTP 429 from API-Football
+
+  (standings for Kirin Cup 2026 not available: HTTP 429 from API-Football)
+  (standings for World Cup 2026 not available: HTTP 429 from API-Football)
+(no league table available for Japan: tried Kirin Cup 2026, World Cup 2026)
+
+(8 API-Football requests used)
+
+----------------------------------------------------------------------
+MATCHBOOK: skipped (switched off for this run)

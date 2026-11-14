@@ -1,3 +1,40 @@
-RUN 2026-11-14 05:13 local | 1 match(es)
-Central Coast Mariners W v Perth Glory FC W -> out/Central_Coast_Mariners_W_v_Perth_Glory_F.txt
-Requests used: API-Football 25, Matchbook 0
+RUN 2026-11-14 06:43 local | 21 match(es)
+Kowloon City v Kitchee -> out/Kowloon_City_v_Kitchee.txt
+Norway v Wales -> out/Norway_v_Wales.txt
+Georgia v Hungary -> out/Georgia_v_Hungary.txt
+Portugal v Denmark -> out/Portugal_v_Denmark.txt
+Austria v Ireland -> out/Austria_v_Ireland.txt
+Romania v Poland -> out/Romania_v_Poland.txt
+Almeria v Andorra -> out/Almeria_v_Andorra.txt
+Mallorca v Cordoba -> out/Mallorca_v_Cordoba.txt
+Sweden v Bosnia -> out/Sweden_v_Bosnia.txt
+    !! Bosnia: Ambiguous team name "Bosnia".
+Northern Ireland v Ukraine -> out/Northern_Ireland_v_Ukraine.txt
+Kosovo v Israel -> out/Kosovo_v_Israel.txt
+Exeter v Cheltenham -> out/Exeter_v_Cheltenham.txt
+    !! Exeter: Ambiguous team name "Exeter".
+Atletico Nacional v Once Caldas -> out/Atletico_Nacional_v_Once_Caldas.txt
+Japan v Brazil -> out/Japan_v_Brazil.txt
+    !! Brazil: API-Football error: HTTP 429 from API-Football
+Salford City v Northampton -> out/Salford_City_v_Northampton.txt
+    !! Salford City: API-Football error: HTTP 429 from API-Football
+    !! Northampton: API-Football error: HTTP 429 from API-Football
+Palestine v Iran -> out/Palestine_v_Iran.txt
+    !! Palestine: API-Football error: HTTP 429 from API-Football
+    !! Iran: API-Football error: HTTP 429 from API-Football
+Sheffield Wednesday v Plymouth -> out/Sheffield_Wednesday_v_Plymouth.txt
+    !! Sheffield Wednesday: API-Football error: HTTP 429 from API-Football
+    !! Plymouth: API-Football error: HTTP 429 from API-Football
+Swindon v Grimsby -> out/Swindon_v_Grimsby.txt
+    !! Swindon: API-Football error: HTTP 429 from API-Football
+    !! Grimsby: API-Football error: HTTP 429 from API-Football
+Bari v Foggia -> out/Bari_v_Foggia.txt
+    !! Bari: API-Football error: HTTP 429 from API-Football
+    !! Foggia: API-Football error: HTTP 429 from API-Football
+Real Sociedad II v Sporting Gijon -> out/Real_Sociedad_II_v_Sporting_Gijon.txt
+    !! Real Sociedad II: API-Football error: HTTP 429 from API-Football
+    !! Sporting Gijon: API-Football error: HTTP 429 from API-Football
+Stockport County v Reading -> out/Stockport_County_v_Reading.txt
+    !! Stockport County: API-Football error: HTTP 429 from API-Football
+    !! Reading: API-Football error: HTTP 429 from API-Football
+Requests used: API-Football 300, Matchbook 0

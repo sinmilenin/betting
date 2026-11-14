@@ -1,0 +1,13 @@
+MATCH Palestine v Iran | fetched 2026-11-14 06:43 local
+
+FORM DATA Palestine v Iran | source API-Football | 2026-11-14 06:43 UTC
+H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
+
+!! Palestine: API-Football error: HTTP 429 from API-Football
+
+!! Iran: API-Football error: HTTP 429 from API-Football
+
+(0 API-Football requests used)
+
+----------------------------------------------------------------------
+MATCHBOOK: skipped (switched off for this run)
