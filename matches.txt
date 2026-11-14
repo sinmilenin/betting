@@ -1,3 +1,2 @@
-# scan 14.11 15:56 run 2
-id:9586 v Cultural Leonesa | n=20 | xg=10
-Al-Wasl v Al Nasr | n=20 | xg=10
+# scan 14.11 15:56 run 3
+Wasl v id:10155 | n=20 | xg=10
