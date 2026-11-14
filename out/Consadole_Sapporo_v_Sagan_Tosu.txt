@@ -1,0 +1,86 @@
+MATCH Consadole Sapporo v Sagan Tosu | fetched 2026-11-14 19:58 local
+
+FORM DATA Consadole Sapporo v Sagan Tosu | source API-Football | 2026-11-14 19:59 UTC
+H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
+
+=== Consadole Sapporo (id 279): last 20 finished games ===
+2026-11-08 A 1-0 v Vanraure Hachinohe | J2 League | Hachinohe
+2026-11-03 A 4-0 v Imabari | J2 League | Imabari
+2026-10-31 H 1-0 v Shonan Bellmare | J2 League | Sapporo
+2026-10-25 A 1-0 v Kataller Toyama | J2 League | Toyama
+2026-10-21 A 2-0 v Montedio Yamagata | J2 League | Tendo
+2026-10-17 H 1-0 v Blaublitz Akita | J2 League | Sapporo
+2026-10-10 A 0-1 v Jubilo Iwata | J2 League | Iwata
+2026-10-04 H 2-1 v Iwaki | J2 League | Sapporo
+2026-09-29 H 1-2 v Fagiano Okayama | J-League Cup | Sapporo
+2026-09-26 A 2-3 v Tegevajaro Miyazaki | J2 League | Miyazaki
+2026-09-19 H 1-1 v Oita Trinita | J2 League | Sapporo
+2026-09-13 A 1-1 v Vegalta Sendai | J2 League | Sendai
+2026-09-06 H 1-4 v Tochigi City | J2 League | Sapporo
+2026-09-02 A 1-0 v Kagoshima United | J-League Cup | Kagoshima
+2026-08-29 A 1-2 v Ventforet Kofu | J2 League | Kofu
+2026-08-26 H 1-3 v Ventforet Kofu | Emperor Cup | Sapporo
+2026-08-22 H 1-4 v Omiya Ardija | J2 League | Sapporo
+2026-08-15 A 1-2 v Albirex Niigata | J2 League | Niigata
+2026-08-08 H 2-0 v Tokushima Vortis | J2 League | Sapporo
+2026-07-25 H 1-0 v Nagoya Grampus | Friendlies Clubs | ?
+Listed home: 10 games, scored 12 (1.20), conceded 15 (1.50), blanks 0, clean sheets 4
+Listed away: 10 games, scored 14 (1.40), conceded 9 (0.90), blanks 1, clean sheets 5
+All: 20 games, scored 26 (1.30), conceded 24 (1.20), blanks 1, clean sheets 9
+
+=== Sagan Tosu (id 295): last 20 finished games ===
+2026-11-07 H 1-2 v Kataller Toyama | J2 League | Tosu
+2026-11-03 A 1-0 v Shonan Bellmare | J2 League | Hiratsuka
+2026-10-31 A 0-2 v Jubilo Iwata | J2 League | Iwata
+2026-10-28 H 0-2 v Kawasaki Frontale | J-League Cup | Tosu
+2026-10-25 H 2-0 v Vanraure Hachinohe | J2 League | Tosu
+2026-10-21 A 1-2 v Albirex Niigata | J2 League | Niigata
+2026-10-17 H 2-1 v Omiya Ardija | J2 League | Tosu
+2026-10-14 H 2-1 v Avispa Fukuoka | J-League Cup | Tosu
+2026-10-10 H 1-0 v Fujieda MYFC | J2 League | Tosu
+2026-10-04 A 0-1 v Blaublitz Akita | J2 League | Akita
+2026-09-29 H 1-1 v Tokyo Verdy | J-League Cup | Tosu [AET, 90-min score shown]
+2026-09-26 A 0-2 v Montedio Yamagata | J2 League | Tendo
+2026-09-23 A 0-1 v Vissel Kobe | Emperor Cup | Kobe
+2026-09-19 H 1-3 v Iwaki | J2 League | Tosu
+2026-09-12 A 0-1 v Imabari | J2 League | Imabari
+2026-09-05 H 2-0 v Tegevajaro Miyazaki | J2 League | Tosu
+2026-09-02 A 2-1 v Nara Club | J-League Cup | Nara
+2026-08-29 A 2-2 v Yokohama FC | J2 League | Yokohama
+2026-08-26 H 4-0 v Kataller Toyama | Emperor Cup | Tosu
+2026-08-22 H 1-3 v Tochigi City | J2 League | Tosu
+Listed home: 11 games, scored 17 (1.55), conceded 13 (1.18), blanks 1, clean sheets 4
+Listed away: 9 games, scored 6 (0.67), conceded 12 (1.33), blanks 5, clean sheets 1
+All: 20 games, scored 23 (1.15), conceded 25 (1.25), blanks 6, clean sheets 5
+
+TABLE FOR Consadole Sapporo
+LEAGUE TABLE J2 League 2026 | 20 teams | 165 games played
+League averages per game: home 1.41, away 1.16, total 2.57
+#   team                   Pts | home P GF-GA  | away P GF-GA  | all P GF-GA
+1   Omiya Ardija            33 |  9  17-11      |  8  15-8       | 17  32-19
+2   Tegevajaro Miyazaki     32 |  9  15-8       |  8  14-10      | 17  29-18
+3   Albirex Niigata         32 | 10  16-11      |  7   8-16      | 17  24-27
+4   Kataller Toyama         31 |  8  12-9       |  8  17-6       | 16  29-15
+5   Yokohama FC             31 |  7  19-7       | 10  13-12      | 17  32-19
+6   Vegalta Sendai          30 |  8  16-8       |  8  12-7       | 16  28-15
+7   Consadole Sapporo       26 |  7   9-10      |  9  13-9       | 16  22-19
+8   Shonan Bellmare         26 |  8   9-8       |  9   9-7       | 17  18-15
+9   Iwaki                   23 |  8  15-7       |  8  11-15      | 16  26-22
+10  Jubilo Iwata            23 |  8   8-6       |  8  11-11      | 16  19-17
+11  Oita Trinita            22 |  9  16-13      |  8   4-7       | 17  20-20
+12  Blaublitz Akita         20 |  9  14-9       |  7   4-9       | 16  18-18
+13  Sagan Tosu              20 |  8  12-9       |  8   4-10      | 16  16-19
+14  Fujieda MYFC            19 |  9   9-6       |  8   9-15      | 17  18-21
+15  Montedio Yamagata       19 |  9   8-9       |  8   7-9       | 17  15-18
+16  Tokushima Vortis        17 |  8   7-6       |  8   5-11      | 16  12-17
+17  Tochigi City            15 |  8  12-17      |  9  15-15      | 17  27-32
+18  Vanraure Hachinohe      14 |  8   4-11      |  8   7-15      | 16  11-26
+19  Imabari                 12 |  7   8-16      |  9   8-16      | 16  16-32
+20  Ventforet Kofu          12 |  8   6-11      |  9   6-24      | 17  12-35
+
+(Sagan Tosu: same table as Consadole Sapporo, shown above)
+
+(25 API-Football requests used)
+
+----------------------------------------------------------------------
+MATCHBOOK: skipped (switched off for this run)
