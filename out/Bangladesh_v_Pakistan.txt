@@ -1,0 +1,71 @@
+MATCH Bangladesh v Pakistan | fetched 2026-11-14 12:02 local
+
+FORM DATA Bangladesh v Pakistan | source API-Football | 2026-11-14 12:02 UTC
+H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
+
+=== Bangladesh (id 1560): last 20 finished games ===
+2026-11-11 H 4-0 v Sri Lanka | SAFF Championship | Dhaka
+2026-11-05 A 1-0 v Bhutan | SAFF Championship | Dhaka
+2026-10-01 A 2-9 v Indonesia | FIFA Asean Cup | Jakarta
+2026-09-28 A 0-1 v Singapore | FIFA Asean Cup | Jakarta
+2026-09-25 H 0-3 v Malaysia | FIFA Asean Cup | Senayan
+2026-06-05 A 2-1 v San Marino | Friendlies | Serravalle
+2026-03-31 A 0-1 v Singapore | Asian Cup - Qualification | Kallang
+2026-03-26 A 0-3 v Vietnam | Friendlies | Hanoi
+2025-11-18 H 1-0 v India | Asian Cup - Qualification | Dhaka
+2025-11-13 H 2-2 v Nepal | Friendlies | ?
+2025-10-14 A 1-1 v Hong Kong | Asian Cup - Qualification | Hongkong
+2025-10-09 H 3-4 v Hong Kong | Asian Cup - Qualification | Dhaka
+2025-09-06 A 0-0 v Nepal | Friendlies | Kathmandu
+2025-06-10 H 1-2 v Singapore | Asian Cup - Qualification | Dhaka
+2025-06-04 H 2-0 v Bhutan | Friendlies | Dhaka
+2025-03-25 A 0-0 v India | Asian Cup - Qualification | Kolkata
+2024-11-16 H 2-1 v Maldives | Friendlies | Dhaka
+2024-11-13 H 0-1 v Maldives | Friendlies | Dhaka
+2024-09-08 A 0-1 v Bhutan | Friendlies | Thimphu
+2024-09-05 A 1-0 v Bhutan | Friendlies | Thimphu
+Listed home: 9 games, scored 15 (1.67), conceded 13 (1.44), blanks 2, clean sheets 3
+Listed away: 11 games, scored 7 (0.64), conceded 17 (1.55), blanks 6, clean sheets 4
+All: 20 games, scored 22 (1.10), conceded 30 (1.50), blanks 8, clean sheets 7
+
+=== Pakistan (id 5535): last 20 finished games ===
+2026-11-08 A 3-0 v Maldives | SAFF Championship | Dhaka
+2026-11-05 H 2-3 v India | SAFF Championship | Dhaka
+2026-10-02 A 2-4 v Vietnam | FIFA Asean Cup | Jakarta
+2026-09-29 A 2-2 v Philippines | FIFA Asean Cup | Bandung
+2026-09-26 H 0-4 v Thailand | FIFA Asean Cup | Bandung
+2026-06-10 H 2-0 v Afghanistan | Friendlies | ?
+2026-06-07 A 2-0 v Afghanistan | Friendlies | ?
+2026-06-04 A 3-0 v Maldives | Friendlies | Malé
+2026-06-01 H 0-0 v Bangladesh U23 | Friendlies | ?
+2026-03-31 H 1-2 v Myanmar | Asian Cup - Qualification | ?
+2025-11-18 H 0-5 v Syria | Asian Cup - Qualification | ?
+2025-10-14 A 1-1 v Afghanistan | Asian Cup - Qualification | ?
+2025-10-09 H 0-0 v Afghanistan | Asian Cup - Qualification | ?
+2025-06-10 A 0-1 v Myanmar | Asian Cup - Qualification | Yangon
+2025-03-25 A 0-2 v Syria | Asian Cup - Qualification | Al Ahsa
+2024-06-11 A 0-3 v Tajikistan | World Cup - Qualification Asia | Dushanbe
+2024-06-06 H 0-3 v Saudi Arabia | World Cup - Qualification Asia | Islamabad
+2024-03-26 A 0-7 v Jordan | World Cup - Qualification Asia | Amman
+2024-03-21 H 0-3 v Jordan | World Cup - Qualification Asia | Islamabad
+2023-11-21 H 1-6 v Tajikistan | World Cup - Qualification Asia | Islamabad
+Listed home: 10 games, scored 6 (0.60), conceded 26 (2.60), blanks 6, clean sheets 3
+Listed away: 10 games, scored 13 (1.30), conceded 20 (2.00), blanks 4, clean sheets 3
+All: 20 games, scored 19 (0.95), conceded 46 (2.30), blanks 10, clean sheets 6
+
+TABLE FOR Bangladesh
+LEAGUE TABLE SAFF Championship 2026 | 6 teams | 0 games played
+#   team                   Pts | home P GF-GA  | away P GF-GA  | all P GF-GA
+1   Bangladesh               6 |  0   0-0       |  0   0-0       |  2   5-0 [Group A]
+2   Bhutan                   1 |  0   0-0       |  0   0-0       |  2   2-3 [Group A]
+3   Sri Lanka                1 |  0   0-0       |  0   0-0       |  2   2-6 [Group A]
+1   India                    6 |  0   0-0       |  0   0-0       |  2   4-2 [Group B]
+2   Pakistan                 3 |  0   0-0       |  0   0-0       |  2   5-3 [Group B]
+3   Maldives                 0 |  0   0-0       |  0   0-0       |  2   0-4 [Group B]
+
+(Pakistan: same table as Bangladesh, shown above)
+
+(25 API-Football requests used)
+
+----------------------------------------------------------------------
+MATCHBOOK: skipped (switched off for this run)
