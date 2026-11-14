@@ -1,7 +1,3 @@
-RUN 2026-11-14 20:00 local | 4 match(es)
-Deportivo Cali v Deportes Tolima -> out/Deportivo_Cali_v_Deportes_Tolima.txt
-Cucuta v Jaguares -> out/Cucuta_v_Jaguares.txt
-Queretaro FC v Monterrey -> out/Queretaro_FC_v_Monterrey.txt
-    !! Queretaro FC: No team found for "Queretaro FC".
-Imabari v Jubilo Iwata -> out/Imabari_v_Jubilo_Iwata.txt
-Requests used: API-Football 89, Matchbook 0
+RUN 2026-11-14 20:01 local | 1 match(es)
+id:2290 v Monterrey -> out/id_2290_v_Monterrey.txt
+Requests used: API-Football 25, Matchbook 0
