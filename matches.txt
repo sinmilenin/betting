@@ -1,11 +1,2 @@
-# scan 14.11 07:40 run 2 (429 retries + Exeter/Bosnia ids)
-id:1364 v Cheltenham | n=20 | xg=10
-Sweden v id:1113 | n=20 | xg=10
-Japan v Brazil | n=20 | xg=10
-Salford City v Northampton | n=20 | xg=10
-Palestine v Iran | n=20 | xg=10
-Sheffield Wednesday v Plymouth | n=20 | xg=10
-Swindon v Grimsby | n=20 | xg=10
-Bari v Foggia | n=20 | xg=10
-Real Sociedad II v Sporting Gijon | n=20 | xg=10
-Stockport County v Reading | n=20 | xg=10
+# scan 14.11 07:40 run 3 (Swindon id)
+id:1353 v Grimsby | n=20 | xg=10
