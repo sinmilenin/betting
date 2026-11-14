@@ -1,6 +1,6 @@
-MATCH Valladolid v Castellon | fetched 2026-11-14 10:28 local
+MATCH Valladolid v Castellón | fetched 2026-11-14 10:29 local
 
-FORM DATA Valladolid v Castellon | source API-Football | 2026-11-14 10:28 UTC
+FORM DATA Valladolid v Castellón | source API-Football | 2026-11-14 10:29 UTC
 H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
 
 === Valladolid (id 720): last 20 finished games ===
@@ -28,18 +28,7 @@ Listed home: 8 games, scored 19 (2.38), conceded 11 (1.38), blanks 2, clean shee
 Listed away: 12 games, scored 15 (1.25), conceded 14 (1.17), blanks 4, clean sheets 2
 All: 20 games, scored 34 (1.70), conceded 25 (1.25), blanks 6, clean sheets 5
 
-"Castellon" matches several teams. Use id:<number> instead of the name:
-  id:5254   Castellón (Spain)
-  id:17588  Castellón II (Spain)
-  id:22138  Castellonense (Spain)
-  id:28020  CD Castellon U19 (Spain)
-(retrying Castellon using the opponent's country, Spain)
-"Castellon" matches several teams. Use id:<number> instead of the name:
-  id:5254   Castellón (Spain)
-  id:17588  Castellón II (Spain)
-  id:22138  Castellonense (Spain)
-  id:28020  CD Castellon U19 (Spain)
-!! Castellon: Ambiguous team name "Castellon".
+!! Castellón: API-Football error: {"search": "The Search field may only contain alpha-numeric characters and spaces."}
 
 TABLE FOR Valladolid
 LEAGUE TABLE Segunda División 2026 | 22 teams | 141 games played
@@ -68,7 +57,7 @@ League averages per game: home 1.56, away 1.17, total 2.73
 21  Albacete                10 |  6   7-9       |  7   6-15      | 13  13-24
 22  AD Ceuta FC              5 |  7   6-12      |  6   4-18      | 13  10-30
 
-(15 API-Football requests used)
+(14 API-Football requests used)
 
 ----------------------------------------------------------------------
 MATCHBOOK: skipped (switched off for this run)

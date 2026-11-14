@@ -1,7 +1,32 @@
-MATCH Czech Republic U19 v Croatia U19 | fetched 2026-11-14 10:28 local
+MATCH Czechia U19 v Croatia U19 | fetched 2026-11-14 10:29 local
 
-FORM DATA Czech Republic U19 v Croatia U19 | source API-Football | 2026-11-14 10:28 UTC
+FORM DATA Czechia U19 v Croatia U19 | source API-Football | 2026-11-14 10:29 UTC
 H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
+
+=== Czechia U19 (id 10330): last 20 finished games ===
+2026-11-11 H 2-0 v Netherlands U19 | UEFA U19 Championship - Qualification | Kotoriba
+2026-10-03 A 1-1 v Germany U19 | Friendlies | ?
+2026-09-30 A 1-2 v Sweden U19 | Friendlies | Benidorm
+2026-09-27 A 5-0 v Scotland U19 | Friendlies | ?
+2026-03-31 A 1-2 v Denmark U19 | UEFA U19 Championship - Qualification | Prostejov
+2026-03-31 A 1-1 v Finland U19 | UEFA U19 Championship - Qualification | ?
+2026-03-28 H 3-1 v Ukraine U19 | UEFA U19 Championship - Qualification | ?
+2026-03-28 H 0-1 v Belgium U19 | UEFA U19 Championship - Qualification | Prostejov
+2026-03-25 H 3-0 v Latvia U19 | UEFA U19 Championship - Qualification | Prostejov
+2026-03-25 H 2-0 v Estonia U19 | UEFA U19 Championship - Qualification | ?
+2026-02-19 A 0-0 v Croatia U19 | Friendlies | ?
+2026-02-17 H 1-2 v Turkey U19 | Friendlies | ?
+2025-11-18 A 4-0 v Northern Ireland U19 | UEFA U19 Championship - Qualification | ?
+2025-11-15 H 2-2 v Malta U19 | UEFA U19 Championship - Qualification | ?
+2025-11-12 H 6-1 v Azerbaijan U19 | UEFA U19 Championship - Qualification | ?
+2025-10-12 A 9-0 v Liechtenstein U19 | Friendlies | ?
+2025-10-09 A 7-0 v Liechtenstein U19 | Friendlies | ?
+2025-09-09 H 1-2 v Italy U19 | Friendlies | ?
+2025-09-06 A 2-2 v Croatia U19 | Friendlies | ?
+2025-03-25 H 0-4 v Netherlands U19 | UEFA U19 Championship - Qualification | Chomutov
+Listed home: 10 games, scored 20 (2.00), conceded 13 (1.30), blanks 2, clean sheets 3
+Listed away: 10 games, scored 31 (3.10), conceded 8 (0.80), blanks 1, clean sheets 5
+All: 20 games, scored 51 (2.55), conceded 21 (1.05), blanks 3, clean sheets 8
 
 === Croatia U19 (id 10329): last 20 finished games ===
 2026-11-11 H 4-1 v Hungary U19 | UEFA U19 Championship - Qualification | Nedelisce
@@ -28,9 +53,7 @@ Listed home: 15 games, scored 32 (2.13), conceded 13 (0.87), blanks 4, clean she
 Listed away: 5 games, scored 6 (1.20), conceded 8 (1.60), blanks 2, clean sheets 2
 All: 20 games, scored 38 (1.90), conceded 21 (1.05), blanks 6, clean sheets 9
 
-!! Czech Republic U19: No team found for "Czech Republic U19".
-
-TABLE FOR Croatia U19
+TABLE FOR Czechia U19
 LEAGUE TABLE UEFA U19 Championship - Qualification 2027 | 54 teams | 77 games played
 League averages per game: home 1.91, away 1.44, total 3.35
 #   team                   Pts | home P GF-GA  | away P GF-GA  | all P GF-GA
@@ -89,7 +112,9 @@ League averages per game: home 1.91, away 1.44, total 3.35
 2   Montenegro U19           2 |  1   1-1       |  1   1-1       |  2   2-2 [League B R1, Group 7]
 3   Georgia U19              1 |  1   2-3       |  1   1-1       |  2   3-4 [League B R1, Group 7]
 
-(14 API-Football requests used)
+(Croatia U19: same table as Czechia U19, shown above)
+
+(25 API-Football requests used)
 
 ----------------------------------------------------------------------
 MATCHBOOK: skipped (switched off for this run)
