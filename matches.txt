@@ -1,6 +1,2 @@
-# scan 14.11 10:46 run 1
-Spain U19 v Wales U19 | n=20 | xg=10
-Northern Ireland U19 v Malta U19 | n=20 | xg=10
-Bijelo Brdo v Gorica | n=20 | xg=10
-Armenia U19 v Albania U19 | n=20 | xg=10
-Manchester United W v Crystal Palace W | n=20 | xg=10
+# scan 14.11 10:46 run 2 (HNK Gorica retry)
+Bijelo Brdo v HNK Gorica | n=20 | xg=10
