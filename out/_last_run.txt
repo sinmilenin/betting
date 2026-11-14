@@ -1,11 +1,6 @@
-RUN 2026-11-14 12:47 local | 9 match(es)
-id:1377 v Boreham Wood -> out/id_1377_v_Boreham_Wood.txt
-Partick v id:903 -> out/Partick_v_id_903.txt
-id:7721 v id:8660 -> out/id_7721_v_id_8660.txt
-Tottenham Hotspur W v Everton W -> out/Tottenham_Hotspur_W_v_Everton_W.txt
-Dartford v id:7612 -> out/Dartford_v_id_7612.txt
-id:1387 v Raith -> out/id_1387_v_Raith.txt
-Carlisle v Boston United -> out/Carlisle_v_Boston_United.txt
-id:4695 v id:1841 -> out/id_4695_v_id_1841.txt
-Farnham Town v id:1840 -> out/Farnham_Town_v_id_1840.txt
-Requests used: API-Football 225, Matchbook 0
+RUN 2026-11-14 13:30 local | 3 match(es)
+Southend v Aldershot Town -> out/Southend_v_Aldershot_Town.txt
+Chojniczanka Chojnice v Zawisza Bydgoszcz -> out/Chojniczanka_Chojnice_v_Zawisza_Bydgoszc.txt
+Hatta v Al Ain -> out/Hatta_v_Al_Ain.txt
+    !! Hatta: Ambiguous team name "Hatta".
+Requests used: API-Football 67, Matchbook 0
