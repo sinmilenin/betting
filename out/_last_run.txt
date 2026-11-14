@@ -1,5 +1,3 @@
-RUN 2026-11-14 05:12 local | 2 match(es)
-Bahrain v Yemen -> out/Bahrain_v_Yemen.txt
-Central Coast Mariners W v Perth Glory W -> out/Central_Coast_Mariners_W_v_Perth_Glory_W.txt
-    !! Perth Glory W: No team found for "Perth Glory W".
-Requests used: API-Football 39, Matchbook 0
+RUN 2026-11-14 05:13 local | 1 match(es)
+Central Coast Mariners W v Perth Glory FC W -> out/Central_Coast_Mariners_W_v_Perth_Glory_F.txt
+Requests used: API-Football 25, Matchbook 0
