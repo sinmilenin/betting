@@ -1,6 +1,6 @@
-MATCH Farnham Town v Ebbsfleet | fetched 2026-11-14 12:45 local
+MATCH Farnham Town v id:1840 | fetched 2026-11-14 12:47 local
 
-FORM DATA Farnham Town v Ebbsfleet | source API-Football | 2026-11-14 12:46 UTC
+FORM DATA Farnham Town v id:1840 | source API-Football | 2026-11-14 12:48 UTC
 H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
 
 === Farnham Town (id 8783): last 20 finished games ===
@@ -28,14 +28,30 @@ Listed home: 11 games, scored 22 (2.00), conceded 15 (1.36), blanks 1, clean she
 Listed away: 9 games, scored 15 (1.67), conceded 10 (1.11), blanks 1, clean sheets 2
 All: 20 games, scored 37 (1.85), conceded 25 (1.25), blanks 2, clean sheets 5
 
-"Ebbsfleet" matches several teams. Use id:<number> instead of the name:
-  id:1840   Ebbsfleet United (England)
-  id:20637  Ebbsfleet United W (England)
-(retrying Ebbsfleet using the opponent's country, England)
-"Ebbsfleet" matches several teams. Use id:<number> instead of the name:
-  id:1840   Ebbsfleet United (England)
-  id:20637  Ebbsfleet United W (England)
-!! Ebbsfleet: Ambiguous team name "Ebbsfleet".
+=== Ebbsfleet United (id 1840): last 20 finished games ===
+2026-11-09 A 2-2 v Chelmsford City | National League - South | ?
+2026-11-07 H 1-0 v Chesham United | National League - South | Northfleet
+2026-11-03 A 6-0 v Farnborough | National League - South | Farnborough
+2026-10-31 A 0-3 v Truro City | National League - South | ?
+2026-10-27 A 3-1 v Maidstone Utd | National League - South | Maidstone
+2026-10-24 H 4-0 v Maidenhead | National League - South | Northfleet
+2026-10-20 H 2-2 v Horsham | National League - South | Northfleet
+2026-10-17 H 6-1 v Weston-super-Mare | National League - South | Northfleet
+2026-10-13 H 5-0 v AFC Totton | National League - South | Northfleet
+2026-10-10 A 2-0 v Hampton & Richmond | National League - South | ?
+2026-10-06 H 1-0 v Folkestone Invicta | National League - South | Northfleet
+2026-10-03 H 1-2 v Sholing | FA Cup | ?
+2026-09-29 A 1-1 v Slough Town | National League - South | Slough
+2026-09-26 A 2-1 v Tonbridge Angels | National League - South | Tonbridge
+2026-09-19 A 3-1 v Maidenhead | FA Cup | ?
+2026-09-12 H 1-1 v Salisbury | National League - South | Northfleet
+2026-09-08 H 0-0 v Hemel Hempstead Town | National League - South | Northfleet
+2026-09-05 A 2-0 v Walton & Hersham | National League - South | Surrey
+2026-07-31 H 1-2 v Gillingham | Friendlies Clubs | ?
+2026-07-28 A 3-2 v Cray Valley PM | Friendlies Clubs | ?
+Listed home: 10 games, scored 22 (2.20), conceded 8 (0.80), blanks 1, clean sheets 5
+Listed away: 10 games, scored 24 (2.40), conceded 11 (1.10), blanks 1, clean sheets 3
+All: 20 games, scored 46 (2.30), conceded 19 (0.95), blanks 2, clean sheets 8
 
 TABLE FOR Farnham Town
 LEAGUE TABLE National League - South 2026 | 24 teams | 186 games played
@@ -66,7 +82,9 @@ League averages per game: home 1.54, away 1.43, total 2.97
 23  Walton & Hersham         8 |  7   3-18      |  8   8-18      | 15  11-36
 24  Slough Town              7 |  8   7-14      |  8  11-26      | 16  18-40
 
-(14 API-Football requests used)
+(Ebbsfleet United: same table as Farnham Town, shown above)
+
+(24 API-Football requests used)
 
 ----------------------------------------------------------------------
 MATCHBOOK: skipped (switched off for this run)

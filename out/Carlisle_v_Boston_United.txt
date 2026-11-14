@@ -1,6 +1,6 @@
-MATCH Carlisle v Boston Utd | fetched 2026-11-14 12:45 local
+MATCH Carlisle v Boston United | fetched 2026-11-14 12:47 local
 
-FORM DATA Carlisle v Boston Utd | source API-Football | 2026-11-14 12:46 UTC
+FORM DATA Carlisle v Boston United | source API-Football | 2026-11-14 12:48 UTC
 H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
 
 === Carlisle (id 1371): last 20 finished games ===
@@ -28,7 +28,30 @@ Listed home: 11 games, scored 21 (1.91), conceded 17 (1.55), blanks 2, clean she
 Listed away: 9 games, scored 17 (1.89), conceded 9 (1.00), blanks 1, clean sheets 2
 All: 20 games, scored 38 (1.90), conceded 26 (1.30), blanks 3, clean sheets 5
 
-!! Boston Utd: No team found for "Boston Utd".
+=== Boston United (id 8146): last 20 finished games ===
+2026-11-03 H 1-0 v Leicester City U21 | National League Cup | Boston
+2026-10-31 H 2-1 v Scunthorpe | National League | Boston
+2026-10-27 H 2-1 v Gateshead | National League | Boston
+2026-10-24 A 2-4 v Eastleigh | National League | Eastleigh
+2026-10-17 H 1-3 v Scunthorpe | FA Cup | Boston
+2026-10-13 H 5-6 v Southampton U21 | National League Cup | Boston
+2026-10-10 H 1-2 v Southend | National League | Boston
+2026-10-03 A 0-6 v Yeovil Town | National League | Yeovil
+2026-09-29 A 1-1 v FC Halifax Town | National League | Halifax
+2026-09-26 H 0-1 v AFC Fylde | National League | Boston
+2026-09-19 A 3-1 v Forest Green | National League | Nailsworth
+2026-09-15 H 1-1 v Woking | National League | Boston
+2026-09-12 H 1-3 v Wealdstone | National League | Boston
+2026-09-08 H 0-1 v West Bromwich Albion U21 | National League Cup | Boston
+2026-09-05 A 2-2 v Tamworth | National League | Tamworth
+2026-08-31 H 2-3 v AFC Hornchurch | National League | Boston
+2026-08-27 A 1-2 v Boreham Wood | National League | Borehamwood
+2026-08-22 H 1-0 v Altrincham | National League | Boston
+2026-08-18 H 2-3 v Birmingham City U21 | National League Cup | Boston
+2026-08-15 A 2-0 v Solihull Moors | National League | Solihull
+Listed home: 13 games, scored 19 (1.46), conceded 25 (1.92), blanks 2, clean sheets 2
+Listed away: 7 games, scored 11 (1.57), conceded 16 (2.29), blanks 1, clean sheets 1
+All: 20 games, scored 30 (1.50), conceded 41 (2.05), blanks 3, clean sheets 3
 
 TABLE FOR Carlisle
 LEAGUE TABLE National League 2026 | 24 teams | 189 games played
@@ -59,7 +82,9 @@ League averages per game: home 1.73, away 1.43, total 3.16
 23  Scunthorpe              10 |  6  11-10      |  9   8-20      | 15  19-30
 24  Gateshead                4 |  6   5-11      |  9   4-23      | 15   9-34
 
-(13 API-Football requests used)
+(Boston United: same table as Carlisle, shown above)
+
+(25 API-Football requests used)
 
 ----------------------------------------------------------------------
 MATCHBOOK: skipped (switched off for this run)

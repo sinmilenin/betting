@@ -1,34 +1,11 @@
-RUN 2026-11-14 12:45 local | 21 match(es)
-Yeovil v Boreham Wood -> out/Yeovil_v_Boreham_Wood.txt
-    !! Yeovil: Ambiguous team name "Yeovil".
-Avro v Chester -> out/Avro_v_Chester.txt
-Partick v Inverness -> out/Partick_v_Inverness.txt
-    !! Inverness: Ambiguous team name "Inverness".
-Hednesford v Hemel Hempstead -> out/Hednesford_v_Hemel_Hempstead.txt
-    !! Hednesford: Ambiguous team name "Hednesford".
-    !! Hemel Hempstead: Ambiguous team name "Hemel Hempstead".
-Darlington v Bury -> out/Darlington_v_Bury.txt
-Cove Rangers v Montrose -> out/Cove_Rangers_v_Montrose.txt
-Gateshead v Barrow -> out/Gateshead_v_Barrow.txt
-Tottenham W v Everton W -> out/Tottenham_W_v_Everton_W.txt
-    !! Tottenham W: No team found for "Tottenham W".
-Edinburgh City v Clyde -> out/Edinburgh_City_v_Clyde.txt
-Horsham v Torquay -> out/Horsham_v_Torquay.txt
-Sutton Utd v Solihull Moors -> out/Sutton_Utd_v_Solihull_Moors.txt
-East Fife v Peterhead -> out/East_Fife_v_Peterhead.txt
-Dartford v Totton -> out/Dartford_v_Totton.txt
-    !! Totton: Ambiguous team name "Totton".
-Livingston v Morton -> out/Livingston_v_Morton.txt
-Ayr v Raith -> out/Ayr_v_Raith.txt
-    !! Ayr: Ambiguous team name "Ayr".
-Carlisle v Boston Utd -> out/Carlisle_v_Boston_Utd.txt
-    !! Boston Utd: No team found for "Boston Utd".
-Scunthorpe v Worthing -> out/Scunthorpe_v_Worthing.txt
-Kidderminster v Halifax -> out/Kidderminster_v_Halifax.txt
-    !! Kidderminster: Ambiguous team name "Kidderminster".
-    !! Halifax: Ambiguous team name "Halifax".
-Farnham Town v Ebbsfleet -> out/Farnham_Town_v_Ebbsfleet.txt
-    !! Ebbsfleet: Ambiguous team name "Ebbsfleet".
-Forfar v Spartans -> out/Forfar_v_Spartans.txt
-East Kilbride v Alloa -> out/East_Kilbride_v_Alloa.txt
-Requests used: API-Football 401, Matchbook 0
+RUN 2026-11-14 12:47 local | 9 match(es)
+id:1377 v Boreham Wood -> out/id_1377_v_Boreham_Wood.txt
+Partick v id:903 -> out/Partick_v_id_903.txt
+id:7721 v id:8660 -> out/id_7721_v_id_8660.txt
+Tottenham Hotspur W v Everton W -> out/Tottenham_Hotspur_W_v_Everton_W.txt
+Dartford v id:7612 -> out/Dartford_v_id_7612.txt
+id:1387 v Raith -> out/id_1387_v_Raith.txt
+Carlisle v Boston United -> out/Carlisle_v_Boston_United.txt
+id:4695 v id:1841 -> out/id_4695_v_id_1841.txt
+Farnham Town v id:1840 -> out/Farnham_Town_v_id_1840.txt
+Requests used: API-Football 225, Matchbook 0

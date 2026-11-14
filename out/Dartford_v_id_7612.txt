@@ -1,0 +1,115 @@
+MATCH Dartford v id:7612 | fetched 2026-11-14 12:47 local
+
+FORM DATA Dartford v id:7612 | source API-Football | 2026-11-14 12:47 UTC
+H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
+
+=== Dartford (id 4690): last 20 finished games ===
+2026-11-07 H 4-1 v Eastbourne Borough | Non League Premier - Isthmian | ?
+2026-11-03 A 2-1 v Lewes | Non League Premier - Isthmian | ?
+2026-10-31 A 3-4 v Aveley | Non League Premier - Isthmian | ?
+2026-10-24 H 3-2 v Three Bridges | FA Trophy | ?
+2026-10-20 A 0-3 v Brentwood Town | Non League Premier - Isthmian | ?
+2026-10-17 A 1-2 v Whyteleafe | Non League Premier - Isthmian | ?
+2026-10-10 H 2-1 v Wingate & Finchley | Non League Premier - Isthmian | ?
+2026-10-06 H 1-2 v Ramsgate | Non League Premier - Isthmian | ?
+2026-10-03 A 1-2 v Tadley Calleva | FA Cup | ?
+2026-09-29 H 2-1 v Whitehawk | Non League Premier - Isthmian | ?
+2026-09-26 A 3-0 v Leiston | FA Trophy | ?
+2026-09-19 H 4-2 v Hayes & Yeading United | FA Cup | ?
+2026-09-15 A 2-0 v Enfield Town | Non League Premier - Isthmian | ?
+2026-09-12 A 3-0 v Carshalton Athletic | Non League Premier - Isthmian | ?
+2026-09-08 H 2-0 v Westfield (Surrey) | FA Cup | ?
+2026-09-05 A 1-1 v Westfield (Surrey) | FA Cup | ?
+2026-08-31 H 1-0 v Chatham Town | Non League Premier - Isthmian | ?
+2026-08-28 A 1-2 v Burgess Hill Town | Non League Premier - Isthmian | ?
+2026-08-22 H 0-3 v Welling United | Non League Premier - Isthmian | ?
+2026-08-15 A 2-1 v Maldon & Tiptree | Non League Premier - Isthmian | ?
+Listed home: 9 games, scored 19 (2.11), conceded 12 (1.33), blanks 1, clean sheets 2
+Listed away: 11 games, scored 19 (1.73), conceded 16 (1.45), blanks 1, clean sheets 3
+All: 20 games, scored 38 (1.90), conceded 28 (1.40), blanks 2, clean sheets 5
+
+=== AFC Totton (id 7612): last 20 finished games ===
+2026-11-07 A 3-2 v Horsham | National League - South | Horsham
+2026-10-31 H 1-3 v Chelmsford City | National League - South | ?
+2026-10-27 H 1-0 v Torquay | National League - South | ?
+2026-10-24 A 3-1 v Hemel Hempstead Town | National League - South | Hemel Hempstead
+2026-10-17 A 1-2 v Folkestone Invicta | National League - South | ?
+2026-10-13 A 0-5 v Ebbsfleet United | National League - South | Northfleet
+2026-10-10 H 0-1 v Walton & Hersham | National League - South | Totton
+2026-09-26 A 0-2 v Dover | National League - South | Dover
+2026-09-19 H 0-2 v Gloucester City | FA Cup | ?
+2026-09-12 H 0-1 v Slough Town | National League - South | Totton
+2026-09-08 A 1-3 v Weston-super-Mare | National League - South | Weston
+2026-09-05 H 4-1 v Hampton & Richmond | National League - South | Totton
+2026-08-31 A 1-1 v Maidenhead | National League - South | Maidenhead
+2026-08-29 H 0-4 v Chesham United | National League - South | Totton
+2026-08-18 H 0-3 v Dorking Wanderers | National League - South | Totton
+2026-08-15 H 1-0 v Billericay Town | National League - South | Totton
+2026-08-08 A 1-0 v Farnham Town | National League - South | Farnham
+2026-07-11 H 2-2 v Sutton Utd | Friendlies Clubs | ?
+2026-04-25 H 1-6 v Farnborough | National League - South | Totton, Hampshire
+2026-04-18 A 3-2 v Eastbourne Borough | National League - South | Eastbourne, East Sussex
+Listed home: 11 games, scored 10 (0.91), conceded 23 (2.09), blanks 5, clean sheets 2
+Listed away: 9 games, scored 13 (1.44), conceded 18 (2.00), blanks 2, clean sheets 1
+All: 20 games, scored 23 (1.15), conceded 41 (2.05), blanks 7, clean sheets 3
+
+TABLE FOR Dartford
+LEAGUE TABLE Non League Premier - Isthmian 2026 | 22 teams | 173 games played
+League averages per game: home 1.95, away 1.47, total 3.43
+#   team                   Pts | home P GF-GA  | away P GF-GA  | all P GF-GA
+1   Enfield Town            37 |  9  21-11      |  7  24-7       | 16  45-18
+2   Welling United          37 |  9  23-3       |  8  13-15      | 17  36-18
+3   Eastbourne Borough      34 |  9  19-8       |  7  12-10      | 16  31-18
+4   Dartford                30 |  7  11-8       |  9  17-15      | 16  28-23
+5   Lewes                   30 |  8  12-10      |  9  14-12      | 17  26-22
+6   Ramsgate                25 |  7  20-6       |  8  13-13      | 15  33-19
+7   Carshalton Athletic     25 |  8  11-13      |  9  16-21      | 17  27-34
+8   Leatherhead             24 |  6  15-12      |  8  13-9       | 14  28-21
+9   St Albans City          23 |  6  15-8       |  7  10-11      | 13  25-19
+10  Chatham Town            22 |  8  18-11      |  8  10-14      | 16  28-25
+11  Wingate & Finchley      22 |  8  15-12      |  7  13-17      | 15  28-29
+12  Burgess Hill Town       22 |  8  16-13      |  8  10-15      | 16  26-28
+13  Whyteleafe              21 |  9  22-14      |  7   6-13      | 16  28-27
+14  Dulwich Hamlet          21 |  8  18-12      |  9  11-21      | 17  29-33
+15  Aveley                  20 |  9  16-17      |  7   9-11      | 16  25-28
+16  Maldon & Tiptree        20 | 10  14-19      |  8  12-21      | 18  26-40
+17  Cray Wanderers          18 |  6  12-7       |  5  13-8       | 11  25-15
+18  Cheshunt                18 |  7  11-6       |  9   8-21      | 16  19-27
+19  Brentwood Town          16 |  8  19-15      |  7   6-13      | 15  25-28
+20  Three Bridges           10 |  8  14-21      |  8  11-21      | 16  25-42
+21  Whitehawk                8 |  8   9-17      |  9   7-22      | 17  16-39
+22  Stanway Rovers           8 |  7   7-12      |  9   7-28      | 16  14-40
+
+TABLE FOR AFC Totton
+LEAGUE TABLE National League - South 2026 | 24 teams | 186 games played
+League averages per game: home 1.54, away 1.43, total 2.97
+#   team                   Pts | home P GF-GA  | away P GF-GA  | all P GF-GA
+1   Ebbsfleet United        35 |  8  20-4       |  8  18-8       | 16  38-12
+2   Maidstone Utd           32 |  8  11-11      |  8  17-8       | 16  28-19
+3   Salisbury               31 |  7  17-4       |  8  10-6       | 15  27-10
+4   Truro City              30 |  7  15-4       |  7  12-8       | 14  27-12
+5   Farnham Town            29 |  8  19-12      |  8  13-8       | 16  32-20
+6   Dorking Wanderers       27 |  8  18-15      |  7  16-8       | 15  34-23
+7   Billericay Town         26 |  8  24-9       |  6  10-9       | 14  34-18
+8   Chelmsford City         25 |  8   9-9       |  8  16-8       | 16  25-17
+9   Dagenham & Redbridge    25 |  8  10-4       |  8   5-9       | 16  15-13
+10  Tonbridge Angels        24 |  8  11-10      |  8  17-9       | 16  28-19
+11  Torquay                 23 |  7  13-8       |  8  11-9       | 15  24-17
+12  Horsham                 22 |  8   9-12      |  8  14-7       | 16  23-19
+13  Dover                   22 |  8  12-12      |  6   8-7       | 14  20-19
+14  Weston-super-Mare       21 |  8  18-7       |  7   7-15      | 15  25-22
+15  Folkestone Invicta      20 |  7  14-6       |  8   8-12      | 15  22-18
+16  AFC Totton              19 |  8   7-13      |  8  10-16      | 16  17-29
+17  Farnborough             17 |  8   5-19      |  8   8-14      | 16  13-33
+18  Maidenhead              16 |  8   5-10      |  8  10-10      | 16  15-20
+19  Braintree               16 |  9  11-17      |  7  11-23      | 16  22-40
+20  Hemel Hempstead Town    15 |  8   6-14      |  9   9-12      | 17  15-26
+21  Chesham United          11 |  7   9-19      |  8  11-14      | 15  20-33
+22  Hampton & Richmond      10 |  7  13-15      |  9   6-22      | 16  19-37
+23  Walton & Hersham         8 |  7   3-18      |  8   8-18      | 15  11-36
+24  Slough Town              7 |  8   7-14      |  8  11-26      | 16  18-40
+
+(25 API-Football requests used)
+
+----------------------------------------------------------------------
+MATCHBOOK: skipped (switched off for this run)

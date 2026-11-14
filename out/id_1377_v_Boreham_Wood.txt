@@ -1,11 +1,33 @@
-MATCH Yeovil v Boreham Wood | fetched 2026-11-14 12:45 local
+MATCH id:1377 v Boreham Wood | fetched 2026-11-14 12:47 local
 
-FORM DATA Yeovil v Boreham Wood | source API-Football | 2026-11-14 12:45 UTC
+FORM DATA id:1377 v Boreham Wood | source API-Football | 2026-11-14 12:47 UTC
 H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
 
-"Yeovil" matches several teams. Use id:<number> instead of the name:
-  id:1377   Yeovil Town (England)
-  id:1849   Yeovil Town W (England)
+=== Yeovil Town (id 1377): last 20 finished games ===
+2026-11-07 A 3-4 v Chesterfield | FA Cup | Chesterfield
+2026-10-31 A 0-2 v FC Halifax Town | National League | Halifax
+2026-10-27 A 2-1 v AFC Hornchurch | National League | London
+2026-10-24 H 1-2 v Altrincham | National League | Yeovil
+2026-10-20 H 5-2 v Leatherhead | FA Cup | Yeovil
+2026-10-17 A 3-3 v Leatherhead | FA Cup | Leatherhead
+2026-10-10 A 6-0 v Wealdstone | National League | London
+2026-10-03 H 6-0 v Boston United | National League | Yeovil
+2026-09-29 H 1-1 v Worthing | National League | Yeovil
+2026-09-26 A 1-0 v Kidderminster Harriers | National League | Kidderminster
+2026-09-18 H 4-1 v Solihull Moors | National League | Yeovil
+2026-09-15 A 1-1 v Aldershot Town | National League | Aldershot
+2026-09-12 H 1-4 v AFC Fylde | National League | Yeovil
+2026-09-05 A 2-3 v Southend | National League | Southend on Sea
+2026-08-31 H 3-2 v Tamworth | National League | Yeovil
+2026-08-28 A 2-1 v Barrow | National League | Barrow in Furness
+2026-08-22 H 3-0 v Gateshead | National League | Yeovil
+2026-08-15 H 1-1 v Carlisle | National League | Yeovil
+2026-08-08 A 1-1 v Scunthorpe | National League | Scunthorpe
+2026-08-01 H 1-2 v Newport County | Friendlies Clubs | ?
+Listed home: 10 games, scored 26 (2.60), conceded 15 (1.50), blanks 0, clean sheets 2
+Listed away: 10 games, scored 21 (2.10), conceded 16 (1.60), blanks 1, clean sheets 2
+All: 20 games, scored 47 (2.35), conceded 31 (1.55), blanks 1, clean sheets 4
+
 === Boreham Wood (id 1830): last 20 finished games ===
 2026-11-07 H 0-3 v Wigan | FA Cup | Borehamwood
 2026-10-31 H 4-3 v Hartlepool | National League | Borehamwood
@@ -31,13 +53,7 @@ Listed home: 13 games, scored 40 (3.08), conceded 18 (1.38), blanks 1, clean she
 Listed away: 7 games, scored 16 (2.29), conceded 5 (0.71), blanks 0, clean sheets 3
 All: 20 games, scored 56 (2.80), conceded 23 (1.15), blanks 1, clean sheets 4
 
-(retrying Yeovil using the opponent's country, England)
-"Yeovil" matches several teams. Use id:<number> instead of the name:
-  id:1377   Yeovil Town (England)
-  id:1849   Yeovil Town W (England)
-!! Yeovil: Ambiguous team name "Yeovil".
-
-TABLE FOR Boreham Wood
+TABLE FOR Yeovil Town
 LEAGUE TABLE National League 2026 | 24 teams | 189 games played
 League averages per game: home 1.73, away 1.43, total 3.16
 #   team                   Pts | home P GF-GA  | away P GF-GA  | all P GF-GA
@@ -66,7 +82,9 @@ League averages per game: home 1.73, away 1.43, total 3.16
 23  Scunthorpe              10 |  6  11-10      |  9   8-20      | 15  19-30
 24  Gateshead                4 |  6   5-11      |  9   4-23      | 15   9-34
 
-(16 API-Football requests used)
+(Boreham Wood: same table as Yeovil Town, shown above)
+
+(26 API-Football requests used)
 
 ----------------------------------------------------------------------
 MATCHBOOK: skipped (switched off for this run)

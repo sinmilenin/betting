@@ -1,6 +1,6 @@
-MATCH Partick v Inverness | fetched 2026-11-14 12:45 local
+MATCH Partick v id:903 | fetched 2026-11-14 12:47 local
 
-FORM DATA Partick v Inverness | source API-Football | 2026-11-14 12:45 UTC
+FORM DATA Partick v id:903 | source API-Football | 2026-11-14 12:47 UTC
 H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
 
 === Partick (id 901): last 20 finished games ===
@@ -28,14 +28,30 @@ Listed home: 8 games, scored 13 (1.62), conceded 5 (0.62), blanks 2, clean sheet
 Listed away: 12 games, scored 17 (1.42), conceded 8 (0.67), blanks 2, clean sheets 5
 All: 20 games, scored 30 (1.50), conceded 13 (0.65), blanks 4, clean sheets 11
 
-"Inverness" matches several teams. Use id:<number> instead of the name:
-  id:903    Inverness CT (Scotland)
-  id:23348  Inverness CT W (Scotland)
-(retrying Inverness using the opponent's country, Scotland)
-"Inverness" matches several teams. Use id:<number> instead of the name:
-  id:903    Inverness CT (Scotland)
-  id:23348  Inverness CT W (Scotland)
-!! Inverness: Ambiguous team name "Inverness".
+=== Inverness CT (id 903): last 20 finished games ===
+2026-11-07 H 1-1 v Livingston | Championship | Inverness
+2026-11-03 H 1-0 v Montrose | Challenge Cup | Inverness
+2026-10-31 A 1-5 v Dunfermline | Championship | Dunfermline
+2026-10-24 A 2-0 v Raith Rovers | Championship | Kirkcaldy
+2026-10-17 H 2-0 v Arbroath | Championship | Inverness
+2026-10-13 A 1-2 v Queen's Park | Championship | Glasgow
+2026-10-10 H 2-0 v Stenhousemuir | Championship | Inverness
+2026-09-25 H 2-0 v Morton | Championship | Inverness
+2026-09-19 A 2-2 v Livingston | Championship | Livingston
+2026-09-12 A 3-1 v Ayr Utd | Championship | Ayr
+2026-09-05 H 0-2 v Raith Rovers | Championship | Inverness
+2026-08-29 A 1-3 v Stenhousemuir | Championship | Stenhousemuir
+2026-08-21 H 1-1 v Partick | Championship | Inverness
+2026-08-16 A 2-6 v Heart Of Midlothian | League Cup | Edinburgh
+2026-08-08 A 0-0 v Arbroath | Championship | Arbroath
+2026-08-01 H 0-0 v Dunfermline | Championship | Inverness
+2026-07-25 A 1-0 v Morton | League Cup | Greenock
+2026-07-21 H 1-0 v ST Johnstone | League Cup | Inverness
+2026-07-18 A 2-0 v Linlithgow Rose | League Cup | Linlithgow
+2026-07-11 H 1-1 v East Fife | League Cup | Inverness [PEN, 90-min score shown]
+Listed home: 10 games, scored 11 (1.10), conceded 5 (0.50), blanks 2, clean sheets 6
+Listed away: 10 games, scored 15 (1.50), conceded 19 (1.90), blanks 1, clean sheets 4
+All: 20 games, scored 26 (1.30), conceded 24 (1.20), blanks 3, clean sheets 10
 
 TABLE FOR Partick
 LEAGUE TABLE Championship 2026 | 10 teams | 69 games played
@@ -52,7 +68,9 @@ League averages per game: home 1.25, away 1.00, total 2.25
 9   Morton                  13 |  7   9-13      |  6   7-10      | 13  16-23
 10  Queen's Park             7 |  7   5-10      |  7   3-13      | 14   8-23
 
-(15 API-Football requests used)
+(Inverness CT: same table as Partick, shown above)
+
+(25 API-Football requests used)
 
 ----------------------------------------------------------------------
 MATCHBOOK: skipped (switched off for this run)
