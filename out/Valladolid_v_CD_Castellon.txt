@@ -1,6 +1,6 @@
-MATCH Valladolid v Castellón | fetched 2026-11-14 10:29 local
+MATCH Valladolid v CD Castellon | fetched 2026-11-14 10:30 local
 
-FORM DATA Valladolid v Castellón | source API-Football | 2026-11-14 10:29 UTC
+FORM DATA Valladolid v CD Castellon | source API-Football | 2026-11-14 10:30 UTC
 H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
 
 === Valladolid (id 720): last 20 finished games ===
@@ -28,7 +28,13 @@ Listed home: 8 games, scored 19 (2.38), conceded 11 (1.38), blanks 2, clean shee
 Listed away: 12 games, scored 15 (1.25), conceded 14 (1.17), blanks 4, clean sheets 2
 All: 20 games, scored 34 (1.70), conceded 25 (1.25), blanks 6, clean sheets 5
 
-!! Castellón: API-Football error: {"search": "The Search field may only contain alpha-numeric characters and spaces."}
+=== CD Castellon U19 (id 28020): last 3 finished games ===
+2026-07-26 A 1-2 v Valencia U20 | COTIF Tournament | ?
+2026-07-24 A 1-0 v Elche U20 | COTIF Tournament | ?
+2026-07-22 H 0-3 v Mauritania U20 | COTIF Tournament | ?
+Listed home: 1 games, scored 0 (0.00), conceded 3 (3.00), blanks 1, clean sheets 0
+Listed away: 2 games, scored 2 (1.00), conceded 2 (1.00), blanks 0, clean sheets 1
+All: 3 games, scored 2 (0.67), conceded 5 (1.67), blanks 1, clean sheets 1
 
 TABLE FOR Valladolid
 LEAGUE TABLE Segunda División 2026 | 22 teams | 141 games played
@@ -57,7 +63,9 @@ League averages per game: home 1.56, away 1.17, total 2.73
 21  Albacete                10 |  6   7-9       |  7   6-15      | 13  13-24
 22  AD Ceuta FC              5 |  7   6-12      |  6   4-18      | 13  10-30
 
-(14 API-Football requests used)
+(no league table available for CD Castellon U19: tried COTIF Tournament 2026)
+
+(19 API-Football requests used)
 
 ----------------------------------------------------------------------
 MATCHBOOK: skipped (switched off for this run)
