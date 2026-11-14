@@ -1,4 +1,4 @@
-RUN 2026-11-14 12:03 local | 1 match(es)
-Al-Dhafra v Ajman -> out/Al_Dhafra_v_Ajman.txt
-    !! Al-Dhafra: API-Football error: {"search": "The Search field may only contain alpha-numeric characters and spaces."}
-Requests used: API-Football 14, Matchbook 0
+RUN 2026-11-14 12:04 local | 1 match(es)
+Dhafra v Ajman -> out/Dhafra_v_Ajman.txt
+    !! Dhafra: Ambiguous team name "Dhafra".
+Requests used: API-Football 15, Matchbook 0
