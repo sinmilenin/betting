@@ -1,4 +1,4 @@
-# scan 14.11 14:26 run 1 (new fixtures)
-Southend v Aldershot Town | n=20 | xg=10
-Chojniczanka Chojnice v Zawisza Bydgoszcz | n=20 | xg=10
-Hatta v Al Ain | n=20 | xg=10
+# scan 14.11 14:26 run 2 (Hatta by id; plus two fixtures without a form file)
+id:2869 v Al Ain | n=20 | xg=10
+Eastleigh v AFC Fylde | n=20 | xg=10
+Sweden U19 v Lithuania U19 | n=20 | xg=10
