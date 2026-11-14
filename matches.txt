@@ -1,2 +1,3 @@
-# scan 14.11 19:41 (retry Libertad by id)
-Deportivo Recoleta v id:1179 | n=20 | xg=10
+# scan 14.11 20:26
+Banfield v Boca Juniors | n=20 | xg=10
+Marseille W v Paris Saint Germain W | n=20 | xg=10
