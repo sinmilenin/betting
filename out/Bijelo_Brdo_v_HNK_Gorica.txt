@@ -1,6 +1,6 @@
-MATCH Bijelo Brdo v Gorica | fetched 2026-11-14 09:47 local
+MATCH Bijelo Brdo v HNK Gorica | fetched 2026-11-14 09:49 local
 
-FORM DATA Bijelo Brdo v Gorica | source API-Football | 2026-11-14 09:47 UTC
+FORM DATA Bijelo Brdo v HNK Gorica | source API-Football | 2026-11-14 09:49 UTC
 H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
 
 === Bsk Bijelo Brdo (id 1487): last 20 finished games ===
@@ -28,30 +28,30 @@ Listed home: 9 games, scored 7 (0.78), conceded 7 (0.78), blanks 3, clean sheets
 Listed away: 11 games, scored 15 (1.36), conceded 15 (1.36), blanks 2, clean sheets 3
 All: 20 games, scored 22 (1.10), conceded 22 (1.10), blanks 5, clean sheets 8
 
-=== Gorica (id 4364): last 20 finished games ===
-2026-05-23 A 0-2 v Krško | 2. SNL | ?
-2026-05-15 H 1-0 v Ilirija | 2. SNL | Nova Gorica
-2026-05-11 H 1-1 v Dravinja | 2. SNL | Nova Gorica
-2026-05-06 A 4-1 v Krka | 2. SNL | Novo Mesto
-2026-05-02 H 2-3 v Rudar | 2. SNL | Nova Gorica
-2026-04-25 A 3-0 v Slovan Ljubljana | 2. SNL | ?
-2026-04-18 H 0-1 v Triglav | 2. SNL | Nova Gorica
-2026-04-10 A 0-1 v Brinje-Grosuplje | 2. SNL | ?
-2026-04-03 H 2-3 v Beltinci | 2. SNL | Nova Gorica
-2026-03-29 A 2-3 v Bilje | 2. SNL | ?
-2026-03-21 H 1-1 v Nafta | 2. SNL | Nova Gorica
-2026-03-14 A 2-1 v Bistrica | 2. SNL | ?
-2026-03-07 H 0-0 v Tabor Sežana | 2. SNL | Nova Gorica
-2026-02-28 A 1-2 v Dekani | 2. SNL | ?
-2025-11-22 H 0-0 v Jesenice | 2. SNL | Nova Gorica
-2025-11-14 H 1-2 v Krško | 2. SNL | Nova Gorica
-2025-11-09 A 1-1 v Ilirija | 2. SNL | ?
-2025-11-02 A 1-2 v Dravinja | 2. SNL | ?
-2025-10-24 H 1-3 v Krka | 2. SNL | Nova Gorica
-2025-10-18 A 1-2 v Rudar | 2. SNL | Velenje
-Listed home: 10 games, scored 9 (0.90), conceded 14 (1.40), blanks 3, clean sheets 3
-Listed away: 10 games, scored 15 (1.50), conceded 15 (1.50), blanks 2, clean sheets 1
-All: 20 games, scored 24 (1.20), conceded 29 (1.45), blanks 5, clean sheets 4
+=== HNK Gorica (id 1068): last 20 finished games ===
+2026-11-07 H 3-5 v NK Slaven Belupo | HNL | Velika Gorica | xG 1.19-3.85
+2026-10-31 A 0-5 v HNK Hajduk Split | HNL | Split | xG 0.31-2.13
+2026-10-24 H 0-0 v NK Lokomotiva Zagreb | HNL | Velika Gorica | xG 1.31-0.80
+2026-10-17 A 1-1 v NK Osijek | HNL | Osijek | xG 0.52-1.65
+2026-10-09 H 1-2 v Rudes | HNL | Velika Gorica | xG 1.25-1.61
+2026-10-02 H 3-3 v Bravo | Friendlies Clubs | ?
+2026-09-28 A 1-1 v Maribor | Friendlies Clubs | ?
+2026-09-19 A 1-0 v Istra 1961 | HNL | Pula | xG 0.61-1.21
+2026-09-14 H 2-2 v NK Varazdin | HNL | Velika Gorica | xG 0.85-1.55
+2026-09-09 A 1-1 v Uskok Klis | Cup | ? [AET, 90-min score shown]
+2026-09-05 A 0-1 v Dinamo Zagreb | HNL | Zagreb
+2026-08-31 H 0-0 v HNK Rijeka | HNL | Velika Gorica
+2026-08-22 A 0-2 v NK Slaven Belupo | HNL | Koprivnica
+2026-08-16 H 1-2 v HNK Hajduk Split | HNL | Velika Gorica
+2026-08-08 A 1-3 v NK Lokomotiva Zagreb | HNL | Zagreb
+2026-08-01 H 0-2 v NK Osijek | HNL | Velika Gorica
+2026-07-23 H 0-2 v Shakhtar Donetsk | Friendlies Clubs | ?
+2026-07-19 A 1-2 v FC St. Pauli | Friendlies Clubs | ?
+2026-07-16 H 1-0 v Epitsentr Dunayivtsi | Friendlies Clubs | ?
+2026-07-13 H 0-2 v Göztepe | Friendlies Clubs | ?
+Listed home: 11 games, scored 11 (1.00), conceded 20 (1.82), blanks 5, clean sheets 3
+Listed away: 9 games, scored 6 (0.67), conceded 16 (1.78), blanks 3, clean sheets 1
+All: 20 games, scored 17 (0.85), conceded 36 (1.80), blanks 8, clean sheets 4
 
 TABLE FOR Bsk Bijelo Brdo
 LEAGUE TABLE First NL 2026 | 16 teams | 96 games played
@@ -74,26 +74,20 @@ League averages per game: home 1.32, away 1.16, total 2.48
 15  Dugopolje               11 |  7   7-8       |  5   7-11      | 12  14-19
 16  Hrvace                  11 |  5   8-6       |  7   3-10      | 12  11-16
 
-TABLE FOR Gorica
-LEAGUE TABLE 2. SNL 2025 | 16 teams | 240 games played
-League averages per game: home 1.53, away 1.29, total 2.82
+TABLE FOR HNK Gorica
+LEAGUE TABLE HNL 2026 | 10 teams | 64 games played
+League averages per game: home 1.73, away 1.33, total 3.06
 #   team                   Pts | home P GF-GA  | away P GF-GA  | all P GF-GA
-1   Brinje-Grosuplje        75 | 15  38-10      | 15  32-16      | 30  70-26
-2   Nafta                   75 | 15  37-13      | 15  28-10      | 30  65-23
-3   Triglav                 64 | 15  41-15      | 15  31-13      | 30  72-28
-4   Beltinci                60 | 15  30-16      | 15  25-9       | 30  55-25
-5   Tabor Sežana            50 | 15  14-9       | 15  23-24      | 30  37-33
-6   Bistrica                45 | 15  30-17      | 15  20-19      | 30  50-36
-7   Dravinja                37 | 15  17-20      | 15  15-24      | 30  32-44
-8   Rudar                   37 | 15  27-15      | 15  19-24      | 30  46-39
-9   Bilje                   34 | 15  14-11      | 15  13-36      | 30  27-47
-10  Dekani                  33 | 15  29-23      | 15  11-23      | 30  40-46
-11  Slovan Ljubljana        32 | 15  19-24      | 15  13-28      | 30  32-52
-12  Krka                    29 | 15  12-29      | 15  20-22      | 30  32-51
-13  Ilirija                 27 | 15  18-27      | 15  20-25      | 30  38-52
-14  Krško                   26 | 15  13-28      | 15  11-34      | 30  24-62
-15  Gorica                  22 | 15  16-22      | 15  15-23      | 30  31-45
-16  Jesenice                18 | 15  13-30      | 15  13-38      | 30  26-68
+1   HNK Hajduk Split        29 |  7  17-3       |  6  10-8       | 13  27-11
+2   Dinamo Zagreb           25 |  6  15-4       |  6  13-11      | 12  28-15
+3   NK Osijek               20 |  7  10-8       |  6  12-10      | 13  22-18
+4   Istra 1961              19 |  7  15-11      |  6   9-8       | 13  24-19
+5   NK Varazdin             19 |  7   8-6       |  6   9-8       | 13  17-14
+6   HNK Rijeka              18 |  5  13-5       |  7   6-13      | 12  19-18
+7   NK Slaven Belupo        16 |  6  10-13      |  7   9-15      | 13  19-28
+8   Rudes                   16 |  6   9-15      |  7   7-12      | 13  16-27
+9   NK Lokomotiva Zagreb    11 |  6   7-7       |  7   7-14      | 13  14-21
+10  HNK Gorica               7 |  7   7-13      |  6   3-12      | 13  10-25
 
 (26 API-Football requests used)
 
