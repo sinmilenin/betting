@@ -1,6 +1,3 @@
-# scan 14.11 15:56 run 1
-NAC Breda v Emmen | n=20 | xg=10
-Al Wasl v Al Nasr | n=20 | xg=10
-Real Union v Cultural Leonesa | n=20 | xg=10
-Carpi v Giana Erminio | n=20 | xg=10
-Wolfsburg W v Bayern Munich W | n=20 | xg=10
+# scan 14.11 15:56 run 2
+id:9586 v Cultural Leonesa | n=20 | xg=10
+Al-Wasl v Al Nasr | n=20 | xg=10
