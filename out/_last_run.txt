@@ -1,6 +1,4 @@
-RUN 2026-11-14 15:00 local | 2 match(es)
-id:9586 v Cultural Leonesa -> out/id_9586_v_Cultural_Leonesa.txt
-Al-Wasl v Al Nasr -> out/Al_Wasl_v_Al_Nasr.txt
-    !! Al-Wasl: API-Football error: {"search": "The Search field may only contain alpha-numeric characters and spaces."}
-    !! Al Nasr: Ambiguous team name "Al Nasr".
-Requests used: API-Football 27, Matchbook 0
+RUN 2026-11-14 15:01 local | 1 match(es)
+Wasl v id:10155 -> out/Wasl_v_id_10155.txt
+    !! Wasl: Ambiguous team name "Wasl".
+Requests used: API-Football 15, Matchbook 0
