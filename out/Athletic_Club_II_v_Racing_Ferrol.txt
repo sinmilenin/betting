@@ -1,7 +1,32 @@
-MATCH Bilbao Athletic v Racing Ferrol | fetched 2026-11-14 11:14 local
+MATCH Athletic Club II v Racing Ferrol | fetched 2026-11-14 11:15 local
 
-FORM DATA Bilbao Athletic v Racing Ferrol | source API-Football | 2026-11-14 11:14 UTC
+FORM DATA Athletic Club II v Racing Ferrol | source API-Football | 2026-11-14 11:15 UTC
 H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
+
+=== Athletic Club II (id 9579): last 20 finished games ===
+2026-11-08 A 0-2 v Mérida AD | Primera División RFEF - Group 1 | ?
+2026-10-31 H 3-1 v Cacereño | Primera División RFEF - Group 1 | Lezama
+2026-10-24 A 1-2 v Unionistas de Salamanca | Primera División RFEF - Group 1 | ?
+2026-10-18 A 1-2 v CD Coria | Primera División RFEF - Group 1 | Coria
+2026-10-11 H 0-0 v Real Unión | Primera División RFEF - Group 1 | Lezama
+2026-10-04 H 1-3 v Extremadura 1924 | Primera División RFEF - Group 1 | Lezama
+2026-09-26 A 3-0 v Arenas Getxo | Primera División RFEF - Group 1 | Getxo
+2026-09-20 H 2-2 v Deportivo La Coruña II | Primera División RFEF - Group 1 | Lezama
+2026-09-12 A 3-1 v Pontevedra | Primera División RFEF - Group 1 | Pontevedra
+2026-09-06 H 2-1 v Real Avilés | Primera División RFEF - Group 1 | Lezama
+2026-08-29 A 1-1 v Zamora | Primera División RFEF - Group 1 | Zamora
+2026-08-18 A 3-0 v Laredo | Friendlies Clubs | ?
+2026-08-08 A 1-0 v Amorebieta | Friendlies Clubs | ?
+2026-08-01 H 2-0 v Cultural Leonesa | Friendlies Clubs | ?
+2026-07-29 A 1-0 v Sestao River | Friendlies Clubs | ?
+2026-07-25 A 1-1 v Burgos | Friendlies Clubs | ?
+2026-05-23 A 0-1 v Ponferradina | Primera División RFEF - Group 1 | Ponferrada
+2026-05-17 H 2-1 v Guadalajara | Primera División RFEF - Group 1 | Lezama
+2026-05-09 A 0-4 v Pontevedra | Primera División RFEF - Group 1 | Pontevedra
+2026-05-03 H 2-2 v Ourense CF | Primera División RFEF - Group 1 | Lezama
+Listed home: 8 games, scored 14 (1.75), conceded 10 (1.25), blanks 1, clean sheets 2
+Listed away: 12 games, scored 15 (1.25), conceded 14 (1.17), blanks 3, clean sheets 4
+All: 20 games, scored 29 (1.45), conceded 24 (1.20), blanks 4, clean sheets 6
 
 === Racing Ferrol (id 9409): last 20 finished games ===
 2026-11-07 H 1-2 v UD Logroñés | Primera División RFEF - Group 1 | Ferrol
@@ -28,9 +53,7 @@ Listed home: 12 games, scored 13 (1.08), conceded 14 (1.17), blanks 4, clean she
 Listed away: 8 games, scored 6 (0.75), conceded 9 (1.12), blanks 3, clean sheets 2
 All: 20 games, scored 19 (0.95), conceded 23 (1.15), blanks 7, clean sheets 8
 
-!! Bilbao Athletic: No team found for "Bilbao Athletic".
-
-TABLE FOR Racing Ferrol
+TABLE FOR Athletic Club II
 LEAGUE TABLE Primera División RFEF - Group 1 2026 | 20 teams | 111 games played
 League averages per game: home 1.41, away 1.11, total 2.51
 #   team                   Pts | home P GF-GA  | away P GF-GA  | all P GF-GA
@@ -55,7 +78,9 @@ League averages per game: home 1.41, away 1.11, total 2.51
 19  Arenas Getxo            11 |  6   6-11      |  5   4-12      | 11  10-23
 20  UD Ourense               8 |  5   2-4       |  6   2-12      | 11   4-16
 
-(14 API-Football requests used)
+(Racing Ferrol: same table as Athletic Club II, shown above)
+
+(25 API-Football requests used)
 
 ----------------------------------------------------------------------
 MATCHBOOK: skipped (switched off for this run)

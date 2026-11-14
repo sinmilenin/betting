@@ -1,9 +1,5 @@
-RUN 2026-11-14 11:14 local | 5 match(es)
-Bilbao Athletic v Racing Ferrol -> out/Bilbao_Athletic_v_Racing_Ferrol.txt
-    !! Bilbao Athletic: No team found for "Bilbao Athletic".
-VSK Aarhus v Middelfart -> out/VSK_Aarhus_v_Middelfart.txt
-    !! VSK Aarhus: Ambiguous team name "VSK Aarhus".
-Renate v Desenzano -> out/Renate_v_Desenzano.txt
-Arzignano v Alcione -> out/Arzignano_v_Alcione.txt
-Chelsea W v Manchester City W -> out/Chelsea_W_v_Manchester_City_W.txt
-Requests used: API-Football 103, Matchbook 0
+RUN 2026-11-14 11:15 local | 2 match(es)
+Athletic Club II v Racing Ferrol -> out/Athletic_Club_II_v_Racing_Ferrol.txt
+VSK Århus v Middelfart -> out/VSK_rhus_v_Middelfart.txt
+    !! VSK Århus: API-Football error: {"search": "The Search field may only contain alpha-numeric characters and spaces."}
+Requests used: API-Football 39, Matchbook 0

@@ -1,11 +1,8 @@
-MATCH VSK Aarhus v Middelfart | fetched 2026-11-14 11:14 local
+MATCH VSK Århus v Middelfart | fetched 2026-11-14 11:15 local
 
-FORM DATA VSK Aarhus v Middelfart | source API-Football | 2026-11-14 11:14 UTC
+FORM DATA VSK Århus v Middelfart | source API-Football | 2026-11-14 11:15 UTC
 H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
 
-"VSK Aarhus" matches several teams. Use id:<number> instead of the name:
-  id:11632  VSK Aarhus II (Denmark)
-  id:13986  VSK Aarhus W (Denmark)
 === Middelfart (id 6042): last 20 finished games ===
 2026-11-07 H 3-2 v Naestved | 2. Division | ?
 2026-10-31 A 1-2 v Fremad Amager | 2. Division | ?
@@ -31,11 +28,7 @@ Listed home: 10 games, scored 25 (2.50), conceded 14 (1.40), blanks 0, clean she
 Listed away: 10 games, scored 15 (1.50), conceded 13 (1.30), blanks 1, clean sheets 4
 All: 20 games, scored 40 (2.00), conceded 27 (1.35), blanks 1, clean sheets 7
 
-(retrying VSK Aarhus using the opponent's country, Denmark)
-"VSK Aarhus" matches several teams. Use id:<number> instead of the name:
-  id:11632  VSK Aarhus II (Denmark)
-  id:13986  VSK Aarhus W (Denmark)
-!! VSK Aarhus: Ambiguous team name "VSK Aarhus".
+!! VSK Århus: API-Football error: {"search": "The Search field may only contain alpha-numeric characters and spaces."}
 
 TABLE FOR Middelfart
 LEAGUE TABLE 2. Division 2026 | 12 teams | 93 games played
@@ -54,7 +47,7 @@ League averages per game: home 1.61, away 1.32, total 2.94
 11  FA 2000                 12 |  7   8-14      |  8   6-14      | 15  14-28
 12  Thisted FC              10 |  8   6-13      |  8   8-18      | 16  14-31
 
-(15 API-Football requests used)
+(14 API-Football requests used)
 
 ----------------------------------------------------------------------
 MATCHBOOK: skipped (switched off for this run)
