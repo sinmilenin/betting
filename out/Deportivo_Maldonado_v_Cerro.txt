@@ -1,0 +1,146 @@
+MATCH Deportivo Maldonado v Cerro | fetched 2026-11-14 17:14 local
+
+FORM DATA Deportivo Maldonado v Cerro | source API-Football | 2026-11-14 17:14 UTC
+H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
+
+=== Deportivo Maldonado (id 2370): last 20 finished games ===
+2026-11-10 H 1-2 v Club Nacional | Copa Uruguay | Maldonado
+2026-11-02 A 0-0 v Albion FC | Primera División | Montevideo
+2026-10-28 A 4-0 v Porongos | Copa Uruguay | Trinidad
+2026-10-24 H 2-1 v Danubio | Primera División | Maldonado
+2026-10-19 A 2-3 v Club Nacional | Primera División | Montevideo
+2026-10-15 H 4-1 v Albion FC | Copa Uruguay | Maldonado
+2026-10-09 H 1-1 v Liverpool Montevideo | Primera División | Maldonado
+2026-10-03 H 3-0 v Central Espanol | Primera División | Maldonado
+2026-09-27 A 2-0 v Atletico Torque | Primera División | Montevideo
+2026-09-23 A 2-1 v Cerro | Copa Uruguay | ?
+2026-09-19 H 2-0 v Cerro Largo | Primera División | Maldonado
+2026-09-13 A 0-1 v Defensor Sporting | Primera División | Montevideo
+2026-09-09 H 4-1 v Wanderers | Copa Uruguay | Maldonado
+2026-09-05 H 2-0 v Wanderers | Primera División | Maldonado
+2026-09-02 A 2-0 v Cerrito | Copa Uruguay | ?
+2026-08-29 A 0-2 v Juventud | Primera División | Las Piedras
+2026-08-22 H 0-0 v Penarol | Primera División | Maldonado
+2026-08-16 A 2-0 v Progreso | Primera División | Montevideo
+2026-08-10 H 2-2 v Racing Montevideo | Primera División | Maldonado
+2026-08-01 H 0-0 v Juventud | Primera División | Maldonado
+Listed home: 11 games, scored 21 (1.91), conceded 8 (0.73), blanks 2, clean sheets 5
+Listed away: 9 games, scored 14 (1.56), conceded 7 (0.78), blanks 3, clean sheets 5
+All: 20 games, scored 35 (1.75), conceded 15 (0.75), blanks 5, clean sheets 10
+
+=== Cerro (id 2362): last 20 finished games ===
+2026-10-31 H 1-2 v Central Espanol | Primera División | Montevideo
+2026-10-25 A 1-3 v Atletico Torque | Primera División | Montevideo
+2026-10-16 H 1-1 v Cerro Largo | Primera División | Montevideo
+2026-10-10 A 3-2 v Defensor Sporting | Primera División | Montevideo
+2026-10-04 H 0-2 v Wanderers | Primera División | Montevideo
+2026-09-27 A 0-0 v Juventud | Primera División | Las Piedras
+2026-09-23 H 1-2 v Deportivo Maldonado | Copa Uruguay | ?
+2026-09-19 H 1-2 v Penarol | Primera División | Montevideo
+2026-09-13 A 3-1 v Progreso | Primera División | Montevideo
+2026-09-10 H 0-2 v Cerrito | Copa Uruguay | Montevideo
+2026-09-06 H 1-0 v Racing Montevideo | Primera División | Montevideo
+2026-09-01 A 1-1 v Wanderers | Copa Uruguay | ?
+2026-08-29 A 1-1 v Boston River | Primera División | Las Piedras
+2026-08-21 A 0-4 v Liverpool Montevideo | Primera División | Montevideo
+2026-08-15 H 2-1 v Albion FC | Primera División | Montevideo
+2026-08-09 A 1-0 v Danubio | Primera División | Montevideo
+2026-08-03 A 1-2 v Defensor Sporting | Primera División | Montevideo
+2026-07-26 H 1-0 v Racing Montevideo | Primera División | Montevideo
+2026-07-12 A 2-1 v Liverpool Montevideo | Primera División | Montevideo
+2026-06-07 H 0-1 v Penarol | Primera División | Montevideo
+Listed home: 10 games, scored 8 (0.80), conceded 13 (1.30), blanks 3, clean sheets 2
+Listed away: 10 games, scored 13 (1.30), conceded 15 (1.50), blanks 2, clean sheets 2
+All: 20 games, scored 21 (1.05), conceded 28 (1.40), blanks 5, clean sheets 4
+
+TABLE FOR Deportivo Maldonado
+LEAGUE TABLE Primera División 2026 | 80 teams | 227 games played
+League averages per game: home 1.34, away 1.10, total 2.44
+#   team                   Pts | home P GF-GA  | away P GF-GA  | all P GF-GA
+1   Penarol                 65 |  0   0-0       |  0   0-0       | 35  52-28 [Primera: Tabla Anual]
+2   Atletico Torque         64 |  0   0-0       |  0   0-0       | 36  61-43 [Primera: Tabla Anual]
+3   Deportivo Maldonado     63 |  0   0-0       |  0   0-0       | 35  54-32 [Primera: Tabla Anual]
+4   Racing Montevideo       61 |  0   0-0       |  0   0-0       | 36  47-33 [Primera: Tabla Anual]
+5   Club Nacional           61 |  0   0-0       |  0   0-0       | 35  53-42 [Primera: Tabla Anual]
+6   Liverpool Montevideo    59 |  0   0-0       |  0   0-0       | 35  47-31 [Primera: Tabla Anual]
+7   Wanderers               51 |  0   0-0       |  0   0-0       | 35  42-44 [Primera: Tabla Anual]
+8   Albion FC               47 |  0   0-0       |  0   0-0       | 35  47-44 [Primera: Tabla Anual]
+9   Juventud                41 |  0   0-0       |  0   0-0       | 35  37-43 [Primera: Tabla Anual]
+10  Central Espanol         41 |  0   0-0       |  0   0-0       | 35  35-48 [Primera: Tabla Anual]
+11  Defensor Sporting       39 |  0   0-0       |  0   0-0       | 35  35-43 [Primera: Tabla Anual]
+12  Cerro Largo             38 |  0   0-0       |  0   0-0       | 36  35-43 [Primera: Tabla Anual]
+13  Boston River            37 |  0   0-0       |  0   0-0       | 35  34-47 [Primera: Tabla Anual]
+14  Cerro                   37 |  0   0-0       |  0   0-0       | 35  29-53 [Primera: Tabla Anual]
+15  Progreso                36 |  0   0-0       |  0   0-0       | 36  33-51 [Primera: Tabla Anual]
+16  Danubio                 32 |  0   0-0       |  0   0-0       | 35  29-45 [Primera: Tabla Anual]
+1   Penarol                144 |  0   0-0       |  0   0-0       | 72 118-62 [Primera: Promedios]
+2   Club Nacional          140 |  0   0-0       |  0   0-0       | 72 129-75 [Primera: Promedios]
+3   Deportivo Maldonado     63 |  0   0-0       |  0   0-0       | 35  54-32 [Primera: Promedios]
+4   Liverpool Montevideo   124 |  0   0-0       |  0   0-0       | 72  98-68 [Primera: Promedios]
+5   Racing Montevideo      114 |  0   0-0       |  0   0-0       | 73  86-71 [Primera: Promedios]
+6   Atletico Torque        113 |  0   0-0       |  0   0-0       | 73 115-94 [Primera: Promedios]
+7   Juventud               102 |  0   0-0       |  0   0-0       | 72  82-82 [Primera: Promedios]
+8   Defensor Sporting      100 |  0   0-0       |  0   0-0       | 72  77-81 [Primera: Promedios]
+9   Albion FC               47 |  0   0-0       |  0   0-0       | 35  47-44 [Primera: Promedios]
+10  Boston River            92 |  0   0-0       |  0   0-0       | 73  84-87 [Primera: Promedios]
+11  Central Espanol         44 |  0   0-0       |  0   0-0       | 36  36-48 [Primera: Promedios]
+12  Cerro Largo             87 |  0   0-0       |  0   0-0       | 73  76-84 [Primera: Promedios]
+13  Cerro                   83 |  0   0-0       |  0   0-0       | 72  62-95 [Primera: Promedios]
+14  Wanderers               82 |  0   0-0       |  0   0-0       | 72  67-91 [Primera: Promedios]
+15  Danubio                 75 |  0   0-0       |  0   0-0       | 72  70-86 [Primera: Promedios]
+16  Progreso                75 |  0   0-0       |  0   0-0       | 73  71-111 [Primera: Promedios]
+1   Penarol                 16 |  0   0-0       |  0   0-0       |  7  12-3 [Primera: Torneo Intermedio]
+2   Cerro Largo             11 |  0   0-0       |  0   0-0       |  7   7-5 [Primera: Torneo Intermedio]
+3   Racing Montevideo       10 |  0   0-0       |  0   0-0       |  7   4-3 [Primera: Torneo Intermedio]
+4   Liverpool Montevideo     9 |  0   0-0       |  0   0-0       |  7   5-5 [Primera: Torneo Intermedio]
+5   Central Espanol          9 |  0   0-0       |  0   0-0       |  7   4-4 [Primera: Torneo Intermedio]
+6   Cerro                    9 |  0   0-0       |  0   0-0       |  7   6-10 [Primera: Torneo Intermedio]
+7   Defensor Sporting        6 |  0   0-0       |  0   0-0       |  7   6-9 [Primera: Torneo Intermedio]
+8   Boston River             5 |  0   0-0       |  0   0-0       |  7   5-10 [Primera: Torneo Intermedio]
+1   Wanderers               15 |  0   0-0       |  0   0-0       |  7  12-4 [Primera: Torneo Intermedio]
+2   Club Nacional           13 |  0   0-0       |  0   0-0       |  7   8-8 [Primera: Torneo Intermedio]
+3   Deportivo Maldonado     12 |  0   0-0       |  0   0-0       |  7  12-6 [Primera: Torneo Intermedio]
+4   Atletico Torque         12 |  0   0-0       |  0   0-0       |  7  11-11 [Primera: Torneo Intermedio]
+5   Juventud                 8 |  0   0-0       |  0   0-0       |  7   8-11 [Primera: Torneo Intermedio]
+6   Albion FC                6 |  0   0-0       |  0   0-0       |  7   6-8 [Primera: Torneo Intermedio]
+7   Progreso                 6 |  0   0-0       |  0   0-0       |  7   6-11 [Primera: Torneo Intermedio]
+8   Danubio                  4 |  0   0-0       |  0   0-0       |  7   5-9 [Primera: Torneo Intermedio]
+1   Racing Montevideo       31 |  8  13-8       |  7  10-6       | 15  23-14 [Primera: Apertura]
+2   Deportivo Maldonado     29 |  7  13-6       |  8  11-10      | 15  24-16 [Primera: Apertura]
+3   Albion FC               28 |  8  18-12      |  7   8-4       | 15  26-16 [Primera: Apertura]
+4   Penarol                 27 |  8  13-11      |  7  10-5       | 15  23-16 [Primera: Apertura]
+5   Central Espanol         24 |  7  12-9       |  8  11-13      | 15  23-22 [Primera: Apertura]
+6   Atletico Torque         23 |  7  13-9       |  8   9-7       | 15  22-16 [Primera: Apertura]
+7   Club Nacional           22 |  7  11-5       |  8  15-16      | 15  26-21 [Primera: Apertura]
+8   Defensor Sporting       21 |  7   8-4       |  8   5-7       | 15  13-11 [Primera: Apertura]
+9   Liverpool Montevideo    20 |  7  10-10      |  8  10-8       | 15  20-18 [Primera: Apertura]
+10  Wanderers               20 |  8   9-8       |  7   7-13      | 15  16-21 [Primera: Apertura]
+11  Danubio                 18 |  7  10-6       |  8   7-15      | 15  17-21 [Primera: Apertura]
+12  Cerro Largo             17 |  7   9-9       |  8   7-10      | 15  16-19 [Primera: Apertura]
+13  Boston River            17 |  8   8-8       |  7   6-12      | 15  14-20 [Primera: Apertura]
+14  Juventud                15 |  8   8-8       |  7   9-14      | 15  17-22 [Primera: Apertura]
+15  Progreso                10 |  8   7-14      |  7   5-9       | 15  12-23 [Primera: Apertura]
+16  Cerro                   10 |  8   5-6       |  7   3-18      | 15   8-24 [Primera: Apertura]
+1   Liverpool Montevideo    30 |  7  12-2       |  6  10-6       | 13  22-8 [Primera: Clausura]
+2   Atletico Torque         29 |  8  17-9       |  6  11-7       | 14  28-16 [Primera: Clausura]
+3   Club Nacional           26 |  7  12-9       |  6   7-4       | 13  19-13 [Primera: Clausura]
+4   Deportivo Maldonado     22 |  7  12-4       |  6   6-6       | 13  18-10 [Primera: Clausura]
+5   Penarol                 22 |  6   9-6       |  7   8-3       | 13  17-9 [Primera: Clausura]
+6   Racing Montevideo       20 |  6  12-4       |  8   8-12      | 14  20-16 [Primera: Clausura]
+7   Progreso                20 |  6   6-8       |  8   9-9       | 14  15-17 [Primera: Clausura]
+8   Juventud                18 |  6   5-2       |  7   7-8       | 13  12-10 [Primera: Clausura]
+9   Cerro                   18 |  6   6-8       |  7   9-11      | 13  15-19 [Primera: Clausura]
+10  Wanderers               16 |  6   8-7       |  7   6-12      | 13  14-19 [Primera: Clausura]
+11  Boston River            15 |  6   4-5       |  8  11-13      | 14  15-18 [Primera: Clausura]
+12  Albion FC               13 |  6   8-10      |  7   7-10      | 13  15-20 [Primera: Clausura]
+13  Defensor Sporting       12 |  7   8-14      |  6   8-9       | 13  16-23 [Primera: Clausura]
+14  Central Espanol         11 |  8   6-12      |  6   3-10      | 14   9-22 [Primera: Clausura]
+15  Cerro Largo             10 |  8   7-8       |  6   5-11      | 14  12-19 [Primera: Clausura]
+16  Danubio                 10 |  7   5-9       |  6   2-6       | 13   7-15 [Primera: Clausura]
+
+(Cerro: same table as Deportivo Maldonado, shown above)
+
+(26 API-Football requests used)
+
+----------------------------------------------------------------------
+MATCHBOOK: skipped (switched off for this run)

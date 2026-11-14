@@ -1,4 +1,6 @@
-RUN 2026-11-14 16:30 local | 2 match(es)
-Dordrecht v Heracles -> out/Dordrecht_v_Heracles.txt
-Roda v FC Volendam -> out/Roda_v_FC_Volendam.txt
-Requests used: API-Football 50, Matchbook 0
+RUN 2026-11-14 17:14 local | 4 match(es)
+Sport Recife v Goias -> out/Sport_Recife_v_Goias.txt
+Criciuma v Novorizontino -> out/Criciuma_v_Novorizontino.txt
+Atletico Goianiense v Cuiaba -> out/Atletico_Goianiense_v_Cuiaba.txt
+Deportivo Maldonado v Cerro -> out/Deportivo_Maldonado_v_Cerro.txt
+Requests used: API-Football 99, Matchbook 0
