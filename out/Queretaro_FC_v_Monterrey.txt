@@ -1,15 +1,8 @@
-MATCH Queretaro v Monterrey | fetched 2026-11-14 19:58 local
+MATCH Queretaro FC v Monterrey | fetched 2026-11-14 20:00 local
 
-FORM DATA Queretaro v Monterrey | source API-Football | 2026-11-14 19:59 UTC
+FORM DATA Queretaro FC v Monterrey | source API-Football | 2026-11-14 20:00 UTC
 H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
 
-"Queretaro" matches several teams. Use id:<number> instead of the name:
-  id:2290   Club Queretaro (Mexico)
-  id:14871  Querétaro W (Mexico)
-  id:17338  Querétaro U20 (Mexico)
-  id:17785  Inter de Querétaro (Mexico)
-  id:21554  Queretaro U23 (Mexico)
-  id:26840  Queretaro U21 (Mexico)
 === Monterrey (id 2282): last 20 finished games ===
 2026-11-08 A 0-4 v Toluca | Liga MX | Toluca | xG 0.42-1.11
 2026-11-01 H 3-3 v Club Tijuana | Liga MX | Monterrey | xG 2.57-0.74
@@ -35,15 +28,7 @@ Listed home: 11 games, scored 20 (1.82), conceded 14 (1.27), blanks 2, clean she
 Listed away: 9 games, scored 13 (1.44), conceded 17 (1.89), blanks 3, clean sheets 1
 All: 20 games, scored 33 (1.65), conceded 31 (1.55), blanks 5, clean sheets 3
 
-(retrying Queretaro using the opponent's country, Mexico)
-"Queretaro" matches several teams. Use id:<number> instead of the name:
-  id:2290   Club Queretaro (Mexico)
-  id:14871  Querétaro W (Mexico)
-  id:17338  Querétaro U20 (Mexico)
-  id:17785  Inter de Querétaro (Mexico)
-  id:21554  Queretaro U23 (Mexico)
-  id:26840  Queretaro U21 (Mexico)
-!! Queretaro: Ambiguous team name "Queretaro".
+!! Queretaro FC: No team found for "Queretaro FC".
 
 TABLE FOR Monterrey
 LEAGUE TABLE Liga MX 2026 | 18 teams | 143 games played
@@ -68,7 +53,7 @@ League averages per game: home 1.57, away 1.45, total 3.02
 17  Necaxa                  13 |  9  10-15      |  7   7-13      | 16  17-28
 18  FC Juarez               11 |  8   8-13      |  8   5-21      | 16  13-34
 
-(15 API-Football requests used)
+(14 API-Football requests used)
 
 ----------------------------------------------------------------------
 MATCHBOOK: skipped (switched off for this run)

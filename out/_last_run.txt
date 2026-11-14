@@ -1,11 +1,7 @@
-RUN 2026-11-14 19:58 local | 5 match(es)
-Deportivo Cali v Tolima -> out/Deportivo_Cali_v_Tolima.txt
-    !! Tolima: Ambiguous team name "Tolima".
-Cucuta v Jaguares de Cordoba -> out/Cucuta_v_Jaguares_de_Cordoba.txt
-    !! Jaguares de Cordoba: No team found for "Jaguares de Cordoba".
-Queretaro v Monterrey -> out/Queretaro_v_Monterrey.txt
-    !! Queretaro: Ambiguous team name "Queretaro".
-Consadole Sapporo v Sagan Tosu -> out/Consadole_Sapporo_v_Sagan_Tosu.txt
-FC Imabari v Jubilo Iwata -> out/FC_Imabari_v_Jubilo_Iwata.txt
-    !! FC Imabari: No team found for "FC Imabari".
-Requests used: API-Football 81, Matchbook 0
+RUN 2026-11-14 20:00 local | 4 match(es)
+Deportivo Cali v Deportes Tolima -> out/Deportivo_Cali_v_Deportes_Tolima.txt
+Cucuta v Jaguares -> out/Cucuta_v_Jaguares.txt
+Queretaro FC v Monterrey -> out/Queretaro_FC_v_Monterrey.txt
+    !! Queretaro FC: No team found for "Queretaro FC".
+Imabari v Jubilo Iwata -> out/Imabari_v_Jubilo_Iwata.txt
+Requests used: API-Football 89, Matchbook 0
