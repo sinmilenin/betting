@@ -86,5 +86,16 @@
     "lay": 15.5,
     "stake": 3,
     "created": "2026-11-14T13:35:10Z"
+  },
+  {
+    "id": "2026-11-14_al-wasl-al-nasr-uae_1-0",
+    "date": "2026-11-14",
+    "ko": "16:30",
+    "match": "Al Wasl v Al Nasr (UAE)",
+    "comp": "United Arab Emirates, UAE League Cup",
+    "cell": "1-0",
+    "lay": 13,
+    "stake": 3,
+    "created": "2026-11-14T15:04:43Z"
   }
 ]
