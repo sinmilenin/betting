@@ -1,0 +1,20 @@
+MATCH Kidderminster v Halifax | fetched 2026-11-14 12:45 local
+
+FORM DATA Kidderminster v Halifax | source API-Football | 2026-11-14 12:46 UTC
+H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
+
+"Kidderminster" matches several teams. Use id:<number> instead of the name:
+  id:4695   Kidderminster Harriers (England)
+  id:22680  Kidderminster Harriers W (England)
+"Halifax" matches several teams. Use id:<number> instead of the name:
+  id:1841   FC Halifax Town (England)
+  id:22700  Halifax W (England)
+  id:25898  Halifax Tides W (Canada)
+!! Kidderminster: Ambiguous team name "Kidderminster".
+
+!! Halifax: Ambiguous team name "Halifax".
+
+(2 API-Football requests used)
+
+----------------------------------------------------------------------
+MATCHBOOK: skipped (switched off for this run)

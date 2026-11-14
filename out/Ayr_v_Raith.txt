@@ -1,0 +1,76 @@
+MATCH Ayr v Raith | fetched 2026-11-14 12:45 local
+
+FORM DATA Ayr v Raith | source API-Football | 2026-11-14 12:46 UTC
+H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
+
+"Ayr" matches several teams. Use id:<number> instead of the name:
+  id:1387   Ayr Utd (Scotland)
+  id:2966   Al Bukayriyah (Saudi-Arabia)
+  id:3585   Bayrampaşaspor (Turkey)
+  id:8418   Dayrell's Road (Armenia)
+  id:9325   Bayreuth (Germany)
+  id:12273  Xayr (Tajikistan)
+  id:17649  Ogosta Hayredin (Bulgaria)
+  id:18022  Dayrout (Egypt)
+  id:19307  Mayrhofen (Austria)
+  id:23329  Ayr United W (Scotland)
+  id:23534  Ayrfield United (Ireland)
+=== Raith Rovers (id 1385): last 20 finished games ===
+2026-11-06 H 0-0 v Dunfermline | Championship | Kirkcaldy
+2026-11-03 A 1-1 v Hamilton Academical | Challenge Cup | Hamilton [PEN, 90-min score shown]
+2026-10-31 A 4-0 v Arbroath | Championship | Arbroath
+2026-10-24 H 0-2 v Inverness CT | Championship | Kirkcaldy
+2026-10-17 A 1-1 v Stenhousemuir | Championship | Stenhousemuir
+2026-10-10 H 2-0 v Queen's Park | Championship | Kirkcaldy
+2026-10-03 A 2-1 v Morton | Championship | Greenock
+2026-09-25 H 0-2 v Livingston | Championship | Kirkcaldy
+2026-09-19 A 0-0 v Partick | Championship | Glasgow
+2026-09-12 H 4-0 v Arbroath | Championship | Kirkcaldy
+2026-09-05 A 2-0 v Inverness CT | Championship | Inverness
+2026-08-28 A 0-1 v Dunfermline | Championship | Dunfermline
+2026-08-22 H 2-0 v Ayr Utd | Championship | Kirkcaldy
+2026-08-08 A 2-1 v Queen's Park | Championship | Glasgow
+2026-08-01 H 1-1 v Stenhousemuir | Championship | Kirkcaldy
+2026-07-24 H 0-1 v Heart Of Midlothian | Friendlies Clubs | ?
+2026-07-21 H 1-0 v Peterhead | League Cup | Kirkcaldy
+2026-07-18 A 1-1 v Hamilton Academical | League Cup | Hamilton [PEN, 90-min score shown]
+2026-07-14 A 0-0 v Kilmarnock | League Cup | Kilmarnock [PEN, 90-min score shown]
+2026-07-11 H 3-1 v Elgin City | League Cup | Kirkcaldy
+Listed home: 10 games, scored 13 (1.30), conceded 7 (0.70), blanks 4, clean sheets 5
+Listed away: 10 games, scored 13 (1.30), conceded 6 (0.60), blanks 3, clean sheets 4
+All: 20 games, scored 26 (1.30), conceded 13 (0.65), blanks 7, clean sheets 9
+
+(retrying Ayr using the opponent's country, Scotland)
+"Ayr" matches several teams. Use id:<number> instead of the name:
+  id:1387   Ayr Utd (Scotland)
+  id:2966   Al Bukayriyah (Saudi-Arabia)
+  id:3585   Bayrampaşaspor (Turkey)
+  id:8418   Dayrell's Road (Armenia)
+  id:9325   Bayreuth (Germany)
+  id:12273  Xayr (Tajikistan)
+  id:17649  Ogosta Hayredin (Bulgaria)
+  id:18022  Dayrout (Egypt)
+  id:19307  Mayrhofen (Austria)
+  id:23329  Ayr United W (Scotland)
+  id:23534  Ayrfield United (Ireland)
+!! Ayr: Ambiguous team name "Ayr".
+
+TABLE FOR Raith Rovers
+LEAGUE TABLE Championship 2026 | 10 teams | 69 games played
+League averages per game: home 1.25, away 1.00, total 2.25
+#   team                   Pts | home P GF-GA  | away P GF-GA  | all P GF-GA
+1   Partick                 28 |  7  11-3       |  7   7-4       | 14  18-7
+2   Raith Rovers            25 |  7   9-5       |  7  11-4       | 14  20-9
+3   Dunfermline             25 |  6  10-3       |  8   5-4       | 14  15-7
+4   Stenhousemuir           23 |  7   8-6       |  7   8-10      | 14  16-16
+5   Livingston              21 |  7   9-7       |  7  10-5       | 14  19-12
+6   Inverness CT            20 |  7   8-4       |  7  10-13      | 14  18-17
+7   Ayr Utd                 15 |  7   8-9       |  6   6-9       | 13  14-18
+8   Arbroath                14 |  7   9-9       |  7   2-14      | 14  11-23
+9   Morton                  13 |  7   9-13      |  6   7-10      | 13  16-23
+10  Queen's Park             7 |  7   5-10      |  7   3-13      | 14   8-23
+
+(14 API-Football requests used)
+
+----------------------------------------------------------------------
+MATCHBOOK: skipped (switched off for this run)

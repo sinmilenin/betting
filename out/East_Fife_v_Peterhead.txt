@@ -1,0 +1,76 @@
+MATCH East Fife v Peterhead | fetched 2026-11-14 12:45 local
+
+FORM DATA East Fife v Peterhead | source API-Football | 2026-11-14 12:46 UTC
+H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
+
+=== East Fife (id 6764): last 20 finished games ===
+2026-11-07 A 2-1 v Montrose | League One | Montrose
+2026-10-31 H 2-0 v Queen of the South | League One | Methil
+2026-10-24 A 1-2 v Hamilton Academical | League One | Hamilton
+2026-10-17 H 0-3 v Alloa Athletic | League One | Methil
+2026-10-13 A 1-2 v Cumbernauld Colts | Challenge Cup | Cumbernauld
+2026-10-10 A 1-1 v Cove Rangers | League One | Aberdeen
+2026-10-03 H 0-3 v East Kilbride | League One | Methil
+2026-09-26 H 0-2 v Clydebank | Challenge Cup | Methil
+2026-09-19 H 1-2 v Montrose | League One | Methil
+2026-09-15 H 4-1 v Motherwell U21 | Challenge Cup | Methil
+2026-09-12 A 1-1 v Queen of the South | League One | Dumfries
+2026-09-08 A 4-1 v Clyde | Challenge Cup | Hamilton
+2026-09-05 H 2-2 v Ross County | League One | Methil
+2026-08-29 A 0-0 v Airdrie United | League One | Airdrie
+2026-08-25 H 2-5 v St. Mirren U21 | Challenge Cup | Methil
+2026-08-22 H 0-0 v Hamilton Academical | League One | Methil
+2026-08-15 A 1-2 v Peterhead | League One | Peterhead
+2026-08-11 H 2-2 v Spartans | Challenge Cup | Methil
+2026-08-08 H 2-0 v Cove Rangers | League One | Methil
+2026-08-01 A 0-0 v Alloa Athletic | League One | Alloa
+Listed home: 11 games, scored 15 (1.36), conceded 20 (1.82), blanks 4, clean sheets 3
+Listed away: 9 games, scored 11 (1.22), conceded 10 (1.11), blanks 2, clean sheets 2
+All: 20 games, scored 26 (1.30), conceded 30 (1.50), blanks 6, clean sheets 5
+
+=== Peterhead (id 6777): last 20 finished games ===
+2026-11-07 A 1-4 v Ross County | League One | Dingwall
+2026-11-03 A 2-1 v St. Mirren U21 | Challenge Cup | Paisley
+2026-10-31 H 2-1 v Alloa Athletic | League One | Peterhead
+2026-10-24 A 0-3 v Montrose | League One | Montrose
+2026-10-17 H 2-0 v Cove Rangers | League One | Peterhead
+2026-10-13 H 1-0 v Rangers U21 | Challenge Cup | Peterhead
+2026-10-10 H 0-1 v Queen of the South | League One | Peterhead
+2026-10-03 A 1-2 v Hamilton Academical | League One | Hamilton
+2026-09-26 H 0-1 v Elgin City | Challenge Cup | Peterhead
+2026-09-22 A 2-0 v Forfar Athletic | Challenge Cup | Forfar
+2026-09-19 H 1-2 v Airdrie United | League One | Peterhead
+2026-09-12 A 1-3 v East Kilbride | League One | East Kilbride
+2026-09-08 H 2-1 v Clachnacuddin | Challenge Cup | Peterhead
+2026-09-05 H 0-3 v Montrose | League One | Peterhead
+2026-08-29 A 1-1 v Alloa Athletic | League One | Alloa
+2026-08-25 H 2-1 v Dundee II | Challenge Cup | Peterhead
+2026-08-22 A 0-3 v Cove Rangers | League One | Aberdeen
+2026-08-15 H 2-1 v East Fife | League One | Peterhead
+2026-08-11 A 5-1 v Banks O' Dee | Challenge Cup | ?
+2026-08-08 A 1-0 v Queen of the South | League One | Dumfries
+Listed home: 10 games, scored 12 (1.20), conceded 11 (1.10), blanks 3, clean sheets 2
+Listed away: 10 games, scored 14 (1.40), conceded 18 (1.80), blanks 2, clean sheets 2
+All: 20 games, scored 26 (1.30), conceded 29 (1.45), blanks 5, clean sheets 4
+
+TABLE FOR East Fife
+LEAGUE TABLE League One 2026 | 10 teams | 69 games played
+League averages per game: home 1.62, away 1.26, total 2.88
+#   team                   Pts | home P GF-GA  | away P GF-GA  | all P GF-GA
+1   Ross County             38 |  7  27-4       |  7  22-5       | 14  49-9
+2   Hamilton Academical     33 |  7  15-4       |  7  12-6       | 14  27-10
+3   East Kilbride           21 |  7  15-8       |  6   8-10      | 13  23-18
+4   Montrose                20 |  7  11-14      |  7   8-9       | 14  19-23
+5   Airdrie United          16 |  7   5-7       |  7   8-15      | 14  13-22
+6   East Fife               15 |  7   7-10      |  7   6-7       | 14  13-17
+7   Peterhead               13 |  7   7-9       |  7   5-16      | 14  12-25
+8   Queen of the South      13 |  7   9-17      |  7   5-21      | 14  14-38
+9   Alloa Athletic          12 |  7   7-10      |  7   8-9       | 14  15-19
+10  Cove Rangers            12 |  6   9-4       |  7   5-14      | 13  14-18
+
+(Peterhead: same table as East Fife, shown above)
+
+(24 API-Football requests used)
+
+----------------------------------------------------------------------
+MATCHBOOK: skipped (switched off for this run)

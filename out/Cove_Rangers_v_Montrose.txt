@@ -1,0 +1,76 @@
+MATCH Cove Rangers v Montrose | fetched 2026-11-14 12:45 local
+
+FORM DATA Cove Rangers v Montrose | source API-Football | 2026-11-14 12:46 UTC
+H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
+
+=== Cove Rangers (id 6763): last 20 finished games ===
+2026-11-07 H 4-0 v Hamilton Academical | League One | Aberdeen
+2026-11-03 A 2-0 v Formartine United | Challenge Cup | ?
+2026-10-31 A 1-0 v Airdrie United | League One | Airdrie
+2026-10-17 A 0-2 v Peterhead | League One | Peterhead
+2026-10-13 H 2-1 v Formartine United | Challenge Cup | Aberdeen
+2026-10-10 H 1-1 v East Fife | League One | Aberdeen
+2026-10-03 A 3-4 v Queen of the South | League One | Dumfries
+2026-09-26 H 2-1 v Aberdeen U21 | Challenge Cup | Aberdeen
+2026-09-22 A 5-0 v Fraserburgh | Challenge Cup | Fraserburgh
+2026-09-19 H 0-2 v Ross County | League One | Aberdeen
+2026-09-12 A 1-2 v Montrose | League One | Montrose
+2026-09-08 H 6-1 v Dumbarton | Challenge Cup | Aberdeen
+2026-09-05 H 1-1 v Alloa Athletic | League One | Aberdeen
+2026-08-29 A 0-1 v Hamilton Academical | League One | Hamilton
+2026-08-25 H 2-0 v Dundee United II | Challenge Cup | Aberdeen
+2026-08-22 H 3-0 v Peterhead | League One | Aberdeen
+2026-08-15 A 0-3 v East Kilbride | League One | East Kilbride
+2026-08-11 A 2-4 v Stirling Albion | Challenge Cup | Stirling
+2026-08-08 A 0-2 v East Fife | League One | Methil
+2026-08-01 H 0-0 v Airdrie United | League One | Aberdeen
+Listed home: 10 games, scored 21 (2.10), conceded 7 (0.70), blanks 2, clean sheets 4
+Listed away: 10 games, scored 14 (1.40), conceded 18 (1.80), blanks 4, clean sheets 3
+All: 20 games, scored 35 (1.75), conceded 25 (1.25), blanks 6, clean sheets 7
+
+=== Montrose (id 4251): last 20 finished games ===
+2026-11-07 H 1-2 v East Fife | League One | Montrose
+2026-11-03 A 0-1 v Inverness CT | Challenge Cup | Inverness
+2026-10-31 A 1-1 v Hamilton Academical | League One | Hamilton
+2026-10-24 H 3-0 v Peterhead | League One | Montrose
+2026-10-17 A 1-1 v East Kilbride | League One | East Kilbride
+2026-10-13 H 2-1 v Dundee United II | Challenge Cup | Montrose
+2026-10-10 H 0-5 v Ross County | League One | Montrose
+2026-10-03 A 0-1 v Airdrie United | League One | Airdrie
+2026-09-26 A 1-2 v Kelty Hearts | Challenge Cup | Kelty
+2026-09-22 A 2-3 v Formartine United | Challenge Cup | ?
+2026-09-19 A 2-1 v East Fife | League One | Methil
+2026-09-12 H 2-1 v Cove Rangers | League One | Montrose
+2026-09-08 H 3-2 v Dundee II | Challenge Cup | Montrose
+2026-09-05 A 3-0 v Peterhead | League One | Peterhead
+2026-08-29 H 2-1 v Queen of the South | League One | Montrose
+2026-08-25 H 3-0 v Clyde | Challenge Cup | Montrose
+2026-08-22 H 3-0 v East Kilbride | League One | Montrose
+2026-08-15 A 0-3 v Alloa Athletic | League One | Alloa
+2026-08-11 H 2-0 v Fraserburgh | Challenge Cup | Montrose
+2026-08-08 A 1-2 v Ross County | League One | Dingwall
+Listed home: 10 games, scored 21 (2.10), conceded 12 (1.20), blanks 1, clean sheets 4
+Listed away: 10 games, scored 11 (1.10), conceded 15 (1.50), blanks 3, clean sheets 1
+All: 20 games, scored 32 (1.60), conceded 27 (1.35), blanks 4, clean sheets 5
+
+TABLE FOR Cove Rangers
+LEAGUE TABLE League One 2026 | 10 teams | 69 games played
+League averages per game: home 1.62, away 1.26, total 2.88
+#   team                   Pts | home P GF-GA  | away P GF-GA  | all P GF-GA
+1   Ross County             38 |  7  27-4       |  7  22-5       | 14  49-9
+2   Hamilton Academical     33 |  7  15-4       |  7  12-6       | 14  27-10
+3   East Kilbride           21 |  7  15-8       |  6   8-10      | 13  23-18
+4   Montrose                20 |  7  11-14      |  7   8-9       | 14  19-23
+5   Airdrie United          16 |  7   5-7       |  7   8-15      | 14  13-22
+6   East Fife               15 |  7   7-10      |  7   6-7       | 14  13-17
+7   Peterhead               13 |  7   7-9       |  7   5-16      | 14  12-25
+8   Queen of the South      13 |  7   9-17      |  7   5-21      | 14  14-38
+9   Alloa Athletic          12 |  7   7-10      |  7   8-9       | 14  15-19
+10  Cove Rangers            12 |  6   9-4       |  7   5-14      | 13  14-18
+
+(Montrose: same table as Cove Rangers, shown above)
+
+(25 API-Football requests used)
+
+----------------------------------------------------------------------
+MATCHBOOK: skipped (switched off for this run)

@@ -1,0 +1,76 @@
+MATCH Edinburgh City v Clyde | fetched 2026-11-14 12:45 local
+
+FORM DATA Edinburgh City v Clyde | source API-Football | 2026-11-14 12:46 UTC
+H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
+
+=== Edinburgh City (id 6766): last 20 finished games ===
+2026-11-07 A 1-1 v Forfar Athletic | League Two | Forfar
+2026-11-03 H 0-3 v Partick | Challenge Cup | Edinburgh
+2026-10-31 H 2-1 v Dumbarton | League Two | Edinburgh
+2026-10-24 H 4-1 v Kelty Hearts | FA Cup | ?
+2026-10-17 A 0-0 v Elgin City | League Two | Elgin
+2026-10-13 H 0-5 v St. Mirren U21 | Challenge Cup | Edinburgh
+2026-10-10 H 1-3 v Spartans | League Two | Edinburgh
+2026-10-03 A 0-0 v Stranraer | League Two | Stranraer
+2026-09-26 A 0-2 v Formartine United | Challenge Cup | ?
+2026-09-22 H 1-0 v Dundee United II | Challenge Cup | Edinburgh
+2026-09-19 A 3-1 v Kelty Hearts | League Two | Kelty
+2026-09-12 H 7-3 v Stirling Albion | League Two | Edinburgh
+2026-09-08 H 1-1 v Queen of the South | Challenge Cup | Edinburgh
+2026-09-05 A 2-3 v Clyde | League Two | Hamilton
+2026-08-28 H 1-1 v Forfar Athletic | League Two | Edinburgh
+2026-08-25 A 1-0 v Hamilton Academical | Challenge Cup | Hamilton
+2026-08-22 H 1-0 v Annan Athletic | League Two | Edinburgh
+2026-08-15 A 3-0 v Dumbarton | League Two | Dumbarton
+2026-08-11 H 3-1 v Cowdenbeath | Challenge Cup | Edinburgh
+2026-08-08 A 2-2 v Spartans | League Two | Edinburgh
+Listed home: 11 games, scored 21 (1.91), conceded 19 (1.73), blanks 2, clean sheets 2
+Listed away: 9 games, scored 12 (1.33), conceded 9 (1.00), blanks 3, clean sheets 4
+All: 20 games, scored 33 (1.65), conceded 28 (1.40), blanks 5, clean sheets 6
+
+=== Clyde (id 6762): last 20 finished games ===
+2026-11-07 H 3-2 v Spartans | League Two | Hamilton
+2026-10-31 A 0-0 v Stranraer | League Two | Stranraer
+2026-10-27 A 1-1 v Penicuik Athletic | FA Cup | ? [PEN, 90-min score shown]
+2026-10-17 H 4-1 v Annan Athletic | League Two | Hamilton
+2026-10-13 H 5-1 v Clachnacuddin | Challenge Cup | Hamilton
+2026-10-10 H 2-1 v Dumbarton | League Two | Hamilton
+2026-10-03 A 2-6 v Elgin City | League Two | Elgin
+2026-09-26 A 3-1 v Cowdenbeath | Challenge Cup | Cowdenbeath
+2026-09-22 H 1-2 v Rangers U21 | Challenge Cup | Hamilton
+2026-09-19 A 1-1 v Stirling Albion | League Two | Stirling
+2026-09-12 H 4-1 v Kelty Hearts | League Two | Hamilton
+2026-09-08 H 1-4 v East Fife | Challenge Cup | Hamilton
+2026-09-05 H 3-2 v Edinburgh City | League Two | Hamilton
+2026-08-29 A 3-3 v Spartans | League Two | Edinburgh
+2026-08-25 A 0-3 v Montrose | Challenge Cup | Montrose
+2026-08-22 H 3-0 v Forfar Athletic | League Two | Hamilton
+2026-08-15 A 2-1 v Annan Athletic | League Two | Annan
+2026-08-11 H 1-4 v St. Mirren U21 | Challenge Cup | Hamilton
+2026-08-08 A 0-1 v Dumbarton | League Two | Dumbarton
+2026-08-01 H 3-1 v Stranraer | League Two | Hamilton
+Listed home: 11 games, scored 30 (2.73), conceded 19 (1.73), blanks 0, clean sheets 1
+Listed away: 9 games, scored 12 (1.33), conceded 17 (1.89), blanks 3, clean sheets 1
+All: 20 games, scored 42 (2.10), conceded 36 (1.80), blanks 3, clean sheets 2
+
+TABLE FOR Edinburgh City
+LEAGUE TABLE League Two 2026 | 10 teams | 65 games played
+League averages per game: home 1.89, away 1.43, total 3.32
+#   team                   Pts | home P GF-GA  | away P GF-GA  | all P GF-GA
+1   Stranraer               27 |  7   9-2       |  6  19-7       | 13  28-9
+2   Clyde                   27 |  7  22-8       |  6   8-12      | 13  30-20
+3   Elgin City              21 |  7  16-11      |  6  12-8       | 13  28-19
+4   Spartans                18 |  7  16-15      |  6  11-10      | 13  27-25
+5   Kelty Hearts            18 |  6  11-9       |  7   7-14      | 13  18-23
+6   Dumbarton               16 |  6   9-6       |  7   6-14      | 13  15-20
+7   Edinburgh City          15 |  6  12-13      |  7  11-7       | 13  23-20
+8   Stirling Albion         15 |  6  12-8       |  7   7-21      | 13  19-29
+9   Forfar Athletic         12 |  6   7-6       |  7   7-19      | 13  14-25
+10  Annan Athletic           9 |  7   9-15      |  6   5-11      | 13  14-26
+
+(Clyde: same table as Edinburgh City, shown above)
+
+(25 API-Football requests used)
+
+----------------------------------------------------------------------
+MATCHBOOK: skipped (switched off for this run)

@@ -1,0 +1,55 @@
+MATCH Tottenham W v Everton W | fetched 2026-11-14 12:45 local
+
+FORM DATA Tottenham W v Everton W | source API-Football | 2026-11-14 12:46 UTC
+H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
+
+=== Everton W (id 1855): last 20 finished games ===
+2026-11-11 H 6-0 v Durham W | WSL Cup | Liverpool
+2026-11-07 A 1-1 v Chelsea W | FA WSL | Staines | xG 0.45-2.18
+2026-10-31 H 0-0 v Manchester United W | FA WSL | Crosby | xG 0.23-0.46
+2026-10-28 A 2-1 v Sheffield United W | WSL Cup | Scunthorpe
+2026-10-25 H 2-3 v Aston Villa W | FA WSL | Crosby | xG 0.92-2.29
+2026-10-21 H 2-0 v Newcastle United W | WSL Cup | Liverpool
+2026-10-18 A 1-2 v London City Lionesses W | FA WSL | Dartford | xG 0.66-1.32
+2026-10-04 H 2-1 v Birmingham City W | FA WSL | Crosby
+2026-09-27 A 0-2 v Liverpool W | FA WSL | Skelmersdale
+2026-09-23 H 2-0 v Birmingham City W | WSL Cup | Liverpool
+2026-09-20 A 1-0 v West Ham W | FA WSL | Essex
+2026-09-13 H 1-0 v Charlton Athletic W | FA WSL | Liverpool
+2026-09-06 A 0-1 v Crystal Palace W | FA WSL | London
+2026-05-16 H 1-0 v Leicester City FC W | FA WSL | Liverpool
+2026-05-13 A 0-1 v Arsenal W | FA WSL | London
+2026-04-26 H 1-4 v Chelsea W | FA WSL | Liverpool
+2026-03-28 H 2-3 v Liverpool W | FA WSL | Liverpool
+2026-03-21 A 1-2 v Manchester United W | FA WSL | Leigh
+2026-03-15 A 2-1 v Tottenham Hotspur W | FA WSL | London
+2026-02-22 A 1-2 v Liverpool W | FA Women's Cup | St Helens
+Listed home: 10 games, scored 19 (1.90), conceded 11 (1.10), blanks 1, clean sheets 6
+Listed away: 10 games, scored 9 (0.90), conceded 13 (1.30), blanks 3, clean sheets 1
+All: 20 games, scored 28 (1.40), conceded 24 (1.20), blanks 4, clean sheets 7
+
+!! Tottenham W: No team found for "Tottenham W".
+
+TABLE FOR Everton W
+LEAGUE TABLE FA WSL 2026 | 14 teams | 63 games played
+League averages per game: home 1.67, away 1.62, total 3.29
+#   team                   Pts | home P GF-GA  | away P GF-GA  | all P GF-GA
+1   Manchester City W       25 |  5  19-7       |  4   8-3       |  9  27-10
+2   Chelsea W               23 |  5  11-4       |  4  17-1       |  9  28-5
+3   London City Lionesses   19 |  5  11-5       |  4  13-6       |  9  24-11
+4   Tottenham Hotspur W     16 |  5  11-10      |  4  14-8       |  9  25-18
+5   Manchester United W     15 |  4   4-7       |  5   6-4       |  9  10-11
+6   Arsenal W               13 |  4   3-3       |  5   7-7       |  9  10-10
+7   Brighton W              11 |  5  11-4       |  4   5-9       |  9  16-13
+8   Everton W               11 |  4   5-4       |  5   3-6       |  9   8-10
+9   Aston Villa W           10 |  4   4-7       |  5   6-9       |  9  10-16
+10  Crystal Palace W         9 |  5   5-13      |  4   5-6       |  9  10-19
+11  West Ham W               9 |  4   6-6       |  5   3-13      |  9   9-19
+12  Liverpool W              8 |  4   6-5       |  5   8-11      |  9  14-16
+13  Birmingham City W        6 |  4   7-9       |  5   4-12      |  9  11-21
+14  Charlton Athletic W      0 |  5   2-18      |  4   3-10      |  9   5-28
+
+(15 API-Football requests used)
+
+----------------------------------------------------------------------
+MATCHBOOK: skipped (switched off for this run)
