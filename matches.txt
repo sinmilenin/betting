@@ -1,3 +1,2 @@
-# scan 14.11 07:40 run 4 (FC Andorra, Republic of Ireland names)
-Almeria v FC Andorra | n=20 | xg=10
-Austria v Republic of Ireland | n=20 | xg=10
+# scan 14.11 07:40 run 5 (Ireland id try)
+Austria v id:776 | n=20 | xg=10
