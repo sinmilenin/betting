@@ -1,4 +1,7 @@
-# scan 14.11 14:26 run 2 (Hatta by id; plus two fixtures without a form file)
-id:2869 v Al Ain | n=20 | xg=10
-Eastleigh v AFC Fylde | n=20 | xg=10
-Sweden U19 v Lithuania U19 | n=20 | xg=10
+# scan 14.11 15:11 run 1
+Hartlepool v Wealdstone | n=20 | xg=10
+Hebburn Town v Guiseley | n=20 | xg=10
+Lumezzane v Trento | n=20 | xg=10
+Gubbio v Grosseto | n=20 | xg=10
+Dumbarton v Annan Athletic | n=20 | xg=10
+Uganda v Botswana | n=20 | xg=10
