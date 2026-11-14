@@ -1,3 +1,6 @@
-# scan 14.11 20:26
-Banfield v Boca Juniors | n=20 | xg=10
-Marseille W v Paris Saint Germain W | n=20 | xg=10
+# night scan 14.11 20:55
+Deportivo Cali v Tolima | n=20 | xg=10
+Cucuta v Jaguares de Cordoba | n=20 | xg=10
+Queretaro v Monterrey | n=20 | xg=10
+Consadole Sapporo v Sagan Tosu | n=20 | xg=10
+FC Imabari v Jubilo Iwata | n=20 | xg=10
