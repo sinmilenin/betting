@@ -1,3 +1,3 @@
-RUN 2026-11-14 15:02 local | 1 match(es)
-id:2872 v id:10155 -> out/id_2872_v_id_10155.txt
-Requests used: API-Football 25, Matchbook 0
+RUN 2026-11-14 15:47 local | 1 match(es)
+Sestao River v Recreativo Huelva -> out/Sestao_River_v_Recreativo_Huelva.txt
+Requests used: API-Football 26, Matchbook 0
