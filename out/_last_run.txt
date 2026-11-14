@@ -1,3 +1,7 @@
-RUN 2026-11-14 08:12 local | 1 match(es)
-Kutahyaspor v Ankaragucu -> out/Kutahyaspor_v_Ankaragucu.txt
-Requests used: API-Football 25, Matchbook 0
+RUN 2026-11-14 09:47 local | 5 match(es)
+Spain U19 v Wales U19 -> out/Spain_U19_v_Wales_U19.txt
+Northern Ireland U19 v Malta U19 -> out/Northern_Ireland_U19_v_Malta_U19.txt
+Bijelo Brdo v Gorica -> out/Bijelo_Brdo_v_Gorica.txt
+Armenia U19 v Albania U19 -> out/Armenia_U19_v_Albania_U19.txt
+Manchester United W v Crystal Palace W -> out/Manchester_United_W_v_Crystal_Palace_W.txt
+Requests used: API-Football 125, Matchbook 0

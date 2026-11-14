@@ -1,0 +1,80 @@
+MATCH Manchester United W v Crystal Palace W | fetched 2026-11-14 09:47 local
+
+FORM DATA Manchester United W v Crystal Palace W | source API-Football | 2026-11-14 09:48 UTC
+H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
+
+=== Manchester United W (id 4898): last 20 finished games ===
+2026-11-08 A 1-0 v Aston Villa W | FA WSL | Sutton Coldfield | xG 2.00-0.43
+2026-10-31 A 0-0 v Everton W | FA WSL | Crosby | xG 0.46-0.23
+2026-10-28 H 3-0 v Burnley W | WSL Cup | Leigh
+2026-10-25 H 1-1 v Manchester City W | FA WSL | Manchester | xG 1.15-1.87
+2026-10-21 A 5-3 v Liverpool W | WSL Cup | St Helens
+2026-10-18 A 3-1 v Charlton Athletic W | FA WSL | Crayford | xG 2.23-0.34
+2026-10-03 H 1-0 v Liverpool W | FA WSL | Manchester
+2026-09-30 A 5-1 v Durham W | WSL Cup | South Shields
+2026-09-27 H 2-1 v West Ham W | FA WSL | Manchester
+2026-09-23 H 10-1 v Sheffield United W | WSL Cup | Leigh
+2026-09-19 A 1-1 v Arsenal W | FA WSL | London
+2026-09-13 H 0-5 v Chelsea W | FA WSL | Leigh
+2026-09-04 A 1-2 v London City Lionesses W | FA WSL | London
+2026-05-16 A 0-1 v Chelsea W | FA WSL | London
+2026-05-02 H 1-1 v Brighton W | FA WSL | Leigh
+2026-04-26 A 0-0 v Tottenham Hotspur W | FA WSL | London
+2026-04-01 A 1-2 v Bayern Munich W | UEFA Champions League Women | Munich
+2026-03-28 H 0-3 v Manchester City W | FA WSL | Manchester
+2026-03-25 H 2-3 v Bayern Munich W | UEFA Champions League Women | Manchester
+2026-03-21 H 2-1 v Everton W | FA WSL | Leigh
+Listed home: 10 games, scored 22 (2.20), conceded 16 (1.60), blanks 2, clean sheets 2
+Listed away: 10 games, scored 17 (1.70), conceded 11 (1.10), blanks 3, clean sheets 3
+All: 20 games, scored 39 (1.95), conceded 27 (1.35), blanks 5, clean sheets 5
+
+=== Crystal Palace W (id 15409): last 20 finished games ===
+2026-11-11 A 1-1 v Tottenham Hotspur W | WSL Cup | London [PEN, 90-min score shown]
+2026-11-08 H 3-2 v Charlton Athletic W | FA WSL | London | xG 1.82-2.03
+2026-11-01 A 1-2 v Brighton W | FA WSL | Falmer | xG 0.39-2.16
+2026-10-28 A 2-4 v London City Lionesses W | WSL Cup | London
+2026-10-25 H 1-3 v Chelsea W | FA WSL | London | xG 1.32-3.72
+2026-10-21 A 2-3 v Southampton W | WSL Cup | Eastleigh
+2026-10-18 H 0-1 v West Ham W | FA WSL | London | xG 0.97-1.52
+2026-10-04 A 1-1 v Aston Villa W | FA WSL | Sutton Coldfield
+2026-09-30 H 3-0 v Charlton Athletic W | WSL Cup | Sutton
+2026-09-27 A 3-3 v Birmingham City W | FA WSL | Stratford-upon-Avon
+2026-09-23 H 1-0 v Watford W | WSL Cup | London
+2026-09-20 H 0-7 v Tottenham Hotspur W | FA WSL | London
+2026-09-13 A 0-0 v Arsenal W | FA WSL | London
+2026-09-06 H 1-0 v Everton W | FA WSL | London
+2026-05-02 H 6-1 v Portsmouth W | Women's Championship | London
+2026-04-26 A 2-1 v Sunderland W | Women's Championship | Sunderland
+2026-04-05 H 1-0 v Ipswich Town W | Women's Championship | London
+2026-03-29 H 3-2 v Charlton Athletic W | Women's Championship | London
+2026-03-22 A 0-0 v Newcastle United W | Women's Championship | Gateshead
+2026-03-15 H 1-0 v Nottingham Forest W | Women's Championship | London
+Listed home: 11 games, scored 20 (1.82), conceded 16 (1.45), blanks 2, clean sheets 5
+Listed away: 9 games, scored 12 (1.33), conceded 15 (1.67), blanks 2, clean sheets 2
+All: 20 games, scored 32 (1.60), conceded 31 (1.55), blanks 4, clean sheets 7
+
+TABLE FOR Manchester United W
+LEAGUE TABLE FA WSL 2026 | 14 teams | 63 games played
+League averages per game: home 1.67, away 1.62, total 3.29
+#   team                   Pts | home P GF-GA  | away P GF-GA  | all P GF-GA
+1   Manchester City W       25 |  5  19-7       |  4   8-3       |  9  27-10
+2   Chelsea W               23 |  5  11-4       |  4  17-1       |  9  28-5
+3   London City Lionesses   19 |  5  11-5       |  4  13-6       |  9  24-11
+4   Tottenham Hotspur W     16 |  5  11-10      |  4  14-8       |  9  25-18
+5   Manchester United W     15 |  4   4-7       |  5   6-4       |  9  10-11
+6   Arsenal W               13 |  4   3-3       |  5   7-7       |  9  10-10
+7   Brighton W              11 |  5  11-4       |  4   5-9       |  9  16-13
+8   Everton W               11 |  4   5-4       |  5   3-6       |  9   8-10
+9   Aston Villa W           10 |  4   4-7       |  5   6-9       |  9  10-16
+10  Crystal Palace W         9 |  5   5-13      |  4   5-6       |  9  10-19
+11  West Ham W               9 |  4   6-6       |  5   3-13      |  9   9-19
+12  Liverpool W              8 |  4   6-5       |  5   8-11      |  9  14-16
+13  Birmingham City W        6 |  4   7-9       |  5   4-12      |  9  11-21
+14  Charlton Athletic W      0 |  5   2-18      |  4   3-10      |  9   5-28
+
+(Crystal Palace W: same table as Manchester United W, shown above)
+
+(26 API-Football requests used)
+
+----------------------------------------------------------------------
+MATCHBOOK: skipped (switched off for this run)
