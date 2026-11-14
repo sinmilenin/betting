@@ -1,6 +1,6 @@
-MATCH Japan v Brazil | fetched 2026-11-14 06:43 local
+MATCH Japan v Brazil | fetched 2026-11-14 06:45 local
 
-FORM DATA Japan v Brazil | source API-Football | 2026-11-14 06:43 UTC
+FORM DATA Japan v Brazil | source API-Football | 2026-11-14 06:45 UTC
 H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
 
 === Japan (id 12): last 20 finished games ===
@@ -10,8 +10,8 @@ H/A = listed home/away (city shown so neutral venues can be spotted). Scores are
 2026-09-24 H 3-1 v Uruguay | Friendlies | Rifu
 2026-06-29 A 1-2 v Brazil | World Cup | Houston | xG 0.23-1.69
 2026-06-25 H 1-1 v Sweden | World Cup | Arlington | xG 1.21-0.64
-2026-06-21 A 4-0 v Tunisia | World Cup | Monterrey
-2026-06-14 A 2-2 v Netherlands | World Cup | Arlington
+2026-06-21 A 4-0 v Tunisia | World Cup | Monterrey | xG 2.13-0.05
+2026-06-14 A 2-2 v Netherlands | World Cup | Arlington | xG 0.59-0.78
 2026-05-31 H 1-0 v Iceland | Friendlies | Tokyo
 2026-03-31 A 1-0 v England | Friendlies | London
 2026-03-28 A 1-0 v Scotland | Friendlies | Glasgow
@@ -28,13 +28,98 @@ Listed home: 12 games, scored 27 (2.25), conceded 9 (0.75), blanks 1, clean shee
 Listed away: 8 games, scored 10 (1.25), conceded 6 (0.75), blanks 2, clean sheets 5
 All: 20 games, scored 37 (1.85), conceded 15 (0.75), blanks 3, clean sheets 10
 
-!! Brazil: API-Football error: HTTP 429 from API-Football
+=== Brazil (id 6): last 20 finished games ===
+2026-10-03 A 4-0 v India | Friendlies | Kolkata | xG 1.62-0.49
+2026-09-29 A 4-2 v Australia | Friendlies | Sydney
+2026-09-25 A 1-1 v Australia | Friendlies | Townsville
+2026-07-05 H 1-2 v Norway | World Cup | East Rutherford | xG 2.61-1.05
+2026-06-29 H 2-1 v Japan | World Cup | Houston | xG 1.69-0.23
+2026-06-24 A 3-0 v Scotland | World Cup | Miami Gardens | xG 4.33-1.04
+2026-06-20 H 3-0 v Haiti | World Cup | Philadelphia | xG 1.75-0.23
+2026-06-13 H 1-1 v Morocco | World Cup | East Rutherford | xG 1.26-1.37
+2026-06-06 H 2-1 v Egypt | Friendlies | Cleveland
+2026-05-31 H 6-2 v Panama | Friendlies | Rio de Janeiro
+2026-04-01 H 3-1 v Croatia | Friendlies | ?
+2026-03-26 H 1-2 v France | Friendlies | Foxborough
+2025-11-18 H 1-1 v Tunisia | Friendlies | Lille
+2025-11-15 H 2-0 v Senegal | Friendlies | London
+2025-10-14 A 2-3 v Japan | Friendlies | Tokyo
+2025-10-10 A 5-0 v South Korea | Friendlies | Seoul
+2025-09-09 A 0-1 v Bolivia | World Cup - Qualification South America | El Alto
+2025-09-05 H 3-0 v Chile | World Cup - Qualification South America | Rio de Janeiro
+2025-06-11 H 1-0 v Paraguay | World Cup - Qualification South America | Sao Paulo
+2025-06-05 A 0-0 v Ecuador | World Cup - Qualification South America | Guayaquil
+Listed home: 12 games, scored 26 (2.17), conceded 11 (0.92), blanks 0, clean sheets 4
+Listed away: 8 games, scored 19 (2.38), conceded 7 (0.88), blanks 2, clean sheets 4
+All: 20 games, scored 45 (2.25), conceded 18 (0.90), blanks 2, clean sheets 8
 
-  (standings for Kirin Cup 2026 not available: HTTP 429 from API-Football)
-  (standings for World Cup 2026 not available: HTTP 429 from API-Football)
-(no league table available for Japan: tried Kirin Cup 2026, World Cup 2026)
+TABLE FOR Japan
+LEAGUE TABLE World Cup 2026 | 60 teams | 0 games played
+#   team                   Pts | home P GF-GA  | away P GF-GA  | all P GF-GA
+1   Mexico                   9 |  0   0-0       |  0   0-0       |  3   6-0 [Group A]
+2   South Africa             4 |  0   0-0       |  0   0-0       |  3   2-3 [Group A]
+3   South Korea              3 |  0   0-0       |  0   0-0       |  3   2-3 [Group A]
+4   Czechia                  1 |  0   0-0       |  0   0-0       |  3   2-6 [Group A]
+1   Switzerland              7 |  0   0-0       |  0   0-0       |  3   7-3 [Group B]
+2   Canada                   4 |  0   0-0       |  0   0-0       |  3   8-3 [Group B]
+3   Bosnia & Herzegovina     4 |  0   0-0       |  0   0-0       |  3   5-6 [Group B]
+4   Qatar                    1 |  0   0-0       |  0   0-0       |  3   2-10 [Group B]
+1   Brazil                   7 |  0   0-0       |  0   0-0       |  3   7-1 [Group C]
+2   Morocco                  7 |  0   0-0       |  0   0-0       |  3   6-3 [Group C]
+3   Scotland                 3 |  0   0-0       |  0   0-0       |  3   1-4 [Group C]
+4   Haiti                    0 |  0   0-0       |  0   0-0       |  3   2-8 [Group C]
+1   USA                      6 |  0   0-0       |  0   0-0       |  3   8-4 [Group D]
+2   Australia                4 |  0   0-0       |  0   0-0       |  3   2-2 [Group D]
+3   Paraguay                 4 |  0   0-0       |  0   0-0       |  3   2-4 [Group D]
+4   Türkiye                  3 |  0   0-0       |  0   0-0       |  3   3-5 [Group D]
+1   Germany                  6 |  0   0-0       |  0   0-0       |  3  10-4 [Group E]
+2   Ivory Coast              6 |  0   0-0       |  0   0-0       |  3   4-2 [Group E]
+3   Ecuador                  4 |  0   0-0       |  0   0-0       |  3   2-2 [Group E]
+4   Curaçao                  1 |  0   0-0       |  0   0-0       |  3   1-9 [Group E]
+1   Netherlands              7 |  0   0-0       |  0   0-0       |  3  10-4 [Group F]
+2   Japan                    5 |  0   0-0       |  0   0-0       |  3   7-3 [Group F]
+3   Sweden                   4 |  0   0-0       |  0   0-0       |  3   7-7 [Group F]
+4   Tunisia                  0 |  0   0-0       |  0   0-0       |  3   2-12 [Group F]
+1   Belgium                  5 |  0   0-0       |  0   0-0       |  3   6-2 [Group G]
+2   Egypt                    5 |  0   0-0       |  0   0-0       |  3   5-3 [Group G]
+3   Iran                     3 |  0   0-0       |  0   0-0       |  3   3-3 [Group G]
+4   New Zealand              1 |  0   0-0       |  0   0-0       |  3   4-10 [Group G]
+1   Spain                    7 |  0   0-0       |  0   0-0       |  3   5-0 [Group H]
+2   Cape Verde Islands       3 |  0   0-0       |  0   0-0       |  3   2-2 [Group H]
+3   Uruguay                  2 |  0   0-0       |  0   0-0       |  3   3-4 [Group H]
+4   Saudi Arabia             2 |  0   0-0       |  0   0-0       |  3   1-5 [Group H]
+1   France                   9 |  0   0-0       |  0   0-0       |  3  10-2 [Group I]
+2   Norway                   6 |  0   0-0       |  0   0-0       |  3   8-7 [Group I]
+3   Senegal                  3 |  0   0-0       |  0   0-0       |  3   8-6 [Group I]
+4   Iraq                     0 |  0   0-0       |  0   0-0       |  3   1-12 [Group I]
+1   Argentina                9 |  0   0-0       |  0   0-0       |  3   8-1 [Group J]
+2   Austria                  4 |  0   0-0       |  0   0-0       |  3   6-6 [Group J]
+3   Algeria                  4 |  0   0-0       |  0   0-0       |  3   5-7 [Group J]
+4   Jordan                   0 |  0   0-0       |  0   0-0       |  3   3-8 [Group J]
+1   Colombia                 7 |  0   0-0       |  0   0-0       |  3   4-1 [Group K]
+2   Portugal                 5 |  0   0-0       |  0   0-0       |  3   6-1 [Group K]
+3   Congo DR                 4 |  0   0-0       |  0   0-0       |  3   4-3 [Group K]
+4   Uzbekistan               0 |  0   0-0       |  0   0-0       |  3   2-11 [Group K]
+1   England                  7 |  0   0-0       |  0   0-0       |  3   6-2 [Group L]
+2   Croatia                  6 |  0   0-0       |  0   0-0       |  3   5-5 [Group L]
+3   Ghana                    4 |  0   0-0       |  0   0-0       |  3   2-2 [Group L]
+4   Panama                   0 |  0   0-0       |  0   0-0       |  3   0-4 [Group L]
+1   Congo DR                 4 |  0   0-0       |  0   0-0       |  3   4-3 [Group Stage]
+2   Sweden                   4 |  0   0-0       |  0   0-0       |  3   7-7 [Group Stage]
+3   Ghana                    4 |  0   0-0       |  0   0-0       |  3   2-2 [Group Stage]
+4   Ecuador                  4 |  0   0-0       |  0   0-0       |  3   2-2 [Group Stage]
+5   Bosnia & Herzegovina     4 |  0   0-0       |  0   0-0       |  3   5-6 [Group Stage]
+6   Algeria                  4 |  0   0-0       |  0   0-0       |  3   5-7 [Group Stage]
+7   Paraguay                 4 |  0   0-0       |  0   0-0       |  3   2-4 [Group Stage]
+8   Senegal                  3 |  0   0-0       |  0   0-0       |  3   8-6 [Group Stage]
+9   Iran                     3 |  0   0-0       |  0   0-0       |  3   3-3 [Group Stage]
+10  South Korea              3 |  0   0-0       |  0   0-0       |  3   2-3 [Group Stage]
+11  Scotland                 3 |  0   0-0       |  0   0-0       |  3   1-4 [Group Stage]
+12  Uruguay                  2 |  0   0-0       |  0   0-0       |  3   3-4 [Group Stage]
 
-(8 API-Football requests used)
+(Brazil: same table as Japan, shown above)
+
+(26 API-Football requests used)
 
 ----------------------------------------------------------------------
 MATCHBOOK: skipped (switched off for this run)

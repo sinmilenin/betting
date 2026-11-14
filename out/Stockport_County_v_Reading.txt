@@ -1,13 +1,90 @@
-MATCH Stockport County v Reading | fetched 2026-11-14 06:43 local
+MATCH Stockport County v Reading | fetched 2026-11-14 06:45 local
 
-FORM DATA Stockport County v Reading | source API-Football | 2026-11-14 06:43 UTC
+FORM DATA Stockport County v Reading | source API-Football | 2026-11-14 06:46 UTC
 H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
 
-!! Stockport County: API-Football error: HTTP 429 from API-Football
+=== Stockport County (id 4686): last 20 finished games ===
+2026-11-10 H 0-0 v Tranmere | EFL Trophy | Stockport | xG 0.88-1.45 [PEN, 90-min score shown]
+2026-11-08 A 2-2 v Cray Wanderers | FA Cup | Chislehurst [AET, 90-min score shown]
+2026-10-31 H 2-1 v AFC Wimbledon | League One | Stockport | xG 2.85-1.01
+2026-10-27 A 0-1 v Oxford United | League One | Oxford | xG 2.52-2.10
+2026-10-24 A 1-1 v Notts County | League One | Nottingham | xG 2.56-0.38
+2026-10-20 A 2-0 v Doncaster | League One | Doncaster | xG 3.29-0.15
+2026-10-17 H 1-0 v Bromley | League One | Stockport | xG 1.49-0.28
+2026-10-10 H 3-1 v Barnsley | League One | Stockport | xG 1.91-1.58
+2026-10-06 A 2-0 v Shrewsbury | EFL Trophy | Shrewsbury
+2026-09-26 H 1-0 v Peterborough | League One | Stockport | xG 1.78-1.43
+2026-09-19 A 0-0 v Sheffield Wednesday | League One | Sheffield
+2026-09-12 H 3-4 v Leicester | League One | Stockport
+2026-09-05 A 4-0 v Wigan | League One | Wigan
+2026-09-02 A 0-2 v Luton | League One | Luton
+2026-08-29 H 5-1 v Wycombe | League One | Stockport
+2026-08-22 H 1-2 v Blackpool | League One | Stockport
+2026-08-18 H 6-3 v Everton U21 | EFL Trophy | Stockport
+2026-08-15 A 3-1 v Plymouth | League One | Plymouth
+2026-08-08 H 1-1 v Doncaster | League Cup | Stockport [PEN, 90-min score shown]
+2026-08-01 H 1-0 v Preston | Friendlies Clubs | ?
+Listed home: 11 games, scored 24 (2.18), conceded 13 (1.18), blanks 1, clean sheets 4
+Listed away: 9 games, scored 14 (1.56), conceded 7 (0.78), blanks 3, clean sheets 4
+All: 20 games, scored 38 (1.90), conceded 20 (1.00), blanks 4, clean sheets 8
 
-!! Reading: API-Football error: HTTP 429 from API-Football
+=== Reading (id 53): last 20 finished games ===
+2026-11-10 A 2-2 v Bristol Rovers | EFL Trophy | Bristol | xG 1.52-0.67 [PEN, 90-min score shown]
+2026-11-07 A 5-0 v Peterborough | FA Cup | Peterborough
+2026-11-04 A 0-2 v Oxford United | League One | Oxford | xG 1.83-0.81
+2026-10-31 A 0-0 v Plymouth | League One | Plymouth | xG 1.15-0.87
+2026-10-24 H 2-1 v Barnsley | League One | Reading | xG 0.89-0.77
+2026-10-21 H 1-0 v Leyton Orient | League One | Reading | xG 1.41-2.80
+2026-10-17 A 0-1 v Wigan | League One | Wigan | xG 1.99-1.16
+2026-10-13 H 0-2 v Chelsea U21 | EFL Trophy | Reading
+2026-10-10 A 5-1 v Milton Keynes Dons | League One | Milton Keynes | xG 3.64-0.44
+2026-10-03 H 1-1 v Bradford | League One | Reading | xG 0.67-0.85
+2026-09-26 A 2-2 v Wycombe | League One | High Wycombe
+2026-09-19 H 2-0 v Notts County | League One | Reading
+2026-09-15 H 1-2 v Brentford | League Cup | Reading
+2026-09-12 A 1-2 v Cambridge United | League One | Cambridge
+2026-09-05 H 3-1 v Blackpool | League One | Reading
+2026-09-02 H 5-0 v Mansfield Town | League One | Reading
+2026-08-25 A 3-0 v Stevenage | League Cup | Stevenage
+2026-08-22 A 0-0 v AFC Wimbledon | League One | London
+2026-08-18 H 1-1 v Wycombe | EFL Trophy | Reading [PEN, 90-min score shown]
+2026-08-15 H 3-4 v Luton | League One | Reading
+Listed home: 10 games, scored 19 (1.90), conceded 12 (1.20), blanks 1, clean sheets 3
+Listed away: 10 games, scored 18 (1.80), conceded 10 (1.00), blanks 4, clean sheets 4
+All: 20 games, scored 37 (1.85), conceded 22 (1.10), blanks 5, clean sheets 7
 
-(0 API-Football requests used)
+TABLE FOR Stockport County
+LEAGUE TABLE League One 2026 | 24 teams | 158 games played
+League averages per game: home 1.53, away 1.27, total 2.79
+#   team                   Pts | home P GF-GA  | away P GF-GA  | all P GF-GA
+1   Huddersfield            29 |  7  16-7       |  7  12-5       | 14  28-12
+2   Stockport County        26 |  7  16-9       |  7  10-5       | 14  26-14
+3   Oxford United           26 |  7  11-4       |  6  11-7       | 13  22-11
+4   Luton                   24 |  7  12-7       |  7  15-14      | 14  27-21
+5   Plymouth                23 |  7   8-7       |  7  13-12      | 14  21-19
+6   Reading                 22 |  7  17-7       |  7   8-8       | 14  25-15
+7   Bradford                22 |  6   6-5       |  7   4-3       | 13  10-8
+8   Cambridge United        21 |  7  12-11      |  7   9-10      | 14  21-21
+9   Sheffield Wednesday     20 |  7  14-5       |  6   8-9       | 13  22-14
+10  Leicester               19 |  7  11-12      |  6  11-7       | 13  22-19
+11  Mansfield Town          19 |  6  10-7       |  7  10-11      | 13  20-18
+12  Milton Keynes Dons      18 |  7  15-10      |  6   7-10      | 13  22-20
+13  Wycombe                 18 |  7  12-12      |  6   9-11      | 13  21-23
+14  Leyton Orient           17 |  7  10-10      |  6   9-4       | 13  19-14
+15  Burton Albion           17 |  7  12-10      |  7   6-11      | 14  18-21
+16  Stevenage               16 |  6   9-6       |  6   8-7       | 12  17-13
+17  Notts County            14 |  6   7-6       |  6   6-8       | 12  13-14
+18  AFC Wimbledon           13 |  6   3-4       |  7   6-17      | 13   9-21
+19  Blackpool               12 |  6  12-11      |  6   5-10      | 12  17-21
+20  Doncaster               12 |  6   6-6       |  7   8-16      | 13  14-22
+21  Wigan                   11 |  7   7-10      |  7   4-12      | 14  11-22
+22  Peterborough            10 |  6   5-9       |  7   6-14      | 13  11-23
+23  Barnsley                 9 |  6   6-11      |  6   6-11      | 12  12-22
+24  Bromley                  9 |  6   4-14      |  7   9-19      | 13  13-33
+
+(Reading: same table as Stockport County, shown above)
+
+(24 API-Football requests used)
 
 ----------------------------------------------------------------------
 MATCHBOOK: skipped (switched off for this run)
