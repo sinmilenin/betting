@@ -1,2 +1,22 @@
-# scan 14.11 12:55 run 4 (Al-Dhafra id:2873)
-id:2873 v Ajman | n=20 | xg=10
+# scan 14.11 13:40 run 1 (16:00 fixtures, fallback-grid candidates)
+Yeovil v Boreham Wood | n=20 | xg=10
+Avro v Chester | n=20 | xg=10
+Partick v Inverness | n=20 | xg=10
+Hednesford v Hemel Hempstead | n=20 | xg=10
+Darlington v Bury | n=20 | xg=10
+Cove Rangers v Montrose | n=20 | xg=10
+Gateshead v Barrow | n=20 | xg=10
+Tottenham W v Everton W | n=20 | xg=10
+Edinburgh City v Clyde | n=20 | xg=10
+Horsham v Torquay | n=20 | xg=10
+Sutton Utd v Solihull Moors | n=20 | xg=10
+East Fife v Peterhead | n=20 | xg=10
+Dartford v Totton | n=20 | xg=10
+Livingston v Morton | n=20 | xg=10
+Ayr v Raith | n=20 | xg=10
+Carlisle v Boston Utd | n=20 | xg=10
+Scunthorpe v Worthing | n=20 | xg=10
+Kidderminster v Halifax | n=20 | xg=10
+Farnham Town v Ebbsfleet | n=20 | xg=10
+Forfar v Spartans | n=20 | xg=10
+East Kilbride v Alloa | n=20 | xg=10
