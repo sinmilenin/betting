@@ -1,7 +1,32 @@
-MATCH VSK Århus v Middelfart | fetched 2026-11-14 11:15 local
+MATCH VSK Arhus v Middelfart | fetched 2026-11-14 11:15 local
 
-FORM DATA VSK Århus v Middelfart | source API-Football | 2026-11-14 11:15 UTC
+FORM DATA VSK Arhus v Middelfart | source API-Football | 2026-11-14 11:15 UTC
 H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
+
+=== VSK Århus (id 6064): last 20 finished games ===
+2026-11-07 A 0-1 v FA 2000 | 2. Division | ?
+2026-10-30 A 1-4 v Skive | 2. Division | ?
+2026-10-24 H 2-2 v Naestved | 2. Division | ?
+2026-10-18 A 2-2 v Thisted FC | 2. Division | ?
+2026-10-11 A 1-3 v Nykobing FC | 2. Division | ?
+2026-10-02 H 0-2 v Brabrand | 2. Division | ?
+2026-09-26 H 1-0 v Skive | 2. Division | ?
+2026-09-19 A 1-1 v Middelfart | 2. Division | ?
+2026-09-13 H 2-2 v B 93 | 2. Division | ?
+2026-09-09 H 0-2 v Lyngby | DBU Pokalen | ?
+2026-09-05 A 0-1 v Roskilde | 2. Division | ?
+2026-08-29 H 0-0 v FA 2000 | 2. Division | ?
+2026-08-26 A 1-1 v Marienlyst | DBU Pokalen | ? [AET, 90-min score shown]
+2026-08-23 A 2-0 v Naestved | 2. Division | ?
+2026-08-15 H 3-1 v Thisted FC | 2. Division | ?
+2026-08-08 H 3-0 v Fremad Amager | 2. Division | ?
+2026-08-04 A 6-1 v tst Fodbold | DBU Pokalen | ?
+2026-08-01 A 2-0 v HIK | 2. Division | ?
+2026-07-25 A 1-0 v Skive | Friendlies Clubs | ?
+2026-07-21 A 0-0 v Brabrand | Friendlies Clubs | ?
+Listed home: 8 games, scored 11 (1.38), conceded 9 (1.12), blanks 3, clean sheets 3
+Listed away: 12 games, scored 17 (1.42), conceded 14 (1.17), blanks 3, clean sheets 4
+All: 20 games, scored 28 (1.40), conceded 23 (1.15), blanks 6, clean sheets 7
 
 === Middelfart (id 6042): last 20 finished games ===
 2026-11-07 H 3-2 v Naestved | 2. Division | ?
@@ -28,9 +53,7 @@ Listed home: 10 games, scored 25 (2.50), conceded 14 (1.40), blanks 0, clean she
 Listed away: 10 games, scored 15 (1.50), conceded 13 (1.30), blanks 1, clean sheets 4
 All: 20 games, scored 40 (2.00), conceded 27 (1.35), blanks 1, clean sheets 7
 
-!! VSK Århus: API-Football error: {"search": "The Search field may only contain alpha-numeric characters and spaces."}
-
-TABLE FOR Middelfart
+TABLE FOR VSK Århus
 LEAGUE TABLE 2. Division 2026 | 12 teams | 93 games played
 League averages per game: home 1.61, away 1.32, total 2.94
 #   team                   Pts | home P GF-GA  | away P GF-GA  | all P GF-GA
@@ -47,7 +70,9 @@ League averages per game: home 1.61, away 1.32, total 2.94
 11  FA 2000                 12 |  7   8-14      |  8   6-14      | 15  14-28
 12  Thisted FC              10 |  8   6-13      |  8   8-18      | 16  14-31
 
-(14 API-Football requests used)
+(Middelfart: same table as VSK Århus, shown above)
+
+(25 API-Football requests used)
 
 ----------------------------------------------------------------------
 MATCHBOOK: skipped (switched off for this run)

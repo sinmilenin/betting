@@ -1,5 +1,3 @@
-RUN 2026-11-14 11:15 local | 2 match(es)
-Athletic Club II v Racing Ferrol -> out/Athletic_Club_II_v_Racing_Ferrol.txt
-VSK Århus v Middelfart -> out/VSK_rhus_v_Middelfart.txt
-    !! VSK Århus: API-Football error: {"search": "The Search field may only contain alpha-numeric characters and spaces."}
-Requests used: API-Football 39, Matchbook 0
+RUN 2026-11-14 11:15 local | 1 match(es)
+VSK Arhus v Middelfart -> out/VSK_Arhus_v_Middelfart.txt
+Requests used: API-Football 25, Matchbook 0
