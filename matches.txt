@@ -1,4 +1,2 @@
-# scan 14.11 12:55 run 1
-Al Dhafra v Ajman | n=20 | xg=10
-Bangladesh v Pakistan | n=20 | xg=10
-Italy U19 v Ukraine U19 | n=20 | xg=10
+# scan 14.11 12:55 run 2 (Al Dhafra senior team)
+Al-Dhafra v Ajman | n=20 | xg=10
