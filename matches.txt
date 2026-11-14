@@ -1,7 +1,6 @@
-# scan 14.11 15:11 run 1
-Hartlepool v Wealdstone | n=20 | xg=10
-Hebburn Town v Guiseley | n=20 | xg=10
-Lumezzane v Trento | n=20 | xg=10
-Gubbio v Grosseto | n=20 | xg=10
-Dumbarton v Annan Athletic | n=20 | xg=10
-Uganda v Botswana | n=20 | xg=10
+# scan 14.11 15:56 run 1
+NAC Breda v Emmen | n=20 | xg=10
+Al Wasl v Al Nasr | n=20 | xg=10
+Real Union v Cultural Leonesa | n=20 | xg=10
+Carpi v Giana Erminio | n=20 | xg=10
+Wolfsburg W v Bayern Munich W | n=20 | xg=10
