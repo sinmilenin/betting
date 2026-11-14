@@ -1,2 +1,6 @@
-# scan 14.11 11:26 run 4 (Castellon id)
-Valladolid v id:5254 | n=20 | xg=10
+# scan 14.11 12:11 run 1
+Bilbao Athletic v Racing Ferrol | n=20 | xg=10
+VSK Aarhus v Middelfart | n=20 | xg=10
+Renate v Desenzano | n=20 | xg=10
+Arzignano v Alcione | n=20 | xg=10
+Chelsea W v Manchester City W | n=20 | xg=10
