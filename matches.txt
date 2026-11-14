@@ -1,3 +1,2 @@
-# scan 14.11 12:11 run 2 (team names)
-Athletic Club II v Racing Ferrol | n=20 | xg=10
-VSK Århus v Middelfart | n=20 | xg=10
+# scan 14.11 12:11 run 3 (VSK name)
+VSK Arhus v Middelfart | n=20 | xg=10
