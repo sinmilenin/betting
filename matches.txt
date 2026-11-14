@@ -1,2 +1,22 @@
-# scan 14.11 06:11 run 2 (Perth Glory name fix)
-Central Coast Mariners W v Perth Glory FC W | n=20 | xg=10
+# scan 14.11 07:40 run 1 (regular + top-20)
+Kowloon City v Kitchee | n=20 | xg=10
+Norway v Wales | n=20 | xg=10
+Georgia v Hungary | n=20 | xg=10
+Portugal v Denmark | n=20 | xg=10
+Austria v Ireland | n=20 | xg=10
+Romania v Poland | n=20 | xg=10
+Almeria v Andorra | n=20 | xg=10
+Mallorca v Cordoba | n=20 | xg=10
+Sweden v Bosnia | n=20 | xg=10
+Northern Ireland v Ukraine | n=20 | xg=10
+Kosovo v Israel | n=20 | xg=10
+Exeter v Cheltenham | n=20 | xg=10
+Atletico Nacional v Once Caldas | n=20 | xg=10
+Japan v Brazil | n=20 | xg=10
+Salford City v Northampton | n=20 | xg=10
+Palestine v Iran | n=20 | xg=10
+Sheffield Wednesday v Plymouth | n=20 | xg=10
+Swindon v Grimsby | n=20 | xg=10
+Bari v Foggia | n=20 | xg=10
+Real Sociedad II v Sporting Gijon | n=20 | xg=10
+Stockport County v Reading | n=20 | xg=10
