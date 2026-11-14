@@ -1,6 +1,5 @@
-# night scan 14.11 20:55
-Deportivo Cali v Tolima | n=20 | xg=10
-Cucuta v Jaguares de Cordoba | n=20 | xg=10
-Queretaro v Monterrey | n=20 | xg=10
-Consadole Sapporo v Sagan Tosu | n=20 | xg=10
-FC Imabari v Jubilo Iwata | n=20 | xg=10
+# night scan 14.11 20:55 run 2 (team name retries)
+Deportivo Cali v Deportes Tolima | n=20 | xg=10
+Cucuta v Jaguares | n=20 | xg=10
+Queretaro FC v Monterrey | n=20 | xg=10
+Imabari v Jubilo Iwata | n=20 | xg=10
