@@ -1,5 +1,8 @@
-RUN 2026-11-14 13:31 local | 3 match(es)
-id:2869 v Al Ain -> out/id_2869_v_Al_Ain.txt
-Eastleigh v AFC Fylde -> out/Eastleigh_v_AFC_Fylde.txt
-Sweden U19 v Lithuania U19 -> out/Sweden_U19_v_Lithuania_U19.txt
-Requests used: API-Football 76, Matchbook 0
+RUN 2026-11-14 14:16 local | 6 match(es)
+Hartlepool v Wealdstone -> out/Hartlepool_v_Wealdstone.txt
+Hebburn Town v Guiseley -> out/Hebburn_Town_v_Guiseley.txt
+Lumezzane v Trento -> out/Lumezzane_v_Trento.txt
+Gubbio v Grosseto -> out/Gubbio_v_Grosseto.txt
+Dumbarton v Annan Athletic -> out/Dumbarton_v_Annan_Athletic.txt
+Uganda v Botswana -> out/Uganda_v_Botswana.txt
+Requests used: API-Football 153, Matchbook 0
