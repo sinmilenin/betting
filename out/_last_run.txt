@@ -1,8 +1,8 @@
-RUN 2026-11-14 14:16 local | 6 match(es)
-Hartlepool v Wealdstone -> out/Hartlepool_v_Wealdstone.txt
-Hebburn Town v Guiseley -> out/Hebburn_Town_v_Guiseley.txt
-Lumezzane v Trento -> out/Lumezzane_v_Trento.txt
-Gubbio v Grosseto -> out/Gubbio_v_Grosseto.txt
-Dumbarton v Annan Athletic -> out/Dumbarton_v_Annan_Athletic.txt
-Uganda v Botswana -> out/Uganda_v_Botswana.txt
-Requests used: API-Football 153, Matchbook 0
+RUN 2026-11-14 14:58 local | 5 match(es)
+NAC Breda v Emmen -> out/NAC_Breda_v_Emmen.txt
+Al Wasl v Al Nasr -> out/Al_Wasl_v_Al_Nasr.txt
+Real Union v Cultural Leonesa -> out/Real_Union_v_Cultural_Leonesa.txt
+    !! Real Union: Ambiguous team name "Real Union".
+Carpi v Giana Erminio -> out/Carpi_v_Giana_Erminio.txt
+Wolfsburg W v Bayern Munich W -> out/Wolfsburg_W_v_Bayern_Munich_W.txt
+Requests used: API-Football 122, Matchbook 0

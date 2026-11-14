@@ -1,0 +1,101 @@
+MATCH Wolfsburg W v Bayern Munich W | fetched 2026-11-14 14:58 local
+
+FORM DATA Wolfsburg W v Bayern Munich W | source API-Football | 2026-11-14 14:59 UTC
+H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
+
+=== VfL Wolfsburg W (id 1863): last 20 finished games ===
+2026-11-10 A 3-0 v Feyenoord W | UEFA Europa Cup - Women | Rotterdam | xG 1.89-0.28
+2026-11-06 A 3-1 v Eintracht Frankfurt W | Frauen Bundesliga | Frankfurt | xG 1.32-1.03
+2026-11-02 H 8-0 v 1899 Hoffenheim W | DFB Pokal - Women | Wolfsburg
+2026-10-28 H 7-0 v Feyenoord W | UEFA Europa Cup - Women | Wolfsburg | xG 4.82-0.58
+2026-10-24 H 3-0 v FC Koln W | Frauen Bundesliga | Wolfsburg | xG 1.81-0.76
+2026-10-18 A 5-0 v Mainz 05 W | Frauen Bundesliga | Mainz | xG 3.15-0.37
+2026-10-04 H 2-1 v Hamburger SV W | Frauen Bundesliga | Wolfsburg
+2026-09-30 A 2-0 v Sturm Graz W | UEFA Europa Cup - Women | Graz
+2026-09-27 A 6-0 v SC Sand W | DFB Pokal - Women | ?
+2026-09-23 H 6-1 v Sturm Graz W | UEFA Europa Cup - Women | Wolfsburg
+2026-09-18 A 1-2 v 1899 Hoffenheim W | Frauen Bundesliga | Sinsheim
+2026-09-13 A 2-0 v Stuttgart W | Frauen Bundesliga | Stuttgart
+2026-09-06 H 3-2 v Werder Bremen W | Frauen Bundesliga | Wolfsburg
+2026-09-02 A 0-2 v Inter Milano W | UEFA Champions League Women | Sesto San Giovanni [PEN, 90-min score shown]
+2026-08-30 A 2-1 v Bayer Leverkusen W | Frauen Bundesliga | Leverkusen
+2026-08-26 H 2-0 v Inter Milano W | UEFA Champions League Women | Wolfsburg
+2026-08-22 A 8-2 v Nürnberg W | Frauen Bundesliga | Nuremberg
+2026-08-15 A 0-3 v Bayern Munich W | Supercup der Frauen | Ingolstadt
+2026-05-17 H 3-1 v Nürnberg W | Frauen Bundesliga | Wolfsburg
+2026-05-14 H 0-4 v Bayern Munich W | DFB Pokal - Women | Cologne
+Listed home: 9 games, scored 34 (3.78), conceded 9 (1.00), blanks 1, clean sheets 4
+Listed away: 11 games, scored 32 (2.91), conceded 11 (1.00), blanks 2, clean sheets 5
+All: 20 games, scored 66 (3.30), conceded 20 (1.00), blanks 3, clean sheets 9
+
+=== Bayern Munich W (id 1860): last 20 finished games ===
+2026-11-10 A 2-1 v Paris Saint Germain W | UEFA Champions League Women | Paris | xG 1.54-1.20
+2026-11-06 H 3-1 v Werder Bremen W | Frauen Bundesliga | Munich | xG 2.16-1.05
+2026-11-01 H 1-0 v Bayer Leverkusen W | DFB Pokal - Women | Munich
+2026-10-28 H 2-2 v Real Madrid W | UEFA Champions League Women | Munich | xG 2.65-1.33
+2026-10-23 A 5-1 v RB Leipzig W | Frauen Bundesliga | Leipzig | xG 1.88-1.24
+2026-10-19 H 5-0 v Stuttgart W | Frauen Bundesliga | Munich | xG 4.73-0.49
+2026-10-03 A 1-0 v Eintracht Frankfurt W | Frauen Bundesliga | Frankfurt
+2026-09-30 A 3-0 v SL Benfica W | UEFA Champions League Women | Lisbon
+2026-09-27 A 2-1 v Borussia Monchengladbach W | DFB Pokal - Women | ?
+2026-09-22 H 2-2 v Manchester City W | UEFA Champions League Women | Munich
+2026-09-19 H 5-2 v FC Koln W | Frauen Bundesliga | Munich
+2026-09-14 A 3-2 v Bayer Leverkusen W | Frauen Bundesliga | Leverkusen
+2026-09-06 H 4-1 v SC Freiburg W | Frauen Bundesliga | Munich
+2026-08-31 H 2-0 v Mainz 05 W | Frauen Bundesliga | Munich
+2026-08-21 A 4-1 v Union Berlin W | Frauen Bundesliga | Berlin
+2026-08-15 H 3-0 v VfL Wolfsburg W | Supercup der Frauen | Ingolstadt
+2026-05-17 A 1-0 v Hamburger SV W | Frauen Bundesliga | Hamburg
+2026-05-14 A 4-0 v VfL Wolfsburg W | DFB Pokal - Women | Cologne
+2026-05-09 H 2-0 v Eintracht Frankfurt W | Frauen Bundesliga | Munich
+2026-05-06 H 1-1 v 1899 Hoffenheim W | Frauen Bundesliga | Munich
+Listed home: 11 games, scored 30 (2.73), conceded 9 (0.82), blanks 0, clean sheets 5
+Listed away: 9 games, scored 25 (2.78), conceded 6 (0.67), blanks 0, clean sheets 4
+All: 20 games, scored 55 (2.75), conceded 15 (0.75), blanks 0, clean sheets 9
+
+TABLE FOR VfL Wolfsburg W
+LEAGUE TABLE Frauen Bundesliga 2026 | 14 teams | 65 games played
+League averages per game: home 1.91, away 1.68, total 3.58
+#   team                   Pts | home P GF-GA  | away P GF-GA  | all P GF-GA
+1   Bayern Munich W         27 |  5  19-4       |  4  13-4       |  9  32-8
+2   VfL Wolfsburg W         24 |  3   8-3       |  6  21-6       |  9  29-9
+3   Eintracht Frankfurt W   17 |  5   8-7       |  4   8-3       |  9  16-10
+4   Werder Bremen W         16 |  5  11-4       |  4   7-10      |  9  18-14
+5   Bayer Leverkusen W      16 |  5   9-8       |  4   6-4       |  9  15-12
+6   FC Koln W               15 |  5  10-3       |  4   6-10      |  9  16-13
+7   1899 Hoffenheim W       13 |  5   8-6       |  5   5-10      | 10  13-16
+8   Union Berlin W          11 |  5   7-9       |  4   8-8       |  9  15-17
+9   Stuttgart W             11 |  4   2-10      |  5   9-11      |  9  11-21
+10  RB Leipzig W            10 |  4   8-8       |  5   7-9       |  9  15-17
+11  SC Freiburg W           10 |  5   5-9       |  5   6-10      | 10  11-19
+12  Hamburger SV W           9 |  5  17-8       |  5   3-10      | 10  20-18
+13  Nürnberg W               8 |  4   8-13      |  5   8-10      |  9  16-23
+14  Mainz 05 W               0 |  5   4-17      |  5   2-19      | 10   6-36
+
+TABLE FOR Bayern Munich W
+LEAGUE TABLE UEFA Champions League Women 2026 | 18 teams | 36 games played
+League averages per game: home 1.64, away 1.81, total 3.44
+#   team                   Pts | home P GF-GA  | away P GF-GA  | all P GF-GA
+1   Lyon W                  10 |  2   6-0       |  2  14-0       |  4  20-0
+2   Barcelona W             10 |  2   6-3       |  2  14-0       |  4  20-3
+3   Bayern Munich W          8 |  2   4-4       |  2   5-1       |  4   9-5
+4   Arsenal W                8 |  2   4-0       |  2   3-3       |  4   7-3
+5   Chelsea W                8 |  2   3-0       |  2   0-0       |  4   3-0
+6   Manchester City W        6 |  2   2-2       |  2   6-3       |  4   8-5
+7   Real Madrid W            6 |  2   4-1       |  2   3-3       |  4   7-4
+8   Juventus W               6 |  2   1-8       |  2   7-1       |  4   8-9
+9   SL Benfica W             6 |  2   3-4       |  2   2-4       |  4   5-8
+10  Paris Saint Germain W    5 |  2   6-2       |  2   2-2       |  4   8-4
+11  Køge W                   4 |  2   5-9       |  2   1-2       |  4   6-11
+12  Roma W                   4 |  2   2-7       |  2   0-2       |  4   2-9
+13  Inter Milano W           4 |  2   2-4       |  2   1-7       |  4   3-11
+14  Servette Chênois W       3 |  2   5-9       |  2   2-7       |  4   7-16
+15  Häcken W                 2 |  2   0-3       |  2   1-2       |  4   1-5
+16  Paris FC W               2 |  2   3-3       |  2   2-8       |  4   5-11
+17  OH Leuven W              2 |  2   1-1       |  2   1-10      |  4   2-11
+18  Austria Wien W           1 |  2   2-5       |  2   1-4       |  4   3-9
+
+(27 API-Football requests used)
+
+----------------------------------------------------------------------
+MATCHBOOK: skipped (switched off for this run)

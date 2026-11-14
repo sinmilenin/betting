@@ -1,0 +1,70 @@
+MATCH Real Union v Cultural Leonesa | fetched 2026-11-14 14:58 local
+
+FORM DATA Real Union v Cultural Leonesa | source API-Football | 2026-11-14 14:59 UTC
+H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
+
+"Real Union" matches several teams. Use id:<number> instead of the name:
+  id:9586   Real Unión (Spain)
+  id:20375  Real Unión de Tenerife (Spain)
+  id:28507  Real Union de Tenerife W (Spain)
+=== Cultural Leonesa (id 725): last 20 finished games ===
+2026-11-08 H 1-1 v Ponferradina | Primera División RFEF - Group 1 | ?
+2026-11-01 A 0-1 v UD Ourense | Primera División RFEF - Group 1 | ?
+2026-10-27 A 1-0 v Gimnástica Segoviana | Copa del Rey | Segovia
+2026-10-24 H 1-2 v Pontevedra | Primera División RFEF - Group 1 | ?
+2026-10-18 A 1-1 v UD Logroñés | Primera División RFEF - Group 1 | ?
+2026-10-12 H 4-1 v Arenas Getxo | Primera División RFEF - Group 1 | ?
+2026-10-03 A 0-2 v Unionistas de Salamanca | Primera División RFEF - Group 1 | ?
+2026-09-26 H 2-2 v CD Coria | Primera División RFEF - Group 1 | ?
+2026-09-20 A 1-0 v Extremadura 1924 | Primera División RFEF - Group 1 | Almendralejo
+2026-09-13 A 0-1 v Cacereño | Primera División RFEF - Group 1 | ?
+2026-09-06 H 1-0 v Mérida AD | Primera División RFEF - Group 1 | ?
+2026-08-30 A 0-0 v Barakaldo | Primera División RFEF - Group 1 | Barakaldo
+2026-08-21 A 1-1 v Atlético Astorga | Friendlies Clubs | ?
+2026-08-15 H 5-0 v Salamanca UDS | Friendlies Clubs | ?
+2026-08-08 A 0-0 v Burgos | Friendlies Clubs | ? [PEN, 90-min score shown]
+2026-08-05 H 1-1 v Real Avilés | Friendlies Clubs | ?
+2026-08-01 A 0-2 v Athletic Club II | Friendlies Clubs | ?
+2026-05-30 A 1-1 v Real Sociedad II | Segunda División | San Sebastian
+2026-05-24 H 0-2 v Burgos | Segunda División | León
+2026-05-16 H 2-1 v Eibar | Segunda División | León
+Listed home: 9 games, scored 17 (1.89), conceded 10 (1.11), blanks 1, clean sheets 2
+Listed away: 11 games, scored 5 (0.45), conceded 9 (0.82), blanks 6, clean sheets 4
+All: 20 games, scored 22 (1.10), conceded 19 (0.95), blanks 7, clean sheets 6
+
+(retrying Real Union using the opponent's country, Spain)
+"Real Union" matches several teams. Use id:<number> instead of the name:
+  id:9586   Real Unión (Spain)
+  id:20375  Real Unión de Tenerife (Spain)
+  id:28507  Real Union de Tenerife W (Spain)
+!! Real Union: Ambiguous team name "Real Union".
+
+TABLE FOR Cultural Leonesa
+LEAGUE TABLE Primera División RFEF - Group 1 2026 | 20 teams | 111 games played
+League averages per game: home 1.41, away 1.11, total 2.51
+#   team                   Pts | home P GF-GA  | away P GF-GA  | all P GF-GA
+1   Lugo                    28 |  5  10-2       |  6   9-7       | 11  19-9
+2   UD Logroñés             23 |  5   6-5       |  6  16-9       | 11  22-14
+3   Pontevedra              18 |  6   9-7       |  5   4-4       | 11  13-11
+4   Cacereño                18 |  6   7-2       |  6   4-8       | 12  11-10
+5   Real Avilés             17 |  6  13-9       |  5  10-6       | 11  23-15
+6   Mirandes                17 |  5   6-3       |  6   7-9       | 11  13-12
+7   Racing Ferrol           17 |  6   8-4       |  5   2-5       | 11  10-9
+8   Extremadura 1924        16 |  5   6-4       |  6  15-11      | 11  21-15
+9   Mérida AD               16 |  6  11-9       |  5   7-5       | 11  18-14
+10  Athletic Club II        15 |  5   8-7       |  6   9-8       | 11  17-15
+11  Ponferradina            15 |  6   3-4       |  6   5-5       | 12   8-9
+12  Barakaldo               14 |  7   9-4       |  4   1-6       | 11  10-10
+13  Real Unión              13 |  5  11-8       |  6   8-11      | 11  19-19
+14  Cultural Leonesa        13 |  5   9-6       |  6   2-5       | 11  11-11
+15  Unionistas de Salamanc  13 |  6  11-9       |  5   2-9       | 11  13-18
+16  Zamora                  12 |  6   7-9       |  5   4-4       | 11  11-13
+17  CD Coria                12 |  5   9-8       |  6   5-9       | 11  14-17
+18  Deportivo La Coruña II  11 |  5   5-8       |  6   7-11      | 11  12-19
+19  Arenas Getxo            11 |  6   6-11      |  5   4-12      | 11  10-23
+20  UD Ourense               8 |  5   2-4       |  6   2-12      | 11   4-16
+
+(15 API-Football requests used)
+
+----------------------------------------------------------------------
+MATCHBOOK: skipped (switched off for this run)
