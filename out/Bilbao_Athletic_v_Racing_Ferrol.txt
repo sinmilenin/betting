@@ -1,0 +1,61 @@
+MATCH Bilbao Athletic v Racing Ferrol | fetched 2026-11-14 11:14 local
+
+FORM DATA Bilbao Athletic v Racing Ferrol | source API-Football | 2026-11-14 11:14 UTC
+H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
+
+=== Racing Ferrol (id 9409): last 20 finished games ===
+2026-11-07 H 1-2 v UD Logroñés | Primera División RFEF - Group 1 | Ferrol
+2026-10-31 H 0-0 v Ponferradina | Primera División RFEF - Group 1 | Ferrol
+2026-10-24 A 0-2 v Mirandes | Primera División RFEF - Group 1 | Miranda de Ebro
+2026-10-17 H 1-0 v Unionistas de Salamanca | Primera División RFEF - Group 1 | Ferrol
+2026-10-10 A 1-0 v Deportivo La Coruña II | Primera División RFEF - Group 1 | ?
+2026-10-03 H 2-0 v Pontevedra | Primera División RFEF - Group 1 | Ferrol
+2026-09-26 A 0-1 v Lugo | Primera División RFEF - Group 1 | Lugo
+2026-09-19 H 1-0 v Barakaldo | Primera División RFEF - Group 1 | Ferrol
+2026-09-13 H 3-2 v Real Unión | Primera División RFEF - Group 1 | Ferrol
+2026-09-06 A 0-1 v Extremadura 1924 | Primera División RFEF - Group 1 | Almendralejo
+2026-08-29 A 1-1 v Arenas Getxo | Primera División RFEF - Group 1 | Getxo
+2026-08-13 H 1-1 v Real Avilés | Friendlies Clubs | ?
+2026-08-08 H 2-2 v Real Madrid II | Friendlies Clubs | ?
+2026-05-23 A 2-3 v Unionistas de Salamanca | Primera División RFEF - Group 1 | Salamanca
+2026-05-17 H 0-0 v Osasuna II | Primera División RFEF - Group 1 | Ferrol
+2026-05-08 A 1-1 v Arenas Getxo | Primera División RFEF - Group 1 | Getxo
+2026-05-02 H 0-0 v Pontevedra | Primera División RFEF - Group 1 | Ferrol
+2026-04-26 H 2-2 v Real Avilés | Primera División RFEF - Group 1 | Ferrol
+2026-04-19 A 1-0 v Athletic Club II | Primera División RFEF - Group 1 | Lezama
+2026-04-11 H 0-5 v Real Madrid II | Primera División RFEF - Group 1 | Ferrol
+Listed home: 12 games, scored 13 (1.08), conceded 14 (1.17), blanks 4, clean sheets 6
+Listed away: 8 games, scored 6 (0.75), conceded 9 (1.12), blanks 3, clean sheets 2
+All: 20 games, scored 19 (0.95), conceded 23 (1.15), blanks 7, clean sheets 8
+
+!! Bilbao Athletic: No team found for "Bilbao Athletic".
+
+TABLE FOR Racing Ferrol
+LEAGUE TABLE Primera División RFEF - Group 1 2026 | 20 teams | 111 games played
+League averages per game: home 1.41, away 1.11, total 2.51
+#   team                   Pts | home P GF-GA  | away P GF-GA  | all P GF-GA
+1   Lugo                    28 |  5  10-2       |  6   9-7       | 11  19-9
+2   UD Logroñés             23 |  5   6-5       |  6  16-9       | 11  22-14
+3   Pontevedra              18 |  6   9-7       |  5   4-4       | 11  13-11
+4   Cacereño                18 |  6   7-2       |  6   4-8       | 12  11-10
+5   Real Avilés             17 |  6  13-9       |  5  10-6       | 11  23-15
+6   Mirandes                17 |  5   6-3       |  6   7-9       | 11  13-12
+7   Racing Ferrol           17 |  6   8-4       |  5   2-5       | 11  10-9
+8   Extremadura 1924        16 |  5   6-4       |  6  15-11      | 11  21-15
+9   Mérida AD               16 |  6  11-9       |  5   7-5       | 11  18-14
+10  Athletic Club II        15 |  5   8-7       |  6   9-8       | 11  17-15
+11  Ponferradina            15 |  6   3-4       |  6   5-5       | 12   8-9
+12  Barakaldo               14 |  7   9-4       |  4   1-6       | 11  10-10
+13  Real Unión              13 |  5  11-8       |  6   8-11      | 11  19-19
+14  Cultural Leonesa        13 |  5   9-6       |  6   2-5       | 11  11-11
+15  Unionistas de Salamanc  13 |  6  11-9       |  5   2-9       | 11  13-18
+16  Zamora                  12 |  6   7-9       |  5   4-4       | 11  11-13
+17  CD Coria                12 |  5   9-8       |  6   5-9       | 11  14-17
+18  Deportivo La Coruña II  11 |  5   5-8       |  6   7-11      | 11  12-19
+19  Arenas Getxo            11 |  6   6-11      |  5   4-12      | 11  10-23
+20  UD Ourense               8 |  5   2-4       |  6   2-12      | 11   4-16
+
+(14 API-Football requests used)
+
+----------------------------------------------------------------------
+MATCHBOOK: skipped (switched off for this run)
