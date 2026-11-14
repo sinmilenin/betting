@@ -1,3 +1,9 @@
-RUN 2026-11-14 09:49 local | 1 match(es)
-Bijelo Brdo v HNK Gorica -> out/Bijelo_Brdo_v_HNK_Gorica.txt
-Requests used: API-Football 26, Matchbook 0
+RUN 2026-11-14 10:28 local | 4 match(es)
+Czech Republic U19 v Croatia U19 -> out/Czech_Republic_U19_v_Croatia_U19.txt
+    !! Czech Republic U19: No team found for "Czech Republic U19".
+Farense U23 v Sporting CP U23 -> out/Farense_U23_v_Sporting_CP_U23.txt
+Asteras Tripolis II v PAOK B -> out/Asteras_Tripolis_II_v_PAOK_B.txt
+    !! PAOK B: No team found for "PAOK B".
+Valladolid v Castellon -> out/Valladolid_v_Castellon.txt
+    !! Castellon: Ambiguous team name "Castellon".
+Requests used: API-Football 68, Matchbook 0

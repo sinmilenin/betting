@@ -1,0 +1,57 @@
+MATCH Asteras Tripolis II v PAOK B | fetched 2026-11-14 10:28 local
+
+FORM DATA Asteras Tripolis II v PAOK B | source API-Football | 2026-11-14 10:28 UTC
+H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
+
+=== Asteras Tripolis II (id 25017): last 20 finished games ===
+2026-11-08 A 2-1 v Nestos Chrisoupolis | Super League 2 | ?
+2026-11-01 H 1-1 v Pyrgos 1968 | Super League 2 | ?
+2026-10-25 A 2-2 v Panthrakikos | Super League 2 | ?
+2026-10-17 H 1-1 v Zakynthos | Super League 2 | ?
+2026-10-11 A 1-1 v Olympiakos Piraeus II | Super League 2 | ?
+2026-10-04 H 2-0 v Anagennisi Karditsas | Super League 2 | ?
+2026-09-28 A 0-2 v Kallithea | Super League 2 | Athens
+2026-09-20 H 1-0 v Apollon Pontou | Super League 2 | ?
+2026-09-13 A 0-1 v Panserraikos | Super League 2 | Serres
+2026-09-06 A 0-2 v Panionios | Super League 2 | ?
+2026-03-22 A 0-3 v Niki Volos | Super League 2 | ?
+2026-03-14 A 2-2 v Anagennisi Karditsas | Super League 2 | ?
+2026-03-08 H 0-2 v Iraklis 1908 | Super League 2 | ?
+2026-02-28 H 1-1 v Niki Volos | Super League 2 | ?
+2026-02-22 H 1-0 v Anagennisi Karditsas | Super League 2 | ?
+2026-02-14 A 0-2 v Iraklis 1908 | Super League 2 | Thessaloniki
+2026-01-24 A 1-1 v Kavala | Super League 2 | ?
+2026-01-17 H 4-1 v Kampaniakos Chalastra | Super League 2 | ?
+2026-01-11 A 1-1 v PAS Giannina | Super League 2 | ?
+2025-12-22 H 0-1 v Anagennisi Karditsas | Super League 2 | ?
+Listed home: 9 games, scored 11 (1.22), conceded 7 (0.78), blanks 2, clean sheets 3
+Listed away: 11 games, scored 9 (0.82), conceded 18 (1.64), blanks 5, clean sheets 0
+All: 20 games, scored 20 (1.00), conceded 25 (1.25), blanks 7, clean sheets 3
+
+!! PAOK B: No team found for "PAOK B".
+
+TABLE FOR Asteras Tripolis II
+LEAGUE TABLE Super League 2 2026 | 16 teams | 80 games played
+League averages per game: home 1.32, away 1.01, total 2.34
+#   team                   Pts | home P GF-GA  | away P GF-GA  | all P GF-GA
+1   Marko                   26 |  6   8-2       |  4  11-4       | 10  19-6
+2   Kallithea               20 |  6  10-3       |  4   2-3       | 10  12-6
+3   Larisa                  19 |  5   5-2       |  5  10-4       | 10  15-6
+4   Niki Volos              17 |  5   8-6       |  5   6-3       | 10  14-9
+5   Panionios               17 |  6  12-4       |  4   1-5       | 10  13-9
+6   Panserraikos            17 |  5  12-5       |  5   2-9       | 10  14-14
+7   Ellas Syros             16 |  5   6-3       |  5  10-6       | 10  16-9
+8   Panthrakikos            13 |  7   8-8       |  3   4-4       | 10  12-12
+9   Asteras Tripolis II     13 |  4   5-2       |  6   5-9       | 10  10-11
+10  Anagennisi Karditsas    12 |  4   5-1       |  6   3-9       | 10   8-10
+11  PAOK II                 12 |  5   6-4       |  5   4-9       | 10  10-13
+12  Pyrgos 1968              9 |  4   4-9       |  6   4-5       | 10   8-14
+13  Nestos Chrisoupolis      8 |  6   5-8       |  4   4-7       | 10   9-15
+14  Apollon Pontou           8 |  3   2-2       |  7   5-11      | 10   7-13
+15  Olympiakos Piraeus II    6 |  5   6-12      |  5   7-10      | 10  13-22
+16  Zakynthos                4 |  4   4-10      |  6   3-8       | 10   7-18
+
+(14 API-Football requests used)
+
+----------------------------------------------------------------------
+MATCHBOOK: skipped (switched off for this run)
