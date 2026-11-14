@@ -1,6 +1,5 @@
-RUN 2026-11-14 17:14 local | 4 match(es)
-Sport Recife v Goias -> out/Sport_Recife_v_Goias.txt
-Criciuma v Novorizontino -> out/Criciuma_v_Novorizontino.txt
-Atletico Goianiense v Cuiaba -> out/Atletico_Goianiense_v_Cuiaba.txt
-Deportivo Maldonado v Cerro -> out/Deportivo_Maldonado_v_Cerro.txt
-Requests used: API-Football 99, Matchbook 0
+RUN 2026-11-14 18:43 local | 2 match(es)
+Scotland U19 v Kosovo U19 -> out/Scotland_U19_v_Kosovo_U19.txt
+Deportivo Recoleta v Libertad -> out/Deportivo_Recoleta_v_Libertad.txt
+    !! Libertad: Ambiguous team name "Libertad".
+Requests used: API-Football 40, Matchbook 0

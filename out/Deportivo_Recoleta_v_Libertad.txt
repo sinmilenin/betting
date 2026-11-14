@@ -1,0 +1,84 @@
+MATCH Deportivo Recoleta v Libertad | fetched 2026-11-14 18:43 local
+
+FORM DATA Deportivo Recoleta v Libertad | source API-Football | 2026-11-14 18:43 UTC
+H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
+
+=== Deportivo Recoleta (id 10476): last 20 finished games ===
+2026-11-08 A 1-1 v Cerro Porteno | Division Profesional - Clausura | Asunción | xG 0.88-1.59
+2026-11-05 A 1-4 v Olimpia | Division Profesional - Clausura | Asunción | xG 0.71-1.30
+2026-10-31 H 3-0 v Sportivo Ameliano | Division Profesional - Clausura | Asuncion | xG 3.04-0.98
+2026-10-28 A 2-0 v Sportivo Luqueno | Copa Paraguay | Luque
+2026-10-24 A 1-1 v 2 de Mayo | Division Profesional - Clausura | Pedro Juan Caballero
+2026-10-16 H 1-0 v Rubio NU | Division Profesional - Clausura | Asuncion | xG 1.56-1.56
+2026-10-12 A 0-1 v Nacional Asuncion | Division Profesional - Clausura | Asunción | xG 0.91-2.26
+2026-10-05 H 1-2 v Libertad Asuncion | Division Profesional - Clausura | Asuncion
+2026-09-28 A 0-0 v Club Sp. San Lorenzo | Division Profesional - Clausura | San Lorenzo
+2026-09-24 H 3-1 v Guairena FC | Copa Paraguay | San Lorenzo
+2026-09-20 A 0-1 v Sportivo Luqueno | Division Profesional - Clausura | Luque
+2026-09-12 H 1-3 v Sportivo Trinidense | Division Profesional - Clausura | Asuncion
+2026-09-07 A 0-2 v Club Guarani | Division Profesional - Clausura | Asuncion
+2026-09-03 H 1-3 v Cerro Porteno | Division Profesional - Clausura | Itaugua
+2026-08-29 H 1-2 v Olimpia | Division Profesional - Clausura | Asuncion
+2026-08-26 A 2-0 v Deportivo Santani | Copa Paraguay | San Estanislao
+2026-08-22 A 1-3 v Sportivo Ameliano | Division Profesional - Clausura | Villeta
+2026-08-18 H 0-4 v Boca Juniors | CONMEBOL Sudamericana | Asunción
+2026-08-14 H 1-2 v 2 de Mayo | Division Profesional - Clausura | Asuncion
+2026-08-11 A 1-3 v Boca Juniors | CONMEBOL Sudamericana | Buenos Aires
+Listed home: 9 games, scored 12 (1.33), conceded 17 (1.89), blanks 1, clean sheets 2
+Listed away: 11 games, scored 9 (0.82), conceded 16 (1.45), blanks 4, clean sheets 3
+All: 20 games, scored 21 (1.05), conceded 33 (1.65), blanks 5, clean sheets 5
+
+"Libertad" matches several teams. Use id:<number> instead of the name:
+  id:1179   Libertad Asuncion (Paraguay)
+  id:2856   Libertador FC (Venezuela)
+  id:11056  Libertad U20 (Paraguay)
+  id:11157  Libertad (Argentina)
+  id:15715  Libertad (Bolivia)
+  id:18762  Libertad (Ecuador)
+  id:20328  Los Libertadores (Peru)
+  id:20516  Libertad Limpeño W (Paraguay)
+  id:22224  Libertad San Carlos (Uruguay)
+  id:24528  La Libertad (Argentina)
+  id:25056  Libertad W (Paraguay)
+  id:26689  Libertad de San Patricio (Paraguay)
+  id:28427  Libertad Asuncion W (Paraguay)
+  id:28554  La Libertad (Guatemala)
+(retrying Libertad using the opponent's country, Paraguay)
+"Libertad" matches several teams. Use id:<number> instead of the name:
+  id:1179   Libertad Asuncion (Paraguay)
+  id:2856   Libertador FC (Venezuela)
+  id:11056  Libertad U20 (Paraguay)
+  id:11157  Libertad (Argentina)
+  id:15715  Libertad (Bolivia)
+  id:18762  Libertad (Ecuador)
+  id:20328  Los Libertadores (Peru)
+  id:20516  Libertad Limpeño W (Paraguay)
+  id:22224  Libertad San Carlos (Uruguay)
+  id:24528  La Libertad (Argentina)
+  id:25056  Libertad W (Paraguay)
+  id:26689  Libertad de San Patricio (Paraguay)
+  id:28427  Libertad Asuncion W (Paraguay)
+  id:28554  La Libertad (Guatemala)
+!! Libertad: Ambiguous team name "Libertad".
+
+TABLE FOR Deportivo Recoleta
+LEAGUE TABLE Division Profesional - Clausura 2026 | 12 teams | 114 games played
+League averages per game: home 1.29, away 1.22, total 2.51
+#   team                   Pts | home P GF-GA  | away P GF-GA  | all P GF-GA
+1   Olimpia                 42 |  9  21-6       | 10  16-8       | 19  37-14
+2   Sportivo Trinidense     34 | 10  16-12      |  9  15-6       | 19  31-18
+3   Libertad Asuncion       33 | 10  18-9       |  9  10-11      | 19  28-20
+4   Nacional Asuncion       32 |  9  12-4       | 10  14-10      | 19  26-14
+5   Club Guarani            31 | 10  12-14      |  9   9-3       | 19  21-17
+6   2 de Mayo               30 |  9   8-6       | 10  10-15      | 19  18-21
+7   Cerro Porteno           28 | 10  11-10      |  9  14-10      | 19  25-20
+8   Sportivo Luqueno        22 | 10  12-18      |  9  13-15      | 19  25-33
+9   Sportivo Ameliano       19 |  9  10-12      | 10   9-16      | 19  19-28
+10  Rubio NU                17 |  9   7-15      | 10  14-21      | 19  21-36
+11  Deportivo Recoleta      16 |  9  13-15      | 10   8-18      | 19  21-33
+12  Club Sp. San Lorenzo    11 | 10   7-18      |  9   7-14      | 19  14-32
+
+(15 API-Football requests used)
+
+----------------------------------------------------------------------
+MATCHBOOK: skipped (switched off for this run)
