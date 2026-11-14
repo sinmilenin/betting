@@ -108,5 +108,38 @@
     "lay": 20,
     "stake": 3,
     "created": "2026-11-14T16:32:38Z"
+  },
+  {
+    "id": "2026-11-14_sport-recife-goias_0-1",
+    "date": "2026-11-14",
+    "ko": "20:30",
+    "match": "Sport Recife v Goias",
+    "comp": "Brazil, Brazilian Serie B",
+    "cell": "0-1",
+    "lay": 12,
+    "stake": 3,
+    "created": "2026-11-14T17:18:45Z"
+  },
+  {
+    "id": "2026-11-14_criciuma-novorizontino_2-2",
+    "date": "2026-11-14",
+    "ko": "20:30",
+    "match": "Criciuma v Novorizontino",
+    "comp": "Brazil, Brazilian Serie B",
+    "cell": "2-2",
+    "lay": 19.5,
+    "stake": 3,
+    "created": "2026-11-14T17:18:45Z"
+  },
+  {
+    "id": "2026-11-14_atletico-go-cuiaba_2-1",
+    "date": "2026-11-14",
+    "ko": "20:30",
+    "match": "Atletico GO v Cuiaba",
+    "comp": "Brazil, Brazilian Serie B",
+    "cell": "2-1",
+    "lay": 9.8,
+    "stake": 3,
+    "created": "2026-11-14T17:18:45Z"
   }
 ]
