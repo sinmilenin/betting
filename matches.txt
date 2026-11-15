@@ -1,3 +1,4 @@
-# scan 15.11 07:40 top-20 run 2 (team fixes)
-Penafiel v id:6358 | n=20 | xg=10
-Danubio v Liverpool Montevideo | n=20 | xg=10
+# scan 15.11 09:11
+Singburi Warriors v Kasem Bundit University | n=20 | xg=10
+MFK Havirov v FK Blansko | n=20 | xg=10
+Apollon Kalamarias v Kallithea | n=20 | xg=10
