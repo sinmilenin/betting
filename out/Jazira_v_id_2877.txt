@@ -1,8 +1,14 @@
-MATCH Al-Jazira v Baniyas | fetched 2026-11-15 14:58 local
+MATCH Jazira v id:2877 | fetched 2026-11-15 15:00 local
 
-FORM DATA Al-Jazira v Baniyas | source API-Football | 2026-11-15 14:58 UTC
+FORM DATA Jazira v id:2877 | source API-Football | 2026-11-15 15:00 UTC
 H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
 
+"Jazira" matches several teams. Use id:<number> instead of the name:
+  id:2871   Al-Jazira (United-Arab-Emirates)
+  id:9110   Al Jazira (Syria)
+  id:13265  Al Jazira Al Hamra (United-Arab-Emirates)
+  id:26631  Al Jazira (Kuwait)
+  id:27488  Al Jazira U23 (United-Arab-Emirates)
 === Baniyas SC (id 2877): last 20 finished games ===
 2026-11-08 A 1-1 v Ajman | Pro League | Ajman | xG 1.35-2.31
 2026-10-23 A 0-0 v Al Nasr | Presidents Cup | Dubai [AET, 90-min score shown]
@@ -28,7 +34,14 @@ Listed home: 10 games, scored 15 (1.50), conceded 16 (1.60), blanks 2, clean she
 Listed away: 10 games, scored 10 (1.00), conceded 13 (1.30), blanks 3, clean sheets 2
 All: 20 games, scored 25 (1.25), conceded 29 (1.45), blanks 5, clean sheets 4
 
-!! Al-Jazira: API-Football error: {"search": "The Search field may only contain alpha-numeric characters and spaces."}
+(retrying Jazira using the opponent's country, United-Arab-Emirates)
+"Jazira" matches several teams. Use id:<number> instead of the name:
+  id:2871   Al-Jazira (United-Arab-Emirates)
+  id:9110   Al Jazira (Syria)
+  id:13265  Al Jazira Al Hamra (United-Arab-Emirates)
+  id:26631  Al Jazira (Kuwait)
+  id:27488  Al Jazira U23 (United-Arab-Emirates)
+!! Jazira: Ambiguous team name "Jazira".
 
 TABLE FOR Baniyas SC
 LEAGUE TABLE Pro League 2026 | 14 teams | 49 games played
@@ -49,7 +62,7 @@ League averages per game: home 1.65, away 1.63, total 3.29
 13  Hatta SC                 3 |  4   2-9       |  3   4-6       |  7   6-15
 14  Baniyas SC               2 |  4   4-10      |  3   2-3       |  7   6-13
 
-(13 API-Football requests used)
+(14 API-Football requests used)
 
 ----------------------------------------------------------------------
 MATCHBOOK: skipped (switched off for this run)

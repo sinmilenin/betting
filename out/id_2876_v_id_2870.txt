@@ -1,11 +1,33 @@
-MATCH Ittihad Kalba v Shabab Al Ahli | fetched 2026-11-15 14:58 local
+MATCH id:2876 v id:2870 | fetched 2026-11-15 15:00 local
 
-FORM DATA Ittihad Kalba v Shabab Al Ahli | source API-Football | 2026-11-15 14:58 UTC
+FORM DATA id:2876 v id:2870 | source API-Football | 2026-11-15 15:00 UTC
 H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
 
-"Ittihad Kalba" matches several teams. Use id:<number> instead of the name:
-  id:2876   Al-Ittihad Kalba (United-Arab-Emirates)
-  id:27495  Ittihad Kalba U23 (United-Arab-Emirates)
+=== Al-Ittihad Kalba (id 2876): last 20 finished games ===
+2026-11-07 A 3-1 v Al-Dhafra | Pro League | Ancient Zayed City | xG 1.59-0.97
+2026-10-22 A 1-1 v Al-Wasl FC | Presidents Cup | Dubai [PEN, 90-min score shown]
+2026-10-18 H 2-2 v Al-Jazira | Pro League | Kalba | xG 1.06-1.40
+2026-10-08 A 2-2 v Al Ain | League Cup | Al Ain
+2026-10-02 A 0-4 v Al-Wasl FC | League Cup | Dubai
+2026-09-19 H 2-1 v Khorfakkan | League Cup | Kalba
+2026-09-11 A 3-2 v Ajman | Pro League | Ajman
+2026-09-04 H 0-2 v Al Ain | Pro League | Kalba
+2026-08-28 A 1-4 v Dubai United | Pro League | Dubai
+2026-08-21 H 0-3 v Al-Wasl FC | Pro League | Kalba
+2026-08-14 A 2-2 v Al Nasr | Pro League | Dubai
+2026-05-15 A 1-2 v Al-Wasl FC | Pro League | Dubai
+2026-05-11 A 1-2 v Al Nasr | Pro League | Dubai
+2026-05-05 H 0-0 v Khorfakkan | Pro League | Kalba
+2026-04-23 H 1-2 v Baniyas SC | Pro League | Kalba
+2026-04-09 A 2-2 v Al Wahda FC | Pro League | Abu Dhabi
+2026-04-04 A 2-2 v Al Bataeh | Pro League | Sharjah
+2026-03-17 H 2-2 v Sharjah FC | Pro League | Kalba
+2026-03-11 A 1-5 v Shabab Al Ahli Dubai | Pro League | Dubai
+2026-02-26 H 1-1 v Al-Dhafra | Pro League | Kalba
+Listed home: 8 games, scored 8 (1.00), conceded 13 (1.62), blanks 3, clean sheets 1
+Listed away: 12 games, scored 19 (1.58), conceded 29 (2.42), blanks 1, clean sheets 0
+All: 20 games, scored 27 (1.35), conceded 42 (2.10), blanks 4, clean sheets 1
+
 === Shabab Al Ahli Dubai (id 2870): last 20 finished games ===
 2026-11-07 A 0-2 v Sharjah FC | Pro League | Sharjah | xG 0.50-1.57
 2026-11-03 A 0-2 v Al-Hilal Saudi FC | AFC Champions League Elite | Riyadh | xG 0.28-1.34
@@ -31,13 +53,7 @@ Listed home: 9 games, scored 14 (1.56), conceded 8 (0.89), blanks 0, clean sheet
 Listed away: 11 games, scored 15 (1.36), conceded 15 (1.36), blanks 4, clean sheets 1
 All: 20 games, scored 29 (1.45), conceded 23 (1.15), blanks 4, clean sheets 5
 
-(retrying Ittihad Kalba using the opponent's country, United-Arab-Emirates)
-"Ittihad Kalba" matches several teams. Use id:<number> instead of the name:
-  id:2876   Al-Ittihad Kalba (United-Arab-Emirates)
-  id:27495  Ittihad Kalba U23 (United-Arab-Emirates)
-!! Ittihad Kalba: Ambiguous team name "Ittihad Kalba".
-
-TABLE FOR Shabab Al Ahli Dubai
+TABLE FOR Al-Ittihad Kalba
 LEAGUE TABLE Pro League 2026 | 14 teams | 49 games played
 League averages per game: home 1.65, away 1.63, total 3.29
 #   team                   Pts | home P GF-GA  | away P GF-GA  | all P GF-GA
@@ -56,7 +72,9 @@ League averages per game: home 1.65, away 1.63, total 3.29
 13  Hatta SC                 3 |  4   2-9       |  3   4-6       |  7   6-15
 14  Baniyas SC               2 |  4   4-10      |  3   2-3       |  7   6-13
 
-(15 API-Football requests used)
+(Shabab Al Ahli Dubai: same table as Al-Ittihad Kalba, shown above)
+
+(25 API-Football requests used)
 
 ----------------------------------------------------------------------
 MATCHBOOK: skipped (switched off for this run)

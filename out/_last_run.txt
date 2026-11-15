@@ -1,9 +1,5 @@
-RUN 2026-11-15 14:58 local | 5 match(es)
-Ittihad Kalba v Shabab Al Ahli -> out/Ittihad_Kalba_v_Shabab_Al_Ahli.txt
-    !! Ittihad Kalba: Ambiguous team name "Ittihad Kalba".
-Al-Jazira v Baniyas -> out/Al_Jazira_v_Baniyas.txt
-    !! Al-Jazira: API-Football error: {"search": "The Search field may only contain alpha-numeric characters and spaces."}
-Conquense v Guadalajara -> out/Conquense_v_Guadalajara.txt
-Pergolettese v Pro Vercelli -> out/Pergolettese_v_Pro_Vercelli.txt
-Real Murcia II v UCAM Murcia -> out/Real_Murcia_II_v_UCAM_Murcia.txt
-Requests used: API-Football 103, Matchbook 0
+RUN 2026-11-15 15:00 local | 2 match(es)
+id:2876 v id:2870 -> out/id_2876_v_id_2870.txt
+Jazira v id:2877 -> out/Jazira_v_id_2877.txt
+    !! Jazira: Ambiguous team name "Jazira".
+Requests used: API-Football 39, Matchbook 0
