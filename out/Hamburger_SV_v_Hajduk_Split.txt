@@ -1,0 +1,70 @@
+MATCH Hamburger SV v Hajduk Split | fetched 2026-11-15 12:45 local
+
+FORM DATA Hamburger SV v Hajduk Split | source API-Football | 2026-11-15 12:45 UTC
+H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
+
+=== Hamburger SV (id 175): last 20 finished games ===
+2026-11-06 H 3-1 v Borussia Mönchengladbach | Bundesliga | Hamburger | xG 2.36-2.28
+2026-11-01 A 1-3 v Eintracht Frankfurt | Bundesliga | Frankfurt | xG 1.12-2.03
+2026-10-27 H 1-3 v Eintracht Frankfurt | DFB Pokal | Hamburg | xG 3.04-1.74
+2026-10-24 A 0-1 v SC Paderborn 07 | Bundesliga | Paderborn | xG 0.49-1.21
+2026-10-17 H 1-0 v VfB Stuttgart | Bundesliga | Hamburg | xG 1.50-2.28
+2026-10-10 A 3-2 v 1899 Hoffenheim | Bundesliga | Sinsheim | xG 1.28-0.93
+2026-10-04 H 2-0 v FC Copenhagen | Friendlies Clubs | ?
+2026-09-19 H 2-1 v 1. FC Köln | Bundesliga | Hamburg | xG 1.45-1.41
+2026-09-13 A 0-5 v RB Leipzig | Bundesliga | Leipzig | xG 1.10-2.43
+2026-09-06 H 0-5 v FSV Mainz 05 | Bundesliga | Hamburg | xG 0.19-2.77
+2026-08-29 A 0-2 v Borussia Dortmund | Bundesliga | Dortmund
+2026-08-24 A 3-0 v Verl | DFB Pokal | Verl
+2026-08-15 A 2-1 v Toulouse | Friendlies Clubs | ?
+2026-08-08 H 2-2 v Lille | Friendlies Clubs | ?
+2026-08-01 H 1-2 v Everton | Friendlies Clubs | ?
+2026-07-25 A 3-1 v 1. FC Heidenheim | Friendlies Clubs | ?
+2026-07-18 A 2-3 v Rapid Vienna | Friendlies Clubs | ?
+2026-05-16 A 1-1 v Bayer Leverkusen | Bundesliga | Leverkusen
+2026-05-10 H 3-2 v SC Freiburg | Bundesliga | Hamburg
+2026-05-02 A 2-1 v Eintracht Frankfurt | Bundesliga | Frankfurt
+Listed home: 9 games, scored 15 (1.67), conceded 16 (1.78), blanks 1, clean sheets 2
+Listed away: 11 games, scored 17 (1.55), conceded 20 (1.82), blanks 3, clean sheets 1
+All: 20 games, scored 32 (1.60), conceded 36 (1.80), blanks 4, clean sheets 3
+
+"Hajduk Split" matches several teams. Use id:<number> instead of the name:
+  id:608    HNK Hajduk Split (Croatia)
+  id:1482   HNK Hajduk Split II (Croatia)
+  id:17697  Hajduk Split U19 (Croatia)
+  id:27869  Hajduk Split W (Croatia)
+(retrying Hajduk Split using the opponent's country, Germany)
+"Hajduk Split" matches several teams. Use id:<number> instead of the name:
+  id:608    HNK Hajduk Split (Croatia)
+  id:1482   HNK Hajduk Split II (Croatia)
+  id:17697  Hajduk Split U19 (Croatia)
+  id:27869  Hajduk Split W (Croatia)
+!! Hajduk Split: Ambiguous team name "Hajduk Split".
+
+TABLE FOR Hamburger SV
+LEAGUE TABLE Bundesliga 2026 | 18 teams | 81 games played
+League averages per game: home 2.12, away 1.36, total 3.48
+#   team                   Pts | home P GF-GA  | away P GF-GA  | all P GF-GA
+1   Bayern München          21 |  4  20-4       |  5   9-5       |  9  29-9
+2   Borussia Dortmund       21 |  5  10-3       |  4   6-4       |  9  16-7
+3   SC Freiburg             19 |  5  14-5       |  4   6-5       |  9  20-10
+4   RB Leipzig              18 |  5  23-2       |  4   4-11      |  9  27-13
+5   Bayer Leverkusen        16 |  4  10-5       |  5  10-12      |  9  20-17
+6   Werder Bremen           15 |  4  10-5       |  5   7-10      |  9  17-15
+7   SV Elversberg           13 |  4  12-8       |  5   5-10      |  9  17-18
+8   VfB Stuttgart           12 |  4   7-5       |  5   8-10      |  9  15-15
+9   1899 Hoffenheim         12 |  5  11-8       |  4   5-9       |  9  16-17
+10  Eintracht Frankfurt     12 |  4   7-7       |  5   8-13      |  9  15-20
+11  Hamburger SV            12 |  4   6-7       |  5   4-13      |  9  10-20
+12  FSV Mainz 05            10 |  5   7-12      |  4  11-7       |  9  18-19
+13  SC Paderborn 07         10 |  5   6-6       |  4   2-5       |  9   8-11
+14  FC Augsburg              9 |  5   9-7       |  4  11-13      |  9  20-20
+15  1. FC Köln               9 |  5   7-6       |  4   3-8       |  9  10-14
+16  Union Berlin             7 |  5   6-7       |  4   1-14      |  9   7-21
+17  FC Schalke 04            6 |  4   0-3       |  5   5-8       |  9   5-11
+18  Borussia Mönchengladba   4 |  4   7-10      |  5   5-15      |  9  12-25
+
+(15 API-Football requests used)
+
+----------------------------------------------------------------------
+MATCHBOOK: skipped (switched off for this run)
