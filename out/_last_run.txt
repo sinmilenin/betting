@@ -1,3 +1,5 @@
-RUN 2026-11-15 12:46 local | 1 match(es)
-Hamburger SV v id:608 -> out/Hamburger_SV_v_id_608.txt
-Requests used: API-Football 26, Matchbook 0
+RUN 2026-11-15 13:29 local | 2 match(es)
+Como W v Como 1907 W -> out/Como_W_v_Como_1907_W.txt
+Navalcarnero v Getafe B -> out/Navalcarnero_v_Getafe_B.txt
+    !! Getafe B: No team found for "Getafe B".
+Requests used: API-Football 40, Matchbook 0

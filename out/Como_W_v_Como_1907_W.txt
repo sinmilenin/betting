@@ -1,0 +1,69 @@
+MATCH Como W v Como 1907 W | fetched 2026-11-15 13:29 local
+
+FORM DATA Como W v Como 1907 W | source API-Football | 2026-11-15 13:29 UTC
+H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
+
+=== Como W (id 19747): last 20 finished games ===
+2026-11-08 A 0-1 v Parma W | Serie A Women | Parma | xG 1.03-1.53
+2026-11-01 H 1-0 v AC Milan W | Serie A Women | Seregno | xG 0.47-1.02
+2026-10-25 A 0-0 v Lazio W | Serie A Women | Rome | xG 1.22-0.73
+2026-10-17 H 1-1 v Fiorentina W | Serie A Women | Seregno | xG 0.54-0.94
+2026-10-04 H 0-2 v Inter Milano W | Serie A Women | Seregno
+2026-09-27 A 2-1 v Ternana W | Serie A Women | Terni
+2026-09-06 H 2-1 v Como 1907 W | Serie A Cup Women | Seregno
+2026-08-29 A 0-1 v Juventus W | Serie A Cup Women | Biella
+2026-08-22 A 1-1 v AC Milan W | Serie A Cup Women | Milan
+2026-05-16 A 3-0 v Inter Milano W | Serie A Women | Sesto San Giovanni
+2026-05-09 H 0-0 v Napoli W | Serie A Women | Seregno
+2026-05-03 A 0-1 v Fiorentina W | Serie A Women | Bagno a Ripoli
+2026-04-25 H 1-1 v Parma W | Serie A Women | Seregno
+2026-04-03 A 3-4 v Roma W | Serie A Women | Rome
+2026-03-22 A 0-0 v AC Milan W | Serie A Women | Milan
+2026-03-15 H 0-0 v Ternana W | Serie A Women | Seregno
+2026-02-21 A 1-0 v Genoa W | Serie A Women | Genoa
+2026-02-14 H 2-0 v Sassuolo W | Serie A Women | Seregno
+2026-02-07 H 0-2 v Juventus W | Serie A Women | Seregno
+2026-02-01 A 1-1 v Lazio W | Serie A Women | Rome
+Listed home: 9 games, scored 7 (0.78), conceded 7 (0.78), blanks 4, clean sheets 4
+Listed away: 11 games, scored 11 (1.00), conceded 10 (0.91), blanks 5, clean sheets 4
+All: 20 games, scored 18 (0.90), conceded 17 (0.85), blanks 9, clean sheets 8
+
+=== Como 1907 W (id 27960): last 11 finished games ===
+2026-11-07 H 0-4 v Roma W | Serie A Women | Como | xG 0.99-1.50
+2026-10-31 A 1-1 v Ternana W | Serie A Women | Terni | xG 1.07-2.02
+2026-10-25 H 2-2 v Sassuolo W | Serie A Women | Como | xG 2.92-1.00
+2026-10-18 A 4-2 v Juventus W | Serie A Women | Biella | xG 1.37-2.99
+2026-10-04 A 2-1 v Napoli W | Serie A Women | Cercola
+2026-09-26 H 4-1 v AC Milan W | Serie A Women | Como
+2026-09-06 A 1-2 v Como W | Serie A Cup Women | Seregno
+2026-08-29 A 1-2 v AC Milan W | Serie A Cup Women | Milan
+2026-08-21 H 0-2 v Juventus W | Serie A Cup Women | Como
+2025-12-21 H 1-2 v Inter Milano W | Coppa Italia Women | ?
+2025-09-21 A 3-2 v Res Roma W | Coppa Italia Women | ?
+Listed home: 5 games, scored 7 (1.40), conceded 11 (2.20), blanks 2, clean sheets 0
+Listed away: 6 games, scored 12 (2.00), conceded 10 (1.67), blanks 0, clean sheets 0
+All: 11 games, scored 19 (1.73), conceded 21 (1.91), blanks 2, clean sheets 0
+
+TABLE FOR Como W
+LEAGUE TABLE Serie A Women 2026 | 12 teams | 39 games played
+League averages per game: home 1.59, away 1.54, total 3.13
+#   team                   Pts | home P GF-GA  | away P GF-GA  | all P GF-GA
+1   Roma W                  21 |  4  15-9       |  3  12-3       |  7  27-12
+2   Inter Milano W          16 |  3   8-0       |  3   5-0       |  6  13-0
+3   Fiorentina W            13 |  3   5-3       |  4   7-4       |  7  12-7
+4   Como 1907 W             11 |  3   6-7       |  3   7-4       |  6  13-11
+5   Juventus W               9 |  4   9-11      |  2   3-3       |  6  12-14
+6   Como W                   8 |  3   2-3       |  3   2-2       |  6   4-5
+7   AC Milan W               7 |  3   5-4       |  4   6-12      |  7  11-16
+8   Ternana W                7 |  4   3-7       |  2   2-4       |  6   5-11
+9   Napoli W                 6 |  3   4-5       |  4   6-6       |  7  10-11
+10  Parma W                  5 |  3   3-4       |  4   5-9       |  7   8-13
+11  Lazio W                  3 |  3   0-0       |  4   2-9       |  7   2-9
+12  Sassuolo W               2 |  3   2-7       |  3   3-6       |  6   5-13
+
+(Como 1907 W: same table as Como W, shown above)
+
+(25 API-Football requests used)
+
+----------------------------------------------------------------------
+MATCHBOOK: skipped (switched off for this run)
