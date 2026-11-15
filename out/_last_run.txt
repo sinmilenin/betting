@@ -1,5 +1,18 @@
-RUN 2026-11-15 17:50 local | 1 match(es)
-Universidad Guadalajara v Morelia -> out/Universidad_Guadalajara_v_Morelia.txt
-    !! Universidad Guadalajara: No team found for "Universidad Guadalajara".
-    !! Morelia: No team found for "Morelia".
-Requests used: API-Football 2, Matchbook 0
+RUN 2026-11-15 20:30 local | 10 match(es)
+Envigado v Union Magdalena -> out/Envigado_v_Union_Magdalena.txt
+Club Deportes Santa Cruz v CSD Rangers -> out/Club_Deportes_Santa_Cruz_v_CSD_Rangers.txt
+    !! Club Deportes Santa Cruz: No team found for "Club Deportes Santa Cruz".
+    !! CSD Rangers: No team found for "CSD Rangers".
+San Marcos v San Luis -> out/San_Marcos_v_San_Luis.txt
+    !! San Marcos: Ambiguous team name "San Marcos".
+Deportivo San Pedro v Marquense -> out/Deportivo_San_Pedro_v_Marquense.txt
+Cobreloa Calama v Puerto Montt -> out/Cobreloa_Calama_v_Puerto_Montt.txt
+    !! Cobreloa Calama: No team found for "Cobreloa Calama".
+Nacional Potosi v Real Potosi -> out/Nacional_Potosi_v_Real_Potosi.txt
+Defensor Sporting v Penarol -> out/Defensor_Sporting_v_Penarol.txt
+Panama v Curacao -> out/Panama_v_Curacao.txt
+    !! Curacao: Ambiguous team name "Curacao".
+Ferro Carril Oeste v Club Gimnasia y Tiro -> out/Ferro_Carril_Oeste_v_Club_Gimnasia_y_Tir.txt
+    !! Club Gimnasia y Tiro: No team found for "Club Gimnasia y Tiro".
+Quindio v Real Cartagena -> out/Quindio_v_Real_Cartagena.txt
+Requests used: API-Football 187, Matchbook 0
