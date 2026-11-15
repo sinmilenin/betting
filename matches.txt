@@ -1,2 +1,8 @@
-# scan 15.11 09:56 run 2 (team fix)
-Teplice II v Hradec Kralove II | n=20 | xg=10
+# scan 15.11 10:41
+Lee Man v Tai Po | n=20 | xg=10
+Chindia Targoviste v FCSB | n=20 | xg=10
+Elche II v Atletico Baleares | n=20 | xg=10
+Naxara v Manresa | n=20 | xg=10
+Tondela v Farense | n=20 | xg=10
+Real Sociedad W v Athletic Club W | n=20 | xg=10
+Las Palmas II v Lucena | n=20 | xg=10
