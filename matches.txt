@@ -1,5 +1,2 @@
-# scan 15.11 11:26
-Logrones II v Pena Sport | n=20 | xg=10
-Atletico Madrid II v Teruel | n=20 | xg=10
-Amarante v Felgueiras | n=20 | xg=10
-Tenerife v Ceuta | n=20 | xg=10
+# scan 15.11 11:26 (run 2)
+Amarante v Felgueiras 1932 | n=20 | xg=10
