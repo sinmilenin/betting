@@ -1,0 +1,104 @@
+MATCH Rumilly Vallieres v Saint Etienne | fetched 2026-11-15 11:18 local
+
+FORM DATA Rumilly Vallieres v Saint Etienne | source API-Football | 2026-11-15 11:18 UTC
+H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
+
+=== Rumilly Vallières (id 9973): last 20 finished games ===
+2026-11-11 A 4-2 v Saint-Priest | National 2 - Group C | Saint-Priest
+2026-10-31 H 5-0 v Istres | National 2 - Group C | ?
+2026-10-16 A 7-4 v Chateauroux | National 2 - Group C | ?
+2026-10-03 H 4-1 v Limonest | National 2 - Group C | ?
+2026-09-19 A 0-1 v UF Touraine | National 2 - Group C | ?
+2026-09-12 H 0-3 v Hyères | National 2 - Group C | ?
+2026-09-05 A 1-2 v Hauts Lyonnais | National 2 - Group C | ?
+2026-08-29 H 3-0 v Troyes II | National 2 - Group C | ?
+2026-08-22 A 7-1 v Lyon Duchere | National 2 - Group C | Lyon
+2026-05-16 H 0-1 v Creteil | National 2 - Group C | Rumilly
+2026-05-09 A 2-1 v Grasse | National 2 - Group C | Grasse
+2026-05-02 H 3-2 v Bobigny | National 2 - Group C | Rumilly
+2026-04-25 A 1-2 v Toulon | National 2 - Group C | Toulon
+2026-04-18 H 1-3 v Fréjus St-Raphaël | National 2 - Group C | Rumilly
+2026-04-11 H 1-1 v Saint-Priest | National 2 - Group C | Rumilly
+2026-04-04 A 5-0 v Limonest | National 2 - Group C | Limonest
+2026-03-28 H 1-1 v Istres | National 2 - Group C | Rumilly
+2026-03-20 A 1-2 v Andrézieux | National 2 - Group C | Andrézieux-Bouthéon
+2026-03-14 H 1-1 v Cannes | National 2 - Group C | Rumilly
+2026-03-07 A 0-1 v Hyères | National 2 - Group C | Hyères
+Listed home: 10 games, scored 19 (1.90), conceded 13 (1.30), blanks 2, clean sheets 2
+Listed away: 10 games, scored 28 (2.80), conceded 16 (1.60), blanks 2, clean sheets 1
+All: 20 games, scored 47 (2.35), conceded 29 (1.45), blanks 4, clean sheets 3
+
+=== Saint Etienne (id 1063): last 20 finished games ===
+2026-11-07 H 2-0 v Laval | Ligue 2 | Saint Etienne | xG 2.94-0.21
+2026-10-31 A 0-3 v Guingamp | Ligue 2 | Guingamp | xG 1.41-1.59
+2026-10-24 H 1-0 v Nantes | Ligue 2 | Saint Etienne
+2026-10-17 A 1-0 v RED Star FC 93 | Ligue 2 | Saint-Ouen
+2026-10-10 H 2-0 v Rodez | Ligue 2 | Saint Etienne
+2026-10-02 H 5-1 v FC Sion | Friendlies Clubs | ?
+2026-09-19 A 2-2 v Metz | Ligue 2 | Metz
+2026-09-12 A 1-2 v Dunkerque | Ligue 2 | Dunkerque
+2026-09-05 H 3-1 v Montpellier | Ligue 2 | Saint Etienne
+2026-08-31 A 3-2 v Dijon | Ligue 2 | Dijon
+2026-08-22 H 4-0 v Grenoble | Ligue 2 | Saint Etienne
+2026-08-14 H 3-1 v Clermont Foot | Ligue 2 | Saint Etienne
+2026-08-08 A 3-0 v Sochaux | Ligue 2 | Montbeliard
+2026-08-01 H 4-3 v Venezia | Friendlies Clubs | ?
+2026-07-29 H 4-0 v Lausanne | Friendlies Clubs | ?
+2026-07-22 A 1-2 v Rangers | Friendlies Clubs | ?
+2026-07-18 A 0-1 v Servette FC | Friendlies Clubs | ?
+2026-07-11 H 2-2 v Biel-Bienne | Friendlies Clubs | ?
+2026-05-29 A 1-4 v Nice | Ligue 1 | Nice
+2026-05-26 H 0-0 v Nice | Ligue 1 | Saint Etienne
+Listed home: 11 games, scored 30 (2.73), conceded 8 (0.73), blanks 1, clean sheets 6
+Listed away: 9 games, scored 12 (1.33), conceded 16 (1.78), blanks 2, clean sheets 2
+All: 20 games, scored 42 (2.10), conceded 24 (1.20), blanks 3, clean sheets 8
+
+TABLE FOR Rumilly Vallières
+LEAGUE TABLE National 2 - Group C 2026 | 17 teams | 80 games played
+League averages per game: home 1.49, away 1.05, total 2.54
+#   team                   Pts | home P GF-GA  | away P GF-GA  | all P GF-GA
+1   Nimes                   21 |  5  13-3       |  5   8-4       | 10  21-7
+2   UF Touraine             18 |  4   5-1       |  5   4-3       |  9   9-4
+3   Rumilly Vallières       18 |  4  12-4       |  5  19-10      |  9  31-14
+4   Toulon                  16 |  5   5-1       |  5   5-6       | 10  10-7
+5   Fréjus St-Raphaël       16 |  5  15-5       |  4   4-8       |  9  19-13
+6   Hauts Lyonnais          16 |  5   5-4       |  5   7-6       | 10  12-10
+7   Troyes II               16 |  5   8-3       |  5   4-14      | 10  12-17
+8   Hyères                  15 |  5   6-3       |  5   6-3       | 10  12-6
+9   Andrézieux              13 |  5   8-4       |  5   5-8       | 10  13-12
+10  Saint-Priest            11 |  5   9-9       |  5   3-8       | 10  12-17
+11  Chasselay MDA           10 |  5   7-7       |  4   4-3       |  9  11-10
+12  Limonest                 8 |  4   4-5       |  5   6-9       |  9  10-14
+13  Lyon Duchere             8 |  5   9-11      |  4   2-7       |  9  11-18
+14  Chateauroux              7 |  4   5-10      |  5   4-4       |  9   9-14
+15  Bourges Foot 18          7 |  5   5-6       |  4   0-5       |  9   5-11
+16  Canet Roussillon         6 |  5   2-6       |  4   2-9       |  9   4-15
+17  Istres                   5 |  4   1-2       |  5   1-12      |  9   2-14
+
+TABLE FOR Saint Etienne
+LEAGUE TABLE Ligue 2 2026 | 18 teams | 108 games played
+League averages per game: home 1.39, away 1.29, total 2.68
+#   team                   Pts | home P GF-GA  | away P GF-GA  | all P GF-GA
+1   Saint Etienne           28 |  6  15-2       |  6  10-9       | 12  25-11
+2   Nancy                   25 |  6   6-3       |  6  11-6       | 12  17-9
+3   Montpellier             24 |  6   8-5       |  6  10-4       | 12  18-9
+4   Reims                   21 |  6  15-9       |  6   9-6       | 12  24-15
+5   PAU                     20 |  7   8-8       |  5   8-5       | 12  16-13
+6   Dijon                   18 |  6  11-10      |  6  10-9       | 12  21-19
+7   Metz                    17 |  6  13-10      |  6   7-9       | 12  20-19
+8   RED Star FC 93          17 |  5   3-9       |  7  11-8       | 12  14-17
+9   Annecy                  16 |  5   5-8       |  7   9-10      | 12  14-18
+10  Dunkerque               15 |  7  11-7       |  5   6-10      | 12  17-17
+11  Guingamp                14 |  6  11-9       |  6   5-9       | 12  16-18
+12  Boulogne                13 |  6   7-5       |  6   3-3       | 12  10-8
+13  Rodez                   13 |  6   9-11      |  6   8-12      | 12  17-23
+14  Nantes                  12 |  6   6-10      |  6   8-8       | 12  14-18
+15  Clermont Foot           11 |  7   4-6       |  5   7-9       | 12  11-15
+16  Sochaux                 11 |  5   4-7       |  7   4-8       | 12   8-15
+17  Grenoble                11 |  6   6-10      |  6   7-12      | 12  13-22
+18  Laval                    9 |  6   8-10      |  6   6-13      | 12  14-23
+
+(26 API-Football requests used)
+
+----------------------------------------------------------------------
+MATCHBOOK: skipped (switched off for this run)

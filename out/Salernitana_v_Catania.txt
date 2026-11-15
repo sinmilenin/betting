@@ -1,0 +1,86 @@
+MATCH Salernitana v Catania | fetched 2026-11-15 11:18 local
+
+FORM DATA Salernitana v Catania | source API-Football | 2026-11-15 11:18 UTC
+H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
+
+=== Salernitana (id 514): last 20 finished games ===
+2026-11-07 A 0-1 v Inter U23 | Serie C - Girone C | Sesto San Giovanni
+2026-11-01 H 1-1 v Savoia | Serie C - Girone C | Salerno
+2026-10-26 A 0-3 v AZ Picerno | Serie C - Girone C | Picerno
+2026-10-17 H 2-2 v Scafatese | Serie C - Girone C | Salerno
+2026-10-11 A 0-0 v Casarano | Serie C - Girone C | Casarano
+2026-10-04 H 2-1 v Bari | Serie C - Girone C | Salerno
+2026-09-26 A 1-2 v Crotone | Serie C - Girone C | Crotone
+2026-09-19 H 1-0 v Giugliano | Serie C - Girone C | Salerno
+2026-09-15 A 1-1 v Barletta | Serie C - Girone C | Barletta
+2026-09-11 H 4-2 v Potenza | Serie C - Girone C | Salerno
+2026-09-06 H 1-1 v Cavese | Serie C - Girone C | Salerno
+2026-08-29 A 1-1 v Foggia | Serie C - Girone C | Foggia
+2026-08-24 H 1-2 v Sorrento | Serie C - Girone C | Salerno
+2026-08-15 H 1-2 v Scafatese | Coppa Italia Serie C | Salerno
+2026-08-08 H 2-1 v Sambiase | Friendlies Clubs | ?
+2026-05-27 A 0-2 v Union Brescia | Serie C - Promotion - Play-offs | Brescia
+2026-05-24 H 1-1 v Union Brescia | Serie C - Promotion - Play-offs | Salerno
+2026-05-20 A 2-0 v Ravenna | Serie C - Promotion - Play-offs | Ravenna
+2026-05-17 H 2-0 v Ravenna | Serie C - Promotion - Play-offs | Salerno
+2026-05-13 H 1-1 v Casertana | Serie C - Promotion - Play-offs | Salerno
+Listed home: 12 games, scored 19 (1.58), conceded 14 (1.17), blanks 0, clean sheets 2
+Listed away: 8 games, scored 5 (0.62), conceded 10 (1.25), blanks 4, clean sheets 2
+All: 20 games, scored 24 (1.20), conceded 24 (1.20), blanks 4, clean sheets 4
+
+=== Catania (id 1580): last 20 finished games ===
+2026-11-08 H 2-0 v Sorrento | Serie C - Girone C | Catania
+2026-10-31 A 0-1 v Audace Cerignola | Serie C - Girone C | Cerignola
+2026-10-25 H 6-0 v Giugliano | Serie C - Girone C | Catania
+2026-10-17 A 1-2 v Potenza | Serie C - Girone C | Potenza
+2026-10-11 A 3-0 v Team Altamura | Serie C - Girone C | Altamura
+2026-10-03 H 2-1 v Crotone | Serie C - Girone C | Catania
+2026-09-27 A 2-1 v Casertana | Serie C - Girone C | Caserta
+2026-09-19 H 0-0 v Barletta | Serie C - Girone C | Catania
+2026-09-15 A 4-2 v AZ Picerno | Serie C - Girone C | Picerno
+2026-09-12 H 1-2 v Scafatese | Serie C - Girone C | Catania
+2026-09-07 H 4-0 v Cosenza | Serie C - Girone C | Catania
+2026-09-02 H 0-3 v Savoia | Coppa Italia Serie C | Catania
+2026-08-29 A 0-2 v SS Monopoli | Serie C - Girone C | Monopoli
+2026-08-23 H 1-2 v Inter U23 | Serie C - Girone C | Catania
+2026-08-14 A 0-2 v Parma | Coppa Italia | Parma
+2026-08-08 A 1-1 v Vicenza Virtus | Coppa Italia | Vicenza [PEN, 90-min score shown]
+2026-05-27 H 2-1 v Ascoli | Serie C - Promotion - Play-offs | Lecco
+2026-05-24 A 0-4 v Ascoli | Serie C - Promotion - Play-offs | Ascoli Piceno
+2026-05-20 H 3-3 v Lecco | Serie C - Promotion - Play-offs | Catania
+2026-05-17 A 0-0 v Lecco | Serie C - Promotion - Play-offs | Lecco
+Listed home: 10 games, scored 21 (2.10), conceded 12 (1.20), blanks 2, clean sheets 4
+Listed away: 10 games, scored 11 (1.10), conceded 15 (1.50), blanks 5, clean sheets 2
+All: 20 games, scored 32 (1.60), conceded 27 (1.35), blanks 7, clean sheets 6
+
+TABLE FOR Salernitana
+LEAGUE TABLE Serie C - Girone C 2026 | 20 teams | 132 games played
+League averages per game: home 1.61, away 1.16, total 2.77
+#   team                   Pts | home P GF-GA  | away P GF-GA  | all P GF-GA
+1   Potenza                 32 |  6  19-8       |  7  16-10      | 13  35-18
+2   Bari                    26 |  8  11-3       |  6   8-8       | 14  19-11
+3   Catania                 22 |  7  16-5       |  6  10-8       | 13  26-13
+4   Scafatese               21 |  6  10-5       |  7  12-12      | 13  22-17
+5   Audace Cerignola        20 |  6  12-1       |  7   8-14      | 13  20-15
+6   SS Monopoli             20 |  6   7-2       |  7   6-7       | 13  13-9
+7   Inter U23               20 |  7  12-12      |  6  10-8       | 13  22-20
+8   Casertana               20 |  7  12-9       |  6   5-6       | 13  17-15
+9   Sorrento                20 |  6   6-4       |  7  10-11      | 13  16-15
+10  AZ Picerno              19 |  7  16-11      |  7   8-12      | 14  24-23
+11  Casarano                18 |  7  13-8       |  7   5-14      | 14  18-22
+12  Cavese                  16 |  6  17-10      |  7   6-12      | 13  23-22
+13  Team Altamura           16 |  7   7-13      |  6   6-6       | 13  13-19
+14  Giugliano               16 |  7  13-12      |  6   4-17      | 13  17-29
+15  Salernitana             15 |  7  12-9       |  6   3-8       | 13  15-17
+16  Barletta                15 |  6   7-6       |  7   7-10      | 13  14-16
+17  Foggia                  15 |  7   5-7       |  7  10-12      | 14  15-19
+18  Savoia                  12 |  6   7-9       |  7   7-12      | 13  14-21
+19  Cosenza                 10 |  6   4-8       |  7   6-15      | 13  10-23
+20  Crotone                  1 |  7   6-11      |  6   6-10      | 13  12-21
+
+(Catania: same table as Salernitana, shown above)
+
+(24 API-Football requests used)
+
+----------------------------------------------------------------------
+MATCHBOOK: skipped (switched off for this run)
