@@ -1,9 +1,3 @@
-# scan 15.11 12:11 (run 1)
-Giugliano v Savoia | n=20 | xg=10
-MVV v Vitesse | n=20 | xg=10
-Spezia v Vado | n=20 | xg=10
-Salernitana v Catania | n=20 | xg=10
-Wolverhampton Wanderers W v Durham W | n=20 | xg=10
-West Ham W v Charlton W | n=20 | xg=10
-Rumilly Vallieres v Saint Etienne | n=20 | xg=10
-Portimonense v Academica | n=20 | xg=10
+# scan 15.11 12:11 (run 2: women's team names)
+Wolves W v Durham W | n=20 | xg=10
+West Ham W v Charlton Athletic W | n=20 | xg=10
