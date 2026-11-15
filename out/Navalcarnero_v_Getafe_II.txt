@@ -1,6 +1,6 @@
-MATCH Navalcarnero v Getafe B | fetched 2026-11-15 13:29 local
+MATCH Navalcarnero v Getafe II | fetched 2026-11-15 13:30 local
 
-FORM DATA Navalcarnero v Getafe B | source API-Football | 2026-11-15 13:29 UTC
+FORM DATA Navalcarnero v Getafe II | source API-Football | 2026-11-15 13:30 UTC
 H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
 
 === Navalcarnero (id 5271): last 20 finished games ===
@@ -28,7 +28,30 @@ Listed home: 9 games, scored 19 (2.11), conceded 13 (1.44), blanks 0, clean shee
 Listed away: 11 games, scored 18 (1.64), conceded 13 (1.18), blanks 3, clean sheets 3
 All: 20 games, scored 37 (1.85), conceded 26 (1.30), blanks 3, clean sheets 4
 
-!! Getafe B: No team found for "Getafe B".
+=== Getafe II (id 9572): last 20 finished games ===
+2026-11-08 H 2-0 v SS Reyes | Segunda División RFEF - Group 5 | ?
+2026-11-01 A 3-4 v Real Valladolid II | Segunda División RFEF - Group 5 | ?
+2026-10-25 H 2-2 v Calvo Sotelo | Segunda División RFEF - Group 5 | ?
+2026-10-18 H 2-2 v Albacete II | Segunda División RFEF - Group 5 | ?
+2026-10-11 A 1-4 v Guadalajara | Segunda División RFEF - Group 5 | Guadalajara
+2026-10-04 H 0-0 v Numancia | Segunda División RFEF - Group 5 | ?
+2026-09-27 A 0-1 v Real Ávila | Segunda División RFEF - Group 5 | ?
+2026-09-20 H 1-1 v CF Talavera | Segunda División RFEF - Group 5 | ?
+2026-09-12 A 0-1 v Salamanca UDS | Segunda División RFEF - Group 5 | ?
+2026-09-06 A 2-2 v Conquense | Segunda División RFEF - Group 5 | ?
+2026-08-28 H 0-2 v Torrejón | Friendlies Clubs | ?
+2026-08-27 A 2-2 v Unión Adarve | Friendlies Clubs | ?
+2026-08-19 A 1-0 v CF Talavera | Friendlies Clubs | ?
+2026-08-01 A 0-2 v Alcorcon | Friendlies Clubs | ?
+2026-05-16 A 1-2 v UD Logroñés | Segunda División RFEF - Play-offs | ?
+2026-05-10 H 0-2 v UD Logroñés | Segunda División RFEF - Play-offs | Getafe
+2026-05-03 A 1-2 v Orihuela | Segunda División RFEF - Group 5 | Orihuela
+2026-04-26 H 0-1 v Intercity | Segunda División RFEF - Group 5 | Getafe
+2026-04-19 H 3-0 v Las Palmas II | Segunda División RFEF - Group 5 | Getafe
+2026-04-11 A 0-0 v SS Reyes | Segunda División RFEF - Group 5 | San Sebastián de los Reyes
+Listed home: 9 games, scored 10 (1.11), conceded 10 (1.11), blanks 4, clean sheets 3
+Listed away: 11 games, scored 11 (1.00), conceded 20 (1.82), blanks 4, clean sheets 2
+All: 20 games, scored 21 (1.05), conceded 30 (1.50), blanks 8, clean sheets 5
 
 TABLE FOR Navalcarnero
 LEAGUE TABLE Segunda División RFEF - Group 5 2026 | 18 teams | 89 games played
@@ -53,7 +76,9 @@ League averages per game: home 1.72, away 1.12, total 2.84
 17  Real Ávila               7 |  5   5-6       |  5   3-12      | 10   8-18
 18  Calvo Sotelo             6 |  5   2-5       |  5   4-15      | 10   6-20
 
-(15 API-Football requests used)
+(Getafe II: same table as Navalcarnero, shown above)
+
+(26 API-Football requests used)
 
 ----------------------------------------------------------------------
 MATCHBOOK: skipped (switched off for this run)
