@@ -1,0 +1,86 @@
+MATCH FC Ryukyu v Kochi United | fetched 2026-11-15 05:57 local
+
+FORM DATA FC Ryukyu v Kochi United | source API-Football | 2026-11-15 05:57 UTC
+H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
+
+=== FC Ryukyu (id 2235): last 20 finished games ===
+2026-11-07 A 1-4 v Fukushima United | J3 League | Fukushima
+2026-11-03 H 2-3 v FC Gifu | J3 League | Okinawa
+2026-10-31 H 5-2 v Gainare Tottori | J3 League | Okinawa
+2026-10-24 A 3-1 v Nara Club | J3 League | Nara
+2026-10-21 A 1-0 v Parceiro Nagano | J3 League | Nagano
+2026-10-17 H 1-0 v Tochigi SC | J3 League | Okinawa
+2026-10-10 A 1-2 v Thespakusatsu Gunma | J3 League | Maebashi
+2026-10-03 H 0-2 v Kanazawa | J3 League | Okinawa
+2026-09-26 H 1-1 v Ehime FC | J3 League | Okinawa
+2026-09-20 A 0-3 v Biwako Shiga | J3 League | Hikone
+2026-09-13 H 1-0 v Kamatamare Sanuki | J3 League | Okinawa
+2026-09-09 H 3-0 v Kitakyushu | J3 League | Okinawa
+2026-09-05 A 1-2 v Kagoshima United | J3 League | Kagoshima
+2026-09-02 H 2-3 v Yokohama FC | J-League Cup | Okinawa
+2026-08-29 H 2-1 v Sagamihara | J3 League | Okinawa
+2026-08-22 A 2-2 v Osaka | J3 League | Higashiosaka
+2026-08-15 A 0-1 v Renofa Yamaguchi | J3 League | Yamaguchi
+2026-07-17 H 5-4 v Urawa | Friendlies Clubs | ?
+2026-06-07 A 1-1 v Fukushima United | J2/J3 League | Fukushima [PEN, 90-min score shown]
+2026-05-31 A 2-1 v Imabari | J2/J3 League | Imabari
+Listed home: 10 games, scored 22 (2.20), conceded 16 (1.60), blanks 1, clean sheets 3
+Listed away: 10 games, scored 12 (1.20), conceded 17 (1.70), blanks 2, clean sheets 1
+All: 20 games, scored 34 (1.70), conceded 33 (1.65), blanks 3, clean sheets 4
+
+=== Kochi United (id 7129): last 20 finished games ===
+2026-11-07 A 0-5 v Nara Club | J3 League | Nara
+2026-11-03 H 4-0 v Ehime FC | J3 League | Kochi
+2026-10-31 H 1-3 v Sagamihara | J3 League | Kochi
+2026-10-25 A 0-0 v Gainare Tottori | J3 League | Tottori
+2026-10-21 A 1-3 v Kagoshima United | J3 League | Kagoshima
+2026-10-18 A 0-2 v Renofa Yamaguchi | J3 League | Yamaguchi
+2026-10-10 H 1-3 v Parceiro Nagano | J3 League | Kochi
+2026-10-03 A 0-2 v Kitakyushu | J3 League | Kitakyushu
+2026-09-26 H 0-4 v Osaka | J3 League | Kochi
+2026-09-19 A 0-1 v Thespakusatsu Gunma | J3 League | Maebashi
+2026-09-13 H 1-1 v Kanazawa | J3 League | Kochi
+2026-09-09 H 0-1 v V-varen Nagasaki | J-League Cup | Kochi
+2026-09-05 A 0-2 v Tochigi SC | J3 League | Utsunomiya
+2026-08-30 H 0-2 v Roasso Kumamoto | J3 League | Kochi
+2026-08-23 H 2-1 v Kamatamare Sanuki | J3 League | Kochi
+2026-08-19 A 0-3 v Verspah Oita | Emperor Cup | ?
+2026-08-15 A 0-7 v FC Gifu | J3 League | Gifu
+2026-08-08 H 0-0 v Matsumoto Yamaga | J3 League | Kochi
+2026-06-06 A 1-2 v Omiya Ardija | J2/J3 League | Saitama
+2026-05-30 H 2-2 v Renofa Yamaguchi | J2/J3 League | Kochi [AET, 90-min score shown]
+Listed home: 10 games, scored 11 (1.10), conceded 17 (1.70), blanks 4, clean sheets 2
+Listed away: 10 games, scored 2 (0.20), conceded 27 (2.70), blanks 8, clean sheets 1
+All: 20 games, scored 13 (0.65), conceded 44 (2.20), blanks 12, clean sheets 3
+
+TABLE FOR FC Ryukyu
+LEAGUE TABLE J3 League 2026 | 20 teams | 163 games played
+League averages per game: home 1.53, away 1.25, total 2.78
+#   team                   Pts | home P GF-GA  | away P GF-GA  | all P GF-GA
+1   FC Gifu                 32 |  9  16-5       |  8  13-10      | 17  29-15
+2   Nara Club               32 |  8  21-9       |  8  12-12      | 16  33-21
+3   Kagoshima United        31 |  8  17-8       |  8  12-11      | 16  29-19
+4   Sagamihara              31 |  8   9-6       |  9  17-10      | 17  26-16
+5   Renofa Yamaguchi        30 |  7   8-5       |  9  14-8       | 16  22-13
+6   Osaka                   29 |  8  19-9       |  8   8-7       | 16  27-16
+7   Ehime FC                29 |  8  22-10      |  8   9-15      | 16  31-25
+8   Roasso Kumamoto         24 |  8   8-8       |  8  10-4       | 16  18-12
+9   Kanazawa                23 |  7  13-10      |  9  15-11      | 16  28-21
+10  Parceiro Nagano         23 |  9   9-8       |  7  13-13      | 16  22-21
+11  FC Ryukyu               23 |  8  15-9       |  8   9-15      | 16  24-24
+12  Kitakyushu              22 |  9  16-12      |  8   9-15      | 17  25-27
+13  Fukushima United        21 |  9  18-16      |  8  14-17      | 17  32-33
+14  Tochigi SC              21 |  8  11-7       |  8   4-9       | 16  15-16
+15  Matsumoto Yamaga        18 |  9   8-12      |  8   7-6       | 17  15-18
+16  Biwako Shiga            17 |  7   5-13      |  9  14-15      | 16  19-28
+17  Gainare Tottori         15 |  9   6-12      |  7   9-18      | 16  15-30
+18  Kamatamare Sanuki       14 |  8  10-17      |  8   7-10      | 16  17-27
+19  Thespakusatsu Gunma     13 |  8   9-14      |  9   7-21      | 17  16-35
+20  Kochi United             9 |  8   9-14      |  8   1-22      | 16  10-36
+
+(Kochi United: same table as FC Ryukyu, shown above)
+
+(25 API-Football requests used)
+
+----------------------------------------------------------------------
+MATCHBOOK: skipped (switched off for this run)
