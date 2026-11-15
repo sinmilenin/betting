@@ -1,10 +1,17 @@
 [
  {
-  "id": "2026-11-15_juan-pablo-ii-college-deportivo-garcilaso_2-2",
+  "id": "2026-11-15_cobreloa-calama-puerto-montt_1-0",
   "date": "2026-11-15",
-  "ko": "21:15",
-  "match": "Juan Pablo II College v Deportivo Garcilaso",
-  "cell": "2-2"
+  "ko": "22:00",
+  "match": "Cobreloa Calama v Puerto Montt",
+  "cell": "1-0"
+ },
+ {
+  "id": "2026-11-15_san-marcos-san-luis_1-0",
+  "date": "2026-11-15",
+  "ko": "22:00",
+  "match": "San Marcos v San Luis",
+  "cell": "1-0"
  },
  {
   "id": "2026-11-15_universidad-guadalajara-club-atletico-morelia_2-2",
