@@ -1,6 +1,6 @@
-MATCH Hamburger SV v Hajduk Split | fetched 2026-11-15 12:45 local
+MATCH Hamburger SV v id:608 | fetched 2026-11-15 12:46 local
 
-FORM DATA Hamburger SV v Hajduk Split | source API-Football | 2026-11-15 12:45 UTC
+FORM DATA Hamburger SV v id:608 | source API-Football | 2026-11-15 12:46 UTC
 H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
 
 === Hamburger SV (id 175): last 20 finished games ===
@@ -28,18 +28,30 @@ Listed home: 9 games, scored 15 (1.67), conceded 16 (1.78), blanks 1, clean shee
 Listed away: 11 games, scored 17 (1.55), conceded 20 (1.82), blanks 3, clean sheets 1
 All: 20 games, scored 32 (1.60), conceded 36 (1.80), blanks 4, clean sheets 3
 
-"Hajduk Split" matches several teams. Use id:<number> instead of the name:
-  id:608    HNK Hajduk Split (Croatia)
-  id:1482   HNK Hajduk Split II (Croatia)
-  id:17697  Hajduk Split U19 (Croatia)
-  id:27869  Hajduk Split W (Croatia)
-(retrying Hajduk Split using the opponent's country, Germany)
-"Hajduk Split" matches several teams. Use id:<number> instead of the name:
-  id:608    HNK Hajduk Split (Croatia)
-  id:1482   HNK Hajduk Split II (Croatia)
-  id:17697  Hajduk Split U19 (Croatia)
-  id:27869  Hajduk Split W (Croatia)
-!! Hajduk Split: Ambiguous team name "Hajduk Split".
+=== HNK Hajduk Split (id 608): last 20 finished games ===
+2026-11-08 A 1-0 v NK Osijek | HNL | Osijek | xG 1.14-0.63
+2026-11-05 A 0-1 v Lincoln Red Imps FC | UEFA Europa Conference League | Gibraltar | xG 1.37-0.16
+2026-10-31 H 5-0 v HNK Gorica | HNL | Split | xG 2.13-0.31
+2026-10-26 A 2-2 v Istra 1961 | HNL | Pula | xG 1.48-1.59
+2026-10-22 A 1-0 v FC Thun | UEFA Europa Conference League | Thun | xG 1.30-1.29
+2026-10-18 H 1-0 v NK Varazdin | HNL | Split | xG 1.35-1.19
+2026-10-15 H 2-1 v Ajax | UEFA Europa Conference League | Split | xG 1.80-1.35
+2026-10-10 H 2-1 v Dinamo Zagreb | HNL | Split | xG 1.19-1.54
+2026-09-20 A 0-3 v HNK Rijeka | HNL | Rijeka | xG 1.28-1.46
+2026-09-13 H 1-0 v NK Slaven Belupo | HNL | Split | xG 0.68-0.36
+2026-09-08 A 2-0 v Vardarac | Cup | ?
+2026-09-06 A 4-0 v Rudes | HNL | Velika Gorica
+2026-08-31 H 2-0 v NK Lokomotiva Zagreb | HNL | Split
+2026-08-27 A 2-2 v Raków Częstochowa | UEFA Europa Conference League | Czestochowa [AET, 90-min score shown]
+2026-08-23 H 4-0 v NK Osijek | HNL | Split
+2026-08-20 H 2-2 v Raków Częstochowa | UEFA Europa Conference League | Split
+2026-08-16 A 2-1 v HNK Gorica | HNL | Velika Gorica
+2026-08-13 H 4-0 v FK Zalgiris Vilnius | UEFA Europa Conference League | Split
+2026-08-09 H 2-2 v Istra 1961 | HNL | Split
+2026-08-06 A 5-2 v FK Zalgiris Vilnius | UEFA Europa Conference League | Vilnius
+Listed home: 10 games, scored 25 (2.50), conceded 6 (0.60), blanks 0, clean sheets 6
+Listed away: 10 games, scored 19 (1.90), conceded 11 (1.10), blanks 2, clean sheets 4
+All: 20 games, scored 44 (2.20), conceded 17 (0.85), blanks 2, clean sheets 10
 
 TABLE FOR Hamburger SV
 LEAGUE TABLE Bundesliga 2026 | 18 teams | 81 games played
@@ -64,7 +76,22 @@ League averages per game: home 2.12, away 1.36, total 3.48
 17  FC Schalke 04            6 |  4   0-3       |  5   5-8       |  9   5-11
 18  Borussia Mönchengladba   4 |  4   7-10      |  5   5-15      |  9  12-25
 
-(15 API-Football requests used)
+TABLE FOR HNK Hajduk Split
+LEAGUE TABLE HNL 2026 | 10 teams | 64 games played
+League averages per game: home 1.73, away 1.33, total 3.06
+#   team                   Pts | home P GF-GA  | away P GF-GA  | all P GF-GA
+1   HNK Hajduk Split        29 |  7  17-3       |  6  10-8       | 13  27-11
+2   Dinamo Zagreb           25 |  6  15-4       |  6  13-11      | 12  28-15
+3   NK Osijek               20 |  7  10-8       |  6  12-10      | 13  22-18
+4   Istra 1961              19 |  7  15-11      |  6   9-8       | 13  24-19
+5   NK Varazdin             19 |  7   8-6       |  6   9-8       | 13  17-14
+6   HNK Rijeka              18 |  5  13-5       |  7   6-13      | 12  19-18
+7   NK Slaven Belupo        16 |  6  10-13      |  7   9-15      | 13  19-28
+8   Rudes                   16 |  6   9-15      |  7   7-12      | 13  16-27
+9   NK Lokomotiva Zagreb    11 |  6   7-7       |  7   7-14      | 13  14-21
+10  HNK Gorica               7 |  7   7-13      |  6   3-12      | 13  10-25
+
+(26 API-Football requests used)
 
 ----------------------------------------------------------------------
 MATCHBOOK: skipped (switched off for this run)

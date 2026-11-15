@@ -1,5 +1,3 @@
-RUN 2026-11-15 12:45 local | 2 match(es)
-Hamburger SV v Hajduk Split -> out/Hamburger_SV_v_Hajduk_Split.txt
-    !! Hajduk Split: Ambiguous team name "Hajduk Split".
-Santiago Wanderers v Deportes Copiapo -> out/Santiago_Wanderers_v_Deportes_Copiapo.txt
-Requests used: API-Football 40, Matchbook 0
+RUN 2026-11-15 12:46 local | 1 match(es)
+Hamburger SV v id:608 -> out/Hamburger_SV_v_id_608.txt
+Requests used: API-Football 26, Matchbook 0
