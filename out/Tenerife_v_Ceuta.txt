@@ -1,0 +1,85 @@
+MATCH Tenerife v Ceuta | fetched 2026-11-15 10:28 local
+
+FORM DATA Tenerife v Ceuta | source API-Football | 2026-11-15 10:28 UTC
+H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
+
+=== Tenerife (id 719): last 20 finished games ===
+2026-11-02 H 2-2 v FC Andorra | Segunda División | Santa Cruz de Tenerife | xG 1.38-1.88
+2026-10-25 A 1-1 v Sabadell | Segunda División | Sabadell | xG 0.41-1.79
+2026-10-19 A 1-1 v Celta de Vigo II | Segunda División | Vigo
+2026-10-12 H 1-1 v Girona | Segunda División | Santa Cruz de Tenerife | xG 0.75-1.56
+2026-10-05 A 2-3 v Cordoba | Segunda División | Cordoba
+2026-09-26 H 1-1 v Cadiz | Segunda División | Santa Cruz de Tenerife | xG 1.11-1.24
+2026-09-19 A 0-5 v Castellón | Segunda División | Castellon | xG 1.35-2.35
+2026-09-13 H 2-0 v Leganes | Segunda División | Santa Cruz de Tenerife | xG 1.57-0.72
+2026-09-05 A 1-1 v Real Sociedad II | Segunda División | San Sebastian | xG 0.55-0.53
+2026-08-28 H 0-1 v Sporting Gijon | Segunda División | Santa Cruz de Tenerife
+2026-08-23 H 1-0 v Almeria | Segunda División | Santa Cruz de Tenerife
+2026-08-16 A 3-1 v Eibar | Segunda División | Eibar
+2026-08-08 A 0-0 v Leganes | Friendlies Clubs | ? [PEN, 90-min score shown]
+2026-08-04 H 3-2 v Tamaraceite | Friendlies Clubs | ?
+2026-08-01 H 2-2 v Cadiz | Friendlies Clubs | ? [PEN, 90-min score shown]
+2026-07-26 A 6-0 v Marino | Friendlies Clubs | ?
+2026-07-22 H 1-2 v Getafe | Friendlies Clubs | ?
+2026-07-18 H 3-0 v Tenerife II | Friendlies Clubs | ?
+2026-05-23 A 1-2 v Ourense CF | Primera División RFEF - Group 1 | Ourense
+2026-05-17 H 3-0 v Pontevedra | Primera División RFEF - Group 1 | Santa Cruz de Tenerife
+Listed home: 11 games, scored 19 (1.73), conceded 11 (1.00), blanks 1, clean sheets 4
+Listed away: 9 games, scored 15 (1.67), conceded 14 (1.56), blanks 2, clean sheets 2
+All: 20 games, scored 34 (1.70), conceded 25 (1.25), blanks 3, clean sheets 6
+
+=== Ceuta (id 5255): last 17 finished games ===
+2023-07-18 A 2-5 v Sevilla | Friendlies Clubs | Jerez de la Frontera
+2020-05-02 H 3-0 v Écija | Tercera División RFEF - Group 10 | Ceuta
+2020-03-08 A 0-0 v Conil | Tercera División RFEF - Group 10 | Conil de la Frontera
+2020-03-01 H 5-1 v Arcos | Tercera División RFEF - Group 10 | Ceuta
+2020-02-28 H 0-2 v Real Betis II | Tercera División RFEF - Group 10 | Ceuta
+2020-02-22 A 1-1 v Córdoba II | Tercera División RFEF - Group 10 | Córdoba
+2020-02-16 H 2-0 v Lebrijana | Tercera División RFEF - Group 10 | Ceuta
+2020-02-09 A 0-2 v Xerez | Tercera División RFEF - Group 10 | Jerez de la Frontera
+2020-02-02 H 3-2 v Utrera | Tercera División RFEF - Group 10 | Ceuta
+2020-01-26 A 1-1 v Los Barrios | Tercera División RFEF - Group 10 | Los Barrios
+2020-01-22 A 2-0 v Puente Genil | Tercera División RFEF - Group 10 | Puente Genil
+2020-01-18 H 0-2 v San Roque Lepe | Tercera División RFEF - Group 10 | Ceuta
+2020-01-04 A 1-0 v Gerena | Tercera División RFEF - Group 10 | Gerena
+2019-12-21 H 3-0 v Pozoblanco | Tercera División RFEF - Group 10 | Ceuta
+2019-12-14 A 3-0 v Écija | Tercera División RFEF - Group 10 | Écija
+2019-12-01 H 7-0 v Rota | Tercera División RFEF - Group 10 | Ceuta
+2019-11-24 A 3-0 v Antoniano | Tercera División RFEF - Group 10 | Lebrija
+Listed home: 8 games, scored 23 (2.88), conceded 7 (0.88), blanks 2, clean sheets 4
+Listed away: 9 games, scored 13 (1.44), conceded 9 (1.00), blanks 2, clean sheets 5
+All: 17 games, scored 36 (2.12), conceded 16 (0.94), blanks 4, clean sheets 9
+
+TABLE FOR Tenerife
+LEAGUE TABLE Segunda División 2026 | 22 teams | 146 games played
+League averages per game: home 1.56, away 1.19, total 2.75
+#   team                   Pts | home P GF-GA  | away P GF-GA  | all P GF-GA
+1   Almeria                 32 |  7  17-6       |  7   9-5       | 14  26-11
+2   Castellón               30 |  5  12-1       |  8  12-4       | 13  24-5
+3   Girona                  24 |  8  16-7       |  6   8-6       | 14  24-13
+4   Burgos                  24 |  8  13-8       |  6   7-9       | 14  20-17
+5   Mallorca                23 |  7  15-6       |  6   3-4       | 13  18-10
+6   Eibar                   23 |  6  10-7       |  6  11-7       | 12  21-14
+7   Granada CF              23 |  5   9-5       |  7  11-9       | 12  20-14
+8   Sporting Gijon          23 |  7   7-8       |  7   9-9       | 14  16-17
+9   Oviedo                  21 |  7   8-7       |  7  12-11      | 14  20-18
+10  Cordoba                 20 |  6  11-8       |  8  14-17      | 14  25-25
+11  Las Palmas              20 |  7   8-8       |  6  11-13      | 13  19-21
+12  Valladolid              18 |  7  15-11      |  7   7-10      | 14  22-21
+13  Sabadell                18 |  6   8-4       |  7   4-7       | 13  12-11
+14  Tenerife                15 |  6   7-5       |  6   8-12      | 12  15-17
+15  Leganes                 15 |  7   9-10      |  7   5-14      | 14  14-24
+16  Eldense                 14 |  6   9-8       |  7   4-11      | 13  13-19
+17  Celta de Vigo II        13 |  7  13-13      |  6   6-12      | 13  19-25
+18  Real Sociedad II        13 |  7   8-12      |  7   9-12      | 14  17-24
+19  FC Andorra              11 |  6  10-11      |  7   8-13      | 13  18-24
+20  Cadiz                   10 |  8  10-8       |  5   6-10      | 13  16-18
+21  Albacete                10 |  6   7-9       |  7   6-15      | 13  13-24
+22  AD Ceuta FC              5 |  7   6-12      |  6   4-18      | 13  10-30
+
+(no league table available for Ceuta: tried Tercera División RFEF - Group 10 2019)
+
+(26 API-Football requests used)
+
+----------------------------------------------------------------------
+MATCHBOOK: skipped (switched off for this run)

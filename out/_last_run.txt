@@ -1,10 +1,7 @@
-RUN 2026-11-15 09:42 local | 7 match(es)
-Lee Man v Tai Po -> out/Lee_Man_v_Tai_Po.txt
-    !! Lee Man: No team found for "Lee Man".
-Chindia Targoviste v FCSB -> out/Chindia_Targoviste_v_FCSB.txt
-Elche II v Atletico Baleares -> out/Elche_II_v_Atletico_Baleares.txt
-Naxara v Manresa -> out/Naxara_v_Manresa.txt
-Tondela v Farense -> out/Tondela_v_Farense.txt
-Real Sociedad W v Athletic Club W -> out/Real_Sociedad_W_v_Athletic_Club_W.txt
-Las Palmas II v Lucena -> out/Las_Palmas_II_v_Lucena.txt
-Requests used: API-Football 166, Matchbook 0
+RUN 2026-11-15 10:28 local | 4 match(es)
+Logrones II v Pena Sport -> out/Logrones_II_v_Pena_Sport.txt
+Atletico Madrid II v Teruel -> out/Atletico_Madrid_II_v_Teruel.txt
+Amarante v Felgueiras -> out/Amarante_v_Felgueiras.txt
+    !! Felgueiras: Ambiguous team name "Felgueiras".
+Tenerife v Ceuta -> out/Tenerife_v_Ceuta.txt
+Requests used: API-Football 91, Matchbook 0
