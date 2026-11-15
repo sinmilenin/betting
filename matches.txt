@@ -1,3 +1,2 @@
-# scan 15.11 14:25 (run 1)
-Como W v Como 1907 W | n=20 | xg=10
-Navalcarnero v Getafe B | n=20 | xg=10
+# scan 15.11 14:25 (run 2: Getafe II)
+Navalcarnero v Getafe II | n=20 | xg=10
