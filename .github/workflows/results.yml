@@ -1,0 +1,24 @@
+name: results
+on:
+  workflow_dispatch:                 # started by the hourly "Lay Ledger settle" scheduled task (or by hand)
+permissions:
+  contents: write
+jobs:
+  results:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Fetch 90-minute results for results/pending.json
+        env:
+          APISPORTS_KEY: ${{ secrets.APISPORTS_KEY }}
+        run: python tools/results.py
+      - name: Save results into the repository
+        run: |
+          git config user.name "betting-bot"
+          git config user.email "bot@users.noreply.github.com"
+          git add -A results
+          git commit -m "Results $(date -u +'%Y-%m-%d %H:%M') UTC" || echo "nothing new"
+          for i in 1 2 3; do git pull --rebase && git push && break; sleep 5; done
