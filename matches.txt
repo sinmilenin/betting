@@ -1,6 +1,6 @@
-# scan 15.11 15:10 run 1
-Gernika v Real Oviedo II | n=20 | xg=10
-Al Jazira v Bani Yas | n=20 | xg=10
-Alcoyano v Intercity | n=20 | xg=10
-Cittadella v Caratese | n=20 | xg=10
-Ravenna v Forli | n=20 | xg=10
+# scan 15.11 15:55 run 1
+Ittihad Kalba v Shabab Al Ahli | n=20 | xg=10
+Al-Jazira v Baniyas | n=20 | xg=10
+Conquense v Guadalajara | n=20 | xg=10
+Pergolettese v Pro Vercelli | n=20 | xg=10
+Real Murcia II v UCAM Murcia | n=20 | xg=10
