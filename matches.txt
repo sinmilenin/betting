@@ -1,3 +1,2 @@
-# scan 15.11 09:56 run 1
-Teplice B v Hradec Kralove B | n=20 | xg=10
-Orduspor 1967 v Beykoz Anadolu | n=20 | xg=10
+# scan 15.11 09:56 run 2 (team fix)
+Teplice II v Hradec Kralove II | n=20 | xg=10
