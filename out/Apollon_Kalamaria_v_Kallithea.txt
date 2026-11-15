@@ -1,6 +1,6 @@
-MATCH Apollon Kalamarias v Kallithea | fetched 2026-11-15 08:12 local
+MATCH Apollon Kalamaria v Kallithea | fetched 2026-11-15 08:13 local
 
-FORM DATA Apollon Kalamarias v Kallithea | source API-Football | 2026-11-15 08:12 UTC
+FORM DATA Apollon Kalamaria v Kallithea | source API-Football | 2026-11-15 08:13 UTC
 H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
 
 === Kallithea (id 2095): last 20 finished games ===
@@ -28,7 +28,7 @@ Listed home: 11 games, scored 16 (1.45), conceded 9 (0.82), blanks 0, clean shee
 Listed away: 9 games, scored 7 (0.78), conceded 8 (0.89), blanks 4, clean sheets 5
 All: 20 games, scored 23 (1.15), conceded 17 (0.85), blanks 4, clean sheets 9
 
-!! Apollon Kalamarias: No team found for "Apollon Kalamarias".
+!! Apollon Kalamaria: No team found for "Apollon Kalamaria".
 
 TABLE FOR Kallithea
 LEAGUE TABLE Super League 2 2026 | 16 teams | 84 games played

@@ -1,9 +1,5 @@
-RUN 2026-11-15 08:12 local | 3 match(es)
-Singburi Warriors v Kasem Bundit University -> out/Singburi_Warriors_v_Kasem_Bundit_Univers.txt
-    !! Singburi Warriors: No team found for "Singburi Warriors".
-MFK Havirov v FK Blansko -> out/MFK_Havirov_v_FK_Blansko.txt
-    !! MFK Havirov: No team found for "MFK Havirov".
-    !! FK Blansko: No team found for "FK Blansko".
-Apollon Kalamarias v Kallithea -> out/Apollon_Kalamarias_v_Kallithea.txt
-    !! Apollon Kalamarias: No team found for "Apollon Kalamarias".
-Requests used: API-Football 37, Matchbook 0
+RUN 2026-11-15 08:13 local | 2 match(es)
+Havirov v Blansko -> out/Havirov_v_Blansko.txt
+Apollon Kalamaria v Kallithea -> out/Apollon_Kalamaria_v_Kallithea.txt
+    !! Apollon Kalamaria: No team found for "Apollon Kalamaria".
+Requests used: API-Football 39, Matchbook 0
