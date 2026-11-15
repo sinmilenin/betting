@@ -1,3 +1,2 @@
-# scan 15.11 13:40 (run 1)
-Hamburger SV v Hajduk Split | n=20 | xg=10
-Santiago Wanderers v Deportes Copiapo | n=20 | xg=10
+# scan 15.11 13:40 (run 2: Hajduk Split id)
+Hamburger SV v id:608 | n=20 | xg=10
