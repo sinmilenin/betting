@@ -1,3 +1,8 @@
-RUN 2026-11-15 13:30 local | 1 match(es)
-Navalcarnero v Getafe II -> out/Navalcarnero_v_Getafe_II.txt
-Requests used: API-Football 26, Matchbook 0
+RUN 2026-11-15 14:14 local | 5 match(es)
+Gernika v Real Oviedo II -> out/Gernika_v_Real_Oviedo_II.txt
+Al Jazira v Bani Yas -> out/Al_Jazira_v_Bani_Yas.txt
+    !! Al Jazira: Ambiguous team name "Al Jazira".
+Alcoyano v Intercity -> out/Alcoyano_v_Intercity.txt
+Cittadella v Caratese -> out/Cittadella_v_Caratese.txt
+Ravenna v Forli -> out/Ravenna_v_Forli.txt
+Requests used: API-Football 115, Matchbook 0
