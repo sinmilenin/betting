@@ -1,3 +1,5 @@
-RUN 2026-11-14 20:01 local | 1 match(es)
-id:2290 v Monterrey -> out/id_2290_v_Monterrey.txt
-Requests used: API-Football 25, Matchbook 0
+RUN 2026-11-15 05:11 local | 2 match(es)
+Cerezo Osaka v Urawa -> out/Cerezo_Osaka_v_Urawa.txt
+Kashima v Yokohama F. Marinos -> out/Kashima_v_Yokohama_F_Marinos.txt
+    !! Yokohama F. Marinos: API-Football error: {"search": "The Search field may only contain alpha-numeric characters and spaces."}
+Requests used: API-Football 39, Matchbook 0
