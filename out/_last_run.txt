@@ -1,5 +1,3 @@
-RUN 2026-11-15 08:13 local | 2 match(es)
-Havirov v Blansko -> out/Havirov_v_Blansko.txt
-Apollon Kalamaria v Kallithea -> out/Apollon_Kalamaria_v_Kallithea.txt
-    !! Apollon Kalamaria: No team found for "Apollon Kalamaria".
-Requests used: API-Football 39, Matchbook 0
+RUN 2026-11-15 08:14 local | 1 match(es)
+Apollon Pontou v Kallithea -> out/Apollon_Pontou_v_Kallithea.txt
+Requests used: API-Football 25, Matchbook 0

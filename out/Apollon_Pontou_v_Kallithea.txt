@@ -1,7 +1,32 @@
-MATCH Apollon Kalamaria v Kallithea | fetched 2026-11-15 08:13 local
+MATCH Apollon Pontou v Kallithea | fetched 2026-11-15 08:14 local
 
-FORM DATA Apollon Kalamaria v Kallithea | source API-Football | 2026-11-15 08:13 UTC
+FORM DATA Apollon Pontou v Kallithea | source API-Football | 2026-11-15 08:14 UTC
 H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
+
+=== Apollon Pontou (id 2102): last 20 finished games ===
+2026-11-07 A 1-2 v Panserraikos | Super League 2 | Serres
+2026-11-02 A 0-2 v Marko | Super League 2 | ?
+2026-10-24 H 0-2 v Niki Volos | Super League 2 | ?
+2026-10-19 A 1-2 v PAOK II | Super League 2 | ?
+2026-10-11 H 1-0 v Pyrgos 1968 | Super League 2 | ?
+2026-10-05 A 1-1 v Zakynthos | Super League 2 | Zakynthos
+2026-09-27 H 1-0 v Anagennisi Karditsas | Super League 2 | ?
+2026-09-20 A 0-1 v Asteras Tripolis II | Super League 2 | ?
+2026-09-14 A 0-1 v Panionios | Super League 2 | ?
+2026-09-07 A 2-2 v Ellas Syros | Super League 2 | ?
+2026-08-19 A 0-1 v Nestos Chrisoupolis | Cup | ?
+2026-05-17 H 2-0 v Panthrakikos | Gamma Ethniki - Promotion Group | ?
+2026-05-13 A 0-0 v Elassona | Gamma Ethniki - Promotion Group | ?
+2026-05-10 H 3-2 v Ethnikos Neou Keramidiou | Gamma Ethniki - Promotion Group | ?
+2026-05-03 A 0-2 v Panthrakikos | Gamma Ethniki - Promotion Group | ?
+2026-04-29 H 2-1 v Elassona | Gamma Ethniki - Promotion Group | ?
+2026-04-26 A 3-2 v Ethnikos Neou Keramidiou | Gamma Ethniki - Promotion Group | ?
+2026-04-08 A 0-1 v Ethnikos Neou Keramidiou | Gamma Ethniki - Group 2 | ?
+2026-04-05 H 2-0 v Ermis Exochi | Gamma Ethniki - Group 2 | ?
+2026-04-01 A 3-0 v Alexandreia | Gamma Ethniki - Group 2 | ?
+Listed home: 7 games, scored 11 (1.57), conceded 5 (0.71), blanks 1, clean sheets 4
+Listed away: 13 games, scored 11 (0.85), conceded 17 (1.31), blanks 7, clean sheets 2
+All: 20 games, scored 22 (1.10), conceded 22 (1.10), blanks 8, clean sheets 6
 
 === Kallithea (id 2095): last 20 finished games ===
 2026-11-08 H 2-0 v Panionios | Super League 2 | Athens
@@ -28,9 +53,7 @@ Listed home: 11 games, scored 16 (1.45), conceded 9 (0.82), blanks 0, clean shee
 Listed away: 9 games, scored 7 (0.78), conceded 8 (0.89), blanks 4, clean sheets 5
 All: 20 games, scored 23 (1.15), conceded 17 (0.85), blanks 4, clean sheets 9
 
-!! Apollon Kalamaria: No team found for "Apollon Kalamaria".
-
-TABLE FOR Kallithea
+TABLE FOR Apollon Pontou
 LEAGUE TABLE Super League 2 2026 | 16 teams | 84 games played
 League averages per game: home 1.36, away 0.96, total 2.32
 #   team                   Pts | home P GF-GA  | away P GF-GA  | all P GF-GA
@@ -51,7 +74,9 @@ League averages per game: home 1.36, away 0.96, total 2.32
 15  Olympiakos Piraeus II    6 |  5   6-12      |  5   7-10      | 10  13-22
 16  Zakynthos                4 |  4   4-10      |  6   3-8       | 10   7-18
 
-(14 API-Football requests used)
+(Kallithea: same table as Apollon Pontou, shown above)
+
+(25 API-Football requests used)
 
 ----------------------------------------------------------------------
 MATCHBOOK: skipped (switched off for this run)
