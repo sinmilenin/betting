@@ -1,2 +1,11 @@
-# manual scan 15.11 18:52 run 2
-Universidad Guadalajara v Morelia | n=20 | xg=10
+# cloud scan 15.11 21:24 snapshot (scan 2 of 4)
+Envigado v Union Magdalena | n=20 | xg=10
+Club Deportes Santa Cruz v CSD Rangers | n=20 | xg=10
+San Marcos v San Luis | n=20 | xg=10
+Deportivo San Pedro v Marquense | n=20 | xg=10
+Cobreloa Calama v Puerto Montt | n=20 | xg=10
+Nacional Potosi v Real Potosi | n=20 | xg=10
+Defensor Sporting v Penarol | n=20 | xg=10
+Panama v Curacao | n=20 | xg=10
+Ferro Carril Oeste v Club Gimnasia y Tiro | n=20 | xg=10
+Quindio v Real Cartagena | n=20 | xg=10
