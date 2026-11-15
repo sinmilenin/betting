@@ -1,4 +1,3 @@
-# scan 15.11 09:11
-Singburi Warriors v Kasem Bundit University | n=20 | xg=10
-MFK Havirov v FK Blansko | n=20 | xg=10
-Apollon Kalamarias v Kallithea | n=20 | xg=10
+# scan 15.11 09:11 run 2 (team fixes)
+Havirov v Blansko | n=20 | xg=10
+Apollon Kalamaria v Kallithea | n=20 | xg=10
