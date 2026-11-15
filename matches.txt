@@ -1,7 +1,3 @@
-# scan 15.11 07:40 top-20 run 1
-Penafiel v Lusitania | n=20 | xg=10
-Finland v San Marino | n=20 | xg=10
-Comerciantes Unidos v Sport Boys | n=20 | xg=10
-Leixoes v Chaves | n=20 | xg=10
-Danubio v Liverpool | n=20 | xg=10
-Cobreloa v Puerto Montt | n=20 | xg=10
+# scan 15.11 07:40 top-20 run 2 (team fixes)
+Penafiel v id:6358 | n=20 | xg=10
+Danubio v Liverpool Montevideo | n=20 | xg=10
