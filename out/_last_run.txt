@@ -1,12 +1,4 @@
-RUN 2026-11-15 11:18 local | 8 match(es)
-Giugliano v Savoia -> out/Giugliano_v_Savoia.txt
-MVV v Vitesse -> out/MVV_v_Vitesse.txt
-Spezia v Vado -> out/Spezia_v_Vado.txt
-Salernitana v Catania -> out/Salernitana_v_Catania.txt
-Wolverhampton Wanderers W v Durham W -> out/Wolverhampton_Wanderers_W_v_Durham_W.txt
-    !! Wolverhampton Wanderers W: No team found for "Wolverhampton Wanderers W".
-West Ham W v Charlton W -> out/West_Ham_W_v_Charlton_W.txt
-    !! Charlton W: No team found for "Charlton W".
-Rumilly Vallieres v Saint Etienne -> out/Rumilly_Vallieres_v_Saint_Etienne.txt
-Portimonense v Academica -> out/Portimonense_v_Academica.txt
-Requests used: API-Football 181, Matchbook 0
+RUN 2026-11-15 11:19 local | 2 match(es)
+Wolves W v Durham W -> out/Wolves_W_v_Durham_W.txt
+West Ham W v Charlton Athletic W -> out/West_Ham_W_v_Charlton_Athletic_W.txt
+Requests used: API-Football 52, Matchbook 0
