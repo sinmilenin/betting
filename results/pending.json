@@ -1,61 +1,5 @@
 [
  {
-  "id": "2026-11-08_vitesse-arnhem-de-graafschap_1-0",
-  "date": "2026-11-08",
-  "ko": "12:15",
-  "match": "Vitesse Arnhem v De Graafschap",
-  "cell": "1-0"
- },
- {
-  "id": "2026-11-15_al-ittihad-kalba-al-ahli-uae_0-1",
-  "date": "2026-11-15",
-  "ko": "16:30",
-  "match": "Al-Ittihad Kalba v Al Ahli (UAE)",
-  "cell": "0-1"
- },
- {
-  "id": "2026-11-15_al-ittihad-kalba-al-ahli-uae_1-0",
-  "date": "2026-11-15",
-  "ko": "16:30",
-  "match": "Al-Ittihad Kalba v Al Ahli (UAE)",
-  "cell": "1-0"
- },
- {
-  "id": "2026-11-15_al-jazira-bani-yas_0-1",
-  "date": "2026-11-15",
-  "ko": "16:30",
-  "match": "Al Jazira v Bani Yas",
-  "cell": "0-1"
- },
- {
-  "id": "2026-11-15_alcoyano-intercity-sant-joan-cf_1-0",
-  "date": "2026-11-15",
-  "ko": "17:00",
-  "match": "Alcoyano v Intercity Sant Joan C.F",
-  "cell": "1-0"
- },
- {
-  "id": "2026-11-15_cda-navalcarnero-getafe-b_0-1",
-  "date": "2026-11-15",
-  "ko": "16:30",
-  "match": "CDA Navalcarnero v Getafe B",
-  "cell": "0-1"
- },
- {
-  "id": "2026-11-15_cittadella-caratese_1-0",
-  "date": "2026-11-15",
-  "ko": "17:30",
-  "match": "Cittadella v Caratese",
-  "cell": "1-0"
- },
- {
-  "id": "2026-11-15_cittadella-caratese_2-1",
-  "date": "2026-11-15",
-  "ko": "17:30",
-  "match": "Cittadella v Caratese",
-  "cell": "2-1"
- },
- {
   "id": "2026-11-15_comerciantes-unidos-sport-boys_0-1",
   "date": "2026-11-15",
   "ko": "19:00",
@@ -67,20 +11,6 @@
   "date": "2026-11-15",
   "ko": "19:00",
   "match": "Comerciantes Unidos v Sport Boys (Per)",
-  "cell": "1-0"
- },
- {
-  "id": "2026-11-15_conquense-guadalajara_1-0",
-  "date": "2026-11-15",
-  "ko": "17:00",
-  "match": "Conquense v Guadalajara",
-  "cell": "1-0"
- },
- {
-  "id": "2026-11-15_fk-teplice-b-hradec-kralove-b_1-0",
-  "date": "2026-11-15",
-  "ko": "10:15",
-  "match": "FK Teplice B v Hradec Kralove B",
   "cell": "1-0"
  },
  {
@@ -98,87 +28,10 @@
   "cell": "2-2"
  },
  {
-  "id": "2026-11-15_lokomotiv-go-cska-sofia-ii_2-2",
-  "date": "2026-11-15",
-  "ko": "13:30",
-  "match": "Lokomotiv GO v CSKA Sofia II",
-  "cell": "2-2"
- },
- {
-  "id": "2026-11-15_penafiel-lusitania_1-0",
-  "date": "2026-11-15",
-  "ko": "16:30",
-  "match": "Penafiel v Lusitania Futebol Clube",
-  "cell": "1-0"
- },
- {
-  "id": "2026-11-15_penafiel-lusitania_2-2",
-  "date": "2026-11-15",
-  "ko": "16:30",
-  "match": "Penafiel v Lusitania Futebol Clube",
-  "cell": "2-2"
- },
- {
-  "id": "2026-11-15_pergolettese-pro-vercelli_0-1",
-  "date": "2026-11-15",
-  "ko": "17:30",
-  "match": "Pergolettese v Pro Vercelli",
-  "cell": "0-1"
- },
- {
-  "id": "2026-11-15_pergolettese-pro-vercelli_2-2",
-  "date": "2026-11-15",
-  "ko": "17:30",
-  "match": "Pergolettese v Pro Vercelli",
-  "cell": "2-2"
- },
- {
-  "id": "2026-11-15_ravenna-forli_1-0",
-  "date": "2026-11-15",
-  "ko": "17:30",
-  "match": "Ravenna v Forli",
-  "cell": "1-0"
- },
- {
-  "id": "2026-11-15_ravenna-forli_2-1",
-  "date": "2026-11-15",
-  "ko": "17:30",
-  "match": "Ravenna v Forli",
-  "cell": "2-1"
- },
- {
-  "id": "2026-11-15_santiago-wanderers-deportes-copiapo_0-1",
-  "date": "2026-11-15",
-  "ko": "16:00",
-  "match": "Santiago Wanderers v Deportes Copiapo",
-  "cell": "0-1"
- },
- {
-  "id": "2026-11-15_santiago-wanderers-deportes-copiapo_2-2",
-  "date": "2026-11-15",
-  "ko": "16:00",
-  "match": "Santiago Wanderers v Deportes Copiapo",
-  "cell": "2-2"
- },
- {
-  "id": "2026-11-15_sd-gernika-club-real-oviedo-ii_2-2",
-  "date": "2026-11-15",
-  "ko": "17:00",
-  "match": "SD Gernika Club v Real Oviedo II",
-  "cell": "2-2"
- },
- {
   "id": "2026-11-15_universidad-guadalajara-club-atletico-morelia_2-2",
   "date": "2026-11-15",
   "ko": "19:00",
   "match": "Universidad Guadalajara v Club Atletico Morelia",
-  "cell": "2-2"
- },
- {
-  "id": "2026-11-15_danubio-liverpool-montevideo_2-2",
-  "date": "2026-11-15",
-  "ko": "20:30",
-  "match": "Danubio v Liverpool Montevideo",
   "cell": "2-2"
  }
 ]
