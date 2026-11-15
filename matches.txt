@@ -1,3 +1,2 @@
-# scan 15.11 15:55 run 2
-id:2876 v id:2870 | n=20 | xg=10
-Jazira v id:2877 | n=20 | xg=10
+# scan 15.11 15:55 run 3
+id:2871 v id:2877 | n=20 | xg=10
