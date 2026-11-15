@@ -1,6 +1,6 @@
-MATCH Penafiel v Lusitania | fetched 2026-11-15 06:44 local
+MATCH Penafiel v id:6358 | fetched 2026-11-15 06:45 local
 
-FORM DATA Penafiel v Lusitania | source API-Football | 2026-11-15 06:44 UTC
+FORM DATA Penafiel v id:6358 | source API-Football | 2026-11-15 06:45 UTC
 H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
 
 === Penafiel (id 235): last 20 finished games ===
@@ -28,18 +28,30 @@ Listed home: 10 games, scored 14 (1.40), conceded 9 (0.90), blanks 3, clean shee
 Listed away: 10 games, scored 19 (1.90), conceded 17 (1.70), blanks 2, clean sheets 2
 All: 20 games, scored 33 (1.65), conceded 26 (1.30), blanks 5, clean sheets 6
 
-"Lusitania" matches several teams. Use id:<number> instead of the name:
-  id:4763   Lusitânia (Portugal)
-  id:6358   Lusitânia Lourosa (Portugal)
-  id:22513  Lusitania FC U19 (Portugal)
-  id:22514  Lusitânia U19 (Portugal)
-(retrying Lusitania using the opponent's country, Portugal)
-"Lusitania" matches several teams. Use id:<number> instead of the name:
-  id:4763   Lusitânia (Portugal)
-  id:6358   Lusitânia Lourosa (Portugal)
-  id:22513  Lusitania FC U19 (Portugal)
-  id:22514  Lusitânia U19 (Portugal)
-!! Lusitania: Ambiguous team name "Lusitania".
+=== Lusitânia Lourosa (id 6358): last 20 finished games ===
+2026-11-08 A 0-1 v Feirense | Segunda Liga | Santa Maria da Feira
+2026-11-01 H 1-1 v Farense | Segunda Liga | Lourosa
+2026-10-25 A 2-2 v Felgueiras 1932 | Segunda Liga | Felgueiras
+2026-10-18 H 2-1 v Os Limianos | Taça de Portugal | ?
+2026-10-11 H 1-1 v Chaves | Segunda Liga | Lourosa
+2026-09-20 A 3-1 v Madalena | Taça de Portugal | ?
+2026-09-14 A 2-1 v Sporting CP B | Segunda Liga | Alcochete
+2026-09-07 H 2-1 v AVS | Segunda Liga | Lourosa
+2026-08-29 A 2-0 v Academica | Segunda Liga | Coimbra
+2026-08-22 H 2-2 v Torreense | Segunda Liga | Lourosa
+2026-08-16 A 1-0 v Amarante | Segunda Liga | Amarante
+2026-08-10 H 2-0 v FC Porto B | Segunda Liga | Lourosa
+2026-08-01 A 2-4 v Paredes | Friendlies Clubs | ?
+2026-08-01 H 0-2 v Arouca | Friendlies Clubs | ?
+2026-07-29 A 0-0 v Leça | Friendlies Clubs | ?
+2026-07-29 H 3-3 v FC Porto B | Friendlies Clubs | ?
+2026-07-25 H 1-0 v Academico Viseu | Friendlies Clubs | ?
+2026-07-18 H 0-2 v SC Braga B | Friendlies Clubs | ?
+2026-07-15 A 0-1 v Famalicao | Friendlies Clubs | ?
+2026-05-17 A 1-2 v Leixoes | Segunda Liga | Matosinhos
+Listed home: 10 games, scored 14 (1.40), conceded 13 (1.30), blanks 2, clean sheets 2
+Listed away: 10 games, scored 13 (1.30), conceded 12 (1.20), blanks 3, clean sheets 3
+All: 20 games, scored 27 (1.35), conceded 25 (1.25), blanks 5, clean sheets 5
 
 TABLE FOR Penafiel
 LEAGUE TABLE Segunda Liga 2026 | 18 teams | 90 games played
@@ -64,7 +76,9 @@ League averages per game: home 1.30, away 1.22, total 2.52
 17  Chaves                   8 |  5   8-10      |  5   3-11      | 10  11-21
 18  Feirense                 5 |  5   2-4       |  5   1-7       | 10   3-11
 
-(15 API-Football requests used)
+(Lusitânia Lourosa: same table as Penafiel, shown above)
+
+(25 API-Football requests used)
 
 ----------------------------------------------------------------------
 MATCHBOOK: skipped (switched off for this run)

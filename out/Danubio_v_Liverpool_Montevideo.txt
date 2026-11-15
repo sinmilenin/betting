@@ -1,6 +1,6 @@
-MATCH Danubio v Liverpool | fetched 2026-11-15 06:44 local
+MATCH Danubio v Liverpool Montevideo | fetched 2026-11-15 06:45 local
 
-FORM DATA Danubio v Liverpool | source API-Football | 2026-11-15 06:44 UTC
+FORM DATA Danubio v Liverpool Montevideo | source API-Football | 2026-11-15 06:45 UTC
 H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
 
 === Danubio (id 2352): last 20 finished games ===
@@ -28,30 +28,30 @@ Listed home: 9 games, scored 9 (1.00), conceded 12 (1.33), blanks 3, clean sheet
 Listed away: 11 games, scored 14 (1.27), conceded 11 (1.00), blanks 5, clean sheets 3
 All: 20 games, scored 23 (1.15), conceded 23 (1.15), blanks 8, clean sheets 5
 
-=== Liverpool (id 40): last 20 finished games ===
-2026-11-08 A 3-1 v Crystal Palace | Premier League | London | xG 2.71-2.47
-2026-11-04 A 2-3 v Fenerbahçe | UEFA Champions League | Istanbul | xG 1.57-1.75
-2026-11-01 H 0-1 v Arsenal | Premier League | Liverpool | xG 1.12-1.02
-2026-10-28 H 1-1 v Chelsea | League Cup | Liverpool | xG 2.19-1.88 [PEN, 90-min score shown]
-2026-10-25 H 2-0 v Brighton | Premier League | Liverpool | xG 1.20-1.32
-2026-10-20 H 4-3 v Villarreal | UEFA Champions League | Liverpool | xG 2.37-1.58
-2026-10-17 A 2-1 v Brentford | Premier League | London | xG 1.64-0.88
-2026-10-14 A 6-3 v Lask Linz | UEFA Champions League | Linz | xG 3.25-2.04
-2026-10-11 H 0-3 v Manchester City | Premier League | Liverpool | xG 0.94-1.28
-2026-09-20 A 1-0 v Bournemouth | Premier League | Bournemouth | xG 1.65-0.79
-2026-09-15 H 3-1 v Tottenham | League Cup | Liverpool
-2026-09-12 H 0-0 v Fulham | Premier League | Liverpool
-2026-09-09 H 2-1 v Atletico Madrid | UEFA Champions League | Liverpool
-2026-09-04 A 2-0 v Ipswich | Premier League | Ipswich
-2026-08-29 H 2-2 v Nottingham Forest | Premier League | Liverpool
-2026-08-23 A 2-2 v Newcastle | Premier League | Newcastle
-2026-08-16 H 0-0 v Como | Friendlies Clubs | ?
-2026-08-09 H 2-3 v Monaco | Friendlies Clubs | Liverpool
-2026-08-02 H 2-4 v Leeds | Premier League - Summer Series | ?
-2026-07-29 H 1-0 v Wrexham | Premier League - Summer Series | ?
-Listed home: 13 games, scored 19 (1.46), conceded 19 (1.46), blanks 4, clean sheets 4
-Listed away: 7 games, scored 18 (2.57), conceded 10 (1.43), blanks 0, clean sheets 2
-All: 20 games, scored 37 (1.85), conceded 29 (1.45), blanks 4, clean sheets 6
+=== Liverpool Montevideo (id 2358): last 20 finished games ===
+2026-11-11 H 1-1 v Juventud | Copa Uruguay | Montevideo [PEN, 90-min score shown]
+2026-11-05 A 2-0 v Gladiador | Copa Uruguay | Tacuarembo
+2026-11-01 H 2-0 v Juventud | Primera División | Montevideo
+2026-10-25 A 1-0 v Club Nacional | Primera División | Montevideo
+2026-10-21 H 1-0 v Cerro Largo | Copa Uruguay | Montevideo
+2026-10-18 H 1-0 v Penarol | Primera División | Montevideo
+2026-10-09 A 1-1 v Deportivo Maldonado | Primera División | Maldonado
+2026-10-03 H 3-2 v Progreso | Primera División | Montevideo
+2026-09-27 A 2-1 v Central Espanol | Primera División | Montevideo
+2026-09-23 H 3-0 v Colón | Copa Uruguay | ?
+2026-09-20 H 0-0 v Racing Montevideo | Primera División | Montevideo
+2026-09-14 A 1-3 v Atletico Torque | Primera División | Montevideo
+2026-09-06 H 1-0 v Boston River | Primera División | Montevideo
+2026-09-02 H 0-1 v Boston River | Copa Uruguay | ?
+2026-08-30 A 1-1 v Cerro Largo | Primera División | Melo
+2026-08-27 A 2-0 v Fenix | Copa Uruguay | Montevideo
+2026-08-21 H 4-0 v Cerro | Primera División | Montevideo
+2026-08-16 A 4-0 v Defensor Sporting | Primera División | Montevideo
+2026-08-08 H 1-0 v Albion FC | Primera División | Montevideo
+2026-08-02 A 0-0 v Central Espanol | Primera División | Montevideo
+Listed home: 11 games, scored 17 (1.55), conceded 4 (0.36), blanks 2, clean sheets 8
+Listed away: 9 games, scored 14 (1.56), conceded 6 (0.67), blanks 1, clean sheets 5
+All: 20 games, scored 31 (1.55), conceded 10 (0.50), blanks 3, clean sheets 13
 
 TABLE FOR Danubio
 LEAGUE TABLE Primera División 2026 | 80 teams | 229 games played
@@ -138,32 +138,9 @@ League averages per game: home 1.33, away 1.10, total 2.43
 15  Cerro Largo             10 |  8   7-8       |  6   5-11      | 14  12-19 [Primera: Clausura]
 16  Danubio                 10 |  7   5-9       |  6   2-6       | 13   7-15 [Primera: Clausura]
 
-TABLE FOR Liverpool
-LEAGUE TABLE Premier League 2026 | 20 teams | 100 games played
-League averages per game: home 1.53, away 1.20, total 2.73
-#   team                   Pts | home P GF-GA  | away P GF-GA  | all P GF-GA
-1   Arsenal                 27 |  5  10-2       |  5   5-3       | 10  15-5
-2   Brighton                22 |  5  15-1       |  5  11-6       | 10  26-7
-3   Manchester City         21 |  5  11-7       |  5  10-6       | 10  21-13
-4   Liverpool               18 |  5   4-6       |  5  10-4       | 10  14-10
-5   Chelsea                 16 |  5  13-8       |  5   6-8       | 10  19-16
-6   Everton                 16 |  5   8-5       |  5   4-5       | 10  12-10
-7   Bournemouth             15 |  5   7-4       |  5   9-10      | 10  16-14
-8   Brentford               14 |  5  10-3       |  5   6-8       | 10  16-11
-9   Leeds                   14 |  5   7-3       |  5   3-5       | 10  10-8
-10  Aston Villa             13 |  5   6-7       |  5   8-10      | 10  14-17
-11  Tottenham               12 |  5   7-6       |  5   3-5       | 10  10-11
-12  Newcastle               12 |  5   6-7       |  5   7-9       | 10  13-16
-13  Hull City               11 |  5   7-5       |  5   4-6       | 10  11-11
-14  Ipswich                 11 |  5   6-7       |  5   9-13      | 10  15-20
-15  Fulham                  10 |  5   7-8       |  5   3-4       | 10  10-12
-16  Nottingham Forest        9 |  5   3-4       |  5   6-9       | 10   9-13
-17  Coventry                 9 |  5   7-9       |  5   3-10      | 10  10-19
-18  Manchester United        8 |  5  10-11      |  5   4-8       | 10  14-19
-19  Sunderland               8 |  5   2-4       |  5   6-13      | 10   8-17
-20  Crystal Palace           7 |  5   7-13      |  5   3-11      | 10  10-24
+(Liverpool Montevideo: same table as Danubio, shown above)
 
-(27 API-Football requests used)
+(26 API-Football requests used)
 
 ----------------------------------------------------------------------
 MATCHBOOK: skipped (switched off for this run)

@@ -1,9 +1,4 @@
-RUN 2026-11-15 06:44 local | 6 match(es)
-Penafiel v Lusitania -> out/Penafiel_v_Lusitania.txt
-    !! Lusitania: Ambiguous team name "Lusitania".
-Finland v San Marino -> out/Finland_v_San_Marino.txt
-Comerciantes Unidos v Sport Boys -> out/Comerciantes_Unidos_v_Sport_Boys.txt
-Leixoes v Chaves -> out/Leixoes_v_Chaves.txt
-Danubio v Liverpool -> out/Danubio_v_Liverpool.txt
-Cobreloa v Puerto Montt -> out/Cobreloa_v_Puerto_Montt.txt
-Requests used: API-Football 143, Matchbook 0
+RUN 2026-11-15 06:45 local | 2 match(es)
+Penafiel v id:6358 -> out/Penafiel_v_id_6358.txt
+Danubio v Liverpool Montevideo -> out/Danubio_v_Liverpool_Montevideo.txt
+Requests used: API-Football 51, Matchbook 0
