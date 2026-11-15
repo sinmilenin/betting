@@ -1,0 +1,84 @@
+MATCH Naxara v Manresa | fetched 2026-11-15 09:42 local
+
+FORM DATA Naxara v Manresa | source API-Football | 2026-11-15 09:42 UTC
+H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
+
+=== Náxara (id 9868): last 20 finished games ===
+2026-11-08 A 1-2 v Arnedo | Segunda División RFEF - Group 2 | ?
+2026-10-31 H 1-1 v Utebo | Segunda División RFEF - Group 2 | ?
+2026-10-25 A 0-3 v Girona II | Segunda División RFEF - Group 2 | ?
+2026-10-18 A 1-1 v SD Logroñés | Segunda División RFEF - Group 2 | ?
+2026-10-10 H 1-0 v Peña Sport | Segunda División RFEF - Group 2 | ?
+2026-09-27 H 0-0 v Barbastro | Segunda División RFEF - Group 2 | ?
+2026-09-20 A 0-1 v Reddis | Segunda División RFEF - Group 2 | Reus
+2026-09-13 H 1-2 v Olot | Segunda División RFEF - Group 2 | ?
+2026-09-06 A 0-5 v Barcelona B | Segunda División RFEF - Group 2 | Barcelona
+2026-08-14 A 4-1 v Haro Deportivo | Friendlies Clubs | ?
+2026-05-02 A 2-3 v Eibar II | Segunda División RFEF - Group 2 | Areitio
+2026-04-26 H 1-0 v Beasain | Segunda División RFEF - Group 2 | Nájera
+2026-04-19 A 1-2 v Alfaro | Segunda División RFEF - Group 2 | ?
+2026-04-12 H 2-0 v SD Logroñés | Segunda División RFEF - Group 2 | Nájera
+2026-04-05 A 0-3 v Real Unión | Segunda División RFEF - Group 2 | Irun
+2026-03-29 H 1-1 v Sestao River | Segunda División RFEF - Group 2 | Nájera
+2026-03-21 A 3-2 v Gernika | Segunda División RFEF - Group 2 | ?
+2026-03-15 H 0-1 v Deportivo Alavés II | Segunda División RFEF - Group 2 | Nájera
+2026-03-08 A 1-1 v Ejea | Segunda División RFEF - Group 2 | ?
+2026-02-28 H 3-0 v Basconia | Segunda División RFEF - Group 2 | Nájera
+Listed home: 9 games, scored 10 (1.11), conceded 5 (0.56), blanks 2, clean sheets 5
+Listed away: 11 games, scored 13 (1.18), conceded 24 (2.18), blanks 4, clean sheets 0
+All: 20 games, scored 23 (1.15), conceded 29 (1.45), blanks 6, clean sheets 5
+
+=== Manresa (id 9675): last 20 finished games ===
+2026-11-08 H 0-3 v Barcelona B | Segunda División RFEF - Group 2 | ?
+2026-11-01 A 0-1 v Olot | Segunda División RFEF - Group 2 | ?
+2026-10-27 H 0-0 v Sant Andreu | Copa del Rey | Manresa [PEN, 90-min score shown]
+2026-10-24 H 3-2 v Ebro | Segunda División RFEF - Group 2 | ?
+2026-10-18 A 0-0 v Barbastro | Segunda División RFEF - Group 2 | ?
+2026-10-10 H 0-0 v Osasuna II | Segunda División RFEF - Group 2 | ?
+2026-10-04 A 4-1 v Reddis | Segunda División RFEF - Group 2 | Reus
+2026-09-26 H 0-1 v UD Logroñés II | Segunda División RFEF - Group 2 | ?
+2026-09-20 A 1-2 v Tudelano | Segunda División RFEF - Group 2 | ?
+2026-09-12 H 2-0 v Peña Sport | Segunda División RFEF - Group 2 | ?
+2026-09-06 A 4-1 v Arnedo | Segunda División RFEF - Group 2 | ?
+2026-08-22 H 1-1 v Atlètic Lleida | Friendlies Clubs | ?
+2026-08-19 A 1-3 v Sant Andreu | Friendlies Clubs | ?
+2026-08-12 H 2-0 v Vilanova | Friendlies Clubs | ?
+2026-08-08 A 0-0 v Grama | Friendlies Clubs | ?
+2026-07-29 A 1-2 v Sabadell | Friendlies Clubs | ?
+2026-05-09 H 2-0 v San Cristóbal | Tercera División RFEF - Group 5 | Manresa
+2026-05-03 A 1-2 v Cornellà | Tercera División RFEF - Group 5 | Cornella de Llobregat
+2026-04-26 H 4-1 v Badalona | Tercera División RFEF - Group 5 | Manresa
+2026-04-19 A 0-2 v Montañesa | Tercera División RFEF - Group 5 | Barcelona
+Listed home: 10 games, scored 14 (1.40), conceded 8 (0.80), blanks 4, clean sheets 5
+Listed away: 10 games, scored 12 (1.20), conceded 14 (1.40), blanks 4, clean sheets 2
+All: 20 games, scored 26 (1.30), conceded 22 (1.10), blanks 8, clean sheets 7
+
+TABLE FOR Náxara
+LEAGUE TABLE Segunda División RFEF - Group 2 2026 | 18 teams | 92 games played
+League averages per game: home 1.47, away 1.07, total 2.53
+#   team                   Pts | home P GF-GA  | away P GF-GA  | all P GF-GA
+1   Barcelona B             25 |  6  14-3       |  5   6-3       | 11  20-6
+2   Girona II               22 |  5  14-5       |  6   8-7       | 11  22-12
+3   Terrassa                21 |  4   6-1       |  6   6-4       | 10  12-5
+4   Espanyol II             20 |  4  13-2       |  5   9-6       |  9  22-8
+5   Ebro                    20 |  6  10-4       |  5  11-9       | 11  21-13
+6   Osasuna II              20 |  6  11-1       |  5   3-6       | 11  14-7
+7   Olot                    18 |  5   7-5       |  5   8-7       | 10  15-12
+8   Manresa                 14 |  5   5-6       |  5   9-5       | 10  14-11
+9   Reddis                  14 |  5   4-6       |  5   6-6       | 10  10-12
+10  Utebo                   12 |  5   4-3       |  6   7-9       | 11  11-12
+11  Peña Sport              12 |  5  10-6       |  5   3-9       | 10  13-15
+12  Barbastro                9 |  5   6-7       |  5   4-5       | 10  10-12
+13  Tudelano                 9 |  6   7-12      |  4   6-7       | 10  13-19
+14  UD Logroñés II           9 |  4   5-8       |  6   4-8       | 10   9-16
+15  SD Logroñés              8 |  6   5-7       |  5   3-10      | 11   8-17
+16  Náxara                   6 |  4   3-3       |  5   2-12      |  9   5-15
+17  Arnedo                   6 |  6   7-11      |  4   2-11      | 10   9-22
+18  Calamocha                5 |  5   4-8       |  5   1-11      | 10   5-19
+
+(Manresa: same table as Náxara, shown above)
+
+(25 API-Football requests used)
+
+----------------------------------------------------------------------
+MATCHBOOK: skipped (switched off for this run)

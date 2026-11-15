@@ -1,0 +1,84 @@
+MATCH Las Palmas II v Lucena | fetched 2026-11-15 09:42 local
+
+FORM DATA Las Palmas II v Lucena | source API-Football | 2026-11-15 09:43 UTC
+H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
+
+=== Las Palmas II (id 9574): last 20 finished games ===
+2026-11-08 A 1-2 v Marbella | Segunda División RFEF - Group 4 | Marbella
+2026-11-01 H 0-1 v Atlético Central | Segunda División RFEF - Group 4 | ?
+2026-10-25 A 1-4 v Sanluqueño | Segunda División RFEF - Group 4 | ?
+2026-10-18 H 1-2 v Puente Genil | Segunda División RFEF - Group 4 | ?
+2026-10-11 H 1-1 v Tenerife II | Segunda División RFEF - Group 4 | ?
+2026-10-04 A 0-4 v Recreativo Huelva | Segunda División RFEF - Group 4 | Huelva
+2026-09-27 H 0-0 v Badajoz | Segunda División RFEF - Group 4 | ?
+2026-09-20 A 1-0 v Linares Deportivo | Segunda División RFEF - Group 4 | Linares
+2026-09-13 A 0-3 v Don Benito | Segunda División RFEF - Group 4 | ?
+2026-09-06 H 0-1 v Real Betis II | Segunda División RFEF - Group 4 | ?
+2026-05-03 A 1-1 v Socuéllamos | Segunda División RFEF - Group 5 | Socuéllamos
+2026-04-26 H 2-1 v Orihuela | Segunda División RFEF - Group 5 | Las Palmas de Gran Canaria
+2026-04-19 A 0-3 v Getafe II | Segunda División RFEF - Group 5 | Getafe
+2026-04-11 H 0-1 v Real Madrid III | Segunda División RFEF - Group 5 | Las Palmas de Gran Canaria
+2026-04-05 A 1-2 v RSD Alcalá | Segunda División RFEF - Group 5 | Alcalá de Henares
+2026-03-29 H 0-0 v Intercity | Segunda División RFEF - Group 5 | Las Palmas de Gran Canaria
+2026-03-22 A 2-1 v Colonia Moscardó | Segunda División RFEF - Group 5 | Madrid
+2026-03-15 H 1-2 v SS Reyes | Segunda División RFEF - Group 5 | Las Palmas de Gran Canaria
+2026-03-11 A 2-2 v Tenerife II | Segunda División RFEF - Group 5 | San Cristóbal de La Laguna (Tenerife)
+2026-03-08 H 1-2 v Quintanar del Rey | Segunda División RFEF - Group 5 | Las Palmas de Gran Canaria
+Listed home: 10 games, scored 6 (0.60), conceded 11 (1.10), blanks 5, clean sheets 2
+Listed away: 10 games, scored 9 (0.90), conceded 22 (2.20), blanks 3, clean sheets 1
+All: 20 games, scored 15 (0.75), conceded 33 (1.65), blanks 8, clean sheets 3
+
+=== Ciudad de Lucena (id 9756): last 20 finished games ===
+2026-11-07 H 1-1 v Badajoz | Segunda División RFEF - Group 4 | ?
+2026-11-01 H 2-1 v Sanluqueño | Segunda División RFEF - Group 4 | ?
+2026-10-27 H 0-1 v Rayo Majadahonda | Copa del Rey | ?
+2026-10-24 A 2-2 v Estepona | Segunda División RFEF - Group 4 | ?
+2026-10-18 A 1-0 v Xerez | Segunda División RFEF - Group 4 | Jerez
+2026-10-11 H 4-2 v Don Benito | Segunda División RFEF - Group 4 | ?
+2026-10-04 H 1-0 v Puente Genil | Segunda División RFEF - Group 4 | ?
+2026-09-27 A 3-0 v Antoniano | Segunda División RFEF - Group 4 | ?
+2026-09-20 H 1-2 v Tenerife II | Segunda División RFEF - Group 4 | ?
+2026-09-13 A 1-1 v Mijas Las Lagunas | Segunda División RFEF - Group 4 | ?
+2026-09-06 A 1-1 v Linares Deportivo | Segunda División RFEF - Group 4 | Linares
+2026-05-10 H 2-1 v Dos Hermanas | Tercera División RFEF - Group 10 | Lucena
+2026-05-03 A 0-3 v Cádiz II | Tercera División RFEF - Group 10 | Puerto Real
+2026-04-26 H 5-0 v Tomares | Tercera División RFEF - Group 10 | Lucena
+2026-04-18 H 1-0 v Bollullos | Tercera División RFEF - Group 10 | Lucena
+2026-04-12 A 3-0 v Sevilla III | Tercera División RFEF - Group 10 | Sevilla
+2026-04-05 H 3-0 v Linense | Tercera División RFEF - Group 10 | Lucena
+2026-03-28 A 3-1 v Atlético Onubense | Tercera División RFEF - Group 10 | Huelva
+2026-03-22 H 3-2 v Pozoblanco | Tercera División RFEF - Group 10 | Lucena
+2026-03-15 A 1-1 v San Roque Lepe | Tercera División RFEF - Group 10 | Lepe
+Listed home: 11 games, scored 23 (2.09), conceded 10 (0.91), blanks 1, clean sheets 4
+Listed away: 9 games, scored 15 (1.67), conceded 9 (1.00), blanks 1, clean sheets 3
+All: 20 games, scored 38 (1.90), conceded 19 (0.95), blanks 2, clean sheets 7
+
+TABLE FOR Las Palmas II
+LEAGUE TABLE Segunda División RFEF - Group 4 2026 | 18 teams | 90 games played
+League averages per game: home 1.57, away 1.09, total 2.66
+#   team                   Pts | home P GF-GA  | away P GF-GA  | all P GF-GA
+1   Recreativo Huelva       21 |  5  13-2       |  5   8-6       | 10  21-8
+2   Don Benito              20 |  5  12-5       |  5   6-8       | 10  18-13
+3   Ciudad de Lucena        19 |  5   9-6       |  5   8-4       | 10  17-10
+4   Real Betis II           18 |  4   5-3       |  6   8-4       | 10  13-7
+5   Badajoz                 17 |  5   5-3       |  5   5-4       | 10  10-7
+6   Xerez                   15 |  5   4-4       |  5   8-3       | 10  12-7
+7   Mijas Las Lagunas       15 |  4  11-5       |  6   7-9       | 10  18-14
+8   Estepona                15 |  6  14-9       |  4   4-6       | 10  18-15
+9   Atlético Central        15 |  5   6-1       |  5   7-14      | 10  13-15
+10  Sevilla Atletico        14 |  5  10-5       |  5   8-11      | 10  18-16
+11  Linares Deportivo       14 |  5   6-6       |  5   7-7       | 10  13-13
+12  Puente Genil            12 |  5   5-2       |  5   6-8       | 10  11-10
+13  Tenerife II             10 |  4   6-6       |  5   5-8       |  9  11-14
+14  Marbella                10 |  6   8-6       |  4   0-5       | 10   8-11
+15  Sanluqueño              10 |  6  10-11      |  5   5-8       | 11  15-19
+16  Antoniano                6 |  5   9-10      |  5   1-9       | 10  10-19
+17  Tamaraceite              6 |  5   6-9       |  5   2-14      | 10   8-23
+18  Las Palmas II            5 |  5   2-5       |  5   3-13      | 10   5-18
+
+(Ciudad de Lucena: same table as Las Palmas II, shown above)
+
+(25 API-Football requests used)
+
+----------------------------------------------------------------------
+MATCHBOOK: skipped (switched off for this run)

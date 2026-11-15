@@ -1,0 +1,51 @@
+MATCH Lee Man v Tai Po | fetched 2026-11-15 09:42 local
+
+FORM DATA Lee Man v Tai Po | source API-Football | 2026-11-15 09:42 UTC
+H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
+
+=== Wofoo Tai Po (id 4457): last 20 finished games ===
+2026-11-08 A 3-1 v Eastern District | Premier League | ?
+2026-11-05 A 1-4 v BG Pathum United | AFC Champions League Two | Pathum Thani
+2026-10-29 H 0-3 v BG Pathum United | AFC Champions League Two | Hongkong
+2026-10-24 H 4-2 v Kitchee | Senior Shield | Hongkong
+2026-10-19 H 4-2 v Southern District | Premier League | Hong Kong
+2026-10-15 H 0-1 v Home United | AFC Champions League Two | Hongkong
+2026-10-10 H 1-1 v Kowloon City | Premier League | Hongkong
+2026-10-04 A 3-1 v BC Rangers | League Cup | Hongkong
+2026-09-17 A 0-3 v Adelaide United | AFC Champions League Two | Adelaide
+2026-09-12 H 1-2 v Hong Kong FC | Premier League | Hongkong
+2026-09-05 H 3-2 v BC Rangers | Premier League | Hongkong
+2026-08-30 H 4-1 v Eastern | Premier League | Hongkong
+2026-08-23 A 0-2 v North District | Premier League | Hongkong
+2026-05-30 H 2-1 v Eastern District | FA Cup | Hongkong
+2026-05-23 H 2-0 v BC Rangers | FA Cup | Hongkong
+2026-05-17 A 3-2 v Warriors | Premier League | Hongkong
+2026-05-09 A 4-2 v Eastern | Premier League | Hongkong
+2026-05-02 H 3-0 v Kitchee | Premier League | Hongkong
+2026-04-18 H 3-2 v North District | Premier League | Hongkong
+2026-04-11 A 3-1 v Eastern District | Premier League | Hongkong
+Listed home: 12 games, scored 27 (2.25), conceded 17 (1.42), blanks 2, clean sheets 2
+Listed away: 8 games, scored 17 (2.12), conceded 16 (2.00), blanks 2, clean sheets 0
+All: 20 games, scored 44 (2.20), conceded 33 (1.65), blanks 4, clean sheets 2
+
+!! Lee Man: No team found for "Lee Man".
+
+TABLE FOR Wofoo Tai Po
+LEAGUE TABLE Premier League 2026 | 11 teams | 0 games played
+#   team                   Pts | home P GF-GA  | away P GF-GA  | all P GF-GA
+1   Kitchee                  0 |  0   0-0       |  0   0-0       |  0   0-0
+2   Warriors                 0 |  0   0-0       |  0   0-0       |  0   0-0
+3   North District           0 |  0   0-0       |  0   0-0       |  0   0-0
+4   Wofoo Tai Po             0 |  0   0-0       |  0   0-0       |  0   0-0
+5   Eastern                  0 |  0   0-0       |  0   0-0       |  0   0-0
+6   Kowloon City             0 |  0   0-0       |  0   0-0       |  0   0-0
+7   Eastern District         0 |  0   0-0       |  0   0-0       |  0   0-0
+8   Southern District        0 |  0   0-0       |  0   0-0       |  0   0-0
+9   BC Rangers               0 |  0   0-0       |  0   0-0       |  0   0-0
+10  Hong Kong FC             0 |  0   0-0       |  0   0-0       |  0   0-0
+11  Shatin                   0 |  0   0-0       |  0   0-0       |  0   0-0
+
+(14 API-Football requests used)
+
+----------------------------------------------------------------------
+MATCHBOOK: skipped (switched off for this run)
