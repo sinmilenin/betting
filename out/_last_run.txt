@@ -1,4 +1,5 @@
-RUN 2026-11-15 17:49 local | 1 match(es)
-Leones Negros v Atletico Morelia -> out/Leones_Negros_v_Atletico_Morelia.txt
-    !! Atletico Morelia: No team found for "Atletico Morelia".
-Requests used: API-Football 14, Matchbook 0
+RUN 2026-11-15 17:50 local | 1 match(es)
+Universidad Guadalajara v Morelia -> out/Universidad_Guadalajara_v_Morelia.txt
+    !! Universidad Guadalajara: No team found for "Universidad Guadalajara".
+    !! Morelia: No team found for "Morelia".
+Requests used: API-Football 2, Matchbook 0
