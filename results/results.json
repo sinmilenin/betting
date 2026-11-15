@@ -1,19 +1,19 @@
 [
  {
-  "id": "2026-11-15_danubio-liverpool-montevideo_2-2",
-  "match": "Danubio v Liverpool Montevideo",
+  "id": "2026-11-15_juan-pablo-ii-college-deportivo-garcilaso_2-2",
+  "match": "Juan Pablo II College v Deportivo Garcilaso",
   "cell": "2-2",
   "state": "final",
-  "score": "1-2",
-  "result": "won",
-  "api": "Danubio v Liverpool Montevideo",
+  "score": "2-2",
+  "result": "lost",
+  "api": "Juan Pablo II College v Deportivo Garcilaso",
   "status": "FT",
-  "api_ko": "20:30",
-  "fixture": 1649061,
+  "api_ko": "21:15",
+  "fixture": 1549559,
   "swapped": false,
   "conf": 1.0,
   "note": "",
-  "league": "Uruguay, Primera División"
+  "league": "Peru, Primera División"
  },
  {
   "id": "2026-11-15_universidad-guadalajara-club-atletico-morelia_2-2",
