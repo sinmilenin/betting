@@ -1,6 +1,6 @@
-MATCH Kashima v Yokohama F. Marinos | fetched 2026-11-15 05:11 local
+MATCH Kashima v Yokohama F Marinos | fetched 2026-11-15 05:12 local
 
-FORM DATA Kashima v Yokohama F. Marinos | source API-Football | 2026-11-15 05:11 UTC
+FORM DATA Kashima v Yokohama F Marinos | source API-Football | 2026-11-15 05:12 UTC
 H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
 
 === Kashima (id 290): last 20 finished games ===
@@ -28,7 +28,7 @@ Listed home: 11 games, scored 31 (2.82), conceded 10 (0.91), blanks 1, clean she
 Listed away: 9 games, scored 14 (1.56), conceded 15 (1.67), blanks 2, clean sheets 3
 All: 20 games, scored 45 (2.25), conceded 25 (1.25), blanks 3, clean sheets 7
 
-!! Yokohama F. Marinos: API-Football error: {"search": "The Search field may only contain alpha-numeric characters and spaces."}
+!! Yokohama F Marinos: No team found for "Yokohama F Marinos".
 
 TABLE FOR Kashima
 LEAGUE TABLE J1 League 2027 | 20 teams | 140 games played
@@ -55,7 +55,7 @@ League averages per game: home 1.61, away 1.34, total 2.95
 19  Mito Hollyhock           9 |  7   7-11      |  7   5-15      | 14  12-26
 20  Avispa Fukuoka           8 |  8  10-10      |  6   4-15      | 14  14-25
 
-(13 API-Football requests used)
+(15 API-Football requests used)
 
 ----------------------------------------------------------------------
 MATCHBOOK: skipped (switched off for this run)
