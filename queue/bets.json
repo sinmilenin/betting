@@ -42,5 +42,16 @@
     "lay": 17.5,
     "stake": 3,
     "created": "2026-11-15T10:30:53Z"
+  },
+  {
+    "id": "2026-11-15_hamburger-sv-hajduk-split_1-0",
+    "date": "2026-11-15",
+    "ko": "15:00",
+    "match": "Hamburger SV v Hajduk Split",
+    "comp": "International, Elite Friendlies",
+    "cell": "1-0",
+    "lay": 13,
+    "stake": 3,
+    "created": "2026-11-15T12:50:59Z"
   }
 ]
