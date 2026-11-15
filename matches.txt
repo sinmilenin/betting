@@ -1,3 +1,4 @@
-# scan 15.11 12:11 (run 2: women's team names)
-Wolves W v Durham W | n=20 | xg=10
-West Ham W v Charlton Athletic W | n=20 | xg=10
+# scan 15.11 12:55 (run 1)
+Lokomotiv Gorna Oryahovitsa v CSKA Sofia II | n=20 | xg=10
+Al Wahda v Khor Fakkan | n=20 | xg=10
+Aston Villa W v Birmingham City W | n=20 | xg=10
