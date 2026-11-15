@@ -1,2 +1,3 @@
-# scan 15.11 13:40 (run 2: Hajduk Split id)
-Hamburger SV v id:608 | n=20 | xg=10
+# scan 15.11 14:25 (run 1)
+Como W v Como 1907 W | n=20 | xg=10
+Navalcarnero v Getafe B | n=20 | xg=10
