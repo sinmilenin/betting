@@ -1,2 +1,6 @@
-# scan 15.11 14:25 (run 2: Getafe II)
-Navalcarnero v Getafe II | n=20 | xg=10
+# scan 15.11 15:10 run 1
+Gernika v Real Oviedo II | n=20 | xg=10
+Al Jazira v Bani Yas | n=20 | xg=10
+Alcoyano v Intercity | n=20 | xg=10
+Cittadella v Caratese | n=20 | xg=10
+Ravenna v Forli | n=20 | xg=10
