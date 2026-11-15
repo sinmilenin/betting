@@ -1,3 +1,2 @@
-# scan 15.11 06:10 run 1
-Cerezo Osaka v Urawa | n=20 | xg=10
-Kashima v Yokohama F. Marinos | n=20 | xg=10
+# scan 15.11 06:10 run 2
+Kashima v Yokohama F Marinos | n=20 | xg=10
