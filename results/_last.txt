@@ -1,4 +1,4 @@
-RESULTS 2026-11-15 19:30 UTC | 26 rows | dates 2026-11-08, 2026-11-15 | API-Football requests 2
+RESULTS 2026-11-15 20:03 UTC | 26 rows | dates 2026-11-08, 2026-11-15 | API-Football requests 2
 void         12:15 Vitesse Arnhem v De Graafschap                     1-0   -    -> -  [Vitesse v De Graafschap PST, conf 0.93] status PST (Match Postponed)
 final        16:30 Al-Ittihad Kalba v Al Ahli (UAE)                   0-1   1-1  -> won  [Al-Ittihad Kalba v Shabab Al Ahli Dubai FT, conf 0.75] 
 final        16:30 Al-Ittihad Kalba v Al Ahli (UAE)                   1-0   1-1  -> won  [Al-Ittihad Kalba v Shabab Al Ahli Dubai FT, conf 0.75] 
@@ -7,12 +7,12 @@ final        17:00 Alcoyano v Intercity Sant Joan C.F                 1-0   4-1 
 final        16:30 CDA Navalcarnero v Getafe B                        0-1   1-1  -> won  [Navalcarnero v Getafe II FT, conf 1.00] 
 final        17:30 Cittadella v Caratese                              1-0   2-2  -> won  [Cittadella v Folgore Caratese FT, conf 0.93] 
 final        17:30 Cittadella v Caratese                              2-1   2-2  -> won  [Cittadella v Folgore Caratese FT, conf 0.93] 
-not_finished 19:00 Comerciantes Unidos v Sport Boys (Per)             0-1   -    -> -  [Comerciantes Unidos v Sport Boys 2H, conf 0.93] status 2H
-not_finished 19:00 Comerciantes Unidos v Sport Boys (Per)             1-0   -    -> -  [Comerciantes Unidos v Sport Boys 2H, conf 0.93] status 2H
+final        19:00 Comerciantes Unidos v Sport Boys (Per)             0-1   3-3  -> won  [Comerciantes Unidos v Sport Boys FT, conf 0.93] 
+final        19:00 Comerciantes Unidos v Sport Boys (Per)             1-0   3-3  -> won  [Comerciantes Unidos v Sport Boys FT, conf 0.93] 
 final        17:00 Conquense v Guadalajara                            1-0   3-1  -> won  [Conquense v Guadalajara FT, conf 1.00] 
 final        10:15 FK Teplice B v Hradec Kralove B                    1-0   1-0  -> lost  [Teplice II v Hradec Králové II FT, conf 1.00] 
-not_finished 19:00 Leixoes v Chaves                                   1-0   -    -> -  [Leixoes v Chaves 2H, conf 1.00] status 2H
-not_finished 19:00 Leixoes v Chaves                                   2-2   -    -> -  [Leixoes v Chaves 2H, conf 1.00] status 2H
+final        19:00 Leixoes v Chaves                                   1-0   2-0  -> won  [Leixoes v Chaves FT, conf 1.00] 
+final        19:00 Leixoes v Chaves                                   2-2   2-0  -> won  [Leixoes v Chaves FT, conf 1.00] 
 final        13:30 Lokomotiv GO v CSKA Sofia II                       2-2   0-0  -> won  [Lokomotiv G. Oryahovitsa v CSKA Sofia II FT, conf 0.75] 
 final        16:30 Penafiel v Lusitania Futebol Clube                 1-0   1-2  -> won  [Penafiel v Lusitânia Lourosa FT, conf 0.93] 
 final        16:30 Penafiel v Lusitania Futebol Clube                 2-2   1-2  -> won  [Penafiel v Lusitânia Lourosa FT, conf 0.93] 
@@ -24,4 +24,4 @@ final        16:00 Santiago Wanderers v Deportes Copiapo              0-1   1-1 
 final        16:00 Santiago Wanderers v Deportes Copiapo              2-2   1-1  -> won  [Santiago Wanderers v Deportes Copiapo FT, conf 1.00] 
 final        17:00 SD Gernika Club v Real Oviedo II                   2-2   1-2  -> won  [Gernika v Real Oviedo II FT, conf 1.00] 
 not_found    19:00 Universidad Guadalajara v Club Atletico Morelia    2-2   -    -> -  [ , conf 0.00] no API-Football fixture on 2026-11-15 within 90 min of 19:00 with matching names
-not_finished 20:30 Danubio v Liverpool Montevideo                     2-2   -    -> -  [Danubio v Liverpool Montevideo NS, conf 1.00] status NS
+not_finished 20:30 Danubio v Liverpool Montevideo                     2-2   -    -> -  [Danubio v Liverpool Montevideo 1H, conf 1.00] status 1H
