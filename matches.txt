@@ -1,4 +1,2 @@
-# scan 15.11 12:55 (run 1)
-Lokomotiv Gorna Oryahovitsa v CSKA Sofia II | n=20 | xg=10
-Al Wahda v Khor Fakkan | n=20 | xg=10
-Aston Villa W v Birmingham City W | n=20 | xg=10
+# scan 15.11 12:55 (run 2: Al Wahda id, Khor Fakkan name)
+id:2875 v Khorfakkan | n=20 | xg=10
