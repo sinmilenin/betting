@@ -1,159 +1,5 @@
 [
   {
-    "id": "2026-11-14_mallorca-cordoba_0-1",
-    "date": "2026-11-14",
-    "ko": "18:30",
-    "match": "Mallorca v Cordoba",
-    "comp": "Spain, Spanish Segunda Division",
-    "cell": "0-1",
-    "lay": 19.5,
-    "stake": 3,
-    "created": "2026-11-14T06:55:00Z"
-  },
-  {
-    "id": "2026-11-14_edinburgh-city-clyde_1-0",
-    "date": "2026-11-14",
-    "ko": "16:00",
-    "match": "Edinburgh City v Clyde",
-    "comp": "United Kingdom, Scottish League Two",
-    "cell": "1-0",
-    "lay": 17.5,
-    "stake": 3,
-    "created": "2026-11-14T12:53:16Z"
-  },
-  {
-    "id": "2026-11-14_sutton-utd-solihull-moors_0-1",
-    "date": "2026-11-14",
-    "ko": "16:00",
-    "match": "Sutton Utd v Solihull Moors",
-    "comp": "United Kingdom, English National League",
-    "cell": "0-1",
-    "lay": 17.5,
-    "stake": 3,
-    "created": "2026-11-14T12:53:16Z"
-  },
-  {
-    "id": "2026-11-14_scunthorpe-worthing_0-1",
-    "date": "2026-11-14",
-    "ko": "16:00",
-    "match": "Scunthorpe v Worthing",
-    "comp": "United Kingdom, English National League",
-    "cell": "0-1",
-    "lay": 19.5,
-    "stake": 3,
-    "created": "2026-11-14T12:53:16Z"
-  },
-  {
-    "id": "2026-11-14_scunthorpe-worthing_1-0",
-    "date": "2026-11-14",
-    "ko": "16:00",
-    "match": "Scunthorpe v Worthing",
-    "comp": "United Kingdom, English National League",
-    "cell": "1-0",
-    "lay": 18.0,
-    "stake": 3,
-    "created": "2026-11-14T12:53:16Z"
-  },
-  {
-    "id": "2026-11-14_hednesford-town-hemel-hempstead_1-0",
-    "date": "2026-11-14",
-    "ko": "16:00",
-    "match": "Hednesford Town v Hemel Hempstead",
-    "comp": "United Kingdom, English FA Trophy",
-    "cell": "1-0",
-    "lay": 12.5,
-    "stake": 3,
-    "created": "2026-11-14T12:53:16Z"
-  },
-  {
-    "id": "2026-11-14_farnham-town-ebbsfleet-utd_1-0",
-    "date": "2026-11-14",
-    "ko": "16:00",
-    "match": "Farnham Town v Ebbsfleet Utd",
-    "comp": "United Kingdom, English FA Trophy",
-    "cell": "1-0",
-    "lay": 19.5,
-    "stake": 3,
-    "created": "2026-11-14T12:53:16Z"
-  },
-  {
-    "id": "2026-11-14_chojniczanka-chojnice-zawisza-bydgoszcz_1-0",
-    "date": "2026-11-14",
-    "ko": "16:00",
-    "match": "Chojniczanka Chojnice v Zawisza Bydgoszcz",
-    "comp": "Poland, Polish 2 Liga",
-    "cell": "1-0",
-    "lay": 15.5,
-    "stake": 3,
-    "created": "2026-11-14T13:35:10Z"
-  },
-  {
-    "id": "2026-11-14_al-wasl-al-nasr-uae_1-0",
-    "date": "2026-11-14",
-    "ko": "16:30",
-    "match": "Al Wasl v Al Nasr (UAE)",
-    "comp": "United Arab Emirates, UAE League Cup",
-    "cell": "1-0",
-    "lay": 13,
-    "stake": 3,
-    "created": "2026-11-14T15:04:43Z"
-  },
-  {
-    "id": "2026-11-14_sestao-river-recreativo-huelva_2-2",
-    "date": "2026-11-14",
-    "ko": "19:00",
-    "match": "Sestao River v Recreativo Huelva",
-    "comp": "Spain, Spanish Copa Federacion",
-    "cell": "2-2",
-    "lay": 20,
-    "stake": 3,
-    "created": "2026-11-14T16:32:38Z"
-  },
-  {
-    "id": "2026-11-14_sport-recife-goias_0-1",
-    "date": "2026-11-14",
-    "ko": "20:30",
-    "match": "Sport Recife v Goias",
-    "comp": "Brazil, Brazilian Serie B",
-    "cell": "0-1",
-    "lay": 12,
-    "stake": 3,
-    "created": "2026-11-14T17:18:45Z"
-  },
-  {
-    "id": "2026-11-14_criciuma-novorizontino_2-2",
-    "date": "2026-11-14",
-    "ko": "20:30",
-    "match": "Criciuma v Novorizontino",
-    "comp": "Brazil, Brazilian Serie B",
-    "cell": "2-2",
-    "lay": 19.5,
-    "stake": 3,
-    "created": "2026-11-14T17:18:45Z"
-  },
-  {
-    "id": "2026-11-14_atletico-go-cuiaba_2-1",
-    "date": "2026-11-14",
-    "ko": "20:30",
-    "match": "Atletico GO v Cuiaba",
-    "comp": "Brazil, Brazilian Serie B",
-    "cell": "2-1",
-    "lay": 9.8,
-    "stake": 3,
-    "created": "2026-11-14T17:18:45Z"
-  },
-  {
-    "id": "2026-11-14_deportivo-cali-tolima_2-2",
-    "date": "2026-11-14",
-    "ko": "21:30",
-    "match": "Deportivo Cali v Tolima",
-    "comp": "Colombia, Colombian Primera A",
-    "cell": "2-2",
-    "lay": 17,
-    "stake": 3,
-    "created": "2026-11-14T20:05:38Z"
-  },
-  {
     "id": "2026-11-15_sapporo-tosu_0-1",
     "date": "2026-11-15",
     "ko": "05:00",
@@ -163,5 +9,16 @@
     "lay": 9,
     "stake": 3,
     "created": "2026-11-14T20:05:38Z"
+  },
+  {
+    "id": "2026-11-15_fc-ryukyu-kochi-united_0-1",
+    "date": "2026-11-15",
+    "ko": "08:00",
+    "match": "FC Ryukyu v Kochi United",
+    "comp": "Japan, Japanese J League 3",
+    "cell": "0-1",
+    "lay": 14.5,
+    "stake": 3,
+    "created": "2026-11-15T05:59:56Z"
   }
 ]
