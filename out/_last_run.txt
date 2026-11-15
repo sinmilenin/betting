@@ -1,4 +1,8 @@
-RUN 2026-11-15 11:19 local | 2 match(es)
-Wolves W v Durham W -> out/Wolves_W_v_Durham_W.txt
-West Ham W v Charlton Athletic W -> out/West_Ham_W_v_Charlton_Athletic_W.txt
-Requests used: API-Football 52, Matchbook 0
+RUN 2026-11-15 11:58 local | 3 match(es)
+Lokomotiv Gorna Oryahovitsa v CSKA Sofia II -> out/Lokomotiv_Gorna_Oryahovitsa_v_CSKA_Sofia.txt
+    !! Lokomotiv Gorna Oryahovitsa: No team found for "Lokomotiv Gorna Oryahovitsa".
+Al Wahda v Khor Fakkan -> out/Al_Wahda_v_Khor_Fakkan.txt
+    !! Al Wahda: Ambiguous team name "Al Wahda".
+    !! Khor Fakkan: No team found for "Khor Fakkan".
+Aston Villa W v Birmingham City W -> out/Aston_Villa_W_v_Birmingham_City_W.txt
+Requests used: API-Football 42, Matchbook 0

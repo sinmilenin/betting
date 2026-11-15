@@ -1,0 +1,59 @@
+MATCH Lokomotiv Gorna Oryahovitsa v CSKA Sofia II | fetched 2026-11-15 11:58 local
+
+FORM DATA Lokomotiv Gorna Oryahovitsa v CSKA Sofia II | source API-Football | 2026-11-15 11:58 UTC
+H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
+
+=== CSKA Sofia II (id 1415): last 20 finished games ===
+2026-11-09 H 3-1 v Rilski Sportist | Second League | Sofia
+2026-10-30 A 3-1 v Marek | Second League | Dupnitsa
+2026-10-23 H 3-3 v Yantra 2019 | Second League | Sofia
+2026-10-10 A 0-0 v Nesebar | Second League | Nesebar
+2026-09-27 H 1-0 v Sportist Svoge | Second League | Sofia
+2026-09-21 A 3-1 v Dobrudzha | Second League | Dobrich
+2026-09-13 H 4-0 v Montana | Second League | Sofia
+2026-09-06 A 0-1 v Etar Veliko Tarnovo | Second League | Veliko Tarnovo
+2026-09-03 H 5-1 v Spartak Pleven | Second League | Sofia
+2026-08-29 A 0-1 v Fratria | Second League | ?
+2026-08-25 H 1-1 v Ludogorets II | Second League | Sofia
+2026-08-17 A 1-0 v Chernomorets 1919 Burgas | Second League | Burgas
+2026-08-11 H 4-3 v Hebar 1918 | Second League | Sofia
+2026-08-03 A 3-0 v Pirin Blagoevgrad | Second League | Blagoevgrad
+2026-07-28 A 1-1 v Vihren | Second League | Sandanski
+2026-07-11 A 2-0 v Rilski Sportist | Friendlies Clubs | ?
+2026-07-01 H 1-1 v Montana | Friendlies Clubs | ?
+2026-06-27 H 2-1 v Sportist Svoge | Friendlies Clubs | ?
+2026-05-23 A 3-0 v Lokomotiv G. Oryahovitsa | Second League | Gorna Orjahovica
+2026-05-11 A 2-1 v FK Minyor Pernik | Second League | Pernik
+Listed home: 9 games, scored 24 (2.67), conceded 11 (1.22), blanks 0, clean sheets 2
+Listed away: 11 games, scored 18 (1.64), conceded 6 (0.55), blanks 3, clean sheets 5
+All: 20 games, scored 42 (2.10), conceded 17 (0.85), blanks 3, clean sheets 7
+
+!! Lokomotiv Gorna Oryahovitsa: No team found for "Lokomotiv Gorna Oryahovitsa".
+
+TABLE FOR CSKA Sofia II
+LEAGUE TABLE Second League 2026 | 18 teams | 134 games played
+League averages per game: home 1.64, away 1.16, total 2.81
+#   team                   Pts | home P GF-GA  | away P GF-GA  | all P GF-GA
+1   Chernomorets 1919 Burg  32 |  7  11-5       |  9  19-9       | 16  30-14
+2   CSKA Sofia II           31 |  7  21-9       |  8  11-5       | 15  32-14
+3   Vihren                  29 |  8  16-7       |  7  13-7       | 15  29-14
+4   Fratria                 25 |  8  16-7       |  6   8-7       | 14  24-14
+5   Yantra 2019             24 |  8  13-5       |  7   9-12      | 15  22-17
+6   Hebar 1918              23 |  7  14-9       |  8  18-16      | 15  32-25
+7   Lokomotiv G. Oryahovit  23 |  8  10-5       |  7   4-8       | 15  14-13
+8   Beroe                   22 |  8  15-5       |  7   9-16      | 15  24-21
+9   Ludogorets II           22 |  6  11-6       |  8   9-8       | 14  20-14
+10  Spartak Pleven          21 |  7   9-8       |  8   8-18      | 15  17-26
+11  Etar Veliko Tarnovo     21 |  8  12-9       |  6  11-13      | 14  23-22
+12  Rilski Sportist         20 |  8   9-5       |  7   7-11      | 15  16-16
+13  Marek                   18 |  7  14-13      |  9   4-11      | 16  18-24
+14  Nesebar                 18 |  8  18-12      |  7   4-11      | 15  22-23
+15  Montana                 15 |  7  11-15      |  8   8-15      | 15  19-30
+16  Sportist Svoge          12 |  8   8-9       |  7   4-12      | 15  12-21
+17  Dobrudzha               10 |  7   8-10      |  7   6-17      | 14  14-27
+18  Pirin Blagoevgrad        2 |  7   4-17      |  8   4-24      | 15   8-41
+
+(14 API-Football requests used)
+
+----------------------------------------------------------------------
+MATCHBOOK: skipped (switched off for this run)
