@@ -1,2 +1,2 @@
-# scan 15.11 15:55 run 3
-id:2871 v id:2877 | n=20 | xg=10
+# manual scan 15.11 18:50
+Leones Negros v Atletico Morelia | n=20 | xg=10
