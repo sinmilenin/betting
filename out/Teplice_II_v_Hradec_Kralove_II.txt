@@ -1,0 +1,63 @@
+MATCH Teplice II v Hradec Kralove II | fetched 2026-11-15 08:59 local
+
+FORM DATA Teplice II v Hradec Kralove II | source API-Football | 2026-11-15 08:59 UTC
+H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
+
+=== Teplice II (id 12877): last 20 finished games ===
+2026-11-08 A 1-2 v Varnsdorf | 3. liga - CFL B | Varnsdorf
+2026-11-01 H 1-4 v Mladá Boleslav II | 3. liga - CFL B | ?
+2026-10-25 A 1-4 v Jablonec II | 3. liga - CFL B | ?
+2026-10-18 H 1-2 v Sokol Zápy | 3. liga - CFL B | ?
+2026-10-10 A 0-2 v Velké Hamry | 3. liga - CFL B | Velke Hamry
+2026-10-04 H 0-2 v Neratovice-Byškovice | 3. liga - CFL B | ?
+2026-09-26 A 1-4 v Horní Ředice | 3. liga - CFL B | ?
+2026-09-20 H 4-1 v Chrudim | 3. liga - CFL B | ?
+2026-09-12 A 0-1 v Benátky nad Jizerou | 3. liga - CFL B | Benatky nad Jizerou
+2026-09-06 H 1-1 v Pardubice II | 3. liga - CFL B | ?
+2026-08-29 A 4-0 v Slovan Liberec II | 3. liga - CFL B | Liberec
+2026-08-23 A 1-0 v Čáslav | 3. liga - CFL B | Caslav
+2026-08-16 H 5-2 v Sokol Brozany | 3. liga - CFL B | ?
+2026-08-07 A 0-5 v Baník Souš | 3. liga - CFL B | Most
+2026-08-01 H 2-1 v Bohemians 1905 II | Friendlies Clubs | ?
+2026-07-18 A 3-1 v Jablonec II | Friendlies Clubs | ?
+2026-06-03 H 0-4 v Arsenal Česká Lípa | 3. liga - CFL B | ?
+2026-05-30 A 2-0 v Mladá Boleslav II | 3. liga - CFL B | Mlada Boleslav
+2026-05-24 H 1-1 v Jablonec II | 3. liga - CFL B | ?
+2026-05-20 A 1-1 v Slovan Velvary | 3. liga - CFL B | Velvary
+Listed home: 9 games, scored 15 (1.67), conceded 18 (2.00), blanks 2, clean sheets 0
+Listed away: 11 games, scored 14 (1.27), conceded 20 (1.82), blanks 3, clean sheets 3
+All: 20 games, scored 29 (1.45), conceded 38 (1.90), blanks 5, clean sheets 3
+
+=== Hradec Králové II (id 14495): last 20 finished games ===
+2026-11-08 H 4-2 v Čáslav | 3. liga - CFL B | Hradec Kralove
+2026-10-31 A 1-3 v Sokol Brozany | 3. liga - CFL B | Brozany nad Ohri
+2026-10-25 H 2-0 v Baník Souš | 3. liga - CFL B | Hradec Kralove
+2026-10-18 H 1-2 v Slovan Liberec II | 3. liga - CFL B | Hradec Kralove
+2026-10-11 A 1-2 v Varnsdorf | 3. liga - CFL B | Varnsdorf
+2026-10-04 H 0-1 v Mladá Boleslav II | 3. liga - CFL B | Hradec Kralove
+2026-09-27 A 2-1 v Jablonec II | 3. liga - CFL B | ?
+2026-09-20 H 1-2 v Sokol Zápy | 3. liga - CFL B | Hradec Kralove
+2026-09-12 A 0-0 v Velké Hamry | 3. liga - CFL B | Velke Hamry
+2026-09-06 H 0-0 v Neratovice-Byškovice | 3. liga - CFL B | Hradec Kralove
+2026-08-29 A 0-1 v Horní Ředice | 3. liga - CFL B | ?
+2026-08-23 H 0-0 v Chrudim | 3. liga - CFL B | Hradec Kralove
+2026-08-16 A 1-1 v Benátky nad Jizerou | 3. liga - CFL B | Benatky nad Jizerou
+2026-08-09 H 2-1 v Pardubice II | 3. liga - CFL B | Hradec Kralove
+2026-07-25 A 1-2 v Vysoké Mýto | Friendlies Clubs | ?
+2026-07-18 A 0-2 v Admira Praha | Friendlies Clubs | ?
+2026-07-15 H 2-5 v Jablonec II | Friendlies Clubs | ?
+2026-07-11 H 3-2 v Dukla Praha II | Friendlies Clubs | ?
+2026-06-07 A 0-5 v Varnsdorf | 3. liga - CFL B | Varnsdorf
+2026-05-31 H 7-0 v Slovan Velvary | 3. liga - CFL B | Hradec Kralove
+Listed home: 11 games, scored 22 (2.00), conceded 15 (1.36), blanks 3, clean sheets 4
+Listed away: 9 games, scored 6 (0.67), conceded 17 (1.89), blanks 4, clean sheets 1
+All: 20 games, scored 28 (1.40), conceded 32 (1.60), blanks 7, clean sheets 5
+
+(no league table available for Teplice II: tried 3. liga - CFL B 2026)
+
+(no league table available for Hradec Králové II: tried 3. liga - CFL B 2026)
+
+(25 API-Football requests used)
+
+----------------------------------------------------------------------
+MATCHBOOK: skipped (switched off for this run)
