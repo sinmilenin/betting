@@ -1,3 +1,6 @@
-RUN 2026-11-15 08:14 local | 1 match(es)
-Apollon Pontou v Kallithea -> out/Apollon_Pontou_v_Kallithea.txt
-Requests used: API-Football 25, Matchbook 0
+RUN 2026-11-15 08:57 local | 2 match(es)
+Teplice B v Hradec Kralove B -> out/Teplice_B_v_Hradec_Kralove_B.txt
+    !! Teplice B: No team found for "Teplice B".
+    !! Hradec Kralove B: No team found for "Hradec Kralove B".
+Orduspor 1967 v Beykoz Anadolu -> out/Orduspor_1967_v_Beykoz_Anadolu.txt
+Requests used: API-Football 27, Matchbook 0
