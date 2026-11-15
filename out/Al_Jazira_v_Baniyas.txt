@@ -1,0 +1,55 @@
+MATCH Al-Jazira v Baniyas | fetched 2026-11-15 14:58 local
+
+FORM DATA Al-Jazira v Baniyas | source API-Football | 2026-11-15 14:58 UTC
+H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
+
+=== Baniyas SC (id 2877): last 20 finished games ===
+2026-11-08 A 1-1 v Ajman | Pro League | Ajman | xG 1.35-2.31
+2026-10-23 A 0-0 v Al Nasr | Presidents Cup | Dubai [AET, 90-min score shown]
+2026-10-16 H 0-2 v Al-Wasl FC | Pro League | Abu Dhabi | xG 1.65-2.38
+2026-10-09 A 0-1 v Ajman | League Cup | Ajman
+2026-10-01 H 3-1 v Al Wahda FC | League Cup | Abu Dhabi
+2026-09-20 A 3-1 v Al-Dhafra | League Cup | Madinat Zayed
+2026-09-11 A 0-0 v Khorfakkan | Pro League | Khor Fakkan
+2026-09-05 H 0-1 v Hatta SC | Pro League | Abu Dhabi
+2026-08-30 A 1-2 v Al Wahda FC | Pro League | Abu Dhabi
+2026-08-23 H 2-3 v Dubai United | Pro League | Abu Dhabi
+2026-08-16 H 2-4 v Al Ain | Pro League | Abu Dhabi
+2026-05-16 A 1-4 v Al-Jazira | Pro League | Abu Dhabi
+2026-05-10 H 2-2 v Shabab Al Ahli Dubai | Pro League | Abu Dhabi
+2026-05-05 H 2-2 v Al-Dhafra | Pro League | Abu Dhabi
+2026-04-23 A 2-1 v Al-Ittihad Kalba | Pro League | Kalba
+2026-04-10 H 1-1 v Sharjah FC | Pro League | Abu Dhabi
+2026-04-05 A 1-2 v Khorfakkan | Pro League | Khor Fakkan
+2026-03-18 A 1-1 v Ajman | Pro League | Ajman
+2026-03-12 H 1-0 v Al Wahda FC | Pro League | Abu Dhabi
+2026-03-07 H 2-0 v Al-Wasl FC | Pro League | Abu Dhabi
+Listed home: 10 games, scored 15 (1.50), conceded 16 (1.60), blanks 2, clean sheets 2
+Listed away: 10 games, scored 10 (1.00), conceded 13 (1.30), blanks 3, clean sheets 2
+All: 20 games, scored 25 (1.25), conceded 29 (1.45), blanks 5, clean sheets 4
+
+!! Al-Jazira: API-Football error: {"search": "The Search field may only contain alpha-numeric characters and spaces."}
+
+TABLE FOR Baniyas SC
+LEAGUE TABLE Pro League 2026 | 14 teams | 49 games played
+League averages per game: home 1.65, away 1.63, total 3.29
+#   team                   Pts | home P GF-GA  | away P GF-GA  | all P GF-GA
+1   Al-Jazira               17 |  3   6-2       |  4   9-3       |  7  15-5
+2   Sharjah FC              15 |  3   6-5       |  4   9-3       |  7  15-8
+3   Al Ain                  14 |  3   6-3       |  4   6-4       |  7  12-7
+4   Shabab Al Ahli Dubai    13 |  3   5-3       |  4   7-4       |  7  12-7
+5   Al Wahda FC             13 |  4   5-4       |  3   4-3       |  7   9-7
+6   Al-Wasl FC              13 |  3  10-4       |  4   8-4       |  7  18-8
+7   Al Nasr                 11 |  5  10-5       |  2   2-3       |  7  12-8
+8   Ajman                   10 |  4   8-10      |  3   5-6       |  7  13-16
+9   Al-Ittihad Kalba         8 |  3   2-7       |  4   9-9       |  7  11-16
+10  Khorfakkan               7 |  4   5-8       |  3   4-8       |  7   9-16
+11  Dubai United             7 |  2   5-2       |  5   9-20      |  7  14-22
+12  Al-Dhafra                6 |  4   7-8       |  3   2-5       |  7   9-13
+13  Hatta SC                 3 |  4   2-9       |  3   4-6       |  7   6-15
+14  Baniyas SC               2 |  4   4-10      |  3   2-3       |  7   6-13
+
+(13 API-Football requests used)
+
+----------------------------------------------------------------------
+MATCHBOOK: skipped (switched off for this run)

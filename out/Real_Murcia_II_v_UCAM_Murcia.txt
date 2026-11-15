@@ -1,0 +1,84 @@
+MATCH Real Murcia II v UCAM Murcia | fetched 2026-11-15 14:58 local
+
+FORM DATA Real Murcia II v UCAM Murcia | source API-Football | 2026-11-15 14:59 UTC
+H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
+
+=== Real Murcia II (id 9820): last 20 finished games ===
+2026-11-08 H 0-2 v Deportiva Minera | Segunda División RFEF - Group 3 | ?
+2026-11-01 A 1-1 v Alcoyano | Segunda División RFEF - Group 3 | Alcoy
+2026-10-25 H 3-2 v Lorca Deportiva | Segunda División RFEF - Group 3 | ?
+2026-10-11 H 1-1 v Yeclano | Segunda División RFEF - Group 3 | ?
+2026-10-04 A 0-3 v Castellonense | Segunda División RFEF - Group 3 | ?
+2026-09-27 A 2-0 v Peña Deportiva | Segunda División RFEF - Group 3 | ?
+2026-09-20 H 0-1 v Mallorca II | Segunda División RFEF - Group 3 | ?
+2026-09-13 A 1-5 v La Nucía | Segunda División RFEF - Group 3 | ?
+2026-09-05 H 1-2 v Orihuela | Segunda División RFEF - Group 3 | ?
+2026-06-20 A 1-1 v Pamplona | Tercera División RFEF - Promotion - Play-offs | ?
+2026-06-14 H 2-1 v Pamplona | Tercera División RFEF - Promotion - Play-offs | ?
+2026-06-07 H 2-1 v Olímpico Totana | Tercera División RFEF - Group 13 | ?
+2026-05-31 A 1-1 v Olímpico Totana | Tercera División RFEF - Group 13 | ?
+2026-05-24 H 2-0 v Mazarrón FC | Tercera División RFEF - Group 13 | ?
+2026-05-16 A 1-1 v Mazarrón FC | Tercera División RFEF - Group 13 | ?
+2026-05-10 H 0-2 v Unión Molinense | Tercera División RFEF - Group 13 | Murcia
+2026-05-02 A 2-1 v Santa Cruz | Tercera División RFEF - Group 13 | Llano de Brujas
+2026-04-25 H 2-3 v Santomera | Tercera División RFEF - Group 13 | Murcia
+2026-04-19 A 1-1 v UD Caravaca | Tercera División RFEF - Group 13 | Caravaca de la Cruz
+2026-04-10 H 0-0 v Cieza | Tercera División RFEF - Group 13 | Murcia
+Listed home: 11 games, scored 13 (1.18), conceded 15 (1.36), blanks 4, clean sheets 2
+Listed away: 9 games, scored 10 (1.11), conceded 14 (1.56), blanks 1, clean sheets 1
+All: 20 games, scored 23 (1.15), conceded 29 (1.45), blanks 5, clean sheets 3
+
+=== Ucam Murcia (id 800): last 20 finished games ===
+2026-11-08 A 0-0 v Orihuela | Segunda División RFEF - Group 3 | ?
+2026-11-01 H 5-1 v Mallorca II | Segunda División RFEF - Group 3 | Murcia
+2026-10-25 H 2-4 v Cieza | Segunda División RFEF - Group 3 | Murcia
+2026-10-19 A 1-0 v Peña Deportiva | Segunda División RFEF - Group 3 | ?
+2026-10-11 H 2-0 v Alcoyano | Segunda División RFEF - Group 3 | Murcia
+2026-10-03 A 5-1 v Elche II | Segunda División RFEF - Group 3 | ?
+2026-09-27 H 1-2 v Intercity | Segunda División RFEF - Group 3 | Murcia
+2026-09-20 A 4-1 v Atlético Baleares | Segunda División RFEF - Group 3 | Palma
+2026-09-13 H 1-0 v Valencia II | Segunda División RFEF - Group 3 | Murcia
+2026-09-05 A 1-2 v Castellonense | Segunda División RFEF - Group 3 | ?
+2026-05-03 A 0-1 v Xerez | Segunda División RFEF - Group 4 | Jerez
+2026-04-26 H 1-2 v Real Jaén | Segunda División RFEF - Group 4 | Murcia
+2026-04-19 A 1-4 v La Unión Atlético | Segunda División RFEF - Group 4 | Totana
+2026-04-12 H 4-0 v Málaga II | Segunda División RFEF - Group 4 | Murcia
+2026-04-05 A 0-2 v Deportiva Minera | Segunda División RFEF - Group 4 | El Llano del Beal
+2026-03-28 H 2-0 v Recreativo Huelva | Segunda División RFEF - Group 4 | Murcia
+2026-03-22 A 2-1 v Águilas | Segunda División RFEF - Group 4 | Águilas
+2026-03-15 H 1-1 v Linares Deportivo | Segunda División RFEF - Group 4 | Murcia
+2026-03-08 A 1-1 v Yeclano | Segunda División RFEF - Group 4 | Yecla
+2026-03-01 H 3-2 v Melilla | Segunda División RFEF - Group 4 | Murcia
+Listed home: 10 games, scored 22 (2.20), conceded 12 (1.20), blanks 0, clean sheets 4
+Listed away: 10 games, scored 15 (1.50), conceded 13 (1.30), blanks 3, clean sheets 2
+All: 20 games, scored 37 (1.85), conceded 25 (1.25), blanks 3, clean sheets 6
+
+TABLE FOR Real Murcia II
+LEAGUE TABLE Segunda División RFEF - Group 3 2026 | 18 teams | 93 games played
+League averages per game: home 1.45, away 1.23, total 2.68
+#   team                   Pts | home P GF-GA  | away P GF-GA  | all P GF-GA
+1   Deportiva Minera        23 |  6  12-4       |  5   3-5       | 11  15-9
+2   Castellón II            21 |  6  11-5       |  4  12-5       | 10  23-10
+3   Ucam Murcia             19 |  5  11-7       |  5  11-4       | 10  22-11
+4   Cieza                   18 |  6   8-4       |  5   9-5       | 11  17-9
+5   Castellonense           17 |  5  11-7       |  5   7-6       | 10  18-13
+6   Lorca Deportiva         16 |  6   8-4       |  5   7-8       | 11  15-12
+7   Atlético Baleares       16 |  5   8-9       |  6  10-8       | 11  18-17
+8   La Nucía                16 |  5  10-8       |  5   6-7       | 10  16-15
+9   Alcoyano                14 |  5   7-4       |  5   5-10      | 10  12-14
+10  Intercity               13 |  4   5-7       |  5   9-6       |  9  14-13
+11  Orihuela                13 |  5   3-9       |  5   7-6       | 10  10-15
+12  Poblense                13 |  5   6-3       |  6   3-11      | 11   9-14
+13  Mallorca II             12 |  5   6-4       |  6   6-12      | 11  12-16
+14  Yeclano                 11 |  5   4-3       |  5   4-7       | 10   8-10
+15  Elche II                11 |  5   8-13      |  6   5-10      | 11  13-23
+16  Peña Deportiva           8 |  5   5-8       |  6   4-7       | 11   9-15
+17  Real Murcia II           8 |  5   5-8       |  4   4-9       |  9   9-17
+18  Valencia II              7 |  5   7-7       |  5   2-9       | 10   9-16
+
+(Ucam Murcia: same table as Real Murcia II, shown above)
+
+(25 API-Football requests used)
+
+----------------------------------------------------------------------
+MATCHBOOK: skipped (switched off for this run)
