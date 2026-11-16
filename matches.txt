@@ -1,4 +1,2 @@
-# cloud analysis 16.11 17:45 snapshot 17:27 (scan 4 of 4)
-Algeria U23 v Eswatini U23 | n=20 | xg=10
-Norwich U21 v Exeter U21 | n=20 | xg=10
-Guyana v Puerto Rico | n=20 | xg=10
+# cloud analysis 16.11 17:45 snapshot 17:27 (scan 4 of 4), Norwich name retry
+Norwich City U21 v Exeter U21 | n=20 | xg=10
