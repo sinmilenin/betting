@@ -1,2 +1,2 @@
-# cloud analysis 16.11 16:15 snapshot 15:56 (scan 2 of 4)
-VfB Stuttgart W v Bayer Leverkusen W | n=20 | xg=10
+# cloud analysis 16.11 16:17 snapshot 15:56 (scan 2 of 4), retry name
+Stuttgart W v Bayer Leverkusen W | n=20 | xg=10
