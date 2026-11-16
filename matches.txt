@@ -1,2 +1,2 @@
-# cloud analysis 16.11 09:19 snapshot (scan 3 of 4, top-20), run 3 - Celta reserve name from the league table
-Albacete v Celta de Vigo II | n=20 | xg=10
+# cloud analysis 16.11 09:19 snapshot (scan 3 of 4, top-20), run 4 - Orbit "Cesar Vallejo Moquegua" is UCV Moquegua (Primera table), not the Trujillo Segunda side
+UCV Moquegua v Atletico Grau | n=20 | xg=10
