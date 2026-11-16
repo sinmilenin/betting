@@ -1,2 +1,5 @@
-# cloud analysis 16.11 19:55 snapshot 19:41 (scan 3 of 4)
-Aragua v Deportivo Lara | n=20 | xg=10
+# cloud analysis 16.11 21:10 snapshot 20:57 (scan 2 of 4)
+Wanderers v Juventud De Las Piedras | n=20 | xg=10
+Trinidad and Tobago v Antigua and Barbuda | n=20 | xg=10
+Canada v Guatemala | n=20 | xg=10
+New Mexico United v Sacramento Republic | n=20 | xg=10
