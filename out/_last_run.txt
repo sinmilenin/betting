@@ -1,3 +1,6 @@
-RUN 2026-11-16 17:24 local | 1 match(es)
-Perugia v Torres -> out/Perugia_v_Torres.txt
-Requests used: API-Football 25, Matchbook 0
+RUN 2026-11-16 18:10 local | 2 match(es)
+Cusco FC v Deportivo Tarma -> out/Cusco_FC_v_Deportivo_Tarma.txt
+    !! Cusco FC: No team found for "Cusco FC".
+    !! Deportivo Tarma: No team found for "Deportivo Tarma".
+Santiago Morning v Rengo -> out/Santiago_Morning_v_Rengo.txt
+Requests used: API-Football 27, Matchbook 0

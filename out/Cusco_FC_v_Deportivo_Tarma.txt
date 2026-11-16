@@ -1,0 +1,13 @@
+MATCH Cusco FC v Deportivo Tarma | fetched 2026-11-16 18:10 local
+
+FORM DATA Cusco FC v Deportivo Tarma | source API-Football | 2026-11-16 18:10 UTC
+H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
+
+!! Cusco FC: No team found for "Cusco FC".
+
+!! Deportivo Tarma: No team found for "Deportivo Tarma".
+
+(2 API-Football requests used)
+
+----------------------------------------------------------------------
+MATCHBOOK: skipped (switched off for this run)

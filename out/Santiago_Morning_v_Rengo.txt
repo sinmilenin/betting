@@ -1,0 +1,80 @@
+MATCH Santiago Morning v Rengo | fetched 2026-11-16 18:10 local
+
+FORM DATA Santiago Morning v Rengo | source API-Football | 2026-11-16 18:10 UTC
+H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
+
+=== Santiago Morning (id 2335): last 20 finished games ===
+2026-11-08 A 1-2 v Provincial Ovalle | Segunda División | ?
+2026-10-31 H 1-4 v Lota Schwager | Segunda División | Santiago de Chile
+2026-10-24 A 1-1 v Colina | Segunda División | ?
+2026-10-11 H 1-2 v Real San Joaquín | Segunda División | Santiago de Chile
+2026-09-12 H 0-0 v General Velásquez | Segunda División | Santiago de Chile
+2026-09-06 A 2-2 v Deportes Rengo | Segunda División | Rengo
+2026-08-30 H 0-0 v Provincial Ovalle | Segunda División | Santiago de Chile
+2026-08-22 A 1-1 v Lota Schwager | Segunda División | ?
+2026-08-17 H 2-1 v Colina | Segunda División | Santiago de Chile
+2026-08-10 A 2-2 v Real San Joaquín | Segunda División | Santiago de Chile
+2026-07-04 A 1-3 v Deportes Rengo | Segunda División | Rengo
+2026-06-28 H 0-1 v Linares Unido | Segunda División | Santiago de Chile
+2026-06-21 A 1-1 v Lota Schwager | Segunda División | ?
+2026-06-07 H 0-1 v General Velásquez | Segunda División | Santiago de Chile
+2026-05-30 H 0-0 v Provincial Osorno | Segunda División | Santiago de Chile
+2026-05-24 A 1-1 v Colchagua | Segunda División | ?
+2026-05-03 H 1-0 v Deportes Rengo | Segunda División | Santiago de Chile
+2026-04-26 A 3-1 v Linares Unido | Segunda División | Linares
+2026-04-19 H 1-1 v Lota Schwager | Segunda División | Santiago de Chile
+2026-04-12 A 1-3 v General Velásquez | Segunda División | San Vicente de Tagua Tagua
+Listed home: 10 games, scored 6 (0.60), conceded 10 (1.00), blanks 5, clean sheets 4
+Listed away: 10 games, scored 14 (1.40), conceded 17 (1.70), blanks 0, clean sheets 0
+All: 20 games, scored 20 (1.00), conceded 27 (1.35), blanks 5, clean sheets 4
+
+=== Deportes Rengo (id 5636): last 20 finished games ===
+2026-11-07 H 3-3 v Real San Joaquín | Segunda División | Rengo
+2026-10-31 A 0-1 v General Velásquez | Segunda División | San Vicente de Tagua Tagua
+2026-10-24 A 1-5 v Lota Schwager | Segunda División | ?
+2026-10-11 H 2-1 v Colina | Segunda División | Rengo
+2026-10-03 A 5-1 v Provincial Ovalle | Segunda División | ?
+2026-09-06 H 2-2 v Santiago Morning | Segunda División | Rengo
+2026-08-31 A 5-2 v Real San Joaquín | Segunda División | Santiago de Chile
+2026-08-22 H 1-1 v General Velásquez | Segunda División | Rengo
+2026-08-16 H 1-0 v Lota Schwager | Segunda División | Rengo
+2026-08-08 A 1-0 v Colina | Segunda División | ?
+2026-07-12 A 0-2 v General Velásquez | Segunda División | San Vicente de Tagua Tagua
+2026-07-04 H 3-1 v Santiago Morning | Segunda División | Rengo
+2026-06-27 H 0-1 v Colchagua | Segunda División | Rengo
+2026-06-20 A 1-3 v Linares Unido | Segunda División | Linares
+2026-06-06 H 1-1 v Lota Schwager | Segunda División | Rengo
+2026-05-23 A 0-0 v Provincial Osorno | Segunda División | Osorno
+2026-05-16 A 1-0 v Lota Schwager | Segunda División | ?
+2026-05-09 H 3-1 v General Velásquez | Segunda División | Rengo
+2026-05-03 A 0-1 v Santiago Morning | Segunda División | Santiago de Chile
+2026-04-26 A 1-2 v Colchagua | Segunda División | ?
+Listed home: 9 games, scored 16 (1.78), conceded 11 (1.22), blanks 1, clean sheets 1
+Listed away: 11 games, scored 15 (1.36), conceded 17 (1.55), blanks 4, clean sheets 3
+All: 20 games, scored 31 (1.55), conceded 28 (1.40), blanks 5, clean sheets 4
+
+TABLE FOR Santiago Morning
+LEAGUE TABLE Segunda División 2026 | 14 teams | 84 games played
+League averages per game: home 1.21, away 1.08, total 2.30
+#   team                   Pts | home P GF-GA  | away P GF-GA  | all P GF-GA
+1   Provincial Osorno       24 |  6   8-3       |  6   7-2       | 12  15-5
+2   Municipal Salamanca     22 |  6   4-1       |  6   7-4       | 12  11-5
+3   Colchagua               22 |  6   9-4       |  6   6-7       | 12  15-11
+4   Concón National         21 |  6   8-7       |  6   8-3       | 12  16-10
+5   Santiago City           20 |  6  10-7       |  6   8-12      | 12  18-19
+6   Linares Unido           19 |  6   9-8       |  6   7-4       | 12  16-12
+7   Trasandino              18 |  6  12-9       |  6   7-8       | 12  19-17
+8   General Velásquez       16 |  6   7-4       |  6   4-11      | 12  11-15
+9   Real San Joaquín        13 |  6   5-8       |  6  11-9       | 12  16-17
+10  Lota Schwager           13 |  6   5-8       |  6   6-5       | 12  11-13
+11  Colina                  12 |  6  11-8       |  6   4-6       | 12  15-14
+12  Deportes Rengo          11 |  6   7-9       |  6   3-8       | 12  10-17
+13  Santiago Morning        10 |  6   2-4       |  6   7-10      | 12   9-14
+14  Provincial Ovalle        6 |  6   5-11      |  6   6-13      | 12  11-24
+
+(Deportes Rengo: same table as Santiago Morning, shown above)
+
+(25 API-Football requests used)
+
+----------------------------------------------------------------------
+MATCHBOOK: skipped (switched off for this run)
