@@ -1,3 +1,6 @@
-RUN 2026-11-16 15:13 local | 1 match(es)
-Stuttgart W v Bayer Leverkusen W -> out/Stuttgart_W_v_Bayer_Leverkusen_W.txt
-Requests used: API-Football 25, Matchbook 0
+RUN 2026-11-16 16:39 local | 3 match(es)
+Algeria U23 v Eswatini U23 -> out/Algeria_U23_v_Eswatini_U23.txt
+Norwich U21 v Exeter U21 -> out/Norwich_U21_v_Exeter_U21.txt
+    !! Norwich U21: No team found for "Norwich U21".
+Guyana v Puerto Rico -> out/Guyana_v_Puerto_Rico.txt
+Requests used: API-Football 70, Matchbook 0
