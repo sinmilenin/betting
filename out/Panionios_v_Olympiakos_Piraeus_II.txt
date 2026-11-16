@@ -1,6 +1,6 @@
-MATCH Panionios v Olympiacos B | fetched 2026-11-16 12:13 local
+MATCH Panionios v Olympiakos Piraeus II | fetched 2026-11-16 12:14 local
 
-FORM DATA Panionios v Olympiacos B | source API-Football | 2026-11-16 12:13 UTC
+FORM DATA Panionios v Olympiakos Piraeus II | source API-Football | 2026-11-16 12:14 UTC
 H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
 
 === Panionios (id 622): last 20 finished games ===
@@ -28,7 +28,30 @@ Listed home: 11 games, scored 21 (1.91), conceded 5 (0.45), blanks 3, clean shee
 Listed away: 9 games, scored 13 (1.44), conceded 9 (1.00), blanks 4, clean sheets 4
 All: 20 games, scored 34 (1.70), conceded 14 (0.70), blanks 7, clean sheets 13
 
-!! Olympiacos B: No team found for "Olympiacos B".
+=== Olympiakos Piraeus II (id 18017): last 20 finished games ===
+2026-11-08 H 2-4 v Ellas Syros | Super League 2 | ?
+2026-11-01 A 1-2 v Larisa | Super League 2 | Larissa
+2026-10-24 H 1-2 v Nestos Chrisoupolis | Super League 2 | ?
+2026-10-18 A 2-2 v Panthrakikos | Super League 2 | ?
+2026-10-14 H 0-1 v Kallithea | Super League 2 | ?
+2026-10-11 H 1-1 v Asteras Tripolis II | Super League 2 | ?
+2026-09-27 A 1-4 v Panserraikos | Super League 2 | Serres
+2026-09-20 H 2-4 v Marko | Super League 2 | ?
+2026-09-13 A 2-1 v Niki Volos | Super League 2 | ?
+2026-09-09 A 1-1 v PAOK II | Super League 2 | ?
+2026-08-10 A 0-3 v Panionios | Friendlies Clubs | ?
+2026-03-21 A 0-3 v Panionios | Super League 2 | ?
+2026-03-15 A 0-1 v Kalamata | Super League 2 | Kalamata
+2026-03-07 H 0-3 v Marko | Super League 2 | ?
+2026-03-01 H 2-1 v Panionios | Super League 2 | ?
+2026-02-21 H 0-3 v Kalamata | Super League 2 | ?
+2026-02-15 A 1-1 v Marko | Super League 2 | ?
+2026-01-25 H 2-1 v Egaleo | Super League 2 | ?
+2026-01-18 A 0-1 v Ilioupoli | Super League 2 | ?
+2026-01-11 H 1-0 v Marko | Super League 2 | ?
+Listed home: 10 games, scored 11 (1.10), conceded 20 (2.00), blanks 3, clean sheets 1
+Listed away: 10 games, scored 8 (0.80), conceded 19 (1.90), blanks 4, clean sheets 0
+All: 20 games, scored 19 (0.95), conceded 39 (1.95), blanks 7, clean sheets 1
 
 TABLE FOR Panionios
 LEAGUE TABLE Super League 2 2026 | 16 teams | 85 games played
@@ -51,7 +74,9 @@ League averages per game: home 1.35, away 0.96, total 2.32
 15  Olympiakos Piraeus II    6 |  5   6-12      |  5   7-10      | 10  13-22
 16  Zakynthos                4 |  4   4-10      |  6   3-8       | 10   7-18
 
-(14 API-Football requests used)
+(Olympiakos Piraeus II: same table as Panionios, shown above)
+
+(25 API-Football requests used)
 
 ----------------------------------------------------------------------
 MATCHBOOK: skipped (switched off for this run)

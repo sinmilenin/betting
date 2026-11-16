@@ -1,4 +1,3 @@
-RUN 2026-11-16 12:13 local | 1 match(es)
-Panionios v Olympiacos B -> out/Panionios_v_Olympiacos_B.txt
-    !! Olympiacos B: No team found for "Olympiacos B".
-Requests used: API-Football 14, Matchbook 0
+RUN 2026-11-16 12:14 local | 1 match(es)
+Panionios v Olympiakos Piraeus II -> out/Panionios_v_Olympiakos_Piraeus_II.txt
+Requests used: API-Football 25, Matchbook 0
