@@ -7,11 +7,11 @@
   "cell": "2-2"
  },
  {
-  "id": "2026-11-16_albacete-celta-vigo-b_3-0",
+  "id": "2026-11-16_cesar-vallejo-moquegua-atletico-grau_1-0",
   "date": "2026-11-16",
-  "ko": "20:30",
-  "match": "Albacete v Celta Vigo B",
-  "cell": "3-0"
+  "ko": "21:15",
+  "match": "Cesar Vallejo Moquegua v Atletico Grau",
+  "cell": "1-0"
  },
  {
   "id": "2026-11-16_fk-ucsa-tarasivka-zhytomyr-2_0-1",
@@ -21,38 +21,52 @@
   "cell": "0-1"
  },
  {
-  "id": "2026-11-16_guadeloupe-bermuda_1-0",
+  "id": "2026-11-16_germany-netherlands_aohw",
   "date": "2026-11-16",
-  "ko": "20:00",
-  "match": "Guadeloupe v Bermuda",
-  "cell": "1-0"
+  "ko": "20:45",
+  "match": "Germany v Netherlands",
+  "cell": "AOHW"
  },
  {
-  "id": "2026-11-16_guyana-puerto-rico_0-1",
+  "id": "2026-11-16_gibraltar-malta_0-1",
   "date": "2026-11-16",
-  "ko": "20:00",
-  "match": "Guyana v Puerto Rico",
+  "ko": "20:45",
+  "match": "Gibraltar v Malta",
   "cell": "0-1"
  },
  {
-  "id": "2026-11-16_guyana-puerto-rico_1-0",
+  "id": "2026-11-16_gibraltar-malta_0-2",
   "date": "2026-11-16",
-  "ko": "20:00",
-  "match": "Guyana v Puerto Rico",
+  "ko": "20:45",
+  "match": "Gibraltar v Malta",
+  "cell": "0-2"
+ },
+ {
+  "id": "2026-11-16_gibraltar-malta_0-3",
+  "date": "2026-11-16",
+  "ko": "20:45",
+  "match": "Gibraltar v Malta",
+  "cell": "0-3"
+ },
+ {
+  "id": "2026-11-16_perugia-sassari-torres_2-2",
+  "date": "2026-11-16",
+  "ko": "20:45",
+  "match": "Perugia v Sassari Torres",
+  "cell": "2-2"
+ },
+ {
+  "id": "2026-11-16_santiago-morning-deportes-rengo-unido_1-0",
+  "date": "2026-11-16",
+  "ko": "21:30",
+  "match": "Santiago Morning v Deportes Rengo Unido",
   "cell": "1-0"
  },
  {
-  "id": "2026-11-16_guyana-puerto-rico_2-1",
+  "id": "2026-11-16_santiago-morning-deportes-rengo-unido_2-1",
   "date": "2026-11-16",
-  "ko": "20:00",
-  "match": "Guyana v Puerto Rico",
+  "ko": "21:30",
+  "match": "Santiago Morning v Deportes Rengo Unido",
   "cell": "2-1"
- },
- {
-  "id": "2026-11-16_norwich-u21-exeter-city-u21_3-0",
-  "date": "2026-11-16",
-  "ko": "20:00",
-  "match": "Norwich U21 v Exeter City U21",
-  "cell": "3-0"
  }
 ]
