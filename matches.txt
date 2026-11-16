@@ -1,4 +1,2 @@
-# cloud analysis 16.11 15:27 snapshot 15:18 (scan 1 of 4)
-Greece U21 v Iceland U21 | n=20 | xg=10
-Eritrea v Guinea | n=20 | xg=10
-NK Celje U19 v Rudar Velenje U19 | n=20 | xg=10
+# cloud analysis 16.11 15:35 snapshot 15:18 (scan 1 of 4), retry name
+Celje U19 v Rudar U19 | n=20 | xg=10
