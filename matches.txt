@@ -1,3 +1,2 @@
-# cloud analysis 16.11 19:15 snapshot 18:56 (scan 2 of 4)
-Cusco FC v Deportivo Tarma | n=20 | xg=10
-Santiago Morning v Rengo | n=20 | xg=10
+# cloud analysis 16.11 19:18 snapshot 18:56 (scan 2 of 4): retry Cusco/Tarma names
+Cusco v ADT | n=20 | xg=10
