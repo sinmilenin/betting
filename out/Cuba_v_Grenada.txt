@@ -1,0 +1,63 @@
+MATCH Cuba v Grenada | fetched 2026-11-16 08:26 local
+
+FORM DATA Cuba v Grenada | source API-Football | 2026-11-16 08:27 UTC
+H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
+
+=== Cuba (id 2388): last 20 finished games ===
+2026-11-12 A 7-1 v Bonaire | CONCACAF Nations League | Havana | xG 5.35-0.61
+2026-10-05 H 2-2 v St. Kitts and Nevis | CONCACAF Nations League | Port of Spain | xG 2.33-2.43
+2026-10-02 A 3-3 v St. Kitts and Nevis | CONCACAF Nations League | Port of Spain | xG 1.67-1.45
+2026-09-28 H 2-0 v Bonaire | CONCACAF Nations League | Basseterre
+2026-09-25 A 3-0 v Grenada | CONCACAF Nations League | Basseterre
+2026-03-29 A 1-1 v Dominican Republic | CONCACAF Series | Santiago
+2026-03-26 A 2-2 v Martinique | CONCACAF Series | Santiago
+2025-11-16 A 2-0 v Martinique | CONCACAF Series | Santiago
+2025-11-12 H 3-0 v St. Lucia | CONCACAF Series | Santiago
+2025-10-11 A 0-2 v Grenada | Friendlies | ?
+2025-10-09 A 0-1 v St. Vincent / Grenadines | Friendlies | ?
+2025-10-05 A 0-7 v St. Vincent / Grenadines | Friendlies | ?
+2025-06-10 H 1-2 v Bermuda | World Cup - Qualification CONCACAF | Santiago de Cuba
+2025-06-06 A 1-0 v Antigua and Barbuda | World Cup - Qualification CONCACAF | Piggotts
+2025-03-25 A 0-4 v Trinidad and Tobago | CONCACAF Gold Cup - Qualification | Couva, San Fernando
+2025-03-21 H 1-2 v Trinidad and Tobago | CONCACAF Gold Cup - Qualification | Santiago de Cuba
+2024-11-18 H 4-0 v St. Kitts and Nevis | CONCACAF Nations League | Santiago de Cuba
+2024-11-14 A 1-2 v St. Kitts and Nevis | CONCACAF Nations League | Basseterre
+2024-10-15 A 1-3 v Trinidad and Tobago | CONCACAF Nations League | Bacolet, Tobago
+2024-10-10 H 2-2 v Trinidad and Tobago | CONCACAF Nations League | Santiago de Cuba
+Listed home: 7 games, scored 15 (2.14), conceded 8 (1.14), blanks 0, clean sheets 3
+Listed away: 13 games, scored 21 (1.62), conceded 26 (2.00), blanks 4, clean sheets 3
+All: 20 games, scored 36 (1.80), conceded 34 (1.70), blanks 4, clean sheets 6
+
+=== Grenada (id 5533): last 20 finished games ===
+2026-11-13 H 3-2 v St. Kitts and Nevis | CONCACAF Nations League | Havana | xG 1.06-2.14
+2026-10-06 H 1-4 v Bonaire | CONCACAF Nations League | Port of Spain
+2026-10-03 A 3-2 v Bonaire | CONCACAF Nations League | Port of Spain | xG 0.89-1.27
+2026-09-29 A 0-3 v St. Kitts and Nevis | CONCACAF Nations League | Basseterre
+2026-09-25 H 0-3 v Cuba | CONCACAF Nations League | Basseterre
+2026-05-16 A 0-5 v Rep. Of Ireland | Friendlies | Murcia
+2026-03-30 H 0-3 v Kenya | FIFA Series | Kigali
+2026-03-27 A 0-4 v Rwanda | FIFA Series | Kigali
+2026-01-18 H 0-1 v Jamaica | Friendlies | ?
+2025-11-15 H 4-1 v US Virgin Islands | Friendlies | ?
+2025-10-11 H 2-0 v Cuba | Friendlies | ?
+2025-10-08 H 4-1 v British Virgin Islands | Friendlies | ?
+2025-06-10 A 3-2 v St. Kitts and Nevis | World Cup - Qualification CONCACAF | Basseterre
+2025-06-04 H 6-0 v Bahamas | World Cup - Qualification CONCACAF | St. George's
+2025-05-31 H 2-0 v Anguilla | Friendlies | St. George's
+2025-03-19 A 0-5 v Russia | Friendlies | Moscow
+2025-03-09 A 1-1 v St. Vincent / Grenadines | Friendlies | Kingstown
+2025-03-06 A 1-1 v St. Vincent / Grenadines | Friendlies | Kingstown
+2024-11-18 H 0-3 v Saint Martin | CONCACAF Nations League | Willemstad
+2024-11-15 A 4-0 v St. Lucia | CONCACAF Nations League | Willemstad
+Listed home: 11 games, scored 22 (2.00), conceded 18 (1.64), blanks 4, clean sheets 3
+Listed away: 9 games, scored 12 (1.33), conceded 23 (2.56), blanks 4, clean sheets 1
+All: 20 games, scored 34 (1.70), conceded 41 (2.05), blanks 8, clean sheets 4
+
+(no league table available for Cuba: tried CONCACAF Nations League 2025, CONCACAF Series 2026)
+
+(no league table available for Grenada: tried CONCACAF Nations League 2025, FIFA Series 2026)
+
+(27 API-Football requests used)
+
+----------------------------------------------------------------------
+MATCHBOOK: skipped (switched off for this run)

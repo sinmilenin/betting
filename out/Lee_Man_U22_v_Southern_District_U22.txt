@@ -1,0 +1,13 @@
+MATCH Lee Man U22 v Southern District U22 | fetched 2026-11-16 08:26 local
+
+FORM DATA Lee Man U22 v Southern District U22 | source API-Football | 2026-11-16 08:26 UTC
+H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
+
+!! Lee Man U22: No team found for "Lee Man U22".
+
+!! Southern District U22: No team found for "Southern District U22".
+
+(2 API-Football requests used)
+
+----------------------------------------------------------------------
+MATCHBOOK: skipped (switched off for this run)

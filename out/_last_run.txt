@@ -1,8 +1,28 @@
-RUN 2026-11-15 20:31 local | 5 match(es)
-Deportes Santa Cruz v Rangers de Talca -> out/Deportes_Santa_Cruz_v_Rangers_de_Talca.txt
-id:2345 v San Luis -> out/id_2345_v_San_Luis.txt
-Cobreloa v D. Puerto Montt -> out/Cobreloa_v_D_Puerto_Montt.txt
-    !! D. Puerto Montt: API-Football error: {"search": "The Search field may only contain alpha-numeric characters and spaces."}
-Panama v id:5530 -> out/Panama_v_id_5530.txt
-Ferro Carril Oeste v Gimnasia Y Tiro -> out/Ferro_Carril_Oeste_v_Gimnasia_Y_Tiro.txt
-Requests used: API-Football 114, Matchbook 0
+RUN 2026-11-16 08:26 local | 21 match(es)
+Lee Man U22 v Southern District U22 -> out/Lee_Man_U22_v_Southern_District_U22.txt
+    !! Lee Man U22: No team found for "Lee Man U22".
+    !! Southern District U22: No team found for "Southern District U22".
+Sudan v Senegal -> out/Sudan_v_Senegal.txt
+Namibia v Cameroon -> out/Namibia_v_Cameroon.txt
+Faroe Islands v Moldova -> out/Faroe_Islands_v_Moldova.txt
+Kazakhstan v Slovakia -> out/Kazakhstan_v_Slovakia.txt
+Somalia v Ghana -> out/Somalia_v_Ghana.txt
+Central African Republic v Benin -> out/Central_African_Republic_v_Benin.txt
+    !! Central African Republic: Ambiguous team name "Central African Republic".
+Iceland v Luxembourg -> out/Iceland_v_Luxembourg.txt
+Estonia v Bulgaria -> out/Estonia_v_Bulgaria.txt
+Lithuania v Liechtenstein -> out/Lithuania_v_Liechtenstein.txt
+UTC Cajamarca v Los Chankas -> out/UTC_Cajamarca_v_Los_Chankas.txt
+Leones de Rosario v Sportivo Barracas -> out/Leones_de_Rosario_v_Sportivo_Barracas.txt
+Andorra v Azerbaijan -> out/Andorra_v_Azerbaijan.txt
+Cuba v Grenada -> out/Cuba_v_Grenada.txt
+Albacete v Celta Vigo B -> out/Albacete_v_Celta_Vigo_B.txt
+    !! Celta Vigo B: No team found for "Celta Vigo B".
+North Macedonia v Slovenia -> out/North_Macedonia_v_Slovenia.txt
+    !! North Macedonia: Ambiguous team name "North Macedonia".
+Gibraltar v Malta -> out/Gibraltar_v_Malta.txt
+Greece v Serbia -> out/Greece_v_Serbia.txt
+Switzerland v Scotland -> out/Switzerland_v_Scotland.txt
+Germany v Netherlands -> out/Germany_v_Netherlands.txt
+Cesar Vallejo v Atletico Grau -> out/Cesar_Vallejo_v_Atletico_Grau.txt
+Requests used: API-Football 462, Matchbook 0
