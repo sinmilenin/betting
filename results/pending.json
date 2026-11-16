@@ -1,23 +1,79 @@
 [
  {
-  "id": "2026-11-15_universidad-guadalajara-club-atletico-morelia_2-2",
   "date": "2026-11-15",
   "ko": "19:00",
   "match": "Universidad Guadalajara v Club Atletico Morelia",
-  "cell": "2-2"
+  "cell": "2-2",
+  "id": "2026-11-15_universidad-guadalajara-club-atletico-morelia_2-2"
  },
  {
-  "id": "2026-11-16_central-african-republic-benin_0-1",
   "date": "2026-11-16",
-  "ko": "17:00",
-  "match": "Central African Republic v Benin",
-  "cell": "0-1"
+  "ko": "18:00",
+  "match": "Eritrea v Guinea",
+  "cell": "0-1",
+  "id": "2026-11-16_eritrea-guinea_0-1"
  },
  {
-  "id": "2026-11-16_fk-ucsa-tarasivka-zhytomyr-2_0-1",
+  "date": "2026-11-16",
+  "ko": "18:00",
+  "match": "Eritrea v Guinea",
+  "cell": "1-2",
+  "id": "2026-11-16_eritrea-guinea_1-2"
+ },
+ {
   "date": "2026-11-16",
   "ko": "11:00",
   "match": "FK UCSA Tarasivka v Zhytomyr 2",
-  "cell": "0-1"
+  "cell": "0-1",
+  "id": "2026-11-16_fk-ucsa-tarasivka-zhytomyr-2_0-1"
+ },
+ {
+  "date": "2026-11-16",
+  "ko": "18:00",
+  "match": "Greece U21 v Iceland U21",
+  "cell": "0-1",
+  "id": "2026-11-16_greece-u21-iceland-u21_0-1"
+ },
+ {
+  "date": "2026-11-16",
+  "ko": "18:00",
+  "match": "Greece U21 v Iceland U21",
+  "cell": "1-0",
+  "id": "2026-11-16_greece-u21-iceland-u21_1-0"
+ },
+ {
+  "date": "2026-11-16",
+  "ko": "18:00",
+  "match": "Greece U21 v Iceland U21",
+  "cell": "2-2",
+  "id": "2026-11-16_greece-u21-iceland-u21_2-2"
+ },
+ {
+  "date": "2026-11-16",
+  "ko": "18:00",
+  "match": "Iceland v Luxembourg",
+  "cell": "2-0",
+  "id": "2026-11-16_iceland-luxembourg_2-0"
+ },
+ {
+  "date": "2026-11-16",
+  "ko": "18:00",
+  "match": "Iceland v Luxembourg",
+  "cell": "3-0",
+  "id": "2026-11-16_iceland-luxembourg_3-0"
+ },
+ {
+  "date": "2026-11-16",
+  "ko": "18:00",
+  "match": "Lithuania v Liechtenstein",
+  "cell": "3-0",
+  "id": "2026-11-16_lithuania-liechtenstein_3-0"
+ },
+ {
+  "date": "2026-11-16",
+  "ko": "18:00",
+  "match": "VfB Stuttgart (W) v Leverkusen (W)",
+  "cell": "0-1",
+  "id": "2026-11-16_vfb-stuttgart-w-leverkusen-w_0-1"
  }
 ]
