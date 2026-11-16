@@ -1,0 +1,105 @@
+MATCH Eritrea v Guinea | fetched 2026-11-16 14:26 local
+
+FORM DATA Eritrea v Guinea | source API-Football | 2026-11-16 14:26 UTC
+H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
+
+=== Eritrea (id 1498): last 11 finished games ===
+2026-11-12 A 1-2 v Guinea | Africa Cup of Nations - Qualification | Conakry | xG 0.21-0.15
+2026-09-30 H 0-5 v South Africa | Africa Cup of Nations - Qualification | Cairo
+2026-09-26 A 1-1 v Kenya | Africa Cup of Nations - Qualification | Nairobi
+2026-03-31 A 2-1 v Eswatini | Africa Cup of Nations - Qualification | Lobamba
+2026-03-25 H 2-0 v Eswatini | Africa Cup of Nations - Qualification | Meknes
+2025-05-28 H 0-1 v Niger | Friendlies | Asmara
+2020-01-25 H 0-1 v Sudan | Friendlies | Asmara
+2019-12-19 A 0-3 v Uganda | CECAFA Senior Challenge Cup | Kampala
+2019-12-17 A 4-1 v Kenya | CECAFA Senior Challenge Cup | Kampala
+2019-12-15 A 0-0 v Somalia | CECAFA Senior Challenge Cup | Kampala
+2019-12-13 A 3-0 v Djibouti | CECAFA Senior Challenge Cup | Kampala
+Listed home: 4 games, scored 2 (0.50), conceded 7 (1.75), blanks 3, clean sheets 1
+Listed away: 7 games, scored 11 (1.57), conceded 8 (1.14), blanks 2, clean sheets 2
+All: 11 games, scored 13 (1.18), conceded 15 (1.36), blanks 5, clean sheets 3
+
+=== Guinea (id 1509): last 20 finished games ===
+2026-11-12 H 2-1 v Eritrea | Africa Cup of Nations - Qualification | Conakry | xG 0.15-0.21
+2026-10-01 H 1-0 v Kenya | Africa Cup of Nations - Qualification | Conakry
+2026-09-26 A 1-2 v South Africa | Africa Cup of Nations - Qualification | Johannesburg
+2026-06-04 A 0-1 v Northern Ireland | Friendlies | Cadiz
+2026-03-31 H 0-1 v Benin | Friendlies | Casablanca
+2026-03-27 H 2-2 v Togo | Friendlies | Rabat
+2025-11-18 H 1-1 v Niger | Friendlies | ?
+2025-11-15 H 2-0 v Liberia | Friendlies | ?
+2025-10-14 H 2-2 v Botswana | World Cup - Qualification Africa | Casablanca
+2025-10-09 A 2-1 v Mozambique | World Cup - Qualification Africa | Maputo
+2025-09-08 H 0-0 v Algeria | World Cup - Qualification Africa | Casablanca
+2025-09-05 A 3-0 v Somalia | World Cup - Qualification Africa | Kampala
+2025-08-15 H 1-1 v Algeria | African Nations Championship | Kampala
+2025-08-11 A 1-2 v South Africa | African Nations Championship | Kampala
+2025-08-08 H 0-3 v Uganda | African Nations Championship | Kampala
+2025-08-04 A 1-0 v Niger | African Nations Championship | Kampala
+2025-07-27 H 1-1 v Central African Republic | Friendlies | Douala
+2025-07-04 A 0-0 v Senegal | Friendlies | Diamniadio
+2025-03-25 A 0-1 v Uganda | World Cup - Qualification Africa | Kampala
+2025-03-21 H 0-0 v Somalia | World Cup - Qualification Africa | Abidjan
+Listed home: 12 games, scored 12 (1.00), conceded 12 (1.00), blanks 4, clean sheets 4
+Listed away: 8 games, scored 8 (1.00), conceded 7 (0.88), blanks 3, clean sheets 3
+All: 20 games, scored 20 (1.00), conceded 19 (0.95), blanks 7, clean sheets 7
+
+TABLE FOR Eritrea
+LEAGUE TABLE Africa Cup of Nations - Qualification 2027 | 48 teams | 72 games played
+League averages per game: home 1.69, away 1.03, total 2.72
+#   team                   Pts | home P GF-GA  | away P GF-GA  | all P GF-GA
+1   Morocco                  9 |  2   7-1       |  1   2-0       |  3   9-1 [Group A]
+2   Gabon                    6 |  2   4-0       |  1   0-2       |  3   4-2 [Group A]
+3   Niger                    3 |  1   2-1       |  2   1-7       |  3   3-8 [Group A]
+4   Lesotho                  0 |  1   0-2       |  2   1-4       |  3   1-6 [Group A]
+1   Egypt                    7 |  2   5-0       |  1   5-0       |  3  10-0 [Group B]
+2   Angola                   7 |  2   5-1       |  1   0-0       |  3   5-1 [Group B]
+3   Malawi                   3 |  1   2-1       |  2   1-8       |  3   3-9 [Group B]
+4   South Sudan              0 |  1   0-5       |  2   1-4       |  3   1-9 [Group B]
+1   Ivory Coast              9 |  2   4-1       |  1   2-0       |  3   6-1 [Group C]
+2   Gambia                   6 |  1   2-1       |  2   5-4       |  3   7-5 [Group C]
+3   Ghana                    3 |  2   4-4       |  1   0-2       |  3   4-6 [Group C]
+4   Somalia                  0 |  1   0-2       |  2   1-4       |  3   1-6 [Group C]
+1   South Africa             7 |  2   4-3       |  1   5-0       |  3   9-3 [Group D]
+2   Guinea                   6 |  2   3-1       |  1   1-2       |  3   4-3 [Group D]
+3   Kenya                    2 |  1   1-1       |  2   2-3       |  3   3-4 [Group D]
+4   Eritrea                  1 |  1   0-5       |  2   2-3       |  3   2-8 [Group D]
+1   Congo DR                 9 |  2   5-1       |  1   2-1       |  3   7-2 [Group E]
+2   Zimbabwe                 4 |  1   1-2       |  2   3-2       |  3   4-4 [Group E]
+3   Equatorial Guinea        4 |  2   1-0       |  1   0-2       |  3   1-2 [Group E]
+4   Sierra Leone             0 |  1   2-3       |  2   1-4       |  3   3-7 [Group E]
+1   Benin                    7 |  2   6-2       |  1   1-1       |  3   7-3 [Group F]
+2   Burkina Faso             7 |  2   2-1       |  1   1-0       |  3   3-1 [Group F]
+3   Mauritania               3 |  1   3-1       |  2   1-3       |  3   4-4 [Group F]
+4   Central African Republ   0 |  1   0-1       |  2   2-7       |  3   2-8 [Group F]
+1   Cameroon                 7 |  2   5-1       |  1   1-1       |  3   6-2 [Group G]
+2   Comoros                  4 |  2   1-0       |  1   1-3       |  3   2-3 [Group G]
+3   Namibia                  3 |  1   1-0       |  2   0-3       |  3   1-3 [Group G]
+4   Congo                    2 |  1   1-1       |  2   0-1       |  3   1-2 [Group G]
+1   Uganda                   5 |  2   2-1       |  1   1-1       |  3   3-2 [Group H]
+2   Libya                    4 |  1   2-2       |  2   2-1       |  3   4-3 [Group H]
+3   Botswana                 3 |  0   0-0       |  3   5-5       |  3   5-5 [Group H]
+4   Tunisia                  2 |  3   3-5       |  0   0-0       |  3   3-5 [Group H]
+1   Algeria                  7 |  2   4-1       |  1   2-2       |  3   6-3 [Group I]
+2   Zambia                   4 |  2   3-1       |  1   1-3       |  3   4-4 [Group I]
+3   Togo                     3 |  1   1-0       |  2   0-3       |  3   1-3 [Group I]
+4   Burundi                  2 |  1   2-2       |  2   1-2       |  3   3-4 [Group I]
+1   Senegal                  7 |  1   4-1       |  2   2-1       |  3   6-2 [Group J]
+2   Mozambique               4 |  3   5-3       |  0   0-0       |  3   5-3 [Group J]
+3   Sudan                    3 |  1   1-0       |  2   2-8       |  3   3-8 [Group J]
+4   Ethiopia                 3 |  1   0-1       |  2   1-1       |  3   1-2 [Group J]
+1   Mali                     9 |  2   6-3       |  1   1-0       |  3   7-3 [Group K]
+2   Rwanda                   6 |  1   3-1       |  2   4-4       |  3   7-5 [Group K]
+3   Cape Verde Islands       3 |  2   5-4       |  1   1-3       |  3   6-7 [Group K]
+4   Liberia                  0 |  1   0-1       |  2   3-7       |  3   3-8 [Group K]
+1   Guinea-Bissau            7 |  1   3-0       |  2   3-1       |  3   6-1 [Group L]
+2   Nigeria                  6 |  2   5-2       |  1   0-3       |  3   5-5 [Group L]
+3   Madagascar               2 |  2   2-2       |  1   1-2       |  3   3-4 [Group L]
+4   Tanzania                 1 |  1   0-2       |  2   2-4       |  3   2-6 [Group L]
+
+(Guinea: same table as Eritrea, shown above)
+
+(25 API-Football requests used)
+
+----------------------------------------------------------------------
+MATCHBOOK: skipped (switched off for this run)
