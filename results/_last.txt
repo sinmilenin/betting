@@ -1,2 +1,2 @@
-RESULTS 2026-11-16 06:35 UTC | 1 rows | dates 2026-11-15 | API-Football requests 1
+RESULTS 2026-11-16 07:35 UTC | 1 rows | dates 2026-11-15 | API-Football requests 1
 not_found    19:00 Universidad Guadalajara v Club Atletico Morelia    2-2   -    -> -  [ , conf 0.00] no API-Football fixture on 2026-11-15 within 90 min of 19:00 with matching names
