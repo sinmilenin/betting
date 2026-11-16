@@ -1,6 +1,6 @@
-MATCH Albacete v Celta Vigo B | fetched 2026-11-16 08:26 local
+MATCH Albacete v Celta Vigo II | fetched 2026-11-16 08:28 local
 
-FORM DATA Albacete v Celta Vigo B | source API-Football | 2026-11-16 08:27 UTC
+FORM DATA Albacete v Celta Vigo II | source API-Football | 2026-11-16 08:28 UTC
 H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
 
 === Albacete (id 722): last 20 finished games ===
@@ -28,7 +28,7 @@ Listed home: 10 games, scored 12 (1.20), conceded 13 (1.30), blanks 1, clean she
 Listed away: 10 games, scored 10 (1.00), conceded 17 (1.70), blanks 4, clean sheets 2
 All: 20 games, scored 22 (1.10), conceded 30 (1.50), blanks 5, clean sheets 4
 
-!! Celta Vigo B: No team found for "Celta Vigo B".
+!! Celta Vigo II: No team found for "Celta Vigo II".
 
 TABLE FOR Albacete
 LEAGUE TABLE Segunda División 2026 | 22 teams | 150 games played
