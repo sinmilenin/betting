@@ -1,2 +1,2 @@
-# cloud analysis 16.11 15:35 snapshot 15:18 (scan 1 of 4), retry name
-Celje U19 v Rudar U19 | n=20 | xg=10
+# cloud analysis 16.11 16:15 snapshot 15:56 (scan 2 of 4)
+VfB Stuttgart W v Bayer Leverkusen W | n=20 | xg=10
