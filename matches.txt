@@ -1,2 +1,4 @@
-# cloud analysis 16.11 09:19 snapshot (scan 3 of 4, top-20), run 4 - Orbit "Cesar Vallejo Moquegua" is UCV Moquegua (Primera table), not the Trujillo Segunda side
-UCV Moquegua v Atletico Grau | n=20 | xg=10
+# cloud analysis 16.11 10:42 snapshot (scan 3 of 4)
+FK UCSA Tarasivka v Zhytomyr 2 | n=20 | xg=10
+Lee Man FC U22 v Southern District U22 | n=20 | xg=10
+Marko v Zakynthos | n=20 | xg=10
