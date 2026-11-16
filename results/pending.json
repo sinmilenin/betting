@@ -1,37 +1,3 @@
 [
- {
-  "id": "2026-11-15_universidad-guadalajara-club-atletico-morelia_2-2",
-  "date": "2026-11-15",
-  "ko": "19:00",
-  "match": "Universidad Guadalajara v Club Atletico Morelia",
-  "cell": "2-2"
- },
- {
-  "id": "2026-11-16_defensor-sporting-penarol_0-1",
-  "date": "2026-11-16",
-  "ko": "00:00",
-  "match": "Defensor Sporting v Penarol",
-  "cell": "0-1"
- },
- {
-  "id": "2026-11-16_defensor-sporting-penarol_1-0",
-  "date": "2026-11-16",
-  "ko": "00:00",
-  "match": "Defensor Sporting v Penarol",
-  "cell": "1-0"
- },
- {
-  "id": "2026-11-16_panama-curacao_0-1",
-  "date": "2026-11-16",
-  "ko": "00:00",
-  "match": "Panama v Curacao",
-  "cell": "0-1"
- },
- {
-  "id": "2026-11-16_panama-curacao_1-0",
-  "date": "2026-11-16",
-  "ko": "00:00",
-  "match": "Panama v Curacao",
-  "cell": "1-0"
- }
+  {"id": "2026-11-15_universidad-guadalajara-club-atletico-morelia_2-2", "date": "2026-11-15", "ko": "19:00", "match": "Universidad Guadalajara v Club Atletico Morelia", "cell": "2-2"}
 ]
