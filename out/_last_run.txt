@@ -1,9 +1,6 @@
-RUN 2026-11-16 09:54 local | 3 match(es)
-FK UCSA Tarasivka v Zhytomyr 2 -> out/FK_UCSA_Tarasivka_v_Zhytomyr_2.txt
-    !! FK UCSA Tarasivka: No team found for "FK UCSA Tarasivka".
-    !! Zhytomyr 2: No team found for "Zhytomyr 2".
-Lee Man FC U22 v Southern District U22 -> out/Lee_Man_FC_U22_v_Southern_District_U22.txt
-    !! Lee Man FC U22: No team found for "Lee Man FC U22".
-    !! Southern District U22: No team found for "Southern District U22".
-Marko v Zakynthos -> out/Marko_v_Zakynthos.txt
-Requests used: API-Football 29, Matchbook 0
+RUN 2026-11-16 10:39 local | 4 match(es)
+Zimbabwe v Equatorial Guinea -> out/Zimbabwe_v_Equatorial_Guinea.txt
+Sudan v Senegal -> out/Sudan_v_Senegal.txt
+Niki Volos v Pyrgos 1968 -> out/Niki_Volos_v_Pyrgos_1968.txt
+Namibia v Cameroon -> out/Namibia_v_Cameroon.txt
+Requests used: API-Football 98, Matchbook 0

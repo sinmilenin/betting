@@ -1,0 +1,82 @@
+MATCH Niki Volos v Pyrgos 1968 | fetched 2026-11-16 10:39 local
+
+FORM DATA Niki Volos v Pyrgos 1968 | source API-Football | 2026-11-16 10:39 UTC
+H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
+
+=== Niki Volos (id 5056): last 20 finished games ===
+2026-11-09 A 2-0 v Zakynthos | Super League 2 | Zakynthos
+2026-10-31 H 2-1 v Anagennisi Karditsas | Super League 2 | ?
+2026-10-27 A 1-0 v Panserraikos | Cup | Serres
+2026-10-24 A 2-0 v Apollon Pontou | Super League 2 | ?
+2026-10-19 H 1-1 v Panionios | Super League 2 | ?
+2026-10-11 A 1-0 v Ellas Syros | Super League 2 | ?
+2026-10-03 H 2-2 v Larisa | Super League 2 | ?
+2026-09-27 H 2-0 v Nestos Chrisoupolis | Super League 2 | ?
+2026-09-21 A 0-1 v Panthrakikos | Super League 2 | ?
+2026-09-16 H 0-3 v Asteras Tripolis | Cup | Volos
+2026-09-13 H 1-2 v Olympiakos Piraeus II | Super League 2 | ?
+2026-09-07 A 1-2 v Kallithea | Super League 2 | Athens
+2026-09-03 A 0-1 v Panathinaikos | Cup | Athens
+2026-08-19 H 0-0 v Panionios | Cup | ? [PEN, 90-min score shown]
+2026-03-22 H 3-0 v Asteras Tripolis II | Super League 2 | ?
+2026-03-14 A 0-0 v Iraklis 1908 | Super League 2 | Thessaloniki
+2026-03-08 H 1-0 v Anagennisi Karditsas | Super League 2 | ?
+2026-02-28 A 1-1 v Asteras Tripolis II | Super League 2 | ?
+2026-02-22 H 0-1 v Iraklis 1908 | Super League 2 | ?
+2026-02-14 A 0-0 v Anagennisi Karditsas | Super League 2 | ?
+Listed home: 10 games, scored 12 (1.20), conceded 10 (1.00), blanks 3, clean sheets 4
+Listed away: 10 games, scored 8 (0.80), conceded 5 (0.50), blanks 4, clean sheets 6
+All: 20 games, scored 20 (1.00), conceded 15 (0.75), blanks 7, clean sheets 10
+
+=== Pyrgos 1968 (id 26587): last 20 finished games ===
+2026-11-08 H 2-4 v PAOK II | Super League 2 | ?
+2026-11-01 A 1-1 v Asteras Tripolis II | Super League 2 | ?
+2026-10-26 A 3-2 v Zakynthos | Super League 2 | Zakynthos
+2026-10-18 H 0-1 v Anagennisi Karditsas | Super League 2 | ?
+2026-10-11 A 0-1 v Apollon Pontou | Super League 2 | ?
+2026-10-04 H 2-0 v Panionios | Super League 2 | ?
+2026-09-27 A 0-0 v Ellas Syros | Super League 2 | ?
+2026-09-21 H 0-4 v Larisa | Super League 2 | ?
+2026-09-13 A 0-1 v Nestos Chrisoupolis | Super League 2 | ?
+2026-09-05 A 0-0 v Panthrakikos | Super League 2 | ?
+2026-08-18 A 1-3 v Atromitos | Cup | Athens
+2026-05-17 A 2-1 v Aris Petroupolis | Gamma Ethniki - Promotion Group | ?
+2026-05-13 A 0-2 v Ethnikos Piraeus | Gamma Ethniki - Promotion Group | ?
+2026-05-03 H 1-0 v Aris Petroupolis | Gamma Ethniki - Promotion Group | ?
+2026-04-29 H 0-0 v Ethnikos Piraeus | Gamma Ethniki - Promotion Group | ?
+2026-04-26 A 1-1 v Zakynthos | Gamma Ethniki - Promotion Group | Zakynthos
+2026-04-08 H 3-0 v Pelopas Kiatou | Gamma Ethniki - Group 4 | ?
+2026-04-05 H 5-1 v Miltiadis Pyrgos | Gamma Ethniki - Group 4 | ?
+2026-04-01 A 0-1 v Panegialios | Gamma Ethniki - Group 4 | ?
+2026-03-28 A 3-3 v Korinthos | Gamma Ethniki - Group 4 | ?
+Listed home: 8 games, scored 13 (1.62), conceded 10 (1.25), blanks 3, clean sheets 4
+Listed away: 12 games, scored 11 (0.92), conceded 16 (1.33), blanks 6, clean sheets 2
+All: 20 games, scored 24 (1.20), conceded 26 (1.30), blanks 9, clean sheets 6
+
+TABLE FOR Niki Volos
+LEAGUE TABLE Super League 2 2026 | 16 teams | 85 games played
+League averages per game: home 1.35, away 0.96, total 2.32
+#   team                   Pts | home P GF-GA  | away P GF-GA  | all P GF-GA
+1   Marko                   26 |  6   8-2       |  4  11-4       | 10  19-6
+2   Kallithea               21 |  6  10-3       |  5   3-4       | 11  13-7
+3   Larisa                  20 |  6   5-2       |  5  10-4       | 11  15-6
+4   Panserraikos            20 |  6  14-5       |  5   2-9       | 11  16-14
+5   Ellas Syros             19 |  6   8-3       |  5  10-6       | 11  18-9
+6   Niki Volos              17 |  5   8-6       |  5   6-3       | 10  14-9
+7   Panionios               17 |  6  12-4       |  4   1-5       | 10  13-9
+8   Asteras Tripolis II     16 |  5   9-2       |  6   5-9       | 11  14-11
+9   Panthrakikos            13 |  7   8-8       |  4   4-6       | 11  12-14
+10  Anagennisi Karditsas    12 |  4   5-1       |  7   3-11      | 11   8-12
+11  PAOK II                 12 |  5   6-4       |  6   4-13      | 11  10-17
+12  Nestos Chrisoupolis      9 |  6   5-8       |  5   4-7       | 11   9-15
+13  Apollon Pontou           9 |  4   3-3       |  7   5-11      | 11   8-14
+14  Pyrgos 1968              9 |  4   4-9       |  6   4-5       | 10   8-14
+15  Olympiakos Piraeus II    6 |  5   6-12      |  5   7-10      | 10  13-22
+16  Zakynthos                4 |  4   4-10      |  6   3-8       | 10   7-18
+
+(Pyrgos 1968: same table as Niki Volos, shown above)
+
+(25 API-Football requests used)
+
+----------------------------------------------------------------------
+MATCHBOOK: skipped (switched off for this run)
