@@ -1,5 +1,4 @@
-RUN 2026-11-16 14:27 local | 1 match(es)
-Celje U19 v Rudar U19 -> out/Celje_U19_v_Rudar_U19.txt
-    !! Celje U19: No team found for "Celje U19".
-    !! Rudar U19: No team found for "Rudar U19".
-Requests used: API-Football 2, Matchbook 0
+RUN 2026-11-16 15:12 local | 1 match(es)
+VfB Stuttgart W v Bayer Leverkusen W -> out/VfB_Stuttgart_W_v_Bayer_Leverkusen_W.txt
+    !! VfB Stuttgart W: No team found for "VfB Stuttgart W".
+Requests used: API-Football 14, Matchbook 0
