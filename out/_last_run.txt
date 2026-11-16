@@ -1,3 +1,4 @@
-RUN 2026-11-16 12:14 local | 1 match(es)
-Panionios v Olympiakos Piraeus II -> out/Panionios_v_Olympiakos_Piraeus_II.txt
-Requests used: API-Football 25, Matchbook 0
+RUN 2026-11-16 12:57 local | 2 match(es)
+Kosovo U21 v Luxembourg U21 -> out/Kosovo_U21_v_Luxembourg_U21.txt
+Guadeloupe v Bermuda -> out/Guadeloupe_v_Bermuda.txt
+Requests used: API-Football 52, Matchbook 0
