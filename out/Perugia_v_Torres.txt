@@ -1,0 +1,86 @@
+MATCH Perugia v Torres | fetched 2026-11-16 17:24 local
+
+FORM DATA Perugia v Torres | source API-Football | 2026-11-16 17:24 UTC
+H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
+
+=== Perugia (id 524): last 20 finished games ===
+2026-11-08 A 2-3 v Pianese | Serie C - Girone B | Piancastagnaio
+2026-10-31 A 1-1 v Guidonia Montecelio 1937 | Serie C - Girone B | Guidonia Montecelio
+2026-10-23 H 1-2 v Pescara | Serie C - Girone B | Perugia
+2026-10-18 A 5-1 v Campobasso FC | Serie C - Girone B | Campobasso
+2026-10-11 H 0-2 v Vado | Serie C - Girone B | Perugia
+2026-10-03 A 3-1 v Gubbio | Serie C - Girone B | Gubbio
+2026-09-27 H 1-0 v Reggiana | Serie C - Girone B | Perugia
+2026-09-20 A 0-2 v Grosseto | Serie C - Girone B | Grosseto
+2026-09-16 H 0-3 v Spezia | Serie C - Girone B | Perugia
+2026-09-13 A 0-3 v Ravenna | Serie C - Girone B | Ravenna
+2026-09-06 H 2-1 v Pineto | Serie C - Girone B | Perugia
+2026-08-30 A 2-2 v Vis Pesaro | Serie C - Girone B | Pesaro
+2026-08-23 H 1-0 v Ostia Mare | Serie C - Girone B | Perugia
+2026-08-15 H 1-2 v Vis Pesaro | Coppa Italia Serie C | Perugia
+2026-04-26 A 1-1 v Forli | Serie C - Girone B | Forli
+2026-04-18 H 0-1 v Campobasso FC | Serie C - Girone B | Perugia
+2026-04-12 A 2-2 v Ternana | Serie C - Girone B | Terni
+2026-04-04 H 2-2 v Juventus U23 | Serie C - Girone B | Perugia
+2026-03-29 A 1-0 v Vis Pesaro | Serie C - Girone B | Pesaro
+2026-03-20 H 1-1 v Torres | Serie C - Girone B | Perugia
+Listed home: 10 games, scored 9 (0.90), conceded 14 (1.40), blanks 3, clean sheets 2
+Listed away: 10 games, scored 17 (1.70), conceded 16 (1.60), blanks 2, clean sheets 1
+All: 20 games, scored 26 (1.30), conceded 30 (1.50), blanks 5, clean sheets 3
+
+=== Torres (id 9534): last 20 finished games ===
+2026-11-08 H 2-0 v Latina | Serie C - Girone B | Sassari
+2026-10-31 A 0-0 v Pescara | Serie C - Girone B | Pescara
+2026-10-25 H 2-0 v Guidonia Montecelio 1937 | Serie C - Girone B | Sassari
+2026-10-17 A 0-2 v Reggiana | Serie C - Girone B | Reggio Emilia
+2026-10-11 H 2-1 v Atalanta II | Serie C - Girone B | Sassari
+2026-10-04 A 1-1 v Campobasso FC | Serie C - Girone B | Campobasso
+2026-09-26 H 0-0 v Vado | Serie C - Girone B | Sassari
+2026-09-19 A 1-1 v Forli | Serie C - Girone B | Forli
+2026-09-16 H 2-1 v Pianese | Serie C - Girone B | Sassari
+2026-09-13 H 3-2 v Ostia Mare | Serie C - Girone B | Sassari
+2026-09-06 A 0-2 v Grosseto | Serie C - Girone B | Grosseto
+2026-08-29 H 1-0 v Sambenedettese | Serie C - Girone B | Sassari
+2026-08-24 A 1-2 v Livorno | Serie C - Girone B | Livorno
+2026-08-16 A 1-4 v Spezia | Coppa Italia Serie C | La Spezia
+2026-08-08 A 2-0 v Latte Dolce | Friendlies Clubs | ?
+2026-05-16 H 2-1 v Bra | Serie C - Relegation - Play-offs | Sassari
+2026-05-09 A 1-0 v Bra | Serie C - Relegation - Play-offs | Bra
+2026-04-26 A 1-3 v Arezzo | Serie C - Girone B | Arezzo
+2026-04-18 H 0-0 v Gubbio | Serie C - Girone B | Sassari
+2026-04-11 A 0-0 v Pineto | Serie C - Girone B | Pineto
+Listed home: 9 games, scored 14 (1.56), conceded 5 (0.56), blanks 2, clean sheets 5
+Listed away: 11 games, scored 8 (0.73), conceded 15 (1.36), blanks 4, clean sheets 4
+All: 20 games, scored 22 (1.10), conceded 20 (1.00), blanks 6, clean sheets 9
+
+TABLE FOR Perugia
+LEAGUE TABLE Serie C - Girone B 2026 | 20 teams | 138 games played
+League averages per game: home 1.46, away 1.14, total 2.60
+#   team                   Pts | home P GF-GA  | away P GF-GA  | all P GF-GA
+1   Spezia                  38 |  7  14-3       |  7  14-3       | 14  28-6
+2   Ravenna                 32 |  7  15-4       |  7  12-4       | 14  27-8
+3   Pescara                 25 |  8  10-5       |  6  11-10      | 14  21-15
+4   Grosseto                23 |  7  11-9       |  7  17-12      | 14  28-21
+5   Torres                  22 |  7  12-4       |  6   3-8       | 13  15-12
+6   Reggiana                21 |  7   9-3       |  7  10-12      | 14  19-15
+7   Guidonia Montecelio 19  21 |  8  13-7       |  6   6-9       | 14  19-16
+8   Livorno                 21 |  7  14-10      |  7   4-7       | 14  18-17
+9   Campobasso FC           19 |  7  11-13      |  7   8-12      | 14  19-25
+10  Latina                  18 |  8  12-3       |  6   4-11      | 14  16-14
+11  Atalanta II             18 |  6  11-10      |  7   7-11      | 13  18-21
+12  Pineto                  17 |  7   7-6       |  6   4-7       | 13  11-13
+13  Perugia                 17 |  6   5-8       |  7  13-13      | 13  18-21
+14  Vado                    16 |  7   8-9       |  7   7-10      | 14  15-19
+15  Forli                   15 |  6  11-6       |  8   6-14      | 14  17-20
+16  Pianese                 13 |  6   6-4       |  8   6-13      | 14  12-17
+17  Gubbio                  11 |  7   8-12      |  7   5-12      | 14  13-24
+18  Sambenedettese          10 |  7  10-13      |  7   8-12      | 14  18-25
+19  Ostia Mare              10 |  6   3-10      |  8   9-11      | 14  12-21
+20  Vis Pesaro               8 |  7  12-18      |  7   3-11      | 14  15-29
+
+(Torres: same table as Perugia, shown above)
+
+(25 API-Football requests used)
+
+----------------------------------------------------------------------
+MATCHBOOK: skipped (switched off for this run)
