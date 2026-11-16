@@ -1,4 +1,5 @@
-# cloud analysis 16.11 10:42 snapshot (scan 3 of 4)
-FK UCSA Tarasivka v Zhytomyr 2 | n=20 | xg=10
-Lee Man FC U22 v Southern District U22 | n=20 | xg=10
-Marko v Zakynthos | n=20 | xg=10
+# cloud analysis 16.11 11:40 snapshot 11:26 (scan 4 of 4)
+Zimbabwe v Equatorial Guinea | n=20 | xg=10
+Sudan v Senegal | n=20 | xg=10
+Niki Volos v Pyrgos 1968 | n=20 | xg=10
+Namibia v Cameroon | n=20 | xg=10
