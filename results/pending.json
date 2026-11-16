@@ -19,5 +19,33 @@
   "ko": "15:00",
   "match": "Italy U20 v Switzerland U20",
   "cell": "1-0"
+ },
+ {
+  "id": "2026-11-16_kosovo-u21-luxembourg-u21_0-1",
+  "date": "2026-11-16",
+  "ko": "16:00",
+  "match": "Kosovo U21 v Luxembourg U21",
+  "cell": "0-1"
+ },
+ {
+  "id": "2026-11-16_kosovo-u21-luxembourg-u21_1-0",
+  "date": "2026-11-16",
+  "ko": "16:00",
+  "match": "Kosovo U21 v Luxembourg U21",
+  "cell": "1-0"
+ },
+ {
+  "id": "2026-11-16_somalia-ghana_1-2",
+  "date": "2026-11-16",
+  "ko": "16:00",
+  "match": "Somalia v Ghana",
+  "cell": "1-2"
+ },
+ {
+  "id": "2026-11-16_somalia-ghana_1-3",
+  "date": "2026-11-16",
+  "ko": "16:00",
+  "match": "Somalia v Ghana",
+  "cell": "1-3"
  }
 ]
