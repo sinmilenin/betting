@@ -1,4 +1,4 @@
-RUN 2026-11-16 12:57 local | 2 match(es)
-Kosovo U21 v Luxembourg U21 -> out/Kosovo_U21_v_Luxembourg_U21.txt
-Guadeloupe v Bermuda -> out/Guadeloupe_v_Bermuda.txt
-Requests used: API-Football 52, Matchbook 0
+RUN 2026-11-16 13:40 local | 1 match(es)
+Tatran Presov v Lokomotiva Zvolen -> out/Tatran_Presov_v_Lokomotiva_Zvolen.txt
+    !! Tatran Presov: Ambiguous team name "Tatran Presov".
+Requests used: API-Football 15, Matchbook 0
