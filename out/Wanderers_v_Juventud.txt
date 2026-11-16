@@ -1,6 +1,6 @@
-MATCH Wanderers v Juventud De Las Piedras | fetched 2026-11-16 20:10 local
+MATCH Wanderers v Juventud | fetched 2026-11-16 20:11 local
 
-FORM DATA Wanderers v Juventud De Las Piedras | source API-Football | 2026-11-16 20:10 UTC
+FORM DATA Wanderers v Juventud | source API-Football | 2026-11-16 20:11 UTC
 H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
 
 === Wanderers (id 2360): last 20 finished games ===
@@ -28,7 +28,30 @@ Listed home: 8 games, scored 10 (1.25), conceded 11 (1.38), blanks 1, clean shee
 Listed away: 12 games, scored 12 (1.00), conceded 27 (2.25), blanks 3, clean sheets 3
 All: 20 games, scored 22 (1.10), conceded 38 (1.90), blanks 4, clean sheets 4
 
-!! Juventud De Las Piedras: No team found for "Juventud De Las Piedras".
+=== Juventud (id 2353): last 20 finished games ===
+2026-11-11 A 1-1 v Liverpool Montevideo | Copa Uruguay | Montevideo [PEN, 90-min score shown]
+2026-11-01 A 0-2 v Liverpool Montevideo | Primera División | Montevideo
+2026-10-28 A 2-0 v Nacional Florida | Copa Uruguay | Florida
+2026-10-23 H 0-0 v Penarol | Primera División | Las Piedras
+2026-10-17 A 0-2 v Progreso | Primera División | Montevideo
+2026-10-11 H 2-0 v Racing Montevideo | Primera División | Las Piedras
+2026-10-07 A 1-0 v Plaza Colonia | Copa Uruguay | Colonia del Sacramento
+2026-10-04 A 0-0 v Boston River | Primera División | Las Piedras
+2026-09-27 H 0-0 v Cerro | Primera División | Las Piedras
+2026-09-20 A 3-1 v Albion FC | Primera División | Montevideo
+2026-09-17 H 3-0 v Racing Montevideo | Copa Uruguay | ?
+2026-09-13 H 1-1 v Danubio | Primera División | Las Piedras
+2026-09-06 A 2-2 v Club Nacional | Primera División | Montevideo
+2026-09-02 A 0-3 v Central Espanol | Copa Uruguay | ?
+2026-08-29 H 2-0 v Deportivo Maldonado | Primera División | Las Piedras
+2026-08-26 H 1-0 v Oriental | Copa Uruguay | Las Piedras
+2026-08-22 A 1-0 v Central Espanol | Primera División | Montevideo
+2026-08-15 H 0-1 v Atletico Torque | Primera División | Las Piedras
+2026-08-07 A 1-1 v Cerro Largo | Primera División | Melo
+2026-08-01 A 0-0 v Deportivo Maldonado | Primera División | Maldonado
+Listed home: 8 games, scored 9 (1.12), conceded 2 (0.25), blanks 3, clean sheets 6
+Listed away: 12 games, scored 11 (0.92), conceded 12 (1.00), blanks 5, clean sheets 5
+All: 20 games, scored 20 (1.00), conceded 14 (0.70), blanks 8, clean sheets 11
 
 TABLE FOR Wanderers
 LEAGUE TABLE Primera División 2026 | 80 teams | 230 games played
@@ -115,7 +138,9 @@ League averages per game: home 1.33, away 1.10, total 2.43
 15  Cerro Largo             10 |  8   7-8       |  6   5-11      | 14  12-19 [Primera: Clausura]
 16  Danubio                 10 |  8   6-11      |  6   2-6       | 14   8-17 [Primera: Clausura]
 
-(15 API-Football requests used)
+(Juventud: same table as Wanderers, shown above)
+
+(26 API-Football requests used)
 
 ----------------------------------------------------------------------
 MATCHBOOK: skipped (switched off for this run)
