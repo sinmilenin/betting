@@ -1,7 +1,32 @@
-MATCH VfB Stuttgart W v Bayer Leverkusen W | fetched 2026-11-16 15:12 local
+MATCH Stuttgart W v Bayer Leverkusen W | fetched 2026-11-16 15:13 local
 
-FORM DATA VfB Stuttgart W v Bayer Leverkusen W | source API-Football | 2026-11-16 15:12 UTC
+FORM DATA Stuttgart W v Bayer Leverkusen W | source API-Football | 2026-11-16 15:13 UTC
 H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
+
+=== Stuttgart W (id 24130): last 20 finished games ===
+2026-11-08 A 3-1 v Mainz 05 W | Frauen Bundesliga | ? | xG 1.59-1.11
+2026-10-30 H 3-0 v SGS Essen W | DFB Pokal - Women | Stuttgart
+2026-10-24 H 0-3 v Eintracht Frankfurt W | Frauen Bundesliga | Stuttgart | xG 0.65-3.89
+2026-10-19 A 0-5 v Bayern Munich W | Frauen Bundesliga | Munich | xG 0.49-4.73
+2026-10-04 H 0-4 v Union Berlin W | Frauen Bundesliga | Stuttgart
+2026-09-26 A 2-2 v Turbine Potsdam W | DFB Pokal - Women | ? [AET, 90-min score shown]
+2026-09-21 A 1-1 v Werder Bremen W | Frauen Bundesliga | Bremen
+2026-09-13 H 0-2 v VfL Wolfsburg W | Frauen Bundesliga | Stuttgart
+2026-09-06 A 3-3 v Nürnberg W | Frauen Bundesliga | Nuremberg
+2026-08-29 H 2-1 v Hamburger SV W | Frauen Bundesliga | Stuttgart
+2026-08-23 A 2-1 v 1899 Hoffenheim W | Frauen Bundesliga | Sinsheim
+2026-05-17 A 2-2 v SC Sand W | 2. Frauen Bundesliga | Willstätt
+2026-05-10 H 4-1 v Wolfsburg II W | 2. Frauen Bundesliga | Stuttgart
+2026-05-03 A 2-0 v Bochum W | 2. Frauen Bundesliga | Bochum
+2026-04-26 H 2-0 v Meppen W | 2. Frauen Bundesliga | Stuttgart
+2026-04-04 A 4-0 v Warbeyen W | 2. Frauen Bundesliga | Kleve
+2026-03-29 A 3-0 v Turbine Potsdam W | 2. Frauen Bundesliga | Potsdam
+2026-03-21 H 2-4 v Mainz 05 W | 2. Frauen Bundesliga | Stuttgart
+2026-03-15 A 3-2 v Ingolstadt W | 2. Frauen Bundesliga | Ingolstadt
+2026-02-22 H 4-3 v Eintracht Frankfurt II W | 2. Frauen Bundesliga | Stuttgart
+Listed home: 9 games, scored 17 (1.89), conceded 18 (2.00), blanks 3, clean sheets 2
+Listed away: 11 games, scored 25 (2.27), conceded 17 (1.55), blanks 1, clean sheets 3
+All: 20 games, scored 42 (2.10), conceded 35 (1.75), blanks 4, clean sheets 5
 
 === Bayer Leverkusen W (id 1859): last 20 finished games ===
 2026-11-07 H 2-0 v Hamburger SV W | Frauen Bundesliga | Leverkusen | xG 2.96-1.25
@@ -28,9 +53,7 @@ Listed home: 10 games, scored 17 (1.70), conceded 14 (1.40), blanks 1, clean she
 Listed away: 10 games, scored 17 (1.70), conceded 9 (0.90), blanks 3, clean sheets 3
 All: 20 games, scored 34 (1.70), conceded 23 (1.15), blanks 4, clean sheets 5
 
-!! VfB Stuttgart W: No team found for "VfB Stuttgart W".
-
-TABLE FOR Bayer Leverkusen W
+TABLE FOR Stuttgart W
 LEAGUE TABLE Frauen Bundesliga 2026 | 14 teams | 69 games played
 League averages per game: home 1.86, away 1.72, total 3.58
 #   team                   Pts | home P GF-GA  | away P GF-GA  | all P GF-GA
@@ -49,7 +72,9 @@ League averages per game: home 1.86, away 1.72, total 3.58
 13  Nürnberg W               8 |  5   8-14      |  5   8-10      | 10  16-24
 14  Mainz 05 W               0 |  5   4-17      |  5   2-19      | 10   6-36
 
-(14 API-Football requests used)
+(Bayer Leverkusen W: same table as Stuttgart W, shown above)
+
+(25 API-Football requests used)
 
 ----------------------------------------------------------------------
 MATCHBOOK: skipped (switched off for this run)

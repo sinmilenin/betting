@@ -1,4 +1,3 @@
-RUN 2026-11-16 15:12 local | 1 match(es)
-VfB Stuttgart W v Bayer Leverkusen W -> out/VfB_Stuttgart_W_v_Bayer_Leverkusen_W.txt
-    !! VfB Stuttgart W: No team found for "VfB Stuttgart W".
-Requests used: API-Football 14, Matchbook 0
+RUN 2026-11-16 15:13 local | 1 match(es)
+Stuttgart W v Bayer Leverkusen W -> out/Stuttgart_W_v_Bayer_Leverkusen_W.txt
+Requests used: API-Football 25, Matchbook 0
