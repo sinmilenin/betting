@@ -1,37 +1,5 @@
 [
  {
-  "id": "2026-11-15_cobreloa-calama-puerto-montt_1-0",
-  "match": "Cobreloa Calama v Puerto Montt",
-  "cell": "1-0",
-  "state": "final",
-  "score": "3-0",
-  "result": "won",
-  "api": "Cobreloa v D. Puerto Montt",
-  "status": "FT",
-  "api_ko": "22:00",
-  "fixture": 1511722,
-  "swapped": false,
-  "conf": 0.93,
-  "note": "",
-  "league": "Chile, Primera B"
- },
- {
-  "id": "2026-11-15_san-marcos-san-luis_1-0",
-  "match": "San Marcos v San Luis",
-  "cell": "1-0",
-  "state": "final",
-  "score": "0-1",
-  "result": "won",
-  "api": "San Marcos de Arica v San Luis",
-  "status": "FT",
-  "api_ko": "22:00",
-  "fixture": 1511727,
-  "swapped": false,
-  "conf": 0.93,
-  "note": "",
-  "league": "Chile, Primera B"
- },
- {
   "id": "2026-11-15_universidad-guadalajara-club-atletico-morelia_2-2",
   "match": "Universidad Guadalajara v Club Atletico Morelia",
   "cell": "2-2",
