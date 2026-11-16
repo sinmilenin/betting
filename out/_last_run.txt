@@ -1,3 +1,4 @@
-RUN 2026-11-16 18:10 local | 1 match(es)
-Cusco v ADT -> out/Cusco_v_ADT.txt
-Requests used: API-Football 25, Matchbook 0
+RUN 2026-11-16 18:54 local | 1 match(es)
+Aragua v Deportivo Lara -> out/Aragua_v_Deportivo_Lara.txt
+    !! Aragua: Ambiguous team name "Aragua".
+Requests used: API-Football 15, Matchbook 0
