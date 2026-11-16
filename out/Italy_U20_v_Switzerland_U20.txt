@@ -1,0 +1,52 @@
+MATCH Italy U20 v Switzerland U20 | fetched 2026-11-16 11:24 local
+
+FORM DATA Italy U20 v Switzerland U20 | source API-Football | 2026-11-16 11:24 UTC
+H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
+
+=== Italy U20 (id 10289): last 20 finished games ===
+2026-11-12 H 1-0 v Portugal U20 | U20 Elite League | Padova
+2026-10-03 A 3-0 v France U20 | U20 Elite League | La Nucia
+2026-09-29 A 0-3 v Germany U20 | U20 Elite League | La Nucia
+2026-09-25 H 1-3 v England U20 | U20 Elite League | La Nucia
+2026-03-27 H 3-3 v England U20 | Friendlies | Riano
+2025-11-17 A 0-5 v Germany U20 | U20 Elite League | ?
+2025-11-14 H 1-2 v Portugal U20 | U20 Elite League | ?
+2025-10-09 A 0-3 v United States U20 | World Cup - U20 | Rancagua
+2025-10-04 A 0-1 v Argentina U20 | World Cup - U20 | Valparaíso
+2025-10-01 H 2-2 v Cuba U20 | World Cup - U20 | Valparaíso
+2025-09-28 H 1-0 v Australia U20 | World Cup - U20 | Valparaíso
+2025-09-09 A 0-4 v Germany U20 | U20 Elite League | Reutlingen
+2025-09-05 A 2-1 v England U20 | Friendlies | Chesterfield
+2025-03-20 A 3-0 v Türkiye U20 | U20 Elite League | İstanbul
+2024-11-19 H 4-1 v Romania U20 | U20 Elite League | Bagno a Ripoli
+2024-11-15 A 3-2 v Poland U20 | U20 Elite League | Białystok
+2024-10-14 A 1-1 v Portugal U20 | U20 Elite League | Coimbra
+2024-10-10 H 1-2 v England U20 | U20 Elite League | Frosinone
+2024-09-10 H 0-3 v Germany U20 | U20 Elite League | Rieti
+2024-09-05 A 2-1 v Czech Republic U20 | U20 Elite League | Znojmo
+Listed home: 9 games, scored 14 (1.56), conceded 16 (1.78), blanks 1, clean sheets 2
+Listed away: 11 games, scored 14 (1.27), conceded 21 (1.91), blanks 5, clean sheets 2
+All: 20 games, scored 28 (1.40), conceded 37 (1.85), blanks 6, clean sheets 4
+
+=== Switzerland U20 (id 25281): last 9 finished games ===
+2026-11-13 H 3-1 v Romania U20 | U20 Elite League | Bellinzona
+2026-09-29 A 2-1 v Portugal U20 | U20 Elite League | ?
+2026-09-26 A 2-5 v Czechia U20 | U20 Elite League | Albufeira
+2026-03-31 H 3-1 v Romania U20 | U20 Elite League | ?
+2026-03-27 A 0-3 v Portugal U20 | U20 Elite League | ?
+2025-10-13 A 1-4 v Poland U20 | U20 Elite League | ?
+2025-10-10 A 1-0 v England U20 | Friendlies | ?
+2025-09-08 H 2-1 v Czech Republic U20 | U20 Elite League | Wohlen
+2025-09-05 H 1-5 v Germany U20 | U20 Elite League | Wohlen
+Listed home: 4 games, scored 9 (2.25), conceded 8 (2.00), blanks 0, clean sheets 0
+Listed away: 5 games, scored 6 (1.20), conceded 13 (2.60), blanks 1, clean sheets 1
+All: 9 games, scored 15 (1.67), conceded 21 (2.33), blanks 1, clean sheets 1
+
+(no league table available for Italy U20: tried U20 Elite League 2026, U20 Elite League 2025, World Cup - U20 2025)
+
+(no league table available for Switzerland U20: tried U20 Elite League 2026, U20 Elite League 2025)
+
+(24 API-Football requests used)
+
+----------------------------------------------------------------------
+MATCHBOOK: skipped (switched off for this run)

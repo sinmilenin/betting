@@ -1,6 +1,5 @@
-RUN 2026-11-16 10:39 local | 4 match(es)
-Zimbabwe v Equatorial Guinea -> out/Zimbabwe_v_Equatorial_Guinea.txt
-Sudan v Senegal -> out/Sudan_v_Senegal.txt
-Niki Volos v Pyrgos 1968 -> out/Niki_Volos_v_Pyrgos_1968.txt
-Namibia v Cameroon -> out/Namibia_v_Cameroon.txt
-Requests used: API-Football 98, Matchbook 0
+RUN 2026-11-16 11:24 local | 2 match(es)
+Czech Republic U20 v Germany U20 -> out/Czech_Republic_U20_v_Germany_U20.txt
+    !! Czech Republic U20: No team found for "Czech Republic U20".
+Italy U20 v Switzerland U20 -> out/Italy_U20_v_Switzerland_U20.txt
+Requests used: API-Football 39, Matchbook 0
