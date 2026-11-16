@@ -1,0 +1,13 @@
+MATCH FK UCSA Tarasivka v Zhytomyr 2 | fetched 2026-11-16 09:54 local
+
+FORM DATA FK UCSA Tarasivka v Zhytomyr 2 | source API-Football | 2026-11-16 09:54 UTC
+H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
+
+!! FK UCSA Tarasivka: No team found for "FK UCSA Tarasivka".
+
+!! Zhytomyr 2: No team found for "Zhytomyr 2".
+
+(2 API-Football requests used)
+
+----------------------------------------------------------------------
+MATCHBOOK: skipped (switched off for this run)
