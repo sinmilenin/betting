@@ -1,2 +1,2 @@
-# cloud analysis 16.11 13:15 snapshot 12:56 (scan 2 of 4)
-Panionios v Olympiacos B | n=20 | xg=10
+# cloud analysis 16.11 13:16 snapshot 12:56 (scan 2 of 4), retry Olympiakos name
+Panionios v Olympiakos Piraeus II | n=20 | xg=10
