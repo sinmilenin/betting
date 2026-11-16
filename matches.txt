@@ -1,2 +1,2 @@
-# cloud analysis 16.11 19:18 snapshot 18:56 (scan 2 of 4): retry Cusco/Tarma names
-Cusco v ADT | n=20 | xg=10
+# cloud analysis 16.11 19:55 snapshot 19:41 (scan 3 of 4)
+Aragua v Deportivo Lara | n=20 | xg=10
