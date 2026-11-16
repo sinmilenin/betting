@@ -1,4 +1,2 @@
-# cloud analysis 16.11 09:19 snapshot (scan 3 of 4, top-20), run 2 - corrected team names
-id:1527 v Benin | n=20 | xg=10
-FYR Macedonia v Slovenia | n=20 | xg=10
-Albacete v Celta Vigo II | n=20 | xg=10
+# cloud analysis 16.11 09:19 snapshot (scan 3 of 4, top-20), run 3 - Celta reserve name from the league table
+Albacete v Celta de Vigo II | n=20 | xg=10
