@@ -1,9 +1,9 @@
-RESULTS 2026-11-16 20:35 UTC | 8 rows | dates 2026-11-15, 2026-11-16 | API-Football requests 2
+RESULTS 2026-11-16 21:35 UTC | 8 rows | dates 2026-11-15, 2026-11-16 | API-Football requests 2
 not_found    19:00 Universidad Guadalajara v Club Atletico Morelia    2-2   -    -> -  [ , conf 0.00] no API-Football fixture on 2026-11-15 within 90 min of 19:00 with matching names
+final        20:30 Albacete v Celta Vigo B                            3-0   1-0  -> won  [Albacete v Celta de Vigo II FT, conf 1.00] 
 not_found    11:00 FK UCSA Tarasivka v Zhytomyr 2                     0-1   -    -> -  [ , conf 0.00] no API-Football fixture on 2026-11-16 within 90 min of 11:00 with matching names
-final        18:00 Greece U21 v Iceland U21                           0-1   1-1  -> won  [Greece U21 v Iceland U21 PEN, conf 1.00] went to PEN; score is after 90 minutes
-final        18:00 Greece U21 v Iceland U21                           1-0   1-1  -> won  [Greece U21 v Iceland U21 PEN, conf 1.00] went to PEN; score is after 90 minutes
-final        18:00 Greece U21 v Iceland U21                           2-2   1-1  -> won  [Greece U21 v Iceland U21 PEN, conf 1.00] went to PEN; score is after 90 minutes
-final        19:00 Leones de Rosario v Sportivo Barracas              3-0   0-0  -> won  [Leones de Rosario v Sportivo Barracas FT, conf 1.00] 
-final        19:00 Leones de Rosario v Sportivo Barracas              3-1   0-0  -> won  [Leones de Rosario v Sportivo Barracas FT, conf 1.00] 
-final        19:00 Leones de Rosario v Sportivo Barracas              AOHW  0-0  -> won  [Leones de Rosario v Sportivo Barracas FT, conf 1.00] 
+final        20:00 Guadeloupe v Bermuda                               1-0   4-1  -> won  [Guadeloupe v Bermuda FT, conf 1.00] 
+final        20:00 Guyana v Puerto Rico                               0-1   4-2  -> won  [Guyana v Puerto Rico FT, conf 1.00] 
+final        20:00 Guyana v Puerto Rico                               1-0   4-2  -> won  [Guyana v Puerto Rico FT, conf 1.00] 
+final        20:00 Guyana v Puerto Rico                               2-1   4-2  -> won  [Guyana v Puerto Rico FT, conf 1.00] 
+final        20:00 Norwich U21 v Exeter City U21                      3-0   3-0  -> lost  [Norwich City U21 v Exeter U21 FT, conf 1.00] 
