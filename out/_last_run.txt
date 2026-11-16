@@ -1,7 +1,5 @@
-RUN 2026-11-16 14:26 local | 3 match(es)
-Greece U21 v Iceland U21 -> out/Greece_U21_v_Iceland_U21.txt
-Eritrea v Guinea -> out/Eritrea_v_Guinea.txt
-NK Celje U19 v Rudar Velenje U19 -> out/NK_Celje_U19_v_Rudar_Velenje_U19.txt
-    !! NK Celje U19: No team found for "NK Celje U19".
-    !! Rudar Velenje U19: No team found for "Rudar Velenje U19".
-Requests used: API-Football 52, Matchbook 0
+RUN 2026-11-16 14:27 local | 1 match(es)
+Celje U19 v Rudar U19 -> out/Celje_U19_v_Rudar_U19.txt
+    !! Celje U19: No team found for "Celje U19".
+    !! Rudar U19: No team found for "Rudar U19".
+Requests used: API-Football 2, Matchbook 0
