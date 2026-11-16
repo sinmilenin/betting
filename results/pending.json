@@ -7,6 +7,13 @@
   "cell": "2-2"
  },
  {
+  "id": "2026-11-16_albacete-celta-vigo-b_3-0",
+  "date": "2026-11-16",
+  "ko": "20:30",
+  "match": "Albacete v Celta Vigo B",
+  "cell": "3-0"
+ },
+ {
   "id": "2026-11-16_fk-ucsa-tarasivka-zhytomyr-2_0-1",
   "date": "2026-11-16",
   "ko": "11:00",
@@ -14,45 +21,38 @@
   "cell": "0-1"
  },
  {
-  "id": "2026-11-16_greece-u21-iceland-u21_0-1",
+  "id": "2026-11-16_guadeloupe-bermuda_1-0",
   "date": "2026-11-16",
-  "ko": "18:00",
-  "match": "Greece U21 v Iceland U21",
-  "cell": "0-1"
- },
- {
-  "id": "2026-11-16_greece-u21-iceland-u21_1-0",
-  "date": "2026-11-16",
-  "ko": "18:00",
-  "match": "Greece U21 v Iceland U21",
+  "ko": "20:00",
+  "match": "Guadeloupe v Bermuda",
   "cell": "1-0"
  },
  {
-  "id": "2026-11-16_greece-u21-iceland-u21_2-2",
+  "id": "2026-11-16_guyana-puerto-rico_0-1",
   "date": "2026-11-16",
-  "ko": "18:00",
-  "match": "Greece U21 v Iceland U21",
-  "cell": "2-2"
+  "ko": "20:00",
+  "match": "Guyana v Puerto Rico",
+  "cell": "0-1"
  },
  {
-  "id": "2026-11-16_leones-de-rosario-sportivo-barracas_3-0",
+  "id": "2026-11-16_guyana-puerto-rico_1-0",
   "date": "2026-11-16",
-  "ko": "19:00",
-  "match": "Leones de Rosario v Sportivo Barracas",
+  "ko": "20:00",
+  "match": "Guyana v Puerto Rico",
+  "cell": "1-0"
+ },
+ {
+  "id": "2026-11-16_guyana-puerto-rico_2-1",
+  "date": "2026-11-16",
+  "ko": "20:00",
+  "match": "Guyana v Puerto Rico",
+  "cell": "2-1"
+ },
+ {
+  "id": "2026-11-16_norwich-u21-exeter-city-u21_3-0",
+  "date": "2026-11-16",
+  "ko": "20:00",
+  "match": "Norwich U21 v Exeter City U21",
   "cell": "3-0"
- },
- {
-  "id": "2026-11-16_leones-de-rosario-sportivo-barracas_3-1",
-  "date": "2026-11-16",
-  "ko": "19:00",
-  "match": "Leones de Rosario v Sportivo Barracas",
-  "cell": "3-1"
- },
- {
-  "id": "2026-11-16_leones-de-rosario-sportivo-barracas_aohw",
-  "date": "2026-11-16",
-  "ko": "19:00",
-  "match": "Leones de Rosario v Sportivo Barracas",
-  "cell": "AOHW"
  }
 ]
