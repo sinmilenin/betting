@@ -1,8 +1,4 @@
-RESULTS 2026-11-16 17:35 UTC | 7 rows | dates 2026-11-15, 2026-11-16 | API-Football requests 2
+RESULTS 2026-11-16 18:35 UTC | 3 rows | dates 2026-11-15, 2026-11-16 | API-Football requests 2
 not_found    19:00 Universidad Guadalajara v Club Atletico Morelia    2-2   -    -> -  [ , conf 0.00] no API-Football fixture on 2026-11-15 within 90 min of 19:00 with matching names
+final        17:00 Central African Republic v Benin                   0-1   0-1  -> lost  [Central African Republic v Benin FT, conf 1.00] 
 not_found    11:00 FK UCSA Tarasivka v Zhytomyr 2                     0-1   -    -> -  [ , conf 0.00] no API-Football fixture on 2026-11-16 within 90 min of 11:00 with matching names
-final        15:00 Italy U20 v Switzerland U20                        1-0   1-0  -> lost  [Italy U20 v Switzerland U20 FT, conf 1.00] 
-final        16:00 Kosovo U21 v Luxembourg U21                        0-1   0-2  -> won  [Kosovo U21 v Luxembourg U21 FT, conf 1.00] 
-final        16:00 Kosovo U21 v Luxembourg U21                        1-0   0-2  -> won  [Kosovo U21 v Luxembourg U21 FT, conf 1.00] 
-final        16:00 Somalia v Ghana                                    1-2   0-1  -> won  [Somalia v Ghana FT, conf 1.00] 
-final        16:00 Somalia v Ghana                                    1-3   0-1  -> won  [Somalia v Ghana FT, conf 1.00] 
