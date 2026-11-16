@@ -7,45 +7,17 @@
   "cell": "2-2"
  },
  {
+  "id": "2026-11-16_central-african-republic-benin_0-1",
+  "date": "2026-11-16",
+  "ko": "17:00",
+  "match": "Central African Republic v Benin",
+  "cell": "0-1"
+ },
+ {
   "id": "2026-11-16_fk-ucsa-tarasivka-zhytomyr-2_0-1",
   "date": "2026-11-16",
   "ko": "11:00",
   "match": "FK UCSA Tarasivka v Zhytomyr 2",
   "cell": "0-1"
- },
- {
-  "id": "2026-11-16_italy-u20-switzerland-u20_1-0",
-  "date": "2026-11-16",
-  "ko": "15:00",
-  "match": "Italy U20 v Switzerland U20",
-  "cell": "1-0"
- },
- {
-  "id": "2026-11-16_kosovo-u21-luxembourg-u21_0-1",
-  "date": "2026-11-16",
-  "ko": "16:00",
-  "match": "Kosovo U21 v Luxembourg U21",
-  "cell": "0-1"
- },
- {
-  "id": "2026-11-16_kosovo-u21-luxembourg-u21_1-0",
-  "date": "2026-11-16",
-  "ko": "16:00",
-  "match": "Kosovo U21 v Luxembourg U21",
-  "cell": "1-0"
- },
- {
-  "id": "2026-11-16_somalia-ghana_1-2",
-  "date": "2026-11-16",
-  "ko": "16:00",
-  "match": "Somalia v Ghana",
-  "cell": "1-2"
- },
- {
-  "id": "2026-11-16_somalia-ghana_1-3",
-  "date": "2026-11-16",
-  "ko": "16:00",
-  "match": "Somalia v Ghana",
-  "cell": "1-3"
  }
 ]
