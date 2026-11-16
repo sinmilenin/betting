@@ -1,0 +1,78 @@
+MATCH Trinidad and Tobago v Antigua and Barbuda | fetched 2026-11-16 20:10 local
+
+FORM DATA Trinidad and Tobago v Antigua and Barbuda | source API-Football | 2026-11-16 20:10 UTC
+H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
+
+=== Trinidad and Tobago (id 5168): last 20 finished games ===
+2026-11-12 A 3-2 v Antigua and Barbuda | CONCACAF Nations League | Antigua | xG 1.61-0.72
+2026-10-04 H 1-1 v Curaçao | CONCACAF Nations League | Port of Spain | xG 1.50-1.99
+2026-10-01 A 0-1 v Curaçao | CONCACAF Nations League | Willemstad | xG 0.48-2.15
+2026-09-28 H 1-2 v Dominican Republic | CONCACAF Nations League | Port of Spain
+2026-09-25 A 2-3 v Haiti | CONCACAF Nations League | Kingston
+2026-07-26 A 0-1 v Louisville City | Friendlies | ?
+2026-06-09 A 0-3 v Russia | Friendlies | Kaliningrad
+2026-05-31 A 0-5 v South Korea | Friendlies | ?
+2026-03-30 H 2-2 v Gabon | FIFA Series | Tashkent [PEN, 90-min score shown]
+2026-03-27 A 1-4 v Venezuela | FIFA Series | Tashkent
+2026-03-15 A 0-3 v Bolivia | Friendlies | Santa Cruz
+2025-11-19 H 2-2 v Bermuda | World Cup - Qualification CONCACAF | Port of Spain
+2025-11-14 H 1-1 v Jamaica | World Cup - Qualification CONCACAF | Port of Spain
+2025-10-14 A 1-1 v Curaçao | World Cup - Qualification CONCACAF | Willemstad
+2025-10-10 A 3-0 v Bermuda | World Cup - Qualification CONCACAF | Hamilton
+2025-09-10 A 0-2 v Jamaica | World Cup - Qualification CONCACAF | Kingston
+2025-09-06 H 0-0 v Curaçao | World Cup - Qualification CONCACAF | Port of Spain
+2025-06-22 A 1-1 v Saudi Arabia | CONCACAF Gold Cup | Las Vegas, Nevada
+2025-06-19 H 1-1 v Haiti | CONCACAF Gold Cup | Houston, Texas
+2025-06-15 A 0-5 v USA | CONCACAF Gold Cup | San Jose, California
+Listed home: 7 games, scored 8 (1.14), conceded 9 (1.29), blanks 1, clean sheets 1
+Listed away: 13 games, scored 11 (0.85), conceded 31 (2.38), blanks 7, clean sheets 1
+All: 20 games, scored 19 (0.95), conceded 40 (2.00), blanks 8, clean sheets 2
+
+=== Antigua and Barbuda (id 5526): last 20 finished games ===
+2026-11-12 H 2-3 v Trinidad and Tobago | CONCACAF Nations League | Antigua | xG 0.72-1.61
+2026-10-06 H 3-2 v Aruba | CONCACAF Nations League | Antigua | xG 1.26-0.92
+2026-10-01 A 3-0 v Anguilla | CONCACAF Nations League | Antigua | xG 3.95-0.06
+2026-09-26 H 5-0 v Anguilla | CONCACAF Nations League | ?
+2026-09-23 A 0-1 v Aruba | CONCACAF Nations League | ?
+2025-11-18 H 1-4 v Guyana | CONCACAF Series | ?
+2025-11-12 H 0-0 v Aruba | CONCACAF Series | ?
+2025-06-11 A 0-2 v Honduras | World Cup - Qualification CONCACAF | Tegucigalpa
+2025-06-06 H 0-1 v Cuba | World Cup - Qualification CONCACAF | Piggotts
+2024-11-19 H 0-0 v Dominica | CONCACAF Nations League | Santiago De Los Caballeros
+2024-11-16 A 1-2 v Bermuda | CONCACAF Nations League | Santiago De Los Caballeros
+2024-10-15 A 0-5 v Dominican Republic | CONCACAF Nations League | Hamilton, Devonshire Parish
+2024-10-12 H 0-5 v Dominican Republic | CONCACAF Nations League | Hamilton, Devonshire Parish
+2024-09-10 H 0-1 v Bermuda | CONCACAF Nations League | Piggotts
+2024-09-07 A 1-2 v Dominica | CONCACAF Nations League | Piggotts
+2024-06-08 A 0-1 v Cayman Islands | World Cup - Qualification CONCACAF | George Town
+2024-06-05 H 1-1 v Bermuda | World Cup - Qualification CONCACAF | Piggotts
+2023-11-22 A 0-6 v Guyana | CONCACAF Nations League | San Cristóbal
+2023-11-18 H 2-3 v Puerto Rico | CONCACAF Nations League | Piggotts
+2023-10-17 H 2-2 v Bahamas | CONCACAF Nations League | Piggotts
+Listed home: 12 games, scored 16 (1.33), conceded 22 (1.83), blanks 5, clean sheets 3
+Listed away: 8 games, scored 5 (0.62), conceded 19 (2.38), blanks 5, clean sheets 1
+All: 20 games, scored 21 (1.05), conceded 41 (2.05), blanks 10, clean sheets 4
+
+TABLE FOR Trinidad and Tobago
+LEAGUE TABLE World Cup - Qualification CONCACAF 2026 | 12 teams | 36 games played
+League averages per game: home 1.36, away 1.11, total 2.47
+#   team                   Pts | home P GF-GA  | away P GF-GA  | all P GF-GA
+1   Panama                  12 |  3   5-2       |  3   4-2       |  6   9-4 [Group A]
+2   Suriname                 9 |  3   5-1       |  3   4-5       |  6   9-6 [Group A]
+3   Guatemala                8 |  3   5-5       |  3   3-2       |  6   8-7 [Group A]
+4   El Salvador              3 |  3   1-4       |  3   1-7       |  6   2-11 [Group A]
+1   Curaçao                 12 |  3   6-3       |  3   7-0       |  6  13-3 [Group B]
+2   Jamaica                 11 |  3   6-0       |  3   5-3       |  6  11-3 [Group B]
+3   Trinidad and Tobago      7 |  3   3-3       |  3   4-3       |  6   7-6 [Group B]
+4   Bermuda                  1 |  3   0-14      |  3   4-9       |  6   4-23 [Group B]
+1   Haiti                   11 |  3   3-0       |  3   6-6       |  6   9-6 [Group C]
+2   Honduras                 9 |  3   5-0       |  3   0-2       |  6   5-2 [Group C]
+3   Costa Rica               7 |  3   7-4       |  3   1-2       |  6   8-6 [Group C]
+4   Nicaragua                4 |  3   3-4       |  3   1-8       |  6   4-12 [Group C]
+
+(no league table available for Antigua and Barbuda: tried CONCACAF Nations League 2025, CONCACAF Series 2026, World Cup - Qualification CONCACAF 2026, CONCACAF Nations League 2024)
+
+(29 API-Football requests used)
+
+----------------------------------------------------------------------
+MATCHBOOK: skipped (switched off for this run)
