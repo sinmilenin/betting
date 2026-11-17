@@ -21,18 +21,102 @@
   "cell": "0-1"
  },
  {
-  "id": "2026-11-17_montenegro-u19-serbia-u19_1-2",
+  "id": "2026-11-17_gambia-ivory-coast_0-1",
   "date": "2026-11-17",
-  "ko": "16:00",
-  "match": "Montenegro U19 v Serbia U19",
+  "ko": "17:00",
+  "match": "Gambia v Ivory Coast",
+  "cell": "0-1"
+ },
+ {
+  "id": "2026-11-17_guinea-bissau-madagascar_0-1",
+  "date": "2026-11-17",
+  "ko": "17:00",
+  "match": "Guinea-Bissau v Madagascar",
+  "cell": "0-1"
+ },
+ {
+  "id": "2026-11-17_guinea-bissau-madagascar_1-0",
+  "date": "2026-11-17",
+  "ko": "17:00",
+  "match": "Guinea-Bissau v Madagascar",
+  "cell": "1-0"
+ },
+ {
+  "id": "2026-11-17_jordan-australia_0-1",
+  "date": "2026-11-17",
+  "ko": "17:00",
+  "match": "Jordan v Australia",
+  "cell": "0-1"
+ },
+ {
+  "id": "2026-11-17_jordan-australia_1-0",
+  "date": "2026-11-17",
+  "ko": "17:00",
+  "match": "Jordan v Australia",
+  "cell": "1-0"
+ },
+ {
+  "id": "2026-11-17_kenya-south-africa_0-1",
+  "date": "2026-11-17",
+  "ko": "17:00",
+  "match": "Kenya v South Africa",
+  "cell": "0-1"
+ },
+ {
+  "id": "2026-11-17_kenya-south-africa_1-0",
+  "date": "2026-11-17",
+  "ko": "17:00",
+  "match": "Kenya v South Africa",
+  "cell": "1-0"
+ },
+ {
+  "id": "2026-11-17_kenya-south-africa_1-2",
+  "date": "2026-11-17",
+  "ko": "17:00",
+  "match": "Kenya v South Africa",
   "cell": "1-2"
  },
  {
-  "id": "2026-11-17_saudi-arabia-uzbekistan_0-1",
+  "id": "2026-11-17_libya-tunisia_0-1",
   "date": "2026-11-17",
-  "ko": "16:30",
-  "match": "Saudi Arabia v Uzbekistan",
+  "ko": "17:00",
+  "match": "Libya v Tunisia",
   "cell": "0-1"
+ },
+ {
+  "id": "2026-11-17_libya-tunisia_1-2",
+  "date": "2026-11-17",
+  "ko": "17:00",
+  "match": "Libya v Tunisia",
+  "cell": "1-2"
+ },
+ {
+  "id": "2026-11-17_sierra-leone-dr-congo_0-1",
+  "date": "2026-11-17",
+  "ko": "17:00",
+  "match": "Sierra Leone v DR Congo",
+  "cell": "0-1"
+ },
+ {
+  "id": "2026-11-17_sierra-leone-dr-congo_1-2",
+  "date": "2026-11-17",
+  "ko": "17:00",
+  "match": "Sierra Leone v DR Congo",
+  "cell": "1-2"
+ },
+ {
+  "id": "2026-11-17_togo-algeria_0-1",
+  "date": "2026-11-17",
+  "ko": "17:00",
+  "match": "Togo v Algeria",
+  "cell": "0-1"
+ },
+ {
+  "id": "2026-11-17_togo-algeria_1-0",
+  "date": "2026-11-17",
+  "ko": "17:00",
+  "match": "Togo v Algeria",
+  "cell": "1-0"
  },
  {
   "id": "2026-11-17_uae-syria_2-1",
