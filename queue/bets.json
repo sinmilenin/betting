@@ -1,35 +1,13 @@
 [
   {
-    "id": "2026-11-16_somalia-ghana_1-3",
-    "date": "2026-11-16",
-    "ko": "16:00",
-    "match": "Somalia v Ghana",
-    "comp": "International, CAF African Cup of Nations Qualifiers",
-    "cell": "1-3",
-    "lay": 19.5,
+    "id": "2026-11-17_japan-paraguay_1-0",
+    "date": "2026-11-17",
+    "ko": "14:10",
+    "match": "Japan v Paraguay",
+    "comp": "International, Friendlies International",
+    "cell": "1-0",
+    "lay": 9.0,
     "stake": 3,
-    "created": "2026-11-16T08:33:40Z"
-  },
-  {
-    "id": "2026-11-16_perugia-sassari-torres_2-2",
-    "date": "2026-11-16",
-    "ko": "20:45",
-    "match": "Perugia v Sassari Torres",
-    "comp": "Italy, Italian Serie C",
-    "cell": "2-2",
-    "lay": 15.5,
-    "stake": 3,
-    "created": "2026-11-16T17:27:22Z"
-  },
-  {
-    "id": "2026-11-16_santiago-morning-deportes-rengo-unido_2-1",
-    "date": "2026-11-16",
-    "ko": "21:30",
-    "match": "Santiago Morning v Deportes Rengo Unido",
-    "comp": "Chile, Chilean Segunda Division",
-    "cell": "2-1",
-    "lay": 9.2,
-    "stake": 3,
-    "created": "2026-11-16T20:13:47Z"
+    "created": "2026-11-17T12:14:04Z"
   }
 ]
