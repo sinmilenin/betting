@@ -1,0 +1,114 @@
+MATCH Libya v Tunisia | fetched 2026-11-17 15:53 local
+
+FORM DATA Libya v Tunisia | source API-Football | 2026-11-17 15:54 UTC
+H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
+
+=== Libya (id 1526): last 20 finished games ===
+2026-11-13 A 2-0 v Tunisia | Africa Cup of Nations - Qualification | ? | xG 1.53-1.02
+2026-09-29 A 0-1 v Uganda | Africa Cup of Nations - Qualification | Hoima
+2026-09-24 H 2-2 v Botswana | Africa Cup of Nations - Qualification | Tripoli
+2026-03-31 A 2-2 v Liberia | Friendlies | Casablanca
+2026-03-27 H 0-0 v Niger | Friendlies | Casablanca
+2025-11-25 A 0-0 v Palestine | Arab Cup | ? [PEN, 90-min score shown]
+2025-11-15 H 1-0 v Mauritania | Friendlies | Benghazi
+2025-10-13 A 0-0 v Mauritius | World Cup - Qualification Africa | St Pierre
+2025-10-08 H 3-3 v Cape Verde Islands | World Cup - Qualification Africa | Tripoli
+2025-09-08 H 2-0 v Eswatini | World Cup - Qualification Africa | Benghazi
+2025-09-04 A 1-0 v Angola | World Cup - Qualification Africa | Luanda
+2025-03-25 A 1-3 v Cameroon | World Cup - Qualification Africa | Douala
+2025-03-20 H 1-1 v Angola | World Cup - Qualification Africa | Tripoli
+2024-11-18 H 0-0 v Benin | Africa Cup of Nations - Qualification | Tripoli
+2024-11-14 A 1-0 v Rwanda | Africa Cup of Nations - Qualification | Kigali
+2024-10-11 A 0-1 v Nigeria | Africa Cup of Nations - Qualification | Uyo
+2024-09-10 A 1-2 v Benin | Africa Cup of Nations - Qualification | Abidjan
+2024-09-04 H 1-1 v Rwanda | Africa Cup of Nations - Qualification | Tripoli
+2024-06-11 A 0-1 v Cape Verde Islands | World Cup - Qualification Africa | Praia
+2024-06-06 H 2-1 v Mauritius | World Cup - Qualification Africa | Benghazi
+Listed home: 9 games, scored 12 (1.33), conceded 8 (0.89), blanks 2, clean sheets 4
+Listed away: 11 games, scored 8 (0.73), conceded 10 (0.91), blanks 5, clean sheets 5
+All: 20 games, scored 20 (1.00), conceded 18 (0.90), blanks 7, clean sheets 9
+
+=== Tunisia (id 28): last 20 finished games ===
+2026-11-13 H 0-2 v Libya | Africa Cup of Nations - Qualification | ? | xG 1.02-1.53
+2026-09-28 H 2-2 v Botswana | Africa Cup of Nations - Qualification | ?
+2026-09-24 H 1-1 v Uganda | Africa Cup of Nations - Qualification | ?
+2026-06-25 H 1-3 v Netherlands | World Cup | Kansas City | xG 0.62-1.85
+2026-06-21 H 0-4 v Japan | World Cup | Monterrey | xG 0.05-2.13
+2026-06-15 A 1-5 v Sweden | World Cup | Monterrey | xG 0.28-1.33
+2026-06-06 A 0-5 v Belgium | Friendlies | Brussels
+2026-06-01 A 0-1 v Austria | Friendlies | Vienna
+2026-03-31 A 0-0 v Canada | Friendlies | ?
+2026-03-29 A 1-0 v Haiti | Friendlies | ?
+2026-01-03 A 1-1 v Mali | Africa Cup of Nations | Casablanca [PEN, 90-min score shown]
+2025-12-30 A 1-1 v Tanzania | Africa Cup of Nations | Rabat
+2025-12-27 A 2-3 v Nigeria | Africa Cup of Nations | Fès
+2025-12-23 H 3-1 v Uganda | Africa Cup of Nations | Rabat
+2025-12-07 A 3-0 v Qatar | Arab Cup | Al Khor
+2025-12-04 A 2-2 v Palestine | Arab Cup | Lusail
+2025-12-01 H 0-1 v Syria | Arab Cup | Al Rayyan
+2025-11-18 A 1-1 v Brazil | Friendlies | Lille
+2025-11-14 H 3-2 v Jordan | Friendlies | Rades
+2025-11-12 H 1-1 v Mauritania | Friendlies | ?
+Listed home: 9 games, scored 11 (1.22), conceded 17 (1.89), blanks 3, clean sheets 0
+Listed away: 11 games, scored 12 (1.09), conceded 19 (1.73), blanks 3, clean sheets 3
+All: 20 games, scored 23 (1.15), conceded 36 (1.80), blanks 6, clean sheets 3
+
+TABLE FOR Libya
+LEAGUE TABLE Africa Cup of Nations - Qualification 2027 | 48 teams | 83 games played
+League averages per game: home 1.58, away 1.08, total 2.66
+#   team                   Pts | home P GF-GA  | away P GF-GA  | all P GF-GA
+1   Morocco                  9 |  2   7-1       |  1   2-0       |  3   9-1 [Group A]
+2   Gabon                    6 |  2   4-0       |  2   1-4       |  4   5-4 [Group A]
+3   Niger                    3 |  1   2-1       |  2   1-7       |  3   3-8 [Group A]
+4   Lesotho                  3 |  2   2-3       |  2   1-4       |  4   3-7 [Group A]
+1   Angola                  10 |  2   5-1       |  2   1-0       |  4   6-1 [Group B]
+2   Egypt                    8 |  2   5-0       |  2   5-0       |  4  10-0 [Group B]
+3   Malawi                   4 |  2   2-1       |  2   1-8       |  4   3-9 [Group B]
+4   South Sudan              0 |  2   0-6       |  2   1-4       |  4   1-10 [Group B]
+1   Ivory Coast              9 |  2   4-1       |  1   2-0       |  3   6-1 [Group C]
+2   Gambia                   6 |  1   2-1       |  2   5-4       |  3   7-5 [Group C]
+3   Ghana                    6 |  2   4-4       |  2   1-2       |  4   5-6 [Group C]
+4   Somalia                  0 |  2   0-3       |  2   1-4       |  4   1-7 [Group C]
+1   Guinea                   9 |  2   3-1       |  2   4-3       |  4   7-4 [Group D]
+2   South Africa             7 |  2   4-3       |  1   5-0       |  3   9-3 [Group D]
+3   Kenya                    2 |  1   1-1       |  2   2-3       |  3   3-4 [Group D]
+4   Eritrea                  1 |  2   1-8       |  2   2-3       |  4   3-11 [Group D]
+1   Congo DR                 9 |  2   5-1       |  1   2-1       |  3   7-2 [Group E]
+2   Zimbabwe                 7 |  2   4-2       |  2   3-2       |  4   7-4 [Group E]
+3   Equatorial Guinea        4 |  2   1-0       |  2   0-5       |  4   1-5 [Group E]
+4   Sierra Leone             0 |  1   2-3       |  2   1-4       |  3   3-7 [Group E]
+1   Benin                   10 |  2   6-2       |  2   2-1       |  4   8-3 [Group F]
+2   Burkina Faso             7 |  2   2-1       |  1   1-0       |  3   3-1 [Group F]
+3   Mauritania               3 |  1   3-1       |  2   1-3       |  3   4-4 [Group F]
+4   Central African Republ   0 |  2   0-2       |  2   2-7       |  4   2-9 [Group F]
+1   Cameroon                10 |  2   5-1       |  2   4-1       |  4   9-2 [Group G]
+2   Comoros                  4 |  2   1-0       |  1   1-3       |  3   2-3 [Group G]
+3   Namibia                  3 |  2   1-3       |  2   0-3       |  4   1-6 [Group G]
+4   Congo                    2 |  1   1-1       |  2   0-1       |  3   1-2 [Group G]
+1   Uganda                   5 |  2   2-1       |  1   1-1       |  3   3-2 [Group H]
+2   Libya                    4 |  1   2-2       |  2   2-1       |  3   4-3 [Group H]
+3   Botswana                 3 |  0   0-0       |  3   5-5       |  3   5-5 [Group H]
+4   Tunisia                  2 |  3   3-5       |  0   0-0       |  3   3-5 [Group H]
+1   Algeria                  7 |  2   4-1       |  1   2-2       |  3   6-3 [Group I]
+2   Zambia                   5 |  2   3-1       |  2   2-4       |  4   5-5 [Group I]
+3   Togo                     3 |  1   1-0       |  2   0-3       |  3   1-3 [Group I]
+4   Burundi                  3 |  2   3-3       |  2   1-2       |  4   4-5 [Group I]
+1   Senegal                 10 |  1   4-1       |  3   6-3       |  4  10-4 [Group J]
+2   Mozambique               7 |  3   5-3       |  1   1-0       |  4   6-3 [Group J]
+3   Sudan                    3 |  2   3-4       |  2   2-8       |  4   5-12 [Group J]
+4   Ethiopia                 3 |  2   0-2       |  2   1-1       |  4   1-3 [Group J]
+1   Mali                     9 |  2   6-3       |  1   1-0       |  3   7-3 [Group K]
+2   Rwanda                   6 |  1   3-1       |  2   4-4       |  3   7-5 [Group K]
+3   Cape Verde Islands       3 |  2   5-4       |  1   1-3       |  3   6-7 [Group K]
+4   Liberia                  0 |  1   0-1       |  2   3-7       |  3   3-8 [Group K]
+1   Guinea-Bissau            7 |  1   3-0       |  2   3-1       |  3   6-1 [Group L]
+2   Nigeria                  6 |  2   5-2       |  1   0-3       |  3   5-5 [Group L]
+3   Madagascar               2 |  2   2-2       |  1   1-2       |  3   3-4 [Group L]
+4   Tanzania                 1 |  1   0-2       |  2   2-4       |  3   2-6 [Group L]
+
+(Tunisia: same table as Libya, shown above)
+
+(24 API-Football requests used)
+
+----------------------------------------------------------------------
+MATCHBOOK: skipped (switched off for this run)
