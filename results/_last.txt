@@ -1,10 +1,7 @@
-RESULTS 2026-11-17 16:35 UTC | 9 rows | dates 2026-11-15, 2026-11-16, 2026-11-17 | API-Football requests 3
+RESULTS 2026-11-17 17:35 UTC | 6 rows | dates 2026-11-15, 2026-11-16, 2026-11-17 | API-Football requests 3
 not_found    19:00 Universidad Guadalajara v Club Atletico Morelia    2-2   -    -> -  [ , conf 0.00] no API-Football fixture on 2026-11-15 within 90 min of 19:00 with matching names
 final        21:15 Cesar Vallejo Moquegua v Atletico Grau             1-0   2-1  -> won  [UCV Moquegua v Atletico Grau FT, conf 0.67] 
 not_found    11:00 FK UCSA Tarasivka v Zhytomyr 2                     0-1   -    -> -  [ , conf 0.00] no API-Football fixture on 2026-11-16 within 90 min of 11:00 with matching names
-final        15:00 India v Pakistan                                   0-1   2-1  -> won  [India v Pakistan FT, conf 1.00] 
-final        15:00 India v Pakistan                                   2-2   2-1  -> won  [India v Pakistan FT, conf 1.00] 
-final        15:00 Qatar v South Korea                                0-1   0-1  -> lost  [Qatar v South Korea FT, conf 1.00] 
-final        15:00 Qatar v South Korea                                1-2   0-1  -> won  [Qatar v South Korea FT, conf 1.00] 
-final        15:00 Qatar v South Korea                                AOAW  0-1  -> won  [Qatar v South Korea FT, conf 1.00] 
+final        16:00 Montenegro U19 v Serbia U19                        1-2   3-2  -> won  [Montenegro U19 v Serbia U19 FT, conf 1.00] 
+final        16:30 Saudi Arabia v Uzbekistan                          0-1   1-2  -> won  [Saudi Arabia v Uzbekistan FT, conf 1.00] 
 not_found    15:10 UAE v Syria                                        2-1   -    -> -  [ , conf 0.00] no API-Football fixture on 2026-11-17 within 90 min of 15:10 with matching names
