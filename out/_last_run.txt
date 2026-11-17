@@ -1,3 +1,6 @@
-RUN 2026-11-17 13:42 local | 1 match(es)
-id:1513 v Madagascar -> out/id_1513_v_Madagascar.txt
-Requests used: API-Football 25, Matchbook 0
+RUN 2026-11-17 14:24 local | 4 match(es)
+Lithuania U19 v Germany U19 -> out/Lithuania_U19_v_Germany_U19.txt
+Iraq v Iran -> out/Iraq_v_Iran.txt
+Koprivnica v Solin -> out/Koprivnica_v_Solin.txt
+Croatia U21 v Germany U21 -> out/Croatia_U21_v_Germany_U21.txt
+Requests used: API-Football 101, Matchbook 0

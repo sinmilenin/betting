@@ -1,0 +1,126 @@
+MATCH Croatia U21 v Germany U21 | fetched 2026-11-17 14:24 local
+
+FORM DATA Croatia U21 v Germany U21 | source API-Football | 2026-11-17 14:24 UTC
+H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
+
+=== Croatia U21 (id 8186): last 20 finished games ===
+2026-10-06 A 1-0 v Lithuania U21 | UEFA U21 Championship - Qualification | Druskininkai
+2026-10-02 A 0-1 v Ukraine U21 | UEFA U21 Championship - Qualification | Miskolc
+2026-09-26 H 3-1 v Hungary U21 | UEFA U21 Championship - Qualification | ?
+2026-06-06 H 2-2 v Republic of Ireland U21 | Friendlies | Vrbovec
+2026-06-03 H 2-0 v Qatar U23 | Friendlies | Krizevci
+2026-05-30 H 1-1 v Greece U21 | Friendlies | Koprivnica
+2026-03-31 H 3-0 v Turkey U21 | UEFA U21 Championship - Qualification | Osijek
+2025-11-18 A 2-0 v Hungary U21 | UEFA U21 Championship - Qualification | Budapest
+2025-11-13 H 4-0 v Lithuania U21 | UEFA U21 Championship - Qualification | Velika Gorica
+2025-10-14 H 1-0 v Ukraine U21 | UEFA U21 Championship - Qualification | Velika Gorica
+2025-09-09 A 1-1 v Turkey U21 | UEFA U21 Championship - Qualification | Trabzon
+2024-11-19 H 3-2 v Georgia U21 | UEFA U21 Championship - Qualification | Rijeka [PEN, 90-min score shown]
+2024-11-15 A 0-1 v Georgia U21 | UEFA U21 Championship - Qualification | Tbilisi
+2024-10-15 H 3-2 v Greece U21 | UEFA U21 Championship - Qualification | Koprivnica
+2024-10-11 H 2-0 v Andorra U21 | UEFA U21 Championship - Qualification | Koprivnica
+2024-09-10 H 0-2 v Portugal U21 | UEFA U21 Championship - Qualification | Karlovac
+2024-09-05 H 2-1 v Faroe Islands U21 | UEFA U21 Championship - Qualification | Zagreb
+2024-03-26 A 1-5 v Portugal U21 | UEFA U21 Championship - Qualification | Faro
+2024-03-21 A 3-0 v Andorra U21 | UEFA U21 Championship - Qualification | Andorra la Vella
+2023-11-20 A 1-0 v Belarus U21 | UEFA U21 Championship - Qualification | Armavir
+Listed home: 12 games, scored 26 (2.17), conceded 11 (0.92), blanks 1, clean sheets 5
+Listed away: 8 games, scored 9 (1.12), conceded 8 (1.00), blanks 2, clean sheets 4
+All: 20 games, scored 35 (1.75), conceded 19 (0.95), blanks 3, clean sheets 9
+
+=== Germany U21 (id 8196): last 20 finished games ===
+2026-11-13 H 1-2 v Belgium U21 | Friendlies | Essen
+2026-10-06 H 2-0 v Georgia U21 | UEFA U21 Championship - Qualification | Bielefeld
+2026-09-30 A 4-1 v Malta U21 | UEFA U21 Championship - Qualification | ?
+2026-09-26 A 4-0 v Latvia U21 | UEFA U21 Championship - Qualification | Riga
+2026-03-31 A 2-0 v Greece U21 | UEFA U21 Championship - Qualification | Athens
+2026-03-27 H 3-0 v Northern Ireland U21 | UEFA U21 Championship - Qualification | Braunschweig
+2025-11-18 A 2-0 v Georgia U21 | UEFA U21 Championship - Qualification | Tbilisi
+2025-11-14 H 6-0 v Malta U21 | UEFA U21 Championship - Qualification | ?
+2025-10-14 A 2-1 v Northern Ireland U21 | UEFA U21 Championship - Qualification | Belfast
+2025-10-10 H 2-3 v Greece U21 | UEFA U21 Championship - Qualification | Jena
+2025-09-09 H 5-0 v Latvia U21 | UEFA U21 Championship - Qualification | Rostock
+2025-09-05 A 2-0 v Albania U21 | Friendlies | ?
+2025-06-28 A 2-2 v England U21 | UEFA U21 Championship | Bratislava [AET, 90-min score shown]
+2025-06-25 H 3-0 v France U21 | UEFA U21 Championship | Košice
+2025-06-22 H 2-2 v Italy U21 | UEFA U21 Championship | Dunajská Streda [AET, 90-min score shown]
+2025-06-18 A 2-1 v England U21 | UEFA U21 Championship | Nitra
+2025-06-15 A 4-2 v Czech Republic U21 | UEFA U21 Championship | Dunajská Streda
+2025-06-12 H 3-0 v Slovenia U21 | UEFA U21 Championship | Nitra
+2024-10-15 A 3-3 v Poland U21 | UEFA U21 Championship - Qualification | Łódź
+2024-10-11 H 2-1 v Bulgaria U21 | UEFA U21 Championship - Qualification | Regensburg
+Listed home: 10 games, scored 29 (2.90), conceded 8 (0.80), blanks 0, clean sheets 6
+Listed away: 10 games, scored 27 (2.70), conceded 10 (1.00), blanks 0, clean sheets 4
+All: 20 games, scored 56 (2.80), conceded 18 (0.90), blanks 0, clean sheets 10
+
+TABLE FOR Croatia U21
+LEAGUE TABLE UEFA U21 Championship - Qualification 2027 | 60 teams | 240 games played
+League averages per game: home 1.74, away 1.45, total 3.19
+#   team                   Pts | home P GF-GA  | away P GF-GA  | all P GF-GA
+1   Spain U21               27 |  5  21-2       |  5  26-3       | 10  47-5 [Group A]
+2   Finland U21             23 |  5  14-1       |  5  20-6       | 10  34-7 [Group A]
+3   Romania U21             16 |  5   5-4       |  5   7-9       | 10  12-13 [Group A]
+4   Kosovo U21              15 |  5  14-9       |  5   7-2       | 10  21-11 [Group A]
+5   Cyprus U21               6 |  5   2-19      |  5   6-10      | 10   8-29 [Group A]
+6   San Marino U21           0 |  5   0-31      |  5   0-26      | 10   0-57 [Group A]
+1   Portugal U21            25 |  5  17-0       |  5  18-2       | 10  35-2 [Group B]
+2   Czechia U21             18 |  5  13-0       |  5   4-6       | 10  17-6 [Group B]
+3   Scotland U21            17 |  5  18-4       |  5   7-8       | 10  25-12 [Group B]
+4   Bulgaria U21            14 |  5   7-4       |  5   2-6       | 10   9-10 [Group B]
+5   Azerbaijan U21          10 |  5   8-9       |  5   3-15      | 10  11-24 [Group B]
+6   Gibraltar U21            0 |  5   1-17      |  5   0-27      | 10   1-44 [Group B]
+1   France U21              26 |  5  19-5       |  5  15-3       | 10  34-8 [Group C]
+2   Iceland U21             18 |  5  15-7       |  5   7-4       | 10  22-11 [Group C]
+3   Switzerland U21         17 |  5   9-2       |  5   8-15      | 10  17-17 [Group C]
+4   Faroe Islands U21       12 |  5   3-13      |  5   5-4       | 10   8-17 [Group C]
+5   Luxembourg U21          10 |  5   7-10      |  5   6-12      | 10  13-22 [Group C]
+6   Estonia U21              2 |  5   4-9       |  5   5-19      | 10   9-28 [Group C]
+1   England U21             23 |  5  11-3       |  5  12-4       | 10  23-7 [Group D]
+2   Republic of Ireland U2  20 |  5  11-7       |  5   5-7       | 10  16-14 [Group D]
+3   Slovakia U21            20 |  5   7-7       |  5  10-6       | 10  17-13 [Group D]
+4   Moldova U21              9 |  5   9-11      |  5   3-8       | 10  12-19 [Group D]
+5   Andorra U21              8 |  5   7-3       |  5   0-9       | 10   7-12 [Group D]
+6   Kazakhstan U21           4 |  5   3-7       |  5   8-14      | 10  11-21 [Group D]
+1   Italy U21               27 |  5  21-4       |  5  11-3       | 10  32-7 [Group E]
+2   Poland U21              27 |  5  14-2       |  5  14-6       | 10  28-8 [Group E]
+3   Sweden U21              13 |  5   7-12      |  5   5-10      | 10  12-22 [Group E]
+4   Montenegro U21          12 |  5   7-8       |  5   6-8       | 10  13-16 [Group E]
+5   North Macedonia U21      7 |  5   4-8       |  5   4-12      | 10   8-20 [Group E]
+6   Armenia U21              1 |  5   1-10      |  5   4-15      | 10   5-25 [Group E]
+1   Germany U21             27 |  5  18-3       |  5  14-2       | 10  32-5 [Group F]
+2   Greece U21              27 |  5  16-4       |  5  13-2       | 10  29-6 [Group F]
+3   Northern Ireland U21    14 |  5   5-4       |  5   8-9       | 10  13-13 [Group F]
+4   Georgia U21             10 |  5   6-8       |  5   7-7       | 10  13-15 [Group F]
+5   Latvia U21               8 |  5   4-9       |  5   4-11      | 10   8-20 [Group F]
+6   Malta U21                0 |  5   1-19      |  5   1-19      | 10   2-38 [Group F]
+1   Norway U21              17 |  4  15-4       |  4   4-2       |  8  19-6 [Group G]
+2   Netherlands U21         12 |  4   8-2       |  4   7-8       |  8  15-10 [Group G]
+3   Israel U21              11 |  4   4-5       |  4   6-5       |  8  10-10 [Group G]
+4   Bosnia-Herzegovina U21   7 |  4   0-1       |  4   3-10      |  8   3-11 [Group G]
+5   Slovenia U21             5 |  4   6-9       |  4   1-8       |  8   7-17 [Group G]
+1   Croatia U21             19 |  4  11-1       |  4   4-2       |  8  15-3 [Group H]
+2   Turkey U21              13 |  4   4-1       |  4   5-7       |  8   9-8 [Group H]
+3   Ukraine U21             12 |  4   7-6       |  4   6-3       |  8  13-9 [Group H]
+4   Hungary U21              7 |  4   4-6       |  4   5-7       |  8   9-13 [Group H]
+5   Lithuania U21            2 |  4   2-8       |  4   2-9       |  8   4-17 [Group H]
+1   Belgium U21             17 |  4   5-0       |  4   8-2       |  8  13-2 [Group I]
+2   Denmark U21             15 |  4   7-1       |  4   8-5       |  8  15-6 [Group I]
+3   Austria U21             14 |  4   4-4       |  4  11-5       |  8  15-9 [Group I]
+4   Wales U21                6 |  4   5-20      |  4   2-8       |  8   7-28 [Group I]
+5   Belarus U21              4 |  4   6-5       |  4   1-7       |  8   7-12 [Group I]
+1   Poland U21              21 |  0   0-0       |  0   0-0       |  8  20-7 [Ranking of second-placed teams]
+2   Greece U21              21 |  0   0-0       |  0   0-0       |  8  19-6 [Ranking of second-placed teams]
+3   Finland U21             17 |  0   0-0       |  0   0-0       |  8  19-7 [Ranking of second-placed teams]
+4   Denmark U21             15 |  0   0-0       |  0   0-0       |  8  15-6 [Ranking of second-placed teams]
+5   Iceland U21             14 |  0   0-0       |  0   0-0       |  8  15-8 [Ranking of second-placed teams]
+6   Republic of Ireland U2  14 |  0   0-0       |  0   0-0       |  8  11-11 [Ranking of second-placed teams]
+7   Turkey U21              13 |  0   0-0       |  0   0-0       |  8   9-8 [Ranking of second-placed teams]
+8   Netherlands U21         12 |  0   0-0       |  0   0-0       |  8  15-10 [Ranking of second-placed teams]
+9   Czechia U21             12 |  0   0-0       |  0   0-0       |  8  10-5 [Ranking of second-placed teams]
+
+(Germany U21: same table as Croatia U21, shown above)
+
+(25 API-Football requests used)
+
+----------------------------------------------------------------------
+MATCHBOOK: skipped (switched off for this run)
