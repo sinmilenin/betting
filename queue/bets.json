@@ -31,5 +31,16 @@
     "lay": 11.0,
     "stake": 3,
     "created": "2026-11-17T13:47:00Z"
+  },
+  {
+    "id": "2026-11-17_croatia-u21-germany-u21_0-1",
+    "date": "2026-11-17",
+    "ko": "18:00",
+    "match": "Croatia U21 v Germany U21",
+    "comp": "International, Friendlies International U21",
+    "cell": "0-1",
+    "lay": 11.5,
+    "stake": 3,
+    "created": "2026-11-17T14:28:00Z"
   }
 ]
