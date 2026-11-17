@@ -49,16 +49,16 @@
   "id": "2026-11-17_new-mexico-united-sacramento-republic_0-1",
   "match": "New Mexico United v Sacramento Republic",
   "cell": "0-1",
-  "state": "not_finished",
-  "score": "",
-  "result": "",
+  "state": "final",
+  "score": "1-1",
+  "result": "won",
   "api": "New Mexico United v Sacramento Republic",
-  "status": "BT",
+  "status": "AET",
   "api_ko": "03:00",
   "fixture": 1649528,
   "swapped": false,
   "conf": 1.0,
-  "note": "status BT",
+  "note": "went to AET; score is after 90 minutes",
   "league": "USA, USL Championship"
  }
 ]
