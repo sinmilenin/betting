@@ -1,17 +1,21 @@
-MATCH Saint Lucia v Barbados | fetched 2026-11-17 16:39 local
+MATCH Lucia v Barbados | fetched 2026-11-17 16:41 local
 
-FORM DATA Saint Lucia v Barbados | source API-Football | 2026-11-17 16:39 UTC
+FORM DATA Lucia v Barbados | source API-Football | 2026-11-17 16:41 UTC
 H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
 
-=== Saint Lucia U17 W (id 27428): last 4 finished games ===
-2026-02-02 A 0-3 v Cayman Islands W U17 | CONCACAF Women U17 | ?
-2026-01-31 H 3-5 v Antigua and Barbuda U17 W | CONCACAF Women U17 | ?
-2026-01-29 A 0-0 v Guatemala W U17 | CONCACAF Women U17 | ?
-2026-01-27 H 0-5 v Haiti W U17 | CONCACAF Women U17 | ?
-Listed home: 2 games, scored 3 (1.50), conceded 10 (5.00), blanks 1, clean sheets 0
-Listed away: 2 games, scored 0 (0.00), conceded 3 (1.50), blanks 2, clean sheets 1
-All: 4 games, scored 3 (0.75), conceded 13 (3.25), blanks 3, clean sheets 1
-
+"Lucia" matches several teams. Use id:<number> instead of the name:
+  id:3651   Santa Lucía (Malta)
+  id:5540   St. Lucia (Saint-Lucia) national
+  id:10141  Santa Lucía (Guatemala)
+  id:11016  St. Lucia U20 (Saint-Lucia) national
+  id:17881  St. Lucia U23 (Saint-Lucia) national
+  id:19356  Wanderers Santa Lucia (Uruguay)
+  id:21216  St. Lucia W (Saint-Lucia) national
+  id:22028  B1 Castries (Saint-Lucia)
+  id:24051  Bays (Saint-Lucia)
+  id:25547  St. Lucia U17 (Saint-Lucia) national
+  id:26422  La Clery FL (Saint-Lucia)
+  id:27428  Saint Lucia U17 W (Saint-Lucia)
 === Barbados (id 5527): last 20 finished games ===
 2026-11-12 H 0-3 v Guadeloupe | CONCACAF Nations League | Guadalupe | xG 1.09-3.48
 2026-10-06 A 2-1 v Bermuda | CONCACAF Nations League | Bridgetown
@@ -37,11 +41,25 @@ Listed home: 11 games, scored 23 (2.09), conceded 22 (2.00), blanks 2, clean she
 Listed away: 9 games, scored 17 (1.89), conceded 15 (1.67), blanks 2, clean sheets 3
 All: 20 games, scored 40 (2.00), conceded 37 (1.85), blanks 4, clean sheets 5
 
-(no league table available for Saint Lucia U17 W: tried CONCACAF Women U17 2026)
+(retrying Lucia using the opponent's country, Barbados)
+"Lucia" matches several teams. Use id:<number> instead of the name:
+  id:3651   Santa Lucía (Malta)
+  id:5540   St. Lucia (Saint-Lucia) national
+  id:10141  Santa Lucía (Guatemala)
+  id:11016  St. Lucia U20 (Saint-Lucia) national
+  id:17881  St. Lucia U23 (Saint-Lucia) national
+  id:19356  Wanderers Santa Lucia (Uruguay)
+  id:21216  St. Lucia W (Saint-Lucia) national
+  id:22028  B1 Castries (Saint-Lucia)
+  id:24051  Bays (Saint-Lucia)
+  id:25547  St. Lucia U17 (Saint-Lucia) national
+  id:26422  La Clery FL (Saint-Lucia)
+  id:27428  Saint Lucia U17 W (Saint-Lucia)
+!! Lucia: Ambiguous team name "Lucia".
 
 (no league table available for Barbados: tried CONCACAF Nations League 2025, CONCACAF Series 2026, World Cup - Qualification CONCACAF 2026)
 
-(22 API-Football requests used)
+(17 API-Football requests used)
 
 ----------------------------------------------------------------------
 MATCHBOOK: skipped (switched off for this run)

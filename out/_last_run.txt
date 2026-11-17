@@ -1,8 +1,4 @@
-RUN 2026-11-17 16:39 local | 6 match(es)
-Saint Lucia v Barbados -> out/Saint_Lucia_v_Barbados.txt
-Rwanda v Mali -> out/Rwanda_v_Mali.txt
-Congo v Comoros -> out/Congo_v_Comoros.txt
-Mauritania v Burkina Faso -> out/Mauritania_v_Burkina_Faso.txt
-Belize v Sint Maarten -> out/Belize_v_Sint_Maarten.txt
-Dominica v Cayman Islands -> out/Dominica_v_Cayman_Islands.txt
-Requests used: API-Football 145, Matchbook 0
+RUN 2026-11-17 16:41 local | 1 match(es)
+Lucia v Barbados -> out/Lucia_v_Barbados.txt
+    !! Lucia: Ambiguous team name "Lucia".
+Requests used: API-Football 17, Matchbook 0
