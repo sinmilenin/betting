@@ -1,4 +1,3 @@
 RUN 2026-11-17 17:27 local | 1 match(es)
-Kitts v Bonaire -> out/Kitts_v_Bonaire.txt
-    !! Kitts: Ambiguous team name "Kitts".
-Requests used: API-Football 17, Matchbook 0
+id:5536 v Bonaire -> out/id_5536_v_Bonaire.txt
+Requests used: API-Football 29, Matchbook 0
