@@ -1,2 +1,16 @@
-# 2026-11-17 13:12 cloud snapshot 12:56 s2
-Thailand v Tajikistan | n=20 | xg=10
+# 2026-11-17 13:58 cloud snapshot 13:42 s3 (regular + top-20)
+Saudi Arabia v Uzbekistan | n=20 | xg=10
+Montenegro U19 v Serbia U19 | n=20 | xg=10
+Denmark v Norway | n=20 | xg=10
+Israel v Austria | n=20 | xg=10
+Poland v Sweden | n=20 | xg=10
+Bosnia & Herzegovina v Romania | n=20 | xg=10
+Wales v Portugal | n=20 | xg=10
+Botswana v Uganda | n=20 | xg=10
+Hungary v Northern Ireland | n=20 | xg=10
+Ireland v Kosovo | n=20 | xg=10
+Liberia v Cape Verde Islands | n=20 | xg=10
+Luton v Peterborough | n=20 | xg=10
+Ukraine v Georgia | n=20 | xg=10
+Jordan v Australia | n=20 | xg=10
+Kenya v South Africa | n=20 | xg=10
