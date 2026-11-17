@@ -21,116 +21,60 @@
   "cell": "0-1"
  },
  {
-  "id": "2026-11-17_belize-sint-maarten_0-1",
+  "id": "2026-11-17_niger-morocco_0-3",
   "date": "2026-11-17",
-  "ko": "20:00",
-  "match": "Belize v Sint Maarten",
+  "ko": "21:00",
+  "match": "Niger v Morocco",
+  "cell": "0-3"
+ },
+ {
+  "id": "2026-11-17_spalding-utd-hebburn-town_0-1",
+  "date": "2026-11-17",
+  "ko": "20:45",
+  "match": "Spalding Utd v Hebburn Town",
   "cell": "0-1"
  },
  {
-  "id": "2026-11-17_belize-sint-maarten_1-0",
+  "id": "2026-11-17_spalding-utd-hebburn-town_1-0",
   "date": "2026-11-17",
-  "ko": "20:00",
-  "match": "Belize v Sint Maarten",
+  "ko": "20:45",
+  "match": "Spalding Utd v Hebburn Town",
   "cell": "1-0"
  },
  {
-  "id": "2026-11-17_belize-sint-maarten_2-2",
+  "id": "2026-11-17_spennymoor-town-chester_0-1",
   "date": "2026-11-17",
-  "ko": "20:00",
-  "match": "Belize v Sint Maarten",
+  "ko": "20:45",
+  "match": "Spennymoor Town v Chester",
+  "cell": "0-1"
+ },
+ {
+  "id": "2026-11-17_spennymoor-town-chester_1-0",
+  "date": "2026-11-17",
+  "ko": "20:45",
+  "match": "Spennymoor Town v Chester",
+  "cell": "1-0"
+ },
+ {
+  "id": "2026-11-17_spennymoor-town-chester_2-2",
+  "date": "2026-11-17",
+  "ko": "20:45",
+  "match": "Spennymoor Town v Chester",
   "cell": "2-2"
  },
  {
-  "id": "2026-11-17_botswana-uganda_1-0",
+  "id": "2026-11-17_tonbridge-angels-chesham-utd_1-0",
   "date": "2026-11-17",
-  "ko": "20:00",
-  "match": "Botswana v Uganda",
+  "ko": "20:45",
+  "match": "Tonbridge Angels v Chesham Utd",
   "cell": "1-0"
  },
  {
-  "id": "2026-11-17_dominica-cayman-islands_3-1",
+  "id": "2026-11-17_truro-city-billericay-town_1-0",
   "date": "2026-11-17",
-  "ko": "20:00",
-  "match": "Dominica v Cayman Islands",
-  "cell": "3-1"
- },
- {
-  "id": "2026-11-17_dominica-cayman-islands_aohw",
-  "date": "2026-11-17",
-  "ko": "20:00",
-  "match": "Dominica v Cayman Islands",
-  "cell": "AOHW"
- },
- {
-  "id": "2026-11-17_liberia-cape-verde_0-1",
-  "date": "2026-11-17",
-  "ko": "20:00",
-  "match": "Liberia v Cape Verde",
-  "cell": "0-1"
- },
- {
-  "id": "2026-11-17_mauritania-burkina-faso_0-1",
-  "date": "2026-11-17",
-  "ko": "20:00",
-  "match": "Mauritania v Burkina Faso",
-  "cell": "0-1"
- },
- {
-  "id": "2026-11-17_mauritania-burkina-faso_1-0",
-  "date": "2026-11-17",
-  "ko": "20:00",
-  "match": "Mauritania v Burkina Faso",
+  "ko": "20:45",
+  "match": "Truro City v Billericay Town",
   "cell": "1-0"
- },
- {
-  "id": "2026-11-17_rep-of-ireland-u21-finland-u21_0-1",
-  "date": "2026-11-17",
-  "ko": "18:45",
-  "match": "Rep of Ireland U21 v Finland U21",
-  "cell": "0-1"
- },
- {
-  "id": "2026-11-17_rep-of-ireland-u21-finland-u21_1-0",
-  "date": "2026-11-17",
-  "ko": "18:45",
-  "match": "Rep of Ireland U21 v Finland U21",
-  "cell": "1-0"
- },
- {
-  "id": "2026-11-17_rep-of-ireland-u21-finland-u21_2-2",
-  "date": "2026-11-17",
-  "ko": "18:45",
-  "match": "Rep of Ireland U21 v Finland U21",
-  "cell": "2-2"
- },
- {
-  "id": "2026-11-17_rwanda-mali_1-2",
-  "date": "2026-11-17",
-  "ko": "20:00",
-  "match": "Rwanda v Mali",
-  "cell": "1-2"
- },
- {
-  "id": "2026-11-17_st-lucia-barbados_1-0",
-  "date": "2026-11-17",
-  "ko": "20:00",
-  "match": "St Lucia v Barbados",
-  "cell": "1-0"
- },
- {
-  "id": "2026-11-17_st-lucia-barbados_2-0",
-  "date": "2026-11-17",
-  "ko": "20:00",
-  "match": "St Lucia v Barbados",
-  "cell": "2-0"
- },
- {
-  "id": "2026-11-17_st-lucia-barbados_3-0",
-  "date": "2026-11-17",
-  "ko": "20:00",
-  "match": "St Lucia v Barbados",
-  "cell": "3-0"
  },
  {
   "id": "2026-11-17_uae-syria_2-1",
@@ -138,5 +82,12 @@
   "ko": "15:10",
   "match": "UAE v Syria",
   "cell": "2-1"
+ },
+ {
+  "id": "2026-11-17_wales-portugal_0-3",
+  "date": "2026-11-17",
+  "ko": "20:45",
+  "match": "Wales v Portugal",
+  "cell": "0-3"
  }
 ]
