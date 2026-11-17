@@ -1,7 +1,2 @@
-# 2026-11-17 17:45 cloud snapshot 17:26 s4
-Saint Lucia v Barbados
-Rwanda v Mali
-Congo v Comoros
-Mauritania v Burkina Faso
-Belize v Sint Maarten
-Dominica v Cayman Islands
+# 2026-11-17 17:50 cloud snapshot 17:26 s4 (St Lucia retry)
+Lucia v Barbados
