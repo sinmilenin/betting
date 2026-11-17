@@ -1,5 +1,3 @@
-RUN 2026-11-17 11:24 local | 3 match(es)
-Qatar v South Korea -> out/Qatar_v_South_Korea.txt
-India v Pakistan -> out/India_v_Pakistan.txt
-Sheffield Wednesday U21 v Hull City U21 -> out/Sheffield_Wednesday_U21_v_Hull_City_U21.txt
-Requests used: API-Football 76, Matchbook 0
+RUN 2026-11-17 12:11 local | 1 match(es)
+Thailand v Tajikistan -> out/Thailand_v_Tajikistan.txt
+Requests used: API-Football 27, Matchbook 0
