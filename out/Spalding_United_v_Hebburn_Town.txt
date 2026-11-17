@@ -1,0 +1,90 @@
+MATCH Spalding United v Hebburn Town | fetched 2026-11-17 17:24 local
+
+FORM DATA Spalding United v Hebburn Town | source API-Football | 2026-11-17 17:24 UTC
+H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
+
+=== Spalding United (id 7671): last 20 finished games ===
+2026-11-14 A 0-0 v Enfield Town | FA Trophy | ? [PEN, 90-min score shown]
+2026-11-07 A 1-2 v AFC Telford United | National League - North | Telford
+2026-10-31 H 3-2 v Darlington 1883 | National League - North | ?
+2026-10-27 H 2-2 v Brackley Town | National League - North | ?
+2026-10-24 A 0-2 v Hednesford Town | National League - North | ?
+2026-10-20 A 0-4 v Alvechurch | FA Cup | Alfchurch
+2026-10-17 H 2-2 v Alvechurch | FA Cup | ?
+2026-10-10 A 0-1 v Marine | National League - North | Crosby
+2026-10-06 H 4-0 v Bury Town | FA Cup | ?
+2026-10-03 A 1-1 v Bury Town | FA Cup | ?
+2026-09-26 A 1-2 v Chorley | National League - North | Chorley
+2026-09-19 H 2-0 v Hanley Town | FA Cup | ?
+2026-09-12 H 2-1 v Bedford Town | National League - North | ?
+2026-09-08 A 3-1 v Spennymoor Town | National League - North | Spennymoor
+2026-09-05 H 2-0 v Southport | National League - North | ?
+2026-08-31 A 1-1 v South Shields | National League - North | ?
+2026-08-29 H 3-1 v Worksop Town | National League - North | ?
+2026-08-22 A 0-1 v Chester | National League - North | Chester
+2026-08-18 H 0-0 v Macclesfield | National League - North | ?
+2026-08-15 H 0-1 v Oxford City | National League - North | ?
+Listed home: 10 games, scored 20 (2.00), conceded 9 (0.90), blanks 2, clean sheets 4
+Listed away: 10 games, scored 7 (0.70), conceded 15 (1.50), blanks 5, clean sheets 1
+All: 20 games, scored 27 (1.35), conceded 24 (1.20), blanks 7, clean sheets 5
+
+=== Hebburn Town (id 8822): last 20 finished games ===
+2026-11-14 H 2-0 v Guiseley AFC | FA Trophy | ?
+2026-11-07 A 1-4 v Merthyr Town | National League - North | ?
+2026-10-31 H 1-1 v Harborough Town | National League - North | ?
+2026-10-24 A 2-2 v AFC Telford United | National League - North | Telford
+2026-10-17 H 0-2 v Scarborough Athletic | National League - North | ?
+2026-10-10 H 0-3 v Oxford City | National League - North | ?
+2026-09-26 A 1-1 v Darlington 1883 | National League - North | Darlington
+2026-09-19 H 1-4 v Guiseley AFC | FA Cup | ?
+2026-09-12 H 2-1 v Hednesford Town | National League - North | Hebburn
+2026-09-08 A 1-5 v Radcliffe | National League - North | Radcliffe
+2026-09-05 H 1-1 v Chester | National League - North | Hebburn
+2026-08-31 A 0-3 v Macclesfield | National League - North | Macclesfield
+2026-08-29 H 4-2 v King's Lynn Town | National League - North | Hebburn
+2026-08-22 A 2-1 v Buxton | National League - North | Buxton
+2026-08-18 H 1-0 v Worksop Town | National League - North | Hebburn
+2026-08-15 A 1-1 v Brackley Town | National League - North | Brackley
+2026-08-08 H 3-1 v Southport | National League - North | Hebburn
+2026-08-01 A 4-2 v Blyth Spartans | Friendlies Clubs | ?
+2026-07-21 H 2-3 v Hartlepool | Friendlies Clubs | ?
+2026-07-18 A 2-2 v Morpeth Town | Friendlies Clubs | ?
+Listed home: 11 games, scored 17 (1.55), conceded 18 (1.64), blanks 2, clean sheets 2
+Listed away: 9 games, scored 14 (1.56), conceded 21 (2.33), blanks 1, clean sheets 0
+All: 20 games, scored 31 (1.55), conceded 39 (1.95), blanks 3, clean sheets 2
+
+TABLE FOR Spalding United
+LEAGUE TABLE National League - North 2026 | 24 teams | 183 games played
+League averages per game: home 1.63, away 1.21, total 2.84
+#   team                   Pts | home P GF-GA  | away P GF-GA  | all P GF-GA
+1   South Shields           32 |  7  18-6       |  8  12-14      | 15  30-20
+2   Hereford                30 |  8  13-7       |  8  15-7       | 16  28-14
+3   Oxford City             28 |  7  13-8       |  8  14-4       | 15  27-12
+4   Macclesfield            27 |  7  13-7       |  6   8-4       | 13  21-11
+5   Hednesford Town         27 |  8  22-13      |  8   8-9       | 16  30-22
+6   King's Lynn Town        27 |  8  12-9       |  8  15-12      | 16  27-21
+7   Buxton                  27 |  8  22-9       |  8  10-18      | 16  32-27
+8   Chester                 26 |  8  10-5       |  7   8-9       | 15  18-14
+9   Morecambe               24 |  8  15-5       |  8  10-15      | 16  25-20
+10  Bedford Town            22 |  7  10-9       |  7   7-10      | 14  17-19
+11  AFC Telford United      22 |  8   9-13      |  8   9-9       | 16  18-22
+12  Spalding United         21 |  7  12-7       |  8   8-10      | 15  20-17
+13  Chorley                 20 |  8  17-14      |  7   7-11      | 15  24-25
+14  Worksop Town            20 |  8  12-9       |  7   8-12      | 15  20-21
+15  Hebburn Town            20 |  8  12-11      |  7   8-17      | 15  20-28
+16  Marine                  19 |  7   6-6       |  8  14-14      | 15  20-20
+17  Merthyr Town            19 |  8  14-11      |  8   8-12      | 16  22-23
+18  Brackley Town           19 |  8   8-9       |  8  10-18      | 16  18-27
+19  Harborough Town         17 |  7   9-7       |  7   4-10      | 14  13-17
+20  Scarborough Athletic    16 |  8  12-10      |  8  10-15      | 16  22-25
+21  Radcliffe               16 |  8  14-15      |  7   5-12      | 15  19-27
+22  Darlington 1883         12 |  8   8-10      |  8  12-19      | 16  20-29
+23  Southport               10 |  7  10-10      |  8   5-20      | 15  15-30
+24  Spennymoor Town         10 |  7   8-11      |  8   6-18      | 15  14-29
+
+(Hebburn Town: same table as Spalding United, shown above)
+
+(24 API-Football requests used)
+
+----------------------------------------------------------------------
+MATCHBOOK: skipped (switched off for this run)

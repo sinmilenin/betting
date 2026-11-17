@@ -1,3 +1,10 @@
-RUN 2026-11-17 16:42 local | 1 match(es)
-id:5540 v Barbados -> out/id_5540_v_Barbados.txt
-Requests used: API-Football 29, Matchbook 0
+RUN 2026-11-17 17:24 local | 7 match(es)
+St Kitts and Nevis v Bonaire -> out/St_Kitts_and_Nevis_v_Bonaire.txt
+    !! St Kitts and Nevis: Ambiguous team name "St Kitts and Nevis".
+Spennymoor Town v Chester -> out/Spennymoor_Town_v_Chester.txt
+Tonbridge Angels v Chesham United -> out/Tonbridge_Angels_v_Chesham_United.txt
+South Shields v Harborough Town -> out/South_Shields_v_Harborough_Town.txt
+Truro City v Billericay Town -> out/Truro_City_v_Billericay_Town.txt
+Spalding United v Hebburn Town -> out/Spalding_United_v_Hebburn_Town.txt
+Niger v Morocco -> out/Niger_v_Morocco.txt
+Requests used: API-Football 167, Matchbook 0
