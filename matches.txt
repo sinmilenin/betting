@@ -1,4 +1,2 @@
-# 2026-11-17 14:45 cloud snapshot 14:27 s4 (retry: UAE ambiguous, Guinea-Bissau hyphen, DR Congo matched U17)
-United Arab Emirates v Syria | n=20 | xg=10
-Guinea Bissau v Madagascar | n=20 | xg=10
-Sierra Leone v Congo DR | n=20 | xg=10
+# 2026-11-17 14:47 cloud snapshot 14:27 s4 (retry 2: Guinea-Bissau not found by name, list candidates)
+Bissau v Madagascar | n=20 | xg=10
