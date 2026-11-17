@@ -1,7 +1,19 @@
-RESULTS 2026-11-17 17:35 UTC | 6 rows | dates 2026-11-15, 2026-11-16, 2026-11-17 | API-Football requests 3
+RESULTS 2026-11-17 18:35 UTC | 18 rows | dates 2026-11-15, 2026-11-16, 2026-11-17 | API-Football requests 3
 not_found    19:00 Universidad Guadalajara v Club Atletico Morelia    2-2   -    -> -  [ , conf 0.00] no API-Football fixture on 2026-11-15 within 90 min of 19:00 with matching names
 final        21:15 Cesar Vallejo Moquegua v Atletico Grau             1-0   2-1  -> won  [UCV Moquegua v Atletico Grau FT, conf 0.67] 
 not_found    11:00 FK UCSA Tarasivka v Zhytomyr 2                     0-1   -    -> -  [ , conf 0.00] no API-Football fixture on 2026-11-16 within 90 min of 11:00 with matching names
-final        16:00 Montenegro U19 v Serbia U19                        1-2   3-2  -> won  [Montenegro U19 v Serbia U19 FT, conf 1.00] 
-final        16:30 Saudi Arabia v Uzbekistan                          0-1   1-2  -> won  [Saudi Arabia v Uzbekistan FT, conf 1.00] 
+final        17:00 Gambia v Ivory Coast                               0-1   2-2  -> won  [Gambia v Ivory Coast FT, conf 1.00] 
+final        17:00 Guinea-Bissau v Madagascar                         0-1   2-0  -> won  [Guinea-Bissau v Madagascar FT, conf 1.00] 
+final        17:00 Guinea-Bissau v Madagascar                         1-0   2-0  -> won  [Guinea-Bissau v Madagascar FT, conf 1.00] 
+final        17:00 Jordan v Australia                                 0-1   2-0  -> won  [Jordan v Australia FT, conf 1.00] 
+final        17:00 Jordan v Australia                                 1-0   2-0  -> won  [Jordan v Australia FT, conf 1.00] 
+final        17:00 Kenya v South Africa                               0-1   1-2  -> won  [Kenya v South Africa FT, conf 1.00] 
+final        17:00 Kenya v South Africa                               1-0   1-2  -> won  [Kenya v South Africa FT, conf 1.00] 
+final        17:00 Kenya v South Africa                               1-2   1-2  -> lost  [Kenya v South Africa FT, conf 1.00] 
+final        17:00 Libya v Tunisia                                    0-1   1-1  -> won  [Libya v Tunisia FT, conf 1.00] 
+final        17:00 Libya v Tunisia                                    1-2   1-1  -> won  [Libya v Tunisia FT, conf 1.00] 
+final        17:00 Sierra Leone v DR Congo                            0-1   1-1  -> won  [Sierra Leone v Congo DR FT, conf 1.00] 
+final        17:00 Sierra Leone v DR Congo                            1-2   1-1  -> won  [Sierra Leone v Congo DR FT, conf 1.00] 
+final        17:00 Togo v Algeria                                     0-1   3-0  -> won  [Togo v Algeria FT, conf 1.00] 
+final        17:00 Togo v Algeria                                     1-0   3-0  -> won  [Togo v Algeria FT, conf 1.00] 
 not_found    15:10 UAE v Syria                                        2-1   -    -> -  [ , conf 0.00] no API-Football fixture on 2026-11-17 within 90 min of 15:10 with matching names
