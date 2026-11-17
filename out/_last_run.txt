@@ -1,3 +1,4 @@
-RUN 2026-11-17 15:12 local | 1 match(es)
-Republic of Ireland U21 v Finland U21 -> out/Republic_of_Ireland_U21_v_Finland_U21.txt
-Requests used: API-Football 25, Matchbook 0
+RUN 2026-11-17 15:14 local | 1 match(es)
+Guinea Bissau v Madagascar -> out/Guinea_Bissau_v_Madagascar.txt
+    !! Guinea Bissau: No team found for "Guinea Bissau".
+Requests used: API-Football 14, Matchbook 0
