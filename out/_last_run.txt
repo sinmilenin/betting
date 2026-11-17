@@ -1,4 +1,3 @@
-RUN 2026-11-17 16:41 local | 1 match(es)
-Lucia v Barbados -> out/Lucia_v_Barbados.txt
-    !! Lucia: Ambiguous team name "Lucia".
-Requests used: API-Football 17, Matchbook 0
+RUN 2026-11-17 16:42 local | 1 match(es)
+id:5540 v Barbados -> out/id_5540_v_Barbados.txt
+Requests used: API-Football 29, Matchbook 0
