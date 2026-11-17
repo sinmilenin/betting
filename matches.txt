@@ -1,4 +1,2 @@
-# cloud analysis 17.11 12:25 snapshot 12:12 (scan 1 of 4)
-Qatar v South Korea | n=20 | xg=10
-India v Pakistan | n=20 | xg=10
-Sheffield Wednesday U21 v Hull City U21 | n=20 | xg=10
+# 2026-11-17 13:12 cloud snapshot 12:56 s2
+Thailand v Tajikistan | n=20 | xg=10
