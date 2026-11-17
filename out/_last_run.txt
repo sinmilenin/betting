@@ -1,6 +1,4 @@
-RUN 2026-11-17 13:40 local | 3 match(es)
-United Arab Emirates v Syria -> out/United_Arab_Emirates_v_Syria.txt
-Guinea Bissau v Madagascar -> out/Guinea_Bissau_v_Madagascar.txt
-    !! Guinea Bissau: No team found for "Guinea Bissau".
-Sierra Leone v Congo DR -> out/Sierra_Leone_v_Congo_DR.txt
-Requests used: API-Football 64, Matchbook 0
+RUN 2026-11-17 13:41 local | 1 match(es)
+Bissau v Madagascar -> out/Bissau_v_Madagascar.txt
+    !! Bissau: Ambiguous team name "Bissau".
+Requests used: API-Football 15, Matchbook 0
