@@ -1,6 +1,6 @@
-MATCH Guinea-Bissau v Madagascar | fetched 2026-11-17 13:39 local
+MATCH Guinea Bissau v Madagascar | fetched 2026-11-17 13:40 local
 
-FORM DATA Guinea-Bissau v Madagascar | source API-Football | 2026-11-17 13:39 UTC
+FORM DATA Guinea Bissau v Madagascar | source API-Football | 2026-11-17 13:40 UTC
 H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
 
 === Madagascar (id 1490): last 20 finished games ===
@@ -28,7 +28,7 @@ Listed home: 10 games, scored 13 (1.30), conceded 7 (0.70), blanks 3, clean shee
 Listed away: 10 games, scored 15 (1.50), conceded 22 (2.20), blanks 1, clean sheets 0
 All: 20 games, scored 28 (1.40), conceded 29 (1.45), blanks 4, clean sheets 5
 
-!! Guinea-Bissau: API-Football error: {"search": "The Search field may only contain alpha-numeric characters and spaces."}
+!! Guinea Bissau: No team found for "Guinea Bissau".
 
 TABLE FOR Madagascar
 LEAGUE TABLE Africa Cup of Nations - Qualification 2027 | 48 teams | 78 games played

@@ -1,10 +1,6 @@
-RUN 2026-11-17 13:39 local | 6 match(es)
-UAE v Syria -> out/UAE_v_Syria.txt
-    !! UAE: Ambiguous team name "UAE".
-Guinea-Bissau v Madagascar -> out/Guinea_Bissau_v_Madagascar.txt
-    !! Guinea-Bissau: API-Football error: {"search": "The Search field may only contain alpha-numeric characters and spaces."}
-Sierra Leone v DR Congo -> out/Sierra_Leone_v_DR_Congo.txt
-Libya v Tunisia -> out/Libya_v_Tunisia.txt
-Togo v Algeria -> out/Togo_v_Algeria.txt
-Gambia v Ivory Coast -> out/Gambia_v_Ivory_Coast.txt
-Requests used: API-Football 119, Matchbook 0
+RUN 2026-11-17 13:40 local | 3 match(es)
+United Arab Emirates v Syria -> out/United_Arab_Emirates_v_Syria.txt
+Guinea Bissau v Madagascar -> out/Guinea_Bissau_v_Madagascar.txt
+    !! Guinea Bissau: No team found for "Guinea Bissau".
+Sierra Leone v Congo DR -> out/Sierra_Leone_v_Congo_DR.txt
+Requests used: API-Football 64, Matchbook 0
