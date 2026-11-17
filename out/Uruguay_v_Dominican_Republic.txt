@@ -1,0 +1,144 @@
+MATCH Uruguay v Dominican Republic | fetched 2026-11-17 20:09 local
+
+FORM DATA Uruguay v Dominican Republic | source API-Football | 2026-11-17 20:10 UTC
+H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
+
+=== Uruguay (id 7): last 20 finished games ===
+2026-11-13 A 2-1 v Argentina | Friendlies | Buenos Aires
+2026-10-06 A 6-1 v India | Friendlies | Kolkata
+2026-09-28 A 4-1 v South Korea | Friendlies | Seoul
+2026-09-24 A 1-3 v Japan | Friendlies | Rifu
+2026-06-27 H 0-1 v Spain | World Cup | Zapopan | xG 0.20-0.86
+2026-06-21 H 2-2 v Cape Verde Islands | World Cup | Miami Gardens | xG 2.32-0.88
+2026-06-15 A 1-1 v Saudi Arabia | World Cup | Miami Gardens | xG 1.72-0.66
+2026-03-31 A 0-0 v Algeria | Friendlies | Turin
+2026-03-27 A 1-1 v England | Friendlies | London
+2025-11-19 A 1-5 v USA | Friendlies | Tampa
+2025-11-16 A 0-0 v Mexico | Friendlies | Torreon
+2025-10-13 A 2-1 v Uzbekistan | Friendlies | Kuala Lumpur
+2025-10-10 H 1-0 v Dominican Republic | Friendlies | Kuala Lumpur
+2025-09-09 A 0-0 v Chile | World Cup - Qualification South America | Santiago de Chile
+2025-09-04 H 3-0 v Peru | World Cup - Qualification South America | Montevideo
+2025-06-10 H 2-0 v Venezuela | World Cup - Qualification South America | Montevideo
+2025-06-05 A 0-2 v Paraguay | World Cup - Qualification South America | Asunción
+2025-03-25 A 0-0 v Bolivia | World Cup - Qualification South America | El Alto
+2025-03-21 H 0-1 v Argentina | World Cup - Qualification South America | Montevideo
+2024-11-20 A 1-1 v Brazil | World Cup - Qualification South America | Salvador
+Listed home: 6 games, scored 8 (1.33), conceded 4 (0.67), blanks 2, clean sheets 3
+Listed away: 14 games, scored 19 (1.36), conceded 17 (1.21), blanks 5, clean sheets 4
+All: 20 games, scored 27 (1.35), conceded 21 (1.05), blanks 7, clean sheets 7
+
+=== Dominican Republic (id 5532): last 20 finished games ===
+2026-10-05 A 2-1 v Nicaragua | CONCACAF Nations League | Managua | xG 0.97-1.08
+2026-10-02 H 1-4 v Haiti | CONCACAF Nations League | Santo Domingo | xG 2.12-4.47
+2026-09-28 A 2-1 v Trinidad and Tobago | CONCACAF Nations League | Port of Spain
+2026-09-25 H 3-2 v Nicaragua | CONCACAF Nations League | Santiago
+2026-06-04 A 2-4 v Panama | Friendlies | Panama City
+2026-03-29 H 1-1 v Cuba | CONCACAF Series | Santiago
+2026-03-27 H 2-2 v El Salvador | CONCACAF Series | Santiago
+2025-11-18 H 0-0 v Martinique | CONCACAF Series | Santiago
+2025-11-13 H 2-0 v St. Vincent / Grenadines | CONCACAF Series | Santiago
+2025-10-10 A 0-1 v Uruguay | Friendlies | Kuala Lumpur
+2025-09-09 A 0-3 v Jordan | Friendlies | ʿAmmān (Amman)
+2025-06-23 H 0-0 v Suriname | CONCACAF Gold Cup | Arlington, Texas
+2025-06-18 A 1-2 v Costa Rica | CONCACAF Gold Cup | Arlington, Texas
+2025-06-15 A 2-3 v Mexico | CONCACAF Gold Cup | Inglewood, California
+2025-06-10 H 5-0 v Dominica | World Cup - Qualification CONCACAF | Santo Domingo
+2025-06-07 A 2-4 v Guatemala | World Cup - Qualification CONCACAF | Guatemala City
+2025-03-26 H 2-0 v Puerto Rico | Friendlies | Santiago
+2025-03-22 A 2-2 v Puerto Rico | Friendlies | Bayamón
+2024-11-19 H 6-1 v Bermuda | CONCACAF Nations League | Santiago De Los Caballeros
+2024-11-16 A 6-1 v Dominica | CONCACAF Nations League | Santiago De Los Caballeros
+Listed home: 10 games, scored 22 (2.20), conceded 10 (1.00), blanks 2, clean sheets 5
+Listed away: 10 games, scored 19 (1.90), conceded 22 (2.20), blanks 2, clean sheets 0
+All: 20 games, scored 41 (2.05), conceded 32 (1.60), blanks 4, clean sheets 5
+
+TABLE FOR Uruguay
+LEAGUE TABLE World Cup 2026 | 60 teams | 0 games played
+#   team                   Pts | home P GF-GA  | away P GF-GA  | all P GF-GA
+1   Mexico                   9 |  0   0-0       |  0   0-0       |  3   6-0 [Group A]
+2   South Africa             4 |  0   0-0       |  0   0-0       |  3   2-3 [Group A]
+3   South Korea              3 |  0   0-0       |  0   0-0       |  3   2-3 [Group A]
+4   Czechia                  1 |  0   0-0       |  0   0-0       |  3   2-6 [Group A]
+1   Switzerland              7 |  0   0-0       |  0   0-0       |  3   7-3 [Group B]
+2   Canada                   4 |  0   0-0       |  0   0-0       |  3   8-3 [Group B]
+3   Bosnia & Herzegovina     4 |  0   0-0       |  0   0-0       |  3   5-6 [Group B]
+4   Qatar                    1 |  0   0-0       |  0   0-0       |  3   2-10 [Group B]
+1   Brazil                   7 |  0   0-0       |  0   0-0       |  3   7-1 [Group C]
+2   Morocco                  7 |  0   0-0       |  0   0-0       |  3   6-3 [Group C]
+3   Scotland                 3 |  0   0-0       |  0   0-0       |  3   1-4 [Group C]
+4   Haiti                    0 |  0   0-0       |  0   0-0       |  3   2-8 [Group C]
+1   USA                      6 |  0   0-0       |  0   0-0       |  3   8-4 [Group D]
+2   Australia                4 |  0   0-0       |  0   0-0       |  3   2-2 [Group D]
+3   Paraguay                 4 |  0   0-0       |  0   0-0       |  3   2-4 [Group D]
+4   Türkiye                  3 |  0   0-0       |  0   0-0       |  3   3-5 [Group D]
+1   Germany                  6 |  0   0-0       |  0   0-0       |  3  10-4 [Group E]
+2   Ivory Coast              6 |  0   0-0       |  0   0-0       |  3   4-2 [Group E]
+3   Ecuador                  4 |  0   0-0       |  0   0-0       |  3   2-2 [Group E]
+4   Curaçao                  1 |  0   0-0       |  0   0-0       |  3   1-9 [Group E]
+1   Netherlands              7 |  0   0-0       |  0   0-0       |  3  10-4 [Group F]
+2   Japan                    5 |  0   0-0       |  0   0-0       |  3   7-3 [Group F]
+3   Sweden                   4 |  0   0-0       |  0   0-0       |  3   7-7 [Group F]
+4   Tunisia                  0 |  0   0-0       |  0   0-0       |  3   2-12 [Group F]
+1   Belgium                  5 |  0   0-0       |  0   0-0       |  3   6-2 [Group G]
+2   Egypt                    5 |  0   0-0       |  0   0-0       |  3   5-3 [Group G]
+3   Iran                     3 |  0   0-0       |  0   0-0       |  3   3-3 [Group G]
+4   New Zealand              1 |  0   0-0       |  0   0-0       |  3   4-10 [Group G]
+1   Spain                    7 |  0   0-0       |  0   0-0       |  3   5-0 [Group H]
+2   Cape Verde Islands       3 |  0   0-0       |  0   0-0       |  3   2-2 [Group H]
+3   Uruguay                  2 |  0   0-0       |  0   0-0       |  3   3-4 [Group H]
+4   Saudi Arabia             2 |  0   0-0       |  0   0-0       |  3   1-5 [Group H]
+1   France                   9 |  0   0-0       |  0   0-0       |  3  10-2 [Group I]
+2   Norway                   6 |  0   0-0       |  0   0-0       |  3   8-7 [Group I]
+3   Senegal                  3 |  0   0-0       |  0   0-0       |  3   8-6 [Group I]
+4   Iraq                     0 |  0   0-0       |  0   0-0       |  3   1-12 [Group I]
+1   Argentina                9 |  0   0-0       |  0   0-0       |  3   8-1 [Group J]
+2   Austria                  4 |  0   0-0       |  0   0-0       |  3   6-6 [Group J]
+3   Algeria                  4 |  0   0-0       |  0   0-0       |  3   5-7 [Group J]
+4   Jordan                   0 |  0   0-0       |  0   0-0       |  3   3-8 [Group J]
+1   Colombia                 7 |  0   0-0       |  0   0-0       |  3   4-1 [Group K]
+2   Portugal                 5 |  0   0-0       |  0   0-0       |  3   6-1 [Group K]
+3   Congo DR                 4 |  0   0-0       |  0   0-0       |  3   4-3 [Group K]
+4   Uzbekistan               0 |  0   0-0       |  0   0-0       |  3   2-11 [Group K]
+1   England                  7 |  0   0-0       |  0   0-0       |  3   6-2 [Group L]
+2   Croatia                  6 |  0   0-0       |  0   0-0       |  3   5-5 [Group L]
+3   Ghana                    4 |  0   0-0       |  0   0-0       |  3   2-2 [Group L]
+4   Panama                   0 |  0   0-0       |  0   0-0       |  3   0-4 [Group L]
+1   Congo DR                 4 |  0   0-0       |  0   0-0       |  3   4-3 [Group Stage]
+2   Sweden                   4 |  0   0-0       |  0   0-0       |  3   7-7 [Group Stage]
+3   Ghana                    4 |  0   0-0       |  0   0-0       |  3   2-2 [Group Stage]
+4   Ecuador                  4 |  0   0-0       |  0   0-0       |  3   2-2 [Group Stage]
+5   Bosnia & Herzegovina     4 |  0   0-0       |  0   0-0       |  3   5-6 [Group Stage]
+6   Algeria                  4 |  0   0-0       |  0   0-0       |  3   5-7 [Group Stage]
+7   Paraguay                 4 |  0   0-0       |  0   0-0       |  3   2-4 [Group Stage]
+8   Senegal                  3 |  0   0-0       |  0   0-0       |  3   8-6 [Group Stage]
+9   Iran                     3 |  0   0-0       |  0   0-0       |  3   3-3 [Group Stage]
+10  South Korea              3 |  0   0-0       |  0   0-0       |  3   2-3 [Group Stage]
+11  Scotland                 3 |  0   0-0       |  0   0-0       |  3   1-4 [Group Stage]
+12  Uruguay                  2 |  0   0-0       |  0   0-0       |  3   3-4 [Group Stage]
+
+TABLE FOR Dominican Republic
+LEAGUE TABLE CONCACAF Gold Cup 2025 | 16 teams | 24 games played
+League averages per game: home 1.83, away 1.00, total 2.83
+#   team                   Pts | home P GF-GA  | away P GF-GA  | all P GF-GA
+1   Mexico                   7 |  2   3-2       |  1   2-0       |  3   5-2 [Group A]
+2   Costa Rica               7 |  2   6-4       |  1   0-0       |  3   6-4 [Group A]
+3   Dominican Republic       1 |  1   0-0       |  2   3-5       |  3   3-5 [Group A]
+4   Suriname                 1 |  1   0-2       |  2   3-4       |  3   3-6 [Group A]
+1   Canada                   7 |  2   8-0       |  1   1-1       |  3   9-1 [Group B]
+2   Honduras                 6 |  2   4-1       |  1   0-6       |  3   4-7 [Group B]
+3   Curaçao                  2 |  2   1-1       |  1   1-2       |  3   2-3 [Group B]
+4   El Salvador              1 |  0   0-0       |  3   0-4       |  3   0-4 [Group B]
+1   Panama                   9 |  2   9-3       |  1   1-0       |  3  10-3 [Group C]
+2   Guatemala                6 |  1   0-1       |  2   4-2       |  3   4-3 [Group C]
+3   Jamaica                  3 |  2   2-2       |  1   1-4       |  3   3-6 [Group C]
+4   Guadeloupe               0 |  1   2-3       |  2   3-7       |  3   5-10 [Group C]
+1   USA                      9 |  2   7-1       |  1   1-0       |  3   8-1 [Group D]
+2   Saudi Arabia             4 |  2   1-2       |  1   1-0       |  3   2-2 [Group D]
+3   Trinidad and Tobago      2 |  1   1-1       |  2   1-6       |  3   2-7 [Group D]
+4   Haiti                    1 |  1   0-1       |  2   2-3       |  3   2-4 [Group D]
+
+(26 API-Football requests used)
+
+----------------------------------------------------------------------
+MATCHBOOK: skipped (switched off for this run)

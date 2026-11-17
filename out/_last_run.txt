@@ -1,3 +1,11 @@
-RUN 2026-11-17 17:27 local | 1 match(es)
-id:5536 v Bonaire -> out/id_5536_v_Bonaire.txt
-Requests used: API-Football 29, Matchbook 0
+RUN 2026-11-17 20:09 local | 9 match(es)
+Argentina v Costa Rica -> out/Argentina_v_Costa_Rica.txt
+Chile v Colombia -> out/Chile_v_Colombia.txt
+Ecuador v Bolivia -> out/Ecuador_v_Bolivia.txt
+Atletico Nacional v Once Caldas -> out/Atletico_Nacional_v_Once_Caldas.txt
+Uruguay v Dominican Republic -> out/Uruguay_v_Dominican_Republic.txt
+USA v Haiti -> out/USA_v_Haiti.txt
+El Salvador v Saint Martin -> out/El_Salvador_v_Saint_Martin.txt
+America de Cali v Internacional de Bogota -> out/America_de_Cali_v_Internacional_de_Bogot.txt
+Mexico v Jamaica -> out/Mexico_v_Jamaica.txt
+Requests used: API-Football 227, Matchbook 0
