@@ -1,6 +1,18 @@
-RESULTS 2026-11-17 14:35 UTC | 5 rows | dates 2026-11-15, 2026-11-16, 2026-11-17 | API-Football requests 3
+RESULTS 2026-11-17 15:35 UTC | 17 rows | dates 2026-11-15, 2026-11-16, 2026-11-17 | API-Football requests 3
 not_found    19:00 Universidad Guadalajara v Club Atletico Morelia    2-2   -    -> -  [ , conf 0.00] no API-Football fixture on 2026-11-15 within 90 min of 19:00 with matching names
 final        21:15 Cesar Vallejo Moquegua v Atletico Grau             1-0   2-1  -> won  [UCV Moquegua v Atletico Grau FT, conf 0.67] 
 not_found    11:00 FK UCSA Tarasivka v Zhytomyr 2                     0-1   -    -> -  [ , conf 0.00] no API-Football fixture on 2026-11-16 within 90 min of 11:00 with matching names
-final        13:00 Kyrgyzstan v Vietnam                               0-1   2-1  -> won  [Kyrgyzstan v Vietnam FT, conf 1.00] 
-final        13:00 Kyrgyzstan v Vietnam                               1-0   2-1  -> won  [Kyrgyzstan v Vietnam FT, conf 1.00] 
+final        14:00 Burundi v Zambia                                   0-1   1-1  -> won  [Burundi v Zambia FT, conf 1.00] 
+final        14:00 Burundi v Zambia                                   1-0   1-1  -> won  [Burundi v Zambia FT, conf 1.00] 
+final        14:00 Burundi v Zambia                                   2-1   1-1  -> won  [Burundi v Zambia FT, conf 1.00] 
+final        14:00 Ethiopia v Mozambique                              1-1   0-1  -> won  [Ethiopia v Mozambique FT, conf 1.00] 
+final        14:10 Japan v Paraguay                                   1-0   1-2  -> won  [Japan v Paraguay FT, conf 1.00] 
+final        14:10 Japan v Paraguay                                   2-1   1-2  -> won  [Japan v Paraguay FT, conf 1.00] 
+final        14:00 Malawi v Egypt                                     0-3   0-0  -> won  [Malawi v Egypt FT, conf 1.00] 
+final        14:00 Malawi v Egypt                                     1-2   0-0  -> won  [Malawi v Egypt FT, conf 1.00] 
+final        14:00 Malawi v Egypt                                     1-3   0-0  -> won  [Malawi v Egypt FT, conf 1.00] 
+final        14:00 South Sudan v Angola                               0-1   0-1  -> lost  [South Sudan v Angola FT, conf 1.00] 
+final        14:00 South Sudan v Angola                               1-2   0-1  -> won  [South Sudan v Angola FT, conf 1.00] 
+final        14:00 South Sudan v Angola                               1-3   0-1  -> won  [South Sudan v Angola FT, conf 1.00] 
+final        14:00 Tanzania v Nigeria                                 0-1   0-0  -> won  [Tanzania v Nigeria FT, conf 1.00] 
+final        14:00 Tanzania v Nigeria                                 1-2   0-0  -> won  [Tanzania v Nigeria FT, conf 1.00] 
