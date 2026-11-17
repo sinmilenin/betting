@@ -1,2 +1,9 @@
-# cloud analysis 16.11 21:12 snapshot 20:57 (scan 2 of 4) - retry Juventud name
-Wanderers v Juventud | n=20 | xg=10
+# cloud analysis 17.11 11:40 snapshot 11:26 (scan 4 of 4)
+China v Bahrain | n=20 | xg=10
+Kyrgyzstan v Vietnam | n=20 | xg=10
+Tanzania v Nigeria | n=20 | xg=10
+Burundi v Zambia | n=20 | xg=10
+South Sudan v Angola | n=20 | xg=10
+Malawi v Egypt | n=20 | xg=10
+Ethiopia v Mozambique | n=20 | xg=10
+Japan v Paraguay | n=20 | xg=10
