@@ -21,17 +21,101 @@
   "cell": "0-1"
  },
  {
-  "id": "2026-11-17_kyrgyzstan-vietnam_0-1",
+  "id": "2026-11-17_burundi-zambia_0-1",
   "date": "2026-11-17",
-  "ko": "13:00",
-  "match": "Kyrgyzstan v Vietnam",
+  "ko": "14:00",
+  "match": "Burundi v Zambia",
   "cell": "0-1"
  },
  {
-  "id": "2026-11-17_kyrgyzstan-vietnam_1-0",
+  "id": "2026-11-17_burundi-zambia_1-0",
   "date": "2026-11-17",
-  "ko": "13:00",
-  "match": "Kyrgyzstan v Vietnam",
+  "ko": "14:00",
+  "match": "Burundi v Zambia",
   "cell": "1-0"
+ },
+ {
+  "id": "2026-11-17_burundi-zambia_2-1",
+  "date": "2026-11-17",
+  "ko": "14:00",
+  "match": "Burundi v Zambia",
+  "cell": "2-1"
+ },
+ {
+  "id": "2026-11-17_ethiopia-mozambique_1-1",
+  "date": "2026-11-17",
+  "ko": "14:00",
+  "match": "Ethiopia v Mozambique",
+  "cell": "1-1"
+ },
+ {
+  "id": "2026-11-17_japan-paraguay_1-0",
+  "date": "2026-11-17",
+  "ko": "14:10",
+  "match": "Japan v Paraguay",
+  "cell": "1-0"
+ },
+ {
+  "id": "2026-11-17_japan-paraguay_2-1",
+  "date": "2026-11-17",
+  "ko": "14:10",
+  "match": "Japan v Paraguay",
+  "cell": "2-1"
+ },
+ {
+  "id": "2026-11-17_malawi-egypt_0-3",
+  "date": "2026-11-17",
+  "ko": "14:00",
+  "match": "Malawi v Egypt",
+  "cell": "0-3"
+ },
+ {
+  "id": "2026-11-17_malawi-egypt_1-2",
+  "date": "2026-11-17",
+  "ko": "14:00",
+  "match": "Malawi v Egypt",
+  "cell": "1-2"
+ },
+ {
+  "id": "2026-11-17_malawi-egypt_1-3",
+  "date": "2026-11-17",
+  "ko": "14:00",
+  "match": "Malawi v Egypt",
+  "cell": "1-3"
+ },
+ {
+  "id": "2026-11-17_south-sudan-angola_0-1",
+  "date": "2026-11-17",
+  "ko": "14:00",
+  "match": "South Sudan v Angola",
+  "cell": "0-1"
+ },
+ {
+  "id": "2026-11-17_south-sudan-angola_1-2",
+  "date": "2026-11-17",
+  "ko": "14:00",
+  "match": "South Sudan v Angola",
+  "cell": "1-2"
+ },
+ {
+  "id": "2026-11-17_south-sudan-angola_1-3",
+  "date": "2026-11-17",
+  "ko": "14:00",
+  "match": "South Sudan v Angola",
+  "cell": "1-3"
+ },
+ {
+  "id": "2026-11-17_tanzania-nigeria_0-1",
+  "date": "2026-11-17",
+  "ko": "14:00",
+  "match": "Tanzania v Nigeria",
+  "cell": "0-1"
+ },
+ {
+  "id": "2026-11-17_tanzania-nigeria_1-2",
+  "date": "2026-11-17",
+  "ko": "14:00",
+  "match": "Tanzania v Nigeria",
+  "cell": "1-2"
  }
 ]
