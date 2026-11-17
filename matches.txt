@@ -1,5 +1,2 @@
-# 2026-11-17 15:28 cloud snapshot 15:15 s1
-Lithuania U19 v Germany U19 | n=20 | xg=10
-Iraq v Iran | n=20 | xg=10
-Koprivnica v Solin | n=20 | xg=10
-Croatia U21 v Germany U21 | n=20 | xg=10
+# 2026-11-17 16:15 cloud snapshot 15:56 s2
+Republic of Ireland U21 v Finland U21 | n=20 | xg=10
