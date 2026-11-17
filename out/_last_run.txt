@@ -1,3 +1,10 @@
-RUN 2026-11-16 20:11 local | 1 match(es)
-Wanderers v Juventud -> out/Wanderers_v_Juventud.txt
-Requests used: API-Football 26, Matchbook 0
+RUN 2026-11-17 10:39 local | 8 match(es)
+China v Bahrain -> out/China_v_Bahrain.txt
+Kyrgyzstan v Vietnam -> out/Kyrgyzstan_v_Vietnam.txt
+Tanzania v Nigeria -> out/Tanzania_v_Nigeria.txt
+Burundi v Zambia -> out/Burundi_v_Zambia.txt
+South Sudan v Angola -> out/South_Sudan_v_Angola.txt
+Malawi v Egypt -> out/Malawi_v_Egypt.txt
+Ethiopia v Mozambique -> out/Ethiopia_v_Mozambique.txt
+Japan v Paraguay -> out/Japan_v_Paraguay.txt
+Requests used: API-Football 201, Matchbook 0
