@@ -1,7 +1,4 @@
-# 2026-11-17 14:42 cloud snapshot 14:27 s4
-UAE v Syria | n=20 | xg=10
-Guinea-Bissau v Madagascar | n=20 | xg=10
-Sierra Leone v DR Congo | n=20 | xg=10
-Libya v Tunisia | n=20 | xg=10
-Togo v Algeria | n=20 | xg=10
-Gambia v Ivory Coast | n=20 | xg=10
+# 2026-11-17 14:45 cloud snapshot 14:27 s4 (retry: UAE ambiguous, Guinea-Bissau hyphen, DR Congo matched U17)
+United Arab Emirates v Syria | n=20 | xg=10
+Guinea Bissau v Madagascar | n=20 | xg=10
+Sierra Leone v Congo DR | n=20 | xg=10
