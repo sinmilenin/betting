@@ -44,37 +44,5 @@
   "swapped": false,
   "conf": 0,
   "note": "no API-Football fixture on 2026-11-16 within 90 min of 11:00 with matching names"
- },
- {
-  "id": "2026-11-17_wanderers-uru-juventud-de-las-piedras_0-1",
-  "match": "Wanderers (Uru) v Juventud De Las Piedras",
-  "cell": "0-1",
-  "state": "final",
-  "score": "2-1",
-  "result": "won",
-  "api": "Wanderers v Juventud",
-  "status": "FT",
-  "api_ko": "00:00",
-  "fixture": 1649063,
-  "swapped": false,
-  "conf": 0.85,
-  "note": "",
-  "league": "Uruguay, Primera División"
- },
- {
-  "id": "2026-11-17_wanderers-uru-juventud-de-las-piedras_1-0",
-  "match": "Wanderers (Uru) v Juventud De Las Piedras",
-  "cell": "1-0",
-  "state": "final",
-  "score": "2-1",
-  "result": "won",
-  "api": "Wanderers v Juventud",
-  "status": "FT",
-  "api_ko": "00:00",
-  "fixture": 1649063,
-  "swapped": false,
-  "conf": 0.85,
-  "note": "",
-  "league": "Uruguay, Primera División"
  }
 ]
