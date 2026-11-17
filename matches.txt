@@ -1,2 +1,2 @@
-# 2026-11-17 14:47 cloud snapshot 14:27 s4 (retry 2: Guinea-Bissau not found by name, list candidates)
-Bissau v Madagascar | n=20 | xg=10
+# 2026-11-17 14:49 cloud snapshot 14:27 s4 (retry 3: Guinea-Bissau by id)
+id:1513 v Madagascar | n=20 | xg=10
