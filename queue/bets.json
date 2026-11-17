@@ -1,27 +1,5 @@
 [
   {
-    "id": "2026-11-17_japan-paraguay_1-0",
-    "date": "2026-11-17",
-    "ko": "14:10",
-    "match": "Japan v Paraguay",
-    "comp": "International, Friendlies International",
-    "cell": "1-0",
-    "lay": 9.0,
-    "stake": 3,
-    "created": "2026-11-17T12:14:04Z"
-  },
-  {
-    "id": "2026-11-17_qatar-south-korea_1-2",
-    "date": "2026-11-17",
-    "ko": "15:00",
-    "match": "Qatar v South Korea",
-    "comp": "International, Friendlies International",
-    "cell": "1-2",
-    "lay": 9.6,
-    "stake": 3,
-    "created": "2026-11-17T13:47:00Z"
-  },
-  {
     "id": "2026-11-17_sierra-leone-dr-congo_1-2",
     "date": "2026-11-17",
     "ko": "17:00",
@@ -42,5 +20,16 @@
     "lay": 11.5,
     "stake": 3,
     "created": "2026-11-17T14:28:00Z"
+  },
+  {
+    "id": "2026-11-18_ecuador-bolivia_3-1",
+    "date": "2026-11-18",
+    "ko": "00:30",
+    "match": "Ecuador v Bolivia",
+    "comp": "International, Friendlies International",
+    "cell": "3-1",
+    "lay": 15.5,
+    "stake": 3,
+    "created": "2026-11-17T20:14:15Z"
   }
 ]
