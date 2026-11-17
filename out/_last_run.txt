@@ -1,18 +1,4 @@
-RUN 2026-11-17 12:55 local | 15 match(es)
-Saudi Arabia v Uzbekistan -> out/Saudi_Arabia_v_Uzbekistan.txt
-Montenegro U19 v Serbia U19 -> out/Montenegro_U19_v_Serbia_U19.txt
-Denmark v Norway -> out/Denmark_v_Norway.txt
-Israel v Austria -> out/Israel_v_Austria.txt
-Poland v Sweden -> out/Poland_v_Sweden.txt
-Bosnia & Herzegovina v Romania -> out/Bosnia_Herzegovina_v_Romania.txt
-    !! Bosnia & Herzegovina: API-Football error: {"search": "The Search field may only contain alpha-numeric characters and spaces."}
-Wales v Portugal -> out/Wales_v_Portugal.txt
-Botswana v Uganda -> out/Botswana_v_Uganda.txt
-Hungary v Northern Ireland -> out/Hungary_v_Northern_Ireland.txt
-Ireland v Kosovo -> out/Ireland_v_Kosovo.txt
-Liberia v Cape Verde Islands -> out/Liberia_v_Cape_Verde_Islands.txt
-Luton v Peterborough -> out/Luton_v_Peterborough.txt
-Ukraine v Georgia -> out/Ukraine_v_Georgia.txt
-Jordan v Australia -> out/Jordan_v_Australia.txt
-Kenya v South Africa -> out/Kenya_v_South_Africa.txt
-Requests used: API-Football 346, Matchbook 0
+RUN 2026-11-17 12:57 local | 2 match(es)
+id:1113 v Romania -> out/id_1113_v_Romania.txt
+id:776 v Kosovo -> out/id_776_v_Kosovo.txt
+Requests used: API-Football 49, Matchbook 0
