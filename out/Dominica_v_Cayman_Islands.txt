@@ -1,0 +1,63 @@
+MATCH Dominica v Cayman Islands | fetched 2026-11-17 16:39 local
+
+FORM DATA Dominica v Cayman Islands | source API-Football | 2026-11-17 16:39 UTC
+H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
+
+=== Dominica (id 5531): last 20 finished games ===
+2026-11-13 A 2-4 v Puerto Rico | CONCACAF Nations League | Leonora | xG 0.76-3.26
+2026-10-04 A 1-8 v Guyana | CONCACAF Nations League | Mayaguez | xG 0.24-5.22
+2026-10-01 H 1-5 v Guyana | CONCACAF Nations League | Mayaguez | xG 1.16-2.20
+2026-09-28 H 0-2 v Puerto Rico | CONCACAF Nations League | Roseau
+2026-09-25 A 0-0 v Cayman Islands | CONCACAF Nations League | Roseau
+2026-09-21 H 1-0 v Anguilla | Friendlies | Roseau
+2026-03-30 H 0-0 v Sint Maarten | CONCACAF Series | Santiago
+2026-03-27 A 0-2 v Guyana | CONCACAF Series | Santiago
+2025-11-15 H 2-3 v Sint Maarten | CONCACAF Series | Basseterre
+2025-11-12 H 1-2 v Saint Martin | CONCACAF Series | Basseterre
+2025-06-10 A 0-5 v Dominican Republic | World Cup - Qualification CONCACAF | Santo Domingo
+2025-06-04 H 3-0 v British Virgin Islands | World Cup - Qualification CONCACAF | Roseau
+2025-05-11 H 0-0 v Barbados | Friendlies | Roseau
+2025-05-08 H 0-0 v Barbados | Friendlies | Roseau
+2024-11-19 A 0-0 v Antigua and Barbuda | CONCACAF Nations League | Santiago De Los Caballeros
+2024-11-16 H 1-6 v Dominican Republic | CONCACAF Nations League | Santiago De Los Caballeros
+2024-10-16 A 2-3 v Bermuda | CONCACAF Nations League | Hamilton, Devonshire Parish
+2024-10-12 H 1-6 v Bermuda | CONCACAF Nations League | Hamilton, Devonshire Parish
+2024-09-10 A 0-2 v Dominican Republic | CONCACAF Nations League | Piggotts
+2024-09-07 H 2-1 v Antigua and Barbuda | CONCACAF Nations League | Piggotts
+Listed home: 12 games, scored 12 (1.00), conceded 25 (2.08), blanks 4, clean sheets 5
+Listed away: 8 games, scored 5 (0.62), conceded 24 (3.00), blanks 5, clean sheets 2
+All: 20 games, scored 17 (0.85), conceded 49 (2.45), blanks 9, clean sheets 7
+
+=== Cayman Islands (id 8169): last 20 finished games ===
+2026-11-12 H 0-6 v Guyana | CONCACAF Nations League | Leonora | xG 0.27-4.37
+2026-10-04 A 0-1 v Puerto Rico | CONCACAF Nations League | Mayaguez | xG 0.47-3.35
+2026-10-02 H 0-3 v Puerto Rico | CONCACAF Nations League | Mayaguez | xG 0.20-1.95
+2026-09-27 A 0-2 v Guyana | CONCACAF Nations League | Roseau
+2026-09-25 H 0-0 v Dominica | CONCACAF Nations League | Roseau
+2026-06-06 A 1-4 v Gibraltar | Friendlies | Gibraltar
+2026-03-30 H 1-0 v Bahamas | CONCACAF Series | George Town
+2026-03-27 H 1-1 v British Virgin Islands | CONCACAF Series | George Town
+2025-11-16 H 4-0 v Anguilla | CONCACAF Series | George Town
+2025-11-13 H 1-2 v British Virgin Islands | CONCACAF Series | George Town
+2025-06-07 H 0-1 v Honduras | World Cup - Qualification CONCACAF | George Town
+2025-06-04 A 0-5 v Bermuda | World Cup - Qualification CONCACAF | Hamilton
+2024-11-19 A 0-1 v Guadeloupe | CONCACAF Nations League | Le-Gosier
+2024-11-15 H 0-6 v Guadeloupe | CONCACAF Nations League | George Town
+2024-10-15 A 1-1 v St. Kitts and Nevis | CONCACAF Nations League | Basseterre
+2024-10-12 H 1-0 v British Virgin Islands | CONCACAF Nations League | Basseterre
+2024-09-07 H 1-4 v St. Kitts and Nevis | CONCACAF Nations League | George Town
+2024-09-04 A 1-0 v British Virgin Islands | CONCACAF Nations League | George Town
+2024-06-11 A 0-3 v Cuba | World Cup - Qualification CONCACAF | Santiago de Cuba
+2024-06-08 H 1-0 v Antigua and Barbuda | World Cup - Qualification CONCACAF | George Town
+Listed home: 12 games, scored 10 (0.83), conceded 23 (1.92), blanks 5, clean sheets 5
+Listed away: 8 games, scored 3 (0.38), conceded 17 (2.12), blanks 5, clean sheets 1
+All: 20 games, scored 13 (0.65), conceded 40 (2.00), blanks 10, clean sheets 6
+
+(no league table available for Dominica: tried CONCACAF Nations League 2025, CONCACAF Series 2026, World Cup - Qualification CONCACAF 2026)
+
+(no league table available for Cayman Islands: tried CONCACAF Nations League 2025, CONCACAF Series 2026, World Cup - Qualification CONCACAF 2026)
+
+(24 API-Football requests used)
+
+----------------------------------------------------------------------
+MATCHBOOK: skipped (switched off for this run)

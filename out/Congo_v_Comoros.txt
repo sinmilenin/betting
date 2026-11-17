@@ -1,58 +1,57 @@
-MATCH Kenya v South Africa | fetched 2026-11-17 15:53 local
+MATCH Congo v Comoros | fetched 2026-11-17 16:39 local
 
-FORM DATA Kenya v South Africa | source API-Football | 2026-11-17 15:53 UTC
+FORM DATA Congo v Comoros | source API-Football | 2026-11-17 16:39 UTC
 H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
 
-=== Kenya (id 1511): last 19 finished games ===
-2026-11-13 A 2-2 v South Africa | Africa Cup of Nations - Qualification | Johannesburg | xG 1.13-1.87
-2026-10-05 A 0-0 v Rwanda | Friendlies | Kigali
-2026-10-01 A 0-1 v Guinea | Africa Cup of Nations - Qualification | Conakry
-2026-09-26 H 1-1 v Eritrea | Africa Cup of Nations - Qualification | Nairobi
-2026-06-07 H 4-0 v Lesotho | Friendlies | Pretoria
-2026-06-04 A 1-1 v Lesotho | Friendlies | Atteridgeville
-2026-03-30 A 3-0 v Grenada | FIFA Series | Kigali
-2026-03-27 H 1-1 v Estonia | FIFA Series | Kigali [PEN, 90-min score shown]
-2025-11-18 A 0-8 v Senegal | Friendlies | ?
-2025-11-14 H 0-1 v Equatorial Guinea | Friendlies | ?
-2025-10-14 A 0-3 v Ivory Coast | World Cup - Qualification Africa | Abidjan
-2025-10-09 A 1-0 v Burundi | World Cup - Qualification Africa | Bujumbura
-2025-09-09 H 5-0 v Seychelles | World Cup - Qualification Africa | Nairobi
-2025-09-05 H 1-3 v Gambia | World Cup - Qualification Africa | Nairobi
-2025-08-22 H 1-1 v Madagascar | African Nations Championship | Nairobi [PEN, 90-min score shown]
-2025-08-17 A 1-0 v Zambia | African Nations Championship | Nairobi
-2025-08-10 H 1-0 v Morocco | African Nations Championship | Nairobi
-2025-08-07 A 1-1 v Angola | African Nations Championship | Nairobi
-2025-08-03 H 1-0 v Congo DR | African Nations Championship | Nairobi
-Listed home: 9 games, scored 15 (1.67), conceded 7 (0.78), blanks 1, clean sheets 4
-Listed away: 10 games, scored 9 (0.90), conceded 16 (1.60), blanks 4, clean sheets 4
-All: 19 games, scored 24 (1.26), conceded 23 (1.21), blanks 5, clean sheets 8
+=== Congo (id 1517): last 18 finished games ===
+2026-11-13 A 0-0 v Comoros | Africa Cup of Nations - Qualification | Moroni | xG 0.61-0.60
+2026-09-29 H 1-1 v Cameroon | Africa Cup of Nations - Qualification | Brazzaville
+2026-09-24 A 0-1 v Namibia | Africa Cup of Nations - Qualification | Gaborone
+2025-10-14 A 0-1 v Morocco | World Cup - Qualification Africa | Rabat
+2025-10-08 A 1-3 v Niger | World Cup - Qualification Africa | Ouagadougou
+2025-09-05 H 1-1 v Tanzania | World Cup - Qualification Africa | Brazzaville
+2025-08-19 A 0-2 v Nigeria | African Nations Championship | Dar-es-Salaam
+2025-08-12 A 1-1 v Senegal | African Nations Championship | Zanzibar City
+2025-08-05 H 1-1 v Sudan | African Nations Championship | Zanzibar City
+2024-12-29 H 2-1 v Equatorial Guinea | African Nations Championship - Qualification | Brazzaville
+2024-12-21 A 0-0 v Equatorial Guinea | African Nations Championship - Qualification | Malabo
+2024-11-19 H 0-1 v Uganda | Africa Cup of Nations - Qualification | Brazzaville
+2024-11-14 A 2-3 v South Sudan | Africa Cup of Nations - Qualification | Juba
+2024-10-15 H 1-1 v South Africa | Africa Cup of Nations - Qualification | Brazzaville
+2024-10-11 A 0-5 v South Africa | Africa Cup of Nations - Qualification | Gqeberha
+2024-09-09 A 0-2 v Uganda | Africa Cup of Nations - Qualification | Kampala
+2024-09-05 H 1-0 v South Sudan | Africa Cup of Nations - Qualification | Brazzaville
+2024-06-11 H 0-6 v Morocco | World Cup - Qualification Africa | Agadir
+Listed home: 8 games, scored 7 (0.88), conceded 12 (1.50), blanks 2, clean sheets 1
+Listed away: 10 games, scored 4 (0.40), conceded 18 (1.80), blanks 7, clean sheets 2
+All: 18 games, scored 11 (0.61), conceded 30 (1.67), blanks 9, clean sheets 3
 
-=== South Africa (id 1531): last 20 finished games ===
-2026-11-13 H 2-2 v Kenya | Africa Cup of Nations - Qualification | Johannesburg | xG 1.87-1.13
-2026-10-04 A 1-0 v Egypt | Friendlies | Cairo | xG 0.74-1.92
-2026-09-30 A 5-0 v Eritrea | Africa Cup of Nations - Qualification | Cairo
-2026-09-26 H 2-1 v Guinea | Africa Cup of Nations - Qualification | Johannesburg
-2026-06-28 H 0-1 v Canada | World Cup | Inglewood | xG 0.13-1.32
-2026-06-25 H 1-0 v South Korea | World Cup | Monterrey | xG 1.16-0.90
-2026-06-18 A 1-1 v Czech Republic | World Cup | Atlanta | xG 1.38-1.02
-2026-06-11 A 0-2 v Mexico | World Cup | Mexico City | xG 0.07-1.46
-2026-06-06 A 1-1 v Jamaica | Friendlies | Pachuca de Soto
-2026-05-29 H 0-0 v Nicaragua | Friendlies | Johannesburg
-2026-03-31 H 1-2 v Panama | Friendlies | Cape Town
-2026-03-27 H 1-1 v Panama | Friendlies | Durban
-2026-01-04 H 1-2 v Cameroon | Africa Cup of Nations | Rabat
-2025-12-29 A 3-2 v Zimbabwe | Africa Cup of Nations | Marrakech
-2025-12-26 A 0-1 v Egypt | Africa Cup of Nations | Agadir
-2025-12-22 H 2-1 v Angola | Africa Cup of Nations | Marrakech
-2025-12-16 H 1-0 v Ghana B | Friendlies | ?
-2025-11-15 H 3-1 v Zambia | Friendlies | Port Elizabeth
-2025-10-14 H 3-0 v Rwanda | World Cup - Qualification Africa | Mbombela
-2025-10-10 A 0-0 v Zimbabwe | World Cup - Qualification Africa | Durban
-Listed home: 12 games, scored 17 (1.42), conceded 11 (0.92), blanks 2, clean sheets 4
-Listed away: 8 games, scored 11 (1.38), conceded 7 (0.88), blanks 3, clean sheets 3
-All: 20 games, scored 28 (1.40), conceded 18 (0.90), blanks 5, clean sheets 7
+=== Comoros (id 1524): last 20 finished games ===
+2026-11-13 H 0-0 v Congo | Africa Cup of Nations - Qualification | Moroni | xG 0.60-0.61
+2026-10-04 H 0-1 v Senegal | Friendlies | ?
+2026-09-29 H 1-0 v Namibia | Africa Cup of Nations - Qualification | Moroni
+2026-09-24 A 1-3 v Cameroon | Africa Cup of Nations - Qualification | Garoua
+2026-06-09 A 1-0 v Equatorial Guinea | Friendlies | Marrakech
+2026-06-06 A 1-2 v Morocco U23 | Friendlies | ?
+2026-03-31 A 0-1 v Kazakhstan | FIFA Series | Astana
+2026-03-28 A 0-0 v Namibia | FIFA Series | Astana [PEN, 90-min score shown]
+2025-12-29 H 0-0 v Mali | Africa Cup of Nations | Casablanca
+2025-12-26 A 0-0 v Zambia | Africa Cup of Nations | Casablanca
+2025-12-21 A 0-2 v Morocco | Africa Cup of Nations | Rabat
+2025-12-08 A 1-2 v Oman | Arab Cup | Doha
+2025-12-05 H 1-3 v Saudi Arabia | Arab Cup | Al Khor
+2025-12-02 A 1-3 v Morocco | Arab Cup | Al Rayyan
+2025-11-26 H 4-4 v Yemen | Arab Cup | ? [PEN, 90-min score shown]
+2025-11-17 H 4-0 v Namibia | Friendlies | ?
+2025-11-14 H 1-0 v Namibia | Friendlies | ?
+2025-10-12 A 0-1 v Ghana | World Cup - Qualification Africa | Accra
+2025-10-08 H 1-2 v Madagascar | World Cup - Qualification Africa | Abidjan
+2025-09-07 A 2-0 v Central African Republic | World Cup - Qualification Africa | Meknes
+Listed home: 9 games, scored 12 (1.33), conceded 10 (1.11), blanks 3, clean sheets 5
+Listed away: 11 games, scored 7 (0.64), conceded 14 (1.27), blanks 5, clean sheets 4
+All: 20 games, scored 19 (0.95), conceded 24 (1.20), blanks 8, clean sheets 9
 
-TABLE FOR Kenya
+TABLE FOR Congo
 LEAGUE TABLE Africa Cup of Nations - Qualification 2027 | 48 teams | 83 games played
 League averages per game: home 1.58, away 1.08, total 2.66
 #   team                   Pts | home P GF-GA  | away P GF-GA  | all P GF-GA
@@ -105,7 +104,7 @@ League averages per game: home 1.58, away 1.08, total 2.66
 3   Madagascar               2 |  2   2-2       |  1   1-2       |  3   3-4 [Group L]
 4   Tanzania                 1 |  1   0-2       |  2   2-4       |  3   2-6 [Group L]
 
-(South Africa: same table as Kenya, shown above)
+(Comoros: same table as Congo, shown above)
 
 (24 API-Football requests used)
 

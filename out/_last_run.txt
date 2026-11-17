@@ -1,17 +1,8 @@
-RUN 2026-11-17 15:53 local | 13 match(es)
-Guinea-Bissau v Madagascar -> out/Guinea_Bissau_v_Madagascar.txt
-    !! Guinea-Bissau: API-Football error: {"search": "The Search field may only contain alpha-numeric characters and spaces."}
-Kenya v South Africa -> out/Kenya_v_South_Africa.txt
-Jordan v Australia -> out/Jordan_v_Australia.txt
-Sierra Leone v Congo DR -> out/Sierra_Leone_v_Congo_DR.txt
-Gambia v Ivory Coast -> out/Gambia_v_Ivory_Coast.txt
-Togo v Algeria -> out/Togo_v_Algeria.txt
-Czech Republic U21 v Turkey U21 -> out/Czech_Republic_U21_v_Turkey_U21.txt
-    !! Czech Republic U21: No team found for "Czech Republic U21".
-Libya v Tunisia -> out/Libya_v_Tunisia.txt
-Iraq v Iran -> out/Iraq_v_Iran.txt
-Koprivnica v Solin -> out/Koprivnica_v_Solin.txt
-Croatia U21 v Germany U21 -> out/Croatia_U21_v_Germany_U21.txt
-Romania U20 v Poland U20 -> out/Romania_U20_v_Poland_U20.txt
-Republic of Ireland U21 v Finland U21 -> out/Republic_of_Ireland_U21_v_Finland_U21.txt
-Requests used: API-Football 298, Matchbook 0
+RUN 2026-11-17 16:39 local | 6 match(es)
+Saint Lucia v Barbados -> out/Saint_Lucia_v_Barbados.txt
+Rwanda v Mali -> out/Rwanda_v_Mali.txt
+Congo v Comoros -> out/Congo_v_Comoros.txt
+Mauritania v Burkina Faso -> out/Mauritania_v_Burkina_Faso.txt
+Belize v Sint Maarten -> out/Belize_v_Sint_Maarten.txt
+Dominica v Cayman Islands -> out/Dominica_v_Cayman_Islands.txt
+Requests used: API-Football 145, Matchbook 0
