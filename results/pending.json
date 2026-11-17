@@ -21,102 +21,32 @@
   "cell": "0-1"
  },
  {
-  "id": "2026-11-17_gambia-ivory-coast_0-1",
+  "id": "2026-11-17_croatia-u21-germany-u21_0-1",
   "date": "2026-11-17",
-  "ko": "17:00",
-  "match": "Gambia v Ivory Coast",
+  "ko": "18:00",
+  "match": "Croatia U21 v Germany U21",
   "cell": "0-1"
  },
  {
-  "id": "2026-11-17_guinea-bissau-madagascar_0-1",
+  "id": "2026-11-17_croatia-u21-germany-u21_1-2",
   "date": "2026-11-17",
-  "ko": "17:00",
-  "match": "Guinea-Bissau v Madagascar",
-  "cell": "0-1"
- },
- {
-  "id": "2026-11-17_guinea-bissau-madagascar_1-0",
-  "date": "2026-11-17",
-  "ko": "17:00",
-  "match": "Guinea-Bissau v Madagascar",
-  "cell": "1-0"
- },
- {
-  "id": "2026-11-17_jordan-australia_0-1",
-  "date": "2026-11-17",
-  "ko": "17:00",
-  "match": "Jordan v Australia",
-  "cell": "0-1"
- },
- {
-  "id": "2026-11-17_jordan-australia_1-0",
-  "date": "2026-11-17",
-  "ko": "17:00",
-  "match": "Jordan v Australia",
-  "cell": "1-0"
- },
- {
-  "id": "2026-11-17_kenya-south-africa_0-1",
-  "date": "2026-11-17",
-  "ko": "17:00",
-  "match": "Kenya v South Africa",
-  "cell": "0-1"
- },
- {
-  "id": "2026-11-17_kenya-south-africa_1-0",
-  "date": "2026-11-17",
-  "ko": "17:00",
-  "match": "Kenya v South Africa",
-  "cell": "1-0"
- },
- {
-  "id": "2026-11-17_kenya-south-africa_1-2",
-  "date": "2026-11-17",
-  "ko": "17:00",
-  "match": "Kenya v South Africa",
+  "ko": "18:00",
+  "match": "Croatia U21 v Germany U21",
   "cell": "1-2"
  },
  {
-  "id": "2026-11-17_libya-tunisia_0-1",
+  "id": "2026-11-17_romania-u20-poland-u20_1-0",
   "date": "2026-11-17",
-  "ko": "17:00",
-  "match": "Libya v Tunisia",
-  "cell": "0-1"
- },
- {
-  "id": "2026-11-17_libya-tunisia_1-2",
-  "date": "2026-11-17",
-  "ko": "17:00",
-  "match": "Libya v Tunisia",
-  "cell": "1-2"
- },
- {
-  "id": "2026-11-17_sierra-leone-dr-congo_0-1",
-  "date": "2026-11-17",
-  "ko": "17:00",
-  "match": "Sierra Leone v DR Congo",
-  "cell": "0-1"
- },
- {
-  "id": "2026-11-17_sierra-leone-dr-congo_1-2",
-  "date": "2026-11-17",
-  "ko": "17:00",
-  "match": "Sierra Leone v DR Congo",
-  "cell": "1-2"
- },
- {
-  "id": "2026-11-17_togo-algeria_0-1",
-  "date": "2026-11-17",
-  "ko": "17:00",
-  "match": "Togo v Algeria",
-  "cell": "0-1"
- },
- {
-  "id": "2026-11-17_togo-algeria_1-0",
-  "date": "2026-11-17",
-  "ko": "17:00",
-  "match": "Togo v Algeria",
+  "ko": "18:00",
+  "match": "Romania U20 v Poland U20",
   "cell": "1-0"
+ },
+ {
+  "id": "2026-11-17_romania-u20-poland-u20_2-2",
+  "date": "2026-11-17",
+  "ko": "18:00",
+  "match": "Romania U20 v Poland U20",
+  "cell": "2-2"
  },
  {
   "id": "2026-11-17_uae-syria_2-1",
