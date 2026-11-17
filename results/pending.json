@@ -21,6 +21,69 @@
   "cell": "0-1"
  },
  {
+  "id": "2026-11-17_belize-sint-maarten_0-1",
+  "date": "2026-11-17",
+  "ko": "20:00",
+  "match": "Belize v Sint Maarten",
+  "cell": "0-1"
+ },
+ {
+  "id": "2026-11-17_belize-sint-maarten_1-0",
+  "date": "2026-11-17",
+  "ko": "20:00",
+  "match": "Belize v Sint Maarten",
+  "cell": "1-0"
+ },
+ {
+  "id": "2026-11-17_belize-sint-maarten_2-2",
+  "date": "2026-11-17",
+  "ko": "20:00",
+  "match": "Belize v Sint Maarten",
+  "cell": "2-2"
+ },
+ {
+  "id": "2026-11-17_botswana-uganda_1-0",
+  "date": "2026-11-17",
+  "ko": "20:00",
+  "match": "Botswana v Uganda",
+  "cell": "1-0"
+ },
+ {
+  "id": "2026-11-17_dominica-cayman-islands_3-1",
+  "date": "2026-11-17",
+  "ko": "20:00",
+  "match": "Dominica v Cayman Islands",
+  "cell": "3-1"
+ },
+ {
+  "id": "2026-11-17_dominica-cayman-islands_aohw",
+  "date": "2026-11-17",
+  "ko": "20:00",
+  "match": "Dominica v Cayman Islands",
+  "cell": "AOHW"
+ },
+ {
+  "id": "2026-11-17_liberia-cape-verde_0-1",
+  "date": "2026-11-17",
+  "ko": "20:00",
+  "match": "Liberia v Cape Verde",
+  "cell": "0-1"
+ },
+ {
+  "id": "2026-11-17_mauritania-burkina-faso_0-1",
+  "date": "2026-11-17",
+  "ko": "20:00",
+  "match": "Mauritania v Burkina Faso",
+  "cell": "0-1"
+ },
+ {
+  "id": "2026-11-17_mauritania-burkina-faso_1-0",
+  "date": "2026-11-17",
+  "ko": "20:00",
+  "match": "Mauritania v Burkina Faso",
+  "cell": "1-0"
+ },
+ {
   "id": "2026-11-17_rep-of-ireland-u21-finland-u21_0-1",
   "date": "2026-11-17",
   "ko": "18:45",
@@ -40,6 +103,34 @@
   "ko": "18:45",
   "match": "Rep of Ireland U21 v Finland U21",
   "cell": "2-2"
+ },
+ {
+  "id": "2026-11-17_rwanda-mali_1-2",
+  "date": "2026-11-17",
+  "ko": "20:00",
+  "match": "Rwanda v Mali",
+  "cell": "1-2"
+ },
+ {
+  "id": "2026-11-17_st-lucia-barbados_1-0",
+  "date": "2026-11-17",
+  "ko": "20:00",
+  "match": "St Lucia v Barbados",
+  "cell": "1-0"
+ },
+ {
+  "id": "2026-11-17_st-lucia-barbados_2-0",
+  "date": "2026-11-17",
+  "ko": "20:00",
+  "match": "St Lucia v Barbados",
+  "cell": "2-0"
+ },
+ {
+  "id": "2026-11-17_st-lucia-barbados_3-0",
+  "date": "2026-11-17",
+  "ko": "20:00",
+  "match": "St Lucia v Barbados",
+  "cell": "3-0"
  },
  {
   "id": "2026-11-17_uae-syria_2-1",
