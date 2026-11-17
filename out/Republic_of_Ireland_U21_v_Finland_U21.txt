@@ -1,59 +1,59 @@
-MATCH Croatia U21 v Germany U21 | fetched 2026-11-17 14:24 local
+MATCH Republic of Ireland U21 v Finland U21 | fetched 2026-11-17 15:12 local
 
-FORM DATA Croatia U21 v Germany U21 | source API-Football | 2026-11-17 14:24 UTC
+FORM DATA Republic of Ireland U21 v Finland U21 | source API-Football | 2026-11-17 15:12 UTC
 H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
 
-=== Croatia U21 (id 8186): last 20 finished games ===
-2026-10-06 A 1-0 v Lithuania U21 | UEFA U21 Championship - Qualification | Druskininkai
-2026-10-02 A 0-1 v Ukraine U21 | UEFA U21 Championship - Qualification | Miskolc
-2026-09-26 H 3-1 v Hungary U21 | UEFA U21 Championship - Qualification | ?
-2026-06-06 H 2-2 v Republic of Ireland U21 | Friendlies | Vrbovec
-2026-06-03 H 2-0 v Qatar U23 | Friendlies | Krizevci
-2026-05-30 H 1-1 v Greece U21 | Friendlies | Koprivnica
-2026-03-31 H 3-0 v Turkey U21 | UEFA U21 Championship - Qualification | Osijek
-2025-11-18 A 2-0 v Hungary U21 | UEFA U21 Championship - Qualification | Budapest
-2025-11-13 H 4-0 v Lithuania U21 | UEFA U21 Championship - Qualification | Velika Gorica
-2025-10-14 H 1-0 v Ukraine U21 | UEFA U21 Championship - Qualification | Velika Gorica
-2025-09-09 A 1-1 v Turkey U21 | UEFA U21 Championship - Qualification | Trabzon
-2024-11-19 H 3-2 v Georgia U21 | UEFA U21 Championship - Qualification | Rijeka [PEN, 90-min score shown]
-2024-11-15 A 0-1 v Georgia U21 | UEFA U21 Championship - Qualification | Tbilisi
-2024-10-15 H 3-2 v Greece U21 | UEFA U21 Championship - Qualification | Koprivnica
-2024-10-11 H 2-0 v Andorra U21 | UEFA U21 Championship - Qualification | Koprivnica
-2024-09-10 H 0-2 v Portugal U21 | UEFA U21 Championship - Qualification | Karlovac
-2024-09-05 H 2-1 v Faroe Islands U21 | UEFA U21 Championship - Qualification | Zagreb
-2024-03-26 A 1-5 v Portugal U21 | UEFA U21 Championship - Qualification | Faro
-2024-03-21 A 3-0 v Andorra U21 | UEFA U21 Championship - Qualification | Andorra la Vella
-2023-11-20 A 1-0 v Belarus U21 | UEFA U21 Championship - Qualification | Armavir
-Listed home: 12 games, scored 26 (2.17), conceded 11 (0.92), blanks 1, clean sheets 5
-Listed away: 8 games, scored 9 (1.12), conceded 8 (1.00), blanks 2, clean sheets 4
-All: 20 games, scored 35 (1.75), conceded 19 (0.95), blanks 3, clean sheets 9
+=== Republic of Ireland U21 (id 8217): last 20 finished games ===
+2026-11-13 A 0-1 v Finland U21 | UEFA U21 Championship - Qualification | Tampere
+2026-10-06 H 3-1 v England U21 | UEFA U21 Championship - Qualification | Cork
+2026-09-29 H 4-3 v Kazakhstan U21 | UEFA U21 Championship - Qualification | Cork
+2026-09-25 A 2-0 v Slovakia U21 | UEFA U21 Championship - Qualification | ?
+2026-06-09 H 0-0 v Qatar U23 | Friendlies | Vrbovec
+2026-06-06 A 2-2 v Croatia U21 | Friendlies | Vrbovec
+2026-03-31 A 1-0 v Kazakhstan U21 | UEFA U21 Championship - Qualification | Turkestan
+2026-03-26 H 1-1 v Moldova U21 | UEFA U21 Championship - Qualification | Dublin
+2025-11-18 A 0-4 v Andorra U21 | UEFA U21 Championship - Qualification | Andorra la Vella
+2025-11-14 A 0-2 v England U21 | UEFA U21 Championship - Qualification | Birmingham
+2025-10-10 H 2-2 v Slovakia U21 | UEFA U21 Championship - Qualification | Cork
+2025-09-09 H 1-0 v Andorra U21 | UEFA U21 Championship - Qualification | Dublin
+2025-09-04 A 2-1 v Moldova U21 | UEFA U21 Championship - Qualification | Nisporeni
+2024-10-15 A 1-1 v Italy U21 | UEFA U21 Championship - Qualification | Trieste
+2024-10-11 H 1-1 v Norway U21 | UEFA U21 Championship - Qualification | Cork
+2024-09-10 H 2-2 v Latvia U21 | UEFA U21 Championship - Qualification | Dublin
+2024-09-06 A 1-0 v Turkey U21 | UEFA U21 Championship - Qualification | İstanbul
+2024-03-22 A 7-0 v San Marino U21 | UEFA U21 Championship - Qualification | Serravalle
+2023-11-21 H 2-2 v Italy U21 | UEFA U21 Championship - Qualification | Cork
+2023-11-17 A 2-3 v Norway U21 | UEFA U21 Championship - Qualification | Drammen
+Listed home: 9 games, scored 16 (1.78), conceded 12 (1.33), blanks 1, clean sheets 2
+Listed away: 11 games, scored 18 (1.64), conceded 14 (1.27), blanks 3, clean sheets 4
+All: 20 games, scored 34 (1.70), conceded 26 (1.30), blanks 4, clean sheets 6
 
-=== Germany U21 (id 8196): last 20 finished games ===
-2026-11-13 H 1-2 v Belgium U21 | Friendlies | Essen
-2026-10-06 H 2-0 v Georgia U21 | UEFA U21 Championship - Qualification | Bielefeld
-2026-09-30 A 4-1 v Malta U21 | UEFA U21 Championship - Qualification | ?
-2026-09-26 A 4-0 v Latvia U21 | UEFA U21 Championship - Qualification | Riga
-2026-03-31 A 2-0 v Greece U21 | UEFA U21 Championship - Qualification | Athens
-2026-03-27 H 3-0 v Northern Ireland U21 | UEFA U21 Championship - Qualification | Braunschweig
-2025-11-18 A 2-0 v Georgia U21 | UEFA U21 Championship - Qualification | Tbilisi
-2025-11-14 H 6-0 v Malta U21 | UEFA U21 Championship - Qualification | ?
-2025-10-14 A 2-1 v Northern Ireland U21 | UEFA U21 Championship - Qualification | Belfast
-2025-10-10 H 2-3 v Greece U21 | UEFA U21 Championship - Qualification | Jena
-2025-09-09 H 5-0 v Latvia U21 | UEFA U21 Championship - Qualification | Rostock
-2025-09-05 A 2-0 v Albania U21 | Friendlies | ?
-2025-06-28 A 2-2 v England U21 | UEFA U21 Championship | Bratislava [AET, 90-min score shown]
-2025-06-25 H 3-0 v France U21 | UEFA U21 Championship | Košice
-2025-06-22 H 2-2 v Italy U21 | UEFA U21 Championship | Dunajská Streda [AET, 90-min score shown]
-2025-06-18 A 2-1 v England U21 | UEFA U21 Championship | Nitra
-2025-06-15 A 4-2 v Czech Republic U21 | UEFA U21 Championship | Dunajská Streda
-2025-06-12 H 3-0 v Slovenia U21 | UEFA U21 Championship | Nitra
-2024-10-15 A 3-3 v Poland U21 | UEFA U21 Championship - Qualification | Łódź
-2024-10-11 H 2-1 v Bulgaria U21 | UEFA U21 Championship - Qualification | Regensburg
-Listed home: 10 games, scored 29 (2.90), conceded 8 (0.80), blanks 0, clean sheets 6
-Listed away: 10 games, scored 27 (2.70), conceded 10 (1.00), blanks 0, clean sheets 4
-All: 20 games, scored 56 (2.80), conceded 18 (0.90), blanks 0, clean sheets 10
+=== Finland U21 (id 8193): last 20 finished games ===
+2026-11-13 H 1-0 v Republic of Ireland U21 | UEFA U21 Championship - Qualification | Tampere
+2026-10-06 A 4-4 v Kosovo U21 | UEFA U21 Championship - Qualification | Pristina
+2026-09-30 A 2-0 v Romania U21 | UEFA U21 Championship - Qualification | Targoviste
+2026-09-25 H 2-1 v Spain U21 | UEFA U21 Championship - Qualification | Tampere
+2026-06-08 A 2-0 v Norway U21 | Friendlies | Moss
+2026-06-04 A 3-1 v Sweden U21 | Friendlies | Kalmar
+2026-03-31 H 3-0 v Cyprus U21 | UEFA U21 Championship - Qualification | Tampere
+2026-03-26 A 8-0 v San Marino U21 | UEFA U21 Championship - Qualification | Serravalle
+2025-11-18 H 0-0 v Kosovo U21 | UEFA U21 Championship - Qualification | Turku
+2025-11-14 H 2-0 v Romania U21 | UEFA U21 Championship - Qualification | Turku
+2025-10-14 A 1-2 v Spain U21 | UEFA U21 Championship - Qualification | ?
+2025-09-09 A 5-0 v Cyprus U21 | UEFA U21 Championship - Qualification | Larnaca
+2025-09-04 H 7-0 v San Marino U21 | UEFA U21 Championship - Qualification | Turku
+2025-06-18 A 2-2 v Denmark U21 | UEFA U21 Championship | Košice
+2025-06-15 H 0-2 v Ukraine U21 | UEFA U21 Championship | Košice
+2025-06-12 H 2-2 v Netherlands U21 | UEFA U21 Championship | Košice
+2024-11-19 A 1-2 v Norway U21 | UEFA U21 Championship - Qualification | Stavanger
+2024-11-15 H 5-1 v Norway U21 | UEFA U21 Championship - Qualification | Tampere
+2024-10-15 H 2-1 v Montenegro U21 | UEFA U21 Championship - Qualification | Tampere
+2024-10-11 A 1-1 v Switzerland U21 | UEFA U21 Championship - Qualification | Luzern
+Listed home: 10 games, scored 24 (2.40), conceded 7 (0.70), blanks 2, clean sheets 5
+Listed away: 10 games, scored 29 (2.90), conceded 12 (1.20), blanks 0, clean sheets 4
+All: 20 games, scored 53 (2.65), conceded 19 (0.95), blanks 2, clean sheets 9
 
-TABLE FOR Croatia U21
+TABLE FOR Republic of Ireland U21
 LEAGUE TABLE UEFA U21 Championship - Qualification 2027 | 60 teams | 240 games played
 League averages per game: home 1.74, away 1.45, total 3.19
 #   team                   Pts | home P GF-GA  | away P GF-GA  | all P GF-GA
@@ -118,7 +118,7 @@ League averages per game: home 1.74, away 1.45, total 3.19
 8   Netherlands U21         12 |  0   0-0       |  0   0-0       |  8  15-10 [Ranking of second-placed teams]
 9   Czechia U21             12 |  0   0-0       |  0   0-0       |  8  10-5 [Ranking of second-placed teams]
 
-(Germany U21: same table as Croatia U21, shown above)
+(Finland U21: same table as Republic of Ireland U21, shown above)
 
 (25 API-Football requests used)
 
