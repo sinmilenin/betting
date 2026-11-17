@@ -1,4 +1,4 @@
-RUN 2026-11-17 17:25 local | 1 match(es)
-St. Kitts and Nevis v Bonaire -> out/St_Kitts_and_Nevis_v_Bonaire.txt
-    !! St. Kitts and Nevis: API-Football error: {"search": "The Search field may only contain alpha-numeric characters and spaces."}
-Requests used: API-Football 16, Matchbook 0
+RUN 2026-11-17 17:27 local | 1 match(es)
+Kitts v Bonaire -> out/Kitts_v_Bonaire.txt
+    !! Kitts: Ambiguous team name "Kitts".
+Requests used: API-Football 17, Matchbook 0

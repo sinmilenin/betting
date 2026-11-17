@@ -1,8 +1,17 @@
-MATCH St. Kitts and Nevis v Bonaire | fetched 2026-11-17 17:25 local
+MATCH Kitts v Bonaire | fetched 2026-11-17 17:27 local
 
-FORM DATA St. Kitts and Nevis v Bonaire | source API-Football | 2026-11-17 17:25 UTC
+FORM DATA Kitts v Bonaire | source API-Football | 2026-11-17 17:27 UTC
 H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
 
+"Kitts" matches several teams. Use id:<number> instead of the name:
+  id:5536   St. Kitts and Nevis (Saint-Kitts-and-Nevis) national
+  id:10979  Village Superstars (Saint-Kitts-and-Nevis)
+  id:11009  St Kitts and Nevis U20 (Saint-Kitts-and-Nevis) national
+  id:16592  St. Pauls United (Saint-Kitts-and-Nevis)
+  id:17880  St Kitts and Nevis U23 (Saint-Kitts-and-Nevis) national
+  id:18952  St. Kitts and Nevis W U17 (Saint-Kitts-and-Nevis) national
+  id:19145  St. Kitts and Nevis W (Saint-Kitts-and-Nevis) national
+  id:25546  St. Kitts and Nevis U17 (Saint-Kitts-and-Nevis) national
 === Bonaire (id 10982): last 20 finished games ===
 2026-11-12 H 1-7 v Cuba | CONCACAF Nations League | Havana | xG 0.61-5.35
 2026-10-06 A 4-1 v Grenada | CONCACAF Nations League | Port of Spain
@@ -28,11 +37,21 @@ Listed home: 10 games, scored 10 (1.00), conceded 23 (2.30), blanks 4, clean she
 Listed away: 10 games, scored 14 (1.40), conceded 16 (1.60), blanks 2, clean sheets 2
 All: 20 games, scored 24 (1.20), conceded 39 (1.95), blanks 6, clean sheets 3
 
-!! St. Kitts and Nevis: API-Football error: {"search": "The Search field may only contain alpha-numeric characters and spaces."}
+(retrying Kitts using the opponent's country, Bonaire)
+"Kitts" matches several teams. Use id:<number> instead of the name:
+  id:5536   St. Kitts and Nevis (Saint-Kitts-and-Nevis) national
+  id:10979  Village Superstars (Saint-Kitts-and-Nevis)
+  id:11009  St Kitts and Nevis U20 (Saint-Kitts-and-Nevis) national
+  id:16592  St. Pauls United (Saint-Kitts-and-Nevis)
+  id:17880  St Kitts and Nevis U23 (Saint-Kitts-and-Nevis) national
+  id:18952  St. Kitts and Nevis W U17 (Saint-Kitts-and-Nevis) national
+  id:19145  St. Kitts and Nevis W (Saint-Kitts-and-Nevis) national
+  id:25546  St. Kitts and Nevis U17 (Saint-Kitts-and-Nevis) national
+!! Kitts: Ambiguous team name "Kitts".
 
 (no league table available for Bonaire: tried CONCACAF Nations League 2025, CONCACAF Series 2026, CONCACAF Nations League 2024)
 
-(16 API-Football requests used)
+(17 API-Football requests used)
 
 ----------------------------------------------------------------------
 MATCHBOOK: skipped (switched off for this run)
