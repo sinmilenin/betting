@@ -44,5 +44,37 @@
   "swapped": false,
   "conf": 0,
   "note": "no API-Football fixture on 2026-11-16 within 90 min of 11:00 with matching names"
+ },
+ {
+  "id": "2026-11-17_kyrgyzstan-vietnam_0-1",
+  "match": "Kyrgyzstan v Vietnam",
+  "cell": "0-1",
+  "state": "final",
+  "score": "2-1",
+  "result": "won",
+  "api": "Kyrgyzstan v Vietnam",
+  "status": "FT",
+  "api_ko": "13:00",
+  "fixture": 1647366,
+  "swapped": false,
+  "conf": 1.0,
+  "note": "",
+  "league": "World, Friendlies"
+ },
+ {
+  "id": "2026-11-17_kyrgyzstan-vietnam_1-0",
+  "match": "Kyrgyzstan v Vietnam",
+  "cell": "1-0",
+  "state": "final",
+  "score": "2-1",
+  "result": "won",
+  "api": "Kyrgyzstan v Vietnam",
+  "status": "FT",
+  "api_ko": "13:00",
+  "fixture": 1647366,
+  "swapped": false,
+  "conf": 1.0,
+  "note": "",
+  "league": "World, Friendlies"
  }
 ]
