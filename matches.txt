@@ -1,2 +1,2 @@
-# 2026-11-17 17:50 cloud snapshot 17:26 s4 (St Lucia retry)
-Lucia v Barbados
+# 2026-11-17 17:52 cloud snapshot 17:26 s4 (St Lucia id)
+id:5540 v Barbados
