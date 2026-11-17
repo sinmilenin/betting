@@ -44,21 +44,5 @@
   "swapped": false,
   "conf": 0,
   "note": "no API-Football fixture on 2026-11-16 within 90 min of 11:00 with matching names"
- },
- {
-  "id": "2026-11-17_new-mexico-united-sacramento-republic_0-1",
-  "match": "New Mexico United v Sacramento Republic",
-  "cell": "0-1",
-  "state": "final",
-  "score": "1-1",
-  "result": "won",
-  "api": "New Mexico United v Sacramento Republic",
-  "status": "AET",
-  "api_ko": "03:00",
-  "fixture": 1649528,
-  "swapped": false,
-  "conf": 1.0,
-  "note": "went to AET; score is after 90 minutes",
-  "league": "USA, USL Championship"
  }
 ]
