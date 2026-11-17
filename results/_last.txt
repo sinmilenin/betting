@@ -1,14 +1,5 @@
-RESULTS 2026-11-17 22:35 UTC | 13 rows | dates 2026-11-15, 2026-11-16, 2026-11-17 | API-Football requests 3
+RESULTS 2026-11-17 23:35 UTC | 4 rows | dates 2026-11-15, 2026-11-16, 2026-11-17 | API-Football requests 3
 not_found    19:00 Universidad Guadalajara v Club Atletico Morelia    2-2   -    -> -  [ , conf 0.00] no API-Football fixture on 2026-11-15 within 90 min of 19:00 with matching names
 final        21:15 Cesar Vallejo Moquegua v Atletico Grau             1-0   2-1  -> won  [UCV Moquegua v Atletico Grau FT, conf 0.67] 
 not_found    11:00 FK UCSA Tarasivka v Zhytomyr 2                     0-1   -    -> -  [ , conf 0.00] no API-Football fixture on 2026-11-16 within 90 min of 11:00 with matching names
-final        21:00 Niger v Morocco                                    0-3   0-1  -> won  [Niger v Morocco FT, conf 1.00] 
-final        20:45 Spalding Utd v Hebburn Town                        0-1   0-0  -> won  [Spalding United v Hebburn Town FT, conf 0.93] 
-final        20:45 Spalding Utd v Hebburn Town                        1-0   0-0  -> won  [Spalding United v Hebburn Town FT, conf 0.93] 
-final        20:45 Spennymoor Town v Chester                          0-1   0-5  -> won  [Spennymoor Town v Chester FT, conf 1.00] 
-final        20:45 Spennymoor Town v Chester                          1-0   0-5  -> won  [Spennymoor Town v Chester FT, conf 1.00] 
-final        20:45 Spennymoor Town v Chester                          2-2   0-5  -> won  [Spennymoor Town v Chester FT, conf 1.00] 
-final        20:45 Tonbridge Angels v Chesham Utd                     1-0   2-0  -> won  [Tonbridge Angels v Chesham United FT, conf 0.93] 
-final        20:45 Truro City v Billericay Town                       1-0   0-0  -> won  [Truro City v Billericay Town FT, conf 1.00] 
 not_found    15:10 UAE v Syria                                        2-1   -    -> -  [ , conf 0.00] no API-Football fixture on 2026-11-17 within 90 min of 15:10 with matching names
-final        20:45 Wales v Portugal                                   0-3   2-3  -> won  [Wales v Portugal FT, conf 1.00] 
