@@ -1,8 +1,2 @@
-# 2026-11-17 18:25 cloud snapshot 18:12 s1
-St Kitts and Nevis v Bonaire | n=20 | xg=10
-Spennymoor Town v Chester | n=20 | xg=10
-Tonbridge Angels v Chesham United | n=20 | xg=10
-South Shields v Harborough Town | n=20 | xg=10
-Truro City v Billericay Town | n=20 | xg=10
-Spalding United v Hebburn Town | n=20 | xg=10
-Niger v Morocco | n=20 | xg=10
+# 2026-11-17 18:30 cloud snapshot 18:12 s1 (St Kitts retry)
+St. Kitts and Nevis v Bonaire | n=20 | xg=10
