@@ -1,10 +1,5 @@
-RUN 2026-11-17 10:39 local | 8 match(es)
-China v Bahrain -> out/China_v_Bahrain.txt
-Kyrgyzstan v Vietnam -> out/Kyrgyzstan_v_Vietnam.txt
-Tanzania v Nigeria -> out/Tanzania_v_Nigeria.txt
-Burundi v Zambia -> out/Burundi_v_Zambia.txt
-South Sudan v Angola -> out/South_Sudan_v_Angola.txt
-Malawi v Egypt -> out/Malawi_v_Egypt.txt
-Ethiopia v Mozambique -> out/Ethiopia_v_Mozambique.txt
-Japan v Paraguay -> out/Japan_v_Paraguay.txt
-Requests used: API-Football 201, Matchbook 0
+RUN 2026-11-17 11:24 local | 3 match(es)
+Qatar v South Korea -> out/Qatar_v_South_Korea.txt
+India v Pakistan -> out/India_v_Pakistan.txt
+Sheffield Wednesday U21 v Hull City U21 -> out/Sheffield_Wednesday_U21_v_Hull_City_U21.txt
+Requests used: API-Football 76, Matchbook 0
