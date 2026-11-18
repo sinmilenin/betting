@@ -61,22 +61,6 @@
   "note": "no API-Football fixture on 2026-11-17 within 90 min of 15:10 with matching names"
  },
  {
-  "id": "2026-11-18_al-buqaa-jerash-sc_0-1",
-  "match": "Al Buqaa v Jerash SC",
-  "cell": "0-1",
-  "state": "final",
-  "score": "1-1",
-  "result": "won",
-  "api": "Al Buqa'a v Jerash",
-  "status": "PEN",
-  "api_ko": "16:00",
-  "fixture": 1648178,
-  "swapped": false,
-  "conf": 1.0,
-  "note": "went to PEN; score is after 90 minutes",
-  "league": "Jordan, Cup"
- },
- {
   "id": "2026-11-18_aliaga-futbol-as-sebat-genclik-spor_0-1",
   "match": "Aliaga Futbol AS v Sebat Genclik Spor",
   "cell": "0-1",
