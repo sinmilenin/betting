@@ -1,8 +1,4 @@
-RUN 2026-11-18 13:39 local | 3 match(es)
-Al Buqaa v Jerash -> out/Al_Buqaa_v_Jerash.txt
-    !! Al Buqaa: No team found for "Al Buqaa".
-    !! Jerash: Ambiguous team name "Jerash".
-Valencia U19 v UCAM Murcia U19 -> out/Valencia_U19_v_UCAM_Murcia_U19.txt
-    !! UCAM Murcia U19: No team found for "UCAM Murcia U19".
-El Gouna v Al Ittihad -> out/El_Gouna_v_Al_Ittihad.txt
-Requests used: API-Football 44, Matchbook 0
+RUN 2026-11-18 13:41 local | 1 match(es)
+Al Baqaa v id:17466 -> out/Al_Baqaa_v_id_17466.txt
+    !! Al Baqaa: No team found for "Al Baqaa".
+Requests used: API-Football 15, Matchbook 0
