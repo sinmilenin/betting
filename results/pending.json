@@ -26,40 +26,5 @@
   "ko": "15:10",
   "match": "UAE v Syria",
   "cell": "2-1"
- },
- {
-  "id": "2026-11-18_america-de-cali-s-a-internacional-de-bogota_1-0",
-  "date": "2026-11-18",
-  "ko": "02:30",
-  "match": "America de Cali S.A v Internacional de Bogotá",
-  "cell": "1-0"
- },
- {
-  "id": "2026-11-18_mexico-jamaica_2-0",
-  "date": "2026-11-18",
-  "ko": "03:30",
-  "match": "Mexico v Jamaica",
-  "cell": "2-0"
- },
- {
-  "id": "2026-11-18_mexico-jamaica_3-0",
-  "date": "2026-11-18",
-  "ko": "03:30",
-  "match": "Mexico v Jamaica",
-  "cell": "3-0"
- },
- {
-  "id": "2026-11-18_mexico-jamaica_3-1",
-  "date": "2026-11-18",
-  "ko": "03:30",
-  "match": "Mexico v Jamaica",
-  "cell": "3-1"
- },
- {
-  "id": "2026-11-18_mexico-jamaica_aohw",
-  "date": "2026-11-18",
-  "ko": "03:30",
-  "match": "Mexico v Jamaica",
-  "cell": "AOHW"
  }
 ]
