@@ -1,0 +1,78 @@
+MATCH Besa Kavaje v Korabi | fetched 2026-11-18 12:12 local
+
+FORM DATA Besa Kavaje v Korabi | source API-Football | 2026-11-18 12:12 UTC
+H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
+
+=== Besa Kavajë (id 3322): last 20 finished games ===
+2026-11-07 H 1-1 v Burreli | 1st Division | ?
+2026-11-01 H 3-2 v Pogradeci | 1st Division | ?
+2026-10-28 A 0-0 v Bylis | 1st Division | Ballsh
+2026-10-24 H 2-0 v Korabi Peshkopi | 1st Division | ?
+2026-10-16 A 0-2 v FK Kukesi | 1st Division | ?
+2026-10-11 H 2-0 v Iliria Fushë-Krujë | 1st Division | ?
+2026-10-07 H 4-1 v Devolli | Cup | ?
+2026-09-20 A 1-2 v Besëlidhja Lezhë | 1st Division | ?
+2026-09-16 H 5-0 v Oriku | 1st Division | ?
+2026-09-12 A 4-0 v Sopoti Librazhd | 1st Division | ?
+2026-09-06 H 3-3 v Flamurtari | 1st Division | ?
+2026-08-12 A 4-1 v FK Kukesi | Friendlies Clubs | ?
+2026-07-25 A 1-1 v Pogradeci | Friendlies Clubs | ?
+2026-07-18 H 2-1 v Partizani | Friendlies Clubs | ?
+2026-07-08 H 1-0 v Laci | Friendlies Clubs | ?
+2026-05-11 A 0-0 v Pogradeci | Superliga | Elbasani [AET, 90-min score shown]
+2026-05-07 A 2-0 v Iliria Fushë-Krujë | Superliga | Fushe-Kruje
+2026-05-03 A 1-2 v FK Kukesi | 1st Division | ?
+2026-04-25 H 1-1 v Korabi Peshkopi | 1st Division | ?
+2026-04-19 A 2-1 v Apolonia Fier | 1st Division | Fier
+Listed home: 10 games, scored 24 (2.40), conceded 9 (0.90), blanks 0, clean sheets 4
+Listed away: 10 games, scored 15 (1.50), conceded 9 (0.90), blanks 3, clean sheets 4
+All: 20 games, scored 39 (1.95), conceded 18 (0.90), blanks 3, clean sheets 8
+
+=== Korabi Peshkopi (id 3331): last 20 finished games ===
+2026-11-08 H 0-0 v Flamurtari | 1st Division | ?
+2026-11-01 A 0-2 v Kastrioti Krujë | 1st Division | ?
+2026-10-28 H 1-0 v Burreli | 1st Division | ?
+2026-10-24 A 0-2 v Besa Kavajë | 1st Division | ?
+2026-10-17 H 0-0 v Bylis | 1st Division | ?
+2026-10-11 H 0-2 v Pogradeci | 1st Division | ?
+2026-10-07 H 2-1 v Tërbuni Pukë | Cup | ?
+2026-09-26 A 0-2 v Vora | Friendlies Clubs | ?
+2026-09-20 A 0-3 v FK Kukesi | 1st Division | ?
+2026-09-16 H 1-1 v Iliria Fushë-Krujë | 1st Division | ?
+2026-09-12 A 2-1 v Besëlidhja Lezhë | 1st Division | ?
+2026-09-06 H 1-0 v Oriku | 1st Division | ?
+2026-08-08 H 0-0 v Besëlidhja Lezhë | Friendlies Clubs | ?
+2026-05-03 H 1-1 v Iliria Fushë-Krujë | 1st Division | ?
+2026-04-25 A 1-1 v Besa Kavajë | 1st Division | ?
+2026-04-19 A 1-1 v FK Kukesi | 1st Division | ?
+2026-04-11 H 0-0 v Apolonia Fier | 1st Division | ?
+2026-04-04 A 1-2 v Lushnja | 1st Division | ?
+2026-03-29 A 4-3 v Vora | Friendlies Clubs | ?
+2026-03-22 H 1-0 v Luftëtari | 1st Division | ?
+Listed home: 11 games, scored 7 (0.64), conceded 5 (0.45), blanks 5, clean sheets 7
+Listed away: 9 games, scored 9 (1.00), conceded 17 (1.89), blanks 4, clean sheets 0
+All: 20 games, scored 16 (0.80), conceded 22 (1.10), blanks 9, clean sheets 7
+
+TABLE FOR Besa Kavajë
+LEAGUE TABLE 1st Division 2026 | 12 teams | 60 games played
+League averages per game: home 1.35, away 0.93, total 2.28
+#   team                   Pts | home P GF-GA  | away P GF-GA  | all P GF-GA
+1   Iliria Fushë-Krujë      21 |  6   8-3       |  4   5-5       | 10  13-8
+2   Besa Kavajë             18 |  6  16-6       |  4   5-4       | 10  21-10
+3   Bylis                   18 |  6   6-4       |  4   5-2       | 10  11-6
+4   FK Kukesi               18 |  6  10-3       |  4   3-7       | 10  13-10
+5   Pogradeci               17 |  5   5-3       |  5   9-5       | 10  14-8
+6   Flamurtari              16 |  4   6-1       |  6   8-7       | 10  14-8
+7   Besëlidhja Lezhë        14 |  4  12-6       |  6   1-4       | 10  13-10
+8   Korabi Peshkopi         12 |  6   3-3       |  4   2-8       | 10   5-11
+9   Kastrioti Krujë         11 |  4   5-1       |  6   6-12      | 10  11-13
+10  Burreli                  7 |  5   4-9       |  5   3-4       | 10   7-13
+11  Sopoti Librazhd          7 |  4   4-9       |  6   8-13      | 10  12-22
+12  Oriku                    2 |  4   2-8       |  6   1-10      | 10   3-18
+
+(Korabi Peshkopi: same table as Besa Kavajë, shown above)
+
+(25 API-Football requests used)
+
+----------------------------------------------------------------------
+MATCHBOOK: skipped (switched off for this run)

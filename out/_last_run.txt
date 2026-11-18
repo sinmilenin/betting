@@ -1,5 +1,4 @@
-RUN 2026-11-18 11:23 local | 2 match(es)
-Aliaga v Sebat Genclikspor -> out/Aliaga_v_Sebat_Genclikspor.txt
-Tolmin v Brinje Grosuplje -> out/Tolmin_v_Brinje_Grosuplje.txt
-    !! Brinje Grosuplje: No team found for "Brinje Grosuplje".
-Requests used: API-Football 39, Matchbook 0
+RUN 2026-11-18 12:12 local | 2 match(es)
+Besa Kavaje v Korabi -> out/Besa_Kavaje_v_Korabi.txt
+Borneo v Manila Digger -> out/Borneo_v_Manila_Digger.txt
+Requests used: API-Football 54, Matchbook 0
