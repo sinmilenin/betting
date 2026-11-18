@@ -1,7 +1,5 @@
-RUN 2026-11-18 10:39 local | 2 match(es)
-Peterborough U21 v Bolton U21 -> out/Peterborough_U21_v_Bolton_U21.txt
-    !! Peterborough U21: No team found for "Peterborough U21".
-    !! Bolton U21: No team found for "Bolton U21".
-Ankaragucu v Kırklarelispor -> out/Ankaragucu_v_K_rklarelispor.txt
-    !! Kırklarelispor: API-Football error: {"search": "The Search field may only contain alpha-numeric characters and spaces."}
-Requests used: API-Football 16, Matchbook 0
+RUN 2026-11-18 10:40 local | 2 match(es)
+Peterborough v Bolton -> out/Peterborough_v_Bolton.txt
+Ankaragucu v Kirklareli -> out/Ankaragucu_v_Kirklareli.txt
+    !! Kirklareli: No team found for "Kirklareli".
+Requests used: API-Football 42, Matchbook 0
