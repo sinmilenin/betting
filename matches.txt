@@ -1,4 +1,5 @@
-# 2026-11-18 10:12 cloud snapshot 09:56 s2 (retry names)
-Cerezo v Urawa | n=20 | xg=10
-Urawa v Cerezo | n=20 | xg=10
-Ankaragucu v Kirklareli | n=20 | xg=10
+# 2026-11-18 10:14 cloud snapshot 09:56 s2 (retry ids)
+id:22492 v Urawa Red Diamonds W | n=20 | xg=10
+Urawa Reds W v id:22492 | n=20 | xg=10
+Mitsubishi v id:22492 | n=20 | xg=10
+Ankaragucu v Kırklarelispor | n=20 | xg=10
