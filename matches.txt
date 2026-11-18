@@ -1,10 +1,3 @@
-# 2026-11-17 21:10 cloud snapshot 20:57 s2 (night)
-Argentina v Costa Rica | n=20 | xg=10
-Chile v Colombia | n=20 | xg=10
-Ecuador v Bolivia | n=20 | xg=10
-Atletico Nacional v Once Caldas | n=20 | xg=10
-Uruguay v Dominican Republic | n=20 | xg=10
-USA v Haiti | n=20 | xg=10
-El Salvador v Saint Martin | n=20 | xg=10
-America de Cali v Internacional de Bogota | n=20 | xg=10
-Mexico v Jamaica | n=20 | xg=10
+# 2026-11-18 07:55 cloud snapshot 07:42 s3 (top-20)
+Coritiba v Santos | n=20 | xg=10
+Partick Thistle W v Glasgow City W | n=20 | xg=10
