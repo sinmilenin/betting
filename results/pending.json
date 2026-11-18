@@ -26,5 +26,33 @@
   "ko": "15:10",
   "match": "UAE v Syria",
   "cell": "2-1"
+ },
+ {
+  "id": "2026-11-18_chile-colombia_0-1",
+  "date": "2026-11-18",
+  "ko": "00:00",
+  "match": "Chile v Colombia",
+  "cell": "0-1"
+ },
+ {
+  "id": "2026-11-18_ecuador-bolivia_2-1",
+  "date": "2026-11-18",
+  "ko": "00:30",
+  "match": "Ecuador v Bolivia",
+  "cell": "2-1"
+ },
+ {
+  "id": "2026-11-18_ecuador-bolivia_3-1",
+  "date": "2026-11-18",
+  "ko": "00:30",
+  "match": "Ecuador v Bolivia",
+  "cell": "3-1"
+ },
+ {
+  "id": "2026-11-18_uruguay-dominican-republic_3-0",
+  "date": "2026-11-18",
+  "ko": "00:30",
+  "match": "Uruguay v Dominican Republic",
+  "cell": "3-0"
  }
 ]
