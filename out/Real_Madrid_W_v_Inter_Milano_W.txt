@@ -1,6 +1,6 @@
-MATCH Real Madrid W v Inter W | fetched 2026-11-18 15:11 local
+MATCH Real Madrid W v Inter Milano W | fetched 2026-11-18 15:12 local
 
-FORM DATA Real Madrid W v Inter W | source API-Football | 2026-11-18 15:11 UTC
+FORM DATA Real Madrid W v Inter Milano W | source API-Football | 2026-11-18 15:12 UTC
 H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
 
 === Real Madrid W (id 15224): last 20 finished games ===
@@ -28,14 +28,30 @@ Listed home: 11 games, scored 24 (2.18), conceded 11 (1.00), blanks 1, clean she
 Listed away: 9 games, scored 20 (2.22), conceded 15 (1.67), blanks 1, clean sheets 3
 All: 20 games, scored 44 (2.20), conceded 26 (1.30), blanks 2, clean sheets 7
 
-"Inter W" matches several teams. Use id:<number> instead of the name:
-  id:12214  FC Inter Wanica (Suriname)
-  id:14020  Inter Willemstad (Curacao)
-(retrying Inter W using the opponent's country, Spain)
-"Inter W" matches several teams. Use id:<number> instead of the name:
-  id:12214  FC Inter Wanica (Suriname)
-  id:14020  Inter Willemstad (Curacao)
-!! Inter W: Ambiguous team name "Inter W".
+=== Inter Milano W (id 7533): last 20 finished games ===
+2026-11-15 H 2-3 v Juventus W | Serie A Women | Sesto San Giovanni | xG 1.37-1.79
+2026-11-10 H 1-4 v Manchester City W | UEFA Champions League Women | Varese | xG 1.19-3.45
+2026-11-07 A 3-0 v AC Milan W | Serie A Women | Milan | xG 2.78-1.41
+2026-11-01 H 3-0 v Lazio W | Serie A Women | Sesto San Giovanni | xG 2.17-0.55
+2026-10-28 A 0-6 v Lyon W | UEFA Champions League Women | Lyon | xG 0.50-3.66
+2026-10-24 A 0-0 v Napoli W | Serie A Women | Cercola | xG 1.82-0.25
+2026-10-18 H 3-0 v Parma W | Serie A Women | Sesto San Giovanni | xG 1.59-1.11
+2026-10-04 A 2-0 v Como W | Serie A Women | Seregno
+2026-10-01 A 1-1 v Austria Wien W | UEFA Champions League Women | Vienna
+2026-09-27 H 2-0 v Fiorentina W | Serie A Women | Sesto San Giovanni
+2026-09-22 H 1-0 v Häcken W | UEFA Champions League Women | Varese
+2026-09-12 A 0-1 v Juventus W | Serie A Cup Women | Biella
+2026-09-06 H 3-1 v Lazio W | Serie A Cup Women | Sesto San Giovanni
+2026-09-02 H 2-0 v VfL Wolfsburg W | UEFA Champions League Women | Sesto San Giovanni [PEN, 90-min score shown]
+2026-08-30 H 6-0 v Napoli W | Serie A Cup Women | Sesto San Giovanni
+2026-08-26 A 0-2 v VfL Wolfsburg W | UEFA Champions League Women | Wolfsburg
+2026-08-21 A 1-0 v Parma W | Serie A Cup Women | Parma
+2026-05-16 H 0-3 v Como W | Serie A Women | Sesto San Giovanni
+2026-05-10 A 3-3 v Juventus W | Serie A Women | Biella
+2026-05-02 H 1-0 v AC Milan W | Serie A Women | Sesto San Giovanni
+Listed home: 11 games, scored 24 (2.18), conceded 11 (1.00), blanks 1, clean sheets 7
+Listed away: 9 games, scored 10 (1.11), conceded 13 (1.44), blanks 4, clean sheets 4
+All: 20 games, scored 34 (1.70), conceded 24 (1.20), blanks 5, clean sheets 11
 
 TABLE FOR Real Madrid W
 LEAGUE TABLE Primera División Femenina 2026 | 16 teams | 87 games played
@@ -58,7 +74,24 @@ League averages per game: home 1.55, away 1.43, total 2.98
 15  FC Levante Badalona W    9 |  4   0-9       |  7  12-14      | 11  12-23
 16  Valencia W               7 |  5   4-7       |  6   4-12      | 11   8-19
 
-(15 API-Football requests used)
+TABLE FOR Inter Milano W
+LEAGUE TABLE Serie A Women 2026 | 12 teams | 42 games played
+League averages per game: home 1.62, away 1.52, total 3.14
+#   team                   Pts | home P GF-GA  | away P GF-GA  | all P GF-GA
+1   Roma W                  21 |  4  15-9       |  3  12-3       |  7  27-12
+2   Inter Milano W          16 |  4  10-3       |  3   5-0       |  7  15-3
+3   Como 1907 W             14 |  4   9-7       |  3   7-4       |  7  16-11
+4   Fiorentina W            13 |  3   5-3       |  4   7-4       |  7  12-7
+5   Juventus W              12 |  4   9-11      |  3   6-5       |  7  15-16
+6   Como W                   8 |  3   2-3       |  4   2-5       |  7   4-8
+7   Ternana W                8 |  4   3-7       |  3   3-5       |  7   6-12
+8   AC Milan W               7 |  3   5-4       |  4   6-12      |  7  11-16
+9   Napoli W                 6 |  3   4-5       |  4   6-6       |  7  10-11
+10  Parma W                  5 |  3   3-4       |  4   5-9       |  7   8-13
+11  Lazio W                  3 |  3   0-0       |  4   2-9       |  7   2-9
+12  Sassuolo W               3 |  4   3-8       |  3   3-6       |  7   6-14
+
+(26 API-Football requests used)
 
 ----------------------------------------------------------------------
 MATCHBOOK: skipped (switched off for this run)
