@@ -1,0 +1,53 @@
+MATCH Hiroshima Regina W v Nojima Stella W | fetched 2026-11-18 09:53 local
+
+FORM DATA Hiroshima Regina W v Nojima Stella W | source API-Football | 2026-11-18 09:53 UTC
+H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
+
+=== Nojima Stella W (id 16949): last 20 finished games ===
+2026-11-14 A 0-1 v Parceiro Nagano W | WE League | Nagano
+2026-11-07 H 1-0 v Tokyo Verdy Beleza W | WE League | Sagamihara City
+2026-10-31 A 0-0 v JEF United W | WE League | Chiba
+2026-10-24 A 0-0 v Vegalta Sendai W | WE League | Sendai
+2026-10-21 H 1-0 v Albirex Niigata W | WE League | Sagamihara
+2026-10-18 A 2-2 v Cerezo Osaka W | WE League | Osaka
+2026-09-06 H 1-4 v INAC Kobe Leonessa W | WE League | Sagamihara
+2026-08-30 A 1-5 v Urawa Reds W | WE League | Saitama
+2026-08-22 H 1-0 v Elfen Saitama W | WE League | Sagamihara
+2026-05-16 A 4-0 v Omiya Ardija Ventus W | WE League | Saitama
+2026-05-09 A 2-0 v Albirex Niigata W | WE League | Niigata
+2026-05-02 H 1-2 v Elfen Saitama W | WE League | Sagamihara
+2026-04-26 H 3-0 v Cerezo Osaka W | WE League | Sagamihara
+2026-04-04 A 2-0 v Parceiro Nagano W | WE League | Nagano
+2026-03-29 H 0-2 v Urawa Reds W | WE League | Sagamihara
+2026-02-22 H 1-2 v Vegalta Sendai W | WE League | Sagamihara
+2026-02-14 A 2-2 v JEF United W | WE League | Chiba
+2025-12-20 A 3-0 v Sanfrecce Hiroshima W | WE League | Hiroshima
+2025-11-02 A 0-5 v INAC Kobe Leonessa W | WE League | Kobe
+2025-10-22 H 0-0 v JEF United W | WE League | Sagamihara
+Listed home: 9 games, scored 9 (1.00), conceded 10 (1.11), blanks 2, clean sheets 5
+Listed away: 11 games, scored 16 (1.45), conceded 15 (1.36), blanks 4, clean sheets 6
+All: 20 games, scored 25 (1.25), conceded 25 (1.25), blanks 6, clean sheets 11
+
+!! Hiroshima Regina W: No team found for "Hiroshima Regina W".
+
+TABLE FOR Nojima Stella W
+LEAGUE TABLE WE League 2026 | 12 teams | 56 games played
+League averages per game: home 1.46, away 1.14, total 2.61
+#   team                   Pts | home P GF-GA  | away P GF-GA  | all P GF-GA
+1   Urawa Reds W            21 |  5  13-2       |  4   4-3       |  9  17-5
+2   Tokyo Verdy Beleza W    21 |  5  11-6       |  5  11-9       | 10  22-15
+3   Cerezo Osaka W          16 |  4   7-4       |  5  10-6       |  9  17-10
+4   JEF United W            16 |  6   7-5       |  4   4-6       | 10  11-11
+5   Sanfrecce Hiroshima W   15 |  5   9-5       |  4   5-6       |  9  14-11
+6   Vegalta Sendai W        13 |  5   8-8       |  5   6-8       | 10  14-16
+7   Nojima Stella W         12 |  4   4-4       |  5   3-8       |  9   7-12
+8   INAC Kobe Leonessa W    11 |  4   6-6       |  4   9-8       |  8  15-14
+9   Parceiro Nagano W       10 |  4   4-7       |  6   4-5       | 10   8-12
+10  Omiya Ardija Ventus W    9 |  5   4-6       |  4   2-6       |  9   6-12
+11  Albirex Niigata W        8 |  5   4-5       |  4   3-6       |  9   7-11
+12  Elfen Saitama W          7 |  4   5-6       |  6   3-11      | 10   8-17
+
+(14 API-Football requests used)
+
+----------------------------------------------------------------------
+MATCHBOOK: skipped (switched off for this run)

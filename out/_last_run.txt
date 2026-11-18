@@ -1,8 +1,10 @@
-RUN 2026-11-18 09:11 local | 4 match(es)
-id:22492 v Urawa Red Diamonds W -> out/id_22492_v_Urawa_Red_Diamonds_W.txt
-    !! Urawa Red Diamonds W: No team found for "Urawa Red Diamonds W".
-Urawa Reds W v id:22492 -> out/Urawa_Reds_W_v_id_22492.txt
-Mitsubishi v id:22492 -> out/Mitsubishi_v_id_22492.txt
-Ankaragucu v Kırklarelispor -> out/Ankaragucu_v_K_rklarelispor.txt
-    !! Kırklarelispor: API-Football error: {"search": "The Search field may only contain alpha-numeric characters and spaces."}
-Requests used: API-Football 68, Matchbook 0
+RUN 2026-11-18 09:53 local | 5 match(es)
+Serik Belediyespor v Erzincanspor -> out/Serik_Belediyespor_v_Erzincanspor.txt
+    !! Serik Belediyespor: No team found for "Serik Belediyespor".
+Hiroshima Regina W v Nojima Stella W -> out/Hiroshima_Regina_W_v_Nojima_Stella_W.txt
+    !! Hiroshima Regina W: No team found for "Hiroshima Regina W".
+Adana Demirspor v Kastamonuspor -> out/Adana_Demirspor_v_Kastamonuspor.txt
+Arnavutkoy Belediyespor v 68 Aksaray Belediyespor -> out/Arnavutkoy_Belediyespor_v_68_Aksaray_Bel.txt
+Ankaragucu v Kirklarelispor -> out/Ankaragucu_v_Kirklarelispor.txt
+    !! Kirklarelispor: No team found for "Kirklarelispor".
+Requests used: API-Football 89, Matchbook 0
