@@ -1,36 +1,59 @@
-MATCH Ankaragucu v Kirklareli | fetched 2026-11-18 10:40 local
+MATCH Aliaga v Sebat Genclikspor | fetched 2026-11-18 11:23 local
 
-FORM DATA Ankaragucu v Kirklareli | source API-Football | 2026-11-18 10:40 UTC
+FORM DATA Aliaga v Sebat Genclikspor | source API-Football | 2026-11-18 11:23 UTC
 H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
 
-=== Ankaragücü (id 1010): last 20 finished games ===
-2026-11-14 A 1-2 v Kütahyaspor | 2. Lig | ?
-2026-11-07 H 1-3 v  Kahramanmaraş İstiklal Spor | 2. Lig | Ankara
-2026-11-01 A 1-1 v Adana 01 FK | 2. Lig | ?
-2026-10-27 A 2-1 v Adana Adaletgucu | Türkiye Kupası | ?
-2026-10-24 H 2-2 v 1461 Trabzon FK | 2. Lig | Ankara
-2026-10-17 A 2-2 v Fethiyespor | 2. Lig | ?
-2026-10-04 H 4-1 v İnegölspor | 2. Lig | Ankara
-2026-09-27 A 4-1 v Karacabey Belediyespor | 2. Lig | ?
-2026-09-19 H 1-1 v Serik Spor | 2. Lig | Ankara
-2026-09-13 A 0-1 v 12 Bingölspor | 2. Lig | ?
-2026-09-06 H 0-1 v Ankara Demirspor | 2. Lig | Ankara
-2026-04-25 H 4-1 v İskenderunspor | 2. Lig | Ankara
-2026-04-19 A 1-1 v Erbaaspor | 2. Lig | Erbaa
-2026-04-12 H 1-2 v İnegölspor | 2. Lig | Ankara
-2026-04-08 A 3-2 v Kepezspor | 2. Lig | Antalya
-2026-04-03 H 1-0 v Bucaspor 1928 | 2. Lig | Ankara
-2026-03-29 A 3-1 v Beykoz Anadolu | 2. Lig | İstanbul
-2026-03-25 H 2-1 v Ankaraspor | 2. Lig | Ankara
-2026-03-15 A 0-2 v Muğlaspor | 2. Lig | Muğla
-2026-03-11 H 1-0 v Kastamonuspor | 2. Lig | Ankara
-Listed home: 10 games, scored 17 (1.70), conceded 12 (1.20), blanks 1, clean sheets 2
-Listed away: 10 games, scored 17 (1.70), conceded 14 (1.40), blanks 2, clean sheets 0
-All: 20 games, scored 34 (1.70), conceded 26 (1.30), blanks 3, clean sheets 2
+=== Aliağa FAŞ (id 21993): last 20 finished games ===
+2026-11-14 A 1-1 v Ankaraspor | 2. Lig | Ankara
+2026-11-07 H 0-0 v Muş Sport Klübü | 2. Lig | ?
+2026-11-01 A 2-3 v İnegöl Kafkas Gençlik | 2. Lig | ?
+2026-10-27 A 1-0 v Pazarspor | Türkiye Kupası | ?
+2026-10-24 H 2-1 v 68 Aksaray Belediyespor | 2. Lig | ?
+2026-10-18 A 2-1 v Somaspor | 2. Lig | ?
+2026-10-10 H 1-0 v Menemen FK | 2. Lig | ?
+2026-10-03 A 4-2 v Erbaaspor | 2. Lig | ?
+2026-09-27 H 2-1 v Şanlıurfaspor | 2. Lig | ?
+2026-09-19 A 0-5 v Elazığspor | 2. Lig | ?
+2026-09-13 H 2-0 v Isparta 32 Spor | 2. Lig | ?
+2026-09-06 A 4-1 v Arnavutköy Belediyespor | 2. Lig | ?
+2026-05-04 A 0-0 v Muş Sport Klübü | 2. Lig | ? [PEN, 90-min score shown]
+2026-04-30 H 1-1 v Muş Sport Klübü | 2. Lig | ?
+2026-04-25 H 0-5 v Bursaspor | 2. Lig | Aliağa
+2026-04-19 A 1-1 v 68 Aksaray Belediyespor | 2. Lig | Aksaray
+2026-04-12 H 5-0 v Menemen FK | 2. Lig | Aliağa
+2026-04-04 A 2-1 v Kırklarelispor | 2. Lig | Kırklareli
+2026-03-29 H 1-5 v Isparta 32 Spor | 2. Lig | Aliağa
+2026-03-25 A 8-1 v Adanaspor | 2. Lig | Adana
+Listed home: 9 games, scored 14 (1.56), conceded 13 (1.44), blanks 2, clean sheets 4
+Listed away: 11 games, scored 25 (2.27), conceded 16 (1.45), blanks 2, clean sheets 2
+All: 20 games, scored 39 (1.95), conceded 29 (1.45), blanks 4, clean sheets 6
 
-!! Kirklareli: No team found for "Kirklareli".
+=== Sebat Gençlikspor (id 22010): last 20 finished games ===
+2026-11-14 H 5-1 v Adana Demirspor | 2. Lig | ?
+2026-11-08 H 6-0 v Kastamonuspor | 2. Lig | ?
+2026-11-04 A 0-0 v Somaspor | 2. Lig | ?
+2026-11-01 A 3-0 v Ankaraspor | 2. Lig | Ankara
+2026-10-28 A 4-1 v İnegölspor | Türkiye Kupası | ?
+2026-10-24 H 3-2 v Muş Sport Klübü | 2. Lig | ?
+2026-10-18 A 1-2 v İnegöl Kafkas Gençlik | 2. Lig | ?
+2026-10-10 H 1-1 v 68 Aksaray Belediyespor | 2. Lig | ?
+2026-09-27 H 0-1 v Menemen FK | 2. Lig | ?
+2026-09-20 A 2-3 v Erbaaspor | 2. Lig | ?
+2026-09-13 H 3-3 v Şanlıurfaspor | 2. Lig | ?
+2026-09-06 A 1-3 v Elazığspor | 2. Lig | ?
+2026-04-18 H 2-3 v Yozgat Bld Bozokspor | 3. Lig - Group 3 | Trabzon
+2026-04-12 A 3-1 v Orduspor 1967 | 3. Lig - Group 3 | Ordu
+2026-04-05 H 3-1 v 1926 Bulancak | 3. Lig - Group 3 | Trabzon
+2026-03-28 A 0-0 v Çayelispor | 3. Lig - Group 3 | Çayeli
+2026-03-24 H 1-0 v Amasyaspor 1968 | 3. Lig - Group 3 | Trabzon
+2026-03-15 A 0-1 v Karabük İdman Yurdu | 3. Lig - Group 3 | Karabük
+2026-03-08 H 1-0 v Zonguldak Kömürspor | 3. Lig - Group 3 | Trabzon
+2026-03-01 A 0-1 v Düzcespor | 3. Lig - Group 3 | Düzce
+Listed home: 10 games, scored 25 (2.50), conceded 12 (1.20), blanks 1, clean sheets 3
+Listed away: 10 games, scored 14 (1.40), conceded 12 (1.20), blanks 4, clean sheets 3
+All: 20 games, scored 39 (1.95), conceded 24 (1.20), blanks 5, clean sheets 6
 
-TABLE FOR Ankaragücü
+TABLE FOR Aliağa FAŞ
 LEAGUE TABLE 2. Lig 2026 | 35 teams | 187 games played
 League averages per game: home 1.68, away 1.47, total 3.15
 #   team                   Pts | home P GF-GA  | away P GF-GA  | all P GF-GA
@@ -70,7 +93,9 @@ League averages per game: home 1.68, away 1.47, total 3.15
 16  İnegölspor               2 |  5   6-7       |  5   4-11      | 10  10-18 [Lig B: Red Group]
 17  İskenderunspor           0 |  5   2-8       |  5   4-19      | 10   6-27 [Lig B: Red Group]
 
-(14 API-Football requests used)
+(Sebat Gençlikspor: same table as Aliağa FAŞ, shown above)
+
+(25 API-Football requests used)
 
 ----------------------------------------------------------------------
 MATCHBOOK: skipped (switched off for this run)

@@ -1,0 +1,55 @@
+MATCH Tolmin v Brinje Grosuplje | fetched 2026-11-18 11:23 local
+
+FORM DATA Tolmin v Brinje Grosuplje | source API-Football | 2026-11-18 11:23 UTC
+H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
+
+=== Tolmin (id 6724): last 20 finished games ===
+2026-11-14 A 1-2 v Dob | 3. SNL - West | ?
+2026-11-08 A 1-0 v Vipava | 3. SNL - West | ?
+2026-11-04 A 2-0 v Litija | 3. SNL - West | ?
+2026-10-31 H 4-2 v Adria | 3. SNL - West | ?
+2026-10-24 A 3-0 v Grad | Cup | ?
+2026-10-17 H 0-1 v Šobec Lesce | 3. SNL - West | ?
+2026-10-10 A 0-2 v Zidgrad Idrija | 3. SNL - West | ?
+2026-10-03 H 2-0 v Svoboda | 3. SNL - West | ?
+2026-09-27 H 5-1 v Rudar Trbovlje | 3. SNL - West | ?
+2026-09-19 H 0-1 v Izola | 3. SNL - West | ?
+2026-09-13 A 4-2 v Žiri | 3. SNL - West | ?
+2026-09-05 H 2-2 v Škofja Loka | 3. SNL - West | ?
+2026-08-29 H 1-0 v IB 1975 Ljubljana | 3. SNL - West | ?
+2026-08-22 A 3-3 v Šencur | 3. SNL - West | ?
+2026-08-15 H 1-1 v Dob | 3. SNL - West | ?
+2026-05-23 A 3-0 v Žiri | 3. SNL - West | ?
+2026-05-16 H 0-0 v Vipava | 3. SNL - West | ?
+2026-05-09 H 3-0 v Zidgrad Idrija | 3. SNL - West | ?
+2026-05-02 A 3-1 v Škofja Loka | 3. SNL - West | ?
+2026-04-25 H 5-0 v IB 1975 Ljubljana | 3. SNL - West | ?
+Listed home: 11 games, scored 23 (2.09), conceded 8 (0.73), blanks 3, clean sheets 5
+Listed away: 9 games, scored 20 (2.22), conceded 10 (1.11), blanks 1, clean sheets 4
+All: 20 games, scored 43 (2.15), conceded 18 (0.90), blanks 4, clean sheets 9
+
+!! Brinje Grosuplje: No team found for "Brinje Grosuplje".
+
+TABLE FOR Tolmin
+LEAGUE TABLE 3. SNL - West 2026 | 14 teams | 98 games played
+League averages per game: home 2.19, away 1.31, total 3.50
+#   team                   Pts | home P GF-GA  | away P GF-GA  | all P GF-GA
+1   Izola                   40 |  7  43-5       |  7  17-6       | 14  60-11
+2   Dob                     33 |  7  19-6       |  7  16-4       | 14  35-10
+3   Zidgrad Idrija          31 |  7  17-8       |  7  12-6       | 14  29-14
+4   Litija                  24 |  8  17-7       |  6  14-6       | 14  31-13
+5   Tolmin                  24 |  8  15-8       |  6  11-9       | 14  26-17
+6   Šencur                  19 |  5  13-4       |  9  10-21      | 14  23-25
+7   Škofja Loka             18 |  7  15-11      |  7   6-20      | 14  21-31
+8   Rudar Trbovlje          17 |  6   9-7       |  8   9-30      | 14  18-37
+9   Adria                   16 |  7  22-9       |  7   8-19      | 14  30-28
+10  IB 1975 Ljubljana       15 |  7   9-9       |  7   5-16      | 14  14-25
+11  Žiri                    13 |  7   9-10      |  7   5-13      | 14  14-23
+12  Vipava                  10 |  7  11-20      |  7  11-33      | 14  22-53
+13  Šobec Lesce              8 |  8   7-13      |  6   2-11      | 14   9-24
+14  Svoboda                  8 |  7   9-11      |  7   2-21      | 14  11-32
+
+(14 API-Football requests used)
+
+----------------------------------------------------------------------
+MATCHBOOK: skipped (switched off for this run)

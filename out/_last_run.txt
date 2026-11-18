@@ -1,5 +1,5 @@
-RUN 2026-11-18 10:40 local | 2 match(es)
-Peterborough v Bolton -> out/Peterborough_v_Bolton.txt
-Ankaragucu v Kirklareli -> out/Ankaragucu_v_Kirklareli.txt
-    !! Kirklareli: No team found for "Kirklareli".
-Requests used: API-Football 42, Matchbook 0
+RUN 2026-11-18 11:23 local | 2 match(es)
+Aliaga v Sebat Genclikspor -> out/Aliaga_v_Sebat_Genclikspor.txt
+Tolmin v Brinje Grosuplje -> out/Tolmin_v_Brinje_Grosuplje.txt
+    !! Brinje Grosuplje: No team found for "Brinje Grosuplje".
+Requests used: API-Football 39, Matchbook 0
