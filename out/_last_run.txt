@@ -1,5 +1,5 @@
-RUN 2026-11-18 14:26 local | 2 match(es)
-Baqa v id:17466 -> out/Baqa_v_id_17466.txt
-    !! Baqa: No team found for "Baqa".
-Buqa v id:17466 -> out/Buqa_v_id_17466.txt
-Requests used: API-Football 37, Matchbook 0
+RUN 2026-11-18 15:11 local | 2 match(es)
+Hacken W v Manchester City W -> out/Hacken_W_v_Manchester_City_W.txt
+Real Madrid W v Inter W -> out/Real_Madrid_W_v_Inter_W.txt
+    !! Inter W: Ambiguous team name "Inter W".
+Requests used: API-Football 41, Matchbook 0

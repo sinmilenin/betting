@@ -1,0 +1,64 @@
+MATCH Real Madrid W v Inter W | fetched 2026-11-18 15:11 local
+
+FORM DATA Real Madrid W v Inter W | source API-Football | 2026-11-18 15:11 UTC
+H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
+
+=== Real Madrid W (id 15224): last 20 finished games ===
+2026-11-14 H 3-3 v FC Levante Badalona W | Primera División Femenina | Madrid
+2026-11-10 H 3-0 v Paris FC W | UEFA Champions League Women | Madrid | xG 3.60-0.68
+2026-11-07 A 1-1 v Athletic Club W | Primera División Femenina | Lezama
+2026-11-01 A 3-1 v Sevilla W | Primera División Femenina | Sevilla
+2026-10-28 A 2-2 v Bayern Munich W | UEFA Champions League Women | Munich | xG 1.33-2.65
+2026-10-24 H 3-2 v Granad. Tenerife W | Primera División Femenina | Madrid
+2026-10-17 H 3-1 v Espanyol W | Primera División Femenina | Madrid
+2026-10-04 A 0-7 v Barcelona W | Primera División Femenina | Barcelona
+2026-10-01 A 1-1 v Manchester City W | UEFA Champions League Women | Manchester
+2026-09-26 A 5-3 v Real Sociedad W | Primera División Femenina | Lasarte-Oria
+2026-09-22 H 1-1 v Paris Saint Germain W | UEFA Champions League Women | Madrid
+2026-09-19 H 3-1 v Valencia W | Primera División Femenina | Madrid
+2026-09-11 A 2-0 v Deportivo de La Coruña W | Primera División Femenina | ?
+2026-09-06 H 0-0 v Eibar W | Primera División Femenina | Madrid
+2026-09-02 H 2-1 v Ajax W | UEFA Champions League Women | Madrid
+2026-08-30 H 3-2 v Atletico Madrid W | Primera División Femenina | Madrid
+2026-08-26 A 2-0 v Ajax W | UEFA Champions League Women | Ouder-Amstel
+2026-05-31 H 2-0 v Granada | Primera División Femenina | Madrid
+2026-05-26 A 4-0 v FC Levante Badalona W | Primera División Femenina | Bunol
+2026-05-10 H 1-0 v Atletico Madrid W | Primera División Femenina | Madrid
+Listed home: 11 games, scored 24 (2.18), conceded 11 (1.00), blanks 1, clean sheets 4
+Listed away: 9 games, scored 20 (2.22), conceded 15 (1.67), blanks 1, clean sheets 3
+All: 20 games, scored 44 (2.20), conceded 26 (1.30), blanks 2, clean sheets 7
+
+"Inter W" matches several teams. Use id:<number> instead of the name:
+  id:12214  FC Inter Wanica (Suriname)
+  id:14020  Inter Willemstad (Curacao)
+(retrying Inter W using the opponent's country, Spain)
+"Inter W" matches several teams. Use id:<number> instead of the name:
+  id:12214  FC Inter Wanica (Suriname)
+  id:14020  Inter Willemstad (Curacao)
+!! Inter W: Ambiguous team name "Inter W".
+
+TABLE FOR Real Madrid W
+LEAGUE TABLE Primera División Femenina 2026 | 16 teams | 87 games played
+League averages per game: home 1.55, away 1.43, total 2.98
+#   team                   Pts | home P GF-GA  | away P GF-GA  | all P GF-GA
+1   Barcelona W             28 |  5  24-3       |  6  18-3       | 11  42-6
+2   Real Madrid W           24 |  6  15-9       |  5  11-12      | 11  26-21
+3   Atletico Madrid W       22 |  5  13-0       |  6  11-13      | 11  24-13
+4   Athletic Club W         19 |  6  10-6       |  5   7-6       | 11  17-12
+5   Granad. Tenerife W      17 |  4   5-4       |  6  12-11      | 10  17-15
+6   Madrid CFF W            17 |  6  11-7       |  5   7-17      | 11  18-24
+7   Espanyol W              15 |  5   9-6       |  6   6-8       | 11  15-14
+8   Edf Logrono W           13 |  6   7-9       |  5   7-7       | 11  14-16
+9   Real Sociedad W         13 |  6   8-14      |  5   6-5       | 11  14-19
+10  Deportivo de La Coruña  12 |  7   5-10      |  4   7-4       | 11  12-14
+11  Eibar W                 12 |  6   8-11      |  5   3-4       | 11  11-15
+12  Granada                 12 |  5   4-7       |  6   5-9       | 11   9-16
+13  Deportivo Alavés W      11 |  6   7-9       |  4   1-5       | 10   8-14
+14  Sevilla W               10 |  5   5-13      |  6   7-5       | 11  12-18
+15  FC Levante Badalona W    9 |  4   0-9       |  7  12-14      | 11  12-23
+16  Valencia W               7 |  5   4-7       |  6   4-12      | 11   8-19
+
+(15 API-Football requests used)
+
+----------------------------------------------------------------------
+MATCHBOOK: skipped (switched off for this run)
