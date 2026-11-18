@@ -1,8 +1,12 @@
-RESULTS 2026-11-18 02:35 UTC | 7 rows | dates 2026-11-15, 2026-11-16, 2026-11-17, 2026-11-18 | API-Football requests 4
+RESULTS 2026-11-18 03:35 UTC | 11 rows | dates 2026-11-15, 2026-11-16, 2026-11-17, 2026-11-18 | API-Football requests 4
 not_found    19:00 Universidad Guadalajara v Club Atletico Morelia    2-2   -    -> -  [ , conf 0.00] no API-Football fixture on 2026-11-15 within 90 min of 19:00 with matching names
 final        21:15 Cesar Vallejo Moquegua v Atletico Grau             1-0   2-1  -> won  [UCV Moquegua v Atletico Grau FT, conf 0.67] 
 not_found    11:00 FK UCSA Tarasivka v Zhytomyr 2                     0-1   -    -> -  [ , conf 0.00] no API-Football fixture on 2026-11-16 within 90 min of 11:00 with matching names
 not_found    15:10 UAE v Syria                                        2-1   -    -> -  [ , conf 0.00] no API-Football fixture on 2026-11-17 within 90 min of 15:10 with matching names
-final        00:30 Ecuador v Bolivia                                  2-1   2-0  -> won  [Ecuador v Bolivia FT, conf 1.00] 
-final        00:30 Ecuador v Bolivia                                  3-1   2-0  -> won  [Ecuador v Bolivia FT, conf 1.00] 
-final        01:00 USA v Haiti                                        3-0   2-0  -> won  [USA v Haiti FT, conf 1.00] 
+not_finished 02:30 America de Cali S.A v Internacional de Bogotá      1-0   -    -> -  [America de Cali v Internacional de Bogota 2H, conf 1.00] status 2H
+final        02:00 El Salvador v Saint Martin                         1-0   3-1  -> won  [El Salvador v Saint Martin FT, conf 1.00] 
+final        02:00 El Salvador v Saint Martin                         2-0   3-1  -> won  [El Salvador v Saint Martin FT, conf 1.00] 
+final        02:00 El Salvador v Saint Martin                         2-1   3-1  -> won  [El Salvador v Saint Martin FT, conf 1.00] 
+final        02:00 El Salvador v Saint Martin                         3-0   3-1  -> won  [El Salvador v Saint Martin FT, conf 1.00] 
+final        02:00 El Salvador v Saint Martin                         3-1   3-1  -> lost  [El Salvador v Saint Martin FT, conf 1.00] 
+final        02:00 El Salvador v Saint Martin                         AOHW  3-1  -> won  [El Salvador v Saint Martin FT, conf 1.00] 
