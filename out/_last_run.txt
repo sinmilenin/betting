@@ -1,4 +1,4 @@
-RUN 2026-11-18 13:41 local | 1 match(es)
-Al Baqaa v id:17466 -> out/Al_Baqaa_v_id_17466.txt
-    !! Al Baqaa: No team found for "Al Baqaa".
-Requests used: API-Football 15, Matchbook 0
+RUN 2026-11-18 14:24 local | 1 match(es)
+CR Temouchent v JS El Biar -> out/CR_Temouchent_v_JS_El_Biar.txt
+    !! CR Temouchent: No team found for "CR Temouchent".
+Requests used: API-Football 14, Matchbook 0
