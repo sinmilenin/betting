@@ -1,0 +1,13 @@
+MATCH Cerezo Osaka Sakai W v Urawa W | fetched 2026-11-18 09:09 local
+
+FORM DATA Cerezo Osaka Sakai W v Urawa W | source API-Football | 2026-11-18 09:09 UTC
+H/A = listed home/away (city shown so neutral venues can be spotted). Scores are after 90 minutes, team's goals first.
+
+!! Cerezo Osaka Sakai W: No team found for "Cerezo Osaka Sakai W".
+
+!! Urawa W: No team found for "Urawa W".
+
+(2 API-Football requests used)
+
+----------------------------------------------------------------------
+MATCHBOOK: skipped (switched off for this run)

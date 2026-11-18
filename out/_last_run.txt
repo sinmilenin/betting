@@ -1,4 +1,7 @@
-RUN 2026-11-18 06:54 local | 2 match(es)
-Coritiba v Santos -> out/Coritiba_v_Santos.txt
-Partick Thistle W v Glasgow City W -> out/Partick_Thistle_W_v_Glasgow_City_W.txt
-Requests used: API-Football 54, Matchbook 0
+RUN 2026-11-18 09:09 local | 2 match(es)
+Cerezo Osaka Sakai W v Urawa W -> out/Cerezo_Osaka_Sakai_W_v_Urawa_W.txt
+    !! Cerezo Osaka Sakai W: No team found for "Cerezo Osaka Sakai W".
+    !! Urawa W: No team found for "Urawa W".
+Ankaragucu v Kirklarelispor -> out/Ankaragucu_v_Kirklarelispor.txt
+    !! Kirklarelispor: No team found for "Kirklarelispor".
+Requests used: API-Football 16, Matchbook 0
