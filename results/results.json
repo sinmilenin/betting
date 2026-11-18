@@ -59,5 +59,53 @@
   "swapped": false,
   "conf": 0,
   "note": "no API-Football fixture on 2026-11-17 within 90 min of 15:10 with matching names"
+ },
+ {
+  "id": "2026-11-18_aliaga-futbol-as-sebat-genclik-spor_0-1",
+  "match": "Aliaga Futbol AS v Sebat Genclik Spor",
+  "cell": "0-1",
+  "state": "final",
+  "score": "2-0",
+  "result": "won",
+  "api": "Aliağa FAŞ v Sebat Gençlikspor",
+  "status": "FT",
+  "api_ko": "13:30",
+  "fixture": 1591387,
+  "swapped": false,
+  "conf": 0.68,
+  "note": "",
+  "league": "Turkey, 2. Lig"
+ },
+ {
+  "id": "2026-11-18_aliaga-futbol-as-sebat-genclik-spor_1-0",
+  "match": "Aliaga Futbol AS v Sebat Genclik Spor",
+  "cell": "1-0",
+  "state": "final",
+  "score": "2-0",
+  "result": "won",
+  "api": "Aliağa FAŞ v Sebat Gençlikspor",
+  "status": "FT",
+  "api_ko": "13:30",
+  "fixture": 1591387,
+  "swapped": false,
+  "conf": 0.68,
+  "note": "",
+  "league": "Turkey, 2. Lig"
+ },
+ {
+  "id": "2026-11-18_pusamania-borneo-fc-manila-digger-fc_1-0",
+  "match": "Pusamania Borneo FC v Manila Digger FC",
+  "cell": "1-0",
+  "state": "final",
+  "score": "1-0",
+  "result": "lost",
+  "api": "Pusamania Borneo v Manila Digger",
+  "status": "FT",
+  "api_ko": "13:00",
+  "fixture": 1639359,
+  "swapped": false,
+  "conf": 1.0,
+  "note": "",
+  "league": "World, ASEAN Club Championship"
  }
 ]
