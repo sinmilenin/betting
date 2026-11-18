@@ -91,21 +91,5 @@
   "conf": 0.68,
   "note": "",
   "league": "Turkey, 2. Lig"
- },
- {
-  "id": "2026-11-18_pusamania-borneo-fc-manila-digger-fc_1-0",
-  "match": "Pusamania Borneo FC v Manila Digger FC",
-  "cell": "1-0",
-  "state": "final",
-  "score": "1-0",
-  "result": "lost",
-  "api": "Pusamania Borneo v Manila Digger",
-  "status": "FT",
-  "api_ko": "13:00",
-  "fixture": 1639359,
-  "swapped": false,
-  "conf": 1.0,
-  "note": "",
-  "league": "World, ASEAN Club Championship"
  }
 ]
