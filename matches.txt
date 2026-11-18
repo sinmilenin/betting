@@ -1,3 +1,4 @@
-# 2026-11-18 10:10 cloud snapshot 09:56 s2
-Cerezo Osaka Sakai W v Urawa W | n=20 | xg=10
-Ankaragucu v Kirklarelispor | n=20 | xg=10
+# 2026-11-18 10:12 cloud snapshot 09:56 s2 (retry names)
+Cerezo v Urawa | n=20 | xg=10
+Urawa v Cerezo | n=20 | xg=10
+Ankaragucu v Kirklareli | n=20 | xg=10
