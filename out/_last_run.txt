@@ -1,4 +1,4 @@
-RUN 2026-11-18 14:24 local | 1 match(es)
-CR Temouchent v JS El Biar -> out/CR_Temouchent_v_JS_El_Biar.txt
-    !! CR Temouchent: No team found for "CR Temouchent".
+RUN 2026-11-18 14:25 local | 1 match(es)
+Témouchent v JS El Biar -> out/T_mouchent_v_JS_El_Biar.txt
+    !! Témouchent: API-Football error: {"search": "The Search field may only contain alpha-numeric characters and spaces."}
 Requests used: API-Football 14, Matchbook 0
