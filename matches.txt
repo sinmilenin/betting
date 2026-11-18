@@ -1,3 +1,3 @@
-# 2026-11-18 15:31 cloud snapshot 15:15 s1 (Al Buqaa name retry)
-Baqa v id:17466 | n=20 | xg=10
-Buqa v id:17466 | n=20 | xg=10
+# 2026-11-18 16:13 cloud snapshot 15:56 s2 (UWCL women)
+Hacken W v Manchester City W | n=20 | xg=10
+Real Madrid W v Inter W | n=20 | xg=10
