@@ -1,4 +1,2 @@
-# 2026-11-18 14:45 cloud snapshot 14:27 s4
-Al Buqaa v Jerash | n=20 | xg=10
-Valencia U19 v UCAM Murcia U19 | n=20 | xg=10
-El Gouna v Al Ittihad | n=20 | xg=10
+# 2026-11-18 14:43 cloud snapshot 14:27 s4 (retry names)
+Al Baqaa v id:17466 | n=20 | xg=10
