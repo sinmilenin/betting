@@ -1,6 +1,3 @@
-# 2026-11-18 10:55 cloud snapshot 10:42 s3
-Serik Belediyespor v Erzincanspor | n=20 | xg=10
-Hiroshima Regina W v Nojima Stella W | n=20 | xg=10
-Adana Demirspor v Kastamonuspor | n=20 | xg=10
-Arnavutkoy Belediyespor v 68 Aksaray Belediyespor | n=20 | xg=10
-Ankaragucu v Kirklarelispor | n=20 | xg=10
+# 2026-11-18 11:40 cloud snapshot 11:26 s4
+Peterborough U21 v Bolton U21 | n=20 | xg=10
+Ankaragucu v Kırklarelispor | n=20 | xg=10
