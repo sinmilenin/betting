@@ -1,3 +1,2 @@
-# 2026-11-18 16:13 cloud snapshot 15:56 s2 (UWCL women)
-Hacken W v Manchester City W | n=20 | xg=10
-Real Madrid W v Inter W | n=20 | xg=10
+# 2026-11-18 16:15 cloud snapshot 15:56 s2 (Inter W name retry)
+Real Madrid W v Inter Milano W | n=20 | xg=10
