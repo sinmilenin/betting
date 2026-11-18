@@ -1,2 +1,2 @@
-# 2026-11-18 15:25 cloud snapshot 15:15 s1
-CR Temouchent v JS El Biar | n=20 | xg=10
+# 2026-11-18 15:27 cloud snapshot 15:15 s1 (retry name)
+Témouchent v JS El Biar | n=20 | xg=10
