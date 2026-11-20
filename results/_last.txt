@@ -1,4 +1,4 @@
-RESULTS 2026-11-20 07:35 UTC | 6 rows | dates 2026-11-15, 2026-11-16, 2026-11-17, 2026-11-18 | API-Football requests 4
+RESULTS 2026-11-20 08:35 UTC | 6 rows | dates 2026-11-15, 2026-11-16, 2026-11-17, 2026-11-18 | API-Football requests 4
 not_found    19:00 Universidad Guadalajara v Club Atletico Morelia    2-2   -    -> -  [ , conf 0.00] no API-Football fixture on 2026-11-15 within 90 min of 19:00 with matching names
 final        21:15 Cesar Vallejo Moquegua v Atletico Grau             1-0   2-1  -> won  [UCV Moquegua v Atletico Grau FT, conf 0.67] 
 not_found    11:00 FK UCSA Tarasivka v Zhytomyr 2                     0-1   -    -> -  [ , conf 0.00] no API-Football fixture on 2026-11-16 within 90 min of 11:00 with matching names
