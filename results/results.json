@@ -1,20 +1,5 @@
 [
  {
-  "id": "2026-11-15_universidad-guadalajara-club-atletico-morelia_2-2",
-  "match": "Universidad Guadalajara v Club Atletico Morelia",
-  "cell": "2-2",
-  "state": "not_found",
-  "score": "",
-  "result": "",
-  "api": "",
-  "status": "",
-  "api_ko": "",
-  "fixture": null,
-  "swapped": false,
-  "conf": 0,
-  "note": "no API-Football fixture on 2026-11-15 within 90 min of 19:00 with matching names"
- },
- {
   "id": "2026-11-16_cesar-vallejo-moquegua-atletico-grau_1-0",
   "match": "Cesar Vallejo Moquegua v Atletico Grau",
   "cell": "1-0",
