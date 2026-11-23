@@ -1,4 +1,4 @@
-RESULTS 2026-11-23 02:35 UTC | 5 rows | dates 2026-11-16, 2026-11-17, 2026-11-18 | API-Football requests 3
+RESULTS 2026-11-23 03:35 UTC | 5 rows | dates 2026-11-16, 2026-11-17, 2026-11-18 | API-Football requests 3
 final        21:15 Cesar Vallejo Moquegua v Atletico Grau             1-0   2-1  -> won  [UCV Moquegua v Atletico Grau FT, conf 0.67] 
 not_found    11:00 FK UCSA Tarasivka v Zhytomyr 2                     0-1   -    -> -  [ , conf 0.00] no API-Football fixture on 2026-11-16 within 90 min of 11:00 with matching names
 not_found    15:10 UAE v Syria                                        2-1   -    -> -  [ , conf 0.00] no API-Football fixture on 2026-11-17 within 90 min of 15:10 with matching names
